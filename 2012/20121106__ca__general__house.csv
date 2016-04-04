@@ -1,0 +1,251 @@
+county,office,district,party,candidate,votes
+Butte,U.S. House,1,DEM,Jim Reed,42426
+Butte,U.S. House,1,REP,Doug La Malfa,44845
+Glenn,U.S. House,1,DEM,Jim Reed,197
+Glenn,U.S. House,1,REP,Doug La Malfa,679
+Lassen,U.S. House,1,DEM,Jim Reed,3138
+Lassen,U.S. House,1,REP,Doug La Malfa,7288
+Modoc,U.S. House,1,DEM,Jim Reed,1235
+Modoc,U.S. House,1,REP,Doug La Malfa,2703
+Nevada,U.S. House,1,DEM,Jim Reed,20255
+Nevada,U.S. House,1,REP,Doug La Malfa,22267
+Placer,U.S. House,1,DEM,Jim Reed,8017
+Placer,U.S. House,1,REP,Doug La Malfa,13691
+Plumas,U.S. House,1,DEM,Jim Reed,3989
+Plumas,U.S. House,1,REP,Doug La Malfa,5748
+Shasta,U.S. House,1,DEM,Jim Reed,29213
+Shasta,U.S. House,1,REP,Doug La Malfa,44927
+Sierra,U.S. House,1,DEM,Jim Reed,626
+Sierra,U.S. House,1,REP,Doug La Malfa,1098
+Siskiyou,U.S. House,1,DEM,Jim Reed,7644
+Siskiyou,U.S. House,1,REP,Doug La Malfa,11715
+Tehama,U.S. House,1,DEM,Jim Reed,8646
+Tehama,U.S. House,1,REP,Doug La Malfa,13866
+Del Norte,U.S. House,2,DEM,Jared Huffman,3848
+Del Norte,U.S. House,2,REP,Daniel W. Roberts,4566
+Humboldt,U.S. House,2,DEM,Jared Huffman,35129
+Humboldt,U.S. House,2,REP,Daniel W. Roberts,19614
+Marin,U.S. House,2,DEM,Jared Huffman,98470
+Marin,U.S. House,2,REP,Daniel W. Roberts,29410
+Mendocino,U.S. House,2,DEM,Jared Huffman,23400
+Mendocino,U.S. House,2,REP,Daniel W. Roberts,10589
+Sonoma,U.S. House,2,DEM,Jared Huffman,62872
+Sonoma,U.S. House,2,REP,Daniel W. Roberts,24142
+Trinity,U.S. House,2,DEM,Jared Huffman,2497
+Trinity,U.S. House,2,REP,Daniel W. Roberts,2989
+Colusa,U.S. House,3,DEM,John Garamendi,1924
+Colusa,U.S. House,3,REP,Kim Vann,3869
+Glenn,U.S. House,3,DEM,John Garamendi,2992
+Glenn,U.S. House,3,REP,Kim Vann,5063
+Lake,U.S. House,3,DEM,John Garamendi,5919
+Lake,U.S. House,3,REP,Kim Vann,4060
+Sacramento,U.S. House,3,DEM,John Garamendi,5092
+Sacramento,U.S. House,3,REP,Kim Vann,5448
+Solano,U.S. House,3,DEM,John Garamendi,53098
+Solano,U.S. House,3,REP,Kim Vann,40427
+Sutter,U.S. House,3,DEM,John Garamendi,11827
+Sutter,U.S. House,3,REP,Kim Vann,18047
+Yolo,U.S. House,3,DEM,John Garamendi,38311
+Yolo,U.S. House,3,REP,Kim Vann,18726
+Yuba,U.S. House,3,DEM,John Garamendi,7719
+Yuba,U.S. House,3,REP,Kim Vann,11446
+Alpine,U.S. House,4,DEM,Jack Uppal,374
+Alpine,U.S. House,4,REP,Tom McClintock,265
+Amador,U.S. House,4,DEM,Jack Uppal,6630
+Amador,U.S. House,4,REP,Tom McClintock,10351
+Calaveras,U.S. House,4,DEM,Jack Uppal,8339
+Calaveras,U.S. House,4,REP,Tom McClintock,12525
+El Dorado,U.S. House,4,DEM,Jack Uppal,33074
+El Dorado,U.S. House,4,REP,Tom McClintock,52256
+Fresno,U.S. House,4,DEM,Jack Uppal,1695
+Fresno,U.S. House,4,REP,Tom McClintock,5266
+Madera,U.S. House,4,DEM,Jack Uppal,4136
+Madera,U.S. House,4,REP,Tom McClintock,9090
+Mariposa,U.S. House,4,DEM,Jack Uppal,3304
+Mariposa,U.S. House,4,REP,Tom McClintock,5355
+Nevada,U.S. House,4,DEM,Jack Uppal,4137
+Nevada,U.S. House,4,REP,Tom McClintock,2467
+Placer,U.S. House,4,DEM,Jack Uppal,54601
+Placer,U.S. House,4,REP,Tom McClintock,86151
+Tuolumne,U.S. House,4,DEM,Jack Uppal,9595
+Tuolumne,U.S. House,4,REP,Tom McClintock,14077
+Contra Costa,U.S. House,5,DEM,Mike Thompson,27045
+Contra Costa,U.S. House,5,REP,Randy Loftin,8297
+Lake,U.S. House,5,DEM,Mike Thompson,8088
+Lake,U.S. House,5,REP,Randy Loftin,4304
+Napa,U.S. House,5,DEM,Mike Thompson,39765
+Napa,U.S. House,5,REP,Randy Loftin,15881
+Solano,U.S. House,5,DEM,Mike Thompson,41456
+Solano,U.S. House,5,REP,Randy Loftin,12094
+Sonoma,U.S. House,5,DEM,Mike Thompson,86518
+Sonoma,U.S. House,5,REP,Randy Loftin,28969
+Sacramento,U.S. House,6,DEM,Doris Matsui,150783
+Sacramento,U.S. House,6,REP,"Joseph Mc Cray, Sr.",48320
+Yolo,U.S. House,6,DEM,Doris Matsui,9884
+Yolo,U.S. House,6,REP,"Joseph Mc Cray, Sr.",5086
+Sacramento,U.S. House,7,DEM,Ami Bera,141241
+Sacramento,U.S. House,7,REP,Dan Lungren,132050
+Inyo,U.S. House,8,REP,Paul Cook,3357
+Inyo,U.S. House,8,REP,Gregg Imus,3521
+Mono,U.S. House,8,REP,Paul Cook,2105
+Mono,U.S. House,8,REP,Gregg Imus,1919
+San Bernardino,U.S. House,8,REP,Paul Cook,97631
+San Bernardino,U.S. House,8,REP,Gregg Imus,71111
+Contra Costa,U.S. House,9,DEM,Jerry McNerney,39162
+Contra Costa,U.S. House,9,REP,Ricky Gill,26203
+Sacramento,U.S. House,9,DEM,Jerry McNerney,3411
+Sacramento,U.S. House,9,REP,Ricky Gill,4526
+San Joaquin,U.S. House,9,DEM,Jerry McNerney,75800
+San Joaquin,U.S. House,9,REP,Ricky Gill,63975
+San Joaquin,U.S. House,10,DEM,Jose Hernandez,28442
+San Joaquin,U.S. House,10,REP,Jeff Denham,29650
+Stanislaus,U.S. House,10,DEM,Jose Hernandez,70492
+Stanislaus,U.S. House,10,REP,Jeff Denham,80615
+Contra Costa,U.S. House,11,DEM,George Miller,200743
+Contra Costa,U.S. House,11,REP,Virginia Fuller,87136
+San Francisco,U.S. House,12,DEM,Nancy Pelosi,253709
+San Francisco,U.S. House,12,REP,John Dennis,44478
+Alameda,U.S. House,13,DEM,Barbara Lee,250436
+Alameda,U.S. House,13,NPP,Marilyn M. Singleton,38146
+San Francisco,U.S. House,13,DEM,Barbara Lee,0
+San Francisco,U.S. House,13,NPP,Marilyn M. Singleton,0
+San Francisco,U.S. House,14,DEM,Jackie Speier,28475
+San Francisco,U.S. House,14,REP,Deborah (Debbie) Bacigalupi,6076
+San Mateo,U.S. House,14,DEM,Jackie Speier,175353
+San Mateo,U.S. House,14,REP,Deborah (Debbie) Bacigalupi,48379
+Alameda,U.S. House,15,DEM,Eric Swalwell,105258
+Alameda,U.S. House,15,DEM,Fortney Pete Stark,99645
+Contra Costa,U.S. House,15,DEM,Eric Swalwell,15130
+Contra Costa,U.S. House,15,DEM,Fortney Pete Stark,11001
+Fresno,U.S. House,16,DEM,Jim Costa,42032
+Fresno,U.S. House,16,REP,Brian Daniel Whelan,19953
+Madera,U.S. House,16,DEM,Jim Costa,10392
+Madera,U.S. House,16,REP,Brian Daniel Whelan,14785
+Merced,U.S. House,16,DEM,Jim Costa,32225
+Merced,U.S. House,16,REP,Brian Daniel Whelan,28063
+Alameda,U.S. House,17,DEM,Mike Honda,39368
+Alameda,U.S. House,17,REP,Evelyn Li,15285
+Santa Clara,U.S. House,17,DEM,Mike Honda,120024
+Santa Clara,U.S. House,17,REP,Evelyn Li,42051
+San Mateo,U.S. House,18,DEM,Anna G. Eshoo,38938
+San Mateo,U.S. House,18,REP,Dave Chapman,14631
+Santa Clara,U.S. House,18,DEM,Anna G. Eshoo,154747
+Santa Clara,U.S. House,18,REP,Dave Chapman,66963
+Santa Cruz,U.S. House,18,DEM,Anna G. Eshoo,19146
+Santa Cruz,U.S. House,18,REP,Dave Chapman,7509
+Santa Clara,U.S. House,19,DEM,Zoe Lofgren,162300
+Santa Clara,U.S. House,19,REP,Robert Murray,59313
+Monterey,U.S. House,20,DEM,Sam Farr,85364
+Monterey,U.S. House,20,REP,Jeff Taylor,36600
+San Benito,U.S. House,20,DEM,Sam Farr,11876
+San Benito,U.S. House,20,REP,Jeff Taylor,6773
+Santa Clara,U.S. House,20,DEM,Sam Farr,2984
+Santa Clara,U.S. House,20,REP,Jeff Taylor,830
+Santa Cruz,U.S. House,20,DEM,Sam Farr,72772
+Santa Cruz,U.S. House,20,REP,Jeff Taylor,16363
+Fresno,U.S. House,21,DEM,John Hernandez,16197
+Fresno,U.S. House,21,REP,David G. Valadao,23488
+Kern,U.S. House,21,DEM,John Hernandez,21861
+Kern,U.S. House,21,REP,David G. Valadao,19429
+Kings,U.S. House,21,DEM,John Hernandez,9473
+Kings,U.S. House,21,REP,David G. Valadao,21783
+Tulare,U.S. House,21,DEM,John Hernandez,1588
+Tulare,U.S. House,21,REP,David G. Valadao,2464
+Fresno,U.S. House,22,DEM,Otto Lee,54322
+Fresno,U.S. House,22,REP,Devin G. Nunes,85700
+Tulare,U.S. House,22,DEM,Otto Lee,27233
+Tulare,U.S. House,22,REP,Devin G. Nunes,46686
+Kern,U.S. House,23,REP,Kevin Mc Carthy,128912
+Kern,U.S. House,23,NPP,Terry Phillips,42988
+Los Angeles,U.S. House,23,REP,Kevin Mc Carthy,16128
+Los Angeles,U.S. House,23,NPP,Terry Phillips,8417
+Tulare,U.S. House,23,REP,Kevin Mc Carthy,13121
+Tulare,U.S. House,23,NPP,Terry Phillips,6437
+San Luis Obispo,U.S. House,24,DEM,Lois Capps,62211
+San Luis Obispo,U.S. House,24,REP,Abel Maldonado,59462
+Santa Barbara,U.S. House,24,DEM,Lois Capps,91977
+Santa Barbara,U.S. House,24,REP,Abel Maldonado,66831
+Ventura,U.S. House,24,DEM,Lois Capps,2561
+Ventura,U.S. House,24,REP,Abel Maldonado,1453
+Los Angeles,U.S. House,25,DEM,Lee C. Rogers,87023
+Los Angeles,U.S. House,25,REP,"Howard P. ""Buck"" McKeon",101773
+Ventura,U.S. House,25,DEM,Lee C. Rogers,19959
+Ventura,U.S. House,25,REP,"Howard P. ""Buck"" McKeon",27820
+Los Angeles,U.S. House,26,DEM,Julia Brownley,2074
+Los Angeles,U.S. House,26,REP,Tony Strickland,2529
+Ventura,U.S. House,26,DEM,Julia Brownley,136998
+Ventura,U.S. House,26,REP,Tony Strickland,122334
+Los Angeles,U.S. House,27,DEM,Judy Chu,147729
+Los Angeles,U.S. House,27,REP,Jack Orswell,76930
+San Bernardino,U.S. House,27,DEM,Judy Chu,6462
+San Bernardino,U.S. House,27,REP,Jack Orswell,9887
+Los Angeles,U.S. House,28,DEM,Adam Schiff,188703
+Los Angeles,U.S. House,28,REP,Phil Jennerjahn,58008
+Los Angeles,U.S. House,29,DEM,Tony Cardenas,111287
+Los Angeles,U.S. House,29,NPP,David R. Hernandez,38994
+Los Angeles,U.S. House,30,DEM,Howard L. Berman,98015
+Los Angeles,U.S. House,30,DEM,Brad Sherman,148919
+Ventura,U.S. House,30,DEM,Howard L. Berman,380
+Ventura,U.S. House,30,DEM,Brad Sherman,537
+San Bernardino,U.S. House,31,REP,Bob Dutton,72255
+San Bernardino,U.S. House,31,REP,Gary G. Miller,88964
+Los Angeles,U.S. House,32,DEM,Grace F. Napolitano,124903
+Los Angeles,U.S. House,32,REP,David L. Miller,65208
+Los Angeles,U.S. House,33,DEM,Henry A. Waxman,171860
+Los Angeles,U.S. House,33,NPP,Bill Bloomfield,146660
+Los Angeles,U.S. House,34,DEM,Xavier Becerra,120367
+Los Angeles,U.S. House,34,REP,Stephen C. Smith,20223
+Los Angeles,U.S. House,35,DEM,Joe Baca,11663
+Los Angeles,U.S. House,35,DEM,Gloria Negrete McLeod,18569
+San Bernardino,U.S. House,35,DEM,Joe Baca,51319
+San Bernardino,U.S. House,35,DEM,Gloria Negrete McLeod,61129
+Riverside,U.S. House,36,DEM,Raul Ruiz,110189
+Riverside,U.S. House,36,REP,Mary Bono Mack,97953
+Los Angeles,U.S. House,37,DEM,Karen R. Bass,207039
+Los Angeles,U.S. House,37,REP,Morgan Osborne,32541
+Los Angeles,U.S. House,38,DEM,Linda T. Sánchez,142328
+Los Angeles,U.S. House,38,REP,Benjamin Campos,66816
+Orange,U.S. House,38,DEM,Linda T. Sánchez,2952
+Orange,U.S. House,38,REP,Benjamin Campos,2991
+Los Angeles,U.S. House,39,DEM,Jay Chen,35122
+Los Angeles,U.S. House,39,REP,Ed Royce,29209
+Orange,U.S. House,39,DEM,Jay Chen,59991
+Orange,U.S. House,39,REP,Ed Royce,100221
+San Bernardino,U.S. House,39,DEM,Jay Chen,11247
+San Bernardino,U.S. House,39,REP,Ed Royce,16177
+Los Angeles,U.S. House,40,DEM,David Sanchez,51613
+Los Angeles,U.S. House,40,DEM,Lucille Roybal-Allard,73940
+Riverside,U.S. House,41,DEM,Mark Takano,103578
+Riverside,U.S. House,41,REP,John Tavaglione,72074
+Riverside,U.S. House,42,DEM,Michael Williamson,84702
+Riverside,U.S. House,42,REP,Ken Calvert,130245
+Los Angeles,U.S. House,43,DEM,Maxine Waters,143123
+Los Angeles,U.S. House,43,DEM,Bob Flores,57771
+Los Angeles,U.S. House,44,DEM,Janice Hahn,99909
+Los Angeles,U.S. House,44,DEM,Laura Richardson,65989
+Orange,U.S. House,45,DEM,Sukhee Kang,121814
+Orange,U.S. House,45,REP,John Campbell,171417
+Orange,U.S. House,46,DEM,Loretta Sanchez,95694
+Orange,U.S. House,46,REP,Jerry Hayden,54121
+Los Angeles,U.S. House,47,DEM,Alan Lowenthal,89056
+Los Angeles,U.S. House,47,REP,Gary DeLong,50320
+Orange,U.S. House,47,DEM,Alan Lowenthal,41037
+Orange,U.S. House,47,REP,Gary DeLong,49599
+Orange,U.S. House,48,DEM,Ron Varasteh,113358
+Orange,U.S. House,48,REP,Dana Rohrabacher,177144
+Orange,U.S. House,49,DEM,Jerry Tetalman,24127
+Orange,U.S. House,49,REP,Darrell Issa,47083
+San Diego,U.S. House,49,DEM,Jerry Tetalman,90766
+San Diego,U.S. House,49,REP,Darrell Issa,112642
+Riverside,U.S. House,50,DEM,David B. Secor,8787
+Riverside,U.S. House,50,REP,Duncan D. Hunter,18477
+San Diego,U.S. House,50,DEM,David B. Secor,74668
+San Diego,U.S. House,50,REP,Duncan D. Hunter,156361
+Imperial,U.S. House,51,DEM,Juan Vargas,26018
+Imperial,U.S. House,51,REP,Michael Crimmins,11720
+San Diego,U.S. House,51,DEM,Juan Vargas,87916
+San Diego,U.S. House,51,REP,Michael Crimmins,33744
+San Diego,U.S. House,52,DEM,Scott Peters,151451
+San Diego,U.S. House,52,REP,Brian Bilbray,144459
+San Diego,U.S. House,53,DEM,Susan A. Davis,164825
+San Diego,U.S. House,53,REP,Nick Popaditch,103482

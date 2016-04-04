@@ -1,0 +1,105 @@
+county,office,district,party,candidate,votes
+Alpine,State Senate,1,DEM,Julie Griffith-Flatter,359
+Alpine,State Senate,1,REP,Ted Gaines,265
+El Dorado,State Senate,1,DEM,Julie Griffith-Flatter,30012
+El Dorado,State Senate,1,REP,Ted Gaines,53863
+Lassen,State Senate,1,DEM,Julie Griffith-Flatter,2684
+Lassen,State Senate,1,REP,Ted Gaines,7665
+Modoc,State Senate,1,DEM,Julie Griffith-Flatter,967
+Modoc,State Senate,1,REP,Ted Gaines,2879
+Nevada,State Senate,1,DEM,Julie Griffith-Flatter,21893
+Nevada,State Senate,1,REP,Ted Gaines,25872
+Placer,State Senate,1,DEM,Julie Griffith-Flatter,37177
+Placer,State Senate,1,REP,Ted Gaines,67689
+Plumas,State Senate,1,DEM,Julie Griffith-Flatter,3443
+Plumas,State Senate,1,REP,Ted Gaines,6075
+Sacramento,State Senate,1,DEM,Julie Griffith-Flatter,23458
+Sacramento,State Senate,1,REP,Ted Gaines,38064
+Shasta,State Senate,1,DEM,Julie Griffith-Flatter,22672
+Shasta,State Senate,1,REP,Ted Gaines,48136
+Sierra,State Senate,1,DEM,Julie Griffith-Flatter,531
+Sierra,State Senate,1,REP,Ted Gaines,1187
+Siskiyou,State Senate,1,DEM,Julie Griffith-Flatter,6915
+Siskiyou,State Senate,1,REP,Ted Gaines,11561
+Contra Costa,State Senate,3,DEM,Lois Wolk,23226
+Contra Costa,State Senate,3,REP,Frank Miranda,12462
+Napa,State Senate,3,DEM,Lois Wolk,32920
+Napa,State Senate,3,REP,Frank Miranda,20796
+Sacramento,State Senate,3,DEM,Lois Wolk,1042
+Sacramento,State Senate,3,REP,Frank Miranda,1117
+Solano,State Senate,3,DEM,Lois Wolk,95874
+Solano,State Senate,3,REP,Frank Miranda,49833
+Sonoma,State Senate,3,DEM,Lois Wolk,40603
+Sonoma,State Senate,3,REP,Frank Miranda,18387
+Yolo,State Senate,3,DEM,Lois Wolk,39741
+Yolo,State Senate,3,REP,Frank Miranda,16438
+Sacramento,State Senate,5,DEM,Cathleen Galgiani,3506
+Sacramento,State Senate,5,REP,Bill Berryhill,4557
+San Joaquin,State Senate,5,DEM,Cathleen Galgiani,103334
+San Joaquin,State Senate,5,REP,Bill Berryhill,95510
+Stanislaus,State Senate,5,DEM,Cathleen Galgiani,35585
+Stanislaus,State Senate,5,REP,Bill Berryhill,39435
+Alameda,State Senate,7,DEM,Mark DeSaulnier,45939
+Alameda,State Senate,7,REP,Mark P. Meuser,35515
+Contra Costa,State Senate,7,DEM,Mark DeSaulnier,183166
+Contra Costa,State Senate,7,REP,Mark P. Meuser,108192
+Alameda,State Senate,9,DEM,Loni Hancock,231484
+Alameda,State Senate,9,PF,Mary Catherine McIlroy,38512
+Contra Costa,State Senate,9,DEM,Loni Hancock,69510
+Contra Costa,State Senate,9,PF,Mary Catherine McIlroy,11475
+San Francisco,State Senate,11,DEM,Mark Leno,275989
+San Francisco,State Senate,11,REP,Harmeet K. Dhillon,48455
+San Mateo,State Senate,11,DEM,Mark Leno,27252
+San Mateo,State Senate,11,REP,Harmeet K. Dhillon,6432
+San Mateo,State Senate,13,DEM,Jerry Hill,158798
+San Mateo,State Senate,13,DEM,Sally J. Lieber,60274
+Santa Clara,State Senate,13,DEM,Jerry Hill,59977
+Santa Clara,State Senate,13,DEM,Sally J. Lieber,52047
+Santa Clara,State Senate,15,DEM,Joe Coto,122345
+Santa Clara,State Senate,15,DEM,Jim Beall,160451
+Monterey,State Senate,17,DEM,Bill Monning,48978
+Monterey,State Senate,17,REP,Larry Beaman,25339
+San Luis Obispo,State Senate,17,DEM,Bill Monning,56231
+San Luis Obispo,State Senate,17,REP,Larry Beaman,60782
+Santa Clara,State Senate,17,DEM,Bill Monning,43699
+Santa Clara,State Senate,17,REP,Larry Beaman,24928
+Santa Cruz,State Senate,17,DEM,Bill Monning,87305
+Santa Cruz,State Senate,17,REP,Larry Beaman,25787
+Santa Barbara,State Senate,19,DEM,Hannah-Beth Jackson,83456
+Santa Barbara,State Senate,19,REP,Mike Stoker,72558
+Ventura,State Senate,19,DEM,Hannah-Beth Jackson,97324
+Ventura,State Senate,19,REP,Mike Stoker,71261
+Los Angeles,State Senate,21,DEM,Star Moffatt,78685
+Los Angeles,State Senate,21,REP,Steve Knight,105880
+San Bernardino,State Senate,21,DEM,Star Moffatt,34095
+San Bernardino,State Senate,21,REP,Steve Knight,47532
+Los Angeles,State Senate,23,DEM,Melissa Ruth O'Donnell,5
+Los Angeles,State Senate,23,REP,Bill Emmerson,15
+Riverside,State Senate,23,DEM,Melissa Ruth O'Donnell,40448
+Riverside,State Senate,23,REP,Bill Emmerson,56266
+San Bernardino,State Senate,23,DEM,Melissa Ruth O'Donnell,83065
+San Bernardino,State Senate,23,REP,Bill Emmerson,102764
+Los Angeles,State Senate,25,DEM,Carol Liu,200611
+Los Angeles,State Senate,25,REP,Gilbert V. Gonzales,122639
+San Bernardino,State Senate,25,DEM,Carol Liu,12516
+San Bernardino,State Senate,25,REP,Gilbert V. Gonzales,15012
+Los Angeles,State Senate,27,DEM,Fran Pavley,136053
+Los Angeles,State Senate,27,REP,Todd Zink,92092
+Ventura,State Senate,27,DEM,Fran Pavley,61704
+Ventura,State Senate,27,REP,Todd Zink,79346
+Los Angeles,State Senate,29,DEM,Greg Diamond,25427
+Los Angeles,State Senate,29,REP,"Robert ""Bob"" Huff",25146
+Orange,State Senate,29,DEM,Greg Diamond,95361
+Orange,State Senate,29,REP,"Robert ""Bob"" Huff",119884
+San Bernardino,State Senate,29,DEM,Greg Diamond,10440
+San Bernardino,State Senate,29,REP,"Robert ""Bob"" Huff",15882
+Riverside,State Senate,31,DEM,Richard Roth,133882
+Riverside,State Senate,31,REP,Jeff Miller,108320
+Los Angeles,State Senate,33,DEM,Ricardo Lara,158707
+Los Angeles,State Senate,33,PF,Lee H. Chauser,38671
+Los Angeles,State Senate,35,DEM,"Roderick ""Rod"" Wright",192483
+Los Angeles,State Senate,35,REP,Charlotte A. Svolos,59077
+Orange,State Senate,37,DEM,Steve Young,160595
+Orange,State Senate,37,REP,Mimi Walters,213086
+San Diego,State Senate,39,DEM,Marty Block,221012
+San Diego,State Senate,39,REP,George Plescia,157305
