@@ -1,0 +1,349 @@
+county,office,district,party,candidate,votes
+Alameda,Controller,,DEM,John Chiang,270660
+Alameda,Controller,,REP,Tony Strickland,82330
+Alameda,Controller,,AI,Warren Mark Campbell,3652
+Alameda,Controller,,GRN,Laura Wells,20048
+Alameda,Controller,,LIB,Donna Tello,7401
+Alameda,Controller,,PF,Elizabeth Cervantes Barron,7448
+Alpine,Controller,,DEM,John Chiang,238
+Alpine,Controller,,REP,Tony Strickland,203
+Alpine,Controller,,AI,Warren Mark Campbell,8
+Alpine,Controller,,GRN,Laura Wells,23
+Alpine,Controller,,LIB,Donna Tello,17
+Alpine,Controller,,PF,Elizabeth Cervantes Barron,12
+Amador,Controller,,DEM,John Chiang,5860
+Amador,Controller,,REP,Tony Strickland,7649
+Amador,Controller,,AI,Warren Mark Campbell,239
+Amador,Controller,,GRN,Laura Wells,405
+Amador,Controller,,LIB,Donna Tello,280
+Amador,Controller,,PF,Elizabeth Cervantes Barron,166
+Butte,Controller,,DEM,John Chiang,26252
+Butte,Controller,,REP,Tony Strickland,33587
+Butte,Controller,,AI,Warren Mark Campbell,1219
+Butte,Controller,,GRN,Laura Wells,2735
+Butte,Controller,,LIB,Donna Tello,1734
+Butte,Controller,,PF,Elizabeth Cervantes Barron,1537
+Calaveras,Controller,,DEM,John Chiang,6884
+Calaveras,Controller,,REP,Tony Strickland,9010
+Calaveras,Controller,,AI,Warren Mark Campbell,271
+Calaveras,Controller,,GRN,Laura Wells,551
+Calaveras,Controller,,LIB,Donna Tello,473
+Calaveras,Controller,,PF,Elizabeth Cervantes Barron,310
+Colusa,Controller,,DEM,John Chiang,1794
+Colusa,Controller,,REP,Tony Strickland,2667
+Colusa,Controller,,AI,Warren Mark Campbell,90
+Colusa,Controller,,GRN,Laura Wells,73
+Colusa,Controller,,LIB,Donna Tello,63
+Colusa,Controller,,PF,Elizabeth Cervantes Barron,97
+Contra Costa,Controller,,DEM,John Chiang,165894
+Contra Costa,Controller,,REP,Tony Strickland,102723
+Contra Costa,Controller,,AI,Warren Mark Campbell,3522
+Contra Costa,Controller,,GRN,Laura Wells,9012
+Contra Costa,Controller,,LIB,Donna Tello,5604
+Contra Costa,Controller,,PF,Elizabeth Cervantes Barron,4642
+Del Norte,Controller,,DEM,John Chiang,2774
+Del Norte,Controller,,REP,Tony Strickland,3046
+Del Norte,Controller,,AI,Warren Mark Campbell,150
+Del Norte,Controller,,GRN,Laura Wells,225
+Del Norte,Controller,,LIB,Donna Tello,180
+Del Norte,Controller,,PF,Elizabeth Cervantes Barron,145
+El Dorado,Controller,,DEM,John Chiang,25016
+El Dorado,Controller,,REP,Tony Strickland,36005
+El Dorado,Controller,,AI,Warren Mark Campbell,715
+El Dorado,Controller,,GRN,Laura Wells,2012
+El Dorado,Controller,,LIB,Donna Tello,1449
+El Dorado,Controller,,PF,Elizabeth Cervantes Barron,710
+Fresno,Controller,,DEM,John Chiang,74781
+Fresno,Controller,,REP,Tony Strickland,83517
+Fresno,Controller,,AI,Warren Mark Campbell,1589
+Fresno,Controller,,GRN,Laura Wells,3301
+Fresno,Controller,,LIB,Donna Tello,3245
+Fresno,Controller,,PF,Elizabeth Cervantes Barron,4872
+Glenn,Controller,,DEM,John Chiang,2292
+Glenn,Controller,,REP,Tony Strickland,4388
+Glenn,Controller,,AI,Warren Mark Campbell,153
+Glenn,Controller,,GRN,Laura Wells,140
+Glenn,Controller,,LIB,Donna Tello,143
+Glenn,Controller,,PF,Elizabeth Cervantes Barron,172
+Humboldt,Controller,,DEM,John Chiang,23001
+Humboldt,Controller,,REP,Tony Strickland,16335
+Humboldt,Controller,,AI,Warren Mark Campbell,612
+Humboldt,Controller,,GRN,Laura Wells,3733
+Humboldt,Controller,,LIB,Donna Tello,1334
+Humboldt,Controller,,PF,Elizabeth Cervantes Barron,1274
+Imperial,Controller,,DEM,John Chiang,11234
+Imperial,Controller,,REP,Tony Strickland,7441
+Imperial,Controller,,AI,Warren Mark Campbell,459
+Imperial,Controller,,GRN,Laura Wells,513
+Imperial,Controller,,LIB,Donna Tello,523
+Imperial,Controller,,PF,Elizabeth Cervantes Barron,1549
+Inyo,Controller,,DEM,John Chiang,2196
+Inyo,Controller,,REP,Tony Strickland,3367
+Inyo,Controller,,AI,Warren Mark Campbell,99
+Inyo,Controller,,GRN,Laura Wells,271
+Inyo,Controller,,LIB,Donna Tello,177
+Inyo,Controller,,PF,Elizabeth Cervantes Barron,129
+Kern,Controller,,DEM,John Chiang,55538
+Kern,Controller,,REP,Tony Strickland,80558
+Kern,Controller,,AI,Warren Mark Campbell,2644
+Kern,Controller,,GRN,Laura Wells,2523
+Kern,Controller,,LIB,Donna Tello,2773
+Kern,Controller,,PF,Elizabeth Cervantes Barron,3627
+Kings,Controller,,DEM,John Chiang,8711
+Kings,Controller,,REP,Tony Strickland,12410
+Kings,Controller,,AI,Warren Mark Campbell,297
+Kings,Controller,,GRN,Laura Wells,307
+Kings,Controller,,LIB,Donna Tello,306
+Kings,Controller,,PF,Elizabeth Cervantes Barron,496
+Lake,Controller,,DEM,John Chiang,9344
+Lake,Controller,,REP,Tony Strickland,7248
+Lake,Controller,,AI,Warren Mark Campbell,346
+Lake,Controller,,GRN,Laura Wells,816
+Lake,Controller,,LIB,Donna Tello,493
+Lake,Controller,,PF,Elizabeth Cervantes Barron,600
+Lassen,Controller,,DEM,John Chiang,2624
+Lassen,Controller,,REP,Tony Strickland,4849
+Lassen,Controller,,AI,Warren Mark Campbell,180
+Lassen,Controller,,GRN,Laura Wells,298
+Lassen,Controller,,LIB,Donna Tello,267
+Lassen,Controller,,PF,Elizabeth Cervantes Barron,163
+Los Angeles,Controller,,DEM,John Chiang,1089306
+Los Angeles,Controller,,REP,Tony Strickland,621387
+Los Angeles,Controller,,AI,Warren Mark Campbell,23669
+Los Angeles,Controller,,GRN,Laura Wells,53797
+Los Angeles,Controller,,LIB,Donna Tello,41583
+Los Angeles,Controller,,PF,Elizabeth Cervantes Barron,63723
+Madera,Controller,,DEM,John Chiang,10844
+Madera,Controller,,REP,Tony Strickland,16498
+Madera,Controller,,AI,Warren Mark Campbell,412
+Madera,Controller,,GRN,Laura Wells,554
+Madera,Controller,,LIB,Donna Tello,520
+Madera,Controller,,PF,Elizabeth Cervantes Barron,691
+Marin,Controller,,DEM,John Chiang,64585
+Marin,Controller,,REP,Tony Strickland,26160
+Marin,Controller,,AI,Warren Mark Campbell,549
+Marin,Controller,,GRN,Laura Wells,4952
+Marin,Controller,,LIB,Donna Tello,2282
+Marin,Controller,,PF,Elizabeth Cervantes Barron,1540
+Mariposa,Controller,,DEM,John Chiang,2989
+Mariposa,Controller,,REP,Tony Strickland,3868
+Mariposa,Controller,,AI,Warren Mark Campbell,113
+Mariposa,Controller,,GRN,Laura Wells,237
+Mariposa,Controller,,LIB,Donna Tello,161
+Mariposa,Controller,,PF,Elizabeth Cervantes Barron,109
+Mendocino,Controller,,DEM,John Chiang,16264
+Mendocino,Controller,,REP,Tony Strickland,8709
+Mendocino,Controller,,AI,Warren Mark Campbell,462
+Mendocino,Controller,,GRN,Laura Wells,2306
+Mendocino,Controller,,LIB,Donna Tello,924
+Mendocino,Controller,,PF,Elizabeth Cervantes Barron,933
+Merced,Controller,,DEM,John Chiang,19263
+Merced,Controller,,REP,Tony Strickland,18418
+Merced,Controller,,AI,Warren Mark Campbell,486
+Merced,Controller,,GRN,Laura Wells,707
+Merced,Controller,,LIB,Donna Tello,772
+Merced,Controller,,PF,Elizabeth Cervantes Barron,1281
+Modoc,Controller,,DEM,John Chiang,1014
+Modoc,Controller,,REP,Tony Strickland,2184
+Modoc,Controller,,AI,Warren Mark Campbell,74
+Modoc,Controller,,GRN,Laura Wells,118
+Modoc,Controller,,LIB,Donna Tello,136
+Modoc,Controller,,PF,Elizabeth Cervantes Barron,85
+Mono,Controller,,DEM,John Chiang,1485
+Mono,Controller,,REP,Tony Strickland,1726
+Mono,Controller,,AI,Warren Mark Campbell,42
+Mono,Controller,,GRN,Laura Wells,159
+Mono,Controller,,LIB,Donna Tello,139
+Mono,Controller,,PF,Elizabeth Cervantes Barron,85
+Monterey,Controller,,DEM,John Chiang,46017
+Monterey,Controller,,REP,Tony Strickland,30722
+Monterey,Controller,,AI,Warren Mark Campbell,1409
+Monterey,Controller,,GRN,Laura Wells,3037
+Monterey,Controller,,LIB,Donna Tello,2051
+Monterey,Controller,,PF,Elizabeth Cervantes Barron,2125
+Napa,Controller,,DEM,John Chiang,21710
+Napa,Controller,,REP,Tony Strickland,14859
+Napa,Controller,,AI,Warren Mark Campbell,544
+Napa,Controller,,GRN,Laura Wells,1700
+Napa,Controller,,LIB,Donna Tello,1025
+Napa,Controller,,PF,Elizabeth Cervantes Barron,1046
+Nevada,Controller,,DEM,John Chiang,18223
+Nevada,Controller,,REP,Tony Strickland,20062
+Nevada,Controller,,AI,Warren Mark Campbell,284
+Nevada,Controller,,GRN,Laura Wells,1767
+Nevada,Controller,,LIB,Donna Tello,966
+Nevada,Controller,,PF,Elizabeth Cervantes Barron,472
+Orange,Controller,,DEM,John Chiang,231448
+Orange,Controller,,REP,Tony Strickland,400206
+Orange,Controller,,AI,Warren Mark Campbell,10702
+Orange,Controller,,GRN,Laura Wells,18271
+Orange,Controller,,LIB,Donna Tello,18784
+Orange,Controller,,PF,Elizabeth Cervantes Barron,20999
+Placer,Controller,,DEM,John Chiang,45028
+Placer,Controller,,REP,Tony Strickland,65781
+Placer,Controller,,AI,Warren Mark Campbell,1364
+Placer,Controller,,GRN,Laura Wells,2995
+Placer,Controller,,LIB,Donna Tello,2498
+Placer,Controller,,PF,Elizabeth Cervantes Barron,1684
+Plumas,Controller,,DEM,John Chiang,3417
+Plumas,Controller,,REP,Tony Strickland,4573
+Plumas,Controller,,AI,Warren Mark Campbell,122
+Plumas,Controller,,GRN,Laura Wells,236
+Plumas,Controller,,LIB,Donna Tello,176
+Plumas,Controller,,PF,Elizabeth Cervantes Barron,121
+Riverside,Controller,,DEM,John Chiang,145586
+Riverside,Controller,,REP,Tony Strickland,193518
+Riverside,Controller,,AI,Warren Mark Campbell,6051
+Riverside,Controller,,GRN,Laura Wells,8635
+Riverside,Controller,,LIB,Donna Tello,8538
+Riverside,Controller,,PF,Elizabeth Cervantes Barron,10397
+Sacramento,Controller,,DEM,John Chiang,181890
+Sacramento,Controller,,REP,Tony Strickland,144901
+Sacramento,Controller,,AI,Warren Mark Campbell,4079
+Sacramento,Controller,,GRN,Laura Wells,8806
+Sacramento,Controller,,LIB,Donna Tello,6161
+Sacramento,Controller,,PF,Elizabeth Cervantes Barron,5539
+San Benito,Controller,,DEM,John Chiang,6479
+San Benito,Controller,,REP,Tony Strickland,5760
+San Benito,Controller,,AI,Warren Mark Campbell,253
+San Benito,Controller,,GRN,Laura Wells,471
+San Benito,Controller,,LIB,Donna Tello,379
+San Benito,Controller,,PF,Elizabeth Cervantes Barron,526
+San Bernardino,Controller,,DEM,John Chiang,134620
+San Bernardino,Controller,,REP,Tony Strickland,165498
+San Bernardino,Controller,,AI,Warren Mark Campbell,6477
+San Bernardino,Controller,,GRN,Laura Wells,8147
+San Bernardino,Controller,,LIB,Donna Tello,8384
+San Bernardino,Controller,,PF,Elizabeth Cervantes Barron,10615
+San Diego,Controller,,DEM,John Chiang,362343
+San Diego,Controller,,REP,Tony Strickland,334607
+San Diego,Controller,,AI,Warren Mark Campbell,7296
+San Diego,Controller,,GRN,Laura Wells,15917
+San Diego,Controller,,LIB,Donna Tello,16106
+San Diego,Controller,,PF,Elizabeth Cervantes Barron,13679
+San Francisco,Controller,,DEM,John Chiang,171170
+San Francisco,Controller,,REP,Tony Strickland,31265
+San Francisco,Controller,,AI,Warren Mark Campbell,1914
+San Francisco,Controller,,GRN,Laura Wells,15288
+San Francisco,Controller,,LIB,Donna Tello,5184
+San Francisco,Controller,,PF,Elizabeth Cervantes Barron,5436
+San Joaquin,Controller,,DEM,John Chiang,65203
+San Joaquin,Controller,,REP,Tony Strickland,58840
+San Joaquin,Controller,,AI,Warren Mark Campbell,1934
+San Joaquin,Controller,,GRN,Laura Wells,2949
+San Joaquin,Controller,,LIB,Donna Tello,2687
+San Joaquin,Controller,,PF,Elizabeth Cervantes Barron,3903
+San Luis Obispo,Controller,,DEM,John Chiang,36817
+San Luis Obispo,Controller,,REP,Tony Strickland,47712
+San Luis Obispo,Controller,,AI,Warren Mark Campbell,1159
+San Luis Obispo,Controller,,GRN,Laura Wells,3172
+San Luis Obispo,Controller,,LIB,Donna Tello,2180
+San Luis Obispo,Controller,,PF,Elizabeth Cervantes Barron,1507
+San Mateo,Controller,,DEM,John Chiang,120634
+San Mateo,Controller,,REP,Tony Strickland,54876
+San Mateo,Controller,,AI,Warren Mark Campbell,2088
+San Mateo,Controller,,GRN,Laura Wells,7865
+San Mateo,Controller,,LIB,Donna Tello,4374
+San Mateo,Controller,,PF,Elizabeth Cervantes Barron,5149
+Santa Barbara,Controller,,DEM,John Chiang,50931
+Santa Barbara,Controller,,REP,Tony Strickland,52228
+Santa Barbara,Controller,,AI,Warren Mark Campbell,1410
+Santa Barbara,Controller,,GRN,Laura Wells,4500
+Santa Barbara,Controller,,LIB,Donna Tello,3686
+Santa Barbara,Controller,,PF,Elizabeth Cervantes Barron,3017
+Santa Clara,Controller,,DEM,John Chiang,233076
+Santa Clara,Controller,,REP,Tony Strickland,132570
+Santa Clara,Controller,,AI,Warren Mark Campbell,5850
+Santa Clara,Controller,,GRN,Laura Wells,15887
+Santa Clara,Controller,,LIB,Donna Tello,12015
+Santa Clara,Controller,,PF,Elizabeth Cervantes Barron,9116
+Santa Cruz,Controller,,DEM,John Chiang,53633
+Santa Cruz,Controller,,REP,Tony Strickland,21362
+Santa Cruz,Controller,,AI,Warren Mark Campbell,987
+Santa Cruz,Controller,,GRN,Laura Wells,5398
+Santa Cruz,Controller,,LIB,Donna Tello,2429
+Santa Cruz,Controller,,PF,Elizabeth Cervantes Barron,2068
+Shasta,Controller,,DEM,John Chiang,18087
+Shasta,Controller,,REP,Tony Strickland,34073
+Shasta,Controller,,AI,Warren Mark Campbell,1193
+Shasta,Controller,,GRN,Laura Wells,1413
+Shasta,Controller,,LIB,Donna Tello,1431
+Shasta,Controller,,PF,Elizabeth Cervantes Barron,1020
+Sierra,Controller,,DEM,John Chiang,553
+Sierra,Controller,,REP,Tony Strickland,834
+Sierra,Controller,,AI,Warren Mark Campbell,17
+Sierra,Controller,,GRN,Laura Wells,71
+Sierra,Controller,,LIB,Donna Tello,63
+Sierra,Controller,,PF,Elizabeth Cervantes Barron,25
+Siskiyou,Controller,,DEM,John Chiang,6138
+Siskiyou,Controller,,REP,Tony Strickland,8542
+Siskiyou,Controller,,AI,Warren Mark Campbell,297
+Siskiyou,Controller,,GRN,Laura Wells,469
+Siskiyou,Controller,,LIB,Donna Tello,474
+Siskiyou,Controller,,PF,Elizabeth Cervantes Barron,254
+Solano,Controller,,DEM,John Chiang,57241
+Solano,Controller,,REP,Tony Strickland,36158
+Solano,Controller,,AI,Warren Mark Campbell,1343
+Solano,Controller,,GRN,Laura Wells,2551
+Solano,Controller,,LIB,Donna Tello,1921
+Solano,Controller,,PF,Elizabeth Cervantes Barron,1966
+Sonoma,Controller,,DEM,John Chiang,99046
+Sonoma,Controller,,REP,Tony Strickland,48153
+Sonoma,Controller,,AI,Warren Mark Campbell,1797
+Sonoma,Controller,,GRN,Laura Wells,8735
+Sonoma,Controller,,LIB,Donna Tello,4297
+Sonoma,Controller,,PF,Elizabeth Cervantes Barron,4672
+Stanislaus,Controller,,DEM,John Chiang,47275
+Stanislaus,Controller,,REP,Tony Strickland,47371
+Stanislaus,Controller,,AI,Warren Mark Campbell,1349
+Stanislaus,Controller,,GRN,Laura Wells,1713
+Stanislaus,Controller,,LIB,Donna Tello,1599
+Stanislaus,Controller,,PF,Elizabeth Cervantes Barron,2536
+Sutter,Controller,,DEM,John Chiang,8130
+Sutter,Controller,,REP,Tony Strickland,13407
+Sutter,Controller,,AI,Warren Mark Campbell,351
+Sutter,Controller,,GRN,Laura Wells,417
+Sutter,Controller,,LIB,Donna Tello,422
+Sutter,Controller,,PF,Elizabeth Cervantes Barron,505
+Tehama,Controller,,DEM,John Chiang,5691
+Tehama,Controller,,REP,Tony Strickland,10297
+Tehama,Controller,,AI,Warren Mark Campbell,410
+Tehama,Controller,,GRN,Laura Wells,424
+Tehama,Controller,,LIB,Donna Tello,406
+Tehama,Controller,,PF,Elizabeth Cervantes Barron,433
+Trinity,Controller,,DEM,John Chiang,2219
+Trinity,Controller,,REP,Tony Strickland,2554
+Trinity,Controller,,AI,Warren Mark Campbell,86
+Trinity,Controller,,GRN,Laura Wells,326
+Trinity,Controller,,LIB,Donna Tello,230
+Trinity,Controller,,PF,Elizabeth Cervantes Barron,157
+Tulare,Controller,,DEM,John Chiang,25288
+Tulare,Controller,,REP,Tony Strickland,38351
+Tulare,Controller,,AI,Warren Mark Campbell,1031
+Tulare,Controller,,GRN,Laura Wells,1109
+Tulare,Controller,,LIB,Donna Tello,908
+Tulare,Controller,,PF,Elizabeth Cervantes Barron,1268
+Tuolumne,Controller,,DEM,John Chiang,8388
+Tuolumne,Controller,,REP,Tony Strickland,10622
+Tuolumne,Controller,,AI,Warren Mark Campbell,274
+Tuolumne,Controller,,GRN,Laura Wells,592
+Tuolumne,Controller,,LIB,Donna Tello,426
+Tuolumne,Controller,,PF,Elizabeth Cervantes Barron,346
+Ventura,Controller,,DEM,John Chiang,88769
+Ventura,Controller,,REP,Tony Strickland,110132
+Ventura,Controller,,AI,Warren Mark Campbell,1944
+Ventura,Controller,,GRN,Laura Wells,5012
+Ventura,Controller,,LIB,Donna Tello,4995
+Ventura,Controller,,PF,Elizabeth Cervantes Barron,4219
+Yolo,Controller,,DEM,John Chiang,31636
+Yolo,Controller,,REP,Tony Strickland,17017
+Yolo,Controller,,AI,Warren Mark Campbell,338
+Yolo,Controller,,GRN,Laura Wells,1951
+Yolo,Controller,,LIB,Donna Tello,821
+Yolo,Controller,,PF,Elizabeth Cervantes Barron,914
+Yuba,Controller,,DEM,John Chiang,4784
+Yuba,Controller,,REP,Tony Strickland,7477
+Yuba,Controller,,AI,Warren Mark Campbell,356
+Yuba,Controller,,GRN,Laura Wells,407
+Yuba,Controller,,LIB,Donna Tello,339
+Yuba,Controller,,PF,Elizabeth Cervantes Barron,273
