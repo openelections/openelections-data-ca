@@ -1,0 +1,120 @@
+county,office,district,party,candidate,votes
+Alpine,State Senate,1,DEM,Anselmo A. Chavez,316
+Alpine,State Senate,1,REP,Dave Cox,312
+Amador,State Senate,1,DEM,Anselmo A. Chavez,6380
+Amador,State Senate,1,REP,Dave Cox,11027
+Calaveras,State Senate,1,DEM,Anselmo A. Chavez,8307
+Calaveras,State Senate,1,REP,Dave Cox,13189
+El Dorado,State Senate,1,DEM,Anselmo A. Chavez,29800
+El Dorado,State Senate,1,REP,Dave Cox,54042
+Lassen,State Senate,1,DEM,Anselmo A. Chavez,2947
+Lassen,State Senate,1,REP,Dave Cox,7816
+Modoc,State Senate,1,DEM,Anselmo A. Chavez,1101
+Modoc,State Senate,1,REP,Dave Cox,3075
+Mono,State Senate,1,DEM,Anselmo A. Chavez,2283
+Mono,State Senate,1,REP,Dave Cox,2798
+Nevada,State Senate,1,DEM,Anselmo A. Chavez,4881
+Nevada,State Senate,1,REP,Dave Cox,4124
+Placer,State Senate,1,DEM,Anselmo A. Chavez,33511
+Placer,State Senate,1,REP,Dave Cox,57260
+Plumas,State Senate,1,DEM,Anselmo A. Chavez,3342
+Plumas,State Senate,1,REP,Dave Cox,6771
+Sacramento,State Senate,1,DEM,Anselmo A. Chavez,68566
+Sacramento,State Senate,1,REP,Dave Cox,105743
+Sierra,State Senate,1,DEM,Anselmo A. Chavez,610
+Sierra,State Senate,1,REP,Dave Cox,1269
+Marin,State Senate,3,DEM,Mark Leno,98128
+Marin,State Senate,3,REP,Sashi McEntee,31780
+San Francisco,State Senate,3,DEM,Mark Leno,172432
+San Francisco,State Senate,3,REP,Sashi McEntee,26146
+Sonoma,State Senate,3,DEM,Mark Leno,56195
+Sonoma,State Senate,3,REP,Sashi McEntee,22691
+Sacramento,State Senate,5,DEM,Lois Wolk,14327
+Sacramento,State Senate,5,REP,Greg Aghazarian,8770
+San Joaquin,State Senate,5,DEM,Lois Wolk,82607
+San Joaquin,State Senate,5,REP,Greg Aghazarian,54012
+Solano,State Senate,5,DEM,Lois Wolk,56492
+Solano,State Senate,5,REP,Greg Aghazarian,29322
+Yolo,State Senate,5,DEM,Lois Wolk,53682
+Yolo,State Senate,5,REP,Greg Aghazarian,21674
+Contra Costa,State Senate,7,DEM,Mark DeSaulnier,256311
+Contra Costa,State Senate,7,REP,Christian Amsberry,128878
+Alameda,State Senate,9,DEM,Loni Hancock,251254
+Alameda,State Senate,9,REP,Claudia Bermudez,50375
+Alameda,State Senate,9,PF,Marsha Feinland,25308
+Contra Costa,State Senate,9,DEM,Loni Hancock,20971
+Contra Costa,State Senate,9,REP,Claudia Bermudez,2924
+Contra Costa,State Senate,9,PF,Marsha Feinland,1688
+San Mateo,State Senate,11,DEM,Joe Simitian,61744
+San Mateo,State Senate,11,REP,Blair Austin Nathan,20240
+Santa Clara,State Senate,11,DEM,Joe Simitian,152179
+Santa Clara,State Senate,11,REP,Blair Austin Nathan,59097
+Santa Cruz,State Senate,11,DEM,Joe Simitian,58231
+Santa Cruz,State Senate,11,REP,Blair Austin Nathan,12255
+Santa Clara,State Senate,13,DEM,Elaine Alquist,179855
+Santa Clara,State Senate,13,REP,Shane Patrick Connolly,57033
+Santa Clara,State Senate,13,LIB,John H. Webster,16659
+Monterey,State Senate,15,REP,Abel Maldonado,45535
+Monterey,State Senate,15,IND,Jim Fitzgerald,27369
+San Luis Obispo,State Senate,15,REP,Abel Maldonado,77680
+San Luis Obispo,State Senate,15,IND,Jim Fitzgerald,42793
+Santa Barbara,State Senate,15,REP,Abel Maldonado,21639
+Santa Barbara,State Senate,15,IND,Jim Fitzgerald,11748
+Santa Clara,State Senate,15,REP,Abel Maldonado,52343
+Santa Clara,State Senate,15,IND,Jim Fitzgerald,32281
+Santa Cruz,State Senate,15,REP,Abel Maldonado,25420
+Santa Cruz,State Senate,15,IND,Jim Fitzgerald,17038
+Kern,State Senate,17,DEM,Bruce David McFarland,2
+Kern,State Senate,17,REP,George Runner,2
+Los Angeles,State Senate,17,DEM,Bruce David McFarland,102172
+Los Angeles,State Senate,17,REP,George Runner,122327
+San Bernardino,State Senate,17,DEM,Bruce David McFarland,37958
+San Bernardino,State Senate,17,REP,George Runner,54078
+Ventura,State Senate,17,DEM,Bruce David McFarland,9928
+Ventura,State Senate,17,REP,George Runner,5888
+Los Angeles,State Senate,19,DEM,Hannah-Beth Jackson,12370
+Los Angeles,State Senate,19,REP,Tony Strickland,16948
+Los Angeles,State Senate,19,IND (W/I),Peter Winfield Diederich,2
+Santa Barbara,State Senate,19,DEM,Hannah-Beth Jackson,73766
+Santa Barbara,State Senate,19,REP,Tony Strickland,58703
+Santa Barbara,State Senate,19,IND (W/I),Peter Winfield Diederich,7
+Ventura,State Senate,19,DEM,Hannah-Beth Jackson,120983
+Ventura,State Senate,19,REP,Tony Strickland,132325
+Ventura,State Senate,19,IND (W/I),Peter Winfield Diederich,5
+Los Angeles,State Senate,21,DEM,Carol Liu,204737
+Los Angeles,State Senate,21,REP,Teddy Choi,77525
+Los Angeles,State Senate,21,LIB,Steve Myers,23842
+Los Angeles,State Senate,23,DEM,Fran Pavley,202029
+Los Angeles,State Senate,23,REP,Rick Montaine,81365
+Los Angeles,State Senate,23,LIB,Colin Goldman,17071
+Ventura,State Senate,23,DEM,Fran Pavley,36143
+Ventura,State Senate,23,REP,Rick Montaine,14909
+Ventura,State Senate,23,LIB,Colin Goldman,1835
+Los Angeles,State Senate,25,DEM,"Roderick ""Rod"" Wright",179654
+Los Angeles,State Senate,25,REP,Lydia A. Gutierrez,70199
+Los Angeles,State Senate,27,DEM,Alan S. Lowenthal,171668
+Los Angeles,State Senate,27,REP,Allen G. Wood,83268
+Los Angeles,State Senate,29,DEM,Joseph M. Lyons,76271
+Los Angeles,State Senate,29,REP,"Robert ""Bob"" Huff",92504
+Los Angeles,State Senate,29,LIB,Jill Stone,12554
+Orange,State Senate,29,DEM,Joseph M. Lyons,30485
+Orange,State Senate,29,REP,"Robert ""Bob"" Huff",58668
+Orange,State Senate,29,LIB,Jill Stone,5923
+San Bernardino,State Senate,29,DEM,Joseph M. Lyons,20780
+San Bernardino,State Senate,29,REP,"Robert ""Bob"" Huff",26983
+San Bernardino,State Senate,29,LIB,Jill Stone,3506
+Riverside,State Senate,31,DEM,Ameenah Fuller,52728
+Riverside,State Senate,31,REP,Bob Dutton,56502
+Riverside,State Senate,31,IND (W/I),Denise M. Sternberg,0
+San Bernardino,State Senate,31,DEM,Ameenah Fuller,78245
+San Bernardino,State Senate,31,REP,Bob Dutton,129689
+San Bernardino,State Senate,31,IND (W/I),Denise M. Sternberg,5
+Orange,State Senate,33,DEM,Gary Pritchard,157945
+Orange,State Senate,33,REP,Mimi Walters,219068
+Orange,State Senate,35,DEM,Ginny Mayer,157271
+Orange,State Senate,35,REP,Tom Harman,222149
+Riverside,State Senate,37,DEM,Arthur Bravo Guerrero,157142
+Riverside,State Senate,37,REP,John J. Benoit,190415
+San Diego,State Senate,39,DEM,Christine Kehoe,227475
+San Diego,State Senate,39,REP,Jeff Perwin,108606
+San Diego,State Senate,39,LIB,Jesse Thomas,12742
