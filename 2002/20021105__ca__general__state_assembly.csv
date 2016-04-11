@@ -1,0 +1,387 @@
+county,office,district,party,candidate,votes
+Del Norte,State Assembly,1,DEM,Patty Berg,2877
+Del Norte,State Assembly,1,REP,Rob Brown,3207
+Del Norte,State Assembly,1,GRN,Doug Thron,355
+Humboldt,State Assembly,1,DEM,Patty Berg,19707
+Humboldt,State Assembly,1,REP,Rob Brown,16936
+Humboldt,State Assembly,1,GRN,Doug Thron,5873
+Lake,State Assembly,1,DEM,Patty Berg,6746
+Lake,State Assembly,1,REP,Rob Brown,7711
+Lake,State Assembly,1,GRN,Doug Thron,996
+Mendocino,State Assembly,1,DEM,Patty Berg,11856
+Mendocino,State Assembly,1,REP,Rob Brown,8972
+Mendocino,State Assembly,1,GRN,Doug Thron,3532
+Sonoma,State Assembly,1,DEM,Patty Berg,21124
+Sonoma,State Assembly,1,REP,Rob Brown,13130
+Sonoma,State Assembly,1,GRN,Doug Thron,4217
+Trinity,State Assembly,1,DEM,Patty Berg,1755
+Trinity,State Assembly,1,REP,Rob Brown,2703
+Trinity,State Assembly,1,GRN,Doug Thron,342
+Butte,State Assembly,2,DEM,Doug Kinyon,1166
+Butte,State Assembly,2,REP,Doug La Malfa,3999
+Butte,State Assembly,2,LIB,Pete Bret,142
+Colusa,State Assembly,2,DEM,Doug Kinyon,1083
+Colusa,State Assembly,2,REP,Doug La Malfa,3039
+Colusa,State Assembly,2,LIB,Pete Bret,101
+Glenn,State Assembly,2,DEM,Doug Kinyon,1588
+Glenn,State Assembly,2,REP,Doug La Malfa,4406
+Glenn,State Assembly,2,LIB,Pete Bret,159
+Modoc,State Assembly,2,DEM,Doug Kinyon,780
+Modoc,State Assembly,2,REP,Doug La Malfa,2378
+Modoc,State Assembly,2,LIB,Pete Bret,113
+Shasta,State Assembly,2,DEM,Doug Kinyon,14360
+Shasta,State Assembly,2,REP,Doug La Malfa,31636
+Shasta,State Assembly,2,LIB,Pete Bret,1665
+Siskiyou,State Assembly,2,DEM,Doug Kinyon,4723
+Siskiyou,State Assembly,2,REP,Doug La Malfa,9721
+Siskiyou,State Assembly,2,LIB,Pete Bret,698
+Sutter,State Assembly,2,DEM,Doug Kinyon,5339
+Sutter,State Assembly,2,REP,Doug La Malfa,12610
+Sutter,State Assembly,2,LIB,Pete Bret,518
+Tehama,State Assembly,2,DEM,Doug Kinyon,4426
+Tehama,State Assembly,2,REP,Doug La Malfa,9722
+Tehama,State Assembly,2,LIB,Pete Bret,482
+Yolo,State Assembly,2,DEM,Doug Kinyon,1059
+Yolo,State Assembly,2,REP,Doug La Malfa,1850
+Yolo,State Assembly,2,LIB,Pete Bret,118
+Butte,State Assembly,3,DEM,Stuart R. King,19394
+Butte,State Assembly,3,REP,Rick Keene,31860
+Butte,State Assembly,3,LIB,Jon Petersen,2316
+Lassen,State Assembly,3,DEM,Stuart R. King,2022
+Lassen,State Assembly,3,REP,Rick Keene,5135
+Lassen,State Assembly,3,LIB,Jon Petersen,315
+Nevada,State Assembly,3,DEM,Stuart R. King,12831
+Nevada,State Assembly,3,REP,Rick Keene,22175
+Nevada,State Assembly,3,LIB,Jon Petersen,1969
+Placer,State Assembly,3,DEM,Stuart R. King,2876
+Placer,State Assembly,3,REP,Rick Keene,6184
+Placer,State Assembly,3,LIB,Jon Petersen,486
+Plumas,State Assembly,3,DEM,Stuart R. King,2213
+Plumas,State Assembly,3,REP,Rick Keene,4933
+Plumas,State Assembly,3,LIB,Jon Petersen,366
+Sierra,State Assembly,3,DEM,Stuart R. King,399
+Sierra,State Assembly,3,REP,Rick Keene,865
+Sierra,State Assembly,3,LIB,Jon Petersen,85
+Yuba,State Assembly,3,DEM,Stuart R. King,3361
+Yuba,State Assembly,3,REP,Rick Keene,7073
+Yuba,State Assembly,3,LIB,Jon Petersen,450
+Alpine,State Assembly,4,DEM,Scott Warren,222
+Alpine,State Assembly,4,REP,Tim Leslie,300
+El Dorado,State Assembly,4,DEM,Scott Warren,14205
+El Dorado,State Assembly,4,REP,Tim Leslie,27711
+Placer,State Assembly,4,DEM,Scott Warren,23749
+Placer,State Assembly,4,REP,Tim Leslie,52001
+Sacramento,State Assembly,4,DEM,Scott Warren,7546
+Sacramento,State Assembly,4,REP,Tim Leslie,11010
+Placer,State Assembly,5,DEM,Eric Ulis,1645
+Placer,State Assembly,5,REP,Dave Cox,6034
+Placer,State Assembly,5,LIB,Roberto Leibman,218
+Sacramento,State Assembly,5,DEM,Eric Ulis,35632
+Sacramento,State Assembly,5,REP,Dave Cox,73493
+Sacramento,State Assembly,5,LIB,Roberto Leibman,5118
+Marin,State Assembly,6,DEM,Joe Nation,61209
+Marin,State Assembly,6,REP,Kenneth A. Hitt,21741
+Marin,State Assembly,6,LIB,Richard Olmstead,2922
+Sonoma,State Assembly,6,DEM,Joe Nation,34948
+Sonoma,State Assembly,6,REP,Kenneth A. Hitt,15634
+Sonoma,State Assembly,6,LIB,Richard Olmstead,2501
+Napa,State Assembly,7,DEM,Patricia Wiggins,24120
+Napa,State Assembly,7,LIB,David Kozlowski,8089
+Solano,State Assembly,7,DEM,Patricia Wiggins,19639
+Solano,State Assembly,7,LIB,David Kozlowski,4838
+Sonoma,State Assembly,7,DEM,Patricia Wiggins,33642
+Sonoma,State Assembly,7,LIB,David Kozlowski,11459
+Solano,State Assembly,8,DEM,Lois Wolk,31716
+Solano,State Assembly,8,REP,John R. Munn,26466
+Yolo,State Assembly,8,DEM,Lois Wolk,25644
+Yolo,State Assembly,8,REP,John R. Munn,15016
+Sacramento,State Assembly,9,DEM,Darrell Steinberg,58883
+Sacramento,State Assembly,9,REP,David A. Pegos,22146
+Sacramento,State Assembly,9,LIB,Douglas M. Poston,3322
+Amador,State Assembly,10,DEM,Katherine E. Maestas,5010
+Amador,State Assembly,10,REP,Alan Nakanishi,7599
+El Dorado,State Assembly,10,DEM,Katherine E. Maestas,2634
+El Dorado,State Assembly,10,REP,Alan Nakanishi,6804
+Sacramento,State Assembly,10,DEM,Katherine E. Maestas,29519
+Sacramento,State Assembly,10,REP,Alan Nakanishi,38136
+San Joaquin,State Assembly,10,DEM,Katherine E. Maestas,10741
+San Joaquin,State Assembly,10,REP,Alan Nakanishi,19763
+Contra Costa,State Assembly,11,DEM,Joe Canciamilla,61969
+Contra Costa,State Assembly,11,REP,Jan Denny,29741
+Contra Costa,State Assembly,11,LIB,Frank Manske,3752
+San Francisco,State Assembly,12,DEM,Leland Yee,64967
+San Francisco,State Assembly,12,REP,Howard Epstein,12852
+San Francisco,State Assembly,12,LIB,Michael F. Denny,5216
+San Mateo,State Assembly,12,DEM,Leland Yee,7199
+San Mateo,State Assembly,12,REP,Howard Epstein,1847
+San Mateo,State Assembly,12,LIB,Michael F. Denny,769
+San Francisco,State Assembly,13,DEM,Mark Leno,89921
+San Francisco,State Assembly,13,REP,Gail E. Neira,15278
+San Francisco,State Assembly,13,LIB,Christopher R. Maden,5134
+Alameda,State Assembly,14,DEM,Loni Hancock,48371
+Contra Costa,State Assembly,14,DEM,Loni Hancock,54002
+Alameda,State Assembly,15,DEM,Donna Gerber,10403
+Alameda,State Assembly,15,REP,Guy Houston,12559
+Contra Costa,State Assembly,15,DEM,Donna Gerber,43158
+Contra Costa,State Assembly,15,REP,Guy Houston,46409
+Sacramento,State Assembly,15,DEM,Donna Gerber,8223
+Sacramento,State Assembly,15,REP,Guy Houston,12872
+San Joaquin,State Assembly,15,DEM,Donna Gerber,1565
+San Joaquin,State Assembly,15,REP,Guy Houston,1482
+Alameda,State Assembly,16,DEM,Wilma Chan,77744
+Alameda,State Assembly,16,REP,George Nugent,11634
+Alameda,State Assembly,16,LIB,Richard E. Armstrong,2976
+Merced,State Assembly,17,DEM,Barbara S. Matthews,19766
+Merced,State Assembly,17,REP,Brian McCabe,20302
+San Joaquin,State Assembly,17,DEM,Barbara S. Matthews,21723
+San Joaquin,State Assembly,17,REP,Brian McCabe,11466
+Stanislaus,State Assembly,17,DEM,Barbara S. Matthews,1015
+Stanislaus,State Assembly,17,REP,Brian McCabe,958
+Alameda,State Assembly,18,DEM,Ellen M. Corbett,60627
+Alameda,State Assembly,18,REP,Jack Hovingh,24028
+San Mateo,State Assembly,19,DEM,Gene Mullin,62972
+San Mateo,State Assembly,19,REP,David Kawas,25668
+San Mateo,State Assembly,19,GRN,Jo Chamberlain,9992
+San Mateo,State Assembly,19,LIB,Robert W. Giedt,1856
+Alameda,State Assembly,20,DEM,John A. Dutra,46199
+Alameda,State Assembly,20,REP,Daniel L. Dow,19733
+Alameda,State Assembly,20,LIB,Keith Lyon,3198
+Santa Clara,State Assembly,20,DEM,John A. Dutra,7105
+Santa Clara,State Assembly,20,REP,Daniel L. Dow,3375
+Santa Clara,State Assembly,20,LIB,Keith Lyon,465
+San Mateo,State Assembly,21,DEM,Joe Simitian,31329
+San Mateo,State Assembly,21,REP,Jim Russell,17080
+San Mateo,State Assembly,21,LIB,"Raymond M. Bell, Jr.",1978
+Santa Clara,State Assembly,21,DEM,Joe Simitian,40775
+Santa Clara,State Assembly,21,REP,Jim Russell,25728
+Santa Clara,State Assembly,21,LIB,"Raymond M. Bell, Jr.",2308
+Santa Clara,State Assembly,22,DEM,Sally J. Lieber,48543
+Santa Clara,State Assembly,22,REP,Stan Kawczynski,30555
+Santa Clara,State Assembly,22,LIB,Kennita Watson,4003
+Santa Clara,State Assembly,23,DEM,Manny Diaz,42461
+Santa Clara,State Assembly,23,GRN,"Warner S. Bloomberg, 3rd",9610
+Santa Clara,State Assembly,24,DEM,Rebecca Cohn,69992
+Calaveras,State Assembly,25,DEM,E. Denise Smith,5572
+Calaveras,State Assembly,25,REP,Dave Cogdill,8683
+Madera,State Assembly,25,DEM,E. Denise Smith,4239
+Madera,State Assembly,25,REP,Dave Cogdill,10067
+Mariposa,State Assembly,25,DEM,E. Denise Smith,2121
+Mariposa,State Assembly,25,REP,Dave Cogdill,4118
+Mono,State Assembly,25,DEM,E. Denise Smith,1151
+Mono,State Assembly,25,REP,Dave Cogdill,1743
+Stanislaus,State Assembly,25,DEM,E. Denise Smith,22296
+Stanislaus,State Assembly,25,REP,Dave Cogdill,33634
+Tuolumne,State Assembly,25,DEM,E. Denise Smith,6655
+Tuolumne,State Assembly,25,REP,Dave Cogdill,10704
+San Joaquin,State Assembly,26,DEM,Tom Hallinan,19993
+San Joaquin,State Assembly,26,REP,Greg Aghazarian,31462
+Stanislaus,State Assembly,26,DEM,Tom Hallinan,16076
+Stanislaus,State Assembly,26,REP,Greg Aghazarian,17078
+Monterey,State Assembly,27,DEM,John Laird,26702
+Monterey,State Assembly,27,REP,Chuck Carter,19155
+Monterey,State Assembly,27,LIB,Gordon Sachtjen,1377
+Santa Clara,State Assembly,27,DEM,John Laird,5799
+Santa Clara,State Assembly,27,REP,Chuck Carter,5665
+Santa Clara,State Assembly,27,LIB,Gordon Sachtjen,350
+Santa Cruz,State Assembly,27,DEM,John Laird,44711
+Santa Cruz,State Assembly,27,REP,Chuck Carter,19624
+Santa Cruz,State Assembly,27,LIB,Gordon Sachtjen,2567
+Monterey,State Assembly,28,DEM,Simon Salinas,22167
+Monterey,State Assembly,28,REP,Jane Howard,13292
+San Benito,State Assembly,28,DEM,Simon Salinas,6513
+San Benito,State Assembly,28,REP,Jane Howard,5274
+Santa Clara,State Assembly,28,DEM,Simon Salinas,8957
+Santa Clara,State Assembly,28,REP,Jane Howard,6409
+Santa Cruz,State Assembly,28,DEM,Simon Salinas,5918
+Santa Cruz,State Assembly,28,REP,Jane Howard,2970
+Fresno,State Assembly,29,DEM,Richard Martinez Jr.,32592
+Fresno,State Assembly,29,REP,Steve Samuelian,56902
+Fresno,State Assembly,29,LIB,Jonathan Zwickel,3298
+Madera,State Assembly,29,DEM,Richard Martinez Jr.,4385
+Madera,State Assembly,29,REP,Steve Samuelian,6109
+Madera,State Assembly,29,LIB,Jonathan Zwickel,315
+Tulare,State Assembly,29,DEM,Richard Martinez Jr.,0
+Tulare,State Assembly,29,REP,Steve Samuelian,0
+Tulare,State Assembly,29,LIB,Jonathan Zwickel,0
+Fresno,State Assembly,30,DEM,Nicole M. Parra,2921
+Fresno,State Assembly,30,REP,Dean Gardner,4465
+Kern,State Assembly,30,DEM,Nicole M. Parra,12201
+Kern,State Assembly,30,REP,Dean Gardner,7449
+Kings,State Assembly,30,DEM,Nicole M. Parra,9298
+Kings,State Assembly,30,REP,Dean Gardner,11941
+Tulare,State Assembly,30,DEM,Nicole M. Parra,2166
+Tulare,State Assembly,30,REP,Dean Gardner,2465
+Fresno,State Assembly,31,DEM,Sarah Reyes,38354
+Tulare,State Assembly,31,DEM,Sarah Reyes,2696
+Kern,State Assembly,32,DEM,"Michael A. Shea, III",24789
+Kern,State Assembly,32,REP,Kevin Mc Carthy,77988
+San Bernardino,State Assembly,32,DEM,"Michael A. Shea, III",123
+San Bernardino,State Assembly,32,REP,Kevin Mc Carthy,241
+San Luis Obispo,State Assembly,33,DEM,Larry Houlgate,30797
+San Luis Obispo,State Assembly,33,REP,Abel Maldonado,50556
+Santa Barbara,State Assembly,33,DEM,Larry Houlgate,14801
+Santa Barbara,State Assembly,33,REP,Abel Maldonado,26034
+Inyo,State Assembly,34,DEM,Virginia Gurrola,2097
+Inyo,State Assembly,34,REP,Bill Maze,3674
+Inyo,State Assembly,34,(W/I),Joshua Miller,35
+Kern,State Assembly,34,DEM,Virginia Gurrola,2155
+Kern,State Assembly,34,REP,Bill Maze,4438
+Kern,State Assembly,34,(W/I),Joshua Miller,0
+San Bernardino,State Assembly,34,DEM,Virginia Gurrola,3896
+San Bernardino,State Assembly,34,REP,Bill Maze,4754
+San Bernardino,State Assembly,34,(W/I),Joshua Miller,0
+Tulare,State Assembly,34,DEM,Virginia Gurrola,17523
+Tulare,State Assembly,34,REP,Bill Maze,35759
+Tulare,State Assembly,34,(W/I),Joshua Miller,186
+Santa Barbara,State Assembly,35,DEM,Hannah-Beth Jackson,43554
+Santa Barbara,State Assembly,35,REP,Bob Pohl,22817
+Santa Barbara,State Assembly,35,LIB,Craig Warren Thomas,1907
+Santa Barbara,State Assembly,35,REF,Cary Savitch,1312
+Santa Barbara,State Assembly,35,(W/I),Cristina Carreno Martin,988
+Ventura,State Assembly,35,DEM,Hannah-Beth Jackson,28840
+Ventura,State Assembly,35,REP,Bob Pohl,14209
+Ventura,State Assembly,35,LIB,Craig Warren Thomas,1144
+Ventura,State Assembly,35,REF,Cary Savitch,2515
+Ventura,State Assembly,35,(W/I),Cristina Carreno Martin,107
+Los Angeles,State Assembly,36,DEM,Robert Davenport,18325
+Los Angeles,State Assembly,36,REP,Sharon Runner,31233
+San Bernardino,State Assembly,36,DEM,Robert Davenport,7905
+San Bernardino,State Assembly,36,REP,Sharon Runner,15205
+Kern,State Assembly,37,DEM,Bruce J. Thomas,1
+Kern,State Assembly,37,REP,Tony Strickland,3
+Los Angeles,State Assembly,37,DEM,Bruce J. Thomas,6704
+Los Angeles,State Assembly,37,REP,Tony Strickland,10267
+Ventura,State Assembly,37,DEM,Bruce J. Thomas,37101
+Ventura,State Assembly,37,REP,Tony Strickland,64606
+Los Angeles,State Assembly,38,DEM,Paula L. Calderon,31964
+Los Angeles,State Assembly,38,REP,Keith Stuart Richman,52742
+Los Angeles,State Assembly,38,LIB,Karl Lembke,3304
+Ventura,State Assembly,38,DEM,Paula L. Calderon,5662
+Ventura,State Assembly,38,REP,Keith Stuart Richman,12015
+Ventura,State Assembly,38,LIB,Karl Lembke,795
+Los Angeles,State Assembly,39,DEM,Cindy Montanez,36449
+Los Angeles,State Assembly,39,REP,Ely DeLa Cruz Ayao,11449
+Los Angeles,State Assembly,40,DEM,Lloyd E. Levine,44191
+Los Angeles,State Assembly,40,REP,Connie Friedman,34038
+Los Angeles,State Assembly,41,DEM,Fran Pavley,58952
+Los Angeles,State Assembly,41,REP,Michael J. Wissot,31113
+Los Angeles,State Assembly,41,LIB,"Brian ""Max"" Kelly",3294
+Ventura,State Assembly,41,DEM,Fran Pavley,12662
+Ventura,State Assembly,41,REP,Michael J. Wissot,9595
+Ventura,State Assembly,41,LIB,"Brian ""Max"" Kelly",950
+Los Angeles,State Assembly,42,DEM,Paul Koretz,84012
+Los Angeles,State Assembly,42,REP,Jeffrey A. Bissiri,29049
+Los Angeles,State Assembly,43,DEM,Dario Frommer,46458
+Los Angeles,State Assembly,43,REP,Ingrid Geyer,26590
+Los Angeles,State Assembly,43,LIB,Sandor J. Woren,3209
+Los Angeles,State Assembly,44,DEM,Carol Liu,60570
+Los Angeles,State Assembly,44,REP,Dan O'Connell,37112
+Los Angeles,State Assembly,44,LIB,Bob New,3015
+Los Angeles,State Assembly,45,DEM,Jackie Goldberg,40341
+Los Angeles,State Assembly,45,LIB,Judy Chau Phuong Cook,6799
+Los Angeles,State Assembly,46,DEM,Fabian Nunez,27227
+Los Angeles,State Assembly,46,REP,"Manuel ""Manny"" Aldana, Jr.",4317
+Los Angeles,State Assembly,47,DEM,"Herb J. Wesson, Jr.",72792
+Los Angeles,State Assembly,47,REP,Jonathan Leonard,13395
+Los Angeles,State Assembly,47,LIB,Keith Clemens,2757
+Los Angeles,State Assembly,48,DEM,Mark Ridley-Thomas,41280
+Los Angeles,State Assembly,48,REP,Gerard Toussaint Robinson,4427
+Los Angeles,State Assembly,48,LIB,Nolayan O. Herdegen,1421
+Los Angeles,State Assembly,49,DEM,Judy Chu,37680
+Los Angeles,State Assembly,49,REP,George C. Shen,18461
+Los Angeles,State Assembly,50,DEM,Marco Antonio Firebaugh,31281
+Los Angeles,State Assembly,50,REP,Gladys O. Miller,11499
+Los Angeles,State Assembly,51,DEM,Jerome E. Horton,50191
+Los Angeles,State Assembly,52,DEM,Mervyn M. Dymally,36282
+Los Angeles,State Assembly,52,REP,Mark Anthony Iles,4244
+Los Angeles,State Assembly,53,DEM,George Nakano,69135
+Los Angeles,State Assembly,53,REP,Linda P. Wilson,43589
+Los Angeles,State Assembly,54,DEM,Alan Lowenthal,59726
+Los Angeles,State Assembly,54,REP,Cesar N. Castellanos,39714
+Los Angeles,State Assembly,55,DEM,Jenny Oropeza,48299
+Los Angeles,State Assembly,55,LIB,Guy Wilson,11693
+Los Angeles,State Assembly,55,(W/I),Margherita Underhill,525
+Los Angeles,State Assembly,56,DEM,Rudy Bermudez,33672
+Los Angeles,State Assembly,56,REP,"John W. Brantuk, Sr.",18314
+Orange,State Assembly,56,DEM,Rudy Bermudez,5847
+Orange,State Assembly,56,REP,"John W. Brantuk, Sr.",6437
+Los Angeles,State Assembly,57,DEM,Ed Chavez,39341
+Los Angeles,State Assembly,57,REP,Anne M. Moll,19677
+Los Angeles,State Assembly,57,LIB,Leland Thomas Faegre,1520
+Los Angeles,State Assembly,58,DEM,Ronald S. Calderon,44997
+Los Angeles,State Assembly,58,REP,Dave Butler,25903
+Los Angeles,State Assembly,59,DEM,Patrick D. Smith,22383
+Los Angeles,State Assembly,59,REP,Dennis L. Mountjoy,35479
+San Bernardino,State Assembly,59,DEM,Patrick D. Smith,15405
+San Bernardino,State Assembly,59,REP,Dennis L. Mountjoy,29960
+Los Angeles,State Assembly,60,DEM,Adrian Lincoln Martinez,13117
+Los Angeles,State Assembly,60,REP,"Robert ""Bob"" Pacheco",24778
+Orange,State Assembly,60,DEM,Adrian Lincoln Martinez,10756
+Orange,State Assembly,60,REP,"Robert ""Bob"" Pacheco",29643
+San Bernardino,State Assembly,60,DEM,Adrian Lincoln Martinez,4091
+San Bernardino,State Assembly,60,REP,"Robert ""Bob"" Pacheco",7839
+Los Angeles,State Assembly,61,DEM,Gloria Negrete McLeod,11602
+Los Angeles,State Assembly,61,REP,Matt Munson,4701
+San Bernardino,State Assembly,61,DEM,Gloria Negrete McLeod,19482
+San Bernardino,State Assembly,61,REP,Matt Munson,13978
+San Bernardino,State Assembly,62,DEM,John Longville,28744
+San Bernardino,State Assembly,62,REP,Ed Scott,12761
+Riverside,State Assembly,63,DEM,Doris Wallace,747
+Riverside,State Assembly,63,REP,Bob Dutton,863
+San Bernardino,State Assembly,63,DEM,Doris Wallace,31012
+San Bernardino,State Assembly,63,REP,Bob Dutton,48617
+Riverside,State Assembly,64,DEM,Robert Melsh,32118
+Riverside,State Assembly,64,REP,John J. Benoit,55351
+Riverside,State Assembly,65,DEM,Darrel R. Scholes,24890
+Riverside,State Assembly,65,REP,Russ Bogh,39189
+San Bernardino,State Assembly,65,DEM,Darrel R. Scholes,7859
+San Bernardino,State Assembly,65,REP,Russ Bogh,17409
+Riverside,State Assembly,66,DEM,David G. Brostrom,20068
+Riverside,State Assembly,66,REP,Ray Haynes,38452
+San Diego,State Assembly,66,DEM,David G. Brostrom,5862
+San Diego,State Assembly,66,REP,Ray Haynes,16753
+Orange,State Assembly,67,DEM,"William R. ""Bill"" Orton",31593
+Orange,State Assembly,67,REP,Tom Harman,69420
+Orange,State Assembly,68,DEM,Al Snook,23721
+Orange,State Assembly,68,REP,Ken Maddox,51316
+Orange,State Assembly,68,LIB,Douglas J. Scribner,3810
+Orange,State Assembly,69,DEM,Lou Correa,25392
+Orange,State Assembly,69,REP,Reuben Ross,13487
+Orange,State Assembly,70,DEM,John Kane,33449
+Orange,State Assembly,70,REP,John Campbell,73880
+Orange,State Assembly,70,LIB,Paul Studier,3215
+Orange,State Assembly,71,DEM,Bea Foster,15518
+Orange,State Assembly,71,REP,Todd Spitzer,52247
+Riverside,State Assembly,71,DEM,Bea Foster,10252
+Riverside,State Assembly,71,REP,Todd Spitzer,17517
+Orange,State Assembly,72,DEM,G. Nanjundappa,22236
+Orange,State Assembly,72,REP,Lynn Daucher,54505
+Orange,State Assembly,72,LIB,Brian Lee Cross,3300
+Orange,State Assembly,73,DEM,Kathleen Calzada,15041
+Orange,State Assembly,73,REP,"Patricia C. ""Pat"" Bates",43045
+Orange,State Assembly,73,LIB,Bob Vondruska,1959
+San Diego,State Assembly,73,DEM,Kathleen Calzada,12063
+San Diego,State Assembly,73,REP,"Patricia C. ""Pat"" Bates",21226
+San Diego,State Assembly,73,LIB,Bob Vondruska,1762
+San Diego,State Assembly,74,DEM,John Herrera,36315
+San Diego,State Assembly,74,REP,Mark Wyland,66276
+San Diego,State Assembly,74,LIB,Kristi Stone,6203
+San Diego,State Assembly,75,DEM,Connie Witt,42557
+San Diego,State Assembly,75,REP,George A. Plescia,64452
+San Diego,State Assembly,75,LIB,Richard J. Senecal,3147
+San Diego,State Assembly,76,DEM,Christine Kehoe,63682
+San Diego,State Assembly,76,REP,Bob Divine,34872
+San Diego,State Assembly,76,LIB,Sarah Baker,3580
+San Diego,State Assembly,77,DEM,Sarah Lowery,30270
+San Diego,State Assembly,77,REP,Jay La Suer,70315
+San Diego,State Assembly,77,LIB,"Virgil ""Randy"" Hall II",5247
+San Diego,State Assembly,78,DEM,Vince Hall,44247
+San Diego,State Assembly,78,REP,Shirley Horton,45826
+San Diego,State Assembly,78,LIB,Mark Menanno,2819
+San Diego,State Assembly,79,DEM,Juan Vargas,37479
+San Diego,State Assembly,79,REP,Mark W. Fast,17195
+San Diego,State Assembly,79,LIB,Joshua Castro,2268
+Imperial,State Assembly,80,DEM,"Joey Acuna, Jr.",9424
+Imperial,State Assembly,80,REP,Bonnie Garcia,10864
+Riverside,State Assembly,80,DEM,"Joey Acuna, Jr.",24333
+Riverside,State Assembly,80,REP,Bonnie Garcia,25390
