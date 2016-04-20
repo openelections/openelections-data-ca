@@ -1,0 +1,134 @@
+county,office,district,party,candidate,votes
+Humboldt,State Senate,2,DEM,Noreen Evans,27545
+Humboldt,State Senate,2,REP,Lawrence R. Wiesner,18887
+Humboldt,State Senate,2,NP (W/I),Ed Musgrave,9
+Lake,State Senate,2,DEM,Noreen Evans,10564
+Lake,State Senate,2,REP,Lawrence R. Wiesner,9307
+Lake,State Senate,2,NP (W/I),Ed Musgrave,0
+Mendocino,State Senate,2,DEM,Noreen Evans,18662
+Mendocino,State Senate,2,REP,Lawrence R. Wiesner,10388
+Mendocino,State Senate,2,NP (W/I),Ed Musgrave,0
+Napa,State Senate,2,DEM,Noreen Evans,26996
+Napa,State Senate,2,REP,Lawrence R. Wiesner,17927
+Napa,State Senate,2,NP (W/I),Ed Musgrave,0
+Solano,State Senate,2,DEM,Noreen Evans,32324
+Solano,State Senate,2,REP,Lawrence R. Wiesner,17236
+Solano,State Senate,2,NP (W/I),Ed Musgrave,0
+Sonoma,State Senate,2,DEM,Noreen Evans,74383
+Sonoma,State Senate,2,REP,Lawrence R. Wiesner,36396
+Sonoma,State Senate,2,NP (W/I),Ed Musgrave,1
+Butte,State Senate,4,DEM,Lathe Gill,26331
+Butte,State Senate,4,REP,Doug La Malfa,46637
+Colusa,State Senate,4,DEM,Lathe Gill,1370
+Colusa,State Senate,4,REP,Doug La Malfa,3676
+Del Norte,State Senate,4,DEM,Lathe Gill,3185
+Del Norte,State Senate,4,REP,Doug La Malfa,4900
+Glenn,State Senate,4,DEM,Lathe Gill,1920
+Glenn,State Senate,4,REP,Doug La Malfa,5910
+Nevada,State Senate,4,DEM,Lathe Gill,13356
+Nevada,State Senate,4,REP,Doug La Malfa,21933
+Placer,State Senate,4,DEM,Lathe Gill,15928
+Placer,State Senate,4,REP,Doug La Malfa,39546
+Shasta,State Senate,4,DEM,Lathe Gill,17686
+Shasta,State Senate,4,REP,Doug La Malfa,46082
+Siskiyou,State Senate,4,DEM,Lathe Gill,5868
+Siskiyou,State Senate,4,REP,Doug La Malfa,11829
+Sutter,State Senate,4,DEM,Lathe Gill,7425
+Sutter,State Senate,4,REP,Doug La Malfa,17411
+Tehama,State Senate,4,DEM,Lathe Gill,5431
+Tehama,State Senate,4,REP,Doug La Malfa,14452
+Trinity,State Senate,4,DEM,Lathe Gill,1978
+Trinity,State Senate,4,REP,Doug La Malfa,3372
+Yuba,State Senate,4,DEM,Lathe Gill,4982
+Yuba,State Senate,4,REP,Doug La Malfa,10491
+Sacramento,State Senate,6,DEM,Darrell Steinberg,137012
+Sacramento,State Senate,6,REP,Marcel Weiland,70724
+Sacramento,State Senate,6,LIB,Steve Torno,11236
+Sacramento,State Senate,6,PF,Lanric Hyland,5916
+San Francisco,State Senate,8,DEM,Leland Yee,87674
+San Francisco,State Senate,8,REP,Doo Sup Park,16664
+San Mateo,State Senate,8,DEM,Leland Yee,109396
+San Mateo,State Senate,8,REP,Doo Sup Park,35923
+Alameda,State Senate,10,DEM,Ellen M. Corbett,119716
+Alameda,State Senate,10,REP,Rob Maffit,47623
+Alameda,State Senate,10,AI,Ivan Chou,9469
+Santa Clara,State Senate,10,DEM,Ellen M. Corbett,20083
+Santa Clara,State Senate,10,REP,Rob Maffit,10639
+Santa Clara,State Senate,10,AI,Ivan Chou,2402
+Madera,State Senate,12,DEM,Anna Caballero,5141
+Madera,State Senate,12,REP,Anthony Cannella,6128
+Merced,State Senate,12,DEM,Anna Caballero,20576
+Merced,State Senate,12,REP,Anthony Cannella,25806
+Monterey,State Senate,12,DEM,Anna Caballero,21599
+Monterey,State Senate,12,REP,Anthony Cannella,15320
+San Benito,State Senate,12,DEM,Anna Caballero,7585
+San Benito,State Senate,12,REP,Anthony Cannella,7980
+Stanislaus,State Senate,12,DEM,Anna Caballero,32062
+Stanislaus,State Senate,12,REP,Anthony Cannella,37036
+Fresno,State Senate,14,DEM,Larry Johnson,47057
+Fresno,State Senate,14,REP,Tom Berryhill,92481
+Madera,State Senate,14,DEM,Larry Johnson,6282
+Madera,State Senate,14,REP,Tom Berryhill,15421
+Mariposa,State Senate,14,DEM,Larry Johnson,2819
+Mariposa,State Senate,14,REP,Tom Berryhill,5103
+San Joaquin,State Senate,14,DEM,Larry Johnson,16552
+San Joaquin,State Senate,14,REP,Tom Berryhill,33807
+Stanislaus,State Senate,14,DEM,Larry Johnson,16136
+Stanislaus,State Senate,14,REP,Tom Berryhill,30750
+Tuolumne,State Senate,14,DEM,Larry Johnson,7989
+Tuolumne,State Senate,14,REP,Tom Berryhill,13535
+Fresno,State Senate,16,DEM,Michael J. Rubio,34525
+Fresno,State Senate,16,REP,Tim Thiesen,18165
+Kern,State Senate,16,DEM,Michael J. Rubio,19410
+Kern,State Senate,16,REP,Tim Thiesen,6927
+Kings,State Senate,16,DEM,Michael J. Rubio,10862
+Kings,State Senate,16,REP,Tim Thiesen,15003
+Tulare,State Senate,16,DEM,Michael J. Rubio,6537
+Tulare,State Senate,16,REP,Tim Thiesen,6622
+Inyo,State Senate,18,DEM,Carter N. Pope,2684
+Inyo,State Senate,18,REP,Jean Fuller,3925
+Kern,State Senate,18,DEM,Carter N. Pope,38779
+Kern,State Senate,18,REP,Jean Fuller,101738
+San Bernardino,State Senate,18,DEM,Carter N. Pope,12030
+San Bernardino,State Senate,18,REP,Jean Fuller,17389
+Tulare,State Senate,18,DEM,Carter N. Pope,21736
+Tulare,State Senate,18,REP,Jean Fuller,42999
+Los Angeles,State Senate,20,DEM,Alex Padilla,94356
+Los Angeles,State Senate,20,REP,"Kathleen ""Suzy"" Evans",37420
+Los Angeles,State Senate,20,LIB,Adrian Galysh,6245
+Los Angeles,State Senate,22,DEM,Kevin De Leon,90557
+Los Angeles,State Senate,24,DEM,Ed Hernandez,112792
+Los Angeles,State Senate,24,REP (W/I),William Rodriguez Morrison,22
+Los Angeles,State Senate,26,DEM,"Curren D. Price, Jr.",151733
+Los Angeles,State Senate,26,REP,Nachum Shifren,25728
+Los Angeles,State Senate,26,LIB,Bob Weber,4882
+Los Angeles,State Senate,26,PF,Cindy Varela Henderson,4293
+Los Angeles,State Senate,28,DEM,Jenny Oropeza,142578
+Los Angeles,State Senate,28,REP,John S. Stammreich,87896
+Los Angeles,State Senate,28,LIB,David Ruskin,14879
+Los Angeles,State Senate,30,DEM,Ronald S. Calderon,105946
+Los Angeles,State Senate,30,REP,Warren P. Willis,48534
+Los Angeles,State Senate,32,DEM,Gloria Negrete McLeod,16469
+Los Angeles,State Senate,32,REP,Earl De Vries,6253
+San Bernardino,State Senate,32,DEM,Gloria Negrete McLeod,76222
+San Bernardino,State Senate,32,REP,Earl De Vries,37671
+Orange,State Senate,34,DEM,Lou Correa,88892
+Orange,State Senate,34,REP,Lucille Kring,46377
+Riverside,State Senate,36,DEM,Paul Clay,23774
+Riverside,State Senate,36,REP,Joel Anderson,49731
+Riverside,State Senate,36,LIB,Michael S. Metti,2706
+San Diego,State Senate,36,DEM,Paul Clay,77338
+San Diego,State Senate,36,REP,Joel Anderson,143842
+San Diego,State Senate,36,LIB,Michael S. Metti,9031
+Orange,State Senate,38,DEM,Gila Jones,10363
+Orange,State Senate,38,REP,Mark Wyland,21742
+Orange,State Senate,38,LIB,Kristi Stone,1532
+San Diego,State Senate,38,DEM,Gila Jones,86521
+San Diego,State Senate,38,REP,Mark Wyland,148027
+San Diego,State Senate,38,LIB,Kristi Stone,13653
+Imperial,State Senate,40,DEM,Juan Vargas,16198
+Imperial,State Senate,40,REP,Brian Hendry,10140
+Riverside,State Senate,40,DEM,Juan Vargas,20261
+Riverside,State Senate,40,REP,Brian Hendry,15281
+San Diego,State Senate,40,DEM,Juan Vargas,65308
+San Diego,State Senate,40,REP,Brian Hendry,43996
