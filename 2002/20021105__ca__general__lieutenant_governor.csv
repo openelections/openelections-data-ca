@@ -1,0 +1,407 @@
+county,office,district,party,candidate,votes
+Alameda,Lieutenant Governor,,DEM,Cruz M. Bustamante,217350
+Alameda,Lieutenant Governor,,REP,Bruce Mc Pherson,77471
+Alameda,Lieutenant Governor,,AI,Jim King,3022
+Alameda,Lieutenant Governor,,GRN,Donna J. Warren,27734
+Alameda,Lieutenant Governor,,LIB,Pat Wright,4342
+Alameda,Lieutenant Governor,,NL,Kalee Przybylak,3145
+Alameda,Lieutenant Governor,,REF,Paul Jerry Hannosh,2785
+Alpine,Lieutenant Governor,,DEM,Cruz M. Bustamante,251
+Alpine,Lieutenant Governor,,REP,Bruce Mc Pherson,229
+Alpine,Lieutenant Governor,,AI,Jim King,11
+Alpine,Lieutenant Governor,,GRN,Donna J. Warren,29
+Alpine,Lieutenant Governor,,LIB,Pat Wright,12
+Alpine,Lieutenant Governor,,NL,Kalee Przybylak,12
+Alpine,Lieutenant Governor,,REF,Paul Jerry Hannosh,6
+Amador,Lieutenant Governor,,DEM,Cruz M. Bustamante,5097
+Amador,Lieutenant Governor,,REP,Bruce Mc Pherson,6727
+Amador,Lieutenant Governor,,AI,Jim King,227
+Amador,Lieutenant Governor,,GRN,Donna J. Warren,446
+Amador,Lieutenant Governor,,LIB,Pat Wright,209
+Amador,Lieutenant Governor,,NL,Kalee Przybylak,125
+Amador,Lieutenant Governor,,REF,Paul Jerry Hannosh,145
+Butte,Lieutenant Governor,,DEM,Cruz M. Bustamante,23302
+Butte,Lieutenant Governor,,REP,Bruce Mc Pherson,30362
+Butte,Lieutenant Governor,,AI,Jim King,1011
+Butte,Lieutenant Governor,,GRN,Donna J. Warren,4054
+Butte,Lieutenant Governor,,LIB,Pat Wright,899
+Butte,Lieutenant Governor,,NL,Kalee Przybylak,668
+Butte,Lieutenant Governor,,REF,Paul Jerry Hannosh,773
+Calaveras,Lieutenant Governor,,DEM,Cruz M. Bustamante,5718
+Calaveras,Lieutenant Governor,,REP,Bruce Mc Pherson,7785
+Calaveras,Lieutenant Governor,,AI,Jim King,331
+Calaveras,Lieutenant Governor,,GRN,Donna J. Warren,712
+Calaveras,Lieutenant Governor,,LIB,Pat Wright,344
+Calaveras,Lieutenant Governor,,NL,Kalee Przybylak,178
+Calaveras,Lieutenant Governor,,REF,Paul Jerry Hannosh,161
+Colusa,Lieutenant Governor,,DEM,Cruz M. Bustamante,1487
+Colusa,Lieutenant Governor,,REP,Bruce Mc Pherson,2759
+Colusa,Lieutenant Governor,,AI,Jim King,75
+Colusa,Lieutenant Governor,,GRN,Donna J. Warren,81
+Colusa,Lieutenant Governor,,LIB,Pat Wright,53
+Colusa,Lieutenant Governor,,NL,Kalee Przybylak,41
+Colusa,Lieutenant Governor,,REF,Paul Jerry Hannosh,49
+Contra Costa,Lieutenant Governor,,DEM,Cruz M. Bustamante,141285
+Contra Costa,Lieutenant Governor,,REP,Bruce Mc Pherson,100540
+Contra Costa,Lieutenant Governor,,AI,Jim King,3036
+Contra Costa,Lieutenant Governor,,GRN,Donna J. Warren,11804
+Contra Costa,Lieutenant Governor,,LIB,Pat Wright,3608
+Contra Costa,Lieutenant Governor,,NL,Kalee Przybylak,2010
+Contra Costa,Lieutenant Governor,,REF,Paul Jerry Hannosh,2294
+Del Norte,Lieutenant Governor,,DEM,Cruz M. Bustamante,2950
+Del Norte,Lieutenant Governor,,REP,Bruce Mc Pherson,3021
+Del Norte,Lieutenant Governor,,AI,Jim King,148
+Del Norte,Lieutenant Governor,,GRN,Donna J. Warren,282
+Del Norte,Lieutenant Governor,,LIB,Pat Wright,140
+Del Norte,Lieutenant Governor,,NL,Kalee Przybylak,89
+Del Norte,Lieutenant Governor,,REF,Paul Jerry Hannosh,103
+El Dorado,Lieutenant Governor,,DEM,Cruz M. Bustamante,18973
+El Dorado,Lieutenant Governor,,REP,Bruce Mc Pherson,31650
+El Dorado,Lieutenant Governor,,AI,Jim King,805
+El Dorado,Lieutenant Governor,,GRN,Donna J. Warren,2422
+El Dorado,Lieutenant Governor,,LIB,Pat Wright,809
+El Dorado,Lieutenant Governor,,NL,Kalee Przybylak,568
+El Dorado,Lieutenant Governor,,REF,Paul Jerry Hannosh,518
+Fresno,Lieutenant Governor,,DEM,Cruz M. Bustamante,71224
+Fresno,Lieutenant Governor,,REP,Bruce Mc Pherson,77456
+Fresno,Lieutenant Governor,,AI,Jim King,1480
+Fresno,Lieutenant Governor,,GRN,Donna J. Warren,3164
+Fresno,Lieutenant Governor,,LIB,Pat Wright,1467
+Fresno,Lieutenant Governor,,NL,Kalee Przybylak,747
+Fresno,Lieutenant Governor,,REF,Paul Jerry Hannosh,1053
+Glenn,Lieutenant Governor,,DEM,Cruz M. Bustamante,2211
+Glenn,Lieutenant Governor,,REP,Bruce Mc Pherson,3862
+Glenn,Lieutenant Governor,,AI,Jim King,101
+Glenn,Lieutenant Governor,,GRN,Donna J. Warren,120
+Glenn,Lieutenant Governor,,LIB,Pat Wright,85
+Glenn,Lieutenant Governor,,NL,Kalee Przybylak,49
+Glenn,Lieutenant Governor,,REF,Paul Jerry Hannosh,78
+Humboldt,Lieutenant Governor,,DEM,Cruz M. Bustamante,20934
+Humboldt,Lieutenant Governor,,REP,Bruce Mc Pherson,14036
+Humboldt,Lieutenant Governor,,AI,Jim King,387
+Humboldt,Lieutenant Governor,,GRN,Donna J. Warren,5024
+Humboldt,Lieutenant Governor,,LIB,Pat Wright,888
+Humboldt,Lieutenant Governor,,NL,Kalee Przybylak,546
+Humboldt,Lieutenant Governor,,REF,Paul Jerry Hannosh,658
+Imperial,Lieutenant Governor,,DEM,Cruz M. Bustamante,12501
+Imperial,Lieutenant Governor,,REP,Bruce Mc Pherson,7813
+Imperial,Lieutenant Governor,,AI,Jim King,264
+Imperial,Lieutenant Governor,,GRN,Donna J. Warren,408
+Imperial,Lieutenant Governor,,LIB,Pat Wright,207
+Imperial,Lieutenant Governor,,NL,Kalee Przybylak,286
+Imperial,Lieutenant Governor,,REF,Paul Jerry Hannosh,231
+Inyo,Lieutenant Governor,,DEM,Cruz M. Bustamante,2172
+Inyo,Lieutenant Governor,,REP,Bruce Mc Pherson,3489
+Inyo,Lieutenant Governor,,AI,Jim King,100
+Inyo,Lieutenant Governor,,GRN,Donna J. Warren,238
+Inyo,Lieutenant Governor,,LIB,Pat Wright,132
+Inyo,Lieutenant Governor,,NL,Kalee Przybylak,82
+Inyo,Lieutenant Governor,,REF,Paul Jerry Hannosh,54
+Kern,Lieutenant Governor,,DEM,Cruz M. Bustamante,54427
+Kern,Lieutenant Governor,,REP,Bruce Mc Pherson,74328
+Kern,Lieutenant Governor,,AI,Jim King,2091
+Kern,Lieutenant Governor,,GRN,Donna J. Warren,2312
+Kern,Lieutenant Governor,,LIB,Pat Wright,1762
+Kern,Lieutenant Governor,,NL,Kalee Przybylak,929
+Kern,Lieutenant Governor,,REF,Paul Jerry Hannosh,1258
+Kings,Lieutenant Governor,,DEM,Cruz M. Bustamante,9330
+Kings,Lieutenant Governor,,REP,Bruce Mc Pherson,10979
+Kings,Lieutenant Governor,,AI,Jim King,274
+Kings,Lieutenant Governor,,GRN,Donna J. Warren,282
+Kings,Lieutenant Governor,,LIB,Pat Wright,165
+Kings,Lieutenant Governor,,NL,Kalee Przybylak,118
+Kings,Lieutenant Governor,,REF,Paul Jerry Hannosh,161
+Lake,Lieutenant Governor,,DEM,Cruz M. Bustamante,7974
+Lake,Lieutenant Governor,,REP,Bruce Mc Pherson,6346
+Lake,Lieutenant Governor,,AI,Jim King,256
+Lake,Lieutenant Governor,,GRN,Donna J. Warren,767
+Lake,Lieutenant Governor,,LIB,Pat Wright,241
+Lake,Lieutenant Governor,,NL,Kalee Przybylak,188
+Lake,Lieutenant Governor,,REF,Paul Jerry Hannosh,191
+Lassen,Lieutenant Governor,,DEM,Cruz M. Bustamante,2760
+Lassen,Lieutenant Governor,,REP,Bruce Mc Pherson,4106
+Lassen,Lieutenant Governor,,AI,Jim King,208
+Lassen,Lieutenant Governor,,GRN,Donna J. Warren,184
+Lassen,Lieutenant Governor,,LIB,Pat Wright,158
+Lassen,Lieutenant Governor,,NL,Kalee Przybylak,92
+Lassen,Lieutenant Governor,,REF,Paul Jerry Hannosh,159
+Los Angeles,Lieutenant Governor,,DEM,Cruz M. Bustamante,987483
+Los Angeles,Lieutenant Governor,,REP,Bruce Mc Pherson,557459
+Los Angeles,Lieutenant Governor,,AI,Jim King,17971
+Los Angeles,Lieutenant Governor,,GRN,Donna J. Warren,56954
+Los Angeles,Lieutenant Governor,,LIB,Pat Wright,24270
+Los Angeles,Lieutenant Governor,,NL,Kalee Przybylak,15055
+Los Angeles,Lieutenant Governor,,REF,Paul Jerry Hannosh,19991
+Madera,Lieutenant Governor,,DEM,Cruz M. Bustamante,9918
+Madera,Lieutenant Governor,,REP,Bruce Mc Pherson,14722
+Madera,Lieutenant Governor,,AI,Jim King,443
+Madera,Lieutenant Governor,,GRN,Donna J. Warren,503
+Madera,Lieutenant Governor,,LIB,Pat Wright,299
+Madera,Lieutenant Governor,,NL,Kalee Przybylak,192
+Madera,Lieutenant Governor,,REF,Paul Jerry Hannosh,245
+Marin,Lieutenant Governor,,DEM,Cruz M. Bustamante,53109
+Marin,Lieutenant Governor,,REP,Bruce Mc Pherson,25574
+Marin,Lieutenant Governor,,AI,Jim King,539
+Marin,Lieutenant Governor,,GRN,Donna J. Warren,7042
+Marin,Lieutenant Governor,,LIB,Pat Wright,1078
+Marin,Lieutenant Governor,,NL,Kalee Przybylak,732
+Marin,Lieutenant Governor,,REF,Paul Jerry Hannosh,610
+Mariposa,Lieutenant Governor,,DEM,Cruz M. Bustamante,2350
+Mariposa,Lieutenant Governor,,REP,Bruce Mc Pherson,3433
+Mariposa,Lieutenant Governor,,AI,Jim King,148
+Mariposa,Lieutenant Governor,,GRN,Donna J. Warren,229
+Mariposa,Lieutenant Governor,,LIB,Pat Wright,98
+Mariposa,Lieutenant Governor,,NL,Kalee Przybylak,80
+Mariposa,Lieutenant Governor,,REF,Paul Jerry Hannosh,78
+Mendocino,Lieutenant Governor,,DEM,Cruz M. Bustamante,12004
+Mendocino,Lieutenant Governor,,REP,Bruce Mc Pherson,7827
+Mendocino,Lieutenant Governor,,AI,Jim King,387
+Mendocino,Lieutenant Governor,,GRN,Donna J. Warren,3234
+Mendocino,Lieutenant Governor,,LIB,Pat Wright,524
+Mendocino,Lieutenant Governor,,NL,Kalee Przybylak,362
+Mendocino,Lieutenant Governor,,REF,Paul Jerry Hannosh,306
+Merced,Lieutenant Governor,,DEM,Cruz M. Bustamante,20444
+Merced,Lieutenant Governor,,REP,Bruce Mc Pherson,17665
+Merced,Lieutenant Governor,,AI,Jim King,542
+Merced,Lieutenant Governor,,GRN,Donna J. Warren,752
+Merced,Lieutenant Governor,,LIB,Pat Wright,353
+Merced,Lieutenant Governor,,NL,Kalee Przybylak,397
+Merced,Lieutenant Governor,,REF,Paul Jerry Hannosh,364
+Modoc,Lieutenant Governor,,DEM,Cruz M. Bustamante,960
+Modoc,Lieutenant Governor,,REP,Bruce Mc Pherson,2034
+Modoc,Lieutenant Governor,,AI,Jim King,76
+Modoc,Lieutenant Governor,,GRN,Donna J. Warren,80
+Modoc,Lieutenant Governor,,LIB,Pat Wright,69
+Modoc,Lieutenant Governor,,NL,Kalee Przybylak,33
+Modoc,Lieutenant Governor,,REF,Paul Jerry Hannosh,87
+Mono,Lieutenant Governor,,DEM,Cruz M. Bustamante,1134
+Mono,Lieutenant Governor,,REP,Bruce Mc Pherson,1480
+Mono,Lieutenant Governor,,AI,Jim King,52
+Mono,Lieutenant Governor,,GRN,Donna J. Warren,166
+Mono,Lieutenant Governor,,LIB,Pat Wright,54
+Mono,Lieutenant Governor,,NL,Kalee Przybylak,43
+Mono,Lieutenant Governor,,REF,Paul Jerry Hannosh,32
+Monterey,Lieutenant Governor,,DEM,Cruz M. Bustamante,38863
+Monterey,Lieutenant Governor,,REP,Bruce Mc Pherson,43649
+Monterey,Lieutenant Governor,,AI,Jim King,755
+Monterey,Lieutenant Governor,,GRN,Donna J. Warren,2481
+Monterey,Lieutenant Governor,,LIB,Pat Wright,908
+Monterey,Lieutenant Governor,,NL,Kalee Przybylak,628
+Monterey,Lieutenant Governor,,REF,Paul Jerry Hannosh,544
+Napa,Lieutenant Governor,,DEM,Cruz M. Bustamante,19357
+Napa,Lieutenant Governor,,REP,Bruce Mc Pherson,13586
+Napa,Lieutenant Governor,,AI,Jim King,504
+Napa,Lieutenant Governor,,GRN,Donna J. Warren,1807
+Napa,Lieutenant Governor,,LIB,Pat Wright,720
+Napa,Lieutenant Governor,,NL,Kalee Przybylak,389
+Napa,Lieutenant Governor,,REF,Paul Jerry Hannosh,404
+Nevada,Lieutenant Governor,,DEM,Cruz M. Bustamante,14287
+Nevada,Lieutenant Governor,,REP,Bruce Mc Pherson,20284
+Nevada,Lieutenant Governor,,AI,Jim King,456
+Nevada,Lieutenant Governor,,GRN,Donna J. Warren,2719
+Nevada,Lieutenant Governor,,LIB,Pat Wright,642
+Nevada,Lieutenant Governor,,NL,Kalee Przybylak,478
+Nevada,Lieutenant Governor,,REF,Paul Jerry Hannosh,342
+Orange,Lieutenant Governor,,DEM,Cruz M. Bustamante,226411
+Orange,Lieutenant Governor,,REP,Bruce Mc Pherson,359139
+Orange,Lieutenant Governor,,AI,Jim King,11454
+Orange,Lieutenant Governor,,GRN,Donna J. Warren,16633
+Orange,Lieutenant Governor,,LIB,Pat Wright,10502
+Orange,Lieutenant Governor,,NL,Kalee Przybylak,5982
+Orange,Lieutenant Governor,,REF,Paul Jerry Hannosh,9447
+Placer,Lieutenant Governor,,DEM,Cruz M. Bustamante,32582
+Placer,Lieutenant Governor,,REP,Bruce Mc Pherson,57128
+Placer,Lieutenant Governor,,AI,Jim King,1092
+Placer,Lieutenant Governor,,GRN,Donna J. Warren,3232
+Placer,Lieutenant Governor,,LIB,Pat Wright,1074
+Placer,Lieutenant Governor,,NL,Kalee Przybylak,808
+Placer,Lieutenant Governor,,REF,Paul Jerry Hannosh,765
+Plumas,Lieutenant Governor,,DEM,Cruz M. Bustamante,2897
+Plumas,Lieutenant Governor,,REP,Bruce Mc Pherson,4068
+Plumas,Lieutenant Governor,,AI,Jim King,149
+Plumas,Lieutenant Governor,,GRN,Donna J. Warren,320
+Plumas,Lieutenant Governor,,LIB,Pat Wright,150
+Plumas,Lieutenant Governor,,NL,Kalee Przybylak,106
+Plumas,Lieutenant Governor,,REF,Paul Jerry Hannosh,122
+Riverside,Lieutenant Governor,,DEM,Cruz M. Bustamante,128664
+Riverside,Lieutenant Governor,,REP,Bruce Mc Pherson,152248
+Riverside,Lieutenant Governor,,AI,Jim King,4256
+Riverside,Lieutenant Governor,,GRN,Donna J. Warren,6087
+Riverside,Lieutenant Governor,,LIB,Pat Wright,3546
+Riverside,Lieutenant Governor,,NL,Kalee Przybylak,2792
+Riverside,Lieutenant Governor,,REF,Paul Jerry Hannosh,4190
+Sacramento,Lieutenant Governor,,DEM,Cruz M. Bustamante,145687
+Sacramento,Lieutenant Governor,,REP,Bruce Mc Pherson,143475
+Sacramento,Lieutenant Governor,,AI,Jim King,4708
+Sacramento,Lieutenant Governor,,GRN,Donna J. Warren,13307
+Sacramento,Lieutenant Governor,,LIB,Pat Wright,3604
+Sacramento,Lieutenant Governor,,NL,Kalee Przybylak,3274
+Sacramento,Lieutenant Governor,,REF,Paul Jerry Hannosh,2890
+San Benito,Lieutenant Governor,,DEM,Cruz M. Bustamante,5728
+San Benito,Lieutenant Governor,,REP,Bruce Mc Pherson,6009
+San Benito,Lieutenant Governor,,AI,Jim King,100
+San Benito,Lieutenant Governor,,GRN,Donna J. Warren,301
+San Benito,Lieutenant Governor,,LIB,Pat Wright,172
+San Benito,Lieutenant Governor,,NL,Kalee Przybylak,95
+San Benito,Lieutenant Governor,,REF,Paul Jerry Hannosh,78
+San Bernardino,Lieutenant Governor,,DEM,Cruz M. Bustamante,123250
+San Bernardino,Lieutenant Governor,,REP,Bruce Mc Pherson,133951
+San Bernardino,Lieutenant Governor,,AI,Jim King,5520
+San Bernardino,Lieutenant Governor,,GRN,Donna J. Warren,7009
+San Bernardino,Lieutenant Governor,,LIB,Pat Wright,4389
+San Bernardino,Lieutenant Governor,,NL,Kalee Przybylak,2667
+San Bernardino,Lieutenant Governor,,REF,Paul Jerry Hannosh,4504
+San Diego,Lieutenant Governor,,DEM,Cruz M. Bustamante,273966
+San Diego,Lieutenant Governor,,REP,Bruce Mc Pherson,325521
+San Diego,Lieutenant Governor,,AI,Jim King,6970
+San Diego,Lieutenant Governor,,GRN,Donna J. Warren,18315
+San Diego,Lieutenant Governor,,LIB,Pat Wright,10247
+San Diego,Lieutenant Governor,,NL,Kalee Przybylak,6230
+San Diego,Lieutenant Governor,,REF,Paul Jerry Hannosh,7408
+San Francisco,Lieutenant Governor,,DEM,Cruz M. Bustamante,136416
+San Francisco,Lieutenant Governor,,REP,Bruce Mc Pherson,34133
+San Francisco,Lieutenant Governor,,AI,Jim King,1540
+San Francisco,Lieutenant Governor,,GRN,Donna J. Warren,29019
+San Francisco,Lieutenant Governor,,LIB,Pat Wright,3072
+San Francisco,Lieutenant Governor,,NL,Kalee Przybylak,1524
+San Francisco,Lieutenant Governor,,REF,Paul Jerry Hannosh,1554
+San Joaquin,Lieutenant Governor,,DEM,Cruz M. Bustamante,58151
+San Joaquin,Lieutenant Governor,,REP,Bruce Mc Pherson,56336
+San Joaquin,Lieutenant Governor,,AI,Jim King,1866
+San Joaquin,Lieutenant Governor,,GRN,Donna J. Warren,3527
+San Joaquin,Lieutenant Governor,,LIB,Pat Wright,1235
+San Joaquin,Lieutenant Governor,,NL,Kalee Przybylak,1145
+San Joaquin,Lieutenant Governor,,REF,Paul Jerry Hannosh,1221
+San Luis Obispo,Lieutenant Governor,,DEM,Cruz M. Bustamante,33642
+San Luis Obispo,Lieutenant Governor,,REP,Bruce Mc Pherson,39893
+San Luis Obispo,Lieutenant Governor,,AI,Jim King,961
+San Luis Obispo,Lieutenant Governor,,GRN,Donna J. Warren,3964
+San Luis Obispo,Lieutenant Governor,,LIB,Pat Wright,1295
+San Luis Obispo,Lieutenant Governor,,NL,Kalee Przybylak,791
+San Luis Obispo,Lieutenant Governor,,REF,Paul Jerry Hannosh,850
+San Mateo,Lieutenant Governor,,DEM,Cruz M. Bustamante,98704
+San Mateo,Lieutenant Governor,,REP,Bruce Mc Pherson,53106
+San Mateo,Lieutenant Governor,,AI,Jim King,1728
+San Mateo,Lieutenant Governor,,GRN,Donna J. Warren,10460
+San Mateo,Lieutenant Governor,,LIB,Pat Wright,2833
+San Mateo,Lieutenant Governor,,NL,Kalee Przybylak,1466
+San Mateo,Lieutenant Governor,,REF,Paul Jerry Hannosh,1488
+Santa Barbara,Lieutenant Governor,,DEM,Cruz M. Bustamante,53654
+Santa Barbara,Lieutenant Governor,,REP,Bruce Mc Pherson,49325
+Santa Barbara,Lieutenant Governor,,AI,Jim King,1196
+Santa Barbara,Lieutenant Governor,,GRN,Donna J. Warren,5204
+Santa Barbara,Lieutenant Governor,,LIB,Pat Wright,1702
+Santa Barbara,Lieutenant Governor,,NL,Kalee Przybylak,1019
+Santa Barbara,Lieutenant Governor,,REF,Paul Jerry Hannosh,1040
+Santa Clara,Lieutenant Governor,,DEM,Cruz M. Bustamante,191160
+Santa Clara,Lieutenant Governor,,REP,Bruce Mc Pherson,133565
+Santa Clara,Lieutenant Governor,,AI,Jim King,4049
+Santa Clara,Lieutenant Governor,,GRN,Donna J. Warren,14820
+Santa Clara,Lieutenant Governor,,LIB,Pat Wright,5739
+Santa Clara,Lieutenant Governor,,NL,Kalee Przybylak,3716
+Santa Clara,Lieutenant Governor,,REF,Paul Jerry Hannosh,3742
+Santa Cruz,Lieutenant Governor,,DEM,Cruz M. Bustamante,32917
+Santa Cruz,Lieutenant Governor,,REP,Bruce Mc Pherson,36473
+Santa Cruz,Lieutenant Governor,,AI,Jim King,605
+Santa Cruz,Lieutenant Governor,,GRN,Donna J. Warren,6414
+Santa Cruz,Lieutenant Governor,,LIB,Pat Wright,1104
+Santa Cruz,Lieutenant Governor,,NL,Kalee Przybylak,776
+Santa Cruz,Lieutenant Governor,,REF,Paul Jerry Hannosh,413
+Shasta,Lieutenant Governor,,DEM,Cruz M. Bustamante,17278
+Shasta,Lieutenant Governor,,REP,Bruce Mc Pherson,27027
+Shasta,Lieutenant Governor,,AI,Jim King,1050
+Shasta,Lieutenant Governor,,GRN,Donna J. Warren,1142
+Shasta,Lieutenant Governor,,LIB,Pat Wright,847
+Shasta,Lieutenant Governor,,NL,Kalee Przybylak,610
+Shasta,Lieutenant Governor,,REF,Paul Jerry Hannosh,586
+Sierra,Lieutenant Governor,,DEM,Cruz M. Bustamante,510
+Sierra,Lieutenant Governor,,REP,Bruce Mc Pherson,739
+Sierra,Lieutenant Governor,,AI,Jim King,40
+Sierra,Lieutenant Governor,,GRN,Donna J. Warren,57
+Sierra,Lieutenant Governor,,LIB,Pat Wright,41
+Sierra,Lieutenant Governor,,NL,Kalee Przybylak,19
+Sierra,Lieutenant Governor,,REF,Paul Jerry Hannosh,25
+Siskiyou,Lieutenant Governor,,DEM,Cruz M. Bustamante,5344
+Siskiyou,Lieutenant Governor,,REP,Bruce Mc Pherson,8407
+Siskiyou,Lieutenant Governor,,AI,Jim King,261
+Siskiyou,Lieutenant Governor,,GRN,Donna J. Warren,507
+Siskiyou,Lieutenant Governor,,LIB,Pat Wright,418
+Siskiyou,Lieutenant Governor,,NL,Kalee Przybylak,240
+Siskiyou,Lieutenant Governor,,REF,Paul Jerry Hannosh,240
+Solano,Lieutenant Governor,,DEM,Cruz M. Bustamante,47592
+Solano,Lieutenant Governor,,REP,Bruce Mc Pherson,33134
+Solano,Lieutenant Governor,,AI,Jim King,1231
+Solano,Lieutenant Governor,,GRN,Donna J. Warren,2939
+Solano,Lieutenant Governor,,LIB,Pat Wright,1185
+Solano,Lieutenant Governor,,NL,Kalee Przybylak,890
+Solano,Lieutenant Governor,,REF,Paul Jerry Hannosh,1120
+Sonoma,Lieutenant Governor,,DEM,Cruz M. Bustamante,79691
+Sonoma,Lieutenant Governor,,REP,Bruce Mc Pherson,44655
+Sonoma,Lieutenant Governor,,AI,Jim King,1729
+Sonoma,Lieutenant Governor,,GRN,Donna J. Warren,13147
+Sonoma,Lieutenant Governor,,LIB,Pat Wright,2839
+Sonoma,Lieutenant Governor,,NL,Kalee Przybylak,1719
+Sonoma,Lieutenant Governor,,REF,Paul Jerry Hannosh,1661
+Stanislaus,Lieutenant Governor,,DEM,Cruz M. Bustamante,44395
+Stanislaus,Lieutenant Governor,,REP,Bruce Mc Pherson,44754
+Stanislaus,Lieutenant Governor,,AI,Jim King,1815
+Stanislaus,Lieutenant Governor,,GRN,Donna J. Warren,2408
+Stanislaus,Lieutenant Governor,,LIB,Pat Wright,1010
+Stanislaus,Lieutenant Governor,,NL,Kalee Przybylak,828
+Stanislaus,Lieutenant Governor,,REF,Paul Jerry Hannosh,918
+Sutter,Lieutenant Governor,,DEM,Cruz M. Bustamante,6365
+Sutter,Lieutenant Governor,,REP,Bruce Mc Pherson,11545
+Sutter,Lieutenant Governor,,AI,Jim King,303
+Sutter,Lieutenant Governor,,GRN,Donna J. Warren,407
+Sutter,Lieutenant Governor,,LIB,Pat Wright,179
+Sutter,Lieutenant Governor,,NL,Kalee Przybylak,167
+Sutter,Lieutenant Governor,,REF,Paul Jerry Hannosh,234
+Tehama,Lieutenant Governor,,DEM,Cruz M. Bustamante,5943
+Tehama,Lieutenant Governor,,REP,Bruce Mc Pherson,8150
+Tehama,Lieutenant Governor,,AI,Jim King,340
+Tehama,Lieutenant Governor,,GRN,Donna J. Warren,365
+Tehama,Lieutenant Governor,,LIB,Pat Wright,235
+Tehama,Lieutenant Governor,,NL,Kalee Przybylak,182
+Tehama,Lieutenant Governor,,REF,Paul Jerry Hannosh,193
+Trinity,Lieutenant Governor,,DEM,Cruz M. Bustamante,1970
+Trinity,Lieutenant Governor,,REP,Bruce Mc Pherson,2174
+Trinity,Lieutenant Governor,,AI,Jim King,100
+Trinity,Lieutenant Governor,,GRN,Donna J. Warren,282
+Trinity,Lieutenant Governor,,LIB,Pat Wright,154
+Trinity,Lieutenant Governor,,NL,Kalee Przybylak,66
+Trinity,Lieutenant Governor,,REF,Paul Jerry Hannosh,88
+Tulare,Lieutenant Governor,,DEM,Cruz M. Bustamante,25320
+Tulare,Lieutenant Governor,,REP,Bruce Mc Pherson,34242
+Tulare,Lieutenant Governor,,AI,Jim King,832
+Tulare,Lieutenant Governor,,GRN,Donna J. Warren,1014
+Tulare,Lieutenant Governor,,LIB,Pat Wright,656
+Tulare,Lieutenant Governor,,NL,Kalee Przybylak,324
+Tulare,Lieutenant Governor,,REF,Paul Jerry Hannosh,525
+Tuolumne,Lieutenant Governor,,DEM,Cruz M. Bustamante,7383
+Tuolumne,Lieutenant Governor,,REP,Bruce Mc Pherson,9025
+Tuolumne,Lieutenant Governor,,AI,Jim King,300
+Tuolumne,Lieutenant Governor,,GRN,Donna J. Warren,672
+Tuolumne,Lieutenant Governor,,LIB,Pat Wright,284
+Tuolumne,Lieutenant Governor,,NL,Kalee Przybylak,185
+Tuolumne,Lieutenant Governor,,REF,Paul Jerry Hannosh,173
+Ventura,Lieutenant Governor,,DEM,Cruz M. Bustamante,85236
+Ventura,Lieutenant Governor,,REP,Bruce Mc Pherson,91924
+Ventura,Lieutenant Governor,,AI,Jim King,2293
+Ventura,Lieutenant Governor,,GRN,Donna J. Warren,6146
+Ventura,Lieutenant Governor,,LIB,Pat Wright,3406
+Ventura,Lieutenant Governor,,NL,Kalee Przybylak,1887
+Ventura,Lieutenant Governor,,REF,Paul Jerry Hannosh,2343
+Yolo,Lieutenant Governor,,DEM,Cruz M. Bustamante,24231
+Yolo,Lieutenant Governor,,REP,Bruce Mc Pherson,17176
+Yolo,Lieutenant Governor,,AI,Jim King,581
+Yolo,Lieutenant Governor,,GRN,Donna J. Warren,3122
+Yolo,Lieutenant Governor,,LIB,Pat Wright,497
+Yolo,Lieutenant Governor,,NL,Kalee Przybylak,436
+Yolo,Lieutenant Governor,,REF,Paul Jerry Hannosh,412
+Yuba,Lieutenant Governor,,DEM,Cruz M. Bustamante,4000
+Yuba,Lieutenant Governor,,REP,Bruce Mc Pherson,6398
+Yuba,Lieutenant Governor,,AI,Jim King,257
+Yuba,Lieutenant Governor,,GRN,Donna J. Warren,404
+Yuba,Lieutenant Governor,,LIB,Pat Wright,176
+Yuba,Lieutenant Governor,,NL,Kalee Przybylak,160
+Yuba,Lieutenant Governor,,REF,Paul Jerry Hannosh,143
