@@ -1,0 +1,173 @@
+county,office,district,party,candidate,votes
+Del Norte,State Senate,2,DEM,Mike McGuire,1836
+Del Norte,State Senate,2,DEM,Derek Knell,420
+Del Norte,State Senate,2,REP,Lawrence R. Wiesner,2780
+Del Norte,State Senate,2,NPP,Harry V. Lehmann,327
+Humboldt,State Senate,2,DEM,Mike McGuire,13195
+Humboldt,State Senate,2,DEM,Derek Knell,2195
+Humboldt,State Senate,2,REP,Lawrence R. Wiesner,9021
+Humboldt,State Senate,2,NPP,Harry V. Lehmann,911
+Lake,State Senate,2,DEM,Mike McGuire,5990
+Lake,State Senate,2,DEM,Derek Knell,1521
+Lake,State Senate,2,REP,Lawrence R. Wiesner,5276
+Lake,State Senate,2,NPP,Harry V. Lehmann,1016
+Marin,State Senate,2,DEM,Mike McGuire,28915
+Marin,State Senate,2,DEM,Derek Knell,9470
+Marin,State Senate,2,REP,Lawrence R. Wiesner,11052
+Marin,State Senate,2,NPP,Harry V. Lehmann,2780
+Mendocino,State Senate,2,DEM,Mike McGuire,9044
+Mendocino,State Senate,2,DEM,Derek Knell,1048
+Mendocino,State Senate,2,REP,Lawrence R. Wiesner,4062
+Mendocino,State Senate,2,NPP,Harry V. Lehmann,547
+Sonoma,State Senate,2,DEM,Mike McGuire,44375
+Sonoma,State Senate,2,DEM,Derek Knell,4809
+Sonoma,State Senate,2,REP,Lawrence R. Wiesner,14595
+Sonoma,State Senate,2,NPP,Harry V. Lehmann,2221
+Trinity,State Senate,2,DEM,Mike McGuire,1315
+Trinity,State Senate,2,DEM,Derek Knell,270
+Trinity,State Senate,2,REP,Lawrence R. Wiesner,1615
+Trinity,State Senate,2,NPP,Harry V. Lehmann,258
+Butte,State Senate,4,DEM,CJ Jawahar,15690
+Butte,State Senate,4,REP,Jim Nielsen,23639
+Colusa,State Senate,4,DEM,CJ Jawahar,748
+Colusa,State Senate,4,REP,Jim Nielsen,2590
+Glenn,State Senate,4,DEM,CJ Jawahar,1237
+Glenn,State Senate,4,REP,Jim Nielsen,4051
+Placer,State Senate,4,DEM,CJ Jawahar,7652
+Placer,State Senate,4,REP,Jim Nielsen,13525
+Sacramento,State Senate,4,DEM,CJ Jawahar,16552
+Sacramento,State Senate,4,REP,Jim Nielsen,23083
+Sutter,State Senate,4,DEM,CJ Jawahar,3962
+Sutter,State Senate,4,REP,Jim Nielsen,10603
+Tehama,State Senate,4,DEM,CJ Jawahar,3566
+Tehama,State Senate,4,REP,Jim Nielsen,8880
+Yuba,State Senate,4,DEM,CJ Jawahar,2374
+Yuba,State Senate,4,REP,Jim Nielsen,5820
+Sacramento,State Senate,6,DEM,Roger Dickinson,46340
+Sacramento,State Senate,6,DEM,Richard Pan,36112
+Sacramento,State Senate,6,REP,James Axelgard,18402
+Sacramento,State Senate,6,REP,Jonathan Zachariou,14403
+Yolo,State Senate,6,DEM,Roger Dickinson,2328
+Yolo,State Senate,6,DEM,Richard Pan,1440
+Yolo,State Senate,6,REP,James Axelgard,856
+Yolo,State Senate,6,REP,Jonathan Zachariou,952
+Amador,State Senate,8,DEM,Paulina Miranda,3300
+Amador,State Senate,8,REP,Tom Berryhill,5827
+Calaveras,State Senate,8,DEM,Paulina Miranda,4206
+Calaveras,State Senate,8,REP,Tom Berryhill,7573
+Fresno,State Senate,8,DEM,Paulina Miranda,24499
+Fresno,State Senate,8,REP,Tom Berryhill,47810
+Inyo,State Senate,8,DEM,Paulina Miranda,1429
+Inyo,State Senate,8,REP,Tom Berryhill,2176
+Madera,State Senate,8,DEM,Paulina Miranda,2082
+Madera,State Senate,8,REP,Tom Berryhill,5361
+Mariposa,State Senate,8,DEM,Paulina Miranda,1612
+Mariposa,State Senate,8,REP,Tom Berryhill,3052
+Mono,State Senate,8,DEM,Paulina Miranda,1307
+Mono,State Senate,8,REP,Tom Berryhill,1540
+Sacramento,State Senate,8,DEM,Paulina Miranda,2366
+Sacramento,State Senate,8,REP,Tom Berryhill,4247
+Stanislaus,State Senate,8,DEM,Paulina Miranda,5866
+Stanislaus,State Senate,8,REP,Tom Berryhill,11597
+Tulare,State Senate,8,DEM,Paulina Miranda,341
+Tulare,State Senate,8,REP,Tom Berryhill,697
+Tuolumne,State Senate,8,DEM,Paulina Miranda,4407
+Tuolumne,State Senate,8,REP,Tom Berryhill,7176
+Alameda,State Senate,10,DEM,Bob Wieckowski,24902
+Alameda,State Senate,10,DEM,Mary Hayashi,14087
+Alameda,State Senate,10,DEM,Roman Reed,8422
+Alameda,State Senate,10,REP,Peter Kuo,16222
+Alameda,State Senate,10,NPP,Audie Bock,2907
+Santa Clara,State Senate,10,DEM,Bob Wieckowski,11871
+Santa Clara,State Senate,10,DEM,Mary Hayashi,7361
+Santa Clara,State Senate,10,DEM,Roman Reed,5676
+Santa Clara,State Senate,10,REP,Peter Kuo,11110
+Santa Clara,State Senate,10,NPP,Audie Bock,1377
+Fresno,State Senate,12,DEM,Shawn K. Bagley,3586
+Fresno,State Senate,12,REP,Anthony Cannella,7790
+Madera,State Senate,12,DEM,Shawn K. Bagley,3179
+Madera,State Senate,12,REP,Anthony Cannella,7425
+Merced,State Senate,12,DEM,Shawn K. Bagley,6875
+Merced,State Senate,12,REP,Anthony Cannella,15064
+Monterey,State Senate,12,DEM,Shawn K. Bagley,6986
+Monterey,State Senate,12,REP,Anthony Cannella,7748
+San Benito,State Senate,12,DEM,Shawn K. Bagley,2928
+San Benito,State Senate,12,REP,Anthony Cannella,4169
+Stanislaus,State Senate,12,DEM,Shawn K. Bagley,3463
+Stanislaus,State Senate,12,REP,Anthony Cannella,5355
+Fresno,State Senate,14,DEM,Luis Chavez,9667
+Fresno,State Senate,14,REP,Andy Vidak,8786
+Kern,State Senate,14,DEM,Luis Chavez,5222
+Kern,State Senate,14,REP,Andy Vidak,5238
+Kings,State Senate,14,DEM,Luis Chavez,3453
+Kings,State Senate,14,REP,Andy Vidak,11399
+Tulare,State Senate,14,DEM,Luis Chavez,4429
+Tulare,State Senate,14,REP,Andy Vidak,10530
+Kern,State Senate,16,REP,Jean Fuller,47984
+Kern,State Senate,16,DEM (W/I),Ruth Musser-Lopez,87
+San Bernardino,State Senate,16,REP,Jean Fuller,10390
+San Bernardino,State Senate,16,DEM (W/I),Ruth Musser-Lopez,89
+Tulare,State Senate,16,REP,Jean Fuller,21469
+Tulare,State Senate,16,DEM (W/I),Ruth Musser-Lopez,13
+Los Angeles,State Senate,18,DEM,Bob Hertzberg,35338
+Los Angeles,State Senate,18,REP,Ricardo Antonio Benitez,16289
+Los Angeles,State Senate,18,GRN,"John P. ""Jack"" Lindblad",4392
+Los Angeles,State Senate,20,DEM,Shannon O'Brien,613
+Los Angeles,State Senate,20,DEM,Connie M. Leyva,1961
+Los Angeles,State Senate,20,DEM,"Alfonso ""Al"" Sanchez",1605
+Los Angeles,State Senate,20,DEM,Sylvia Robles,538
+Los Angeles,State Senate,20,REP,Matthew Munson,1688
+San Bernardino,State Senate,20,DEM,Shannon O'Brien,6156
+San Bernardino,State Senate,20,DEM,Connie M. Leyva,7135
+San Bernardino,State Senate,20,DEM,"Alfonso ""Al"" Sanchez",6353
+San Bernardino,State Senate,20,DEM,Sylvia Robles,4305
+San Bernardino,State Senate,20,REP,Matthew Munson,12436
+Los Angeles,State Senate,22,DEM,Ed Hernandez,34375
+Los Angeles,State Senate,22,REP (W/I),Marc Rodriguez,154
+Los Angeles,State Senate,24,DEM,Kevin De Leon,28975
+Los Angeles,State Senate,24,DEM,Peter Choi,9422
+Los Angeles,State Senate,24,REP,"William ""Rodriguez"" Morrison",6805
+Los Angeles,State Senate,26,DEM,Betsy Butler,19301
+Los Angeles,State Senate,26,DEM,Sandra Fluke,22759
+Los Angeles,State Senate,26,DEM,Vito Imbasciani,5189
+Los Angeles,State Senate,26,DEM,Patric M. Verrone,3446
+Los Angeles,State Senate,26,DEM,Amy Howorth,18411
+Los Angeles,State Senate,26,DEM,Barbi S. Appelquist,1630
+Los Angeles,State Senate,26,DEM,Ben Allen,25987
+Los Angeles,State Senate,26,NPP,Seth Stodder,20419
+Riverside,State Senate,28,DEM,Anna Nevenic,14444
+Riverside,State Senate,28,DEM,Philip Drucker,17635
+Riverside,State Senate,28,REP,Bonnie Garcia,18884
+Riverside,State Senate,28,REP,Jeff Stone,20807
+Riverside,State Senate,28,REP,Glenn A. Miller,18435
+Riverside,State Senate,28,REP,"William ""Bill"" Carns",4834
+Los Angeles,State Senate,30,DEM,Isidro Armenta,8301
+Los Angeles,State Senate,30,DEM,Holly J. Mitchell,48280
+Los Angeles,State Senate,32,DEM,Sally Morales Havice,6955
+Los Angeles,State Senate,32,DEM,Irella Perez,6440
+Los Angeles,State Senate,32,DEM,Tony Mendoza,19470
+Los Angeles,State Senate,32,DEM,Carlos R. Arvizu,1209
+Los Angeles,State Senate,32,REP,Mario A. Guerra,26953
+Orange,State Senate,32,DEM,Sally Morales Havice,370
+Orange,State Senate,32,DEM,Irella Perez,433
+Orange,State Senate,32,DEM,Tony Mendoza,1334
+Orange,State Senate,32,DEM,Carlos R. Arvizu,71
+Orange,State Senate,32,REP,Mario A. Guerra,2143
+Los Angeles,State Senate,34,DEM,Jose Solorio,5544
+Los Angeles,State Senate,34,REP,Janet Nguyen,6393
+Los Angeles,State Senate,34,REP,Long Pham,1413
+Orange,State Senate,34,DEM,Jose Solorio,24249
+Orange,State Senate,34,REP,Janet Nguyen,40052
+Orange,State Senate,34,REP,Long Pham,11689
+Orange,State Senate,36,REP,"Patricia C. ""Pat"" Bates",46725
+Orange,State Senate,36,DEM (W/I),Gary Kephart,155
+San Diego,State Senate,36,REP,"Patricia C. ""Pat"" Bates",41446
+San Diego,State Senate,36,DEM (W/I),Gary Kephart,601
+San Diego,State Senate,38,DEM,"Fotios ""Frank"" Tsimboukakis",35656
+San Diego,State Senate,38,REP,Joel Anderson,87933
+Imperial,State Senate,40,DEM,Ben Hueso,9612
+Imperial,State Senate,40,DEM,Rafael Estrada,4609
+Imperial,State Senate,40,REP (W/I),Michael Diaz,5
+San Diego,State Senate,40,DEM,Ben Hueso,35637
+San Diego,State Senate,40,DEM,Rafael Estrada,12938
+San Diego,State Senate,40,REP (W/I),Michael Diaz,183

@@ -1,0 +1,349 @@
+county,office,district,party,candidate,votes
+Alameda,Controller,,DEM,Betty T. Yee,60719
+Alameda,Controller,,DEM,John A. Pérez,52927
+Alameda,Controller,,DEM,Tammy D. Blair,11110
+Alameda,Controller,,REP,David Evans,25089
+Alameda,Controller,,REP,Ashley Swearengin,14532
+Alameda,Controller,,GRN,Laura Wells,14720
+Alpine,Controller,,DEM,Betty T. Yee,104
+Alpine,Controller,,DEM,John A. Pérez,70
+Alpine,Controller,,DEM,Tammy D. Blair,31
+Alpine,Controller,,REP,David Evans,142
+Alpine,Controller,,REP,Ashley Swearengin,49
+Alpine,Controller,,GRN,Laura Wells,50
+Amador,Controller,,DEM,Betty T. Yee,1452
+Amador,Controller,,DEM,John A. Pérez,1344
+Amador,Controller,,DEM,Tammy D. Blair,453
+Amador,Controller,,REP,David Evans,3305
+Amador,Controller,,REP,Ashley Swearengin,1988
+Amador,Controller,,GRN,Laura Wells,555
+Butte,Controller,,DEM,Betty T. Yee,5274
+Butte,Controller,,DEM,John A. Pérez,5043
+Butte,Controller,,DEM,Tammy D. Blair,3553
+Butte,Controller,,REP,David Evans,12215
+Butte,Controller,,REP,Ashley Swearengin,9127
+Butte,Controller,,GRN,Laura Wells,3189
+Calaveras,Controller,,DEM,Betty T. Yee,1707
+Calaveras,Controller,,DEM,John A. Pérez,1728
+Calaveras,Controller,,DEM,Tammy D. Blair,532
+Calaveras,Controller,,REP,David Evans,3976
+Calaveras,Controller,,REP,Ashley Swearengin,2725
+Calaveras,Controller,,GRN,Laura Wells,729
+Colusa,Controller,,DEM,Betty T. Yee,360
+Colusa,Controller,,DEM,John A. Pérez,485
+Colusa,Controller,,DEM,Tammy D. Blair,170
+Colusa,Controller,,REP,David Evans,1134
+Colusa,Controller,,REP,Ashley Swearengin,960
+Colusa,Controller,,GRN,Laura Wells,117
+Contra Costa,Controller,,DEM,Betty T. Yee,36015
+Contra Costa,Controller,,DEM,John A. Pérez,35677
+Contra Costa,Controller,,DEM,Tammy D. Blair,7718
+Contra Costa,Controller,,REP,David Evans,30869
+Contra Costa,Controller,,REP,Ashley Swearengin,18759
+Contra Costa,Controller,,GRN,Laura Wells,8610
+Del Norte,Controller,,DEM,Betty T. Yee,911
+Del Norte,Controller,,DEM,John A. Pérez,657
+Del Norte,Controller,,DEM,Tammy D. Blair,365
+Del Norte,Controller,,REP,David Evans,1538
+Del Norte,Controller,,REP,Ashley Swearengin,1309
+Del Norte,Controller,,GRN,Laura Wells,434
+El Dorado,Controller,,DEM,Betty T. Yee,6408
+El Dorado,Controller,,DEM,John A. Pérez,5294
+El Dorado,Controller,,DEM,Tammy D. Blair,1423
+El Dorado,Controller,,REP,David Evans,10792
+El Dorado,Controller,,REP,Ashley Swearengin,12668
+El Dorado,Controller,,GRN,Laura Wells,2591
+Fresno,Controller,,DEM,Betty T. Yee,14002
+Fresno,Controller,,DEM,John A. Pérez,17059
+Fresno,Controller,,DEM,Tammy D. Blair,2480
+Fresno,Controller,,REP,David Evans,14024
+Fresno,Controller,,REP,Ashley Swearengin,54240
+Fresno,Controller,,GRN,Laura Wells,2928
+Glenn,Controller,,DEM,Betty T. Yee,391
+Glenn,Controller,,DEM,John A. Pérez,519
+Glenn,Controller,,DEM,Tammy D. Blair,446
+Glenn,Controller,,REP,David Evans,1763
+Glenn,Controller,,REP,Ashley Swearengin,1622
+Glenn,Controller,,GRN,Laura Wells,283
+Humboldt,Controller,,DEM,Betty T. Yee,6449
+Humboldt,Controller,,DEM,John A. Pérez,4097
+Humboldt,Controller,,DEM,Tammy D. Blair,1646
+Humboldt,Controller,,REP,David Evans,5913
+Humboldt,Controller,,REP,Ashley Swearengin,3669
+Humboldt,Controller,,GRN,Laura Wells,3402
+Imperial,Controller,,DEM,Betty T. Yee,1626
+Imperial,Controller,,DEM,John A. Pérez,6574
+Imperial,Controller,,DEM,Tammy D. Blair,1093
+Imperial,Controller,,REP,David Evans,3482
+Imperial,Controller,,REP,Ashley Swearengin,2277
+Imperial,Controller,,GRN,Laura Wells,826
+Inyo,Controller,,DEM,Betty T. Yee,489
+Inyo,Controller,,DEM,John A. Pérez,511
+Inyo,Controller,,DEM,Tammy D. Blair,226
+Inyo,Controller,,REP,David Evans,1160
+Inyo,Controller,,REP,Ashley Swearengin,897
+Inyo,Controller,,GRN,Laura Wells,275
+Kern,Controller,,DEM,Betty T. Yee,5870
+Kern,Controller,,DEM,John A. Pérez,12558
+Kern,Controller,,DEM,Tammy D. Blair,3261
+Kern,Controller,,REP,David Evans,18508
+Kern,Controller,,REP,Ashley Swearengin,26597
+Kern,Controller,,GRN,Laura Wells,2702
+Kings,Controller,,DEM,Betty T. Yee,863
+Kings,Controller,,DEM,John A. Pérez,2171
+Kings,Controller,,DEM,Tammy D. Blair,750
+Kings,Controller,,REP,David Evans,2492
+Kings,Controller,,REP,Ashley Swearengin,7911
+Kings,Controller,,GRN,Laura Wells,365
+Lake,Controller,,DEM,Betty T. Yee,2590
+Lake,Controller,,DEM,John A. Pérez,3631
+Lake,Controller,,DEM,Tammy D. Blair,965
+Lake,Controller,,REP,David Evans,3583
+Lake,Controller,,REP,Ashley Swearengin,1985
+Lake,Controller,,GRN,Laura Wells,1440
+Lassen,Controller,,DEM,Betty T. Yee,638
+Lassen,Controller,,DEM,John A. Pérez,551
+Lassen,Controller,,DEM,Tammy D. Blair,226
+Lassen,Controller,,REP,David Evans,2262
+Lassen,Controller,,REP,Ashley Swearengin,1506
+Lassen,Controller,,GRN,Laura Wells,276
+Los Angeles,Controller,,DEM,Betty T. Yee,163632
+Los Angeles,Controller,,DEM,John A. Pérez,198453
+Los Angeles,Controller,,DEM,Tammy D. Blair,33724
+Los Angeles,Controller,,REP,David Evans,103259
+Los Angeles,Controller,,REP,Ashley Swearengin,175088
+Los Angeles,Controller,,GRN,Laura Wells,38782
+Madera,Controller,,DEM,Betty T. Yee,1910
+Madera,Controller,,DEM,John A. Pérez,2275
+Madera,Controller,,DEM,Tammy D. Blair,596
+Madera,Controller,,REP,David Evans,3199
+Madera,Controller,,REP,Ashley Swearengin,10035
+Madera,Controller,,GRN,Laura Wells,577
+Marin,Controller,,DEM,Betty T. Yee,19913
+Marin,Controller,,DEM,John A. Pérez,12801
+Marin,Controller,,DEM,Tammy D. Blair,1446
+Marin,Controller,,REP,David Evans,9311
+Marin,Controller,,REP,Ashley Swearengin,5082
+Marin,Controller,,GRN,Laura Wells,3823
+Mariposa,Controller,,DEM,Betty T. Yee,628
+Mariposa,Controller,,DEM,John A. Pérez,504
+Mariposa,Controller,,DEM,Tammy D. Blair,175
+Mariposa,Controller,,REP,David Evans,1037
+Mariposa,Controller,,REP,Ashley Swearengin,2005
+Mariposa,Controller,,GRN,Laura Wells,291
+Mendocino,Controller,,DEM,Betty T. Yee,4353
+Mendocino,Controller,,DEM,John A. Pérez,2915
+Mendocino,Controller,,DEM,Tammy D. Blair,1150
+Mendocino,Controller,,REP,David Evans,3286
+Mendocino,Controller,,REP,Ashley Swearengin,1095
+Mendocino,Controller,,GRN,Laura Wells,2061
+Merced,Controller,,DEM,Betty T. Yee,2209
+Merced,Controller,,DEM,John A. Pérez,4199
+Merced,Controller,,DEM,Tammy D. Blair,1374
+Merced,Controller,,REP,David Evans,3440
+Merced,Controller,,REP,Ashley Swearengin,10253
+Merced,Controller,,GRN,Laura Wells,836
+Modoc,Controller,,DEM,Betty T. Yee,315
+Modoc,Controller,,DEM,John A. Pérez,178
+Modoc,Controller,,DEM,Tammy D. Blair,137
+Modoc,Controller,,REP,David Evans,1291
+Modoc,Controller,,REP,Ashley Swearengin,467
+Modoc,Controller,,GRN,Laura Wells,157
+Mono,Controller,,DEM,Betty T. Yee,556
+Mono,Controller,,DEM,John A. Pérez,380
+Mono,Controller,,DEM,Tammy D. Blair,141
+Mono,Controller,,REP,David Evans,920
+Mono,Controller,,REP,Ashley Swearengin,466
+Mono,Controller,,GRN,Laura Wells,229
+Monterey,Controller,,DEM,Betty T. Yee,14966
+Monterey,Controller,,DEM,John A. Pérez,8796
+Monterey,Controller,,DEM,Tammy D. Blair,2686
+Monterey,Controller,,REP,David Evans,9242
+Monterey,Controller,,REP,Ashley Swearengin,9024
+Monterey,Controller,,GRN,Laura Wells,3124
+Napa,Controller,,DEM,Betty T. Yee,5055
+Napa,Controller,,DEM,John A. Pérez,7153
+Napa,Controller,,DEM,Tammy D. Blair,1550
+Napa,Controller,,REP,David Evans,6023
+Napa,Controller,,REP,Ashley Swearengin,3958
+Napa,Controller,,GRN,Laura Wells,1647
+Nevada,Controller,,DEM,Betty T. Yee,6054
+Nevada,Controller,,DEM,John A. Pérez,3027
+Nevada,Controller,,DEM,Tammy D. Blair,894
+Nevada,Controller,,REP,David Evans,6611
+Nevada,Controller,,REP,Ashley Swearengin,5926
+Nevada,Controller,,GRN,Laura Wells,2190
+Orange,Controller,,DEM,Betty T. Yee,44743
+Orange,Controller,,DEM,John A. Pérez,49278
+Orange,Controller,,DEM,Tammy D. Blair,13975
+Orange,Controller,,REP,David Evans,85067
+Orange,Controller,,REP,Ashley Swearengin,109468
+Orange,Controller,,GRN,Laura Wells,13625
+Placer,Controller,,DEM,Betty T. Yee,11330
+Placer,Controller,,DEM,John A. Pérez,9252
+Placer,Controller,,DEM,Tammy D. Blair,2236
+Placer,Controller,,REP,David Evans,19560
+Placer,Controller,,REP,Ashley Swearengin,19628
+Placer,Controller,,GRN,Laura Wells,3494
+Plumas,Controller,,DEM,Betty T. Yee,829
+Plumas,Controller,,DEM,John A. Pérez,640
+Plumas,Controller,,DEM,Tammy D. Blair,213
+Plumas,Controller,,REP,David Evans,2014
+Plumas,Controller,,REP,Ashley Swearengin,834
+Plumas,Controller,,GRN,Laura Wells,318
+Riverside,Controller,,DEM,Betty T. Yee,26794
+Riverside,Controller,,DEM,John A. Pérez,38115
+Riverside,Controller,,DEM,Tammy D. Blair,9281
+Riverside,Controller,,REP,David Evans,48291
+Riverside,Controller,,REP,Ashley Swearengin,55217
+Riverside,Controller,,GRN,Laura Wells,8147
+Sacramento,Controller,,DEM,Betty T. Yee,49155
+Sacramento,Controller,,DEM,John A. Pérez,39445
+Sacramento,Controller,,DEM,Tammy D. Blair,10893
+Sacramento,Controller,,REP,David Evans,34085
+Sacramento,Controller,,REP,Ashley Swearengin,47420
+Sacramento,Controller,,GRN,Laura Wells,9628
+San Benito,Controller,,DEM,Betty T. Yee,1604
+San Benito,Controller,,DEM,John A. Pérez,1348
+San Benito,Controller,,DEM,Tammy D. Blair,311
+San Benito,Controller,,REP,David Evans,1604
+San Benito,Controller,,REP,Ashley Swearengin,1569
+San Benito,Controller,,GRN,Laura Wells,405
+San Bernardino,Controller,,DEM,Betty T. Yee,19407
+San Bernardino,Controller,,DEM,John A. Pérez,31332
+San Bernardino,Controller,,DEM,Tammy D. Blair,8504
+San Bernardino,Controller,,REP,David Evans,38795
+San Bernardino,Controller,,REP,Ashley Swearengin,44730
+San Bernardino,Controller,,GRN,Laura Wells,7110
+San Diego,Controller,,DEM,Betty T. Yee,74136
+San Diego,Controller,,DEM,John A. Pérez,64799
+San Diego,Controller,,DEM,Tammy D. Blair,15307
+San Diego,Controller,,REP,David Evans,86224
+San Diego,Controller,,REP,Ashley Swearengin,125217
+San Diego,Controller,,GRN,Laura Wells,18011
+San Francisco,Controller,,DEM,Betty T. Yee,50328
+San Francisco,Controller,,DEM,John A. Pérez,29822
+San Francisco,Controller,,DEM,Tammy D. Blair,5267
+San Francisco,Controller,,REP,David Evans,12731
+San Francisco,Controller,,REP,Ashley Swearengin,5805
+San Francisco,Controller,,GRN,Laura Wells,10159
+San Joaquin,Controller,,DEM,Betty T. Yee,15358
+San Joaquin,Controller,,DEM,John A. Pérez,15146
+San Joaquin,Controller,,DEM,Tammy D. Blair,3921
+San Joaquin,Controller,,REP,David Evans,17236
+San Joaquin,Controller,,REP,Ashley Swearengin,20635
+San Joaquin,Controller,,GRN,Laura Wells,4176
+San Luis Obispo,Controller,,DEM,Betty T. Yee,14140
+San Luis Obispo,Controller,,DEM,John A. Pérez,7181
+San Luis Obispo,Controller,,DEM,Tammy D. Blair,2427
+San Luis Obispo,Controller,,REP,David Evans,15992
+San Luis Obispo,Controller,,REP,Ashley Swearengin,13681
+San Luis Obispo,Controller,,GRN,Laura Wells,3321
+San Mateo,Controller,,DEM,Betty T. Yee,24143
+San Mateo,Controller,,DEM,John A. Pérez,26314
+San Mateo,Controller,,DEM,Tammy D. Blair,3649
+San Mateo,Controller,,REP,David Evans,15403
+San Mateo,Controller,,REP,Ashley Swearengin,10652
+San Mateo,Controller,,GRN,Laura Wells,5286
+Santa Barbara,Controller,,DEM,Betty T. Yee,13846
+Santa Barbara,Controller,,DEM,John A. Pérez,12861
+Santa Barbara,Controller,,DEM,Tammy D. Blair,3168
+Santa Barbara,Controller,,REP,David Evans,17559
+Santa Barbara,Controller,,REP,Ashley Swearengin,15207
+Santa Barbara,Controller,,GRN,Laura Wells,3763
+Santa Clara,Controller,,DEM,Betty T. Yee,65514
+Santa Clara,Controller,,DEM,John A. Pérez,63300
+Santa Clara,Controller,,DEM,Tammy D. Blair,12102
+Santa Clara,Controller,,REP,David Evans,42829
+Santa Clara,Controller,,REP,Ashley Swearengin,34853
+Santa Clara,Controller,,GRN,Laura Wells,14183
+Santa Cruz,Controller,,DEM,Betty T. Yee,15724
+Santa Cruz,Controller,,DEM,John A. Pérez,8381
+Santa Cruz,Controller,,DEM,Tammy D. Blair,2330
+Santa Cruz,Controller,,REP,David Evans,8551
+Santa Cruz,Controller,,REP,Ashley Swearengin,3994
+Santa Cruz,Controller,,GRN,Laura Wells,4518
+Shasta,Controller,,DEM,Betty T. Yee,4394
+Shasta,Controller,,DEM,John A. Pérez,2785
+Shasta,Controller,,DEM,Tammy D. Blair,1525
+Shasta,Controller,,REP,David Evans,11946
+Shasta,Controller,,REP,Ashley Swearengin,5598
+Shasta,Controller,,GRN,Laura Wells,1988
+Sierra,Controller,,DEM,Betty T. Yee,190
+Sierra,Controller,,DEM,John A. Pérez,135
+Sierra,Controller,,DEM,Tammy D. Blair,61
+Sierra,Controller,,REP,David Evans,508
+Sierra,Controller,,REP,Ashley Swearengin,197
+Sierra,Controller,,GRN,Laura Wells,99
+Siskiyou,Controller,,DEM,Betty T. Yee,2014
+Siskiyou,Controller,,DEM,John A. Pérez,1140
+Siskiyou,Controller,,DEM,Tammy D. Blair,536
+Siskiyou,Controller,,REP,David Evans,4403
+Siskiyou,Controller,,REP,Ashley Swearengin,1471
+Siskiyou,Controller,,GRN,Laura Wells,781
+Solano,Controller,,DEM,Betty T. Yee,11562
+Solano,Controller,,DEM,John A. Pérez,11808
+Solano,Controller,,DEM,Tammy D. Blair,4119
+Solano,Controller,,REP,David Evans,12798
+Solano,Controller,,REP,Ashley Swearengin,7185
+Solano,Controller,,GRN,Laura Wells,3228
+Sonoma,Controller,,DEM,Betty T. Yee,26930
+Sonoma,Controller,,DEM,John A. Pérez,22901
+Sonoma,Controller,,DEM,Tammy D. Blair,5362
+Sonoma,Controller,,REP,David Evans,18206
+Sonoma,Controller,,REP,Ashley Swearengin,8636
+Sonoma,Controller,,GRN,Laura Wells,8400
+Stanislaus,Controller,,DEM,Betty T. Yee,7839
+Stanislaus,Controller,,DEM,John A. Pérez,10654
+Stanislaus,Controller,,DEM,Tammy D. Blair,3182
+Stanislaus,Controller,,REP,David Evans,12773
+Stanislaus,Controller,,REP,Ashley Swearengin,15147
+Stanislaus,Controller,,GRN,Laura Wells,2420
+Sutter,Controller,,DEM,Betty T. Yee,1422
+Sutter,Controller,,DEM,John A. Pérez,1993
+Sutter,Controller,,DEM,Tammy D. Blair,1175
+Sutter,Controller,,REP,David Evans,4980
+Sutter,Controller,,REP,Ashley Swearengin,4081
+Sutter,Controller,,GRN,Laura Wells,562
+Tehama,Controller,,DEM,Betty T. Yee,1317
+Tehama,Controller,,DEM,John A. Pérez,1171
+Tehama,Controller,,DEM,Tammy D. Blair,1087
+Tehama,Controller,,REP,David Evans,4359
+Tehama,Controller,,REP,Ashley Swearengin,3414
+Tehama,Controller,,GRN,Laura Wells,757
+Trinity,Controller,,DEM,Betty T. Yee,622
+Trinity,Controller,,DEM,John A. Pérez,442
+Trinity,Controller,,DEM,Tammy D. Blair,232
+Trinity,Controller,,REP,David Evans,1162
+Trinity,Controller,,REP,Ashley Swearengin,483
+Trinity,Controller,,GRN,Laura Wells,475
+Tulare,Controller,,DEM,Betty T. Yee,3042
+Tulare,Controller,,DEM,John A. Pérez,6079
+Tulare,Controller,,DEM,Tammy D. Blair,1680
+Tulare,Controller,,REP,David Evans,6130
+Tulare,Controller,,REP,Ashley Swearengin,23922
+Tulare,Controller,,GRN,Laura Wells,1149
+Tuolumne,Controller,,DEM,Betty T. Yee,1916
+Tuolumne,Controller,,DEM,John A. Pérez,1625
+Tuolumne,Controller,,DEM,Tammy D. Blair,498
+Tuolumne,Controller,,REP,David Evans,4467
+Tuolumne,Controller,,REP,Ashley Swearengin,1869
+Tuolumne,Controller,,GRN,Laura Wells,729
+Ventura,Controller,,DEM,Betty T. Yee,14761
+Ventura,Controller,,DEM,John A. Pérez,19324
+Ventura,Controller,,DEM,Tammy D. Blair,5597
+Ventura,Controller,,REP,David Evans,24895
+Ventura,Controller,,REP,Ashley Swearengin,26766
+Ventura,Controller,,GRN,Laura Wells,5240
+Yolo,Controller,,DEM,Betty T. Yee,8764
+Yolo,Controller,,DEM,John A. Pérez,7776
+Yolo,Controller,,DEM,Tammy D. Blair,872
+Yolo,Controller,,REP,David Evans,5098
+Yolo,Controller,,REP,Ashley Swearengin,5180
+Yolo,Controller,,GRN,Laura Wells,1702
+Yuba,Controller,,DEM,Betty T. Yee,912
+Yuba,Controller,,DEM,John A. Pérez,1090
+Yuba,Controller,,DEM,Tammy D. Blair,701
+Yuba,Controller,,REP,David Evans,2577
+Yuba,Controller,,REP,Ashley Swearengin,2394
+Yuba,Controller,,GRN,Laura Wells,469
