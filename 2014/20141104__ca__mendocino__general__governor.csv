@@ -1,0 +1,499 @@
+county,precinct,office,district,party,candidate,votes
+Mendocino,100001,Governor,,DEM,Edmund G. Brown,129
+Mendocino,100001,Governor,,REP,Neel Kashkari,70
+Mendocino,100002,Governor,,DEM,Edmund G. Brown,206
+Mendocino,100002,Governor,,REP,Neel Kashkari,147
+Mendocino,100003,Governor,,DEM,Edmund G. Brown,191
+Mendocino,100003,Governor,,REP,Neel Kashkari,149
+Mendocino,100004,Governor,,DEM,Edmund G. Brown,189
+Mendocino,100004,Governor,,REP,Neel Kashkari,110
+Mendocino,100005,Governor,,DEM,Edmund G. Brown,115
+Mendocino,100005,Governor,,REP,Neel Kashkari,81
+Mendocino,100006,Governor,,DEM,Edmund G. Brown,181
+Mendocino,100006,Governor,,REP,Neel Kashkari,115
+Mendocino,100007,Governor,,DEM,Edmund G. Brown,80
+Mendocino,100007,Governor,,REP,Neel Kashkari,45
+Mendocino,100008,Governor,,DEM,Edmund G. Brown,176
+Mendocino,100008,Governor,,REP,Neel Kashkari,89
+Mendocino,100009,Governor,,DEM,Edmund G. Brown,189
+Mendocino,100009,Governor,,REP,Neel Kashkari,144
+Mendocino,100500,Governor,,DEM,Edmund G. Brown,98
+Mendocino,100500,Governor,,REP,Neel Kashkari,41
+Mendocino,200001,Governor,,DEM,Edmund G. Brown,94
+Mendocino,200001,Governor,,REP,Neel Kashkari,59
+Mendocino,200003,Governor,,DEM,Edmund G. Brown,306
+Mendocino,200003,Governor,,REP,Neel Kashkari,118
+Mendocino,200004,Governor,,DEM,Edmund G. Brown,245
+Mendocino,200004,Governor,,REP,Neel Kashkari,92
+Mendocino,300001,Governor,,DEM,Edmund G. Brown,298
+Mendocino,300001,Governor,,REP,Neel Kashkari,124
+Mendocino,300002,Governor,,DEM,Edmund G. Brown,274
+Mendocino,300002,Governor,,REP,Neel Kashkari,121
+Mendocino,300003,Governor,,DEM,Edmund G. Brown,210
+Mendocino,300003,Governor,,REP,Neel Kashkari,83
+Mendocino,300004,Governor,,DEM,Edmund G. Brown,171
+Mendocino,300004,Governor,,REP,Neel Kashkari,147
+Mendocino,300005,Governor,,DEM,Edmund G. Brown,185
+Mendocino,300005,Governor,,REP,Neel Kashkari,143
+Mendocino,300006,Governor,,DEM,Edmund G. Brown,267
+Mendocino,300006,Governor,,REP,Neel Kashkari,83
+Mendocino,300007,Governor,,DEM,Edmund G. Brown,242
+Mendocino,300007,Governor,,REP,Neel Kashkari,78
+Mendocino,300008,Governor,,DEM,Edmund G. Brown,374
+Mendocino,300008,Governor,,REP,Neel Kashkari,76
+Mendocino,400001,Governor,,DEM,Edmund G. Brown,315
+Mendocino,400001,Governor,,REP,Neel Kashkari,119
+Mendocino,400002,Governor,,DEM,Edmund G. Brown,158
+Mendocino,400002,Governor,,REP,Neel Kashkari,53
+Mendocino,400003,Governor,,DEM,Edmund G. Brown,92
+Mendocino,400003,Governor,,REP,Neel Kashkari,52
+Mendocino,400004,Governor,,DEM,Edmund G. Brown,324
+Mendocino,400004,Governor,,REP,Neel Kashkari,132
+Mendocino,400005,Governor,,DEM,Edmund G. Brown,422
+Mendocino,400005,Governor,,REP,Neel Kashkari,94
+Mendocino,400006,Governor,,DEM,Edmund G. Brown,213
+Mendocino,400006,Governor,,REP,Neel Kashkari,68
+Mendocino,400007,Governor,,DEM,Edmund G. Brown,158
+Mendocino,400007,Governor,,REP,Neel Kashkari,24
+Mendocino,500001,Governor,,DEM,Edmund G. Brown,122
+Mendocino,500001,Governor,,REP,Neel Kashkari,36
+Mendocino,500002,Governor,,DEM,Edmund G. Brown,291
+Mendocino,500002,Governor,,REP,Neel Kashkari,48
+Mendocino,500003,Governor,,DEM,Edmund G. Brown,134
+Mendocino,500003,Governor,,REP,Neel Kashkari,40
+Mendocino,500004,Governor,,DEM,Edmund G. Brown,373
+Mendocino,500004,Governor,,REP,Neel Kashkari,46
+Mendocino,500005,Governor,,DEM,Edmund G. Brown,341
+Mendocino,500005,Governor,,REP,Neel Kashkari,116
+Mendocino,500006,Governor,,DEM,Edmund G. Brown,136
+Mendocino,500006,Governor,,REP,Neel Kashkari,30
+Mendocino,500007,Governor,,DEM,Edmund G. Brown,335
+Mendocino,500007,Governor,,REP,Neel Kashkari,63
+Mendocino,500008,Governor,,DEM,Edmund G. Brown,212
+Mendocino,500008,Governor,,REP,Neel Kashkari,50
+Mendocino,500009,Governor,,DEM,Edmund G. Brown,86
+Mendocino,500009,Governor,,REP,Neel Kashkari,43
+Mendocino,999102,Governor,,DEM,Edmund G. Brown,34
+Mendocino,999102,Governor,,REP,Neel Kashkari,32
+Mendocino,999103,Governor,,DEM,Edmund G. Brown,54
+Mendocino,999103,Governor,,REP,Neel Kashkari,51
+Mendocino,999104,Governor,,DEM,Edmund G. Brown,68
+Mendocino,999104,Governor,,REP,Neel Kashkari,18
+Mendocino,999105,Governor,,DEM,Edmund G. Brown,46
+Mendocino,999105,Governor,,REP,Neel Kashkari,29
+Mendocino,999106,Governor,,DEM,Edmund G. Brown,53
+Mendocino,999106,Governor,,REP,Neel Kashkari,14
+Mendocino,999107,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999107,Governor,,REP,Neel Kashkari,0
+Mendocino,999108,Governor,,DEM,Edmund G. Brown,48
+Mendocino,999108,Governor,,REP,Neel Kashkari,31
+Mendocino,999109,Governor,,DEM,Edmund G. Brown,4
+Mendocino,999109,Governor,,REP,Neel Kashkari,7
+Mendocino,999110,Governor,,DEM,Edmund G. Brown,62
+Mendocino,999110,Governor,,REP,Neel Kashkari,26
+Mendocino,999111,Governor,,DEM,Edmund G. Brown,53
+Mendocino,999111,Governor,,REP,Neel Kashkari,25
+Mendocino,999112,Governor,,DEM,Edmund G. Brown,50
+Mendocino,999112,Governor,,REP,Neel Kashkari,27
+Mendocino,999113,Governor,,DEM,Edmund G. Brown,46
+Mendocino,999113,Governor,,REP,Neel Kashkari,34
+Mendocino,999114,Governor,,DEM,Edmund G. Brown,5
+Mendocino,999114,Governor,,REP,Neel Kashkari,3
+Mendocino,999115,Governor,,DEM,Edmund G. Brown,25
+Mendocino,999115,Governor,,REP,Neel Kashkari,14
+Mendocino,999116,Governor,,DEM,Edmund G. Brown,42
+Mendocino,999116,Governor,,REP,Neel Kashkari,11
+Mendocino,999117,Governor,,DEM,Edmund G. Brown,31
+Mendocino,999117,Governor,,REP,Neel Kashkari,20
+Mendocino,999118,Governor,,DEM,Edmund G. Brown,4
+Mendocino,999118,Governor,,REP,Neel Kashkari,5
+Mendocino,999119,Governor,,DEM,Edmund G. Brown,5
+Mendocino,999119,Governor,,REP,Neel Kashkari,0
+Mendocino,999120,Governor,,DEM,Edmund G. Brown,32
+Mendocino,999120,Governor,,REP,Neel Kashkari,43
+Mendocino,999121,Governor,,DEM,Edmund G. Brown,10
+Mendocino,999121,Governor,,REP,Neel Kashkari,5
+Mendocino,999122,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999122,Governor,,REP,Neel Kashkari,0
+Mendocino,999124,Governor,,DEM,Edmund G. Brown,57
+Mendocino,999124,Governor,,REP,Neel Kashkari,30
+Mendocino,999125,Governor,,DEM,Edmund G. Brown,11
+Mendocino,999125,Governor,,REP,Neel Kashkari,6
+Mendocino,999126,Governor,,DEM,Edmund G. Brown,24
+Mendocino,999126,Governor,,REP,Neel Kashkari,15
+Mendocino,999127,Governor,,DEM,Edmund G. Brown,28
+Mendocino,999127,Governor,,REP,Neel Kashkari,20
+Mendocino,999128,Governor,,DEM,Edmund G. Brown,39
+Mendocino,999128,Governor,,REP,Neel Kashkari,36
+Mendocino,999129,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999129,Governor,,REP,Neel Kashkari,0
+Mendocino,999130,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999130,Governor,,REP,Neel Kashkari,0
+Mendocino,999131,Governor,,DEM,Edmund G. Brown,7
+Mendocino,999131,Governor,,REP,Neel Kashkari,7
+Mendocino,999132,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999132,Governor,,REP,Neel Kashkari,0
+Mendocino,999133,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999133,Governor,,REP,Neel Kashkari,0
+Mendocino,999134,Governor,,DEM,Edmund G. Brown,27
+Mendocino,999134,Governor,,REP,Neel Kashkari,12
+Mendocino,999135,Governor,,DEM,Edmund G. Brown,10
+Mendocino,999135,Governor,,REP,Neel Kashkari,3
+Mendocino,999136,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999136,Governor,,REP,Neel Kashkari,0
+Mendocino,999137,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999137,Governor,,REP,Neel Kashkari,3
+Mendocino,999138,Governor,,DEM,Edmund G. Brown,3
+Mendocino,999138,Governor,,REP,Neel Kashkari,0
+Mendocino,999139,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999139,Governor,,REP,Neel Kashkari,0
+Mendocino,999140,Governor,,DEM,Edmund G. Brown,15
+Mendocino,999140,Governor,,REP,Neel Kashkari,25
+Mendocino,999141,Governor,,DEM,Edmund G. Brown,69
+Mendocino,999141,Governor,,REP,Neel Kashkari,36
+Mendocino,999142,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999142,Governor,,REP,Neel Kashkari,0
+Mendocino,999143,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999143,Governor,,REP,Neel Kashkari,0
+Mendocino,999144,Governor,,DEM,Edmund G. Brown,1
+Mendocino,999144,Governor,,REP,Neel Kashkari,2
+Mendocino,999145,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999145,Governor,,REP,Neel Kashkari,0
+Mendocino,999146,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999146,Governor,,REP,Neel Kashkari,0
+Mendocino,999147,Governor,,DEM,Edmund G. Brown,1
+Mendocino,999147,Governor,,REP,Neel Kashkari,1
+Mendocino,999148,Governor,,DEM,Edmund G. Brown,73
+Mendocino,999148,Governor,,REP,Neel Kashkari,68
+Mendocino,999149,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999149,Governor,,REP,Neel Kashkari,0
+Mendocino,999150,Governor,,DEM,Edmund G. Brown,27
+Mendocino,999150,Governor,,REP,Neel Kashkari,37
+Mendocino,999151,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999151,Governor,,REP,Neel Kashkari,0
+Mendocino,999201,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999201,Governor,,REP,Neel Kashkari,0
+Mendocino,999202,Governor,,DEM,Edmund G. Brown,96
+Mendocino,999202,Governor,,REP,Neel Kashkari,48
+Mendocino,999203,Governor,,DEM,Edmund G. Brown,78
+Mendocino,999203,Governor,,REP,Neel Kashkari,45
+Mendocino,999204,Governor,,DEM,Edmund G. Brown,65
+Mendocino,999204,Governor,,REP,Neel Kashkari,43
+Mendocino,999205,Governor,,DEM,Edmund G. Brown,149
+Mendocino,999205,Governor,,REP,Neel Kashkari,62
+Mendocino,999206,Governor,,DEM,Edmund G. Brown,49
+Mendocino,999206,Governor,,REP,Neel Kashkari,36
+Mendocino,999207,Governor,,DEM,Edmund G. Brown,46
+Mendocino,999207,Governor,,REP,Neel Kashkari,20
+Mendocino,999208,Governor,,DEM,Edmund G. Brown,53
+Mendocino,999208,Governor,,REP,Neel Kashkari,18
+Mendocino,999209,Governor,,DEM,Edmund G. Brown,27
+Mendocino,999209,Governor,,REP,Neel Kashkari,8
+Mendocino,999210,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999210,Governor,,REP,Neel Kashkari,0
+Mendocino,999211,Governor,,DEM,Edmund G. Brown,75
+Mendocino,999211,Governor,,REP,Neel Kashkari,30
+Mendocino,999212,Governor,,DEM,Edmund G. Brown,54
+Mendocino,999212,Governor,,REP,Neel Kashkari,19
+Mendocino,999213,Governor,,DEM,Edmund G. Brown,72
+Mendocino,999213,Governor,,REP,Neel Kashkari,36
+Mendocino,999214,Governor,,DEM,Edmund G. Brown,69
+Mendocino,999214,Governor,,REP,Neel Kashkari,14
+Mendocino,999215,Governor,,DEM,Edmund G. Brown,88
+Mendocino,999215,Governor,,REP,Neel Kashkari,36
+Mendocino,999216,Governor,,DEM,Edmund G. Brown,203
+Mendocino,999216,Governor,,REP,Neel Kashkari,66
+Mendocino,999217,Governor,,DEM,Edmund G. Brown,42
+Mendocino,999217,Governor,,REP,Neel Kashkari,12
+Mendocino,999218,Governor,,DEM,Edmund G. Brown,60
+Mendocino,999218,Governor,,REP,Neel Kashkari,17
+Mendocino,999219,Governor,,DEM,Edmund G. Brown,62
+Mendocino,999219,Governor,,REP,Neel Kashkari,13
+Mendocino,999220,Governor,,DEM,Edmund G. Brown,92
+Mendocino,999220,Governor,,REP,Neel Kashkari,26
+Mendocino,999221,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999221,Governor,,REP,Neel Kashkari,0
+Mendocino,999222,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999222,Governor,,REP,Neel Kashkari,17
+Mendocino,999223,Governor,,DEM,Edmund G. Brown,112
+Mendocino,999223,Governor,,REP,Neel Kashkari,42
+Mendocino,999224,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999224,Governor,,REP,Neel Kashkari,0
+Mendocino,999225,Governor,,DEM,Edmund G. Brown,13
+Mendocino,999225,Governor,,REP,Neel Kashkari,13
+Mendocino,999226,Governor,,DEM,Edmund G. Brown,31
+Mendocino,999226,Governor,,REP,Neel Kashkari,18
+Mendocino,999227,Governor,,DEM,Edmund G. Brown,69
+Mendocino,999227,Governor,,REP,Neel Kashkari,9
+Mendocino,999228,Governor,,DEM,Edmund G. Brown,34
+Mendocino,999228,Governor,,REP,Neel Kashkari,23
+Mendocino,999229,Governor,,DEM,Edmund G. Brown,53
+Mendocino,999229,Governor,,REP,Neel Kashkari,31
+Mendocino,999230,Governor,,DEM,Edmund G. Brown,26
+Mendocino,999230,Governor,,REP,Neel Kashkari,18
+Mendocino,999231,Governor,,DEM,Edmund G. Brown,55
+Mendocino,999231,Governor,,REP,Neel Kashkari,37
+Mendocino,999232,Governor,,DEM,Edmund G. Brown,74
+Mendocino,999232,Governor,,REP,Neel Kashkari,15
+Mendocino,999233,Governor,,DEM,Edmund G. Brown,53
+Mendocino,999233,Governor,,REP,Neel Kashkari,30
+Mendocino,999234,Governor,,DEM,Edmund G. Brown,34
+Mendocino,999234,Governor,,REP,Neel Kashkari,21
+Mendocino,999235,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999235,Governor,,REP,Neel Kashkari,2
+Mendocino,999236,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999236,Governor,,REP,Neel Kashkari,0
+Mendocino,999301,Governor,,DEM,Edmund G. Brown,109
+Mendocino,999301,Governor,,REP,Neel Kashkari,17
+Mendocino,999302,Governor,,DEM,Edmund G. Brown,52
+Mendocino,999302,Governor,,REP,Neel Kashkari,9
+Mendocino,999303,Governor,,DEM,Edmund G. Brown,74
+Mendocino,999303,Governor,,REP,Neel Kashkari,32
+Mendocino,999304,Governor,,DEM,Edmund G. Brown,54
+Mendocino,999304,Governor,,REP,Neel Kashkari,22
+Mendocino,999305,Governor,,DEM,Edmund G. Brown,68
+Mendocino,999305,Governor,,REP,Neel Kashkari,22
+Mendocino,999306,Governor,,DEM,Edmund G. Brown,54
+Mendocino,999306,Governor,,REP,Neel Kashkari,13
+Mendocino,999307,Governor,,DEM,Edmund G. Brown,46
+Mendocino,999307,Governor,,REP,Neel Kashkari,30
+Mendocino,999308,Governor,,DEM,Edmund G. Brown,42
+Mendocino,999308,Governor,,REP,Neel Kashkari,16
+Mendocino,999309,Governor,,DEM,Edmund G. Brown,21
+Mendocino,999309,Governor,,REP,Neel Kashkari,10
+Mendocino,999310,Governor,,DEM,Edmund G. Brown,27
+Mendocino,999310,Governor,,REP,Neel Kashkari,11
+Mendocino,999311,Governor,,DEM,Edmund G. Brown,41
+Mendocino,999311,Governor,,REP,Neel Kashkari,14
+Mendocino,999312,Governor,,DEM,Edmund G. Brown,58
+Mendocino,999312,Governor,,REP,Neel Kashkari,20
+Mendocino,999313,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999313,Governor,,REP,Neel Kashkari,17
+Mendocino,999314,Governor,,DEM,Edmund G. Brown,115
+Mendocino,999314,Governor,,REP,Neel Kashkari,24
+Mendocino,999315,Governor,,DEM,Edmund G. Brown,75
+Mendocino,999315,Governor,,REP,Neel Kashkari,17
+Mendocino,999316,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999316,Governor,,REP,Neel Kashkari,35
+Mendocino,999317,Governor,,DEM,Edmund G. Brown,1
+Mendocino,999317,Governor,,REP,Neel Kashkari,0
+Mendocino,999318,Governor,,DEM,Edmund G. Brown,57
+Mendocino,999318,Governor,,REP,Neel Kashkari,31
+Mendocino,999319,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999319,Governor,,REP,Neel Kashkari,23
+Mendocino,999320,Governor,,DEM,Edmund G. Brown,95
+Mendocino,999320,Governor,,REP,Neel Kashkari,42
+Mendocino,999322,Governor,,DEM,Edmund G. Brown,67
+Mendocino,999322,Governor,,REP,Neel Kashkari,40
+Mendocino,999323,Governor,,DEM,Edmund G. Brown,92
+Mendocino,999323,Governor,,REP,Neel Kashkari,36
+Mendocino,999324,Governor,,DEM,Edmund G. Brown,42
+Mendocino,999324,Governor,,REP,Neel Kashkari,22
+Mendocino,999325,Governor,,DEM,Edmund G. Brown,33
+Mendocino,999325,Governor,,REP,Neel Kashkari,8
+Mendocino,999326,Governor,,DEM,Edmund G. Brown,85
+Mendocino,999326,Governor,,REP,Neel Kashkari,24
+Mendocino,999327,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999327,Governor,,REP,Neel Kashkari,0
+Mendocino,999328,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999328,Governor,,REP,Neel Kashkari,0
+Mendocino,999329,Governor,,DEM,Edmund G. Brown,18
+Mendocino,999329,Governor,,REP,Neel Kashkari,5
+Mendocino,999330,Governor,,DEM,Edmund G. Brown,43
+Mendocino,999330,Governor,,REP,Neel Kashkari,13
+Mendocino,999401,Governor,,DEM,Edmund G. Brown,33
+Mendocino,999401,Governor,,REP,Neel Kashkari,19
+Mendocino,999402,Governor,,DEM,Edmund G. Brown,36
+Mendocino,999402,Governor,,REP,Neel Kashkari,1
+Mendocino,999403,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999403,Governor,,REP,Neel Kashkari,0
+Mendocino,999404,Governor,,DEM,Edmund G. Brown,50
+Mendocino,999404,Governor,,REP,Neel Kashkari,11
+Mendocino,999405,Governor,,DEM,Edmund G. Brown,27
+Mendocino,999405,Governor,,REP,Neel Kashkari,2
+Mendocino,999406,Governor,,DEM,Edmund G. Brown,65
+Mendocino,999406,Governor,,REP,Neel Kashkari,25
+Mendocino,999407,Governor,,DEM,Edmund G. Brown,56
+Mendocino,999407,Governor,,REP,Neel Kashkari,20
+Mendocino,999408,Governor,,DEM,Edmund G. Brown,42
+Mendocino,999408,Governor,,REP,Neel Kashkari,23
+Mendocino,999409,Governor,,DEM,Edmund G. Brown,114
+Mendocino,999409,Governor,,REP,Neel Kashkari,46
+Mendocino,999410,Governor,,DEM,Edmund G. Brown,59
+Mendocino,999410,Governor,,REP,Neel Kashkari,38
+Mendocino,999411,Governor,,DEM,Edmund G. Brown,72
+Mendocino,999411,Governor,,REP,Neel Kashkari,34
+Mendocino,999412,Governor,,DEM,Edmund G. Brown,52
+Mendocino,999412,Governor,,REP,Neel Kashkari,32
+Mendocino,999413,Governor,,DEM,Edmund G. Brown,38
+Mendocino,999413,Governor,,REP,Neel Kashkari,15
+Mendocino,999414,Governor,,DEM,Edmund G. Brown,97
+Mendocino,999414,Governor,,REP,Neel Kashkari,31
+Mendocino,999415,Governor,,DEM,Edmund G. Brown,43
+Mendocino,999415,Governor,,REP,Neel Kashkari,16
+Mendocino,999416,Governor,,DEM,Edmund G. Brown,76
+Mendocino,999416,Governor,,REP,Neel Kashkari,23
+Mendocino,999417,Governor,,DEM,Edmund G. Brown,20
+Mendocino,999417,Governor,,REP,Neel Kashkari,9
+Mendocino,999418,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999418,Governor,,REP,Neel Kashkari,0
+Mendocino,999419,Governor,,DEM,Edmund G. Brown,77
+Mendocino,999419,Governor,,REP,Neel Kashkari,29
+Mendocino,999420,Governor,,DEM,Edmund G. Brown,76
+Mendocino,999420,Governor,,REP,Neel Kashkari,26
+Mendocino,999421,Governor,,DEM,Edmund G. Brown,83
+Mendocino,999421,Governor,,REP,Neel Kashkari,35
+Mendocino,999423,Governor,,DEM,Edmund G. Brown,27
+Mendocino,999423,Governor,,REP,Neel Kashkari,15
+Mendocino,999424,Governor,,DEM,Edmund G. Brown,106
+Mendocino,999424,Governor,,REP,Neel Kashkari,22
+Mendocino,999425,Governor,,DEM,Edmund G. Brown,123
+Mendocino,999425,Governor,,REP,Neel Kashkari,23
+Mendocino,999426,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999426,Governor,,REP,Neel Kashkari,17
+Mendocino,999427,Governor,,DEM,Edmund G. Brown,55
+Mendocino,999427,Governor,,REP,Neel Kashkari,17
+Mendocino,999428,Governor,,DEM,Edmund G. Brown,97
+Mendocino,999428,Governor,,REP,Neel Kashkari,46
+Mendocino,999429,Governor,,DEM,Edmund G. Brown,77
+Mendocino,999429,Governor,,REP,Neel Kashkari,28
+Mendocino,999430,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999430,Governor,,REP,Neel Kashkari,0
+Mendocino,999431,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999431,Governor,,REP,Neel Kashkari,0
+Mendocino,999432,Governor,,DEM,Edmund G. Brown,85
+Mendocino,999432,Governor,,REP,Neel Kashkari,32
+Mendocino,999433,Governor,,DEM,Edmund G. Brown,37
+Mendocino,999433,Governor,,REP,Neel Kashkari,7
+Mendocino,999434,Governor,,DEM,Edmund G. Brown,75
+Mendocino,999434,Governor,,REP,Neel Kashkari,30
+Mendocino,999435,Governor,,DEM,Edmund G. Brown,53
+Mendocino,999435,Governor,,REP,Neel Kashkari,20
+Mendocino,999436,Governor,,DEM,Edmund G. Brown,68
+Mendocino,999436,Governor,,REP,Neel Kashkari,29
+Mendocino,999437,Governor,,DEM,Edmund G. Brown,89
+Mendocino,999437,Governor,,REP,Neel Kashkari,17
+Mendocino,999438,Governor,,DEM,Edmund G. Brown,52
+Mendocino,999438,Governor,,REP,Neel Kashkari,15
+Mendocino,999439,Governor,,DEM,Edmund G. Brown,9
+Mendocino,999439,Governor,,REP,Neel Kashkari,3
+Mendocino,999440,Governor,,DEM,Edmund G. Brown,3
+Mendocino,999440,Governor,,REP,Neel Kashkari,0
+Mendocino,999441,Governor,,DEM,Edmund G. Brown,59
+Mendocino,999441,Governor,,REP,Neel Kashkari,21
+Mendocino,999442,Governor,,DEM,Edmund G. Brown,8
+Mendocino,999442,Governor,,REP,Neel Kashkari,3
+Mendocino,999501,Governor,,DEM,Edmund G. Brown,89
+Mendocino,999501,Governor,,REP,Neel Kashkari,14
+Mendocino,999502,Governor,,DEM,Edmund G. Brown,117
+Mendocino,999502,Governor,,REP,Neel Kashkari,12
+Mendocino,999503,Governor,,DEM,Edmund G. Brown,44
+Mendocino,999503,Governor,,REP,Neel Kashkari,12
+Mendocino,999504,Governor,,DEM,Edmund G. Brown,96
+Mendocino,999504,Governor,,REP,Neel Kashkari,7
+Mendocino,999505,Governor,,DEM,Edmund G. Brown,90
+Mendocino,999505,Governor,,REP,Neel Kashkari,20
+Mendocino,999506,Governor,,DEM,Edmund G. Brown,95
+Mendocino,999506,Governor,,REP,Neel Kashkari,23
+Mendocino,999507,Governor,,DEM,Edmund G. Brown,93
+Mendocino,999507,Governor,,REP,Neel Kashkari,24
+Mendocino,999508,Governor,,DEM,Edmund G. Brown,64
+Mendocino,999508,Governor,,REP,Neel Kashkari,22
+Mendocino,999509,Governor,,DEM,Edmund G. Brown,36
+Mendocino,999509,Governor,,REP,Neel Kashkari,3
+Mendocino,999510,Governor,,DEM,Edmund G. Brown,106
+Mendocino,999510,Governor,,REP,Neel Kashkari,28
+Mendocino,999511,Governor,,DEM,Edmund G. Brown,39
+Mendocino,999511,Governor,,REP,Neel Kashkari,2
+Mendocino,999512,Governor,,DEM,Edmund G. Brown,50
+Mendocino,999512,Governor,,REP,Neel Kashkari,19
+Mendocino,999513,Governor,,DEM,Edmund G. Brown,83
+Mendocino,999513,Governor,,REP,Neel Kashkari,33
+Mendocino,999514,Governor,,DEM,Edmund G. Brown,100
+Mendocino,999514,Governor,,REP,Neel Kashkari,10
+Mendocino,999515,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999515,Governor,,REP,Neel Kashkari,2
+Mendocino,999516,Governor,,DEM,Edmund G. Brown,90
+Mendocino,999516,Governor,,REP,Neel Kashkari,14
+Mendocino,999517,Governor,,DEM,Edmund G. Brown,63
+Mendocino,999517,Governor,,REP,Neel Kashkari,16
+Mendocino,999518,Governor,,DEM,Edmund G. Brown,22
+Mendocino,999518,Governor,,REP,Neel Kashkari,9
+Mendocino,999519,Governor,,DEM,Edmund G. Brown,45
+Mendocino,999519,Governor,,REP,Neel Kashkari,11
+Mendocino,999520,Governor,,DEM,Edmund G. Brown,38
+Mendocino,999520,Governor,,REP,Neel Kashkari,7
+Mendocino,999521,Governor,,DEM,Edmund G. Brown,127
+Mendocino,999521,Governor,,REP,Neel Kashkari,16
+Mendocino,999522,Governor,,DEM,Edmund G. Brown,34
+Mendocino,999522,Governor,,REP,Neel Kashkari,2
+Mendocino,999523,Governor,,DEM,Edmund G. Brown,1
+Mendocino,999523,Governor,,REP,Neel Kashkari,0
+Mendocino,999525,Governor,,DEM,Edmund G. Brown,101
+Mendocino,999525,Governor,,REP,Neel Kashkari,33
+Mendocino,999526,Governor,,DEM,Edmund G. Brown,52
+Mendocino,999526,Governor,,REP,Neel Kashkari,20
+Mendocino,999527,Governor,,DEM,Edmund G. Brown,13
+Mendocino,999527,Governor,,REP,Neel Kashkari,7
+Mendocino,999528,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999528,Governor,,REP,Neel Kashkari,34
+Mendocino,999529,Governor,,DEM,Edmund G. Brown,71
+Mendocino,999529,Governor,,REP,Neel Kashkari,32
+Mendocino,999530,Governor,,DEM,Edmund G. Brown,65
+Mendocino,999530,Governor,,REP,Neel Kashkari,37
+Mendocino,999531,Governor,,DEM,Edmund G. Brown,18
+Mendocino,999531,Governor,,REP,Neel Kashkari,1
+Mendocino,999532,Governor,,DEM,Edmund G. Brown,38
+Mendocino,999532,Governor,,REP,Neel Kashkari,7
+Mendocino,999533,Governor,,DEM,Edmund G. Brown,61
+Mendocino,999533,Governor,,REP,Neel Kashkari,66
+Mendocino,999534,Governor,,DEM,Edmund G. Brown,29
+Mendocino,999534,Governor,,REP,Neel Kashkari,28
+Mendocino,999535,Governor,,DEM,Edmund G. Brown,45
+Mendocino,999535,Governor,,REP,Neel Kashkari,16
+Mendocino,999536,Governor,,DEM,Edmund G. Brown,71
+Mendocino,999536,Governor,,REP,Neel Kashkari,40
+Mendocino,999537,Governor,,DEM,Edmund G. Brown,11
+Mendocino,999537,Governor,,REP,Neel Kashkari,0
+Mendocino,999538,Governor,,DEM,Edmund G. Brown,44
+Mendocino,999538,Governor,,REP,Neel Kashkari,47
+Mendocino,999539,Governor,,DEM,Edmund G. Brown,72
+Mendocino,999539,Governor,,REP,Neel Kashkari,27
+Mendocino,999540,Governor,,DEM,Edmund G. Brown,6
+Mendocino,999540,Governor,,REP,Neel Kashkari,3
+Mendocino,999541,Governor,,DEM,Edmund G. Brown,76
+Mendocino,999541,Governor,,REP,Neel Kashkari,16
+Mendocino,999542,Governor,,DEM,Edmund G. Brown,33
+Mendocino,999542,Governor,,REP,Neel Kashkari,28
+Mendocino,999543,Governor,,DEM,Edmund G. Brown,8
+Mendocino,999543,Governor,,REP,Neel Kashkari,1
+Mendocino,999544,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999544,Governor,,REP,Neel Kashkari,0
+Mendocino,999545,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999545,Governor,,REP,Neel Kashkari,0
+Mendocino,999546,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999546,Governor,,REP,Neel Kashkari,2
+Mendocino,999547,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999547,Governor,,REP,Neel Kashkari,0
+Mendocino,999548,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999548,Governor,,REP,Neel Kashkari,0
+Mendocino,999549,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999549,Governor,,REP,Neel Kashkari,0
+Mendocino,999550,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999550,Governor,,REP,Neel Kashkari,4
+Mendocino,999551,Governor,,DEM,Edmund G. Brown,38
+Mendocino,999551,Governor,,REP,Neel Kashkari,21
+Mendocino,999552,Governor,,DEM,Edmund G. Brown,2
+Mendocino,999552,Governor,,REP,Neel Kashkari,0
+Mendocino,999553,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999553,Governor,,REP,Neel Kashkari,0
+Mendocino,999554,Governor,,DEM,Edmund G. Brown,0
+Mendocino,999554,Governor,,REP,Neel Kashkari,0
+Mendocino,999555,Governor,,DEM,Edmund G. Brown,1
+Mendocino,999555,Governor,,REP,Neel Kashkari,3
+Mendocino,999556,Governor,,DEM,Edmund G. Brown,59
+Mendocino,999556,Governor,,REP,Neel Kashkari,23
+Mendocino,999557,Governor,,DEM,Edmund G. Brown,20
+Mendocino,999557,Governor,,REP,Neel Kashkari,3
+Mendocino,999558,Governor,,DEM,Edmund G. Brown,68
+Mendocino,999558,Governor,,REP,Neel Kashkari,37

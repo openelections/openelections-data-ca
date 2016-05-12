@@ -1,0 +1,951 @@
+county,precinct,office,district,party,candidate,votes
+San Mateo,1001,State Assembly,22,DEM,Kevin Mullin,382
+San Mateo,1001,State Assembly,22,REP,Mark Gilham,105
+San Mateo,1002,State Assembly,22,DEM,Kevin Mullin,265
+San Mateo,1002,State Assembly,22,REP,Mark Gilham,98
+San Mateo,1003,State Assembly,22,DEM,Kevin Mullin,400
+San Mateo,1003,State Assembly,22,REP,Mark Gilham,175
+San Mateo,1005,State Assembly,22,DEM,Kevin Mullin,362
+San Mateo,1005,State Assembly,22,REP,Mark Gilham,156
+San Mateo,1007,State Assembly,22,DEM,Kevin Mullin,215
+San Mateo,1007,State Assembly,22,REP,Mark Gilham,72
+San Mateo,1008,State Assembly,22,DEM,Kevin Mullin,406
+San Mateo,1008,State Assembly,22,REP,Mark Gilham,152
+San Mateo,1009,State Assembly,22,DEM,Kevin Mullin,207
+San Mateo,1009,State Assembly,22,REP,Mark Gilham,134
+San Mateo,1011,State Assembly,22,DEM,Kevin Mullin,201
+San Mateo,1011,State Assembly,22,REP,Mark Gilham,72
+San Mateo,1012,State Assembly,22,DEM,Kevin Mullin,278
+San Mateo,1012,State Assembly,22,REP,Mark Gilham,83
+San Mateo,1013,State Assembly,22,DEM,Kevin Mullin,298
+San Mateo,1013,State Assembly,22,REP,Mark Gilham,138
+San Mateo,1015,State Assembly,22,DEM,Kevin Mullin,231
+San Mateo,1015,State Assembly,22,REP,Mark Gilham,120
+San Mateo,1016,State Assembly,22,DEM,Kevin Mullin,284
+San Mateo,1016,State Assembly,22,REP,Mark Gilham,108
+San Mateo,1017,State Assembly,22,DEM,Kevin Mullin,347
+San Mateo,1017,State Assembly,22,REP,Mark Gilham,171
+San Mateo,1018,State Assembly,22,DEM,Kevin Mullin,333
+San Mateo,1018,State Assembly,22,REP,Mark Gilham,145
+San Mateo,1019,State Assembly,22,DEM,Kevin Mullin,288
+San Mateo,1019,State Assembly,22,REP,Mark Gilham,174
+San Mateo,1020,State Assembly,22,DEM,Kevin Mullin,163
+San Mateo,1020,State Assembly,22,REP,Mark Gilham,64
+San Mateo,1021,State Assembly,22,DEM,Kevin Mullin,459
+San Mateo,1021,State Assembly,22,REP,Mark Gilham,317
+San Mateo,1201,State Assembly,22,DEM,Kevin Mullin,39
+San Mateo,1201,State Assembly,22,REP,Mark Gilham,34
+San Mateo,1202,State Assembly,22,DEM,Kevin Mullin,46
+San Mateo,1202,State Assembly,22,REP,Mark Gilham,51
+San Mateo,1203,State Assembly,22,DEM,Kevin Mullin,24
+San Mateo,1203,State Assembly,22,REP,Mark Gilham,16
+San Mateo,1204,State Assembly,22,DEM,Kevin Mullin,49
+San Mateo,1204,State Assembly,22,REP,Mark Gilham,26
+San Mateo,1205,State Assembly,22,DEM,Kevin Mullin,8
+San Mateo,1205,State Assembly,22,REP,Mark Gilham,6
+San Mateo,1206,State Assembly,22,DEM,Kevin Mullin,31
+San Mateo,1206,State Assembly,22,REP,Mark Gilham,30
+San Mateo,1302,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,1302,State Assembly,22,REP,Mark Gilham,0
+San Mateo,1303,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,1303,State Assembly,22,REP,Mark Gilham,0
+San Mateo,1304,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,1304,State Assembly,24,REP,Diane Gabl,0
+San Mateo,1401,State Assembly,22,DEM,Kevin Mullin,133
+San Mateo,1401,State Assembly,22,REP,Mark Gilham,213
+San Mateo,1402,State Assembly,22,DEM,Kevin Mullin,41
+San Mateo,1402,State Assembly,22,REP,Mark Gilham,60
+San Mateo,1403,State Assembly,22,DEM,Kevin Mullin,418
+San Mateo,1403,State Assembly,22,REP,Mark Gilham,471
+San Mateo,1406,State Assembly,22,DEM,Kevin Mullin,149
+San Mateo,1406,State Assembly,22,REP,Mark Gilham,186
+San Mateo,1407,State Assembly,22,DEM,Kevin Mullin,378
+San Mateo,1407,State Assembly,22,REP,Mark Gilham,392
+San Mateo,1409,State Assembly,22,DEM,Kevin Mullin,168
+San Mateo,1409,State Assembly,22,REP,Mark Gilham,177
+San Mateo,1410,State Assembly,22,DEM,Kevin Mullin,120
+San Mateo,1410,State Assembly,22,REP,Mark Gilham,108
+San Mateo,1411,State Assembly,22,DEM,Kevin Mullin,161
+San Mateo,1411,State Assembly,22,REP,Mark Gilham,173
+San Mateo,1501,State Assembly,22,DEM,Kevin Mullin,196
+San Mateo,1501,State Assembly,22,REP,Mark Gilham,93
+San Mateo,1502,State Assembly,22,DEM,Kevin Mullin,221
+San Mateo,1502,State Assembly,22,REP,Mark Gilham,72
+San Mateo,1503,State Assembly,22,DEM,Kevin Mullin,368
+San Mateo,1503,State Assembly,22,REP,Mark Gilham,281
+San Mateo,1506,State Assembly,22,DEM,Kevin Mullin,277
+San Mateo,1506,State Assembly,22,REP,Mark Gilham,149
+San Mateo,1507,State Assembly,22,DEM,Kevin Mullin,234
+San Mateo,1507,State Assembly,22,REP,Mark Gilham,150
+San Mateo,1508,State Assembly,22,DEM,Kevin Mullin,262
+San Mateo,1508,State Assembly,22,REP,Mark Gilham,117
+San Mateo,1509,State Assembly,22,DEM,Kevin Mullin,269
+San Mateo,1509,State Assembly,22,REP,Mark Gilham,97
+San Mateo,1510,State Assembly,22,DEM,Kevin Mullin,184
+San Mateo,1510,State Assembly,22,REP,Mark Gilham,79
+San Mateo,1511,State Assembly,22,DEM,Kevin Mullin,193
+San Mateo,1511,State Assembly,22,REP,Mark Gilham,77
+San Mateo,1512,State Assembly,22,DEM,Kevin Mullin,300
+San Mateo,1512,State Assembly,22,REP,Mark Gilham,139
+San Mateo,1514,State Assembly,22,DEM,Kevin Mullin,257
+San Mateo,1514,State Assembly,22,REP,Mark Gilham,154
+San Mateo,1515,State Assembly,22,DEM,Kevin Mullin,234
+San Mateo,1515,State Assembly,22,REP,Mark Gilham,177
+San Mateo,1601,State Assembly,22,DEM,Kevin Mullin,345
+San Mateo,1601,State Assembly,22,REP,Mark Gilham,77
+San Mateo,1603,State Assembly,22,DEM,Kevin Mullin,195
+San Mateo,1603,State Assembly,22,REP,Mark Gilham,48
+San Mateo,1604,State Assembly,22,DEM,Kevin Mullin,290
+San Mateo,1604,State Assembly,22,REP,Mark Gilham,60
+San Mateo,1605,State Assembly,22,DEM,Kevin Mullin,209
+San Mateo,1605,State Assembly,22,REP,Mark Gilham,60
+San Mateo,1606,State Assembly,22,DEM,Kevin Mullin,276
+San Mateo,1606,State Assembly,22,REP,Mark Gilham,113
+San Mateo,1607,State Assembly,22,DEM,Kevin Mullin,228
+San Mateo,1607,State Assembly,22,REP,Mark Gilham,79
+San Mateo,1608,State Assembly,22,DEM,Kevin Mullin,310
+San Mateo,1608,State Assembly,22,REP,Mark Gilham,104
+San Mateo,1610,State Assembly,22,DEM,Kevin Mullin,336
+San Mateo,1610,State Assembly,22,REP,Mark Gilham,88
+San Mateo,1612,State Assembly,22,DEM,Kevin Mullin,322
+San Mateo,1612,State Assembly,22,REP,Mark Gilham,115
+San Mateo,1613,State Assembly,22,DEM,Kevin Mullin,350
+San Mateo,1613,State Assembly,22,REP,Mark Gilham,80
+San Mateo,1614,State Assembly,22,DEM,Kevin Mullin,306
+San Mateo,1614,State Assembly,22,REP,Mark Gilham,113
+San Mateo,1617,State Assembly,22,DEM,Kevin Mullin,531
+San Mateo,1617,State Assembly,22,REP,Mark Gilham,239
+San Mateo,1619,State Assembly,22,DEM,Kevin Mullin,414
+San Mateo,1619,State Assembly,22,REP,Mark Gilham,184
+San Mateo,1701,State Assembly,22,DEM,Kevin Mullin,289
+San Mateo,1701,State Assembly,22,REP,Mark Gilham,200
+San Mateo,1703,State Assembly,22,DEM,Kevin Mullin,270
+San Mateo,1703,State Assembly,22,REP,Mark Gilham,96
+San Mateo,1704,State Assembly,22,DEM,Kevin Mullin,342
+San Mateo,1704,State Assembly,22,REP,Mark Gilham,84
+San Mateo,1705,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,1705,State Assembly,22,REP,Mark Gilham,0
+San Mateo,1706,State Assembly,22,DEM,Kevin Mullin,68
+San Mateo,1706,State Assembly,22,REP,Mark Gilham,36
+San Mateo,1801,State Assembly,19,DEM,Phil Ting,362
+San Mateo,1801,State Assembly,19,REP,Rene Pineda,132
+San Mateo,1802,State Assembly,19,DEM,Phil Ting,280
+San Mateo,1802,State Assembly,19,REP,Rene Pineda,110
+San Mateo,1803,State Assembly,19,DEM,Phil Ting,205
+San Mateo,1803,State Assembly,19,REP,Rene Pineda,96
+San Mateo,1806,State Assembly,22,DEM,Kevin Mullin,533
+San Mateo,1806,State Assembly,22,REP,Mark Gilham,145
+San Mateo,1807,State Assembly,22,DEM,Kevin Mullin,423
+San Mateo,1807,State Assembly,22,REP,Mark Gilham,111
+San Mateo,1810,State Assembly,22,DEM,Kevin Mullin,339
+San Mateo,1810,State Assembly,22,REP,Mark Gilham,67
+San Mateo,1813,State Assembly,22,DEM,Kevin Mullin,218
+San Mateo,1813,State Assembly,22,REP,Mark Gilham,48
+San Mateo,1814,State Assembly,22,DEM,Kevin Mullin,221
+San Mateo,1814,State Assembly,22,REP,Mark Gilham,44
+San Mateo,1815,State Assembly,22,DEM,Kevin Mullin,425
+San Mateo,1815,State Assembly,22,REP,Mark Gilham,94
+San Mateo,1818,State Assembly,22,DEM,Kevin Mullin,256
+San Mateo,1818,State Assembly,22,REP,Mark Gilham,47
+San Mateo,1819,State Assembly,22,DEM,Kevin Mullin,422
+San Mateo,1819,State Assembly,22,REP,Mark Gilham,133
+San Mateo,1820,State Assembly,19,DEM,Phil Ting,57
+San Mateo,1820,State Assembly,19,REP,Rene Pineda,21
+San Mateo,1821,State Assembly,22,DEM,Kevin Mullin,487
+San Mateo,1821,State Assembly,22,REP,Mark Gilham,115
+San Mateo,1824,State Assembly,19,DEM,Phil Ting,248
+San Mateo,1824,State Assembly,19,REP,Rene Pineda,107
+San Mateo,1833,State Assembly,22,DEM,Kevin Mullin,393
+San Mateo,1833,State Assembly,22,REP,Mark Gilham,101
+San Mateo,1835,State Assembly,22,DEM,Kevin Mullin,463
+San Mateo,1835,State Assembly,22,REP,Mark Gilham,98
+San Mateo,1837,State Assembly,22,DEM,Kevin Mullin,264
+San Mateo,1837,State Assembly,22,REP,Mark Gilham,89
+San Mateo,1838,State Assembly,19,DEM,Phil Ting,12
+San Mateo,1838,State Assembly,19,REP,Rene Pineda,21
+San Mateo,1902,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,1902,State Assembly,22,REP,Mark Gilham,0
+San Mateo,1903,State Assembly,22,DEM,Kevin Mullin,34
+San Mateo,1903,State Assembly,22,REP,Mark Gilham,12
+San Mateo,2101,State Assembly,22,DEM,Kevin Mullin,82
+San Mateo,2101,State Assembly,22,REP,Mark Gilham,41
+San Mateo,2104,State Assembly,22,DEM,Kevin Mullin,148
+San Mateo,2104,State Assembly,22,REP,Mark Gilham,54
+San Mateo,2106,State Assembly,22,DEM,Kevin Mullin,290
+San Mateo,2106,State Assembly,22,REP,Mark Gilham,126
+San Mateo,2107,State Assembly,22,DEM,Kevin Mullin,528
+San Mateo,2107,State Assembly,22,REP,Mark Gilham,193
+San Mateo,2110,State Assembly,22,DEM,Kevin Mullin,266
+San Mateo,2110,State Assembly,22,REP,Mark Gilham,98
+San Mateo,2111,State Assembly,22,DEM,Kevin Mullin,287
+San Mateo,2111,State Assembly,22,REP,Mark Gilham,114
+San Mateo,2112,State Assembly,22,DEM,Kevin Mullin,266
+San Mateo,2112,State Assembly,22,REP,Mark Gilham,131
+San Mateo,2113,State Assembly,22,DEM,Kevin Mullin,503
+San Mateo,2113,State Assembly,22,REP,Mark Gilham,256
+San Mateo,2115,State Assembly,22,DEM,Kevin Mullin,430
+San Mateo,2115,State Assembly,22,REP,Mark Gilham,268
+San Mateo,2117,State Assembly,22,DEM,Kevin Mullin,362
+San Mateo,2117,State Assembly,22,REP,Mark Gilham,95
+San Mateo,2122,State Assembly,22,DEM,Kevin Mullin,8
+San Mateo,2122,State Assembly,22,REP,Mark Gilham,1
+San Mateo,2131,State Assembly,22,DEM,Kevin Mullin,226
+San Mateo,2131,State Assembly,22,REP,Mark Gilham,75
+San Mateo,2132,State Assembly,22,DEM,Kevin Mullin,292
+San Mateo,2132,State Assembly,22,REP,Mark Gilham,129
+San Mateo,2133,State Assembly,22,DEM,Kevin Mullin,181
+San Mateo,2133,State Assembly,22,REP,Mark Gilham,68
+San Mateo,2134,State Assembly,22,DEM,Kevin Mullin,193
+San Mateo,2134,State Assembly,22,REP,Mark Gilham,108
+San Mateo,2201,State Assembly,22,DEM,Kevin Mullin,381
+San Mateo,2201,State Assembly,22,REP,Mark Gilham,148
+San Mateo,2203,State Assembly,22,DEM,Kevin Mullin,291
+San Mateo,2203,State Assembly,22,REP,Mark Gilham,174
+San Mateo,2204,State Assembly,22,DEM,Kevin Mullin,352
+San Mateo,2204,State Assembly,22,REP,Mark Gilham,177
+San Mateo,2205,State Assembly,22,DEM,Kevin Mullin,268
+San Mateo,2205,State Assembly,22,REP,Mark Gilham,165
+San Mateo,2207,State Assembly,22,DEM,Kevin Mullin,441
+San Mateo,2207,State Assembly,22,REP,Mark Gilham,167
+San Mateo,2210,State Assembly,22,DEM,Kevin Mullin,395
+San Mateo,2210,State Assembly,22,REP,Mark Gilham,149
+San Mateo,2214,State Assembly,22,DEM,Kevin Mullin,285
+San Mateo,2214,State Assembly,22,REP,Mark Gilham,126
+San Mateo,2215,State Assembly,22,DEM,Kevin Mullin,464
+San Mateo,2215,State Assembly,22,REP,Mark Gilham,230
+San Mateo,2217,State Assembly,22,DEM,Kevin Mullin,449
+San Mateo,2217,State Assembly,22,REP,Mark Gilham,162
+San Mateo,2221,State Assembly,22,DEM,Kevin Mullin,222
+San Mateo,2221,State Assembly,22,REP,Mark Gilham,119
+San Mateo,2222,State Assembly,22,DEM,Kevin Mullin,214
+San Mateo,2222,State Assembly,22,REP,Mark Gilham,130
+San Mateo,2223,State Assembly,22,DEM,Kevin Mullin,192
+San Mateo,2223,State Assembly,22,REP,Mark Gilham,90
+San Mateo,2224,State Assembly,22,DEM,Kevin Mullin,241
+San Mateo,2224,State Assembly,22,REP,Mark Gilham,114
+San Mateo,2225,State Assembly,22,DEM,Kevin Mullin,164
+San Mateo,2225,State Assembly,22,REP,Mark Gilham,72
+San Mateo,2601,State Assembly,22,DEM,Kevin Mullin,521
+San Mateo,2601,State Assembly,22,REP,Mark Gilham,144
+San Mateo,2603,State Assembly,22,DEM,Kevin Mullin,218
+San Mateo,2603,State Assembly,22,REP,Mark Gilham,49
+San Mateo,2604,State Assembly,22,DEM,Kevin Mullin,213
+San Mateo,2604,State Assembly,22,REP,Mark Gilham,61
+San Mateo,2605,State Assembly,22,DEM,Kevin Mullin,380
+San Mateo,2605,State Assembly,22,REP,Mark Gilham,125
+San Mateo,2607,State Assembly,22,DEM,Kevin Mullin,201
+San Mateo,2607,State Assembly,22,REP,Mark Gilham,89
+San Mateo,2608,State Assembly,22,DEM,Kevin Mullin,214
+San Mateo,2608,State Assembly,22,REP,Mark Gilham,82
+San Mateo,2609,State Assembly,22,DEM,Kevin Mullin,237
+San Mateo,2609,State Assembly,22,REP,Mark Gilham,124
+San Mateo,2610,State Assembly,22,DEM,Kevin Mullin,299
+San Mateo,2610,State Assembly,22,REP,Mark Gilham,135
+San Mateo,2611,State Assembly,22,DEM,Kevin Mullin,206
+San Mateo,2611,State Assembly,22,REP,Mark Gilham,72
+San Mateo,2612,State Assembly,22,DEM,Kevin Mullin,276
+San Mateo,2612,State Assembly,22,REP,Mark Gilham,125
+San Mateo,2614,State Assembly,22,DEM,Kevin Mullin,323
+San Mateo,2614,State Assembly,22,REP,Mark Gilham,144
+San Mateo,2616,State Assembly,22,DEM,Kevin Mullin,319
+San Mateo,2616,State Assembly,22,REP,Mark Gilham,134
+San Mateo,2618,State Assembly,22,DEM,Kevin Mullin,414
+San Mateo,2618,State Assembly,22,REP,Mark Gilham,165
+San Mateo,2620,State Assembly,22,DEM,Kevin Mullin,234
+San Mateo,2620,State Assembly,22,REP,Mark Gilham,49
+San Mateo,2621,State Assembly,22,DEM,Kevin Mullin,240
+San Mateo,2621,State Assembly,22,REP,Mark Gilham,85
+San Mateo,2622,State Assembly,22,DEM,Kevin Mullin,402
+San Mateo,2622,State Assembly,22,REP,Mark Gilham,93
+San Mateo,2624,State Assembly,22,DEM,Kevin Mullin,232
+San Mateo,2624,State Assembly,22,REP,Mark Gilham,78
+San Mateo,2625,State Assembly,22,DEM,Kevin Mullin,296
+San Mateo,2625,State Assembly,22,REP,Mark Gilham,80
+San Mateo,2626,State Assembly,22,DEM,Kevin Mullin,393
+San Mateo,2626,State Assembly,22,REP,Mark Gilham,163
+San Mateo,2627,State Assembly,22,DEM,Kevin Mullin,250
+San Mateo,2627,State Assembly,22,REP,Mark Gilham,100
+San Mateo,2628,State Assembly,22,DEM,Kevin Mullin,262
+San Mateo,2628,State Assembly,22,REP,Mark Gilham,66
+San Mateo,2629,State Assembly,22,DEM,Kevin Mullin,349
+San Mateo,2629,State Assembly,22,REP,Mark Gilham,40
+San Mateo,2631,State Assembly,22,DEM,Kevin Mullin,389
+San Mateo,2631,State Assembly,22,REP,Mark Gilham,137
+San Mateo,2633,State Assembly,22,DEM,Kevin Mullin,190
+San Mateo,2633,State Assembly,22,REP,Mark Gilham,53
+San Mateo,2634,State Assembly,22,DEM,Kevin Mullin,236
+San Mateo,2634,State Assembly,22,REP,Mark Gilham,88
+San Mateo,2636,State Assembly,22,DEM,Kevin Mullin,304
+San Mateo,2636,State Assembly,22,REP,Mark Gilham,91
+San Mateo,2637,State Assembly,22,DEM,Kevin Mullin,241
+San Mateo,2637,State Assembly,22,REP,Mark Gilham,68
+San Mateo,2638,State Assembly,22,DEM,Kevin Mullin,230
+San Mateo,2638,State Assembly,22,REP,Mark Gilham,171
+San Mateo,2639,State Assembly,22,DEM,Kevin Mullin,255
+San Mateo,2639,State Assembly,22,REP,Mark Gilham,168
+San Mateo,2644,State Assembly,22,DEM,Kevin Mullin,188
+San Mateo,2644,State Assembly,22,REP,Mark Gilham,113
+San Mateo,2646,State Assembly,22,DEM,Kevin Mullin,380
+San Mateo,2646,State Assembly,22,REP,Mark Gilham,214
+San Mateo,2648,State Assembly,22,DEM,Kevin Mullin,438
+San Mateo,2648,State Assembly,22,REP,Mark Gilham,134
+San Mateo,2650,State Assembly,22,DEM,Kevin Mullin,378
+San Mateo,2650,State Assembly,22,REP,Mark Gilham,175
+San Mateo,2651,State Assembly,22,DEM,Kevin Mullin,246
+San Mateo,2651,State Assembly,22,REP,Mark Gilham,101
+San Mateo,2652,State Assembly,22,DEM,Kevin Mullin,239
+San Mateo,2652,State Assembly,22,REP,Mark Gilham,118
+San Mateo,2653,State Assembly,22,DEM,Kevin Mullin,249
+San Mateo,2653,State Assembly,22,REP,Mark Gilham,80
+San Mateo,2654,State Assembly,22,DEM,Kevin Mullin,405
+San Mateo,2654,State Assembly,22,REP,Mark Gilham,135
+San Mateo,2655,State Assembly,22,DEM,Kevin Mullin,385
+San Mateo,2655,State Assembly,22,REP,Mark Gilham,106
+San Mateo,2657,State Assembly,22,DEM,Kevin Mullin,457
+San Mateo,2657,State Assembly,22,REP,Mark Gilham,227
+San Mateo,2659,State Assembly,22,DEM,Kevin Mullin,208
+San Mateo,2659,State Assembly,22,REP,Mark Gilham,89
+San Mateo,2661,State Assembly,22,DEM,Kevin Mullin,233
+San Mateo,2661,State Assembly,22,REP,Mark Gilham,100
+San Mateo,2662,State Assembly,22,DEM,Kevin Mullin,355
+San Mateo,2662,State Assembly,22,REP,Mark Gilham,182
+San Mateo,2663,State Assembly,22,DEM,Kevin Mullin,302
+San Mateo,2663,State Assembly,22,REP,Mark Gilham,146
+San Mateo,2664,State Assembly,22,DEM,Kevin Mullin,45
+San Mateo,2664,State Assembly,22,REP,Mark Gilham,50
+San Mateo,2667,State Assembly,22,DEM,Kevin Mullin,300
+San Mateo,2667,State Assembly,22,REP,Mark Gilham,156
+San Mateo,2670,State Assembly,22,DEM,Kevin Mullin,352
+San Mateo,2670,State Assembly,22,REP,Mark Gilham,288
+San Mateo,2671,State Assembly,22,DEM,Kevin Mullin,421
+San Mateo,2671,State Assembly,22,REP,Mark Gilham,212
+San Mateo,2675,State Assembly,22,DEM,Kevin Mullin,65
+San Mateo,2675,State Assembly,22,REP,Mark Gilham,27
+San Mateo,2676,State Assembly,22,DEM,Kevin Mullin,54
+San Mateo,2676,State Assembly,22,REP,Mark Gilham,33
+San Mateo,2677,State Assembly,22,DEM,Kevin Mullin,28
+San Mateo,2677,State Assembly,22,REP,Mark Gilham,16
+San Mateo,2678,State Assembly,22,DEM,Kevin Mullin,48
+San Mateo,2678,State Assembly,22,REP,Mark Gilham,17
+San Mateo,2679,State Assembly,22,DEM,Kevin Mullin,222
+San Mateo,2679,State Assembly,22,REP,Mark Gilham,148
+San Mateo,2701,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,2701,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3001,State Assembly,24,DEM,Richard S. Gordon,121
+San Mateo,3001,State Assembly,24,REP,Diane Gabl,144
+San Mateo,3002,State Assembly,24,DEM,Richard S. Gordon,245
+San Mateo,3002,State Assembly,24,REP,Diane Gabl,261
+San Mateo,3004,State Assembly,24,DEM,Richard S. Gordon,63
+San Mateo,3004,State Assembly,24,REP,Diane Gabl,55
+San Mateo,3005,State Assembly,24,DEM,Richard S. Gordon,173
+San Mateo,3005,State Assembly,24,REP,Diane Gabl,272
+San Mateo,3006,State Assembly,24,DEM,Richard S. Gordon,257
+San Mateo,3006,State Assembly,24,REP,Diane Gabl,293
+San Mateo,3008,State Assembly,24,DEM,Richard S. Gordon,142
+San Mateo,3008,State Assembly,24,REP,Diane Gabl,239
+San Mateo,3009,State Assembly,24,DEM,Richard S. Gordon,67
+San Mateo,3009,State Assembly,24,REP,Diane Gabl,35
+San Mateo,3010,State Assembly,24,DEM,Richard S. Gordon,43
+San Mateo,3010,State Assembly,24,REP,Diane Gabl,43
+San Mateo,3102,State Assembly,22,DEM,Kevin Mullin,273
+San Mateo,3102,State Assembly,22,REP,Mark Gilham,105
+San Mateo,3103,State Assembly,22,DEM,Kevin Mullin,163
+San Mateo,3103,State Assembly,22,REP,Mark Gilham,59
+San Mateo,3123,State Assembly,22,DEM,Kevin Mullin,42
+San Mateo,3123,State Assembly,22,REP,Mark Gilham,19
+San Mateo,3135,State Assembly,22,DEM,Kevin Mullin,287
+San Mateo,3135,State Assembly,22,REP,Mark Gilham,128
+San Mateo,3201,State Assembly,22,DEM,Kevin Mullin,17
+San Mateo,3201,State Assembly,22,REP,Mark Gilham,4
+San Mateo,3202,State Assembly,22,DEM,Kevin Mullin,155
+San Mateo,3202,State Assembly,22,REP,Mark Gilham,87
+San Mateo,3203,State Assembly,22,DEM,Kevin Mullin,7
+San Mateo,3203,State Assembly,22,REP,Mark Gilham,1
+San Mateo,3204,State Assembly,22,DEM,Kevin Mullin,7
+San Mateo,3204,State Assembly,22,REP,Mark Gilham,3
+San Mateo,3210,State Assembly,22,DEM,Kevin Mullin,5
+San Mateo,3210,State Assembly,22,REP,Mark Gilham,2
+San Mateo,3211,State Assembly,22,DEM,Kevin Mullin,2
+San Mateo,3211,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3213,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,3213,State Assembly,24,REP,Diane Gabl,0
+San Mateo,3214,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3214,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3301,State Assembly,22,DEM,Kevin Mullin,313
+San Mateo,3301,State Assembly,22,REP,Mark Gilham,103
+San Mateo,3303,State Assembly,22,DEM,Kevin Mullin,257
+San Mateo,3303,State Assembly,22,REP,Mark Gilham,93
+San Mateo,3304,State Assembly,22,DEM,Kevin Mullin,555
+San Mateo,3304,State Assembly,22,REP,Mark Gilham,155
+San Mateo,3306,State Assembly,22,DEM,Kevin Mullin,350
+San Mateo,3306,State Assembly,22,REP,Mark Gilham,105
+San Mateo,3307,State Assembly,22,DEM,Kevin Mullin,12
+San Mateo,3307,State Assembly,22,REP,Mark Gilham,2
+San Mateo,3310,State Assembly,24,DEM,Richard S. Gordon,288
+San Mateo,3310,State Assembly,24,REP,Diane Gabl,116
+San Mateo,3311,State Assembly,24,DEM,Richard S. Gordon,293
+San Mateo,3311,State Assembly,24,REP,Diane Gabl,136
+San Mateo,3312,State Assembly,24,DEM,Richard S. Gordon,380
+San Mateo,3312,State Assembly,24,REP,Diane Gabl,106
+San Mateo,3313,State Assembly,24,DEM,Richard S. Gordon,326
+San Mateo,3313,State Assembly,24,REP,Diane Gabl,130
+San Mateo,3314,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3314,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3316,State Assembly,24,DEM,Richard S. Gordon,14
+San Mateo,3316,State Assembly,24,REP,Diane Gabl,0
+San Mateo,3320,State Assembly,24,DEM,Richard S. Gordon,302
+San Mateo,3320,State Assembly,24,REP,Diane Gabl,107
+San Mateo,3321,State Assembly,24,DEM,Richard S. Gordon,297
+San Mateo,3321,State Assembly,24,REP,Diane Gabl,111
+San Mateo,3322,State Assembly,24,DEM,Richard S. Gordon,255
+San Mateo,3322,State Assembly,24,REP,Diane Gabl,101
+San Mateo,3323,State Assembly,24,DEM,Richard S. Gordon,385
+San Mateo,3323,State Assembly,24,REP,Diane Gabl,144
+San Mateo,3324,State Assembly,24,DEM,Richard S. Gordon,349
+San Mateo,3324,State Assembly,24,REP,Diane Gabl,155
+San Mateo,3325,State Assembly,24,DEM,Richard S. Gordon,385
+San Mateo,3325,State Assembly,24,REP,Diane Gabl,97
+San Mateo,3326,State Assembly,24,DEM,Richard S. Gordon,335
+San Mateo,3326,State Assembly,24,REP,Diane Gabl,274
+San Mateo,3327,State Assembly,24,DEM,Richard S. Gordon,218
+San Mateo,3327,State Assembly,24,REP,Diane Gabl,64
+San Mateo,3330,State Assembly,24,DEM,Richard S. Gordon,9
+San Mateo,3330,State Assembly,24,REP,Diane Gabl,8
+San Mateo,3331,State Assembly,24,DEM,Richard S. Gordon,78
+San Mateo,3331,State Assembly,24,REP,Diane Gabl,61
+San Mateo,3340,State Assembly,24,DEM,Richard S. Gordon,444
+San Mateo,3340,State Assembly,24,REP,Diane Gabl,127
+San Mateo,3350,State Assembly,24,DEM,Richard S. Gordon,246
+San Mateo,3350,State Assembly,24,REP,Diane Gabl,95
+San Mateo,3360,State Assembly,24,DEM,Richard S. Gordon,26
+San Mateo,3360,State Assembly,24,REP,Diane Gabl,24
+San Mateo,3361,State Assembly,24,DEM,Richard S. Gordon,34
+San Mateo,3361,State Assembly,24,REP,Diane Gabl,15
+San Mateo,3370,State Assembly,24,DEM,Richard S. Gordon,216
+San Mateo,3370,State Assembly,24,REP,Diane Gabl,59
+San Mateo,3371,State Assembly,24,DEM,Richard S. Gordon,14
+San Mateo,3371,State Assembly,24,REP,Diane Gabl,17
+San Mateo,3372,State Assembly,24,DEM,Richard S. Gordon,38
+San Mateo,3372,State Assembly,24,REP,Diane Gabl,18
+San Mateo,3375,State Assembly,24,DEM,Richard S. Gordon,24
+San Mateo,3375,State Assembly,24,REP,Diane Gabl,4
+San Mateo,3376,State Assembly,24,DEM,Richard S. Gordon,82
+San Mateo,3376,State Assembly,24,REP,Diane Gabl,25
+San Mateo,3377,State Assembly,24,DEM,Richard S. Gordon,1
+San Mateo,3377,State Assembly,24,REP,Diane Gabl,4
+San Mateo,3380,State Assembly,24,DEM,Richard S. Gordon,32
+San Mateo,3380,State Assembly,24,REP,Diane Gabl,16
+San Mateo,3401,State Assembly,24,DEM,Richard S. Gordon,321
+San Mateo,3401,State Assembly,24,REP,Diane Gabl,122
+San Mateo,3402,State Assembly,24,DEM,Richard S. Gordon,499
+San Mateo,3402,State Assembly,24,REP,Diane Gabl,193
+San Mateo,3406,State Assembly,24,DEM,Richard S. Gordon,28
+San Mateo,3406,State Assembly,24,REP,Diane Gabl,24
+San Mateo,3407,State Assembly,24,DEM,Richard S. Gordon,84
+San Mateo,3407,State Assembly,24,REP,Diane Gabl,22
+San Mateo,3408,State Assembly,24,DEM,Richard S. Gordon,36
+San Mateo,3408,State Assembly,24,REP,Diane Gabl,14
+San Mateo,3409,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,3409,State Assembly,24,REP,Diane Gabl,0
+San Mateo,3410,State Assembly,24,DEM,Richard S. Gordon,445
+San Mateo,3410,State Assembly,24,REP,Diane Gabl,143
+San Mateo,3412,State Assembly,24,DEM,Richard S. Gordon,1
+San Mateo,3412,State Assembly,24,REP,Diane Gabl,6
+San Mateo,3420,State Assembly,24,DEM,Richard S. Gordon,206
+San Mateo,3420,State Assembly,24,REP,Diane Gabl,76
+San Mateo,3421,State Assembly,24,DEM,Richard S. Gordon,21
+San Mateo,3421,State Assembly,24,REP,Diane Gabl,6
+San Mateo,3450,State Assembly,24,DEM,Richard S. Gordon,224
+San Mateo,3450,State Assembly,24,REP,Diane Gabl,104
+San Mateo,3451,State Assembly,24,DEM,Richard S. Gordon,586
+San Mateo,3451,State Assembly,24,REP,Diane Gabl,206
+San Mateo,3452,State Assembly,24,DEM,Richard S. Gordon,501
+San Mateo,3452,State Assembly,24,REP,Diane Gabl,143
+San Mateo,3455,State Assembly,24,DEM,Richard S. Gordon,492
+San Mateo,3455,State Assembly,24,REP,Diane Gabl,307
+San Mateo,3457,State Assembly,24,DEM,Richard S. Gordon,469
+San Mateo,3457,State Assembly,24,REP,Diane Gabl,285
+San Mateo,3459,State Assembly,24,DEM,Richard S. Gordon,400
+San Mateo,3459,State Assembly,24,REP,Diane Gabl,215
+San Mateo,3460,State Assembly,24,DEM,Richard S. Gordon,496
+San Mateo,3460,State Assembly,24,REP,Diane Gabl,334
+San Mateo,3463,State Assembly,24,DEM,Richard S. Gordon,12
+San Mateo,3463,State Assembly,24,REP,Diane Gabl,2
+San Mateo,3464,State Assembly,24,DEM,Richard S. Gordon,31
+San Mateo,3464,State Assembly,24,REP,Diane Gabl,14
+San Mateo,3480,State Assembly,24,DEM,Richard S. Gordon,229
+San Mateo,3480,State Assembly,24,REP,Diane Gabl,74
+San Mateo,3501,State Assembly,22,DEM,Kevin Mullin,255
+San Mateo,3501,State Assembly,22,REP,Mark Gilham,63
+San Mateo,3502,State Assembly,22,DEM,Kevin Mullin,293
+San Mateo,3502,State Assembly,22,REP,Mark Gilham,64
+San Mateo,3503,State Assembly,22,DEM,Kevin Mullin,243
+San Mateo,3503,State Assembly,22,REP,Mark Gilham,63
+San Mateo,3504,State Assembly,22,DEM,Kevin Mullin,245
+San Mateo,3504,State Assembly,22,REP,Mark Gilham,73
+San Mateo,3505,State Assembly,22,DEM,Kevin Mullin,188
+San Mateo,3505,State Assembly,22,REP,Mark Gilham,71
+San Mateo,3506,State Assembly,22,DEM,Kevin Mullin,37
+San Mateo,3506,State Assembly,22,REP,Mark Gilham,14
+San Mateo,3507,State Assembly,22,DEM,Kevin Mullin,297
+San Mateo,3507,State Assembly,22,REP,Mark Gilham,87
+San Mateo,3508,State Assembly,22,DEM,Kevin Mullin,379
+San Mateo,3508,State Assembly,22,REP,Mark Gilham,95
+San Mateo,3509,State Assembly,22,DEM,Kevin Mullin,316
+San Mateo,3509,State Assembly,22,REP,Mark Gilham,124
+San Mateo,3510,State Assembly,22,DEM,Kevin Mullin,278
+San Mateo,3510,State Assembly,22,REP,Mark Gilham,58
+San Mateo,3512,State Assembly,22,DEM,Kevin Mullin,385
+San Mateo,3512,State Assembly,22,REP,Mark Gilham,120
+San Mateo,3513,State Assembly,22,DEM,Kevin Mullin,331
+San Mateo,3513,State Assembly,22,REP,Mark Gilham,85
+San Mateo,3515,State Assembly,22,DEM,Kevin Mullin,428
+San Mateo,3515,State Assembly,22,REP,Mark Gilham,153
+San Mateo,3517,State Assembly,22,DEM,Kevin Mullin,209
+San Mateo,3517,State Assembly,22,REP,Mark Gilham,86
+San Mateo,3518,State Assembly,22,DEM,Kevin Mullin,272
+San Mateo,3518,State Assembly,22,REP,Mark Gilham,156
+San Mateo,3519,State Assembly,22,DEM,Kevin Mullin,250
+San Mateo,3519,State Assembly,22,REP,Mark Gilham,98
+San Mateo,3520,State Assembly,22,DEM,Kevin Mullin,613
+San Mateo,3520,State Assembly,22,REP,Mark Gilham,209
+San Mateo,3522,State Assembly,22,DEM,Kevin Mullin,238
+San Mateo,3522,State Assembly,22,REP,Mark Gilham,102
+San Mateo,3523,State Assembly,22,DEM,Kevin Mullin,285
+San Mateo,3523,State Assembly,22,REP,Mark Gilham,75
+San Mateo,3524,State Assembly,22,DEM,Kevin Mullin,259
+San Mateo,3524,State Assembly,22,REP,Mark Gilham,96
+San Mateo,3525,State Assembly,22,DEM,Kevin Mullin,459
+San Mateo,3525,State Assembly,22,REP,Mark Gilham,195
+San Mateo,3526,State Assembly,22,DEM,Kevin Mullin,292
+San Mateo,3526,State Assembly,22,REP,Mark Gilham,78
+San Mateo,3528,State Assembly,22,DEM,Kevin Mullin,286
+San Mateo,3528,State Assembly,22,REP,Mark Gilham,95
+San Mateo,3529,State Assembly,22,DEM,Kevin Mullin,338
+San Mateo,3529,State Assembly,22,REP,Mark Gilham,93
+San Mateo,3530,State Assembly,22,DEM,Kevin Mullin,307
+San Mateo,3530,State Assembly,22,REP,Mark Gilham,93
+San Mateo,3531,State Assembly,22,DEM,Kevin Mullin,243
+San Mateo,3531,State Assembly,22,REP,Mark Gilham,68
+San Mateo,3532,State Assembly,22,DEM,Kevin Mullin,74
+San Mateo,3532,State Assembly,22,REP,Mark Gilham,13
+San Mateo,3533,State Assembly,22,DEM,Kevin Mullin,98
+San Mateo,3533,State Assembly,22,REP,Mark Gilham,23
+San Mateo,3540,State Assembly,22,DEM,Kevin Mullin,5
+San Mateo,3540,State Assembly,22,REP,Mark Gilham,2
+San Mateo,3541,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3541,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3542,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3542,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3543,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3543,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3601,State Assembly,22,DEM,Kevin Mullin,453
+San Mateo,3601,State Assembly,22,REP,Mark Gilham,218
+San Mateo,3602,State Assembly,22,DEM,Kevin Mullin,358
+San Mateo,3602,State Assembly,22,REP,Mark Gilham,193
+San Mateo,3605,State Assembly,22,DEM,Kevin Mullin,630
+San Mateo,3605,State Assembly,22,REP,Mark Gilham,262
+San Mateo,3608,State Assembly,22,DEM,Kevin Mullin,516
+San Mateo,3608,State Assembly,22,REP,Mark Gilham,173
+San Mateo,3610,State Assembly,22,DEM,Kevin Mullin,487
+San Mateo,3610,State Assembly,22,REP,Mark Gilham,213
+San Mateo,3612,State Assembly,22,DEM,Kevin Mullin,229
+San Mateo,3612,State Assembly,22,REP,Mark Gilham,112
+San Mateo,3613,State Assembly,22,DEM,Kevin Mullin,244
+San Mateo,3613,State Assembly,22,REP,Mark Gilham,115
+San Mateo,3614,State Assembly,22,DEM,Kevin Mullin,495
+San Mateo,3614,State Assembly,22,REP,Mark Gilham,209
+San Mateo,3616,State Assembly,22,DEM,Kevin Mullin,434
+San Mateo,3616,State Assembly,22,REP,Mark Gilham,204
+San Mateo,3617,State Assembly,22,DEM,Kevin Mullin,462
+San Mateo,3617,State Assembly,22,REP,Mark Gilham,210
+San Mateo,3620,State Assembly,22,DEM,Kevin Mullin,447
+San Mateo,3620,State Assembly,22,REP,Mark Gilham,224
+San Mateo,3621,State Assembly,22,DEM,Kevin Mullin,450
+San Mateo,3621,State Assembly,22,REP,Mark Gilham,253
+San Mateo,3624,State Assembly,22,DEM,Kevin Mullin,419
+San Mateo,3624,State Assembly,22,REP,Mark Gilham,191
+San Mateo,3626,State Assembly,22,DEM,Kevin Mullin,178
+San Mateo,3626,State Assembly,22,REP,Mark Gilham,98
+San Mateo,3627,State Assembly,22,DEM,Kevin Mullin,31
+San Mateo,3627,State Assembly,22,REP,Mark Gilham,32
+San Mateo,3629,State Assembly,22,DEM,Kevin Mullin,2
+San Mateo,3629,State Assembly,22,REP,Mark Gilham,2
+San Mateo,3630,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3630,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3631,State Assembly,22,DEM,Kevin Mullin,29
+San Mateo,3631,State Assembly,22,REP,Mark Gilham,13
+San Mateo,3632,State Assembly,22,DEM,Kevin Mullin,5
+San Mateo,3632,State Assembly,22,REP,Mark Gilham,1
+San Mateo,3633,State Assembly,22,DEM,Kevin Mullin,39
+San Mateo,3633,State Assembly,22,REP,Mark Gilham,22
+San Mateo,3634,State Assembly,22,DEM,Kevin Mullin,2
+San Mateo,3634,State Assembly,22,REP,Mark Gilham,8
+San Mateo,3635,State Assembly,22,DEM,Kevin Mullin,10
+San Mateo,3635,State Assembly,22,REP,Mark Gilham,2
+San Mateo,3637,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,3637,State Assembly,22,REP,Mark Gilham,0
+San Mateo,3638,State Assembly,22,DEM,Kevin Mullin,72
+San Mateo,3638,State Assembly,22,REP,Mark Gilham,36
+San Mateo,3701,State Assembly,22,DEM,Kevin Mullin,343
+San Mateo,3701,State Assembly,22,REP,Mark Gilham,170
+San Mateo,3702,State Assembly,22,DEM,Kevin Mullin,328
+San Mateo,3702,State Assembly,22,REP,Mark Gilham,196
+San Mateo,3703,State Assembly,22,DEM,Kevin Mullin,191
+San Mateo,3703,State Assembly,22,REP,Mark Gilham,134
+San Mateo,3704,State Assembly,24,DEM,Richard S. Gordon,2
+San Mateo,3704,State Assembly,24,REP,Diane Gabl,1
+San Mateo,3706,State Assembly,22,DEM,Kevin Mullin,38
+San Mateo,3706,State Assembly,22,REP,Mark Gilham,22
+San Mateo,3707,State Assembly,22,DEM,Kevin Mullin,9
+San Mateo,3707,State Assembly,22,REP,Mark Gilham,14
+San Mateo,3708,State Assembly,22,DEM,Kevin Mullin,24
+San Mateo,3708,State Assembly,22,REP,Mark Gilham,19
+San Mateo,3709,State Assembly,22,DEM,Kevin Mullin,84
+San Mateo,3709,State Assembly,22,REP,Mark Gilham,35
+San Mateo,3710,State Assembly,22,DEM,Kevin Mullin,181
+San Mateo,3710,State Assembly,22,REP,Mark Gilham,97
+San Mateo,3711,State Assembly,24,DEM,Richard S. Gordon,3
+San Mateo,3711,State Assembly,24,REP,Diane Gabl,0
+San Mateo,3712,State Assembly,22,DEM,Kevin Mullin,19
+San Mateo,3712,State Assembly,22,REP,Mark Gilham,9
+San Mateo,3720,State Assembly,24,DEM,Richard S. Gordon,218
+San Mateo,3720,State Assembly,24,REP,Diane Gabl,93
+San Mateo,3721,State Assembly,24,DEM,Richard S. Gordon,420
+San Mateo,3721,State Assembly,24,REP,Diane Gabl,206
+San Mateo,3723,State Assembly,24,DEM,Richard S. Gordon,6
+San Mateo,3723,State Assembly,24,REP,Diane Gabl,6
+San Mateo,3801,State Assembly,24,DEM,Richard S. Gordon,123
+San Mateo,3801,State Assembly,24,REP,Diane Gabl,80
+San Mateo,3802,State Assembly,24,DEM,Richard S. Gordon,473
+San Mateo,3802,State Assembly,24,REP,Diane Gabl,364
+San Mateo,3803,State Assembly,24,DEM,Richard S. Gordon,57
+San Mateo,3803,State Assembly,24,REP,Diane Gabl,53
+San Mateo,3806,State Assembly,24,DEM,Richard S. Gordon,219
+San Mateo,3806,State Assembly,24,REP,Diane Gabl,174
+San Mateo,3807,State Assembly,24,DEM,Richard S. Gordon,13
+San Mateo,3807,State Assembly,24,REP,Diane Gabl,13
+San Mateo,3808,State Assembly,24,DEM,Richard S. Gordon,107
+San Mateo,3808,State Assembly,24,REP,Diane Gabl,156
+San Mateo,3811,State Assembly,24,DEM,Richard S. Gordon,10
+San Mateo,3811,State Assembly,24,REP,Diane Gabl,13
+San Mateo,3812,State Assembly,24,DEM,Richard S. Gordon,43
+San Mateo,3812,State Assembly,24,REP,Diane Gabl,55
+San Mateo,3901,State Assembly,24,DEM,Richard S. Gordon,475
+San Mateo,3901,State Assembly,24,REP,Diane Gabl,181
+San Mateo,3903,State Assembly,24,DEM,Richard S. Gordon,380
+San Mateo,3903,State Assembly,24,REP,Diane Gabl,178
+San Mateo,3905,State Assembly,24,DEM,Richard S. Gordon,359
+San Mateo,3905,State Assembly,24,REP,Diane Gabl,273
+San Mateo,4001,State Assembly,24,DEM,Richard S. Gordon,150
+San Mateo,4001,State Assembly,24,REP,Diane Gabl,19
+San Mateo,4002,State Assembly,24,DEM,Richard S. Gordon,140
+San Mateo,4002,State Assembly,24,REP,Diane Gabl,17
+San Mateo,4003,State Assembly,24,DEM,Richard S. Gordon,155
+San Mateo,4003,State Assembly,24,REP,Diane Gabl,11
+San Mateo,4004,State Assembly,24,DEM,Richard S. Gordon,157
+San Mateo,4004,State Assembly,24,REP,Diane Gabl,14
+San Mateo,4005,State Assembly,24,DEM,Richard S. Gordon,156
+San Mateo,4005,State Assembly,24,REP,Diane Gabl,8
+San Mateo,4006,State Assembly,24,DEM,Richard S. Gordon,169
+San Mateo,4006,State Assembly,24,REP,Diane Gabl,19
+San Mateo,4007,State Assembly,24,DEM,Richard S. Gordon,160
+San Mateo,4007,State Assembly,24,REP,Diane Gabl,57
+San Mateo,4008,State Assembly,24,DEM,Richard S. Gordon,181
+San Mateo,4008,State Assembly,24,REP,Diane Gabl,15
+San Mateo,4009,State Assembly,24,DEM,Richard S. Gordon,203
+San Mateo,4009,State Assembly,24,REP,Diane Gabl,12
+San Mateo,4010,State Assembly,24,DEM,Richard S. Gordon,112
+San Mateo,4010,State Assembly,24,REP,Diane Gabl,24
+San Mateo,4011,State Assembly,24,DEM,Richard S. Gordon,239
+San Mateo,4011,State Assembly,24,REP,Diane Gabl,37
+San Mateo,4013,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,4013,State Assembly,24,REP,Diane Gabl,0
+San Mateo,4014,State Assembly,24,DEM,Richard S. Gordon,235
+San Mateo,4014,State Assembly,24,REP,Diane Gabl,23
+San Mateo,4015,State Assembly,24,DEM,Richard S. Gordon,129
+San Mateo,4015,State Assembly,24,REP,Diane Gabl,24
+San Mateo,4401,State Assembly,24,DEM,Richard S. Gordon,304
+San Mateo,4401,State Assembly,24,REP,Diane Gabl,128
+San Mateo,4402,State Assembly,24,DEM,Richard S. Gordon,290
+San Mateo,4402,State Assembly,24,REP,Diane Gabl,87
+San Mateo,4403,State Assembly,24,DEM,Richard S. Gordon,198
+San Mateo,4403,State Assembly,24,REP,Diane Gabl,21
+San Mateo,4404,State Assembly,24,DEM,Richard S. Gordon,330
+San Mateo,4404,State Assembly,24,REP,Diane Gabl,25
+San Mateo,4406,State Assembly,24,DEM,Richard S. Gordon,10
+San Mateo,4406,State Assembly,24,REP,Diane Gabl,2
+San Mateo,4407,State Assembly,24,DEM,Richard S. Gordon,755
+San Mateo,4407,State Assembly,24,REP,Diane Gabl,173
+San Mateo,4409,State Assembly,24,DEM,Richard S. Gordon,680
+San Mateo,4409,State Assembly,24,REP,Diane Gabl,202
+San Mateo,4412,State Assembly,24,DEM,Richard S. Gordon,444
+San Mateo,4412,State Assembly,24,REP,Diane Gabl,146
+San Mateo,4414,State Assembly,24,DEM,Richard S. Gordon,165
+San Mateo,4414,State Assembly,24,REP,Diane Gabl,36
+San Mateo,4415,State Assembly,24,DEM,Richard S. Gordon,217
+San Mateo,4415,State Assembly,24,REP,Diane Gabl,144
+San Mateo,4431,State Assembly,24,DEM,Richard S. Gordon,26
+San Mateo,4431,State Assembly,24,REP,Diane Gabl,3
+San Mateo,4432,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,4432,State Assembly,24,REP,Diane Gabl,0
+San Mateo,4433,State Assembly,24,DEM,Richard S. Gordon,87
+San Mateo,4433,State Assembly,24,REP,Diane Gabl,34
+San Mateo,4434,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,4434,State Assembly,24,REP,Diane Gabl,0
+San Mateo,4435,State Assembly,24,DEM,Richard S. Gordon,0
+San Mateo,4435,State Assembly,24,REP,Diane Gabl,0
+San Mateo,4436,State Assembly,24,DEM,Richard S. Gordon,11
+San Mateo,4436,State Assembly,24,REP,Diane Gabl,1
+San Mateo,4501,State Assembly,24,DEM,Richard S. Gordon,130
+San Mateo,4501,State Assembly,24,REP,Diane Gabl,34
+San Mateo,4502,State Assembly,24,DEM,Richard S. Gordon,185
+San Mateo,4502,State Assembly,24,REP,Diane Gabl,64
+San Mateo,4503,State Assembly,24,DEM,Richard S. Gordon,370
+San Mateo,4503,State Assembly,24,REP,Diane Gabl,117
+San Mateo,4505,State Assembly,24,DEM,Richard S. Gordon,291
+San Mateo,4505,State Assembly,24,REP,Diane Gabl,59
+San Mateo,4506,State Assembly,24,DEM,Richard S. Gordon,242
+San Mateo,4506,State Assembly,24,REP,Diane Gabl,54
+San Mateo,4507,State Assembly,24,DEM,Richard S. Gordon,45
+San Mateo,4507,State Assembly,24,REP,Diane Gabl,16
+San Mateo,4508,State Assembly,24,DEM,Richard S. Gordon,33
+San Mateo,4508,State Assembly,24,REP,Diane Gabl,18
+San Mateo,4601,State Assembly,22,DEM,Kevin Mullin,237
+San Mateo,4601,State Assembly,22,REP,Mark Gilham,69
+San Mateo,4602,State Assembly,22,DEM,Kevin Mullin,234
+San Mateo,4602,State Assembly,22,REP,Mark Gilham,66
+San Mateo,4603,State Assembly,22,DEM,Kevin Mullin,128
+San Mateo,4603,State Assembly,22,REP,Mark Gilham,55
+San Mateo,4604,State Assembly,22,DEM,Kevin Mullin,327
+San Mateo,4604,State Assembly,22,REP,Mark Gilham,76
+San Mateo,4606,State Assembly,22,DEM,Kevin Mullin,249
+San Mateo,4606,State Assembly,22,REP,Mark Gilham,72
+San Mateo,4607,State Assembly,22,DEM,Kevin Mullin,231
+San Mateo,4607,State Assembly,22,REP,Mark Gilham,120
+San Mateo,4608,State Assembly,22,DEM,Kevin Mullin,231
+San Mateo,4608,State Assembly,22,REP,Mark Gilham,83
+San Mateo,4609,State Assembly,22,DEM,Kevin Mullin,288
+San Mateo,4609,State Assembly,22,REP,Mark Gilham,69
+San Mateo,4611,State Assembly,22,DEM,Kevin Mullin,242
+San Mateo,4611,State Assembly,22,REP,Mark Gilham,95
+San Mateo,4612,State Assembly,22,DEM,Kevin Mullin,555
+San Mateo,4612,State Assembly,22,REP,Mark Gilham,248
+San Mateo,4613,State Assembly,22,DEM,Kevin Mullin,183
+San Mateo,4613,State Assembly,22,REP,Mark Gilham,63
+San Mateo,4614,State Assembly,22,DEM,Kevin Mullin,281
+San Mateo,4614,State Assembly,22,REP,Mark Gilham,95
+San Mateo,4615,State Assembly,22,DEM,Kevin Mullin,224
+San Mateo,4615,State Assembly,22,REP,Mark Gilham,59
+San Mateo,4616,State Assembly,22,DEM,Kevin Mullin,409
+San Mateo,4616,State Assembly,22,REP,Mark Gilham,187
+San Mateo,4617,State Assembly,22,DEM,Kevin Mullin,176
+San Mateo,4617,State Assembly,22,REP,Mark Gilham,71
+San Mateo,4618,State Assembly,22,DEM,Kevin Mullin,446
+San Mateo,4618,State Assembly,22,REP,Mark Gilham,148
+San Mateo,4619,State Assembly,22,DEM,Kevin Mullin,181
+San Mateo,4619,State Assembly,22,REP,Mark Gilham,15
+San Mateo,4620,State Assembly,22,DEM,Kevin Mullin,235
+San Mateo,4620,State Assembly,22,REP,Mark Gilham,55
+San Mateo,4621,State Assembly,22,DEM,Kevin Mullin,248
+San Mateo,4621,State Assembly,22,REP,Mark Gilham,76
+San Mateo,4622,State Assembly,22,DEM,Kevin Mullin,315
+San Mateo,4622,State Assembly,22,REP,Mark Gilham,66
+San Mateo,4625,State Assembly,22,DEM,Kevin Mullin,235
+San Mateo,4625,State Assembly,22,REP,Mark Gilham,59
+San Mateo,4626,State Assembly,22,DEM,Kevin Mullin,240
+San Mateo,4626,State Assembly,22,REP,Mark Gilham,81
+San Mateo,4627,State Assembly,22,DEM,Kevin Mullin,501
+San Mateo,4627,State Assembly,22,REP,Mark Gilham,190
+San Mateo,4629,State Assembly,22,DEM,Kevin Mullin,194
+San Mateo,4629,State Assembly,22,REP,Mark Gilham,102
+San Mateo,4630,State Assembly,22,DEM,Kevin Mullin,234
+San Mateo,4630,State Assembly,22,REP,Mark Gilham,106
+San Mateo,4631,State Assembly,22,DEM,Kevin Mullin,255
+San Mateo,4631,State Assembly,22,REP,Mark Gilham,99
+San Mateo,4633,State Assembly,22,DEM,Kevin Mullin,712
+San Mateo,4633,State Assembly,22,REP,Mark Gilham,352
+San Mateo,4636,State Assembly,22,DEM,Kevin Mullin,36
+San Mateo,4636,State Assembly,22,REP,Mark Gilham,55
+San Mateo,4637,State Assembly,22,DEM,Kevin Mullin,128
+San Mateo,4637,State Assembly,22,REP,Mark Gilham,73
+San Mateo,4638,State Assembly,22,DEM,Kevin Mullin,406
+San Mateo,4638,State Assembly,22,REP,Mark Gilham,248
+San Mateo,4639,State Assembly,22,DEM,Kevin Mullin,253
+San Mateo,4639,State Assembly,22,REP,Mark Gilham,123
+San Mateo,4650,State Assembly,22,DEM,Kevin Mullin,13
+San Mateo,4650,State Assembly,22,REP,Mark Gilham,2
+San Mateo,4651,State Assembly,22,DEM,Kevin Mullin,15
+San Mateo,4651,State Assembly,22,REP,Mark Gilham,13
+San Mateo,4652,State Assembly,22,DEM,Kevin Mullin,33
+San Mateo,4652,State Assembly,22,REP,Mark Gilham,13
+San Mateo,4653,State Assembly,22,DEM,Kevin Mullin,36
+San Mateo,4653,State Assembly,22,REP,Mark Gilham,15
+San Mateo,4654,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,4654,State Assembly,22,REP,Mark Gilham,0
+San Mateo,4655,State Assembly,22,DEM,Kevin Mullin,3
+San Mateo,4655,State Assembly,22,REP,Mark Gilham,0
+San Mateo,4656,State Assembly,22,DEM,Kevin Mullin,84
+San Mateo,4656,State Assembly,22,REP,Mark Gilham,37
+San Mateo,4657,State Assembly,22,DEM,Kevin Mullin,45
+San Mateo,4657,State Assembly,22,REP,Mark Gilham,20
+San Mateo,4659,State Assembly,22,DEM,Kevin Mullin,6
+San Mateo,4659,State Assembly,22,REP,Mark Gilham,9
+San Mateo,4663,State Assembly,22,DEM,Kevin Mullin,33
+San Mateo,4663,State Assembly,22,REP,Mark Gilham,31
+San Mateo,4670,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,4670,State Assembly,22,REP,Mark Gilham,0
+San Mateo,4680,State Assembly,22,DEM,Kevin Mullin,420
+San Mateo,4680,State Assembly,22,REP,Mark Gilham,201
+San Mateo,4681,State Assembly,22,DEM,Kevin Mullin,482
+San Mateo,4681,State Assembly,22,REP,Mark Gilham,224
+San Mateo,4684,State Assembly,22,DEM,Kevin Mullin,249
+San Mateo,4684,State Assembly,22,REP,Mark Gilham,148
+San Mateo,4685,State Assembly,22,DEM,Kevin Mullin,273
+San Mateo,4685,State Assembly,22,REP,Mark Gilham,127
+San Mateo,4686,State Assembly,22,DEM,Kevin Mullin,369
+San Mateo,4686,State Assembly,22,REP,Mark Gilham,181
+San Mateo,4688,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,4688,State Assembly,22,REP,Mark Gilham,0
+San Mateo,4701,State Assembly,22,DEM,Kevin Mullin,81
+San Mateo,4701,State Assembly,22,REP,Mark Gilham,36
+San Mateo,4702,State Assembly,22,DEM,Kevin Mullin,30
+San Mateo,4702,State Assembly,22,REP,Mark Gilham,22
+San Mateo,4708,State Assembly,22,DEM,Kevin Mullin,49
+San Mateo,4708,State Assembly,22,REP,Mark Gilham,18
+San Mateo,4710,State Assembly,22,DEM,Kevin Mullin,2
+San Mateo,4710,State Assembly,22,REP,Mark Gilham,4
+San Mateo,5001,State Assembly,22,DEM,Kevin Mullin,335
+San Mateo,5001,State Assembly,22,REP,Mark Gilham,83
+San Mateo,5002,State Assembly,22,DEM,Kevin Mullin,365
+San Mateo,5002,State Assembly,22,REP,Mark Gilham,91
+San Mateo,5003,State Assembly,22,DEM,Kevin Mullin,239
+San Mateo,5003,State Assembly,22,REP,Mark Gilham,87
+San Mateo,5101,State Assembly,19,DEM,Phil Ting,425
+San Mateo,5101,State Assembly,19,REP,Rene Pineda,180
+San Mateo,5103,State Assembly,19,DEM,Phil Ting,324
+San Mateo,5103,State Assembly,19,REP,Rene Pineda,109
+San Mateo,5105,State Assembly,19,DEM,Phil Ting,12
+San Mateo,5105,State Assembly,19,REP,Rene Pineda,4
+San Mateo,5301,State Assembly,19,DEM,Phil Ting,173
+San Mateo,5301,State Assembly,19,REP,Rene Pineda,67
+San Mateo,5521,State Assembly,22,DEM,Kevin Mullin,240
+San Mateo,5521,State Assembly,22,REP,Mark Gilham,82
+San Mateo,5522,State Assembly,22,DEM,Kevin Mullin,268
+San Mateo,5522,State Assembly,22,REP,Mark Gilham,104
+San Mateo,5523,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,5523,State Assembly,22,REP,Mark Gilham,0
+San Mateo,5524,State Assembly,22,DEM,Kevin Mullin,235
+San Mateo,5524,State Assembly,22,REP,Mark Gilham,79
+San Mateo,5525,State Assembly,22,DEM,Kevin Mullin,394
+San Mateo,5525,State Assembly,22,REP,Mark Gilham,165
+San Mateo,5528,State Assembly,22,DEM,Kevin Mullin,363
+San Mateo,5528,State Assembly,22,REP,Mark Gilham,164
+San Mateo,5530,State Assembly,22,DEM,Kevin Mullin,72
+San Mateo,5530,State Assembly,22,REP,Mark Gilham,29
+San Mateo,5531,State Assembly,22,DEM,Kevin Mullin,20
+San Mateo,5531,State Assembly,22,REP,Mark Gilham,4
+San Mateo,5534,State Assembly,22,DEM,Kevin Mullin,28
+San Mateo,5534,State Assembly,22,REP,Mark Gilham,8
+San Mateo,5535,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,5535,State Assembly,22,REP,Mark Gilham,0
+San Mateo,5601,State Assembly,19,DEM,Phil Ting,289
+San Mateo,5601,State Assembly,19,REP,Rene Pineda,91
+San Mateo,5602,State Assembly,19,DEM,Phil Ting,205
+San Mateo,5602,State Assembly,19,REP,Rene Pineda,43
+San Mateo,5603,State Assembly,19,DEM,Phil Ting,290
+San Mateo,5603,State Assembly,19,REP,Rene Pineda,81
+San Mateo,5604,State Assembly,19,DEM,Phil Ting,358
+San Mateo,5604,State Assembly,19,REP,Rene Pineda,106
+San Mateo,5605,State Assembly,19,DEM,Phil Ting,284
+San Mateo,5605,State Assembly,19,REP,Rene Pineda,80
+San Mateo,5607,State Assembly,19,DEM,Phil Ting,179
+San Mateo,5607,State Assembly,19,REP,Rene Pineda,64
+San Mateo,5608,State Assembly,19,DEM,Phil Ting,197
+San Mateo,5608,State Assembly,19,REP,Rene Pineda,63
+San Mateo,5609,State Assembly,19,DEM,Phil Ting,357
+San Mateo,5609,State Assembly,19,REP,Rene Pineda,120
+San Mateo,5611,State Assembly,19,DEM,Phil Ting,314
+San Mateo,5611,State Assembly,19,REP,Rene Pineda,139
+San Mateo,5612,State Assembly,19,DEM,Phil Ting,421
+San Mateo,5612,State Assembly,19,REP,Rene Pineda,167
+San Mateo,5615,State Assembly,19,DEM,Phil Ting,330
+San Mateo,5615,State Assembly,19,REP,Rene Pineda,168
+San Mateo,5617,State Assembly,19,DEM,Phil Ting,437
+San Mateo,5617,State Assembly,19,REP,Rene Pineda,157
+San Mateo,5619,State Assembly,19,DEM,Phil Ting,152
+San Mateo,5619,State Assembly,19,REP,Rene Pineda,69
+San Mateo,5620,State Assembly,19,DEM,Phil Ting,305
+San Mateo,5620,State Assembly,19,REP,Rene Pineda,197
+San Mateo,5622,State Assembly,19,DEM,Phil Ting,152
+San Mateo,5622,State Assembly,19,REP,Rene Pineda,78
+San Mateo,5623,State Assembly,19,DEM,Phil Ting,368
+San Mateo,5623,State Assembly,19,REP,Rene Pineda,111
+San Mateo,5624,State Assembly,19,DEM,Phil Ting,178
+San Mateo,5624,State Assembly,19,REP,Rene Pineda,75
+San Mateo,5625,State Assembly,19,DEM,Phil Ting,147
+San Mateo,5625,State Assembly,19,REP,Rene Pineda,65
+San Mateo,5627,State Assembly,19,DEM,Phil Ting,185
+San Mateo,5627,State Assembly,19,REP,Rene Pineda,72
+San Mateo,5628,State Assembly,19,DEM,Phil Ting,114
+San Mateo,5628,State Assembly,19,REP,Rene Pineda,39
+San Mateo,5629,State Assembly,19,DEM,Phil Ting,171
+San Mateo,5629,State Assembly,19,REP,Rene Pineda,46
+San Mateo,5631,State Assembly,19,DEM,Phil Ting,362
+San Mateo,5631,State Assembly,19,REP,Rene Pineda,119
+San Mateo,5633,State Assembly,19,DEM,Phil Ting,363
+San Mateo,5633,State Assembly,19,REP,Rene Pineda,132
+San Mateo,5635,State Assembly,19,DEM,Phil Ting,458
+San Mateo,5635,State Assembly,19,REP,Rene Pineda,222
+San Mateo,5636,State Assembly,19,DEM,Phil Ting,170
+San Mateo,5636,State Assembly,19,REP,Rene Pineda,77
+San Mateo,5639,State Assembly,19,DEM,Phil Ting,306
+San Mateo,5639,State Assembly,19,REP,Rene Pineda,123
+San Mateo,5641,State Assembly,19,DEM,Phil Ting,532
+San Mateo,5641,State Assembly,19,REP,Rene Pineda,159
+San Mateo,5644,State Assembly,19,DEM,Phil Ting,142
+San Mateo,5644,State Assembly,19,REP,Rene Pineda,60
+San Mateo,5645,State Assembly,19,DEM,Phil Ting,144
+San Mateo,5645,State Assembly,19,REP,Rene Pineda,65
+San Mateo,5646,State Assembly,19,DEM,Phil Ting,226
+San Mateo,5646,State Assembly,19,REP,Rene Pineda,68
+San Mateo,5647,State Assembly,19,DEM,Phil Ting,198
+San Mateo,5647,State Assembly,19,REP,Rene Pineda,84
+San Mateo,5648,State Assembly,19,DEM,Phil Ting,386
+San Mateo,5648,State Assembly,19,REP,Rene Pineda,166
+San Mateo,5650,State Assembly,19,DEM,Phil Ting,186
+San Mateo,5650,State Assembly,19,REP,Rene Pineda,83
+San Mateo,5651,State Assembly,19,DEM,Phil Ting,422
+San Mateo,5651,State Assembly,19,REP,Rene Pineda,196
+San Mateo,5701,State Assembly,19,DEM,Phil Ting,0
+San Mateo,5701,State Assembly,19,REP,Rene Pineda,0
+San Mateo,5809,State Assembly,22,DEM,Kevin Mullin,124
+San Mateo,5809,State Assembly,22,REP,Mark Gilham,63
+San Mateo,5816,State Assembly,22,DEM,Kevin Mullin,36
+San Mateo,5816,State Assembly,22,REP,Mark Gilham,12
+San Mateo,5822,State Assembly,19,DEM,Phil Ting,190
+San Mateo,5822,State Assembly,19,REP,Rene Pineda,78
+San Mateo,5823,State Assembly,19,DEM,Phil Ting,200
+San Mateo,5823,State Assembly,19,REP,Rene Pineda,77
+San Mateo,5825,State Assembly,19,DEM,Phil Ting,396
+San Mateo,5825,State Assembly,19,REP,Rene Pineda,144
+San Mateo,5827,State Assembly,19,DEM,Phil Ting,381
+San Mateo,5827,State Assembly,19,REP,Rene Pineda,144
+San Mateo,5829,State Assembly,22,DEM,Kevin Mullin,468
+San Mateo,5829,State Assembly,22,REP,Mark Gilham,140
+San Mateo,5832,State Assembly,22,DEM,Kevin Mullin,178
+San Mateo,5832,State Assembly,22,REP,Mark Gilham,70
+San Mateo,5901,State Assembly,19,DEM,Phil Ting,0
+San Mateo,5901,State Assembly,19,REP,Rene Pineda,0
+San Mateo,5902,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,5902,State Assembly,22,REP,Mark Gilham,0
+San Mateo,5903,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,5903,State Assembly,22,REP,Mark Gilham,0
+San Mateo,5904,State Assembly,19,DEM,Phil Ting,0
+San Mateo,5904,State Assembly,19,REP,Rene Pineda,0
+San Mateo,5905,State Assembly,19,DEM,Phil Ting,0
+San Mateo,5905,State Assembly,19,REP,Rene Pineda,0
+San Mateo,5906,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,5906,State Assembly,22,REP,Mark Gilham,0
+San Mateo,5907,State Assembly,22,DEM,Kevin Mullin,0
+San Mateo,5907,State Assembly,22,REP,Mark Gilham,0

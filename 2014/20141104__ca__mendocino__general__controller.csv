@@ -1,0 +1,499 @@
+county,precinct,office,district,party,candidate,votes
+Mendocino,100001,Controller,,DEM,Betty T. Yee,114
+Mendocino,100001,Controller,,REP,Ashley Swearengin,83
+Mendocino,100002,Controller,,DEM,Betty T. Yee,187
+Mendocino,100002,Controller,,REP,Ashley Swearengin,151
+Mendocino,100003,Controller,,DEM,Betty T. Yee,168
+Mendocino,100003,Controller,,REP,Ashley Swearengin,166
+Mendocino,100004,Controller,,DEM,Betty T. Yee,159
+Mendocino,100004,Controller,,REP,Ashley Swearengin,131
+Mendocino,100005,Controller,,DEM,Betty T. Yee,94
+Mendocino,100005,Controller,,REP,Ashley Swearengin,90
+Mendocino,100006,Controller,,DEM,Betty T. Yee,161
+Mendocino,100006,Controller,,REP,Ashley Swearengin,125
+Mendocino,100007,Controller,,DEM,Betty T. Yee,65
+Mendocino,100007,Controller,,REP,Ashley Swearengin,54
+Mendocino,100008,Controller,,DEM,Betty T. Yee,162
+Mendocino,100008,Controller,,REP,Ashley Swearengin,104
+Mendocino,100009,Controller,,DEM,Betty T. Yee,172
+Mendocino,100009,Controller,,REP,Ashley Swearengin,157
+Mendocino,100500,Controller,,DEM,Betty T. Yee,94
+Mendocino,100500,Controller,,REP,Ashley Swearengin,45
+Mendocino,200001,Controller,,DEM,Betty T. Yee,82
+Mendocino,200001,Controller,,REP,Ashley Swearengin,66
+Mendocino,200003,Controller,,DEM,Betty T. Yee,270
+Mendocino,200003,Controller,,REP,Ashley Swearengin,140
+Mendocino,200004,Controller,,DEM,Betty T. Yee,221
+Mendocino,200004,Controller,,REP,Ashley Swearengin,101
+Mendocino,300001,Controller,,DEM,Betty T. Yee,277
+Mendocino,300001,Controller,,REP,Ashley Swearengin,140
+Mendocino,300002,Controller,,DEM,Betty T. Yee,258
+Mendocino,300002,Controller,,REP,Ashley Swearengin,125
+Mendocino,300003,Controller,,DEM,Betty T. Yee,197
+Mendocino,300003,Controller,,REP,Ashley Swearengin,88
+Mendocino,300004,Controller,,DEM,Betty T. Yee,156
+Mendocino,300004,Controller,,REP,Ashley Swearengin,145
+Mendocino,300005,Controller,,DEM,Betty T. Yee,171
+Mendocino,300005,Controller,,REP,Ashley Swearengin,147
+Mendocino,300006,Controller,,DEM,Betty T. Yee,231
+Mendocino,300006,Controller,,REP,Ashley Swearengin,97
+Mendocino,300007,Controller,,DEM,Betty T. Yee,213
+Mendocino,300007,Controller,,REP,Ashley Swearengin,88
+Mendocino,300008,Controller,,DEM,Betty T. Yee,328
+Mendocino,300008,Controller,,REP,Ashley Swearengin,88
+Mendocino,400001,Controller,,DEM,Betty T. Yee,299
+Mendocino,400001,Controller,,REP,Ashley Swearengin,124
+Mendocino,400002,Controller,,DEM,Betty T. Yee,142
+Mendocino,400002,Controller,,REP,Ashley Swearengin,58
+Mendocino,400003,Controller,,DEM,Betty T. Yee,91
+Mendocino,400003,Controller,,REP,Ashley Swearengin,46
+Mendocino,400004,Controller,,DEM,Betty T. Yee,302
+Mendocino,400004,Controller,,REP,Ashley Swearengin,143
+Mendocino,400005,Controller,,DEM,Betty T. Yee,404
+Mendocino,400005,Controller,,REP,Ashley Swearengin,101
+Mendocino,400006,Controller,,DEM,Betty T. Yee,200
+Mendocino,400006,Controller,,REP,Ashley Swearengin,69
+Mendocino,400007,Controller,,DEM,Betty T. Yee,153
+Mendocino,400007,Controller,,REP,Ashley Swearengin,27
+Mendocino,500001,Controller,,DEM,Betty T. Yee,112
+Mendocino,500001,Controller,,REP,Ashley Swearengin,39
+Mendocino,500002,Controller,,DEM,Betty T. Yee,273
+Mendocino,500002,Controller,,REP,Ashley Swearengin,58
+Mendocino,500003,Controller,,DEM,Betty T. Yee,124
+Mendocino,500003,Controller,,REP,Ashley Swearengin,34
+Mendocino,500004,Controller,,DEM,Betty T. Yee,361
+Mendocino,500004,Controller,,REP,Ashley Swearengin,47
+Mendocino,500005,Controller,,DEM,Betty T. Yee,339
+Mendocino,500005,Controller,,REP,Ashley Swearengin,114
+Mendocino,500006,Controller,,DEM,Betty T. Yee,133
+Mendocino,500006,Controller,,REP,Ashley Swearengin,29
+Mendocino,500007,Controller,,DEM,Betty T. Yee,314
+Mendocino,500007,Controller,,REP,Ashley Swearengin,80
+Mendocino,500008,Controller,,DEM,Betty T. Yee,193
+Mendocino,500008,Controller,,REP,Ashley Swearengin,66
+Mendocino,500009,Controller,,DEM,Betty T. Yee,76
+Mendocino,500009,Controller,,REP,Ashley Swearengin,50
+Mendocino,999102,Controller,,DEM,Betty T. Yee,34
+Mendocino,999102,Controller,,REP,Ashley Swearengin,28
+Mendocino,999103,Controller,,DEM,Betty T. Yee,52
+Mendocino,999103,Controller,,REP,Ashley Swearengin,51
+Mendocino,999104,Controller,,DEM,Betty T. Yee,66
+Mendocino,999104,Controller,,REP,Ashley Swearengin,16
+Mendocino,999105,Controller,,DEM,Betty T. Yee,35
+Mendocino,999105,Controller,,REP,Ashley Swearengin,36
+Mendocino,999106,Controller,,DEM,Betty T. Yee,52
+Mendocino,999106,Controller,,REP,Ashley Swearengin,16
+Mendocino,999107,Controller,,DEM,Betty T. Yee,0
+Mendocino,999107,Controller,,REP,Ashley Swearengin,0
+Mendocino,999108,Controller,,DEM,Betty T. Yee,35
+Mendocino,999108,Controller,,REP,Ashley Swearengin,42
+Mendocino,999109,Controller,,DEM,Betty T. Yee,5
+Mendocino,999109,Controller,,REP,Ashley Swearengin,6
+Mendocino,999110,Controller,,DEM,Betty T. Yee,60
+Mendocino,999110,Controller,,REP,Ashley Swearengin,24
+Mendocino,999111,Controller,,DEM,Betty T. Yee,44
+Mendocino,999111,Controller,,REP,Ashley Swearengin,29
+Mendocino,999112,Controller,,DEM,Betty T. Yee,47
+Mendocino,999112,Controller,,REP,Ashley Swearengin,27
+Mendocino,999113,Controller,,DEM,Betty T. Yee,43
+Mendocino,999113,Controller,,REP,Ashley Swearengin,36
+Mendocino,999114,Controller,,DEM,Betty T. Yee,2
+Mendocino,999114,Controller,,REP,Ashley Swearengin,6
+Mendocino,999115,Controller,,DEM,Betty T. Yee,17
+Mendocino,999115,Controller,,REP,Ashley Swearengin,19
+Mendocino,999116,Controller,,DEM,Betty T. Yee,37
+Mendocino,999116,Controller,,REP,Ashley Swearengin,16
+Mendocino,999117,Controller,,DEM,Betty T. Yee,26
+Mendocino,999117,Controller,,REP,Ashley Swearengin,25
+Mendocino,999118,Controller,,DEM,Betty T. Yee,3
+Mendocino,999118,Controller,,REP,Ashley Swearengin,6
+Mendocino,999119,Controller,,DEM,Betty T. Yee,7
+Mendocino,999119,Controller,,REP,Ashley Swearengin,0
+Mendocino,999120,Controller,,DEM,Betty T. Yee,28
+Mendocino,999120,Controller,,REP,Ashley Swearengin,46
+Mendocino,999121,Controller,,DEM,Betty T. Yee,9
+Mendocino,999121,Controller,,REP,Ashley Swearengin,6
+Mendocino,999122,Controller,,DEM,Betty T. Yee,0
+Mendocino,999122,Controller,,REP,Ashley Swearengin,0
+Mendocino,999124,Controller,,DEM,Betty T. Yee,44
+Mendocino,999124,Controller,,REP,Ashley Swearengin,39
+Mendocino,999125,Controller,,DEM,Betty T. Yee,10
+Mendocino,999125,Controller,,REP,Ashley Swearengin,6
+Mendocino,999126,Controller,,DEM,Betty T. Yee,24
+Mendocino,999126,Controller,,REP,Ashley Swearengin,14
+Mendocino,999127,Controller,,DEM,Betty T. Yee,28
+Mendocino,999127,Controller,,REP,Ashley Swearengin,20
+Mendocino,999128,Controller,,DEM,Betty T. Yee,41
+Mendocino,999128,Controller,,REP,Ashley Swearengin,33
+Mendocino,999129,Controller,,DEM,Betty T. Yee,2
+Mendocino,999129,Controller,,REP,Ashley Swearengin,0
+Mendocino,999130,Controller,,DEM,Betty T. Yee,0
+Mendocino,999130,Controller,,REP,Ashley Swearengin,0
+Mendocino,999131,Controller,,DEM,Betty T. Yee,6
+Mendocino,999131,Controller,,REP,Ashley Swearengin,5
+Mendocino,999132,Controller,,DEM,Betty T. Yee,0
+Mendocino,999132,Controller,,REP,Ashley Swearengin,0
+Mendocino,999133,Controller,,DEM,Betty T. Yee,0
+Mendocino,999133,Controller,,REP,Ashley Swearengin,0
+Mendocino,999134,Controller,,DEM,Betty T. Yee,19
+Mendocino,999134,Controller,,REP,Ashley Swearengin,19
+Mendocino,999135,Controller,,DEM,Betty T. Yee,8
+Mendocino,999135,Controller,,REP,Ashley Swearengin,4
+Mendocino,999136,Controller,,DEM,Betty T. Yee,0
+Mendocino,999136,Controller,,REP,Ashley Swearengin,0
+Mendocino,999137,Controller,,DEM,Betty T. Yee,0
+Mendocino,999137,Controller,,REP,Ashley Swearengin,3
+Mendocino,999138,Controller,,DEM,Betty T. Yee,3
+Mendocino,999138,Controller,,REP,Ashley Swearengin,0
+Mendocino,999139,Controller,,DEM,Betty T. Yee,0
+Mendocino,999139,Controller,,REP,Ashley Swearengin,0
+Mendocino,999140,Controller,,DEM,Betty T. Yee,14
+Mendocino,999140,Controller,,REP,Ashley Swearengin,25
+Mendocino,999141,Controller,,DEM,Betty T. Yee,66
+Mendocino,999141,Controller,,REP,Ashley Swearengin,36
+Mendocino,999142,Controller,,DEM,Betty T. Yee,0
+Mendocino,999142,Controller,,REP,Ashley Swearengin,0
+Mendocino,999143,Controller,,DEM,Betty T. Yee,0
+Mendocino,999143,Controller,,REP,Ashley Swearengin,0
+Mendocino,999144,Controller,,DEM,Betty T. Yee,1
+Mendocino,999144,Controller,,REP,Ashley Swearengin,2
+Mendocino,999145,Controller,,DEM,Betty T. Yee,0
+Mendocino,999145,Controller,,REP,Ashley Swearengin,0
+Mendocino,999146,Controller,,DEM,Betty T. Yee,0
+Mendocino,999146,Controller,,REP,Ashley Swearengin,0
+Mendocino,999147,Controller,,DEM,Betty T. Yee,1
+Mendocino,999147,Controller,,REP,Ashley Swearengin,1
+Mendocino,999148,Controller,,DEM,Betty T. Yee,59
+Mendocino,999148,Controller,,REP,Ashley Swearengin,77
+Mendocino,999149,Controller,,DEM,Betty T. Yee,0
+Mendocino,999149,Controller,,REP,Ashley Swearengin,0
+Mendocino,999150,Controller,,DEM,Betty T. Yee,23
+Mendocino,999150,Controller,,REP,Ashley Swearengin,40
+Mendocino,999151,Controller,,DEM,Betty T. Yee,2
+Mendocino,999151,Controller,,REP,Ashley Swearengin,0
+Mendocino,999201,Controller,,DEM,Betty T. Yee,0
+Mendocino,999201,Controller,,REP,Ashley Swearengin,0
+Mendocino,999202,Controller,,DEM,Betty T. Yee,84
+Mendocino,999202,Controller,,REP,Ashley Swearengin,53
+Mendocino,999203,Controller,,DEM,Betty T. Yee,76
+Mendocino,999203,Controller,,REP,Ashley Swearengin,44
+Mendocino,999204,Controller,,DEM,Betty T. Yee,57
+Mendocino,999204,Controller,,REP,Ashley Swearengin,45
+Mendocino,999205,Controller,,DEM,Betty T. Yee,115
+Mendocino,999205,Controller,,REP,Ashley Swearengin,81
+Mendocino,999206,Controller,,DEM,Betty T. Yee,40
+Mendocino,999206,Controller,,REP,Ashley Swearengin,42
+Mendocino,999207,Controller,,DEM,Betty T. Yee,46
+Mendocino,999207,Controller,,REP,Ashley Swearengin,17
+Mendocino,999208,Controller,,DEM,Betty T. Yee,52
+Mendocino,999208,Controller,,REP,Ashley Swearengin,17
+Mendocino,999209,Controller,,DEM,Betty T. Yee,24
+Mendocino,999209,Controller,,REP,Ashley Swearengin,10
+Mendocino,999210,Controller,,DEM,Betty T. Yee,0
+Mendocino,999210,Controller,,REP,Ashley Swearengin,0
+Mendocino,999211,Controller,,DEM,Betty T. Yee,67
+Mendocino,999211,Controller,,REP,Ashley Swearengin,36
+Mendocino,999212,Controller,,DEM,Betty T. Yee,53
+Mendocino,999212,Controller,,REP,Ashley Swearengin,20
+Mendocino,999213,Controller,,DEM,Betty T. Yee,61
+Mendocino,999213,Controller,,REP,Ashley Swearengin,46
+Mendocino,999214,Controller,,DEM,Betty T. Yee,60
+Mendocino,999214,Controller,,REP,Ashley Swearengin,21
+Mendocino,999215,Controller,,DEM,Betty T. Yee,81
+Mendocino,999215,Controller,,REP,Ashley Swearengin,42
+Mendocino,999216,Controller,,DEM,Betty T. Yee,187
+Mendocino,999216,Controller,,REP,Ashley Swearengin,67
+Mendocino,999217,Controller,,DEM,Betty T. Yee,39
+Mendocino,999217,Controller,,REP,Ashley Swearengin,12
+Mendocino,999218,Controller,,DEM,Betty T. Yee,49
+Mendocino,999218,Controller,,REP,Ashley Swearengin,22
+Mendocino,999219,Controller,,DEM,Betty T. Yee,56
+Mendocino,999219,Controller,,REP,Ashley Swearengin,17
+Mendocino,999220,Controller,,DEM,Betty T. Yee,83
+Mendocino,999220,Controller,,REP,Ashley Swearengin,28
+Mendocino,999221,Controller,,DEM,Betty T. Yee,0
+Mendocino,999221,Controller,,REP,Ashley Swearengin,0
+Mendocino,999222,Controller,,DEM,Betty T. Yee,57
+Mendocino,999222,Controller,,REP,Ashley Swearengin,19
+Mendocino,999223,Controller,,DEM,Betty T. Yee,100
+Mendocino,999223,Controller,,REP,Ashley Swearengin,45
+Mendocino,999224,Controller,,DEM,Betty T. Yee,0
+Mendocino,999224,Controller,,REP,Ashley Swearengin,0
+Mendocino,999225,Controller,,DEM,Betty T. Yee,13
+Mendocino,999225,Controller,,REP,Ashley Swearengin,12
+Mendocino,999226,Controller,,DEM,Betty T. Yee,32
+Mendocino,999226,Controller,,REP,Ashley Swearengin,14
+Mendocino,999227,Controller,,DEM,Betty T. Yee,61
+Mendocino,999227,Controller,,REP,Ashley Swearengin,17
+Mendocino,999228,Controller,,DEM,Betty T. Yee,34
+Mendocino,999228,Controller,,REP,Ashley Swearengin,21
+Mendocino,999229,Controller,,DEM,Betty T. Yee,48
+Mendocino,999229,Controller,,REP,Ashley Swearengin,36
+Mendocino,999230,Controller,,DEM,Betty T. Yee,24
+Mendocino,999230,Controller,,REP,Ashley Swearengin,18
+Mendocino,999231,Controller,,DEM,Betty T. Yee,45
+Mendocino,999231,Controller,,REP,Ashley Swearengin,41
+Mendocino,999232,Controller,,DEM,Betty T. Yee,67
+Mendocino,999232,Controller,,REP,Ashley Swearengin,19
+Mendocino,999233,Controller,,DEM,Betty T. Yee,44
+Mendocino,999233,Controller,,REP,Ashley Swearengin,36
+Mendocino,999234,Controller,,DEM,Betty T. Yee,35
+Mendocino,999234,Controller,,REP,Ashley Swearengin,22
+Mendocino,999235,Controller,,DEM,Betty T. Yee,0
+Mendocino,999235,Controller,,REP,Ashley Swearengin,2
+Mendocino,999236,Controller,,DEM,Betty T. Yee,0
+Mendocino,999236,Controller,,REP,Ashley Swearengin,0
+Mendocino,999301,Controller,,DEM,Betty T. Yee,105
+Mendocino,999301,Controller,,REP,Ashley Swearengin,16
+Mendocino,999302,Controller,,DEM,Betty T. Yee,41
+Mendocino,999302,Controller,,REP,Ashley Swearengin,16
+Mendocino,999303,Controller,,DEM,Betty T. Yee,63
+Mendocino,999303,Controller,,REP,Ashley Swearengin,39
+Mendocino,999304,Controller,,DEM,Betty T. Yee,53
+Mendocino,999304,Controller,,REP,Ashley Swearengin,21
+Mendocino,999305,Controller,,DEM,Betty T. Yee,63
+Mendocino,999305,Controller,,REP,Ashley Swearengin,22
+Mendocino,999306,Controller,,DEM,Betty T. Yee,47
+Mendocino,999306,Controller,,REP,Ashley Swearengin,19
+Mendocino,999307,Controller,,DEM,Betty T. Yee,40
+Mendocino,999307,Controller,,REP,Ashley Swearengin,35
+Mendocino,999308,Controller,,DEM,Betty T. Yee,37
+Mendocino,999308,Controller,,REP,Ashley Swearengin,19
+Mendocino,999309,Controller,,DEM,Betty T. Yee,24
+Mendocino,999309,Controller,,REP,Ashley Swearengin,5
+Mendocino,999310,Controller,,DEM,Betty T. Yee,26
+Mendocino,999310,Controller,,REP,Ashley Swearengin,11
+Mendocino,999311,Controller,,DEM,Betty T. Yee,33
+Mendocino,999311,Controller,,REP,Ashley Swearengin,15
+Mendocino,999312,Controller,,DEM,Betty T. Yee,59
+Mendocino,999312,Controller,,REP,Ashley Swearengin,13
+Mendocino,999313,Controller,,DEM,Betty T. Yee,53
+Mendocino,999313,Controller,,REP,Ashley Swearengin,19
+Mendocino,999314,Controller,,DEM,Betty T. Yee,112
+Mendocino,999314,Controller,,REP,Ashley Swearengin,24
+Mendocino,999315,Controller,,DEM,Betty T. Yee,70
+Mendocino,999315,Controller,,REP,Ashley Swearengin,18
+Mendocino,999316,Controller,,DEM,Betty T. Yee,54
+Mendocino,999316,Controller,,REP,Ashley Swearengin,35
+Mendocino,999317,Controller,,DEM,Betty T. Yee,1
+Mendocino,999317,Controller,,REP,Ashley Swearengin,0
+Mendocino,999318,Controller,,DEM,Betty T. Yee,50
+Mendocino,999318,Controller,,REP,Ashley Swearengin,35
+Mendocino,999319,Controller,,DEM,Betty T. Yee,42
+Mendocino,999319,Controller,,REP,Ashley Swearengin,36
+Mendocino,999320,Controller,,DEM,Betty T. Yee,85
+Mendocino,999320,Controller,,REP,Ashley Swearengin,41
+Mendocino,999322,Controller,,DEM,Betty T. Yee,46
+Mendocino,999322,Controller,,REP,Ashley Swearengin,49
+Mendocino,999323,Controller,,DEM,Betty T. Yee,83
+Mendocino,999323,Controller,,REP,Ashley Swearengin,45
+Mendocino,999324,Controller,,DEM,Betty T. Yee,35
+Mendocino,999324,Controller,,REP,Ashley Swearengin,27
+Mendocino,999325,Controller,,DEM,Betty T. Yee,29
+Mendocino,999325,Controller,,REP,Ashley Swearengin,11
+Mendocino,999326,Controller,,DEM,Betty T. Yee,77
+Mendocino,999326,Controller,,REP,Ashley Swearengin,30
+Mendocino,999327,Controller,,DEM,Betty T. Yee,0
+Mendocino,999327,Controller,,REP,Ashley Swearengin,0
+Mendocino,999328,Controller,,DEM,Betty T. Yee,0
+Mendocino,999328,Controller,,REP,Ashley Swearengin,0
+Mendocino,999329,Controller,,DEM,Betty T. Yee,15
+Mendocino,999329,Controller,,REP,Ashley Swearengin,7
+Mendocino,999330,Controller,,DEM,Betty T. Yee,43
+Mendocino,999330,Controller,,REP,Ashley Swearengin,12
+Mendocino,999401,Controller,,DEM,Betty T. Yee,30
+Mendocino,999401,Controller,,REP,Ashley Swearengin,18
+Mendocino,999402,Controller,,DEM,Betty T. Yee,33
+Mendocino,999402,Controller,,REP,Ashley Swearengin,2
+Mendocino,999403,Controller,,DEM,Betty T. Yee,3
+Mendocino,999403,Controller,,REP,Ashley Swearengin,0
+Mendocino,999404,Controller,,DEM,Betty T. Yee,41
+Mendocino,999404,Controller,,REP,Ashley Swearengin,14
+Mendocino,999405,Controller,,DEM,Betty T. Yee,28
+Mendocino,999405,Controller,,REP,Ashley Swearengin,2
+Mendocino,999406,Controller,,DEM,Betty T. Yee,69
+Mendocino,999406,Controller,,REP,Ashley Swearengin,20
+Mendocino,999407,Controller,,DEM,Betty T. Yee,58
+Mendocino,999407,Controller,,REP,Ashley Swearengin,18
+Mendocino,999408,Controller,,DEM,Betty T. Yee,34
+Mendocino,999408,Controller,,REP,Ashley Swearengin,23
+Mendocino,999409,Controller,,DEM,Betty T. Yee,106
+Mendocino,999409,Controller,,REP,Ashley Swearengin,51
+Mendocino,999410,Controller,,DEM,Betty T. Yee,56
+Mendocino,999410,Controller,,REP,Ashley Swearengin,38
+Mendocino,999411,Controller,,DEM,Betty T. Yee,67
+Mendocino,999411,Controller,,REP,Ashley Swearengin,33
+Mendocino,999412,Controller,,DEM,Betty T. Yee,48
+Mendocino,999412,Controller,,REP,Ashley Swearengin,36
+Mendocino,999413,Controller,,DEM,Betty T. Yee,36
+Mendocino,999413,Controller,,REP,Ashley Swearengin,13
+Mendocino,999414,Controller,,DEM,Betty T. Yee,93
+Mendocino,999414,Controller,,REP,Ashley Swearengin,31
+Mendocino,999415,Controller,,DEM,Betty T. Yee,39
+Mendocino,999415,Controller,,REP,Ashley Swearengin,15
+Mendocino,999416,Controller,,DEM,Betty T. Yee,71
+Mendocino,999416,Controller,,REP,Ashley Swearengin,27
+Mendocino,999417,Controller,,DEM,Betty T. Yee,20
+Mendocino,999417,Controller,,REP,Ashley Swearengin,9
+Mendocino,999418,Controller,,DEM,Betty T. Yee,0
+Mendocino,999418,Controller,,REP,Ashley Swearengin,0
+Mendocino,999419,Controller,,DEM,Betty T. Yee,78
+Mendocino,999419,Controller,,REP,Ashley Swearengin,27
+Mendocino,999420,Controller,,DEM,Betty T. Yee,67
+Mendocino,999420,Controller,,REP,Ashley Swearengin,33
+Mendocino,999421,Controller,,DEM,Betty T. Yee,70
+Mendocino,999421,Controller,,REP,Ashley Swearengin,41
+Mendocino,999423,Controller,,DEM,Betty T. Yee,26
+Mendocino,999423,Controller,,REP,Ashley Swearengin,16
+Mendocino,999424,Controller,,DEM,Betty T. Yee,94
+Mendocino,999424,Controller,,REP,Ashley Swearengin,29
+Mendocino,999425,Controller,,DEM,Betty T. Yee,110
+Mendocino,999425,Controller,,REP,Ashley Swearengin,28
+Mendocino,999426,Controller,,DEM,Betty T. Yee,57
+Mendocino,999426,Controller,,REP,Ashley Swearengin,17
+Mendocino,999427,Controller,,DEM,Betty T. Yee,45
+Mendocino,999427,Controller,,REP,Ashley Swearengin,20
+Mendocino,999428,Controller,,DEM,Betty T. Yee,89
+Mendocino,999428,Controller,,REP,Ashley Swearengin,45
+Mendocino,999429,Controller,,DEM,Betty T. Yee,67
+Mendocino,999429,Controller,,REP,Ashley Swearengin,32
+Mendocino,999430,Controller,,DEM,Betty T. Yee,0
+Mendocino,999430,Controller,,REP,Ashley Swearengin,0
+Mendocino,999431,Controller,,DEM,Betty T. Yee,0
+Mendocino,999431,Controller,,REP,Ashley Swearengin,0
+Mendocino,999432,Controller,,DEM,Betty T. Yee,66
+Mendocino,999432,Controller,,REP,Ashley Swearengin,40
+Mendocino,999433,Controller,,DEM,Betty T. Yee,36
+Mendocino,999433,Controller,,REP,Ashley Swearengin,9
+Mendocino,999434,Controller,,DEM,Betty T. Yee,71
+Mendocino,999434,Controller,,REP,Ashley Swearengin,31
+Mendocino,999435,Controller,,DEM,Betty T. Yee,51
+Mendocino,999435,Controller,,REP,Ashley Swearengin,20
+Mendocino,999436,Controller,,DEM,Betty T. Yee,61
+Mendocino,999436,Controller,,REP,Ashley Swearengin,32
+Mendocino,999437,Controller,,DEM,Betty T. Yee,87
+Mendocino,999437,Controller,,REP,Ashley Swearengin,15
+Mendocino,999438,Controller,,DEM,Betty T. Yee,44
+Mendocino,999438,Controller,,REP,Ashley Swearengin,23
+Mendocino,999439,Controller,,DEM,Betty T. Yee,5
+Mendocino,999439,Controller,,REP,Ashley Swearengin,6
+Mendocino,999440,Controller,,DEM,Betty T. Yee,3
+Mendocino,999440,Controller,,REP,Ashley Swearengin,0
+Mendocino,999441,Controller,,DEM,Betty T. Yee,57
+Mendocino,999441,Controller,,REP,Ashley Swearengin,20
+Mendocino,999442,Controller,,DEM,Betty T. Yee,8
+Mendocino,999442,Controller,,REP,Ashley Swearengin,3
+Mendocino,999501,Controller,,DEM,Betty T. Yee,81
+Mendocino,999501,Controller,,REP,Ashley Swearengin,21
+Mendocino,999502,Controller,,DEM,Betty T. Yee,116
+Mendocino,999502,Controller,,REP,Ashley Swearengin,13
+Mendocino,999503,Controller,,DEM,Betty T. Yee,45
+Mendocino,999503,Controller,,REP,Ashley Swearengin,14
+Mendocino,999504,Controller,,DEM,Betty T. Yee,88
+Mendocino,999504,Controller,,REP,Ashley Swearengin,13
+Mendocino,999505,Controller,,DEM,Betty T. Yee,87
+Mendocino,999505,Controller,,REP,Ashley Swearengin,21
+Mendocino,999506,Controller,,DEM,Betty T. Yee,90
+Mendocino,999506,Controller,,REP,Ashley Swearengin,27
+Mendocino,999507,Controller,,DEM,Betty T. Yee,86
+Mendocino,999507,Controller,,REP,Ashley Swearengin,33
+Mendocino,999508,Controller,,DEM,Betty T. Yee,63
+Mendocino,999508,Controller,,REP,Ashley Swearengin,21
+Mendocino,999509,Controller,,DEM,Betty T. Yee,38
+Mendocino,999509,Controller,,REP,Ashley Swearengin,2
+Mendocino,999510,Controller,,DEM,Betty T. Yee,97
+Mendocino,999510,Controller,,REP,Ashley Swearengin,34
+Mendocino,999511,Controller,,DEM,Betty T. Yee,37
+Mendocino,999511,Controller,,REP,Ashley Swearengin,3
+Mendocino,999512,Controller,,DEM,Betty T. Yee,45
+Mendocino,999512,Controller,,REP,Ashley Swearengin,22
+Mendocino,999513,Controller,,DEM,Betty T. Yee,79
+Mendocino,999513,Controller,,REP,Ashley Swearengin,29
+Mendocino,999514,Controller,,DEM,Betty T. Yee,89
+Mendocino,999514,Controller,,REP,Ashley Swearengin,14
+Mendocino,999515,Controller,,DEM,Betty T. Yee,3
+Mendocino,999515,Controller,,REP,Ashley Swearengin,2
+Mendocino,999516,Controller,,DEM,Betty T. Yee,85
+Mendocino,999516,Controller,,REP,Ashley Swearengin,16
+Mendocino,999517,Controller,,DEM,Betty T. Yee,55
+Mendocino,999517,Controller,,REP,Ashley Swearengin,19
+Mendocino,999518,Controller,,DEM,Betty T. Yee,19
+Mendocino,999518,Controller,,REP,Ashley Swearengin,12
+Mendocino,999519,Controller,,DEM,Betty T. Yee,45
+Mendocino,999519,Controller,,REP,Ashley Swearengin,11
+Mendocino,999520,Controller,,DEM,Betty T. Yee,38
+Mendocino,999520,Controller,,REP,Ashley Swearengin,7
+Mendocino,999521,Controller,,DEM,Betty T. Yee,119
+Mendocino,999521,Controller,,REP,Ashley Swearengin,15
+Mendocino,999522,Controller,,DEM,Betty T. Yee,28
+Mendocino,999522,Controller,,REP,Ashley Swearengin,6
+Mendocino,999523,Controller,,DEM,Betty T. Yee,1
+Mendocino,999523,Controller,,REP,Ashley Swearengin,0
+Mendocino,999525,Controller,,DEM,Betty T. Yee,84
+Mendocino,999525,Controller,,REP,Ashley Swearengin,49
+Mendocino,999526,Controller,,DEM,Betty T. Yee,48
+Mendocino,999526,Controller,,REP,Ashley Swearengin,23
+Mendocino,999527,Controller,,DEM,Betty T. Yee,11
+Mendocino,999527,Controller,,REP,Ashley Swearengin,8
+Mendocino,999528,Controller,,DEM,Betty T. Yee,53
+Mendocino,999528,Controller,,REP,Ashley Swearengin,41
+Mendocino,999529,Controller,,DEM,Betty T. Yee,68
+Mendocino,999529,Controller,,REP,Ashley Swearengin,38
+Mendocino,999530,Controller,,DEM,Betty T. Yee,55
+Mendocino,999530,Controller,,REP,Ashley Swearengin,42
+Mendocino,999531,Controller,,DEM,Betty T. Yee,18
+Mendocino,999531,Controller,,REP,Ashley Swearengin,2
+Mendocino,999532,Controller,,DEM,Betty T. Yee,31
+Mendocino,999532,Controller,,REP,Ashley Swearengin,11
+Mendocino,999533,Controller,,DEM,Betty T. Yee,58
+Mendocino,999533,Controller,,REP,Ashley Swearengin,69
+Mendocino,999534,Controller,,DEM,Betty T. Yee,29
+Mendocino,999534,Controller,,REP,Ashley Swearengin,26
+Mendocino,999535,Controller,,DEM,Betty T. Yee,32
+Mendocino,999535,Controller,,REP,Ashley Swearengin,26
+Mendocino,999536,Controller,,DEM,Betty T. Yee,57
+Mendocino,999536,Controller,,REP,Ashley Swearengin,46
+Mendocino,999537,Controller,,DEM,Betty T. Yee,12
+Mendocino,999537,Controller,,REP,Ashley Swearengin,0
+Mendocino,999538,Controller,,DEM,Betty T. Yee,34
+Mendocino,999538,Controller,,REP,Ashley Swearengin,48
+Mendocino,999539,Controller,,DEM,Betty T. Yee,68
+Mendocino,999539,Controller,,REP,Ashley Swearengin,28
+Mendocino,999540,Controller,,DEM,Betty T. Yee,6
+Mendocino,999540,Controller,,REP,Ashley Swearengin,2
+Mendocino,999541,Controller,,DEM,Betty T. Yee,76
+Mendocino,999541,Controller,,REP,Ashley Swearengin,17
+Mendocino,999542,Controller,,DEM,Betty T. Yee,24
+Mendocino,999542,Controller,,REP,Ashley Swearengin,30
+Mendocino,999543,Controller,,DEM,Betty T. Yee,6
+Mendocino,999543,Controller,,REP,Ashley Swearengin,2
+Mendocino,999544,Controller,,DEM,Betty T. Yee,0
+Mendocino,999544,Controller,,REP,Ashley Swearengin,0
+Mendocino,999545,Controller,,DEM,Betty T. Yee,2
+Mendocino,999545,Controller,,REP,Ashley Swearengin,0
+Mendocino,999546,Controller,,DEM,Betty T. Yee,0
+Mendocino,999546,Controller,,REP,Ashley Swearengin,2
+Mendocino,999547,Controller,,DEM,Betty T. Yee,2
+Mendocino,999547,Controller,,REP,Ashley Swearengin,0
+Mendocino,999548,Controller,,DEM,Betty T. Yee,0
+Mendocino,999548,Controller,,REP,Ashley Swearengin,0
+Mendocino,999549,Controller,,DEM,Betty T. Yee,0
+Mendocino,999549,Controller,,REP,Ashley Swearengin,0
+Mendocino,999550,Controller,,DEM,Betty T. Yee,0
+Mendocino,999550,Controller,,REP,Ashley Swearengin,3
+Mendocino,999551,Controller,,DEM,Betty T. Yee,35
+Mendocino,999551,Controller,,REP,Ashley Swearengin,21
+Mendocino,999552,Controller,,DEM,Betty T. Yee,0
+Mendocino,999552,Controller,,REP,Ashley Swearengin,0
+Mendocino,999553,Controller,,DEM,Betty T. Yee,0
+Mendocino,999553,Controller,,REP,Ashley Swearengin,0
+Mendocino,999554,Controller,,DEM,Betty T. Yee,0
+Mendocino,999554,Controller,,REP,Ashley Swearengin,0
+Mendocino,999555,Controller,,DEM,Betty T. Yee,1
+Mendocino,999555,Controller,,REP,Ashley Swearengin,3
+Mendocino,999556,Controller,,DEM,Betty T. Yee,58
+Mendocino,999556,Controller,,REP,Ashley Swearengin,23
+Mendocino,999557,Controller,,DEM,Betty T. Yee,16
+Mendocino,999557,Controller,,REP,Ashley Swearengin,6
+Mendocino,999558,Controller,,DEM,Betty T. Yee,58
+Mendocino,999558,Controller,,REP,Ashley Swearengin,44
