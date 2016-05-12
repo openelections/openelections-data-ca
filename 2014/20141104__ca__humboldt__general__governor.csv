@@ -1,0 +1,429 @@
+county,precinct,office,district,party,candidate,votes
+Humboldt,1CS-1_A,Governor,,DEM,Edmund G. Brown,262
+Humboldt,1CS-1_A,Governor,,REP,Neel Kashkari,221
+Humboldt,1CS-1,Governor,,DEM,Edmund G. Brown,209
+Humboldt,1CS-1,Governor,,REP,Neel Kashkari,137
+Humboldt,1CS-3_A,Governor,,DEM,Edmund G. Brown,141
+Humboldt,1CS-3_A,Governor,,REP,Neel Kashkari,105
+Humboldt,1CS-3,Governor,,DEM,Edmund G. Brown,99
+Humboldt,1CS-3,Governor,,REP,Neel Kashkari,108
+Humboldt,1CS-4_A,Governor,,DEM,Edmund G. Brown,113
+Humboldt,1CS-4_A,Governor,,REP,Neel Kashkari,124
+Humboldt,1CS-4,Governor,,DEM,Edmund G. Brown,101
+Humboldt,1CS-4,Governor,,REP,Neel Kashkari,98
+Humboldt,1E-36_A,Governor,,DEM,Edmund G. Brown,177
+Humboldt,1E-36_A,Governor,,REP,Neel Kashkari,115
+Humboldt,1E-36,Governor,,DEM,Edmund G. Brown,151
+Humboldt,1E-36,Governor,,REP,Neel Kashkari,82
+Humboldt,1E-43_A,Governor,,DEM,Edmund G. Brown,162
+Humboldt,1E-43_A,Governor,,REP,Neel Kashkari,131
+Humboldt,1E-43,Governor,,DEM,Edmund G. Brown,150
+Humboldt,1E-43,Governor,,REP,Neel Kashkari,68
+Humboldt,1E-45_A,Governor,,DEM,Edmund G. Brown,164
+Humboldt,1E-45_A,Governor,,REP,Neel Kashkari,165
+Humboldt,1E-45,Governor,,DEM,Edmund G. Brown,104
+Humboldt,1E-45,Governor,,REP,Neel Kashkari,85
+Humboldt,1E-55_A,Governor,,DEM,Edmund G. Brown,137
+Humboldt,1E-55_A,Governor,,REP,Neel Kashkari,71
+Humboldt,1E-55,Governor,,DEM,Edmund G. Brown,104
+Humboldt,1E-55,Governor,,REP,Neel Kashkari,47
+Humboldt,1ES-1_A,Governor,,DEM,Edmund G. Brown,167
+Humboldt,1ES-1_A,Governor,,REP,Neel Kashkari,117
+Humboldt,1ES-1,Governor,,DEM,Edmund G. Brown,152
+Humboldt,1ES-1,Governor,,REP,Neel Kashkari,69
+Humboldt,1F--1_A,Governor,,DEM,Edmund G. Brown,171
+Humboldt,1F--1_A,Governor,,REP,Neel Kashkari,135
+Humboldt,1F--1,Governor,,DEM,Edmund G. Brown,139
+Humboldt,1F--1,Governor,,REP,Neel Kashkari,114
+Humboldt,1FS-1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1FS-1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1FS-1,Governor,,DEM,Edmund G. Brown,51
+Humboldt,1FS-1,Governor,,REP,Neel Kashkari,66
+Humboldt,1FS-4_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1FS-4_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1FS-4,Governor,,DEM,Edmund G. Brown,68
+Humboldt,1FS-4,Governor,,REP,Neel Kashkari,57
+Humboldt,1FS-9_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1FS-9_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1FS-9,Governor,,DEM,Edmund G. Brown,44
+Humboldt,1FS-9,Governor,,REP,Neel Kashkari,48
+Humboldt,1FS_A,Governor,,DEM,Edmund G. Brown,96
+Humboldt,1FS_A,Governor,,REP,Neel Kashkari,133
+Humboldt,1FS,Governor,,DEM,Edmund G. Brown,83
+Humboldt,1FS,Governor,,REP,Neel Kashkari,108
+Humboldt,1LU_A,Governor,,DEM,Edmund G. Brown,99
+Humboldt,1LU_A,Governor,,REP,Neel Kashkari,80
+Humboldt,1LU,Governor,,DEM,Edmund G. Brown,117
+Humboldt,1LU,Governor,,REP,Neel Kashkari,108
+Humboldt,1MU_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1MU_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1MUF_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1MUF_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1MUF,Governor,,DEM,Edmund G. Brown,69
+Humboldt,1MUF,Governor,,REP,Neel Kashkari,18
+Humboldt,1MU,Governor,,DEM,Edmund G. Brown,73
+Humboldt,1MU,Governor,,REP,Neel Kashkari,34
+Humboldt,1RV-2_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1RV-2_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1RV-2,Governor,,DEM,Edmund G. Brown,16
+Humboldt,1RV-2,Governor,,REP,Neel Kashkari,11
+Humboldt,1SB10_A,Governor,,DEM,Edmund G. Brown,181
+Humboldt,1SB10_A,Governor,,REP,Neel Kashkari,170
+Humboldt,1SB10,Governor,,DEM,Edmund G. Brown,121
+Humboldt,1SB10,Governor,,REP,Neel Kashkari,81
+Humboldt,1SB12_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,1SB12_A,Governor,,REP,Neel Kashkari,0
+Humboldt,1SB12,Governor,,DEM,Edmund G. Brown,20
+Humboldt,1SB12,Governor,,REP,Neel Kashkari,24
+Humboldt,1SB-1_A,Governor,,DEM,Edmund G. Brown,202
+Humboldt,1SB-1_A,Governor,,REP,Neel Kashkari,204
+Humboldt,1SB-1,Governor,,DEM,Edmund G. Brown,162
+Humboldt,1SB-1,Governor,,REP,Neel Kashkari,123
+Humboldt,1SB-4_A,Governor,,DEM,Edmund G. Brown,234
+Humboldt,1SB-4_A,Governor,,REP,Neel Kashkari,188
+Humboldt,1SB-4,Governor,,DEM,Edmund G. Brown,137
+Humboldt,1SB-4,Governor,,REP,Neel Kashkari,96
+Humboldt,1SU_A,Governor,,DEM,Edmund G. Brown,55
+Humboldt,1SU_A,Governor,,REP,Neel Kashkari,63
+Humboldt,1SU,Governor,,DEM,Edmund G. Brown,42
+Humboldt,1SU,Governor,,REP,Neel Kashkari,67
+Humboldt,2BV-1_A,Governor,,DEM,Edmund G. Brown,52
+Humboldt,2BV-1_A,Governor,,REP,Neel Kashkari,50
+Humboldt,2BV-1,Governor,,DEM,Edmund G. Brown,52
+Humboldt,2BV-1,Governor,,REP,Neel Kashkari,15
+Humboldt,2CU_A,Governor,,DEM,Edmund G. Brown,75
+Humboldt,2CU_A,Governor,,REP,Neel Kashkari,70
+Humboldt,2CU,Governor,,DEM,Edmund G. Brown,31
+Humboldt,2CU,Governor,,REP,Neel Kashkari,55
+Humboldt,2F--1_A,Governor,,DEM,Edmund G. Brown,195
+Humboldt,2F--1_A,Governor,,REP,Neel Kashkari,177
+Humboldt,2F--1,Governor,,DEM,Edmund G. Brown,140
+Humboldt,2F--1,Governor,,REP,Neel Kashkari,108
+Humboldt,2F--3_A,Governor,,DEM,Edmund G. Brown,182
+Humboldt,2F--3_A,Governor,,REP,Neel Kashkari,170
+Humboldt,2F--3,Governor,,DEM,Edmund G. Brown,126
+Humboldt,2F--3,Governor,,REP,Neel Kashkari,105
+Humboldt,2F--4_A,Governor,,DEM,Edmund G. Brown,123
+Humboldt,2F--4_A,Governor,,REP,Neel Kashkari,103
+Humboldt,2F--4,Governor,,DEM,Edmund G. Brown,56
+Humboldt,2F--4,Governor,,REP,Neel Kashkari,58
+Humboldt,2F-R1_A,Governor,,DEM,Edmund G. Brown,236
+Humboldt,2F-R1_A,Governor,,REP,Neel Kashkari,269
+Humboldt,2F-R1,Governor,,DEM,Edmund G. Brown,120
+Humboldt,2F-R1,Governor,,REP,Neel Kashkari,142
+Humboldt,2F-R3_A,Governor,,DEM,Edmund G. Brown,199
+Humboldt,2F-R3_A,Governor,,REP,Neel Kashkari,249
+Humboldt,2F-R3,Governor,,DEM,Edmund G. Brown,143
+Humboldt,2F-R3,Governor,,REP,Neel Kashkari,154
+Humboldt,2HV-1_A,Governor,,DEM,Edmund G. Brown,123
+Humboldt,2HV-1_A,Governor,,REP,Neel Kashkari,158
+Humboldt,2HV-1,Governor,,DEM,Edmund G. Brown,72
+Humboldt,2HV-1,Governor,,REP,Neel Kashkari,110
+Humboldt,2MR_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2MR_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2MR,Governor,,DEM,Edmund G. Brown,12
+Humboldt,2MR,Governor,,REP,Neel Kashkari,4
+Humboldt,2R--1_A,Governor,,DEM,Edmund G. Brown,207
+Humboldt,2R--1_A,Governor,,REP,Neel Kashkari,223
+Humboldt,2R--1,Governor,,DEM,Edmund G. Brown,128
+Humboldt,2R--1,Governor,,REP,Neel Kashkari,169
+Humboldt,2RV-1_A,Governor,,DEM,Edmund G. Brown,42
+Humboldt,2RV-1_A,Governor,,REP,Neel Kashkari,52
+Humboldt,2RV-1,Governor,,DEM,Edmund G. Brown,33
+Humboldt,2RV-1,Governor,,REP,Neel Kashkari,33
+Humboldt,2SH-1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SH-1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SH-1,Governor,,DEM,Edmund G. Brown,91
+Humboldt,2SH-1,Governor,,REP,Neel Kashkari,6
+Humboldt,2SH-2_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SH-2_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SH-2,Governor,,DEM,Edmund G. Brown,36
+Humboldt,2SH-2,Governor,,REP,Neel Kashkari,28
+Humboldt,2SH-3_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SH-3_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SH-3,Governor,,DEM,Edmund G. Brown,57
+Humboldt,2SH-3,Governor,,REP,Neel Kashkari,35
+Humboldt,2SH-4_A,Governor,,DEM,Edmund G. Brown,286
+Humboldt,2SH-4_A,Governor,,REP,Neel Kashkari,98
+Humboldt,2SH-4,Governor,,DEM,Edmund G. Brown,224
+Humboldt,2SH-4,Governor,,REP,Neel Kashkari,46
+Humboldt,2SH-5_A,Governor,,DEM,Edmund G. Brown,191
+Humboldt,2SH-5_A,Governor,,REP,Neel Kashkari,103
+Humboldt,2SH-5,Governor,,DEM,Edmund G. Brown,142
+Humboldt,2SH-5,Governor,,REP,Neel Kashkari,51
+Humboldt,2SH-7_A,Governor,,DEM,Edmund G. Brown,203
+Humboldt,2SH-7_A,Governor,,REP,Neel Kashkari,71
+Humboldt,2SH-7,Governor,,DEM,Edmund G. Brown,255
+Humboldt,2SH-7,Governor,,REP,Neel Kashkari,45
+Humboldt,2SH-8_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SH-8_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SH-8,Governor,,DEM,Edmund G. Brown,59
+Humboldt,2SH-8,Governor,,REP,Neel Kashkari,26
+Humboldt,2SHF1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SHF1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SHF1,Governor,,DEM,Edmund G. Brown,69
+Humboldt,2SHF1,Governor,,REP,Neel Kashkari,26
+Humboldt,2SHR1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SHR1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SHR1,Governor,,DEM,Edmund G. Brown,66
+Humboldt,2SHR1,Governor,,REP,Neel Kashkari,18
+Humboldt,2SHR2_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SHR2_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SHR2,Governor,,DEM,Edmund G. Brown,39
+Humboldt,2SHR2,Governor,,REP,Neel Kashkari,38
+Humboldt,2SHVF_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,2SHVF_A,Governor,,REP,Neel Kashkari,0
+Humboldt,2SHVF,Governor,,DEM,Edmund G. Brown,54
+Humboldt,2SHVF,Governor,,REP,Neel Kashkari,12
+Humboldt,3A-10_A,Governor,,DEM,Edmund G. Brown,118
+Humboldt,3A-10_A,Governor,,REP,Neel Kashkari,29
+Humboldt,3A-10,Governor,,DEM,Edmund G. Brown,176
+Humboldt,3A-10,Governor,,REP,Neel Kashkari,21
+Humboldt,3A-11_A,Governor,,DEM,Edmund G. Brown,120
+Humboldt,3A-11_A,Governor,,REP,Neel Kashkari,26
+Humboldt,3A-11,Governor,,DEM,Edmund G. Brown,197
+Humboldt,3A-11,Governor,,REP,Neel Kashkari,14
+Humboldt,3A-12_A,Governor,,DEM,Edmund G. Brown,18
+Humboldt,3A-12_A,Governor,,REP,Neel Kashkari,3
+Humboldt,3A-12,Governor,,DEM,Edmund G. Brown,47
+Humboldt,3A-12,Governor,,REP,Neel Kashkari,8
+Humboldt,3A--1_A,Governor,,DEM,Edmund G. Brown,157
+Humboldt,3A--1_A,Governor,,REP,Neel Kashkari,17
+Humboldt,3A--1,Governor,,DEM,Edmund G. Brown,192
+Humboldt,3A--1,Governor,,REP,Neel Kashkari,18
+Humboldt,3A--2_A,Governor,,DEM,Edmund G. Brown,124
+Humboldt,3A--2_A,Governor,,REP,Neel Kashkari,23
+Humboldt,3A--2,Governor,,DEM,Edmund G. Brown,178
+Humboldt,3A--2,Governor,,REP,Neel Kashkari,29
+Humboldt,3A--3_A,Governor,,DEM,Edmund G. Brown,173
+Humboldt,3A--3_A,Governor,,REP,Neel Kashkari,30
+Humboldt,3A--3,Governor,,DEM,Edmund G. Brown,178
+Humboldt,3A--3,Governor,,REP,Neel Kashkari,24
+Humboldt,3A--5_A,Governor,,DEM,Edmund G. Brown,176
+Humboldt,3A--5_A,Governor,,REP,Neel Kashkari,55
+Humboldt,3A--5,Governor,,DEM,Edmund G. Brown,157
+Humboldt,3A--5,Governor,,REP,Neel Kashkari,18
+Humboldt,3A--7_A,Governor,,DEM,Edmund G. Brown,91
+Humboldt,3A--7_A,Governor,,REP,Neel Kashkari,14
+Humboldt,3A--7,Governor,,DEM,Edmund G. Brown,136
+Humboldt,3A--7,Governor,,REP,Neel Kashkari,22
+Humboldt,3A--9_A,Governor,,DEM,Edmund G. Brown,161
+Humboldt,3A--9_A,Governor,,REP,Neel Kashkari,26
+Humboldt,3A--9,Governor,,DEM,Edmund G. Brown,209
+Humboldt,3A--9,Governor,,REP,Neel Kashkari,30
+Humboldt,3A-J1_A,Governor,,DEM,Edmund G. Brown,188
+Humboldt,3A-J1_A,Governor,,REP,Neel Kashkari,35
+Humboldt,3A-J1,Governor,,DEM,Edmund G. Brown,168
+Humboldt,3A-J1,Governor,,REP,Neel Kashkari,22
+Humboldt,3A-P2_A,Governor,,DEM,Edmund G. Brown,159
+Humboldt,3A-P2_A,Governor,,REP,Neel Kashkari,73
+Humboldt,3A-P2,Governor,,DEM,Edmund G. Brown,140
+Humboldt,3A-P2,Governor,,REP,Neel Kashkari,48
+Humboldt,3A-P3_A,Governor,,DEM,Edmund G. Brown,158
+Humboldt,3A-P3_A,Governor,,REP,Neel Kashkari,61
+Humboldt,3A-P3,Governor,,DEM,Edmund G. Brown,194
+Humboldt,3A-P3,Governor,,REP,Neel Kashkari,42
+Humboldt,3AS-1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3AS-1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,3AS-1,Governor,,DEM,Edmund G. Brown,65
+Humboldt,3AS-1,Governor,,REP,Neel Kashkari,22
+Humboldt,3AS-9_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3AS-9_A,Governor,,REP,Neel Kashkari,0
+Humboldt,3AS-9,Governor,,DEM,Edmund G. Brown,48
+Humboldt,3AS-9,Governor,,REP,Neel Kashkari,25
+Humboldt,3B--1_A,Governor,,DEM,Edmund G. Brown,127
+Humboldt,3B--1_A,Governor,,REP,Neel Kashkari,65
+Humboldt,3B--1,Governor,,DEM,Edmund G. Brown,171
+Humboldt,3B--1,Governor,,REP,Neel Kashkari,57
+Humboldt,3E-2J_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3E-2J_A,Governor,,REP,Neel Kashkari,0
+Humboldt,3E-2J,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3E-2J,Governor,,REP,Neel Kashkari,0
+Humboldt,3ES-6_A,Governor,,DEM,Edmund G. Brown,100
+Humboldt,3ES-6_A,Governor,,REP,Neel Kashkari,93
+Humboldt,3ES-6,Governor,,DEM,Edmund G. Brown,76
+Humboldt,3ES-6,Governor,,REP,Neel Kashkari,50
+Humboldt,3FW_A,Governor,,DEM,Edmund G. Brown,186
+Humboldt,3FW_A,Governor,,REP,Neel Kashkari,92
+Humboldt,3FW,Governor,,DEM,Edmund G. Brown,185
+Humboldt,3FW,Governor,,REP,Neel Kashkari,53
+Humboldt,3FWS_A,Governor,,DEM,Edmund G. Brown,158
+Humboldt,3FWS_A,Governor,,REP,Neel Kashkari,115
+Humboldt,3FWS,Governor,,DEM,Edmund G. Brown,188
+Humboldt,3FWS,Governor,,REP,Neel Kashkari,76
+Humboldt,3JCFR_A,Governor,,DEM,Edmund G. Brown,297
+Humboldt,3JCFR_A,Governor,,REP,Neel Kashkari,128
+Humboldt,3JCFR,Governor,,DEM,Edmund G. Brown,283
+Humboldt,3JCFR,Governor,,REP,Neel Kashkari,85
+Humboldt,3KL-1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3KL-1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,3KL-1,Governor,,DEM,Edmund G. Brown,67
+Humboldt,3KL-1,Governor,,REP,Neel Kashkari,59
+Humboldt,3KL_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3KL_A,Governor,,REP,Neel Kashkari,0
+Humboldt,3KL,Governor,,DEM,Edmund G. Brown,10
+Humboldt,3KL,Governor,,REP,Neel Kashkari,16
+Humboldt,3MA-1_A,Governor,,DEM,Edmund G. Brown,73
+Humboldt,3MA-1_A,Governor,,REP,Neel Kashkari,23
+Humboldt,3MA-1,Governor,,DEM,Edmund G. Brown,93
+Humboldt,3MA-1,Governor,,REP,Neel Kashkari,17
+Humboldt,3PA-1_A,Governor,,DEM,Edmund G. Brown,137
+Humboldt,3PA-1_A,Governor,,REP,Neel Kashkari,80
+Humboldt,3PA-1,Governor,,DEM,Edmund G. Brown,143
+Humboldt,3PA-1,Governor,,REP,Neel Kashkari,46
+Humboldt,3PA-5_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,3PA-5_A,Governor,,REP,Neel Kashkari,0
+Humboldt,3PA-5,Governor,,DEM,Edmund G. Brown,7
+Humboldt,3PA-5,Governor,,REP,Neel Kashkari,1
+Humboldt,4E-11_A,Governor,,DEM,Edmund G. Brown,116
+Humboldt,4E-11_A,Governor,,REP,Neel Kashkari,43
+Humboldt,4E-11,Governor,,DEM,Edmund G. Brown,129
+Humboldt,4E-11,Governor,,REP,Neel Kashkari,25
+Humboldt,4E-12_A,Governor,,DEM,Edmund G. Brown,174
+Humboldt,4E-12_A,Governor,,REP,Neel Kashkari,73
+Humboldt,4E-12,Governor,,DEM,Edmund G. Brown,169
+Humboldt,4E-12,Governor,,REP,Neel Kashkari,60
+Humboldt,4E-14_A,Governor,,DEM,Edmund G. Brown,147
+Humboldt,4E-14_A,Governor,,REP,Neel Kashkari,97
+Humboldt,4E-14,Governor,,DEM,Edmund G. Brown,126
+Humboldt,4E-14,Governor,,REP,Neel Kashkari,52
+Humboldt,4E-21_A,Governor,,DEM,Edmund G. Brown,238
+Humboldt,4E-21_A,Governor,,REP,Neel Kashkari,93
+Humboldt,4E-21,Governor,,DEM,Edmund G. Brown,193
+Humboldt,4E-21,Governor,,REP,Neel Kashkari,74
+Humboldt,4E-23_A,Governor,,DEM,Edmund G. Brown,230
+Humboldt,4E-23_A,Governor,,REP,Neel Kashkari,114
+Humboldt,4E-23,Governor,,DEM,Edmund G. Brown,235
+Humboldt,4E-23,Governor,,REP,Neel Kashkari,101
+Humboldt,4E-25_A,Governor,,DEM,Edmund G. Brown,276
+Humboldt,4E-25_A,Governor,,REP,Neel Kashkari,220
+Humboldt,4E-25,Governor,,DEM,Edmund G. Brown,275
+Humboldt,4E-25,Governor,,REP,Neel Kashkari,134
+Humboldt,4E-2J_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,4E-2J_A,Governor,,REP,Neel Kashkari,0
+Humboldt,4E-2J,Governor,,DEM,Edmund G. Brown,0
+Humboldt,4E-2J,Governor,,REP,Neel Kashkari,0
+Humboldt,4E-31_A,Governor,,DEM,Edmund G. Brown,192
+Humboldt,4E-31_A,Governor,,REP,Neel Kashkari,68
+Humboldt,4E-31,Governor,,DEM,Edmund G. Brown,196
+Humboldt,4E-31,Governor,,REP,Neel Kashkari,63
+Humboldt,4E-32_A,Governor,,DEM,Edmund G. Brown,97
+Humboldt,4E-32_A,Governor,,REP,Neel Kashkari,41
+Humboldt,4E-32,Governor,,DEM,Edmund G. Brown,122
+Humboldt,4E-32,Governor,,REP,Neel Kashkari,37
+Humboldt,4E-51_A,Governor,,DEM,Edmund G. Brown,112
+Humboldt,4E-51_A,Governor,,REP,Neel Kashkari,55
+Humboldt,4E-51,Governor,,DEM,Edmund G. Brown,91
+Humboldt,4E-51,Governor,,REP,Neel Kashkari,43
+Humboldt,4E-52_A,Governor,,DEM,Edmund G. Brown,261
+Humboldt,4E-52_A,Governor,,REP,Neel Kashkari,146
+Humboldt,4E-52,Governor,,DEM,Edmund G. Brown,184
+Humboldt,4E-52,Governor,,REP,Neel Kashkari,104
+Humboldt,4ES-4_A,Governor,,DEM,Edmund G. Brown,217
+Humboldt,4ES-4_A,Governor,,REP,Neel Kashkari,115
+Humboldt,4ES-4,Governor,,DEM,Edmund G. Brown,185
+Humboldt,4ES-4,Governor,,REP,Neel Kashkari,117
+Humboldt,4ES-5_A,Governor,,DEM,Edmund G. Brown,220
+Humboldt,4ES-5_A,Governor,,REP,Neel Kashkari,179
+Humboldt,4ES-5,Governor,,DEM,Edmund G. Brown,195
+Humboldt,4ES-5,Governor,,REP,Neel Kashkari,89
+Humboldt,4PE_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,4PE_A,Governor,,REP,Neel Kashkari,0
+Humboldt,4PE,Governor,,DEM,Edmund G. Brown,55
+Humboldt,4PE,Governor,,REP,Neel Kashkari,20
+Humboldt,5AS-4_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5AS-4_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5AS-4,Governor,,DEM,Edmund G. Brown,52
+Humboldt,5AS-4,Governor,,REP,Neel Kashkari,30
+Humboldt,5BL_A,Governor,,DEM,Edmund G. Brown,121
+Humboldt,5BL_A,Governor,,REP,Neel Kashkari,94
+Humboldt,5BL,Governor,,DEM,Edmund G. Brown,126
+Humboldt,5BL,Governor,,REP,Neel Kashkari,75
+Humboldt,5FB_A,Governor,,DEM,Edmund G. Brown,111
+Humboldt,5FB_A,Governor,,REP,Neel Kashkari,65
+Humboldt,5FB,Governor,,DEM,Edmund G. Brown,136
+Humboldt,5FB,Governor,,REP,Neel Kashkari,70
+Humboldt,5GP_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5GP_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5GP,Governor,,DEM,Edmund G. Brown,37
+Humboldt,5GP,Governor,,REP,Neel Kashkari,25
+Humboldt,5KT-1_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5KT-1_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5KT-1,Governor,,DEM,Edmund G. Brown,36
+Humboldt,5KT-1,Governor,,REP,Neel Kashkari,19
+Humboldt,5KT-3_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5KT-3_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5KT-3,Governor,,DEM,Edmund G. Brown,35
+Humboldt,5KT-3,Governor,,REP,Neel Kashkari,26
+Humboldt,5KT-4_A,Governor,,DEM,Edmund G. Brown,45
+Humboldt,5KT-4_A,Governor,,REP,Neel Kashkari,14
+Humboldt,5KT-4,Governor,,DEM,Edmund G. Brown,150
+Humboldt,5KT-4,Governor,,REP,Neel Kashkari,53
+Humboldt,5KT-6_A,Governor,,DEM,Edmund G. Brown,131
+Humboldt,5KT-6_A,Governor,,REP,Neel Kashkari,160
+Humboldt,5KT-6,Governor,,DEM,Edmund G. Brown,100
+Humboldt,5KT-6,Governor,,REP,Neel Kashkari,86
+Humboldt,5KTS3_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5KTS3_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5KTS3,Governor,,DEM,Edmund G. Brown,40
+Humboldt,5KTS3,Governor,,REP,Neel Kashkari,25
+Humboldt,5MC_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5MC_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5MC,Governor,,DEM,Edmund G. Brown,11
+Humboldt,5MC,Governor,,REP,Neel Kashkari,0
+Humboldt,5MK-1_A,Governor,,DEM,Edmund G. Brown,171
+Humboldt,5MK-1_A,Governor,,REP,Neel Kashkari,79
+Humboldt,5MK-1,Governor,,DEM,Edmund G. Brown,132
+Humboldt,5MK-1,Governor,,REP,Neel Kashkari,50
+Humboldt,5MK-2_A,Governor,,DEM,Edmund G. Brown,213
+Humboldt,5MK-2_A,Governor,,REP,Neel Kashkari,148
+Humboldt,5MK-2,Governor,,DEM,Edmund G. Brown,189
+Humboldt,5MK-2,Governor,,REP,Neel Kashkari,106
+Humboldt,5MK-3_A,Governor,,DEM,Edmund G. Brown,115
+Humboldt,5MK-3_A,Governor,,REP,Neel Kashkari,53
+Humboldt,5MK-3,Governor,,DEM,Edmund G. Brown,117
+Humboldt,5MK-3,Governor,,REP,Neel Kashkari,25
+Humboldt,5MK-4_A,Governor,,DEM,Edmund G. Brown,198
+Humboldt,5MK-4_A,Governor,,REP,Neel Kashkari,126
+Humboldt,5MK-4,Governor,,DEM,Edmund G. Brown,187
+Humboldt,5MK-4,Governor,,REP,Neel Kashkari,69
+Humboldt,5MK-5A_A,Governor,,DEM,Edmund G. Brown,123
+Humboldt,5MK-5A_A,Governor,,REP,Neel Kashkari,58
+Humboldt,5MK-5A,Governor,,DEM,Edmund G. Brown,132
+Humboldt,5MK-5_A,Governor,,DEM,Edmund G. Brown,187
+Humboldt,5MK-5A,Governor,,REP,Neel Kashkari,68
+Humboldt,5MK-5_A,Governor,,REP,Neel Kashkari,98
+Humboldt,5MK-5,Governor,,DEM,Edmund G. Brown,129
+Humboldt,5MK-5,Governor,,REP,Neel Kashkari,52
+Humboldt,5MK-6_A,Governor,,DEM,Edmund G. Brown,177
+Humboldt,5MK-6_A,Governor,,REP,Neel Kashkari,132
+Humboldt,5MK-6,Governor,,DEM,Edmund G. Brown,182
+Humboldt,5MK-6,Governor,,REP,Neel Kashkari,102
+Humboldt,5MK-7_A,Governor,,DEM,Edmund G. Brown,138
+Humboldt,5MK-7_A,Governor,,REP,Neel Kashkari,91
+Humboldt,5MK-7,Governor,,DEM,Edmund G. Brown,102
+Humboldt,5MK-7,Governor,,REP,Neel Kashkari,73
+Humboldt,5MK-8_A,Governor,,DEM,Edmund G. Brown,162
+Humboldt,5MK-8_A,Governor,,REP,Neel Kashkari,73
+Humboldt,5MK-8,Governor,,DEM,Edmund G. Brown,171
+Humboldt,5MK-8,Governor,,REP,Neel Kashkari,59
+Humboldt,5OR_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5OR_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5OR,Governor,,DEM,Edmund G. Brown,39
+Humboldt,5OR,Governor,,REP,Neel Kashkari,25
+Humboldt,5PA-3_A,Governor,,DEM,Edmund G. Brown,0
+Humboldt,5PA-3_A,Governor,,REP,Neel Kashkari,0
+Humboldt,5PA-3,Governor,,DEM,Edmund G. Brown,45
+Humboldt,5PA-3,Governor,,REP,Neel Kashkari,21
+Humboldt,5T--1_A,Governor,,DEM,Edmund G. Brown,58
+Humboldt,5T--1_A,Governor,,REP,Neel Kashkari,18
+Humboldt,5T--1,Governor,,DEM,Edmund G. Brown,59
+Humboldt,5T--1,Governor,,REP,Neel Kashkari,10
+Humboldt,5TU-1_A,Governor,,DEM,Edmund G. Brown,191
+Humboldt,5TU-1_A,Governor,,REP,Neel Kashkari,58
+Humboldt,5TU-1,Governor,,DEM,Edmund G. Brown,175
+Humboldt,5TU-1,Governor,,REP,Neel Kashkari,43
+Humboldt,5TU-4_A,Governor,,DEM,Edmund G. Brown,114
+Humboldt,5TU-4_A,Governor,,REP,Neel Kashkari,37
+Humboldt,5TU-4,Governor,,DEM,Edmund G. Brown,210
+Humboldt,5TU-4,Governor,,REP,Neel Kashkari,28
