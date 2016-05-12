@@ -1,0 +1,653 @@
+county,precinct,office,district,party,candidate,votes
+Sonoma,1001,State Senate,2,DEM,Mike McGuire,112
+Sonoma,1001,State Senate,2,REP,Lawrence R. Wiesner,48
+Sonoma,1002,State Senate,2,DEM,Mike McGuire,13
+Sonoma,1002,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,1004,State Senate,2,DEM,Mike McGuire,21
+Sonoma,1004,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,1006,State Senate,2,DEM,Mike McGuire,0
+Sonoma,1006,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,1008,State Senate,2,DEM,Mike McGuire,79
+Sonoma,1008,State Senate,2,REP,Lawrence R. Wiesner,21
+Sonoma,1009,State Senate,2,DEM,Mike McGuire,55
+Sonoma,1009,State Senate,2,REP,Lawrence R. Wiesner,26
+Sonoma,1010,State Senate,2,DEM,Mike McGuire,69
+Sonoma,1010,State Senate,2,REP,Lawrence R. Wiesner,68
+Sonoma,1011,State Senate,2,DEM,Mike McGuire,79
+Sonoma,1011,State Senate,2,REP,Lawrence R. Wiesner,53
+Sonoma,1012,State Senate,2,DEM,Mike McGuire,10
+Sonoma,1012,State Senate,2,REP,Lawrence R. Wiesner,5
+Sonoma,1016,State Senate,2,DEM,Mike McGuire,36
+Sonoma,1016,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,1017,State Senate,2,DEM,Mike McGuire,348
+Sonoma,1017,State Senate,2,REP,Lawrence R. Wiesner,121
+Sonoma,1023,State Senate,2,DEM,Mike McGuire,513
+Sonoma,1023,State Senate,2,REP,Lawrence R. Wiesner,211
+Sonoma,1028,State Senate,2,DEM,Mike McGuire,663
+Sonoma,1028,State Senate,2,REP,Lawrence R. Wiesner,177
+Sonoma,1030,State Senate,2,DEM,Mike McGuire,605
+Sonoma,1030,State Senate,2,REP,Lawrence R. Wiesner,163
+Sonoma,1032,State Senate,2,DEM,Mike McGuire,225
+Sonoma,1032,State Senate,2,REP,Lawrence R. Wiesner,103
+Sonoma,1033,State Senate,2,DEM,Mike McGuire,33
+Sonoma,1033,State Senate,2,REP,Lawrence R. Wiesner,16
+Sonoma,1042,State Senate,2,DEM,Mike McGuire,169
+Sonoma,1042,State Senate,2,REP,Lawrence R. Wiesner,117
+Sonoma,1043,State Senate,2,DEM,Mike McGuire,5
+Sonoma,1043,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,1050,State Senate,2,DEM,Mike McGuire,53
+Sonoma,1050,State Senate,2,REP,Lawrence R. Wiesner,16
+Sonoma,1051,State Senate,2,DEM,Mike McGuire,65
+Sonoma,1051,State Senate,2,REP,Lawrence R. Wiesner,21
+Sonoma,1053,State Senate,2,DEM,Mike McGuire,60
+Sonoma,1053,State Senate,2,REP,Lawrence R. Wiesner,39
+Sonoma,1055,State Senate,2,DEM,Mike McGuire,63
+Sonoma,1055,State Senate,2,REP,Lawrence R. Wiesner,36
+Sonoma,1061,State Senate,2,DEM,Mike McGuire,8
+Sonoma,1061,State Senate,2,REP,Lawrence R. Wiesner,8
+Sonoma,1065,State Senate,2,DEM,Mike McGuire,28
+Sonoma,1065,State Senate,2,REP,Lawrence R. Wiesner,9
+Sonoma,1066,State Senate,2,DEM,Mike McGuire,6
+Sonoma,1066,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,1067,State Senate,2,DEM,Mike McGuire,26
+Sonoma,1067,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,1068,State Senate,2,DEM,Mike McGuire,54
+Sonoma,1068,State Senate,2,REP,Lawrence R. Wiesner,17
+Sonoma,1069,State Senate,2,DEM,Mike McGuire,2
+Sonoma,1069,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,1070,State Senate,2,DEM,Mike McGuire,2
+Sonoma,1070,State Senate,2,REP,Lawrence R. Wiesner,8
+Sonoma,1072,State Senate,2,DEM,Mike McGuire,38
+Sonoma,1072,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,1073,State Senate,2,DEM,Mike McGuire,4
+Sonoma,1073,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,1078,State Senate,2,DEM,Mike McGuire,4
+Sonoma,1078,State Senate,2,REP,Lawrence R. Wiesner,6
+Sonoma,1080,State Senate,2,DEM,Mike McGuire,47
+Sonoma,1080,State Senate,2,REP,Lawrence R. Wiesner,36
+Sonoma,1082,State Senate,2,DEM,Mike McGuire,186
+Sonoma,1082,State Senate,2,REP,Lawrence R. Wiesner,85
+Sonoma,1084,State Senate,2,DEM,Mike McGuire,4
+Sonoma,1084,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,1086,State Senate,2,DEM,Mike McGuire,9
+Sonoma,1086,State Senate,2,REP,Lawrence R. Wiesner,5
+Sonoma,1102,State Senate,2,DEM,Mike McGuire,716
+Sonoma,1102,State Senate,2,REP,Lawrence R. Wiesner,265
+Sonoma,1103,State Senate,2,DEM,Mike McGuire,662
+Sonoma,1103,State Senate,2,REP,Lawrence R. Wiesner,311
+Sonoma,1106,State Senate,2,DEM,Mike McGuire,401
+Sonoma,1106,State Senate,2,REP,Lawrence R. Wiesner,164
+Sonoma,1107,State Senate,2,DEM,Mike McGuire,686
+Sonoma,1107,State Senate,2,REP,Lawrence R. Wiesner,314
+Sonoma,1108,State Senate,2,DEM,Mike McGuire,565
+Sonoma,1108,State Senate,2,REP,Lawrence R. Wiesner,245
+Sonoma,1110,State Senate,2,DEM,Mike McGuire,690
+Sonoma,1110,State Senate,2,REP,Lawrence R. Wiesner,324
+Sonoma,1112,State Senate,2,DEM,Mike McGuire,635
+Sonoma,1112,State Senate,2,REP,Lawrence R. Wiesner,179
+Sonoma,1116,State Senate,2,DEM,Mike McGuire,641
+Sonoma,1116,State Senate,2,REP,Lawrence R. Wiesner,247
+Sonoma,1121,State Senate,2,DEM,Mike McGuire,723
+Sonoma,1121,State Senate,2,REP,Lawrence R. Wiesner,339
+Sonoma,1122,State Senate,2,DEM,Mike McGuire,420
+Sonoma,1122,State Senate,2,REP,Lawrence R. Wiesner,192
+Sonoma,1123,State Senate,2,DEM,Mike McGuire,1111
+Sonoma,1123,State Senate,2,REP,Lawrence R. Wiesner,518
+Sonoma,1124,State Senate,2,DEM,Mike McGuire,669
+Sonoma,1124,State Senate,2,REP,Lawrence R. Wiesner,342
+Sonoma,1128,State Senate,2,DEM,Mike McGuire,371
+Sonoma,1128,State Senate,2,REP,Lawrence R. Wiesner,232
+Sonoma,1129,State Senate,2,DEM,Mike McGuire,8
+Sonoma,1129,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,1136,State Senate,2,DEM,Mike McGuire,934
+Sonoma,1136,State Senate,2,REP,Lawrence R. Wiesner,349
+Sonoma,1144,State Senate,2,DEM,Mike McGuire,5
+Sonoma,1144,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,1145,State Senate,2,DEM,Mike McGuire,345
+Sonoma,1145,State Senate,2,REP,Lawrence R. Wiesner,153
+Sonoma,2001,State Senate,2,DEM,Mike McGuire,298
+Sonoma,2001,State Senate,2,REP,Lawrence R. Wiesner,134
+Sonoma,2002,State Senate,2,DEM,Mike McGuire,579
+Sonoma,2002,State Senate,2,REP,Lawrence R. Wiesner,340
+Sonoma,2003,State Senate,2,DEM,Mike McGuire,352
+Sonoma,2003,State Senate,2,REP,Lawrence R. Wiesner,180
+Sonoma,2005,State Senate,2,DEM,Mike McGuire,28
+Sonoma,2005,State Senate,2,REP,Lawrence R. Wiesner,34
+Sonoma,2013,State Senate,2,DEM,Mike McGuire,318
+Sonoma,2013,State Senate,2,REP,Lawrence R. Wiesner,192
+Sonoma,2016,State Senate,2,DEM,Mike McGuire,83
+Sonoma,2016,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,2017,State Senate,2,DEM,Mike McGuire,357
+Sonoma,2017,State Senate,2,REP,Lawrence R. Wiesner,102
+Sonoma,2022,State Senate,2,DEM,Mike McGuire,100
+Sonoma,2022,State Senate,2,REP,Lawrence R. Wiesner,32
+Sonoma,2037,State Senate,2,DEM,Mike McGuire,0
+Sonoma,2037,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,2038,State Senate,2,DEM,Mike McGuire,6
+Sonoma,2038,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,3001,State Senate,2,DEM,Mike McGuire,4
+Sonoma,3001,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,3002,State Senate,2,DEM,Mike McGuire,4
+Sonoma,3002,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,3003,State Senate,2,DEM,Mike McGuire,12
+Sonoma,3003,State Senate,2,REP,Lawrence R. Wiesner,5
+Sonoma,3005,State Senate,2,DEM,Mike McGuire,87
+Sonoma,3005,State Senate,2,REP,Lawrence R. Wiesner,23
+Sonoma,3006,State Senate,2,DEM,Mike McGuire,13
+Sonoma,3006,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,3010,State Senate,2,DEM,Mike McGuire,54
+Sonoma,3010,State Senate,2,REP,Lawrence R. Wiesner,31
+Sonoma,3011,State Senate,2,DEM,Mike McGuire,250
+Sonoma,3011,State Senate,2,REP,Lawrence R. Wiesner,96
+Sonoma,3012,State Senate,2,DEM,Mike McGuire,18
+Sonoma,3012,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,3020,State Senate,2,DEM,Mike McGuire,33
+Sonoma,3020,State Senate,2,REP,Lawrence R. Wiesner,6
+Sonoma,3021,State Senate,2,DEM,Mike McGuire,12
+Sonoma,3021,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,3022,State Senate,2,DEM,Mike McGuire,62
+Sonoma,3022,State Senate,2,REP,Lawrence R. Wiesner,28
+Sonoma,3024,State Senate,2,DEM,Mike McGuire,5
+Sonoma,3024,State Senate,2,REP,Lawrence R. Wiesner,8
+Sonoma,3025,State Senate,2,DEM,Mike McGuire,0
+Sonoma,3025,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,3103,State Senate,2,DEM,Mike McGuire,882
+Sonoma,3103,State Senate,2,REP,Lawrence R. Wiesner,338
+Sonoma,3108,State Senate,2,DEM,Mike McGuire,367
+Sonoma,3108,State Senate,2,REP,Lawrence R. Wiesner,103
+Sonoma,3109,State Senate,2,DEM,Mike McGuire,326
+Sonoma,3109,State Senate,2,REP,Lawrence R. Wiesner,90
+Sonoma,3112,State Senate,2,DEM,Mike McGuire,605
+Sonoma,3112,State Senate,2,REP,Lawrence R. Wiesner,160
+Sonoma,3113,State Senate,2,DEM,Mike McGuire,433
+Sonoma,3113,State Senate,2,REP,Lawrence R. Wiesner,134
+Sonoma,3116,State Senate,2,DEM,Mike McGuire,339
+Sonoma,3116,State Senate,2,REP,Lawrence R. Wiesner,62
+Sonoma,3120,State Senate,2,DEM,Mike McGuire,710
+Sonoma,3120,State Senate,2,REP,Lawrence R. Wiesner,162
+Sonoma,3123,State Senate,2,DEM,Mike McGuire,445
+Sonoma,3123,State Senate,2,REP,Lawrence R. Wiesner,80
+Sonoma,3124,State Senate,2,DEM,Mike McGuire,704
+Sonoma,3124,State Senate,2,REP,Lawrence R. Wiesner,105
+Sonoma,3128,State Senate,2,DEM,Mike McGuire,930
+Sonoma,3128,State Senate,2,REP,Lawrence R. Wiesner,231
+Sonoma,3135,State Senate,2,DEM,Mike McGuire,473
+Sonoma,3135,State Senate,2,REP,Lawrence R. Wiesner,145
+Sonoma,3136,State Senate,2,DEM,Mike McGuire,221
+Sonoma,3136,State Senate,2,REP,Lawrence R. Wiesner,64
+Sonoma,3142,State Senate,2,DEM,Mike McGuire,578
+Sonoma,3142,State Senate,2,REP,Lawrence R. Wiesner,185
+Sonoma,4003,State Senate,2,DEM,Mike McGuire,56
+Sonoma,4003,State Senate,2,REP,Lawrence R. Wiesner,33
+Sonoma,4006,State Senate,2,DEM,Mike McGuire,475
+Sonoma,4006,State Senate,2,REP,Lawrence R. Wiesner,187
+Sonoma,4007,State Senate,2,DEM,Mike McGuire,252
+Sonoma,4007,State Senate,2,REP,Lawrence R. Wiesner,86
+Sonoma,4009,State Senate,2,DEM,Mike McGuire,168
+Sonoma,4009,State Senate,2,REP,Lawrence R. Wiesner,36
+Sonoma,4010,State Senate,2,DEM,Mike McGuire,105
+Sonoma,4010,State Senate,2,REP,Lawrence R. Wiesner,43
+Sonoma,4012,State Senate,2,DEM,Mike McGuire,4
+Sonoma,4012,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,4027,State Senate,2,DEM,Mike McGuire,47
+Sonoma,4027,State Senate,2,REP,Lawrence R. Wiesner,25
+Sonoma,4029,State Senate,2,DEM,Mike McGuire,616
+Sonoma,4029,State Senate,2,REP,Lawrence R. Wiesner,270
+Sonoma,4030,State Senate,2,DEM,Mike McGuire,2
+Sonoma,4030,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4031,State Senate,2,DEM,Mike McGuire,266
+Sonoma,4031,State Senate,2,REP,Lawrence R. Wiesner,94
+Sonoma,4034,State Senate,2,DEM,Mike McGuire,48
+Sonoma,4034,State Senate,2,REP,Lawrence R. Wiesner,27
+Sonoma,4037,State Senate,2,DEM,Mike McGuire,27
+Sonoma,4037,State Senate,2,REP,Lawrence R. Wiesner,15
+Sonoma,4039,State Senate,2,DEM,Mike McGuire,13
+Sonoma,4039,State Senate,2,REP,Lawrence R. Wiesner,7
+Sonoma,4045,State Senate,2,DEM,Mike McGuire,47
+Sonoma,4045,State Senate,2,REP,Lawrence R. Wiesner,22
+Sonoma,4049,State Senate,2,DEM,Mike McGuire,553
+Sonoma,4049,State Senate,2,REP,Lawrence R. Wiesner,231
+Sonoma,4051,State Senate,2,DEM,Mike McGuire,66
+Sonoma,4051,State Senate,2,REP,Lawrence R. Wiesner,23
+Sonoma,4052,State Senate,2,DEM,Mike McGuire,4
+Sonoma,4052,State Senate,2,REP,Lawrence R. Wiesner,9
+Sonoma,4054,State Senate,2,DEM,Mike McGuire,1
+Sonoma,4054,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4055,State Senate,2,DEM,Mike McGuire,0
+Sonoma,4055,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4056,State Senate,2,DEM,Mike McGuire,8
+Sonoma,4056,State Senate,2,REP,Lawrence R. Wiesner,5
+Sonoma,4057,State Senate,2,DEM,Mike McGuire,36
+Sonoma,4057,State Senate,2,REP,Lawrence R. Wiesner,42
+Sonoma,4062,State Senate,2,DEM,Mike McGuire,99
+Sonoma,4062,State Senate,2,REP,Lawrence R. Wiesner,26
+Sonoma,4063,State Senate,2,DEM,Mike McGuire,129
+Sonoma,4063,State Senate,2,REP,Lawrence R. Wiesner,21
+Sonoma,4064,State Senate,2,DEM,Mike McGuire,26
+Sonoma,4064,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,4065,State Senate,2,DEM,Mike McGuire,0
+Sonoma,4065,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4066,State Senate,2,DEM,Mike McGuire,3
+Sonoma,4066,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4067,State Senate,2,DEM,Mike McGuire,24
+Sonoma,4067,State Senate,2,REP,Lawrence R. Wiesner,18
+Sonoma,4068,State Senate,2,DEM,Mike McGuire,331
+Sonoma,4068,State Senate,2,REP,Lawrence R. Wiesner,121
+Sonoma,4069,State Senate,2,DEM,Mike McGuire,148
+Sonoma,4069,State Senate,2,REP,Lawrence R. Wiesner,55
+Sonoma,4070,State Senate,2,DEM,Mike McGuire,0
+Sonoma,4070,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,4072,State Senate,2,DEM,Mike McGuire,1
+Sonoma,4072,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4073,State Senate,2,DEM,Mike McGuire,0
+Sonoma,4073,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4103,State Senate,2,DEM,Mike McGuire,404
+Sonoma,4103,State Senate,2,REP,Lawrence R. Wiesner,197
+Sonoma,4109,State Senate,2,DEM,Mike McGuire,589
+Sonoma,4109,State Senate,2,REP,Lawrence R. Wiesner,239
+Sonoma,4110,State Senate,2,DEM,Mike McGuire,660
+Sonoma,4110,State Senate,2,REP,Lawrence R. Wiesner,266
+Sonoma,4127,State Senate,2,DEM,Mike McGuire,349
+Sonoma,4127,State Senate,2,REP,Lawrence R. Wiesner,125
+Sonoma,4128,State Senate,2,DEM,Mike McGuire,95
+Sonoma,4128,State Senate,2,REP,Lawrence R. Wiesner,107
+Sonoma,4201,State Senate,2,DEM,Mike McGuire,700
+Sonoma,4201,State Senate,2,REP,Lawrence R. Wiesner,223
+Sonoma,4203,State Senate,2,DEM,Mike McGuire,423
+Sonoma,4203,State Senate,2,REP,Lawrence R. Wiesner,124
+Sonoma,4204,State Senate,2,DEM,Mike McGuire,806
+Sonoma,4204,State Senate,2,REP,Lawrence R. Wiesner,239
+Sonoma,4401,State Senate,2,DEM,Mike McGuire,789
+Sonoma,4401,State Senate,2,REP,Lawrence R. Wiesner,220
+Sonoma,4402,State Senate,2,DEM,Mike McGuire,1026
+Sonoma,4402,State Senate,2,REP,Lawrence R. Wiesner,185
+Sonoma,4403,State Senate,2,DEM,Mike McGuire,953
+Sonoma,4403,State Senate,2,REP,Lawrence R. Wiesner,158
+Sonoma,4406,State Senate,2,DEM,Mike McGuire,631
+Sonoma,4406,State Senate,2,REP,Lawrence R. Wiesner,119
+Sonoma,4407,State Senate,2,DEM,Mike McGuire,0
+Sonoma,4407,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,4901,State Senate,2,DEM,Mike McGuire,626
+Sonoma,4901,State Senate,2,REP,Lawrence R. Wiesner,210
+Sonoma,4902,State Senate,2,DEM,Mike McGuire,659
+Sonoma,4902,State Senate,2,REP,Lawrence R. Wiesner,237
+Sonoma,4903,State Senate,2,DEM,Mike McGuire,551
+Sonoma,4903,State Senate,2,REP,Lawrence R. Wiesner,313
+Sonoma,4904,State Senate,2,DEM,Mike McGuire,587
+Sonoma,4904,State Senate,2,REP,Lawrence R. Wiesner,329
+Sonoma,4906,State Senate,2,DEM,Mike McGuire,647
+Sonoma,4906,State Senate,2,REP,Lawrence R. Wiesner,266
+Sonoma,4907,State Senate,2,DEM,Mike McGuire,648
+Sonoma,4907,State Senate,2,REP,Lawrence R. Wiesner,251
+Sonoma,4908,State Senate,2,DEM,Mike McGuire,680
+Sonoma,4908,State Senate,2,REP,Lawrence R. Wiesner,276
+Sonoma,5001,State Senate,2,DEM,Mike McGuire,635
+Sonoma,5001,State Senate,2,REP,Lawrence R. Wiesner,162
+Sonoma,5006,State Senate,2,DEM,Mike McGuire,404
+Sonoma,5006,State Senate,2,REP,Lawrence R. Wiesner,116
+Sonoma,5008,State Senate,2,DEM,Mike McGuire,416
+Sonoma,5008,State Senate,2,REP,Lawrence R. Wiesner,136
+Sonoma,5014,State Senate,2,DEM,Mike McGuire,66
+Sonoma,5014,State Senate,2,REP,Lawrence R. Wiesner,18
+Sonoma,5021,State Senate,2,DEM,Mike McGuire,416
+Sonoma,5021,State Senate,2,REP,Lawrence R. Wiesner,165
+Sonoma,5023,State Senate,2,DEM,Mike McGuire,711
+Sonoma,5023,State Senate,2,REP,Lawrence R. Wiesner,196
+Sonoma,5026,State Senate,2,DEM,Mike McGuire,3
+Sonoma,5026,State Senate,2,REP,Lawrence R. Wiesner,5
+Sonoma,5028,State Senate,2,DEM,Mike McGuire,12
+Sonoma,5028,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,5029,State Senate,2,DEM,Mike McGuire,17
+Sonoma,5029,State Senate,2,REP,Lawrence R. Wiesner,7
+Sonoma,5030,State Senate,2,DEM,Mike McGuire,513
+Sonoma,5030,State Senate,2,REP,Lawrence R. Wiesner,148
+Sonoma,5031,State Senate,2,DEM,Mike McGuire,242
+Sonoma,5031,State Senate,2,REP,Lawrence R. Wiesner,58
+Sonoma,5032,State Senate,2,DEM,Mike McGuire,712
+Sonoma,5032,State Senate,2,REP,Lawrence R. Wiesner,172
+Sonoma,5049,State Senate,2,DEM,Mike McGuire,4
+Sonoma,5049,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,5050,State Senate,2,DEM,Mike McGuire,0
+Sonoma,5050,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5053,State Senate,2,DEM,Mike McGuire,83
+Sonoma,5053,State Senate,2,REP,Lawrence R. Wiesner,22
+Sonoma,5055,State Senate,2,DEM,Mike McGuire,27
+Sonoma,5055,State Senate,2,REP,Lawrence R. Wiesner,6
+Sonoma,5056,State Senate,2,DEM,Mike McGuire,73
+Sonoma,5056,State Senate,2,REP,Lawrence R. Wiesner,20
+Sonoma,5058,State Senate,2,DEM,Mike McGuire,35
+Sonoma,5058,State Senate,2,REP,Lawrence R. Wiesner,9
+Sonoma,5060,State Senate,2,DEM,Mike McGuire,28
+Sonoma,5060,State Senate,2,REP,Lawrence R. Wiesner,6
+Sonoma,5062,State Senate,2,DEM,Mike McGuire,51
+Sonoma,5062,State Senate,2,REP,Lawrence R. Wiesner,6
+Sonoma,5063,State Senate,2,DEM,Mike McGuire,101
+Sonoma,5063,State Senate,2,REP,Lawrence R. Wiesner,23
+Sonoma,5065,State Senate,2,DEM,Mike McGuire,19
+Sonoma,5065,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,5067,State Senate,2,DEM,Mike McGuire,0
+Sonoma,5067,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5068,State Senate,2,DEM,Mike McGuire,5
+Sonoma,5068,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5069,State Senate,2,DEM,Mike McGuire,49
+Sonoma,5069,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,5070,State Senate,2,DEM,Mike McGuire,8
+Sonoma,5070,State Senate,2,REP,Lawrence R. Wiesner,8
+Sonoma,5071,State Senate,2,DEM,Mike McGuire,2
+Sonoma,5071,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5073,State Senate,2,DEM,Mike McGuire,90
+Sonoma,5073,State Senate,2,REP,Lawrence R. Wiesner,47
+Sonoma,5074,State Senate,2,DEM,Mike McGuire,1
+Sonoma,5074,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,5075,State Senate,2,DEM,Mike McGuire,0
+Sonoma,5075,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5076,State Senate,2,DEM,Mike McGuire,0
+Sonoma,5076,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5077,State Senate,2,DEM,Mike McGuire,154
+Sonoma,5077,State Senate,2,REP,Lawrence R. Wiesner,52
+Sonoma,5101,State Senate,2,DEM,Mike McGuire,376
+Sonoma,5101,State Senate,2,REP,Lawrence R. Wiesner,130
+Sonoma,5104,State Senate,2,DEM,Mike McGuire,522
+Sonoma,5104,State Senate,2,REP,Lawrence R. Wiesner,194
+Sonoma,5105,State Senate,2,DEM,Mike McGuire,384
+Sonoma,5105,State Senate,2,REP,Lawrence R. Wiesner,182
+Sonoma,5109,State Senate,2,DEM,Mike McGuire,562
+Sonoma,5109,State Senate,2,REP,Lawrence R. Wiesner,187
+Sonoma,5111,State Senate,2,DEM,Mike McGuire,533
+Sonoma,5111,State Senate,2,REP,Lawrence R. Wiesner,186
+Sonoma,5113,State Senate,2,DEM,Mike McGuire,634
+Sonoma,5113,State Senate,2,REP,Lawrence R. Wiesner,221
+Sonoma,5114,State Senate,2,DEM,Mike McGuire,0
+Sonoma,5114,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,5115,State Senate,2,DEM,Mike McGuire,237
+Sonoma,5115,State Senate,2,REP,Lawrence R. Wiesner,83
+Sonoma,5116,State Senate,2,DEM,Mike McGuire,106
+Sonoma,5116,State Senate,2,REP,Lawrence R. Wiesner,35
+Sonoma,5701,State Senate,2,DEM,Mike McGuire,763
+Sonoma,5701,State Senate,2,REP,Lawrence R. Wiesner,166
+Sonoma,5703,State Senate,2,DEM,Mike McGuire,830
+Sonoma,5703,State Senate,2,REP,Lawrence R. Wiesner,127
+Sonoma,5704,State Senate,2,DEM,Mike McGuire,1022
+Sonoma,5704,State Senate,2,REP,Lawrence R. Wiesner,161
+Sonoma,7101,State Senate,2,DEM,Mike McGuire,154
+Sonoma,7101,State Senate,2,REP,Lawrence R. Wiesner,78
+Sonoma,7102,State Senate,2,DEM,Mike McGuire,41
+Sonoma,7102,State Senate,2,REP,Lawrence R. Wiesner,29
+Sonoma,7103,State Senate,2,DEM,Mike McGuire,51
+Sonoma,7103,State Senate,2,REP,Lawrence R. Wiesner,21
+Sonoma,7104,State Senate,2,DEM,Mike McGuire,613
+Sonoma,7104,State Senate,2,REP,Lawrence R. Wiesner,303
+Sonoma,7105,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7105,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7106,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7106,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7107,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7107,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7108,State Senate,2,DEM,Mike McGuire,706
+Sonoma,7108,State Senate,2,REP,Lawrence R. Wiesner,241
+Sonoma,7113,State Senate,2,DEM,Mike McGuire,268
+Sonoma,7113,State Senate,2,REP,Lawrence R. Wiesner,71
+Sonoma,7114,State Senate,2,DEM,Mike McGuire,224
+Sonoma,7114,State Senate,2,REP,Lawrence R. Wiesner,124
+Sonoma,7115,State Senate,2,DEM,Mike McGuire,66
+Sonoma,7115,State Senate,2,REP,Lawrence R. Wiesner,30
+Sonoma,7116,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7116,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7117,State Senate,2,DEM,Mike McGuire,27
+Sonoma,7117,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,7118,State Senate,2,DEM,Mike McGuire,138
+Sonoma,7118,State Senate,2,REP,Lawrence R. Wiesner,62
+Sonoma,7119,State Senate,2,DEM,Mike McGuire,750
+Sonoma,7119,State Senate,2,REP,Lawrence R. Wiesner,365
+Sonoma,7120,State Senate,2,DEM,Mike McGuire,94
+Sonoma,7120,State Senate,2,REP,Lawrence R. Wiesner,38
+Sonoma,7121,State Senate,2,DEM,Mike McGuire,20
+Sonoma,7121,State Senate,2,REP,Lawrence R. Wiesner,26
+Sonoma,7122,State Senate,2,DEM,Mike McGuire,254
+Sonoma,7122,State Senate,2,REP,Lawrence R. Wiesner,131
+Sonoma,7123,State Senate,2,DEM,Mike McGuire,479
+Sonoma,7123,State Senate,2,REP,Lawrence R. Wiesner,174
+Sonoma,7124,State Senate,2,DEM,Mike McGuire,469
+Sonoma,7124,State Senate,2,REP,Lawrence R. Wiesner,122
+Sonoma,7125,State Senate,2,DEM,Mike McGuire,118
+Sonoma,7125,State Senate,2,REP,Lawrence R. Wiesner,79
+Sonoma,7126,State Senate,2,DEM,Mike McGuire,133
+Sonoma,7126,State Senate,2,REP,Lawrence R. Wiesner,109
+Sonoma,7204,State Senate,2,DEM,Mike McGuire,1
+Sonoma,7204,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7205,State Senate,2,DEM,Mike McGuire,104
+Sonoma,7205,State Senate,2,REP,Lawrence R. Wiesner,40
+Sonoma,7206,State Senate,2,DEM,Mike McGuire,95
+Sonoma,7206,State Senate,2,REP,Lawrence R. Wiesner,73
+Sonoma,7207,State Senate,2,DEM,Mike McGuire,3
+Sonoma,7207,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7211,State Senate,2,DEM,Mike McGuire,95
+Sonoma,7211,State Senate,2,REP,Lawrence R. Wiesner,34
+Sonoma,7212,State Senate,2,DEM,Mike McGuire,62
+Sonoma,7212,State Senate,2,REP,Lawrence R. Wiesner,44
+Sonoma,7213,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7213,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,7214,State Senate,2,DEM,Mike McGuire,13
+Sonoma,7214,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7215,State Senate,2,DEM,Mike McGuire,639
+Sonoma,7215,State Senate,2,REP,Lawrence R. Wiesner,221
+Sonoma,7218,State Senate,2,DEM,Mike McGuire,7
+Sonoma,7218,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7219,State Senate,2,DEM,Mike McGuire,50
+Sonoma,7219,State Senate,2,REP,Lawrence R. Wiesner,17
+Sonoma,7220,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7220,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7221,State Senate,2,DEM,Mike McGuire,5
+Sonoma,7221,State Senate,2,REP,Lawrence R. Wiesner,13
+Sonoma,7222,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7222,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7223,State Senate,2,DEM,Mike McGuire,49
+Sonoma,7223,State Senate,2,REP,Lawrence R. Wiesner,30
+Sonoma,7301,State Senate,2,DEM,Mike McGuire,1
+Sonoma,7301,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7302,State Senate,2,DEM,Mike McGuire,53
+Sonoma,7302,State Senate,2,REP,Lawrence R. Wiesner,23
+Sonoma,7303,State Senate,2,DEM,Mike McGuire,5
+Sonoma,7303,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7304,State Senate,2,DEM,Mike McGuire,11
+Sonoma,7304,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7305,State Senate,2,DEM,Mike McGuire,97
+Sonoma,7305,State Senate,2,REP,Lawrence R. Wiesner,49
+Sonoma,7306,State Senate,2,DEM,Mike McGuire,11
+Sonoma,7306,State Senate,2,REP,Lawrence R. Wiesner,10
+Sonoma,7307,State Senate,2,DEM,Mike McGuire,150
+Sonoma,7307,State Senate,2,REP,Lawrence R. Wiesner,117
+Sonoma,7308,State Senate,2,DEM,Mike McGuire,45
+Sonoma,7308,State Senate,2,REP,Lawrence R. Wiesner,20
+Sonoma,7309,State Senate,2,DEM,Mike McGuire,551
+Sonoma,7309,State Senate,2,REP,Lawrence R. Wiesner,198
+Sonoma,7310,State Senate,2,DEM,Mike McGuire,844
+Sonoma,7310,State Senate,2,REP,Lawrence R. Wiesner,226
+Sonoma,7311,State Senate,2,DEM,Mike McGuire,330
+Sonoma,7311,State Senate,2,REP,Lawrence R. Wiesner,245
+Sonoma,7312,State Senate,2,DEM,Mike McGuire,611
+Sonoma,7312,State Senate,2,REP,Lawrence R. Wiesner,258
+Sonoma,7313,State Senate,2,DEM,Mike McGuire,466
+Sonoma,7313,State Senate,2,REP,Lawrence R. Wiesner,96
+Sonoma,7314,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7314,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,7401,State Senate,2,DEM,Mike McGuire,13
+Sonoma,7401,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,7402,State Senate,2,DEM,Mike McGuire,216
+Sonoma,7402,State Senate,2,REP,Lawrence R. Wiesner,67
+Sonoma,7403,State Senate,2,DEM,Mike McGuire,118
+Sonoma,7403,State Senate,2,REP,Lawrence R. Wiesner,43
+Sonoma,7404,State Senate,2,DEM,Mike McGuire,348
+Sonoma,7404,State Senate,2,REP,Lawrence R. Wiesner,125
+Sonoma,7405,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7405,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7406,State Senate,2,DEM,Mike McGuire,39
+Sonoma,7406,State Senate,2,REP,Lawrence R. Wiesner,15
+Sonoma,7407,State Senate,2,DEM,Mike McGuire,25
+Sonoma,7407,State Senate,2,REP,Lawrence R. Wiesner,7
+Sonoma,7408,State Senate,2,DEM,Mike McGuire,14
+Sonoma,7408,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,7409,State Senate,2,DEM,Mike McGuire,45
+Sonoma,7409,State Senate,2,REP,Lawrence R. Wiesner,26
+Sonoma,7410,State Senate,2,DEM,Mike McGuire,9
+Sonoma,7410,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7411,State Senate,2,DEM,Mike McGuire,30
+Sonoma,7411,State Senate,2,REP,Lawrence R. Wiesner,20
+Sonoma,7412,State Senate,2,DEM,Mike McGuire,6
+Sonoma,7412,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7413,State Senate,2,DEM,Mike McGuire,10
+Sonoma,7413,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7414,State Senate,2,DEM,Mike McGuire,78
+Sonoma,7414,State Senate,2,REP,Lawrence R. Wiesner,36
+Sonoma,7415,State Senate,2,DEM,Mike McGuire,222
+Sonoma,7415,State Senate,2,REP,Lawrence R. Wiesner,76
+Sonoma,7416,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7416,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7417,State Senate,2,DEM,Mike McGuire,1
+Sonoma,7417,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7418,State Senate,2,DEM,Mike McGuire,18
+Sonoma,7418,State Senate,2,REP,Lawrence R. Wiesner,18
+Sonoma,7419,State Senate,2,DEM,Mike McGuire,55
+Sonoma,7419,State Senate,2,REP,Lawrence R. Wiesner,26
+Sonoma,7420,State Senate,2,DEM,Mike McGuire,394
+Sonoma,7420,State Senate,2,REP,Lawrence R. Wiesner,86
+Sonoma,7421,State Senate,2,DEM,Mike McGuire,55
+Sonoma,7421,State Senate,2,REP,Lawrence R. Wiesner,9
+Sonoma,7422,State Senate,2,DEM,Mike McGuire,8
+Sonoma,7422,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7423,State Senate,2,DEM,Mike McGuire,8
+Sonoma,7423,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,7424,State Senate,2,DEM,Mike McGuire,5
+Sonoma,7424,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7425,State Senate,2,DEM,Mike McGuire,92
+Sonoma,7425,State Senate,2,REP,Lawrence R. Wiesner,30
+Sonoma,7426,State Senate,2,DEM,Mike McGuire,1
+Sonoma,7426,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,7427,State Senate,2,DEM,Mike McGuire,545
+Sonoma,7427,State Senate,2,REP,Lawrence R. Wiesner,247
+Sonoma,7428,State Senate,2,DEM,Mike McGuire,100
+Sonoma,7428,State Senate,2,REP,Lawrence R. Wiesner,50
+Sonoma,7429,State Senate,2,DEM,Mike McGuire,7
+Sonoma,7429,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7430,State Senate,2,DEM,Mike McGuire,12
+Sonoma,7430,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,7431,State Senate,2,DEM,Mike McGuire,3
+Sonoma,7431,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,7432,State Senate,2,DEM,Mike McGuire,12
+Sonoma,7432,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7433,State Senate,2,DEM,Mike McGuire,265
+Sonoma,7433,State Senate,2,REP,Lawrence R. Wiesner,147
+Sonoma,7434,State Senate,2,DEM,Mike McGuire,691
+Sonoma,7434,State Senate,2,REP,Lawrence R. Wiesner,288
+Sonoma,7435,State Senate,2,DEM,Mike McGuire,125
+Sonoma,7435,State Senate,2,REP,Lawrence R. Wiesner,46
+Sonoma,7436,State Senate,2,DEM,Mike McGuire,478
+Sonoma,7436,State Senate,2,REP,Lawrence R. Wiesner,143
+Sonoma,7437,State Senate,2,DEM,Mike McGuire,25
+Sonoma,7437,State Senate,2,REP,Lawrence R. Wiesner,7
+Sonoma,7438,State Senate,2,DEM,Mike McGuire,246
+Sonoma,7438,State Senate,2,REP,Lawrence R. Wiesner,134
+Sonoma,7439,State Senate,2,DEM,Mike McGuire,656
+Sonoma,7439,State Senate,2,REP,Lawrence R. Wiesner,327
+Sonoma,7440,State Senate,2,DEM,Mike McGuire,2
+Sonoma,7440,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,7441,State Senate,2,DEM,Mike McGuire,62
+Sonoma,7441,State Senate,2,REP,Lawrence R. Wiesner,27
+Sonoma,7442,State Senate,2,DEM,Mike McGuire,1
+Sonoma,7442,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7501,State Senate,2,DEM,Mike McGuire,204
+Sonoma,7501,State Senate,2,REP,Lawrence R. Wiesner,57
+Sonoma,7502,State Senate,2,DEM,Mike McGuire,514
+Sonoma,7502,State Senate,2,REP,Lawrence R. Wiesner,269
+Sonoma,7503,State Senate,2,DEM,Mike McGuire,227
+Sonoma,7503,State Senate,2,REP,Lawrence R. Wiesner,59
+Sonoma,7504,State Senate,2,DEM,Mike McGuire,204
+Sonoma,7504,State Senate,2,REP,Lawrence R. Wiesner,87
+Sonoma,7505,State Senate,2,DEM,Mike McGuire,21
+Sonoma,7505,State Senate,2,REP,Lawrence R. Wiesner,5
+Sonoma,7506,State Senate,2,DEM,Mike McGuire,27
+Sonoma,7506,State Senate,2,REP,Lawrence R. Wiesner,13
+Sonoma,7507,State Senate,2,DEM,Mike McGuire,605
+Sonoma,7507,State Senate,2,REP,Lawrence R. Wiesner,160
+Sonoma,7508,State Senate,2,DEM,Mike McGuire,371
+Sonoma,7508,State Senate,2,REP,Lawrence R. Wiesner,97
+Sonoma,7509,State Senate,2,DEM,Mike McGuire,6
+Sonoma,7509,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7510,State Senate,2,DEM,Mike McGuire,23
+Sonoma,7510,State Senate,2,REP,Lawrence R. Wiesner,14
+Sonoma,7511,State Senate,2,DEM,Mike McGuire,143
+Sonoma,7511,State Senate,2,REP,Lawrence R. Wiesner,58
+Sonoma,7512,State Senate,2,DEM,Mike McGuire,437
+Sonoma,7512,State Senate,2,REP,Lawrence R. Wiesner,143
+Sonoma,7513,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7513,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7514,State Senate,2,DEM,Mike McGuire,32
+Sonoma,7514,State Senate,2,REP,Lawrence R. Wiesner,12
+Sonoma,7515,State Senate,2,DEM,Mike McGuire,368
+Sonoma,7515,State Senate,2,REP,Lawrence R. Wiesner,77
+Sonoma,7516,State Senate,2,DEM,Mike McGuire,834
+Sonoma,7516,State Senate,2,REP,Lawrence R. Wiesner,180
+Sonoma,7517,State Senate,2,DEM,Mike McGuire,370
+Sonoma,7517,State Senate,2,REP,Lawrence R. Wiesner,66
+Sonoma,7518,State Senate,2,DEM,Mike McGuire,949
+Sonoma,7518,State Senate,2,REP,Lawrence R. Wiesner,305
+Sonoma,7519,State Senate,2,DEM,Mike McGuire,586
+Sonoma,7519,State Senate,2,REP,Lawrence R. Wiesner,123
+Sonoma,7520,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7520,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7521,State Senate,2,DEM,Mike McGuire,39
+Sonoma,7521,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,7522,State Senate,2,DEM,Mike McGuire,24
+Sonoma,7522,State Senate,2,REP,Lawrence R. Wiesner,3
+Sonoma,7523,State Senate,2,DEM,Mike McGuire,67
+Sonoma,7523,State Senate,2,REP,Lawrence R. Wiesner,21
+Sonoma,7524,State Senate,2,DEM,Mike McGuire,23
+Sonoma,7524,State Senate,2,REP,Lawrence R. Wiesner,8
+Sonoma,7525,State Senate,2,DEM,Mike McGuire,6
+Sonoma,7525,State Senate,2,REP,Lawrence R. Wiesner,6
+Sonoma,7526,State Senate,2,DEM,Mike McGuire,23
+Sonoma,7526,State Senate,2,REP,Lawrence R. Wiesner,4
+Sonoma,7527,State Senate,2,DEM,Mike McGuire,816
+Sonoma,7527,State Senate,2,REP,Lawrence R. Wiesner,110
+Sonoma,7528,State Senate,2,DEM,Mike McGuire,665
+Sonoma,7528,State Senate,2,REP,Lawrence R. Wiesner,127
+Sonoma,7529,State Senate,2,DEM,Mike McGuire,44
+Sonoma,7529,State Senate,2,REP,Lawrence R. Wiesner,11
+Sonoma,7530,State Senate,2,DEM,Mike McGuire,132
+Sonoma,7530,State Senate,2,REP,Lawrence R. Wiesner,34
+Sonoma,7531,State Senate,2,DEM,Mike McGuire,26
+Sonoma,7531,State Senate,2,REP,Lawrence R. Wiesner,17
+Sonoma,7532,State Senate,2,DEM,Mike McGuire,549
+Sonoma,7532,State Senate,2,REP,Lawrence R. Wiesner,85
+Sonoma,7533,State Senate,2,DEM,Mike McGuire,65
+Sonoma,7533,State Senate,2,REP,Lawrence R. Wiesner,9
+Sonoma,7534,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7534,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7535,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7535,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7536,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7536,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7537,State Senate,2,DEM,Mike McGuire,16
+Sonoma,7537,State Senate,2,REP,Lawrence R. Wiesner,1
+Sonoma,7538,State Senate,2,DEM,Mike McGuire,0
+Sonoma,7538,State Senate,2,REP,Lawrence R. Wiesner,0
+Sonoma,7539,State Senate,2,DEM,Mike McGuire,2
+Sonoma,7539,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7540,State Senate,2,DEM,Mike McGuire,36
+Sonoma,7540,State Senate,2,REP,Lawrence R. Wiesner,7
+Sonoma,7541,State Senate,2,DEM,Mike McGuire,2
+Sonoma,7541,State Senate,2,REP,Lawrence R. Wiesner,2
+Sonoma,7542,State Senate,2,DEM,Mike McGuire,20
+Sonoma,7542,State Senate,2,REP,Lawrence R. Wiesner,7
+Sonoma,7543,State Senate,2,DEM,Mike McGuire,353
+Sonoma,7543,State Senate,2,REP,Lawrence R. Wiesner,89
+Sonoma,7544,State Senate,2,DEM,Mike McGuire,234
+Sonoma,7544,State Senate,2,REP,Lawrence R. Wiesner,181
+Sonoma,7545,State Senate,2,DEM,Mike McGuire,238
+Sonoma,7545,State Senate,2,REP,Lawrence R. Wiesner,67
+Sonoma,7546,State Senate,2,DEM,Mike McGuire,178
+Sonoma,7546,State Senate,2,REP,Lawrence R. Wiesner,56
+Sonoma,7547,State Senate,2,DEM,Mike McGuire,467
+Sonoma,7547,State Senate,2,REP,Lawrence R. Wiesner,151
+Sonoma,7548,State Senate,2,DEM,Mike McGuire,14
+Sonoma,7548,State Senate,2,REP,Lawrence R. Wiesner,1

@@ -1,0 +1,835 @@
+county,precinct,office,district,party,candidate,votes
+Sonoma,1001,Governor,,DEM,Edmund G. Brown,120
+Sonoma,1001,Governor,,REP,Neel Kashkari,43
+Sonoma,1002,Governor,,DEM,Edmund G. Brown,14
+Sonoma,1002,Governor,,REP,Neel Kashkari,3
+Sonoma,1004,Governor,,DEM,Edmund G. Brown,24
+Sonoma,1004,Governor,,REP,Neel Kashkari,11
+Sonoma,1006,Governor,,DEM,Edmund G. Brown,0
+Sonoma,1006,Governor,,REP,Neel Kashkari,0
+Sonoma,1008,Governor,,DEM,Edmund G. Brown,87
+Sonoma,1008,Governor,,REP,Neel Kashkari,18
+Sonoma,1009,Governor,,DEM,Edmund G. Brown,55
+Sonoma,1009,Governor,,REP,Neel Kashkari,25
+Sonoma,1010,Governor,,DEM,Edmund G. Brown,84
+Sonoma,1010,Governor,,REP,Neel Kashkari,62
+Sonoma,1011,Governor,,DEM,Edmund G. Brown,82
+Sonoma,1011,Governor,,REP,Neel Kashkari,53
+Sonoma,1012,Governor,,DEM,Edmund G. Brown,12
+Sonoma,1012,Governor,,REP,Neel Kashkari,4
+Sonoma,1016,Governor,,DEM,Edmund G. Brown,40
+Sonoma,1016,Governor,,REP,Neel Kashkari,10
+Sonoma,1017,Governor,,DEM,Edmund G. Brown,379
+Sonoma,1017,Governor,,REP,Neel Kashkari,113
+Sonoma,1021,Governor,,DEM,Edmund G. Brown,379
+Sonoma,1021,Governor,,REP,Neel Kashkari,193
+Sonoma,1023,Governor,,DEM,Edmund G. Brown,596
+Sonoma,1023,Governor,,REP,Neel Kashkari,165
+Sonoma,1025,Governor,,DEM,Edmund G. Brown,874
+Sonoma,1025,Governor,,REP,Neel Kashkari,328
+Sonoma,1028,Governor,,DEM,Edmund G. Brown,706
+Sonoma,1028,Governor,,REP,Neel Kashkari,157
+Sonoma,1030,Governor,,DEM,Edmund G. Brown,654
+Sonoma,1030,Governor,,REP,Neel Kashkari,146
+Sonoma,1032,Governor,,DEM,Edmund G. Brown,246
+Sonoma,1032,Governor,,REP,Neel Kashkari,98
+Sonoma,1033,Governor,,DEM,Edmund G. Brown,34
+Sonoma,1033,Governor,,REP,Neel Kashkari,16
+Sonoma,1034,Governor,,DEM,Edmund G. Brown,739
+Sonoma,1034,Governor,,REP,Neel Kashkari,221
+Sonoma,1035,Governor,,DEM,Edmund G. Brown,433
+Sonoma,1035,Governor,,REP,Neel Kashkari,160
+Sonoma,1037,Governor,,DEM,Edmund G. Brown,190
+Sonoma,1037,Governor,,REP,Neel Kashkari,66
+Sonoma,1042,Governor,,DEM,Edmund G. Brown,181
+Sonoma,1042,Governor,,REP,Neel Kashkari,112
+Sonoma,1043,Governor,,DEM,Edmund G. Brown,5
+Sonoma,1043,Governor,,REP,Neel Kashkari,2
+Sonoma,1050,Governor,,DEM,Edmund G. Brown,61
+Sonoma,1050,Governor,,REP,Neel Kashkari,15
+Sonoma,1051,Governor,,DEM,Edmund G. Brown,71
+Sonoma,1051,Governor,,REP,Neel Kashkari,18
+Sonoma,1053,Governor,,DEM,Edmund G. Brown,63
+Sonoma,1053,Governor,,REP,Neel Kashkari,36
+Sonoma,1055,Governor,,DEM,Edmund G. Brown,73
+Sonoma,1055,Governor,,REP,Neel Kashkari,30
+Sonoma,1057,Governor,,DEM,Edmund G. Brown,8
+Sonoma,1057,Governor,,REP,Neel Kashkari,10
+Sonoma,1060,Governor,,DEM,Edmund G. Brown,8
+Sonoma,1060,Governor,,REP,Neel Kashkari,7
+Sonoma,1061,Governor,,DEM,Edmund G. Brown,10
+Sonoma,1061,Governor,,REP,Neel Kashkari,6
+Sonoma,1065,Governor,,DEM,Edmund G. Brown,27
+Sonoma,1065,Governor,,REP,Neel Kashkari,11
+Sonoma,1066,Governor,,DEM,Edmund G. Brown,4
+Sonoma,1066,Governor,,REP,Neel Kashkari,3
+Sonoma,1067,Governor,,DEM,Edmund G. Brown,23
+Sonoma,1067,Governor,,REP,Neel Kashkari,7
+Sonoma,1068,Governor,,DEM,Edmund G. Brown,56
+Sonoma,1068,Governor,,REP,Neel Kashkari,19
+Sonoma,1069,Governor,,DEM,Edmund G. Brown,2
+Sonoma,1069,Governor,,REP,Neel Kashkari,2
+Sonoma,1070,Governor,,DEM,Edmund G. Brown,5
+Sonoma,1070,Governor,,REP,Neel Kashkari,5
+Sonoma,1072,Governor,,DEM,Edmund G. Brown,41
+Sonoma,1072,Governor,,REP,Neel Kashkari,0
+Sonoma,1073,Governor,,DEM,Edmund G. Brown,5
+Sonoma,1073,Governor,,REP,Neel Kashkari,0
+Sonoma,1075,Governor,,DEM,Edmund G. Brown,48
+Sonoma,1075,Governor,,REP,Neel Kashkari,17
+Sonoma,1077,Governor,,DEM,Edmund G. Brown,189
+Sonoma,1077,Governor,,REP,Neel Kashkari,73
+Sonoma,1078,Governor,,DEM,Edmund G. Brown,4
+Sonoma,1078,Governor,,REP,Neel Kashkari,6
+Sonoma,1079,Governor,,DEM,Edmund G. Brown,0
+Sonoma,1079,Governor,,REP,Neel Kashkari,1
+Sonoma,1080,Governor,,DEM,Edmund G. Brown,50
+Sonoma,1080,Governor,,REP,Neel Kashkari,34
+Sonoma,1081,Governor,,DEM,Edmund G. Brown,0
+Sonoma,1081,Governor,,REP,Neel Kashkari,0
+Sonoma,1082,Governor,,DEM,Edmund G. Brown,210
+Sonoma,1082,Governor,,REP,Neel Kashkari,76
+Sonoma,1083,Governor,,DEM,Edmund G. Brown,0
+Sonoma,1083,Governor,,REP,Neel Kashkari,0
+Sonoma,1084,Governor,,DEM,Edmund G. Brown,5
+Sonoma,1084,Governor,,REP,Neel Kashkari,0
+Sonoma,1085,Governor,,DEM,Edmund G. Brown,10
+Sonoma,1085,Governor,,REP,Neel Kashkari,7
+Sonoma,1086,Governor,,DEM,Edmund G. Brown,10
+Sonoma,1086,Governor,,REP,Neel Kashkari,5
+Sonoma,1087,Governor,,DEM,Edmund G. Brown,0
+Sonoma,1087,Governor,,REP,Neel Kashkari,2
+Sonoma,1102,Governor,,DEM,Edmund G. Brown,766
+Sonoma,1102,Governor,,REP,Neel Kashkari,245
+Sonoma,1103,Governor,,DEM,Edmund G. Brown,719
+Sonoma,1103,Governor,,REP,Neel Kashkari,283
+Sonoma,1106,Governor,,DEM,Edmund G. Brown,411
+Sonoma,1106,Governor,,REP,Neel Kashkari,168
+Sonoma,1107,Governor,,DEM,Edmund G. Brown,745
+Sonoma,1107,Governor,,REP,Neel Kashkari,275
+Sonoma,1108,Governor,,DEM,Edmund G. Brown,616
+Sonoma,1108,Governor,,REP,Neel Kashkari,226
+Sonoma,1110,Governor,,DEM,Edmund G. Brown,778
+Sonoma,1110,Governor,,REP,Neel Kashkari,294
+Sonoma,1112,Governor,,DEM,Edmund G. Brown,692
+Sonoma,1112,Governor,,REP,Neel Kashkari,155
+Sonoma,1116,Governor,,DEM,Edmund G. Brown,683
+Sonoma,1116,Governor,,REP,Neel Kashkari,229
+Sonoma,1121,Governor,,DEM,Edmund G. Brown,806
+Sonoma,1121,Governor,,REP,Neel Kashkari,310
+Sonoma,1122,Governor,,DEM,Edmund G. Brown,459
+Sonoma,1122,Governor,,REP,Neel Kashkari,172
+Sonoma,1123,Governor,,DEM,Edmund G. Brown,1227
+Sonoma,1123,Governor,,REP,Neel Kashkari,441
+Sonoma,1124,Governor,,DEM,Edmund G. Brown,743
+Sonoma,1124,Governor,,REP,Neel Kashkari,303
+Sonoma,1128,Governor,,DEM,Edmund G. Brown,437
+Sonoma,1128,Governor,,REP,Neel Kashkari,198
+Sonoma,1129,Governor,,DEM,Edmund G. Brown,9
+Sonoma,1129,Governor,,REP,Neel Kashkari,0
+Sonoma,1136,Governor,,DEM,Edmund G. Brown,1010
+Sonoma,1136,Governor,,REP,Neel Kashkari,318
+Sonoma,1144,Governor,,DEM,Edmund G. Brown,5
+Sonoma,1144,Governor,,REP,Neel Kashkari,1
+Sonoma,1145,Governor,,DEM,Edmund G. Brown,365
+Sonoma,1145,Governor,,REP,Neel Kashkari,157
+Sonoma,1801,Governor,,DEM,Edmund G. Brown,643
+Sonoma,1801,Governor,,REP,Neel Kashkari,233
+Sonoma,1802,Governor,,DEM,Edmund G. Brown,833
+Sonoma,1802,Governor,,REP,Neel Kashkari,256
+Sonoma,1804,Governor,,DEM,Edmund G. Brown,575
+Sonoma,1804,Governor,,REP,Neel Kashkari,191
+Sonoma,1805,Governor,,DEM,Edmund G. Brown,981
+Sonoma,1805,Governor,,REP,Neel Kashkari,241
+Sonoma,1811,Governor,,DEM,Edmund G. Brown,59
+Sonoma,1811,Governor,,REP,Neel Kashkari,12
+Sonoma,1812,Governor,,DEM,Edmund G. Brown,0
+Sonoma,1812,Governor,,REP,Neel Kashkari,0
+Sonoma,1813,Governor,,DEM,Edmund G. Brown,108
+Sonoma,1813,Governor,,REP,Neel Kashkari,49
+Sonoma,1814,Governor,,DEM,Edmund G. Brown,1
+Sonoma,1814,Governor,,REP,Neel Kashkari,0
+Sonoma,2001,Governor,,DEM,Edmund G. Brown,319
+Sonoma,2001,Governor,,REP,Neel Kashkari,130
+Sonoma,2002,Governor,,DEM,Edmund G. Brown,611
+Sonoma,2002,Governor,,REP,Neel Kashkari,345
+Sonoma,2003,Governor,,DEM,Edmund G. Brown,371
+Sonoma,2003,Governor,,REP,Neel Kashkari,180
+Sonoma,2005,Governor,,DEM,Edmund G. Brown,37
+Sonoma,2005,Governor,,REP,Neel Kashkari,27
+Sonoma,2013,Governor,,DEM,Edmund G. Brown,364
+Sonoma,2013,Governor,,REP,Neel Kashkari,173
+Sonoma,2016,Governor,,DEM,Edmund G. Brown,79
+Sonoma,2016,Governor,,REP,Neel Kashkari,17
+Sonoma,2017,Governor,,DEM,Edmund G. Brown,375
+Sonoma,2017,Governor,,REP,Neel Kashkari,94
+Sonoma,2022,Governor,,DEM,Edmund G. Brown,104
+Sonoma,2022,Governor,,REP,Neel Kashkari,31
+Sonoma,2023,Governor,,DEM,Edmund G. Brown,120
+Sonoma,2023,Governor,,REP,Neel Kashkari,49
+Sonoma,2026,Governor,,DEM,Edmund G. Brown,1
+Sonoma,2026,Governor,,REP,Neel Kashkari,3
+Sonoma,2027,Governor,,DEM,Edmund G. Brown,6
+Sonoma,2027,Governor,,REP,Neel Kashkari,0
+Sonoma,2028,Governor,,DEM,Edmund G. Brown,8
+Sonoma,2028,Governor,,REP,Neel Kashkari,1
+Sonoma,2029,Governor,,DEM,Edmund G. Brown,0
+Sonoma,2029,Governor,,REP,Neel Kashkari,2
+Sonoma,2030,Governor,,DEM,Edmund G. Brown,110
+Sonoma,2030,Governor,,REP,Neel Kashkari,44
+Sonoma,2032,Governor,,DEM,Edmund G. Brown,8
+Sonoma,2032,Governor,,REP,Neel Kashkari,0
+Sonoma,2033,Governor,,DEM,Edmund G. Brown,4
+Sonoma,2033,Governor,,REP,Neel Kashkari,1
+Sonoma,2037,Governor,,DEM,Edmund G. Brown,0
+Sonoma,2037,Governor,,REP,Neel Kashkari,0
+Sonoma,2038,Governor,,DEM,Edmund G. Brown,7
+Sonoma,2038,Governor,,REP,Neel Kashkari,3
+Sonoma,2039,Governor,,DEM,Edmund G. Brown,4
+Sonoma,2039,Governor,,REP,Neel Kashkari,4
+Sonoma,2301,Governor,,DEM,Edmund G. Brown,778
+Sonoma,2301,Governor,,REP,Neel Kashkari,232
+Sonoma,2302,Governor,,DEM,Edmund G. Brown,397
+Sonoma,2302,Governor,,REP,Neel Kashkari,96
+Sonoma,2303,Governor,,DEM,Edmund G. Brown,520
+Sonoma,2303,Governor,,REP,Neel Kashkari,144
+Sonoma,2502,Governor,,DEM,Edmund G. Brown,986
+Sonoma,2502,Governor,,REP,Neel Kashkari,199
+Sonoma,2503,Governor,,DEM,Edmund G. Brown,449
+Sonoma,2503,Governor,,REP,Neel Kashkari,79
+Sonoma,2504,Governor,,DEM,Edmund G. Brown,958
+Sonoma,2504,Governor,,REP,Neel Kashkari,151
+Sonoma,2507,Governor,,DEM,Edmund G. Brown,1032
+Sonoma,2507,Governor,,REP,Neel Kashkari,242
+Sonoma,2508,Governor,,DEM,Edmund G. Brown,613
+Sonoma,2508,Governor,,REP,Neel Kashkari,179
+Sonoma,2509,Governor,,DEM,Edmund G. Brown,759
+Sonoma,2509,Governor,,REP,Neel Kashkari,247
+Sonoma,2510,Governor,,DEM,Edmund G. Brown,738
+Sonoma,2510,Governor,,REP,Neel Kashkari,202
+Sonoma,2514,Governor,,DEM,Edmund G. Brown,947
+Sonoma,2514,Governor,,REP,Neel Kashkari,326
+Sonoma,2515,Governor,,DEM,Edmund G. Brown,334
+Sonoma,2515,Governor,,REP,Neel Kashkari,116
+Sonoma,2516,Governor,,DEM,Edmund G. Brown,708
+Sonoma,2516,Governor,,REP,Neel Kashkari,221
+Sonoma,2518,Governor,,DEM,Edmund G. Brown,874
+Sonoma,2518,Governor,,REP,Neel Kashkari,299
+Sonoma,2519,Governor,,DEM,Edmund G. Brown,907
+Sonoma,2519,Governor,,REP,Neel Kashkari,314
+Sonoma,2520,Governor,,DEM,Edmund G. Brown,822
+Sonoma,2520,Governor,,REP,Neel Kashkari,310
+Sonoma,2523,Governor,,DEM,Edmund G. Brown,668
+Sonoma,2523,Governor,,REP,Neel Kashkari,184
+Sonoma,2530,Governor,,DEM,Edmund G. Brown,680
+Sonoma,2530,Governor,,REP,Neel Kashkari,308
+Sonoma,2531,Governor,,DEM,Edmund G. Brown,570
+Sonoma,2531,Governor,,REP,Neel Kashkari,253
+Sonoma,2536,Governor,,DEM,Edmund G. Brown,791
+Sonoma,2536,Governor,,REP,Neel Kashkari,317
+Sonoma,2540,Governor,,DEM,Edmund G. Brown,372
+Sonoma,2540,Governor,,REP,Neel Kashkari,166
+Sonoma,2601,Governor,,DEM,Edmund G. Brown,662
+Sonoma,2601,Governor,,REP,Neel Kashkari,260
+Sonoma,2602,Governor,,DEM,Edmund G. Brown,228
+Sonoma,2602,Governor,,REP,Neel Kashkari,67
+Sonoma,2604,Governor,,DEM,Edmund G. Brown,0
+Sonoma,2604,Governor,,REP,Neel Kashkari,0
+Sonoma,2606,Governor,,DEM,Edmund G. Brown,578
+Sonoma,2606,Governor,,REP,Neel Kashkari,251
+Sonoma,3001,Governor,,DEM,Edmund G. Brown,5
+Sonoma,3001,Governor,,REP,Neel Kashkari,0
+Sonoma,3002,Governor,,DEM,Edmund G. Brown,6
+Sonoma,3002,Governor,,REP,Neel Kashkari,0
+Sonoma,3003,Governor,,DEM,Edmund G. Brown,15
+Sonoma,3003,Governor,,REP,Neel Kashkari,4
+Sonoma,3005,Governor,,DEM,Edmund G. Brown,91
+Sonoma,3005,Governor,,REP,Neel Kashkari,25
+Sonoma,3006,Governor,,DEM,Edmund G. Brown,12
+Sonoma,3006,Governor,,REP,Neel Kashkari,1
+Sonoma,3010,Governor,,DEM,Edmund G. Brown,53
+Sonoma,3010,Governor,,REP,Neel Kashkari,39
+Sonoma,3011,Governor,,DEM,Edmund G. Brown,267
+Sonoma,3011,Governor,,REP,Neel Kashkari,100
+Sonoma,3012,Governor,,DEM,Edmund G. Brown,18
+Sonoma,3012,Governor,,REP,Neel Kashkari,3
+Sonoma,3016,Governor,,DEM,Edmund G. Brown,32
+Sonoma,3016,Governor,,REP,Neel Kashkari,5
+Sonoma,3017,Governor,,DEM,Edmund G. Brown,14
+Sonoma,3017,Governor,,REP,Neel Kashkari,15
+Sonoma,3020,Governor,,DEM,Edmund G. Brown,35
+Sonoma,3020,Governor,,REP,Neel Kashkari,6
+Sonoma,3021,Governor,,DEM,Edmund G. Brown,10
+Sonoma,3021,Governor,,REP,Neel Kashkari,2
+Sonoma,3022,Governor,,DEM,Edmund G. Brown,73
+Sonoma,3022,Governor,,REP,Neel Kashkari,23
+Sonoma,3024,Governor,,DEM,Edmund G. Brown,6
+Sonoma,3024,Governor,,REP,Neel Kashkari,6
+Sonoma,3025,Governor,,DEM,Edmund G. Brown,0
+Sonoma,3025,Governor,,REP,Neel Kashkari,0
+Sonoma,3103,Governor,,DEM,Edmund G. Brown,951
+Sonoma,3103,Governor,,REP,Neel Kashkari,326
+Sonoma,3108,Governor,,DEM,Edmund G. Brown,393
+Sonoma,3108,Governor,,REP,Neel Kashkari,99
+Sonoma,3109,Governor,,DEM,Edmund G. Brown,337
+Sonoma,3109,Governor,,REP,Neel Kashkari,81
+Sonoma,3112,Governor,,DEM,Edmund G. Brown,641
+Sonoma,3112,Governor,,REP,Neel Kashkari,150
+Sonoma,3113,Governor,,DEM,Edmund G. Brown,444
+Sonoma,3113,Governor,,REP,Neel Kashkari,136
+Sonoma,3116,Governor,,DEM,Edmund G. Brown,370
+Sonoma,3116,Governor,,REP,Neel Kashkari,44
+Sonoma,3120,Governor,,DEM,Edmund G. Brown,735
+Sonoma,3120,Governor,,REP,Neel Kashkari,161
+Sonoma,3123,Governor,,DEM,Edmund G. Brown,457
+Sonoma,3123,Governor,,REP,Neel Kashkari,89
+Sonoma,3124,Governor,,DEM,Edmund G. Brown,718
+Sonoma,3124,Governor,,REP,Neel Kashkari,109
+Sonoma,3128,Governor,,DEM,Edmund G. Brown,955
+Sonoma,3128,Governor,,REP,Neel Kashkari,229
+Sonoma,3135,Governor,,DEM,Edmund G. Brown,489
+Sonoma,3135,Governor,,REP,Neel Kashkari,141
+Sonoma,3136,Governor,,DEM,Edmund G. Brown,230
+Sonoma,3136,Governor,,REP,Neel Kashkari,64
+Sonoma,3142,Governor,,DEM,Edmund G. Brown,617
+Sonoma,3142,Governor,,REP,Neel Kashkari,167
+Sonoma,3601,Governor,,DEM,Edmund G. Brown,521
+Sonoma,3601,Governor,,REP,Neel Kashkari,126
+Sonoma,3602,Governor,,DEM,Edmund G. Brown,674
+Sonoma,3602,Governor,,REP,Neel Kashkari,279
+Sonoma,3603,Governor,,DEM,Edmund G. Brown,601
+Sonoma,3603,Governor,,REP,Neel Kashkari,208
+Sonoma,3605,Governor,,DEM,Edmund G. Brown,275
+Sonoma,3605,Governor,,REP,Neel Kashkari,87
+Sonoma,3609,Governor,,DEM,Edmund G. Brown,695
+Sonoma,3609,Governor,,REP,Neel Kashkari,261
+Sonoma,3611,Governor,,DEM,Edmund G. Brown,659
+Sonoma,3611,Governor,,REP,Neel Kashkari,286
+Sonoma,3614,Governor,,DEM,Edmund G. Brown,625
+Sonoma,3614,Governor,,REP,Neel Kashkari,275
+Sonoma,3616,Governor,,DEM,Edmund G. Brown,610
+Sonoma,3616,Governor,,REP,Neel Kashkari,290
+Sonoma,3618,Governor,,DEM,Edmund G. Brown,590
+Sonoma,3618,Governor,,REP,Neel Kashkari,253
+Sonoma,3621,Governor,,DEM,Edmund G. Brown,0
+Sonoma,3621,Governor,,REP,Neel Kashkari,0
+Sonoma,3622,Governor,,DEM,Edmund G. Brown,0
+Sonoma,3622,Governor,,REP,Neel Kashkari,0
+Sonoma,4003,Governor,,DEM,Edmund G. Brown,56
+Sonoma,4003,Governor,,REP,Neel Kashkari,34
+Sonoma,4006,Governor,,DEM,Edmund G. Brown,449
+Sonoma,4006,Governor,,REP,Neel Kashkari,226
+Sonoma,4007,Governor,,DEM,Edmund G. Brown,209
+Sonoma,4007,Governor,,REP,Neel Kashkari,129
+Sonoma,4009,Governor,,DEM,Edmund G. Brown,165
+Sonoma,4009,Governor,,REP,Neel Kashkari,44
+Sonoma,4010,Governor,,DEM,Edmund G. Brown,90
+Sonoma,4010,Governor,,REP,Neel Kashkari,68
+Sonoma,4012,Governor,,DEM,Edmund G. Brown,5
+Sonoma,4012,Governor,,REP,Neel Kashkari,3
+Sonoma,4027,Governor,,DEM,Edmund G. Brown,46
+Sonoma,4027,Governor,,REP,Neel Kashkari,30
+Sonoma,4029,Governor,,DEM,Edmund G. Brown,600
+Sonoma,4029,Governor,,REP,Neel Kashkari,306
+Sonoma,4030,Governor,,DEM,Edmund G. Brown,2
+Sonoma,4030,Governor,,REP,Neel Kashkari,0
+Sonoma,4031,Governor,,DEM,Edmund G. Brown,282
+Sonoma,4031,Governor,,REP,Neel Kashkari,94
+Sonoma,4034,Governor,,DEM,Edmund G. Brown,40
+Sonoma,4034,Governor,,REP,Neel Kashkari,39
+Sonoma,4037,Governor,,DEM,Edmund G. Brown,28
+Sonoma,4037,Governor,,REP,Neel Kashkari,14
+Sonoma,4039,Governor,,DEM,Edmund G. Brown,13
+Sonoma,4039,Governor,,REP,Neel Kashkari,9
+Sonoma,4045,Governor,,DEM,Edmund G. Brown,41
+Sonoma,4045,Governor,,REP,Neel Kashkari,28
+Sonoma,4049,Governor,,DEM,Edmund G. Brown,574
+Sonoma,4049,Governor,,REP,Neel Kashkari,251
+Sonoma,4051,Governor,,DEM,Edmund G. Brown,65
+Sonoma,4051,Governor,,REP,Neel Kashkari,24
+Sonoma,4052,Governor,,DEM,Edmund G. Brown,4
+Sonoma,4052,Governor,,REP,Neel Kashkari,9
+Sonoma,4054,Governor,,DEM,Edmund G. Brown,1
+Sonoma,4054,Governor,,REP,Neel Kashkari,0
+Sonoma,4055,Governor,,DEM,Edmund G. Brown,0
+Sonoma,4055,Governor,,REP,Neel Kashkari,0
+Sonoma,4056,Governor,,DEM,Edmund G. Brown,10
+Sonoma,4056,Governor,,REP,Neel Kashkari,3
+Sonoma,4057,Governor,,DEM,Edmund G. Brown,44
+Sonoma,4057,Governor,,REP,Neel Kashkari,35
+Sonoma,4062,Governor,,DEM,Edmund G. Brown,92
+Sonoma,4062,Governor,,REP,Neel Kashkari,35
+Sonoma,4063,Governor,,DEM,Edmund G. Brown,123
+Sonoma,4063,Governor,,REP,Neel Kashkari,28
+Sonoma,4064,Governor,,DEM,Edmund G. Brown,22
+Sonoma,4064,Governor,,REP,Neel Kashkari,15
+Sonoma,4065,Governor,,DEM,Edmund G. Brown,0
+Sonoma,4065,Governor,,REP,Neel Kashkari,0
+Sonoma,4066,Governor,,DEM,Edmund G. Brown,3
+Sonoma,4066,Governor,,REP,Neel Kashkari,0
+Sonoma,4067,Governor,,DEM,Edmund G. Brown,25
+Sonoma,4067,Governor,,REP,Neel Kashkari,18
+Sonoma,4068,Governor,,DEM,Edmund G. Brown,326
+Sonoma,4068,Governor,,REP,Neel Kashkari,154
+Sonoma,4069,Governor,,DEM,Edmund G. Brown,166
+Sonoma,4069,Governor,,REP,Neel Kashkari,48
+Sonoma,4070,Governor,,DEM,Edmund G. Brown,0
+Sonoma,4070,Governor,,REP,Neel Kashkari,1
+Sonoma,4072,Governor,,DEM,Edmund G. Brown,1
+Sonoma,4072,Governor,,REP,Neel Kashkari,0
+Sonoma,4073,Governor,,DEM,Edmund G. Brown,0
+Sonoma,4073,Governor,,REP,Neel Kashkari,0
+Sonoma,4103,Governor,,DEM,Edmund G. Brown,420
+Sonoma,4103,Governor,,REP,Neel Kashkari,203
+Sonoma,4109,Governor,,DEM,Edmund G. Brown,621
+Sonoma,4109,Governor,,REP,Neel Kashkari,219
+Sonoma,4110,Governor,,DEM,Edmund G. Brown,682
+Sonoma,4110,Governor,,REP,Neel Kashkari,277
+Sonoma,4127,Governor,,DEM,Edmund G. Brown,365
+Sonoma,4127,Governor,,REP,Neel Kashkari,127
+Sonoma,4128,Governor,,DEM,Edmund G. Brown,116
+Sonoma,4128,Governor,,REP,Neel Kashkari,94
+Sonoma,4201,Governor,,DEM,Edmund G. Brown,645
+Sonoma,4201,Governor,,REP,Neel Kashkari,283
+Sonoma,4203,Governor,,DEM,Edmund G. Brown,396
+Sonoma,4203,Governor,,REP,Neel Kashkari,164
+Sonoma,4204,Governor,,DEM,Edmund G. Brown,760
+Sonoma,4204,Governor,,REP,Neel Kashkari,309
+Sonoma,4401,Governor,,DEM,Edmund G. Brown,708
+Sonoma,4401,Governor,,REP,Neel Kashkari,302
+Sonoma,4402,Governor,,DEM,Edmund G. Brown,948
+Sonoma,4402,Governor,,REP,Neel Kashkari,281
+Sonoma,4403,Governor,,DEM,Edmund G. Brown,906
+Sonoma,4403,Governor,,REP,Neel Kashkari,224
+Sonoma,4406,Governor,,DEM,Edmund G. Brown,606
+Sonoma,4406,Governor,,REP,Neel Kashkari,160
+Sonoma,4407,Governor,,DEM,Edmund G. Brown,0
+Sonoma,4407,Governor,,REP,Neel Kashkari,0
+Sonoma,4901,Governor,,DEM,Edmund G. Brown,617
+Sonoma,4901,Governor,,REP,Neel Kashkari,245
+Sonoma,4902,Governor,,DEM,Edmund G. Brown,635
+Sonoma,4902,Governor,,REP,Neel Kashkari,284
+Sonoma,4903,Governor,,DEM,Edmund G. Brown,556
+Sonoma,4903,Governor,,REP,Neel Kashkari,334
+Sonoma,4904,Governor,,DEM,Edmund G. Brown,577
+Sonoma,4904,Governor,,REP,Neel Kashkari,360
+Sonoma,4906,Governor,,DEM,Edmund G. Brown,630
+Sonoma,4906,Governor,,REP,Neel Kashkari,302
+Sonoma,4907,Governor,,DEM,Edmund G. Brown,639
+Sonoma,4907,Governor,,REP,Neel Kashkari,287
+Sonoma,4908,Governor,,DEM,Edmund G. Brown,685
+Sonoma,4908,Governor,,REP,Neel Kashkari,287
+Sonoma,5001,Governor,,DEM,Edmund G. Brown,672
+Sonoma,5001,Governor,,REP,Neel Kashkari,154
+Sonoma,5006,Governor,,DEM,Edmund G. Brown,436
+Sonoma,5006,Governor,,REP,Neel Kashkari,100
+Sonoma,5008,Governor,,DEM,Edmund G. Brown,448
+Sonoma,5008,Governor,,REP,Neel Kashkari,137
+Sonoma,5014,Governor,,DEM,Edmund G. Brown,70
+Sonoma,5014,Governor,,REP,Neel Kashkari,14
+Sonoma,5021,Governor,,DEM,Edmund G. Brown,456
+Sonoma,5021,Governor,,REP,Neel Kashkari,144
+Sonoma,5023,Governor,,DEM,Edmund G. Brown,757
+Sonoma,5023,Governor,,REP,Neel Kashkari,175
+Sonoma,5026,Governor,,DEM,Edmund G. Brown,1
+Sonoma,5026,Governor,,REP,Neel Kashkari,7
+Sonoma,5028,Governor,,DEM,Edmund G. Brown,12
+Sonoma,5028,Governor,,REP,Neel Kashkari,11
+Sonoma,5029,Governor,,DEM,Edmund G. Brown,17
+Sonoma,5029,Governor,,REP,Neel Kashkari,7
+Sonoma,5030,Governor,,DEM,Edmund G. Brown,535
+Sonoma,5030,Governor,,REP,Neel Kashkari,141
+Sonoma,5031,Governor,,DEM,Edmund G. Brown,277
+Sonoma,5031,Governor,,REP,Neel Kashkari,56
+Sonoma,5032,Governor,,DEM,Edmund G. Brown,750
+Sonoma,5032,Governor,,REP,Neel Kashkari,149
+Sonoma,5049,Governor,,DEM,Edmund G. Brown,3
+Sonoma,5049,Governor,,REP,Neel Kashkari,1
+Sonoma,5050,Governor,,DEM,Edmund G. Brown,0
+Sonoma,5050,Governor,,REP,Neel Kashkari,0
+Sonoma,5053,Governor,,DEM,Edmund G. Brown,89
+Sonoma,5053,Governor,,REP,Neel Kashkari,21
+Sonoma,5055,Governor,,DEM,Edmund G. Brown,32
+Sonoma,5055,Governor,,REP,Neel Kashkari,3
+Sonoma,5056,Governor,,DEM,Edmund G. Brown,77
+Sonoma,5056,Governor,,REP,Neel Kashkari,20
+Sonoma,5058,Governor,,DEM,Edmund G. Brown,39
+Sonoma,5058,Governor,,REP,Neel Kashkari,6
+Sonoma,5060,Governor,,DEM,Edmund G. Brown,29
+Sonoma,5060,Governor,,REP,Neel Kashkari,7
+Sonoma,5062,Governor,,DEM,Edmund G. Brown,51
+Sonoma,5062,Governor,,REP,Neel Kashkari,5
+Sonoma,5063,Governor,,DEM,Edmund G. Brown,107
+Sonoma,5063,Governor,,REP,Neel Kashkari,24
+Sonoma,5065,Governor,,DEM,Edmund G. Brown,19
+Sonoma,5065,Governor,,REP,Neel Kashkari,4
+Sonoma,5067,Governor,,DEM,Edmund G. Brown,0
+Sonoma,5067,Governor,,REP,Neel Kashkari,0
+Sonoma,5068,Governor,,DEM,Edmund G. Brown,5
+Sonoma,5068,Governor,,REP,Neel Kashkari,0
+Sonoma,5069,Governor,,DEM,Edmund G. Brown,48
+Sonoma,5069,Governor,,REP,Neel Kashkari,7
+Sonoma,5070,Governor,,DEM,Edmund G. Brown,10
+Sonoma,5070,Governor,,REP,Neel Kashkari,7
+Sonoma,5071,Governor,,DEM,Edmund G. Brown,2
+Sonoma,5071,Governor,,REP,Neel Kashkari,0
+Sonoma,5073,Governor,,DEM,Edmund G. Brown,93
+Sonoma,5073,Governor,,REP,Neel Kashkari,47
+Sonoma,5074,Governor,,DEM,Edmund G. Brown,1
+Sonoma,5074,Governor,,REP,Neel Kashkari,2
+Sonoma,5075,Governor,,DEM,Edmund G. Brown,0
+Sonoma,5075,Governor,,REP,Neel Kashkari,0
+Sonoma,5076,Governor,,DEM,Edmund G. Brown,0
+Sonoma,5076,Governor,,REP,Neel Kashkari,0
+Sonoma,5077,Governor,,DEM,Edmund G. Brown,165
+Sonoma,5077,Governor,,REP,Neel Kashkari,43
+Sonoma,5101,Governor,,DEM,Edmund G. Brown,403
+Sonoma,5101,Governor,,REP,Neel Kashkari,122
+Sonoma,5104,Governor,,DEM,Edmund G. Brown,540
+Sonoma,5104,Governor,,REP,Neel Kashkari,190
+Sonoma,5105,Governor,,DEM,Edmund G. Brown,399
+Sonoma,5105,Governor,,REP,Neel Kashkari,191
+Sonoma,5109,Governor,,DEM,Edmund G. Brown,591
+Sonoma,5109,Governor,,REP,Neel Kashkari,180
+Sonoma,5111,Governor,,DEM,Edmund G. Brown,558
+Sonoma,5111,Governor,,REP,Neel Kashkari,183
+Sonoma,5113,Governor,,DEM,Edmund G. Brown,665
+Sonoma,5113,Governor,,REP,Neel Kashkari,222
+Sonoma,5114,Governor,,DEM,Edmund G. Brown,0
+Sonoma,5114,Governor,,REP,Neel Kashkari,0
+Sonoma,5115,Governor,,DEM,Edmund G. Brown,261
+Sonoma,5115,Governor,,REP,Neel Kashkari,67
+Sonoma,5116,Governor,,DEM,Edmund G. Brown,114
+Sonoma,5116,Governor,,REP,Neel Kashkari,34
+Sonoma,5701,Governor,,DEM,Edmund G. Brown,799
+Sonoma,5701,Governor,,REP,Neel Kashkari,152
+Sonoma,5703,Governor,,DEM,Edmund G. Brown,867
+Sonoma,5703,Governor,,REP,Neel Kashkari,113
+Sonoma,5704,Governor,,DEM,Edmund G. Brown,1078
+Sonoma,5704,Governor,,REP,Neel Kashkari,138
+Sonoma,7101,Governor,,DEM,Edmund G. Brown,170
+Sonoma,7101,Governor,,REP,Neel Kashkari,68
+Sonoma,7102,Governor,,DEM,Edmund G. Brown,37
+Sonoma,7102,Governor,,REP,Neel Kashkari,34
+Sonoma,7103,Governor,,DEM,Edmund G. Brown,56
+Sonoma,7103,Governor,,REP,Neel Kashkari,22
+Sonoma,7104,Governor,,DEM,Edmund G. Brown,673
+Sonoma,7104,Governor,,REP,Neel Kashkari,277
+Sonoma,7105,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7105,Governor,,REP,Neel Kashkari,0
+Sonoma,7106,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7106,Governor,,REP,Neel Kashkari,0
+Sonoma,7107,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7107,Governor,,REP,Neel Kashkari,0
+Sonoma,7108,Governor,,DEM,Edmund G. Brown,764
+Sonoma,7108,Governor,,REP,Neel Kashkari,212
+Sonoma,7109,Governor,,DEM,Edmund G. Brown,154
+Sonoma,7109,Governor,,REP,Neel Kashkari,98
+Sonoma,7110,Governor,,DEM,Edmund G. Brown,9
+Sonoma,7110,Governor,,REP,Neel Kashkari,5
+Sonoma,7111,Governor,,DEM,Edmund G. Brown,224
+Sonoma,7111,Governor,,REP,Neel Kashkari,107
+Sonoma,7112,Governor,,DEM,Edmund G. Brown,34
+Sonoma,7112,Governor,,REP,Neel Kashkari,19
+Sonoma,7113,Governor,,DEM,Edmund G. Brown,284
+Sonoma,7113,Governor,,REP,Neel Kashkari,66
+Sonoma,7114,Governor,,DEM,Edmund G. Brown,237
+Sonoma,7114,Governor,,REP,Neel Kashkari,121
+Sonoma,7115,Governor,,DEM,Edmund G. Brown,67
+Sonoma,7115,Governor,,REP,Neel Kashkari,31
+Sonoma,7116,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7116,Governor,,REP,Neel Kashkari,0
+Sonoma,7117,Governor,,DEM,Edmund G. Brown,27
+Sonoma,7117,Governor,,REP,Neel Kashkari,14
+Sonoma,7118,Governor,,DEM,Edmund G. Brown,158
+Sonoma,7118,Governor,,REP,Neel Kashkari,48
+Sonoma,7119,Governor,,DEM,Edmund G. Brown,811
+Sonoma,7119,Governor,,REP,Neel Kashkari,357
+Sonoma,7120,Governor,,DEM,Edmund G. Brown,96
+Sonoma,7120,Governor,,REP,Neel Kashkari,35
+Sonoma,7121,Governor,,DEM,Edmund G. Brown,19
+Sonoma,7121,Governor,,REP,Neel Kashkari,30
+Sonoma,7122,Governor,,DEM,Edmund G. Brown,289
+Sonoma,7122,Governor,,REP,Neel Kashkari,111
+Sonoma,7123,Governor,,DEM,Edmund G. Brown,543
+Sonoma,7123,Governor,,REP,Neel Kashkari,148
+Sonoma,7124,Governor,,DEM,Edmund G. Brown,507
+Sonoma,7124,Governor,,REP,Neel Kashkari,100
+Sonoma,7125,Governor,,DEM,Edmund G. Brown,137
+Sonoma,7125,Governor,,REP,Neel Kashkari,70
+Sonoma,7126,Governor,,DEM,Edmund G. Brown,150
+Sonoma,7126,Governor,,REP,Neel Kashkari,98
+Sonoma,7127,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7127,Governor,,REP,Neel Kashkari,0
+Sonoma,7201,Governor,,DEM,Edmund G. Brown,669
+Sonoma,7201,Governor,,REP,Neel Kashkari,263
+Sonoma,7202,Governor,,DEM,Edmund G. Brown,99
+Sonoma,7202,Governor,,REP,Neel Kashkari,94
+Sonoma,7203,Governor,,DEM,Edmund G. Brown,19
+Sonoma,7203,Governor,,REP,Neel Kashkari,5
+Sonoma,7204,Governor,,DEM,Edmund G. Brown,1
+Sonoma,7204,Governor,,REP,Neel Kashkari,1
+Sonoma,7205,Governor,,DEM,Edmund G. Brown,108
+Sonoma,7205,Governor,,REP,Neel Kashkari,40
+Sonoma,7206,Governor,,DEM,Edmund G. Brown,102
+Sonoma,7206,Governor,,REP,Neel Kashkari,67
+Sonoma,7207,Governor,,DEM,Edmund G. Brown,3
+Sonoma,7207,Governor,,REP,Neel Kashkari,1
+Sonoma,7208,Governor,,DEM,Edmund G. Brown,140
+Sonoma,7208,Governor,,REP,Neel Kashkari,59
+Sonoma,7209,Governor,,DEM,Edmund G. Brown,138
+Sonoma,7209,Governor,,REP,Neel Kashkari,52
+Sonoma,7210,Governor,,DEM,Edmund G. Brown,89
+Sonoma,7210,Governor,,REP,Neel Kashkari,55
+Sonoma,7211,Governor,,DEM,Edmund G. Brown,104
+Sonoma,7211,Governor,,REP,Neel Kashkari,31
+Sonoma,7212,Governor,,DEM,Edmund G. Brown,65
+Sonoma,7212,Governor,,REP,Neel Kashkari,42
+Sonoma,7213,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7213,Governor,,REP,Neel Kashkari,4
+Sonoma,7214,Governor,,DEM,Edmund G. Brown,12
+Sonoma,7214,Governor,,REP,Neel Kashkari,2
+Sonoma,7215,Governor,,DEM,Edmund G. Brown,685
+Sonoma,7215,Governor,,REP,Neel Kashkari,200
+Sonoma,7216,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7216,Governor,,REP,Neel Kashkari,3
+Sonoma,7217,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7217,Governor,,REP,Neel Kashkari,3
+Sonoma,7218,Governor,,DEM,Edmund G. Brown,7
+Sonoma,7218,Governor,,REP,Neel Kashkari,2
+Sonoma,7219,Governor,,DEM,Edmund G. Brown,51
+Sonoma,7219,Governor,,REP,Neel Kashkari,17
+Sonoma,7220,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7220,Governor,,REP,Neel Kashkari,0
+Sonoma,7221,Governor,,DEM,Edmund G. Brown,6
+Sonoma,7221,Governor,,REP,Neel Kashkari,12
+Sonoma,7222,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7222,Governor,,REP,Neel Kashkari,0
+Sonoma,7223,Governor,,DEM,Edmund G. Brown,50
+Sonoma,7223,Governor,,REP,Neel Kashkari,32
+Sonoma,7224,Governor,,DEM,Edmund G. Brown,2
+Sonoma,7224,Governor,,REP,Neel Kashkari,0
+Sonoma,7225,Governor,,DEM,Edmund G. Brown,12
+Sonoma,7225,Governor,,REP,Neel Kashkari,6
+Sonoma,7226,Governor,,DEM,Edmund G. Brown,32
+Sonoma,7226,Governor,,REP,Neel Kashkari,20
+Sonoma,7227,Governor,,DEM,Edmund G. Brown,4
+Sonoma,7227,Governor,,REP,Neel Kashkari,0
+Sonoma,7228,Governor,,DEM,Edmund G. Brown,827
+Sonoma,7228,Governor,,REP,Neel Kashkari,186
+Sonoma,7229,Governor,,DEM,Edmund G. Brown,286
+Sonoma,7229,Governor,,REP,Neel Kashkari,90
+Sonoma,7230,Governor,,DEM,Edmund G. Brown,173
+Sonoma,7230,Governor,,REP,Neel Kashkari,66
+Sonoma,7231,Governor,,DEM,Edmund G. Brown,31
+Sonoma,7231,Governor,,REP,Neel Kashkari,10
+Sonoma,7232,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7232,Governor,,REP,Neel Kashkari,1
+Sonoma,7301,Governor,,DEM,Edmund G. Brown,1
+Sonoma,7301,Governor,,REP,Neel Kashkari,2
+Sonoma,7302,Governor,,DEM,Edmund G. Brown,56
+Sonoma,7302,Governor,,REP,Neel Kashkari,21
+Sonoma,7303,Governor,,DEM,Edmund G. Brown,5
+Sonoma,7303,Governor,,REP,Neel Kashkari,0
+Sonoma,7304,Governor,,DEM,Edmund G. Brown,10
+Sonoma,7304,Governor,,REP,Neel Kashkari,3
+Sonoma,7305,Governor,,DEM,Edmund G. Brown,109
+Sonoma,7305,Governor,,REP,Neel Kashkari,44
+Sonoma,7306,Governor,,DEM,Edmund G. Brown,13
+Sonoma,7306,Governor,,REP,Neel Kashkari,9
+Sonoma,7307,Governor,,DEM,Edmund G. Brown,157
+Sonoma,7307,Governor,,REP,Neel Kashkari,109
+Sonoma,7308,Governor,,DEM,Edmund G. Brown,51
+Sonoma,7308,Governor,,REP,Neel Kashkari,14
+Sonoma,7309,Governor,,DEM,Edmund G. Brown,624
+Sonoma,7309,Governor,,REP,Neel Kashkari,164
+Sonoma,7310,Governor,,DEM,Edmund G. Brown,883
+Sonoma,7310,Governor,,REP,Neel Kashkari,228
+Sonoma,7311,Governor,,DEM,Edmund G. Brown,375
+Sonoma,7311,Governor,,REP,Neel Kashkari,227
+Sonoma,7312,Governor,,DEM,Edmund G. Brown,648
+Sonoma,7312,Governor,,REP,Neel Kashkari,242
+Sonoma,7313,Governor,,DEM,Edmund G. Brown,487
+Sonoma,7313,Governor,,REP,Neel Kashkari,99
+Sonoma,7314,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7314,Governor,,REP,Neel Kashkari,3
+Sonoma,7401,Governor,,DEM,Edmund G. Brown,13
+Sonoma,7401,Governor,,REP,Neel Kashkari,4
+Sonoma,7402,Governor,,DEM,Edmund G. Brown,167
+Sonoma,7402,Governor,,REP,Neel Kashkari,116
+Sonoma,7403,Governor,,DEM,Edmund G. Brown,111
+Sonoma,7403,Governor,,REP,Neel Kashkari,58
+Sonoma,7404,Governor,,DEM,Edmund G. Brown,317
+Sonoma,7404,Governor,,REP,Neel Kashkari,158
+Sonoma,7405,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7405,Governor,,REP,Neel Kashkari,0
+Sonoma,7406,Governor,,DEM,Edmund G. Brown,38
+Sonoma,7406,Governor,,REP,Neel Kashkari,18
+Sonoma,7407,Governor,,DEM,Edmund G. Brown,24
+Sonoma,7407,Governor,,REP,Neel Kashkari,10
+Sonoma,7408,Governor,,DEM,Edmund G. Brown,11
+Sonoma,7408,Governor,,REP,Neel Kashkari,6
+Sonoma,7409,Governor,,DEM,Edmund G. Brown,43
+Sonoma,7409,Governor,,REP,Neel Kashkari,35
+Sonoma,7410,Governor,,DEM,Edmund G. Brown,9
+Sonoma,7410,Governor,,REP,Neel Kashkari,0
+Sonoma,7411,Governor,,DEM,Edmund G. Brown,33
+Sonoma,7411,Governor,,REP,Neel Kashkari,21
+Sonoma,7412,Governor,,DEM,Edmund G. Brown,6
+Sonoma,7412,Governor,,REP,Neel Kashkari,2
+Sonoma,7413,Governor,,DEM,Edmund G. Brown,11
+Sonoma,7413,Governor,,REP,Neel Kashkari,0
+Sonoma,7414,Governor,,DEM,Edmund G. Brown,71
+Sonoma,7414,Governor,,REP,Neel Kashkari,42
+Sonoma,7415,Governor,,DEM,Edmund G. Brown,199
+Sonoma,7415,Governor,,REP,Neel Kashkari,108
+Sonoma,7416,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7416,Governor,,REP,Neel Kashkari,0
+Sonoma,7417,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7417,Governor,,REP,Neel Kashkari,1
+Sonoma,7418,Governor,,DEM,Edmund G. Brown,19
+Sonoma,7418,Governor,,REP,Neel Kashkari,16
+Sonoma,7419,Governor,,DEM,Edmund G. Brown,48
+Sonoma,7419,Governor,,REP,Neel Kashkari,32
+Sonoma,7420,Governor,,DEM,Edmund G. Brown,364
+Sonoma,7420,Governor,,REP,Neel Kashkari,134
+Sonoma,7421,Governor,,DEM,Edmund G. Brown,51
+Sonoma,7421,Governor,,REP,Neel Kashkari,14
+Sonoma,7422,Governor,,DEM,Edmund G. Brown,8
+Sonoma,7422,Governor,,REP,Neel Kashkari,0
+Sonoma,7423,Governor,,DEM,Edmund G. Brown,9
+Sonoma,7423,Governor,,REP,Neel Kashkari,2
+Sonoma,7424,Governor,,DEM,Edmund G. Brown,5
+Sonoma,7424,Governor,,REP,Neel Kashkari,2
+Sonoma,7425,Governor,,DEM,Edmund G. Brown,92
+Sonoma,7425,Governor,,REP,Neel Kashkari,34
+Sonoma,7426,Governor,,DEM,Edmund G. Brown,1
+Sonoma,7426,Governor,,REP,Neel Kashkari,3
+Sonoma,7427,Governor,,DEM,Edmund G. Brown,544
+Sonoma,7427,Governor,,REP,Neel Kashkari,277
+Sonoma,7428,Governor,,DEM,Edmund G. Brown,98
+Sonoma,7428,Governor,,REP,Neel Kashkari,55
+Sonoma,7429,Governor,,DEM,Edmund G. Brown,7
+Sonoma,7429,Governor,,REP,Neel Kashkari,2
+Sonoma,7430,Governor,,DEM,Edmund G. Brown,11
+Sonoma,7430,Governor,,REP,Neel Kashkari,9
+Sonoma,7431,Governor,,DEM,Edmund G. Brown,4
+Sonoma,7431,Governor,,REP,Neel Kashkari,5
+Sonoma,7432,Governor,,DEM,Edmund G. Brown,16
+Sonoma,7432,Governor,,REP,Neel Kashkari,0
+Sonoma,7433,Governor,,DEM,Edmund G. Brown,295
+Sonoma,7433,Governor,,REP,Neel Kashkari,125
+Sonoma,7434,Governor,,DEM,Edmund G. Brown,730
+Sonoma,7434,Governor,,REP,Neel Kashkari,283
+Sonoma,7435,Governor,,DEM,Edmund G. Brown,132
+Sonoma,7435,Governor,,REP,Neel Kashkari,42
+Sonoma,7436,Governor,,DEM,Edmund G. Brown,500
+Sonoma,7436,Governor,,REP,Neel Kashkari,138
+Sonoma,7437,Governor,,DEM,Edmund G. Brown,24
+Sonoma,7437,Governor,,REP,Neel Kashkari,9
+Sonoma,7438,Governor,,DEM,Edmund G. Brown,272
+Sonoma,7438,Governor,,REP,Neel Kashkari,125
+Sonoma,7439,Governor,,DEM,Edmund G. Brown,658
+Sonoma,7439,Governor,,REP,Neel Kashkari,352
+Sonoma,7440,Governor,,DEM,Edmund G. Brown,4
+Sonoma,7440,Governor,,REP,Neel Kashkari,1
+Sonoma,7441,Governor,,DEM,Edmund G. Brown,66
+Sonoma,7441,Governor,,REP,Neel Kashkari,27
+Sonoma,7442,Governor,,DEM,Edmund G. Brown,1
+Sonoma,7442,Governor,,REP,Neel Kashkari,1
+Sonoma,7501,Governor,,DEM,Edmund G. Brown,233
+Sonoma,7501,Governor,,REP,Neel Kashkari,44
+Sonoma,7502,Governor,,DEM,Edmund G. Brown,557
+Sonoma,7502,Governor,,REP,Neel Kashkari,257
+Sonoma,7503,Governor,,DEM,Edmund G. Brown,252
+Sonoma,7503,Governor,,REP,Neel Kashkari,49
+Sonoma,7504,Governor,,DEM,Edmund G. Brown,215
+Sonoma,7504,Governor,,REP,Neel Kashkari,88
+Sonoma,7505,Governor,,DEM,Edmund G. Brown,21
+Sonoma,7505,Governor,,REP,Neel Kashkari,5
+Sonoma,7506,Governor,,DEM,Edmund G. Brown,28
+Sonoma,7506,Governor,,REP,Neel Kashkari,12
+Sonoma,7507,Governor,,DEM,Edmund G. Brown,636
+Sonoma,7507,Governor,,REP,Neel Kashkari,157
+Sonoma,7508,Governor,,DEM,Edmund G. Brown,393
+Sonoma,7508,Governor,,REP,Neel Kashkari,92
+Sonoma,7509,Governor,,DEM,Edmund G. Brown,7
+Sonoma,7509,Governor,,REP,Neel Kashkari,2
+Sonoma,7510,Governor,,DEM,Edmund G. Brown,25
+Sonoma,7510,Governor,,REP,Neel Kashkari,17
+Sonoma,7511,Governor,,DEM,Edmund G. Brown,153
+Sonoma,7511,Governor,,REP,Neel Kashkari,56
+Sonoma,7512,Governor,,DEM,Edmund G. Brown,475
+Sonoma,7512,Governor,,REP,Neel Kashkari,128
+Sonoma,7513,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7513,Governor,,REP,Neel Kashkari,1
+Sonoma,7514,Governor,,DEM,Edmund G. Brown,32
+Sonoma,7514,Governor,,REP,Neel Kashkari,13
+Sonoma,7515,Governor,,DEM,Edmund G. Brown,393
+Sonoma,7515,Governor,,REP,Neel Kashkari,63
+Sonoma,7516,Governor,,DEM,Edmund G. Brown,875
+Sonoma,7516,Governor,,REP,Neel Kashkari,170
+Sonoma,7517,Governor,,DEM,Edmund G. Brown,389
+Sonoma,7517,Governor,,REP,Neel Kashkari,65
+Sonoma,7518,Governor,,DEM,Edmund G. Brown,1000
+Sonoma,7518,Governor,,REP,Neel Kashkari,299
+Sonoma,7519,Governor,,DEM,Edmund G. Brown,617
+Sonoma,7519,Governor,,REP,Neel Kashkari,114
+Sonoma,7520,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7520,Governor,,REP,Neel Kashkari,1
+Sonoma,7521,Governor,,DEM,Edmund G. Brown,41
+Sonoma,7521,Governor,,REP,Neel Kashkari,11
+Sonoma,7522,Governor,,DEM,Edmund G. Brown,23
+Sonoma,7522,Governor,,REP,Neel Kashkari,3
+Sonoma,7523,Governor,,DEM,Edmund G. Brown,78
+Sonoma,7523,Governor,,REP,Neel Kashkari,20
+Sonoma,7524,Governor,,DEM,Edmund G. Brown,24
+Sonoma,7524,Governor,,REP,Neel Kashkari,7
+Sonoma,7525,Governor,,DEM,Edmund G. Brown,8
+Sonoma,7525,Governor,,REP,Neel Kashkari,5
+Sonoma,7526,Governor,,DEM,Edmund G. Brown,24
+Sonoma,7526,Governor,,REP,Neel Kashkari,3
+Sonoma,7527,Governor,,DEM,Edmund G. Brown,863
+Sonoma,7527,Governor,,REP,Neel Kashkari,107
+Sonoma,7528,Governor,,DEM,Edmund G. Brown,697
+Sonoma,7528,Governor,,REP,Neel Kashkari,114
+Sonoma,7529,Governor,,DEM,Edmund G. Brown,44
+Sonoma,7529,Governor,,REP,Neel Kashkari,10
+Sonoma,7530,Governor,,DEM,Edmund G. Brown,138
+Sonoma,7530,Governor,,REP,Neel Kashkari,40
+Sonoma,7531,Governor,,DEM,Edmund G. Brown,32
+Sonoma,7531,Governor,,REP,Neel Kashkari,12
+Sonoma,7532,Governor,,DEM,Edmund G. Brown,563
+Sonoma,7532,Governor,,REP,Neel Kashkari,75
+Sonoma,7533,Governor,,DEM,Edmund G. Brown,71
+Sonoma,7533,Governor,,REP,Neel Kashkari,6
+Sonoma,7534,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7534,Governor,,REP,Neel Kashkari,0
+Sonoma,7535,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7535,Governor,,REP,Neel Kashkari,0
+Sonoma,7536,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7536,Governor,,REP,Neel Kashkari,0
+Sonoma,7537,Governor,,DEM,Edmund G. Brown,16
+Sonoma,7537,Governor,,REP,Neel Kashkari,2
+Sonoma,7538,Governor,,DEM,Edmund G. Brown,0
+Sonoma,7538,Governor,,REP,Neel Kashkari,0
+Sonoma,7539,Governor,,DEM,Edmund G. Brown,2
+Sonoma,7539,Governor,,REP,Neel Kashkari,2
+Sonoma,7540,Governor,,DEM,Edmund G. Brown,41
+Sonoma,7540,Governor,,REP,Neel Kashkari,7
+Sonoma,7541,Governor,,DEM,Edmund G. Brown,3
+Sonoma,7541,Governor,,REP,Neel Kashkari,2
+Sonoma,7542,Governor,,DEM,Edmund G. Brown,19
+Sonoma,7542,Governor,,REP,Neel Kashkari,9
+Sonoma,7543,Governor,,DEM,Edmund G. Brown,368
+Sonoma,7543,Governor,,REP,Neel Kashkari,87
+Sonoma,7544,Governor,,DEM,Edmund G. Brown,252
+Sonoma,7544,Governor,,REP,Neel Kashkari,166
+Sonoma,7545,Governor,,DEM,Edmund G. Brown,233
+Sonoma,7545,Governor,,REP,Neel Kashkari,84
+Sonoma,7546,Governor,,DEM,Edmund G. Brown,191
+Sonoma,7546,Governor,,REP,Neel Kashkari,61
+Sonoma,7547,Governor,,DEM,Edmund G. Brown,508
+Sonoma,7547,Governor,,REP,Neel Kashkari,135
+Sonoma,7548,Governor,,DEM,Edmund G. Brown,15
+Sonoma,7548,Governor,,REP,Neel Kashkari,0
