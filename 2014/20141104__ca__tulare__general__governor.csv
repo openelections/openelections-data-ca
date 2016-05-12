@@ -1,0 +1,443 @@
+county,precinct,office,district,party,candidate,votes
+Tulare,102001,Governor,,DEM,Edmund G. Brown,291
+Tulare,102001,Governor,,REP,Neel Kashkari,661
+Tulare,102004,Governor,,DEM,Edmund G. Brown,177
+Tulare,102004,Governor,,REP,Neel Kashkari,398
+Tulare,102801,Governor,,DEM,Edmund G. Brown,71
+Tulare,102801,Governor,,REP,Neel Kashkari,174
+Tulare,103003,Governor,,DEM,Edmund G. Brown,376
+Tulare,103003,Governor,,REP,Neel Kashkari,229
+Tulare,103801,Governor,,DEM,Edmund G. Brown,191
+Tulare,103801,Governor,,REP,Neel Kashkari,130
+Tulare,106002,Governor,,DEM,Edmund G. Brown,149
+Tulare,106002,Governor,,REP,Neel Kashkari,322
+Tulare,106003,Governor,,DEM,Edmund G. Brown,354
+Tulare,106003,Governor,,REP,Neel Kashkari,753
+Tulare,106004,Governor,,DEM,Edmund G. Brown,253
+Tulare,106004,Governor,,REP,Neel Kashkari,431
+Tulare,106005,Governor,,DEM,Edmund G. Brown,104
+Tulare,106005,Governor,,REP,Neel Kashkari,190
+Tulare,106006,Governor,,DEM,Edmund G. Brown,256
+Tulare,106006,Governor,,REP,Neel Kashkari,463
+Tulare,106801,Governor,,DEM,Edmund G. Brown,4
+Tulare,106801,Governor,,REP,Neel Kashkari,9
+Tulare,106802,Governor,,DEM,Edmund G. Brown,67
+Tulare,106802,Governor,,REP,Neel Kashkari,73
+Tulare,106803,Governor,,DEM,Edmund G. Brown,9
+Tulare,106803,Governor,,REP,Neel Kashkari,5
+Tulare,106901,Governor,,DEM,Edmund G. Brown,253
+Tulare,106901,Governor,,REP,Neel Kashkari,506
+Tulare,106909,Governor,,DEM,Edmund G. Brown,255
+Tulare,106909,Governor,,REP,Neel Kashkari,316
+Tulare,108005,Governor,,DEM,Edmund G. Brown,380
+Tulare,108005,Governor,,REP,Neel Kashkari,273
+Tulare,108801,Governor,,DEM,Edmund G. Brown,81
+Tulare,108801,Governor,,REP,Neel Kashkari,73
+Tulare,108802,Governor,,DEM,Edmund G. Brown,0
+Tulare,108802,Governor,,REP,Neel Kashkari,0
+Tulare,199307,Governor,,DEM,Edmund G. Brown,400
+Tulare,199307,Governor,,REP,Neel Kashkari,414
+Tulare,199801,Governor,,DEM,Edmund G. Brown,28
+Tulare,199801,Governor,,REP,Neel Kashkari,139
+Tulare,199802,Governor,,DEM,Edmund G. Brown,7
+Tulare,199802,Governor,,REP,Neel Kashkari,8
+Tulare,199803,Governor,,DEM,Edmund G. Brown,50
+Tulare,199803,Governor,,REP,Neel Kashkari,214
+Tulare,199804,Governor,,DEM,Edmund G. Brown,26
+Tulare,199804,Governor,,REP,Neel Kashkari,133
+Tulare,199805,Governor,,DEM,Edmund G. Brown,0
+Tulare,199805,Governor,,REP,Neel Kashkari,0
+Tulare,199806,Governor,,DEM,Edmund G. Brown,5
+Tulare,199806,Governor,,REP,Neel Kashkari,46
+Tulare,199807,Governor,,DEM,Edmund G. Brown,0
+Tulare,199807,Governor,,REP,Neel Kashkari,0
+Tulare,199808,Governor,,DEM,Edmund G. Brown,45
+Tulare,199808,Governor,,REP,Neel Kashkari,100
+Tulare,199809,Governor,,DEM,Edmund G. Brown,14
+Tulare,199809,Governor,,REP,Neel Kashkari,54
+Tulare,199810,Governor,,DEM,Edmund G. Brown,85
+Tulare,199810,Governor,,REP,Neel Kashkari,55
+Tulare,199811,Governor,,DEM,Edmund G. Brown,0
+Tulare,199811,Governor,,REP,Neel Kashkari,0
+Tulare,199812,Governor,,DEM,Edmund G. Brown,144
+Tulare,199812,Governor,,REP,Neel Kashkari,255
+Tulare,199813,Governor,,DEM,Edmund G. Brown,0
+Tulare,199813,Governor,,REP,Neel Kashkari,0
+Tulare,199814,Governor,,DEM,Edmund G. Brown,9
+Tulare,199814,Governor,,REP,Neel Kashkari,8
+Tulare,199815,Governor,,DEM,Edmund G. Brown,9
+Tulare,199815,Governor,,REP,Neel Kashkari,19
+Tulare,199816,Governor,,DEM,Edmund G. Brown,45
+Tulare,199816,Governor,,REP,Neel Kashkari,137
+Tulare,199817,Governor,,DEM,Edmund G. Brown,23
+Tulare,199817,Governor,,REP,Neel Kashkari,62
+Tulare,199818,Governor,,DEM,Edmund G. Brown,0
+Tulare,199818,Governor,,REP,Neel Kashkari,0
+Tulare,199819,Governor,,DEM,Edmund G. Brown,10
+Tulare,199819,Governor,,REP,Neel Kashkari,28
+Tulare,199820,Governor,,DEM,Edmund G. Brown,69
+Tulare,199820,Governor,,REP,Neel Kashkari,68
+Tulare,199821,Governor,,DEM,Edmund G. Brown,0
+Tulare,199821,Governor,,REP,Neel Kashkari,0
+Tulare,199822,Governor,,DEM,Edmund G. Brown,22
+Tulare,199822,Governor,,REP,Neel Kashkari,81
+Tulare,199823,Governor,,DEM,Edmund G. Brown,2
+Tulare,199823,Governor,,REP,Neel Kashkari,0
+Tulare,199824,Governor,,DEM,Edmund G. Brown,92
+Tulare,199824,Governor,,REP,Neel Kashkari,281
+Tulare,199825,Governor,,DEM,Edmund G. Brown,125
+Tulare,199825,Governor,,REP,Neel Kashkari,581
+Tulare,199826,Governor,,DEM,Edmund G. Brown,3
+Tulare,199826,Governor,,REP,Neel Kashkari,34
+Tulare,199827,Governor,,DEM,Edmund G. Brown,76
+Tulare,199827,Governor,,REP,Neel Kashkari,117
+Tulare,199828,Governor,,DEM,Edmund G. Brown,0
+Tulare,199828,Governor,,REP,Neel Kashkari,0
+Tulare,199829,Governor,,DEM,Edmund G. Brown,214
+Tulare,199829,Governor,,REP,Neel Kashkari,350
+Tulare,199830,Governor,,DEM,Edmund G. Brown,86
+Tulare,199830,Governor,,REP,Neel Kashkari,178
+Tulare,199831,Governor,,DEM,Edmund G. Brown,5
+Tulare,199831,Governor,,REP,Neel Kashkari,8
+Tulare,199832,Governor,,DEM,Edmund G. Brown,5
+Tulare,199832,Governor,,REP,Neel Kashkari,34
+Tulare,199833,Governor,,DEM,Edmund G. Brown,2
+Tulare,199833,Governor,,REP,Neel Kashkari,1
+Tulare,199834,Governor,,DEM,Edmund G. Brown,0
+Tulare,199834,Governor,,REP,Neel Kashkari,0
+Tulare,205105,Governor,,DEM,Edmund G. Brown,111
+Tulare,205105,Governor,,REP,Neel Kashkari,124
+Tulare,205106,Governor,,DEM,Edmund G. Brown,144
+Tulare,205106,Governor,,REP,Neel Kashkari,85
+Tulare,205113,Governor,,DEM,Edmund G. Brown,42
+Tulare,205113,Governor,,REP,Neel Kashkari,51
+Tulare,205201,Governor,,DEM,Edmund G. Brown,73
+Tulare,205201,Governor,,REP,Neel Kashkari,63
+Tulare,205206,Governor,,DEM,Edmund G. Brown,108
+Tulare,205206,Governor,,REP,Neel Kashkari,67
+Tulare,205214,Governor,,DEM,Edmund G. Brown,113
+Tulare,205214,Governor,,REP,Neel Kashkari,118
+Tulare,205302,Governor,,DEM,Edmund G. Brown,170
+Tulare,205302,Governor,,REP,Neel Kashkari,322
+Tulare,205304,Governor,,DEM,Edmund G. Brown,219
+Tulare,205304,Governor,,REP,Neel Kashkari,413
+Tulare,205308,Governor,,DEM,Edmund G. Brown,89
+Tulare,205308,Governor,,REP,Neel Kashkari,36
+Tulare,205322,Governor,,DEM,Edmund G. Brown,87
+Tulare,205322,Governor,,REP,Neel Kashkari,109
+Tulare,205401,Governor,,DEM,Edmund G. Brown,85
+Tulare,205401,Governor,,REP,Neel Kashkari,242
+Tulare,205404,Governor,,DEM,Edmund G. Brown,58
+Tulare,205404,Governor,,REP,Neel Kashkari,75
+Tulare,205406,Governor,,DEM,Edmund G. Brown,183
+Tulare,205406,Governor,,REP,Neel Kashkari,512
+Tulare,205418,Governor,,DEM,Edmund G. Brown,41
+Tulare,205418,Governor,,REP,Neel Kashkari,123
+Tulare,205432,Governor,,DEM,Edmund G. Brown,61
+Tulare,205432,Governor,,REP,Neel Kashkari,189
+Tulare,205501,Governor,,DEM,Edmund G. Brown,223
+Tulare,205501,Governor,,REP,Neel Kashkari,507
+Tulare,205502,Governor,,DEM,Edmund G. Brown,113
+Tulare,205502,Governor,,REP,Neel Kashkari,169
+Tulare,205506,Governor,,DEM,Edmund G. Brown,116
+Tulare,205506,Governor,,REP,Neel Kashkari,275
+Tulare,205514,Governor,,DEM,Edmund G. Brown,44
+Tulare,205514,Governor,,REP,Neel Kashkari,87
+Tulare,205801,Governor,,DEM,Edmund G. Brown,135
+Tulare,205801,Governor,,REP,Neel Kashkari,162
+Tulare,205802,Governor,,DEM,Edmund G. Brown,84
+Tulare,205802,Governor,,REP,Neel Kashkari,144
+Tulare,205803,Governor,,DEM,Edmund G. Brown,167
+Tulare,205803,Governor,,REP,Neel Kashkari,108
+Tulare,205804,Governor,,DEM,Edmund G. Brown,31
+Tulare,205804,Governor,,REP,Neel Kashkari,25
+Tulare,205805,Governor,,DEM,Edmund G. Brown,4
+Tulare,205805,Governor,,REP,Neel Kashkari,4
+Tulare,205806,Governor,,DEM,Edmund G. Brown,156
+Tulare,205806,Governor,,REP,Neel Kashkari,333
+Tulare,205807,Governor,,DEM,Edmund G. Brown,75
+Tulare,205807,Governor,,REP,Neel Kashkari,97
+Tulare,205808,Governor,,DEM,Edmund G. Brown,23
+Tulare,205808,Governor,,REP,Neel Kashkari,18
+Tulare,205809,Governor,,DEM,Edmund G. Brown,16
+Tulare,205809,Governor,,REP,Neel Kashkari,28
+Tulare,299033,Governor,,DEM,Edmund G. Brown,37
+Tulare,299033,Governor,,REP,Neel Kashkari,42
+Tulare,299701,Governor,,DEM,Edmund G. Brown,104
+Tulare,299701,Governor,,REP,Neel Kashkari,72
+Tulare,299748,Governor,,DEM,Edmund G. Brown,279
+Tulare,299748,Governor,,REP,Neel Kashkari,66
+Tulare,299801,Governor,,DEM,Edmund G. Brown,179
+Tulare,299801,Governor,,REP,Neel Kashkari,546
+Tulare,299802,Governor,,DEM,Edmund G. Brown,77
+Tulare,299802,Governor,,REP,Neel Kashkari,335
+Tulare,299803,Governor,,DEM,Edmund G. Brown,1
+Tulare,299803,Governor,,REP,Neel Kashkari,3
+Tulare,299804,Governor,,DEM,Edmund G. Brown,129
+Tulare,299804,Governor,,REP,Neel Kashkari,219
+Tulare,299805,Governor,,DEM,Edmund G. Brown,1
+Tulare,299805,Governor,,REP,Neel Kashkari,1
+Tulare,299806,Governor,,DEM,Edmund G. Brown,17
+Tulare,299806,Governor,,REP,Neel Kashkari,73
+Tulare,299807,Governor,,DEM,Edmund G. Brown,1
+Tulare,299807,Governor,,REP,Neel Kashkari,4
+Tulare,299808,Governor,,DEM,Edmund G. Brown,16
+Tulare,299808,Governor,,REP,Neel Kashkari,92
+Tulare,299809,Governor,,DEM,Edmund G. Brown,0
+Tulare,299809,Governor,,REP,Neel Kashkari,0
+Tulare,299810,Governor,,DEM,Edmund G. Brown,24
+Tulare,299810,Governor,,REP,Neel Kashkari,96
+Tulare,299811,Governor,,DEM,Edmund G. Brown,1
+Tulare,299811,Governor,,REP,Neel Kashkari,9
+Tulare,299812,Governor,,DEM,Edmund G. Brown,101
+Tulare,299812,Governor,,REP,Neel Kashkari,88
+Tulare,299813,Governor,,DEM,Edmund G. Brown,31
+Tulare,299813,Governor,,REP,Neel Kashkari,19
+Tulare,299814,Governor,,DEM,Edmund G. Brown,30
+Tulare,299814,Governor,,REP,Neel Kashkari,148
+Tulare,299815,Governor,,DEM,Edmund G. Brown,0
+Tulare,299815,Governor,,REP,Neel Kashkari,0
+Tulare,299816,Governor,,DEM,Edmund G. Brown,28
+Tulare,299816,Governor,,REP,Neel Kashkari,55
+Tulare,299817,Governor,,DEM,Edmund G. Brown,0
+Tulare,299817,Governor,,REP,Neel Kashkari,0
+Tulare,306001,Governor,,DEM,Edmund G. Brown,102
+Tulare,306001,Governor,,REP,Neel Kashkari,184
+Tulare,306002,Governor,,DEM,Edmund G. Brown,252
+Tulare,306002,Governor,,REP,Neel Kashkari,457
+Tulare,306006,Governor,,DEM,Edmund G. Brown,110
+Tulare,306006,Governor,,REP,Neel Kashkari,233
+Tulare,306008,Governor,,DEM,Edmund G. Brown,158
+Tulare,306008,Governor,,REP,Neel Kashkari,220
+Tulare,306009,Governor,,DEM,Edmund G. Brown,231
+Tulare,306009,Governor,,REP,Neel Kashkari,364
+Tulare,306011,Governor,,DEM,Edmund G. Brown,211
+Tulare,306011,Governor,,REP,Neel Kashkari,323
+Tulare,306014,Governor,,DEM,Edmund G. Brown,138
+Tulare,306014,Governor,,REP,Neel Kashkari,287
+Tulare,306015,Governor,,DEM,Edmund G. Brown,293
+Tulare,306015,Governor,,REP,Neel Kashkari,522
+Tulare,306017,Governor,,DEM,Edmund G. Brown,220
+Tulare,306017,Governor,,REP,Neel Kashkari,312
+Tulare,306019,Governor,,DEM,Edmund G. Brown,272
+Tulare,306019,Governor,,REP,Neel Kashkari,386
+Tulare,306021,Governor,,DEM,Edmund G. Brown,291
+Tulare,306021,Governor,,REP,Neel Kashkari,520
+Tulare,306028,Governor,,DEM,Edmund G. Brown,187
+Tulare,306028,Governor,,REP,Neel Kashkari,295
+Tulare,306031,Governor,,DEM,Edmund G. Brown,140
+Tulare,306031,Governor,,REP,Neel Kashkari,322
+Tulare,306033,Governor,,DEM,Edmund G. Brown,124
+Tulare,306033,Governor,,REP,Neel Kashkari,206
+Tulare,306034,Governor,,DEM,Edmund G. Brown,253
+Tulare,306034,Governor,,REP,Neel Kashkari,460
+Tulare,306038,Governor,,DEM,Edmund G. Brown,181
+Tulare,306038,Governor,,REP,Neel Kashkari,318
+Tulare,306040,Governor,,DEM,Edmund G. Brown,239
+Tulare,306040,Governor,,REP,Neel Kashkari,380
+Tulare,306043,Governor,,DEM,Edmund G. Brown,194
+Tulare,306043,Governor,,REP,Neel Kashkari,476
+Tulare,306801,Governor,,DEM,Edmund G. Brown,62
+Tulare,306801,Governor,,REP,Neel Kashkari,35
+Tulare,306802,Governor,,DEM,Edmund G. Brown,64
+Tulare,306802,Governor,,REP,Neel Kashkari,77
+Tulare,306803,Governor,,DEM,Edmund G. Brown,62
+Tulare,306803,Governor,,REP,Neel Kashkari,21
+Tulare,306804,Governor,,DEM,Edmund G. Brown,46
+Tulare,306804,Governor,,REP,Neel Kashkari,79
+Tulare,306910,Governor,,DEM,Edmund G. Brown,259
+Tulare,306910,Governor,,REP,Neel Kashkari,452
+Tulare,306912,Governor,,DEM,Edmund G. Brown,311
+Tulare,306912,Governor,,REP,Neel Kashkari,538
+Tulare,306914,Governor,,DEM,Edmund G. Brown,310
+Tulare,306914,Governor,,REP,Neel Kashkari,632
+Tulare,306915,Governor,,DEM,Edmund G. Brown,157
+Tulare,306915,Governor,,REP,Neel Kashkari,114
+Tulare,306918,Governor,,DEM,Edmund G. Brown,125
+Tulare,306918,Governor,,REP,Neel Kashkari,96
+Tulare,306925,Governor,,DEM,Edmund G. Brown,242
+Tulare,306925,Governor,,REP,Neel Kashkari,363
+Tulare,306931,Governor,,DEM,Edmund G. Brown,326
+Tulare,306931,Governor,,REP,Neel Kashkari,861
+Tulare,306951,Governor,,DEM,Edmund G. Brown,217
+Tulare,306951,Governor,,REP,Neel Kashkari,538
+Tulare,306956,Governor,,DEM,Edmund G. Brown,65
+Tulare,306956,Governor,,REP,Neel Kashkari,23
+Tulare,399801,Governor,,DEM,Edmund G. Brown,46
+Tulare,399801,Governor,,REP,Neel Kashkari,229
+Tulare,399802,Governor,,DEM,Edmund G. Brown,10
+Tulare,399802,Governor,,REP,Neel Kashkari,57
+Tulare,399803,Governor,,DEM,Edmund G. Brown,3
+Tulare,399803,Governor,,REP,Neel Kashkari,17
+Tulare,401101,Governor,,DEM,Edmund G. Brown,87
+Tulare,401101,Governor,,REP,Neel Kashkari,25
+Tulare,401203,Governor,,DEM,Edmund G. Brown,105
+Tulare,401203,Governor,,REP,Neel Kashkari,59
+Tulare,401302,Governor,,DEM,Edmund G. Brown,83
+Tulare,401302,Governor,,REP,Neel Kashkari,103
+Tulare,401306,Governor,,DEM,Edmund G. Brown,47
+Tulare,401306,Governor,,REP,Neel Kashkari,68
+Tulare,401401,Governor,,DEM,Edmund G. Brown,177
+Tulare,401401,Governor,,REP,Neel Kashkari,104
+Tulare,401402,Governor,,DEM,Edmund G. Brown,90
+Tulare,401402,Governor,,REP,Neel Kashkari,120
+Tulare,401801,Governor,,DEM,Edmund G. Brown,325
+Tulare,401801,Governor,,REP,Neel Kashkari,335
+Tulare,401802,Governor,,DEM,Edmund G. Brown,94
+Tulare,401802,Governor,,REP,Neel Kashkari,118
+Tulare,401803,Governor,,DEM,Edmund G. Brown,87
+Tulare,401803,Governor,,REP,Neel Kashkari,26
+Tulare,401804,Governor,,DEM,Edmund G. Brown,23
+Tulare,401804,Governor,,REP,Neel Kashkari,11
+Tulare,401805,Governor,,DEM,Edmund G. Brown,83
+Tulare,401805,Governor,,REP,Neel Kashkari,83
+Tulare,401806,Governor,,DEM,Edmund G. Brown,27
+Tulare,401806,Governor,,REP,Neel Kashkari,44
+Tulare,401807,Governor,,DEM,Edmund G. Brown,1
+Tulare,401807,Governor,,REP,Neel Kashkari,6
+Tulare,406801,Governor,,DEM,Edmund G. Brown,36
+Tulare,406801,Governor,,REP,Neel Kashkari,25
+Tulare,406905,Governor,,DEM,Edmund G. Brown,254
+Tulare,406905,Governor,,REP,Neel Kashkari,155
+Tulare,406917,Governor,,DEM,Edmund G. Brown,186
+Tulare,406917,Governor,,REP,Neel Kashkari,302
+Tulare,407002,Governor,,DEM,Edmund G. Brown,383
+Tulare,407002,Governor,,REP,Neel Kashkari,150
+Tulare,407801,Governor,,DEM,Edmund G. Brown,131
+Tulare,407801,Governor,,REP,Neel Kashkari,56
+Tulare,499006,Governor,,DEM,Edmund G. Brown,106
+Tulare,499006,Governor,,REP,Neel Kashkari,62
+Tulare,499044,Governor,,DEM,Edmund G. Brown,38
+Tulare,499044,Governor,,REP,Neel Kashkari,138
+Tulare,499102,Governor,,DEM,Edmund G. Brown,118
+Tulare,499102,Governor,,REP,Neel Kashkari,374
+Tulare,499126,Governor,,DEM,Edmund G. Brown,87
+Tulare,499126,Governor,,REP,Neel Kashkari,18
+Tulare,499132,Governor,,DEM,Edmund G. Brown,74
+Tulare,499132,Governor,,REP,Neel Kashkari,47
+Tulare,499249,Governor,,DEM,Edmund G. Brown,128
+Tulare,499249,Governor,,REP,Neel Kashkari,94
+Tulare,499313,Governor,,DEM,Edmund G. Brown,31
+Tulare,499313,Governor,,REP,Neel Kashkari,115
+Tulare,499801,Governor,,DEM,Edmund G. Brown,20
+Tulare,499801,Governor,,REP,Neel Kashkari,44
+Tulare,499802,Governor,,DEM,Edmund G. Brown,254
+Tulare,499802,Governor,,REP,Neel Kashkari,659
+Tulare,499803,Governor,,DEM,Edmund G. Brown,387
+Tulare,499803,Governor,,REP,Neel Kashkari,446
+Tulare,499804,Governor,,DEM,Edmund G. Brown,226
+Tulare,499804,Governor,,REP,Neel Kashkari,600
+Tulare,499805,Governor,,DEM,Edmund G. Brown,119
+Tulare,499805,Governor,,REP,Neel Kashkari,324
+Tulare,499806,Governor,,DEM,Edmund G. Brown,80
+Tulare,499806,Governor,,REP,Neel Kashkari,216
+Tulare,499807,Governor,,DEM,Edmund G. Brown,0
+Tulare,499807,Governor,,REP,Neel Kashkari,0
+Tulare,499808,Governor,,DEM,Edmund G. Brown,21
+Tulare,499808,Governor,,REP,Neel Kashkari,31
+Tulare,499809,Governor,,DEM,Edmund G. Brown,45
+Tulare,499809,Governor,,REP,Neel Kashkari,93
+Tulare,499810,Governor,,DEM,Edmund G. Brown,130
+Tulare,499810,Governor,,REP,Neel Kashkari,74
+Tulare,499811,Governor,,DEM,Edmund G. Brown,24
+Tulare,499811,Governor,,REP,Neel Kashkari,132
+Tulare,499812,Governor,,DEM,Edmund G. Brown,4
+Tulare,499812,Governor,,REP,Neel Kashkari,16
+Tulare,499813,Governor,,DEM,Edmund G. Brown,27
+Tulare,499813,Governor,,REP,Neel Kashkari,219
+Tulare,499814,Governor,,DEM,Edmund G. Brown,8
+Tulare,499814,Governor,,REP,Neel Kashkari,36
+Tulare,499815,Governor,,DEM,Edmund G. Brown,3
+Tulare,499815,Governor,,REP,Neel Kashkari,31
+Tulare,499816,Governor,,DEM,Edmund G. Brown,0
+Tulare,499816,Governor,,REP,Neel Kashkari,9
+Tulare,499817,Governor,,DEM,Edmund G. Brown,17
+Tulare,499817,Governor,,REP,Neel Kashkari,24
+Tulare,499818,Governor,,DEM,Edmund G. Brown,92
+Tulare,499818,Governor,,REP,Neel Kashkari,88
+Tulare,499819,Governor,,DEM,Edmund G. Brown,13
+Tulare,499819,Governor,,REP,Neel Kashkari,52
+Tulare,499820,Governor,,DEM,Edmund G. Brown,13
+Tulare,499820,Governor,,REP,Neel Kashkari,38
+Tulare,499821,Governor,,DEM,Edmund G. Brown,22
+Tulare,499821,Governor,,REP,Neel Kashkari,72
+Tulare,499822,Governor,,DEM,Edmund G. Brown,0
+Tulare,499822,Governor,,REP,Neel Kashkari,0
+Tulare,504001,Governor,,DEM,Edmund G. Brown,247
+Tulare,504001,Governor,,REP,Neel Kashkari,123
+Tulare,504002,Governor,,DEM,Edmund G. Brown,393
+Tulare,504002,Governor,,REP,Neel Kashkari,402
+Tulare,504005,Governor,,DEM,Edmund G. Brown,263
+Tulare,504005,Governor,,REP,Neel Kashkari,354
+Tulare,504801,Governor,,DEM,Edmund G. Brown,213
+Tulare,504801,Governor,,REP,Neel Kashkari,248
+Tulare,504802,Governor,,DEM,Edmund G. Brown,207
+Tulare,504802,Governor,,REP,Neel Kashkari,254
+Tulare,504803,Governor,,DEM,Edmund G. Brown,265
+Tulare,504803,Governor,,REP,Neel Kashkari,339
+Tulare,504804,Governor,,DEM,Edmund G. Brown,96
+Tulare,504804,Governor,,REP,Neel Kashkari,139
+Tulare,504901,Governor,,DEM,Edmund G. Brown,258
+Tulare,504901,Governor,,REP,Neel Kashkari,337
+Tulare,504904,Governor,,DEM,Edmund G. Brown,112
+Tulare,504904,Governor,,REP,Neel Kashkari,151
+Tulare,504905,Governor,,DEM,Edmund G. Brown,397
+Tulare,504905,Governor,,REP,Neel Kashkari,491
+Tulare,504907,Governor,,DEM,Edmund G. Brown,355
+Tulare,504907,Governor,,REP,Neel Kashkari,540
+Tulare,504935,Governor,,DEM,Edmund G. Brown,113
+Tulare,504935,Governor,,REP,Neel Kashkari,166
+Tulare,504954,Governor,,DEM,Edmund G. Brown,94
+Tulare,504954,Governor,,REP,Neel Kashkari,107
+Tulare,599030,Governor,,DEM,Edmund G. Brown,128
+Tulare,599030,Governor,,REP,Neel Kashkari,106
+Tulare,599306,Governor,,DEM,Edmund G. Brown,345
+Tulare,599306,Governor,,REP,Neel Kashkari,884
+Tulare,599634,Governor,,DEM,Edmund G. Brown,75
+Tulare,599634,Governor,,REP,Neel Kashkari,79
+Tulare,599693,Governor,,DEM,Edmund G. Brown,156
+Tulare,599693,Governor,,REP,Neel Kashkari,18
+Tulare,599801,Governor,,DEM,Edmund G. Brown,226
+Tulare,599801,Governor,,REP,Neel Kashkari,268
+Tulare,599802,Governor,,DEM,Edmund G. Brown,199
+Tulare,599802,Governor,,REP,Neel Kashkari,356
+Tulare,599803,Governor,,DEM,Edmund G. Brown,139
+Tulare,599803,Governor,,REP,Neel Kashkari,279
+Tulare,599804,Governor,,DEM,Edmund G. Brown,36
+Tulare,599804,Governor,,REP,Neel Kashkari,49
+Tulare,599805,Governor,,DEM,Edmund G. Brown,2
+Tulare,599805,Governor,,REP,Neel Kashkari,3
+Tulare,599806,Governor,,DEM,Edmund G. Brown,0
+Tulare,599806,Governor,,REP,Neel Kashkari,6
+Tulare,599807,Governor,,DEM,Edmund G. Brown,105
+Tulare,599807,Governor,,REP,Neel Kashkari,320
+Tulare,599808,Governor,,DEM,Edmund G. Brown,9
+Tulare,599808,Governor,,REP,Neel Kashkari,19
+Tulare,599809,Governor,,DEM,Edmund G. Brown,83
+Tulare,599809,Governor,,REP,Neel Kashkari,177
+Tulare,599810,Governor,,DEM,Edmund G. Brown,0
+Tulare,599810,Governor,,REP,Neel Kashkari,0
+Tulare,599811,Governor,,DEM,Edmund G. Brown,28
+Tulare,599811,Governor,,REP,Neel Kashkari,90
+Tulare,599812,Governor,,DEM,Edmund G. Brown,0
+Tulare,599812,Governor,,REP,Neel Kashkari,3
+Tulare,599813,Governor,,DEM,Edmund G. Brown,11
+Tulare,599813,Governor,,REP,Neel Kashkari,55
+Tulare,599814,Governor,,DEM,Edmund G. Brown,160
+Tulare,599814,Governor,,REP,Neel Kashkari,478
+Tulare,599815,Governor,,DEM,Edmund G. Brown,21
+Tulare,599815,Governor,,REP,Neel Kashkari,23
+Tulare,599816,Governor,,DEM,Edmund G. Brown,0
+Tulare,599816,Governor,,REP,Neel Kashkari,0
+Tulare,599817,Governor,,DEM,Edmund G. Brown,0
+Tulare,599817,Governor,,REP,Neel Kashkari,0
+Tulare,599818,Governor,,DEM,Edmund G. Brown,16
+Tulare,599818,Governor,,REP,Neel Kashkari,25
+Tulare,599819,Governor,,DEM,Edmund G. Brown,49
+Tulare,599819,Governor,,REP,Neel Kashkari,87
+Tulare,599820,Governor,,DEM,Edmund G. Brown,0
+Tulare,599820,Governor,,REP,Neel Kashkari,7
+Tulare,599821,Governor,,DEM,Edmund G. Brown,0
+Tulare,599821,Governor,,REP,Neel Kashkari,1
+Tulare,599822,Governor,,DEM,Edmund G. Brown,1
+Tulare,599822,Governor,,REP,Neel Kashkari,8
