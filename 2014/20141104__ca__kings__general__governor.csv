@@ -1,0 +1,407 @@
+county,precinct,office,district,party,candidate,votes
+Kings,101,Governor,,DEM,Edmund G. Brown,117
+Kings,101,Governor,,REP,Neel Kashkari,224
+Kings,102,Governor,,DEM,Edmund G. Brown,219
+Kings,102,Governor,,REP,Neel Kashkari,242
+Kings,103,Governor,,DEM,Edmund G. Brown,360
+Kings,103,Governor,,REP,Neel Kashkari,574
+Kings,104,Governor,,DEM,Edmund G. Brown,49
+Kings,104,Governor,,REP,Neel Kashkari,105
+Kings,105,Governor,,DEM,Edmund G. Brown,175
+Kings,105,Governor,,REP,Neel Kashkari,301
+Kings,106,Governor,,DEM,Edmund G. Brown,119
+Kings,106,Governor,,REP,Neel Kashkari,167
+Kings,107,Governor,,DEM,Edmund G. Brown,94
+Kings,107,Governor,,REP,Neel Kashkari,46
+Kings,201,Governor,,DEM,Edmund G. Brown,157
+Kings,201,Governor,,REP,Neel Kashkari,75
+Kings,202,Governor,,DEM,Edmund G. Brown,187
+Kings,202,Governor,,REP,Neel Kashkari,187
+Kings,203,Governor,,DEM,Edmund G. Brown,416
+Kings,203,Governor,,REP,Neel Kashkari,136
+Kings,204,Governor,,DEM,Edmund G. Brown,297
+Kings,204,Governor,,REP,Neel Kashkari,146
+Kings,205,Governor,,DEM,Edmund G. Brown,103
+Kings,205,Governor,,REP,Neel Kashkari,37
+Kings,301,Governor,,DEM,Edmund G. Brown,173
+Kings,301,Governor,,REP,Neel Kashkari,306
+Kings,302,Governor,,DEM,Edmund G. Brown,226
+Kings,302,Governor,,REP,Neel Kashkari,406
+Kings,303,Governor,,DEM,Edmund G. Brown,179
+Kings,303,Governor,,REP,Neel Kashkari,320
+Kings,304,Governor,,DEM,Edmund G. Brown,137
+Kings,304,Governor,,REP,Neel Kashkari,276
+Kings,305,Governor,,DEM,Edmund G. Brown,89
+Kings,305,Governor,,REP,Neel Kashkari,118
+Kings,306,Governor,,DEM,Edmund G. Brown,100
+Kings,306,Governor,,REP,Neel Kashkari,183
+Kings,307,Governor,,DEM,Edmund G. Brown,224
+Kings,307,Governor,,REP,Neel Kashkari,367
+Kings,308,Governor,,DEM,Edmund G. Brown,91
+Kings,308,Governor,,REP,Neel Kashkari,112
+Kings,309,Governor,,DEM,Edmund G. Brown,94
+Kings,309,Governor,,REP,Neel Kashkari,377
+Kings,401,Governor,,DEM,Edmund G. Brown,176
+Kings,401,Governor,,REP,Neel Kashkari,243
+Kings,402,Governor,,DEM,Edmund G. Brown,219
+Kings,402,Governor,,REP,Neel Kashkari,418
+Kings,403,Governor,,DEM,Edmund G. Brown,96
+Kings,403,Governor,,REP,Neel Kashkari,143
+Kings,404,Governor,,DEM,Edmund G. Brown,83
+Kings,404,Governor,,REP,Neel Kashkari,32
+Kings,405,Governor,,DEM,Edmund G. Brown,288
+Kings,405,Governor,,REP,Neel Kashkari,225
+Kings,406,Governor,,DEM,Edmund G. Brown,72
+Kings,406,Governor,,REP,Neel Kashkari,37
+Kings,407,Governor,,DEM,Edmund G. Brown,132
+Kings,407,Governor,,REP,Neel Kashkari,195
+Kings,501,Governor,,DEM,Edmund G. Brown,112
+Kings,501,Governor,,REP,Neel Kashkari,250
+Kings,502,Governor,,DEM,Edmund G. Brown,289
+Kings,502,Governor,,REP,Neel Kashkari,658
+Kings,503,Governor,,DEM,Edmund G. Brown,239
+Kings,503,Governor,,REP,Neel Kashkari,517
+Kings,504,Governor,,DEM,Edmund G. Brown,221
+Kings,504,Governor,,REP,Neel Kashkari,466
+Kings,505,Governor,,DEM,Edmund G. Brown,237
+Kings,505,Governor,,REP,Neel Kashkari,384
+Kings,506,Governor,,DEM,Edmund G. Brown,103
+Kings,506,Governor,,REP,Neel Kashkari,98
+Kings,1101,Governor,,DEM,Edmund G. Brown,47
+Kings,1101,Governor,,REP,Neel Kashkari,72
+Kings,1102,Governor,,DEM,Edmund G. Brown,17
+Kings,1102,Governor,,REP,Neel Kashkari,51
+Kings,1103,Governor,,DEM,Edmund G. Brown,40
+Kings,1103,Governor,,REP,Neel Kashkari,98
+Kings,1104,Governor,,DEM,Edmund G. Brown,0
+Kings,1104,Governor,,REP,Neel Kashkari,0
+Kings,1105,Governor,,DEM,Edmund G. Brown,0
+Kings,1105,Governor,,REP,Neel Kashkari,0
+Kings,1106,Governor,,DEM,Edmund G. Brown,19
+Kings,1106,Governor,,REP,Neel Kashkari,60
+Kings,1107,Governor,,DEM,Edmund G. Brown,5
+Kings,1107,Governor,,REP,Neel Kashkari,0
+Kings,1108,Governor,,DEM,Edmund G. Brown,41
+Kings,1108,Governor,,REP,Neel Kashkari,47
+Kings,1109,Governor,,DEM,Edmund G. Brown,3
+Kings,1109,Governor,,REP,Neel Kashkari,11
+Kings,1110,Governor,,DEM,Edmund G. Brown,17
+Kings,1110,Governor,,REP,Neel Kashkari,20
+Kings,1111,Governor,,DEM,Edmund G. Brown,7
+Kings,1111,Governor,,REP,Neel Kashkari,10
+Kings,1112,Governor,,DEM,Edmund G. Brown,3
+Kings,1112,Governor,,REP,Neel Kashkari,36
+Kings,1113,Governor,,DEM,Edmund G. Brown,0
+Kings,1113,Governor,,REP,Neel Kashkari,0
+Kings,1201,Governor,,DEM,Edmund G. Brown,0
+Kings,1201,Governor,,REP,Neel Kashkari,0
+Kings,1202,Governor,,DEM,Edmund G. Brown,1
+Kings,1202,Governor,,REP,Neel Kashkari,2
+Kings,1203,Governor,,DEM,Edmund G. Brown,0
+Kings,1203,Governor,,REP,Neel Kashkari,0
+Kings,1204,Governor,,DEM,Edmund G. Brown,34
+Kings,1204,Governor,,REP,Neel Kashkari,34
+Kings,1205,Governor,,DEM,Edmund G. Brown,0
+Kings,1205,Governor,,REP,Neel Kashkari,4
+Kings,1206,Governor,,DEM,Edmund G. Brown,0
+Kings,1206,Governor,,REP,Neel Kashkari,2
+Kings,1207,Governor,,DEM,Edmund G. Brown,8
+Kings,1207,Governor,,REP,Neel Kashkari,34
+Kings,1208,Governor,,DEM,Edmund G. Brown,38
+Kings,1208,Governor,,REP,Neel Kashkari,12
+Kings,1209,Governor,,DEM,Edmund G. Brown,32
+Kings,1209,Governor,,REP,Neel Kashkari,10
+Kings,1210,Governor,,DEM,Edmund G. Brown,35
+Kings,1210,Governor,,REP,Neel Kashkari,78
+Kings,1211,Governor,,DEM,Edmund G. Brown,1
+Kings,1211,Governor,,REP,Neel Kashkari,0
+Kings,1212,Governor,,DEM,Edmund G. Brown,0
+Kings,1212,Governor,,REP,Neel Kashkari,18
+Kings,1213,Governor,,DEM,Edmund G. Brown,4
+Kings,1213,Governor,,REP,Neel Kashkari,3
+Kings,1214,Governor,,DEM,Edmund G. Brown,0
+Kings,1214,Governor,,REP,Neel Kashkari,0
+Kings,1215,Governor,,DEM,Edmund G. Brown,31
+Kings,1215,Governor,,REP,Neel Kashkari,55
+Kings,1216,Governor,,DEM,Edmund G. Brown,49
+Kings,1216,Governor,,REP,Neel Kashkari,20
+Kings,1217,Governor,,DEM,Edmund G. Brown,30
+Kings,1217,Governor,,REP,Neel Kashkari,25
+Kings,1218,Governor,,DEM,Edmund G. Brown,45
+Kings,1218,Governor,,REP,Neel Kashkari,53
+Kings,1219,Governor,,DEM,Edmund G. Brown,14
+Kings,1219,Governor,,REP,Neel Kashkari,16
+Kings,1220,Governor,,DEM,Edmund G. Brown,9
+Kings,1220,Governor,,REP,Neel Kashkari,17
+Kings,1221,Governor,,DEM,Edmund G. Brown,10
+Kings,1221,Governor,,REP,Neel Kashkari,17
+Kings,1222,Governor,,DEM,Edmund G. Brown,2
+Kings,1222,Governor,,REP,Neel Kashkari,0
+Kings,1223,Governor,,DEM,Edmund G. Brown,0
+Kings,1223,Governor,,REP,Neel Kashkari,1
+Kings,1224,Governor,,DEM,Edmund G. Brown,0
+Kings,1224,Governor,,REP,Neel Kashkari,0
+Kings,1225,Governor,,DEM,Edmund G. Brown,0
+Kings,1225,Governor,,REP,Neel Kashkari,0
+Kings,1226,Governor,,DEM,Edmund G. Brown,9
+Kings,1226,Governor,,REP,Neel Kashkari,1
+Kings,1227,Governor,,DEM,Edmund G. Brown,23
+Kings,1227,Governor,,REP,Neel Kashkari,47
+Kings,1228,Governor,,DEM,Edmund G. Brown,3
+Kings,1228,Governor,,REP,Neel Kashkari,15
+Kings,1229,Governor,,DEM,Edmund G. Brown,0
+Kings,1229,Governor,,REP,Neel Kashkari,23
+Kings,1230,Governor,,DEM,Edmund G. Brown,12
+Kings,1230,Governor,,REP,Neel Kashkari,10
+Kings,1231,Governor,,DEM,Edmund G. Brown,25
+Kings,1231,Governor,,REP,Neel Kashkari,27
+Kings,1232,Governor,,DEM,Edmund G. Brown,1
+Kings,1232,Governor,,REP,Neel Kashkari,4
+Kings,1233,Governor,,DEM,Edmund G. Brown,0
+Kings,1233,Governor,,REP,Neel Kashkari,0
+Kings,1234,Governor,,DEM,Edmund G. Brown,59
+Kings,1234,Governor,,REP,Neel Kashkari,20
+Kings,1235,Governor,,DEM,Edmund G. Brown,3
+Kings,1235,Governor,,REP,Neel Kashkari,10
+Kings,1236,Governor,,DEM,Edmund G. Brown,0
+Kings,1236,Governor,,REP,Neel Kashkari,0
+Kings,1237,Governor,,DEM,Edmund G. Brown,0
+Kings,1237,Governor,,REP,Neel Kashkari,0
+Kings,1301,Governor,,DEM,Edmund G. Brown,30
+Kings,1301,Governor,,REP,Neel Kashkari,82
+Kings,1302,Governor,,DEM,Edmund G. Brown,70
+Kings,1302,Governor,,REP,Neel Kashkari,116
+Kings,1303,Governor,,DEM,Edmund G. Brown,7
+Kings,1303,Governor,,REP,Neel Kashkari,51
+Kings,1304,Governor,,DEM,Edmund G. Brown,0
+Kings,1304,Governor,,REP,Neel Kashkari,1
+Kings,1305,Governor,,DEM,Edmund G. Brown,17
+Kings,1305,Governor,,REP,Neel Kashkari,156
+Kings,1306,Governor,,DEM,Edmund G. Brown,19
+Kings,1306,Governor,,REP,Neel Kashkari,135
+Kings,1307,Governor,,DEM,Edmund G. Brown,7
+Kings,1307,Governor,,REP,Neel Kashkari,74
+Kings,1308,Governor,,DEM,Edmund G. Brown,31
+Kings,1308,Governor,,REP,Neel Kashkari,135
+Kings,1309,Governor,,DEM,Edmund G. Brown,17
+Kings,1309,Governor,,REP,Neel Kashkari,27
+Kings,1310,Governor,,DEM,Edmund G. Brown,9
+Kings,1310,Governor,,REP,Neel Kashkari,15
+Kings,1311,Governor,,DEM,Edmund G. Brown,53
+Kings,1311,Governor,,REP,Neel Kashkari,84
+Kings,1312,Governor,,DEM,Edmund G. Brown,41
+Kings,1312,Governor,,REP,Neel Kashkari,58
+Kings,1313,Governor,,DEM,Edmund G. Brown,9
+Kings,1313,Governor,,REP,Neel Kashkari,10
+Kings,1314,Governor,,DEM,Edmund G. Brown,0
+Kings,1314,Governor,,REP,Neel Kashkari,2
+Kings,1315,Governor,,DEM,Edmund G. Brown,0
+Kings,1315,Governor,,REP,Neel Kashkari,0
+Kings,1316,Governor,,DEM,Edmund G. Brown,19
+Kings,1316,Governor,,REP,Neel Kashkari,61
+Kings,1317,Governor,,DEM,Edmund G. Brown,1
+Kings,1317,Governor,,REP,Neel Kashkari,16
+Kings,1318,Governor,,DEM,Edmund G. Brown,3
+Kings,1318,Governor,,REP,Neel Kashkari,22
+Kings,1319,Governor,,DEM,Edmund G. Brown,0
+Kings,1319,Governor,,REP,Neel Kashkari,0
+Kings,1320,Governor,,DEM,Edmund G. Brown,23
+Kings,1320,Governor,,REP,Neel Kashkari,119
+Kings,1321,Governor,,DEM,Edmund G. Brown,0
+Kings,1321,Governor,,REP,Neel Kashkari,0
+Kings,1322,Governor,,DEM,Edmund G. Brown,0
+Kings,1322,Governor,,REP,Neel Kashkari,4
+Kings,1323,Governor,,DEM,Edmund G. Brown,3
+Kings,1323,Governor,,REP,Neel Kashkari,13
+Kings,1324,Governor,,DEM,Edmund G. Brown,0
+Kings,1324,Governor,,REP,Neel Kashkari,1
+Kings,1325,Governor,,DEM,Edmund G. Brown,6
+Kings,1325,Governor,,REP,Neel Kashkari,46
+Kings,1326,Governor,,DEM,Edmund G. Brown,5
+Kings,1326,Governor,,REP,Neel Kashkari,2
+Kings,1327,Governor,,DEM,Edmund G. Brown,4
+Kings,1327,Governor,,REP,Neel Kashkari,20
+Kings,1328,Governor,,DEM,Edmund G. Brown,3
+Kings,1328,Governor,,REP,Neel Kashkari,11
+Kings,1329,Governor,,DEM,Edmund G. Brown,11
+Kings,1329,Governor,,REP,Neel Kashkari,25
+Kings,1330,Governor,,DEM,Edmund G. Brown,9
+Kings,1330,Governor,,REP,Neel Kashkari,14
+Kings,1401,Governor,,DEM,Edmund G. Brown,4
+Kings,1401,Governor,,REP,Neel Kashkari,5
+Kings,1402,Governor,,DEM,Edmund G. Brown,66
+Kings,1402,Governor,,REP,Neel Kashkari,114
+Kings,1403,Governor,,DEM,Edmund G. Brown,68
+Kings,1403,Governor,,REP,Neel Kashkari,25
+Kings,1404,Governor,,DEM,Edmund G. Brown,13
+Kings,1404,Governor,,REP,Neel Kashkari,4
+Kings,1405,Governor,,DEM,Edmund G. Brown,6
+Kings,1405,Governor,,REP,Neel Kashkari,8
+Kings,1406,Governor,,DEM,Edmund G. Brown,53
+Kings,1406,Governor,,REP,Neel Kashkari,48
+Kings,1407,Governor,,DEM,Edmund G. Brown,49
+Kings,1407,Governor,,REP,Neel Kashkari,37
+Kings,1408,Governor,,DEM,Edmund G. Brown,37
+Kings,1408,Governor,,REP,Neel Kashkari,25
+Kings,1409,Governor,,DEM,Edmund G. Brown,56
+Kings,1409,Governor,,REP,Neel Kashkari,46
+Kings,1410,Governor,,DEM,Edmund G. Brown,69
+Kings,1410,Governor,,REP,Neel Kashkari,67
+Kings,1411,Governor,,DEM,Edmund G. Brown,23
+Kings,1411,Governor,,REP,Neel Kashkari,46
+Kings,1412,Governor,,DEM,Edmund G. Brown,77
+Kings,1412,Governor,,REP,Neel Kashkari,48
+Kings,1413,Governor,,DEM,Edmund G. Brown,16
+Kings,1413,Governor,,REP,Neel Kashkari,19
+Kings,1414,Governor,,DEM,Edmund G. Brown,7
+Kings,1414,Governor,,REP,Neel Kashkari,1
+Kings,1415,Governor,,DEM,Edmund G. Brown,12
+Kings,1415,Governor,,REP,Neel Kashkari,5
+Kings,1416,Governor,,DEM,Edmund G. Brown,1
+Kings,1416,Governor,,REP,Neel Kashkari,3
+Kings,1417,Governor,,DEM,Edmund G. Brown,1
+Kings,1417,Governor,,REP,Neel Kashkari,1
+Kings,1418,Governor,,DEM,Edmund G. Brown,57
+Kings,1418,Governor,,REP,Neel Kashkari,111
+Kings,1419,Governor,,DEM,Edmund G. Brown,8
+Kings,1419,Governor,,REP,Neel Kashkari,8
+Kings,1420,Governor,,DEM,Edmund G. Brown,21
+Kings,1420,Governor,,REP,Neel Kashkari,129
+Kings,1421,Governor,,DEM,Edmund G. Brown,15
+Kings,1421,Governor,,REP,Neel Kashkari,54
+Kings,1422,Governor,,DEM,Edmund G. Brown,1
+Kings,1422,Governor,,REP,Neel Kashkari,9
+Kings,1423,Governor,,DEM,Edmund G. Brown,15
+Kings,1423,Governor,,REP,Neel Kashkari,16
+Kings,1424,Governor,,DEM,Edmund G. Brown,2
+Kings,1424,Governor,,REP,Neel Kashkari,4
+Kings,1425,Governor,,DEM,Edmund G. Brown,0
+Kings,1425,Governor,,REP,Neel Kashkari,8
+Kings,1426,Governor,,DEM,Edmund G. Brown,1
+Kings,1426,Governor,,REP,Neel Kashkari,7
+Kings,1427,Governor,,DEM,Edmund G. Brown,8
+Kings,1427,Governor,,REP,Neel Kashkari,31
+Kings,1428,Governor,,DEM,Edmund G. Brown,20
+Kings,1428,Governor,,REP,Neel Kashkari,41
+Kings,1429,Governor,,DEM,Edmund G. Brown,3
+Kings,1429,Governor,,REP,Neel Kashkari,40
+Kings,1430,Governor,,DEM,Edmund G. Brown,0
+Kings,1430,Governor,,REP,Neel Kashkari,0
+Kings,1431,Governor,,DEM,Edmund G. Brown,11
+Kings,1431,Governor,,REP,Neel Kashkari,27
+Kings,1432,Governor,,DEM,Edmund G. Brown,0
+Kings,1432,Governor,,REP,Neel Kashkari,5
+Kings,1433,Governor,,DEM,Edmund G. Brown,2
+Kings,1433,Governor,,REP,Neel Kashkari,6
+Kings,1434,Governor,,DEM,Edmund G. Brown,4
+Kings,1434,Governor,,REP,Neel Kashkari,14
+Kings,1435,Governor,,DEM,Edmund G. Brown,5
+Kings,1435,Governor,,REP,Neel Kashkari,8
+Kings,1436,Governor,,DEM,Edmund G. Brown,0
+Kings,1436,Governor,,REP,Neel Kashkari,0
+Kings,1437,Governor,,DEM,Edmund G. Brown,0
+Kings,1437,Governor,,REP,Neel Kashkari,0
+Kings,1438,Governor,,DEM,Edmund G. Brown,21
+Kings,1438,Governor,,REP,Neel Kashkari,62
+Kings,1439,Governor,,DEM,Edmund G. Brown,64
+Kings,1439,Governor,,REP,Neel Kashkari,44
+Kings,1440,Governor,,DEM,Edmund G. Brown,15
+Kings,1440,Governor,,REP,Neel Kashkari,24
+Kings,1441,Governor,,DEM,Edmund G. Brown,2
+Kings,1441,Governor,,REP,Neel Kashkari,0
+Kings,1501,Governor,,DEM,Edmund G. Brown,2
+Kings,1501,Governor,,REP,Neel Kashkari,7
+Kings,1502,Governor,,DEM,Edmund G. Brown,37
+Kings,1502,Governor,,REP,Neel Kashkari,55
+Kings,1503,Governor,,DEM,Edmund G. Brown,39
+Kings,1503,Governor,,REP,Neel Kashkari,50
+Kings,1504,Governor,,DEM,Edmund G. Brown,42
+Kings,1504,Governor,,REP,Neel Kashkari,79
+Kings,1505,Governor,,DEM,Edmund G. Brown,44
+Kings,1505,Governor,,REP,Neel Kashkari,25
+Kings,1506,Governor,,DEM,Edmund G. Brown,65
+Kings,1506,Governor,,REP,Neel Kashkari,56
+Kings,1507,Governor,,DEM,Edmund G. Brown,47
+Kings,1507,Governor,,REP,Neel Kashkari,27
+Kings,1508,Governor,,DEM,Edmund G. Brown,3
+Kings,1508,Governor,,REP,Neel Kashkari,4
+Kings,1509,Governor,,DEM,Edmund G. Brown,52
+Kings,1509,Governor,,REP,Neel Kashkari,30
+Kings,1510,Governor,,DEM,Edmund G. Brown,79
+Kings,1510,Governor,,REP,Neel Kashkari,28
+Kings,1511,Governor,,DEM,Edmund G. Brown,33
+Kings,1511,Governor,,REP,Neel Kashkari,10
+Kings,1512,Governor,,DEM,Edmund G. Brown,41
+Kings,1512,Governor,,REP,Neel Kashkari,95
+Kings,1513,Governor,,DEM,Edmund G. Brown,7
+Kings,1513,Governor,,REP,Neel Kashkari,31
+Kings,1514,Governor,,DEM,Edmund G. Brown,51
+Kings,1514,Governor,,REP,Neel Kashkari,102
+Kings,1515,Governor,,DEM,Edmund G. Brown,0
+Kings,1515,Governor,,REP,Neel Kashkari,0
+Kings,1516,Governor,,DEM,Edmund G. Brown,0
+Kings,1516,Governor,,REP,Neel Kashkari,0
+Kings,1517,Governor,,DEM,Edmund G. Brown,73
+Kings,1517,Governor,,REP,Neel Kashkari,65
+Kings,1518,Governor,,DEM,Edmund G. Brown,84
+Kings,1518,Governor,,REP,Neel Kashkari,55
+Kings,1519,Governor,,DEM,Edmund G. Brown,0
+Kings,1519,Governor,,REP,Neel Kashkari,0
+Kings,1520,Governor,,DEM,Edmund G. Brown,0
+Kings,1520,Governor,,REP,Neel Kashkari,0
+Kings,1521,Governor,,DEM,Edmund G. Brown,23
+Kings,1521,Governor,,REP,Neel Kashkari,43
+Kings,1522,Governor,,DEM,Edmund G. Brown,1
+Kings,1522,Governor,,REP,Neel Kashkari,0
+Kings,1523,Governor,,DEM,Edmund G. Brown,21
+Kings,1523,Governor,,REP,Neel Kashkari,101
+Kings,1524,Governor,,DEM,Edmund G. Brown,14
+Kings,1524,Governor,,REP,Neel Kashkari,50
+Kings,1525,Governor,,DEM,Edmund G. Brown,0
+Kings,1525,Governor,,REP,Neel Kashkari,5
+Kings,1526,Governor,,DEM,Edmund G. Brown,4
+Kings,1526,Governor,,REP,Neel Kashkari,27
+Kings,1527,Governor,,DEM,Edmund G. Brown,34
+Kings,1527,Governor,,REP,Neel Kashkari,211
+Kings,1528,Governor,,DEM,Edmund G. Brown,9
+Kings,1528,Governor,,REP,Neel Kashkari,41
+Kings,1529,Governor,,DEM,Edmund G. Brown,3
+Kings,1529,Governor,,REP,Neel Kashkari,16
+Kings,1530,Governor,,DEM,Edmund G. Brown,4
+Kings,1530,Governor,,REP,Neel Kashkari,9
+Kings,1531,Governor,,DEM,Edmund G. Brown,0
+Kings,1531,Governor,,REP,Neel Kashkari,0
+Kings,1532,Governor,,DEM,Edmund G. Brown,5
+Kings,1532,Governor,,REP,Neel Kashkari,2
+Kings,1533,Governor,,DEM,Edmund G. Brown,27
+Kings,1533,Governor,,REP,Neel Kashkari,50
+Kings,1534,Governor,,DEM,Edmund G. Brown,0
+Kings,1534,Governor,,REP,Neel Kashkari,0
+Kings,1535,Governor,,DEM,Edmund G. Brown,30
+Kings,1535,Governor,,REP,Neel Kashkari,52
+Kings,1536,Governor,,DEM,Edmund G. Brown,0
+Kings,1536,Governor,,REP,Neel Kashkari,3
+Kings,1537,Governor,,DEM,Edmund G. Brown,15
+Kings,1537,Governor,,REP,Neel Kashkari,55
+Kings,1538,Governor,,DEM,Edmund G. Brown,14
+Kings,1538,Governor,,REP,Neel Kashkari,43
+Kings,1539,Governor,,DEM,Edmund G. Brown,0
+Kings,1539,Governor,,REP,Neel Kashkari,0
+Kings,1540,Governor,,DEM,Edmund G. Brown,11
+Kings,1540,Governor,,REP,Neel Kashkari,13
+Kings,1541,Governor,,DEM,Edmund G. Brown,0
+Kings,1541,Governor,,REP,Neel Kashkari,1
+Kings,1542,Governor,,DEM,Edmund G. Brown,26
+Kings,1542,Governor,,REP,Neel Kashkari,155
+Kings,1543,Governor,,DEM,Edmund G. Brown,0
+Kings,1543,Governor,,REP,Neel Kashkari,0
+Kings,1544,Governor,,DEM,Edmund G. Brown,15
+Kings,1544,Governor,,REP,Neel Kashkari,104
+Kings,1545,Governor,,DEM,Edmund G. Brown,16
+Kings,1545,Governor,,REP,Neel Kashkari,64
+Kings,1546,Governor,,DEM,Edmund G. Brown,0
+Kings,1546,Governor,,REP,Neel Kashkari,0
+Kings,1547,Governor,,DEM,Edmund G. Brown,1
+Kings,1547,Governor,,REP,Neel Kashkari,19
+Kings,1548,Governor,,DEM,Edmund G. Brown,0
+Kings,1548,Governor,,REP,Neel Kashkari,8
