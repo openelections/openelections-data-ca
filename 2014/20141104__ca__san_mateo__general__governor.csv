@@ -1,0 +1,951 @@
+county,precinct,office,district,party,candidate,votes
+San Mateo,1001,Governor,,DEM,Edmund G. Brown,410
+San Mateo,1001,Governor,,REP,Neel Kashkari,106
+San Mateo,1002,Governor,,DEM,Edmund G. Brown,301
+San Mateo,1002,Governor,,REP,Neel Kashkari,94
+San Mateo,1003,Governor,,DEM,Edmund G. Brown,441
+San Mateo,1003,Governor,,REP,Neel Kashkari,169
+San Mateo,1005,Governor,,DEM,Edmund G. Brown,380
+San Mateo,1005,Governor,,REP,Neel Kashkari,169
+San Mateo,1007,Governor,,DEM,Edmund G. Brown,234
+San Mateo,1007,Governor,,REP,Neel Kashkari,67
+San Mateo,1008,Governor,,DEM,Edmund G. Brown,456
+San Mateo,1008,Governor,,REP,Neel Kashkari,135
+San Mateo,1009,Governor,,DEM,Edmund G. Brown,225
+San Mateo,1009,Governor,,REP,Neel Kashkari,125
+San Mateo,1011,Governor,,DEM,Edmund G. Brown,226
+San Mateo,1011,Governor,,REP,Neel Kashkari,64
+San Mateo,1012,Governor,,DEM,Edmund G. Brown,316
+San Mateo,1012,Governor,,REP,Neel Kashkari,66
+San Mateo,1013,Governor,,DEM,Edmund G. Brown,349
+San Mateo,1013,Governor,,REP,Neel Kashkari,120
+San Mateo,1015,Governor,,DEM,Edmund G. Brown,271
+San Mateo,1015,Governor,,REP,Neel Kashkari,109
+San Mateo,1016,Governor,,DEM,Edmund G. Brown,302
+San Mateo,1016,Governor,,REP,Neel Kashkari,103
+San Mateo,1017,Governor,,DEM,Edmund G. Brown,402
+San Mateo,1017,Governor,,REP,Neel Kashkari,160
+San Mateo,1018,Governor,,DEM,Edmund G. Brown,370
+San Mateo,1018,Governor,,REP,Neel Kashkari,134
+San Mateo,1019,Governor,,DEM,Edmund G. Brown,328
+San Mateo,1019,Governor,,REP,Neel Kashkari,174
+San Mateo,1020,Governor,,DEM,Edmund G. Brown,182
+San Mateo,1020,Governor,,REP,Neel Kashkari,55
+San Mateo,1021,Governor,,DEM,Edmund G. Brown,544
+San Mateo,1021,Governor,,REP,Neel Kashkari,286
+San Mateo,1201,Governor,,DEM,Edmund G. Brown,53
+San Mateo,1201,Governor,,REP,Neel Kashkari,23
+San Mateo,1202,Governor,,DEM,Edmund G. Brown,56
+San Mateo,1202,Governor,,REP,Neel Kashkari,50
+San Mateo,1203,Governor,,DEM,Edmund G. Brown,33
+San Mateo,1203,Governor,,REP,Neel Kashkari,10
+San Mateo,1204,Governor,,DEM,Edmund G. Brown,59
+San Mateo,1204,Governor,,REP,Neel Kashkari,22
+San Mateo,1205,Governor,,DEM,Edmund G. Brown,9
+San Mateo,1205,Governor,,REP,Neel Kashkari,5
+San Mateo,1206,Governor,,DEM,Edmund G. Brown,39
+San Mateo,1206,Governor,,REP,Neel Kashkari,29
+San Mateo,1302,Governor,,DEM,Edmund G. Brown,0
+San Mateo,1302,Governor,,REP,Neel Kashkari,0
+San Mateo,1303,Governor,,DEM,Edmund G. Brown,0
+San Mateo,1303,Governor,,REP,Neel Kashkari,0
+San Mateo,1304,Governor,,DEM,Edmund G. Brown,0
+San Mateo,1304,Governor,,REP,Neel Kashkari,0
+San Mateo,1401,Governor,,DEM,Edmund G. Brown,179
+San Mateo,1401,Governor,,REP,Neel Kashkari,207
+San Mateo,1402,Governor,,DEM,Edmund G. Brown,63
+San Mateo,1402,Governor,,REP,Neel Kashkari,52
+San Mateo,1403,Governor,,DEM,Edmund G. Brown,518
+San Mateo,1403,Governor,,REP,Neel Kashkari,432
+San Mateo,1406,Governor,,DEM,Edmund G. Brown,180
+San Mateo,1406,Governor,,REP,Neel Kashkari,175
+San Mateo,1407,Governor,,DEM,Edmund G. Brown,468
+San Mateo,1407,Governor,,REP,Neel Kashkari,368
+San Mateo,1409,Governor,,DEM,Edmund G. Brown,217
+San Mateo,1409,Governor,,REP,Neel Kashkari,151
+San Mateo,1410,Governor,,DEM,Edmund G. Brown,148
+San Mateo,1410,Governor,,REP,Neel Kashkari,97
+San Mateo,1411,Governor,,DEM,Edmund G. Brown,205
+San Mateo,1411,Governor,,REP,Neel Kashkari,159
+San Mateo,1501,Governor,,DEM,Edmund G. Brown,223
+San Mateo,1501,Governor,,REP,Neel Kashkari,83
+San Mateo,1502,Governor,,DEM,Edmund G. Brown,243
+San Mateo,1502,Governor,,REP,Neel Kashkari,57
+San Mateo,1503,Governor,,DEM,Edmund G. Brown,436
+San Mateo,1503,Governor,,REP,Neel Kashkari,252
+San Mateo,1506,Governor,,DEM,Edmund G. Brown,306
+San Mateo,1506,Governor,,REP,Neel Kashkari,138
+San Mateo,1507,Governor,,DEM,Edmund G. Brown,271
+San Mateo,1507,Governor,,REP,Neel Kashkari,130
+San Mateo,1508,Governor,,DEM,Edmund G. Brown,308
+San Mateo,1508,Governor,,REP,Neel Kashkari,94
+San Mateo,1509,Governor,,DEM,Edmund G. Brown,287
+San Mateo,1509,Governor,,REP,Neel Kashkari,100
+San Mateo,1510,Governor,,DEM,Edmund G. Brown,207
+San Mateo,1510,Governor,,REP,Neel Kashkari,68
+San Mateo,1511,Governor,,DEM,Edmund G. Brown,205
+San Mateo,1511,Governor,,REP,Neel Kashkari,68
+San Mateo,1512,Governor,,DEM,Edmund G. Brown,329
+San Mateo,1512,Governor,,REP,Neel Kashkari,120
+San Mateo,1514,Governor,,DEM,Edmund G. Brown,293
+San Mateo,1514,Governor,,REP,Neel Kashkari,138
+San Mateo,1515,Governor,,DEM,Edmund G. Brown,269
+San Mateo,1515,Governor,,REP,Neel Kashkari,167
+San Mateo,1601,Governor,,DEM,Edmund G. Brown,367
+San Mateo,1601,Governor,,REP,Neel Kashkari,77
+San Mateo,1603,Governor,,DEM,Edmund G. Brown,210
+San Mateo,1603,Governor,,REP,Neel Kashkari,42
+San Mateo,1604,Governor,,DEM,Edmund G. Brown,306
+San Mateo,1604,Governor,,REP,Neel Kashkari,57
+San Mateo,1605,Governor,,DEM,Edmund G. Brown,217
+San Mateo,1605,Governor,,REP,Neel Kashkari,60
+San Mateo,1606,Governor,,DEM,Edmund G. Brown,297
+San Mateo,1606,Governor,,REP,Neel Kashkari,103
+San Mateo,1607,Governor,,DEM,Edmund G. Brown,245
+San Mateo,1607,Governor,,REP,Neel Kashkari,73
+San Mateo,1608,Governor,,DEM,Edmund G. Brown,324
+San Mateo,1608,Governor,,REP,Neel Kashkari,96
+San Mateo,1610,Governor,,DEM,Edmund G. Brown,348
+San Mateo,1610,Governor,,REP,Neel Kashkari,84
+San Mateo,1612,Governor,,DEM,Edmund G. Brown,354
+San Mateo,1612,Governor,,REP,Neel Kashkari,99
+San Mateo,1613,Governor,,DEM,Edmund G. Brown,373
+San Mateo,1613,Governor,,REP,Neel Kashkari,75
+San Mateo,1614,Governor,,DEM,Edmund G. Brown,320
+San Mateo,1614,Governor,,REP,Neel Kashkari,104
+San Mateo,1617,Governor,,DEM,Edmund G. Brown,557
+San Mateo,1617,Governor,,REP,Neel Kashkari,231
+San Mateo,1619,Governor,,DEM,Edmund G. Brown,451
+San Mateo,1619,Governor,,REP,Neel Kashkari,167
+San Mateo,1701,Governor,,DEM,Edmund G. Brown,322
+San Mateo,1701,Governor,,REP,Neel Kashkari,197
+San Mateo,1703,Governor,,DEM,Edmund G. Brown,294
+San Mateo,1703,Governor,,REP,Neel Kashkari,85
+San Mateo,1704,Governor,,DEM,Edmund G. Brown,368
+San Mateo,1704,Governor,,REP,Neel Kashkari,72
+San Mateo,1705,Governor,,DEM,Edmund G. Brown,0
+San Mateo,1705,Governor,,REP,Neel Kashkari,0
+San Mateo,1706,Governor,,DEM,Edmund G. Brown,78
+San Mateo,1706,Governor,,REP,Neel Kashkari,34
+San Mateo,1801,Governor,,DEM,Edmund G. Brown,414
+San Mateo,1801,Governor,,REP,Neel Kashkari,97
+San Mateo,1802,Governor,,DEM,Edmund G. Brown,310
+San Mateo,1802,Governor,,REP,Neel Kashkari,95
+San Mateo,1803,Governor,,DEM,Edmund G. Brown,226
+San Mateo,1803,Governor,,REP,Neel Kashkari,81
+San Mateo,1806,Governor,,DEM,Edmund G. Brown,540
+San Mateo,1806,Governor,,REP,Neel Kashkari,144
+San Mateo,1807,Governor,,DEM,Edmund G. Brown,435
+San Mateo,1807,Governor,,REP,Neel Kashkari,101
+San Mateo,1810,Governor,,DEM,Edmund G. Brown,328
+San Mateo,1810,Governor,,REP,Neel Kashkari,76
+San Mateo,1813,Governor,,DEM,Edmund G. Brown,227
+San Mateo,1813,Governor,,REP,Neel Kashkari,36
+San Mateo,1814,Governor,,DEM,Edmund G. Brown,230
+San Mateo,1814,Governor,,REP,Neel Kashkari,36
+San Mateo,1815,Governor,,DEM,Edmund G. Brown,446
+San Mateo,1815,Governor,,REP,Neel Kashkari,86
+San Mateo,1818,Governor,,DEM,Edmund G. Brown,255
+San Mateo,1818,Governor,,REP,Neel Kashkari,51
+San Mateo,1819,Governor,,DEM,Edmund G. Brown,441
+San Mateo,1819,Governor,,REP,Neel Kashkari,130
+San Mateo,1820,Governor,,DEM,Edmund G. Brown,69
+San Mateo,1820,Governor,,REP,Neel Kashkari,15
+San Mateo,1821,Governor,,DEM,Edmund G. Brown,505
+San Mateo,1821,Governor,,REP,Neel Kashkari,131
+San Mateo,1824,Governor,,DEM,Edmund G. Brown,275
+San Mateo,1824,Governor,,REP,Neel Kashkari,93
+San Mateo,1833,Governor,,DEM,Edmund G. Brown,400
+San Mateo,1833,Governor,,REP,Neel Kashkari,108
+San Mateo,1835,Governor,,DEM,Edmund G. Brown,472
+San Mateo,1835,Governor,,REP,Neel Kashkari,102
+San Mateo,1837,Governor,,DEM,Edmund G. Brown,279
+San Mateo,1837,Governor,,REP,Neel Kashkari,84
+San Mateo,1838,Governor,,DEM,Edmund G. Brown,22
+San Mateo,1838,Governor,,REP,Neel Kashkari,13
+San Mateo,1902,Governor,,DEM,Edmund G. Brown,0
+San Mateo,1902,Governor,,REP,Neel Kashkari,0
+San Mateo,1903,Governor,,DEM,Edmund G. Brown,34
+San Mateo,1903,Governor,,REP,Neel Kashkari,14
+San Mateo,2101,Governor,,DEM,Edmund G. Brown,89
+San Mateo,2101,Governor,,REP,Neel Kashkari,40
+San Mateo,2104,Governor,,DEM,Edmund G. Brown,159
+San Mateo,2104,Governor,,REP,Neel Kashkari,54
+San Mateo,2106,Governor,,DEM,Edmund G. Brown,336
+San Mateo,2106,Governor,,REP,Neel Kashkari,117
+San Mateo,2107,Governor,,DEM,Edmund G. Brown,602
+San Mateo,2107,Governor,,REP,Neel Kashkari,164
+San Mateo,2110,Governor,,DEM,Edmund G. Brown,301
+San Mateo,2110,Governor,,REP,Neel Kashkari,90
+San Mateo,2111,Governor,,DEM,Edmund G. Brown,315
+San Mateo,2111,Governor,,REP,Neel Kashkari,104
+San Mateo,2112,Governor,,DEM,Edmund G. Brown,316
+San Mateo,2112,Governor,,REP,Neel Kashkari,110
+San Mateo,2113,Governor,,DEM,Edmund G. Brown,577
+San Mateo,2113,Governor,,REP,Neel Kashkari,231
+San Mateo,2115,Governor,,DEM,Edmund G. Brown,523
+San Mateo,2115,Governor,,REP,Neel Kashkari,236
+San Mateo,2117,Governor,,DEM,Edmund G. Brown,389
+San Mateo,2117,Governor,,REP,Neel Kashkari,91
+San Mateo,2122,Governor,,DEM,Edmund G. Brown,9
+San Mateo,2122,Governor,,REP,Neel Kashkari,1
+San Mateo,2131,Governor,,DEM,Edmund G. Brown,245
+San Mateo,2131,Governor,,REP,Neel Kashkari,76
+San Mateo,2132,Governor,,DEM,Edmund G. Brown,321
+San Mateo,2132,Governor,,REP,Neel Kashkari,114
+San Mateo,2133,Governor,,DEM,Edmund G. Brown,218
+San Mateo,2133,Governor,,REP,Neel Kashkari,55
+San Mateo,2134,Governor,,DEM,Edmund G. Brown,219
+San Mateo,2134,Governor,,REP,Neel Kashkari,91
+San Mateo,2201,Governor,,DEM,Edmund G. Brown,410
+San Mateo,2201,Governor,,REP,Neel Kashkari,138
+San Mateo,2203,Governor,,DEM,Edmund G. Brown,340
+San Mateo,2203,Governor,,REP,Neel Kashkari,143
+San Mateo,2204,Governor,,DEM,Edmund G. Brown,411
+San Mateo,2204,Governor,,REP,Neel Kashkari,147
+San Mateo,2205,Governor,,DEM,Edmund G. Brown,311
+San Mateo,2205,Governor,,REP,Neel Kashkari,137
+San Mateo,2207,Governor,,DEM,Edmund G. Brown,489
+San Mateo,2207,Governor,,REP,Neel Kashkari,156
+San Mateo,2210,Governor,,DEM,Edmund G. Brown,433
+San Mateo,2210,Governor,,REP,Neel Kashkari,143
+San Mateo,2214,Governor,,DEM,Edmund G. Brown,326
+San Mateo,2214,Governor,,REP,Neel Kashkari,99
+San Mateo,2215,Governor,,DEM,Edmund G. Brown,550
+San Mateo,2215,Governor,,REP,Neel Kashkari,205
+San Mateo,2217,Governor,,DEM,Edmund G. Brown,498
+San Mateo,2217,Governor,,REP,Neel Kashkari,146
+San Mateo,2221,Governor,,DEM,Edmund G. Brown,244
+San Mateo,2221,Governor,,REP,Neel Kashkari,106
+San Mateo,2222,Governor,,DEM,Edmund G. Brown,281
+San Mateo,2222,Governor,,REP,Neel Kashkari,93
+San Mateo,2223,Governor,,DEM,Edmund G. Brown,219
+San Mateo,2223,Governor,,REP,Neel Kashkari,77
+San Mateo,2224,Governor,,DEM,Edmund G. Brown,285
+San Mateo,2224,Governor,,REP,Neel Kashkari,92
+San Mateo,2225,Governor,,DEM,Edmund G. Brown,187
+San Mateo,2225,Governor,,REP,Neel Kashkari,61
+San Mateo,2601,Governor,,DEM,Edmund G. Brown,560
+San Mateo,2601,Governor,,REP,Neel Kashkari,135
+San Mateo,2603,Governor,,DEM,Edmund G. Brown,224
+San Mateo,2603,Governor,,REP,Neel Kashkari,51
+San Mateo,2604,Governor,,DEM,Edmund G. Brown,225
+San Mateo,2604,Governor,,REP,Neel Kashkari,53
+San Mateo,2605,Governor,,DEM,Edmund G. Brown,397
+San Mateo,2605,Governor,,REP,Neel Kashkari,129
+San Mateo,2607,Governor,,DEM,Edmund G. Brown,226
+San Mateo,2607,Governor,,REP,Neel Kashkari,75
+San Mateo,2608,Governor,,DEM,Edmund G. Brown,235
+San Mateo,2608,Governor,,REP,Neel Kashkari,65
+San Mateo,2609,Governor,,DEM,Edmund G. Brown,248
+San Mateo,2609,Governor,,REP,Neel Kashkari,118
+San Mateo,2610,Governor,,DEM,Edmund G. Brown,325
+San Mateo,2610,Governor,,REP,Neel Kashkari,119
+San Mateo,2611,Governor,,DEM,Edmund G. Brown,224
+San Mateo,2611,Governor,,REP,Neel Kashkari,64
+San Mateo,2612,Governor,,DEM,Edmund G. Brown,314
+San Mateo,2612,Governor,,REP,Neel Kashkari,109
+San Mateo,2614,Governor,,DEM,Edmund G. Brown,354
+San Mateo,2614,Governor,,REP,Neel Kashkari,125
+San Mateo,2616,Governor,,DEM,Edmund G. Brown,356
+San Mateo,2616,Governor,,REP,Neel Kashkari,124
+San Mateo,2618,Governor,,DEM,Edmund G. Brown,451
+San Mateo,2618,Governor,,REP,Neel Kashkari,152
+San Mateo,2620,Governor,,DEM,Edmund G. Brown,254
+San Mateo,2620,Governor,,REP,Neel Kashkari,45
+San Mateo,2621,Governor,,DEM,Edmund G. Brown,259
+San Mateo,2621,Governor,,REP,Neel Kashkari,79
+San Mateo,2622,Governor,,DEM,Edmund G. Brown,412
+San Mateo,2622,Governor,,REP,Neel Kashkari,92
+San Mateo,2624,Governor,,DEM,Edmund G. Brown,244
+San Mateo,2624,Governor,,REP,Neel Kashkari,82
+San Mateo,2625,Governor,,DEM,Edmund G. Brown,320
+San Mateo,2625,Governor,,REP,Neel Kashkari,72
+San Mateo,2626,Governor,,DEM,Edmund G. Brown,443
+San Mateo,2626,Governor,,REP,Neel Kashkari,136
+San Mateo,2627,Governor,,DEM,Edmund G. Brown,279
+San Mateo,2627,Governor,,REP,Neel Kashkari,81
+San Mateo,2628,Governor,,DEM,Edmund G. Brown,286
+San Mateo,2628,Governor,,REP,Neel Kashkari,62
+San Mateo,2629,Governor,,DEM,Edmund G. Brown,366
+San Mateo,2629,Governor,,REP,Neel Kashkari,30
+San Mateo,2631,Governor,,DEM,Edmund G. Brown,435
+San Mateo,2631,Governor,,REP,Neel Kashkari,103
+San Mateo,2633,Governor,,DEM,Edmund G. Brown,203
+San Mateo,2633,Governor,,REP,Neel Kashkari,51
+San Mateo,2634,Governor,,DEM,Edmund G. Brown,262
+San Mateo,2634,Governor,,REP,Neel Kashkari,83
+San Mateo,2636,Governor,,DEM,Edmund G. Brown,330
+San Mateo,2636,Governor,,REP,Neel Kashkari,80
+San Mateo,2637,Governor,,DEM,Edmund G. Brown,271
+San Mateo,2637,Governor,,REP,Neel Kashkari,60
+San Mateo,2638,Governor,,DEM,Edmund G. Brown,271
+San Mateo,2638,Governor,,REP,Neel Kashkari,143
+San Mateo,2639,Governor,,DEM,Edmund G. Brown,301
+San Mateo,2639,Governor,,REP,Neel Kashkari,165
+San Mateo,2644,Governor,,DEM,Edmund G. Brown,219
+San Mateo,2644,Governor,,REP,Neel Kashkari,100
+San Mateo,2646,Governor,,DEM,Edmund G. Brown,445
+San Mateo,2646,Governor,,REP,Neel Kashkari,206
+San Mateo,2648,Governor,,DEM,Edmund G. Brown,482
+San Mateo,2648,Governor,,REP,Neel Kashkari,130
+San Mateo,2650,Governor,,DEM,Edmund G. Brown,425
+San Mateo,2650,Governor,,REP,Neel Kashkari,162
+San Mateo,2651,Governor,,DEM,Edmund G. Brown,269
+San Mateo,2651,Governor,,REP,Neel Kashkari,90
+San Mateo,2652,Governor,,DEM,Edmund G. Brown,272
+San Mateo,2652,Governor,,REP,Neel Kashkari,94
+San Mateo,2653,Governor,,DEM,Edmund G. Brown,256
+San Mateo,2653,Governor,,REP,Neel Kashkari,89
+San Mateo,2654,Governor,,DEM,Edmund G. Brown,422
+San Mateo,2654,Governor,,REP,Neel Kashkari,125
+San Mateo,2655,Governor,,DEM,Edmund G. Brown,416
+San Mateo,2655,Governor,,REP,Neel Kashkari,93
+San Mateo,2657,Governor,,DEM,Edmund G. Brown,520
+San Mateo,2657,Governor,,REP,Neel Kashkari,192
+San Mateo,2659,Governor,,DEM,Edmund G. Brown,232
+San Mateo,2659,Governor,,REP,Neel Kashkari,77
+San Mateo,2661,Governor,,DEM,Edmund G. Brown,266
+San Mateo,2661,Governor,,REP,Neel Kashkari,92
+San Mateo,2662,Governor,,DEM,Edmund G. Brown,408
+San Mateo,2662,Governor,,REP,Neel Kashkari,159
+San Mateo,2663,Governor,,DEM,Edmund G. Brown,354
+San Mateo,2663,Governor,,REP,Neel Kashkari,126
+San Mateo,2664,Governor,,DEM,Edmund G. Brown,51
+San Mateo,2664,Governor,,REP,Neel Kashkari,47
+San Mateo,2667,Governor,,DEM,Edmund G. Brown,346
+San Mateo,2667,Governor,,REP,Neel Kashkari,130
+San Mateo,2670,Governor,,DEM,Edmund G. Brown,450
+San Mateo,2670,Governor,,REP,Neel Kashkari,247
+San Mateo,2671,Governor,,DEM,Edmund G. Brown,471
+San Mateo,2671,Governor,,REP,Neel Kashkari,195
+San Mateo,2675,Governor,,DEM,Edmund G. Brown,73
+San Mateo,2675,Governor,,REP,Neel Kashkari,26
+San Mateo,2676,Governor,,DEM,Edmund G. Brown,61
+San Mateo,2676,Governor,,REP,Neel Kashkari,33
+San Mateo,2677,Governor,,DEM,Edmund G. Brown,36
+San Mateo,2677,Governor,,REP,Neel Kashkari,12
+San Mateo,2678,Governor,,DEM,Edmund G. Brown,50
+San Mateo,2678,Governor,,REP,Neel Kashkari,16
+San Mateo,2679,Governor,,DEM,Edmund G. Brown,272
+San Mateo,2679,Governor,,REP,Neel Kashkari,125
+San Mateo,2701,Governor,,DEM,Edmund G. Brown,0
+San Mateo,2701,Governor,,REP,Neel Kashkari,0
+San Mateo,3001,Governor,,DEM,Edmund G. Brown,153
+San Mateo,3001,Governor,,REP,Neel Kashkari,137
+San Mateo,3002,Governor,,DEM,Edmund G. Brown,281
+San Mateo,3002,Governor,,REP,Neel Kashkari,264
+San Mateo,3004,Governor,,DEM,Edmund G. Brown,66
+San Mateo,3004,Governor,,REP,Neel Kashkari,56
+San Mateo,3005,Governor,,DEM,Edmund G. Brown,206
+San Mateo,3005,Governor,,REP,Neel Kashkari,261
+San Mateo,3006,Governor,,DEM,Edmund G. Brown,292
+San Mateo,3006,Governor,,REP,Neel Kashkari,286
+San Mateo,3008,Governor,,DEM,Edmund G. Brown,179
+San Mateo,3008,Governor,,REP,Neel Kashkari,236
+San Mateo,3009,Governor,,DEM,Edmund G. Brown,72
+San Mateo,3009,Governor,,REP,Neel Kashkari,33
+San Mateo,3010,Governor,,DEM,Edmund G. Brown,52
+San Mateo,3010,Governor,,REP,Neel Kashkari,40
+San Mateo,3102,Governor,,DEM,Edmund G. Brown,304
+San Mateo,3102,Governor,,REP,Neel Kashkari,104
+San Mateo,3103,Governor,,DEM,Edmund G. Brown,180
+San Mateo,3103,Governor,,REP,Neel Kashkari,47
+San Mateo,3123,Governor,,DEM,Edmund G. Brown,51
+San Mateo,3123,Governor,,REP,Neel Kashkari,17
+San Mateo,3135,Governor,,DEM,Edmund G. Brown,328
+San Mateo,3135,Governor,,REP,Neel Kashkari,110
+San Mateo,3201,Governor,,DEM,Edmund G. Brown,17
+San Mateo,3201,Governor,,REP,Neel Kashkari,5
+San Mateo,3202,Governor,,DEM,Edmund G. Brown,186
+San Mateo,3202,Governor,,REP,Neel Kashkari,69
+San Mateo,3203,Governor,,DEM,Edmund G. Brown,7
+San Mateo,3203,Governor,,REP,Neel Kashkari,1
+San Mateo,3204,Governor,,DEM,Edmund G. Brown,9
+San Mateo,3204,Governor,,REP,Neel Kashkari,2
+San Mateo,3210,Governor,,DEM,Edmund G. Brown,5
+San Mateo,3210,Governor,,REP,Neel Kashkari,2
+San Mateo,3211,Governor,,DEM,Edmund G. Brown,2
+San Mateo,3211,Governor,,REP,Neel Kashkari,0
+San Mateo,3213,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3213,Governor,,REP,Neel Kashkari,0
+San Mateo,3214,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3214,Governor,,REP,Neel Kashkari,0
+San Mateo,3301,Governor,,DEM,Edmund G. Brown,336
+San Mateo,3301,Governor,,REP,Neel Kashkari,102
+San Mateo,3303,Governor,,DEM,Edmund G. Brown,284
+San Mateo,3303,Governor,,REP,Neel Kashkari,83
+San Mateo,3304,Governor,,DEM,Edmund G. Brown,591
+San Mateo,3304,Governor,,REP,Neel Kashkari,146
+San Mateo,3306,Governor,,DEM,Edmund G. Brown,376
+San Mateo,3306,Governor,,REP,Neel Kashkari,102
+San Mateo,3307,Governor,,DEM,Edmund G. Brown,12
+San Mateo,3307,Governor,,REP,Neel Kashkari,2
+San Mateo,3310,Governor,,DEM,Edmund G. Brown,333
+San Mateo,3310,Governor,,REP,Neel Kashkari,89
+San Mateo,3311,Governor,,DEM,Edmund G. Brown,337
+San Mateo,3311,Governor,,REP,Neel Kashkari,117
+San Mateo,3312,Governor,,DEM,Edmund G. Brown,399
+San Mateo,3312,Governor,,REP,Neel Kashkari,111
+San Mateo,3313,Governor,,DEM,Edmund G. Brown,371
+San Mateo,3313,Governor,,REP,Neel Kashkari,117
+San Mateo,3314,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3314,Governor,,REP,Neel Kashkari,0
+San Mateo,3316,Governor,,DEM,Edmund G. Brown,16
+San Mateo,3316,Governor,,REP,Neel Kashkari,1
+San Mateo,3320,Governor,,DEM,Edmund G. Brown,325
+San Mateo,3320,Governor,,REP,Neel Kashkari,105
+San Mateo,3321,Governor,,DEM,Edmund G. Brown,324
+San Mateo,3321,Governor,,REP,Neel Kashkari,104
+San Mateo,3322,Governor,,DEM,Edmund G. Brown,263
+San Mateo,3322,Governor,,REP,Neel Kashkari,110
+San Mateo,3323,Governor,,DEM,Edmund G. Brown,427
+San Mateo,3323,Governor,,REP,Neel Kashkari,124
+San Mateo,3324,Governor,,DEM,Edmund G. Brown,386
+San Mateo,3324,Governor,,REP,Neel Kashkari,154
+San Mateo,3325,Governor,,DEM,Edmund G. Brown,419
+San Mateo,3325,Governor,,REP,Neel Kashkari,85
+San Mateo,3326,Governor,,DEM,Edmund G. Brown,401
+San Mateo,3326,Governor,,REP,Neel Kashkari,244
+San Mateo,3327,Governor,,DEM,Edmund G. Brown,246
+San Mateo,3327,Governor,,REP,Neel Kashkari,48
+San Mateo,3330,Governor,,DEM,Edmund G. Brown,11
+San Mateo,3330,Governor,,REP,Neel Kashkari,9
+San Mateo,3331,Governor,,DEM,Edmund G. Brown,88
+San Mateo,3331,Governor,,REP,Neel Kashkari,57
+San Mateo,3340,Governor,,DEM,Edmund G. Brown,482
+San Mateo,3340,Governor,,REP,Neel Kashkari,109
+San Mateo,3350,Governor,,DEM,Edmund G. Brown,257
+San Mateo,3350,Governor,,REP,Neel Kashkari,87
+San Mateo,3360,Governor,,DEM,Edmund G. Brown,30
+San Mateo,3360,Governor,,REP,Neel Kashkari,21
+San Mateo,3361,Governor,,DEM,Edmund G. Brown,40
+San Mateo,3361,Governor,,REP,Neel Kashkari,12
+San Mateo,3370,Governor,,DEM,Edmund G. Brown,228
+San Mateo,3370,Governor,,REP,Neel Kashkari,59
+San Mateo,3371,Governor,,DEM,Edmund G. Brown,19
+San Mateo,3371,Governor,,REP,Neel Kashkari,14
+San Mateo,3372,Governor,,DEM,Edmund G. Brown,44
+San Mateo,3372,Governor,,REP,Neel Kashkari,18
+San Mateo,3375,Governor,,DEM,Edmund G. Brown,23
+San Mateo,3375,Governor,,REP,Neel Kashkari,4
+San Mateo,3376,Governor,,DEM,Edmund G. Brown,87
+San Mateo,3376,Governor,,REP,Neel Kashkari,25
+San Mateo,3377,Governor,,DEM,Edmund G. Brown,1
+San Mateo,3377,Governor,,REP,Neel Kashkari,4
+San Mateo,3380,Governor,,DEM,Edmund G. Brown,33
+San Mateo,3380,Governor,,REP,Neel Kashkari,17
+San Mateo,3401,Governor,,DEM,Edmund G. Brown,351
+San Mateo,3401,Governor,,REP,Neel Kashkari,112
+San Mateo,3402,Governor,,DEM,Edmund G. Brown,555
+San Mateo,3402,Governor,,REP,Neel Kashkari,179
+San Mateo,3406,Governor,,DEM,Edmund G. Brown,35
+San Mateo,3406,Governor,,REP,Neel Kashkari,19
+San Mateo,3407,Governor,,DEM,Edmund G. Brown,93
+San Mateo,3407,Governor,,REP,Neel Kashkari,16
+San Mateo,3408,Governor,,DEM,Edmund G. Brown,45
+San Mateo,3408,Governor,,REP,Neel Kashkari,10
+San Mateo,3409,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3409,Governor,,REP,Neel Kashkari,0
+San Mateo,3410,Governor,,DEM,Edmund G. Brown,489
+San Mateo,3410,Governor,,REP,Neel Kashkari,140
+San Mateo,3412,Governor,,DEM,Edmund G. Brown,1
+San Mateo,3412,Governor,,REP,Neel Kashkari,5
+San Mateo,3420,Governor,,DEM,Edmund G. Brown,217
+San Mateo,3420,Governor,,REP,Neel Kashkari,76
+San Mateo,3421,Governor,,DEM,Edmund G. Brown,27
+San Mateo,3421,Governor,,REP,Neel Kashkari,6
+San Mateo,3450,Governor,,DEM,Edmund G. Brown,251
+San Mateo,3450,Governor,,REP,Neel Kashkari,95
+San Mateo,3451,Governor,,DEM,Edmund G. Brown,654
+San Mateo,3451,Governor,,REP,Neel Kashkari,203
+San Mateo,3452,Governor,,DEM,Edmund G. Brown,556
+San Mateo,3452,Governor,,REP,Neel Kashkari,140
+San Mateo,3455,Governor,,DEM,Edmund G. Brown,563
+San Mateo,3455,Governor,,REP,Neel Kashkari,304
+San Mateo,3457,Governor,,DEM,Edmund G. Brown,572
+San Mateo,3457,Governor,,REP,Neel Kashkari,271
+San Mateo,3459,Governor,,DEM,Edmund G. Brown,454
+San Mateo,3459,Governor,,REP,Neel Kashkari,200
+San Mateo,3460,Governor,,DEM,Edmund G. Brown,571
+San Mateo,3460,Governor,,REP,Neel Kashkari,313
+San Mateo,3463,Governor,,DEM,Edmund G. Brown,15
+San Mateo,3463,Governor,,REP,Neel Kashkari,1
+San Mateo,3464,Governor,,DEM,Edmund G. Brown,35
+San Mateo,3464,Governor,,REP,Neel Kashkari,15
+San Mateo,3480,Governor,,DEM,Edmund G. Brown,240
+San Mateo,3480,Governor,,REP,Neel Kashkari,77
+San Mateo,3501,Governor,,DEM,Edmund G. Brown,281
+San Mateo,3501,Governor,,REP,Neel Kashkari,49
+San Mateo,3502,Governor,,DEM,Edmund G. Brown,320
+San Mateo,3502,Governor,,REP,Neel Kashkari,52
+San Mateo,3503,Governor,,DEM,Edmund G. Brown,261
+San Mateo,3503,Governor,,REP,Neel Kashkari,54
+San Mateo,3504,Governor,,DEM,Edmund G. Brown,268
+San Mateo,3504,Governor,,REP,Neel Kashkari,61
+San Mateo,3505,Governor,,DEM,Edmund G. Brown,213
+San Mateo,3505,Governor,,REP,Neel Kashkari,54
+San Mateo,3506,Governor,,DEM,Edmund G. Brown,40
+San Mateo,3506,Governor,,REP,Neel Kashkari,13
+San Mateo,3507,Governor,,DEM,Edmund G. Brown,319
+San Mateo,3507,Governor,,REP,Neel Kashkari,71
+San Mateo,3508,Governor,,DEM,Edmund G. Brown,408
+San Mateo,3508,Governor,,REP,Neel Kashkari,81
+San Mateo,3509,Governor,,DEM,Edmund G. Brown,341
+San Mateo,3509,Governor,,REP,Neel Kashkari,108
+San Mateo,3510,Governor,,DEM,Edmund G. Brown,299
+San Mateo,3510,Governor,,REP,Neel Kashkari,53
+San Mateo,3512,Governor,,DEM,Edmund G. Brown,404
+San Mateo,3512,Governor,,REP,Neel Kashkari,108
+San Mateo,3513,Governor,,DEM,Edmund G. Brown,349
+San Mateo,3513,Governor,,REP,Neel Kashkari,76
+San Mateo,3515,Governor,,DEM,Edmund G. Brown,457
+San Mateo,3515,Governor,,REP,Neel Kashkari,148
+San Mateo,3517,Governor,,DEM,Edmund G. Brown,232
+San Mateo,3517,Governor,,REP,Neel Kashkari,76
+San Mateo,3518,Governor,,DEM,Edmund G. Brown,298
+San Mateo,3518,Governor,,REP,Neel Kashkari,148
+San Mateo,3519,Governor,,DEM,Edmund G. Brown,275
+San Mateo,3519,Governor,,REP,Neel Kashkari,87
+San Mateo,3520,Governor,,DEM,Edmund G. Brown,659
+San Mateo,3520,Governor,,REP,Neel Kashkari,195
+San Mateo,3522,Governor,,DEM,Edmund G. Brown,276
+San Mateo,3522,Governor,,REP,Neel Kashkari,86
+San Mateo,3523,Governor,,DEM,Edmund G. Brown,315
+San Mateo,3523,Governor,,REP,Neel Kashkari,60
+San Mateo,3524,Governor,,DEM,Edmund G. Brown,274
+San Mateo,3524,Governor,,REP,Neel Kashkari,91
+San Mateo,3525,Governor,,DEM,Edmund G. Brown,504
+San Mateo,3525,Governor,,REP,Neel Kashkari,180
+San Mateo,3526,Governor,,DEM,Edmund G. Brown,315
+San Mateo,3526,Governor,,REP,Neel Kashkari,66
+San Mateo,3528,Governor,,DEM,Edmund G. Brown,316
+San Mateo,3528,Governor,,REP,Neel Kashkari,98
+San Mateo,3529,Governor,,DEM,Edmund G. Brown,366
+San Mateo,3529,Governor,,REP,Neel Kashkari,88
+San Mateo,3530,Governor,,DEM,Edmund G. Brown,337
+San Mateo,3530,Governor,,REP,Neel Kashkari,84
+San Mateo,3531,Governor,,DEM,Edmund G. Brown,254
+San Mateo,3531,Governor,,REP,Neel Kashkari,70
+San Mateo,3532,Governor,,DEM,Edmund G. Brown,71
+San Mateo,3532,Governor,,REP,Neel Kashkari,15
+San Mateo,3533,Governor,,DEM,Edmund G. Brown,102
+San Mateo,3533,Governor,,REP,Neel Kashkari,21
+San Mateo,3540,Governor,,DEM,Edmund G. Brown,7
+San Mateo,3540,Governor,,REP,Neel Kashkari,0
+San Mateo,3541,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3541,Governor,,REP,Neel Kashkari,0
+San Mateo,3542,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3542,Governor,,REP,Neel Kashkari,0
+San Mateo,3543,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3543,Governor,,REP,Neel Kashkari,0
+San Mateo,3601,Governor,,DEM,Edmund G. Brown,515
+San Mateo,3601,Governor,,REP,Neel Kashkari,194
+San Mateo,3602,Governor,,DEM,Edmund G. Brown,425
+San Mateo,3602,Governor,,REP,Neel Kashkari,157
+San Mateo,3605,Governor,,DEM,Edmund G. Brown,713
+San Mateo,3605,Governor,,REP,Neel Kashkari,236
+San Mateo,3608,Governor,,DEM,Edmund G. Brown,558
+San Mateo,3608,Governor,,REP,Neel Kashkari,156
+San Mateo,3610,Governor,,DEM,Edmund G. Brown,554
+San Mateo,3610,Governor,,REP,Neel Kashkari,186
+San Mateo,3612,Governor,,DEM,Edmund G. Brown,272
+San Mateo,3612,Governor,,REP,Neel Kashkari,94
+San Mateo,3613,Governor,,DEM,Edmund G. Brown,275
+San Mateo,3613,Governor,,REP,Neel Kashkari,100
+San Mateo,3614,Governor,,DEM,Edmund G. Brown,593
+San Mateo,3614,Governor,,REP,Neel Kashkari,177
+San Mateo,3616,Governor,,DEM,Edmund G. Brown,486
+San Mateo,3616,Governor,,REP,Neel Kashkari,187
+San Mateo,3617,Governor,,DEM,Edmund G. Brown,529
+San Mateo,3617,Governor,,REP,Neel Kashkari,192
+San Mateo,3620,Governor,,DEM,Edmund G. Brown,495
+San Mateo,3620,Governor,,REP,Neel Kashkari,203
+San Mateo,3621,Governor,,DEM,Edmund G. Brown,533
+San Mateo,3621,Governor,,REP,Neel Kashkari,213
+San Mateo,3624,Governor,,DEM,Edmund G. Brown,487
+San Mateo,3624,Governor,,REP,Neel Kashkari,165
+San Mateo,3626,Governor,,DEM,Edmund G. Brown,202
+San Mateo,3626,Governor,,REP,Neel Kashkari,83
+San Mateo,3627,Governor,,DEM,Edmund G. Brown,36
+San Mateo,3627,Governor,,REP,Neel Kashkari,36
+San Mateo,3629,Governor,,DEM,Edmund G. Brown,4
+San Mateo,3629,Governor,,REP,Neel Kashkari,0
+San Mateo,3630,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3630,Governor,,REP,Neel Kashkari,0
+San Mateo,3631,Governor,,DEM,Edmund G. Brown,30
+San Mateo,3631,Governor,,REP,Neel Kashkari,13
+San Mateo,3632,Governor,,DEM,Edmund G. Brown,5
+San Mateo,3632,Governor,,REP,Neel Kashkari,1
+San Mateo,3633,Governor,,DEM,Edmund G. Brown,43
+San Mateo,3633,Governor,,REP,Neel Kashkari,21
+San Mateo,3634,Governor,,DEM,Edmund G. Brown,4
+San Mateo,3634,Governor,,REP,Neel Kashkari,6
+San Mateo,3635,Governor,,DEM,Edmund G. Brown,10
+San Mateo,3635,Governor,,REP,Neel Kashkari,2
+San Mateo,3637,Governor,,DEM,Edmund G. Brown,0
+San Mateo,3637,Governor,,REP,Neel Kashkari,0
+San Mateo,3638,Governor,,DEM,Edmund G. Brown,84
+San Mateo,3638,Governor,,REP,Neel Kashkari,27
+San Mateo,3701,Governor,,DEM,Edmund G. Brown,405
+San Mateo,3701,Governor,,REP,Neel Kashkari,142
+San Mateo,3702,Governor,,DEM,Edmund G. Brown,373
+San Mateo,3702,Governor,,REP,Neel Kashkari,176
+San Mateo,3703,Governor,,DEM,Edmund G. Brown,231
+San Mateo,3703,Governor,,REP,Neel Kashkari,115
+San Mateo,3704,Governor,,DEM,Edmund G. Brown,2
+San Mateo,3704,Governor,,REP,Neel Kashkari,4
+San Mateo,3706,Governor,,DEM,Edmund G. Brown,42
+San Mateo,3706,Governor,,REP,Neel Kashkari,20
+San Mateo,3707,Governor,,DEM,Edmund G. Brown,10
+San Mateo,3707,Governor,,REP,Neel Kashkari,14
+San Mateo,3708,Governor,,DEM,Edmund G. Brown,31
+San Mateo,3708,Governor,,REP,Neel Kashkari,12
+San Mateo,3709,Governor,,DEM,Edmund G. Brown,90
+San Mateo,3709,Governor,,REP,Neel Kashkari,31
+San Mateo,3710,Governor,,DEM,Edmund G. Brown,229
+San Mateo,3710,Governor,,REP,Neel Kashkari,79
+San Mateo,3711,Governor,,DEM,Edmund G. Brown,3
+San Mateo,3711,Governor,,REP,Neel Kashkari,0
+San Mateo,3712,Governor,,DEM,Edmund G. Brown,22
+San Mateo,3712,Governor,,REP,Neel Kashkari,8
+San Mateo,3720,Governor,,DEM,Edmund G. Brown,249
+San Mateo,3720,Governor,,REP,Neel Kashkari,80
+San Mateo,3721,Governor,,DEM,Edmund G. Brown,473
+San Mateo,3721,Governor,,REP,Neel Kashkari,177
+San Mateo,3723,Governor,,DEM,Edmund G. Brown,8
+San Mateo,3723,Governor,,REP,Neel Kashkari,5
+San Mateo,3801,Governor,,DEM,Edmund G. Brown,150
+San Mateo,3801,Governor,,REP,Neel Kashkari,63
+San Mateo,3802,Governor,,DEM,Edmund G. Brown,543
+San Mateo,3802,Governor,,REP,Neel Kashkari,357
+San Mateo,3803,Governor,,DEM,Edmund G. Brown,62
+San Mateo,3803,Governor,,REP,Neel Kashkari,55
+San Mateo,3806,Governor,,DEM,Edmund G. Brown,243
+San Mateo,3806,Governor,,REP,Neel Kashkari,170
+San Mateo,3807,Governor,,DEM,Edmund G. Brown,20
+San Mateo,3807,Governor,,REP,Neel Kashkari,11
+San Mateo,3808,Governor,,DEM,Edmund G. Brown,135
+San Mateo,3808,Governor,,REP,Neel Kashkari,140
+San Mateo,3811,Governor,,DEM,Edmund G. Brown,7
+San Mateo,3811,Governor,,REP,Neel Kashkari,16
+San Mateo,3812,Governor,,DEM,Edmund G. Brown,50
+San Mateo,3812,Governor,,REP,Neel Kashkari,48
+San Mateo,3901,Governor,,DEM,Edmund G. Brown,516
+San Mateo,3901,Governor,,REP,Neel Kashkari,172
+San Mateo,3903,Governor,,DEM,Edmund G. Brown,407
+San Mateo,3903,Governor,,REP,Neel Kashkari,181
+San Mateo,3905,Governor,,DEM,Edmund G. Brown,418
+San Mateo,3905,Governor,,REP,Neel Kashkari,255
+San Mateo,4001,Governor,,DEM,Edmund G. Brown,158
+San Mateo,4001,Governor,,REP,Neel Kashkari,20
+San Mateo,4002,Governor,,DEM,Edmund G. Brown,139
+San Mateo,4002,Governor,,REP,Neel Kashkari,16
+San Mateo,4003,Governor,,DEM,Edmund G. Brown,154
+San Mateo,4003,Governor,,REP,Neel Kashkari,12
+San Mateo,4004,Governor,,DEM,Edmund G. Brown,158
+San Mateo,4004,Governor,,REP,Neel Kashkari,11
+San Mateo,4005,Governor,,DEM,Edmund G. Brown,157
+San Mateo,4005,Governor,,REP,Neel Kashkari,9
+San Mateo,4006,Governor,,DEM,Edmund G. Brown,174
+San Mateo,4006,Governor,,REP,Neel Kashkari,20
+San Mateo,4007,Governor,,DEM,Edmund G. Brown,180
+San Mateo,4007,Governor,,REP,Neel Kashkari,49
+San Mateo,4008,Governor,,DEM,Edmund G. Brown,180
+San Mateo,4008,Governor,,REP,Neel Kashkari,11
+San Mateo,4009,Governor,,DEM,Edmund G. Brown,206
+San Mateo,4009,Governor,,REP,Neel Kashkari,9
+San Mateo,4010,Governor,,DEM,Edmund G. Brown,118
+San Mateo,4010,Governor,,REP,Neel Kashkari,25
+San Mateo,4011,Governor,,DEM,Edmund G. Brown,246
+San Mateo,4011,Governor,,REP,Neel Kashkari,36
+San Mateo,4013,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4013,Governor,,REP,Neel Kashkari,0
+San Mateo,4014,Governor,,DEM,Edmund G. Brown,240
+San Mateo,4014,Governor,,REP,Neel Kashkari,21
+San Mateo,4015,Governor,,DEM,Edmund G. Brown,133
+San Mateo,4015,Governor,,REP,Neel Kashkari,18
+San Mateo,4401,Governor,,DEM,Edmund G. Brown,355
+San Mateo,4401,Governor,,REP,Neel Kashkari,107
+San Mateo,4402,Governor,,DEM,Edmund G. Brown,306
+San Mateo,4402,Governor,,REP,Neel Kashkari,80
+San Mateo,4403,Governor,,DEM,Edmund G. Brown,214
+San Mateo,4403,Governor,,REP,Neel Kashkari,15
+San Mateo,4404,Governor,,DEM,Edmund G. Brown,342
+San Mateo,4404,Governor,,REP,Neel Kashkari,25
+San Mateo,4406,Governor,,DEM,Edmund G. Brown,10
+San Mateo,4406,Governor,,REP,Neel Kashkari,2
+San Mateo,4407,Governor,,DEM,Edmund G. Brown,846
+San Mateo,4407,Governor,,REP,Neel Kashkari,145
+San Mateo,4409,Governor,,DEM,Edmund G. Brown,778
+San Mateo,4409,Governor,,REP,Neel Kashkari,178
+San Mateo,4412,Governor,,DEM,Edmund G. Brown,494
+San Mateo,4412,Governor,,REP,Neel Kashkari,146
+San Mateo,4414,Governor,,DEM,Edmund G. Brown,182
+San Mateo,4414,Governor,,REP,Neel Kashkari,29
+San Mateo,4415,Governor,,DEM,Edmund G. Brown,219
+San Mateo,4415,Governor,,REP,Neel Kashkari,167
+San Mateo,4431,Governor,,DEM,Edmund G. Brown,28
+San Mateo,4431,Governor,,REP,Neel Kashkari,3
+San Mateo,4432,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4432,Governor,,REP,Neel Kashkari,0
+San Mateo,4433,Governor,,DEM,Edmund G. Brown,101
+San Mateo,4433,Governor,,REP,Neel Kashkari,27
+San Mateo,4434,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4434,Governor,,REP,Neel Kashkari,0
+San Mateo,4435,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4435,Governor,,REP,Neel Kashkari,0
+San Mateo,4436,Governor,,DEM,Edmund G. Brown,11
+San Mateo,4436,Governor,,REP,Neel Kashkari,1
+San Mateo,4501,Governor,,DEM,Edmund G. Brown,135
+San Mateo,4501,Governor,,REP,Neel Kashkari,35
+San Mateo,4502,Governor,,DEM,Edmund G. Brown,193
+San Mateo,4502,Governor,,REP,Neel Kashkari,68
+San Mateo,4503,Governor,,DEM,Edmund G. Brown,400
+San Mateo,4503,Governor,,REP,Neel Kashkari,104
+San Mateo,4505,Governor,,DEM,Edmund G. Brown,301
+San Mateo,4505,Governor,,REP,Neel Kashkari,51
+San Mateo,4506,Governor,,DEM,Edmund G. Brown,259
+San Mateo,4506,Governor,,REP,Neel Kashkari,52
+San Mateo,4507,Governor,,DEM,Edmund G. Brown,50
+San Mateo,4507,Governor,,REP,Neel Kashkari,14
+San Mateo,4508,Governor,,DEM,Edmund G. Brown,36
+San Mateo,4508,Governor,,REP,Neel Kashkari,17
+San Mateo,4601,Governor,,DEM,Edmund G. Brown,263
+San Mateo,4601,Governor,,REP,Neel Kashkari,60
+San Mateo,4602,Governor,,DEM,Edmund G. Brown,251
+San Mateo,4602,Governor,,REP,Neel Kashkari,55
+San Mateo,4603,Governor,,DEM,Edmund G. Brown,148
+San Mateo,4603,Governor,,REP,Neel Kashkari,42
+San Mateo,4604,Governor,,DEM,Edmund G. Brown,344
+San Mateo,4604,Governor,,REP,Neel Kashkari,68
+San Mateo,4606,Governor,,DEM,Edmund G. Brown,258
+San Mateo,4606,Governor,,REP,Neel Kashkari,71
+San Mateo,4607,Governor,,DEM,Edmund G. Brown,256
+San Mateo,4607,Governor,,REP,Neel Kashkari,112
+San Mateo,4608,Governor,,DEM,Edmund G. Brown,255
+San Mateo,4608,Governor,,REP,Neel Kashkari,73
+San Mateo,4609,Governor,,DEM,Edmund G. Brown,320
+San Mateo,4609,Governor,,REP,Neel Kashkari,57
+San Mateo,4611,Governor,,DEM,Edmund G. Brown,259
+San Mateo,4611,Governor,,REP,Neel Kashkari,94
+San Mateo,4612,Governor,,DEM,Edmund G. Brown,637
+San Mateo,4612,Governor,,REP,Neel Kashkari,212
+San Mateo,4613,Governor,,DEM,Edmund G. Brown,204
+San Mateo,4613,Governor,,REP,Neel Kashkari,54
+San Mateo,4614,Governor,,DEM,Edmund G. Brown,319
+San Mateo,4614,Governor,,REP,Neel Kashkari,85
+San Mateo,4615,Governor,,DEM,Edmund G. Brown,249
+San Mateo,4615,Governor,,REP,Neel Kashkari,45
+San Mateo,4616,Governor,,DEM,Edmund G. Brown,454
+San Mateo,4616,Governor,,REP,Neel Kashkari,171
+San Mateo,4617,Governor,,DEM,Edmund G. Brown,194
+San Mateo,4617,Governor,,REP,Neel Kashkari,72
+San Mateo,4618,Governor,,DEM,Edmund G. Brown,493
+San Mateo,4618,Governor,,REP,Neel Kashkari,135
+San Mateo,4619,Governor,,DEM,Edmund G. Brown,180
+San Mateo,4619,Governor,,REP,Neel Kashkari,19
+San Mateo,4620,Governor,,DEM,Edmund G. Brown,253
+San Mateo,4620,Governor,,REP,Neel Kashkari,47
+San Mateo,4621,Governor,,DEM,Edmund G. Brown,269
+San Mateo,4621,Governor,,REP,Neel Kashkari,62
+San Mateo,4622,Governor,,DEM,Edmund G. Brown,346
+San Mateo,4622,Governor,,REP,Neel Kashkari,58
+San Mateo,4625,Governor,,DEM,Edmund G. Brown,269
+San Mateo,4625,Governor,,REP,Neel Kashkari,44
+San Mateo,4626,Governor,,DEM,Edmund G. Brown,274
+San Mateo,4626,Governor,,REP,Neel Kashkari,65
+San Mateo,4627,Governor,,DEM,Edmund G. Brown,555
+San Mateo,4627,Governor,,REP,Neel Kashkari,176
+San Mateo,4629,Governor,,DEM,Edmund G. Brown,218
+San Mateo,4629,Governor,,REP,Neel Kashkari,91
+San Mateo,4630,Governor,,DEM,Edmund G. Brown,264
+San Mateo,4630,Governor,,REP,Neel Kashkari,93
+San Mateo,4631,Governor,,DEM,Edmund G. Brown,286
+San Mateo,4631,Governor,,REP,Neel Kashkari,85
+San Mateo,4633,Governor,,DEM,Edmund G. Brown,819
+San Mateo,4633,Governor,,REP,Neel Kashkari,297
+San Mateo,4636,Governor,,DEM,Edmund G. Brown,45
+San Mateo,4636,Governor,,REP,Neel Kashkari,56
+San Mateo,4637,Governor,,DEM,Edmund G. Brown,141
+San Mateo,4637,Governor,,REP,Neel Kashkari,71
+San Mateo,4638,Governor,,DEM,Edmund G. Brown,461
+San Mateo,4638,Governor,,REP,Neel Kashkari,229
+San Mateo,4639,Governor,,DEM,Edmund G. Brown,271
+San Mateo,4639,Governor,,REP,Neel Kashkari,129
+San Mateo,4650,Governor,,DEM,Edmund G. Brown,14
+San Mateo,4650,Governor,,REP,Neel Kashkari,1
+San Mateo,4651,Governor,,DEM,Edmund G. Brown,17
+San Mateo,4651,Governor,,REP,Neel Kashkari,11
+San Mateo,4652,Governor,,DEM,Edmund G. Brown,40
+San Mateo,4652,Governor,,REP,Neel Kashkari,10
+San Mateo,4653,Governor,,DEM,Edmund G. Brown,41
+San Mateo,4653,Governor,,REP,Neel Kashkari,13
+San Mateo,4654,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4654,Governor,,REP,Neel Kashkari,0
+San Mateo,4655,Governor,,DEM,Edmund G. Brown,3
+San Mateo,4655,Governor,,REP,Neel Kashkari,0
+San Mateo,4656,Governor,,DEM,Edmund G. Brown,95
+San Mateo,4656,Governor,,REP,Neel Kashkari,36
+San Mateo,4657,Governor,,DEM,Edmund G. Brown,55
+San Mateo,4657,Governor,,REP,Neel Kashkari,16
+San Mateo,4659,Governor,,DEM,Edmund G. Brown,7
+San Mateo,4659,Governor,,REP,Neel Kashkari,10
+San Mateo,4663,Governor,,DEM,Edmund G. Brown,39
+San Mateo,4663,Governor,,REP,Neel Kashkari,26
+San Mateo,4670,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4670,Governor,,REP,Neel Kashkari,0
+San Mateo,4680,Governor,,DEM,Edmund G. Brown,483
+San Mateo,4680,Governor,,REP,Neel Kashkari,186
+San Mateo,4681,Governor,,DEM,Edmund G. Brown,566
+San Mateo,4681,Governor,,REP,Neel Kashkari,186
+San Mateo,4684,Governor,,DEM,Edmund G. Brown,284
+San Mateo,4684,Governor,,REP,Neel Kashkari,131
+San Mateo,4685,Governor,,DEM,Edmund G. Brown,309
+San Mateo,4685,Governor,,REP,Neel Kashkari,116
+San Mateo,4686,Governor,,DEM,Edmund G. Brown,425
+San Mateo,4686,Governor,,REP,Neel Kashkari,165
+San Mateo,4688,Governor,,DEM,Edmund G. Brown,0
+San Mateo,4688,Governor,,REP,Neel Kashkari,0
+San Mateo,4701,Governor,,DEM,Edmund G. Brown,95
+San Mateo,4701,Governor,,REP,Neel Kashkari,30
+San Mateo,4702,Governor,,DEM,Edmund G. Brown,36
+San Mateo,4702,Governor,,REP,Neel Kashkari,20
+San Mateo,4708,Governor,,DEM,Edmund G. Brown,56
+San Mateo,4708,Governor,,REP,Neel Kashkari,14
+San Mateo,4710,Governor,,DEM,Edmund G. Brown,2
+San Mateo,4710,Governor,,REP,Neel Kashkari,4
+San Mateo,5001,Governor,,DEM,Edmund G. Brown,368
+San Mateo,5001,Governor,,REP,Neel Kashkari,73
+San Mateo,5002,Governor,,DEM,Edmund G. Brown,392
+San Mateo,5002,Governor,,REP,Neel Kashkari,87
+San Mateo,5003,Governor,,DEM,Edmund G. Brown,266
+San Mateo,5003,Governor,,REP,Neel Kashkari,73
+San Mateo,5101,Governor,,DEM,Edmund G. Brown,503
+San Mateo,5101,Governor,,REP,Neel Kashkari,119
+San Mateo,5103,Governor,,DEM,Edmund G. Brown,396
+San Mateo,5103,Governor,,REP,Neel Kashkari,59
+San Mateo,5105,Governor,,DEM,Edmund G. Brown,18
+San Mateo,5105,Governor,,REP,Neel Kashkari,0
+San Mateo,5301,Governor,,DEM,Edmund G. Brown,218
+San Mateo,5301,Governor,,REP,Neel Kashkari,39
+San Mateo,5521,Governor,,DEM,Edmund G. Brown,246
+San Mateo,5521,Governor,,REP,Neel Kashkari,86
+San Mateo,5522,Governor,,DEM,Edmund G. Brown,300
+San Mateo,5522,Governor,,REP,Neel Kashkari,92
+San Mateo,5523,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5523,Governor,,REP,Neel Kashkari,0
+San Mateo,5524,Governor,,DEM,Edmund G. Brown,250
+San Mateo,5524,Governor,,REP,Neel Kashkari,69
+San Mateo,5525,Governor,,DEM,Edmund G. Brown,440
+San Mateo,5525,Governor,,REP,Neel Kashkari,144
+San Mateo,5528,Governor,,DEM,Edmund G. Brown,396
+San Mateo,5528,Governor,,REP,Neel Kashkari,147
+San Mateo,5530,Governor,,DEM,Edmund G. Brown,83
+San Mateo,5530,Governor,,REP,Neel Kashkari,19
+San Mateo,5531,Governor,,DEM,Edmund G. Brown,21
+San Mateo,5531,Governor,,REP,Neel Kashkari,4
+San Mateo,5534,Governor,,DEM,Edmund G. Brown,29
+San Mateo,5534,Governor,,REP,Neel Kashkari,8
+San Mateo,5535,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5535,Governor,,REP,Neel Kashkari,0
+San Mateo,5601,Governor,,DEM,Edmund G. Brown,315
+San Mateo,5601,Governor,,REP,Neel Kashkari,71
+San Mateo,5602,Governor,,DEM,Edmund G. Brown,225
+San Mateo,5602,Governor,,REP,Neel Kashkari,27
+San Mateo,5603,Governor,,DEM,Edmund G. Brown,319
+San Mateo,5603,Governor,,REP,Neel Kashkari,57
+San Mateo,5604,Governor,,DEM,Edmund G. Brown,405
+San Mateo,5604,Governor,,REP,Neel Kashkari,87
+San Mateo,5605,Governor,,DEM,Edmund G. Brown,330
+San Mateo,5605,Governor,,REP,Neel Kashkari,42
+San Mateo,5607,Governor,,DEM,Edmund G. Brown,214
+San Mateo,5607,Governor,,REP,Neel Kashkari,35
+San Mateo,5608,Governor,,DEM,Edmund G. Brown,223
+San Mateo,5608,Governor,,REP,Neel Kashkari,39
+San Mateo,5609,Governor,,DEM,Edmund G. Brown,420
+San Mateo,5609,Governor,,REP,Neel Kashkari,68
+San Mateo,5611,Governor,,DEM,Edmund G. Brown,388
+San Mateo,5611,Governor,,REP,Neel Kashkari,78
+San Mateo,5612,Governor,,DEM,Edmund G. Brown,489
+San Mateo,5612,Governor,,REP,Neel Kashkari,110
+San Mateo,5615,Governor,,DEM,Edmund G. Brown,410
+San Mateo,5615,Governor,,REP,Neel Kashkari,98
+San Mateo,5617,Governor,,DEM,Edmund G. Brown,512
+San Mateo,5617,Governor,,REP,Neel Kashkari,91
+San Mateo,5619,Governor,,DEM,Edmund G. Brown,180
+San Mateo,5619,Governor,,REP,Neel Kashkari,45
+San Mateo,5620,Governor,,DEM,Edmund G. Brown,393
+San Mateo,5620,Governor,,REP,Neel Kashkari,140
+San Mateo,5622,Governor,,DEM,Edmund G. Brown,179
+San Mateo,5622,Governor,,REP,Neel Kashkari,61
+San Mateo,5623,Governor,,DEM,Edmund G. Brown,432
+San Mateo,5623,Governor,,REP,Neel Kashkari,65
+San Mateo,5624,Governor,,DEM,Edmund G. Brown,214
+San Mateo,5624,Governor,,REP,Neel Kashkari,51
+San Mateo,5625,Governor,,DEM,Edmund G. Brown,179
+San Mateo,5625,Governor,,REP,Neel Kashkari,40
+San Mateo,5627,Governor,,DEM,Edmund G. Brown,212
+San Mateo,5627,Governor,,REP,Neel Kashkari,51
+San Mateo,5628,Governor,,DEM,Edmund G. Brown,141
+San Mateo,5628,Governor,,REP,Neel Kashkari,17
+San Mateo,5629,Governor,,DEM,Edmund G. Brown,186
+San Mateo,5629,Governor,,REP,Neel Kashkari,42
+San Mateo,5631,Governor,,DEM,Edmund G. Brown,425
+San Mateo,5631,Governor,,REP,Neel Kashkari,81
+San Mateo,5633,Governor,,DEM,Edmund G. Brown,421
+San Mateo,5633,Governor,,REP,Neel Kashkari,91
+San Mateo,5635,Governor,,DEM,Edmund G. Brown,553
+San Mateo,5635,Governor,,REP,Neel Kashkari,138
+San Mateo,5636,Governor,,DEM,Edmund G. Brown,202
+San Mateo,5636,Governor,,REP,Neel Kashkari,51
+San Mateo,5639,Governor,,DEM,Edmund G. Brown,351
+San Mateo,5639,Governor,,REP,Neel Kashkari,83
+San Mateo,5641,Governor,,DEM,Edmund G. Brown,611
+San Mateo,5641,Governor,,REP,Neel Kashkari,106
+San Mateo,5644,Governor,,DEM,Edmund G. Brown,173
+San Mateo,5644,Governor,,REP,Neel Kashkari,36
+San Mateo,5645,Governor,,DEM,Edmund G. Brown,167
+San Mateo,5645,Governor,,REP,Neel Kashkari,45
+San Mateo,5646,Governor,,DEM,Edmund G. Brown,257
+San Mateo,5646,Governor,,REP,Neel Kashkari,48
+San Mateo,5647,Governor,,DEM,Edmund G. Brown,235
+San Mateo,5647,Governor,,REP,Neel Kashkari,55
+San Mateo,5648,Governor,,DEM,Edmund G. Brown,446
+San Mateo,5648,Governor,,REP,Neel Kashkari,121
+San Mateo,5650,Governor,,DEM,Edmund G. Brown,225
+San Mateo,5650,Governor,,REP,Neel Kashkari,48
+San Mateo,5651,Governor,,DEM,Edmund G. Brown,488
+San Mateo,5651,Governor,,REP,Neel Kashkari,133
+San Mateo,5701,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5701,Governor,,REP,Neel Kashkari,0
+San Mateo,5809,Governor,,DEM,Edmund G. Brown,141
+San Mateo,5809,Governor,,REP,Neel Kashkari,54
+San Mateo,5816,Governor,,DEM,Edmund G. Brown,40
+San Mateo,5816,Governor,,REP,Neel Kashkari,9
+San Mateo,5822,Governor,,DEM,Edmund G. Brown,223
+San Mateo,5822,Governor,,REP,Neel Kashkari,62
+San Mateo,5823,Governor,,DEM,Edmund G. Brown,235
+San Mateo,5823,Governor,,REP,Neel Kashkari,52
+San Mateo,5825,Governor,,DEM,Edmund G. Brown,460
+San Mateo,5825,Governor,,REP,Neel Kashkari,86
+San Mateo,5827,Governor,,DEM,Edmund G. Brown,434
+San Mateo,5827,Governor,,REP,Neel Kashkari,109
+San Mateo,5829,Governor,,DEM,Edmund G. Brown,486
+San Mateo,5829,Governor,,REP,Neel Kashkari,134
+San Mateo,5832,Governor,,DEM,Edmund G. Brown,200
+San Mateo,5832,Governor,,REP,Neel Kashkari,62
+San Mateo,5901,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5901,Governor,,REP,Neel Kashkari,0
+San Mateo,5902,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5902,Governor,,REP,Neel Kashkari,0
+San Mateo,5903,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5903,Governor,,REP,Neel Kashkari,0
+San Mateo,5904,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5904,Governor,,REP,Neel Kashkari,0
+San Mateo,5905,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5905,Governor,,REP,Neel Kashkari,0
+San Mateo,5906,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5906,Governor,,REP,Neel Kashkari,0
+San Mateo,5907,Governor,,DEM,Edmund G. Brown,0
+San Mateo,5907,Governor,,REP,Neel Kashkari,0

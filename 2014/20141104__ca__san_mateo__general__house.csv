@@ -1,0 +1,951 @@
+county,precinct,office,district,party,candidate,votes
+San Mateo,1001,U.S. House,14,DEM,Jackie Speier,407
+San Mateo,1001,U.S. House,14,REP,Robin Chew,105
+San Mateo,1002,U.S. House,14,DEM,Jackie Speier,315
+San Mateo,1002,U.S. House,14,REP,Robin Chew,79
+San Mateo,1003,U.S. House,14,DEM,Jackie Speier,454
+San Mateo,1003,U.S. House,14,REP,Robin Chew,141
+San Mateo,1005,U.S. House,14,DEM,Jackie Speier,397
+San Mateo,1005,U.S. House,14,REP,Robin Chew,140
+San Mateo,1007,U.S. House,14,DEM,Jackie Speier,240
+San Mateo,1007,U.S. House,14,REP,Robin Chew,59
+San Mateo,1008,U.S. House,14,DEM,Jackie Speier,451
+San Mateo,1008,U.S. House,14,REP,Robin Chew,133
+San Mateo,1009,U.S. House,14,DEM,Jackie Speier,245
+San Mateo,1009,U.S. House,14,REP,Robin Chew,114
+San Mateo,1011,U.S. House,14,DEM,Jackie Speier,228
+San Mateo,1011,U.S. House,14,REP,Robin Chew,60
+San Mateo,1012,U.S. House,14,DEM,Jackie Speier,303
+San Mateo,1012,U.S. House,14,REP,Robin Chew,77
+San Mateo,1013,U.S. House,14,DEM,Jackie Speier,360
+San Mateo,1013,U.S. House,14,REP,Robin Chew,110
+San Mateo,1015,U.S. House,14,DEM,Jackie Speier,283
+San Mateo,1015,U.S. House,14,REP,Robin Chew,89
+San Mateo,1016,U.S. House,14,DEM,Jackie Speier,310
+San Mateo,1016,U.S. House,14,REP,Robin Chew,102
+San Mateo,1017,U.S. House,14,DEM,Jackie Speier,410
+San Mateo,1017,U.S. House,14,REP,Robin Chew,145
+San Mateo,1018,U.S. House,14,DEM,Jackie Speier,381
+San Mateo,1018,U.S. House,14,REP,Robin Chew,123
+San Mateo,1019,U.S. House,14,DEM,Jackie Speier,356
+San Mateo,1019,U.S. House,14,REP,Robin Chew,140
+San Mateo,1020,U.S. House,14,DEM,Jackie Speier,181
+San Mateo,1020,U.S. House,14,REP,Robin Chew,53
+San Mateo,1021,U.S. House,14,DEM,Jackie Speier,557
+San Mateo,1021,U.S. House,14,REP,Robin Chew,263
+San Mateo,1201,U.S. House,14,DEM,Jackie Speier,52
+San Mateo,1201,U.S. House,14,REP,Robin Chew,26
+San Mateo,1202,U.S. House,14,DEM,Jackie Speier,56
+San Mateo,1202,U.S. House,14,REP,Robin Chew,46
+San Mateo,1203,U.S. House,14,DEM,Jackie Speier,24
+San Mateo,1203,U.S. House,14,REP,Robin Chew,20
+San Mateo,1204,U.S. House,14,DEM,Jackie Speier,55
+San Mateo,1204,U.S. House,14,REP,Robin Chew,24
+San Mateo,1205,U.S. House,14,DEM,Jackie Speier,8
+San Mateo,1205,U.S. House,14,REP,Robin Chew,6
+San Mateo,1206,U.S. House,14,DEM,Jackie Speier,38
+San Mateo,1206,U.S. House,14,REP,Robin Chew,29
+San Mateo,1302,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,1302,U.S. House,14,REP,Robin Chew,0
+San Mateo,1303,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,1303,U.S. House,14,REP,Robin Chew,0
+San Mateo,1304,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,1304,U.S. House,14,REP,Robin Chew,0
+San Mateo,1401,U.S. House,14,DEM,Jackie Speier,204
+San Mateo,1401,U.S. House,14,REP,Robin Chew,175
+San Mateo,1402,U.S. House,14,DEM,Jackie Speier,68
+San Mateo,1402,U.S. House,14,REP,Robin Chew,48
+San Mateo,1403,U.S. House,14,DEM,Jackie Speier,545
+San Mateo,1403,U.S. House,14,REP,Robin Chew,397
+San Mateo,1406,U.S. House,14,DEM,Jackie Speier,210
+San Mateo,1406,U.S. House,14,REP,Robin Chew,147
+San Mateo,1407,U.S. House,14,DEM,Jackie Speier,505
+San Mateo,1407,U.S. House,14,REP,Robin Chew,327
+San Mateo,1409,U.S. House,14,DEM,Jackie Speier,218
+San Mateo,1409,U.S. House,14,REP,Robin Chew,151
+San Mateo,1410,U.S. House,14,DEM,Jackie Speier,157
+San Mateo,1410,U.S. House,14,REP,Robin Chew,92
+San Mateo,1411,U.S. House,14,DEM,Jackie Speier,208
+San Mateo,1411,U.S. House,14,REP,Robin Chew,152
+San Mateo,1501,U.S. House,14,DEM,Jackie Speier,215
+San Mateo,1501,U.S. House,14,REP,Robin Chew,85
+San Mateo,1502,U.S. House,14,DEM,Jackie Speier,235
+San Mateo,1502,U.S. House,14,REP,Robin Chew,66
+San Mateo,1503,U.S. House,14,DEM,Jackie Speier,426
+San Mateo,1503,U.S. House,14,REP,Robin Chew,255
+San Mateo,1506,U.S. House,14,DEM,Jackie Speier,313
+San Mateo,1506,U.S. House,14,REP,Robin Chew,130
+San Mateo,1507,U.S. House,14,DEM,Jackie Speier,268
+San Mateo,1507,U.S. House,14,REP,Robin Chew,139
+San Mateo,1508,U.S. House,14,DEM,Jackie Speier,292
+San Mateo,1508,U.S. House,14,REP,Robin Chew,102
+San Mateo,1509,U.S. House,14,DEM,Jackie Speier,297
+San Mateo,1509,U.S. House,14,REP,Robin Chew,85
+San Mateo,1510,U.S. House,14,DEM,Jackie Speier,202
+San Mateo,1510,U.S. House,14,REP,Robin Chew,71
+San Mateo,1511,U.S. House,14,DEM,Jackie Speier,207
+San Mateo,1511,U.S. House,14,REP,Robin Chew,71
+San Mateo,1512,U.S. House,14,DEM,Jackie Speier,331
+San Mateo,1512,U.S. House,14,REP,Robin Chew,126
+San Mateo,1514,U.S. House,14,DEM,Jackie Speier,294
+San Mateo,1514,U.S. House,14,REP,Robin Chew,130
+San Mateo,1515,U.S. House,14,DEM,Jackie Speier,285
+San Mateo,1515,U.S. House,14,REP,Robin Chew,154
+San Mateo,1601,U.S. House,14,DEM,Jackie Speier,378
+San Mateo,1601,U.S. House,14,REP,Robin Chew,64
+San Mateo,1603,U.S. House,14,DEM,Jackie Speier,217
+San Mateo,1603,U.S. House,14,REP,Robin Chew,38
+San Mateo,1604,U.S. House,14,DEM,Jackie Speier,302
+San Mateo,1604,U.S. House,14,REP,Robin Chew,54
+San Mateo,1605,U.S. House,14,DEM,Jackie Speier,228
+San Mateo,1605,U.S. House,14,REP,Robin Chew,49
+San Mateo,1606,U.S. House,14,DEM,Jackie Speier,312
+San Mateo,1606,U.S. House,14,REP,Robin Chew,90
+San Mateo,1607,U.S. House,14,DEM,Jackie Speier,244
+San Mateo,1607,U.S. House,14,REP,Robin Chew,69
+San Mateo,1608,U.S. House,14,DEM,Jackie Speier,333
+San Mateo,1608,U.S. House,14,REP,Robin Chew,89
+San Mateo,1610,U.S. House,14,DEM,Jackie Speier,365
+San Mateo,1610,U.S. House,14,REP,Robin Chew,71
+San Mateo,1612,U.S. House,14,DEM,Jackie Speier,355
+San Mateo,1612,U.S. House,14,REP,Robin Chew,102
+San Mateo,1613,U.S. House,14,DEM,Jackie Speier,358
+San Mateo,1613,U.S. House,14,REP,Robin Chew,80
+San Mateo,1614,U.S. House,14,DEM,Jackie Speier,330
+San Mateo,1614,U.S. House,14,REP,Robin Chew,99
+San Mateo,1617,U.S. House,14,DEM,Jackie Speier,584
+San Mateo,1617,U.S. House,14,REP,Robin Chew,214
+San Mateo,1619,U.S. House,14,DEM,Jackie Speier,476
+San Mateo,1619,U.S. House,14,REP,Robin Chew,143
+San Mateo,1701,U.S. House,14,DEM,Jackie Speier,341
+San Mateo,1701,U.S. House,14,REP,Robin Chew,179
+San Mateo,1703,U.S. House,14,DEM,Jackie Speier,305
+San Mateo,1703,U.S. House,14,REP,Robin Chew,86
+San Mateo,1704,U.S. House,14,DEM,Jackie Speier,374
+San Mateo,1704,U.S. House,14,REP,Robin Chew,70
+San Mateo,1705,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,1705,U.S. House,14,REP,Robin Chew,0
+San Mateo,1706,U.S. House,14,DEM,Jackie Speier,83
+San Mateo,1706,U.S. House,14,REP,Robin Chew,25
+San Mateo,1801,U.S. House,14,DEM,Jackie Speier,419
+San Mateo,1801,U.S. House,14,REP,Robin Chew,89
+San Mateo,1802,U.S. House,14,DEM,Jackie Speier,314
+San Mateo,1802,U.S. House,14,REP,Robin Chew,87
+San Mateo,1803,U.S. House,14,DEM,Jackie Speier,230
+San Mateo,1803,U.S. House,14,REP,Robin Chew,80
+San Mateo,1806,U.S. House,14,DEM,Jackie Speier,545
+San Mateo,1806,U.S. House,14,REP,Robin Chew,142
+San Mateo,1807,U.S. House,14,DEM,Jackie Speier,439
+San Mateo,1807,U.S. House,14,REP,Robin Chew,93
+San Mateo,1810,U.S. House,14,DEM,Jackie Speier,338
+San Mateo,1810,U.S. House,14,REP,Robin Chew,74
+San Mateo,1813,U.S. House,14,DEM,Jackie Speier,228
+San Mateo,1813,U.S. House,14,REP,Robin Chew,40
+San Mateo,1814,U.S. House,14,DEM,Jackie Speier,234
+San Mateo,1814,U.S. House,14,REP,Robin Chew,33
+San Mateo,1815,U.S. House,14,DEM,Jackie Speier,441
+San Mateo,1815,U.S. House,14,REP,Robin Chew,86
+San Mateo,1818,U.S. House,14,DEM,Jackie Speier,267
+San Mateo,1818,U.S. House,14,REP,Robin Chew,42
+San Mateo,1819,U.S. House,14,DEM,Jackie Speier,437
+San Mateo,1819,U.S. House,14,REP,Robin Chew,134
+San Mateo,1820,U.S. House,14,DEM,Jackie Speier,66
+San Mateo,1820,U.S. House,14,REP,Robin Chew,15
+San Mateo,1821,U.S. House,14,DEM,Jackie Speier,520
+San Mateo,1821,U.S. House,14,REP,Robin Chew,113
+San Mateo,1824,U.S. House,14,DEM,Jackie Speier,279
+San Mateo,1824,U.S. House,14,REP,Robin Chew,87
+San Mateo,1833,U.S. House,14,DEM,Jackie Speier,411
+San Mateo,1833,U.S. House,14,REP,Robin Chew,99
+San Mateo,1835,U.S. House,14,DEM,Jackie Speier,479
+San Mateo,1835,U.S. House,14,REP,Robin Chew,96
+San Mateo,1837,U.S. House,14,DEM,Jackie Speier,279
+San Mateo,1837,U.S. House,14,REP,Robin Chew,78
+San Mateo,1838,U.S. House,14,DEM,Jackie Speier,21
+San Mateo,1838,U.S. House,14,REP,Robin Chew,12
+San Mateo,1902,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,1902,U.S. House,14,REP,Robin Chew,0
+San Mateo,1903,U.S. House,14,DEM,Jackie Speier,41
+San Mateo,1903,U.S. House,14,REP,Robin Chew,7
+San Mateo,2101,U.S. House,14,DEM,Jackie Speier,96
+San Mateo,2101,U.S. House,14,REP,Robin Chew,32
+San Mateo,2104,U.S. House,14,DEM,Jackie Speier,158
+San Mateo,2104,U.S. House,14,REP,Robin Chew,54
+San Mateo,2106,U.S. House,14,DEM,Jackie Speier,327
+San Mateo,2106,U.S. House,14,REP,Robin Chew,118
+San Mateo,2107,U.S. House,14,DEM,Jackie Speier,577
+San Mateo,2107,U.S. House,14,REP,Robin Chew,184
+San Mateo,2110,U.S. House,14,DEM,Jackie Speier,286
+San Mateo,2110,U.S. House,14,REP,Robin Chew,95
+San Mateo,2111,U.S. House,14,DEM,Jackie Speier,306
+San Mateo,2111,U.S. House,14,REP,Robin Chew,105
+San Mateo,2112,U.S. House,14,DEM,Jackie Speier,296
+San Mateo,2112,U.S. House,14,REP,Robin Chew,122
+San Mateo,2113,U.S. House,14,DEM,Jackie Speier,576
+San Mateo,2113,U.S. House,14,REP,Robin Chew,230
+San Mateo,2115,U.S. House,14,DEM,Jackie Speier,504
+San Mateo,2115,U.S. House,14,REP,Robin Chew,235
+San Mateo,2117,U.S. House,14,DEM,Jackie Speier,381
+San Mateo,2117,U.S. House,14,REP,Robin Chew,100
+San Mateo,2122,U.S. House,14,DEM,Jackie Speier,8
+San Mateo,2122,U.S. House,14,REP,Robin Chew,1
+San Mateo,2131,U.S. House,14,DEM,Jackie Speier,244
+San Mateo,2131,U.S. House,14,REP,Robin Chew,68
+San Mateo,2132,U.S. House,14,DEM,Jackie Speier,319
+San Mateo,2132,U.S. House,14,REP,Robin Chew,111
+San Mateo,2133,U.S. House,14,DEM,Jackie Speier,205
+San Mateo,2133,U.S. House,14,REP,Robin Chew,64
+San Mateo,2134,U.S. House,14,DEM,Jackie Speier,210
+San Mateo,2134,U.S. House,14,REP,Robin Chew,100
+San Mateo,2201,U.S. House,14,DEM,Jackie Speier,426
+San Mateo,2201,U.S. House,14,REP,Robin Chew,121
+San Mateo,2203,U.S. House,14,DEM,Jackie Speier,318
+San Mateo,2203,U.S. House,14,REP,Robin Chew,162
+San Mateo,2204,U.S. House,14,DEM,Jackie Speier,399
+San Mateo,2204,U.S. House,14,REP,Robin Chew,163
+San Mateo,2205,U.S. House,14,DEM,Jackie Speier,297
+San Mateo,2205,U.S. House,14,REP,Robin Chew,144
+San Mateo,2207,U.S. House,14,DEM,Jackie Speier,467
+San Mateo,2207,U.S. House,14,REP,Robin Chew,170
+San Mateo,2210,U.S. House,14,DEM,Jackie Speier,429
+San Mateo,2210,U.S. House,14,REP,Robin Chew,139
+San Mateo,2214,U.S. House,14,DEM,Jackie Speier,319
+San Mateo,2214,U.S. House,14,REP,Robin Chew,107
+San Mateo,2215,U.S. House,14,DEM,Jackie Speier,529
+San Mateo,2215,U.S. House,14,REP,Robin Chew,210
+San Mateo,2217,U.S. House,14,DEM,Jackie Speier,483
+San Mateo,2217,U.S. House,14,REP,Robin Chew,157
+San Mateo,2221,U.S. House,14,DEM,Jackie Speier,241
+San Mateo,2221,U.S. House,14,REP,Robin Chew,111
+San Mateo,2222,U.S. House,14,DEM,Jackie Speier,255
+San Mateo,2222,U.S. House,14,REP,Robin Chew,117
+San Mateo,2223,U.S. House,14,DEM,Jackie Speier,208
+San Mateo,2223,U.S. House,14,REP,Robin Chew,91
+San Mateo,2224,U.S. House,14,DEM,Jackie Speier,261
+San Mateo,2224,U.S. House,14,REP,Robin Chew,107
+San Mateo,2225,U.S. House,14,DEM,Jackie Speier,174
+San Mateo,2225,U.S. House,14,REP,Robin Chew,69
+San Mateo,2601,U.S. House,14,DEM,Jackie Speier,572
+San Mateo,2601,U.S. House,14,REP,Robin Chew,121
+San Mateo,2603,U.S. House,14,DEM,Jackie Speier,226
+San Mateo,2603,U.S. House,14,REP,Robin Chew,46
+San Mateo,2604,U.S. House,14,DEM,Jackie Speier,230
+San Mateo,2604,U.S. House,14,REP,Robin Chew,51
+San Mateo,2605,U.S. House,14,DEM,Jackie Speier,410
+San Mateo,2605,U.S. House,14,REP,Robin Chew,118
+San Mateo,2607,U.S. House,14,DEM,Jackie Speier,228
+San Mateo,2607,U.S. House,14,REP,Robin Chew,71
+San Mateo,2608,U.S. House,14,DEM,Jackie Speier,240
+San Mateo,2608,U.S. House,14,REP,Robin Chew,69
+San Mateo,2609,U.S. House,14,DEM,Jackie Speier,254
+San Mateo,2609,U.S. House,14,REP,Robin Chew,113
+San Mateo,2610,U.S. House,14,DEM,Jackie Speier,329
+San Mateo,2610,U.S. House,14,REP,Robin Chew,120
+San Mateo,2611,U.S. House,14,DEM,Jackie Speier,232
+San Mateo,2611,U.S. House,14,REP,Robin Chew,56
+San Mateo,2612,U.S. House,14,DEM,Jackie Speier,313
+San Mateo,2612,U.S. House,14,REP,Robin Chew,110
+San Mateo,2614,U.S. House,14,DEM,Jackie Speier,358
+San Mateo,2614,U.S. House,14,REP,Robin Chew,127
+San Mateo,2616,U.S. House,14,DEM,Jackie Speier,364
+San Mateo,2616,U.S. House,14,REP,Robin Chew,114
+San Mateo,2618,U.S. House,14,DEM,Jackie Speier,446
+San Mateo,2618,U.S. House,14,REP,Robin Chew,150
+San Mateo,2620,U.S. House,14,DEM,Jackie Speier,243
+San Mateo,2620,U.S. House,14,REP,Robin Chew,50
+San Mateo,2621,U.S. House,14,DEM,Jackie Speier,276
+San Mateo,2621,U.S. House,14,REP,Robin Chew,63
+San Mateo,2622,U.S. House,14,DEM,Jackie Speier,423
+San Mateo,2622,U.S. House,14,REP,Robin Chew,85
+San Mateo,2624,U.S. House,14,DEM,Jackie Speier,246
+San Mateo,2624,U.S. House,14,REP,Robin Chew,77
+San Mateo,2625,U.S. House,14,DEM,Jackie Speier,321
+San Mateo,2625,U.S. House,14,REP,Robin Chew,65
+San Mateo,2626,U.S. House,14,DEM,Jackie Speier,438
+San Mateo,2626,U.S. House,14,REP,Robin Chew,133
+San Mateo,2627,U.S. House,14,DEM,Jackie Speier,292
+San Mateo,2627,U.S. House,14,REP,Robin Chew,70
+San Mateo,2628,U.S. House,14,DEM,Jackie Speier,285
+San Mateo,2628,U.S. House,14,REP,Robin Chew,57
+San Mateo,2629,U.S. House,14,DEM,Jackie Speier,370
+San Mateo,2629,U.S. House,14,REP,Robin Chew,32
+San Mateo,2631,U.S. House,14,DEM,Jackie Speier,439
+San Mateo,2631,U.S. House,14,REP,Robin Chew,106
+San Mateo,2633,U.S. House,14,DEM,Jackie Speier,205
+San Mateo,2633,U.S. House,14,REP,Robin Chew,47
+San Mateo,2634,U.S. House,14,DEM,Jackie Speier,257
+San Mateo,2634,U.S. House,14,REP,Robin Chew,87
+San Mateo,2636,U.S. House,14,DEM,Jackie Speier,335
+San Mateo,2636,U.S. House,14,REP,Robin Chew,74
+San Mateo,2637,U.S. House,14,DEM,Jackie Speier,268
+San Mateo,2637,U.S. House,14,REP,Robin Chew,55
+San Mateo,2638,U.S. House,14,DEM,Jackie Speier,283
+San Mateo,2638,U.S. House,14,REP,Robin Chew,138
+San Mateo,2639,U.S. House,14,DEM,Jackie Speier,316
+San Mateo,2639,U.S. House,14,REP,Robin Chew,142
+San Mateo,2644,U.S. House,14,DEM,Jackie Speier,221
+San Mateo,2644,U.S. House,14,REP,Robin Chew,100
+San Mateo,2646,U.S. House,14,DEM,Jackie Speier,455
+San Mateo,2646,U.S. House,14,REP,Robin Chew,187
+San Mateo,2648,U.S. House,14,DEM,Jackie Speier,485
+San Mateo,2648,U.S. House,14,REP,Robin Chew,125
+San Mateo,2650,U.S. House,14,DEM,Jackie Speier,435
+San Mateo,2650,U.S. House,14,REP,Robin Chew,150
+San Mateo,2651,U.S. House,14,DEM,Jackie Speier,259
+San Mateo,2651,U.S. House,14,REP,Robin Chew,99
+San Mateo,2652,U.S. House,14,DEM,Jackie Speier,281
+San Mateo,2652,U.S. House,14,REP,Robin Chew,92
+San Mateo,2653,U.S. House,14,DEM,Jackie Speier,276
+San Mateo,2653,U.S. House,14,REP,Robin Chew,74
+San Mateo,2654,U.S. House,14,DEM,Jackie Speier,428
+San Mateo,2654,U.S. House,14,REP,Robin Chew,118
+San Mateo,2655,U.S. House,14,DEM,Jackie Speier,416
+San Mateo,2655,U.S. House,14,REP,Robin Chew,94
+San Mateo,2657,U.S. House,14,DEM,Jackie Speier,516
+San Mateo,2657,U.S. House,14,REP,Robin Chew,199
+San Mateo,2659,U.S. House,14,DEM,Jackie Speier,227
+San Mateo,2659,U.S. House,14,REP,Robin Chew,83
+San Mateo,2661,U.S. House,14,DEM,Jackie Speier,252
+San Mateo,2661,U.S. House,14,REP,Robin Chew,97
+San Mateo,2662,U.S. House,14,DEM,Jackie Speier,402
+San Mateo,2662,U.S. House,14,REP,Robin Chew,165
+San Mateo,2663,U.S. House,14,DEM,Jackie Speier,347
+San Mateo,2663,U.S. House,14,REP,Robin Chew,129
+San Mateo,2664,U.S. House,14,DEM,Jackie Speier,47
+San Mateo,2664,U.S. House,14,REP,Robin Chew,50
+San Mateo,2667,U.S. House,14,DEM,Jackie Speier,343
+San Mateo,2667,U.S. House,14,REP,Robin Chew,142
+San Mateo,2670,U.S. House,14,DEM,Jackie Speier,457
+San Mateo,2670,U.S. House,14,REP,Robin Chew,235
+San Mateo,2671,U.S. House,14,DEM,Jackie Speier,465
+San Mateo,2671,U.S. House,14,REP,Robin Chew,190
+San Mateo,2675,U.S. House,14,DEM,Jackie Speier,74
+San Mateo,2675,U.S. House,14,REP,Robin Chew,24
+San Mateo,2676,U.S. House,14,DEM,Jackie Speier,58
+San Mateo,2676,U.S. House,14,REP,Robin Chew,32
+San Mateo,2677,U.S. House,14,DEM,Jackie Speier,34
+San Mateo,2677,U.S. House,14,REP,Robin Chew,13
+San Mateo,2678,U.S. House,14,DEM,Jackie Speier,51
+San Mateo,2678,U.S. House,14,REP,Robin Chew,18
+San Mateo,2679,U.S. House,14,DEM,Jackie Speier,259
+San Mateo,2679,U.S. House,14,REP,Robin Chew,132
+San Mateo,2701,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,2701,U.S. House,14,REP,Robin Chew,0
+San Mateo,3001,U.S. House,18,DEM,Anna G. Eshoo,153
+San Mateo,3001,U.S. House,18,REP,Richard B. Fox,132
+San Mateo,3002,U.S. House,18,DEM,Anna G. Eshoo,275
+San Mateo,3002,U.S. House,18,REP,Richard B. Fox,253
+San Mateo,3004,U.S. House,18,DEM,Anna G. Eshoo,69
+San Mateo,3004,U.S. House,18,REP,Richard B. Fox,54
+San Mateo,3005,U.S. House,18,DEM,Anna G. Eshoo,213
+San Mateo,3005,U.S. House,18,REP,Richard B. Fox,246
+San Mateo,3006,U.S. House,18,DEM,Anna G. Eshoo,307
+San Mateo,3006,U.S. House,18,REP,Richard B. Fox,273
+San Mateo,3008,U.S. House,18,DEM,Anna G. Eshoo,217
+San Mateo,3008,U.S. House,18,REP,Richard B. Fox,196
+San Mateo,3009,U.S. House,18,DEM,Anna G. Eshoo,74
+San Mateo,3009,U.S. House,18,REP,Richard B. Fox,33
+San Mateo,3010,U.S. House,18,DEM,Anna G. Eshoo,50
+San Mateo,3010,U.S. House,18,REP,Richard B. Fox,40
+San Mateo,3102,U.S. House,14,DEM,Jackie Speier,300
+San Mateo,3102,U.S. House,14,REP,Robin Chew,101
+San Mateo,3103,U.S. House,14,DEM,Jackie Speier,182
+San Mateo,3103,U.S. House,14,REP,Robin Chew,51
+San Mateo,3123,U.S. House,14,DEM,Jackie Speier,43
+San Mateo,3123,U.S. House,14,REP,Robin Chew,21
+San Mateo,3135,U.S. House,14,DEM,Jackie Speier,326
+San Mateo,3135,U.S. House,14,REP,Robin Chew,108
+San Mateo,3201,U.S. House,14,DEM,Jackie Speier,18
+San Mateo,3201,U.S. House,14,REP,Robin Chew,3
+San Mateo,3202,U.S. House,14,DEM,Jackie Speier,185
+San Mateo,3202,U.S. House,14,REP,Robin Chew,71
+San Mateo,3203,U.S. House,14,DEM,Jackie Speier,7
+San Mateo,3203,U.S. House,14,REP,Robin Chew,1
+San Mateo,3204,U.S. House,14,DEM,Jackie Speier,8
+San Mateo,3204,U.S. House,14,REP,Robin Chew,3
+San Mateo,3210,U.S. House,14,DEM,Jackie Speier,5
+San Mateo,3210,U.S. House,14,REP,Robin Chew,2
+San Mateo,3211,U.S. House,14,DEM,Jackie Speier,2
+San Mateo,3211,U.S. House,14,REP,Robin Chew,0
+San Mateo,3213,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3213,U.S. House,14,REP,Robin Chew,0
+San Mateo,3214,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3214,U.S. House,14,REP,Robin Chew,0
+San Mateo,3301,U.S. House,14,DEM,Jackie Speier,341
+San Mateo,3301,U.S. House,14,REP,Robin Chew,93
+San Mateo,3303,U.S. House,14,DEM,Jackie Speier,296
+San Mateo,3303,U.S. House,14,REP,Robin Chew,75
+San Mateo,3304,U.S. House,14,DEM,Jackie Speier,603
+San Mateo,3304,U.S. House,14,REP,Robin Chew,130
+San Mateo,3306,U.S. House,14,DEM,Jackie Speier,372
+San Mateo,3306,U.S. House,14,REP,Robin Chew,97
+San Mateo,3307,U.S. House,14,DEM,Jackie Speier,12
+San Mateo,3307,U.S. House,14,REP,Robin Chew,2
+San Mateo,3310,U.S. House,14,DEM,Jackie Speier,304
+San Mateo,3310,U.S. House,14,REP,Robin Chew,118
+San Mateo,3311,U.S. House,14,DEM,Jackie Speier,312
+San Mateo,3311,U.S. House,14,REP,Robin Chew,131
+San Mateo,3312,U.S. House,14,DEM,Jackie Speier,385
+San Mateo,3312,U.S. House,14,REP,Robin Chew,117
+San Mateo,3313,U.S. House,14,DEM,Jackie Speier,365
+San Mateo,3313,U.S. House,14,REP,Robin Chew,114
+San Mateo,3314,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3314,U.S. House,14,REP,Robin Chew,0
+San Mateo,3316,U.S. House,14,DEM,Jackie Speier,16
+San Mateo,3316,U.S. House,14,REP,Robin Chew,0
+San Mateo,3320,U.S. House,14,DEM,Jackie Speier,324
+San Mateo,3320,U.S. House,14,REP,Robin Chew,106
+San Mateo,3321,U.S. House,14,DEM,Jackie Speier,322
+San Mateo,3321,U.S. House,14,REP,Robin Chew,102
+San Mateo,3322,U.S. House,14,DEM,Jackie Speier,272
+San Mateo,3322,U.S. House,14,REP,Robin Chew,97
+San Mateo,3323,U.S. House,14,DEM,Jackie Speier,418
+San Mateo,3323,U.S. House,14,REP,Robin Chew,129
+San Mateo,3324,U.S. House,14,DEM,Jackie Speier,370
+San Mateo,3324,U.S. House,14,REP,Robin Chew,156
+San Mateo,3325,U.S. House,14,DEM,Jackie Speier,417
+San Mateo,3325,U.S. House,14,REP,Robin Chew,88
+San Mateo,3326,U.S. House,14,DEM,Jackie Speier,392
+San Mateo,3326,U.S. House,14,REP,Robin Chew,251
+San Mateo,3327,U.S. House,14,DEM,Jackie Speier,228
+San Mateo,3327,U.S. House,14,REP,Robin Chew,60
+San Mateo,3330,U.S. House,14,DEM,Jackie Speier,6
+San Mateo,3330,U.S. House,14,REP,Robin Chew,15
+San Mateo,3331,U.S. House,14,DEM,Jackie Speier,90
+San Mateo,3331,U.S. House,14,REP,Robin Chew,56
+San Mateo,3340,U.S. House,18,DEM,Anna G. Eshoo,458
+San Mateo,3340,U.S. House,18,REP,Richard B. Fox,131
+San Mateo,3350,U.S. House,18,DEM,Anna G. Eshoo,246
+San Mateo,3350,U.S. House,18,REP,Richard B. Fox,96
+San Mateo,3360,U.S. House,18,DEM,Anna G. Eshoo,27
+San Mateo,3360,U.S. House,18,REP,Richard B. Fox,25
+San Mateo,3361,U.S. House,14,DEM,Jackie Speier,40
+San Mateo,3361,U.S. House,14,REP,Robin Chew,11
+San Mateo,3370,U.S. House,14,DEM,Jackie Speier,229
+San Mateo,3370,U.S. House,14,REP,Robin Chew,57
+San Mateo,3371,U.S. House,14,DEM,Jackie Speier,16
+San Mateo,3371,U.S. House,14,REP,Robin Chew,16
+San Mateo,3372,U.S. House,14,DEM,Jackie Speier,41
+San Mateo,3372,U.S. House,14,REP,Robin Chew,21
+San Mateo,3375,U.S. House,14,DEM,Jackie Speier,23
+San Mateo,3375,U.S. House,14,REP,Robin Chew,5
+San Mateo,3376,U.S. House,14,DEM,Jackie Speier,84
+San Mateo,3376,U.S. House,14,REP,Robin Chew,26
+San Mateo,3377,U.S. House,14,DEM,Jackie Speier,5
+San Mateo,3377,U.S. House,14,REP,Robin Chew,4
+San Mateo,3380,U.S. House,14,DEM,Jackie Speier,31
+San Mateo,3380,U.S. House,14,REP,Robin Chew,18
+San Mateo,3401,U.S. House,18,DEM,Anna G. Eshoo,329
+San Mateo,3401,U.S. House,18,REP,Richard B. Fox,130
+San Mateo,3402,U.S. House,18,DEM,Anna G. Eshoo,535
+San Mateo,3402,U.S. House,18,REP,Richard B. Fox,180
+San Mateo,3406,U.S. House,18,DEM,Anna G. Eshoo,33
+San Mateo,3406,U.S. House,18,REP,Richard B. Fox,21
+San Mateo,3407,U.S. House,18,DEM,Anna G. Eshoo,87
+San Mateo,3407,U.S. House,18,REP,Richard B. Fox,20
+San Mateo,3408,U.S. House,18,DEM,Anna G. Eshoo,37
+San Mateo,3408,U.S. House,18,REP,Richard B. Fox,13
+San Mateo,3409,U.S. House,18,DEM,Anna G. Eshoo,0
+San Mateo,3409,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,3410,U.S. House,18,DEM,Anna G. Eshoo,464
+San Mateo,3410,U.S. House,18,REP,Richard B. Fox,149
+San Mateo,3412,U.S. House,18,DEM,Anna G. Eshoo,1
+San Mateo,3412,U.S. House,18,REP,Richard B. Fox,6
+San Mateo,3420,U.S. House,18,DEM,Anna G. Eshoo,225
+San Mateo,3420,U.S. House,18,REP,Richard B. Fox,68
+San Mateo,3421,U.S. House,18,DEM,Anna G. Eshoo,24
+San Mateo,3421,U.S. House,18,REP,Richard B. Fox,6
+San Mateo,3450,U.S. House,18,DEM,Anna G. Eshoo,238
+San Mateo,3450,U.S. House,18,REP,Richard B. Fox,98
+San Mateo,3451,U.S. House,18,DEM,Anna G. Eshoo,628
+San Mateo,3451,U.S. House,18,REP,Richard B. Fox,205
+San Mateo,3452,U.S. House,18,DEM,Anna G. Eshoo,517
+San Mateo,3452,U.S. House,18,REP,Richard B. Fox,146
+San Mateo,3455,U.S. House,18,DEM,Anna G. Eshoo,540
+San Mateo,3455,U.S. House,18,REP,Richard B. Fox,309
+San Mateo,3457,U.S. House,18,DEM,Anna G. Eshoo,532
+San Mateo,3457,U.S. House,18,REP,Richard B. Fox,283
+San Mateo,3459,U.S. House,18,DEM,Anna G. Eshoo,427
+San Mateo,3459,U.S. House,18,REP,Richard B. Fox,213
+San Mateo,3460,U.S. House,18,DEM,Anna G. Eshoo,554
+San Mateo,3460,U.S. House,18,REP,Richard B. Fox,321
+San Mateo,3463,U.S. House,18,DEM,Anna G. Eshoo,13
+San Mateo,3463,U.S. House,18,REP,Richard B. Fox,3
+San Mateo,3464,U.S. House,18,DEM,Anna G. Eshoo,34
+San Mateo,3464,U.S. House,18,REP,Richard B. Fox,16
+San Mateo,3480,U.S. House,18,DEM,Anna G. Eshoo,239
+San Mateo,3480,U.S. House,18,REP,Richard B. Fox,76
+San Mateo,3501,U.S. House,14,DEM,Jackie Speier,274
+San Mateo,3501,U.S. House,14,REP,Robin Chew,55
+San Mateo,3502,U.S. House,14,DEM,Jackie Speier,318
+San Mateo,3502,U.S. House,14,REP,Robin Chew,51
+San Mateo,3503,U.S. House,14,DEM,Jackie Speier,255
+San Mateo,3503,U.S. House,14,REP,Robin Chew,64
+San Mateo,3504,U.S. House,14,DEM,Jackie Speier,259
+San Mateo,3504,U.S. House,14,REP,Robin Chew,65
+San Mateo,3505,U.S. House,14,DEM,Jackie Speier,214
+San Mateo,3505,U.S. House,14,REP,Robin Chew,57
+San Mateo,3506,U.S. House,14,DEM,Jackie Speier,37
+San Mateo,3506,U.S. House,14,REP,Robin Chew,14
+San Mateo,3507,U.S. House,14,DEM,Jackie Speier,322
+San Mateo,3507,U.S. House,14,REP,Robin Chew,72
+San Mateo,3508,U.S. House,14,DEM,Jackie Speier,401
+San Mateo,3508,U.S. House,14,REP,Robin Chew,92
+San Mateo,3509,U.S. House,14,DEM,Jackie Speier,341
+San Mateo,3509,U.S. House,14,REP,Robin Chew,115
+San Mateo,3510,U.S. House,14,DEM,Jackie Speier,301
+San Mateo,3510,U.S. House,14,REP,Robin Chew,50
+San Mateo,3512,U.S. House,14,DEM,Jackie Speier,413
+San Mateo,3512,U.S. House,14,REP,Robin Chew,107
+San Mateo,3513,U.S. House,14,DEM,Jackie Speier,353
+San Mateo,3513,U.S. House,14,REP,Robin Chew,77
+San Mateo,3515,U.S. House,14,DEM,Jackie Speier,482
+San Mateo,3515,U.S. House,14,REP,Robin Chew,132
+San Mateo,3517,U.S. House,14,DEM,Jackie Speier,240
+San Mateo,3517,U.S. House,14,REP,Robin Chew,71
+San Mateo,3518,U.S. House,14,DEM,Jackie Speier,296
+San Mateo,3518,U.S. House,14,REP,Robin Chew,150
+San Mateo,3519,U.S. House,14,DEM,Jackie Speier,283
+San Mateo,3519,U.S. House,14,REP,Robin Chew,77
+San Mateo,3520,U.S. House,14,DEM,Jackie Speier,655
+San Mateo,3520,U.S. House,14,REP,Robin Chew,200
+San Mateo,3522,U.S. House,14,DEM,Jackie Speier,265
+San Mateo,3522,U.S. House,14,REP,Robin Chew,94
+San Mateo,3523,U.S. House,14,DEM,Jackie Speier,304
+San Mateo,3523,U.S. House,14,REP,Robin Chew,68
+San Mateo,3524,U.S. House,14,DEM,Jackie Speier,280
+San Mateo,3524,U.S. House,14,REP,Robin Chew,87
+San Mateo,3525,U.S. House,14,DEM,Jackie Speier,502
+San Mateo,3525,U.S. House,14,REP,Robin Chew,173
+San Mateo,3526,U.S. House,14,DEM,Jackie Speier,315
+San Mateo,3526,U.S. House,14,REP,Robin Chew,68
+San Mateo,3528,U.S. House,14,DEM,Jackie Speier,318
+San Mateo,3528,U.S. House,14,REP,Robin Chew,95
+San Mateo,3529,U.S. House,14,DEM,Jackie Speier,372
+San Mateo,3529,U.S. House,14,REP,Robin Chew,86
+San Mateo,3530,U.S. House,14,DEM,Jackie Speier,339
+San Mateo,3530,U.S. House,14,REP,Robin Chew,83
+San Mateo,3531,U.S. House,14,DEM,Jackie Speier,267
+San Mateo,3531,U.S. House,14,REP,Robin Chew,57
+San Mateo,3532,U.S. House,14,DEM,Jackie Speier,76
+San Mateo,3532,U.S. House,14,REP,Robin Chew,13
+San Mateo,3533,U.S. House,14,DEM,Jackie Speier,99
+San Mateo,3533,U.S. House,14,REP,Robin Chew,25
+San Mateo,3540,U.S. House,14,DEM,Jackie Speier,7
+San Mateo,3540,U.S. House,14,REP,Robin Chew,0
+San Mateo,3541,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3541,U.S. House,14,REP,Robin Chew,0
+San Mateo,3542,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3542,U.S. House,14,REP,Robin Chew,0
+San Mateo,3543,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3543,U.S. House,14,REP,Robin Chew,0
+San Mateo,3601,U.S. House,14,DEM,Jackie Speier,508
+San Mateo,3601,U.S. House,14,REP,Robin Chew,195
+San Mateo,3602,U.S. House,14,DEM,Jackie Speier,413
+San Mateo,3602,U.S. House,14,REP,Robin Chew,165
+San Mateo,3605,U.S. House,14,DEM,Jackie Speier,711
+San Mateo,3605,U.S. House,14,REP,Robin Chew,230
+San Mateo,3608,U.S. House,14,DEM,Jackie Speier,558
+San Mateo,3608,U.S. House,14,REP,Robin Chew,151
+San Mateo,3610,U.S. House,14,DEM,Jackie Speier,556
+San Mateo,3610,U.S. House,14,REP,Robin Chew,184
+San Mateo,3612,U.S. House,14,DEM,Jackie Speier,271
+San Mateo,3612,U.S. House,14,REP,Robin Chew,89
+San Mateo,3613,U.S. House,14,DEM,Jackie Speier,273
+San Mateo,3613,U.S. House,14,REP,Robin Chew,101
+San Mateo,3614,U.S. House,14,DEM,Jackie Speier,573
+San Mateo,3614,U.S. House,14,REP,Robin Chew,186
+San Mateo,3616,U.S. House,14,DEM,Jackie Speier,487
+San Mateo,3616,U.S. House,14,REP,Robin Chew,180
+San Mateo,3617,U.S. House,14,DEM,Jackie Speier,535
+San Mateo,3617,U.S. House,14,REP,Robin Chew,184
+San Mateo,3620,U.S. House,14,DEM,Jackie Speier,496
+San Mateo,3620,U.S. House,14,REP,Robin Chew,202
+San Mateo,3621,U.S. House,14,DEM,Jackie Speier,510
+San Mateo,3621,U.S. House,14,REP,Robin Chew,232
+San Mateo,3624,U.S. House,14,DEM,Jackie Speier,454
+San Mateo,3624,U.S. House,14,REP,Robin Chew,193
+San Mateo,3626,U.S. House,14,DEM,Jackie Speier,194
+San Mateo,3626,U.S. House,14,REP,Robin Chew,92
+San Mateo,3627,U.S. House,14,DEM,Jackie Speier,39
+San Mateo,3627,U.S. House,14,REP,Robin Chew,31
+San Mateo,3629,U.S. House,14,DEM,Jackie Speier,2
+San Mateo,3629,U.S. House,14,REP,Robin Chew,2
+San Mateo,3630,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3630,U.S. House,14,REP,Robin Chew,0
+San Mateo,3631,U.S. House,14,DEM,Jackie Speier,32
+San Mateo,3631,U.S. House,14,REP,Robin Chew,11
+San Mateo,3632,U.S. House,14,DEM,Jackie Speier,5
+San Mateo,3632,U.S. House,14,REP,Robin Chew,1
+San Mateo,3633,U.S. House,14,DEM,Jackie Speier,45
+San Mateo,3633,U.S. House,14,REP,Robin Chew,22
+San Mateo,3634,U.S. House,14,DEM,Jackie Speier,2
+San Mateo,3634,U.S. House,14,REP,Robin Chew,8
+San Mateo,3635,U.S. House,14,DEM,Jackie Speier,10
+San Mateo,3635,U.S. House,14,REP,Robin Chew,2
+San Mateo,3637,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,3637,U.S. House,14,REP,Robin Chew,0
+San Mateo,3638,U.S. House,14,DEM,Jackie Speier,84
+San Mateo,3638,U.S. House,14,REP,Robin Chew,28
+San Mateo,3701,U.S. House,18,DEM,Anna G. Eshoo,373
+San Mateo,3701,U.S. House,18,REP,Richard B. Fox,164
+San Mateo,3702,U.S. House,18,DEM,Anna G. Eshoo,358
+San Mateo,3702,U.S. House,18,REP,Richard B. Fox,188
+San Mateo,3703,U.S. House,18,DEM,Anna G. Eshoo,213
+San Mateo,3703,U.S. House,18,REP,Richard B. Fox,130
+San Mateo,3704,U.S. House,14,DEM,Jackie Speier,2
+San Mateo,3704,U.S. House,14,REP,Robin Chew,1
+San Mateo,3706,U.S. House,18,DEM,Anna G. Eshoo,38
+San Mateo,3706,U.S. House,18,REP,Richard B. Fox,23
+San Mateo,3707,U.S. House,18,DEM,Anna G. Eshoo,13
+San Mateo,3707,U.S. House,18,REP,Richard B. Fox,13
+San Mateo,3708,U.S. House,18,DEM,Anna G. Eshoo,25
+San Mateo,3708,U.S. House,18,REP,Richard B. Fox,17
+San Mateo,3709,U.S. House,18,DEM,Anna G. Eshoo,84
+San Mateo,3709,U.S. House,18,REP,Richard B. Fox,38
+San Mateo,3710,U.S. House,14,DEM,Jackie Speier,199
+San Mateo,3710,U.S. House,14,REP,Robin Chew,93
+San Mateo,3711,U.S. House,18,DEM,Anna G. Eshoo,3
+San Mateo,3711,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,3712,U.S. House,18,DEM,Anna G. Eshoo,18
+San Mateo,3712,U.S. House,18,REP,Richard B. Fox,11
+San Mateo,3720,U.S. House,18,DEM,Anna G. Eshoo,227
+San Mateo,3720,U.S. House,18,REP,Richard B. Fox,101
+San Mateo,3721,U.S. House,18,DEM,Anna G. Eshoo,441
+San Mateo,3721,U.S. House,18,REP,Richard B. Fox,202
+San Mateo,3723,U.S. House,18,DEM,Anna G. Eshoo,6
+San Mateo,3723,U.S. House,18,REP,Richard B. Fox,6
+San Mateo,3801,U.S. House,18,DEM,Anna G. Eshoo,131
+San Mateo,3801,U.S. House,18,REP,Richard B. Fox,75
+San Mateo,3802,U.S. House,18,DEM,Anna G. Eshoo,538
+San Mateo,3802,U.S. House,18,REP,Richard B. Fox,350
+San Mateo,3803,U.S. House,18,DEM,Anna G. Eshoo,66
+San Mateo,3803,U.S. House,18,REP,Richard B. Fox,50
+San Mateo,3806,U.S. House,18,DEM,Anna G. Eshoo,238
+San Mateo,3806,U.S. House,18,REP,Richard B. Fox,167
+San Mateo,3807,U.S. House,18,DEM,Anna G. Eshoo,16
+San Mateo,3807,U.S. House,18,REP,Richard B. Fox,12
+San Mateo,3808,U.S. House,18,DEM,Anna G. Eshoo,123
+San Mateo,3808,U.S. House,18,REP,Richard B. Fox,143
+San Mateo,3811,U.S. House,18,DEM,Anna G. Eshoo,9
+San Mateo,3811,U.S. House,18,REP,Richard B. Fox,14
+San Mateo,3812,U.S. House,18,DEM,Anna G. Eshoo,47
+San Mateo,3812,U.S. House,18,REP,Richard B. Fox,53
+San Mateo,3901,U.S. House,18,DEM,Anna G. Eshoo,513
+San Mateo,3901,U.S. House,18,REP,Richard B. Fox,170
+San Mateo,3903,U.S. House,18,DEM,Anna G. Eshoo,415
+San Mateo,3903,U.S. House,18,REP,Richard B. Fox,162
+San Mateo,3905,U.S. House,18,DEM,Anna G. Eshoo,408
+San Mateo,3905,U.S. House,18,REP,Richard B. Fox,258
+San Mateo,4001,U.S. House,14,DEM,Jackie Speier,151
+San Mateo,4001,U.S. House,14,REP,Robin Chew,20
+San Mateo,4002,U.S. House,14,DEM,Jackie Speier,144
+San Mateo,4002,U.S. House,14,REP,Robin Chew,14
+San Mateo,4003,U.S. House,14,DEM,Jackie Speier,153
+San Mateo,4003,U.S. House,14,REP,Robin Chew,15
+San Mateo,4004,U.S. House,14,DEM,Jackie Speier,158
+San Mateo,4004,U.S. House,14,REP,Robin Chew,13
+San Mateo,4005,U.S. House,14,DEM,Jackie Speier,153
+San Mateo,4005,U.S. House,14,REP,Robin Chew,11
+San Mateo,4006,U.S. House,14,DEM,Jackie Speier,164
+San Mateo,4006,U.S. House,14,REP,Robin Chew,29
+San Mateo,4007,U.S. House,14,DEM,Jackie Speier,174
+San Mateo,4007,U.S. House,14,REP,Robin Chew,46
+San Mateo,4008,U.S. House,14,DEM,Jackie Speier,185
+San Mateo,4008,U.S. House,14,REP,Robin Chew,12
+San Mateo,4009,U.S. House,14,DEM,Jackie Speier,203
+San Mateo,4009,U.S. House,14,REP,Robin Chew,12
+San Mateo,4010,U.S. House,14,DEM,Jackie Speier,116
+San Mateo,4010,U.S. House,14,REP,Robin Chew,25
+San Mateo,4011,U.S. House,14,DEM,Jackie Speier,243
+San Mateo,4011,U.S. House,14,REP,Robin Chew,38
+San Mateo,4013,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,4013,U.S. House,14,REP,Robin Chew,0
+San Mateo,4014,U.S. House,14,DEM,Jackie Speier,240
+San Mateo,4014,U.S. House,14,REP,Robin Chew,21
+San Mateo,4015,U.S. House,14,DEM,Jackie Speier,132
+San Mateo,4015,U.S. House,14,REP,Robin Chew,19
+San Mateo,4401,U.S. House,18,DEM,Anna G. Eshoo,331
+San Mateo,4401,U.S. House,18,REP,Richard B. Fox,124
+San Mateo,4402,U.S. House,18,DEM,Anna G. Eshoo,313
+San Mateo,4402,U.S. House,18,REP,Richard B. Fox,78
+San Mateo,4403,U.S. House,14,DEM,Jackie Speier,204
+San Mateo,4403,U.S. House,14,REP,Robin Chew,26
+San Mateo,4404,U.S. House,14,DEM,Jackie Speier,327
+San Mateo,4404,U.S. House,14,REP,Robin Chew,34
+San Mateo,4406,U.S. House,18,DEM,Anna G. Eshoo,10
+San Mateo,4406,U.S. House,18,REP,Richard B. Fox,2
+San Mateo,4407,U.S. House,18,DEM,Anna G. Eshoo,816
+San Mateo,4407,U.S. House,18,REP,Richard B. Fox,156
+San Mateo,4409,U.S. House,18,DEM,Anna G. Eshoo,748
+San Mateo,4409,U.S. House,18,REP,Richard B. Fox,190
+San Mateo,4412,U.S. House,18,DEM,Anna G. Eshoo,476
+San Mateo,4412,U.S. House,18,REP,Richard B. Fox,146
+San Mateo,4414,U.S. House,18,DEM,Anna G. Eshoo,177
+San Mateo,4414,U.S. House,18,REP,Richard B. Fox,33
+San Mateo,4415,U.S. House,18,DEM,Anna G. Eshoo,231
+San Mateo,4415,U.S. House,18,REP,Richard B. Fox,150
+San Mateo,4431,U.S. House,18,DEM,Anna G. Eshoo,28
+San Mateo,4431,U.S. House,18,REP,Richard B. Fox,2
+San Mateo,4432,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,4432,U.S. House,14,REP,Robin Chew,0
+San Mateo,4433,U.S. House,18,DEM,Anna G. Eshoo,102
+San Mateo,4433,U.S. House,18,REP,Richard B. Fox,24
+San Mateo,4434,U.S. House,18,DEM,Anna G. Eshoo,0
+San Mateo,4434,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,4435,U.S. House,18,DEM,Anna G. Eshoo,0
+San Mateo,4435,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,4436,U.S. House,18,DEM,Anna G. Eshoo,9
+San Mateo,4436,U.S. House,18,REP,Richard B. Fox,1
+San Mateo,4501,U.S. House,18,DEM,Anna G. Eshoo,128
+San Mateo,4501,U.S. House,18,REP,Richard B. Fox,37
+San Mateo,4502,U.S. House,18,DEM,Anna G. Eshoo,185
+San Mateo,4502,U.S. House,18,REP,Richard B. Fox,70
+San Mateo,4503,U.S. House,18,DEM,Anna G. Eshoo,389
+San Mateo,4503,U.S. House,18,REP,Richard B. Fox,111
+San Mateo,4505,U.S. House,18,DEM,Anna G. Eshoo,301
+San Mateo,4505,U.S. House,18,REP,Richard B. Fox,52
+San Mateo,4506,U.S. House,18,DEM,Anna G. Eshoo,259
+San Mateo,4506,U.S. House,18,REP,Richard B. Fox,51
+San Mateo,4507,U.S. House,14,DEM,Jackie Speier,45
+San Mateo,4507,U.S. House,14,REP,Robin Chew,18
+San Mateo,4508,U.S. House,18,DEM,Anna G. Eshoo,36
+San Mateo,4508,U.S. House,18,REP,Richard B. Fox,18
+San Mateo,4601,U.S. House,14,DEM,Jackie Speier,252
+San Mateo,4601,U.S. House,14,REP,Robin Chew,68
+San Mateo,4602,U.S. House,14,DEM,Jackie Speier,246
+San Mateo,4602,U.S. House,14,REP,Robin Chew,62
+San Mateo,4603,U.S. House,14,DEM,Jackie Speier,143
+San Mateo,4603,U.S. House,14,REP,Robin Chew,48
+San Mateo,4604,U.S. House,14,DEM,Jackie Speier,339
+San Mateo,4604,U.S. House,14,REP,Robin Chew,81
+San Mateo,4606,U.S. House,14,DEM,Jackie Speier,255
+San Mateo,4606,U.S. House,14,REP,Robin Chew,69
+San Mateo,4607,U.S. House,14,DEM,Jackie Speier,255
+San Mateo,4607,U.S. House,14,REP,Robin Chew,105
+San Mateo,4608,U.S. House,14,DEM,Jackie Speier,258
+San Mateo,4608,U.S. House,14,REP,Robin Chew,60
+San Mateo,4609,U.S. House,14,DEM,Jackie Speier,311
+San Mateo,4609,U.S. House,14,REP,Robin Chew,57
+San Mateo,4611,U.S. House,18,DEM,Anna G. Eshoo,254
+San Mateo,4611,U.S. House,18,REP,Richard B. Fox,91
+San Mateo,4612,U.S. House,18,DEM,Anna G. Eshoo,600
+San Mateo,4612,U.S. House,18,REP,Richard B. Fox,249
+San Mateo,4613,U.S. House,18,DEM,Anna G. Eshoo,194
+San Mateo,4613,U.S. House,18,REP,Richard B. Fox,59
+San Mateo,4614,U.S. House,18,DEM,Anna G. Eshoo,296
+San Mateo,4614,U.S. House,18,REP,Richard B. Fox,94
+San Mateo,4615,U.S. House,18,DEM,Anna G. Eshoo,231
+San Mateo,4615,U.S. House,18,REP,Richard B. Fox,58
+San Mateo,4616,U.S. House,18,DEM,Anna G. Eshoo,432
+San Mateo,4616,U.S. House,18,REP,Richard B. Fox,179
+San Mateo,4617,U.S. House,18,DEM,Anna G. Eshoo,186
+San Mateo,4617,U.S. House,18,REP,Richard B. Fox,73
+San Mateo,4618,U.S. House,18,DEM,Anna G. Eshoo,466
+San Mateo,4618,U.S. House,18,REP,Richard B. Fox,147
+San Mateo,4619,U.S. House,14,DEM,Jackie Speier,181
+San Mateo,4619,U.S. House,14,REP,Robin Chew,16
+San Mateo,4620,U.S. House,18,DEM,Anna G. Eshoo,244
+San Mateo,4620,U.S. House,18,REP,Richard B. Fox,51
+San Mateo,4621,U.S. House,18,DEM,Anna G. Eshoo,251
+San Mateo,4621,U.S. House,18,REP,Richard B. Fox,77
+San Mateo,4622,U.S. House,18,DEM,Anna G. Eshoo,334
+San Mateo,4622,U.S. House,18,REP,Richard B. Fox,70
+San Mateo,4625,U.S. House,18,DEM,Anna G. Eshoo,248
+San Mateo,4625,U.S. House,18,REP,Richard B. Fox,56
+San Mateo,4626,U.S. House,18,DEM,Anna G. Eshoo,258
+San Mateo,4626,U.S. House,18,REP,Richard B. Fox,70
+San Mateo,4627,U.S. House,18,DEM,Anna G. Eshoo,537
+San Mateo,4627,U.S. House,18,REP,Richard B. Fox,190
+San Mateo,4629,U.S. House,18,DEM,Anna G. Eshoo,201
+San Mateo,4629,U.S. House,18,REP,Richard B. Fox,103
+San Mateo,4630,U.S. House,18,DEM,Anna G. Eshoo,250
+San Mateo,4630,U.S. House,18,REP,Richard B. Fox,101
+San Mateo,4631,U.S. House,18,DEM,Anna G. Eshoo,273
+San Mateo,4631,U.S. House,18,REP,Richard B. Fox,95
+San Mateo,4633,U.S. House,18,DEM,Anna G. Eshoo,756
+San Mateo,4633,U.S. House,18,REP,Richard B. Fox,359
+San Mateo,4636,U.S. House,18,DEM,Anna G. Eshoo,46
+San Mateo,4636,U.S. House,18,REP,Richard B. Fox,49
+San Mateo,4637,U.S. House,18,DEM,Anna G. Eshoo,135
+San Mateo,4637,U.S. House,18,REP,Richard B. Fox,67
+San Mateo,4638,U.S. House,18,DEM,Anna G. Eshoo,447
+San Mateo,4638,U.S. House,18,REP,Richard B. Fox,236
+San Mateo,4639,U.S. House,18,DEM,Anna G. Eshoo,263
+San Mateo,4639,U.S. House,18,REP,Richard B. Fox,127
+San Mateo,4650,U.S. House,14,DEM,Jackie Speier,14
+San Mateo,4650,U.S. House,14,REP,Robin Chew,1
+San Mateo,4651,U.S. House,14,DEM,Jackie Speier,18
+San Mateo,4651,U.S. House,14,REP,Robin Chew,10
+San Mateo,4652,U.S. House,14,DEM,Jackie Speier,37
+San Mateo,4652,U.S. House,14,REP,Robin Chew,10
+San Mateo,4653,U.S. House,18,DEM,Anna G. Eshoo,42
+San Mateo,4653,U.S. House,18,REP,Richard B. Fox,10
+San Mateo,4654,U.S. House,18,DEM,Anna G. Eshoo,0
+San Mateo,4654,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,4655,U.S. House,18,DEM,Anna G. Eshoo,3
+San Mateo,4655,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,4656,U.S. House,14,DEM,Jackie Speier,92
+San Mateo,4656,U.S. House,14,REP,Robin Chew,33
+San Mateo,4657,U.S. House,18,DEM,Anna G. Eshoo,49
+San Mateo,4657,U.S. House,18,REP,Richard B. Fox,18
+San Mateo,4659,U.S. House,18,DEM,Anna G. Eshoo,8
+San Mateo,4659,U.S. House,18,REP,Richard B. Fox,9
+San Mateo,4663,U.S. House,18,DEM,Anna G. Eshoo,36
+San Mateo,4663,U.S. House,18,REP,Richard B. Fox,28
+San Mateo,4670,U.S. House,18,DEM,Anna G. Eshoo,0
+San Mateo,4670,U.S. House,18,REP,Richard B. Fox,0
+San Mateo,4680,U.S. House,14,DEM,Jackie Speier,472
+San Mateo,4680,U.S. House,14,REP,Robin Chew,188
+San Mateo,4681,U.S. House,14,DEM,Jackie Speier,549
+San Mateo,4681,U.S. House,14,REP,Robin Chew,194
+San Mateo,4684,U.S. House,14,DEM,Jackie Speier,284
+San Mateo,4684,U.S. House,14,REP,Robin Chew,130
+San Mateo,4685,U.S. House,14,DEM,Jackie Speier,308
+San Mateo,4685,U.S. House,14,REP,Robin Chew,115
+San Mateo,4686,U.S. House,14,DEM,Jackie Speier,385
+San Mateo,4686,U.S. House,14,REP,Robin Chew,193
+San Mateo,4688,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,4688,U.S. House,14,REP,Robin Chew,0
+San Mateo,4701,U.S. House,18,DEM,Anna G. Eshoo,81
+San Mateo,4701,U.S. House,18,REP,Richard B. Fox,38
+San Mateo,4702,U.S. House,18,DEM,Anna G. Eshoo,34
+San Mateo,4702,U.S. House,18,REP,Richard B. Fox,20
+San Mateo,4708,U.S. House,18,DEM,Anna G. Eshoo,51
+San Mateo,4708,U.S. House,18,REP,Richard B. Fox,18
+San Mateo,4710,U.S. House,18,DEM,Anna G. Eshoo,2
+San Mateo,4710,U.S. House,18,REP,Richard B. Fox,4
+San Mateo,5001,U.S. House,14,DEM,Jackie Speier,359
+San Mateo,5001,U.S. House,14,REP,Robin Chew,74
+San Mateo,5002,U.S. House,14,DEM,Jackie Speier,392
+San Mateo,5002,U.S. House,14,REP,Robin Chew,84
+San Mateo,5003,U.S. House,14,DEM,Jackie Speier,256
+San Mateo,5003,U.S. House,14,REP,Robin Chew,89
+San Mateo,5101,U.S. House,14,DEM,Jackie Speier,491
+San Mateo,5101,U.S. House,14,REP,Robin Chew,131
+San Mateo,5103,U.S. House,14,DEM,Jackie Speier,372
+San Mateo,5103,U.S. House,14,REP,Robin Chew,77
+San Mateo,5105,U.S. House,14,DEM,Jackie Speier,17
+San Mateo,5105,U.S. House,14,REP,Robin Chew,0
+San Mateo,5301,U.S. House,14,DEM,Jackie Speier,209
+San Mateo,5301,U.S. House,14,REP,Robin Chew,45
+San Mateo,5521,U.S. House,14,DEM,Jackie Speier,263
+San Mateo,5521,U.S. House,14,REP,Robin Chew,79
+San Mateo,5522,U.S. House,14,DEM,Jackie Speier,290
+San Mateo,5522,U.S. House,14,REP,Robin Chew,93
+San Mateo,5523,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5523,U.S. House,14,REP,Robin Chew,0
+San Mateo,5524,U.S. House,14,DEM,Jackie Speier,249
+San Mateo,5524,U.S. House,14,REP,Robin Chew,71
+San Mateo,5525,U.S. House,14,DEM,Jackie Speier,433
+San Mateo,5525,U.S. House,14,REP,Robin Chew,139
+San Mateo,5528,U.S. House,14,DEM,Jackie Speier,408
+San Mateo,5528,U.S. House,14,REP,Robin Chew,137
+San Mateo,5530,U.S. House,14,DEM,Jackie Speier,81
+San Mateo,5530,U.S. House,14,REP,Robin Chew,22
+San Mateo,5531,U.S. House,14,DEM,Jackie Speier,22
+San Mateo,5531,U.S. House,14,REP,Robin Chew,3
+San Mateo,5534,U.S. House,14,DEM,Jackie Speier,30
+San Mateo,5534,U.S. House,14,REP,Robin Chew,8
+San Mateo,5535,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5535,U.S. House,14,REP,Robin Chew,0
+San Mateo,5601,U.S. House,14,DEM,Jackie Speier,302
+San Mateo,5601,U.S. House,14,REP,Robin Chew,85
+San Mateo,5602,U.S. House,14,DEM,Jackie Speier,217
+San Mateo,5602,U.S. House,14,REP,Robin Chew,30
+San Mateo,5603,U.S. House,14,DEM,Jackie Speier,323
+San Mateo,5603,U.S. House,14,REP,Robin Chew,60
+San Mateo,5604,U.S. House,14,DEM,Jackie Speier,400
+San Mateo,5604,U.S. House,14,REP,Robin Chew,85
+San Mateo,5605,U.S. House,14,DEM,Jackie Speier,321
+San Mateo,5605,U.S. House,14,REP,Robin Chew,45
+San Mateo,5607,U.S. House,14,DEM,Jackie Speier,209
+San Mateo,5607,U.S. House,14,REP,Robin Chew,38
+San Mateo,5608,U.S. House,14,DEM,Jackie Speier,213
+San Mateo,5608,U.S. House,14,REP,Robin Chew,51
+San Mateo,5609,U.S. House,14,DEM,Jackie Speier,404
+San Mateo,5609,U.S. House,14,REP,Robin Chew,78
+San Mateo,5611,U.S. House,14,DEM,Jackie Speier,378
+San Mateo,5611,U.S. House,14,REP,Robin Chew,82
+San Mateo,5612,U.S. House,14,DEM,Jackie Speier,476
+San Mateo,5612,U.S. House,14,REP,Robin Chew,128
+San Mateo,5615,U.S. House,14,DEM,Jackie Speier,407
+San Mateo,5615,U.S. House,14,REP,Robin Chew,100
+San Mateo,5617,U.S. House,14,DEM,Jackie Speier,515
+San Mateo,5617,U.S. House,14,REP,Robin Chew,92
+San Mateo,5619,U.S. House,14,DEM,Jackie Speier,179
+San Mateo,5619,U.S. House,14,REP,Robin Chew,51
+San Mateo,5620,U.S. House,14,DEM,Jackie Speier,370
+San Mateo,5620,U.S. House,14,REP,Robin Chew,151
+San Mateo,5622,U.S. House,14,DEM,Jackie Speier,169
+San Mateo,5622,U.S. House,14,REP,Robin Chew,68
+San Mateo,5623,U.S. House,14,DEM,Jackie Speier,415
+San Mateo,5623,U.S. House,14,REP,Robin Chew,84
+San Mateo,5624,U.S. House,14,DEM,Jackie Speier,210
+San Mateo,5624,U.S. House,14,REP,Robin Chew,52
+San Mateo,5625,U.S. House,14,DEM,Jackie Speier,178
+San Mateo,5625,U.S. House,14,REP,Robin Chew,38
+San Mateo,5627,U.S. House,14,DEM,Jackie Speier,209
+San Mateo,5627,U.S. House,14,REP,Robin Chew,57
+San Mateo,5628,U.S. House,14,DEM,Jackie Speier,133
+San Mateo,5628,U.S. House,14,REP,Robin Chew,25
+San Mateo,5629,U.S. House,14,DEM,Jackie Speier,178
+San Mateo,5629,U.S. House,14,REP,Robin Chew,43
+San Mateo,5631,U.S. House,14,DEM,Jackie Speier,397
+San Mateo,5631,U.S. House,14,REP,Robin Chew,97
+San Mateo,5633,U.S. House,14,DEM,Jackie Speier,424
+San Mateo,5633,U.S. House,14,REP,Robin Chew,81
+San Mateo,5635,U.S. House,14,DEM,Jackie Speier,539
+San Mateo,5635,U.S. House,14,REP,Robin Chew,153
+San Mateo,5636,U.S. House,14,DEM,Jackie Speier,199
+San Mateo,5636,U.S. House,14,REP,Robin Chew,51
+San Mateo,5639,U.S. House,14,DEM,Jackie Speier,350
+San Mateo,5639,U.S. House,14,REP,Robin Chew,84
+San Mateo,5641,U.S. House,14,DEM,Jackie Speier,585
+San Mateo,5641,U.S. House,14,REP,Robin Chew,130
+San Mateo,5644,U.S. House,14,DEM,Jackie Speier,166
+San Mateo,5644,U.S. House,14,REP,Robin Chew,44
+San Mateo,5645,U.S. House,14,DEM,Jackie Speier,162
+San Mateo,5645,U.S. House,14,REP,Robin Chew,53
+San Mateo,5646,U.S. House,14,DEM,Jackie Speier,254
+San Mateo,5646,U.S. House,14,REP,Robin Chew,49
+San Mateo,5647,U.S. House,14,DEM,Jackie Speier,235
+San Mateo,5647,U.S. House,14,REP,Robin Chew,53
+San Mateo,5648,U.S. House,14,DEM,Jackie Speier,444
+San Mateo,5648,U.S. House,14,REP,Robin Chew,123
+San Mateo,5650,U.S. House,14,DEM,Jackie Speier,221
+San Mateo,5650,U.S. House,14,REP,Robin Chew,52
+San Mateo,5651,U.S. House,14,DEM,Jackie Speier,475
+San Mateo,5651,U.S. House,14,REP,Robin Chew,152
+San Mateo,5701,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5701,U.S. House,14,REP,Robin Chew,0
+San Mateo,5809,U.S. House,14,DEM,Jackie Speier,130
+San Mateo,5809,U.S. House,14,REP,Robin Chew,62
+San Mateo,5816,U.S. House,14,DEM,Jackie Speier,36
+San Mateo,5816,U.S. House,14,REP,Robin Chew,11
+San Mateo,5822,U.S. House,14,DEM,Jackie Speier,226
+San Mateo,5822,U.S. House,14,REP,Robin Chew,59
+San Mateo,5823,U.S. House,14,DEM,Jackie Speier,232
+San Mateo,5823,U.S. House,14,REP,Robin Chew,53
+San Mateo,5825,U.S. House,14,DEM,Jackie Speier,445
+San Mateo,5825,U.S. House,14,REP,Robin Chew,104
+San Mateo,5827,U.S. House,14,DEM,Jackie Speier,421
+San Mateo,5827,U.S. House,14,REP,Robin Chew,116
+San Mateo,5829,U.S. House,14,DEM,Jackie Speier,495
+San Mateo,5829,U.S. House,14,REP,Robin Chew,126
+San Mateo,5832,U.S. House,14,DEM,Jackie Speier,192
+San Mateo,5832,U.S. House,14,REP,Robin Chew,68
+San Mateo,5901,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5901,U.S. House,14,REP,Robin Chew,0
+San Mateo,5902,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5902,U.S. House,14,REP,Robin Chew,0
+San Mateo,5903,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5903,U.S. House,14,REP,Robin Chew,0
+San Mateo,5904,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5904,U.S. House,14,REP,Robin Chew,0
+San Mateo,5905,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5905,U.S. House,14,REP,Robin Chew,0
+San Mateo,5906,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5906,U.S. House,14,REP,Robin Chew,0
+San Mateo,5907,U.S. House,14,DEM,Jackie Speier,0
+San Mateo,5907,U.S. House,14,REP,Robin Chew,0
