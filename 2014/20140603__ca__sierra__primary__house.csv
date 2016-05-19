@@ -1,0 +1,89 @@
+county,precinct,office,district,party,candidate,votes
+Sierra,001,U.S. House,1,DEM,Dan Levine,3
+Sierra,001,U.S. House,1,DEM,Heidi Hall,32
+Sierra,001,U.S. House,1,REP,Doug La Malfa,69
+Sierra,001,U.S. House,1,REP,Gregory Cheadle,8
+Sierra,002,U.S. House,1,DEM,Dan Levine,8
+Sierra,002,U.S. House,1,DEM,Heidi Hall,14
+Sierra,002,U.S. House,1,REP,Doug La Malfa,20
+Sierra,002,U.S. House,1,REP,Gregory Cheadle,2
+Sierra,003,U.S. House,1,DEM,Dan Levine,3
+Sierra,003,U.S. House,1,DEM,Heidi Hall,14
+Sierra,003,U.S. House,1,REP,Doug La Malfa,24
+Sierra,003,U.S. House,1,REP,Gregory Cheadle,6
+Sierra,004,U.S. House,1,DEM,Dan Levine,1
+Sierra,004,U.S. House,1,DEM,Heidi Hall,19
+Sierra,004,U.S. House,1,REP,Doug La Malfa,26
+Sierra,004,U.S. House,1,REP,Gregory Cheadle,1
+Sierra,005,U.S. House,1,DEM,Dan Levine,4
+Sierra,005,U.S. House,1,DEM,Heidi Hall,26
+Sierra,005,U.S. House,1,REP,Doug La Malfa,22
+Sierra,005,U.S. House,1,REP,Gregory Cheadle,13
+Sierra,006,U.S. House,1,DEM,Dan Levine,4
+Sierra,006,U.S. House,1,DEM,Heidi Hall,30
+Sierra,006,U.S. House,1,REP,Doug La Malfa,53
+Sierra,006,U.S. House,1,REP,Gregory Cheadle,8
+Sierra,007,U.S. House,1,DEM,Dan Levine,2
+Sierra,007,U.S. House,1,DEM,Heidi Hall,34
+Sierra,007,U.S. House,1,REP,Doug La Malfa,40
+Sierra,007,U.S. House,1,REP,Gregory Cheadle,10
+Sierra,008,U.S. House,1,DEM,Dan Levine,0
+Sierra,008,U.S. House,1,DEM,Heidi Hall,2
+Sierra,008,U.S. House,1,REP,Doug La Malfa,3
+Sierra,008,U.S. House,1,REP,Gregory Cheadle,0
+Sierra,009,U.S. House,1,DEM,Dan Levine,1
+Sierra,009,U.S. House,1,DEM,Heidi Hall,13
+Sierra,009,U.S. House,1,REP,Doug La Malfa,10
+Sierra,009,U.S. House,1,REP,Gregory Cheadle,3
+Sierra,010,U.S. House,1,DEM,Dan Levine,0
+Sierra,010,U.S. House,1,DEM,Heidi Hall,1
+Sierra,010,U.S. House,1,REP,Doug La Malfa,2
+Sierra,010,U.S. House,1,REP,Gregory Cheadle,0
+Sierra,011,U.S. House,1,DEM,Dan Levine,1
+Sierra,011,U.S. House,1,DEM,Heidi Hall,17
+Sierra,011,U.S. House,1,REP,Doug La Malfa,18
+Sierra,011,U.S. House,1,REP,Gregory Cheadle,3
+Sierra,012,U.S. House,1,DEM,Dan Levine,6
+Sierra,012,U.S. House,1,DEM,Heidi Hall,33
+Sierra,012,U.S. House,1,REP,Doug La Malfa,64
+Sierra,012,U.S. House,1,REP,Gregory Cheadle,5
+Sierra,013,U.S. House,1,DEM,Dan Levine,2
+Sierra,013,U.S. House,1,DEM,Heidi Hall,10
+Sierra,013,U.S. House,1,REP,Doug La Malfa,21
+Sierra,013,U.S. House,1,REP,Gregory Cheadle,0
+Sierra,014,U.S. House,1,DEM,Dan Levine,0
+Sierra,014,U.S. House,1,DEM,Heidi Hall,26
+Sierra,014,U.S. House,1,REP,Doug La Malfa,60
+Sierra,014,U.S. House,1,REP,Gregory Cheadle,2
+Sierra,015,U.S. House,1,DEM,Dan Levine,1
+Sierra,015,U.S. House,1,DEM,Heidi Hall,13
+Sierra,015,U.S. House,1,REP,Doug La Malfa,30
+Sierra,015,U.S. House,1,REP,Gregory Cheadle,4
+Sierra,016,U.S. House,1,DEM,Dan Levine,4
+Sierra,016,U.S. House,1,DEM,Heidi Hall,23
+Sierra,016,U.S. House,1,REP,Doug La Malfa,35
+Sierra,016,U.S. House,1,REP,Gregory Cheadle,10
+Sierra,017,U.S. House,1,DEM,Dan Levine,5
+Sierra,017,U.S. House,1,DEM,Heidi Hall,25
+Sierra,017,U.S. House,1,REP,Doug La Malfa,61
+Sierra,017,U.S. House,1,REP,Gregory Cheadle,11
+Sierra,018,U.S. House,1,DEM,Dan Levine,1
+Sierra,018,U.S. House,1,DEM,Heidi Hall,18
+Sierra,018,U.S. House,1,REP,Doug La Malfa,20
+Sierra,018,U.S. House,1,REP,Gregory Cheadle,6
+Sierra,019,U.S. House,1,DEM,Dan Levine,3
+Sierra,019,U.S. House,1,DEM,Heidi Hall,2
+Sierra,019,U.S. House,1,REP,Doug La Malfa,2
+Sierra,019,U.S. House,1,REP,Gregory Cheadle,0
+Sierra,020,U.S. House,1,DEM,Dan Levine,4
+Sierra,020,U.S. House,1,DEM,Heidi Hall,8
+Sierra,020,U.S. House,1,REP,Doug La Malfa,1
+Sierra,020,U.S. House,1,REP,Gregory Cheadle,0
+Sierra,021,U.S. House,1,DEM,Dan Levine,4
+Sierra,021,U.S. House,1,DEM,Heidi Hall,21
+Sierra,021,U.S. House,1,REP,Doug La Malfa,58
+Sierra,021,U.S. House,1,REP,Gregory Cheadle,9
+Sierra,022,U.S. House,1,DEM,Dan Levine,8
+Sierra,022,U.S. House,1,DEM,Heidi Hall,24
+Sierra,022,U.S. House,1,REP,Doug La Malfa,53
+Sierra,022,U.S. House,1,REP,Gregory Cheadle,10

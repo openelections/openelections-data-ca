@@ -1,0 +1,646 @@
+county,precinct,office,district,party,candidate,votes
+Sonoma,1001,U.S. House,5,DEM,Mike Thompson,104
+Sonoma,1001,U.S. House,5,IND,Douglas Van Raam,7
+Sonoma,1001,U.S. House,5,IND,James Hinton,12
+Sonoma,1002,U.S. House,5,DEM,Mike Thompson,10
+Sonoma,1002,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,1002,U.S. House,5,IND,James Hinton,0
+Sonoma,1004,U.S. House,5,DEM,Mike Thompson,10
+Sonoma,1004,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,1004,U.S. House,5,IND,James Hinton,1
+Sonoma,1006,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1006,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1006,U.S. House,5,IND,James Hinton,0
+Sonoma,1008,U.S. House,5,DEM,Mike Thompson,54
+Sonoma,1008,U.S. House,5,IND,Douglas Van Raam,10
+Sonoma,1008,U.S. House,5,IND,James Hinton,3
+Sonoma,1009,U.S. House,5,DEM,Mike Thompson,36
+Sonoma,1009,U.S. House,5,IND,Douglas Van Raam,6
+Sonoma,1009,U.S. House,5,IND,James Hinton,6
+Sonoma,1010,U.S. House,5,DEM,Mike Thompson,67
+Sonoma,1010,U.S. House,5,IND,Douglas Van Raam,10
+Sonoma,1010,U.S. House,5,IND,James Hinton,8
+Sonoma,1011,U.S. House,5,DEM,Mike Thompson,50
+Sonoma,1011,U.S. House,5,IND,Douglas Van Raam,10
+Sonoma,1011,U.S. House,5,IND,James Hinton,11
+Sonoma,1012,U.S. House,5,DEM,Mike Thompson,9
+Sonoma,1012,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1012,U.S. House,5,IND,James Hinton,0
+Sonoma,1014,U.S. House,5,DEM,Mike Thompson,468
+Sonoma,1014,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,1014,U.S. House,5,IND,James Hinton,66
+Sonoma,1016,U.S. House,5,DEM,Mike Thompson,16
+Sonoma,1016,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,1016,U.S. House,5,IND,James Hinton,4
+Sonoma,1017,U.S. House,5,DEM,Mike Thompson,256
+Sonoma,1017,U.S. House,5,IND,Douglas Van Raam,13
+Sonoma,1017,U.S. House,5,IND,James Hinton,30
+Sonoma,1021,U.S. House,5,DEM,Mike Thompson,271
+Sonoma,1021,U.S. House,5,IND,Douglas Van Raam,26
+Sonoma,1021,U.S. House,5,IND,James Hinton,60
+Sonoma,1023,U.S. House,5,DEM,Mike Thompson,386
+Sonoma,1023,U.S. House,5,IND,Douglas Van Raam,20
+Sonoma,1023,U.S. House,5,IND,James Hinton,41
+Sonoma,1025,U.S. House,5,DEM,Mike Thompson,511
+Sonoma,1025,U.S. House,5,IND,Douglas Van Raam,47
+Sonoma,1025,U.S. House,5,IND,James Hinton,83
+Sonoma,1028,U.S. House,5,DEM,Mike Thompson,402
+Sonoma,1028,U.S. House,5,IND,Douglas Van Raam,32
+Sonoma,1028,U.S. House,5,IND,James Hinton,46
+Sonoma,1030,U.S. House,5,DEM,Mike Thompson,382
+Sonoma,1030,U.S. House,5,IND,Douglas Van Raam,23
+Sonoma,1030,U.S. House,5,IND,James Hinton,52
+Sonoma,1032,U.S. House,5,DEM,Mike Thompson,164
+Sonoma,1032,U.S. House,5,IND,Douglas Van Raam,18
+Sonoma,1032,U.S. House,5,IND,James Hinton,17
+Sonoma,1033,U.S. House,5,DEM,Mike Thompson,22
+Sonoma,1033,U.S. House,5,IND,Douglas Van Raam,5
+Sonoma,1033,U.S. House,5,IND,James Hinton,2
+Sonoma,1034,U.S. House,5,DEM,Mike Thompson,560
+Sonoma,1034,U.S. House,5,IND,Douglas Van Raam,57
+Sonoma,1034,U.S. House,5,IND,James Hinton,82
+Sonoma,1035,U.S. House,5,DEM,Mike Thompson,295
+Sonoma,1035,U.S. House,5,IND,Douglas Van Raam,24
+Sonoma,1035,U.S. House,5,IND,James Hinton,34
+Sonoma,1037,U.S. House,5,DEM,Mike Thompson,147
+Sonoma,1037,U.S. House,5,IND,Douglas Van Raam,12
+Sonoma,1037,U.S. House,5,IND,James Hinton,15
+Sonoma,1042,U.S. House,5,DEM,Mike Thompson,139
+Sonoma,1042,U.S. House,5,IND,Douglas Van Raam,20
+Sonoma,1042,U.S. House,5,IND,James Hinton,27
+Sonoma,1043,U.S. House,5,DEM,Mike Thompson,2
+Sonoma,1043,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,1043,U.S. House,5,IND,James Hinton,0
+Sonoma,1050,U.S. House,5,DEM,Mike Thompson,44
+Sonoma,1050,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1050,U.S. House,5,IND,James Hinton,1
+Sonoma,1051,U.S. House,5,DEM,Mike Thompson,44
+Sonoma,1051,U.S. House,5,IND,Douglas Van Raam,6
+Sonoma,1051,U.S. House,5,IND,James Hinton,3
+Sonoma,1053,U.S. House,5,DEM,Mike Thompson,46
+Sonoma,1053,U.S. House,5,IND,Douglas Van Raam,7
+Sonoma,1053,U.S. House,5,IND,James Hinton,8
+Sonoma,1055,U.S. House,5,DEM,Mike Thompson,58
+Sonoma,1055,U.S. House,5,IND,Douglas Van Raam,11
+Sonoma,1055,U.S. House,5,IND,James Hinton,11
+Sonoma,1057,U.S. House,5,DEM,Mike Thompson,8
+Sonoma,1057,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1057,U.S. House,5,IND,James Hinton,5
+Sonoma,1060,U.S. House,5,DEM,Mike Thompson,2
+Sonoma,1060,U.S. House,5,IND,Douglas Van Raam,5
+Sonoma,1060,U.S. House,5,IND,James Hinton,2
+Sonoma,1061,U.S. House,5,DEM,Mike Thompson,7
+Sonoma,1061,U.S. House,5,IND,Douglas Van Raam,4
+Sonoma,1061,U.S. House,5,IND,James Hinton,3
+Sonoma,1065,U.S. House,5,DEM,Mike Thompson,16
+Sonoma,1065,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1065,U.S. House,5,IND,James Hinton,3
+Sonoma,1066,U.S. House,5,DEM,Mike Thompson,4
+Sonoma,1066,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1066,U.S. House,5,IND,James Hinton,0
+Sonoma,1067,U.S. House,5,DEM,Mike Thompson,12
+Sonoma,1067,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1067,U.S. House,5,IND,James Hinton,1
+Sonoma,1068,U.S. House,5,DEM,Mike Thompson,39
+Sonoma,1068,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,1068,U.S. House,5,IND,James Hinton,4
+Sonoma,1069,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,1069,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1069,U.S. House,5,IND,James Hinton,0
+Sonoma,1070,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,1070,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1070,U.S. House,5,IND,James Hinton,2
+Sonoma,1072,U.S. House,5,DEM,Mike Thompson,27
+Sonoma,1072,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1072,U.S. House,5,IND,James Hinton,0
+Sonoma,1073,U.S. House,5,DEM,Mike Thompson,4
+Sonoma,1073,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1073,U.S. House,5,IND,James Hinton,0
+Sonoma,1075,U.S. House,5,DEM,Mike Thompson,34
+Sonoma,1075,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1075,U.S. House,5,IND,James Hinton,3
+Sonoma,1077,U.S. House,5,DEM,Mike Thompson,134
+Sonoma,1077,U.S. House,5,IND,Douglas Van Raam,11
+Sonoma,1077,U.S. House,5,IND,James Hinton,27
+Sonoma,1078,U.S. House,5,DEM,Mike Thompson,5
+Sonoma,1078,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1078,U.S. House,5,IND,James Hinton,0
+Sonoma,1079,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1079,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1079,U.S. House,5,IND,James Hinton,0
+Sonoma,1080,U.S. House,5,DEM,Mike Thompson,34
+Sonoma,1080,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1080,U.S. House,5,IND,James Hinton,8
+Sonoma,1081,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1081,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1081,U.S. House,5,IND,James Hinton,0
+Sonoma,1082,U.S. House,5,DEM,Mike Thompson,128
+Sonoma,1082,U.S. House,5,IND,Douglas Van Raam,13
+Sonoma,1082,U.S. House,5,IND,James Hinton,17
+Sonoma,1083,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1083,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1083,U.S. House,5,IND,James Hinton,0
+Sonoma,1084,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,1084,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1084,U.S. House,5,IND,James Hinton,0
+Sonoma,1085,U.S. House,5,DEM,Mike Thompson,8
+Sonoma,1085,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,1085,U.S. House,5,IND,James Hinton,2
+Sonoma,1086,U.S. House,5,DEM,Mike Thompson,4
+Sonoma,1086,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1086,U.S. House,5,IND,James Hinton,1
+Sonoma,1087,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1087,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,1087,U.S. House,5,IND,James Hinton,1
+Sonoma,1101,U.S. House,5,DEM,Mike Thompson,306
+Sonoma,1101,U.S. House,5,IND,Douglas Van Raam,35
+Sonoma,1101,U.S. House,5,IND,James Hinton,37
+Sonoma,1103,U.S. House,5,DEM,Mike Thompson,502
+Sonoma,1103,U.S. House,5,IND,Douglas Van Raam,64
+Sonoma,1103,U.S. House,5,IND,James Hinton,51
+Sonoma,1106,U.S. House,5,DEM,Mike Thompson,298
+Sonoma,1106,U.S. House,5,IND,Douglas Van Raam,31
+Sonoma,1106,U.S. House,5,IND,James Hinton,19
+Sonoma,1107,U.S. House,5,DEM,Mike Thompson,511
+Sonoma,1107,U.S. House,5,IND,Douglas Van Raam,35
+Sonoma,1107,U.S. House,5,IND,James Hinton,49
+Sonoma,1108,U.S. House,5,DEM,Mike Thompson,403
+Sonoma,1108,U.S. House,5,IND,Douglas Van Raam,39
+Sonoma,1108,U.S. House,5,IND,James Hinton,61
+Sonoma,1110,U.S. House,5,DEM,Mike Thompson,544
+Sonoma,1110,U.S. House,5,IND,Douglas Van Raam,40
+Sonoma,1110,U.S. House,5,IND,James Hinton,70
+Sonoma,1111,U.S. House,5,DEM,Mike Thompson,664
+Sonoma,1111,U.S. House,5,IND,Douglas Van Raam,70
+Sonoma,1111,U.S. House,5,IND,James Hinton,83
+Sonoma,1112,U.S. House,5,DEM,Mike Thompson,480
+Sonoma,1112,U.S. House,5,IND,Douglas Van Raam,39
+Sonoma,1112,U.S. House,5,IND,James Hinton,40
+Sonoma,1113,U.S. House,5,DEM,Mike Thompson,477
+Sonoma,1113,U.S. House,5,IND,Douglas Van Raam,33
+Sonoma,1113,U.S. House,5,IND,James Hinton,48
+Sonoma,1116,U.S. House,5,DEM,Mike Thompson,448
+Sonoma,1116,U.S. House,5,IND,Douglas Van Raam,60
+Sonoma,1116,U.S. House,5,IND,James Hinton,52
+Sonoma,1121,U.S. House,5,DEM,Mike Thompson,604
+Sonoma,1121,U.S. House,5,IND,Douglas Van Raam,57
+Sonoma,1121,U.S. House,5,IND,James Hinton,60
+Sonoma,1122,U.S. House,5,DEM,Mike Thompson,374
+Sonoma,1122,U.S. House,5,IND,Douglas Van Raam,29
+Sonoma,1122,U.S. House,5,IND,James Hinton,43
+Sonoma,1123,U.S. House,5,DEM,Mike Thompson,1026
+Sonoma,1123,U.S. House,5,IND,Douglas Van Raam,70
+Sonoma,1123,U.S. House,5,IND,James Hinton,127
+Sonoma,1124,U.S. House,5,DEM,Mike Thompson,612
+Sonoma,1124,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,1124,U.S. House,5,IND,James Hinton,81
+Sonoma,1128,U.S. House,5,DEM,Mike Thompson,297
+Sonoma,1128,U.S. House,5,IND,Douglas Van Raam,38
+Sonoma,1128,U.S. House,5,IND,James Hinton,36
+Sonoma,1129,U.S. House,5,DEM,Mike Thompson,8
+Sonoma,1129,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1129,U.S. House,5,IND,James Hinton,0
+Sonoma,1136,U.S. House,5,DEM,Mike Thompson,693
+Sonoma,1136,U.S. House,5,IND,Douglas Van Raam,66
+Sonoma,1136,U.S. House,5,IND,James Hinton,82
+Sonoma,1144,U.S. House,5,DEM,Mike Thompson,5
+Sonoma,1144,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1144,U.S. House,5,IND,James Hinton,0
+Sonoma,1145,U.S. House,5,DEM,Mike Thompson,249
+Sonoma,1145,U.S. House,5,IND,Douglas Van Raam,16
+Sonoma,1145,U.S. House,5,IND,James Hinton,28
+Sonoma,1146,U.S. House,5,DEM,Mike Thompson,152
+Sonoma,1146,U.S. House,5,IND,Douglas Van Raam,12
+Sonoma,1146,U.S. House,5,IND,James Hinton,28
+Sonoma,1801,U.S. House,5,DEM,Mike Thompson,419
+Sonoma,1801,U.S. House,5,IND,Douglas Van Raam,29
+Sonoma,1801,U.S. House,5,IND,James Hinton,61
+Sonoma,1802,U.S. House,5,DEM,Mike Thompson,570
+Sonoma,1802,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,1802,U.S. House,5,IND,James Hinton,65
+Sonoma,1804,U.S. House,5,DEM,Mike Thompson,379
+Sonoma,1804,U.S. House,5,IND,Douglas Van Raam,24
+Sonoma,1804,U.S. House,5,IND,James Hinton,42
+Sonoma,1805,U.S. House,5,DEM,Mike Thompson,636
+Sonoma,1805,U.S. House,5,IND,Douglas Van Raam,51
+Sonoma,1805,U.S. House,5,IND,James Hinton,73
+Sonoma,1811,U.S. House,5,DEM,Mike Thompson,35
+Sonoma,1811,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,1811,U.S. House,5,IND,James Hinton,3
+Sonoma,1812,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1812,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1812,U.S. House,5,IND,James Hinton,0
+Sonoma,1813,U.S. House,5,DEM,Mike Thompson,75
+Sonoma,1813,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,1813,U.S. House,5,IND,James Hinton,4
+Sonoma,1814,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,1814,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,1814,U.S. House,5,IND,James Hinton,0
+Sonoma,2009,U.S. House,5,DEM,Mike Thompson,177
+Sonoma,2009,U.S. House,5,IND,Douglas Van Raam,18
+Sonoma,2009,U.S. House,5,IND,James Hinton,28
+Sonoma,2022,U.S. House,5,DEM,Mike Thompson,62
+Sonoma,2022,U.S. House,5,IND,Douglas Van Raam,10
+Sonoma,2022,U.S. House,5,IND,James Hinton,8
+Sonoma,2023,U.S. House,5,DEM,Mike Thompson,63
+Sonoma,2023,U.S. House,5,IND,Douglas Van Raam,12
+Sonoma,2023,U.S. House,5,IND,James Hinton,8
+Sonoma,2026,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,2026,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,2026,U.S. House,5,IND,James Hinton,0
+Sonoma,2028,U.S. House,5,DEM,Mike Thompson,2
+Sonoma,2028,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,2028,U.S. House,5,IND,James Hinton,0
+Sonoma,2033,U.S. House,5,DEM,Mike Thompson,2
+Sonoma,2033,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,2033,U.S. House,5,IND,James Hinton,0
+Sonoma,2039,U.S. House,5,DEM,Mike Thompson,4
+Sonoma,2039,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,2039,U.S. House,5,IND,James Hinton,1
+Sonoma,2301,U.S. House,5,DEM,Mike Thompson,590
+Sonoma,2301,U.S. House,5,IND,Douglas Van Raam,62
+Sonoma,2301,U.S. House,5,IND,James Hinton,66
+Sonoma,2302,U.S. House,5,DEM,Mike Thompson,295
+Sonoma,2302,U.S. House,5,IND,Douglas Van Raam,34
+Sonoma,2302,U.S. House,5,IND,James Hinton,44
+Sonoma,2303,U.S. House,5,DEM,Mike Thompson,362
+Sonoma,2303,U.S. House,5,IND,Douglas Van Raam,59
+Sonoma,2303,U.S. House,5,IND,James Hinton,43
+Sonoma,2601,U.S. House,5,DEM,Mike Thompson,443
+Sonoma,2601,U.S. House,5,IND,Douglas Van Raam,55
+Sonoma,2601,U.S. House,5,IND,James Hinton,60
+Sonoma,2602,U.S. House,5,DEM,Mike Thompson,140
+Sonoma,2602,U.S. House,5,IND,Douglas Van Raam,25
+Sonoma,2602,U.S. House,5,IND,James Hinton,22
+Sonoma,2604,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,2604,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,2604,U.S. House,5,IND,James Hinton,0
+Sonoma,2606,U.S. House,5,DEM,Mike Thompson,383
+Sonoma,2606,U.S. House,5,IND,Douglas Van Raam,34
+Sonoma,2606,U.S. House,5,IND,James Hinton,59
+Sonoma,3001,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,3001,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3001,U.S. House,5,IND,James Hinton,0
+Sonoma,3002,U.S. House,5,DEM,Mike Thompson,3
+Sonoma,3002,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3002,U.S. House,5,IND,James Hinton,0
+Sonoma,3003,U.S. House,5,DEM,Mike Thompson,9
+Sonoma,3003,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,3003,U.S. House,5,IND,James Hinton,0
+Sonoma,3005,U.S. House,5,DEM,Mike Thompson,60
+Sonoma,3005,U.S. House,5,IND,Douglas Van Raam,12
+Sonoma,3005,U.S. House,5,IND,James Hinton,11
+Sonoma,3006,U.S. House,5,DEM,Mike Thompson,9
+Sonoma,3006,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,3006,U.S. House,5,IND,James Hinton,0
+Sonoma,3010,U.S. House,5,DEM,Mike Thompson,38
+Sonoma,3010,U.S. House,5,IND,Douglas Van Raam,9
+Sonoma,3010,U.S. House,5,IND,James Hinton,9
+Sonoma,3011,U.S. House,5,DEM,Mike Thompson,183
+Sonoma,3011,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,3011,U.S. House,5,IND,James Hinton,24
+Sonoma,3012,U.S. House,5,DEM,Mike Thompson,13
+Sonoma,3012,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,3012,U.S. House,5,IND,James Hinton,1
+Sonoma,3016,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,3016,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3016,U.S. House,5,IND,James Hinton,0
+Sonoma,3017,U.S. House,5,DEM,Mike Thompson,10
+Sonoma,3017,U.S. House,5,IND,Douglas Van Raam,4
+Sonoma,3017,U.S. House,5,IND,James Hinton,4
+Sonoma,3020,U.S. House,5,DEM,Mike Thompson,26
+Sonoma,3020,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,3020,U.S. House,5,IND,James Hinton,2
+Sonoma,3021,U.S. House,5,DEM,Mike Thompson,10
+Sonoma,3021,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,3021,U.S. House,5,IND,James Hinton,0
+Sonoma,3022,U.S. House,5,DEM,Mike Thompson,45
+Sonoma,3022,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,3022,U.S. House,5,IND,James Hinton,8
+Sonoma,3024,U.S. House,5,DEM,Mike Thompson,3
+Sonoma,3024,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3024,U.S. House,5,IND,James Hinton,1
+Sonoma,3025,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,3025,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3025,U.S. House,5,IND,James Hinton,0
+Sonoma,3101,U.S. House,5,DEM,Mike Thompson,392
+Sonoma,3101,U.S. House,5,IND,Douglas Van Raam,53
+Sonoma,3101,U.S. House,5,IND,James Hinton,46
+Sonoma,3103,U.S. House,5,DEM,Mike Thompson,644
+Sonoma,3103,U.S. House,5,IND,Douglas Van Raam,61
+Sonoma,3103,U.S. House,5,IND,James Hinton,73
+Sonoma,3108,U.S. House,5,DEM,Mike Thompson,227
+Sonoma,3108,U.S. House,5,IND,Douglas Van Raam,27
+Sonoma,3108,U.S. House,5,IND,James Hinton,22
+Sonoma,3109,U.S. House,5,DEM,Mike Thompson,214
+Sonoma,3109,U.S. House,5,IND,Douglas Van Raam,17
+Sonoma,3109,U.S. House,5,IND,James Hinton,20
+Sonoma,3112,U.S. House,5,DEM,Mike Thompson,363
+Sonoma,3112,U.S. House,5,IND,Douglas Van Raam,38
+Sonoma,3112,U.S. House,5,IND,James Hinton,50
+Sonoma,3113,U.S. House,5,DEM,Mike Thompson,250
+Sonoma,3113,U.S. House,5,IND,Douglas Van Raam,27
+Sonoma,3113,U.S. House,5,IND,James Hinton,36
+Sonoma,3115,U.S. House,5,DEM,Mike Thompson,297
+Sonoma,3115,U.S. House,5,IND,Douglas Van Raam,23
+Sonoma,3115,U.S. House,5,IND,James Hinton,61
+Sonoma,3116,U.S. House,5,DEM,Mike Thompson,216
+Sonoma,3116,U.S. House,5,IND,Douglas Van Raam,16
+Sonoma,3116,U.S. House,5,IND,James Hinton,9
+Sonoma,3120,U.S. House,5,DEM,Mike Thompson,479
+Sonoma,3120,U.S. House,5,IND,Douglas Van Raam,26
+Sonoma,3120,U.S. House,5,IND,James Hinton,36
+Sonoma,3123,U.S. House,5,DEM,Mike Thompson,287
+Sonoma,3123,U.S. House,5,IND,Douglas Van Raam,26
+Sonoma,3123,U.S. House,5,IND,James Hinton,14
+Sonoma,3124,U.S. House,5,DEM,Mike Thompson,455
+Sonoma,3124,U.S. House,5,IND,Douglas Van Raam,30
+Sonoma,3124,U.S. House,5,IND,James Hinton,20
+Sonoma,3128,U.S. House,5,DEM,Mike Thompson,650
+Sonoma,3128,U.S. House,5,IND,Douglas Van Raam,47
+Sonoma,3128,U.S. House,5,IND,James Hinton,56
+Sonoma,3135,U.S. House,5,DEM,Mike Thompson,289
+Sonoma,3135,U.S. House,5,IND,Douglas Van Raam,35
+Sonoma,3135,U.S. House,5,IND,James Hinton,34
+Sonoma,3136,U.S. House,5,DEM,Mike Thompson,139
+Sonoma,3136,U.S. House,5,IND,Douglas Van Raam,18
+Sonoma,3136,U.S. House,5,IND,James Hinton,18
+Sonoma,3142,U.S. House,5,DEM,Mike Thompson,346
+Sonoma,3142,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,3142,U.S. House,5,IND,James Hinton,44
+Sonoma,3144,U.S. House,5,DEM,Mike Thompson,279
+Sonoma,3144,U.S. House,5,IND,Douglas Van Raam,35
+Sonoma,3144,U.S. House,5,IND,James Hinton,35
+Sonoma,3601,U.S. House,5,DEM,Mike Thompson,327
+Sonoma,3601,U.S. House,5,IND,Douglas Van Raam,39
+Sonoma,3601,U.S. House,5,IND,James Hinton,45
+Sonoma,3602,U.S. House,5,DEM,Mike Thompson,419
+Sonoma,3602,U.S. House,5,IND,Douglas Van Raam,49
+Sonoma,3602,U.S. House,5,IND,James Hinton,92
+Sonoma,3603,U.S. House,5,DEM,Mike Thompson,409
+Sonoma,3603,U.S. House,5,IND,Douglas Van Raam,51
+Sonoma,3603,U.S. House,5,IND,James Hinton,64
+Sonoma,3605,U.S. House,5,DEM,Mike Thompson,181
+Sonoma,3605,U.S. House,5,IND,Douglas Van Raam,22
+Sonoma,3605,U.S. House,5,IND,James Hinton,33
+Sonoma,3609,U.S. House,5,DEM,Mike Thompson,471
+Sonoma,3609,U.S. House,5,IND,Douglas Van Raam,53
+Sonoma,3609,U.S. House,5,IND,James Hinton,74
+Sonoma,3611,U.S. House,5,DEM,Mike Thompson,496
+Sonoma,3611,U.S. House,5,IND,Douglas Van Raam,50
+Sonoma,3611,U.S. House,5,IND,James Hinton,84
+Sonoma,3614,U.S. House,5,DEM,Mike Thompson,471
+Sonoma,3614,U.S. House,5,IND,Douglas Van Raam,39
+Sonoma,3614,U.S. House,5,IND,James Hinton,85
+Sonoma,3616,U.S. House,5,DEM,Mike Thompson,434
+Sonoma,3616,U.S. House,5,IND,Douglas Van Raam,52
+Sonoma,3616,U.S. House,5,IND,James Hinton,80
+Sonoma,3618,U.S. House,5,DEM,Mike Thompson,408
+Sonoma,3618,U.S. House,5,IND,Douglas Van Raam,44
+Sonoma,3618,U.S. House,5,IND,James Hinton,76
+Sonoma,3621,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,3621,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3621,U.S. House,5,IND,James Hinton,0
+Sonoma,3622,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,3622,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,3622,U.S. House,5,IND,James Hinton,0
+Sonoma,4012,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,4012,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,4012,U.S. House,5,IND,James Hinton,0
+Sonoma,4015,U.S. House,5,DEM,Mike Thompson,49
+Sonoma,4015,U.S. House,5,IND,Douglas Van Raam,11
+Sonoma,4015,U.S. House,5,IND,James Hinton,6
+Sonoma,4016,U.S. House,5,DEM,Mike Thompson,453
+Sonoma,4016,U.S. House,5,IND,Douglas Van Raam,68
+Sonoma,4016,U.S. House,5,IND,James Hinton,58
+Sonoma,4027,U.S. House,5,DEM,Mike Thompson,32
+Sonoma,4027,U.S. House,5,IND,Douglas Van Raam,8
+Sonoma,4027,U.S. House,5,IND,James Hinton,8
+Sonoma,4034,U.S. House,5,DEM,Mike Thompson,30
+Sonoma,4034,U.S. House,5,IND,Douglas Van Raam,7
+Sonoma,4034,U.S. House,5,IND,James Hinton,7
+Sonoma,4037,U.S. House,5,DEM,Mike Thompson,15
+Sonoma,4037,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,4037,U.S. House,5,IND,James Hinton,4
+Sonoma,4039,U.S. House,5,DEM,Mike Thompson,10
+Sonoma,4039,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,4039,U.S. House,5,IND,James Hinton,0
+Sonoma,4054,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,4054,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,4054,U.S. House,5,IND,James Hinton,0
+Sonoma,4067,U.S. House,5,DEM,Mike Thompson,21
+Sonoma,4067,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,4067,U.S. House,5,IND,James Hinton,6
+Sonoma,4070,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,4070,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,4070,U.S. House,5,IND,James Hinton,1
+Sonoma,4071,U.S. House,5,DEM,Mike Thompson,15
+Sonoma,4071,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,4071,U.S. House,5,IND,James Hinton,3
+Sonoma,4103,U.S. House,5,DEM,Mike Thompson,321
+Sonoma,4103,U.S. House,5,IND,Douglas Van Raam,26
+Sonoma,4103,U.S. House,5,IND,James Hinton,42
+Sonoma,4106,U.S. House,5,DEM,Mike Thompson,116
+Sonoma,4106,U.S. House,5,IND,Douglas Van Raam,10
+Sonoma,4106,U.S. House,5,IND,James Hinton,17
+Sonoma,4107,U.S. House,5,DEM,Mike Thompson,260
+Sonoma,4107,U.S. House,5,IND,Douglas Van Raam,26
+Sonoma,4107,U.S. House,5,IND,James Hinton,40
+Sonoma,4108,U.S. House,5,DEM,Mike Thompson,517
+Sonoma,4108,U.S. House,5,IND,Douglas Van Raam,53
+Sonoma,4108,U.S. House,5,IND,James Hinton,71
+Sonoma,4109,U.S. House,5,DEM,Mike Thompson,435
+Sonoma,4109,U.S. House,5,IND,Douglas Van Raam,41
+Sonoma,4109,U.S. House,5,IND,James Hinton,49
+Sonoma,4110,U.S. House,5,DEM,Mike Thompson,435
+Sonoma,4110,U.S. House,5,IND,Douglas Van Raam,67
+Sonoma,4110,U.S. House,5,IND,James Hinton,58
+Sonoma,4123,U.S. House,5,DEM,Mike Thompson,350
+Sonoma,4123,U.S. House,5,IND,Douglas Van Raam,40
+Sonoma,4123,U.S. House,5,IND,James Hinton,46
+Sonoma,4127,U.S. House,5,DEM,Mike Thompson,208
+Sonoma,4127,U.S. House,5,IND,Douglas Van Raam,27
+Sonoma,4127,U.S. House,5,IND,James Hinton,17
+Sonoma,4128,U.S. House,5,DEM,Mike Thompson,96
+Sonoma,4128,U.S. House,5,IND,Douglas Van Raam,16
+Sonoma,4128,U.S. House,5,IND,James Hinton,19
+Sonoma,5004,U.S. House,5,DEM,Mike Thompson,72
+Sonoma,5004,U.S. House,5,IND,Douglas Van Raam,9
+Sonoma,5004,U.S. House,5,IND,James Hinton,10
+Sonoma,5008,U.S. House,5,DEM,Mike Thompson,267
+Sonoma,5008,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,5008,U.S. House,5,IND,James Hinton,29
+Sonoma,5009,U.S. House,5,DEM,Mike Thompson,93
+Sonoma,5009,U.S. House,5,IND,Douglas Van Raam,12
+Sonoma,5009,U.S. House,5,IND,James Hinton,13
+Sonoma,5010,U.S. House,5,DEM,Mike Thompson,74
+Sonoma,5010,U.S. House,5,IND,Douglas Van Raam,22
+Sonoma,5010,U.S. House,5,IND,James Hinton,13
+Sonoma,5014,U.S. House,5,DEM,Mike Thompson,41
+Sonoma,5014,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,5014,U.S. House,5,IND,James Hinton,4
+Sonoma,5026,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,5026,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,5026,U.S. House,5,IND,James Hinton,3
+Sonoma,5028,U.S. House,5,DEM,Mike Thompson,7
+Sonoma,5028,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,5028,U.S. House,5,IND,James Hinton,3
+Sonoma,5029,U.S. House,5,DEM,Mike Thompson,7
+Sonoma,5029,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,5029,U.S. House,5,IND,James Hinton,2
+Sonoma,5035,U.S. House,5,DEM,Mike Thompson,161
+Sonoma,5035,U.S. House,5,IND,Douglas Van Raam,32
+Sonoma,5035,U.S. House,5,IND,James Hinton,39
+Sonoma,5055,U.S. House,5,DEM,Mike Thompson,18
+Sonoma,5055,U.S. House,5,IND,Douglas Van Raam,4
+Sonoma,5055,U.S. House,5,IND,James Hinton,0
+Sonoma,5056,U.S. House,5,DEM,Mike Thompson,47
+Sonoma,5056,U.S. House,5,IND,Douglas Van Raam,5
+Sonoma,5056,U.S. House,5,IND,James Hinton,8
+Sonoma,5073,U.S. House,5,DEM,Mike Thompson,64
+Sonoma,5073,U.S. House,5,IND,Douglas Van Raam,6
+Sonoma,5073,U.S. House,5,IND,James Hinton,10
+Sonoma,5074,U.S. House,5,DEM,Mike Thompson,1
+Sonoma,5074,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,5074,U.S. House,5,IND,James Hinton,0
+Sonoma,5101,U.S. House,5,DEM,Mike Thompson,240
+Sonoma,5101,U.S. House,5,IND,Douglas Van Raam,30
+Sonoma,5101,U.S. House,5,IND,James Hinton,25
+Sonoma,5102,U.S. House,5,DEM,Mike Thompson,241
+Sonoma,5102,U.S. House,5,IND,Douglas Van Raam,33
+Sonoma,5102,U.S. House,5,IND,James Hinton,27
+Sonoma,5103,U.S. House,5,DEM,Mike Thompson,463
+Sonoma,5103,U.S. House,5,IND,Douglas Van Raam,76
+Sonoma,5103,U.S. House,5,IND,James Hinton,70
+Sonoma,5104,U.S. House,5,DEM,Mike Thompson,337
+Sonoma,5104,U.S. House,5,IND,Douglas Van Raam,49
+Sonoma,5104,U.S. House,5,IND,James Hinton,33
+Sonoma,5105,U.S. House,5,DEM,Mike Thompson,236
+Sonoma,5105,U.S. House,5,IND,Douglas Van Raam,55
+Sonoma,5105,U.S. House,5,IND,James Hinton,47
+Sonoma,5109,U.S. House,5,DEM,Mike Thompson,383
+Sonoma,5109,U.S. House,5,IND,Douglas Van Raam,47
+Sonoma,5109,U.S. House,5,IND,James Hinton,45
+Sonoma,5111,U.S. House,5,DEM,Mike Thompson,406
+Sonoma,5111,U.S. House,5,IND,Douglas Van Raam,36
+Sonoma,5111,U.S. House,5,IND,James Hinton,54
+Sonoma,5113,U.S. House,5,DEM,Mike Thompson,437
+Sonoma,5113,U.S. House,5,IND,Douglas Van Raam,46
+Sonoma,5113,U.S. House,5,IND,James Hinton,35
+Sonoma,5114,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,5114,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,5114,U.S. House,5,IND,James Hinton,0
+Sonoma,5115,U.S. House,5,DEM,Mike Thompson,156
+Sonoma,5115,U.S. House,5,IND,Douglas Van Raam,24
+Sonoma,5115,U.S. House,5,IND,James Hinton,18
+Sonoma,7101,U.S. House,5,DEM,Mike Thompson,105
+Sonoma,7101,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,7101,U.S. House,5,IND,James Hinton,15
+Sonoma,7102,U.S. House,5,DEM,Mike Thompson,40
+Sonoma,7102,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,7102,U.S. House,5,IND,James Hinton,6
+Sonoma,7103,U.S. House,5,DEM,Mike Thompson,45
+Sonoma,7103,U.S. House,5,IND,Douglas Van Raam,7
+Sonoma,7103,U.S. House,5,IND,James Hinton,4
+Sonoma,7104,U.S. House,5,DEM,Mike Thompson,520
+Sonoma,7104,U.S. House,5,IND,Douglas Van Raam,42
+Sonoma,7104,U.S. House,5,IND,James Hinton,53
+Sonoma,7105,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7105,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7105,U.S. House,5,IND,James Hinton,0
+Sonoma,7106,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7106,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7106,U.S. House,5,IND,James Hinton,0
+Sonoma,7107,U.S. House,5,DEM,Mike Thompson,30
+Sonoma,7107,U.S. House,5,IND,Douglas Van Raam,8
+Sonoma,7107,U.S. House,5,IND,James Hinton,11
+Sonoma,7108,U.S. House,5,DEM,Mike Thompson,31
+Sonoma,7108,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,7108,U.S. House,5,IND,James Hinton,7
+Sonoma,7109,U.S. House,5,DEM,Mike Thompson,93
+Sonoma,7109,U.S. House,5,IND,Douglas Van Raam,21
+Sonoma,7109,U.S. House,5,IND,James Hinton,19
+Sonoma,7110,U.S. House,5,DEM,Mike Thompson,10
+Sonoma,7110,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,7110,U.S. House,5,IND,James Hinton,1
+Sonoma,7111,U.S. House,5,DEM,Mike Thompson,148
+Sonoma,7111,U.S. House,5,IND,Douglas Van Raam,19
+Sonoma,7111,U.S. House,5,IND,James Hinton,21
+Sonoma,7112,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7112,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7112,U.S. House,5,IND,James Hinton,0
+Sonoma,7115,U.S. House,5,DEM,Mike Thompson,444
+Sonoma,7115,U.S. House,5,IND,Douglas Van Raam,43
+Sonoma,7115,U.S. House,5,IND,James Hinton,52
+Sonoma,7116,U.S. House,5,DEM,Mike Thompson,343
+Sonoma,7116,U.S. House,5,IND,Douglas Van Raam,29
+Sonoma,7116,U.S. House,5,IND,James Hinton,24
+Sonoma,7117,U.S. House,5,DEM,Mike Thompson,87
+Sonoma,7117,U.S. House,5,IND,Douglas Van Raam,6
+Sonoma,7117,U.S. House,5,IND,James Hinton,10
+Sonoma,7118,U.S. House,5,DEM,Mike Thompson,207
+Sonoma,7118,U.S. House,5,IND,Douglas Van Raam,15
+Sonoma,7118,U.S. House,5,IND,James Hinton,18
+Sonoma,7213,U.S. House,5,DEM,Mike Thompson,99
+Sonoma,7213,U.S. House,5,IND,Douglas Van Raam,14
+Sonoma,7213,U.S. House,5,IND,James Hinton,12
+Sonoma,7214,U.S. House,5,DEM,Mike Thompson,109
+Sonoma,7214,U.S. House,5,IND,Douglas Van Raam,14
+Sonoma,7214,U.S. House,5,IND,James Hinton,4
+Sonoma,7215,U.S. House,5,DEM,Mike Thompson,445
+Sonoma,7215,U.S. House,5,IND,Douglas Van Raam,46
+Sonoma,7215,U.S. House,5,IND,James Hinton,68
+Sonoma,7216,U.S. House,5,DEM,Mike Thompson,14
+Sonoma,7216,U.S. House,5,IND,Douglas Van Raam,3
+Sonoma,7216,U.S. House,5,IND,James Hinton,2
+Sonoma,7217,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7217,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,7217,U.S. House,5,IND,James Hinton,0
+Sonoma,7219,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7219,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7219,U.S. House,5,IND,James Hinton,0
+Sonoma,7220,U.S. House,5,DEM,Mike Thompson,6
+Sonoma,7220,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,7220,U.S. House,5,IND,James Hinton,4
+Sonoma,7221,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7221,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7221,U.S. House,5,IND,James Hinton,0
+Sonoma,7222,U.S. House,5,DEM,Mike Thompson,39
+Sonoma,7222,U.S. House,5,IND,Douglas Van Raam,2
+Sonoma,7222,U.S. House,5,IND,James Hinton,8
+Sonoma,7301,U.S. House,5,DEM,Mike Thompson,71
+Sonoma,7301,U.S. House,5,IND,Douglas Van Raam,9
+Sonoma,7301,U.S. House,5,IND,James Hinton,9
+Sonoma,7302,U.S. House,5,DEM,Mike Thompson,138
+Sonoma,7302,U.S. House,5,IND,Douglas Van Raam,8
+Sonoma,7302,U.S. House,5,IND,James Hinton,22
+Sonoma,7303,U.S. House,5,DEM,Mike Thompson,0
+Sonoma,7303,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7303,U.S. House,5,IND,James Hinton,0
+Sonoma,7304,U.S. House,5,DEM,Mike Thompson,44
+Sonoma,7304,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,7304,U.S. House,5,IND,James Hinton,0
+Sonoma,7305,U.S. House,5,DEM,Mike Thompson,589
+Sonoma,7305,U.S. House,5,IND,Douglas Van Raam,48
+Sonoma,7305,U.S. House,5,IND,James Hinton,49
+Sonoma,7306,U.S. House,5,DEM,Mike Thompson,462
+Sonoma,7306,U.S. House,5,IND,Douglas Van Raam,40
+Sonoma,7306,U.S. House,5,IND,James Hinton,55
+Sonoma,7307,U.S. House,5,DEM,Mike Thompson,3
+Sonoma,7307,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,7307,U.S. House,5,IND,James Hinton,0
+Sonoma,7308,U.S. House,5,DEM,Mike Thompson,7
+Sonoma,7308,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7308,U.S. House,5,IND,James Hinton,0
+Sonoma,7501,U.S. House,5,DEM,Mike Thompson,261
+Sonoma,7501,U.S. House,5,IND,Douglas Van Raam,41
+Sonoma,7501,U.S. House,5,IND,James Hinton,35
+Sonoma,7502,U.S. House,5,DEM,Mike Thompson,26
+Sonoma,7502,U.S. House,5,IND,Douglas Van Raam,1
+Sonoma,7502,U.S. House,5,IND,James Hinton,4
+Sonoma,7503,U.S. House,5,DEM,Mike Thompson,69
+Sonoma,7503,U.S. House,5,IND,Douglas Van Raam,10
+Sonoma,7503,U.S. House,5,IND,James Hinton,9
+Sonoma,7504,U.S. House,5,DEM,Mike Thompson,14
+Sonoma,7504,U.S. House,5,IND,Douglas Van Raam,0
+Sonoma,7504,U.S. House,5,IND,James Hinton,0
