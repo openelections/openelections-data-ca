@@ -1,0 +1,818 @@
+county,precinct,office,district,party,candidate,votes
+Mono,1,Attorney General,,REP,PHIL WYMAN,48
+Mono,1,Attorney General,,REP,DAVID KING,10
+Mono,1,Attorney General,,NON,ORLY TAITZ,11
+Mono,1,Attorney General,,DEM,KAMALA D. HARRIS,87
+Mono,1,Attorney General,,REP,JOHN HAGGERTY,46
+Mono,1,Attorney General,,LIB,JONATHAN JAECH,12
+Mono,1,Attorney General,,REP,RONALD GOLD,38
+Mono,2,Attorney General,,REP,PHIL WYMAN,23
+Mono,2,Attorney General,,REP,DAVID KING,1
+Mono,2,Attorney General,,NON,ORLY TAITZ,7
+Mono,2,Attorney General,,DEM,KAMALA D. HARRIS,18
+Mono,2,Attorney General,,REP,JOHN HAGGERTY,12
+Mono,2,Attorney General,,LIB,JONATHAN JAECH,4
+Mono,2,Attorney General,,REP,RONALD GOLD,12
+Mono,3,Attorney General,,REP,PHIL WYMAN,55
+Mono,3,Attorney General,,REP,DAVID KING,10
+Mono,3,Attorney General,,NON,ORLY TAITZ,5
+Mono,3,Attorney General,,DEM,KAMALA D. HARRIS,63
+Mono,3,Attorney General,,REP,JOHN HAGGERTY,67
+Mono,3,Attorney General,,LIB,JONATHAN JAECH,10
+Mono,3,Attorney General,,REP,RONALD GOLD,36
+Mono,4,Attorney General,,REP,PHIL WYMAN,49
+Mono,4,Attorney General,,REP,DAVID KING,3
+Mono,4,Attorney General,,NON,ORLY TAITZ,10
+Mono,4,Attorney General,,DEM,KAMALA D. HARRIS,43
+Mono,4,Attorney General,,REP,JOHN HAGGERTY,25
+Mono,4,Attorney General,,LIB,JONATHAN JAECH,6
+Mono,4,Attorney General,,REP,RONALD GOLD,20
+Mono,5,Attorney General,,REP,PHIL WYMAN,22
+Mono,5,Attorney General,,REP,DAVID KING,4
+Mono,5,Attorney General,,NON,ORLY TAITZ,8
+Mono,5,Attorney General,,DEM,KAMALA D. HARRIS,80
+Mono,5,Attorney General,,REP,JOHN HAGGERTY,29
+Mono,5,Attorney General,,LIB,JONATHAN JAECH,8
+Mono,5,Attorney General,,REP,RONALD GOLD,15
+Mono,6,Attorney General,,REP,PHIL WYMAN,29
+Mono,6,Attorney General,,REP,DAVID KING,6
+Mono,6,Attorney General,,NON,ORLY TAITZ,5
+Mono,6,Attorney General,,DEM,KAMALA D. HARRIS,70
+Mono,6,Attorney General,,REP,JOHN HAGGERTY,19
+Mono,6,Attorney General,,LIB,JONATHAN JAECH,5
+Mono,6,Attorney General,,REP,RONALD GOLD,7
+Mono,7,Attorney General,,REP,PHIL WYMAN,53
+Mono,7,Attorney General,,REP,DAVID KING,10
+Mono,7,Attorney General,,NON,ORLY TAITZ,7
+Mono,7,Attorney General,,DEM,KAMALA D. HARRIS,164
+Mono,7,Attorney General,,REP,JOHN HAGGERTY,42
+Mono,7,Attorney General,,LIB,JONATHAN JAECH,14
+Mono,7,Attorney General,,REP,RONALD GOLD,34
+Mono,8,Attorney General,,REP,PHIL WYMAN,23
+Mono,8,Attorney General,,REP,DAVID KING,11
+Mono,8,Attorney General,,NON,ORLY TAITZ,7
+Mono,8,Attorney General,,DEM,KAMALA D. HARRIS,106
+Mono,8,Attorney General,,REP,JOHN HAGGERTY,26
+Mono,8,Attorney General,,LIB,JONATHAN JAECH,8
+Mono,8,Attorney General,,REP,RONALD GOLD,33
+Mono,9,Attorney General,,REP,PHIL WYMAN,28
+Mono,9,Attorney General,,REP,DAVID KING,11
+Mono,9,Attorney General,,NON,ORLY TAITZ,12
+Mono,9,Attorney General,,DEM,KAMALA D. HARRIS,150
+Mono,9,Attorney General,,REP,JOHN HAGGERTY,41
+Mono,9,Attorney General,,LIB,JONATHAN JAECH,11
+Mono,9,Attorney General,,REP,RONALD GOLD,36
+Mono,10,Attorney General,,REP,PHIL WYMAN,22
+Mono,10,Attorney General,,REP,DAVID KING,16
+Mono,10,Attorney General,,NON,ORLY TAITZ,9
+Mono,10,Attorney General,,DEM,KAMALA D. HARRIS,147
+Mono,10,Attorney General,,REP,JOHN HAGGERTY,34
+Mono,10,Attorney General,,LIB,JONATHAN JAECH,9
+Mono,10,Attorney General,,REP,RONALD GOLD,21
+Mono,11,Attorney General,,REP,PHIL WYMAN,23
+Mono,11,Attorney General,,REP,DAVID KING,1
+Mono,11,Attorney General,,NON,ORLY TAITZ,9
+Mono,11,Attorney General,,DEM,KAMALA D. HARRIS,105
+Mono,11,Attorney General,,REP,JOHN HAGGERTY,13
+Mono,11,Attorney General,,LIS,JONATHAN JAECH,5
+Mono,11,Attorney General,,REP,RONALD GOLD,10
+Mono,12,Attorney General,,REP,PHIL WYMAN,25
+Mono,12,Attorney General,,REP,DAVID KING,12
+Mono,12,Attorney General,,NON,ORLY TAITZ,15
+Mono,12,Attorney General,,DEM,KAMALA D. HARRIS,137
+Mono,12,Attorney General,,REP,JOHN HAGGERTY,47
+Mono,12,Attorney General,,LIB,JONATHAN JAECH,16
+Mono,12,Attorney General,,REP,RONALD GOLD,23
+Mono,13,Attorney General,,REP,PHIL WYMAN,28
+Mono,13,Attorney General,,REP,DAVID KING,13
+Mono,13,Attorney General,,NON,ORLY TAITZ,9
+Mono,13,Attorney General,,DEM,KAMALA D. HARRIS,131
+Mono,13,Attorney General,,REP,JOHN HAGGERTY,21
+Mono,13,Attorney General,,LIB,JONATHAN JAECH,10
+Mono,13,Attorney General,,REP,RONALD GOLD,17
+county,precinct,office,district,party,candidate,votes
+Mono,1,Board of Equalization,1,REP,GEORGE RUNNER,161
+Mono,1,Board of Equalization,1,DEM,CHRIS PARKER,80
+Mono,2,Board of Equalization,1,REP,GEORGE RUNNER,55
+Mono,2,Board of Equalization,1,DEM,CHRIS PARKER,20
+Mono,3,Board of Equalization,1,REP,GEORGE RUNNER,181
+Mono,3,Board of Equalization,1,DEM,CHRIS PARKER,56
+Mono,4,Board of Equalization,1,REP,GEORGE RUNNER,112
+Mono,4,Board of Equalization,1,DEM,CHRIS PARKER,41
+Mono,5,Board of Equalization,1,REP,GEORGE RUNNER,101
+Mono,5,Board of Equalization,1,DEM,CHRIS PARKER,66
+Mono,6,Board of Equalization,1,REP,GEORGE RUNNER,72
+Mono,6,Board of Equalization,1,DEM,CHRIS PARKER,66
+Mono,7,Board of Equalization,1,REP,GEORGE RUNNER,164
+Mono,7,Board of Equalization,1,DEM,CHRIS PARKER,146
+Mono,8,Board of Equalization,1,REP,GEORGE RUNNER,106
+Mono,8,Board of Equalization,1,DEM,CHRIS PARKER,97
+Mono,9,Board of Equalization,1,REP,GEORGE RUNNER,151
+Mono,9,Board of Equalization,1,DEM,CHRIS PARKER,135
+Mono,10,Board of Equalization,1,REP,GEORGE RUNNER,110
+Mono,10,Board of Equalization,1,DEM,CHRIS PARKER,130
+Mono,11,Board of Equalization,1,REP,GEORGE RUNNER,63
+Mono,11,Board of Equalization,1,DEM,CHRIS PARKER,90
+Mono,12,Board of Equalization,1,REP,GEORGE RUNNER,134
+Mono,12,Board of Equalization,1,DEM,CHRIS PARKER,138
+Mono,13,Board of Equalization,1,REP,GEORGE RUNNER,94
+Mono,13,Board of Equalization,1,DEM,CHRIS PARKER,124
+county,precinct,office,district,party,candidate,votes
+Mono,1,Controller,,DEM,BETTY T. YEE,36
+Mono,1,Controller,,GRN,LAURA WELLS,9
+Mono,1,Controller,,DEM,TAMMY D. BLAIR,14
+Mono,1,Controller,,DEM,JOHN A. PÉREZ,35
+Mono,1,Controller,,REP,DAVID EVANS,101
+Mono,1,Controller,,REP,ASHLEY SWEARENGIN,50
+Mono,2,Controller,,DEM,BETTY T. YEE,12
+Mono,2,Controller,,GRN,LAURA WELLS,3
+Mono,2,Controller,,DEM,TAMMY D. BLAIR,1
+Mono,2,Controller,,DEM,JOHN A. PÉREZ,5
+Mono,2,Controller,,REP,DAVID EVANS,39
+Mono,2,Controller,,REP,ASHLEY SWEARENGIN,14
+Mono,3,Controller,,DEM,BETTY T. YEE,29
+Mono,3,Controller,,GRN,LAURA WELLS,6
+Mono,3,Controller,,DEM,TAMMY D. BLAIR,10
+Mono,3,Controller,,DEM,JOHN A. PÉREZ,25
+Mono,3,Controller,,REP,DAVID EVANS,104
+Mono,3,Controller,,REP,ASHLEY SWEARENGIN,65
+Mono,4,Controller,,DEM,BETTY T. YEE,19
+Mono,4,Controller,,GRN,LAURA WELLS,14
+Mono,4,Controller,,DEM,TAMMY D. BLAIR,5
+Mono,4,Controller,,DEM,JOHN A. PÉREZ,13
+Mono,4,Controller,,REP,DAVID EVANS,74
+Mono,4,Controller,,REP,ASHLEY SWEARENGIN,30
+Mono,5,Controller,,DEM,BETTY T. YEE,29
+Mono,5,Controller,,GRN,LAURA WELLS,20
+Mono,5,Controller,,DEM,TAMMY D. BLAIR,7
+Mono,5,Controller,,DEM,JOHN A. PÉREZ,24
+Mono,5,Controller,,REP,DAVID EVANS,51
+Mono,5,Controller,,REP,ASHLEY SWEARENGIN,34
+Mono,6,Controller,,DEM,BETTY T. YEE,31
+Mono,6,Controller,,GRN,LAURA WELLS,14
+Mono,6,Controller,,DEM,TAMMY D. BLAIR,8
+Mono,6,Controller,,DEM,JOHN A. PÉREZ,22
+Mono,6,Controller,,REP,DAVID EVANS,44
+Mono,6,Controller,,REP,ASHLEY SWEARENGIN,18
+Mono,7,Controller,,DEM,BETTY T. YEE,64
+Mono,7,Controller,,GRN,LAURA WELLS,23
+Mono,7,Controller,,DEM,TAMMY D. BLAIR,19
+Mono,7,Controller,,DEM,JOHN A. PÉREZ,53
+Mono,7,Controller,,REP,DAVID EVANS,93
+Mono,7,Controller,,REP,ASHLEY SWEARENGIN,54
+Mono,8,Controller,,DEM,BETTY T. YEE,48
+Mono,8,Controller,,GRN,LAURA WELLS,20
+Mono,8,Controller,,DEM,TAMMY D. BLAIR,15
+Mono,8,Controller,,DEM,JOHN A. PÉREZ,21
+Mono,8,Controller,,REP,DAVID EVANS,76
+Mono,8,Controller,,REP,ASHLEY SWEARENGIN,25
+Mono,9,Controller,,DEM,BETTY T. YEE,71
+Mono,9,Controller,,GRN,LAURA WELLS,26
+Mono,9,Controller,,DEM,TAMMY D. BLAIR,18
+Mono,9,Controller,,DEM,JOHN A. PÉREZ,39
+Mono,9,Controller,,REP,DAVID EVANS,91
+Mono,9,Controller,,REP,ASHLEY SWEARENGIN,40
+Mono,10,Controller,,DEM,BETTY T. YEE,66
+Mono,10,Controller,,GRN,LAURA WELLS,20
+Mono,10,Controller,,DEM,TAMMY D. BLAIR,13
+Mono,10,Controller,,DEM,JOHN A. PÉREZ,38
+Mono,10,Controller,,REP,DAVID EVANS,65
+Mono,10,Controller,,REP,ASHLEY SWEARENGIN,46
+Mono,11,Controller,,DEM,BETTY T. YEE,45
+Mono,11,Controller,,GRN,LAURA WELLS,15
+Mono,11,Controller,,DEM,TAMMY D. BLAIR,5
+Mono,11,Controller,,DEM,JOHN A. PÉREZ,32
+Mono,11,Controller,,REP,DAVID EVANS,36
+Mono,11,Controller,,REP,ASHLEY SWEARENGIN,18
+Mono,12,Controller,,DEM,BETTY T. YEE,49
+Mono,12,Controller,,GRN,LAURA WELLS,35
+Mono,12,Controller,,DEM,TAMMY D. BLAIR,15
+Mono,12,Controller,,DEM,JOHN A. PÉREZ,39
+Mono,12,Controller,,REP,DAVID EVANS,84
+Mono,12,Controller,,REP,ASHLEY SWEARENGIN,39
+Mono,13,Controller,,DEM,BETTY T. YEE,57
+Mono,13,Controller,,GRN,LAURA WELLS,24
+Mono,13,Controller,,DEM,TAMMY D. BLAIR,11
+Mono,13,Controller,,DEM,JOHN A. PÉREZ,34
+Mono,13,Controller,,REP,DAVID EVANS,62
+Mono,13,Controller,,REP,ASHLEY SWEARENGIN,33
+county,precinct,office,district,party,candidate,votes
+Mono,1,Governor,,GRN,LUIS J. RODRIGUEZ,4
+Mono,1,Governor,,REP,ALMA MARIE WINSTON,2
+Mono,1,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",87
+Mono,1,Governor,,NON,JANEL HYESHIA BUYCKS,1
+Mono,1,Governor,,REP,ANDREW BLOUNT,24
+Mono,1,Governor,,NON,RAKESH KUMAR CHRISTIAN,1
+Mono,1,Governor,,REP,GLENN CHAMP,14
+Mono,1,Governor,,REP,NEEL KASHKARI,43
+Mono,1,Governor,,REP,TIM DONNELLY,67
+Mono,1,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",0
+Mono,1,Governor,,DEM,AKINYEMI AGBEDE,3
+Mono,1,Governor,,REP,RICHARD WILLIAM AGUIRRE,2
+Mono,1,Governor,,NON,ROBERT NEWMAN,5
+Mono,1,Governor,,PF,CINDY L. SHEEHAN,4
+Mono,1,Governor,,NON,JOE LEICHT,1
+Mono,2,Governor,,GRN,LUIS J. RODRIGUEZ,0
+Mono,2,Governor,,REP,ALMA MARIE WINSTON,1
+Mono,2,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",21
+Mono,2,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,2,Governor,,REP,ANDREW BLOUNT,8
+Mono,2,Governor,,NON,RAKESH KUMAR CHRISTIAN,2
+Mono,2,Governor,,REP,GLENN CHAMP,2
+Mono,2,Governor,,REP,NEEL KASHKARI,9
+Mono,2,Governor,,REP,TIM DONNELLY,24
+Mono,2,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",0
+Mono,2,Governor,,DEM,AKINYEMI AGBEDE,1
+Mono,2,Governor,,REP,RICHARD WILLIAM AGUIRRE,2
+Mono,2,Governor,,NON,ROBERT NEWMAN,6
+Mono,2,Governor,,PF,CINDY L. SHEEHAN,2
+Mono,2,Governor,,NON,JOE LEICHT,0
+Mono,3,Governor,,GRN,LUIS J. RODRIGUEZ,3
+Mono,3,Governor,,REP,ALMA MARIE WINSTON,4
+Mono,3,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",86
+Mono,3,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,3,Governor,,REP,ANDREW BLOUNT,35
+Mono,3,Governor,,NON,RAKESH KUMAR CHRISTIAN,1
+Mono,3,Governor,,REP,GLENN CHAMP,10
+Mono,3,Governor,,REP,NEEL KASHKARI,25
+Mono,3,Governor,,REP,TIM DONNELLY,85
+Mono,3,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",2
+Mono,3,Governor,,DEM,AKINYEMI AGBEDE,3
+Mono,3,Governor,,REP,RICHARD WILLIAM AGUIRRE,6
+Mono,3,Governor,,NON,ROBERT NEWMAN,0
+Mono,3,Governor,,PF,CINDY L. SHEEHAN,0
+Mono,3,Governor,,NON,JOE LEICHT,0
+Mono,4,Governor,,GRN,LUIS J. RODRIGUEZ,2
+Mono,4,Governor,,REP,ALMA MARIE WINSTON,4
+Mono,4,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",42
+Mono,4,Governor,,NON,JANEL HYESHIA BUYCKS,1
+Mono,4,Governor,,REP,ANDREW BLOUNT,18
+Mono,4,Governor,,NON,RAKESH KUMAR CHRISTIAN,1
+Mono,4,Governor,,REP,GLENN CHAMP,7
+Mono,4,Governor,,REP,NEEL KASHKARI,26
+Mono,4,Governor,,REP,TIM DONNELLY,45
+Mono,4,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",2
+Mono,4,Governor,,DEM,AKINYEMI AGBEDE,1
+Mono,4,Governor,,REP,RICHARD WILLIAM AGUIRRE,0
+Mono,4,Governor,,NON,ROBERT NEWMAN,10
+Mono,4,Governor,,PF,CINDY L. SHEEHAN,1
+Mono,4,Governor,,NON,JOE LEICHT,0
+Mono,5,Governor,,GRN,LUIS J. RODRIGUEZ,2
+Mono,5,Governor,,REP,ALMA MARIE WINSTON,0
+Mono,5,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",81
+Mono,5,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,5,Governor,,REP,ANDREW BLOUNT,8
+Mono,5,Governor,,NON,RAKESH KUMAR CHRISTIAN,1
+Mono,5,Governor,,REP,GLENN CHAMP,9
+Mono,5,Governor,,REP,NEEL KASHKARI,20
+Mono,5,Governor,,REP,TIM DONNELLY,48
+Mono,5,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",2
+Mono,5,Governor,,DEM,AKINYEMI AGBEDE,0
+Mono,5,Governor,,REP,RICHARD WILLIAM AGUIRRE,0
+Mono,5,Governor,,NON,ROBERT NEWMAN,1
+Mono,5,Governor,,PF,CINDY L. SHEEHAN,8
+Mono,5,Governor,,NON,JOE LEICHT,1
+Mono,6,Governor,,GRN,LUIS J. RODRIGUEZ,8
+Mono,6,Governor,,REP,ALMA MARIE WINSTON,0
+Mono,6,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",69
+Mono,6,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,6,Governor,,REP,ANDREW BLOUNT,9
+Mono,6,Governor,,NON,RAKESH KUMAR CHRISTIAN,0
+Mono,6,Governor,,REP,GLENN CHAMP,5
+Mono,6,Governor,,REP,NEEL KASHKARI,7
+Mono,6,Governor,,REP,TIM DONNELLY,39
+Mono,6,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",2
+Mono,6,Governor,,DEM,AKINYEMI AGBEDE,2
+Mono,6,Governor,,REP,RICHARD WILLIAM AGUIRRE,1
+Mono,6,Governor,,NON,ROBERT NEWMAN,4
+Mono,6,Governor,,PF,CINDY L. SHEEHAN,1
+Mono,6,Governor,,NON,JOE LEICHT,1
+Mono,7,Governor,,GRN,LUIS J. RODRIGUEZ,4
+Mono,7,Governor,,REP,ALMA MARIE WINSTON,4
+Mono,7,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",184
+Mono,7,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,7,Governor,,REP,ANDREW BLOUNT,11
+Mono,7,Governor,,NON,RAKESH KUMAR CHRISTIAN,1
+Mono,7,Governor,,REP,GLENN CHAMP,6
+Mono,7,Governor,,REP,NEEL KASHKARI,40
+Mono,7,Governor,,REP,TIM DONNELLY,67
+Mono,7,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",4
+Mono,7,Governor,,DEM,AKINYEMI AGBEDE,1
+Mono,7,Governor,,REP,RICHARD WILLIAM AGUIRRE,6
+Mono,7,Governor,,NON,ROBERT NEWMAN,4
+Mono,7,Governor,,PF,CINDY L. SHEEHAN,6
+Mono,7,Governor,,NON,JOE LEICHT,1
+Mono,8,Governor,,GRN,LUIS J. RODRIGUEZ,6
+Mono,8,Governor,,REP,ALMA MARIE WINSTON,1
+Mono,8,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",127
+Mono,8,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,8,Governor,,REP,ANDREW BLOUNT,15
+Mono,8,Governor,,NON,RAKESH KUMAR CHRISTIAN,0
+Mono,8,Governor,,REP,GLENN CHAMP,11
+Mono,8,Governor,,REP,NEEL KASHKARI,23
+Mono,8,Governor,,REP,TIM DONNELLY,32
+Mono,8,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",0
+Mono,8,Governor,,DEM,AKINYEMI AGBEDE,4
+Mono,8,Governor,,REP,RICHARD WILLIAM AGUIRRE,4
+Mono,8,Governor,,NON,ROBERT NEWMAN,6
+Mono,8,Governor,,PF,CINDY L. SHEEHAN,2
+Mono,8,Governor,,NON,JOE LEICHT,1
+Mono,9,Governor,,GRN,LUIS J. RODRIGUEZ,6
+Mono,9,Governor,,REP,ALMA MARIE WINSTON,2
+Mono,9,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",188
+Mono,9,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,9,Governor,,REP,ANDREW BLOUNT,13
+Mono,9,Governor,,NON,RAKESH KUMAR CHRISTIAN,0
+Mono,9,Governor,,REP,GLENN CHAMP,16
+Mono,9,Governor,,REP,NEEL KASHKARI,26
+Mono,9,Governor,,REP,TIM DONNELLY,44
+Mono,9,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",1
+Mono,9,Governor,,DEM,AKINYEMI AGBEDE,1
+Mono,9,Governor,,REP,RICHARD WILLIAM AGUIRRE,8
+Mono,9,Governor,,NON,ROBERT NEWMAN,5
+Mono,9,Governor,,PF,CINDY L. SHEEHAN,7
+Mono,9,Governor,,NON,JOE LEICHT,1
+Mono,10,Governor,,GRN,LUIS J. RODRIGUEZ,8
+Mono,10,Governor,,REP,ALMA MARIE WINSTON,1
+Mono,10,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",161
+Mono,10,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,10,Governor,,REP,ANDREW BLOUNT,18
+Mono,10,Governor,,NON,RAKESH KUMAR CHRISTIAN,5
+Mono,10,Governor,,REP,GLENN CHAMP,8
+Mono,10,Governor,,REP,NEEL KASHKARI,23
+Mono,10,Governor,,REP,TIM DONNELLY,33
+Mono,10,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",2
+Mono,10,Governor,,DEM,AKINYEMI AGBEDE,2
+Mono,10,Governor,,REP,RICHARD WILLIAM AGUIRRE,6
+Mono,10,Governor,,NON,ROBERT NEWMAN,2
+Mono,10,Governor,,PF,CINDY L. SHEEHAN,5
+Mono,10,Governor,,NON,JOE LEICHT,2
+Mono,11,Governor,,GRN,LUIS J. RODRIGUEZ,3
+Mono,11,Governor,,REP,ALMA MARIE WINSTON,0
+Mono,11,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",113
+Mono,11,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,11,Governor,,REP,ANDREW BLOUNT,4
+Mono,11,Governor,,NON,RAKESH KUMAR CHRISTIAN,0
+Mono,11,Governor,,REP,GLENN CHAMP,6
+Mono,11,Governor,,REP,NEEL KASHKARI,20
+Mono,11,Governor,,REP,TIM DONNELLY,17
+Mono,11,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",0
+Mono,11,Governor,,DEM,AKINYEMI AGBEDE,2
+Mono,11,Governor,,REP,RICHARD WILLIAM AGUIRRE,3
+Mono,11,Governor,,NON,ROBERT NEWMAN,4
+Mono,11,Governor,,PF,CINDY L. SHEEHAN,2
+Mono,11,Governor,,NON,JOE LEICHT,0
+Mono,12,Governor,,GRN,LUIS J. RODRIGUEZ,11
+Mono,12,Governor,,REP,ALMA MARIE WINSTON,1
+Mono,12,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",158
+Mono,12,Governor,,NON,JANEL HYESHIA BUYCKS,0
+Mono,12,Governor,,REP,ANDREW BLOUNT,18
+Mono,12,Governor,,NON,RAKESH KUMAR CHRISTIAN,2
+Mono,12,Governor,,REP,GLENN CHAMP,13
+Mono,12,Governor,,REP,NEEL KASHKARI,31
+Mono,12,Governor,,REP,TIM DONNELLY,51
+Mono,12,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",6
+Mono,12,Governor,,DEM,AKINYEMI AGBEDE,5
+Mono,12,Governor,,REP,RICHARD WILLIAM AGUIRRE,4
+Mono,12,Governor,,NON,ROBERT NEWMAN,3
+Mono,12,Governor,,PF,CINDY L. SHEEHAN,6
+Mono,12,Governor,,NON,JOE LEICHT,3
+Mono,13,Governor,,GRN,LUIS J. RODRIGUEZ,5
+Mono,13,Governor,,REP,ALMA MARIE WINSTON,2
+Mono,13,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",137
+Mono,13,Governor,,NON,JANEL HYESHIA BUYCKS,1
+Mono,13,Governor,,REP,ANDREW BLOUNT,18
+Mono,13,Governor,,NON,RAKESH KUMAR CHRISTIAN,0
+Mono,13,Governor,,REP,GLENN CHAMP,8
+Mono,13,Governor,,REP,NEEL KASHKARI,20
+Mono,13,Governor,,REP,TIM DONNELLY,37
+Mono,13,Governor,,NON,"""BO"" BOGDAN AMBROZEWICZ",5
+Mono,13,Governor,,DEM,AKINYEMI AGBEDE,5
+Mono,13,Governor,,REP,RICHARD WILLIAM AGUIRRE,1
+Mono,13,Governor,,NON,ROBERT NEWMAN,3
+Mono,13,Governor,,PF,CINDY L. SHEEHAN,8
+Mono,13,Governor,,NON,JOE LEICHT,0
+county,precinct,office,district,party,candidate,votes
+Mono,1,U.S. House,8,REP,PAUL COOK,131
+Mono,1,U.S. House,8,DEM,BOB CONAWAY,41
+Mono,1,U.S. House,8,REP,PAUL HANNOSH,45
+Mono,1,U.S. House,8,DEM,ODESSIA D. LEE,34
+Mono,2,U.S. House,8,REP,PAUL COOK,50
+Mono,2,U.S. House,8,DEM,BOB CONAWAY,13
+Mono,2,U.S. House,8,REP,PAUL HANNOSH,8
+Mono,2,U.S. House,8,DEM,ODESSIA D. LEE,6
+Mono,3,U.S. House,8,REP,PAUL COOK,166
+Mono,3,U.S. House,8,DEM,BOB CONAWAY,41
+Mono,3,U.S. House,8,REP,PAUL HANNOSH,29
+Mono,3,U.S. House,8,DEM,ODESSIA D. LEE,19
+Mono,4,U.S. House,8,REP,PAUL COOK,81
+Mono,4,U.S. House,8,DEM,BOB CONAWAY,27
+Mono,4,U.S. House,8,REP,PAUL HANNOSH,27
+Mono,4,U.S. House,8,DEM,ODESSIA D. LEE,19
+Mono,5,U.S. House,8,REP,PAUL COOK,87
+Mono,5,U.S. House,8,DEM,BOB CONAWAY,54
+Mono,5,U.S. House,8,REP,PAUL HANNOSH,15
+Mono,5,U.S. House,8,DEM,ODESSIA D. LEE,21
+Mono,6,U.S. House,8,REP,PAUL COOK,61
+Mono,6,U.S. House,8,DEM,BOB CONAWAY,45
+Mono,6,U.S. House,8,REP,PAUL HANNOSH,15
+Mono,6,U.S. House,8,DEM,ODESSIA D. LEE,15
+Mono,7,U.S. House,8,REP,PAUL COOK,143
+Mono,7,U.S. House,8,DEM,BOB CONAWAY,114
+Mono,7,U.S. House,8,REP,PAUL HANNOSH,30
+Mono,7,U.S. House,8,DEM,ODESSIA D. LEE,41
+Mono,8,U.S. House,8,REP,PAUL COOK,104
+Mono,8,U.S. House,8,DEM,BOB CONAWAY,65
+Mono,8,U.S. House,8,REP,PAUL HANNOSH,11
+Mono,8,U.S. House,8,DEM,ODESSIA D. LEE,38
+Mono,9,U.S. House,8,REP,PAUL COOK,144
+Mono,9,U.S. House,8,DEM,BOB CONAWAY,90
+Mono,9,U.S. House,8,REP,PAUL HANNOSH,28
+Mono,9,U.S. House,8,DEM,ODESSIA D. LEE,44
+Mono,10,U.S. House,8,REP,PAUL COOK,103
+Mono,10,U.S. House,8,DEM,BOB CONAWAY,108
+Mono,10,U.S. House,8,REP,PAUL HANNOSH,22
+Mono,10,U.S. House,8,DEM,ODESSIA D. LEE,32
+Mono,11,U.S. House,8,REP,PAUL COOK,52
+Mono,11,U.S. House,8,DEM,BOB CONAWAY,73
+Mono,11,U.S. House,8,REP,PAUL HANNOSH,16
+Mono,11,U.S. House,8,DEM,ODESSIA D. LEE,20
+Mono,12,U.S. House,8,REP,PAUL COOK,124
+Mono,12,U.S. House,8,DEM,BOB CONAWAY,97
+Mono,12,U.S. House,8,REP,PAUL HANNOSH,30
+Mono,12,U.S. House,8,DEM,ODESSIA D. LEE,39
+Mono,13,U.S. House,8,REP,PAUL COOK,78
+Mono,13,U.S. House,8,DEM,BOB CONAWAY,94
+Mono,13,U.S. House,8,REP,PAUL HANNOSH,24
+Mono,13,U.S. House,8,DEM,ODESSIA D. LEE,35
+county,precinct,office,district,party,candidate,votes
+Mono,1,Insurance Commissioner,,PF,NATHALIE HRIZI,13
+Mono,1,Insurance Commissioner,,DEM,DAVE JONES,80
+Mono,1,Insurance Commissioner,,REP,TED GAINES,147
+Mono,2,Insurance Commissioner,,PF,NATHALIE HRIZI,4
+Mono,2,Insurance Commissioner,,DEM,DAVE JONES,20
+Mono,2,Insurance Commissioner,,REP,TED GAINES,52
+Mono,3,Insurance Commissioner,,PF,NATHALIE HRIZI,6
+Mono,3,Insurance Commissioner,,DEM,DAVE JONES,77
+Mono,3,Insurance Commissioner,,REP,TED GAINES,162
+Mono,4,Insurance Commissioner,,PF,NATHALIE HRIZI,13
+Mono,4,Insurance Commissioner,,DEM,DAVE JONES,38
+Mono,4,Insurance Commissioner,,REP,TED GAINES,106
+Mono,5,Insurance Commissioner,,PF,NATHALIE HRIZI,18
+Mono,5,Insurance Commissioner,,DEM,DAVE JONES,68
+Mono,5,Insurance Commissioner,,REP,TED GAINES,83
+Mono,6,Insurance Commissioner,,PF,NATHALIE HRIZI,8
+Mono,6,Insurance Commissioner,,DEM,DAVE JONES,65
+Mono,6,Insurance Commissioner,,REP,TED GAINES,66
+Mono,7,Insurance Commissioner,,PF,NATHALIE HRIZI,26
+Mono,7,Insurance Commissioner,,DEM,DAVE JONES,147
+Mono,7,Insurance Commissioner,,REP,TED GAINES,145
+Mono,8,Insurance Commissioner,,PF,NATHALIE HRIZI,14
+Mono,8,Insurance Commissioner,,DEM,DAVE JONES,106
+Mono,8,Insurance Commissioner,,REP,TED GAINES,91
+Mono,9,Insurance Commissioner,,PF,NATHALIE HRIZI,17
+Mono,9,Insurance Commissioner,,DEM,DAVE JONES,149
+Mono,9,Insurance Commissioner,,REP,TED GAINES,128
+Mono,10,Insurance Commissioner,,PF,NATHALIE HRIZI,14
+Mono,10,Insurance Commissioner,,DEM,DAVE JONES,140
+Mono,10,Insurance Commissioner,,REP,TED GAINES,102
+Mono,11,Insurance Commissioner,,PF,NATHALIE HRIZI,6
+Mono,11,Insurance Commissioner,,DEM,DAVE JONES,107
+Mono,11,Insurance Commissioner,,REP,TED GAINES,51
+Mono,12,Insurance Commissioner,,PF,NATHALIE HRIZI,31
+Mono,12,Insurance Commissioner,,DEM,DAVE JONES,128
+Mono,12,Insurance Commissioner,,REP,TED GAINES,116
+Mono,13,Insurance Commissioner,,PF,NATHALIE HRIZI,17
+Mono,13,Insurance Commissioner,,DEM,DAVE JONES,133
+Mono,13,Insurance Commissioner,,REP,TED GAINES,78
+county,precinct,office,district,party,candidate,votes
+Mono,1,Lieutenant Governor,,AME,ALAN REYNOLDS,4
+Mono,1,Lieutenant Governor,,REP,GEORGE YANG,18
+Mono,1,Lieutenant Governor,,DEM,ERIC KOREVAAR,14
+Mono,1,Lieutenant Governor,,REP,DAVID FENNELL,26
+Mono,1,Lieutenant Governor,,PF,AMOS JOHNSON,2
+Mono,1,Lieutenant Governor,,DEM,GAVIN NEWSOM,87
+Mono,1,Lieutenant Governor,,REP,RON NEHRING,96
+Mono,1,Lieutenant Governor,,GRN,JENA F. GOODMAN,4
+Mono,2,Lieutenant Governor,,AME,ALAN REYNOLDS,4
+Mono,2,Lieutenant Governor,,REP,GEORGE YANG,5
+Mono,2,Lieutenant Governor,,DEM,ERIC KOREVAAR,1
+Mono,2,Lieutenant Governor,,REP,DAVID FENNELL,9
+Mono,2,Lieutenant Governor,,PF,AMOS JOHNSON,1
+Mono,2,Lieutenant Governor,,DEM,GAVIN NEWSOM,15
+Mono,2,Lieutenant Governor,,REP,RON NEHRING,37
+Mono,2,Lieutenant Governor,,GRN,JENA F. GOODMAN,3
+Mono,3,Lieutenant Governor,,AME,ALAN REYNOLDS,1
+Mono,3,Lieutenant Governor,,REP,GEORGE YANG,19
+Mono,3,Lieutenant Governor,,DEM,ERIC KOREVAAR,12
+Mono,3,Lieutenant Governor,,REP,DAVID FENNELL,27
+Mono,3,Lieutenant Governor,,PF,AMOS JOHNSON,1
+Mono,3,Lieutenant Governor,,DEM,GAVIN NEWSOM,68
+Mono,3,Lieutenant Governor,,REP,RON NEHRING,109
+Mono,3,Lieutenant Governor,,GRN,JENA F. GOODMAN,6
+Mono,4,Lieutenant Governor,,AME,ALAN REYNOLDS,5
+Mono,4,Lieutenant Governor,,REP,GEORGE YANG,22
+Mono,4,Lieutenant Governor,,DEM,ERIC KOREVAAR,6
+Mono,4,Lieutenant Governor,,REP,DAVID FENNELL,21
+Mono,4,Lieutenant Governor,,PF,AMOS JOHNSON,0
+Mono,4,Lieutenant Governor,,DEM,GAVIN NEWSOM,39
+Mono,4,Lieutenant Governor,,REP,RON NEHRING,51
+Mono,4,Lieutenant Governor,,GRN,JENA F. GOODMAN,8
+Mono,5,Lieutenant Governor,,AME,ALAN REYNOLDS,0
+Mono,5,Lieutenant Governor,,REP,GEORGE YANG,14
+Mono,5,Lieutenant Governor,,DEM,ERIC KOREVAAR,5
+Mono,5,Lieutenant Governor,,REP,DAVID FENNELL,14
+Mono,5,Lieutenant Governor,,PF,AMOS JOHNSON,4
+Mono,5,Lieutenant Governor,,DEM,GAVIN NEWSOM,75
+Mono,5,Lieutenant Governor,,REP,RON NEHRING,54
+Mono,5,Lieutenant Governor,,GRN,JENA F. GOODMAN,7
+Mono,6,Lieutenant Governor,,AME,ALAN REYNOLDS,1
+Mono,6,Lieutenant Governor,,REP,GEORGE YANG,6
+Mono,6,Lieutenant Governor,,DEM,ERIC KOREVAAR,11
+Mono,6,Lieutenant Governor,,REP,DAVID FENNELL,8
+Mono,6,Lieutenant Governor,,PF,AMOS JOHNSON,3
+Mono,6,Lieutenant Governor,,DEM,GAVIN NEWSOM,61
+Mono,6,Lieutenant Governor,,REP,RON NEHRING,45
+Mono,6,Lieutenant Governor,,GRN,JENA F. GOODMAN,11
+Mono,7,Lieutenant Governor,,AME,ALAN REYNOLDS,2
+Mono,7,Lieutenant Governor,,REP,GEORGE YANG,20
+Mono,7,Lieutenant Governor,,DEM,ERIC KOREVAAR,27
+Mono,7,Lieutenant Governor,,REP,DAVID FENNELL,28
+Mono,7,Lieutenant Governor,,PF,AMOS JOHNSON,7
+Mono,7,Lieutenant Governor,,DEM,GAVIN NEWSOM,148
+Mono,7,Lieutenant Governor,,REP,RON NEHRING,84
+Mono,7,Lieutenant Governor,,GRN,JENA F. GOODMAN,8
+Mono,8,Lieutenant Governor,,AME,ALAN REYNOLDS,3
+Mono,8,Lieutenant Governor,,REP,GEORGE YANG,8
+Mono,8,Lieutenant Governor,,DEM,ERIC KOREVAAR,9
+Mono,8,Lieutenant Governor,,REP,DAVID FENNELL,31
+Mono,8,Lieutenant Governor,,PF,AMOS JOHNSON,3
+Mono,8,Lieutenant Governor,,DEM,GAVIN NEWSOM,109
+Mono,8,Lieutenant Governor,,REP,RON NEHRING,47
+Mono,8,Lieutenant Governor,,GRN,JENA F. GOODMAN,6
+Mono,9,Lieutenant Governor,,AME,ALAN REYNOLDS,2
+Mono,9,Lieutenant Governor,,REP,GEORGE YANG,24
+Mono,9,Lieutenant Governor,,DEM,ERIC KOREVAAR,13
+Mono,9,Lieutenant Governor,,REP,DAVID FENNELL,31
+Mono,9,Lieutenant Governor,,PF,AMOS JOHNSON,4
+Mono,9,Lieutenant Governor,,DEM,GAVIN NEWSOM,153
+Mono,9,Lieutenant Governor,,REP,RON NEHRING,58
+Mono,9,Lieutenant Governor,,GRN,JENA F. GOODMAN,9
+Mono,10,Lieutenant Governor,,AME,ALAN REYNOLDS,5
+Mono,10,Lieutenant Governor,,REP,GEORGE YANG,24
+Mono,10,Lieutenant Governor,,DEM,ERIC KOREVAAR,16
+Mono,10,Lieutenant Governor,,REP,DAVID FENNELL,15
+Mono,10,Lieutenant Governor,,PF,AMOS JOHNSON,3
+Mono,10,Lieutenant Governor,,DEM,GAVIN NEWSOM,139
+Mono,10,Lieutenant Governor,,REP,RON NEHRING,54
+Mono,10,Lieutenant Governor,,GRN,JENA F. GOODMAN,6
+Mono,11,Lieutenant Governor,,AME,ALAN REYNOLDS,6
+Mono,11,Lieutenant Governor,,REP,GEORGE YANG,6
+Mono,11,Lieutenant Governor,,DEM,ERIC KOREVAAR,12
+Mono,11,Lieutenant Governor,,REP,DAVID FENNELL,13
+Mono,11,Lieutenant Governor,,PF,AMOS JOHNSON,1
+Mono,11,Lieutenant Governor,,DEM,GAVIN NEWSOM,99
+Mono,11,Lieutenant Governor,,REP,RON NEHRING,28
+Mono,11,Lieutenant Governor,,GRN,JENA F. GOODMAN,2
+Mono,12,Lieutenant Governor,,AME,ALAN REYNOLDS,3
+Mono,12,Lieutenant Governor,,REP,GEORGE YANG,15
+Mono,12,Lieutenant Governor,,DEM,ERIC KOREVAAR,12
+Mono,12,Lieutenant Governor,,REP,DAVID FENNELL,25
+Mono,12,Lieutenant Governor,,PF,AMOS JOHNSON,7
+Mono,12,Lieutenant Governor,,DEM,GAVIN NEWSOM,140
+Mono,12,Lieutenant Governor,,REP,RON NEHRING,67
+Mono,12,Lieutenant Governor,,GRN,JENA F. GOODMAN,17
+Mono,13,Lieutenant Governor,,AME,ALAN REYNOLDS,6
+Mono,13,Lieutenant Governor,,REP,GEORGE YANG,12
+Mono,13,Lieutenant Governor,,DEM,ERIC KOREVAAR,21
+Mono,13,Lieutenant Governor,,REP,DAVID FENNELL,9
+Mono,13,Lieutenant Governor,,PF,AMOS JOHNSON,6
+Mono,13,Lieutenant Governor,,DEM,GAVIN NEWSOM,114
+Mono,13,Lieutenant Governor,,REP,RON NEHRING,54
+Mono,13,Lieutenant Governor,,GRN,JENA F. GOODMAN,10
+county,precinct,office,district,party,candidate,votes
+Mono,1,Secretary of State,,DEM,LELAND YEE,19
+Mono,1,Secretary of State,,DEM,DEREK CRESSMAN,16
+Mono,1,Secretary of State,,GRN,DAVID CURTIS,1
+Mono,1,Secretary of State,,DEM,ALEX PADILLA,50
+Mono,1,Secretary of State,,REP,PETE PETERSON,104
+Mono,1,Secretary of State,,DEM,JEFFREY H. DROBMAN,10
+Mono,1,Secretary of State,,REP,ROY ALLMOND,32
+Mono,1,Secretary of State,,NON,DAN SCHNUR,15
+Mono,2,Secretary of State,,DEM,LELAND YEE,8
+Mono,2,Secretary of State,,DEM,DEREK CRESSMAN,3
+Mono,2,Secretary of State,,GRN,DAVID CURTIS,2
+Mono,2,Secretary of State,,DEM,ALEX PADILLA,12
+Mono,2,Secretary of State,,REP,PETE PETERSON,37
+Mono,2,Secretary of State,,DEM,JEFFREY H. DROBMAN,2
+Mono,2,Secretary of State,,REP,ROY ALLMOND,13
+Mono,2,Secretary of State,,NON,DAN SCHNUR,0
+Mono,3,Secretary of State,,DEM,LELAND YEE,19
+Mono,3,Secretary of State,,DEM,DEREK CRESSMAN,10
+Mono,3,Secretary of State,,GRN,DAVID CURTIS,7
+Mono,3,Secretary of State,,DEM,ALEX PADILLA,41
+Mono,3,Secretary of State,,REP,PETE PETERSON,117
+Mono,3,Secretary of State,,DEM,JEFFREY H. DROBMAN,3
+Mono,3,Secretary of State,,REP,ROY ALLMOND,34
+Mono,3,Secretary of State,,NON,DAN SCHNUR,9
+Mono,4,Secretary of State,,DEM,LELAND YEE,9
+Mono,4,Secretary of State,,DEM,DEREK CRESSMAN,3
+Mono,4,Secretary of State,,GRN,DAVID CURTIS,14
+Mono,4,Secretary of State,,DEM,ALEX PADILLA,24
+Mono,4,Secretary of State,,REP,PETE PETERSON,68
+Mono,4,Secretary of State,,DEM,JEFFREY H. DROBMAN,6
+Mono,4,Secretary of State,,REP,ROY ALLMOND,27
+Mono,4,Secretary of State,,NON,DAN SCHNUR,3
+Mono,5,Secretary of State,,DEM,LELAND YEE,13
+Mono,5,Secretary of State,,DEM,DEREK CRESSMAN,9
+Mono,5,Secretary of State,,GRN,DAVID CURTIS,15
+Mono,5,Secretary of State,,DEM,ALEX PADILLA,29
+Mono,5,Secretary of State,,REP,PETE PETERSON,62
+Mono,5,Secretary of State,,DEM,JEFFREY H. DROBMAN,13
+Mono,5,Secretary of State,,REP,ROY ALLMOND,12
+Mono,5,Secretary of State,,NON,DAN SCHNUR,12
+Mono,6,Secretary of State,,DEM,LELAND YEE,8
+Mono,6,Secretary of State,,DEM,DEREK CRESSMAN,12
+Mono,6,Secretary of State,,GRN,DAVID CURTIS,11
+Mono,6,Secretary of State,,DEM,ALEX PADILLA,27
+Mono,6,Secretary of State,,REP,PETE PETERSON,46
+Mono,6,Secretary of State,,DEM,JEFFREY H. DROBMAN,7
+Mono,6,Secretary of State,,REP,ROY ALLMOND,20
+Mono,6,Secretary of State,,NON,DAN SCHNUR,4
+Mono,7,Secretary of State,,DEM,LELAND YEE,40
+Mono,7,Secretary of State,,DEM,DEREK CRESSMAN,18
+Mono,7,Secretary of State,,GRN,DAVID CURTIS,16
+Mono,7,Secretary of State,,DEM,ALEX PADILLA,76
+Mono,7,Secretary of State,,REP,PETE PETERSON,106
+Mono,7,Secretary of State,,DEM,JEFFREY H. DROBMAN,19
+Mono,7,Secretary of State,,REP,ROY ALLMOND,19
+Mono,7,Secretary of State,,NON,DAN SCHNUR,16
+Mono,8,Secretary of State,,DEM,LELAND YEE,23
+Mono,8,Secretary of State,,DEM,DEREK CRESSMAN,19
+Mono,8,Secretary of State,,GRN,DAVID CURTIS,10
+Mono,8,Secretary of State,,DEM,ALEX PADILLA,37
+Mono,8,Secretary of State,,REP,PETE PETERSON,72
+Mono,8,Secretary of State,,DEM,JEFFREY H. DROBMAN,17
+Mono,8,Secretary of State,,REP,ROY ALLMOND,14
+Mono,8,Secretary of State,,NON,DAN SCHNUR,13
+Mono,9,Secretary of State,,DEM,LELAND YEE,33
+Mono,9,Secretary of State,,DEM,DEREK CRESSMAN,13
+Mono,9,Secretary of State,,GRN,DAVID CURTIS,16
+Mono,9,Secretary of State,,DEM,ALEX PADILLA,74
+Mono,9,Secretary of State,,REP,PETE PETERSON,101
+Mono,9,Secretary of State,,DEM,JEFFREY H. DROBMAN,19
+Mono,9,Secretary of State,,REP,ROY ALLMOND,16
+Mono,9,Secretary of State,,NON,DAN SCHNUR,12
+Mono,10,Secretary of State,,DEM,LELAND YEE,31
+Mono,10,Secretary of State,,DEM,DEREK CRESSMAN,17
+Mono,10,Secretary of State,,GRN,DAVID CURTIS,14
+Mono,10,Secretary of State,,DEM,ALEX PADILLA,60
+Mono,10,Secretary of State,,REP,PETE PETERSON,70
+Mono,10,Secretary of State,,DEM,JEFFREY H. DROBMAN,18
+Mono,10,Secretary of State,,REP,ROY ALLMOND,13
+Mono,10,Secretary of State,,NON,DAN SCHNUR,19
+Mono,11,Secretary of State,,DEM,LELAND YEE,17
+Mono,11,Secretary of State,,DEM,DEREK CRESSMAN,14
+Mono,11,Secretary of State,,GRN,DAVID CURTIS,9
+Mono,11,Secretary of State,,DEM,ALEX PADILLA,54
+Mono,11,Secretary of State,,REP,PETE PETERSON,36
+Mono,11,Secretary of State,,DEM,JEFFREY H. DROBMAN,7
+Mono,11,Secretary of State,,REP,ROY ALLMOND,9
+Mono,11,Secretary of State,,NON,DAN SCHNUR,14
+Mono,12,Secretary of State,,DEM,LELAND YEE,40
+Mono,12,Secretary of State,,DEM,DEREK CRESSMAN,13
+Mono,12,Secretary of State,,GRN,DAVID CURTIS,17
+Mono,12,Secretary of State,,DEM,ALEX PADILLA,55
+Mono,12,Secretary of State,,REP,PETE PETERSON,95
+Mono,12,Secretary of State,,DEM,JEFFREY H. DROBMAN,14
+Mono,12,Secretary of State,,REP,ROY ALLMOND,18
+Mono,12,Secretary of State,,NON,DAN SCHNUR,7
+Mono,13,Secretary of State,,DEM,LELAND YEE,38
+Mono,13,Secretary of State,,DEM,DEREK CRESSMAN,7
+Mono,13,Secretary of State,,GRN,DAVID CURTIS,14
+Mono,13,Secretary of State,,DEM,ALEX PADILLA,43
+Mono,13,Secretary of State,,REP,PETE PETERSON,72
+Mono,13,Secretary of State,,DEM,JEFFREY H. DROBMAN,27
+Mono,13,Secretary of State,,REP,ROY ALLMOND,7
+Mono,13,Secretary of State,,NON,DAN SCHNUR,13
+county,precinct,office,district,party,candidate,votes
+Mono,1,State Assembly,5,REP,FRANK BIGELOW,190
+Mono,2,State Assembly,5,REP,FRANK BIGELOW,64
+Mono,3,State Assembly,5,REP,FRANK BIGELOW,206
+Mono,4,State Assembly,5,REP,FRANK BIGELOW,125
+Mono,5,State Assembly,5,REP,FRANK BIGELOW,116
+Mono,6,State Assembly,5,REP,FRANK BIGELOW,86
+Mono,7,State Assembly,5,REP,FRANK BIGELOW,217
+Mono,8,State Assembly,5,REP,FRANK BIGELOW,130
+Mono,9,State Assembly,5,REP,FRANK BIGELOW,208
+Mono,10,State Assembly,5,REP,FRANK BIGELOW,164
+Mono,11,State Assembly,5,REP,FRANK BIGELOW,77
+Mono,12,State Assembly,5,REP,FRANK BIGELOW,202
+Mono,13,State Assembly,5,REP,FRANK BIGELOW,155
+county,precinct,office,district,party,candidate,votes
+Mono,1,State Senate,8,DEM,PAULINA MIRANDA,83
+Mono,1,State Senate,8,REP,TOM BERRYHILL,170
+Mono,2,State Senate,8,DEM,PAULINA MIRANDA,20
+Mono,2,State Senate,8,REP,TOM BERRYHILL,57
+Mono,3,State Senate,8,DEM,PAULINA MIRANDA,63
+Mono,3,State Senate,8,REP,TOM BERRYHILL,189
+Mono,4,State Senate,8,DEM,PAULINA MIRANDA,38
+Mono,4,State Senate,8,REP,TOM BERRYHILL,116
+Mono,5,State Senate,8,DEM,PAULINA MIRANDA,79
+Mono,5,State Senate,8,REP,TOM BERRYHILL,97
+Mono,6,State Senate,8,DEM,PAULINA MIRANDA,74
+Mono,6,State Senate,8,REP,TOM BERRYHILL,68
+Mono,7,State Senate,8,DEM,PAULINA MIRANDA,161
+Mono,7,State Senate,8,REP,TOM BERRYHILL,169
+Mono,8,State Senate,8,DEM,PAULINA MIRANDA,116
+Mono,8,State Senate,8,REP,TOM BERRYHILL,100
+Mono,9,State Senate,8,DEM,PAULINA MIRANDA,151
+Mono,9,State Senate,8,REP,TOM BERRYHILL,146
+Mono,10,State Senate,8,DEM,PAULINA MIRANDA,146
+Mono,10,State Senate,8,REP,TOM BERRYHILL,113
+Mono,11,State Senate,8,DEM,PAULINA MIRANDA,102
+Mono,11,State Senate,8,REP,TOM BERRYHILL,60
+Mono,12,State Senate,8,DEM,PAULINA MIRANDA,148
+Mono,12,State Senate,8,REP,TOM BERRYHILL,148
+Mono,13,State Senate,8,DEM,PAULINA MIRANDA,126
+Mono,13,State Senate,8,REP,TOM BERRYHILL,107
+county,precinct,office,district,party,candidate,votes
+Mono,1,Superintendent of Public Instruction,,NON,TOM TORLAKSON,83
+Mono,1,Superintendent of Public Instruction,,NON,MARSHALL TUCK,73
+Mono,1,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,76
+Mono,2,Superintendent of Public Instruction,,NON,TOM TORLAKSON,29
+Mono,2,Superintendent of Public Instruction,,NON,MARSHALL TUCK,21
+Mono,2,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,24
+Mono,3,Superintendent of Public Instruction,,NON,TOM TORLAKSON,103
+Mono,3,Superintendent of Public Instruction,,NON,MARSHALL TUCK,58
+Mono,3,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,63
+Mono,4,Superintendent of Public Instruction,,NON,TOM TORLAKSON,57
+Mono,4,Superintendent of Public Instruction,,NON,MARSHALL TUCK,42
+Mono,4,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,39
+Mono,5,Superintendent of Public Instruction,,NON,TOM TORLAKSON,65
+Mono,5,Superintendent of Public Instruction,,NON,MARSHALL TUCK,34
+Mono,5,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,54
+Mono,6,Superintendent of Public Instruction,,NON,TOM TORLAKSON,68
+Mono,6,Superintendent of Public Instruction,,NON,MARSHALL TUCK,25
+Mono,6,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,27
+Mono,7,Superintendent of Public Instruction,,NON,TOM TORLAKSON,145
+Mono,7,Superintendent of Public Instruction,,NON,MARSHALL TUCK,73
+Mono,7,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,67
+Mono,8,Superintendent of Public Instruction,,NON,TOM TORLAKSON,87
+Mono,8,Superintendent of Public Instruction,,NON,MARSHALL TUCK,54
+Mono,8,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,44
+Mono,9,Superintendent of Public Instruction,,NON,TOM TORLAKSON,121
+Mono,9,Superintendent of Public Instruction,,NON,MARSHALL TUCK,66
+Mono,9,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,72
+Mono,10,Superintendent of Public Instruction,,NON,TOM TORLAKSON,101
+Mono,10,Superintendent of Public Instruction,,NON,MARSHALL TUCK,68
+Mono,10,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,52
+Mono,11,Superintendent of Public Instruction,,NON,TOM TORLAKSON,73
+Mono,11,Superintendent of Public Instruction,,NON,MARSHALL TUCK,34
+Mono,11,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,32
+Mono,12,Superintendent of Public Instruction,,NON,TOM TORLAKSON,117
+Mono,12,Superintendent of Public Instruction,,NON,MARSHALL TUCK,67
+Mono,12,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,53
+Mono,13,Superintendent of Public Instruction,,NON,TOM TORLAKSON,104
+Mono,13,Superintendent of Public Instruction,,NON,MARSHALL TUCK,49
+Mono,13,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,40
+county,precinct,office,district,party,candidate,votes
+Mono,1,Treasurer,,GRN,ELLEN H. BROWN,19
+Mono,1,Treasurer,,REP,GREG CONLON,123
+Mono,1,Treasurer,,DEM,JOHN CHIANG,99
+Mono,2,Treasurer,,GRN,ELLEN H. BROWN,3
+Mono,2,Treasurer,,REP,GREG CONLON,45
+Mono,2,Treasurer,,DEM,JOHN CHIANG,29
+Mono,3,Treasurer,,GRN,ELLEN H. BROWN,8
+Mono,3,Treasurer,,REP,GREG CONLON,143
+Mono,3,Treasurer,,DEM,JOHN CHIANG,101
+Mono,4,Treasurer,,GRN,ELLEN H. BROWN,11
+Mono,4,Treasurer,,REP,GREG CONLON,91
+Mono,4,Treasurer,,DEM,JOHN CHIANG,55
+Mono,5,Treasurer,,GRN,ELLEN H. BROWN,16
+Mono,5,Treasurer,,REP,GREG CONLON,84
+Mono,5,Treasurer,,DEM,JOHN CHIANG,70
+Mono,6,Treasurer,,GRN,ELLEN H. BROWN,18
+Mono,6,Treasurer,,REP,GREG CONLON,56
+Mono,6,Treasurer,,DEM,JOHN CHIANG,73
+Mono,7,Treasurer,,GRN,ELLEN H. BROWN,21
+Mono,7,Treasurer,,REP,GREG CONLON,129
+Mono,7,Treasurer,,DEM,JOHN CHIANG,170
+Mono,8,Treasurer,,GRN,ELLEN H. BROWN,23
+Mono,8,Treasurer,,REP,GREG CONLON,89
+Mono,8,Treasurer,,DEM,JOHN CHIANG,99
+Mono,9,Treasurer,,GRN,ELLEN H. BROWN,22
+Mono,9,Treasurer,,REP,GREG CONLON,124
+Mono,9,Treasurer,,DEM,JOHN CHIANG,150
+Mono,10,Treasurer,,GRN,ELLEN H. BROWN,21
+Mono,10,Treasurer,,REP,GREG CONLON,99
+Mono,10,Treasurer,,DEM,JOHN CHIANG,140
+Mono,11,Treasurer,,GRN,ELLEN H. BROWN,15
+Mono,11,Treasurer,,REP,GREG CONLON,48
+Mono,11,Treasurer,,DEM,JOHN CHIANG,104
+Mono,12,Treasurer,,GRN,ELLEN H. BROWN,34
+Mono,12,Treasurer,,REP,GREG CONLON,118
+Mono,12,Treasurer,,DEM,JOHN CHIANG,133
+Mono,13,Treasurer,,GRN,ELLEN H. BROWN,15
+Mono,13,Treasurer,,REP,GREG CONLON,69
+Mono,13,Treasurer,,DEM,JOHN CHIANG,144
