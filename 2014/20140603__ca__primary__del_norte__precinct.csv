@@ -125,7 +125,6 @@ Del Norte,18,Attorney General,,REP,David King,14
 Del Norte,18,Attorney General,,REP,John Haggerty,16
 Del Norte,18,Attorney General,,REP,Phil Wyman,37
 Del Norte,18,Attorney General,,REP,Ronald Gold,26
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Board of Equalization,2,DEM,Fiona Ma,144
 Del Norte,01,Board of Equalization,2,REP,James Theis,133
 Del Norte,02,Board of Equalization,2,DEM,Fiona Ma,130
@@ -162,7 +161,6 @@ Del Norte,17,Board of Equalization,2,DEM,Fiona Ma,191
 Del Norte,17,Board of Equalization,2,REP,James Theis,238
 Del Norte,18,Board of Equalization,2,DEM,Fiona Ma,95
 Del Norte,18,Board of Equalization,2,REP,James Theis,85
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Controller,,DEM,Betty Yee,50
 Del Norte,01,Controller,,DEM,John Perez,45
 Del Norte,01,Controller,,DEM,Tammy Blair,21
@@ -271,7 +269,6 @@ Del Norte,18,Controller,,DEM,Tammy Blair,21
 Del Norte,18,Controller,,GRN,Laura Wells,18
 Del Norte,18,Controller,,REP,Ashley Swearengin,37
 Del Norte,18,Controller,,REP,David Evans,49
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Governor,,DEM,Akinyemi Agbede,0
 Del Norte,01,Governor,,DEM,Edmund G. Brown,152
 Del Norte,01,Governor,,GRN,Luis Rodriguez,4
@@ -542,7 +539,6 @@ Del Norte,18,Governor,,REP,Glenn Champ,9
 Del Norte,18,Governor,,REP,Neel Kashkari,9
 Del Norte,18,Governor,,REP,Richard Aguirre,2
 Del Norte,18,Governor,,REP,Tim Donnelly,42
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,U.S. House,2,DEM,Andy Caffrey,30
 Del Norte,01,U.S. House,2,DEM,Jared Huffman,142
 Del Norte,01,U.S. House,2,REP,Dale Mensing,110
@@ -597,7 +593,6 @@ Del Norte,17,U.S. House,2,REP,Dale Mensing,230
 Del Norte,18,U.S. House,2,DEM,Andy Caffrey,24
 Del Norte,18,U.S. House,2,DEM,Jared Huffman,83
 Del Norte,18,U.S. House,2,REP,Dale Mensing,81
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Insurance Commissioner,,DEM,Dave Jones,129
 Del Norte,01,Insurance Commissioner,,PAF,Nathalie Hrizi,25
 Del Norte,01,Insurance Commissioner,,REP,Ted Gaines,123
@@ -652,7 +647,6 @@ Del Norte,17,Insurance Commissioner,,REP,Ted Gaines,221
 Del Norte,18,Insurance Commissioner,,DEM,Dave Jones,87
 Del Norte,18,Insurance Commissioner,,PAF,Nathalie Hrizi,17
 Del Norte,18,Insurance Commissioner,,REP,Ted Gaines,81
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Lieutenant Governor,,AME,Alan Reynolds,6
 Del Norte,01,Lieutenant Governor,,DEM,Eric Korevaar,25
 Del Norte,01,Lieutenant Governor,,DEM,Gavin Newsom,104
@@ -797,7 +791,6 @@ Del Norte,18,Lieutenant Governor,,PAF,Amos Johnson,7
 Del Norte,18,Lieutenant Governor,,REP,David Fennell,15
 Del Norte,18,Lieutenant Governor,,REP,George Yang,31
 Del Norte,18,Lieutenant Governor,,REP,Ron Nehring,39
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Secretary of State,,DEM,Alex Padilla,65
 Del Norte,01,Secretary of State,,DEM,Derek Cressman,31
 Del Norte,01,Secretary of State,,DEM,Jeffrey Drobman,10
@@ -942,7 +935,6 @@ Del Norte,18,Secretary of State,,GRN,David Curtis,9
 Del Norte,18,Secretary of State,,IND,Dan Schnur,17
 Del Norte,18,Secretary of State,,REP,Pete Peterson,61
 Del Norte,18,Secretary of State,,REP,Roy Allmond,18
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,State Assembly,2,DEM,Jim Wood,88
 Del Norte,01,State Assembly,2,DEM,John Lowry,44
 Del Norte,01,State Assembly,2,GRN,Pamela Elizondo,27
@@ -1015,7 +1007,6 @@ Del Norte,18,State Assembly,2,DEM,Jim Wood,51
 Del Norte,18,State Assembly,2,DEM,John Lowry,30
 Del Norte,18,State Assembly,2,GRN,Pamela Elizondo,18
 Del Norte,18,State Assembly,2,REP,Matt Heath,81
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,State Senate,2,DEM,Derek Knell,24
 Del Norte,01,State Senate,2,DEM,Mike McGuire,118
 Del Norte,01,State Senate,2,IND,Harry Lehmann,20
@@ -1088,7 +1079,6 @@ Del Norte,18,State Senate,2,DEM,Derek Knell,14
 Del Norte,18,State Senate,2,DEM,Mike McGuire,71
 Del Norte,18,State Senate,2,IND,Harry Lehmann,15
 Del Norte,18,State Senate,2,REP,Lawrence Wiesner,80
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,93
 Del Norte,01,Superintendent of Public Instruction,,NOP,Marshall Tuck,59
 Del Norte,01,Superintendent of Public Instruction,,NOP,Tom Torlakson,120
@@ -1143,7 +1133,6 @@ Del Norte,17,Superintendent of Public Instruction,,NOP,Tom Torlakson,168
 Del Norte,18,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,69
 Del Norte,18,Superintendent of Public Instruction,,NOP,Marshall Tuck,34
 Del Norte,18,Superintendent of Public Instruction,,NOP,Tom Torlakson,65
-county,precinct,office,district,party,candidate,votes
 Del Norte,01,Treasurer,,DEM,John Chiang,149
 Del Norte,01,Treasurer,,GRN,Ellen Brown,30
 Del Norte,01,Treasurer,,REP,Greg Conlon,115

@@ -1441,7 +1441,6 @@ Humboldt,5TU-4,Attorney General,,REP,David King,4
 Humboldt,5TU-4,Attorney General,,REP,John Haggerty,1
 Humboldt,5TU-4,Attorney General,,REP,Phil Wyman,1
 Humboldt,5TU-4,Attorney General,,REP,Ronald Gold,8
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Board of Equalization,2,DEM,Fiona Ma,201
 Humboldt,1CS-1_A,Board of Equalization,2,REP,James Theis,148
 Humboldt,1CS-1,Board of Equalization,2,DEM,Fiona Ma,117
@@ -1854,7 +1853,6 @@ Humboldt,5TU-4_A,Board of Equalization,2,DEM,Fiona Ma,86
 Humboldt,5TU-4_A,Board of Equalization,2,REP,James Theis,32
 Humboldt,5TU-4,Board of Equalization,2,DEM,Fiona Ma,125
 Humboldt,5TU-4,Board of Equalization,2,REP,James Theis,15
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Controller,,DEM,Betty Yee,80
 Humboldt,1CS-1_A,Controller,,DEM,John Perez,57
 Humboldt,1CS-1_A,Controller,,DEM,Tammy Blair,15
@@ -3091,7 +3089,6 @@ Humboldt,5TU-4,Controller,,DEM,Tammy Blair,7
 Humboldt,5TU-4,Controller,,GRN,Laura Wells,24
 Humboldt,5TU-4,Controller,,REP,Ashley Swearengin,9
 Humboldt,5TU-4,Controller,,REP,David Evans,5
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Governor,,DEM,Akinyemi Agbede,1
 Humboldt,1CS-1_A,Governor,,DEM,Edmund G. Brown,215
 Humboldt,1CS-1_A,Governor,,GRN,Luis Rodriguez,2
@@ -6182,7 +6179,6 @@ Humboldt,5TU-4,Governor,,REP,Glenn Champ,1
 Humboldt,5TU-4,Governor,,REP,Neel Kashkari,5
 Humboldt,5TU-4,Governor,,REP,Richard Aguirre,0
 Humboldt,5TU-4,Governor,,REP,Tim Donnelly,5
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,U.S. House,2,DEM,Andy Caffrey,18
 Humboldt,1CS-1_A,U.S. House,2,DEM,Jared Huffman,215
 Humboldt,1CS-1_A,U.S. House,2,REP,Dale Mensing,142
@@ -6801,7 +6797,6 @@ Humboldt,5TU-4_A,U.S. House,2,REP,Dale Mensing,28
 Humboldt,5TU-4,U.S. House,2,DEM,Andy Caffrey,19
 Humboldt,5TU-4,U.S. House,2,DEM,Jared Huffman,120
 Humboldt,5TU-4,U.S. House,2,REP,Dale Mensing,11
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Insurance Commissioner,,DEM,Dave Jones,187
 Humboldt,1CS-1_A,Insurance Commissioner,,PAF,Nathalie Hrizi,16
 Humboldt,1CS-1_A,Insurance Commissioner,,REP,Ted Gaines,167
@@ -7420,7 +7415,6 @@ Humboldt,5TU-4_A,Insurance Commissioner,,REP,Ted Gaines,31
 Humboldt,5TU-4,Insurance Commissioner,,DEM,Dave Jones,113
 Humboldt,5TU-4,Insurance Commissioner,,PAF,Nathalie Hrizi,16
 Humboldt,5TU-4,Insurance Commissioner,,REP,Ted Gaines,13
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Lieutenant Governor,,AME,Alan Reynolds,3
 Humboldt,1CS-1_A,Lieutenant Governor,,DEM,Eric Korevaar,14
 Humboldt,1CS-1_A,Lieutenant Governor,,DEM,Gavin Newsom,185
@@ -9069,7 +9063,6 @@ Humboldt,5TU-4,Lieutenant Governor,,PAF,Amos Johnson,3
 Humboldt,5TU-4,Lieutenant Governor,,REP,David Fennell,6
 Humboldt,5TU-4,Lieutenant Governor,,REP,George Yang,4
 Humboldt,5TU-4,Lieutenant Governor,,REP,Ron Nehring,6
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Secretary of State,,DEM,Alex Padilla,126
 Humboldt,1CS-1_A,Secretary of State,,DEM,Derek Cressman,26
 Humboldt,1CS-1_A,Secretary of State,,DEM,Jeffrey Drobman,3
@@ -10718,7 +10711,6 @@ Humboldt,5TU-4,Secretary of State,,GRN,David Curtis,22
 Humboldt,5TU-4,Secretary of State,,IND,Dan Schnur,8
 Humboldt,5TU-4,Secretary of State,,REP,Pete Peterson,10
 Humboldt,5TU-4,Secretary of State,,REP,Roy Allmond,1
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,State Assembly,2,DEM,Jim Wood,113
 Humboldt,1CS-1_A,State Assembly,2,DEM,John Lowry,56
 Humboldt,1CS-1_A,State Assembly,2,GRN,Pamela Elizondo,17
@@ -11543,7 +11535,6 @@ Humboldt,5TU-4,State Assembly,2,DEM,Jim Wood,90
 Humboldt,5TU-4,State Assembly,2,DEM,John Lowry,16
 Humboldt,5TU-4,State Assembly,2,GRN,Pamela Elizondo,25
 Humboldt,5TU-4,State Assembly,2,REP,Matt Heath,14
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,State Senate,2,DEM,Derek Knell,15
 Humboldt,1CS-1_A,State Senate,2,DEM,Mike McGuire,180
 Humboldt,1CS-1_A,State Senate,2,IND,Harry Lehmann,11
@@ -12368,7 +12359,6 @@ Humboldt,5TU-4,State Senate,2,DEM,Derek Knell,10
 Humboldt,5TU-4,State Senate,2,DEM,Mike McGuire,119
 Humboldt,5TU-4,State Senate,2,IND,Harry Lehmann,3
 Humboldt,5TU-4,State Senate,2,REP,Lawrence Wiesner,14
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,85
 Humboldt,1CS-1_A,Superintendent of Public Instruction,,NOP,Marshall Tuck,79
 Humboldt,1CS-1_A,Superintendent of Public Instruction,,NOP,Tom Torlakson,186
@@ -12987,7 +12977,6 @@ Humboldt,5TU-4_A,Superintendent of Public Instruction,,NOP,Tom Torlakson,56
 Humboldt,5TU-4,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,34
 Humboldt,5TU-4,Superintendent of Public Instruction,,NOP,Marshall Tuck,16
 Humboldt,5TU-4,Superintendent of Public Instruction,,NOP,Tom Torlakson,82
-county,precinct,office,district,party,candidate,votes
 Humboldt,1CS-1_A,Treasurer,,DEM,John Chiang,184
 Humboldt,1CS-1_A,Treasurer,,GRN,Ellen Brown,25
 Humboldt,1CS-1_A,Treasurer,,REP,Greg Conlon,159

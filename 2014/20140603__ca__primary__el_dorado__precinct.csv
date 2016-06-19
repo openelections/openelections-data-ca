@@ -664,7 +664,6 @@ El Dorado,50002105,Attorney General,,REP,David King,50
 El Dorado,50002105,Attorney General,,REP,John Haggerty,80
 El Dorado,50002105,Attorney General,,REP,Phil Wyman,97
 El Dorado,50002105,Attorney General,,REP,Ronald Gold,92
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Board of Equalization,1,DEM,Chris Parker,73
 El Dorado,95U20101,Board of Equalization,1,REP,George Runner,154
 El Dorado,95U20201,Board of Equalization,1,DEM,Chris Parker,143
@@ -855,7 +854,6 @@ El Dorado,50002005,Board of Equalization,1,DEM,Chris Parker,214
 El Dorado,50002005,Board of Equalization,1,REP,George Runner,308
 El Dorado,50002105,Board of Equalization,1,DEM,Chris Parker,179
 El Dorado,50002105,Board of Equalization,1,REP,George Runner,364
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Controller,,DEM,Betty Yee,29
 El Dorado,95U20101,Controller,,DEM,John Perez,18
 El Dorado,95U20101,Controller,,DEM,Tammy Blair,15
@@ -1426,7 +1424,6 @@ El Dorado,50002105,Controller,,DEM,Tammy Blair,33
 El Dorado,50002105,Controller,,GRN,Laura Wells,25
 El Dorado,50002105,Controller,,REP,Ashley Swearengin,190
 El Dorado,50002105,Controller,,REP,David Evans,164
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U20101,Governor,,DEM,Edmund G. Brown,92
 El Dorado,95U20101,Governor,,GRN,Luis Rodriguez,1
@@ -2852,7 +2849,6 @@ El Dorado,50002105,Governor,,REP,Glenn Champ,16
 El Dorado,50002105,Governor,,REP,Neel Kashkari,214
 El Dorado,50002105,Governor,,REP,Richard Aguirre,0
 El Dorado,50002105,Governor,,REP,Tim Donnelly,88
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,U.S. House,4,IND,Jeffrey Gerlach,35
 El Dorado,95U20101,U.S. House,4,REP,Arthur Moore,43
 El Dorado,95U20101,U.S. House,4,REP,Tom McClintock,152
@@ -3138,7 +3134,6 @@ El Dorado,50002005,U.S. House,4,REP,Tom McClintock,282
 El Dorado,50002105,U.S. House,4,IND,Jeffrey Gerlach,127
 El Dorado,50002105,U.S. House,4,REP,Arthur Moore,112
 El Dorado,50002105,U.S. House,4,REP,Tom McClintock,317
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Insurance Commissioner,,DEM,Dave Jones,80
 El Dorado,95U20101,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 El Dorado,95U20101,Insurance Commissioner,,REP,Ted Gaines,149
@@ -3424,7 +3419,6 @@ El Dorado,50002005,Insurance Commissioner,,REP,Ted Gaines,276
 El Dorado,50002105,Insurance Commissioner,,DEM,Dave Jones,202
 El Dorado,50002105,Insurance Commissioner,,PAF,Nathalie Hrizi,33
 El Dorado,50002105,Insurance Commissioner,,REP,Ted Gaines,335
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Lieutenant Governor,,AME,Alan Reynolds,8
 El Dorado,95U20101,Lieutenant Governor,,DEM,Eric Korevaar,5
 El Dorado,95U20101,Lieutenant Governor,,DEM,Gavin Newsom,85
@@ -4185,7 +4179,6 @@ El Dorado,50002105,Lieutenant Governor,,PAF,Amos Johnson,3
 El Dorado,50002105,Lieutenant Governor,,REP,David Fennell,42
 El Dorado,50002105,Lieutenant Governor,,REP,George Yang,40
 El Dorado,50002105,Lieutenant Governor,,REP,Ron Nehring,216
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Secretary of State,,DEM,Alex Padilla,40
 El Dorado,95U20101,Secretary of State,,DEM,Derek Cressman,14
 El Dorado,95U20101,Secretary of State,,DEM,Jeffrey Drobman,11
@@ -4946,7 +4939,6 @@ El Dorado,50002105,Secretary of State,,GRN,David Curtis,19
 El Dorado,50002105,Secretary of State,,IND,Dan Schnur,75
 El Dorado,50002105,Secretary of State,,REP,Pete Peterson,202
 El Dorado,50002105,Secretary of State,,REP,Roy Allmond,66
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,State Assembly,5,REP,Frank Bigelow,170
 El Dorado,95U20201,State Assembly,5,REP,Frank Bigelow,292
 El Dorado,95U20301,State Assembly,5,REP,Frank Bigelow,0
@@ -5068,7 +5060,6 @@ El Dorado,50001208,State Assembly,5,REP,Frank Bigelow,289
 El Dorado,50001508,State Assembly,5,REP,Frank Bigelow,210
 El Dorado,50002005,State Assembly,5,REP,Frank Bigelow,400
 El Dorado,50002105,State Assembly,5,REP,Frank Bigelow,430
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,44
 El Dorado,95U20101,Superintendent of Public Instruction,,NOP,Marshall Tuck,77
 El Dorado,95U20101,Superintendent of Public Instruction,,NOP,Tom Torlakson,92
@@ -5354,7 +5345,6 @@ El Dorado,50002005,Superintendent of Public Instruction,,NOP,Tom Torlakson,213
 El Dorado,50002105,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,114
 El Dorado,50002105,Superintendent of Public Instruction,,NOP,Marshall Tuck,176
 El Dorado,50002105,Superintendent of Public Instruction,,NOP,Tom Torlakson,215
-county,precinct,office,district,party,candidate,votes
 El Dorado,95U20101,Treasurer,,DEM,John Chiang,95
 El Dorado,95U20101,Treasurer,,GRN,Ellen Brown,13
 El Dorado,95U20101,Treasurer,,REP,Greg Conlon,128

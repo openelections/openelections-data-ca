@@ -1742,7 +1742,6 @@ Mendocino,999558,Attorney General,,REP,David King,3
 Mendocino,999558,Attorney General,,REP,John Haggerty,3
 Mendocino,999558,Attorney General,,REP,Phil Wyman,11
 Mendocino,999558,Attorney General,,REP,Ronald Gold,12
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Board of Equalization,2,DEM,Fiona Ma,69
 Mendocino,100001,Board of Equalization,2,REP,James Theis,39
 Mendocino,100002,Board of Equalization,2,DEM,Fiona Ma,109
@@ -2241,7 +2240,6 @@ Mendocino,999557,Board of Equalization,2,DEM,Fiona Ma,11
 Mendocino,999557,Board of Equalization,2,REP,James Theis,6
 Mendocino,999558,Board of Equalization,2,DEM,Fiona Ma,36
 Mendocino,999558,Board of Equalization,2,REP,James Theis,30
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Controller,,DEM,Betty Yee,40
 Mendocino,100001,Controller,,DEM,John Perez,25
 Mendocino,100001,Controller,,DEM,Tammy Blair,2
@@ -3736,7 +3734,6 @@ Mendocino,999558,Controller,,DEM,Tammy Blair,2
 Mendocino,999558,Controller,,GRN,Laura Wells,11
 Mendocino,999558,Controller,,REP,Ashley Swearengin,8
 Mendocino,999558,Controller,,REP,David Evans,21
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Governor,,DEM,Akinyemi Agbede,0
 Mendocino,100001,Governor,,DEM,Edmund G. Brown,88
 Mendocino,100001,Governor,,GRN,Luis Rodriguez,2
@@ -7472,7 +7469,6 @@ Mendocino,999558,Governor,,REP,Glenn Champ,3
 Mendocino,999558,Governor,,REP,Neel Kashkari,7
 Mendocino,999558,Governor,,REP,Richard Aguirre,0
 Mendocino,999558,Governor,,REP,Tim Donnelly,2
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,U.S. House,2,DEM,Andy Caffrey,9
 Mendocino,100001,U.S. House,2,DEM,Jared Huffman,80
 Mendocino,100001,U.S. House,2,REP,Dale Mensing,21
@@ -8220,7 +8216,6 @@ Mendocino,999557,U.S. House,2,REP,Dale Mensing,4
 Mendocino,999558,U.S. House,2,DEM,Andy Caffrey,6
 Mendocino,999558,U.S. House,2,DEM,Jared Huffman,36
 Mendocino,999558,U.S. House,2,REP,Dale Mensing,28
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Insurance Commissioner,,DEM,Dave Jones,71
 Mendocino,100001,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Mendocino,100001,Insurance Commissioner,,REP,Ted Gaines,28
@@ -8968,7 +8963,6 @@ Mendocino,999557,Insurance Commissioner,,REP,Ted Gaines,4
 Mendocino,999558,Insurance Commissioner,,DEM,Dave Jones,36
 Mendocino,999558,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Mendocino,999558,Insurance Commissioner,,REP,Ted Gaines,25
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Lieutenant Governor,,AME,Alan Reynolds,6
 Mendocino,100001,Lieutenant Governor,,DEM,Eric Korevaar,11
 Mendocino,100001,Lieutenant Governor,,DEM,Gavin Newsom,74
@@ -10961,7 +10955,6 @@ Mendocino,999558,Lieutenant Governor,,PAF,Amos Johnson,3
 Mendocino,999558,Lieutenant Governor,,REP,David Fennell,14
 Mendocino,999558,Lieutenant Governor,,REP,George Yang,4
 Mendocino,999558,Lieutenant Governor,,REP,Ron Nehring,9
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Secretary of State,,DEM,Alex Padilla,30
 Mendocino,100001,Secretary of State,,DEM,Derek Cressman,25
 Mendocino,100001,Secretary of State,,DEM,Jeffrey Drobman,4
@@ -12954,7 +12947,6 @@ Mendocino,999558,Secretary of State,,GRN,David Curtis,4
 Mendocino,999558,Secretary of State,,IND,Dan Schnur,2
 Mendocino,999558,Secretary of State,,REP,Pete Peterson,22
 Mendocino,999558,Secretary of State,,REP,Roy Allmond,6
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,State Assembly,2,DEM,Jim Wood,50
 Mendocino,100001,State Assembly,2,DEM,John Lowry,15
 Mendocino,100001,State Assembly,2,GRN,Pamela Elizondo,14
@@ -13951,7 +13943,6 @@ Mendocino,999558,State Assembly,2,DEM,Jim Wood,21
 Mendocino,999558,State Assembly,2,DEM,John Lowry,14
 Mendocino,999558,State Assembly,2,GRN,Pamela Elizondo,6
 Mendocino,999558,State Assembly,2,REP,Matt Heath,26
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,State Senate,2,DEM,Derek Knell,2
 Mendocino,100001,State Senate,2,DEM,Mike McGuire,72
 Mendocino,100001,State Senate,2,IND,Harry Lehmann,4
@@ -14948,7 +14939,6 @@ Mendocino,999558,State Senate,2,DEM,Derek Knell,4
 Mendocino,999558,State Senate,2,DEM,Mike McGuire,35
 Mendocino,999558,State Senate,2,IND,Harry Lehmann,3
 Mendocino,999558,State Senate,2,REP,Lawrence Wiesner,26
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,26
 Mendocino,100001,Superintendent of Public Instruction,,NOP,Marshall Tuck,19
 Mendocino,100001,Superintendent of Public Instruction,,NOP,Tom Torlakson,60
@@ -15696,7 +15686,6 @@ Mendocino,999557,Superintendent of Public Instruction,,NOP,Tom Torlakson,10
 Mendocino,999558,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,12
 Mendocino,999558,Superintendent of Public Instruction,,NOP,Marshall Tuck,14
 Mendocino,999558,Superintendent of Public Instruction,,NOP,Tom Torlakson,36
-county,precinct,office,district,party,candidate,votes
 Mendocino,100001,Treasurer,,DEM,John Chiang,73
 Mendocino,100001,Treasurer,,GRN,Ellen Brown,9
 Mendocino,100001,Treasurer,,REP,Greg Conlon,31

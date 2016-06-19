@@ -153,7 +153,6 @@ Sierra,022,Attorney General,,REP,David King,8
 Sierra,022,Attorney General,,REP,John Haggerty,21
 Sierra,022,Attorney General,,REP,Phil Wyman,25
 Sierra,022,Attorney General,,REP,Ronald Gold,5
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Board of Equalization,1,DEM,Chris Parker,32
 Sierra,001,Board of Equalization,1,REP,George Runner,70
 Sierra,002,Board of Equalization,1,DEM,Chris Parker,20
@@ -198,7 +197,6 @@ Sierra,021,Board of Equalization,1,DEM,Chris Parker,24
 Sierra,021,Board of Equalization,1,REP,George Runner,61
 Sierra,022,Board of Equalization,1,DEM,Chris Parker,25
 Sierra,022,Board of Equalization,1,REP,George Runner,64
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Controller,,DEM,Betty Yee,10
 Sierra,001,Controller,,DEM,John Perez,12
 Sierra,001,Controller,,DEM,Tammy Blair,7
@@ -331,7 +329,6 @@ Sierra,022,Controller,,DEM,Tammy Blair,6
 Sierra,022,Controller,,GRN,Laura Wells,3
 Sierra,022,Controller,,REP,Ashley Swearengin,18
 Sierra,022,Controller,,REP,David Evans,44
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Governor,,DEM,Akinyemi Agbede,2
 Sierra,001,Governor,,DEM,Edmund G. Brown,45
 Sierra,001,Governor,,GRN,Luis Rodriguez,0
@@ -662,7 +659,6 @@ Sierra,022,Governor,,REP,Glenn Champ,4
 Sierra,022,Governor,,REP,Neel Kashkari,16
 Sierra,022,Governor,,REP,Richard Aguirre,1
 Sierra,022,Governor,,REP,Tim Donnelly,24
-county,precinct,office,district,party,candidate,votes
 Sierra,001,U.S. House,1,DEM,Dan Levine,3
 Sierra,001,U.S. House,1,DEM,Heidi Hall,32
 Sierra,001,U.S. House,1,REP,Doug La Malfa,69
@@ -751,7 +747,6 @@ Sierra,022,U.S. House,1,DEM,Dan Levine,8
 Sierra,022,U.S. House,1,DEM,Heidi Hall,24
 Sierra,022,U.S. House,1,REP,Doug La Malfa,53
 Sierra,022,U.S. House,1,REP,Gregory Cheadle,10
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Insurance Commissioner,,DEM,Dave Jones,32
 Sierra,001,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Sierra,001,Insurance Commissioner,,REP,Ted Gaines,68
@@ -818,7 +813,6 @@ Sierra,021,Insurance Commissioner,,REP,Ted Gaines,61
 Sierra,022,Insurance Commissioner,,DEM,Dave Jones,34
 Sierra,022,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Sierra,022,Insurance Commissioner,,REP,Ted Gaines,59
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Lieutenant Governor,,AME,Alan Reynolds,5
 Sierra,001,Lieutenant Governor,,DEM,Eric Korevaar,7
 Sierra,001,Lieutenant Governor,,DEM,Gavin Newsom,36
@@ -995,7 +989,6 @@ Sierra,022,Lieutenant Governor,,PAF,Amos Johnson,0
 Sierra,022,Lieutenant Governor,,REP,David Fennell,14
 Sierra,022,Lieutenant Governor,,REP,George Yang,13
 Sierra,022,Lieutenant Governor,,REP,Ron Nehring,25
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Secretary of State,,DEM,Alex Padilla,13
 Sierra,001,Secretary of State,,DEM,Derek Cressman,2
 Sierra,001,Secretary of State,,DEM,Jeffrey Drobman,3
@@ -1172,7 +1165,6 @@ Sierra,022,Secretary of State,,GRN,David Curtis,4
 Sierra,022,Secretary of State,,IND,Dan Schnur,5
 Sierra,022,Secretary of State,,REP,Pete Peterson,41
 Sierra,022,Secretary of State,,REP,Roy Allmond,12
-county,precinct,office,district,party,candidate,votes
 Sierra,001,State Assembly,1,DEM,Brigham Smith,22
 Sierra,001,State Assembly,1,REP,Brian Dahle,84
 Sierra,002,State Assembly,1,DEM,Brigham Smith,13
@@ -1217,7 +1209,6 @@ Sierra,021,State Assembly,1,DEM,Brigham Smith,22
 Sierra,021,State Assembly,1,REP,Brian Dahle,65
 Sierra,022,State Assembly,1,DEM,Brigham Smith,20
 Sierra,022,State Assembly,1,REP,Brian Dahle,73
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,28
 Sierra,001,Superintendent of Public Instruction,,NOP,Marshall Tuck,22
 Sierra,001,Superintendent of Public Instruction,,NOP,Tom Torlakson,45
@@ -1284,7 +1275,6 @@ Sierra,021,Superintendent of Public Instruction,,NOP,Tom Torlakson,24
 Sierra,022,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,18
 Sierra,022,Superintendent of Public Instruction,,NOP,Marshall Tuck,19
 Sierra,022,Superintendent of Public Instruction,,NOP,Tom Torlakson,46
-county,precinct,office,district,party,candidate,votes
 Sierra,001,Treasurer,,DEM,John Chiang,39
 Sierra,001,Treasurer,,GRN,Ellen Brown,11
 Sierra,001,Treasurer,,REP,Greg Conlon,52

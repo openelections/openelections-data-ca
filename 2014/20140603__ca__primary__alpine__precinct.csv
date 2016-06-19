@@ -34,7 +34,6 @@ Alpine,5,Attorney General,,REP,David King,6
 Alpine,5,Attorney General,,REP,John Haggerty,9
 Alpine,5,Attorney General,,REP,Phil Wyman,12
 Alpine,5,Attorney General,,REP,Ronald Gold,16
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Board of Equalization,1,DEM,Chris Parker,62
 Alpine,1,Board of Equalization,1,REP,George Runner,48
 Alpine,2,Board of Equalization,1,DEM,Chris Parker,57
@@ -45,7 +44,6 @@ Alpine,4,Board of Equalization,1,DEM,Chris Parker,43
 Alpine,4,Board of Equalization,1,REP,George Runner,41
 Alpine,5,Board of Equalization,1,DEM,Chris Parker,38
 Alpine,5,Board of Equalization,1,REP,George Runner,66
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Controller,,DEM,Betty Yee,28
 Alpine,1,Controller,,DEM,John Perez,16
 Alpine,1,Controller,,DEM,Tammy Blair,6
@@ -76,7 +74,6 @@ Alpine,5,Controller,,DEM,Tammy Blair,6
 Alpine,5,Controller,,GRN,Laura Wells,13
 Alpine,5,Controller,,REP,Ashley Swearengin,13
 Alpine,5,Controller,,REP,David Evans,47
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Governor,,DEM,Akinyemi Agbede,3
 Alpine,1,Governor,,DEM,Edmund G. Brown,63
 Alpine,1,Governor,,GRN,Luis Rodriguez,5
@@ -152,7 +149,6 @@ Alpine,5,Governor,,REP,Glenn Champ,5
 Alpine,5,Governor,,REP,Neel Kashkari,15
 Alpine,5,Governor,,REP,Richard Aguirre,0
 Alpine,5,Governor,,REP,Tim Donnelly,25
-county,precinct,office,district,party,candidate,votes
 Alpine,1,U.S. House,4,IND,Jeffrey Gerlach,39
 Alpine,1,U.S. House,4,REP,Arthur Moore,12
 Alpine,1,U.S. House,4,REP,Tom McClintock,48
@@ -168,7 +164,6 @@ Alpine,4,U.S. House,4,REP,Tom McClintock,51
 Alpine,5,U.S. House,4,IND,Jeffrey Gerlach,32
 Alpine,5,U.S. House,4,REP,Arthur Moore,12
 Alpine,5,U.S. House,4,REP,Tom McClintock,64
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Insurance Commissioner,,DEM,Dave Jones,52
 Alpine,1,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Alpine,1,Insurance Commissioner,,REP,Ted Gaines,49
@@ -184,7 +179,6 @@ Alpine,4,Insurance Commissioner,,REP,Ted Gaines,39
 Alpine,5,Insurance Commissioner,,DEM,Dave Jones,32
 Alpine,5,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Alpine,5,Insurance Commissioner,,REP,Ted Gaines,61
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Lieutenant Governor,,AME,Alan Reynolds,0
 Alpine,1,Lieutenant Governor,,DEM,Eric Korevaar,2
 Alpine,1,Lieutenant Governor,,DEM,Gavin Newsom,58
@@ -225,7 +219,6 @@ Alpine,5,Lieutenant Governor,,PAF,Amos Johnson,3
 Alpine,5,Lieutenant Governor,,REP,David Fennell,10
 Alpine,5,Lieutenant Governor,,REP,George Yang,8
 Alpine,5,Lieutenant Governor,,REP,Ron Nehring,29
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Secretary of State,,DEM,Alex Padilla,27
 Alpine,1,Secretary of State,,DEM,Derek Cressman,7
 Alpine,1,Secretary of State,,DEM,Jeffrey Drobman,4
@@ -266,13 +259,11 @@ Alpine,5,Secretary of State,,GRN,David Curtis,4
 Alpine,5,Secretary of State,,IND,Dan Schnur,3
 Alpine,5,Secretary of State,,REP,Pete Peterson,36
 Alpine,5,Secretary of State,,REP,Roy Allmond,11
-county,precinct,office,district,party,candidate,votes
 Alpine,1,State Assembly,5,REP,Frank Bigelow,63
 Alpine,2,State Assembly,5,REP,Frank Bigelow,55
 Alpine,3,State Assembly,5,REP,Frank Bigelow,41
 Alpine,4,State Assembly,5,REP,Frank Bigelow,63
 Alpine,5,State Assembly,5,REP,Frank Bigelow,79
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,25
 Alpine,1,Superintendent of Public Instruction,,NOP,Marshall Tuck,14
 Alpine,1,Superintendent of Public Instruction,,NOP,Tom Torlakson,51
@@ -288,7 +279,6 @@ Alpine,4,Superintendent of Public Instruction,,NOP,Tom Torlakson,49
 Alpine,5,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,21
 Alpine,5,Superintendent of Public Instruction,,NOP,Marshall Tuck,16
 Alpine,5,Superintendent of Public Instruction,,NOP,Tom Torlakson,48
-county,precinct,office,district,party,candidate,votes
 Alpine,1,Treasurer,,DEM,John Chiang,55
 Alpine,1,Treasurer,,GRN,Ellen Brown,12
 Alpine,1,Treasurer,,REP,Greg Conlon,42

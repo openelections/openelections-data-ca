@@ -314,7 +314,6 @@ Yuba,5014,Attorney General,,REP,David King,10
 Yuba,5014,Attorney General,,REP,John Haggerty,19
 Yuba,5014,Attorney General,,REP,Phil Wyman,8
 Yuba,5014,Attorney General,,REP,Ronald Gold,18
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Controller,,DEM,Betty Yee,30
 Yuba,1001,Controller,,DEM,John Perez,36
 Yuba,1001,Controller,,DEM,Tammy Blair,20
@@ -585,7 +584,6 @@ Yuba,5014,Controller,,DEM,Tammy Blair,10
 Yuba,5014,Controller,,GRN,Laura Wells,26
 Yuba,5014,Controller,,REP,Ashley Swearengin,21
 Yuba,5014,Controller,,REP,David Evans,31
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Governor,,DEM,Akinyemi Agbede,1
 Yuba,1001,Governor,,DEM,Edmund G. Brown,90
 Yuba,1001,Governor,,GRN,Luis Rodriguez,3
@@ -1261,7 +1259,6 @@ Yuba,5014,Governor,,REP,Glenn Champ,4
 Yuba,5014,Governor,,REP,Neel Kashkari,22
 Yuba,5014,Governor,,REP,Richard Aguirre,0
 Yuba,5014,Governor,,REP,Tim Donnelly,21
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,U.S. House,3,DEM,John Garamendi,73
 Yuba,1001,U.S. House,3,REP,Dan Logue,103
 Yuba,1002,U.S. House,3,DEM,John Garamendi,82
@@ -1352,7 +1349,6 @@ Yuba,5013,U.S. House,3,DEM,John Garamendi,25
 Yuba,5013,U.S. House,3,REP,Dan Logue,44
 Yuba,5014,U.S. House,3,DEM,John Garamendi,81
 Yuba,5014,U.S. House,3,REP,Dan Logue,66
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Insurance Commissioner,,DEM,Dave Jones,82
 Yuba,1001,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Yuba,1001,Insurance Commissioner,,REP,Ted Gaines,79
@@ -1488,7 +1484,6 @@ Yuba,5013,Insurance Commissioner,,REP,Ted Gaines,44
 Yuba,5014,Insurance Commissioner,,DEM,Dave Jones,62
 Yuba,5014,Insurance Commissioner,,PAF,Nathalie Hrizi,23
 Yuba,5014,Insurance Commissioner,,REP,Ted Gaines,56
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Lieutenant Governor,,AME,Alan Reynolds,3
 Yuba,1001,Lieutenant Governor,,DEM,Eric Korevaar,38
 Yuba,1001,Lieutenant Governor,,DEM,Gavin Newsom,43
@@ -1849,7 +1844,6 @@ Yuba,5014,Lieutenant Governor,,PAF,Amos Johnson,7
 Yuba,5014,Lieutenant Governor,,REP,David Fennell,22
 Yuba,5014,Lieutenant Governor,,REP,George Yang,8
 Yuba,5014,Lieutenant Governor,,REP,Ron Nehring,27
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Secretary of State,,DEM,Alex Padilla,41
 Yuba,1001,Secretary of State,,DEM,Derek Cressman,22
 Yuba,1001,Secretary of State,,DEM,Jeffrey Drobman,10
@@ -2210,7 +2204,6 @@ Yuba,5014,Secretary of State,,GRN,David Curtis,18
 Yuba,5014,Secretary of State,,IND,Dan Schnur,4
 Yuba,5014,Secretary of State,,REP,Pete Peterson,45
 Yuba,5014,Secretary of State,,REP,Roy Allmond,10
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,62
 Yuba,1001,Superintendent of Public Instruction,,NOP,Marshall Tuck,39
 Yuba,1001,Superintendent of Public Instruction,,NOP,Tom Torlakson,67
@@ -2346,7 +2339,6 @@ Yuba,5013,Superintendent of Public Instruction,,NOP,Tom Torlakson,20
 Yuba,5014,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,40
 Yuba,5014,Superintendent of Public Instruction,,NOP,Marshall Tuck,33
 Yuba,5014,Superintendent of Public Instruction,,NOP,Tom Torlakson,53
-county,precinct,office,district,party,candidate,votes
 Yuba,1001,Treasurer,,DEM,John Chiang,87
 Yuba,1001,Treasurer,,GRN,Ellen Brown,18
 Yuba,1001,Treasurer,,REP,Greg Conlon,69

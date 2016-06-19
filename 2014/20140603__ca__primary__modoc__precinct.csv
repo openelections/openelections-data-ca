@@ -146,7 +146,6 @@ Modoc,500,Attorney General,,REP,David King,12
 Modoc,500,Attorney General,,REP,John Haggerty,18
 Modoc,500,Attorney General,,REP,Phil Wyman,54
 Modoc,500,Attorney General,,REP,Ronald Gold,19
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Board of Equalization,1,DEM,Chris Parker,13
 Modoc,020,Board of Equalization,1,REP,George Runner,28
 Modoc,040,Board of Equalization,1,DEM,Chris Parker,22
@@ -189,7 +188,6 @@ Modoc,480,Board of Equalization,1,DEM,Chris Parker,11
 Modoc,480,Board of Equalization,1,REP,George Runner,29
 Modoc,500,Board of Equalization,1,DEM,Chris Parker,17
 Modoc,500,Board of Equalization,1,REP,George Runner,114
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Controller,,DEM,Betty Yee,4
 Modoc,020,Controller,,DEM,John Perez,2
 Modoc,020,Controller,,DEM,Tammy Blair,4
@@ -316,7 +314,6 @@ Modoc,500,Controller,,DEM,Tammy Blair,7
 Modoc,500,Controller,,GRN,Laura Wells,9
 Modoc,500,Controller,,REP,Ashley Swearengin,26
 Modoc,500,Controller,,REP,David Evans,69
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Governor,,DEM,Akinyemi Agbede,0
 Modoc,020,Governor,,DEM,Edmund G. Brown,11
 Modoc,020,Governor,,GRN,Luis Rodriguez,2
@@ -632,7 +629,6 @@ Modoc,500,Governor,,REP,Glenn Champ,6
 Modoc,500,Governor,,REP,Neel Kashkari,35
 Modoc,500,Governor,,REP,Richard Aguirre,2
 Modoc,500,Governor,,REP,Tim Donnelly,57
-county,precinct,office,district,party,candidate,votes
 Modoc,020,U.S. House,1,DEM,Dan Levine,1
 Modoc,020,U.S. House,1,DEM,Heidi Hall,11
 Modoc,020,U.S. House,1,REP,Doug La Malfa,30
@@ -717,7 +713,6 @@ Modoc,500,U.S. House,1,DEM,Dan Levine,1
 Modoc,500,U.S. House,1,DEM,Heidi Hall,19
 Modoc,500,U.S. House,1,REP,Doug La Malfa,106
 Modoc,500,U.S. House,1,REP,Gregory Cheadle,8
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Insurance Commissioner,,DEM,Dave Jones,13
 Modoc,020,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Modoc,020,Insurance Commissioner,,REP,Ted Gaines,30
@@ -781,7 +776,6 @@ Modoc,480,Insurance Commissioner,,REP,Ted Gaines,25
 Modoc,500,Insurance Commissioner,,DEM,Dave Jones,23
 Modoc,500,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Modoc,500,Insurance Commissioner,,REP,Ted Gaines,102
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Lieutenant Governor,,AME,Alan Reynolds,0
 Modoc,020,Lieutenant Governor,,DEM,Eric Korevaar,2
 Modoc,020,Lieutenant Governor,,DEM,Gavin Newsom,10
@@ -950,7 +944,6 @@ Modoc,500,Lieutenant Governor,,PAF,Amos Johnson,2
 Modoc,500,Lieutenant Governor,,REP,David Fennell,24
 Modoc,500,Lieutenant Governor,,REP,George Yang,24
 Modoc,500,Lieutenant Governor,,REP,Ron Nehring,52
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Secretary of State,,DEM,Alex Padilla,5
 Modoc,020,Secretary of State,,DEM,Derek Cressman,2
 Modoc,020,Secretary of State,,DEM,Jeffrey Drobman,1
@@ -1119,7 +1112,6 @@ Modoc,500,Secretary of State,,GRN,David Curtis,3
 Modoc,500,Secretary of State,,IND,Dan Schnur,10
 Modoc,500,Secretary of State,,REP,Pete Peterson,76
 Modoc,500,Secretary of State,,REP,Roy Allmond,18
-county,precinct,office,district,party,candidate,votes
 Modoc,020,State Assembly,1,DEM,Brigham Smith,13
 Modoc,020,State Assembly,1,REP,Brian Dahle,33
 Modoc,040,State Assembly,1,DEM,Brigham Smith,14
@@ -1162,7 +1154,6 @@ Modoc,480,State Assembly,1,DEM,Brigham Smith,7
 Modoc,480,State Assembly,1,REP,Brian Dahle,34
 Modoc,500,State Assembly,1,DEM,Brigham Smith,13
 Modoc,500,State Assembly,1,REP,Brian Dahle,118
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,11
 Modoc,020,Superintendent of Public Instruction,,NOP,Marshall Tuck,10
 Modoc,020,Superintendent of Public Instruction,,NOP,Tom Torlakson,12
@@ -1226,7 +1217,6 @@ Modoc,480,Superintendent of Public Instruction,,NOP,Tom Torlakson,16
 Modoc,500,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,30
 Modoc,500,Superintendent of Public Instruction,,NOP,Marshall Tuck,32
 Modoc,500,Superintendent of Public Instruction,,NOP,Tom Torlakson,51
-county,precinct,office,district,party,candidate,votes
 Modoc,020,Treasurer,,DEM,John Chiang,6
 Modoc,020,Treasurer,,GRN,Ellen Brown,6
 Modoc,020,Treasurer,,REP,Greg Conlon,29

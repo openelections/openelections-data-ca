@@ -7832,7 +7832,6 @@ Alameda,9880500,Attorney General,,REP,David King,0
 Alameda,9880500,Attorney General,,REP,John Haggerty,0
 Alameda,9880500,Attorney General,,REP,Phil Wyman,0
 Alameda,9880500,Attorney General,,REP,Ronald Gold,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Board of Equalization,2,DEM,Fiona Ma,216
 Alameda,200100,Board of Equalization,2,REP,James Theis,24
 Alameda,200200,Board of Equalization,2,DEM,Fiona Ma,213
@@ -10071,7 +10070,6 @@ Alameda,9880400,Board of Equalization,2,DEM,Fiona Ma,0
 Alameda,9880400,Board of Equalization,2,REP,James Theis,0
 Alameda,9880500,Board of Equalization,2,DEM,Fiona Ma,0
 Alameda,9880500,Board of Equalization,2,REP,James Theis,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Controller,,DEM,Betty Yee,92
 Alameda,200100,Controller,,DEM,John Perez,82
 Alameda,200100,Controller,,DEM,Tammy Blair,6
@@ -16786,7 +16784,6 @@ Alameda,9880500,Controller,,DEM,Tammy Blair,0
 Alameda,9880500,Controller,,GRN,Laura Wells,0
 Alameda,9880500,Controller,,REP,Ashley Swearengin,0
 Alameda,9880500,Controller,,REP,David Evans,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Governor,,DEM,Akinyemi Agbede,0
 Alameda,200100,Governor,,DEM,Edmund G. Brown,251
 Alameda,200100,Governor,,GRN,Luis Rodriguez,8
@@ -33572,7 +33569,6 @@ Alameda,9880500,Governor,,REP,Glenn Champ,0
 Alameda,9880500,Governor,,REP,Neel Kashkari,0
 Alameda,9880500,Governor,,REP,Richard Aguirre,0
 Alameda,9880500,Governor,,REP,Tim Donnelly,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,U.S. House,13,DEM,Barbara Lee,227
 Alameda,200100,U.S. House,13,DEM,Justin Jelincic,13
 Alameda,200100,U.S. House,13,PAF,Lawrence Allen,6
@@ -37533,7 +37529,6 @@ Alameda,9880400,U.S. House,15,REP,Hugh Bussell,0
 Alameda,9880500,U.S. House,15,DEM,Ellen Corbett,0
 Alameda,9880500,U.S. House,15,DEM,Eric Swalwell,0
 Alameda,9880500,U.S. House,15,REP,Hugh Bussell,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Insurance Commissioner,,DEM,Dave Jones,226
 Alameda,200100,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Alameda,200100,Insurance Commissioner,,REP,Ted Gaines,24
@@ -40891,7 +40886,6 @@ Alameda,9880400,Insurance Commissioner,,REP,Ted Gaines,0
 Alameda,9880500,Insurance Commissioner,,DEM,Dave Jones,0
 Alameda,9880500,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Alameda,9880500,Insurance Commissioner,,REP,Ted Gaines,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Lieutenant Governor,,AME,Alan Reynolds,0
 Alameda,200100,Lieutenant Governor,,DEM,Eric Korevaar,17
 Alameda,200100,Lieutenant Governor,,DEM,Gavin Newsom,223
@@ -49844,7 +49838,6 @@ Alameda,9880500,Lieutenant Governor,,PAF,Amos Johnson,0
 Alameda,9880500,Lieutenant Governor,,REP,David Fennell,0
 Alameda,9880500,Lieutenant Governor,,REP,George Yang,0
 Alameda,9880500,Lieutenant Governor,,REP,Ron Nehring,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Secretary of State,,DEM,Alex Padilla,129
 Alameda,200100,Secretary of State,,DEM,Derek Cressman,22
 Alameda,200100,Secretary of State,,DEM,Jeffrey Drobman,7
@@ -58797,7 +58790,6 @@ Alameda,9880500,Secretary of State,,GRN,David Curtis,0
 Alameda,9880500,Secretary of State,,IND,Dan Schnur,0
 Alameda,9880500,Secretary of State,,REP,Pete Peterson,0
 Alameda,9880500,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,State Assembly,15,DEM,Clarence Hunt,20
 Alameda,200100,State Assembly,15,DEM,Elizabeth Echols,121
 Alameda,200100,State Assembly,15,DEM,Pamela Price,29
@@ -63152,7 +63144,6 @@ Alameda,9880400,State Assembly,20,REP,Jaime Patino,0
 Alameda,9880500,State Assembly,20,DEM,Bill Quirk,0
 Alameda,9880500,State Assembly,20,IND,Luis Reynoso,0
 Alameda,9880500,State Assembly,20,REP,Jaime Patino,0
-county,precinct,office,district,party,candidate,votes
 Alameda,420500,State Senate,10,DEM,Bob Wieckowski,47
 Alameda,420500,State Senate,10,DEM,Mary Hayashi,50
 Alameda,420500,State Senate,10,DEM,Roman Reed,33
@@ -65283,7 +65274,6 @@ Alameda,9880500,State Senate,10,DEM,Mary Hayashi,0
 Alameda,9880500,State Senate,10,DEM,Roman Reed,0
 Alameda,9880500,State Senate,10,IND,Audie Bock,0
 Alameda,9880500,State Senate,10,REP,Peter Kuo,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,21
 Alameda,200100,Superintendent of Public Instruction,,NOP,Marshall Tuck,31
 Alameda,200100,Superintendent of Public Instruction,,NOP,Tom Torlakson,189
@@ -68641,7 +68631,6 @@ Alameda,9880400,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
 Alameda,9880500,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,0
 Alameda,9880500,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Alameda,9880500,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-county,precinct,office,district,party,candidate,votes
 Alameda,200100,Treasurer,,DEM,John Chiang,211
 Alameda,200100,Treasurer,,GRN,Ellen Brown,27
 Alameda,200100,Treasurer,,REP,Greg Conlon,21

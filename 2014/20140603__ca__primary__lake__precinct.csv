@@ -489,7 +489,6 @@ Lake,581,Attorney General,,REP,David King,7
 Lake,581,Attorney General,,REP,John Haggerty,31
 Lake,581,Attorney General,,REP,Phil Wyman,19
 Lake,581,Attorney General,,REP,Ronald Gold,15
-county,precinct,office,district,party,candidate,votes
 Lake,111,Board of Equalization,2,DEM,Fiona Ma,143
 Lake,111,Board of Equalization,2,REP,James Theis,85
 Lake,112,Board of Equalization,2,DEM,Fiona Ma,120
@@ -630,7 +629,6 @@ Lake,571,Board of Equalization,2,DEM,Fiona Ma,173
 Lake,571,Board of Equalization,2,REP,James Theis,82
 Lake,581,Board of Equalization,2,DEM,Fiona Ma,260
 Lake,581,Board of Equalization,2,REP,James Theis,88
-county,precinct,office,district,party,candidate,votes
 Lake,111,Controller,,DEM,Betty Yee,48
 Lake,111,Controller,,DEM,John Perez,64
 Lake,111,Controller,,DEM,Tammy Blair,14
@@ -1051,7 +1049,6 @@ Lake,581,Controller,,DEM,Tammy Blair,27
 Lake,581,Controller,,GRN,Laura Wells,42
 Lake,581,Controller,,REP,Ashley Swearengin,27
 Lake,581,Controller,,REP,David Evans,56
-county,precinct,office,district,party,candidate,votes
 Lake,111,Governor,,DEM,Akinyemi Agbede,4
 Lake,111,Governor,,DEM,Edmund G. Brown,147
 Lake,111,Governor,,GRN,Luis Rodriguez,10
@@ -2102,7 +2099,6 @@ Lake,581,Governor,,REP,Glenn Champ,6
 Lake,581,Governor,,REP,Neel Kashkari,8
 Lake,581,Governor,,REP,Richard Aguirre,1
 Lake,581,Governor,,REP,Tim Donnelly,48
-county,precinct,office,district,party,candidate,votes
 Lake,111,U.S. House,5,DEM,Mike Thompson,170
 Lake,111,U.S. House,5,IND,Douglas Van Raam,32
 Lake,111,U.S. House,5,IND,James Hinton,28
@@ -2278,7 +2274,6 @@ Lake,571,U.S. House,5,IND,James Hinton,32
 Lake,581,U.S. House,5,DEM,Mike Thompson,295
 Lake,581,U.S. House,5,IND,Douglas Van Raam,42
 Lake,581,U.S. House,5,IND,James Hinton,25
-county,precinct,office,district,party,candidate,votes
 Lake,111,Insurance Commissioner,,DEM,Dave Jones,135
 Lake,111,Insurance Commissioner,,PAF,Nathalie Hrizi,18
 Lake,111,Insurance Commissioner,,REP,Ted Gaines,79
@@ -2489,7 +2484,6 @@ Lake,571,Insurance Commissioner,,REP,Ted Gaines,81
 Lake,581,Insurance Commissioner,,DEM,Dave Jones,240
 Lake,581,Insurance Commissioner,,PAF,Nathalie Hrizi,39
 Lake,581,Insurance Commissioner,,REP,Ted Gaines,77
-county,precinct,office,district,party,candidate,votes
 Lake,111,Lieutenant Governor,,AME,Alan Reynolds,4
 Lake,111,Lieutenant Governor,,DEM,Eric Korevaar,23
 Lake,111,Lieutenant Governor,,DEM,Gavin Newsom,128
@@ -3050,7 +3044,6 @@ Lake,581,Lieutenant Governor,,PAF,Amos Johnson,9
 Lake,581,Lieutenant Governor,,REP,David Fennell,18
 Lake,581,Lieutenant Governor,,REP,George Yang,11
 Lake,581,Lieutenant Governor,,REP,Ron Nehring,45
-county,precinct,office,district,party,candidate,votes
 Lake,111,Secretary of State,,DEM,Alex Padilla,75
 Lake,111,Secretary of State,,DEM,Derek Cressman,17
 Lake,111,Secretary of State,,DEM,Jeffrey Drobman,5
@@ -3611,7 +3604,6 @@ Lake,581,Secretary of State,,GRN,David Curtis,34
 Lake,581,Secretary of State,,IND,Dan Schnur,12
 Lake,581,Secretary of State,,REP,Pete Peterson,52
 Lake,581,Secretary of State,,REP,Roy Allmond,13
-county,precinct,office,district,party,candidate,votes
 Lake,111,State Assembly,4,DEM,Bill Dodd,65
 Lake,111,State Assembly,4,DEM,Dan Wolk,41
 Lake,111,State Assembly,4,DEM,Joe Krovoza,46
@@ -3962,7 +3954,6 @@ Lake,581,State Assembly,4,DEM,Dan Wolk,78
 Lake,581,State Assembly,4,DEM,Joe Krovoza,116
 Lake,581,State Assembly,4,REP,Charlie Schaupp,63
 Lake,581,State Assembly,4,REP,Dustin Call,20
-county,precinct,office,district,party,candidate,votes
 Lake,111,State Senate,2,DEM,Derek Knell,24
 Lake,111,State Senate,2,DEM,Mike McGuire,111
 Lake,111,State Senate,2,IND,Harry Lehmann,15
@@ -4243,7 +4234,6 @@ Lake,581,State Senate,2,DEM,Derek Knell,37
 Lake,581,State Senate,2,DEM,Mike McGuire,217
 Lake,581,State Senate,2,IND,Harry Lehmann,32
 Lake,581,State Senate,2,REP,Lawrence Wiesner,75
-county,precinct,office,district,party,candidate,votes
 Lake,111,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,62
 Lake,111,Superintendent of Public Instruction,,NOP,Marshall Tuck,60
 Lake,111,Superintendent of Public Instruction,,NOP,Tom Torlakson,110
@@ -4454,7 +4444,6 @@ Lake,571,Superintendent of Public Instruction,,NOP,Tom Torlakson,164
 Lake,581,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,87
 Lake,581,Superintendent of Public Instruction,,NOP,Marshall Tuck,52
 Lake,581,Superintendent of Public Instruction,,NOP,Tom Torlakson,200
-county,precinct,office,district,party,candidate,votes
 Lake,111,Treasurer,,DEM,John Chiang,127
 Lake,111,Treasurer,,GRN,Ellen Brown,28
 Lake,111,Treasurer,,REP,Greg Conlon,83

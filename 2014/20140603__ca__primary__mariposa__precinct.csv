@@ -174,7 +174,6 @@ Mariposa,5005,Attorney General,,REP,David King,10
 Mariposa,5005,Attorney General,,REP,John Haggerty,48
 Mariposa,5005,Attorney General,,REP,Phil Wyman,56
 Mariposa,5005,Attorney General,,REP,Ronald Gold,30
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Board of Equalization,1,DEM,Chris Parker,110
 Mariposa,1001,Board of Equalization,1,REP,George Runner,23
 Mariposa,1002,Board of Equalization,1,DEM,Chris Parker,47
@@ -225,7 +224,6 @@ Mariposa,5004,Board of Equalization,1,DEM,Chris Parker,101
 Mariposa,5004,Board of Equalization,1,REP,George Runner,203
 Mariposa,5005,Board of Equalization,1,DEM,Chris Parker,53
 Mariposa,5005,Board of Equalization,1,REP,George Runner,156
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Controller,,DEM,Betty Yee,42
 Mariposa,1001,Controller,,DEM,John Perez,30
 Mariposa,1001,Controller,,DEM,Tammy Blair,14
@@ -376,7 +374,6 @@ Mariposa,5005,Controller,,DEM,Tammy Blair,3
 Mariposa,5005,Controller,,GRN,Laura Wells,14
 Mariposa,5005,Controller,,REP,Ashley Swearengin,122
 Mariposa,5005,Controller,,REP,David Evans,43
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Governor,,DEM,Akinyemi Agbede,1
 Mariposa,1001,Governor,,DEM,Edmund G. Brown,109
 Mariposa,1001,Governor,,GRN,Luis Rodriguez,2
@@ -752,7 +749,6 @@ Mariposa,5005,Governor,,REP,Glenn Champ,11
 Mariposa,5005,Governor,,REP,Neel Kashkari,52
 Mariposa,5005,Governor,,REP,Richard Aguirre,2
 Mariposa,5005,Governor,,REP,Tim Donnelly,74
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,U.S. House,4,IND,Jeffrey Gerlach,61
 Mariposa,1001,U.S. House,4,REP,Arthur Moore,39
 Mariposa,1001,U.S. House,4,REP,Tom McClintock,21
@@ -828,7 +824,6 @@ Mariposa,5004,U.S. House,4,REP,Tom McClintock,180
 Mariposa,5005,U.S. House,4,IND,Jeffrey Gerlach,37
 Mariposa,5005,U.S. House,4,REP,Arthur Moore,43
 Mariposa,5005,U.S. House,4,REP,Tom McClintock,141
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Insurance Commissioner,,DEM,Dave Jones,101
 Mariposa,1001,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Mariposa,1001,Insurance Commissioner,,REP,Ted Gaines,20
@@ -904,7 +899,6 @@ Mariposa,5004,Insurance Commissioner,,REP,Ted Gaines,181
 Mariposa,5005,Insurance Commissioner,,DEM,Dave Jones,65
 Mariposa,5005,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Mariposa,5005,Insurance Commissioner,,REP,Ted Gaines,138
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Lieutenant Governor,,AME,Alan Reynolds,2
 Mariposa,1001,Lieutenant Governor,,DEM,Eric Korevaar,8
 Mariposa,1001,Lieutenant Governor,,DEM,Gavin Newsom,108
@@ -1105,7 +1099,6 @@ Mariposa,5005,Lieutenant Governor,,PAF,Amos Johnson,3
 Mariposa,5005,Lieutenant Governor,,REP,David Fennell,25
 Mariposa,5005,Lieutenant Governor,,REP,George Yang,29
 Mariposa,5005,Lieutenant Governor,,REP,Ron Nehring,83
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Secretary of State,,DEM,Alex Padilla,46
 Mariposa,1001,Secretary of State,,DEM,Derek Cressman,8
 Mariposa,1001,Secretary of State,,DEM,Jeffrey Drobman,7
@@ -1306,7 +1299,6 @@ Mariposa,5005,Secretary of State,,GRN,David Curtis,9
 Mariposa,5005,Secretary of State,,IND,Dan Schnur,9
 Mariposa,5005,Secretary of State,,REP,Pete Peterson,117
 Mariposa,5005,Secretary of State,,REP,Roy Allmond,23
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,State Assembly,5,REP,Frank Bigelow,44
 Mariposa,1002,State Assembly,5,REP,Frank Bigelow,88
 Mariposa,1003,State Assembly,5,REP,Frank Bigelow,194
@@ -1332,7 +1324,6 @@ Mariposa,5002,State Assembly,5,REP,Frank Bigelow,223
 Mariposa,5003,State Assembly,5,REP,Frank Bigelow,37
 Mariposa,5004,State Assembly,5,REP,Frank Bigelow,238
 Mariposa,5005,State Assembly,5,REP,Frank Bigelow,183
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,State Senate,8,DEM,Paulina Miranda,112
 Mariposa,1001,State Senate,8,REP,Tom Berryhill,20
 Mariposa,1002,State Senate,8,DEM,Paulina Miranda,40
@@ -1383,7 +1374,6 @@ Mariposa,5004,State Senate,8,DEM,Paulina Miranda,102
 Mariposa,5004,State Senate,8,REP,Tom Berryhill,214
 Mariposa,5005,State Senate,8,DEM,Paulina Miranda,49
 Mariposa,5005,State Senate,8,REP,Tom Berryhill,173
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,32
 Mariposa,1001,Superintendent of Public Instruction,,NOP,Marshall Tuck,10
 Mariposa,1001,Superintendent of Public Instruction,,NOP,Tom Torlakson,68
@@ -1459,7 +1449,6 @@ Mariposa,5004,Superintendent of Public Instruction,,NOP,Tom Torlakson,82
 Mariposa,5005,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,44
 Mariposa,5005,Superintendent of Public Instruction,,NOP,Marshall Tuck,47
 Mariposa,5005,Superintendent of Public Instruction,,NOP,Tom Torlakson,94
-county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Treasurer,,DEM,John Chiang,96
 Mariposa,1001,Treasurer,,GRN,Ellen Brown,18
 Mariposa,1001,Treasurer,,REP,Greg Conlon,16

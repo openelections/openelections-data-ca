@@ -125,7 +125,6 @@ Colusa,513,Attorney General,,REP,David King,25
 Colusa,513,Attorney General,,REP,John Haggerty,56
 Colusa,513,Attorney General,,REP,Phil Wyman,54
 Colusa,513,Attorney General,,REP,Ronald Gold,49
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Board of Equalization,2,DEM,Fiona Ma,84
 Colusa,105,Board of Equalization,2,REP,James Theis,237
 Colusa,106,Board of Equalization,2,DEM,Fiona Ma,96
@@ -162,7 +161,6 @@ Colusa,512,Board of Equalization,2,DEM,Fiona Ma,83
 Colusa,512,Board of Equalization,2,REP,James Theis,133
 Colusa,513,Board of Equalization,2,DEM,Fiona Ma,94
 Colusa,513,Board of Equalization,2,REP,James Theis,199
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Controller,,DEM,Betty Yee,26
 Colusa,105,Controller,,DEM,John Perez,46
 Colusa,105,Controller,,DEM,Tammy Blair,7
@@ -271,7 +269,6 @@ Colusa,513,Controller,,DEM,Tammy Blair,23
 Colusa,513,Controller,,GRN,Laura Wells,12
 Colusa,513,Controller,,REP,Ashley Swearengin,89
 Colusa,513,Controller,,REP,David Evans,117
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Governor,,DEM,Akinyemi Agbede,0
 Colusa,105,Governor,,DEM,Edmund G. Brown,92
 Colusa,105,Governor,,GRN,Luis Rodriguez,3
@@ -542,7 +539,6 @@ Colusa,513,Governor,,REP,Glenn Champ,7
 Colusa,513,Governor,,REP,Neel Kashkari,119
 Colusa,513,Governor,,REP,Richard Aguirre,2
 Colusa,513,Governor,,REP,Tim Donnelly,50
-county,precinct,office,district,party,candidate,votes
 Colusa,105,U.S. House,3,DEM,John Garamendi,92
 Colusa,105,U.S. House,3,REP,Dan Logue,250
 Colusa,106,U.S. House,3,DEM,John Garamendi,106
@@ -579,7 +575,6 @@ Colusa,512,U.S. House,3,DEM,John Garamendi,104
 Colusa,512,U.S. House,3,REP,Dan Logue,133
 Colusa,513,U.S. House,3,DEM,John Garamendi,121
 Colusa,513,U.S. House,3,REP,Dan Logue,223
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Insurance Commissioner,,DEM,Dave Jones,89
 Colusa,105,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Colusa,105,Insurance Commissioner,,REP,Ted Gaines,236
@@ -634,7 +629,6 @@ Colusa,512,Insurance Commissioner,,REP,Ted Gaines,120
 Colusa,513,Insurance Commissioner,,DEM,Dave Jones,95
 Colusa,513,Insurance Commissioner,,PAF,Nathalie Hrizi,14
 Colusa,513,Insurance Commissioner,,REP,Ted Gaines,204
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Lieutenant Governor,,AME,Alan Reynolds,7
 Colusa,105,Lieutenant Governor,,DEM,Eric Korevaar,22
 Colusa,105,Lieutenant Governor,,DEM,Gavin Newsom,60
@@ -779,7 +773,6 @@ Colusa,513,Lieutenant Governor,,PAF,Amos Johnson,2
 Colusa,513,Lieutenant Governor,,REP,David Fennell,63
 Colusa,513,Lieutenant Governor,,REP,George Yang,31
 Colusa,513,Lieutenant Governor,,REP,Ron Nehring,81
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Secretary of State,,DEM,Alex Padilla,51
 Colusa,105,Secretary of State,,DEM,Derek Cressman,6
 Colusa,105,Secretary of State,,DEM,Jeffrey Drobman,9
@@ -924,7 +917,6 @@ Colusa,513,Secretary of State,,GRN,David Curtis,13
 Colusa,513,Secretary of State,,IND,Dan Schnur,45
 Colusa,513,Secretary of State,,REP,Pete Peterson,139
 Colusa,513,Secretary of State,,REP,Roy Allmond,15
-county,precinct,office,district,party,candidate,votes
 Colusa,105,State Assembly,4,DEM,Bill Dodd,48
 Colusa,105,State Assembly,4,DEM,Dan Wolk,26
 Colusa,105,State Assembly,4,DEM,Joe Krovoza,18
@@ -995,7 +987,6 @@ Colusa,512,State Assembly,3,REP,Ryan Schohr,67
 Colusa,513,State Assembly,3,DEM,Jim Reed,72
 Colusa,513,State Assembly,3,REP,James Gallagher,184
 Colusa,513,State Assembly,3,REP,Ryan Schohr,76
-county,precinct,office,district,party,candidate,votes
 Colusa,105,State Senate,4,DEM,CJ Jawahar,55
 Colusa,105,State Senate,4,REP,Jim Nielsen,278
 Colusa,106,State Senate,4,DEM,CJ Jawahar,78
@@ -1032,7 +1023,6 @@ Colusa,512,State Senate,4,DEM,CJ Jawahar,55
 Colusa,512,State Senate,4,REP,Jim Nielsen,174
 Colusa,513,State Senate,4,DEM,CJ Jawahar,70
 Colusa,513,State Senate,4,REP,Jim Nielsen,254
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,81
 Colusa,105,Superintendent of Public Instruction,,NOP,Marshall Tuck,120
 Colusa,105,Superintendent of Public Instruction,,NOP,Tom Torlakson,117
@@ -1087,7 +1077,6 @@ Colusa,512,Superintendent of Public Instruction,,NOP,Tom Torlakson,97
 Colusa,513,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,44
 Colusa,513,Superintendent of Public Instruction,,NOP,Marshall Tuck,88
 Colusa,513,Superintendent of Public Instruction,,NOP,Tom Torlakson,158
-county,precinct,office,district,party,candidate,votes
 Colusa,105,Treasurer,,DEM,John Chiang,106
 Colusa,105,Treasurer,,GRN,Ellen Brown,16
 Colusa,105,Treasurer,,REP,Greg Conlon,205

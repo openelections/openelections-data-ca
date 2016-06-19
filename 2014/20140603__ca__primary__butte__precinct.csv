@@ -986,7 +986,6 @@ Butte,5914,Attorney General,,REP,David King,14
 Butte,5914,Attorney General,,REP,John Haggerty,24
 Butte,5914,Attorney General,,REP,Phil Wyman,22
 Butte,5914,Attorney General,,REP,Ronald Gold,23
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Board of Equalization,1,DEM,Chris Parker,65
 Butte,1101,Board of Equalization,1,REP,George Runner,112
 Butte,1102,Board of Equalization,1,DEM,Chris Parker,137
@@ -1269,7 +1268,6 @@ Butte,5913,Board of Equalization,1,DEM,Chris Parker,39
 Butte,5913,Board of Equalization,1,REP,George Runner,70
 Butte,5914,Board of Equalization,1,DEM,Chris Parker,42
 Butte,5914,Board of Equalization,1,REP,George Runner,94
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Controller,,DEM,Betty Yee,22
 Butte,1101,Controller,,DEM,John Perez,25
 Butte,1101,Controller,,DEM,Tammy Blair,20
@@ -2116,7 +2114,6 @@ Butte,5914,Controller,,DEM,Tammy Blair,11
 Butte,5914,Controller,,GRN,Laura Wells,9
 Butte,5914,Controller,,REP,Ashley Swearengin,38
 Butte,5914,Controller,,REP,David Evans,42
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Governor,,DEM,Akinyemi Agbede,2
 Butte,1101,Governor,,DEM,Edmund G. Brown,75
 Butte,1101,Governor,,GRN,Luis Rodriguez,2
@@ -4232,7 +4229,6 @@ Butte,5914,Governor,,REP,Glenn Champ,4
 Butte,5914,Governor,,REP,Neel Kashkari,36
 Butte,5914,Governor,,REP,Richard Aguirre,0
 Butte,5914,Governor,,REP,Tim Donnelly,43
-county,precinct,office,district,party,candidate,votes
 Butte,1101,U.S. House,1,DEM,Dan Levine,14
 Butte,1101,U.S. House,1,DEM,Heidi Hall,53
 Butte,1101,U.S. House,1,REP,Doug La Malfa,102
@@ -4797,7 +4793,6 @@ Butte,5914,U.S. House,1,DEM,Dan Levine,4
 Butte,5914,U.S. House,1,DEM,Heidi Hall,43
 Butte,5914,U.S. House,1,REP,Doug La Malfa,75
 Butte,5914,U.S. House,1,REP,Gregory Cheadle,17
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Insurance Commissioner,,DEM,Dave Jones,70
 Butte,1101,Insurance Commissioner,,PAF,Nathalie Hrizi,14
 Butte,1101,Insurance Commissioner,,REP,Ted Gaines,95
@@ -5221,7 +5216,6 @@ Butte,5913,Insurance Commissioner,,REP,Ted Gaines,69
 Butte,5914,Insurance Commissioner,,DEM,Dave Jones,50
 Butte,5914,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Butte,5914,Insurance Commissioner,,REP,Ted Gaines,85
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Lieutenant Governor,,AME,Alan Reynolds,6
 Butte,1101,Lieutenant Governor,,DEM,Eric Korevaar,16
 Butte,1101,Lieutenant Governor,,DEM,Gavin Newsom,58
@@ -6350,7 +6344,6 @@ Butte,5914,Lieutenant Governor,,PAF,Amos Johnson,1
 Butte,5914,Lieutenant Governor,,REP,David Fennell,16
 Butte,5914,Lieutenant Governor,,REP,George Yang,11
 Butte,5914,Lieutenant Governor,,REP,Ron Nehring,48
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Secretary of State,,DEM,Alex Padilla,41
 Butte,1101,Secretary of State,,DEM,Derek Cressman,10
 Butte,1101,Secretary of State,,DEM,Jeffrey Drobman,8
@@ -7479,7 +7472,6 @@ Butte,5914,Secretary of State,,GRN,David Curtis,4
 Butte,5914,Secretary of State,,IND,Dan Schnur,19
 Butte,5914,Secretary of State,,REP,Pete Peterson,56
 Butte,5914,Secretary of State,,REP,Roy Allmond,7
-county,precinct,office,district,party,candidate,votes
 Butte,1101,State Assembly,3,DEM,Jim Reed,73
 Butte,1101,State Assembly,3,REP,James Gallagher,80
 Butte,1101,State Assembly,3,REP,Ryan Schohr,30
@@ -7879,7 +7871,6 @@ Butte,5913,State Assembly,3,REP,Ryan Schohr,26
 Butte,5914,State Assembly,3,DEM,Jim Reed,47
 Butte,5914,State Assembly,3,REP,James Gallagher,71
 Butte,5914,State Assembly,3,REP,Ryan Schohr,23
-county,precinct,office,district,party,candidate,votes
 Butte,1101,State Senate,4,DEM,CJ Jawahar,71
 Butte,1101,State Senate,4,REP,Jim Nielsen,112
 Butte,1102,State Senate,4,DEM,CJ Jawahar,132
@@ -8162,7 +8153,6 @@ Butte,5913,State Senate,4,DEM,CJ Jawahar,44
 Butte,5913,State Senate,4,REP,Jim Nielsen,75
 Butte,5914,State Senate,4,DEM,CJ Jawahar,46
 Butte,5914,State Senate,4,REP,Jim Nielsen,93
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,66
 Butte,1101,Superintendent of Public Instruction,,NOP,Marshall Tuck,48
 Butte,1101,Superintendent of Public Instruction,,NOP,Tom Torlakson,60
@@ -8586,7 +8576,6 @@ Butte,5913,Superintendent of Public Instruction,,NOP,Tom Torlakson,49
 Butte,5914,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,31
 Butte,5914,Superintendent of Public Instruction,,NOP,Marshall Tuck,39
 Butte,5914,Superintendent of Public Instruction,,NOP,Tom Torlakson,59
-county,precinct,office,district,party,candidate,votes
 Butte,1101,Treasurer,,DEM,John Chiang,74
 Butte,1101,Treasurer,,GRN,Ellen Brown,17
 Butte,1101,Treasurer,,REP,Greg Conlon,91

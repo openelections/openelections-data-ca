@@ -398,7 +398,6 @@ Siskiyou,5107,Attorney General,,REP,David King,6
 Siskiyou,5107,Attorney General,,REP,John Haggerty,21
 Siskiyou,5107,Attorney General,,REP,Phil Wyman,37
 Siskiyou,5107,Attorney General,,REP,Ronald Gold,18
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Board of Equalization,1,DEM,Chris Parker,84
 Siskiyou,1000,Board of Equalization,1,REP,George Runner,167
 Siskiyou,1002,Board of Equalization,1,DEM,Chris Parker,22
@@ -513,7 +512,6 @@ Siskiyou,5103,Board of Equalization,1,DEM,Chris Parker,61
 Siskiyou,5103,Board of Equalization,1,REP,George Runner,104
 Siskiyou,5107,Board of Equalization,1,DEM,Chris Parker,29
 Siskiyou,5107,Board of Equalization,1,REP,George Runner,102
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Controller,,DEM,Betty Yee,47
 Siskiyou,1000,Controller,,DEM,John Perez,27
 Siskiyou,1000,Controller,,DEM,Tammy Blair,19
@@ -856,7 +854,6 @@ Siskiyou,5107,Controller,,DEM,Tammy Blair,5
 Siskiyou,5107,Controller,,GRN,Laura Wells,6
 Siskiyou,5107,Controller,,REP,Ashley Swearengin,20
 Siskiyou,5107,Controller,,REP,David Evans,69
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Governor,,DEM,Akinyemi Agbede,3
 Siskiyou,1000,Governor,,DEM,Edmund G. Brown,97
 Siskiyou,1000,Governor,,GRN,Luis Rodriguez,4
@@ -1712,7 +1709,6 @@ Siskiyou,5107,Governor,,REP,Glenn Champ,9
 Siskiyou,5107,Governor,,REP,Neel Kashkari,12
 Siskiyou,5107,Governor,,REP,Richard Aguirre,0
 Siskiyou,5107,Governor,,REP,Tim Donnelly,55
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,U.S. House,1,DEM,Dan Levine,21
 Siskiyou,1000,U.S. House,1,DEM,Heidi Hall,58
 Siskiyou,1000,U.S. House,1,REP,Doug La Malfa,163
@@ -1941,7 +1937,6 @@ Siskiyou,5107,U.S. House,1,DEM,Dan Levine,6
 Siskiyou,5107,U.S. House,1,DEM,Heidi Hall,19
 Siskiyou,5107,U.S. House,1,REP,Doug La Malfa,107
 Siskiyou,5107,U.S. House,1,REP,Gregory Cheadle,12
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Insurance Commissioner,,DEM,Dave Jones,94
 Siskiyou,1000,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Siskiyou,1000,Insurance Commissioner,,REP,Ted Gaines,155
@@ -2113,7 +2108,6 @@ Siskiyou,5103,Insurance Commissioner,,REP,Ted Gaines,93
 Siskiyou,5107,Insurance Commissioner,,DEM,Dave Jones,45
 Siskiyou,5107,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Siskiyou,5107,Insurance Commissioner,,REP,Ted Gaines,79
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Lieutenant Governor,,AME,Alan Reynolds,8
 Siskiyou,1000,Lieutenant Governor,,DEM,Eric Korevaar,13
 Siskiyou,1000,Lieutenant Governor,,DEM,Gavin Newsom,92
@@ -2570,7 +2564,6 @@ Siskiyou,5107,Lieutenant Governor,,PAF,Amos Johnson,1
 Siskiyou,5107,Lieutenant Governor,,REP,David Fennell,13
 Siskiyou,5107,Lieutenant Governor,,REP,George Yang,14
 Siskiyou,5107,Lieutenant Governor,,REP,Ron Nehring,58
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Secretary of State,,DEM,Alex Padilla,47
 Siskiyou,1000,Secretary of State,,DEM,Derek Cressman,12
 Siskiyou,1000,Secretary of State,,DEM,Jeffrey Drobman,7
@@ -3027,7 +3020,6 @@ Siskiyou,5107,Secretary of State,,GRN,David Curtis,1
 Siskiyou,5107,Secretary of State,,IND,Dan Schnur,9
 Siskiyou,5107,Secretary of State,,REP,Pete Peterson,64
 Siskiyou,5107,Secretary of State,,REP,Roy Allmond,11
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,State Assembly,1,DEM,Brigham Smith,65
 Siskiyou,1000,State Assembly,1,REP,Brian Dahle,195
 Siskiyou,1002,State Assembly,1,DEM,Brigham Smith,15
@@ -3142,7 +3134,6 @@ Siskiyou,5103,State Assembly,1,DEM,Brigham Smith,56
 Siskiyou,5103,State Assembly,1,REP,Brian Dahle,115
 Siskiyou,5107,State Assembly,1,DEM,Brigham Smith,24
 Siskiyou,5107,State Assembly,1,REP,Brian Dahle,117
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,60
 Siskiyou,1000,Superintendent of Public Instruction,,NOP,Marshall Tuck,63
 Siskiyou,1000,Superintendent of Public Instruction,,NOP,Tom Torlakson,111
@@ -3314,7 +3305,6 @@ Siskiyou,5103,Superintendent of Public Instruction,,NOP,Tom Torlakson,83
 Siskiyou,5107,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,39
 Siskiyou,5107,Superintendent of Public Instruction,,NOP,Marshall Tuck,31
 Siskiyou,5107,Superintendent of Public Instruction,,NOP,Tom Torlakson,58
-county,precinct,office,district,party,candidate,votes
 Siskiyou,1000,Treasurer,,DEM,John Chiang,111
 Siskiyou,1000,Treasurer,,GRN,Ellen Brown,14
 Siskiyou,1000,Treasurer,,REP,Greg Conlon,122

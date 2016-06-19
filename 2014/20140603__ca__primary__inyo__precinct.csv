@@ -146,7 +146,6 @@ Inyo,121,Attorney General,,REP,David King,0
 Inyo,121,Attorney General,,REP,John Haggerty,2
 Inyo,121,Attorney General,,REP,Phil Wyman,5
 Inyo,121,Attorney General,,REP,Ronald Gold,1
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Board of Equalization,1,DEM,Chris Parker,135
 Inyo,101,Board of Equalization,1,REP,George Runner,185
 Inyo,102,Board of Equalization,1,DEM,Chris Parker,122
@@ -189,7 +188,6 @@ Inyo,120,Board of Equalization,1,DEM,Chris Parker,32
 Inyo,120,Board of Equalization,1,REP,George Runner,18
 Inyo,121,Board of Equalization,1,DEM,Chris Parker,34
 Inyo,121,Board of Equalization,1,REP,George Runner,14
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Controller,,DEM,Betty Yee,54
 Inyo,101,Controller,,DEM,John Perez,50
 Inyo,101,Controller,,DEM,Tammy Blair,19
@@ -316,7 +314,6 @@ Inyo,121,Controller,,DEM,Tammy Blair,3
 Inyo,121,Controller,,GRN,Laura Wells,11
 Inyo,121,Controller,,REP,Ashley Swearengin,3
 Inyo,121,Controller,,REP,David Evans,6
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Governor,,DEM,Akinyemi Agbede,5
 Inyo,101,Governor,,DEM,Edmund G. Brown,155
 Inyo,101,Governor,,GRN,Luis Rodriguez,4
@@ -632,7 +629,6 @@ Inyo,121,Governor,,REP,Glenn Champ,3
 Inyo,121,Governor,,REP,Neel Kashkari,0
 Inyo,121,Governor,,REP,Richard Aguirre,0
 Inyo,121,Governor,,REP,Tim Donnelly,3
-county,precinct,office,district,party,candidate,votes
 Inyo,101,U.S. House,8,DEM,Bob Conaway,115
 Inyo,101,U.S. House,8,DEM,Odessia Lee,34
 Inyo,101,U.S. House,8,REP,Paul Cook,154
@@ -717,7 +713,6 @@ Inyo,121,U.S. House,8,DEM,Bob Conaway,17
 Inyo,121,U.S. House,8,DEM,Odessia Lee,14
 Inyo,121,U.S. House,8,REP,Paul Cook,13
 Inyo,121,U.S. House,8,REP,Paul Hannosh,6
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Insurance Commissioner,,DEM,Dave Jones,161
 Inyo,101,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Inyo,101,Insurance Commissioner,,REP,Ted Gaines,162
@@ -781,7 +776,6 @@ Inyo,120,Insurance Commissioner,,REP,Ted Gaines,13
 Inyo,121,Insurance Commissioner,,DEM,Dave Jones,30
 Inyo,121,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Inyo,121,Insurance Commissioner,,REP,Ted Gaines,6
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Lieutenant Governor,,AME,Alan Reynolds,4
 Inyo,101,Lieutenant Governor,,DEM,Eric Korevaar,26
 Inyo,101,Lieutenant Governor,,DEM,Gavin Newsom,130
@@ -950,7 +944,6 @@ Inyo,121,Lieutenant Governor,,PAF,Amos Johnson,5
 Inyo,121,Lieutenant Governor,,REP,David Fennell,1
 Inyo,121,Lieutenant Governor,,REP,George Yang,0
 Inyo,121,Lieutenant Governor,,REP,Ron Nehring,6
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Secretary of State,,DEM,Alex Padilla,80
 Inyo,101,Secretary of State,,DEM,Derek Cressman,20
 Inyo,101,Secretary of State,,DEM,Jeffrey Drobman,7
@@ -1119,7 +1112,6 @@ Inyo,121,Secretary of State,,GRN,David Curtis,6
 Inyo,121,Secretary of State,,IND,Dan Schnur,3
 Inyo,121,Secretary of State,,REP,Pete Peterson,5
 Inyo,121,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Inyo,101,State Assembly,26,DEM,Carlton Jones,63
 Inyo,101,State Assembly,26,DEM,Derek Thomas,33
 Inyo,101,State Assembly,26,DEM,Ruben Macareno,48
@@ -1267,7 +1259,6 @@ Inyo,121,State Assembly,26,REP,Devon Mathis,3
 Inyo,121,State Assembly,26,REP,Esther Barajas,2
 Inyo,121,State Assembly,26,REP,Rudy Mendoza,3
 Inyo,121,State Assembly,26,REP,Teresita Andres,2
-county,precinct,office,district,party,candidate,votes
 Inyo,101,State Senate,8,DEM,Paulina Miranda,152
 Inyo,101,State Senate,8,REP,Tom Berryhill,191
 Inyo,102,State Senate,8,DEM,Paulina Miranda,127
@@ -1310,7 +1301,6 @@ Inyo,120,State Senate,8,DEM,Paulina Miranda,36
 Inyo,120,State Senate,8,REP,Tom Berryhill,15
 Inyo,121,State Senate,8,DEM,Paulina Miranda,35
 Inyo,121,State Senate,8,REP,Tom Berryhill,14
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,55
 Inyo,101,Superintendent of Public Instruction,,NOP,Marshall Tuck,101
 Inyo,101,Superintendent of Public Instruction,,NOP,Tom Torlakson,140
@@ -1374,7 +1364,6 @@ Inyo,120,Superintendent of Public Instruction,,NOP,Tom Torlakson,14
 Inyo,121,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,23
 Inyo,121,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
 Inyo,121,Superintendent of Public Instruction,,NOP,Tom Torlakson,21
-county,precinct,office,district,party,candidate,votes
 Inyo,101,Treasurer,,DEM,John Chiang,163
 Inyo,101,Treasurer,,GRN,Ellen Brown,18
 Inyo,101,Treasurer,,REP,Greg Conlon,153

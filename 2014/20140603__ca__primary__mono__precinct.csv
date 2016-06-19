@@ -90,7 +90,6 @@ Mono,13,Attorney General,,DEM,KAMALA D. HARRIS,131
 Mono,13,Attorney General,,REP,JOHN HAGGERTY,21
 Mono,13,Attorney General,,LIB,JONATHAN JAECH,10
 Mono,13,Attorney General,,REP,RONALD GOLD,17
-county,precinct,office,district,party,candidate,votes
 Mono,1,Board of Equalization,1,REP,GEORGE RUNNER,161
 Mono,1,Board of Equalization,1,DEM,CHRIS PARKER,80
 Mono,2,Board of Equalization,1,REP,GEORGE RUNNER,55
@@ -117,7 +116,6 @@ Mono,12,Board of Equalization,1,REP,GEORGE RUNNER,134
 Mono,12,Board of Equalization,1,DEM,CHRIS PARKER,138
 Mono,13,Board of Equalization,1,REP,GEORGE RUNNER,94
 Mono,13,Board of Equalization,1,DEM,CHRIS PARKER,124
-county,precinct,office,district,party,candidate,votes
 Mono,1,Controller,,DEM,BETTY T. YEE,36
 Mono,1,Controller,,GRN,LAURA WELLS,9
 Mono,1,Controller,,DEM,TAMMY D. BLAIR,14
@@ -196,7 +194,6 @@ Mono,13,Controller,,DEM,TAMMY D. BLAIR,11
 Mono,13,Controller,,DEM,JOHN A. PÉREZ,34
 Mono,13,Controller,,REP,DAVID EVANS,62
 Mono,13,Controller,,REP,ASHLEY SWEARENGIN,33
-county,precinct,office,district,party,candidate,votes
 Mono,1,Governor,,GRN,LUIS J. RODRIGUEZ,4
 Mono,1,Governor,,REP,ALMA MARIE WINSTON,2
 Mono,1,Governor,,DEM,"EDMUND G. ""JERRY"" BROWN",87
@@ -392,7 +389,6 @@ Mono,13,Governor,,REP,RICHARD WILLIAM AGUIRRE,1
 Mono,13,Governor,,NON,ROBERT NEWMAN,3
 Mono,13,Governor,,PF,CINDY L. SHEEHAN,8
 Mono,13,Governor,,NON,JOE LEICHT,0
-county,precinct,office,district,party,candidate,votes
 Mono,1,U.S. House,8,REP,PAUL COOK,131
 Mono,1,U.S. House,8,DEM,BOB CONAWAY,41
 Mono,1,U.S. House,8,REP,PAUL HANNOSH,45
@@ -445,7 +441,6 @@ Mono,13,U.S. House,8,REP,PAUL COOK,78
 Mono,13,U.S. House,8,DEM,BOB CONAWAY,94
 Mono,13,U.S. House,8,REP,PAUL HANNOSH,24
 Mono,13,U.S. House,8,DEM,ODESSIA D. LEE,35
-county,precinct,office,district,party,candidate,votes
 Mono,1,Insurance Commissioner,,PF,NATHALIE HRIZI,13
 Mono,1,Insurance Commissioner,,DEM,DAVE JONES,80
 Mono,1,Insurance Commissioner,,REP,TED GAINES,147
@@ -485,7 +480,6 @@ Mono,12,Insurance Commissioner,,REP,TED GAINES,116
 Mono,13,Insurance Commissioner,,PF,NATHALIE HRIZI,17
 Mono,13,Insurance Commissioner,,DEM,DAVE JONES,133
 Mono,13,Insurance Commissioner,,REP,TED GAINES,78
-county,precinct,office,district,party,candidate,votes
 Mono,1,Lieutenant Governor,,AME,ALAN REYNOLDS,4
 Mono,1,Lieutenant Governor,,REP,GEORGE YANG,18
 Mono,1,Lieutenant Governor,,DEM,ERIC KOREVAAR,14
@@ -590,7 +584,6 @@ Mono,13,Lieutenant Governor,,PF,AMOS JOHNSON,6
 Mono,13,Lieutenant Governor,,DEM,GAVIN NEWSOM,114
 Mono,13,Lieutenant Governor,,REP,RON NEHRING,54
 Mono,13,Lieutenant Governor,,GRN,JENA F. GOODMAN,10
-county,precinct,office,district,party,candidate,votes
 Mono,1,Secretary of State,,DEM,LELAND YEE,19
 Mono,1,Secretary of State,,DEM,DEREK CRESSMAN,16
 Mono,1,Secretary of State,,GRN,DAVID CURTIS,1
@@ -695,7 +688,6 @@ Mono,13,Secretary of State,,REP,PETE PETERSON,72
 Mono,13,Secretary of State,,DEM,JEFFREY H. DROBMAN,27
 Mono,13,Secretary of State,,REP,ROY ALLMOND,7
 Mono,13,Secretary of State,,NON,DAN SCHNUR,13
-county,precinct,office,district,party,candidate,votes
 Mono,1,State Assembly,5,REP,FRANK BIGELOW,190
 Mono,2,State Assembly,5,REP,FRANK BIGELOW,64
 Mono,3,State Assembly,5,REP,FRANK BIGELOW,206
@@ -709,7 +701,6 @@ Mono,10,State Assembly,5,REP,FRANK BIGELOW,164
 Mono,11,State Assembly,5,REP,FRANK BIGELOW,77
 Mono,12,State Assembly,5,REP,FRANK BIGELOW,202
 Mono,13,State Assembly,5,REP,FRANK BIGELOW,155
-county,precinct,office,district,party,candidate,votes
 Mono,1,State Senate,8,DEM,PAULINA MIRANDA,83
 Mono,1,State Senate,8,REP,TOM BERRYHILL,170
 Mono,2,State Senate,8,DEM,PAULINA MIRANDA,20
@@ -736,7 +727,6 @@ Mono,12,State Senate,8,DEM,PAULINA MIRANDA,148
 Mono,12,State Senate,8,REP,TOM BERRYHILL,148
 Mono,13,State Senate,8,DEM,PAULINA MIRANDA,126
 Mono,13,State Senate,8,REP,TOM BERRYHILL,107
-county,precinct,office,district,party,candidate,votes
 Mono,1,Superintendent of Public Instruction,,NON,TOM TORLAKSON,83
 Mono,1,Superintendent of Public Instruction,,NON,MARSHALL TUCK,73
 Mono,1,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,76
@@ -776,7 +766,6 @@ Mono,12,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,53
 Mono,13,Superintendent of Public Instruction,,NON,TOM TORLAKSON,104
 Mono,13,Superintendent of Public Instruction,,NON,MARSHALL TUCK,49
 Mono,13,Superintendent of Public Instruction,,NON,LYDIA A. GUTIÉRREZ,40
-county,precinct,office,district,party,candidate,votes
 Mono,1,Treasurer,,GRN,ELLEN H. BROWN,19
 Mono,1,Treasurer,,REP,GREG CONLON,123
 Mono,1,Treasurer,,DEM,JOHN CHIANG,99

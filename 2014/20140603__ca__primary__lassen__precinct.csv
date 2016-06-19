@@ -377,7 +377,6 @@ Lassen,MB9,Attorney General,,REP,David King,11
 Lassen,MB9,Attorney General,,REP,John Haggerty,7
 Lassen,MB9,Attorney General,,REP,Phil Wyman,25
 Lassen,MB9,Attorney General,,REP,Ronald Gold,22
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Board of Equalization,1,DEM,Chris Parker,86
 Lassen,CP11,Board of Equalization,1,REP,George Runner,294
 Lassen,CP12,Board of Equalization,1,DEM,Chris Parker,129
@@ -486,7 +485,6 @@ Lassen,MB8,Board of Equalization,1,DEM,Chris Parker,33
 Lassen,MB8,Board of Equalization,1,REP,George Runner,48
 Lassen,MB9,Board of Equalization,1,DEM,Chris Parker,38
 Lassen,MB9,Board of Equalization,1,REP,George Runner,78
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Controller,,DEM,Betty Yee,43
 Lassen,CP11,Controller,,DEM,John Perez,27
 Lassen,CP11,Controller,,DEM,Tammy Blair,11
@@ -811,7 +809,6 @@ Lassen,MB9,Controller,,DEM,Tammy Blair,8
 Lassen,MB9,Controller,,GRN,Laura Wells,7
 Lassen,MB9,Controller,,REP,Ashley Swearengin,33
 Lassen,MB9,Controller,,REP,David Evans,44
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP11,Governor,,DEM,Edmund G. Brown,106
 Lassen,CP11,Governor,,GRN,Luis Rodriguez,1
@@ -1622,7 +1619,6 @@ Lassen,MB9,Governor,,REP,Glenn Champ,3
 Lassen,MB9,Governor,,REP,Neel Kashkari,19
 Lassen,MB9,Governor,,REP,Richard Aguirre,0
 Lassen,MB9,Governor,,REP,Tim Donnelly,30
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,U.S. House,1,DEM,Dan Levine,7
 Lassen,CP11,U.S. House,1,DEM,Heidi Hall,63
 Lassen,CP11,U.S. House,1,REP,Doug La Malfa,283
@@ -1839,7 +1835,6 @@ Lassen,MB9,U.S. House,1,DEM,Dan Levine,5
 Lassen,MB9,U.S. House,1,DEM,Heidi Hall,23
 Lassen,MB9,U.S. House,1,REP,Doug La Malfa,75
 Lassen,MB9,U.S. House,1,REP,Gregory Cheadle,11
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Insurance Commissioner,,DEM,Dave Jones,92
 Lassen,CP11,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Lassen,CP11,Insurance Commissioner,,REP,Ted Gaines,277
@@ -2002,7 +1997,6 @@ Lassen,MB8,Insurance Commissioner,,REP,Ted Gaines,37
 Lassen,MB9,Insurance Commissioner,,DEM,Dave Jones,30
 Lassen,MB9,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Lassen,MB9,Insurance Commissioner,,REP,Ted Gaines,78
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Lieutenant Governor,,AME,Alan Reynolds,9
 Lassen,CP11,Lieutenant Governor,,DEM,Eric Korevaar,19
 Lassen,CP11,Lieutenant Governor,,DEM,Gavin Newsom,80
@@ -2435,7 +2429,6 @@ Lassen,MB9,Lieutenant Governor,,PAF,Amos Johnson,3
 Lassen,MB9,Lieutenant Governor,,REP,David Fennell,13
 Lassen,MB9,Lieutenant Governor,,REP,George Yang,13
 Lassen,MB9,Lieutenant Governor,,REP,Ron Nehring,38
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Secretary of State,,DEM,Alex Padilla,49
 Lassen,CP11,Secretary of State,,DEM,Derek Cressman,11
 Lassen,CP11,Secretary of State,,DEM,Jeffrey Drobman,7
@@ -2868,7 +2861,6 @@ Lassen,MB9,Secretary of State,,GRN,David Curtis,6
 Lassen,MB9,Secretary of State,,IND,Dan Schnur,11
 Lassen,MB9,Secretary of State,,REP,Pete Peterson,41
 Lassen,MB9,Secretary of State,,REP,Roy Allmond,17
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,State Assembly,1,DEM,Brigham Smith,56
 Lassen,CP11,State Assembly,1,REP,Brian Dahle,335
 Lassen,CP12,State Assembly,1,DEM,Brigham Smith,84
@@ -2977,7 +2969,6 @@ Lassen,MB8,State Assembly,1,DEM,Brigham Smith,18
 Lassen,MB8,State Assembly,1,REP,Brian Dahle,65
 Lassen,MB9,State Assembly,1,DEM,Brigham Smith,18
 Lassen,MB9,State Assembly,1,REP,Brian Dahle,97
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,81
 Lassen,CP11,Superintendent of Public Instruction,,NOP,Marshall Tuck,111
 Lassen,CP11,Superintendent of Public Instruction,,NOP,Tom Torlakson,166
@@ -3140,7 +3131,6 @@ Lassen,MB8,Superintendent of Public Instruction,,NOP,Tom Torlakson,41
 Lassen,MB9,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,40
 Lassen,MB9,Superintendent of Public Instruction,,NOP,Marshall Tuck,30
 Lassen,MB9,Superintendent of Public Instruction,,NOP,Tom Torlakson,43
-county,precinct,office,district,party,candidate,votes
 Lassen,CP11,Treasurer,,DEM,John Chiang,145
 Lassen,CP11,Treasurer,,GRN,Ellen Brown,12
 Lassen,CP11,Treasurer,,REP,Greg Conlon,229

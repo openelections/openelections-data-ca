@@ -2561,7 +2561,6 @@ Sonoma,7504,Attorney General,,REP,David King,1
 Sonoma,7504,Attorney General,,REP,John Haggerty,2
 Sonoma,7504,Attorney General,,REP,Phil Wyman,1
 Sonoma,7504,Attorney General,,REP,Ronald Gold,1
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Board of Equalization,2,DEM,Fiona Ma,92
 Sonoma,1001,Board of Equalization,2,REP,James Theis,34
 Sonoma,1002,Board of Equalization,2,DEM,Fiona Ma,9
@@ -3294,7 +3293,6 @@ Sonoma,7503,Board of Equalization,2,DEM,Fiona Ma,62
 Sonoma,7503,Board of Equalization,2,REP,James Theis,25
 Sonoma,7504,Board of Equalization,2,DEM,Fiona Ma,9
 Sonoma,7504,Board of Equalization,2,REP,James Theis,7
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Controller,,DEM,Betty Yee,42
 Sonoma,1001,Controller,,DEM,John Perez,28
 Sonoma,1001,Controller,,DEM,Tammy Blair,10
@@ -5491,7 +5489,6 @@ Sonoma,7504,Controller,,DEM,Tammy Blair,1
 Sonoma,7504,Controller,,GRN,Laura Wells,2
 Sonoma,7504,Controller,,REP,Ashley Swearengin,0
 Sonoma,7504,Controller,,REP,David Evans,2
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Governor,,DEM,Akinyemi Agbede,0
 Sonoma,1001,Governor,,DEM,Edmund G. Brown,97
 Sonoma,1001,Governor,,GRN,Luis Rodriguez,1
@@ -10982,7 +10979,6 @@ Sonoma,7504,Governor,,REP,Glenn Champ,1
 Sonoma,7504,Governor,,REP,Neel Kashkari,0
 Sonoma,7504,Governor,,REP,Richard Aguirre,0
 Sonoma,7504,Governor,,REP,Tim Donnelly,0
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,U.S. House,5,DEM,Mike Thompson,104
 Sonoma,1001,U.S. House,5,IND,Douglas Van Raam,7
 Sonoma,1001,U.S. House,5,IND,James Hinton,12
@@ -11628,7 +11624,6 @@ Sonoma,7503,U.S. House,5,IND,James Hinton,9
 Sonoma,7504,U.S. House,5,DEM,Mike Thompson,14
 Sonoma,7504,U.S. House,5,IND,Douglas Van Raam,0
 Sonoma,7504,U.S. House,5,IND,James Hinton,0
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Insurance Commissioner,,DEM,Dave Jones,86
 Sonoma,1001,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Sonoma,1001,Insurance Commissioner,,REP,Ted Gaines,38
@@ -12727,7 +12722,6 @@ Sonoma,7503,Insurance Commissioner,,REP,Ted Gaines,16
 Sonoma,7504,Insurance Commissioner,,DEM,Dave Jones,9
 Sonoma,7504,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Sonoma,7504,Insurance Commissioner,,REP,Ted Gaines,6
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Lieutenant Governor,,AME,Alan Reynolds,1
 Sonoma,1001,Lieutenant Governor,,DEM,Eric Korevaar,9
 Sonoma,1001,Lieutenant Governor,,DEM,Gavin Newsom,82
@@ -15656,7 +15650,6 @@ Sonoma,7504,Lieutenant Governor,,PAF,Amos Johnson,0
 Sonoma,7504,Lieutenant Governor,,REP,David Fennell,0
 Sonoma,7504,Lieutenant Governor,,REP,George Yang,1
 Sonoma,7504,Lieutenant Governor,,REP,Ron Nehring,0
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Secretary of State,,DEM,Alex Padilla,45
 Sonoma,1001,Secretary of State,,DEM,Derek Cressman,13
 Sonoma,1001,Secretary of State,,DEM,Jeffrey Drobman,3
@@ -18585,7 +18578,6 @@ Sonoma,7504,Secretary of State,,GRN,David Curtis,0
 Sonoma,7504,Secretary of State,,IND,Dan Schnur,3
 Sonoma,7504,Secretary of State,,REP,Pete Peterson,5
 Sonoma,7504,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Sonoma,1004,State Assembly,4,DEM,Bill Dodd,2
 Sonoma,1004,State Assembly,4,DEM,Dan Wolk,4
 Sonoma,1004,State Assembly,4,DEM,Joe Krovoza,5
@@ -18881,7 +18873,6 @@ Sonoma,7112,State Assembly,4,DEM,Dan Wolk,0
 Sonoma,7112,State Assembly,4,DEM,Joe Krovoza,0
 Sonoma,7112,State Assembly,4,REP,Charlie Schaupp,0
 Sonoma,7112,State Assembly,4,REP,Dustin Call,0
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,19
 Sonoma,1001,Superintendent of Public Instruction,,NOP,Marshall Tuck,24
 Sonoma,1001,Superintendent of Public Instruction,,NOP,Tom Torlakson,74
@@ -19980,7 +19971,6 @@ Sonoma,7503,Superintendent of Public Instruction,,NOP,Tom Torlakson,43
 Sonoma,7504,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,5
 Sonoma,7504,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Sonoma,7504,Superintendent of Public Instruction,,NOP,Tom Torlakson,6
-county,precinct,office,district,party,candidate,votes
 Sonoma,1001,Treasurer,,DEM,John Chiang,84
 Sonoma,1001,Treasurer,,GRN,Ellen Brown,7
 Sonoma,1001,Treasurer,,REP,Greg Conlon,39
