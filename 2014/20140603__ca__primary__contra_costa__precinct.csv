@@ -4549,7 +4549,6 @@ Contra Costa,WLKN801,Attorney General,,REP,David King,6
 Contra Costa,WLKN801,Attorney General,,REP,John Haggerty,6
 Contra Costa,WLKN801,Attorney General,,REP,Phil Wyman,6
 Contra Costa,WLKN801,Attorney General,,REP,Ronald Gold,5
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Board of Equalization,2,DEM,Fiona Ma,92
 Contra Costa,ALHA101,Board of Equalization,2,REP,James Theis,76
 Contra Costa,ALHA801,Board of Equalization,2,DEM,Fiona Ma,10
@@ -5850,7 +5849,6 @@ Contra Costa,WLKN103,Board of Equalization,2,DEM,Fiona Ma,121
 Contra Costa,WLKN103,Board of Equalization,2,REP,James Theis,70
 Contra Costa,WLKN801,Board of Equalization,2,DEM,Fiona Ma,34
 Contra Costa,WLKN801,Board of Equalization,2,REP,James Theis,22
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Controller,,DEM,Betty Yee,38
 Contra Costa,ALHA101,Controller,,DEM,John Perez,40
 Contra Costa,ALHA101,Controller,,DEM,Tammy Blair,8
@@ -9751,7 +9749,6 @@ Contra Costa,WLKN801,Controller,,DEM,Tammy Blair,2
 Contra Costa,WLKN801,Controller,,GRN,Laura Wells,3
 Contra Costa,WLKN801,Controller,,REP,Ashley Swearengin,11
 Contra Costa,WLKN801,Controller,,REP,David Evans,13
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Governor,,DEM,Akinyemi Agbede,0
 Contra Costa,ALHA101,Governor,,DEM,Edmund G. Brown,108
 Contra Costa,ALHA101,Governor,,GRN,Luis Rodriguez,1
@@ -19502,7 +19499,6 @@ Contra Costa,WLKN801,Governor,,REP,Glenn Champ,2
 Contra Costa,WLKN801,Governor,,REP,Neel Kashkari,7
 Contra Costa,WLKN801,Governor,,REP,Richard Aguirre,0
 Contra Costa,WLKN801,Governor,,REP,Tim Donnelly,8
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,U.S. House,11,DEM,Cheryl Sudduth,4
 Contra Costa,ALHA101,U.S. House,11,DEM,Ki Ingersol,3
 Contra Costa,ALHA101,U.S. House,11,DEM,Mark DeSaulnier,92
@@ -22898,7 +22894,6 @@ Contra Costa,WLKN801,U.S. House,11,DEM,Mark DeSaulnier,31
 Contra Costa,WLKN801,U.S. House,11,DEM,Tony Daysog,3
 Contra Costa,WLKN801,U.S. House,11,IND,Jason Ramey,0
 Contra Costa,WLKN801,U.S. House,11,REP,Tue Phan,21
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Insurance Commissioner,,DEM,Dave Jones,82
 Contra Costa,ALHA101,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Contra Costa,ALHA101,Insurance Commissioner,,REP,Ted Gaines,82
@@ -24849,7 +24844,6 @@ Contra Costa,WLKN103,Insurance Commissioner,,REP,Ted Gaines,66
 Contra Costa,WLKN801,Insurance Commissioner,,DEM,Dave Jones,28
 Contra Costa,WLKN801,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Contra Costa,WLKN801,Insurance Commissioner,,REP,Ted Gaines,24
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Lieutenant Governor,,AME,Alan Reynolds,1
 Contra Costa,ALHA101,Lieutenant Governor,,DEM,Eric Korevaar,4
 Contra Costa,ALHA101,Lieutenant Governor,,DEM,Gavin Newsom,95
@@ -30050,7 +30044,6 @@ Contra Costa,WLKN801,Lieutenant Governor,,PAF,Amos Johnson,0
 Contra Costa,WLKN801,Lieutenant Governor,,REP,David Fennell,3
 Contra Costa,WLKN801,Lieutenant Governor,,REP,George Yang,3
 Contra Costa,WLKN801,Lieutenant Governor,,REP,Ron Nehring,15
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Secretary of State,,DEM,Alex Padilla,53
 Contra Costa,ALHA101,Secretary of State,,DEM,Derek Cressman,10
 Contra Costa,ALHA101,Secretary of State,,DEM,Jeffrey Drobman,5
@@ -35251,7 +35244,6 @@ Contra Costa,WLKN801,Secretary of State,,GRN,David Curtis,2
 Contra Costa,WLKN801,Secretary of State,,IND,Dan Schnur,7
 Contra Costa,WLKN801,Secretary of State,,REP,Pete Peterson,20
 Contra Costa,WLKN801,Secretary of State,,REP,Roy Allmond,1
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,State Assembly,14,DEM,Susan Bonilla,111
 Contra Costa,ALHA801,State Assembly,14,DEM,Susan Bonilla,10
 Contra Costa,ALHA802,State Assembly,14,DEM,Susan Bonilla,13
@@ -37445,7 +37437,6 @@ Contra Costa,WLKN801,State Assembly,16,DEM,Newell Arnerich,2
 Contra Costa,WLKN801,State Assembly,16,DEM,Steve Glazer,13
 Contra Costa,WLKN801,State Assembly,16,DEM,Tim Sbranti,21
 Contra Costa,WLKN801,State Assembly,16,REP,Catharine Baker,26
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,18
 Contra Costa,ALHA101,Superintendent of Public Instruction,,NOP,Marshall Tuck,47
 Contra Costa,ALHA101,Superintendent of Public Instruction,,NOP,Tom Torlakson,111
@@ -39396,7 +39387,6 @@ Contra Costa,WLKN103,Superintendent of Public Instruction,,NOP,Tom Torlakson,145
 Contra Costa,WLKN801,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,6
 Contra Costa,WLKN801,Superintendent of Public Instruction,,NOP,Marshall Tuck,16
 Contra Costa,WLKN801,Superintendent of Public Instruction,,NOP,Tom Torlakson,42
-county,precinct,office,district,party,candidate,votes
 Contra Costa,ALHA101,Treasurer,,DEM,John Chiang,88
 Contra Costa,ALHA101,Treasurer,,GRN,Ellen Brown,10
 Contra Costa,ALHA101,Treasurer,,REP,Greg Conlon,82

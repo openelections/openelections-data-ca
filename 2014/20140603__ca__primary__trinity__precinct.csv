@@ -202,7 +202,6 @@ Trinity,29,Attorney General,,REP,David King,0
 Trinity,29,Attorney General,,REP,John Haggerty,0
 Trinity,29,Attorney General,,REP,Phil Wyman,0
 Trinity,29,Attorney General,,REP,Ronald Gold,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Board of Equalization,2,DEM,Fiona Ma,32
 Trinity,1,Board of Equalization,2,REP,James Theis,33
 Trinity,2,Board of Equalization,2,DEM,Fiona Ma,53
@@ -261,7 +260,6 @@ Trinity,28,Board of Equalization,2,DEM,Fiona Ma,0
 Trinity,28,Board of Equalization,2,REP,James Theis,0
 Trinity,29,Board of Equalization,2,DEM,Fiona Ma,0
 Trinity,29,Board of Equalization,2,REP,James Theis,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Controller,,DEM,Betty Yee,16
 Trinity,1,Controller,,DEM,John Perez,9
 Trinity,1,Controller,,DEM,Tammy Blair,6
@@ -436,7 +434,6 @@ Trinity,29,Controller,,DEM,Tammy Blair,0
 Trinity,29,Controller,,GRN,Laura Wells,0
 Trinity,29,Controller,,REP,Ashley Swearengin,0
 Trinity,29,Controller,,REP,David Evans,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Governor,,DEM,Akinyemi Agbede,1
 Trinity,1,Governor,,DEM,Edmund G. Brown,26
 Trinity,1,Governor,,GRN,Luis Rodriguez,1
@@ -872,7 +869,6 @@ Trinity,29,Governor,,REP,Glenn Champ,0
 Trinity,29,Governor,,REP,Neel Kashkari,0
 Trinity,29,Governor,,REP,Richard Aguirre,0
 Trinity,29,Governor,,REP,Tim Donnelly,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Insurance Commissioner,,DEM,Dave Jones,29
 Trinity,1,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Trinity,1,Insurance Commissioner,,REP,Ted Gaines,35
@@ -960,7 +956,6 @@ Trinity,28,Insurance Commissioner,,REP,Ted Gaines,0
 Trinity,29,Insurance Commissioner,,DEM,Dave Jones,0
 Trinity,29,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Trinity,29,Insurance Commissioner,,REP,Ted Gaines,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Lieutenant Governor,,AME,Alan Reynolds,0
 Trinity,1,Lieutenant Governor,,DEM,Eric Korevaar,6
 Trinity,1,Lieutenant Governor,,DEM,Gavin Newsom,28
@@ -1193,7 +1188,6 @@ Trinity,29,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,29,Lieutenant Governor,,REP,David Fennell,0
 Trinity,29,Lieutenant Governor,,REP,George Yang,0
 Trinity,29,Lieutenant Governor,,REP,Ron Nehring,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Secretary of State,,DEM,Alex Padilla,14
 Trinity,1,Secretary of State,,DEM,Derek Cressman,6
 Trinity,1,Secretary of State,,DEM,Jeffrey Drobman,4
@@ -1426,7 +1420,6 @@ Trinity,29,Secretary of State,,GRN,David Curtis,0
 Trinity,29,Secretary of State,,IND,Dan Schnur,0
 Trinity,29,Secretary of State,,REP,Pete Peterson,0
 Trinity,29,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,18
 Trinity,1,Superintendent of Public Instruction,,NOP,Marshall Tuck,16
 Trinity,1,Superintendent of Public Instruction,,NOP,Tom Torlakson,30
@@ -1514,7 +1507,6 @@ Trinity,28,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
 Trinity,29,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,0
 Trinity,29,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Trinity,29,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-county,precinct,office,district,party,candidate,votes
 Trinity,1,Treasurer,,DEM,John Chiang,33
 Trinity,1,Treasurer,,GRN,Ellen Brown,3
 Trinity,1,Treasurer,,REP,Greg Conlon,30

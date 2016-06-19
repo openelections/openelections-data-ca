@@ -531,7 +531,6 @@ Madera,5432,Attorney General,,REP,David King,0
 Madera,5432,Attorney General,,REP,John Haggerty,0
 Madera,5432,Attorney General,,REP,Phil Wyman,1
 Madera,5432,Attorney General,,REP,Ronald Gold,1
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Board of Equalization,1,DEM,Chris Parker,31
 Madera,1002,Board of Equalization,1,REP,George Runner,130
 Madera,1004,Board of Equalization,1,DEM,Chris Parker,20
@@ -684,7 +683,6 @@ Madera,5431,Board of Equalization,1,DEM,Chris Parker,0
 Madera,5431,Board of Equalization,1,REP,George Runner,2
 Madera,5432,Board of Equalization,1,DEM,Chris Parker,0
 Madera,5432,Board of Equalization,1,REP,George Runner,2
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Controller,,DEM,Betty Yee,7
 Madera,1002,Controller,,DEM,John Perez,27
 Madera,1002,Controller,,DEM,Tammy Blair,2
@@ -1141,7 +1139,6 @@ Madera,5432,Controller,,DEM,Tammy Blair,0
 Madera,5432,Controller,,GRN,Laura Wells,0
 Madera,5432,Controller,,REP,Ashley Swearengin,0
 Madera,5432,Controller,,REP,David Evans,2
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Governor,,DEM,Akinyemi Agbede,2
 Madera,1002,Governor,,DEM,Edmund G. Brown,48
 Madera,1002,Governor,,GRN,Luis Rodriguez,1
@@ -2282,7 +2279,6 @@ Madera,5432,Governor,,REP,Glenn Champ,0
 Madera,5432,Governor,,REP,Neel Kashkari,1
 Madera,5432,Governor,,REP,Richard Aguirre,0
 Madera,5432,Governor,,REP,Tim Donnelly,0
-county,precinct,office,district,party,candidate,votes
 Madera,1002,U.S. House,16,DEM,Jim Costa,37
 Madera,1002,U.S. House,16,DEM,Job Melton,8
 Madera,1002,U.S. House,16,REP,Joanna Garcia-Botelho,20
@@ -2685,7 +2681,6 @@ Madera,5431,U.S. House,4,REP,Tom McClintock,2
 Madera,5432,U.S. House,4,IND,Jeffrey Gerlach,1
 Madera,5432,U.S. House,4,REP,Arthur Moore,0
 Madera,5432,U.S. House,4,REP,Tom McClintock,1
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Insurance Commissioner,,DEM,Dave Jones,55
 Madera,1002,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Madera,1002,Insurance Commissioner,,REP,Ted Gaines,106
@@ -2914,7 +2909,6 @@ Madera,5431,Insurance Commissioner,,REP,Ted Gaines,2
 Madera,5432,Insurance Commissioner,,DEM,Dave Jones,1
 Madera,5432,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Madera,5432,Insurance Commissioner,,REP,Ted Gaines,1
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Lieutenant Governor,,AME,Alan Reynolds,3
 Madera,1002,Lieutenant Governor,,DEM,Eric Korevaar,8
 Madera,1002,Lieutenant Governor,,DEM,Gavin Newsom,39
@@ -3523,7 +3517,6 @@ Madera,5432,Lieutenant Governor,,PAF,Amos Johnson,0
 Madera,5432,Lieutenant Governor,,REP,David Fennell,0
 Madera,5432,Lieutenant Governor,,REP,George Yang,0
 Madera,5432,Lieutenant Governor,,REP,Ron Nehring,1
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Secretary of State,,DEM,Alex Padilla,30
 Madera,1002,Secretary of State,,DEM,Derek Cressman,4
 Madera,1002,Secretary of State,,DEM,Jeffrey Drobman,2
@@ -4132,7 +4125,6 @@ Madera,5432,Secretary of State,,GRN,David Curtis,0
 Madera,5432,Secretary of State,,IND,Dan Schnur,0
 Madera,5432,Secretary of State,,REP,Pete Peterson,0
 Madera,5432,Secretary of State,,REP,Roy Allmond,1
-county,precinct,office,district,party,candidate,votes
 Madera,1002,State Assembly,5,REP,Frank Bigelow,154
 Madera,1004,State Assembly,5,REP,Frank Bigelow,65
 Madera,1307,State Assembly,5,REP,Frank Bigelow,144
@@ -4209,7 +4201,6 @@ Madera,5429,State Assembly,5,REP,Frank Bigelow,106
 Madera,5430,State Assembly,5,REP,Frank Bigelow,260
 Madera,5431,State Assembly,5,REP,Frank Bigelow,2
 Madera,5432,State Assembly,5,REP,Frank Bigelow,2
-county,precinct,office,district,party,candidate,votes
 Madera,1002,State Senate,12,DEM,Shawn Bagley,38
 Madera,1002,State Senate,12,REP,Anthony Cannella,129
 Madera,1004,State Senate,12,DEM,Shawn Bagley,19
@@ -4362,7 +4353,6 @@ Madera,5431,State Senate,8,DEM,Paulina Miranda,0
 Madera,5431,State Senate,8,REP,Tom Berryhill,2
 Madera,5432,State Senate,8,DEM,Paulina Miranda,1
 Madera,5432,State Senate,8,REP,Tom Berryhill,1
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,27
 Madera,1002,Superintendent of Public Instruction,,NOP,Marshall Tuck,62
 Madera,1002,Superintendent of Public Instruction,,NOP,Tom Torlakson,71
@@ -4591,7 +4581,6 @@ Madera,5431,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
 Madera,5432,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,0
 Madera,5432,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Madera,5432,Superintendent of Public Instruction,,NOP,Tom Torlakson,2
-county,precinct,office,district,party,candidate,votes
 Madera,1002,Treasurer,,DEM,John Chiang,56
 Madera,1002,Treasurer,,GRN,Ellen Brown,3
 Madera,1002,Treasurer,,REP,Greg Conlon,106

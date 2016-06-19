@@ -237,7 +237,6 @@ Glenn,50085,Attorney General,,REP,David King,1
 Glenn,50085,Attorney General,,REP,John Haggerty,5
 Glenn,50085,Attorney General,,REP,Phil Wyman,5
 Glenn,50085,Attorney General,,REP,Ronald Gold,3
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Board of Equalization,2,DEM,Fiona Ma,106
 Glenn,1,Board of Equalization,2,REP,James Theis,273
 Glenn,2,Board of Equalization,2,DEM,Fiona Ma,112
@@ -306,7 +305,6 @@ Glenn,50084,Board of Equalization,2,DEM,Fiona Ma,26
 Glenn,50084,Board of Equalization,2,REP,James Theis,41
 Glenn,50085,Board of Equalization,2,DEM,Fiona Ma,5
 Glenn,50085,Board of Equalization,2,REP,James Theis,13
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Controller,,DEM,Betty Yee,33
 Glenn,1,Controller,,DEM,John Perez,30
 Glenn,1,Controller,,DEM,Tammy Blair,29
@@ -511,7 +509,6 @@ Glenn,50085,Controller,,DEM,Tammy Blair,1
 Glenn,50085,Controller,,GRN,Laura Wells,1
 Glenn,50085,Controller,,REP,Ashley Swearengin,11
 Glenn,50085,Controller,,REP,David Evans,3
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Governor,,DEM,Akinyemi Agbede,1
 Glenn,1,Governor,,DEM,Edmund G. Brown,116
 Glenn,1,Governor,,GRN,Luis Rodriguez,3
@@ -1022,7 +1019,6 @@ Glenn,50085,Governor,,REP,Glenn Champ,0
 Glenn,50085,Governor,,REP,Neel Kashkari,7
 Glenn,50085,Governor,,REP,Richard Aguirre,0
 Glenn,50085,Governor,,REP,Tim Donnelly,6
-county,precinct,office,district,party,candidate,votes
 Glenn,1,U.S. House,3,DEM,John Garamendi,110
 Glenn,1,U.S. House,3,REP,Dan Logue,281
 Glenn,2,U.S. House,3,DEM,John Garamendi,112
@@ -1107,7 +1103,6 @@ Glenn,50084,U.S. House,3,DEM,John Garamendi,28
 Glenn,50084,U.S. House,3,REP,Dan Logue,40
 Glenn,50085,U.S. House,3,DEM,John Garamendi,3
 Glenn,50085,U.S. House,3,REP,Dan Logue,17
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Insurance Commissioner,,DEM,Dave Jones,103
 Glenn,1,Insurance Commissioner,,PAF,Nathalie Hrizi,15
 Glenn,1,Insurance Commissioner,,REP,Ted Gaines,261
@@ -1210,7 +1205,6 @@ Glenn,50084,Insurance Commissioner,,REP,Ted Gaines,43
 Glenn,50085,Insurance Commissioner,,DEM,Dave Jones,4
 Glenn,50085,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Glenn,50085,Insurance Commissioner,,REP,Ted Gaines,15
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Lieutenant Governor,,AME,Alan Reynolds,4
 Glenn,1,Lieutenant Governor,,DEM,Eric Korevaar,21
 Glenn,1,Lieutenant Governor,,DEM,Gavin Newsom,99
@@ -1483,7 +1477,6 @@ Glenn,50085,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,50085,Lieutenant Governor,,REP,David Fennell,4
 Glenn,50085,Lieutenant Governor,,REP,George Yang,2
 Glenn,50085,Lieutenant Governor,,REP,Ron Nehring,9
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Secretary of State,,DEM,Alex Padilla,64
 Glenn,1,Secretary of State,,DEM,Derek Cressman,12
 Glenn,1,Secretary of State,,DEM,Jeffrey Drobman,11
@@ -1756,7 +1749,6 @@ Glenn,50085,Secretary of State,,GRN,David Curtis,0
 Glenn,50085,Secretary of State,,IND,Dan Schnur,4
 Glenn,50085,Secretary of State,,REP,Pete Peterson,6
 Glenn,50085,Secretary of State,,REP,Roy Allmond,4
-county,precinct,office,district,party,candidate,votes
 Glenn,1,State Assembly,3,DEM,Jim Reed,85
 Glenn,1,State Assembly,3,REP,James Gallagher,144
 Glenn,1,State Assembly,3,REP,Ryan Schohr,160
@@ -1859,7 +1851,6 @@ Glenn,50084,State Assembly,3,REP,Ryan Schohr,36
 Glenn,50085,State Assembly,3,DEM,Jim Reed,4
 Glenn,50085,State Assembly,3,REP,James Gallagher,5
 Glenn,50085,State Assembly,3,REP,Ryan Schohr,10
-county,precinct,office,district,party,candidate,votes
 Glenn,1,State Senate,4,DEM,CJ Jawahar,82
 Glenn,1,State Senate,4,REP,Jim Nielsen,306
 Glenn,2,State Senate,4,DEM,CJ Jawahar,89
@@ -1928,7 +1919,6 @@ Glenn,50084,State Senate,4,DEM,CJ Jawahar,26
 Glenn,50084,State Senate,4,REP,Jim Nielsen,42
 Glenn,50085,State Senate,4,DEM,CJ Jawahar,3
 Glenn,50085,State Senate,4,REP,Jim Nielsen,17
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,101
 Glenn,1,Superintendent of Public Instruction,,NOP,Marshall Tuck,139
 Glenn,1,Superintendent of Public Instruction,,NOP,Tom Torlakson,119
@@ -2031,7 +2021,6 @@ Glenn,50084,Superintendent of Public Instruction,,NOP,Tom Torlakson,24
 Glenn,50085,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,4
 Glenn,50085,Superintendent of Public Instruction,,NOP,Marshall Tuck,6
 Glenn,50085,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-county,precinct,office,district,party,candidate,votes
 Glenn,1,Treasurer,,DEM,John Chiang,116
 Glenn,1,Treasurer,,GRN,Ellen Brown,23
 Glenn,1,Treasurer,,REP,Greg Conlon,244

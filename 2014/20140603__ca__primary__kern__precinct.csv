@@ -3107,7 +3107,6 @@ Kern,7053752,Attorney General,,REP,David King,0
 Kern,7053752,Attorney General,,REP,John Haggerty,3
 Kern,7053752,Attorney General,,REP,Phil Wyman,0
 Kern,7053752,Attorney General,,REP,Ronald Gold,2
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Board of Equalization,1,DEM,Chris Parker,87
 Kern,0011155,Board of Equalization,1,REP,George Runner,249
 Kern,0011190,Board of Equalization,1,DEM,Chris Parker,151
@@ -3996,7 +3995,6 @@ Kern,7053190,Board of Equalization,1,DEM,Chris Parker,11
 Kern,7053190,Board of Equalization,1,REP,George Runner,41
 Kern,7053752,Board of Equalization,1,DEM,Chris Parker,1
 Kern,7053752,Board of Equalization,1,REP,George Runner,5
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Controller,,DEM,Betty Yee,30
 Kern,0011155,Controller,,DEM,John Perez,21
 Kern,0011155,Controller,,DEM,Tammy Blair,15
@@ -6661,7 +6659,6 @@ Kern,7053752,Controller,,DEM,Tammy Blair,0
 Kern,7053752,Controller,,GRN,Laura Wells,0
 Kern,7053752,Controller,,REP,Ashley Swearengin,1
 Kern,7053752,Controller,,REP,David Evans,5
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Governor,,DEM,Akinyemi Agbede,6
 Kern,0011155,Governor,,DEM,Edmund G. Brown,77
 Kern,0011155,Governor,,GRN,Luis Rodriguez,2
@@ -13322,7 +13319,6 @@ Kern,7053752,Governor,,REP,Glenn Champ,0
 Kern,7053752,Governor,,REP,Neel Kashkari,2
 Kern,7053752,Governor,,REP,Richard Aguirre,0
 Kern,7053752,Governor,,REP,Tim Donnelly,2
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,U.S. House,23,REP,Kevin McCarthy,280
 Kern,0011190,U.S. House,23,REP,Kevin McCarthy,369
 Kern,0011195,U.S. House,23,REP,Kevin McCarthy,287
@@ -14021,7 +14017,6 @@ Kern,7053190,U.S. House,21,REP,Davdi Valadao,43
 Kern,7053752,U.S. House,21,DEM,Amanda Renteria,0
 Kern,7053752,U.S. House,21,DEM,John Hernandez,0
 Kern,7053752,U.S. House,21,REP,Davdi Valadao,6
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Insurance Commissioner,,DEM,Dave Jones,89
 Kern,0011155,Insurance Commissioner,,PAF,Nathalie Hrizi,20
 Kern,0011155,Insurance Commissioner,,REP,Ted Gaines,233
@@ -15354,7 +15349,6 @@ Kern,7053190,Insurance Commissioner,,REP,Ted Gaines,41
 Kern,7053752,Insurance Commissioner,,DEM,Dave Jones,1
 Kern,7053752,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Kern,7053752,Insurance Commissioner,,REP,Ted Gaines,5
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Lieutenant Governor,,AME,Alan Reynolds,8
 Kern,0011155,Lieutenant Governor,,DEM,Eric Korevaar,14
 Kern,0011155,Lieutenant Governor,,DEM,Gavin Newsom,71
@@ -18907,7 +18901,6 @@ Kern,7053752,Lieutenant Governor,,PAF,Amos Johnson,0
 Kern,7053752,Lieutenant Governor,,REP,David Fennell,1
 Kern,7053752,Lieutenant Governor,,REP,George Yang,3
 Kern,7053752,Lieutenant Governor,,REP,Ron Nehring,2
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Secretary of State,,DEM,Alex Padilla,30
 Kern,0011155,Secretary of State,,DEM,Derek Cressman,17
 Kern,0011155,Secretary of State,,DEM,Jeffrey Drobman,8
@@ -22460,7 +22453,6 @@ Kern,7053752,Secretary of State,,GRN,David Curtis,0
 Kern,7053752,Secretary of State,,IND,Dan Schnur,1
 Kern,7053752,Secretary of State,,REP,Pete Peterson,6
 Kern,7053752,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,State Assembly,26,DEM,Carlton Jones,63
 Kern,0011155,State Assembly,26,DEM,Derek Thomas,6
 Kern,0011155,State Assembly,26,DEM,Ruben Macareno,16
@@ -23645,7 +23637,6 @@ Kern,7053190,State Assembly,32,REP,Romeo Agbalog,21
 Kern,7053752,State Assembly,32,DEM,Rudy Salas,1
 Kern,7053752,State Assembly,32,REP,Pedro Rios,3
 Kern,7053752,State Assembly,32,REP,Romeo Agbalog,2
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,State Senate,16,REP,Jean Fuller,279
 Kern,0011190,State Senate,16,REP,Jean Fuller,360
 Kern,0011195,State Senate,16,REP,Jean Fuller,297
@@ -24204,7 +24195,6 @@ Kern,7053190,State Senate,14,DEM,Luis Chavez,10
 Kern,7053190,State Senate,14,REP,Andy Vidak,43
 Kern,7053752,State Senate,14,DEM,Luis Chavez,0
 Kern,7053752,State Senate,14,REP,Andy Vidak,6
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,59
 Kern,0011155,Superintendent of Public Instruction,,NOP,Marshall Tuck,169
 Kern,0011155,Superintendent of Public Instruction,,NOP,Tom Torlakson,86
@@ -25537,7 +25527,6 @@ Kern,7053190,Superintendent of Public Instruction,,NOP,Tom Torlakson,22
 Kern,7053752,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,0
 Kern,7053752,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Kern,7053752,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-county,precinct,office,district,party,candidate,votes
 Kern,0011155,Treasurer,,DEM,John Chiang,93
 Kern,0011155,Treasurer,,GRN,Ellen Brown,20
 Kern,0011155,Treasurer,,REP,Greg Conlon,222

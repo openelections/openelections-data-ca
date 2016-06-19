@@ -202,7 +202,6 @@ Plumas,29,Attorney General,,REP,David King,33
 Plumas,29,Attorney General,,REP,John Haggerty,45
 Plumas,29,Attorney General,,REP,Phil Wyman,64
 Plumas,29,Attorney General,,REP,Ronald Gold,51
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Board of Equalization,1,DEM,Chris Parker,15
 Plumas,01,Board of Equalization,1,REP,George Runner,75
 Plumas,02,Board of Equalization,1,DEM,Chris Parker,38
@@ -261,7 +260,6 @@ Plumas,28,Board of Equalization,1,DEM,Chris Parker,75
 Plumas,28,Board of Equalization,1,REP,George Runner,175
 Plumas,29,Board of Equalization,1,DEM,Chris Parker,81
 Plumas,29,Board of Equalization,1,REP,George Runner,224
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Controller,,DEM,Betty Yee,6
 Plumas,01,Controller,,DEM,John Perez,3
 Plumas,01,Controller,,DEM,Tammy Blair,3
@@ -436,7 +434,6 @@ Plumas,29,Controller,,DEM,Tammy Blair,10
 Plumas,29,Controller,,GRN,Laura Wells,9
 Plumas,29,Controller,,REP,Ashley Swearengin,46
 Plumas,29,Controller,,REP,David Evans,158
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Governor,,DEM,Akinyemi Agbede,0
 Plumas,01,Governor,,DEM,Edmund G. Brown,16
 Plumas,01,Governor,,GRN,Luis Rodriguez,0
@@ -872,7 +869,6 @@ Plumas,29,Governor,,REP,Glenn Champ,7
 Plumas,29,Governor,,REP,Neel Kashkari,89
 Plumas,29,Governor,,REP,Richard Aguirre,0
 Plumas,29,Governor,,REP,Tim Donnelly,75
-county,precinct,office,district,party,candidate,votes
 Plumas,01,U.S. House,1,DEM,Dan Levine,3
 Plumas,01,U.S. House,1,DEM,Heidi Hall,11
 Plumas,01,U.S. House,1,REP,Doug La Malfa,69
@@ -989,7 +985,6 @@ Plumas,29,U.S. House,1,DEM,Dan Levine,9
 Plumas,29,U.S. House,1,DEM,Heidi Hall,76
 Plumas,29,U.S. House,1,REP,Doug La Malfa,203
 Plumas,29,U.S. House,1,REP,Gregory Cheadle,24
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Insurance Commissioner,,DEM,Dave Jones,13
 Plumas,01,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Plumas,01,Insurance Commissioner,,REP,Ted Gaines,74
@@ -1077,7 +1072,6 @@ Plumas,28,Insurance Commissioner,,REP,Ted Gaines,167
 Plumas,29,Insurance Commissioner,,DEM,Dave Jones,97
 Plumas,29,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Plumas,29,Insurance Commissioner,,REP,Ted Gaines,210
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Lieutenant Governor,,AME,Alan Reynolds,3
 Plumas,01,Lieutenant Governor,,DEM,Eric Korevaar,2
 Plumas,01,Lieutenant Governor,,DEM,Gavin Newsom,15
@@ -1310,7 +1304,6 @@ Plumas,29,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,29,Lieutenant Governor,,REP,David Fennell,40
 Plumas,29,Lieutenant Governor,,REP,George Yang,45
 Plumas,29,Lieutenant Governor,,REP,Ron Nehring,108
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Secretary of State,,DEM,Alex Padilla,8
 Plumas,01,Secretary of State,,DEM,Derek Cressman,1
 Plumas,01,Secretary of State,,DEM,Jeffrey Drobman,1
@@ -1543,7 +1536,6 @@ Plumas,29,Secretary of State,,GRN,David Curtis,1
 Plumas,29,Secretary of State,,IND,Dan Schnur,20
 Plumas,29,Secretary of State,,REP,Pete Peterson,158
 Plumas,29,Secretary of State,,REP,Roy Allmond,37
-county,precinct,office,district,party,candidate,votes
 Plumas,01,State Assembly,1,DEM,Brigham Smith,10
 Plumas,01,State Assembly,1,REP,Brian Dahle,81
 Plumas,02,State Assembly,1,DEM,Brigham Smith,32
@@ -1602,7 +1594,6 @@ Plumas,28,State Assembly,1,DEM,Brigham Smith,58
 Plumas,28,State Assembly,1,REP,Brian Dahle,188
 Plumas,29,State Assembly,1,DEM,Brigham Smith,65
 Plumas,29,State Assembly,1,REP,Brian Dahle,238
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,28
 Plumas,01,Superintendent of Public Instruction,,NOP,Marshall Tuck,27
 Plumas,01,Superintendent of Public Instruction,,NOP,Tom Torlakson,24
@@ -1690,7 +1681,6 @@ Plumas,28,Superintendent of Public Instruction,,NOP,Tom Torlakson,107
 Plumas,29,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,67
 Plumas,29,Superintendent of Public Instruction,,NOP,Marshall Tuck,78
 Plumas,29,Superintendent of Public Instruction,,NOP,Tom Torlakson,135
-county,precinct,office,district,party,candidate,votes
 Plumas,01,Treasurer,,DEM,John Chiang,22
 Plumas,01,Treasurer,,GRN,Ellen Brown,3
 Plumas,01,Treasurer,,REP,Greg Conlon,64

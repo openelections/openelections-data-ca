@@ -881,7 +881,6 @@ Merced,126,Attorney General,,REP,David King,5
 Merced,126,Attorney General,,REP,John Haggerty,5
 Merced,126,Attorney General,,REP,Phil Wyman,13
 Merced,126,Attorney General,,REP,Ronald Gold,10
-county,precinct,office,district,party,candidate,votes
 Merced,1,Board of Equalization,1,DEM,Chris Parker,11
 Merced,1,Board of Equalization,1,REP,George Runner,78
 Merced,2,Board of Equalization,1,DEM,Chris Parker,6
@@ -1134,7 +1133,6 @@ Merced,125,Board of Equalization,1,DEM,Chris Parker,87
 Merced,125,Board of Equalization,1,REP,George Runner,104
 Merced,126,Board of Equalization,1,DEM,Chris Parker,36
 Merced,126,Board of Equalization,1,REP,George Runner,30
-county,precinct,office,district,party,candidate,votes
 Merced,1,Controller,,DEM,Betty Yee,2
 Merced,1,Controller,,DEM,John Perez,4
 Merced,1,Controller,,DEM,Tammy Blair,1
@@ -1891,7 +1889,6 @@ Merced,126,Controller,,DEM,Tammy Blair,4
 Merced,126,Controller,,GRN,Laura Wells,2
 Merced,126,Controller,,REP,Ashley Swearengin,35
 Merced,126,Controller,,REP,David Evans,8
-county,precinct,office,district,party,candidate,votes
 Merced,1,Governor,,DEM,Akinyemi Agbede,0
 Merced,1,Governor,,DEM,Edmund G. Brown,13
 Merced,1,Governor,,GRN,Luis Rodriguez,0
@@ -3782,7 +3779,6 @@ Merced,126,Governor,,REP,Glenn Champ,3
 Merced,126,Governor,,REP,Neel Kashkari,19
 Merced,126,Governor,,REP,Richard Aguirre,2
 Merced,126,Governor,,REP,Tim Donnelly,13
-county,precinct,office,district,party,candidate,votes
 Merced,1,U.S. House,16,DEM,Jim Costa,12
 Merced,1,U.S. House,16,DEM,Job Melton,0
 Merced,1,U.S. House,16,REP,Joanna Garcia-Botelho,6
@@ -4539,7 +4535,6 @@ Merced,126,U.S. House,16,REP,Joanna Garcia-Botelho,2
 Merced,126,U.S. House,16,REP,Johnny Tacherra,25
 Merced,126,U.S. House,16,REP,Mel Levey,1
 Merced,126,U.S. House,16,REP,Steve Crass,13
-county,precinct,office,district,party,candidate,votes
 Merced,1,Insurance Commissioner,,DEM,Dave Jones,11
 Merced,1,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Merced,1,Insurance Commissioner,,REP,Ted Gaines,76
@@ -4918,7 +4913,6 @@ Merced,125,Insurance Commissioner,,REP,Ted Gaines,97
 Merced,126,Insurance Commissioner,,DEM,Dave Jones,35
 Merced,126,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Merced,126,Insurance Commissioner,,REP,Ted Gaines,33
-county,precinct,office,district,party,candidate,votes
 Merced,1,Lieutenant Governor,,AME,Alan Reynolds,2
 Merced,1,Lieutenant Governor,,DEM,Eric Korevaar,0
 Merced,1,Lieutenant Governor,,DEM,Gavin Newsom,13
@@ -5927,7 +5921,6 @@ Merced,126,Lieutenant Governor,,PAF,Amos Johnson,2
 Merced,126,Lieutenant Governor,,REP,David Fennell,12
 Merced,126,Lieutenant Governor,,REP,George Yang,3
 Merced,126,Lieutenant Governor,,REP,Ron Nehring,14
-county,precinct,office,district,party,candidate,votes
 Merced,1,Secretary of State,,DEM,Alex Padilla,5
 Merced,1,Secretary of State,,DEM,Derek Cressman,4
 Merced,1,Secretary of State,,DEM,Jeffrey Drobman,4
@@ -6936,7 +6929,6 @@ Merced,126,Secretary of State,,GRN,David Curtis,1
 Merced,126,Secretary of State,,IND,Dan Schnur,8
 Merced,126,Secretary of State,,REP,Pete Peterson,23
 Merced,126,Secretary of State,,REP,Roy Allmond,6
-county,precinct,office,district,party,candidate,votes
 Merced,1,State Assembly,21,DEM,Adam Gray,42
 Merced,2,State Assembly,21,DEM,Adam Gray,24
 Merced,3,State Assembly,21,DEM,Adam Gray,41
@@ -7063,7 +7055,6 @@ Merced,123,State Assembly,21,DEM,Adam Gray,116
 Merced,124,State Assembly,21,DEM,Adam Gray,67
 Merced,125,State Assembly,21,DEM,Adam Gray,131
 Merced,126,State Assembly,21,DEM,Adam Gray,49
-county,precinct,office,district,party,candidate,votes
 Merced,1,State Senate,12,DEM,Shawn Bagley,12
 Merced,1,State Senate,12,REP,Anthony Cannella,75
 Merced,2,State Senate,12,DEM,Shawn Bagley,7
@@ -7316,7 +7307,6 @@ Merced,125,State Senate,12,DEM,Shawn Bagley,71
 Merced,125,State Senate,12,REP,Anthony Cannella,119
 Merced,126,State Senate,12,DEM,Shawn Bagley,23
 Merced,126,State Senate,12,REP,Anthony Cannella,46
-county,precinct,office,district,party,candidate,votes
 Merced,1,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,9
 Merced,1,Superintendent of Public Instruction,,NOP,Marshall Tuck,25
 Merced,1,Superintendent of Public Instruction,,NOP,Tom Torlakson,35
@@ -7695,7 +7685,6 @@ Merced,125,Superintendent of Public Instruction,,NOP,Tom Torlakson,72
 Merced,126,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,18
 Merced,126,Superintendent of Public Instruction,,NOP,Marshall Tuck,15
 Merced,126,Superintendent of Public Instruction,,NOP,Tom Torlakson,33
-county,precinct,office,district,party,candidate,votes
 Merced,1,Treasurer,,DEM,John Chiang,16
 Merced,1,Treasurer,,GRN,Ellen Brown,2
 Merced,1,Treasurer,,REP,Greg Conlon,68

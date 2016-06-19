@@ -3128,7 +3128,6 @@ Fresno,0001078,Attorney General,,REP,David King,4
 Fresno,0001078,Attorney General,,REP,John Haggerty,2
 Fresno,0001078,Attorney General,,REP,Phil Wyman,21
 Fresno,0001078,Attorney General,,REP,Ronald Gold,5
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Board of Equalization,1,DEM,Chris Parker,97
 Fresno,0000001,Board of Equalization,1,REP,George Runner,52
 Fresno,0000002,Board of Equalization,1,DEM,Chris Parker,108
@@ -4023,7 +4022,6 @@ Fresno,0001077,Board of Equalization,1,DEM,Chris Parker,0
 Fresno,0001077,Board of Equalization,1,REP,George Runner,0
 Fresno,0001078,Board of Equalization,1,DEM,Chris Parker,15
 Fresno,0001078,Board of Equalization,1,REP,George Runner,40
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Controller,,DEM,Betty Yee,11
 Fresno,0000001,Controller,,DEM,John Perez,77
 Fresno,0000001,Controller,,DEM,Tammy Blair,10
@@ -6706,7 +6704,6 @@ Fresno,0001078,Controller,,DEM,Tammy Blair,0
 Fresno,0001078,Controller,,GRN,Laura Wells,1
 Fresno,0001078,Controller,,REP,Ashley Swearengin,26
 Fresno,0001078,Controller,,REP,David Evans,9
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Governor,,DEM,Akinyemi Agbede,8
 Fresno,0000001,Governor,,DEM,Edmund G. Brown,98
 Fresno,0000001,Governor,,GRN,Luis Rodriguez,12
@@ -13412,7 +13409,6 @@ Fresno,0001078,Governor,,REP,Glenn Champ,0
 Fresno,0001078,Governor,,REP,Neel Kashkari,18
 Fresno,0001078,Governor,,REP,Richard Aguirre,1
 Fresno,0001078,Governor,,REP,Tim Donnelly,12
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,U.S. House,21,DEM,Amanda Renteria,63
 Fresno,0000001,U.S. House,21,DEM,John Hernandez,32
 Fresno,0000001,U.S. House,21,REP,Davdi Valadao,54
@@ -15171,7 +15167,6 @@ Fresno,0001078,U.S. House,16,REP,Joanna Garcia-Botelho,6
 Fresno,0001078,U.S. House,16,REP,Johnny Tacherra,16
 Fresno,0001078,U.S. House,16,REP,Mel Levey,8
 Fresno,0001078,U.S. House,16,REP,Steve Crass,5
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Insurance Commissioner,,DEM,Dave Jones,106
 Fresno,0000001,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Fresno,0000001,Insurance Commissioner,,REP,Ted Gaines,36
@@ -16513,7 +16508,6 @@ Fresno,0001077,Insurance Commissioner,,REP,Ted Gaines,0
 Fresno,0001078,Insurance Commissioner,,DEM,Dave Jones,19
 Fresno,0001078,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Fresno,0001078,Insurance Commissioner,,REP,Ted Gaines,36
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Lieutenant Governor,,AME,Alan Reynolds,2
 Fresno,0000001,Lieutenant Governor,,DEM,Eric Korevaar,27
 Fresno,0000001,Lieutenant Governor,,DEM,Gavin Newsom,74
@@ -20090,7 +20084,6 @@ Fresno,0001078,Lieutenant Governor,,PAF,Amos Johnson,0
 Fresno,0001078,Lieutenant Governor,,REP,David Fennell,4
 Fresno,0001078,Lieutenant Governor,,REP,George Yang,5
 Fresno,0001078,Lieutenant Governor,,REP,Ron Nehring,22
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Secretary of State,,DEM,Alex Padilla,82
 Fresno,0000001,Secretary of State,,DEM,Derek Cressman,10
 Fresno,0000001,Secretary of State,,DEM,Jeffrey Drobman,7
@@ -23667,7 +23660,6 @@ Fresno,0001078,Secretary of State,,GRN,David Curtis,0
 Fresno,0001078,Secretary of State,,IND,Dan Schnur,2
 Fresno,0001078,Secretary of State,,REP,Pete Peterson,21
 Fresno,0001078,Secretary of State,,REP,Roy Allmond,9
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,State Assembly,31,DEM,Henry Perea,127
 Fresno,0000002,State Assembly,31,DEM,Henry Perea,182
 Fresno,0000003,State Assembly,31,DEM,Henry Perea,117
@@ -24115,7 +24107,6 @@ Fresno,0001075,State Assembly,31,DEM,Henry Perea,0
 Fresno,0001076,State Assembly,31,DEM,Henry Perea,22
 Fresno,0001077,State Assembly,31,DEM,Henry Perea,0
 Fresno,0001078,State Assembly,23,REP,Jim Patterson,47
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,State Senate,12,DEM,Shawn Bagley,81
 Fresno,0000001,State Senate,12,REP,Anthony Cannella,70
 Fresno,0000002,State Senate,12,DEM,Shawn Bagley,96
@@ -25010,7 +25001,6 @@ Fresno,0001077,State Senate,14,DEM,Luis Chavez,0
 Fresno,0001077,State Senate,14,REP,Andy Vidak,0
 Fresno,0001078,State Senate,8,DEM,Paulina Miranda,19
 Fresno,0001078,State Senate,8,REP,Tom Berryhill,36
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,72
 Fresno,0000001,Superintendent of Public Instruction,,NOP,Marshall Tuck,17
 Fresno,0000001,Superintendent of Public Instruction,,NOP,Tom Torlakson,58
@@ -26352,7 +26342,6 @@ Fresno,0001077,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
 Fresno,0001078,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,14
 Fresno,0001078,Superintendent of Public Instruction,,NOP,Marshall Tuck,16
 Fresno,0001078,Superintendent of Public Instruction,,NOP,Tom Torlakson,21
-county,precinct,office,district,party,candidate,votes
 Fresno,0000001,Treasurer,,DEM,John Chiang,109
 Fresno,0000001,Treasurer,,GRN,Ellen Brown,6
 Fresno,0000001,Treasurer,,REP,Greg Conlon,34

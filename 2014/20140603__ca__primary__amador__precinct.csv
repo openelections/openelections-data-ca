@@ -412,7 +412,6 @@ Amador,CP83,Attorney General,,REP,David King,0
 Amador,CP83,Attorney General,,REP,John Haggerty,0
 Amador,CP83,Attorney General,,REP,Phil Wyman,2
 Amador,CP83,Attorney General,,REP,Ronald Gold,3
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Board of Equalization,1,DEM,Chris Parker,101
 Amador,AV101,Board of Equalization,1,REP,George Runner,143
 Amador,AV102,Board of Equalization,1,DEM,Chris Parker,88
@@ -531,7 +530,6 @@ Amador,CP30,Board of Equalization,1,DEM,Chris Parker,19
 Amador,CP30,Board of Equalization,1,REP,George Runner,56
 Amador,CP83,Board of Equalization,1,DEM,Chris Parker,9
 Amador,CP83,Board of Equalization,1,REP,George Runner,9
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Controller,,DEM,Betty Yee,64
 Amador,AV101,Controller,,DEM,John Perez,21
 Amador,AV101,Controller,,DEM,Tammy Blair,13
@@ -886,7 +884,6 @@ Amador,CP83,Controller,,DEM,Tammy Blair,0
 Amador,CP83,Controller,,GRN,Laura Wells,2
 Amador,CP83,Controller,,REP,Ashley Swearengin,2
 Amador,CP83,Controller,,REP,David Evans,6
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Governor,,DEM,Akinyemi Agbede,2
 Amador,AV101,Governor,,DEM,Edmund G. Brown,130
 Amador,AV101,Governor,,GRN,Luis Rodriguez,1
@@ -1772,7 +1769,6 @@ Amador,CP83,Governor,,REP,Glenn Champ,2
 Amador,CP83,Governor,,REP,Neel Kashkari,5
 Amador,CP83,Governor,,REP,Richard Aguirre,0
 Amador,CP83,Governor,,REP,Tim Donnelly,0
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,U.S. House,4,IND,Jeffrey Gerlach,49
 Amador,AV101,U.S. House,4,REP,Arthur Moore,64
 Amador,AV101,U.S. House,4,REP,Tom McClintock,135
@@ -1950,7 +1946,6 @@ Amador,CP30,U.S. House,4,REP,Tom McClintock,54
 Amador,CP83,U.S. House,4,IND,Jeffrey Gerlach,6
 Amador,CP83,U.S. House,4,REP,Arthur Moore,4
 Amador,CP83,U.S. House,4,REP,Tom McClintock,10
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Insurance Commissioner,,DEM,Dave Jones,104
 Amador,AV101,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Amador,AV101,Insurance Commissioner,,REP,Ted Gaines,131
@@ -2128,7 +2123,6 @@ Amador,CP30,Insurance Commissioner,,REP,Ted Gaines,55
 Amador,CP83,Insurance Commissioner,,DEM,Dave Jones,10
 Amador,CP83,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Amador,CP83,Insurance Commissioner,,REP,Ted Gaines,8
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Lieutenant Governor,,AME,Alan Reynolds,4
 Amador,AV101,Lieutenant Governor,,DEM,Eric Korevaar,11
 Amador,AV101,Lieutenant Governor,,DEM,Gavin Newsom,106
@@ -2601,7 +2595,6 @@ Amador,CP83,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP83,Lieutenant Governor,,REP,David Fennell,2
 Amador,CP83,Lieutenant Governor,,REP,George Yang,2
 Amador,CP83,Lieutenant Governor,,REP,Ron Nehring,4
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Secretary of State,,DEM,Alex Padilla,50
 Amador,AV101,Secretary of State,,DEM,Derek Cressman,12
 Amador,AV101,Secretary of State,,DEM,Jeffrey Drobman,12
@@ -3074,7 +3067,6 @@ Amador,CP83,Secretary of State,,GRN,David Curtis,3
 Amador,CP83,Secretary of State,,IND,Dan Schnur,1
 Amador,CP83,Secretary of State,,REP,Pete Peterson,7
 Amador,CP83,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,State Assembly,5,REP,Frank Bigelow,192
 Amador,AV102,State Assembly,5,REP,Frank Bigelow,188
 Amador,AV103,State Assembly,5,REP,Frank Bigelow,146
@@ -3134,7 +3126,6 @@ Amador,CP28,State Assembly,5,REP,Frank Bigelow,83
 Amador,CP29,State Assembly,5,REP,Frank Bigelow,56
 Amador,CP30,State Assembly,5,REP,Frank Bigelow,60
 Amador,CP83,State Assembly,5,REP,Frank Bigelow,10
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,State Senate,8,DEM,Paulina Miranda,96
 Amador,AV101,State Senate,8,REP,Tom Berryhill,156
 Amador,AV102,State Senate,8,DEM,Paulina Miranda,82
@@ -3253,7 +3244,6 @@ Amador,CP30,State Senate,8,DEM,Paulina Miranda,16
 Amador,CP30,State Senate,8,REP,Tom Berryhill,62
 Amador,CP83,State Senate,8,DEM,Paulina Miranda,10
 Amador,CP83,State Senate,8,REP,Tom Berryhill,10
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,59
 Amador,AV101,Superintendent of Public Instruction,,NOP,Marshall Tuck,62
 Amador,AV101,Superintendent of Public Instruction,,NOP,Tom Torlakson,96
@@ -3431,7 +3421,6 @@ Amador,CP30,Superintendent of Public Instruction,,NOP,Tom Torlakson,19
 Amador,CP83,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,7
 Amador,CP83,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Amador,CP83,Superintendent of Public Instruction,,NOP,Tom Torlakson,9
-county,precinct,office,district,party,candidate,votes
 Amador,AV101,Treasurer,,DEM,John Chiang,134
 Amador,AV101,Treasurer,,GRN,Ellen Brown,9
 Amador,AV101,Treasurer,,REP,Greg Conlon,108

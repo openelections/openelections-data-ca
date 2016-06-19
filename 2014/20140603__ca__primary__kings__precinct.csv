@@ -1161,7 +1161,6 @@ Kings,1538,Attorney General,,REP,David King,0
 Kings,1538,Attorney General,,REP,John Haggerty,0
 Kings,1538,Attorney General,,REP,Phil Wyman,0
 Kings,1538,Attorney General,,REP,Ronald Gold,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Board of Equalization,1,DEM,Chris Parker,115
 Kings,101,Board of Equalization,1,REP,George Runner,324
 Kings,102,Board of Equalization,1,DEM,Chris Parker,68
@@ -1494,7 +1493,6 @@ Kings,1537,Board of Equalization,1,DEM,Chris Parker,12
 Kings,1537,Board of Equalization,1,REP,George Runner,41
 Kings,1538,Board of Equalization,1,DEM,Chris Parker,0
 Kings,1538,Board of Equalization,1,REP,George Runner,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Controller,,DEM,Betty Yee,22
 Kings,101,Controller,,DEM,John Perez,45
 Kings,101,Controller,,DEM,Tammy Blair,20
@@ -2491,7 +2489,6 @@ Kings,1538,Controller,,DEM,Tammy Blair,0
 Kings,1538,Controller,,GRN,Laura Wells,0
 Kings,1538,Controller,,REP,Ashley Swearengin,0
 Kings,1538,Controller,,REP,David Evans,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Governor,,DEM,Akinyemi Agbede,1
 Kings,101,Governor,,DEM,Edmund G. Brown,141
 Kings,101,Governor,,GRN,Luis Rodriguez,5
@@ -4982,7 +4979,6 @@ Kings,1538,Governor,,REP,Glenn Champ,0
 Kings,1538,Governor,,REP,Neel Kashkari,0
 Kings,1538,Governor,,REP,Richard Aguirre,0
 Kings,1538,Governor,,REP,Tim Donnelly,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,U.S. House,21,DEM,Amanda Renteria,66
 Kings,101,U.S. House,21,DEM,John Hernandez,30
 Kings,101,U.S. House,21,REP,Davdi Valadao,364
@@ -5481,7 +5477,6 @@ Kings,1537,U.S. House,21,REP,Davdi Valadao,48
 Kings,1538,U.S. House,21,DEM,Amanda Renteria,0
 Kings,1538,U.S. House,21,DEM,John Hernandez,0
 Kings,1538,U.S. House,21,REP,Davdi Valadao,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Insurance Commissioner,,DEM,Dave Jones,134
 Kings,101,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Kings,101,Insurance Commissioner,,REP,Ted Gaines,299
@@ -5980,7 +5975,6 @@ Kings,1537,Insurance Commissioner,,REP,Ted Gaines,40
 Kings,1538,Insurance Commissioner,,DEM,Dave Jones,0
 Kings,1538,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Kings,1538,Insurance Commissioner,,REP,Ted Gaines,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Lieutenant Governor,,AME,Alan Reynolds,14
 Kings,101,Lieutenant Governor,,DEM,Eric Korevaar,28
 Kings,101,Lieutenant Governor,,DEM,Gavin Newsom,94
@@ -7309,7 +7303,6 @@ Kings,1538,Lieutenant Governor,,PAF,Amos Johnson,0
 Kings,1538,Lieutenant Governor,,REP,David Fennell,0
 Kings,1538,Lieutenant Governor,,REP,George Yang,0
 Kings,1538,Lieutenant Governor,,REP,Ron Nehring,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Secretary of State,,DEM,Alex Padilla,57
 Kings,101,Secretary of State,,DEM,Derek Cressman,18
 Kings,101,Secretary of State,,DEM,Jeffrey Drobman,12
@@ -8638,7 +8631,6 @@ Kings,1538,Secretary of State,,GRN,David Curtis,0
 Kings,1538,Secretary of State,,IND,Dan Schnur,0
 Kings,1538,Secretary of State,,REP,Pete Peterson,0
 Kings,1538,Secretary of State,,REP,Roy Allmond,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,State Assembly,32,DEM,Rudy Salas,138
 Kings,101,State Assembly,32,REP,Pedro Rios,193
 Kings,101,State Assembly,32,REP,Romeo Agbalog,117
@@ -9137,7 +9129,6 @@ Kings,1537,State Assembly,32,REP,Romeo Agbalog,10
 Kings,1538,State Assembly,32,DEM,Rudy Salas,0
 Kings,1538,State Assembly,32,REP,Pedro Rios,0
 Kings,1538,State Assembly,32,REP,Romeo Agbalog,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,State Senate,14,DEM,Luis Chavez,81
 Kings,101,State Senate,14,REP,Andy Vidak,381
 Kings,102,State Senate,14,DEM,Luis Chavez,65
@@ -9470,7 +9461,6 @@ Kings,1537,State Senate,14,DEM,Luis Chavez,6
 Kings,1537,State Senate,14,REP,Andy Vidak,51
 Kings,1538,State Senate,14,DEM,Luis Chavez,0
 Kings,1538,State Senate,14,REP,Andy Vidak,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,122
 Kings,101,Superintendent of Public Instruction,,NOP,Marshall Tuck,129
 Kings,101,Superintendent of Public Instruction,,NOP,Tom Torlakson,168
@@ -9969,7 +9959,6 @@ Kings,1537,Superintendent of Public Instruction,,NOP,Tom Torlakson,17
 Kings,1538,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,0
 Kings,1538,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Kings,1538,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-county,precinct,office,district,party,candidate,votes
 Kings,101,Treasurer,,DEM,John Chiang,155
 Kings,101,Treasurer,,GRN,Ellen Brown,17
 Kings,101,Treasurer,,REP,Greg Conlon,271

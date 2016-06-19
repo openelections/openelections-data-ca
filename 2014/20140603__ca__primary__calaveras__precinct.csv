@@ -209,7 +209,6 @@ Calaveras,570,Attorney General,,REP,David King,19
 Calaveras,570,Attorney General,,REP,John Haggerty,94
 Calaveras,570,Attorney General,,REP,Phil Wyman,52
 Calaveras,570,Attorney General,,REP,Ronald Gold,61
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Board of Equalization,1,DEM,Chris Parker,126
 Calaveras,110,Board of Equalization,1,REP,George Runner,202
 Calaveras,120,Board of Equalization,1,DEM,Chris Parker,169
@@ -270,7 +269,6 @@ Calaveras,560,Board of Equalization,1,DEM,Chris Parker,136
 Calaveras,560,Board of Equalization,1,REP,George Runner,267
 Calaveras,570,Board of Equalization,1,DEM,Chris Parker,114
 Calaveras,570,Board of Equalization,1,REP,George Runner,248
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Controller,,DEM,Betty Yee,58
 Calaveras,110,Controller,,DEM,John Perez,51
 Calaveras,110,Controller,,DEM,Tammy Blair,15
@@ -451,7 +449,6 @@ Calaveras,570,Controller,,DEM,Tammy Blair,12
 Calaveras,570,Controller,,GRN,Laura Wells,22
 Calaveras,570,Controller,,REP,Ashley Swearengin,99
 Calaveras,570,Controller,,REP,David Evans,135
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Governor,,DEM,Akinyemi Agbede,4
 Calaveras,110,Governor,,DEM,Edmund G. Brown,161
 Calaveras,110,Governor,,GRN,Luis Rodriguez,6
@@ -902,7 +899,6 @@ Calaveras,570,Governor,,REP,Glenn Champ,10
 Calaveras,570,Governor,,REP,Neel Kashkari,90
 Calaveras,570,Governor,,REP,Richard Aguirre,1
 Calaveras,570,Governor,,REP,Tim Donnelly,106
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,U.S. House,4,IND,Jeffrey Gerlach,72
 Calaveras,110,U.S. House,4,REP,Arthur Moore,71
 Calaveras,110,U.S. House,4,REP,Tom McClintock,198
@@ -993,7 +989,6 @@ Calaveras,560,U.S. House,4,REP,Tom McClintock,247
 Calaveras,570,U.S. House,4,IND,Jeffrey Gerlach,70
 Calaveras,570,U.S. House,4,REP,Arthur Moore,65
 Calaveras,570,U.S. House,4,REP,Tom McClintock,230
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Insurance Commissioner,,DEM,Dave Jones,141
 Calaveras,110,Insurance Commissioner,,PAF,Nathalie Hrizi,25
 Calaveras,110,Insurance Commissioner,,REP,Ted Gaines,178
@@ -1084,7 +1079,6 @@ Calaveras,560,Insurance Commissioner,,REP,Ted Gaines,247
 Calaveras,570,Insurance Commissioner,,DEM,Dave Jones,113
 Calaveras,570,Insurance Commissioner,,PAF,Nathalie Hrizi,23
 Calaveras,570,Insurance Commissioner,,REP,Ted Gaines,234
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Lieutenant Governor,,AME,Alan Reynolds,10
 Calaveras,110,Lieutenant Governor,,DEM,Eric Korevaar,19
 Calaveras,110,Lieutenant Governor,,DEM,Gavin Newsom,129
@@ -1325,7 +1319,6 @@ Calaveras,570,Lieutenant Governor,,PAF,Amos Johnson,5
 Calaveras,570,Lieutenant Governor,,REP,David Fennell,35
 Calaveras,570,Lieutenant Governor,,REP,George Yang,31
 Calaveras,570,Lieutenant Governor,,REP,Ron Nehring,149
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Secretary of State,,DEM,Alex Padilla,76
 Calaveras,110,Secretary of State,,DEM,Derek Cressman,16
 Calaveras,110,Secretary of State,,DEM,Jeffrey Drobman,13
@@ -1566,7 +1559,6 @@ Calaveras,570,Secretary of State,,GRN,David Curtis,13
 Calaveras,570,Secretary of State,,IND,Dan Schnur,36
 Calaveras,570,Secretary of State,,REP,Pete Peterson,153
 Calaveras,570,Secretary of State,,REP,Roy Allmond,46
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,State Assembly,5,REP,Frank Bigelow,263
 Calaveras,120,State Assembly,5,REP,Frank Bigelow,387
 Calaveras,140,State Assembly,5,REP,Frank Bigelow,267
@@ -1597,7 +1589,6 @@ Calaveras,540,State Assembly,5,REP,Frank Bigelow,314
 Calaveras,550,State Assembly,5,REP,Frank Bigelow,393
 Calaveras,560,State Assembly,5,REP,Frank Bigelow,319
 Calaveras,570,State Assembly,5,REP,Frank Bigelow,296
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,State Senate,8,DEM,Paulina Miranda,129
 Calaveras,110,State Senate,8,REP,Tom Berryhill,222
 Calaveras,120,State Senate,8,DEM,Paulina Miranda,157
@@ -1658,7 +1649,6 @@ Calaveras,560,State Senate,8,DEM,Paulina Miranda,138
 Calaveras,560,State Senate,8,REP,Tom Berryhill,281
 Calaveras,570,State Senate,8,DEM,Paulina Miranda,111
 Calaveras,570,State Senate,8,REP,Tom Berryhill,258
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,89
 Calaveras,110,Superintendent of Public Instruction,,NOP,Marshall Tuck,78
 Calaveras,110,Superintendent of Public Instruction,,NOP,Tom Torlakson,140
@@ -1749,7 +1739,6 @@ Calaveras,560,Superintendent of Public Instruction,,NOP,Tom Torlakson,150
 Calaveras,570,Superintendent of Public Instruction,,NOP,Lydia Gutierrez,95
 Calaveras,570,Superintendent of Public Instruction,,NOP,Marshall Tuck,89
 Calaveras,570,Superintendent of Public Instruction,,NOP,Tom Torlakson,155
-county,precinct,office,district,party,candidate,votes
 Calaveras,110,Treasurer,,DEM,John Chiang,164
 Calaveras,110,Treasurer,,GRN,Ellen Brown,38
 Calaveras,110,Treasurer,,REP,Greg Conlon,149
