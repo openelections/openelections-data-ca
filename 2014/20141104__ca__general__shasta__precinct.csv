@@ -1,0 +1,2927 @@
+county,precinct,office,district,party,candidate,votes
+Shasta,0010,Attorney General,,DEM,Kamala D. Harris,23
+Shasta,0010,Attorney General,,REP,Ronald Gold,54
+Shasta,0012,Attorney General,,DEM,Kamala D. Harris,45
+Shasta,0012,Attorney General,,REP,Ronald Gold,90
+Shasta,0015,Attorney General,,DEM,Kamala D. Harris,168
+Shasta,0015,Attorney General,,REP,Ronald Gold,273
+Shasta,0020,Attorney General,,DEM,Kamala D. Harris,201
+Shasta,0020,Attorney General,,REP,Ronald Gold,310
+Shasta,0030,Attorney General,,DEM,Kamala D. Harris,126
+Shasta,0030,Attorney General,,REP,Ronald Gold,342
+Shasta,034,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,034,Attorney General,,REP,Ronald Gold,0
+Shasta,0050,Attorney General,,DEM,Kamala D. Harris,95
+Shasta,0050,Attorney General,,REP,Ronald Gold,176
+Shasta,0060,Attorney General,,DEM,Kamala D. Harris,169
+Shasta,0060,Attorney General,,REP,Ronald Gold,219
+Shasta,0068,Attorney General,,DEM,Kamala D. Harris,269
+Shasta,0068,Attorney General,,REP,Ronald Gold,447
+Shasta,0070,Attorney General,,DEM,Kamala D. Harris,122
+Shasta,0070,Attorney General,,REP,Ronald Gold,227
+Shasta,0080,Attorney General,,DEM,Kamala D. Harris,143
+Shasta,0080,Attorney General,,REP,Ronald Gold,402
+Shasta,0081,Attorney General,,DEM,Kamala D. Harris,41
+Shasta,0081,Attorney General,,REP,Ronald Gold,55
+Shasta,0082,Attorney General,,DEM,Kamala D. Harris,7
+Shasta,0082,Attorney General,,REP,Ronald Gold,21
+Shasta,0090,Attorney General,,DEM,Kamala D. Harris,2
+Shasta,0090,Attorney General,,REP,Ronald Gold,6
+Shasta,0091,Attorney General,,DEM,Kamala D. Harris,193
+Shasta,0091,Attorney General,,REP,Ronald Gold,368
+Shasta,0093,Attorney General,,DEM,Kamala D. Harris,21
+Shasta,0093,Attorney General,,REP,Ronald Gold,45
+Shasta,0101,Attorney General,,DEM,Kamala D. Harris,150
+Shasta,0101,Attorney General,,REP,Ronald Gold,358
+Shasta,0102,Attorney General,,DEM,Kamala D. Harris,174
+Shasta,0102,Attorney General,,REP,Ronald Gold,433
+Shasta,0110,Attorney General,,DEM,Kamala D. Harris,36
+Shasta,0110,Attorney General,,REP,Ronald Gold,78
+Shasta,0112,Attorney General,,DEM,Kamala D. Harris,236
+Shasta,0112,Attorney General,,REP,Ronald Gold,609
+Shasta,0114,Attorney General,,DEM,Kamala D. Harris,46
+Shasta,0114,Attorney General,,REP,Ronald Gold,79
+Shasta,0120,Attorney General,,DEM,Kamala D. Harris,284
+Shasta,0120,Attorney General,,REP,Ronald Gold,328
+Shasta,0130,Attorney General,,DEM,Kamala D. Harris,9
+Shasta,0130,Attorney General,,REP,Ronald Gold,22
+Shasta,0140,Attorney General,,DEM,Kamala D. Harris,213
+Shasta,0140,Attorney General,,REP,Ronald Gold,288
+Shasta,0150,Attorney General,,DEM,Kamala D. Harris,52
+Shasta,0150,Attorney General,,REP,Ronald Gold,76
+Shasta,0160,Attorney General,,DEM,Kamala D. Harris,225
+Shasta,0160,Attorney General,,REP,Ronald Gold,424
+Shasta,0170,Attorney General,,DEM,Kamala D. Harris,195
+Shasta,0170,Attorney General,,REP,Ronald Gold,389
+Shasta,0175,Attorney General,,DEM,Kamala D. Harris,203
+Shasta,0175,Attorney General,,REP,Ronald Gold,384
+Shasta,0201,Attorney General,,DEM,Kamala D. Harris,162
+Shasta,0201,Attorney General,,REP,Ronald Gold,312
+Shasta,0202,Attorney General,,DEM,Kamala D. Harris,108
+Shasta,0202,Attorney General,,REP,Ronald Gold,225
+Shasta,0210,Attorney General,,DEM,Kamala D. Harris,263
+Shasta,0210,Attorney General,,REP,Ronald Gold,598
+Shasta,0240,Attorney General,,DEM,Kamala D. Harris,39
+Shasta,0240,Attorney General,,REP,Ronald Gold,49
+Shasta,0260,Attorney General,,DEM,Kamala D. Harris,179
+Shasta,0260,Attorney General,,REP,Ronald Gold,352
+Shasta,0261,Attorney General,,DEM,Kamala D. Harris,214
+Shasta,0261,Attorney General,,REP,Ronald Gold,448
+Shasta,0262,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,0262,Attorney General,,REP,Ronald Gold,0
+Shasta,0264,Attorney General,,DEM,Kamala D. Harris,4
+Shasta,0264,Attorney General,,REP,Ronald Gold,13
+Shasta,0270,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,0270,Attorney General,,REP,Ronald Gold,4
+Shasta,0310,Attorney General,,DEM,Kamala D. Harris,116
+Shasta,0310,Attorney General,,REP,Ronald Gold,285
+Shasta,0311,Attorney General,,DEM,Kamala D. Harris,301
+Shasta,0311,Attorney General,,REP,Ronald Gold,663
+Shasta,0313,Attorney General,,DEM,Kamala D. Harris,18
+Shasta,0313,Attorney General,,REP,Ronald Gold,56
+Shasta,0320,Attorney General,,DEM,Kamala D. Harris,260
+Shasta,0320,Attorney General,,REP,Ronald Gold,653
+Shasta,0322,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,0322,Attorney General,,REP,Ronald Gold,12
+Shasta,0330,Attorney General,,DEM,Kamala D. Harris,241
+Shasta,0330,Attorney General,,REP,Ronald Gold,400
+Shasta,0340,Attorney General,,DEM,Kamala D. Harris,226
+Shasta,0340,Attorney General,,REP,Ronald Gold,553
+Shasta,0343,Attorney General,,DEM,Kamala D. Harris,366
+Shasta,0343,Attorney General,,REP,Ronald Gold,579
+Shasta,0350,Attorney General,,DEM,Kamala D. Harris,224
+Shasta,0350,Attorney General,,REP,Ronald Gold,554
+Shasta,0360,Attorney General,,DEM,Kamala D. Harris,179
+Shasta,0360,Attorney General,,REP,Ronald Gold,252
+Shasta,0370,Attorney General,,DEM,Kamala D. Harris,131
+Shasta,0370,Attorney General,,REP,Ronald Gold,260
+Shasta,0371,Attorney General,,DEM,Kamala D. Harris,272
+Shasta,0371,Attorney General,,REP,Ronald Gold,570
+Shasta,0375,Attorney General,,DEM,Kamala D. Harris,173
+Shasta,0375,Attorney General,,REP,Ronald Gold,425
+Shasta,0380,Attorney General,,DEM,Kamala D. Harris,52
+Shasta,0380,Attorney General,,REP,Ronald Gold,26
+Shasta,0390,Attorney General,,DEM,Kamala D. Harris,133
+Shasta,0390,Attorney General,,REP,Ronald Gold,181
+Shasta,0400,Attorney General,,DEM,Kamala D. Harris,172
+Shasta,0400,Attorney General,,REP,Ronald Gold,211
+Shasta,0410,Attorney General,,DEM,Kamala D. Harris,92
+Shasta,0410,Attorney General,,REP,Ronald Gold,168
+Shasta,0420,Attorney General,,DEM,Kamala D. Harris,128
+Shasta,0420,Attorney General,,REP,Ronald Gold,252
+Shasta,0430,Attorney General,,DEM,Kamala D. Harris,249
+Shasta,0430,Attorney General,,REP,Ronald Gold,373
+Shasta,0441,Attorney General,,DEM,Kamala D. Harris,256
+Shasta,0441,Attorney General,,REP,Ronald Gold,503
+Shasta,0443,Attorney General,,DEM,Kamala D. Harris,185
+Shasta,0443,Attorney General,,REP,Ronald Gold,390
+Shasta,0445,Attorney General,,DEM,Kamala D. Harris,184
+Shasta,0445,Attorney General,,REP,Ronald Gold,354
+Shasta,0450,Attorney General,,DEM,Kamala D. Harris,207
+Shasta,0450,Attorney General,,REP,Ronald Gold,441
+Shasta,0462,Attorney General,,DEM,Kamala D. Harris,19
+Shasta,0462,Attorney General,,REP,Ronald Gold,46
+Shasta,0464,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,0464,Attorney General,,REP,Ronald Gold,4
+Shasta,0466,Attorney General,,DEM,Kamala D. Harris,5
+Shasta,0466,Attorney General,,REP,Ronald Gold,19
+Shasta,0468,Attorney General,,DEM,Kamala D. Harris,43
+Shasta,0468,Attorney General,,REP,Ronald Gold,92
+Shasta,0490,Attorney General,,DEM,Kamala D. Harris,66
+Shasta,0490,Attorney General,,REP,Ronald Gold,98
+Shasta,0500,Attorney General,,DEM,Kamala D. Harris,282
+Shasta,0500,Attorney General,,REP,Ronald Gold,633
+Shasta,0510,Attorney General,,DEM,Kamala D. Harris,51
+Shasta,0510,Attorney General,,REP,Ronald Gold,67
+Shasta,0520,Attorney General,,DEM,Kamala D. Harris,87
+Shasta,0520,Attorney General,,REP,Ronald Gold,231
+Shasta,0523,Attorney General,,DEM,Kamala D. Harris,136
+Shasta,0523,Attorney General,,REP,Ronald Gold,264
+Shasta,0530,Attorney General,,DEM,Kamala D. Harris,37
+Shasta,0530,Attorney General,,REP,Ronald Gold,68
+Shasta,0531,Attorney General,,DEM,Kamala D. Harris,76
+Shasta,0531,Attorney General,,REP,Ronald Gold,87
+Shasta,0532,Attorney General,,DEM,Kamala D. Harris,13
+Shasta,0532,Attorney General,,REP,Ronald Gold,28
+Shasta,0555,Attorney General,,DEM,Kamala D. Harris,91
+Shasta,0555,Attorney General,,REP,Ronald Gold,174
+Shasta,0557,Attorney General,,DEM,Kamala D. Harris,99
+Shasta,0557,Attorney General,,REP,Ronald Gold,169
+Shasta,0560,Attorney General,,DEM,Kamala D. Harris,132
+Shasta,0560,Attorney General,,REP,Ronald Gold,422
+Shasta,0561,Attorney General,,DEM,Kamala D. Harris,185
+Shasta,0561,Attorney General,,REP,Ronald Gold,462
+Shasta,0570,Attorney General,,DEM,Kamala D. Harris,392
+Shasta,0570,Attorney General,,REP,Ronald Gold,578
+Shasta,0575,Attorney General,,DEM,Kamala D. Harris,287
+Shasta,0575,Attorney General,,REP,Ronald Gold,468
+Shasta,0590,Attorney General,,DEM,Kamala D. Harris,189
+Shasta,0590,Attorney General,,REP,Ronald Gold,517
+Shasta,0595,Attorney General,,DEM,Kamala D. Harris,180
+Shasta,0595,Attorney General,,REP,Ronald Gold,335
+Shasta,0597,Attorney General,,DEM,Kamala D. Harris,127
+Shasta,0597,Attorney General,,REP,Ronald Gold,224
+Shasta,0610,Attorney General,,DEM,Kamala D. Harris,107
+Shasta,0610,Attorney General,,REP,Ronald Gold,157
+Shasta,0611,Attorney General,,DEM,Kamala D. Harris,212
+Shasta,0611,Attorney General,,REP,Ronald Gold,595
+Shasta,0620,Attorney General,,DEM,Kamala D. Harris,198
+Shasta,0620,Attorney General,,REP,Ronald Gold,417
+Shasta,0630,Attorney General,,DEM,Kamala D. Harris,26
+Shasta,0630,Attorney General,,REP,Ronald Gold,47
+Shasta,0640,Attorney General,,DEM,Kamala D. Harris,225
+Shasta,0640,Attorney General,,REP,Ronald Gold,569
+Shasta,0644,Attorney General,,DEM,Kamala D. Harris,85
+Shasta,0644,Attorney General,,REP,Ronald Gold,285
+Shasta,0646,Attorney General,,DEM,Kamala D. Harris,35
+Shasta,0646,Attorney General,,REP,Ronald Gold,84
+Shasta,0647,Attorney General,,DEM,Kamala D. Harris,19
+Shasta,0647,Attorney General,,REP,Ronald Gold,56
+Shasta,0648,Attorney General,,DEM,Kamala D. Harris,7
+Shasta,0648,Attorney General,,REP,Ronald Gold,23
+Shasta,0660,Attorney General,,DEM,Kamala D. Harris,427
+Shasta,0660,Attorney General,,REP,Ronald Gold,426
+Shasta,0750,Attorney General,,DEM,Kamala D. Harris,52
+Shasta,0750,Attorney General,,REP,Ronald Gold,88
+Shasta,0751,Attorney General,,DEM,Kamala D. Harris,1
+Shasta,0751,Attorney General,,REP,Ronald Gold,1
+Shasta,0760,Attorney General,,DEM,Kamala D. Harris,174
+Shasta,0760,Attorney General,,REP,Ronald Gold,288
+Shasta,0770,Attorney General,,DEM,Kamala D. Harris,268
+Shasta,0770,Attorney General,,REP,Ronald Gold,459
+Shasta,0775,Attorney General,,DEM,Kamala D. Harris,14
+Shasta,0775,Attorney General,,REP,Ronald Gold,31
+Shasta,0780,Attorney General,,DEM,Kamala D. Harris,380
+Shasta,0780,Attorney General,,REP,Ronald Gold,346
+Shasta,0800,Attorney General,,DEM,Kamala D. Harris,51
+Shasta,0800,Attorney General,,REP,Ronald Gold,81
+Shasta,0830,Attorney General,,DEM,Kamala D. Harris,363
+Shasta,0830,Attorney General,,REP,Ronald Gold,515
+Shasta,0850,Attorney General,,DEM,Kamala D. Harris,152
+Shasta,0850,Attorney General,,REP,Ronald Gold,291
+Shasta,0861,Attorney General,,DEM,Kamala D. Harris,344
+Shasta,0861,Attorney General,,REP,Ronald Gold,707
+Shasta,0890,Attorney General,,DEM,Kamala D. Harris,224
+Shasta,0890,Attorney General,,REP,Ronald Gold,335
+Shasta,0892,Attorney General,,DEM,Kamala D. Harris,177
+Shasta,0892,Attorney General,,REP,Ronald Gold,431
+Shasta,0893,Attorney General,,DEM,Kamala D. Harris,33
+Shasta,0893,Attorney General,,REP,Ronald Gold,58
+Shasta,0894,Attorney General,,DEM,Kamala D. Harris,319
+Shasta,0894,Attorney General,,REP,Ronald Gold,513
+Shasta,0895,Attorney General,,DEM,Kamala D. Harris,211
+Shasta,0895,Attorney General,,REP,Ronald Gold,314
+Shasta,0897,Attorney General,,DEM,Kamala D. Harris,341
+Shasta,0897,Attorney General,,REP,Ronald Gold,514
+Shasta,0900,Attorney General,,DEM,Kamala D. Harris,34
+Shasta,0900,Attorney General,,REP,Ronald Gold,45
+Shasta,0910,Attorney General,,DEM,Kamala D. Harris,106
+Shasta,0910,Attorney General,,REP,Ronald Gold,131
+Shasta,0912,Attorney General,,DEM,Kamala D. Harris,282
+Shasta,0912,Attorney General,,REP,Ronald Gold,704
+Shasta,0914,Attorney General,,DEM,Kamala D. Harris,22
+Shasta,0914,Attorney General,,REP,Ronald Gold,55
+Shasta,0925,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,0925,Attorney General,,REP,Ronald Gold,0
+Shasta,0930,Attorney General,,DEM,Kamala D. Harris,338
+Shasta,0930,Attorney General,,REP,Ronald Gold,549
+Shasta,0932,Attorney General,,DEM,Kamala D. Harris,107
+Shasta,0932,Attorney General,,REP,Ronald Gold,313
+Shasta,0940,Attorney General,,DEM,Kamala D. Harris,331
+Shasta,0940,Attorney General,,REP,Ronald Gold,769
+Shasta,0942,Attorney General,,DEM,Kamala D. Harris,238
+Shasta,0942,Attorney General,,REP,Ronald Gold,492
+Shasta,0960,Attorney General,,DEM,Kamala D. Harris,38
+Shasta,0960,Attorney General,,REP,Ronald Gold,104
+Shasta,0970,Attorney General,,DEM,Kamala D. Harris,207
+Shasta,0970,Attorney General,,REP,Ronald Gold,349
+Shasta,0972,Attorney General,,DEM,Kamala D. Harris,78
+Shasta,0972,Attorney General,,REP,Ronald Gold,134
+Shasta,0976,Attorney General,,DEM,Kamala D. Harris,179
+Shasta,0976,Attorney General,,REP,Ronald Gold,525
+Shasta,0977,Attorney General,,DEM,Kamala D. Harris,3
+Shasta,0977,Attorney General,,REP,Ronald Gold,9
+Shasta,0978,Attorney General,,DEM,Kamala D. Harris,106
+Shasta,0978,Attorney General,,REP,Ronald Gold,309
+Shasta,0979,Attorney General,,DEM,Kamala D. Harris,264
+Shasta,0979,Attorney General,,REP,Ronald Gold,662
+Shasta,0982,Attorney General,,DEM,Kamala D. Harris,130
+Shasta,0982,Attorney General,,REP,Ronald Gold,191
+Shasta,0990,Attorney General,,DEM,Kamala D. Harris,5
+Shasta,0990,Attorney General,,REP,Ronald Gold,3
+Shasta,1001,Attorney General,,DEM,Kamala D. Harris,0
+Shasta,1001,Attorney General,,REP,Ronald Gold,0
+Shasta,1002,Attorney General,,DEM,Kamala D. Harris,14
+Shasta,1002,Attorney General,,REP,Ronald Gold,41
+Shasta,1003,Attorney General,,DEM,Kamala D. Harris,158
+Shasta,1003,Attorney General,,REP,Ronald Gold,276
+Shasta,1004,Attorney General,,DEM,Kamala D. Harris,156
+Shasta,1004,Attorney General,,REP,Ronald Gold,209
+Shasta,1005,Attorney General,,DEM,Kamala D. Harris,213
+Shasta,1005,Attorney General,,REP,Ronald Gold,381
+Shasta,1006,Attorney General,,DEM,Kamala D. Harris,119
+Shasta,1006,Attorney General,,REP,Ronald Gold,211
+Shasta,1008,Attorney General,,DEM,Kamala D. Harris,178
+Shasta,1008,Attorney General,,REP,Ronald Gold,256
+Shasta,1009,Attorney General,,DEM,Kamala D. Harris,165
+Shasta,1009,Attorney General,,REP,Ronald Gold,259
+Shasta,0010,Board of Equalization,1,DEM,Chris Parker,18
+Shasta,0010,Board of Equalization,1,REP,George Runner,59
+Shasta,0012,Board of Equalization,1,DEM,Chris Parker,38
+Shasta,0012,Board of Equalization,1,REP,George Runner,92
+Shasta,0015,Board of Equalization,1,DEM,Chris Parker,156
+Shasta,0015,Board of Equalization,1,REP,George Runner,280
+Shasta,0020,Board of Equalization,1,DEM,Chris Parker,192
+Shasta,0020,Board of Equalization,1,REP,George Runner,307
+Shasta,0030,Board of Equalization,1,DEM,Chris Parker,131
+Shasta,0030,Board of Equalization,1,REP,George Runner,334
+Shasta,034,Board of Equalization,1,DEM,Chris Parker,0
+Shasta,034,Board of Equalization,1,REP,George Runner,0
+Shasta,0050,Board of Equalization,1,DEM,Chris Parker,92
+Shasta,0050,Board of Equalization,1,REP,George Runner,176
+Shasta,0060,Board of Equalization,1,DEM,Chris Parker,160
+Shasta,0060,Board of Equalization,1,REP,George Runner,226
+Shasta,0068,Board of Equalization,1,DEM,Chris Parker,236
+Shasta,0068,Board of Equalization,1,REP,George Runner,469
+Shasta,0070,Board of Equalization,1,DEM,Chris Parker,108
+Shasta,0070,Board of Equalization,1,REP,George Runner,238
+Shasta,0080,Board of Equalization,1,DEM,Chris Parker,141
+Shasta,0080,Board of Equalization,1,REP,George Runner,398
+Shasta,0081,Board of Equalization,1,DEM,Chris Parker,38
+Shasta,0081,Board of Equalization,1,REP,George Runner,61
+Shasta,0082,Board of Equalization,1,DEM,Chris Parker,8
+Shasta,0082,Board of Equalization,1,REP,George Runner,20
+Shasta,0090,Board of Equalization,1,DEM,Chris Parker,2
+Shasta,0090,Board of Equalization,1,REP,George Runner,6
+Shasta,0091,Board of Equalization,1,DEM,Chris Parker,184
+Shasta,0091,Board of Equalization,1,REP,George Runner,372
+Shasta,0093,Board of Equalization,1,DEM,Chris Parker,26
+Shasta,0093,Board of Equalization,1,REP,George Runner,41
+Shasta,0101,Board of Equalization,1,DEM,Chris Parker,151
+Shasta,0101,Board of Equalization,1,REP,George Runner,354
+Shasta,0102,Board of Equalization,1,DEM,Chris Parker,175
+Shasta,0102,Board of Equalization,1,REP,George Runner,426
+Shasta,0110,Board of Equalization,1,DEM,Chris Parker,32
+Shasta,0110,Board of Equalization,1,REP,George Runner,77
+Shasta,0112,Board of Equalization,1,DEM,Chris Parker,231
+Shasta,0112,Board of Equalization,1,REP,George Runner,607
+Shasta,0114,Board of Equalization,1,DEM,Chris Parker,46
+Shasta,0114,Board of Equalization,1,REP,George Runner,76
+Shasta,0120,Board of Equalization,1,DEM,Chris Parker,252
+Shasta,0120,Board of Equalization,1,REP,George Runner,342
+Shasta,0130,Board of Equalization,1,DEM,Chris Parker,6
+Shasta,0130,Board of Equalization,1,REP,George Runner,22
+Shasta,0140,Board of Equalization,1,DEM,Chris Parker,204
+Shasta,0140,Board of Equalization,1,REP,George Runner,290
+Shasta,0150,Board of Equalization,1,DEM,Chris Parker,52
+Shasta,0150,Board of Equalization,1,REP,George Runner,73
+Shasta,0160,Board of Equalization,1,DEM,Chris Parker,203
+Shasta,0160,Board of Equalization,1,REP,George Runner,435
+Shasta,0170,Board of Equalization,1,DEM,Chris Parker,178
+Shasta,0170,Board of Equalization,1,REP,George Runner,394
+Shasta,0175,Board of Equalization,1,DEM,Chris Parker,172
+Shasta,0175,Board of Equalization,1,REP,George Runner,403
+Shasta,0201,Board of Equalization,1,DEM,Chris Parker,156
+Shasta,0201,Board of Equalization,1,REP,George Runner,316
+Shasta,0202,Board of Equalization,1,DEM,Chris Parker,110
+Shasta,0202,Board of Equalization,1,REP,George Runner,218
+Shasta,0210,Board of Equalization,1,DEM,Chris Parker,265
+Shasta,0210,Board of Equalization,1,REP,George Runner,591
+Shasta,0240,Board of Equalization,1,DEM,Chris Parker,32
+Shasta,0240,Board of Equalization,1,REP,George Runner,55
+Shasta,0260,Board of Equalization,1,DEM,Chris Parker,156
+Shasta,0260,Board of Equalization,1,REP,George Runner,368
+Shasta,0261,Board of Equalization,1,DEM,Chris Parker,187
+Shasta,0261,Board of Equalization,1,REP,George Runner,456
+Shasta,0262,Board of Equalization,1,DEM,Chris Parker,0
+Shasta,0262,Board of Equalization,1,REP,George Runner,0
+Shasta,0264,Board of Equalization,1,DEM,Chris Parker,3
+Shasta,0264,Board of Equalization,1,REP,George Runner,14
+Shasta,0270,Board of Equalization,1,DEM,Chris Parker,0
+Shasta,0270,Board of Equalization,1,REP,George Runner,4
+Shasta,0310,Board of Equalization,1,DEM,Chris Parker,115
+Shasta,0310,Board of Equalization,1,REP,George Runner,282
+Shasta,0311,Board of Equalization,1,DEM,Chris Parker,290
+Shasta,0311,Board of Equalization,1,REP,George Runner,657
+Shasta,0313,Board of Equalization,1,DEM,Chris Parker,17
+Shasta,0313,Board of Equalization,1,REP,George Runner,55
+Shasta,0320,Board of Equalization,1,DEM,Chris Parker,232
+Shasta,0320,Board of Equalization,1,REP,George Runner,654
+Shasta,0322,Board of Equalization,1,DEM,Chris Parker,4
+Shasta,0322,Board of Equalization,1,REP,George Runner,9
+Shasta,0330,Board of Equalization,1,DEM,Chris Parker,227
+Shasta,0330,Board of Equalization,1,REP,George Runner,407
+Shasta,0340,Board of Equalization,1,DEM,Chris Parker,213
+Shasta,0340,Board of Equalization,1,REP,George Runner,556
+Shasta,0343,Board of Equalization,1,DEM,Chris Parker,293
+Shasta,0343,Board of Equalization,1,REP,George Runner,635
+Shasta,0350,Board of Equalization,1,DEM,Chris Parker,199
+Shasta,0350,Board of Equalization,1,REP,George Runner,571
+Shasta,0360,Board of Equalization,1,DEM,Chris Parker,165
+Shasta,0360,Board of Equalization,1,REP,George Runner,264
+Shasta,0370,Board of Equalization,1,DEM,Chris Parker,126
+Shasta,0370,Board of Equalization,1,REP,George Runner,258
+Shasta,0371,Board of Equalization,1,DEM,Chris Parker,253
+Shasta,0371,Board of Equalization,1,REP,George Runner,573
+Shasta,0375,Board of Equalization,1,DEM,Chris Parker,150
+Shasta,0375,Board of Equalization,1,REP,George Runner,437
+Shasta,0380,Board of Equalization,1,DEM,Chris Parker,51
+Shasta,0380,Board of Equalization,1,REP,George Runner,24
+Shasta,0390,Board of Equalization,1,DEM,Chris Parker,122
+Shasta,0390,Board of Equalization,1,REP,George Runner,186
+Shasta,0400,Board of Equalization,1,DEM,Chris Parker,162
+Shasta,0400,Board of Equalization,1,REP,George Runner,217
+Shasta,0410,Board of Equalization,1,DEM,Chris Parker,83
+Shasta,0410,Board of Equalization,1,REP,George Runner,175
+Shasta,0420,Board of Equalization,1,DEM,Chris Parker,114
+Shasta,0420,Board of Equalization,1,REP,George Runner,260
+Shasta,0430,Board of Equalization,1,DEM,Chris Parker,229
+Shasta,0430,Board of Equalization,1,REP,George Runner,381
+Shasta,0441,Board of Equalization,1,DEM,Chris Parker,228
+Shasta,0441,Board of Equalization,1,REP,George Runner,507
+Shasta,0443,Board of Equalization,1,DEM,Chris Parker,161
+Shasta,0443,Board of Equalization,1,REP,George Runner,405
+Shasta,0445,Board of Equalization,1,DEM,Chris Parker,162
+Shasta,0445,Board of Equalization,1,REP,George Runner,364
+Shasta,0450,Board of Equalization,1,DEM,Chris Parker,184
+Shasta,0450,Board of Equalization,1,REP,George Runner,456
+Shasta,0462,Board of Equalization,1,DEM,Chris Parker,19
+Shasta,0462,Board of Equalization,1,REP,George Runner,45
+Shasta,0464,Board of Equalization,1,DEM,Chris Parker,1
+Shasta,0464,Board of Equalization,1,REP,George Runner,3
+Shasta,0466,Board of Equalization,1,DEM,Chris Parker,4
+Shasta,0466,Board of Equalization,1,REP,George Runner,20
+Shasta,0468,Board of Equalization,1,DEM,Chris Parker,30
+Shasta,0468,Board of Equalization,1,REP,George Runner,102
+Shasta,0490,Board of Equalization,1,DEM,Chris Parker,64
+Shasta,0490,Board of Equalization,1,REP,George Runner,96
+Shasta,0500,Board of Equalization,1,DEM,Chris Parker,268
+Shasta,0500,Board of Equalization,1,REP,George Runner,632
+Shasta,0510,Board of Equalization,1,DEM,Chris Parker,54
+Shasta,0510,Board of Equalization,1,REP,George Runner,64
+Shasta,0520,Board of Equalization,1,DEM,Chris Parker,71
+Shasta,0520,Board of Equalization,1,REP,George Runner,242
+Shasta,0523,Board of Equalization,1,DEM,Chris Parker,140
+Shasta,0523,Board of Equalization,1,REP,George Runner,249
+Shasta,0530,Board of Equalization,1,DEM,Chris Parker,37
+Shasta,0530,Board of Equalization,1,REP,George Runner,67
+Shasta,0531,Board of Equalization,1,DEM,Chris Parker,82
+Shasta,0531,Board of Equalization,1,REP,George Runner,79
+Shasta,0532,Board of Equalization,1,DEM,Chris Parker,14
+Shasta,0532,Board of Equalization,1,REP,George Runner,26
+Shasta,0555,Board of Equalization,1,DEM,Chris Parker,80
+Shasta,0555,Board of Equalization,1,REP,George Runner,181
+Shasta,0557,Board of Equalization,1,DEM,Chris Parker,107
+Shasta,0557,Board of Equalization,1,REP,George Runner,155
+Shasta,0560,Board of Equalization,1,DEM,Chris Parker,122
+Shasta,0560,Board of Equalization,1,REP,George Runner,432
+Shasta,0561,Board of Equalization,1,DEM,Chris Parker,160
+Shasta,0561,Board of Equalization,1,REP,George Runner,482
+Shasta,0570,Board of Equalization,1,DEM,Chris Parker,331
+Shasta,0570,Board of Equalization,1,REP,George Runner,606
+Shasta,0575,Board of Equalization,1,DEM,Chris Parker,238
+Shasta,0575,Board of Equalization,1,REP,George Runner,483
+Shasta,0590,Board of Equalization,1,DEM,Chris Parker,163
+Shasta,0590,Board of Equalization,1,REP,George Runner,524
+Shasta,0595,Board of Equalization,1,DEM,Chris Parker,182
+Shasta,0595,Board of Equalization,1,REP,George Runner,328
+Shasta,0597,Board of Equalization,1,DEM,Chris Parker,119
+Shasta,0597,Board of Equalization,1,REP,George Runner,229
+Shasta,0610,Board of Equalization,1,DEM,Chris Parker,103
+Shasta,0610,Board of Equalization,1,REP,George Runner,156
+Shasta,0611,Board of Equalization,1,DEM,Chris Parker,181
+Shasta,0611,Board of Equalization,1,REP,George Runner,607
+Shasta,0620,Board of Equalization,1,DEM,Chris Parker,194
+Shasta,0620,Board of Equalization,1,REP,George Runner,409
+Shasta,0630,Board of Equalization,1,DEM,Chris Parker,23
+Shasta,0630,Board of Equalization,1,REP,George Runner,46
+Shasta,0640,Board of Equalization,1,DEM,Chris Parker,193
+Shasta,0640,Board of Equalization,1,REP,George Runner,596
+Shasta,0644,Board of Equalization,1,DEM,Chris Parker,82
+Shasta,0644,Board of Equalization,1,REP,George Runner,283
+Shasta,0646,Board of Equalization,1,DEM,Chris Parker,28
+Shasta,0646,Board of Equalization,1,REP,George Runner,90
+Shasta,0647,Board of Equalization,1,DEM,Chris Parker,17
+Shasta,0647,Board of Equalization,1,REP,George Runner,58
+Shasta,0648,Board of Equalization,1,DEM,Chris Parker,10
+Shasta,0648,Board of Equalization,1,REP,George Runner,19
+Shasta,0660,Board of Equalization,1,DEM,Chris Parker,394
+Shasta,0660,Board of Equalization,1,REP,George Runner,445
+Shasta,0750,Board of Equalization,1,DEM,Chris Parker,44
+Shasta,0750,Board of Equalization,1,REP,George Runner,91
+Shasta,0751,Board of Equalization,1,DEM,Chris Parker,1
+Shasta,0751,Board of Equalization,1,REP,George Runner,1
+Shasta,0760,Board of Equalization,1,DEM,Chris Parker,162
+Shasta,0760,Board of Equalization,1,REP,George Runner,288
+Shasta,0770,Board of Equalization,1,DEM,Chris Parker,216
+Shasta,0770,Board of Equalization,1,REP,George Runner,489
+Shasta,0775,Board of Equalization,1,DEM,Chris Parker,11
+Shasta,0775,Board of Equalization,1,REP,George Runner,33
+Shasta,0780,Board of Equalization,1,DEM,Chris Parker,340
+Shasta,0780,Board of Equalization,1,REP,George Runner,370
+Shasta,0800,Board of Equalization,1,DEM,Chris Parker,49
+Shasta,0800,Board of Equalization,1,REP,George Runner,80
+Shasta,0830,Board of Equalization,1,DEM,Chris Parker,310
+Shasta,0830,Board of Equalization,1,REP,George Runner,549
+Shasta,0850,Board of Equalization,1,DEM,Chris Parker,137
+Shasta,0850,Board of Equalization,1,REP,George Runner,295
+Shasta,0861,Board of Equalization,1,DEM,Chris Parker,284
+Shasta,0861,Board of Equalization,1,REP,George Runner,745
+Shasta,0890,Board of Equalization,1,DEM,Chris Parker,181
+Shasta,0890,Board of Equalization,1,REP,George Runner,358
+Shasta,0892,Board of Equalization,1,DEM,Chris Parker,159
+Shasta,0892,Board of Equalization,1,REP,George Runner,441
+Shasta,0893,Board of Equalization,1,DEM,Chris Parker,24
+Shasta,0893,Board of Equalization,1,REP,George Runner,66
+Shasta,0894,Board of Equalization,1,DEM,Chris Parker,287
+Shasta,0894,Board of Equalization,1,REP,George Runner,532
+Shasta,0895,Board of Equalization,1,DEM,Chris Parker,163
+Shasta,0895,Board of Equalization,1,REP,George Runner,346
+Shasta,0897,Board of Equalization,1,DEM,Chris Parker,327
+Shasta,0897,Board of Equalization,1,REP,George Runner,526
+Shasta,0900,Board of Equalization,1,DEM,Chris Parker,26
+Shasta,0900,Board of Equalization,1,REP,George Runner,50
+Shasta,0910,Board of Equalization,1,DEM,Chris Parker,99
+Shasta,0910,Board of Equalization,1,REP,George Runner,135
+Shasta,0912,Board of Equalization,1,DEM,Chris Parker,250
+Shasta,0912,Board of Equalization,1,REP,George Runner,711
+Shasta,0914,Board of Equalization,1,DEM,Chris Parker,15
+Shasta,0914,Board of Equalization,1,REP,George Runner,59
+Shasta,0925,Board of Equalization,1,DEM,Chris Parker,0
+Shasta,0925,Board of Equalization,1,REP,George Runner,0
+Shasta,0930,Board of Equalization,1,DEM,Chris Parker,312
+Shasta,0930,Board of Equalization,1,REP,George Runner,565
+Shasta,0932,Board of Equalization,1,DEM,Chris Parker,99
+Shasta,0932,Board of Equalization,1,REP,George Runner,313
+Shasta,0940,Board of Equalization,1,DEM,Chris Parker,325
+Shasta,0940,Board of Equalization,1,REP,George Runner,756
+Shasta,0942,Board of Equalization,1,DEM,Chris Parker,232
+Shasta,0942,Board of Equalization,1,REP,George Runner,490
+Shasta,0960,Board of Equalization,1,DEM,Chris Parker,22
+Shasta,0960,Board of Equalization,1,REP,George Runner,119
+Shasta,0970,Board of Equalization,1,DEM,Chris Parker,199
+Shasta,0970,Board of Equalization,1,REP,George Runner,354
+Shasta,0972,Board of Equalization,1,DEM,Chris Parker,63
+Shasta,0972,Board of Equalization,1,REP,George Runner,141
+Shasta,0976,Board of Equalization,1,DEM,Chris Parker,135
+Shasta,0976,Board of Equalization,1,REP,George Runner,555
+Shasta,0977,Board of Equalization,1,DEM,Chris Parker,3
+Shasta,0977,Board of Equalization,1,REP,George Runner,9
+Shasta,0978,Board of Equalization,1,DEM,Chris Parker,91
+Shasta,0978,Board of Equalization,1,REP,George Runner,310
+Shasta,0979,Board of Equalization,1,DEM,Chris Parker,220
+Shasta,0979,Board of Equalization,1,REP,George Runner,678
+Shasta,0982,Board of Equalization,1,DEM,Chris Parker,107
+Shasta,0982,Board of Equalization,1,REP,George Runner,209
+Shasta,0990,Board of Equalization,1,DEM,Chris Parker,3
+Shasta,0990,Board of Equalization,1,REP,George Runner,5
+Shasta,1001,Board of Equalization,1,DEM,Chris Parker,0
+Shasta,1001,Board of Equalization,1,REP,George Runner,0
+Shasta,1002,Board of Equalization,1,DEM,Chris Parker,11
+Shasta,1002,Board of Equalization,1,REP,George Runner,44
+Shasta,1003,Board of Equalization,1,DEM,Chris Parker,159
+Shasta,1003,Board of Equalization,1,REP,George Runner,261
+Shasta,1004,Board of Equalization,1,DEM,Chris Parker,160
+Shasta,1004,Board of Equalization,1,REP,George Runner,206
+Shasta,1005,Board of Equalization,1,DEM,Chris Parker,194
+Shasta,1005,Board of Equalization,1,REP,George Runner,397
+Shasta,1006,Board of Equalization,1,DEM,Chris Parker,110
+Shasta,1006,Board of Equalization,1,REP,George Runner,217
+Shasta,1008,Board of Equalization,1,DEM,Chris Parker,167
+Shasta,1008,Board of Equalization,1,REP,George Runner,257
+Shasta,1009,Board of Equalization,1,DEM,Chris Parker,164
+Shasta,1009,Board of Equalization,1,REP,George Runner,259
+Shasta,0010,Controller,,DEM,Betty T. Yee,22
+Shasta,0010,Controller,,REP,Ashley Swearengin,55
+Shasta,0012,Controller,,DEM,Betty T. Yee,43
+Shasta,0012,Controller,,REP,Ashley Swearengin,92
+Shasta,0015,Controller,,DEM,Betty T. Yee,177
+Shasta,0015,Controller,,REP,Ashley Swearengin,270
+Shasta,0020,Controller,,DEM,Betty T. Yee,185
+Shasta,0020,Controller,,REP,Ashley Swearengin,323
+Shasta,0030,Controller,,DEM,Betty T. Yee,139
+Shasta,0030,Controller,,REP,Ashley Swearengin,334
+Shasta,034,Controller,,DEM,Betty T. Yee,0
+Shasta,034,Controller,,REP,Ashley Swearengin,0
+Shasta,0050,Controller,,DEM,Betty T. Yee,103
+Shasta,0050,Controller,,REP,Ashley Swearengin,165
+Shasta,0060,Controller,,DEM,Betty T. Yee,168
+Shasta,0060,Controller,,REP,Ashley Swearengin,224
+Shasta,0068,Controller,,DEM,Betty T. Yee,263
+Shasta,0068,Controller,,REP,Ashley Swearengin,457
+Shasta,0070,Controller,,DEM,Betty T. Yee,115
+Shasta,0070,Controller,,REP,Ashley Swearengin,235
+Shasta,0080,Controller,,DEM,Betty T. Yee,148
+Shasta,0080,Controller,,REP,Ashley Swearengin,401
+Shasta,0081,Controller,,DEM,Betty T. Yee,42
+Shasta,0081,Controller,,REP,Ashley Swearengin,57
+Shasta,0082,Controller,,DEM,Betty T. Yee,6
+Shasta,0082,Controller,,REP,Ashley Swearengin,22
+Shasta,0090,Controller,,DEM,Betty T. Yee,2
+Shasta,0090,Controller,,REP,Ashley Swearengin,6
+Shasta,0091,Controller,,DEM,Betty T. Yee,193
+Shasta,0091,Controller,,REP,Ashley Swearengin,374
+Shasta,0093,Controller,,DEM,Betty T. Yee,20
+Shasta,0093,Controller,,REP,Ashley Swearengin,46
+Shasta,0101,Controller,,DEM,Betty T. Yee,146
+Shasta,0101,Controller,,REP,Ashley Swearengin,356
+Shasta,0102,Controller,,DEM,Betty T. Yee,170
+Shasta,0102,Controller,,REP,Ashley Swearengin,429
+Shasta,0110,Controller,,DEM,Betty T. Yee,34
+Shasta,0110,Controller,,REP,Ashley Swearengin,80
+Shasta,0112,Controller,,DEM,Betty T. Yee,231
+Shasta,0112,Controller,,REP,Ashley Swearengin,609
+Shasta,0114,Controller,,DEM,Betty T. Yee,45
+Shasta,0114,Controller,,REP,Ashley Swearengin,77
+Shasta,0120,Controller,,DEM,Betty T. Yee,284
+Shasta,0120,Controller,,REP,Ashley Swearengin,327
+Shasta,0130,Controller,,DEM,Betty T. Yee,8
+Shasta,0130,Controller,,REP,Ashley Swearengin,24
+Shasta,0140,Controller,,DEM,Betty T. Yee,215
+Shasta,0140,Controller,,REP,Ashley Swearengin,292
+Shasta,0150,Controller,,DEM,Betty T. Yee,46
+Shasta,0150,Controller,,REP,Ashley Swearengin,82
+Shasta,0160,Controller,,DEM,Betty T. Yee,229
+Shasta,0160,Controller,,REP,Ashley Swearengin,424
+Shasta,0170,Controller,,DEM,Betty T. Yee,190
+Shasta,0170,Controller,,REP,Ashley Swearengin,394
+Shasta,0175,Controller,,DEM,Betty T. Yee,206
+Shasta,0175,Controller,,REP,Ashley Swearengin,376
+Shasta,0201,Controller,,DEM,Betty T. Yee,161
+Shasta,0201,Controller,,REP,Ashley Swearengin,315
+Shasta,0202,Controller,,DEM,Betty T. Yee,107
+Shasta,0202,Controller,,REP,Ashley Swearengin,221
+Shasta,0210,Controller,,DEM,Betty T. Yee,291
+Shasta,0210,Controller,,REP,Ashley Swearengin,578
+Shasta,0240,Controller,,DEM,Betty T. Yee,39
+Shasta,0240,Controller,,REP,Ashley Swearengin,48
+Shasta,0260,Controller,,DEM,Betty T. Yee,177
+Shasta,0260,Controller,,REP,Ashley Swearengin,354
+Shasta,0261,Controller,,DEM,Betty T. Yee,210
+Shasta,0261,Controller,,REP,Ashley Swearengin,440
+Shasta,0262,Controller,,DEM,Betty T. Yee,0
+Shasta,0262,Controller,,REP,Ashley Swearengin,0
+Shasta,0264,Controller,,DEM,Betty T. Yee,3
+Shasta,0264,Controller,,REP,Ashley Swearengin,14
+Shasta,0270,Controller,,DEM,Betty T. Yee,0
+Shasta,0270,Controller,,REP,Ashley Swearengin,4
+Shasta,0310,Controller,,DEM,Betty T. Yee,127
+Shasta,0310,Controller,,REP,Ashley Swearengin,273
+Shasta,0311,Controller,,DEM,Betty T. Yee,314
+Shasta,0311,Controller,,REP,Ashley Swearengin,641
+Shasta,0313,Controller,,DEM,Betty T. Yee,19
+Shasta,0313,Controller,,REP,Ashley Swearengin,54
+Shasta,0320,Controller,,DEM,Betty T. Yee,269
+Shasta,0320,Controller,,REP,Ashley Swearengin,640
+Shasta,0322,Controller,,DEM,Betty T. Yee,2
+Shasta,0322,Controller,,REP,Ashley Swearengin,11
+Shasta,0330,Controller,,DEM,Betty T. Yee,230
+Shasta,0330,Controller,,REP,Ashley Swearengin,409
+Shasta,0340,Controller,,DEM,Betty T. Yee,228
+Shasta,0340,Controller,,REP,Ashley Swearengin,546
+Shasta,0343,Controller,,DEM,Betty T. Yee,344
+Shasta,0343,Controller,,REP,Ashley Swearengin,604
+Shasta,0350,Controller,,DEM,Betty T. Yee,216
+Shasta,0350,Controller,,REP,Ashley Swearengin,569
+Shasta,0360,Controller,,DEM,Betty T. Yee,183
+Shasta,0360,Controller,,REP,Ashley Swearengin,254
+Shasta,0370,Controller,,DEM,Betty T. Yee,138
+Shasta,0370,Controller,,REP,Ashley Swearengin,254
+Shasta,0371,Controller,,DEM,Betty T. Yee,266
+Shasta,0371,Controller,,REP,Ashley Swearengin,573
+Shasta,0375,Controller,,DEM,Betty T. Yee,171
+Shasta,0375,Controller,,REP,Ashley Swearengin,426
+Shasta,0380,Controller,,DEM,Betty T. Yee,48
+Shasta,0380,Controller,,REP,Ashley Swearengin,28
+Shasta,0390,Controller,,DEM,Betty T. Yee,118
+Shasta,0390,Controller,,REP,Ashley Swearengin,191
+Shasta,0400,Controller,,DEM,Betty T. Yee,155
+Shasta,0400,Controller,,REP,Ashley Swearengin,228
+Shasta,0410,Controller,,DEM,Betty T. Yee,95
+Shasta,0410,Controller,,REP,Ashley Swearengin,165
+Shasta,0420,Controller,,DEM,Betty T. Yee,133
+Shasta,0420,Controller,,REP,Ashley Swearengin,245
+Shasta,0430,Controller,,DEM,Betty T. Yee,240
+Shasta,0430,Controller,,REP,Ashley Swearengin,378
+Shasta,0441,Controller,,DEM,Betty T. Yee,239
+Shasta,0441,Controller,,REP,Ashley Swearengin,511
+Shasta,0443,Controller,,DEM,Betty T. Yee,176
+Shasta,0443,Controller,,REP,Ashley Swearengin,399
+Shasta,0445,Controller,,DEM,Betty T. Yee,182
+Shasta,0445,Controller,,REP,Ashley Swearengin,362
+Shasta,0450,Controller,,DEM,Betty T. Yee,206
+Shasta,0450,Controller,,REP,Ashley Swearengin,445
+Shasta,0462,Controller,,DEM,Betty T. Yee,20
+Shasta,0462,Controller,,REP,Ashley Swearengin,46
+Shasta,0464,Controller,,DEM,Betty T. Yee,0
+Shasta,0464,Controller,,REP,Ashley Swearengin,4
+Shasta,0466,Controller,,DEM,Betty T. Yee,5
+Shasta,0466,Controller,,REP,Ashley Swearengin,19
+Shasta,0468,Controller,,DEM,Betty T. Yee,42
+Shasta,0468,Controller,,REP,Ashley Swearengin,93
+Shasta,0490,Controller,,DEM,Betty T. Yee,73
+Shasta,0490,Controller,,REP,Ashley Swearengin,94
+Shasta,0500,Controller,,DEM,Betty T. Yee,271
+Shasta,0500,Controller,,REP,Ashley Swearengin,633
+Shasta,0510,Controller,,DEM,Betty T. Yee,51
+Shasta,0510,Controller,,REP,Ashley Swearengin,65
+Shasta,0520,Controller,,DEM,Betty T. Yee,87
+Shasta,0520,Controller,,REP,Ashley Swearengin,230
+Shasta,0523,Controller,,DEM,Betty T. Yee,140
+Shasta,0523,Controller,,REP,Ashley Swearengin,260
+Shasta,0530,Controller,,DEM,Betty T. Yee,37
+Shasta,0530,Controller,,REP,Ashley Swearengin,68
+Shasta,0531,Controller,,DEM,Betty T. Yee,83
+Shasta,0531,Controller,,REP,Ashley Swearengin,79
+Shasta,0532,Controller,,DEM,Betty T. Yee,14
+Shasta,0532,Controller,,REP,Ashley Swearengin,27
+Shasta,0555,Controller,,DEM,Betty T. Yee,86
+Shasta,0555,Controller,,REP,Ashley Swearengin,178
+Shasta,0557,Controller,,DEM,Betty T. Yee,109
+Shasta,0557,Controller,,REP,Ashley Swearengin,157
+Shasta,0560,Controller,,DEM,Betty T. Yee,140
+Shasta,0560,Controller,,REP,Ashley Swearengin,417
+Shasta,0561,Controller,,DEM,Betty T. Yee,177
+Shasta,0561,Controller,,REP,Ashley Swearengin,468
+Shasta,0570,Controller,,DEM,Betty T. Yee,388
+Shasta,0570,Controller,,REP,Ashley Swearengin,585
+Shasta,0575,Controller,,DEM,Betty T. Yee,293
+Shasta,0575,Controller,,REP,Ashley Swearengin,454
+Shasta,0590,Controller,,DEM,Betty T. Yee,171
+Shasta,0590,Controller,,REP,Ashley Swearengin,525
+Shasta,0595,Controller,,DEM,Betty T. Yee,187
+Shasta,0595,Controller,,REP,Ashley Swearengin,327
+Shasta,0597,Controller,,DEM,Betty T. Yee,124
+Shasta,0597,Controller,,REP,Ashley Swearengin,226
+Shasta,0610,Controller,,DEM,Betty T. Yee,117
+Shasta,0610,Controller,,REP,Ashley Swearengin,148
+Shasta,0611,Controller,,DEM,Betty T. Yee,200
+Shasta,0611,Controller,,REP,Ashley Swearengin,603
+Shasta,0620,Controller,,DEM,Betty T. Yee,214
+Shasta,0620,Controller,,REP,Ashley Swearengin,402
+Shasta,0630,Controller,,DEM,Betty T. Yee,22
+Shasta,0630,Controller,,REP,Ashley Swearengin,52
+Shasta,0640,Controller,,DEM,Betty T. Yee,220
+Shasta,0640,Controller,,REP,Ashley Swearengin,580
+Shasta,0644,Controller,,DEM,Betty T. Yee,92
+Shasta,0644,Controller,,REP,Ashley Swearengin,279
+Shasta,0646,Controller,,DEM,Betty T. Yee,35
+Shasta,0646,Controller,,REP,Ashley Swearengin,84
+Shasta,0647,Controller,,DEM,Betty T. Yee,20
+Shasta,0647,Controller,,REP,Ashley Swearengin,54
+Shasta,0648,Controller,,DEM,Betty T. Yee,9
+Shasta,0648,Controller,,REP,Ashley Swearengin,20
+Shasta,0660,Controller,,DEM,Betty T. Yee,408
+Shasta,0660,Controller,,REP,Ashley Swearengin,439
+Shasta,0750,Controller,,DEM,Betty T. Yee,53
+Shasta,0750,Controller,,REP,Ashley Swearengin,88
+Shasta,0751,Controller,,DEM,Betty T. Yee,1
+Shasta,0751,Controller,,REP,Ashley Swearengin,1
+Shasta,0760,Controller,,DEM,Betty T. Yee,171
+Shasta,0760,Controller,,REP,Ashley Swearengin,288
+Shasta,0770,Controller,,DEM,Betty T. Yee,263
+Shasta,0770,Controller,,REP,Ashley Swearengin,461
+Shasta,0775,Controller,,DEM,Betty T. Yee,12
+Shasta,0775,Controller,,REP,Ashley Swearengin,33
+Shasta,0780,Controller,,DEM,Betty T. Yee,378
+Shasta,0780,Controller,,REP,Ashley Swearengin,345
+Shasta,0800,Controller,,DEM,Betty T. Yee,51
+Shasta,0800,Controller,,REP,Ashley Swearengin,81
+Shasta,0830,Controller,,DEM,Betty T. Yee,340
+Shasta,0830,Controller,,REP,Ashley Swearengin,535
+Shasta,0850,Controller,,DEM,Betty T. Yee,156
+Shasta,0850,Controller,,REP,Ashley Swearengin,283
+Shasta,0861,Controller,,DEM,Betty T. Yee,358
+Shasta,0861,Controller,,REP,Ashley Swearengin,693
+Shasta,0890,Controller,,DEM,Betty T. Yee,202
+Shasta,0890,Controller,,REP,Ashley Swearengin,361
+Shasta,0892,Controller,,DEM,Betty T. Yee,174
+Shasta,0892,Controller,,REP,Ashley Swearengin,432
+Shasta,0893,Controller,,DEM,Betty T. Yee,29
+Shasta,0893,Controller,,REP,Ashley Swearengin,61
+Shasta,0894,Controller,,DEM,Betty T. Yee,320
+Shasta,0894,Controller,,REP,Ashley Swearengin,510
+Shasta,0895,Controller,,DEM,Betty T. Yee,196
+Shasta,0895,Controller,,REP,Ashley Swearengin,324
+Shasta,0897,Controller,,DEM,Betty T. Yee,341
+Shasta,0897,Controller,,REP,Ashley Swearengin,512
+Shasta,0900,Controller,,DEM,Betty T. Yee,33
+Shasta,0900,Controller,,REP,Ashley Swearengin,45
+Shasta,0910,Controller,,DEM,Betty T. Yee,101
+Shasta,0910,Controller,,REP,Ashley Swearengin,135
+Shasta,0912,Controller,,DEM,Betty T. Yee,281
+Shasta,0912,Controller,,REP,Ashley Swearengin,703
+Shasta,0914,Controller,,DEM,Betty T. Yee,25
+Shasta,0914,Controller,,REP,Ashley Swearengin,55
+Shasta,0925,Controller,,DEM,Betty T. Yee,0
+Shasta,0925,Controller,,REP,Ashley Swearengin,0
+Shasta,0930,Controller,,DEM,Betty T. Yee,350
+Shasta,0930,Controller,,REP,Ashley Swearengin,552
+Shasta,0932,Controller,,DEM,Betty T. Yee,101
+Shasta,0932,Controller,,REP,Ashley Swearengin,316
+Shasta,0940,Controller,,DEM,Betty T. Yee,344
+Shasta,0940,Controller,,REP,Ashley Swearengin,753
+Shasta,0942,Controller,,DEM,Betty T. Yee,251
+Shasta,0942,Controller,,REP,Ashley Swearengin,474
+Shasta,0960,Controller,,DEM,Betty T. Yee,33
+Shasta,0960,Controller,,REP,Ashley Swearengin,108
+Shasta,0970,Controller,,DEM,Betty T. Yee,214
+Shasta,0970,Controller,,REP,Ashley Swearengin,341
+Shasta,0972,Controller,,DEM,Betty T. Yee,75
+Shasta,0972,Controller,,REP,Ashley Swearengin,132
+Shasta,0976,Controller,,DEM,Betty T. Yee,155
+Shasta,0976,Controller,,REP,Ashley Swearengin,544
+Shasta,0977,Controller,,DEM,Betty T. Yee,1
+Shasta,0977,Controller,,REP,Ashley Swearengin,11
+Shasta,0978,Controller,,DEM,Betty T. Yee,108
+Shasta,0978,Controller,,REP,Ashley Swearengin,300
+Shasta,0979,Controller,,DEM,Betty T. Yee,241
+Shasta,0979,Controller,,REP,Ashley Swearengin,678
+Shasta,0982,Controller,,DEM,Betty T. Yee,126
+Shasta,0982,Controller,,REP,Ashley Swearengin,191
+Shasta,0990,Controller,,DEM,Betty T. Yee,3
+Shasta,0990,Controller,,REP,Ashley Swearengin,5
+Shasta,1001,Controller,,DEM,Betty T. Yee,0
+Shasta,1001,Controller,,REP,Ashley Swearengin,0
+Shasta,1002,Controller,,DEM,Betty T. Yee,13
+Shasta,1002,Controller,,REP,Ashley Swearengin,43
+Shasta,1003,Controller,,DEM,Betty T. Yee,167
+Shasta,1003,Controller,,REP,Ashley Swearengin,268
+Shasta,1004,Controller,,DEM,Betty T. Yee,151
+Shasta,1004,Controller,,REP,Ashley Swearengin,210
+Shasta,1005,Controller,,DEM,Betty T. Yee,217
+Shasta,1005,Controller,,REP,Ashley Swearengin,379
+Shasta,1006,Controller,,DEM,Betty T. Yee,116
+Shasta,1006,Controller,,REP,Ashley Swearengin,208
+Shasta,1008,Controller,,DEM,Betty T. Yee,183
+Shasta,1008,Controller,,REP,Ashley Swearengin,249
+Shasta,1009,Controller,,DEM,Betty T. Yee,177
+Shasta,1009,Controller,,REP,Ashley Swearengin,247
+Shasta,0010,Governor,,DEM,Edmund G. Brown,28
+Shasta,0010,Governor,,REP,Neel Kashkari,49
+Shasta,0012,Governor,,DEM,Edmund G. Brown,57
+Shasta,0012,Governor,,REP,Neel Kashkari,86
+Shasta,0015,Governor,,DEM,Edmund G. Brown,149
+Shasta,0015,Governor,,REP,Neel Kashkari,289
+Shasta,0020,Governor,,DEM,Edmund G. Brown,200
+Shasta,0020,Governor,,REP,Neel Kashkari,317
+Shasta,0030,Governor,,DEM,Edmund G. Brown,139
+Shasta,0030,Governor,,REP,Neel Kashkari,339
+Shasta,034,Governor,,DEM,Edmund G. Brown,0
+Shasta,034,Governor,,REP,Neel Kashkari,0
+Shasta,0050,Governor,,DEM,Edmund G. Brown,114
+Shasta,0050,Governor,,REP,Neel Kashkari,164
+Shasta,0060,Governor,,DEM,Edmund G. Brown,180
+Shasta,0060,Governor,,REP,Neel Kashkari,219
+Shasta,0068,Governor,,DEM,Edmund G. Brown,294
+Shasta,0068,Governor,,REP,Neel Kashkari,444
+Shasta,0070,Governor,,DEM,Edmund G. Brown,129
+Shasta,0070,Governor,,REP,Neel Kashkari,224
+Shasta,0080,Governor,,DEM,Edmund G. Brown,146
+Shasta,0080,Governor,,REP,Neel Kashkari,405
+Shasta,0081,Governor,,DEM,Edmund G. Brown,40
+Shasta,0081,Governor,,REP,Neel Kashkari,61
+Shasta,0082,Governor,,DEM,Edmund G. Brown,8
+Shasta,0082,Governor,,REP,Neel Kashkari,20
+Shasta,0090,Governor,,DEM,Edmund G. Brown,2
+Shasta,0090,Governor,,REP,Neel Kashkari,6
+Shasta,0091,Governor,,DEM,Edmund G. Brown,197
+Shasta,0091,Governor,,REP,Neel Kashkari,380
+Shasta,0093,Governor,,DEM,Edmund G. Brown,22
+Shasta,0093,Governor,,REP,Neel Kashkari,46
+Shasta,0101,Governor,,DEM,Edmund G. Brown,159
+Shasta,0101,Governor,,REP,Neel Kashkari,354
+Shasta,0102,Governor,,DEM,Edmund G. Brown,209
+Shasta,0102,Governor,,REP,Neel Kashkari,410
+Shasta,0110,Governor,,DEM,Edmund G. Brown,36
+Shasta,0110,Governor,,REP,Neel Kashkari,75
+Shasta,0112,Governor,,DEM,Edmund G. Brown,287
+Shasta,0112,Governor,,REP,Neel Kashkari,586
+Shasta,0114,Governor,,DEM,Edmund G. Brown,52
+Shasta,0114,Governor,,REP,Neel Kashkari,78
+Shasta,0120,Governor,,DEM,Edmund G. Brown,307
+Shasta,0120,Governor,,REP,Neel Kashkari,317
+Shasta,0130,Governor,,DEM,Edmund G. Brown,7
+Shasta,0130,Governor,,REP,Neel Kashkari,23
+Shasta,0140,Governor,,DEM,Edmund G. Brown,228
+Shasta,0140,Governor,,REP,Neel Kashkari,285
+Shasta,0150,Governor,,DEM,Edmund G. Brown,50
+Shasta,0150,Governor,,REP,Neel Kashkari,81
+Shasta,0160,Governor,,DEM,Edmund G. Brown,263
+Shasta,0160,Governor,,REP,Neel Kashkari,403
+Shasta,0170,Governor,,DEM,Edmund G. Brown,220
+Shasta,0170,Governor,,REP,Neel Kashkari,373
+Shasta,0175,Governor,,DEM,Edmund G. Brown,234
+Shasta,0175,Governor,,REP,Neel Kashkari,365
+Shasta,0201,Governor,,DEM,Edmund G. Brown,187
+Shasta,0201,Governor,,REP,Neel Kashkari,299
+Shasta,0202,Governor,,DEM,Edmund G. Brown,113
+Shasta,0202,Governor,,REP,Neel Kashkari,222
+Shasta,0210,Governor,,DEM,Edmund G. Brown,294
+Shasta,0210,Governor,,REP,Neel Kashkari,592
+Shasta,0240,Governor,,DEM,Edmund G. Brown,44
+Shasta,0240,Governor,,REP,Neel Kashkari,45
+Shasta,0260,Governor,,DEM,Edmund G. Brown,225
+Shasta,0260,Governor,,REP,Neel Kashkari,329
+Shasta,0261,Governor,,DEM,Edmund G. Brown,259
+Shasta,0261,Governor,,REP,Neel Kashkari,419
+Shasta,0262,Governor,,DEM,Edmund G. Brown,0
+Shasta,0262,Governor,,REP,Neel Kashkari,0
+Shasta,0264,Governor,,DEM,Edmund G. Brown,4
+Shasta,0264,Governor,,REP,Neel Kashkari,14
+Shasta,0270,Governor,,DEM,Edmund G. Brown,1
+Shasta,0270,Governor,,REP,Neel Kashkari,3
+Shasta,0310,Governor,,DEM,Edmund G. Brown,120
+Shasta,0310,Governor,,REP,Neel Kashkari,289
+Shasta,0311,Governor,,DEM,Edmund G. Brown,345
+Shasta,0311,Governor,,REP,Neel Kashkari,635
+Shasta,0313,Governor,,DEM,Edmund G. Brown,19
+Shasta,0313,Governor,,REP,Neel Kashkari,50
+Shasta,0320,Governor,,DEM,Edmund G. Brown,298
+Shasta,0320,Governor,,REP,Neel Kashkari,631
+Shasta,0322,Governor,,DEM,Edmund G. Brown,4
+Shasta,0322,Governor,,REP,Neel Kashkari,9
+Shasta,0330,Governor,,DEM,Edmund G. Brown,245
+Shasta,0330,Governor,,REP,Neel Kashkari,409
+Shasta,0340,Governor,,DEM,Edmund G. Brown,251
+Shasta,0340,Governor,,REP,Neel Kashkari,541
+Shasta,0343,Governor,,DEM,Edmund G. Brown,410
+Shasta,0343,Governor,,REP,Neel Kashkari,574
+Shasta,0350,Governor,,DEM,Edmund G. Brown,236
+Shasta,0350,Governor,,REP,Neel Kashkari,558
+Shasta,0360,Governor,,DEM,Edmund G. Brown,202
+Shasta,0360,Governor,,REP,Neel Kashkari,249
+Shasta,0370,Governor,,DEM,Edmund G. Brown,159
+Shasta,0370,Governor,,REP,Neel Kashkari,239
+Shasta,0371,Governor,,DEM,Edmund G. Brown,309
+Shasta,0371,Governor,,REP,Neel Kashkari,561
+Shasta,0375,Governor,,DEM,Edmund G. Brown,214
+Shasta,0375,Governor,,REP,Neel Kashkari,396
+Shasta,0380,Governor,,DEM,Edmund G. Brown,53
+Shasta,0380,Governor,,REP,Neel Kashkari,28
+Shasta,0390,Governor,,DEM,Edmund G. Brown,134
+Shasta,0390,Governor,,REP,Neel Kashkari,177
+Shasta,0400,Governor,,DEM,Edmund G. Brown,183
+Shasta,0400,Governor,,REP,Neel Kashkari,206
+Shasta,0410,Governor,,DEM,Edmund G. Brown,102
+Shasta,0410,Governor,,REP,Neel Kashkari,162
+Shasta,0420,Governor,,DEM,Edmund G. Brown,150
+Shasta,0420,Governor,,REP,Neel Kashkari,243
+Shasta,0430,Governor,,DEM,Edmund G. Brown,262
+Shasta,0430,Governor,,REP,Neel Kashkari,380
+Shasta,0441,Governor,,DEM,Edmund G. Brown,279
+Shasta,0441,Governor,,REP,Neel Kashkari,500
+Shasta,0443,Governor,,DEM,Edmund G. Brown,211
+Shasta,0443,Governor,,REP,Neel Kashkari,378
+Shasta,0445,Governor,,DEM,Edmund G. Brown,193
+Shasta,0445,Governor,,REP,Neel Kashkari,370
+Shasta,0450,Governor,,DEM,Edmund G. Brown,233
+Shasta,0450,Governor,,REP,Neel Kashkari,430
+Shasta,0462,Governor,,DEM,Edmund G. Brown,29
+Shasta,0462,Governor,,REP,Neel Kashkari,38
+Shasta,0464,Governor,,DEM,Edmund G. Brown,0
+Shasta,0464,Governor,,REP,Neel Kashkari,4
+Shasta,0466,Governor,,DEM,Edmund G. Brown,6
+Shasta,0466,Governor,,REP,Neel Kashkari,16
+Shasta,0468,Governor,,DEM,Edmund G. Brown,57
+Shasta,0468,Governor,,REP,Neel Kashkari,82
+Shasta,0490,Governor,,DEM,Edmund G. Brown,68
+Shasta,0490,Governor,,REP,Neel Kashkari,101
+Shasta,0500,Governor,,DEM,Edmund G. Brown,322
+Shasta,0500,Governor,,REP,Neel Kashkari,596
+Shasta,0510,Governor,,DEM,Edmund G. Brown,57
+Shasta,0510,Governor,,REP,Neel Kashkari,65
+Shasta,0520,Governor,,DEM,Edmund G. Brown,93
+Shasta,0520,Governor,,REP,Neel Kashkari,220
+Shasta,0523,Governor,,DEM,Edmund G. Brown,169
+Shasta,0523,Governor,,REP,Neel Kashkari,244
+Shasta,0530,Governor,,DEM,Edmund G. Brown,39
+Shasta,0530,Governor,,REP,Neel Kashkari,71
+Shasta,0531,Governor,,DEM,Edmund G. Brown,80
+Shasta,0531,Governor,,REP,Neel Kashkari,87
+Shasta,0532,Governor,,DEM,Edmund G. Brown,16
+Shasta,0532,Governor,,REP,Neel Kashkari,26
+Shasta,0555,Governor,,DEM,Edmund G. Brown,85
+Shasta,0555,Governor,,REP,Neel Kashkari,182
+Shasta,0557,Governor,,DEM,Edmund G. Brown,96
+Shasta,0557,Governor,,REP,Neel Kashkari,170
+Shasta,0560,Governor,,DEM,Edmund G. Brown,178
+Shasta,0560,Governor,,REP,Neel Kashkari,389
+Shasta,0561,Governor,,DEM,Edmund G. Brown,217
+Shasta,0561,Governor,,REP,Neel Kashkari,448
+Shasta,0570,Governor,,DEM,Edmund G. Brown,478
+Shasta,0570,Governor,,REP,Neel Kashkari,550
+Shasta,0575,Governor,,DEM,Edmund G. Brown,354
+Shasta,0575,Governor,,REP,Neel Kashkari,415
+Shasta,0590,Governor,,DEM,Edmund G. Brown,218
+Shasta,0590,Governor,,REP,Neel Kashkari,484
+Shasta,0595,Governor,,DEM,Edmund G. Brown,221
+Shasta,0595,Governor,,REP,Neel Kashkari,308
+Shasta,0597,Governor,,DEM,Edmund G. Brown,148
+Shasta,0597,Governor,,REP,Neel Kashkari,213
+Shasta,0610,Governor,,DEM,Edmund G. Brown,118
+Shasta,0610,Governor,,REP,Neel Kashkari,151
+Shasta,0611,Governor,,DEM,Edmund G. Brown,266
+Shasta,0611,Governor,,REP,Neel Kashkari,548
+Shasta,0620,Governor,,DEM,Edmund G. Brown,223
+Shasta,0620,Governor,,REP,Neel Kashkari,405
+Shasta,0630,Governor,,DEM,Edmund G. Brown,28
+Shasta,0630,Governor,,REP,Neel Kashkari,47
+Shasta,0640,Governor,,DEM,Edmund G. Brown,273
+Shasta,0640,Governor,,REP,Neel Kashkari,542
+Shasta,0644,Governor,,DEM,Edmund G. Brown,104
+Shasta,0644,Governor,,REP,Neel Kashkari,277
+Shasta,0646,Governor,,DEM,Edmund G. Brown,37
+Shasta,0646,Governor,,REP,Neel Kashkari,80
+Shasta,0647,Governor,,DEM,Edmund G. Brown,29
+Shasta,0647,Governor,,REP,Neel Kashkari,46
+Shasta,0648,Governor,,DEM,Edmund G. Brown,13
+Shasta,0648,Governor,,REP,Neel Kashkari,17
+Shasta,0660,Governor,,DEM,Edmund G. Brown,459
+Shasta,0660,Governor,,REP,Neel Kashkari,417
+Shasta,0750,Governor,,DEM,Edmund G. Brown,68
+Shasta,0750,Governor,,REP,Neel Kashkari,74
+Shasta,0751,Governor,,DEM,Edmund G. Brown,2
+Shasta,0751,Governor,,REP,Neel Kashkari,0
+Shasta,0760,Governor,,DEM,Edmund G. Brown,195
+Shasta,0760,Governor,,REP,Neel Kashkari,274
+Shasta,0770,Governor,,DEM,Edmund G. Brown,329
+Shasta,0770,Governor,,REP,Neel Kashkari,424
+Shasta,0775,Governor,,DEM,Edmund G. Brown,12
+Shasta,0775,Governor,,REP,Neel Kashkari,34
+Shasta,0780,Governor,,DEM,Edmund G. Brown,415
+Shasta,0780,Governor,,REP,Neel Kashkari,328
+Shasta,0800,Governor,,DEM,Edmund G. Brown,65
+Shasta,0800,Governor,,REP,Neel Kashkari,67
+Shasta,0830,Governor,,DEM,Edmund G. Brown,439
+Shasta,0830,Governor,,REP,Neel Kashkari,468
+Shasta,0850,Governor,,DEM,Edmund G. Brown,185
+Shasta,0850,Governor,,REP,Neel Kashkari,268
+Shasta,0861,Governor,,DEM,Edmund G. Brown,432
+Shasta,0861,Governor,,REP,Neel Kashkari,644
+Shasta,0890,Governor,,DEM,Edmund G. Brown,271
+Shasta,0890,Governor,,REP,Neel Kashkari,313
+Shasta,0892,Governor,,DEM,Edmund G. Brown,221
+Shasta,0892,Governor,,REP,Neel Kashkari,402
+Shasta,0893,Governor,,DEM,Edmund G. Brown,39
+Shasta,0893,Governor,,REP,Neel Kashkari,52
+Shasta,0894,Governor,,DEM,Edmund G. Brown,350
+Shasta,0894,Governor,,REP,Neel Kashkari,502
+Shasta,0895,Governor,,DEM,Edmund G. Brown,231
+Shasta,0895,Governor,,REP,Neel Kashkari,300
+Shasta,0897,Governor,,DEM,Edmund G. Brown,363
+Shasta,0897,Governor,,REP,Neel Kashkari,505
+Shasta,0900,Governor,,DEM,Edmund G. Brown,41
+Shasta,0900,Governor,,REP,Neel Kashkari,39
+Shasta,0910,Governor,,DEM,Edmund G. Brown,108
+Shasta,0910,Governor,,REP,Neel Kashkari,129
+Shasta,0912,Governor,,DEM,Edmund G. Brown,361
+Shasta,0912,Governor,,REP,Neel Kashkari,639
+Shasta,0914,Governor,,DEM,Edmund G. Brown,32
+Shasta,0914,Governor,,REP,Neel Kashkari,48
+Shasta,0925,Governor,,DEM,Edmund G. Brown,0
+Shasta,0925,Governor,,REP,Neel Kashkari,0
+Shasta,0930,Governor,,DEM,Edmund G. Brown,396
+Shasta,0930,Governor,,REP,Neel Kashkari,529
+Shasta,0932,Governor,,DEM,Edmund G. Brown,123
+Shasta,0932,Governor,,REP,Neel Kashkari,297
+Shasta,0940,Governor,,DEM,Edmund G. Brown,355
+Shasta,0940,Governor,,REP,Neel Kashkari,769
+Shasta,0942,Governor,,DEM,Edmund G. Brown,249
+Shasta,0942,Governor,,REP,Neel Kashkari,483
+Shasta,0960,Governor,,DEM,Edmund G. Brown,42
+Shasta,0960,Governor,,REP,Neel Kashkari,103
+Shasta,0970,Governor,,DEM,Edmund G. Brown,222
+Shasta,0970,Governor,,REP,Neel Kashkari,353
+Shasta,0972,Governor,,DEM,Edmund G. Brown,88
+Shasta,0972,Governor,,REP,Neel Kashkari,125
+Shasta,0976,Governor,,DEM,Edmund G. Brown,203
+Shasta,0976,Governor,,REP,Neel Kashkari,527
+Shasta,0977,Governor,,DEM,Edmund G. Brown,4
+Shasta,0977,Governor,,REP,Neel Kashkari,8
+Shasta,0978,Governor,,DEM,Edmund G. Brown,140
+Shasta,0978,Governor,,REP,Neel Kashkari,284
+Shasta,0979,Governor,,DEM,Edmund G. Brown,320
+Shasta,0979,Governor,,REP,Neel Kashkari,618
+Shasta,0982,Governor,,DEM,Edmund G. Brown,141
+Shasta,0982,Governor,,REP,Neel Kashkari,189
+Shasta,0990,Governor,,DEM,Edmund G. Brown,5
+Shasta,0990,Governor,,REP,Neel Kashkari,3
+Shasta,1001,Governor,,DEM,Edmund G. Brown,0
+Shasta,1001,Governor,,REP,Neel Kashkari,0
+Shasta,1002,Governor,,DEM,Edmund G. Brown,12
+Shasta,1002,Governor,,REP,Neel Kashkari,44
+Shasta,1003,Governor,,DEM,Edmund G. Brown,170
+Shasta,1003,Governor,,REP,Neel Kashkari,277
+Shasta,1004,Governor,,DEM,Edmund G. Brown,144
+Shasta,1004,Governor,,REP,Neel Kashkari,230
+Shasta,1005,Governor,,DEM,Edmund G. Brown,226
+Shasta,1005,Governor,,REP,Neel Kashkari,394
+Shasta,1006,Governor,,DEM,Edmund G. Brown,150
+Shasta,1006,Governor,,REP,Neel Kashkari,191
+Shasta,1008,Governor,,DEM,Edmund G. Brown,206
+Shasta,1008,Governor,,REP,Neel Kashkari,239
+Shasta,1009,Governor,,DEM,Edmund G. Brown,177
+Shasta,1009,Governor,,REP,Neel Kashkari,258
+Shasta,0010,U.S. House,1,DEM,Heidi Hall,24
+Shasta,0010,U.S. House,1,REP,Doug La Malfa,51
+Shasta,0012,U.S. House,1,DEM,Heidi Hall,47
+Shasta,0012,U.S. House,1,REP,Doug La Malfa,96
+Shasta,0015,U.S. House,1,DEM,Heidi Hall,177
+Shasta,0015,U.S. House,1,REP,Doug La Malfa,273
+Shasta,0020,U.S. House,1,DEM,Heidi Hall,201
+Shasta,0020,U.S. House,1,REP,Doug La Malfa,313
+Shasta,0030,U.S. House,1,DEM,Heidi Hall,127
+Shasta,0030,U.S. House,1,REP,Doug La Malfa,352
+Shasta,034,U.S. House,1,DEM,Heidi Hall,0
+Shasta,034,U.S. House,1,REP,Doug La Malfa,0
+Shasta,0050,U.S. House,1,DEM,Heidi Hall,111
+Shasta,0050,U.S. House,1,REP,Doug La Malfa,168
+Shasta,0060,U.S. House,1,DEM,Heidi Hall,165
+Shasta,0060,U.S. House,1,REP,Doug La Malfa,232
+Shasta,0068,U.S. House,1,DEM,Heidi Hall,281
+Shasta,0068,U.S. House,1,REP,Doug La Malfa,451
+Shasta,0070,U.S. House,1,DEM,Heidi Hall,125
+Shasta,0070,U.S. House,1,REP,Doug La Malfa,234
+Shasta,0080,U.S. House,1,DEM,Heidi Hall,143
+Shasta,0080,U.S. House,1,REP,Doug La Malfa,420
+Shasta,0081,U.S. House,1,DEM,Heidi Hall,37
+Shasta,0081,U.S. House,1,REP,Doug La Malfa,61
+Shasta,0082,U.S. House,1,DEM,Heidi Hall,10
+Shasta,0082,U.S. House,1,REP,Doug La Malfa,18
+Shasta,0090,U.S. House,1,DEM,Heidi Hall,3
+Shasta,0090,U.S. House,1,REP,Doug La Malfa,5
+Shasta,0091,U.S. House,1,DEM,Heidi Hall,202
+Shasta,0091,U.S. House,1,REP,Doug La Malfa,380
+Shasta,0093,U.S. House,1,DEM,Heidi Hall,21
+Shasta,0093,U.S. House,1,REP,Doug La Malfa,50
+Shasta,0101,U.S. House,1,DEM,Heidi Hall,153
+Shasta,0101,U.S. House,1,REP,Doug La Malfa,363
+Shasta,0102,U.S. House,1,DEM,Heidi Hall,191
+Shasta,0102,U.S. House,1,REP,Doug La Malfa,419
+Shasta,0110,U.S. House,1,DEM,Heidi Hall,38
+Shasta,0110,U.S. House,1,REP,Doug La Malfa,77
+Shasta,0112,U.S. House,1,DEM,Heidi Hall,264
+Shasta,0112,U.S. House,1,REP,Doug La Malfa,598
+Shasta,0114,U.S. House,1,DEM,Heidi Hall,57
+Shasta,0114,U.S. House,1,REP,Doug La Malfa,70
+Shasta,0120,U.S. House,1,DEM,Heidi Hall,307
+Shasta,0120,U.S. House,1,REP,Doug La Malfa,312
+Shasta,0130,U.S. House,1,DEM,Heidi Hall,9
+Shasta,0130,U.S. House,1,REP,Doug La Malfa,21
+Shasta,0140,U.S. House,1,DEM,Heidi Hall,233
+Shasta,0140,U.S. House,1,REP,Doug La Malfa,291
+Shasta,0150,U.S. House,1,DEM,Heidi Hall,52
+Shasta,0150,U.S. House,1,REP,Doug La Malfa,83
+Shasta,0160,U.S. House,1,DEM,Heidi Hall,262
+Shasta,0160,U.S. House,1,REP,Doug La Malfa,405
+Shasta,0170,U.S. House,1,DEM,Heidi Hall,210
+Shasta,0170,U.S. House,1,REP,Doug La Malfa,394
+Shasta,0175,U.S. House,1,DEM,Heidi Hall,221
+Shasta,0175,U.S. House,1,REP,Doug La Malfa,383
+Shasta,0201,U.S. House,1,DEM,Heidi Hall,163
+Shasta,0201,U.S. House,1,REP,Doug La Malfa,327
+Shasta,0202,U.S. House,1,DEM,Heidi Hall,116
+Shasta,0202,U.S. House,1,REP,Doug La Malfa,219
+Shasta,0210,U.S. House,1,DEM,Heidi Hall,283
+Shasta,0210,U.S. House,1,REP,Doug La Malfa,607
+Shasta,0240,U.S. House,1,DEM,Heidi Hall,33
+Shasta,0240,U.S. House,1,REP,Doug La Malfa,58
+Shasta,0260,U.S. House,1,DEM,Heidi Hall,186
+Shasta,0260,U.S. House,1,REP,Doug La Malfa,357
+Shasta,0261,U.S. House,1,DEM,Heidi Hall,233
+Shasta,0261,U.S. House,1,REP,Doug La Malfa,434
+Shasta,0262,U.S. House,1,DEM,Heidi Hall,0
+Shasta,0262,U.S. House,1,REP,Doug La Malfa,0
+Shasta,0264,U.S. House,1,DEM,Heidi Hall,6
+Shasta,0264,U.S. House,1,REP,Doug La Malfa,12
+Shasta,0270,U.S. House,1,DEM,Heidi Hall,1
+Shasta,0270,U.S. House,1,REP,Doug La Malfa,3
+Shasta,0310,U.S. House,1,DEM,Heidi Hall,121
+Shasta,0310,U.S. House,1,REP,Doug La Malfa,286
+Shasta,0311,U.S. House,1,DEM,Heidi Hall,324
+Shasta,0311,U.S. House,1,REP,Doug La Malfa,660
+Shasta,0313,U.S. House,1,DEM,Heidi Hall,20
+Shasta,0313,U.S. House,1,REP,Doug La Malfa,55
+Shasta,0320,U.S. House,1,DEM,Heidi Hall,280
+Shasta,0320,U.S. House,1,REP,Doug La Malfa,649
+Shasta,0322,U.S. House,1,DEM,Heidi Hall,0
+Shasta,0322,U.S. House,1,REP,Doug La Malfa,13
+Shasta,0330,U.S. House,1,DEM,Heidi Hall,235
+Shasta,0330,U.S. House,1,REP,Doug La Malfa,419
+Shasta,0340,U.S. House,1,DEM,Heidi Hall,237
+Shasta,0340,U.S. House,1,REP,Doug La Malfa,559
+Shasta,0343,U.S. House,1,DEM,Heidi Hall,385
+Shasta,0343,U.S. House,1,REP,Doug La Malfa,599
+Shasta,0350,U.S. House,1,DEM,Heidi Hall,186
+Shasta,0350,U.S. House,1,REP,Doug La Malfa,617
+Shasta,0360,U.S. House,1,DEM,Heidi Hall,186
+Shasta,0360,U.S. House,1,REP,Doug La Malfa,263
+Shasta,0370,U.S. House,1,DEM,Heidi Hall,154
+Shasta,0370,U.S. House,1,REP,Doug La Malfa,247
+Shasta,0371,U.S. House,1,DEM,Heidi Hall,299
+Shasta,0371,U.S. House,1,REP,Doug La Malfa,565
+Shasta,0375,U.S. House,1,DEM,Heidi Hall,185
+Shasta,0375,U.S. House,1,REP,Doug La Malfa,426
+Shasta,0380,U.S. House,1,DEM,Heidi Hall,52
+Shasta,0380,U.S. House,1,REP,Doug La Malfa,25
+Shasta,0390,U.S. House,1,DEM,Heidi Hall,126
+Shasta,0390,U.S. House,1,REP,Doug La Malfa,194
+Shasta,0400,U.S. House,1,DEM,Heidi Hall,171
+Shasta,0400,U.S. House,1,REP,Doug La Malfa,222
+Shasta,0410,U.S. House,1,DEM,Heidi Hall,96
+Shasta,0410,U.S. House,1,REP,Doug La Malfa,173
+Shasta,0420,U.S. House,1,DEM,Heidi Hall,140
+Shasta,0420,U.S. House,1,REP,Doug La Malfa,248
+Shasta,0430,U.S. House,1,DEM,Heidi Hall,274
+Shasta,0430,U.S. House,1,REP,Doug La Malfa,369
+Shasta,0441,U.S. House,1,DEM,Heidi Hall,265
+Shasta,0441,U.S. House,1,REP,Doug La Malfa,499
+Shasta,0443,U.S. House,1,DEM,Heidi Hall,190
+Shasta,0443,U.S. House,1,REP,Doug La Malfa,402
+Shasta,0445,U.S. House,1,DEM,Heidi Hall,191
+Shasta,0445,U.S. House,1,REP,Doug La Malfa,369
+Shasta,0450,U.S. House,1,DEM,Heidi Hall,220
+Shasta,0450,U.S. House,1,REP,Doug La Malfa,445
+Shasta,0462,U.S. House,1,DEM,Heidi Hall,23
+Shasta,0462,U.S. House,1,REP,Doug La Malfa,45
+Shasta,0464,U.S. House,1,DEM,Heidi Hall,1
+Shasta,0464,U.S. House,1,REP,Doug La Malfa,3
+Shasta,0466,U.S. House,1,DEM,Heidi Hall,3
+Shasta,0466,U.S. House,1,REP,Doug La Malfa,21
+Shasta,0468,U.S. House,1,DEM,Heidi Hall,39
+Shasta,0468,U.S. House,1,REP,Doug La Malfa,94
+Shasta,0490,U.S. House,1,DEM,Heidi Hall,76
+Shasta,0490,U.S. House,1,REP,Doug La Malfa,100
+Shasta,0500,U.S. House,1,DEM,Heidi Hall,289
+Shasta,0500,U.S. House,1,REP,Doug La Malfa,643
+Shasta,0510,U.S. House,1,DEM,Heidi Hall,52
+Shasta,0510,U.S. House,1,REP,Doug La Malfa,69
+Shasta,0520,U.S. House,1,DEM,Heidi Hall,81
+Shasta,0520,U.S. House,1,REP,Doug La Malfa,242
+Shasta,0523,U.S. House,1,DEM,Heidi Hall,149
+Shasta,0523,U.S. House,1,REP,Doug La Malfa,259
+Shasta,0530,U.S. House,1,DEM,Heidi Hall,43
+Shasta,0530,U.S. House,1,REP,Doug La Malfa,64
+Shasta,0531,U.S. House,1,DEM,Heidi Hall,90
+Shasta,0531,U.S. House,1,REP,Doug La Malfa,82
+Shasta,0532,U.S. House,1,DEM,Heidi Hall,10
+Shasta,0532,U.S. House,1,REP,Doug La Malfa,33
+Shasta,0555,U.S. House,1,DEM,Heidi Hall,75
+Shasta,0555,U.S. House,1,REP,Doug La Malfa,193
+Shasta,0557,U.S. House,1,DEM,Heidi Hall,116
+Shasta,0557,U.S. House,1,REP,Doug La Malfa,154
+Shasta,0560,U.S. House,1,DEM,Heidi Hall,153
+Shasta,0560,U.S. House,1,REP,Doug La Malfa,414
+Shasta,0561,U.S. House,1,DEM,Heidi Hall,167
+Shasta,0561,U.S. House,1,REP,Doug La Malfa,491
+Shasta,0570,U.S. House,1,DEM,Heidi Hall,443
+Shasta,0570,U.S. House,1,REP,Doug La Malfa,561
+Shasta,0575,U.S. House,1,DEM,Heidi Hall,318
+Shasta,0575,U.S. House,1,REP,Doug La Malfa,460
+Shasta,0590,U.S. House,1,DEM,Heidi Hall,210
+Shasta,0590,U.S. House,1,REP,Doug La Malfa,515
+Shasta,0595,U.S. House,1,DEM,Heidi Hall,191
+Shasta,0595,U.S. House,1,REP,Doug La Malfa,329
+Shasta,0597,U.S. House,1,DEM,Heidi Hall,137
+Shasta,0597,U.S. House,1,REP,Doug La Malfa,222
+Shasta,0610,U.S. House,1,DEM,Heidi Hall,113
+Shasta,0610,U.S. House,1,REP,Doug La Malfa,156
+Shasta,0611,U.S. House,1,DEM,Heidi Hall,224
+Shasta,0611,U.S. House,1,REP,Doug La Malfa,591
+Shasta,0620,U.S. House,1,DEM,Heidi Hall,203
+Shasta,0620,U.S. House,1,REP,Doug La Malfa,430
+Shasta,0630,U.S. House,1,DEM,Heidi Hall,25
+Shasta,0630,U.S. House,1,REP,Doug La Malfa,52
+Shasta,0640,U.S. House,1,DEM,Heidi Hall,256
+Shasta,0640,U.S. House,1,REP,Doug La Malfa,566
+Shasta,0644,U.S. House,1,DEM,Heidi Hall,99
+Shasta,0644,U.S. House,1,REP,Doug La Malfa,282
+Shasta,0646,U.S. House,1,DEM,Heidi Hall,38
+Shasta,0646,U.S. House,1,REP,Doug La Malfa,83
+Shasta,0647,U.S. House,1,DEM,Heidi Hall,25
+Shasta,0647,U.S. House,1,REP,Doug La Malfa,54
+Shasta,0648,U.S. House,1,DEM,Heidi Hall,8
+Shasta,0648,U.S. House,1,REP,Doug La Malfa,23
+Shasta,0660,U.S. House,1,DEM,Heidi Hall,434
+Shasta,0660,U.S. House,1,REP,Doug La Malfa,453
+Shasta,0750,U.S. House,1,DEM,Heidi Hall,58
+Shasta,0750,U.S. House,1,REP,Doug La Malfa,85
+Shasta,0751,U.S. House,1,DEM,Heidi Hall,2
+Shasta,0751,U.S. House,1,REP,Doug La Malfa,0
+Shasta,0760,U.S. House,1,DEM,Heidi Hall,183
+Shasta,0760,U.S. House,1,REP,Doug La Malfa,291
+Shasta,0770,U.S. House,1,DEM,Heidi Hall,308
+Shasta,0770,U.S. House,1,REP,Doug La Malfa,450
+Shasta,0775,U.S. House,1,DEM,Heidi Hall,14
+Shasta,0775,U.S. House,1,REP,Doug La Malfa,31
+Shasta,0780,U.S. House,1,DEM,Heidi Hall,394
+Shasta,0780,U.S. House,1,REP,Doug La Malfa,359
+Shasta,0800,U.S. House,1,DEM,Heidi Hall,54
+Shasta,0800,U.S. House,1,REP,Doug La Malfa,80
+Shasta,0830,U.S. House,1,DEM,Heidi Hall,392
+Shasta,0830,U.S. House,1,REP,Doug La Malfa,501
+Shasta,0850,U.S. House,1,DEM,Heidi Hall,155
+Shasta,0850,U.S. House,1,REP,Doug La Malfa,299
+Shasta,0861,U.S. House,1,DEM,Heidi Hall,363
+Shasta,0861,U.S. House,1,REP,Doug La Malfa,721
+Shasta,0890,U.S. House,1,DEM,Heidi Hall,245
+Shasta,0890,U.S. House,1,REP,Doug La Malfa,339
+Shasta,0892,U.S. House,1,DEM,Heidi Hall,196
+Shasta,0892,U.S. House,1,REP,Doug La Malfa,427
+Shasta,0893,U.S. House,1,DEM,Heidi Hall,32
+Shasta,0893,U.S. House,1,REP,Doug La Malfa,61
+Shasta,0894,U.S. House,1,DEM,Heidi Hall,332
+Shasta,0894,U.S. House,1,REP,Doug La Malfa,520
+Shasta,0895,U.S. House,1,DEM,Heidi Hall,212
+Shasta,0895,U.S. House,1,REP,Doug La Malfa,320
+Shasta,0897,U.S. House,1,DEM,Heidi Hall,357
+Shasta,0897,U.S. House,1,REP,Doug La Malfa,514
+Shasta,0900,U.S. House,1,DEM,Heidi Hall,36
+Shasta,0900,U.S. House,1,REP,Doug La Malfa,44
+Shasta,0910,U.S. House,1,DEM,Heidi Hall,102
+Shasta,0910,U.S. House,1,REP,Doug La Malfa,136
+Shasta,0912,U.S. House,1,DEM,Heidi Hall,317
+Shasta,0912,U.S. House,1,REP,Doug La Malfa,685
+Shasta,0914,U.S. House,1,DEM,Heidi Hall,30
+Shasta,0914,U.S. House,1,REP,Doug La Malfa,52
+Shasta,0925,U.S. House,1,DEM,Heidi Hall,0
+Shasta,0925,U.S. House,1,REP,Doug La Malfa,0
+Shasta,0930,U.S. House,1,DEM,Heidi Hall,398
+Shasta,0930,U.S. House,1,REP,Doug La Malfa,535
+Shasta,0932,U.S. House,1,DEM,Heidi Hall,109
+Shasta,0932,U.S. House,1,REP,Doug La Malfa,313
+Shasta,0940,U.S. House,1,DEM,Heidi Hall,374
+Shasta,0940,U.S. House,1,REP,Doug La Malfa,750
+Shasta,0942,U.S. House,1,DEM,Heidi Hall,254
+Shasta,0942,U.S. House,1,REP,Doug La Malfa,483
+Shasta,0960,U.S. House,1,DEM,Heidi Hall,39
+Shasta,0960,U.S. House,1,REP,Doug La Malfa,107
+Shasta,0970,U.S. House,1,DEM,Heidi Hall,218
+Shasta,0970,U.S. House,1,REP,Doug La Malfa,358
+Shasta,0972,U.S. House,1,DEM,Heidi Hall,85
+Shasta,0972,U.S. House,1,REP,Doug La Malfa,127
+Shasta,0976,U.S. House,1,DEM,Heidi Hall,152
+Shasta,0976,U.S. House,1,REP,Doug La Malfa,577
+Shasta,0977,U.S. House,1,DEM,Heidi Hall,3
+Shasta,0977,U.S. House,1,REP,Doug La Malfa,9
+Shasta,0978,U.S. House,1,DEM,Heidi Hall,118
+Shasta,0978,U.S. House,1,REP,Doug La Malfa,310
+Shasta,0979,U.S. House,1,DEM,Heidi Hall,301
+Shasta,0979,U.S. House,1,REP,Doug La Malfa,654
+Shasta,0982,U.S. House,1,DEM,Heidi Hall,132
+Shasta,0982,U.S. House,1,REP,Doug La Malfa,197
+Shasta,0990,U.S. House,1,DEM,Heidi Hall,3
+Shasta,0990,U.S. House,1,REP,Doug La Malfa,5
+Shasta,1001,U.S. House,1,DEM,Heidi Hall,0
+Shasta,1001,U.S. House,1,REP,Doug La Malfa,0
+Shasta,1002,U.S. House,1,DEM,Heidi Hall,13
+Shasta,1002,U.S. House,1,REP,Doug La Malfa,44
+Shasta,1003,U.S. House,1,DEM,Heidi Hall,185
+Shasta,1003,U.S. House,1,REP,Doug La Malfa,264
+Shasta,1004,U.S. House,1,DEM,Heidi Hall,150
+Shasta,1004,U.S. House,1,REP,Doug La Malfa,229
+Shasta,1005,U.S. House,1,DEM,Heidi Hall,209
+Shasta,1005,U.S. House,1,REP,Doug La Malfa,403
+Shasta,1006,U.S. House,1,DEM,Heidi Hall,137
+Shasta,1006,U.S. House,1,REP,Doug La Malfa,208
+Shasta,1008,U.S. House,1,DEM,Heidi Hall,182
+Shasta,1008,U.S. House,1,REP,Doug La Malfa,261
+Shasta,1009,U.S. House,1,DEM,Heidi Hall,176
+Shasta,1009,U.S. House,1,REP,Doug La Malfa,262
+Shasta,0010,Insurance Commissioner,,DEM,Dave Jones,20
+Shasta,0010,Insurance Commissioner,,REP,Ted Gaines,57
+Shasta,0012,Insurance Commissioner,,DEM,Dave Jones,38
+Shasta,0012,Insurance Commissioner,,REP,Ted Gaines,96
+Shasta,0015,Insurance Commissioner,,DEM,Dave Jones,162
+Shasta,0015,Insurance Commissioner,,REP,Ted Gaines,280
+Shasta,0020,Insurance Commissioner,,DEM,Dave Jones,187
+Shasta,0020,Insurance Commissioner,,REP,Ted Gaines,322
+Shasta,0030,Insurance Commissioner,,DEM,Dave Jones,124
+Shasta,0030,Insurance Commissioner,,REP,Ted Gaines,347
+Shasta,034,Insurance Commissioner,,DEM,Dave Jones,0
+Shasta,034,Insurance Commissioner,,REP,Ted Gaines,0
+Shasta,0050,Insurance Commissioner,,DEM,Dave Jones,94
+Shasta,0050,Insurance Commissioner,,REP,Ted Gaines,178
+Shasta,0060,Insurance Commissioner,,DEM,Dave Jones,165
+Shasta,0060,Insurance Commissioner,,REP,Ted Gaines,223
+Shasta,0068,Insurance Commissioner,,DEM,Dave Jones,259
+Shasta,0068,Insurance Commissioner,,REP,Ted Gaines,460
+Shasta,0070,Insurance Commissioner,,DEM,Dave Jones,122
+Shasta,0070,Insurance Commissioner,,REP,Ted Gaines,226
+Shasta,0080,Insurance Commissioner,,DEM,Dave Jones,142
+Shasta,0080,Insurance Commissioner,,REP,Ted Gaines,405
+Shasta,0081,Insurance Commissioner,,DEM,Dave Jones,43
+Shasta,0081,Insurance Commissioner,,REP,Ted Gaines,54
+Shasta,0082,Insurance Commissioner,,DEM,Dave Jones,7
+Shasta,0082,Insurance Commissioner,,REP,Ted Gaines,21
+Shasta,0090,Insurance Commissioner,,DEM,Dave Jones,3
+Shasta,0090,Insurance Commissioner,,REP,Ted Gaines,5
+Shasta,0091,Insurance Commissioner,,DEM,Dave Jones,185
+Shasta,0091,Insurance Commissioner,,REP,Ted Gaines,376
+Shasta,0093,Insurance Commissioner,,DEM,Dave Jones,24
+Shasta,0093,Insurance Commissioner,,REP,Ted Gaines,43
+Shasta,0101,Insurance Commissioner,,DEM,Dave Jones,152
+Shasta,0101,Insurance Commissioner,,REP,Ted Gaines,359
+Shasta,0102,Insurance Commissioner,,DEM,Dave Jones,189
+Shasta,0102,Insurance Commissioner,,REP,Ted Gaines,415
+Shasta,0110,Insurance Commissioner,,DEM,Dave Jones,32
+Shasta,0110,Insurance Commissioner,,REP,Ted Gaines,82
+Shasta,0112,Insurance Commissioner,,DEM,Dave Jones,234
+Shasta,0112,Insurance Commissioner,,REP,Ted Gaines,607
+Shasta,0114,Insurance Commissioner,,DEM,Dave Jones,48
+Shasta,0114,Insurance Commissioner,,REP,Ted Gaines,78
+Shasta,0120,Insurance Commissioner,,DEM,Dave Jones,262
+Shasta,0120,Insurance Commissioner,,REP,Ted Gaines,349
+Shasta,0130,Insurance Commissioner,,DEM,Dave Jones,9
+Shasta,0130,Insurance Commissioner,,REP,Ted Gaines,21
+Shasta,0140,Insurance Commissioner,,DEM,Dave Jones,198
+Shasta,0140,Insurance Commissioner,,REP,Ted Gaines,298
+Shasta,0150,Insurance Commissioner,,DEM,Dave Jones,52
+Shasta,0150,Insurance Commissioner,,REP,Ted Gaines,77
+Shasta,0160,Insurance Commissioner,,DEM,Dave Jones,214
+Shasta,0160,Insurance Commissioner,,REP,Ted Gaines,436
+Shasta,0170,Insurance Commissioner,,DEM,Dave Jones,183
+Shasta,0170,Insurance Commissioner,,REP,Ted Gaines,402
+Shasta,0175,Insurance Commissioner,,DEM,Dave Jones,201
+Shasta,0175,Insurance Commissioner,,REP,Ted Gaines,383
+Shasta,0201,Insurance Commissioner,,DEM,Dave Jones,157
+Shasta,0201,Insurance Commissioner,,REP,Ted Gaines,319
+Shasta,0202,Insurance Commissioner,,DEM,Dave Jones,111
+Shasta,0202,Insurance Commissioner,,REP,Ted Gaines,218
+Shasta,0210,Insurance Commissioner,,DEM,Dave Jones,271
+Shasta,0210,Insurance Commissioner,,REP,Ted Gaines,594
+Shasta,0240,Insurance Commissioner,,DEM,Dave Jones,36
+Shasta,0240,Insurance Commissioner,,REP,Ted Gaines,53
+Shasta,0260,Insurance Commissioner,,DEM,Dave Jones,174
+Shasta,0260,Insurance Commissioner,,REP,Ted Gaines,360
+Shasta,0261,Insurance Commissioner,,DEM,Dave Jones,207
+Shasta,0261,Insurance Commissioner,,REP,Ted Gaines,453
+Shasta,0262,Insurance Commissioner,,DEM,Dave Jones,0
+Shasta,0262,Insurance Commissioner,,REP,Ted Gaines,0
+Shasta,0264,Insurance Commissioner,,DEM,Dave Jones,3
+Shasta,0264,Insurance Commissioner,,REP,Ted Gaines,15
+Shasta,0270,Insurance Commissioner,,DEM,Dave Jones,0
+Shasta,0270,Insurance Commissioner,,REP,Ted Gaines,4
+Shasta,0310,Insurance Commissioner,,DEM,Dave Jones,118
+Shasta,0310,Insurance Commissioner,,REP,Ted Gaines,282
+Shasta,0311,Insurance Commissioner,,DEM,Dave Jones,299
+Shasta,0311,Insurance Commissioner,,REP,Ted Gaines,658
+Shasta,0313,Insurance Commissioner,,DEM,Dave Jones,17
+Shasta,0313,Insurance Commissioner,,REP,Ted Gaines,56
+Shasta,0320,Insurance Commissioner,,DEM,Dave Jones,248
+Shasta,0320,Insurance Commissioner,,REP,Ted Gaines,649
+Shasta,0322,Insurance Commissioner,,DEM,Dave Jones,1
+Shasta,0322,Insurance Commissioner,,REP,Ted Gaines,11
+Shasta,0330,Insurance Commissioner,,DEM,Dave Jones,228
+Shasta,0330,Insurance Commissioner,,REP,Ted Gaines,410
+Shasta,0340,Insurance Commissioner,,DEM,Dave Jones,228
+Shasta,0340,Insurance Commissioner,,REP,Ted Gaines,548
+Shasta,0343,Insurance Commissioner,,DEM,Dave Jones,338
+Shasta,0343,Insurance Commissioner,,REP,Ted Gaines,602
+Shasta,0350,Insurance Commissioner,,DEM,Dave Jones,216
+Shasta,0350,Insurance Commissioner,,REP,Ted Gaines,561
+Shasta,0360,Insurance Commissioner,,DEM,Dave Jones,180
+Shasta,0360,Insurance Commissioner,,REP,Ted Gaines,256
+Shasta,0370,Insurance Commissioner,,DEM,Dave Jones,145
+Shasta,0370,Insurance Commissioner,,REP,Ted Gaines,247
+Shasta,0371,Insurance Commissioner,,DEM,Dave Jones,256
+Shasta,0371,Insurance Commissioner,,REP,Ted Gaines,589
+Shasta,0375,Insurance Commissioner,,DEM,Dave Jones,166
+Shasta,0375,Insurance Commissioner,,REP,Ted Gaines,432
+Shasta,0380,Insurance Commissioner,,DEM,Dave Jones,48
+Shasta,0380,Insurance Commissioner,,REP,Ted Gaines,28
+Shasta,0390,Insurance Commissioner,,DEM,Dave Jones,127
+Shasta,0390,Insurance Commissioner,,REP,Ted Gaines,187
+Shasta,0400,Insurance Commissioner,,DEM,Dave Jones,160
+Shasta,0400,Insurance Commissioner,,REP,Ted Gaines,226
+Shasta,0410,Insurance Commissioner,,DEM,Dave Jones,92
+Shasta,0410,Insurance Commissioner,,REP,Ted Gaines,169
+Shasta,0420,Insurance Commissioner,,DEM,Dave Jones,130
+Shasta,0420,Insurance Commissioner,,REP,Ted Gaines,248
+Shasta,0430,Insurance Commissioner,,DEM,Dave Jones,230
+Shasta,0430,Insurance Commissioner,,REP,Ted Gaines,386
+Shasta,0441,Insurance Commissioner,,DEM,Dave Jones,238
+Shasta,0441,Insurance Commissioner,,REP,Ted Gaines,511
+Shasta,0443,Insurance Commissioner,,DEM,Dave Jones,172
+Shasta,0443,Insurance Commissioner,,REP,Ted Gaines,402
+Shasta,0445,Insurance Commissioner,,DEM,Dave Jones,172
+Shasta,0445,Insurance Commissioner,,REP,Ted Gaines,368
+Shasta,0450,Insurance Commissioner,,DEM,Dave Jones,193
+Shasta,0450,Insurance Commissioner,,REP,Ted Gaines,456
+Shasta,0462,Insurance Commissioner,,DEM,Dave Jones,18
+Shasta,0462,Insurance Commissioner,,REP,Ted Gaines,49
+Shasta,0464,Insurance Commissioner,,DEM,Dave Jones,0
+Shasta,0464,Insurance Commissioner,,REP,Ted Gaines,4
+Shasta,0466,Insurance Commissioner,,DEM,Dave Jones,5
+Shasta,0466,Insurance Commissioner,,REP,Ted Gaines,19
+Shasta,0468,Insurance Commissioner,,DEM,Dave Jones,44
+Shasta,0468,Insurance Commissioner,,REP,Ted Gaines,89
+Shasta,0490,Insurance Commissioner,,DEM,Dave Jones,62
+Shasta,0490,Insurance Commissioner,,REP,Ted Gaines,100
+Shasta,0500,Insurance Commissioner,,DEM,Dave Jones,263
+Shasta,0500,Insurance Commissioner,,REP,Ted Gaines,643
+Shasta,0510,Insurance Commissioner,,DEM,Dave Jones,50
+Shasta,0510,Insurance Commissioner,,REP,Ted Gaines,70
+Shasta,0520,Insurance Commissioner,,DEM,Dave Jones,74
+Shasta,0520,Insurance Commissioner,,REP,Ted Gaines,243
+Shasta,0523,Insurance Commissioner,,DEM,Dave Jones,150
+Shasta,0523,Insurance Commissioner,,REP,Ted Gaines,250
+Shasta,0530,Insurance Commissioner,,DEM,Dave Jones,36
+Shasta,0530,Insurance Commissioner,,REP,Ted Gaines,67
+Shasta,0531,Insurance Commissioner,,DEM,Dave Jones,82
+Shasta,0531,Insurance Commissioner,,REP,Ted Gaines,82
+Shasta,0532,Insurance Commissioner,,DEM,Dave Jones,15
+Shasta,0532,Insurance Commissioner,,REP,Ted Gaines,26
+Shasta,0555,Insurance Commissioner,,DEM,Dave Jones,83
+Shasta,0555,Insurance Commissioner,,REP,Ted Gaines,183
+Shasta,0557,Insurance Commissioner,,DEM,Dave Jones,94
+Shasta,0557,Insurance Commissioner,,REP,Ted Gaines,168
+Shasta,0560,Insurance Commissioner,,DEM,Dave Jones,132
+Shasta,0560,Insurance Commissioner,,REP,Ted Gaines,420
+Shasta,0561,Insurance Commissioner,,DEM,Dave Jones,176
+Shasta,0561,Insurance Commissioner,,REP,Ted Gaines,466
+Shasta,0570,Insurance Commissioner,,DEM,Dave Jones,379
+Shasta,0570,Insurance Commissioner,,REP,Ted Gaines,582
+Shasta,0575,Insurance Commissioner,,DEM,Dave Jones,258
+Shasta,0575,Insurance Commissioner,,REP,Ted Gaines,478
+Shasta,0590,Insurance Commissioner,,DEM,Dave Jones,182
+Shasta,0590,Insurance Commissioner,,REP,Ted Gaines,520
+Shasta,0595,Insurance Commissioner,,DEM,Dave Jones,183
+Shasta,0595,Insurance Commissioner,,REP,Ted Gaines,332
+Shasta,0597,Insurance Commissioner,,DEM,Dave Jones,130
+Shasta,0597,Insurance Commissioner,,REP,Ted Gaines,224
+Shasta,0610,Insurance Commissioner,,DEM,Dave Jones,104
+Shasta,0610,Insurance Commissioner,,REP,Ted Gaines,155
+Shasta,0611,Insurance Commissioner,,DEM,Dave Jones,200
+Shasta,0611,Insurance Commissioner,,REP,Ted Gaines,599
+Shasta,0620,Insurance Commissioner,,DEM,Dave Jones,204
+Shasta,0620,Insurance Commissioner,,REP,Ted Gaines,410
+Shasta,0630,Insurance Commissioner,,DEM,Dave Jones,24
+Shasta,0630,Insurance Commissioner,,REP,Ted Gaines,50
+Shasta,0640,Insurance Commissioner,,DEM,Dave Jones,227
+Shasta,0640,Insurance Commissioner,,REP,Ted Gaines,574
+Shasta,0644,Insurance Commissioner,,DEM,Dave Jones,85
+Shasta,0644,Insurance Commissioner,,REP,Ted Gaines,281
+Shasta,0646,Insurance Commissioner,,DEM,Dave Jones,35
+Shasta,0646,Insurance Commissioner,,REP,Ted Gaines,84
+Shasta,0647,Insurance Commissioner,,DEM,Dave Jones,18
+Shasta,0647,Insurance Commissioner,,REP,Ted Gaines,59
+Shasta,0648,Insurance Commissioner,,DEM,Dave Jones,8
+Shasta,0648,Insurance Commissioner,,REP,Ted Gaines,22
+Shasta,0660,Insurance Commissioner,,DEM,Dave Jones,412
+Shasta,0660,Insurance Commissioner,,REP,Ted Gaines,437
+Shasta,0750,Insurance Commissioner,,DEM,Dave Jones,49
+Shasta,0750,Insurance Commissioner,,REP,Ted Gaines,89
+Shasta,0751,Insurance Commissioner,,DEM,Dave Jones,1
+Shasta,0751,Insurance Commissioner,,REP,Ted Gaines,1
+Shasta,0760,Insurance Commissioner,,DEM,Dave Jones,173
+Shasta,0760,Insurance Commissioner,,REP,Ted Gaines,284
+Shasta,0770,Insurance Commissioner,,DEM,Dave Jones,265
+Shasta,0770,Insurance Commissioner,,REP,Ted Gaines,459
+Shasta,0775,Insurance Commissioner,,DEM,Dave Jones,14
+Shasta,0775,Insurance Commissioner,,REP,Ted Gaines,31
+Shasta,0780,Insurance Commissioner,,DEM,Dave Jones,356
+Shasta,0780,Insurance Commissioner,,REP,Ted Gaines,361
+Shasta,0800,Insurance Commissioner,,DEM,Dave Jones,49
+Shasta,0800,Insurance Commissioner,,REP,Ted Gaines,82
+Shasta,0830,Insurance Commissioner,,DEM,Dave Jones,344
+Shasta,0830,Insurance Commissioner,,REP,Ted Gaines,526
+Shasta,0850,Insurance Commissioner,,DEM,Dave Jones,139
+Shasta,0850,Insurance Commissioner,,REP,Ted Gaines,301
+Shasta,0861,Insurance Commissioner,,DEM,Dave Jones,345
+Shasta,0861,Insurance Commissioner,,REP,Ted Gaines,702
+Shasta,0890,Insurance Commissioner,,DEM,Dave Jones,194
+Shasta,0890,Insurance Commissioner,,REP,Ted Gaines,366
+Shasta,0892,Insurance Commissioner,,DEM,Dave Jones,160
+Shasta,0892,Insurance Commissioner,,REP,Ted Gaines,443
+Shasta,0893,Insurance Commissioner,,DEM,Dave Jones,29
+Shasta,0893,Insurance Commissioner,,REP,Ted Gaines,62
+Shasta,0894,Insurance Commissioner,,DEM,Dave Jones,315
+Shasta,0894,Insurance Commissioner,,REP,Ted Gaines,514
+Shasta,0895,Insurance Commissioner,,DEM,Dave Jones,198
+Shasta,0895,Insurance Commissioner,,REP,Ted Gaines,325
+Shasta,0897,Insurance Commissioner,,DEM,Dave Jones,334
+Shasta,0897,Insurance Commissioner,,REP,Ted Gaines,522
+Shasta,0900,Insurance Commissioner,,DEM,Dave Jones,31
+Shasta,0900,Insurance Commissioner,,REP,Ted Gaines,47
+Shasta,0910,Insurance Commissioner,,DEM,Dave Jones,100
+Shasta,0910,Insurance Commissioner,,REP,Ted Gaines,135
+Shasta,0912,Insurance Commissioner,,DEM,Dave Jones,264
+Shasta,0912,Insurance Commissioner,,REP,Ted Gaines,718
+Shasta,0914,Insurance Commissioner,,DEM,Dave Jones,23
+Shasta,0914,Insurance Commissioner,,REP,Ted Gaines,55
+Shasta,0925,Insurance Commissioner,,DEM,Dave Jones,0
+Shasta,0925,Insurance Commissioner,,REP,Ted Gaines,0
+Shasta,0930,Insurance Commissioner,,DEM,Dave Jones,341
+Shasta,0930,Insurance Commissioner,,REP,Ted Gaines,548
+Shasta,0932,Insurance Commissioner,,DEM,Dave Jones,106
+Shasta,0932,Insurance Commissioner,,REP,Ted Gaines,312
+Shasta,0940,Insurance Commissioner,,DEM,Dave Jones,332
+Shasta,0940,Insurance Commissioner,,REP,Ted Gaines,761
+Shasta,0942,Insurance Commissioner,,DEM,Dave Jones,234
+Shasta,0942,Insurance Commissioner,,REP,Ted Gaines,493
+Shasta,0960,Insurance Commissioner,,DEM,Dave Jones,30
+Shasta,0960,Insurance Commissioner,,REP,Ted Gaines,112
+Shasta,0970,Insurance Commissioner,,DEM,Dave Jones,199
+Shasta,0970,Insurance Commissioner,,REP,Ted Gaines,357
+Shasta,0972,Insurance Commissioner,,DEM,Dave Jones,69
+Shasta,0972,Insurance Commissioner,,REP,Ted Gaines,140
+Shasta,0976,Insurance Commissioner,,DEM,Dave Jones,162
+Shasta,0976,Insurance Commissioner,,REP,Ted Gaines,537
+Shasta,0977,Insurance Commissioner,,DEM,Dave Jones,3
+Shasta,0977,Insurance Commissioner,,REP,Ted Gaines,9
+Shasta,0978,Insurance Commissioner,,DEM,Dave Jones,100
+Shasta,0978,Insurance Commissioner,,REP,Ted Gaines,310
+Shasta,0979,Insurance Commissioner,,DEM,Dave Jones,234
+Shasta,0979,Insurance Commissioner,,REP,Ted Gaines,691
+Shasta,0982,Insurance Commissioner,,DEM,Dave Jones,124
+Shasta,0982,Insurance Commissioner,,REP,Ted Gaines,197
+Shasta,0990,Insurance Commissioner,,DEM,Dave Jones,4
+Shasta,0990,Insurance Commissioner,,REP,Ted Gaines,4
+Shasta,1001,Insurance Commissioner,,DEM,Dave Jones,0
+Shasta,1001,Insurance Commissioner,,REP,Ted Gaines,0
+Shasta,1002,Insurance Commissioner,,DEM,Dave Jones,11
+Shasta,1002,Insurance Commissioner,,REP,Ted Gaines,44
+Shasta,1003,Insurance Commissioner,,DEM,Dave Jones,152
+Shasta,1003,Insurance Commissioner,,REP,Ted Gaines,277
+Shasta,1004,Insurance Commissioner,,DEM,Dave Jones,152
+Shasta,1004,Insurance Commissioner,,REP,Ted Gaines,214
+Shasta,1005,Insurance Commissioner,,DEM,Dave Jones,191
+Shasta,1005,Insurance Commissioner,,REP,Ted Gaines,408
+Shasta,1006,Insurance Commissioner,,DEM,Dave Jones,131
+Shasta,1006,Insurance Commissioner,,REP,Ted Gaines,201
+Shasta,1008,Insurance Commissioner,,DEM,Dave Jones,168
+Shasta,1008,Insurance Commissioner,,REP,Ted Gaines,263
+Shasta,1009,Insurance Commissioner,,DEM,Dave Jones,160
+Shasta,1009,Insurance Commissioner,,REP,Ted Gaines,265
+Shasta,0010,Lieutenant Governor,,DEM,Gavin Newsom,22
+Shasta,0010,Lieutenant Governor,,REP,Ron Nehring,55
+Shasta,0012,Lieutenant Governor,,DEM,Gavin Newsom,45
+Shasta,0012,Lieutenant Governor,,REP,Ron Nehring,93
+Shasta,0015,Lieutenant Governor,,DEM,Gavin Newsom,171
+Shasta,0015,Lieutenant Governor,,REP,Ron Nehring,278
+Shasta,0020,Lieutenant Governor,,DEM,Gavin Newsom,191
+Shasta,0020,Lieutenant Governor,,REP,Ron Nehring,321
+Shasta,0030,Lieutenant Governor,,DEM,Gavin Newsom,136
+Shasta,0030,Lieutenant Governor,,REP,Ron Nehring,345
+Shasta,034,Lieutenant Governor,,DEM,Gavin Newsom,0
+Shasta,034,Lieutenant Governor,,REP,Ron Nehring,0
+Shasta,0050,Lieutenant Governor,,DEM,Gavin Newsom,100
+Shasta,0050,Lieutenant Governor,,REP,Ron Nehring,174
+Shasta,0060,Lieutenant Governor,,DEM,Gavin Newsom,169
+Shasta,0060,Lieutenant Governor,,REP,Ron Nehring,223
+Shasta,0068,Lieutenant Governor,,DEM,Gavin Newsom,277
+Shasta,0068,Lieutenant Governor,,REP,Ron Nehring,453
+Shasta,0070,Lieutenant Governor,,DEM,Gavin Newsom,127
+Shasta,0070,Lieutenant Governor,,REP,Ron Nehring,224
+Shasta,0080,Lieutenant Governor,,DEM,Gavin Newsom,146
+Shasta,0080,Lieutenant Governor,,REP,Ron Nehring,409
+Shasta,0081,Lieutenant Governor,,DEM,Gavin Newsom,43
+Shasta,0081,Lieutenant Governor,,REP,Ron Nehring,57
+Shasta,0082,Lieutenant Governor,,DEM,Gavin Newsom,7
+Shasta,0082,Lieutenant Governor,,REP,Ron Nehring,21
+Shasta,0090,Lieutenant Governor,,DEM,Gavin Newsom,2
+Shasta,0090,Lieutenant Governor,,REP,Ron Nehring,6
+Shasta,0091,Lieutenant Governor,,DEM,Gavin Newsom,194
+Shasta,0091,Lieutenant Governor,,REP,Ron Nehring,374
+Shasta,0093,Lieutenant Governor,,DEM,Gavin Newsom,20
+Shasta,0093,Lieutenant Governor,,REP,Ron Nehring,47
+Shasta,0101,Lieutenant Governor,,DEM,Gavin Newsom,158
+Shasta,0101,Lieutenant Governor,,REP,Ron Nehring,355
+Shasta,0102,Lieutenant Governor,,DEM,Gavin Newsom,188
+Shasta,0102,Lieutenant Governor,,REP,Ron Nehring,427
+Shasta,0110,Lieutenant Governor,,DEM,Gavin Newsom,34
+Shasta,0110,Lieutenant Governor,,REP,Ron Nehring,80
+Shasta,0112,Lieutenant Governor,,DEM,Gavin Newsom,234
+Shasta,0112,Lieutenant Governor,,REP,Ron Nehring,626
+Shasta,0114,Lieutenant Governor,,DEM,Gavin Newsom,47
+Shasta,0114,Lieutenant Governor,,REP,Ron Nehring,82
+Shasta,0120,Lieutenant Governor,,DEM,Gavin Newsom,295
+Shasta,0120,Lieutenant Governor,,REP,Ron Nehring,322
+Shasta,0130,Lieutenant Governor,,DEM,Gavin Newsom,8
+Shasta,0130,Lieutenant Governor,,REP,Ron Nehring,23
+Shasta,0140,Lieutenant Governor,,DEM,Gavin Newsom,219
+Shasta,0140,Lieutenant Governor,,REP,Ron Nehring,289
+Shasta,0150,Lieutenant Governor,,DEM,Gavin Newsom,46
+Shasta,0150,Lieutenant Governor,,REP,Ron Nehring,82
+Shasta,0160,Lieutenant Governor,,DEM,Gavin Newsom,236
+Shasta,0160,Lieutenant Governor,,REP,Ron Nehring,429
+Shasta,0170,Lieutenant Governor,,DEM,Gavin Newsom,189
+Shasta,0170,Lieutenant Governor,,REP,Ron Nehring,400
+Shasta,0175,Lieutenant Governor,,DEM,Gavin Newsom,217
+Shasta,0175,Lieutenant Governor,,REP,Ron Nehring,375
+Shasta,0201,Lieutenant Governor,,DEM,Gavin Newsom,173
+Shasta,0201,Lieutenant Governor,,REP,Ron Nehring,315
+Shasta,0202,Lieutenant Governor,,DEM,Gavin Newsom,109
+Shasta,0202,Lieutenant Governor,,REP,Ron Nehring,224
+Shasta,0210,Lieutenant Governor,,DEM,Gavin Newsom,272
+Shasta,0210,Lieutenant Governor,,REP,Ron Nehring,612
+Shasta,0240,Lieutenant Governor,,DEM,Gavin Newsom,40
+Shasta,0240,Lieutenant Governor,,REP,Ron Nehring,49
+Shasta,0260,Lieutenant Governor,,DEM,Gavin Newsom,183
+Shasta,0260,Lieutenant Governor,,REP,Ron Nehring,361
+Shasta,0261,Lieutenant Governor,,DEM,Gavin Newsom,230
+Shasta,0261,Lieutenant Governor,,REP,Ron Nehring,438
+Shasta,0262,Lieutenant Governor,,DEM,Gavin Newsom,0
+Shasta,0262,Lieutenant Governor,,REP,Ron Nehring,0
+Shasta,0264,Lieutenant Governor,,DEM,Gavin Newsom,5
+Shasta,0264,Lieutenant Governor,,REP,Ron Nehring,13
+Shasta,0270,Lieutenant Governor,,DEM,Gavin Newsom,0
+Shasta,0270,Lieutenant Governor,,REP,Ron Nehring,4
+Shasta,0310,Lieutenant Governor,,DEM,Gavin Newsom,121
+Shasta,0310,Lieutenant Governor,,REP,Ron Nehring,285
+Shasta,0311,Lieutenant Governor,,DEM,Gavin Newsom,312
+Shasta,0311,Lieutenant Governor,,REP,Ron Nehring,663
+Shasta,0313,Lieutenant Governor,,DEM,Gavin Newsom,19
+Shasta,0313,Lieutenant Governor,,REP,Ron Nehring,55
+Shasta,0320,Lieutenant Governor,,DEM,Gavin Newsom,258
+Shasta,0320,Lieutenant Governor,,REP,Ron Nehring,660
+Shasta,0322,Lieutenant Governor,,DEM,Gavin Newsom,3
+Shasta,0322,Lieutenant Governor,,REP,Ron Nehring,10
+Shasta,0330,Lieutenant Governor,,DEM,Gavin Newsom,230
+Shasta,0330,Lieutenant Governor,,REP,Ron Nehring,421
+Shasta,0340,Lieutenant Governor,,DEM,Gavin Newsom,232
+Shasta,0340,Lieutenant Governor,,REP,Ron Nehring,557
+Shasta,0343,Lieutenant Governor,,DEM,Gavin Newsom,358
+Shasta,0343,Lieutenant Governor,,REP,Ron Nehring,609
+Shasta,0350,Lieutenant Governor,,DEM,Gavin Newsom,208
+Shasta,0350,Lieutenant Governor,,REP,Ron Nehring,573
+Shasta,0360,Lieutenant Governor,,DEM,Gavin Newsom,196
+Shasta,0360,Lieutenant Governor,,REP,Ron Nehring,248
+Shasta,0370,Lieutenant Governor,,DEM,Gavin Newsom,140
+Shasta,0370,Lieutenant Governor,,REP,Ron Nehring,256
+Shasta,0371,Lieutenant Governor,,DEM,Gavin Newsom,272
+Shasta,0371,Lieutenant Governor,,REP,Ron Nehring,580
+Shasta,0375,Lieutenant Governor,,DEM,Gavin Newsom,172
+Shasta,0375,Lieutenant Governor,,REP,Ron Nehring,435
+Shasta,0380,Lieutenant Governor,,DEM,Gavin Newsom,49
+Shasta,0380,Lieutenant Governor,,REP,Ron Nehring,30
+Shasta,0390,Lieutenant Governor,,DEM,Gavin Newsom,123
+Shasta,0390,Lieutenant Governor,,REP,Ron Nehring,193
+Shasta,0400,Lieutenant Governor,,DEM,Gavin Newsom,178
+Shasta,0400,Lieutenant Governor,,REP,Ron Nehring,205
+Shasta,0410,Lieutenant Governor,,DEM,Gavin Newsom,92
+Shasta,0410,Lieutenant Governor,,REP,Ron Nehring,174
+Shasta,0420,Lieutenant Governor,,DEM,Gavin Newsom,130
+Shasta,0420,Lieutenant Governor,,REP,Ron Nehring,252
+Shasta,0430,Lieutenant Governor,,DEM,Gavin Newsom,246
+Shasta,0430,Lieutenant Governor,,REP,Ron Nehring,386
+Shasta,0441,Lieutenant Governor,,DEM,Gavin Newsom,262
+Shasta,0441,Lieutenant Governor,,REP,Ron Nehring,507
+Shasta,0443,Lieutenant Governor,,DEM,Gavin Newsom,197
+Shasta,0443,Lieutenant Governor,,REP,Ron Nehring,385
+Shasta,0445,Lieutenant Governor,,DEM,Gavin Newsom,178
+Shasta,0445,Lieutenant Governor,,REP,Ron Nehring,374
+Shasta,0450,Lieutenant Governor,,DEM,Gavin Newsom,210
+Shasta,0450,Lieutenant Governor,,REP,Ron Nehring,450
+Shasta,0462,Lieutenant Governor,,DEM,Gavin Newsom,22
+Shasta,0462,Lieutenant Governor,,REP,Ron Nehring,45
+Shasta,0464,Lieutenant Governor,,DEM,Gavin Newsom,1
+Shasta,0464,Lieutenant Governor,,REP,Ron Nehring,3
+Shasta,0466,Lieutenant Governor,,DEM,Gavin Newsom,9
+Shasta,0466,Lieutenant Governor,,REP,Ron Nehring,15
+Shasta,0468,Lieutenant Governor,,DEM,Gavin Newsom,44
+Shasta,0468,Lieutenant Governor,,REP,Ron Nehring,94
+Shasta,0490,Lieutenant Governor,,DEM,Gavin Newsom,70
+Shasta,0490,Lieutenant Governor,,REP,Ron Nehring,99
+Shasta,0500,Lieutenant Governor,,DEM,Gavin Newsom,279
+Shasta,0500,Lieutenant Governor,,REP,Ron Nehring,629
+Shasta,0510,Lieutenant Governor,,DEM,Gavin Newsom,56
+Shasta,0510,Lieutenant Governor,,REP,Ron Nehring,66
+Shasta,0520,Lieutenant Governor,,DEM,Gavin Newsom,86
+Shasta,0520,Lieutenant Governor,,REP,Ron Nehring,234
+Shasta,0523,Lieutenant Governor,,DEM,Gavin Newsom,147
+Shasta,0523,Lieutenant Governor,,REP,Ron Nehring,256
+Shasta,0530,Lieutenant Governor,,DEM,Gavin Newsom,41
+Shasta,0530,Lieutenant Governor,,REP,Ron Nehring,67
+Shasta,0531,Lieutenant Governor,,DEM,Gavin Newsom,80
+Shasta,0531,Lieutenant Governor,,REP,Ron Nehring,87
+Shasta,0532,Lieutenant Governor,,DEM,Gavin Newsom,13
+Shasta,0532,Lieutenant Governor,,REP,Ron Nehring,28
+Shasta,0555,Lieutenant Governor,,DEM,Gavin Newsom,87
+Shasta,0555,Lieutenant Governor,,REP,Ron Nehring,178
+Shasta,0557,Lieutenant Governor,,DEM,Gavin Newsom,107
+Shasta,0557,Lieutenant Governor,,REP,Ron Nehring,162
+Shasta,0560,Lieutenant Governor,,DEM,Gavin Newsom,142
+Shasta,0560,Lieutenant Governor,,REP,Ron Nehring,417
+Shasta,0561,Lieutenant Governor,,DEM,Gavin Newsom,187
+Shasta,0561,Lieutenant Governor,,REP,Ron Nehring,471
+Shasta,0570,Lieutenant Governor,,DEM,Gavin Newsom,407
+Shasta,0570,Lieutenant Governor,,REP,Ron Nehring,595
+Shasta,0575,Lieutenant Governor,,DEM,Gavin Newsom,297
+Shasta,0575,Lieutenant Governor,,REP,Ron Nehring,462
+Shasta,0590,Lieutenant Governor,,DEM,Gavin Newsom,188
+Shasta,0590,Lieutenant Governor,,REP,Ron Nehring,520
+Shasta,0595,Lieutenant Governor,,DEM,Gavin Newsom,191
+Shasta,0595,Lieutenant Governor,,REP,Ron Nehring,328
+Shasta,0597,Lieutenant Governor,,DEM,Gavin Newsom,130
+Shasta,0597,Lieutenant Governor,,REP,Ron Nehring,230
+Shasta,0610,Lieutenant Governor,,DEM,Gavin Newsom,114
+Shasta,0610,Lieutenant Governor,,REP,Ron Nehring,154
+Shasta,0611,Lieutenant Governor,,DEM,Gavin Newsom,201
+Shasta,0611,Lieutenant Governor,,REP,Ron Nehring,613
+Shasta,0620,Lieutenant Governor,,DEM,Gavin Newsom,203
+Shasta,0620,Lieutenant Governor,,REP,Ron Nehring,426
+Shasta,0630,Lieutenant Governor,,DEM,Gavin Newsom,24
+Shasta,0630,Lieutenant Governor,,REP,Ron Nehring,50
+Shasta,0640,Lieutenant Governor,,DEM,Gavin Newsom,231
+Shasta,0640,Lieutenant Governor,,REP,Ron Nehring,576
+Shasta,0644,Lieutenant Governor,,DEM,Gavin Newsom,85
+Shasta,0644,Lieutenant Governor,,REP,Ron Nehring,287
+Shasta,0646,Lieutenant Governor,,DEM,Gavin Newsom,39
+Shasta,0646,Lieutenant Governor,,REP,Ron Nehring,80
+Shasta,0647,Lieutenant Governor,,DEM,Gavin Newsom,24
+Shasta,0647,Lieutenant Governor,,REP,Ron Nehring,53
+Shasta,0648,Lieutenant Governor,,DEM,Gavin Newsom,9
+Shasta,0648,Lieutenant Governor,,REP,Ron Nehring,21
+Shasta,0660,Lieutenant Governor,,DEM,Gavin Newsom,433
+Shasta,0660,Lieutenant Governor,,REP,Ron Nehring,437
+Shasta,0750,Lieutenant Governor,,DEM,Gavin Newsom,56
+Shasta,0750,Lieutenant Governor,,REP,Ron Nehring,87
+Shasta,0751,Lieutenant Governor,,DEM,Gavin Newsom,1
+Shasta,0751,Lieutenant Governor,,REP,Ron Nehring,1
+Shasta,0760,Lieutenant Governor,,DEM,Gavin Newsom,184
+Shasta,0760,Lieutenant Governor,,REP,Ron Nehring,284
+Shasta,0770,Lieutenant Governor,,DEM,Gavin Newsom,274
+Shasta,0770,Lieutenant Governor,,REP,Ron Nehring,468
+Shasta,0775,Lieutenant Governor,,DEM,Gavin Newsom,13
+Shasta,0775,Lieutenant Governor,,REP,Ron Nehring,33
+Shasta,0780,Lieutenant Governor,,DEM,Gavin Newsom,373
+Shasta,0780,Lieutenant Governor,,REP,Ron Nehring,363
+Shasta,0800,Lieutenant Governor,,DEM,Gavin Newsom,53
+Shasta,0800,Lieutenant Governor,,REP,Ron Nehring,80
+Shasta,0830,Lieutenant Governor,,DEM,Gavin Newsom,370
+Shasta,0830,Lieutenant Governor,,REP,Ron Nehring,529
+Shasta,0850,Lieutenant Governor,,DEM,Gavin Newsom,157
+Shasta,0850,Lieutenant Governor,,REP,Ron Nehring,285
+Shasta,0861,Lieutenant Governor,,DEM,Gavin Newsom,363
+Shasta,0861,Lieutenant Governor,,REP,Ron Nehring,704
+Shasta,0890,Lieutenant Governor,,DEM,Gavin Newsom,229
+Shasta,0890,Lieutenant Governor,,REP,Ron Nehring,347
+Shasta,0892,Lieutenant Governor,,DEM,Gavin Newsom,186
+Shasta,0892,Lieutenant Governor,,REP,Ron Nehring,429
+Shasta,0893,Lieutenant Governor,,DEM,Gavin Newsom,30
+Shasta,0893,Lieutenant Governor,,REP,Ron Nehring,61
+Shasta,0894,Lieutenant Governor,,DEM,Gavin Newsom,325
+Shasta,0894,Lieutenant Governor,,REP,Ron Nehring,519
+Shasta,0895,Lieutenant Governor,,DEM,Gavin Newsom,203
+Shasta,0895,Lieutenant Governor,,REP,Ron Nehring,332
+Shasta,0897,Lieutenant Governor,,DEM,Gavin Newsom,343
+Shasta,0897,Lieutenant Governor,,REP,Ron Nehring,519
+Shasta,0900,Lieutenant Governor,,DEM,Gavin Newsom,34
+Shasta,0900,Lieutenant Governor,,REP,Ron Nehring,44
+Shasta,0910,Lieutenant Governor,,DEM,Gavin Newsom,105
+Shasta,0910,Lieutenant Governor,,REP,Ron Nehring,130
+Shasta,0912,Lieutenant Governor,,DEM,Gavin Newsom,306
+Shasta,0912,Lieutenant Governor,,REP,Ron Nehring,689
+Shasta,0914,Lieutenant Governor,,DEM,Gavin Newsom,26
+Shasta,0914,Lieutenant Governor,,REP,Ron Nehring,51
+Shasta,0925,Lieutenant Governor,,DEM,Gavin Newsom,0
+Shasta,0925,Lieutenant Governor,,REP,Ron Nehring,0
+Shasta,0930,Lieutenant Governor,,DEM,Gavin Newsom,351
+Shasta,0930,Lieutenant Governor,,REP,Ron Nehring,562
+Shasta,0932,Lieutenant Governor,,DEM,Gavin Newsom,110
+Shasta,0932,Lieutenant Governor,,REP,Ron Nehring,308
+Shasta,0940,Lieutenant Governor,,DEM,Gavin Newsom,351
+Shasta,0940,Lieutenant Governor,,REP,Ron Nehring,767
+Shasta,0942,Lieutenant Governor,,DEM,Gavin Newsom,244
+Shasta,0942,Lieutenant Governor,,REP,Ron Nehring,497
+Shasta,0960,Lieutenant Governor,,DEM,Gavin Newsom,34
+Shasta,0960,Lieutenant Governor,,REP,Ron Nehring,111
+Shasta,0970,Lieutenant Governor,,DEM,Gavin Newsom,212
+Shasta,0970,Lieutenant Governor,,REP,Ron Nehring,352
+Shasta,0972,Lieutenant Governor,,DEM,Gavin Newsom,81
+Shasta,0972,Lieutenant Governor,,REP,Ron Nehring,129
+Shasta,0976,Lieutenant Governor,,DEM,Gavin Newsom,168
+Shasta,0976,Lieutenant Governor,,REP,Ron Nehring,546
+Shasta,0977,Lieutenant Governor,,DEM,Gavin Newsom,2
+Shasta,0977,Lieutenant Governor,,REP,Ron Nehring,9
+Shasta,0978,Lieutenant Governor,,DEM,Gavin Newsom,109
+Shasta,0978,Lieutenant Governor,,REP,Ron Nehring,305
+Shasta,0979,Lieutenant Governor,,DEM,Gavin Newsom,268
+Shasta,0979,Lieutenant Governor,,REP,Ron Nehring,672
+Shasta,0982,Lieutenant Governor,,DEM,Gavin Newsom,140
+Shasta,0982,Lieutenant Governor,,REP,Ron Nehring,186
+Shasta,0990,Lieutenant Governor,,DEM,Gavin Newsom,5
+Shasta,0990,Lieutenant Governor,,REP,Ron Nehring,3
+Shasta,1001,Lieutenant Governor,,DEM,Gavin Newsom,0
+Shasta,1001,Lieutenant Governor,,REP,Ron Nehring,0
+Shasta,1002,Lieutenant Governor,,DEM,Gavin Newsom,13
+Shasta,1002,Lieutenant Governor,,REP,Ron Nehring,45
+Shasta,1003,Lieutenant Governor,,DEM,Gavin Newsom,154
+Shasta,1003,Lieutenant Governor,,REP,Ron Nehring,287
+Shasta,1004,Lieutenant Governor,,DEM,Gavin Newsom,163
+Shasta,1004,Lieutenant Governor,,REP,Ron Nehring,208
+Shasta,1005,Lieutenant Governor,,DEM,Gavin Newsom,213
+Shasta,1005,Lieutenant Governor,,REP,Ron Nehring,394
+Shasta,1006,Lieutenant Governor,,DEM,Gavin Newsom,131
+Shasta,1006,Lieutenant Governor,,REP,Ron Nehring,203
+Shasta,1008,Lieutenant Governor,,DEM,Gavin Newsom,177
+Shasta,1008,Lieutenant Governor,,REP,Ron Nehring,256
+Shasta,1009,Lieutenant Governor,,DEM,Gavin Newsom,175
+Shasta,1009,Lieutenant Governor,,REP,Ron Nehring,257
+Shasta,0010,Secretary of State,,DEM,Alex Padilla,19
+Shasta,0010,Secretary of State,,REP,Pete Peterson,59
+Shasta,0012,Secretary of State,,DEM,Alex Padilla,40
+Shasta,0012,Secretary of State,,REP,Pete Peterson,97
+Shasta,0015,Secretary of State,,DEM,Alex Padilla,154
+Shasta,0015,Secretary of State,,REP,Pete Peterson,294
+Shasta,0020,Secretary of State,,DEM,Alex Padilla,183
+Shasta,0020,Secretary of State,,REP,Pete Peterson,326
+Shasta,0030,Secretary of State,,DEM,Alex Padilla,118
+Shasta,0030,Secretary of State,,REP,Pete Peterson,356
+Shasta,034,Secretary of State,,DEM,Alex Padilla,0
+Shasta,034,Secretary of State,,REP,Pete Peterson,0
+Shasta,0050,Secretary of State,,DEM,Alex Padilla,90
+Shasta,0050,Secretary of State,,REP,Pete Peterson,181
+Shasta,0060,Secretary of State,,DEM,Alex Padilla,166
+Shasta,0060,Secretary of State,,REP,Pete Peterson,228
+Shasta,0068,Secretary of State,,DEM,Alex Padilla,251
+Shasta,0068,Secretary of State,,REP,Pete Peterson,467
+Shasta,0070,Secretary of State,,DEM,Alex Padilla,116
+Shasta,0070,Secretary of State,,REP,Pete Peterson,236
+Shasta,0080,Secretary of State,,DEM,Alex Padilla,123
+Shasta,0080,Secretary of State,,REP,Pete Peterson,431
+Shasta,0081,Secretary of State,,DEM,Alex Padilla,38
+Shasta,0081,Secretary of State,,REP,Pete Peterson,61
+Shasta,0082,Secretary of State,,DEM,Alex Padilla,7
+Shasta,0082,Secretary of State,,REP,Pete Peterson,21
+Shasta,0090,Secretary of State,,DEM,Alex Padilla,2
+Shasta,0090,Secretary of State,,REP,Pete Peterson,6
+Shasta,0091,Secretary of State,,DEM,Alex Padilla,186
+Shasta,0091,Secretary of State,,REP,Pete Peterson,381
+Shasta,0093,Secretary of State,,DEM,Alex Padilla,19
+Shasta,0093,Secretary of State,,REP,Pete Peterson,47
+Shasta,0101,Secretary of State,,DEM,Alex Padilla,146
+Shasta,0101,Secretary of State,,REP,Pete Peterson,364
+Shasta,0102,Secretary of State,,DEM,Alex Padilla,152
+Shasta,0102,Secretary of State,,REP,Pete Peterson,457
+Shasta,0110,Secretary of State,,DEM,Alex Padilla,34
+Shasta,0110,Secretary of State,,REP,Pete Peterson,78
+Shasta,0112,Secretary of State,,DEM,Alex Padilla,215
+Shasta,0112,Secretary of State,,REP,Pete Peterson,633
+Shasta,0114,Secretary of State,,DEM,Alex Padilla,41
+Shasta,0114,Secretary of State,,REP,Pete Peterson,84
+Shasta,0120,Secretary of State,,DEM,Alex Padilla,264
+Shasta,0120,Secretary of State,,REP,Pete Peterson,349
+Shasta,0130,Secretary of State,,DEM,Alex Padilla,8
+Shasta,0130,Secretary of State,,REP,Pete Peterson,23
+Shasta,0140,Secretary of State,,DEM,Alex Padilla,203
+Shasta,0140,Secretary of State,,REP,Pete Peterson,307
+Shasta,0150,Secretary of State,,DEM,Alex Padilla,43
+Shasta,0150,Secretary of State,,REP,Pete Peterson,84
+Shasta,0160,Secretary of State,,DEM,Alex Padilla,221
+Shasta,0160,Secretary of State,,REP,Pete Peterson,437
+Shasta,0170,Secretary of State,,DEM,Alex Padilla,166
+Shasta,0170,Secretary of State,,REP,Pete Peterson,415
+Shasta,0175,Secretary of State,,DEM,Alex Padilla,195
+Shasta,0175,Secretary of State,,REP,Pete Peterson,389
+Shasta,0201,Secretary of State,,DEM,Alex Padilla,157
+Shasta,0201,Secretary of State,,REP,Pete Peterson,326
+Shasta,0202,Secretary of State,,DEM,Alex Padilla,99
+Shasta,0202,Secretary of State,,REP,Pete Peterson,232
+Shasta,0210,Secretary of State,,DEM,Alex Padilla,252
+Shasta,0210,Secretary of State,,REP,Pete Peterson,624
+Shasta,0240,Secretary of State,,DEM,Alex Padilla,35
+Shasta,0240,Secretary of State,,REP,Pete Peterson,54
+Shasta,0260,Secretary of State,,DEM,Alex Padilla,163
+Shasta,0260,Secretary of State,,REP,Pete Peterson,371
+Shasta,0261,Secretary of State,,DEM,Alex Padilla,201
+Shasta,0261,Secretary of State,,REP,Pete Peterson,450
+Shasta,0262,Secretary of State,,DEM,Alex Padilla,0
+Shasta,0262,Secretary of State,,REP,Pete Peterson,0
+Shasta,0264,Secretary of State,,DEM,Alex Padilla,4
+Shasta,0264,Secretary of State,,REP,Pete Peterson,14
+Shasta,0270,Secretary of State,,DEM,Alex Padilla,0
+Shasta,0270,Secretary of State,,REP,Pete Peterson,4
+Shasta,0310,Secretary of State,,DEM,Alex Padilla,111
+Shasta,0310,Secretary of State,,REP,Pete Peterson,296
+Shasta,0311,Secretary of State,,DEM,Alex Padilla,284
+Shasta,0311,Secretary of State,,REP,Pete Peterson,678
+Shasta,0313,Secretary of State,,DEM,Alex Padilla,16
+Shasta,0313,Secretary of State,,REP,Pete Peterson,57
+Shasta,0320,Secretary of State,,DEM,Alex Padilla,218
+Shasta,0320,Secretary of State,,REP,Pete Peterson,693
+Shasta,0322,Secretary of State,,DEM,Alex Padilla,1
+Shasta,0322,Secretary of State,,REP,Pete Peterson,12
+Shasta,0330,Secretary of State,,DEM,Alex Padilla,217
+Shasta,0330,Secretary of State,,REP,Pete Peterson,425
+Shasta,0340,Secretary of State,,DEM,Alex Padilla,213
+Shasta,0340,Secretary of State,,REP,Pete Peterson,571
+Shasta,0343,Secretary of State,,DEM,Alex Padilla,314
+Shasta,0343,Secretary of State,,REP,Pete Peterson,630
+Shasta,0350,Secretary of State,,DEM,Alex Padilla,199
+Shasta,0350,Secretary of State,,REP,Pete Peterson,584
+Shasta,0360,Secretary of State,,DEM,Alex Padilla,165
+Shasta,0360,Secretary of State,,REP,Pete Peterson,276
+Shasta,0370,Secretary of State,,DEM,Alex Padilla,130
+Shasta,0370,Secretary of State,,REP,Pete Peterson,263
+Shasta,0371,Secretary of State,,DEM,Alex Padilla,248
+Shasta,0371,Secretary of State,,REP,Pete Peterson,590
+Shasta,0375,Secretary of State,,DEM,Alex Padilla,147
+Shasta,0375,Secretary of State,,REP,Pete Peterson,452
+Shasta,0380,Secretary of State,,DEM,Alex Padilla,48
+Shasta,0380,Secretary of State,,REP,Pete Peterson,28
+Shasta,0390,Secretary of State,,DEM,Alex Padilla,118
+Shasta,0390,Secretary of State,,REP,Pete Peterson,191
+Shasta,0400,Secretary of State,,DEM,Alex Padilla,150
+Shasta,0400,Secretary of State,,REP,Pete Peterson,237
+Shasta,0410,Secretary of State,,DEM,Alex Padilla,93
+Shasta,0410,Secretary of State,,REP,Pete Peterson,170
+Shasta,0420,Secretary of State,,DEM,Alex Padilla,118
+Shasta,0420,Secretary of State,,REP,Pete Peterson,262
+Shasta,0430,Secretary of State,,DEM,Alex Padilla,228
+Shasta,0430,Secretary of State,,REP,Pete Peterson,394
+Shasta,0441,Secretary of State,,DEM,Alex Padilla,240
+Shasta,0441,Secretary of State,,REP,Pete Peterson,520
+Shasta,0443,Secretary of State,,DEM,Alex Padilla,171
+Shasta,0443,Secretary of State,,REP,Pete Peterson,405
+Shasta,0445,Secretary of State,,DEM,Alex Padilla,157
+Shasta,0445,Secretary of State,,REP,Pete Peterson,384
+Shasta,0450,Secretary of State,,DEM,Alex Padilla,192
+Shasta,0450,Secretary of State,,REP,Pete Peterson,461
+Shasta,0462,Secretary of State,,DEM,Alex Padilla,19
+Shasta,0462,Secretary of State,,REP,Pete Peterson,48
+Shasta,0464,Secretary of State,,DEM,Alex Padilla,0
+Shasta,0464,Secretary of State,,REP,Pete Peterson,4
+Shasta,0466,Secretary of State,,DEM,Alex Padilla,5
+Shasta,0466,Secretary of State,,REP,Pete Peterson,19
+Shasta,0468,Secretary of State,,DEM,Alex Padilla,36
+Shasta,0468,Secretary of State,,REP,Pete Peterson,100
+Shasta,0490,Secretary of State,,DEM,Alex Padilla,65
+Shasta,0490,Secretary of State,,REP,Pete Peterson,102
+Shasta,0500,Secretary of State,,DEM,Alex Padilla,257
+Shasta,0500,Secretary of State,,REP,Pete Peterson,647
+Shasta,0510,Secretary of State,,DEM,Alex Padilla,50
+Shasta,0510,Secretary of State,,REP,Pete Peterson,68
+Shasta,0520,Secretary of State,,DEM,Alex Padilla,78
+Shasta,0520,Secretary of State,,REP,Pete Peterson,242
+Shasta,0523,Secretary of State,,DEM,Alex Padilla,136
+Shasta,0523,Secretary of State,,REP,Pete Peterson,269
+Shasta,0530,Secretary of State,,DEM,Alex Padilla,31
+Shasta,0530,Secretary of State,,REP,Pete Peterson,71
+Shasta,0531,Secretary of State,,DEM,Alex Padilla,79
+Shasta,0531,Secretary of State,,REP,Pete Peterson,83
+Shasta,0532,Secretary of State,,DEM,Alex Padilla,12
+Shasta,0532,Secretary of State,,REP,Pete Peterson,29
+Shasta,0555,Secretary of State,,DEM,Alex Padilla,79
+Shasta,0555,Secretary of State,,REP,Pete Peterson,186
+Shasta,0557,Secretary of State,,DEM,Alex Padilla,95
+Shasta,0557,Secretary of State,,REP,Pete Peterson,172
+Shasta,0560,Secretary of State,,DEM,Alex Padilla,132
+Shasta,0560,Secretary of State,,REP,Pete Peterson,429
+Shasta,0561,Secretary of State,,DEM,Alex Padilla,159
+Shasta,0561,Secretary of State,,REP,Pete Peterson,489
+Shasta,0570,Secretary of State,,DEM,Alex Padilla,369
+Shasta,0570,Secretary of State,,REP,Pete Peterson,611
+Shasta,0575,Secretary of State,,DEM,Alex Padilla,268
+Shasta,0575,Secretary of State,,REP,Pete Peterson,476
+Shasta,0590,Secretary of State,,DEM,Alex Padilla,167
+Shasta,0590,Secretary of State,,REP,Pete Peterson,536
+Shasta,0595,Secretary of State,,DEM,Alex Padilla,172
+Shasta,0595,Secretary of State,,REP,Pete Peterson,343
+Shasta,0597,Secretary of State,,DEM,Alex Padilla,121
+Shasta,0597,Secretary of State,,REP,Pete Peterson,234
+Shasta,0610,Secretary of State,,DEM,Alex Padilla,102
+Shasta,0610,Secretary of State,,REP,Pete Peterson,160
+Shasta,0611,Secretary of State,,DEM,Alex Padilla,184
+Shasta,0611,Secretary of State,,REP,Pete Peterson,620
+Shasta,0620,Secretary of State,,DEM,Alex Padilla,195
+Shasta,0620,Secretary of State,,REP,Pete Peterson,424
+Shasta,0630,Secretary of State,,DEM,Alex Padilla,20
+Shasta,0630,Secretary of State,,REP,Pete Peterson,52
+Shasta,0640,Secretary of State,,DEM,Alex Padilla,205
+Shasta,0640,Secretary of State,,REP,Pete Peterson,598
+Shasta,0644,Secretary of State,,DEM,Alex Padilla,83
+Shasta,0644,Secretary of State,,REP,Pete Peterson,288
+Shasta,0646,Secretary of State,,DEM,Alex Padilla,35
+Shasta,0646,Secretary of State,,REP,Pete Peterson,84
+Shasta,0647,Secretary of State,,DEM,Alex Padilla,16
+Shasta,0647,Secretary of State,,REP,Pete Peterson,60
+Shasta,0648,Secretary of State,,DEM,Alex Padilla,9
+Shasta,0648,Secretary of State,,REP,Pete Peterson,21
+Shasta,0660,Secretary of State,,DEM,Alex Padilla,402
+Shasta,0660,Secretary of State,,REP,Pete Peterson,458
+Shasta,0750,Secretary of State,,DEM,Alex Padilla,55
+Shasta,0750,Secretary of State,,REP,Pete Peterson,86
+Shasta,0751,Secretary of State,,DEM,Alex Padilla,1
+Shasta,0751,Secretary of State,,REP,Pete Peterson,1
+Shasta,0760,Secretary of State,,DEM,Alex Padilla,159
+Shasta,0760,Secretary of State,,REP,Pete Peterson,310
+Shasta,0770,Secretary of State,,DEM,Alex Padilla,248
+Shasta,0770,Secretary of State,,REP,Pete Peterson,479
+Shasta,0775,Secretary of State,,DEM,Alex Padilla,15
+Shasta,0775,Secretary of State,,REP,Pete Peterson,30
+Shasta,0780,Secretary of State,,DEM,Alex Padilla,357
+Shasta,0780,Secretary of State,,REP,Pete Peterson,371
+Shasta,0800,Secretary of State,,DEM,Alex Padilla,47
+Shasta,0800,Secretary of State,,REP,Pete Peterson,84
+Shasta,0830,Secretary of State,,DEM,Alex Padilla,323
+Shasta,0830,Secretary of State,,REP,Pete Peterson,558
+Shasta,0850,Secretary of State,,DEM,Alex Padilla,142
+Shasta,0850,Secretary of State,,REP,Pete Peterson,299
+Shasta,0861,Secretary of State,,DEM,Alex Padilla,325
+Shasta,0861,Secretary of State,,REP,Pete Peterson,724
+Shasta,0890,Secretary of State,,DEM,Alex Padilla,195
+Shasta,0890,Secretary of State,,REP,Pete Peterson,366
+Shasta,0892,Secretary of State,,DEM,Alex Padilla,156
+Shasta,0892,Secretary of State,,REP,Pete Peterson,457
+Shasta,0893,Secretary of State,,DEM,Alex Padilla,25
+Shasta,0893,Secretary of State,,REP,Pete Peterson,65
+Shasta,0894,Secretary of State,,DEM,Alex Padilla,308
+Shasta,0894,Secretary of State,,REP,Pete Peterson,529
+Shasta,0895,Secretary of State,,DEM,Alex Padilla,189
+Shasta,0895,Secretary of State,,REP,Pete Peterson,338
+Shasta,0897,Secretary of State,,DEM,Alex Padilla,321
+Shasta,0897,Secretary of State,,REP,Pete Peterson,533
+Shasta,0900,Secretary of State,,DEM,Alex Padilla,29
+Shasta,0900,Secretary of State,,REP,Pete Peterson,49
+Shasta,0910,Secretary of State,,DEM,Alex Padilla,91
+Shasta,0910,Secretary of State,,REP,Pete Peterson,142
+Shasta,0912,Secretary of State,,DEM,Alex Padilla,259
+Shasta,0912,Secretary of State,,REP,Pete Peterson,717
+Shasta,0914,Secretary of State,,DEM,Alex Padilla,27
+Shasta,0914,Secretary of State,,REP,Pete Peterson,51
+Shasta,0925,Secretary of State,,DEM,Alex Padilla,0
+Shasta,0925,Secretary of State,,REP,Pete Peterson,0
+Shasta,0930,Secretary of State,,DEM,Alex Padilla,326
+Shasta,0930,Secretary of State,,REP,Pete Peterson,574
+Shasta,0932,Secretary of State,,DEM,Alex Padilla,100
+Shasta,0932,Secretary of State,,REP,Pete Peterson,320
+Shasta,0940,Secretary of State,,DEM,Alex Padilla,330
+Shasta,0940,Secretary of State,,REP,Pete Peterson,773
+Shasta,0942,Secretary of State,,DEM,Alex Padilla,227
+Shasta,0942,Secretary of State,,REP,Pete Peterson,506
+Shasta,0960,Secretary of State,,DEM,Alex Padilla,27
+Shasta,0960,Secretary of State,,REP,Pete Peterson,114
+Shasta,0970,Secretary of State,,DEM,Alex Padilla,189
+Shasta,0970,Secretary of State,,REP,Pete Peterson,373
+Shasta,0972,Secretary of State,,DEM,Alex Padilla,71
+Shasta,0972,Secretary of State,,REP,Pete Peterson,142
+Shasta,0976,Secretary of State,,DEM,Alex Padilla,148
+Shasta,0976,Secretary of State,,REP,Pete Peterson,553
+Shasta,0977,Secretary of State,,DEM,Alex Padilla,1
+Shasta,0977,Secretary of State,,REP,Pete Peterson,11
+Shasta,0978,Secretary of State,,DEM,Alex Padilla,94
+Shasta,0978,Secretary of State,,REP,Pete Peterson,320
+Shasta,0979,Secretary of State,,DEM,Alex Padilla,231
+Shasta,0979,Secretary of State,,REP,Pete Peterson,698
+Shasta,0982,Secretary of State,,DEM,Alex Padilla,112
+Shasta,0982,Secretary of State,,REP,Pete Peterson,209
+Shasta,0990,Secretary of State,,DEM,Alex Padilla,4
+Shasta,0990,Secretary of State,,REP,Pete Peterson,4
+Shasta,1001,Secretary of State,,DEM,Alex Padilla,0
+Shasta,1001,Secretary of State,,REP,Pete Peterson,0
+Shasta,1002,Secretary of State,,DEM,Alex Padilla,11
+Shasta,1002,Secretary of State,,REP,Pete Peterson,46
+Shasta,1003,Secretary of State,,DEM,Alex Padilla,153
+Shasta,1003,Secretary of State,,REP,Pete Peterson,286
+Shasta,1004,Secretary of State,,DEM,Alex Padilla,141
+Shasta,1004,Secretary of State,,REP,Pete Peterson,226
+Shasta,1005,Secretary of State,,DEM,Alex Padilla,190
+Shasta,1005,Secretary of State,,REP,Pete Peterson,414
+Shasta,1006,Secretary of State,,DEM,Alex Padilla,114
+Shasta,1006,Secretary of State,,REP,Pete Peterson,219
+Shasta,1008,Secretary of State,,DEM,Alex Padilla,166
+Shasta,1008,Secretary of State,,REP,Pete Peterson,266
+Shasta,1009,Secretary of State,,DEM,Alex Padilla,159
+Shasta,1009,Secretary of State,,REP,Pete Peterson,269
+Shasta,0010,State Assembly,1,DEM,Brigham Sawyer Smith,15
+Shasta,0010,State Assembly,1,REP,Brian Dahle,60
+Shasta,0012,State Assembly,1,DEM,Brigham Sawyer Smith,25
+Shasta,0012,State Assembly,1,REP,Brian Dahle,110
+Shasta,0015,State Assembly,1,DEM,Brigham Sawyer Smith,125
+Shasta,0015,State Assembly,1,REP,Brian Dahle,321
+Shasta,0020,State Assembly,1,DEM,Brigham Sawyer Smith,139
+Shasta,0020,State Assembly,1,REP,Brian Dahle,366
+Shasta,0030,State Assembly,1,DEM,Brigham Sawyer Smith,82
+Shasta,0030,State Assembly,1,REP,Brian Dahle,395
+Shasta,034,State Assembly,1,DEM,Brigham Sawyer Smith,0
+Shasta,034,State Assembly,1,REP,Brian Dahle,0
+Shasta,0050,State Assembly,1,DEM,Brigham Sawyer Smith,69
+Shasta,0050,State Assembly,1,REP,Brian Dahle,206
+Shasta,0060,State Assembly,1,DEM,Brigham Sawyer Smith,128
+Shasta,0060,State Assembly,1,REP,Brian Dahle,264
+Shasta,0068,State Assembly,1,DEM,Brigham Sawyer Smith,184
+Shasta,0068,State Assembly,1,REP,Brian Dahle,533
+Shasta,0070,State Assembly,1,DEM,Brigham Sawyer Smith,89
+Shasta,0070,State Assembly,1,REP,Brian Dahle,259
+Shasta,0080,State Assembly,1,DEM,Brigham Sawyer Smith,97
+Shasta,0080,State Assembly,1,REP,Brian Dahle,455
+Shasta,0081,State Assembly,1,DEM,Brigham Sawyer Smith,27
+Shasta,0081,State Assembly,1,REP,Brian Dahle,67
+Shasta,0082,State Assembly,1,DEM,Brigham Sawyer Smith,7
+Shasta,0082,State Assembly,1,REP,Brian Dahle,21
+Shasta,0090,State Assembly,1,DEM,Brigham Sawyer Smith,2
+Shasta,0090,State Assembly,1,REP,Brian Dahle,6
+Shasta,0091,State Assembly,1,DEM,Brigham Sawyer Smith,148
+Shasta,0091,State Assembly,1,REP,Brian Dahle,423
+Shasta,0093,State Assembly,1,DEM,Brigham Sawyer Smith,16
+Shasta,0093,State Assembly,1,REP,Brian Dahle,53
+Shasta,0101,State Assembly,1,DEM,Brigham Sawyer Smith,106
+Shasta,0101,State Assembly,1,REP,Brian Dahle,404
+Shasta,0102,State Assembly,1,DEM,Brigham Sawyer Smith,148
+Shasta,0102,State Assembly,1,REP,Brian Dahle,457
+Shasta,0110,State Assembly,1,DEM,Brigham Sawyer Smith,17
+Shasta,0110,State Assembly,1,REP,Brian Dahle,98
+Shasta,0112,State Assembly,1,DEM,Brigham Sawyer Smith,162
+Shasta,0112,State Assembly,1,REP,Brian Dahle,685
+Shasta,0114,State Assembly,1,DEM,Brigham Sawyer Smith,33
+Shasta,0114,State Assembly,1,REP,Brian Dahle,88
+Shasta,0120,State Assembly,1,DEM,Brigham Sawyer Smith,182
+Shasta,0120,State Assembly,1,REP,Brian Dahle,425
+Shasta,0130,State Assembly,1,DEM,Brigham Sawyer Smith,6
+Shasta,0130,State Assembly,1,REP,Brian Dahle,23
+Shasta,0140,State Assembly,1,DEM,Brigham Sawyer Smith,174
+Shasta,0140,State Assembly,1,REP,Brian Dahle,337
+Shasta,0150,State Assembly,1,DEM,Brigham Sawyer Smith,43
+Shasta,0150,State Assembly,1,REP,Brian Dahle,85
+Shasta,0160,State Assembly,1,DEM,Brigham Sawyer Smith,154
+Shasta,0160,State Assembly,1,REP,Brian Dahle,501
+Shasta,0170,State Assembly,1,DEM,Brigham Sawyer Smith,125
+Shasta,0170,State Assembly,1,REP,Brian Dahle,454
+Shasta,0175,State Assembly,1,DEM,Brigham Sawyer Smith,132
+Shasta,0175,State Assembly,1,REP,Brian Dahle,460
+Shasta,0201,State Assembly,1,DEM,Brigham Sawyer Smith,120
+Shasta,0201,State Assembly,1,REP,Brian Dahle,358
+Shasta,0202,State Assembly,1,DEM,Brigham Sawyer Smith,81
+Shasta,0202,State Assembly,1,REP,Brian Dahle,250
+Shasta,0210,State Assembly,1,DEM,Brigham Sawyer Smith,172
+Shasta,0210,State Assembly,1,REP,Brian Dahle,703
+Shasta,0240,State Assembly,1,DEM,Brigham Sawyer Smith,25
+Shasta,0240,State Assembly,1,REP,Brian Dahle,64
+Shasta,0260,State Assembly,1,DEM,Brigham Sawyer Smith,114
+Shasta,0260,State Assembly,1,REP,Brian Dahle,416
+Shasta,0261,State Assembly,1,DEM,Brigham Sawyer Smith,134
+Shasta,0261,State Assembly,1,REP,Brian Dahle,510
+Shasta,0262,State Assembly,1,DEM,Brigham Sawyer Smith,0
+Shasta,0262,State Assembly,1,REP,Brian Dahle,0
+Shasta,0264,State Assembly,1,DEM,Brigham Sawyer Smith,3
+Shasta,0264,State Assembly,1,REP,Brian Dahle,14
+Shasta,0270,State Assembly,1,DEM,Brigham Sawyer Smith,0
+Shasta,0270,State Assembly,1,REP,Brian Dahle,4
+Shasta,0310,State Assembly,1,DEM,Brigham Sawyer Smith,87
+Shasta,0310,State Assembly,1,REP,Brian Dahle,317
+Shasta,0311,State Assembly,1,DEM,Brigham Sawyer Smith,198
+Shasta,0311,State Assembly,1,REP,Brian Dahle,763
+Shasta,0313,State Assembly,1,DEM,Brigham Sawyer Smith,14
+Shasta,0313,State Assembly,1,REP,Brian Dahle,59
+Shasta,0320,State Assembly,1,DEM,Brigham Sawyer Smith,176
+Shasta,0320,State Assembly,1,REP,Brian Dahle,738
+Shasta,0322,State Assembly,1,DEM,Brigham Sawyer Smith,1
+Shasta,0322,State Assembly,1,REP,Brian Dahle,12
+Shasta,0330,State Assembly,1,DEM,Brigham Sawyer Smith,170
+Shasta,0330,State Assembly,1,REP,Brian Dahle,481
+Shasta,0340,State Assembly,1,DEM,Brigham Sawyer Smith,147
+Shasta,0340,State Assembly,1,REP,Brian Dahle,635
+Shasta,0343,State Assembly,1,DEM,Brigham Sawyer Smith,210
+Shasta,0343,State Assembly,1,REP,Brian Dahle,739
+Shasta,0350,State Assembly,1,DEM,Brigham Sawyer Smith,100
+Shasta,0350,State Assembly,1,REP,Brian Dahle,708
+Shasta,0360,State Assembly,1,DEM,Brigham Sawyer Smith,140
+Shasta,0360,State Assembly,1,REP,Brian Dahle,301
+Shasta,0370,State Assembly,1,DEM,Brigham Sawyer Smith,92
+Shasta,0370,State Assembly,1,REP,Brian Dahle,294
+Shasta,0371,State Assembly,1,DEM,Brigham Sawyer Smith,182
+Shasta,0371,State Assembly,1,REP,Brian Dahle,669
+Shasta,0375,State Assembly,1,DEM,Brigham Sawyer Smith,118
+Shasta,0375,State Assembly,1,REP,Brian Dahle,484
+Shasta,0380,State Assembly,1,DEM,Brigham Sawyer Smith,45
+Shasta,0380,State Assembly,1,REP,Brian Dahle,32
+Shasta,0390,State Assembly,1,DEM,Brigham Sawyer Smith,99
+Shasta,0390,State Assembly,1,REP,Brian Dahle,216
+Shasta,0400,State Assembly,1,DEM,Brigham Sawyer Smith,124
+Shasta,0400,State Assembly,1,REP,Brian Dahle,256
+Shasta,0410,State Assembly,1,DEM,Brigham Sawyer Smith,64
+Shasta,0410,State Assembly,1,REP,Brian Dahle,198
+Shasta,0420,State Assembly,1,DEM,Brigham Sawyer Smith,94
+Shasta,0420,State Assembly,1,REP,Brian Dahle,285
+Shasta,0430,State Assembly,1,DEM,Brigham Sawyer Smith,188
+Shasta,0430,State Assembly,1,REP,Brian Dahle,437
+Shasta,0441,State Assembly,1,DEM,Brigham Sawyer Smith,164
+Shasta,0441,State Assembly,1,REP,Brian Dahle,575
+Shasta,0443,State Assembly,1,DEM,Brigham Sawyer Smith,107
+Shasta,0443,State Assembly,1,REP,Brian Dahle,465
+Shasta,0445,State Assembly,1,DEM,Brigham Sawyer Smith,128
+Shasta,0445,State Assembly,1,REP,Brian Dahle,418
+Shasta,0450,State Assembly,1,DEM,Brigham Sawyer Smith,136
+Shasta,0450,State Assembly,1,REP,Brian Dahle,517
+Shasta,0462,State Assembly,1,DEM,Brigham Sawyer Smith,16
+Shasta,0462,State Assembly,1,REP,Brian Dahle,51
+Shasta,0464,State Assembly,1,DEM,Brigham Sawyer Smith,0
+Shasta,0464,State Assembly,1,REP,Brian Dahle,4
+Shasta,0466,State Assembly,1,DEM,Brigham Sawyer Smith,2
+Shasta,0466,State Assembly,1,REP,Brian Dahle,22
+Shasta,0468,State Assembly,1,DEM,Brigham Sawyer Smith,24
+Shasta,0468,State Assembly,1,REP,Brian Dahle,109
+Shasta,0490,State Assembly,1,DEM,Brigham Sawyer Smith,57
+Shasta,0490,State Assembly,1,REP,Brian Dahle,111
+Shasta,0500,State Assembly,1,DEM,Brigham Sawyer Smith,181
+Shasta,0500,State Assembly,1,REP,Brian Dahle,723
+Shasta,0510,State Assembly,1,DEM,Brigham Sawyer Smith,50
+Shasta,0510,State Assembly,1,REP,Brian Dahle,69
+Shasta,0520,State Assembly,1,DEM,Brigham Sawyer Smith,40
+Shasta,0520,State Assembly,1,REP,Brian Dahle,282
+Shasta,0523,State Assembly,1,DEM,Brigham Sawyer Smith,99
+Shasta,0523,State Assembly,1,REP,Brian Dahle,300
+Shasta,0530,State Assembly,1,DEM,Brigham Sawyer Smith,27
+Shasta,0530,State Assembly,1,REP,Brian Dahle,79
+Shasta,0531,State Assembly,1,DEM,Brigham Sawyer Smith,69
+Shasta,0531,State Assembly,1,REP,Brian Dahle,95
+Shasta,0532,State Assembly,1,DEM,Brigham Sawyer Smith,10
+Shasta,0532,State Assembly,1,REP,Brian Dahle,32
+Shasta,0555,State Assembly,1,DEM,Brigham Sawyer Smith,41
+Shasta,0555,State Assembly,1,REP,Brian Dahle,223
+Shasta,0557,State Assembly,1,DEM,Brigham Sawyer Smith,85
+Shasta,0557,State Assembly,1,REP,Brian Dahle,183
+Shasta,0560,State Assembly,1,DEM,Brigham Sawyer Smith,87
+Shasta,0560,State Assembly,1,REP,Brian Dahle,475
+Shasta,0561,State Assembly,1,DEM,Brigham Sawyer Smith,110
+Shasta,0561,State Assembly,1,REP,Brian Dahle,545
+Shasta,0570,State Assembly,1,DEM,Brigham Sawyer Smith,243
+Shasta,0570,State Assembly,1,REP,Brian Dahle,728
+Shasta,0575,State Assembly,1,DEM,Brigham Sawyer Smith,195
+Shasta,0575,State Assembly,1,REP,Brian Dahle,555
+Shasta,0590,State Assembly,1,DEM,Brigham Sawyer Smith,139
+Shasta,0590,State Assembly,1,REP,Brian Dahle,572
+Shasta,0595,State Assembly,1,DEM,Brigham Sawyer Smith,131
+Shasta,0595,State Assembly,1,REP,Brian Dahle,378
+Shasta,0597,State Assembly,1,DEM,Brigham Sawyer Smith,103
+Shasta,0597,State Assembly,1,REP,Brian Dahle,253
+Shasta,0610,State Assembly,1,DEM,Brigham Sawyer Smith,79
+Shasta,0610,State Assembly,1,REP,Brian Dahle,186
+Shasta,0611,State Assembly,1,DEM,Brigham Sawyer Smith,141
+Shasta,0611,State Assembly,1,REP,Brian Dahle,662
+Shasta,0620,State Assembly,1,DEM,Brigham Sawyer Smith,142
+Shasta,0620,State Assembly,1,REP,Brian Dahle,485
+Shasta,0630,State Assembly,1,DEM,Brigham Sawyer Smith,17
+Shasta,0630,State Assembly,1,REP,Brian Dahle,56
+Shasta,0640,State Assembly,1,DEM,Brigham Sawyer Smith,135
+Shasta,0640,State Assembly,1,REP,Brian Dahle,666
+Shasta,0644,State Assembly,1,DEM,Brigham Sawyer Smith,56
+Shasta,0644,State Assembly,1,REP,Brian Dahle,321
+Shasta,0646,State Assembly,1,DEM,Brigham Sawyer Smith,23
+Shasta,0646,State Assembly,1,REP,Brian Dahle,96
+Shasta,0647,State Assembly,1,DEM,Brigham Sawyer Smith,13
+Shasta,0647,State Assembly,1,REP,Brian Dahle,64
+Shasta,0648,State Assembly,1,DEM,Brigham Sawyer Smith,6
+Shasta,0648,State Assembly,1,REP,Brian Dahle,24
+Shasta,0660,State Assembly,1,DEM,Brigham Sawyer Smith,296
+Shasta,0660,State Assembly,1,REP,Brian Dahle,553
+Shasta,0750,State Assembly,1,DEM,Brigham Sawyer Smith,38
+Shasta,0750,State Assembly,1,REP,Brian Dahle,101
+Shasta,0751,State Assembly,1,DEM,Brigham Sawyer Smith,1
+Shasta,0751,State Assembly,1,REP,Brian Dahle,1
+Shasta,0760,State Assembly,1,DEM,Brigham Sawyer Smith,130
+Shasta,0760,State Assembly,1,REP,Brian Dahle,328
+Shasta,0770,State Assembly,1,DEM,Brigham Sawyer Smith,170
+Shasta,0770,State Assembly,1,REP,Brian Dahle,560
+Shasta,0775,State Assembly,1,DEM,Brigham Sawyer Smith,9
+Shasta,0775,State Assembly,1,REP,Brian Dahle,36
+Shasta,0780,State Assembly,1,DEM,Brigham Sawyer Smith,274
+Shasta,0780,State Assembly,1,REP,Brian Dahle,442
+Shasta,0800,State Assembly,1,DEM,Brigham Sawyer Smith,35
+Shasta,0800,State Assembly,1,REP,Brian Dahle,93
+Shasta,0830,State Assembly,1,DEM,Brigham Sawyer Smith,245
+Shasta,0830,State Assembly,1,REP,Brian Dahle,628
+Shasta,0850,State Assembly,1,DEM,Brigham Sawyer Smith,114
+Shasta,0850,State Assembly,1,REP,Brian Dahle,328
+Shasta,0861,State Assembly,1,DEM,Brigham Sawyer Smith,208
+Shasta,0861,State Assembly,1,REP,Brian Dahle,841
+Shasta,0890,State Assembly,1,DEM,Brigham Sawyer Smith,138
+Shasta,0890,State Assembly,1,REP,Brian Dahle,431
+Shasta,0892,State Assembly,1,DEM,Brigham Sawyer Smith,108
+Shasta,0892,State Assembly,1,REP,Brian Dahle,509
+Shasta,0893,State Assembly,1,DEM,Brigham Sawyer Smith,22
+Shasta,0893,State Assembly,1,REP,Brian Dahle,71
+Shasta,0894,State Assembly,1,DEM,Brigham Sawyer Smith,217
+Shasta,0894,State Assembly,1,REP,Brian Dahle,618
+Shasta,0895,State Assembly,1,DEM,Brigham Sawyer Smith,125
+Shasta,0895,State Assembly,1,REP,Brian Dahle,397
+Shasta,0897,State Assembly,1,DEM,Brigham Sawyer Smith,257
+Shasta,0897,State Assembly,1,REP,Brian Dahle,594
+Shasta,0900,State Assembly,1,DEM,Brigham Sawyer Smith,26
+Shasta,0900,State Assembly,1,REP,Brian Dahle,53
+Shasta,0910,State Assembly,1,DEM,Brigham Sawyer Smith,81
+Shasta,0910,State Assembly,1,REP,Brian Dahle,152
+Shasta,0912,State Assembly,1,DEM,Brigham Sawyer Smith,169
+Shasta,0912,State Assembly,1,REP,Brian Dahle,814
+Shasta,0914,State Assembly,1,DEM,Brigham Sawyer Smith,15
+Shasta,0914,State Assembly,1,REP,Brian Dahle,59
+Shasta,0925,State Assembly,1,DEM,Brigham Sawyer Smith,0
+Shasta,0925,State Assembly,1,REP,Brian Dahle,0
+Shasta,0930,State Assembly,1,DEM,Brigham Sawyer Smith,246
+Shasta,0930,State Assembly,1,REP,Brian Dahle,648
+Shasta,0932,State Assembly,1,DEM,Brigham Sawyer Smith,70
+Shasta,0932,State Assembly,1,REP,Brian Dahle,344
+Shasta,0940,State Assembly,1,DEM,Brigham Sawyer Smith,262
+Shasta,0940,State Assembly,1,REP,Brian Dahle,845
+Shasta,0942,State Assembly,1,DEM,Brigham Sawyer Smith,189
+Shasta,0942,State Assembly,1,REP,Brian Dahle,541
+Shasta,0960,State Assembly,1,DEM,Brigham Sawyer Smith,13
+Shasta,0960,State Assembly,1,REP,Brian Dahle,129
+Shasta,0970,State Assembly,1,DEM,Brigham Sawyer Smith,149
+Shasta,0970,State Assembly,1,REP,Brian Dahle,416
+Shasta,0972,State Assembly,1,DEM,Brigham Sawyer Smith,46
+Shasta,0972,State Assembly,1,REP,Brian Dahle,165
+Shasta,0976,State Assembly,1,DEM,Brigham Sawyer Smith,99
+Shasta,0976,State Assembly,1,REP,Brian Dahle,616
+Shasta,0977,State Assembly,1,DEM,Brigham Sawyer Smith,2
+Shasta,0977,State Assembly,1,REP,Brian Dahle,10
+Shasta,0978,State Assembly,1,DEM,Brigham Sawyer Smith,59
+Shasta,0978,State Assembly,1,REP,Brian Dahle,355
+Shasta,0979,State Assembly,1,DEM,Brigham Sawyer Smith,156
+Shasta,0979,State Assembly,1,REP,Brian Dahle,778
+Shasta,0982,State Assembly,1,DEM,Brigham Sawyer Smith,86
+Shasta,0982,State Assembly,1,REP,Brian Dahle,236
+Shasta,0990,State Assembly,1,DEM,Brigham Sawyer Smith,3
+Shasta,0990,State Assembly,1,REP,Brian Dahle,5
+Shasta,1001,State Assembly,1,DEM,Brigham Sawyer Smith,0
+Shasta,1001,State Assembly,1,REP,Brian Dahle,0
+Shasta,1002,State Assembly,1,DEM,Brigham Sawyer Smith,7
+Shasta,1002,State Assembly,1,REP,Brian Dahle,50
+Shasta,1003,State Assembly,1,DEM,Brigham Sawyer Smith,124
+Shasta,1003,State Assembly,1,REP,Brian Dahle,313
+Shasta,1004,State Assembly,1,DEM,Brigham Sawyer Smith,127
+Shasta,1004,State Assembly,1,REP,Brian Dahle,237
+Shasta,1005,State Assembly,1,DEM,Brigham Sawyer Smith,147
+Shasta,1005,State Assembly,1,REP,Brian Dahle,457
+Shasta,1006,State Assembly,1,DEM,Brigham Sawyer Smith,86
+Shasta,1006,State Assembly,1,REP,Brian Dahle,248
+Shasta,1008,State Assembly,1,DEM,Brigham Sawyer Smith,130
+Shasta,1008,State Assembly,1,REP,Brian Dahle,297
+Shasta,1009,State Assembly,1,DEM,Brigham Sawyer Smith,131
+Shasta,1009,State Assembly,1,REP,Brian Dahle,295
+Shasta,0010,Superintendent of Public Instruction,,NOP,Marshall Tuck,33
+Shasta,0010,Superintendent of Public Instruction,,NOP,Tom Torlakson,29
+Shasta,0012,Superintendent of Public Instruction,,NOP,Marshall Tuck,55
+Shasta,0012,Superintendent of Public Instruction,,NOP,Tom Torlakson,57
+Shasta,0015,Superintendent of Public Instruction,,NOP,Marshall Tuck,234
+Shasta,0015,Superintendent of Public Instruction,,NOP,Tom Torlakson,161
+Shasta,0020,Superintendent of Public Instruction,,NOP,Marshall Tuck,239
+Shasta,0020,Superintendent of Public Instruction,,NOP,Tom Torlakson,212
+Shasta,0030,Superintendent of Public Instruction,,NOP,Marshall Tuck,247
+Shasta,0030,Superintendent of Public Instruction,,NOP,Tom Torlakson,152
+Shasta,034,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
+Shasta,034,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
+Shasta,0050,Superintendent of Public Instruction,,NOP,Marshall Tuck,122
+Shasta,0050,Superintendent of Public Instruction,,NOP,Tom Torlakson,113
+Shasta,0060,Superintendent of Public Instruction,,NOP,Marshall Tuck,212
+Shasta,0060,Superintendent of Public Instruction,,NOP,Tom Torlakson,145
+Shasta,0068,Superintendent of Public Instruction,,NOP,Marshall Tuck,372
+Shasta,0068,Superintendent of Public Instruction,,NOP,Tom Torlakson,249
+Shasta,0070,Superintendent of Public Instruction,,NOP,Marshall Tuck,182
+Shasta,0070,Superintendent of Public Instruction,,NOP,Tom Torlakson,95
+Shasta,0080,Superintendent of Public Instruction,,NOP,Marshall Tuck,274
+Shasta,0080,Superintendent of Public Instruction,,NOP,Tom Torlakson,188
+Shasta,0081,Superintendent of Public Instruction,,NOP,Marshall Tuck,44
+Shasta,0081,Superintendent of Public Instruction,,NOP,Tom Torlakson,38
+Shasta,0082,Superintendent of Public Instruction,,NOP,Marshall Tuck,14
+Shasta,0082,Superintendent of Public Instruction,,NOP,Tom Torlakson,10
+Shasta,0090,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
+Shasta,0090,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
+Shasta,0091,Superintendent of Public Instruction,,NOP,Marshall Tuck,269
+Shasta,0091,Superintendent of Public Instruction,,NOP,Tom Torlakson,218
+Shasta,0093,Superintendent of Public Instruction,,NOP,Marshall Tuck,32
+Shasta,0093,Superintendent of Public Instruction,,NOP,Tom Torlakson,24
+Shasta,0101,Superintendent of Public Instruction,,NOP,Marshall Tuck,240
+Shasta,0101,Superintendent of Public Instruction,,NOP,Tom Torlakson,172
+Shasta,0102,Superintendent of Public Instruction,,NOP,Marshall Tuck,321
+Shasta,0102,Superintendent of Public Instruction,,NOP,Tom Torlakson,177
+Shasta,0110,Superintendent of Public Instruction,,NOP,Marshall Tuck,56
+Shasta,0110,Superintendent of Public Instruction,,NOP,Tom Torlakson,31
+Shasta,0112,Superintendent of Public Instruction,,NOP,Marshall Tuck,433
+Shasta,0112,Superintendent of Public Instruction,,NOP,Tom Torlakson,272
+Shasta,0114,Superintendent of Public Instruction,,NOP,Marshall Tuck,55
+Shasta,0114,Superintendent of Public Instruction,,NOP,Tom Torlakson,48
+Shasta,0120,Superintendent of Public Instruction,,NOP,Marshall Tuck,301
+Shasta,0120,Superintendent of Public Instruction,,NOP,Tom Torlakson,240
+Shasta,0130,Superintendent of Public Instruction,,NOP,Marshall Tuck,12
+Shasta,0130,Superintendent of Public Instruction,,NOP,Tom Torlakson,11
+Shasta,0140,Superintendent of Public Instruction,,NOP,Marshall Tuck,216
+Shasta,0140,Superintendent of Public Instruction,,NOP,Tom Torlakson,199
+Shasta,0150,Superintendent of Public Instruction,,NOP,Marshall Tuck,57
+Shasta,0150,Superintendent of Public Instruction,,NOP,Tom Torlakson,44
+Shasta,0160,Superintendent of Public Instruction,,NOP,Marshall Tuck,338
+Shasta,0160,Superintendent of Public Instruction,,NOP,Tom Torlakson,218
+Shasta,0170,Superintendent of Public Instruction,,NOP,Marshall Tuck,257
+Shasta,0170,Superintendent of Public Instruction,,NOP,Tom Torlakson,248
+Shasta,0175,Superintendent of Public Instruction,,NOP,Marshall Tuck,303
+Shasta,0175,Superintendent of Public Instruction,,NOP,Tom Torlakson,215
+Shasta,0201,Superintendent of Public Instruction,,NOP,Marshall Tuck,259
+Shasta,0201,Superintendent of Public Instruction,,NOP,Tom Torlakson,153
+Shasta,0202,Superintendent of Public Instruction,,NOP,Marshall Tuck,180
+Shasta,0202,Superintendent of Public Instruction,,NOP,Tom Torlakson,101
+Shasta,0210,Superintendent of Public Instruction,,NOP,Marshall Tuck,383
+Shasta,0210,Superintendent of Public Instruction,,NOP,Tom Torlakson,376
+Shasta,0240,Superintendent of Public Instruction,,NOP,Marshall Tuck,33
+Shasta,0240,Superintendent of Public Instruction,,NOP,Tom Torlakson,39
+Shasta,0260,Superintendent of Public Instruction,,NOP,Marshall Tuck,235
+Shasta,0260,Superintendent of Public Instruction,,NOP,Tom Torlakson,214
+Shasta,0261,Superintendent of Public Instruction,,NOP,Marshall Tuck,336
+Shasta,0261,Superintendent of Public Instruction,,NOP,Tom Torlakson,208
+Shasta,0262,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
+Shasta,0262,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
+Shasta,0264,Superintendent of Public Instruction,,NOP,Marshall Tuck,8
+Shasta,0264,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
+Shasta,0270,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
+Shasta,0270,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
+Shasta,0310,Superintendent of Public Instruction,,NOP,Marshall Tuck,207
+Shasta,0310,Superintendent of Public Instruction,,NOP,Tom Torlakson,127
+Shasta,0311,Superintendent of Public Instruction,,NOP,Marshall Tuck,470
+Shasta,0311,Superintendent of Public Instruction,,NOP,Tom Torlakson,353
+Shasta,0313,Superintendent of Public Instruction,,NOP,Marshall Tuck,28
+Shasta,0313,Superintendent of Public Instruction,,NOP,Tom Torlakson,25
+Shasta,0320,Superintendent of Public Instruction,,NOP,Marshall Tuck,463
+Shasta,0320,Superintendent of Public Instruction,,NOP,Tom Torlakson,290
+Shasta,0322,Superintendent of Public Instruction,,NOP,Marshall Tuck,7
+Shasta,0322,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
+Shasta,0330,Superintendent of Public Instruction,,NOP,Marshall Tuck,332
+Shasta,0330,Superintendent of Public Instruction,,NOP,Tom Torlakson,227
+Shasta,0340,Superintendent of Public Instruction,,NOP,Marshall Tuck,381
+Shasta,0340,Superintendent of Public Instruction,,NOP,Tom Torlakson,280
+Shasta,0343,Superintendent of Public Instruction,,NOP,Marshall Tuck,463
+Shasta,0343,Superintendent of Public Instruction,,NOP,Tom Torlakson,355
+Shasta,0350,Superintendent of Public Instruction,,NOP,Marshall Tuck,367
+Shasta,0350,Superintendent of Public Instruction,,NOP,Tom Torlakson,309
+Shasta,0360,Superintendent of Public Instruction,,NOP,Marshall Tuck,207
+Shasta,0360,Superintendent of Public Instruction,,NOP,Tom Torlakson,152
+Shasta,0370,Superintendent of Public Instruction,,NOP,Marshall Tuck,194
+Shasta,0370,Superintendent of Public Instruction,,NOP,Tom Torlakson,144
+Shasta,0371,Superintendent of Public Instruction,,NOP,Marshall Tuck,440
+Shasta,0371,Superintendent of Public Instruction,,NOP,Tom Torlakson,300
+Shasta,0375,Superintendent of Public Instruction,,NOP,Marshall Tuck,302
+Shasta,0375,Superintendent of Public Instruction,,NOP,Tom Torlakson,223
+Shasta,0380,Superintendent of Public Instruction,,NOP,Marshall Tuck,22
+Shasta,0380,Superintendent of Public Instruction,,NOP,Tom Torlakson,27
+Shasta,0390,Superintendent of Public Instruction,,NOP,Marshall Tuck,153
+Shasta,0390,Superintendent of Public Instruction,,NOP,Tom Torlakson,121
+Shasta,0400,Superintendent of Public Instruction,,NOP,Marshall Tuck,176
+Shasta,0400,Superintendent of Public Instruction,,NOP,Tom Torlakson,162
+Shasta,0410,Superintendent of Public Instruction,,NOP,Marshall Tuck,138
+Shasta,0410,Superintendent of Public Instruction,,NOP,Tom Torlakson,96
+Shasta,0420,Superintendent of Public Instruction,,NOP,Marshall Tuck,201
+Shasta,0420,Superintendent of Public Instruction,,NOP,Tom Torlakson,135
+Shasta,0430,Superintendent of Public Instruction,,NOP,Marshall Tuck,316
+Shasta,0430,Superintendent of Public Instruction,,NOP,Tom Torlakson,225
+Shasta,0441,Superintendent of Public Instruction,,NOP,Marshall Tuck,383
+Shasta,0441,Superintendent of Public Instruction,,NOP,Tom Torlakson,281
+Shasta,0443,Superintendent of Public Instruction,,NOP,Marshall Tuck,323
+Shasta,0443,Superintendent of Public Instruction,,NOP,Tom Torlakson,175
+Shasta,0445,Superintendent of Public Instruction,,NOP,Marshall Tuck,297
+Shasta,0445,Superintendent of Public Instruction,,NOP,Tom Torlakson,164
+Shasta,0450,Superintendent of Public Instruction,,NOP,Marshall Tuck,338
+Shasta,0450,Superintendent of Public Instruction,,NOP,Tom Torlakson,219
+Shasta,0462,Superintendent of Public Instruction,,NOP,Marshall Tuck,33
+Shasta,0462,Superintendent of Public Instruction,,NOP,Tom Torlakson,18
+Shasta,0464,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
+Shasta,0464,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
+Shasta,0466,Superintendent of Public Instruction,,NOP,Marshall Tuck,9
+Shasta,0466,Superintendent of Public Instruction,,NOP,Tom Torlakson,13
+Shasta,0468,Superintendent of Public Instruction,,NOP,Marshall Tuck,52
+Shasta,0468,Superintendent of Public Instruction,,NOP,Tom Torlakson,62
+Shasta,0490,Superintendent of Public Instruction,,NOP,Marshall Tuck,93
+Shasta,0490,Superintendent of Public Instruction,,NOP,Tom Torlakson,51
+Shasta,0500,Superintendent of Public Instruction,,NOP,Marshall Tuck,456
+Shasta,0500,Superintendent of Public Instruction,,NOP,Tom Torlakson,291
+Shasta,0510,Superintendent of Public Instruction,,NOP,Marshall Tuck,59
+Shasta,0510,Superintendent of Public Instruction,,NOP,Tom Torlakson,37
+Shasta,0520,Superintendent of Public Instruction,,NOP,Marshall Tuck,149
+Shasta,0520,Superintendent of Public Instruction,,NOP,Tom Torlakson,130
+Shasta,0523,Superintendent of Public Instruction,,NOP,Marshall Tuck,191
+Shasta,0523,Superintendent of Public Instruction,,NOP,Tom Torlakson,150
+Shasta,0530,Superintendent of Public Instruction,,NOP,Marshall Tuck,62
+Shasta,0530,Superintendent of Public Instruction,,NOP,Tom Torlakson,28
+Shasta,0531,Superintendent of Public Instruction,,NOP,Marshall Tuck,63
+Shasta,0531,Superintendent of Public Instruction,,NOP,Tom Torlakson,70
+Shasta,0532,Superintendent of Public Instruction,,NOP,Marshall Tuck,20
+Shasta,0532,Superintendent of Public Instruction,,NOP,Tom Torlakson,13
+Shasta,0555,Superintendent of Public Instruction,,NOP,Marshall Tuck,137
+Shasta,0555,Superintendent of Public Instruction,,NOP,Tom Torlakson,90
+Shasta,0557,Superintendent of Public Instruction,,NOP,Marshall Tuck,133
+Shasta,0557,Superintendent of Public Instruction,,NOP,Tom Torlakson,82
+Shasta,0560,Superintendent of Public Instruction,,NOP,Marshall Tuck,259
+Shasta,0560,Superintendent of Public Instruction,,NOP,Tom Torlakson,186
+Shasta,0561,Superintendent of Public Instruction,,NOP,Marshall Tuck,303
+Shasta,0561,Superintendent of Public Instruction,,NOP,Tom Torlakson,217
+Shasta,0570,Superintendent of Public Instruction,,NOP,Marshall Tuck,457
+Shasta,0570,Superintendent of Public Instruction,,NOP,Tom Torlakson,394
+Shasta,0575,Superintendent of Public Instruction,,NOP,Marshall Tuck,342
+Shasta,0575,Superintendent of Public Instruction,,NOP,Tom Torlakson,295
+Shasta,0590,Superintendent of Public Instruction,,NOP,Marshall Tuck,344
+Shasta,0590,Superintendent of Public Instruction,,NOP,Tom Torlakson,220
+Shasta,0595,Superintendent of Public Instruction,,NOP,Marshall Tuck,268
+Shasta,0595,Superintendent of Public Instruction,,NOP,Tom Torlakson,167
+Shasta,0597,Superintendent of Public Instruction,,NOP,Marshall Tuck,166
+Shasta,0597,Superintendent of Public Instruction,,NOP,Tom Torlakson,138
+Shasta,0610,Superintendent of Public Instruction,,NOP,Marshall Tuck,130
+Shasta,0610,Superintendent of Public Instruction,,NOP,Tom Torlakson,95
+Shasta,0611,Superintendent of Public Instruction,,NOP,Marshall Tuck,379
+Shasta,0611,Superintendent of Public Instruction,,NOP,Tom Torlakson,297
+Shasta,0620,Superintendent of Public Instruction,,NOP,Marshall Tuck,330
+Shasta,0620,Superintendent of Public Instruction,,NOP,Tom Torlakson,224
+Shasta,0630,Superintendent of Public Instruction,,NOP,Marshall Tuck,33
+Shasta,0630,Superintendent of Public Instruction,,NOP,Tom Torlakson,22
+Shasta,0640,Superintendent of Public Instruction,,NOP,Marshall Tuck,439
+Shasta,0640,Superintendent of Public Instruction,,NOP,Tom Torlakson,253
+Shasta,0644,Superintendent of Public Instruction,,NOP,Marshall Tuck,168
+Shasta,0644,Superintendent of Public Instruction,,NOP,Tom Torlakson,120
+Shasta,0646,Superintendent of Public Instruction,,NOP,Marshall Tuck,50
+Shasta,0646,Superintendent of Public Instruction,,NOP,Tom Torlakson,44
+Shasta,0647,Superintendent of Public Instruction,,NOP,Marshall Tuck,35
+Shasta,0647,Superintendent of Public Instruction,,NOP,Tom Torlakson,24
+Shasta,0648,Superintendent of Public Instruction,,NOP,Marshall Tuck,16
+Shasta,0648,Superintendent of Public Instruction,,NOP,Tom Torlakson,9
+Shasta,0660,Superintendent of Public Instruction,,NOP,Marshall Tuck,414
+Shasta,0660,Superintendent of Public Instruction,,NOP,Tom Torlakson,344
+Shasta,0750,Superintendent of Public Instruction,,NOP,Marshall Tuck,70
+Shasta,0750,Superintendent of Public Instruction,,NOP,Tom Torlakson,52
+Shasta,0751,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
+Shasta,0751,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
+Shasta,0760,Superintendent of Public Instruction,,NOP,Marshall Tuck,227
+Shasta,0760,Superintendent of Public Instruction,,NOP,Tom Torlakson,165
+Shasta,0770,Superintendent of Public Instruction,,NOP,Marshall Tuck,352
+Shasta,0770,Superintendent of Public Instruction,,NOP,Tom Torlakson,271
+Shasta,0775,Superintendent of Public Instruction,,NOP,Marshall Tuck,14
+Shasta,0775,Superintendent of Public Instruction,,NOP,Tom Torlakson,15
+Shasta,0780,Superintendent of Public Instruction,,NOP,Marshall Tuck,339
+Shasta,0780,Superintendent of Public Instruction,,NOP,Tom Torlakson,296
+Shasta,0800,Superintendent of Public Instruction,,NOP,Marshall Tuck,49
+Shasta,0800,Superintendent of Public Instruction,,NOP,Tom Torlakson,59
+Shasta,0830,Superintendent of Public Instruction,,NOP,Marshall Tuck,349
+Shasta,0830,Superintendent of Public Instruction,,NOP,Tom Torlakson,396
+Shasta,0850,Superintendent of Public Instruction,,NOP,Marshall Tuck,210
+Shasta,0850,Superintendent of Public Instruction,,NOP,Tom Torlakson,150
+Shasta,0861,Superintendent of Public Instruction,,NOP,Marshall Tuck,499
+Shasta,0861,Superintendent of Public Instruction,,NOP,Tom Torlakson,400
+Shasta,0890,Superintendent of Public Instruction,,NOP,Marshall Tuck,228
+Shasta,0890,Superintendent of Public Instruction,,NOP,Tom Torlakson,242
+Shasta,0892,Superintendent of Public Instruction,,NOP,Marshall Tuck,307
+Shasta,0892,Superintendent of Public Instruction,,NOP,Tom Torlakson,210
+Shasta,0893,Superintendent of Public Instruction,,NOP,Marshall Tuck,37
+Shasta,0893,Superintendent of Public Instruction,,NOP,Tom Torlakson,37
+Shasta,0894,Superintendent of Public Instruction,,NOP,Marshall Tuck,395
+Shasta,0894,Superintendent of Public Instruction,,NOP,Tom Torlakson,317
+Shasta,0895,Superintendent of Public Instruction,,NOP,Marshall Tuck,227
+Shasta,0895,Superintendent of Public Instruction,,NOP,Tom Torlakson,212
+Shasta,0897,Superintendent of Public Instruction,,NOP,Marshall Tuck,443
+Shasta,0897,Superintendent of Public Instruction,,NOP,Tom Torlakson,290
+Shasta,0900,Superintendent of Public Instruction,,NOP,Marshall Tuck,30
+Shasta,0900,Superintendent of Public Instruction,,NOP,Tom Torlakson,32
+Shasta,0910,Superintendent of Public Instruction,,NOP,Marshall Tuck,111
+Shasta,0910,Superintendent of Public Instruction,,NOP,Tom Torlakson,89
+Shasta,0912,Superintendent of Public Instruction,,NOP,Marshall Tuck,484
+Shasta,0912,Superintendent of Public Instruction,,NOP,Tom Torlakson,364
+Shasta,0914,Superintendent of Public Instruction,,NOP,Marshall Tuck,41
+Shasta,0914,Superintendent of Public Instruction,,NOP,Tom Torlakson,29
+Shasta,0925,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
+Shasta,0925,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
+Shasta,0930,Superintendent of Public Instruction,,NOP,Marshall Tuck,389
+Shasta,0930,Superintendent of Public Instruction,,NOP,Tom Torlakson,348
+Shasta,0932,Superintendent of Public Instruction,,NOP,Marshall Tuck,213
+Shasta,0932,Superintendent of Public Instruction,,NOP,Tom Torlakson,115
+Shasta,0940,Superintendent of Public Instruction,,NOP,Marshall Tuck,556
+Shasta,0940,Superintendent of Public Instruction,,NOP,Tom Torlakson,367
+Shasta,0942,Superintendent of Public Instruction,,NOP,Marshall Tuck,375
+Shasta,0942,Superintendent of Public Instruction,,NOP,Tom Torlakson,239
+Shasta,0960,Superintendent of Public Instruction,,NOP,Marshall Tuck,64
+Shasta,0960,Superintendent of Public Instruction,,NOP,Tom Torlakson,45
+Shasta,0970,Superintendent of Public Instruction,,NOP,Marshall Tuck,290
+Shasta,0970,Superintendent of Public Instruction,,NOP,Tom Torlakson,192
+Shasta,0972,Superintendent of Public Instruction,,NOP,Marshall Tuck,93
+Shasta,0972,Superintendent of Public Instruction,,NOP,Tom Torlakson,79
+Shasta,0976,Superintendent of Public Instruction,,NOP,Marshall Tuck,336
+Shasta,0976,Superintendent of Public Instruction,,NOP,Tom Torlakson,270
+Shasta,0977,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
+Shasta,0977,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
+Shasta,0978,Superintendent of Public Instruction,,NOP,Marshall Tuck,208
+Shasta,0978,Superintendent of Public Instruction,,NOP,Tom Torlakson,133
+Shasta,0979,Superintendent of Public Instruction,,NOP,Marshall Tuck,456
+Shasta,0979,Superintendent of Public Instruction,,NOP,Tom Torlakson,319
+Shasta,0982,Superintendent of Public Instruction,,NOP,Marshall Tuck,176
+Shasta,0982,Superintendent of Public Instruction,,NOP,Tom Torlakson,103
+Shasta,0990,Superintendent of Public Instruction,,NOP,Marshall Tuck,2
+Shasta,0990,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
+Shasta,1001,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
+Shasta,1001,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
+Shasta,1002,Superintendent of Public Instruction,,NOP,Marshall Tuck,28
+Shasta,1002,Superintendent of Public Instruction,,NOP,Tom Torlakson,15
+Shasta,1003,Superintendent of Public Instruction,,NOP,Marshall Tuck,213
+Shasta,1003,Superintendent of Public Instruction,,NOP,Tom Torlakson,152
+Shasta,1004,Superintendent of Public Instruction,,NOP,Marshall Tuck,196
+Shasta,1004,Superintendent of Public Instruction,,NOP,Tom Torlakson,130
+Shasta,1005,Superintendent of Public Instruction,,NOP,Marshall Tuck,298
+Shasta,1005,Superintendent of Public Instruction,,NOP,Tom Torlakson,226
+Shasta,1006,Superintendent of Public Instruction,,NOP,Marshall Tuck,160
+Shasta,1006,Superintendent of Public Instruction,,NOP,Tom Torlakson,134
+Shasta,1008,Superintendent of Public Instruction,,NOP,Marshall Tuck,201
+Shasta,1008,Superintendent of Public Instruction,,NOP,Tom Torlakson,166
+Shasta,1009,Superintendent of Public Instruction,,NOP,Marshall Tuck,203
+Shasta,1009,Superintendent of Public Instruction,,NOP,Tom Torlakson,178
+Shasta,0010,Treasurer,,DEM,John Chiang,27
+Shasta,0010,Treasurer,,REP,Greg Conlon,50
+Shasta,0012,Treasurer,,DEM,John Chiang,51
+Shasta,0012,Treasurer,,REP,Greg Conlon,84
+Shasta,0015,Treasurer,,DEM,John Chiang,178
+Shasta,0015,Treasurer,,REP,Greg Conlon,263
+Shasta,0020,Treasurer,,DEM,John Chiang,212
+Shasta,0020,Treasurer,,REP,Greg Conlon,302
+Shasta,0030,Treasurer,,DEM,John Chiang,142
+Shasta,0030,Treasurer,,REP,Greg Conlon,330
+Shasta,034,Treasurer,,DEM,John Chiang,0
+Shasta,034,Treasurer,,REP,Greg Conlon,0
+Shasta,0050,Treasurer,,DEM,John Chiang,112
+Shasta,0050,Treasurer,,REP,Greg Conlon,159
+Shasta,0060,Treasurer,,DEM,John Chiang,174
+Shasta,0060,Treasurer,,REP,Greg Conlon,220
+Shasta,0068,Treasurer,,DEM,John Chiang,307
+Shasta,0068,Treasurer,,REP,Greg Conlon,419
+Shasta,0070,Treasurer,,DEM,John Chiang,128
+Shasta,0070,Treasurer,,REP,Greg Conlon,226
+Shasta,0080,Treasurer,,DEM,John Chiang,154
+Shasta,0080,Treasurer,,REP,Greg Conlon,391
+Shasta,0081,Treasurer,,DEM,John Chiang,43
+Shasta,0081,Treasurer,,REP,Greg Conlon,55
+Shasta,0082,Treasurer,,DEM,John Chiang,10
+Shasta,0082,Treasurer,,REP,Greg Conlon,18
+Shasta,0090,Treasurer,,DEM,John Chiang,3
+Shasta,0090,Treasurer,,REP,Greg Conlon,5
+Shasta,0091,Treasurer,,DEM,John Chiang,207
+Shasta,0091,Treasurer,,REP,Greg Conlon,361
+Shasta,0093,Treasurer,,DEM,John Chiang,25
+Shasta,0093,Treasurer,,REP,Greg Conlon,41
+Shasta,0101,Treasurer,,DEM,John Chiang,160
+Shasta,0101,Treasurer,,REP,Greg Conlon,350
+Shasta,0102,Treasurer,,DEM,John Chiang,192
+Shasta,0102,Treasurer,,REP,Greg Conlon,416
+Shasta,0110,Treasurer,,DEM,John Chiang,37
+Shasta,0110,Treasurer,,REP,Greg Conlon,75
+Shasta,0112,Treasurer,,DEM,John Chiang,266
+Shasta,0112,Treasurer,,REP,Greg Conlon,578
+Shasta,0114,Treasurer,,DEM,John Chiang,50
+Shasta,0114,Treasurer,,REP,Greg Conlon,75
+Shasta,0120,Treasurer,,DEM,John Chiang,296
+Shasta,0120,Treasurer,,REP,Greg Conlon,312
+Shasta,0130,Treasurer,,DEM,John Chiang,9
+Shasta,0130,Treasurer,,REP,Greg Conlon,22
+Shasta,0140,Treasurer,,DEM,John Chiang,219
+Shasta,0140,Treasurer,,REP,Greg Conlon,284
+Shasta,0150,Treasurer,,DEM,John Chiang,45
+Shasta,0150,Treasurer,,REP,Greg Conlon,84
+Shasta,0160,Treasurer,,DEM,John Chiang,245
+Shasta,0160,Treasurer,,REP,Greg Conlon,402
+Shasta,0170,Treasurer,,DEM,John Chiang,213
+Shasta,0170,Treasurer,,REP,Greg Conlon,369
+Shasta,0175,Treasurer,,DEM,John Chiang,223
+Shasta,0175,Treasurer,,REP,Greg Conlon,362
+Shasta,0201,Treasurer,,DEM,John Chiang,165
+Shasta,0201,Treasurer,,REP,Greg Conlon,311
+Shasta,0202,Treasurer,,DEM,John Chiang,109
+Shasta,0202,Treasurer,,REP,Greg Conlon,220
+Shasta,0210,Treasurer,,DEM,John Chiang,301
+Shasta,0210,Treasurer,,REP,Greg Conlon,573
+Shasta,0240,Treasurer,,DEM,John Chiang,39
+Shasta,0240,Treasurer,,REP,Greg Conlon,51
+Shasta,0260,Treasurer,,DEM,John Chiang,193
+Shasta,0260,Treasurer,,REP,Greg Conlon,334
+Shasta,0261,Treasurer,,DEM,John Chiang,241
+Shasta,0261,Treasurer,,REP,Greg Conlon,415
+Shasta,0262,Treasurer,,DEM,John Chiang,0
+Shasta,0262,Treasurer,,REP,Greg Conlon,0
+Shasta,0264,Treasurer,,DEM,John Chiang,6
+Shasta,0264,Treasurer,,REP,Greg Conlon,12
+Shasta,0270,Treasurer,,DEM,John Chiang,0
+Shasta,0270,Treasurer,,REP,Greg Conlon,4
+Shasta,0310,Treasurer,,DEM,John Chiang,131
+Shasta,0310,Treasurer,,REP,Greg Conlon,271
+Shasta,0311,Treasurer,,DEM,John Chiang,335
+Shasta,0311,Treasurer,,REP,Greg Conlon,628
+Shasta,0313,Treasurer,,DEM,John Chiang,18
+Shasta,0313,Treasurer,,REP,Greg Conlon,54
+Shasta,0320,Treasurer,,DEM,John Chiang,282
+Shasta,0320,Treasurer,,REP,Greg Conlon,630
+Shasta,0322,Treasurer,,DEM,John Chiang,2
+Shasta,0322,Treasurer,,REP,Greg Conlon,11
+Shasta,0330,Treasurer,,DEM,John Chiang,256
+Shasta,0330,Treasurer,,REP,Greg Conlon,388
+Shasta,0340,Treasurer,,DEM,John Chiang,249
+Shasta,0340,Treasurer,,REP,Greg Conlon,528
+Shasta,0343,Treasurer,,DEM,John Chiang,369
+Shasta,0343,Treasurer,,REP,Greg Conlon,581
+Shasta,0350,Treasurer,,DEM,John Chiang,240
+Shasta,0350,Treasurer,,REP,Greg Conlon,544
+Shasta,0360,Treasurer,,DEM,John Chiang,181
+Shasta,0360,Treasurer,,REP,Greg Conlon,257
+Shasta,0370,Treasurer,,DEM,John Chiang,159
+Shasta,0370,Treasurer,,REP,Greg Conlon,231
+Shasta,0371,Treasurer,,DEM,John Chiang,300
+Shasta,0371,Treasurer,,REP,Greg Conlon,540
+Shasta,0375,Treasurer,,DEM,John Chiang,196
+Shasta,0375,Treasurer,,REP,Greg Conlon,402
+Shasta,0380,Treasurer,,DEM,John Chiang,51
+Shasta,0380,Treasurer,,REP,Greg Conlon,25
+Shasta,0390,Treasurer,,DEM,John Chiang,128
+Shasta,0390,Treasurer,,REP,Greg Conlon,184
+Shasta,0400,Treasurer,,DEM,John Chiang,166
+Shasta,0400,Treasurer,,REP,Greg Conlon,219
+Shasta,0410,Treasurer,,DEM,John Chiang,103
+Shasta,0410,Treasurer,,REP,Greg Conlon,161
+Shasta,0420,Treasurer,,DEM,John Chiang,145
+Shasta,0420,Treasurer,,REP,Greg Conlon,242
+Shasta,0430,Treasurer,,DEM,John Chiang,254
+Shasta,0430,Treasurer,,REP,Greg Conlon,370
+Shasta,0441,Treasurer,,DEM,John Chiang,265
+Shasta,0441,Treasurer,,REP,Greg Conlon,491
+Shasta,0443,Treasurer,,DEM,John Chiang,209
+Shasta,0443,Treasurer,,REP,Greg Conlon,365
+Shasta,0445,Treasurer,,DEM,John Chiang,200
+Shasta,0445,Treasurer,,REP,Greg Conlon,346
+Shasta,0450,Treasurer,,DEM,John Chiang,234
+Shasta,0450,Treasurer,,REP,Greg Conlon,419
+Shasta,0462,Treasurer,,DEM,John Chiang,20
+Shasta,0462,Treasurer,,REP,Greg Conlon,46
+Shasta,0464,Treasurer,,DEM,John Chiang,0
+Shasta,0464,Treasurer,,REP,Greg Conlon,4
+Shasta,0466,Treasurer,,DEM,John Chiang,3
+Shasta,0466,Treasurer,,REP,Greg Conlon,21
+Shasta,0468,Treasurer,,DEM,John Chiang,45
+Shasta,0468,Treasurer,,REP,Greg Conlon,90
+Shasta,0490,Treasurer,,DEM,John Chiang,69
+Shasta,0490,Treasurer,,REP,Greg Conlon,96
+Shasta,0500,Treasurer,,DEM,John Chiang,287
+Shasta,0500,Treasurer,,REP,Greg Conlon,622
+Shasta,0510,Treasurer,,DEM,John Chiang,52
+Shasta,0510,Treasurer,,REP,Greg Conlon,66
+Shasta,0520,Treasurer,,DEM,John Chiang,104
+Shasta,0520,Treasurer,,REP,Greg Conlon,209
+Shasta,0523,Treasurer,,DEM,John Chiang,158
+Shasta,0523,Treasurer,,REP,Greg Conlon,247
+Shasta,0530,Treasurer,,DEM,John Chiang,43
+Shasta,0530,Treasurer,,REP,Greg Conlon,61
+Shasta,0531,Treasurer,,DEM,John Chiang,83
+Shasta,0531,Treasurer,,REP,Greg Conlon,79
+Shasta,0532,Treasurer,,DEM,John Chiang,15
+Shasta,0532,Treasurer,,REP,Greg Conlon,25
+Shasta,0555,Treasurer,,DEM,John Chiang,97
+Shasta,0555,Treasurer,,REP,Greg Conlon,165
+Shasta,0557,Treasurer,,DEM,John Chiang,103
+Shasta,0557,Treasurer,,REP,Greg Conlon,163
+Shasta,0560,Treasurer,,DEM,John Chiang,162
+Shasta,0560,Treasurer,,REP,Greg Conlon,394
+Shasta,0561,Treasurer,,DEM,John Chiang,208
+Shasta,0561,Treasurer,,REP,Greg Conlon,440
+Shasta,0570,Treasurer,,DEM,John Chiang,424
+Shasta,0570,Treasurer,,REP,Greg Conlon,556
+Shasta,0575,Treasurer,,DEM,John Chiang,318
+Shasta,0575,Treasurer,,REP,Greg Conlon,432
+Shasta,0590,Treasurer,,DEM,John Chiang,188
+Shasta,0590,Treasurer,,REP,Greg Conlon,512
+Shasta,0595,Treasurer,,DEM,John Chiang,193
+Shasta,0595,Treasurer,,REP,Greg Conlon,320
+Shasta,0597,Treasurer,,DEM,John Chiang,133
+Shasta,0597,Treasurer,,REP,Greg Conlon,221
+Shasta,0610,Treasurer,,DEM,John Chiang,114
+Shasta,0610,Treasurer,,REP,Greg Conlon,148
+Shasta,0611,Treasurer,,DEM,John Chiang,235
+Shasta,0611,Treasurer,,REP,Greg Conlon,571
+Shasta,0620,Treasurer,,DEM,John Chiang,212
+Shasta,0620,Treasurer,,REP,Greg Conlon,409
+Shasta,0630,Treasurer,,DEM,John Chiang,28
+Shasta,0630,Treasurer,,REP,Greg Conlon,46
+Shasta,0640,Treasurer,,DEM,John Chiang,262
+Shasta,0640,Treasurer,,REP,Greg Conlon,538
+Shasta,0644,Treasurer,,DEM,John Chiang,96
+Shasta,0644,Treasurer,,REP,Greg Conlon,276
+Shasta,0646,Treasurer,,DEM,John Chiang,41
+Shasta,0646,Treasurer,,REP,Greg Conlon,79
+Shasta,0647,Treasurer,,DEM,John Chiang,25
+Shasta,0647,Treasurer,,REP,Greg Conlon,49
+Shasta,0648,Treasurer,,DEM,John Chiang,7
+Shasta,0648,Treasurer,,REP,Greg Conlon,22
+Shasta,0660,Treasurer,,DEM,John Chiang,439
+Shasta,0660,Treasurer,,REP,Greg Conlon,415
+Shasta,0750,Treasurer,,DEM,John Chiang,65
+Shasta,0750,Treasurer,,REP,Greg Conlon,78
+Shasta,0751,Treasurer,,DEM,John Chiang,1
+Shasta,0751,Treasurer,,REP,Greg Conlon,1
+Shasta,0760,Treasurer,,DEM,John Chiang,175
+Shasta,0760,Treasurer,,REP,Greg Conlon,292
+Shasta,0770,Treasurer,,DEM,John Chiang,281
+Shasta,0770,Treasurer,,REP,Greg Conlon,442
+Shasta,0775,Treasurer,,DEM,John Chiang,16
+Shasta,0775,Treasurer,,REP,Greg Conlon,29
+Shasta,0780,Treasurer,,DEM,John Chiang,397
+Shasta,0780,Treasurer,,REP,Greg Conlon,329
+Shasta,0800,Treasurer,,DEM,John Chiang,59
+Shasta,0800,Treasurer,,REP,Greg Conlon,75
+Shasta,0830,Treasurer,,DEM,John Chiang,384
+Shasta,0830,Treasurer,,REP,Greg Conlon,498
+Shasta,0850,Treasurer,,DEM,John Chiang,166
+Shasta,0850,Treasurer,,REP,Greg Conlon,273
+Shasta,0861,Treasurer,,DEM,John Chiang,400
+Shasta,0861,Treasurer,,REP,Greg Conlon,647
+Shasta,0890,Treasurer,,DEM,John Chiang,228
+Shasta,0890,Treasurer,,REP,Greg Conlon,334
+Shasta,0892,Treasurer,,DEM,John Chiang,202
+Shasta,0892,Treasurer,,REP,Greg Conlon,406
+Shasta,0893,Treasurer,,DEM,John Chiang,31
+Shasta,0893,Treasurer,,REP,Greg Conlon,59
+Shasta,0894,Treasurer,,DEM,John Chiang,344
+Shasta,0894,Treasurer,,REP,Greg Conlon,489
+Shasta,0895,Treasurer,,DEM,John Chiang,218
+Shasta,0895,Treasurer,,REP,Greg Conlon,307
+Shasta,0897,Treasurer,,DEM,John Chiang,360
+Shasta,0897,Treasurer,,REP,Greg Conlon,494
+Shasta,0900,Treasurer,,DEM,John Chiang,37
+Shasta,0900,Treasurer,,REP,Greg Conlon,41
+Shasta,0910,Treasurer,,DEM,John Chiang,109
+Shasta,0910,Treasurer,,REP,Greg Conlon,128
+Shasta,0912,Treasurer,,DEM,John Chiang,325
+Shasta,0912,Treasurer,,REP,Greg Conlon,650
+Shasta,0914,Treasurer,,DEM,John Chiang,27
+Shasta,0914,Treasurer,,REP,Greg Conlon,52
+Shasta,0925,Treasurer,,DEM,John Chiang,0
+Shasta,0925,Treasurer,,REP,Greg Conlon,0
+Shasta,0930,Treasurer,,DEM,John Chiang,373
+Shasta,0930,Treasurer,,REP,Greg Conlon,533
+Shasta,0932,Treasurer,,DEM,John Chiang,116
+Shasta,0932,Treasurer,,REP,Greg Conlon,301
+Shasta,0940,Treasurer,,DEM,John Chiang,362
+Shasta,0940,Treasurer,,REP,Greg Conlon,740
+Shasta,0942,Treasurer,,DEM,John Chiang,254
+Shasta,0942,Treasurer,,REP,Greg Conlon,473
+Shasta,0960,Treasurer,,DEM,John Chiang,41
+Shasta,0960,Treasurer,,REP,Greg Conlon,101
+Shasta,0970,Treasurer,,DEM,John Chiang,218
+Shasta,0970,Treasurer,,REP,Greg Conlon,345
+Shasta,0972,Treasurer,,DEM,John Chiang,81
+Shasta,0972,Treasurer,,REP,Greg Conlon,127
+Shasta,0976,Treasurer,,DEM,John Chiang,193
+Shasta,0976,Treasurer,,REP,Greg Conlon,507
+Shasta,0977,Treasurer,,DEM,John Chiang,2
+Shasta,0977,Treasurer,,REP,Greg Conlon,10
+Shasta,0978,Treasurer,,DEM,John Chiang,111
+Shasta,0978,Treasurer,,REP,Greg Conlon,308
+Shasta,0979,Treasurer,,DEM,John Chiang,299
+Shasta,0979,Treasurer,,REP,Greg Conlon,627
+Shasta,0982,Treasurer,,DEM,John Chiang,131
+Shasta,0982,Treasurer,,REP,Greg Conlon,190
+Shasta,0990,Treasurer,,DEM,John Chiang,5
+Shasta,0990,Treasurer,,REP,Greg Conlon,3
+Shasta,1001,Treasurer,,DEM,John Chiang,0
+Shasta,1001,Treasurer,,REP,Greg Conlon,0
+Shasta,1002,Treasurer,,DEM,John Chiang,11
+Shasta,1002,Treasurer,,REP,Greg Conlon,45
+Shasta,1003,Treasurer,,DEM,John Chiang,164
+Shasta,1003,Treasurer,,REP,Greg Conlon,268
+Shasta,1004,Treasurer,,DEM,John Chiang,151
+Shasta,1004,Treasurer,,REP,Greg Conlon,212
+Shasta,1005,Treasurer,,DEM,John Chiang,228
+Shasta,1005,Treasurer,,REP,Greg Conlon,367
+Shasta,1006,Treasurer,,DEM,John Chiang,139
+Shasta,1006,Treasurer,,REP,Greg Conlon,196
+Shasta,1008,Treasurer,,DEM,John Chiang,180
+Shasta,1008,Treasurer,,REP,Greg Conlon,253
+Shasta,1009,Treasurer,,DEM,John Chiang,182
+Shasta,1009,Treasurer,,REP,Greg Conlon,250

@@ -1,0 +1,313 @@
+county,precinct,office,district,party,candidate,votes
+Mono,01,Attorney General,,DEM,Kamala D. Harris,104
+Mono,01,Attorney General,,REP,Ronald Gold,187
+Mono,02,Attorney General,,DEM,Kamala D. Harris,24
+Mono,02,Attorney General,,REP,Ronald Gold,64
+Mono,03,Attorney General,,DEM,Kamala D. Harris,66
+Mono,03,Attorney General,,REP,Ronald Gold,187
+Mono,04,Attorney General,,DEM,Kamala D. Harris,50
+Mono,04,Attorney General,,REP,Ronald Gold,137
+Mono,05,Attorney General,,DEM,Kamala D. Harris,104
+Mono,05,Attorney General,,REP,Ronald Gold,98
+Mono,06,Attorney General,,DEM,Kamala D. Harris,76
+Mono,06,Attorney General,,REP,Ronald Gold,59
+Mono,07,Attorney General,,DEM,Kamala D. Harris,193
+Mono,07,Attorney General,,REP,Ronald Gold,167
+Mono,08,Attorney General,,DEM,Kamala D. Harris,124
+Mono,08,Attorney General,,REP,Ronald Gold,85
+Mono,09,Attorney General,,DEM,Kamala D. Harris,185
+Mono,09,Attorney General,,REP,Ronald Gold,160
+Mono,10,Attorney General,,DEM,Kamala D. Harris,153
+Mono,10,Attorney General,,REP,Ronald Gold,102
+Mono,11,Attorney General,,DEM,Kamala D. Harris,153
+Mono,11,Attorney General,,REP,Ronald Gold,64
+Mono,12,Attorney General,,DEM,Kamala D. Harris,144
+Mono,12,Attorney General,,REP,Ronald Gold,115
+Mono,13,Attorney General,,DEM,Kamala D. Harris,118
+Mono,13,Attorney General,,REP,Ronald Gold,91
+Mono,01,Board of Equalization,1,DEM,Chris Parker,107
+Mono,01,Board of Equalization,1,REP,George Runner,183
+Mono,02,Board of Equalization,1,DEM,Chris Parker,25
+Mono,02,Board of Equalization,1,REP,George Runner,64
+Mono,03,Board of Equalization,1,DEM,Chris Parker,53
+Mono,03,Board of Equalization,1,REP,George Runner,197
+Mono,04,Board of Equalization,1,DEM,Chris Parker,43
+Mono,04,Board of Equalization,1,REP,George Runner,141
+Mono,05,Board of Equalization,1,DEM,Chris Parker,82
+Mono,05,Board of Equalization,1,REP,George Runner,119
+Mono,06,Board of Equalization,1,DEM,Chris Parker,74
+Mono,06,Board of Equalization,1,REP,George Runner,59
+Mono,07,Board of Equalization,1,DEM,Chris Parker,178
+Mono,07,Board of Equalization,1,REP,George Runner,175
+Mono,08,Board of Equalization,1,DEM,Chris Parker,110
+Mono,08,Board of Equalization,1,REP,George Runner,91
+Mono,09,Board of Equalization,1,DEM,Chris Parker,158
+Mono,09,Board of Equalization,1,REP,George Runner,175
+Mono,10,Board of Equalization,1,DEM,Chris Parker,138
+Mono,10,Board of Equalization,1,REP,George Runner,115
+Mono,11,Board of Equalization,1,DEM,Chris Parker,146
+Mono,11,Board of Equalization,1,REP,George Runner,72
+Mono,12,Board of Equalization,1,DEM,Chris Parker,123
+Mono,12,Board of Equalization,1,REP,George Runner,124
+Mono,13,Board of Equalization,1,DEM,Chris Parker,114
+Mono,13,Board of Equalization,1,REP,George Runner,89
+Mono,01,Controller,,DEM,Betty T. Yee,113
+Mono,01,Controller,,REP,Ashley Swearengin,177
+Mono,02,Controller,,DEM,Betty T. Yee,31
+Mono,02,Controller,,REP,Ashley Swearengin,60
+Mono,03,Controller,,DEM,Betty T. Yee,63
+Mono,03,Controller,,REP,Ashley Swearengin,192
+Mono,04,Controller,,DEM,Betty T. Yee,49
+Mono,04,Controller,,REP,Ashley Swearengin,137
+Mono,05,Controller,,DEM,Betty T. Yee,102
+Mono,05,Controller,,REP,Ashley Swearengin,107
+Mono,06,Controller,,DEM,Betty T. Yee,70
+Mono,06,Controller,,REP,Ashley Swearengin,64
+Mono,07,Controller,,DEM,Betty T. Yee,179
+Mono,07,Controller,,REP,Ashley Swearengin,181
+Mono,08,Controller,,DEM,Betty T. Yee,116
+Mono,08,Controller,,REP,Ashley Swearengin,91
+Mono,09,Controller,,DEM,Betty T. Yee,157
+Mono,09,Controller,,REP,Ashley Swearengin,181
+Mono,10,Controller,,DEM,Betty T. Yee,140
+Mono,10,Controller,,REP,Ashley Swearengin,118
+Mono,11,Controller,,DEM,Betty T. Yee,152
+Mono,11,Controller,,REP,Ashley Swearengin,65
+Mono,12,Controller,,DEM,Betty T. Yee,137
+Mono,12,Controller,,REP,Ashley Swearengin,119
+Mono,13,Controller,,DEM,Betty T. Yee,121
+Mono,13,Controller,,REP,Ashley Swearengin,88
+Mono,01,Governor,,DEM,Edmund G. Brown,124
+Mono,01,Governor,,REP,Neel Kashkari,169
+Mono,02,Governor,,DEM,Edmund G. Brown,27
+Mono,02,Governor,,REP,Neel Kashkari,65
+Mono,03,Governor,,DEM,Edmund G. Brown,73
+Mono,03,Governor,,REP,Neel Kashkari,177
+Mono,04,Governor,,DEM,Edmund G. Brown,51
+Mono,04,Governor,,REP,Neel Kashkari,137
+Mono,05,Governor,,DEM,Edmund G. Brown,114
+Mono,05,Governor,,REP,Neel Kashkari,92
+Mono,06,Governor,,DEM,Edmund G. Brown,83
+Mono,06,Governor,,REP,Neel Kashkari,56
+Mono,07,Governor,,DEM,Edmund G. Brown,208
+Mono,07,Governor,,REP,Neel Kashkari,159
+Mono,08,Governor,,DEM,Edmund G. Brown,133
+Mono,08,Governor,,REP,Neel Kashkari,83
+Mono,09,Governor,,DEM,Edmund G. Brown,204
+Mono,09,Governor,,REP,Neel Kashkari,153
+Mono,10,Governor,,DEM,Edmund G. Brown,158
+Mono,10,Governor,,REP,Neel Kashkari,106
+Mono,11,Governor,,DEM,Edmund G. Brown,160
+Mono,11,Governor,,REP,Neel Kashkari,63
+Mono,12,Governor,,DEM,Edmund G. Brown,163
+Mono,12,Governor,,REP,Neel Kashkari,104
+Mono,13,Governor,,DEM,Edmund G. Brown,134
+Mono,13,Governor,,REP,Neel Kashkari,78
+Mono,01,U.S. House,8,DEM,Bob Conaway,107
+Mono,01,U.S. House,8,REP,Paul Cook,186
+Mono,02,U.S. House,8,DEM,Bob Conaway,23
+Mono,02,U.S. House,8,REP,Paul Cook,68
+Mono,03,U.S. House,8,DEM,Bob Conaway,62
+Mono,03,U.S. House,8,REP,Paul Cook,191
+Mono,04,U.S. House,8,DEM,Bob Conaway,43
+Mono,04,U.S. House,8,REP,Paul Cook,144
+Mono,05,U.S. House,8,DEM,Bob Conaway,92
+Mono,05,U.S. House,8,REP,Paul Cook,118
+Mono,06,U.S. House,8,DEM,Bob Conaway,79
+Mono,06,U.S. House,8,REP,Paul Cook,59
+Mono,07,U.S. House,8,DEM,Bob Conaway,166
+Mono,07,U.S. House,8,REP,Paul Cook,190
+Mono,08,U.S. House,8,DEM,Bob Conaway,109
+Mono,08,U.S. House,8,REP,Paul Cook,96
+Mono,09,U.S. House,8,DEM,Bob Conaway,166
+Mono,09,U.S. House,8,REP,Paul Cook,182
+Mono,10,U.S. House,8,DEM,Bob Conaway,146
+Mono,10,U.S. House,8,REP,Paul Cook,112
+Mono,11,U.S. House,8,DEM,Bob Conaway,150
+Mono,11,U.S. House,8,REP,Paul Cook,66
+Mono,12,U.S. House,8,DEM,Bob Conaway,132
+Mono,12,U.S. House,8,REP,Paul Cook,125
+Mono,13,U.S. House,8,DEM,Bob Conaway,112
+Mono,13,U.S. House,8,REP,Paul Cook,93
+Mono,01,Insurance Commissioner,,DEM,Dave Jones,107
+Mono,01,Insurance Commissioner,,REP,Ted Gaines,186
+Mono,02,Insurance Commissioner,,DEM,Dave Jones,27
+Mono,02,Insurance Commissioner,,REP,Ted Gaines,63
+Mono,03,Insurance Commissioner,,DEM,Dave Jones,75
+Mono,03,Insurance Commissioner,,REP,Ted Gaines,179
+Mono,04,Insurance Commissioner,,DEM,Dave Jones,49
+Mono,04,Insurance Commissioner,,REP,Ted Gaines,138
+Mono,05,Insurance Commissioner,,DEM,Dave Jones,99
+Mono,05,Insurance Commissioner,,REP,Ted Gaines,112
+Mono,06,Insurance Commissioner,,DEM,Dave Jones,73
+Mono,06,Insurance Commissioner,,REP,Ted Gaines,62
+Mono,07,Insurance Commissioner,,DEM,Dave Jones,186
+Mono,07,Insurance Commissioner,,REP,Ted Gaines,172
+Mono,08,Insurance Commissioner,,DEM,Dave Jones,115
+Mono,08,Insurance Commissioner,,REP,Ted Gaines,91
+Mono,09,Insurance Commissioner,,DEM,Dave Jones,183
+Mono,09,Insurance Commissioner,,REP,Ted Gaines,161
+Mono,10,Insurance Commissioner,,DEM,Dave Jones,145
+Mono,10,Insurance Commissioner,,REP,Ted Gaines,112
+Mono,11,Insurance Commissioner,,DEM,Dave Jones,157
+Mono,11,Insurance Commissioner,,REP,Ted Gaines,61
+Mono,12,Insurance Commissioner,,DEM,Dave Jones,146
+Mono,12,Insurance Commissioner,,REP,Ted Gaines,111
+Mono,13,Insurance Commissioner,,DEM,Dave Jones,125
+Mono,13,Insurance Commissioner,,REP,Ted Gaines,82
+Mono,01,Lieutenant Governor,,DEM,Gavin Newsom,112
+Mono,01,Lieutenant Governor,,REP,Ron Nehring,180
+Mono,02,Lieutenant Governor,,DEM,Gavin Newsom,27
+Mono,02,Lieutenant Governor,,REP,Ron Nehring,64
+Mono,03,Lieutenant Governor,,DEM,Gavin Newsom,73
+Mono,03,Lieutenant Governor,,REP,Ron Nehring,179
+Mono,04,Lieutenant Governor,,DEM,Gavin Newsom,49
+Mono,04,Lieutenant Governor,,REP,Ron Nehring,138
+Mono,05,Lieutenant Governor,,DEM,Gavin Newsom,107
+Mono,05,Lieutenant Governor,,REP,Ron Nehring,104
+Mono,06,Lieutenant Governor,,DEM,Gavin Newsom,75
+Mono,06,Lieutenant Governor,,REP,Ron Nehring,60
+Mono,07,Lieutenant Governor,,DEM,Gavin Newsom,187
+Mono,07,Lieutenant Governor,,REP,Ron Nehring,174
+Mono,08,Lieutenant Governor,,DEM,Gavin Newsom,128
+Mono,08,Lieutenant Governor,,REP,Ron Nehring,82
+Mono,09,Lieutenant Governor,,DEM,Gavin Newsom,192
+Mono,09,Lieutenant Governor,,REP,Ron Nehring,156
+Mono,10,Lieutenant Governor,,DEM,Gavin Newsom,154
+Mono,10,Lieutenant Governor,,REP,Ron Nehring,109
+Mono,11,Lieutenant Governor,,DEM,Gavin Newsom,151
+Mono,11,Lieutenant Governor,,REP,Ron Nehring,69
+Mono,12,Lieutenant Governor,,DEM,Gavin Newsom,146
+Mono,12,Lieutenant Governor,,REP,Ron Nehring,116
+Mono,13,Lieutenant Governor,,DEM,Gavin Newsom,125
+Mono,13,Lieutenant Governor,,REP,Ron Nehring,84
+Mono,01,Secretary of State,,DEM,Alex Padilla,102
+Mono,01,Secretary of State,,REP,Pete Peterson,190
+Mono,02,Secretary of State,,DEM,Alex Padilla,24
+Mono,02,Secretary of State,,REP,Pete Peterson,66
+Mono,03,Secretary of State,,DEM,Alex Padilla,63
+Mono,03,Secretary of State,,REP,Pete Peterson,192
+Mono,04,Secretary of State,,DEM,Alex Padilla,49
+Mono,04,Secretary of State,,REP,Pete Peterson,137
+Mono,05,Secretary of State,,DEM,Alex Padilla,94
+Mono,05,Secretary of State,,REP,Pete Peterson,107
+Mono,06,Secretary of State,,DEM,Alex Padilla,68
+Mono,06,Secretary of State,,REP,Pete Peterson,68
+Mono,07,Secretary of State,,DEM,Alex Padilla,173
+Mono,07,Secretary of State,,REP,Pete Peterson,190
+Mono,08,Secretary of State,,DEM,Alex Padilla,115
+Mono,08,Secretary of State,,REP,Pete Peterson,96
+Mono,09,Secretary of State,,DEM,Alex Padilla,173
+Mono,09,Secretary of State,,REP,Pete Peterson,171
+Mono,10,Secretary of State,,DEM,Alex Padilla,142
+Mono,10,Secretary of State,,REP,Pete Peterson,118
+Mono,11,Secretary of State,,DEM,Alex Padilla,142
+Mono,11,Secretary of State,,REP,Pete Peterson,76
+Mono,12,Secretary of State,,DEM,Alex Padilla,136
+Mono,12,Secretary of State,,REP,Pete Peterson,120
+Mono,13,Secretary of State,,DEM,Alex Padilla,113
+Mono,13,Secretary of State,,REP,Pete Peterson,96
+Mono,01,State Assembly,5,LIB,Patrick D. Hogan,78
+Mono,01,State Assembly,5,REP,Frank Bigelow,202
+Mono,02,State Assembly,5,LIB,Patrick D. Hogan,18
+Mono,02,State Assembly,5,REP,Frank Bigelow,69
+Mono,03,State Assembly,5,LIB,Patrick D. Hogan,47
+Mono,03,State Assembly,5,REP,Frank Bigelow,194
+Mono,04,State Assembly,5,LIB,Patrick D. Hogan,34
+Mono,04,State Assembly,5,REP,Frank Bigelow,141
+Mono,05,State Assembly,5,LIB,Patrick D. Hogan,76
+Mono,05,State Assembly,5,REP,Frank Bigelow,118
+Mono,06,State Assembly,5,LIB,Patrick D. Hogan,47
+Mono,06,State Assembly,5,REP,Frank Bigelow,63
+Mono,07,State Assembly,5,LIB,Patrick D. Hogan,111
+Mono,07,State Assembly,5,REP,Frank Bigelow,218
+Mono,08,State Assembly,5,LIB,Patrick D. Hogan,75
+Mono,08,State Assembly,5,REP,Frank Bigelow,101
+Mono,09,State Assembly,5,LIB,Patrick D. Hogan,119
+Mono,09,State Assembly,5,REP,Frank Bigelow,189
+Mono,10,State Assembly,5,LIB,Patrick D. Hogan,98
+Mono,10,State Assembly,5,REP,Frank Bigelow,123
+Mono,11,State Assembly,5,LIB,Patrick D. Hogan,102
+Mono,11,State Assembly,5,REP,Frank Bigelow,77
+Mono,12,State Assembly,5,LIB,Patrick D. Hogan,90
+Mono,12,State Assembly,5,REP,Frank Bigelow,135
+Mono,13,State Assembly,5,LIB,Patrick D. Hogan,73
+Mono,13,State Assembly,5,REP,Frank Bigelow,106
+Mono,01,State Senate,8,DEM,Paulina Miranda,94
+Mono,01,State Senate,8,REP,Tom Berryhill,199
+Mono,02,State Senate,8,DEM,Paulina Miranda,23
+Mono,02,State Senate,8,REP,Tom Berryhill,67
+Mono,03,State Senate,8,DEM,Paulina Miranda,53
+Mono,03,State Senate,8,REP,Tom Berryhill,197
+Mono,04,State Senate,8,DEM,Paulina Miranda,42
+Mono,04,State Senate,8,REP,Tom Berryhill,145
+Mono,05,State Senate,8,DEM,Paulina Miranda,94
+Mono,05,State Senate,8,REP,Tom Berryhill,115
+Mono,06,State Senate,8,DEM,Paulina Miranda,82
+Mono,06,State Senate,8,REP,Tom Berryhill,55
+Mono,07,State Senate,8,DEM,Paulina Miranda,168
+Mono,07,State Senate,8,REP,Tom Berryhill,188
+Mono,08,State Senate,8,DEM,Paulina Miranda,111
+Mono,08,State Senate,8,REP,Tom Berryhill,93
+Mono,09,State Senate,8,DEM,Paulina Miranda,173
+Mono,09,State Senate,8,REP,Tom Berryhill,168
+Mono,10,State Senate,8,DEM,Paulina Miranda,140
+Mono,10,State Senate,8,REP,Tom Berryhill,114
+Mono,11,State Senate,8,DEM,Paulina Miranda,147
+Mono,11,State Senate,8,REP,Tom Berryhill,69
+Mono,12,State Senate,8,DEM,Paulina Miranda,133
+Mono,12,State Senate,8,REP,Tom Berryhill,121
+Mono,13,State Senate,8,DEM,Paulina Miranda,115
+Mono,13,State Senate,8,REP,Tom Berryhill,88
+Mono,01,Superintendent of Public Instruction,,NOP,Marshall Tuck,117
+Mono,01,Superintendent of Public Instruction,,NOP,Tom Torlakson,132
+Mono,02,Superintendent of Public Instruction,,NOP,Marshall Tuck,43
+Mono,02,Superintendent of Public Instruction,,NOP,Tom Torlakson,39
+Mono,03,Superintendent of Public Instruction,,NOP,Marshall Tuck,112
+Mono,03,Superintendent of Public Instruction,,NOP,Tom Torlakson,110
+Mono,04,Superintendent of Public Instruction,,NOP,Marshall Tuck,80
+Mono,04,Superintendent of Public Instruction,,NOP,Tom Torlakson,75
+Mono,05,Superintendent of Public Instruction,,NOP,Marshall Tuck,79
+Mono,05,Superintendent of Public Instruction,,NOP,Tom Torlakson,88
+Mono,06,Superintendent of Public Instruction,,NOP,Marshall Tuck,47
+Mono,06,Superintendent of Public Instruction,,NOP,Tom Torlakson,61
+Mono,07,Superintendent of Public Instruction,,NOP,Marshall Tuck,136
+Mono,07,Superintendent of Public Instruction,,NOP,Tom Torlakson,170
+Mono,08,Superintendent of Public Instruction,,NOP,Marshall Tuck,66
+Mono,08,Superintendent of Public Instruction,,NOP,Tom Torlakson,96
+Mono,09,Superintendent of Public Instruction,,NOP,Marshall Tuck,102
+Mono,09,Superintendent of Public Instruction,,NOP,Tom Torlakson,171
+Mono,10,Superintendent of Public Instruction,,NOP,Marshall Tuck,78
+Mono,10,Superintendent of Public Instruction,,NOP,Tom Torlakson,128
+Mono,11,Superintendent of Public Instruction,,NOP,Marshall Tuck,48
+Mono,11,Superintendent of Public Instruction,,NOP,Tom Torlakson,132
+Mono,12,Superintendent of Public Instruction,,NOP,Marshall Tuck,85
+Mono,12,Superintendent of Public Instruction,,NOP,Tom Torlakson,117
+Mono,13,Superintendent of Public Instruction,,NOP,Marshall Tuck,76
+Mono,13,Superintendent of Public Instruction,,NOP,Tom Torlakson,90
+Mono,01,Treasurer,,DEM,John Chiang,117
+Mono,01,Treasurer,,REP,Greg Conlon,173
+Mono,02,Treasurer,,DEM,John Chiang,31
+Mono,02,Treasurer,,REP,Greg Conlon,60
+Mono,03,Treasurer,,DEM,John Chiang,82
+Mono,03,Treasurer,,REP,Greg Conlon,175
+Mono,04,Treasurer,,DEM,John Chiang,62
+Mono,04,Treasurer,,REP,Greg Conlon,126
+Mono,05,Treasurer,,DEM,John Chiang,102
+Mono,05,Treasurer,,REP,Greg Conlon,98
+Mono,06,Treasurer,,DEM,John Chiang,80
+Mono,06,Treasurer,,REP,Greg Conlon,55
+Mono,07,Treasurer,,DEM,John Chiang,195
+Mono,07,Treasurer,,REP,Greg Conlon,166
+Mono,08,Treasurer,,DEM,John Chiang,119
+Mono,08,Treasurer,,REP,Greg Conlon,87
+Mono,09,Treasurer,,DEM,John Chiang,178
+Mono,09,Treasurer,,REP,Greg Conlon,166
+Mono,10,Treasurer,,DEM,John Chiang,149
+Mono,10,Treasurer,,REP,Greg Conlon,108
+Mono,11,Treasurer,,DEM,John Chiang,154
+Mono,11,Treasurer,,REP,Greg Conlon,62
+Mono,12,Treasurer,,DEM,John Chiang,146
+Mono,12,Treasurer,,REP,Greg Conlon,111
+Mono,13,Treasurer,,DEM,John Chiang,120
+Mono,13,Treasurer,,REP,Greg Conlon,87
