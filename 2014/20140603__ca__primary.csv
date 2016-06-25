@@ -2235,6 +2235,7 @@ San Luis Obispo,U.S. House,24,REP,Justin Donald Fareed,10152
 San Luis Obispo,U.S. House,24,REP,Dale Francisco,4717
 San Luis Obispo,U.S. House,24,REP,Chris Mitchum,10309
 San Luis Obispo,U.S. House,24,REP,Alexis Stuart,421
+San Luis Obispo,U.S. House,24,NPP,Steve Isakson,614
 Santa Barbara,U.S. House,24,DEM,Lois Capps,30864
 Santa Barbara,U.S. House,24,DEM,"Paul H. Coyne, Jr.",1462
 Santa Barbara,U.S. House,24,DEM,Sandra Marshall,2727
@@ -2243,6 +2244,7 @@ Santa Barbara,U.S. House,24,REP,Justin Donald Fareed,10164
 Santa Barbara,U.S. House,24,REP,Dale Francisco,10767
 Santa Barbara,U.S. House,24,REP,Chris Mitchum,10625
 Santa Barbara,U.S. House,24,REP,Alexis Stuart,252
+Santa Barbara,U.S. House,24,NPP,Steve Isakson,599
 Ventura,U.S. House,24,DEM,Lois Capps,629
 Ventura,U.S. House,24,DEM,"Paul H. Coyne, Jr.",23
 Ventura,U.S. House,24,DEM,Sandra Marshall,84
@@ -2251,8 +2253,7 @@ Ventura,U.S. House,24,REP,Justin Donald Fareed,129
 Ventura,U.S. House,24,REP,Dale Francisco,91
 Ventura,U.S. House,24,REP,Chris Mitchum,125
 Ventura,U.S. House,24,REP,Alexis Stuart,5
-Santa Barbara,U.S. House,,614.0,NPP,599
-Ventura,U.S. House,,614.0,NPP,36
+Ventura,U.S. House,24,NPP,Steve Isakson,36
 Los Angeles,U.S. House,25,DEM,Lee Rogers,11370
 Los Angeles,U.S. House,25,DEM,"Evan ""Ivan"" Thomas",4823
 Los Angeles,U.S. House,25,REP,Troy Castagna,2937
@@ -3654,12 +3655,12 @@ Sacramento,State Assembly,8,REP,Douglas Haaland,28049
 Sacramento,State Assembly,8,LIB,Janice Marlae Bonser,4830
 Sacramento,State Assembly,9,DEM,Jim Cooper,16865
 Sacramento,State Assembly,9,DEM,Darrell R. Fong,15910
-Sacramento,State Assembly,9,DEM,Diana Rodriguez- Suruki,4260
+Sacramento,State Assembly,9,DEM,Diana Rodriguez-Suruki,4260
 Sacramento,State Assembly,9,REP,Tim Gorsulowsky,7189
 Sacramento,State Assembly,9,REP,Manuel J. Martin,6015
 San Joaquin,State Assembly,9,DEM,Jim Cooper,2058
 San Joaquin,State Assembly,9,DEM,Darrell R. Fong,1842
-San Joaquin,State Assembly,9,DEM,Diana Rodriguez- Suruki,820
+San Joaquin,State Assembly,9,DEM,Diana Rodriguez-Suruki,820
 San Joaquin,State Assembly,9,REP,Tim Gorsulowsky,3749
 San Joaquin,State Assembly,9,REP,Manuel J. Martin,2096
 Marin,State Assembly,10,DEM,Diana M. Conti,11267
@@ -3809,6 +3810,8 @@ San Bernardino,State Assembly,33,REP,Michelle Ambrozic,7566
 San Bernardino,State Assembly,33,REP,Rick Roelle,6574
 San Bernardino,State Assembly,33,REP,Robert J. (Bob) Buhrle,802
 San Bernardino,State Assembly,33,REP,Robert Larivee,299
+San Bernardino,State Assembly,33,REP,Jay Obernolte,8028
+San Bernardino,State Assembly,33,REP,Brett Savage,1811
 Kern,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",12856
 Kern,State Assembly,34,REP,Shannon Grove,37749
 San Luis Obispo,State Assembly,35,DEM,Heidi Harmon,20754
