@@ -24,6 +24,8 @@ party_dict = {'Democratic': 'DEM',
 office_dict = {'United States Representative': 'U.S. House',
                'State Assembly Member': 'State Assembly'}
 
+# Clean up candidate names
+candidate_dict = {'Ron  Unz': 'Ron Unz'}
 
 # Columns to select
 columns = ['COUNTY_NAME', 'office', 'district',
@@ -48,7 +50,8 @@ voter_nominated = pandas.concat([voter_nominated, contest_split], axis=1)
 voter_nominated = voter_nominated.replace({'office': office_dict})[columns]
 
 result = pandas.concat([presidential, voter_nominated]
-                       ).replace({'PARTY_NAME': party_dict})
+                       ).replace({'PARTY_NAME': party_dict,
+                                  'CANDIDATE_NAME': candidate_dict})
 
 output_columns = ['county', 'office',
                   'district', 'party', 'candidate', 'votes']
