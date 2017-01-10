@@ -1,0 +1,715 @@
+county,precinct,race,party,candidate,votes
+Colusa,105,President,DEM,Hillary Clinton,261
+Colusa,105,President,REP/AI,Donald J. Trump,387
+Colusa,105,President,LIB,Gary Johnson,27
+Colusa,105,President,GRN,Jill Stein,6
+Colusa,105,President,PF,Gloria Estela La Riva,0
+Colusa,105,President,WI,Write-In,13
+Colusa,106,President,DEM,Hillary Clinton,379
+Colusa,106,President,REP/AI,Donald J. Trump,342
+Colusa,106,President,LIB,Gary Johnson,33
+Colusa,106,President,GRN,Jill Stein,5
+Colusa,106,President,PF,Gloria Estela La Riva,3
+Colusa,106,President,WI,Write-In,10
+Colusa,202,President,DEM,Hillary Clinton,36
+Colusa,202,President,REP/AI,Donald J. Trump,126
+Colusa,202,President,LIB,Gary Johnson,8
+Colusa,202,President,GRN,Jill Stein,3
+Colusa,202,President,PF,Gloria Estela La Riva,0
+Colusa,202,President,WI,Write-In,4
+Colusa,203,President,DEM,Hillary Clinton,69
+Colusa,203,President,REP/AI,Donald J. Trump,66
+Colusa,203,President,LIB,Gary Johnson,11
+Colusa,203,President,GRN,Jill Stein,2
+Colusa,203,President,PF,Gloria Estela La Riva,0
+Colusa,203,President,WI,Write-In,3
+Colusa,213,President,DEM,Hillary Clinton,263
+Colusa,213,President,REP/AI,Donald J. Trump,250
+Colusa,213,President,LIB,Gary Johnson,18
+Colusa,213,President,GRN,Jill Stein,6
+Colusa,213,President,PF,Gloria Estela La Riva,6
+Colusa,213,President,WI,Write-In,5
+Colusa,214,President,DEM,Hillary Clinton,184
+Colusa,214,President,REP/AI,Donald J. Trump,360
+Colusa,214,President,LIB,Gary Johnson,27
+Colusa,214,President,GRN,Jill Stein,11
+Colusa,214,President,PF,Gloria Estela La Riva,1
+Colusa,214,President,WI,Write-In,8
+Colusa,301,President,DEM,Hillary Clinton,75
+Colusa,301,President,REP/AI,Donald J. Trump,223
+Colusa,301,President,LIB,Gary Johnson,22
+Colusa,301,President,GRN,Jill Stein,1
+Colusa,301,President,PF,Gloria Estela La Riva,0
+Colusa,301,President,WI,Write-In,2
+Colusa,323,President,DEM,Hillary Clinton,227
+Colusa,323,President,REP/AI,Donald J. Trump,124
+Colusa,323,President,LIB,Gary Johnson,19
+Colusa,323,President,GRN,Jill Stein,1
+Colusa,323,President,PF,Gloria Estela La Riva,3
+Colusa,323,President,WI,Write-In,5
+Colusa,324,President,DEM,Hillary Clinton,256
+Colusa,324,President,REP/AI,Donald J. Trump,133
+Colusa,324,President,LIB,Gary Johnson,16
+Colusa,324,President,GRN,Jill Stein,7
+Colusa,324,President,PF,Gloria Estela La Riva,4
+Colusa,324,President,WI,Write-In,11
+Colusa,401,President,DEM,Hillary Clinton,134
+Colusa,401,President,REP/AI,Donald J. Trump,394
+Colusa,401,President,LIB,Gary Johnson,16
+Colusa,401,President,GRN,Jill Stein,5
+Colusa,401,President,PF,Gloria Estela La Riva,5
+Colusa,401,President,WI,Write-In,5
+Colusa,405C,President,DEM,Hillary Clinton,67
+Colusa,405C,President,REP/AI,Donald J. Trump,154
+Colusa,405C,President,LIB,Gary Johnson,10
+Colusa,405C,President,GRN,Jill Stein,2
+Colusa,405C,President,PF,Gloria Estela La Riva,0
+Colusa,405C,President,WI,Write-In,5
+Colusa,407,President,DEM,Hillary Clinton,21
+Colusa,407,President,REP/AI,Donald J. Trump,36
+Colusa,407,President,LIB,Gary Johnson,1
+Colusa,407,President,GRN,Jill Stein,0
+Colusa,407,President,PF,Gloria Estela La Riva,0
+Colusa,407,President,WI,Write-In,2
+Colusa,427,President,DEM,Hillary Clinton,192
+Colusa,427,President,REP/AI,Donald J. Trump,40
+Colusa,427,President,LIB,Gary Johnson,8
+Colusa,427,President,GRN,Jill Stein,2
+Colusa,427,President,PF,Gloria Estela La Riva,3
+Colusa,427,President,WI,Write-In,3
+Colusa,500,President,DEM,Hillary Clinton,121
+Colusa,500,President,REP/AI,Donald J. Trump,287
+Colusa,500,President,LIB,Gary Johnson,17
+Colusa,500,President,GRN,Jill Stein,6
+Colusa,500,President,PF,Gloria Estela La Riva,7
+Colusa,500,President,WI,Write-In,9
+Colusa,505,President,DEM,Hillary Clinton,31
+Colusa,505,President,REP/AI,Donald J. Trump,120
+Colusa,505,President,LIB,Gary Johnson,2
+Colusa,505,President,GRN,Jill Stein,4
+Colusa,505,President,PF,Gloria Estela La Riva,0
+Colusa,505,President,WI,Write-In,2
+Colusa,512,President,DEM,Hillary Clinton,192
+Colusa,512,President,REP/AI,Donald J. Trump,227
+Colusa,512,President,LIB,Gary Johnson,10
+Colusa,512,President,GRN,Jill Stein,11
+Colusa,512,President,PF,Gloria Estela La Riva,5
+Colusa,512,President,WI,Write-In,3
+Colusa,513,President,DEM,Hillary Clinton,153
+Colusa,513,President,REP/AI,Donald J. Trump,282
+Colusa,513,President,LIB,Gary Johnson,15
+Colusa,513,President,GRN,Jill Stein,13
+Colusa,513,President,PF,Gloria Estela La Riva,2
+Colusa,513,President,WI,Write-In,11
+Colusa,105,Proposition 51,N/A,Yes,292
+Colusa,105,Proposition 51,N/A,No,393
+Colusa,106,Proposition 51,N/A,Yes,366
+Colusa,106,Proposition 51,N/A,No,388
+Colusa,202,Proposition 51,N/A,Yes,66
+Colusa,202,Proposition 51,N/A,No,102
+Colusa,203,Proposition 51,N/A,Yes,66
+Colusa,203,Proposition 51,N/A,No,83
+Colusa,213,Proposition 51,N/A,Yes,312
+Colusa,213,Proposition 51,N/A,No,228
+Colusa,214,Proposition 51,N/A,Yes,227
+Colusa,214,Proposition 51,N/A,No,343
+Colusa,301,Proposition 51,N/A,Yes,98
+Colusa,301,Proposition 51,N/A,No,215
+Colusa,323,Proposition 51,N/A,Yes,226
+Colusa,323,Proposition 51,N/A,No,140
+Colusa,324,Proposition 51,N/A,Yes,246
+Colusa,324,Proposition 51,N/A,No,160
+Colusa,401,Proposition 51,N/A,Yes,196
+Colusa,401,Proposition 51,N/A,No,350
+Colusa,405C,Proposition 51,N/A,Yes,83
+Colusa,405C,Proposition 51,N/A,No,146
+Colusa,407,Proposition 51,N/A,Yes,23
+Colusa,407,Proposition 51,N/A,No,34
+Colusa,427,Proposition 51,N/A,Yes,167
+Colusa,427,Proposition 51,N/A,No,73
+Colusa,500,Proposition 51,N/A,Yes,172
+Colusa,500,Proposition 51,N/A,No,268
+Colusa,505,Proposition 51,N/A,Yes,50
+Colusa,505,Proposition 51,N/A,No,101
+Colusa,512,Proposition 51,N/A,Yes,241
+Colusa,512,Proposition 51,N/A,No,194
+Colusa,513,Proposition 51,N/A,Yes,179
+Colusa,513,Proposition 51,N/A,No,268
+Colusa,105,Proposition 52,N/A,Yes,393
+Colusa,105,Proposition 52,N/A,No,273
+Colusa,106,Proposition 52,N/A,Yes,434
+Colusa,106,Proposition 52,N/A,No,309
+Colusa,202,Proposition 52,N/A,Yes,86
+Colusa,202,Proposition 52,N/A,No,76
+Colusa,203,Proposition 52,N/A,Yes,86
+Colusa,203,Proposition 52,N/A,No,63
+Colusa,213,Proposition 52,N/A,Yes,349
+Colusa,213,Proposition 52,N/A,No,184
+Colusa,214,Proposition 52,N/A,Yes,314
+Colusa,214,Proposition 52,N/A,No,251
+Colusa,301,Proposition 52,N/A,Yes,159
+Colusa,301,Proposition 52,N/A,No,153
+Colusa,323,Proposition 52,N/A,Yes,252
+Colusa,323,Proposition 52,N/A,No,108
+Colusa,324,Proposition 52,N/A,Yes,261
+Colusa,324,Proposition 52,N/A,No,134
+Colusa,401,Proposition 52,N/A,Yes,247
+Colusa,401,Proposition 52,N/A,No,283
+Colusa,405C,Proposition 52,N/A,Yes,122
+Colusa,405C,Proposition 52,N/A,No,111
+Colusa,407,Proposition 52,N/A,Yes,37
+Colusa,407,Proposition 52,N/A,No,22
+Colusa,427,Proposition 52,N/A,Yes,183
+Colusa,427,Proposition 52,N/A,No,59
+Colusa,500,Proposition 52,N/A,Yes,241
+Colusa,500,Proposition 52,N/A,No,199
+Colusa,505,Proposition 52,N/A,Yes,74
+Colusa,505,Proposition 52,N/A,No,76
+Colusa,512,Proposition 52,N/A,Yes,274
+Colusa,512,Proposition 52,N/A,No,160
+Colusa,513,Proposition 52,N/A,Yes,254
+Colusa,513,Proposition 52,N/A,No,193
+Colusa,105,Proposition 53,N/A,Yes,347
+Colusa,105,Proposition 53,N/A,No,324
+Colusa,106,Proposition 53,N/A,Yes,415
+Colusa,106,Proposition 53,N/A,No,326
+Colusa,202,Proposition 53,N/A,Yes,97
+Colusa,202,Proposition 53,N/A,No,65
+Colusa,203,Proposition 53,N/A,Yes,78
+Colusa,203,Proposition 53,N/A,No,70
+Colusa,213,Proposition 53,N/A,Yes,273
+Colusa,213,Proposition 53,N/A,No,247
+Colusa,214,Proposition 53,N/A,Yes,304
+Colusa,214,Proposition 53,N/A,No,258
+Colusa,301,Proposition 53,N/A,Yes,163
+Colusa,301,Proposition 53,N/A,No,150
+Colusa,323,Proposition 53,N/A,Yes,209
+Colusa,323,Proposition 53,N/A,No,149
+Colusa,324,Proposition 53,N/A,Yes,228
+Colusa,324,Proposition 53,N/A,No,170
+Colusa,401,Proposition 53,N/A,Yes,253
+Colusa,401,Proposition 53,N/A,No,282
+Colusa,405C,Proposition 53,N/A,Yes,141
+Colusa,405C,Proposition 53,N/A,No,91
+Colusa,407,Proposition 53,N/A,Yes,29
+Colusa,407,Proposition 53,N/A,No,29
+Colusa,427,Proposition 53,N/A,Yes,133
+Colusa,427,Proposition 53,N/A,No,104
+Colusa,500,Proposition 53,N/A,Yes,228
+Colusa,500,Proposition 53,N/A,No,201
+Colusa,505,Proposition 53,N/A,Yes,76
+Colusa,505,Proposition 53,N/A,No,74
+Colusa,512,Proposition 53,N/A,Yes,231
+Colusa,512,Proposition 53,N/A,No,195
+Colusa,513,Proposition 53,N/A,Yes,230
+Colusa,513,Proposition 53,N/A,No,210
+Colusa,105,Proposition 54,N/A,Yes,407
+Colusa,105,Proposition 54,N/A,No,264
+Colusa,106,Proposition 54,N/A,Yes,461
+Colusa,106,Proposition 54,N/A,No,274
+Colusa,202,Proposition 54,N/A,Yes,114
+Colusa,202,Proposition 54,N/A,No,49
+Colusa,203,Proposition 54,N/A,Yes,92
+Colusa,203,Proposition 54,N/A,No,52
+Colusa,213,Proposition 54,N/A,Yes,294
+Colusa,213,Proposition 54,N/A,No,228
+Colusa,214,Proposition 54,N/A,Yes,337
+Colusa,214,Proposition 54,N/A,No,220
+Colusa,301,Proposition 54,N/A,Yes,210
+Colusa,301,Proposition 54,N/A,No,102
+Colusa,323,Proposition 54,N/A,Yes,222
+Colusa,323,Proposition 54,N/A,No,134
+Colusa,324,Proposition 54,N/A,Yes,232
+Colusa,324,Proposition 54,N/A,No,165
+Colusa,401,Proposition 54,N/A,Yes,324
+Colusa,401,Proposition 54,N/A,No,208
+Colusa,405C,Proposition 54,N/A,Yes,120
+Colusa,405C,Proposition 54,N/A,No,103
+Colusa,407,Proposition 54,N/A,Yes,41
+Colusa,407,Proposition 54,N/A,No,15
+Colusa,427,Proposition 54,N/A,Yes,136
+Colusa,427,Proposition 54,N/A,No,100
+Colusa,500,Proposition 54,N/A,Yes,269
+Colusa,500,Proposition 54,N/A,No,161
+Colusa,505,Proposition 54,N/A,Yes,92
+Colusa,505,Proposition 54,N/A,No,56
+Colusa,512,Proposition 54,N/A,Yes,260
+Colusa,512,Proposition 54,N/A,No,169
+Colusa,513,Proposition 54,N/A,Yes,266
+Colusa,513,Proposition 54,N/A,No,175
+Colusa,105,Proposition 55,N/A,Yes,326
+Colusa,105,Proposition 55,N/A,No,350
+Colusa,106,Proposition 55,N/A,Yes,403
+Colusa,106,Proposition 55,N/A,No,341
+Colusa,202,Proposition 55,N/A,Yes,74
+Colusa,202,Proposition 55,N/A,No,91
+Colusa,203,Proposition 55,N/A,Yes,75
+Colusa,203,Proposition 55,N/A,No,75
+Colusa,213,Proposition 55,N/A,Yes,319
+Colusa,213,Proposition 55,N/A,No,211
+Colusa,214,Proposition 55,N/A,Yes,246
+Colusa,214,Proposition 55,N/A,No,319
+Colusa,301,Proposition 55,N/A,Yes,117
+Colusa,301,Proposition 55,N/A,No,200
+Colusa,323,Proposition 55,N/A,Yes,228
+Colusa,323,Proposition 55,N/A,No,133
+Colusa,324,Proposition 55,N/A,Yes,271
+Colusa,324,Proposition 55,N/A,No,133
+Colusa,401,Proposition 55,N/A,Yes,189
+Colusa,401,Proposition 55,N/A,No,348
+Colusa,405C,Proposition 55,N/A,Yes,111
+Colusa,405C,Proposition 55,N/A,No,117
+Colusa,407,Proposition 55,N/A,Yes,19
+Colusa,407,Proposition 55,N/A,No,38
+Colusa,427,Proposition 55,N/A,Yes,181
+Colusa,427,Proposition 55,N/A,No,59
+Colusa,500,Proposition 55,N/A,Yes,176
+Colusa,500,Proposition 55,N/A,No,262
+Colusa,505,Proposition 55,N/A,Yes,50
+Colusa,505,Proposition 55,N/A,No,99
+Colusa,512,Proposition 55,N/A,Yes,286
+Colusa,512,Proposition 55,N/A,No,151
+Colusa,513,Proposition 55,N/A,Yes,218
+Colusa,513,Proposition 55,N/A,No,230
+Colusa,105,Proposition 56,N/A,Yes,322
+Colusa,105,Proposition 56,N/A,No,366
+Colusa,106,Proposition 56,N/A,Yes,409
+Colusa,106,Proposition 56,N/A,No,349
+Colusa,202,Proposition 56,N/A,Yes,76
+Colusa,202,Proposition 56,N/A,No,94
+Colusa,203,Proposition 56,N/A,Yes,72
+Colusa,203,Proposition 56,N/A,No,79
+Colusa,213,Proposition 56,N/A,Yes,303
+Colusa,213,Proposition 56,N/A,No,240
+Colusa,214,Proposition 56,N/A,Yes,272
+Colusa,214,Proposition 56,N/A,No,305
+Colusa,301,Proposition 56,N/A,Yes,129
+Colusa,301,Proposition 56,N/A,No,189
+Colusa,323,Proposition 56,N/A,Yes,219
+Colusa,323,Proposition 56,N/A,No,150
+Colusa,324,Proposition 56,N/A,Yes,248
+Colusa,324,Proposition 56,N/A,No,165
+Colusa,401,Proposition 56,N/A,Yes,201
+Colusa,401,Proposition 56,N/A,No,350
+Colusa,405C,Proposition 56,N/A,Yes,91
+Colusa,405C,Proposition 56,N/A,No,147
+Colusa,407,Proposition 56,N/A,Yes,32
+Colusa,407,Proposition 56,N/A,No,27
+Colusa,427,Proposition 56,N/A,Yes,180
+Colusa,427,Proposition 56,N/A,No,63
+Colusa,500,Proposition 56,N/A,Yes,177
+Colusa,500,Proposition 56,N/A,No,268
+Colusa,505,Proposition 56,N/A,Yes,48
+Colusa,505,Proposition 56,N/A,No,106
+Colusa,512,Proposition 56,N/A,Yes,222
+Colusa,512,Proposition 56,N/A,No,213
+Colusa,513,Proposition 56,N/A,Yes,211
+Colusa,513,Proposition 56,N/A,No,248
+Colusa,105,Proposition 57,N/A,Yes,311
+Colusa,105,Proposition 57,N/A,No,373
+Colusa,106,Proposition 57,N/A,Yes,381
+Colusa,106,Proposition 57,N/A,No,371
+Colusa,202,Proposition 57,N/A,Yes,66
+Colusa,202,Proposition 57,N/A,No,104
+Colusa,203,Proposition 57,N/A,Yes,67
+Colusa,203,Proposition 57,N/A,No,80
+Colusa,213,Proposition 57,N/A,Yes,274
+Colusa,213,Proposition 57,N/A,No,258
+Colusa,214,Proposition 57,N/A,Yes,238
+Colusa,214,Proposition 57,N/A,No,336
+Colusa,301,Proposition 57,N/A,Yes,115
+Colusa,301,Proposition 57,N/A,No,198
+Colusa,323,Proposition 57,N/A,Yes,220
+Colusa,323,Proposition 57,N/A,No,142
+Colusa,324,Proposition 57,N/A,Yes,254
+Colusa,324,Proposition 57,N/A,No,152
+Colusa,401,Proposition 57,N/A,Yes,184
+Colusa,401,Proposition 57,N/A,No,360
+Colusa,405C,Proposition 57,N/A,Yes,114
+Colusa,405C,Proposition 57,N/A,No,117
+Colusa,407,Proposition 57,N/A,Yes,21
+Colusa,407,Proposition 57,N/A,No,38
+Colusa,427,Proposition 57,N/A,Yes,173
+Colusa,427,Proposition 57,N/A,No,64
+Colusa,500,Proposition 57,N/A,Yes,189
+Colusa,500,Proposition 57,N/A,No,251
+Colusa,505,Proposition 57,N/A,Yes,49
+Colusa,505,Proposition 57,N/A,No,104
+Colusa,512,Proposition 57,N/A,Yes,251
+Colusa,512,Proposition 57,N/A,No,183
+Colusa,513,Proposition 57,N/A,Yes,221
+Colusa,513,Proposition 57,N/A,No,222
+Colusa,105,Proposition 58,N/A,Yes,431
+Colusa,105,Proposition 58,N/A,No,250
+Colusa,106,Proposition 58,N/A,Yes,510
+Colusa,106,Proposition 58,N/A,No,244
+Colusa,202,Proposition 58,N/A,Yes,99
+Colusa,202,Proposition 58,N/A,No,73
+Colusa,203,Proposition 58,N/A,Yes,100
+Colusa,203,Proposition 58,N/A,No,50
+Colusa,213,Proposition 58,N/A,Yes,367
+Colusa,213,Proposition 58,N/A,No,172
+Colusa,214,Proposition 58,N/A,Yes,335
+Colusa,214,Proposition 58,N/A,No,239
+Colusa,301,Proposition 58,N/A,Yes,170
+Colusa,301,Proposition 58,N/A,No,143
+Colusa,323,Proposition 58,N/A,Yes,276
+Colusa,323,Proposition 58,N/A,No,87
+Colusa,324,Proposition 58,N/A,Yes,290
+Colusa,324,Proposition 58,N/A,No,118
+Colusa,401,Proposition 58,N/A,Yes,298
+Colusa,401,Proposition 58,N/A,No,244
+Colusa,405C,Proposition 58,N/A,Yes,159
+Colusa,405C,Proposition 58,N/A,No,70
+Colusa,407,Proposition 58,N/A,Yes,36
+Colusa,407,Proposition 58,N/A,No,20
+Colusa,427,Proposition 58,N/A,Yes,207
+Colusa,427,Proposition 58,N/A,No,36
+Colusa,500,Proposition 58,N/A,Yes,270
+Colusa,500,Proposition 58,N/A,No,167
+Colusa,505,Proposition 58,N/A,Yes,73
+Colusa,505,Proposition 58,N/A,No,79
+Colusa,512,Proposition 58,N/A,Yes,310
+Colusa,512,Proposition 58,N/A,No,117
+Colusa,513,Proposition 58,N/A,Yes,275
+Colusa,513,Proposition 58,N/A,No,173
+Colusa,105,Proposition 59,N/A,Yes,232
+Colusa,105,Proposition 59,N/A,No,435
+Colusa,106,Proposition 59,N/A,Yes,301
+Colusa,106,Proposition 59,N/A,No,429
+Colusa,202,Proposition 59,N/A,Yes,53
+Colusa,202,Proposition 59,N/A,No,111
+Colusa,203,Proposition 59,N/A,Yes,54
+Colusa,203,Proposition 59,N/A,No,92
+Colusa,213,Proposition 59,N/A,Yes,204
+Colusa,213,Proposition 59,N/A,No,316
+Colusa,214,Proposition 59,N/A,Yes,185
+Colusa,214,Proposition 59,N/A,No,366
+Colusa,301,Proposition 59,N/A,Yes,93
+Colusa,301,Proposition 59,N/A,No,212
+Colusa,323,Proposition 59,N/A,Yes,149
+Colusa,323,Proposition 59,N/A,No,200
+Colusa,324,Proposition 59,N/A,Yes,135
+Colusa,324,Proposition 59,N/A,No,253
+Colusa,401,Proposition 59,N/A,Yes,131
+Colusa,401,Proposition 59,N/A,No,382
+Colusa,405C,Proposition 59,N/A,Yes,80
+Colusa,405C,Proposition 59,N/A,No,140
+Colusa,407,Proposition 59,N/A,Yes,13
+Colusa,407,Proposition 59,N/A,No,45
+Colusa,427,Proposition 59,N/A,Yes,126
+Colusa,427,Proposition 59,N/A,No,106
+Colusa,500,Proposition 59,N/A,Yes,142
+Colusa,500,Proposition 59,N/A,No,283
+Colusa,505,Proposition 59,N/A,Yes,43
+Colusa,505,Proposition 59,N/A,No,107
+Colusa,512,Proposition 59,N/A,Yes,182
+Colusa,512,Proposition 59,N/A,No,230
+Colusa,513,Proposition 59,N/A,Yes,140
+Colusa,513,Proposition 59,N/A,No,288
+Colusa,105,Proposition 60,N/A,Yes,285
+Colusa,105,Proposition 60,N/A,No,370
+Colusa,106,Proposition 60,N/A,Yes,275
+Colusa,106,Proposition 60,N/A,No,444
+Colusa,202,Proposition 60,N/A,Yes,52
+Colusa,202,Proposition 60,N/A,No,116
+Colusa,203,Proposition 60,N/A,Yes,61
+Colusa,203,Proposition 60,N/A,No,86
+Colusa,213,Proposition 60,N/A,Yes,226
+Colusa,213,Proposition 60,N/A,No,297
+Colusa,214,Proposition 60,N/A,Yes,180
+Colusa,214,Proposition 60,N/A,No,374
+Colusa,301,Proposition 60,N/A,Yes,92
+Colusa,301,Proposition 60,N/A,No,214
+Colusa,323,Proposition 60,N/A,Yes,174
+Colusa,323,Proposition 60,N/A,No,175
+Colusa,324,Proposition 60,N/A,Yes,205
+Colusa,324,Proposition 60,N/A,No,203
+Colusa,401,Proposition 60,N/A,Yes,140
+Colusa,401,Proposition 60,N/A,No,381
+Colusa,405C,Proposition 60,N/A,Yes,85
+Colusa,405C,Proposition 60,N/A,No,147
+Colusa,407,Proposition 60,N/A,Yes,16
+Colusa,407,Proposition 60,N/A,No,39
+Colusa,427,Proposition 60,N/A,Yes,142
+Colusa,427,Proposition 60,N/A,No,93
+Colusa,500,Proposition 60,N/A,Yes,144
+Colusa,500,Proposition 60,N/A,No,284
+Colusa,505,Proposition 60,N/A,Yes,47
+Colusa,505,Proposition 60,N/A,No,97
+Colusa,512,Proposition 60,N/A,Yes,211
+Colusa,512,Proposition 60,N/A,No,209
+Colusa,513,Proposition 60,N/A,Yes,156
+Colusa,513,Proposition 60,N/A,No,276
+Colusa,105,Proposition 61,N/A,Yes,218
+Colusa,105,Proposition 61,N/A,No,458
+Colusa,106,Proposition 61,N/A,Yes,304
+Colusa,106,Proposition 61,N/A,No,439
+Colusa,202,Proposition 61,N/A,Yes,51
+Colusa,202,Proposition 61,N/A,No,122
+Colusa,203,Proposition 61,N/A,Yes,42
+Colusa,203,Proposition 61,N/A,No,104
+Colusa,213,Proposition 61,N/A,Yes,178
+Colusa,213,Proposition 61,N/A,No,361
+Colusa,214,Proposition 61,N/A,Yes,177
+Colusa,214,Proposition 61,N/A,No,387
+Colusa,301,Proposition 61,N/A,Yes,73
+Colusa,301,Proposition 61,N/A,No,239
+Colusa,323,Proposition 61,N/A,Yes,139
+Colusa,323,Proposition 61,N/A,No,227
+Colusa,324,Proposition 61,N/A,Yes,176
+Colusa,324,Proposition 61,N/A,No,229
+Colusa,401,Proposition 61,N/A,Yes,143
+Colusa,401,Proposition 61,N/A,No,399
+Colusa,405C,Proposition 61,N/A,Yes,69
+Colusa,405C,Proposition 61,N/A,No,155
+Colusa,407,Proposition 61,N/A,Yes,19
+Colusa,407,Proposition 61,N/A,No,40
+Colusa,427,Proposition 61,N/A,Yes,104
+Colusa,427,Proposition 61,N/A,No,135
+Colusa,500,Proposition 61,N/A,Yes,125
+Colusa,500,Proposition 61,N/A,No,316
+Colusa,505,Proposition 61,N/A,Yes,44
+Colusa,505,Proposition 61,N/A,No,106
+Colusa,512,Proposition 61,N/A,Yes,139
+Colusa,512,Proposition 61,N/A,No,285
+Colusa,513,Proposition 61,N/A,Yes,140
+Colusa,513,Proposition 61,N/A,No,314
+Colusa,105,Proposition 62,N/A,Yes,170
+Colusa,105,Proposition 62,N/A,No,503
+Colusa,106,Proposition 62,N/A,Yes,255
+Colusa,106,Proposition 62,N/A,No,495
+Colusa,202,Proposition 62,N/A,Yes,41
+Colusa,202,Proposition 62,N/A,No,133
+Colusa,203,Proposition 62,N/A,Yes,57
+Colusa,203,Proposition 62,N/A,No,92
+Colusa,213,Proposition 62,N/A,Yes,186
+Colusa,213,Proposition 62,N/A,No,348
+Colusa,214,Proposition 62,N/A,Yes,154
+Colusa,214,Proposition 62,N/A,No,417
+Colusa,301,Proposition 62,N/A,Yes,61
+Colusa,301,Proposition 62,N/A,No,251
+Colusa,323,Proposition 62,N/A,Yes,149
+Colusa,323,Proposition 62,N/A,No,206
+Colusa,324,Proposition 62,N/A,Yes,166
+Colusa,324,Proposition 62,N/A,No,241
+Colusa,401,Proposition 62,N/A,Yes,115
+Colusa,401,Proposition 62,N/A,No,431
+Colusa,405C,Proposition 62,N/A,Yes,53
+Colusa,405C,Proposition 62,N/A,No,180
+Colusa,407,Proposition 62,N/A,Yes,17
+Colusa,407,Proposition 62,N/A,No,41
+Colusa,427,Proposition 62,N/A,Yes,128
+Colusa,427,Proposition 62,N/A,No,109
+Colusa,500,Proposition 62,N/A,Yes,107
+Colusa,500,Proposition 62,N/A,No,333
+Colusa,505,Proposition 62,N/A,Yes,32
+Colusa,505,Proposition 62,N/A,No,118
+Colusa,512,Proposition 62,N/A,Yes,122
+Colusa,512,Proposition 62,N/A,No,310
+Colusa,513,Proposition 62,N/A,Yes,120
+Colusa,513,Proposition 62,N/A,No,336
+Colusa,105,Proposition 63,N/A,Yes,227
+Colusa,105,Proposition 63,N/A,No,459
+Colusa,106,Proposition 63,N/A,Yes,327
+Colusa,106,Proposition 63,N/A,No,434
+Colusa,202,Proposition 63,N/A,Yes,41
+Colusa,202,Proposition 63,N/A,No,136
+Colusa,203,Proposition 63,N/A,Yes,54
+Colusa,203,Proposition 63,N/A,No,96
+Colusa,213,Proposition 63,N/A,Yes,271
+Colusa,213,Proposition 63,N/A,No,272
+Colusa,214,Proposition 63,N/A,Yes,191
+Colusa,214,Proposition 63,N/A,No,391
+Colusa,301,Proposition 63,N/A,Yes,68
+Colusa,301,Proposition 63,N/A,No,246
+Colusa,323,Proposition 63,N/A,Yes,183
+Colusa,323,Proposition 63,N/A,No,176
+Colusa,324,Proposition 63,N/A,Yes,220
+Colusa,324,Proposition 63,N/A,No,193
+Colusa,401,Proposition 63,N/A,Yes,111
+Colusa,401,Proposition 63,N/A,No,435
+Colusa,405C,Proposition 63,N/A,Yes,66
+Colusa,405C,Proposition 63,N/A,No,169
+Colusa,407,Proposition 63,N/A,Yes,21
+Colusa,407,Proposition 63,N/A,No,38
+Colusa,427,Proposition 63,N/A,Yes,152
+Colusa,427,Proposition 63,N/A,No,90
+Colusa,500,Proposition 63,N/A,Yes,112
+Colusa,500,Proposition 63,N/A,No,330
+Colusa,505,Proposition 63,N/A,Yes,23
+Colusa,505,Proposition 63,N/A,No,134
+Colusa,512,Proposition 63,N/A,Yes,185
+Colusa,512,Proposition 63,N/A,No,249
+Colusa,513,Proposition 63,N/A,Yes,168
+Colusa,513,Proposition 63,N/A,No,292
+Colusa,105,Proposition 64,N/A,Yes,271
+Colusa,105,Proposition 64,N/A,No,421
+Colusa,106,Proposition 64,N/A,Yes,356
+Colusa,106,Proposition 64,N/A,No,401
+Colusa,202,Proposition 64,N/A,Yes,81
+Colusa,202,Proposition 64,N/A,No,95
+Colusa,203,Proposition 64,N/A,Yes,51
+Colusa,203,Proposition 64,N/A,No,99
+Colusa,213,Proposition 64,N/A,Yes,228
+Colusa,213,Proposition 64,N/A,No,305
+Colusa,214,Proposition 64,N/A,Yes,263
+Colusa,214,Proposition 64,N/A,No,310
+Colusa,301,Proposition 64,N/A,Yes,124
+Colusa,301,Proposition 64,N/A,No,194
+Colusa,323,Proposition 64,N/A,Yes,164
+Colusa,323,Proposition 64,N/A,No,200
+Colusa,324,Proposition 64,N/A,Yes,196
+Colusa,324,Proposition 64,N/A,No,218
+Colusa,401,Proposition 64,N/A,Yes,214
+Colusa,401,Proposition 64,N/A,No,326
+Colusa,405C,Proposition 64,N/A,Yes,112
+Colusa,405C,Proposition 64,N/A,No,118
+Colusa,407,Proposition 64,N/A,Yes,17
+Colusa,407,Proposition 64,N/A,No,43
+Colusa,427,Proposition 64,N/A,Yes,115
+Colusa,427,Proposition 64,N/A,No,126
+Colusa,500,Proposition 64,N/A,Yes,179
+Colusa,500,Proposition 64,N/A,No,264
+Colusa,505,Proposition 64,N/A,Yes,51
+Colusa,505,Proposition 64,N/A,No,103
+Colusa,512,Proposition 64,N/A,Yes,233
+Colusa,512,Proposition 64,N/A,No,197
+Colusa,513,Proposition 64,N/A,Yes,203
+Colusa,513,Proposition 64,N/A,No,255
+Colusa,105,Proposition 65,N/A,Yes,246
+Colusa,105,Proposition 65,N/A,No,429
+Colusa,106,Proposition 65,N/A,Yes,315
+Colusa,106,Proposition 65,N/A,No,430
+Colusa,202,Proposition 65,N/A,Yes,46
+Colusa,202,Proposition 65,N/A,No,125
+Colusa,203,Proposition 65,N/A,Yes,43
+Colusa,203,Proposition 65,N/A,No,106
+Colusa,213,Proposition 65,N/A,Yes,207
+Colusa,213,Proposition 65,N/A,No,314
+Colusa,214,Proposition 65,N/A,Yes,161
+Colusa,214,Proposition 65,N/A,No,400
+Colusa,301,Proposition 65,N/A,Yes,85
+Colusa,301,Proposition 65,N/A,No,228
+Colusa,323,Proposition 65,N/A,Yes,167
+Colusa,323,Proposition 65,N/A,No,189
+Colusa,324,Proposition 65,N/A,Yes,163
+Colusa,324,Proposition 65,N/A,No,240
+Colusa,401,Proposition 65,N/A,Yes,130
+Colusa,401,Proposition 65,N/A,No,394
+Colusa,405C,Proposition 65,N/A,Yes,65
+Colusa,405C,Proposition 65,N/A,No,161
+Colusa,407,Proposition 65,N/A,Yes,17
+Colusa,407,Proposition 65,N/A,No,42
+Colusa,427,Proposition 65,N/A,Yes,104
+Colusa,427,Proposition 65,N/A,No,134
+Colusa,500,Proposition 65,N/A,Yes,117
+Colusa,500,Proposition 65,N/A,No,314
+Colusa,505,Proposition 65,N/A,Yes,48
+Colusa,505,Proposition 65,N/A,No,105
+Colusa,512,Proposition 65,N/A,Yes,142
+Colusa,512,Proposition 65,N/A,No,277
+Colusa,513,Proposition 65,N/A,Yes,123
+Colusa,513,Proposition 65,N/A,No,326
+Colusa,105,Proposition 66,N/A,Yes,364
+Colusa,105,Proposition 66,N/A,No,295
+Colusa,106,Proposition 66,N/A,Yes,409
+Colusa,106,Proposition 66,N/A,No,324
+Colusa,202,Proposition 66,N/A,Yes,108
+Colusa,202,Proposition 66,N/A,No,62
+Colusa,203,Proposition 66,N/A,Yes,74
+Colusa,203,Proposition 66,N/A,No,64
+Colusa,213,Proposition 66,N/A,Yes,257
+Colusa,213,Proposition 66,N/A,No,253
+Colusa,214,Proposition 66,N/A,Yes,304
+Colusa,214,Proposition 66,N/A,No,245
+Colusa,301,Proposition 66,N/A,Yes,193
+Colusa,301,Proposition 66,N/A,No,110
+Colusa,323,Proposition 66,N/A,Yes,209
+Colusa,323,Proposition 66,N/A,No,142
+Colusa,324,Proposition 66,N/A,Yes,202
+Colusa,324,Proposition 66,N/A,No,195
+Colusa,401,Proposition 66,N/A,Yes,286
+Colusa,401,Proposition 66,N/A,No,228
+Colusa,405C,Proposition 66,N/A,Yes,99
+Colusa,405C,Proposition 66,N/A,No,113
+Colusa,407,Proposition 66,N/A,Yes,37
+Colusa,407,Proposition 66,N/A,No,21
+Colusa,427,Proposition 66,N/A,Yes,92
+Colusa,427,Proposition 66,N/A,No,142
+Colusa,500,Proposition 66,N/A,Yes,232
+Colusa,500,Proposition 66,N/A,No,198
+Colusa,505,Proposition 66,N/A,Yes,82
+Colusa,505,Proposition 66,N/A,No,61
+Colusa,512,Proposition 66,N/A,Yes,223
+Colusa,512,Proposition 66,N/A,No,189
+Colusa,513,Proposition 66,N/A,Yes,238
+Colusa,513,Proposition 66,N/A,No,192
+Colusa,105,Proposition 67,N/A,Yes,233
+Colusa,105,Proposition 67,N/A,No,441
+Colusa,106,Proposition 67,N/A,Yes,281
+Colusa,106,Proposition 67,N/A,No,465
+Colusa,202,Proposition 67,N/A,Yes,58
+Colusa,202,Proposition 67,N/A,No,116
+Colusa,203,Proposition 67,N/A,Yes,42
+Colusa,203,Proposition 67,N/A,No,106
+Colusa,213,Proposition 67,N/A,Yes,210
+Colusa,213,Proposition 67,N/A,No,317
+Colusa,214,Proposition 67,N/A,Yes,177
+Colusa,214,Proposition 67,N/A,No,383
+Colusa,301,Proposition 67,N/A,Yes,79
+Colusa,301,Proposition 67,N/A,No,231
+Colusa,323,Proposition 67,N/A,Yes,139
+Colusa,323,Proposition 67,N/A,No,213
+Colusa,324,Proposition 67,N/A,Yes,169
+Colusa,324,Proposition 67,N/A,No,237
+Colusa,401,Proposition 67,N/A,Yes,137
+Colusa,401,Proposition 67,N/A,No,402
+Colusa,405C,Proposition 67,N/A,Yes,67
+Colusa,405C,Proposition 67,N/A,No,161
+Colusa,407,Proposition 67,N/A,Yes,19
+Colusa,407,Proposition 67,N/A,No,41
+Colusa,427,Proposition 67,N/A,Yes,108
+Colusa,427,Proposition 67,N/A,No,128
+Colusa,500,Proposition 67,N/A,Yes,119
+Colusa,500,Proposition 67,N/A,No,320
+Colusa,505,Proposition 67,N/A,Yes,34
+Colusa,505,Proposition 67,N/A,No,116
+Colusa,512,Proposition 67,N/A,Yes,154
+Colusa,512,Proposition 67,N/A,No,271
+Colusa,513,Proposition 67,N/A,Yes,163
+Colusa,513,Proposition 67,N/A,No,283
+Colusa,105,U.S. Senate,DEM,Kamala Harris,289
+Colusa,105,U.S. Senate,DEM,Loretta Sanchez,243
+Colusa,106,U.S. Senate,DEM,Kamala Harris,289
+Colusa,106,U.S. Senate,DEM,Loretta Sanchez,324
+Colusa,202,U.S. Senate,DEM,Kamala Harris,76
+Colusa,202,U.S. Senate,DEM,Loretta Sanchez,53
+Colusa,203,U.S. Senate,DEM,Kamala Harris,55
+Colusa,203,U.S. Senate,DEM,Loretta Sanchez,74
+Colusa,213,U.S. Senate,DEM,Kamala Harris,226
+Colusa,213,U.S. Senate,DEM,Loretta Sanchez,225
+Colusa,214,U.S. Senate,DEM,Kamala Harris,248
+Colusa,214,U.S. Senate,DEM,Loretta Sanchez,183
+Colusa,301,U.S. Senate,DEM,Kamala Harris,125
+Colusa,301,U.S. Senate,DEM,Loretta Sanchez,91
+Colusa,323,U.S. Senate,DEM,Kamala Harris,121
+Colusa,323,U.S. Senate,DEM,Loretta Sanchez,181
+Colusa,324,U.S. Senate,DEM,Kamala Harris,165
+Colusa,324,U.S. Senate,DEM,Loretta Sanchez,194
+Colusa,401,U.S. Senate,DEM,Kamala Harris,201
+Colusa,401,U.S. Senate,DEM,Loretta Sanchez,183
+Colusa,405C,U.S. Senate,DEM,Kamala Harris,106
+Colusa,405C,U.S. Senate,DEM,Loretta Sanchez,73
+Colusa,407,U.S. Senate,DEM,Kamala Harris,28
+Colusa,407,U.S. Senate,DEM,Loretta Sanchez,17
+Colusa,427,U.S. Senate,DEM,Kamala Harris,77
+Colusa,427,U.S. Senate,DEM,Loretta Sanchez,152
+Colusa,500,U.S. Senate,DEM,Kamala Harris,194
+Colusa,500,U.S. Senate,DEM,Loretta Sanchez,151
+Colusa,505,U.S. Senate,DEM,Kamala Harris,46
+Colusa,505,U.S. Senate,DEM,Loretta Sanchez,44
+Colusa,512,U.S. Senate,DEM,Kamala Harris,189
+Colusa,512,U.S. Senate,DEM,Loretta Sanchez,169
+Colusa,513,U.S. Senate,DEM,Kamala Harris,204
+Colusa,513,U.S. Senate,DEM,Loretta Sanchez,145
