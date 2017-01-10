@@ -1,0 +1,3445 @@
+county,precinct,race,party,candidate,votes
+Nevada,CP01,President,DEM,Hillary Clinton,642
+Nevada,CP01,President,REP/AI,Donald J. Trump,717
+Nevada,CP01,President,LIB,Gary Johnson,66
+Nevada,CP01,President,GRN,Jill Stein,50
+Nevada,CP01,President,PF,Gloria Estela La Riva,3
+Nevada,CP01,President,WI,Write-In,26
+Nevada,CP02,President,DEM,Hillary Clinton,284
+Nevada,CP02,President,REP/AI,Donald J. Trump,337
+Nevada,CP02,President,LIB,Gary Johnson,29
+Nevada,CP02,President,GRN,Jill Stein,39
+Nevada,CP02,President,PF,Gloria Estela La Riva,0
+Nevada,CP02,President,WI,Write-In,14
+Nevada,CP03,President,DEM,Hillary Clinton,296
+Nevada,CP03,President,REP/AI,Donald J. Trump,223
+Nevada,CP03,President,LIB,Gary Johnson,34
+Nevada,CP03,President,GRN,Jill Stein,35
+Nevada,CP03,President,PF,Gloria Estela La Riva,0
+Nevada,CP03,President,WI,Write-In,8
+Nevada,CP04,President,DEM,Hillary Clinton,709
+Nevada,CP04,President,REP/AI,Donald J. Trump,377
+Nevada,CP04,President,LIB,Gary Johnson,46
+Nevada,CP04,President,GRN,Jill Stein,83
+Nevada,CP04,President,PF,Gloria Estela La Riva,2
+Nevada,CP04,President,WI,Write-In,23
+Nevada,CP05,President,DEM,Hillary Clinton,335
+Nevada,CP05,President,REP/AI,Donald J. Trump,294
+Nevada,CP05,President,LIB,Gary Johnson,19
+Nevada,CP05,President,GRN,Jill Stein,48
+Nevada,CP05,President,PF,Gloria Estela La Riva,2
+Nevada,CP05,President,WI,Write-In,9
+Nevada,CP06,President,DEM,Hillary Clinton,774
+Nevada,CP06,President,REP/AI,Donald J. Trump,368
+Nevada,CP06,President,LIB,Gary Johnson,46
+Nevada,CP06,President,GRN,Jill Stein,109
+Nevada,CP06,President,PF,Gloria Estela La Riva,3
+Nevada,CP06,President,WI,Write-In,21
+Nevada,CP07,President,DEM,Hillary Clinton,1176
+Nevada,CP07,President,REP/AI,Donald J. Trump,887
+Nevada,CP07,President,LIB,Gary Johnson,90
+Nevada,CP07,President,GRN,Jill Stein,87
+Nevada,CP07,President,PF,Gloria Estela La Riva,2
+Nevada,CP07,President,WI,Write-In,28
+Nevada,CP08,President,DEM,Hillary Clinton,309
+Nevada,CP08,President,REP/AI,Donald J. Trump,387
+Nevada,CP08,President,LIB,Gary Johnson,31
+Nevada,CP08,President,GRN,Jill Stein,16
+Nevada,CP08,President,PF,Gloria Estela La Riva,2
+Nevada,CP08,President,WI,Write-In,10
+Nevada,CP09,President,DEM,Hillary Clinton,1078
+Nevada,CP09,President,REP/AI,Donald J. Trump,329
+Nevada,CP09,President,LIB,Gary Johnson,50
+Nevada,CP09,President,GRN,Jill Stein,123
+Nevada,CP09,President,PF,Gloria Estela La Riva,2
+Nevada,CP09,President,WI,Write-In,40
+Nevada,CP10,President,DEM,Hillary Clinton,256
+Nevada,CP10,President,REP/AI,Donald J. Trump,202
+Nevada,CP10,President,LIB,Gary Johnson,24
+Nevada,CP10,President,GRN,Jill Stein,22
+Nevada,CP10,President,PF,Gloria Estela La Riva,1
+Nevada,CP10,President,WI,Write-In,13
+Nevada,CP11,President,DEM,Hillary Clinton,499
+Nevada,CP11,President,REP/AI,Donald J. Trump,519
+Nevada,CP11,President,LIB,Gary Johnson,47
+Nevada,CP11,President,GRN,Jill Stein,46
+Nevada,CP11,President,PF,Gloria Estela La Riva,2
+Nevada,CP11,President,WI,Write-In,18
+Nevada,CP12,President,DEM,Hillary Clinton,340
+Nevada,CP12,President,REP/AI,Donald J. Trump,739
+Nevada,CP12,President,LIB,Gary Johnson,43
+Nevada,CP12,President,GRN,Jill Stein,18
+Nevada,CP12,President,PF,Gloria Estela La Riva,2
+Nevada,CP12,President,WI,Write-In,15
+Nevada,CP13,President,DEM,Hillary Clinton,875
+Nevada,CP13,President,REP/AI,Donald J. Trump,1409
+Nevada,CP13,President,LIB,Gary Johnson,116
+Nevada,CP13,President,GRN,Jill Stein,19
+Nevada,CP13,President,PF,Gloria Estela La Riva,0
+Nevada,CP13,President,WI,Write-In,19
+Nevada,CP14,President,DEM,Hillary Clinton,133
+Nevada,CP14,President,REP/AI,Donald J. Trump,204
+Nevada,CP14,President,LIB,Gary Johnson,24
+Nevada,CP14,President,GRN,Jill Stein,18
+Nevada,CP14,President,PF,Gloria Estela La Riva,0
+Nevada,CP14,President,WI,Write-In,10
+Nevada,CP15,President,DEM,Hillary Clinton,398
+Nevada,CP15,President,REP/AI,Donald J. Trump,679
+Nevada,CP15,President,LIB,Gary Johnson,53
+Nevada,CP15,President,GRN,Jill Stein,25
+Nevada,CP15,President,PF,Gloria Estela La Riva,4
+Nevada,CP15,President,WI,Write-In,18
+Nevada,CP16,President,DEM,Hillary Clinton,27
+Nevada,CP16,President,REP/AI,Donald J. Trump,91
+Nevada,CP16,President,LIB,Gary Johnson,4
+Nevada,CP16,President,GRN,Jill Stein,8
+Nevada,CP16,President,PF,Gloria Estela La Riva,0
+Nevada,CP16,President,WI,Write-In,4
+Nevada,CP17,President,DEM,Hillary Clinton,645
+Nevada,CP17,President,REP/AI,Donald J. Trump,904
+Nevada,CP17,President,LIB,Gary Johnson,93
+Nevada,CP17,President,GRN,Jill Stein,34
+Nevada,CP17,President,PF,Gloria Estela La Riva,2
+Nevada,CP17,President,WI,Write-In,18
+Nevada,CP18,President,DEM,Hillary Clinton,523
+Nevada,CP18,President,REP/AI,Donald J. Trump,640
+Nevada,CP18,President,LIB,Gary Johnson,47
+Nevada,CP18,President,GRN,Jill Stein,18
+Nevada,CP18,President,PF,Gloria Estela La Riva,1
+Nevada,CP18,President,WI,Write-In,16
+Nevada,CP19,President,DEM,Hillary Clinton,560
+Nevada,CP19,President,REP/AI,Donald J. Trump,715
+Nevada,CP19,President,LIB,Gary Johnson,60
+Nevada,CP19,President,GRN,Jill Stein,33
+Nevada,CP19,President,PF,Gloria Estela La Riva,3
+Nevada,CP19,President,WI,Write-In,18
+Nevada,CP20,President,DEM,Hillary Clinton,90
+Nevada,CP20,President,REP/AI,Donald J. Trump,230
+Nevada,CP20,President,LIB,Gary Johnson,19
+Nevada,CP20,President,GRN,Jill Stein,14
+Nevada,CP20,President,PF,Gloria Estela La Riva,0
+Nevada,CP20,President,WI,Write-In,13
+Nevada,CP21,President,DEM,Hillary Clinton,164
+Nevada,CP21,President,REP/AI,Donald J. Trump,248
+Nevada,CP21,President,LIB,Gary Johnson,12
+Nevada,CP21,President,GRN,Jill Stein,13
+Nevada,CP21,President,PF,Gloria Estela La Riva,0
+Nevada,CP21,President,WI,Write-In,2
+Nevada,CP22,President,DEM,Hillary Clinton,79
+Nevada,CP22,President,REP/AI,Donald J. Trump,121
+Nevada,CP22,President,LIB,Gary Johnson,9
+Nevada,CP22,President,GRN,Jill Stein,7
+Nevada,CP22,President,PF,Gloria Estela La Riva,0
+Nevada,CP22,President,WI,Write-In,4
+Nevada,CP23,President,DEM,Hillary Clinton,319
+Nevada,CP23,President,REP/AI,Donald J. Trump,245
+Nevada,CP23,President,LIB,Gary Johnson,21
+Nevada,CP23,President,GRN,Jill Stein,10
+Nevada,CP23,President,PF,Gloria Estela La Riva,1
+Nevada,CP23,President,WI,Write-In,5
+Nevada,CP24,President,DEM,Hillary Clinton,593
+Nevada,CP24,President,REP/AI,Donald J. Trump,542
+Nevada,CP24,President,LIB,Gary Johnson,61
+Nevada,CP24,President,GRN,Jill Stein,70
+Nevada,CP24,President,PF,Gloria Estela La Riva,3
+Nevada,CP24,President,WI,Write-In,21
+Nevada,CP25,President,DEM,Hillary Clinton,644
+Nevada,CP25,President,REP/AI,Donald J. Trump,367
+Nevada,CP25,President,LIB,Gary Johnson,62
+Nevada,CP25,President,GRN,Jill Stein,59
+Nevada,CP25,President,PF,Gloria Estela La Riva,6
+Nevada,CP25,President,WI,Write-In,26
+Nevada,CP26,President,DEM,Hillary Clinton,774
+Nevada,CP26,President,REP/AI,Donald J. Trump,594
+Nevada,CP26,President,LIB,Gary Johnson,74
+Nevada,CP26,President,GRN,Jill Stein,68
+Nevada,CP26,President,PF,Gloria Estela La Riva,2
+Nevada,CP26,President,WI,Write-In,38
+Nevada,CP27,President,DEM,Hillary Clinton,440
+Nevada,CP27,President,REP/AI,Donald J. Trump,407
+Nevada,CP27,President,LIB,Gary Johnson,40
+Nevada,CP27,President,GRN,Jill Stein,54
+Nevada,CP27,President,PF,Gloria Estela La Riva,4
+Nevada,CP27,President,WI,Write-In,17
+Nevada,CP28,President,DEM,Hillary Clinton,960
+Nevada,CP28,President,REP/AI,Donald J. Trump,394
+Nevada,CP28,President,LIB,Gary Johnson,84
+Nevada,CP28,President,GRN,Jill Stein,37
+Nevada,CP28,President,PF,Gloria Estela La Riva,2
+Nevada,CP28,President,WI,Write-In,19
+Nevada,CP29,President,DEM,Hillary Clinton,563
+Nevada,CP29,President,REP/AI,Donald J. Trump,652
+Nevada,CP29,President,LIB,Gary Johnson,67
+Nevada,CP29,President,GRN,Jill Stein,60
+Nevada,CP29,President,PF,Gloria Estela La Riva,1
+Nevada,CP29,President,WI,Write-In,21
+Nevada,CP30,President,DEM,Hillary Clinton,345
+Nevada,CP30,President,REP/AI,Donald J. Trump,354
+Nevada,CP30,President,LIB,Gary Johnson,36
+Nevada,CP30,President,GRN,Jill Stein,34
+Nevada,CP30,President,PF,Gloria Estela La Riva,1
+Nevada,CP30,President,WI,Write-In,9
+Nevada,CP31,President,DEM,Hillary Clinton,798
+Nevada,CP31,President,REP/AI,Donald J. Trump,969
+Nevada,CP31,President,LIB,Gary Johnson,90
+Nevada,CP31,President,GRN,Jill Stein,37
+Nevada,CP31,President,PF,Gloria Estela La Riva,1
+Nevada,CP31,President,WI,Write-In,30
+Nevada,CP32,President,DEM,Hillary Clinton,551
+Nevada,CP32,President,REP/AI,Donald J. Trump,707
+Nevada,CP32,President,LIB,Gary Johnson,45
+Nevada,CP32,President,GRN,Jill Stein,11
+Nevada,CP32,President,PF,Gloria Estela La Riva,1
+Nevada,CP32,President,WI,Write-In,12
+Nevada,CP33,President,DEM,Hillary Clinton,75
+Nevada,CP33,President,REP/AI,Donald J. Trump,43
+Nevada,CP33,President,LIB,Gary Johnson,5
+Nevada,CP33,President,GRN,Jill Stein,11
+Nevada,CP33,President,PF,Gloria Estela La Riva,0
+Nevada,CP33,President,WI,Write-In,8
+Nevada,CP34,President,DEM,Hillary Clinton,186
+Nevada,CP34,President,REP/AI,Donald J. Trump,170
+Nevada,CP34,President,LIB,Gary Johnson,9
+Nevada,CP34,President,GRN,Jill Stein,24
+Nevada,CP34,President,PF,Gloria Estela La Riva,0
+Nevada,CP34,President,WI,Write-In,12
+Nevada,CP35,President,DEM,Hillary Clinton,367
+Nevada,CP35,President,REP/AI,Donald J. Trump,450
+Nevada,CP35,President,LIB,Gary Johnson,46
+Nevada,CP35,President,GRN,Jill Stein,32
+Nevada,CP35,President,PF,Gloria Estela La Riva,2
+Nevada,CP35,President,WI,Write-In,16
+Nevada,CP36,President,DEM,Hillary Clinton,176
+Nevada,CP36,President,REP/AI,Donald J. Trump,198
+Nevada,CP36,President,LIB,Gary Johnson,14
+Nevada,CP36,President,GRN,Jill Stein,17
+Nevada,CP36,President,PF,Gloria Estela La Riva,1
+Nevada,CP36,President,WI,Write-In,9
+Nevada,CP37,President,DEM,Hillary Clinton,697
+Nevada,CP37,President,REP/AI,Donald J. Trump,1186
+Nevada,CP37,President,LIB,Gary Johnson,83
+Nevada,CP37,President,GRN,Jill Stein,55
+Nevada,CP37,President,PF,Gloria Estela La Riva,4
+Nevada,CP37,President,WI,Write-In,27
+Nevada,CP38,President,DEM,Hillary Clinton,203
+Nevada,CP38,President,REP/AI,Donald J. Trump,265
+Nevada,CP38,President,LIB,Gary Johnson,21
+Nevada,CP38,President,GRN,Jill Stein,34
+Nevada,CP38,President,PF,Gloria Estela La Riva,0
+Nevada,CP38,President,WI,Write-In,15
+Nevada,CP39,President,DEM,Hillary Clinton,254
+Nevada,CP39,President,REP/AI,Donald J. Trump,321
+Nevada,CP39,President,LIB,Gary Johnson,17
+Nevada,CP39,President,GRN,Jill Stein,25
+Nevada,CP39,President,PF,Gloria Estela La Riva,1
+Nevada,CP39,President,WI,Write-In,12
+Nevada,CP40,President,DEM,Hillary Clinton,471
+Nevada,CP40,President,REP/AI,Donald J. Trump,206
+Nevada,CP40,President,LIB,Gary Johnson,49
+Nevada,CP40,President,GRN,Jill Stein,15
+Nevada,CP40,President,PF,Gloria Estela La Riva,0
+Nevada,CP40,President,WI,Write-In,6
+Nevada,CP41,President,DEM,Hillary Clinton,364
+Nevada,CP41,President,REP/AI,Donald J. Trump,145
+Nevada,CP41,President,LIB,Gary Johnson,13
+Nevada,CP41,President,GRN,Jill Stein,108
+Nevada,CP41,President,PF,Gloria Estela La Riva,2
+Nevada,CP41,President,WI,Write-In,11
+Nevada,CP42,President,DEM,Hillary Clinton,411
+Nevada,CP42,President,REP/AI,Donald J. Trump,74
+Nevada,CP42,President,LIB,Gary Johnson,21
+Nevada,CP42,President,GRN,Jill Stein,65
+Nevada,CP42,President,PF,Gloria Estela La Riva,1
+Nevada,CP42,President,WI,Write-In,17
+Nevada,CP43,President,DEM,Hillary Clinton,443
+Nevada,CP43,President,REP/AI,Donald J. Trump,165
+Nevada,CP43,President,LIB,Gary Johnson,29
+Nevada,CP43,President,GRN,Jill Stein,35
+Nevada,CP43,President,PF,Gloria Estela La Riva,0
+Nevada,CP43,President,WI,Write-In,11
+Nevada,CP44,President,DEM,Hillary Clinton,410
+Nevada,CP44,President,REP/AI,Donald J. Trump,153
+Nevada,CP44,President,LIB,Gary Johnson,30
+Nevada,CP44,President,GRN,Jill Stein,17
+Nevada,CP44,President,PF,Gloria Estela La Riva,0
+Nevada,CP44,President,WI,Write-In,6
+Nevada,CP45,President,DEM,Hillary Clinton,787
+Nevada,CP45,President,REP/AI,Donald J. Trump,281
+Nevada,CP45,President,LIB,Gary Johnson,40
+Nevada,CP45,President,GRN,Jill Stein,39
+Nevada,CP45,President,PF,Gloria Estela La Riva,1
+Nevada,CP45,President,WI,Write-In,18
+Nevada,CP46,President,DEM,Hillary Clinton,919
+Nevada,CP46,President,REP/AI,Donald J. Trump,348
+Nevada,CP46,President,LIB,Gary Johnson,72
+Nevada,CP46,President,GRN,Jill Stein,46
+Nevada,CP46,President,PF,Gloria Estela La Riva,0
+Nevada,CP46,President,WI,Write-In,18
+Nevada,CP47,President,DEM,Hillary Clinton,1007
+Nevada,CP47,President,REP/AI,Donald J. Trump,365
+Nevada,CP47,President,LIB,Gary Johnson,64
+Nevada,CP47,President,GRN,Jill Stein,36
+Nevada,CP47,President,PF,Gloria Estela La Riva,2
+Nevada,CP47,President,WI,Write-In,20
+Nevada,MB48,President,DEM,Hillary Clinton,2
+Nevada,MB48,President,REP/AI,Donald J. Trump,2
+Nevada,MB48,President,LIB,Gary Johnson,0
+Nevada,MB48,President,GRN,Jill Stein,0
+Nevada,MB48,President,PF,Gloria Estela La Riva,0
+Nevada,MB48,President,WI,Write-In,0
+Nevada,MB49,President,DEM,Hillary Clinton,3
+Nevada,MB49,President,REP/AI,Donald J. Trump,3
+Nevada,MB49,President,LIB,Gary Johnson,0
+Nevada,MB49,President,GRN,Jill Stein,0
+Nevada,MB49,President,PF,Gloria Estela La Riva,0
+Nevada,MB49,President,WI,Write-In,0
+Nevada,MB50,President,DEM,Hillary Clinton,1
+Nevada,MB50,President,REP/AI,Donald J. Trump,3
+Nevada,MB50,President,LIB,Gary Johnson,2
+Nevada,MB50,President,GRN,Jill Stein,0
+Nevada,MB50,President,PF,Gloria Estela La Riva,0
+Nevada,MB50,President,WI,Write-In,0
+Nevada,MB51,President,DEM,Hillary Clinton,0
+Nevada,MB51,President,REP/AI,Donald J. Trump,0
+Nevada,MB51,President,LIB,Gary Johnson,0
+Nevada,MB51,President,GRN,Jill Stein,0
+Nevada,MB51,President,PF,Gloria Estela La Riva,0
+Nevada,MB51,President,WI,Write-In,0
+Nevada,MB52,President,DEM,Hillary Clinton,204
+Nevada,MB52,President,REP/AI,Donald J. Trump,184
+Nevada,MB52,President,LIB,Gary Johnson,14
+Nevada,MB52,President,GRN,Jill Stein,28
+Nevada,MB52,President,PF,Gloria Estela La Riva,0
+Nevada,MB52,President,WI,Write-In,1
+Nevada,MB53,President,DEM,Hillary Clinton,0
+Nevada,MB53,President,REP/AI,Donald J. Trump,0
+Nevada,MB53,President,LIB,Gary Johnson,0
+Nevada,MB53,President,GRN,Jill Stein,0
+Nevada,MB53,President,PF,Gloria Estela La Riva,0
+Nevada,MB53,President,WI,Write-In,0
+Nevada,MB54,President,DEM,Hillary Clinton,84
+Nevada,MB54,President,REP/AI,Donald J. Trump,56
+Nevada,MB54,President,LIB,Gary Johnson,7
+Nevada,MB54,President,GRN,Jill Stein,28
+Nevada,MB54,President,PF,Gloria Estela La Riva,0
+Nevada,MB54,President,WI,Write-In,7
+Nevada,MB55,President,DEM,Hillary Clinton,0
+Nevada,MB55,President,REP/AI,Donald J. Trump,0
+Nevada,MB55,President,LIB,Gary Johnson,0
+Nevada,MB55,President,GRN,Jill Stein,0
+Nevada,MB55,President,PF,Gloria Estela La Riva,0
+Nevada,MB55,President,WI,Write-In,0
+Nevada,MB56,President,DEM,Hillary Clinton,79
+Nevada,MB56,President,REP/AI,Donald J. Trump,56
+Nevada,MB56,President,LIB,Gary Johnson,6
+Nevada,MB56,President,GRN,Jill Stein,18
+Nevada,MB56,President,PF,Gloria Estela La Riva,1
+Nevada,MB56,President,WI,Write-In,9
+Nevada,MB57,President,DEM,Hillary Clinton,376
+Nevada,MB57,President,REP/AI,Donald J. Trump,437
+Nevada,MB57,President,LIB,Gary Johnson,51
+Nevada,MB57,President,GRN,Jill Stein,30
+Nevada,MB57,President,PF,Gloria Estela La Riva,3
+Nevada,MB57,President,WI,Write-In,19
+Nevada,MB58,President,DEM,Hillary Clinton,217
+Nevada,MB58,President,REP/AI,Donald J. Trump,105
+Nevada,MB58,President,LIB,Gary Johnson,6
+Nevada,MB58,President,GRN,Jill Stein,26
+Nevada,MB58,President,PF,Gloria Estela La Riva,0
+Nevada,MB58,President,WI,Write-In,6
+Nevada,MB59,President,DEM,Hillary Clinton,4
+Nevada,MB59,President,REP/AI,Donald J. Trump,2
+Nevada,MB59,President,LIB,Gary Johnson,0
+Nevada,MB59,President,GRN,Jill Stein,3
+Nevada,MB59,President,PF,Gloria Estela La Riva,0
+Nevada,MB59,President,WI,Write-In,0
+Nevada,MB60,President,DEM,Hillary Clinton,76
+Nevada,MB60,President,REP/AI,Donald J. Trump,115
+Nevada,MB60,President,LIB,Gary Johnson,6
+Nevada,MB60,President,GRN,Jill Stein,5
+Nevada,MB60,President,PF,Gloria Estela La Riva,0
+Nevada,MB60,President,WI,Write-In,6
+Nevada,MB61,President,DEM,Hillary Clinton,43
+Nevada,MB61,President,REP/AI,Donald J. Trump,54
+Nevada,MB61,President,LIB,Gary Johnson,6
+Nevada,MB61,President,GRN,Jill Stein,3
+Nevada,MB61,President,PF,Gloria Estela La Riva,1
+Nevada,MB61,President,WI,Write-In,3
+Nevada,MB62,President,DEM,Hillary Clinton,333
+Nevada,MB62,President,REP/AI,Donald J. Trump,309
+Nevada,MB62,President,LIB,Gary Johnson,37
+Nevada,MB62,President,GRN,Jill Stein,13
+Nevada,MB62,President,PF,Gloria Estela La Riva,0
+Nevada,MB62,President,WI,Write-In,11
+Nevada,MB63,President,DEM,Hillary Clinton,28
+Nevada,MB63,President,REP/AI,Donald J. Trump,16
+Nevada,MB63,President,LIB,Gary Johnson,4
+Nevada,MB63,President,GRN,Jill Stein,1
+Nevada,MB63,President,PF,Gloria Estela La Riva,0
+Nevada,MB63,President,WI,Write-In,0
+Nevada,MB64,President,DEM,Hillary Clinton,268
+Nevada,MB64,President,REP/AI,Donald J. Trump,351
+Nevada,MB64,President,LIB,Gary Johnson,28
+Nevada,MB64,President,GRN,Jill Stein,23
+Nevada,MB64,President,PF,Gloria Estela La Riva,4
+Nevada,MB64,President,WI,Write-In,8
+Nevada,MB65,President,DEM,Hillary Clinton,69
+Nevada,MB65,President,REP/AI,Donald J. Trump,37
+Nevada,MB65,President,LIB,Gary Johnson,9
+Nevada,MB65,President,GRN,Jill Stein,6
+Nevada,MB65,President,PF,Gloria Estela La Riva,1
+Nevada,MB65,President,WI,Write-In,1
+Nevada,MB66,President,DEM,Hillary Clinton,74
+Nevada,MB66,President,REP/AI,Donald J. Trump,89
+Nevada,MB66,President,LIB,Gary Johnson,6
+Nevada,MB66,President,GRN,Jill Stein,6
+Nevada,MB66,President,PF,Gloria Estela La Riva,0
+Nevada,MB66,President,WI,Write-In,3
+Nevada,MB67,President,DEM,Hillary Clinton,29
+Nevada,MB67,President,REP/AI,Donald J. Trump,12
+Nevada,MB67,President,LIB,Gary Johnson,3
+Nevada,MB67,President,GRN,Jill Stein,4
+Nevada,MB67,President,PF,Gloria Estela La Riva,2
+Nevada,MB67,President,WI,Write-In,0
+Nevada,MB68,President,DEM,Hillary Clinton,42
+Nevada,MB68,President,REP/AI,Donald J. Trump,32
+Nevada,MB68,President,LIB,Gary Johnson,5
+Nevada,MB68,President,GRN,Jill Stein,5
+Nevada,MB68,President,PF,Gloria Estela La Riva,0
+Nevada,MB68,President,WI,Write-In,2
+Nevada,MB69,President,DEM,Hillary Clinton,69
+Nevada,MB69,President,REP/AI,Donald J. Trump,47
+Nevada,MB69,President,LIB,Gary Johnson,2
+Nevada,MB69,President,GRN,Jill Stein,5
+Nevada,MB69,President,PF,Gloria Estela La Riva,0
+Nevada,MB69,President,WI,Write-In,1
+Nevada,MB70,President,DEM,Hillary Clinton,48
+Nevada,MB70,President,REP/AI,Donald J. Trump,54
+Nevada,MB70,President,LIB,Gary Johnson,8
+Nevada,MB70,President,GRN,Jill Stein,2
+Nevada,MB70,President,PF,Gloria Estela La Riva,0
+Nevada,MB70,President,WI,Write-In,0
+Nevada,MB71,President,DEM,Hillary Clinton,256
+Nevada,MB71,President,REP/AI,Donald J. Trump,243
+Nevada,MB71,President,LIB,Gary Johnson,32
+Nevada,MB71,President,GRN,Jill Stein,33
+Nevada,MB71,President,PF,Gloria Estela La Riva,0
+Nevada,MB71,President,WI,Write-In,13
+Nevada,MB72,President,DEM,Hillary Clinton,43
+Nevada,MB72,President,REP/AI,Donald J. Trump,29
+Nevada,MB72,President,LIB,Gary Johnson,5
+Nevada,MB72,President,GRN,Jill Stein,2
+Nevada,MB72,President,PF,Gloria Estela La Riva,0
+Nevada,MB72,President,WI,Write-In,2
+Nevada,MB73,President,DEM,Hillary Clinton,8
+Nevada,MB73,President,REP/AI,Donald J. Trump,20
+Nevada,MB73,President,LIB,Gary Johnson,0
+Nevada,MB73,President,GRN,Jill Stein,0
+Nevada,MB73,President,PF,Gloria Estela La Riva,0
+Nevada,MB73,President,WI,Write-In,1
+Nevada,MB74,President,DEM,Hillary Clinton,211
+Nevada,MB74,President,REP/AI,Donald J. Trump,324
+Nevada,MB74,President,LIB,Gary Johnson,25
+Nevada,MB74,President,GRN,Jill Stein,12
+Nevada,MB74,President,PF,Gloria Estela La Riva,0
+Nevada,MB74,President,WI,Write-In,6
+Nevada,MB75,President,DEM,Hillary Clinton,123
+Nevada,MB75,President,REP/AI,Donald J. Trump,120
+Nevada,MB75,President,LIB,Gary Johnson,11
+Nevada,MB75,President,GRN,Jill Stein,23
+Nevada,MB75,President,PF,Gloria Estela La Riva,1
+Nevada,MB75,President,WI,Write-In,2
+Nevada,MB76,President,DEM,Hillary Clinton,0
+Nevada,MB76,President,REP/AI,Donald J. Trump,0
+Nevada,MB76,President,LIB,Gary Johnson,0
+Nevada,MB76,President,GRN,Jill Stein,0
+Nevada,MB76,President,PF,Gloria Estela La Riva,0
+Nevada,MB76,President,WI,Write-In,0
+Nevada,MB77,President,DEM,Hillary Clinton,39
+Nevada,MB77,President,REP/AI,Donald J. Trump,45
+Nevada,MB77,President,LIB,Gary Johnson,4
+Nevada,MB77,President,GRN,Jill Stein,5
+Nevada,MB77,President,PF,Gloria Estela La Riva,1
+Nevada,MB77,President,WI,Write-In,1
+Nevada,MB78,President,DEM,Hillary Clinton,223
+Nevada,MB78,President,REP/AI,Donald J. Trump,182
+Nevada,MB78,President,LIB,Gary Johnson,33
+Nevada,MB78,President,GRN,Jill Stein,31
+Nevada,MB78,President,PF,Gloria Estela La Riva,1
+Nevada,MB78,President,WI,Write-In,9
+Nevada,MB79,President,DEM,Hillary Clinton,88
+Nevada,MB79,President,REP/AI,Donald J. Trump,119
+Nevada,MB79,President,LIB,Gary Johnson,7
+Nevada,MB79,President,GRN,Jill Stein,5
+Nevada,MB79,President,PF,Gloria Estela La Riva,2
+Nevada,MB79,President,WI,Write-In,2
+Nevada,MB80,President,DEM,Hillary Clinton,12
+Nevada,MB80,President,REP/AI,Donald J. Trump,21
+Nevada,MB80,President,LIB,Gary Johnson,3
+Nevada,MB80,President,GRN,Jill Stein,1
+Nevada,MB80,President,PF,Gloria Estela La Riva,0
+Nevada,MB80,President,WI,Write-In,1
+Nevada,MB81,President,DEM,Hillary Clinton,43
+Nevada,MB81,President,REP/AI,Donald J. Trump,56
+Nevada,MB81,President,LIB,Gary Johnson,3
+Nevada,MB81,President,GRN,Jill Stein,5
+Nevada,MB81,President,PF,Gloria Estela La Riva,1
+Nevada,MB81,President,WI,Write-In,0
+Nevada,MB82,President,DEM,Hillary Clinton,9
+Nevada,MB82,President,REP/AI,Donald J. Trump,21
+Nevada,MB82,President,LIB,Gary Johnson,0
+Nevada,MB82,President,GRN,Jill Stein,2
+Nevada,MB82,President,PF,Gloria Estela La Riva,0
+Nevada,MB82,President,WI,Write-In,0
+Nevada,CP01,Proposition 51,N/A,Yes,549
+Nevada,CP01,Proposition 51,N/A,No,924
+Nevada,CP02,Proposition 51,N/A,Yes,251
+Nevada,CP02,Proposition 51,N/A,No,438
+Nevada,CP03,Proposition 51,N/A,Yes,328
+Nevada,CP03,Proposition 51,N/A,No,244
+Nevada,CP04,Proposition 51,N/A,Yes,596
+Nevada,CP04,Proposition 51,N/A,No,627
+Nevada,CP05,Proposition 51,N/A,Yes,283
+Nevada,CP05,Proposition 51,N/A,No,415
+Nevada,CP06,Proposition 51,N/A,Yes,681
+Nevada,CP06,Proposition 51,N/A,No,619
+Nevada,CP07,Proposition 51,N/A,Yes,1016
+Nevada,CP07,Proposition 51,N/A,No,1219
+Nevada,CP08,Proposition 51,N/A,Yes,280
+Nevada,CP08,Proposition 51,N/A,No,488
+Nevada,CP09,Proposition 51,N/A,Yes,910
+Nevada,CP09,Proposition 51,N/A,No,657
+Nevada,CP10,Proposition 51,N/A,Yes,229
+Nevada,CP10,Proposition 51,N/A,No,286
+Nevada,CP11,Proposition 51,N/A,Yes,419
+Nevada,CP11,Proposition 51,N/A,No,684
+Nevada,CP12,Proposition 51,N/A,Yes,346
+Nevada,CP12,Proposition 51,N/A,No,802
+Nevada,CP13,Proposition 51,N/A,Yes,761
+Nevada,CP13,Proposition 51,N/A,No,1637
+Nevada,CP14,Proposition 51,N/A,Yes,108
+Nevada,CP14,Proposition 51,N/A,No,274
+Nevada,CP15,Proposition 51,N/A,Yes,373
+Nevada,CP15,Proposition 51,N/A,No,793
+Nevada,CP16,Proposition 51,N/A,Yes,37
+Nevada,CP16,Proposition 51,N/A,No,92
+Nevada,CP17,Proposition 51,N/A,Yes,565
+Nevada,CP17,Proposition 51,N/A,No,1136
+Nevada,CP18,Proposition 51,N/A,Yes,437
+Nevada,CP18,Proposition 51,N/A,No,809
+Nevada,CP19,Proposition 51,N/A,Yes,510
+Nevada,CP19,Proposition 51,N/A,No,846
+Nevada,CP20,Proposition 51,N/A,Yes,107
+Nevada,CP20,Proposition 51,N/A,No,254
+Nevada,CP21,Proposition 51,N/A,Yes,146
+Nevada,CP21,Proposition 51,N/A,No,276
+Nevada,CP22,Proposition 51,N/A,Yes,75
+Nevada,CP22,Proposition 51,N/A,No,153
+Nevada,CP23,Proposition 51,N/A,Yes,239
+Nevada,CP23,Proposition 51,N/A,No,366
+Nevada,CP24,Proposition 51,N/A,Yes,560
+Nevada,CP24,Proposition 51,N/A,No,721
+Nevada,CP25,Proposition 51,N/A,Yes,612
+Nevada,CP25,Proposition 51,N/A,No,496
+Nevada,CP26,Proposition 51,N/A,Yes,731
+Nevada,CP26,Proposition 51,N/A,No,789
+Nevada,CP27,Proposition 51,N/A,Yes,433
+Nevada,CP27,Proposition 51,N/A,No,492
+Nevada,CP28,Proposition 51,N/A,Yes,783
+Nevada,CP28,Proposition 51,N/A,No,671
+Nevada,CP29,Proposition 51,N/A,Yes,494
+Nevada,CP29,Proposition 51,N/A,No,839
+Nevada,CP30,Proposition 51,N/A,Yes,362
+Nevada,CP30,Proposition 51,N/A,No,397
+Nevada,CP31,Proposition 51,N/A,Yes,657
+Nevada,CP31,Proposition 51,N/A,No,1224
+Nevada,CP32,Proposition 51,N/A,Yes,465
+Nevada,CP32,Proposition 51,N/A,No,845
+Nevada,CP33,Proposition 51,N/A,Yes,65
+Nevada,CP33,Proposition 51,N/A,No,73
+Nevada,CP34,Proposition 51,N/A,Yes,166
+Nevada,CP34,Proposition 51,N/A,No,207
+Nevada,CP35,Proposition 51,N/A,Yes,293
+Nevada,CP35,Proposition 51,N/A,No,591
+Nevada,CP36,Proposition 51,N/A,Yes,167
+Nevada,CP36,Proposition 51,N/A,No,238
+Nevada,CP37,Proposition 51,N/A,Yes,670
+Nevada,CP37,Proposition 51,N/A,No,1326
+Nevada,CP38,Proposition 51,N/A,Yes,198
+Nevada,CP38,Proposition 51,N/A,No,328
+Nevada,CP39,Proposition 51,N/A,Yes,237
+Nevada,CP39,Proposition 51,N/A,No,392
+Nevada,CP40,Proposition 51,N/A,Yes,375
+Nevada,CP40,Proposition 51,N/A,No,369
+Nevada,CP41,Proposition 51,N/A,Yes,333
+Nevada,CP41,Proposition 51,N/A,No,266
+Nevada,CP42,Proposition 51,N/A,Yes,311
+Nevada,CP42,Proposition 51,N/A,No,216
+Nevada,CP43,Proposition 51,N/A,Yes,372
+Nevada,CP43,Proposition 51,N/A,No,272
+Nevada,CP44,Proposition 51,N/A,Yes,322
+Nevada,CP44,Proposition 51,N/A,No,281
+Nevada,CP45,Proposition 51,N/A,Yes,620
+Nevada,CP45,Proposition 51,N/A,No,524
+Nevada,CP46,Proposition 51,N/A,Yes,733
+Nevada,CP46,Proposition 51,N/A,No,637
+Nevada,CP47,Proposition 51,N/A,Yes,785
+Nevada,CP47,Proposition 51,N/A,No,685
+Nevada,MB48,Proposition 51,N/A,Yes,2
+Nevada,MB48,Proposition 51,N/A,No,2
+Nevada,MB49,Proposition 51,N/A,Yes,3
+Nevada,MB49,Proposition 51,N/A,No,3
+Nevada,MB50,Proposition 51,N/A,Yes,1
+Nevada,MB50,Proposition 51,N/A,No,5
+Nevada,MB51,Proposition 51,N/A,Yes,0
+Nevada,MB51,Proposition 51,N/A,No,0
+Nevada,MB52,Proposition 51,N/A,Yes,179
+Nevada,MB52,Proposition 51,N/A,No,238
+Nevada,MB53,Proposition 51,N/A,Yes,0
+Nevada,MB53,Proposition 51,N/A,No,0
+Nevada,MB54,Proposition 51,N/A,Yes,84
+Nevada,MB54,Proposition 51,N/A,No,91
+Nevada,MB55,Proposition 51,N/A,Yes,0
+Nevada,MB55,Proposition 51,N/A,No,0
+Nevada,MB56,Proposition 51,N/A,Yes,77
+Nevada,MB56,Proposition 51,N/A,No,89
+Nevada,MB57,Proposition 51,N/A,Yes,323
+Nevada,MB57,Proposition 51,N/A,No,563
+Nevada,MB58,Proposition 51,N/A,Yes,183
+Nevada,MB58,Proposition 51,N/A,No,164
+Nevada,MB59,Proposition 51,N/A,Yes,3
+Nevada,MB59,Proposition 51,N/A,No,5
+Nevada,MB60,Proposition 51,N/A,Yes,77
+Nevada,MB60,Proposition 51,N/A,No,131
+Nevada,MB61,Proposition 51,N/A,Yes,35
+Nevada,MB61,Proposition 51,N/A,No,75
+Nevada,MB62,Proposition 51,N/A,Yes,279
+Nevada,MB62,Proposition 51,N/A,No,425
+Nevada,MB63,Proposition 51,N/A,Yes,17
+Nevada,MB63,Proposition 51,N/A,No,30
+Nevada,MB64,Proposition 51,N/A,Yes,247
+Nevada,MB64,Proposition 51,N/A,No,428
+Nevada,MB65,Proposition 51,N/A,Yes,54
+Nevada,MB65,Proposition 51,N/A,No,67
+Nevada,MB66,Proposition 51,N/A,Yes,74
+Nevada,MB66,Proposition 51,N/A,No,102
+Nevada,MB67,Proposition 51,N/A,Yes,23
+Nevada,MB67,Proposition 51,N/A,No,23
+Nevada,MB68,Proposition 51,N/A,Yes,33
+Nevada,MB68,Proposition 51,N/A,No,50
+Nevada,MB69,Proposition 51,N/A,Yes,54
+Nevada,MB69,Proposition 51,N/A,No,70
+Nevada,MB70,Proposition 51,N/A,Yes,32
+Nevada,MB70,Proposition 51,N/A,No,79
+Nevada,MB71,Proposition 51,N/A,Yes,222
+Nevada,MB71,Proposition 51,N/A,No,347
+Nevada,MB72,Proposition 51,N/A,Yes,44
+Nevada,MB72,Proposition 51,N/A,No,38
+Nevada,MB73,Proposition 51,N/A,Yes,11
+Nevada,MB73,Proposition 51,N/A,No,18
+Nevada,MB74,Proposition 51,N/A,Yes,168
+Nevada,MB74,Proposition 51,N/A,No,395
+Nevada,MB75,Proposition 51,N/A,Yes,104
+Nevada,MB75,Proposition 51,N/A,No,180
+Nevada,MB76,Proposition 51,N/A,Yes,0
+Nevada,MB76,Proposition 51,N/A,No,0
+Nevada,MB77,Proposition 51,N/A,Yes,32
+Nevada,MB77,Proposition 51,N/A,No,58
+Nevada,MB78,Proposition 51,N/A,Yes,210
+Nevada,MB78,Proposition 51,N/A,No,262
+Nevada,MB79,Proposition 51,N/A,Yes,60
+Nevada,MB79,Proposition 51,N/A,No,155
+Nevada,MB80,Proposition 51,N/A,Yes,4
+Nevada,MB80,Proposition 51,N/A,No,32
+Nevada,MB81,Proposition 51,N/A,Yes,39
+Nevada,MB81,Proposition 51,N/A,No,68
+Nevada,MB82,Proposition 51,N/A,Yes,6
+Nevada,MB82,Proposition 51,N/A,No,26
+Nevada,CP01,Proposition 52,N/A,Yes,987
+Nevada,CP01,Proposition 52,N/A,No,466
+Nevada,CP02,Proposition 52,N/A,Yes,451
+Nevada,CP02,Proposition 52,N/A,No,224
+Nevada,CP03,Proposition 52,N/A,Yes,454
+Nevada,CP03,Proposition 52,N/A,No,124
+Nevada,CP04,Proposition 52,N/A,Yes,861
+Nevada,CP04,Proposition 52,N/A,No,335
+Nevada,CP05,Proposition 52,N/A,Yes,480
+Nevada,CP05,Proposition 52,N/A,No,211
+Nevada,CP06,Proposition 52,N/A,Yes,950
+Nevada,CP06,Proposition 52,N/A,No,332
+Nevada,CP07,Proposition 52,N/A,Yes,1593
+Nevada,CP07,Proposition 52,N/A,No,599
+Nevada,CP08,Proposition 52,N/A,Yes,507
+Nevada,CP08,Proposition 52,N/A,No,251
+Nevada,CP09,Proposition 52,N/A,Yes,1240
+Nevada,CP09,Proposition 52,N/A,No,317
+Nevada,CP10,Proposition 52,N/A,Yes,381
+Nevada,CP10,Proposition 52,N/A,No,127
+Nevada,CP11,Proposition 52,N/A,Yes,760
+Nevada,CP11,Proposition 52,N/A,No,336
+Nevada,CP12,Proposition 52,N/A,Yes,696
+Nevada,CP12,Proposition 52,N/A,No,431
+Nevada,CP13,Proposition 52,N/A,Yes,1482
+Nevada,CP13,Proposition 52,N/A,No,873
+Nevada,CP14,Proposition 52,N/A,Yes,241
+Nevada,CP14,Proposition 52,N/A,No,135
+Nevada,CP15,Proposition 52,N/A,Yes,721
+Nevada,CP15,Proposition 52,N/A,No,425
+Nevada,CP16,Proposition 52,N/A,Yes,83
+Nevada,CP16,Proposition 52,N/A,No,45
+Nevada,CP17,Proposition 52,N/A,Yes,1110
+Nevada,CP17,Proposition 52,N/A,No,580
+Nevada,CP18,Proposition 52,N/A,Yes,852
+Nevada,CP18,Proposition 52,N/A,No,377
+Nevada,CP19,Proposition 52,N/A,Yes,879
+Nevada,CP19,Proposition 52,N/A,No,476
+Nevada,CP20,Proposition 52,N/A,Yes,190
+Nevada,CP20,Proposition 52,N/A,No,156
+Nevada,CP21,Proposition 52,N/A,Yes,269
+Nevada,CP21,Proposition 52,N/A,No,156
+Nevada,CP22,Proposition 52,N/A,Yes,144
+Nevada,CP22,Proposition 52,N/A,No,78
+Nevada,CP23,Proposition 52,N/A,Yes,433
+Nevada,CP23,Proposition 52,N/A,No,161
+Nevada,CP24,Proposition 52,N/A,Yes,885
+Nevada,CP24,Proposition 52,N/A,No,380
+Nevada,CP25,Proposition 52,N/A,Yes,826
+Nevada,CP25,Proposition 52,N/A,No,281
+Nevada,CP26,Proposition 52,N/A,Yes,1062
+Nevada,CP26,Proposition 52,N/A,No,433
+Nevada,CP27,Proposition 52,N/A,Yes,686
+Nevada,CP27,Proposition 52,N/A,No,230
+Nevada,CP28,Proposition 52,N/A,Yes,1015
+Nevada,CP28,Proposition 52,N/A,No,398
+Nevada,CP29,Proposition 52,N/A,Yes,882
+Nevada,CP29,Proposition 52,N/A,No,422
+Nevada,CP30,Proposition 52,N/A,Yes,562
+Nevada,CP30,Proposition 52,N/A,No,198
+Nevada,CP31,Proposition 52,N/A,Yes,1260
+Nevada,CP31,Proposition 52,N/A,No,595
+Nevada,CP32,Proposition 52,N/A,Yes,908
+Nevada,CP32,Proposition 52,N/A,No,396
+Nevada,CP33,Proposition 52,N/A,Yes,97
+Nevada,CP33,Proposition 52,N/A,No,38
+Nevada,CP34,Proposition 52,N/A,Yes,232
+Nevada,CP34,Proposition 52,N/A,No,143
+Nevada,CP35,Proposition 52,N/A,Yes,582
+Nevada,CP35,Proposition 52,N/A,No,293
+Nevada,CP36,Proposition 52,N/A,Yes,278
+Nevada,CP36,Proposition 52,N/A,No,125
+Nevada,CP37,Proposition 52,N/A,Yes,1250
+Nevada,CP37,Proposition 52,N/A,No,746
+Nevada,CP38,Proposition 52,N/A,Yes,362
+Nevada,CP38,Proposition 52,N/A,No,158
+Nevada,CP39,Proposition 52,N/A,Yes,430
+Nevada,CP39,Proposition 52,N/A,No,188
+Nevada,CP40,Proposition 52,N/A,Yes,504
+Nevada,CP40,Proposition 52,N/A,No,212
+Nevada,CP41,Proposition 52,N/A,Yes,468
+Nevada,CP41,Proposition 52,N/A,No,128
+Nevada,CP42,Proposition 52,N/A,Yes,377
+Nevada,CP42,Proposition 52,N/A,No,136
+Nevada,CP43,Proposition 52,N/A,Yes,463
+Nevada,CP43,Proposition 52,N/A,No,166
+Nevada,CP44,Proposition 52,N/A,Yes,429
+Nevada,CP44,Proposition 52,N/A,No,151
+Nevada,CP45,Proposition 52,N/A,Yes,825
+Nevada,CP45,Proposition 52,N/A,No,282
+Nevada,CP46,Proposition 52,N/A,Yes,970
+Nevada,CP46,Proposition 52,N/A,No,361
+Nevada,CP47,Proposition 52,N/A,Yes,1066
+Nevada,CP47,Proposition 52,N/A,No,374
+Nevada,MB48,Proposition 52,N/A,Yes,1
+Nevada,MB48,Proposition 52,N/A,No,3
+Nevada,MB49,Proposition 52,N/A,Yes,4
+Nevada,MB49,Proposition 52,N/A,No,2
+Nevada,MB50,Proposition 52,N/A,Yes,3
+Nevada,MB50,Proposition 52,N/A,No,3
+Nevada,MB51,Proposition 52,N/A,Yes,0
+Nevada,MB51,Proposition 52,N/A,No,0
+Nevada,MB52,Proposition 52,N/A,Yes,282
+Nevada,MB52,Proposition 52,N/A,No,134
+Nevada,MB53,Proposition 52,N/A,Yes,0
+Nevada,MB53,Proposition 52,N/A,No,0
+Nevada,MB54,Proposition 52,N/A,Yes,107
+Nevada,MB54,Proposition 52,N/A,No,64
+Nevada,MB55,Proposition 52,N/A,Yes,0
+Nevada,MB55,Proposition 52,N/A,No,0
+Nevada,MB56,Proposition 52,N/A,Yes,114
+Nevada,MB56,Proposition 52,N/A,No,49
+Nevada,MB57,Proposition 52,N/A,Yes,610
+Nevada,MB57,Proposition 52,N/A,No,270
+Nevada,MB58,Proposition 52,N/A,Yes,270
+Nevada,MB58,Proposition 52,N/A,No,73
+Nevada,MB59,Proposition 52,N/A,Yes,7
+Nevada,MB59,Proposition 52,N/A,No,0
+Nevada,MB60,Proposition 52,N/A,Yes,134
+Nevada,MB60,Proposition 52,N/A,No,65
+Nevada,MB61,Proposition 52,N/A,Yes,77
+Nevada,MB61,Proposition 52,N/A,No,33
+Nevada,MB62,Proposition 52,N/A,Yes,470
+Nevada,MB62,Proposition 52,N/A,No,219
+Nevada,MB63,Proposition 52,N/A,Yes,34
+Nevada,MB63,Proposition 52,N/A,No,17
+Nevada,MB64,Proposition 52,N/A,Yes,467
+Nevada,MB64,Proposition 52,N/A,No,206
+Nevada,MB65,Proposition 52,N/A,Yes,79
+Nevada,MB65,Proposition 52,N/A,No,40
+Nevada,MB66,Proposition 52,N/A,Yes,120
+Nevada,MB66,Proposition 52,N/A,No,54
+Nevada,MB67,Proposition 52,N/A,Yes,36
+Nevada,MB67,Proposition 52,N/A,No,16
+Nevada,MB68,Proposition 52,N/A,Yes,60
+Nevada,MB68,Proposition 52,N/A,No,26
+Nevada,MB69,Proposition 52,N/A,Yes,95
+Nevada,MB69,Proposition 52,N/A,No,27
+Nevada,MB70,Proposition 52,N/A,Yes,63
+Nevada,MB70,Proposition 52,N/A,No,40
+Nevada,MB71,Proposition 52,N/A,Yes,390
+Nevada,MB71,Proposition 52,N/A,No,167
+Nevada,MB72,Proposition 52,N/A,Yes,55
+Nevada,MB72,Proposition 52,N/A,No,25
+Nevada,MB73,Proposition 52,N/A,Yes,22
+Nevada,MB73,Proposition 52,N/A,No,6
+Nevada,MB74,Proposition 52,N/A,Yes,357
+Nevada,MB74,Proposition 52,N/A,No,201
+Nevada,MB75,Proposition 52,N/A,Yes,192
+Nevada,MB75,Proposition 52,N/A,No,84
+Nevada,MB76,Proposition 52,N/A,Yes,0
+Nevada,MB76,Proposition 52,N/A,No,0
+Nevada,MB77,Proposition 52,N/A,Yes,55
+Nevada,MB77,Proposition 52,N/A,No,34
+Nevada,MB78,Proposition 52,N/A,Yes,295
+Nevada,MB78,Proposition 52,N/A,No,161
+Nevada,MB79,Proposition 52,N/A,Yes,121
+Nevada,MB79,Proposition 52,N/A,No,87
+Nevada,MB80,Proposition 52,N/A,Yes,25
+Nevada,MB80,Proposition 52,N/A,No,12
+Nevada,MB81,Proposition 52,N/A,Yes,73
+Nevada,MB81,Proposition 52,N/A,No,34
+Nevada,MB82,Proposition 52,N/A,Yes,22
+Nevada,MB82,Proposition 52,N/A,No,10
+Nevada,CP01,Proposition 53,N/A,Yes,761
+Nevada,CP01,Proposition 53,N/A,No,664
+Nevada,CP02,Proposition 53,N/A,Yes,378
+Nevada,CP02,Proposition 53,N/A,No,297
+Nevada,CP03,Proposition 53,N/A,Yes,311
+Nevada,CP03,Proposition 53,N/A,No,252
+Nevada,CP04,Proposition 53,N/A,Yes,576
+Nevada,CP04,Proposition 53,N/A,No,613
+Nevada,CP05,Proposition 53,N/A,Yes,358
+Nevada,CP05,Proposition 53,N/A,No,329
+Nevada,CP06,Proposition 53,N/A,Yes,561
+Nevada,CP06,Proposition 53,N/A,No,704
+Nevada,CP07,Proposition 53,N/A,Yes,1078
+Nevada,CP07,Proposition 53,N/A,No,1084
+Nevada,CP08,Proposition 53,N/A,Yes,464
+Nevada,CP08,Proposition 53,N/A,No,293
+Nevada,CP09,Proposition 53,N/A,Yes,585
+Nevada,CP09,Proposition 53,N/A,No,932
+Nevada,CP10,Proposition 53,N/A,Yes,265
+Nevada,CP10,Proposition 53,N/A,No,225
+Nevada,CP11,Proposition 53,N/A,Yes,589
+Nevada,CP11,Proposition 53,N/A,No,492
+Nevada,CP12,Proposition 53,N/A,Yes,693
+Nevada,CP12,Proposition 53,N/A,No,441
+Nevada,CP13,Proposition 53,N/A,Yes,1417
+Nevada,CP13,Proposition 53,N/A,No,930
+Nevada,CP14,Proposition 53,N/A,Yes,231
+Nevada,CP14,Proposition 53,N/A,No,141
+Nevada,CP15,Proposition 53,N/A,Yes,665
+Nevada,CP15,Proposition 53,N/A,No,485
+Nevada,CP16,Proposition 53,N/A,Yes,88
+Nevada,CP16,Proposition 53,N/A,No,41
+Nevada,CP17,Proposition 53,N/A,Yes,959
+Nevada,CP17,Proposition 53,N/A,No,724
+Nevada,CP18,Proposition 53,N/A,Yes,736
+Nevada,CP18,Proposition 53,N/A,No,491
+Nevada,CP19,Proposition 53,N/A,Yes,787
+Nevada,CP19,Proposition 53,N/A,No,542
+Nevada,CP20,Proposition 53,N/A,Yes,195
+Nevada,CP20,Proposition 53,N/A,No,157
+Nevada,CP21,Proposition 53,N/A,Yes,255
+Nevada,CP21,Proposition 53,N/A,No,162
+Nevada,CP22,Proposition 53,N/A,Yes,137
+Nevada,CP22,Proposition 53,N/A,No,87
+Nevada,CP23,Proposition 53,N/A,Yes,313
+Nevada,CP23,Proposition 53,N/A,No,278
+Nevada,CP24,Proposition 53,N/A,Yes,676
+Nevada,CP24,Proposition 53,N/A,No,578
+Nevada,CP25,Proposition 53,N/A,Yes,505
+Nevada,CP25,Proposition 53,N/A,No,575
+Nevada,CP26,Proposition 53,N/A,Yes,781
+Nevada,CP26,Proposition 53,N/A,No,701
+Nevada,CP27,Proposition 53,N/A,Yes,495
+Nevada,CP27,Proposition 53,N/A,No,399
+Nevada,CP28,Proposition 53,N/A,Yes,656
+Nevada,CP28,Proposition 53,N/A,No,719
+Nevada,CP29,Proposition 53,N/A,Yes,717
+Nevada,CP29,Proposition 53,N/A,No,587
+Nevada,CP30,Proposition 53,N/A,Yes,413
+Nevada,CP30,Proposition 53,N/A,No,344
+Nevada,CP31,Proposition 53,N/A,Yes,1056
+Nevada,CP31,Proposition 53,N/A,No,801
+Nevada,CP32,Proposition 53,N/A,Yes,745
+Nevada,CP32,Proposition 53,N/A,No,540
+Nevada,CP33,Proposition 53,N/A,Yes,74
+Nevada,CP33,Proposition 53,N/A,No,64
+Nevada,CP34,Proposition 53,N/A,Yes,171
+Nevada,CP34,Proposition 53,N/A,No,201
+Nevada,CP35,Proposition 53,N/A,Yes,514
+Nevada,CP35,Proposition 53,N/A,No,348
+Nevada,CP36,Proposition 53,N/A,Yes,217
+Nevada,CP36,Proposition 53,N/A,No,180
+Nevada,CP37,Proposition 53,N/A,Yes,1193
+Nevada,CP37,Proposition 53,N/A,No,777
+Nevada,CP38,Proposition 53,N/A,Yes,285
+Nevada,CP38,Proposition 53,N/A,No,235
+Nevada,CP39,Proposition 53,N/A,Yes,342
+Nevada,CP39,Proposition 53,N/A,No,270
+Nevada,CP40,Proposition 53,N/A,Yes,302
+Nevada,CP40,Proposition 53,N/A,No,413
+Nevada,CP41,Proposition 53,N/A,Yes,273
+Nevada,CP41,Proposition 53,N/A,No,308
+Nevada,CP42,Proposition 53,N/A,Yes,209
+Nevada,CP42,Proposition 53,N/A,No,301
+Nevada,CP43,Proposition 53,N/A,Yes,304
+Nevada,CP43,Proposition 53,N/A,No,316
+Nevada,CP44,Proposition 53,N/A,Yes,270
+Nevada,CP44,Proposition 53,N/A,No,308
+Nevada,CP45,Proposition 53,N/A,Yes,494
+Nevada,CP45,Proposition 53,N/A,No,608
+Nevada,CP46,Proposition 53,N/A,Yes,660
+Nevada,CP46,Proposition 53,N/A,No,659
+Nevada,CP47,Proposition 53,N/A,Yes,699
+Nevada,CP47,Proposition 53,N/A,No,700
+Nevada,MB48,Proposition 53,N/A,Yes,2
+Nevada,MB48,Proposition 53,N/A,No,2
+Nevada,MB49,Proposition 53,N/A,Yes,2
+Nevada,MB49,Proposition 53,N/A,No,3
+Nevada,MB50,Proposition 53,N/A,Yes,4
+Nevada,MB50,Proposition 53,N/A,No,2
+Nevada,MB51,Proposition 53,N/A,Yes,0
+Nevada,MB51,Proposition 53,N/A,No,0
+Nevada,MB52,Proposition 53,N/A,Yes,217
+Nevada,MB52,Proposition 53,N/A,No,186
+Nevada,MB53,Proposition 53,N/A,Yes,0
+Nevada,MB53,Proposition 53,N/A,No,0
+Nevada,MB54,Proposition 53,N/A,Yes,86
+Nevada,MB54,Proposition 53,N/A,No,87
+Nevada,MB55,Proposition 53,N/A,Yes,0
+Nevada,MB55,Proposition 53,N/A,No,0
+Nevada,MB56,Proposition 53,N/A,Yes,91
+Nevada,MB56,Proposition 53,N/A,No,73
+Nevada,MB57,Proposition 53,N/A,Yes,442
+Nevada,MB57,Proposition 53,N/A,No,435
+Nevada,MB58,Proposition 53,N/A,Yes,164
+Nevada,MB58,Proposition 53,N/A,No,168
+Nevada,MB59,Proposition 53,N/A,Yes,4
+Nevada,MB59,Proposition 53,N/A,No,2
+Nevada,MB60,Proposition 53,N/A,Yes,116
+Nevada,MB60,Proposition 53,N/A,No,83
+Nevada,MB61,Proposition 53,N/A,Yes,66
+Nevada,MB61,Proposition 53,N/A,No,45
+Nevada,MB62,Proposition 53,N/A,Yes,368
+Nevada,MB62,Proposition 53,N/A,No,320
+Nevada,MB63,Proposition 53,N/A,Yes,21
+Nevada,MB63,Proposition 53,N/A,No,27
+Nevada,MB64,Proposition 53,N/A,Yes,389
+Nevada,MB64,Proposition 53,N/A,No,279
+Nevada,MB65,Proposition 53,N/A,Yes,62
+Nevada,MB65,Proposition 53,N/A,No,55
+Nevada,MB66,Proposition 53,N/A,Yes,90
+Nevada,MB66,Proposition 53,N/A,No,79
+Nevada,MB67,Proposition 53,N/A,Yes,24
+Nevada,MB67,Proposition 53,N/A,No,28
+Nevada,MB68,Proposition 53,N/A,Yes,41
+Nevada,MB68,Proposition 53,N/A,No,43
+Nevada,MB69,Proposition 53,N/A,Yes,76
+Nevada,MB69,Proposition 53,N/A,No,47
+Nevada,MB70,Proposition 53,N/A,Yes,61
+Nevada,MB70,Proposition 53,N/A,No,43
+Nevada,MB71,Proposition 53,N/A,Yes,297
+Nevada,MB71,Proposition 53,N/A,No,257
+Nevada,MB72,Proposition 53,N/A,Yes,26
+Nevada,MB72,Proposition 53,N/A,No,49
+Nevada,MB73,Proposition 53,N/A,Yes,20
+Nevada,MB73,Proposition 53,N/A,No,8
+Nevada,MB74,Proposition 53,N/A,Yes,338
+Nevada,MB74,Proposition 53,N/A,No,210
+Nevada,MB75,Proposition 53,N/A,Yes,138
+Nevada,MB75,Proposition 53,N/A,No,137
+Nevada,MB76,Proposition 53,N/A,Yes,0
+Nevada,MB76,Proposition 53,N/A,No,0
+Nevada,MB77,Proposition 53,N/A,Yes,57
+Nevada,MB77,Proposition 53,N/A,No,31
+Nevada,MB78,Proposition 53,N/A,Yes,248
+Nevada,MB78,Proposition 53,N/A,No,202
+Nevada,MB79,Proposition 53,N/A,Yes,121
+Nevada,MB79,Proposition 53,N/A,No,87
+Nevada,MB80,Proposition 53,N/A,Yes,20
+Nevada,MB80,Proposition 53,N/A,No,17
+Nevada,MB81,Proposition 53,N/A,Yes,56
+Nevada,MB81,Proposition 53,N/A,No,51
+Nevada,MB82,Proposition 53,N/A,Yes,20
+Nevada,MB82,Proposition 53,N/A,No,11
+Nevada,CP01,Proposition 54,N/A,Yes,967
+Nevada,CP01,Proposition 54,N/A,No,470
+Nevada,CP02,Proposition 54,N/A,Yes,468
+Nevada,CP02,Proposition 54,N/A,No,212
+Nevada,CP03,Proposition 54,N/A,Yes,367
+Nevada,CP03,Proposition 54,N/A,No,190
+Nevada,CP04,Proposition 54,N/A,Yes,821
+Nevada,CP04,Proposition 54,N/A,No,366
+Nevada,CP05,Proposition 54,N/A,Yes,438
+Nevada,CP05,Proposition 54,N/A,No,247
+Nevada,CP06,Proposition 54,N/A,Yes,885
+Nevada,CP06,Proposition 54,N/A,No,374
+Nevada,CP07,Proposition 54,N/A,Yes,1474
+Nevada,CP07,Proposition 54,N/A,No,712
+Nevada,CP08,Proposition 54,N/A,Yes,529
+Nevada,CP08,Proposition 54,N/A,No,229
+Nevada,CP09,Proposition 54,N/A,Yes,1027
+Nevada,CP09,Proposition 54,N/A,No,505
+Nevada,CP10,Proposition 54,N/A,Yes,356
+Nevada,CP10,Proposition 54,N/A,No,137
+Nevada,CP11,Proposition 54,N/A,Yes,719
+Nevada,CP11,Proposition 54,N/A,No,361
+Nevada,CP12,Proposition 54,N/A,Yes,786
+Nevada,CP12,Proposition 54,N/A,No,346
+Nevada,CP13,Proposition 54,N/A,Yes,1538
+Nevada,CP13,Proposition 54,N/A,No,804
+Nevada,CP14,Proposition 54,N/A,Yes,245
+Nevada,CP14,Proposition 54,N/A,No,127
+Nevada,CP15,Proposition 54,N/A,Yes,773
+Nevada,CP15,Proposition 54,N/A,No,374
+Nevada,CP16,Proposition 54,N/A,Yes,96
+Nevada,CP16,Proposition 54,N/A,No,32
+Nevada,CP17,Proposition 54,N/A,Yes,1085
+Nevada,CP17,Proposition 54,N/A,No,580
+Nevada,CP18,Proposition 54,N/A,Yes,804
+Nevada,CP18,Proposition 54,N/A,No,417
+Nevada,CP19,Proposition 54,N/A,Yes,871
+Nevada,CP19,Proposition 54,N/A,No,458
+Nevada,CP20,Proposition 54,N/A,Yes,252
+Nevada,CP20,Proposition 54,N/A,No,101
+Nevada,CP21,Proposition 54,N/A,Yes,298
+Nevada,CP21,Proposition 54,N/A,No,110
+Nevada,CP22,Proposition 54,N/A,Yes,169
+Nevada,CP22,Proposition 54,N/A,No,52
+Nevada,CP23,Proposition 54,N/A,Yes,364
+Nevada,CP23,Proposition 54,N/A,No,229
+Nevada,CP24,Proposition 54,N/A,Yes,845
+Nevada,CP24,Proposition 54,N/A,No,409
+Nevada,CP25,Proposition 54,N/A,Yes,690
+Nevada,CP25,Proposition 54,N/A,No,396
+Nevada,CP26,Proposition 54,N/A,Yes,1021
+Nevada,CP26,Proposition 54,N/A,No,451
+Nevada,CP27,Proposition 54,N/A,Yes,601
+Nevada,CP27,Proposition 54,N/A,No,299
+Nevada,CP28,Proposition 54,N/A,Yes,870
+Nevada,CP28,Proposition 54,N/A,No,529
+Nevada,CP29,Proposition 54,N/A,Yes,851
+Nevada,CP29,Proposition 54,N/A,No,450
+Nevada,CP30,Proposition 54,N/A,Yes,502
+Nevada,CP30,Proposition 54,N/A,No,238
+Nevada,CP31,Proposition 54,N/A,Yes,1198
+Nevada,CP31,Proposition 54,N/A,No,642
+Nevada,CP32,Proposition 54,N/A,Yes,887
+Nevada,CP32,Proposition 54,N/A,No,406
+Nevada,CP33,Proposition 54,N/A,Yes,109
+Nevada,CP33,Proposition 54,N/A,No,24
+Nevada,CP34,Proposition 54,N/A,Yes,261
+Nevada,CP34,Proposition 54,N/A,No,109
+Nevada,CP35,Proposition 54,N/A,Yes,607
+Nevada,CP35,Proposition 54,N/A,No,256
+Nevada,CP36,Proposition 54,N/A,Yes,274
+Nevada,CP36,Proposition 54,N/A,No,117
+Nevada,CP37,Proposition 54,N/A,Yes,1357
+Nevada,CP37,Proposition 54,N/A,No,613
+Nevada,CP38,Proposition 54,N/A,Yes,343
+Nevada,CP38,Proposition 54,N/A,No,167
+Nevada,CP39,Proposition 54,N/A,Yes,420
+Nevada,CP39,Proposition 54,N/A,No,194
+Nevada,CP40,Proposition 54,N/A,Yes,449
+Nevada,CP40,Proposition 54,N/A,No,264
+Nevada,CP41,Proposition 54,N/A,Yes,423
+Nevada,CP41,Proposition 54,N/A,No,167
+Nevada,CP42,Proposition 54,N/A,Yes,367
+Nevada,CP42,Proposition 54,N/A,No,146
+Nevada,CP43,Proposition 54,N/A,Yes,425
+Nevada,CP43,Proposition 54,N/A,No,192
+Nevada,CP44,Proposition 54,N/A,Yes,386
+Nevada,CP44,Proposition 54,N/A,No,190
+Nevada,CP45,Proposition 54,N/A,Yes,686
+Nevada,CP45,Proposition 54,N/A,No,408
+Nevada,CP46,Proposition 54,N/A,Yes,858
+Nevada,CP46,Proposition 54,N/A,No,447
+Nevada,CP47,Proposition 54,N/A,Yes,893
+Nevada,CP47,Proposition 54,N/A,No,513
+Nevada,MB48,Proposition 54,N/A,Yes,2
+Nevada,MB48,Proposition 54,N/A,No,2
+Nevada,MB49,Proposition 54,N/A,Yes,4
+Nevada,MB49,Proposition 54,N/A,No,1
+Nevada,MB50,Proposition 54,N/A,Yes,4
+Nevada,MB50,Proposition 54,N/A,No,2
+Nevada,MB51,Proposition 54,N/A,Yes,0
+Nevada,MB51,Proposition 54,N/A,No,0
+Nevada,MB52,Proposition 54,N/A,Yes,271
+Nevada,MB52,Proposition 54,N/A,No,138
+Nevada,MB53,Proposition 54,N/A,Yes,0
+Nevada,MB53,Proposition 54,N/A,No,0
+Nevada,MB54,Proposition 54,N/A,Yes,129
+Nevada,MB54,Proposition 54,N/A,No,44
+Nevada,MB55,Proposition 54,N/A,Yes,0
+Nevada,MB55,Proposition 54,N/A,No,0
+Nevada,MB56,Proposition 54,N/A,Yes,119
+Nevada,MB56,Proposition 54,N/A,No,45
+Nevada,MB57,Proposition 54,N/A,Yes,587
+Nevada,MB57,Proposition 54,N/A,No,285
+Nevada,MB58,Proposition 54,N/A,Yes,247
+Nevada,MB58,Proposition 54,N/A,No,89
+Nevada,MB59,Proposition 54,N/A,Yes,7
+Nevada,MB59,Proposition 54,N/A,No,1
+Nevada,MB60,Proposition 54,N/A,Yes,141
+Nevada,MB60,Proposition 54,N/A,No,57
+Nevada,MB61,Proposition 54,N/A,Yes,75
+Nevada,MB61,Proposition 54,N/A,No,33
+Nevada,MB62,Proposition 54,N/A,Yes,459
+Nevada,MB62,Proposition 54,N/A,No,223
+Nevada,MB63,Proposition 54,N/A,Yes,34
+Nevada,MB63,Proposition 54,N/A,No,14
+Nevada,MB64,Proposition 54,N/A,Yes,464
+Nevada,MB64,Proposition 54,N/A,No,198
+Nevada,MB65,Proposition 54,N/A,Yes,73
+Nevada,MB65,Proposition 54,N/A,No,43
+Nevada,MB66,Proposition 54,N/A,Yes,117
+Nevada,MB66,Proposition 54,N/A,No,57
+Nevada,MB67,Proposition 54,N/A,Yes,36
+Nevada,MB67,Proposition 54,N/A,No,14
+Nevada,MB68,Proposition 54,N/A,Yes,35
+Nevada,MB68,Proposition 54,N/A,No,46
+Nevada,MB69,Proposition 54,N/A,Yes,77
+Nevada,MB69,Proposition 54,N/A,No,47
+Nevada,MB70,Proposition 54,N/A,Yes,76
+Nevada,MB70,Proposition 54,N/A,No,30
+Nevada,MB71,Proposition 54,N/A,Yes,368
+Nevada,MB71,Proposition 54,N/A,No,187
+Nevada,MB72,Proposition 54,N/A,Yes,55
+Nevada,MB72,Proposition 54,N/A,No,23
+Nevada,MB73,Proposition 54,N/A,Yes,20
+Nevada,MB73,Proposition 54,N/A,No,7
+Nevada,MB74,Proposition 54,N/A,Yes,404
+Nevada,MB74,Proposition 54,N/A,No,149
+Nevada,MB75,Proposition 54,N/A,Yes,198
+Nevada,MB75,Proposition 54,N/A,No,74
+Nevada,MB76,Proposition 54,N/A,Yes,0
+Nevada,MB76,Proposition 54,N/A,No,0
+Nevada,MB77,Proposition 54,N/A,Yes,71
+Nevada,MB77,Proposition 54,N/A,No,17
+Nevada,MB78,Proposition 54,N/A,Yes,300
+Nevada,MB78,Proposition 54,N/A,No,155
+Nevada,MB79,Proposition 54,N/A,Yes,148
+Nevada,MB79,Proposition 54,N/A,No,63
+Nevada,MB80,Proposition 54,N/A,Yes,22
+Nevada,MB80,Proposition 54,N/A,No,15
+Nevada,MB81,Proposition 54,N/A,Yes,71
+Nevada,MB81,Proposition 54,N/A,No,32
+Nevada,MB82,Proposition 54,N/A,Yes,24
+Nevada,MB82,Proposition 54,N/A,No,8
+Nevada,CP01,Proposition 55,N/A,Yes,781
+Nevada,CP01,Proposition 55,N/A,No,682
+Nevada,CP02,Proposition 55,N/A,Yes,349
+Nevada,CP02,Proposition 55,N/A,No,337
+Nevada,CP03,Proposition 55,N/A,Yes,402
+Nevada,CP03,Proposition 55,N/A,No,164
+Nevada,CP04,Proposition 55,N/A,Yes,807
+Nevada,CP04,Proposition 55,N/A,No,405
+Nevada,CP05,Proposition 55,N/A,Yes,385
+Nevada,CP05,Proposition 55,N/A,No,306
+Nevada,CP06,Proposition 55,N/A,Yes,885
+Nevada,CP06,Proposition 55,N/A,No,415
+Nevada,CP07,Proposition 55,N/A,Yes,1340
+Nevada,CP07,Proposition 55,N/A,No,884
+Nevada,CP08,Proposition 55,N/A,Yes,387
+Nevada,CP08,Proposition 55,N/A,No,382
+Nevada,CP09,Proposition 55,N/A,Yes,1167
+Nevada,CP09,Proposition 55,N/A,No,409
+Nevada,CP10,Proposition 55,N/A,Yes,296
+Nevada,CP10,Proposition 55,N/A,No,218
+Nevada,CP11,Proposition 55,N/A,Yes,590
+Nevada,CP11,Proposition 55,N/A,No,517
+Nevada,CP12,Proposition 55,N/A,Yes,453
+Nevada,CP12,Proposition 55,N/A,No,695
+Nevada,CP13,Proposition 55,N/A,Yes,1137
+Nevada,CP13,Proposition 55,N/A,No,1243
+Nevada,CP14,Proposition 55,N/A,Yes,174
+Nevada,CP14,Proposition 55,N/A,No,203
+Nevada,CP15,Proposition 55,N/A,Yes,553
+Nevada,CP15,Proposition 55,N/A,No,603
+Nevada,CP16,Proposition 55,N/A,Yes,54
+Nevada,CP16,Proposition 55,N/A,No,72
+Nevada,CP17,Proposition 55,N/A,Yes,859
+Nevada,CP17,Proposition 55,N/A,No,848
+Nevada,CP18,Proposition 55,N/A,Yes,633
+Nevada,CP18,Proposition 55,N/A,No,605
+Nevada,CP19,Proposition 55,N/A,Yes,706
+Nevada,CP19,Proposition 55,N/A,No,651
+Nevada,CP20,Proposition 55,N/A,Yes,146
+Nevada,CP20,Proposition 55,N/A,No,207
+Nevada,CP21,Proposition 55,N/A,Yes,214
+Nevada,CP21,Proposition 55,N/A,No,209
+Nevada,CP22,Proposition 55,N/A,Yes,104
+Nevada,CP22,Proposition 55,N/A,No,122
+Nevada,CP23,Proposition 55,N/A,Yes,346
+Nevada,CP23,Proposition 55,N/A,No,257
+Nevada,CP24,Proposition 55,N/A,Yes,805
+Nevada,CP24,Proposition 55,N/A,No,473
+Nevada,CP25,Proposition 55,N/A,Yes,791
+Nevada,CP25,Proposition 55,N/A,No,326
+Nevada,CP26,Proposition 55,N/A,Yes,1006
+Nevada,CP26,Proposition 55,N/A,No,506
+Nevada,CP27,Proposition 55,N/A,Yes,587
+Nevada,CP27,Proposition 55,N/A,No,336
+Nevada,CP28,Proposition 55,N/A,Yes,976
+Nevada,CP28,Proposition 55,N/A,No,468
+Nevada,CP29,Proposition 55,N/A,Yes,703
+Nevada,CP29,Proposition 55,N/A,No,625
+Nevada,CP30,Proposition 55,N/A,Yes,461
+Nevada,CP30,Proposition 55,N/A,No,307
+Nevada,CP31,Proposition 55,N/A,Yes,955
+Nevada,CP31,Proposition 55,N/A,No,910
+Nevada,CP32,Proposition 55,N/A,Yes,698
+Nevada,CP32,Proposition 55,N/A,No,611
+Nevada,CP33,Proposition 55,N/A,Yes,96
+Nevada,CP33,Proposition 55,N/A,No,44
+Nevada,CP34,Proposition 55,N/A,Yes,230
+Nevada,CP34,Proposition 55,N/A,No,151
+Nevada,CP35,Proposition 55,N/A,Yes,452
+Nevada,CP35,Proposition 55,N/A,No,439
+Nevada,CP36,Proposition 55,N/A,Yes,221
+Nevada,CP36,Proposition 55,N/A,No,180
+Nevada,CP37,Proposition 55,N/A,Yes,977
+Nevada,CP37,Proposition 55,N/A,No,1012
+Nevada,CP38,Proposition 55,N/A,Yes,285
+Nevada,CP38,Proposition 55,N/A,No,241
+Nevada,CP39,Proposition 55,N/A,Yes,324
+Nevada,CP39,Proposition 55,N/A,No,291
+Nevada,CP40,Proposition 55,N/A,Yes,506
+Nevada,CP40,Proposition 55,N/A,No,234
+Nevada,CP41,Proposition 55,N/A,Yes,459
+Nevada,CP41,Proposition 55,N/A,No,146
+Nevada,CP42,Proposition 55,N/A,Yes,425
+Nevada,CP42,Proposition 55,N/A,No,102
+Nevada,CP43,Proposition 55,N/A,Yes,471
+Nevada,CP43,Proposition 55,N/A,No,177
+Nevada,CP44,Proposition 55,N/A,Yes,409
+Nevada,CP44,Proposition 55,N/A,No,184
+Nevada,CP45,Proposition 55,N/A,Yes,793
+Nevada,CP45,Proposition 55,N/A,No,335
+Nevada,CP46,Proposition 55,N/A,Yes,961
+Nevada,CP46,Proposition 55,N/A,No,399
+Nevada,CP47,Proposition 55,N/A,Yes,988
+Nevada,CP47,Proposition 55,N/A,No,477
+Nevada,MB48,Proposition 55,N/A,Yes,2
+Nevada,MB48,Proposition 55,N/A,No,2
+Nevada,MB49,Proposition 55,N/A,Yes,3
+Nevada,MB49,Proposition 55,N/A,No,3
+Nevada,MB50,Proposition 55,N/A,Yes,3
+Nevada,MB50,Proposition 55,N/A,No,3
+Nevada,MB51,Proposition 55,N/A,Yes,0
+Nevada,MB51,Proposition 55,N/A,No,0
+Nevada,MB52,Proposition 55,N/A,Yes,244
+Nevada,MB52,Proposition 55,N/A,No,171
+Nevada,MB53,Proposition 55,N/A,Yes,0
+Nevada,MB53,Proposition 55,N/A,No,0
+Nevada,MB54,Proposition 55,N/A,Yes,127
+Nevada,MB54,Proposition 55,N/A,No,49
+Nevada,MB55,Proposition 55,N/A,Yes,0
+Nevada,MB55,Proposition 55,N/A,No,0
+Nevada,MB56,Proposition 55,N/A,Yes,106
+Nevada,MB56,Proposition 55,N/A,No,57
+Nevada,MB57,Proposition 55,N/A,Yes,493
+Nevada,MB57,Proposition 55,N/A,No,400
+Nevada,MB58,Proposition 55,N/A,Yes,252
+Nevada,MB58,Proposition 55,N/A,No,88
+Nevada,MB59,Proposition 55,N/A,Yes,7
+Nevada,MB59,Proposition 55,N/A,No,1
+Nevada,MB60,Proposition 55,N/A,Yes,112
+Nevada,MB60,Proposition 55,N/A,No,94
+Nevada,MB61,Proposition 55,N/A,Yes,64
+Nevada,MB61,Proposition 55,N/A,No,47
+Nevada,MB62,Proposition 55,N/A,Yes,379
+Nevada,MB62,Proposition 55,N/A,No,316
+Nevada,MB63,Proposition 55,N/A,Yes,32
+Nevada,MB63,Proposition 55,N/A,No,17
+Nevada,MB64,Proposition 55,N/A,Yes,366
+Nevada,MB64,Proposition 55,N/A,No,309
+Nevada,MB65,Proposition 55,N/A,Yes,81
+Nevada,MB65,Proposition 55,N/A,No,39
+Nevada,MB66,Proposition 55,N/A,Yes,94
+Nevada,MB66,Proposition 55,N/A,No,77
+Nevada,MB67,Proposition 55,N/A,Yes,38
+Nevada,MB67,Proposition 55,N/A,No,14
+Nevada,MB68,Proposition 55,N/A,Yes,54
+Nevada,MB68,Proposition 55,N/A,No,29
+Nevada,MB69,Proposition 55,N/A,Yes,72
+Nevada,MB69,Proposition 55,N/A,No,52
+Nevada,MB70,Proposition 55,N/A,Yes,53
+Nevada,MB70,Proposition 55,N/A,No,57
+Nevada,MB71,Proposition 55,N/A,Yes,319
+Nevada,MB71,Proposition 55,N/A,No,243
+Nevada,MB72,Proposition 55,N/A,Yes,50
+Nevada,MB72,Proposition 55,N/A,No,30
+Nevada,MB73,Proposition 55,N/A,Yes,11
+Nevada,MB73,Proposition 55,N/A,No,18
+Nevada,MB74,Proposition 55,N/A,Yes,251
+Nevada,MB74,Proposition 55,N/A,No,309
+Nevada,MB75,Proposition 55,N/A,Yes,180
+Nevada,MB75,Proposition 55,N/A,No,102
+Nevada,MB76,Proposition 55,N/A,Yes,0
+Nevada,MB76,Proposition 55,N/A,No,0
+Nevada,MB77,Proposition 55,N/A,Yes,51
+Nevada,MB77,Proposition 55,N/A,No,40
+Nevada,MB78,Proposition 55,N/A,Yes,283
+Nevada,MB78,Proposition 55,N/A,No,184
+Nevada,MB79,Proposition 55,N/A,Yes,89
+Nevada,MB79,Proposition 55,N/A,No,125
+Nevada,MB80,Proposition 55,N/A,Yes,15
+Nevada,MB80,Proposition 55,N/A,No,23
+Nevada,MB81,Proposition 55,N/A,Yes,65
+Nevada,MB81,Proposition 55,N/A,No,40
+Nevada,MB82,Proposition 55,N/A,Yes,15
+Nevada,MB82,Proposition 55,N/A,No,19
+Nevada,CP01,Proposition 56,N/A,Yes,788
+Nevada,CP01,Proposition 56,N/A,No,723
+Nevada,CP02,Proposition 56,N/A,Yes,358
+Nevada,CP02,Proposition 56,N/A,No,348
+Nevada,CP03,Proposition 56,N/A,Yes,303
+Nevada,CP03,Proposition 56,N/A,No,285
+Nevada,CP04,Proposition 56,N/A,Yes,802
+Nevada,CP04,Proposition 56,N/A,No,442
+Nevada,CP05,Proposition 56,N/A,Yes,394
+Nevada,CP05,Proposition 56,N/A,No,320
+Nevada,CP06,Proposition 56,N/A,Yes,816
+Nevada,CP06,Proposition 56,N/A,No,497
+Nevada,CP07,Proposition 56,N/A,Yes,1330
+Nevada,CP07,Proposition 56,N/A,No,937
+Nevada,CP08,Proposition 56,N/A,Yes,388
+Nevada,CP08,Proposition 56,N/A,No,395
+Nevada,CP09,Proposition 56,N/A,Yes,1065
+Nevada,CP09,Proposition 56,N/A,No,546
+Nevada,CP10,Proposition 56,N/A,Yes,306
+Nevada,CP10,Proposition 56,N/A,No,217
+Nevada,CP11,Proposition 56,N/A,Yes,583
+Nevada,CP11,Proposition 56,N/A,No,553
+Nevada,CP12,Proposition 56,N/A,Yes,546
+Nevada,CP12,Proposition 56,N/A,No,623
+Nevada,CP13,Proposition 56,N/A,Yes,1300
+Nevada,CP13,Proposition 56,N/A,No,1154
+Nevada,CP14,Proposition 56,N/A,Yes,149
+Nevada,CP14,Proposition 56,N/A,No,239
+Nevada,CP15,Proposition 56,N/A,Yes,549
+Nevada,CP15,Proposition 56,N/A,No,640
+Nevada,CP16,Proposition 56,N/A,Yes,53
+Nevada,CP16,Proposition 56,N/A,No,77
+Nevada,CP17,Proposition 56,N/A,Yes,864
+Nevada,CP17,Proposition 56,N/A,No,862
+Nevada,CP18,Proposition 56,N/A,Yes,652
+Nevada,CP18,Proposition 56,N/A,No,613
+Nevada,CP19,Proposition 56,N/A,Yes,683
+Nevada,CP19,Proposition 56,N/A,No,706
+Nevada,CP20,Proposition 56,N/A,Yes,161
+Nevada,CP20,Proposition 56,N/A,No,207
+Nevada,CP21,Proposition 56,N/A,Yes,189
+Nevada,CP21,Proposition 56,N/A,No,249
+Nevada,CP22,Proposition 56,N/A,Yes,106
+Nevada,CP22,Proposition 56,N/A,No,122
+Nevada,CP23,Proposition 56,N/A,Yes,374
+Nevada,CP23,Proposition 56,N/A,No,241
+Nevada,CP24,Proposition 56,N/A,Yes,651
+Nevada,CP24,Proposition 56,N/A,No,650
+Nevada,CP25,Proposition 56,N/A,Yes,667
+Nevada,CP25,Proposition 56,N/A,No,482
+Nevada,CP26,Proposition 56,N/A,Yes,858
+Nevada,CP26,Proposition 56,N/A,No,708
+Nevada,CP27,Proposition 56,N/A,Yes,495
+Nevada,CP27,Proposition 56,N/A,No,458
+Nevada,CP28,Proposition 56,N/A,Yes,1124
+Nevada,CP28,Proposition 56,N/A,No,374
+Nevada,CP29,Proposition 56,N/A,Yes,690
+Nevada,CP29,Proposition 56,N/A,No,673
+Nevada,CP30,Proposition 56,N/A,Yes,389
+Nevada,CP30,Proposition 56,N/A,No,388
+Nevada,CP31,Proposition 56,N/A,Yes,1026
+Nevada,CP31,Proposition 56,N/A,No,883
+Nevada,CP32,Proposition 56,N/A,Yes,736
+Nevada,CP32,Proposition 56,N/A,No,605
+Nevada,CP33,Proposition 56,N/A,Yes,81
+Nevada,CP33,Proposition 56,N/A,No,57
+Nevada,CP34,Proposition 56,N/A,Yes,213
+Nevada,CP34,Proposition 56,N/A,No,180
+Nevada,CP35,Proposition 56,N/A,Yes,458
+Nevada,CP35,Proposition 56,N/A,No,449
+Nevada,CP36,Proposition 56,N/A,Yes,207
+Nevada,CP36,Proposition 56,N/A,No,205
+Nevada,CP37,Proposition 56,N/A,Yes,914
+Nevada,CP37,Proposition 56,N/A,No,1138
+Nevada,CP38,Proposition 56,N/A,Yes,252
+Nevada,CP38,Proposition 56,N/A,No,283
+Nevada,CP39,Proposition 56,N/A,Yes,306
+Nevada,CP39,Proposition 56,N/A,No,324
+Nevada,CP40,Proposition 56,N/A,Yes,531
+Nevada,CP40,Proposition 56,N/A,No,235
+Nevada,CP41,Proposition 56,N/A,Yes,362
+Nevada,CP41,Proposition 56,N/A,No,267
+Nevada,CP42,Proposition 56,N/A,Yes,389
+Nevada,CP42,Proposition 56,N/A,No,161
+Nevada,CP43,Proposition 56,N/A,Yes,461
+Nevada,CP43,Proposition 56,N/A,No,205
+Nevada,CP44,Proposition 56,N/A,Yes,437
+Nevada,CP44,Proposition 56,N/A,No,182
+Nevada,CP45,Proposition 56,N/A,Yes,899
+Nevada,CP45,Proposition 56,N/A,No,284
+Nevada,CP46,Proposition 56,N/A,Yes,998
+Nevada,CP46,Proposition 56,N/A,No,402
+Nevada,CP47,Proposition 56,N/A,Yes,1094
+Nevada,CP47,Proposition 56,N/A,No,400
+Nevada,MB48,Proposition 56,N/A,Yes,3
+Nevada,MB48,Proposition 56,N/A,No,1
+Nevada,MB49,Proposition 56,N/A,Yes,3
+Nevada,MB49,Proposition 56,N/A,No,3
+Nevada,MB50,Proposition 56,N/A,Yes,4
+Nevada,MB50,Proposition 56,N/A,No,2
+Nevada,MB51,Proposition 56,N/A,Yes,0
+Nevada,MB51,Proposition 56,N/A,No,0
+Nevada,MB52,Proposition 56,N/A,Yes,234
+Nevada,MB52,Proposition 56,N/A,No,193
+Nevada,MB53,Proposition 56,N/A,Yes,0
+Nevada,MB53,Proposition 56,N/A,No,0
+Nevada,MB54,Proposition 56,N/A,Yes,107
+Nevada,MB54,Proposition 56,N/A,No,73
+Nevada,MB55,Proposition 56,N/A,Yes,0
+Nevada,MB55,Proposition 56,N/A,No,0
+Nevada,MB56,Proposition 56,N/A,Yes,84
+Nevada,MB56,Proposition 56,N/A,No,81
+Nevada,MB57,Proposition 56,N/A,Yes,449
+Nevada,MB57,Proposition 56,N/A,No,469
+Nevada,MB58,Proposition 56,N/A,Yes,206
+Nevada,MB58,Proposition 56,N/A,No,148
+Nevada,MB59,Proposition 56,N/A,Yes,4
+Nevada,MB59,Proposition 56,N/A,No,4
+Nevada,MB60,Proposition 56,N/A,Yes,101
+Nevada,MB60,Proposition 56,N/A,No,110
+Nevada,MB61,Proposition 56,N/A,Yes,50
+Nevada,MB61,Proposition 56,N/A,No,63
+Nevada,MB62,Proposition 56,N/A,Yes,409
+Nevada,MB62,Proposition 56,N/A,No,305
+Nevada,MB63,Proposition 56,N/A,Yes,32
+Nevada,MB63,Proposition 56,N/A,No,19
+Nevada,MB64,Proposition 56,N/A,Yes,346
+Nevada,MB64,Proposition 56,N/A,No,344
+Nevada,MB65,Proposition 56,N/A,Yes,79
+Nevada,MB65,Proposition 56,N/A,No,41
+Nevada,MB66,Proposition 56,N/A,Yes,85
+Nevada,MB66,Proposition 56,N/A,No,90
+Nevada,MB67,Proposition 56,N/A,Yes,20
+Nevada,MB67,Proposition 56,N/A,No,33
+Nevada,MB68,Proposition 56,N/A,Yes,51
+Nevada,MB68,Proposition 56,N/A,No,37
+Nevada,MB69,Proposition 56,N/A,Yes,94
+Nevada,MB69,Proposition 56,N/A,No,31
+Nevada,MB70,Proposition 56,N/A,Yes,54
+Nevada,MB70,Proposition 56,N/A,No,57
+Nevada,MB71,Proposition 56,N/A,Yes,302
+Nevada,MB71,Proposition 56,N/A,No,272
+Nevada,MB72,Proposition 56,N/A,Yes,54
+Nevada,MB72,Proposition 56,N/A,No,27
+Nevada,MB73,Proposition 56,N/A,Yes,16
+Nevada,MB73,Proposition 56,N/A,No,13
+Nevada,MB74,Proposition 56,N/A,Yes,271
+Nevada,MB74,Proposition 56,N/A,No,306
+Nevada,MB75,Proposition 56,N/A,Yes,131
+Nevada,MB75,Proposition 56,N/A,No,159
+Nevada,MB76,Proposition 56,N/A,Yes,0
+Nevada,MB76,Proposition 56,N/A,No,0
+Nevada,MB77,Proposition 56,N/A,Yes,42
+Nevada,MB77,Proposition 56,N/A,No,48
+Nevada,MB78,Proposition 56,N/A,Yes,260
+Nevada,MB78,Proposition 56,N/A,No,224
+Nevada,MB79,Proposition 56,N/A,Yes,94
+Nevada,MB79,Proposition 56,N/A,No,126
+Nevada,MB80,Proposition 56,N/A,Yes,18
+Nevada,MB80,Proposition 56,N/A,No,20
+Nevada,MB81,Proposition 56,N/A,Yes,52
+Nevada,MB81,Proposition 56,N/A,No,56
+Nevada,MB82,Proposition 56,N/A,Yes,14
+Nevada,MB82,Proposition 56,N/A,No,21
+Nevada,CP01,Proposition 57,N/A,Yes,811
+Nevada,CP01,Proposition 57,N/A,No,662
+Nevada,CP02,Proposition 57,N/A,Yes,360
+Nevada,CP02,Proposition 57,N/A,No,328
+Nevada,CP03,Proposition 57,N/A,Yes,402
+Nevada,CP03,Proposition 57,N/A,No,166
+Nevada,CP04,Proposition 57,N/A,Yes,842
+Nevada,CP04,Proposition 57,N/A,No,381
+Nevada,CP05,Proposition 57,N/A,Yes,441
+Nevada,CP05,Proposition 57,N/A,No,258
+Nevada,CP06,Proposition 57,N/A,Yes,936
+Nevada,CP06,Proposition 57,N/A,No,374
+Nevada,CP07,Proposition 57,N/A,Yes,1332
+Nevada,CP07,Proposition 57,N/A,No,876
+Nevada,CP08,Proposition 57,N/A,Yes,403
+Nevada,CP08,Proposition 57,N/A,No,366
+Nevada,CP09,Proposition 57,N/A,Yes,1230
+Nevada,CP09,Proposition 57,N/A,No,358
+Nevada,CP10,Proposition 57,N/A,Yes,298
+Nevada,CP10,Proposition 57,N/A,No,209
+Nevada,CP11,Proposition 57,N/A,Yes,612
+Nevada,CP11,Proposition 57,N/A,No,496
+Nevada,CP12,Proposition 57,N/A,Yes,504
+Nevada,CP12,Proposition 57,N/A,No,653
+Nevada,CP13,Proposition 57,N/A,Yes,1165
+Nevada,CP13,Proposition 57,N/A,No,1231
+Nevada,CP14,Proposition 57,N/A,Yes,190
+Nevada,CP14,Proposition 57,N/A,No,192
+Nevada,CP15,Proposition 57,N/A,Yes,565
+Nevada,CP15,Proposition 57,N/A,No,605
+Nevada,CP16,Proposition 57,N/A,Yes,61
+Nevada,CP16,Proposition 57,N/A,No,64
+Nevada,CP17,Proposition 57,N/A,Yes,835
+Nevada,CP17,Proposition 57,N/A,No,861
+Nevada,CP18,Proposition 57,N/A,Yes,617
+Nevada,CP18,Proposition 57,N/A,No,622
+Nevada,CP19,Proposition 57,N/A,Yes,710
+Nevada,CP19,Proposition 57,N/A,No,646
+Nevada,CP20,Proposition 57,N/A,Yes,170
+Nevada,CP20,Proposition 57,N/A,No,192
+Nevada,CP21,Proposition 57,N/A,Yes,216
+Nevada,CP21,Proposition 57,N/A,No,208
+Nevada,CP22,Proposition 57,N/A,Yes,120
+Nevada,CP22,Proposition 57,N/A,No,105
+Nevada,CP23,Proposition 57,N/A,Yes,345
+Nevada,CP23,Proposition 57,N/A,No,257
+Nevada,CP24,Proposition 57,N/A,Yes,768
+Nevada,CP24,Proposition 57,N/A,No,505
+Nevada,CP25,Proposition 57,N/A,Yes,782
+Nevada,CP25,Proposition 57,N/A,No,343
+Nevada,CP26,Proposition 57,N/A,Yes,964
+Nevada,CP26,Proposition 57,N/A,No,555
+Nevada,CP27,Proposition 57,N/A,Yes,580
+Nevada,CP27,Proposition 57,N/A,No,347
+Nevada,CP28,Proposition 57,N/A,Yes,1111
+Nevada,CP28,Proposition 57,N/A,No,332
+Nevada,CP29,Proposition 57,N/A,Yes,700
+Nevada,CP29,Proposition 57,N/A,No,633
+Nevada,CP30,Proposition 57,N/A,Yes,467
+Nevada,CP30,Proposition 57,N/A,No,294
+Nevada,CP31,Proposition 57,N/A,Yes,973
+Nevada,CP31,Proposition 57,N/A,No,914
+Nevada,CP32,Proposition 57,N/A,Yes,702
+Nevada,CP32,Proposition 57,N/A,No,619
+Nevada,CP33,Proposition 57,N/A,Yes,82
+Nevada,CP33,Proposition 57,N/A,No,56
+Nevada,CP34,Proposition 57,N/A,Yes,234
+Nevada,CP34,Proposition 57,N/A,No,151
+Nevada,CP35,Proposition 57,N/A,Yes,507
+Nevada,CP35,Proposition 57,N/A,No,386
+Nevada,CP36,Proposition 57,N/A,Yes,231
+Nevada,CP36,Proposition 57,N/A,No,175
+Nevada,CP37,Proposition 57,N/A,Yes,1022
+Nevada,CP37,Proposition 57,N/A,No,992
+Nevada,CP38,Proposition 57,N/A,Yes,286
+Nevada,CP38,Proposition 57,N/A,No,232
+Nevada,CP39,Proposition 57,N/A,Yes,337
+Nevada,CP39,Proposition 57,N/A,No,285
+Nevada,CP40,Proposition 57,N/A,Yes,545
+Nevada,CP40,Proposition 57,N/A,No,195
+Nevada,CP41,Proposition 57,N/A,Yes,487
+Nevada,CP41,Proposition 57,N/A,No,133
+Nevada,CP42,Proposition 57,N/A,Yes,471
+Nevada,CP42,Proposition 57,N/A,No,76
+Nevada,CP43,Proposition 57,N/A,Yes,544
+Nevada,CP43,Proposition 57,N/A,No,105
+Nevada,CP44,Proposition 57,N/A,Yes,457
+Nevada,CP44,Proposition 57,N/A,No,133
+Nevada,CP45,Proposition 57,N/A,Yes,886
+Nevada,CP45,Proposition 57,N/A,No,259
+Nevada,CP46,Proposition 57,N/A,Yes,1080
+Nevada,CP46,Proposition 57,N/A,No,297
+Nevada,CP47,Proposition 57,N/A,Yes,1146
+Nevada,CP47,Proposition 57,N/A,No,312
+Nevada,MB48,Proposition 57,N/A,Yes,3
+Nevada,MB48,Proposition 57,N/A,No,1
+Nevada,MB49,Proposition 57,N/A,Yes,4
+Nevada,MB49,Proposition 57,N/A,No,2
+Nevada,MB50,Proposition 57,N/A,Yes,2
+Nevada,MB50,Proposition 57,N/A,No,4
+Nevada,MB51,Proposition 57,N/A,Yes,0
+Nevada,MB51,Proposition 57,N/A,No,0
+Nevada,MB52,Proposition 57,N/A,Yes,264
+Nevada,MB52,Proposition 57,N/A,No,154
+Nevada,MB53,Proposition 57,N/A,Yes,0
+Nevada,MB53,Proposition 57,N/A,No,0
+Nevada,MB54,Proposition 57,N/A,Yes,135
+Nevada,MB54,Proposition 57,N/A,No,44
+Nevada,MB55,Proposition 57,N/A,Yes,0
+Nevada,MB55,Proposition 57,N/A,No,0
+Nevada,MB56,Proposition 57,N/A,Yes,114
+Nevada,MB56,Proposition 57,N/A,No,48
+Nevada,MB57,Proposition 57,N/A,Yes,518
+Nevada,MB57,Proposition 57,N/A,No,376
+Nevada,MB58,Proposition 57,N/A,Yes,253
+Nevada,MB58,Proposition 57,N/A,No,92
+Nevada,MB59,Proposition 57,N/A,Yes,6
+Nevada,MB59,Proposition 57,N/A,No,1
+Nevada,MB60,Proposition 57,N/A,Yes,116
+Nevada,MB60,Proposition 57,N/A,No,88
+Nevada,MB61,Proposition 57,N/A,Yes,59
+Nevada,MB61,Proposition 57,N/A,No,49
+Nevada,MB62,Proposition 57,N/A,Yes,399
+Nevada,MB62,Proposition 57,N/A,No,296
+Nevada,MB63,Proposition 57,N/A,Yes,36
+Nevada,MB63,Proposition 57,N/A,No,13
+Nevada,MB64,Proposition 57,N/A,Yes,355
+Nevada,MB64,Proposition 57,N/A,No,313
+Nevada,MB65,Proposition 57,N/A,Yes,92
+Nevada,MB65,Proposition 57,N/A,No,28
+Nevada,MB66,Proposition 57,N/A,Yes,100
+Nevada,MB66,Proposition 57,N/A,No,70
+Nevada,MB67,Proposition 57,N/A,Yes,39
+Nevada,MB67,Proposition 57,N/A,No,12
+Nevada,MB68,Proposition 57,N/A,Yes,64
+Nevada,MB68,Proposition 57,N/A,No,19
+Nevada,MB69,Proposition 57,N/A,Yes,83
+Nevada,MB69,Proposition 57,N/A,No,39
+Nevada,MB70,Proposition 57,N/A,Yes,58
+Nevada,MB70,Proposition 57,N/A,No,46
+Nevada,MB71,Proposition 57,N/A,Yes,335
+Nevada,MB71,Proposition 57,N/A,No,233
+Nevada,MB72,Proposition 57,N/A,Yes,58
+Nevada,MB72,Proposition 57,N/A,No,22
+Nevada,MB73,Proposition 57,N/A,Yes,17
+Nevada,MB73,Proposition 57,N/A,No,11
+Nevada,MB74,Proposition 57,N/A,Yes,295
+Nevada,MB74,Proposition 57,N/A,No,272
+Nevada,MB75,Proposition 57,N/A,Yes,176
+Nevada,MB75,Proposition 57,N/A,No,105
+Nevada,MB76,Proposition 57,N/A,Yes,0
+Nevada,MB76,Proposition 57,N/A,No,0
+Nevada,MB77,Proposition 57,N/A,Yes,56
+Nevada,MB77,Proposition 57,N/A,No,35
+Nevada,MB78,Proposition 57,N/A,Yes,304
+Nevada,MB78,Proposition 57,N/A,No,162
+Nevada,MB79,Proposition 57,N/A,Yes,105
+Nevada,MB79,Proposition 57,N/A,No,110
+Nevada,MB80,Proposition 57,N/A,Yes,17
+Nevada,MB80,Proposition 57,N/A,No,21
+Nevada,MB81,Proposition 57,N/A,Yes,50
+Nevada,MB81,Proposition 57,N/A,No,54
+Nevada,MB82,Proposition 57,N/A,Yes,12
+Nevada,MB82,Proposition 57,N/A,No,20
+Nevada,CP01,Proposition 58,N/A,Yes,904
+Nevada,CP01,Proposition 58,N/A,No,557
+Nevada,CP02,Proposition 58,N/A,Yes,411
+Nevada,CP02,Proposition 58,N/A,No,273
+Nevada,CP03,Proposition 58,N/A,Yes,417
+Nevada,CP03,Proposition 58,N/A,No,143
+Nevada,CP04,Proposition 58,N/A,Yes,877
+Nevada,CP04,Proposition 58,N/A,No,339
+Nevada,CP05,Proposition 58,N/A,Yes,473
+Nevada,CP05,Proposition 58,N/A,No,221
+Nevada,CP06,Proposition 58,N/A,Yes,954
+Nevada,CP06,Proposition 58,N/A,No,343
+Nevada,CP07,Proposition 58,N/A,Yes,1524
+Nevada,CP07,Proposition 58,N/A,No,688
+Nevada,CP08,Proposition 58,N/A,Yes,442
+Nevada,CP08,Proposition 58,N/A,No,323
+Nevada,CP09,Proposition 58,N/A,Yes,1258
+Nevada,CP09,Proposition 58,N/A,No,305
+Nevada,CP10,Proposition 58,N/A,Yes,320
+Nevada,CP10,Proposition 58,N/A,No,187
+Nevada,CP11,Proposition 58,N/A,Yes,736
+Nevada,CP11,Proposition 58,N/A,No,378
+Nevada,CP12,Proposition 58,N/A,Yes,612
+Nevada,CP12,Proposition 58,N/A,No,538
+Nevada,CP13,Proposition 58,N/A,Yes,1382
+Nevada,CP13,Proposition 58,N/A,No,1022
+Nevada,CP14,Proposition 58,N/A,Yes,230
+Nevada,CP14,Proposition 58,N/A,No,150
+Nevada,CP15,Proposition 58,N/A,Yes,651
+Nevada,CP15,Proposition 58,N/A,No,507
+Nevada,CP16,Proposition 58,N/A,Yes,70
+Nevada,CP16,Proposition 58,N/A,No,58
+Nevada,CP17,Proposition 58,N/A,Yes,1032
+Nevada,CP17,Proposition 58,N/A,No,653
+Nevada,CP18,Proposition 58,N/A,Yes,737
+Nevada,CP18,Proposition 58,N/A,No,505
+Nevada,CP19,Proposition 58,N/A,Yes,832
+Nevada,CP19,Proposition 58,N/A,No,525
+Nevada,CP20,Proposition 58,N/A,Yes,176
+Nevada,CP20,Proposition 58,N/A,No,184
+Nevada,CP21,Proposition 58,N/A,Yes,253
+Nevada,CP21,Proposition 58,N/A,No,175
+Nevada,CP22,Proposition 58,N/A,Yes,135
+Nevada,CP22,Proposition 58,N/A,No,87
+Nevada,CP23,Proposition 58,N/A,Yes,368
+Nevada,CP23,Proposition 58,N/A,No,235
+Nevada,CP24,Proposition 58,N/A,Yes,854
+Nevada,CP24,Proposition 58,N/A,No,417
+Nevada,CP25,Proposition 58,N/A,Yes,830
+Nevada,CP25,Proposition 58,N/A,No,277
+Nevada,CP26,Proposition 58,N/A,Yes,1091
+Nevada,CP26,Proposition 58,N/A,No,427
+Nevada,CP27,Proposition 58,N/A,Yes,619
+Nevada,CP27,Proposition 58,N/A,No,292
+Nevada,CP28,Proposition 58,N/A,Yes,1135
+Nevada,CP28,Proposition 58,N/A,No,316
+Nevada,CP29,Proposition 58,N/A,Yes,801
+Nevada,CP29,Proposition 58,N/A,No,536
+Nevada,CP30,Proposition 58,N/A,Yes,526
+Nevada,CP30,Proposition 58,N/A,No,237
+Nevada,CP31,Proposition 58,N/A,Yes,1133
+Nevada,CP31,Proposition 58,N/A,No,755
+Nevada,CP32,Proposition 58,N/A,Yes,799
+Nevada,CP32,Proposition 58,N/A,No,519
+Nevada,CP33,Proposition 58,N/A,Yes,95
+Nevada,CP33,Proposition 58,N/A,No,41
+Nevada,CP34,Proposition 58,N/A,Yes,262
+Nevada,CP34,Proposition 58,N/A,No,121
+Nevada,CP35,Proposition 58,N/A,Yes,519
+Nevada,CP35,Proposition 58,N/A,No,368
+Nevada,CP36,Proposition 58,N/A,Yes,250
+Nevada,CP36,Proposition 58,N/A,No,150
+Nevada,CP37,Proposition 58,N/A,Yes,1157
+Nevada,CP37,Proposition 58,N/A,No,844
+Nevada,CP38,Proposition 58,N/A,Yes,319
+Nevada,CP38,Proposition 58,N/A,No,203
+Nevada,CP39,Proposition 58,N/A,Yes,375
+Nevada,CP39,Proposition 58,N/A,No,243
+Nevada,CP40,Proposition 58,N/A,Yes,573
+Nevada,CP40,Proposition 58,N/A,No,165
+Nevada,CP41,Proposition 58,N/A,Yes,505
+Nevada,CP41,Proposition 58,N/A,No,108
+Nevada,CP42,Proposition 58,N/A,Yes,461
+Nevada,CP42,Proposition 58,N/A,No,81
+Nevada,CP43,Proposition 58,N/A,Yes,546
+Nevada,CP43,Proposition 58,N/A,No,107
+Nevada,CP44,Proposition 58,N/A,Yes,463
+Nevada,CP44,Proposition 58,N/A,No,125
+Nevada,CP45,Proposition 58,N/A,Yes,892
+Nevada,CP45,Proposition 58,N/A,No,248
+Nevada,CP46,Proposition 58,N/A,Yes,1133
+Nevada,CP46,Proposition 58,N/A,No,241
+Nevada,CP47,Proposition 58,N/A,Yes,1186
+Nevada,CP47,Proposition 58,N/A,No,284
+Nevada,MB48,Proposition 58,N/A,Yes,3
+Nevada,MB48,Proposition 58,N/A,No,1
+Nevada,MB49,Proposition 58,N/A,Yes,4
+Nevada,MB49,Proposition 58,N/A,No,2
+Nevada,MB50,Proposition 58,N/A,Yes,4
+Nevada,MB50,Proposition 58,N/A,No,2
+Nevada,MB51,Proposition 58,N/A,Yes,0
+Nevada,MB51,Proposition 58,N/A,No,0
+Nevada,MB52,Proposition 58,N/A,Yes,276
+Nevada,MB52,Proposition 58,N/A,No,136
+Nevada,MB53,Proposition 58,N/A,Yes,0
+Nevada,MB53,Proposition 58,N/A,No,0
+Nevada,MB54,Proposition 58,N/A,Yes,132
+Nevada,MB54,Proposition 58,N/A,No,43
+Nevada,MB55,Proposition 58,N/A,Yes,0
+Nevada,MB55,Proposition 58,N/A,No,0
+Nevada,MB56,Proposition 58,N/A,Yes,119
+Nevada,MB56,Proposition 58,N/A,No,43
+Nevada,MB57,Proposition 58,N/A,Yes,573
+Nevada,MB57,Proposition 58,N/A,No,317
+Nevada,MB58,Proposition 58,N/A,Yes,271
+Nevada,MB58,Proposition 58,N/A,No,68
+Nevada,MB59,Proposition 58,N/A,Yes,6
+Nevada,MB59,Proposition 58,N/A,No,1
+Nevada,MB60,Proposition 58,N/A,Yes,118
+Nevada,MB60,Proposition 58,N/A,No,90
+Nevada,MB61,Proposition 58,N/A,Yes,72
+Nevada,MB61,Proposition 58,N/A,No,37
+Nevada,MB62,Proposition 58,N/A,Yes,460
+Nevada,MB62,Proposition 58,N/A,No,237
+Nevada,MB63,Proposition 58,N/A,Yes,39
+Nevada,MB63,Proposition 58,N/A,No,11
+Nevada,MB64,Proposition 58,N/A,Yes,409
+Nevada,MB64,Proposition 58,N/A,No,262
+Nevada,MB65,Proposition 58,N/A,Yes,91
+Nevada,MB65,Proposition 58,N/A,No,28
+Nevada,MB66,Proposition 58,N/A,Yes,116
+Nevada,MB66,Proposition 58,N/A,No,56
+Nevada,MB67,Proposition 58,N/A,Yes,38
+Nevada,MB67,Proposition 58,N/A,No,15
+Nevada,MB68,Proposition 58,N/A,Yes,68
+Nevada,MB68,Proposition 58,N/A,No,16
+Nevada,MB69,Proposition 58,N/A,Yes,91
+Nevada,MB69,Proposition 58,N/A,No,32
+Nevada,MB70,Proposition 58,N/A,Yes,69
+Nevada,MB70,Proposition 58,N/A,No,35
+Nevada,MB71,Proposition 58,N/A,Yes,380
+Nevada,MB71,Proposition 58,N/A,No,190
+Nevada,MB72,Proposition 58,N/A,Yes,59
+Nevada,MB72,Proposition 58,N/A,No,22
+Nevada,MB73,Proposition 58,N/A,Yes,17
+Nevada,MB73,Proposition 58,N/A,No,10
+Nevada,MB74,Proposition 58,N/A,Yes,329
+Nevada,MB74,Proposition 58,N/A,No,243
+Nevada,MB75,Proposition 58,N/A,Yes,191
+Nevada,MB75,Proposition 58,N/A,No,92
+Nevada,MB76,Proposition 58,N/A,Yes,0
+Nevada,MB76,Proposition 58,N/A,No,0
+Nevada,MB77,Proposition 58,N/A,Yes,63
+Nevada,MB77,Proposition 58,N/A,No,27
+Nevada,MB78,Proposition 58,N/A,Yes,331
+Nevada,MB78,Proposition 58,N/A,No,137
+Nevada,MB79,Proposition 58,N/A,Yes,119
+Nevada,MB79,Proposition 58,N/A,No,95
+Nevada,MB80,Proposition 58,N/A,Yes,27
+Nevada,MB80,Proposition 58,N/A,No,9
+Nevada,MB81,Proposition 58,N/A,Yes,66
+Nevada,MB81,Proposition 58,N/A,No,41
+Nevada,MB82,Proposition 58,N/A,Yes,15
+Nevada,MB82,Proposition 58,N/A,No,18
+Nevada,CP01,Proposition 59,N/A,Yes,753
+Nevada,CP01,Proposition 59,N/A,No,660
+Nevada,CP02,Proposition 59,N/A,Yes,347
+Nevada,CP02,Proposition 59,N/A,No,323
+Nevada,CP03,Proposition 59,N/A,Yes,321
+Nevada,CP03,Proposition 59,N/A,No,217
+Nevada,CP04,Proposition 59,N/A,Yes,753
+Nevada,CP04,Proposition 59,N/A,No,424
+Nevada,CP05,Proposition 59,N/A,Yes,394
+Nevada,CP05,Proposition 59,N/A,No,280
+Nevada,CP06,Proposition 59,N/A,Yes,855
+Nevada,CP06,Proposition 59,N/A,No,417
+Nevada,CP07,Proposition 59,N/A,Yes,1184
+Nevada,CP07,Proposition 59,N/A,No,958
+Nevada,CP08,Proposition 59,N/A,Yes,354
+Nevada,CP08,Proposition 59,N/A,No,380
+Nevada,CP09,Proposition 59,N/A,Yes,1139
+Nevada,CP09,Proposition 59,N/A,No,392
+Nevada,CP10,Proposition 59,N/A,Yes,267
+Nevada,CP10,Proposition 59,N/A,No,219
+Nevada,CP11,Proposition 59,N/A,Yes,559
+Nevada,CP11,Proposition 59,N/A,No,497
+Nevada,CP12,Proposition 59,N/A,Yes,436
+Nevada,CP12,Proposition 59,N/A,No,676
+Nevada,CP13,Proposition 59,N/A,Yes,986
+Nevada,CP13,Proposition 59,N/A,No,1290
+Nevada,CP14,Proposition 59,N/A,Yes,182
+Nevada,CP14,Proposition 59,N/A,No,190
+Nevada,CP15,Proposition 59,N/A,Yes,487
+Nevada,CP15,Proposition 59,N/A,No,626
+Nevada,CP16,Proposition 59,N/A,Yes,53
+Nevada,CP16,Proposition 59,N/A,No,69
+Nevada,CP17,Proposition 59,N/A,Yes,715
+Nevada,CP17,Proposition 59,N/A,No,914
+Nevada,CP18,Proposition 59,N/A,Yes,546
+Nevada,CP18,Proposition 59,N/A,No,648
+Nevada,CP19,Proposition 59,N/A,Yes,590
+Nevada,CP19,Proposition 59,N/A,No,698
+Nevada,CP20,Proposition 59,N/A,Yes,150
+Nevada,CP20,Proposition 59,N/A,No,198
+Nevada,CP21,Proposition 59,N/A,Yes,190
+Nevada,CP21,Proposition 59,N/A,No,218
+Nevada,CP22,Proposition 59,N/A,Yes,110
+Nevada,CP22,Proposition 59,N/A,No,101
+Nevada,CP23,Proposition 59,N/A,Yes,317
+Nevada,CP23,Proposition 59,N/A,No,270
+Nevada,CP24,Proposition 59,N/A,Yes,706
+Nevada,CP24,Proposition 59,N/A,No,526
+Nevada,CP25,Proposition 59,N/A,Yes,702
+Nevada,CP25,Proposition 59,N/A,No,379
+Nevada,CP26,Proposition 59,N/A,Yes,866
+Nevada,CP26,Proposition 59,N/A,No,588
+Nevada,CP27,Proposition 59,N/A,Yes,477
+Nevada,CP27,Proposition 59,N/A,No,387
+Nevada,CP28,Proposition 59,N/A,Yes,785
+Nevada,CP28,Proposition 59,N/A,No,567
+Nevada,CP29,Proposition 59,N/A,Yes,624
+Nevada,CP29,Proposition 59,N/A,No,650
+Nevada,CP30,Proposition 59,N/A,Yes,393
+Nevada,CP30,Proposition 59,N/A,No,330
+Nevada,CP31,Proposition 59,N/A,Yes,849
+Nevada,CP31,Proposition 59,N/A,No,965
+Nevada,CP32,Proposition 59,N/A,Yes,620
+Nevada,CP32,Proposition 59,N/A,No,640
+Nevada,CP33,Proposition 59,N/A,Yes,89
+Nevada,CP33,Proposition 59,N/A,No,43
+Nevada,CP34,Proposition 59,N/A,Yes,197
+Nevada,CP34,Proposition 59,N/A,No,176
+Nevada,CP35,Proposition 59,N/A,Yes,433
+Nevada,CP35,Proposition 59,N/A,No,421
+Nevada,CP36,Proposition 59,N/A,Yes,202
+Nevada,CP36,Proposition 59,N/A,No,185
+Nevada,CP37,Proposition 59,N/A,Yes,882
+Nevada,CP37,Proposition 59,N/A,No,1043
+Nevada,CP38,Proposition 59,N/A,Yes,247
+Nevada,CP38,Proposition 59,N/A,No,263
+Nevada,CP39,Proposition 59,N/A,Yes,318
+Nevada,CP39,Proposition 59,N/A,No,291
+Nevada,CP40,Proposition 59,N/A,Yes,417
+Nevada,CP40,Proposition 59,N/A,No,289
+Nevada,CP41,Proposition 59,N/A,Yes,431
+Nevada,CP41,Proposition 59,N/A,No,159
+Nevada,CP42,Proposition 59,N/A,Yes,410
+Nevada,CP42,Proposition 59,N/A,No,108
+Nevada,CP43,Proposition 59,N/A,Yes,416
+Nevada,CP43,Proposition 59,N/A,No,195
+Nevada,CP44,Proposition 59,N/A,Yes,346
+Nevada,CP44,Proposition 59,N/A,No,206
+Nevada,CP45,Proposition 59,N/A,Yes,699
+Nevada,CP45,Proposition 59,N/A,No,382
+Nevada,CP46,Proposition 59,N/A,Yes,823
+Nevada,CP46,Proposition 59,N/A,No,461
+Nevada,CP47,Proposition 59,N/A,Yes,823
+Nevada,CP47,Proposition 59,N/A,No,552
+Nevada,MB48,Proposition 59,N/A,Yes,2
+Nevada,MB48,Proposition 59,N/A,No,2
+Nevada,MB49,Proposition 59,N/A,Yes,4
+Nevada,MB49,Proposition 59,N/A,No,1
+Nevada,MB50,Proposition 59,N/A,Yes,5
+Nevada,MB50,Proposition 59,N/A,No,1
+Nevada,MB51,Proposition 59,N/A,Yes,0
+Nevada,MB51,Proposition 59,N/A,No,0
+Nevada,MB52,Proposition 59,N/A,Yes,235
+Nevada,MB52,Proposition 59,N/A,No,163
+Nevada,MB53,Proposition 59,N/A,Yes,0
+Nevada,MB53,Proposition 59,N/A,No,0
+Nevada,MB54,Proposition 59,N/A,Yes,121
+Nevada,MB54,Proposition 59,N/A,No,51
+Nevada,MB55,Proposition 59,N/A,Yes,0
+Nevada,MB55,Proposition 59,N/A,No,0
+Nevada,MB56,Proposition 59,N/A,Yes,102
+Nevada,MB56,Proposition 59,N/A,No,52
+Nevada,MB57,Proposition 59,N/A,Yes,444
+Nevada,MB57,Proposition 59,N/A,No,423
+Nevada,MB58,Proposition 59,N/A,Yes,234
+Nevada,MB58,Proposition 59,N/A,No,100
+Nevada,MB59,Proposition 59,N/A,Yes,7
+Nevada,MB59,Proposition 59,N/A,No,1
+Nevada,MB60,Proposition 59,N/A,Yes,93
+Nevada,MB60,Proposition 59,N/A,No,99
+Nevada,MB61,Proposition 59,N/A,Yes,54
+Nevada,MB61,Proposition 59,N/A,No,56
+Nevada,MB62,Proposition 59,N/A,Yes,354
+Nevada,MB62,Proposition 59,N/A,No,317
+Nevada,MB63,Proposition 59,N/A,Yes,30
+Nevada,MB63,Proposition 59,N/A,No,18
+Nevada,MB64,Proposition 59,N/A,Yes,345
+Nevada,MB64,Proposition 59,N/A,No,310
+Nevada,MB65,Proposition 59,N/A,Yes,78
+Nevada,MB65,Proposition 59,N/A,No,32
+Nevada,MB66,Proposition 59,N/A,Yes,89
+Nevada,MB66,Proposition 59,N/A,No,80
+Nevada,MB67,Proposition 59,N/A,Yes,34
+Nevada,MB67,Proposition 59,N/A,No,17
+Nevada,MB68,Proposition 59,N/A,Yes,40
+Nevada,MB68,Proposition 59,N/A,No,41
+Nevada,MB69,Proposition 59,N/A,Yes,69
+Nevada,MB69,Proposition 59,N/A,No,52
+Nevada,MB70,Proposition 59,N/A,Yes,52
+Nevada,MB70,Proposition 59,N/A,No,54
+Nevada,MB71,Proposition 59,N/A,Yes,315
+Nevada,MB71,Proposition 59,N/A,No,242
+Nevada,MB72,Proposition 59,N/A,Yes,46
+Nevada,MB72,Proposition 59,N/A,No,28
+Nevada,MB73,Proposition 59,N/A,Yes,8
+Nevada,MB73,Proposition 59,N/A,No,18
+Nevada,MB74,Proposition 59,N/A,Yes,246
+Nevada,MB74,Proposition 59,N/A,No,302
+Nevada,MB75,Proposition 59,N/A,Yes,157
+Nevada,MB75,Proposition 59,N/A,No,113
+Nevada,MB76,Proposition 59,N/A,Yes,0
+Nevada,MB76,Proposition 59,N/A,No,0
+Nevada,MB77,Proposition 59,N/A,Yes,40
+Nevada,MB77,Proposition 59,N/A,No,49
+Nevada,MB78,Proposition 59,N/A,Yes,260
+Nevada,MB78,Proposition 59,N/A,No,194
+Nevada,MB79,Proposition 59,N/A,Yes,101
+Nevada,MB79,Proposition 59,N/A,No,111
+Nevada,MB80,Proposition 59,N/A,Yes,19
+Nevada,MB80,Proposition 59,N/A,No,18
+Nevada,MB81,Proposition 59,N/A,Yes,45
+Nevada,MB81,Proposition 59,N/A,No,53
+Nevada,MB82,Proposition 59,N/A,Yes,17
+Nevada,MB82,Proposition 59,N/A,No,16
+Nevada,CP01,Proposition 60,N/A,Yes,428
+Nevada,CP01,Proposition 60,N/A,No,1008
+Nevada,CP02,Proposition 60,N/A,Yes,216
+Nevada,CP02,Proposition 60,N/A,No,454
+Nevada,CP03,Proposition 60,N/A,Yes,257
+Nevada,CP03,Proposition 60,N/A,No,297
+Nevada,CP04,Proposition 60,N/A,Yes,364
+Nevada,CP04,Proposition 60,N/A,No,802
+Nevada,CP05,Proposition 60,N/A,Yes,215
+Nevada,CP05,Proposition 60,N/A,No,468
+Nevada,CP06,Proposition 60,N/A,Yes,393
+Nevada,CP06,Proposition 60,N/A,No,860
+Nevada,CP07,Proposition 60,N/A,Yes,697
+Nevada,CP07,Proposition 60,N/A,No,1452
+Nevada,CP08,Proposition 60,N/A,Yes,229
+Nevada,CP08,Proposition 60,N/A,No,525
+Nevada,CP09,Proposition 60,N/A,Yes,478
+Nevada,CP09,Proposition 60,N/A,No,1052
+Nevada,CP10,Proposition 60,N/A,Yes,149
+Nevada,CP10,Proposition 60,N/A,No,345
+Nevada,CP11,Proposition 60,N/A,Yes,342
+Nevada,CP11,Proposition 60,N/A,No,737
+Nevada,CP12,Proposition 60,N/A,Yes,336
+Nevada,CP12,Proposition 60,N/A,No,786
+Nevada,CP13,Proposition 60,N/A,Yes,804
+Nevada,CP13,Proposition 60,N/A,No,1549
+Nevada,CP14,Proposition 60,N/A,Yes,113
+Nevada,CP14,Proposition 60,N/A,No,260
+Nevada,CP15,Proposition 60,N/A,Yes,345
+Nevada,CP15,Proposition 60,N/A,No,795
+Nevada,CP16,Proposition 60,N/A,Yes,27
+Nevada,CP16,Proposition 60,N/A,No,98
+Nevada,CP17,Proposition 60,N/A,Yes,541
+Nevada,CP17,Proposition 60,N/A,No,1107
+Nevada,CP18,Proposition 60,N/A,Yes,394
+Nevada,CP18,Proposition 60,N/A,No,823
+Nevada,CP19,Proposition 60,N/A,Yes,450
+Nevada,CP19,Proposition 60,N/A,No,868
+Nevada,CP20,Proposition 60,N/A,Yes,108
+Nevada,CP20,Proposition 60,N/A,No,245
+Nevada,CP21,Proposition 60,N/A,Yes,147
+Nevada,CP21,Proposition 60,N/A,No,269
+Nevada,CP22,Proposition 60,N/A,Yes,54
+Nevada,CP22,Proposition 60,N/A,No,168
+Nevada,CP23,Proposition 60,N/A,Yes,218
+Nevada,CP23,Proposition 60,N/A,No,360
+Nevada,CP24,Proposition 60,N/A,Yes,400
+Nevada,CP24,Proposition 60,N/A,No,850
+Nevada,CP25,Proposition 60,N/A,Yes,409
+Nevada,CP25,Proposition 60,N/A,No,680
+Nevada,CP26,Proposition 60,N/A,Yes,534
+Nevada,CP26,Proposition 60,N/A,No,943
+Nevada,CP27,Proposition 60,N/A,Yes,384
+Nevada,CP27,Proposition 60,N/A,No,508
+Nevada,CP28,Proposition 60,N/A,Yes,443
+Nevada,CP28,Proposition 60,N/A,No,974
+Nevada,CP29,Proposition 60,N/A,Yes,411
+Nevada,CP29,Proposition 60,N/A,No,876
+Nevada,CP30,Proposition 60,N/A,Yes,262
+Nevada,CP30,Proposition 60,N/A,No,463
+Nevada,CP31,Proposition 60,N/A,Yes,651
+Nevada,CP31,Proposition 60,N/A,No,1175
+Nevada,CP32,Proposition 60,N/A,Yes,457
+Nevada,CP32,Proposition 60,N/A,No,818
+Nevada,CP33,Proposition 60,N/A,Yes,47
+Nevada,CP33,Proposition 60,N/A,No,85
+Nevada,CP34,Proposition 60,N/A,Yes,103
+Nevada,CP34,Proposition 60,N/A,No,269
+Nevada,CP35,Proposition 60,N/A,Yes,266
+Nevada,CP35,Proposition 60,N/A,No,597
+Nevada,CP36,Proposition 60,N/A,Yes,131
+Nevada,CP36,Proposition 60,N/A,No,263
+Nevada,CP37,Proposition 60,N/A,Yes,628
+Nevada,CP37,Proposition 60,N/A,No,1317
+Nevada,CP38,Proposition 60,N/A,Yes,169
+Nevada,CP38,Proposition 60,N/A,No,340
+Nevada,CP39,Proposition 60,N/A,Yes,172
+Nevada,CP39,Proposition 60,N/A,No,435
+Nevada,CP40,Proposition 60,N/A,Yes,215
+Nevada,CP40,Proposition 60,N/A,No,490
+Nevada,CP41,Proposition 60,N/A,Yes,222
+Nevada,CP41,Proposition 60,N/A,No,375
+Nevada,CP42,Proposition 60,N/A,Yes,202
+Nevada,CP42,Proposition 60,N/A,No,321
+Nevada,CP43,Proposition 60,N/A,Yes,220
+Nevada,CP43,Proposition 60,N/A,No,415
+Nevada,CP44,Proposition 60,N/A,Yes,188
+Nevada,CP44,Proposition 60,N/A,No,393
+Nevada,CP45,Proposition 60,N/A,Yes,344
+Nevada,CP45,Proposition 60,N/A,No,756
+Nevada,CP46,Proposition 60,N/A,Yes,467
+Nevada,CP46,Proposition 60,N/A,No,874
+Nevada,CP47,Proposition 60,N/A,Yes,481
+Nevada,CP47,Proposition 60,N/A,No,942
+Nevada,MB48,Proposition 60,N/A,Yes,0
+Nevada,MB48,Proposition 60,N/A,No,4
+Nevada,MB49,Proposition 60,N/A,Yes,2
+Nevada,MB49,Proposition 60,N/A,No,3
+Nevada,MB50,Proposition 60,N/A,Yes,1
+Nevada,MB50,Proposition 60,N/A,No,5
+Nevada,MB51,Proposition 60,N/A,Yes,0
+Nevada,MB51,Proposition 60,N/A,No,0
+Nevada,MB52,Proposition 60,N/A,Yes,135
+Nevada,MB52,Proposition 60,N/A,No,266
+Nevada,MB53,Proposition 60,N/A,Yes,0
+Nevada,MB53,Proposition 60,N/A,No,0
+Nevada,MB54,Proposition 60,N/A,Yes,52
+Nevada,MB54,Proposition 60,N/A,No,115
+Nevada,MB55,Proposition 60,N/A,Yes,0
+Nevada,MB55,Proposition 60,N/A,No,0
+Nevada,MB56,Proposition 60,N/A,Yes,58
+Nevada,MB56,Proposition 60,N/A,No,100
+Nevada,MB57,Proposition 60,N/A,Yes,230
+Nevada,MB57,Proposition 60,N/A,No,624
+Nevada,MB58,Proposition 60,N/A,Yes,121
+Nevada,MB58,Proposition 60,N/A,No,216
+Nevada,MB59,Proposition 60,N/A,Yes,3
+Nevada,MB59,Proposition 60,N/A,No,5
+Nevada,MB60,Proposition 60,N/A,Yes,74
+Nevada,MB60,Proposition 60,N/A,No,129
+Nevada,MB61,Proposition 60,N/A,Yes,37
+Nevada,MB61,Proposition 60,N/A,No,76
+Nevada,MB62,Proposition 60,N/A,Yes,246
+Nevada,MB62,Proposition 60,N/A,No,425
+Nevada,MB63,Proposition 60,N/A,Yes,14
+Nevada,MB63,Proposition 60,N/A,No,33
+Nevada,MB64,Proposition 60,N/A,Yes,236
+Nevada,MB64,Proposition 60,N/A,No,418
+Nevada,MB65,Proposition 60,N/A,Yes,42
+Nevada,MB65,Proposition 60,N/A,No,70
+Nevada,MB66,Proposition 60,N/A,Yes,52
+Nevada,MB66,Proposition 60,N/A,No,115
+Nevada,MB67,Proposition 60,N/A,Yes,13
+Nevada,MB67,Proposition 60,N/A,No,36
+Nevada,MB68,Proposition 60,N/A,Yes,28
+Nevada,MB68,Proposition 60,N/A,No,54
+Nevada,MB69,Proposition 60,N/A,Yes,48
+Nevada,MB69,Proposition 60,N/A,No,70
+Nevada,MB70,Proposition 60,N/A,Yes,48
+Nevada,MB70,Proposition 60,N/A,No,60
+Nevada,MB71,Proposition 60,N/A,Yes,191
+Nevada,MB71,Proposition 60,N/A,No,361
+Nevada,MB72,Proposition 60,N/A,Yes,22
+Nevada,MB72,Proposition 60,N/A,No,57
+Nevada,MB73,Proposition 60,N/A,Yes,8
+Nevada,MB73,Proposition 60,N/A,No,19
+Nevada,MB74,Proposition 60,N/A,Yes,161
+Nevada,MB74,Proposition 60,N/A,No,388
+Nevada,MB75,Proposition 60,N/A,Yes,84
+Nevada,MB75,Proposition 60,N/A,No,187
+Nevada,MB76,Proposition 60,N/A,Yes,0
+Nevada,MB76,Proposition 60,N/A,No,0
+Nevada,MB77,Proposition 60,N/A,Yes,30
+Nevada,MB77,Proposition 60,N/A,No,58
+Nevada,MB78,Proposition 60,N/A,Yes,167
+Nevada,MB78,Proposition 60,N/A,No,288
+Nevada,MB79,Proposition 60,N/A,Yes,71
+Nevada,MB79,Proposition 60,N/A,No,138
+Nevada,MB80,Proposition 60,N/A,Yes,9
+Nevada,MB80,Proposition 60,N/A,No,29
+Nevada,MB81,Proposition 60,N/A,Yes,36
+Nevada,MB81,Proposition 60,N/A,No,59
+Nevada,MB82,Proposition 60,N/A,Yes,6
+Nevada,MB82,Proposition 60,N/A,No,26
+Nevada,CP01,Proposition 61,N/A,Yes,625
+Nevada,CP01,Proposition 61,N/A,No,827
+Nevada,CP02,Proposition 61,N/A,Yes,277
+Nevada,CP02,Proposition 61,N/A,No,410
+Nevada,CP03,Proposition 61,N/A,Yes,288
+Nevada,CP03,Proposition 61,N/A,No,281
+Nevada,CP04,Proposition 61,N/A,Yes,641
+Nevada,CP04,Proposition 61,N/A,No,562
+Nevada,CP05,Proposition 61,N/A,Yes,335
+Nevada,CP05,Proposition 61,N/A,No,364
+Nevada,CP06,Proposition 61,N/A,Yes,701
+Nevada,CP06,Proposition 61,N/A,No,573
+Nevada,CP07,Proposition 61,N/A,Yes,1023
+Nevada,CP07,Proposition 61,N/A,No,1165
+Nevada,CP08,Proposition 61,N/A,Yes,298
+Nevada,CP08,Proposition 61,N/A,No,466
+Nevada,CP09,Proposition 61,N/A,Yes,888
+Nevada,CP09,Proposition 61,N/A,No,643
+Nevada,CP10,Proposition 61,N/A,Yes,232
+Nevada,CP10,Proposition 61,N/A,No,271
+Nevada,CP11,Proposition 61,N/A,Yes,471
+Nevada,CP11,Proposition 61,N/A,No,622
+Nevada,CP12,Proposition 61,N/A,Yes,348
+Nevada,CP12,Proposition 61,N/A,No,784
+Nevada,CP13,Proposition 61,N/A,Yes,828
+Nevada,CP13,Proposition 61,N/A,No,1537
+Nevada,CP14,Proposition 61,N/A,Yes,139
+Nevada,CP14,Proposition 61,N/A,No,238
+Nevada,CP15,Proposition 61,N/A,Yes,413
+Nevada,CP15,Proposition 61,N/A,No,740
+Nevada,CP16,Proposition 61,N/A,Yes,46
+Nevada,CP16,Proposition 61,N/A,No,86
+Nevada,CP17,Proposition 61,N/A,Yes,624
+Nevada,CP17,Proposition 61,N/A,No,1057
+Nevada,CP18,Proposition 61,N/A,Yes,496
+Nevada,CP18,Proposition 61,N/A,No,729
+Nevada,CP19,Proposition 61,N/A,Yes,491
+Nevada,CP19,Proposition 61,N/A,No,849
+Nevada,CP20,Proposition 61,N/A,Yes,128
+Nevada,CP20,Proposition 61,N/A,No,234
+Nevada,CP21,Proposition 61,N/A,Yes,159
+Nevada,CP21,Proposition 61,N/A,No,267
+Nevada,CP22,Proposition 61,N/A,Yes,89
+Nevada,CP22,Proposition 61,N/A,No,132
+Nevada,CP23,Proposition 61,N/A,Yes,229
+Nevada,CP23,Proposition 61,N/A,No,366
+Nevada,CP24,Proposition 61,N/A,Yes,528
+Nevada,CP24,Proposition 61,N/A,No,725
+Nevada,CP25,Proposition 61,N/A,Yes,573
+Nevada,CP25,Proposition 61,N/A,No,528
+Nevada,CP26,Proposition 61,N/A,Yes,701
+Nevada,CP26,Proposition 61,N/A,No,786
+Nevada,CP27,Proposition 61,N/A,Yes,439
+Nevada,CP27,Proposition 61,N/A,No,475
+Nevada,CP28,Proposition 61,N/A,Yes,660
+Nevada,CP28,Proposition 61,N/A,No,747
+Nevada,CP29,Proposition 61,N/A,Yes,513
+Nevada,CP29,Proposition 61,N/A,No,803
+Nevada,CP30,Proposition 61,N/A,Yes,327
+Nevada,CP30,Proposition 61,N/A,No,428
+Nevada,CP31,Proposition 61,N/A,Yes,707
+Nevada,CP31,Proposition 61,N/A,No,1166
+Nevada,CP32,Proposition 61,N/A,Yes,483
+Nevada,CP32,Proposition 61,N/A,No,820
+Nevada,CP33,Proposition 61,N/A,Yes,67
+Nevada,CP33,Proposition 61,N/A,No,69
+Nevada,CP34,Proposition 61,N/A,Yes,172
+Nevada,CP34,Proposition 61,N/A,No,203
+Nevada,CP35,Proposition 61,N/A,Yes,379
+Nevada,CP35,Proposition 61,N/A,No,490
+Nevada,CP36,Proposition 61,N/A,Yes,165
+Nevada,CP36,Proposition 61,N/A,No,232
+Nevada,CP37,Proposition 61,N/A,Yes,739
+Nevada,CP37,Proposition 61,N/A,No,1248
+Nevada,CP38,Proposition 61,N/A,Yes,235
+Nevada,CP38,Proposition 61,N/A,No,289
+Nevada,CP39,Proposition 61,N/A,Yes,281
+Nevada,CP39,Proposition 61,N/A,No,336
+Nevada,CP40,Proposition 61,N/A,Yes,363
+Nevada,CP40,Proposition 61,N/A,No,360
+Nevada,CP41,Proposition 61,N/A,Yes,391
+Nevada,CP41,Proposition 61,N/A,No,213
+Nevada,CP42,Proposition 61,N/A,Yes,299
+Nevada,CP42,Proposition 61,N/A,No,234
+Nevada,CP43,Proposition 61,N/A,Yes,330
+Nevada,CP43,Proposition 61,N/A,No,311
+Nevada,CP44,Proposition 61,N/A,Yes,278
+Nevada,CP44,Proposition 61,N/A,No,309
+Nevada,CP45,Proposition 61,N/A,Yes,539
+Nevada,CP45,Proposition 61,N/A,No,574
+Nevada,CP46,Proposition 61,N/A,Yes,690
+Nevada,CP46,Proposition 61,N/A,No,638
+Nevada,CP47,Proposition 61,N/A,Yes,737
+Nevada,CP47,Proposition 61,N/A,No,692
+Nevada,MB48,Proposition 61,N/A,Yes,1
+Nevada,MB48,Proposition 61,N/A,No,3
+Nevada,MB49,Proposition 61,N/A,Yes,5
+Nevada,MB49,Proposition 61,N/A,No,1
+Nevada,MB50,Proposition 61,N/A,Yes,3
+Nevada,MB50,Proposition 61,N/A,No,3
+Nevada,MB51,Proposition 61,N/A,Yes,0
+Nevada,MB51,Proposition 61,N/A,No,0
+Nevada,MB52,Proposition 61,N/A,Yes,183
+Nevada,MB52,Proposition 61,N/A,No,230
+Nevada,MB53,Proposition 61,N/A,Yes,0
+Nevada,MB53,Proposition 61,N/A,No,0
+Nevada,MB54,Proposition 61,N/A,Yes,83
+Nevada,MB54,Proposition 61,N/A,No,90
+Nevada,MB55,Proposition 61,N/A,Yes,0
+Nevada,MB55,Proposition 61,N/A,No,0
+Nevada,MB56,Proposition 61,N/A,Yes,82
+Nevada,MB56,Proposition 61,N/A,No,84
+Nevada,MB57,Proposition 61,N/A,Yes,388
+Nevada,MB57,Proposition 61,N/A,No,501
+Nevada,MB58,Proposition 61,N/A,Yes,188
+Nevada,MB58,Proposition 61,N/A,No,148
+Nevada,MB59,Proposition 61,N/A,Yes,5
+Nevada,MB59,Proposition 61,N/A,No,3
+Nevada,MB60,Proposition 61,N/A,Yes,83
+Nevada,MB60,Proposition 61,N/A,No,119
+Nevada,MB61,Proposition 61,N/A,Yes,46
+Nevada,MB61,Proposition 61,N/A,No,64
+Nevada,MB62,Proposition 61,N/A,Yes,288
+Nevada,MB62,Proposition 61,N/A,No,397
+Nevada,MB63,Proposition 61,N/A,Yes,22
+Nevada,MB63,Proposition 61,N/A,No,26
+Nevada,MB64,Proposition 61,N/A,Yes,270
+Nevada,MB64,Proposition 61,N/A,No,403
+Nevada,MB65,Proposition 61,N/A,Yes,57
+Nevada,MB65,Proposition 61,N/A,No,58
+Nevada,MB66,Proposition 61,N/A,Yes,69
+Nevada,MB66,Proposition 61,N/A,No,101
+Nevada,MB67,Proposition 61,N/A,Yes,32
+Nevada,MB67,Proposition 61,N/A,No,20
+Nevada,MB68,Proposition 61,N/A,Yes,43
+Nevada,MB68,Proposition 61,N/A,No,40
+Nevada,MB69,Proposition 61,N/A,Yes,56
+Nevada,MB69,Proposition 61,N/A,No,63
+Nevada,MB70,Proposition 61,N/A,Yes,48
+Nevada,MB70,Proposition 61,N/A,No,58
+Nevada,MB71,Proposition 61,N/A,Yes,256
+Nevada,MB71,Proposition 61,N/A,No,308
+Nevada,MB72,Proposition 61,N/A,Yes,39
+Nevada,MB72,Proposition 61,N/A,No,41
+Nevada,MB73,Proposition 61,N/A,Yes,11
+Nevada,MB73,Proposition 61,N/A,No,17
+Nevada,MB74,Proposition 61,N/A,Yes,230
+Nevada,MB74,Proposition 61,N/A,No,336
+Nevada,MB75,Proposition 61,N/A,Yes,115
+Nevada,MB75,Proposition 61,N/A,No,163
+Nevada,MB76,Proposition 61,N/A,Yes,0
+Nevada,MB76,Proposition 61,N/A,No,0
+Nevada,MB77,Proposition 61,N/A,Yes,49
+Nevada,MB77,Proposition 61,N/A,No,41
+Nevada,MB78,Proposition 61,N/A,Yes,227
+Nevada,MB78,Proposition 61,N/A,No,232
+Nevada,MB79,Proposition 61,N/A,Yes,79
+Nevada,MB79,Proposition 61,N/A,No,130
+Nevada,MB80,Proposition 61,N/A,Yes,14
+Nevada,MB80,Proposition 61,N/A,No,20
+Nevada,MB81,Proposition 61,N/A,Yes,50
+Nevada,MB81,Proposition 61,N/A,No,55
+Nevada,MB82,Proposition 61,N/A,Yes,10
+Nevada,MB82,Proposition 61,N/A,No,23
+Nevada,CP01,Proposition 62,N/A,Yes,569
+Nevada,CP01,Proposition 62,N/A,No,893
+Nevada,CP02,Proposition 62,N/A,Yes,291
+Nevada,CP02,Proposition 62,N/A,No,404
+Nevada,CP03,Proposition 62,N/A,Yes,270
+Nevada,CP03,Proposition 62,N/A,No,295
+Nevada,CP04,Proposition 62,N/A,Yes,708
+Nevada,CP04,Proposition 62,N/A,No,519
+Nevada,CP05,Proposition 62,N/A,Yes,333
+Nevada,CP05,Proposition 62,N/A,No,379
+Nevada,CP06,Proposition 62,N/A,Yes,777
+Nevada,CP06,Proposition 62,N/A,No,535
+Nevada,CP07,Proposition 62,N/A,Yes,1124
+Nevada,CP07,Proposition 62,N/A,No,1117
+Nevada,CP08,Proposition 62,N/A,Yes,294
+Nevada,CP08,Proposition 62,N/A,No,481
+Nevada,CP09,Proposition 62,N/A,Yes,1073
+Nevada,CP09,Proposition 62,N/A,No,515
+Nevada,CP10,Proposition 62,N/A,Yes,254
+Nevada,CP10,Proposition 62,N/A,No,258
+Nevada,CP11,Proposition 62,N/A,Yes,484
+Nevada,CP11,Proposition 62,N/A,No,622
+Nevada,CP12,Proposition 62,N/A,Yes,300
+Nevada,CP12,Proposition 62,N/A,No,857
+Nevada,CP13,Proposition 62,N/A,Yes,772
+Nevada,CP13,Proposition 62,N/A,No,1625
+Nevada,CP14,Proposition 62,N/A,Yes,137
+Nevada,CP14,Proposition 62,N/A,No,240
+Nevada,CP15,Proposition 62,N/A,Yes,370
+Nevada,CP15,Proposition 62,N/A,No,802
+Nevada,CP16,Proposition 62,N/A,Yes,45
+Nevada,CP16,Proposition 62,N/A,No,88
+Nevada,CP17,Proposition 62,N/A,Yes,574
+Nevada,CP17,Proposition 62,N/A,No,1135
+Nevada,CP18,Proposition 62,N/A,Yes,434
+Nevada,CP18,Proposition 62,N/A,No,803
+Nevada,CP19,Proposition 62,N/A,Yes,487
+Nevada,CP19,Proposition 62,N/A,No,867
+Nevada,CP20,Proposition 62,N/A,Yes,104
+Nevada,CP20,Proposition 62,N/A,No,257
+Nevada,CP21,Proposition 62,N/A,Yes,134
+Nevada,CP21,Proposition 62,N/A,No,292
+Nevada,CP22,Proposition 62,N/A,Yes,78
+Nevada,CP22,Proposition 62,N/A,No,150
+Nevada,CP23,Proposition 62,N/A,Yes,260
+Nevada,CP23,Proposition 62,N/A,No,345
+Nevada,CP24,Proposition 62,N/A,Yes,562
+Nevada,CP24,Proposition 62,N/A,No,713
+Nevada,CP25,Proposition 62,N/A,Yes,590
+Nevada,CP25,Proposition 62,N/A,No,529
+Nevada,CP26,Proposition 62,N/A,Yes,700
+Nevada,CP26,Proposition 62,N/A,No,816
+Nevada,CP27,Proposition 62,N/A,Yes,397
+Nevada,CP27,Proposition 62,N/A,No,535
+Nevada,CP28,Proposition 62,N/A,Yes,750
+Nevada,CP28,Proposition 62,N/A,No,694
+Nevada,CP29,Proposition 62,N/A,Yes,487
+Nevada,CP29,Proposition 62,N/A,No,848
+Nevada,CP30,Proposition 62,N/A,Yes,325
+Nevada,CP30,Proposition 62,N/A,No,436
+Nevada,CP31,Proposition 62,N/A,Yes,686
+Nevada,CP31,Proposition 62,N/A,No,1188
+Nevada,CP32,Proposition 62,N/A,Yes,513
+Nevada,CP32,Proposition 62,N/A,No,797
+Nevada,CP33,Proposition 62,N/A,Yes,76
+Nevada,CP33,Proposition 62,N/A,No,57
+Nevada,CP34,Proposition 62,N/A,Yes,191
+Nevada,CP34,Proposition 62,N/A,No,200
+Nevada,CP35,Proposition 62,N/A,Yes,370
+Nevada,CP35,Proposition 62,N/A,No,515
+Nevada,CP36,Proposition 62,N/A,Yes,161
+Nevada,CP36,Proposition 62,N/A,No,242
+Nevada,CP37,Proposition 62,N/A,Yes,646
+Nevada,CP37,Proposition 62,N/A,No,1365
+Nevada,CP38,Proposition 62,N/A,Yes,216
+Nevada,CP38,Proposition 62,N/A,No,307
+Nevada,CP39,Proposition 62,N/A,Yes,252
+Nevada,CP39,Proposition 62,N/A,No,370
+Nevada,CP40,Proposition 62,N/A,Yes,359
+Nevada,CP40,Proposition 62,N/A,No,372
+Nevada,CP41,Proposition 62,N/A,Yes,412
+Nevada,CP41,Proposition 62,N/A,No,205
+Nevada,CP42,Proposition 62,N/A,Yes,411
+Nevada,CP42,Proposition 62,N/A,No,137
+Nevada,CP43,Proposition 62,N/A,Yes,346
+Nevada,CP43,Proposition 62,N/A,No,290
+Nevada,CP44,Proposition 62,N/A,Yes,338
+Nevada,CP44,Proposition 62,N/A,No,251
+Nevada,CP45,Proposition 62,N/A,Yes,615
+Nevada,CP45,Proposition 62,N/A,No,525
+Nevada,CP46,Proposition 62,N/A,Yes,736
+Nevada,CP46,Proposition 62,N/A,No,627
+Nevada,CP47,Proposition 62,N/A,Yes,745
+Nevada,CP47,Proposition 62,N/A,No,719
+Nevada,MB48,Proposition 62,N/A,Yes,1
+Nevada,MB48,Proposition 62,N/A,No,3
+Nevada,MB49,Proposition 62,N/A,Yes,4
+Nevada,MB49,Proposition 62,N/A,No,2
+Nevada,MB50,Proposition 62,N/A,Yes,1
+Nevada,MB50,Proposition 62,N/A,No,5
+Nevada,MB51,Proposition 62,N/A,Yes,0
+Nevada,MB51,Proposition 62,N/A,No,0
+Nevada,MB52,Proposition 62,N/A,Yes,195
+Nevada,MB52,Proposition 62,N/A,No,229
+Nevada,MB53,Proposition 62,N/A,Yes,0
+Nevada,MB53,Proposition 62,N/A,No,0
+Nevada,MB54,Proposition 62,N/A,Yes,95
+Nevada,MB54,Proposition 62,N/A,No,78
+Nevada,MB55,Proposition 62,N/A,Yes,0
+Nevada,MB55,Proposition 62,N/A,No,0
+Nevada,MB56,Proposition 62,N/A,Yes,83
+Nevada,MB56,Proposition 62,N/A,No,82
+Nevada,MB57,Proposition 62,N/A,Yes,387
+Nevada,MB57,Proposition 62,N/A,No,516
+Nevada,MB58,Proposition 62,N/A,Yes,194
+Nevada,MB58,Proposition 62,N/A,No,153
+Nevada,MB59,Proposition 62,N/A,Yes,6
+Nevada,MB59,Proposition 62,N/A,No,1
+Nevada,MB60,Proposition 62,N/A,Yes,66
+Nevada,MB60,Proposition 62,N/A,No,137
+Nevada,MB61,Proposition 62,N/A,Yes,30
+Nevada,MB61,Proposition 62,N/A,No,82
+Nevada,MB62,Proposition 62,N/A,Yes,318
+Nevada,MB62,Proposition 62,N/A,No,383
+Nevada,MB63,Proposition 62,N/A,Yes,34
+Nevada,MB63,Proposition 62,N/A,No,14
+Nevada,MB64,Proposition 62,N/A,Yes,259
+Nevada,MB64,Proposition 62,N/A,No,420
+Nevada,MB65,Proposition 62,N/A,Yes,62
+Nevada,MB65,Proposition 62,N/A,No,59
+Nevada,MB66,Proposition 62,N/A,Yes,67
+Nevada,MB66,Proposition 62,N/A,No,106
+Nevada,MB67,Proposition 62,N/A,Yes,29
+Nevada,MB67,Proposition 62,N/A,No,24
+Nevada,MB68,Proposition 62,N/A,Yes,37
+Nevada,MB68,Proposition 62,N/A,No,47
+Nevada,MB69,Proposition 62,N/A,Yes,64
+Nevada,MB69,Proposition 62,N/A,No,59
+Nevada,MB70,Proposition 62,N/A,Yes,39
+Nevada,MB70,Proposition 62,N/A,No,69
+Nevada,MB71,Proposition 62,N/A,Yes,233
+Nevada,MB71,Proposition 62,N/A,No,335
+Nevada,MB72,Proposition 62,N/A,Yes,40
+Nevada,MB72,Proposition 62,N/A,No,41
+Nevada,MB73,Proposition 62,N/A,Yes,4
+Nevada,MB73,Proposition 62,N/A,No,24
+Nevada,MB74,Proposition 62,N/A,Yes,181
+Nevada,MB74,Proposition 62,N/A,No,384
+Nevada,MB75,Proposition 62,N/A,Yes,118
+Nevada,MB75,Proposition 62,N/A,No,165
+Nevada,MB76,Proposition 62,N/A,Yes,0
+Nevada,MB76,Proposition 62,N/A,No,0
+Nevada,MB77,Proposition 62,N/A,Yes,37
+Nevada,MB77,Proposition 62,N/A,No,56
+Nevada,MB78,Proposition 62,N/A,Yes,217
+Nevada,MB78,Proposition 62,N/A,No,250
+Nevada,MB79,Proposition 62,N/A,Yes,70
+Nevada,MB79,Proposition 62,N/A,No,148
+Nevada,MB80,Proposition 62,N/A,Yes,12
+Nevada,MB80,Proposition 62,N/A,No,25
+Nevada,MB81,Proposition 62,N/A,Yes,42
+Nevada,MB81,Proposition 62,N/A,No,59
+Nevada,MB82,Proposition 62,N/A,Yes,10
+Nevada,MB82,Proposition 62,N/A,No,25
+Nevada,CP01,Proposition 63,N/A,Yes,618
+Nevada,CP01,Proposition 63,N/A,No,880
+Nevada,CP02,Proposition 63,N/A,Yes,299
+Nevada,CP02,Proposition 63,N/A,No,404
+Nevada,CP03,Proposition 63,N/A,Yes,337
+Nevada,CP03,Proposition 63,N/A,No,247
+Nevada,CP04,Proposition 63,N/A,Yes,707
+Nevada,CP04,Proposition 63,N/A,No,528
+Nevada,CP05,Proposition 63,N/A,Yes,326
+Nevada,CP05,Proposition 63,N/A,No,389
+Nevada,CP06,Proposition 63,N/A,Yes,781
+Nevada,CP06,Proposition 63,N/A,No,543
+Nevada,CP07,Proposition 63,N/A,Yes,1165
+Nevada,CP07,Proposition 63,N/A,No,1085
+Nevada,CP08,Proposition 63,N/A,Yes,300
+Nevada,CP08,Proposition 63,N/A,No,476
+Nevada,CP09,Proposition 63,N/A,Yes,1113
+Nevada,CP09,Proposition 63,N/A,No,494
+Nevada,CP10,Proposition 63,N/A,Yes,262
+Nevada,CP10,Proposition 63,N/A,No,262
+Nevada,CP11,Proposition 63,N/A,Yes,469
+Nevada,CP11,Proposition 63,N/A,No,658
+Nevada,CP12,Proposition 63,N/A,Yes,362
+Nevada,CP12,Proposition 63,N/A,No,808
+Nevada,CP13,Proposition 63,N/A,Yes,1020
+Nevada,CP13,Proposition 63,N/A,No,1412
+Nevada,CP14,Proposition 63,N/A,Yes,119
+Nevada,CP14,Proposition 63,N/A,No,269
+Nevada,CP15,Proposition 63,N/A,Yes,369
+Nevada,CP15,Proposition 63,N/A,No,812
+Nevada,CP16,Proposition 63,N/A,Yes,36
+Nevada,CP16,Proposition 63,N/A,No,100
+Nevada,CP17,Proposition 63,N/A,Yes,719
+Nevada,CP17,Proposition 63,N/A,No,1004
+Nevada,CP18,Proposition 63,N/A,Yes,533
+Nevada,CP18,Proposition 63,N/A,No,706
+Nevada,CP19,Proposition 63,N/A,Yes,580
+Nevada,CP19,Proposition 63,N/A,No,797
+Nevada,CP20,Proposition 63,N/A,Yes,119
+Nevada,CP20,Proposition 63,N/A,No,248
+Nevada,CP21,Proposition 63,N/A,Yes,165
+Nevada,CP21,Proposition 63,N/A,No,271
+Nevada,CP22,Proposition 63,N/A,Yes,72
+Nevada,CP22,Proposition 63,N/A,No,158
+Nevada,CP23,Proposition 63,N/A,Yes,332
+Nevada,CP23,Proposition 63,N/A,No,275
+Nevada,CP24,Proposition 63,N/A,Yes,586
+Nevada,CP24,Proposition 63,N/A,No,711
+Nevada,CP25,Proposition 63,N/A,Yes,655
+Nevada,CP25,Proposition 63,N/A,No,474
+Nevada,CP26,Proposition 63,N/A,Yes,815
+Nevada,CP26,Proposition 63,N/A,No,733
+Nevada,CP27,Proposition 63,N/A,Yes,496
+Nevada,CP27,Proposition 63,N/A,No,440
+Nevada,CP28,Proposition 63,N/A,Yes,917
+Nevada,CP28,Proposition 63,N/A,No,554
+Nevada,CP29,Proposition 63,N/A,Yes,572
+Nevada,CP29,Proposition 63,N/A,No,780
+Nevada,CP30,Proposition 63,N/A,Yes,374
+Nevada,CP30,Proposition 63,N/A,No,398
+Nevada,CP31,Proposition 63,N/A,Yes,930
+Nevada,CP31,Proposition 63,N/A,No,983
+Nevada,CP32,Proposition 63,N/A,Yes,654
+Nevada,CP32,Proposition 63,N/A,No,686
+Nevada,CP33,Proposition 63,N/A,Yes,82
+Nevada,CP33,Proposition 63,N/A,No,59
+Nevada,CP34,Proposition 63,N/A,Yes,175
+Nevada,CP34,Proposition 63,N/A,No,215
+Nevada,CP35,Proposition 63,N/A,Yes,357
+Nevada,CP35,Proposition 63,N/A,No,537
+Nevada,CP36,Proposition 63,N/A,Yes,159
+Nevada,CP36,Proposition 63,N/A,No,253
+Nevada,CP37,Proposition 63,N/A,Yes,658
+Nevada,CP37,Proposition 63,N/A,No,1362
+Nevada,CP38,Proposition 63,N/A,Yes,189
+Nevada,CP38,Proposition 63,N/A,No,345
+Nevada,CP39,Proposition 63,N/A,Yes,258
+Nevada,CP39,Proposition 63,N/A,No,375
+Nevada,CP40,Proposition 63,N/A,Yes,425
+Nevada,CP40,Proposition 63,N/A,No,325
+Nevada,CP41,Proposition 63,N/A,Yes,352
+Nevada,CP41,Proposition 63,N/A,No,274
+Nevada,CP42,Proposition 63,N/A,Yes,377
+Nevada,CP42,Proposition 63,N/A,No,184
+Nevada,CP43,Proposition 63,N/A,Yes,427
+Nevada,CP43,Proposition 63,N/A,No,246
+Nevada,CP44,Proposition 63,N/A,Yes,400
+Nevada,CP44,Proposition 63,N/A,No,206
+Nevada,CP45,Proposition 63,N/A,Yes,750
+Nevada,CP45,Proposition 63,N/A,No,420
+Nevada,CP46,Proposition 63,N/A,Yes,836
+Nevada,CP46,Proposition 63,N/A,No,560
+Nevada,CP47,Proposition 63,N/A,Yes,908
+Nevada,CP47,Proposition 63,N/A,No,582
+Nevada,MB48,Proposition 63,N/A,Yes,4
+Nevada,MB48,Proposition 63,N/A,No,0
+Nevada,MB49,Proposition 63,N/A,Yes,2
+Nevada,MB49,Proposition 63,N/A,No,4
+Nevada,MB50,Proposition 63,N/A,Yes,3
+Nevada,MB50,Proposition 63,N/A,No,3
+Nevada,MB51,Proposition 63,N/A,Yes,0
+Nevada,MB51,Proposition 63,N/A,No,0
+Nevada,MB52,Proposition 63,N/A,Yes,201
+Nevada,MB52,Proposition 63,N/A,No,232
+Nevada,MB53,Proposition 63,N/A,Yes,0
+Nevada,MB53,Proposition 63,N/A,No,0
+Nevada,MB54,Proposition 63,N/A,Yes,71
+Nevada,MB54,Proposition 63,N/A,No,108
+Nevada,MB55,Proposition 63,N/A,Yes,0
+Nevada,MB55,Proposition 63,N/A,No,0
+Nevada,MB56,Proposition 63,N/A,Yes,62
+Nevada,MB56,Proposition 63,N/A,No,109
+Nevada,MB57,Proposition 63,N/A,Yes,385
+Nevada,MB57,Proposition 63,N/A,No,525
+Nevada,MB58,Proposition 63,N/A,Yes,204
+Nevada,MB58,Proposition 63,N/A,No,147
+Nevada,MB59,Proposition 63,N/A,Yes,5
+Nevada,MB59,Proposition 63,N/A,No,1
+Nevada,MB60,Proposition 63,N/A,Yes,71
+Nevada,MB60,Proposition 63,N/A,No,139
+Nevada,MB61,Proposition 63,N/A,Yes,35
+Nevada,MB61,Proposition 63,N/A,No,80
+Nevada,MB62,Proposition 63,N/A,Yes,348
+Nevada,MB62,Proposition 63,N/A,No,352
+Nevada,MB63,Proposition 63,N/A,Yes,30
+Nevada,MB63,Proposition 63,N/A,No,21
+Nevada,MB64,Proposition 63,N/A,Yes,249
+Nevada,MB64,Proposition 63,N/A,No,432
+Nevada,MB65,Proposition 63,N/A,Yes,64
+Nevada,MB65,Proposition 63,N/A,No,52
+Nevada,MB66,Proposition 63,N/A,Yes,70
+Nevada,MB66,Proposition 63,N/A,No,106
+Nevada,MB67,Proposition 63,N/A,Yes,24
+Nevada,MB67,Proposition 63,N/A,No,29
+Nevada,MB68,Proposition 63,N/A,Yes,37
+Nevada,MB68,Proposition 63,N/A,No,49
+Nevada,MB69,Proposition 63,N/A,Yes,69
+Nevada,MB69,Proposition 63,N/A,No,58
+Nevada,MB70,Proposition 63,N/A,Yes,32
+Nevada,MB70,Proposition 63,N/A,No,77
+Nevada,MB71,Proposition 63,N/A,Yes,267
+Nevada,MB71,Proposition 63,N/A,No,309
+Nevada,MB72,Proposition 63,N/A,Yes,41
+Nevada,MB72,Proposition 63,N/A,No,37
+Nevada,MB73,Proposition 63,N/A,Yes,12
+Nevada,MB73,Proposition 63,N/A,No,16
+Nevada,MB74,Proposition 63,N/A,Yes,215
+Nevada,MB74,Proposition 63,N/A,No,363
+Nevada,MB75,Proposition 63,N/A,Yes,110
+Nevada,MB75,Proposition 63,N/A,No,176
+Nevada,MB76,Proposition 63,N/A,Yes,0
+Nevada,MB76,Proposition 63,N/A,No,0
+Nevada,MB77,Proposition 63,N/A,Yes,37
+Nevada,MB77,Proposition 63,N/A,No,58
+Nevada,MB78,Proposition 63,N/A,Yes,193
+Nevada,MB78,Proposition 63,N/A,No,277
+Nevada,MB79,Proposition 63,N/A,Yes,70
+Nevada,MB79,Proposition 63,N/A,No,149
+Nevada,MB80,Proposition 63,N/A,Yes,13
+Nevada,MB80,Proposition 63,N/A,No,23
+Nevada,MB81,Proposition 63,N/A,Yes,40
+Nevada,MB81,Proposition 63,N/A,No,63
+Nevada,MB82,Proposition 63,N/A,Yes,13
+Nevada,MB82,Proposition 63,N/A,No,21
+Nevada,CP01,Proposition 64,N/A,Yes,761
+Nevada,CP01,Proposition 64,N/A,No,750
+Nevada,CP02,Proposition 64,N/A,Yes,335
+Nevada,CP02,Proposition 64,N/A,No,377
+Nevada,CP03,Proposition 64,N/A,Yes,341
+Nevada,CP03,Proposition 64,N/A,No,255
+Nevada,CP04,Proposition 64,N/A,Yes,725
+Nevada,CP04,Proposition 64,N/A,No,533
+Nevada,CP05,Proposition 64,N/A,Yes,410
+Nevada,CP05,Proposition 64,N/A,No,308
+Nevada,CP06,Proposition 64,N/A,Yes,756
+Nevada,CP06,Proposition 64,N/A,No,579
+Nevada,CP07,Proposition 64,N/A,Yes,1186
+Nevada,CP07,Proposition 64,N/A,No,1099
+Nevada,CP08,Proposition 64,N/A,Yes,370
+Nevada,CP08,Proposition 64,N/A,No,416
+Nevada,CP09,Proposition 64,N/A,Yes,1048
+Nevada,CP09,Proposition 64,N/A,No,572
+Nevada,CP10,Proposition 64,N/A,Yes,281
+Nevada,CP10,Proposition 64,N/A,No,246
+Nevada,CP11,Proposition 64,N/A,Yes,630
+Nevada,CP11,Proposition 64,N/A,No,521
+Nevada,CP12,Proposition 64,N/A,Yes,477
+Nevada,CP12,Proposition 64,N/A,No,696
+Nevada,CP13,Proposition 64,N/A,Yes,1171
+Nevada,CP13,Proposition 64,N/A,No,1293
+Nevada,CP14,Proposition 64,N/A,Yes,173
+Nevada,CP14,Proposition 64,N/A,No,219
+Nevada,CP15,Proposition 64,N/A,Yes,528
+Nevada,CP15,Proposition 64,N/A,No,666
+Nevada,CP16,Proposition 64,N/A,Yes,63
+Nevada,CP16,Proposition 64,N/A,No,71
+Nevada,CP17,Proposition 64,N/A,Yes,796
+Nevada,CP17,Proposition 64,N/A,No,931
+Nevada,CP18,Proposition 64,N/A,Yes,588
+Nevada,CP18,Proposition 64,N/A,No,674
+Nevada,CP19,Proposition 64,N/A,Yes,700
+Nevada,CP19,Proposition 64,N/A,No,694
+Nevada,CP20,Proposition 64,N/A,Yes,163
+Nevada,CP20,Proposition 64,N/A,No,206
+Nevada,CP21,Proposition 64,N/A,Yes,194
+Nevada,CP21,Proposition 64,N/A,No,244
+Nevada,CP22,Proposition 64,N/A,Yes,96
+Nevada,CP22,Proposition 64,N/A,No,137
+Nevada,CP23,Proposition 64,N/A,Yes,299
+Nevada,CP23,Proposition 64,N/A,No,318
+Nevada,CP24,Proposition 64,N/A,Yes,731
+Nevada,CP24,Proposition 64,N/A,No,582
+Nevada,CP25,Proposition 64,N/A,Yes,727
+Nevada,CP25,Proposition 64,N/A,No,424
+Nevada,CP26,Proposition 64,N/A,Yes,877
+Nevada,CP26,Proposition 64,N/A,No,693
+Nevada,CP27,Proposition 64,N/A,Yes,525
+Nevada,CP27,Proposition 64,N/A,No,432
+Nevada,CP28,Proposition 64,N/A,Yes,1010
+Nevada,CP28,Proposition 64,N/A,No,499
+Nevada,CP29,Proposition 64,N/A,Yes,665
+Nevada,CP29,Proposition 64,N/A,No,713
+Nevada,CP30,Proposition 64,N/A,Yes,431
+Nevada,CP30,Proposition 64,N/A,No,353
+Nevada,CP31,Proposition 64,N/A,Yes,923
+Nevada,CP31,Proposition 64,N/A,No,1002
+Nevada,CP32,Proposition 64,N/A,Yes,614
+Nevada,CP32,Proposition 64,N/A,No,741
+Nevada,CP33,Proposition 64,N/A,Yes,67
+Nevada,CP33,Proposition 64,N/A,No,77
+Nevada,CP34,Proposition 64,N/A,Yes,178
+Nevada,CP34,Proposition 64,N/A,No,216
+Nevada,CP35,Proposition 64,N/A,Yes,462
+Nevada,CP35,Proposition 64,N/A,No,456
+Nevada,CP36,Proposition 64,N/A,Yes,202
+Nevada,CP36,Proposition 64,N/A,No,212
+Nevada,CP37,Proposition 64,N/A,Yes,924
+Nevada,CP37,Proposition 64,N/A,No,1131
+Nevada,CP38,Proposition 64,N/A,Yes,267
+Nevada,CP38,Proposition 64,N/A,No,277
+Nevada,CP39,Proposition 64,N/A,Yes,313
+Nevada,CP39,Proposition 64,N/A,No,332
+Nevada,CP40,Proposition 64,N/A,Yes,505
+Nevada,CP40,Proposition 64,N/A,No,260
+Nevada,CP41,Proposition 64,N/A,Yes,308
+Nevada,CP41,Proposition 64,N/A,No,324
+Nevada,CP42,Proposition 64,N/A,Yes,308
+Nevada,CP42,Proposition 64,N/A,No,261
+Nevada,CP43,Proposition 64,N/A,Yes,478
+Nevada,CP43,Proposition 64,N/A,No,207
+Nevada,CP44,Proposition 64,N/A,Yes,407
+Nevada,CP44,Proposition 64,N/A,No,210
+Nevada,CP45,Proposition 64,N/A,Yes,742
+Nevada,CP45,Proposition 64,N/A,No,447
+Nevada,CP46,Proposition 64,N/A,Yes,981
+Nevada,CP46,Proposition 64,N/A,No,438
+Nevada,CP47,Proposition 64,N/A,Yes,999
+Nevada,CP47,Proposition 64,N/A,No,510
+Nevada,MB48,Proposition 64,N/A,Yes,1
+Nevada,MB48,Proposition 64,N/A,No,3
+Nevada,MB49,Proposition 64,N/A,Yes,1
+Nevada,MB49,Proposition 64,N/A,No,5
+Nevada,MB50,Proposition 64,N/A,Yes,1
+Nevada,MB50,Proposition 64,N/A,No,5
+Nevada,MB51,Proposition 64,N/A,Yes,0
+Nevada,MB51,Proposition 64,N/A,No,0
+Nevada,MB52,Proposition 64,N/A,Yes,226
+Nevada,MB52,Proposition 64,N/A,No,211
+Nevada,MB53,Proposition 64,N/A,Yes,0
+Nevada,MB53,Proposition 64,N/A,No,0
+Nevada,MB54,Proposition 64,N/A,Yes,92
+Nevada,MB54,Proposition 64,N/A,No,89
+Nevada,MB55,Proposition 64,N/A,Yes,0
+Nevada,MB55,Proposition 64,N/A,No,0
+Nevada,MB56,Proposition 64,N/A,Yes,92
+Nevada,MB56,Proposition 64,N/A,No,78
+Nevada,MB57,Proposition 64,N/A,Yes,449
+Nevada,MB57,Proposition 64,N/A,No,470
+Nevada,MB58,Proposition 64,N/A,Yes,241
+Nevada,MB58,Proposition 64,N/A,No,118
+Nevada,MB59,Proposition 64,N/A,Yes,5
+Nevada,MB59,Proposition 64,N/A,No,4
+Nevada,MB60,Proposition 64,N/A,Yes,97
+Nevada,MB60,Proposition 64,N/A,No,114
+Nevada,MB61,Proposition 64,N/A,Yes,72
+Nevada,MB61,Proposition 64,N/A,No,43
+Nevada,MB62,Proposition 64,N/A,Yes,313
+Nevada,MB62,Proposition 64,N/A,No,404
+Nevada,MB63,Proposition 64,N/A,Yes,33
+Nevada,MB63,Proposition 64,N/A,No,18
+Nevada,MB64,Proposition 64,N/A,Yes,288
+Nevada,MB64,Proposition 64,N/A,No,399
+Nevada,MB65,Proposition 64,N/A,Yes,87
+Nevada,MB65,Proposition 64,N/A,No,35
+Nevada,MB66,Proposition 64,N/A,Yes,94
+Nevada,MB66,Proposition 64,N/A,No,86
+Nevada,MB67,Proposition 64,N/A,Yes,25
+Nevada,MB67,Proposition 64,N/A,No,28
+Nevada,MB68,Proposition 64,N/A,Yes,69
+Nevada,MB68,Proposition 64,N/A,No,19
+Nevada,MB69,Proposition 64,N/A,Yes,90
+Nevada,MB69,Proposition 64,N/A,No,37
+Nevada,MB70,Proposition 64,N/A,Yes,56
+Nevada,MB70,Proposition 64,N/A,No,52
+Nevada,MB71,Proposition 64,N/A,Yes,312
+Nevada,MB71,Proposition 64,N/A,No,270
+Nevada,MB72,Proposition 64,N/A,Yes,40
+Nevada,MB72,Proposition 64,N/A,No,42
+Nevada,MB73,Proposition 64,N/A,Yes,16
+Nevada,MB73,Proposition 64,N/A,No,13
+Nevada,MB74,Proposition 64,N/A,Yes,271
+Nevada,MB74,Proposition 64,N/A,No,310
+Nevada,MB75,Proposition 64,N/A,Yes,141
+Nevada,MB75,Proposition 64,N/A,No,146
+Nevada,MB76,Proposition 64,N/A,Yes,0
+Nevada,MB76,Proposition 64,N/A,No,0
+Nevada,MB77,Proposition 64,N/A,Yes,44
+Nevada,MB77,Proposition 64,N/A,No,51
+Nevada,MB78,Proposition 64,N/A,Yes,268
+Nevada,MB78,Proposition 64,N/A,No,217
+Nevada,MB79,Proposition 64,N/A,Yes,102
+Nevada,MB79,Proposition 64,N/A,No,119
+Nevada,MB80,Proposition 64,N/A,Yes,17
+Nevada,MB80,Proposition 64,N/A,No,21
+Nevada,MB81,Proposition 64,N/A,Yes,54
+Nevada,MB81,Proposition 64,N/A,No,51
+Nevada,MB82,Proposition 64,N/A,Yes,10
+Nevada,MB82,Proposition 64,N/A,No,23
+Nevada,CP01,Proposition 65,N/A,Yes,583
+Nevada,CP01,Proposition 65,N/A,No,890
+Nevada,CP02,Proposition 65,N/A,Yes,282
+Nevada,CP02,Proposition 65,N/A,No,415
+Nevada,CP03,Proposition 65,N/A,Yes,321
+Nevada,CP03,Proposition 65,N/A,No,246
+Nevada,CP04,Proposition 65,N/A,Yes,539
+Nevada,CP04,Proposition 65,N/A,No,681
+Nevada,CP05,Proposition 65,N/A,Yes,294
+Nevada,CP05,Proposition 65,N/A,No,409
+Nevada,CP06,Proposition 65,N/A,Yes,530
+Nevada,CP06,Proposition 65,N/A,No,764
+Nevada,CP07,Proposition 65,N/A,Yes,1004
+Nevada,CP07,Proposition 65,N/A,No,1228
+Nevada,CP08,Proposition 65,N/A,Yes,333
+Nevada,CP08,Proposition 65,N/A,No,430
+Nevada,CP09,Proposition 65,N/A,Yes,655
+Nevada,CP09,Proposition 65,N/A,No,910
+Nevada,CP10,Proposition 65,N/A,Yes,232
+Nevada,CP10,Proposition 65,N/A,No,275
+Nevada,CP11,Proposition 65,N/A,Yes,471
+Nevada,CP11,Proposition 65,N/A,No,646
+Nevada,CP12,Proposition 65,N/A,Yes,446
+Nevada,CP12,Proposition 65,N/A,No,705
+Nevada,CP13,Proposition 65,N/A,Yes,1058
+Nevada,CP13,Proposition 65,N/A,No,1321
+Nevada,CP14,Proposition 65,N/A,Yes,139
+Nevada,CP14,Proposition 65,N/A,No,247
+Nevada,CP15,Proposition 65,N/A,Yes,467
+Nevada,CP15,Proposition 65,N/A,No,700
+Nevada,CP16,Proposition 65,N/A,Yes,63
+Nevada,CP16,Proposition 65,N/A,No,71
+Nevada,CP17,Proposition 65,N/A,Yes,671
+Nevada,CP17,Proposition 65,N/A,No,1020
+Nevada,CP18,Proposition 65,N/A,Yes,567
+Nevada,CP18,Proposition 65,N/A,No,663
+Nevada,CP19,Proposition 65,N/A,Yes,616
+Nevada,CP19,Proposition 65,N/A,No,755
+Nevada,CP20,Proposition 65,N/A,Yes,136
+Nevada,CP20,Proposition 65,N/A,No,224
+Nevada,CP21,Proposition 65,N/A,Yes,180
+Nevada,CP21,Proposition 65,N/A,No,239
+Nevada,CP22,Proposition 65,N/A,Yes,85
+Nevada,CP22,Proposition 65,N/A,No,140
+Nevada,CP23,Proposition 65,N/A,Yes,262
+Nevada,CP23,Proposition 65,N/A,No,337
+Nevada,CP24,Proposition 65,N/A,Yes,517
+Nevada,CP24,Proposition 65,N/A,No,749
+Nevada,CP25,Proposition 65,N/A,Yes,500
+Nevada,CP25,Proposition 65,N/A,No,615
+Nevada,CP26,Proposition 65,N/A,Yes,682
+Nevada,CP26,Proposition 65,N/A,No,845
+Nevada,CP27,Proposition 65,N/A,Yes,450
+Nevada,CP27,Proposition 65,N/A,No,454
+Nevada,CP28,Proposition 65,N/A,Yes,792
+Nevada,CP28,Proposition 65,N/A,No,665
+Nevada,CP29,Proposition 65,N/A,Yes,519
+Nevada,CP29,Proposition 65,N/A,No,810
+Nevada,CP30,Proposition 65,N/A,Yes,324
+Nevada,CP30,Proposition 65,N/A,No,425
+Nevada,CP31,Proposition 65,N/A,Yes,804
+Nevada,CP31,Proposition 65,N/A,No,1073
+Nevada,CP32,Proposition 65,N/A,Yes,605
+Nevada,CP32,Proposition 65,N/A,No,701
+Nevada,CP33,Proposition 65,N/A,Yes,54
+Nevada,CP33,Proposition 65,N/A,No,84
+Nevada,CP34,Proposition 65,N/A,Yes,162
+Nevada,CP34,Proposition 65,N/A,No,227
+Nevada,CP35,Proposition 65,N/A,Yes,365
+Nevada,CP35,Proposition 65,N/A,No,522
+Nevada,CP36,Proposition 65,N/A,Yes,171
+Nevada,CP36,Proposition 65,N/A,No,229
+Nevada,CP37,Proposition 65,N/A,Yes,773
+Nevada,CP37,Proposition 65,N/A,No,1226
+Nevada,CP38,Proposition 65,N/A,Yes,201
+Nevada,CP38,Proposition 65,N/A,No,322
+Nevada,CP39,Proposition 65,N/A,Yes,258
+Nevada,CP39,Proposition 65,N/A,No,368
+Nevada,CP40,Proposition 65,N/A,Yes,372
+Nevada,CP40,Proposition 65,N/A,No,375
+Nevada,CP41,Proposition 65,N/A,Yes,294
+Nevada,CP41,Proposition 65,N/A,No,325
+Nevada,CP42,Proposition 65,N/A,Yes,261
+Nevada,CP42,Proposition 65,N/A,No,286
+Nevada,CP43,Proposition 65,N/A,Yes,378
+Nevada,CP43,Proposition 65,N/A,No,289
+Nevada,CP44,Proposition 65,N/A,Yes,287
+Nevada,CP44,Proposition 65,N/A,No,316
+Nevada,CP45,Proposition 65,N/A,Yes,606
+Nevada,CP45,Proposition 65,N/A,No,550
+Nevada,CP46,Proposition 65,N/A,Yes,786
+Nevada,CP46,Proposition 65,N/A,No,594
+Nevada,CP47,Proposition 65,N/A,Yes,823
+Nevada,CP47,Proposition 65,N/A,No,646
+Nevada,MB48,Proposition 65,N/A,Yes,3
+Nevada,MB48,Proposition 65,N/A,No,1
+Nevada,MB49,Proposition 65,N/A,Yes,1
+Nevada,MB49,Proposition 65,N/A,No,5
+Nevada,MB50,Proposition 65,N/A,Yes,3
+Nevada,MB50,Proposition 65,N/A,No,3
+Nevada,MB51,Proposition 65,N/A,Yes,0
+Nevada,MB51,Proposition 65,N/A,No,0
+Nevada,MB52,Proposition 65,N/A,Yes,199
+Nevada,MB52,Proposition 65,N/A,No,227
+Nevada,MB53,Proposition 65,N/A,Yes,0
+Nevada,MB53,Proposition 65,N/A,No,0
+Nevada,MB54,Proposition 65,N/A,Yes,83
+Nevada,MB54,Proposition 65,N/A,No,90
+Nevada,MB55,Proposition 65,N/A,Yes,0
+Nevada,MB55,Proposition 65,N/A,No,0
+Nevada,MB56,Proposition 65,N/A,Yes,78
+Nevada,MB56,Proposition 65,N/A,No,83
+Nevada,MB57,Proposition 65,N/A,Yes,332
+Nevada,MB57,Proposition 65,N/A,No,565
+Nevada,MB58,Proposition 65,N/A,Yes,159
+Nevada,MB58,Proposition 65,N/A,No,186
+Nevada,MB59,Proposition 65,N/A,Yes,4
+Nevada,MB59,Proposition 65,N/A,No,3
+Nevada,MB60,Proposition 65,N/A,Yes,76
+Nevada,MB60,Proposition 65,N/A,No,128
+Nevada,MB61,Proposition 65,N/A,Yes,48
+Nevada,MB61,Proposition 65,N/A,No,65
+Nevada,MB62,Proposition 65,N/A,Yes,297
+Nevada,MB62,Proposition 65,N/A,No,398
+Nevada,MB63,Proposition 65,N/A,Yes,25
+Nevada,MB63,Proposition 65,N/A,No,26
+Nevada,MB64,Proposition 65,N/A,Yes,273
+Nevada,MB64,Proposition 65,N/A,No,398
+Nevada,MB65,Proposition 65,N/A,Yes,61
+Nevada,MB65,Proposition 65,N/A,No,60
+Nevada,MB66,Proposition 65,N/A,Yes,68
+Nevada,MB66,Proposition 65,N/A,No,100
+Nevada,MB67,Proposition 65,N/A,Yes,22
+Nevada,MB67,Proposition 65,N/A,No,30
+Nevada,MB68,Proposition 65,N/A,Yes,41
+Nevada,MB68,Proposition 65,N/A,No,45
+Nevada,MB69,Proposition 65,N/A,Yes,69
+Nevada,MB69,Proposition 65,N/A,No,57
+Nevada,MB70,Proposition 65,N/A,Yes,47
+Nevada,MB70,Proposition 65,N/A,No,61
+Nevada,MB71,Proposition 65,N/A,Yes,243
+Nevada,MB71,Proposition 65,N/A,No,323
+Nevada,MB72,Proposition 65,N/A,Yes,24
+Nevada,MB72,Proposition 65,N/A,No,56
+Nevada,MB73,Proposition 65,N/A,Yes,12
+Nevada,MB73,Proposition 65,N/A,No,16
+Nevada,MB74,Proposition 65,N/A,Yes,255
+Nevada,MB74,Proposition 65,N/A,No,308
+Nevada,MB75,Proposition 65,N/A,Yes,118
+Nevada,MB75,Proposition 65,N/A,No,166
+Nevada,MB76,Proposition 65,N/A,Yes,0
+Nevada,MB76,Proposition 65,N/A,No,0
+Nevada,MB77,Proposition 65,N/A,Yes,49
+Nevada,MB77,Proposition 65,N/A,No,46
+Nevada,MB78,Proposition 65,N/A,Yes,194
+Nevada,MB78,Proposition 65,N/A,No,279
+Nevada,MB79,Proposition 65,N/A,Yes,79
+Nevada,MB79,Proposition 65,N/A,No,135
+Nevada,MB80,Proposition 65,N/A,Yes,15
+Nevada,MB80,Proposition 65,N/A,No,21
+Nevada,MB81,Proposition 65,N/A,Yes,44
+Nevada,MB81,Proposition 65,N/A,No,57
+Nevada,MB82,Proposition 65,N/A,Yes,16
+Nevada,MB82,Proposition 65,N/A,No,16
+Nevada,CP01,Proposition 66,N/A,Yes,767
+Nevada,CP01,Proposition 66,N/A,No,631
+Nevada,CP02,Proposition 66,N/A,Yes,367
+Nevada,CP02,Proposition 66,N/A,No,302
+Nevada,CP03,Proposition 66,N/A,Yes,274
+Nevada,CP03,Proposition 66,N/A,No,268
+Nevada,CP04,Proposition 66,N/A,Yes,517
+Nevada,CP04,Proposition 66,N/A,No,641
+Nevada,CP05,Proposition 66,N/A,Yes,359
+Nevada,CP05,Proposition 66,N/A,No,324
+Nevada,CP06,Proposition 66,N/A,Yes,482
+Nevada,CP06,Proposition 66,N/A,No,736
+Nevada,CP07,Proposition 66,N/A,Yes,1077
+Nevada,CP07,Proposition 66,N/A,No,1040
+Nevada,CP08,Proposition 66,N/A,Yes,457
+Nevada,CP08,Proposition 66,N/A,No,286
+Nevada,CP09,Proposition 66,N/A,Yes,536
+Nevada,CP09,Proposition 66,N/A,No,975
+Nevada,CP10,Proposition 66,N/A,Yes,261
+Nevada,CP10,Proposition 66,N/A,No,229
+Nevada,CP11,Proposition 66,N/A,Yes,585
+Nevada,CP11,Proposition 66,N/A,No,483
+Nevada,CP12,Proposition 66,N/A,Yes,713
+Nevada,CP12,Proposition 66,N/A,No,403
+Nevada,CP13,Proposition 66,N/A,Yes,1482
+Nevada,CP13,Proposition 66,N/A,No,825
+Nevada,CP14,Proposition 66,N/A,Yes,216
+Nevada,CP14,Proposition 66,N/A,No,155
+Nevada,CP15,Proposition 66,N/A,Yes,682
+Nevada,CP15,Proposition 66,N/A,No,459
+Nevada,CP16,Proposition 66,N/A,Yes,71
+Nevada,CP16,Proposition 66,N/A,No,53
+Nevada,CP17,Proposition 66,N/A,Yes,970
+Nevada,CP17,Proposition 66,N/A,No,671
+Nevada,CP18,Proposition 66,N/A,Yes,722
+Nevada,CP18,Proposition 66,N/A,No,466
+Nevada,CP19,Proposition 66,N/A,Yes,760
+Nevada,CP19,Proposition 66,N/A,No,540
+Nevada,CP20,Proposition 66,N/A,Yes,187
+Nevada,CP20,Proposition 66,N/A,No,159
+Nevada,CP21,Proposition 66,N/A,Yes,253
+Nevada,CP21,Proposition 66,N/A,No,152
+Nevada,CP22,Proposition 66,N/A,Yes,126
+Nevada,CP22,Proposition 66,N/A,No,86
+Nevada,CP23,Proposition 66,N/A,Yes,310
+Nevada,CP23,Proposition 66,N/A,No,267
+Nevada,CP24,Proposition 66,N/A,Yes,629
+Nevada,CP24,Proposition 66,N/A,No,592
+Nevada,CP25,Proposition 66,N/A,Yes,486
+Nevada,CP25,Proposition 66,N/A,No,562
+Nevada,CP26,Proposition 66,N/A,Yes,718
+Nevada,CP26,Proposition 66,N/A,No,710
+Nevada,CP27,Proposition 66,N/A,Yes,472
+Nevada,CP27,Proposition 66,N/A,No,398
+Nevada,CP28,Proposition 66,N/A,Yes,696
+Nevada,CP28,Proposition 66,N/A,No,657
+Nevada,CP29,Proposition 66,N/A,Yes,704
+Nevada,CP29,Proposition 66,N/A,No,562
+Nevada,CP30,Proposition 66,N/A,Yes,386
+Nevada,CP30,Proposition 66,N/A,No,328
+Nevada,CP31,Proposition 66,N/A,Yes,1080
+Nevada,CP31,Proposition 66,N/A,No,724
+Nevada,CP32,Proposition 66,N/A,Yes,756
+Nevada,CP32,Proposition 66,N/A,No,501
+Nevada,CP33,Proposition 66,N/A,Yes,51
+Nevada,CP33,Proposition 66,N/A,No,81
+Nevada,CP34,Proposition 66,N/A,Yes,159
+Nevada,CP34,Proposition 66,N/A,No,202
+Nevada,CP35,Proposition 66,N/A,Yes,431
+Nevada,CP35,Proposition 66,N/A,No,407
+Nevada,CP36,Proposition 66,N/A,Yes,221
+Nevada,CP36,Proposition 66,N/A,No,166
+Nevada,CP37,Proposition 66,N/A,Yes,1105
+Nevada,CP37,Proposition 66,N/A,No,833
+Nevada,CP38,Proposition 66,N/A,Yes,245
+Nevada,CP38,Proposition 66,N/A,No,258
+Nevada,CP39,Proposition 66,N/A,Yes,331
+Nevada,CP39,Proposition 66,N/A,No,268
+Nevada,CP40,Proposition 66,N/A,Yes,329
+Nevada,CP40,Proposition 66,N/A,No,357
+Nevada,CP41,Proposition 66,N/A,Yes,209
+Nevada,CP41,Proposition 66,N/A,No,353
+Nevada,CP42,Proposition 66,N/A,Yes,164
+Nevada,CP42,Proposition 66,N/A,No,350
+Nevada,CP43,Proposition 66,N/A,Yes,305
+Nevada,CP43,Proposition 66,N/A,No,287
+Nevada,CP44,Proposition 66,N/A,Yes,269
+Nevada,CP44,Proposition 66,N/A,No,290
+Nevada,CP45,Proposition 66,N/A,Yes,547
+Nevada,CP45,Proposition 66,N/A,No,511
+Nevada,CP46,Proposition 66,N/A,Yes,633
+Nevada,CP46,Proposition 66,N/A,No,638
+Nevada,CP47,Proposition 66,N/A,Yes,683
+Nevada,CP47,Proposition 66,N/A,No,714
+Nevada,MB48,Proposition 66,N/A,Yes,4
+Nevada,MB48,Proposition 66,N/A,No,0
+Nevada,MB49,Proposition 66,N/A,Yes,1
+Nevada,MB49,Proposition 66,N/A,No,4
+Nevada,MB50,Proposition 66,N/A,Yes,5
+Nevada,MB50,Proposition 66,N/A,No,1
+Nevada,MB51,Proposition 66,N/A,Yes,0
+Nevada,MB51,Proposition 66,N/A,No,0
+Nevada,MB52,Proposition 66,N/A,Yes,214
+Nevada,MB52,Proposition 66,N/A,No,185
+Nevada,MB53,Proposition 66,N/A,Yes,0
+Nevada,MB53,Proposition 66,N/A,No,0
+Nevada,MB54,Proposition 66,N/A,Yes,73
+Nevada,MB54,Proposition 66,N/A,No,91
+Nevada,MB55,Proposition 66,N/A,Yes,0
+Nevada,MB55,Proposition 66,N/A,No,0
+Nevada,MB56,Proposition 66,N/A,Yes,79
+Nevada,MB56,Proposition 66,N/A,No,79
+Nevada,MB57,Proposition 66,N/A,Yes,407
+Nevada,MB57,Proposition 66,N/A,No,440
+Nevada,MB58,Proposition 66,N/A,Yes,133
+Nevada,MB58,Proposition 66,N/A,No,197
+Nevada,MB59,Proposition 66,N/A,Yes,1
+Nevada,MB59,Proposition 66,N/A,No,5
+Nevada,MB60,Proposition 66,N/A,Yes,101
+Nevada,MB60,Proposition 66,N/A,No,82
+Nevada,MB61,Proposition 66,N/A,Yes,58
+Nevada,MB61,Proposition 66,N/A,No,51
+Nevada,MB62,Proposition 66,N/A,Yes,384
+Nevada,MB62,Proposition 66,N/A,No,276
+Nevada,MB63,Proposition 66,N/A,Yes,22
+Nevada,MB63,Proposition 66,N/A,No,23
+Nevada,MB64,Proposition 66,N/A,Yes,373
+Nevada,MB64,Proposition 66,N/A,No,275
+Nevada,MB65,Proposition 66,N/A,Yes,56
+Nevada,MB65,Proposition 66,N/A,No,53
+Nevada,MB66,Proposition 66,N/A,Yes,89
+Nevada,MB66,Proposition 66,N/A,No,77
+Nevada,MB67,Proposition 66,N/A,Yes,15
+Nevada,MB67,Proposition 66,N/A,No,34
+Nevada,MB68,Proposition 66,N/A,Yes,39
+Nevada,MB68,Proposition 66,N/A,No,40
+Nevada,MB69,Proposition 66,N/A,Yes,65
+Nevada,MB69,Proposition 66,N/A,No,54
+Nevada,MB70,Proposition 66,N/A,Yes,62
+Nevada,MB70,Proposition 66,N/A,No,43
+Nevada,MB71,Proposition 66,N/A,Yes,304
+Nevada,MB71,Proposition 66,N/A,No,232
+Nevada,MB72,Proposition 66,N/A,Yes,40
+Nevada,MB72,Proposition 66,N/A,No,37
+Nevada,MB73,Proposition 66,N/A,Yes,21
+Nevada,MB73,Proposition 66,N/A,No,5
+Nevada,MB74,Proposition 66,N/A,Yes,338
+Nevada,MB74,Proposition 66,N/A,No,205
+Nevada,MB75,Proposition 66,N/A,Yes,140
+Nevada,MB75,Proposition 66,N/A,No,125
+Nevada,MB76,Proposition 66,N/A,Yes,0
+Nevada,MB76,Proposition 66,N/A,No,0
+Nevada,MB77,Proposition 66,N/A,Yes,40
+Nevada,MB77,Proposition 66,N/A,No,41
+Nevada,MB78,Proposition 66,N/A,Yes,214
+Nevada,MB78,Proposition 66,N/A,No,231
+Nevada,MB79,Proposition 66,N/A,Yes,108
+Nevada,MB79,Proposition 66,N/A,No,93
+Nevada,MB80,Proposition 66,N/A,Yes,26
+Nevada,MB80,Proposition 66,N/A,No,11
+Nevada,MB81,Proposition 66,N/A,Yes,52
+Nevada,MB81,Proposition 66,N/A,No,46
+Nevada,MB82,Proposition 66,N/A,Yes,22
+Nevada,MB82,Proposition 66,N/A,No,11
+Nevada,CP01,Proposition 67,N/A,Yes,715
+Nevada,CP01,Proposition 67,N/A,No,770
+Nevada,CP02,Proposition 67,N/A,Yes,325
+Nevada,CP02,Proposition 67,N/A,No,379
+Nevada,CP03,Proposition 67,N/A,Yes,328
+Nevada,CP03,Proposition 67,N/A,No,250
+Nevada,CP04,Proposition 67,N/A,Yes,852
+Nevada,CP04,Proposition 67,N/A,No,383
+Nevada,CP05,Proposition 67,N/A,Yes,394
+Nevada,CP05,Proposition 67,N/A,No,317
+Nevada,CP06,Proposition 67,N/A,Yes,901
+Nevada,CP06,Proposition 67,N/A,No,427
+Nevada,CP07,Proposition 67,N/A,Yes,1305
+Nevada,CP07,Proposition 67,N/A,No,955
+Nevada,CP08,Proposition 67,N/A,Yes,352
+Nevada,CP08,Proposition 67,N/A,No,416
+Nevada,CP09,Proposition 67,N/A,Yes,1194
+Nevada,CP09,Proposition 67,N/A,No,409
+Nevada,CP10,Proposition 67,N/A,Yes,298
+Nevada,CP10,Proposition 67,N/A,No,223
+Nevada,CP11,Proposition 67,N/A,Yes,554
+Nevada,CP11,Proposition 67,N/A,No,560
+Nevada,CP12,Proposition 67,N/A,Yes,400
+Nevada,CP12,Proposition 67,N/A,No,758
+Nevada,CP13,Proposition 67,N/A,Yes,986
+Nevada,CP13,Proposition 67,N/A,No,1438
+Nevada,CP14,Proposition 67,N/A,Yes,137
+Nevada,CP14,Proposition 67,N/A,No,248
+Nevada,CP15,Proposition 67,N/A,Yes,459
+Nevada,CP15,Proposition 67,N/A,No,713
+Nevada,CP16,Proposition 67,N/A,Yes,54
+Nevada,CP16,Proposition 67,N/A,No,79
+Nevada,CP17,Proposition 67,N/A,Yes,726
+Nevada,CP17,Proposition 67,N/A,No,989
+Nevada,CP18,Proposition 67,N/A,Yes,570
+Nevada,CP18,Proposition 67,N/A,No,677
+Nevada,CP19,Proposition 67,N/A,Yes,615
+Nevada,CP19,Proposition 67,N/A,No,770
+Nevada,CP20,Proposition 67,N/A,Yes,126
+Nevada,CP20,Proposition 67,N/A,No,238
+Nevada,CP21,Proposition 67,N/A,Yes,175
+Nevada,CP21,Proposition 67,N/A,No,258
+Nevada,CP22,Proposition 67,N/A,Yes,109
+Nevada,CP22,Proposition 67,N/A,No,115
+Nevada,CP23,Proposition 67,N/A,Yes,319
+Nevada,CP23,Proposition 67,N/A,No,291
+Nevada,CP24,Proposition 67,N/A,Yes,694
+Nevada,CP24,Proposition 67,N/A,No,596
+Nevada,CP25,Proposition 67,N/A,Yes,724
+Nevada,CP25,Proposition 67,N/A,No,408
+Nevada,CP26,Proposition 67,N/A,Yes,880
+Nevada,CP26,Proposition 67,N/A,No,658
+Nevada,CP27,Proposition 67,N/A,Yes,480
+Nevada,CP27,Proposition 67,N/A,No,448
+Nevada,CP28,Proposition 67,N/A,Yes,1148
+Nevada,CP28,Proposition 67,N/A,No,344
+Nevada,CP29,Proposition 67,N/A,Yes,644
+Nevada,CP29,Proposition 67,N/A,No,713
+Nevada,CP30,Proposition 67,N/A,Yes,383
+Nevada,CP30,Proposition 67,N/A,No,381
+Nevada,CP31,Proposition 67,N/A,Yes,842
+Nevada,CP31,Proposition 67,N/A,No,1045
+Nevada,CP32,Proposition 67,N/A,Yes,592
+Nevada,CP32,Proposition 67,N/A,No,728
+Nevada,CP33,Proposition 67,N/A,Yes,93
+Nevada,CP33,Proposition 67,N/A,No,48
+Nevada,CP34,Proposition 67,N/A,Yes,223
+Nevada,CP34,Proposition 67,N/A,No,168
+Nevada,CP35,Proposition 67,N/A,Yes,454
+Nevada,CP35,Proposition 67,N/A,No,444
+Nevada,CP36,Proposition 67,N/A,Yes,208
+Nevada,CP36,Proposition 67,N/A,No,200
+Nevada,CP37,Proposition 67,N/A,Yes,825
+Nevada,CP37,Proposition 67,N/A,No,1196
+Nevada,CP38,Proposition 67,N/A,Yes,257
+Nevada,CP38,Proposition 67,N/A,No,272
+Nevada,CP39,Proposition 67,N/A,Yes,284
+Nevada,CP39,Proposition 67,N/A,No,349
+Nevada,CP40,Proposition 67,N/A,Yes,551
+Nevada,CP40,Proposition 67,N/A,No,193
+Nevada,CP41,Proposition 67,N/A,Yes,444
+Nevada,CP41,Proposition 67,N/A,No,177
+Nevada,CP42,Proposition 67,N/A,Yes,445
+Nevada,CP42,Proposition 67,N/A,No,106
+Nevada,CP43,Proposition 67,N/A,Yes,526
+Nevada,CP43,Proposition 67,N/A,No,144
+Nevada,CP44,Proposition 67,N/A,Yes,465
+Nevada,CP44,Proposition 67,N/A,No,145
+Nevada,CP45,Proposition 67,N/A,Yes,851
+Nevada,CP45,Proposition 67,N/A,No,318
+Nevada,CP46,Proposition 67,N/A,Yes,1090
+Nevada,CP46,Proposition 67,N/A,No,323
+Nevada,CP47,Proposition 67,N/A,Yes,1119
+Nevada,CP47,Proposition 67,N/A,No,373
+Nevada,MB48,Proposition 67,N/A,Yes,2
+Nevada,MB48,Proposition 67,N/A,No,2
+Nevada,MB49,Proposition 67,N/A,Yes,3
+Nevada,MB49,Proposition 67,N/A,No,3
+Nevada,MB50,Proposition 67,N/A,Yes,3
+Nevada,MB50,Proposition 67,N/A,No,3
+Nevada,MB51,Proposition 67,N/A,Yes,0
+Nevada,MB51,Proposition 67,N/A,No,0
+Nevada,MB52,Proposition 67,N/A,Yes,239
+Nevada,MB52,Proposition 67,N/A,No,190
+Nevada,MB53,Proposition 67,N/A,Yes,0
+Nevada,MB53,Proposition 67,N/A,No,0
+Nevada,MB54,Proposition 67,N/A,Yes,113
+Nevada,MB54,Proposition 67,N/A,No,65
+Nevada,MB55,Proposition 67,N/A,Yes,0
+Nevada,MB55,Proposition 67,N/A,No,0
+Nevada,MB56,Proposition 67,N/A,Yes,103
+Nevada,MB56,Proposition 67,N/A,No,61
+Nevada,MB57,Proposition 67,N/A,Yes,444
+Nevada,MB57,Proposition 67,N/A,No,466
+Nevada,MB58,Proposition 67,N/A,Yes,230
+Nevada,MB58,Proposition 67,N/A,No,117
+Nevada,MB59,Proposition 67,N/A,Yes,7
+Nevada,MB59,Proposition 67,N/A,No,1
+Nevada,MB60,Proposition 67,N/A,Yes,88
+Nevada,MB60,Proposition 67,N/A,No,117
+Nevada,MB61,Proposition 67,N/A,Yes,50
+Nevada,MB61,Proposition 67,N/A,No,65
+Nevada,MB62,Proposition 67,N/A,Yes,375
+Nevada,MB62,Proposition 67,N/A,No,328
+Nevada,MB63,Proposition 67,N/A,Yes,26
+Nevada,MB63,Proposition 67,N/A,No,22
+Nevada,MB64,Proposition 67,N/A,Yes,318
+Nevada,MB64,Proposition 67,N/A,No,364
+Nevada,MB65,Proposition 67,N/A,Yes,85
+Nevada,MB65,Proposition 67,N/A,No,35
+Nevada,MB66,Proposition 67,N/A,Yes,101
+Nevada,MB66,Proposition 67,N/A,No,74
+Nevada,MB67,Proposition 67,N/A,Yes,26
+Nevada,MB67,Proposition 67,N/A,No,27
+Nevada,MB68,Proposition 67,N/A,Yes,59
+Nevada,MB68,Proposition 67,N/A,No,28
+Nevada,MB69,Proposition 67,N/A,Yes,91
+Nevada,MB69,Proposition 67,N/A,No,35
+Nevada,MB70,Proposition 67,N/A,Yes,48
+Nevada,MB70,Proposition 67,N/A,No,61
+Nevada,MB71,Proposition 67,N/A,Yes,326
+Nevada,MB71,Proposition 67,N/A,No,250
+Nevada,MB72,Proposition 67,N/A,Yes,50
+Nevada,MB72,Proposition 67,N/A,No,31
+Nevada,MB73,Proposition 67,N/A,Yes,17
+Nevada,MB73,Proposition 67,N/A,No,11
+Nevada,MB74,Proposition 67,N/A,Yes,229
+Nevada,MB74,Proposition 67,N/A,No,338
+Nevada,MB75,Proposition 67,N/A,Yes,155
+Nevada,MB75,Proposition 67,N/A,No,127
+Nevada,MB76,Proposition 67,N/A,Yes,0
+Nevada,MB76,Proposition 67,N/A,No,0
+Nevada,MB77,Proposition 67,N/A,Yes,45
+Nevada,MB77,Proposition 67,N/A,No,48
+Nevada,MB78,Proposition 67,N/A,Yes,270
+Nevada,MB78,Proposition 67,N/A,No,202
+Nevada,MB79,Proposition 67,N/A,Yes,85
+Nevada,MB79,Proposition 67,N/A,No,126
+Nevada,MB80,Proposition 67,N/A,Yes,13
+Nevada,MB80,Proposition 67,N/A,No,24
+Nevada,MB81,Proposition 67,N/A,Yes,45
+Nevada,MB81,Proposition 67,N/A,No,56
+Nevada,MB82,Proposition 67,N/A,Yes,13
+Nevada,MB82,Proposition 67,N/A,No,22
+Nevada,CP01,U.S. Senate,DEM,Kamala Harris,797
+Nevada,CP01,U.S. Senate,DEM,Loretta Sanchez,352
+Nevada,CP02,U.S. Senate,DEM,Kamala Harris,347
+Nevada,CP02,U.S. Senate,DEM,Loretta Sanchez,171
+Nevada,CP03,U.S. Senate,DEM,Kamala Harris,345
+Nevada,CP03,U.S. Senate,DEM,Loretta Sanchez,157
+Nevada,CP04,U.S. Senate,DEM,Kamala Harris,746
+Nevada,CP04,U.S. Senate,DEM,Loretta Sanchez,291
+Nevada,CP05,U.S. Senate,DEM,Kamala Harris,408
+Nevada,CP05,U.S. Senate,DEM,Loretta Sanchez,149
+Nevada,CP06,U.S. Senate,DEM,Kamala Harris,817
+Nevada,CP06,U.S. Senate,DEM,Loretta Sanchez,295
+Nevada,CP07,U.S. Senate,DEM,Kamala Harris,1300
+Nevada,CP07,U.S. Senate,DEM,Loretta Sanchez,489
+Nevada,CP08,U.S. Senate,DEM,Kamala Harris,398
+Nevada,CP08,U.S. Senate,DEM,Loretta Sanchez,183
+Nevada,CP09,U.S. Senate,DEM,Kamala Harris,1132
+Nevada,CP09,U.S. Senate,DEM,Loretta Sanchez,305
+Nevada,CP10,U.S. Senate,DEM,Kamala Harris,301
+Nevada,CP10,U.S. Senate,DEM,Loretta Sanchez,113
+Nevada,CP11,U.S. Senate,DEM,Kamala Harris,616
+Nevada,CP11,U.S. Senate,DEM,Loretta Sanchez,255
+Nevada,CP12,U.S. Senate,DEM,Kamala Harris,508
+Nevada,CP12,U.S. Senate,DEM,Loretta Sanchez,304
+Nevada,CP13,U.S. Senate,DEM,Kamala Harris,1147
+Nevada,CP13,U.S. Senate,DEM,Loretta Sanchez,596
+Nevada,CP14,U.S. Senate,DEM,Kamala Harris,175
+Nevada,CP14,U.S. Senate,DEM,Loretta Sanchez,117
+Nevada,CP15,U.S. Senate,DEM,Kamala Harris,541
+Nevada,CP15,U.S. Senate,DEM,Loretta Sanchez,318
+Nevada,CP16,U.S. Senate,DEM,Kamala Harris,51
+Nevada,CP16,U.S. Senate,DEM,Loretta Sanchez,28
+Nevada,CP17,U.S. Senate,DEM,Kamala Harris,868
+Nevada,CP17,U.S. Senate,DEM,Loretta Sanchez,430
+Nevada,CP18,U.S. Senate,DEM,Kamala Harris,636
+Nevada,CP18,U.S. Senate,DEM,Loretta Sanchez,323
+Nevada,CP19,U.S. Senate,DEM,Kamala Harris,675
+Nevada,CP19,U.S. Senate,DEM,Loretta Sanchez,371
+Nevada,CP20,U.S. Senate,DEM,Kamala Harris,144
+Nevada,CP20,U.S. Senate,DEM,Loretta Sanchez,101
+Nevada,CP21,U.S. Senate,DEM,Kamala Harris,208
+Nevada,CP21,U.S. Senate,DEM,Loretta Sanchez,123
+Nevada,CP22,U.S. Senate,DEM,Kamala Harris,113
+Nevada,CP22,U.S. Senate,DEM,Loretta Sanchez,53
+Nevada,CP23,U.S. Senate,DEM,Kamala Harris,349
+Nevada,CP23,U.S. Senate,DEM,Loretta Sanchez,134
+Nevada,CP24,U.S. Senate,DEM,Kamala Harris,747
+Nevada,CP24,U.S. Senate,DEM,Loretta Sanchez,304
+Nevada,CP25,U.S. Senate,DEM,Kamala Harris,689
+Nevada,CP25,U.S. Senate,DEM,Loretta Sanchez,263
+Nevada,CP26,U.S. Senate,DEM,Kamala Harris,853
+Nevada,CP26,U.S. Senate,DEM,Loretta Sanchez,377
+Nevada,CP27,U.S. Senate,DEM,Kamala Harris,503
+Nevada,CP27,U.S. Senate,DEM,Loretta Sanchez,249
+Nevada,CP28,U.S. Senate,DEM,Kamala Harris,870
+Nevada,CP28,U.S. Senate,DEM,Loretta Sanchez,354
+Nevada,CP29,U.S. Senate,DEM,Kamala Harris,740
+Nevada,CP29,U.S. Senate,DEM,Loretta Sanchez,309
+Nevada,CP30,U.S. Senate,DEM,Kamala Harris,420
+Nevada,CP30,U.S. Senate,DEM,Loretta Sanchez,189
+Nevada,CP31,U.S. Senate,DEM,Kamala Harris,987
+Nevada,CP31,U.S. Senate,DEM,Loretta Sanchez,477
+Nevada,CP32,U.S. Senate,DEM,Kamala Harris,683
+Nevada,CP32,U.S. Senate,DEM,Loretta Sanchez,341
+Nevada,CP33,U.S. Senate,DEM,Kamala Harris,85
+Nevada,CP33,U.S. Senate,DEM,Loretta Sanchez,33
+Nevada,CP34,U.S. Senate,DEM,Kamala Harris,204
+Nevada,CP34,U.S. Senate,DEM,Loretta Sanchez,112
+Nevada,CP35,U.S. Senate,DEM,Kamala Harris,447
+Nevada,CP35,U.S. Senate,DEM,Loretta Sanchez,223
+Nevada,CP36,U.S. Senate,DEM,Kamala Harris,216
+Nevada,CP36,U.S. Senate,DEM,Loretta Sanchez,102
+Nevada,CP37,U.S. Senate,DEM,Kamala Harris,942
+Nevada,CP37,U.S. Senate,DEM,Loretta Sanchez,551
+Nevada,CP38,U.S. Senate,DEM,Kamala Harris,253
+Nevada,CP38,U.S. Senate,DEM,Loretta Sanchez,146
+Nevada,CP39,U.S. Senate,DEM,Kamala Harris,308
+Nevada,CP39,U.S. Senate,DEM,Loretta Sanchez,163
+Nevada,CP40,U.S. Senate,DEM,Kamala Harris,444
+Nevada,CP40,U.S. Senate,DEM,Loretta Sanchez,172
+Nevada,CP41,U.S. Senate,DEM,Kamala Harris,384
+Nevada,CP41,U.S. Senate,DEM,Loretta Sanchez,157
+Nevada,CP42,U.S. Senate,DEM,Kamala Harris,393
+Nevada,CP42,U.S. Senate,DEM,Loretta Sanchez,113
+Nevada,CP43,U.S. Senate,DEM,Kamala Harris,393
+Nevada,CP43,U.S. Senate,DEM,Loretta Sanchez,150
+Nevada,CP44,U.S. Senate,DEM,Kamala Harris,379
+Nevada,CP44,U.S. Senate,DEM,Loretta Sanchez,127
+Nevada,CP45,U.S. Senate,DEM,Kamala Harris,742
+Nevada,CP45,U.S. Senate,DEM,Loretta Sanchez,243
+Nevada,CP46,U.S. Senate,DEM,Kamala Harris,778
+Nevada,CP46,U.S. Senate,DEM,Loretta Sanchez,370
+Nevada,CP47,U.S. Senate,DEM,Kamala Harris,862
+Nevada,CP47,U.S. Senate,DEM,Loretta Sanchez,361
+Nevada,MB48,U.S. Senate,DEM,Kamala Harris,3
+Nevada,MB48,U.S. Senate,DEM,Loretta Sanchez,1
+Nevada,MB49,U.S. Senate,DEM,Kamala Harris,4
+Nevada,MB49,U.S. Senate,DEM,Loretta Sanchez,0
+Nevada,MB50,U.S. Senate,DEM,Kamala Harris,3
+Nevada,MB50,U.S. Senate,DEM,Loretta Sanchez,0
+Nevada,MB51,U.S. Senate,DEM,Kamala Harris,0
+Nevada,MB51,U.S. Senate,DEM,Loretta Sanchez,0
+Nevada,MB52,U.S. Senate,DEM,Kamala Harris,239
+Nevada,MB52,U.S. Senate,DEM,Loretta Sanchez,113
+Nevada,MB53,U.S. Senate,DEM,Kamala Harris,0
+Nevada,MB53,U.S. Senate,DEM,Loretta Sanchez,0
+Nevada,MB54,U.S. Senate,DEM,Kamala Harris,98
+Nevada,MB54,U.S. Senate,DEM,Loretta Sanchez,46
+Nevada,MB55,U.S. Senate,DEM,Kamala Harris,0
+Nevada,MB55,U.S. Senate,DEM,Loretta Sanchez,0
+Nevada,MB56,U.S. Senate,DEM,Kamala Harris,98
+Nevada,MB56,U.S. Senate,DEM,Loretta Sanchez,40
+Nevada,MB57,U.S. Senate,DEM,Kamala Harris,471
+Nevada,MB57,U.S. Senate,DEM,Loretta Sanchez,215
+Nevada,MB58,U.S. Senate,DEM,Kamala Harris,216
+Nevada,MB58,U.S. Senate,DEM,Loretta Sanchez,74
+Nevada,MB59,U.S. Senate,DEM,Kamala Harris,1
+Nevada,MB59,U.S. Senate,DEM,Loretta Sanchez,6
+Nevada,MB60,U.S. Senate,DEM,Kamala Harris,107
+Nevada,MB60,U.S. Senate,DEM,Loretta Sanchez,48
+Nevada,MB61,U.S. Senate,DEM,Kamala Harris,58
+Nevada,MB61,U.S. Senate,DEM,Loretta Sanchez,29
+Nevada,MB62,U.S. Senate,DEM,Kamala Harris,397
+Nevada,MB62,U.S. Senate,DEM,Loretta Sanchez,164
+Nevada,MB63,U.S. Senate,DEM,Kamala Harris,27
+Nevada,MB63,U.S. Senate,DEM,Loretta Sanchez,11
+Nevada,MB64,U.S. Senate,DEM,Kamala Harris,343
+Nevada,MB64,U.S. Senate,DEM,Loretta Sanchez,198
+Nevada,MB65,U.S. Senate,DEM,Kamala Harris,65
+Nevada,MB65,U.S. Senate,DEM,Loretta Sanchez,32
+Nevada,MB66,U.S. Senate,DEM,Kamala Harris,95
+Nevada,MB66,U.S. Senate,DEM,Loretta Sanchez,46
+Nevada,MB67,U.S. Senate,DEM,Kamala Harris,23
+Nevada,MB67,U.S. Senate,DEM,Loretta Sanchez,24
+Nevada,MB68,U.S. Senate,DEM,Kamala Harris,55
+Nevada,MB68,U.S. Senate,DEM,Loretta Sanchez,13
+Nevada,MB69,U.S. Senate,DEM,Kamala Harris,70
+Nevada,MB69,U.S. Senate,DEM,Loretta Sanchez,30
+Nevada,MB70,U.S. Senate,DEM,Kamala Harris,50
+Nevada,MB70,U.S. Senate,DEM,Loretta Sanchez,36
+Nevada,MB71,U.S. Senate,DEM,Kamala Harris,324
+Nevada,MB71,U.S. Senate,DEM,Loretta Sanchez,137
+Nevada,MB72,U.S. Senate,DEM,Kamala Harris,54
+Nevada,MB72,U.S. Senate,DEM,Loretta Sanchez,14
+Nevada,MB73,U.S. Senate,DEM,Kamala Harris,14
+Nevada,MB73,U.S. Senate,DEM,Loretta Sanchez,8
+Nevada,MB74,U.S. Senate,DEM,Kamala Harris,259
+Nevada,MB74,U.S. Senate,DEM,Loretta Sanchez,158
+Nevada,MB75,U.S. Senate,DEM,Kamala Harris,130
+Nevada,MB75,U.S. Senate,DEM,Loretta Sanchez,91
+Nevada,MB76,U.S. Senate,DEM,Kamala Harris,0
+Nevada,MB76,U.S. Senate,DEM,Loretta Sanchez,0
+Nevada,MB77,U.S. Senate,DEM,Kamala Harris,45
+Nevada,MB77,U.S. Senate,DEM,Loretta Sanchez,24
+Nevada,MB78,U.S. Senate,DEM,Kamala Harris,262
+Nevada,MB78,U.S. Senate,DEM,Loretta Sanchez,124
+Nevada,MB79,U.S. Senate,DEM,Kamala Harris,104
+Nevada,MB79,U.S. Senate,DEM,Loretta Sanchez,51
+Nevada,MB80,U.S. Senate,DEM,Kamala Harris,16
+Nevada,MB80,U.S. Senate,DEM,Loretta Sanchez,13
+Nevada,MB81,U.S. Senate,DEM,Kamala Harris,54
+Nevada,MB81,U.S. Senate,DEM,Loretta Sanchez,28
+Nevada,MB82,U.S. Senate,DEM,Kamala Harris,10
+Nevada,MB82,U.S. Senate,DEM,Loretta Sanchez,11

@@ -1,0 +1,925 @@
+county,precinct,race,party,candidate,votes
+Sierra,1,President,DEM,Hillary Clinton,39
+Sierra,1,President,REP/AI,Donald J. Trump,89
+Sierra,1,President,LIB,Gary Johnson,10
+Sierra,1,President,GRN,Jill Stein,2
+Sierra,1,President,PF,Gloria Estela La Riva,3
+Sierra,1,President,WI,Write-In,1
+Sierra,10,President,DEM,Hillary Clinton,1
+Sierra,10,President,REP/AI,Donald J. Trump,1
+Sierra,10,President,LIB,Gary Johnson,0
+Sierra,10,President,GRN,Jill Stein,1
+Sierra,10,President,PF,Gloria Estela La Riva,0
+Sierra,10,President,WI,Write-In,0
+Sierra,11,President,DEM,Hillary Clinton,29
+Sierra,11,President,REP/AI,Donald J. Trump,38
+Sierra,11,President,LIB,Gary Johnson,2
+Sierra,11,President,GRN,Jill Stein,3
+Sierra,11,President,PF,Gloria Estela La Riva,0
+Sierra,11,President,WI,Write-In,3
+Sierra,12,President,DEM,Hillary Clinton,49
+Sierra,12,President,REP/AI,Donald J. Trump,98
+Sierra,12,President,LIB,Gary Johnson,14
+Sierra,12,President,GRN,Jill Stein,6
+Sierra,12,President,PF,Gloria Estela La Riva,0
+Sierra,12,President,WI,Write-In,3
+Sierra,13,President,DEM,Hillary Clinton,8
+Sierra,13,President,REP/AI,Donald J. Trump,23
+Sierra,13,President,LIB,Gary Johnson,2
+Sierra,13,President,GRN,Jill Stein,0
+Sierra,13,President,PF,Gloria Estela La Riva,0
+Sierra,13,President,WI,Write-In,1
+Sierra,14,President,DEM,Hillary Clinton,56
+Sierra,14,President,REP/AI,Donald J. Trump,73
+Sierra,14,President,LIB,Gary Johnson,9
+Sierra,14,President,GRN,Jill Stein,3
+Sierra,14,President,PF,Gloria Estela La Riva,0
+Sierra,14,President,WI,Write-In,4
+Sierra,15,President,DEM,Hillary Clinton,21
+Sierra,15,President,REP/AI,Donald J. Trump,42
+Sierra,15,President,LIB,Gary Johnson,4
+Sierra,15,President,GRN,Jill Stein,0
+Sierra,15,President,PF,Gloria Estela La Riva,0
+Sierra,15,President,WI,Write-In,3
+Sierra,16,President,DEM,Hillary Clinton,41
+Sierra,16,President,REP/AI,Donald J. Trump,71
+Sierra,16,President,LIB,Gary Johnson,6
+Sierra,16,President,GRN,Jill Stein,2
+Sierra,16,President,PF,Gloria Estela La Riva,2
+Sierra,16,President,WI,Write-In,3
+Sierra,17,President,DEM,Hillary Clinton,46
+Sierra,17,President,REP/AI,Donald J. Trump,97
+Sierra,17,President,LIB,Gary Johnson,5
+Sierra,17,President,GRN,Jill Stein,1
+Sierra,17,President,PF,Gloria Estela La Riva,0
+Sierra,17,President,WI,Write-In,5
+Sierra,18,President,DEM,Hillary Clinton,19
+Sierra,18,President,REP/AI,Donald J. Trump,38
+Sierra,18,President,LIB,Gary Johnson,3
+Sierra,18,President,GRN,Jill Stein,1
+Sierra,18,President,PF,Gloria Estela La Riva,3
+Sierra,18,President,WI,Write-In,2
+Sierra,19,President,DEM,Hillary Clinton,5
+Sierra,19,President,REP/AI,Donald J. Trump,0
+Sierra,19,President,LIB,Gary Johnson,1
+Sierra,19,President,GRN,Jill Stein,0
+Sierra,19,President,PF,Gloria Estela La Riva,0
+Sierra,19,President,WI,Write-In,0
+Sierra,2,President,DEM,Hillary Clinton,19
+Sierra,2,President,REP/AI,Donald J. Trump,26
+Sierra,2,President,LIB,Gary Johnson,2
+Sierra,2,President,GRN,Jill Stein,2
+Sierra,2,President,PF,Gloria Estela La Riva,0
+Sierra,2,President,WI,Write-In,2
+Sierra,20,President,DEM,Hillary Clinton,8
+Sierra,20,President,REP/AI,Donald J. Trump,8
+Sierra,20,President,LIB,Gary Johnson,0
+Sierra,20,President,GRN,Jill Stein,0
+Sierra,20,President,PF,Gloria Estela La Riva,0
+Sierra,20,President,WI,Write-In,0
+Sierra,21,President,DEM,Hillary Clinton,30
+Sierra,21,President,REP/AI,Donald J. Trump,91
+Sierra,21,President,LIB,Gary Johnson,6
+Sierra,21,President,GRN,Jill Stein,1
+Sierra,21,President,PF,Gloria Estela La Riva,0
+Sierra,21,President,WI,Write-In,3
+Sierra,22,President,DEM,Hillary Clinton,36
+Sierra,22,President,REP/AI,Donald J. Trump,95
+Sierra,22,President,LIB,Gary Johnson,7
+Sierra,22,President,GRN,Jill Stein,0
+Sierra,22,President,PF,Gloria Estela La Riva,0
+Sierra,22,President,WI,Write-In,5
+Sierra,3,President,DEM,Hillary Clinton,18
+Sierra,3,President,REP/AI,Donald J. Trump,33
+Sierra,3,President,LIB,Gary Johnson,2
+Sierra,3,President,GRN,Jill Stein,2
+Sierra,3,President,PF,Gloria Estela La Riva,1
+Sierra,3,President,WI,Write-In,3
+Sierra,4,President,DEM,Hillary Clinton,15
+Sierra,4,President,REP/AI,Donald J. Trump,31
+Sierra,4,President,LIB,Gary Johnson,7
+Sierra,4,President,GRN,Jill Stein,2
+Sierra,4,President,PF,Gloria Estela La Riva,1
+Sierra,4,President,WI,Write-In,1
+Sierra,5,President,DEM,Hillary Clinton,42
+Sierra,5,President,REP/AI,Donald J. Trump,58
+Sierra,5,President,LIB,Gary Johnson,5
+Sierra,5,President,GRN,Jill Stein,10
+Sierra,5,President,PF,Gloria Estela La Riva,2
+Sierra,5,President,WI,Write-In,11
+Sierra,6,President,DEM,Hillary Clinton,40
+Sierra,6,President,REP/AI,Donald J. Trump,53
+Sierra,6,President,LIB,Gary Johnson,3
+Sierra,6,President,GRN,Jill Stein,1
+Sierra,6,President,PF,Gloria Estela La Riva,1
+Sierra,6,President,WI,Write-In,2
+Sierra,7,President,DEM,Hillary Clinton,33
+Sierra,7,President,REP/AI,Donald J. Trump,56
+Sierra,7,President,LIB,Gary Johnson,7
+Sierra,7,President,GRN,Jill Stein,4
+Sierra,7,President,PF,Gloria Estela La Riva,2
+Sierra,7,President,WI,Write-In,2
+Sierra,8,President,DEM,Hillary Clinton,4
+Sierra,8,President,REP/AI,Donald J. Trump,4
+Sierra,8,President,LIB,Gary Johnson,2
+Sierra,8,President,GRN,Jill Stein,0
+Sierra,8,President,PF,Gloria Estela La Riva,0
+Sierra,8,President,WI,Write-In,0
+Sierra,9,President,DEM,Hillary Clinton,42
+Sierra,9,President,REP/AI,Donald J. Trump,23
+Sierra,9,President,LIB,Gary Johnson,1
+Sierra,9,President,GRN,Jill Stein,1
+Sierra,9,President,PF,Gloria Estela La Riva,0
+Sierra,9,President,WI,Write-In,0
+Sierra,1,Proposition 51,N/A,Yes,58
+Sierra,1,Proposition 51,N/A,No,82
+Sierra,10,Proposition 51,N/A,Yes,4
+Sierra,10,Proposition 51,N/A,No,0
+Sierra,11,Proposition 51,N/A,Yes,25
+Sierra,11,Proposition 51,N/A,No,44
+Sierra,12,Proposition 51,N/A,Yes,53
+Sierra,12,Proposition 51,N/A,No,117
+Sierra,13,Proposition 51,N/A,Yes,10
+Sierra,13,Proposition 51,N/A,No,23
+Sierra,14,Proposition 51,N/A,Yes,54
+Sierra,14,Proposition 51,N/A,No,85
+Sierra,15,Proposition 51,N/A,Yes,13
+Sierra,15,Proposition 51,N/A,No,54
+Sierra,16,Proposition 51,N/A,Yes,52
+Sierra,16,Proposition 51,N/A,No,65
+Sierra,17,Proposition 51,N/A,Yes,59
+Sierra,17,Proposition 51,N/A,No,91
+Sierra,18,Proposition 51,N/A,Yes,18
+Sierra,18,Proposition 51,N/A,No,50
+Sierra,19,Proposition 51,N/A,Yes,4
+Sierra,19,Proposition 51,N/A,No,2
+Sierra,2,Proposition 51,N/A,Yes,24
+Sierra,2,Proposition 51,N/A,No,26
+Sierra,20,Proposition 51,N/A,Yes,7
+Sierra,20,Proposition 51,N/A,No,10
+Sierra,21,Proposition 51,N/A,Yes,46
+Sierra,21,Proposition 51,N/A,No,81
+Sierra,22,Proposition 51,N/A,Yes,57
+Sierra,22,Proposition 51,N/A,No,83
+Sierra,3,Proposition 51,N/A,Yes,27
+Sierra,3,Proposition 51,N/A,No,28
+Sierra,4,Proposition 51,N/A,Yes,25
+Sierra,4,Proposition 51,N/A,No,25
+Sierra,5,Proposition 51,N/A,Yes,49
+Sierra,5,Proposition 51,N/A,No,72
+Sierra,6,Proposition 51,N/A,Yes,50
+Sierra,6,Proposition 51,N/A,No,47
+Sierra,7,Proposition 51,N/A,Yes,50
+Sierra,7,Proposition 51,N/A,No,50
+Sierra,8,Proposition 51,N/A,Yes,3
+Sierra,8,Proposition 51,N/A,No,6
+Sierra,9,Proposition 51,N/A,Yes,33
+Sierra,9,Proposition 51,N/A,No,29
+Sierra,1,Proposition 52,N/A,Yes,85
+Sierra,1,Proposition 52,N/A,No,56
+Sierra,10,Proposition 52,N/A,Yes,2
+Sierra,10,Proposition 52,N/A,No,2
+Sierra,11,Proposition 52,N/A,Yes,45
+Sierra,11,Proposition 52,N/A,No,22
+Sierra,12,Proposition 52,N/A,Yes,88
+Sierra,12,Proposition 52,N/A,No,75
+Sierra,13,Proposition 52,N/A,Yes,23
+Sierra,13,Proposition 52,N/A,No,10
+Sierra,14,Proposition 52,N/A,Yes,88
+Sierra,14,Proposition 52,N/A,No,46
+Sierra,15,Proposition 52,N/A,Yes,36
+Sierra,15,Proposition 52,N/A,No,34
+Sierra,16,Proposition 52,N/A,Yes,70
+Sierra,16,Proposition 52,N/A,No,46
+Sierra,17,Proposition 52,N/A,Yes,89
+Sierra,17,Proposition 52,N/A,No,60
+Sierra,18,Proposition 52,N/A,Yes,43
+Sierra,18,Proposition 52,N/A,No,24
+Sierra,19,Proposition 52,N/A,Yes,3
+Sierra,19,Proposition 52,N/A,No,3
+Sierra,2,Proposition 52,N/A,Yes,28
+Sierra,2,Proposition 52,N/A,No,23
+Sierra,20,Proposition 52,N/A,Yes,9
+Sierra,20,Proposition 52,N/A,No,6
+Sierra,21,Proposition 52,N/A,Yes,56
+Sierra,21,Proposition 52,N/A,No,68
+Sierra,22,Proposition 52,N/A,Yes,77
+Sierra,22,Proposition 52,N/A,No,60
+Sierra,3,Proposition 52,N/A,Yes,41
+Sierra,3,Proposition 52,N/A,No,14
+Sierra,4,Proposition 52,N/A,Yes,38
+Sierra,4,Proposition 52,N/A,No,12
+Sierra,5,Proposition 52,N/A,Yes,70
+Sierra,5,Proposition 52,N/A,No,47
+Sierra,6,Proposition 52,N/A,Yes,73
+Sierra,6,Proposition 52,N/A,No,23
+Sierra,7,Proposition 52,N/A,Yes,53
+Sierra,7,Proposition 52,N/A,No,50
+Sierra,8,Proposition 52,N/A,Yes,5
+Sierra,8,Proposition 52,N/A,No,4
+Sierra,9,Proposition 52,N/A,Yes,44
+Sierra,9,Proposition 52,N/A,No,18
+Sierra,1,Proposition 53,N/A,Yes,66
+Sierra,1,Proposition 53,N/A,No,73
+Sierra,10,Proposition 53,N/A,Yes,2
+Sierra,10,Proposition 53,N/A,No,2
+Sierra,11,Proposition 53,N/A,Yes,34
+Sierra,11,Proposition 53,N/A,No,34
+Sierra,12,Proposition 53,N/A,Yes,91
+Sierra,12,Proposition 53,N/A,No,66
+Sierra,13,Proposition 53,N/A,Yes,15
+Sierra,13,Proposition 53,N/A,No,17
+Sierra,14,Proposition 53,N/A,Yes,56
+Sierra,14,Proposition 53,N/A,No,82
+Sierra,15,Proposition 53,N/A,Yes,36
+Sierra,15,Proposition 53,N/A,No,30
+Sierra,16,Proposition 53,N/A,Yes,70
+Sierra,16,Proposition 53,N/A,No,50
+Sierra,17,Proposition 53,N/A,Yes,91
+Sierra,17,Proposition 53,N/A,No,56
+Sierra,18,Proposition 53,N/A,Yes,35
+Sierra,18,Proposition 53,N/A,No,32
+Sierra,19,Proposition 53,N/A,Yes,1
+Sierra,19,Proposition 53,N/A,No,4
+Sierra,2,Proposition 53,N/A,Yes,17
+Sierra,2,Proposition 53,N/A,No,34
+Sierra,20,Proposition 53,N/A,Yes,7
+Sierra,20,Proposition 53,N/A,No,10
+Sierra,21,Proposition 53,N/A,Yes,83
+Sierra,21,Proposition 53,N/A,No,42
+Sierra,22,Proposition 53,N/A,Yes,92
+Sierra,22,Proposition 53,N/A,No,47
+Sierra,3,Proposition 53,N/A,Yes,19
+Sierra,3,Proposition 53,N/A,No,36
+Sierra,4,Proposition 53,N/A,Yes,26
+Sierra,4,Proposition 53,N/A,No,24
+Sierra,5,Proposition 53,N/A,Yes,73
+Sierra,5,Proposition 53,N/A,No,43
+Sierra,6,Proposition 53,N/A,Yes,45
+Sierra,6,Proposition 53,N/A,No,50
+Sierra,7,Proposition 53,N/A,Yes,60
+Sierra,7,Proposition 53,N/A,No,41
+Sierra,8,Proposition 53,N/A,Yes,5
+Sierra,8,Proposition 53,N/A,No,4
+Sierra,9,Proposition 53,N/A,Yes,25
+Sierra,9,Proposition 53,N/A,No,32
+Sierra,1,Proposition 54,N/A,Yes,71
+Sierra,1,Proposition 54,N/A,No,69
+Sierra,10,Proposition 54,N/A,Yes,2
+Sierra,10,Proposition 54,N/A,No,2
+Sierra,11,Proposition 54,N/A,Yes,41
+Sierra,11,Proposition 54,N/A,No,26
+Sierra,12,Proposition 54,N/A,Yes,91
+Sierra,12,Proposition 54,N/A,No,68
+Sierra,13,Proposition 54,N/A,Yes,19
+Sierra,13,Proposition 54,N/A,No,14
+Sierra,14,Proposition 54,N/A,Yes,84
+Sierra,14,Proposition 54,N/A,No,52
+Sierra,15,Proposition 54,N/A,Yes,41
+Sierra,15,Proposition 54,N/A,No,27
+Sierra,16,Proposition 54,N/A,Yes,78
+Sierra,16,Proposition 54,N/A,No,41
+Sierra,17,Proposition 54,N/A,Yes,86
+Sierra,17,Proposition 54,N/A,No,59
+Sierra,18,Proposition 54,N/A,Yes,29
+Sierra,18,Proposition 54,N/A,No,35
+Sierra,19,Proposition 54,N/A,Yes,1
+Sierra,19,Proposition 54,N/A,No,4
+Sierra,2,Proposition 54,N/A,Yes,21
+Sierra,2,Proposition 54,N/A,No,30
+Sierra,20,Proposition 54,N/A,Yes,7
+Sierra,20,Proposition 54,N/A,No,10
+Sierra,21,Proposition 54,N/A,Yes,78
+Sierra,21,Proposition 54,N/A,No,46
+Sierra,22,Proposition 54,N/A,Yes,90
+Sierra,22,Proposition 54,N/A,No,49
+Sierra,3,Proposition 54,N/A,Yes,27
+Sierra,3,Proposition 54,N/A,No,29
+Sierra,4,Proposition 54,N/A,Yes,35
+Sierra,4,Proposition 54,N/A,No,14
+Sierra,5,Proposition 54,N/A,Yes,95
+Sierra,5,Proposition 54,N/A,No,25
+Sierra,6,Proposition 54,N/A,Yes,67
+Sierra,6,Proposition 54,N/A,No,33
+Sierra,7,Proposition 54,N/A,Yes,62
+Sierra,7,Proposition 54,N/A,No,38
+Sierra,8,Proposition 54,N/A,Yes,4
+Sierra,8,Proposition 54,N/A,No,5
+Sierra,9,Proposition 54,N/A,Yes,31
+Sierra,9,Proposition 54,N/A,No,30
+Sierra,1,Proposition 55,N/A,Yes,75
+Sierra,1,Proposition 55,N/A,No,64
+Sierra,10,Proposition 55,N/A,Yes,2
+Sierra,10,Proposition 55,N/A,No,2
+Sierra,11,Proposition 55,N/A,Yes,38
+Sierra,11,Proposition 55,N/A,No,32
+Sierra,12,Proposition 55,N/A,Yes,68
+Sierra,12,Proposition 55,N/A,No,96
+Sierra,13,Proposition 55,N/A,Yes,11
+Sierra,13,Proposition 55,N/A,No,23
+Sierra,14,Proposition 55,N/A,Yes,71
+Sierra,14,Proposition 55,N/A,No,68
+Sierra,15,Proposition 55,N/A,Yes,25
+Sierra,15,Proposition 55,N/A,No,42
+Sierra,16,Proposition 55,N/A,Yes,74
+Sierra,16,Proposition 55,N/A,No,45
+Sierra,17,Proposition 55,N/A,Yes,79
+Sierra,17,Proposition 55,N/A,No,69
+Sierra,18,Proposition 55,N/A,Yes,34
+Sierra,18,Proposition 55,N/A,No,35
+Sierra,19,Proposition 55,N/A,Yes,6
+Sierra,19,Proposition 55,N/A,No,0
+Sierra,2,Proposition 55,N/A,Yes,26
+Sierra,2,Proposition 55,N/A,No,25
+Sierra,20,Proposition 55,N/A,Yes,9
+Sierra,20,Proposition 55,N/A,No,7
+Sierra,21,Proposition 55,N/A,Yes,52
+Sierra,21,Proposition 55,N/A,No,75
+Sierra,22,Proposition 55,N/A,Yes,70
+Sierra,22,Proposition 55,N/A,No,71
+Sierra,3,Proposition 55,N/A,Yes,34
+Sierra,3,Proposition 55,N/A,No,24
+Sierra,4,Proposition 55,N/A,Yes,25
+Sierra,4,Proposition 55,N/A,No,25
+Sierra,5,Proposition 55,N/A,Yes,77
+Sierra,5,Proposition 55,N/A,No,43
+Sierra,6,Proposition 55,N/A,Yes,57
+Sierra,6,Proposition 55,N/A,No,42
+Sierra,7,Proposition 55,N/A,Yes,52
+Sierra,7,Proposition 55,N/A,No,50
+Sierra,8,Proposition 55,N/A,Yes,6
+Sierra,8,Proposition 55,N/A,No,3
+Sierra,9,Proposition 55,N/A,Yes,44
+Sierra,9,Proposition 55,N/A,No,22
+Sierra,1,Proposition 56,N/A,Yes,57
+Sierra,1,Proposition 56,N/A,No,86
+Sierra,10,Proposition 56,N/A,Yes,4
+Sierra,10,Proposition 56,N/A,No,0
+Sierra,11,Proposition 56,N/A,Yes,27
+Sierra,11,Proposition 56,N/A,No,46
+Sierra,12,Proposition 56,N/A,Yes,82
+Sierra,12,Proposition 56,N/A,No,87
+Sierra,13,Proposition 56,N/A,Yes,7
+Sierra,13,Proposition 56,N/A,No,27
+Sierra,14,Proposition 56,N/A,Yes,83
+Sierra,14,Proposition 56,N/A,No,61
+Sierra,15,Proposition 56,N/A,Yes,22
+Sierra,15,Proposition 56,N/A,No,49
+Sierra,16,Proposition 56,N/A,Yes,47
+Sierra,16,Proposition 56,N/A,No,76
+Sierra,17,Proposition 56,N/A,Yes,56
+Sierra,17,Proposition 56,N/A,No,94
+Sierra,18,Proposition 56,N/A,Yes,25
+Sierra,18,Proposition 56,N/A,No,43
+Sierra,19,Proposition 56,N/A,Yes,1
+Sierra,19,Proposition 56,N/A,No,5
+Sierra,2,Proposition 56,N/A,Yes,26
+Sierra,2,Proposition 56,N/A,No,26
+Sierra,20,Proposition 56,N/A,Yes,10
+Sierra,20,Proposition 56,N/A,No,7
+Sierra,21,Proposition 56,N/A,Yes,60
+Sierra,21,Proposition 56,N/A,No,68
+Sierra,22,Proposition 56,N/A,Yes,49
+Sierra,22,Proposition 56,N/A,No,93
+Sierra,3,Proposition 56,N/A,Yes,30
+Sierra,3,Proposition 56,N/A,No,28
+Sierra,4,Proposition 56,N/A,Yes,13
+Sierra,4,Proposition 56,N/A,No,42
+Sierra,5,Proposition 56,N/A,Yes,46
+Sierra,5,Proposition 56,N/A,No,78
+Sierra,6,Proposition 56,N/A,Yes,58
+Sierra,6,Proposition 56,N/A,No,43
+Sierra,7,Proposition 56,N/A,Yes,56
+Sierra,7,Proposition 56,N/A,No,47
+Sierra,8,Proposition 56,N/A,Yes,4
+Sierra,8,Proposition 56,N/A,No,5
+Sierra,9,Proposition 56,N/A,Yes,44
+Sierra,9,Proposition 56,N/A,No,21
+Sierra,1,Proposition 57,N/A,Yes,74
+Sierra,1,Proposition 57,N/A,No,66
+Sierra,10,Proposition 57,N/A,Yes,4
+Sierra,10,Proposition 57,N/A,No,0
+Sierra,11,Proposition 57,N/A,Yes,43
+Sierra,11,Proposition 57,N/A,No,27
+Sierra,12,Proposition 57,N/A,Yes,87
+Sierra,12,Proposition 57,N/A,No,77
+Sierra,13,Proposition 57,N/A,Yes,14
+Sierra,13,Proposition 57,N/A,No,20
+Sierra,14,Proposition 57,N/A,Yes,83
+Sierra,14,Proposition 57,N/A,No,54
+Sierra,15,Proposition 57,N/A,Yes,32
+Sierra,15,Proposition 57,N/A,No,37
+Sierra,16,Proposition 57,N/A,Yes,63
+Sierra,16,Proposition 57,N/A,No,53
+Sierra,17,Proposition 57,N/A,Yes,71
+Sierra,17,Proposition 57,N/A,No,79
+Sierra,18,Proposition 57,N/A,Yes,32
+Sierra,18,Proposition 57,N/A,No,34
+Sierra,19,Proposition 57,N/A,Yes,6
+Sierra,19,Proposition 57,N/A,No,0
+Sierra,2,Proposition 57,N/A,Yes,29
+Sierra,2,Proposition 57,N/A,No,22
+Sierra,20,Proposition 57,N/A,Yes,14
+Sierra,20,Proposition 57,N/A,No,3
+Sierra,21,Proposition 57,N/A,Yes,60
+Sierra,21,Proposition 57,N/A,No,68
+Sierra,22,Proposition 57,N/A,Yes,82
+Sierra,22,Proposition 57,N/A,No,56
+Sierra,3,Proposition 57,N/A,Yes,35
+Sierra,3,Proposition 57,N/A,No,23
+Sierra,4,Proposition 57,N/A,Yes,28
+Sierra,4,Proposition 57,N/A,No,19
+Sierra,5,Proposition 57,N/A,Yes,91
+Sierra,5,Proposition 57,N/A,No,31
+Sierra,6,Proposition 57,N/A,Yes,57
+Sierra,6,Proposition 57,N/A,No,42
+Sierra,7,Proposition 57,N/A,Yes,58
+Sierra,7,Proposition 57,N/A,No,44
+Sierra,8,Proposition 57,N/A,Yes,6
+Sierra,8,Proposition 57,N/A,No,2
+Sierra,9,Proposition 57,N/A,Yes,49
+Sierra,9,Proposition 57,N/A,No,13
+Sierra,1,Proposition 58,N/A,Yes,87
+Sierra,1,Proposition 58,N/A,No,53
+Sierra,10,Proposition 58,N/A,Yes,4
+Sierra,10,Proposition 58,N/A,No,0
+Sierra,11,Proposition 58,N/A,Yes,51
+Sierra,11,Proposition 58,N/A,No,21
+Sierra,12,Proposition 58,N/A,Yes,105
+Sierra,12,Proposition 58,N/A,No,57
+Sierra,13,Proposition 58,N/A,Yes,11
+Sierra,13,Proposition 58,N/A,No,21
+Sierra,14,Proposition 58,N/A,Yes,101
+Sierra,14,Proposition 58,N/A,No,41
+Sierra,15,Proposition 58,N/A,Yes,36
+Sierra,15,Proposition 58,N/A,No,33
+Sierra,16,Proposition 58,N/A,Yes,76
+Sierra,16,Proposition 58,N/A,No,42
+Sierra,17,Proposition 58,N/A,Yes,98
+Sierra,17,Proposition 58,N/A,No,51
+Sierra,18,Proposition 58,N/A,Yes,35
+Sierra,18,Proposition 58,N/A,No,32
+Sierra,19,Proposition 58,N/A,Yes,5
+Sierra,19,Proposition 58,N/A,No,1
+Sierra,2,Proposition 58,N/A,Yes,31
+Sierra,2,Proposition 58,N/A,No,19
+Sierra,20,Proposition 58,N/A,Yes,10
+Sierra,20,Proposition 58,N/A,No,6
+Sierra,21,Proposition 58,N/A,Yes,69
+Sierra,21,Proposition 58,N/A,No,57
+Sierra,22,Proposition 58,N/A,Yes,89
+Sierra,22,Proposition 58,N/A,No,50
+Sierra,3,Proposition 58,N/A,Yes,44
+Sierra,3,Proposition 58,N/A,No,13
+Sierra,4,Proposition 58,N/A,Yes,30
+Sierra,4,Proposition 58,N/A,No,18
+Sierra,5,Proposition 58,N/A,Yes,81
+Sierra,5,Proposition 58,N/A,No,32
+Sierra,6,Proposition 58,N/A,Yes,64
+Sierra,6,Proposition 58,N/A,No,36
+Sierra,7,Proposition 58,N/A,Yes,61
+Sierra,7,Proposition 58,N/A,No,39
+Sierra,8,Proposition 58,N/A,Yes,5
+Sierra,8,Proposition 58,N/A,No,4
+Sierra,9,Proposition 58,N/A,Yes,48
+Sierra,9,Proposition 58,N/A,No,15
+Sierra,1,Proposition 59,N/A,Yes,55
+Sierra,1,Proposition 59,N/A,No,79
+Sierra,10,Proposition 59,N/A,Yes,0
+Sierra,10,Proposition 59,N/A,No,3
+Sierra,11,Proposition 59,N/A,Yes,29
+Sierra,11,Proposition 59,N/A,No,35
+Sierra,12,Proposition 59,N/A,Yes,69
+Sierra,12,Proposition 59,N/A,No,84
+Sierra,13,Proposition 59,N/A,Yes,10
+Sierra,13,Proposition 59,N/A,No,20
+Sierra,14,Proposition 59,N/A,Yes,67
+Sierra,14,Proposition 59,N/A,No,64
+Sierra,15,Proposition 59,N/A,Yes,29
+Sierra,15,Proposition 59,N/A,No,37
+Sierra,16,Proposition 59,N/A,Yes,47
+Sierra,16,Proposition 59,N/A,No,61
+Sierra,17,Proposition 59,N/A,Yes,50
+Sierra,17,Proposition 59,N/A,No,92
+Sierra,18,Proposition 59,N/A,Yes,24
+Sierra,18,Proposition 59,N/A,No,40
+Sierra,19,Proposition 59,N/A,Yes,4
+Sierra,19,Proposition 59,N/A,No,1
+Sierra,2,Proposition 59,N/A,Yes,28
+Sierra,2,Proposition 59,N/A,No,22
+Sierra,20,Proposition 59,N/A,Yes,11
+Sierra,20,Proposition 59,N/A,No,5
+Sierra,21,Proposition 59,N/A,Yes,39
+Sierra,21,Proposition 59,N/A,No,85
+Sierra,22,Proposition 59,N/A,Yes,64
+Sierra,22,Proposition 59,N/A,No,71
+Sierra,3,Proposition 59,N/A,Yes,29
+Sierra,3,Proposition 59,N/A,No,27
+Sierra,4,Proposition 59,N/A,Yes,27
+Sierra,4,Proposition 59,N/A,No,21
+Sierra,5,Proposition 59,N/A,Yes,84
+Sierra,5,Proposition 59,N/A,No,37
+Sierra,6,Proposition 59,N/A,Yes,54
+Sierra,6,Proposition 59,N/A,No,44
+Sierra,7,Proposition 59,N/A,Yes,42
+Sierra,7,Proposition 59,N/A,No,57
+Sierra,8,Proposition 59,N/A,Yes,4
+Sierra,8,Proposition 59,N/A,No,5
+Sierra,9,Proposition 59,N/A,Yes,41
+Sierra,9,Proposition 59,N/A,No,21
+Sierra,1,Proposition 60,N/A,Yes,43
+Sierra,1,Proposition 60,N/A,No,89
+Sierra,10,Proposition 60,N/A,Yes,2
+Sierra,10,Proposition 60,N/A,No,2
+Sierra,11,Proposition 60,N/A,Yes,22
+Sierra,11,Proposition 60,N/A,No,45
+Sierra,12,Proposition 60,N/A,Yes,47
+Sierra,12,Proposition 60,N/A,No,114
+Sierra,13,Proposition 60,N/A,Yes,15
+Sierra,13,Proposition 60,N/A,No,19
+Sierra,14,Proposition 60,N/A,Yes,33
+Sierra,14,Proposition 60,N/A,No,95
+Sierra,15,Proposition 60,N/A,Yes,8
+Sierra,15,Proposition 60,N/A,No,53
+Sierra,16,Proposition 60,N/A,Yes,46
+Sierra,16,Proposition 60,N/A,No,71
+Sierra,17,Proposition 60,N/A,Yes,53
+Sierra,17,Proposition 60,N/A,No,87
+Sierra,18,Proposition 60,N/A,Yes,14
+Sierra,18,Proposition 60,N/A,No,50
+Sierra,19,Proposition 60,N/A,Yes,3
+Sierra,19,Proposition 60,N/A,No,3
+Sierra,2,Proposition 60,N/A,Yes,6
+Sierra,2,Proposition 60,N/A,No,44
+Sierra,20,Proposition 60,N/A,Yes,3
+Sierra,20,Proposition 60,N/A,No,13
+Sierra,21,Proposition 60,N/A,Yes,37
+Sierra,21,Proposition 60,N/A,No,79
+Sierra,22,Proposition 60,N/A,Yes,50
+Sierra,22,Proposition 60,N/A,No,84
+Sierra,3,Proposition 60,N/A,Yes,16
+Sierra,3,Proposition 60,N/A,No,36
+Sierra,4,Proposition 60,N/A,Yes,17
+Sierra,4,Proposition 60,N/A,No,27
+Sierra,5,Proposition 60,N/A,Yes,34
+Sierra,5,Proposition 60,N/A,No,84
+Sierra,6,Proposition 60,N/A,Yes,36
+Sierra,6,Proposition 60,N/A,No,58
+Sierra,7,Proposition 60,N/A,Yes,28
+Sierra,7,Proposition 60,N/A,No,71
+Sierra,8,Proposition 60,N/A,Yes,1
+Sierra,8,Proposition 60,N/A,No,8
+Sierra,9,Proposition 60,N/A,Yes,24
+Sierra,9,Proposition 60,N/A,No,37
+Sierra,1,Proposition 61,N/A,Yes,48
+Sierra,1,Proposition 61,N/A,No,91
+Sierra,10,Proposition 61,N/A,Yes,3
+Sierra,10,Proposition 61,N/A,No,1
+Sierra,11,Proposition 61,N/A,Yes,20
+Sierra,11,Proposition 61,N/A,No,53
+Sierra,12,Proposition 61,N/A,Yes,58
+Sierra,12,Proposition 61,N/A,No,94
+Sierra,13,Proposition 61,N/A,Yes,15
+Sierra,13,Proposition 61,N/A,No,18
+Sierra,14,Proposition 61,N/A,Yes,51
+Sierra,14,Proposition 61,N/A,No,86
+Sierra,15,Proposition 61,N/A,Yes,24
+Sierra,15,Proposition 61,N/A,No,39
+Sierra,16,Proposition 61,N/A,Yes,32
+Sierra,16,Proposition 61,N/A,No,88
+Sierra,17,Proposition 61,N/A,Yes,50
+Sierra,17,Proposition 61,N/A,No,98
+Sierra,18,Proposition 61,N/A,Yes,19
+Sierra,18,Proposition 61,N/A,No,48
+Sierra,19,Proposition 61,N/A,Yes,4
+Sierra,19,Proposition 61,N/A,No,2
+Sierra,2,Proposition 61,N/A,Yes,17
+Sierra,2,Proposition 61,N/A,No,33
+Sierra,20,Proposition 61,N/A,Yes,9
+Sierra,20,Proposition 61,N/A,No,8
+Sierra,21,Proposition 61,N/A,Yes,46
+Sierra,21,Proposition 61,N/A,No,78
+Sierra,22,Proposition 61,N/A,Yes,43
+Sierra,22,Proposition 61,N/A,No,94
+Sierra,3,Proposition 61,N/A,Yes,21
+Sierra,3,Proposition 61,N/A,No,32
+Sierra,4,Proposition 61,N/A,Yes,17
+Sierra,4,Proposition 61,N/A,No,30
+Sierra,5,Proposition 61,N/A,Yes,59
+Sierra,5,Proposition 61,N/A,No,55
+Sierra,6,Proposition 61,N/A,Yes,42
+Sierra,6,Proposition 61,N/A,No,53
+Sierra,7,Proposition 61,N/A,Yes,43
+Sierra,7,Proposition 61,N/A,No,56
+Sierra,8,Proposition 61,N/A,Yes,5
+Sierra,8,Proposition 61,N/A,No,4
+Sierra,9,Proposition 61,N/A,Yes,32
+Sierra,9,Proposition 61,N/A,No,27
+Sierra,1,Proposition 62,N/A,Yes,44
+Sierra,1,Proposition 62,N/A,No,99
+Sierra,10,Proposition 62,N/A,Yes,0
+Sierra,10,Proposition 62,N/A,No,4
+Sierra,11,Proposition 62,N/A,Yes,29
+Sierra,11,Proposition 62,N/A,No,42
+Sierra,12,Proposition 62,N/A,Yes,49
+Sierra,12,Proposition 62,N/A,No,117
+Sierra,13,Proposition 62,N/A,Yes,7
+Sierra,13,Proposition 62,N/A,No,27
+Sierra,14,Proposition 62,N/A,Yes,44
+Sierra,14,Proposition 62,N/A,No,93
+Sierra,15,Proposition 62,N/A,Yes,19
+Sierra,15,Proposition 62,N/A,No,45
+Sierra,16,Proposition 62,N/A,Yes,21
+Sierra,16,Proposition 62,N/A,No,100
+Sierra,17,Proposition 62,N/A,Yes,37
+Sierra,17,Proposition 62,N/A,No,109
+Sierra,18,Proposition 62,N/A,Yes,13
+Sierra,18,Proposition 62,N/A,No,52
+Sierra,19,Proposition 62,N/A,Yes,2
+Sierra,19,Proposition 62,N/A,No,3
+Sierra,2,Proposition 62,N/A,Yes,18
+Sierra,2,Proposition 62,N/A,No,34
+Sierra,20,Proposition 62,N/A,Yes,9
+Sierra,20,Proposition 62,N/A,No,7
+Sierra,21,Proposition 62,N/A,Yes,31
+Sierra,21,Proposition 62,N/A,No,97
+Sierra,22,Proposition 62,N/A,Yes,38
+Sierra,22,Proposition 62,N/A,No,99
+Sierra,3,Proposition 62,N/A,Yes,21
+Sierra,3,Proposition 62,N/A,No,36
+Sierra,4,Proposition 62,N/A,Yes,18
+Sierra,4,Proposition 62,N/A,No,32
+Sierra,5,Proposition 62,N/A,Yes,58
+Sierra,5,Proposition 62,N/A,No,67
+Sierra,6,Proposition 62,N/A,Yes,38
+Sierra,6,Proposition 62,N/A,No,62
+Sierra,7,Proposition 62,N/A,Yes,35
+Sierra,7,Proposition 62,N/A,No,66
+Sierra,8,Proposition 62,N/A,Yes,4
+Sierra,8,Proposition 62,N/A,No,6
+Sierra,9,Proposition 62,N/A,Yes,37
+Sierra,9,Proposition 62,N/A,No,26
+Sierra,1,Proposition 63,N/A,Yes,43
+Sierra,1,Proposition 63,N/A,No,98
+Sierra,10,Proposition 63,N/A,Yes,3
+Sierra,10,Proposition 63,N/A,No,1
+Sierra,11,Proposition 63,N/A,Yes,27
+Sierra,11,Proposition 63,N/A,No,46
+Sierra,12,Proposition 63,N/A,Yes,51
+Sierra,12,Proposition 63,N/A,No,117
+Sierra,13,Proposition 63,N/A,Yes,10
+Sierra,13,Proposition 63,N/A,No,24
+Sierra,14,Proposition 63,N/A,Yes,52
+Sierra,14,Proposition 63,N/A,No,91
+Sierra,15,Proposition 63,N/A,Yes,17
+Sierra,15,Proposition 63,N/A,No,54
+Sierra,16,Proposition 63,N/A,Yes,33
+Sierra,16,Proposition 63,N/A,No,92
+Sierra,17,Proposition 63,N/A,Yes,38
+Sierra,17,Proposition 63,N/A,No,111
+Sierra,18,Proposition 63,N/A,Yes,16
+Sierra,18,Proposition 63,N/A,No,49
+Sierra,19,Proposition 63,N/A,Yes,3
+Sierra,19,Proposition 63,N/A,No,3
+Sierra,2,Proposition 63,N/A,Yes,22
+Sierra,2,Proposition 63,N/A,No,31
+Sierra,20,Proposition 63,N/A,Yes,6
+Sierra,20,Proposition 63,N/A,No,11
+Sierra,21,Proposition 63,N/A,Yes,34
+Sierra,21,Proposition 63,N/A,No,95
+Sierra,22,Proposition 63,N/A,Yes,35
+Sierra,22,Proposition 63,N/A,No,107
+Sierra,3,Proposition 63,N/A,Yes,18
+Sierra,3,Proposition 63,N/A,No,41
+Sierra,4,Proposition 63,N/A,Yes,8
+Sierra,4,Proposition 63,N/A,No,46
+Sierra,5,Proposition 63,N/A,Yes,29
+Sierra,5,Proposition 63,N/A,No,95
+Sierra,6,Proposition 63,N/A,Yes,30
+Sierra,6,Proposition 63,N/A,No,69
+Sierra,7,Proposition 63,N/A,Yes,34
+Sierra,7,Proposition 63,N/A,No,68
+Sierra,8,Proposition 63,N/A,Yes,3
+Sierra,8,Proposition 63,N/A,No,7
+Sierra,9,Proposition 63,N/A,Yes,38
+Sierra,9,Proposition 63,N/A,No,26
+Sierra,1,Proposition 64,N/A,Yes,80
+Sierra,1,Proposition 64,N/A,No,64
+Sierra,10,Proposition 64,N/A,Yes,0
+Sierra,10,Proposition 64,N/A,No,4
+Sierra,11,Proposition 64,N/A,Yes,40
+Sierra,11,Proposition 64,N/A,No,33
+Sierra,12,Proposition 64,N/A,Yes,86
+Sierra,12,Proposition 64,N/A,No,85
+Sierra,13,Proposition 64,N/A,Yes,14
+Sierra,13,Proposition 64,N/A,No,20
+Sierra,14,Proposition 64,N/A,Yes,77
+Sierra,14,Proposition 64,N/A,No,68
+Sierra,15,Proposition 64,N/A,Yes,31
+Sierra,15,Proposition 64,N/A,No,38
+Sierra,16,Proposition 64,N/A,Yes,75
+Sierra,16,Proposition 64,N/A,No,53
+Sierra,17,Proposition 64,N/A,Yes,65
+Sierra,17,Proposition 64,N/A,No,87
+Sierra,18,Proposition 64,N/A,Yes,32
+Sierra,18,Proposition 64,N/A,No,36
+Sierra,19,Proposition 64,N/A,Yes,5
+Sierra,19,Proposition 64,N/A,No,1
+Sierra,2,Proposition 64,N/A,Yes,26
+Sierra,2,Proposition 64,N/A,No,26
+Sierra,20,Proposition 64,N/A,Yes,14
+Sierra,20,Proposition 64,N/A,No,3
+Sierra,21,Proposition 64,N/A,Yes,56
+Sierra,21,Proposition 64,N/A,No,76
+Sierra,22,Proposition 64,N/A,Yes,57
+Sierra,22,Proposition 64,N/A,No,83
+Sierra,3,Proposition 64,N/A,Yes,36
+Sierra,3,Proposition 64,N/A,No,23
+Sierra,4,Proposition 64,N/A,Yes,31
+Sierra,4,Proposition 64,N/A,No,22
+Sierra,5,Proposition 64,N/A,Yes,53
+Sierra,5,Proposition 64,N/A,No,74
+Sierra,6,Proposition 64,N/A,Yes,60
+Sierra,6,Proposition 64,N/A,No,38
+Sierra,7,Proposition 64,N/A,Yes,59
+Sierra,7,Proposition 64,N/A,No,45
+Sierra,8,Proposition 64,N/A,Yes,4
+Sierra,8,Proposition 64,N/A,No,6
+Sierra,9,Proposition 64,N/A,Yes,40
+Sierra,9,Proposition 64,N/A,No,19
+Sierra,1,Proposition 65,N/A,Yes,41
+Sierra,1,Proposition 65,N/A,No,99
+Sierra,10,Proposition 65,N/A,Yes,2
+Sierra,10,Proposition 65,N/A,No,2
+Sierra,11,Proposition 65,N/A,Yes,19
+Sierra,11,Proposition 65,N/A,No,52
+Sierra,12,Proposition 65,N/A,Yes,60
+Sierra,12,Proposition 65,N/A,No,104
+Sierra,13,Proposition 65,N/A,Yes,12
+Sierra,13,Proposition 65,N/A,No,21
+Sierra,14,Proposition 65,N/A,Yes,45
+Sierra,14,Proposition 65,N/A,No,88
+Sierra,15,Proposition 65,N/A,Yes,18
+Sierra,15,Proposition 65,N/A,No,49
+Sierra,16,Proposition 65,N/A,Yes,51
+Sierra,16,Proposition 65,N/A,No,72
+Sierra,17,Proposition 65,N/A,Yes,46
+Sierra,17,Proposition 65,N/A,No,102
+Sierra,18,Proposition 65,N/A,Yes,22
+Sierra,18,Proposition 65,N/A,No,44
+Sierra,19,Proposition 65,N/A,Yes,2
+Sierra,19,Proposition 65,N/A,No,4
+Sierra,2,Proposition 65,N/A,Yes,22
+Sierra,2,Proposition 65,N/A,No,30
+Sierra,20,Proposition 65,N/A,Yes,7
+Sierra,20,Proposition 65,N/A,No,10
+Sierra,21,Proposition 65,N/A,Yes,45
+Sierra,21,Proposition 65,N/A,No,81
+Sierra,22,Proposition 65,N/A,Yes,52
+Sierra,22,Proposition 65,N/A,No,87
+Sierra,3,Proposition 65,N/A,Yes,16
+Sierra,3,Proposition 65,N/A,No,40
+Sierra,4,Proposition 65,N/A,Yes,15
+Sierra,4,Proposition 65,N/A,No,34
+Sierra,5,Proposition 65,N/A,Yes,41
+Sierra,5,Proposition 65,N/A,No,80
+Sierra,6,Proposition 65,N/A,Yes,33
+Sierra,6,Proposition 65,N/A,No,65
+Sierra,7,Proposition 65,N/A,Yes,34
+Sierra,7,Proposition 65,N/A,No,69
+Sierra,8,Proposition 65,N/A,Yes,1
+Sierra,8,Proposition 65,N/A,No,6
+Sierra,9,Proposition 65,N/A,Yes,28
+Sierra,9,Proposition 65,N/A,No,34
+Sierra,1,Proposition 66,N/A,Yes,71
+Sierra,1,Proposition 66,N/A,No,67
+Sierra,10,Proposition 66,N/A,Yes,3
+Sierra,10,Proposition 66,N/A,No,0
+Sierra,11,Proposition 66,N/A,Yes,27
+Sierra,11,Proposition 66,N/A,No,39
+Sierra,12,Proposition 66,N/A,Yes,80
+Sierra,12,Proposition 66,N/A,No,74
+Sierra,13,Proposition 66,N/A,Yes,17
+Sierra,13,Proposition 66,N/A,No,15
+Sierra,14,Proposition 66,N/A,Yes,66
+Sierra,14,Proposition 66,N/A,No,63
+Sierra,15,Proposition 66,N/A,Yes,27
+Sierra,15,Proposition 66,N/A,No,35
+Sierra,16,Proposition 66,N/A,Yes,71
+Sierra,16,Proposition 66,N/A,No,39
+Sierra,17,Proposition 66,N/A,Yes,69
+Sierra,17,Proposition 66,N/A,No,73
+Sierra,18,Proposition 66,N/A,Yes,30
+Sierra,18,Proposition 66,N/A,No,30
+Sierra,19,Proposition 66,N/A,Yes,4
+Sierra,19,Proposition 66,N/A,No,1
+Sierra,2,Proposition 66,N/A,Yes,18
+Sierra,2,Proposition 66,N/A,No,32
+Sierra,20,Proposition 66,N/A,Yes,3
+Sierra,20,Proposition 66,N/A,No,13
+Sierra,21,Proposition 66,N/A,Yes,67
+Sierra,21,Proposition 66,N/A,No,57
+Sierra,22,Proposition 66,N/A,Yes,84
+Sierra,22,Proposition 66,N/A,No,52
+Sierra,3,Proposition 66,N/A,Yes,16
+Sierra,3,Proposition 66,N/A,No,39
+Sierra,4,Proposition 66,N/A,Yes,23
+Sierra,4,Proposition 66,N/A,No,19
+Sierra,5,Proposition 66,N/A,Yes,50
+Sierra,5,Proposition 66,N/A,No,67
+Sierra,6,Proposition 66,N/A,Yes,45
+Sierra,6,Proposition 66,N/A,No,48
+Sierra,7,Proposition 66,N/A,Yes,46
+Sierra,7,Proposition 66,N/A,No,56
+Sierra,8,Proposition 66,N/A,Yes,5
+Sierra,8,Proposition 66,N/A,No,4
+Sierra,9,Proposition 66,N/A,Yes,19
+Sierra,9,Proposition 66,N/A,No,37
+Sierra,1,Proposition 67,N/A,Yes,38
+Sierra,1,Proposition 67,N/A,No,101
+Sierra,10,Proposition 67,N/A,Yes,1
+Sierra,10,Proposition 67,N/A,No,3
+Sierra,11,Proposition 67,N/A,Yes,26
+Sierra,11,Proposition 67,N/A,No,46
+Sierra,12,Proposition 67,N/A,Yes,75
+Sierra,12,Proposition 67,N/A,No,94
+Sierra,13,Proposition 67,N/A,Yes,9
+Sierra,13,Proposition 67,N/A,No,24
+Sierra,14,Proposition 67,N/A,Yes,68
+Sierra,14,Proposition 67,N/A,No,73
+Sierra,15,Proposition 67,N/A,Yes,25
+Sierra,15,Proposition 67,N/A,No,44
+Sierra,16,Proposition 67,N/A,Yes,37
+Sierra,16,Proposition 67,N/A,No,85
+Sierra,17,Proposition 67,N/A,Yes,47
+Sierra,17,Proposition 67,N/A,No,103
+Sierra,18,Proposition 67,N/A,Yes,20
+Sierra,18,Proposition 67,N/A,No,51
+Sierra,19,Proposition 67,N/A,Yes,3
+Sierra,19,Proposition 67,N/A,No,3
+Sierra,2,Proposition 67,N/A,Yes,19
+Sierra,2,Proposition 67,N/A,No,31
+Sierra,20,Proposition 67,N/A,Yes,9
+Sierra,20,Proposition 67,N/A,No,8
+Sierra,21,Proposition 67,N/A,Yes,43
+Sierra,21,Proposition 67,N/A,No,85
+Sierra,22,Proposition 67,N/A,Yes,44
+Sierra,22,Proposition 67,N/A,No,95
+Sierra,3,Proposition 67,N/A,Yes,24
+Sierra,3,Proposition 67,N/A,No,33
+Sierra,4,Proposition 67,N/A,Yes,19
+Sierra,4,Proposition 67,N/A,No,29
+Sierra,5,Proposition 67,N/A,Yes,66
+Sierra,5,Proposition 67,N/A,No,57
+Sierra,6,Proposition 67,N/A,Yes,41
+Sierra,6,Proposition 67,N/A,No,58
+Sierra,7,Proposition 67,N/A,Yes,44
+Sierra,7,Proposition 67,N/A,No,56
+Sierra,8,Proposition 67,N/A,Yes,4
+Sierra,8,Proposition 67,N/A,No,5
+Sierra,9,Proposition 67,N/A,Yes,38
+Sierra,9,Proposition 67,N/A,No,23
+Sierra,1,U.S. Senate,DEM,Kamala Harris,56
+Sierra,1,U.S. Senate,DEM,Loretta Sanchez,47
+Sierra,10,U.S. Senate,DEM,Kamala Harris,4
+Sierra,10,U.S. Senate,DEM,Loretta Sanchez,0
+Sierra,11,U.S. Senate,DEM,Kamala Harris,27
+Sierra,11,U.S. Senate,DEM,Loretta Sanchez,22
+Sierra,12,U.S. Senate,DEM,Kamala Harris,75
+Sierra,12,U.S. Senate,DEM,Loretta Sanchez,40
+Sierra,13,U.S. Senate,DEM,Kamala Harris,17
+Sierra,13,U.S. Senate,DEM,Loretta Sanchez,8
+Sierra,14,U.S. Senate,DEM,Kamala Harris,82
+Sierra,14,U.S. Senate,DEM,Loretta Sanchez,28
+Sierra,15,U.S. Senate,DEM,Kamala Harris,26
+Sierra,15,U.S. Senate,DEM,Loretta Sanchez,15
+Sierra,16,U.S. Senate,DEM,Kamala Harris,47
+Sierra,16,U.S. Senate,DEM,Loretta Sanchez,41
+Sierra,17,U.S. Senate,DEM,Kamala Harris,68
+Sierra,17,U.S. Senate,DEM,Loretta Sanchez,35
+Sierra,18,U.S. Senate,DEM,Kamala Harris,29
+Sierra,18,U.S. Senate,DEM,Loretta Sanchez,7
+Sierra,19,U.S. Senate,DEM,Kamala Harris,4
+Sierra,19,U.S. Senate,DEM,Loretta Sanchez,1
+Sierra,2,U.S. Senate,DEM,Kamala Harris,31
+Sierra,2,U.S. Senate,DEM,Loretta Sanchez,10
+Sierra,20,U.S. Senate,DEM,Kamala Harris,7
+Sierra,20,U.S. Senate,DEM,Loretta Sanchez,7
+Sierra,21,U.S. Senate,DEM,Kamala Harris,43
+Sierra,21,U.S. Senate,DEM,Loretta Sanchez,24
+Sierra,22,U.S. Senate,DEM,Kamala Harris,60
+Sierra,22,U.S. Senate,DEM,Loretta Sanchez,27
+Sierra,3,U.S. Senate,DEM,Kamala Harris,34
+Sierra,3,U.S. Senate,DEM,Loretta Sanchez,12
+Sierra,4,U.S. Senate,DEM,Kamala Harris,20
+Sierra,4,U.S. Senate,DEM,Loretta Sanchez,16
+Sierra,5,U.S. Senate,DEM,Kamala Harris,55
+Sierra,5,U.S. Senate,DEM,Loretta Sanchez,37
+Sierra,6,U.S. Senate,DEM,Kamala Harris,54
+Sierra,6,U.S. Senate,DEM,Loretta Sanchez,22
+Sierra,7,U.S. Senate,DEM,Kamala Harris,52
+Sierra,7,U.S. Senate,DEM,Loretta Sanchez,24
+Sierra,8,U.S. Senate,DEM,Kamala Harris,3
+Sierra,8,U.S. Senate,DEM,Loretta Sanchez,5
+Sierra,9,U.S. Senate,DEM,Kamala Harris,32
+Sierra,9,U.S. Senate,DEM,Loretta Sanchez,14
