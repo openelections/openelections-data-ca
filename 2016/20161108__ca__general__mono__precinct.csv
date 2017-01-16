@@ -1,505 +1,505 @@
-county,precinct,race,party,candidate,votes
-Mono,01,President,DEM,Hillary Clinton,146
-Mono,01,President,REP/AI,Donald J. Trump,291
-Mono,01,President,LIB,Gary Johnson,23
-Mono,01,President,GRN,Jill Stein,7
-Mono,01,President,PF,Gloria Estela La Riva,0
-Mono,01,President,WI,Write-In,0
-Mono,03,President,DEM,Hillary Clinton,114
-Mono,03,President,REP/AI,Donald J. Trump,210
-Mono,03,President,LIB,Gary Johnson,8
-Mono,03,President,GRN,Jill Stein,4
-Mono,03,President,PF,Gloria Estela La Riva,0
-Mono,03,President,WI,Write-In,0
-Mono,04,President,DEM,Hillary Clinton,124
-Mono,04,President,REP/AI,Donald J. Trump,312
-Mono,04,President,LIB,Gary Johnson,27
-Mono,04,President,GRN,Jill Stein,7
-Mono,04,President,PF,Gloria Estela La Riva,3
-Mono,04,President,WI,Write-In,0
-Mono,05,President,DEM,Hillary Clinton,153
-Mono,05,President,REP/AI,Donald J. Trump,134
-Mono,05,President,LIB,Gary Johnson,3
-Mono,05,President,GRN,Jill Stein,16
-Mono,05,President,PF,Gloria Estela La Riva,3
-Mono,05,President,WI,Write-In,0
-Mono,06,President,DEM,Hillary Clinton,126
-Mono,06,President,REP/AI,Donald J. Trump,72
-Mono,06,President,LIB,Gary Johnson,6
-Mono,06,President,GRN,Jill Stein,11
-Mono,06,President,PF,Gloria Estela La Riva,3
-Mono,06,President,WI,Write-In,0
-Mono,07,President,DEM,Hillary Clinton,349
-Mono,07,President,REP/AI,Donald J. Trump,242
-Mono,07,President,LIB,Gary Johnson,25
-Mono,07,President,GRN,Jill Stein,16
-Mono,07,President,PF,Gloria Estela La Riva,2
-Mono,07,President,WI,Write-In,0
-Mono,08,President,DEM,Hillary Clinton,210
-Mono,08,President,REP/AI,Donald J. Trump,112
-Mono,08,President,LIB,Gary Johnson,9
-Mono,08,President,GRN,Jill Stein,11
-Mono,08,President,PF,Gloria Estela La Riva,0
-Mono,08,President,WI,Write-In,0
-Mono,09,President,DEM,Hillary Clinton,393
-Mono,09,President,REP/AI,Donald J. Trump,236
-Mono,09,President,LIB,Gary Johnson,38
-Mono,09,President,GRN,Jill Stein,20
-Mono,09,President,PF,Gloria Estela La Riva,3
-Mono,09,President,WI,Write-In,0
-Mono,10,President,DEM,Hillary Clinton,287
-Mono,10,President,REP/AI,Donald J. Trump,140
-Mono,10,President,LIB,Gary Johnson,21
-Mono,10,President,GRN,Jill Stein,17
-Mono,10,President,PF,Gloria Estela La Riva,3
-Mono,10,President,WI,Write-In,0
-Mono,11,President,DEM,Hillary Clinton,170
-Mono,11,President,REP/AI,Donald J. Trump,63
-Mono,11,President,LIB,Gary Johnson,7
-Mono,11,President,GRN,Jill Stein,3
-Mono,11,President,PF,Gloria Estela La Riva,2
-Mono,11,President,WI,Write-In,0
-Mono,12,President,DEM,Hillary Clinton,426
-Mono,12,President,REP/AI,Donald J. Trump,181
-Mono,12,President,LIB,Gary Johnson,31
-Mono,12,President,GRN,Jill Stein,19
-Mono,12,President,PF,Gloria Estela La Riva,1
-Mono,12,President,WI,Write-In,0
-Mono,13,President,DEM,Hillary Clinton,275
-Mono,13,President,REP/AI,Donald J. Trump,118
-Mono,13,President,LIB,Gary Johnson,24
-Mono,13,President,GRN,Jill Stein,11
-Mono,13,President,PF,Gloria Estela La Riva,3
-Mono,13,President,WI,Write-In,0
-Mono,01,Proposition 51,N/A,Yes,173
-Mono,01,Proposition 51,N/A,No,290
-Mono,03,Proposition 51,N/A,Yes,130
-Mono,03,Proposition 51,N/A,No,207
-Mono,04,Proposition 51,N/A,Yes,133
-Mono,04,Proposition 51,N/A,No,328
-Mono,05,Proposition 51,N/A,Yes,133
-Mono,05,Proposition 51,N/A,No,180
-Mono,06,Proposition 51,N/A,Yes,112
-Mono,06,Proposition 51,N/A,No,102
-Mono,07,Proposition 51,N/A,Yes,281
-Mono,07,Proposition 51,N/A,No,345
-Mono,08,Proposition 51,N/A,Yes,174
-Mono,08,Proposition 51,N/A,No,175
-Mono,09,Proposition 51,N/A,Yes,335
-Mono,09,Proposition 51,N/A,No,350
-Mono,10,Proposition 51,N/A,Yes,240
-Mono,10,Proposition 51,N/A,No,223
-Mono,11,Proposition 51,N/A,Yes,118
-Mono,11,Proposition 51,N/A,No,132
-Mono,12,Proposition 51,N/A,Yes,364
-Mono,12,Proposition 51,N/A,No,275
-Mono,13,Proposition 51,N/A,Yes,229
-Mono,13,Proposition 51,N/A,No,195
-Mono,01,Proposition 52,N/A,Yes,236
-Mono,01,Proposition 52,N/A,No,219
-Mono,03,Proposition 52,N/A,Yes,178
-Mono,03,Proposition 52,N/A,No,158
-Mono,04,Proposition 52,N/A,Yes,223
-Mono,04,Proposition 52,N/A,No,231
-Mono,05,Proposition 52,N/A,Yes,177
-Mono,05,Proposition 52,N/A,No,130
-Mono,06,Proposition 52,N/A,Yes,146
-Mono,06,Proposition 52,N/A,No,62
-Mono,07,Proposition 52,N/A,Yes,379
-Mono,07,Proposition 52,N/A,No,236
-Mono,08,Proposition 52,N/A,Yes,212
-Mono,08,Proposition 52,N/A,No,130
-Mono,09,Proposition 52,N/A,Yes,445
-Mono,09,Proposition 52,N/A,No,225
-Mono,10,Proposition 52,N/A,Yes,294
-Mono,10,Proposition 52,N/A,No,161
-Mono,11,Proposition 52,N/A,Yes,179
-Mono,11,Proposition 52,N/A,No,70
-Mono,12,Proposition 52,N/A,Yes,439
-Mono,12,Proposition 52,N/A,No,192
-Mono,13,Proposition 52,N/A,Yes,286
-Mono,13,Proposition 52,N/A,No,135
-Mono,01,Proposition 53,N/A,Yes,258
-Mono,01,Proposition 53,N/A,No,197
-Mono,03,Proposition 53,N/A,Yes,193
-Mono,03,Proposition 53,N/A,No,136
-Mono,04,Proposition 53,N/A,Yes,242
-Mono,04,Proposition 53,N/A,No,202
-Mono,05,Proposition 53,N/A,Yes,136
-Mono,05,Proposition 53,N/A,No,162
-Mono,06,Proposition 53,N/A,Yes,88
-Mono,06,Proposition 53,N/A,No,116
-Mono,07,Proposition 53,N/A,Yes,301
-Mono,07,Proposition 53,N/A,No,303
-Mono,08,Proposition 53,N/A,Yes,150
-Mono,08,Proposition 53,N/A,No,181
-Mono,09,Proposition 53,N/A,Yes,312
-Mono,09,Proposition 53,N/A,No,343
-Mono,10,Proposition 53,N/A,Yes,215
-Mono,10,Proposition 53,N/A,No,229
-Mono,11,Proposition 53,N/A,Yes,95
-Mono,11,Proposition 53,N/A,No,154
-Mono,12,Proposition 53,N/A,Yes,300
-Mono,12,Proposition 53,N/A,No,305
-Mono,13,Proposition 53,N/A,Yes,195
-Mono,13,Proposition 53,N/A,No,211
-Mono,01,Proposition 54,N/A,Yes,294
-Mono,01,Proposition 54,N/A,No,158
-Mono,03,Proposition 54,N/A,Yes,197
-Mono,03,Proposition 54,N/A,No,137
-Mono,04,Proposition 54,N/A,Yes,274
-Mono,04,Proposition 54,N/A,No,174
-Mono,05,Proposition 54,N/A,Yes,180
-Mono,05,Proposition 54,N/A,No,120
-Mono,06,Proposition 54,N/A,Yes,104
-Mono,06,Proposition 54,N/A,No,104
-Mono,07,Proposition 54,N/A,Yes,352
-Mono,07,Proposition 54,N/A,No,248
-Mono,08,Proposition 54,N/A,Yes,205
-Mono,08,Proposition 54,N/A,No,133
-Mono,09,Proposition 54,N/A,Yes,386
-Mono,09,Proposition 54,N/A,No,267
-Mono,10,Proposition 54,N/A,Yes,268
-Mono,10,Proposition 54,N/A,No,184
-Mono,11,Proposition 54,N/A,Yes,130
-Mono,11,Proposition 54,N/A,No,115
-Mono,12,Proposition 54,N/A,Yes,379
-Mono,12,Proposition 54,N/A,No,234
-Mono,13,Proposition 54,N/A,Yes,279
-Mono,13,Proposition 54,N/A,No,136
-Mono,01,Proposition 55,N/A,Yes,235
-Mono,01,Proposition 55,N/A,No,231
-Mono,03,Proposition 55,N/A,Yes,162
-Mono,03,Proposition 55,N/A,No,175
-Mono,04,Proposition 55,N/A,Yes,194
-Mono,04,Proposition 55,N/A,No,265
-Mono,05,Proposition 55,N/A,Yes,164
-Mono,05,Proposition 55,N/A,No,141
-Mono,06,Proposition 55,N/A,Yes,144
-Mono,06,Proposition 55,N/A,No,68
-Mono,07,Proposition 55,N/A,Yes,365
-Mono,07,Proposition 55,N/A,No,262
-Mono,08,Proposition 55,N/A,Yes,222
-Mono,08,Proposition 55,N/A,No,128
-Mono,09,Proposition 55,N/A,Yes,423
-Mono,09,Proposition 55,N/A,No,254
-Mono,10,Proposition 55,N/A,Yes,294
-Mono,10,Proposition 55,N/A,No,172
-Mono,11,Proposition 55,N/A,Yes,185
-Mono,11,Proposition 55,N/A,No,66
-Mono,12,Proposition 55,N/A,Yes,429
-Mono,12,Proposition 55,N/A,No,204
-Mono,13,Proposition 55,N/A,Yes,267
-Mono,13,Proposition 55,N/A,No,153
-Mono,01,Proposition 56,N/A,Yes,202
-Mono,01,Proposition 56,N/A,No,269
-Mono,03,Proposition 56,N/A,Yes,155
-Mono,03,Proposition 56,N/A,No,188
-Mono,04,Proposition 56,N/A,Yes,202
-Mono,04,Proposition 56,N/A,No,269
-Mono,05,Proposition 56,N/A,Yes,179
-Mono,05,Proposition 56,N/A,No,137
-Mono,06,Proposition 56,N/A,Yes,137
-Mono,06,Proposition 56,N/A,No,78
-Mono,07,Proposition 56,N/A,Yes,433
-Mono,07,Proposition 56,N/A,No,205
-Mono,08,Proposition 56,N/A,Yes,246
-Mono,08,Proposition 56,N/A,No,107
-Mono,09,Proposition 56,N/A,Yes,477
-Mono,09,Proposition 56,N/A,No,220
-Mono,10,Proposition 56,N/A,Yes,337
-Mono,10,Proposition 56,N/A,No,142
-Mono,11,Proposition 56,N/A,Yes,183
-Mono,11,Proposition 56,N/A,No,70
-Mono,12,Proposition 56,N/A,Yes,440
-Mono,12,Proposition 56,N/A,No,221
-Mono,13,Proposition 56,N/A,Yes,313
-Mono,13,Proposition 56,N/A,No,123
-Mono,01,Proposition 57,N/A,Yes,264
-Mono,01,Proposition 57,N/A,No,196
-Mono,03,Proposition 57,N/A,Yes,178
-Mono,03,Proposition 57,N/A,No,158
-Mono,04,Proposition 57,N/A,Yes,207
-Mono,04,Proposition 57,N/A,No,249
-Mono,05,Proposition 57,N/A,Yes,213
-Mono,05,Proposition 57,N/A,No,99
-Mono,06,Proposition 57,N/A,Yes,157
-Mono,06,Proposition 57,N/A,No,54
-Mono,07,Proposition 57,N/A,Yes,408
-Mono,07,Proposition 57,N/A,No,218
-Mono,08,Proposition 57,N/A,Yes,249
-Mono,08,Proposition 57,N/A,No,92
-Mono,09,Proposition 57,N/A,Yes,495
-Mono,09,Proposition 57,N/A,No,177
-Mono,10,Proposition 57,N/A,Yes,361
-Mono,10,Proposition 57,N/A,No,106
-Mono,11,Proposition 57,N/A,Yes,184
-Mono,11,Proposition 57,N/A,No,69
-Mono,12,Proposition 57,N/A,Yes,488
-Mono,12,Proposition 57,N/A,No,151
-Mono,13,Proposition 57,N/A,Yes,321
-Mono,13,Proposition 57,N/A,No,106
-Mono,01,Proposition 58,N/A,Yes,295
-Mono,01,Proposition 58,N/A,No,167
-Mono,03,Proposition 58,N/A,Yes,223
-Mono,03,Proposition 58,N/A,No,113
-Mono,04,Proposition 58,N/A,Yes,266
-Mono,04,Proposition 58,N/A,No,195
-Mono,05,Proposition 58,N/A,Yes,214
-Mono,05,Proposition 58,N/A,No,97
-Mono,06,Proposition 58,N/A,Yes,175
-Mono,06,Proposition 58,N/A,No,42
-Mono,07,Proposition 58,N/A,Yes,464
-Mono,07,Proposition 58,N/A,No,164
-Mono,08,Proposition 58,N/A,Yes,265
-Mono,08,Proposition 58,N/A,No,81
-Mono,09,Proposition 58,N/A,Yes,526
-Mono,09,Proposition 58,N/A,No,151
-Mono,10,Proposition 58,N/A,Yes,364
-Mono,10,Proposition 58,N/A,No,100
-Mono,11,Proposition 58,N/A,Yes,202
-Mono,11,Proposition 58,N/A,No,48
-Mono,12,Proposition 58,N/A,Yes,489
-Mono,12,Proposition 58,N/A,No,146
-Mono,13,Proposition 58,N/A,Yes,328
-Mono,13,Proposition 58,N/A,No,99
-Mono,01,Proposition 59,N/A,Yes,184
-Mono,01,Proposition 59,N/A,No,256
-Mono,03,Proposition 59,N/A,Yes,126
-Mono,03,Proposition 59,N/A,No,200
-Mono,04,Proposition 59,N/A,Yes,169
-Mono,04,Proposition 59,N/A,No,273
-Mono,05,Proposition 59,N/A,Yes,158
-Mono,05,Proposition 59,N/A,No,138
-Mono,06,Proposition 59,N/A,Yes,135
-Mono,06,Proposition 59,N/A,No,75
-Mono,07,Proposition 59,N/A,Yes,305
-Mono,07,Proposition 59,N/A,No,283
-Mono,08,Proposition 59,N/A,Yes,163
-Mono,08,Proposition 59,N/A,No,161
-Mono,09,Proposition 59,N/A,Yes,388
-Mono,09,Proposition 59,N/A,No,246
-Mono,10,Proposition 59,N/A,Yes,243
-Mono,10,Proposition 59,N/A,No,192
-Mono,11,Proposition 59,N/A,Yes,156
-Mono,11,Proposition 59,N/A,No,92
-Mono,12,Proposition 59,N/A,Yes,337
-Mono,12,Proposition 59,N/A,No,261
-Mono,13,Proposition 59,N/A,Yes,242
-Mono,13,Proposition 59,N/A,No,151
-Mono,01,Proposition 60,N/A,Yes,177
-Mono,01,Proposition 60,N/A,No,272
-Mono,03,Proposition 60,N/A,Yes,108
-Mono,03,Proposition 60,N/A,No,218
-Mono,04,Proposition 60,N/A,Yes,169
-Mono,04,Proposition 60,N/A,No,284
-Mono,05,Proposition 60,N/A,Yes,102
-Mono,05,Proposition 60,N/A,No,197
-Mono,06,Proposition 60,N/A,Yes,63
-Mono,06,Proposition 60,N/A,No,138
-Mono,07,Proposition 60,N/A,Yes,195
-Mono,07,Proposition 60,N/A,No,420
-Mono,08,Proposition 60,N/A,Yes,97
-Mono,08,Proposition 60,N/A,No,245
-Mono,09,Proposition 60,N/A,Yes,206
-Mono,09,Proposition 60,N/A,No,444
-Mono,10,Proposition 60,N/A,Yes,156
-Mono,10,Proposition 60,N/A,No,291
-Mono,11,Proposition 60,N/A,Yes,77
-Mono,11,Proposition 60,N/A,No,160
-Mono,12,Proposition 60,N/A,Yes,211
-Mono,12,Proposition 60,N/A,No,407
-Mono,13,Proposition 60,N/A,Yes,129
-Mono,13,Proposition 60,N/A,No,276
-Mono,01,Proposition 61,N/A,Yes,217
-Mono,01,Proposition 61,N/A,No,243
-Mono,03,Proposition 61,N/A,Yes,138
-Mono,03,Proposition 61,N/A,No,194
-Mono,04,Proposition 61,N/A,Yes,138
-Mono,04,Proposition 61,N/A,No,307
-Mono,05,Proposition 61,N/A,Yes,142
-Mono,05,Proposition 61,N/A,No,162
-Mono,06,Proposition 61,N/A,Yes,92
-Mono,06,Proposition 61,N/A,No,114
-Mono,07,Proposition 61,N/A,Yes,268
-Mono,07,Proposition 61,N/A,No,332
-Mono,08,Proposition 61,N/A,Yes,162
-Mono,08,Proposition 61,N/A,No,164
-Mono,09,Proposition 61,N/A,Yes,327
-Mono,09,Proposition 61,N/A,No,321
-Mono,10,Proposition 61,N/A,Yes,233
-Mono,10,Proposition 61,N/A,No,212
-Mono,11,Proposition 61,N/A,Yes,114
-Mono,11,Proposition 61,N/A,No,132
-Mono,12,Proposition 61,N/A,Yes,331
-Mono,12,Proposition 61,N/A,No,273
-Mono,13,Proposition 61,N/A,Yes,194
-Mono,13,Proposition 61,N/A,No,209
-Mono,01,Proposition 62,N/A,Yes,119
-Mono,01,Proposition 62,N/A,No,335
-Mono,03,Proposition 62,N/A,Yes,89
-Mono,03,Proposition 62,N/A,No,245
-Mono,04,Proposition 62,N/A,Yes,112
-Mono,04,Proposition 62,N/A,No,347
-Mono,05,Proposition 62,N/A,Yes,142
-Mono,05,Proposition 62,N/A,No,168
-Mono,06,Proposition 62,N/A,Yes,119
-Mono,06,Proposition 62,N/A,No,99
-Mono,07,Proposition 62,N/A,Yes,261
-Mono,07,Proposition 62,N/A,No,366
-Mono,08,Proposition 62,N/A,Yes,170
-Mono,08,Proposition 62,N/A,No,174
-Mono,09,Proposition 62,N/A,Yes,323
-Mono,09,Proposition 62,N/A,No,350
-Mono,10,Proposition 62,N/A,Yes,230
-Mono,10,Proposition 62,N/A,No,234
-Mono,11,Proposition 62,N/A,Yes,144
-Mono,11,Proposition 62,N/A,No,106
-Mono,12,Proposition 62,N/A,Yes,295
-Mono,12,Proposition 62,N/A,No,341
-Mono,13,Proposition 62,N/A,Yes,205
-Mono,13,Proposition 62,N/A,No,207
-Mono,01,Proposition 63,N/A,Yes,128
-Mono,01,Proposition 63,N/A,No,338
-Mono,03,Proposition 63,N/A,Yes,91
-Mono,03,Proposition 63,N/A,No,257
-Mono,04,Proposition 63,N/A,Yes,101
-Mono,04,Proposition 63,N/A,No,366
-Mono,05,Proposition 63,N/A,Yes,143
-Mono,05,Proposition 63,N/A,No,174
-Mono,06,Proposition 63,N/A,Yes,115
-Mono,06,Proposition 63,N/A,No,103
-Mono,07,Proposition 63,N/A,Yes,317
-Mono,07,Proposition 63,N/A,No,321
-Mono,08,Proposition 63,N/A,Yes,190
-Mono,08,Proposition 63,N/A,No,160
-Mono,09,Proposition 63,N/A,Yes,378
-Mono,09,Proposition 63,N/A,No,311
-Mono,10,Proposition 63,N/A,Yes,295
-Mono,10,Proposition 63,N/A,No,181
-Mono,11,Proposition 63,N/A,Yes,153
-Mono,11,Proposition 63,N/A,No,102
-Mono,12,Proposition 63,N/A,Yes,380
-Mono,12,Proposition 63,N/A,No,259
-Mono,13,Proposition 63,N/A,Yes,258
-Mono,13,Proposition 63,N/A,No,175
-Mono,01,Proposition 64,N/A,Yes,256
-Mono,01,Proposition 64,N/A,No,210
-Mono,03,Proposition 64,N/A,Yes,176
-Mono,03,Proposition 64,N/A,No,171
-Mono,04,Proposition 64,N/A,Yes,240
-Mono,04,Proposition 64,N/A,No,229
-Mono,05,Proposition 64,N/A,Yes,197
-Mono,05,Proposition 64,N/A,No,126
-Mono,06,Proposition 64,N/A,Yes,143
-Mono,06,Proposition 64,N/A,No,76
-Mono,07,Proposition 64,N/A,Yes,398
-Mono,07,Proposition 64,N/A,No,245
-Mono,08,Proposition 64,N/A,Yes,235
-Mono,08,Proposition 64,N/A,No,121
-Mono,09,Proposition 64,N/A,Yes,458
-Mono,09,Proposition 64,N/A,No,245
-Mono,10,Proposition 64,N/A,Yes,313
-Mono,10,Proposition 64,N/A,No,169
-Mono,11,Proposition 64,N/A,Yes,166
-Mono,11,Proposition 64,N/A,No,89
-Mono,12,Proposition 64,N/A,Yes,430
-Mono,12,Proposition 64,N/A,No,234
-Mono,13,Proposition 64,N/A,Yes,291
-Mono,13,Proposition 64,N/A,No,146
-Mono,01,Proposition 65,N/A,Yes,148
-Mono,01,Proposition 65,N/A,No,304
-Mono,03,Proposition 65,N/A,Yes,110
-Mono,03,Proposition 65,N/A,No,228
-Mono,04,Proposition 65,N/A,Yes,143
-Mono,04,Proposition 65,N/A,No,317
-Mono,05,Proposition 65,N/A,Yes,131
-Mono,05,Proposition 65,N/A,No,178
-Mono,06,Proposition 65,N/A,Yes,80
-Mono,06,Proposition 65,N/A,No,129
-Mono,07,Proposition 65,N/A,Yes,326
-Mono,07,Proposition 65,N/A,No,302
-Mono,08,Proposition 65,N/A,Yes,180
-Mono,08,Proposition 65,N/A,No,164
-Mono,09,Proposition 65,N/A,Yes,364
-Mono,09,Proposition 65,N/A,No,314
-Mono,10,Proposition 65,N/A,Yes,270
-Mono,10,Proposition 65,N/A,No,196
-Mono,11,Proposition 65,N/A,Yes,121
-Mono,11,Proposition 65,N/A,No,129
-Mono,12,Proposition 65,N/A,Yes,386
-Mono,12,Proposition 65,N/A,No,244
-Mono,13,Proposition 65,N/A,Yes,229
-Mono,13,Proposition 65,N/A,No,195
-Mono,01,Proposition 66,N/A,Yes,261
-Mono,01,Proposition 66,N/A,No,174
-Mono,03,Proposition 66,N/A,Yes,160
-Mono,03,Proposition 66,N/A,No,163
-Mono,04,Proposition 66,N/A,Yes,235
-Mono,04,Proposition 66,N/A,No,216
-Mono,05,Proposition 66,N/A,Yes,105
-Mono,05,Proposition 66,N/A,No,189
-Mono,06,Proposition 66,N/A,Yes,70
-Mono,06,Proposition 66,N/A,No,136
-Mono,07,Proposition 66,N/A,Yes,309
-Mono,07,Proposition 66,N/A,No,284
-Mono,08,Proposition 66,N/A,Yes,154
-Mono,08,Proposition 66,N/A,No,166
-Mono,09,Proposition 66,N/A,Yes,285
-Mono,09,Proposition 66,N/A,No,345
-Mono,10,Proposition 66,N/A,Yes,196
-Mono,10,Proposition 66,N/A,No,231
-Mono,11,Proposition 66,N/A,Yes,114
-Mono,11,Proposition 66,N/A,No,133
-Mono,12,Proposition 66,N/A,Yes,290
-Mono,12,Proposition 66,N/A,No,297
-Mono,13,Proposition 66,N/A,Yes,161
-Mono,13,Proposition 66,N/A,No,227
-Mono,01,Proposition 67,N/A,Yes,165
-Mono,01,Proposition 67,N/A,No,294
-Mono,03,Proposition 67,N/A,Yes,131
-Mono,03,Proposition 67,N/A,No,208
-Mono,04,Proposition 67,N/A,Yes,171
-Mono,04,Proposition 67,N/A,No,299
-Mono,05,Proposition 67,N/A,Yes,186
-Mono,05,Proposition 67,N/A,No,130
-Mono,06,Proposition 67,N/A,Yes,146
-Mono,06,Proposition 67,N/A,No,73
-Mono,07,Proposition 67,N/A,Yes,418
-Mono,07,Proposition 67,N/A,No,218
-Mono,08,Proposition 67,N/A,Yes,243
-Mono,08,Proposition 67,N/A,No,107
-Mono,09,Proposition 67,N/A,Yes,464
-Mono,09,Proposition 67,N/A,No,222
-Mono,10,Proposition 67,N/A,Yes,354
-Mono,10,Proposition 67,N/A,No,121
-Mono,11,Proposition 67,N/A,Yes,174
-Mono,11,Proposition 67,N/A,No,76
-Mono,12,Proposition 67,N/A,Yes,451
-Mono,12,Proposition 67,N/A,No,193
-Mono,13,Proposition 67,N/A,Yes,316
-Mono,13,Proposition 67,N/A,No,114
-Mono,01,U.S. Senate,DEM,Kamala D. Harris,209
-Mono,01,U.S. Senate,DEM,Loretta L. Sanchez,153
-Mono,03,U.S. Senate,DEM,Kamala D. Harris,156
-Mono,03,U.S. Senate,DEM,Loretta L. Sanchez,109
-Mono,04,U.S. Senate,DEM,Kamala D. Harris,217
-Mono,04,U.S. Senate,DEM,Loretta L. Sanchez,130
-Mono,05,U.S. Senate,DEM,Kamala D. Harris,154
-Mono,05,U.S. Senate,DEM,Loretta L. Sanchez,90
-Mono,06,U.S. Senate,DEM,Kamala D. Harris,112
-Mono,06,U.S. Senate,DEM,Loretta L. Sanchez,61
-Mono,07,U.S. Senate,DEM,Kamala D. Harris,313
-Mono,07,U.S. Senate,DEM,Loretta L. Sanchez,167
-Mono,08,U.S. Senate,DEM,Kamala D. Harris,180
-Mono,08,U.S. Senate,DEM,Loretta L. Sanchez,103
-Mono,09,U.S. Senate,DEM,Kamala D. Harris,353
-Mono,09,U.S. Senate,DEM,Loretta L. Sanchez,211
-Mono,10,U.S. Senate,DEM,Kamala D. Harris,239
-Mono,10,U.S. Senate,DEM,Loretta L. Sanchez,157
-Mono,11,U.S. Senate,DEM,Kamala D. Harris,147
-Mono,11,U.S. Senate,DEM,Loretta L. Sanchez,60
-Mono,12,U.S. Senate,DEM,Kamala D. Harris,311
-Mono,12,U.S. Senate,DEM,Loretta L. Sanchez,220
-Mono,13,U.S. Senate,DEM,Kamala D. Harris,220
-Mono,13,U.S. Senate,DEM,Loretta L. Sanchez,130
+county,precinct,office,district,party,candidate,votes
+Mono,01,President,,DEM,Hillary Clinton,146
+Mono,01,President,,REP/AI,Donald J. Trump,291
+Mono,01,President,,LIB,Gary Johnson,23
+Mono,01,President,,GRN,Jill Stein,7
+Mono,01,President,,PF,Gloria Estela La Riva,0
+Mono,01,President,,WI,Write-In,0
+Mono,03,President,,DEM,Hillary Clinton,114
+Mono,03,President,,REP/AI,Donald J. Trump,210
+Mono,03,President,,LIB,Gary Johnson,8
+Mono,03,President,,GRN,Jill Stein,4
+Mono,03,President,,PF,Gloria Estela La Riva,0
+Mono,03,President,,WI,Write-In,0
+Mono,04,President,,DEM,Hillary Clinton,124
+Mono,04,President,,REP/AI,Donald J. Trump,312
+Mono,04,President,,LIB,Gary Johnson,27
+Mono,04,President,,GRN,Jill Stein,7
+Mono,04,President,,PF,Gloria Estela La Riva,3
+Mono,04,President,,WI,Write-In,0
+Mono,05,President,,DEM,Hillary Clinton,153
+Mono,05,President,,REP/AI,Donald J. Trump,134
+Mono,05,President,,LIB,Gary Johnson,3
+Mono,05,President,,GRN,Jill Stein,16
+Mono,05,President,,PF,Gloria Estela La Riva,3
+Mono,05,President,,WI,Write-In,0
+Mono,06,President,,DEM,Hillary Clinton,126
+Mono,06,President,,REP/AI,Donald J. Trump,72
+Mono,06,President,,LIB,Gary Johnson,6
+Mono,06,President,,GRN,Jill Stein,11
+Mono,06,President,,PF,Gloria Estela La Riva,3
+Mono,06,President,,WI,Write-In,0
+Mono,07,President,,DEM,Hillary Clinton,349
+Mono,07,President,,REP/AI,Donald J. Trump,242
+Mono,07,President,,LIB,Gary Johnson,25
+Mono,07,President,,GRN,Jill Stein,16
+Mono,07,President,,PF,Gloria Estela La Riva,2
+Mono,07,President,,WI,Write-In,0
+Mono,08,President,,DEM,Hillary Clinton,210
+Mono,08,President,,REP/AI,Donald J. Trump,112
+Mono,08,President,,LIB,Gary Johnson,9
+Mono,08,President,,GRN,Jill Stein,11
+Mono,08,President,,PF,Gloria Estela La Riva,0
+Mono,08,President,,WI,Write-In,0
+Mono,09,President,,DEM,Hillary Clinton,393
+Mono,09,President,,REP/AI,Donald J. Trump,236
+Mono,09,President,,LIB,Gary Johnson,38
+Mono,09,President,,GRN,Jill Stein,20
+Mono,09,President,,PF,Gloria Estela La Riva,3
+Mono,09,President,,WI,Write-In,0
+Mono,10,President,,DEM,Hillary Clinton,287
+Mono,10,President,,REP/AI,Donald J. Trump,140
+Mono,10,President,,LIB,Gary Johnson,21
+Mono,10,President,,GRN,Jill Stein,17
+Mono,10,President,,PF,Gloria Estela La Riva,3
+Mono,10,President,,WI,Write-In,0
+Mono,11,President,,DEM,Hillary Clinton,170
+Mono,11,President,,REP/AI,Donald J. Trump,63
+Mono,11,President,,LIB,Gary Johnson,7
+Mono,11,President,,GRN,Jill Stein,3
+Mono,11,President,,PF,Gloria Estela La Riva,2
+Mono,11,President,,WI,Write-In,0
+Mono,12,President,,DEM,Hillary Clinton,426
+Mono,12,President,,REP/AI,Donald J. Trump,181
+Mono,12,President,,LIB,Gary Johnson,31
+Mono,12,President,,GRN,Jill Stein,19
+Mono,12,President,,PF,Gloria Estela La Riva,1
+Mono,12,President,,WI,Write-In,0
+Mono,13,President,,DEM,Hillary Clinton,275
+Mono,13,President,,REP/AI,Donald J. Trump,118
+Mono,13,President,,LIB,Gary Johnson,24
+Mono,13,President,,GRN,Jill Stein,11
+Mono,13,President,,PF,Gloria Estela La Riva,3
+Mono,13,President,,WI,Write-In,0
+Mono,01,Proposition 51,,N/A,Yes,173
+Mono,01,Proposition 51,,N/A,No,290
+Mono,03,Proposition 51,,N/A,Yes,130
+Mono,03,Proposition 51,,N/A,No,207
+Mono,04,Proposition 51,,N/A,Yes,133
+Mono,04,Proposition 51,,N/A,No,328
+Mono,05,Proposition 51,,N/A,Yes,133
+Mono,05,Proposition 51,,N/A,No,180
+Mono,06,Proposition 51,,N/A,Yes,112
+Mono,06,Proposition 51,,N/A,No,102
+Mono,07,Proposition 51,,N/A,Yes,281
+Mono,07,Proposition 51,,N/A,No,345
+Mono,08,Proposition 51,,N/A,Yes,174
+Mono,08,Proposition 51,,N/A,No,175
+Mono,09,Proposition 51,,N/A,Yes,335
+Mono,09,Proposition 51,,N/A,No,350
+Mono,10,Proposition 51,,N/A,Yes,240
+Mono,10,Proposition 51,,N/A,No,223
+Mono,11,Proposition 51,,N/A,Yes,118
+Mono,11,Proposition 51,,N/A,No,132
+Mono,12,Proposition 51,,N/A,Yes,364
+Mono,12,Proposition 51,,N/A,No,275
+Mono,13,Proposition 51,,N/A,Yes,229
+Mono,13,Proposition 51,,N/A,No,195
+Mono,01,Proposition 52,,N/A,Yes,236
+Mono,01,Proposition 52,,N/A,No,219
+Mono,03,Proposition 52,,N/A,Yes,178
+Mono,03,Proposition 52,,N/A,No,158
+Mono,04,Proposition 52,,N/A,Yes,223
+Mono,04,Proposition 52,,N/A,No,231
+Mono,05,Proposition 52,,N/A,Yes,177
+Mono,05,Proposition 52,,N/A,No,130
+Mono,06,Proposition 52,,N/A,Yes,146
+Mono,06,Proposition 52,,N/A,No,62
+Mono,07,Proposition 52,,N/A,Yes,379
+Mono,07,Proposition 52,,N/A,No,236
+Mono,08,Proposition 52,,N/A,Yes,212
+Mono,08,Proposition 52,,N/A,No,130
+Mono,09,Proposition 52,,N/A,Yes,445
+Mono,09,Proposition 52,,N/A,No,225
+Mono,10,Proposition 52,,N/A,Yes,294
+Mono,10,Proposition 52,,N/A,No,161
+Mono,11,Proposition 52,,N/A,Yes,179
+Mono,11,Proposition 52,,N/A,No,70
+Mono,12,Proposition 52,,N/A,Yes,439
+Mono,12,Proposition 52,,N/A,No,192
+Mono,13,Proposition 52,,N/A,Yes,286
+Mono,13,Proposition 52,,N/A,No,135
+Mono,01,Proposition 53,,N/A,Yes,258
+Mono,01,Proposition 53,,N/A,No,197
+Mono,03,Proposition 53,,N/A,Yes,193
+Mono,03,Proposition 53,,N/A,No,136
+Mono,04,Proposition 53,,N/A,Yes,242
+Mono,04,Proposition 53,,N/A,No,202
+Mono,05,Proposition 53,,N/A,Yes,136
+Mono,05,Proposition 53,,N/A,No,162
+Mono,06,Proposition 53,,N/A,Yes,88
+Mono,06,Proposition 53,,N/A,No,116
+Mono,07,Proposition 53,,N/A,Yes,301
+Mono,07,Proposition 53,,N/A,No,303
+Mono,08,Proposition 53,,N/A,Yes,150
+Mono,08,Proposition 53,,N/A,No,181
+Mono,09,Proposition 53,,N/A,Yes,312
+Mono,09,Proposition 53,,N/A,No,343
+Mono,10,Proposition 53,,N/A,Yes,215
+Mono,10,Proposition 53,,N/A,No,229
+Mono,11,Proposition 53,,N/A,Yes,95
+Mono,11,Proposition 53,,N/A,No,154
+Mono,12,Proposition 53,,N/A,Yes,300
+Mono,12,Proposition 53,,N/A,No,305
+Mono,13,Proposition 53,,N/A,Yes,195
+Mono,13,Proposition 53,,N/A,No,211
+Mono,01,Proposition 54,,N/A,Yes,294
+Mono,01,Proposition 54,,N/A,No,158
+Mono,03,Proposition 54,,N/A,Yes,197
+Mono,03,Proposition 54,,N/A,No,137
+Mono,04,Proposition 54,,N/A,Yes,274
+Mono,04,Proposition 54,,N/A,No,174
+Mono,05,Proposition 54,,N/A,Yes,180
+Mono,05,Proposition 54,,N/A,No,120
+Mono,06,Proposition 54,,N/A,Yes,104
+Mono,06,Proposition 54,,N/A,No,104
+Mono,07,Proposition 54,,N/A,Yes,352
+Mono,07,Proposition 54,,N/A,No,248
+Mono,08,Proposition 54,,N/A,Yes,205
+Mono,08,Proposition 54,,N/A,No,133
+Mono,09,Proposition 54,,N/A,Yes,386
+Mono,09,Proposition 54,,N/A,No,267
+Mono,10,Proposition 54,,N/A,Yes,268
+Mono,10,Proposition 54,,N/A,No,184
+Mono,11,Proposition 54,,N/A,Yes,130
+Mono,11,Proposition 54,,N/A,No,115
+Mono,12,Proposition 54,,N/A,Yes,379
+Mono,12,Proposition 54,,N/A,No,234
+Mono,13,Proposition 54,,N/A,Yes,279
+Mono,13,Proposition 54,,N/A,No,136
+Mono,01,Proposition 55,,N/A,Yes,235
+Mono,01,Proposition 55,,N/A,No,231
+Mono,03,Proposition 55,,N/A,Yes,162
+Mono,03,Proposition 55,,N/A,No,175
+Mono,04,Proposition 55,,N/A,Yes,194
+Mono,04,Proposition 55,,N/A,No,265
+Mono,05,Proposition 55,,N/A,Yes,164
+Mono,05,Proposition 55,,N/A,No,141
+Mono,06,Proposition 55,,N/A,Yes,144
+Mono,06,Proposition 55,,N/A,No,68
+Mono,07,Proposition 55,,N/A,Yes,365
+Mono,07,Proposition 55,,N/A,No,262
+Mono,08,Proposition 55,,N/A,Yes,222
+Mono,08,Proposition 55,,N/A,No,128
+Mono,09,Proposition 55,,N/A,Yes,423
+Mono,09,Proposition 55,,N/A,No,254
+Mono,10,Proposition 55,,N/A,Yes,294
+Mono,10,Proposition 55,,N/A,No,172
+Mono,11,Proposition 55,,N/A,Yes,185
+Mono,11,Proposition 55,,N/A,No,66
+Mono,12,Proposition 55,,N/A,Yes,429
+Mono,12,Proposition 55,,N/A,No,204
+Mono,13,Proposition 55,,N/A,Yes,267
+Mono,13,Proposition 55,,N/A,No,153
+Mono,01,Proposition 56,,N/A,Yes,202
+Mono,01,Proposition 56,,N/A,No,269
+Mono,03,Proposition 56,,N/A,Yes,155
+Mono,03,Proposition 56,,N/A,No,188
+Mono,04,Proposition 56,,N/A,Yes,202
+Mono,04,Proposition 56,,N/A,No,269
+Mono,05,Proposition 56,,N/A,Yes,179
+Mono,05,Proposition 56,,N/A,No,137
+Mono,06,Proposition 56,,N/A,Yes,137
+Mono,06,Proposition 56,,N/A,No,78
+Mono,07,Proposition 56,,N/A,Yes,433
+Mono,07,Proposition 56,,N/A,No,205
+Mono,08,Proposition 56,,N/A,Yes,246
+Mono,08,Proposition 56,,N/A,No,107
+Mono,09,Proposition 56,,N/A,Yes,477
+Mono,09,Proposition 56,,N/A,No,220
+Mono,10,Proposition 56,,N/A,Yes,337
+Mono,10,Proposition 56,,N/A,No,142
+Mono,11,Proposition 56,,N/A,Yes,183
+Mono,11,Proposition 56,,N/A,No,70
+Mono,12,Proposition 56,,N/A,Yes,440
+Mono,12,Proposition 56,,N/A,No,221
+Mono,13,Proposition 56,,N/A,Yes,313
+Mono,13,Proposition 56,,N/A,No,123
+Mono,01,Proposition 57,,N/A,Yes,264
+Mono,01,Proposition 57,,N/A,No,196
+Mono,03,Proposition 57,,N/A,Yes,178
+Mono,03,Proposition 57,,N/A,No,158
+Mono,04,Proposition 57,,N/A,Yes,207
+Mono,04,Proposition 57,,N/A,No,249
+Mono,05,Proposition 57,,N/A,Yes,213
+Mono,05,Proposition 57,,N/A,No,99
+Mono,06,Proposition 57,,N/A,Yes,157
+Mono,06,Proposition 57,,N/A,No,54
+Mono,07,Proposition 57,,N/A,Yes,408
+Mono,07,Proposition 57,,N/A,No,218
+Mono,08,Proposition 57,,N/A,Yes,249
+Mono,08,Proposition 57,,N/A,No,92
+Mono,09,Proposition 57,,N/A,Yes,495
+Mono,09,Proposition 57,,N/A,No,177
+Mono,10,Proposition 57,,N/A,Yes,361
+Mono,10,Proposition 57,,N/A,No,106
+Mono,11,Proposition 57,,N/A,Yes,184
+Mono,11,Proposition 57,,N/A,No,69
+Mono,12,Proposition 57,,N/A,Yes,488
+Mono,12,Proposition 57,,N/A,No,151
+Mono,13,Proposition 57,,N/A,Yes,321
+Mono,13,Proposition 57,,N/A,No,106
+Mono,01,Proposition 58,,N/A,Yes,295
+Mono,01,Proposition 58,,N/A,No,167
+Mono,03,Proposition 58,,N/A,Yes,223
+Mono,03,Proposition 58,,N/A,No,113
+Mono,04,Proposition 58,,N/A,Yes,266
+Mono,04,Proposition 58,,N/A,No,195
+Mono,05,Proposition 58,,N/A,Yes,214
+Mono,05,Proposition 58,,N/A,No,97
+Mono,06,Proposition 58,,N/A,Yes,175
+Mono,06,Proposition 58,,N/A,No,42
+Mono,07,Proposition 58,,N/A,Yes,464
+Mono,07,Proposition 58,,N/A,No,164
+Mono,08,Proposition 58,,N/A,Yes,265
+Mono,08,Proposition 58,,N/A,No,81
+Mono,09,Proposition 58,,N/A,Yes,526
+Mono,09,Proposition 58,,N/A,No,151
+Mono,10,Proposition 58,,N/A,Yes,364
+Mono,10,Proposition 58,,N/A,No,100
+Mono,11,Proposition 58,,N/A,Yes,202
+Mono,11,Proposition 58,,N/A,No,48
+Mono,12,Proposition 58,,N/A,Yes,489
+Mono,12,Proposition 58,,N/A,No,146
+Mono,13,Proposition 58,,N/A,Yes,328
+Mono,13,Proposition 58,,N/A,No,99
+Mono,01,Proposition 59,,N/A,Yes,184
+Mono,01,Proposition 59,,N/A,No,256
+Mono,03,Proposition 59,,N/A,Yes,126
+Mono,03,Proposition 59,,N/A,No,200
+Mono,04,Proposition 59,,N/A,Yes,169
+Mono,04,Proposition 59,,N/A,No,273
+Mono,05,Proposition 59,,N/A,Yes,158
+Mono,05,Proposition 59,,N/A,No,138
+Mono,06,Proposition 59,,N/A,Yes,135
+Mono,06,Proposition 59,,N/A,No,75
+Mono,07,Proposition 59,,N/A,Yes,305
+Mono,07,Proposition 59,,N/A,No,283
+Mono,08,Proposition 59,,N/A,Yes,163
+Mono,08,Proposition 59,,N/A,No,161
+Mono,09,Proposition 59,,N/A,Yes,388
+Mono,09,Proposition 59,,N/A,No,246
+Mono,10,Proposition 59,,N/A,Yes,243
+Mono,10,Proposition 59,,N/A,No,192
+Mono,11,Proposition 59,,N/A,Yes,156
+Mono,11,Proposition 59,,N/A,No,92
+Mono,12,Proposition 59,,N/A,Yes,337
+Mono,12,Proposition 59,,N/A,No,261
+Mono,13,Proposition 59,,N/A,Yes,242
+Mono,13,Proposition 59,,N/A,No,151
+Mono,01,Proposition 60,,N/A,Yes,177
+Mono,01,Proposition 60,,N/A,No,272
+Mono,03,Proposition 60,,N/A,Yes,108
+Mono,03,Proposition 60,,N/A,No,218
+Mono,04,Proposition 60,,N/A,Yes,169
+Mono,04,Proposition 60,,N/A,No,284
+Mono,05,Proposition 60,,N/A,Yes,102
+Mono,05,Proposition 60,,N/A,No,197
+Mono,06,Proposition 60,,N/A,Yes,63
+Mono,06,Proposition 60,,N/A,No,138
+Mono,07,Proposition 60,,N/A,Yes,195
+Mono,07,Proposition 60,,N/A,No,420
+Mono,08,Proposition 60,,N/A,Yes,97
+Mono,08,Proposition 60,,N/A,No,245
+Mono,09,Proposition 60,,N/A,Yes,206
+Mono,09,Proposition 60,,N/A,No,444
+Mono,10,Proposition 60,,N/A,Yes,156
+Mono,10,Proposition 60,,N/A,No,291
+Mono,11,Proposition 60,,N/A,Yes,77
+Mono,11,Proposition 60,,N/A,No,160
+Mono,12,Proposition 60,,N/A,Yes,211
+Mono,12,Proposition 60,,N/A,No,407
+Mono,13,Proposition 60,,N/A,Yes,129
+Mono,13,Proposition 60,,N/A,No,276
+Mono,01,Proposition 61,,N/A,Yes,217
+Mono,01,Proposition 61,,N/A,No,243
+Mono,03,Proposition 61,,N/A,Yes,138
+Mono,03,Proposition 61,,N/A,No,194
+Mono,04,Proposition 61,,N/A,Yes,138
+Mono,04,Proposition 61,,N/A,No,307
+Mono,05,Proposition 61,,N/A,Yes,142
+Mono,05,Proposition 61,,N/A,No,162
+Mono,06,Proposition 61,,N/A,Yes,92
+Mono,06,Proposition 61,,N/A,No,114
+Mono,07,Proposition 61,,N/A,Yes,268
+Mono,07,Proposition 61,,N/A,No,332
+Mono,08,Proposition 61,,N/A,Yes,162
+Mono,08,Proposition 61,,N/A,No,164
+Mono,09,Proposition 61,,N/A,Yes,327
+Mono,09,Proposition 61,,N/A,No,321
+Mono,10,Proposition 61,,N/A,Yes,233
+Mono,10,Proposition 61,,N/A,No,212
+Mono,11,Proposition 61,,N/A,Yes,114
+Mono,11,Proposition 61,,N/A,No,132
+Mono,12,Proposition 61,,N/A,Yes,331
+Mono,12,Proposition 61,,N/A,No,273
+Mono,13,Proposition 61,,N/A,Yes,194
+Mono,13,Proposition 61,,N/A,No,209
+Mono,01,Proposition 62,,N/A,Yes,119
+Mono,01,Proposition 62,,N/A,No,335
+Mono,03,Proposition 62,,N/A,Yes,89
+Mono,03,Proposition 62,,N/A,No,245
+Mono,04,Proposition 62,,N/A,Yes,112
+Mono,04,Proposition 62,,N/A,No,347
+Mono,05,Proposition 62,,N/A,Yes,142
+Mono,05,Proposition 62,,N/A,No,168
+Mono,06,Proposition 62,,N/A,Yes,119
+Mono,06,Proposition 62,,N/A,No,99
+Mono,07,Proposition 62,,N/A,Yes,261
+Mono,07,Proposition 62,,N/A,No,366
+Mono,08,Proposition 62,,N/A,Yes,170
+Mono,08,Proposition 62,,N/A,No,174
+Mono,09,Proposition 62,,N/A,Yes,323
+Mono,09,Proposition 62,,N/A,No,350
+Mono,10,Proposition 62,,N/A,Yes,230
+Mono,10,Proposition 62,,N/A,No,234
+Mono,11,Proposition 62,,N/A,Yes,144
+Mono,11,Proposition 62,,N/A,No,106
+Mono,12,Proposition 62,,N/A,Yes,295
+Mono,12,Proposition 62,,N/A,No,341
+Mono,13,Proposition 62,,N/A,Yes,205
+Mono,13,Proposition 62,,N/A,No,207
+Mono,01,Proposition 63,,N/A,Yes,128
+Mono,01,Proposition 63,,N/A,No,338
+Mono,03,Proposition 63,,N/A,Yes,91
+Mono,03,Proposition 63,,N/A,No,257
+Mono,04,Proposition 63,,N/A,Yes,101
+Mono,04,Proposition 63,,N/A,No,366
+Mono,05,Proposition 63,,N/A,Yes,143
+Mono,05,Proposition 63,,N/A,No,174
+Mono,06,Proposition 63,,N/A,Yes,115
+Mono,06,Proposition 63,,N/A,No,103
+Mono,07,Proposition 63,,N/A,Yes,317
+Mono,07,Proposition 63,,N/A,No,321
+Mono,08,Proposition 63,,N/A,Yes,190
+Mono,08,Proposition 63,,N/A,No,160
+Mono,09,Proposition 63,,N/A,Yes,378
+Mono,09,Proposition 63,,N/A,No,311
+Mono,10,Proposition 63,,N/A,Yes,295
+Mono,10,Proposition 63,,N/A,No,181
+Mono,11,Proposition 63,,N/A,Yes,153
+Mono,11,Proposition 63,,N/A,No,102
+Mono,12,Proposition 63,,N/A,Yes,380
+Mono,12,Proposition 63,,N/A,No,259
+Mono,13,Proposition 63,,N/A,Yes,258
+Mono,13,Proposition 63,,N/A,No,175
+Mono,01,Proposition 64,,N/A,Yes,256
+Mono,01,Proposition 64,,N/A,No,210
+Mono,03,Proposition 64,,N/A,Yes,176
+Mono,03,Proposition 64,,N/A,No,171
+Mono,04,Proposition 64,,N/A,Yes,240
+Mono,04,Proposition 64,,N/A,No,229
+Mono,05,Proposition 64,,N/A,Yes,197
+Mono,05,Proposition 64,,N/A,No,126
+Mono,06,Proposition 64,,N/A,Yes,143
+Mono,06,Proposition 64,,N/A,No,76
+Mono,07,Proposition 64,,N/A,Yes,398
+Mono,07,Proposition 64,,N/A,No,245
+Mono,08,Proposition 64,,N/A,Yes,235
+Mono,08,Proposition 64,,N/A,No,121
+Mono,09,Proposition 64,,N/A,Yes,458
+Mono,09,Proposition 64,,N/A,No,245
+Mono,10,Proposition 64,,N/A,Yes,313
+Mono,10,Proposition 64,,N/A,No,169
+Mono,11,Proposition 64,,N/A,Yes,166
+Mono,11,Proposition 64,,N/A,No,89
+Mono,12,Proposition 64,,N/A,Yes,430
+Mono,12,Proposition 64,,N/A,No,234
+Mono,13,Proposition 64,,N/A,Yes,291
+Mono,13,Proposition 64,,N/A,No,146
+Mono,01,Proposition 65,,N/A,Yes,148
+Mono,01,Proposition 65,,N/A,No,304
+Mono,03,Proposition 65,,N/A,Yes,110
+Mono,03,Proposition 65,,N/A,No,228
+Mono,04,Proposition 65,,N/A,Yes,143
+Mono,04,Proposition 65,,N/A,No,317
+Mono,05,Proposition 65,,N/A,Yes,131
+Mono,05,Proposition 65,,N/A,No,178
+Mono,06,Proposition 65,,N/A,Yes,80
+Mono,06,Proposition 65,,N/A,No,129
+Mono,07,Proposition 65,,N/A,Yes,326
+Mono,07,Proposition 65,,N/A,No,302
+Mono,08,Proposition 65,,N/A,Yes,180
+Mono,08,Proposition 65,,N/A,No,164
+Mono,09,Proposition 65,,N/A,Yes,364
+Mono,09,Proposition 65,,N/A,No,314
+Mono,10,Proposition 65,,N/A,Yes,270
+Mono,10,Proposition 65,,N/A,No,196
+Mono,11,Proposition 65,,N/A,Yes,121
+Mono,11,Proposition 65,,N/A,No,129
+Mono,12,Proposition 65,,N/A,Yes,386
+Mono,12,Proposition 65,,N/A,No,244
+Mono,13,Proposition 65,,N/A,Yes,229
+Mono,13,Proposition 65,,N/A,No,195
+Mono,01,Proposition 66,,N/A,Yes,261
+Mono,01,Proposition 66,,N/A,No,174
+Mono,03,Proposition 66,,N/A,Yes,160
+Mono,03,Proposition 66,,N/A,No,163
+Mono,04,Proposition 66,,N/A,Yes,235
+Mono,04,Proposition 66,,N/A,No,216
+Mono,05,Proposition 66,,N/A,Yes,105
+Mono,05,Proposition 66,,N/A,No,189
+Mono,06,Proposition 66,,N/A,Yes,70
+Mono,06,Proposition 66,,N/A,No,136
+Mono,07,Proposition 66,,N/A,Yes,309
+Mono,07,Proposition 66,,N/A,No,284
+Mono,08,Proposition 66,,N/A,Yes,154
+Mono,08,Proposition 66,,N/A,No,166
+Mono,09,Proposition 66,,N/A,Yes,285
+Mono,09,Proposition 66,,N/A,No,345
+Mono,10,Proposition 66,,N/A,Yes,196
+Mono,10,Proposition 66,,N/A,No,231
+Mono,11,Proposition 66,,N/A,Yes,114
+Mono,11,Proposition 66,,N/A,No,133
+Mono,12,Proposition 66,,N/A,Yes,290
+Mono,12,Proposition 66,,N/A,No,297
+Mono,13,Proposition 66,,N/A,Yes,161
+Mono,13,Proposition 66,,N/A,No,227
+Mono,01,Proposition 67,,N/A,Yes,165
+Mono,01,Proposition 67,,N/A,No,294
+Mono,03,Proposition 67,,N/A,Yes,131
+Mono,03,Proposition 67,,N/A,No,208
+Mono,04,Proposition 67,,N/A,Yes,171
+Mono,04,Proposition 67,,N/A,No,299
+Mono,05,Proposition 67,,N/A,Yes,186
+Mono,05,Proposition 67,,N/A,No,130
+Mono,06,Proposition 67,,N/A,Yes,146
+Mono,06,Proposition 67,,N/A,No,73
+Mono,07,Proposition 67,,N/A,Yes,418
+Mono,07,Proposition 67,,N/A,No,218
+Mono,08,Proposition 67,,N/A,Yes,243
+Mono,08,Proposition 67,,N/A,No,107
+Mono,09,Proposition 67,,N/A,Yes,464
+Mono,09,Proposition 67,,N/A,No,222
+Mono,10,Proposition 67,,N/A,Yes,354
+Mono,10,Proposition 67,,N/A,No,121
+Mono,11,Proposition 67,,N/A,Yes,174
+Mono,11,Proposition 67,,N/A,No,76
+Mono,12,Proposition 67,,N/A,Yes,451
+Mono,12,Proposition 67,,N/A,No,193
+Mono,13,Proposition 67,,N/A,Yes,316
+Mono,13,Proposition 67,,N/A,No,114
+Mono,01,U.S. Senate,,DEM,Kamala D. Harris,209
+Mono,01,U.S. Senate,,DEM,Loretta L. Sanchez,153
+Mono,03,U.S. Senate,,DEM,Kamala D. Harris,156
+Mono,03,U.S. Senate,,DEM,Loretta L. Sanchez,109
+Mono,04,U.S. Senate,,DEM,Kamala D. Harris,217
+Mono,04,U.S. Senate,,DEM,Loretta L. Sanchez,130
+Mono,05,U.S. Senate,,DEM,Kamala D. Harris,154
+Mono,05,U.S. Senate,,DEM,Loretta L. Sanchez,90
+Mono,06,U.S. Senate,,DEM,Kamala D. Harris,112
+Mono,06,U.S. Senate,,DEM,Loretta L. Sanchez,61
+Mono,07,U.S. Senate,,DEM,Kamala D. Harris,313
+Mono,07,U.S. Senate,,DEM,Loretta L. Sanchez,167
+Mono,08,U.S. Senate,,DEM,Kamala D. Harris,180
+Mono,08,U.S. Senate,,DEM,Loretta L. Sanchez,103
+Mono,09,U.S. Senate,,DEM,Kamala D. Harris,353
+Mono,09,U.S. Senate,,DEM,Loretta L. Sanchez,211
+Mono,10,U.S. Senate,,DEM,Kamala D. Harris,239
+Mono,10,U.S. Senate,,DEM,Loretta L. Sanchez,157
+Mono,11,U.S. Senate,,DEM,Kamala D. Harris,147
+Mono,11,U.S. Senate,,DEM,Loretta L. Sanchez,60
+Mono,12,U.S. Senate,,DEM,Kamala D. Harris,311
+Mono,12,U.S. Senate,,DEM,Loretta L. Sanchez,220
+Mono,13,U.S. Senate,,DEM,Kamala D. Harris,220
+Mono,13,U.S. Senate,,DEM,Loretta L. Sanchez,130
