@@ -6,6 +6,8 @@ Shasta,0010,President,,DEM,Hillary Clinton,18
 Shasta,0010,President,,AIP,J.R. Myers,1
 Shasta,0010,President,,REP,John R. Kasich,3
 Shasta,0010,President,,REP,Ted Cruz,2
+Shasta,0010,Proposition 50,,,No,16
+Shasta,0010,Proposition 50,,,Yes,65
 Shasta,0010,State Assembly,1,REP,Brian Dahle,66
 Shasta,0010,State Senate,1,DEM,Rob Rowen,36
 Shasta,0010,State Senate,1,REP,Steven Baird,6
@@ -44,6 +46,8 @@ Shasta,0012,President,,DEM,Hillary Clinton,17
 Shasta,0012,President,,REP,John R. Kasich,3
 Shasta,0012,President,,DEM,Michael Steinberg,1
 Shasta,0012,President,,REP,Ted Cruz,4
+Shasta,0012,Proposition 50,,,No,25
+Shasta,0012,Proposition 50,,,Yes,70
 Shasta,0012,State Assembly,1,REP,Brian Dahle,78
 Shasta,0012,State Senate,1,DEM,Rob Rowen,26
 Shasta,0012,State Senate,1,REP,Steven Baird,5
@@ -97,6 +101,8 @@ Shasta,0015,President,,DEM,Roque De La Fuente,1
 Shasta,0015,President,,REP,Ted Cruz,19
 Shasta,0015,President,,AIP,Thomas Hoefling,1
 Shasta,0015,President,,DEM,Willie Wilson,2
+Shasta,0015,Proposition 50,,,No,89
+Shasta,0015,Proposition 50,,,Yes,282
 Shasta,0015,State Assembly,1,REP,Brian Dahle,300
 Shasta,0015,State Senate,1,DEM,Rob Rowen,131
 Shasta,0015,State Senate,1,REP,Steven Baird,49
@@ -152,6 +158,8 @@ Shasta,0020,President,,DEM,Michael Steinberg,3
 Shasta,0020,President,,AIP,Robert Ornelas,2
 Shasta,0020,President,,DEM,Roque De La Fuente,1
 Shasta,0020,President,,REP,Ted Cruz,34
+Shasta,0020,Proposition 50,,,No,116
+Shasta,0020,Proposition 50,,,Yes,357
 Shasta,0020,State Assembly,1,REP,Brian Dahle,378
 Shasta,0020,State Senate,1,DEM,Rob Rowen,165
 Shasta,0020,State Senate,1,REP,Steven Baird,55
@@ -209,6 +217,8 @@ Shasta,0030,President,,DEM,Roque De La Fuente,1
 Shasta,0030,President,,REP,Ted Cruz,27
 Shasta,0030,President,,AIP,Thomas Hoefling,4
 Shasta,0030,President,,DEM,Willie Wilson,4
+Shasta,0030,Proposition 50,,,No,103
+Shasta,0030,Proposition 50,,,Yes,331
 Shasta,0030,State Assembly,1,REP,Brian Dahle,380
 Shasta,0030,State Senate,1,DEM,Rob Rowen,122
 Shasta,0030,State Senate,1,REP,Steven Baird,63
@@ -264,6 +274,8 @@ Shasta,0050,President,,DEM,Keith Judd,1
 Shasta,0050,President,,LIB,Rhett White Feather Smith,1
 Shasta,0050,President,,DEM,Roque De La Fuente,2
 Shasta,0050,President,,REP,Ted Cruz,16
+Shasta,0050,Proposition 50,,,No,52
+Shasta,0050,Proposition 50,,,Yes,187
 Shasta,0050,State Assembly,1,REP,Brian Dahle,198
 Shasta,0050,State Senate,1,DEM,Rob Rowen,78
 Shasta,0050,State Senate,1,REP,Steven Baird,29
@@ -314,6 +326,8 @@ Shasta,0060,President,,DEM,Roque De La Fuente,1
 Shasta,0060,President,,REP,Ted Cruz,14
 Shasta,0060,President,,AIP,Thomas Hoefling,1
 Shasta,0060,President,,DEM,Willie Wilson,1
+Shasta,0060,Proposition 50,,,No,98
+Shasta,0060,Proposition 50,,,Yes,269
 Shasta,0060,State Assembly,1,REP,Brian Dahle,289
 Shasta,0060,State Senate,1,DEM,Rob Rowen,143
 Shasta,0060,State Senate,1,REP,Steven Baird,54
@@ -371,6 +385,8 @@ Shasta,0068,President,,DEM,Michael Steinberg,1
 Shasta,0068,President,,REP,Ted Cruz,33
 Shasta,0068,President,,AIP,Wiley Drake,1
 Shasta,0068,President,,DEM,Willie Wilson,3
+Shasta,0068,Proposition 50,,,No,141
+Shasta,0068,Proposition 50,,,Yes,458
 Shasta,0068,State Assembly,1,REP,Brian Dahle,462
 Shasta,0068,State Senate,1,DEM,Rob Rowen,214
 Shasta,0068,State Senate,1,REP,Steven Baird,68
@@ -427,6 +443,8 @@ Shasta,0070,President,,REP,John R. Kasich,6
 Shasta,0070,President,,DEM,Michael Steinberg,2
 Shasta,0070,President,,REP,Ted Cruz,26
 Shasta,0070,President,,DEM,Willie Wilson,1
+Shasta,0070,Proposition 50,,,No,72
+Shasta,0070,Proposition 50,,,Yes,210
 Shasta,0070,State Assembly,1,REP,Brian Dahle,220
 Shasta,0070,State Senate,1,DEM,Rob Rowen,95
 Shasta,0070,State Senate,1,REP,Steven Baird,35
@@ -478,6 +496,8 @@ Shasta,0080,President,,DEM,Michael Steinberg,1
 Shasta,0080,President,,AIP,Robert Ornelas,1
 Shasta,0080,President,,REP,Ted Cruz,29
 Shasta,0080,President,,AIP,Thomas Hoefling,2
+Shasta,0080,Proposition 50,,,No,116
+Shasta,0080,Proposition 50,,,Yes,351
 Shasta,0080,State Assembly,1,REP,Brian Dahle,417
 Shasta,0080,State Senate,1,DEM,Rob Rowen,109
 Shasta,0080,State Senate,1,REP,Steven Baird,74
@@ -526,6 +546,8 @@ Shasta,0081,President,,DEM,Hillary Clinton,29
 Shasta,0081,President,,AIP,J.R. Myers,1
 Shasta,0081,President,,AIP,Robert Ornelas,1
 Shasta,0081,President,,REP,Ted Cruz,6
+Shasta,0081,Proposition 50,,,No,19
+Shasta,0081,Proposition 50,,,Yes,72
 Shasta,0081,State Assembly,1,REP,Brian Dahle,82
 Shasta,0081,State Senate,1,DEM,Rob Rowen,40
 Shasta,0081,State Senate,1,REP,Steven Baird,12
@@ -574,6 +596,8 @@ Shasta,0091,President,,AIP,Robert Ornelas,1
 Shasta,0091,President,,REP,Ted Cruz,16
 Shasta,0091,President,,AIP,Wiley Drake,2
 Shasta,0091,President,,DEM,Willie Wilson,4
+Shasta,0091,Proposition 50,,,No,121
+Shasta,0091,Proposition 50,,,Yes,375
 Shasta,0091,State Assembly,1,REP,Brian Dahle,401
 Shasta,0091,State Senate,1,DEM,Rob Rowen,142
 Shasta,0091,State Senate,1,REP,Steven Baird,75
@@ -630,6 +654,8 @@ Shasta,0101,President,,REP,Ted Cruz,25
 Shasta,0101,President,,AIP,Thomas Hoefling,1
 Shasta,0101,President,,AIP,Wiley Drake,1
 Shasta,0101,President,,DEM,Willie Wilson,1
+Shasta,0101,Proposition 50,,,No,99
+Shasta,0101,Proposition 50,,,Yes,318
 Shasta,0101,State Assembly,1,REP,Brian Dahle,352
 Shasta,0101,State Senate,1,DEM,Rob Rowen,102
 Shasta,0101,State Senate,1,REP,Steven Baird,55
@@ -682,6 +708,8 @@ Shasta,0102,President,,REP,John R. Kasich,22
 Shasta,0102,President,,AIP,Robert Ornelas,1
 Shasta,0102,President,,REP,Ted Cruz,35
 Shasta,0102,President,,AIP,Wiley Drake,3
+Shasta,0102,Proposition 50,,,No,114
+Shasta,0102,Proposition 50,,,Yes,383
 Shasta,0102,State Assembly,1,REP,Brian Dahle,406
 Shasta,0102,State Senate,1,DEM,Rob Rowen,120
 Shasta,0102,State Senate,1,REP,Steven Baird,66
@@ -728,6 +756,8 @@ Shasta,0110,President,,DEM,Hillary Clinton,22
 Shasta,0110,President,,REP,John R. Kasich,2
 Shasta,0110,President,,AIP,Robert Ornelas,1
 Shasta,0110,President,,REP,Ted Cruz,3
+Shasta,0110,Proposition 50,,,No,18
+Shasta,0110,Proposition 50,,,Yes,81
 Shasta,0110,State Assembly,1,REP,Brian Dahle,86
 Shasta,0110,State Senate,1,DEM,Rob Rowen,34
 Shasta,0110,State Senate,1,REP,Steven Baird,11
@@ -775,6 +805,8 @@ Shasta,0112,President,,AIP,Robert Ornelas,1
 Shasta,0112,President,,DEM,Roque De La Fuente,1
 Shasta,0112,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Shasta,0112,President,,REP,Ted Cruz,36
+Shasta,0112,Proposition 50,,,No,171
+Shasta,0112,Proposition 50,,,Yes,533
 Shasta,0112,State Assembly,1,REP,Brian Dahle,615
 Shasta,0112,State Senate,1,DEM,Rob Rowen,172
 Shasta,0112,State Senate,1,REP,Steven Baird,100
@@ -825,6 +857,8 @@ Shasta,0114,President,,REP,Donald Trump,43
 Shasta,0114,President,,DEM,Hillary Clinton,23
 Shasta,0114,President,,REP,John R. Kasich,4
 Shasta,0114,President,,REP,Ted Cruz,8
+Shasta,0114,Proposition 50,,,No,16
+Shasta,0114,Proposition 50,,,Yes,93
 Shasta,0114,State Assembly,1,REP,Brian Dahle,95
 Shasta,0114,State Senate,1,DEM,Rob Rowen,40
 Shasta,0114,State Senate,1,REP,Steven Baird,8
@@ -869,6 +903,8 @@ Shasta,0120,President,,AIP,Robert Ornelas,1
 Shasta,0120,President,,DEM,Roque De La Fuente,1
 Shasta,0120,President,,REP,Ted Cruz,16
 Shasta,0120,President,,DEM,Willie Wilson,2
+Shasta,0120,Proposition 50,,,No,125
+Shasta,0120,Proposition 50,,,Yes,422
 Shasta,0120,State Assembly,1,REP,Brian Dahle,430
 Shasta,0120,State Senate,1,DEM,Rob Rowen,219
 Shasta,0120,State Senate,1,REP,Steven Baird,63
@@ -918,6 +954,8 @@ Shasta,0130,President,,DEM,Bernie Sanders,1
 Shasta,0130,President,,REP,Donald Trump,15
 Shasta,0130,President,,DEM,Hillary Clinton,1
 Shasta,0130,President,,REP,Ted Cruz,1
+Shasta,0130,Proposition 50,,,No,5
+Shasta,0130,Proposition 50,,,Yes,15
 Shasta,0130,State Assembly,1,REP,Brian Dahle,22
 Shasta,0130,State Senate,1,DEM,Rob Rowen,1
 Shasta,0130,State Senate,1,REP,Steven Baird,5
@@ -948,6 +986,8 @@ Shasta,0140,President,,REP,John R. Kasich,3
 Shasta,0140,President,,DEM,Michael Steinberg,1
 Shasta,0140,President,,PAF,Monica Moorehead,1
 Shasta,0140,President,,REP,Ted Cruz,9
+Shasta,0140,Proposition 50,,,No,118
+Shasta,0140,Proposition 50,,,Yes,297
 Shasta,0140,State Assembly,1,REP,Brian Dahle,318
 Shasta,0140,State Senate,1,DEM,Rob Rowen,174
 Shasta,0140,State Senate,1,REP,Steven Baird,74
@@ -996,6 +1036,8 @@ Shasta,0150,President,,GRN,Jill Stein,1
 Shasta,0150,President,,REP,John R. Kasich,4
 Shasta,0150,President,,REP,Ted Cruz,1
 Shasta,0150,President,,AIP,Thomas Hoefling,1
+Shasta,0150,Proposition 50,,,No,29
+Shasta,0150,Proposition 50,,,Yes,88
 Shasta,0150,State Assembly,1,REP,Brian Dahle,75
 Shasta,0150,State Senate,1,DEM,Rob Rowen,39
 Shasta,0150,State Senate,1,REP,Steven Baird,14
@@ -1047,6 +1089,8 @@ Shasta,0160,President,,AIP,Robert Ornelas,1
 Shasta,0160,President,,REP,Ted Cruz,22
 Shasta,0160,President,,AIP,Thomas Hoefling,1
 Shasta,0160,President,,AIP,Wiley Drake,1
+Shasta,0160,Proposition 50,,,No,109
+Shasta,0160,Proposition 50,,,Yes,368
 Shasta,0160,State Assembly,1,REP,Brian Dahle,410
 Shasta,0160,State Senate,1,DEM,Rob Rowen,161
 Shasta,0160,State Senate,1,REP,Steven Baird,70
@@ -1103,6 +1147,8 @@ Shasta,0170,President,,DEM,Michael Steinberg,2
 Shasta,0170,President,,AIP,Robert Ornelas,1
 Shasta,0170,President,,REP,Ted Cruz,38
 Shasta,0170,President,,DEM,Willie Wilson,2
+Shasta,0170,Proposition 50,,,No,108
+Shasta,0170,Proposition 50,,,Yes,345
 Shasta,0170,State Assembly,1,REP,Brian Dahle,363
 Shasta,0170,State Senate,1,DEM,Rob Rowen,131
 Shasta,0170,State Senate,1,REP,Steven Baird,72
@@ -1158,6 +1204,8 @@ Shasta,0175,President,,DEM,Keith Judd,1
 Shasta,0175,President,,DEM,Michael Steinberg,1
 Shasta,0175,President,,DEM,Roque De La Fuente,1
 Shasta,0175,President,,REP,Ted Cruz,8
+Shasta,0175,Proposition 50,,,No,106
+Shasta,0175,Proposition 50,,,Yes,390
 Shasta,0175,State Assembly,1,REP,Brian Dahle,413
 Shasta,0175,State Senate,1,DEM,Rob Rowen,150
 Shasta,0175,State Senate,1,REP,Steven Baird,58
@@ -1213,6 +1261,8 @@ Shasta,0201,President,,REP,Jim Gilmore,1
 Shasta,0201,President,,REP,John R. Kasich,11
 Shasta,0201,President,,REP,Ted Cruz,41
 Shasta,0201,President,,DEM,Willie Wilson,3
+Shasta,0201,Proposition 50,,,No,141
+Shasta,0201,Proposition 50,,,Yes,465
 Shasta,0201,State Assembly,1,REP,Brian Dahle,491
 Shasta,0201,State Senate,1,DEM,Rob Rowen,185
 Shasta,0201,State Senate,1,REP,Steven Baird,86
@@ -1278,6 +1328,8 @@ Shasta,0210,President,,REP,Ted Cruz,34
 Shasta,0210,President,,AIP,Thomas Hoefling,1
 Shasta,0210,President,,AIP,Wiley Drake,1
 Shasta,0210,President,,DEM,Willie Wilson,1
+Shasta,0210,Proposition 50,,,No,179
+Shasta,0210,Proposition 50,,,Yes,606
 Shasta,0210,State Assembly,1,REP,Brian Dahle,714
 Shasta,0210,State Senate,1,DEM,Rob Rowen,214
 Shasta,0210,State Senate,1,REP,Steven Baird,109
@@ -1331,6 +1383,8 @@ Shasta,0240,President,,GRN,Jill Stein,1
 Shasta,0240,President,,REP,Jim Gilmore,1
 Shasta,0240,President,,REP,John R. Kasich,5
 Shasta,0240,President,,REP,Ted Cruz,5
+Shasta,0240,Proposition 50,,,No,24
+Shasta,0240,Proposition 50,,,Yes,75
 Shasta,0240,State Assembly,1,REP,Brian Dahle,73
 Shasta,0240,State Senate,1,DEM,Rob Rowen,52
 Shasta,0240,State Senate,1,REP,Steven Baird,10
@@ -1373,6 +1427,8 @@ Shasta,0260,President,,REP,John R. Kasich,24
 Shasta,0260,President,,DEM,Keith Judd,1
 Shasta,0260,President,,REP,Ted Cruz,33
 Shasta,0260,President,,DEM,Willie Wilson,4
+Shasta,0260,Proposition 50,,,No,103
+Shasta,0260,Proposition 50,,,Yes,333
 Shasta,0260,State Assembly,1,REP,Brian Dahle,360
 Shasta,0260,State Senate,1,DEM,Rob Rowen,140
 Shasta,0260,State Senate,1,REP,Steven Baird,64
@@ -1427,6 +1483,8 @@ Shasta,0261,President,,REP,Ted Cruz,14
 Shasta,0261,President,,AIP,Thomas Hoefling,1
 Shasta,0261,President,,AIP,Wiley Drake,1
 Shasta,0261,President,,DEM,Willie Wilson,1
+Shasta,0261,Proposition 50,,,No,132
+Shasta,0261,Proposition 50,,,Yes,393
 Shasta,0261,State Assembly,1,REP,Brian Dahle,442
 Shasta,0261,State Senate,1,DEM,Rob Rowen,165
 Shasta,0261,State Senate,1,REP,Steven Baird,68
@@ -1472,6 +1530,8 @@ Shasta,0264,President,,DEM,Bernie Sanders,1
 Shasta,0264,President,,REP,Donald Trump,10
 Shasta,0264,President,,DEM,Hillary Clinton,3
 Shasta,0264,President,,REP,John R. Kasich,1
+Shasta,0264,Proposition 50,,,No,3
+Shasta,0264,Proposition 50,,,Yes,14
 Shasta,0264,State Assembly,1,REP,Brian Dahle,15
 Shasta,0264,State Senate,1,DEM,Rob Rowen,3
 Shasta,0264,State Senate,1,REP,Steven Baird,1
@@ -1489,6 +1549,7 @@ Shasta,0264,U.S. Senate,,DEM,Loretta L. Sanchez,1
 Shasta,0264,U.S. Senate,,REP,Ron Unz,3
 Shasta,0264,U.S. Senate,,REP,Thomas G. Del Beccaro,3
 Shasta,0270,President,,REP,Donald Trump,1
+Shasta,0270,Proposition 50,,,Yes,2
 Shasta,0270,State Assembly,1,REP,Brian Dahle,2
 Shasta,0270,State Senate,1,REP,Ted Gaines,2
 Shasta,0270,U.S. House,1,REP,Joe Montes,2
@@ -1507,6 +1568,8 @@ Shasta,0310,President,,REP,Ted Cruz,20
 Shasta,0310,President,,AIP,Thomas Hoefling,1
 Shasta,0310,President,,AIP,Wiley Drake,1
 Shasta,0310,President,,DEM,Willie Wilson,3
+Shasta,0310,Proposition 50,,,No,90
+Shasta,0310,Proposition 50,,,Yes,223
 Shasta,0310,State Assembly,1,REP,Brian Dahle,269
 Shasta,0310,State Senate,1,DEM,Rob Rowen,81
 Shasta,0310,State Senate,1,REP,Steven Baird,48
@@ -1561,6 +1624,8 @@ Shasta,0311,President,,DEM,Roque De La Fuente,1
 Shasta,0311,President,,REP,Ted Cruz,26
 Shasta,0311,President,,AIP,Thomas Hoefling,2
 Shasta,0311,President,,DEM,Willie Wilson,6
+Shasta,0311,Proposition 50,,,No,137
+Shasta,0311,Proposition 50,,,Yes,571
 Shasta,0311,State Assembly,1,REP,Brian Dahle,633
 Shasta,0311,State Senate,1,DEM,Rob Rowen,205
 Shasta,0311,State Senate,1,REP,Steven Baird,110
@@ -1619,6 +1684,8 @@ Shasta,0320,President,,REP,Ted Cruz,43
 Shasta,0320,President,,AIP,Thomas Hoefling,1
 Shasta,0320,President,,AIP,Wiley Drake,1
 Shasta,0320,President,,DEM,Willie Wilson,5
+Shasta,0320,Proposition 50,,,No,146
+Shasta,0320,Proposition 50,,,Yes,515
 Shasta,0320,State Assembly,1,REP,Brian Dahle,564
 Shasta,0320,State Senate,1,DEM,Rob Rowen,163
 Shasta,0320,State Senate,1,REP,Steven Baird,105
@@ -1666,6 +1733,8 @@ Shasta,0322,President,,DEM,Bernie Sanders,1
 Shasta,0322,President,,REP,Donald Trump,6
 Shasta,0322,President,,REP,John R. Kasich,1
 Shasta,0322,President,,REP,Ted Cruz,2
+Shasta,0322,Proposition 50,,,No,1
+Shasta,0322,Proposition 50,,,Yes,10
 Shasta,0322,State Assembly,1,REP,Brian Dahle,11
 Shasta,0322,State Senate,1,DEM,Rob Rowen,2
 Shasta,0322,State Senate,1,REP,Steven Baird,2
@@ -1699,6 +1768,8 @@ Shasta,0330,President,,AIP,Robert Ornelas,1
 Shasta,0330,President,,REP,Ted Cruz,25
 Shasta,0330,President,,AIP,Wiley Drake,2
 Shasta,0330,President,,DEM,Willie Wilson,2
+Shasta,0330,Proposition 50,,,No,117
+Shasta,0330,Proposition 50,,,Yes,399
 Shasta,0330,State Assembly,1,REP,Brian Dahle,437
 Shasta,0330,State Senate,1,DEM,Rob Rowen,156
 Shasta,0330,State Senate,1,REP,Steven Baird,56
@@ -1756,6 +1827,8 @@ Shasta,0340,President,,REP,Ted Cruz,33
 Shasta,0340,President,,AIP,Thomas Hoefling,1
 Shasta,0340,President,,AIP,Wiley Drake,1
 Shasta,0340,President,,DEM,Willie Wilson,3
+Shasta,0340,Proposition 50,,,No,163
+Shasta,0340,Proposition 50,,,Yes,505
 Shasta,0340,State Assembly,1,REP,Brian Dahle,586
 Shasta,0340,State Senate,1,DEM,Rob Rowen,175
 Shasta,0340,State Senate,1,REP,Steven Baird,99
@@ -1817,6 +1890,8 @@ Shasta,0343,President,,DEM,Roque De La Fuente,1
 Shasta,0343,President,,REP,Ted Cruz,37
 Shasta,0343,President,,AIP,Wiley Drake,4
 Shasta,0343,President,,DEM,Willie Wilson,2
+Shasta,0343,Proposition 50,,,No,156
+Shasta,0343,Proposition 50,,,Yes,636
 Shasta,0343,State Assembly,1,REP,Brian Dahle,667
 Shasta,0343,State Senate,1,DEM,Rob Rowen,235
 Shasta,0343,State Senate,1,REP,Steven Baird,90
@@ -1881,6 +1956,8 @@ Shasta,0350,President,,PAF,Monica Moorehead,1
 Shasta,0350,President,,DEM,Roque De La Fuente,1
 Shasta,0350,President,,REP,Ted Cruz,37
 Shasta,0350,President,,AIP,Wiley Drake,1
+Shasta,0350,Proposition 50,,,No,162
+Shasta,0350,Proposition 50,,,Yes,563
 Shasta,0350,State Assembly,1,REP,Brian Dahle,707
 Shasta,0350,State Senate,1,DEM,Rob Rowen,166
 Shasta,0350,State Senate,1,REP,Steven Baird,100
@@ -1931,6 +2008,8 @@ Shasta,0360,President,,DEM,Henry Hewes,1
 Shasta,0360,President,,DEM,Hillary Clinton,76
 Shasta,0360,President,,REP,John R. Kasich,11
 Shasta,0360,President,,REP,Ted Cruz,14
+Shasta,0360,Proposition 50,,,No,80
+Shasta,0360,Proposition 50,,,Yes,282
 Shasta,0360,State Assembly,1,REP,Brian Dahle,274
 Shasta,0360,State Senate,1,DEM,Rob Rowen,138
 Shasta,0360,State Senate,1,REP,Steven Baird,46
@@ -1982,6 +2061,8 @@ Shasta,0370,President,,LIB,Rhett White Feather Smith,1
 Shasta,0370,President,,AIP,Robert Ornelas,2
 Shasta,0370,President,,REP,Ted Cruz,29
 Shasta,0370,President,,DEM,Willie Wilson,1
+Shasta,0370,Proposition 50,,,No,79
+Shasta,0370,Proposition 50,,,Yes,254
 Shasta,0370,State Assembly,1,REP,Brian Dahle,272
 Shasta,0370,State Senate,1,DEM,Rob Rowen,103
 Shasta,0370,State Senate,1,REP,Steven Baird,51
@@ -2035,6 +2116,8 @@ Shasta,0371,President,,LIB,Marc Feldman,1
 Shasta,0371,President,,AIP,Robert Ornelas,1
 Shasta,0371,President,,REP,Ted Cruz,30
 Shasta,0371,President,,DEM,Willie Wilson,3
+Shasta,0371,Proposition 50,,,No,134
+Shasta,0371,Proposition 50,,,Yes,538
 Shasta,0371,State Assembly,1,REP,Brian Dahle,576
 Shasta,0371,State Senate,1,DEM,Rob Rowen,193
 Shasta,0371,State Senate,1,REP,Steven Baird,87
@@ -2088,6 +2171,8 @@ Shasta,0375,President,,REP,John R. Kasich,23
 Shasta,0375,President,,DEM,Keith Judd,2
 Shasta,0375,President,,AIP,Robert Ornelas,1
 Shasta,0375,President,,REP,Ted Cruz,33
+Shasta,0375,Proposition 50,,,No,118
+Shasta,0375,Proposition 50,,,Yes,366
 Shasta,0375,State Assembly,1,REP,Brian Dahle,409
 Shasta,0375,State Senate,1,DEM,Rob Rowen,146
 Shasta,0375,State Senate,1,REP,Steven Baird,64
@@ -2133,6 +2218,8 @@ Shasta,0380,President,,REP,Donald Trump,5
 Shasta,0380,President,,DEM,Hillary Clinton,8
 Shasta,0380,President,,REP,Ted Cruz,3
 Shasta,0380,President,,DEM,Willie Wilson,1
+Shasta,0380,Proposition 50,,,No,17
+Shasta,0380,Proposition 50,,,Yes,47
 Shasta,0380,State Assembly,1,REP,Brian Dahle,35
 Shasta,0380,State Senate,1,DEM,Rob Rowen,43
 Shasta,0380,State Senate,1,REP,Steven Baird,9
@@ -2169,6 +2256,8 @@ Shasta,0390,President,,AIP,James Hedges,2
 Shasta,0390,President,,REP,John R. Kasich,11
 Shasta,0390,President,,PAF,Lynn S. Kahn,1
 Shasta,0390,President,,REP,Ted Cruz,12
+Shasta,0390,Proposition 50,,,No,64
+Shasta,0390,Proposition 50,,,Yes,201
 Shasta,0390,State Assembly,1,REP,Brian Dahle,224
 Shasta,0390,State Senate,1,DEM,Rob Rowen,98
 Shasta,0390,State Senate,1,REP,Steven Baird,46
@@ -2227,6 +2316,8 @@ Shasta,0400,President,,REP,Ted Cruz,14
 Shasta,0400,President,,AIP,Thomas Hoefling,1
 Shasta,0400,President,,AIP,Wiley Drake,1
 Shasta,0400,President,,DEM,Willie Wilson,1
+Shasta,0400,Proposition 50,,,No,71
+Shasta,0400,Proposition 50,,,Yes,255
 Shasta,0400,State Assembly,1,REP,Brian Dahle,259
 Shasta,0400,State Senate,1,DEM,Rob Rowen,116
 Shasta,0400,State Senate,1,REP,Steven Baird,49
@@ -2282,6 +2373,8 @@ Shasta,0410,President,,REP,John R. Kasich,9
 Shasta,0410,President,,DEM,Keith Judd,1
 Shasta,0410,President,,AIP,Robert Ornelas,1
 Shasta,0410,President,,REP,Ted Cruz,5
+Shasta,0410,Proposition 50,,,No,65
+Shasta,0410,Proposition 50,,,Yes,180
 Shasta,0410,State Assembly,1,REP,Brian Dahle,208
 Shasta,0410,State Senate,1,DEM,Rob Rowen,91
 Shasta,0410,State Senate,1,REP,Steven Baird,31
@@ -2336,6 +2429,8 @@ Shasta,0420,President,,DEM,Michael Steinberg,2
 Shasta,0420,President,,REP,Ted Cruz,20
 Shasta,0420,President,,AIP,Wiley Drake,1
 Shasta,0420,President,,DEM,Willie Wilson,1
+Shasta,0420,Proposition 50,,,No,78
+Shasta,0420,Proposition 50,,,Yes,276
 Shasta,0420,State Assembly,1,REP,Brian Dahle,294
 Shasta,0420,State Senate,1,DEM,Rob Rowen,116
 Shasta,0420,State Senate,1,REP,Steven Baird,45
@@ -2393,6 +2488,8 @@ Shasta,0430,President,,AIP,Thomas Hoefling,3
 Shasta,0430,President,,AIP,Wiley Drake,1
 Shasta,0430,President,,GRN,William Kreml,1
 Shasta,0430,President,,DEM,Willie Wilson,1
+Shasta,0430,Proposition 50,,,No,138
+Shasta,0430,Proposition 50,,,Yes,412
 Shasta,0430,State Assembly,1,REP,Brian Dahle,438
 Shasta,0430,State Senate,1,DEM,Rob Rowen,191
 Shasta,0430,State Senate,1,REP,Steven Baird,95
@@ -2448,6 +2545,8 @@ Shasta,0441,President,,DEM,Michael Steinberg,2
 Shasta,0441,President,,REP,Ted Cruz,51
 Shasta,0441,President,,AIP,Wiley Drake,1
 Shasta,0441,President,,DEM,Willie Wilson,4
+Shasta,0441,Proposition 50,,,No,139
+Shasta,0441,Proposition 50,,,Yes,452
 Shasta,0441,State Assembly,1,REP,Brian Dahle,502
 Shasta,0441,State Senate,1,DEM,Rob Rowen,182
 Shasta,0441,State Senate,1,REP,Steven Baird,71
@@ -2504,6 +2603,8 @@ Shasta,0443,President,,REP,John R. Kasich,18
 Shasta,0443,President,,REP,Ted Cruz,23
 Shasta,0443,President,,AIP,Thomas Hoefling,1
 Shasta,0443,President,,DEM,Willie Wilson,1
+Shasta,0443,Proposition 50,,,No,74
+Shasta,0443,Proposition 50,,,Yes,413
 Shasta,0443,State Assembly,1,REP,Brian Dahle,423
 Shasta,0443,State Senate,1,DEM,Rob Rowen,109
 Shasta,0443,State Senate,1,REP,Steven Baird,74
@@ -2558,6 +2659,8 @@ Shasta,0445,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Shasta,0445,President,,REP,Ted Cruz,22
 Shasta,0445,President,,AIP,Wiley Drake,2
 Shasta,0445,President,,DEM,Willie Wilson,1
+Shasta,0445,Proposition 50,,,No,114
+Shasta,0445,Proposition 50,,,Yes,328
 Shasta,0445,State Assembly,1,REP,Brian Dahle,361
 Shasta,0445,State Senate,1,DEM,Rob Rowen,148
 Shasta,0445,State Senate,1,REP,Steven Baird,50
@@ -2617,6 +2720,8 @@ Shasta,0450,President,,REP,John R. Kasich,27
 Shasta,0450,President,,LIB,Marc Feldman,1
 Shasta,0450,President,,AIP,Robert Ornelas,1
 Shasta,0450,President,,REP,Ted Cruz,23
+Shasta,0450,Proposition 50,,,No,122
+Shasta,0450,Proposition 50,,,Yes,400
 Shasta,0450,State Assembly,1,REP,Brian Dahle,454
 Shasta,0450,State Senate,1,DEM,Rob Rowen,159
 Shasta,0450,State Senate,1,REP,Steven Baird,79
@@ -2666,6 +2771,8 @@ Shasta,0462,President,,REP,Donald Trump,31
 Shasta,0462,President,,DEM,Hillary Clinton,8
 Shasta,0462,President,,REP,John R. Kasich,2
 Shasta,0462,President,,REP,Ted Cruz,1
+Shasta,0462,Proposition 50,,,No,19
+Shasta,0462,Proposition 50,,,Yes,38
 Shasta,0462,State Assembly,1,REP,Brian Dahle,51
 Shasta,0462,State Senate,1,DEM,Rob Rowen,21
 Shasta,0462,State Senate,1,REP,Steven Baird,6
@@ -2696,6 +2803,8 @@ Shasta,0462,U.S. Senate,,REP,Von Hougo,2
 Shasta,0466,President,,DEM,Bernie Sanders,2
 Shasta,0466,President,,REP,Donald Trump,15
 Shasta,0466,President,,DEM,Hillary Clinton,1
+Shasta,0466,Proposition 50,,,No,4
+Shasta,0466,Proposition 50,,,Yes,15
 Shasta,0466,State Assembly,1,REP,Brian Dahle,16
 Shasta,0466,State Senate,1,DEM,Rob Rowen,4
 Shasta,0466,State Senate,1,REP,Steven Baird,3
@@ -2724,6 +2833,8 @@ Shasta,0468,President,,REP,John R. Kasich,4
 Shasta,0468,President,,AIP,Robert Ornelas,1
 Shasta,0468,President,,REP,Ted Cruz,6
 Shasta,0468,President,,AIP,Thomas Hoefling,1
+Shasta,0468,Proposition 50,,,No,27
+Shasta,0468,Proposition 50,,,Yes,99
 Shasta,0468,State Assembly,1,REP,Brian Dahle,104
 Shasta,0468,State Senate,1,DEM,Rob Rowen,36
 Shasta,0468,State Senate,1,REP,Steven Baird,19
@@ -2770,6 +2881,8 @@ Shasta,0490,President,,LIB,Joy Waymire,1
 Shasta,0490,President,,DEM,Michael Steinberg,1
 Shasta,0490,President,,AIP,Robert Ornelas,1
 Shasta,0490,President,,REP,Ted Cruz,8
+Shasta,0490,Proposition 50,,,No,32
+Shasta,0490,Proposition 50,,,Yes,110
 Shasta,0490,State Assembly,1,REP,Brian Dahle,100
 Shasta,0490,State Senate,1,DEM,Rob Rowen,59
 Shasta,0490,State Senate,1,REP,Steven Baird,20
@@ -2823,6 +2936,8 @@ Shasta,0500,President,,AIP,Robert Ornelas,1
 Shasta,0500,President,,REP,Ted Cruz,40
 Shasta,0500,President,,AIP,Thomas Hoefling,1
 Shasta,0500,President,,DEM,Willie Wilson,2
+Shasta,0500,Proposition 50,,,No,180
+Shasta,0500,Proposition 50,,,Yes,553
 Shasta,0500,State Assembly,1,REP,Brian Dahle,643
 Shasta,0500,State Senate,1,DEM,Rob Rowen,195
 Shasta,0500,State Senate,1,REP,Steven Baird,86
@@ -2872,6 +2987,8 @@ Shasta,0510,President,,DEM,Hillary Clinton,10
 Shasta,0510,President,,LIB,John Hale,1
 Shasta,0510,President,,REP,John R. Kasich,1
 Shasta,0510,President,,REP,Ted Cruz,7
+Shasta,0510,Proposition 50,,,No,17
+Shasta,0510,Proposition 50,,,Yes,72
 Shasta,0510,State Assembly,1,REP,Brian Dahle,68
 Shasta,0510,State Senate,1,DEM,Rob Rowen,35
 Shasta,0510,State Senate,1,REP,Steven Baird,11
@@ -2917,6 +3034,8 @@ Shasta,0520,President,,REP,John R. Kasich,10
 Shasta,0520,President,,DEM,Keith Judd,1
 Shasta,0520,President,,REP,Ted Cruz,30
 Shasta,0520,President,,DEM,Willie Wilson,1
+Shasta,0520,Proposition 50,,,No,65
+Shasta,0520,Proposition 50,,,Yes,212
 Shasta,0520,State Assembly,1,REP,Brian Dahle,269
 Shasta,0520,State Senate,1,DEM,Rob Rowen,60
 Shasta,0520,State Senate,1,REP,Steven Baird,33
@@ -2967,6 +3086,8 @@ Shasta,0523,President,,REP,John R. Kasich,9
 Shasta,0523,President,,AIP,Robert Ornelas,2
 Shasta,0523,President,,REP,Ted Cruz,20
 Shasta,0523,President,,AIP,Thomas Hoefling,2
+Shasta,0523,Proposition 50,,,No,75
+Shasta,0523,Proposition 50,,,Yes,298
 Shasta,0523,State Assembly,1,REP,Brian Dahle,292
 Shasta,0523,State Senate,1,DEM,Rob Rowen,139
 Shasta,0523,State Senate,1,REP,Steven Baird,44
@@ -3019,6 +3140,8 @@ Shasta,0530,President,,REP,John R. Kasich,4
 Shasta,0530,President,,REP,Ted Cruz,4
 Shasta,0530,President,,AIP,Thomas Hoefling,1
 Shasta,0530,President,,AIP,Wiley Drake,2
+Shasta,0530,Proposition 50,,,No,19
+Shasta,0530,Proposition 50,,,Yes,62
 Shasta,0530,State Assembly,1,REP,Brian Dahle,66
 Shasta,0530,State Senate,1,DEM,Rob Rowen,21
 Shasta,0530,State Senate,1,REP,Steven Baird,8
@@ -3055,6 +3178,8 @@ Shasta,0531,President,,DEM,Hillary Clinton,23
 Shasta,0531,President,,REP,John R. Kasich,7
 Shasta,0531,President,,DEM,Michael Steinberg,1
 Shasta,0531,President,,REP,Ted Cruz,9
+Shasta,0531,Proposition 50,,,No,34
+Shasta,0531,Proposition 50,,,Yes,80
 Shasta,0531,State Assembly,1,REP,Brian Dahle,74
 Shasta,0531,State Senate,1,DEM,Rob Rowen,56
 Shasta,0531,State Senate,1,REP,Steven Baird,9
@@ -3096,6 +3221,8 @@ Shasta,0555,President,,REP,John R. Kasich,7
 Shasta,0555,President,,AIP,Robert Ornelas,1
 Shasta,0555,President,,REP,Ted Cruz,9
 Shasta,0555,President,,DEM,Willie Wilson,1
+Shasta,0555,Proposition 50,,,No,47
+Shasta,0555,Proposition 50,,,Yes,198
 Shasta,0555,State Assembly,1,REP,Brian Dahle,238
 Shasta,0555,State Senate,1,DEM,Rob Rowen,62
 Shasta,0555,State Senate,1,REP,Steven Baird,28
@@ -3147,6 +3274,8 @@ Shasta,0557,President,,REP,John R. Kasich,7
 Shasta,0557,President,,AIP,Robert Ornelas,1
 Shasta,0557,President,,REP,Ted Cruz,11
 Shasta,0557,President,,DEM,Willie Wilson,3
+Shasta,0557,Proposition 50,,,No,53
+Shasta,0557,Proposition 50,,,Yes,173
 Shasta,0557,State Assembly,1,REP,Brian Dahle,182
 Shasta,0557,State Senate,1,DEM,Rob Rowen,77
 Shasta,0557,State Senate,1,REP,Steven Baird,30
@@ -3196,6 +3325,8 @@ Shasta,0560,President,,REP,John R. Kasich,23
 Shasta,0560,President,,DEM,Michael Steinberg,3
 Shasta,0560,President,,AIP,Robert Ornelas,2
 Shasta,0560,President,,REP,Ted Cruz,26
+Shasta,0560,Proposition 50,,,No,102
+Shasta,0560,Proposition 50,,,Yes,355
 Shasta,0560,State Assembly,1,REP,Brian Dahle,407
 Shasta,0560,State Senate,1,DEM,Rob Rowen,93
 Shasta,0560,State Senate,1,REP,Steven Baird,73
@@ -3254,6 +3385,8 @@ Shasta,0561,President,,DEM,Michael Steinberg,1
 Shasta,0561,President,,DEM,Roque De La Fuente,2
 Shasta,0561,President,,REP,Ted Cruz,29
 Shasta,0561,President,,AIP,Wiley Drake,1
+Shasta,0561,Proposition 50,,,No,141
+Shasta,0561,Proposition 50,,,Yes,433
 Shasta,0561,State Assembly,1,REP,Brian Dahle,505
 Shasta,0561,State Senate,1,DEM,Rob Rowen,126
 Shasta,0561,State Senate,1,REP,Steven Baird,80
@@ -3310,6 +3443,8 @@ Shasta,0570,President,,REP,John R. Kasich,32
 Shasta,0570,President,,DEM,Keith Judd,3
 Shasta,0570,President,,DEM,Roque De La Fuente,1
 Shasta,0570,President,,REP,Ted Cruz,33
+Shasta,0570,Proposition 50,,,No,154
+Shasta,0570,Proposition 50,,,Yes,651
 Shasta,0570,State Assembly,1,REP,Brian Dahle,635
 Shasta,0570,State Senate,1,DEM,Rob Rowen,295
 Shasta,0570,State Senate,1,REP,Steven Baird,67
@@ -3367,6 +3502,8 @@ Shasta,0575,President,,REP,John R. Kasich,23
 Shasta,0575,President,,DEM,Roque De La Fuente,2
 Shasta,0575,President,,REP,Ted Cruz,28
 Shasta,0575,President,,AIP,Wiley Drake,1
+Shasta,0575,Proposition 50,,,No,113
+Shasta,0575,Proposition 50,,,Yes,447
 Shasta,0575,State Assembly,1,REP,Brian Dahle,446
 Shasta,0575,State Senate,1,DEM,Rob Rowen,212
 Shasta,0575,State Senate,1,REP,Steven Baird,63
@@ -3426,6 +3563,8 @@ Shasta,0590,President,,DEM,Michael Steinberg,1
 Shasta,0590,President,,AIP,Robert Ornelas,1
 Shasta,0590,President,,REP,Ted Cruz,27
 Shasta,0590,President,,DEM,Willie Wilson,1
+Shasta,0590,Proposition 50,,,No,129
+Shasta,0590,Proposition 50,,,Yes,433
 Shasta,0590,State Assembly,1,REP,Brian Dahle,481
 Shasta,0590,State Senate,1,DEM,Rob Rowen,133
 Shasta,0590,State Senate,1,REP,Steven Baird,77
@@ -3482,6 +3621,8 @@ Shasta,0595,President,,DEM,Michael Steinberg,1
 Shasta,0595,President,,AIP,Robert Ornelas,1
 Shasta,0595,President,,REP,Ted Cruz,30
 Shasta,0595,President,,DEM,Willie Wilson,2
+Shasta,0595,Proposition 50,,,No,113
+Shasta,0595,Proposition 50,,,Yes,315
 Shasta,0595,State Assembly,1,REP,Brian Dahle,365
 Shasta,0595,State Senate,1,DEM,Rob Rowen,143
 Shasta,0595,State Senate,1,REP,Steven Baird,63
@@ -3535,6 +3676,8 @@ Shasta,0597,President,,DEM,Hillary Clinton,48
 Shasta,0597,President,,GRN,Jill Stein,1
 Shasta,0597,President,,REP,John R. Kasich,10
 Shasta,0597,President,,REP,Ted Cruz,16
+Shasta,0597,Proposition 50,,,No,74
+Shasta,0597,Proposition 50,,,Yes,238
 Shasta,0597,State Assembly,1,REP,Brian Dahle,234
 Shasta,0597,State Senate,1,DEM,Rob Rowen,121
 Shasta,0597,State Senate,1,REP,Steven Baird,40
@@ -3593,6 +3736,8 @@ Shasta,0610,President,,DEM,Roque De La Fuente,2
 Shasta,0610,President,,REP,Ted Cruz,5
 Shasta,0610,President,,AIP,Thomas Hoefling,1
 Shasta,0610,President,,DEM,Willie Wilson,1
+Shasta,0610,Proposition 50,,,No,34
+Shasta,0610,Proposition 50,,,Yes,155
 Shasta,0610,State Assembly,1,REP,Brian Dahle,142
 Shasta,0610,State Senate,1,DEM,Rob Rowen,76
 Shasta,0610,State Senate,1,REP,Steven Baird,24
@@ -3643,6 +3788,8 @@ Shasta,0611,President,,DEM,Roque De La Fuente,1
 Shasta,0611,President,,REP,Ted Cruz,49
 Shasta,0611,President,,AIP,Thomas Hoefling,1
 Shasta,0611,President,,DEM,Willie Wilson,1
+Shasta,0611,Proposition 50,,,No,175
+Shasta,0611,Proposition 50,,,Yes,472
 Shasta,0611,State Assembly,1,REP,Brian Dahle,553
 Shasta,0611,State Senate,1,DEM,Rob Rowen,147
 Shasta,0611,State Senate,1,REP,Steven Baird,81
@@ -3700,6 +3847,8 @@ Shasta,0620,President,,LIB,Rhett White Feather Smith,1
 Shasta,0620,President,,REP,Ted Cruz,27
 Shasta,0620,President,,AIP,Wiley Drake,3
 Shasta,0620,President,,DEM,Willie Wilson,2
+Shasta,0620,Proposition 50,,,No,143
+Shasta,0620,Proposition 50,,,Yes,434
 Shasta,0620,State Assembly,1,REP,Brian Dahle,481
 Shasta,0620,State Senate,1,DEM,Rob Rowen,140
 Shasta,0620,State Senate,1,REP,Steven Baird,89
@@ -3750,6 +3899,8 @@ Shasta,0630,President,,REP,Donald Trump,28
 Shasta,0630,President,,DEM,Hillary Clinton,8
 Shasta,0630,President,,REP,John R. Kasich,1
 Shasta,0630,President,,REP,Ted Cruz,1
+Shasta,0630,Proposition 50,,,No,13
+Shasta,0630,Proposition 50,,,Yes,41
 Shasta,0630,State Assembly,1,REP,Brian Dahle,44
 Shasta,0630,State Senate,1,DEM,Rob Rowen,12
 Shasta,0630,State Senate,1,REP,Steven Baird,10
@@ -3793,6 +3944,8 @@ Shasta,0640,President,,DEM,Keith Judd,2
 Shasta,0640,President,,DEM,Michael Steinberg,2
 Shasta,0640,President,,REP,Ted Cruz,33
 Shasta,0640,President,,DEM,Willie Wilson,2
+Shasta,0640,Proposition 50,,,No,169
+Shasta,0640,Proposition 50,,,Yes,496
 Shasta,0640,State Assembly,1,REP,Brian Dahle,584
 Shasta,0640,State Senate,1,DEM,Rob Rowen,153
 Shasta,0640,State Senate,1,REP,Steven Baird,110
@@ -3842,6 +3995,8 @@ Shasta,0644,President,,LIB,Gary Johnson,3
 Shasta,0644,President,,DEM,Hillary Clinton,38
 Shasta,0644,President,,REP,John R. Kasich,8
 Shasta,0644,President,,REP,Ted Cruz,12
+Shasta,0644,Proposition 50,,,No,61
+Shasta,0644,Proposition 50,,,Yes,229
 Shasta,0644,State Assembly,1,REP,Brian Dahle,255
 Shasta,0644,State Senate,1,DEM,Rob Rowen,62
 Shasta,0644,State Senate,1,REP,Steven Baird,41
@@ -3888,6 +4043,8 @@ Shasta,0646,President,,AIP,J.R. Myers,1
 Shasta,0646,President,,GRN,Jill Stein,1
 Shasta,0646,President,,REP,John R. Kasich,3
 Shasta,0646,President,,REP,Ted Cruz,9
+Shasta,0646,Proposition 50,,,No,28
+Shasta,0646,Proposition 50,,,Yes,70
 Shasta,0646,State Assembly,1,REP,Brian Dahle,76
 Shasta,0646,State Senate,1,DEM,Rob Rowen,27
 Shasta,0646,State Senate,1,REP,Steven Baird,20
@@ -3927,6 +4084,8 @@ Shasta,0647,President,,DEM,Hillary Clinton,12
 Shasta,0647,President,,REP,John R. Kasich,3
 Shasta,0647,President,,PAF,Monica Moorehead,1
 Shasta,0647,President,,REP,Ted Cruz,3
+Shasta,0647,Proposition 50,,,No,15
+Shasta,0647,Proposition 50,,,Yes,53
 Shasta,0647,State Assembly,1,REP,Brian Dahle,63
 Shasta,0647,State Senate,1,DEM,Rob Rowen,12
 Shasta,0647,State Senate,1,REP,Steven Baird,4
@@ -3962,6 +4121,8 @@ Shasta,0648,President,,DEM,Bernie Sanders,2
 Shasta,0648,President,,REP,Donald Trump,10
 Shasta,0648,President,,DEM,Hillary Clinton,4
 Shasta,0648,President,,REP,Ted Cruz,3
+Shasta,0648,Proposition 50,,,No,5
+Shasta,0648,Proposition 50,,,Yes,15
 Shasta,0648,State Assembly,1,REP,Brian Dahle,20
 Shasta,0648,State Senate,1,DEM,Rob Rowen,3
 Shasta,0648,State Senate,1,REP,Steven Baird,5
@@ -3999,6 +4160,8 @@ Shasta,0660,President,,PAF,Monica Moorehead,1
 Shasta,0660,President,,LIB,Rhett White Feather Smith,1
 Shasta,0660,President,,AIP,Robert Ornelas,3
 Shasta,0660,President,,REP,Ted Cruz,22
+Shasta,0660,Proposition 50,,,No,147
+Shasta,0660,Proposition 50,,,Yes,585
 Shasta,0660,State Assembly,1,REP,Brian Dahle,559
 Shasta,0660,State Senate,1,DEM,Rob Rowen,330
 Shasta,0660,State Senate,1,REP,Steven Baird,91
@@ -4051,6 +4214,8 @@ Shasta,0750,President,,DEM,Hillary Clinton,27
 Shasta,0750,President,,GRN,Jill Stein,1
 Shasta,0750,President,,REP,John R. Kasich,4
 Shasta,0750,President,,REP,Ted Cruz,6
+Shasta,0750,Proposition 50,,,No,22
+Shasta,0750,Proposition 50,,,Yes,87
 Shasta,0750,State Assembly,1,REP,Brian Dahle,98
 Shasta,0750,State Senate,1,DEM,Rob Rowen,43
 Shasta,0750,State Senate,1,REP,Steven Baird,9
@@ -4096,6 +4261,8 @@ Shasta,0760,President,,DEM,Roque De La Fuente,1
 Shasta,0760,President,,REP,Ted Cruz,13
 Shasta,0760,President,,AIP,Thomas Hoefling,1
 Shasta,0760,President,,DEM,Willie Wilson,1
+Shasta,0760,Proposition 50,,,No,105
+Shasta,0760,Proposition 50,,,Yes,277
 Shasta,0760,State Assembly,1,REP,Brian Dahle,292
 Shasta,0760,State Senate,1,DEM,Rob Rowen,152
 Shasta,0760,State Senate,1,REP,Steven Baird,44
@@ -4148,6 +4315,8 @@ Shasta,0770,President,,AIP,Robert Ornelas,2
 Shasta,0770,President,,REP,Ted Cruz,20
 Shasta,0770,President,,AIP,Thomas Hoefling,1
 Shasta,0770,President,,DEM,Willie Wilson,1
+Shasta,0770,Proposition 50,,,No,89
+Shasta,0770,Proposition 50,,,Yes,459
 Shasta,0770,State Assembly,1,REP,Brian Dahle,466
 Shasta,0770,State Senate,1,DEM,Rob Rowen,165
 Shasta,0770,State Senate,1,REP,Steven Baird,68
@@ -4194,6 +4363,8 @@ Shasta,0775,President,,DEM,Hillary Clinton,6
 Shasta,0775,President,,AIP,J.R. Myers,1
 Shasta,0775,President,,REP,Ted Cruz,1
 Shasta,0775,President,,DEM,Willie Wilson,1
+Shasta,0775,Proposition 50,,,No,10
+Shasta,0775,Proposition 50,,,Yes,15
 Shasta,0775,State Assembly,1,REP,Brian Dahle,17
 Shasta,0775,State Senate,1,DEM,Rob Rowen,11
 Shasta,0775,State Senate,1,REP,Steven Baird,2
@@ -4229,6 +4400,8 @@ Shasta,0780,President,,DEM,Roque De La Fuente,2
 Shasta,0780,President,,REP,Ted Cruz,21
 Shasta,0780,President,,AIP,Thomas Hoefling,1
 Shasta,0780,President,,AIP,Wiley Drake,1
+Shasta,0780,Proposition 50,,,No,154
+Shasta,0780,Proposition 50,,,Yes,522
 Shasta,0780,State Assembly,1,REP,Brian Dahle,455
 Shasta,0780,State Senate,1,DEM,Rob Rowen,338
 Shasta,0780,State Senate,1,REP,Steven Baird,66
@@ -4279,6 +4452,8 @@ Shasta,0800,President,,REP,Donald Trump,48
 Shasta,0800,President,,DEM,Hillary Clinton,22
 Shasta,0800,President,,REP,John R. Kasich,12
 Shasta,0800,President,,REP,Ted Cruz,1
+Shasta,0800,Proposition 50,,,No,24
+Shasta,0800,Proposition 50,,,Yes,80
 Shasta,0800,State Assembly,1,REP,Brian Dahle,85
 Shasta,0800,State Senate,1,DEM,Rob Rowen,35
 Shasta,0800,State Senate,1,REP,Steven Baird,17
@@ -4323,6 +4498,8 @@ Shasta,0830,President,,REP,Ted Cruz,40
 Shasta,0830,President,,AIP,Wiley Drake,1
 Shasta,0830,President,,GRN,William Kreml,1
 Shasta,0830,President,,DEM,Willie Wilson,2
+Shasta,0830,Proposition 50,,,No,178
+Shasta,0830,Proposition 50,,,Yes,546
 Shasta,0830,State Assembly,1,REP,Brian Dahle,584
 Shasta,0830,State Senate,1,DEM,Rob Rowen,281
 Shasta,0830,State Senate,1,REP,Steven Baird,73
@@ -4374,6 +4551,8 @@ Shasta,0850,President,,REP,Jim Gilmore,2
 Shasta,0850,President,,REP,John R. Kasich,13
 Shasta,0850,President,,DEM,Keith Judd,2
 Shasta,0850,President,,REP,Ted Cruz,13
+Shasta,0850,Proposition 50,,,No,86
+Shasta,0850,Proposition 50,,,Yes,312
 Shasta,0850,State Assembly,1,REP,Brian Dahle,312
 Shasta,0850,State Senate,1,DEM,Rob Rowen,131
 Shasta,0850,State Senate,1,REP,Steven Baird,52
@@ -4434,6 +4613,8 @@ Shasta,0861,President,,REP,Ted Cruz,43
 Shasta,0861,President,,AIP,Thomas Hoefling,1
 Shasta,0861,President,,AIP,Wiley Drake,1
 Shasta,0861,President,,DEM,Willie Wilson,3
+Shasta,0861,Proposition 50,,,No,196
+Shasta,0861,Proposition 50,,,Yes,721
 Shasta,0861,State Assembly,1,REP,Brian Dahle,770
 Shasta,0861,State Senate,1,DEM,Rob Rowen,287
 Shasta,0861,State Senate,1,REP,Steven Baird,123
@@ -4489,6 +4670,8 @@ Shasta,0890,President,,REP,John R. Kasich,33
 Shasta,0890,President,,LIB,Rhett White Feather Smith,1
 Shasta,0890,President,,AIP,Robert Ornelas,1
 Shasta,0890,President,,REP,Ted Cruz,8
+Shasta,0890,Proposition 50,,,No,77
+Shasta,0890,Proposition 50,,,Yes,354
 Shasta,0890,State Assembly,1,REP,Brian Dahle,328
 Shasta,0890,State Senate,1,DEM,Rob Rowen,158
 Shasta,0890,State Senate,1,REP,Steven Baird,37
@@ -4539,6 +4722,8 @@ Shasta,0892,President,,LIB,Marc Feldman,1
 Shasta,0892,President,,DEM,Michael Steinberg,1
 Shasta,0892,President,,PAF,Monica Moorehead,1
 Shasta,0892,President,,REP,Ted Cruz,39
+Shasta,0892,Proposition 50,,,No,104
+Shasta,0892,Proposition 50,,,Yes,377
 Shasta,0892,State Assembly,1,REP,Brian Dahle,428
 Shasta,0892,State Senate,1,DEM,Rob Rowen,100
 Shasta,0892,State Senate,1,REP,Steven Baird,72
@@ -4584,6 +4769,8 @@ Shasta,0893,President,,DEM,Henry Hewes,1
 Shasta,0893,President,,DEM,Hillary Clinton,11
 Shasta,0893,President,,REP,John R. Kasich,4
 Shasta,0893,President,,REP,Ted Cruz,2
+Shasta,0893,Proposition 50,,,No,20
+Shasta,0893,Proposition 50,,,Yes,46
 Shasta,0893,State Assembly,1,REP,Brian Dahle,54
 Shasta,0893,State Senate,1,DEM,Rob Rowen,19
 Shasta,0893,State Senate,1,REP,Steven Baird,6
@@ -4626,6 +4813,8 @@ Shasta,0894,President,,AIP,Robert Ornelas,2
 Shasta,0894,President,,DEM,Roque De La Fuente,1
 Shasta,0894,President,,REP,Ted Cruz,28
 Shasta,0894,President,,DEM,Willie Wilson,2
+Shasta,0894,Proposition 50,,,No,159
+Shasta,0894,Proposition 50,,,Yes,485
 Shasta,0894,State Assembly,1,REP,Brian Dahle,522
 Shasta,0894,State Senate,1,DEM,Rob Rowen,211
 Shasta,0894,State Senate,1,REP,Steven Baird,62
@@ -4684,6 +4873,8 @@ Shasta,0895,President,,REP,Ted Cruz,15
 Shasta,0895,President,,AIP,Thomas Hoefling,1
 Shasta,0895,President,,AIP,Wiley Drake,3
 Shasta,0895,President,,DEM,Willie Wilson,2
+Shasta,0895,Proposition 50,,,No,79
+Shasta,0895,Proposition 50,,,Yes,365
 Shasta,0895,State Assembly,1,REP,Brian Dahle,354
 Shasta,0895,State Senate,1,DEM,Rob Rowen,148
 Shasta,0895,State Senate,1,REP,Steven Baird,59
@@ -4739,6 +4930,8 @@ Shasta,0897,President,,DEM,Keith Judd,5
 Shasta,0897,President,,DEM,Michael Steinberg,1
 Shasta,0897,President,,REP,Ted Cruz,51
 Shasta,0897,President,,DEM,Willie Wilson,1
+Shasta,0897,Proposition 50,,,No,173
+Shasta,0897,Proposition 50,,,Yes,556
 Shasta,0897,State Assembly,1,REP,Brian Dahle,589
 Shasta,0897,State Senate,1,DEM,Rob Rowen,244
 Shasta,0897,State Senate,1,REP,Steven Baird,107
@@ -4790,6 +4983,8 @@ Shasta,0900,President,,REP,John R. Kasich,3
 Shasta,0900,President,,LIB,Joy Waymire,1
 Shasta,0900,President,,PAF,Lynn S. Kahn,1
 Shasta,0900,President,,REP,Ted Cruz,3
+Shasta,0900,Proposition 50,,,No,13
+Shasta,0900,Proposition 50,,,Yes,77
 Shasta,0900,State Assembly,1,REP,Brian Dahle,69
 Shasta,0900,State Senate,1,DEM,Rob Rowen,31
 Shasta,0900,State Senate,1,REP,Steven Baird,9
@@ -4829,6 +5024,8 @@ Shasta,0910,President,,REP,Jim Gilmore,1
 Shasta,0910,President,,REP,John R. Kasich,3
 Shasta,0910,President,,REP,Ted Cruz,9
 Shasta,0910,President,,AIP,Wiley Drake,1
+Shasta,0910,Proposition 50,,,No,41
+Shasta,0910,Proposition 50,,,Yes,151
 Shasta,0910,State Assembly,1,REP,Brian Dahle,146
 Shasta,0910,State Senate,1,DEM,Rob Rowen,90
 Shasta,0910,State Senate,1,REP,Steven Baird,26
@@ -4879,6 +5076,8 @@ Shasta,0912,President,,DEM,Keith Judd,2
 Shasta,0912,President,,PAF,Lynn S. Kahn,1
 Shasta,0912,President,,DEM,Michael Steinberg,1
 Shasta,0912,President,,REP,Ted Cruz,38
+Shasta,0912,Proposition 50,,,No,177
+Shasta,0912,Proposition 50,,,Yes,618
 Shasta,0912,State Assembly,1,REP,Brian Dahle,714
 Shasta,0912,State Senate,1,DEM,Rob Rowen,197
 Shasta,0912,State Senate,1,REP,Steven Baird,87
@@ -4927,6 +5126,8 @@ Shasta,0914,President,,DEM,Hillary Clinton,14
 Shasta,0914,President,,REP,John R. Kasich,3
 Shasta,0914,President,,DEM,Michael Steinberg,1
 Shasta,0914,President,,REP,Ted Cruz,4
+Shasta,0914,Proposition 50,,,No,12
+Shasta,0914,Proposition 50,,,Yes,68
 Shasta,0914,State Assembly,1,REP,Brian Dahle,75
 Shasta,0914,State Senate,1,DEM,Rob Rowen,16
 Shasta,0914,State Senate,1,REP,Steven Baird,11
@@ -4970,6 +5171,8 @@ Shasta,0930,President,,REP,John R. Kasich,25
 Shasta,0930,President,,DEM,Keith Judd,1
 Shasta,0930,President,,DEM,Michael Steinberg,1
 Shasta,0930,President,,REP,Ted Cruz,44
+Shasta,0930,Proposition 50,,,No,166
+Shasta,0930,Proposition 50,,,Yes,537
 Shasta,0930,State Assembly,1,REP,Brian Dahle,536
 Shasta,0930,State Senate,1,DEM,Rob Rowen,265
 Shasta,0930,State Senate,1,REP,Steven Baird,75
@@ -5020,6 +5223,8 @@ Shasta,0932,President,,REP,John R. Kasich,13
 Shasta,0932,President,,DEM,Michael Steinberg,1
 Shasta,0932,President,,REP,Ted Cruz,26
 Shasta,0932,President,,DEM,Willie Wilson,1
+Shasta,0932,Proposition 50,,,No,86
+Shasta,0932,Proposition 50,,,Yes,239
 Shasta,0932,State Assembly,1,REP,Brian Dahle,290
 Shasta,0932,State Senate,1,DEM,Rob Rowen,67
 Shasta,0932,State Senate,1,REP,Steven Baird,49
@@ -5079,6 +5284,8 @@ Shasta,0940,President,,REP,Ted Cruz,63
 Shasta,0940,President,,AIP,Thomas Hoefling,1
 Shasta,0940,President,,AIP,Wiley Drake,1
 Shasta,0940,President,,DEM,Willie Wilson,2
+Shasta,0940,Proposition 50,,,No,240
+Shasta,0940,Proposition 50,,,Yes,748
 Shasta,0940,State Assembly,1,REP,Brian Dahle,797
 Shasta,0940,State Senate,1,DEM,Rob Rowen,276
 Shasta,0940,State Senate,1,REP,Steven Baird,132
@@ -5143,6 +5350,8 @@ Shasta,0942,President,,REP,Ted Cruz,33
 Shasta,0942,President,,AIP,Thomas Hoefling,1
 Shasta,0942,President,,AIP,Wiley Drake,1
 Shasta,0942,President,,DEM,Willie Wilson,2
+Shasta,0942,Proposition 50,,,No,167
+Shasta,0942,Proposition 50,,,Yes,473
 Shasta,0942,State Assembly,1,REP,Brian Dahle,503
 Shasta,0942,State Senate,1,DEM,Rob Rowen,214
 Shasta,0942,State Senate,1,REP,Steven Baird,117
@@ -5193,6 +5402,8 @@ Shasta,0960,President,,REP,Donald Trump,69
 Shasta,0960,President,,DEM,Hillary Clinton,21
 Shasta,0960,President,,REP,John R. Kasich,6
 Shasta,0960,President,,REP,Ted Cruz,7
+Shasta,0960,Proposition 50,,,No,17
+Shasta,0960,Proposition 50,,,Yes,98
 Shasta,0960,State Assembly,1,REP,Brian Dahle,99
 Shasta,0960,State Senate,1,DEM,Rob Rowen,20
 Shasta,0960,State Senate,1,REP,Steven Baird,17
@@ -5234,6 +5445,8 @@ Shasta,0970,President,,DEM,Keith Judd,2
 Shasta,0970,President,,REP,Ted Cruz,13
 Shasta,0970,President,,AIP,Wiley Drake,1
 Shasta,0970,President,,DEM,Willie Wilson,8
+Shasta,0970,Proposition 50,,,No,100
+Shasta,0970,Proposition 50,,,Yes,370
 Shasta,0970,State Assembly,1,REP,Brian Dahle,374
 Shasta,0970,State Senate,1,DEM,Rob Rowen,145
 Shasta,0970,State Senate,1,REP,Steven Baird,74
@@ -5285,6 +5498,8 @@ Shasta,0972,President,,REP,Jim Gilmore,2
 Shasta,0972,President,,REP,John R. Kasich,8
 Shasta,0972,President,,DEM,Keith Judd,2
 Shasta,0972,President,,REP,Ted Cruz,8
+Shasta,0972,Proposition 50,,,No,32
+Shasta,0972,Proposition 50,,,Yes,166
 Shasta,0972,State Assembly,1,REP,Brian Dahle,160
 Shasta,0972,State Senate,1,DEM,Rob Rowen,56
 Shasta,0972,State Senate,1,REP,Steven Baird,26
@@ -5335,6 +5550,8 @@ Shasta,0976,President,,LIB,Rhett White Feather Smith,1
 Shasta,0976,President,,REP,Ted Cruz,35
 Shasta,0976,President,,AIP,Wiley Drake,2
 Shasta,0976,President,,DEM,Willie Wilson,5
+Shasta,0976,Proposition 50,,,No,120
+Shasta,0976,Proposition 50,,,Yes,472
 Shasta,0976,State Assembly,1,REP,Brian Dahle,548
 Shasta,0976,State Senate,1,DEM,Rob Rowen,126
 Shasta,0976,State Senate,1,REP,Steven Baird,64
@@ -5389,6 +5606,8 @@ Shasta,0978,President,,DEM,Roque De La Fuente,1
 Shasta,0978,President,,REP,Ted Cruz,27
 Shasta,0978,President,,AIP,Thomas Hoefling,1
 Shasta,0978,President,,DEM,Willie Wilson,1
+Shasta,0978,Proposition 50,,,No,74
+Shasta,0978,Proposition 50,,,Yes,276
 Shasta,0978,State Assembly,1,REP,Brian Dahle,302
 Shasta,0978,State Senate,1,DEM,Rob Rowen,87
 Shasta,0978,State Senate,1,REP,Steven Baird,58
@@ -5436,6 +5655,8 @@ Shasta,0979,President,,REP,John R. Kasich,25
 Shasta,0979,President,,AIP,Robert Ornelas,1
 Shasta,0979,President,,DEM,Roque De La Fuente,2
 Shasta,0979,President,,REP,Ted Cruz,46
+Shasta,0979,Proposition 50,,,No,134
+Shasta,0979,Proposition 50,,,Yes,583
 Shasta,0979,State Assembly,1,REP,Brian Dahle,620
 Shasta,0979,State Senate,1,DEM,Rob Rowen,187
 Shasta,0979,State Senate,1,REP,Steven Baird,98
@@ -5488,6 +5709,8 @@ Shasta,0982,President,,LIB,Joy Waymire,1
 Shasta,0982,President,,DEM,Roque De La Fuente,1
 Shasta,0982,President,,REP,Ted Cruz,21
 Shasta,0982,President,,DEM,Willie Wilson,2
+Shasta,0982,Proposition 50,,,No,45
+Shasta,0982,Proposition 50,,,Yes,238
 Shasta,0982,State Assembly,1,REP,Brian Dahle,234
 Shasta,0982,State Senate,1,DEM,Rob Rowen,100
 Shasta,0982,State Senate,1,REP,Steven Baird,34
@@ -5529,6 +5752,8 @@ Shasta,0982,U.S. Senate,,REP,Tom Palzer,9
 Shasta,0982,U.S. Senate,,REP,Von Hougo,2
 Shasta,0990,President,,DEM,Bernie Sanders,1
 Shasta,0990,President,,REP,Donald Trump,3
+Shasta,0990,Proposition 50,,,No,1
+Shasta,0990,Proposition 50,,,Yes,6
 Shasta,0990,State Assembly,1,REP,Brian Dahle,7
 Shasta,0990,State Senate,1,DEM,Rob Rowen,2
 Shasta,0990,State Senate,1,REP,Steven Baird,1
@@ -5549,6 +5774,8 @@ Shasta,1002,President,,DEM,Bernie Sanders,6
 Shasta,1002,President,,REP,Donald Trump,28
 Shasta,1002,President,,DEM,Hillary Clinton,3
 Shasta,1002,President,,REP,Ted Cruz,4
+Shasta,1002,Proposition 50,,,No,15
+Shasta,1002,Proposition 50,,,Yes,24
 Shasta,1002,State Assembly,1,REP,Brian Dahle,33
 Shasta,1002,State Senate,1,DEM,Rob Rowen,8
 Shasta,1002,State Senate,1,REP,Steven Baird,11
@@ -5586,6 +5813,8 @@ Shasta,1003,President,,REP,John R. Kasich,7
 Shasta,1003,President,,DEM,Michael Steinberg,1
 Shasta,1003,President,,REP,Ted Cruz,15
 Shasta,1003,President,,AIP,Thomas Hoefling,1
+Shasta,1003,Proposition 50,,,No,86
+Shasta,1003,Proposition 50,,,Yes,286
 Shasta,1003,State Assembly,1,REP,Brian Dahle,280
 Shasta,1003,State Senate,1,DEM,Rob Rowen,140
 Shasta,1003,State Senate,1,REP,Steven Baird,50
@@ -5639,6 +5868,8 @@ Shasta,1004,President,,DEM,Keith Judd,2
 Shasta,1004,President,,REP,Ted Cruz,7
 Shasta,1004,President,,AIP,Wiley Drake,1
 Shasta,1004,President,,DEM,Willie Wilson,1
+Shasta,1004,Proposition 50,,,No,66
+Shasta,1004,Proposition 50,,,Yes,238
 Shasta,1004,State Assembly,1,REP,Brian Dahle,229
 Shasta,1004,State Senate,1,DEM,Rob Rowen,113
 Shasta,1004,State Senate,1,REP,Steven Baird,52
@@ -5700,6 +5931,8 @@ Shasta,1005,President,,PAF,Monica Moorehead,1
 Shasta,1005,President,,REP,Ted Cruz,16
 Shasta,1005,President,,AIP,Wiley Drake,2
 Shasta,1005,President,,DEM,Willie Wilson,2
+Shasta,1005,Proposition 50,,,No,100
+Shasta,1005,Proposition 50,,,Yes,413
 Shasta,1005,State Assembly,1,REP,Brian Dahle,413
 Shasta,1005,State Senate,1,DEM,Rob Rowen,164
 Shasta,1005,State Senate,1,REP,Steven Baird,75
@@ -5756,6 +5989,8 @@ Shasta,1006,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Shasta,1006,President,,REP,Ted Cruz,26
 Shasta,1006,President,,AIP,Wiley Drake,3
 Shasta,1006,President,,DEM,Willie Wilson,7
+Shasta,1006,Proposition 50,,,No,121
+Shasta,1006,Proposition 50,,,Yes,473
 Shasta,1006,State Assembly,1,REP,Brian Dahle,465
 Shasta,1006,State Senate,1,DEM,Rob Rowen,203
 Shasta,1006,State Senate,1,REP,Steven Baird,73
@@ -5813,6 +6048,8 @@ Shasta,1009,President,,DEM,Keith Judd,1
 Shasta,1009,President,,AIP,Robert Ornelas,2
 Shasta,1009,President,,REP,Ted Cruz,14
 Shasta,1009,President,,DEM,Willie Wilson,2
+Shasta,1009,Proposition 50,,,No,74
+Shasta,1009,Proposition 50,,,Yes,278
 Shasta,1009,State Assembly,1,REP,Brian Dahle,285
 Shasta,1009,State Senate,1,DEM,Rob Rowen,135
 Shasta,1009,State Senate,1,REP,Steven Baird,56

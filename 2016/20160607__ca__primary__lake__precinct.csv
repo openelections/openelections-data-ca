@@ -13,6 +13,8 @@ Lake,111,President,,PAF,Monica Moorehead,1
 Lake,111,President,,LIB,Rhett White Feather Smith,1
 Lake,111,President,,DEM,Roque De La Fuente,1
 Lake,111,President,,REP,Ted Cruz,7
+Lake,111,Proposition 50,,,No,64
+Lake,111,Proposition 50,,,Yes,234
 Lake,111,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,108
 Lake,111,State Assembly,4,REP,Charlie Schaupp,130
 Lake,111,State Assembly,4,DEM,Dan Wolk,45
@@ -62,6 +64,8 @@ Lake,112,President,,REP,John R. Kasich,3
 Lake,112,President,,GRN,Kent Mesplay,1
 Lake,112,President,,REP,Ted Cruz,9
 Lake,112,President,,AIP,Wiley Drake,1
+Lake,112,Proposition 50,,,No,35
+Lake,112,Proposition 50,,,Yes,138
 Lake,112,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,62
 Lake,112,State Assembly,4,REP,Charlie Schaupp,76
 Lake,112,State Assembly,4,DEM,Dan Wolk,22
@@ -107,6 +111,8 @@ Lake,113,President,,PAF,Lynn S. Kahn,1
 Lake,113,President,,AIP,Robert Ornelas,1
 Lake,113,President,,REP,Ted Cruz,9
 Lake,113,President,,DEM,Willie Wilson,2
+Lake,113,Proposition 50,,,No,92
+Lake,113,Proposition 50,,,Yes,282
 Lake,113,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,109
 Lake,113,State Assembly,4,REP,Charlie Schaupp,151
 Lake,113,State Assembly,4,DEM,Dan Wolk,85
@@ -159,6 +165,8 @@ Lake,114,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Lake,114,President,,REP,Ted Cruz,5
 Lake,114,President,,AIP,Wiley Drake,2
 Lake,114,President,,DEM,Willie Wilson,1
+Lake,114,Proposition 50,,,No,65
+Lake,114,Proposition 50,,,Yes,239
 Lake,114,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,106
 Lake,114,State Assembly,4,REP,Charlie Schaupp,123
 Lake,114,State Assembly,4,DEM,Dan Wolk,65
@@ -210,6 +218,8 @@ Lake,115,President,,REP,Ted Cruz,8
 Lake,115,President,,AIP,Thomas Hoefling,3
 Lake,115,President,,AIP,Wiley Drake,1
 Lake,115,President,,DEM,Willie Wilson,2
+Lake,115,Proposition 50,,,No,61
+Lake,115,Proposition 50,,,Yes,242
 Lake,115,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,79
 Lake,115,State Assembly,4,REP,Charlie Schaupp,142
 Lake,115,State Assembly,4,DEM,Dan Wolk,52
@@ -264,6 +274,8 @@ Lake,116,President,,DEM,Michael Steinberg,2
 Lake,116,President,,REP,Ted Cruz,16
 Lake,116,President,,AIP,Wiley Drake,1
 Lake,116,President,,DEM,Willie Wilson,1
+Lake,116,Proposition 50,,,No,72
+Lake,116,Proposition 50,,,Yes,266
 Lake,116,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,105
 Lake,116,State Assembly,4,REP,Charlie Schaupp,148
 Lake,116,State Assembly,4,DEM,Dan Wolk,63
@@ -307,6 +319,8 @@ Lake,117,President,,DEM,Hillary Clinton,18
 Lake,117,President,,AIP,James Hedges,1
 Lake,117,President,,REP,John R. Kasich,2
 Lake,117,President,,DEM,Keith Judd,1
+Lake,117,Proposition 50,,,No,17
+Lake,117,Proposition 50,,,Yes,72
 Lake,117,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,18
 Lake,117,State Assembly,4,REP,Charlie Schaupp,46
 Lake,117,State Assembly,4,DEM,Dan Wolk,11
@@ -346,6 +360,8 @@ Lake,118,President,,AIP,James Hedges,1
 Lake,118,President,,REP,John R. Kasich,4
 Lake,118,President,,LIB,Marc Feldman,1
 Lake,118,President,,REP,Ted Cruz,4
+Lake,118,Proposition 50,,,No,36
+Lake,118,Proposition 50,,,Yes,74
 Lake,118,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,32
 Lake,118,State Assembly,4,REP,Charlie Schaupp,54
 Lake,118,State Assembly,4,DEM,Dan Wolk,20
@@ -377,6 +393,8 @@ Lake,119,President,,AIP,Alan Spears,1
 Lake,119,President,,DEM,Bernie Sanders,4
 Lake,119,President,,REP,Donald Trump,1
 Lake,119,President,,DEM,Hillary Clinton,2
+Lake,119,Proposition 50,,,No,3
+Lake,119,Proposition 50,,,Yes,6
 Lake,119,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,2
 Lake,119,State Assembly,4,REP,Charlie Schaupp,2
 Lake,119,State Assembly,4,DEM,Dan Wolk,5
@@ -393,6 +411,8 @@ Lake,120,President,,GRN,Jill Stein,1
 Lake,120,President,,REP,John R. Kasich,5
 Lake,120,President,,REP,Ted Cruz,1
 Lake,120,President,,DEM,Willie Wilson,1
+Lake,120,Proposition 50,,,No,9
+Lake,120,Proposition 50,,,Yes,56
 Lake,120,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,14
 Lake,120,State Assembly,4,REP,Charlie Schaupp,41
 Lake,120,State Assembly,4,DEM,Dan Wolk,6
@@ -432,6 +452,8 @@ Lake,121,President,,GRN,Kent Mesplay,1
 Lake,121,President,,DEM,Michael Steinberg,1
 Lake,121,President,,REP,Ted Cruz,8
 Lake,121,President,,DEM,Willie Wilson,1
+Lake,121,Proposition 50,,,No,56
+Lake,121,Proposition 50,,,Yes,207
 Lake,121,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,89
 Lake,121,State Assembly,4,REP,Charlie Schaupp,116
 Lake,121,State Assembly,4,DEM,Dan Wolk,38
@@ -482,6 +504,8 @@ Lake,122,President,,LIB,Marc Feldman,1
 Lake,122,President,,DEM,Michael Steinberg,1
 Lake,122,President,,REP,Ted Cruz,5
 Lake,122,President,,DEM,Willie Wilson,3
+Lake,122,Proposition 50,,,No,57
+Lake,122,Proposition 50,,,Yes,162
 Lake,122,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,78
 Lake,122,State Assembly,4,REP,Charlie Schaupp,92
 Lake,122,State Assembly,4,DEM,Dan Wolk,29
@@ -519,6 +543,8 @@ Lake,122,U.S. Senate,,REP,Von Hougo,1
 Lake,123,President,,DEM,Bernie Sanders,6
 Lake,123,President,,DEM,Hillary Clinton,2
 Lake,123,President,,REP,Ted Cruz,5
+Lake,123,Proposition 50,,,No,7
+Lake,123,Proposition 50,,,Yes,2
 Lake,123,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,3
 Lake,123,State Assembly,4,REP,Charlie Schaupp,5
 Lake,123,State Assembly,4,DEM,Dan Wolk,2
@@ -536,6 +562,8 @@ Lake,124,President,,DEM,Hillary Clinton,10
 Lake,124,President,,GRN,Kent Mesplay,1
 Lake,124,President,,REP,Ted Cruz,1
 Lake,124,President,,DEM,Willie Wilson,1
+Lake,124,Proposition 50,,,No,10
+Lake,124,Proposition 50,,,Yes,31
 Lake,124,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,18
 Lake,124,State Assembly,4,REP,Charlie Schaupp,20
 Lake,124,State Assembly,4,DEM,Dan Wolk,2
@@ -557,6 +585,8 @@ Lake,124,U.S. Senate,,REP,Tom Palzer,2
 Lake,131,President,,DEM,Bernie Sanders,5
 Lake,131,President,,REP,Donald Trump,9
 Lake,131,President,,DEM,Hillary Clinton,9
+Lake,131,Proposition 50,,,No,4
+Lake,131,Proposition 50,,,Yes,14
 Lake,131,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,4
 Lake,131,State Assembly,4,REP,Charlie Schaupp,8
 Lake,131,State Assembly,4,DEM,Dan Wolk,7
@@ -586,6 +616,8 @@ Lake,141,President,,AIP,Robert Ornelas,1
 Lake,141,President,,REP,Ted Cruz,5
 Lake,141,President,,AIP,Thomas Hoefling,1
 Lake,141,President,,DEM,Willie Wilson,1
+Lake,141,Proposition 50,,,No,39
+Lake,141,Proposition 50,,,Yes,155
 Lake,141,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,77
 Lake,141,State Assembly,4,REP,Charlie Schaupp,57
 Lake,141,State Assembly,4,DEM,Dan Wolk,33
@@ -626,6 +658,8 @@ Lake,142,President,,REP,Donald Trump,45
 Lake,142,President,,DEM,Hillary Clinton,45
 Lake,142,President,,DEM,Keith Judd,1
 Lake,142,President,,REP,Ted Cruz,1
+Lake,142,Proposition 50,,,No,27
+Lake,142,Proposition 50,,,Yes,105
 Lake,142,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,47
 Lake,142,State Assembly,4,REP,Charlie Schaupp,55
 Lake,142,State Assembly,4,DEM,Dan Wolk,22
@@ -671,6 +705,8 @@ Lake,211,President,,AIP,Robert Ornelas,1
 Lake,211,President,,LIB,Steve Kerbel,1
 Lake,211,President,,REP,Ted Cruz,10
 Lake,211,President,,DEM,Willie Wilson,1
+Lake,211,Proposition 50,,,No,53
+Lake,211,Proposition 50,,,Yes,216
 Lake,211,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,115
 Lake,211,State Assembly,4,REP,Charlie Schaupp,86
 Lake,211,State Assembly,4,DEM,Dan Wolk,43
@@ -723,6 +759,8 @@ Lake,212,President,,AIP,Robert Ornelas,1
 Lake,212,President,,REP,Ted Cruz,5
 Lake,212,President,,AIP,Thomas Hoefling,1
 Lake,212,President,,DEM,Willie Wilson,1
+Lake,212,Proposition 50,,,No,63
+Lake,212,Proposition 50,,,Yes,225
 Lake,212,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,121
 Lake,212,State Assembly,4,REP,Charlie Schaupp,78
 Lake,212,State Assembly,4,DEM,Dan Wolk,48
@@ -774,6 +812,8 @@ Lake,213,President,,AIP,Robert Ornelas,3
 Lake,213,President,,DEM,Roque De La Fuente,1
 Lake,213,President,,REP,Ted Cruz,2
 Lake,213,President,,DEM,Willie Wilson,2
+Lake,213,Proposition 50,,,No,56
+Lake,213,Proposition 50,,,Yes,233
 Lake,213,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,93
 Lake,213,State Assembly,4,REP,Charlie Schaupp,124
 Lake,213,State Assembly,4,DEM,Dan Wolk,38
@@ -831,6 +871,8 @@ Lake,214,President,,AIP,Robert Ornelas,3
 Lake,214,President,,REP,Ted Cruz,4
 Lake,214,President,,AIP,Wiley Drake,1
 Lake,214,President,,DEM,Willie Wilson,1
+Lake,214,Proposition 50,,,No,49
+Lake,214,Proposition 50,,,Yes,191
 Lake,214,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,112
 Lake,214,State Assembly,4,REP,Charlie Schaupp,70
 Lake,214,State Assembly,4,DEM,Dan Wolk,34
@@ -881,6 +923,8 @@ Lake,215,President,,LIB,Rhett White Feather Smith,1
 Lake,215,President,,REP,Ted Cruz,7
 Lake,215,President,,AIP,Wiley Drake,3
 Lake,215,President,,DEM,Willie Wilson,3
+Lake,215,Proposition 50,,,No,51
+Lake,215,Proposition 50,,,Yes,176
 Lake,215,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,94
 Lake,215,State Assembly,4,REP,Charlie Schaupp,73
 Lake,215,State Assembly,4,DEM,Dan Wolk,30
@@ -928,6 +972,8 @@ Lake,216,President,,DEM,Roque De La Fuente,1
 Lake,216,President,,REP,Ted Cruz,1
 Lake,216,President,,AIP,Thomas Hoefling,1
 Lake,216,President,,DEM,Willie Wilson,1
+Lake,216,Proposition 50,,,No,37
+Lake,216,Proposition 50,,,Yes,185
 Lake,216,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,113
 Lake,216,State Assembly,4,REP,Charlie Schaupp,58
 Lake,216,State Assembly,4,DEM,Dan Wolk,39
@@ -979,6 +1025,8 @@ Lake,217,President,,LIB,Joy Waymire,1
 Lake,217,President,,AIP,Robert Ornelas,1
 Lake,217,President,,REP,Ted Cruz,9
 Lake,217,President,,AIP,Wiley Drake,1
+Lake,217,Proposition 50,,,No,53
+Lake,217,Proposition 50,,,Yes,180
 Lake,217,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,98
 Lake,217,State Assembly,4,REP,Charlie Schaupp,80
 Lake,217,State Assembly,4,DEM,Dan Wolk,37
@@ -1017,6 +1065,8 @@ Lake,217,U.S. Senate,,REP,Tom Palzer,2
 Lake,217,U.S. Senate,,REP,Von Hougo,1
 Lake,222,President,,DEM,Bernie Sanders,2
 Lake,222,President,,REP,Donald Trump,2
+Lake,222,Proposition 50,,,No,1
+Lake,222,Proposition 50,,,Yes,4
 Lake,222,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,2
 Lake,222,State Assembly,4,REP,Charlie Schaupp,3
 Lake,222,U.S. House,3,DEM,John Garamendi,2
@@ -1041,6 +1091,8 @@ Lake,311,President,,LIB,Steve Kerbel,1
 Lake,311,President,,REP,Ted Cruz,6
 Lake,311,President,,AIP,Thomas Hoefling,1
 Lake,311,President,,DEM,Willie Wilson,1
+Lake,311,Proposition 50,,,No,65
+Lake,311,Proposition 50,,,Yes,225
 Lake,311,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,106
 Lake,311,State Assembly,4,REP,Charlie Schaupp,115
 Lake,311,State Assembly,4,DEM,Dan Wolk,36
@@ -1094,6 +1146,8 @@ Lake,312,President,,LIB,Steve Kerbel,1
 Lake,312,President,,REP,Ted Cruz,6
 Lake,312,President,,AIP,Wiley Drake,1
 Lake,312,President,,DEM,Willie Wilson,1
+Lake,312,Proposition 50,,,No,50
+Lake,312,Proposition 50,,,Yes,227
 Lake,312,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,74
 Lake,312,State Assembly,4,REP,Charlie Schaupp,130
 Lake,312,State Assembly,4,DEM,Dan Wolk,37
@@ -1141,6 +1195,8 @@ Lake,341,President,,GRN,Jill Stein,5
 Lake,341,President,,REP,John R. Kasich,2
 Lake,341,President,,REP,Ted Cruz,11
 Lake,341,President,,DEM,Willie Wilson,1
+Lake,341,Proposition 50,,,No,57
+Lake,341,Proposition 50,,,Yes,202
 Lake,341,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,101
 Lake,341,State Assembly,4,REP,Charlie Schaupp,78
 Lake,341,State Assembly,4,DEM,Dan Wolk,32
@@ -1187,6 +1243,8 @@ Lake,342,President,,DEM,Michael Steinberg,2
 Lake,342,President,,DEM,Roque De La Fuente,1
 Lake,342,President,,REP,Ted Cruz,5
 Lake,342,President,,DEM,Willie Wilson,4
+Lake,342,Proposition 50,,,No,39
+Lake,342,Proposition 50,,,Yes,162
 Lake,342,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,91
 Lake,342,State Assembly,4,REP,Charlie Schaupp,78
 Lake,342,State Assembly,4,DEM,Dan Wolk,23
@@ -1226,6 +1284,8 @@ Lake,342,U.S. Senate,,REP,Von Hougo,2
 Lake,343,President,,DEM,Bernie Sanders,6
 Lake,343,President,,REP,Donald Trump,4
 Lake,343,President,,DEM,Hillary Clinton,3
+Lake,343,Proposition 50,,,No,5
+Lake,343,Proposition 50,,,Yes,8
 Lake,343,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,3
 Lake,343,State Assembly,4,REP,Charlie Schaupp,4
 Lake,343,State Assembly,4,DEM,Dan Wolk,4
@@ -1250,6 +1310,8 @@ Lake,351,President,,DEM,Michael Steinberg,1
 Lake,351,President,,AIP,Robert Ornelas,2
 Lake,351,President,,REP,Ted Cruz,3
 Lake,351,President,,DEM,Willie Wilson,3
+Lake,351,Proposition 50,,,No,32
+Lake,351,Proposition 50,,,Yes,172
 Lake,351,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,81
 Lake,351,State Assembly,4,REP,Charlie Schaupp,57
 Lake,351,State Assembly,4,DEM,Dan Wolk,33
@@ -1295,6 +1357,8 @@ Lake,352,President,,REP,John R. Kasich,1
 Lake,352,President,,AIP,Robert Ornelas,1
 Lake,352,President,,REP,Ted Cruz,1
 Lake,352,President,,DEM,Willie Wilson,2
+Lake,352,Proposition 50,,,No,39
+Lake,352,Proposition 50,,,Yes,128
 Lake,352,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,63
 Lake,352,State Assembly,4,REP,Charlie Schaupp,59
 Lake,352,State Assembly,4,DEM,Dan Wolk,26
@@ -1341,6 +1405,8 @@ Lake,353,President,,LIB,Rhett White Feather Smith,1
 Lake,353,President,,REP,Ted Cruz,7
 Lake,353,President,,AIP,Wiley Drake,1
 Lake,353,President,,DEM,Willie Wilson,4
+Lake,353,Proposition 50,,,No,62
+Lake,353,Proposition 50,,,Yes,223
 Lake,353,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,100
 Lake,353,State Assembly,4,REP,Charlie Schaupp,115
 Lake,353,State Assembly,4,DEM,Dan Wolk,42
@@ -1379,6 +1445,8 @@ Lake,354,President,,DEM,Bernie Sanders,21
 Lake,354,President,,REP,Donald Trump,14
 Lake,354,President,,DEM,Hillary Clinton,19
 Lake,354,President,,REP,Jim Gilmore,1
+Lake,354,Proposition 50,,,No,7
+Lake,354,Proposition 50,,,Yes,44
 Lake,354,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,20
 Lake,354,State Assembly,4,REP,Charlie Schaupp,14
 Lake,354,State Assembly,4,DEM,Dan Wolk,11
@@ -1410,6 +1478,8 @@ Lake,361,President,,LIB,Gary Johnson,1
 Lake,361,President,,DEM,Hillary Clinton,2
 Lake,361,President,,REP,John R. Kasich,2
 Lake,361,President,,REP,Ted Cruz,1
+Lake,361,Proposition 50,,,No,4
+Lake,361,Proposition 50,,,Yes,16
 Lake,361,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,2
 Lake,361,State Assembly,4,REP,Charlie Schaupp,10
 Lake,361,State Assembly,4,DEM,Dan Wolk,4
@@ -1427,6 +1497,8 @@ Lake,361,U.S. Senate,,GRN,Pamela Elizondo,3
 Lake,361,U.S. Senate,,DEM,Steve Stokes,2
 Lake,361,U.S. Senate,,REP,Tom Palzer,2
 Lake,371,President,,DEM,Bernie Sanders,3
+Lake,371,Proposition 50,,,No,1
+Lake,371,Proposition 50,,,Yes,2
 Lake,371,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,2
 Lake,371,State Assembly,4,REP,Charlie Schaupp,1
 Lake,371,U.S. House,3,DEM,John Garamendi,2
@@ -1445,6 +1517,8 @@ Lake,381,President,,REP,John R. Kasich,2
 Lake,381,President,,REP,Ted Cruz,2
 Lake,381,President,,AIP,Thomas Hoefling,1
 Lake,381,President,,DEM,Willie Wilson,1
+Lake,381,Proposition 50,,,No,63
+Lake,381,Proposition 50,,,Yes,204
 Lake,381,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,68
 Lake,381,State Assembly,4,REP,Charlie Schaupp,127
 Lake,381,State Assembly,4,DEM,Dan Wolk,49
@@ -1491,6 +1565,8 @@ Lake,382,President,,REP,John R. Kasich,5
 Lake,382,President,,DEM,Keith Judd,1
 Lake,382,President,,REP,Ted Cruz,3
 Lake,382,President,,AIP,Wiley Drake,1
+Lake,382,Proposition 50,,,No,55
+Lake,382,Proposition 50,,,Yes,135
 Lake,382,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,79
 Lake,382,State Assembly,4,REP,Charlie Schaupp,64
 Lake,382,State Assembly,4,DEM,Dan Wolk,31
@@ -1542,6 +1618,8 @@ Lake,383,President,,LIB,John McAfee,1
 Lake,383,President,,REP,John R. Kasich,5
 Lake,383,President,,REP,Ted Cruz,2
 Lake,383,President,,DEM,Willie Wilson,3
+Lake,383,Proposition 50,,,No,41
+Lake,383,Proposition 50,,,Yes,163
 Lake,383,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,71
 Lake,383,State Assembly,4,REP,Charlie Schaupp,84
 Lake,383,State Assembly,4,DEM,Dan Wolk,26
@@ -1589,6 +1667,8 @@ Lake,384,President,,REP,Ted Cruz,3
 Lake,384,President,,AIP,Thomas Hoefling,1
 Lake,384,President,,AIP,Wiley Drake,1
 Lake,384,President,,DEM,Willie Wilson,2
+Lake,384,Proposition 50,,,No,23
+Lake,384,Proposition 50,,,Yes,135
 Lake,384,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,63
 Lake,384,State Assembly,4,REP,Charlie Schaupp,61
 Lake,384,State Assembly,4,DEM,Dan Wolk,15
@@ -1627,6 +1707,8 @@ Lake,390,President,,AIP,James Hedges,1
 Lake,390,President,,REP,John R. Kasich,3
 Lake,390,President,,REP,Ted Cruz,4
 Lake,390,President,,AIP,Thomas Hoefling,1
+Lake,390,Proposition 50,,,No,15
+Lake,390,Proposition 50,,,Yes,60
 Lake,390,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,20
 Lake,390,State Assembly,4,REP,Charlie Schaupp,30
 Lake,390,State Assembly,4,DEM,Dan Wolk,13
@@ -1666,6 +1748,8 @@ Lake,391,President,,REP,John R. Kasich,2
 Lake,391,President,,LIB,Rhett White Feather Smith,2
 Lake,391,President,,REP,Ted Cruz,3
 Lake,391,President,,DEM,Willie Wilson,1
+Lake,391,Proposition 50,,,No,16
+Lake,391,Proposition 50,,,Yes,69
 Lake,391,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,18
 Lake,391,State Assembly,4,REP,Charlie Schaupp,28
 Lake,391,State Assembly,4,DEM,Dan Wolk,18
@@ -1699,6 +1783,8 @@ Lake,392,President,,DEM,Bernie Sanders,1
 Lake,392,President,,REP,Donald Trump,2
 Lake,392,President,,DEM,Hillary Clinton,1
 Lake,392,President,,GRN,Jill Stein,1
+Lake,392,Proposition 50,,,No,1
+Lake,392,Proposition 50,,,Yes,3
 Lake,392,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,2
 Lake,392,State Assembly,4,DEM,Dan Wolk,3
 Lake,392,U.S. House,3,DEM,John Garamendi,5
@@ -1723,6 +1809,8 @@ Lake,411,President,,PAF,Lynn S. Kahn,1
 Lake,411,President,,AIP,Robert Ornelas,2
 Lake,411,President,,REP,Ted Cruz,13
 Lake,411,President,,AIP,Thomas Hoefling,2
+Lake,411,Proposition 50,,,No,74
+Lake,411,Proposition 50,,,Yes,237
 Lake,411,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,95
 Lake,411,State Assembly,4,REP,Charlie Schaupp,137
 Lake,411,State Assembly,4,DEM,Dan Wolk,52
@@ -1771,6 +1859,8 @@ Lake,412,President,,PAF,Monica Moorehead,1
 Lake,412,President,,REP,Ted Cruz,12
 Lake,412,President,,AIP,Wiley Drake,1
 Lake,412,President,,DEM,Willie Wilson,2
+Lake,412,Proposition 50,,,No,81
+Lake,412,Proposition 50,,,Yes,264
 Lake,412,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,103
 Lake,412,State Assembly,4,REP,Charlie Schaupp,142
 Lake,412,State Assembly,4,DEM,Dan Wolk,53
@@ -1829,6 +1919,8 @@ Lake,413,President,,AIP,Robert Ornelas,1
 Lake,413,President,,DEM,Roque De La Fuente,1
 Lake,413,President,,REP,Ted Cruz,5
 Lake,413,President,,DEM,Willie Wilson,1
+Lake,413,Proposition 50,,,No,57
+Lake,413,Proposition 50,,,Yes,257
 Lake,413,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,108
 Lake,413,State Assembly,4,REP,Charlie Schaupp,102
 Lake,413,State Assembly,4,DEM,Dan Wolk,54
@@ -1876,6 +1968,8 @@ Lake,414,President,,AIP,Robert Ornelas,1
 Lake,414,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Lake,414,President,,REP,Ted Cruz,5
 Lake,414,President,,DEM,Willie Wilson,2
+Lake,414,Proposition 50,,,No,57
+Lake,414,Proposition 50,,,Yes,253
 Lake,414,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,124
 Lake,414,State Assembly,4,REP,Charlie Schaupp,106
 Lake,414,State Assembly,4,DEM,Dan Wolk,41
@@ -1930,6 +2024,8 @@ Lake,421,President,,DEM,Keith Judd,1
 Lake,421,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Lake,421,President,,REP,Ted Cruz,3
 Lake,421,President,,AIP,Thomas Hoefling,1
+Lake,421,Proposition 50,,,No,46
+Lake,421,Proposition 50,,,Yes,168
 Lake,421,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,64
 Lake,421,State Assembly,4,REP,Charlie Schaupp,101
 Lake,421,State Assembly,4,DEM,Dan Wolk,30
@@ -1978,6 +2074,8 @@ Lake,422,President,,LIB,Rhett White Feather Smith,1
 Lake,422,President,,REP,Ted Cruz,3
 Lake,422,President,,AIP,Wiley Drake,1
 Lake,422,President,,DEM,Willie Wilson,3
+Lake,422,Proposition 50,,,No,53
+Lake,422,Proposition 50,,,Yes,179
 Lake,422,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,64
 Lake,422,State Assembly,4,REP,Charlie Schaupp,122
 Lake,422,State Assembly,4,DEM,Dan Wolk,31
@@ -2031,6 +2129,8 @@ Lake,431,President,,AIP,Robert Ornelas,2
 Lake,431,President,,REP,Ted Cruz,10
 Lake,431,President,,AIP,Thomas Hoefling,3
 Lake,431,President,,AIP,Wiley Drake,1
+Lake,431,Proposition 50,,,No,74
+Lake,431,Proposition 50,,,Yes,366
 Lake,431,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,129
 Lake,431,State Assembly,4,REP,Charlie Schaupp,200
 Lake,431,State Assembly,4,DEM,Dan Wolk,66
@@ -2080,6 +2180,8 @@ Lake,432,President,,REP,John R. Kasich,11
 Lake,432,President,,DEM,Keith Judd,1
 Lake,432,President,,LIB,Steve Kerbel,1
 Lake,432,President,,REP,Ted Cruz,12
+Lake,432,Proposition 50,,,No,74
+Lake,432,Proposition 50,,,Yes,285
 Lake,432,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,117
 Lake,432,State Assembly,4,REP,Charlie Schaupp,160
 Lake,432,State Assembly,4,DEM,Dan Wolk,51
@@ -2131,6 +2233,8 @@ Lake,441,President,,DEM,Michael Steinberg,1
 Lake,441,President,,AIP,Robert Ornelas,1
 Lake,441,President,,REP,Ted Cruz,8
 Lake,441,President,,DEM,Willie Wilson,1
+Lake,441,Proposition 50,,,No,40
+Lake,441,Proposition 50,,,Yes,143
 Lake,441,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,36
 Lake,441,State Assembly,4,REP,Charlie Schaupp,97
 Lake,441,State Assembly,4,DEM,Dan Wolk,25
@@ -2173,6 +2277,8 @@ Lake,442,President,,REP,John R. Kasich,2
 Lake,442,President,,AIP,Robert Ornelas,2
 Lake,442,President,,REP,Ted Cruz,4
 Lake,442,President,,DEM,Willie Wilson,1
+Lake,442,Proposition 50,,,No,25
+Lake,442,Proposition 50,,,Yes,120
 Lake,442,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,57
 Lake,442,State Assembly,4,REP,Charlie Schaupp,57
 Lake,442,State Assembly,4,DEM,Dan Wolk,17
@@ -2216,6 +2322,8 @@ Lake,451,President,,DEM,Michael Steinberg,1
 Lake,451,President,,DEM,Roque De La Fuente,1
 Lake,451,President,,REP,Ted Cruz,4
 Lake,451,President,,DEM,Willie Wilson,1
+Lake,451,Proposition 50,,,No,59
+Lake,451,Proposition 50,,,Yes,186
 Lake,451,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,86
 Lake,451,State Assembly,4,REP,Charlie Schaupp,101
 Lake,451,State Assembly,4,DEM,Dan Wolk,36
@@ -2255,6 +2363,8 @@ Lake,452,President,,REP,Jim Gilmore,1
 Lake,452,President,,REP,John R. Kasich,1
 Lake,452,President,,LIB,Rhett White Feather Smith,1
 Lake,452,President,,REP,Ted Cruz,3
+Lake,452,Proposition 50,,,No,12
+Lake,452,Proposition 50,,,Yes,57
 Lake,452,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,16
 Lake,452,State Assembly,4,REP,Charlie Schaupp,33
 Lake,452,State Assembly,4,DEM,Dan Wolk,8
@@ -2290,6 +2400,8 @@ Lake,455,President,,REP,Ted Cruz,10
 Lake,455,President,,AIP,Thomas Hoefling,1
 Lake,455,President,,AIP,Wiley Drake,1
 Lake,455,President,,DEM,Willie Wilson,1
+Lake,455,Proposition 50,,,No,70
+Lake,455,Proposition 50,,,Yes,243
 Lake,455,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,86
 Lake,455,State Assembly,4,REP,Charlie Schaupp,110
 Lake,455,State Assembly,4,DEM,Dan Wolk,65
@@ -2331,6 +2443,8 @@ Lake,461,President,,DEM,Bernie Sanders,8
 Lake,461,President,,REP,Donald Trump,14
 Lake,461,President,,DEM,Hillary Clinton,6
 Lake,461,President,,REP,John R. Kasich,3
+Lake,461,Proposition 50,,,No,10
+Lake,461,Proposition 50,,,Yes,26
 Lake,461,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,8
 Lake,461,State Assembly,4,REP,Charlie Schaupp,17
 Lake,461,State Assembly,4,DEM,Dan Wolk,6
@@ -2353,6 +2467,8 @@ Lake,471,President,,DEM,Bernie Sanders,4
 Lake,471,President,,REP,Donald Trump,3
 Lake,471,President,,DEM,Hillary Clinton,6
 Lake,471,President,,REP,John R. Kasich,2
+Lake,471,Proposition 50,,,No,2
+Lake,471,Proposition 50,,,Yes,14
 Lake,471,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,7
 Lake,471,State Assembly,4,REP,Charlie Schaupp,3
 Lake,471,State Assembly,4,DEM,Dan Wolk,2
@@ -2383,6 +2499,8 @@ Lake,520,President,,AIP,Thomas Hoefling,5
 Lake,520,President,,AIP,Wiley Drake,3
 Lake,520,President,,GRN,William Kreml,2
 Lake,520,President,,DEM,Willie Wilson,4
+Lake,520,Proposition 50,,,No,62
+Lake,520,Proposition 50,,,Yes,234
 Lake,520,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,115
 Lake,520,State Assembly,4,REP,Charlie Schaupp,98
 Lake,520,State Assembly,4,DEM,Dan Wolk,37
@@ -2444,6 +2562,8 @@ Lake,521,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Lake,521,President,,REP,Ted Cruz,6
 Lake,521,President,,AIP,Thomas Hoefling,2
 Lake,521,President,,AIP,Wiley Drake,2
+Lake,521,Proposition 50,,,No,69
+Lake,521,Proposition 50,,,Yes,237
 Lake,521,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,110
 Lake,521,State Assembly,4,REP,Charlie Schaupp,108
 Lake,521,State Assembly,4,DEM,Dan Wolk,58
@@ -2494,6 +2614,8 @@ Lake,522,President,,DEM,Keith Judd,2
 Lake,522,President,,REP,Ted Cruz,12
 Lake,522,President,,AIP,Thomas Hoefling,1
 Lake,522,President,,DEM,Willie Wilson,1
+Lake,522,Proposition 50,,,No,97
+Lake,522,Proposition 50,,,Yes,288
 Lake,522,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,111
 Lake,522,State Assembly,4,REP,Charlie Schaupp,142
 Lake,522,State Assembly,4,DEM,Dan Wolk,85
@@ -2549,6 +2671,8 @@ Lake,531,President,,AIP,Robert Ornelas,1
 Lake,531,President,,REP,Ted Cruz,9
 Lake,531,President,,AIP,Thomas Hoefling,2
 Lake,531,President,,AIP,Wiley Drake,1
+Lake,531,Proposition 50,,,No,79
+Lake,531,Proposition 50,,,Yes,302
 Lake,531,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,118
 Lake,531,State Assembly,4,REP,Charlie Schaupp,119
 Lake,531,State Assembly,4,DEM,Dan Wolk,77
@@ -2603,6 +2727,8 @@ Lake,532,President,,REP,Ted Cruz,6
 Lake,532,President,,AIP,Thomas Hoefling,1
 Lake,532,President,,AIP,Wiley Drake,1
 Lake,532,President,,DEM,Willie Wilson,1
+Lake,532,Proposition 50,,,No,59
+Lake,532,Proposition 50,,,Yes,235
 Lake,532,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,96
 Lake,532,State Assembly,4,REP,Charlie Schaupp,127
 Lake,532,State Assembly,4,DEM,Dan Wolk,45
@@ -2654,6 +2780,8 @@ Lake,533,President,,DEM,Keith Judd,1
 Lake,533,President,,REP,Ted Cruz,13
 Lake,533,President,,AIP,Thomas Hoefling,2
 Lake,533,President,,DEM,Willie Wilson,3
+Lake,533,Proposition 50,,,No,71
+Lake,533,Proposition 50,,,Yes,275
 Lake,533,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,110
 Lake,533,State Assembly,4,REP,Charlie Schaupp,153
 Lake,533,State Assembly,4,DEM,Dan Wolk,50
@@ -2706,6 +2834,8 @@ Lake,541,President,,DEM,Michael Steinberg,2
 Lake,541,President,,REP,Ted Cruz,8
 Lake,541,President,,AIP,Wiley Drake,1
 Lake,541,President,,DEM,Willie Wilson,1
+Lake,541,Proposition 50,,,No,69
+Lake,541,Proposition 50,,,Yes,355
 Lake,541,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,113
 Lake,541,State Assembly,4,REP,Charlie Schaupp,181
 Lake,541,State Assembly,4,DEM,Dan Wolk,71
@@ -2747,6 +2877,8 @@ Lake,551,President,,DEM,Hillary Clinton,26
 Lake,551,President,,GRN,Jill Stein,1
 Lake,551,President,,REP,Ted Cruz,1
 Lake,551,President,,AIP,Wiley Drake,1
+Lake,551,Proposition 50,,,No,12
+Lake,551,Proposition 50,,,Yes,54
 Lake,551,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,30
 Lake,551,State Assembly,4,REP,Charlie Schaupp,25
 Lake,551,State Assembly,4,DEM,Dan Wolk,9
@@ -2784,6 +2916,8 @@ Lake,561,President,,LIB,Rhett White Feather Smith,1
 Lake,561,President,,REP,Ted Cruz,7
 Lake,561,President,,AIP,Wiley Drake,1
 Lake,561,President,,DEM,Willie Wilson,1
+Lake,561,Proposition 50,,,No,94
+Lake,561,Proposition 50,,,Yes,225
 Lake,561,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,99
 Lake,561,State Assembly,4,REP,Charlie Schaupp,141
 Lake,561,State Assembly,4,DEM,Dan Wolk,52
@@ -2832,6 +2966,8 @@ Lake,571,President,,PAF,Monica Moorehead,1
 Lake,571,President,,LIB,Rhett White Feather Smith,2
 Lake,571,President,,REP,Ted Cruz,5
 Lake,571,President,,DEM,Willie Wilson,2
+Lake,571,Proposition 50,,,No,40
+Lake,571,Proposition 50,,,Yes,221
 Lake,571,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,91
 Lake,571,State Assembly,4,REP,Charlie Schaupp,93
 Lake,571,State Assembly,4,DEM,Dan Wolk,37
@@ -2878,6 +3014,8 @@ Lake,581,President,,LIB,Rhett White Feather Smith,2
 Lake,581,President,,AIP,Robert Ornelas,1
 Lake,581,President,,REP,Ted Cruz,5
 Lake,581,President,,AIP,Wiley Drake,1
+Lake,581,Proposition 50,,,No,72
+Lake,581,Proposition 50,,,Yes,304
 Lake,581,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,140
 Lake,581,State Assembly,4,REP,Charlie Schaupp,98
 Lake,581,State Assembly,4,DEM,Dan Wolk,89

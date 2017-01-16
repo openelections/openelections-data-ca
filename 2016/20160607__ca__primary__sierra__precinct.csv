@@ -7,6 +7,8 @@ Sierra,001,President,,DEM,Hillary Clinton,6
 Sierra,001,President,,REP,Jim Gilmore,1
 Sierra,001,President,,REP,John R. Kasich,4
 Sierra,001,President,,REP,Ted Cruz,1
+Sierra,001,Proposition 50,,,No,21
+Sierra,001,Proposition 50,,,Yes,92
 Sierra,001,State Assembly,1,REP,Brian Dahle,81
 Sierra,001,State Senate,1,DEM,Rob Rowen,34
 Sierra,001,State Senate,1,REP,Steven Baird,12
@@ -48,6 +50,8 @@ Sierra,002,President,,DEM,Bernie Sanders,13
 Sierra,002,President,,REP,Donald Trump,16
 Sierra,002,President,,DEM,Hillary Clinton,12
 Sierra,002,President,,REP,Ted Cruz,2
+Sierra,002,Proposition 50,,,No,12
+Sierra,002,Proposition 50,,,Yes,38
 Sierra,002,State Assembly,1,REP,Brian Dahle,32
 Sierra,002,State Senate,1,DEM,Rob Rowen,17
 Sierra,002,State Senate,1,REP,Steven Baird,4
@@ -79,6 +83,8 @@ Sierra,003,President,,DEM,Bernie Sanders,16
 Sierra,003,President,,REP,Donald Trump,19
 Sierra,003,President,,DEM,Hillary Clinton,9
 Sierra,003,President,,REP,John R. Kasich,1
+Sierra,003,Proposition 50,,,No,11
+Sierra,003,Proposition 50,,,Yes,39
 Sierra,003,State Assembly,1,REP,Brian Dahle,29
 Sierra,003,State Senate,1,DEM,Rob Rowen,15
 Sierra,003,State Senate,1,REP,Steven Baird,3
@@ -111,6 +117,8 @@ Sierra,004,President,,DEM,Hillary Clinton,2
 Sierra,004,President,,AIP,J.R. Myers,1
 Sierra,004,President,,GRN,Jill Stein,1
 Sierra,004,President,,LIB,Rhett White Feather Smith,1
+Sierra,004,Proposition 50,,,No,8
+Sierra,004,Proposition 50,,,Yes,41
 Sierra,004,State Assembly,1,REP,Brian Dahle,32
 Sierra,004,State Senate,1,DEM,Rob Rowen,18
 Sierra,004,State Senate,1,REP,Steven Baird,3
@@ -145,6 +153,8 @@ Sierra,005,President,,DEM,Hillary Clinton,7
 Sierra,005,President,,GRN,Jill Stein,1
 Sierra,005,President,,REP,John R. Kasich,2
 Sierra,005,President,,REP,Ted Cruz,1
+Sierra,005,Proposition 50,,,No,15
+Sierra,005,Proposition 50,,,Yes,74
 Sierra,005,State Assembly,1,REP,Brian Dahle,50
 Sierra,005,State Senate,1,DEM,Rob Rowen,44
 Sierra,005,State Senate,1,REP,Steven Baird,8
@@ -184,6 +194,8 @@ Sierra,006,President,,REP,John R. Kasich,3
 Sierra,006,President,,REP,Ted Cruz,1
 Sierra,006,President,,AIP,Wiley Drake,2
 Sierra,006,President,,DEM,Willie Wilson,1
+Sierra,006,Proposition 50,,,No,12
+Sierra,006,Proposition 50,,,Yes,82
 Sierra,006,State Assembly,1,REP,Brian Dahle,65
 Sierra,006,State Senate,1,DEM,Rob Rowen,35
 Sierra,006,State Senate,1,REP,Steven Baird,6
@@ -212,6 +224,8 @@ Sierra,007,President,,LIB,Darryl W. Perry,1
 Sierra,007,President,,REP,Donald Trump,37
 Sierra,007,President,,DEM,Hillary Clinton,18
 Sierra,007,President,,REP,John R. Kasich,3
+Sierra,007,Proposition 50,,,No,18
+Sierra,007,Proposition 50,,,Yes,64
 Sierra,007,State Assembly,1,REP,Brian Dahle,61
 Sierra,007,State Senate,1,DEM,Rob Rowen,25
 Sierra,007,State Senate,1,REP,Steven Baird,11
@@ -241,6 +255,8 @@ Sierra,008,President,,DEM,Bernie Sanders,1
 Sierra,008,President,,REP,Donald Trump,3
 Sierra,008,President,,DEM,Hillary Clinton,2
 Sierra,008,President,,DEM,Keith Judd,1
+Sierra,008,Proposition 50,,,No,2
+Sierra,008,Proposition 50,,,Yes,4
 Sierra,008,State Assembly,1,REP,Brian Dahle,5
 Sierra,008,State Senate,1,DEM,Rob Rowen,2
 Sierra,008,State Senate,1,REP,Ted Gaines,5
@@ -259,6 +275,8 @@ Sierra,009,President,,REP,Donald Trump,12
 Sierra,009,President,,DEM,Hillary Clinton,18
 Sierra,009,President,,REP,John R. Kasich,1
 Sierra,009,President,,REP,Ted Cruz,2
+Sierra,009,Proposition 50,,,No,14
+Sierra,009,Proposition 50,,,Yes,31
 Sierra,009,State Assembly,1,REP,Brian Dahle,26
 Sierra,009,State Senate,1,DEM,Rob Rowen,26
 Sierra,009,State Senate,1,REP,Steven Baird,5
@@ -285,6 +303,7 @@ Sierra,009,U.S. Senate,,REP,Thomas G. Del Beccaro,1
 Sierra,010,President,,DEM,Bernie Sanders,2
 Sierra,010,President,,REP,John R. Kasich,1
 Sierra,010,President,,REP,Ted Cruz,1
+Sierra,010,Proposition 50,,,Yes,4
 Sierra,010,State Assembly,1,REP,Brian Dahle,2
 Sierra,010,State Senate,1,DEM,Rob Rowen,3
 Sierra,010,State Senate,1,REP,Ted Gaines,2
@@ -305,6 +324,8 @@ Sierra,011,President,,REP,John R. Kasich,1
 Sierra,011,President,,DEM,Michael Steinberg,1
 Sierra,011,President,,REP,Ted Cruz,3
 Sierra,011,President,,DEM,Willie Wilson,1
+Sierra,011,Proposition 50,,,No,9
+Sierra,011,Proposition 50,,,Yes,37
 Sierra,011,State Assembly,1,REP,Brian Dahle,31
 Sierra,011,State Senate,1,DEM,Rob Rowen,16
 Sierra,011,State Senate,1,REP,Steven Baird,14
@@ -336,6 +357,8 @@ Sierra,012,President,,DEM,Hillary Clinton,22
 Sierra,012,President,,REP,John R. Kasich,4
 Sierra,012,President,,REP,Ted Cruz,2
 Sierra,012,President,,AIP,Wiley Drake,1
+Sierra,012,Proposition 50,,,No,44
+Sierra,012,Proposition 50,,,Yes,85
 Sierra,012,State Assembly,1,REP,Brian Dahle,92
 Sierra,012,State Senate,1,DEM,Rob Rowen,42
 Sierra,012,State Senate,1,REP,Steven Baird,17
@@ -369,6 +392,8 @@ Sierra,013,President,,DEM,Bernie Sanders,6
 Sierra,013,President,,REP,Donald Trump,16
 Sierra,013,President,,DEM,Hillary Clinton,5
 Sierra,013,President,,REP,John R. Kasich,4
+Sierra,013,Proposition 50,,,No,8
+Sierra,013,Proposition 50,,,Yes,24
 Sierra,013,State Assembly,1,REP,Brian Dahle,25
 Sierra,013,State Senate,1,DEM,Rob Rowen,8
 Sierra,013,State Senate,1,REP,Steven Baird,4
@@ -398,6 +423,8 @@ Sierra,014,President,,REP,Donald Trump,40
 Sierra,014,President,,DEM,Hillary Clinton,11
 Sierra,014,President,,REP,John R. Kasich,5
 Sierra,014,President,,REP,Ted Cruz,2
+Sierra,014,Proposition 50,,,No,15
+Sierra,014,Proposition 50,,,Yes,92
 Sierra,014,State Assembly,1,REP,Brian Dahle,85
 Sierra,014,State Senate,1,DEM,Rob Rowen,36
 Sierra,014,State Senate,1,REP,Steven Baird,4
@@ -431,6 +458,8 @@ Sierra,015,President,,DEM,Bernie Sanders,7
 Sierra,015,President,,REP,Donald Trump,28
 Sierra,015,President,,DEM,Hillary Clinton,8
 Sierra,015,President,,REP,Ted Cruz,3
+Sierra,015,Proposition 50,,,No,17
+Sierra,015,Proposition 50,,,Yes,34
 Sierra,015,State Assembly,1,REP,Brian Dahle,42
 Sierra,015,State Senate,1,DEM,Rob Rowen,13
 Sierra,015,State Senate,1,REP,Steven Baird,8
@@ -460,6 +489,8 @@ Sierra,016,President,,DEM,Hillary Clinton,21
 Sierra,016,President,,REP,Jim Gilmore,1
 Sierra,016,President,,REP,John R. Kasich,3
 Sierra,016,President,,REP,Ted Cruz,1
+Sierra,016,Proposition 50,,,No,13
+Sierra,016,Proposition 50,,,Yes,74
 Sierra,016,State Assembly,1,REP,Brian Dahle,58
 Sierra,016,State Senate,1,DEM,Rob Rowen,27
 Sierra,016,State Senate,1,REP,Steven Baird,21
@@ -498,6 +529,8 @@ Sierra,017,President,,REP,Donald Trump,45
 Sierra,017,President,,DEM,Hillary Clinton,20
 Sierra,017,President,,AIP,Robert Ornelas,2
 Sierra,017,President,,REP,Ted Cruz,6
+Sierra,017,Proposition 50,,,No,22
+Sierra,017,Proposition 50,,,Yes,87
 Sierra,017,State Assembly,1,REP,Brian Dahle,84
 Sierra,017,State Senate,1,DEM,Rob Rowen,39
 Sierra,017,State Senate,1,REP,Steven Baird,19
@@ -534,6 +567,8 @@ Sierra,018,President,,REP,Donald Trump,20
 Sierra,018,President,,DEM,Hillary Clinton,7
 Sierra,018,President,,AIP,J.R. Myers,1
 Sierra,018,President,,REP,Ted Cruz,4
+Sierra,018,Proposition 50,,,No,9
+Sierra,018,Proposition 50,,,Yes,42
 Sierra,018,State Assembly,1,REP,Brian Dahle,40
 Sierra,018,State Senate,1,DEM,Rob Rowen,18
 Sierra,018,State Senate,1,REP,Steven Baird,15
@@ -561,6 +596,7 @@ Sierra,018,U.S. Senate,,DEM,Steve Stokes,1
 Sierra,018,U.S. Senate,,REP,Thomas G. Del Beccaro,13
 Sierra,018,U.S. Senate,,REP,Tom Palzer,1
 Sierra,019,President,,DEM,Hillary Clinton,3
+Sierra,019,Proposition 50,,,Yes,5
 Sierra,019,State Assembly,1,REP,Brian Dahle,3
 Sierra,019,State Senate,1,DEM,Rob Rowen,1
 Sierra,019,State Senate,1,REP,Steven Baird,3
@@ -574,6 +610,8 @@ Sierra,019,U.S. Senate,,DEM,Loretta L. Sanchez,1
 Sierra,020,President,,DEM,Bernie Sanders,1
 Sierra,020,President,,REP,Donald Trump,1
 Sierra,020,President,,DEM,Hillary Clinton,9
+Sierra,020,Proposition 50,,,No,2
+Sierra,020,Proposition 50,,,Yes,11
 Sierra,020,State Assembly,1,REP,Brian Dahle,5
 Sierra,020,State Senate,1,DEM,Rob Rowen,10
 Sierra,020,State Senate,1,REP,Steven Baird,1
@@ -591,6 +629,8 @@ Sierra,021,President,,DEM,Hillary Clinton,3
 Sierra,021,President,,GRN,Jill Stein,2
 Sierra,021,President,,REP,John R. Kasich,2
 Sierra,021,President,,REP,Ted Cruz,5
+Sierra,021,Proposition 50,,,No,22
+Sierra,021,Proposition 50,,,Yes,66
 Sierra,021,State Assembly,1,REP,Brian Dahle,60
 Sierra,021,State Senate,1,DEM,Rob Rowen,14
 Sierra,021,State Senate,1,REP,Steven Baird,36
@@ -627,6 +667,8 @@ Sierra,022,President,,REP,Donald Trump,40
 Sierra,022,President,,DEM,Hillary Clinton,16
 Sierra,022,President,,REP,John R. Kasich,1
 Sierra,022,President,,REP,Ted Cruz,3
+Sierra,022,Proposition 50,,,No,26
+Sierra,022,Proposition 50,,,Yes,71
 Sierra,022,State Assembly,1,REP,Brian Dahle,73
 Sierra,022,State Senate,1,DEM,Rob Rowen,27
 Sierra,022,State Senate,1,REP,Steven Baird,13

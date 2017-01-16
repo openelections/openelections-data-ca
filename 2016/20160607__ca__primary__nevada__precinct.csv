@@ -11,6 +11,8 @@ Nevada,CP01,President,,AIP,James Hedges,1
 Nevada,CP01,President,,LIB,John McAfee,2
 Nevada,CP01,President,,REP,John R. Kasich,20
 Nevada,CP01,President,,REP,Ted Cruz,21
+Nevada,CP01,Proposition 50,,,No,140
+Nevada,CP01,Proposition 50,,,Yes,444
 Nevada,CP01,State Assembly,1,REP,Brian Dahle,355
 Nevada,CP01,State Senate,1,DEM,Rob Rowen,250
 Nevada,CP01,State Senate,1,REP,Steven Baird,58
@@ -61,6 +63,8 @@ Nevada,CP02,President,,REP,John R. Kasich,28
 Nevada,CP02,President,,AIP,Robert Ornelas,1
 Nevada,CP02,President,,REP,Ted Cruz,19
 Nevada,CP02,President,,AIP,Wiley Drake,1
+Nevada,CP02,Proposition 50,,,No,166
+Nevada,CP02,Proposition 50,,,Yes,501
 Nevada,CP02,State Assembly,1,REP,Brian Dahle,408
 Nevada,CP02,State Senate,1,DEM,Rob Rowen,274
 Nevada,CP02,State Senate,1,REP,Steven Baird,57
@@ -122,6 +126,8 @@ Nevada,CP03,President,,DEM,Roque De La Fuente,1
 Nevada,CP03,President,,REP,Ted Cruz,22
 Nevada,CP03,President,,AIP,Wiley Drake,1
 Nevada,CP03,President,,DEM,Willie Wilson,2
+Nevada,CP03,Proposition 50,,,No,188
+Nevada,CP03,Proposition 50,,,Yes,736
 Nevada,CP03,State Assembly,1,REP,Brian Dahle,560
 Nevada,CP03,State Senate,1,DEM,Rob Rowen,470
 Nevada,CP03,State Senate,1,REP,Steven Baird,94
@@ -182,6 +188,8 @@ Nevada,CP04,President,,GRN,Sedinam Moyowasifsa-Curry,2
 Nevada,CP04,President,,REP,Ted Cruz,14
 Nevada,CP04,President,,AIP,Wiley Drake,2
 Nevada,CP04,President,,DEM,Willie Wilson,2
+Nevada,CP04,Proposition 50,,,No,245
+Nevada,CP04,Proposition 50,,,Yes,745
 Nevada,CP04,State Assembly,1,REP,Brian Dahle,504
 Nevada,CP04,State Senate,1,DEM,Rob Rowen,628
 Nevada,CP04,State Senate,1,REP,Steven Baird,61
@@ -241,6 +249,8 @@ Nevada,CP05,President,,AIP,Robert Ornelas,1
 Nevada,CP05,President,,REP,Ted Cruz,17
 Nevada,CP05,President,,AIP,Thomas Hoefling,1
 Nevada,CP05,President,,DEM,Willie Wilson,1
+Nevada,CP05,Proposition 50,,,No,150
+Nevada,CP05,Proposition 50,,,Yes,686
 Nevada,CP05,State Assembly,1,REP,Brian Dahle,461
 Nevada,CP05,State Senate,1,DEM,Rob Rowen,474
 Nevada,CP05,State Senate,1,REP,Steven Baird,56
@@ -297,6 +307,8 @@ Nevada,CP06,President,,DEM,Roque De La Fuente,1
 Nevada,CP06,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,CP06,President,,REP,Ted Cruz,17
 Nevada,CP06,President,,DEM,Willie Wilson,3
+Nevada,CP06,Proposition 50,,,No,252
+Nevada,CP06,Proposition 50,,,Yes,794
 Nevada,CP06,State Assembly,1,REP,Brian Dahle,482
 Nevada,CP06,State Senate,1,DEM,Rob Rowen,691
 Nevada,CP06,State Senate,1,REP,Steven Baird,63
@@ -353,6 +365,8 @@ Nevada,CP07,President,,REP,Ted Cruz,24
 Nevada,CP07,President,,AIP,Thomas Hoefling,2
 Nevada,CP07,President,,AIP,Wiley Drake,1
 Nevada,CP07,President,,DEM,Willie Wilson,1
+Nevada,CP07,Proposition 50,,,No,277
+Nevada,CP07,Proposition 50,,,Yes,730
 Nevada,CP07,State Assembly,1,REP,Brian Dahle,578
 Nevada,CP07,State Senate,1,DEM,Rob Rowen,469
 Nevada,CP07,State Senate,1,REP,Steven Baird,108
@@ -406,6 +420,8 @@ Nevada,CP08,President,,REP,John R. Kasich,32
 Nevada,CP08,President,,DEM,Keith Judd,1
 Nevada,CP08,President,,REP,Ted Cruz,21
 Nevada,CP08,President,,AIP,Wiley Drake,2
+Nevada,CP08,Proposition 50,,,No,237
+Nevada,CP08,Proposition 50,,,Yes,706
 Nevada,CP08,State Assembly,1,REP,Brian Dahle,505
 Nevada,CP08,State Senate,1,DEM,Rob Rowen,503
 Nevada,CP08,State Senate,1,REP,Steven Baird,81
@@ -458,6 +474,8 @@ Nevada,CP09,President,,LIB,John McAfee,1
 Nevada,CP09,President,,REP,John R. Kasich,21
 Nevada,CP09,President,,REP,Ted Cruz,9
 Nevada,CP09,President,,DEM,Willie Wilson,1
+Nevada,CP09,Proposition 50,,,No,311
+Nevada,CP09,Proposition 50,,,Yes,979
 Nevada,CP09,State Assembly,1,REP,Brian Dahle,527
 Nevada,CP09,State Senate,1,DEM,Rob Rowen,957
 Nevada,CP09,State Senate,1,REP,Steven Baird,70
@@ -510,6 +528,8 @@ Nevada,CP10,President,,GRN,Jill Stein,2
 Nevada,CP10,President,,REP,John R. Kasich,19
 Nevada,CP10,President,,REP,Ted Cruz,11
 Nevada,CP10,President,,AIP,Wiley Drake,1
+Nevada,CP10,Proposition 50,,,No,99
+Nevada,CP10,Proposition 50,,,Yes,313
 Nevada,CP10,State Assembly,1,REP,Brian Dahle,250
 Nevada,CP10,State Senate,1,DEM,Rob Rowen,196
 Nevada,CP10,State Senate,1,REP,Steven Baird,30
@@ -563,6 +583,8 @@ Nevada,CP11,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,CP11,President,,REP,Ted Cruz,30
 Nevada,CP11,President,,AIP,Thomas Hoefling,1
 Nevada,CP11,President,,DEM,Willie Wilson,1
+Nevada,CP11,Proposition 50,,,No,244
+Nevada,CP11,Proposition 50,,,Yes,689
 Nevada,CP11,State Assembly,1,REP,Brian Dahle,571
 Nevada,CP11,State Senate,1,DEM,Rob Rowen,423
 Nevada,CP11,State Senate,1,REP,Steven Baird,82
@@ -618,6 +640,8 @@ Nevada,CP12,President,,AIP,Robert Ornelas,1
 Nevada,CP12,President,,REP,Ted Cruz,28
 Nevada,CP12,President,,AIP,Thomas Hoefling,1
 Nevada,CP12,President,,AIP,Wiley Drake,1
+Nevada,CP12,Proposition 50,,,No,239
+Nevada,CP12,Proposition 50,,,Yes,586
 Nevada,CP12,State Assembly,1,REP,Brian Dahle,563
 Nevada,CP12,State Senate,1,DEM,Rob Rowen,255
 Nevada,CP12,State Senate,1,REP,Steven Baird,107
@@ -680,6 +704,8 @@ Nevada,CP13,President,,DEM,Roque De La Fuente,3
 Nevada,CP13,President,,REP,Ted Cruz,63
 Nevada,CP13,President,,AIP,Wiley Drake,1
 Nevada,CP13,President,,DEM,Willie Wilson,1
+Nevada,CP13,Proposition 50,,,No,420
+Nevada,CP13,Proposition 50,,,Yes,1244
 Nevada,CP13,State Assembly,1,REP,Brian Dahle,1179
 Nevada,CP13,State Senate,1,DEM,Rob Rowen,555
 Nevada,CP13,State Senate,1,REP,Steven Baird,237
@@ -742,6 +768,8 @@ Nevada,CP14,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,CP14,President,,REP,Ted Cruz,13
 Nevada,CP14,President,,AIP,Wiley Drake,1
 Nevada,CP14,President,,GRN,William Kreml,1
+Nevada,CP14,Proposition 50,,,No,126
+Nevada,CP14,Proposition 50,,,Yes,349
 Nevada,CP14,State Assembly,1,REP,Brian Dahle,309
 Nevada,CP14,State Senate,1,DEM,Rob Rowen,166
 Nevada,CP14,State Senate,1,REP,Steven Baird,56
@@ -801,6 +829,8 @@ Nevada,CP15,President,,DEM,Michael Steinberg,1
 Nevada,CP15,President,,LIB,Rhett White Feather Smith,1
 Nevada,CP15,President,,DEM,Roque De La Fuente,1
 Nevada,CP15,President,,REP,Ted Cruz,27
+Nevada,CP15,Proposition 50,,,No,179
+Nevada,CP15,Proposition 50,,,Yes,528
 Nevada,CP15,State Assembly,1,REP,Brian Dahle,475
 Nevada,CP15,State Senate,1,DEM,Rob Rowen,238
 Nevada,CP15,State Senate,1,REP,Steven Baird,101
@@ -851,6 +881,8 @@ Nevada,CP16,President,,REP,John R. Kasich,13
 Nevada,CP16,President,,DEM,Roque De La Fuente,1
 Nevada,CP16,President,,REP,Ted Cruz,9
 Nevada,CP16,President,,AIP,Thomas Hoefling,1
+Nevada,CP16,Proposition 50,,,No,64
+Nevada,CP16,Proposition 50,,,Yes,226
 Nevada,CP16,State Assembly,1,REP,Brian Dahle,190
 Nevada,CP16,State Senate,1,DEM,Rob Rowen,113
 Nevada,CP16,State Senate,1,REP,Steven Baird,32
@@ -905,6 +937,8 @@ Nevada,CP17,President,,REP,Ted Cruz,22
 Nevada,CP17,President,,AIP,Thomas Hoefling,1
 Nevada,CP17,President,,AIP,Wiley Drake,1
 Nevada,CP17,President,,DEM,Willie Wilson,1
+Nevada,CP17,Proposition 50,,,No,240
+Nevada,CP17,Proposition 50,,,Yes,797
 Nevada,CP17,State Assembly,1,REP,Brian Dahle,666
 Nevada,CP17,State Senate,1,DEM,Rob Rowen,404
 Nevada,CP17,State Senate,1,REP,Steven Baird,88
@@ -962,6 +996,8 @@ Nevada,CP18,President,,DEM,Michael Steinberg,1
 Nevada,CP18,President,,AIP,Robert Ornelas,1
 Nevada,CP18,President,,REP,Ted Cruz,22
 Nevada,CP18,President,,DEM,Willie Wilson,2
+Nevada,CP18,Proposition 50,,,No,177
+Nevada,CP18,Proposition 50,,,Yes,526
 Nevada,CP18,State Assembly,1,REP,Brian Dahle,476
 Nevada,CP18,State Senate,1,DEM,Rob Rowen,283
 Nevada,CP18,State Senate,1,REP,Steven Baird,62
@@ -1013,6 +1049,8 @@ Nevada,CP19,President,,REP,John R. Kasich,35
 Nevada,CP19,President,,LIB,Joy Waymire,2
 Nevada,CP19,President,,DEM,Michael Steinberg,1
 Nevada,CP19,President,,REP,Ted Cruz,19
+Nevada,CP19,Proposition 50,,,No,258
+Nevada,CP19,Proposition 50,,,Yes,707
 Nevada,CP19,State Assembly,1,REP,Brian Dahle,648
 Nevada,CP19,State Senate,1,DEM,Rob Rowen,352
 Nevada,CP19,State Senate,1,REP,Steven Baird,103
@@ -1070,6 +1108,8 @@ Nevada,CP20,President,,REP,John R. Kasich,9
 Nevada,CP20,President,,DEM,Michael Steinberg,1
 Nevada,CP20,President,,LIB,Rhett White Feather Smith,1
 Nevada,CP20,President,,REP,Ted Cruz,9
+Nevada,CP20,Proposition 50,,,No,71
+Nevada,CP20,Proposition 50,,,Yes,184
 Nevada,CP20,State Assembly,1,REP,Brian Dahle,183
 Nevada,CP20,State Senate,1,DEM,Rob Rowen,79
 Nevada,CP20,State Senate,1,REP,Steven Baird,30
@@ -1117,6 +1157,8 @@ Nevada,CP21,President,,LIB,Marc Feldman,1
 Nevada,CP21,President,,LIB,Rhett White Feather Smith,1
 Nevada,CP21,President,,AIP,Robert Ornelas,1
 Nevada,CP21,President,,REP,Ted Cruz,39
+Nevada,CP21,Proposition 50,,,No,328
+Nevada,CP21,Proposition 50,,,Yes,968
 Nevada,CP21,State Assembly,1,REP,Brian Dahle,853
 Nevada,CP21,State Senate,1,DEM,Rob Rowen,526
 Nevada,CP21,State Senate,1,REP,Steven Baird,144
@@ -1173,6 +1215,8 @@ Nevada,CP22,President,,DEM,Keith Judd,1
 Nevada,CP22,President,,AIP,Robert Ornelas,1
 Nevada,CP22,President,,REP,Ted Cruz,11
 Nevada,CP22,President,,AIP,Wiley Drake,1
+Nevada,CP22,Proposition 50,,,No,85
+Nevada,CP22,Proposition 50,,,Yes,419
 Nevada,CP22,State Assembly,1,REP,Brian Dahle,350
 Nevada,CP22,State Senate,1,DEM,Rob Rowen,179
 Nevada,CP22,State Senate,1,REP,Steven Baird,63
@@ -1224,6 +1268,8 @@ Nevada,CP23,President,,REP,John R. Kasich,35
 Nevada,CP23,President,,DEM,Keith Judd,1
 Nevada,CP23,President,,LIB,Rhett White Feather Smith,1
 Nevada,CP23,President,,REP,Ted Cruz,12
+Nevada,CP23,Proposition 50,,,No,66
+Nevada,CP23,Proposition 50,,,Yes,416
 Nevada,CP23,State Assembly,1,REP,Brian Dahle,307
 Nevada,CP23,State Senate,1,DEM,Rob Rowen,217
 Nevada,CP23,State Senate,1,REP,Steven Baird,53
@@ -1271,6 +1317,8 @@ Nevada,CP24,President,,DEM,Keith Judd,1
 Nevada,CP24,President,,DEM,Michael Steinberg,1
 Nevada,CP24,President,,REP,Ted Cruz,25
 Nevada,CP24,President,,DEM,Willie Wilson,1
+Nevada,CP24,Proposition 50,,,No,201
+Nevada,CP24,Proposition 50,,,Yes,740
 Nevada,CP24,State Assembly,1,REP,Brian Dahle,539
 Nevada,CP24,State Senate,1,DEM,Rob Rowen,477
 Nevada,CP24,State Senate,1,REP,Steven Baird,83
@@ -1335,6 +1383,8 @@ Nevada,CP25,President,,REP,Ted Cruz,23
 Nevada,CP25,President,,AIP,Thomas Hoefling,2
 Nevada,CP25,President,,AIP,Wiley Drake,1
 Nevada,CP25,President,,DEM,Willie Wilson,1
+Nevada,CP25,Proposition 50,,,No,232
+Nevada,CP25,Proposition 50,,,Yes,948
 Nevada,CP25,State Assembly,1,REP,Brian Dahle,640
 Nevada,CP25,State Senate,1,DEM,Rob Rowen,697
 Nevada,CP25,State Senate,1,REP,Steven Baird,95
@@ -1398,6 +1448,8 @@ Nevada,CP26,President,,AIP,Thomas Hoefling,1
 Nevada,CP26,President,,AIP,Wiley Drake,3
 Nevada,CP26,President,,GRN,William Kreml,1
 Nevada,CP26,President,,DEM,Willie Wilson,2
+Nevada,CP26,Proposition 50,,,No,156
+Nevada,CP26,Proposition 50,,,Yes,554
 Nevada,CP26,State Assembly,1,REP,Brian Dahle,379
 Nevada,CP26,State Senate,1,DEM,Rob Rowen,399
 Nevada,CP26,State Senate,1,REP,Steven Baird,59
@@ -1453,6 +1505,8 @@ Nevada,CP27,President,,DEM,Roque De La Fuente,1
 Nevada,CP27,President,,REP,Ted Cruz,2
 Nevada,CP27,President,,AIP,Thomas Hoefling,1
 Nevada,CP27,President,,AIP,Wiley Drake,1
+Nevada,CP27,Proposition 50,,,No,29
+Nevada,CP27,Proposition 50,,,Yes,106
 Nevada,CP27,State Assembly,1,REP,Brian Dahle,83
 Nevada,CP27,State Senate,1,DEM,Rob Rowen,76
 Nevada,CP27,State Senate,1,REP,Steven Baird,14
@@ -1494,6 +1548,8 @@ Nevada,CP28,President,,GRN,Jill Stein,2
 Nevada,CP28,President,,REP,Jim Gilmore,2
 Nevada,CP28,President,,REP,John R. Kasich,22
 Nevada,CP28,President,,REP,Ted Cruz,6
+Nevada,CP28,Proposition 50,,,No,148
+Nevada,CP28,Proposition 50,,,Yes,472
 Nevada,CP28,State Assembly,1,REP,Brian Dahle,376
 Nevada,CP28,State Senate,1,DEM,Rob Rowen,268
 Nevada,CP28,State Senate,1,REP,Steven Baird,56
@@ -1549,6 +1605,8 @@ Nevada,CP29,President,,DEM,Michael Steinberg,1
 Nevada,CP29,President,,AIP,Robert Ornelas,1
 Nevada,CP29,President,,REP,Ted Cruz,35
 Nevada,CP29,President,,DEM,Willie Wilson,2
+Nevada,CP29,Proposition 50,,,No,216
+Nevada,CP29,Proposition 50,,,Yes,890
 Nevada,CP29,State Assembly,1,REP,Brian Dahle,710
 Nevada,CP29,State Senate,1,DEM,Rob Rowen,475
 Nevada,CP29,State Senate,1,REP,Steven Baird,109
@@ -1609,6 +1667,8 @@ Nevada,CP30,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,CP30,President,,REP,Ted Cruz,21
 Nevada,CP30,President,,AIP,Thomas Hoefling,2
 Nevada,CP30,President,,AIP,Wiley Drake,2
+Nevada,CP30,Proposition 50,,,No,117
+Nevada,CP30,Proposition 50,,,Yes,458
 Nevada,CP30,State Assembly,1,REP,Brian Dahle,343
 Nevada,CP30,State Senate,1,DEM,Rob Rowen,256
 Nevada,CP30,State Senate,1,REP,Steven Baird,50
@@ -1669,6 +1729,8 @@ Nevada,CP31,President,,DEM,Michael Steinberg,2
 Nevada,CP31,President,,LIB,Rhett White Feather Smith,2
 Nevada,CP31,President,,DEM,Roque De La Fuente,1
 Nevada,CP31,President,,REP,Ted Cruz,21
+Nevada,CP31,Proposition 50,,,No,165
+Nevada,CP31,Proposition 50,,,Yes,767
 Nevada,CP31,State Assembly,1,REP,Brian Dahle,617
 Nevada,CP31,State Senate,1,DEM,Rob Rowen,363
 Nevada,CP31,State Senate,1,REP,Steven Baird,98
@@ -1727,6 +1789,8 @@ Nevada,CP32,President,,AIP,Robert Ornelas,1
 Nevada,CP32,President,,REP,Ted Cruz,15
 Nevada,CP32,President,,AIP,Thomas Hoefling,1
 Nevada,CP32,President,,AIP,Wiley Drake,1
+Nevada,CP32,Proposition 50,,,No,152
+Nevada,CP32,Proposition 50,,,Yes,860
 Nevada,CP32,State Assembly,1,REP,Brian Dahle,710
 Nevada,CP32,State Senate,1,DEM,Rob Rowen,361
 Nevada,CP32,State Senate,1,REP,Steven Baird,136
@@ -1779,6 +1843,8 @@ Nevada,CP33,President,,REP,John R. Kasich,27
 Nevada,CP33,President,,AIP,Robert Ornelas,1
 Nevada,CP33,President,,REP,Ted Cruz,19
 Nevada,CP33,President,,DEM,Willie Wilson,1
+Nevada,CP33,Proposition 50,,,No,66
+Nevada,CP33,Proposition 50,,,Yes,420
 Nevada,CP33,State Assembly,1,REP,Brian Dahle,335
 Nevada,CP33,State Senate,1,DEM,Rob Rowen,186
 Nevada,CP33,State Senate,1,REP,Steven Baird,66
@@ -1832,6 +1898,8 @@ Nevada,CP34,President,,DEM,Michael Steinberg,1
 Nevada,CP34,President,,LIB,Rhett White Feather Smith,1
 Nevada,CP34,President,,REP,Ted Cruz,18
 Nevada,CP34,President,,DEM,Willie Wilson,1
+Nevada,CP34,Proposition 50,,,No,101
+Nevada,CP34,Proposition 50,,,Yes,385
 Nevada,CP34,State Assembly,1,REP,Brian Dahle,279
 Nevada,CP34,State Senate,1,DEM,Rob Rowen,217
 Nevada,CP34,State Senate,1,REP,Steven Baird,57
@@ -1886,6 +1954,8 @@ Nevada,CP35,President,,PAF,Monica Moorehead,1
 Nevada,CP35,President,,AIP,Robert Ornelas,1
 Nevada,CP35,President,,REP,Ted Cruz,11
 Nevada,CP35,President,,AIP,Wiley Drake,2
+Nevada,CP35,Proposition 50,,,No,60
+Nevada,CP35,Proposition 50,,,Yes,211
 Nevada,CP35,State Assembly,1,REP,Brian Dahle,172
 Nevada,CP35,State Senate,1,DEM,Rob Rowen,103
 Nevada,CP35,State Senate,1,REP,Steven Baird,38
@@ -1939,6 +2009,8 @@ Nevada,CP36,President,,PAF,Lynn S. Kahn,1
 Nevada,CP36,President,,LIB,Rhett White Feather Smith,1
 Nevada,CP36,President,,REP,Ted Cruz,26
 Nevada,CP36,President,,AIP,Wiley Drake,1
+Nevada,CP36,Proposition 50,,,No,190
+Nevada,CP36,Proposition 50,,,Yes,714
 Nevada,CP36,State Assembly,1,REP,Brian Dahle,596
 Nevada,CP36,State Senate,1,DEM,Rob Rowen,356
 Nevada,CP36,State Senate,1,REP,Steven Baird,100
@@ -1997,6 +2069,8 @@ Nevada,CP37,President,,REP,Ted Cruz,29
 Nevada,CP37,President,,AIP,Thomas Hoefling,1
 Nevada,CP37,President,,AIP,Wiley Drake,2
 Nevada,CP37,President,,GRN,William Kreml,1
+Nevada,CP37,Proposition 50,,,No,191
+Nevada,CP37,Proposition 50,,,Yes,756
 Nevada,CP37,State Assembly,1,REP,Brian Dahle,625
 Nevada,CP37,State Senate,1,DEM,Rob Rowen,356
 Nevada,CP37,State Senate,1,REP,Steven Baird,112
@@ -2051,6 +2125,8 @@ Nevada,CP38,President,,REP,John R. Kasich,16
 Nevada,CP38,President,,DEM,Keith Judd,1
 Nevada,CP38,President,,REP,Ted Cruz,17
 Nevada,CP38,President,,AIP,Wiley Drake,2
+Nevada,CP38,Proposition 50,,,No,125
+Nevada,CP38,Proposition 50,,,Yes,427
 Nevada,CP38,State Assembly,1,REP,Brian Dahle,330
 Nevada,CP38,State Senate,1,DEM,Rob Rowen,239
 Nevada,CP38,State Senate,1,REP,Steven Baird,64
@@ -2101,6 +2177,8 @@ Nevada,CP39,President,,LIB,John McAfee,1
 Nevada,CP39,President,,REP,John R. Kasich,13
 Nevada,CP39,President,,DEM,Michael Steinberg,1
 Nevada,CP39,President,,REP,Ted Cruz,8
+Nevada,CP39,Proposition 50,,,No,74
+Nevada,CP39,Proposition 50,,,Yes,375
 Nevada,CP39,State Assembly,1,REP,Brian Dahle,285
 Nevada,CP39,State Senate,1,DEM,Rob Rowen,195
 Nevada,CP39,State Senate,1,REP,Steven Baird,38
@@ -2151,6 +2229,8 @@ Nevada,CP40,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,CP40,President,,REP,Ted Cruz,6
 Nevada,CP40,President,,AIP,Wiley Drake,1
 Nevada,CP40,President,,DEM,Willie Wilson,1
+Nevada,CP40,Proposition 50,,,No,121
+Nevada,CP40,Proposition 50,,,Yes,347
 Nevada,CP40,State Assembly,1,REP,Brian Dahle,231
 Nevada,CP40,State Senate,1,DEM,Rob Rowen,262
 Nevada,CP40,State Senate,1,REP,Steven Baird,43
@@ -2199,6 +2279,8 @@ Nevada,CP41,President,,REP,John R. Kasich,4
 Nevada,CP41,President,,GRN,Kent Mesplay,1
 Nevada,CP41,President,,GRN,Sedinam Moyowasifsa-Curry,2
 Nevada,CP41,President,,REP,Ted Cruz,9
+Nevada,CP41,Proposition 50,,,No,155
+Nevada,CP41,Proposition 50,,,Yes,370
 Nevada,CP41,State Assembly,1,REP,Brian Dahle,212
 Nevada,CP41,State Senate,1,DEM,Rob Rowen,389
 Nevada,CP41,State Senate,1,REP,Steven Baird,22
@@ -2253,6 +2335,8 @@ Nevada,CP42,President,,AIP,Robert Ornelas,1
 Nevada,CP42,President,,GRN,Sedinam Moyowasifsa-Curry,2
 Nevada,CP42,President,,REP,Ted Cruz,1
 Nevada,CP42,President,,DEM,Willie Wilson,1
+Nevada,CP42,Proposition 50,,,No,99
+Nevada,CP42,Proposition 50,,,Yes,341
 Nevada,CP42,State Assembly,1,REP,Brian Dahle,149
 Nevada,CP42,State Senate,1,DEM,Rob Rowen,361
 Nevada,CP42,State Senate,1,REP,Steven Baird,21
@@ -2307,6 +2391,8 @@ Nevada,CP43,President,,PAF,Lynn S. Kahn,1
 Nevada,CP43,President,,DEM,Michael Steinberg,1
 Nevada,CP43,President,,AIP,Robert Ornelas,1
 Nevada,CP43,President,,REP,Ted Cruz,15
+Nevada,CP43,Proposition 50,,,No,119
+Nevada,CP43,Proposition 50,,,Yes,434
 Nevada,CP43,State Assembly,1,REP,Brian Dahle,297
 Nevada,CP43,State Senate,1,DEM,Rob Rowen,284
 Nevada,CP43,State Senate,1,REP,Steven Baird,52
@@ -2354,6 +2440,8 @@ Nevada,CP44,President,,REP,John R. Kasich,12
 Nevada,CP44,President,,DEM,Keith Judd,1
 Nevada,CP44,President,,REP,Ted Cruz,5
 Nevada,CP44,President,,AIP,Wiley Drake,1
+Nevada,CP44,Proposition 50,,,No,68
+Nevada,CP44,Proposition 50,,,Yes,319
 Nevada,CP44,State Assembly,1,REP,Brian Dahle,208
 Nevada,CP44,State Senate,1,DEM,Rob Rowen,246
 Nevada,CP44,State Senate,1,REP,Steven Baird,18
@@ -2395,6 +2483,8 @@ Nevada,CP45,President,,REP,John R. Kasich,11
 Nevada,CP45,President,,DEM,Roque De La Fuente,1
 Nevada,CP45,President,,REP,Ted Cruz,4
 Nevada,CP45,President,,DEM,Willie Wilson,1
+Nevada,CP45,Proposition 50,,,No,89
+Nevada,CP45,Proposition 50,,,Yes,317
 Nevada,CP45,State Assembly,1,REP,Brian Dahle,235
 Nevada,CP45,State Senate,1,DEM,Rob Rowen,221
 Nevada,CP45,State Senate,1,REP,Steven Baird,18
@@ -2439,6 +2529,8 @@ Nevada,CP46,President,,REP,John R. Kasich,38
 Nevada,CP46,President,,DEM,Keith Judd,1
 Nevada,CP46,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,CP46,President,,REP,Ted Cruz,7
+Nevada,CP46,Proposition 50,,,No,143
+Nevada,CP46,Proposition 50,,,Yes,591
 Nevada,CP46,State Assembly,1,REP,Brian Dahle,431
 Nevada,CP46,State Senate,1,DEM,Rob Rowen,427
 Nevada,CP46,State Senate,1,REP,Steven Baird,37
@@ -2493,6 +2585,8 @@ Nevada,CP47,President,,DEM,Roque De La Fuente,1
 Nevada,CP47,President,,REP,Ted Cruz,12
 Nevada,CP47,President,,GRN,William Kreml,1
 Nevada,CP47,President,,DEM,Willie Wilson,1
+Nevada,CP47,Proposition 50,,,No,160
+Nevada,CP47,Proposition 50,,,Yes,628
 Nevada,CP47,State Assembly,1,REP,Brian Dahle,436
 Nevada,CP47,State Senate,1,DEM,Rob Rowen,483
 Nevada,CP47,State Senate,1,REP,Steven Baird,58
@@ -2544,6 +2638,8 @@ Nevada,CP48,President,,REP,John R. Kasich,19
 Nevada,CP48,President,,LIB,Marc Feldman,1
 Nevada,CP48,President,,REP,Ted Cruz,6
 Nevada,CP48,President,,DEM,Willie Wilson,2
+Nevada,CP48,Proposition 50,,,No,157
+Nevada,CP48,Proposition 50,,,Yes,666
 Nevada,CP48,State Assembly,1,REP,Brian Dahle,455
 Nevada,CP48,State Senate,1,DEM,Rob Rowen,482
 Nevada,CP48,State Senate,1,REP,Steven Baird,44
@@ -2597,6 +2693,8 @@ Nevada,CP49,President,,DEM,Michael Steinberg,1
 Nevada,CP49,President,,REP,Ted Cruz,5
 Nevada,CP49,President,,AIP,Thomas Hoefling,2
 Nevada,CP49,President,,DEM,Willie Wilson,1
+Nevada,CP49,Proposition 50,,,No,84
+Nevada,CP49,Proposition 50,,,Yes,367
 Nevada,CP49,State Assembly,1,REP,Brian Dahle,264
 Nevada,CP49,State Senate,1,DEM,Rob Rowen,257
 Nevada,CP49,State Senate,1,REP,Steven Baird,15
@@ -2631,6 +2729,8 @@ Nevada,CP49,U.S. Senate,,REP,Tom Palzer,6
 Nevada,CP49,U.S. Senate,,REP,Von Hougo,8
 Nevada,MB50,President,,DEM,Bernie Sanders,1
 Nevada,MB50,President,,REP,John R. Kasich,1
+Nevada,MB50,Proposition 50,,,No,2
+Nevada,MB50,Proposition 50,,,Yes,2
 Nevada,MB50,State Assembly,1,REP,Brian Dahle,4
 Nevada,MB50,State Senate,1,REP,Ted Gaines,5
 Nevada,MB50,U.S. House,1,REP,Doug La Malfa,3
@@ -2639,6 +2739,7 @@ Nevada,MB50,U.S. Senate,,REP,Duf Sundheim,2
 Nevada,MB50,U.S. Senate,,DEM,Kamala D. Harris,2
 Nevada,MB50,U.S. Senate,,REP,Von Hougo,1
 Nevada,MB52,President,,DEM,Bernie Sanders,1
+Nevada,MB52,Proposition 50,,,Yes,1
 Nevada,MB52,State Senate,1,DEM,Rob Rowen,1
 Nevada,MB52,U.S. House,1,DEM,Jim Reed,1
 Nevada,MB52,U.S. Senate,,DEM,Kamala D. Harris,1
@@ -2651,6 +2752,8 @@ Nevada,MB54,President,,AIP,J.R. Myers,1
 Nevada,MB54,President,,GRN,Jill Stein,2
 Nevada,MB54,President,,REP,John R. Kasich,1
 Nevada,MB54,President,,REP,Ted Cruz,3
+Nevada,MB54,Proposition 50,,,No,38
+Nevada,MB54,Proposition 50,,,Yes,113
 Nevada,MB54,State Assembly,1,REP,Brian Dahle,62
 Nevada,MB54,State Senate,1,DEM,Rob Rowen,88
 Nevada,MB54,State Senate,1,REP,Steven Baird,15
@@ -2691,6 +2794,8 @@ Nevada,MB56,President,,LIB,Gary Johnson,1
 Nevada,MB56,President,,DEM,Hillary Clinton,8
 Nevada,MB56,President,,REP,John R. Kasich,1
 Nevada,MB56,President,,REP,Ted Cruz,1
+Nevada,MB56,Proposition 50,,,No,9
+Nevada,MB56,Proposition 50,,,Yes,44
 Nevada,MB56,State Assembly,1,REP,Brian Dahle,33
 Nevada,MB56,State Senate,1,DEM,Rob Rowen,26
 Nevada,MB56,State Senate,1,REP,Steven Baird,5
@@ -2729,6 +2834,8 @@ Nevada,MB57,President,,DEM,Michael Steinberg,1
 Nevada,MB57,President,,LIB,Rhett White Feather Smith,1
 Nevada,MB57,President,,REP,Ted Cruz,8
 Nevada,MB57,President,,DEM,Willie Wilson,1
+Nevada,MB57,Proposition 50,,,No,114
+Nevada,MB57,Proposition 50,,,Yes,278
 Nevada,MB57,State Assembly,1,REP,Brian Dahle,235
 Nevada,MB57,State Senate,1,DEM,Rob Rowen,177
 Nevada,MB57,State Senate,1,REP,Steven Baird,40
@@ -2776,6 +2883,8 @@ Nevada,MB58,President,,LIB,John Hale,1
 Nevada,MB58,President,,LIB,John McAfee,1
 Nevada,MB58,President,,REP,John R. Kasich,2
 Nevada,MB58,President,,REP,Ted Cruz,4
+Nevada,MB58,Proposition 50,,,No,54
+Nevada,MB58,Proposition 50,,,Yes,199
 Nevada,MB58,State Assembly,1,REP,Brian Dahle,120
 Nevada,MB58,State Senate,1,DEM,Rob Rowen,178
 Nevada,MB58,State Senate,1,REP,Steven Baird,13
@@ -2821,6 +2930,8 @@ Nevada,MB59,President,,REP,Jim Gilmore,1
 Nevada,MB59,President,,LIB,John McAfee,1
 Nevada,MB59,President,,REP,John R. Kasich,10
 Nevada,MB59,President,,REP,Ted Cruz,11
+Nevada,MB59,Proposition 50,,,No,110
+Nevada,MB59,Proposition 50,,,Yes,334
 Nevada,MB59,State Assembly,1,REP,Brian Dahle,258
 Nevada,MB59,State Senate,1,DEM,Rob Rowen,215
 Nevada,MB59,State Senate,1,REP,Steven Baird,41
@@ -2871,6 +2982,8 @@ Nevada,MB60,President,,REP,John R. Kasich,18
 Nevada,MB60,President,,LIB,Steve Kerbel,1
 Nevada,MB60,President,,REP,Ted Cruz,9
 Nevada,MB60,President,,AIP,Thomas Hoefling,1
+Nevada,MB60,Proposition 50,,,No,143
+Nevada,MB60,Proposition 50,,,Yes,326
 Nevada,MB60,State Assembly,1,REP,Brian Dahle,299
 Nevada,MB60,State Senate,1,DEM,Rob Rowen,166
 Nevada,MB60,State Senate,1,REP,Steven Baird,51
@@ -2917,6 +3030,8 @@ Nevada,MB61,President,,DEM,Hillary Clinton,10
 Nevada,MB61,President,,REP,John R. Kasich,3
 Nevada,MB61,President,,REP,Ted Cruz,3
 Nevada,MB61,President,,AIP,Wiley Drake,1
+Nevada,MB61,Proposition 50,,,No,11
+Nevada,MB61,Proposition 50,,,Yes,84
 Nevada,MB61,State Assembly,1,REP,Brian Dahle,64
 Nevada,MB61,State Senate,1,DEM,Rob Rowen,41
 Nevada,MB61,State Senate,1,REP,Steven Baird,10
@@ -2959,6 +3074,8 @@ Nevada,MB62,President,,LIB,John McAfee,1
 Nevada,MB62,President,,REP,John R. Kasich,14
 Nevada,MB62,President,,REP,Ted Cruz,6
 Nevada,MB62,President,,DEM,Willie Wilson,1
+Nevada,MB62,Proposition 50,,,No,41
+Nevada,MB62,Proposition 50,,,Yes,204
 Nevada,MB62,State Assembly,1,REP,Brian Dahle,168
 Nevada,MB62,State Senate,1,DEM,Rob Rowen,89
 Nevada,MB62,State Senate,1,REP,Steven Baird,28
@@ -3007,6 +3124,8 @@ Nevada,MB63,President,,REP,John R. Kasich,18
 Nevada,MB63,President,,DEM,Roque De La Fuente,1
 Nevada,MB63,President,,LIB,Steve Kerbel,1
 Nevada,MB63,President,,REP,Ted Cruz,6
+Nevada,MB63,Proposition 50,,,No,69
+Nevada,MB63,Proposition 50,,,Yes,293
 Nevada,MB63,State Assembly,1,REP,Brian Dahle,247
 Nevada,MB63,State Senate,1,DEM,Rob Rowen,151
 Nevada,MB63,State Senate,1,REP,Steven Baird,31
@@ -3054,6 +3173,8 @@ Nevada,MB64,President,,DEM,Hillary Clinton,20
 Nevada,MB64,President,,REP,John R. Kasich,7
 Nevada,MB64,President,,REP,Ted Cruz,2
 Nevada,MB64,President,,AIP,Wiley Drake,2
+Nevada,MB64,Proposition 50,,,No,16
+Nevada,MB64,Proposition 50,,,Yes,112
 Nevada,MB64,State Assembly,1,REP,Brian Dahle,83
 Nevada,MB64,State Senate,1,DEM,Rob Rowen,55
 Nevada,MB64,State Senate,1,REP,Steven Baird,12
@@ -3096,6 +3217,8 @@ Nevada,MB65,President,,DEM,Hillary Clinton,23
 Nevada,MB65,President,,REP,Jim Gilmore,1
 Nevada,MB65,President,,REP,John R. Kasich,1
 Nevada,MB65,President,,REP,Ted Cruz,1
+Nevada,MB65,Proposition 50,,,No,14
+Nevada,MB65,Proposition 50,,,Yes,71
 Nevada,MB65,State Assembly,1,REP,Brian Dahle,54
 Nevada,MB65,State Senate,1,DEM,Rob Rowen,47
 Nevada,MB65,State Senate,1,REP,Steven Baird,4
@@ -3133,6 +3256,8 @@ Nevada,MB66,President,,AIP,Robert Ornelas,1
 Nevada,MB66,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Nevada,MB66,President,,REP,Ted Cruz,5
 Nevada,MB66,President,,AIP,Wiley Drake,1
+Nevada,MB66,Proposition 50,,,No,34
+Nevada,MB66,Proposition 50,,,Yes,159
 Nevada,MB66,State Assembly,1,REP,Brian Dahle,117
 Nevada,MB66,State Senate,1,DEM,Rob Rowen,89
 Nevada,MB66,State Senate,1,REP,Steven Baird,29
@@ -3171,6 +3296,8 @@ Nevada,MB67,President,,REP,Donald Trump,5
 Nevada,MB67,President,,LIB,Gary Johnson,1
 Nevada,MB67,President,,DEM,Hillary Clinton,6
 Nevada,MB67,President,,GRN,Sedinam Moyowasifsa-Curry,1
+Nevada,MB67,Proposition 50,,,No,18
+Nevada,MB67,Proposition 50,,,Yes,30
 Nevada,MB67,State Assembly,1,REP,Brian Dahle,21
 Nevada,MB67,State Senate,1,DEM,Rob Rowen,34
 Nevada,MB67,State Senate,1,REP,Steven Baird,6
@@ -3202,6 +3329,8 @@ Nevada,MB68,President,,REP,Donald Trump,17
 Nevada,MB68,President,,DEM,Hillary Clinton,12
 Nevada,MB68,President,,REP,John R. Kasich,2
 Nevada,MB68,President,,REP,Ted Cruz,1
+Nevada,MB68,Proposition 50,,,No,8
+Nevada,MB68,Proposition 50,,,Yes,41
 Nevada,MB68,State Assembly,1,REP,Brian Dahle,30
 Nevada,MB68,State Senate,1,DEM,Rob Rowen,16
 Nevada,MB68,State Senate,1,REP,Steven Baird,3
@@ -3228,6 +3357,8 @@ Nevada,MB68,U.S. Senate,,REP,Von Hougo,3
 Nevada,MB69,President,,DEM,Bernie Sanders,16
 Nevada,MB69,President,,REP,Donald Trump,37
 Nevada,MB69,President,,DEM,Hillary Clinton,17
+Nevada,MB69,Proposition 50,,,No,14
+Nevada,MB69,Proposition 50,,,Yes,69
 Nevada,MB69,State Assembly,1,REP,Brian Dahle,57
 Nevada,MB69,State Senate,1,DEM,Rob Rowen,30
 Nevada,MB69,State Senate,1,REP,Steven Baird,9
@@ -3261,6 +3392,8 @@ Nevada,MB70,President,,DEM,Hillary Clinton,16
 Nevada,MB70,President,,AIP,J.R. Myers,1
 Nevada,MB70,President,,DEM,Michael Steinberg,1
 Nevada,MB70,President,,REP,Ted Cruz,3
+Nevada,MB70,Proposition 50,,,No,21
+Nevada,MB70,Proposition 50,,,Yes,66
 Nevada,MB70,State Assembly,1,REP,Brian Dahle,42
 Nevada,MB70,State Senate,1,DEM,Rob Rowen,44
 Nevada,MB70,State Senate,1,REP,Steven Baird,12
@@ -3298,6 +3431,8 @@ Nevada,MB71,President,,REP,Jim Gilmore,1
 Nevada,MB71,President,,REP,John R. Kasich,10
 Nevada,MB71,President,,REP,Ted Cruz,6
 Nevada,MB71,President,,AIP,Wiley Drake,1
+Nevada,MB71,Proposition 50,,,No,111
+Nevada,MB71,Proposition 50,,,Yes,361
 Nevada,MB71,State Assembly,1,REP,Brian Dahle,266
 Nevada,MB71,State Senate,1,DEM,Rob Rowen,232
 Nevada,MB71,State Senate,1,REP,Steven Baird,46
@@ -3347,6 +3482,8 @@ Nevada,MB72,President,,DEM,Hillary Clinton,13
 Nevada,MB72,President,,GRN,Jill Stein,2
 Nevada,MB72,President,,REP,John R. Kasich,2
 Nevada,MB72,President,,AIP,Wiley Drake,1
+Nevada,MB72,Proposition 50,,,No,18
+Nevada,MB72,Proposition 50,,,Yes,66
 Nevada,MB72,State Assembly,1,REP,Brian Dahle,41
 Nevada,MB72,State Senate,1,DEM,Rob Rowen,60
 Nevada,MB72,State Senate,1,REP,Steven Baird,3
@@ -3375,6 +3512,8 @@ Nevada,MB73,President,,DEM,Bernie Sanders,29
 Nevada,MB73,President,,REP,Donald Trump,27
 Nevada,MB73,President,,DEM,Hillary Clinton,14
 Nevada,MB73,President,,REP,John R. Kasich,2
+Nevada,MB73,Proposition 50,,,No,11
+Nevada,MB73,Proposition 50,,,Yes,68
 Nevada,MB73,State Assembly,1,REP,Brian Dahle,50
 Nevada,MB73,State Senate,1,DEM,Rob Rowen,35
 Nevada,MB73,State Senate,1,REP,Steven Baird,6
@@ -3411,6 +3550,8 @@ Nevada,MB74,President,,REP,John R. Kasich,7
 Nevada,MB74,President,,LIB,Rhett White Feather Smith,1
 Nevada,MB74,President,,REP,Ted Cruz,6
 Nevada,MB74,President,,DEM,Willie Wilson,1
+Nevada,MB74,Proposition 50,,,No,65
+Nevada,MB74,Proposition 50,,,Yes,149
 Nevada,MB74,State Assembly,1,REP,Brian Dahle,148
 Nevada,MB74,State Senate,1,DEM,Rob Rowen,76
 Nevada,MB74,State Senate,1,REP,Steven Baird,24
@@ -3449,6 +3590,8 @@ Nevada,MB75,President,,DEM,Hillary Clinton,23
 Nevada,MB75,President,,REP,John R. Kasich,1
 Nevada,MB75,President,,DEM,Keith Judd,1
 Nevada,MB75,President,,DEM,Willie Wilson,1
+Nevada,MB75,Proposition 50,,,No,35
+Nevada,MB75,Proposition 50,,,Yes,116
 Nevada,MB75,State Assembly,1,REP,Brian Dahle,86
 Nevada,MB75,State Senate,1,DEM,Rob Rowen,82
 Nevada,MB75,State Senate,1,REP,Steven Baird,11
@@ -3488,6 +3631,8 @@ Nevada,MB77,President,,DEM,Bernie Sanders,26
 Nevada,MB77,President,,REP,Donald Trump,6
 Nevada,MB77,President,,DEM,Hillary Clinton,11
 Nevada,MB77,President,,REP,John R. Kasich,2
+Nevada,MB77,Proposition 50,,,No,5
+Nevada,MB77,Proposition 50,,,Yes,52
 Nevada,MB77,State Assembly,1,REP,Brian Dahle,28
 Nevada,MB77,State Senate,1,DEM,Rob Rowen,28
 Nevada,MB77,State Senate,1,REP,Steven Baird,2
@@ -3520,6 +3665,8 @@ Nevada,MB78,President,,REP,John R. Kasich,14
 Nevada,MB78,President,,PAF,Lynn S. Kahn,1
 Nevada,MB78,President,,LIB,Rhett White Feather Smith,2
 Nevada,MB78,President,,REP,Ted Cruz,14
+Nevada,MB78,Proposition 50,,,No,71
+Nevada,MB78,Proposition 50,,,Yes,285
 Nevada,MB78,State Assembly,1,REP,Brian Dahle,236
 Nevada,MB78,State Senate,1,DEM,Rob Rowen,142
 Nevada,MB78,State Senate,1,REP,Steven Baird,32
@@ -3563,6 +3710,8 @@ Nevada,MB79,President,,REP,John R. Kasich,5
 Nevada,MB79,President,,DEM,Michael Steinberg,1
 Nevada,MB79,President,,PAF,Monica Moorehead,1
 Nevada,MB79,President,,AIP,Robert Ornelas,2
+Nevada,MB79,Proposition 50,,,No,37
+Nevada,MB79,Proposition 50,,,Yes,146
 Nevada,MB79,State Assembly,1,REP,Brian Dahle,95
 Nevada,MB79,State Senate,1,DEM,Rob Rowen,94
 Nevada,MB79,State Senate,1,REP,Steven Baird,8
@@ -3606,6 +3755,8 @@ Nevada,MB80,President,,LIB,Gary Johnson,2
 Nevada,MB80,President,,DEM,Hillary Clinton,15
 Nevada,MB80,President,,REP,John R. Kasich,7
 Nevada,MB80,President,,REP,Ted Cruz,3
+Nevada,MB80,Proposition 50,,,No,8
+Nevada,MB80,Proposition 50,,,Yes,66
 Nevada,MB80,State Assembly,1,REP,Brian Dahle,48
 Nevada,MB80,State Senate,1,DEM,Rob Rowen,38
 Nevada,MB80,State Senate,1,REP,Steven Baird,10

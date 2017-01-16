@@ -60,8 +60,6 @@ def test_general():
                 contest_columns)[contest_columns].values
 
             for office, district in contests:
-                if office.startswith('Proposition'):
-                    continue
                 candidates = county_data.loc[
                     county_data.office == office].candidate.unique()
 
@@ -69,11 +67,11 @@ def test_general():
                 # as the county-level vote totals.
                 county_votes = {
                     candidate: county_data.loc[
-                        county_data.candidate == candidate].votes.sum()
+                        (county_data.office == office) & (county_data.candidate == candidate)].votes.sum()
                     for candidate in candidates if candidate != 'Write-In'}
                 votes = {
                     candidate: state_data.loc[
-                        (state_data.candidate == candidate) & (state_data.county == county)].votes.sum()
+                        (state_data.office == office) & (state_data.candidate == candidate) & (state_data.county == county)].votes.sum()
                     for candidate in candidates if candidate != 'Write-In'
                 }
 

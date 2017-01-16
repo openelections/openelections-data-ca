@@ -16,7 +16,7 @@ county_dict = {county: '%03d' % code for (
 
 
 def drop_column(x):
-    return x.endswith('REG') or x.endswith('VOTE') or x.startswith('PR_')
+    return x.endswith('REG') or x.endswith('VOTE')
 
 
 def drop_row(x):

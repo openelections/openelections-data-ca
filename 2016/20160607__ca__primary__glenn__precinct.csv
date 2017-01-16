@@ -14,6 +14,8 @@ Glenn,1,President,,DEM,Keith Judd,1
 Glenn,1,President,,AIP,Robert Ornelas,1
 Glenn,1,President,,REP,Ted Cruz,23
 Glenn,1,President,,DEM,Willie Wilson,2
+Glenn,1,Proposition 50,,,No,88
+Glenn,1,Proposition 50,,,Yes,389
 Glenn,1,State Assembly,3,DEM,Edward Ritchie,114
 Glenn,1,State Assembly,3,REP,James Gallagher,371
 Glenn,1,U.S. House,3,DEM,John Garamendi,130
@@ -60,6 +62,8 @@ Glenn,10,President,,REP,John R. Kasich,5
 Glenn,10,President,,AIP,Robert Ornelas,1
 Glenn,10,President,,REP,Ted Cruz,9
 Glenn,10,President,,DEM,Willie Wilson,1
+Glenn,10,Proposition 50,,,No,55
+Glenn,10,Proposition 50,,,Yes,232
 Glenn,10,State Assembly,3,DEM,Edward Ritchie,174
 Glenn,10,State Assembly,3,REP,James Gallagher,111
 Glenn,10,U.S. House,3,DEM,John Garamendi,178
@@ -101,6 +105,8 @@ Glenn,10031,President,,REP,Donald Trump,9
 Glenn,10031,President,,DEM,Hillary Clinton,11
 Glenn,10031,President,,AIP,Robert Ornelas,1
 Glenn,10031,President,,REP,Ted Cruz,2
+Glenn,10031,Proposition 50,,,No,5
+Glenn,10031,Proposition 50,,,Yes,32
 Glenn,10031,State Assembly,3,DEM,Edward Ritchie,21
 Glenn,10031,State Assembly,3,REP,James Gallagher,18
 Glenn,10031,U.S. House,3,DEM,John Garamendi,22
@@ -123,6 +129,8 @@ Glenn,10050,President,,DEM,Bernie Sanders,6
 Glenn,10050,President,,REP,Donald Trump,11
 Glenn,10050,President,,DEM,Hillary Clinton,11
 Glenn,10050,President,,REP,John R. Kasich,1
+Glenn,10050,Proposition 50,,,No,6
+Glenn,10050,Proposition 50,,,Yes,21
 Glenn,10050,State Assembly,3,DEM,Edward Ritchie,10
 Glenn,10050,State Assembly,3,REP,James Gallagher,18
 Glenn,10050,U.S. House,3,DEM,John Garamendi,14
@@ -145,6 +153,8 @@ Glenn,10060,President,,REP,Donald Trump,25
 Glenn,10060,President,,DEM,Hillary Clinton,9
 Glenn,10060,President,,REP,Jim Gilmore,1
 Glenn,10060,President,,REP,John R. Kasich,2
+Glenn,10060,Proposition 50,,,No,12
+Glenn,10060,Proposition 50,,,Yes,44
 Glenn,10060,State Assembly,3,DEM,Edward Ritchie,18
 Glenn,10060,State Assembly,3,REP,James Gallagher,35
 Glenn,10060,U.S. House,3,DEM,John Garamendi,21
@@ -174,6 +184,8 @@ Glenn,12150,President,,DEM,Hillary Clinton,30
 Glenn,12150,President,,AIP,James Hedges,1
 Glenn,12150,President,,REP,John R. Kasich,1
 Glenn,12150,President,,DEM,Michael Steinberg,2
+Glenn,12150,Proposition 50,,,No,30
+Glenn,12150,Proposition 50,,,Yes,84
 Glenn,12150,State Assembly,3,DEM,Edward Ritchie,57
 Glenn,12150,State Assembly,3,REP,James Gallagher,55
 Glenn,12150,U.S. House,3,DEM,John Garamendi,69
@@ -215,6 +227,8 @@ Glenn,2,President,,REP,John R. Kasich,15
 Glenn,2,President,,LIB,Rhett White Feather Smith,1
 Glenn,2,President,,REP,Ted Cruz,24
 Glenn,2,President,,DEM,Willie Wilson,3
+Glenn,2,Proposition 50,,,No,87
+Glenn,2,Proposition 50,,,Yes,358
 Glenn,2,State Assembly,3,DEM,Edward Ritchie,104
 Glenn,2,State Assembly,3,REP,James Gallagher,349
 Glenn,2,U.S. House,3,DEM,John Garamendi,105
@@ -262,6 +276,8 @@ Glenn,3,President,,REP,Jim Gilmore,1
 Glenn,3,President,,REP,John R. Kasich,8
 Glenn,3,President,,AIP,Robert Ornelas,1
 Glenn,3,President,,REP,Ted Cruz,21
+Glenn,3,Proposition 50,,,No,71
+Glenn,3,Proposition 50,,,Yes,274
 Glenn,3,State Assembly,3,DEM,Edward Ritchie,110
 Glenn,3,State Assembly,3,REP,James Gallagher,231
 Glenn,3,U.S. House,3,DEM,John Garamendi,109
@@ -306,6 +322,8 @@ Glenn,30011,President,,LIB,Gary Johnson,1
 Glenn,30011,President,,DEM,Hillary Clinton,7
 Glenn,30011,President,,DEM,Michael Steinberg,1
 Glenn,30011,President,,REP,Ted Cruz,2
+Glenn,30011,Proposition 50,,,No,22
+Glenn,30011,Proposition 50,,,Yes,73
 Glenn,30011,State Assembly,3,DEM,Edward Ritchie,19
 Glenn,30011,State Assembly,3,REP,James Gallagher,77
 Glenn,30011,U.S. House,3,DEM,John Garamendi,28
@@ -334,6 +352,8 @@ Glenn,30014,President,,DEM,Bernie Sanders,6
 Glenn,30014,President,,REP,Donald Trump,25
 Glenn,30014,President,,DEM,Hillary Clinton,8
 Glenn,30014,President,,REP,John R. Kasich,1
+Glenn,30014,Proposition 50,,,No,10
+Glenn,30014,Proposition 50,,,Yes,41
 Glenn,30014,State Assembly,3,DEM,Edward Ritchie,13
 Glenn,30014,State Assembly,3,REP,James Gallagher,39
 Glenn,30014,U.S. House,3,DEM,John Garamendi,18
@@ -365,6 +385,8 @@ Glenn,30020,President,,DEM,Hillary Clinton,14
 Glenn,30020,President,,REP,John R. Kasich,4
 Glenn,30020,President,,REP,Ted Cruz,11
 Glenn,30020,President,,DEM,Willie Wilson,2
+Glenn,30020,Proposition 50,,,No,37
+Glenn,30020,Proposition 50,,,Yes,121
 Glenn,30020,State Assembly,3,DEM,Edward Ritchie,30
 Glenn,30020,State Assembly,3,REP,James Gallagher,134
 Glenn,30020,U.S. House,3,DEM,John Garamendi,36
@@ -399,6 +421,8 @@ Glenn,30042,President,,REP,John R. Kasich,8
 Glenn,30042,President,,DEM,Keith Judd,1
 Glenn,30042,President,,DEM,Michael Steinberg,1
 Glenn,30042,President,,REP,Ted Cruz,8
+Glenn,30042,Proposition 50,,,No,37
+Glenn,30042,Proposition 50,,,Yes,138
 Glenn,30042,State Assembly,3,DEM,Edward Ritchie,44
 Glenn,30042,State Assembly,3,REP,James Gallagher,136
 Glenn,30042,U.S. House,3,DEM,John Garamendi,53
@@ -435,6 +459,8 @@ Glenn,30070,President,,DEM,Hillary Clinton,13
 Glenn,30070,President,,REP,John R. Kasich,8
 Glenn,30070,President,,DEM,Roque De La Fuente,1
 Glenn,30070,President,,REP,Ted Cruz,9
+Glenn,30070,Proposition 50,,,No,23
+Glenn,30070,Proposition 50,,,Yes,95
 Glenn,30070,State Assembly,3,DEM,Edward Ritchie,21
 Glenn,30070,State Assembly,3,REP,James Gallagher,103
 Glenn,30070,U.S. House,3,DEM,John Garamendi,33
@@ -465,6 +491,8 @@ Glenn,30072,President,,REP,Donald Trump,30
 Glenn,30072,President,,DEM,Hillary Clinton,5
 Glenn,30072,President,,REP,John R. Kasich,3
 Glenn,30072,President,,REP,Ted Cruz,4
+Glenn,30072,Proposition 50,,,No,8
+Glenn,30072,Proposition 50,,,Yes,38
 Glenn,30072,State Assembly,3,DEM,Edward Ritchie,11
 Glenn,30072,State Assembly,3,REP,James Gallagher,40
 Glenn,30072,U.S. House,1,DEM,David Peterson,1
@@ -495,6 +523,8 @@ Glenn,30081,President,,DEM,Hillary Clinton,11
 Glenn,30081,President,,REP,John R. Kasich,1
 Glenn,30081,President,,DEM,Keith Judd,1
 Glenn,30081,President,,REP,Ted Cruz,7
+Glenn,30081,Proposition 50,,,No,19
+Glenn,30081,Proposition 50,,,Yes,85
 Glenn,30081,State Assembly,3,DEM,Edward Ritchie,22
 Glenn,30081,State Assembly,3,REP,James Gallagher,87
 Glenn,30081,U.S. House,3,DEM,John Garamendi,21
@@ -523,6 +553,8 @@ Glenn,30082,President,,DEM,Bernie Sanders,4
 Glenn,30082,President,,REP,Donald Trump,25
 Glenn,30082,President,,DEM,Hillary Clinton,3
 Glenn,30082,President,,REP,John R. Kasich,3
+Glenn,30082,Proposition 50,,,No,10
+Glenn,30082,Proposition 50,,,Yes,31
 Glenn,30082,State Assembly,3,DEM,Edward Ritchie,5
 Glenn,30082,State Assembly,3,REP,James Gallagher,38
 Glenn,30082,U.S. House,1,DEM,David Peterson,1
@@ -549,6 +581,8 @@ Glenn,30120,President,,DEM,Keith Judd,1
 Glenn,30120,President,,DEM,Michael Steinberg,2
 Glenn,30120,President,,REP,Ted Cruz,8
 Glenn,30120,President,,DEM,Willie Wilson,1
+Glenn,30120,Proposition 50,,,No,39
+Glenn,30120,Proposition 50,,,Yes,111
 Glenn,30120,State Assembly,3,DEM,Edward Ritchie,19
 Glenn,30120,State Assembly,3,REP,James Gallagher,135
 Glenn,30120,U.S. House,1,DEM,David Peterson,2
@@ -580,6 +614,8 @@ Glenn,31070,President,,DEM,Hillary Clinton,21
 Glenn,31070,President,,REP,John R. Kasich,1
 Glenn,31070,President,,AIP,Robert Ornelas,1
 Glenn,31070,President,,REP,Ted Cruz,2
+Glenn,31070,Proposition 50,,,No,15
+Glenn,31070,Proposition 50,,,Yes,77
 Glenn,31070,State Assembly,3,DEM,Edward Ritchie,37
 Glenn,31070,State Assembly,3,REP,James Gallagher,57
 Glenn,31070,U.S. House,3,DEM,John Garamendi,53
@@ -618,6 +654,8 @@ Glenn,4,President,,REP,John R. Kasich,14
 Glenn,4,President,,DEM,Michael Steinberg,1
 Glenn,4,President,,REP,Ted Cruz,15
 Glenn,4,President,,DEM,Willie Wilson,1
+Glenn,4,Proposition 50,,,No,77
+Glenn,4,Proposition 50,,,Yes,258
 Glenn,4,State Assembly,3,DEM,Edward Ritchie,121
 Glenn,4,State Assembly,3,REP,James Gallagher,209
 Glenn,4,U.S. House,3,DEM,John Garamendi,122
@@ -662,6 +700,8 @@ Glenn,5,President,,REP,Jim Gilmore,1
 Glenn,5,President,,REP,John R. Kasich,11
 Glenn,5,President,,REP,Ted Cruz,13
 Glenn,5,President,,AIP,Thomas Hoefling,1
+Glenn,5,Proposition 50,,,No,73
+Glenn,5,Proposition 50,,,Yes,266
 Glenn,5,State Assembly,3,DEM,Edward Ritchie,122
 Glenn,5,State Assembly,3,REP,James Gallagher,220
 Glenn,5,U.S. House,3,DEM,John Garamendi,136
@@ -704,6 +744,8 @@ Glenn,50010,President,,DEM,Bernie Sanders,15
 Glenn,50010,President,,REP,Donald Trump,16
 Glenn,50010,President,,LIB,Gary Johnson,1
 Glenn,50010,President,,DEM,Hillary Clinton,8
+Glenn,50010,Proposition 50,,,No,8
+Glenn,50010,Proposition 50,,,Yes,37
 Glenn,50010,State Assembly,3,DEM,Edward Ritchie,18
 Glenn,50010,State Assembly,3,REP,James Gallagher,25
 Glenn,50010,U.S. House,1,DEM,David Peterson,2
@@ -727,6 +769,8 @@ Glenn,50022,President,,DEM,Hillary Clinton,12
 Glenn,50022,President,,GRN,Jill Stein,1
 Glenn,50022,President,,REP,John R. Kasich,5
 Glenn,50022,President,,REP,Ted Cruz,6
+Glenn,50022,Proposition 50,,,No,19
+Glenn,50022,Proposition 50,,,Yes,80
 Glenn,50022,State Assembly,3,DEM,Edward Ritchie,15
 Glenn,50022,State Assembly,3,REP,James Gallagher,93
 Glenn,50022,U.S. House,1,DEM,David Peterson,1
@@ -761,6 +805,8 @@ Glenn,50030,President,,REP,Jim Gilmore,1
 Glenn,50030,President,,REP,John R. Kasich,2
 Glenn,50030,President,,AIP,Robert Ornelas,1
 Glenn,50030,President,,REP,Ted Cruz,2
+Glenn,50030,Proposition 50,,,No,34
+Glenn,50030,Proposition 50,,,Yes,66
 Glenn,50030,State Assembly,3,DEM,Edward Ritchie,18
 Glenn,50030,State Assembly,3,REP,James Gallagher,83
 Glenn,50030,U.S. House,1,DEM,David Peterson,2
@@ -791,6 +837,8 @@ Glenn,50052,President,,REP,Jim Gilmore,1
 Glenn,50052,President,,REP,John R. Kasich,1
 Glenn,50052,President,,REP,Ted Cruz,4
 Glenn,50052,President,,AIP,Wiley Drake,1
+Glenn,50052,Proposition 50,,,No,30
+Glenn,50052,Proposition 50,,,Yes,63
 Glenn,50052,State Assembly,3,DEM,Edward Ritchie,14
 Glenn,50052,State Assembly,3,REP,James Gallagher,80
 Glenn,50052,U.S. House,1,DEM,David Peterson,1
@@ -823,6 +871,8 @@ Glenn,50061,President,,DEM,Hillary Clinton,13
 Glenn,50061,President,,REP,Jim Gilmore,1
 Glenn,50061,President,,REP,John R. Kasich,4
 Glenn,50061,President,,REP,Ted Cruz,6
+Glenn,50061,Proposition 50,,,No,37
+Glenn,50061,Proposition 50,,,Yes,126
 Glenn,50061,State Assembly,3,DEM,Edward Ritchie,27
 Glenn,50061,State Assembly,3,REP,James Gallagher,141
 Glenn,50061,U.S. House,3,DEM,John Garamendi,37
@@ -854,6 +904,8 @@ Glenn,50081,President,,DEM,Bernie Sanders,1
 Glenn,50081,President,,REP,Donald Trump,6
 Glenn,50081,President,,DEM,Hillary Clinton,2
 Glenn,50081,President,,REP,Ted Cruz,1
+Glenn,50081,Proposition 50,,,No,5
+Glenn,50081,Proposition 50,,,Yes,7
 Glenn,50081,State Assembly,3,DEM,Edward Ritchie,2
 Glenn,50081,State Assembly,3,REP,James Gallagher,10
 Glenn,50081,U.S. House,3,DEM,John Garamendi,2
@@ -872,6 +924,8 @@ Glenn,50082,President,,REP,Donald Trump,77
 Glenn,50082,President,,DEM,Hillary Clinton,5
 Glenn,50082,President,,REP,John R. Kasich,8
 Glenn,50082,President,,REP,Ted Cruz,3
+Glenn,50082,Proposition 50,,,No,15
+Glenn,50082,Proposition 50,,,Yes,90
 Glenn,50082,State Assembly,3,DEM,Edward Ritchie,8
 Glenn,50082,State Assembly,3,REP,James Gallagher,105
 Glenn,50082,U.S. House,3,DEM,John Garamendi,15
@@ -900,6 +954,8 @@ Glenn,50083,President,,REP,Donald Trump,42
 Glenn,50083,President,,LIB,Gary Johnson,1
 Glenn,50083,President,,DEM,Hillary Clinton,8
 Glenn,50083,President,,REP,John R. Kasich,3
+Glenn,50083,Proposition 50,,,No,9
+Glenn,50083,Proposition 50,,,Yes,63
 Glenn,50083,State Assembly,3,DEM,Edward Ritchie,17
 Glenn,50083,State Assembly,3,REP,James Gallagher,59
 Glenn,50083,U.S. House,1,DEM,David Peterson,1
@@ -929,6 +985,8 @@ Glenn,50084,President,,DEM,Hillary Clinton,18
 Glenn,50084,President,,REP,John R. Kasich,4
 Glenn,50084,President,,REP,Ted Cruz,4
 Glenn,50084,President,,DEM,Willie Wilson,1
+Glenn,50084,Proposition 50,,,No,16
+Glenn,50084,Proposition 50,,,Yes,66
 Glenn,50084,State Assembly,3,DEM,Edward Ritchie,32
 Glenn,50084,State Assembly,3,REP,James Gallagher,52
 Glenn,50084,U.S. House,3,DEM,John Garamendi,28
@@ -954,6 +1012,8 @@ Glenn,50085,President,,DEM,Bernie Sanders,1
 Glenn,50085,President,,REP,Donald Trump,12
 Glenn,50085,President,,DEM,Hillary Clinton,4
 Glenn,50085,President,,REP,Ted Cruz,1
+Glenn,50085,Proposition 50,,,No,3
+Glenn,50085,Proposition 50,,,Yes,15
 Glenn,50085,State Assembly,3,DEM,Edward Ritchie,6
 Glenn,50085,State Assembly,3,REP,James Gallagher,14
 Glenn,50085,U.S. House,3,DEM,John Garamendi,5
@@ -984,6 +1044,8 @@ Glenn,6,President,,GRN,Sedinam Moyowasifsa-Curry,1
 Glenn,6,President,,REP,Ted Cruz,18
 Glenn,6,President,,AIP,Thomas Hoefling,1
 Glenn,6,President,,AIP,Wiley Drake,2
+Glenn,6,Proposition 50,,,No,57
+Glenn,6,Proposition 50,,,Yes,301
 Glenn,6,State Assembly,3,DEM,Edward Ritchie,82
 Glenn,6,State Assembly,3,REP,James Gallagher,280
 Glenn,6,U.S. House,3,DEM,John Garamendi,102
@@ -1032,6 +1094,8 @@ Glenn,7,President,,REP,Jim Gilmore,1
 Glenn,7,President,,REP,John R. Kasich,10
 Glenn,7,President,,LIB,Joy Waymire,1
 Glenn,7,President,,REP,Ted Cruz,14
+Glenn,7,Proposition 50,,,No,70
+Glenn,7,Proposition 50,,,Yes,297
 Glenn,7,State Assembly,3,DEM,Edward Ritchie,104
 Glenn,7,State Assembly,3,REP,James Gallagher,257
 Glenn,7,U.S. House,3,DEM,John Garamendi,147
@@ -1077,6 +1141,8 @@ Glenn,8,President,,REP,Jim Gilmore,1
 Glenn,8,President,,REP,John R. Kasich,7
 Glenn,8,President,,DEM,Michael Steinberg,1
 Glenn,8,President,,REP,Ted Cruz,9
+Glenn,8,Proposition 50,,,No,61
+Glenn,8,Proposition 50,,,Yes,271
 Glenn,8,State Assembly,3,DEM,Edward Ritchie,109
 Glenn,8,State Assembly,3,REP,James Gallagher,222
 Glenn,8,U.S. House,3,DEM,John Garamendi,135
@@ -1124,6 +1190,8 @@ Glenn,9,President,,DEM,Michael Steinberg,3
 Glenn,9,President,,PAF,Monica Moorehead,2
 Glenn,9,President,,REP,Ted Cruz,20
 Glenn,9,President,,DEM,Willie Wilson,2
+Glenn,9,Proposition 50,,,No,74
+Glenn,9,Proposition 50,,,Yes,273
 Glenn,9,State Assembly,3,DEM,Edward Ritchie,112
 Glenn,9,State Assembly,3,REP,James Gallagher,222
 Glenn,9,U.S. House,3,DEM,John Garamendi,151

@@ -2,7 +2,7 @@ import codes
 import pandas as pd
 
 from swdb import SWDBResults
-from util import counties
+from util import COUNTIES
 
 candidate_norm = {'Eleanor Garcia': 'Eleanor García',
                   'Kenneth Canada': 'Kenneth "Mike" Canada',
