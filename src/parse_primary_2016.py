@@ -25,7 +25,8 @@ office_dict = {'United States Representative': 'U.S. House',
                'State Assembly Member': 'State Assembly'}
 
 # Clean up candidate names
-candidate_dict = {'Ron  Unz': 'Ron Unz'}
+candidate_dict = {'Ron  Unz': 'Ron Unz',
+                  'Alan  Lowenthal': 'Alan Lowenthal'}
 
 # Columns to select
 columns = ['COUNTY_NAME', 'office', 'district',
