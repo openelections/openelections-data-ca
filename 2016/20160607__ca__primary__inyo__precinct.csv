@@ -1,42 +1,14 @@
 county,precinct,office,district,party,candidate,votes
 Inyo,101,President,,AIP,Alan Spears,1
-Inyo,101,President,,AIP,Arthur Harris,0
-Inyo,101,President,,LIB,Austin Petersen,0
 Inyo,101,President,,REP,Ben Carson,8
 Inyo,101,President,,DEM,Bernie Sanders,101
-Inyo,101,President,,LIB,Cecil Ince,0
-Inyo,101,President,,GRN,Darryl Cherney,0
-Inyo,101,President,,LIB,Darryl W. Perry,0
-Inyo,101,President,,LIB,Derrick M. Reid,0
 Inyo,101,President,,REP,Donald Trump,137
 Inyo,101,President,,LIB,Gary Johnson,1
-Inyo,101,President,,PAF,Gloria Estela La Riva,0
-Inyo,101,President,,DEM,Henry Hewes,0
 Inyo,101,President,,DEM,Hillary Clinton,82
-Inyo,101,President,,AIP,J.R. Myers,0
-Inyo,101,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,101,President,,AIP,James Hedges,0
 Inyo,101,President,,GRN,Jill Stein,1
 Inyo,101,President,,REP,Jim Gilmore,2
-Inyo,101,President,,LIB,John Hale,0
-Inyo,101,President,,LIB,John McAfee,0
 Inyo,101,President,,REP,John R. Kasich,17
-Inyo,101,President,,LIB,Joy Waymire,0
-Inyo,101,President,,DEM,Keith Judd,0
-Inyo,101,President,,GRN,Kent Mesplay,0
-Inyo,101,President,,PAF,Lynn S. Kahn,0
-Inyo,101,President,,LIB,Marc Feldman,0
-Inyo,101,President,,DEM,Michael Steinberg,0
-Inyo,101,President,,PAF,Monica Moorehead,0
-Inyo,101,President,,LIB,Rhett White Feather Smith,0
-Inyo,101,President,,AIP,Robert Ornelas,0
-Inyo,101,President,,DEM,Roque De La Fuente,0
-Inyo,101,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,101,President,,LIB,Steve Kerbel,0
 Inyo,101,President,,REP,Ted Cruz,9
-Inyo,101,President,,AIP,Thomas Hoefling,0
-Inyo,101,President,,AIP,Wiley Drake,0
-Inyo,101,President,,GRN,William Kreml,0
 Inyo,101,President,,DEM,Willie Wilson,4
 Inyo,101,State Assembly,26,REP,Devon Mathis,138
 Inyo,101,State Assembly,26,DEM,Ruben Macareno,163
@@ -47,77 +19,46 @@ Inyo,101,U.S. House,8,DEM,Rita Ramirez,111
 Inyo,101,U.S. House,8,DEM,Roger La Plante,17
 Inyo,101,U.S. House,8,REP,Tim Donnelly,67
 Inyo,101,U.S. Senate,,IND,Clive Grey,2
-Inyo,101,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,101,U.S. Senate,,REP,Don Krampe,8
 Inyo,101,U.S. Senate,,REP,Duf Sundheim,11
-Inyo,101,U.S. Senate,,IND,Eleanor García,0
-Inyo,101,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,101,U.S. Senate,,LIB,Gail K. Lightfoot,5
-Inyo,101,U.S. Senate,,IND,Gar Myers,0
 Inyo,101,U.S. Senate,,REP,George C. Yang,7
 Inyo,101,U.S. Senate,,REP,Greg Conlon,23
 Inyo,101,U.S. Senate,,DEM,Herbert G. Peters,1
 Inyo,101,U.S. Senate,,REP,Jarrell Williamson,3
-Inyo,101,U.S. Senate,,IND,Jason Hanania,0
 Inyo,101,U.S. Senate,,IND,Jason Kraus,2
 Inyo,101,U.S. Senate,,REP,Jerry J. Laws,7
 Inyo,101,U.S. Senate,,PAF,John Thompson Parker,1
 Inyo,101,U.S. Senate,,DEM,Kamala D. Harris,128
 Inyo,101,U.S. Senate,,REP,Karen Roseberry,2
-Inyo,101,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,101,U.S. Senate,,DEM,Loretta L. Sanchez,53
 Inyo,101,U.S. Senate,,LIB,Mark Matthew Herd,1
 Inyo,101,U.S. Senate,,DEM,Massie Munroe,1
-Inyo,101,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,101,U.S. Senate,,GRN,Pamela Elizondo,2
 Inyo,101,U.S. Senate,,IND,Paul Merritt,1
 Inyo,101,U.S. Senate,,REP,Phil Wyman,79
 Inyo,101,U.S. Senate,,DEM,President Cristina Grappo,7
 Inyo,101,U.S. Senate,,REP,Ron Unz,2
-Inyo,101,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,101,U.S. Senate,,DEM,Steve Stokes,3
 Inyo,101,U.S. Senate,,REP,Thomas G. Del Beccaro,12
 Inyo,101,U.S. Senate,,IND,Tim Gildersleeve,2
 Inyo,101,U.S. Senate,,REP,Tom Palzer,16
 Inyo,101,U.S. Senate,,REP,Von Hougo,2
-Inyo,102,President,,AIP,Alan Spears,0
 Inyo,102,President,,AIP,Arthur Harris,1
 Inyo,102,President,,LIB,Austin Petersen,1
 Inyo,102,President,,REP,Ben Carson,10
 Inyo,102,President,,DEM,Bernie Sanders,89
-Inyo,102,President,,LIB,Cecil Ince,0
-Inyo,102,President,,GRN,Darryl Cherney,0
-Inyo,102,President,,LIB,Darryl W. Perry,0
 Inyo,102,President,,LIB,Derrick M. Reid,1
 Inyo,102,President,,REP,Donald Trump,198
 Inyo,102,President,,LIB,Gary Johnson,1
-Inyo,102,President,,PAF,Gloria Estela La Riva,0
-Inyo,102,President,,DEM,Henry Hewes,0
 Inyo,102,President,,DEM,Hillary Clinton,83
-Inyo,102,President,,AIP,J.R. Myers,0
-Inyo,102,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,102,President,,AIP,James Hedges,0
 Inyo,102,President,,GRN,Jill Stein,1
-Inyo,102,President,,REP,Jim Gilmore,0
-Inyo,102,President,,LIB,John Hale,0
-Inyo,102,President,,LIB,John McAfee,0
 Inyo,102,President,,REP,John R. Kasich,24
-Inyo,102,President,,LIB,Joy Waymire,0
 Inyo,102,President,,DEM,Keith Judd,1
-Inyo,102,President,,GRN,Kent Mesplay,0
-Inyo,102,President,,PAF,Lynn S. Kahn,0
-Inyo,102,President,,LIB,Marc Feldman,0
 Inyo,102,President,,DEM,Michael Steinberg,1
-Inyo,102,President,,PAF,Monica Moorehead,0
 Inyo,102,President,,LIB,Rhett White Feather Smith,1
-Inyo,102,President,,AIP,Robert Ornelas,0
 Inyo,102,President,,DEM,Roque De La Fuente,1
-Inyo,102,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,102,President,,LIB,Steve Kerbel,0
 Inyo,102,President,,REP,Ted Cruz,24
-Inyo,102,President,,AIP,Thomas Hoefling,0
-Inyo,102,President,,AIP,Wiley Drake,0
-Inyo,102,President,,GRN,William Kreml,0
 Inyo,102,President,,DEM,Willie Wilson,2
 Inyo,102,State Assembly,26,REP,Devon Mathis,199
 Inyo,102,State Assembly,26,DEM,Ruben Macareno,143
@@ -132,14 +73,12 @@ Inyo,102,U.S. Senate,,IND,Don J. Grundmann,3
 Inyo,102,U.S. Senate,,REP,Don Krampe,7
 Inyo,102,U.S. Senate,,REP,Duf Sundheim,25
 Inyo,102,U.S. Senate,,IND,Eleanor García,2
-Inyo,102,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,102,U.S. Senate,,LIB,Gail K. Lightfoot,11
 Inyo,102,U.S. Senate,,IND,Gar Myers,2
 Inyo,102,U.S. Senate,,REP,George C. Yang,7
 Inyo,102,U.S. Senate,,REP,Greg Conlon,16
 Inyo,102,U.S. Senate,,DEM,Herbert G. Peters,3
 Inyo,102,U.S. Senate,,REP,Jarrell Williamson,6
-Inyo,102,U.S. Senate,,IND,Jason Hanania,0
 Inyo,102,U.S. Senate,,IND,Jason Kraus,3
 Inyo,102,U.S. Senate,,REP,Jerry J. Laws,1
 Inyo,102,U.S. Senate,,PAF,John Thompson Parker,5
@@ -148,58 +87,27 @@ Inyo,102,U.S. Senate,,REP,Karen Roseberry,7
 Inyo,102,U.S. Senate,,IND,Ling Ling Shi,4
 Inyo,102,U.S. Senate,,DEM,Loretta L. Sanchez,46
 Inyo,102,U.S. Senate,,LIB,Mark Matthew Herd,5
-Inyo,102,U.S. Senate,,DEM,Massie Munroe,0
-Inyo,102,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,102,U.S. Senate,,GRN,Pamela Elizondo,1
 Inyo,102,U.S. Senate,,IND,Paul Merritt,2
 Inyo,102,U.S. Senate,,REP,Phil Wyman,118
 Inyo,102,U.S. Senate,,DEM,President Cristina Grappo,6
 Inyo,102,U.S. Senate,,REP,Ron Unz,1
-Inyo,102,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,102,U.S. Senate,,DEM,Steve Stokes,5
 Inyo,102,U.S. Senate,,REP,Thomas G. Del Beccaro,11
 Inyo,102,U.S. Senate,,IND,Tim Gildersleeve,1
 Inyo,102,U.S. Senate,,REP,Tom Palzer,23
 Inyo,102,U.S. Senate,,REP,Von Hougo,4
-Inyo,103,President,,AIP,Alan Spears,0
-Inyo,103,President,,AIP,Arthur Harris,0
-Inyo,103,President,,LIB,Austin Petersen,0
 Inyo,103,President,,REP,Ben Carson,17
 Inyo,103,President,,DEM,Bernie Sanders,78
-Inyo,103,President,,LIB,Cecil Ince,0
-Inyo,103,President,,GRN,Darryl Cherney,0
-Inyo,103,President,,LIB,Darryl W. Perry,0
-Inyo,103,President,,LIB,Derrick M. Reid,0
 Inyo,103,President,,REP,Donald Trump,132
 Inyo,103,President,,LIB,Gary Johnson,2
-Inyo,103,President,,PAF,Gloria Estela La Riva,0
-Inyo,103,President,,DEM,Henry Hewes,0
 Inyo,103,President,,DEM,Hillary Clinton,52
-Inyo,103,President,,AIP,J.R. Myers,0
 Inyo,103,President,,LIB,"Jack Robinson, Jr.",1
 Inyo,103,President,,AIP,James Hedges,2
-Inyo,103,President,,GRN,Jill Stein,0
 Inyo,103,President,,REP,Jim Gilmore,1
-Inyo,103,President,,LIB,John Hale,0
-Inyo,103,President,,LIB,John McAfee,0
 Inyo,103,President,,REP,John R. Kasich,13
-Inyo,103,President,,LIB,Joy Waymire,0
 Inyo,103,President,,DEM,Keith Judd,1
-Inyo,103,President,,GRN,Kent Mesplay,0
-Inyo,103,President,,PAF,Lynn S. Kahn,0
-Inyo,103,President,,LIB,Marc Feldman,0
-Inyo,103,President,,DEM,Michael Steinberg,0
-Inyo,103,President,,PAF,Monica Moorehead,0
-Inyo,103,President,,LIB,Rhett White Feather Smith,0
-Inyo,103,President,,AIP,Robert Ornelas,0
-Inyo,103,President,,DEM,Roque De La Fuente,0
-Inyo,103,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,103,President,,LIB,Steve Kerbel,0
 Inyo,103,President,,REP,Ted Cruz,11
-Inyo,103,President,,AIP,Thomas Hoefling,0
-Inyo,103,President,,AIP,Wiley Drake,0
-Inyo,103,President,,GRN,William Kreml,0
-Inyo,103,President,,DEM,Willie Wilson,0
 Inyo,103,State Assembly,26,REP,Devon Mathis,154
 Inyo,103,State Assembly,26,DEM,Ruben Macareno,93
 Inyo,103,State Assembly,26,REP,Rudy Mendoza,54
@@ -209,78 +117,36 @@ Inyo,103,U.S. House,8,DEM,Rita Ramirez,69
 Inyo,103,U.S. House,8,DEM,Roger La Plante,12
 Inyo,103,U.S. House,8,REP,Tim Donnelly,69
 Inyo,103,U.S. Senate,,IND,Clive Grey,2
-Inyo,103,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,103,U.S. Senate,,REP,Don Krampe,3
 Inyo,103,U.S. Senate,,REP,Duf Sundheim,24
-Inyo,103,U.S. Senate,,IND,Eleanor García,0
-Inyo,103,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,103,U.S. Senate,,LIB,Gail K. Lightfoot,7
-Inyo,103,U.S. Senate,,IND,Gar Myers,0
 Inyo,103,U.S. Senate,,REP,George C. Yang,2
 Inyo,103,U.S. Senate,,REP,Greg Conlon,11
 Inyo,103,U.S. Senate,,DEM,Herbert G. Peters,3
-Inyo,103,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,103,U.S. Senate,,IND,Jason Hanania,0
 Inyo,103,U.S. Senate,,IND,Jason Kraus,2
 Inyo,103,U.S. Senate,,REP,Jerry J. Laws,8
 Inyo,103,U.S. Senate,,PAF,John Thompson Parker,2
 Inyo,103,U.S. Senate,,DEM,Kamala D. Harris,78
 Inyo,103,U.S. Senate,,REP,Karen Roseberry,6
-Inyo,103,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,103,U.S. Senate,,DEM,Loretta L. Sanchez,33
-Inyo,103,U.S. Senate,,LIB,Mark Matthew Herd,0
 Inyo,103,U.S. Senate,,DEM,Massie Munroe,3
-Inyo,103,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,103,U.S. Senate,,GRN,Pamela Elizondo,2
-Inyo,103,U.S. Senate,,IND,Paul Merritt,0
 Inyo,103,U.S. Senate,,REP,Phil Wyman,77
 Inyo,103,U.S. Senate,,DEM,President Cristina Grappo,3
-Inyo,103,U.S. Senate,,REP,Ron Unz,0
-Inyo,103,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,103,U.S. Senate,,DEM,Steve Stokes,2
 Inyo,103,U.S. Senate,,REP,Thomas G. Del Beccaro,18
-Inyo,103,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,103,U.S. Senate,,REP,Tom Palzer,23
 Inyo,103,U.S. Senate,,REP,Von Hougo,3
 Inyo,104,President,,AIP,Alan Spears,1
-Inyo,104,President,,AIP,Arthur Harris,0
-Inyo,104,President,,LIB,Austin Petersen,0
 Inyo,104,President,,REP,Ben Carson,1
 Inyo,104,President,,DEM,Bernie Sanders,15
-Inyo,104,President,,LIB,Cecil Ince,0
-Inyo,104,President,,GRN,Darryl Cherney,0
-Inyo,104,President,,LIB,Darryl W. Perry,0
-Inyo,104,President,,LIB,Derrick M. Reid,0
 Inyo,104,President,,REP,Donald Trump,36
-Inyo,104,President,,LIB,Gary Johnson,0
-Inyo,104,President,,PAF,Gloria Estela La Riva,0
-Inyo,104,President,,DEM,Henry Hewes,0
 Inyo,104,President,,DEM,Hillary Clinton,8
 Inyo,104,President,,AIP,J.R. Myers,1
-Inyo,104,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,104,President,,AIP,James Hedges,0
-Inyo,104,President,,GRN,Jill Stein,0
-Inyo,104,President,,REP,Jim Gilmore,0
 Inyo,104,President,,LIB,John Hale,1
-Inyo,104,President,,LIB,John McAfee,0
 Inyo,104,President,,REP,John R. Kasich,3
-Inyo,104,President,,LIB,Joy Waymire,0
-Inyo,104,President,,DEM,Keith Judd,0
-Inyo,104,President,,GRN,Kent Mesplay,0
-Inyo,104,President,,PAF,Lynn S. Kahn,0
-Inyo,104,President,,LIB,Marc Feldman,0
-Inyo,104,President,,DEM,Michael Steinberg,0
-Inyo,104,President,,PAF,Monica Moorehead,0
-Inyo,104,President,,LIB,Rhett White Feather Smith,0
-Inyo,104,President,,AIP,Robert Ornelas,0
 Inyo,104,President,,DEM,Roque De La Fuente,1
-Inyo,104,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,104,President,,LIB,Steve Kerbel,0
 Inyo,104,President,,REP,Ted Cruz,1
-Inyo,104,President,,AIP,Thomas Hoefling,0
-Inyo,104,President,,AIP,Wiley Drake,0
-Inyo,104,President,,GRN,William Kreml,0
-Inyo,104,President,,DEM,Willie Wilson,0
 Inyo,104,State Assembly,26,REP,Devon Mathis,30
 Inyo,104,State Assembly,26,DEM,Ruben Macareno,18
 Inyo,104,State Assembly,26,REP,Rudy Mendoza,19
@@ -290,77 +156,33 @@ Inyo,104,U.S. House,8,DEM,Rita Ramirez,11
 Inyo,104,U.S. House,8,DEM,Roger La Plante,5
 Inyo,104,U.S. House,8,REP,Tim Donnelly,6
 Inyo,104,U.S. Senate,,IND,Clive Grey,1
-Inyo,104,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,104,U.S. Senate,,REP,Don Krampe,4
 Inyo,104,U.S. Senate,,REP,Duf Sundheim,1
-Inyo,104,U.S. Senate,,IND,Eleanor García,0
-Inyo,104,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,104,U.S. Senate,,LIB,Gail K. Lightfoot,2
-Inyo,104,U.S. Senate,,IND,Gar Myers,0
-Inyo,104,U.S. Senate,,REP,George C. Yang,0
 Inyo,104,U.S. Senate,,REP,Greg Conlon,1
-Inyo,104,U.S. Senate,,DEM,Herbert G. Peters,0
 Inyo,104,U.S. Senate,,REP,Jarrell Williamson,1
 Inyo,104,U.S. Senate,,IND,Jason Hanania,1
-Inyo,104,U.S. Senate,,IND,Jason Kraus,0
 Inyo,104,U.S. Senate,,REP,Jerry J. Laws,2
-Inyo,104,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,104,U.S. Senate,,DEM,Kamala D. Harris,15
 Inyo,104,U.S. Senate,,REP,Karen Roseberry,1
-Inyo,104,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,104,U.S. Senate,,DEM,Loretta L. Sanchez,5
 Inyo,104,U.S. Senate,,LIB,Mark Matthew Herd,1
-Inyo,104,U.S. Senate,,DEM,Massie Munroe,0
-Inyo,104,U.S. Senate,,IND,Mike Beitiks,0
-Inyo,104,U.S. Senate,,GRN,Pamela Elizondo,0
-Inyo,104,U.S. Senate,,IND,Paul Merritt,0
 Inyo,104,U.S. Senate,,REP,Phil Wyman,22
-Inyo,104,U.S. Senate,,DEM,President Cristina Grappo,0
-Inyo,104,U.S. Senate,,REP,Ron Unz,0
-Inyo,104,U.S. Senate,,IND,Scott A. Vineberg,0
-Inyo,104,U.S. Senate,,DEM,Steve Stokes,0
-Inyo,104,U.S. Senate,,REP,Thomas G. Del Beccaro,0
 Inyo,104,U.S. Senate,,IND,Tim Gildersleeve,2
 Inyo,104,U.S. Senate,,REP,Tom Palzer,6
 Inyo,104,U.S. Senate,,REP,Von Hougo,1
-Inyo,105,President,,AIP,Alan Spears,0
 Inyo,105,President,,AIP,Arthur Harris,2
-Inyo,105,President,,LIB,Austin Petersen,0
 Inyo,105,President,,REP,Ben Carson,15
 Inyo,105,President,,DEM,Bernie Sanders,111
-Inyo,105,President,,LIB,Cecil Ince,0
-Inyo,105,President,,GRN,Darryl Cherney,0
-Inyo,105,President,,LIB,Darryl W. Perry,0
-Inyo,105,President,,LIB,Derrick M. Reid,0
 Inyo,105,President,,REP,Donald Trump,165
 Inyo,105,President,,LIB,Gary Johnson,8
-Inyo,105,President,,PAF,Gloria Estela La Riva,0
-Inyo,105,President,,DEM,Henry Hewes,0
 Inyo,105,President,,DEM,Hillary Clinton,100
-Inyo,105,President,,AIP,J.R. Myers,0
-Inyo,105,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,105,President,,AIP,James Hedges,0
 Inyo,105,President,,GRN,Jill Stein,1
-Inyo,105,President,,REP,Jim Gilmore,0
-Inyo,105,President,,LIB,John Hale,0
-Inyo,105,President,,LIB,John McAfee,0
 Inyo,105,President,,REP,John R. Kasich,18
-Inyo,105,President,,LIB,Joy Waymire,0
-Inyo,105,President,,DEM,Keith Judd,0
-Inyo,105,President,,GRN,Kent Mesplay,0
-Inyo,105,President,,PAF,Lynn S. Kahn,0
-Inyo,105,President,,LIB,Marc Feldman,0
-Inyo,105,President,,DEM,Michael Steinberg,0
-Inyo,105,President,,PAF,Monica Moorehead,0
-Inyo,105,President,,LIB,Rhett White Feather Smith,0
-Inyo,105,President,,AIP,Robert Ornelas,0
 Inyo,105,President,,DEM,Roque De La Fuente,1
-Inyo,105,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,105,President,,LIB,Steve Kerbel,0
 Inyo,105,President,,REP,Ted Cruz,18
 Inyo,105,President,,AIP,Thomas Hoefling,2
 Inyo,105,President,,AIP,Wiley Drake,1
-Inyo,105,President,,GRN,William Kreml,0
 Inyo,105,President,,DEM,Willie Wilson,1
 Inyo,105,State Assembly,26,REP,Devon Mathis,177
 Inyo,105,State Assembly,26,DEM,Ruben Macareno,192
@@ -377,12 +199,10 @@ Inyo,105,U.S. Senate,,REP,Duf Sundheim,21
 Inyo,105,U.S. Senate,,IND,Eleanor García,3
 Inyo,105,U.S. Senate,,DEM,Emory Rodgers,1
 Inyo,105,U.S. Senate,,LIB,Gail K. Lightfoot,9
-Inyo,105,U.S. Senate,,IND,Gar Myers,0
 Inyo,105,U.S. Senate,,REP,George C. Yang,6
 Inyo,105,U.S. Senate,,REP,Greg Conlon,16
 Inyo,105,U.S. Senate,,DEM,Herbert G. Peters,5
 Inyo,105,U.S. Senate,,REP,Jarrell Williamson,4
-Inyo,105,U.S. Senate,,IND,Jason Hanania,0
 Inyo,105,U.S. Senate,,IND,Jason Kraus,2
 Inyo,105,U.S. Senate,,REP,Jerry J. Laws,8
 Inyo,105,U.S. Senate,,PAF,John Thompson Parker,1
@@ -390,7 +210,6 @@ Inyo,105,U.S. Senate,,DEM,Kamala D. Harris,117
 Inyo,105,U.S. Senate,,REP,Karen Roseberry,15
 Inyo,105,U.S. Senate,,IND,Ling Ling Shi,2
 Inyo,105,U.S. Senate,,DEM,Loretta L. Sanchez,66
-Inyo,105,U.S. Senate,,LIB,Mark Matthew Herd,0
 Inyo,105,U.S. Senate,,DEM,Massie Munroe,2
 Inyo,105,U.S. Senate,,IND,Mike Beitiks,1
 Inyo,105,U.S. Senate,,GRN,Pamela Elizondo,9
@@ -398,51 +217,23 @@ Inyo,105,U.S. Senate,,IND,Paul Merritt,2
 Inyo,105,U.S. Senate,,REP,Phil Wyman,120
 Inyo,105,U.S. Senate,,DEM,President Cristina Grappo,5
 Inyo,105,U.S. Senate,,REP,Ron Unz,2
-Inyo,105,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,105,U.S. Senate,,DEM,Steve Stokes,4
 Inyo,105,U.S. Senate,,REP,Thomas G. Del Beccaro,7
 Inyo,105,U.S. Senate,,IND,Tim Gildersleeve,2
 Inyo,105,U.S. Senate,,REP,Tom Palzer,14
 Inyo,105,U.S. Senate,,REP,Von Hougo,5
-Inyo,106,President,,AIP,Alan Spears,0
 Inyo,106,President,,AIP,Arthur Harris,1
-Inyo,106,President,,LIB,Austin Petersen,0
 Inyo,106,President,,REP,Ben Carson,5
 Inyo,106,President,,DEM,Bernie Sanders,80
-Inyo,106,President,,LIB,Cecil Ince,0
-Inyo,106,President,,GRN,Darryl Cherney,0
-Inyo,106,President,,LIB,Darryl W. Perry,0
-Inyo,106,President,,LIB,Derrick M. Reid,0
 Inyo,106,President,,REP,Donald Trump,56
-Inyo,106,President,,LIB,Gary Johnson,0
 Inyo,106,President,,PAF,Gloria Estela La Riva,1
 Inyo,106,President,,DEM,Henry Hewes,1
 Inyo,106,President,,DEM,Hillary Clinton,50
-Inyo,106,President,,AIP,J.R. Myers,0
-Inyo,106,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,106,President,,AIP,James Hedges,0
-Inyo,106,President,,GRN,Jill Stein,0
 Inyo,106,President,,REP,Jim Gilmore,2
-Inyo,106,President,,LIB,John Hale,0
 Inyo,106,President,,LIB,John McAfee,1
 Inyo,106,President,,REP,John R. Kasich,8
-Inyo,106,President,,LIB,Joy Waymire,0
-Inyo,106,President,,DEM,Keith Judd,0
-Inyo,106,President,,GRN,Kent Mesplay,0
-Inyo,106,President,,PAF,Lynn S. Kahn,0
-Inyo,106,President,,LIB,Marc Feldman,0
-Inyo,106,President,,DEM,Michael Steinberg,0
-Inyo,106,President,,PAF,Monica Moorehead,0
 Inyo,106,President,,LIB,Rhett White Feather Smith,1
-Inyo,106,President,,AIP,Robert Ornelas,0
-Inyo,106,President,,DEM,Roque De La Fuente,0
-Inyo,106,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,106,President,,LIB,Steve Kerbel,0
 Inyo,106,President,,REP,Ted Cruz,6
-Inyo,106,President,,AIP,Thomas Hoefling,0
-Inyo,106,President,,AIP,Wiley Drake,0
-Inyo,106,President,,GRN,William Kreml,0
-Inyo,106,President,,DEM,Willie Wilson,0
 Inyo,106,State Assembly,26,REP,Devon Mathis,68
 Inyo,106,State Assembly,26,DEM,Ruben Macareno,121
 Inyo,106,State Assembly,26,REP,Rudy Mendoza,33
@@ -456,9 +247,7 @@ Inyo,106,U.S. Senate,,IND,Don J. Grundmann,1
 Inyo,106,U.S. Senate,,REP,Don Krampe,1
 Inyo,106,U.S. Senate,,REP,Duf Sundheim,8
 Inyo,106,U.S. Senate,,IND,Eleanor García,5
-Inyo,106,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,106,U.S. Senate,,LIB,Gail K. Lightfoot,4
-Inyo,106,U.S. Senate,,IND,Gar Myers,0
 Inyo,106,U.S. Senate,,REP,George C. Yang,2
 Inyo,106,U.S. Senate,,REP,Greg Conlon,5
 Inyo,106,U.S. Senate,,DEM,Herbert G. Peters,2
@@ -466,7 +255,6 @@ Inyo,106,U.S. Senate,,REP,Jarrell Williamson,3
 Inyo,106,U.S. Senate,,IND,Jason Hanania,1
 Inyo,106,U.S. Senate,,IND,Jason Kraus,1
 Inyo,106,U.S. Senate,,REP,Jerry J. Laws,3
-Inyo,106,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,106,U.S. Senate,,DEM,Kamala D. Harris,66
 Inyo,106,U.S. Senate,,REP,Karen Roseberry,5
 Inyo,106,U.S. Senate,,IND,Ling Ling Shi,2
@@ -478,51 +266,22 @@ Inyo,106,U.S. Senate,,GRN,Pamela Elizondo,3
 Inyo,106,U.S. Senate,,IND,Paul Merritt,3
 Inyo,106,U.S. Senate,,REP,Phil Wyman,46
 Inyo,106,U.S. Senate,,DEM,President Cristina Grappo,4
-Inyo,106,U.S. Senate,,REP,Ron Unz,0
-Inyo,106,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,106,U.S. Senate,,DEM,Steve Stokes,2
 Inyo,106,U.S. Senate,,REP,Thomas G. Del Beccaro,5
-Inyo,106,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,106,U.S. Senate,,REP,Tom Palzer,1
 Inyo,106,U.S. Senate,,REP,Von Hougo,4
 Inyo,107,President,,AIP,Alan Spears,1
-Inyo,107,President,,AIP,Arthur Harris,0
-Inyo,107,President,,LIB,Austin Petersen,0
 Inyo,107,President,,REP,Ben Carson,1
 Inyo,107,President,,DEM,Bernie Sanders,77
-Inyo,107,President,,LIB,Cecil Ince,0
-Inyo,107,President,,GRN,Darryl Cherney,0
-Inyo,107,President,,LIB,Darryl W. Perry,0
-Inyo,107,President,,LIB,Derrick M. Reid,0
 Inyo,107,President,,REP,Donald Trump,51
 Inyo,107,President,,LIB,Gary Johnson,2
-Inyo,107,President,,PAF,Gloria Estela La Riva,0
-Inyo,107,President,,DEM,Henry Hewes,0
 Inyo,107,President,,DEM,Hillary Clinton,31
-Inyo,107,President,,AIP,J.R. Myers,0
-Inyo,107,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,107,President,,AIP,James Hedges,0
 Inyo,107,President,,GRN,Jill Stein,1
-Inyo,107,President,,REP,Jim Gilmore,0
-Inyo,107,President,,LIB,John Hale,0
-Inyo,107,President,,LIB,John McAfee,0
 Inyo,107,President,,REP,John R. Kasich,7
-Inyo,107,President,,LIB,Joy Waymire,0
-Inyo,107,President,,DEM,Keith Judd,0
-Inyo,107,President,,GRN,Kent Mesplay,0
 Inyo,107,President,,PAF,Lynn S. Kahn,1
-Inyo,107,President,,LIB,Marc Feldman,0
-Inyo,107,President,,DEM,Michael Steinberg,0
-Inyo,107,President,,PAF,Monica Moorehead,0
-Inyo,107,President,,LIB,Rhett White Feather Smith,0
 Inyo,107,President,,AIP,Robert Ornelas,1
-Inyo,107,President,,DEM,Roque De La Fuente,0
-Inyo,107,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,107,President,,LIB,Steve Kerbel,0
 Inyo,107,President,,REP,Ted Cruz,2
-Inyo,107,President,,AIP,Thomas Hoefling,0
 Inyo,107,President,,AIP,Wiley Drake,1
-Inyo,107,President,,GRN,William Kreml,0
 Inyo,107,President,,DEM,Willie Wilson,1
 Inyo,107,State Assembly,26,REP,Devon Mathis,56
 Inyo,107,State Assembly,26,DEM,Ruben Macareno,95
@@ -533,77 +292,37 @@ Inyo,107,U.S. House,8,DEM,Rita Ramirez,68
 Inyo,107,U.S. House,8,DEM,Roger La Plante,13
 Inyo,107,U.S. House,8,REP,Tim Donnelly,23
 Inyo,107,U.S. Senate,,IND,Clive Grey,3
-Inyo,107,U.S. Senate,,IND,Don J. Grundmann,0
-Inyo,107,U.S. Senate,,REP,Don Krampe,0
 Inyo,107,U.S. Senate,,REP,Duf Sundheim,4
 Inyo,107,U.S. Senate,,IND,Eleanor García,2
-Inyo,107,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,107,U.S. Senate,,LIB,Gail K. Lightfoot,2
-Inyo,107,U.S. Senate,,IND,Gar Myers,0
 Inyo,107,U.S. Senate,,REP,George C. Yang,1
 Inyo,107,U.S. Senate,,REP,Greg Conlon,7
-Inyo,107,U.S. Senate,,DEM,Herbert G. Peters,0
-Inyo,107,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,107,U.S. Senate,,IND,Jason Hanania,0
 Inyo,107,U.S. Senate,,IND,Jason Kraus,1
 Inyo,107,U.S. Senate,,REP,Jerry J. Laws,6
-Inyo,107,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,107,U.S. Senate,,DEM,Kamala D. Harris,74
 Inyo,107,U.S. Senate,,REP,Karen Roseberry,6
 Inyo,107,U.S. Senate,,IND,Ling Ling Shi,2
 Inyo,107,U.S. Senate,,DEM,Loretta L. Sanchez,23
 Inyo,107,U.S. Senate,,LIB,Mark Matthew Herd,3
 Inyo,107,U.S. Senate,,DEM,Massie Munroe,2
-Inyo,107,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,107,U.S. Senate,,GRN,Pamela Elizondo,2
-Inyo,107,U.S. Senate,,IND,Paul Merritt,0
 Inyo,107,U.S. Senate,,REP,Phil Wyman,28
 Inyo,107,U.S. Senate,,DEM,President Cristina Grappo,5
-Inyo,107,U.S. Senate,,REP,Ron Unz,0
-Inyo,107,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,107,U.S. Senate,,DEM,Steve Stokes,4
 Inyo,107,U.S. Senate,,REP,Thomas G. Del Beccaro,3
-Inyo,107,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,107,U.S. Senate,,REP,Tom Palzer,5
 Inyo,107,U.S. Senate,,REP,Von Hougo,1
-Inyo,108,President,,AIP,Alan Spears,0
-Inyo,108,President,,AIP,Arthur Harris,0
-Inyo,108,President,,LIB,Austin Petersen,0
 Inyo,108,President,,REP,Ben Carson,11
 Inyo,108,President,,DEM,Bernie Sanders,128
-Inyo,108,President,,LIB,Cecil Ince,0
-Inyo,108,President,,GRN,Darryl Cherney,0
-Inyo,108,President,,LIB,Darryl W. Perry,0
-Inyo,108,President,,LIB,Derrick M. Reid,0
 Inyo,108,President,,REP,Donald Trump,201
 Inyo,108,President,,LIB,Gary Johnson,3
-Inyo,108,President,,PAF,Gloria Estela La Riva,0
 Inyo,108,President,,DEM,Henry Hewes,1
 Inyo,108,President,,DEM,Hillary Clinton,72
-Inyo,108,President,,AIP,J.R. Myers,0
-Inyo,108,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,108,President,,AIP,James Hedges,0
 Inyo,108,President,,GRN,Jill Stein,1
-Inyo,108,President,,REP,Jim Gilmore,0
-Inyo,108,President,,LIB,John Hale,0
-Inyo,108,President,,LIB,John McAfee,0
 Inyo,108,President,,REP,John R. Kasich,44
-Inyo,108,President,,LIB,Joy Waymire,0
-Inyo,108,President,,DEM,Keith Judd,0
-Inyo,108,President,,GRN,Kent Mesplay,0
-Inyo,108,President,,PAF,Lynn S. Kahn,0
-Inyo,108,President,,LIB,Marc Feldman,0
 Inyo,108,President,,DEM,Michael Steinberg,1
-Inyo,108,President,,PAF,Monica Moorehead,0
-Inyo,108,President,,LIB,Rhett White Feather Smith,0
-Inyo,108,President,,AIP,Robert Ornelas,0
-Inyo,108,President,,DEM,Roque De La Fuente,0
-Inyo,108,President,,GRN,Sedinam Moyowasifsa-Curry,0
 Inyo,108,President,,LIB,Steve Kerbel,1
 Inyo,108,President,,REP,Ted Cruz,17
-Inyo,108,President,,AIP,Thomas Hoefling,0
-Inyo,108,President,,AIP,Wiley Drake,0
-Inyo,108,President,,GRN,William Kreml,0
 Inyo,108,President,,DEM,Willie Wilson,2
 Inyo,108,State Assembly,26,REP,Devon Mathis,228
 Inyo,108,State Assembly,26,DEM,Ruben Macareno,160
@@ -614,19 +333,14 @@ Inyo,108,U.S. House,8,DEM,Rita Ramirez,125
 Inyo,108,U.S. House,8,DEM,Roger La Plante,33
 Inyo,108,U.S. House,8,REP,Tim Donnelly,70
 Inyo,108,U.S. Senate,,IND,Clive Grey,5
-Inyo,108,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,108,U.S. Senate,,REP,Don Krampe,6
 Inyo,108,U.S. Senate,,REP,Duf Sundheim,33
-Inyo,108,U.S. Senate,,IND,Eleanor García,0
 Inyo,108,U.S. Senate,,DEM,Emory Rodgers,2
 Inyo,108,U.S. Senate,,LIB,Gail K. Lightfoot,11
-Inyo,108,U.S. Senate,,IND,Gar Myers,0
 Inyo,108,U.S. Senate,,REP,George C. Yang,5
 Inyo,108,U.S. Senate,,REP,Greg Conlon,13
 Inyo,108,U.S. Senate,,DEM,Herbert G. Peters,5
 Inyo,108,U.S. Senate,,REP,Jarrell Williamson,8
-Inyo,108,U.S. Senate,,IND,Jason Hanania,0
-Inyo,108,U.S. Senate,,IND,Jason Kraus,0
 Inyo,108,U.S. Senate,,REP,Jerry J. Laws,7
 Inyo,108,U.S. Senate,,PAF,John Thompson Parker,1
 Inyo,108,U.S. Senate,,DEM,Kamala D. Harris,134
@@ -637,54 +351,26 @@ Inyo,108,U.S. Senate,,LIB,Mark Matthew Herd,1
 Inyo,108,U.S. Senate,,DEM,Massie Munroe,3
 Inyo,108,U.S. Senate,,IND,Mike Beitiks,2
 Inyo,108,U.S. Senate,,GRN,Pamela Elizondo,4
-Inyo,108,U.S. Senate,,IND,Paul Merritt,0
 Inyo,108,U.S. Senate,,REP,Phil Wyman,129
 Inyo,108,U.S. Senate,,DEM,President Cristina Grappo,4
 Inyo,108,U.S. Senate,,REP,Ron Unz,6
-Inyo,108,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,108,U.S. Senate,,DEM,Steve Stokes,6
 Inyo,108,U.S. Senate,,REP,Thomas G. Del Beccaro,16
 Inyo,108,U.S. Senate,,IND,Tim Gildersleeve,2
 Inyo,108,U.S. Senate,,REP,Tom Palzer,19
 Inyo,108,U.S. Senate,,REP,Von Hougo,5
-Inyo,109,President,,AIP,Alan Spears,0
-Inyo,109,President,,AIP,Arthur Harris,0
 Inyo,109,President,,LIB,Austin Petersen,1
 Inyo,109,President,,REP,Ben Carson,15
 Inyo,109,President,,DEM,Bernie Sanders,80
-Inyo,109,President,,LIB,Cecil Ince,0
-Inyo,109,President,,GRN,Darryl Cherney,0
-Inyo,109,President,,LIB,Darryl W. Perry,0
-Inyo,109,President,,LIB,Derrick M. Reid,0
 Inyo,109,President,,REP,Donald Trump,297
 Inyo,109,President,,LIB,Gary Johnson,3
-Inyo,109,President,,PAF,Gloria Estela La Riva,0
-Inyo,109,President,,DEM,Henry Hewes,0
 Inyo,109,President,,DEM,Hillary Clinton,91
-Inyo,109,President,,AIP,J.R. Myers,0
-Inyo,109,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,109,President,,AIP,James Hedges,0
-Inyo,109,President,,GRN,Jill Stein,0
 Inyo,109,President,,REP,Jim Gilmore,3
-Inyo,109,President,,LIB,John Hale,0
-Inyo,109,President,,LIB,John McAfee,0
 Inyo,109,President,,REP,John R. Kasich,27
-Inyo,109,President,,LIB,Joy Waymire,0
 Inyo,109,President,,DEM,Keith Judd,2
-Inyo,109,President,,GRN,Kent Mesplay,0
-Inyo,109,President,,PAF,Lynn S. Kahn,0
-Inyo,109,President,,LIB,Marc Feldman,0
-Inyo,109,President,,DEM,Michael Steinberg,0
-Inyo,109,President,,PAF,Monica Moorehead,0
-Inyo,109,President,,LIB,Rhett White Feather Smith,0
-Inyo,109,President,,AIP,Robert Ornelas,0
-Inyo,109,President,,DEM,Roque De La Fuente,0
-Inyo,109,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,109,President,,LIB,Steve Kerbel,0
 Inyo,109,President,,REP,Ted Cruz,20
 Inyo,109,President,,AIP,Thomas Hoefling,2
 Inyo,109,President,,AIP,Wiley Drake,3
-Inyo,109,President,,GRN,William Kreml,0
 Inyo,109,President,,DEM,Willie Wilson,2
 Inyo,109,State Assembly,26,REP,Devon Mathis,308
 Inyo,109,State Assembly,26,DEM,Ruben Macareno,145
@@ -695,77 +381,47 @@ Inyo,109,U.S. House,8,DEM,Rita Ramirez,103
 Inyo,109,U.S. House,8,DEM,Roger La Plante,24
 Inyo,109,U.S. House,8,REP,Tim Donnelly,109
 Inyo,109,U.S. Senate,,IND,Clive Grey,7
-Inyo,109,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,109,U.S. Senate,,REP,Don Krampe,3
 Inyo,109,U.S. Senate,,REP,Duf Sundheim,40
-Inyo,109,U.S. Senate,,IND,Eleanor García,0
 Inyo,109,U.S. Senate,,DEM,Emory Rodgers,1
 Inyo,109,U.S. Senate,,LIB,Gail K. Lightfoot,5
-Inyo,109,U.S. Senate,,IND,Gar Myers,0
 Inyo,109,U.S. Senate,,REP,George C. Yang,3
 Inyo,109,U.S. Senate,,REP,Greg Conlon,26
 Inyo,109,U.S. Senate,,DEM,Herbert G. Peters,4
-Inyo,109,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,109,U.S. Senate,,IND,Jason Hanania,0
 Inyo,109,U.S. Senate,,IND,Jason Kraus,3
 Inyo,109,U.S. Senate,,REP,Jerry J. Laws,7
 Inyo,109,U.S. Senate,,PAF,John Thompson Parker,1
 Inyo,109,U.S. Senate,,DEM,Kamala D. Harris,123
 Inyo,109,U.S. Senate,,REP,Karen Roseberry,6
-Inyo,109,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,109,U.S. Senate,,DEM,Loretta L. Sanchez,43
 Inyo,109,U.S. Senate,,LIB,Mark Matthew Herd,2
 Inyo,109,U.S. Senate,,DEM,Massie Munroe,5
 Inyo,109,U.S. Senate,,IND,Mike Beitiks,1
 Inyo,109,U.S. Senate,,GRN,Pamela Elizondo,3
-Inyo,109,U.S. Senate,,IND,Paul Merritt,0
 Inyo,109,U.S. Senate,,REP,Phil Wyman,190
 Inyo,109,U.S. Senate,,DEM,President Cristina Grappo,6
 Inyo,109,U.S. Senate,,REP,Ron Unz,6
-Inyo,109,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,109,U.S. Senate,,DEM,Steve Stokes,3
 Inyo,109,U.S. Senate,,REP,Thomas G. Del Beccaro,24
 Inyo,109,U.S. Senate,,IND,Tim Gildersleeve,3
 Inyo,109,U.S. Senate,,REP,Tom Palzer,28
 Inyo,109,U.S. Senate,,REP,Von Hougo,3
-Inyo,110,President,,AIP,Alan Spears,0
 Inyo,110,President,,AIP,Arthur Harris,1
-Inyo,110,President,,LIB,Austin Petersen,0
 Inyo,110,President,,REP,Ben Carson,5
 Inyo,110,President,,DEM,Bernie Sanders,108
 Inyo,110,President,,LIB,Cecil Ince,1
-Inyo,110,President,,GRN,Darryl Cherney,0
-Inyo,110,President,,LIB,Darryl W. Perry,0
-Inyo,110,President,,LIB,Derrick M. Reid,0
 Inyo,110,President,,REP,Donald Trump,23
-Inyo,110,President,,LIB,Gary Johnson,0
 Inyo,110,President,,PAF,Gloria Estela La Riva,1
-Inyo,110,President,,DEM,Henry Hewes,0
 Inyo,110,President,,DEM,Hillary Clinton,65
 Inyo,110,President,,AIP,J.R. Myers,2
-Inyo,110,President,,LIB,"Jack Robinson, Jr.",0
 Inyo,110,President,,AIP,James Hedges,1
-Inyo,110,President,,GRN,Jill Stein,0
 Inyo,110,President,,REP,Jim Gilmore,1
-Inyo,110,President,,LIB,John Hale,0
-Inyo,110,President,,LIB,John McAfee,0
 Inyo,110,President,,REP,John R. Kasich,2
-Inyo,110,President,,LIB,Joy Waymire,0
 Inyo,110,President,,DEM,Keith Judd,1
-Inyo,110,President,,GRN,Kent Mesplay,0
-Inyo,110,President,,PAF,Lynn S. Kahn,0
-Inyo,110,President,,LIB,Marc Feldman,0
 Inyo,110,President,,DEM,Michael Steinberg,1
-Inyo,110,President,,PAF,Monica Moorehead,0
-Inyo,110,President,,LIB,Rhett White Feather Smith,0
-Inyo,110,President,,AIP,Robert Ornelas,0
 Inyo,110,President,,DEM,Roque De La Fuente,1
-Inyo,110,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,110,President,,LIB,Steve Kerbel,0
 Inyo,110,President,,REP,Ted Cruz,11
 Inyo,110,President,,AIP,Thomas Hoefling,1
-Inyo,110,President,,AIP,Wiley Drake,0
-Inyo,110,President,,GRN,William Kreml,0
 Inyo,110,President,,DEM,Willie Wilson,1
 Inyo,110,State Assembly,26,REP,Devon Mathis,47
 Inyo,110,State Assembly,26,DEM,Ruben Macareno,129
@@ -787,66 +443,30 @@ Inyo,110,U.S. Senate,,REP,George C. Yang,2
 Inyo,110,U.S. Senate,,REP,Greg Conlon,1
 Inyo,110,U.S. Senate,,DEM,Herbert G. Peters,3
 Inyo,110,U.S. Senate,,REP,Jarrell Williamson,3
-Inyo,110,U.S. Senate,,IND,Jason Hanania,0
 Inyo,110,U.S. Senate,,IND,Jason Kraus,1
 Inyo,110,U.S. Senate,,REP,Jerry J. Laws,3
 Inyo,110,U.S. Senate,,PAF,John Thompson Parker,2
 Inyo,110,U.S. Senate,,DEM,Kamala D. Harris,67
 Inyo,110,U.S. Senate,,REP,Karen Roseberry,8
-Inyo,110,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,110,U.S. Senate,,DEM,Loretta L. Sanchez,53
-Inyo,110,U.S. Senate,,LIB,Mark Matthew Herd,0
 Inyo,110,U.S. Senate,,DEM,Massie Munroe,2
-Inyo,110,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,110,U.S. Senate,,GRN,Pamela Elizondo,4
-Inyo,110,U.S. Senate,,IND,Paul Merritt,0
 Inyo,110,U.S. Senate,,REP,Phil Wyman,24
 Inyo,110,U.S. Senate,,DEM,President Cristina Grappo,10
-Inyo,110,U.S. Senate,,REP,Ron Unz,0
 Inyo,110,U.S. Senate,,IND,Scott A. Vineberg,1
 Inyo,110,U.S. Senate,,DEM,Steve Stokes,6
-Inyo,110,U.S. Senate,,REP,Thomas G. Del Beccaro,0
-Inyo,110,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,110,U.S. Senate,,REP,Tom Palzer,4
 Inyo,110,U.S. Senate,,REP,Von Hougo,1
-Inyo,111,President,,AIP,Alan Spears,0
-Inyo,111,President,,AIP,Arthur Harris,0
-Inyo,111,President,,LIB,Austin Petersen,0
 Inyo,111,President,,REP,Ben Carson,8
 Inyo,111,President,,DEM,Bernie Sanders,41
-Inyo,111,President,,LIB,Cecil Ince,0
-Inyo,111,President,,GRN,Darryl Cherney,0
-Inyo,111,President,,LIB,Darryl W. Perry,0
-Inyo,111,President,,LIB,Derrick M. Reid,0
 Inyo,111,President,,REP,Donald Trump,119
 Inyo,111,President,,LIB,Gary Johnson,1
-Inyo,111,President,,PAF,Gloria Estela La Riva,0
-Inyo,111,President,,DEM,Henry Hewes,0
 Inyo,111,President,,DEM,Hillary Clinton,28
-Inyo,111,President,,AIP,J.R. Myers,0
-Inyo,111,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,111,President,,AIP,James Hedges,0
-Inyo,111,President,,GRN,Jill Stein,0
-Inyo,111,President,,REP,Jim Gilmore,0
-Inyo,111,President,,LIB,John Hale,0
-Inyo,111,President,,LIB,John McAfee,0
 Inyo,111,President,,REP,John R. Kasich,4
-Inyo,111,President,,LIB,Joy Waymire,0
-Inyo,111,President,,DEM,Keith Judd,0
-Inyo,111,President,,GRN,Kent Mesplay,0
-Inyo,111,President,,PAF,Lynn S. Kahn,0
 Inyo,111,President,,LIB,Marc Feldman,1
 Inyo,111,President,,DEM,Michael Steinberg,1
-Inyo,111,President,,PAF,Monica Moorehead,0
-Inyo,111,President,,LIB,Rhett White Feather Smith,0
 Inyo,111,President,,AIP,Robert Ornelas,1
-Inyo,111,President,,DEM,Roque De La Fuente,0
-Inyo,111,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,111,President,,LIB,Steve Kerbel,0
 Inyo,111,President,,REP,Ted Cruz,12
-Inyo,111,President,,AIP,Thomas Hoefling,0
-Inyo,111,President,,AIP,Wiley Drake,0
-Inyo,111,President,,GRN,William Kreml,0
 Inyo,111,President,,DEM,Willie Wilson,2
 Inyo,111,State Assembly,26,REP,Devon Mathis,102
 Inyo,111,State Assembly,26,DEM,Ruben Macareno,54
@@ -857,34 +477,26 @@ Inyo,111,U.S. House,8,DEM,Rita Ramirez,42
 Inyo,111,U.S. House,8,DEM,Roger La Plante,7
 Inyo,111,U.S. House,8,REP,Tim Donnelly,58
 Inyo,111,U.S. Senate,,IND,Clive Grey,5
-Inyo,111,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,111,U.S. Senate,,REP,Don Krampe,3
 Inyo,111,U.S. Senate,,REP,Duf Sundheim,8
 Inyo,111,U.S. Senate,,IND,Eleanor García,1
-Inyo,111,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,111,U.S. Senate,,LIB,Gail K. Lightfoot,5
-Inyo,111,U.S. Senate,,IND,Gar Myers,0
 Inyo,111,U.S. Senate,,REP,George C. Yang,7
 Inyo,111,U.S. Senate,,REP,Greg Conlon,3
 Inyo,111,U.S. Senate,,DEM,Herbert G. Peters,1
 Inyo,111,U.S. Senate,,REP,Jarrell Williamson,2
-Inyo,111,U.S. Senate,,IND,Jason Hanania,0
 Inyo,111,U.S. Senate,,IND,Jason Kraus,3
 Inyo,111,U.S. Senate,,REP,Jerry J. Laws,7
-Inyo,111,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,111,U.S. Senate,,DEM,Kamala D. Harris,54
 Inyo,111,U.S. Senate,,REP,Karen Roseberry,3
 Inyo,111,U.S. Senate,,IND,Ling Ling Shi,1
 Inyo,111,U.S. Senate,,DEM,Loretta L. Sanchez,12
 Inyo,111,U.S. Senate,,LIB,Mark Matthew Herd,1
 Inyo,111,U.S. Senate,,DEM,Massie Munroe,1
-Inyo,111,U.S. Senate,,IND,Mike Beitiks,0
-Inyo,111,U.S. Senate,,GRN,Pamela Elizondo,0
 Inyo,111,U.S. Senate,,IND,Paul Merritt,1
 Inyo,111,U.S. Senate,,REP,Phil Wyman,81
 Inyo,111,U.S. Senate,,DEM,President Cristina Grappo,2
 Inyo,111,U.S. Senate,,REP,Ron Unz,1
-Inyo,111,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,111,U.S. Senate,,DEM,Steve Stokes,3
 Inyo,111,U.S. Senate,,REP,Thomas G. Del Beccaro,10
 Inyo,111,U.S. Senate,,IND,Tim Gildersleeve,1
@@ -895,39 +507,16 @@ Inyo,112,President,,AIP,Arthur Harris,1
 Inyo,112,President,,LIB,Austin Petersen,1
 Inyo,112,President,,REP,Ben Carson,5
 Inyo,112,President,,DEM,Bernie Sanders,81
-Inyo,112,President,,LIB,Cecil Ince,0
-Inyo,112,President,,GRN,Darryl Cherney,0
-Inyo,112,President,,LIB,Darryl W. Perry,0
-Inyo,112,President,,LIB,Derrick M. Reid,0
 Inyo,112,President,,REP,Donald Trump,116
-Inyo,112,President,,LIB,Gary Johnson,0
-Inyo,112,President,,PAF,Gloria Estela La Riva,0
 Inyo,112,President,,DEM,Henry Hewes,1
 Inyo,112,President,,DEM,Hillary Clinton,68
-Inyo,112,President,,AIP,J.R. Myers,0
-Inyo,112,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,112,President,,AIP,James Hedges,0
 Inyo,112,President,,GRN,Jill Stein,1
 Inyo,112,President,,REP,Jim Gilmore,2
-Inyo,112,President,,LIB,John Hale,0
 Inyo,112,President,,LIB,John McAfee,2
 Inyo,112,President,,REP,John R. Kasich,7
-Inyo,112,President,,LIB,Joy Waymire,0
-Inyo,112,President,,DEM,Keith Judd,0
-Inyo,112,President,,GRN,Kent Mesplay,0
-Inyo,112,President,,PAF,Lynn S. Kahn,0
-Inyo,112,President,,LIB,Marc Feldman,0
 Inyo,112,President,,DEM,Michael Steinberg,1
-Inyo,112,President,,PAF,Monica Moorehead,0
-Inyo,112,President,,LIB,Rhett White Feather Smith,0
 Inyo,112,President,,AIP,Robert Ornelas,1
-Inyo,112,President,,DEM,Roque De La Fuente,0
-Inyo,112,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,112,President,,LIB,Steve Kerbel,0
 Inyo,112,President,,REP,Ted Cruz,10
-Inyo,112,President,,AIP,Thomas Hoefling,0
-Inyo,112,President,,AIP,Wiley Drake,0
-Inyo,112,President,,GRN,William Kreml,0
 Inyo,112,President,,DEM,Willie Wilson,1
 Inyo,112,State Assembly,26,REP,Devon Mathis,118
 Inyo,112,State Assembly,26,DEM,Ruben Macareno,111
@@ -938,13 +527,10 @@ Inyo,112,U.S. House,8,DEM,Rita Ramirez,66
 Inyo,112,U.S. House,8,DEM,Roger La Plante,22
 Inyo,112,U.S. House,8,REP,Tim Donnelly,50
 Inyo,112,U.S. Senate,,IND,Clive Grey,1
-Inyo,112,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,112,U.S. Senate,,REP,Don Krampe,4
 Inyo,112,U.S. Senate,,REP,Duf Sundheim,11
 Inyo,112,U.S. Senate,,IND,Eleanor García,4
-Inyo,112,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,112,U.S. Senate,,LIB,Gail K. Lightfoot,12
-Inyo,112,U.S. Senate,,IND,Gar Myers,0
 Inyo,112,U.S. Senate,,REP,George C. Yang,3
 Inyo,112,U.S. Senate,,REP,Greg Conlon,12
 Inyo,112,U.S. Senate,,DEM,Herbert G. Peters,4
@@ -952,10 +538,8 @@ Inyo,112,U.S. Senate,,REP,Jarrell Williamson,3
 Inyo,112,U.S. Senate,,IND,Jason Hanania,1
 Inyo,112,U.S. Senate,,IND,Jason Kraus,3
 Inyo,112,U.S. Senate,,REP,Jerry J. Laws,7
-Inyo,112,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,112,U.S. Senate,,DEM,Kamala D. Harris,74
 Inyo,112,U.S. Senate,,REP,Karen Roseberry,12
-Inyo,112,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,112,U.S. Senate,,DEM,Loretta L. Sanchez,56
 Inyo,112,U.S. Senate,,LIB,Mark Matthew Herd,3
 Inyo,112,U.S. Senate,,DEM,Massie Munroe,4
@@ -964,52 +548,23 @@ Inyo,112,U.S. Senate,,GRN,Pamela Elizondo,1
 Inyo,112,U.S. Senate,,IND,Paul Merritt,2
 Inyo,112,U.S. Senate,,REP,Phil Wyman,63
 Inyo,112,U.S. Senate,,DEM,President Cristina Grappo,2
-Inyo,112,U.S. Senate,,REP,Ron Unz,0
-Inyo,112,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,112,U.S. Senate,,DEM,Steve Stokes,2
 Inyo,112,U.S. Senate,,REP,Thomas G. Del Beccaro,9
 Inyo,112,U.S. Senate,,IND,Tim Gildersleeve,1
 Inyo,112,U.S. Senate,,REP,Tom Palzer,16
 Inyo,112,U.S. Senate,,REP,Von Hougo,3
 Inyo,113,President,,AIP,Alan Spears,1
-Inyo,113,President,,AIP,Arthur Harris,0
 Inyo,113,President,,LIB,Austin Petersen,2
 Inyo,113,President,,REP,Ben Carson,7
 Inyo,113,President,,DEM,Bernie Sanders,46
-Inyo,113,President,,LIB,Cecil Ince,0
-Inyo,113,President,,GRN,Darryl Cherney,0
-Inyo,113,President,,LIB,Darryl W. Perry,0
-Inyo,113,President,,LIB,Derrick M. Reid,0
 Inyo,113,President,,REP,Donald Trump,61
 Inyo,113,President,,LIB,Gary Johnson,1
-Inyo,113,President,,PAF,Gloria Estela La Riva,0
-Inyo,113,President,,DEM,Henry Hewes,0
 Inyo,113,President,,DEM,Hillary Clinton,40
-Inyo,113,President,,AIP,J.R. Myers,0
 Inyo,113,President,,LIB,"Jack Robinson, Jr.",1
-Inyo,113,President,,AIP,James Hedges,0
-Inyo,113,President,,GRN,Jill Stein,0
-Inyo,113,President,,REP,Jim Gilmore,0
-Inyo,113,President,,LIB,John Hale,0
-Inyo,113,President,,LIB,John McAfee,0
 Inyo,113,President,,REP,John R. Kasich,15
-Inyo,113,President,,LIB,Joy Waymire,0
-Inyo,113,President,,DEM,Keith Judd,0
-Inyo,113,President,,GRN,Kent Mesplay,0
-Inyo,113,President,,PAF,Lynn S. Kahn,0
-Inyo,113,President,,LIB,Marc Feldman,0
-Inyo,113,President,,DEM,Michael Steinberg,0
-Inyo,113,President,,PAF,Monica Moorehead,0
 Inyo,113,President,,LIB,Rhett White Feather Smith,1
 Inyo,113,President,,AIP,Robert Ornelas,2
-Inyo,113,President,,DEM,Roque De La Fuente,0
-Inyo,113,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,113,President,,LIB,Steve Kerbel,0
 Inyo,113,President,,REP,Ted Cruz,4
-Inyo,113,President,,AIP,Thomas Hoefling,0
-Inyo,113,President,,AIP,Wiley Drake,0
-Inyo,113,President,,GRN,William Kreml,0
-Inyo,113,President,,DEM,Willie Wilson,0
 Inyo,113,State Assembly,26,REP,Devon Mathis,96
 Inyo,113,State Assembly,26,DEM,Ruben Macareno,73
 Inyo,113,State Assembly,26,REP,Rudy Mendoza,24
@@ -1018,30 +573,19 @@ Inyo,113,U.S. House,8,REP,Paul Cook,95
 Inyo,113,U.S. House,8,DEM,Rita Ramirez,51
 Inyo,113,U.S. House,8,DEM,Roger La Plante,11
 Inyo,113,U.S. House,8,REP,Tim Donnelly,36
-Inyo,113,U.S. Senate,,IND,Clive Grey,0
-Inyo,113,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,113,U.S. Senate,,REP,Don Krampe,4
 Inyo,113,U.S. Senate,,REP,Duf Sundheim,10
-Inyo,113,U.S. Senate,,IND,Eleanor García,0
-Inyo,113,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,113,U.S. Senate,,LIB,Gail K. Lightfoot,5
-Inyo,113,U.S. Senate,,IND,Gar Myers,0
 Inyo,113,U.S. Senate,,REP,George C. Yang,2
 Inyo,113,U.S. Senate,,REP,Greg Conlon,11
 Inyo,113,U.S. Senate,,DEM,Herbert G. Peters,1
-Inyo,113,U.S. Senate,,REP,Jarrell Williamson,0
 Inyo,113,U.S. Senate,,IND,Jason Hanania,1
-Inyo,113,U.S. Senate,,IND,Jason Kraus,0
 Inyo,113,U.S. Senate,,REP,Jerry J. Laws,5
-Inyo,113,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,113,U.S. Senate,,DEM,Kamala D. Harris,60
 Inyo,113,U.S. Senate,,REP,Karen Roseberry,4
-Inyo,113,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,113,U.S. Senate,,DEM,Loretta L. Sanchez,13
 Inyo,113,U.S. Senate,,LIB,Mark Matthew Herd,1
 Inyo,113,U.S. Senate,,DEM,Massie Munroe,2
-Inyo,113,U.S. Senate,,IND,Mike Beitiks,0
-Inyo,113,U.S. Senate,,GRN,Pamela Elizondo,0
 Inyo,113,U.S. Senate,,IND,Paul Merritt,3
 Inyo,113,U.S. Senate,,REP,Phil Wyman,38
 Inyo,113,U.S. Senate,,DEM,President Cristina Grappo,5
@@ -1049,48 +593,12 @@ Inyo,113,U.S. Senate,,REP,Ron Unz,2
 Inyo,113,U.S. Senate,,IND,Scott A. Vineberg,3
 Inyo,113,U.S. Senate,,DEM,Steve Stokes,2
 Inyo,113,U.S. Senate,,REP,Thomas G. Del Beccaro,2
-Inyo,113,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,113,U.S. Senate,,REP,Tom Palzer,10
 Inyo,113,U.S. Senate,,REP,Von Hougo,5
-Inyo,114,President,,AIP,Alan Spears,0
-Inyo,114,President,,AIP,Arthur Harris,0
-Inyo,114,President,,LIB,Austin Petersen,0
 Inyo,114,President,,REP,Ben Carson,2
 Inyo,114,President,,DEM,Bernie Sanders,9
-Inyo,114,President,,LIB,Cecil Ince,0
-Inyo,114,President,,GRN,Darryl Cherney,0
-Inyo,114,President,,LIB,Darryl W. Perry,0
-Inyo,114,President,,LIB,Derrick M. Reid,0
 Inyo,114,President,,REP,Donald Trump,11
-Inyo,114,President,,LIB,Gary Johnson,0
-Inyo,114,President,,PAF,Gloria Estela La Riva,0
-Inyo,114,President,,DEM,Henry Hewes,0
 Inyo,114,President,,DEM,Hillary Clinton,14
-Inyo,114,President,,AIP,J.R. Myers,0
-Inyo,114,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,114,President,,AIP,James Hedges,0
-Inyo,114,President,,GRN,Jill Stein,0
-Inyo,114,President,,REP,Jim Gilmore,0
-Inyo,114,President,,LIB,John Hale,0
-Inyo,114,President,,LIB,John McAfee,0
-Inyo,114,President,,REP,John R. Kasich,0
-Inyo,114,President,,LIB,Joy Waymire,0
-Inyo,114,President,,DEM,Keith Judd,0
-Inyo,114,President,,GRN,Kent Mesplay,0
-Inyo,114,President,,PAF,Lynn S. Kahn,0
-Inyo,114,President,,LIB,Marc Feldman,0
-Inyo,114,President,,DEM,Michael Steinberg,0
-Inyo,114,President,,PAF,Monica Moorehead,0
-Inyo,114,President,,LIB,Rhett White Feather Smith,0
-Inyo,114,President,,AIP,Robert Ornelas,0
-Inyo,114,President,,DEM,Roque De La Fuente,0
-Inyo,114,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,114,President,,LIB,Steve Kerbel,0
-Inyo,114,President,,REP,Ted Cruz,0
-Inyo,114,President,,AIP,Thomas Hoefling,0
-Inyo,114,President,,AIP,Wiley Drake,0
-Inyo,114,President,,GRN,William Kreml,0
-Inyo,114,President,,DEM,Willie Wilson,0
 Inyo,114,State Assembly,26,REP,Devon Mathis,14
 Inyo,114,State Assembly,26,DEM,Ruben Macareno,16
 Inyo,114,State Assembly,26,REP,Rudy Mendoza,6
@@ -1100,77 +608,28 @@ Inyo,114,U.S. House,8,DEM,Rita Ramirez,15
 Inyo,114,U.S. House,8,DEM,Roger La Plante,4
 Inyo,114,U.S. House,8,REP,Tim Donnelly,6
 Inyo,114,U.S. Senate,,IND,Clive Grey,1
-Inyo,114,U.S. Senate,,IND,Don J. Grundmann,0
-Inyo,114,U.S. Senate,,REP,Don Krampe,0
 Inyo,114,U.S. Senate,,REP,Duf Sundheim,3
 Inyo,114,U.S. Senate,,IND,Eleanor García,1
-Inyo,114,U.S. Senate,,DEM,Emory Rodgers,0
-Inyo,114,U.S. Senate,,LIB,Gail K. Lightfoot,0
-Inyo,114,U.S. Senate,,IND,Gar Myers,0
-Inyo,114,U.S. Senate,,REP,George C. Yang,0
 Inyo,114,U.S. Senate,,REP,Greg Conlon,4
-Inyo,114,U.S. Senate,,DEM,Herbert G. Peters,0
-Inyo,114,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,114,U.S. Senate,,IND,Jason Hanania,0
-Inyo,114,U.S. Senate,,IND,Jason Kraus,0
 Inyo,114,U.S. Senate,,REP,Jerry J. Laws,1
-Inyo,114,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,114,U.S. Senate,,DEM,Kamala D. Harris,16
-Inyo,114,U.S. Senate,,REP,Karen Roseberry,0
-Inyo,114,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,114,U.S. Senate,,DEM,Loretta L. Sanchez,5
-Inyo,114,U.S. Senate,,LIB,Mark Matthew Herd,0
-Inyo,114,U.S. Senate,,DEM,Massie Munroe,0
-Inyo,114,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,114,U.S. Senate,,GRN,Pamela Elizondo,1
 Inyo,114,U.S. Senate,,IND,Paul Merritt,1
 Inyo,114,U.S. Senate,,REP,Phil Wyman,2
-Inyo,114,U.S. Senate,,DEM,President Cristina Grappo,0
 Inyo,114,U.S. Senate,,REP,Ron Unz,1
-Inyo,114,U.S. Senate,,IND,Scott A. Vineberg,0
-Inyo,114,U.S. Senate,,DEM,Steve Stokes,0
 Inyo,114,U.S. Senate,,REP,Thomas G. Del Beccaro,2
-Inyo,114,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,114,U.S. Senate,,REP,Tom Palzer,3
-Inyo,114,U.S. Senate,,REP,Von Hougo,0
-Inyo,115,President,,AIP,Alan Spears,0
 Inyo,115,President,,AIP,Arthur Harris,1
-Inyo,115,President,,LIB,Austin Petersen,0
 Inyo,115,President,,REP,Ben Carson,5
 Inyo,115,President,,DEM,Bernie Sanders,48
-Inyo,115,President,,LIB,Cecil Ince,0
-Inyo,115,President,,GRN,Darryl Cherney,0
-Inyo,115,President,,LIB,Darryl W. Perry,0
-Inyo,115,President,,LIB,Derrick M. Reid,0
 Inyo,115,President,,REP,Donald Trump,70
 Inyo,115,President,,LIB,Gary Johnson,1
-Inyo,115,President,,PAF,Gloria Estela La Riva,0
-Inyo,115,President,,DEM,Henry Hewes,0
 Inyo,115,President,,DEM,Hillary Clinton,49
 Inyo,115,President,,AIP,J.R. Myers,3
-Inyo,115,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,115,President,,AIP,James Hedges,0
-Inyo,115,President,,GRN,Jill Stein,0
-Inyo,115,President,,REP,Jim Gilmore,0
-Inyo,115,President,,LIB,John Hale,0
-Inyo,115,President,,LIB,John McAfee,0
 Inyo,115,President,,REP,John R. Kasich,13
-Inyo,115,President,,LIB,Joy Waymire,0
-Inyo,115,President,,DEM,Keith Judd,0
-Inyo,115,President,,GRN,Kent Mesplay,0
-Inyo,115,President,,PAF,Lynn S. Kahn,0
-Inyo,115,President,,LIB,Marc Feldman,0
 Inyo,115,President,,DEM,Michael Steinberg,1
-Inyo,115,President,,PAF,Monica Moorehead,0
-Inyo,115,President,,LIB,Rhett White Feather Smith,0
-Inyo,115,President,,AIP,Robert Ornelas,0
-Inyo,115,President,,DEM,Roque De La Fuente,0
-Inyo,115,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,115,President,,LIB,Steve Kerbel,0
 Inyo,115,President,,REP,Ted Cruz,6
-Inyo,115,President,,AIP,Thomas Hoefling,0
-Inyo,115,President,,AIP,Wiley Drake,0
-Inyo,115,President,,GRN,William Kreml,0
 Inyo,115,President,,DEM,Willie Wilson,1
 Inyo,115,State Assembly,26,REP,Devon Mathis,98
 Inyo,115,State Assembly,26,DEM,Ruben Macareno,78
@@ -1182,26 +641,20 @@ Inyo,115,U.S. House,8,DEM,Roger La Plante,16
 Inyo,115,U.S. House,8,REP,Tim Donnelly,26
 Inyo,115,U.S. Senate,,IND,Clive Grey,3
 Inyo,115,U.S. Senate,,IND,Don J. Grundmann,1
-Inyo,115,U.S. Senate,,REP,Don Krampe,0
 Inyo,115,U.S. Senate,,REP,Duf Sundheim,21
-Inyo,115,U.S. Senate,,IND,Eleanor García,0
 Inyo,115,U.S. Senate,,DEM,Emory Rodgers,1
 Inyo,115,U.S. Senate,,LIB,Gail K. Lightfoot,5
-Inyo,115,U.S. Senate,,IND,Gar Myers,0
 Inyo,115,U.S. Senate,,REP,George C. Yang,4
 Inyo,115,U.S. Senate,,REP,Greg Conlon,3
 Inyo,115,U.S. Senate,,DEM,Herbert G. Peters,5
 Inyo,115,U.S. Senate,,REP,Jarrell Williamson,1
-Inyo,115,U.S. Senate,,IND,Jason Hanania,0
 Inyo,115,U.S. Senate,,IND,Jason Kraus,2
 Inyo,115,U.S. Senate,,REP,Jerry J. Laws,3
 Inyo,115,U.S. Senate,,PAF,John Thompson Parker,1
 Inyo,115,U.S. Senate,,DEM,Kamala D. Harris,75
 Inyo,115,U.S. Senate,,REP,Karen Roseberry,3
-Inyo,115,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,115,U.S. Senate,,DEM,Loretta L. Sanchez,23
 Inyo,115,U.S. Senate,,LIB,Mark Matthew Herd,1
-Inyo,115,U.S. Senate,,DEM,Massie Munroe,0
 Inyo,115,U.S. Senate,,IND,Mike Beitiks,2
 Inyo,115,U.S. Senate,,GRN,Pamela Elizondo,1
 Inyo,115,U.S. Senate,,IND,Paul Merritt,1
@@ -1216,42 +669,18 @@ Inyo,115,U.S. Senate,,REP,Tom Palzer,8
 Inyo,115,U.S. Senate,,REP,Von Hougo,1
 Inyo,116,President,,AIP,Alan Spears,2
 Inyo,116,President,,AIP,Arthur Harris,2
-Inyo,116,President,,LIB,Austin Petersen,0
 Inyo,116,President,,REP,Ben Carson,3
 Inyo,116,President,,DEM,Bernie Sanders,57
-Inyo,116,President,,LIB,Cecil Ince,0
-Inyo,116,President,,GRN,Darryl Cherney,0
-Inyo,116,President,,LIB,Darryl W. Perry,0
-Inyo,116,President,,LIB,Derrick M. Reid,0
 Inyo,116,President,,REP,Donald Trump,67
-Inyo,116,President,,LIB,Gary Johnson,0
 Inyo,116,President,,PAF,Gloria Estela La Riva,2
-Inyo,116,President,,DEM,Henry Hewes,0
 Inyo,116,President,,DEM,Hillary Clinton,48
 Inyo,116,President,,AIP,J.R. Myers,1
-Inyo,116,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,116,President,,AIP,James Hedges,0
 Inyo,116,President,,GRN,Jill Stein,1
-Inyo,116,President,,REP,Jim Gilmore,0
-Inyo,116,President,,LIB,John Hale,0
-Inyo,116,President,,LIB,John McAfee,0
 Inyo,116,President,,REP,John R. Kasich,5
 Inyo,116,President,,LIB,Joy Waymire,1
 Inyo,116,President,,DEM,Keith Judd,2
-Inyo,116,President,,GRN,Kent Mesplay,0
-Inyo,116,President,,PAF,Lynn S. Kahn,0
-Inyo,116,President,,LIB,Marc Feldman,0
-Inyo,116,President,,DEM,Michael Steinberg,0
-Inyo,116,President,,PAF,Monica Moorehead,0
-Inyo,116,President,,LIB,Rhett White Feather Smith,0
 Inyo,116,President,,AIP,Robert Ornelas,1
-Inyo,116,President,,DEM,Roque De La Fuente,0
-Inyo,116,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,116,President,,LIB,Steve Kerbel,0
 Inyo,116,President,,REP,Ted Cruz,6
-Inyo,116,President,,AIP,Thomas Hoefling,0
-Inyo,116,President,,AIP,Wiley Drake,0
-Inyo,116,President,,GRN,William Kreml,0
 Inyo,116,President,,DEM,Willie Wilson,2
 Inyo,116,State Assembly,26,REP,Devon Mathis,73
 Inyo,116,State Assembly,26,DEM,Ruben Macareno,95
@@ -1262,19 +691,15 @@ Inyo,116,U.S. House,8,DEM,Rita Ramirez,55
 Inyo,116,U.S. House,8,DEM,Roger La Plante,21
 Inyo,116,U.S. House,8,REP,Tim Donnelly,28
 Inyo,116,U.S. Senate,,IND,Clive Grey,2
-Inyo,116,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,116,U.S. Senate,,REP,Don Krampe,2
 Inyo,116,U.S. Senate,,REP,Duf Sundheim,5
 Inyo,116,U.S. Senate,,IND,Eleanor García,3
 Inyo,116,U.S. Senate,,DEM,Emory Rodgers,2
 Inyo,116,U.S. Senate,,LIB,Gail K. Lightfoot,4
-Inyo,116,U.S. Senate,,IND,Gar Myers,0
 Inyo,116,U.S. Senate,,REP,George C. Yang,1
 Inyo,116,U.S. Senate,,REP,Greg Conlon,3
 Inyo,116,U.S. Senate,,DEM,Herbert G. Peters,2
-Inyo,116,U.S. Senate,,REP,Jarrell Williamson,0
 Inyo,116,U.S. Senate,,IND,Jason Hanania,1
-Inyo,116,U.S. Senate,,IND,Jason Kraus,0
 Inyo,116,U.S. Senate,,REP,Jerry J. Laws,1
 Inyo,116,U.S. Senate,,PAF,John Thompson Parker,3
 Inyo,116,U.S. Senate,,DEM,Kamala D. Harris,55
@@ -1282,57 +707,26 @@ Inyo,116,U.S. Senate,,REP,Karen Roseberry,4
 Inyo,116,U.S. Senate,,IND,Ling Ling Shi,1
 Inyo,116,U.S. Senate,,DEM,Loretta L. Sanchez,38
 Inyo,116,U.S. Senate,,LIB,Mark Matthew Herd,1
-Inyo,116,U.S. Senate,,DEM,Massie Munroe,0
-Inyo,116,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,116,U.S. Senate,,GRN,Pamela Elizondo,2
-Inyo,116,U.S. Senate,,IND,Paul Merritt,0
 Inyo,116,U.S. Senate,,REP,Phil Wyman,43
 Inyo,116,U.S. Senate,,DEM,President Cristina Grappo,2
-Inyo,116,U.S. Senate,,REP,Ron Unz,0
-Inyo,116,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,116,U.S. Senate,,DEM,Steve Stokes,11
 Inyo,116,U.S. Senate,,REP,Thomas G. Del Beccaro,13
-Inyo,116,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,116,U.S. Senate,,REP,Tom Palzer,8
 Inyo,116,U.S. Senate,,REP,Von Hougo,4
-Inyo,117,President,,AIP,Alan Spears,0
 Inyo,117,President,,AIP,Arthur Harris,2
-Inyo,117,President,,LIB,Austin Petersen,0
 Inyo,117,President,,REP,Ben Carson,4
 Inyo,117,President,,DEM,Bernie Sanders,62
-Inyo,117,President,,LIB,Cecil Ince,0
-Inyo,117,President,,GRN,Darryl Cherney,0
-Inyo,117,President,,LIB,Darryl W. Perry,0
-Inyo,117,President,,LIB,Derrick M. Reid,0
 Inyo,117,President,,REP,Donald Trump,88
 Inyo,117,President,,LIB,Gary Johnson,1
-Inyo,117,President,,PAF,Gloria Estela La Riva,0
-Inyo,117,President,,DEM,Henry Hewes,0
 Inyo,117,President,,DEM,Hillary Clinton,62
-Inyo,117,President,,AIP,J.R. Myers,0
-Inyo,117,President,,LIB,"Jack Robinson, Jr.",0
 Inyo,117,President,,AIP,James Hedges,4
-Inyo,117,President,,GRN,Jill Stein,0
-Inyo,117,President,,REP,Jim Gilmore,0
-Inyo,117,President,,LIB,John Hale,0
-Inyo,117,President,,LIB,John McAfee,0
 Inyo,117,President,,REP,John R. Kasich,8
-Inyo,117,President,,LIB,Joy Waymire,0
 Inyo,117,President,,DEM,Keith Judd,1
-Inyo,117,President,,GRN,Kent Mesplay,0
-Inyo,117,President,,PAF,Lynn S. Kahn,0
-Inyo,117,President,,LIB,Marc Feldman,0
-Inyo,117,President,,DEM,Michael Steinberg,0
-Inyo,117,President,,PAF,Monica Moorehead,0
 Inyo,117,President,,LIB,Rhett White Feather Smith,2
-Inyo,117,President,,AIP,Robert Ornelas,0
-Inyo,117,President,,DEM,Roque De La Fuente,0
 Inyo,117,President,,GRN,Sedinam Moyowasifsa-Curry,1
-Inyo,117,President,,LIB,Steve Kerbel,0
 Inyo,117,President,,REP,Ted Cruz,9
 Inyo,117,President,,AIP,Thomas Hoefling,2
-Inyo,117,President,,AIP,Wiley Drake,0
-Inyo,117,President,,GRN,William Kreml,0
 Inyo,117,President,,DEM,Willie Wilson,1
 Inyo,117,State Assembly,26,REP,Devon Mathis,111
 Inyo,117,State Assembly,26,DEM,Ruben Macareno,103
@@ -1349,72 +743,37 @@ Inyo,117,U.S. Senate,,REP,Duf Sundheim,15
 Inyo,117,U.S. Senate,,IND,Eleanor García,4
 Inyo,117,U.S. Senate,,DEM,Emory Rodgers,3
 Inyo,117,U.S. Senate,,LIB,Gail K. Lightfoot,10
-Inyo,117,U.S. Senate,,IND,Gar Myers,0
 Inyo,117,U.S. Senate,,REP,George C. Yang,1
 Inyo,117,U.S. Senate,,REP,Greg Conlon,9
 Inyo,117,U.S. Senate,,DEM,Herbert G. Peters,3
-Inyo,117,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,117,U.S. Senate,,IND,Jason Hanania,0
 Inyo,117,U.S. Senate,,IND,Jason Kraus,2
 Inyo,117,U.S. Senate,,REP,Jerry J. Laws,4
 Inyo,117,U.S. Senate,,PAF,John Thompson Parker,1
 Inyo,117,U.S. Senate,,DEM,Kamala D. Harris,77
 Inyo,117,U.S. Senate,,REP,Karen Roseberry,1
-Inyo,117,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,117,U.S. Senate,,DEM,Loretta L. Sanchez,30
 Inyo,117,U.S. Senate,,LIB,Mark Matthew Herd,1
 Inyo,117,U.S. Senate,,DEM,Massie Munroe,4
 Inyo,117,U.S. Senate,,IND,Mike Beitiks,1
-Inyo,117,U.S. Senate,,GRN,Pamela Elizondo,0
 Inyo,117,U.S. Senate,,IND,Paul Merritt,2
 Inyo,117,U.S. Senate,,REP,Phil Wyman,58
 Inyo,117,U.S. Senate,,DEM,President Cristina Grappo,3
-Inyo,117,U.S. Senate,,REP,Ron Unz,0
-Inyo,117,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,117,U.S. Senate,,DEM,Steve Stokes,9
 Inyo,117,U.S. Senate,,REP,Thomas G. Del Beccaro,12
 Inyo,117,U.S. Senate,,IND,Tim Gildersleeve,4
 Inyo,117,U.S. Senate,,REP,Tom Palzer,13
 Inyo,117,U.S. Senate,,REP,Von Hougo,1
-Inyo,118,President,,AIP,Alan Spears,0
-Inyo,118,President,,AIP,Arthur Harris,0
-Inyo,118,President,,LIB,Austin Petersen,0
 Inyo,118,President,,REP,Ben Carson,1
 Inyo,118,President,,DEM,Bernie Sanders,26
-Inyo,118,President,,LIB,Cecil Ince,0
 Inyo,118,President,,GRN,Darryl Cherney,1
-Inyo,118,President,,LIB,Darryl W. Perry,0
-Inyo,118,President,,LIB,Derrick M. Reid,0
 Inyo,118,President,,REP,Donald Trump,6
 Inyo,118,President,,LIB,Gary Johnson,1
 Inyo,118,President,,PAF,Gloria Estela La Riva,1
 Inyo,118,President,,DEM,Henry Hewes,2
 Inyo,118,President,,DEM,Hillary Clinton,6
-Inyo,118,President,,AIP,J.R. Myers,0
-Inyo,118,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,118,President,,AIP,James Hedges,0
 Inyo,118,President,,GRN,Jill Stein,1
-Inyo,118,President,,REP,Jim Gilmore,0
-Inyo,118,President,,LIB,John Hale,0
-Inyo,118,President,,LIB,John McAfee,0
-Inyo,118,President,,REP,John R. Kasich,0
-Inyo,118,President,,LIB,Joy Waymire,0
-Inyo,118,President,,DEM,Keith Judd,0
-Inyo,118,President,,GRN,Kent Mesplay,0
-Inyo,118,President,,PAF,Lynn S. Kahn,0
-Inyo,118,President,,LIB,Marc Feldman,0
-Inyo,118,President,,DEM,Michael Steinberg,0
-Inyo,118,President,,PAF,Monica Moorehead,0
-Inyo,118,President,,LIB,Rhett White Feather Smith,0
-Inyo,118,President,,AIP,Robert Ornelas,0
 Inyo,118,President,,DEM,Roque De La Fuente,1
-Inyo,118,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,118,President,,LIB,Steve Kerbel,0
 Inyo,118,President,,REP,Ted Cruz,3
-Inyo,118,President,,AIP,Thomas Hoefling,0
-Inyo,118,President,,AIP,Wiley Drake,0
-Inyo,118,President,,GRN,William Kreml,0
-Inyo,118,President,,DEM,Willie Wilson,0
 Inyo,118,State Assembly,26,REP,Devon Mathis,13
 Inyo,118,State Assembly,26,DEM,Ruben Macareno,35
 Inyo,118,State Assembly,26,REP,Rudy Mendoza,5
@@ -1424,78 +783,32 @@ Inyo,118,U.S. House,8,DEM,Rita Ramirez,23
 Inyo,118,U.S. House,8,DEM,Roger La Plante,6
 Inyo,118,U.S. House,8,REP,Tim Donnelly,6
 Inyo,118,U.S. Senate,,IND,Clive Grey,1
-Inyo,118,U.S. Senate,,IND,Don J. Grundmann,0
-Inyo,118,U.S. Senate,,REP,Don Krampe,0
 Inyo,118,U.S. Senate,,REP,Duf Sundheim,5
-Inyo,118,U.S. Senate,,IND,Eleanor García,0
-Inyo,118,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,118,U.S. Senate,,LIB,Gail K. Lightfoot,4
 Inyo,118,U.S. Senate,,IND,Gar Myers,1
 Inyo,118,U.S. Senate,,REP,George C. Yang,1
 Inyo,118,U.S. Senate,,REP,Greg Conlon,1
-Inyo,118,U.S. Senate,,DEM,Herbert G. Peters,0
 Inyo,118,U.S. Senate,,REP,Jarrell Williamson,1
-Inyo,118,U.S. Senate,,IND,Jason Hanania,0
-Inyo,118,U.S. Senate,,IND,Jason Kraus,0
-Inyo,118,U.S. Senate,,REP,Jerry J. Laws,0
 Inyo,118,U.S. Senate,,PAF,John Thompson Parker,2
 Inyo,118,U.S. Senate,,DEM,Kamala D. Harris,21
 Inyo,118,U.S. Senate,,REP,Karen Roseberry,1
-Inyo,118,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,118,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Inyo,118,U.S. Senate,,LIB,Mark Matthew Herd,0
 Inyo,118,U.S. Senate,,DEM,Massie Munroe,1
-Inyo,118,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,118,U.S. Senate,,GRN,Pamela Elizondo,1
 Inyo,118,U.S. Senate,,IND,Paul Merritt,1
 Inyo,118,U.S. Senate,,REP,Phil Wyman,3
 Inyo,118,U.S. Senate,,DEM,President Cristina Grappo,2
-Inyo,118,U.S. Senate,,REP,Ron Unz,0
 Inyo,118,U.S. Senate,,IND,Scott A. Vineberg,2
-Inyo,118,U.S. Senate,,DEM,Steve Stokes,0
-Inyo,118,U.S. Senate,,REP,Thomas G. Del Beccaro,0
 Inyo,118,U.S. Senate,,IND,Tim Gildersleeve,1
 Inyo,118,U.S. Senate,,REP,Tom Palzer,1
-Inyo,118,U.S. Senate,,REP,Von Hougo,0
-Inyo,119,President,,AIP,Alan Spears,0
-Inyo,119,President,,AIP,Arthur Harris,0
-Inyo,119,President,,LIB,Austin Petersen,0
 Inyo,119,President,,REP,Ben Carson,3
 Inyo,119,President,,DEM,Bernie Sanders,23
-Inyo,119,President,,LIB,Cecil Ince,0
-Inyo,119,President,,GRN,Darryl Cherney,0
-Inyo,119,President,,LIB,Darryl W. Perry,0
-Inyo,119,President,,LIB,Derrick M. Reid,0
 Inyo,119,President,,REP,Donald Trump,63
-Inyo,119,President,,LIB,Gary Johnson,0
-Inyo,119,President,,PAF,Gloria Estela La Riva,0
-Inyo,119,President,,DEM,Henry Hewes,0
 Inyo,119,President,,DEM,Hillary Clinton,10
-Inyo,119,President,,AIP,J.R. Myers,0
-Inyo,119,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,119,President,,AIP,James Hedges,0
-Inyo,119,President,,GRN,Jill Stein,0
 Inyo,119,President,,REP,Jim Gilmore,1
-Inyo,119,President,,LIB,John Hale,0
-Inyo,119,President,,LIB,John McAfee,0
 Inyo,119,President,,REP,John R. Kasich,4
-Inyo,119,President,,LIB,Joy Waymire,0
-Inyo,119,President,,DEM,Keith Judd,0
-Inyo,119,President,,GRN,Kent Mesplay,0
-Inyo,119,President,,PAF,Lynn S. Kahn,0
-Inyo,119,President,,LIB,Marc Feldman,0
-Inyo,119,President,,DEM,Michael Steinberg,0
-Inyo,119,President,,PAF,Monica Moorehead,0
-Inyo,119,President,,LIB,Rhett White Feather Smith,0
-Inyo,119,President,,AIP,Robert Ornelas,0
-Inyo,119,President,,DEM,Roque De La Fuente,0
-Inyo,119,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,119,President,,LIB,Steve Kerbel,0
 Inyo,119,President,,REP,Ted Cruz,6
 Inyo,119,President,,AIP,Thomas Hoefling,1
-Inyo,119,President,,AIP,Wiley Drake,0
-Inyo,119,President,,GRN,William Kreml,0
-Inyo,119,President,,DEM,Willie Wilson,0
 Inyo,119,State Assembly,26,REP,Devon Mathis,56
 Inyo,119,State Assembly,26,DEM,Ruben Macareno,25
 Inyo,119,State Assembly,26,REP,Rudy Mendoza,26
@@ -1504,79 +817,26 @@ Inyo,119,U.S. House,8,REP,Paul Cook,61
 Inyo,119,U.S. House,8,DEM,Rita Ramirez,17
 Inyo,119,U.S. House,8,DEM,Roger La Plante,3
 Inyo,119,U.S. House,8,REP,Tim Donnelly,24
-Inyo,119,U.S. Senate,,IND,Clive Grey,0
-Inyo,119,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,119,U.S. Senate,,REP,Don Krampe,5
 Inyo,119,U.S. Senate,,REP,Duf Sundheim,5
-Inyo,119,U.S. Senate,,IND,Eleanor García,0
-Inyo,119,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,119,U.S. Senate,,LIB,Gail K. Lightfoot,4
-Inyo,119,U.S. Senate,,IND,Gar Myers,0
 Inyo,119,U.S. Senate,,REP,George C. Yang,4
 Inyo,119,U.S. Senate,,REP,Greg Conlon,6
-Inyo,119,U.S. Senate,,DEM,Herbert G. Peters,0
-Inyo,119,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,119,U.S. Senate,,IND,Jason Hanania,0
-Inyo,119,U.S. Senate,,IND,Jason Kraus,0
-Inyo,119,U.S. Senate,,REP,Jerry J. Laws,0
-Inyo,119,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,119,U.S. Senate,,DEM,Kamala D. Harris,14
 Inyo,119,U.S. Senate,,REP,Karen Roseberry,2
-Inyo,119,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,119,U.S. Senate,,DEM,Loretta L. Sanchez,10
-Inyo,119,U.S. Senate,,LIB,Mark Matthew Herd,0
-Inyo,119,U.S. Senate,,DEM,Massie Munroe,0
-Inyo,119,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,119,U.S. Senate,,GRN,Pamela Elizondo,4
-Inyo,119,U.S. Senate,,IND,Paul Merritt,0
 Inyo,119,U.S. Senate,,REP,Phil Wyman,34
-Inyo,119,U.S. Senate,,DEM,President Cristina Grappo,0
-Inyo,119,U.S. Senate,,REP,Ron Unz,0
-Inyo,119,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,119,U.S. Senate,,DEM,Steve Stokes,3
 Inyo,119,U.S. Senate,,REP,Thomas G. Del Beccaro,6
-Inyo,119,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,119,U.S. Senate,,REP,Tom Palzer,7
-Inyo,119,U.S. Senate,,REP,Von Hougo,0
-Inyo,120,President,,AIP,Alan Spears,0
-Inyo,120,President,,AIP,Arthur Harris,0
-Inyo,120,President,,LIB,Austin Petersen,0
-Inyo,120,President,,REP,Ben Carson,0
 Inyo,120,President,,DEM,Bernie Sanders,20
-Inyo,120,President,,LIB,Cecil Ince,0
-Inyo,120,President,,GRN,Darryl Cherney,0
-Inyo,120,President,,LIB,Darryl W. Perry,0
-Inyo,120,President,,LIB,Derrick M. Reid,0
 Inyo,120,President,,REP,Donald Trump,18
-Inyo,120,President,,LIB,Gary Johnson,0
-Inyo,120,President,,PAF,Gloria Estela La Riva,0
-Inyo,120,President,,DEM,Henry Hewes,0
 Inyo,120,President,,DEM,Hillary Clinton,23
-Inyo,120,President,,AIP,J.R. Myers,0
-Inyo,120,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,120,President,,AIP,James Hedges,0
 Inyo,120,President,,GRN,Jill Stein,1
 Inyo,120,President,,REP,Jim Gilmore,1
-Inyo,120,President,,LIB,John Hale,0
-Inyo,120,President,,LIB,John McAfee,0
 Inyo,120,President,,REP,John R. Kasich,3
-Inyo,120,President,,LIB,Joy Waymire,0
-Inyo,120,President,,DEM,Keith Judd,0
-Inyo,120,President,,GRN,Kent Mesplay,0
-Inyo,120,President,,PAF,Lynn S. Kahn,0
-Inyo,120,President,,LIB,Marc Feldman,0
-Inyo,120,President,,DEM,Michael Steinberg,0
-Inyo,120,President,,PAF,Monica Moorehead,0
-Inyo,120,President,,LIB,Rhett White Feather Smith,0
-Inyo,120,President,,AIP,Robert Ornelas,0
-Inyo,120,President,,DEM,Roque De La Fuente,0
-Inyo,120,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,120,President,,LIB,Steve Kerbel,0
-Inyo,120,President,,REP,Ted Cruz,0
 Inyo,120,President,,AIP,Thomas Hoefling,1
-Inyo,120,President,,AIP,Wiley Drake,0
-Inyo,120,President,,GRN,William Kreml,0
-Inyo,120,President,,DEM,Willie Wilson,0
 Inyo,120,State Assembly,26,REP,Devon Mathis,15
 Inyo,120,State Assembly,26,DEM,Ruben Macareno,46
 Inyo,120,State Assembly,26,REP,Rudy Mendoza,7
@@ -1586,78 +846,30 @@ Inyo,120,U.S. House,8,DEM,Rita Ramirez,26
 Inyo,120,U.S. House,8,DEM,Roger La Plante,10
 Inyo,120,U.S. House,8,REP,Tim Donnelly,3
 Inyo,120,U.S. Senate,,IND,Clive Grey,1
-Inyo,120,U.S. Senate,,IND,Don J. Grundmann,0
 Inyo,120,U.S. Senate,,REP,Don Krampe,1
-Inyo,120,U.S. Senate,,REP,Duf Sundheim,0
 Inyo,120,U.S. Senate,,IND,Eleanor García,1
 Inyo,120,U.S. Senate,,DEM,Emory Rodgers,2
 Inyo,120,U.S. Senate,,LIB,Gail K. Lightfoot,1
-Inyo,120,U.S. Senate,,IND,Gar Myers,0
 Inyo,120,U.S. Senate,,REP,George C. Yang,1
 Inyo,120,U.S. Senate,,REP,Greg Conlon,1
 Inyo,120,U.S. Senate,,DEM,Herbert G. Peters,2
-Inyo,120,U.S. Senate,,REP,Jarrell Williamson,0
-Inyo,120,U.S. Senate,,IND,Jason Hanania,0
-Inyo,120,U.S. Senate,,IND,Jason Kraus,0
-Inyo,120,U.S. Senate,,REP,Jerry J. Laws,0
-Inyo,120,U.S. Senate,,PAF,John Thompson Parker,0
 Inyo,120,U.S. Senate,,DEM,Kamala D. Harris,26
 Inyo,120,U.S. Senate,,REP,Karen Roseberry,1
-Inyo,120,U.S. Senate,,IND,Ling Ling Shi,0
 Inyo,120,U.S. Senate,,DEM,Loretta L. Sanchez,17
-Inyo,120,U.S. Senate,,LIB,Mark Matthew Herd,0
 Inyo,120,U.S. Senate,,DEM,Massie Munroe,1
-Inyo,120,U.S. Senate,,IND,Mike Beitiks,0
 Inyo,120,U.S. Senate,,GRN,Pamela Elizondo,1
-Inyo,120,U.S. Senate,,IND,Paul Merritt,0
 Inyo,120,U.S. Senate,,REP,Phil Wyman,8
 Inyo,120,U.S. Senate,,DEM,President Cristina Grappo,2
-Inyo,120,U.S. Senate,,REP,Ron Unz,0
-Inyo,120,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,120,U.S. Senate,,DEM,Steve Stokes,2
 Inyo,120,U.S. Senate,,REP,Thomas G. Del Beccaro,1
-Inyo,120,U.S. Senate,,IND,Tim Gildersleeve,0
 Inyo,120,U.S. Senate,,REP,Tom Palzer,4
-Inyo,120,U.S. Senate,,REP,Von Hougo,0
-Inyo,121,President,,AIP,Alan Spears,0
 Inyo,121,President,,AIP,Arthur Harris,1
-Inyo,121,President,,LIB,Austin Petersen,0
-Inyo,121,President,,REP,Ben Carson,0
 Inyo,121,President,,DEM,Bernie Sanders,33
-Inyo,121,President,,LIB,Cecil Ince,0
-Inyo,121,President,,GRN,Darryl Cherney,0
-Inyo,121,President,,LIB,Darryl W. Perry,0
-Inyo,121,President,,LIB,Derrick M. Reid,0
 Inyo,121,President,,REP,Donald Trump,9
-Inyo,121,President,,LIB,Gary Johnson,0
-Inyo,121,President,,PAF,Gloria Estela La Riva,0
-Inyo,121,President,,DEM,Henry Hewes,0
 Inyo,121,President,,DEM,Hillary Clinton,19
-Inyo,121,President,,AIP,J.R. Myers,0
-Inyo,121,President,,LIB,"Jack Robinson, Jr.",0
-Inyo,121,President,,AIP,James Hedges,0
 Inyo,121,President,,GRN,Jill Stein,1
-Inyo,121,President,,REP,Jim Gilmore,0
-Inyo,121,President,,LIB,John Hale,0
-Inyo,121,President,,LIB,John McAfee,0
 Inyo,121,President,,REP,John R. Kasich,1
-Inyo,121,President,,LIB,Joy Waymire,0
-Inyo,121,President,,DEM,Keith Judd,0
-Inyo,121,President,,GRN,Kent Mesplay,0
-Inyo,121,President,,PAF,Lynn S. Kahn,0
-Inyo,121,President,,LIB,Marc Feldman,0
-Inyo,121,President,,DEM,Michael Steinberg,0
-Inyo,121,President,,PAF,Monica Moorehead,0
-Inyo,121,President,,LIB,Rhett White Feather Smith,0
-Inyo,121,President,,AIP,Robert Ornelas,0
-Inyo,121,President,,DEM,Roque De La Fuente,0
-Inyo,121,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Inyo,121,President,,LIB,Steve Kerbel,0
 Inyo,121,President,,REP,Ted Cruz,1
-Inyo,121,President,,AIP,Thomas Hoefling,0
-Inyo,121,President,,AIP,Wiley Drake,0
-Inyo,121,President,,GRN,William Kreml,0
-Inyo,121,President,,DEM,Willie Wilson,0
 Inyo,121,State Assembly,26,REP,Devon Mathis,13
 Inyo,121,State Assembly,26,DEM,Ruben Macareno,48
 Inyo,121,State Assembly,26,REP,Rudy Mendoza,7
@@ -1666,37 +878,18 @@ Inyo,121,U.S. House,8,REP,Paul Cook,10
 Inyo,121,U.S. House,8,DEM,Rita Ramirez,33
 Inyo,121,U.S. House,8,DEM,Roger La Plante,8
 Inyo,121,U.S. House,8,REP,Tim Donnelly,10
-Inyo,121,U.S. Senate,,IND,Clive Grey,0
-Inyo,121,U.S. Senate,,IND,Don J. Grundmann,0
-Inyo,121,U.S. Senate,,REP,Don Krampe,0
 Inyo,121,U.S. Senate,,REP,Duf Sundheim,3
-Inyo,121,U.S. Senate,,IND,Eleanor García,0
-Inyo,121,U.S. Senate,,DEM,Emory Rodgers,0
 Inyo,121,U.S. Senate,,LIB,Gail K. Lightfoot,3
-Inyo,121,U.S. Senate,,IND,Gar Myers,0
-Inyo,121,U.S. Senate,,REP,George C. Yang,0
 Inyo,121,U.S. Senate,,REP,Greg Conlon,1
-Inyo,121,U.S. Senate,,DEM,Herbert G. Peters,0
-Inyo,121,U.S. Senate,,REP,Jarrell Williamson,0
 Inyo,121,U.S. Senate,,IND,Jason Hanania,1
-Inyo,121,U.S. Senate,,IND,Jason Kraus,0
-Inyo,121,U.S. Senate,,REP,Jerry J. Laws,0
 Inyo,121,U.S. Senate,,PAF,John Thompson Parker,1
 Inyo,121,U.S. Senate,,DEM,Kamala D. Harris,30
 Inyo,121,U.S. Senate,,REP,Karen Roseberry,2
 Inyo,121,U.S. Senate,,IND,Ling Ling Shi,2
 Inyo,121,U.S. Senate,,DEM,Loretta L. Sanchez,17
-Inyo,121,U.S. Senate,,LIB,Mark Matthew Herd,0
-Inyo,121,U.S. Senate,,DEM,Massie Munroe,0
 Inyo,121,U.S. Senate,,IND,Mike Beitiks,1
 Inyo,121,U.S. Senate,,GRN,Pamela Elizondo,3
-Inyo,121,U.S. Senate,,IND,Paul Merritt,0
 Inyo,121,U.S. Senate,,REP,Phil Wyman,2
 Inyo,121,U.S. Senate,,DEM,President Cristina Grappo,2
-Inyo,121,U.S. Senate,,REP,Ron Unz,0
-Inyo,121,U.S. Senate,,IND,Scott A. Vineberg,0
 Inyo,121,U.S. Senate,,DEM,Steve Stokes,1
 Inyo,121,U.S. Senate,,REP,Thomas G. Del Beccaro,2
-Inyo,121,U.S. Senate,,IND,Tim Gildersleeve,0
-Inyo,121,U.S. Senate,,REP,Tom Palzer,0
-Inyo,121,U.S. Senate,,REP,Von Hougo,0

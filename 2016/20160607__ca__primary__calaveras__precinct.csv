@@ -1,42 +1,18 @@
 county,precinct,office,district,party,candidate,votes
 Calaveras,110,President,,AIP,Alan Spears,1
-Calaveras,110,President,,AIP,Arthur Harris,0
 Calaveras,110,President,,LIB,Austin Petersen,1
 Calaveras,110,President,,REP,Ben Carson,6
 Calaveras,110,President,,DEM,Bernie Sanders,105
-Calaveras,110,President,,LIB,Cecil Ince,0
-Calaveras,110,President,,GRN,Darryl Cherney,0
-Calaveras,110,President,,LIB,Darryl W. Perry,0
-Calaveras,110,President,,LIB,Derrick M. Reid,0
 Calaveras,110,President,,REP,Donald Trump,165
 Calaveras,110,President,,LIB,Gary Johnson,3
-Calaveras,110,President,,PAF,Gloria Estela La Riva,0
-Calaveras,110,President,,DEM,Henry Hewes,0
 Calaveras,110,President,,DEM,Hillary Clinton,93
-Calaveras,110,President,,AIP,J.R. Myers,0
-Calaveras,110,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,110,President,,AIP,James Hedges,0
-Calaveras,110,President,,GRN,Jill Stein,0
 Calaveras,110,President,,REP,Jim Gilmore,2
-Calaveras,110,President,,LIB,John Hale,0
 Calaveras,110,President,,LIB,John McAfee,1
 Calaveras,110,President,,REP,John R. Kasich,15
-Calaveras,110,President,,LIB,Joy Waymire,0
-Calaveras,110,President,,DEM,Keith Judd,0
-Calaveras,110,President,,GRN,Kent Mesplay,0
-Calaveras,110,President,,PAF,Lynn S. Kahn,0
 Calaveras,110,President,,LIB,Marc Feldman,1
 Calaveras,110,President,,DEM,Michael Steinberg,1
-Calaveras,110,President,,PAF,Monica Moorehead,0
-Calaveras,110,President,,LIB,Rhett White Feather Smith,0
-Calaveras,110,President,,AIP,Robert Ornelas,0
-Calaveras,110,President,,DEM,Roque De La Fuente,0
-Calaveras,110,President,,GRN,Sedinam Moyowasifsa-Curry,0
 Calaveras,110,President,,LIB,Steve Kerbel,1
 Calaveras,110,President,,REP,Ted Cruz,15
-Calaveras,110,President,,AIP,Thomas Hoefling,0
-Calaveras,110,President,,AIP,Wiley Drake,0
-Calaveras,110,President,,GRN,William Kreml,0
 Calaveras,110,President,,DEM,Willie Wilson,3
 Calaveras,110,State Assembly,5,REP,Frank Bigelow,258
 Calaveras,110,State Assembly,5,DEM,Kai Ellsworth,33
@@ -50,12 +26,9 @@ Calaveras,110,U.S. Senate,,IND,Don J. Grundmann,2
 Calaveras,110,U.S. Senate,,REP,Don Krampe,12
 Calaveras,110,U.S. Senate,,REP,Duf Sundheim,36
 Calaveras,110,U.S. Senate,,IND,Eleanor García,1
-Calaveras,110,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,110,U.S. Senate,,LIB,Gail K. Lightfoot,12
-Calaveras,110,U.S. Senate,,IND,Gar Myers,0
 Calaveras,110,U.S. Senate,,REP,George C. Yang,4
 Calaveras,110,U.S. Senate,,REP,Greg Conlon,24
-Calaveras,110,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,110,U.S. Senate,,REP,Jarrell Williamson,8
 Calaveras,110,U.S. Senate,,IND,Jason Hanania,2
 Calaveras,110,U.S. Senate,,IND,Jason Kraus,5
@@ -63,7 +36,6 @@ Calaveras,110,U.S. Senate,,REP,Jerry J. Laws,3
 Calaveras,110,U.S. Senate,,PAF,John Thompson Parker,4
 Calaveras,110,U.S. Senate,,DEM,Kamala D. Harris,135
 Calaveras,110,U.S. Senate,,REP,Karen Roseberry,12
-Calaveras,110,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,110,U.S. Senate,,DEM,Loretta L. Sanchez,44
 Calaveras,110,U.S. Senate,,LIB,Mark Matthew Herd,8
 Calaveras,110,U.S. Senate,,DEM,Massie Munroe,1
@@ -71,7 +43,6 @@ Calaveras,110,U.S. Senate,,IND,Mike Beitiks,1
 Calaveras,110,U.S. Senate,,GRN,Pamela Elizondo,8
 Calaveras,110,U.S. Senate,,IND,Paul Merritt,6
 Calaveras,110,U.S. Senate,,REP,Phil Wyman,34
-Calaveras,110,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,110,U.S. Senate,,REP,Ron Unz,9
 Calaveras,110,U.S. Senate,,IND,Scott A. Vineberg,2
 Calaveras,110,U.S. Senate,,DEM,Steve Stokes,14
@@ -79,44 +50,21 @@ Calaveras,110,U.S. Senate,,REP,Thomas G. Del Beccaro,15
 Calaveras,110,U.S. Senate,,IND,Tim Gildersleeve,1
 Calaveras,110,U.S. Senate,,REP,Tom Palzer,9
 Calaveras,110,U.S. Senate,,REP,Von Hougo,4
-Calaveras,120,President,,AIP,Alan Spears,0
-Calaveras,120,President,,AIP,Arthur Harris,0
-Calaveras,120,President,,LIB,Austin Petersen,0
 Calaveras,120,President,,REP,Ben Carson,7
 Calaveras,120,President,,DEM,Bernie Sanders,120
-Calaveras,120,President,,LIB,Cecil Ince,0
-Calaveras,120,President,,GRN,Darryl Cherney,0
-Calaveras,120,President,,LIB,Darryl W. Perry,0
-Calaveras,120,President,,LIB,Derrick M. Reid,0
 Calaveras,120,President,,REP,Donald Trump,257
 Calaveras,120,President,,LIB,Gary Johnson,5
-Calaveras,120,President,,PAF,Gloria Estela La Riva,0
 Calaveras,120,President,,DEM,Henry Hewes,1
 Calaveras,120,President,,DEM,Hillary Clinton,111
-Calaveras,120,President,,AIP,J.R. Myers,0
-Calaveras,120,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,120,President,,AIP,James Hedges,0
-Calaveras,120,President,,GRN,Jill Stein,0
 Calaveras,120,President,,REP,Jim Gilmore,1
-Calaveras,120,President,,LIB,John Hale,0
-Calaveras,120,President,,LIB,John McAfee,0
 Calaveras,120,President,,REP,John R. Kasich,21
-Calaveras,120,President,,LIB,Joy Waymire,0
-Calaveras,120,President,,DEM,Keith Judd,0
-Calaveras,120,President,,GRN,Kent Mesplay,0
-Calaveras,120,President,,PAF,Lynn S. Kahn,0
 Calaveras,120,President,,LIB,Marc Feldman,1
 Calaveras,120,President,,DEM,Michael Steinberg,3
 Calaveras,120,President,,PAF,Monica Moorehead,1
 Calaveras,120,President,,LIB,Rhett White Feather Smith,1
-Calaveras,120,President,,AIP,Robert Ornelas,0
-Calaveras,120,President,,DEM,Roque De La Fuente,0
-Calaveras,120,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,120,President,,LIB,Steve Kerbel,0
 Calaveras,120,President,,REP,Ted Cruz,20
 Calaveras,120,President,,AIP,Thomas Hoefling,1
 Calaveras,120,President,,AIP,Wiley Drake,1
-Calaveras,120,President,,GRN,William Kreml,0
 Calaveras,120,President,,DEM,Willie Wilson,5
 Calaveras,120,State Assembly,5,REP,Frank Bigelow,399
 Calaveras,120,State Assembly,5,DEM,Kai Ellsworth,43
@@ -130,9 +78,7 @@ Calaveras,120,U.S. Senate,,IND,Don J. Grundmann,4
 Calaveras,120,U.S. Senate,,REP,Don Krampe,20
 Calaveras,120,U.S. Senate,,REP,Duf Sundheim,74
 Calaveras,120,U.S. Senate,,IND,Eleanor García,2
-Calaveras,120,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,120,U.S. Senate,,LIB,Gail K. Lightfoot,10
-Calaveras,120,U.S. Senate,,IND,Gar Myers,0
 Calaveras,120,U.S. Senate,,REP,George C. Yang,3
 Calaveras,120,U.S. Senate,,REP,Greg Conlon,44
 Calaveras,120,U.S. Senate,,DEM,Herbert G. Peters,3
@@ -140,7 +86,6 @@ Calaveras,120,U.S. Senate,,REP,Jarrell Williamson,2
 Calaveras,120,U.S. Senate,,IND,Jason Hanania,3
 Calaveras,120,U.S. Senate,,IND,Jason Kraus,3
 Calaveras,120,U.S. Senate,,REP,Jerry J. Laws,8
-Calaveras,120,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,120,U.S. Senate,,DEM,Kamala D. Harris,158
 Calaveras,120,U.S. Senate,,REP,Karen Roseberry,9
 Calaveras,120,U.S. Senate,,IND,Ling Ling Shi,1
@@ -149,7 +94,6 @@ Calaveras,120,U.S. Senate,,LIB,Mark Matthew Herd,6
 Calaveras,120,U.S. Senate,,DEM,Massie Munroe,2
 Calaveras,120,U.S. Senate,,IND,Mike Beitiks,2
 Calaveras,120,U.S. Senate,,GRN,Pamela Elizondo,10
-Calaveras,120,U.S. Senate,,IND,Paul Merritt,0
 Calaveras,120,U.S. Senate,,REP,Phil Wyman,62
 Calaveras,120,U.S. Senate,,DEM,President Cristina Grappo,3
 Calaveras,120,U.S. Senate,,REP,Ron Unz,15
@@ -159,44 +103,17 @@ Calaveras,120,U.S. Senate,,REP,Thomas G. Del Beccaro,31
 Calaveras,120,U.S. Senate,,IND,Tim Gildersleeve,1
 Calaveras,120,U.S. Senate,,REP,Tom Palzer,17
 Calaveras,120,U.S. Senate,,REP,Von Hougo,8
-Calaveras,140,President,,AIP,Alan Spears,0
-Calaveras,140,President,,AIP,Arthur Harris,0
-Calaveras,140,President,,LIB,Austin Petersen,0
 Calaveras,140,President,,REP,Ben Carson,2
 Calaveras,140,President,,DEM,Bernie Sanders,63
-Calaveras,140,President,,LIB,Cecil Ince,0
-Calaveras,140,President,,GRN,Darryl Cherney,0
-Calaveras,140,President,,LIB,Darryl W. Perry,0
-Calaveras,140,President,,LIB,Derrick M. Reid,0
 Calaveras,140,President,,REP,Donald Trump,172
 Calaveras,140,President,,LIB,Gary Johnson,1
-Calaveras,140,President,,PAF,Gloria Estela La Riva,0
-Calaveras,140,President,,DEM,Henry Hewes,0
 Calaveras,140,President,,DEM,Hillary Clinton,82
-Calaveras,140,President,,AIP,J.R. Myers,0
-Calaveras,140,President,,LIB,"Jack Robinson, Jr.",0
 Calaveras,140,President,,AIP,James Hedges,1
 Calaveras,140,President,,GRN,Jill Stein,1
 Calaveras,140,President,,REP,Jim Gilmore,1
-Calaveras,140,President,,LIB,John Hale,0
-Calaveras,140,President,,LIB,John McAfee,0
 Calaveras,140,President,,REP,John R. Kasich,14
-Calaveras,140,President,,LIB,Joy Waymire,0
-Calaveras,140,President,,DEM,Keith Judd,0
-Calaveras,140,President,,GRN,Kent Mesplay,0
-Calaveras,140,President,,PAF,Lynn S. Kahn,0
-Calaveras,140,President,,LIB,Marc Feldman,0
-Calaveras,140,President,,DEM,Michael Steinberg,0
-Calaveras,140,President,,PAF,Monica Moorehead,0
-Calaveras,140,President,,LIB,Rhett White Feather Smith,0
-Calaveras,140,President,,AIP,Robert Ornelas,0
-Calaveras,140,President,,DEM,Roque De La Fuente,0
-Calaveras,140,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,140,President,,LIB,Steve Kerbel,0
 Calaveras,140,President,,REP,Ted Cruz,20
 Calaveras,140,President,,AIP,Thomas Hoefling,2
-Calaveras,140,President,,AIP,Wiley Drake,0
-Calaveras,140,President,,GRN,William Kreml,0
 Calaveras,140,President,,DEM,Willie Wilson,1
 Calaveras,140,State Assembly,5,REP,Frank Bigelow,268
 Calaveras,140,State Assembly,5,DEM,Kai Ellsworth,51
@@ -209,15 +126,10 @@ Calaveras,140,U.S. Senate,,IND,Clive Grey,3
 Calaveras,140,U.S. Senate,,IND,Don J. Grundmann,3
 Calaveras,140,U.S. Senate,,REP,Don Krampe,14
 Calaveras,140,U.S. Senate,,REP,Duf Sundheim,63
-Calaveras,140,U.S. Senate,,IND,Eleanor García,0
-Calaveras,140,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,140,U.S. Senate,,LIB,Gail K. Lightfoot,11
-Calaveras,140,U.S. Senate,,IND,Gar Myers,0
 Calaveras,140,U.S. Senate,,REP,George C. Yang,5
 Calaveras,140,U.S. Senate,,REP,Greg Conlon,27
-Calaveras,140,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,140,U.S. Senate,,REP,Jarrell Williamson,8
-Calaveras,140,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,140,U.S. Senate,,IND,Jason Kraus,7
 Calaveras,140,U.S. Senate,,REP,Jerry J. Laws,3
 Calaveras,140,U.S. Senate,,PAF,John Thompson Parker,1
@@ -229,55 +141,24 @@ Calaveras,140,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,140,U.S. Senate,,DEM,Massie Munroe,2
 Calaveras,140,U.S. Senate,,IND,Mike Beitiks,1
 Calaveras,140,U.S. Senate,,GRN,Pamela Elizondo,12
-Calaveras,140,U.S. Senate,,IND,Paul Merritt,0
 Calaveras,140,U.S. Senate,,REP,Phil Wyman,30
 Calaveras,140,U.S. Senate,,DEM,President Cristina Grappo,2
 Calaveras,140,U.S. Senate,,REP,Ron Unz,8
-Calaveras,140,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,140,U.S. Senate,,DEM,Steve Stokes,6
 Calaveras,140,U.S. Senate,,REP,Thomas G. Del Beccaro,17
 Calaveras,140,U.S. Senate,,IND,Tim Gildersleeve,3
 Calaveras,140,U.S. Senate,,REP,Tom Palzer,13
 Calaveras,140,U.S. Senate,,REP,Von Hougo,5
 Calaveras,150,President,,AIP,Alan Spears,1
-Calaveras,150,President,,AIP,Arthur Harris,0
-Calaveras,150,President,,LIB,Austin Petersen,0
 Calaveras,150,President,,REP,Ben Carson,4
 Calaveras,150,President,,DEM,Bernie Sanders,57
-Calaveras,150,President,,LIB,Cecil Ince,0
-Calaveras,150,President,,GRN,Darryl Cherney,0
-Calaveras,150,President,,LIB,Darryl W. Perry,0
-Calaveras,150,President,,LIB,Derrick M. Reid,0
 Calaveras,150,President,,REP,Donald Trump,175
 Calaveras,150,President,,LIB,Gary Johnson,1
-Calaveras,150,President,,PAF,Gloria Estela La Riva,0
-Calaveras,150,President,,DEM,Henry Hewes,0
 Calaveras,150,President,,DEM,Hillary Clinton,56
-Calaveras,150,President,,AIP,J.R. Myers,0
-Calaveras,150,President,,LIB,"Jack Robinson, Jr.",0
 Calaveras,150,President,,AIP,James Hedges,1
-Calaveras,150,President,,GRN,Jill Stein,0
-Calaveras,150,President,,REP,Jim Gilmore,0
-Calaveras,150,President,,LIB,John Hale,0
-Calaveras,150,President,,LIB,John McAfee,0
 Calaveras,150,President,,REP,John R. Kasich,22
-Calaveras,150,President,,LIB,Joy Waymire,0
-Calaveras,150,President,,DEM,Keith Judd,0
-Calaveras,150,President,,GRN,Kent Mesplay,0
-Calaveras,150,President,,PAF,Lynn S. Kahn,0
-Calaveras,150,President,,LIB,Marc Feldman,0
-Calaveras,150,President,,DEM,Michael Steinberg,0
-Calaveras,150,President,,PAF,Monica Moorehead,0
-Calaveras,150,President,,LIB,Rhett White Feather Smith,0
 Calaveras,150,President,,AIP,Robert Ornelas,1
-Calaveras,150,President,,DEM,Roque De La Fuente,0
-Calaveras,150,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,150,President,,LIB,Steve Kerbel,0
 Calaveras,150,President,,REP,Ted Cruz,8
-Calaveras,150,President,,AIP,Thomas Hoefling,0
-Calaveras,150,President,,AIP,Wiley Drake,0
-Calaveras,150,President,,GRN,William Kreml,0
-Calaveras,150,President,,DEM,Willie Wilson,0
 Calaveras,150,State Assembly,5,REP,Frank Bigelow,233
 Calaveras,150,State Assembly,5,DEM,Kai Ellsworth,19
 Calaveras,150,State Assembly,5,IND,Mark Belden,40
@@ -286,12 +167,9 @@ Calaveras,150,U.S. House,4,DEM,Robert W. Derlet,74
 Calaveras,150,U.S. House,4,DEM,Sean White,25
 Calaveras,150,U.S. House,4,REP,Tom McClintock,267
 Calaveras,150,U.S. Senate,,IND,Clive Grey,1
-Calaveras,150,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,150,U.S. Senate,,REP,Don Krampe,12
 Calaveras,150,U.S. Senate,,REP,Duf Sundheim,57
 Calaveras,150,U.S. Senate,,IND,Eleanor García,3
-Calaveras,150,U.S. Senate,,DEM,Emory Rodgers,0
-Calaveras,150,U.S. Senate,,LIB,Gail K. Lightfoot,0
 Calaveras,150,U.S. Senate,,IND,Gar Myers,1
 Calaveras,150,U.S. Senate,,REP,George C. Yang,1
 Calaveras,150,U.S. Senate,,REP,Greg Conlon,27
@@ -303,60 +181,27 @@ Calaveras,150,U.S. Senate,,REP,Jerry J. Laws,2
 Calaveras,150,U.S. Senate,,PAF,John Thompson Parker,1
 Calaveras,150,U.S. Senate,,DEM,Kamala D. Harris,93
 Calaveras,150,U.S. Senate,,REP,Karen Roseberry,4
-Calaveras,150,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,150,U.S. Senate,,DEM,Loretta L. Sanchez,31
-Calaveras,150,U.S. Senate,,LIB,Mark Matthew Herd,0
 Calaveras,150,U.S. Senate,,DEM,Massie Munroe,2
-Calaveras,150,U.S. Senate,,IND,Mike Beitiks,0
 Calaveras,150,U.S. Senate,,GRN,Pamela Elizondo,4
-Calaveras,150,U.S. Senate,,IND,Paul Merritt,0
 Calaveras,150,U.S. Senate,,REP,Phil Wyman,35
 Calaveras,150,U.S. Senate,,DEM,President Cristina Grappo,1
 Calaveras,150,U.S. Senate,,REP,Ron Unz,12
-Calaveras,150,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,150,U.S. Senate,,DEM,Steve Stokes,1
 Calaveras,150,U.S. Senate,,REP,Thomas G. Del Beccaro,29
-Calaveras,150,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,150,U.S. Senate,,REP,Tom Palzer,13
 Calaveras,150,U.S. Senate,,REP,Von Hougo,11
-Calaveras,160,President,,AIP,Alan Spears,0
 Calaveras,160,President,,AIP,Arthur Harris,1
-Calaveras,160,President,,LIB,Austin Petersen,0
 Calaveras,160,President,,REP,Ben Carson,5
 Calaveras,160,President,,DEM,Bernie Sanders,52
-Calaveras,160,President,,LIB,Cecil Ince,0
-Calaveras,160,President,,GRN,Darryl Cherney,0
-Calaveras,160,President,,LIB,Darryl W. Perry,0
-Calaveras,160,President,,LIB,Derrick M. Reid,0
 Calaveras,160,President,,REP,Donald Trump,178
-Calaveras,160,President,,LIB,Gary Johnson,0
-Calaveras,160,President,,PAF,Gloria Estela La Riva,0
 Calaveras,160,President,,DEM,Henry Hewes,1
 Calaveras,160,President,,DEM,Hillary Clinton,56
-Calaveras,160,President,,AIP,J.R. Myers,0
-Calaveras,160,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,160,President,,AIP,James Hedges,0
-Calaveras,160,President,,GRN,Jill Stein,0
-Calaveras,160,President,,REP,Jim Gilmore,0
-Calaveras,160,President,,LIB,John Hale,0
-Calaveras,160,President,,LIB,John McAfee,0
 Calaveras,160,President,,REP,John R. Kasich,6
-Calaveras,160,President,,LIB,Joy Waymire,0
-Calaveras,160,President,,DEM,Keith Judd,0
-Calaveras,160,President,,GRN,Kent Mesplay,0
-Calaveras,160,President,,PAF,Lynn S. Kahn,0
-Calaveras,160,President,,LIB,Marc Feldman,0
 Calaveras,160,President,,DEM,Michael Steinberg,3
-Calaveras,160,President,,PAF,Monica Moorehead,0
 Calaveras,160,President,,LIB,Rhett White Feather Smith,1
-Calaveras,160,President,,AIP,Robert Ornelas,0
-Calaveras,160,President,,DEM,Roque De La Fuente,0
-Calaveras,160,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,160,President,,LIB,Steve Kerbel,0
 Calaveras,160,President,,REP,Ted Cruz,14
 Calaveras,160,President,,AIP,Thomas Hoefling,1
-Calaveras,160,President,,AIP,Wiley Drake,0
-Calaveras,160,President,,GRN,William Kreml,0
 Calaveras,160,President,,DEM,Willie Wilson,2
 Calaveras,160,State Assembly,5,REP,Frank Bigelow,271
 Calaveras,160,State Assembly,5,DEM,Kai Ellsworth,27
@@ -370,22 +215,16 @@ Calaveras,160,U.S. Senate,,IND,Don J. Grundmann,1
 Calaveras,160,U.S. Senate,,REP,Don Krampe,11
 Calaveras,160,U.S. Senate,,REP,Duf Sundheim,39
 Calaveras,160,U.S. Senate,,IND,Eleanor García,2
-Calaveras,160,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,160,U.S. Senate,,LIB,Gail K. Lightfoot,13
-Calaveras,160,U.S. Senate,,IND,Gar Myers,0
 Calaveras,160,U.S. Senate,,REP,George C. Yang,6
 Calaveras,160,U.S. Senate,,REP,Greg Conlon,36
-Calaveras,160,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,160,U.S. Senate,,REP,Jarrell Williamson,3
-Calaveras,160,U.S. Senate,,IND,Jason Hanania,0
-Calaveras,160,U.S. Senate,,IND,Jason Kraus,0
 Calaveras,160,U.S. Senate,,REP,Jerry J. Laws,8
 Calaveras,160,U.S. Senate,,PAF,John Thompson Parker,1
 Calaveras,160,U.S. Senate,,DEM,Kamala D. Harris,66
 Calaveras,160,U.S. Senate,,REP,Karen Roseberry,6
 Calaveras,160,U.S. Senate,,IND,Ling Ling Shi,5
 Calaveras,160,U.S. Senate,,DEM,Loretta L. Sanchez,27
-Calaveras,160,U.S. Senate,,LIB,Mark Matthew Herd,0
 Calaveras,160,U.S. Senate,,DEM,Massie Munroe,3
 Calaveras,160,U.S. Senate,,IND,Mike Beitiks,5
 Calaveras,160,U.S. Senate,,GRN,Pamela Elizondo,6
@@ -393,50 +232,23 @@ Calaveras,160,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,160,U.S. Senate,,REP,Phil Wyman,51
 Calaveras,160,U.S. Senate,,DEM,President Cristina Grappo,2
 Calaveras,160,U.S. Senate,,REP,Ron Unz,13
-Calaveras,160,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,160,U.S. Senate,,DEM,Steve Stokes,5
 Calaveras,160,U.S. Senate,,REP,Thomas G. Del Beccaro,32
-Calaveras,160,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,160,U.S. Senate,,REP,Tom Palzer,10
 Calaveras,160,U.S. Senate,,REP,Von Hougo,8
-Calaveras,170,President,,AIP,Alan Spears,0
-Calaveras,170,President,,AIP,Arthur Harris,0
-Calaveras,170,President,,LIB,Austin Petersen,0
 Calaveras,170,President,,REP,Ben Carson,8
 Calaveras,170,President,,DEM,Bernie Sanders,88
-Calaveras,170,President,,LIB,Cecil Ince,0
-Calaveras,170,President,,GRN,Darryl Cherney,0
-Calaveras,170,President,,LIB,Darryl W. Perry,0
-Calaveras,170,President,,LIB,Derrick M. Reid,0
 Calaveras,170,President,,REP,Donald Trump,257
 Calaveras,170,President,,LIB,Gary Johnson,1
-Calaveras,170,President,,PAF,Gloria Estela La Riva,0
-Calaveras,170,President,,DEM,Henry Hewes,0
 Calaveras,170,President,,DEM,Hillary Clinton,66
-Calaveras,170,President,,AIP,J.R. Myers,0
-Calaveras,170,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,170,President,,AIP,James Hedges,0
 Calaveras,170,President,,GRN,Jill Stein,2
 Calaveras,170,President,,REP,Jim Gilmore,1
-Calaveras,170,President,,LIB,John Hale,0
 Calaveras,170,President,,LIB,John McAfee,1
 Calaveras,170,President,,REP,John R. Kasich,21
-Calaveras,170,President,,LIB,Joy Waymire,0
 Calaveras,170,President,,DEM,Keith Judd,1
-Calaveras,170,President,,GRN,Kent Mesplay,0
-Calaveras,170,President,,PAF,Lynn S. Kahn,0
-Calaveras,170,President,,LIB,Marc Feldman,0
 Calaveras,170,President,,DEM,Michael Steinberg,2
-Calaveras,170,President,,PAF,Monica Moorehead,0
-Calaveras,170,President,,LIB,Rhett White Feather Smith,0
-Calaveras,170,President,,AIP,Robert Ornelas,0
-Calaveras,170,President,,DEM,Roque De La Fuente,0
-Calaveras,170,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,170,President,,LIB,Steve Kerbel,0
 Calaveras,170,President,,REP,Ted Cruz,24
 Calaveras,170,President,,AIP,Thomas Hoefling,2
-Calaveras,170,President,,AIP,Wiley Drake,0
-Calaveras,170,President,,GRN,William Kreml,0
 Calaveras,170,President,,DEM,Willie Wilson,5
 Calaveras,170,State Assembly,5,REP,Frank Bigelow,367
 Calaveras,170,State Assembly,5,DEM,Kai Ellsworth,37
@@ -450,7 +262,6 @@ Calaveras,170,U.S. Senate,,IND,Don J. Grundmann,3
 Calaveras,170,U.S. Senate,,REP,Don Krampe,17
 Calaveras,170,U.S. Senate,,REP,Duf Sundheim,74
 Calaveras,170,U.S. Senate,,IND,Eleanor García,2
-Calaveras,170,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,170,U.S. Senate,,LIB,Gail K. Lightfoot,10
 Calaveras,170,U.S. Senate,,IND,Gar Myers,1
 Calaveras,170,U.S. Senate,,REP,George C. Yang,2
@@ -460,63 +271,30 @@ Calaveras,170,U.S. Senate,,REP,Jarrell Williamson,4
 Calaveras,170,U.S. Senate,,IND,Jason Hanania,1
 Calaveras,170,U.S. Senate,,IND,Jason Kraus,4
 Calaveras,170,U.S. Senate,,REP,Jerry J. Laws,3
-Calaveras,170,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,170,U.S. Senate,,DEM,Kamala D. Harris,113
 Calaveras,170,U.S. Senate,,REP,Karen Roseberry,8
-Calaveras,170,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,170,U.S. Senate,,DEM,Loretta L. Sanchez,34
 Calaveras,170,U.S. Senate,,LIB,Mark Matthew Herd,3
 Calaveras,170,U.S. Senate,,DEM,Massie Munroe,2
-Calaveras,170,U.S. Senate,,IND,Mike Beitiks,0
 Calaveras,170,U.S. Senate,,GRN,Pamela Elizondo,6
 Calaveras,170,U.S. Senate,,IND,Paul Merritt,1
 Calaveras,170,U.S. Senate,,REP,Phil Wyman,72
-Calaveras,170,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,170,U.S. Senate,,REP,Ron Unz,22
-Calaveras,170,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,170,U.S. Senate,,DEM,Steve Stokes,10
 Calaveras,170,U.S. Senate,,REP,Thomas G. Del Beccaro,57
-Calaveras,170,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,170,U.S. Senate,,REP,Tom Palzer,18
 Calaveras,170,U.S. Senate,,REP,Von Hougo,15
-Calaveras,210,President,,AIP,Alan Spears,0
-Calaveras,210,President,,AIP,Arthur Harris,0
-Calaveras,210,President,,LIB,Austin Petersen,0
 Calaveras,210,President,,REP,Ben Carson,7
 Calaveras,210,President,,DEM,Bernie Sanders,99
-Calaveras,210,President,,LIB,Cecil Ince,0
-Calaveras,210,President,,GRN,Darryl Cherney,0
-Calaveras,210,President,,LIB,Darryl W. Perry,0
-Calaveras,210,President,,LIB,Derrick M. Reid,0
 Calaveras,210,President,,REP,Donald Trump,90
 Calaveras,210,President,,LIB,Gary Johnson,2
-Calaveras,210,President,,PAF,Gloria Estela La Riva,0
-Calaveras,210,President,,DEM,Henry Hewes,0
 Calaveras,210,President,,DEM,Hillary Clinton,88
 Calaveras,210,President,,AIP,J.R. Myers,2
-Calaveras,210,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,210,President,,AIP,James Hedges,0
 Calaveras,210,President,,GRN,Jill Stein,1
-Calaveras,210,President,,REP,Jim Gilmore,0
-Calaveras,210,President,,LIB,John Hale,0
 Calaveras,210,President,,LIB,John McAfee,1
 Calaveras,210,President,,REP,John R. Kasich,12
-Calaveras,210,President,,LIB,Joy Waymire,0
-Calaveras,210,President,,DEM,Keith Judd,0
-Calaveras,210,President,,GRN,Kent Mesplay,0
-Calaveras,210,President,,PAF,Lynn S. Kahn,0
-Calaveras,210,President,,LIB,Marc Feldman,0
-Calaveras,210,President,,DEM,Michael Steinberg,0
-Calaveras,210,President,,PAF,Monica Moorehead,0
-Calaveras,210,President,,LIB,Rhett White Feather Smith,0
-Calaveras,210,President,,AIP,Robert Ornelas,0
 Calaveras,210,President,,DEM,Roque De La Fuente,2
-Calaveras,210,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,210,President,,LIB,Steve Kerbel,0
 Calaveras,210,President,,REP,Ted Cruz,10
-Calaveras,210,President,,AIP,Thomas Hoefling,0
-Calaveras,210,President,,AIP,Wiley Drake,0
-Calaveras,210,President,,GRN,William Kreml,0
 Calaveras,210,President,,DEM,Willie Wilson,1
 Calaveras,210,State Assembly,5,REP,Frank Bigelow,156
 Calaveras,210,State Assembly,5,DEM,Kai Ellsworth,54
@@ -530,16 +308,11 @@ Calaveras,210,U.S. Senate,,IND,Don J. Grundmann,2
 Calaveras,210,U.S. Senate,,REP,Don Krampe,4
 Calaveras,210,U.S. Senate,,REP,Duf Sundheim,33
 Calaveras,210,U.S. Senate,,IND,Eleanor García,3
-Calaveras,210,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,210,U.S. Senate,,LIB,Gail K. Lightfoot,11
 Calaveras,210,U.S. Senate,,IND,Gar Myers,1
 Calaveras,210,U.S. Senate,,REP,George C. Yang,4
 Calaveras,210,U.S. Senate,,REP,Greg Conlon,11
-Calaveras,210,U.S. Senate,,DEM,Herbert G. Peters,0
-Calaveras,210,U.S. Senate,,REP,Jarrell Williamson,0
-Calaveras,210,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,210,U.S. Senate,,IND,Jason Kraus,4
-Calaveras,210,U.S. Senate,,REP,Jerry J. Laws,0
 Calaveras,210,U.S. Senate,,PAF,John Thompson Parker,1
 Calaveras,210,U.S. Senate,,DEM,Kamala D. Harris,114
 Calaveras,210,U.S. Senate,,REP,Karen Roseberry,9
@@ -556,7 +329,6 @@ Calaveras,210,U.S. Senate,,REP,Ron Unz,10
 Calaveras,210,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,210,U.S. Senate,,DEM,Steve Stokes,7
 Calaveras,210,U.S. Senate,,REP,Thomas G. Del Beccaro,10
-Calaveras,210,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,210,U.S. Senate,,REP,Tom Palzer,2
 Calaveras,210,U.S. Senate,,REP,Von Hougo,1
 Calaveras,215,President,,AIP,Alan Spears,1
@@ -564,39 +336,15 @@ Calaveras,215,President,,AIP,Arthur Harris,2
 Calaveras,215,President,,LIB,Austin Petersen,1
 Calaveras,215,President,,REP,Ben Carson,9
 Calaveras,215,President,,DEM,Bernie Sanders,111
-Calaveras,215,President,,LIB,Cecil Ince,0
-Calaveras,215,President,,GRN,Darryl Cherney,0
-Calaveras,215,President,,LIB,Darryl W. Perry,0
-Calaveras,215,President,,LIB,Derrick M. Reid,0
 Calaveras,215,President,,REP,Donald Trump,160
 Calaveras,215,President,,LIB,Gary Johnson,2
-Calaveras,215,President,,PAF,Gloria Estela La Riva,0
 Calaveras,215,President,,DEM,Henry Hewes,1
 Calaveras,215,President,,DEM,Hillary Clinton,95
-Calaveras,215,President,,AIP,J.R. Myers,0
-Calaveras,215,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,215,President,,AIP,James Hedges,0
-Calaveras,215,President,,GRN,Jill Stein,0
-Calaveras,215,President,,REP,Jim Gilmore,0
-Calaveras,215,President,,LIB,John Hale,0
 Calaveras,215,President,,LIB,John McAfee,2
 Calaveras,215,President,,REP,John R. Kasich,18
-Calaveras,215,President,,LIB,Joy Waymire,0
-Calaveras,215,President,,DEM,Keith Judd,0
-Calaveras,215,President,,GRN,Kent Mesplay,0
 Calaveras,215,President,,PAF,Lynn S. Kahn,1
-Calaveras,215,President,,LIB,Marc Feldman,0
-Calaveras,215,President,,DEM,Michael Steinberg,0
-Calaveras,215,President,,PAF,Monica Moorehead,0
-Calaveras,215,President,,LIB,Rhett White Feather Smith,0
-Calaveras,215,President,,AIP,Robert Ornelas,0
-Calaveras,215,President,,DEM,Roque De La Fuente,0
-Calaveras,215,President,,GRN,Sedinam Moyowasifsa-Curry,0
 Calaveras,215,President,,LIB,Steve Kerbel,1
 Calaveras,215,President,,REP,Ted Cruz,22
-Calaveras,215,President,,AIP,Thomas Hoefling,0
-Calaveras,215,President,,AIP,Wiley Drake,0
-Calaveras,215,President,,GRN,William Kreml,0
 Calaveras,215,President,,DEM,Willie Wilson,3
 Calaveras,215,State Assembly,5,REP,Frank Bigelow,260
 Calaveras,215,State Assembly,5,DEM,Kai Ellsworth,39
@@ -610,9 +358,7 @@ Calaveras,215,U.S. Senate,,IND,Don J. Grundmann,1
 Calaveras,215,U.S. Senate,,REP,Don Krampe,8
 Calaveras,215,U.S. Senate,,REP,Duf Sundheim,67
 Calaveras,215,U.S. Senate,,IND,Eleanor García,3
-Calaveras,215,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,215,U.S. Senate,,LIB,Gail K. Lightfoot,10
-Calaveras,215,U.S. Senate,,IND,Gar Myers,0
 Calaveras,215,U.S. Senate,,REP,George C. Yang,2
 Calaveras,215,U.S. Senate,,REP,Greg Conlon,27
 Calaveras,215,U.S. Senate,,DEM,Herbert G. Peters,2
@@ -623,7 +369,6 @@ Calaveras,215,U.S. Senate,,REP,Jerry J. Laws,4
 Calaveras,215,U.S. Senate,,PAF,John Thompson Parker,1
 Calaveras,215,U.S. Senate,,DEM,Kamala D. Harris,144
 Calaveras,215,U.S. Senate,,REP,Karen Roseberry,7
-Calaveras,215,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,215,U.S. Senate,,DEM,Loretta L. Sanchez,43
 Calaveras,215,U.S. Senate,,LIB,Mark Matthew Herd,9
 Calaveras,215,U.S. Senate,,DEM,Massie Munroe,2
@@ -631,53 +376,24 @@ Calaveras,215,U.S. Senate,,IND,Mike Beitiks,5
 Calaveras,215,U.S. Senate,,GRN,Pamela Elizondo,12
 Calaveras,215,U.S. Senate,,IND,Paul Merritt,5
 Calaveras,215,U.S. Senate,,REP,Phil Wyman,32
-Calaveras,215,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,215,U.S. Senate,,REP,Ron Unz,11
 Calaveras,215,U.S. Senate,,IND,Scott A. Vineberg,3
 Calaveras,215,U.S. Senate,,DEM,Steve Stokes,9
 Calaveras,215,U.S. Senate,,REP,Thomas G. Del Beccaro,32
-Calaveras,215,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,215,U.S. Senate,,REP,Tom Palzer,6
 Calaveras,215,U.S. Senate,,REP,Von Hougo,4
-Calaveras,220,President,,AIP,Alan Spears,0
-Calaveras,220,President,,AIP,Arthur Harris,0
 Calaveras,220,President,,LIB,Austin Petersen,1
 Calaveras,220,President,,REP,Ben Carson,4
 Calaveras,220,President,,DEM,Bernie Sanders,94
-Calaveras,220,President,,LIB,Cecil Ince,0
 Calaveras,220,President,,GRN,Darryl Cherney,2
-Calaveras,220,President,,LIB,Darryl W. Perry,0
-Calaveras,220,President,,LIB,Derrick M. Reid,0
 Calaveras,220,President,,REP,Donald Trump,179
 Calaveras,220,President,,LIB,Gary Johnson,1
-Calaveras,220,President,,PAF,Gloria Estela La Riva,0
-Calaveras,220,President,,DEM,Henry Hewes,0
 Calaveras,220,President,,DEM,Hillary Clinton,94
-Calaveras,220,President,,AIP,J.R. Myers,0
-Calaveras,220,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,220,President,,AIP,James Hedges,0
-Calaveras,220,President,,GRN,Jill Stein,0
-Calaveras,220,President,,REP,Jim Gilmore,0
-Calaveras,220,President,,LIB,John Hale,0
-Calaveras,220,President,,LIB,John McAfee,0
 Calaveras,220,President,,REP,John R. Kasich,4
-Calaveras,220,President,,LIB,Joy Waymire,0
 Calaveras,220,President,,DEM,Keith Judd,1
-Calaveras,220,President,,GRN,Kent Mesplay,0
-Calaveras,220,President,,PAF,Lynn S. Kahn,0
-Calaveras,220,President,,LIB,Marc Feldman,0
-Calaveras,220,President,,DEM,Michael Steinberg,0
-Calaveras,220,President,,PAF,Monica Moorehead,0
-Calaveras,220,President,,LIB,Rhett White Feather Smith,0
 Calaveras,220,President,,AIP,Robert Ornelas,1
-Calaveras,220,President,,DEM,Roque De La Fuente,0
 Calaveras,220,President,,GRN,Sedinam Moyowasifsa-Curry,1
-Calaveras,220,President,,LIB,Steve Kerbel,0
 Calaveras,220,President,,REP,Ted Cruz,16
-Calaveras,220,President,,AIP,Thomas Hoefling,0
-Calaveras,220,President,,AIP,Wiley Drake,0
-Calaveras,220,President,,GRN,William Kreml,0
-Calaveras,220,President,,DEM,Willie Wilson,0
 Calaveras,220,State Assembly,5,REP,Frank Bigelow,247
 Calaveras,220,State Assembly,5,DEM,Kai Ellsworth,48
 Calaveras,220,State Assembly,5,IND,Mark Belden,58
@@ -686,24 +402,20 @@ Calaveras,220,U.S. House,4,DEM,Robert W. Derlet,100
 Calaveras,220,U.S. House,4,DEM,Sean White,86
 Calaveras,220,U.S. House,4,REP,Tom McClintock,261
 Calaveras,220,U.S. Senate,,IND,Clive Grey,6
-Calaveras,220,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,220,U.S. Senate,,REP,Don Krampe,7
 Calaveras,220,U.S. Senate,,REP,Duf Sundheim,41
 Calaveras,220,U.S. Senate,,IND,Eleanor García,2
-Calaveras,220,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,220,U.S. Senate,,LIB,Gail K. Lightfoot,7
 Calaveras,220,U.S. Senate,,IND,Gar Myers,1
 Calaveras,220,U.S. Senate,,REP,George C. Yang,4
 Calaveras,220,U.S. Senate,,REP,Greg Conlon,25
 Calaveras,220,U.S. Senate,,DEM,Herbert G. Peters,2
 Calaveras,220,U.S. Senate,,REP,Jarrell Williamson,3
-Calaveras,220,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,220,U.S. Senate,,IND,Jason Kraus,3
 Calaveras,220,U.S. Senate,,REP,Jerry J. Laws,6
 Calaveras,220,U.S. Senate,,PAF,John Thompson Parker,2
 Calaveras,220,U.S. Senate,,DEM,Kamala D. Harris,129
 Calaveras,220,U.S. Senate,,REP,Karen Roseberry,7
-Calaveras,220,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,220,U.S. Senate,,DEM,Loretta L. Sanchez,49
 Calaveras,220,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,220,U.S. Senate,,DEM,Massie Munroe,4
@@ -711,52 +423,23 @@ Calaveras,220,U.S. Senate,,IND,Mike Beitiks,3
 Calaveras,220,U.S. Senate,,GRN,Pamela Elizondo,16
 Calaveras,220,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,220,U.S. Senate,,REP,Phil Wyman,53
-Calaveras,220,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,220,U.S. Senate,,REP,Ron Unz,10
-Calaveras,220,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,220,U.S. Senate,,DEM,Steve Stokes,12
 Calaveras,220,U.S. Senate,,REP,Thomas G. Del Beccaro,26
 Calaveras,220,U.S. Senate,,IND,Tim Gildersleeve,2
 Calaveras,220,U.S. Senate,,REP,Tom Palzer,7
 Calaveras,220,U.S. Senate,,REP,Von Hougo,5
-Calaveras,230,President,,AIP,Alan Spears,0
-Calaveras,230,President,,AIP,Arthur Harris,0
-Calaveras,230,President,,LIB,Austin Petersen,0
 Calaveras,230,President,,REP,Ben Carson,4
 Calaveras,230,President,,DEM,Bernie Sanders,65
-Calaveras,230,President,,LIB,Cecil Ince,0
-Calaveras,230,President,,GRN,Darryl Cherney,0
-Calaveras,230,President,,LIB,Darryl W. Perry,0
-Calaveras,230,President,,LIB,Derrick M. Reid,0
 Calaveras,230,President,,REP,Donald Trump,97
-Calaveras,230,President,,LIB,Gary Johnson,0
-Calaveras,230,President,,PAF,Gloria Estela La Riva,0
-Calaveras,230,President,,DEM,Henry Hewes,0
 Calaveras,230,President,,DEM,Hillary Clinton,46
 Calaveras,230,President,,AIP,J.R. Myers,3
-Calaveras,230,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,230,President,,AIP,James Hedges,0
-Calaveras,230,President,,GRN,Jill Stein,0
-Calaveras,230,President,,REP,Jim Gilmore,0
-Calaveras,230,President,,LIB,John Hale,0
-Calaveras,230,President,,LIB,John McAfee,0
 Calaveras,230,President,,REP,John R. Kasich,2
-Calaveras,230,President,,LIB,Joy Waymire,0
-Calaveras,230,President,,DEM,Keith Judd,0
-Calaveras,230,President,,GRN,Kent Mesplay,0
-Calaveras,230,President,,PAF,Lynn S. Kahn,0
-Calaveras,230,President,,LIB,Marc Feldman,0
 Calaveras,230,President,,DEM,Michael Steinberg,2
-Calaveras,230,President,,PAF,Monica Moorehead,0
-Calaveras,230,President,,LIB,Rhett White Feather Smith,0
 Calaveras,230,President,,AIP,Robert Ornelas,1
-Calaveras,230,President,,DEM,Roque De La Fuente,0
-Calaveras,230,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,230,President,,LIB,Steve Kerbel,0
 Calaveras,230,President,,REP,Ted Cruz,15
 Calaveras,230,President,,AIP,Thomas Hoefling,1
 Calaveras,230,President,,AIP,Wiley Drake,2
-Calaveras,230,President,,GRN,William Kreml,0
 Calaveras,230,President,,DEM,Willie Wilson,3
 Calaveras,230,State Assembly,5,REP,Frank Bigelow,167
 Calaveras,230,State Assembly,5,DEM,Kai Ellsworth,29
@@ -766,16 +449,13 @@ Calaveras,230,U.S. House,4,DEM,Robert W. Derlet,63
 Calaveras,230,U.S. House,4,DEM,Sean White,39
 Calaveras,230,U.S. House,4,REP,Tom McClintock,176
 Calaveras,230,U.S. Senate,,IND,Clive Grey,2
-Calaveras,230,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,230,U.S. Senate,,REP,Don Krampe,8
 Calaveras,230,U.S. Senate,,REP,Duf Sundheim,36
 Calaveras,230,U.S. Senate,,IND,Eleanor García,1
-Calaveras,230,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,230,U.S. Senate,,LIB,Gail K. Lightfoot,14
 Calaveras,230,U.S. Senate,,IND,Gar Myers,2
 Calaveras,230,U.S. Senate,,REP,George C. Yang,2
 Calaveras,230,U.S. Senate,,REP,Greg Conlon,13
-Calaveras,230,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,230,U.S. Senate,,REP,Jarrell Williamson,5
 Calaveras,230,U.S. Senate,,IND,Jason Hanania,1
 Calaveras,230,U.S. Senate,,IND,Jason Kraus,5
@@ -791,52 +471,27 @@ Calaveras,230,U.S. Senate,,IND,Mike Beitiks,3
 Calaveras,230,U.S. Senate,,GRN,Pamela Elizondo,9
 Calaveras,230,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,230,U.S. Senate,,REP,Phil Wyman,25
-Calaveras,230,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,230,U.S. Senate,,REP,Ron Unz,9
 Calaveras,230,U.S. Senate,,IND,Scott A. Vineberg,2
 Calaveras,230,U.S. Senate,,DEM,Steve Stokes,10
 Calaveras,230,U.S. Senate,,REP,Thomas G. Del Beccaro,10
-Calaveras,230,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,230,U.S. Senate,,REP,Tom Palzer,9
 Calaveras,230,U.S. Senate,,REP,Von Hougo,5
-Calaveras,240,President,,AIP,Alan Spears,0
-Calaveras,240,President,,AIP,Arthur Harris,0
-Calaveras,240,President,,LIB,Austin Petersen,0
 Calaveras,240,President,,REP,Ben Carson,8
 Calaveras,240,President,,DEM,Bernie Sanders,100
-Calaveras,240,President,,LIB,Cecil Ince,0
-Calaveras,240,President,,GRN,Darryl Cherney,0
-Calaveras,240,President,,LIB,Darryl W. Perry,0
-Calaveras,240,President,,LIB,Derrick M. Reid,0
 Calaveras,240,President,,REP,Donald Trump,159
 Calaveras,240,President,,LIB,Gary Johnson,3
-Calaveras,240,President,,PAF,Gloria Estela La Riva,0
 Calaveras,240,President,,DEM,Henry Hewes,1
 Calaveras,240,President,,DEM,Hillary Clinton,92
-Calaveras,240,President,,AIP,J.R. Myers,0
-Calaveras,240,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,240,President,,AIP,James Hedges,0
 Calaveras,240,President,,GRN,Jill Stein,3
 Calaveras,240,President,,REP,Jim Gilmore,3
 Calaveras,240,President,,LIB,John Hale,1
-Calaveras,240,President,,LIB,John McAfee,0
 Calaveras,240,President,,REP,John R. Kasich,8
-Calaveras,240,President,,LIB,Joy Waymire,0
-Calaveras,240,President,,DEM,Keith Judd,0
-Calaveras,240,President,,GRN,Kent Mesplay,0
-Calaveras,240,President,,PAF,Lynn S. Kahn,0
-Calaveras,240,President,,LIB,Marc Feldman,0
-Calaveras,240,President,,DEM,Michael Steinberg,0
 Calaveras,240,President,,PAF,Monica Moorehead,1
-Calaveras,240,President,,LIB,Rhett White Feather Smith,0
-Calaveras,240,President,,AIP,Robert Ornelas,0
-Calaveras,240,President,,DEM,Roque De La Fuente,0
-Calaveras,240,President,,GRN,Sedinam Moyowasifsa-Curry,0
 Calaveras,240,President,,LIB,Steve Kerbel,1
 Calaveras,240,President,,REP,Ted Cruz,30
 Calaveras,240,President,,AIP,Thomas Hoefling,1
 Calaveras,240,President,,AIP,Wiley Drake,1
-Calaveras,240,President,,GRN,William Kreml,0
 Calaveras,240,President,,DEM,Willie Wilson,3
 Calaveras,240,State Assembly,5,REP,Frank Bigelow,258
 Calaveras,240,State Assembly,5,DEM,Kai Ellsworth,42
@@ -850,9 +505,7 @@ Calaveras,240,U.S. Senate,,IND,Don J. Grundmann,2
 Calaveras,240,U.S. Senate,,REP,Don Krampe,14
 Calaveras,240,U.S. Senate,,REP,Duf Sundheim,52
 Calaveras,240,U.S. Senate,,IND,Eleanor García,2
-Calaveras,240,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,240,U.S. Senate,,LIB,Gail K. Lightfoot,10
-Calaveras,240,U.S. Senate,,IND,Gar Myers,0
 Calaveras,240,U.S. Senate,,REP,George C. Yang,5
 Calaveras,240,U.S. Senate,,REP,Greg Conlon,27
 Calaveras,240,U.S. Senate,,DEM,Herbert G. Peters,1
@@ -860,10 +513,8 @@ Calaveras,240,U.S. Senate,,REP,Jarrell Williamson,7
 Calaveras,240,U.S. Senate,,IND,Jason Hanania,1
 Calaveras,240,U.S. Senate,,IND,Jason Kraus,5
 Calaveras,240,U.S. Senate,,REP,Jerry J. Laws,6
-Calaveras,240,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,240,U.S. Senate,,DEM,Kamala D. Harris,117
 Calaveras,240,U.S. Senate,,REP,Karen Roseberry,6
-Calaveras,240,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,240,U.S. Senate,,DEM,Loretta L. Sanchez,40
 Calaveras,240,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,240,U.S. Senate,,DEM,Massie Munroe,3
@@ -879,45 +530,22 @@ Calaveras,240,U.S. Senate,,REP,Thomas G. Del Beccaro,25
 Calaveras,240,U.S. Senate,,IND,Tim Gildersleeve,2
 Calaveras,240,U.S. Senate,,REP,Tom Palzer,10
 Calaveras,240,U.S. Senate,,REP,Von Hougo,5
-Calaveras,250,President,,AIP,Alan Spears,0
 Calaveras,250,President,,AIP,Arthur Harris,1
 Calaveras,250,President,,LIB,Austin Petersen,1
 Calaveras,250,President,,REP,Ben Carson,3
 Calaveras,250,President,,DEM,Bernie Sanders,82
-Calaveras,250,President,,LIB,Cecil Ince,0
-Calaveras,250,President,,GRN,Darryl Cherney,0
-Calaveras,250,President,,LIB,Darryl W. Perry,0
-Calaveras,250,President,,LIB,Derrick M. Reid,0
 Calaveras,250,President,,REP,Donald Trump,145
 Calaveras,250,President,,LIB,Gary Johnson,2
-Calaveras,250,President,,PAF,Gloria Estela La Riva,0
 Calaveras,250,President,,DEM,Henry Hewes,1
 Calaveras,250,President,,DEM,Hillary Clinton,83
 Calaveras,250,President,,AIP,J.R. Myers,1
-Calaveras,250,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,250,President,,AIP,James Hedges,0
 Calaveras,250,President,,GRN,Jill Stein,1
-Calaveras,250,President,,REP,Jim Gilmore,0
-Calaveras,250,President,,LIB,John Hale,0
-Calaveras,250,President,,LIB,John McAfee,0
 Calaveras,250,President,,REP,John R. Kasich,12
-Calaveras,250,President,,LIB,Joy Waymire,0
 Calaveras,250,President,,DEM,Keith Judd,1
-Calaveras,250,President,,GRN,Kent Mesplay,0
-Calaveras,250,President,,PAF,Lynn S. Kahn,0
 Calaveras,250,President,,LIB,Marc Feldman,1
 Calaveras,250,President,,DEM,Michael Steinberg,2
-Calaveras,250,President,,PAF,Monica Moorehead,0
-Calaveras,250,President,,LIB,Rhett White Feather Smith,0
-Calaveras,250,President,,AIP,Robert Ornelas,0
-Calaveras,250,President,,DEM,Roque De La Fuente,0
-Calaveras,250,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,250,President,,LIB,Steve Kerbel,0
 Calaveras,250,President,,REP,Ted Cruz,6
-Calaveras,250,President,,AIP,Thomas Hoefling,0
 Calaveras,250,President,,AIP,Wiley Drake,1
-Calaveras,250,President,,GRN,William Kreml,0
-Calaveras,250,President,,DEM,Willie Wilson,0
 Calaveras,250,State Assembly,5,REP,Frank Bigelow,214
 Calaveras,250,State Assembly,5,DEM,Kai Ellsworth,36
 Calaveras,250,State Assembly,5,IND,Mark Belden,29
@@ -929,16 +557,13 @@ Calaveras,250,U.S. Senate,,IND,Clive Grey,1
 Calaveras,250,U.S. Senate,,IND,Don J. Grundmann,1
 Calaveras,250,U.S. Senate,,REP,Don Krampe,8
 Calaveras,250,U.S. Senate,,REP,Duf Sundheim,40
-Calaveras,250,U.S. Senate,,IND,Eleanor García,0
 Calaveras,250,U.S. Senate,,DEM,Emory Rodgers,1
 Calaveras,250,U.S. Senate,,LIB,Gail K. Lightfoot,5
-Calaveras,250,U.S. Senate,,IND,Gar Myers,0
 Calaveras,250,U.S. Senate,,REP,George C. Yang,4
 Calaveras,250,U.S. Senate,,REP,Greg Conlon,18
 Calaveras,250,U.S. Senate,,DEM,Herbert G. Peters,1
 Calaveras,250,U.S. Senate,,REP,Jarrell Williamson,3
 Calaveras,250,U.S. Senate,,IND,Jason Hanania,4
-Calaveras,250,U.S. Senate,,IND,Jason Kraus,0
 Calaveras,250,U.S. Senate,,REP,Jerry J. Laws,3
 Calaveras,250,U.S. Senate,,PAF,John Thompson Parker,1
 Calaveras,250,U.S. Senate,,DEM,Kamala D. Harris,129
@@ -947,57 +572,28 @@ Calaveras,250,U.S. Senate,,IND,Ling Ling Shi,4
 Calaveras,250,U.S. Senate,,DEM,Loretta L. Sanchez,28
 Calaveras,250,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,250,U.S. Senate,,DEM,Massie Munroe,1
-Calaveras,250,U.S. Senate,,IND,Mike Beitiks,0
 Calaveras,250,U.S. Senate,,GRN,Pamela Elizondo,10
 Calaveras,250,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,250,U.S. Senate,,REP,Phil Wyman,54
 Calaveras,250,U.S. Senate,,DEM,President Cristina Grappo,2
 Calaveras,250,U.S. Senate,,REP,Ron Unz,7
-Calaveras,250,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,250,U.S. Senate,,DEM,Steve Stokes,5
 Calaveras,250,U.S. Senate,,REP,Thomas G. Del Beccaro,7
-Calaveras,250,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,250,U.S. Senate,,REP,Tom Palzer,9
 Calaveras,250,U.S. Senate,,REP,Von Hougo,3
 Calaveras,260,President,,AIP,Alan Spears,3
-Calaveras,260,President,,AIP,Arthur Harris,0
-Calaveras,260,President,,LIB,Austin Petersen,0
 Calaveras,260,President,,REP,Ben Carson,5
 Calaveras,260,President,,DEM,Bernie Sanders,106
-Calaveras,260,President,,LIB,Cecil Ince,0
 Calaveras,260,President,,GRN,Darryl Cherney,1
-Calaveras,260,President,,LIB,Darryl W. Perry,0
-Calaveras,260,President,,LIB,Derrick M. Reid,0
 Calaveras,260,President,,REP,Donald Trump,139
 Calaveras,260,President,,LIB,Gary Johnson,4
-Calaveras,260,President,,PAF,Gloria Estela La Riva,0
 Calaveras,260,President,,DEM,Henry Hewes,1
 Calaveras,260,President,,DEM,Hillary Clinton,76
-Calaveras,260,President,,AIP,J.R. Myers,0
-Calaveras,260,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,260,President,,AIP,James Hedges,0
-Calaveras,260,President,,GRN,Jill Stein,0
-Calaveras,260,President,,REP,Jim Gilmore,0
-Calaveras,260,President,,LIB,John Hale,0
 Calaveras,260,President,,LIB,John McAfee,1
 Calaveras,260,President,,REP,John R. Kasich,8
-Calaveras,260,President,,LIB,Joy Waymire,0
 Calaveras,260,President,,DEM,Keith Judd,1
-Calaveras,260,President,,GRN,Kent Mesplay,0
-Calaveras,260,President,,PAF,Lynn S. Kahn,0
-Calaveras,260,President,,LIB,Marc Feldman,0
-Calaveras,260,President,,DEM,Michael Steinberg,0
-Calaveras,260,President,,PAF,Monica Moorehead,0
-Calaveras,260,President,,LIB,Rhett White Feather Smith,0
-Calaveras,260,President,,AIP,Robert Ornelas,0
-Calaveras,260,President,,DEM,Roque De La Fuente,0
-Calaveras,260,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,260,President,,LIB,Steve Kerbel,0
 Calaveras,260,President,,REP,Ted Cruz,10
-Calaveras,260,President,,AIP,Thomas Hoefling,0
 Calaveras,260,President,,AIP,Wiley Drake,1
-Calaveras,260,President,,GRN,William Kreml,0
-Calaveras,260,President,,DEM,Willie Wilson,0
 Calaveras,260,State Assembly,5,REP,Frank Bigelow,215
 Calaveras,260,State Assembly,5,DEM,Kai Ellsworth,42
 Calaveras,260,State Assembly,5,IND,Mark Belden,53
@@ -1010,12 +606,9 @@ Calaveras,260,U.S. Senate,,IND,Don J. Grundmann,1
 Calaveras,260,U.S. Senate,,REP,Don Krampe,7
 Calaveras,260,U.S. Senate,,REP,Duf Sundheim,45
 Calaveras,260,U.S. Senate,,IND,Eleanor García,1
-Calaveras,260,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,260,U.S. Senate,,LIB,Gail K. Lightfoot,12
-Calaveras,260,U.S. Senate,,IND,Gar Myers,0
 Calaveras,260,U.S. Senate,,REP,George C. Yang,1
 Calaveras,260,U.S. Senate,,REP,Greg Conlon,14
-Calaveras,260,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,260,U.S. Senate,,REP,Jarrell Williamson,3
 Calaveras,260,U.S. Senate,,IND,Jason Hanania,2
 Calaveras,260,U.S. Senate,,IND,Jason Kraus,2
@@ -1036,47 +629,23 @@ Calaveras,260,U.S. Senate,,REP,Ron Unz,7
 Calaveras,260,U.S. Senate,,IND,Scott A. Vineberg,2
 Calaveras,260,U.S. Senate,,DEM,Steve Stokes,8
 Calaveras,260,U.S. Senate,,REP,Thomas G. Del Beccaro,28
-Calaveras,260,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,260,U.S. Senate,,REP,Tom Palzer,7
 Calaveras,260,U.S. Senate,,REP,Von Hougo,6
 Calaveras,310,President,,AIP,Alan Spears,1
-Calaveras,310,President,,AIP,Arthur Harris,0
-Calaveras,310,President,,LIB,Austin Petersen,0
 Calaveras,310,President,,REP,Ben Carson,5
 Calaveras,310,President,,DEM,Bernie Sanders,142
-Calaveras,310,President,,LIB,Cecil Ince,0
-Calaveras,310,President,,GRN,Darryl Cherney,0
-Calaveras,310,President,,LIB,Darryl W. Perry,0
-Calaveras,310,President,,LIB,Derrick M. Reid,0
 Calaveras,310,President,,REP,Donald Trump,206
 Calaveras,310,President,,LIB,Gary Johnson,1
-Calaveras,310,President,,PAF,Gloria Estela La Riva,0
-Calaveras,310,President,,DEM,Henry Hewes,0
 Calaveras,310,President,,DEM,Hillary Clinton,158
 Calaveras,310,President,,AIP,J.R. Myers,1
-Calaveras,310,President,,LIB,"Jack Robinson, Jr.",0
 Calaveras,310,President,,AIP,James Hedges,1
 Calaveras,310,President,,GRN,Jill Stein,2
 Calaveras,310,President,,REP,Jim Gilmore,2
-Calaveras,310,President,,LIB,John Hale,0
-Calaveras,310,President,,LIB,John McAfee,0
 Calaveras,310,President,,REP,John R. Kasich,19
-Calaveras,310,President,,LIB,Joy Waymire,0
-Calaveras,310,President,,DEM,Keith Judd,0
-Calaveras,310,President,,GRN,Kent Mesplay,0
-Calaveras,310,President,,PAF,Lynn S. Kahn,0
-Calaveras,310,President,,LIB,Marc Feldman,0
 Calaveras,310,President,,DEM,Michael Steinberg,1
-Calaveras,310,President,,PAF,Monica Moorehead,0
-Calaveras,310,President,,LIB,Rhett White Feather Smith,0
 Calaveras,310,President,,AIP,Robert Ornelas,1
-Calaveras,310,President,,DEM,Roque De La Fuente,0
-Calaveras,310,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,310,President,,LIB,Steve Kerbel,0
 Calaveras,310,President,,REP,Ted Cruz,12
-Calaveras,310,President,,AIP,Thomas Hoefling,0
 Calaveras,310,President,,AIP,Wiley Drake,2
-Calaveras,310,President,,GRN,William Kreml,0
 Calaveras,310,President,,DEM,Willie Wilson,1
 Calaveras,310,State Assembly,5,REP,Frank Bigelow,306
 Calaveras,310,State Assembly,5,DEM,Kai Ellsworth,55
@@ -1085,17 +654,11 @@ Calaveras,310,State Assembly,5,DEM,Robert Carabas,179
 Calaveras,310,U.S. House,4,DEM,Robert W. Derlet,213
 Calaveras,310,U.S. House,4,DEM,Sean White,62
 Calaveras,310,U.S. House,4,REP,Tom McClintock,324
-Calaveras,310,U.S. Senate,,IND,Clive Grey,0
-Calaveras,310,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,310,U.S. Senate,,REP,Don Krampe,9
 Calaveras,310,U.S. Senate,,REP,Duf Sundheim,68
-Calaveras,310,U.S. Senate,,IND,Eleanor García,0
-Calaveras,310,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,310,U.S. Senate,,LIB,Gail K. Lightfoot,6
-Calaveras,310,U.S. Senate,,IND,Gar Myers,0
 Calaveras,310,U.S. Senate,,REP,George C. Yang,9
 Calaveras,310,U.S. Senate,,REP,Greg Conlon,35
-Calaveras,310,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,310,U.S. Senate,,REP,Jarrell Williamson,5
 Calaveras,310,U.S. Senate,,IND,Jason Hanania,2
 Calaveras,310,U.S. Senate,,IND,Jason Kraus,5
@@ -1103,7 +666,6 @@ Calaveras,310,U.S. Senate,,REP,Jerry J. Laws,1
 Calaveras,310,U.S. Senate,,PAF,John Thompson Parker,3
 Calaveras,310,U.S. Senate,,DEM,Kamala D. Harris,234
 Calaveras,310,U.S. Senate,,REP,Karen Roseberry,7
-Calaveras,310,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,310,U.S. Senate,,DEM,Loretta L. Sanchez,50
 Calaveras,310,U.S. Senate,,LIB,Mark Matthew Herd,1
 Calaveras,310,U.S. Senate,,DEM,Massie Munroe,8
@@ -1113,50 +675,20 @@ Calaveras,310,U.S. Senate,,IND,Paul Merritt,4
 Calaveras,310,U.S. Senate,,REP,Phil Wyman,42
 Calaveras,310,U.S. Senate,,DEM,President Cristina Grappo,1
 Calaveras,310,U.S. Senate,,REP,Ron Unz,15
-Calaveras,310,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,310,U.S. Senate,,DEM,Steve Stokes,21
 Calaveras,310,U.S. Senate,,REP,Thomas G. Del Beccaro,27
 Calaveras,310,U.S. Senate,,IND,Tim Gildersleeve,2
 Calaveras,310,U.S. Senate,,REP,Tom Palzer,11
 Calaveras,310,U.S. Senate,,REP,Von Hougo,4
-Calaveras,320,President,,AIP,Alan Spears,0
 Calaveras,320,President,,AIP,Arthur Harris,1
-Calaveras,320,President,,LIB,Austin Petersen,0
 Calaveras,320,President,,REP,Ben Carson,6
 Calaveras,320,President,,DEM,Bernie Sanders,97
-Calaveras,320,President,,LIB,Cecil Ince,0
-Calaveras,320,President,,GRN,Darryl Cherney,0
-Calaveras,320,President,,LIB,Darryl W. Perry,0
-Calaveras,320,President,,LIB,Derrick M. Reid,0
 Calaveras,320,President,,REP,Donald Trump,155
 Calaveras,320,President,,LIB,Gary Johnson,5
-Calaveras,320,President,,PAF,Gloria Estela La Riva,0
-Calaveras,320,President,,DEM,Henry Hewes,0
 Calaveras,320,President,,DEM,Hillary Clinton,116
-Calaveras,320,President,,AIP,J.R. Myers,0
-Calaveras,320,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,320,President,,AIP,James Hedges,0
-Calaveras,320,President,,GRN,Jill Stein,0
-Calaveras,320,President,,REP,Jim Gilmore,0
-Calaveras,320,President,,LIB,John Hale,0
-Calaveras,320,President,,LIB,John McAfee,0
 Calaveras,320,President,,REP,John R. Kasich,28
-Calaveras,320,President,,LIB,Joy Waymire,0
-Calaveras,320,President,,DEM,Keith Judd,0
-Calaveras,320,President,,GRN,Kent Mesplay,0
-Calaveras,320,President,,PAF,Lynn S. Kahn,0
-Calaveras,320,President,,LIB,Marc Feldman,0
 Calaveras,320,President,,DEM,Michael Steinberg,1
-Calaveras,320,President,,PAF,Monica Moorehead,0
-Calaveras,320,President,,LIB,Rhett White Feather Smith,0
-Calaveras,320,President,,AIP,Robert Ornelas,0
-Calaveras,320,President,,DEM,Roque De La Fuente,0
-Calaveras,320,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,320,President,,LIB,Steve Kerbel,0
 Calaveras,320,President,,REP,Ted Cruz,20
-Calaveras,320,President,,AIP,Thomas Hoefling,0
-Calaveras,320,President,,AIP,Wiley Drake,0
-Calaveras,320,President,,GRN,William Kreml,0
 Calaveras,320,President,,DEM,Willie Wilson,1
 Calaveras,320,State Assembly,5,REP,Frank Bigelow,246
 Calaveras,320,State Assembly,5,DEM,Kai Ellsworth,44
@@ -1166,20 +698,13 @@ Calaveras,320,U.S. House,4,DEM,Robert W. Derlet,140
 Calaveras,320,U.S. House,4,DEM,Sean White,43
 Calaveras,320,U.S. House,4,REP,Tom McClintock,265
 Calaveras,320,U.S. Senate,,IND,Clive Grey,2
-Calaveras,320,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,320,U.S. Senate,,REP,Don Krampe,8
 Calaveras,320,U.S. Senate,,REP,Duf Sundheim,69
-Calaveras,320,U.S. Senate,,IND,Eleanor García,0
-Calaveras,320,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,320,U.S. Senate,,LIB,Gail K. Lightfoot,7
-Calaveras,320,U.S. Senate,,IND,Gar Myers,0
 Calaveras,320,U.S. Senate,,REP,George C. Yang,7
 Calaveras,320,U.S. Senate,,REP,Greg Conlon,30
-Calaveras,320,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,320,U.S. Senate,,REP,Jarrell Williamson,5
-Calaveras,320,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,320,U.S. Senate,,IND,Jason Kraus,2
-Calaveras,320,U.S. Senate,,REP,Jerry J. Laws,0
 Calaveras,320,U.S. Senate,,PAF,John Thompson Parker,2
 Calaveras,320,U.S. Senate,,DEM,Kamala D. Harris,164
 Calaveras,320,U.S. Senate,,REP,Karen Roseberry,10
@@ -1193,50 +718,22 @@ Calaveras,320,U.S. Senate,,IND,Paul Merritt,3
 Calaveras,320,U.S. Senate,,REP,Phil Wyman,28
 Calaveras,320,U.S. Senate,,DEM,President Cristina Grappo,1
 Calaveras,320,U.S. Senate,,REP,Ron Unz,5
-Calaveras,320,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,320,U.S. Senate,,DEM,Steve Stokes,10
 Calaveras,320,U.S. Senate,,REP,Thomas G. Del Beccaro,43
-Calaveras,320,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,320,U.S. Senate,,REP,Tom Palzer,2
 Calaveras,320,U.S. Senate,,REP,Von Hougo,1
-Calaveras,330,President,,AIP,Alan Spears,0
-Calaveras,330,President,,AIP,Arthur Harris,0
-Calaveras,330,President,,LIB,Austin Petersen,0
 Calaveras,330,President,,REP,Ben Carson,5
 Calaveras,330,President,,DEM,Bernie Sanders,134
-Calaveras,330,President,,LIB,Cecil Ince,0
 Calaveras,330,President,,GRN,Darryl Cherney,1
-Calaveras,330,President,,LIB,Darryl W. Perry,0
-Calaveras,330,President,,LIB,Derrick M. Reid,0
 Calaveras,330,President,,REP,Donald Trump,156
 Calaveras,330,President,,LIB,Gary Johnson,3
-Calaveras,330,President,,PAF,Gloria Estela La Riva,0
 Calaveras,330,President,,DEM,Henry Hewes,1
 Calaveras,330,President,,DEM,Hillary Clinton,139
 Calaveras,330,President,,AIP,J.R. Myers,1
-Calaveras,330,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,330,President,,AIP,James Hedges,0
-Calaveras,330,President,,GRN,Jill Stein,0
 Calaveras,330,President,,REP,Jim Gilmore,1
-Calaveras,330,President,,LIB,John Hale,0
-Calaveras,330,President,,LIB,John McAfee,0
 Calaveras,330,President,,REP,John R. Kasich,12
-Calaveras,330,President,,LIB,Joy Waymire,0
-Calaveras,330,President,,DEM,Keith Judd,0
-Calaveras,330,President,,GRN,Kent Mesplay,0
-Calaveras,330,President,,PAF,Lynn S. Kahn,0
-Calaveras,330,President,,LIB,Marc Feldman,0
 Calaveras,330,President,,DEM,Michael Steinberg,1
-Calaveras,330,President,,PAF,Monica Moorehead,0
-Calaveras,330,President,,LIB,Rhett White Feather Smith,0
-Calaveras,330,President,,AIP,Robert Ornelas,0
-Calaveras,330,President,,DEM,Roque De La Fuente,0
-Calaveras,330,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,330,President,,LIB,Steve Kerbel,0
 Calaveras,330,President,,REP,Ted Cruz,12
-Calaveras,330,President,,AIP,Thomas Hoefling,0
-Calaveras,330,President,,AIP,Wiley Drake,0
-Calaveras,330,President,,GRN,William Kreml,0
 Calaveras,330,President,,DEM,Willie Wilson,1
 Calaveras,330,State Assembly,5,REP,Frank Bigelow,240
 Calaveras,330,State Assembly,5,DEM,Kai Ellsworth,51
@@ -1249,21 +746,15 @@ Calaveras,330,U.S. Senate,,IND,Clive Grey,2
 Calaveras,330,U.S. Senate,,IND,Don J. Grundmann,1
 Calaveras,330,U.S. Senate,,REP,Don Krampe,5
 Calaveras,330,U.S. Senate,,REP,Duf Sundheim,52
-Calaveras,330,U.S. Senate,,IND,Eleanor García,0
 Calaveras,330,U.S. Senate,,DEM,Emory Rodgers,1
 Calaveras,330,U.S. Senate,,LIB,Gail K. Lightfoot,10
-Calaveras,330,U.S. Senate,,IND,Gar Myers,0
 Calaveras,330,U.S. Senate,,REP,George C. Yang,4
 Calaveras,330,U.S. Senate,,REP,Greg Conlon,21
-Calaveras,330,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,330,U.S. Senate,,REP,Jarrell Williamson,4
-Calaveras,330,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,330,U.S. Senate,,IND,Jason Kraus,2
 Calaveras,330,U.S. Senate,,REP,Jerry J. Laws,2
-Calaveras,330,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,330,U.S. Senate,,DEM,Kamala D. Harris,216
 Calaveras,330,U.S. Senate,,REP,Karen Roseberry,3
-Calaveras,330,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,330,U.S. Senate,,DEM,Loretta L. Sanchez,40
 Calaveras,330,U.S. Senate,,LIB,Mark Matthew Herd,3
 Calaveras,330,U.S. Senate,,DEM,Massie Munroe,1
@@ -1271,52 +762,25 @@ Calaveras,330,U.S. Senate,,IND,Mike Beitiks,1
 Calaveras,330,U.S. Senate,,GRN,Pamela Elizondo,8
 Calaveras,330,U.S. Senate,,IND,Paul Merritt,1
 Calaveras,330,U.S. Senate,,REP,Phil Wyman,31
-Calaveras,330,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,330,U.S. Senate,,REP,Ron Unz,18
-Calaveras,330,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,330,U.S. Senate,,DEM,Steve Stokes,14
 Calaveras,330,U.S. Senate,,REP,Thomas G. Del Beccaro,33
-Calaveras,330,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,330,U.S. Senate,,REP,Tom Palzer,7
 Calaveras,330,U.S. Senate,,REP,Von Hougo,4
 Calaveras,350,President,,AIP,Alan Spears,2
-Calaveras,350,President,,AIP,Arthur Harris,0
-Calaveras,350,President,,LIB,Austin Petersen,0
 Calaveras,350,President,,REP,Ben Carson,19
 Calaveras,350,President,,DEM,Bernie Sanders,195
-Calaveras,350,President,,LIB,Cecil Ince,0
-Calaveras,350,President,,GRN,Darryl Cherney,0
-Calaveras,350,President,,LIB,Darryl W. Perry,0
-Calaveras,350,President,,LIB,Derrick M. Reid,0
 Calaveras,350,President,,REP,Donald Trump,217
 Calaveras,350,President,,LIB,Gary Johnson,3
-Calaveras,350,President,,PAF,Gloria Estela La Riva,0
-Calaveras,350,President,,DEM,Henry Hewes,0
 Calaveras,350,President,,DEM,Hillary Clinton,161
 Calaveras,350,President,,AIP,J.R. Myers,1
 Calaveras,350,President,,LIB,"Jack Robinson, Jr.",1
 Calaveras,350,President,,AIP,James Hedges,1
 Calaveras,350,President,,GRN,Jill Stein,1
 Calaveras,350,President,,REP,Jim Gilmore,1
-Calaveras,350,President,,LIB,John Hale,0
-Calaveras,350,President,,LIB,John McAfee,0
 Calaveras,350,President,,REP,John R. Kasich,45
-Calaveras,350,President,,LIB,Joy Waymire,0
-Calaveras,350,President,,DEM,Keith Judd,0
-Calaveras,350,President,,GRN,Kent Mesplay,0
-Calaveras,350,President,,PAF,Lynn S. Kahn,0
-Calaveras,350,President,,LIB,Marc Feldman,0
-Calaveras,350,President,,DEM,Michael Steinberg,0
-Calaveras,350,President,,PAF,Monica Moorehead,0
-Calaveras,350,President,,LIB,Rhett White Feather Smith,0
-Calaveras,350,President,,AIP,Robert Ornelas,0
-Calaveras,350,President,,DEM,Roque De La Fuente,0
-Calaveras,350,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,350,President,,LIB,Steve Kerbel,0
 Calaveras,350,President,,REP,Ted Cruz,26
 Calaveras,350,President,,AIP,Thomas Hoefling,1
-Calaveras,350,President,,AIP,Wiley Drake,0
-Calaveras,350,President,,GRN,William Kreml,0
 Calaveras,350,President,,DEM,Willie Wilson,3
 Calaveras,350,State Assembly,5,REP,Frank Bigelow,375
 Calaveras,350,State Assembly,5,DEM,Kai Ellsworth,89
@@ -1326,13 +790,11 @@ Calaveras,350,U.S. House,4,DEM,Robert W. Derlet,226
 Calaveras,350,U.S. House,4,DEM,Sean White,90
 Calaveras,350,U.S. House,4,REP,Tom McClintock,393
 Calaveras,350,U.S. Senate,,IND,Clive Grey,5
-Calaveras,350,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,350,U.S. Senate,,REP,Don Krampe,13
 Calaveras,350,U.S. Senate,,REP,Duf Sundheim,94
 Calaveras,350,U.S. Senate,,IND,Eleanor García,3
 Calaveras,350,U.S. Senate,,DEM,Emory Rodgers,1
 Calaveras,350,U.S. Senate,,LIB,Gail K. Lightfoot,11
-Calaveras,350,U.S. Senate,,IND,Gar Myers,0
 Calaveras,350,U.S. Senate,,REP,George C. Yang,8
 Calaveras,350,U.S. Senate,,REP,Greg Conlon,48
 Calaveras,350,U.S. Senate,,DEM,Herbert G. Peters,1
@@ -1347,7 +809,6 @@ Calaveras,350,U.S. Senate,,IND,Ling Ling Shi,1
 Calaveras,350,U.S. Senate,,DEM,Loretta L. Sanchez,73
 Calaveras,350,U.S. Senate,,LIB,Mark Matthew Herd,4
 Calaveras,350,U.S. Senate,,DEM,Massie Munroe,5
-Calaveras,350,U.S. Senate,,IND,Mike Beitiks,0
 Calaveras,350,U.S. Senate,,GRN,Pamela Elizondo,21
 Calaveras,350,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,350,U.S. Senate,,REP,Phil Wyman,60
@@ -1356,47 +817,23 @@ Calaveras,350,U.S. Senate,,REP,Ron Unz,13
 Calaveras,350,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,350,U.S. Senate,,DEM,Steve Stokes,17
 Calaveras,350,U.S. Senate,,REP,Thomas G. Del Beccaro,29
-Calaveras,350,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,350,U.S. Senate,,REP,Tom Palzer,11
 Calaveras,350,U.S. Senate,,REP,Von Hougo,7
-Calaveras,360,President,,AIP,Alan Spears,0
-Calaveras,360,President,,AIP,Arthur Harris,0
-Calaveras,360,President,,LIB,Austin Petersen,0
 Calaveras,360,President,,REP,Ben Carson,7
 Calaveras,360,President,,DEM,Bernie Sanders,184
-Calaveras,360,President,,LIB,Cecil Ince,0
-Calaveras,360,President,,GRN,Darryl Cherney,0
-Calaveras,360,President,,LIB,Darryl W. Perry,0
-Calaveras,360,President,,LIB,Derrick M. Reid,0
 Calaveras,360,President,,REP,Donald Trump,188
 Calaveras,360,President,,LIB,Gary Johnson,2
-Calaveras,360,President,,PAF,Gloria Estela La Riva,0
 Calaveras,360,President,,DEM,Henry Hewes,1
 Calaveras,360,President,,DEM,Hillary Clinton,128
 Calaveras,360,President,,AIP,J.R. Myers,1
-Calaveras,360,President,,LIB,"Jack Robinson, Jr.",0
 Calaveras,360,President,,AIP,James Hedges,1
 Calaveras,360,President,,GRN,Jill Stein,2
-Calaveras,360,President,,REP,Jim Gilmore,0
-Calaveras,360,President,,LIB,John Hale,0
-Calaveras,360,President,,LIB,John McAfee,0
 Calaveras,360,President,,REP,John R. Kasich,38
 Calaveras,360,President,,LIB,Joy Waymire,2
 Calaveras,360,President,,DEM,Keith Judd,1
-Calaveras,360,President,,GRN,Kent Mesplay,0
-Calaveras,360,President,,PAF,Lynn S. Kahn,0
-Calaveras,360,President,,LIB,Marc Feldman,0
 Calaveras,360,President,,DEM,Michael Steinberg,2
-Calaveras,360,President,,PAF,Monica Moorehead,0
-Calaveras,360,President,,LIB,Rhett White Feather Smith,0
-Calaveras,360,President,,AIP,Robert Ornelas,0
 Calaveras,360,President,,DEM,Roque De La Fuente,1
-Calaveras,360,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,360,President,,LIB,Steve Kerbel,0
 Calaveras,360,President,,REP,Ted Cruz,12
-Calaveras,360,President,,AIP,Thomas Hoefling,0
-Calaveras,360,President,,AIP,Wiley Drake,0
-Calaveras,360,President,,GRN,William Kreml,0
 Calaveras,360,President,,DEM,Willie Wilson,1
 Calaveras,360,State Assembly,5,REP,Frank Bigelow,307
 Calaveras,360,State Assembly,5,DEM,Kai Ellsworth,67
@@ -1405,14 +842,12 @@ Calaveras,360,State Assembly,5,DEM,Robert Carabas,162
 Calaveras,360,U.S. House,4,DEM,Robert W. Derlet,185
 Calaveras,360,U.S. House,4,DEM,Sean White,82
 Calaveras,360,U.S. House,4,REP,Tom McClintock,338
-Calaveras,360,U.S. Senate,,IND,Clive Grey,0
 Calaveras,360,U.S. Senate,,IND,Don J. Grundmann,3
 Calaveras,360,U.S. Senate,,REP,Don Krampe,9
 Calaveras,360,U.S. Senate,,REP,Duf Sundheim,77
 Calaveras,360,U.S. Senate,,IND,Eleanor García,1
 Calaveras,360,U.S. Senate,,DEM,Emory Rodgers,2
 Calaveras,360,U.S. Senate,,LIB,Gail K. Lightfoot,11
-Calaveras,360,U.S. Senate,,IND,Gar Myers,0
 Calaveras,360,U.S. Senate,,REP,George C. Yang,7
 Calaveras,360,U.S. Senate,,REP,Greg Conlon,22
 Calaveras,360,U.S. Senate,,DEM,Herbert G. Peters,3
@@ -1420,10 +855,8 @@ Calaveras,360,U.S. Senate,,REP,Jarrell Williamson,3
 Calaveras,360,U.S. Senate,,IND,Jason Hanania,4
 Calaveras,360,U.S. Senate,,IND,Jason Kraus,6
 Calaveras,360,U.S. Senate,,REP,Jerry J. Laws,2
-Calaveras,360,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,360,U.S. Senate,,DEM,Kamala D. Harris,214
 Calaveras,360,U.S. Senate,,REP,Karen Roseberry,2
-Calaveras,360,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,360,U.S. Senate,,DEM,Loretta L. Sanchez,73
 Calaveras,360,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,360,U.S. Senate,,DEM,Massie Munroe,3
@@ -1439,44 +872,20 @@ Calaveras,360,U.S. Senate,,REP,Thomas G. Del Beccaro,38
 Calaveras,360,U.S. Senate,,IND,Tim Gildersleeve,1
 Calaveras,360,U.S. Senate,,REP,Tom Palzer,8
 Calaveras,360,U.S. Senate,,REP,Von Hougo,9
-Calaveras,370,President,,AIP,Alan Spears,0
-Calaveras,370,President,,AIP,Arthur Harris,0
 Calaveras,370,President,,LIB,Austin Petersen,1
 Calaveras,370,President,,REP,Ben Carson,11
 Calaveras,370,President,,DEM,Bernie Sanders,99
-Calaveras,370,President,,LIB,Cecil Ince,0
-Calaveras,370,President,,GRN,Darryl Cherney,0
-Calaveras,370,President,,LIB,Darryl W. Perry,0
-Calaveras,370,President,,LIB,Derrick M. Reid,0
 Calaveras,370,President,,REP,Donald Trump,188
 Calaveras,370,President,,LIB,Gary Johnson,4
-Calaveras,370,President,,PAF,Gloria Estela La Riva,0
 Calaveras,370,President,,DEM,Henry Hewes,1
 Calaveras,370,President,,DEM,Hillary Clinton,135
 Calaveras,370,President,,AIP,J.R. Myers,1
 Calaveras,370,President,,LIB,"Jack Robinson, Jr.",1
-Calaveras,370,President,,AIP,James Hedges,0
 Calaveras,370,President,,GRN,Jill Stein,3
-Calaveras,370,President,,REP,Jim Gilmore,0
-Calaveras,370,President,,LIB,John Hale,0
 Calaveras,370,President,,LIB,John McAfee,1
 Calaveras,370,President,,REP,John R. Kasich,22
-Calaveras,370,President,,LIB,Joy Waymire,0
-Calaveras,370,President,,DEM,Keith Judd,0
-Calaveras,370,President,,GRN,Kent Mesplay,0
-Calaveras,370,President,,PAF,Lynn S. Kahn,0
-Calaveras,370,President,,LIB,Marc Feldman,0
-Calaveras,370,President,,DEM,Michael Steinberg,0
-Calaveras,370,President,,PAF,Monica Moorehead,0
-Calaveras,370,President,,LIB,Rhett White Feather Smith,0
-Calaveras,370,President,,AIP,Robert Ornelas,0
 Calaveras,370,President,,DEM,Roque De La Fuente,1
-Calaveras,370,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,370,President,,LIB,Steve Kerbel,0
 Calaveras,370,President,,REP,Ted Cruz,11
-Calaveras,370,President,,AIP,Thomas Hoefling,0
-Calaveras,370,President,,AIP,Wiley Drake,0
-Calaveras,370,President,,GRN,William Kreml,0
 Calaveras,370,President,,DEM,Willie Wilson,3
 Calaveras,370,State Assembly,5,REP,Frank Bigelow,294
 Calaveras,370,State Assembly,5,DEM,Kai Ellsworth,58
@@ -1486,24 +895,19 @@ Calaveras,370,U.S. House,4,DEM,Robert W. Derlet,142
 Calaveras,370,U.S. House,4,DEM,Sean White,77
 Calaveras,370,U.S. House,4,REP,Tom McClintock,300
 Calaveras,370,U.S. Senate,,IND,Clive Grey,3
-Calaveras,370,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,370,U.S. Senate,,REP,Don Krampe,7
 Calaveras,370,U.S. Senate,,REP,Duf Sundheim,62
 Calaveras,370,U.S. Senate,,IND,Eleanor García,1
-Calaveras,370,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,370,U.S. Senate,,LIB,Gail K. Lightfoot,9
-Calaveras,370,U.S. Senate,,IND,Gar Myers,0
 Calaveras,370,U.S. Senate,,REP,George C. Yang,7
 Calaveras,370,U.S. Senate,,REP,Greg Conlon,25
 Calaveras,370,U.S. Senate,,DEM,Herbert G. Peters,1
 Calaveras,370,U.S. Senate,,REP,Jarrell Williamson,2
-Calaveras,370,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,370,U.S. Senate,,IND,Jason Kraus,3
 Calaveras,370,U.S. Senate,,REP,Jerry J. Laws,3
 Calaveras,370,U.S. Senate,,PAF,John Thompson Parker,1
 Calaveras,370,U.S. Senate,,DEM,Kamala D. Harris,192
 Calaveras,370,U.S. Senate,,REP,Karen Roseberry,6
-Calaveras,370,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,370,U.S. Senate,,DEM,Loretta L. Sanchez,46
 Calaveras,370,U.S. Senate,,LIB,Mark Matthew Herd,5
 Calaveras,370,U.S. Senate,,DEM,Massie Munroe,2
@@ -1511,52 +915,26 @@ Calaveras,370,U.S. Senate,,IND,Mike Beitiks,1
 Calaveras,370,U.S. Senate,,GRN,Pamela Elizondo,11
 Calaveras,370,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,370,U.S. Senate,,REP,Phil Wyman,43
-Calaveras,370,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,370,U.S. Senate,,REP,Ron Unz,9
 Calaveras,370,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,370,U.S. Senate,,DEM,Steve Stokes,17
 Calaveras,370,U.S. Senate,,REP,Thomas G. Del Beccaro,21
-Calaveras,370,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,370,U.S. Senate,,REP,Tom Palzer,15
 Calaveras,370,U.S. Senate,,REP,Von Hougo,6
-Calaveras,410,President,,AIP,Alan Spears,0
 Calaveras,410,President,,AIP,Arthur Harris,2
-Calaveras,410,President,,LIB,Austin Petersen,0
 Calaveras,410,President,,REP,Ben Carson,9
 Calaveras,410,President,,DEM,Bernie Sanders,136
-Calaveras,410,President,,LIB,Cecil Ince,0
-Calaveras,410,President,,GRN,Darryl Cherney,0
-Calaveras,410,President,,LIB,Darryl W. Perry,0
-Calaveras,410,President,,LIB,Derrick M. Reid,0
 Calaveras,410,President,,REP,Donald Trump,252
 Calaveras,410,President,,LIB,Gary Johnson,4
-Calaveras,410,President,,PAF,Gloria Estela La Riva,0
-Calaveras,410,President,,DEM,Henry Hewes,0
 Calaveras,410,President,,DEM,Hillary Clinton,105
-Calaveras,410,President,,AIP,J.R. Myers,0
-Calaveras,410,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,410,President,,AIP,James Hedges,0
 Calaveras,410,President,,GRN,Jill Stein,1
 Calaveras,410,President,,REP,Jim Gilmore,1
-Calaveras,410,President,,LIB,John Hale,0
-Calaveras,410,President,,LIB,John McAfee,0
 Calaveras,410,President,,REP,John R. Kasich,20
-Calaveras,410,President,,LIB,Joy Waymire,0
-Calaveras,410,President,,DEM,Keith Judd,0
-Calaveras,410,President,,GRN,Kent Mesplay,0
-Calaveras,410,President,,PAF,Lynn S. Kahn,0
-Calaveras,410,President,,LIB,Marc Feldman,0
-Calaveras,410,President,,DEM,Michael Steinberg,0
-Calaveras,410,President,,PAF,Monica Moorehead,0
 Calaveras,410,President,,LIB,Rhett White Feather Smith,1
-Calaveras,410,President,,AIP,Robert Ornelas,0
 Calaveras,410,President,,DEM,Roque De La Fuente,2
-Calaveras,410,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,410,President,,LIB,Steve Kerbel,0
 Calaveras,410,President,,REP,Ted Cruz,26
 Calaveras,410,President,,AIP,Thomas Hoefling,3
 Calaveras,410,President,,AIP,Wiley Drake,1
-Calaveras,410,President,,GRN,William Kreml,0
 Calaveras,410,President,,DEM,Willie Wilson,2
 Calaveras,410,State Assembly,5,REP,Frank Bigelow,389
 Calaveras,410,State Assembly,5,DEM,Kai Ellsworth,40
@@ -1566,24 +944,20 @@ Calaveras,410,U.S. House,4,DEM,Robert W. Derlet,144
 Calaveras,410,U.S. House,4,DEM,Sean White,77
 Calaveras,410,U.S. House,4,REP,Tom McClintock,406
 Calaveras,410,U.S. Senate,,IND,Clive Grey,3
-Calaveras,410,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,410,U.S. Senate,,REP,Don Krampe,25
 Calaveras,410,U.S. Senate,,REP,Duf Sundheim,75
 Calaveras,410,U.S. Senate,,IND,Eleanor García,3
-Calaveras,410,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,410,U.S. Senate,,LIB,Gail K. Lightfoot,12
 Calaveras,410,U.S. Senate,,IND,Gar Myers,1
 Calaveras,410,U.S. Senate,,REP,George C. Yang,7
 Calaveras,410,U.S. Senate,,REP,Greg Conlon,33
 Calaveras,410,U.S. Senate,,DEM,Herbert G. Peters,2
 Calaveras,410,U.S. Senate,,REP,Jarrell Williamson,7
-Calaveras,410,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,410,U.S. Senate,,IND,Jason Kraus,2
 Calaveras,410,U.S. Senate,,REP,Jerry J. Laws,6
 Calaveras,410,U.S. Senate,,PAF,John Thompson Parker,3
 Calaveras,410,U.S. Senate,,DEM,Kamala D. Harris,156
 Calaveras,410,U.S. Senate,,REP,Karen Roseberry,11
-Calaveras,410,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,410,U.S. Senate,,DEM,Loretta L. Sanchez,47
 Calaveras,410,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,410,U.S. Senate,,DEM,Massie Munroe,9
@@ -1591,7 +965,6 @@ Calaveras,410,U.S. Senate,,IND,Mike Beitiks,5
 Calaveras,410,U.S. Senate,,GRN,Pamela Elizondo,7
 Calaveras,410,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,410,U.S. Senate,,REP,Phil Wyman,96
-Calaveras,410,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,410,U.S. Senate,,REP,Ron Unz,12
 Calaveras,410,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,410,U.S. Senate,,DEM,Steve Stokes,15
@@ -1599,44 +972,20 @@ Calaveras,410,U.S. Senate,,REP,Thomas G. Del Beccaro,40
 Calaveras,410,U.S. Senate,,IND,Tim Gildersleeve,2
 Calaveras,410,U.S. Senate,,REP,Tom Palzer,12
 Calaveras,410,U.S. Senate,,REP,Von Hougo,3
-Calaveras,420,President,,AIP,Alan Spears,0
-Calaveras,420,President,,AIP,Arthur Harris,0
 Calaveras,420,President,,LIB,Austin Petersen,1
 Calaveras,420,President,,REP,Ben Carson,9
 Calaveras,420,President,,DEM,Bernie Sanders,102
-Calaveras,420,President,,LIB,Cecil Ince,0
 Calaveras,420,President,,GRN,Darryl Cherney,1
-Calaveras,420,President,,LIB,Darryl W. Perry,0
-Calaveras,420,President,,LIB,Derrick M. Reid,0
 Calaveras,420,President,,REP,Donald Trump,163
 Calaveras,420,President,,LIB,Gary Johnson,8
-Calaveras,420,President,,PAF,Gloria Estela La Riva,0
-Calaveras,420,President,,DEM,Henry Hewes,0
 Calaveras,420,President,,DEM,Hillary Clinton,111
-Calaveras,420,President,,AIP,J.R. Myers,0
 Calaveras,420,President,,LIB,"Jack Robinson, Jr.",1
-Calaveras,420,President,,AIP,James Hedges,0
-Calaveras,420,President,,GRN,Jill Stein,0
-Calaveras,420,President,,REP,Jim Gilmore,0
-Calaveras,420,President,,LIB,John Hale,0
-Calaveras,420,President,,LIB,John McAfee,0
 Calaveras,420,President,,REP,John R. Kasich,10
-Calaveras,420,President,,LIB,Joy Waymire,0
-Calaveras,420,President,,DEM,Keith Judd,0
-Calaveras,420,President,,GRN,Kent Mesplay,0
-Calaveras,420,President,,PAF,Lynn S. Kahn,0
-Calaveras,420,President,,LIB,Marc Feldman,0
 Calaveras,420,President,,DEM,Michael Steinberg,1
-Calaveras,420,President,,PAF,Monica Moorehead,0
 Calaveras,420,President,,LIB,Rhett White Feather Smith,1
-Calaveras,420,President,,AIP,Robert Ornelas,0
 Calaveras,420,President,,DEM,Roque De La Fuente,1
-Calaveras,420,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,420,President,,LIB,Steve Kerbel,0
 Calaveras,420,President,,REP,Ted Cruz,31
-Calaveras,420,President,,AIP,Thomas Hoefling,0
 Calaveras,420,President,,AIP,Wiley Drake,1
-Calaveras,420,President,,GRN,William Kreml,0
 Calaveras,420,President,,DEM,Willie Wilson,3
 Calaveras,420,State Assembly,5,REP,Frank Bigelow,303
 Calaveras,420,State Assembly,5,DEM,Kai Ellsworth,37
@@ -1680,43 +1029,22 @@ Calaveras,420,U.S. Senate,,IND,Tim Gildersleeve,2
 Calaveras,420,U.S. Senate,,REP,Tom Palzer,12
 Calaveras,420,U.S. Senate,,REP,Von Hougo,9
 Calaveras,430,President,,AIP,Alan Spears,2
-Calaveras,430,President,,AIP,Arthur Harris,0
 Calaveras,430,President,,LIB,Austin Petersen,1
 Calaveras,430,President,,REP,Ben Carson,14
 Calaveras,430,President,,DEM,Bernie Sanders,105
-Calaveras,430,President,,LIB,Cecil Ince,0
-Calaveras,430,President,,GRN,Darryl Cherney,0
-Calaveras,430,President,,LIB,Darryl W. Perry,0
-Calaveras,430,President,,LIB,Derrick M. Reid,0
 Calaveras,430,President,,REP,Donald Trump,289
-Calaveras,430,President,,LIB,Gary Johnson,0
 Calaveras,430,President,,PAF,Gloria Estela La Riva,1
 Calaveras,430,President,,DEM,Henry Hewes,1
 Calaveras,430,President,,DEM,Hillary Clinton,174
-Calaveras,430,President,,AIP,J.R. Myers,0
-Calaveras,430,President,,LIB,"Jack Robinson, Jr.",0
 Calaveras,430,President,,AIP,James Hedges,1
-Calaveras,430,President,,GRN,Jill Stein,0
-Calaveras,430,President,,REP,Jim Gilmore,0
-Calaveras,430,President,,LIB,John Hale,0
 Calaveras,430,President,,LIB,John McAfee,1
 Calaveras,430,President,,REP,John R. Kasich,57
-Calaveras,430,President,,LIB,Joy Waymire,0
 Calaveras,430,President,,DEM,Keith Judd,2
-Calaveras,430,President,,GRN,Kent Mesplay,0
-Calaveras,430,President,,PAF,Lynn S. Kahn,0
-Calaveras,430,President,,LIB,Marc Feldman,0
-Calaveras,430,President,,DEM,Michael Steinberg,0
 Calaveras,430,President,,PAF,Monica Moorehead,1
-Calaveras,430,President,,LIB,Rhett White Feather Smith,0
 Calaveras,430,President,,AIP,Robert Ornelas,1
-Calaveras,430,President,,DEM,Roque De La Fuente,0
-Calaveras,430,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,430,President,,LIB,Steve Kerbel,0
 Calaveras,430,President,,REP,Ted Cruz,26
 Calaveras,430,President,,AIP,Thomas Hoefling,1
 Calaveras,430,President,,AIP,Wiley Drake,1
-Calaveras,430,President,,GRN,William Kreml,0
 Calaveras,430,President,,DEM,Willie Wilson,2
 Calaveras,430,State Assembly,5,REP,Frank Bigelow,490
 Calaveras,430,State Assembly,5,DEM,Kai Ellsworth,49
@@ -1726,16 +1054,12 @@ Calaveras,430,U.S. House,4,DEM,Robert W. Derlet,203
 Calaveras,430,U.S. House,4,DEM,Sean White,58
 Calaveras,430,U.S. House,4,REP,Tom McClintock,523
 Calaveras,430,U.S. Senate,,IND,Clive Grey,2
-Calaveras,430,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,430,U.S. Senate,,REP,Don Krampe,14
 Calaveras,430,U.S. Senate,,REP,Duf Sundheim,111
 Calaveras,430,U.S. Senate,,IND,Eleanor García,1
-Calaveras,430,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,430,U.S. Senate,,LIB,Gail K. Lightfoot,14
-Calaveras,430,U.S. Senate,,IND,Gar Myers,0
 Calaveras,430,U.S. Senate,,REP,George C. Yang,10
 Calaveras,430,U.S. Senate,,REP,Greg Conlon,50
-Calaveras,430,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,430,U.S. Senate,,REP,Jarrell Williamson,7
 Calaveras,430,U.S. Senate,,IND,Jason Hanania,2
 Calaveras,430,U.S. Senate,,IND,Jason Kraus,3
@@ -1756,47 +1080,22 @@ Calaveras,430,U.S. Senate,,REP,Ron Unz,28
 Calaveras,430,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,430,U.S. Senate,,DEM,Steve Stokes,9
 Calaveras,430,U.S. Senate,,REP,Thomas G. Del Beccaro,56
-Calaveras,430,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,430,U.S. Senate,,REP,Tom Palzer,17
 Calaveras,430,U.S. Senate,,REP,Von Hougo,15
 Calaveras,440,President,,AIP,Alan Spears,1
 Calaveras,440,President,,AIP,Arthur Harris,1
-Calaveras,440,President,,LIB,Austin Petersen,0
 Calaveras,440,President,,REP,Ben Carson,11
 Calaveras,440,President,,DEM,Bernie Sanders,82
-Calaveras,440,President,,LIB,Cecil Ince,0
-Calaveras,440,President,,GRN,Darryl Cherney,0
-Calaveras,440,President,,LIB,Darryl W. Perry,0
-Calaveras,440,President,,LIB,Derrick M. Reid,0
 Calaveras,440,President,,REP,Donald Trump,279
 Calaveras,440,President,,LIB,Gary Johnson,1
-Calaveras,440,President,,PAF,Gloria Estela La Riva,0
-Calaveras,440,President,,DEM,Henry Hewes,0
 Calaveras,440,President,,DEM,Hillary Clinton,98
-Calaveras,440,President,,AIP,J.R. Myers,0
-Calaveras,440,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,440,President,,AIP,James Hedges,0
 Calaveras,440,President,,GRN,Jill Stein,1
 Calaveras,440,President,,REP,Jim Gilmore,1
-Calaveras,440,President,,LIB,John Hale,0
-Calaveras,440,President,,LIB,John McAfee,0
 Calaveras,440,President,,REP,John R. Kasich,19
-Calaveras,440,President,,LIB,Joy Waymire,0
 Calaveras,440,President,,DEM,Keith Judd,3
-Calaveras,440,President,,GRN,Kent Mesplay,0
-Calaveras,440,President,,PAF,Lynn S. Kahn,0
-Calaveras,440,President,,LIB,Marc Feldman,0
 Calaveras,440,President,,DEM,Michael Steinberg,1
 Calaveras,440,President,,PAF,Monica Moorehead,1
-Calaveras,440,President,,LIB,Rhett White Feather Smith,0
-Calaveras,440,President,,AIP,Robert Ornelas,0
-Calaveras,440,President,,DEM,Roque De La Fuente,0
-Calaveras,440,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,440,President,,LIB,Steve Kerbel,0
 Calaveras,440,President,,REP,Ted Cruz,18
-Calaveras,440,President,,AIP,Thomas Hoefling,0
-Calaveras,440,President,,AIP,Wiley Drake,0
-Calaveras,440,President,,GRN,William Kreml,0
 Calaveras,440,President,,DEM,Willie Wilson,1
 Calaveras,440,State Assembly,5,REP,Frank Bigelow,411
 Calaveras,440,State Assembly,5,DEM,Kai Ellsworth,36
@@ -1805,14 +1104,11 @@ Calaveras,440,State Assembly,5,DEM,Robert Carabas,110
 Calaveras,440,U.S. House,4,DEM,Robert W. Derlet,131
 Calaveras,440,U.S. House,4,DEM,Sean White,32
 Calaveras,440,U.S. House,4,REP,Tom McClintock,433
-Calaveras,440,U.S. Senate,,IND,Clive Grey,0
 Calaveras,440,U.S. Senate,,IND,Don J. Grundmann,1
 Calaveras,440,U.S. Senate,,REP,Don Krampe,9
 Calaveras,440,U.S. Senate,,REP,Duf Sundheim,77
 Calaveras,440,U.S. Senate,,IND,Eleanor García,2
-Calaveras,440,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,440,U.S. Senate,,LIB,Gail K. Lightfoot,8
-Calaveras,440,U.S. Senate,,IND,Gar Myers,0
 Calaveras,440,U.S. Senate,,REP,George C. Yang,11
 Calaveras,440,U.S. Senate,,REP,Greg Conlon,42
 Calaveras,440,U.S. Senate,,DEM,Herbert G. Peters,2
@@ -1829,54 +1125,24 @@ Calaveras,440,U.S. Senate,,LIB,Mark Matthew Herd,8
 Calaveras,440,U.S. Senate,,DEM,Massie Munroe,6
 Calaveras,440,U.S. Senate,,IND,Mike Beitiks,2
 Calaveras,440,U.S. Senate,,GRN,Pamela Elizondo,10
-Calaveras,440,U.S. Senate,,IND,Paul Merritt,0
 Calaveras,440,U.S. Senate,,REP,Phil Wyman,75
 Calaveras,440,U.S. Senate,,DEM,President Cristina Grappo,3
 Calaveras,440,U.S. Senate,,REP,Ron Unz,9
-Calaveras,440,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,440,U.S. Senate,,DEM,Steve Stokes,13
 Calaveras,440,U.S. Senate,,REP,Thomas G. Del Beccaro,43
-Calaveras,440,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,440,U.S. Senate,,REP,Tom Palzer,18
 Calaveras,440,U.S. Senate,,REP,Von Hougo,12
 Calaveras,450,President,,AIP,Alan Spears,2
-Calaveras,450,President,,AIP,Arthur Harris,0
-Calaveras,450,President,,LIB,Austin Petersen,0
 Calaveras,450,President,,REP,Ben Carson,7
 Calaveras,450,President,,DEM,Bernie Sanders,88
-Calaveras,450,President,,LIB,Cecil Ince,0
-Calaveras,450,President,,GRN,Darryl Cherney,0
-Calaveras,450,President,,LIB,Darryl W. Perry,0
-Calaveras,450,President,,LIB,Derrick M. Reid,0
 Calaveras,450,President,,REP,Donald Trump,318
 Calaveras,450,President,,LIB,Gary Johnson,4
-Calaveras,450,President,,PAF,Gloria Estela La Riva,0
-Calaveras,450,President,,DEM,Henry Hewes,0
 Calaveras,450,President,,DEM,Hillary Clinton,144
-Calaveras,450,President,,AIP,J.R. Myers,0
-Calaveras,450,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,450,President,,AIP,James Hedges,0
-Calaveras,450,President,,GRN,Jill Stein,0
 Calaveras,450,President,,REP,Jim Gilmore,4
-Calaveras,450,President,,LIB,John Hale,0
-Calaveras,450,President,,LIB,John McAfee,0
 Calaveras,450,President,,REP,John R. Kasich,14
-Calaveras,450,President,,LIB,Joy Waymire,0
-Calaveras,450,President,,DEM,Keith Judd,0
-Calaveras,450,President,,GRN,Kent Mesplay,0
-Calaveras,450,President,,PAF,Lynn S. Kahn,0
-Calaveras,450,President,,LIB,Marc Feldman,0
-Calaveras,450,President,,DEM,Michael Steinberg,0
-Calaveras,450,President,,PAF,Monica Moorehead,0
-Calaveras,450,President,,LIB,Rhett White Feather Smith,0
 Calaveras,450,President,,AIP,Robert Ornelas,1
-Calaveras,450,President,,DEM,Roque De La Fuente,0
-Calaveras,450,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,450,President,,LIB,Steve Kerbel,0
 Calaveras,450,President,,REP,Ted Cruz,26
 Calaveras,450,President,,AIP,Thomas Hoefling,2
-Calaveras,450,President,,AIP,Wiley Drake,0
-Calaveras,450,President,,GRN,William Kreml,0
 Calaveras,450,President,,DEM,Willie Wilson,2
 Calaveras,450,State Assembly,5,REP,Frank Bigelow,465
 Calaveras,450,State Assembly,5,DEM,Kai Ellsworth,35
@@ -1885,12 +1151,9 @@ Calaveras,450,State Assembly,5,DEM,Robert Carabas,133
 Calaveras,450,U.S. House,4,DEM,Robert W. Derlet,163
 Calaveras,450,U.S. House,4,DEM,Sean White,41
 Calaveras,450,U.S. House,4,REP,Tom McClintock,508
-Calaveras,450,U.S. Senate,,IND,Clive Grey,0
-Calaveras,450,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,450,U.S. Senate,,REP,Don Krampe,14
 Calaveras,450,U.S. Senate,,REP,Duf Sundheim,109
 Calaveras,450,U.S. Senate,,IND,Eleanor García,4
-Calaveras,450,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,450,U.S. Senate,,LIB,Gail K. Lightfoot,11
 Calaveras,450,U.S. Senate,,IND,Gar Myers,1
 Calaveras,450,U.S. Senate,,REP,George C. Yang,3
@@ -1900,7 +1163,6 @@ Calaveras,450,U.S. Senate,,REP,Jarrell Williamson,6
 Calaveras,450,U.S. Senate,,IND,Jason Hanania,3
 Calaveras,450,U.S. Senate,,IND,Jason Kraus,7
 Calaveras,450,U.S. Senate,,REP,Jerry J. Laws,3
-Calaveras,450,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,450,U.S. Senate,,DEM,Kamala D. Harris,183
 Calaveras,450,U.S. Senate,,REP,Karen Roseberry,4
 Calaveras,450,U.S. Senate,,IND,Ling Ling Shi,1
@@ -1911,52 +1173,28 @@ Calaveras,450,U.S. Senate,,IND,Mike Beitiks,6
 Calaveras,450,U.S. Senate,,GRN,Pamela Elizondo,7
 Calaveras,450,U.S. Senate,,IND,Paul Merritt,3
 Calaveras,450,U.S. Senate,,REP,Phil Wyman,67
-Calaveras,450,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,450,U.S. Senate,,REP,Ron Unz,24
 Calaveras,450,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,450,U.S. Senate,,DEM,Steve Stokes,12
 Calaveras,450,U.S. Senate,,REP,Thomas G. Del Beccaro,63
-Calaveras,450,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,450,U.S. Senate,,REP,Tom Palzer,16
 Calaveras,450,U.S. Senate,,REP,Von Hougo,11
-Calaveras,530,President,,AIP,Alan Spears,0
 Calaveras,530,President,,AIP,Arthur Harris,2
-Calaveras,530,President,,LIB,Austin Petersen,0
 Calaveras,530,President,,REP,Ben Carson,10
 Calaveras,530,President,,DEM,Bernie Sanders,59
-Calaveras,530,President,,LIB,Cecil Ince,0
-Calaveras,530,President,,GRN,Darryl Cherney,0
-Calaveras,530,President,,LIB,Darryl W. Perry,0
-Calaveras,530,President,,LIB,Derrick M. Reid,0
 Calaveras,530,President,,REP,Donald Trump,249
 Calaveras,530,President,,LIB,Gary Johnson,2
-Calaveras,530,President,,PAF,Gloria Estela La Riva,0
-Calaveras,530,President,,DEM,Henry Hewes,0
 Calaveras,530,President,,DEM,Hillary Clinton,63
 Calaveras,530,President,,AIP,J.R. Myers,1
-Calaveras,530,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,530,President,,AIP,James Hedges,0
 Calaveras,530,President,,GRN,Jill Stein,1
 Calaveras,530,President,,REP,Jim Gilmore,1
-Calaveras,530,President,,LIB,John Hale,0
-Calaveras,530,President,,LIB,John McAfee,0
 Calaveras,530,President,,REP,John R. Kasich,7
-Calaveras,530,President,,LIB,Joy Waymire,0
 Calaveras,530,President,,DEM,Keith Judd,1
-Calaveras,530,President,,GRN,Kent Mesplay,0
-Calaveras,530,President,,PAF,Lynn S. Kahn,0
-Calaveras,530,President,,LIB,Marc Feldman,0
-Calaveras,530,President,,DEM,Michael Steinberg,0
 Calaveras,530,President,,PAF,Monica Moorehead,2
-Calaveras,530,President,,LIB,Rhett White Feather Smith,0
-Calaveras,530,President,,AIP,Robert Ornelas,0
 Calaveras,530,President,,DEM,Roque De La Fuente,1
-Calaveras,530,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,530,President,,LIB,Steve Kerbel,0
 Calaveras,530,President,,REP,Ted Cruz,15
 Calaveras,530,President,,AIP,Thomas Hoefling,3
 Calaveras,530,President,,AIP,Wiley Drake,1
-Calaveras,530,President,,GRN,William Kreml,0
 Calaveras,530,President,,DEM,Willie Wilson,1
 Calaveras,530,State Assembly,5,REP,Frank Bigelow,327
 Calaveras,530,State Assembly,5,DEM,Kai Ellsworth,30
@@ -1966,21 +1204,16 @@ Calaveras,530,U.S. House,4,DEM,Robert W. Derlet,87
 Calaveras,530,U.S. House,4,DEM,Sean White,26
 Calaveras,530,U.S. House,4,REP,Tom McClintock,349
 Calaveras,530,U.S. Senate,,IND,Clive Grey,2
-Calaveras,530,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,530,U.S. Senate,,REP,Don Krampe,10
 Calaveras,530,U.S. Senate,,REP,Duf Sundheim,82
 Calaveras,530,U.S. Senate,,IND,Eleanor García,2
-Calaveras,530,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,530,U.S. Senate,,LIB,Gail K. Lightfoot,4
-Calaveras,530,U.S. Senate,,IND,Gar Myers,0
 Calaveras,530,U.S. Senate,,REP,George C. Yang,2
 Calaveras,530,U.S. Senate,,REP,Greg Conlon,37
-Calaveras,530,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,530,U.S. Senate,,REP,Jarrell Williamson,6
 Calaveras,530,U.S. Senate,,IND,Jason Hanania,1
 Calaveras,530,U.S. Senate,,IND,Jason Kraus,2
 Calaveras,530,U.S. Senate,,REP,Jerry J. Laws,5
-Calaveras,530,U.S. Senate,,PAF,John Thompson Parker,0
 Calaveras,530,U.S. Senate,,DEM,Kamala D. Harris,71
 Calaveras,530,U.S. Senate,,REP,Karen Roseberry,6
 Calaveras,530,U.S. Senate,,IND,Ling Ling Shi,1
@@ -1996,47 +1229,20 @@ Calaveras,530,U.S. Senate,,REP,Ron Unz,12
 Calaveras,530,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,530,U.S. Senate,,DEM,Steve Stokes,11
 Calaveras,530,U.S. Senate,,REP,Thomas G. Del Beccaro,22
-Calaveras,530,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,530,U.S. Senate,,REP,Tom Palzer,11
 Calaveras,530,U.S. Senate,,REP,Von Hougo,9
-Calaveras,540,President,,AIP,Alan Spears,0
-Calaveras,540,President,,AIP,Arthur Harris,0
-Calaveras,540,President,,LIB,Austin Petersen,0
 Calaveras,540,President,,REP,Ben Carson,4
 Calaveras,540,President,,DEM,Bernie Sanders,77
-Calaveras,540,President,,LIB,Cecil Ince,0
-Calaveras,540,President,,GRN,Darryl Cherney,0
-Calaveras,540,President,,LIB,Darryl W. Perry,0
-Calaveras,540,President,,LIB,Derrick M. Reid,0
 Calaveras,540,President,,REP,Donald Trump,205
-Calaveras,540,President,,LIB,Gary Johnson,0
-Calaveras,540,President,,PAF,Gloria Estela La Riva,0
-Calaveras,540,President,,DEM,Henry Hewes,0
 Calaveras,540,President,,DEM,Hillary Clinton,110
-Calaveras,540,President,,AIP,J.R. Myers,0
-Calaveras,540,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,540,President,,AIP,James Hedges,0
 Calaveras,540,President,,GRN,Jill Stein,2
 Calaveras,540,President,,REP,Jim Gilmore,2
-Calaveras,540,President,,LIB,John Hale,0
-Calaveras,540,President,,LIB,John McAfee,0
 Calaveras,540,President,,REP,John R. Kasich,16
-Calaveras,540,President,,LIB,Joy Waymire,0
 Calaveras,540,President,,DEM,Keith Judd,3
-Calaveras,540,President,,GRN,Kent Mesplay,0
 Calaveras,540,President,,PAF,Lynn S. Kahn,1
-Calaveras,540,President,,LIB,Marc Feldman,0
-Calaveras,540,President,,DEM,Michael Steinberg,0
-Calaveras,540,President,,PAF,Monica Moorehead,0
-Calaveras,540,President,,LIB,Rhett White Feather Smith,0
 Calaveras,540,President,,AIP,Robert Ornelas,1
-Calaveras,540,President,,DEM,Roque De La Fuente,0
-Calaveras,540,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,540,President,,LIB,Steve Kerbel,0
 Calaveras,540,President,,REP,Ted Cruz,19
 Calaveras,540,President,,AIP,Thomas Hoefling,1
-Calaveras,540,President,,AIP,Wiley Drake,0
-Calaveras,540,President,,GRN,William Kreml,0
 Calaveras,540,President,,DEM,Willie Wilson,4
 Calaveras,540,State Assembly,5,REP,Frank Bigelow,309
 Calaveras,540,State Assembly,5,DEM,Kai Ellsworth,40
@@ -2050,9 +1256,7 @@ Calaveras,540,U.S. Senate,,IND,Don J. Grundmann,3
 Calaveras,540,U.S. Senate,,REP,Don Krampe,19
 Calaveras,540,U.S. Senate,,REP,Duf Sundheim,56
 Calaveras,540,U.S. Senate,,IND,Eleanor García,3
-Calaveras,540,U.S. Senate,,DEM,Emory Rodgers,0
 Calaveras,540,U.S. Senate,,LIB,Gail K. Lightfoot,7
-Calaveras,540,U.S. Senate,,IND,Gar Myers,0
 Calaveras,540,U.S. Senate,,REP,George C. Yang,6
 Calaveras,540,U.S. Senate,,REP,Greg Conlon,28
 Calaveras,540,U.S. Senate,,DEM,Herbert G. Peters,1
@@ -2063,7 +1267,6 @@ Calaveras,540,U.S. Senate,,REP,Jerry J. Laws,5
 Calaveras,540,U.S. Senate,,PAF,John Thompson Parker,3
 Calaveras,540,U.S. Senate,,DEM,Kamala D. Harris,131
 Calaveras,540,U.S. Senate,,REP,Karen Roseberry,8
-Calaveras,540,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,540,U.S. Senate,,DEM,Loretta L. Sanchez,39
 Calaveras,540,U.S. Senate,,LIB,Mark Matthew Herd,2
 Calaveras,540,U.S. Senate,,DEM,Massie Munroe,3
@@ -2076,47 +1279,23 @@ Calaveras,540,U.S. Senate,,REP,Ron Unz,15
 Calaveras,540,U.S. Senate,,IND,Scott A. Vineberg,3
 Calaveras,540,U.S. Senate,,DEM,Steve Stokes,12
 Calaveras,540,U.S. Senate,,REP,Thomas G. Del Beccaro,27
-Calaveras,540,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,540,U.S. Senate,,REP,Tom Palzer,12
 Calaveras,540,U.S. Senate,,REP,Von Hougo,13
-Calaveras,550,President,,AIP,Alan Spears,0
 Calaveras,550,President,,AIP,Arthur Harris,2
-Calaveras,550,President,,LIB,Austin Petersen,0
 Calaveras,550,President,,REP,Ben Carson,5
 Calaveras,550,President,,DEM,Bernie Sanders,96
-Calaveras,550,President,,LIB,Cecil Ince,0
-Calaveras,550,President,,GRN,Darryl Cherney,0
-Calaveras,550,President,,LIB,Darryl W. Perry,0
-Calaveras,550,President,,LIB,Derrick M. Reid,0
 Calaveras,550,President,,REP,Donald Trump,282
 Calaveras,550,President,,LIB,Gary Johnson,8
-Calaveras,550,President,,PAF,Gloria Estela La Riva,0
 Calaveras,550,President,,DEM,Henry Hewes,1
 Calaveras,550,President,,DEM,Hillary Clinton,115
 Calaveras,550,President,,AIP,J.R. Myers,1
-Calaveras,550,President,,LIB,"Jack Robinson, Jr.",0
 Calaveras,550,President,,AIP,James Hedges,1
-Calaveras,550,President,,GRN,Jill Stein,0
 Calaveras,550,President,,REP,Jim Gilmore,2
-Calaveras,550,President,,LIB,John Hale,0
-Calaveras,550,President,,LIB,John McAfee,0
 Calaveras,550,President,,REP,John R. Kasich,11
-Calaveras,550,President,,LIB,Joy Waymire,0
 Calaveras,550,President,,DEM,Keith Judd,2
-Calaveras,550,President,,GRN,Kent Mesplay,0
-Calaveras,550,President,,PAF,Lynn S. Kahn,0
-Calaveras,550,President,,LIB,Marc Feldman,0
 Calaveras,550,President,,DEM,Michael Steinberg,3
-Calaveras,550,President,,PAF,Monica Moorehead,0
-Calaveras,550,President,,LIB,Rhett White Feather Smith,0
 Calaveras,550,President,,AIP,Robert Ornelas,1
-Calaveras,550,President,,DEM,Roque De La Fuente,0
-Calaveras,550,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,550,President,,LIB,Steve Kerbel,0
 Calaveras,550,President,,REP,Ted Cruz,19
-Calaveras,550,President,,AIP,Thomas Hoefling,0
-Calaveras,550,President,,AIP,Wiley Drake,0
-Calaveras,550,President,,GRN,William Kreml,0
 Calaveras,550,President,,DEM,Willie Wilson,4
 Calaveras,550,State Assembly,5,REP,Frank Bigelow,356
 Calaveras,550,State Assembly,5,DEM,Kai Ellsworth,41
@@ -2138,12 +1317,10 @@ Calaveras,550,U.S. Senate,,REP,Greg Conlon,41
 Calaveras,550,U.S. Senate,,DEM,Herbert G. Peters,2
 Calaveras,550,U.S. Senate,,REP,Jarrell Williamson,11
 Calaveras,550,U.S. Senate,,IND,Jason Hanania,1
-Calaveras,550,U.S. Senate,,IND,Jason Kraus,0
 Calaveras,550,U.S. Senate,,REP,Jerry J. Laws,3
 Calaveras,550,U.S. Senate,,PAF,John Thompson Parker,3
 Calaveras,550,U.S. Senate,,DEM,Kamala D. Harris,149
 Calaveras,550,U.S. Senate,,REP,Karen Roseberry,14
-Calaveras,550,U.S. Senate,,IND,Ling Ling Shi,0
 Calaveras,550,U.S. Senate,,DEM,Loretta L. Sanchez,52
 Calaveras,550,U.S. Senate,,LIB,Mark Matthew Herd,10
 Calaveras,550,U.S. Senate,,DEM,Massie Munroe,8
@@ -2151,7 +1328,6 @@ Calaveras,550,U.S. Senate,,IND,Mike Beitiks,3
 Calaveras,550,U.S. Senate,,GRN,Pamela Elizondo,9
 Calaveras,550,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,550,U.S. Senate,,REP,Phil Wyman,60
-Calaveras,550,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,550,U.S. Senate,,REP,Ron Unz,17
 Calaveras,550,U.S. Senate,,IND,Scott A. Vineberg,3
 Calaveras,550,U.S. Senate,,DEM,Steve Stokes,15
@@ -2159,44 +1335,22 @@ Calaveras,550,U.S. Senate,,REP,Thomas G. Del Beccaro,33
 Calaveras,550,U.S. Senate,,IND,Tim Gildersleeve,4
 Calaveras,550,U.S. Senate,,REP,Tom Palzer,18
 Calaveras,550,U.S. Senate,,REP,Von Hougo,7
-Calaveras,560,President,,AIP,Alan Spears,0
 Calaveras,560,President,,AIP,Arthur Harris,1
-Calaveras,560,President,,LIB,Austin Petersen,0
 Calaveras,560,President,,REP,Ben Carson,10
 Calaveras,560,President,,DEM,Bernie Sanders,95
-Calaveras,560,President,,LIB,Cecil Ince,0
-Calaveras,560,President,,GRN,Darryl Cherney,0
-Calaveras,560,President,,LIB,Darryl W. Perry,0
-Calaveras,560,President,,LIB,Derrick M. Reid,0
 Calaveras,560,President,,REP,Donald Trump,221
 Calaveras,560,President,,LIB,Gary Johnson,1
-Calaveras,560,President,,PAF,Gloria Estela La Riva,0
-Calaveras,560,President,,DEM,Henry Hewes,0
 Calaveras,560,President,,DEM,Hillary Clinton,95
 Calaveras,560,President,,AIP,J.R. Myers,2
-Calaveras,560,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,560,President,,AIP,James Hedges,0
-Calaveras,560,President,,GRN,Jill Stein,0
 Calaveras,560,President,,REP,Jim Gilmore,1
-Calaveras,560,President,,LIB,John Hale,0
-Calaveras,560,President,,LIB,John McAfee,0
 Calaveras,560,President,,REP,John R. Kasich,13
-Calaveras,560,President,,LIB,Joy Waymire,0
 Calaveras,560,President,,DEM,Keith Judd,2
-Calaveras,560,President,,GRN,Kent Mesplay,0
-Calaveras,560,President,,PAF,Lynn S. Kahn,0
-Calaveras,560,President,,LIB,Marc Feldman,0
 Calaveras,560,President,,DEM,Michael Steinberg,2
-Calaveras,560,President,,PAF,Monica Moorehead,0
-Calaveras,560,President,,LIB,Rhett White Feather Smith,0
 Calaveras,560,President,,AIP,Robert Ornelas,2
-Calaveras,560,President,,DEM,Roque De La Fuente,0
 Calaveras,560,President,,GRN,Sedinam Moyowasifsa-Curry,1
-Calaveras,560,President,,LIB,Steve Kerbel,0
 Calaveras,560,President,,REP,Ted Cruz,14
 Calaveras,560,President,,AIP,Thomas Hoefling,1
 Calaveras,560,President,,AIP,Wiley Drake,1
-Calaveras,560,President,,GRN,William Kreml,0
 Calaveras,560,President,,DEM,Willie Wilson,3
 Calaveras,560,State Assembly,5,REP,Frank Bigelow,321
 Calaveras,560,State Assembly,5,DEM,Kai Ellsworth,35
@@ -2215,9 +1369,7 @@ Calaveras,560,U.S. Senate,,LIB,Gail K. Lightfoot,16
 Calaveras,560,U.S. Senate,,IND,Gar Myers,1
 Calaveras,560,U.S. Senate,,REP,George C. Yang,4
 Calaveras,560,U.S. Senate,,REP,Greg Conlon,27
-Calaveras,560,U.S. Senate,,DEM,Herbert G. Peters,0
 Calaveras,560,U.S. Senate,,REP,Jarrell Williamson,11
-Calaveras,560,U.S. Senate,,IND,Jason Hanania,0
 Calaveras,560,U.S. Senate,,IND,Jason Kraus,2
 Calaveras,560,U.S. Senate,,REP,Jerry J. Laws,7
 Calaveras,560,U.S. Senate,,PAF,John Thompson Parker,2
@@ -2231,9 +1383,7 @@ Calaveras,560,U.S. Senate,,IND,Mike Beitiks,5
 Calaveras,560,U.S. Senate,,GRN,Pamela Elizondo,15
 Calaveras,560,U.S. Senate,,IND,Paul Merritt,2
 Calaveras,560,U.S. Senate,,REP,Phil Wyman,59
-Calaveras,560,U.S. Senate,,DEM,President Cristina Grappo,0
 Calaveras,560,U.S. Senate,,REP,Ron Unz,14
-Calaveras,560,U.S. Senate,,IND,Scott A. Vineberg,0
 Calaveras,560,U.S. Senate,,DEM,Steve Stokes,11
 Calaveras,560,U.S. Senate,,REP,Thomas G. Del Beccaro,22
 Calaveras,560,U.S. Senate,,IND,Tim Gildersleeve,1
@@ -2241,42 +1391,18 @@ Calaveras,560,U.S. Senate,,REP,Tom Palzer,16
 Calaveras,560,U.S. Senate,,REP,Von Hougo,12
 Calaveras,570,President,,AIP,Alan Spears,4
 Calaveras,570,President,,AIP,Arthur Harris,1
-Calaveras,570,President,,LIB,Austin Petersen,0
 Calaveras,570,President,,REP,Ben Carson,5
 Calaveras,570,President,,DEM,Bernie Sanders,81
-Calaveras,570,President,,LIB,Cecil Ince,0
-Calaveras,570,President,,GRN,Darryl Cherney,0
-Calaveras,570,President,,LIB,Darryl W. Perry,0
-Calaveras,570,President,,LIB,Derrick M. Reid,0
 Calaveras,570,President,,REP,Donald Trump,222
 Calaveras,570,President,,LIB,Gary Johnson,3
-Calaveras,570,President,,PAF,Gloria Estela La Riva,0
-Calaveras,570,President,,DEM,Henry Hewes,0
 Calaveras,570,President,,DEM,Hillary Clinton,81
 Calaveras,570,President,,AIP,J.R. Myers,2
-Calaveras,570,President,,LIB,"Jack Robinson, Jr.",0
-Calaveras,570,President,,AIP,James Hedges,0
-Calaveras,570,President,,GRN,Jill Stein,0
 Calaveras,570,President,,REP,Jim Gilmore,1
-Calaveras,570,President,,LIB,John Hale,0
 Calaveras,570,President,,LIB,John McAfee,2
 Calaveras,570,President,,REP,John R. Kasich,5
-Calaveras,570,President,,LIB,Joy Waymire,0
-Calaveras,570,President,,DEM,Keith Judd,0
-Calaveras,570,President,,GRN,Kent Mesplay,0
-Calaveras,570,President,,PAF,Lynn S. Kahn,0
-Calaveras,570,President,,LIB,Marc Feldman,0
-Calaveras,570,President,,DEM,Michael Steinberg,0
-Calaveras,570,President,,PAF,Monica Moorehead,0
-Calaveras,570,President,,LIB,Rhett White Feather Smith,0
 Calaveras,570,President,,AIP,Robert Ornelas,1
-Calaveras,570,President,,DEM,Roque De La Fuente,0
-Calaveras,570,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Calaveras,570,President,,LIB,Steve Kerbel,0
 Calaveras,570,President,,REP,Ted Cruz,16
 Calaveras,570,President,,AIP,Thomas Hoefling,1
-Calaveras,570,President,,AIP,Wiley Drake,0
-Calaveras,570,President,,GRN,William Kreml,0
 Calaveras,570,President,,DEM,Willie Wilson,3
 Calaveras,570,State Assembly,5,REP,Frank Bigelow,282
 Calaveras,570,State Assembly,5,DEM,Kai Ellsworth,45
@@ -2286,7 +1412,6 @@ Calaveras,570,U.S. House,4,DEM,Robert W. Derlet,114
 Calaveras,570,U.S. House,4,DEM,Sean White,35
 Calaveras,570,U.S. House,4,REP,Tom McClintock,308
 Calaveras,570,U.S. Senate,,IND,Clive Grey,3
-Calaveras,570,U.S. Senate,,IND,Don J. Grundmann,0
 Calaveras,570,U.S. Senate,,REP,Don Krampe,13
 Calaveras,570,U.S. Senate,,REP,Duf Sundheim,42
 Calaveras,570,U.S. Senate,,IND,Eleanor García,3
@@ -2316,6 +1441,5 @@ Calaveras,570,U.S. Senate,,REP,Ron Unz,14
 Calaveras,570,U.S. Senate,,IND,Scott A. Vineberg,1
 Calaveras,570,U.S. Senate,,DEM,Steve Stokes,11
 Calaveras,570,U.S. Senate,,REP,Thomas G. Del Beccaro,21
-Calaveras,570,U.S. Senate,,IND,Tim Gildersleeve,0
 Calaveras,570,U.S. Senate,,REP,Tom Palzer,27
 Calaveras,570,U.S. Senate,,REP,Von Hougo,11
