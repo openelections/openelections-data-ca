@@ -16,16 +16,27 @@ office_dict = {'PRS': 'President',
                'SEN': 'State Senate',
                'ASS': 'State Assembly'}
 
+prop_dict = {'Y': 'Yes',
+             'N': 'No'}
+
 
 class Entry(object):
 
     def __init__(self, split):
-        self.__process(split[0])
         self.candidate = ' '.join(split[1:-1]).strip('*')
+        self.__process(split[0])
 
     def __process(self, code):
-        self.office = office_dict[code[0:3]]
-        if len(code) == 8:
+        if code[0:3] == 'PR_':
+            self.office = 'Proposition ' + code.split('_')[1]
+            self.candidate = prop_dict[code[-1]]
+        else:
+            self.office = office_dict[code[0:3]]
+
+        if len(code) < 8:
+            self.district = ''
+            self.party = ''
+        elif len(code) == 8:
             self.district = ''
             self.party = code[3:6]
         else:
@@ -55,7 +66,7 @@ class Codes(object):
         self.code_dict = {}
         for line in self.data.iter_lines():
             split = str(line, self.data.encoding).strip().split()
-            if split[0] == 'TOTREG' or split[0] == 'TOTVOTE' or split[0].startswith('PR_'):
+            if split[0] == 'TOTREG' or split[0] == 'TOTVOTE':
                 continue
             entry = Entry(split)
             if entry.candidate in self.candidate_lookup:
@@ -63,9 +74,15 @@ class Codes(object):
             self.code_dict[split[0]] = entry
 
     def office(self, column):
+        if column.startswith('PR_'):
+            return 'Proposition ' + column.split('_')[1]
+
         return office_dict[column[0:3]]
 
     def party(self, column):
+        if column.startswith('PR_'):
+            return ''
+
         return column[-5:-2]
 
     def lookup(self, column, district=None):

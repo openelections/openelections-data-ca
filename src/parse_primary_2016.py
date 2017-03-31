@@ -1,7 +1,11 @@
+import numpy as np
 import pandas
+
+from swdb.util import COUNTIES
 
 presidential_xls = 'http://elections.cdn.sos.ca.gov/sov/2016-primary/csv-presidential-candidates.xls'
 voter_nominated_xls = 'http://elections.cdn.sos.ca.gov/sov/2016-primary/csv-voter-nominated-candidates.xls'
+props_xls = 'http://elections.cdn.sos.ca.gov/sov/2016-primary/130-state-ballot-measures-formatted.xls'
 
 contest_names = set(['President %s' % x for x in
                      ['Democratic',
@@ -50,7 +54,15 @@ contest_split.office.fillna('U.S. Senate', inplace=True)
 voter_nominated = pandas.concat([voter_nominated, contest_split], axis=1)
 voter_nominated = voter_nominated.replace({'office': office_dict})[columns]
 
-result = pandas.concat([presidential, voter_nominated]
+props = pandas.read_excel(props_xls,
+                          names=['COUNTY_NAME', 'Yes', 'No'],
+                          header=None).assign(office='Proposition 50')
+props = props[props.COUNTY_NAME.isin(COUNTIES)]
+props = pandas.melt(
+    props, id_vars=['COUNTY_NAME', 'office'], value_vars=['Yes', 'No'], var_name='CANDIDATE_NAME', value_name='VOTE_TOTAL')
+props = props.assign(district='').assign(PARTY_NAME='')[columns]
+
+result = pandas.concat([presidential, voter_nominated, props]
                        ).replace({'PARTY_NAME': party_dict,
                                   'CANDIDATE_NAME': candidate_dict})
 
