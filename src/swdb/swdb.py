@@ -61,7 +61,9 @@ class SWDBResults(object):
 
         # All counties aside from Humboldt and Los Angeles have absentee
         # ballots for precincts coded with a trailing 'A'.
-        if self.county != 'Humboldt' and self.county != 'Los Angeles':
+        if self.county == 'Humboldt':
+            df.svprec = df.svprec.apply(lambda x: x.rstrip('_A'))
+        elif self.county != 'Los Angeles':
             df.svprec = df.svprec.apply(lambda x: x.rstrip('A'))
 
         result = pd.DataFrame(columns=fieldnames)
