@@ -5,12 +5,24 @@ Nevada,CP01,Board of Equalization,1,DEM,Chris Parker,378
 Nevada,CP01,Board of Equalization,1,REP,George Runner,443
 Nevada,CP01,Controller,,REP,Ashley Swearengin,433
 Nevada,CP01,Controller,,DEM,Betty T. Yee,411
-Nevada,CP01,Governor,,DEM,Edmund G. Brown,457
+Nevada,CP01,Governor,,DEM,"Edmund G. ""Jerry"" Brown",457
 Nevada,CP01,Governor,,REP,Neel Kashkari,408
 Nevada,CP01,Insurance Commissioner,,DEM,Dave Jones,412
 Nevada,CP01,Insurance Commissioner,,REP,Ted Gaines,431
 Nevada,CP01,Lieutenant Governor,,DEM,Gavin Newsom,422
 Nevada,CP01,Lieutenant Governor,,REP,Ron Nehring,429
+Nevada,CP01,Proposition 1,,,No,421
+Nevada,CP01,Proposition 1,,,Yes,429
+Nevada,CP01,Proposition 2,,,No,321
+Nevada,CP01,Proposition 2,,,Yes,505
+Nevada,CP01,Proposition 45,,,No,539
+Nevada,CP01,Proposition 45,,,Yes,303
+Nevada,CP01,Proposition 46,,,No,670
+Nevada,CP01,Proposition 46,,,Yes,186
+Nevada,CP01,Proposition 47,,,No,387
+Nevada,CP01,Proposition 47,,,Yes,469
+Nevada,CP01,Proposition 48,,,No,583
+Nevada,CP01,Proposition 48,,,Yes,258
 Nevada,CP01,Secretary of State,,DEM,Alex Padilla,399
 Nevada,CP01,Secretary of State,,REP,Pete Peterson,450
 Nevada,CP01,State Assembly,1,REP,Brian Dahle,488
@@ -27,12 +39,24 @@ Nevada,CP02,Board of Equalization,1,DEM,Chris Parker,240
 Nevada,CP02,Board of Equalization,1,REP,George Runner,330
 Nevada,CP02,Controller,,REP,Ashley Swearengin,329
 Nevada,CP02,Controller,,DEM,Betty T. Yee,261
-Nevada,CP02,Governor,,DEM,Edmund G. Brown,324
+Nevada,CP02,Governor,,DEM,"Edmund G. ""Jerry"" Brown",324
 Nevada,CP02,Governor,,REP,Neel Kashkari,279
 Nevada,CP02,Insurance Commissioner,,DEM,Dave Jones,265
 Nevada,CP02,Insurance Commissioner,,REP,Ted Gaines,318
 Nevada,CP02,Lieutenant Governor,,DEM,Gavin Newsom,284
 Nevada,CP02,Lieutenant Governor,,REP,Ron Nehring,311
+Nevada,CP02,Proposition 1,,,No,274
+Nevada,CP02,Proposition 1,,,Yes,319
+Nevada,CP02,Proposition 2,,,No,198
+Nevada,CP02,Proposition 2,,,Yes,389
+Nevada,CP02,Proposition 45,,,No,377
+Nevada,CP02,Proposition 45,,,Yes,207
+Nevada,CP02,Proposition 46,,,No,478
+Nevada,CP02,Proposition 46,,,Yes,126
+Nevada,CP02,Proposition 47,,,No,277
+Nevada,CP02,Proposition 47,,,Yes,327
+Nevada,CP02,Proposition 48,,,No,403
+Nevada,CP02,Proposition 48,,,Yes,184
 Nevada,CP02,Secretary of State,,DEM,Alex Padilla,251
 Nevada,CP02,Secretary of State,,REP,Pete Peterson,330
 Nevada,CP02,State Assembly,1,REP,Brian Dahle,346
@@ -49,12 +73,24 @@ Nevada,CP03,Board of Equalization,1,DEM,Chris Parker,349
 Nevada,CP03,Board of Equalization,1,REP,George Runner,475
 Nevada,CP03,Controller,,REP,Ashley Swearengin,471
 Nevada,CP03,Controller,,DEM,Betty T. Yee,377
-Nevada,CP03,Governor,,DEM,Edmund G. Brown,420
+Nevada,CP03,Governor,,DEM,"Edmund G. ""Jerry"" Brown",420
 Nevada,CP03,Governor,,REP,Neel Kashkari,457
 Nevada,CP03,Insurance Commissioner,,DEM,Dave Jones,381
 Nevada,CP03,Insurance Commissioner,,REP,Ted Gaines,462
 Nevada,CP03,Lieutenant Governor,,DEM,Gavin Newsom,396
 Nevada,CP03,Lieutenant Governor,,REP,Ron Nehring,469
+Nevada,CP03,Proposition 1,,,No,381
+Nevada,CP03,Proposition 1,,,Yes,462
+Nevada,CP03,Proposition 2,,,No,311
+Nevada,CP03,Proposition 2,,,Yes,531
+Nevada,CP03,Proposition 45,,,No,552
+Nevada,CP03,Proposition 45,,,Yes,297
+Nevada,CP03,Proposition 46,,,No,686
+Nevada,CP03,Proposition 46,,,Yes,181
+Nevada,CP03,Proposition 47,,,No,406
+Nevada,CP03,Proposition 47,,,Yes,466
+Nevada,CP03,Proposition 48,,,No,563
+Nevada,CP03,Proposition 48,,,Yes,279
 Nevada,CP03,Secretary of State,,DEM,Alex Padilla,364
 Nevada,CP03,Secretary of State,,REP,Pete Peterson,491
 Nevada,CP03,State Assembly,1,REP,Brian Dahle,519
@@ -71,12 +107,24 @@ Nevada,CP04,Board of Equalization,1,DEM,Chris Parker,492
 Nevada,CP04,Board of Equalization,1,REP,George Runner,350
 Nevada,CP04,Controller,,REP,Ashley Swearengin,327
 Nevada,CP04,Controller,,DEM,Betty T. Yee,534
-Nevada,CP04,Governor,,DEM,Edmund G. Brown,594
+Nevada,CP04,Governor,,DEM,"Edmund G. ""Jerry"" Brown",594
 Nevada,CP04,Governor,,REP,Neel Kashkari,304
 Nevada,CP04,Insurance Commissioner,,DEM,Dave Jones,532
 Nevada,CP04,Insurance Commissioner,,REP,Ted Gaines,332
 Nevada,CP04,Lieutenant Governor,,DEM,Gavin Newsom,556
 Nevada,CP04,Lieutenant Governor,,REP,Ron Nehring,325
+Nevada,CP04,Proposition 1,,,No,427
+Nevada,CP04,Proposition 1,,,Yes,439
+Nevada,CP04,Proposition 2,,,No,277
+Nevada,CP04,Proposition 2,,,Yes,570
+Nevada,CP04,Proposition 45,,,No,458
+Nevada,CP04,Proposition 45,,,Yes,412
+Nevada,CP04,Proposition 46,,,No,682
+Nevada,CP04,Proposition 46,,,Yes,199
+Nevada,CP04,Proposition 47,,,No,293
+Nevada,CP04,Proposition 47,,,Yes,588
+Nevada,CP04,Proposition 48,,,No,564
+Nevada,CP04,Proposition 48,,,Yes,289
 Nevada,CP04,Secretary of State,,DEM,Alex Padilla,506
 Nevada,CP04,Secretary of State,,REP,Pete Peterson,361
 Nevada,CP04,State Assembly,1,REP,Brian Dahle,393
@@ -93,12 +141,24 @@ Nevada,CP05,Board of Equalization,1,DEM,Chris Parker,387
 Nevada,CP05,Board of Equalization,1,REP,George Runner,109
 Nevada,CP05,Controller,,REP,Ashley Swearengin,103
 Nevada,CP05,Controller,,DEM,Betty T. Yee,409
-Nevada,CP05,Governor,,DEM,Edmund G. Brown,439
+Nevada,CP05,Governor,,DEM,"Edmund G. ""Jerry"" Brown",439
 Nevada,CP05,Governor,,REP,Neel Kashkari,87
 Nevada,CP05,Insurance Commissioner,,DEM,Dave Jones,416
 Nevada,CP05,Insurance Commissioner,,REP,Ted Gaines,98
 Nevada,CP05,Lieutenant Governor,,DEM,Gavin Newsom,427
 Nevada,CP05,Lieutenant Governor,,REP,Ron Nehring,93
+Nevada,CP05,Proposition 1,,,No,163
+Nevada,CP05,Proposition 1,,,Yes,350
+Nevada,CP05,Proposition 2,,,No,139
+Nevada,CP05,Proposition 2,,,Yes,355
+Nevada,CP05,Proposition 45,,,No,190
+Nevada,CP05,Proposition 45,,,Yes,314
+Nevada,CP05,Proposition 46,,,No,364
+Nevada,CP05,Proposition 46,,,Yes,145
+Nevada,CP05,Proposition 47,,,No,109
+Nevada,CP05,Proposition 47,,,Yes,410
+Nevada,CP05,Proposition 48,,,No,239
+Nevada,CP05,Proposition 48,,,Yes,233
 Nevada,CP05,Secretary of State,,DEM,Alex Padilla,397
 Nevada,CP05,Secretary of State,,REP,Pete Peterson,111
 Nevada,CP05,State Assembly,1,REP,Brian Dahle,137
@@ -115,12 +175,24 @@ Nevada,CP06,Board of Equalization,1,DEM,Chris Parker,569
 Nevada,CP06,Board of Equalization,1,REP,George Runner,344
 Nevada,CP06,Controller,,REP,Ashley Swearengin,346
 Nevada,CP06,Controller,,DEM,Betty T. Yee,602
-Nevada,CP06,Governor,,DEM,Edmund G. Brown,670
+Nevada,CP06,Governor,,DEM,"Edmund G. ""Jerry"" Brown",670
 Nevada,CP06,Governor,,REP,Neel Kashkari,321
 Nevada,CP06,Insurance Commissioner,,DEM,Dave Jones,601
 Nevada,CP06,Insurance Commissioner,,REP,Ted Gaines,343
 Nevada,CP06,Lieutenant Governor,,DEM,Gavin Newsom,656
 Nevada,CP06,Lieutenant Governor,,REP,Ron Nehring,330
+Nevada,CP06,Proposition 1,,,No,437
+Nevada,CP06,Proposition 1,,,Yes,521
+Nevada,CP06,Proposition 2,,,No,327
+Nevada,CP06,Proposition 2,,,Yes,603
+Nevada,CP06,Proposition 45,,,No,482
+Nevada,CP06,Proposition 45,,,Yes,480
+Nevada,CP06,Proposition 46,,,No,735
+Nevada,CP06,Proposition 46,,,Yes,233
+Nevada,CP06,Proposition 47,,,No,292
+Nevada,CP06,Proposition 47,,,Yes,694
+Nevada,CP06,Proposition 48,,,No,571
+Nevada,CP06,Proposition 48,,,Yes,342
 Nevada,CP06,Secretary of State,,DEM,Alex Padilla,601
 Nevada,CP06,Secretary of State,,REP,Pete Peterson,351
 Nevada,CP06,State Assembly,1,REP,Brian Dahle,413
@@ -137,12 +209,24 @@ Nevada,CP07,Board of Equalization,1,DEM,Chris Parker,258
 Nevada,CP07,Board of Equalization,1,REP,George Runner,332
 Nevada,CP07,Controller,,REP,Ashley Swearengin,317
 Nevada,CP07,Controller,,DEM,Betty T. Yee,292
-Nevada,CP07,Governor,,DEM,Edmund G. Brown,339
+Nevada,CP07,Governor,,DEM,"Edmund G. ""Jerry"" Brown",339
 Nevada,CP07,Governor,,REP,Neel Kashkari,293
 Nevada,CP07,Insurance Commissioner,,DEM,Dave Jones,296
 Nevada,CP07,Insurance Commissioner,,REP,Ted Gaines,308
 Nevada,CP07,Lieutenant Governor,,DEM,Gavin Newsom,316
 Nevada,CP07,Lieutenant Governor,,REP,Ron Nehring,301
+Nevada,CP07,Proposition 1,,,No,282
+Nevada,CP07,Proposition 1,,,Yes,336
+Nevada,CP07,Proposition 2,,,No,221
+Nevada,CP07,Proposition 2,,,Yes,381
+Nevada,CP07,Proposition 45,,,No,410
+Nevada,CP07,Proposition 45,,,Yes,206
+Nevada,CP07,Proposition 46,,,No,506
+Nevada,CP07,Proposition 46,,,Yes,124
+Nevada,CP07,Proposition 47,,,No,275
+Nevada,CP07,Proposition 47,,,Yes,354
+Nevada,CP07,Proposition 48,,,No,433
+Nevada,CP07,Proposition 48,,,Yes,169
 Nevada,CP07,Secretary of State,,DEM,Alex Padilla,294
 Nevada,CP07,Secretary of State,,REP,Pete Peterson,316
 Nevada,CP07,State Assembly,1,REP,Brian Dahle,344
@@ -159,12 +243,24 @@ Nevada,CP08,Board of Equalization,1,DEM,Chris Parker,304
 Nevada,CP08,Board of Equalization,1,REP,George Runner,295
 Nevada,CP08,Controller,,REP,Ashley Swearengin,281
 Nevada,CP08,Controller,,DEM,Betty T. Yee,345
-Nevada,CP08,Governor,,DEM,Edmund G. Brown,388
+Nevada,CP08,Governor,,DEM,"Edmund G. ""Jerry"" Brown",388
 Nevada,CP08,Governor,,REP,Neel Kashkari,254
 Nevada,CP08,Insurance Commissioner,,DEM,Dave Jones,339
 Nevada,CP08,Insurance Commissioner,,REP,Ted Gaines,278
 Nevada,CP08,Lieutenant Governor,,DEM,Gavin Newsom,359
 Nevada,CP08,Lieutenant Governor,,REP,Ron Nehring,280
+Nevada,CP08,Proposition 1,,,No,244
+Nevada,CP08,Proposition 1,,,Yes,379
+Nevada,CP08,Proposition 2,,,No,181
+Nevada,CP08,Proposition 2,,,Yes,428
+Nevada,CP08,Proposition 45,,,No,374
+Nevada,CP08,Proposition 45,,,Yes,253
+Nevada,CP08,Proposition 46,,,No,503
+Nevada,CP08,Proposition 46,,,Yes,135
+Nevada,CP08,Proposition 47,,,No,263
+Nevada,CP08,Proposition 47,,,Yes,372
+Nevada,CP08,Proposition 48,,,No,402
+Nevada,CP08,Proposition 48,,,Yes,209
 Nevada,CP08,Secretary of State,,DEM,Alex Padilla,332
 Nevada,CP08,Secretary of State,,REP,Pete Peterson,296
 Nevada,CP08,State Assembly,1,REP,Brian Dahle,317
@@ -181,12 +277,24 @@ Nevada,CP09,Board of Equalization,1,DEM,Chris Parker,404
 Nevada,CP09,Board of Equalization,1,REP,George Runner,193
 Nevada,CP09,Controller,,REP,Ashley Swearengin,188
 Nevada,CP09,Controller,,DEM,Betty T. Yee,427
-Nevada,CP09,Governor,,DEM,Edmund G. Brown,463
+Nevada,CP09,Governor,,DEM,"Edmund G. ""Jerry"" Brown",463
 Nevada,CP09,Governor,,REP,Neel Kashkari,170
 Nevada,CP09,Insurance Commissioner,,DEM,Dave Jones,430
 Nevada,CP09,Insurance Commissioner,,REP,Ted Gaines,184
 Nevada,CP09,Lieutenant Governor,,DEM,Gavin Newsom,448
 Nevada,CP09,Lieutenant Governor,,REP,Ron Nehring,177
+Nevada,CP09,Proposition 1,,,No,240
+Nevada,CP09,Proposition 1,,,Yes,387
+Nevada,CP09,Proposition 2,,,No,187
+Nevada,CP09,Proposition 2,,,Yes,426
+Nevada,CP09,Proposition 45,,,No,293
+Nevada,CP09,Proposition 45,,,Yes,320
+Nevada,CP09,Proposition 46,,,No,467
+Nevada,CP09,Proposition 46,,,Yes,160
+Nevada,CP09,Proposition 47,,,No,170
+Nevada,CP09,Proposition 47,,,Yes,468
+Nevada,CP09,Proposition 48,,,No,361
+Nevada,CP09,Proposition 48,,,Yes,229
 Nevada,CP09,Secretary of State,,DEM,Alex Padilla,421
 Nevada,CP09,Secretary of State,,REP,Pete Peterson,192
 Nevada,CP09,State Assembly,1,REP,Brian Dahle,231
@@ -203,12 +311,24 @@ Nevada,CP10,Board of Equalization,1,DEM,Chris Parker,187
 Nevada,CP10,Board of Equalization,1,REP,George Runner,205
 Nevada,CP10,Controller,,REP,Ashley Swearengin,201
 Nevada,CP10,Controller,,DEM,Betty T. Yee,199
-Nevada,CP10,Governor,,DEM,Edmund G. Brown,228
+Nevada,CP10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",228
 Nevada,CP10,Governor,,REP,Neel Kashkari,181
 Nevada,CP10,Insurance Commissioner,,DEM,Dave Jones,192
 Nevada,CP10,Insurance Commissioner,,REP,Ted Gaines,201
 Nevada,CP10,Lieutenant Governor,,DEM,Gavin Newsom,207
 Nevada,CP10,Lieutenant Governor,,REP,Ron Nehring,200
+Nevada,CP10,Proposition 1,,,No,144
+Nevada,CP10,Proposition 1,,,Yes,245
+Nevada,CP10,Proposition 2,,,No,127
+Nevada,CP10,Proposition 2,,,Yes,258
+Nevada,CP10,Proposition 45,,,No,246
+Nevada,CP10,Proposition 45,,,Yes,150
+Nevada,CP10,Proposition 46,,,No,302
+Nevada,CP10,Proposition 46,,,Yes,103
+Nevada,CP10,Proposition 47,,,No,179
+Nevada,CP10,Proposition 47,,,Yes,228
+Nevada,CP10,Proposition 48,,,No,253
+Nevada,CP10,Proposition 48,,,Yes,135
 Nevada,CP10,Secretary of State,,DEM,Alex Padilla,189
 Nevada,CP10,Secretary of State,,REP,Pete Peterson,205
 Nevada,CP10,State Assembly,1,REP,Brian Dahle,225
@@ -225,12 +345,24 @@ Nevada,CP11,Board of Equalization,1,DEM,Chris Parker,235
 Nevada,CP11,Board of Equalization,1,REP,George Runner,250
 Nevada,CP11,Controller,,REP,Ashley Swearengin,249
 Nevada,CP11,Controller,,DEM,Betty T. Yee,259
-Nevada,CP11,Governor,,DEM,Edmund G. Brown,296
+Nevada,CP11,Governor,,DEM,"Edmund G. ""Jerry"" Brown",296
 Nevada,CP11,Governor,,REP,Neel Kashkari,229
 Nevada,CP11,Insurance Commissioner,,DEM,Dave Jones,270
 Nevada,CP11,Insurance Commissioner,,REP,Ted Gaines,238
 Nevada,CP11,Lieutenant Governor,,DEM,Gavin Newsom,265
 Nevada,CP11,Lieutenant Governor,,REP,Ron Nehring,248
+Nevada,CP11,Proposition 1,,,No,206
+Nevada,CP11,Proposition 1,,,Yes,296
+Nevada,CP11,Proposition 2,,,No,159
+Nevada,CP11,Proposition 2,,,Yes,334
+Nevada,CP11,Proposition 45,,,No,302
+Nevada,CP11,Proposition 45,,,Yes,196
+Nevada,CP11,Proposition 46,,,No,402
+Nevada,CP11,Proposition 46,,,Yes,106
+Nevada,CP11,Proposition 47,,,No,223
+Nevada,CP11,Proposition 47,,,Yes,286
+Nevada,CP11,Proposition 48,,,No,329
+Nevada,CP11,Proposition 48,,,Yes,152
 Nevada,CP11,Secretary of State,,DEM,Alex Padilla,247
 Nevada,CP11,Secretary of State,,REP,Pete Peterson,254
 Nevada,CP11,State Assembly,1,REP,Brian Dahle,280
@@ -247,12 +379,24 @@ Nevada,CP12,Board of Equalization,1,DEM,Chris Parker,231
 Nevada,CP12,Board of Equalization,1,REP,George Runner,537
 Nevada,CP12,Controller,,REP,Ashley Swearengin,544
 Nevada,CP12,Controller,,DEM,Betty T. Yee,239
-Nevada,CP12,Governor,,DEM,Edmund G. Brown,306
+Nevada,CP12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",306
 Nevada,CP12,Governor,,REP,Neel Kashkari,479
 Nevada,CP12,Insurance Commissioner,,DEM,Dave Jones,248
 Nevada,CP12,Insurance Commissioner,,REP,Ted Gaines,531
 Nevada,CP12,Lieutenant Governor,,DEM,Gavin Newsom,262
 Nevada,CP12,Lieutenant Governor,,REP,Ron Nehring,514
+Nevada,CP12,Proposition 1,,,No,398
+Nevada,CP12,Proposition 1,,,Yes,379
+Nevada,CP12,Proposition 2,,,No,266
+Nevada,CP12,Proposition 2,,,Yes,507
+Nevada,CP12,Proposition 45,,,No,575
+Nevada,CP12,Proposition 45,,,Yes,209
+Nevada,CP12,Proposition 46,,,No,630
+Nevada,CP12,Proposition 46,,,Yes,170
+Nevada,CP12,Proposition 47,,,No,432
+Nevada,CP12,Proposition 47,,,Yes,363
+Nevada,CP12,Proposition 48,,,No,572
+Nevada,CP12,Proposition 48,,,Yes,212
 Nevada,CP12,Secretary of State,,DEM,Alex Padilla,235
 Nevada,CP12,Secretary of State,,REP,Pete Peterson,543
 Nevada,CP12,State Assembly,1,REP,Brian Dahle,563
@@ -269,12 +413,24 @@ Nevada,CP13,Board of Equalization,1,DEM,Chris Parker,494
 Nevada,CP13,Board of Equalization,1,REP,George Runner,1123
 Nevada,CP13,Controller,,REP,Ashley Swearengin,1104
 Nevada,CP13,Controller,,DEM,Betty T. Yee,547
-Nevada,CP13,Governor,,DEM,Edmund G. Brown,724
+Nevada,CP13,Governor,,DEM,"Edmund G. ""Jerry"" Brown",724
 Nevada,CP13,Governor,,REP,Neel Kashkari,968
 Nevada,CP13,Insurance Commissioner,,DEM,Dave Jones,578
 Nevada,CP13,Insurance Commissioner,,REP,Ted Gaines,1072
 Nevada,CP13,Lieutenant Governor,,DEM,Gavin Newsom,603
 Nevada,CP13,Lieutenant Governor,,REP,Ron Nehring,1060
+Nevada,CP13,Proposition 1,,,No,661
+Nevada,CP13,Proposition 1,,,Yes,985
+Nevada,CP13,Proposition 2,,,No,470
+Nevada,CP13,Proposition 2,,,Yes,1163
+Nevada,CP13,Proposition 45,,,No,1207
+Nevada,CP13,Proposition 45,,,Yes,444
+Nevada,CP13,Proposition 46,,,No,1357
+Nevada,CP13,Proposition 46,,,Yes,325
+Nevada,CP13,Proposition 47,,,No,850
+Nevada,CP13,Proposition 47,,,Yes,826
+Nevada,CP13,Proposition 48,,,No,1191
+Nevada,CP13,Proposition 48,,,Yes,440
 Nevada,CP13,Secretary of State,,DEM,Alex Padilla,538
 Nevada,CP13,Secretary of State,,REP,Pete Peterson,1118
 Nevada,CP13,State Assembly,1,REP,Brian Dahle,1185
@@ -291,12 +447,24 @@ Nevada,CP14,Board of Equalization,1,DEM,Chris Parker,153
 Nevada,CP14,Board of Equalization,1,REP,George Runner,272
 Nevada,CP14,Controller,,REP,Ashley Swearengin,274
 Nevada,CP14,Controller,,DEM,Betty T. Yee,158
-Nevada,CP14,Governor,,DEM,Edmund G. Brown,181
+Nevada,CP14,Governor,,DEM,"Edmund G. ""Jerry"" Brown",181
 Nevada,CP14,Governor,,REP,Neel Kashkari,263
 Nevada,CP14,Insurance Commissioner,,DEM,Dave Jones,154
 Nevada,CP14,Insurance Commissioner,,REP,Ted Gaines,276
 Nevada,CP14,Lieutenant Governor,,DEM,Gavin Newsom,163
 Nevada,CP14,Lieutenant Governor,,REP,Ron Nehring,285
+Nevada,CP14,Proposition 1,,,No,216
+Nevada,CP14,Proposition 1,,,Yes,222
+Nevada,CP14,Proposition 2,,,No,175
+Nevada,CP14,Proposition 2,,,Yes,255
+Nevada,CP14,Proposition 45,,,No,312
+Nevada,CP14,Proposition 45,,,Yes,126
+Nevada,CP14,Proposition 46,,,No,335
+Nevada,CP14,Proposition 46,,,Yes,108
+Nevada,CP14,Proposition 47,,,No,224
+Nevada,CP14,Proposition 47,,,Yes,224
+Nevada,CP14,Proposition 48,,,No,301
+Nevada,CP14,Proposition 48,,,Yes,138
 Nevada,CP14,Secretary of State,,DEM,Alex Padilla,148
 Nevada,CP14,Secretary of State,,REP,Pete Peterson,289
 Nevada,CP14,State Assembly,1,REP,Brian Dahle,291
@@ -313,12 +481,24 @@ Nevada,CP15,Board of Equalization,1,DEM,Chris Parker,222
 Nevada,CP15,Board of Equalization,1,REP,George Runner,447
 Nevada,CP15,Controller,,REP,Ashley Swearengin,430
 Nevada,CP15,Controller,,DEM,Betty T. Yee,254
-Nevada,CP15,Governor,,DEM,Edmund G. Brown,294
+Nevada,CP15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",294
 Nevada,CP15,Governor,,REP,Neel Kashkari,409
 Nevada,CP15,Insurance Commissioner,,DEM,Dave Jones,234
 Nevada,CP15,Insurance Commissioner,,REP,Ted Gaines,444
 Nevada,CP15,Lieutenant Governor,,DEM,Gavin Newsom,260
 Nevada,CP15,Lieutenant Governor,,REP,Ron Nehring,431
+Nevada,CP15,Proposition 1,,,No,342
+Nevada,CP15,Proposition 1,,,Yes,355
+Nevada,CP15,Proposition 2,,,No,254
+Nevada,CP15,Proposition 2,,,Yes,425
+Nevada,CP15,Proposition 45,,,No,471
+Nevada,CP15,Proposition 45,,,Yes,218
+Nevada,CP15,Proposition 46,,,No,539
+Nevada,CP15,Proposition 46,,,Yes,160
+Nevada,CP15,Proposition 47,,,No,357
+Nevada,CP15,Proposition 47,,,Yes,347
+Nevada,CP15,Proposition 48,,,No,502
+Nevada,CP15,Proposition 48,,,Yes,192
 Nevada,CP15,Secretary of State,,DEM,Alex Padilla,229
 Nevada,CP15,Secretary of State,,REP,Pete Peterson,457
 Nevada,CP15,State Assembly,1,REP,Brian Dahle,504
@@ -335,12 +515,24 @@ Nevada,CP16,Board of Equalization,1,DEM,Chris Parker,102
 Nevada,CP16,Board of Equalization,1,REP,George Runner,158
 Nevada,CP16,Controller,,REP,Ashley Swearengin,157
 Nevada,CP16,Controller,,DEM,Betty T. Yee,109
-Nevada,CP16,Governor,,DEM,Edmund G. Brown,120
+Nevada,CP16,Governor,,DEM,"Edmund G. ""Jerry"" Brown",120
 Nevada,CP16,Governor,,REP,Neel Kashkari,150
 Nevada,CP16,Insurance Commissioner,,DEM,Dave Jones,111
 Nevada,CP16,Insurance Commissioner,,REP,Ted Gaines,151
 Nevada,CP16,Lieutenant Governor,,DEM,Gavin Newsom,118
 Nevada,CP16,Lieutenant Governor,,REP,Ron Nehring,151
+Nevada,CP16,Proposition 1,,,No,123
+Nevada,CP16,Proposition 1,,,Yes,141
+Nevada,CP16,Proposition 2,,,No,86
+Nevada,CP16,Proposition 2,,,Yes,178
+Nevada,CP16,Proposition 45,,,No,178
+Nevada,CP16,Proposition 45,,,Yes,88
+Nevada,CP16,Proposition 46,,,No,220
+Nevada,CP16,Proposition 46,,,Yes,52
+Nevada,CP16,Proposition 47,,,No,133
+Nevada,CP16,Proposition 47,,,Yes,136
+Nevada,CP16,Proposition 48,,,No,184
+Nevada,CP16,Proposition 48,,,Yes,81
 Nevada,CP16,Secretary of State,,DEM,Alex Padilla,101
 Nevada,CP16,Secretary of State,,REP,Pete Peterson,163
 Nevada,CP16,State Assembly,1,REP,Brian Dahle,171
@@ -357,12 +549,24 @@ Nevada,CP17,Board of Equalization,1,DEM,Chris Parker,358
 Nevada,CP17,Board of Equalization,1,REP,George Runner,612
 Nevada,CP17,Controller,,REP,Ashley Swearengin,599
 Nevada,CP17,Controller,,DEM,Betty T. Yee,391
-Nevada,CP17,Governor,,DEM,Edmund G. Brown,465
+Nevada,CP17,Governor,,DEM,"Edmund G. ""Jerry"" Brown",465
 Nevada,CP17,Governor,,REP,Neel Kashkari,550
 Nevada,CP17,Insurance Commissioner,,DEM,Dave Jones,402
 Nevada,CP17,Insurance Commissioner,,REP,Ted Gaines,587
 Nevada,CP17,Lieutenant Governor,,DEM,Gavin Newsom,398
 Nevada,CP17,Lieutenant Governor,,REP,Ron Nehring,607
+Nevada,CP17,Proposition 1,,,No,412
+Nevada,CP17,Proposition 1,,,Yes,574
+Nevada,CP17,Proposition 2,,,No,344
+Nevada,CP17,Proposition 2,,,Yes,627
+Nevada,CP17,Proposition 45,,,No,676
+Nevada,CP17,Proposition 45,,,Yes,314
+Nevada,CP17,Proposition 46,,,No,803
+Nevada,CP17,Proposition 46,,,Yes,212
+Nevada,CP17,Proposition 47,,,No,542
+Nevada,CP17,Proposition 47,,,Yes,464
+Nevada,CP17,Proposition 48,,,No,720
+Nevada,CP17,Proposition 48,,,Yes,267
 Nevada,CP17,Secretary of State,,DEM,Alex Padilla,365
 Nevada,CP17,Secretary of State,,REP,Pete Peterson,622
 Nevada,CP17,State Assembly,1,REP,Brian Dahle,677
@@ -379,12 +583,24 @@ Nevada,CP18,Board of Equalization,1,DEM,Chris Parker,253
 Nevada,CP18,Board of Equalization,1,REP,George Runner,416
 Nevada,CP18,Controller,,REP,Ashley Swearengin,409
 Nevada,CP18,Controller,,DEM,Betty T. Yee,279
-Nevada,CP18,Governor,,DEM,Edmund G. Brown,339
+Nevada,CP18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",339
 Nevada,CP18,Governor,,REP,Neel Kashkari,365
 Nevada,CP18,Insurance Commissioner,,DEM,Dave Jones,287
 Nevada,CP18,Insurance Commissioner,,REP,Ted Gaines,398
 Nevada,CP18,Lieutenant Governor,,DEM,Gavin Newsom,296
 Nevada,CP18,Lieutenant Governor,,REP,Ron Nehring,396
+Nevada,CP18,Proposition 1,,,No,276
+Nevada,CP18,Proposition 1,,,Yes,418
+Nevada,CP18,Proposition 2,,,No,203
+Nevada,CP18,Proposition 2,,,Yes,486
+Nevada,CP18,Proposition 45,,,No,465
+Nevada,CP18,Proposition 45,,,Yes,223
+Nevada,CP18,Proposition 46,,,No,537
+Nevada,CP18,Proposition 46,,,Yes,170
+Nevada,CP18,Proposition 47,,,No,323
+Nevada,CP18,Proposition 47,,,Yes,377
+Nevada,CP18,Proposition 48,,,No,464
+Nevada,CP18,Proposition 48,,,Yes,221
 Nevada,CP18,Secretary of State,,DEM,Alex Padilla,266
 Nevada,CP18,Secretary of State,,REP,Pete Peterson,422
 Nevada,CP18,State Assembly,1,REP,Brian Dahle,452
@@ -401,12 +617,24 @@ Nevada,CP19,Board of Equalization,1,DEM,Chris Parker,272
 Nevada,CP19,Board of Equalization,1,REP,George Runner,536
 Nevada,CP19,Controller,,REP,Ashley Swearengin,517
 Nevada,CP19,Controller,,DEM,Betty T. Yee,314
-Nevada,CP19,Governor,,DEM,Edmund G. Brown,367
+Nevada,CP19,Governor,,DEM,"Edmund G. ""Jerry"" Brown",367
 Nevada,CP19,Governor,,REP,Neel Kashkari,480
 Nevada,CP19,Insurance Commissioner,,DEM,Dave Jones,319
 Nevada,CP19,Insurance Commissioner,,REP,Ted Gaines,506
 Nevada,CP19,Lieutenant Governor,,DEM,Gavin Newsom,317
 Nevada,CP19,Lieutenant Governor,,REP,Ron Nehring,515
+Nevada,CP19,Proposition 1,,,No,359
+Nevada,CP19,Proposition 1,,,Yes,469
+Nevada,CP19,Proposition 2,,,No,277
+Nevada,CP19,Proposition 2,,,Yes,534
+Nevada,CP19,Proposition 45,,,No,579
+Nevada,CP19,Proposition 45,,,Yes,249
+Nevada,CP19,Proposition 46,,,No,652
+Nevada,CP19,Proposition 46,,,Yes,195
+Nevada,CP19,Proposition 47,,,No,416
+Nevada,CP19,Proposition 47,,,Yes,423
+Nevada,CP19,Proposition 48,,,No,586
+Nevada,CP19,Proposition 48,,,Yes,240
 Nevada,CP19,Secretary of State,,DEM,Alex Padilla,281
 Nevada,CP19,Secretary of State,,REP,Pete Peterson,536
 Nevada,CP19,State Assembly,1,REP,Brian Dahle,573
@@ -423,12 +651,24 @@ Nevada,CP20,Board of Equalization,1,DEM,Chris Parker,76
 Nevada,CP20,Board of Equalization,1,REP,George Runner,176
 Nevada,CP20,Controller,,REP,Ashley Swearengin,167
 Nevada,CP20,Controller,,DEM,Betty T. Yee,88
-Nevada,CP20,Governor,,DEM,Edmund G. Brown,105
+Nevada,CP20,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Nevada,CP20,Governor,,REP,Neel Kashkari,154
 Nevada,CP20,Insurance Commissioner,,DEM,Dave Jones,83
 Nevada,CP20,Insurance Commissioner,,REP,Ted Gaines,173
 Nevada,CP20,Lieutenant Governor,,DEM,Gavin Newsom,83
 Nevada,CP20,Lieutenant Governor,,REP,Ron Nehring,174
+Nevada,CP20,Proposition 1,,,No,139
+Nevada,CP20,Proposition 1,,,Yes,123
+Nevada,CP20,Proposition 2,,,No,95
+Nevada,CP20,Proposition 2,,,Yes,161
+Nevada,CP20,Proposition 45,,,No,177
+Nevada,CP20,Proposition 45,,,Yes,84
+Nevada,CP20,Proposition 46,,,No,213
+Nevada,CP20,Proposition 46,,,Yes,51
+Nevada,CP20,Proposition 47,,,No,127
+Nevada,CP20,Proposition 47,,,Yes,136
+Nevada,CP20,Proposition 48,,,No,171
+Nevada,CP20,Proposition 48,,,Yes,88
 Nevada,CP20,Secretary of State,,DEM,Alex Padilla,71
 Nevada,CP20,Secretary of State,,REP,Pete Peterson,184
 Nevada,CP20,State Assembly,1,REP,Brian Dahle,187
@@ -445,12 +685,24 @@ Nevada,CP21,Board of Equalization,1,DEM,Chris Parker,221
 Nevada,CP21,Board of Equalization,1,REP,George Runner,390
 Nevada,CP21,Controller,,REP,Ashley Swearengin,367
 Nevada,CP21,Controller,,DEM,Betty T. Yee,250
-Nevada,CP21,Governor,,DEM,Edmund G. Brown,298
+Nevada,CP21,Governor,,DEM,"Edmund G. ""Jerry"" Brown",298
 Nevada,CP21,Governor,,REP,Neel Kashkari,329
 Nevada,CP21,Insurance Commissioner,,DEM,Dave Jones,249
 Nevada,CP21,Insurance Commissioner,,REP,Ted Gaines,364
 Nevada,CP21,Lieutenant Governor,,DEM,Gavin Newsom,257
 Nevada,CP21,Lieutenant Governor,,REP,Ron Nehring,365
+Nevada,CP21,Proposition 1,,,No,272
+Nevada,CP21,Proposition 1,,,Yes,344
+Nevada,CP21,Proposition 2,,,No,210
+Nevada,CP21,Proposition 2,,,Yes,402
+Nevada,CP21,Proposition 45,,,No,384
+Nevada,CP21,Proposition 45,,,Yes,234
+Nevada,CP21,Proposition 46,,,No,476
+Nevada,CP21,Proposition 46,,,Yes,154
+Nevada,CP21,Proposition 47,,,No,296
+Nevada,CP21,Proposition 47,,,Yes,332
+Nevada,CP21,Proposition 48,,,No,403
+Nevada,CP21,Proposition 48,,,Yes,217
 Nevada,CP21,Secretary of State,,DEM,Alex Padilla,241
 Nevada,CP21,Secretary of State,,REP,Pete Peterson,374
 Nevada,CP21,State Assembly,1,REP,Brian Dahle,401
@@ -467,12 +719,24 @@ Nevada,CP22,Board of Equalization,1,DEM,Chris Parker,221
 Nevada,CP22,Board of Equalization,1,REP,George Runner,346
 Nevada,CP22,Controller,,REP,Ashley Swearengin,329
 Nevada,CP22,Controller,,DEM,Betty T. Yee,238
-Nevada,CP22,Governor,,DEM,Edmund G. Brown,257
+Nevada,CP22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",257
 Nevada,CP22,Governor,,REP,Neel Kashkari,334
 Nevada,CP22,Insurance Commissioner,,DEM,Dave Jones,227
 Nevada,CP22,Insurance Commissioner,,REP,Ted Gaines,346
 Nevada,CP22,Lieutenant Governor,,DEM,Gavin Newsom,239
 Nevada,CP22,Lieutenant Governor,,REP,Ron Nehring,336
+Nevada,CP22,Proposition 1,,,No,285
+Nevada,CP22,Proposition 1,,,Yes,302
+Nevada,CP22,Proposition 2,,,No,210
+Nevada,CP22,Proposition 2,,,Yes,364
+Nevada,CP22,Proposition 45,,,No,372
+Nevada,CP22,Proposition 45,,,Yes,211
+Nevada,CP22,Proposition 46,,,No,420
+Nevada,CP22,Proposition 46,,,Yes,167
+Nevada,CP22,Proposition 47,,,No,269
+Nevada,CP22,Proposition 47,,,Yes,313
+Nevada,CP22,Proposition 48,,,No,361
+Nevada,CP22,Proposition 48,,,Yes,214
 Nevada,CP22,Secretary of State,,DEM,Alex Padilla,221
 Nevada,CP22,Secretary of State,,REP,Pete Peterson,353
 Nevada,CP22,State Assembly,1,REP,Brian Dahle,370
@@ -489,12 +753,24 @@ Nevada,CP23,Board of Equalization,1,DEM,Chris Parker,205
 Nevada,CP23,Board of Equalization,1,REP,George Runner,361
 Nevada,CP23,Controller,,REP,Ashley Swearengin,348
 Nevada,CP23,Controller,,DEM,Betty T. Yee,223
-Nevada,CP23,Governor,,DEM,Edmund G. Brown,263
+Nevada,CP23,Governor,,DEM,"Edmund G. ""Jerry"" Brown",263
 Nevada,CP23,Governor,,REP,Neel Kashkari,323
 Nevada,CP23,Insurance Commissioner,,DEM,Dave Jones,226
 Nevada,CP23,Insurance Commissioner,,REP,Ted Gaines,343
 Nevada,CP23,Lieutenant Governor,,DEM,Gavin Newsom,237
 Nevada,CP23,Lieutenant Governor,,REP,Ron Nehring,348
+Nevada,CP23,Proposition 1,,,No,259
+Nevada,CP23,Proposition 1,,,Yes,324
+Nevada,CP23,Proposition 2,,,No,179
+Nevada,CP23,Proposition 2,,,Yes,395
+Nevada,CP23,Proposition 45,,,No,409
+Nevada,CP23,Proposition 45,,,Yes,172
+Nevada,CP23,Proposition 46,,,No,478
+Nevada,CP23,Proposition 46,,,Yes,118
+Nevada,CP23,Proposition 47,,,No,311
+Nevada,CP23,Proposition 47,,,Yes,287
+Nevada,CP23,Proposition 48,,,No,430
+Nevada,CP23,Proposition 48,,,Yes,147
 Nevada,CP23,Secretary of State,,DEM,Alex Padilla,222
 Nevada,CP23,Secretary of State,,REP,Pete Peterson,352
 Nevada,CP23,State Assembly,1,REP,Brian Dahle,393
@@ -511,12 +787,24 @@ Nevada,CP24,Board of Equalization,1,DEM,Chris Parker,228
 Nevada,CP24,Board of Equalization,1,REP,George Runner,227
 Nevada,CP24,Controller,,REP,Ashley Swearengin,228
 Nevada,CP24,Controller,,DEM,Betty T. Yee,239
-Nevada,CP24,Governor,,DEM,Edmund G. Brown,281
+Nevada,CP24,Governor,,DEM,"Edmund G. ""Jerry"" Brown",281
 Nevada,CP24,Governor,,REP,Neel Kashkari,198
 Nevada,CP24,Insurance Commissioner,,DEM,Dave Jones,230
 Nevada,CP24,Insurance Commissioner,,REP,Ted Gaines,234
 Nevada,CP24,Lieutenant Governor,,DEM,Gavin Newsom,242
 Nevada,CP24,Lieutenant Governor,,REP,Ron Nehring,227
+Nevada,CP24,Proposition 1,,,No,155
+Nevada,CP24,Proposition 1,,,Yes,320
+Nevada,CP24,Proposition 2,,,No,112
+Nevada,CP24,Proposition 2,,,Yes,359
+Nevada,CP24,Proposition 45,,,No,293
+Nevada,CP24,Proposition 45,,,Yes,167
+Nevada,CP24,Proposition 46,,,No,370
+Nevada,CP24,Proposition 46,,,Yes,100
+Nevada,CP24,Proposition 47,,,No,214
+Nevada,CP24,Proposition 47,,,Yes,256
+Nevada,CP24,Proposition 48,,,No,279
+Nevada,CP24,Proposition 48,,,Yes,181
 Nevada,CP24,Secretary of State,,DEM,Alex Padilla,221
 Nevada,CP24,Secretary of State,,REP,Pete Peterson,243
 Nevada,CP24,State Assembly,1,REP,Brian Dahle,266
@@ -533,12 +821,24 @@ Nevada,CP25,Board of Equalization,1,DEM,Chris Parker,442
 Nevada,CP25,Board of Equalization,1,REP,George Runner,425
 Nevada,CP25,Controller,,REP,Ashley Swearengin,407
 Nevada,CP25,Controller,,DEM,Betty T. Yee,478
-Nevada,CP25,Governor,,DEM,Edmund G. Brown,529
+Nevada,CP25,Governor,,DEM,"Edmund G. ""Jerry"" Brown",529
 Nevada,CP25,Governor,,REP,Neel Kashkari,382
 Nevada,CP25,Insurance Commissioner,,DEM,Dave Jones,470
 Nevada,CP25,Insurance Commissioner,,REP,Ted Gaines,416
 Nevada,CP25,Lieutenant Governor,,DEM,Gavin Newsom,503
 Nevada,CP25,Lieutenant Governor,,REP,Ron Nehring,406
+Nevada,CP25,Proposition 1,,,No,403
+Nevada,CP25,Proposition 1,,,Yes,496
+Nevada,CP25,Proposition 2,,,No,302
+Nevada,CP25,Proposition 2,,,Yes,577
+Nevada,CP25,Proposition 45,,,No,525
+Nevada,CP25,Proposition 45,,,Yes,369
+Nevada,CP25,Proposition 46,,,No,692
+Nevada,CP25,Proposition 46,,,Yes,225
+Nevada,CP25,Proposition 47,,,No,365
+Nevada,CP25,Proposition 47,,,Yes,544
+Nevada,CP25,Proposition 48,,,No,563
+Nevada,CP25,Proposition 48,,,Yes,315
 Nevada,CP25,Secretary of State,,DEM,Alex Padilla,469
 Nevada,CP25,Secretary of State,,REP,Pete Peterson,433
 Nevada,CP25,State Assembly,1,REP,Brian Dahle,474
@@ -555,12 +855,24 @@ Nevada,CP26,Board of Equalization,1,DEM,Chris Parker,562
 Nevada,CP26,Board of Equalization,1,REP,George Runner,390
 Nevada,CP26,Controller,,REP,Ashley Swearengin,381
 Nevada,CP26,Controller,,DEM,Betty T. Yee,596
-Nevada,CP26,Governor,,DEM,Edmund G. Brown,681
+Nevada,CP26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",681
 Nevada,CP26,Governor,,REP,Neel Kashkari,331
 Nevada,CP26,Insurance Commissioner,,DEM,Dave Jones,603
 Nevada,CP26,Insurance Commissioner,,REP,Ted Gaines,372
 Nevada,CP26,Lieutenant Governor,,DEM,Gavin Newsom,636
 Nevada,CP26,Lieutenant Governor,,REP,Ron Nehring,358
+Nevada,CP26,Proposition 1,,,No,340
+Nevada,CP26,Proposition 1,,,Yes,642
+Nevada,CP26,Proposition 2,,,No,290
+Nevada,CP26,Proposition 2,,,Yes,675
+Nevada,CP26,Proposition 45,,,No,504
+Nevada,CP26,Proposition 45,,,Yes,476
+Nevada,CP26,Proposition 46,,,No,684
+Nevada,CP26,Proposition 46,,,Yes,313
+Nevada,CP26,Proposition 47,,,No,353
+Nevada,CP26,Proposition 47,,,Yes,627
+Nevada,CP26,Proposition 48,,,No,564
+Nevada,CP26,Proposition 48,,,Yes,395
 Nevada,CP26,Secretary of State,,DEM,Alex Padilla,598
 Nevada,CP26,Secretary of State,,REP,Pete Peterson,381
 Nevada,CP26,State Assembly,1,REP,Brian Dahle,462
@@ -577,12 +889,24 @@ Nevada,CP27,Board of Equalization,1,DEM,Chris Parker,231
 Nevada,CP27,Board of Equalization,1,REP,George Runner,179
 Nevada,CP27,Controller,,REP,Ashley Swearengin,172
 Nevada,CP27,Controller,,DEM,Betty T. Yee,248
-Nevada,CP27,Governor,,DEM,Edmund G. Brown,259
+Nevada,CP27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",259
 Nevada,CP27,Governor,,REP,Neel Kashkari,167
 Nevada,CP27,Insurance Commissioner,,DEM,Dave Jones,252
 Nevada,CP27,Insurance Commissioner,,REP,Ted Gaines,164
 Nevada,CP27,Lieutenant Governor,,DEM,Gavin Newsom,260
 Nevada,CP27,Lieutenant Governor,,REP,Ron Nehring,165
+Nevada,CP27,Proposition 1,,,No,168
+Nevada,CP27,Proposition 1,,,Yes,244
+Nevada,CP27,Proposition 2,,,No,125
+Nevada,CP27,Proposition 2,,,Yes,272
+Nevada,CP27,Proposition 45,,,No,217
+Nevada,CP27,Proposition 45,,,Yes,195
+Nevada,CP27,Proposition 46,,,No,281
+Nevada,CP27,Proposition 46,,,Yes,137
+Nevada,CP27,Proposition 47,,,No,146
+Nevada,CP27,Proposition 47,,,Yes,267
+Nevada,CP27,Proposition 48,,,No,232
+Nevada,CP27,Proposition 48,,,Yes,164
 Nevada,CP27,Secretary of State,,DEM,Alex Padilla,242
 Nevada,CP27,Secretary of State,,REP,Pete Peterson,178
 Nevada,CP27,State Assembly,1,REP,Brian Dahle,208
@@ -599,12 +923,24 @@ Nevada,CP28,Board of Equalization,1,DEM,Chris Parker,470
 Nevada,CP28,Board of Equalization,1,REP,George Runner,446
 Nevada,CP28,Controller,,REP,Ashley Swearengin,443
 Nevada,CP28,Controller,,DEM,Betty T. Yee,501
-Nevada,CP28,Governor,,DEM,Edmund G. Brown,586
+Nevada,CP28,Governor,,DEM,"Edmund G. ""Jerry"" Brown",586
 Nevada,CP28,Governor,,REP,Neel Kashkari,390
 Nevada,CP28,Insurance Commissioner,,DEM,Dave Jones,494
 Nevada,CP28,Insurance Commissioner,,REP,Ted Gaines,443
 Nevada,CP28,Lieutenant Governor,,DEM,Gavin Newsom,530
 Nevada,CP28,Lieutenant Governor,,REP,Ron Nehring,427
+Nevada,CP28,Proposition 1,,,No,324
+Nevada,CP28,Proposition 1,,,Yes,603
+Nevada,CP28,Proposition 2,,,No,298
+Nevada,CP28,Proposition 2,,,Yes,621
+Nevada,CP28,Proposition 45,,,No,554
+Nevada,CP28,Proposition 45,,,Yes,382
+Nevada,CP28,Proposition 46,,,No,667
+Nevada,CP28,Proposition 46,,,Yes,294
+Nevada,CP28,Proposition 47,,,No,393
+Nevada,CP28,Proposition 47,,,Yes,556
+Nevada,CP28,Proposition 48,,,No,568
+Nevada,CP28,Proposition 48,,,Yes,368
 Nevada,CP28,Secretary of State,,DEM,Alex Padilla,488
 Nevada,CP28,Secretary of State,,REP,Pete Peterson,448
 Nevada,CP28,State Assembly,1,REP,Brian Dahle,498
@@ -621,12 +957,24 @@ Nevada,CP29,Board of Equalization,1,DEM,Chris Parker,94
 Nevada,CP29,Board of Equalization,1,REP,George Runner,162
 Nevada,CP29,Controller,,REP,Ashley Swearengin,157
 Nevada,CP29,Controller,,DEM,Betty T. Yee,102
-Nevada,CP29,Governor,,DEM,Edmund G. Brown,120
+Nevada,CP29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",120
 Nevada,CP29,Governor,,REP,Neel Kashkari,143
 Nevada,CP29,Insurance Commissioner,,DEM,Dave Jones,107
 Nevada,CP29,Insurance Commissioner,,REP,Ted Gaines,153
 Nevada,CP29,Lieutenant Governor,,DEM,Gavin Newsom,109
 Nevada,CP29,Lieutenant Governor,,REP,Ron Nehring,151
+Nevada,CP29,Proposition 1,,,No,113
+Nevada,CP29,Proposition 1,,,Yes,146
+Nevada,CP29,Proposition 2,,,No,82
+Nevada,CP29,Proposition 2,,,Yes,173
+Nevada,CP29,Proposition 45,,,No,173
+Nevada,CP29,Proposition 45,,,Yes,85
+Nevada,CP29,Proposition 46,,,No,209
+Nevada,CP29,Proposition 46,,,Yes,55
+Nevada,CP29,Proposition 47,,,No,131
+Nevada,CP29,Proposition 47,,,Yes,131
+Nevada,CP29,Proposition 48,,,No,179
+Nevada,CP29,Proposition 48,,,Yes,80
 Nevada,CP29,Secretary of State,,DEM,Alex Padilla,93
 Nevada,CP29,Secretary of State,,REP,Pete Peterson,165
 Nevada,CP29,State Assembly,1,REP,Brian Dahle,168
@@ -643,12 +991,24 @@ Nevada,CP30,Board of Equalization,1,DEM,Chris Parker,418
 Nevada,CP30,Board of Equalization,1,REP,George Runner,602
 Nevada,CP30,Controller,,REP,Ashley Swearengin,589
 Nevada,CP30,Controller,,DEM,Betty T. Yee,454
-Nevada,CP30,Governor,,DEM,Edmund G. Brown,546
+Nevada,CP30,Governor,,DEM,"Edmund G. ""Jerry"" Brown",546
 Nevada,CP30,Governor,,REP,Neel Kashkari,538
 Nevada,CP30,Insurance Commissioner,,DEM,Dave Jones,451
 Nevada,CP30,Insurance Commissioner,,REP,Ted Gaines,584
 Nevada,CP30,Lieutenant Governor,,DEM,Gavin Newsom,476
 Nevada,CP30,Lieutenant Governor,,REP,Ron Nehring,590
+Nevada,CP30,Proposition 1,,,No,456
+Nevada,CP30,Proposition 1,,,Yes,608
+Nevada,CP30,Proposition 2,,,No,361
+Nevada,CP30,Proposition 2,,,Yes,683
+Nevada,CP30,Proposition 45,,,No,712
+Nevada,CP30,Proposition 45,,,Yes,348
+Nevada,CP30,Proposition 46,,,No,841
+Nevada,CP30,Proposition 46,,,Yes,234
+Nevada,CP30,Proposition 47,,,No,499
+Nevada,CP30,Proposition 47,,,Yes,577
+Nevada,CP30,Proposition 48,,,No,733
+Nevada,CP30,Proposition 48,,,Yes,317
 Nevada,CP30,Secretary of State,,DEM,Alex Padilla,414
 Nevada,CP30,Secretary of State,,REP,Pete Peterson,625
 Nevada,CP30,State Assembly,1,REP,Brian Dahle,673
@@ -665,12 +1025,24 @@ Nevada,CP31,Board of Equalization,1,DEM,Chris Parker,240
 Nevada,CP31,Board of Equalization,1,REP,George Runner,269
 Nevada,CP31,Controller,,REP,Ashley Swearengin,265
 Nevada,CP31,Controller,,DEM,Betty T. Yee,251
-Nevada,CP31,Governor,,DEM,Edmund G. Brown,290
+Nevada,CP31,Governor,,DEM,"Edmund G. ""Jerry"" Brown",290
 Nevada,CP31,Governor,,REP,Neel Kashkari,238
 Nevada,CP31,Insurance Commissioner,,DEM,Dave Jones,259
 Nevada,CP31,Insurance Commissioner,,REP,Ted Gaines,260
 Nevada,CP31,Lieutenant Governor,,DEM,Gavin Newsom,254
 Nevada,CP31,Lieutenant Governor,,REP,Ron Nehring,270
+Nevada,CP31,Proposition 1,,,No,215
+Nevada,CP31,Proposition 1,,,Yes,301
+Nevada,CP31,Proposition 2,,,No,182
+Nevada,CP31,Proposition 2,,,Yes,330
+Nevada,CP31,Proposition 45,,,No,327
+Nevada,CP31,Proposition 45,,,Yes,187
+Nevada,CP31,Proposition 46,,,No,385
+Nevada,CP31,Proposition 46,,,Yes,143
+Nevada,CP31,Proposition 47,,,No,230
+Nevada,CP31,Proposition 47,,,Yes,297
+Nevada,CP31,Proposition 48,,,No,323
+Nevada,CP31,Proposition 48,,,Yes,184
 Nevada,CP31,Secretary of State,,DEM,Alex Padilla,236
 Nevada,CP31,Secretary of State,,REP,Pete Peterson,277
 Nevada,CP31,State Assembly,1,REP,Brian Dahle,294
@@ -687,12 +1059,24 @@ Nevada,CP32,Board of Equalization,1,DEM,Chris Parker,315
 Nevada,CP32,Board of Equalization,1,REP,George Runner,607
 Nevada,CP32,Controller,,REP,Ashley Swearengin,573
 Nevada,CP32,Controller,,DEM,Betty T. Yee,368
-Nevada,CP32,Governor,,DEM,Edmund G. Brown,441
+Nevada,CP32,Governor,,DEM,"Edmund G. ""Jerry"" Brown",441
 Nevada,CP32,Governor,,REP,Neel Kashkari,517
 Nevada,CP32,Insurance Commissioner,,DEM,Dave Jones,368
 Nevada,CP32,Insurance Commissioner,,REP,Ted Gaines,563
 Nevada,CP32,Lieutenant Governor,,DEM,Gavin Newsom,377
 Nevada,CP32,Lieutenant Governor,,REP,Ron Nehring,570
+Nevada,CP32,Proposition 1,,,No,365
+Nevada,CP32,Proposition 1,,,Yes,573
+Nevada,CP32,Proposition 2,,,No,252
+Nevada,CP32,Proposition 2,,,Yes,684
+Nevada,CP32,Proposition 45,,,No,700
+Nevada,CP32,Proposition 45,,,Yes,241
+Nevada,CP32,Proposition 46,,,No,776
+Nevada,CP32,Proposition 46,,,Yes,180
+Nevada,CP32,Proposition 47,,,No,478
+Nevada,CP32,Proposition 47,,,Yes,448
+Nevada,CP32,Proposition 48,,,No,675
+Nevada,CP32,Proposition 48,,,Yes,252
 Nevada,CP32,Secretary of State,,DEM,Alex Padilla,339
 Nevada,CP32,Secretary of State,,REP,Pete Peterson,592
 Nevada,CP32,State Assembly,1,REP,Brian Dahle,645
@@ -709,12 +1093,24 @@ Nevada,CP33,Board of Equalization,1,DEM,Chris Parker,345
 Nevada,CP33,Board of Equalization,1,REP,George Runner,619
 Nevada,CP33,Controller,,REP,Ashley Swearengin,592
 Nevada,CP33,Controller,,DEM,Betty T. Yee,397
-Nevada,CP33,Governor,,DEM,Edmund G. Brown,479
+Nevada,CP33,Governor,,DEM,"Edmund G. ""Jerry"" Brown",479
 Nevada,CP33,Governor,,REP,Neel Kashkari,525
 Nevada,CP33,Insurance Commissioner,,DEM,Dave Jones,413
 Nevada,CP33,Insurance Commissioner,,REP,Ted Gaines,576
 Nevada,CP33,Lieutenant Governor,,DEM,Gavin Newsom,426
 Nevada,CP33,Lieutenant Governor,,REP,Ron Nehring,580
+Nevada,CP33,Proposition 1,,,No,331
+Nevada,CP33,Proposition 1,,,Yes,646
+Nevada,CP33,Proposition 2,,,No,246
+Nevada,CP33,Proposition 2,,,Yes,723
+Nevada,CP33,Proposition 45,,,No,713
+Nevada,CP33,Proposition 45,,,Yes,277
+Nevada,CP33,Proposition 46,,,No,803
+Nevada,CP33,Proposition 46,,,Yes,194
+Nevada,CP33,Proposition 47,,,No,485
+Nevada,CP33,Proposition 47,,,Yes,499
+Nevada,CP33,Proposition 48,,,No,678
+Nevada,CP33,Proposition 48,,,Yes,296
 Nevada,CP33,Secretary of State,,DEM,Alex Padilla,388
 Nevada,CP33,Secretary of State,,REP,Pete Peterson,597
 Nevada,CP33,State Assembly,1,REP,Brian Dahle,674
@@ -731,12 +1127,24 @@ Nevada,CP34,Board of Equalization,1,DEM,Chris Parker,159
 Nevada,CP34,Board of Equalization,1,REP,George Runner,281
 Nevada,CP34,Controller,,REP,Ashley Swearengin,258
 Nevada,CP34,Controller,,DEM,Betty T. Yee,182
-Nevada,CP34,Governor,,DEM,Edmund G. Brown,233
+Nevada,CP34,Governor,,DEM,"Edmund G. ""Jerry"" Brown",233
 Nevada,CP34,Governor,,REP,Neel Kashkari,232
 Nevada,CP34,Insurance Commissioner,,DEM,Dave Jones,187
 Nevada,CP34,Insurance Commissioner,,REP,Ted Gaines,255
 Nevada,CP34,Lieutenant Governor,,DEM,Gavin Newsom,200
 Nevada,CP34,Lieutenant Governor,,REP,Ron Nehring,255
+Nevada,CP34,Proposition 1,,,No,168
+Nevada,CP34,Proposition 1,,,Yes,282
+Nevada,CP34,Proposition 2,,,No,124
+Nevada,CP34,Proposition 2,,,Yes,323
+Nevada,CP34,Proposition 45,,,No,326
+Nevada,CP34,Proposition 45,,,Yes,133
+Nevada,CP34,Proposition 46,,,No,341
+Nevada,CP34,Proposition 46,,,Yes,117
+Nevada,CP34,Proposition 47,,,No,228
+Nevada,CP34,Proposition 47,,,Yes,230
+Nevada,CP34,Proposition 48,,,No,324
+Nevada,CP34,Proposition 48,,,Yes,125
 Nevada,CP34,Secretary of State,,DEM,Alex Padilla,176
 Nevada,CP34,Secretary of State,,REP,Pete Peterson,266
 Nevada,CP34,State Assembly,1,REP,Brian Dahle,298
@@ -753,12 +1161,24 @@ Nevada,CP35,Board of Equalization,1,DEM,Chris Parker,185
 Nevada,CP35,Board of Equalization,1,REP,George Runner,249
 Nevada,CP35,Controller,,REP,Ashley Swearengin,241
 Nevada,CP35,Controller,,DEM,Betty T. Yee,202
-Nevada,CP35,Governor,,DEM,Edmund G. Brown,216
+Nevada,CP35,Governor,,DEM,"Edmund G. ""Jerry"" Brown",216
 Nevada,CP35,Governor,,REP,Neel Kashkari,237
 Nevada,CP35,Insurance Commissioner,,DEM,Dave Jones,205
 Nevada,CP35,Insurance Commissioner,,REP,Ted Gaines,240
 Nevada,CP35,Lieutenant Governor,,DEM,Gavin Newsom,208
 Nevada,CP35,Lieutenant Governor,,REP,Ron Nehring,239
+Nevada,CP35,Proposition 1,,,No,224
+Nevada,CP35,Proposition 1,,,Yes,217
+Nevada,CP35,Proposition 2,,,No,153
+Nevada,CP35,Proposition 2,,,Yes,284
+Nevada,CP35,Proposition 45,,,No,276
+Nevada,CP35,Proposition 45,,,Yes,165
+Nevada,CP35,Proposition 46,,,No,338
+Nevada,CP35,Proposition 46,,,Yes,119
+Nevada,CP35,Proposition 47,,,No,207
+Nevada,CP35,Proposition 47,,,Yes,246
+Nevada,CP35,Proposition 48,,,No,280
+Nevada,CP35,Proposition 48,,,Yes,151
 Nevada,CP35,Secretary of State,,DEM,Alex Padilla,183
 Nevada,CP35,Secretary of State,,REP,Pete Peterson,259
 Nevada,CP35,State Assembly,1,REP,Brian Dahle,267
@@ -775,12 +1195,24 @@ Nevada,CP36,Board of Equalization,1,DEM,Chris Parker,86
 Nevada,CP36,Board of Equalization,1,REP,George Runner,156
 Nevada,CP36,Controller,,REP,Ashley Swearengin,154
 Nevada,CP36,Controller,,DEM,Betty T. Yee,86
-Nevada,CP36,Governor,,DEM,Edmund G. Brown,113
+Nevada,CP36,Governor,,DEM,"Edmund G. ""Jerry"" Brown",113
 Nevada,CP36,Governor,,REP,Neel Kashkari,147
 Nevada,CP36,Insurance Commissioner,,DEM,Dave Jones,86
 Nevada,CP36,Insurance Commissioner,,REP,Ted Gaines,161
 Nevada,CP36,Lieutenant Governor,,DEM,Gavin Newsom,102
 Nevada,CP36,Lieutenant Governor,,REP,Ron Nehring,154
+Nevada,CP36,Proposition 1,,,No,131
+Nevada,CP36,Proposition 1,,,Yes,125
+Nevada,CP36,Proposition 2,,,No,84
+Nevada,CP36,Proposition 2,,,Yes,171
+Nevada,CP36,Proposition 45,,,No,181
+Nevada,CP36,Proposition 45,,,Yes,76
+Nevada,CP36,Proposition 46,,,No,207
+Nevada,CP36,Proposition 46,,,Yes,52
+Nevada,CP36,Proposition 47,,,No,128
+Nevada,CP36,Proposition 47,,,Yes,136
+Nevada,CP36,Proposition 48,,,No,189
+Nevada,CP36,Proposition 48,,,Yes,63
 Nevada,CP36,Secretary of State,,DEM,Alex Padilla,90
 Nevada,CP36,Secretary of State,,REP,Pete Peterson,160
 Nevada,CP36,State Assembly,1,REP,Brian Dahle,176
@@ -797,12 +1229,24 @@ Nevada,CP37,Board of Equalization,1,DEM,Chris Parker,217
 Nevada,CP37,Board of Equalization,1,REP,George Runner,383
 Nevada,CP37,Controller,,REP,Ashley Swearengin,368
 Nevada,CP37,Controller,,DEM,Betty T. Yee,249
-Nevada,CP37,Governor,,DEM,Edmund G. Brown,282
+Nevada,CP37,Governor,,DEM,"Edmund G. ""Jerry"" Brown",282
 Nevada,CP37,Governor,,REP,Neel Kashkari,339
 Nevada,CP37,Insurance Commissioner,,DEM,Dave Jones,239
 Nevada,CP37,Insurance Commissioner,,REP,Ted Gaines,365
 Nevada,CP37,Lieutenant Governor,,DEM,Gavin Newsom,262
 Nevada,CP37,Lieutenant Governor,,REP,Ron Nehring,357
+Nevada,CP37,Proposition 1,,,No,310
+Nevada,CP37,Proposition 1,,,Yes,306
+Nevada,CP37,Proposition 2,,,No,233
+Nevada,CP37,Proposition 2,,,Yes,377
+Nevada,CP37,Proposition 45,,,No,414
+Nevada,CP37,Proposition 45,,,Yes,200
+Nevada,CP37,Proposition 46,,,No,439
+Nevada,CP37,Proposition 46,,,Yes,182
+Nevada,CP37,Proposition 47,,,No,281
+Nevada,CP37,Proposition 47,,,Yes,339
+Nevada,CP37,Proposition 48,,,No,424
+Nevada,CP37,Proposition 48,,,Yes,175
 Nevada,CP37,Secretary of State,,DEM,Alex Padilla,242
 Nevada,CP37,Secretary of State,,REP,Pete Peterson,373
 Nevada,CP37,State Assembly,1,REP,Brian Dahle,404
@@ -819,12 +1263,24 @@ Nevada,CP38,Board of Equalization,1,DEM,Chris Parker,89
 Nevada,CP38,Board of Equalization,1,REP,George Runner,161
 Nevada,CP38,Controller,,REP,Ashley Swearengin,155
 Nevada,CP38,Controller,,DEM,Betty T. Yee,95
-Nevada,CP38,Governor,,DEM,Edmund G. Brown,108
+Nevada,CP38,Governor,,DEM,"Edmund G. ""Jerry"" Brown",108
 Nevada,CP38,Governor,,REP,Neel Kashkari,145
 Nevada,CP38,Insurance Commissioner,,DEM,Dave Jones,90
 Nevada,CP38,Insurance Commissioner,,REP,Ted Gaines,157
 Nevada,CP38,Lieutenant Governor,,DEM,Gavin Newsom,95
 Nevada,CP38,Lieutenant Governor,,REP,Ron Nehring,155
+Nevada,CP38,Proposition 1,,,No,134
+Nevada,CP38,Proposition 1,,,Yes,123
+Nevada,CP38,Proposition 2,,,No,102
+Nevada,CP38,Proposition 2,,,Yes,148
+Nevada,CP38,Proposition 45,,,No,178
+Nevada,CP38,Proposition 45,,,Yes,72
+Nevada,CP38,Proposition 46,,,No,205
+Nevada,CP38,Proposition 46,,,Yes,48
+Nevada,CP38,Proposition 47,,,No,143
+Nevada,CP38,Proposition 47,,,Yes,110
+Nevada,CP38,Proposition 48,,,No,181
+Nevada,CP38,Proposition 48,,,Yes,70
 Nevada,CP38,Secretary of State,,DEM,Alex Padilla,90
 Nevada,CP38,Secretary of State,,REP,Pete Peterson,160
 Nevada,CP38,State Assembly,1,REP,Brian Dahle,167
@@ -841,12 +1297,24 @@ Nevada,CP39,Board of Equalization,1,DEM,Chris Parker,199
 Nevada,CP39,Board of Equalization,1,REP,George Runner,267
 Nevada,CP39,Controller,,REP,Ashley Swearengin,258
 Nevada,CP39,Controller,,DEM,Betty T. Yee,215
-Nevada,CP39,Governor,,DEM,Edmund G. Brown,235
+Nevada,CP39,Governor,,DEM,"Edmund G. ""Jerry"" Brown",235
 Nevada,CP39,Governor,,REP,Neel Kashkari,257
 Nevada,CP39,Insurance Commissioner,,DEM,Dave Jones,207
 Nevada,CP39,Insurance Commissioner,,REP,Ted Gaines,262
 Nevada,CP39,Lieutenant Governor,,DEM,Gavin Newsom,220
 Nevada,CP39,Lieutenant Governor,,REP,Ron Nehring,264
+Nevada,CP39,Proposition 1,,,No,209
+Nevada,CP39,Proposition 1,,,Yes,275
+Nevada,CP39,Proposition 2,,,No,165
+Nevada,CP39,Proposition 2,,,Yes,308
+Nevada,CP39,Proposition 45,,,No,318
+Nevada,CP39,Proposition 45,,,Yes,161
+Nevada,CP39,Proposition 46,,,No,386
+Nevada,CP39,Proposition 46,,,Yes,105
+Nevada,CP39,Proposition 47,,,No,196
+Nevada,CP39,Proposition 47,,,Yes,290
+Nevada,CP39,Proposition 48,,,No,311
+Nevada,CP39,Proposition 48,,,Yes,165
 Nevada,CP39,Secretary of State,,DEM,Alex Padilla,214
 Nevada,CP39,Secretary of State,,REP,Pete Peterson,267
 Nevada,CP39,State Assembly,1,REP,Brian Dahle,291
@@ -863,12 +1331,24 @@ Nevada,CP40,Board of Equalization,1,DEM,Chris Parker,197
 Nevada,CP40,Board of Equalization,1,REP,George Runner,291
 Nevada,CP40,Controller,,REP,Ashley Swearengin,288
 Nevada,CP40,Controller,,DEM,Betty T. Yee,214
-Nevada,CP40,Governor,,DEM,Edmund G. Brown,246
+Nevada,CP40,Governor,,DEM,"Edmund G. ""Jerry"" Brown",246
 Nevada,CP40,Governor,,REP,Neel Kashkari,262
 Nevada,CP40,Insurance Commissioner,,DEM,Dave Jones,223
 Nevada,CP40,Insurance Commissioner,,REP,Ted Gaines,274
 Nevada,CP40,Lieutenant Governor,,DEM,Gavin Newsom,224
 Nevada,CP40,Lieutenant Governor,,REP,Ron Nehring,276
+Nevada,CP40,Proposition 1,,,No,236
+Nevada,CP40,Proposition 1,,,Yes,268
+Nevada,CP40,Proposition 2,,,No,198
+Nevada,CP40,Proposition 2,,,Yes,297
+Nevada,CP40,Proposition 45,,,No,329
+Nevada,CP40,Proposition 45,,,Yes,173
+Nevada,CP40,Proposition 46,,,No,370
+Nevada,CP40,Proposition 46,,,Yes,132
+Nevada,CP40,Proposition 47,,,No,231
+Nevada,CP40,Proposition 47,,,Yes,272
+Nevada,CP40,Proposition 48,,,No,329
+Nevada,CP40,Proposition 48,,,Yes,165
 Nevada,CP40,Secretary of State,,DEM,Alex Padilla,209
 Nevada,CP40,Secretary of State,,REP,Pete Peterson,284
 Nevada,CP40,State Assembly,1,REP,Brian Dahle,321
@@ -885,12 +1365,24 @@ Nevada,CP41,Board of Equalization,1,DEM,Chris Parker,336
 Nevada,CP41,Board of Equalization,1,REP,George Runner,538
 Nevada,CP41,Controller,,REP,Ashley Swearengin,514
 Nevada,CP41,Controller,,DEM,Betty T. Yee,374
-Nevada,CP41,Governor,,DEM,Edmund G. Brown,402
+Nevada,CP41,Governor,,DEM,"Edmund G. ""Jerry"" Brown",402
 Nevada,CP41,Governor,,REP,Neel Kashkari,492
 Nevada,CP41,Insurance Commissioner,,DEM,Dave Jones,363
 Nevada,CP41,Insurance Commissioner,,REP,Ted Gaines,519
 Nevada,CP41,Lieutenant Governor,,DEM,Gavin Newsom,371
 Nevada,CP41,Lieutenant Governor,,REP,Ron Nehring,517
+Nevada,CP41,Proposition 1,,,No,468
+Nevada,CP41,Proposition 1,,,Yes,411
+Nevada,CP41,Proposition 2,,,No,357
+Nevada,CP41,Proposition 2,,,Yes,511
+Nevada,CP41,Proposition 45,,,No,580
+Nevada,CP41,Proposition 45,,,Yes,290
+Nevada,CP41,Proposition 46,,,No,648
+Nevada,CP41,Proposition 46,,,Yes,245
+Nevada,CP41,Proposition 47,,,No,420
+Nevada,CP41,Proposition 47,,,Yes,481
+Nevada,CP41,Proposition 48,,,No,572
+Nevada,CP41,Proposition 48,,,Yes,301
 Nevada,CP41,Secretary of State,,DEM,Alex Padilla,344
 Nevada,CP41,Secretary of State,,REP,Pete Peterson,542
 Nevada,CP41,State Assembly,1,REP,Brian Dahle,577
@@ -907,12 +1399,24 @@ Nevada,CP42,Board of Equalization,1,DEM,Chris Parker,135
 Nevada,CP42,Board of Equalization,1,REP,George Runner,141
 Nevada,CP42,Controller,,REP,Ashley Swearengin,140
 Nevada,CP42,Controller,,DEM,Betty T. Yee,143
-Nevada,CP42,Governor,,DEM,Edmund G. Brown,162
+Nevada,CP42,Governor,,DEM,"Edmund G. ""Jerry"" Brown",162
 Nevada,CP42,Governor,,REP,Neel Kashkari,135
 Nevada,CP42,Insurance Commissioner,,DEM,Dave Jones,138
 Nevada,CP42,Insurance Commissioner,,REP,Ted Gaines,147
 Nevada,CP42,Lieutenant Governor,,DEM,Gavin Newsom,153
 Nevada,CP42,Lieutenant Governor,,REP,Ron Nehring,142
+Nevada,CP42,Proposition 1,,,No,153
+Nevada,CP42,Proposition 1,,,Yes,136
+Nevada,CP42,Proposition 2,,,No,100
+Nevada,CP42,Proposition 2,,,Yes,180
+Nevada,CP42,Proposition 45,,,No,184
+Nevada,CP42,Proposition 45,,,Yes,108
+Nevada,CP42,Proposition 46,,,No,242
+Nevada,CP42,Proposition 46,,,Yes,58
+Nevada,CP42,Proposition 47,,,No,123
+Nevada,CP42,Proposition 47,,,Yes,175
+Nevada,CP42,Proposition 48,,,No,197
+Nevada,CP42,Proposition 48,,,Yes,81
 Nevada,CP42,Secretary of State,,DEM,Alex Padilla,145
 Nevada,CP42,Secretary of State,,REP,Pete Peterson,141
 Nevada,CP42,State Assembly,1,REP,Brian Dahle,157
@@ -929,12 +1433,24 @@ Nevada,CP43,Board of Equalization,1,DEM,Chris Parker,305
 Nevada,CP43,Board of Equalization,1,REP,George Runner,115
 Nevada,CP43,Controller,,REP,Ashley Swearengin,113
 Nevada,CP43,Controller,,DEM,Betty T. Yee,328
-Nevada,CP43,Governor,,DEM,Edmund G. Brown,340
+Nevada,CP43,Governor,,DEM,"Edmund G. ""Jerry"" Brown",340
 Nevada,CP43,Governor,,REP,Neel Kashkari,111
 Nevada,CP43,Insurance Commissioner,,DEM,Dave Jones,317
 Nevada,CP43,Insurance Commissioner,,REP,Ted Gaines,114
 Nevada,CP43,Lieutenant Governor,,DEM,Gavin Newsom,332
 Nevada,CP43,Lieutenant Governor,,REP,Ron Nehring,112
+Nevada,CP43,Proposition 1,,,No,205
+Nevada,CP43,Proposition 1,,,Yes,227
+Nevada,CP43,Proposition 2,,,No,189
+Nevada,CP43,Proposition 2,,,Yes,211
+Nevada,CP43,Proposition 45,,,No,203
+Nevada,CP43,Proposition 45,,,Yes,215
+Nevada,CP43,Proposition 46,,,No,314
+Nevada,CP43,Proposition 46,,,Yes,121
+Nevada,CP43,Proposition 47,,,No,91
+Nevada,CP43,Proposition 47,,,Yes,348
+Nevada,CP43,Proposition 48,,,No,238
+Nevada,CP43,Proposition 48,,,Yes,168
 Nevada,CP43,Secretary of State,,DEM,Alex Padilla,312
 Nevada,CP43,Secretary of State,,REP,Pete Peterson,125
 Nevada,CP43,State Assembly,1,REP,Brian Dahle,135
@@ -951,12 +1467,24 @@ Nevada,CP44,Board of Equalization,1,DEM,Chris Parker,300
 Nevada,CP44,Board of Equalization,1,REP,George Runner,55
 Nevada,CP44,Controller,,REP,Ashley Swearengin,48
 Nevada,CP44,Controller,,DEM,Betty T. Yee,320
-Nevada,CP44,Governor,,DEM,Edmund G. Brown,339
+Nevada,CP44,Governor,,DEM,"Edmund G. ""Jerry"" Brown",339
 Nevada,CP44,Governor,,REP,Neel Kashkari,49
 Nevada,CP44,Insurance Commissioner,,DEM,Dave Jones,316
 Nevada,CP44,Insurance Commissioner,,REP,Ted Gaines,48
 Nevada,CP44,Lieutenant Governor,,DEM,Gavin Newsom,330
 Nevada,CP44,Lieutenant Governor,,REP,Ron Nehring,50
+Nevada,CP44,Proposition 1,,,No,165
+Nevada,CP44,Proposition 1,,,Yes,220
+Nevada,CP44,Proposition 2,,,No,121
+Nevada,CP44,Proposition 2,,,Yes,237
+Nevada,CP44,Proposition 45,,,No,159
+Nevada,CP44,Proposition 45,,,Yes,209
+Nevada,CP44,Proposition 46,,,No,279
+Nevada,CP44,Proposition 46,,,Yes,99
+Nevada,CP44,Proposition 47,,,No,69
+Nevada,CP44,Proposition 47,,,Yes,315
+Nevada,CP44,Proposition 48,,,No,179
+Nevada,CP44,Proposition 48,,,Yes,176
 Nevada,CP44,Secretary of State,,DEM,Alex Padilla,312
 Nevada,CP44,Secretary of State,,REP,Pete Peterson,56
 Nevada,CP44,State Assembly,1,REP,Brian Dahle,68
@@ -973,12 +1501,24 @@ Nevada,CP45,Board of Equalization,1,DEM,Chris Parker,230
 Nevada,CP45,Board of Equalization,1,REP,George Runner,251
 Nevada,CP45,Controller,,REP,Ashley Swearengin,232
 Nevada,CP45,Controller,,DEM,Betty T. Yee,259
-Nevada,CP45,Governor,,DEM,Edmund G. Brown,296
+Nevada,CP45,Governor,,DEM,"Edmund G. ""Jerry"" Brown",296
 Nevada,CP45,Governor,,REP,Neel Kashkari,219
 Nevada,CP45,Insurance Commissioner,,DEM,Dave Jones,258
 Nevada,CP45,Insurance Commissioner,,REP,Ted Gaines,235
 Nevada,CP45,Lieutenant Governor,,DEM,Gavin Newsom,269
 Nevada,CP45,Lieutenant Governor,,REP,Ron Nehring,228
+Nevada,CP45,Proposition 1,,,No,235
+Nevada,CP45,Proposition 1,,,Yes,268
+Nevada,CP45,Proposition 2,,,No,159
+Nevada,CP45,Proposition 2,,,Yes,328
+Nevada,CP45,Proposition 45,,,No,299
+Nevada,CP45,Proposition 45,,,Yes,203
+Nevada,CP45,Proposition 46,,,No,381
+Nevada,CP45,Proposition 46,,,Yes,128
+Nevada,CP45,Proposition 47,,,No,201
+Nevada,CP45,Proposition 47,,,Yes,312
+Nevada,CP45,Proposition 48,,,No,338
+Nevada,CP45,Proposition 48,,,Yes,157
 Nevada,CP45,Secretary of State,,DEM,Alex Padilla,242
 Nevada,CP45,Secretary of State,,REP,Pete Peterson,251
 Nevada,CP45,State Assembly,1,REP,Brian Dahle,265
@@ -995,12 +1535,24 @@ Nevada,CP46,Board of Equalization,1,DEM,Chris Parker,208
 Nevada,CP46,Board of Equalization,1,REP,George Runner,126
 Nevada,CP46,Controller,,REP,Ashley Swearengin,122
 Nevada,CP46,Controller,,DEM,Betty T. Yee,217
-Nevada,CP46,Governor,,DEM,Edmund G. Brown,252
+Nevada,CP46,Governor,,DEM,"Edmund G. ""Jerry"" Brown",252
 Nevada,CP46,Governor,,REP,Neel Kashkari,104
 Nevada,CP46,Insurance Commissioner,,DEM,Dave Jones,216
 Nevada,CP46,Insurance Commissioner,,REP,Ted Gaines,127
 Nevada,CP46,Lieutenant Governor,,DEM,Gavin Newsom,236
 Nevada,CP46,Lieutenant Governor,,REP,Ron Nehring,117
+Nevada,CP46,Proposition 1,,,No,135
+Nevada,CP46,Proposition 1,,,Yes,219
+Nevada,CP46,Proposition 2,,,No,114
+Nevada,CP46,Proposition 2,,,Yes,228
+Nevada,CP46,Proposition 45,,,No,194
+Nevada,CP46,Proposition 45,,,Yes,153
+Nevada,CP46,Proposition 46,,,No,262
+Nevada,CP46,Proposition 46,,,Yes,90
+Nevada,CP46,Proposition 47,,,No,89
+Nevada,CP46,Proposition 47,,,Yes,266
+Nevada,CP46,Proposition 48,,,No,215
+Nevada,CP46,Proposition 48,,,Yes,119
 Nevada,CP46,Secretary of State,,DEM,Alex Padilla,217
 Nevada,CP46,Secretary of State,,REP,Pete Peterson,123
 Nevada,CP46,State Assembly,1,REP,Brian Dahle,148
@@ -1009,7 +1561,7 @@ Nevada,CP46,Superintendent of Public Instruction,,NOP,Marshall Tuck,118
 Nevada,CP46,Superintendent of Public Instruction,,NOP,Tom Torlakson,131
 Nevada,CP46,Treasurer,,REP,Greg Conlon,105
 Nevada,CP46,Treasurer,,DEM,John Chiang,240
-Nevada,CP46,U.S. House,4,REP,Arthur Moore,166
+Nevada,CP46,U.S. House,4,REP,"Arthur ""Art"" Moore",166
 Nevada,CP46,U.S. House,4,REP,Tom McClintock,136
 Nevada,CP47,Attorney General,,DEM,Kamala D. Harris,233
 Nevada,CP47,Attorney General,,REP,Ronald Gold,174
@@ -1017,12 +1569,24 @@ Nevada,CP47,Board of Equalization,1,DEM,Chris Parker,186
 Nevada,CP47,Board of Equalization,1,REP,George Runner,201
 Nevada,CP47,Controller,,REP,Ashley Swearengin,178
 Nevada,CP47,Controller,,DEM,Betty T. Yee,226
-Nevada,CP47,Governor,,DEM,Edmund G. Brown,271
+Nevada,CP47,Governor,,DEM,"Edmund G. ""Jerry"" Brown",271
 Nevada,CP47,Governor,,REP,Neel Kashkari,155
 Nevada,CP47,Insurance Commissioner,,DEM,Dave Jones,210
 Nevada,CP47,Insurance Commissioner,,REP,Ted Gaines,191
 Nevada,CP47,Lieutenant Governor,,DEM,Gavin Newsom,247
 Nevada,CP47,Lieutenant Governor,,REP,Ron Nehring,169
+Nevada,CP47,Proposition 1,,,No,167
+Nevada,CP47,Proposition 1,,,Yes,249
+Nevada,CP47,Proposition 2,,,No,110
+Nevada,CP47,Proposition 2,,,Yes,283
+Nevada,CP47,Proposition 45,,,No,240
+Nevada,CP47,Proposition 45,,,Yes,169
+Nevada,CP47,Proposition 46,,,No,335
+Nevada,CP47,Proposition 46,,,Yes,87
+Nevada,CP47,Proposition 47,,,No,151
+Nevada,CP47,Proposition 47,,,Yes,262
+Nevada,CP47,Proposition 48,,,No,274
+Nevada,CP47,Proposition 48,,,Yes,128
 Nevada,CP47,Secretary of State,,DEM,Alex Padilla,214
 Nevada,CP47,Secretary of State,,REP,Pete Peterson,187
 Nevada,CP47,State Assembly,1,REP,Brian Dahle,236
@@ -1031,7 +1595,7 @@ Nevada,CP47,Superintendent of Public Instruction,,NOP,Marshall Tuck,175
 Nevada,CP47,Superintendent of Public Instruction,,NOP,Tom Torlakson,142
 Nevada,CP47,Treasurer,,REP,Greg Conlon,175
 Nevada,CP47,Treasurer,,DEM,John Chiang,229
-Nevada,CP47,U.S. House,4,REP,Arthur Moore,187
+Nevada,CP47,U.S. House,4,REP,"Arthur ""Art"" Moore",187
 Nevada,CP47,U.S. House,4,REP,Tom McClintock,176
 Nevada,CP48,Attorney General,,DEM,Kamala D. Harris,472
 Nevada,CP48,Attorney General,,REP,Ronald Gold,244
@@ -1039,12 +1603,24 @@ Nevada,CP48,Board of Equalization,1,DEM,Chris Parker,378
 Nevada,CP48,Board of Equalization,1,REP,George Runner,303
 Nevada,CP48,Controller,,REP,Ashley Swearengin,260
 Nevada,CP48,Controller,,DEM,Betty T. Yee,459
-Nevada,CP48,Governor,,DEM,Edmund G. Brown,512
+Nevada,CP48,Governor,,DEM,"Edmund G. ""Jerry"" Brown",512
 Nevada,CP48,Governor,,REP,Neel Kashkari,248
 Nevada,CP48,Insurance Commissioner,,DEM,Dave Jones,426
 Nevada,CP48,Insurance Commissioner,,REP,Ted Gaines,280
 Nevada,CP48,Lieutenant Governor,,DEM,Gavin Newsom,491
 Nevada,CP48,Lieutenant Governor,,REP,Ron Nehring,251
+Nevada,CP48,Proposition 1,,,No,274
+Nevada,CP48,Proposition 1,,,Yes,467
+Nevada,CP48,Proposition 2,,,No,180
+Nevada,CP48,Proposition 2,,,Yes,543
+Nevada,CP48,Proposition 45,,,No,428
+Nevada,CP48,Proposition 45,,,Yes,305
+Nevada,CP48,Proposition 46,,,No,553
+Nevada,CP48,Proposition 46,,,Yes,182
+Nevada,CP48,Proposition 47,,,No,232
+Nevada,CP48,Proposition 47,,,Yes,512
+Nevada,CP48,Proposition 48,,,No,460
+Nevada,CP48,Proposition 48,,,Yes,248
 Nevada,CP48,Secretary of State,,DEM,Alex Padilla,437
 Nevada,CP48,Secretary of State,,REP,Pete Peterson,275
 Nevada,CP48,State Assembly,1,REP,Brian Dahle,341
@@ -1053,7 +1629,7 @@ Nevada,CP48,Superintendent of Public Instruction,,NOP,Marshall Tuck,255
 Nevada,CP48,Superintendent of Public Instruction,,NOP,Tom Torlakson,311
 Nevada,CP48,Treasurer,,REP,Greg Conlon,235
 Nevada,CP48,Treasurer,,DEM,John Chiang,478
-Nevada,CP48,U.S. House,4,REP,Arthur Moore,361
+Nevada,CP48,U.S. House,4,REP,"Arthur ""Art"" Moore",361
 Nevada,CP48,U.S. House,4,REP,Tom McClintock,306
 Nevada,CP49,Attorney General,,DEM,Kamala D. Harris,443
 Nevada,CP49,Attorney General,,REP,Ronald Gold,248
@@ -1061,12 +1637,24 @@ Nevada,CP49,Board of Equalization,1,DEM,Chris Parker,392
 Nevada,CP49,Board of Equalization,1,REP,George Runner,269
 Nevada,CP49,Controller,,REP,Ashley Swearengin,266
 Nevada,CP49,Controller,,DEM,Betty T. Yee,416
-Nevada,CP49,Governor,,DEM,Edmund G. Brown,505
+Nevada,CP49,Governor,,DEM,"Edmund G. ""Jerry"" Brown",505
 Nevada,CP49,Governor,,REP,Neel Kashkari,235
 Nevada,CP49,Insurance Commissioner,,DEM,Dave Jones,390
 Nevada,CP49,Insurance Commissioner,,REP,Ted Gaines,290
 Nevada,CP49,Lieutenant Governor,,DEM,Gavin Newsom,464
 Nevada,CP49,Lieutenant Governor,,REP,Ron Nehring,258
+Nevada,CP49,Proposition 1,,,No,289
+Nevada,CP49,Proposition 1,,,Yes,435
+Nevada,CP49,Proposition 2,,,No,205
+Nevada,CP49,Proposition 2,,,Yes,481
+Nevada,CP49,Proposition 45,,,No,365
+Nevada,CP49,Proposition 45,,,Yes,337
+Nevada,CP49,Proposition 46,,,No,513
+Nevada,CP49,Proposition 46,,,Yes,203
+Nevada,CP49,Proposition 47,,,No,223
+Nevada,CP49,Proposition 47,,,Yes,492
+Nevada,CP49,Proposition 48,,,No,423
+Nevada,CP49,Proposition 48,,,Yes,248
 Nevada,CP49,Secretary of State,,DEM,Alex Padilla,416
 Nevada,CP49,Secretary of State,,REP,Pete Peterson,275
 Nevada,CP49,State Assembly,1,REP,Brian Dahle,322
@@ -1075,7 +1663,7 @@ Nevada,CP49,Superintendent of Public Instruction,,NOP,Marshall Tuck,276
 Nevada,CP49,Superintendent of Public Instruction,,NOP,Tom Torlakson,273
 Nevada,CP49,Treasurer,,REP,Greg Conlon,247
 Nevada,CP49,Treasurer,,DEM,John Chiang,440
-Nevada,CP49,U.S. House,4,REP,Arthur Moore,360
+Nevada,CP49,U.S. House,4,REP,"Arthur ""Art"" Moore",360
 Nevada,CP49,U.S. House,4,REP,Tom McClintock,271
 Nevada,CP50,Attorney General,,DEM,Kamala D. Harris,539
 Nevada,CP50,Attorney General,,REP,Ronald Gold,286
@@ -1083,12 +1671,24 @@ Nevada,CP50,Board of Equalization,1,DEM,Chris Parker,453
 Nevada,CP50,Board of Equalization,1,REP,George Runner,349
 Nevada,CP50,Controller,,REP,Ashley Swearengin,310
 Nevada,CP50,Controller,,DEM,Betty T. Yee,517
-Nevada,CP50,Governor,,DEM,Edmund G. Brown,621
+Nevada,CP50,Governor,,DEM,"Edmund G. ""Jerry"" Brown",621
 Nevada,CP50,Governor,,REP,Neel Kashkari,264
 Nevada,CP50,Insurance Commissioner,,DEM,Dave Jones,481
 Nevada,CP50,Insurance Commissioner,,REP,Ted Gaines,341
 Nevada,CP50,Lieutenant Governor,,DEM,Gavin Newsom,560
 Nevada,CP50,Lieutenant Governor,,REP,Ron Nehring,287
+Nevada,CP50,Proposition 1,,,No,339
+Nevada,CP50,Proposition 1,,,Yes,516
+Nevada,CP50,Proposition 2,,,No,241
+Nevada,CP50,Proposition 2,,,Yes,564
+Nevada,CP50,Proposition 45,,,No,459
+Nevada,CP50,Proposition 45,,,Yes,376
+Nevada,CP50,Proposition 46,,,No,560
+Nevada,CP50,Proposition 46,,,Yes,287
+Nevada,CP50,Proposition 47,,,No,252
+Nevada,CP50,Proposition 47,,,Yes,601
+Nevada,CP50,Proposition 48,,,No,542
+Nevada,CP50,Proposition 48,,,Yes,277
 Nevada,CP50,Secretary of State,,DEM,Alex Padilla,525
 Nevada,CP50,Secretary of State,,REP,Pete Peterson,306
 Nevada,CP50,State Assembly,1,REP,Brian Dahle,399
@@ -1097,7 +1697,7 @@ Nevada,CP50,Superintendent of Public Instruction,,NOP,Marshall Tuck,328
 Nevada,CP50,Superintendent of Public Instruction,,NOP,Tom Torlakson,332
 Nevada,CP50,Treasurer,,REP,Greg Conlon,275
 Nevada,CP50,Treasurer,,DEM,John Chiang,556
-Nevada,CP50,U.S. House,4,REP,Arthur Moore,427
+Nevada,CP50,U.S. House,4,REP,"Arthur ""Art"" Moore",427
 Nevada,CP50,U.S. House,4,REP,Tom McClintock,311
 Nevada,CP51,Attorney General,,DEM,Kamala D. Harris,300
 Nevada,CP51,Attorney General,,REP,Ronald Gold,160
@@ -1105,12 +1705,24 @@ Nevada,CP51,Board of Equalization,1,DEM,Chris Parker,241
 Nevada,CP51,Board of Equalization,1,REP,George Runner,199
 Nevada,CP51,Controller,,REP,Ashley Swearengin,173
 Nevada,CP51,Controller,,DEM,Betty T. Yee,284
-Nevada,CP51,Governor,,DEM,Edmund G. Brown,326
+Nevada,CP51,Governor,,DEM,"Edmund G. ""Jerry"" Brown",326
 Nevada,CP51,Governor,,REP,Neel Kashkari,157
 Nevada,CP51,Insurance Commissioner,,DEM,Dave Jones,251
 Nevada,CP51,Insurance Commissioner,,REP,Ted Gaines,202
 Nevada,CP51,Lieutenant Governor,,DEM,Gavin Newsom,306
 Nevada,CP51,Lieutenant Governor,,REP,Ron Nehring,165
+Nevada,CP51,Proposition 1,,,No,184
+Nevada,CP51,Proposition 1,,,Yes,290
+Nevada,CP51,Proposition 2,,,No,120
+Nevada,CP51,Proposition 2,,,Yes,329
+Nevada,CP51,Proposition 45,,,No,257
+Nevada,CP51,Proposition 45,,,Yes,204
+Nevada,CP51,Proposition 46,,,No,339
+Nevada,CP51,Proposition 46,,,Yes,127
+Nevada,CP51,Proposition 47,,,No,133
+Nevada,CP51,Proposition 47,,,Yes,330
+Nevada,CP51,Proposition 48,,,No,266
+Nevada,CP51,Proposition 48,,,Yes,158
 Nevada,CP51,Secretary of State,,DEM,Alex Padilla,280
 Nevada,CP51,Secretary of State,,REP,Pete Peterson,178
 Nevada,CP51,State Assembly,1,REP,Brian Dahle,220
@@ -1119,7 +1731,7 @@ Nevada,CP51,Superintendent of Public Instruction,,NOP,Marshall Tuck,159
 Nevada,CP51,Superintendent of Public Instruction,,NOP,Tom Torlakson,186
 Nevada,CP51,Treasurer,,REP,Greg Conlon,161
 Nevada,CP51,Treasurer,,DEM,John Chiang,297
-Nevada,CP51,U.S. House,4,REP,Arthur Moore,254
+Nevada,CP51,U.S. House,4,REP,"Arthur ""Art"" Moore",254
 Nevada,CP51,U.S. House,4,REP,Tom McClintock,163
 Nevada,CP52,Attorney General,,DEM,Kamala D. Harris,504
 Nevada,CP52,Attorney General,,REP,Ronald Gold,342
@@ -1127,12 +1739,24 @@ Nevada,CP52,Board of Equalization,1,DEM,Chris Parker,418
 Nevada,CP52,Board of Equalization,1,REP,George Runner,398
 Nevada,CP52,Controller,,REP,Ashley Swearengin,352
 Nevada,CP52,Controller,,DEM,Betty T. Yee,494
-Nevada,CP52,Governor,,DEM,Edmund G. Brown,613
+Nevada,CP52,Governor,,DEM,"Edmund G. ""Jerry"" Brown",613
 Nevada,CP52,Governor,,REP,Neel Kashkari,302
 Nevada,CP52,Insurance Commissioner,,DEM,Dave Jones,466
 Nevada,CP52,Insurance Commissioner,,REP,Ted Gaines,382
 Nevada,CP52,Lieutenant Governor,,DEM,Gavin Newsom,548
 Nevada,CP52,Lieutenant Governor,,REP,Ron Nehring,344
+Nevada,CP52,Proposition 1,,,No,353
+Nevada,CP52,Proposition 1,,,Yes,529
+Nevada,CP52,Proposition 2,,,No,231
+Nevada,CP52,Proposition 2,,,Yes,616
+Nevada,CP52,Proposition 45,,,No,492
+Nevada,CP52,Proposition 45,,,Yes,370
+Nevada,CP52,Proposition 46,,,No,629
+Nevada,CP52,Proposition 46,,,Yes,254
+Nevada,CP52,Proposition 47,,,No,278
+Nevada,CP52,Proposition 47,,,Yes,603
+Nevada,CP52,Proposition 48,,,No,495
+Nevada,CP52,Proposition 48,,,Yes,335
 Nevada,CP52,Secretary of State,,DEM,Alex Padilla,475
 Nevada,CP52,Secretary of State,,REP,Pete Peterson,381
 Nevada,CP52,State Assembly,1,REP,Brian Dahle,426
@@ -1141,42 +1765,32 @@ Nevada,CP52,Superintendent of Public Instruction,,NOP,Marshall Tuck,348
 Nevada,CP52,Superintendent of Public Instruction,,NOP,Tom Torlakson,338
 Nevada,CP52,Treasurer,,REP,Greg Conlon,338
 Nevada,CP52,Treasurer,,DEM,John Chiang,513
-Nevada,CP52,U.S. House,4,REP,Arthur Moore,408
+Nevada,CP52,U.S. House,4,REP,"Arthur ""Art"" Moore",408
 Nevada,CP52,U.S. House,4,REP,Tom McClintock,357
-Nevada,MB53,Attorney General,,DEM,Kamala D. Harris,0
-Nevada,MB53,Attorney General,,REP,Ronald Gold,0
-Nevada,MB53,Board of Equalization,1,DEM,Chris Parker,0
-Nevada,MB53,Board of Equalization,1,REP,George Runner,0
-Nevada,MB53,Controller,,REP,Ashley Swearengin,0
-Nevada,MB53,Controller,,DEM,Betty T. Yee,0
-Nevada,MB53,Governor,,DEM,Edmund G. Brown,0
-Nevada,MB53,Governor,,REP,Neel Kashkari,0
-Nevada,MB53,Insurance Commissioner,,DEM,Dave Jones,0
-Nevada,MB53,Insurance Commissioner,,REP,Ted Gaines,0
-Nevada,MB53,Lieutenant Governor,,DEM,Gavin Newsom,0
-Nevada,MB53,Lieutenant Governor,,REP,Ron Nehring,0
-Nevada,MB53,Secretary of State,,DEM,Alex Padilla,0
-Nevada,MB53,Secretary of State,,REP,Pete Peterson,0
-Nevada,MB53,State Assembly,1,REP,Brian Dahle,0
-Nevada,MB53,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Nevada,MB53,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Nevada,MB53,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Nevada,MB53,Treasurer,,REP,Greg Conlon,0
-Nevada,MB53,Treasurer,,DEM,John Chiang,0
-Nevada,MB53,U.S. House,4,REP,Arthur Moore,0
-Nevada,MB53,U.S. House,4,REP,Tom McClintock,0
 Nevada,MB54,Attorney General,,DEM,Kamala D. Harris,82
 Nevada,MB54,Attorney General,,REP,Ronald Gold,35
 Nevada,MB54,Board of Equalization,1,DEM,Chris Parker,70
 Nevada,MB54,Board of Equalization,1,REP,George Runner,38
 Nevada,MB54,Controller,,REP,Ashley Swearengin,36
 Nevada,MB54,Controller,,DEM,Betty T. Yee,79
-Nevada,MB54,Governor,,DEM,Edmund G. Brown,82
+Nevada,MB54,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 Nevada,MB54,Governor,,REP,Neel Kashkari,37
 Nevada,MB54,Insurance Commissioner,,DEM,Dave Jones,75
 Nevada,MB54,Insurance Commissioner,,REP,Ted Gaines,36
 Nevada,MB54,Lieutenant Governor,,DEM,Gavin Newsom,80
 Nevada,MB54,Lieutenant Governor,,REP,Ron Nehring,37
+Nevada,MB54,Proposition 1,,,No,56
+Nevada,MB54,Proposition 1,,,Yes,62
+Nevada,MB54,Proposition 2,,,No,38
+Nevada,MB54,Proposition 2,,,Yes,75
+Nevada,MB54,Proposition 45,,,No,54
+Nevada,MB54,Proposition 45,,,Yes,65
+Nevada,MB54,Proposition 46,,,No,82
+Nevada,MB54,Proposition 46,,,Yes,36
+Nevada,MB54,Proposition 47,,,No,23
+Nevada,MB54,Proposition 47,,,Yes,99
+Nevada,MB54,Proposition 48,,,No,61
+Nevada,MB54,Proposition 48,,,Yes,57
 Nevada,MB54,Secretary of State,,DEM,Alex Padilla,77
 Nevada,MB54,Secretary of State,,REP,Pete Peterson,38
 Nevada,MB54,State Assembly,1,REP,Brian Dahle,43
@@ -1187,40 +1801,30 @@ Nevada,MB54,Treasurer,,REP,Greg Conlon,32
 Nevada,MB54,Treasurer,,DEM,John Chiang,80
 Nevada,MB54,U.S. House,1,REP,Doug La Malfa,34
 Nevada,MB54,U.S. House,1,DEM,Heidi Hall,85
-Nevada,MB55,Attorney General,,DEM,Kamala D. Harris,0
-Nevada,MB55,Attorney General,,REP,Ronald Gold,0
-Nevada,MB55,Board of Equalization,1,DEM,Chris Parker,0
-Nevada,MB55,Board of Equalization,1,REP,George Runner,0
-Nevada,MB55,Controller,,REP,Ashley Swearengin,0
-Nevada,MB55,Controller,,DEM,Betty T. Yee,0
-Nevada,MB55,Governor,,DEM,Edmund G. Brown,0
-Nevada,MB55,Governor,,REP,Neel Kashkari,0
-Nevada,MB55,Insurance Commissioner,,DEM,Dave Jones,0
-Nevada,MB55,Insurance Commissioner,,REP,Ted Gaines,0
-Nevada,MB55,Lieutenant Governor,,DEM,Gavin Newsom,0
-Nevada,MB55,Lieutenant Governor,,REP,Ron Nehring,0
-Nevada,MB55,Secretary of State,,DEM,Alex Padilla,0
-Nevada,MB55,Secretary of State,,REP,Pete Peterson,0
-Nevada,MB55,State Assembly,1,REP,Brian Dahle,0
-Nevada,MB55,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Nevada,MB55,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Nevada,MB55,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Nevada,MB55,Treasurer,,REP,Greg Conlon,0
-Nevada,MB55,Treasurer,,DEM,John Chiang,0
-Nevada,MB55,U.S. House,1,REP,Doug La Malfa,0
-Nevada,MB55,U.S. House,1,DEM,Heidi Hall,0
 Nevada,MB56,Attorney General,,DEM,Kamala D. Harris,18
 Nevada,MB56,Attorney General,,REP,Ronald Gold,23
 Nevada,MB56,Board of Equalization,1,DEM,Chris Parker,20
 Nevada,MB56,Board of Equalization,1,REP,George Runner,19
 Nevada,MB56,Controller,,REP,Ashley Swearengin,22
 Nevada,MB56,Controller,,DEM,Betty T. Yee,19
-Nevada,MB56,Governor,,DEM,Edmund G. Brown,20
+Nevada,MB56,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Nevada,MB56,Governor,,REP,Neel Kashkari,23
 Nevada,MB56,Insurance Commissioner,,DEM,Dave Jones,20
 Nevada,MB56,Insurance Commissioner,,REP,Ted Gaines,21
 Nevada,MB56,Lieutenant Governor,,DEM,Gavin Newsom,18
 Nevada,MB56,Lieutenant Governor,,REP,Ron Nehring,24
+Nevada,MB56,Proposition 1,,,No,29
+Nevada,MB56,Proposition 1,,,Yes,17
+Nevada,MB56,Proposition 2,,,No,25
+Nevada,MB56,Proposition 2,,,Yes,16
+Nevada,MB56,Proposition 45,,,No,32
+Nevada,MB56,Proposition 45,,,Yes,11
+Nevada,MB56,Proposition 46,,,No,36
+Nevada,MB56,Proposition 46,,,Yes,10
+Nevada,MB56,Proposition 47,,,No,17
+Nevada,MB56,Proposition 47,,,Yes,27
+Nevada,MB56,Proposition 48,,,No,29
+Nevada,MB56,Proposition 48,,,Yes,15
 Nevada,MB56,Secretary of State,,DEM,Alex Padilla,17
 Nevada,MB56,Secretary of State,,REP,Pete Peterson,24
 Nevada,MB56,State Assembly,1,REP,Brian Dahle,24
@@ -1237,12 +1841,24 @@ Nevada,MB57,Board of Equalization,1,DEM,Chris Parker,155
 Nevada,MB57,Board of Equalization,1,REP,George Runner,213
 Nevada,MB57,Controller,,REP,Ashley Swearengin,203
 Nevada,MB57,Controller,,DEM,Betty T. Yee,169
-Nevada,MB57,Governor,,DEM,Edmund G. Brown,193
+Nevada,MB57,Governor,,DEM,"Edmund G. ""Jerry"" Brown",193
 Nevada,MB57,Governor,,REP,Neel Kashkari,194
 Nevada,MB57,Insurance Commissioner,,DEM,Dave Jones,172
 Nevada,MB57,Insurance Commissioner,,REP,Ted Gaines,199
 Nevada,MB57,Lieutenant Governor,,DEM,Gavin Newsom,176
 Nevada,MB57,Lieutenant Governor,,REP,Ron Nehring,204
+Nevada,MB57,Proposition 1,,,No,177
+Nevada,MB57,Proposition 1,,,Yes,193
+Nevada,MB57,Proposition 2,,,No,121
+Nevada,MB57,Proposition 2,,,Yes,244
+Nevada,MB57,Proposition 45,,,No,241
+Nevada,MB57,Proposition 45,,,Yes,131
+Nevada,MB57,Proposition 46,,,No,303
+Nevada,MB57,Proposition 46,,,Yes,81
+Nevada,MB57,Proposition 47,,,No,178
+Nevada,MB57,Proposition 47,,,Yes,199
+Nevada,MB57,Proposition 48,,,No,247
+Nevada,MB57,Proposition 48,,,Yes,119
 Nevada,MB57,Secretary of State,,DEM,Alex Padilla,162
 Nevada,MB57,Secretary of State,,REP,Pete Peterson,211
 Nevada,MB57,State Assembly,1,REP,Brian Dahle,234
@@ -1259,12 +1875,24 @@ Nevada,MB58,Board of Equalization,1,DEM,Chris Parker,138
 Nevada,MB58,Board of Equalization,1,REP,George Runner,63
 Nevada,MB58,Controller,,REP,Ashley Swearengin,67
 Nevada,MB58,Controller,,DEM,Betty T. Yee,142
-Nevada,MB58,Governor,,DEM,Edmund G. Brown,158
+Nevada,MB58,Governor,,DEM,"Edmund G. ""Jerry"" Brown",158
 Nevada,MB58,Governor,,REP,Neel Kashkari,57
 Nevada,MB58,Insurance Commissioner,,DEM,Dave Jones,142
 Nevada,MB58,Insurance Commissioner,,REP,Ted Gaines,67
 Nevada,MB58,Lieutenant Governor,,DEM,Gavin Newsom,149
 Nevada,MB58,Lieutenant Governor,,REP,Ron Nehring,61
+Nevada,MB58,Proposition 1,,,No,79
+Nevada,MB58,Proposition 1,,,Yes,133
+Nevada,MB58,Proposition 2,,,No,68
+Nevada,MB58,Proposition 2,,,Yes,136
+Nevada,MB58,Proposition 45,,,No,111
+Nevada,MB58,Proposition 45,,,Yes,101
+Nevada,MB58,Proposition 46,,,No,143
+Nevada,MB58,Proposition 46,,,Yes,73
+Nevada,MB58,Proposition 47,,,No,47
+Nevada,MB58,Proposition 47,,,Yes,168
+Nevada,MB58,Proposition 48,,,No,126
+Nevada,MB58,Proposition 48,,,Yes,81
 Nevada,MB58,Secretary of State,,DEM,Alex Padilla,138
 Nevada,MB58,Secretary of State,,REP,Pete Peterson,69
 Nevada,MB58,State Assembly,1,REP,Brian Dahle,78
@@ -1281,12 +1909,24 @@ Nevada,MB59,Board of Equalization,1,DEM,Chris Parker,189
 Nevada,MB59,Board of Equalization,1,REP,George Runner,210
 Nevada,MB59,Controller,,REP,Ashley Swearengin,206
 Nevada,MB59,Controller,,DEM,Betty T. Yee,209
-Nevada,MB59,Governor,,DEM,Edmund G. Brown,253
+Nevada,MB59,Governor,,DEM,"Edmund G. ""Jerry"" Brown",253
 Nevada,MB59,Governor,,REP,Neel Kashkari,179
 Nevada,MB59,Insurance Commissioner,,DEM,Dave Jones,215
 Nevada,MB59,Insurance Commissioner,,REP,Ted Gaines,199
 Nevada,MB59,Lieutenant Governor,,DEM,Gavin Newsom,225
 Nevada,MB59,Lieutenant Governor,,REP,Ron Nehring,197
+Nevada,MB59,Proposition 1,,,No,180
+Nevada,MB59,Proposition 1,,,Yes,238
+Nevada,MB59,Proposition 2,,,No,145
+Nevada,MB59,Proposition 2,,,Yes,263
+Nevada,MB59,Proposition 45,,,No,261
+Nevada,MB59,Proposition 45,,,Yes,154
+Nevada,MB59,Proposition 46,,,No,335
+Nevada,MB59,Proposition 46,,,Yes,91
+Nevada,MB59,Proposition 47,,,No,182
+Nevada,MB59,Proposition 47,,,Yes,240
+Nevada,MB59,Proposition 48,,,No,280
+Nevada,MB59,Proposition 48,,,Yes,136
 Nevada,MB59,Secretary of State,,DEM,Alex Padilla,203
 Nevada,MB59,Secretary of State,,REP,Pete Peterson,213
 Nevada,MB59,State Assembly,1,REP,Brian Dahle,225
@@ -1303,12 +1943,24 @@ Nevada,MB60,Board of Equalization,1,DEM,Chris Parker,167
 Nevada,MB60,Board of Equalization,1,REP,George Runner,278
 Nevada,MB60,Controller,,REP,Ashley Swearengin,279
 Nevada,MB60,Controller,,DEM,Betty T. Yee,175
-Nevada,MB60,Governor,,DEM,Edmund G. Brown,186
+Nevada,MB60,Governor,,DEM,"Edmund G. ""Jerry"" Brown",186
 Nevada,MB60,Governor,,REP,Neel Kashkari,273
 Nevada,MB60,Insurance Commissioner,,DEM,Dave Jones,175
 Nevada,MB60,Insurance Commissioner,,REP,Ted Gaines,276
 Nevada,MB60,Lieutenant Governor,,DEM,Gavin Newsom,182
 Nevada,MB60,Lieutenant Governor,,REP,Ron Nehring,271
+Nevada,MB60,Proposition 1,,,No,249
+Nevada,MB60,Proposition 1,,,Yes,211
+Nevada,MB60,Proposition 2,,,No,157
+Nevada,MB60,Proposition 2,,,Yes,298
+Nevada,MB60,Proposition 45,,,No,309
+Nevada,MB60,Proposition 45,,,Yes,148
+Nevada,MB60,Proposition 46,,,No,365
+Nevada,MB60,Proposition 46,,,Yes,97
+Nevada,MB60,Proposition 47,,,No,247
+Nevada,MB60,Proposition 47,,,Yes,216
+Nevada,MB60,Proposition 48,,,No,344
+Nevada,MB60,Proposition 48,,,Yes,108
 Nevada,MB60,Secretary of State,,DEM,Alex Padilla,169
 Nevada,MB60,Secretary of State,,REP,Pete Peterson,278
 Nevada,MB60,State Assembly,1,REP,Brian Dahle,297
@@ -1325,12 +1977,24 @@ Nevada,MB61,Board of Equalization,1,DEM,Chris Parker,35
 Nevada,MB61,Board of Equalization,1,REP,George Runner,40
 Nevada,MB61,Controller,,REP,Ashley Swearengin,37
 Nevada,MB61,Controller,,DEM,Betty T. Yee,40
-Nevada,MB61,Governor,,DEM,Edmund G. Brown,40
+Nevada,MB61,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
 Nevada,MB61,Governor,,REP,Neel Kashkari,43
 Nevada,MB61,Insurance Commissioner,,DEM,Dave Jones,39
 Nevada,MB61,Insurance Commissioner,,REP,Ted Gaines,37
 Nevada,MB61,Lieutenant Governor,,DEM,Gavin Newsom,38
 Nevada,MB61,Lieutenant Governor,,REP,Ron Nehring,42
+Nevada,MB61,Proposition 1,,,No,44
+Nevada,MB61,Proposition 1,,,Yes,38
+Nevada,MB61,Proposition 2,,,No,37
+Nevada,MB61,Proposition 2,,,Yes,42
+Nevada,MB61,Proposition 45,,,No,49
+Nevada,MB61,Proposition 45,,,Yes,30
+Nevada,MB61,Proposition 46,,,No,52
+Nevada,MB61,Proposition 46,,,Yes,30
+Nevada,MB61,Proposition 47,,,No,24
+Nevada,MB61,Proposition 47,,,Yes,59
+Nevada,MB61,Proposition 48,,,No,43
+Nevada,MB61,Proposition 48,,,Yes,35
 Nevada,MB61,Secretary of State,,DEM,Alex Padilla,37
 Nevada,MB61,Secretary of State,,REP,Pete Peterson,41
 Nevada,MB61,State Assembly,1,REP,Brian Dahle,39
@@ -1347,12 +2011,24 @@ Nevada,MB62,Board of Equalization,1,DEM,Chris Parker,90
 Nevada,MB62,Board of Equalization,1,REP,George Runner,151
 Nevada,MB62,Controller,,REP,Ashley Swearengin,139
 Nevada,MB62,Controller,,DEM,Betty T. Yee,104
-Nevada,MB62,Governor,,DEM,Edmund G. Brown,136
+Nevada,MB62,Governor,,DEM,"Edmund G. ""Jerry"" Brown",136
 Nevada,MB62,Governor,,REP,Neel Kashkari,119
 Nevada,MB62,Insurance Commissioner,,DEM,Dave Jones,111
 Nevada,MB62,Insurance Commissioner,,REP,Ted Gaines,127
 Nevada,MB62,Lieutenant Governor,,DEM,Gavin Newsom,116
 Nevada,MB62,Lieutenant Governor,,REP,Ron Nehring,136
+Nevada,MB62,Proposition 1,,,No,95
+Nevada,MB62,Proposition 1,,,Yes,148
+Nevada,MB62,Proposition 2,,,No,58
+Nevada,MB62,Proposition 2,,,Yes,185
+Nevada,MB62,Proposition 45,,,No,163
+Nevada,MB62,Proposition 45,,,Yes,76
+Nevada,MB62,Proposition 46,,,No,204
+Nevada,MB62,Proposition 46,,,Yes,41
+Nevada,MB62,Proposition 47,,,No,123
+Nevada,MB62,Proposition 47,,,Yes,122
+Nevada,MB62,Proposition 48,,,No,174
+Nevada,MB62,Proposition 48,,,Yes,65
 Nevada,MB62,Secretary of State,,DEM,Alex Padilla,102
 Nevada,MB62,Secretary of State,,REP,Pete Peterson,141
 Nevada,MB62,State Assembly,1,REP,Brian Dahle,154
@@ -1369,12 +2045,24 @@ Nevada,MB63,Board of Equalization,1,DEM,Chris Parker,99
 Nevada,MB63,Board of Equalization,1,REP,George Runner,204
 Nevada,MB63,Controller,,REP,Ashley Swearengin,190
 Nevada,MB63,Controller,,DEM,Betty T. Yee,119
-Nevada,MB63,Governor,,DEM,Edmund G. Brown,159
+Nevada,MB63,Governor,,DEM,"Edmund G. ""Jerry"" Brown",159
 Nevada,MB63,Governor,,REP,Neel Kashkari,164
 Nevada,MB63,Insurance Commissioner,,DEM,Dave Jones,131
 Nevada,MB63,Insurance Commissioner,,REP,Ted Gaines,180
 Nevada,MB63,Lieutenant Governor,,DEM,Gavin Newsom,135
 Nevada,MB63,Lieutenant Governor,,REP,Ron Nehring,182
+Nevada,MB63,Proposition 1,,,No,129
+Nevada,MB63,Proposition 1,,,Yes,177
+Nevada,MB63,Proposition 2,,,No,86
+Nevada,MB63,Proposition 2,,,Yes,213
+Nevada,MB63,Proposition 45,,,No,207
+Nevada,MB63,Proposition 45,,,Yes,100
+Nevada,MB63,Proposition 46,,,No,254
+Nevada,MB63,Proposition 46,,,Yes,58
+Nevada,MB63,Proposition 47,,,No,145
+Nevada,MB63,Proposition 47,,,Yes,166
+Nevada,MB63,Proposition 48,,,No,215
+Nevada,MB63,Proposition 48,,,Yes,84
 Nevada,MB63,Secretary of State,,DEM,Alex Padilla,120
 Nevada,MB63,Secretary of State,,REP,Pete Peterson,189
 Nevada,MB63,State Assembly,1,REP,Brian Dahle,222
@@ -1391,12 +2079,24 @@ Nevada,MB64,Board of Equalization,1,DEM,Chris Parker,24
 Nevada,MB64,Board of Equalization,1,REP,George Runner,31
 Nevada,MB64,Controller,,REP,Ashley Swearengin,33
 Nevada,MB64,Controller,,DEM,Betty T. Yee,25
-Nevada,MB64,Governor,,DEM,Edmund G. Brown,25
+Nevada,MB64,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Nevada,MB64,Governor,,REP,Neel Kashkari,31
 Nevada,MB64,Insurance Commissioner,,DEM,Dave Jones,27
 Nevada,MB64,Insurance Commissioner,,REP,Ted Gaines,31
 Nevada,MB64,Lieutenant Governor,,DEM,Gavin Newsom,26
 Nevada,MB64,Lieutenant Governor,,REP,Ron Nehring,30
+Nevada,MB64,Proposition 1,,,No,22
+Nevada,MB64,Proposition 1,,,Yes,38
+Nevada,MB64,Proposition 2,,,No,27
+Nevada,MB64,Proposition 2,,,Yes,31
+Nevada,MB64,Proposition 45,,,No,29
+Nevada,MB64,Proposition 45,,,Yes,31
+Nevada,MB64,Proposition 46,,,No,36
+Nevada,MB64,Proposition 46,,,Yes,24
+Nevada,MB64,Proposition 47,,,No,24
+Nevada,MB64,Proposition 47,,,Yes,34
+Nevada,MB64,Proposition 48,,,No,40
+Nevada,MB64,Proposition 48,,,Yes,17
 Nevada,MB64,Secretary of State,,DEM,Alex Padilla,26
 Nevada,MB64,Secretary of State,,REP,Pete Peterson,32
 Nevada,MB64,State Assembly,1,REP,Brian Dahle,36
@@ -1413,12 +2113,24 @@ Nevada,MB65,Board of Equalization,1,DEM,Chris Parker,44
 Nevada,MB65,Board of Equalization,1,REP,George Runner,37
 Nevada,MB65,Controller,,REP,Ashley Swearengin,37
 Nevada,MB65,Controller,,DEM,Betty T. Yee,47
-Nevada,MB65,Governor,,DEM,Edmund G. Brown,57
+Nevada,MB65,Governor,,DEM,"Edmund G. ""Jerry"" Brown",57
 Nevada,MB65,Governor,,REP,Neel Kashkari,31
 Nevada,MB65,Insurance Commissioner,,DEM,Dave Jones,50
 Nevada,MB65,Insurance Commissioner,,REP,Ted Gaines,32
 Nevada,MB65,Lieutenant Governor,,DEM,Gavin Newsom,55
 Nevada,MB65,Lieutenant Governor,,REP,Ron Nehring,33
+Nevada,MB65,Proposition 1,,,No,36
+Nevada,MB65,Proposition 1,,,Yes,49
+Nevada,MB65,Proposition 2,,,No,32
+Nevada,MB65,Proposition 2,,,Yes,53
+Nevada,MB65,Proposition 45,,,No,44
+Nevada,MB65,Proposition 45,,,Yes,40
+Nevada,MB65,Proposition 46,,,No,65
+Nevada,MB65,Proposition 46,,,Yes,21
+Nevada,MB65,Proposition 47,,,No,25
+Nevada,MB65,Proposition 47,,,Yes,63
+Nevada,MB65,Proposition 48,,,No,50
+Nevada,MB65,Proposition 48,,,Yes,31
 Nevada,MB65,Secretary of State,,DEM,Alex Padilla,50
 Nevada,MB65,Secretary of State,,REP,Pete Peterson,33
 Nevada,MB65,State Assembly,1,REP,Brian Dahle,38
@@ -1435,12 +2147,24 @@ Nevada,MB66,Board of Equalization,1,DEM,Chris Parker,82
 Nevada,MB66,Board of Equalization,1,REP,George Runner,101
 Nevada,MB66,Controller,,REP,Ashley Swearengin,98
 Nevada,MB66,Controller,,DEM,Betty T. Yee,85
-Nevada,MB66,Governor,,DEM,Edmund G. Brown,96
+Nevada,MB66,Governor,,DEM,"Edmund G. ""Jerry"" Brown",96
 Nevada,MB66,Governor,,REP,Neel Kashkari,94
 Nevada,MB66,Insurance Commissioner,,DEM,Dave Jones,80
 Nevada,MB66,Insurance Commissioner,,REP,Ted Gaines,103
 Nevada,MB66,Lieutenant Governor,,DEM,Gavin Newsom,96
 Nevada,MB66,Lieutenant Governor,,REP,Ron Nehring,94
+Nevada,MB66,Proposition 1,,,No,96
+Nevada,MB66,Proposition 1,,,Yes,89
+Nevada,MB66,Proposition 2,,,No,69
+Nevada,MB66,Proposition 2,,,Yes,116
+Nevada,MB66,Proposition 45,,,No,130
+Nevada,MB66,Proposition 45,,,Yes,56
+Nevada,MB66,Proposition 46,,,No,147
+Nevada,MB66,Proposition 46,,,Yes,40
+Nevada,MB66,Proposition 47,,,No,79
+Nevada,MB66,Proposition 47,,,Yes,111
+Nevada,MB66,Proposition 48,,,No,132
+Nevada,MB66,Proposition 48,,,Yes,55
 Nevada,MB66,Secretary of State,,DEM,Alex Padilla,78
 Nevada,MB66,Secretary of State,,REP,Pete Peterson,107
 Nevada,MB66,State Assembly,1,REP,Brian Dahle,109
@@ -1457,12 +2181,24 @@ Nevada,MB67,Board of Equalization,1,DEM,Chris Parker,23
 Nevada,MB67,Board of Equalization,1,REP,George Runner,12
 Nevada,MB67,Controller,,REP,Ashley Swearengin,14
 Nevada,MB67,Controller,,DEM,Betty T. Yee,23
-Nevada,MB67,Governor,,DEM,Edmund G. Brown,24
+Nevada,MB67,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
 Nevada,MB67,Governor,,REP,Neel Kashkari,13
 Nevada,MB67,Insurance Commissioner,,DEM,Dave Jones,24
 Nevada,MB67,Insurance Commissioner,,REP,Ted Gaines,13
 Nevada,MB67,Lieutenant Governor,,DEM,Gavin Newsom,24
 Nevada,MB67,Lieutenant Governor,,REP,Ron Nehring,12
+Nevada,MB67,Proposition 1,,,No,22
+Nevada,MB67,Proposition 1,,,Yes,17
+Nevada,MB67,Proposition 2,,,No,12
+Nevada,MB67,Proposition 2,,,Yes,25
+Nevada,MB67,Proposition 45,,,No,21
+Nevada,MB67,Proposition 45,,,Yes,16
+Nevada,MB67,Proposition 46,,,No,31
+Nevada,MB67,Proposition 46,,,Yes,6
+Nevada,MB67,Proposition 47,,,No,11
+Nevada,MB67,Proposition 47,,,Yes,25
+Nevada,MB67,Proposition 48,,,No,19
+Nevada,MB67,Proposition 48,,,Yes,20
 Nevada,MB67,Secretary of State,,DEM,Alex Padilla,22
 Nevada,MB67,Secretary of State,,REP,Pete Peterson,15
 Nevada,MB67,State Assembly,1,REP,Brian Dahle,14
@@ -1479,12 +2215,24 @@ Nevada,MB68,Board of Equalization,1,DEM,Chris Parker,14
 Nevada,MB68,Board of Equalization,1,REP,George Runner,29
 Nevada,MB68,Controller,,REP,Ashley Swearengin,25
 Nevada,MB68,Controller,,DEM,Betty T. Yee,25
-Nevada,MB68,Governor,,DEM,Edmund G. Brown,27
+Nevada,MB68,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Nevada,MB68,Governor,,REP,Neel Kashkari,23
 Nevada,MB68,Insurance Commissioner,,DEM,Dave Jones,19
 Nevada,MB68,Insurance Commissioner,,REP,Ted Gaines,29
 Nevada,MB68,Lieutenant Governor,,DEM,Gavin Newsom,28
 Nevada,MB68,Lieutenant Governor,,REP,Ron Nehring,22
+Nevada,MB68,Proposition 1,,,No,22
+Nevada,MB68,Proposition 1,,,Yes,25
+Nevada,MB68,Proposition 2,,,No,15
+Nevada,MB68,Proposition 2,,,Yes,31
+Nevada,MB68,Proposition 45,,,No,24
+Nevada,MB68,Proposition 45,,,Yes,23
+Nevada,MB68,Proposition 46,,,No,32
+Nevada,MB68,Proposition 46,,,Yes,18
+Nevada,MB68,Proposition 47,,,No,11
+Nevada,MB68,Proposition 47,,,Yes,39
+Nevada,MB68,Proposition 48,,,No,29
+Nevada,MB68,Proposition 48,,,Yes,21
 Nevada,MB68,Secretary of State,,DEM,Alex Padilla,25
 Nevada,MB68,Secretary of State,,REP,Pete Peterson,24
 Nevada,MB68,State Assembly,1,REP,Brian Dahle,27
@@ -1501,12 +2249,24 @@ Nevada,MB69,Board of Equalization,1,DEM,Chris Parker,26
 Nevada,MB69,Board of Equalization,1,REP,George Runner,50
 Nevada,MB69,Controller,,REP,Ashley Swearengin,55
 Nevada,MB69,Controller,,DEM,Betty T. Yee,21
-Nevada,MB69,Governor,,DEM,Edmund G. Brown,27
+Nevada,MB69,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Nevada,MB69,Governor,,REP,Neel Kashkari,53
 Nevada,MB69,Insurance Commissioner,,DEM,Dave Jones,25
 Nevada,MB69,Insurance Commissioner,,REP,Ted Gaines,49
 Nevada,MB69,Lieutenant Governor,,DEM,Gavin Newsom,28
 Nevada,MB69,Lieutenant Governor,,REP,Ron Nehring,51
+Nevada,MB69,Proposition 1,,,No,48
+Nevada,MB69,Proposition 1,,,Yes,31
+Nevada,MB69,Proposition 2,,,No,27
+Nevada,MB69,Proposition 2,,,Yes,49
+Nevada,MB69,Proposition 45,,,No,53
+Nevada,MB69,Proposition 45,,,Yes,26
+Nevada,MB69,Proposition 46,,,No,65
+Nevada,MB69,Proposition 46,,,Yes,13
+Nevada,MB69,Proposition 47,,,No,30
+Nevada,MB69,Proposition 47,,,Yes,50
+Nevada,MB69,Proposition 48,,,No,53
+Nevada,MB69,Proposition 48,,,Yes,26
 Nevada,MB69,Secretary of State,,DEM,Alex Padilla,25
 Nevada,MB69,Secretary of State,,REP,Pete Peterson,53
 Nevada,MB69,State Assembly,1,REP,Brian Dahle,56
@@ -1515,7 +2275,7 @@ Nevada,MB69,Superintendent of Public Instruction,,NOP,Marshall Tuck,39
 Nevada,MB69,Superintendent of Public Instruction,,NOP,Tom Torlakson,22
 Nevada,MB69,Treasurer,,REP,Greg Conlon,54
 Nevada,MB69,Treasurer,,DEM,John Chiang,23
-Nevada,MB69,U.S. House,4,REP,Arthur Moore,27
+Nevada,MB69,U.S. House,4,REP,"Arthur ""Art"" Moore",27
 Nevada,MB69,U.S. House,4,REP,Tom McClintock,48
 Nevada,MB70,Attorney General,,DEM,Kamala D. Harris,35
 Nevada,MB70,Attorney General,,REP,Ronald Gold,37
@@ -1523,12 +2283,24 @@ Nevada,MB70,Board of Equalization,1,DEM,Chris Parker,31
 Nevada,MB70,Board of Equalization,1,REP,George Runner,38
 Nevada,MB70,Controller,,REP,Ashley Swearengin,35
 Nevada,MB70,Controller,,DEM,Betty T. Yee,36
-Nevada,MB70,Governor,,DEM,Edmund G. Brown,32
+Nevada,MB70,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Nevada,MB70,Governor,,REP,Neel Kashkari,39
 Nevada,MB70,Insurance Commissioner,,DEM,Dave Jones,33
 Nevada,MB70,Insurance Commissioner,,REP,Ted Gaines,40
 Nevada,MB70,Lieutenant Governor,,DEM,Gavin Newsom,35
 Nevada,MB70,Lieutenant Governor,,REP,Ron Nehring,38
+Nevada,MB70,Proposition 1,,,No,38
+Nevada,MB70,Proposition 1,,,Yes,33
+Nevada,MB70,Proposition 2,,,No,24
+Nevada,MB70,Proposition 2,,,Yes,41
+Nevada,MB70,Proposition 45,,,No,44
+Nevada,MB70,Proposition 45,,,Yes,22
+Nevada,MB70,Proposition 46,,,No,56
+Nevada,MB70,Proposition 46,,,Yes,16
+Nevada,MB70,Proposition 47,,,No,27
+Nevada,MB70,Proposition 47,,,Yes,45
+Nevada,MB70,Proposition 48,,,No,50
+Nevada,MB70,Proposition 48,,,Yes,17
 Nevada,MB70,Secretary of State,,DEM,Alex Padilla,35
 Nevada,MB70,Secretary of State,,REP,Pete Peterson,38
 Nevada,MB70,State Assembly,1,REP,Brian Dahle,43
@@ -1545,12 +2317,24 @@ Nevada,MB71,Board of Equalization,1,DEM,Chris Parker,176
 Nevada,MB71,Board of Equalization,1,REP,George Runner,193
 Nevada,MB71,Controller,,REP,Ashley Swearengin,184
 Nevada,MB71,Controller,,DEM,Betty T. Yee,196
-Nevada,MB71,Governor,,DEM,Edmund G. Brown,214
+Nevada,MB71,Governor,,DEM,"Edmund G. ""Jerry"" Brown",214
 Nevada,MB71,Governor,,REP,Neel Kashkari,180
 Nevada,MB71,Insurance Commissioner,,DEM,Dave Jones,198
 Nevada,MB71,Insurance Commissioner,,REP,Ted Gaines,179
 Nevada,MB71,Lieutenant Governor,,DEM,Gavin Newsom,208
 Nevada,MB71,Lieutenant Governor,,REP,Ron Nehring,184
+Nevada,MB71,Proposition 1,,,No,159
+Nevada,MB71,Proposition 1,,,Yes,232
+Nevada,MB71,Proposition 2,,,No,110
+Nevada,MB71,Proposition 2,,,Yes,254
+Nevada,MB71,Proposition 45,,,No,257
+Nevada,MB71,Proposition 45,,,Yes,127
+Nevada,MB71,Proposition 46,,,No,297
+Nevada,MB71,Proposition 46,,,Yes,99
+Nevada,MB71,Proposition 47,,,No,175
+Nevada,MB71,Proposition 47,,,Yes,217
+Nevada,MB71,Proposition 48,,,No,247
+Nevada,MB71,Proposition 48,,,Yes,121
 Nevada,MB71,Secretary of State,,DEM,Alex Padilla,189
 Nevada,MB71,Secretary of State,,REP,Pete Peterson,187
 Nevada,MB71,State Assembly,1,REP,Brian Dahle,205
@@ -1567,12 +2351,24 @@ Nevada,MB72,Board of Equalization,1,DEM,Chris Parker,47
 Nevada,MB72,Board of Equalization,1,REP,George Runner,22
 Nevada,MB72,Controller,,REP,Ashley Swearengin,18
 Nevada,MB72,Controller,,DEM,Betty T. Yee,53
-Nevada,MB72,Governor,,DEM,Edmund G. Brown,53
+Nevada,MB72,Governor,,DEM,"Edmund G. ""Jerry"" Brown",53
 Nevada,MB72,Governor,,REP,Neel Kashkari,20
 Nevada,MB72,Insurance Commissioner,,DEM,Dave Jones,50
 Nevada,MB72,Insurance Commissioner,,REP,Ted Gaines,20
 Nevada,MB72,Lieutenant Governor,,DEM,Gavin Newsom,49
 Nevada,MB72,Lieutenant Governor,,REP,Ron Nehring,24
+Nevada,MB72,Proposition 1,,,No,33
+Nevada,MB72,Proposition 1,,,Yes,37
+Nevada,MB72,Proposition 2,,,No,23
+Nevada,MB72,Proposition 2,,,Yes,45
+Nevada,MB72,Proposition 45,,,No,34
+Nevada,MB72,Proposition 45,,,Yes,34
+Nevada,MB72,Proposition 46,,,No,47
+Nevada,MB72,Proposition 46,,,Yes,28
+Nevada,MB72,Proposition 47,,,No,19
+Nevada,MB72,Proposition 47,,,Yes,53
+Nevada,MB72,Proposition 48,,,No,29
+Nevada,MB72,Proposition 48,,,Yes,40
 Nevada,MB72,Secretary of State,,DEM,Alex Padilla,52
 Nevada,MB72,Secretary of State,,REP,Pete Peterson,20
 Nevada,MB72,State Assembly,1,REP,Brian Dahle,23
@@ -1589,12 +2385,24 @@ Nevada,MB73,Board of Equalization,1,DEM,Chris Parker,27
 Nevada,MB73,Board of Equalization,1,REP,George Runner,33
 Nevada,MB73,Controller,,REP,Ashley Swearengin,33
 Nevada,MB73,Controller,,DEM,Betty T. Yee,29
-Nevada,MB73,Governor,,DEM,Edmund G. Brown,34
+Nevada,MB73,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Nevada,MB73,Governor,,REP,Neel Kashkari,32
 Nevada,MB73,Insurance Commissioner,,DEM,Dave Jones,30
 Nevada,MB73,Insurance Commissioner,,REP,Ted Gaines,35
 Nevada,MB73,Lieutenant Governor,,DEM,Gavin Newsom,30
 Nevada,MB73,Lieutenant Governor,,REP,Ron Nehring,35
+Nevada,MB73,Proposition 1,,,No,35
+Nevada,MB73,Proposition 1,,,Yes,28
+Nevada,MB73,Proposition 2,,,No,23
+Nevada,MB73,Proposition 2,,,Yes,38
+Nevada,MB73,Proposition 45,,,No,38
+Nevada,MB73,Proposition 45,,,Yes,21
+Nevada,MB73,Proposition 46,,,No,61
+Nevada,MB73,Proposition 46,,,Yes,4
+Nevada,MB73,Proposition 47,,,No,22
+Nevada,MB73,Proposition 47,,,Yes,43
+Nevada,MB73,Proposition 48,,,No,37
+Nevada,MB73,Proposition 48,,,Yes,23
 Nevada,MB73,Secretary of State,,DEM,Alex Padilla,27
 Nevada,MB73,Secretary of State,,REP,Pete Peterson,37
 Nevada,MB73,State Assembly,1,REP,Brian Dahle,36
@@ -1611,12 +2419,24 @@ Nevada,MB74,Board of Equalization,1,DEM,Chris Parker,57
 Nevada,MB74,Board of Equalization,1,REP,George Runner,113
 Nevada,MB74,Controller,,REP,Ashley Swearengin,119
 Nevada,MB74,Controller,,DEM,Betty T. Yee,51
-Nevada,MB74,Governor,,DEM,Edmund G. Brown,73
+Nevada,MB74,Governor,,DEM,"Edmund G. ""Jerry"" Brown",73
 Nevada,MB74,Governor,,REP,Neel Kashkari,103
 Nevada,MB74,Insurance Commissioner,,DEM,Dave Jones,58
 Nevada,MB74,Insurance Commissioner,,REP,Ted Gaines,116
 Nevada,MB74,Lieutenant Governor,,DEM,Gavin Newsom,59
 Nevada,MB74,Lieutenant Governor,,REP,Ron Nehring,118
+Nevada,MB74,Proposition 1,,,No,75
+Nevada,MB74,Proposition 1,,,Yes,93
+Nevada,MB74,Proposition 2,,,No,55
+Nevada,MB74,Proposition 2,,,Yes,116
+Nevada,MB74,Proposition 45,,,No,118
+Nevada,MB74,Proposition 45,,,Yes,53
+Nevada,MB74,Proposition 46,,,No,135
+Nevada,MB74,Proposition 46,,,Yes,41
+Nevada,MB74,Proposition 47,,,No,92
+Nevada,MB74,Proposition 47,,,Yes,88
+Nevada,MB74,Proposition 48,,,No,129
+Nevada,MB74,Proposition 48,,,Yes,43
 Nevada,MB74,Secretary of State,,DEM,Alex Padilla,56
 Nevada,MB74,Secretary of State,,REP,Pete Peterson,121
 Nevada,MB74,State Assembly,1,REP,Brian Dahle,125
@@ -1633,12 +2453,24 @@ Nevada,MB75,Board of Equalization,1,DEM,Chris Parker,62
 Nevada,MB75,Board of Equalization,1,REP,George Runner,50
 Nevada,MB75,Controller,,REP,Ashley Swearengin,49
 Nevada,MB75,Controller,,DEM,Betty T. Yee,66
-Nevada,MB75,Governor,,DEM,Edmund G. Brown,72
+Nevada,MB75,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Nevada,MB75,Governor,,REP,Neel Kashkari,41
 Nevada,MB75,Insurance Commissioner,,DEM,Dave Jones,59
 Nevada,MB75,Insurance Commissioner,,REP,Ted Gaines,50
 Nevada,MB75,Lieutenant Governor,,DEM,Gavin Newsom,66
 Nevada,MB75,Lieutenant Governor,,REP,Ron Nehring,46
+Nevada,MB75,Proposition 1,,,No,62
+Nevada,MB75,Proposition 1,,,Yes,53
+Nevada,MB75,Proposition 2,,,No,46
+Nevada,MB75,Proposition 2,,,Yes,66
+Nevada,MB75,Proposition 45,,,No,61
+Nevada,MB75,Proposition 45,,,Yes,49
+Nevada,MB75,Proposition 46,,,No,89
+Nevada,MB75,Proposition 46,,,Yes,29
+Nevada,MB75,Proposition 47,,,No,39
+Nevada,MB75,Proposition 47,,,Yes,78
+Nevada,MB75,Proposition 48,,,No,68
+Nevada,MB75,Proposition 48,,,Yes,44
 Nevada,MB75,Secretary of State,,DEM,Alex Padilla,56
 Nevada,MB75,Secretary of State,,REP,Pete Peterson,57
 Nevada,MB75,State Assembly,1,REP,Brian Dahle,62
@@ -1649,40 +2481,30 @@ Nevada,MB75,Treasurer,,REP,Greg Conlon,52
 Nevada,MB75,Treasurer,,DEM,John Chiang,63
 Nevada,MB75,U.S. House,1,REP,Doug La Malfa,49
 Nevada,MB75,U.S. House,1,DEM,Heidi Hall,69
-Nevada,MB76,Attorney General,,DEM,Kamala D. Harris,0
-Nevada,MB76,Attorney General,,REP,Ronald Gold,0
-Nevada,MB76,Board of Equalization,1,DEM,Chris Parker,0
-Nevada,MB76,Board of Equalization,1,REP,George Runner,0
-Nevada,MB76,Controller,,REP,Ashley Swearengin,0
-Nevada,MB76,Controller,,DEM,Betty T. Yee,0
-Nevada,MB76,Governor,,DEM,Edmund G. Brown,0
-Nevada,MB76,Governor,,REP,Neel Kashkari,0
-Nevada,MB76,Insurance Commissioner,,DEM,Dave Jones,0
-Nevada,MB76,Insurance Commissioner,,REP,Ted Gaines,0
-Nevada,MB76,Lieutenant Governor,,DEM,Gavin Newsom,0
-Nevada,MB76,Lieutenant Governor,,REP,Ron Nehring,0
-Nevada,MB76,Secretary of State,,DEM,Alex Padilla,0
-Nevada,MB76,Secretary of State,,REP,Pete Peterson,0
-Nevada,MB76,State Assembly,1,REP,Brian Dahle,0
-Nevada,MB76,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Nevada,MB76,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Nevada,MB76,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Nevada,MB76,Treasurer,,REP,Greg Conlon,0
-Nevada,MB76,Treasurer,,DEM,John Chiang,0
-Nevada,MB76,U.S. House,1,REP,Doug La Malfa,0
-Nevada,MB76,U.S. House,1,DEM,Heidi Hall,0
 Nevada,MB77,Attorney General,,DEM,Kamala D. Harris,35
 Nevada,MB77,Attorney General,,REP,Ronald Gold,23
 Nevada,MB77,Board of Equalization,1,DEM,Chris Parker,33
 Nevada,MB77,Board of Equalization,1,REP,George Runner,21
 Nevada,MB77,Controller,,REP,Ashley Swearengin,20
 Nevada,MB77,Controller,,DEM,Betty T. Yee,39
-Nevada,MB77,Governor,,DEM,Edmund G. Brown,39
+Nevada,MB77,Governor,,DEM,"Edmund G. ""Jerry"" Brown",39
 Nevada,MB77,Governor,,REP,Neel Kashkari,21
 Nevada,MB77,Insurance Commissioner,,DEM,Dave Jones,37
 Nevada,MB77,Insurance Commissioner,,REP,Ted Gaines,22
 Nevada,MB77,Lieutenant Governor,,DEM,Gavin Newsom,39
 Nevada,MB77,Lieutenant Governor,,REP,Ron Nehring,21
+Nevada,MB77,Proposition 1,,,No,21
+Nevada,MB77,Proposition 1,,,Yes,40
+Nevada,MB77,Proposition 2,,,No,9
+Nevada,MB77,Proposition 2,,,Yes,50
+Nevada,MB77,Proposition 45,,,No,28
+Nevada,MB77,Proposition 45,,,Yes,31
+Nevada,MB77,Proposition 46,,,No,45
+Nevada,MB77,Proposition 46,,,Yes,16
+Nevada,MB77,Proposition 47,,,No,22
+Nevada,MB77,Proposition 47,,,Yes,39
+Nevada,MB77,Proposition 48,,,No,40
+Nevada,MB77,Proposition 48,,,Yes,18
 Nevada,MB77,Secretary of State,,DEM,Alex Padilla,38
 Nevada,MB77,Secretary of State,,REP,Pete Peterson,21
 Nevada,MB77,State Assembly,1,REP,Brian Dahle,32
@@ -1699,12 +2521,24 @@ Nevada,MB78,Board of Equalization,1,DEM,Chris Parker,125
 Nevada,MB78,Board of Equalization,1,REP,George Runner,186
 Nevada,MB78,Controller,,REP,Ashley Swearengin,189
 Nevada,MB78,Controller,,DEM,Betty T. Yee,135
-Nevada,MB78,Governor,,DEM,Edmund G. Brown,146
+Nevada,MB78,Governor,,DEM,"Edmund G. ""Jerry"" Brown",146
 Nevada,MB78,Governor,,REP,Neel Kashkari,187
 Nevada,MB78,Insurance Commissioner,,DEM,Dave Jones,134
 Nevada,MB78,Insurance Commissioner,,REP,Ted Gaines,186
 Nevada,MB78,Lieutenant Governor,,DEM,Gavin Newsom,140
 Nevada,MB78,Lieutenant Governor,,REP,Ron Nehring,185
+Nevada,MB78,Proposition 1,,,No,175
+Nevada,MB78,Proposition 1,,,Yes,148
+Nevada,MB78,Proposition 2,,,No,97
+Nevada,MB78,Proposition 2,,,Yes,221
+Nevada,MB78,Proposition 45,,,No,207
+Nevada,MB78,Proposition 45,,,Yes,113
+Nevada,MB78,Proposition 46,,,No,249
+Nevada,MB78,Proposition 46,,,Yes,81
+Nevada,MB78,Proposition 47,,,No,143
+Nevada,MB78,Proposition 47,,,Yes,184
+Nevada,MB78,Proposition 48,,,No,197
+Nevada,MB78,Proposition 48,,,Yes,119
 Nevada,MB78,Secretary of State,,DEM,Alex Padilla,127
 Nevada,MB78,Secretary of State,,REP,Pete Peterson,196
 Nevada,MB78,State Assembly,1,REP,Brian Dahle,212
@@ -1721,12 +2555,24 @@ Nevada,MB79,Board of Equalization,1,DEM,Chris Parker,84
 Nevada,MB79,Board of Equalization,1,REP,George Runner,71
 Nevada,MB79,Controller,,REP,Ashley Swearengin,72
 Nevada,MB79,Controller,,DEM,Betty T. Yee,84
-Nevada,MB79,Governor,,DEM,Edmund G. Brown,86
+Nevada,MB79,Governor,,DEM,"Edmund G. ""Jerry"" Brown",86
 Nevada,MB79,Governor,,REP,Neel Kashkari,69
 Nevada,MB79,Insurance Commissioner,,DEM,Dave Jones,83
 Nevada,MB79,Insurance Commissioner,,REP,Ted Gaines,73
 Nevada,MB79,Lieutenant Governor,,DEM,Gavin Newsom,90
 Nevada,MB79,Lieutenant Governor,,REP,Ron Nehring,68
+Nevada,MB79,Proposition 1,,,No,71
+Nevada,MB79,Proposition 1,,,Yes,84
+Nevada,MB79,Proposition 2,,,No,48
+Nevada,MB79,Proposition 2,,,Yes,106
+Nevada,MB79,Proposition 45,,,No,81
+Nevada,MB79,Proposition 45,,,Yes,73
+Nevada,MB79,Proposition 46,,,No,112
+Nevada,MB79,Proposition 46,,,Yes,49
+Nevada,MB79,Proposition 47,,,No,48
+Nevada,MB79,Proposition 47,,,Yes,111
+Nevada,MB79,Proposition 48,,,No,103
+Nevada,MB79,Proposition 48,,,Yes,55
 Nevada,MB79,Secretary of State,,DEM,Alex Padilla,77
 Nevada,MB79,Secretary of State,,REP,Pete Peterson,77
 Nevada,MB79,State Assembly,1,REP,Brian Dahle,75
@@ -1743,12 +2589,24 @@ Nevada,MB80,Board of Equalization,1,DEM,Chris Parker,34
 Nevada,MB80,Board of Equalization,1,REP,George Runner,57
 Nevada,MB80,Controller,,REP,Ashley Swearengin,51
 Nevada,MB80,Controller,,DEM,Betty T. Yee,41
-Nevada,MB80,Governor,,DEM,Edmund G. Brown,49
+Nevada,MB80,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 Nevada,MB80,Governor,,REP,Neel Kashkari,47
 Nevada,MB80,Insurance Commissioner,,DEM,Dave Jones,41
 Nevada,MB80,Insurance Commissioner,,REP,Ted Gaines,50
 Nevada,MB80,Lieutenant Governor,,DEM,Gavin Newsom,38
 Nevada,MB80,Lieutenant Governor,,REP,Ron Nehring,56
+Nevada,MB80,Proposition 1,,,No,38
+Nevada,MB80,Proposition 1,,,Yes,55
+Nevada,MB80,Proposition 2,,,No,31
+Nevada,MB80,Proposition 2,,,Yes,59
+Nevada,MB80,Proposition 45,,,No,56
+Nevada,MB80,Proposition 45,,,Yes,33
+Nevada,MB80,Proposition 46,,,No,68
+Nevada,MB80,Proposition 46,,,Yes,23
+Nevada,MB80,Proposition 47,,,No,43
+Nevada,MB80,Proposition 47,,,Yes,50
+Nevada,MB80,Proposition 48,,,No,62
+Nevada,MB80,Proposition 48,,,Yes,30
 Nevada,MB80,Secretary of State,,DEM,Alex Padilla,34
 Nevada,MB80,Secretary of State,,REP,Pete Peterson,59
 Nevada,MB80,State Assembly,1,REP,Brian Dahle,60
@@ -1765,12 +2623,24 @@ Nevada,MB81,Board of Equalization,1,DEM,Chris Parker,70
 Nevada,MB81,Board of Equalization,1,REP,George Runner,36
 Nevada,MB81,Controller,,REP,Ashley Swearengin,39
 Nevada,MB81,Controller,,DEM,Betty T. Yee,68
-Nevada,MB81,Governor,,DEM,Edmund G. Brown,72
+Nevada,MB81,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Nevada,MB81,Governor,,REP,Neel Kashkari,40
 Nevada,MB81,Insurance Commissioner,,DEM,Dave Jones,70
 Nevada,MB81,Insurance Commissioner,,REP,Ted Gaines,37
 Nevada,MB81,Lieutenant Governor,,DEM,Gavin Newsom,71
 Nevada,MB81,Lieutenant Governor,,REP,Ron Nehring,38
+Nevada,MB81,Proposition 1,,,No,55
+Nevada,MB81,Proposition 1,,,Yes,57
+Nevada,MB81,Proposition 2,,,No,40
+Nevada,MB81,Proposition 2,,,Yes,67
+Nevada,MB81,Proposition 45,,,No,63
+Nevada,MB81,Proposition 45,,,Yes,47
+Nevada,MB81,Proposition 46,,,No,78
+Nevada,MB81,Proposition 46,,,Yes,30
+Nevada,MB81,Proposition 47,,,No,34
+Nevada,MB81,Proposition 47,,,Yes,76
+Nevada,MB81,Proposition 48,,,No,71
+Nevada,MB81,Proposition 48,,,Yes,34
 Nevada,MB81,Secretary of State,,DEM,Alex Padilla,65
 Nevada,MB81,Secretary of State,,REP,Pete Peterson,39
 Nevada,MB81,State Assembly,1,REP,Brian Dahle,49
@@ -1782,68 +2652,25 @@ Nevada,MB81,Treasurer,,DEM,John Chiang,73
 Nevada,MB81,U.S. House,1,REP,Doug La Malfa,38
 Nevada,MB81,U.S. House,1,DEM,Heidi Hall,74
 Nevada,MB82,Attorney General,,DEM,Kamala D. Harris,2
-Nevada,MB82,Attorney General,,REP,Ronald Gold,0
 Nevada,MB82,Board of Equalization,1,DEM,Chris Parker,1
 Nevada,MB82,Board of Equalization,1,REP,George Runner,1
-Nevada,MB82,Controller,,REP,Ashley Swearengin,0
 Nevada,MB82,Controller,,DEM,Betty T. Yee,2
-Nevada,MB82,Governor,,DEM,Edmund G. Brown,2
-Nevada,MB82,Governor,,REP,Neel Kashkari,0
+Nevada,MB82,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
 Nevada,MB82,Insurance Commissioner,,DEM,Dave Jones,2
-Nevada,MB82,Insurance Commissioner,,REP,Ted Gaines,0
 Nevada,MB82,Lieutenant Governor,,DEM,Gavin Newsom,2
-Nevada,MB82,Lieutenant Governor,,REP,Ron Nehring,0
+Nevada,MB82,Proposition 1,,,No,1
+Nevada,MB82,Proposition 1,,,Yes,1
+Nevada,MB82,Proposition 2,,,No,1
+Nevada,MB82,Proposition 2,,,Yes,1
+Nevada,MB82,Proposition 45,,,No,2
+Nevada,MB82,Proposition 46,,,No,2
+Nevada,MB82,Proposition 47,,,No,2
+Nevada,MB82,Proposition 48,,,Yes,2
 Nevada,MB82,Secretary of State,,DEM,Alex Padilla,1
 Nevada,MB82,Secretary of State,,REP,Pete Peterson,1
 Nevada,MB82,State Assembly,1,REP,Brian Dahle,1
 Nevada,MB82,State Assembly,1,DEM,Brigham Sawyer Smith,1
 Nevada,MB82,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Nevada,MB82,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-Nevada,MB82,Treasurer,,REP,Greg Conlon,0
 Nevada,MB82,Treasurer,,DEM,John Chiang,2
-Nevada,MB82,U.S. House,1,REP,Doug La Malfa,0
 Nevada,MB82,U.S. House,1,DEM,Heidi Hall,2
-Nevada,MB83,Attorney General,,DEM,Kamala D. Harris,0
-Nevada,MB83,Attorney General,,REP,Ronald Gold,0
-Nevada,MB83,Board of Equalization,1,DEM,Chris Parker,0
-Nevada,MB83,Board of Equalization,1,REP,George Runner,0
-Nevada,MB83,Controller,,REP,Ashley Swearengin,0
-Nevada,MB83,Controller,,DEM,Betty T. Yee,0
-Nevada,MB83,Governor,,DEM,Edmund G. Brown,0
-Nevada,MB83,Governor,,REP,Neel Kashkari,0
-Nevada,MB83,Insurance Commissioner,,DEM,Dave Jones,0
-Nevada,MB83,Insurance Commissioner,,REP,Ted Gaines,0
-Nevada,MB83,Lieutenant Governor,,DEM,Gavin Newsom,0
-Nevada,MB83,Lieutenant Governor,,REP,Ron Nehring,0
-Nevada,MB83,Secretary of State,,DEM,Alex Padilla,0
-Nevada,MB83,Secretary of State,,REP,Pete Peterson,0
-Nevada,MB83,State Assembly,1,REP,Brian Dahle,0
-Nevada,MB83,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Nevada,MB83,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Nevada,MB83,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Nevada,MB83,Treasurer,,REP,Greg Conlon,0
-Nevada,MB83,Treasurer,,DEM,John Chiang,0
-Nevada,MB83,U.S. House,1,REP,Doug La Malfa,0
-Nevada,MB83,U.S. House,1,DEM,Heidi Hall,0
-Nevada,MB84,Attorney General,,DEM,Kamala D. Harris,0
-Nevada,MB84,Attorney General,,REP,Ronald Gold,0
-Nevada,MB84,Board of Equalization,1,DEM,Chris Parker,0
-Nevada,MB84,Board of Equalization,1,REP,George Runner,0
-Nevada,MB84,Controller,,REP,Ashley Swearengin,0
-Nevada,MB84,Controller,,DEM,Betty T. Yee,0
-Nevada,MB84,Governor,,DEM,Edmund G. Brown,0
-Nevada,MB84,Governor,,REP,Neel Kashkari,0
-Nevada,MB84,Insurance Commissioner,,DEM,Dave Jones,0
-Nevada,MB84,Insurance Commissioner,,REP,Ted Gaines,0
-Nevada,MB84,Lieutenant Governor,,DEM,Gavin Newsom,0
-Nevada,MB84,Lieutenant Governor,,REP,Ron Nehring,0
-Nevada,MB84,Secretary of State,,DEM,Alex Padilla,0
-Nevada,MB84,Secretary of State,,REP,Pete Peterson,0
-Nevada,MB84,State Assembly,1,REP,Brian Dahle,0
-Nevada,MB84,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Nevada,MB84,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Nevada,MB84,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Nevada,MB84,Treasurer,,REP,Greg Conlon,0
-Nevada,MB84,Treasurer,,DEM,John Chiang,0
-Nevada,MB84,U.S. House,1,REP,Doug La Malfa,0
-Nevada,MB84,U.S. House,1,DEM,Heidi Hall,0
