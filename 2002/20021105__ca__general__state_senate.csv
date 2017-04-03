@@ -1,141 +1,141 @@
 county,office,district,party,candidate,votes
-Humboldt,State Senate,2,DEM,Wesley Chesbro,26321
-Humboldt,State Senate,2,REP,Peggy Redfearn,14255
-Humboldt,State Senate,2,LIB,Laura Jean Likover,1769
-Lake,State Senate,2,DEM,Wesley Chesbro,8786
-Lake,State Senate,2,REP,Peggy Redfearn,6193
-Lake,State Senate,2,LIB,Laura Jean Likover,597
-Mendocino,State Senate,2,DEM,Wesley Chesbro,15014
-Mendocino,State Senate,2,REP,Peggy Redfearn,7817
-Mendocino,State Senate,2,LIB,Laura Jean Likover,1352
-Napa,State Senate,2,DEM,Wesley Chesbro,21589
-Napa,State Senate,2,REP,Peggy Redfearn,12608
-Napa,State Senate,2,LIB,Laura Jean Likover,1154
-Solano,State Senate,2,DEM,Wesley Chesbro,24530
-Solano,State Senate,2,REP,Peggy Redfearn,11653
-Solano,State Senate,2,LIB,Laura Jean Likover,1277
-Sonoma,State Senate,2,DEM,Wesley Chesbro,60515
-Sonoma,State Senate,2,REP,Peggy Redfearn,27553
-Sonoma,State Senate,2,LIB,Laura Jean Likover,4061
-Butte,State Senate,4,DEM,Marianne Smith,23355
-Butte,State Senate,4,REP,Samuel Aanestad,34168
-Butte,State Senate,4,LIB,Robert H. Underwood,2934
-Colusa,State Senate,4,DEM,Marianne Smith,1318
-Colusa,State Senate,4,REP,Samuel Aanestad,2674
-Colusa,State Senate,4,LIB,Robert H. Underwood,229
-Del Norte,State Senate,4,DEM,Marianne Smith,2851
-Del Norte,State Senate,4,REP,Samuel Aanestad,3148
-Del Norte,State Senate,4,LIB,Robert H. Underwood,893
-Glenn,State Senate,4,DEM,Marianne Smith,1886
-Glenn,State Senate,4,REP,Samuel Aanestad,4010
-Glenn,State Senate,4,LIB,Robert H. Underwood,301
-Nevada,State Senate,4,DEM,Marianne Smith,12099
-Nevada,State Senate,4,REP,Samuel Aanestad,18899
-Nevada,State Senate,4,LIB,Robert H. Underwood,1371
-Placer,State Senate,4,DEM,Marianne Smith,10623
-Placer,State Senate,4,REP,Samuel Aanestad,21086
-Placer,State Senate,4,LIB,Robert H. Underwood,1619
-Shasta,State Senate,4,DEM,Marianne Smith,18183
-Shasta,State Senate,4,REP,Samuel Aanestad,26470
-Shasta,State Senate,4,LIB,Robert H. Underwood,2589
-Siskiyou,State Senate,4,DEM,Marianne Smith,5420
-Siskiyou,State Senate,4,REP,Samuel Aanestad,8212
-Siskiyou,State Senate,4,LIB,Robert H. Underwood,1599
-Sutter,State Senate,4,DEM,Marianne Smith,6083
-Sutter,State Senate,4,REP,Samuel Aanestad,11786
-Sutter,State Senate,4,LIB,Robert H. Underwood,805
-Tehama,State Senate,4,DEM,Marianne Smith,5339
-Tehama,State Senate,4,REP,Samuel Aanestad,8496
-Tehama,State Senate,4,LIB,Robert H. Underwood,873
-Trinity,State Senate,4,DEM,Marianne Smith,1991
-Trinity,State Senate,4,REP,Samuel Aanestad,2235
-Trinity,State Senate,4,LIB,Robert H. Underwood,531
-Yuba,State Senate,4,DEM,Marianne Smith,3638
-Yuba,State Senate,4,REP,Samuel Aanestad,6839
-Yuba,State Senate,4,LIB,Robert H. Underwood,581
-Sacramento,State Senate,6,DEM,Deborah Ortiz,122126
-Sacramento,State Senate,6,LIB,Jason A. Sewell,44972
-Sacramento,State Senate,6,(W/I),Yolanda Knaak,5635
-San Francisco,State Senate,8,DEM,Jackie Speier,69557
-San Francisco,State Senate,8,REP,Dennis Zell,13280
-San Francisco,State Senate,8,LIB,Robert Fliegler,2437
-San Mateo,State Senate,8,DEM,Jackie Speier,89442
-San Mateo,State Senate,8,REP,Dennis Zell,25601
-San Mateo,State Senate,8,LIB,Robert Fliegler,3103
-Alameda,State Senate,10,DEM,Liz Figueroa,87899
-Alameda,State Senate,10,REP,James G. Gunther,38603
 Alameda,State Senate,10,LIB,Ervan Darnell,3987
-Santa Clara,State Senate,10,DEM,Liz Figueroa,15348
-Santa Clara,State Senate,10,REP,James G. Gunther,7453
-Santa Clara,State Senate,10,LIB,Ervan Darnell,1010
-Madera,State Senate,12,DEM,Rusty Areias,3985
-Madera,State Senate,12,REP,Jeff Denham,4911
-Madera,State Senate,12,LIB,David Eaton,403
-Merced,State Senate,12,DEM,Rusty Areias,17644
-Merced,State Senate,12,REP,Jeff Denham,21239
-Merced,State Senate,12,LIB,David Eaton,1632
-Monterey,State Senate,12,DEM,Rusty Areias,19317
-Monterey,State Senate,12,REP,Jeff Denham,11520
-Monterey,State Senate,12,LIB,David Eaton,1376
-San Benito,State Senate,12,DEM,Rusty Areias,6145
-San Benito,State Senate,12,REP,Jeff Denham,5086
-San Benito,State Senate,12,LIB,David Eaton,629
-Stanislaus,State Senate,12,DEM,Rusty Areias,24943
-Stanislaus,State Senate,12,REP,Jeff Denham,31121
-Stanislaus,State Senate,12,LIB,David Eaton,2910
+Alameda,State Senate,10,REP,James G. Gunther,38603
+Alameda,State Senate,10,DEM,Liz Figueroa,87899
+Butte,State Senate,4,DEM,Marianne Smith,23355
+Butte,State Senate,4,LIB,Robert H. Underwood,2934
+Butte,State Senate,4,REP,Samuel Aanestad,34168
+Colusa,State Senate,4,DEM,Marianne Smith,1318
+Colusa,State Senate,4,LIB,Robert H. Underwood,229
+Colusa,State Senate,4,REP,Samuel Aanestad,2674
+Del Norte,State Senate,4,DEM,Marianne Smith,2851
+Del Norte,State Senate,4,LIB,Robert H. Underwood,893
+Del Norte,State Senate,4,REP,Samuel Aanestad,3148
 Fresno,State Senate,14,REP,Chuck Poochigian,90431
-Madera,State Senate,14,REP,Chuck Poochigian,12892
-Mariposa,State Senate,14,REP,Chuck Poochigian,4673
-San Joaquin,State Senate,14,REP,Chuck Poochigian,31318
-Stanislaus,State Senate,14,REP,Chuck Poochigian,23726
-Tuolumne,State Senate,14,REP,Chuck Poochigian,12329
-Fresno,State Senate,16,DEM,Dean Florez,29508
 Fresno,State Senate,16,REP,Blair Knox,12305
-Kern,State Senate,16,DEM,Dean Florez,20507
-Kern,State Senate,16,REP,Blair Knox,4446
-Kings,State Senate,16,DEM,Dean Florez,12823
-Kings,State Senate,16,REP,Blair Knox,8431
-Tulare,State Senate,16,DEM,Dean Florez,6665
-Tulare,State Senate,16,REP,Blair Knox,4565
+Fresno,State Senate,16,DEM,Dean Florez,29508
+Glenn,State Senate,4,DEM,Marianne Smith,1886
+Glenn,State Senate,4,LIB,Robert H. Underwood,301
+Glenn,State Senate,4,REP,Samuel Aanestad,4010
+Humboldt,State Senate,2,LIB,Laura Jean Likover,1769
+Humboldt,State Senate,2,REP,Peggy Redfearn,14255
+Humboldt,State Senate,2,DEM,Wesley Chesbro,26321
+Imperial,State Senate,40,DEM,Denise Moreno Ducheny,10626
+Imperial,State Senate,40,LIB,Felix Jeremiah Miranda,700
+Imperial,State Senate,40,REP,Michael S. Giorgino,8985
 Inyo,State Senate,18,REP,Roy Ashburn,4301
+Kern,State Senate,16,REP,Blair Knox,4446
+Kern,State Senate,16,DEM,Dean Florez,20507
 Kern,State Senate,18,REP,Roy Ashburn,94535
-San Bernardino,State Senate,18,REP,Roy Ashburn,15492
-Tulare,State Senate,18,REP,Roy Ashburn,39550
+Kings,State Senate,16,REP,Blair Knox,8431
+Kings,State Senate,16,DEM,Dean Florez,12823
+Lake,State Senate,2,LIB,Laura Jean Likover,597
+Lake,State Senate,2,REP,Peggy Redfearn,6193
+Lake,State Senate,2,DEM,Wesley Chesbro,8786
 Los Angeles,State Senate,20,DEM,Richard Alarcon,88902
 Los Angeles,State Senate,22,DEM,Gilbert A. Cedillo,68282
+Los Angeles,State Senate,24,LIB,"Carl M. ""Marty"" Swinney",2741
 Los Angeles,State Senate,24,DEM,Gloria Romero,79227
 Los Angeles,State Senate,24,REP,Vince House,29124
-Los Angeles,State Senate,24,LIB,"Carl M. ""Marty"" Swinney",2741
 Los Angeles,State Senate,26,DEM,Kevin Murray,123814
 Los Angeles,State Senate,28,DEM,Debra Bowen,114145
 Los Angeles,State Senate,28,REP,Jo Ann Hill,64627
 Los Angeles,State Senate,28,LIB,Peter D. De Baets,6041
-Los Angeles,State Senate,30,DEM,Martha M. Escutia,80562
 Los Angeles,State Senate,30,REP,John O. Robertson,39498
-Los Angeles,State Senate,32,DEM,Nell Soto,11699
+Los Angeles,State Senate,30,DEM,Martha M. Escutia,80562
 Los Angeles,State Senate,32,REP,Ken Robertson,4737
-San Bernardino,State Senate,32,DEM,Nell Soto,49062
-San Bernardino,State Senate,32,REP,Ken Robertson,24364
-Orange,State Senate,34,DEM,Joe Dunn,63485
+Los Angeles,State Senate,32,DEM,Nell Soto,11699
+Madera,State Senate,12,LIB,David Eaton,403
+Madera,State Senate,12,REP,Jeff Denham,4911
+Madera,State Senate,12,DEM,Rusty Areias,3985
+Madera,State Senate,14,REP,Chuck Poochigian,12892
+Mariposa,State Senate,14,REP,Chuck Poochigian,4673
+Mendocino,State Senate,2,LIB,Laura Jean Likover,1352
+Mendocino,State Senate,2,REP,Peggy Redfearn,7817
+Mendocino,State Senate,2,DEM,Wesley Chesbro,15014
+Merced,State Senate,12,LIB,David Eaton,1632
+Merced,State Senate,12,REP,Jeff Denham,21239
+Merced,State Senate,12,DEM,Rusty Areias,17644
+Monterey,State Senate,12,LIB,David Eaton,1376
+Monterey,State Senate,12,REP,Jeff Denham,11520
+Monterey,State Senate,12,DEM,Rusty Areias,19317
+Napa,State Senate,2,LIB,Laura Jean Likover,1154
+Napa,State Senate,2,REP,Peggy Redfearn,12608
+Napa,State Senate,2,DEM,Wesley Chesbro,21589
+Nevada,State Senate,4,DEM,Marianne Smith,12099
+Nevada,State Senate,4,LIB,Robert H. Underwood,1371
+Nevada,State Senate,4,REP,Samuel Aanestad,18899
 Orange,State Senate,34,REP,Araceli Gonzalez,39025
+Orange,State Senate,34,DEM,Joe Dunn,63485
+Orange,State Senate,38,REP,Bill Morrow,18089
+Orange,State Senate,38,LIB,Lars R. Grossmith,742
+Orange,State Senate,38,DEM,Philip G. Hanneman,6160
+Placer,State Senate,4,DEM,Marianne Smith,10623
+Placer,State Senate,4,LIB,Robert H. Underwood,1619
+Placer,State Senate,4,REP,Samuel Aanestad,21086
 Riverside,State Senate,36,DEM,Adrienne Westall,8685
 Riverside,State Senate,36,REP,Dennis Hollingsworth,29653
 Riverside,State Senate,36,LIB,Michael S. Metti,1932
+Riverside,State Senate,40,DEM,Denise Moreno Ducheny,12297
+Riverside,State Senate,40,LIB,Felix Jeremiah Miranda,727
+Riverside,State Senate,40,REP,Michael S. Giorgino,8348
+Sacramento,State Senate,6,DEM,Deborah Ortiz,122126
+Sacramento,State Senate,6,LIB,Jason A. Sewell,44972
+Sacramento,State Senate,6,(W/I),Yolanda Knaak,5635
+San Benito,State Senate,12,LIB,David Eaton,629
+San Benito,State Senate,12,REP,Jeff Denham,5086
+San Benito,State Senate,12,DEM,Rusty Areias,6145
+San Bernardino,State Senate,18,REP,Roy Ashburn,15492
+San Bernardino,State Senate,32,REP,Ken Robertson,24364
+San Bernardino,State Senate,32,DEM,Nell Soto,49062
 San Diego,State Senate,36,DEM,Adrienne Westall,44595
 San Diego,State Senate,36,REP,Dennis Hollingsworth,122203
 San Diego,State Senate,36,LIB,Michael S. Metti,11326
-Orange,State Senate,38,DEM,Philip G. Hanneman,6160
-Orange,State Senate,38,REP,Bill Morrow,18089
-Orange,State Senate,38,LIB,Lars R. Grossmith,742
-San Diego,State Senate,38,DEM,Philip G. Hanneman,54022
 San Diego,State Senate,38,REP,Bill Morrow,114488
 San Diego,State Senate,38,LIB,Lars R. Grossmith,7077
-Imperial,State Senate,40,DEM,Denise Moreno Ducheny,10626
-Imperial,State Senate,40,REP,Michael S. Giorgino,8985
-Imperial,State Senate,40,LIB,Felix Jeremiah Miranda,700
-Riverside,State Senate,40,DEM,Denise Moreno Ducheny,12297
-Riverside,State Senate,40,REP,Michael S. Giorgino,8348
-Riverside,State Senate,40,LIB,Felix Jeremiah Miranda,727
+San Diego,State Senate,38,DEM,Philip G. Hanneman,54022
 San Diego,State Senate,40,DEM,Denise Moreno Ducheny,43482
-San Diego,State Senate,40,REP,Michael S. Giorgino,29754
 San Diego,State Senate,40,LIB,Felix Jeremiah Miranda,2935
+San Diego,State Senate,40,REP,Michael S. Giorgino,29754
+San Francisco,State Senate,8,REP,Dennis Zell,13280
+San Francisco,State Senate,8,DEM,Jackie Speier,69557
+San Francisco,State Senate,8,LIB,Robert Fliegler,2437
+San Joaquin,State Senate,14,REP,Chuck Poochigian,31318
+San Mateo,State Senate,8,REP,Dennis Zell,25601
+San Mateo,State Senate,8,DEM,Jackie Speier,89442
+San Mateo,State Senate,8,LIB,Robert Fliegler,3103
+Santa Clara,State Senate,10,LIB,Ervan Darnell,1010
+Santa Clara,State Senate,10,REP,James G. Gunther,7453
+Santa Clara,State Senate,10,DEM,Liz Figueroa,15348
+Shasta,State Senate,4,DEM,Marianne Smith,18183
+Shasta,State Senate,4,LIB,Robert H. Underwood,2589
+Shasta,State Senate,4,REP,Samuel Aanestad,26470
+Siskiyou,State Senate,4,DEM,Marianne Smith,5420
+Siskiyou,State Senate,4,LIB,Robert H. Underwood,1599
+Siskiyou,State Senate,4,REP,Samuel Aanestad,8212
+Solano,State Senate,2,LIB,Laura Jean Likover,1277
+Solano,State Senate,2,REP,Peggy Redfearn,11653
+Solano,State Senate,2,DEM,Wesley Chesbro,24530
+Sonoma,State Senate,2,LIB,Laura Jean Likover,4061
+Sonoma,State Senate,2,REP,Peggy Redfearn,27553
+Sonoma,State Senate,2,DEM,Wesley Chesbro,60515
+Stanislaus,State Senate,12,LIB,David Eaton,2910
+Stanislaus,State Senate,12,REP,Jeff Denham,31121
+Stanislaus,State Senate,12,DEM,Rusty Areias,24943
+Stanislaus,State Senate,14,REP,Chuck Poochigian,23726
+Sutter,State Senate,4,DEM,Marianne Smith,6083
+Sutter,State Senate,4,LIB,Robert H. Underwood,805
+Sutter,State Senate,4,REP,Samuel Aanestad,11786
+Tehama,State Senate,4,DEM,Marianne Smith,5339
+Tehama,State Senate,4,LIB,Robert H. Underwood,873
+Tehama,State Senate,4,REP,Samuel Aanestad,8496
+Trinity,State Senate,4,DEM,Marianne Smith,1991
+Trinity,State Senate,4,LIB,Robert H. Underwood,531
+Trinity,State Senate,4,REP,Samuel Aanestad,2235
+Tulare,State Senate,16,REP,Blair Knox,4565
+Tulare,State Senate,16,DEM,Dean Florez,6665
+Tulare,State Senate,18,REP,Roy Ashburn,39550
+Tuolumne,State Senate,14,REP,Chuck Poochigian,12329
+Yuba,State Senate,4,DEM,Marianne Smith,3638
+Yuba,State Senate,4,LIB,Robert H. Underwood,581
+Yuba,State Senate,4,REP,Samuel Aanestad,6839

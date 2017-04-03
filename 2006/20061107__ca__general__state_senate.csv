@@ -1,104 +1,40 @@
 county,office,district,party,candidate,votes
-Humboldt,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",28189
-Humboldt,State Senate,2,REP,Lawrence R. Wiesner,17800
-Lake,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",10409
-Lake,State Senate,2,REP,Lawrence R. Wiesner,8097
-Mendocino,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",19368
-Mendocino,State Senate,2,REP,Lawrence R. Wiesner,9753
-Napa,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",25180
-Napa,State Senate,2,REP,Lawrence R. Wiesner,15006
-Solano,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",29752
-Solano,State Senate,2,REP,Lawrence R. Wiesner,14585
-Sonoma,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",74137
-Sonoma,State Senate,2,REP,Lawrence R. Wiesner,32370
-Butte,State Senate,4,DEM,Paul Singh,24028
-Butte,State Senate,4,REP,Sam Aanestad,37996
-Butte,State Senate,4,GRN,Robert Vizzard,2583
-Butte,State Senate,4,LIB,Tony Munroe,2034
-Colusa,State Senate,4,DEM,Paul Singh,1409
-Colusa,State Senate,4,REP,Sam Aanestad,3164
-Colusa,State Senate,4,GRN,Robert Vizzard,69
-Colusa,State Senate,4,LIB,Tony Munroe,134
-Del Norte,State Senate,4,DEM,Paul Singh,2673
-Del Norte,State Senate,4,REP,Sam Aanestad,3448
-Del Norte,State Senate,4,GRN,Robert Vizzard,214
-Del Norte,State Senate,4,LIB,Tony Munroe,223
-Glenn,State Senate,4,DEM,Paul Singh,2095
-Glenn,State Senate,4,REP,Sam Aanestad,4873
-Glenn,State Senate,4,GRN,Robert Vizzard,137
-Glenn,State Senate,4,LIB,Tony Munroe,194
-Nevada,State Senate,4,DEM,Paul Singh,12756
-Nevada,State Senate,4,REP,Sam Aanestad,20156
-Nevada,State Senate,4,GRN,Robert Vizzard,1194
-Nevada,State Senate,4,LIB,Tony Munroe,861
-Placer,State Senate,4,DEM,Paul Singh,14506
-Placer,State Senate,4,REP,Sam Aanestad,29122
-Placer,State Senate,4,GRN,Robert Vizzard,1122
-Placer,State Senate,4,LIB,Tony Munroe,1277
-Shasta,State Senate,4,DEM,Paul Singh,17155
-Shasta,State Senate,4,REP,Sam Aanestad,37048
-Shasta,State Senate,4,GRN,Robert Vizzard,1272
-Shasta,State Senate,4,LIB,Tony Munroe,1762
-Siskiyou,State Senate,4,DEM,Paul Singh,5908
-Siskiyou,State Senate,4,REP,Sam Aanestad,9338
-Siskiyou,State Senate,4,GRN,Robert Vizzard,389
-Siskiyou,State Senate,4,LIB,Tony Munroe,571
-Sutter,State Senate,4,DEM,Paul Singh,7046
-Sutter,State Senate,4,REP,Sam Aanestad,14879
-Sutter,State Senate,4,GRN,Robert Vizzard,536
-Sutter,State Senate,4,LIB,Tony Munroe,716
-Tehama,State Senate,4,DEM,Paul Singh,5554
-Tehama,State Senate,4,REP,Sam Aanestad,11122
-Tehama,State Senate,4,GRN,Robert Vizzard,365
-Tehama,State Senate,4,LIB,Tony Munroe,636
-Trinity,State Senate,4,DEM,Paul Singh,2139
-Trinity,State Senate,4,REP,Sam Aanestad,2875
-Trinity,State Senate,4,GRN,Robert Vizzard,268
-Trinity,State Senate,4,LIB,Tony Munroe,301
-Yuba,State Senate,4,DEM,Paul Singh,4024
-Yuba,State Senate,4,REP,Sam Aanestad,8473
-Yuba,State Senate,4,GRN,Robert Vizzard,371
-Yuba,State Senate,4,LIB,Tony Munroe,591
-Sacramento,State Senate,6,DEM,Darrell Steinberg,115628
-Sacramento,State Senate,6,REP,"Paul R. Green, Jr.",71051
-Sacramento,State Senate,6,LIB,Alana N. Garberoglio,4774
-Sacramento,State Senate,6,PF,C.T. Weber,5573
-San Francisco,State Senate,8,DEM,Leland Y. Yee,81200
-San Francisco,State Senate,8,REP,Michael Skipakevich,14435
-San Mateo,State Senate,8,DEM,Leland Y. Yee,98356
-San Mateo,State Senate,8,REP,Michael Skipakevich,36235
 Alameda,State Senate,10,DEM,Ellen Corbett,116865
 Alameda,State Senate,10,REP,Lou Filipovich,41510
-Santa Clara,State Senate,10,DEM,Ellen Corbett,19981
-Santa Clara,State Senate,10,REP,Lou Filipovich,8128
-Fresno,State Senate,14,DEM,Wesley W. Firch,40438
+Butte,State Senate,4,DEM,Paul Singh,24028
+Butte,State Senate,4,GRN,Robert Vizzard,2583
+Butte,State Senate,4,REP,Sam Aanestad,37996
+Butte,State Senate,4,LIB,Tony Munroe,2034
+Colusa,State Senate,4,DEM,Paul Singh,1409
+Colusa,State Senate,4,GRN,Robert Vizzard,69
+Colusa,State Senate,4,REP,Sam Aanestad,3164
+Colusa,State Senate,4,LIB,Tony Munroe,134
+Del Norte,State Senate,4,DEM,Paul Singh,2673
+Del Norte,State Senate,4,GRN,Robert Vizzard,214
+Del Norte,State Senate,4,REP,Sam Aanestad,3448
+Del Norte,State Senate,4,LIB,Tony Munroe,223
 Fresno,State Senate,14,REP,Dave Cogdill,80741
-Madera,State Senate,14,DEM,Wesley W. Firch,5386
-Madera,State Senate,14,REP,Dave Cogdill,13893
-Mariposa,State Senate,14,DEM,Wesley W. Firch,2481
-Mariposa,State Senate,14,REP,Dave Cogdill,4749
-San Joaquin,State Senate,14,DEM,Wesley W. Firch,14027
-San Joaquin,State Senate,14,REP,Dave Cogdill,28942
-Stanislaus,State Senate,14,DEM,Wesley W. Firch,13117
-Stanislaus,State Senate,14,REP,Dave Cogdill,26601
-Tuolumne,State Senate,14,DEM,Wesley W. Firch,7230
-Tuolumne,State Senate,14,REP,Dave Cogdill,12878
+Fresno,State Senate,14,DEM,Wesley W. Firch,40438
 Fresno,State Senate,16,DEM,Dean Florez,35383
-Kern,State Senate,16,DEM,Dean Florez,19452
-Kings,State Senate,16,DEM,Dean Florez,15500
-Tulare,State Senate,16,DEM,Dean Florez,7811
+Glenn,State Senate,4,DEM,Paul Singh,2095
+Glenn,State Senate,4,GRN,Robert Vizzard,137
+Glenn,State Senate,4,REP,Sam Aanestad,4873
+Glenn,State Senate,4,LIB,Tony Munroe,194
+Humboldt,State Senate,2,REP,Lawrence R. Wiesner,17800
+Humboldt,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",28189
+Imperial,State Senate,40,REP,David K. Walden,6626
+Imperial,State Senate,40,DEM,Denise Moreno Ducheny,13860
+Imperial,State Senate,40,LIB,Jesse Thomas,688
 Inyo,State Senate,18,DEM,Fred B. Davis,2209
-Inyo,State Senate,18,REP,Roy Ashburn,3670
 Inyo,State Senate,18,GRN,Matthew Rick,296
+Inyo,State Senate,18,REP,Roy Ashburn,3670
+Kern,State Senate,16,DEM,Dean Florez,19452
 Kern,State Senate,18,DEM,Fred B. Davis,30577
-Kern,State Senate,18,REP,Roy Ashburn,90868
 Kern,State Senate,18,GRN,Matthew Rick,2458
-San Bernardino,State Senate,18,DEM,Fred B. Davis,9972
-San Bernardino,State Senate,18,REP,Roy Ashburn,14417
-San Bernardino,State Senate,18,GRN,Matthew Rick,967
-Tulare,State Senate,18,DEM,Fred B. Davis,16429
-Tulare,State Senate,18,REP,Roy Ashburn,38812
-Tulare,State Senate,18,GRN,Matthew Rick,1202
+Kern,State Senate,18,REP,Roy Ashburn,90868
+Kings,State Senate,16,DEM,Dean Florez,15500
+Lake,State Senate,2,REP,Lawrence R. Wiesner,8097
+Lake,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",10409
 Los Angeles,State Senate,20,DEM,Alex Padilla,84459
 Los Angeles,State Senate,20,LIB,Pamela J. Brown,28377
 Los Angeles,State Senate,22,DEM,Gilbert Cedillo,71199
@@ -106,34 +42,98 @@ Los Angeles,State Senate,22,REP,Mike Ten,18581
 Los Angeles,State Senate,22,LIB,Murray Levy,3469
 Los Angeles,State Senate,24,DEM,Gloria Romero,92498
 Los Angeles,State Senate,24,REP,Robert Carver,32388
-Los Angeles,State Senate,26,DEM,Mark Ridley-Thomas,133309
 Los Angeles,State Senate,26,LIB,Bud Raymond,16317
-Los Angeles,State Senate,28,DEM,Jenny Oropeza,129151
+Los Angeles,State Senate,26,DEM,Mark Ridley-Thomas,133309
 Los Angeles,State Senate,28,REP,Cherryl Liddle,72570
+Los Angeles,State Senate,28,DEM,Jenny Oropeza,129151
 Los Angeles,State Senate,28,LIB,"Peter ""Pedro"" De Baets",7485
 Los Angeles,State Senate,30,DEM,Ron Calderon,93436
 Los Angeles,State Senate,30,REP,Selma H. Minerd,38340
 Los Angeles,State Senate,32,DEM,Gloria Negrete McLeod,15292
-San Bernardino,State Senate,32,DEM,Gloria Negrete McLeod,70009
+Madera,State Senate,14,REP,Dave Cogdill,13893
+Madera,State Senate,14,DEM,Wesley W. Firch,5386
+Mariposa,State Senate,14,REP,Dave Cogdill,4749
+Mariposa,State Senate,14,DEM,Wesley W. Firch,2481
+Mendocino,State Senate,2,REP,Lawrence R. Wiesner,9753
+Mendocino,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",19368
+Napa,State Senate,2,REP,Lawrence R. Wiesner,15006
+Napa,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",25180
+Nevada,State Senate,4,DEM,Paul Singh,12756
+Nevada,State Senate,4,GRN,Robert Vizzard,1194
+Nevada,State Senate,4,REP,Sam Aanestad,20156
+Nevada,State Senate,4,LIB,Tony Munroe,861
 Orange,State Senate,34,DEM,Lou Correa,56534
 Orange,State Senate,34,REP,Lynn Daucher,55142
 Orange,State Senate,34,IND (W/I),Otto Bade,911
-Riverside,State Senate,36,DEM,Mark Hanson,16631
+Orange,State Senate,38,LIB,Brian A. Klea,6122
+Orange,State Senate,38,REP,Mark Wyland,19549
+Placer,State Senate,4,DEM,Paul Singh,14506
+Placer,State Senate,4,GRN,Robert Vizzard,1122
+Placer,State Senate,4,REP,Sam Aanestad,29122
+Placer,State Senate,4,LIB,Tony Munroe,1277
 Riverside,State Senate,36,REP,Dennis Hollingsworth,38211
 Riverside,State Senate,36,LIB,Joe Shea,1856
-San Diego,State Senate,36,DEM,Mark Hanson,69075
+Riverside,State Senate,36,DEM,Mark Hanson,16631
+Riverside,State Senate,40,REP,David K. Walden,10240
+Riverside,State Senate,40,DEM,Denise Moreno Ducheny,16253
+Riverside,State Senate,40,LIB,Jesse Thomas,705
+Sacramento,State Senate,6,LIB,Alana N. Garberoglio,4774
+Sacramento,State Senate,6,PF,C.T. Weber,5573
+Sacramento,State Senate,6,DEM,Darrell Steinberg,115628
+Sacramento,State Senate,6,REP,"Paul R. Green, Jr.",71051
+San Bernardino,State Senate,18,DEM,Fred B. Davis,9972
+San Bernardino,State Senate,18,GRN,Matthew Rick,967
+San Bernardino,State Senate,18,REP,Roy Ashburn,14417
+San Bernardino,State Senate,32,DEM,Gloria Negrete McLeod,70009
 San Diego,State Senate,36,REP,Dennis Hollingsworth,125814
 San Diego,State Senate,36,LIB,Joe Shea,7145
-Orange,State Senate,38,REP,Mark Wyland,19549
-Orange,State Senate,38,LIB,Brian A. Klea,6122
-San Diego,State Senate,38,REP,Mark Wyland,142497
+San Diego,State Senate,36,DEM,Mark Hanson,69075
 San Diego,State Senate,38,LIB,Brian A. Klea,49842
-Imperial,State Senate,40,DEM,Denise Moreno Ducheny,13860
-Imperial,State Senate,40,REP,David K. Walden,6626
-Imperial,State Senate,40,LIB,Jesse Thomas,688
-Riverside,State Senate,40,DEM,Denise Moreno Ducheny,16253
-Riverside,State Senate,40,REP,David K. Walden,10240
-Riverside,State Senate,40,LIB,Jesse Thomas,705
-San Diego,State Senate,40,DEM,Denise Moreno Ducheny,54674
+San Diego,State Senate,38,REP,Mark Wyland,142497
 San Diego,State Senate,40,REP,David K. Walden,30735
+San Diego,State Senate,40,DEM,Denise Moreno Ducheny,54674
 San Diego,State Senate,40,LIB,Jesse Thomas,2589
+San Francisco,State Senate,8,DEM,Leland Y. Yee,81200
+San Francisco,State Senate,8,REP,Michael Skipakevich,14435
+San Joaquin,State Senate,14,REP,Dave Cogdill,28942
+San Joaquin,State Senate,14,DEM,Wesley W. Firch,14027
+San Mateo,State Senate,8,DEM,Leland Y. Yee,98356
+San Mateo,State Senate,8,REP,Michael Skipakevich,36235
+Santa Clara,State Senate,10,DEM,Ellen Corbett,19981
+Santa Clara,State Senate,10,REP,Lou Filipovich,8128
+Shasta,State Senate,4,DEM,Paul Singh,17155
+Shasta,State Senate,4,GRN,Robert Vizzard,1272
+Shasta,State Senate,4,REP,Sam Aanestad,37048
+Shasta,State Senate,4,LIB,Tony Munroe,1762
+Siskiyou,State Senate,4,DEM,Paul Singh,5908
+Siskiyou,State Senate,4,GRN,Robert Vizzard,389
+Siskiyou,State Senate,4,REP,Sam Aanestad,9338
+Siskiyou,State Senate,4,LIB,Tony Munroe,571
+Solano,State Senate,2,REP,Lawrence R. Wiesner,14585
+Solano,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",29752
+Sonoma,State Senate,2,REP,Lawrence R. Wiesner,32370
+Sonoma,State Senate,2,DEM,"Patricia ""Pat"" Wiggins",74137
+Stanislaus,State Senate,14,REP,Dave Cogdill,26601
+Stanislaus,State Senate,14,DEM,Wesley W. Firch,13117
+Sutter,State Senate,4,DEM,Paul Singh,7046
+Sutter,State Senate,4,GRN,Robert Vizzard,536
+Sutter,State Senate,4,REP,Sam Aanestad,14879
+Sutter,State Senate,4,LIB,Tony Munroe,716
+Tehama,State Senate,4,DEM,Paul Singh,5554
+Tehama,State Senate,4,GRN,Robert Vizzard,365
+Tehama,State Senate,4,REP,Sam Aanestad,11122
+Tehama,State Senate,4,LIB,Tony Munroe,636
+Trinity,State Senate,4,DEM,Paul Singh,2139
+Trinity,State Senate,4,GRN,Robert Vizzard,268
+Trinity,State Senate,4,REP,Sam Aanestad,2875
+Trinity,State Senate,4,LIB,Tony Munroe,301
+Tulare,State Senate,16,DEM,Dean Florez,7811
+Tulare,State Senate,18,DEM,Fred B. Davis,16429
+Tulare,State Senate,18,GRN,Matthew Rick,1202
+Tulare,State Senate,18,REP,Roy Ashburn,38812
+Tuolumne,State Senate,14,REP,Dave Cogdill,12878
+Tuolumne,State Senate,14,DEM,Wesley W. Firch,7230
+Yuba,State Senate,4,DEM,Paul Singh,4024
+Yuba,State Senate,4,GRN,Robert Vizzard,371
+Yuba,State Senate,4,REP,Sam Aanestad,8473
+Yuba,State Senate,4,LIB,Tony Munroe,591

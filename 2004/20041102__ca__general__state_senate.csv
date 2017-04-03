@@ -1,148 +1,148 @@
 county,office,district,party,candidate,votes
-Alpine,State Senate,1,DEM,Kristine Lang McDonald,332
-Alpine,State Senate,1,REP,Dave Cox,309
-Alpine,State Senate,1,LIB,Roberto Leibman,27
-Amador,State Senate,1,DEM,Kristine Lang McDonald,5804
-Amador,State Senate,1,REP,Dave Cox,10511
-Amador,State Senate,1,LIB,Roberto Leibman,652
-Calaveras,State Senate,1,DEM,Kristine Lang McDonald,7351
-Calaveras,State Senate,1,REP,Dave Cox,12992
-Calaveras,State Senate,1,LIB,Roberto Leibman,970
-El Dorado,State Senate,1,DEM,Kristine Lang McDonald,27578
-El Dorado,State Senate,1,REP,Dave Cox,50428
-El Dorado,State Senate,1,LIB,Roberto Leibman,2843
-Lassen,State Senate,1,DEM,Kristine Lang McDonald,2992
-Lassen,State Senate,1,REP,Dave Cox,7548
-Lassen,State Senate,1,LIB,Roberto Leibman,345
-Modoc,State Senate,1,DEM,Kristine Lang McDonald,1100
-Modoc,State Senate,1,REP,Dave Cox,3000
-Modoc,State Senate,1,LIB,Roberto Leibman,147
-Mono,State Senate,1,DEM,Kristine Lang McDonald,2057
-Mono,State Senate,1,REP,Dave Cox,2722
-Mono,State Senate,1,LIB,Roberto Leibman,201
-Nevada,State Senate,1,DEM,Kristine Lang McDonald,4253
-Nevada,State Senate,1,REP,Dave Cox,4196
-Nevada,State Senate,1,LIB,Roberto Leibman,424
-Placer,State Senate,1,DEM,Kristine Lang McDonald,30157
-Placer,State Senate,1,REP,Dave Cox,57044
-Placer,State Senate,1,LIB,Roberto Leibman,2916
-Plumas,State Senate,1,DEM,Kristine Lang McDonald,3601
-Plumas,State Senate,1,REP,Dave Cox,6621
-Plumas,State Senate,1,LIB,Roberto Leibman,384
-Sacramento,State Senate,1,DEM,Kristine Lang McDonald,55651
-Sacramento,State Senate,1,REP,Dave Cox,104638
-Sacramento,State Senate,1,LIB,Roberto Leibman,4289
-Sierra,State Senate,1,DEM,Kristine Lang McDonald,586
-Sierra,State Senate,1,REP,Dave Cox,1198
-Sierra,State Senate,1,LIB,Roberto Leibman,94
-Marin,State Senate,3,DEM,Carole Migden,72892
-Marin,State Senate,3,REP,Andrew D. Felder,45049
-Marin,State Senate,3,LIB,David Rhodes,2974
-Marin,State Senate,3,PF,Ian J. Grimes,3524
-San Francisco,State Senate,3,DEM,Carole Migden,141612
-San Francisco,State Senate,3,REP,Andrew D. Felder,25601
-San Francisco,State Senate,3,LIB,David Rhodes,5366
-San Francisco,State Senate,3,PF,Ian J. Grimes,6180
-Sonoma,State Senate,3,DEM,Carole Migden,43662
-Sonoma,State Senate,3,REP,Andrew D. Felder,27682
-Sonoma,State Senate,3,LIB,David Rhodes,1894
-Sonoma,State Senate,3,PF,Ian J. Grimes,2309
-Sacramento,State Senate,5,DEM,Michael J. Machado,8733
-Sacramento,State Senate,5,REP,Gary A. Podesto,8621
-San Joaquin,State Senate,5,DEM,Michael J. Machado,64740
-San Joaquin,State Senate,5,REP,Gary A. Podesto,64569
-Solano,State Senate,5,DEM,Michael J. Machado,39922
-Solano,State Senate,5,REP,Gary A. Podesto,40986
-Yolo,State Senate,5,DEM,Michael J. Machado,41124
-Yolo,State Senate,5,REP,Gary A. Podesto,27363
-Contra Costa,State Senate,7,DEM,Tom Torlakson,282714
 Alameda,State Senate,9,DEM,Don Perata,229283
 Alameda,State Senate,9,REP,Patricia Deutsche,47796
 Alameda,State Senate,9,LIB,Peter Von Pinnon,6039
 Alameda,State Senate,9,PF,Tom Condit,16598
+Alpine,State Senate,1,REP,Dave Cox,309
+Alpine,State Senate,1,DEM,Kristine Lang McDonald,332
+Alpine,State Senate,1,LIB,Roberto Leibman,27
+Amador,State Senate,1,REP,Dave Cox,10511
+Amador,State Senate,1,DEM,Kristine Lang McDonald,5804
+Amador,State Senate,1,LIB,Roberto Leibman,652
+Calaveras,State Senate,1,REP,Dave Cox,12992
+Calaveras,State Senate,1,DEM,Kristine Lang McDonald,7351
+Calaveras,State Senate,1,LIB,Roberto Leibman,970
+Contra Costa,State Senate,7,DEM,Tom Torlakson,282714
 Contra Costa,State Senate,9,DEM,Don Perata,19331
 Contra Costa,State Senate,9,REP,Patricia Deutsche,2314
 Contra Costa,State Senate,9,LIB,Peter Von Pinnon,344
 Contra Costa,State Senate,9,PF,Tom Condit,814
-San Mateo,State Senate,11,DEM,Joe Simitian,53779
-San Mateo,State Senate,11,REP,Jon Zellhoefer,22232
-San Mateo,State Senate,11,LIB,Allen M. Rice,2518
-Santa Clara,State Senate,11,DEM,Joe Simitian,124931
-Santa Clara,State Senate,11,REP,Jon Zellhoefer,65426
-Santa Clara,State Senate,11,LIB,Allen M. Rice,7876
-Santa Cruz,State Senate,11,DEM,Joe Simitian,51774
-Santa Cruz,State Senate,11,REP,Jon Zellhoefer,14229
-Santa Cruz,State Senate,11,LIB,Allen M. Rice,3686
-Santa Clara,State Senate,13,DEM,Elaine Alquist,156321
-Santa Clara,State Senate,13,REP,Shane Patrick Connolly,62157
-Santa Clara,State Senate,13,LIB,Michael Laursen,9585
-Santa Clara,State Senate,13,(W/I),John H. Webster,28
-Monterey,State Senate,15,DEM,Peg Pinard,36394
-Monterey,State Senate,15,REP,Abel Maldonado,37153
-Monterey,State Senate,15,GRN,Brook Madsen,3969
-San Luis Obispo,State Senate,15,DEM,Peg Pinard,46572
-San Luis Obispo,State Senate,15,REP,Abel Maldonado,72301
-San Luis Obispo,State Senate,15,GRN,Brook Madsen,6216
-Santa Barbara,State Senate,15,DEM,Peg Pinard,12535
-Santa Barbara,State Senate,15,REP,Abel Maldonado,19997
-Santa Barbara,State Senate,15,GRN,Brook Madsen,1407
-Santa Clara,State Senate,15,DEM,Peg Pinard,38744
-Santa Clara,State Senate,15,REP,Abel Maldonado,46288
-Santa Clara,State Senate,15,GRN,Brook Madsen,2709
-Santa Cruz,State Senate,15,DEM,Peg Pinard,23311
-Santa Cruz,State Senate,15,REP,Abel Maldonado,18935
-Santa Cruz,State Senate,15,GRN,Brook Madsen,2343
-Kern,State Senate,17,DEM,Jonathan Daniel Kraut,1
+El Dorado,State Senate,1,REP,Dave Cox,50428
+El Dorado,State Senate,1,DEM,Kristine Lang McDonald,27578
+El Dorado,State Senate,1,LIB,Roberto Leibman,2843
 Kern,State Senate,17,REP,George C. Runner,2
 Kern,State Senate,17,LIB,John S. Ballard,1
-Los Angeles,State Senate,17,DEM,Jonathan Daniel Kraut,76835
+Kern,State Senate,17,DEM,Jonathan Daniel Kraut,1
+Lassen,State Senate,1,REP,Dave Cox,7548
+Lassen,State Senate,1,DEM,Kristine Lang McDonald,2992
+Lassen,State Senate,1,LIB,Roberto Leibman,345
 Los Angeles,State Senate,17,REP,George C. Runner,122171
 Los Angeles,State Senate,17,LIB,John S. Ballard,8638
-San Bernardino,State Senate,17,DEM,Jonathan Daniel Kraut,24216
-San Bernardino,State Senate,17,REP,George C. Runner,51819
-San Bernardino,State Senate,17,LIB,John S. Ballard,3240
-Ventura,State Senate,17,DEM,Jonathan Daniel Kraut,7985
-Ventura,State Senate,17,REP,George C. Runner,6000
-Ventura,State Senate,17,LIB,John S. Ballard,600
+Los Angeles,State Senate,17,DEM,Jonathan Daniel Kraut,76835
 Los Angeles,State Senate,19,DEM,Paul Graber,8979
 Los Angeles,State Senate,19,REP,Tom McClintock,18595
-Santa Barbara,State Senate,19,DEM,Paul Graber,60199
-Santa Barbara,State Senate,19,REP,Tom McClintock,66699
-Ventura,State Senate,19,DEM,Paul Graber,81907
-Ventura,State Senate,19,REP,Tom McClintock,148071
-Los Angeles,State Senate,21,DEM,Jack Scott,217515
 Los Angeles,State Senate,21,LIB,Bob New,61160
-Los Angeles,State Senate,23,DEM,Sheila James Kuehl,199271
-Los Angeles,State Senate,23,REP,Leonard Michael Lanzi,86415
+Los Angeles,State Senate,21,DEM,Jack Scott,217515
 Los Angeles,State Senate,23,LIB,Colin Goldman,16245
-Ventura,State Senate,23,DEM,Sheila James Kuehl,30050
-Ventura,State Senate,23,REP,Leonard Michael Lanzi,15233
-Ventura,State Senate,23,LIB,Colin Goldman,1923
+Los Angeles,State Senate,23,REP,Leonard Michael Lanzi,86415
+Los Angeles,State Senate,23,DEM,Sheila James Kuehl,199271
+Los Angeles,State Senate,25,LIB,Dale F. Ogden,6683
 Los Angeles,State Senate,25,DEM,Edward Vincent,165479
 Los Angeles,State Senate,25,REP,James Arlandus Spencer,52485
-Los Angeles,State Senate,25,LIB,Dale F. Ogden,6683
 Los Angeles,State Senate,27,DEM,Alan S. Lowenthal,150289
 Los Angeles,State Senate,27,REP,Cesar Navarro Castellanos,87319
-Los Angeles,State Senate,29,DEM,"Rufino Mallari Bautista, Jr.",62016
 Los Angeles,State Senate,29,REP,Bob Margett,103566
 Los Angeles,State Senate,29,LIB,Dan Fernandes,10778
-Orange,State Senate,29,DEM,"Rufino Mallari Bautista, Jr.",23278
+Los Angeles,State Senate,29,DEM,"Rufino Mallari Bautista, Jr.",62016
+Marin,State Senate,3,REP,Andrew D. Felder,45049
+Marin,State Senate,3,DEM,Carole Migden,72892
+Marin,State Senate,3,LIB,David Rhodes,2974
+Marin,State Senate,3,PF,Ian J. Grimes,3524
+Modoc,State Senate,1,REP,Dave Cox,3000
+Modoc,State Senate,1,DEM,Kristine Lang McDonald,1100
+Modoc,State Senate,1,LIB,Roberto Leibman,147
+Mono,State Senate,1,REP,Dave Cox,2722
+Mono,State Senate,1,DEM,Kristine Lang McDonald,2057
+Mono,State Senate,1,LIB,Roberto Leibman,201
+Monterey,State Senate,15,REP,Abel Maldonado,37153
+Monterey,State Senate,15,GRN,Brook Madsen,3969
+Monterey,State Senate,15,DEM,Peg Pinard,36394
+Nevada,State Senate,1,REP,Dave Cox,4196
+Nevada,State Senate,1,DEM,Kristine Lang McDonald,4253
+Nevada,State Senate,1,LIB,Roberto Leibman,424
 Orange,State Senate,29,REP,Bob Margett,61052
 Orange,State Senate,29,LIB,Dan Fernandes,4453
-San Bernardino,State Senate,29,DEM,"Rufino Mallari Bautista, Jr.",16056
+Orange,State Senate,29,DEM,"Rufino Mallari Bautista, Jr.",23278
+Orange,State Senate,33,REP,Dick Ackerman,245116
+Orange,State Senate,33,DEM,Randall Daugherty,110313
+Orange,State Senate,35,REP,John Campbell,230220
+Orange,State Senate,35,DEM,Rita B. Siebert,114126
+Orange,State Senate,35,LIB,Timothy Johnson,16561
+Placer,State Senate,1,REP,Dave Cox,57044
+Placer,State Senate,1,DEM,Kristine Lang McDonald,30157
+Placer,State Senate,1,LIB,Roberto Leibman,2916
+Plumas,State Senate,1,REP,Dave Cox,6621
+Plumas,State Senate,1,DEM,Kristine Lang McDonald,3601
+Plumas,State Senate,1,LIB,Roberto Leibman,384
+Riverside,State Senate,31,REP,Bob Dutton,54017
+Riverside,State Senate,31,DEM,Marjorie Musser Mikels,48350
+Riverside,State Senate,37,REP,Jim Battin,182578
+Riverside,State Senate,37,DEM,Pat Johansen,123602
+Sacramento,State Senate,1,REP,Dave Cox,104638
+Sacramento,State Senate,1,DEM,Kristine Lang McDonald,55651
+Sacramento,State Senate,1,LIB,Roberto Leibman,4289
+Sacramento,State Senate,5,REP,Gary A. Podesto,8621
+Sacramento,State Senate,5,DEM,Michael J. Machado,8733
+San Bernardino,State Senate,17,REP,George C. Runner,51819
+San Bernardino,State Senate,17,LIB,John S. Ballard,3240
+San Bernardino,State Senate,17,DEM,Jonathan Daniel Kraut,24216
 San Bernardino,State Senate,29,REP,Bob Margett,25547
 San Bernardino,State Senate,29,LIB,Dan Fernandes,1813
-Riverside,State Senate,31,DEM,Marjorie Musser Mikels,48350
-Riverside,State Senate,31,REP,Bob Dutton,54017
-San Bernardino,State Senate,31,DEM,Marjorie Musser Mikels,67962
+San Bernardino,State Senate,29,DEM,"Rufino Mallari Bautista, Jr.",16056
 San Bernardino,State Senate,31,REP,Bob Dutton,116883
-Orange,State Senate,33,DEM,Randall Daugherty,110313
-Orange,State Senate,33,REP,Dick Ackerman,245116
-Orange,State Senate,35,DEM,Rita B. Siebert,114126
-Orange,State Senate,35,REP,John Campbell,230220
-Orange,State Senate,35,LIB,Timothy Johnson,16561
-Riverside,State Senate,37,DEM,Pat Johansen,123602
-Riverside,State Senate,37,REP,Jim Battin,182578
+San Bernardino,State Senate,31,DEM,Marjorie Musser Mikels,67962
 San Diego,State Senate,39,DEM,Christine Kehoe,200737
-San Diego,State Senate,39,REP,Larry Stirling,118417
 San Diego,State Senate,39,LIB,John Murphy,15552
+San Diego,State Senate,39,REP,Larry Stirling,118417
+San Francisco,State Senate,3,REP,Andrew D. Felder,25601
+San Francisco,State Senate,3,DEM,Carole Migden,141612
+San Francisco,State Senate,3,LIB,David Rhodes,5366
+San Francisco,State Senate,3,PF,Ian J. Grimes,6180
+San Joaquin,State Senate,5,REP,Gary A. Podesto,64569
+San Joaquin,State Senate,5,DEM,Michael J. Machado,64740
+San Luis Obispo,State Senate,15,REP,Abel Maldonado,72301
+San Luis Obispo,State Senate,15,GRN,Brook Madsen,6216
+San Luis Obispo,State Senate,15,DEM,Peg Pinard,46572
+San Mateo,State Senate,11,LIB,Allen M. Rice,2518
+San Mateo,State Senate,11,DEM,Joe Simitian,53779
+San Mateo,State Senate,11,REP,Jon Zellhoefer,22232
+Santa Barbara,State Senate,15,REP,Abel Maldonado,19997
+Santa Barbara,State Senate,15,GRN,Brook Madsen,1407
+Santa Barbara,State Senate,15,DEM,Peg Pinard,12535
+Santa Barbara,State Senate,19,DEM,Paul Graber,60199
+Santa Barbara,State Senate,19,REP,Tom McClintock,66699
+Santa Clara,State Senate,11,LIB,Allen M. Rice,7876
+Santa Clara,State Senate,11,DEM,Joe Simitian,124931
+Santa Clara,State Senate,11,REP,Jon Zellhoefer,65426
+Santa Clara,State Senate,13,DEM,Elaine Alquist,156321
+Santa Clara,State Senate,13,(W/I),John H. Webster,28
+Santa Clara,State Senate,13,LIB,Michael Laursen,9585
+Santa Clara,State Senate,13,REP,Shane Patrick Connolly,62157
+Santa Clara,State Senate,15,REP,Abel Maldonado,46288
+Santa Clara,State Senate,15,GRN,Brook Madsen,2709
+Santa Clara,State Senate,15,DEM,Peg Pinard,38744
+Santa Cruz,State Senate,11,LIB,Allen M. Rice,3686
+Santa Cruz,State Senate,11,DEM,Joe Simitian,51774
+Santa Cruz,State Senate,11,REP,Jon Zellhoefer,14229
+Santa Cruz,State Senate,15,REP,Abel Maldonado,18935
+Santa Cruz,State Senate,15,GRN,Brook Madsen,2343
+Santa Cruz,State Senate,15,DEM,Peg Pinard,23311
+Sierra,State Senate,1,REP,Dave Cox,1198
+Sierra,State Senate,1,DEM,Kristine Lang McDonald,586
+Sierra,State Senate,1,LIB,Roberto Leibman,94
+Solano,State Senate,5,REP,Gary A. Podesto,40986
+Solano,State Senate,5,DEM,Michael J. Machado,39922
+Sonoma,State Senate,3,REP,Andrew D. Felder,27682
+Sonoma,State Senate,3,DEM,Carole Migden,43662
+Sonoma,State Senate,3,LIB,David Rhodes,1894
+Sonoma,State Senate,3,PF,Ian J. Grimes,2309
+Ventura,State Senate,17,REP,George C. Runner,6000
+Ventura,State Senate,17,LIB,John S. Ballard,600
+Ventura,State Senate,17,DEM,Jonathan Daniel Kraut,7985
+Ventura,State Senate,19,DEM,Paul Graber,81907
+Ventura,State Senate,19,REP,Tom McClintock,148071
+Ventura,State Senate,23,LIB,Colin Goldman,1923
+Ventura,State Senate,23,REP,Leonard Michael Lanzi,15233
+Ventura,State Senate,23,DEM,Sheila James Kuehl,30050
+Yolo,State Senate,5,REP,Gary A. Podesto,27363
+Yolo,State Senate,5,DEM,Michael J. Machado,41124
