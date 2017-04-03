@@ -1,111 +1,111 @@
 county,precinct,office,district,party,candidate,votes
 Alpine,1,Attorney General,,DEM,Kamala D. Harris,57
 Alpine,1,Attorney General,,REP,Ronald Gold,43
-Alpine,2,Attorney General,,DEM,Kamala D. Harris,66
-Alpine,2,Attorney General,,REP,Ronald Gold,36
-Alpine,3,Attorney General,,DEM,Kamala D. Harris,29
-Alpine,3,Attorney General,,REP,Ronald Gold,12
-Alpine,4,Attorney General,,DEM,Kamala D. Harris,58
-Alpine,4,Attorney General,,REP,Ronald Gold,45
-Alpine,5,Attorney General,,DEM,Kamala D. Harris,50
-Alpine,5,Attorney General,,REP,Ronald Gold,62
 Alpine,1,Board of Equalization,1,DEM,Chris Parker,49
 Alpine,1,Board of Equalization,1,REP,George Runner,50
-Alpine,2,Board of Equalization,1,DEM,Chris Parker,57
-Alpine,2,Board of Equalization,1,REP,George Runner,44
-Alpine,3,Board of Equalization,1,DEM,Chris Parker,22
-Alpine,3,Board of Equalization,1,REP,George Runner,17
-Alpine,4,Board of Equalization,1,DEM,Chris Parker,47
-Alpine,4,Board of Equalization,1,REP,George Runner,52
-Alpine,5,Board of Equalization,1,DEM,Chris Parker,40
-Alpine,5,Board of Equalization,1,REP,George Runner,67
-Alpine,1,Controller,,DEM,Betty T. Yee,56
 Alpine,1,Controller,,REP,Ashley Swearengin,45
-Alpine,2,Controller,,DEM,Betty T. Yee,69
-Alpine,2,Controller,,REP,Ashley Swearengin,33
-Alpine,3,Controller,,DEM,Betty T. Yee,30
-Alpine,3,Controller,,REP,Ashley Swearengin,11
-Alpine,4,Controller,,DEM,Betty T. Yee,54
-Alpine,4,Controller,,REP,Ashley Swearengin,47
-Alpine,5,Controller,,DEM,Betty T. Yee,49
-Alpine,5,Controller,,REP,Ashley Swearengin,59
+Alpine,1,Controller,,DEM,Betty T. Yee,56
 Alpine,1,Governor,,DEM,Edmund G. Brown,60
 Alpine,1,Governor,,REP,Neel Kashkari,39
-Alpine,2,Governor,,DEM,Edmund G. Brown,74
-Alpine,2,Governor,,REP,Neel Kashkari,31
-Alpine,3,Governor,,DEM,Edmund G. Brown,32
-Alpine,3,Governor,,REP,Neel Kashkari,10
-Alpine,4,Governor,,DEM,Edmund G. Brown,63
-Alpine,4,Governor,,REP,Neel Kashkari,40
-Alpine,5,Governor,,DEM,Edmund G. Brown,55
-Alpine,5,Governor,,REP,Neel Kashkari,55
-Alpine,1,U.S. House,4,REP,Arthur Moore,36
-Alpine,1,U.S. House,4,REP,Tom McClintock,44
-Alpine,2,U.S. House,4,REP,Arthur Moore,32
-Alpine,2,U.S. House,4,REP,Tom McClintock,45
-Alpine,3,U.S. House,4,REP,Arthur Moore,16
-Alpine,3,U.S. House,4,REP,Tom McClintock,20
-Alpine,4,U.S. House,4,REP,Arthur Moore,27
-Alpine,4,U.S. House,4,REP,Tom McClintock,48
-Alpine,5,U.S. House,4,REP,Arthur Moore,31
-Alpine,5,U.S. House,4,REP,Tom McClintock,61
 Alpine,1,Insurance Commissioner,,DEM,Dave Jones,53
 Alpine,1,Insurance Commissioner,,REP,Ted Gaines,47
-Alpine,2,Insurance Commissioner,,DEM,Dave Jones,66
-Alpine,2,Insurance Commissioner,,REP,Ted Gaines,37
-Alpine,3,Insurance Commissioner,,DEM,Dave Jones,32
-Alpine,3,Insurance Commissioner,,REP,Ted Gaines,9
-Alpine,4,Insurance Commissioner,,DEM,Dave Jones,52
-Alpine,4,Insurance Commissioner,,REP,Ted Gaines,49
-Alpine,5,Insurance Commissioner,,DEM,Dave Jones,49
-Alpine,5,Insurance Commissioner,,REP,Ted Gaines,62
 Alpine,1,Lieutenant Governor,,DEM,Gavin Newsom,56
 Alpine,1,Lieutenant Governor,,REP,Ron Nehring,44
-Alpine,2,Lieutenant Governor,,DEM,Gavin Newsom,69
-Alpine,2,Lieutenant Governor,,REP,Ron Nehring,32
-Alpine,3,Lieutenant Governor,,DEM,Gavin Newsom,28
-Alpine,3,Lieutenant Governor,,REP,Ron Nehring,13
-Alpine,4,Lieutenant Governor,,DEM,Gavin Newsom,61
-Alpine,4,Lieutenant Governor,,REP,Ron Nehring,41
-Alpine,5,Lieutenant Governor,,DEM,Gavin Newsom,53
-Alpine,5,Lieutenant Governor,,REP,Ron Nehring,58
 Alpine,1,Secretary of State,,DEM,Alex Padilla,54
 Alpine,1,Secretary of State,,REP,Pete Peterson,45
-Alpine,2,Secretary of State,,DEM,Alex Padilla,73
-Alpine,2,Secretary of State,,REP,Pete Peterson,30
-Alpine,3,Secretary of State,,DEM,Alex Padilla,29
-Alpine,3,Secretary of State,,REP,Pete Peterson,12
-Alpine,4,Secretary of State,,DEM,Alex Padilla,56
-Alpine,4,Secretary of State,,REP,Pete Peterson,47
-Alpine,5,Secretary of State,,DEM,Alex Padilla,50
-Alpine,5,Secretary of State,,REP,Pete Peterson,57
-Alpine,1,State Assembly,5,LIB,Patrick D. Hogan,23
 Alpine,1,State Assembly,5,REP,Frank Bigelow,59
-Alpine,2,State Assembly,5,LIB,Patrick D. Hogan,25
-Alpine,2,State Assembly,5,REP,Frank Bigelow,58
-Alpine,3,State Assembly,5,LIB,Patrick D. Hogan,8
-Alpine,3,State Assembly,5,REP,Frank Bigelow,27
-Alpine,4,State Assembly,5,LIB,Patrick D. Hogan,27
-Alpine,4,State Assembly,5,REP,Frank Bigelow,54
-Alpine,5,State Assembly,5,LIB,Patrick D. Hogan,21
-Alpine,5,State Assembly,5,REP,Frank Bigelow,75
+Alpine,1,State Assembly,5,LIB,Patrick D. Hogan,23
 Alpine,1,Superintendent of Public Instruction,,NOP,Marshall Tuck,25
 Alpine,1,Superintendent of Public Instruction,,NOP,Tom Torlakson,60
+Alpine,1,Treasurer,,REP,Greg Conlon,41
+Alpine,1,Treasurer,,DEM,John Chiang,59
+Alpine,1,U.S. House,4,REP,Arthur Moore,36
+Alpine,1,U.S. House,4,REP,Tom McClintock,44
+Alpine,2,Attorney General,,DEM,Kamala D. Harris,66
+Alpine,2,Attorney General,,REP,Ronald Gold,36
+Alpine,2,Board of Equalization,1,DEM,Chris Parker,57
+Alpine,2,Board of Equalization,1,REP,George Runner,44
+Alpine,2,Controller,,REP,Ashley Swearengin,33
+Alpine,2,Controller,,DEM,Betty T. Yee,69
+Alpine,2,Governor,,DEM,Edmund G. Brown,74
+Alpine,2,Governor,,REP,Neel Kashkari,31
+Alpine,2,Insurance Commissioner,,DEM,Dave Jones,66
+Alpine,2,Insurance Commissioner,,REP,Ted Gaines,37
+Alpine,2,Lieutenant Governor,,DEM,Gavin Newsom,69
+Alpine,2,Lieutenant Governor,,REP,Ron Nehring,32
+Alpine,2,Secretary of State,,DEM,Alex Padilla,73
+Alpine,2,Secretary of State,,REP,Pete Peterson,30
+Alpine,2,State Assembly,5,REP,Frank Bigelow,58
+Alpine,2,State Assembly,5,LIB,Patrick D. Hogan,25
 Alpine,2,Superintendent of Public Instruction,,NOP,Marshall Tuck,27
 Alpine,2,Superintendent of Public Instruction,,NOP,Tom Torlakson,60
+Alpine,2,Treasurer,,REP,Greg Conlon,27
+Alpine,2,Treasurer,,DEM,John Chiang,76
+Alpine,2,U.S. House,4,REP,Arthur Moore,32
+Alpine,2,U.S. House,4,REP,Tom McClintock,45
+Alpine,3,Attorney General,,DEM,Kamala D. Harris,29
+Alpine,3,Attorney General,,REP,Ronald Gold,12
+Alpine,3,Board of Equalization,1,DEM,Chris Parker,22
+Alpine,3,Board of Equalization,1,REP,George Runner,17
+Alpine,3,Controller,,REP,Ashley Swearengin,11
+Alpine,3,Controller,,DEM,Betty T. Yee,30
+Alpine,3,Governor,,DEM,Edmund G. Brown,32
+Alpine,3,Governor,,REP,Neel Kashkari,10
+Alpine,3,Insurance Commissioner,,DEM,Dave Jones,32
+Alpine,3,Insurance Commissioner,,REP,Ted Gaines,9
+Alpine,3,Lieutenant Governor,,DEM,Gavin Newsom,28
+Alpine,3,Lieutenant Governor,,REP,Ron Nehring,13
+Alpine,3,Secretary of State,,DEM,Alex Padilla,29
+Alpine,3,Secretary of State,,REP,Pete Peterson,12
+Alpine,3,State Assembly,5,REP,Frank Bigelow,27
+Alpine,3,State Assembly,5,LIB,Patrick D. Hogan,8
 Alpine,3,Superintendent of Public Instruction,,NOP,Marshall Tuck,14
 Alpine,3,Superintendent of Public Instruction,,NOP,Tom Torlakson,20
+Alpine,3,Treasurer,,REP,Greg Conlon,9
+Alpine,3,Treasurer,,DEM,John Chiang,32
+Alpine,3,U.S. House,4,REP,Arthur Moore,16
+Alpine,3,U.S. House,4,REP,Tom McClintock,20
+Alpine,4,Attorney General,,DEM,Kamala D. Harris,58
+Alpine,4,Attorney General,,REP,Ronald Gold,45
+Alpine,4,Board of Equalization,1,DEM,Chris Parker,47
+Alpine,4,Board of Equalization,1,REP,George Runner,52
+Alpine,4,Controller,,REP,Ashley Swearengin,47
+Alpine,4,Controller,,DEM,Betty T. Yee,54
+Alpine,4,Governor,,DEM,Edmund G. Brown,63
+Alpine,4,Governor,,REP,Neel Kashkari,40
+Alpine,4,Insurance Commissioner,,DEM,Dave Jones,52
+Alpine,4,Insurance Commissioner,,REP,Ted Gaines,49
+Alpine,4,Lieutenant Governor,,DEM,Gavin Newsom,61
+Alpine,4,Lieutenant Governor,,REP,Ron Nehring,41
+Alpine,4,Secretary of State,,DEM,Alex Padilla,56
+Alpine,4,Secretary of State,,REP,Pete Peterson,47
+Alpine,4,State Assembly,5,REP,Frank Bigelow,54
+Alpine,4,State Assembly,5,LIB,Patrick D. Hogan,27
 Alpine,4,Superintendent of Public Instruction,,NOP,Marshall Tuck,36
 Alpine,4,Superintendent of Public Instruction,,NOP,Tom Torlakson,51
+Alpine,4,Treasurer,,REP,Greg Conlon,47
+Alpine,4,Treasurer,,DEM,John Chiang,56
+Alpine,4,U.S. House,4,REP,Arthur Moore,27
+Alpine,4,U.S. House,4,REP,Tom McClintock,48
+Alpine,5,Attorney General,,DEM,Kamala D. Harris,50
+Alpine,5,Attorney General,,REP,Ronald Gold,62
+Alpine,5,Board of Equalization,1,DEM,Chris Parker,40
+Alpine,5,Board of Equalization,1,REP,George Runner,67
+Alpine,5,Controller,,REP,Ashley Swearengin,59
+Alpine,5,Controller,,DEM,Betty T. Yee,49
+Alpine,5,Governor,,DEM,Edmund G. Brown,55
+Alpine,5,Governor,,REP,Neel Kashkari,55
+Alpine,5,Insurance Commissioner,,DEM,Dave Jones,49
+Alpine,5,Insurance Commissioner,,REP,Ted Gaines,62
+Alpine,5,Lieutenant Governor,,DEM,Gavin Newsom,53
+Alpine,5,Lieutenant Governor,,REP,Ron Nehring,58
+Alpine,5,Secretary of State,,DEM,Alex Padilla,50
+Alpine,5,Secretary of State,,REP,Pete Peterson,57
+Alpine,5,State Assembly,5,REP,Frank Bigelow,75
+Alpine,5,State Assembly,5,LIB,Patrick D. Hogan,21
 Alpine,5,Superintendent of Public Instruction,,NOP,Marshall Tuck,40
 Alpine,5,Superintendent of Public Instruction,,NOP,Tom Torlakson,50
-Alpine,1,Treasurer,,DEM,John Chiang,59
-Alpine,1,Treasurer,,REP,Greg Conlon,41
-Alpine,2,Treasurer,,DEM,John Chiang,76
-Alpine,2,Treasurer,,REP,Greg Conlon,27
-Alpine,3,Treasurer,,DEM,John Chiang,32
-Alpine,3,Treasurer,,REP,Greg Conlon,9
-Alpine,4,Treasurer,,DEM,John Chiang,56
-Alpine,4,Treasurer,,REP,Greg Conlon,47
-Alpine,5,Treasurer,,DEM,John Chiang,56
 Alpine,5,Treasurer,,REP,Greg Conlon,54
+Alpine,5,Treasurer,,DEM,John Chiang,56
+Alpine,5,U.S. House,4,REP,Arthur Moore,31
+Alpine,5,U.S. House,4,REP,Tom McClintock,61
