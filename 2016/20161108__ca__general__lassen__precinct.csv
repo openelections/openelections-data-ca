@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Lassen,CP1,President,,REP/AI,Donald J. Trump,347
+Lassen,CP1,President,,REP,Donald J. Trump,347
 Lassen,CP1,President,,LIB,Gary Johnson,41
-Lassen,CP1,President,,PF,Gloria Estela La Riva,9
+Lassen,CP1,President,,PAF,Gloria Estela La Riva,9
 Lassen,CP1,President,,DEM,Hillary Clinton,204
 Lassen,CP1,President,,GRN,Jill Stein,11
-Lassen,CP1,President,,WI,Write-In,25
 Lassen,CP1,Proposition 51,,,No,368
 Lassen,CP1,Proposition 51,,,Yes,251
 Lassen,CP1,Proposition 52,,,No,237
@@ -39,14 +38,19 @@ Lassen,CP1,Proposition 66,,,No,280
 Lassen,CP1,Proposition 66,,,Yes,326
 Lassen,CP1,Proposition 67,,,No,418
 Lassen,CP1,Proposition 67,,,Yes,208
+Lassen,CP1,State Assembly,1,REP,Brian Dahle,447
+Lassen,CP1,State Assembly,1,LIB,Donn Coenen,156
+Lassen,CP1,State Senate,1,DEM,Rob Rowen,237
+Lassen,CP1,State Senate,1,REP,Ted Gaines,371
+Lassen,CP1,U.S. House,1,REP,Doug La Malfa,360
+Lassen,CP1,U.S. House,1,DEM,Jim Reed,257
 Lassen,CP1,U.S. Senate,,DEM,Kamala D. Harris,303
 Lassen,CP1,U.S. Senate,,DEM,Loretta L. Sanchez,204
-Lassen,CP11,President,,REP/AI,Donald J. Trump,517
+Lassen,CP11,President,,REP,Donald J. Trump,517
 Lassen,CP11,President,,LIB,Gary Johnson,28
-Lassen,CP11,President,,PF,Gloria Estela La Riva,3
+Lassen,CP11,President,,PAF,Gloria Estela La Riva,3
 Lassen,CP11,President,,DEM,Hillary Clinton,119
 Lassen,CP11,President,,GRN,Jill Stein,6
-Lassen,CP11,President,,WI,Write-In,18
 Lassen,CP11,Proposition 51,,,No,453
 Lassen,CP11,Proposition 51,,,Yes,219
 Lassen,CP11,Proposition 52,,,No,355
@@ -81,98 +85,110 @@ Lassen,CP11,Proposition 66,,,No,253
 Lassen,CP11,Proposition 66,,,Yes,401
 Lassen,CP11,Proposition 67,,,No,504
 Lassen,CP11,Proposition 67,,,Yes,176
+Lassen,CP11,State Assembly,1,REP,Brian Dahle,598
+Lassen,CP11,State Assembly,1,LIB,Donn Coenen,68
+Lassen,CP11,State Senate,1,DEM,Rob Rowen,118
+Lassen,CP11,State Senate,1,REP,Ted Gaines,539
+Lassen,CP11,U.S. House,1,REP,Doug La Malfa,546
+Lassen,CP11,U.S. House,1,DEM,Jim Reed,127
 Lassen,CP11,U.S. Senate,,DEM,Kamala D. Harris,238
 Lassen,CP11,U.S. Senate,,DEM,Loretta L. Sanchez,184
-Lassen,CP12,President,,REP/AI,Donald J. Trump,744
+Lassen,CP12,President,,REP,Donald J. Trump,739
 Lassen,CP12,President,,LIB,Gary Johnson,44
-Lassen,CP12,President,,PF,Gloria Estela La Riva,2
+Lassen,CP12,President,,PAF,Gloria Estela La Riva,2
 Lassen,CP12,President,,DEM,Hillary Clinton,159
 Lassen,CP12,President,,GRN,Jill Stein,3
-Lassen,CP12,President,,WI,Write-In,29
-Lassen,CP12,Proposition 51,,,No,696
-Lassen,CP12,Proposition 51,,,Yes,271
-Lassen,CP12,Proposition 52,,,No,478
-Lassen,CP12,Proposition 52,,,Yes,478
-Lassen,CP12,Proposition 53,,,No,348
-Lassen,CP12,Proposition 53,,,Yes,612
-Lassen,CP12,Proposition 54,,,No,296
-Lassen,CP12,Proposition 54,,,Yes,653
-Lassen,CP12,Proposition 55,,,No,613
-Lassen,CP12,Proposition 55,,,Yes,343
-Lassen,CP12,Proposition 56,,,No,649
-Lassen,CP12,Proposition 56,,,Yes,319
-Lassen,CP12,Proposition 57,,,No,674
-Lassen,CP12,Proposition 57,,,Yes,285
-Lassen,CP12,Proposition 58,,,No,450
-Lassen,CP12,Proposition 58,,,Yes,505
-Lassen,CP12,Proposition 59,,,No,636
+Lassen,CP12,Proposition 51,,,No,694
+Lassen,CP12,Proposition 51,,,Yes,269
+Lassen,CP12,Proposition 52,,,No,477
+Lassen,CP12,Proposition 52,,,Yes,475
+Lassen,CP12,Proposition 53,,,No,346
+Lassen,CP12,Proposition 53,,,Yes,610
+Lassen,CP12,Proposition 54,,,No,293
+Lassen,CP12,Proposition 54,,,Yes,652
+Lassen,CP12,Proposition 55,,,No,610
+Lassen,CP12,Proposition 55,,,Yes,342
+Lassen,CP12,Proposition 56,,,No,645
+Lassen,CP12,Proposition 56,,,Yes,318
+Lassen,CP12,Proposition 57,,,No,670
+Lassen,CP12,Proposition 57,,,Yes,284
+Lassen,CP12,Proposition 58,,,No,447
+Lassen,CP12,Proposition 58,,,Yes,503
+Lassen,CP12,Proposition 59,,,No,632
 Lassen,CP12,Proposition 59,,,Yes,303
-Lassen,CP12,Proposition 60,,,No,642
+Lassen,CP12,Proposition 60,,,No,638
 Lassen,CP12,Proposition 60,,,Yes,292
-Lassen,CP12,Proposition 61,,,No,600
+Lassen,CP12,Proposition 61,,,No,596
 Lassen,CP12,Proposition 61,,,Yes,346
-Lassen,CP12,Proposition 62,,,No,790
+Lassen,CP12,Proposition 62,,,No,786
 Lassen,CP12,Proposition 62,,,Yes,171
-Lassen,CP12,Proposition 63,,,No,817
-Lassen,CP12,Proposition 63,,,Yes,154
-Lassen,CP12,Proposition 64,,,No,589
-Lassen,CP12,Proposition 64,,,Yes,381
-Lassen,CP12,Proposition 65,,,No,721
+Lassen,CP12,Proposition 63,,,No,813
+Lassen,CP12,Proposition 63,,,Yes,153
+Lassen,CP12,Proposition 64,,,No,586
+Lassen,CP12,Proposition 64,,,Yes,379
+Lassen,CP12,Proposition 65,,,No,717
 Lassen,CP12,Proposition 65,,,Yes,236
-Lassen,CP12,Proposition 66,,,No,339
-Lassen,CP12,Proposition 66,,,Yes,609
-Lassen,CP12,Proposition 67,,,No,727
-Lassen,CP12,Proposition 67,,,Yes,242
-Lassen,CP12,U.S. Senate,,DEM,Kamala D. Harris,356
+Lassen,CP12,Proposition 66,,,No,338
+Lassen,CP12,Proposition 66,,,Yes,606
+Lassen,CP12,Proposition 67,,,No,723
+Lassen,CP12,Proposition 67,,,Yes,241
+Lassen,CP12,State Assembly,1,REP,Brian Dahle,825
+Lassen,CP12,State Assembly,1,LIB,Donn Coenen,119
+Lassen,CP12,State Senate,1,DEM,Rob Rowen,164
+Lassen,CP12,State Senate,1,REP,Ted Gaines,766
+Lassen,CP12,U.S. House,1,REP,Doug La Malfa,772
+Lassen,CP12,U.S. House,1,DEM,Jim Reed,175
+Lassen,CP12,U.S. Senate,,DEM,Kamala D. Harris,354
 Lassen,CP12,U.S. Senate,,DEM,Loretta L. Sanchez,297
-Lassen,CP13,President,,REP/AI,Donald J. Trump,491
+Lassen,CP13,President,,REP,Donald J. Trump,485
 Lassen,CP13,President,,LIB,Gary Johnson,27
-Lassen,CP13,President,,PF,Gloria Estela La Riva,0
-Lassen,CP13,President,,DEM,Hillary Clinton,119
-Lassen,CP13,President,,GRN,Jill Stein,0
-Lassen,CP13,President,,WI,Write-In,11
-Lassen,CP13,Proposition 51,,,No,430
-Lassen,CP13,Proposition 51,,,Yes,199
-Lassen,CP13,Proposition 52,,,No,352
-Lassen,CP13,Proposition 52,,,Yes,280
-Lassen,CP13,Proposition 53,,,No,273
-Lassen,CP13,Proposition 53,,,Yes,352
-Lassen,CP13,Proposition 54,,,No,230
-Lassen,CP13,Proposition 54,,,Yes,397
-Lassen,CP13,Proposition 55,,,No,378
-Lassen,CP13,Proposition 55,,,Yes,257
-Lassen,CP13,Proposition 56,,,No,413
-Lassen,CP13,Proposition 56,,,Yes,228
-Lassen,CP13,Proposition 57,,,No,464
-Lassen,CP13,Proposition 57,,,Yes,170
-Lassen,CP13,Proposition 58,,,No,294
-Lassen,CP13,Proposition 58,,,Yes,340
-Lassen,CP13,Proposition 59,,,No,405
-Lassen,CP13,Proposition 59,,,Yes,212
-Lassen,CP13,Proposition 60,,,No,464
-Lassen,CP13,Proposition 60,,,Yes,149
-Lassen,CP13,Proposition 61,,,No,371
-Lassen,CP13,Proposition 61,,,Yes,242
-Lassen,CP13,Proposition 62,,,No,510
-Lassen,CP13,Proposition 62,,,Yes,126
-Lassen,CP13,Proposition 63,,,No,544
-Lassen,CP13,Proposition 63,,,Yes,98
-Lassen,CP13,Proposition 64,,,No,401
-Lassen,CP13,Proposition 64,,,Yes,243
-Lassen,CP13,Proposition 65,,,No,500
-Lassen,CP13,Proposition 65,,,Yes,133
-Lassen,CP13,Proposition 66,,,No,245
-Lassen,CP13,Proposition 66,,,Yes,373
-Lassen,CP13,Proposition 67,,,No,470
-Lassen,CP13,Proposition 67,,,Yes,171
-Lassen,CP13,U.S. Senate,,DEM,Kamala D. Harris,254
-Lassen,CP13,U.S. Senate,,DEM,Loretta L. Sanchez,181
-Lassen,CP16,President,,REP/AI,Donald J. Trump,322
+Lassen,CP13,President,,DEM,Hillary Clinton,114
+Lassen,CP13,Proposition 51,,,No,425
+Lassen,CP13,Proposition 51,,,Yes,193
+Lassen,CP13,Proposition 52,,,No,347
+Lassen,CP13,Proposition 52,,,Yes,274
+Lassen,CP13,Proposition 53,,,No,265
+Lassen,CP13,Proposition 53,,,Yes,349
+Lassen,CP13,Proposition 54,,,No,227
+Lassen,CP13,Proposition 54,,,Yes,389
+Lassen,CP13,Proposition 55,,,No,374
+Lassen,CP13,Proposition 55,,,Yes,250
+Lassen,CP13,Proposition 56,,,No,410
+Lassen,CP13,Proposition 56,,,Yes,220
+Lassen,CP13,Proposition 57,,,No,456
+Lassen,CP13,Proposition 57,,,Yes,167
+Lassen,CP13,Proposition 58,,,No,291
+Lassen,CP13,Proposition 58,,,Yes,332
+Lassen,CP13,Proposition 59,,,No,400
+Lassen,CP13,Proposition 59,,,Yes,206
+Lassen,CP13,Proposition 60,,,No,459
+Lassen,CP13,Proposition 60,,,Yes,143
+Lassen,CP13,Proposition 61,,,No,363
+Lassen,CP13,Proposition 61,,,Yes,239
+Lassen,CP13,Proposition 62,,,No,503
+Lassen,CP13,Proposition 62,,,Yes,122
+Lassen,CP13,Proposition 63,,,No,536
+Lassen,CP13,Proposition 63,,,Yes,95
+Lassen,CP13,Proposition 64,,,No,393
+Lassen,CP13,Proposition 64,,,Yes,240
+Lassen,CP13,Proposition 65,,,No,494
+Lassen,CP13,Proposition 65,,,Yes,128
+Lassen,CP13,Proposition 66,,,No,240
+Lassen,CP13,Proposition 66,,,Yes,367
+Lassen,CP13,Proposition 67,,,No,467
+Lassen,CP13,Proposition 67,,,Yes,163
+Lassen,CP13,State Assembly,1,REP,Brian Dahle,530
+Lassen,CP13,State Assembly,1,LIB,Donn Coenen,87
+Lassen,CP13,State Senate,1,DEM,Rob Rowen,111
+Lassen,CP13,State Senate,1,REP,Ted Gaines,488
+Lassen,CP13,U.S. House,1,REP,Doug La Malfa,486
+Lassen,CP13,U.S. House,1,DEM,Jim Reed,134
+Lassen,CP13,U.S. Senate,,DEM,Kamala D. Harris,249
+Lassen,CP13,U.S. Senate,,DEM,Loretta L. Sanchez,180
+Lassen,CP16,President,,REP,Donald J. Trump,322
 Lassen,CP16,President,,LIB,Gary Johnson,7
-Lassen,CP16,President,,PF,Gloria Estela La Riva,0
 Lassen,CP16,President,,DEM,Hillary Clinton,47
 Lassen,CP16,President,,GRN,Jill Stein,4
-Lassen,CP16,President,,WI,Write-In,9
 Lassen,CP16,Proposition 51,,,No,251
 Lassen,CP16,Proposition 51,,,Yes,123
 Lassen,CP16,Proposition 52,,,No,169
@@ -207,14 +223,19 @@ Lassen,CP16,Proposition 66,,,No,159
 Lassen,CP16,Proposition 66,,,Yes,188
 Lassen,CP16,Proposition 67,,,No,285
 Lassen,CP16,Proposition 67,,,Yes,82
+Lassen,CP16,State Assembly,1,REP,Brian Dahle,353
+Lassen,CP16,State Assembly,1,LIB,Donn Coenen,30
+Lassen,CP16,State Senate,1,DEM,Rob Rowen,50
+Lassen,CP16,State Senate,1,REP,Ted Gaines,312
+Lassen,CP16,U.S. House,1,REP,Doug La Malfa,325
+Lassen,CP16,U.S. House,1,DEM,Jim Reed,55
 Lassen,CP16,U.S. Senate,,DEM,Kamala D. Harris,117
 Lassen,CP16,U.S. Senate,,DEM,Loretta L. Sanchez,136
-Lassen,CP18,President,,REP/AI,Donald J. Trump,543
+Lassen,CP18,President,,REP,Donald J. Trump,543
 Lassen,CP18,President,,LIB,Gary Johnson,23
-Lassen,CP18,President,,PF,Gloria Estela La Riva,3
+Lassen,CP18,President,,PAF,Gloria Estela La Riva,3
 Lassen,CP18,President,,DEM,Hillary Clinton,160
 Lassen,CP18,President,,GRN,Jill Stein,10
-Lassen,CP18,President,,WI,Write-In,16
 Lassen,CP18,Proposition 51,,,No,404
 Lassen,CP18,Proposition 51,,,Yes,336
 Lassen,CP18,Proposition 52,,,No,342
@@ -249,14 +270,19 @@ Lassen,CP18,Proposition 66,,,No,275
 Lassen,CP18,Proposition 66,,,Yes,446
 Lassen,CP18,Proposition 67,,,No,522
 Lassen,CP18,Proposition 67,,,Yes,222
+Lassen,CP18,State Assembly,1,REP,Brian Dahle,624
+Lassen,CP18,State Assembly,1,LIB,Donn Coenen,89
+Lassen,CP18,State Senate,1,DEM,Rob Rowen,154
+Lassen,CP18,State Senate,1,REP,Ted Gaines,561
+Lassen,CP18,U.S. House,1,REP,Doug La Malfa,568
+Lassen,CP18,U.S. House,1,DEM,Jim Reed,160
 Lassen,CP18,U.S. Senate,,DEM,Kamala D. Harris,279
 Lassen,CP18,U.S. Senate,,DEM,Loretta L. Sanchez,265
-Lassen,CP19,President,,REP/AI,Donald J. Trump,338
+Lassen,CP19,President,,REP,Donald J. Trump,338
 Lassen,CP19,President,,LIB,Gary Johnson,22
-Lassen,CP19,President,,PF,Gloria Estela La Riva,1
+Lassen,CP19,President,,PAF,Gloria Estela La Riva,1
 Lassen,CP19,President,,DEM,Hillary Clinton,108
 Lassen,CP19,President,,GRN,Jill Stein,2
-Lassen,CP19,President,,WI,Write-In,12
 Lassen,CP19,Proposition 51,,,No,288
 Lassen,CP19,Proposition 51,,,Yes,175
 Lassen,CP19,Proposition 52,,,No,220
@@ -291,14 +317,19 @@ Lassen,CP19,Proposition 66,,,No,188
 Lassen,CP19,Proposition 66,,,Yes,270
 Lassen,CP19,Proposition 67,,,No,330
 Lassen,CP19,Proposition 67,,,Yes,141
+Lassen,CP19,State Assembly,1,REP,Brian Dahle,408
+Lassen,CP19,State Assembly,1,LIB,Donn Coenen,55
+Lassen,CP19,State Senate,1,DEM,Rob Rowen,97
+Lassen,CP19,State Senate,1,REP,Ted Gaines,365
+Lassen,CP19,U.S. House,1,REP,Doug La Malfa,359
+Lassen,CP19,U.S. House,1,DEM,Jim Reed,111
 Lassen,CP19,U.S. Senate,,DEM,Kamala D. Harris,215
 Lassen,CP19,U.S. Senate,,DEM,Loretta L. Sanchez,128
-Lassen,CP20,President,,REP/AI,Donald J. Trump,312
+Lassen,CP20,President,,REP,Donald J. Trump,312
 Lassen,CP20,President,,LIB,Gary Johnson,10
-Lassen,CP20,President,,PF,Gloria Estela La Riva,1
+Lassen,CP20,President,,PAF,Gloria Estela La Riva,1
 Lassen,CP20,President,,DEM,Hillary Clinton,46
 Lassen,CP20,President,,GRN,Jill Stein,2
-Lassen,CP20,President,,WI,Write-In,4
 Lassen,CP20,Proposition 51,,,No,261
 Lassen,CP20,Proposition 51,,,Yes,114
 Lassen,CP20,Proposition 52,,,No,197
@@ -333,14 +364,19 @@ Lassen,CP20,Proposition 66,,,No,146
 Lassen,CP20,Proposition 66,,,Yes,223
 Lassen,CP20,Proposition 67,,,No,290
 Lassen,CP20,Proposition 67,,,Yes,85
+Lassen,CP20,State Assembly,1,REP,Brian Dahle,338
+Lassen,CP20,State Assembly,1,LIB,Donn Coenen,34
+Lassen,CP20,State Senate,1,DEM,Rob Rowen,54
+Lassen,CP20,State Senate,1,REP,Ted Gaines,307
+Lassen,CP20,U.S. House,1,REP,Doug La Malfa,323
+Lassen,CP20,U.S. House,1,DEM,Jim Reed,50
 Lassen,CP20,U.S. Senate,,DEM,Kamala D. Harris,152
 Lassen,CP20,U.S. Senate,,DEM,Loretta L. Sanchez,102
-Lassen,CP21,President,,REP/AI,Donald J. Trump,170
+Lassen,CP21,President,,REP,Donald J. Trump,170
 Lassen,CP21,President,,LIB,Gary Johnson,12
-Lassen,CP21,President,,PF,Gloria Estela La Riva,1
+Lassen,CP21,President,,PAF,Gloria Estela La Riva,1
 Lassen,CP21,President,,DEM,Hillary Clinton,46
 Lassen,CP21,President,,GRN,Jill Stein,5
-Lassen,CP21,President,,WI,Write-In,3
 Lassen,CP21,Proposition 51,,,No,129
 Lassen,CP21,Proposition 51,,,Yes,105
 Lassen,CP21,Proposition 52,,,No,99
@@ -375,14 +411,19 @@ Lassen,CP21,Proposition 66,,,No,85
 Lassen,CP21,Proposition 66,,,Yes,145
 Lassen,CP21,Proposition 67,,,No,178
 Lassen,CP21,Proposition 67,,,Yes,55
+Lassen,CP21,State Assembly,1,REP,Brian Dahle,195
+Lassen,CP21,State Assembly,1,LIB,Donn Coenen,34
+Lassen,CP21,State Senate,1,DEM,Rob Rowen,49
+Lassen,CP21,State Senate,1,REP,Ted Gaines,175
+Lassen,CP21,U.S. House,1,REP,Doug La Malfa,177
+Lassen,CP21,U.S. House,1,DEM,Jim Reed,54
 Lassen,CP21,U.S. Senate,,DEM,Kamala D. Harris,95
 Lassen,CP21,U.S. Senate,,DEM,Loretta L. Sanchez,80
-Lassen,CP23,President,,REP/AI,Donald J. Trump,278
+Lassen,CP23,President,,REP,Donald J. Trump,278
 Lassen,CP23,President,,LIB,Gary Johnson,19
-Lassen,CP23,President,,PF,Gloria Estela La Riva,2
+Lassen,CP23,President,,PAF,Gloria Estela La Riva,2
 Lassen,CP23,President,,DEM,Hillary Clinton,60
 Lassen,CP23,President,,GRN,Jill Stein,6
-Lassen,CP23,President,,WI,Write-In,8
 Lassen,CP23,Proposition 51,,,No,243
 Lassen,CP23,Proposition 51,,,Yes,116
 Lassen,CP23,Proposition 52,,,No,189
@@ -417,14 +458,18 @@ Lassen,CP23,Proposition 66,,,No,157
 Lassen,CP23,Proposition 66,,,Yes,200
 Lassen,CP23,Proposition 67,,,No,283
 Lassen,CP23,Proposition 67,,,Yes,76
+Lassen,CP23,State Assembly,1,REP,Brian Dahle,301
+Lassen,CP23,State Assembly,1,LIB,Donn Coenen,56
+Lassen,CP23,State Senate,1,DEM,Rob Rowen,74
+Lassen,CP23,State Senate,1,REP,Ted Gaines,280
+Lassen,CP23,U.S. House,1,REP,Doug La Malfa,277
+Lassen,CP23,U.S. House,1,DEM,Jim Reed,88
 Lassen,CP23,U.S. Senate,,DEM,Kamala D. Harris,152
 Lassen,CP23,U.S. Senate,,DEM,Loretta L. Sanchez,116
-Lassen,CP4,President,,REP/AI,Donald J. Trump,555
+Lassen,CP4,President,,REP,Donald J. Trump,555
 Lassen,CP4,President,,LIB,Gary Johnson,20
-Lassen,CP4,President,,PF,Gloria Estela La Riva,0
 Lassen,CP4,President,,DEM,Hillary Clinton,116
 Lassen,CP4,President,,GRN,Jill Stein,3
-Lassen,CP4,President,,WI,Write-In,25
 Lassen,CP4,Proposition 51,,,No,480
 Lassen,CP4,Proposition 51,,,Yes,233
 Lassen,CP4,Proposition 52,,,No,369
@@ -459,14 +504,19 @@ Lassen,CP4,Proposition 66,,,No,251
 Lassen,CP4,Proposition 66,,,Yes,442
 Lassen,CP4,Proposition 67,,,No,531
 Lassen,CP4,Proposition 67,,,Yes,192
+Lassen,CP4,State Assembly,1,REP,Brian Dahle,648
+Lassen,CP4,State Assembly,1,LIB,Donn Coenen,50
+Lassen,CP4,State Senate,1,DEM,Rob Rowen,106
+Lassen,CP4,State Senate,1,REP,Ted Gaines,586
+Lassen,CP4,U.S. House,1,REP,Doug La Malfa,593
+Lassen,CP4,U.S. House,1,DEM,Jim Reed,114
 Lassen,CP4,U.S. Senate,,DEM,Kamala D. Harris,289
 Lassen,CP4,U.S. Senate,,DEM,Loretta L. Sanchez,202
-Lassen,CP5,President,,REP/AI,Donald J. Trump,244
+Lassen,CP5,President,,REP,Donald J. Trump,244
 Lassen,CP5,President,,LIB,Gary Johnson,14
-Lassen,CP5,President,,PF,Gloria Estela La Riva,1
+Lassen,CP5,President,,PAF,Gloria Estela La Riva,1
 Lassen,CP5,President,,DEM,Hillary Clinton,58
 Lassen,CP5,President,,GRN,Jill Stein,1
-Lassen,CP5,President,,WI,Write-In,7
 Lassen,CP5,Proposition 51,,,No,206
 Lassen,CP5,Proposition 51,,,Yes,108
 Lassen,CP5,Proposition 52,,,No,175
@@ -501,14 +551,19 @@ Lassen,CP5,Proposition 66,,,No,107
 Lassen,CP5,Proposition 66,,,Yes,203
 Lassen,CP5,Proposition 67,,,No,226
 Lassen,CP5,Proposition 67,,,Yes,93
+Lassen,CP5,State Assembly,1,REP,Brian Dahle,281
+Lassen,CP5,State Assembly,1,LIB,Donn Coenen,29
+Lassen,CP5,State Senate,1,DEM,Rob Rowen,58
+Lassen,CP5,State Senate,1,REP,Ted Gaines,250
+Lassen,CP5,U.S. House,1,REP,Doug La Malfa,251
+Lassen,CP5,U.S. House,1,DEM,Jim Reed,63
 Lassen,CP5,U.S. Senate,,DEM,Kamala D. Harris,112
 Lassen,CP5,U.S. Senate,,DEM,Loretta L. Sanchez,99
-Lassen,CP7,President,,REP/AI,Donald J. Trump,141
+Lassen,CP7,President,,REP,Donald J. Trump,141
 Lassen,CP7,President,,LIB,Gary Johnson,17
-Lassen,CP7,President,,PF,Gloria Estela La Riva,1
+Lassen,CP7,President,,PAF,Gloria Estela La Riva,1
 Lassen,CP7,President,,DEM,Hillary Clinton,48
 Lassen,CP7,President,,GRN,Jill Stein,2
-Lassen,CP7,President,,WI,Write-In,10
 Lassen,CP7,Proposition 51,,,No,128
 Lassen,CP7,Proposition 51,,,Yes,87
 Lassen,CP7,Proposition 52,,,No,97
@@ -543,14 +598,18 @@ Lassen,CP7,Proposition 66,,,No,81
 Lassen,CP7,Proposition 66,,,Yes,127
 Lassen,CP7,Proposition 67,,,No,149
 Lassen,CP7,Proposition 67,,,Yes,66
+Lassen,CP7,State Assembly,1,REP,Brian Dahle,184
+Lassen,CP7,State Assembly,1,LIB,Donn Coenen,26
+Lassen,CP7,State Senate,1,DEM,Rob Rowen,56
+Lassen,CP7,State Senate,1,REP,Ted Gaines,151
+Lassen,CP7,U.S. House,1,REP,Doug La Malfa,162
+Lassen,CP7,U.S. House,1,DEM,Jim Reed,52
 Lassen,CP7,U.S. Senate,,DEM,Kamala D. Harris,85
 Lassen,CP7,U.S. Senate,,DEM,Loretta L. Sanchez,67
-Lassen,CP9,President,,REP/AI,Donald J. Trump,163
+Lassen,CP9,President,,REP,Donald J. Trump,163
 Lassen,CP9,President,,LIB,Gary Johnson,19
-Lassen,CP9,President,,PF,Gloria Estela La Riva,0
 Lassen,CP9,President,,DEM,Hillary Clinton,59
 Lassen,CP9,President,,GRN,Jill Stein,1
-Lassen,CP9,President,,WI,Write-In,7
 Lassen,CP9,Proposition 51,,,No,133
 Lassen,CP9,Proposition 51,,,Yes,104
 Lassen,CP9,Proposition 52,,,No,113
@@ -585,14 +644,19 @@ Lassen,CP9,Proposition 66,,,No,92
 Lassen,CP9,Proposition 66,,,Yes,138
 Lassen,CP9,Proposition 67,,,No,167
 Lassen,CP9,Proposition 67,,,Yes,71
+Lassen,CP9,State Assembly,1,REP,Brian Dahle,194
+Lassen,CP9,State Assembly,1,LIB,Donn Coenen,39
+Lassen,CP9,State Senate,1,DEM,Rob Rowen,59
+Lassen,CP9,State Senate,1,REP,Ted Gaines,169
+Lassen,CP9,U.S. House,1,REP,Doug La Malfa,166
+Lassen,CP9,U.S. House,1,DEM,Jim Reed,67
 Lassen,CP9,U.S. Senate,,DEM,Kamala D. Harris,98
 Lassen,CP9,U.S. Senate,,DEM,Loretta L. Sanchez,84
-Lassen,MB10,President,,REP/AI,Donald J. Trump,91
+Lassen,MB10,President,,REP,Donald J. Trump,91
 Lassen,MB10,President,,LIB,Gary Johnson,8
-Lassen,MB10,President,,PF,Gloria Estela La Riva,2
+Lassen,MB10,President,,PAF,Gloria Estela La Riva,2
 Lassen,MB10,President,,DEM,Hillary Clinton,38
 Lassen,MB10,President,,GRN,Jill Stein,5
-Lassen,MB10,President,,WI,Write-In,3
 Lassen,MB10,Proposition 51,,,No,66
 Lassen,MB10,Proposition 51,,,Yes,79
 Lassen,MB10,Proposition 52,,,No,57
@@ -627,14 +691,17 @@ Lassen,MB10,Proposition 66,,,No,56
 Lassen,MB10,Proposition 66,,,Yes,83
 Lassen,MB10,Proposition 67,,,No,95
 Lassen,MB10,Proposition 67,,,Yes,50
+Lassen,MB10,State Assembly,1,REP,Brian Dahle,113
+Lassen,MB10,State Assembly,1,LIB,Donn Coenen,28
+Lassen,MB10,State Senate,1,DEM,Rob Rowen,41
+Lassen,MB10,State Senate,1,REP,Ted Gaines,97
+Lassen,MB10,U.S. House,1,REP,Doug La Malfa,94
+Lassen,MB10,U.S. House,1,DEM,Jim Reed,49
 Lassen,MB10,U.S. Senate,,DEM,Kamala D. Harris,73
 Lassen,MB10,U.S. Senate,,DEM,Loretta L. Sanchez,42
-Lassen,MB14,President,,REP/AI,Donald J. Trump,106
+Lassen,MB14,President,,REP,Donald J. Trump,106
 Lassen,MB14,President,,LIB,Gary Johnson,8
-Lassen,MB14,President,,PF,Gloria Estela La Riva,0
 Lassen,MB14,President,,DEM,Hillary Clinton,36
-Lassen,MB14,President,,GRN,Jill Stein,0
-Lassen,MB14,President,,WI,Write-In,3
 Lassen,MB14,Proposition 51,,,No,82
 Lassen,MB14,Proposition 51,,,Yes,65
 Lassen,MB14,Proposition 52,,,No,61
@@ -669,14 +736,17 @@ Lassen,MB14,Proposition 66,,,No,59
 Lassen,MB14,Proposition 66,,,Yes,87
 Lassen,MB14,Proposition 67,,,No,104
 Lassen,MB14,Proposition 67,,,Yes,45
+Lassen,MB14,State Assembly,1,REP,Brian Dahle,117
+Lassen,MB14,State Assembly,1,LIB,Donn Coenen,25
+Lassen,MB14,State Senate,1,DEM,Rob Rowen,33
+Lassen,MB14,State Senate,1,REP,Ted Gaines,108
+Lassen,MB14,U.S. House,1,REP,Doug La Malfa,107
+Lassen,MB14,U.S. House,1,DEM,Jim Reed,39
 Lassen,MB14,U.S. Senate,,DEM,Kamala D. Harris,58
 Lassen,MB14,U.S. Senate,,DEM,Loretta L. Sanchez,46
-Lassen,MB15,President,,REP/AI,Donald J. Trump,137
+Lassen,MB15,President,,REP,Donald J. Trump,137
 Lassen,MB15,President,,LIB,Gary Johnson,10
-Lassen,MB15,President,,PF,Gloria Estela La Riva,0
 Lassen,MB15,President,,DEM,Hillary Clinton,34
-Lassen,MB15,President,,GRN,Jill Stein,0
-Lassen,MB15,President,,WI,Write-In,3
 Lassen,MB15,Proposition 51,,,No,137
 Lassen,MB15,Proposition 51,,,Yes,40
 Lassen,MB15,Proposition 52,,,No,91
@@ -711,14 +781,19 @@ Lassen,MB15,Proposition 66,,,No,69
 Lassen,MB15,Proposition 66,,,Yes,109
 Lassen,MB15,Proposition 67,,,No,142
 Lassen,MB15,Proposition 67,,,Yes,38
+Lassen,MB15,State Assembly,1,REP,Brian Dahle,154
+Lassen,MB15,State Assembly,1,LIB,Donn Coenen,17
+Lassen,MB15,State Senate,1,DEM,Rob Rowen,27
+Lassen,MB15,State Senate,1,REP,Ted Gaines,146
+Lassen,MB15,U.S. House,1,REP,Doug La Malfa,150
+Lassen,MB15,U.S. House,1,DEM,Jim Reed,31
 Lassen,MB15,U.S. Senate,,DEM,Kamala D. Harris,55
 Lassen,MB15,U.S. Senate,,DEM,Loretta L. Sanchez,58
-Lassen,MB17,President,,REP/AI,Donald J. Trump,144
+Lassen,MB17,President,,REP,Donald J. Trump,144
 Lassen,MB17,President,,LIB,Gary Johnson,11
-Lassen,MB17,President,,PF,Gloria Estela La Riva,1
+Lassen,MB17,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB17,President,,DEM,Hillary Clinton,31
 Lassen,MB17,President,,GRN,Jill Stein,1
-Lassen,MB17,President,,WI,Write-In,4
 Lassen,MB17,Proposition 51,,,No,136
 Lassen,MB17,Proposition 51,,,Yes,49
 Lassen,MB17,Proposition 52,,,No,97
@@ -753,14 +828,18 @@ Lassen,MB17,Proposition 66,,,No,76
 Lassen,MB17,Proposition 66,,,Yes,102
 Lassen,MB17,Proposition 67,,,No,130
 Lassen,MB17,Proposition 67,,,Yes,55
+Lassen,MB17,State Assembly,1,REP,Brian Dahle,175
+Lassen,MB17,State Assembly,1,LIB,Donn Coenen,8
+Lassen,MB17,State Senate,1,DEM,Rob Rowen,30
+Lassen,MB17,State Senate,1,REP,Ted Gaines,150
+Lassen,MB17,U.S. House,1,REP,Doug La Malfa,152
+Lassen,MB17,U.S. House,1,DEM,Jim Reed,38
 Lassen,MB17,U.S. Senate,,DEM,Kamala D. Harris,47
 Lassen,MB17,U.S. Senate,,DEM,Loretta L. Sanchez,57
-Lassen,MB2,President,,REP/AI,Donald J. Trump,52
+Lassen,MB2,President,,REP,Donald J. Trump,52
 Lassen,MB2,President,,LIB,Gary Johnson,4
-Lassen,MB2,President,,PF,Gloria Estela La Riva,0
 Lassen,MB2,President,,DEM,Hillary Clinton,16
 Lassen,MB2,President,,GRN,Jill Stein,6
-Lassen,MB2,President,,WI,Write-In,3
 Lassen,MB2,Proposition 51,,,No,56
 Lassen,MB2,Proposition 51,,,Yes,24
 Lassen,MB2,Proposition 52,,,No,36
@@ -795,14 +874,19 @@ Lassen,MB2,Proposition 66,,,No,37
 Lassen,MB2,Proposition 66,,,Yes,43
 Lassen,MB2,Proposition 67,,,No,49
 Lassen,MB2,Proposition 67,,,Yes,32
+Lassen,MB2,State Assembly,1,REP,Brian Dahle,58
+Lassen,MB2,State Assembly,1,LIB,Donn Coenen,18
+Lassen,MB2,State Senate,1,DEM,Rob Rowen,24
+Lassen,MB2,State Senate,1,REP,Ted Gaines,53
+Lassen,MB2,U.S. House,1,REP,Doug La Malfa,54
+Lassen,MB2,U.S. House,1,DEM,Jim Reed,24
 Lassen,MB2,U.S. Senate,,DEM,Kamala D. Harris,32
 Lassen,MB2,U.S. Senate,,DEM,Loretta L. Sanchez,19
-Lassen,MB22,President,,REP/AI,Donald J. Trump,44
+Lassen,MB22,President,,REP,Donald J. Trump,44
 Lassen,MB22,President,,LIB,Gary Johnson,3
-Lassen,MB22,President,,PF,Gloria Estela La Riva,1
+Lassen,MB22,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB22,President,,DEM,Hillary Clinton,22
 Lassen,MB22,President,,GRN,Jill Stein,1
-Lassen,MB22,President,,WI,Write-In,0
 Lassen,MB22,Proposition 51,,,No,40
 Lassen,MB22,Proposition 51,,,Yes,30
 Lassen,MB22,Proposition 52,,,No,31
@@ -837,14 +921,17 @@ Lassen,MB22,Proposition 66,,,No,21
 Lassen,MB22,Proposition 66,,,Yes,43
 Lassen,MB22,Proposition 67,,,No,40
 Lassen,MB22,Proposition 67,,,Yes,29
+Lassen,MB22,State Assembly,1,REP,Brian Dahle,58
+Lassen,MB22,State Assembly,1,LIB,Donn Coenen,10
+Lassen,MB22,State Senate,1,DEM,Rob Rowen,19
+Lassen,MB22,State Senate,1,REP,Ted Gaines,49
+Lassen,MB22,U.S. House,1,REP,Doug La Malfa,50
+Lassen,MB22,U.S. House,1,DEM,Jim Reed,20
 Lassen,MB22,U.S. Senate,,DEM,Kamala D. Harris,26
 Lassen,MB22,U.S. Senate,,DEM,Loretta L. Sanchez,22
-Lassen,MB24,President,,REP/AI,Donald J. Trump,26
+Lassen,MB24,President,,REP,Donald J. Trump,26
 Lassen,MB24,President,,LIB,Gary Johnson,1
-Lassen,MB24,President,,PF,Gloria Estela La Riva,0
 Lassen,MB24,President,,DEM,Hillary Clinton,8
-Lassen,MB24,President,,GRN,Jill Stein,0
-Lassen,MB24,President,,WI,Write-In,0
 Lassen,MB24,Proposition 51,,,No,25
 Lassen,MB24,Proposition 51,,,Yes,10
 Lassen,MB24,Proposition 52,,,No,18
@@ -879,14 +966,17 @@ Lassen,MB24,Proposition 66,,,No,14
 Lassen,MB24,Proposition 66,,,Yes,21
 Lassen,MB24,Proposition 67,,,No,31
 Lassen,MB24,Proposition 67,,,Yes,4
+Lassen,MB24,State Assembly,1,REP,Brian Dahle,27
+Lassen,MB24,State Assembly,1,LIB,Donn Coenen,6
+Lassen,MB24,State Senate,1,DEM,Rob Rowen,7
+Lassen,MB24,State Senate,1,REP,Ted Gaines,27
+Lassen,MB24,U.S. House,1,REP,Doug La Malfa,27
+Lassen,MB24,U.S. House,1,DEM,Jim Reed,6
 Lassen,MB24,U.S. Senate,,DEM,Kamala D. Harris,15
 Lassen,MB24,U.S. Senate,,DEM,Loretta L. Sanchez,12
-Lassen,MB25,President,,REP/AI,Donald J. Trump,29
-Lassen,MB25,President,,LIB,Gary Johnson,0
-Lassen,MB25,President,,PF,Gloria Estela La Riva,0
+Lassen,MB25,President,,REP,Donald J. Trump,29
 Lassen,MB25,President,,DEM,Hillary Clinton,8
 Lassen,MB25,President,,GRN,Jill Stein,3
-Lassen,MB25,President,,WI,Write-In,2
 Lassen,MB25,Proposition 51,,,No,30
 Lassen,MB25,Proposition 51,,,Yes,11
 Lassen,MB25,Proposition 52,,,No,20
@@ -921,14 +1011,17 @@ Lassen,MB25,Proposition 66,,,No,13
 Lassen,MB25,Proposition 66,,,Yes,28
 Lassen,MB25,Proposition 67,,,No,39
 Lassen,MB25,Proposition 67,,,Yes,2
+Lassen,MB25,State Assembly,1,REP,Brian Dahle,37
+Lassen,MB25,State Assembly,1,LIB,Donn Coenen,4
+Lassen,MB25,State Senate,1,DEM,Rob Rowen,6
+Lassen,MB25,State Senate,1,REP,Ted Gaines,33
+Lassen,MB25,U.S. House,1,REP,Doug La Malfa,30
+Lassen,MB25,U.S. House,1,DEM,Jim Reed,11
 Lassen,MB25,U.S. Senate,,DEM,Kamala D. Harris,17
 Lassen,MB25,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Lassen,MB26,President,,REP/AI,Donald J. Trump,48
+Lassen,MB26,President,,REP,Donald J. Trump,48
 Lassen,MB26,President,,LIB,Gary Johnson,5
-Lassen,MB26,President,,PF,Gloria Estela La Riva,0
 Lassen,MB26,President,,DEM,Hillary Clinton,20
-Lassen,MB26,President,,GRN,Jill Stein,0
-Lassen,MB26,President,,WI,Write-In,2
 Lassen,MB26,Proposition 51,,,No,55
 Lassen,MB26,Proposition 51,,,Yes,20
 Lassen,MB26,Proposition 52,,,No,39
@@ -963,14 +1056,18 @@ Lassen,MB26,Proposition 66,,,No,37
 Lassen,MB26,Proposition 66,,,Yes,31
 Lassen,MB26,Proposition 67,,,No,57
 Lassen,MB26,Proposition 67,,,Yes,17
+Lassen,MB26,State Assembly,1,REP,Brian Dahle,68
+Lassen,MB26,State Assembly,1,LIB,Donn Coenen,6
+Lassen,MB26,State Senate,1,DEM,Rob Rowen,20
+Lassen,MB26,State Senate,1,REP,Ted Gaines,53
+Lassen,MB26,U.S. House,1,REP,Doug La Malfa,53
+Lassen,MB26,U.S. House,1,DEM,Jim Reed,21
 Lassen,MB26,U.S. Senate,,DEM,Kamala D. Harris,20
 Lassen,MB26,U.S. Senate,,DEM,Loretta L. Sanchez,28
-Lassen,MB27,President,,REP/AI,Donald J. Trump,8
+Lassen,MB27,President,,REP,Donald J. Trump,8
 Lassen,MB27,President,,LIB,Gary Johnson,1
-Lassen,MB27,President,,PF,Gloria Estela La Riva,0
 Lassen,MB27,President,,DEM,Hillary Clinton,22
 Lassen,MB27,President,,GRN,Jill Stein,1
-Lassen,MB27,President,,WI,Write-In,2
 Lassen,MB27,Proposition 51,,,No,11
 Lassen,MB27,Proposition 51,,,Yes,23
 Lassen,MB27,Proposition 52,,,No,8
@@ -1005,14 +1102,18 @@ Lassen,MB27,Proposition 66,,,No,21
 Lassen,MB27,Proposition 66,,,Yes,11
 Lassen,MB27,Proposition 67,,,No,12
 Lassen,MB27,Proposition 67,,,Yes,22
+Lassen,MB27,State Assembly,1,REP,Brian Dahle,16
+Lassen,MB27,State Assembly,1,LIB,Donn Coenen,17
+Lassen,MB27,State Senate,1,DEM,Rob Rowen,22
+Lassen,MB27,State Senate,1,REP,Ted Gaines,10
+Lassen,MB27,U.S. House,1,REP,Doug La Malfa,15
+Lassen,MB27,U.S. House,1,DEM,Jim Reed,19
 Lassen,MB27,U.S. Senate,,DEM,Kamala D. Harris,16
 Lassen,MB27,U.S. Senate,,DEM,Loretta L. Sanchez,13
-Lassen,MB28,President,,REP/AI,Donald J. Trump,36
+Lassen,MB28,President,,REP,Donald J. Trump,36
 Lassen,MB28,President,,LIB,Gary Johnson,2
-Lassen,MB28,President,,PF,Gloria Estela La Riva,1
+Lassen,MB28,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB28,President,,DEM,Hillary Clinton,10
-Lassen,MB28,President,,GRN,Jill Stein,0
-Lassen,MB28,President,,WI,Write-In,2
 Lassen,MB28,Proposition 51,,,No,33
 Lassen,MB28,Proposition 51,,,Yes,18
 Lassen,MB28,Proposition 52,,,No,22
@@ -1047,14 +1148,16 @@ Lassen,MB28,Proposition 66,,,No,24
 Lassen,MB28,Proposition 66,,,Yes,24
 Lassen,MB28,Proposition 67,,,No,42
 Lassen,MB28,Proposition 67,,,Yes,9
+Lassen,MB28,State Assembly,1,REP,Brian Dahle,43
+Lassen,MB28,State Assembly,1,LIB,Donn Coenen,5
+Lassen,MB28,State Senate,1,DEM,Rob Rowen,7
+Lassen,MB28,State Senate,1,REP,Ted Gaines,40
+Lassen,MB28,U.S. House,1,REP,Doug La Malfa,39
+Lassen,MB28,U.S. House,1,DEM,Jim Reed,10
 Lassen,MB28,U.S. Senate,,DEM,Kamala D. Harris,17
 Lassen,MB28,U.S. Senate,,DEM,Loretta L. Sanchez,20
-Lassen,MB29,President,,REP/AI,Donald J. Trump,20
-Lassen,MB29,President,,LIB,Gary Johnson,0
-Lassen,MB29,President,,PF,Gloria Estela La Riva,0
+Lassen,MB29,President,,REP,Donald J. Trump,20
 Lassen,MB29,President,,DEM,Hillary Clinton,2
-Lassen,MB29,President,,GRN,Jill Stein,0
-Lassen,MB29,President,,WI,Write-In,0
 Lassen,MB29,Proposition 51,,,No,14
 Lassen,MB29,Proposition 51,,,Yes,8
 Lassen,MB29,Proposition 52,,,No,17
@@ -1084,19 +1187,23 @@ Lassen,MB29,Proposition 63,,,Yes,3
 Lassen,MB29,Proposition 64,,,No,13
 Lassen,MB29,Proposition 64,,,Yes,9
 Lassen,MB29,Proposition 65,,,No,22
-Lassen,MB29,Proposition 65,,,Yes,0
 Lassen,MB29,Proposition 66,,,No,8
 Lassen,MB29,Proposition 66,,,Yes,14
 Lassen,MB29,Proposition 67,,,No,19
 Lassen,MB29,Proposition 67,,,Yes,3
+Lassen,MB29,State Assembly,1,REP,Brian Dahle,19
+Lassen,MB29,State Assembly,1,LIB,Donn Coenen,3
+Lassen,MB29,State Senate,1,DEM,Rob Rowen,3
+Lassen,MB29,State Senate,1,REP,Ted Gaines,19
+Lassen,MB29,U.S. House,1,REP,Doug La Malfa,20
+Lassen,MB29,U.S. House,1,DEM,Jim Reed,2
 Lassen,MB29,U.S. Senate,,DEM,Kamala D. Harris,9
 Lassen,MB29,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Lassen,MB3,President,,REP/AI,Donald J. Trump,151
+Lassen,MB3,President,,REP,Donald J. Trump,151
 Lassen,MB3,President,,LIB,Gary Johnson,8
-Lassen,MB3,President,,PF,Gloria Estela La Riva,1
+Lassen,MB3,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB3,President,,DEM,Hillary Clinton,44
 Lassen,MB3,President,,GRN,Jill Stein,1
-Lassen,MB3,President,,WI,Write-In,8
 Lassen,MB3,Proposition 51,,,No,133
 Lassen,MB3,Proposition 51,,,Yes,75
 Lassen,MB3,Proposition 52,,,No,104
@@ -1131,14 +1238,17 @@ Lassen,MB3,Proposition 66,,,No,82
 Lassen,MB3,Proposition 66,,,Yes,122
 Lassen,MB3,Proposition 67,,,No,144
 Lassen,MB3,Proposition 67,,,Yes,66
+Lassen,MB3,State Assembly,1,REP,Brian Dahle,186
+Lassen,MB3,State Assembly,1,LIB,Donn Coenen,19
+Lassen,MB3,State Senate,1,DEM,Rob Rowen,48
+Lassen,MB3,State Senate,1,REP,Ted Gaines,157
+Lassen,MB3,U.S. House,1,REP,Doug La Malfa,159
+Lassen,MB3,U.S. House,1,DEM,Jim Reed,50
 Lassen,MB3,U.S. Senate,,DEM,Kamala D. Harris,69
 Lassen,MB3,U.S. Senate,,DEM,Loretta L. Sanchez,68
-Lassen,MB30,President,,REP/AI,Donald J. Trump,47
+Lassen,MB30,President,,REP,Donald J. Trump,47
 Lassen,MB30,President,,LIB,Gary Johnson,7
-Lassen,MB30,President,,PF,Gloria Estela La Riva,0
 Lassen,MB30,President,,DEM,Hillary Clinton,1
-Lassen,MB30,President,,GRN,Jill Stein,0
-Lassen,MB30,President,,WI,Write-In,1
 Lassen,MB30,Proposition 51,,,No,43
 Lassen,MB30,Proposition 51,,,Yes,11
 Lassen,MB30,Proposition 52,,,No,37
@@ -1173,40 +1283,32 @@ Lassen,MB30,Proposition 66,,,No,18
 Lassen,MB30,Proposition 66,,,Yes,36
 Lassen,MB30,Proposition 67,,,No,41
 Lassen,MB30,Proposition 67,,,Yes,12
+Lassen,MB30,State Assembly,1,REP,Brian Dahle,51
+Lassen,MB30,State Assembly,1,LIB,Donn Coenen,4
+Lassen,MB30,State Senate,1,DEM,Rob Rowen,2
+Lassen,MB30,State Senate,1,REP,Ted Gaines,53
+Lassen,MB30,U.S. House,1,REP,Doug La Malfa,52
+Lassen,MB30,U.S. House,1,DEM,Jim Reed,4
 Lassen,MB30,U.S. Senate,,DEM,Kamala D. Harris,12
 Lassen,MB30,U.S. Senate,,DEM,Loretta L. Sanchez,9
-Lassen,MB31,President,,REP/AI,Donald J. Trump,0
-Lassen,MB31,President,,LIB,Gary Johnson,0
-Lassen,MB31,President,,PF,Gloria Estela La Riva,0
-Lassen,MB31,President,,DEM,Hillary Clinton,0
-Lassen,MB31,President,,GRN,Jill Stein,0
-Lassen,MB31,President,,WI,Write-In,3
 Lassen,MB31,Proposition 51,,,No,1
 Lassen,MB31,Proposition 51,,,Yes,2
 Lassen,MB31,Proposition 52,,,No,3
-Lassen,MB31,Proposition 52,,,Yes,0
 Lassen,MB31,Proposition 53,,,No,1
 Lassen,MB31,Proposition 53,,,Yes,2
-Lassen,MB31,Proposition 54,,,No,0
 Lassen,MB31,Proposition 54,,,Yes,3
-Lassen,MB31,Proposition 55,,,No,0
 Lassen,MB31,Proposition 55,,,Yes,2
 Lassen,MB31,Proposition 56,,,No,1
 Lassen,MB31,Proposition 56,,,Yes,1
-Lassen,MB31,Proposition 57,,,No,0
 Lassen,MB31,Proposition 57,,,Yes,1
-Lassen,MB31,Proposition 58,,,No,0
 Lassen,MB31,Proposition 58,,,Yes,2
-Lassen,MB31,Proposition 59,,,No,0
 Lassen,MB31,Proposition 59,,,Yes,2
 Lassen,MB31,Proposition 60,,,No,1
 Lassen,MB31,Proposition 60,,,Yes,1
 Lassen,MB31,Proposition 61,,,No,1
 Lassen,MB31,Proposition 61,,,Yes,1
-Lassen,MB31,Proposition 62,,,No,0
 Lassen,MB31,Proposition 62,,,Yes,1
 Lassen,MB31,Proposition 63,,,No,2
-Lassen,MB31,Proposition 63,,,Yes,0
 Lassen,MB31,Proposition 64,,,No,1
 Lassen,MB31,Proposition 64,,,Yes,1
 Lassen,MB31,Proposition 65,,,No,1
@@ -1215,14 +1317,16 @@ Lassen,MB31,Proposition 66,,,No,1
 Lassen,MB31,Proposition 66,,,Yes,1
 Lassen,MB31,Proposition 67,,,No,1
 Lassen,MB31,Proposition 67,,,Yes,1
+Lassen,MB31,State Assembly,1,REP,Brian Dahle,1
+Lassen,MB31,State Assembly,1,LIB,Donn Coenen,1
+Lassen,MB31,State Senate,1,REP,Ted Gaines,2
+Lassen,MB31,U.S. House,1,REP,Doug La Malfa,2
 Lassen,MB31,U.S. Senate,,DEM,Kamala D. Harris,1
 Lassen,MB31,U.S. Senate,,DEM,Loretta L. Sanchez,1
-Lassen,MB32,President,,REP/AI,Donald J. Trump,61
+Lassen,MB32,President,,REP,Donald J. Trump,61
 Lassen,MB32,President,,LIB,Gary Johnson,6
-Lassen,MB32,President,,PF,Gloria Estela La Riva,0
 Lassen,MB32,President,,DEM,Hillary Clinton,15
 Lassen,MB32,President,,GRN,Jill Stein,1
-Lassen,MB32,President,,WI,Write-In,3
 Lassen,MB32,Proposition 51,,,No,54
 Lassen,MB32,Proposition 51,,,Yes,31
 Lassen,MB32,Proposition 52,,,No,46
@@ -1257,14 +1361,16 @@ Lassen,MB32,Proposition 66,,,No,32
 Lassen,MB32,Proposition 66,,,Yes,50
 Lassen,MB32,Proposition 67,,,No,59
 Lassen,MB32,Proposition 67,,,Yes,25
+Lassen,MB32,State Assembly,1,REP,Brian Dahle,71
+Lassen,MB32,State Assembly,1,LIB,Donn Coenen,12
+Lassen,MB32,State Senate,1,DEM,Rob Rowen,16
+Lassen,MB32,State Senate,1,REP,Ted Gaines,64
+Lassen,MB32,U.S. House,1,REP,Doug La Malfa,63
+Lassen,MB32,U.S. House,1,DEM,Jim Reed,22
 Lassen,MB32,U.S. Senate,,DEM,Kamala D. Harris,34
 Lassen,MB32,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Lassen,MB33,President,,REP/AI,Donald J. Trump,35
-Lassen,MB33,President,,LIB,Gary Johnson,0
-Lassen,MB33,President,,PF,Gloria Estela La Riva,0
+Lassen,MB33,President,,REP,Donald J. Trump,35
 Lassen,MB33,President,,DEM,Hillary Clinton,20
-Lassen,MB33,President,,GRN,Jill Stein,0
-Lassen,MB33,President,,WI,Write-In,1
 Lassen,MB33,Proposition 51,,,No,32
 Lassen,MB33,Proposition 51,,,Yes,24
 Lassen,MB33,Proposition 52,,,No,28
@@ -1299,14 +1405,17 @@ Lassen,MB33,Proposition 66,,,No,31
 Lassen,MB33,Proposition 66,,,Yes,23
 Lassen,MB33,Proposition 67,,,No,38
 Lassen,MB33,Proposition 67,,,Yes,19
+Lassen,MB33,State Assembly,1,REP,Brian Dahle,47
+Lassen,MB33,State Assembly,1,LIB,Donn Coenen,9
+Lassen,MB33,State Senate,1,DEM,Rob Rowen,13
+Lassen,MB33,State Senate,1,REP,Ted Gaines,37
+Lassen,MB33,U.S. House,1,REP,Doug La Malfa,39
+Lassen,MB33,U.S. House,1,DEM,Jim Reed,15
 Lassen,MB33,U.S. Senate,,DEM,Kamala D. Harris,23
 Lassen,MB33,U.S. Senate,,DEM,Loretta L. Sanchez,10
-Lassen,MB34,President,,REP/AI,Donald J. Trump,28
-Lassen,MB34,President,,LIB,Gary Johnson,0
-Lassen,MB34,President,,PF,Gloria Estela La Riva,0
+Lassen,MB34,President,,REP,Donald J. Trump,28
 Lassen,MB34,President,,DEM,Hillary Clinton,6
 Lassen,MB34,President,,GRN,Jill Stein,1
-Lassen,MB34,President,,WI,Write-In,1
 Lassen,MB34,Proposition 51,,,No,23
 Lassen,MB34,Proposition 51,,,Yes,12
 Lassen,MB34,Proposition 52,,,No,23
@@ -1341,56 +1450,18 @@ Lassen,MB34,Proposition 66,,,No,14
 Lassen,MB34,Proposition 66,,,Yes,20
 Lassen,MB34,Proposition 67,,,No,24
 Lassen,MB34,Proposition 67,,,Yes,11
+Lassen,MB34,State Assembly,1,REP,Brian Dahle,23
+Lassen,MB34,State Assembly,1,LIB,Donn Coenen,8
+Lassen,MB34,State Senate,1,DEM,Rob Rowen,7
+Lassen,MB34,State Senate,1,REP,Ted Gaines,25
+Lassen,MB34,U.S. House,1,REP,Doug La Malfa,26
+Lassen,MB34,U.S. House,1,DEM,Jim Reed,8
 Lassen,MB34,U.S. Senate,,DEM,Kamala D. Harris,20
 Lassen,MB34,U.S. Senate,,DEM,Loretta L. Sanchez,7
-Lassen,MB35,President,,REP/AI,Donald J. Trump,0
-Lassen,MB35,President,,LIB,Gary Johnson,0
-Lassen,MB35,President,,PF,Gloria Estela La Riva,0
-Lassen,MB35,President,,DEM,Hillary Clinton,0
-Lassen,MB35,President,,GRN,Jill Stein,0
-Lassen,MB35,President,,WI,Write-In,0
-Lassen,MB35,Proposition 51,,,No,0
-Lassen,MB35,Proposition 51,,,Yes,0
-Lassen,MB35,Proposition 52,,,No,0
-Lassen,MB35,Proposition 52,,,Yes,0
-Lassen,MB35,Proposition 53,,,No,0
-Lassen,MB35,Proposition 53,,,Yes,0
-Lassen,MB35,Proposition 54,,,No,0
-Lassen,MB35,Proposition 54,,,Yes,0
-Lassen,MB35,Proposition 55,,,No,0
-Lassen,MB35,Proposition 55,,,Yes,0
-Lassen,MB35,Proposition 56,,,No,0
-Lassen,MB35,Proposition 56,,,Yes,0
-Lassen,MB35,Proposition 57,,,No,0
-Lassen,MB35,Proposition 57,,,Yes,0
-Lassen,MB35,Proposition 58,,,No,0
-Lassen,MB35,Proposition 58,,,Yes,0
-Lassen,MB35,Proposition 59,,,No,0
-Lassen,MB35,Proposition 59,,,Yes,0
-Lassen,MB35,Proposition 60,,,No,0
-Lassen,MB35,Proposition 60,,,Yes,0
-Lassen,MB35,Proposition 61,,,No,0
-Lassen,MB35,Proposition 61,,,Yes,0
-Lassen,MB35,Proposition 62,,,No,0
-Lassen,MB35,Proposition 62,,,Yes,0
-Lassen,MB35,Proposition 63,,,No,0
-Lassen,MB35,Proposition 63,,,Yes,0
-Lassen,MB35,Proposition 64,,,No,0
-Lassen,MB35,Proposition 64,,,Yes,0
-Lassen,MB35,Proposition 65,,,No,0
-Lassen,MB35,Proposition 65,,,Yes,0
-Lassen,MB35,Proposition 66,,,No,0
-Lassen,MB35,Proposition 66,,,Yes,0
-Lassen,MB35,Proposition 67,,,No,0
-Lassen,MB35,Proposition 67,,,Yes,0
-Lassen,MB35,U.S. Senate,,DEM,Kamala D. Harris,0
-Lassen,MB35,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Lassen,MB36,President,,REP/AI,Donald J. Trump,61
+Lassen,MB36,President,,REP,Donald J. Trump,61
 Lassen,MB36,President,,LIB,Gary Johnson,1
-Lassen,MB36,President,,PF,Gloria Estela La Riva,0
 Lassen,MB36,President,,DEM,Hillary Clinton,33
 Lassen,MB36,President,,GRN,Jill Stein,2
-Lassen,MB36,President,,WI,Write-In,1
 Lassen,MB36,Proposition 51,,,No,56
 Lassen,MB36,Proposition 51,,,Yes,35
 Lassen,MB36,Proposition 52,,,No,38
@@ -1425,14 +1496,19 @@ Lassen,MB36,Proposition 66,,,No,47
 Lassen,MB36,Proposition 66,,,Yes,43
 Lassen,MB36,Proposition 67,,,No,66
 Lassen,MB36,Proposition 67,,,Yes,29
+Lassen,MB36,State Assembly,1,REP,Brian Dahle,72
+Lassen,MB36,State Assembly,1,LIB,Donn Coenen,20
+Lassen,MB36,State Senate,1,DEM,Rob Rowen,27
+Lassen,MB36,State Senate,1,REP,Ted Gaines,61
+Lassen,MB36,U.S. House,1,REP,Doug La Malfa,60
+Lassen,MB36,U.S. House,1,DEM,Jim Reed,33
 Lassen,MB36,U.S. Senate,,DEM,Kamala D. Harris,49
 Lassen,MB36,U.S. Senate,,DEM,Loretta L. Sanchez,30
-Lassen,MB37,President,,REP/AI,Donald J. Trump,105
+Lassen,MB37,President,,REP,Donald J. Trump,105
 Lassen,MB37,President,,LIB,Gary Johnson,8
-Lassen,MB37,President,,PF,Gloria Estela La Riva,1
+Lassen,MB37,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB37,President,,DEM,Hillary Clinton,36
 Lassen,MB37,President,,GRN,Jill Stein,2
-Lassen,MB37,President,,WI,Write-In,2
 Lassen,MB37,Proposition 51,,,No,87
 Lassen,MB37,Proposition 51,,,Yes,67
 Lassen,MB37,Proposition 52,,,No,66
@@ -1467,14 +1543,18 @@ Lassen,MB37,Proposition 66,,,No,68
 Lassen,MB37,Proposition 66,,,Yes,84
 Lassen,MB37,Proposition 67,,,No,110
 Lassen,MB37,Proposition 67,,,Yes,41
+Lassen,MB37,State Assembly,1,REP,Brian Dahle,124
+Lassen,MB37,State Assembly,1,LIB,Donn Coenen,23
+Lassen,MB37,State Senate,1,DEM,Rob Rowen,45
+Lassen,MB37,State Senate,1,REP,Ted Gaines,104
+Lassen,MB37,U.S. House,1,REP,Doug La Malfa,98
+Lassen,MB37,U.S. House,1,DEM,Jim Reed,54
 Lassen,MB37,U.S. Senate,,DEM,Kamala D. Harris,75
 Lassen,MB37,U.S. Senate,,DEM,Loretta L. Sanchez,44
-Lassen,MB38,President,,REP/AI,Donald J. Trump,36
-Lassen,MB38,President,,LIB,Gary Johnson,0
-Lassen,MB38,President,,PF,Gloria Estela La Riva,1
+Lassen,MB38,President,,REP,Donald J. Trump,36
+Lassen,MB38,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB38,President,,DEM,Hillary Clinton,11
 Lassen,MB38,President,,GRN,Jill Stein,1
-Lassen,MB38,President,,WI,Write-In,0
 Lassen,MB38,Proposition 51,,,No,27
 Lassen,MB38,Proposition 51,,,Yes,21
 Lassen,MB38,Proposition 52,,,No,20
@@ -1509,14 +1589,18 @@ Lassen,MB38,Proposition 66,,,No,24
 Lassen,MB38,Proposition 66,,,Yes,23
 Lassen,MB38,Proposition 67,,,No,39
 Lassen,MB38,Proposition 67,,,Yes,8
+Lassen,MB38,State Assembly,1,REP,Brian Dahle,37
+Lassen,MB38,State Assembly,1,LIB,Donn Coenen,10
+Lassen,MB38,State Senate,1,DEM,Rob Rowen,12
+Lassen,MB38,State Senate,1,REP,Ted Gaines,34
+Lassen,MB38,U.S. House,1,REP,Doug La Malfa,38
+Lassen,MB38,U.S. House,1,DEM,Jim Reed,9
 Lassen,MB38,U.S. Senate,,DEM,Kamala D. Harris,24
 Lassen,MB38,U.S. Senate,,DEM,Loretta L. Sanchez,18
-Lassen,MB39,President,,REP/AI,Donald J. Trump,97
+Lassen,MB39,President,,REP,Donald J. Trump,97
 Lassen,MB39,President,,LIB,Gary Johnson,4
-Lassen,MB39,President,,PF,Gloria Estela La Riva,0
 Lassen,MB39,President,,DEM,Hillary Clinton,18
 Lassen,MB39,President,,GRN,Jill Stein,1
-Lassen,MB39,President,,WI,Write-In,2
 Lassen,MB39,Proposition 51,,,No,85
 Lassen,MB39,Proposition 51,,,Yes,35
 Lassen,MB39,Proposition 52,,,No,54
@@ -1551,14 +1635,18 @@ Lassen,MB39,Proposition 66,,,No,47
 Lassen,MB39,Proposition 66,,,Yes,67
 Lassen,MB39,Proposition 67,,,No,89
 Lassen,MB39,Proposition 67,,,Yes,31
+Lassen,MB39,State Assembly,1,REP,Brian Dahle,108
+Lassen,MB39,State Assembly,1,LIB,Donn Coenen,12
+Lassen,MB39,State Senate,1,DEM,Rob Rowen,21
+Lassen,MB39,State Senate,1,REP,Ted Gaines,98
+Lassen,MB39,U.S. House,1,REP,Doug La Malfa,100
+Lassen,MB39,U.S. House,1,DEM,Jim Reed,21
 Lassen,MB39,U.S. Senate,,DEM,Kamala D. Harris,50
 Lassen,MB39,U.S. Senate,,DEM,Loretta L. Sanchez,46
-Lassen,MB40,President,,REP/AI,Donald J. Trump,59
+Lassen,MB40,President,,REP,Donald J. Trump,59
 Lassen,MB40,President,,LIB,Gary Johnson,2
-Lassen,MB40,President,,PF,Gloria Estela La Riva,1
+Lassen,MB40,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB40,President,,DEM,Hillary Clinton,17
-Lassen,MB40,President,,GRN,Jill Stein,0
-Lassen,MB40,President,,WI,Write-In,3
 Lassen,MB40,Proposition 51,,,No,59
 Lassen,MB40,Proposition 51,,,Yes,19
 Lassen,MB40,Proposition 52,,,No,37
@@ -1593,14 +1681,17 @@ Lassen,MB40,Proposition 66,,,No,28
 Lassen,MB40,Proposition 66,,,Yes,49
 Lassen,MB40,Proposition 67,,,No,63
 Lassen,MB40,Proposition 67,,,Yes,16
+Lassen,MB40,State Assembly,1,REP,Brian Dahle,71
+Lassen,MB40,State Assembly,1,LIB,Donn Coenen,9
+Lassen,MB40,State Senate,1,DEM,Rob Rowen,14
+Lassen,MB40,State Senate,1,REP,Ted Gaines,62
+Lassen,MB40,U.S. House,1,REP,Doug La Malfa,62
+Lassen,MB40,U.S. House,1,DEM,Jim Reed,15
 Lassen,MB40,U.S. Senate,,DEM,Kamala D. Harris,24
 Lassen,MB40,U.S. Senate,,DEM,Loretta L. Sanchez,27
-Lassen,MB41,President,,REP/AI,Donald J. Trump,103
+Lassen,MB41,President,,REP,Donald J. Trump,103
 Lassen,MB41,President,,LIB,Gary Johnson,8
-Lassen,MB41,President,,PF,Gloria Estela La Riva,0
 Lassen,MB41,President,,DEM,Hillary Clinton,18
-Lassen,MB41,President,,GRN,Jill Stein,0
-Lassen,MB41,President,,WI,Write-In,5
 Lassen,MB41,Proposition 51,,,No,96
 Lassen,MB41,Proposition 51,,,Yes,33
 Lassen,MB41,Proposition 52,,,No,75
@@ -1635,14 +1726,18 @@ Lassen,MB41,Proposition 66,,,No,36
 Lassen,MB41,Proposition 66,,,Yes,87
 Lassen,MB41,Proposition 67,,,No,97
 Lassen,MB41,Proposition 67,,,Yes,34
+Lassen,MB41,State Assembly,1,REP,Brian Dahle,109
+Lassen,MB41,State Assembly,1,LIB,Donn Coenen,20
+Lassen,MB41,State Senate,1,DEM,Rob Rowen,16
+Lassen,MB41,State Senate,1,REP,Ted Gaines,112
+Lassen,MB41,U.S. House,1,REP,Doug La Malfa,107
+Lassen,MB41,U.S. House,1,DEM,Jim Reed,24
 Lassen,MB41,U.S. Senate,,DEM,Kamala D. Harris,39
 Lassen,MB41,U.S. Senate,,DEM,Loretta L. Sanchez,38
-Lassen,MB42,President,,REP/AI,Donald J. Trump,84
+Lassen,MB42,President,,REP,Donald J. Trump,84
 Lassen,MB42,President,,LIB,Gary Johnson,8
-Lassen,MB42,President,,PF,Gloria Estela La Riva,0
 Lassen,MB42,President,,DEM,Hillary Clinton,55
 Lassen,MB42,President,,GRN,Jill Stein,5
-Lassen,MB42,President,,WI,Write-In,3
 Lassen,MB42,Proposition 51,,,No,80
 Lassen,MB42,Proposition 51,,,Yes,70
 Lassen,MB42,Proposition 52,,,No,59
@@ -1677,14 +1772,18 @@ Lassen,MB42,Proposition 66,,,No,64
 Lassen,MB42,Proposition 66,,,Yes,83
 Lassen,MB42,Proposition 67,,,No,80
 Lassen,MB42,Proposition 67,,,Yes,73
+Lassen,MB42,State Assembly,1,REP,Brian Dahle,121
+Lassen,MB42,State Assembly,1,LIB,Donn Coenen,24
+Lassen,MB42,State Senate,1,DEM,Rob Rowen,53
+Lassen,MB42,State Senate,1,REP,Ted Gaines,97
+Lassen,MB42,U.S. House,1,REP,Doug La Malfa,92
+Lassen,MB42,U.S. House,1,DEM,Jim Reed,62
 Lassen,MB42,U.S. Senate,,DEM,Kamala D. Harris,67
 Lassen,MB42,U.S. Senate,,DEM,Loretta L. Sanchez,43
-Lassen,MB43,President,,REP/AI,Donald J. Trump,75
+Lassen,MB43,President,,REP,Donald J. Trump,75
 Lassen,MB43,President,,LIB,Gary Johnson,6
-Lassen,MB43,President,,PF,Gloria Estela La Riva,2
+Lassen,MB43,President,,PAF,Gloria Estela La Riva,2
 Lassen,MB43,President,,DEM,Hillary Clinton,31
-Lassen,MB43,President,,GRN,Jill Stein,0
-Lassen,MB43,President,,WI,Write-In,2
 Lassen,MB43,Proposition 51,,,No,59
 Lassen,MB43,Proposition 51,,,Yes,54
 Lassen,MB43,Proposition 52,,,No,48
@@ -1719,14 +1818,18 @@ Lassen,MB43,Proposition 66,,,No,36
 Lassen,MB43,Proposition 66,,,Yes,75
 Lassen,MB43,Proposition 67,,,No,81
 Lassen,MB43,Proposition 67,,,Yes,27
+Lassen,MB43,State Assembly,1,REP,Brian Dahle,94
+Lassen,MB43,State Assembly,1,LIB,Donn Coenen,18
+Lassen,MB43,State Senate,1,DEM,Rob Rowen,27
+Lassen,MB43,State Senate,1,REP,Ted Gaines,86
+Lassen,MB43,U.S. House,1,REP,Doug La Malfa,82
+Lassen,MB43,U.S. House,1,DEM,Jim Reed,33
 Lassen,MB43,U.S. Senate,,DEM,Kamala D. Harris,52
 Lassen,MB43,U.S. Senate,,DEM,Loretta L. Sanchez,26
-Lassen,MB44,President,,REP/AI,Donald J. Trump,82
+Lassen,MB44,President,,REP,Donald J. Trump,82
 Lassen,MB44,President,,LIB,Gary Johnson,1
-Lassen,MB44,President,,PF,Gloria Estela La Riva,0
 Lassen,MB44,President,,DEM,Hillary Clinton,39
 Lassen,MB44,President,,GRN,Jill Stein,3
-Lassen,MB44,President,,WI,Write-In,2
 Lassen,MB44,Proposition 51,,,No,68
 Lassen,MB44,Proposition 51,,,Yes,56
 Lassen,MB44,Proposition 52,,,No,43
@@ -1761,14 +1864,19 @@ Lassen,MB44,Proposition 66,,,No,37
 Lassen,MB44,Proposition 66,,,Yes,84
 Lassen,MB44,Proposition 67,,,No,89
 Lassen,MB44,Proposition 67,,,Yes,37
+Lassen,MB44,State Assembly,1,REP,Brian Dahle,105
+Lassen,MB44,State Assembly,1,LIB,Donn Coenen,18
+Lassen,MB44,State Senate,1,DEM,Rob Rowen,37
+Lassen,MB44,State Senate,1,REP,Ted Gaines,87
+Lassen,MB44,U.S. House,1,REP,Doug La Malfa,87
+Lassen,MB44,U.S. House,1,DEM,Jim Reed,39
 Lassen,MB44,U.S. Senate,,DEM,Kamala D. Harris,59
 Lassen,MB44,U.S. Senate,,DEM,Loretta L. Sanchez,29
-Lassen,MB45,President,,REP/AI,Donald J. Trump,73
+Lassen,MB45,President,,REP,Donald J. Trump,73
 Lassen,MB45,President,,LIB,Gary Johnson,10
-Lassen,MB45,President,,PF,Gloria Estela La Riva,1
+Lassen,MB45,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB45,President,,DEM,Hillary Clinton,25
 Lassen,MB45,President,,GRN,Jill Stein,3
-Lassen,MB45,President,,WI,Write-In,4
 Lassen,MB45,Proposition 51,,,No,73
 Lassen,MB45,Proposition 51,,,Yes,40
 Lassen,MB45,Proposition 52,,,No,42
@@ -1803,14 +1911,19 @@ Lassen,MB45,Proposition 66,,,No,40
 Lassen,MB45,Proposition 66,,,Yes,65
 Lassen,MB45,Proposition 67,,,No,72
 Lassen,MB45,Proposition 67,,,Yes,40
+Lassen,MB45,State Assembly,1,REP,Brian Dahle,98
+Lassen,MB45,State Assembly,1,LIB,Donn Coenen,17
+Lassen,MB45,State Senate,1,DEM,Rob Rowen,26
+Lassen,MB45,State Senate,1,REP,Ted Gaines,91
+Lassen,MB45,U.S. House,1,REP,Doug La Malfa,90
+Lassen,MB45,U.S. House,1,DEM,Jim Reed,26
 Lassen,MB45,U.S. Senate,,DEM,Kamala D. Harris,46
 Lassen,MB45,U.S. Senate,,DEM,Loretta L. Sanchez,43
-Lassen,MB46,President,,REP/AI,Donald J. Trump,120
+Lassen,MB46,President,,REP,Donald J. Trump,120
 Lassen,MB46,President,,LIB,Gary Johnson,9
-Lassen,MB46,President,,PF,Gloria Estela La Riva,2
+Lassen,MB46,President,,PAF,Gloria Estela La Riva,2
 Lassen,MB46,President,,DEM,Hillary Clinton,48
 Lassen,MB46,President,,GRN,Jill Stein,2
-Lassen,MB46,President,,WI,Write-In,5
 Lassen,MB46,Proposition 51,,,No,103
 Lassen,MB46,Proposition 51,,,Yes,75
 Lassen,MB46,Proposition 52,,,No,59
@@ -1845,14 +1958,19 @@ Lassen,MB46,Proposition 66,,,No,82
 Lassen,MB46,Proposition 66,,,Yes,90
 Lassen,MB46,Proposition 67,,,No,112
 Lassen,MB46,Proposition 67,,,Yes,65
+Lassen,MB46,State Assembly,1,REP,Brian Dahle,139
+Lassen,MB46,State Assembly,1,LIB,Donn Coenen,32
+Lassen,MB46,State Senate,1,DEM,Rob Rowen,42
+Lassen,MB46,State Senate,1,REP,Ted Gaines,128
+Lassen,MB46,U.S. House,1,REP,Doug La Malfa,129
+Lassen,MB46,U.S. House,1,DEM,Jim Reed,43
 Lassen,MB46,U.S. Senate,,DEM,Kamala D. Harris,88
 Lassen,MB46,U.S. Senate,,DEM,Loretta L. Sanchez,48
-Lassen,MB47,President,,REP/AI,Donald J. Trump,46
+Lassen,MB47,President,,REP,Donald J. Trump,46
 Lassen,MB47,President,,LIB,Gary Johnson,4
-Lassen,MB47,President,,PF,Gloria Estela La Riva,4
+Lassen,MB47,President,,PAF,Gloria Estela La Riva,4
 Lassen,MB47,President,,DEM,Hillary Clinton,28
 Lassen,MB47,President,,GRN,Jill Stein,2
-Lassen,MB47,President,,WI,Write-In,2
 Lassen,MB47,Proposition 51,,,No,32
 Lassen,MB47,Proposition 51,,,Yes,49
 Lassen,MB47,Proposition 52,,,No,25
@@ -1887,14 +2005,17 @@ Lassen,MB47,Proposition 66,,,No,35
 Lassen,MB47,Proposition 66,,,Yes,45
 Lassen,MB47,Proposition 67,,,No,52
 Lassen,MB47,Proposition 67,,,Yes,29
+Lassen,MB47,State Assembly,1,REP,Brian Dahle,62
+Lassen,MB47,State Assembly,1,LIB,Donn Coenen,19
+Lassen,MB47,State Senate,1,DEM,Rob Rowen,26
+Lassen,MB47,State Senate,1,REP,Ted Gaines,50
+Lassen,MB47,U.S. House,1,REP,Doug La Malfa,46
+Lassen,MB47,U.S. House,1,DEM,Jim Reed,35
 Lassen,MB47,U.S. Senate,,DEM,Kamala D. Harris,40
 Lassen,MB47,U.S. Senate,,DEM,Loretta L. Sanchez,28
-Lassen,MB48,President,,REP/AI,Donald J. Trump,42
+Lassen,MB48,President,,REP,Donald J. Trump,42
 Lassen,MB48,President,,LIB,Gary Johnson,2
-Lassen,MB48,President,,PF,Gloria Estela La Riva,0
 Lassen,MB48,President,,DEM,Hillary Clinton,17
-Lassen,MB48,President,,GRN,Jill Stein,0
-Lassen,MB48,President,,WI,Write-In,2
 Lassen,MB48,Proposition 51,,,No,44
 Lassen,MB48,Proposition 51,,,Yes,19
 Lassen,MB48,Proposition 52,,,No,38
@@ -1929,14 +2050,18 @@ Lassen,MB48,Proposition 66,,,No,27
 Lassen,MB48,Proposition 66,,,Yes,33
 Lassen,MB48,Proposition 67,,,No,36
 Lassen,MB48,Proposition 67,,,Yes,27
+Lassen,MB48,State Assembly,1,REP,Brian Dahle,50
+Lassen,MB48,State Assembly,1,LIB,Donn Coenen,7
+Lassen,MB48,State Senate,1,DEM,Rob Rowen,17
+Lassen,MB48,State Senate,1,REP,Ted Gaines,43
+Lassen,MB48,U.S. House,1,REP,Doug La Malfa,46
+Lassen,MB48,U.S. House,1,DEM,Jim Reed,15
 Lassen,MB48,U.S. Senate,,DEM,Kamala D. Harris,22
 Lassen,MB48,U.S. Senate,,DEM,Loretta L. Sanchez,22
-Lassen,MB49,President,,REP/AI,Donald J. Trump,55
+Lassen,MB49,President,,REP,Donald J. Trump,55
 Lassen,MB49,President,,LIB,Gary Johnson,4
-Lassen,MB49,President,,PF,Gloria Estela La Riva,0
 Lassen,MB49,President,,DEM,Hillary Clinton,19
 Lassen,MB49,President,,GRN,Jill Stein,1
-Lassen,MB49,President,,WI,Write-In,5
 Lassen,MB49,Proposition 51,,,No,43
 Lassen,MB49,Proposition 51,,,Yes,38
 Lassen,MB49,Proposition 52,,,No,40
@@ -1971,14 +2096,19 @@ Lassen,MB49,Proposition 66,,,No,28
 Lassen,MB49,Proposition 66,,,Yes,50
 Lassen,MB49,Proposition 67,,,No,59
 Lassen,MB49,Proposition 67,,,Yes,23
+Lassen,MB49,State Assembly,1,REP,Brian Dahle,68
+Lassen,MB49,State Assembly,1,LIB,Donn Coenen,15
+Lassen,MB49,State Senate,1,DEM,Rob Rowen,16
+Lassen,MB49,State Senate,1,REP,Ted Gaines,63
+Lassen,MB49,U.S. House,1,REP,Doug La Malfa,64
+Lassen,MB49,U.S. House,1,DEM,Jim Reed,16
 Lassen,MB49,U.S. Senate,,DEM,Kamala D. Harris,32
 Lassen,MB49,U.S. Senate,,DEM,Loretta L. Sanchez,25
-Lassen,MB50,President,,REP/AI,Donald J. Trump,82
+Lassen,MB50,President,,REP,Donald J. Trump,82
 Lassen,MB50,President,,LIB,Gary Johnson,8
-Lassen,MB50,President,,PF,Gloria Estela La Riva,1
+Lassen,MB50,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB50,President,,DEM,Hillary Clinton,39
 Lassen,MB50,President,,GRN,Jill Stein,2
-Lassen,MB50,President,,WI,Write-In,3
 Lassen,MB50,Proposition 51,,,No,97
 Lassen,MB50,Proposition 51,,,Yes,39
 Lassen,MB50,Proposition 52,,,No,52
@@ -2013,14 +2143,18 @@ Lassen,MB50,Proposition 66,,,No,52
 Lassen,MB50,Proposition 66,,,Yes,82
 Lassen,MB50,Proposition 67,,,No,92
 Lassen,MB50,Proposition 67,,,Yes,46
+Lassen,MB50,State Assembly,1,REP,Brian Dahle,107
+Lassen,MB50,State Assembly,1,LIB,Donn Coenen,20
+Lassen,MB50,State Senate,1,DEM,Rob Rowen,34
+Lassen,MB50,State Senate,1,REP,Ted Gaines,93
+Lassen,MB50,U.S. House,1,REP,Doug La Malfa,93
+Lassen,MB50,U.S. House,1,DEM,Jim Reed,40
 Lassen,MB50,U.S. Senate,,DEM,Kamala D. Harris,55
 Lassen,MB50,U.S. Senate,,DEM,Loretta L. Sanchez,34
-Lassen,MB51,President,,REP/AI,Donald J. Trump,57
+Lassen,MB51,President,,REP,Donald J. Trump,57
 Lassen,MB51,President,,LIB,Gary Johnson,9
-Lassen,MB51,President,,PF,Gloria Estela La Riva,0
 Lassen,MB51,President,,DEM,Hillary Clinton,23
 Lassen,MB51,President,,GRN,Jill Stein,3
-Lassen,MB51,President,,WI,Write-In,1
 Lassen,MB51,Proposition 51,,,No,41
 Lassen,MB51,Proposition 51,,,Yes,46
 Lassen,MB51,Proposition 52,,,No,28
@@ -2055,14 +2189,96 @@ Lassen,MB51,Proposition 66,,,No,34
 Lassen,MB51,Proposition 66,,,Yes,46
 Lassen,MB51,Proposition 67,,,No,55
 Lassen,MB51,Proposition 67,,,Yes,31
+Lassen,MB51,State Assembly,1,REP,Brian Dahle,65
+Lassen,MB51,State Assembly,1,LIB,Donn Coenen,24
+Lassen,MB51,State Senate,1,DEM,Rob Rowen,29
+Lassen,MB51,State Senate,1,REP,Ted Gaines,59
+Lassen,MB51,U.S. House,1,REP,Doug La Malfa,61
+Lassen,MB51,U.S. House,1,DEM,Jim Reed,28
 Lassen,MB51,U.S. Senate,,DEM,Kamala D. Harris,33
 Lassen,MB51,U.S. Senate,,DEM,Loretta L. Sanchez,41
-Lassen,MB6,President,,REP/AI,Donald J. Trump,86
+Lassen,MB52,President,,REP,Donald J. Trump,5
+Lassen,MB52,Proposition 51,,,No,2
+Lassen,MB52,Proposition 51,,,Yes,2
+Lassen,MB52,Proposition 52,,,No,1
+Lassen,MB52,Proposition 52,,,Yes,3
+Lassen,MB52,Proposition 53,,,No,2
+Lassen,MB52,Proposition 53,,,Yes,2
+Lassen,MB52,Proposition 54,,,No,3
+Lassen,MB52,Proposition 54,,,Yes,1
+Lassen,MB52,Proposition 55,,,No,3
+Lassen,MB52,Proposition 55,,,Yes,1
+Lassen,MB52,Proposition 56,,,No,4
+Lassen,MB52,Proposition 56,,,Yes,1
+Lassen,MB52,Proposition 57,,,No,4
+Lassen,MB52,Proposition 57,,,Yes,1
+Lassen,MB52,Proposition 58,,,No,3
+Lassen,MB52,Proposition 58,,,Yes,2
+Lassen,MB52,Proposition 59,,,No,4
+Lassen,MB52,Proposition 60,,,No,4
+Lassen,MB52,Proposition 61,,,No,4
+Lassen,MB52,Proposition 62,,,No,4
+Lassen,MB52,Proposition 63,,,No,4
+Lassen,MB52,Proposition 63,,,Yes,1
+Lassen,MB52,Proposition 64,,,No,3
+Lassen,MB52,Proposition 64,,,Yes,2
+Lassen,MB52,Proposition 65,,,No,4
+Lassen,MB52,Proposition 66,,,No,1
+Lassen,MB52,Proposition 66,,,Yes,3
+Lassen,MB52,Proposition 67,,,No,4
+Lassen,MB52,Proposition 67,,,Yes,1
+Lassen,MB52,State Assembly,1,REP,Brian Dahle,4
+Lassen,MB52,State Senate,1,REP,Ted Gaines,4
+Lassen,MB52,U.S. House,1,REP,Doug La Malfa,4
+Lassen,MB52,U.S. Senate,,DEM,Kamala D. Harris,2
+Lassen,MB53,President,,REP,Donald J. Trump,6
+Lassen,MB53,President,,DEM,Hillary Clinton,5
+Lassen,MB53,Proposition 51,,,No,5
+Lassen,MB53,Proposition 51,,,Yes,6
+Lassen,MB53,Proposition 52,,,No,5
+Lassen,MB53,Proposition 52,,,Yes,6
+Lassen,MB53,Proposition 53,,,No,8
+Lassen,MB53,Proposition 53,,,Yes,3
+Lassen,MB53,Proposition 54,,,No,3
+Lassen,MB53,Proposition 54,,,Yes,8
+Lassen,MB53,Proposition 55,,,No,4
+Lassen,MB53,Proposition 55,,,Yes,7
+Lassen,MB53,Proposition 56,,,No,3
+Lassen,MB53,Proposition 56,,,Yes,8
+Lassen,MB53,Proposition 57,,,No,8
+Lassen,MB53,Proposition 57,,,Yes,3
+Lassen,MB53,Proposition 58,,,No,3
+Lassen,MB53,Proposition 58,,,Yes,8
+Lassen,MB53,Proposition 59,,,No,5
+Lassen,MB53,Proposition 59,,,Yes,6
+Lassen,MB53,Proposition 60,,,No,5
+Lassen,MB53,Proposition 60,,,Yes,6
+Lassen,MB53,Proposition 61,,,No,8
+Lassen,MB53,Proposition 61,,,Yes,3
+Lassen,MB53,Proposition 62,,,No,7
+Lassen,MB53,Proposition 62,,,Yes,4
+Lassen,MB53,Proposition 63,,,No,8
+Lassen,MB53,Proposition 63,,,Yes,3
+Lassen,MB53,Proposition 64,,,No,8
+Lassen,MB53,Proposition 64,,,Yes,3
+Lassen,MB53,Proposition 65,,,No,6
+Lassen,MB53,Proposition 65,,,Yes,5
+Lassen,MB53,Proposition 66,,,No,5
+Lassen,MB53,Proposition 66,,,Yes,6
+Lassen,MB53,Proposition 67,,,No,3
+Lassen,MB53,Proposition 67,,,Yes,8
+Lassen,MB53,State Assembly,1,REP,Brian Dahle,11
+Lassen,MB53,State Senate,1,DEM,Rob Rowen,6
+Lassen,MB53,State Senate,1,REP,Ted Gaines,5
+Lassen,MB53,U.S. House,1,REP,Doug La Malfa,5
+Lassen,MB53,U.S. House,1,DEM,Jim Reed,6
+Lassen,MB53,U.S. Senate,,DEM,Kamala D. Harris,5
+Lassen,MB53,U.S. Senate,,DEM,Loretta L. Sanchez,1
+Lassen,MB6,President,,REP,Donald J. Trump,86
 Lassen,MB6,President,,LIB,Gary Johnson,5
-Lassen,MB6,President,,PF,Gloria Estela La Riva,2
+Lassen,MB6,President,,PAF,Gloria Estela La Riva,2
 Lassen,MB6,President,,DEM,Hillary Clinton,30
 Lassen,MB6,President,,GRN,Jill Stein,1
-Lassen,MB6,President,,WI,Write-In,1
 Lassen,MB6,Proposition 51,,,No,96
 Lassen,MB6,Proposition 51,,,Yes,21
 Lassen,MB6,Proposition 52,,,No,65
@@ -2097,14 +2313,19 @@ Lassen,MB6,Proposition 66,,,No,51
 Lassen,MB6,Proposition 66,,,Yes,65
 Lassen,MB6,Proposition 67,,,No,85
 Lassen,MB6,Proposition 67,,,Yes,37
+Lassen,MB6,State Assembly,1,REP,Brian Dahle,99
+Lassen,MB6,State Assembly,1,LIB,Donn Coenen,19
+Lassen,MB6,State Senate,1,DEM,Rob Rowen,26
+Lassen,MB6,State Senate,1,REP,Ted Gaines,94
+Lassen,MB6,U.S. House,1,REP,Doug La Malfa,86
+Lassen,MB6,U.S. House,1,DEM,Jim Reed,35
 Lassen,MB6,U.S. Senate,,DEM,Kamala D. Harris,44
 Lassen,MB6,U.S. Senate,,DEM,Loretta L. Sanchez,36
-Lassen,MB8,President,,REP/AI,Donald J. Trump,83
+Lassen,MB8,President,,REP,Donald J. Trump,83
 Lassen,MB8,President,,LIB,Gary Johnson,7
-Lassen,MB8,President,,PF,Gloria Estela La Riva,1
+Lassen,MB8,President,,PAF,Gloria Estela La Riva,1
 Lassen,MB8,President,,DEM,Hillary Clinton,55
 Lassen,MB8,President,,GRN,Jill Stein,1
-Lassen,MB8,President,,WI,Write-In,9
 Lassen,MB8,Proposition 51,,,No,82
 Lassen,MB8,Proposition 51,,,Yes,70
 Lassen,MB8,Proposition 52,,,No,51
@@ -2139,5 +2360,11 @@ Lassen,MB8,Proposition 66,,,No,52
 Lassen,MB8,Proposition 66,,,Yes,97
 Lassen,MB8,Proposition 67,,,No,104
 Lassen,MB8,Proposition 67,,,Yes,50
+Lassen,MB8,State Assembly,1,REP,Brian Dahle,119
+Lassen,MB8,State Assembly,1,LIB,Donn Coenen,26
+Lassen,MB8,State Senate,1,DEM,Rob Rowen,52
+Lassen,MB8,State Senate,1,REP,Ted Gaines,95
+Lassen,MB8,U.S. House,1,REP,Doug La Malfa,99
+Lassen,MB8,U.S. House,1,DEM,Jim Reed,52
 Lassen,MB8,U.S. Senate,,DEM,Kamala D. Harris,63
 Lassen,MB8,U.S. Senate,,DEM,Loretta L. Sanchez,51

@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Nevada,CP01,President,,REP/AI,Donald J. Trump,717
+Nevada,CP01,President,,REP,Donald J. Trump,717
 Nevada,CP01,President,,LIB,Gary Johnson,66
-Nevada,CP01,President,,PF,Gloria Estela La Riva,3
+Nevada,CP01,President,,PAF,Gloria Estela La Riva,3
 Nevada,CP01,President,,DEM,Hillary Clinton,642
 Nevada,CP01,President,,GRN,Jill Stein,50
-Nevada,CP01,President,,WI,Write-In,26
 Nevada,CP01,Proposition 51,,,No,924
 Nevada,CP01,Proposition 51,,,Yes,549
 Nevada,CP01,Proposition 52,,,No,466
@@ -39,14 +38,18 @@ Nevada,CP01,Proposition 66,,,No,631
 Nevada,CP01,Proposition 66,,,Yes,767
 Nevada,CP01,Proposition 67,,,No,770
 Nevada,CP01,Proposition 67,,,Yes,715
+Nevada,CP01,State Assembly,1,REP,Brian Dahle,930
+Nevada,CP01,State Assembly,1,LIB,Donn Coenen,415
+Nevada,CP01,State Senate,1,DEM,Rob Rowen,640
+Nevada,CP01,State Senate,1,REP,Ted Gaines,812
+Nevada,CP01,U.S. House,1,REP,Doug La Malfa,793
+Nevada,CP01,U.S. House,1,DEM,Jim Reed,694
 Nevada,CP01,U.S. Senate,,DEM,Kamala D. Harris,797
 Nevada,CP01,U.S. Senate,,DEM,Loretta L. Sanchez,352
-Nevada,CP02,President,,REP/AI,Donald J. Trump,337
+Nevada,CP02,President,,REP,Donald J. Trump,337
 Nevada,CP02,President,,LIB,Gary Johnson,29
-Nevada,CP02,President,,PF,Gloria Estela La Riva,0
 Nevada,CP02,President,,DEM,Hillary Clinton,284
 Nevada,CP02,President,,GRN,Jill Stein,39
-Nevada,CP02,President,,WI,Write-In,14
 Nevada,CP02,Proposition 51,,,No,438
 Nevada,CP02,Proposition 51,,,Yes,251
 Nevada,CP02,Proposition 52,,,No,224
@@ -81,14 +84,18 @@ Nevada,CP02,Proposition 66,,,No,302
 Nevada,CP02,Proposition 66,,,Yes,367
 Nevada,CP02,Proposition 67,,,No,379
 Nevada,CP02,Proposition 67,,,Yes,325
+Nevada,CP02,State Assembly,1,REP,Brian Dahle,438
+Nevada,CP02,State Assembly,1,LIB,Donn Coenen,188
+Nevada,CP02,State Senate,1,DEM,Rob Rowen,286
+Nevada,CP02,State Senate,1,REP,Ted Gaines,395
+Nevada,CP02,U.S. House,1,REP,Doug La Malfa,379
+Nevada,CP02,U.S. House,1,DEM,Jim Reed,314
 Nevada,CP02,U.S. Senate,,DEM,Kamala D. Harris,347
 Nevada,CP02,U.S. Senate,,DEM,Loretta L. Sanchez,171
-Nevada,CP03,President,,REP/AI,Donald J. Trump,223
+Nevada,CP03,President,,REP,Donald J. Trump,223
 Nevada,CP03,President,,LIB,Gary Johnson,34
-Nevada,CP03,President,,PF,Gloria Estela La Riva,0
 Nevada,CP03,President,,DEM,Hillary Clinton,296
 Nevada,CP03,President,,GRN,Jill Stein,35
-Nevada,CP03,President,,WI,Write-In,8
 Nevada,CP03,Proposition 51,,,No,244
 Nevada,CP03,Proposition 51,,,Yes,328
 Nevada,CP03,Proposition 52,,,No,124
@@ -123,14 +130,19 @@ Nevada,CP03,Proposition 66,,,No,268
 Nevada,CP03,Proposition 66,,,Yes,274
 Nevada,CP03,Proposition 67,,,No,250
 Nevada,CP03,Proposition 67,,,Yes,328
+Nevada,CP03,State Assembly,1,REP,Brian Dahle,317
+Nevada,CP03,State Assembly,1,LIB,Donn Coenen,200
+Nevada,CP03,State Senate,1,DEM,Rob Rowen,314
+Nevada,CP03,State Senate,1,REP,Ted Gaines,247
+Nevada,CP03,U.S. House,1,REP,Doug La Malfa,225
+Nevada,CP03,U.S. House,1,DEM,Jim Reed,350
 Nevada,CP03,U.S. Senate,,DEM,Kamala D. Harris,345
 Nevada,CP03,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Nevada,CP04,President,,REP/AI,Donald J. Trump,377
+Nevada,CP04,President,,REP,Donald J. Trump,377
 Nevada,CP04,President,,LIB,Gary Johnson,46
-Nevada,CP04,President,,PF,Gloria Estela La Riva,2
+Nevada,CP04,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP04,President,,DEM,Hillary Clinton,709
 Nevada,CP04,President,,GRN,Jill Stein,83
-Nevada,CP04,President,,WI,Write-In,23
 Nevada,CP04,Proposition 51,,,No,627
 Nevada,CP04,Proposition 51,,,Yes,596
 Nevada,CP04,Proposition 52,,,No,335
@@ -165,14 +177,19 @@ Nevada,CP04,Proposition 66,,,No,641
 Nevada,CP04,Proposition 66,,,Yes,517
 Nevada,CP04,Proposition 67,,,No,383
 Nevada,CP04,Proposition 67,,,Yes,852
+Nevada,CP04,State Assembly,1,REP,Brian Dahle,564
+Nevada,CP04,State Assembly,1,LIB,Donn Coenen,449
+Nevada,CP04,State Senate,1,DEM,Rob Rowen,742
+Nevada,CP04,State Senate,1,REP,Ted Gaines,451
+Nevada,CP04,U.S. House,1,REP,Doug La Malfa,419
+Nevada,CP04,U.S. House,1,DEM,Jim Reed,806
 Nevada,CP04,U.S. Senate,,DEM,Kamala D. Harris,746
 Nevada,CP04,U.S. Senate,,DEM,Loretta L. Sanchez,291
-Nevada,CP05,President,,REP/AI,Donald J. Trump,294
+Nevada,CP05,President,,REP,Donald J. Trump,294
 Nevada,CP05,President,,LIB,Gary Johnson,19
-Nevada,CP05,President,,PF,Gloria Estela La Riva,2
+Nevada,CP05,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP05,President,,DEM,Hillary Clinton,335
 Nevada,CP05,President,,GRN,Jill Stein,48
-Nevada,CP05,President,,WI,Write-In,9
 Nevada,CP05,Proposition 51,,,No,415
 Nevada,CP05,Proposition 51,,,Yes,283
 Nevada,CP05,Proposition 52,,,No,211
@@ -207,14 +224,19 @@ Nevada,CP05,Proposition 66,,,No,324
 Nevada,CP05,Proposition 66,,,Yes,359
 Nevada,CP05,Proposition 67,,,No,317
 Nevada,CP05,Proposition 67,,,Yes,394
+Nevada,CP05,State Assembly,1,REP,Brian Dahle,348
+Nevada,CP05,State Assembly,1,LIB,Donn Coenen,262
+Nevada,CP05,State Senate,1,DEM,Rob Rowen,361
+Nevada,CP05,State Senate,1,REP,Ted Gaines,323
+Nevada,CP05,U.S. House,1,REP,Doug La Malfa,294
+Nevada,CP05,U.S. House,1,DEM,Jim Reed,402
 Nevada,CP05,U.S. Senate,,DEM,Kamala D. Harris,408
 Nevada,CP05,U.S. Senate,,DEM,Loretta L. Sanchez,149
-Nevada,CP06,President,,REP/AI,Donald J. Trump,368
+Nevada,CP06,President,,REP,Donald J. Trump,368
 Nevada,CP06,President,,LIB,Gary Johnson,46
-Nevada,CP06,President,,PF,Gloria Estela La Riva,3
+Nevada,CP06,President,,PAF,Gloria Estela La Riva,3
 Nevada,CP06,President,,DEM,Hillary Clinton,774
 Nevada,CP06,President,,GRN,Jill Stein,109
-Nevada,CP06,President,,WI,Write-In,21
 Nevada,CP06,Proposition 51,,,No,619
 Nevada,CP06,Proposition 51,,,Yes,681
 Nevada,CP06,Proposition 52,,,No,332
@@ -249,14 +271,19 @@ Nevada,CP06,Proposition 66,,,No,736
 Nevada,CP06,Proposition 66,,,Yes,482
 Nevada,CP06,Proposition 67,,,No,427
 Nevada,CP06,Proposition 67,,,Yes,901
+Nevada,CP06,State Assembly,1,REP,Brian Dahle,592
+Nevada,CP06,State Assembly,1,LIB,Donn Coenen,478
+Nevada,CP06,State Senate,1,DEM,Rob Rowen,818
+Nevada,CP06,State Senate,1,REP,Ted Gaines,452
+Nevada,CP06,U.S. House,1,REP,Doug La Malfa,435
+Nevada,CP06,U.S. House,1,DEM,Jim Reed,874
 Nevada,CP06,U.S. Senate,,DEM,Kamala D. Harris,817
 Nevada,CP06,U.S. Senate,,DEM,Loretta L. Sanchez,295
-Nevada,CP07,President,,REP/AI,Donald J. Trump,887
+Nevada,CP07,President,,REP,Donald J. Trump,887
 Nevada,CP07,President,,LIB,Gary Johnson,90
-Nevada,CP07,President,,PF,Gloria Estela La Riva,2
+Nevada,CP07,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP07,President,,DEM,Hillary Clinton,1176
 Nevada,CP07,President,,GRN,Jill Stein,87
-Nevada,CP07,President,,WI,Write-In,28
 Nevada,CP07,Proposition 51,,,No,1219
 Nevada,CP07,Proposition 51,,,Yes,1016
 Nevada,CP07,Proposition 52,,,No,599
@@ -291,14 +318,19 @@ Nevada,CP07,Proposition 66,,,No,1040
 Nevada,CP07,Proposition 66,,,Yes,1077
 Nevada,CP07,Proposition 67,,,No,955
 Nevada,CP07,Proposition 67,,,Yes,1305
+Nevada,CP07,State Assembly,1,REP,Brian Dahle,1286
+Nevada,CP07,State Assembly,1,LIB,Donn Coenen,658
+Nevada,CP07,State Senate,1,DEM,Rob Rowen,1108
+Nevada,CP07,State Senate,1,REP,Ted Gaines,1077
+Nevada,CP07,U.S. House,1,REP,Doug La Malfa,1004
+Nevada,CP07,U.S. House,1,DEM,Jim Reed,1232
 Nevada,CP07,U.S. Senate,,DEM,Kamala D. Harris,1300
 Nevada,CP07,U.S. Senate,,DEM,Loretta L. Sanchez,489
-Nevada,CP08,President,,REP/AI,Donald J. Trump,387
+Nevada,CP08,President,,REP,Donald J. Trump,387
 Nevada,CP08,President,,LIB,Gary Johnson,31
-Nevada,CP08,President,,PF,Gloria Estela La Riva,2
+Nevada,CP08,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP08,President,,DEM,Hillary Clinton,309
 Nevada,CP08,President,,GRN,Jill Stein,16
-Nevada,CP08,President,,WI,Write-In,10
 Nevada,CP08,Proposition 51,,,No,488
 Nevada,CP08,Proposition 51,,,Yes,280
 Nevada,CP08,Proposition 52,,,No,251
@@ -333,14 +365,19 @@ Nevada,CP08,Proposition 66,,,No,286
 Nevada,CP08,Proposition 66,,,Yes,457
 Nevada,CP08,Proposition 67,,,No,416
 Nevada,CP08,Proposition 67,,,Yes,352
+Nevada,CP08,State Assembly,1,REP,Brian Dahle,497
+Nevada,CP08,State Assembly,1,LIB,Donn Coenen,225
+Nevada,CP08,State Senate,1,DEM,Rob Rowen,306
+Nevada,CP08,State Senate,1,REP,Ted Gaines,456
+Nevada,CP08,U.S. House,1,REP,Doug La Malfa,439
+Nevada,CP08,U.S. House,1,DEM,Jim Reed,336
 Nevada,CP08,U.S. Senate,,DEM,Kamala D. Harris,398
 Nevada,CP08,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Nevada,CP09,President,,REP/AI,Donald J. Trump,329
+Nevada,CP09,President,,REP,Donald J. Trump,329
 Nevada,CP09,President,,LIB,Gary Johnson,50
-Nevada,CP09,President,,PF,Gloria Estela La Riva,2
+Nevada,CP09,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP09,President,,DEM,Hillary Clinton,1078
 Nevada,CP09,President,,GRN,Jill Stein,123
-Nevada,CP09,President,,WI,Write-In,40
 Nevada,CP09,Proposition 51,,,No,657
 Nevada,CP09,Proposition 51,,,Yes,910
 Nevada,CP09,Proposition 52,,,No,317
@@ -375,14 +412,19 @@ Nevada,CP09,Proposition 66,,,No,975
 Nevada,CP09,Proposition 66,,,Yes,536
 Nevada,CP09,Proposition 67,,,No,409
 Nevada,CP09,Proposition 67,,,Yes,1194
+Nevada,CP09,State Assembly,1,REP,Brian Dahle,574
+Nevada,CP09,State Assembly,1,LIB,Donn Coenen,680
+Nevada,CP09,State Senate,1,DEM,Rob Rowen,1122
+Nevada,CP09,State Senate,1,REP,Ted Gaines,416
+Nevada,CP09,U.S. House,1,REP,Doug La Malfa,387
+Nevada,CP09,U.S. House,1,DEM,Jim Reed,1191
 Nevada,CP09,U.S. Senate,,DEM,Kamala D. Harris,1132
 Nevada,CP09,U.S. Senate,,DEM,Loretta L. Sanchez,305
-Nevada,CP10,President,,REP/AI,Donald J. Trump,202
+Nevada,CP10,President,,REP,Donald J. Trump,202
 Nevada,CP10,President,,LIB,Gary Johnson,24
-Nevada,CP10,President,,PF,Gloria Estela La Riva,1
+Nevada,CP10,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP10,President,,DEM,Hillary Clinton,256
 Nevada,CP10,President,,GRN,Jill Stein,22
-Nevada,CP10,President,,WI,Write-In,13
 Nevada,CP10,Proposition 51,,,No,286
 Nevada,CP10,Proposition 51,,,Yes,229
 Nevada,CP10,Proposition 52,,,No,127
@@ -417,14 +459,19 @@ Nevada,CP10,Proposition 66,,,No,229
 Nevada,CP10,Proposition 66,,,Yes,261
 Nevada,CP10,Proposition 67,,,No,223
 Nevada,CP10,Proposition 67,,,Yes,298
+Nevada,CP10,State Assembly,1,REP,Brian Dahle,298
+Nevada,CP10,State Assembly,1,LIB,Donn Coenen,155
+Nevada,CP10,State Senate,1,DEM,Rob Rowen,248
+Nevada,CP10,State Senate,1,REP,Ted Gaines,258
+Nevada,CP10,U.S. House,1,REP,Doug La Malfa,247
+Nevada,CP10,U.S. House,1,DEM,Jim Reed,271
 Nevada,CP10,U.S. Senate,,DEM,Kamala D. Harris,301
 Nevada,CP10,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Nevada,CP11,President,,REP/AI,Donald J. Trump,519
+Nevada,CP11,President,,REP,Donald J. Trump,519
 Nevada,CP11,President,,LIB,Gary Johnson,47
-Nevada,CP11,President,,PF,Gloria Estela La Riva,2
+Nevada,CP11,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP11,President,,DEM,Hillary Clinton,499
 Nevada,CP11,President,,GRN,Jill Stein,46
-Nevada,CP11,President,,WI,Write-In,18
 Nevada,CP11,Proposition 51,,,No,684
 Nevada,CP11,Proposition 51,,,Yes,419
 Nevada,CP11,Proposition 52,,,No,336
@@ -459,14 +506,19 @@ Nevada,CP11,Proposition 66,,,No,483
 Nevada,CP11,Proposition 66,,,Yes,585
 Nevada,CP11,Proposition 67,,,No,560
 Nevada,CP11,Proposition 67,,,Yes,554
+Nevada,CP11,State Assembly,1,REP,Brian Dahle,665
+Nevada,CP11,State Assembly,1,LIB,Donn Coenen,335
+Nevada,CP11,State Senate,1,DEM,Rob Rowen,492
+Nevada,CP11,State Senate,1,REP,Ted Gaines,588
+Nevada,CP11,U.S. House,1,REP,Doug La Malfa,548
+Nevada,CP11,U.S. House,1,DEM,Jim Reed,558
 Nevada,CP11,U.S. Senate,,DEM,Kamala D. Harris,616
 Nevada,CP11,U.S. Senate,,DEM,Loretta L. Sanchez,255
-Nevada,CP12,President,,REP/AI,Donald J. Trump,739
+Nevada,CP12,President,,REP,Donald J. Trump,739
 Nevada,CP12,President,,LIB,Gary Johnson,43
-Nevada,CP12,President,,PF,Gloria Estela La Riva,2
+Nevada,CP12,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP12,President,,DEM,Hillary Clinton,340
 Nevada,CP12,President,,GRN,Jill Stein,18
-Nevada,CP12,President,,WI,Write-In,15
 Nevada,CP12,Proposition 51,,,No,802
 Nevada,CP12,Proposition 51,,,Yes,346
 Nevada,CP12,Proposition 52,,,No,431
@@ -501,14 +553,18 @@ Nevada,CP12,Proposition 66,,,No,403
 Nevada,CP12,Proposition 66,,,Yes,713
 Nevada,CP12,Proposition 67,,,No,758
 Nevada,CP12,Proposition 67,,,Yes,400
+Nevada,CP12,State Assembly,1,REP,Brian Dahle,833
+Nevada,CP12,State Assembly,1,LIB,Donn Coenen,234
+Nevada,CP12,State Senate,1,DEM,Rob Rowen,316
+Nevada,CP12,State Senate,1,REP,Ted Gaines,806
+Nevada,CP12,U.S. House,1,REP,Doug La Malfa,793
+Nevada,CP12,U.S. House,1,DEM,Jim Reed,352
 Nevada,CP12,U.S. Senate,,DEM,Kamala D. Harris,508
 Nevada,CP12,U.S. Senate,,DEM,Loretta L. Sanchez,304
-Nevada,CP13,President,,REP/AI,Donald J. Trump,1409
+Nevada,CP13,President,,REP,Donald J. Trump,1409
 Nevada,CP13,President,,LIB,Gary Johnson,116
-Nevada,CP13,President,,PF,Gloria Estela La Riva,0
 Nevada,CP13,President,,DEM,Hillary Clinton,875
 Nevada,CP13,President,,GRN,Jill Stein,19
-Nevada,CP13,President,,WI,Write-In,19
 Nevada,CP13,Proposition 51,,,No,1637
 Nevada,CP13,Proposition 51,,,Yes,761
 Nevada,CP13,Proposition 52,,,No,873
@@ -543,14 +599,18 @@ Nevada,CP13,Proposition 66,,,No,825
 Nevada,CP13,Proposition 66,,,Yes,1482
 Nevada,CP13,Proposition 67,,,No,1438
 Nevada,CP13,Proposition 67,,,Yes,986
+Nevada,CP13,State Assembly,1,REP,Brian Dahle,1728
+Nevada,CP13,State Assembly,1,LIB,Donn Coenen,518
+Nevada,CP13,State Senate,1,DEM,Rob Rowen,764
+Nevada,CP13,State Senate,1,REP,Ted Gaines,1631
+Nevada,CP13,U.S. House,1,REP,Doug La Malfa,1599
+Nevada,CP13,U.S. House,1,DEM,Jim Reed,833
 Nevada,CP13,U.S. Senate,,DEM,Kamala D. Harris,1147
 Nevada,CP13,U.S. Senate,,DEM,Loretta L. Sanchez,596
-Nevada,CP14,President,,REP/AI,Donald J. Trump,204
+Nevada,CP14,President,,REP,Donald J. Trump,204
 Nevada,CP14,President,,LIB,Gary Johnson,24
-Nevada,CP14,President,,PF,Gloria Estela La Riva,0
 Nevada,CP14,President,,DEM,Hillary Clinton,133
 Nevada,CP14,President,,GRN,Jill Stein,18
-Nevada,CP14,President,,WI,Write-In,10
 Nevada,CP14,Proposition 51,,,No,274
 Nevada,CP14,Proposition 51,,,Yes,108
 Nevada,CP14,Proposition 52,,,No,135
@@ -585,14 +645,19 @@ Nevada,CP14,Proposition 66,,,No,155
 Nevada,CP14,Proposition 66,,,Yes,216
 Nevada,CP14,Proposition 67,,,No,248
 Nevada,CP14,Proposition 67,,,Yes,137
+Nevada,CP14,State Assembly,1,REP,Brian Dahle,233
+Nevada,CP14,State Assembly,1,LIB,Donn Coenen,125
+Nevada,CP14,State Senate,1,DEM,Rob Rowen,142
+Nevada,CP14,State Senate,1,REP,Ted Gaines,222
+Nevada,CP14,U.S. House,1,REP,Doug La Malfa,229
+Nevada,CP14,U.S. House,1,DEM,Jim Reed,150
 Nevada,CP14,U.S. Senate,,DEM,Kamala D. Harris,175
 Nevada,CP14,U.S. Senate,,DEM,Loretta L. Sanchez,117
-Nevada,CP15,President,,REP/AI,Donald J. Trump,679
+Nevada,CP15,President,,REP,Donald J. Trump,679
 Nevada,CP15,President,,LIB,Gary Johnson,53
-Nevada,CP15,President,,PF,Gloria Estela La Riva,4
+Nevada,CP15,President,,PAF,Gloria Estela La Riva,4
 Nevada,CP15,President,,DEM,Hillary Clinton,398
 Nevada,CP15,President,,GRN,Jill Stein,25
-Nevada,CP15,President,,WI,Write-In,18
 Nevada,CP15,Proposition 51,,,No,793
 Nevada,CP15,Proposition 51,,,Yes,373
 Nevada,CP15,Proposition 52,,,No,425
@@ -627,14 +692,18 @@ Nevada,CP15,Proposition 66,,,No,459
 Nevada,CP15,Proposition 66,,,Yes,682
 Nevada,CP15,Proposition 67,,,No,713
 Nevada,CP15,Proposition 67,,,Yes,459
+Nevada,CP15,State Assembly,1,REP,Brian Dahle,826
+Nevada,CP15,State Assembly,1,LIB,Donn Coenen,268
+Nevada,CP15,State Senate,1,DEM,Rob Rowen,398
+Nevada,CP15,State Senate,1,REP,Ted Gaines,753
+Nevada,CP15,U.S. House,1,REP,Doug La Malfa,751
+Nevada,CP15,U.S. House,1,DEM,Jim Reed,430
 Nevada,CP15,U.S. Senate,,DEM,Kamala D. Harris,541
 Nevada,CP15,U.S. Senate,,DEM,Loretta L. Sanchez,318
-Nevada,CP16,President,,REP/AI,Donald J. Trump,91
+Nevada,CP16,President,,REP,Donald J. Trump,91
 Nevada,CP16,President,,LIB,Gary Johnson,4
-Nevada,CP16,President,,PF,Gloria Estela La Riva,0
 Nevada,CP16,President,,DEM,Hillary Clinton,27
 Nevada,CP16,President,,GRN,Jill Stein,8
-Nevada,CP16,President,,WI,Write-In,4
 Nevada,CP16,Proposition 51,,,No,92
 Nevada,CP16,Proposition 51,,,Yes,37
 Nevada,CP16,Proposition 52,,,No,45
@@ -669,14 +738,19 @@ Nevada,CP16,Proposition 66,,,No,53
 Nevada,CP16,Proposition 66,,,Yes,71
 Nevada,CP16,Proposition 67,,,No,79
 Nevada,CP16,Proposition 67,,,Yes,54
+Nevada,CP16,State Assembly,1,REP,Brian Dahle,102
+Nevada,CP16,State Assembly,1,LIB,Donn Coenen,21
+Nevada,CP16,State Senate,1,DEM,Rob Rowen,29
+Nevada,CP16,State Senate,1,REP,Ted Gaines,92
+Nevada,CP16,U.S. House,1,REP,Doug La Malfa,87
+Nevada,CP16,U.S. House,1,DEM,Jim Reed,43
 Nevada,CP16,U.S. Senate,,DEM,Kamala D. Harris,51
 Nevada,CP16,U.S. Senate,,DEM,Loretta L. Sanchez,28
-Nevada,CP17,President,,REP/AI,Donald J. Trump,904
+Nevada,CP17,President,,REP,Donald J. Trump,904
 Nevada,CP17,President,,LIB,Gary Johnson,93
-Nevada,CP17,President,,PF,Gloria Estela La Riva,2
+Nevada,CP17,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP17,President,,DEM,Hillary Clinton,645
 Nevada,CP17,President,,GRN,Jill Stein,34
-Nevada,CP17,President,,WI,Write-In,18
 Nevada,CP17,Proposition 51,,,No,1136
 Nevada,CP17,Proposition 51,,,Yes,565
 Nevada,CP17,Proposition 52,,,No,580
@@ -711,14 +785,19 @@ Nevada,CP17,Proposition 66,,,No,671
 Nevada,CP17,Proposition 66,,,Yes,970
 Nevada,CP17,Proposition 67,,,No,989
 Nevada,CP17,Proposition 67,,,Yes,726
+Nevada,CP17,State Assembly,1,REP,Brian Dahle,1173
+Nevada,CP17,State Assembly,1,LIB,Donn Coenen,408
+Nevada,CP17,State Senate,1,DEM,Rob Rowen,614
+Nevada,CP17,State Senate,1,REP,Ted Gaines,1066
+Nevada,CP17,U.S. House,1,REP,Doug La Malfa,1016
+Nevada,CP17,U.S. House,1,DEM,Jim Reed,682
 Nevada,CP17,U.S. Senate,,DEM,Kamala D. Harris,868
 Nevada,CP17,U.S. Senate,,DEM,Loretta L. Sanchez,430
-Nevada,CP18,President,,REP/AI,Donald J. Trump,640
+Nevada,CP18,President,,REP,Donald J. Trump,640
 Nevada,CP18,President,,LIB,Gary Johnson,47
-Nevada,CP18,President,,PF,Gloria Estela La Riva,1
+Nevada,CP18,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP18,President,,DEM,Hillary Clinton,523
 Nevada,CP18,President,,GRN,Jill Stein,18
-Nevada,CP18,President,,WI,Write-In,16
 Nevada,CP18,Proposition 51,,,No,809
 Nevada,CP18,Proposition 51,,,Yes,437
 Nevada,CP18,Proposition 52,,,No,377
@@ -753,14 +832,19 @@ Nevada,CP18,Proposition 66,,,No,466
 Nevada,CP18,Proposition 66,,,Yes,722
 Nevada,CP18,Proposition 67,,,No,677
 Nevada,CP18,Proposition 67,,,Yes,570
+Nevada,CP18,State Assembly,1,REP,Brian Dahle,838
+Nevada,CP18,State Assembly,1,LIB,Donn Coenen,321
+Nevada,CP18,State Senate,1,DEM,Rob Rowen,470
+Nevada,CP18,State Senate,1,REP,Ted Gaines,760
+Nevada,CP18,U.S. House,1,REP,Doug La Malfa,715
+Nevada,CP18,U.S. House,1,DEM,Jim Reed,540
 Nevada,CP18,U.S. Senate,,DEM,Kamala D. Harris,636
 Nevada,CP18,U.S. Senate,,DEM,Loretta L. Sanchez,323
-Nevada,CP19,President,,REP/AI,Donald J. Trump,715
+Nevada,CP19,President,,REP,Donald J. Trump,715
 Nevada,CP19,President,,LIB,Gary Johnson,60
-Nevada,CP19,President,,PF,Gloria Estela La Riva,3
+Nevada,CP19,President,,PAF,Gloria Estela La Riva,3
 Nevada,CP19,President,,DEM,Hillary Clinton,560
 Nevada,CP19,President,,GRN,Jill Stein,33
-Nevada,CP19,President,,WI,Write-In,18
 Nevada,CP19,Proposition 51,,,No,846
 Nevada,CP19,Proposition 51,,,Yes,510
 Nevada,CP19,Proposition 52,,,No,476
@@ -795,14 +879,18 @@ Nevada,CP19,Proposition 66,,,No,540
 Nevada,CP19,Proposition 66,,,Yes,760
 Nevada,CP19,Proposition 67,,,No,770
 Nevada,CP19,Proposition 67,,,Yes,615
+Nevada,CP19,State Assembly,1,REP,Brian Dahle,911
+Nevada,CP19,State Assembly,1,LIB,Donn Coenen,347
+Nevada,CP19,State Senate,1,DEM,Rob Rowen,533
+Nevada,CP19,State Senate,1,REP,Ted Gaines,808
+Nevada,CP19,U.S. House,1,REP,Doug La Malfa,771
+Nevada,CP19,U.S. House,1,DEM,Jim Reed,591
 Nevada,CP19,U.S. Senate,,DEM,Kamala D. Harris,675
 Nevada,CP19,U.S. Senate,,DEM,Loretta L. Sanchez,371
-Nevada,CP20,President,,REP/AI,Donald J. Trump,230
+Nevada,CP20,President,,REP,Donald J. Trump,230
 Nevada,CP20,President,,LIB,Gary Johnson,19
-Nevada,CP20,President,,PF,Gloria Estela La Riva,0
 Nevada,CP20,President,,DEM,Hillary Clinton,90
 Nevada,CP20,President,,GRN,Jill Stein,14
-Nevada,CP20,President,,WI,Write-In,13
 Nevada,CP20,Proposition 51,,,No,254
 Nevada,CP20,Proposition 51,,,Yes,107
 Nevada,CP20,Proposition 52,,,No,156
@@ -837,14 +925,18 @@ Nevada,CP20,Proposition 66,,,No,159
 Nevada,CP20,Proposition 66,,,Yes,187
 Nevada,CP20,Proposition 67,,,No,238
 Nevada,CP20,Proposition 67,,,Yes,126
+Nevada,CP20,State Assembly,1,REP,Brian Dahle,261
+Nevada,CP20,State Assembly,1,LIB,Donn Coenen,75
+Nevada,CP20,State Senate,1,DEM,Rob Rowen,100
+Nevada,CP20,State Senate,1,REP,Ted Gaines,255
+Nevada,CP20,U.S. House,1,REP,Doug La Malfa,244
+Nevada,CP20,U.S. House,1,DEM,Jim Reed,119
 Nevada,CP20,U.S. Senate,,DEM,Kamala D. Harris,144
 Nevada,CP20,U.S. Senate,,DEM,Loretta L. Sanchez,101
-Nevada,CP21,President,,REP/AI,Donald J. Trump,248
+Nevada,CP21,President,,REP,Donald J. Trump,248
 Nevada,CP21,President,,LIB,Gary Johnson,12
-Nevada,CP21,President,,PF,Gloria Estela La Riva,0
 Nevada,CP21,President,,DEM,Hillary Clinton,164
 Nevada,CP21,President,,GRN,Jill Stein,13
-Nevada,CP21,President,,WI,Write-In,2
 Nevada,CP21,Proposition 51,,,No,276
 Nevada,CP21,Proposition 51,,,Yes,146
 Nevada,CP21,Proposition 52,,,No,156
@@ -879,14 +971,18 @@ Nevada,CP21,Proposition 66,,,No,152
 Nevada,CP21,Proposition 66,,,Yes,253
 Nevada,CP21,Proposition 67,,,No,258
 Nevada,CP21,Proposition 67,,,Yes,175
+Nevada,CP21,State Assembly,1,REP,Brian Dahle,289
+Nevada,CP21,State Assembly,1,LIB,Donn Coenen,104
+Nevada,CP21,State Senate,1,DEM,Rob Rowen,151
+Nevada,CP21,State Senate,1,REP,Ted Gaines,266
+Nevada,CP21,U.S. House,1,REP,Doug La Malfa,255
+Nevada,CP21,U.S. House,1,DEM,Jim Reed,172
 Nevada,CP21,U.S. Senate,,DEM,Kamala D. Harris,208
 Nevada,CP21,U.S. Senate,,DEM,Loretta L. Sanchez,123
-Nevada,CP22,President,,REP/AI,Donald J. Trump,121
+Nevada,CP22,President,,REP,Donald J. Trump,121
 Nevada,CP22,President,,LIB,Gary Johnson,9
-Nevada,CP22,President,,PF,Gloria Estela La Riva,0
 Nevada,CP22,President,,DEM,Hillary Clinton,79
 Nevada,CP22,President,,GRN,Jill Stein,7
-Nevada,CP22,President,,WI,Write-In,4
 Nevada,CP22,Proposition 51,,,No,153
 Nevada,CP22,Proposition 51,,,Yes,75
 Nevada,CP22,Proposition 52,,,No,78
@@ -921,14 +1017,19 @@ Nevada,CP22,Proposition 66,,,No,86
 Nevada,CP22,Proposition 66,,,Yes,126
 Nevada,CP22,Proposition 67,,,No,115
 Nevada,CP22,Proposition 67,,,Yes,109
+Nevada,CP22,State Assembly,1,REP,Brian Dahle,148
+Nevada,CP22,State Assembly,1,LIB,Donn Coenen,67
+Nevada,CP22,State Senate,1,DEM,Rob Rowen,78
+Nevada,CP22,State Senate,1,REP,Ted Gaines,141
+Nevada,CP22,U.S. House,1,REP,Doug La Malfa,139
+Nevada,CP22,U.S. House,1,DEM,Jim Reed,86
 Nevada,CP22,U.S. Senate,,DEM,Kamala D. Harris,113
 Nevada,CP22,U.S. Senate,,DEM,Loretta L. Sanchez,53
-Nevada,CP23,President,,REP/AI,Donald J. Trump,245
+Nevada,CP23,President,,REP,Donald J. Trump,245
 Nevada,CP23,President,,LIB,Gary Johnson,21
-Nevada,CP23,President,,PF,Gloria Estela La Riva,1
+Nevada,CP23,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP23,President,,DEM,Hillary Clinton,319
 Nevada,CP23,President,,GRN,Jill Stein,10
-Nevada,CP23,President,,WI,Write-In,5
 Nevada,CP23,Proposition 51,,,No,366
 Nevada,CP23,Proposition 51,,,Yes,239
 Nevada,CP23,Proposition 52,,,No,161
@@ -963,14 +1064,19 @@ Nevada,CP23,Proposition 66,,,No,267
 Nevada,CP23,Proposition 66,,,Yes,310
 Nevada,CP23,Proposition 67,,,No,291
 Nevada,CP23,Proposition 67,,,Yes,319
+Nevada,CP23,State Assembly,1,REP,Brian Dahle,384
+Nevada,CP23,State Assembly,1,LIB,Donn Coenen,158
+Nevada,CP23,State Senate,1,DEM,Rob Rowen,276
+Nevada,CP23,State Senate,1,REP,Ted Gaines,321
+Nevada,CP23,U.S. House,1,REP,Doug La Malfa,297
+Nevada,CP23,U.S. House,1,DEM,Jim Reed,311
 Nevada,CP23,U.S. Senate,,DEM,Kamala D. Harris,349
 Nevada,CP23,U.S. Senate,,DEM,Loretta L. Sanchez,134
-Nevada,CP24,President,,REP/AI,Donald J. Trump,542
+Nevada,CP24,President,,REP,Donald J. Trump,542
 Nevada,CP24,President,,LIB,Gary Johnson,61
-Nevada,CP24,President,,PF,Gloria Estela La Riva,3
+Nevada,CP24,President,,PAF,Gloria Estela La Riva,3
 Nevada,CP24,President,,DEM,Hillary Clinton,593
 Nevada,CP24,President,,GRN,Jill Stein,70
-Nevada,CP24,President,,WI,Write-In,21
 Nevada,CP24,Proposition 51,,,No,721
 Nevada,CP24,Proposition 51,,,Yes,560
 Nevada,CP24,Proposition 52,,,No,380
@@ -1005,14 +1111,19 @@ Nevada,CP24,Proposition 66,,,No,592
 Nevada,CP24,Proposition 66,,,Yes,629
 Nevada,CP24,Proposition 67,,,No,596
 Nevada,CP24,Proposition 67,,,Yes,694
+Nevada,CP24,State Assembly,1,REP,Brian Dahle,699
+Nevada,CP24,State Assembly,1,LIB,Donn Coenen,437
+Nevada,CP24,State Senate,1,DEM,Rob Rowen,623
+Nevada,CP24,State Senate,1,REP,Ted Gaines,615
+Nevada,CP24,U.S. House,1,REP,Doug La Malfa,589
+Nevada,CP24,U.S. House,1,DEM,Jim Reed,682
 Nevada,CP24,U.S. Senate,,DEM,Kamala D. Harris,747
 Nevada,CP24,U.S. Senate,,DEM,Loretta L. Sanchez,304
-Nevada,CP25,President,,REP/AI,Donald J. Trump,367
+Nevada,CP25,President,,REP,Donald J. Trump,367
 Nevada,CP25,President,,LIB,Gary Johnson,62
-Nevada,CP25,President,,PF,Gloria Estela La Riva,6
+Nevada,CP25,President,,PAF,Gloria Estela La Riva,6
 Nevada,CP25,President,,DEM,Hillary Clinton,644
 Nevada,CP25,President,,GRN,Jill Stein,59
-Nevada,CP25,President,,WI,Write-In,26
 Nevada,CP25,Proposition 51,,,No,496
 Nevada,CP25,Proposition 51,,,Yes,612
 Nevada,CP25,Proposition 52,,,No,281
@@ -1047,14 +1158,19 @@ Nevada,CP25,Proposition 66,,,No,562
 Nevada,CP25,Proposition 66,,,Yes,486
 Nevada,CP25,Proposition 67,,,No,408
 Nevada,CP25,Proposition 67,,,Yes,724
+Nevada,CP25,State Assembly,1,REP,Brian Dahle,550
+Nevada,CP25,State Assembly,1,LIB,Donn Coenen,404
+Nevada,CP25,State Senate,1,DEM,Rob Rowen,676
+Nevada,CP25,State Senate,1,REP,Ted Gaines,431
+Nevada,CP25,U.S. House,1,REP,Doug La Malfa,395
+Nevada,CP25,U.S. House,1,DEM,Jim Reed,729
 Nevada,CP25,U.S. Senate,,DEM,Kamala D. Harris,689
 Nevada,CP25,U.S. Senate,,DEM,Loretta L. Sanchez,263
-Nevada,CP26,President,,REP/AI,Donald J. Trump,594
+Nevada,CP26,President,,REP,Donald J. Trump,594
 Nevada,CP26,President,,LIB,Gary Johnson,74
-Nevada,CP26,President,,PF,Gloria Estela La Riva,2
+Nevada,CP26,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP26,President,,DEM,Hillary Clinton,774
 Nevada,CP26,President,,GRN,Jill Stein,68
-Nevada,CP26,President,,WI,Write-In,38
 Nevada,CP26,Proposition 51,,,No,789
 Nevada,CP26,Proposition 51,,,Yes,731
 Nevada,CP26,Proposition 52,,,No,433
@@ -1089,14 +1205,19 @@ Nevada,CP26,Proposition 66,,,No,710
 Nevada,CP26,Proposition 66,,,Yes,718
 Nevada,CP26,Proposition 67,,,No,658
 Nevada,CP26,Proposition 67,,,Yes,880
+Nevada,CP26,State Assembly,1,REP,Brian Dahle,829
+Nevada,CP26,State Assembly,1,LIB,Donn Coenen,506
+Nevada,CP26,State Senate,1,DEM,Rob Rowen,795
+Nevada,CP26,State Senate,1,REP,Ted Gaines,690
+Nevada,CP26,U.S. House,1,REP,Doug La Malfa,647
+Nevada,CP26,U.S. House,1,DEM,Jim Reed,873
 Nevada,CP26,U.S. Senate,,DEM,Kamala D. Harris,853
 Nevada,CP26,U.S. Senate,,DEM,Loretta L. Sanchez,377
-Nevada,CP27,President,,REP/AI,Donald J. Trump,407
+Nevada,CP27,President,,REP,Donald J. Trump,407
 Nevada,CP27,President,,LIB,Gary Johnson,40
-Nevada,CP27,President,,PF,Gloria Estela La Riva,4
+Nevada,CP27,President,,PAF,Gloria Estela La Riva,4
 Nevada,CP27,President,,DEM,Hillary Clinton,440
 Nevada,CP27,President,,GRN,Jill Stein,54
-Nevada,CP27,President,,WI,Write-In,17
 Nevada,CP27,Proposition 51,,,No,492
 Nevada,CP27,Proposition 51,,,Yes,433
 Nevada,CP27,Proposition 52,,,No,230
@@ -1131,14 +1252,19 @@ Nevada,CP27,Proposition 66,,,No,398
 Nevada,CP27,Proposition 66,,,Yes,472
 Nevada,CP27,Proposition 67,,,No,448
 Nevada,CP27,Proposition 67,,,Yes,480
+Nevada,CP27,State Assembly,1,REP,Brian Dahle,549
+Nevada,CP27,State Assembly,1,LIB,Donn Coenen,295
+Nevada,CP27,State Senate,1,DEM,Rob Rowen,440
+Nevada,CP27,State Senate,1,REP,Ted Gaines,473
+Nevada,CP27,U.S. House,1,REP,Doug La Malfa,455
+Nevada,CP27,U.S. House,1,DEM,Jim Reed,479
 Nevada,CP27,U.S. Senate,,DEM,Kamala D. Harris,503
 Nevada,CP27,U.S. Senate,,DEM,Loretta L. Sanchez,249
-Nevada,CP28,President,,REP/AI,Donald J. Trump,394
+Nevada,CP28,President,,REP,Donald J. Trump,394
 Nevada,CP28,President,,LIB,Gary Johnson,84
-Nevada,CP28,President,,PF,Gloria Estela La Riva,2
+Nevada,CP28,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP28,President,,DEM,Hillary Clinton,960
 Nevada,CP28,President,,GRN,Jill Stein,37
-Nevada,CP28,President,,WI,Write-In,19
 Nevada,CP28,Proposition 51,,,No,671
 Nevada,CP28,Proposition 51,,,Yes,783
 Nevada,CP28,Proposition 52,,,No,398
@@ -1173,14 +1299,19 @@ Nevada,CP28,Proposition 66,,,No,657
 Nevada,CP28,Proposition 66,,,Yes,696
 Nevada,CP28,Proposition 67,,,No,344
 Nevada,CP28,Proposition 67,,,Yes,1148
+Nevada,CP28,State Assembly,1,REP,Brian Dahle,807
+Nevada,CP28,State Assembly,1,LIB,Donn Coenen,457
+Nevada,CP28,State Senate,1,DEM,Rob Rowen,789
+Nevada,CP28,State Senate,1,REP,Ted Gaines,615
+Nevada,CP28,U.S. House,4,DEM,Robert W. Derlet,920
+Nevada,CP28,U.S. House,4,REP,Tom McClintock,525
 Nevada,CP28,U.S. Senate,,DEM,Kamala D. Harris,870
 Nevada,CP28,U.S. Senate,,DEM,Loretta L. Sanchez,354
-Nevada,CP29,President,,REP/AI,Donald J. Trump,652
+Nevada,CP29,President,,REP,Donald J. Trump,652
 Nevada,CP29,President,,LIB,Gary Johnson,67
-Nevada,CP29,President,,PF,Gloria Estela La Riva,1
+Nevada,CP29,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP29,President,,DEM,Hillary Clinton,563
 Nevada,CP29,President,,GRN,Jill Stein,60
-Nevada,CP29,President,,WI,Write-In,21
 Nevada,CP29,Proposition 51,,,No,839
 Nevada,CP29,Proposition 51,,,Yes,494
 Nevada,CP29,Proposition 52,,,No,422
@@ -1215,14 +1346,19 @@ Nevada,CP29,Proposition 66,,,No,562
 Nevada,CP29,Proposition 66,,,Yes,704
 Nevada,CP29,Proposition 67,,,No,713
 Nevada,CP29,Proposition 67,,,Yes,644
+Nevada,CP29,State Assembly,1,REP,Brian Dahle,852
+Nevada,CP29,State Assembly,1,LIB,Donn Coenen,381
+Nevada,CP29,State Senate,1,DEM,Rob Rowen,544
+Nevada,CP29,State Senate,1,REP,Ted Gaines,772
+Nevada,CP29,U.S. House,1,REP,Doug La Malfa,748
+Nevada,CP29,U.S. House,1,DEM,Jim Reed,606
 Nevada,CP29,U.S. Senate,,DEM,Kamala D. Harris,740
 Nevada,CP29,U.S. Senate,,DEM,Loretta L. Sanchez,309
-Nevada,CP30,President,,REP/AI,Donald J. Trump,354
+Nevada,CP30,President,,REP,Donald J. Trump,354
 Nevada,CP30,President,,LIB,Gary Johnson,36
-Nevada,CP30,President,,PF,Gloria Estela La Riva,1
+Nevada,CP30,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP30,President,,DEM,Hillary Clinton,345
 Nevada,CP30,President,,GRN,Jill Stein,34
-Nevada,CP30,President,,WI,Write-In,9
 Nevada,CP30,Proposition 51,,,No,397
 Nevada,CP30,Proposition 51,,,Yes,362
 Nevada,CP30,Proposition 52,,,No,198
@@ -1257,14 +1393,19 @@ Nevada,CP30,Proposition 66,,,No,328
 Nevada,CP30,Proposition 66,,,Yes,386
 Nevada,CP30,Proposition 67,,,No,381
 Nevada,CP30,Proposition 67,,,Yes,383
+Nevada,CP30,State Assembly,1,REP,Brian Dahle,444
+Nevada,CP30,State Assembly,1,LIB,Donn Coenen,230
+Nevada,CP30,State Senate,1,DEM,Rob Rowen,348
+Nevada,CP30,State Senate,1,REP,Ted Gaines,401
+Nevada,CP30,U.S. House,1,REP,Doug La Malfa,372
+Nevada,CP30,U.S. House,1,DEM,Jim Reed,393
 Nevada,CP30,U.S. Senate,,DEM,Kamala D. Harris,420
 Nevada,CP30,U.S. Senate,,DEM,Loretta L. Sanchez,189
-Nevada,CP31,President,,REP/AI,Donald J. Trump,969
+Nevada,CP31,President,,REP,Donald J. Trump,969
 Nevada,CP31,President,,LIB,Gary Johnson,90
-Nevada,CP31,President,,PF,Gloria Estela La Riva,1
+Nevada,CP31,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP31,President,,DEM,Hillary Clinton,798
 Nevada,CP31,President,,GRN,Jill Stein,37
-Nevada,CP31,President,,WI,Write-In,30
 Nevada,CP31,Proposition 51,,,No,1224
 Nevada,CP31,Proposition 51,,,Yes,657
 Nevada,CP31,Proposition 52,,,No,595
@@ -1299,14 +1440,19 @@ Nevada,CP31,Proposition 66,,,No,724
 Nevada,CP31,Proposition 66,,,Yes,1080
 Nevada,CP31,Proposition 67,,,No,1045
 Nevada,CP31,Proposition 67,,,Yes,842
+Nevada,CP31,State Assembly,1,REP,Brian Dahle,1291
+Nevada,CP31,State Assembly,1,LIB,Donn Coenen,462
+Nevada,CP31,State Senate,1,DEM,Rob Rowen,709
+Nevada,CP31,State Senate,1,REP,Ted Gaines,1167
+Nevada,CP31,U.S. House,1,REP,Doug La Malfa,1117
+Nevada,CP31,U.S. House,1,DEM,Jim Reed,798
 Nevada,CP31,U.S. Senate,,DEM,Kamala D. Harris,987
 Nevada,CP31,U.S. Senate,,DEM,Loretta L. Sanchez,477
-Nevada,CP32,President,,REP/AI,Donald J. Trump,707
+Nevada,CP32,President,,REP,Donald J. Trump,707
 Nevada,CP32,President,,LIB,Gary Johnson,45
-Nevada,CP32,President,,PF,Gloria Estela La Riva,1
+Nevada,CP32,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP32,President,,DEM,Hillary Clinton,551
 Nevada,CP32,President,,GRN,Jill Stein,11
-Nevada,CP32,President,,WI,Write-In,12
 Nevada,CP32,Proposition 51,,,No,845
 Nevada,CP32,Proposition 51,,,Yes,465
 Nevada,CP32,Proposition 52,,,No,396
@@ -1341,14 +1487,18 @@ Nevada,CP32,Proposition 66,,,No,501
 Nevada,CP32,Proposition 66,,,Yes,756
 Nevada,CP32,Proposition 67,,,No,728
 Nevada,CP32,Proposition 67,,,Yes,592
+Nevada,CP32,State Assembly,1,REP,Brian Dahle,924
+Nevada,CP32,State Assembly,1,LIB,Donn Coenen,283
+Nevada,CP32,State Senate,1,DEM,Rob Rowen,503
+Nevada,CP32,State Senate,1,REP,Ted Gaines,802
+Nevada,CP32,U.S. House,1,REP,Doug La Malfa,778
+Nevada,CP32,U.S. House,1,DEM,Jim Reed,555
 Nevada,CP32,U.S. Senate,,DEM,Kamala D. Harris,683
 Nevada,CP32,U.S. Senate,,DEM,Loretta L. Sanchez,341
-Nevada,CP33,President,,REP/AI,Donald J. Trump,43
+Nevada,CP33,President,,REP,Donald J. Trump,43
 Nevada,CP33,President,,LIB,Gary Johnson,5
-Nevada,CP33,President,,PF,Gloria Estela La Riva,0
 Nevada,CP33,President,,DEM,Hillary Clinton,75
 Nevada,CP33,President,,GRN,Jill Stein,11
-Nevada,CP33,President,,WI,Write-In,8
 Nevada,CP33,Proposition 51,,,No,73
 Nevada,CP33,Proposition 51,,,Yes,65
 Nevada,CP33,Proposition 52,,,No,38
@@ -1383,14 +1533,18 @@ Nevada,CP33,Proposition 66,,,No,81
 Nevada,CP33,Proposition 66,,,Yes,51
 Nevada,CP33,Proposition 67,,,No,48
 Nevada,CP33,Proposition 67,,,Yes,93
+Nevada,CP33,State Assembly,1,REP,Brian Dahle,60
+Nevada,CP33,State Assembly,1,LIB,Donn Coenen,63
+Nevada,CP33,State Senate,1,DEM,Rob Rowen,82
+Nevada,CP33,State Senate,1,REP,Ted Gaines,55
+Nevada,CP33,U.S. House,1,REP,Doug La Malfa,52
+Nevada,CP33,U.S. House,1,DEM,Jim Reed,89
 Nevada,CP33,U.S. Senate,,DEM,Kamala D. Harris,85
 Nevada,CP33,U.S. Senate,,DEM,Loretta L. Sanchez,33
-Nevada,CP34,President,,REP/AI,Donald J. Trump,170
+Nevada,CP34,President,,REP,Donald J. Trump,170
 Nevada,CP34,President,,LIB,Gary Johnson,9
-Nevada,CP34,President,,PF,Gloria Estela La Riva,0
 Nevada,CP34,President,,DEM,Hillary Clinton,186
 Nevada,CP34,President,,GRN,Jill Stein,24
-Nevada,CP34,President,,WI,Write-In,12
 Nevada,CP34,Proposition 51,,,No,207
 Nevada,CP34,Proposition 51,,,Yes,166
 Nevada,CP34,Proposition 52,,,No,143
@@ -1425,14 +1579,19 @@ Nevada,CP34,Proposition 66,,,No,202
 Nevada,CP34,Proposition 66,,,Yes,159
 Nevada,CP34,Proposition 67,,,No,168
 Nevada,CP34,Proposition 67,,,Yes,223
+Nevada,CP34,State Assembly,1,REP,Brian Dahle,206
+Nevada,CP34,State Assembly,1,LIB,Donn Coenen,130
+Nevada,CP34,State Senate,1,DEM,Rob Rowen,203
+Nevada,CP34,State Senate,1,REP,Ted Gaines,178
+Nevada,CP34,U.S. House,1,REP,Doug La Malfa,171
+Nevada,CP34,U.S. House,1,DEM,Jim Reed,218
 Nevada,CP34,U.S. Senate,,DEM,Kamala D. Harris,204
 Nevada,CP34,U.S. Senate,,DEM,Loretta L. Sanchez,112
-Nevada,CP35,President,,REP/AI,Donald J. Trump,450
+Nevada,CP35,President,,REP,Donald J. Trump,450
 Nevada,CP35,President,,LIB,Gary Johnson,46
-Nevada,CP35,President,,PF,Gloria Estela La Riva,2
+Nevada,CP35,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP35,President,,DEM,Hillary Clinton,367
 Nevada,CP35,President,,GRN,Jill Stein,32
-Nevada,CP35,President,,WI,Write-In,16
 Nevada,CP35,Proposition 51,,,No,591
 Nevada,CP35,Proposition 51,,,Yes,293
 Nevada,CP35,Proposition 52,,,No,293
@@ -1467,14 +1626,19 @@ Nevada,CP35,Proposition 66,,,No,407
 Nevada,CP35,Proposition 66,,,Yes,431
 Nevada,CP35,Proposition 67,,,No,444
 Nevada,CP35,Proposition 67,,,Yes,454
+Nevada,CP35,State Assembly,1,REP,Brian Dahle,530
+Nevada,CP35,State Assembly,1,LIB,Donn Coenen,275
+Nevada,CP35,State Senate,1,DEM,Rob Rowen,375
+Nevada,CP35,State Senate,1,REP,Ted Gaines,488
+Nevada,CP35,U.S. House,1,REP,Doug La Malfa,489
+Nevada,CP35,U.S. House,1,DEM,Jim Reed,396
 Nevada,CP35,U.S. Senate,,DEM,Kamala D. Harris,447
 Nevada,CP35,U.S. Senate,,DEM,Loretta L. Sanchez,223
-Nevada,CP36,President,,REP/AI,Donald J. Trump,198
+Nevada,CP36,President,,REP,Donald J. Trump,198
 Nevada,CP36,President,,LIB,Gary Johnson,14
-Nevada,CP36,President,,PF,Gloria Estela La Riva,1
+Nevada,CP36,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP36,President,,DEM,Hillary Clinton,176
 Nevada,CP36,President,,GRN,Jill Stein,17
-Nevada,CP36,President,,WI,Write-In,9
 Nevada,CP36,Proposition 51,,,No,238
 Nevada,CP36,Proposition 51,,,Yes,167
 Nevada,CP36,Proposition 52,,,No,125
@@ -1509,14 +1673,19 @@ Nevada,CP36,Proposition 66,,,No,166
 Nevada,CP36,Proposition 66,,,Yes,221
 Nevada,CP36,Proposition 67,,,No,200
 Nevada,CP36,Proposition 67,,,Yes,208
+Nevada,CP36,State Assembly,1,REP,Brian Dahle,243
+Nevada,CP36,State Assembly,1,LIB,Donn Coenen,128
+Nevada,CP36,State Senate,1,DEM,Rob Rowen,181
+Nevada,CP36,State Senate,1,REP,Ted Gaines,217
+Nevada,CP36,U.S. House,1,REP,Doug La Malfa,202
+Nevada,CP36,U.S. House,1,DEM,Jim Reed,200
 Nevada,CP36,U.S. Senate,,DEM,Kamala D. Harris,216
 Nevada,CP36,U.S. Senate,,DEM,Loretta L. Sanchez,102
-Nevada,CP37,President,,REP/AI,Donald J. Trump,1186
+Nevada,CP37,President,,REP,Donald J. Trump,1186
 Nevada,CP37,President,,LIB,Gary Johnson,83
-Nevada,CP37,President,,PF,Gloria Estela La Riva,4
+Nevada,CP37,President,,PAF,Gloria Estela La Riva,4
 Nevada,CP37,President,,DEM,Hillary Clinton,697
 Nevada,CP37,President,,GRN,Jill Stein,55
-Nevada,CP37,President,,WI,Write-In,27
 Nevada,CP37,Proposition 51,,,No,1326
 Nevada,CP37,Proposition 51,,,Yes,670
 Nevada,CP37,Proposition 52,,,No,746
@@ -1551,14 +1720,18 @@ Nevada,CP37,Proposition 66,,,No,833
 Nevada,CP37,Proposition 66,,,Yes,1105
 Nevada,CP37,Proposition 67,,,No,1196
 Nevada,CP37,Proposition 67,,,Yes,825
+Nevada,CP37,State Assembly,1,REP,Brian Dahle,1343
+Nevada,CP37,State Assembly,1,LIB,Donn Coenen,521
+Nevada,CP37,State Senate,1,DEM,Rob Rowen,735
+Nevada,CP37,State Senate,1,REP,Ted Gaines,1244
+Nevada,CP37,U.S. House,1,REP,Doug La Malfa,1217
+Nevada,CP37,U.S. House,1,DEM,Jim Reed,801
 Nevada,CP37,U.S. Senate,,DEM,Kamala D. Harris,942
 Nevada,CP37,U.S. Senate,,DEM,Loretta L. Sanchez,551
-Nevada,CP38,President,,REP/AI,Donald J. Trump,265
+Nevada,CP38,President,,REP,Donald J. Trump,265
 Nevada,CP38,President,,LIB,Gary Johnson,21
-Nevada,CP38,President,,PF,Gloria Estela La Riva,0
 Nevada,CP38,President,,DEM,Hillary Clinton,203
 Nevada,CP38,President,,GRN,Jill Stein,34
-Nevada,CP38,President,,WI,Write-In,15
 Nevada,CP38,Proposition 51,,,No,328
 Nevada,CP38,Proposition 51,,,Yes,198
 Nevada,CP38,Proposition 52,,,No,158
@@ -1593,14 +1766,19 @@ Nevada,CP38,Proposition 66,,,No,258
 Nevada,CP38,Proposition 66,,,Yes,245
 Nevada,CP38,Proposition 67,,,No,272
 Nevada,CP38,Proposition 67,,,Yes,257
+Nevada,CP38,State Assembly,1,REP,Brian Dahle,321
+Nevada,CP38,State Assembly,1,LIB,Donn Coenen,154
+Nevada,CP38,State Senate,1,DEM,Rob Rowen,215
+Nevada,CP38,State Senate,1,REP,Ted Gaines,300
+Nevada,CP38,U.S. House,1,REP,Doug La Malfa,280
+Nevada,CP38,U.S. House,1,DEM,Jim Reed,251
 Nevada,CP38,U.S. Senate,,DEM,Kamala D. Harris,253
 Nevada,CP38,U.S. Senate,,DEM,Loretta L. Sanchez,146
-Nevada,CP39,President,,REP/AI,Donald J. Trump,321
+Nevada,CP39,President,,REP,Donald J. Trump,321
 Nevada,CP39,President,,LIB,Gary Johnson,17
-Nevada,CP39,President,,PF,Gloria Estela La Riva,1
+Nevada,CP39,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP39,President,,DEM,Hillary Clinton,254
 Nevada,CP39,President,,GRN,Jill Stein,25
-Nevada,CP39,President,,WI,Write-In,12
 Nevada,CP39,Proposition 51,,,No,392
 Nevada,CP39,Proposition 51,,,Yes,237
 Nevada,CP39,Proposition 52,,,No,188
@@ -1635,14 +1813,18 @@ Nevada,CP39,Proposition 66,,,No,268
 Nevada,CP39,Proposition 66,,,Yes,331
 Nevada,CP39,Proposition 67,,,No,349
 Nevada,CP39,Proposition 67,,,Yes,284
+Nevada,CP39,State Assembly,1,REP,Brian Dahle,397
+Nevada,CP39,State Assembly,1,LIB,Donn Coenen,178
+Nevada,CP39,State Senate,1,DEM,Rob Rowen,264
+Nevada,CP39,State Senate,1,REP,Ted Gaines,351
+Nevada,CP39,U.S. House,1,REP,Doug La Malfa,349
+Nevada,CP39,U.S. House,1,DEM,Jim Reed,282
 Nevada,CP39,U.S. Senate,,DEM,Kamala D. Harris,308
 Nevada,CP39,U.S. Senate,,DEM,Loretta L. Sanchez,163
-Nevada,CP40,President,,REP/AI,Donald J. Trump,206
+Nevada,CP40,President,,REP,Donald J. Trump,206
 Nevada,CP40,President,,LIB,Gary Johnson,49
-Nevada,CP40,President,,PF,Gloria Estela La Riva,0
 Nevada,CP40,President,,DEM,Hillary Clinton,471
 Nevada,CP40,President,,GRN,Jill Stein,15
-Nevada,CP40,President,,WI,Write-In,6
 Nevada,CP40,Proposition 51,,,No,369
 Nevada,CP40,Proposition 51,,,Yes,375
 Nevada,CP40,Proposition 52,,,No,212
@@ -1677,14 +1859,19 @@ Nevada,CP40,Proposition 66,,,No,357
 Nevada,CP40,Proposition 66,,,Yes,329
 Nevada,CP40,Proposition 67,,,No,193
 Nevada,CP40,Proposition 67,,,Yes,551
+Nevada,CP40,State Assembly,1,REP,Brian Dahle,403
+Nevada,CP40,State Assembly,1,LIB,Donn Coenen,226
+Nevada,CP40,State Senate,1,DEM,Rob Rowen,397
+Nevada,CP40,State Senate,1,REP,Ted Gaines,315
+Nevada,CP40,U.S. House,4,DEM,Robert W. Derlet,468
+Nevada,CP40,U.S. House,4,REP,Tom McClintock,274
 Nevada,CP40,U.S. Senate,,DEM,Kamala D. Harris,444
 Nevada,CP40,U.S. Senate,,DEM,Loretta L. Sanchez,172
-Nevada,CP41,President,,REP/AI,Donald J. Trump,145
+Nevada,CP41,President,,REP,Donald J. Trump,145
 Nevada,CP41,President,,LIB,Gary Johnson,13
-Nevada,CP41,President,,PF,Gloria Estela La Riva,2
+Nevada,CP41,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP41,President,,DEM,Hillary Clinton,364
 Nevada,CP41,President,,GRN,Jill Stein,108
-Nevada,CP41,President,,WI,Write-In,11
 Nevada,CP41,Proposition 51,,,No,266
 Nevada,CP41,Proposition 51,,,Yes,333
 Nevada,CP41,Proposition 52,,,No,128
@@ -1719,14 +1906,19 @@ Nevada,CP41,Proposition 66,,,No,353
 Nevada,CP41,Proposition 66,,,Yes,209
 Nevada,CP41,Proposition 67,,,No,177
 Nevada,CP41,Proposition 67,,,Yes,444
+Nevada,CP41,State Assembly,1,REP,Brian Dahle,191
+Nevada,CP41,State Assembly,1,LIB,Donn Coenen,316
+Nevada,CP41,State Senate,1,DEM,Rob Rowen,428
+Nevada,CP41,State Senate,1,REP,Ted Gaines,146
+Nevada,CP41,U.S. House,1,REP,Doug La Malfa,151
+Nevada,CP41,U.S. House,1,DEM,Jim Reed,458
 Nevada,CP41,U.S. Senate,,DEM,Kamala D. Harris,384
 Nevada,CP41,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Nevada,CP42,President,,REP/AI,Donald J. Trump,74
+Nevada,CP42,President,,REP,Donald J. Trump,74
 Nevada,CP42,President,,LIB,Gary Johnson,21
-Nevada,CP42,President,,PF,Gloria Estela La Riva,1
+Nevada,CP42,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP42,President,,DEM,Hillary Clinton,411
 Nevada,CP42,President,,GRN,Jill Stein,65
-Nevada,CP42,President,,WI,Write-In,17
 Nevada,CP42,Proposition 51,,,No,216
 Nevada,CP42,Proposition 51,,,Yes,311
 Nevada,CP42,Proposition 52,,,No,136
@@ -1761,14 +1953,18 @@ Nevada,CP42,Proposition 66,,,No,350
 Nevada,CP42,Proposition 66,,,Yes,164
 Nevada,CP42,Proposition 67,,,No,106
 Nevada,CP42,Proposition 67,,,Yes,445
+Nevada,CP42,State Assembly,1,REP,Brian Dahle,139
+Nevada,CP42,State Assembly,1,LIB,Donn Coenen,317
+Nevada,CP42,State Senate,1,DEM,Rob Rowen,440
+Nevada,CP42,State Senate,1,REP,Ted Gaines,88
+Nevada,CP42,U.S. House,1,REP,Doug La Malfa,85
+Nevada,CP42,U.S. House,1,DEM,Jim Reed,461
 Nevada,CP42,U.S. Senate,,DEM,Kamala D. Harris,393
 Nevada,CP42,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Nevada,CP43,President,,REP/AI,Donald J. Trump,165
+Nevada,CP43,President,,REP,Donald J. Trump,165
 Nevada,CP43,President,,LIB,Gary Johnson,29
-Nevada,CP43,President,,PF,Gloria Estela La Riva,0
 Nevada,CP43,President,,DEM,Hillary Clinton,443
 Nevada,CP43,President,,GRN,Jill Stein,35
-Nevada,CP43,President,,WI,Write-In,11
 Nevada,CP43,Proposition 51,,,No,272
 Nevada,CP43,Proposition 51,,,Yes,372
 Nevada,CP43,Proposition 52,,,No,166
@@ -1803,14 +1999,18 @@ Nevada,CP43,Proposition 66,,,No,287
 Nevada,CP43,Proposition 66,,,Yes,305
 Nevada,CP43,Proposition 67,,,No,144
 Nevada,CP43,Proposition 67,,,Yes,526
+Nevada,CP43,State Assembly,1,REP,Brian Dahle,290
+Nevada,CP43,State Assembly,1,LIB,Donn Coenen,270
+Nevada,CP43,State Senate,1,DEM,Rob Rowen,397
+Nevada,CP43,State Senate,1,REP,Ted Gaines,226
+Nevada,CP43,U.S. House,4,DEM,Robert W. Derlet,444
+Nevada,CP43,U.S. House,4,REP,Tom McClintock,210
 Nevada,CP43,U.S. Senate,,DEM,Kamala D. Harris,393
 Nevada,CP43,U.S. Senate,,DEM,Loretta L. Sanchez,150
-Nevada,CP44,President,,REP/AI,Donald J. Trump,153
+Nevada,CP44,President,,REP,Donald J. Trump,153
 Nevada,CP44,President,,LIB,Gary Johnson,30
-Nevada,CP44,President,,PF,Gloria Estela La Riva,0
 Nevada,CP44,President,,DEM,Hillary Clinton,410
 Nevada,CP44,President,,GRN,Jill Stein,17
-Nevada,CP44,President,,WI,Write-In,6
 Nevada,CP44,Proposition 51,,,No,281
 Nevada,CP44,Proposition 51,,,Yes,322
 Nevada,CP44,Proposition 52,,,No,151
@@ -1845,14 +2045,19 @@ Nevada,CP44,Proposition 66,,,No,290
 Nevada,CP44,Proposition 66,,,Yes,269
 Nevada,CP44,Proposition 67,,,No,145
 Nevada,CP44,Proposition 67,,,Yes,465
+Nevada,CP44,State Assembly,1,REP,Brian Dahle,325
+Nevada,CP44,State Assembly,1,LIB,Donn Coenen,191
+Nevada,CP44,State Senate,1,DEM,Rob Rowen,316
+Nevada,CP44,State Senate,1,REP,Ted Gaines,267
+Nevada,CP44,U.S. House,4,DEM,Robert W. Derlet,376
+Nevada,CP44,U.S. House,4,REP,Tom McClintock,220
 Nevada,CP44,U.S. Senate,,DEM,Kamala D. Harris,379
 Nevada,CP44,U.S. Senate,,DEM,Loretta L. Sanchez,127
-Nevada,CP45,President,,REP/AI,Donald J. Trump,281
+Nevada,CP45,President,,REP,Donald J. Trump,281
 Nevada,CP45,President,,LIB,Gary Johnson,40
-Nevada,CP45,President,,PF,Gloria Estela La Riva,1
+Nevada,CP45,President,,PAF,Gloria Estela La Riva,1
 Nevada,CP45,President,,DEM,Hillary Clinton,787
 Nevada,CP45,President,,GRN,Jill Stein,39
-Nevada,CP45,President,,WI,Write-In,18
 Nevada,CP45,Proposition 51,,,No,524
 Nevada,CP45,Proposition 51,,,Yes,620
 Nevada,CP45,Proposition 52,,,No,282
@@ -1887,14 +2092,18 @@ Nevada,CP45,Proposition 66,,,No,511
 Nevada,CP45,Proposition 66,,,Yes,547
 Nevada,CP45,Proposition 67,,,No,318
 Nevada,CP45,Proposition 67,,,Yes,851
+Nevada,CP45,State Assembly,1,REP,Brian Dahle,602
+Nevada,CP45,State Assembly,1,LIB,Donn Coenen,372
+Nevada,CP45,State Senate,1,DEM,Rob Rowen,640
+Nevada,CP45,State Senate,1,REP,Ted Gaines,491
+Nevada,CP45,U.S. House,4,DEM,Robert W. Derlet,756
+Nevada,CP45,U.S. House,4,REP,Tom McClintock,412
 Nevada,CP45,U.S. Senate,,DEM,Kamala D. Harris,742
 Nevada,CP45,U.S. Senate,,DEM,Loretta L. Sanchez,243
-Nevada,CP46,President,,REP/AI,Donald J. Trump,348
+Nevada,CP46,President,,REP,Donald J. Trump,348
 Nevada,CP46,President,,LIB,Gary Johnson,72
-Nevada,CP46,President,,PF,Gloria Estela La Riva,0
 Nevada,CP46,President,,DEM,Hillary Clinton,919
 Nevada,CP46,President,,GRN,Jill Stein,46
-Nevada,CP46,President,,WI,Write-In,18
 Nevada,CP46,Proposition 51,,,No,637
 Nevada,CP46,Proposition 51,,,Yes,733
 Nevada,CP46,Proposition 52,,,No,361
@@ -1929,14 +2138,19 @@ Nevada,CP46,Proposition 66,,,No,638
 Nevada,CP46,Proposition 66,,,Yes,633
 Nevada,CP46,Proposition 67,,,No,323
 Nevada,CP46,Proposition 67,,,Yes,1090
+Nevada,CP46,State Assembly,1,REP,Brian Dahle,666
+Nevada,CP46,State Assembly,1,LIB,Donn Coenen,522
+Nevada,CP46,State Senate,1,DEM,Rob Rowen,804
+Nevada,CP46,State Senate,1,REP,Ted Gaines,537
+Nevada,CP46,U.S. House,4,DEM,Robert W. Derlet,927
+Nevada,CP46,U.S. House,4,REP,Tom McClintock,458
 Nevada,CP46,U.S. Senate,,DEM,Kamala D. Harris,778
 Nevada,CP46,U.S. Senate,,DEM,Loretta L. Sanchez,370
-Nevada,CP47,President,,REP/AI,Donald J. Trump,365
+Nevada,CP47,President,,REP,Donald J. Trump,365
 Nevada,CP47,President,,LIB,Gary Johnson,64
-Nevada,CP47,President,,PF,Gloria Estela La Riva,2
+Nevada,CP47,President,,PAF,Gloria Estela La Riva,2
 Nevada,CP47,President,,DEM,Hillary Clinton,1007
 Nevada,CP47,President,,GRN,Jill Stein,36
-Nevada,CP47,President,,WI,Write-In,20
 Nevada,CP47,Proposition 51,,,No,685
 Nevada,CP47,Proposition 51,,,Yes,785
 Nevada,CP47,Proposition 52,,,No,374
@@ -1971,14 +2185,16 @@ Nevada,CP47,Proposition 66,,,No,714
 Nevada,CP47,Proposition 66,,,Yes,683
 Nevada,CP47,Proposition 67,,,No,373
 Nevada,CP47,Proposition 67,,,Yes,1119
+Nevada,CP47,State Assembly,1,REP,Brian Dahle,701
+Nevada,CP47,State Assembly,1,LIB,Donn Coenen,539
+Nevada,CP47,State Senate,1,DEM,Rob Rowen,834
+Nevada,CP47,State Senate,1,REP,Ted Gaines,565
+Nevada,CP47,U.S. House,4,DEM,Robert W. Derlet,947
+Nevada,CP47,U.S. House,4,REP,Tom McClintock,497
 Nevada,CP47,U.S. Senate,,DEM,Kamala D. Harris,862
 Nevada,CP47,U.S. Senate,,DEM,Loretta L. Sanchez,361
-Nevada,MB48,President,,REP/AI,Donald J. Trump,2
-Nevada,MB48,President,,LIB,Gary Johnson,0
-Nevada,MB48,President,,PF,Gloria Estela La Riva,0
+Nevada,MB48,President,,REP,Donald J. Trump,2
 Nevada,MB48,President,,DEM,Hillary Clinton,2
-Nevada,MB48,President,,GRN,Jill Stein,0
-Nevada,MB48,President,,WI,Write-In,0
 Nevada,MB48,Proposition 51,,,No,2
 Nevada,MB48,Proposition 51,,,Yes,2
 Nevada,MB48,Proposition 52,,,No,3
@@ -1998,29 +2214,27 @@ Nevada,MB48,Proposition 58,,,Yes,3
 Nevada,MB48,Proposition 59,,,No,2
 Nevada,MB48,Proposition 59,,,Yes,2
 Nevada,MB48,Proposition 60,,,No,4
-Nevada,MB48,Proposition 60,,,Yes,0
 Nevada,MB48,Proposition 61,,,No,3
 Nevada,MB48,Proposition 61,,,Yes,1
 Nevada,MB48,Proposition 62,,,No,3
 Nevada,MB48,Proposition 62,,,Yes,1
-Nevada,MB48,Proposition 63,,,No,0
 Nevada,MB48,Proposition 63,,,Yes,4
 Nevada,MB48,Proposition 64,,,No,3
 Nevada,MB48,Proposition 64,,,Yes,1
 Nevada,MB48,Proposition 65,,,No,1
 Nevada,MB48,Proposition 65,,,Yes,3
-Nevada,MB48,Proposition 66,,,No,0
 Nevada,MB48,Proposition 66,,,Yes,4
 Nevada,MB48,Proposition 67,,,No,2
 Nevada,MB48,Proposition 67,,,Yes,2
+Nevada,MB48,State Assembly,1,REP,Brian Dahle,4
+Nevada,MB48,State Senate,1,DEM,Rob Rowen,1
+Nevada,MB48,State Senate,1,REP,Ted Gaines,3
+Nevada,MB48,U.S. House,1,REP,Doug La Malfa,3
+Nevada,MB48,U.S. House,1,DEM,Jim Reed,1
 Nevada,MB48,U.S. Senate,,DEM,Kamala D. Harris,3
 Nevada,MB48,U.S. Senate,,DEM,Loretta L. Sanchez,1
-Nevada,MB49,President,,REP/AI,Donald J. Trump,3
-Nevada,MB49,President,,LIB,Gary Johnson,0
-Nevada,MB49,President,,PF,Gloria Estela La Riva,0
+Nevada,MB49,President,,REP,Donald J. Trump,3
 Nevada,MB49,President,,DEM,Hillary Clinton,3
-Nevada,MB49,President,,GRN,Jill Stein,0
-Nevada,MB49,President,,WI,Write-In,0
 Nevada,MB49,Proposition 51,,,No,3
 Nevada,MB49,Proposition 51,,,Yes,3
 Nevada,MB49,Proposition 52,,,No,2
@@ -2055,14 +2269,16 @@ Nevada,MB49,Proposition 66,,,No,4
 Nevada,MB49,Proposition 66,,,Yes,1
 Nevada,MB49,Proposition 67,,,No,3
 Nevada,MB49,Proposition 67,,,Yes,3
+Nevada,MB49,State Assembly,1,REP,Brian Dahle,5
+Nevada,MB49,State Assembly,1,LIB,Donn Coenen,1
+Nevada,MB49,State Senate,1,DEM,Rob Rowen,3
+Nevada,MB49,State Senate,1,REP,Ted Gaines,3
+Nevada,MB49,U.S. House,1,REP,Doug La Malfa,3
+Nevada,MB49,U.S. House,1,DEM,Jim Reed,3
 Nevada,MB49,U.S. Senate,,DEM,Kamala D. Harris,4
-Nevada,MB49,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Nevada,MB50,President,,REP/AI,Donald J. Trump,3
+Nevada,MB50,President,,REP,Donald J. Trump,3
 Nevada,MB50,President,,LIB,Gary Johnson,2
-Nevada,MB50,President,,PF,Gloria Estela La Riva,0
 Nevada,MB50,President,,DEM,Hillary Clinton,1
-Nevada,MB50,President,,GRN,Jill Stein,0
-Nevada,MB50,President,,WI,Write-In,0
 Nevada,MB50,Proposition 51,,,No,5
 Nevada,MB50,Proposition 51,,,Yes,1
 Nevada,MB50,Proposition 52,,,No,3
@@ -2097,56 +2313,16 @@ Nevada,MB50,Proposition 66,,,No,1
 Nevada,MB50,Proposition 66,,,Yes,5
 Nevada,MB50,Proposition 67,,,No,3
 Nevada,MB50,Proposition 67,,,Yes,3
+Nevada,MB50,State Assembly,1,REP,Brian Dahle,6
+Nevada,MB50,State Senate,1,DEM,Rob Rowen,1
+Nevada,MB50,State Senate,1,REP,Ted Gaines,5
+Nevada,MB50,U.S. House,1,REP,Doug La Malfa,4
+Nevada,MB50,U.S. House,1,DEM,Jim Reed,2
 Nevada,MB50,U.S. Senate,,DEM,Kamala D. Harris,3
-Nevada,MB50,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Nevada,MB51,President,,REP/AI,Donald J. Trump,0
-Nevada,MB51,President,,LIB,Gary Johnson,0
-Nevada,MB51,President,,PF,Gloria Estela La Riva,0
-Nevada,MB51,President,,DEM,Hillary Clinton,0
-Nevada,MB51,President,,GRN,Jill Stein,0
-Nevada,MB51,President,,WI,Write-In,0
-Nevada,MB51,Proposition 51,,,No,0
-Nevada,MB51,Proposition 51,,,Yes,0
-Nevada,MB51,Proposition 52,,,No,0
-Nevada,MB51,Proposition 52,,,Yes,0
-Nevada,MB51,Proposition 53,,,No,0
-Nevada,MB51,Proposition 53,,,Yes,0
-Nevada,MB51,Proposition 54,,,No,0
-Nevada,MB51,Proposition 54,,,Yes,0
-Nevada,MB51,Proposition 55,,,No,0
-Nevada,MB51,Proposition 55,,,Yes,0
-Nevada,MB51,Proposition 56,,,No,0
-Nevada,MB51,Proposition 56,,,Yes,0
-Nevada,MB51,Proposition 57,,,No,0
-Nevada,MB51,Proposition 57,,,Yes,0
-Nevada,MB51,Proposition 58,,,No,0
-Nevada,MB51,Proposition 58,,,Yes,0
-Nevada,MB51,Proposition 59,,,No,0
-Nevada,MB51,Proposition 59,,,Yes,0
-Nevada,MB51,Proposition 60,,,No,0
-Nevada,MB51,Proposition 60,,,Yes,0
-Nevada,MB51,Proposition 61,,,No,0
-Nevada,MB51,Proposition 61,,,Yes,0
-Nevada,MB51,Proposition 62,,,No,0
-Nevada,MB51,Proposition 62,,,Yes,0
-Nevada,MB51,Proposition 63,,,No,0
-Nevada,MB51,Proposition 63,,,Yes,0
-Nevada,MB51,Proposition 64,,,No,0
-Nevada,MB51,Proposition 64,,,Yes,0
-Nevada,MB51,Proposition 65,,,No,0
-Nevada,MB51,Proposition 65,,,Yes,0
-Nevada,MB51,Proposition 66,,,No,0
-Nevada,MB51,Proposition 66,,,Yes,0
-Nevada,MB51,Proposition 67,,,No,0
-Nevada,MB51,Proposition 67,,,Yes,0
-Nevada,MB51,U.S. Senate,,DEM,Kamala D. Harris,0
-Nevada,MB51,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Nevada,MB52,President,,REP/AI,Donald J. Trump,184
+Nevada,MB52,President,,REP,Donald J. Trump,184
 Nevada,MB52,President,,LIB,Gary Johnson,14
-Nevada,MB52,President,,PF,Gloria Estela La Riva,0
 Nevada,MB52,President,,DEM,Hillary Clinton,204
 Nevada,MB52,President,,GRN,Jill Stein,28
-Nevada,MB52,President,,WI,Write-In,1
 Nevada,MB52,Proposition 51,,,No,238
 Nevada,MB52,Proposition 51,,,Yes,179
 Nevada,MB52,Proposition 52,,,No,134
@@ -2181,56 +2357,18 @@ Nevada,MB52,Proposition 66,,,No,185
 Nevada,MB52,Proposition 66,,,Yes,214
 Nevada,MB52,Proposition 67,,,No,190
 Nevada,MB52,Proposition 67,,,Yes,239
+Nevada,MB52,State Assembly,1,REP,Brian Dahle,235
+Nevada,MB52,State Assembly,1,LIB,Donn Coenen,134
+Nevada,MB52,State Senate,1,DEM,Rob Rowen,197
+Nevada,MB52,State Senate,1,REP,Ted Gaines,216
+Nevada,MB52,U.S. House,1,REP,Doug La Malfa,193
+Nevada,MB52,U.S. House,1,DEM,Jim Reed,230
 Nevada,MB52,U.S. Senate,,DEM,Kamala D. Harris,239
 Nevada,MB52,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Nevada,MB53,President,,REP/AI,Donald J. Trump,0
-Nevada,MB53,President,,LIB,Gary Johnson,0
-Nevada,MB53,President,,PF,Gloria Estela La Riva,0
-Nevada,MB53,President,,DEM,Hillary Clinton,0
-Nevada,MB53,President,,GRN,Jill Stein,0
-Nevada,MB53,President,,WI,Write-In,0
-Nevada,MB53,Proposition 51,,,No,0
-Nevada,MB53,Proposition 51,,,Yes,0
-Nevada,MB53,Proposition 52,,,No,0
-Nevada,MB53,Proposition 52,,,Yes,0
-Nevada,MB53,Proposition 53,,,No,0
-Nevada,MB53,Proposition 53,,,Yes,0
-Nevada,MB53,Proposition 54,,,No,0
-Nevada,MB53,Proposition 54,,,Yes,0
-Nevada,MB53,Proposition 55,,,No,0
-Nevada,MB53,Proposition 55,,,Yes,0
-Nevada,MB53,Proposition 56,,,No,0
-Nevada,MB53,Proposition 56,,,Yes,0
-Nevada,MB53,Proposition 57,,,No,0
-Nevada,MB53,Proposition 57,,,Yes,0
-Nevada,MB53,Proposition 58,,,No,0
-Nevada,MB53,Proposition 58,,,Yes,0
-Nevada,MB53,Proposition 59,,,No,0
-Nevada,MB53,Proposition 59,,,Yes,0
-Nevada,MB53,Proposition 60,,,No,0
-Nevada,MB53,Proposition 60,,,Yes,0
-Nevada,MB53,Proposition 61,,,No,0
-Nevada,MB53,Proposition 61,,,Yes,0
-Nevada,MB53,Proposition 62,,,No,0
-Nevada,MB53,Proposition 62,,,Yes,0
-Nevada,MB53,Proposition 63,,,No,0
-Nevada,MB53,Proposition 63,,,Yes,0
-Nevada,MB53,Proposition 64,,,No,0
-Nevada,MB53,Proposition 64,,,Yes,0
-Nevada,MB53,Proposition 65,,,No,0
-Nevada,MB53,Proposition 65,,,Yes,0
-Nevada,MB53,Proposition 66,,,No,0
-Nevada,MB53,Proposition 66,,,Yes,0
-Nevada,MB53,Proposition 67,,,No,0
-Nevada,MB53,Proposition 67,,,Yes,0
-Nevada,MB53,U.S. Senate,,DEM,Kamala D. Harris,0
-Nevada,MB53,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Nevada,MB54,President,,REP/AI,Donald J. Trump,56
+Nevada,MB54,President,,REP,Donald J. Trump,56
 Nevada,MB54,President,,LIB,Gary Johnson,7
-Nevada,MB54,President,,PF,Gloria Estela La Riva,0
 Nevada,MB54,President,,DEM,Hillary Clinton,84
 Nevada,MB54,President,,GRN,Jill Stein,28
-Nevada,MB54,President,,WI,Write-In,7
 Nevada,MB54,Proposition 51,,,No,91
 Nevada,MB54,Proposition 51,,,Yes,84
 Nevada,MB54,Proposition 52,,,No,64
@@ -2265,56 +2403,19 @@ Nevada,MB54,Proposition 66,,,No,91
 Nevada,MB54,Proposition 66,,,Yes,73
 Nevada,MB54,Proposition 67,,,No,65
 Nevada,MB54,Proposition 67,,,Yes,113
+Nevada,MB54,State Assembly,1,REP,Brian Dahle,75
+Nevada,MB54,State Assembly,1,LIB,Donn Coenen,74
+Nevada,MB54,State Senate,1,DEM,Rob Rowen,102
+Nevada,MB54,State Senate,1,REP,Ted Gaines,67
+Nevada,MB54,U.S. House,1,REP,Doug La Malfa,67
+Nevada,MB54,U.S. House,1,DEM,Jim Reed,110
 Nevada,MB54,U.S. Senate,,DEM,Kamala D. Harris,98
 Nevada,MB54,U.S. Senate,,DEM,Loretta L. Sanchez,46
-Nevada,MB55,President,,REP/AI,Donald J. Trump,0
-Nevada,MB55,President,,LIB,Gary Johnson,0
-Nevada,MB55,President,,PF,Gloria Estela La Riva,0
-Nevada,MB55,President,,DEM,Hillary Clinton,0
-Nevada,MB55,President,,GRN,Jill Stein,0
-Nevada,MB55,President,,WI,Write-In,0
-Nevada,MB55,Proposition 51,,,No,0
-Nevada,MB55,Proposition 51,,,Yes,0
-Nevada,MB55,Proposition 52,,,No,0
-Nevada,MB55,Proposition 52,,,Yes,0
-Nevada,MB55,Proposition 53,,,No,0
-Nevada,MB55,Proposition 53,,,Yes,0
-Nevada,MB55,Proposition 54,,,No,0
-Nevada,MB55,Proposition 54,,,Yes,0
-Nevada,MB55,Proposition 55,,,No,0
-Nevada,MB55,Proposition 55,,,Yes,0
-Nevada,MB55,Proposition 56,,,No,0
-Nevada,MB55,Proposition 56,,,Yes,0
-Nevada,MB55,Proposition 57,,,No,0
-Nevada,MB55,Proposition 57,,,Yes,0
-Nevada,MB55,Proposition 58,,,No,0
-Nevada,MB55,Proposition 58,,,Yes,0
-Nevada,MB55,Proposition 59,,,No,0
-Nevada,MB55,Proposition 59,,,Yes,0
-Nevada,MB55,Proposition 60,,,No,0
-Nevada,MB55,Proposition 60,,,Yes,0
-Nevada,MB55,Proposition 61,,,No,0
-Nevada,MB55,Proposition 61,,,Yes,0
-Nevada,MB55,Proposition 62,,,No,0
-Nevada,MB55,Proposition 62,,,Yes,0
-Nevada,MB55,Proposition 63,,,No,0
-Nevada,MB55,Proposition 63,,,Yes,0
-Nevada,MB55,Proposition 64,,,No,0
-Nevada,MB55,Proposition 64,,,Yes,0
-Nevada,MB55,Proposition 65,,,No,0
-Nevada,MB55,Proposition 65,,,Yes,0
-Nevada,MB55,Proposition 66,,,No,0
-Nevada,MB55,Proposition 66,,,Yes,0
-Nevada,MB55,Proposition 67,,,No,0
-Nevada,MB55,Proposition 67,,,Yes,0
-Nevada,MB55,U.S. Senate,,DEM,Kamala D. Harris,0
-Nevada,MB55,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Nevada,MB56,President,,REP/AI,Donald J. Trump,56
+Nevada,MB56,President,,REP,Donald J. Trump,56
 Nevada,MB56,President,,LIB,Gary Johnson,6
-Nevada,MB56,President,,PF,Gloria Estela La Riva,1
+Nevada,MB56,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB56,President,,DEM,Hillary Clinton,79
 Nevada,MB56,President,,GRN,Jill Stein,18
-Nevada,MB56,President,,WI,Write-In,9
 Nevada,MB56,Proposition 51,,,No,89
 Nevada,MB56,Proposition 51,,,Yes,77
 Nevada,MB56,Proposition 52,,,No,49
@@ -2349,14 +2450,19 @@ Nevada,MB56,Proposition 66,,,No,79
 Nevada,MB56,Proposition 66,,,Yes,79
 Nevada,MB56,Proposition 67,,,No,61
 Nevada,MB56,Proposition 67,,,Yes,103
+Nevada,MB56,State Assembly,1,REP,Brian Dahle,68
+Nevada,MB56,State Assembly,1,LIB,Donn Coenen,79
+Nevada,MB56,State Senate,1,DEM,Rob Rowen,100
+Nevada,MB56,State Senate,1,REP,Ted Gaines,60
+Nevada,MB56,U.S. House,1,REP,Doug La Malfa,54
+Nevada,MB56,U.S. House,1,DEM,Jim Reed,113
 Nevada,MB56,U.S. Senate,,DEM,Kamala D. Harris,98
 Nevada,MB56,U.S. Senate,,DEM,Loretta L. Sanchez,40
-Nevada,MB57,President,,REP/AI,Donald J. Trump,437
+Nevada,MB57,President,,REP,Donald J. Trump,437
 Nevada,MB57,President,,LIB,Gary Johnson,51
-Nevada,MB57,President,,PF,Gloria Estela La Riva,3
+Nevada,MB57,President,,PAF,Gloria Estela La Riva,3
 Nevada,MB57,President,,DEM,Hillary Clinton,376
 Nevada,MB57,President,,GRN,Jill Stein,30
-Nevada,MB57,President,,WI,Write-In,19
 Nevada,MB57,Proposition 51,,,No,563
 Nevada,MB57,Proposition 51,,,Yes,323
 Nevada,MB57,Proposition 52,,,No,270
@@ -2391,14 +2497,18 @@ Nevada,MB57,Proposition 66,,,No,440
 Nevada,MB57,Proposition 66,,,Yes,407
 Nevada,MB57,Proposition 67,,,No,466
 Nevada,MB57,Proposition 67,,,Yes,444
+Nevada,MB57,State Assembly,1,REP,Brian Dahle,522
+Nevada,MB57,State Assembly,1,LIB,Donn Coenen,252
+Nevada,MB57,State Senate,1,DEM,Rob Rowen,384
+Nevada,MB57,State Senate,1,REP,Ted Gaines,489
+Nevada,MB57,U.S. House,1,REP,Doug La Malfa,464
+Nevada,MB57,U.S. House,1,DEM,Jim Reed,433
 Nevada,MB57,U.S. Senate,,DEM,Kamala D. Harris,471
 Nevada,MB57,U.S. Senate,,DEM,Loretta L. Sanchez,215
-Nevada,MB58,President,,REP/AI,Donald J. Trump,105
+Nevada,MB58,President,,REP,Donald J. Trump,105
 Nevada,MB58,President,,LIB,Gary Johnson,6
-Nevada,MB58,President,,PF,Gloria Estela La Riva,0
 Nevada,MB58,President,,DEM,Hillary Clinton,217
 Nevada,MB58,President,,GRN,Jill Stein,26
-Nevada,MB58,President,,WI,Write-In,6
 Nevada,MB58,Proposition 51,,,No,164
 Nevada,MB58,Proposition 51,,,Yes,183
 Nevada,MB58,Proposition 52,,,No,73
@@ -2433,17 +2543,19 @@ Nevada,MB58,Proposition 66,,,No,197
 Nevada,MB58,Proposition 66,,,Yes,133
 Nevada,MB58,Proposition 67,,,No,117
 Nevada,MB58,Proposition 67,,,Yes,230
+Nevada,MB58,State Assembly,1,REP,Brian Dahle,148
+Nevada,MB58,State Assembly,1,LIB,Donn Coenen,139
+Nevada,MB58,State Senate,1,DEM,Rob Rowen,223
+Nevada,MB58,State Senate,1,REP,Ted Gaines,107
+Nevada,MB58,U.S. House,1,REP,Doug La Malfa,107
+Nevada,MB58,U.S. House,1,DEM,Jim Reed,236
 Nevada,MB58,U.S. Senate,,DEM,Kamala D. Harris,216
 Nevada,MB58,U.S. Senate,,DEM,Loretta L. Sanchez,74
-Nevada,MB59,President,,REP/AI,Donald J. Trump,2
-Nevada,MB59,President,,LIB,Gary Johnson,0
-Nevada,MB59,President,,PF,Gloria Estela La Riva,0
+Nevada,MB59,President,,REP,Donald J. Trump,2
 Nevada,MB59,President,,DEM,Hillary Clinton,4
 Nevada,MB59,President,,GRN,Jill Stein,3
-Nevada,MB59,President,,WI,Write-In,0
 Nevada,MB59,Proposition 51,,,No,5
 Nevada,MB59,Proposition 51,,,Yes,3
-Nevada,MB59,Proposition 52,,,No,0
 Nevada,MB59,Proposition 52,,,Yes,7
 Nevada,MB59,Proposition 53,,,No,2
 Nevada,MB59,Proposition 53,,,Yes,4
@@ -2475,14 +2587,18 @@ Nevada,MB59,Proposition 66,,,No,5
 Nevada,MB59,Proposition 66,,,Yes,1
 Nevada,MB59,Proposition 67,,,No,1
 Nevada,MB59,Proposition 67,,,Yes,7
+Nevada,MB59,State Assembly,1,REP,Brian Dahle,2
+Nevada,MB59,State Assembly,1,LIB,Donn Coenen,6
+Nevada,MB59,State Senate,1,DEM,Rob Rowen,6
+Nevada,MB59,State Senate,1,REP,Ted Gaines,1
+Nevada,MB59,U.S. House,1,REP,Doug La Malfa,1
+Nevada,MB59,U.S. House,1,DEM,Jim Reed,6
 Nevada,MB59,U.S. Senate,,DEM,Kamala D. Harris,1
 Nevada,MB59,U.S. Senate,,DEM,Loretta L. Sanchez,6
-Nevada,MB60,President,,REP/AI,Donald J. Trump,115
+Nevada,MB60,President,,REP,Donald J. Trump,115
 Nevada,MB60,President,,LIB,Gary Johnson,6
-Nevada,MB60,President,,PF,Gloria Estela La Riva,0
 Nevada,MB60,President,,DEM,Hillary Clinton,76
 Nevada,MB60,President,,GRN,Jill Stein,5
-Nevada,MB60,President,,WI,Write-In,6
 Nevada,MB60,Proposition 51,,,No,131
 Nevada,MB60,Proposition 51,,,Yes,77
 Nevada,MB60,Proposition 52,,,No,65
@@ -2517,14 +2633,19 @@ Nevada,MB60,Proposition 66,,,No,82
 Nevada,MB60,Proposition 66,,,Yes,101
 Nevada,MB60,Proposition 67,,,No,117
 Nevada,MB60,Proposition 67,,,Yes,88
+Nevada,MB60,State Assembly,1,REP,Brian Dahle,119
+Nevada,MB60,State Assembly,1,LIB,Donn Coenen,64
+Nevada,MB60,State Senate,1,DEM,Rob Rowen,90
+Nevada,MB60,State Senate,1,REP,Ted Gaines,110
+Nevada,MB60,U.S. House,1,REP,Doug La Malfa,113
+Nevada,MB60,U.S. House,1,DEM,Jim Reed,93
 Nevada,MB60,U.S. Senate,,DEM,Kamala D. Harris,107
 Nevada,MB60,U.S. Senate,,DEM,Loretta L. Sanchez,48
-Nevada,MB61,President,,REP/AI,Donald J. Trump,54
+Nevada,MB61,President,,REP,Donald J. Trump,54
 Nevada,MB61,President,,LIB,Gary Johnson,6
-Nevada,MB61,President,,PF,Gloria Estela La Riva,1
+Nevada,MB61,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB61,President,,DEM,Hillary Clinton,43
 Nevada,MB61,President,,GRN,Jill Stein,3
-Nevada,MB61,President,,WI,Write-In,3
 Nevada,MB61,Proposition 51,,,No,75
 Nevada,MB61,Proposition 51,,,Yes,35
 Nevada,MB61,Proposition 52,,,No,33
@@ -2559,14 +2680,18 @@ Nevada,MB61,Proposition 66,,,No,51
 Nevada,MB61,Proposition 66,,,Yes,58
 Nevada,MB61,Proposition 67,,,No,65
 Nevada,MB61,Proposition 67,,,Yes,50
+Nevada,MB61,State Assembly,1,REP,Brian Dahle,56
+Nevada,MB61,State Assembly,1,LIB,Donn Coenen,45
+Nevada,MB61,State Senate,1,DEM,Rob Rowen,50
+Nevada,MB61,State Senate,1,REP,Ted Gaines,58
+Nevada,MB61,U.S. House,1,REP,Doug La Malfa,61
+Nevada,MB61,U.S. House,1,DEM,Jim Reed,48
 Nevada,MB61,U.S. Senate,,DEM,Kamala D. Harris,58
 Nevada,MB61,U.S. Senate,,DEM,Loretta L. Sanchez,29
-Nevada,MB62,President,,REP/AI,Donald J. Trump,309
+Nevada,MB62,President,,REP,Donald J. Trump,309
 Nevada,MB62,President,,LIB,Gary Johnson,37
-Nevada,MB62,President,,PF,Gloria Estela La Riva,0
 Nevada,MB62,President,,DEM,Hillary Clinton,333
 Nevada,MB62,President,,GRN,Jill Stein,13
-Nevada,MB62,President,,WI,Write-In,11
 Nevada,MB62,Proposition 51,,,No,425
 Nevada,MB62,Proposition 51,,,Yes,279
 Nevada,MB62,Proposition 52,,,No,219
@@ -2601,14 +2726,18 @@ Nevada,MB62,Proposition 66,,,No,276
 Nevada,MB62,Proposition 66,,,Yes,384
 Nevada,MB62,Proposition 67,,,No,328
 Nevada,MB62,Proposition 67,,,Yes,375
+Nevada,MB62,State Assembly,1,REP,Brian Dahle,450
+Nevada,MB62,State Assembly,1,LIB,Donn Coenen,179
+Nevada,MB62,State Senate,1,DEM,Rob Rowen,309
+Nevada,MB62,State Senate,1,REP,Ted Gaines,384
+Nevada,MB62,U.S. House,1,REP,Doug La Malfa,366
+Nevada,MB62,U.S. House,1,DEM,Jim Reed,341
 Nevada,MB62,U.S. Senate,,DEM,Kamala D. Harris,397
 Nevada,MB62,U.S. Senate,,DEM,Loretta L. Sanchez,164
-Nevada,MB63,President,,REP/AI,Donald J. Trump,16
+Nevada,MB63,President,,REP,Donald J. Trump,16
 Nevada,MB63,President,,LIB,Gary Johnson,4
-Nevada,MB63,President,,PF,Gloria Estela La Riva,0
 Nevada,MB63,President,,DEM,Hillary Clinton,28
 Nevada,MB63,President,,GRN,Jill Stein,1
-Nevada,MB63,President,,WI,Write-In,0
 Nevada,MB63,Proposition 51,,,No,30
 Nevada,MB63,Proposition 51,,,Yes,17
 Nevada,MB63,Proposition 52,,,No,17
@@ -2643,14 +2772,19 @@ Nevada,MB63,Proposition 66,,,No,23
 Nevada,MB63,Proposition 66,,,Yes,22
 Nevada,MB63,Proposition 67,,,No,22
 Nevada,MB63,Proposition 67,,,Yes,26
+Nevada,MB63,State Assembly,1,REP,Brian Dahle,22
+Nevada,MB63,State Assembly,1,LIB,Donn Coenen,14
+Nevada,MB63,State Senate,1,DEM,Rob Rowen,27
+Nevada,MB63,State Senate,1,REP,Ted Gaines,16
+Nevada,MB63,U.S. House,1,REP,Doug La Malfa,17
+Nevada,MB63,U.S. House,1,DEM,Jim Reed,27
 Nevada,MB63,U.S. Senate,,DEM,Kamala D. Harris,27
 Nevada,MB63,U.S. Senate,,DEM,Loretta L. Sanchez,11
-Nevada,MB64,President,,REP/AI,Donald J. Trump,351
+Nevada,MB64,President,,REP,Donald J. Trump,351
 Nevada,MB64,President,,LIB,Gary Johnson,28
-Nevada,MB64,President,,PF,Gloria Estela La Riva,4
+Nevada,MB64,President,,PAF,Gloria Estela La Riva,4
 Nevada,MB64,President,,DEM,Hillary Clinton,268
 Nevada,MB64,President,,GRN,Jill Stein,23
-Nevada,MB64,President,,WI,Write-In,8
 Nevada,MB64,Proposition 51,,,No,428
 Nevada,MB64,Proposition 51,,,Yes,247
 Nevada,MB64,Proposition 52,,,No,206
@@ -2685,14 +2819,19 @@ Nevada,MB64,Proposition 66,,,No,275
 Nevada,MB64,Proposition 66,,,Yes,373
 Nevada,MB64,Proposition 67,,,No,364
 Nevada,MB64,Proposition 67,,,Yes,318
+Nevada,MB64,State Assembly,1,REP,Brian Dahle,422
+Nevada,MB64,State Assembly,1,LIB,Donn Coenen,192
+Nevada,MB64,State Senate,1,DEM,Rob Rowen,267
+Nevada,MB64,State Senate,1,REP,Ted Gaines,394
+Nevada,MB64,U.S. House,1,REP,Doug La Malfa,378
+Nevada,MB64,U.S. House,1,DEM,Jim Reed,300
 Nevada,MB64,U.S. Senate,,DEM,Kamala D. Harris,343
 Nevada,MB64,U.S. Senate,,DEM,Loretta L. Sanchez,198
-Nevada,MB65,President,,REP/AI,Donald J. Trump,37
+Nevada,MB65,President,,REP,Donald J. Trump,37
 Nevada,MB65,President,,LIB,Gary Johnson,9
-Nevada,MB65,President,,PF,Gloria Estela La Riva,1
+Nevada,MB65,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB65,President,,DEM,Hillary Clinton,69
 Nevada,MB65,President,,GRN,Jill Stein,6
-Nevada,MB65,President,,WI,Write-In,1
 Nevada,MB65,Proposition 51,,,No,67
 Nevada,MB65,Proposition 51,,,Yes,54
 Nevada,MB65,Proposition 52,,,No,40
@@ -2727,14 +2866,18 @@ Nevada,MB65,Proposition 66,,,No,53
 Nevada,MB65,Proposition 66,,,Yes,56
 Nevada,MB65,Proposition 67,,,No,35
 Nevada,MB65,Proposition 67,,,Yes,85
+Nevada,MB65,State Assembly,1,REP,Brian Dahle,63
+Nevada,MB65,State Assembly,1,LIB,Donn Coenen,43
+Nevada,MB65,State Senate,1,DEM,Rob Rowen,66
+Nevada,MB65,State Senate,1,REP,Ted Gaines,53
+Nevada,MB65,U.S. House,1,REP,Doug La Malfa,40
+Nevada,MB65,U.S. House,1,DEM,Jim Reed,78
 Nevada,MB65,U.S. Senate,,DEM,Kamala D. Harris,65
 Nevada,MB65,U.S. Senate,,DEM,Loretta L. Sanchez,32
-Nevada,MB66,President,,REP/AI,Donald J. Trump,89
+Nevada,MB66,President,,REP,Donald J. Trump,89
 Nevada,MB66,President,,LIB,Gary Johnson,6
-Nevada,MB66,President,,PF,Gloria Estela La Riva,0
 Nevada,MB66,President,,DEM,Hillary Clinton,74
 Nevada,MB66,President,,GRN,Jill Stein,6
-Nevada,MB66,President,,WI,Write-In,3
 Nevada,MB66,Proposition 51,,,No,102
 Nevada,MB66,Proposition 51,,,Yes,74
 Nevada,MB66,Proposition 52,,,No,54
@@ -2769,14 +2912,19 @@ Nevada,MB66,Proposition 66,,,No,77
 Nevada,MB66,Proposition 66,,,Yes,89
 Nevada,MB66,Proposition 67,,,No,74
 Nevada,MB66,Proposition 67,,,Yes,101
+Nevada,MB66,State Assembly,1,REP,Brian Dahle,104
+Nevada,MB66,State Assembly,1,LIB,Donn Coenen,51
+Nevada,MB66,State Senate,1,DEM,Rob Rowen,77
+Nevada,MB66,State Senate,1,REP,Ted Gaines,93
+Nevada,MB66,U.S. House,1,REP,Doug La Malfa,84
+Nevada,MB66,U.S. House,1,DEM,Jim Reed,88
 Nevada,MB66,U.S. Senate,,DEM,Kamala D. Harris,95
 Nevada,MB66,U.S. Senate,,DEM,Loretta L. Sanchez,46
-Nevada,MB67,President,,REP/AI,Donald J. Trump,12
+Nevada,MB67,President,,REP,Donald J. Trump,12
 Nevada,MB67,President,,LIB,Gary Johnson,3
-Nevada,MB67,President,,PF,Gloria Estela La Riva,2
+Nevada,MB67,President,,PAF,Gloria Estela La Riva,2
 Nevada,MB67,President,,DEM,Hillary Clinton,29
 Nevada,MB67,President,,GRN,Jill Stein,4
-Nevada,MB67,President,,WI,Write-In,0
 Nevada,MB67,Proposition 51,,,No,23
 Nevada,MB67,Proposition 51,,,Yes,23
 Nevada,MB67,Proposition 52,,,No,16
@@ -2811,14 +2959,18 @@ Nevada,MB67,Proposition 66,,,No,34
 Nevada,MB67,Proposition 66,,,Yes,15
 Nevada,MB67,Proposition 67,,,No,27
 Nevada,MB67,Proposition 67,,,Yes,26
+Nevada,MB67,State Assembly,1,REP,Brian Dahle,18
+Nevada,MB67,State Assembly,1,LIB,Donn Coenen,20
+Nevada,MB67,State Senate,1,DEM,Rob Rowen,32
+Nevada,MB67,State Senate,1,REP,Ted Gaines,15
+Nevada,MB67,U.S. House,1,REP,Doug La Malfa,16
+Nevada,MB67,U.S. House,1,DEM,Jim Reed,34
 Nevada,MB67,U.S. Senate,,DEM,Kamala D. Harris,23
 Nevada,MB67,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Nevada,MB68,President,,REP/AI,Donald J. Trump,32
+Nevada,MB68,President,,REP,Donald J. Trump,32
 Nevada,MB68,President,,LIB,Gary Johnson,5
-Nevada,MB68,President,,PF,Gloria Estela La Riva,0
 Nevada,MB68,President,,DEM,Hillary Clinton,42
 Nevada,MB68,President,,GRN,Jill Stein,5
-Nevada,MB68,President,,WI,Write-In,2
 Nevada,MB68,Proposition 51,,,No,50
 Nevada,MB68,Proposition 51,,,Yes,33
 Nevada,MB68,Proposition 52,,,No,26
@@ -2853,14 +3005,18 @@ Nevada,MB68,Proposition 66,,,No,40
 Nevada,MB68,Proposition 66,,,Yes,39
 Nevada,MB68,Proposition 67,,,No,28
 Nevada,MB68,Proposition 67,,,Yes,59
+Nevada,MB68,State Assembly,1,REP,Brian Dahle,55
+Nevada,MB68,State Assembly,1,LIB,Donn Coenen,20
+Nevada,MB68,State Senate,1,DEM,Rob Rowen,31
+Nevada,MB68,State Senate,1,REP,Ted Gaines,46
+Nevada,MB68,U.S. House,1,REP,Doug La Malfa,39
+Nevada,MB68,U.S. House,1,DEM,Jim Reed,41
 Nevada,MB68,U.S. Senate,,DEM,Kamala D. Harris,55
 Nevada,MB68,U.S. Senate,,DEM,Loretta L. Sanchez,13
-Nevada,MB69,President,,REP/AI,Donald J. Trump,47
+Nevada,MB69,President,,REP,Donald J. Trump,47
 Nevada,MB69,President,,LIB,Gary Johnson,2
-Nevada,MB69,President,,PF,Gloria Estela La Riva,0
 Nevada,MB69,President,,DEM,Hillary Clinton,69
 Nevada,MB69,President,,GRN,Jill Stein,5
-Nevada,MB69,President,,WI,Write-In,1
 Nevada,MB69,Proposition 51,,,No,70
 Nevada,MB69,Proposition 51,,,Yes,54
 Nevada,MB69,Proposition 52,,,No,27
@@ -2895,14 +3051,18 @@ Nevada,MB69,Proposition 66,,,No,54
 Nevada,MB69,Proposition 66,,,Yes,65
 Nevada,MB69,Proposition 67,,,No,35
 Nevada,MB69,Proposition 67,,,Yes,91
+Nevada,MB69,State Assembly,1,REP,Brian Dahle,76
+Nevada,MB69,State Assembly,1,LIB,Donn Coenen,37
+Nevada,MB69,State Senate,1,DEM,Rob Rowen,55
+Nevada,MB69,State Senate,1,REP,Ted Gaines,66
+Nevada,MB69,U.S. House,4,DEM,Robert W. Derlet,68
+Nevada,MB69,U.S. House,4,REP,Tom McClintock,54
 Nevada,MB69,U.S. Senate,,DEM,Kamala D. Harris,70
 Nevada,MB69,U.S. Senate,,DEM,Loretta L. Sanchez,30
-Nevada,MB70,President,,REP/AI,Donald J. Trump,54
+Nevada,MB70,President,,REP,Donald J. Trump,54
 Nevada,MB70,President,,LIB,Gary Johnson,8
-Nevada,MB70,President,,PF,Gloria Estela La Riva,0
 Nevada,MB70,President,,DEM,Hillary Clinton,48
 Nevada,MB70,President,,GRN,Jill Stein,2
-Nevada,MB70,President,,WI,Write-In,0
 Nevada,MB70,Proposition 51,,,No,79
 Nevada,MB70,Proposition 51,,,Yes,32
 Nevada,MB70,Proposition 52,,,No,40
@@ -2937,14 +3097,18 @@ Nevada,MB70,Proposition 66,,,No,43
 Nevada,MB70,Proposition 66,,,Yes,62
 Nevada,MB70,Proposition 67,,,No,61
 Nevada,MB70,Proposition 67,,,Yes,48
+Nevada,MB70,State Assembly,1,REP,Brian Dahle,63
+Nevada,MB70,State Assembly,1,LIB,Donn Coenen,34
+Nevada,MB70,State Senate,1,DEM,Rob Rowen,43
+Nevada,MB70,State Senate,1,REP,Ted Gaines,63
+Nevada,MB70,U.S. House,1,REP,Doug La Malfa,63
+Nevada,MB70,U.S. House,1,DEM,Jim Reed,48
 Nevada,MB70,U.S. Senate,,DEM,Kamala D. Harris,50
 Nevada,MB70,U.S. Senate,,DEM,Loretta L. Sanchez,36
-Nevada,MB71,President,,REP/AI,Donald J. Trump,243
+Nevada,MB71,President,,REP,Donald J. Trump,243
 Nevada,MB71,President,,LIB,Gary Johnson,32
-Nevada,MB71,President,,PF,Gloria Estela La Riva,0
 Nevada,MB71,President,,DEM,Hillary Clinton,256
 Nevada,MB71,President,,GRN,Jill Stein,33
-Nevada,MB71,President,,WI,Write-In,13
 Nevada,MB71,Proposition 51,,,No,347
 Nevada,MB71,Proposition 51,,,Yes,222
 Nevada,MB71,Proposition 52,,,No,167
@@ -2979,14 +3143,18 @@ Nevada,MB71,Proposition 66,,,No,232
 Nevada,MB71,Proposition 66,,,Yes,304
 Nevada,MB71,Proposition 67,,,No,250
 Nevada,MB71,Proposition 67,,,Yes,326
+Nevada,MB71,State Assembly,1,REP,Brian Dahle,308
+Nevada,MB71,State Assembly,1,LIB,Donn Coenen,205
+Nevada,MB71,State Senate,1,DEM,Rob Rowen,273
+Nevada,MB71,State Senate,1,REP,Ted Gaines,277
+Nevada,MB71,U.S. House,1,REP,Doug La Malfa,253
+Nevada,MB71,U.S. House,1,DEM,Jim Reed,309
 Nevada,MB71,U.S. Senate,,DEM,Kamala D. Harris,324
 Nevada,MB71,U.S. Senate,,DEM,Loretta L. Sanchez,137
-Nevada,MB72,President,,REP/AI,Donald J. Trump,29
+Nevada,MB72,President,,REP,Donald J. Trump,29
 Nevada,MB72,President,,LIB,Gary Johnson,5
-Nevada,MB72,President,,PF,Gloria Estela La Riva,0
 Nevada,MB72,President,,DEM,Hillary Clinton,43
 Nevada,MB72,President,,GRN,Jill Stein,2
-Nevada,MB72,President,,WI,Write-In,2
 Nevada,MB72,Proposition 51,,,No,38
 Nevada,MB72,Proposition 51,,,Yes,44
 Nevada,MB72,Proposition 52,,,No,25
@@ -3021,14 +3189,16 @@ Nevada,MB72,Proposition 66,,,No,37
 Nevada,MB72,Proposition 66,,,Yes,40
 Nevada,MB72,Proposition 67,,,No,31
 Nevada,MB72,Proposition 67,,,Yes,50
+Nevada,MB72,State Assembly,1,REP,Brian Dahle,44
+Nevada,MB72,State Assembly,1,LIB,Donn Coenen,26
+Nevada,MB72,State Senate,1,DEM,Rob Rowen,48
+Nevada,MB72,State Senate,1,REP,Ted Gaines,33
+Nevada,MB72,U.S. House,1,REP,Doug La Malfa,34
+Nevada,MB72,U.S. House,1,DEM,Jim Reed,49
 Nevada,MB72,U.S. Senate,,DEM,Kamala D. Harris,54
 Nevada,MB72,U.S. Senate,,DEM,Loretta L. Sanchez,14
-Nevada,MB73,President,,REP/AI,Donald J. Trump,20
-Nevada,MB73,President,,LIB,Gary Johnson,0
-Nevada,MB73,President,,PF,Gloria Estela La Riva,0
+Nevada,MB73,President,,REP,Donald J. Trump,20
 Nevada,MB73,President,,DEM,Hillary Clinton,8
-Nevada,MB73,President,,GRN,Jill Stein,0
-Nevada,MB73,President,,WI,Write-In,1
 Nevada,MB73,Proposition 51,,,No,18
 Nevada,MB73,Proposition 51,,,Yes,11
 Nevada,MB73,Proposition 52,,,No,6
@@ -3063,14 +3233,18 @@ Nevada,MB73,Proposition 66,,,No,5
 Nevada,MB73,Proposition 66,,,Yes,21
 Nevada,MB73,Proposition 67,,,No,11
 Nevada,MB73,Proposition 67,,,Yes,17
+Nevada,MB73,State Assembly,1,REP,Brian Dahle,22
+Nevada,MB73,State Assembly,1,LIB,Donn Coenen,4
+Nevada,MB73,State Senate,1,DEM,Rob Rowen,7
+Nevada,MB73,State Senate,1,REP,Ted Gaines,21
+Nevada,MB73,U.S. House,4,DEM,Robert W. Derlet,8
+Nevada,MB73,U.S. House,4,REP,Tom McClintock,21
 Nevada,MB73,U.S. Senate,,DEM,Kamala D. Harris,14
 Nevada,MB73,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Nevada,MB74,President,,REP/AI,Donald J. Trump,324
+Nevada,MB74,President,,REP,Donald J. Trump,324
 Nevada,MB74,President,,LIB,Gary Johnson,25
-Nevada,MB74,President,,PF,Gloria Estela La Riva,0
 Nevada,MB74,President,,DEM,Hillary Clinton,211
 Nevada,MB74,President,,GRN,Jill Stein,12
-Nevada,MB74,President,,WI,Write-In,6
 Nevada,MB74,Proposition 51,,,No,395
 Nevada,MB74,Proposition 51,,,Yes,168
 Nevada,MB74,Proposition 52,,,No,201
@@ -3105,14 +3279,19 @@ Nevada,MB74,Proposition 66,,,No,205
 Nevada,MB74,Proposition 66,,,Yes,338
 Nevada,MB74,Proposition 67,,,No,338
 Nevada,MB74,Proposition 67,,,Yes,229
+Nevada,MB74,State Assembly,1,REP,Brian Dahle,388
+Nevada,MB74,State Assembly,1,LIB,Donn Coenen,129
+Nevada,MB74,State Senate,1,DEM,Rob Rowen,189
+Nevada,MB74,State Senate,1,REP,Ted Gaines,361
+Nevada,MB74,U.S. House,1,REP,Doug La Malfa,337
+Nevada,MB74,U.S. House,1,DEM,Jim Reed,226
 Nevada,MB74,U.S. Senate,,DEM,Kamala D. Harris,259
 Nevada,MB74,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Nevada,MB75,President,,REP/AI,Donald J. Trump,120
+Nevada,MB75,President,,REP,Donald J. Trump,120
 Nevada,MB75,President,,LIB,Gary Johnson,11
-Nevada,MB75,President,,PF,Gloria Estela La Riva,1
+Nevada,MB75,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB75,President,,DEM,Hillary Clinton,123
 Nevada,MB75,President,,GRN,Jill Stein,23
-Nevada,MB75,President,,WI,Write-In,2
 Nevada,MB75,Proposition 51,,,No,180
 Nevada,MB75,Proposition 51,,,Yes,104
 Nevada,MB75,Proposition 52,,,No,84
@@ -3147,56 +3326,19 @@ Nevada,MB75,Proposition 66,,,No,125
 Nevada,MB75,Proposition 66,,,Yes,140
 Nevada,MB75,Proposition 67,,,No,127
 Nevada,MB75,Proposition 67,,,Yes,155
+Nevada,MB75,State Assembly,1,REP,Brian Dahle,144
+Nevada,MB75,State Assembly,1,LIB,Donn Coenen,94
+Nevada,MB75,State Senate,1,DEM,Rob Rowen,145
+Nevada,MB75,State Senate,1,REP,Ted Gaines,121
+Nevada,MB75,U.S. House,1,REP,Doug La Malfa,124
+Nevada,MB75,U.S. House,1,DEM,Jim Reed,153
 Nevada,MB75,U.S. Senate,,DEM,Kamala D. Harris,130
 Nevada,MB75,U.S. Senate,,DEM,Loretta L. Sanchez,91
-Nevada,MB76,President,,REP/AI,Donald J. Trump,0
-Nevada,MB76,President,,LIB,Gary Johnson,0
-Nevada,MB76,President,,PF,Gloria Estela La Riva,0
-Nevada,MB76,President,,DEM,Hillary Clinton,0
-Nevada,MB76,President,,GRN,Jill Stein,0
-Nevada,MB76,President,,WI,Write-In,0
-Nevada,MB76,Proposition 51,,,No,0
-Nevada,MB76,Proposition 51,,,Yes,0
-Nevada,MB76,Proposition 52,,,No,0
-Nevada,MB76,Proposition 52,,,Yes,0
-Nevada,MB76,Proposition 53,,,No,0
-Nevada,MB76,Proposition 53,,,Yes,0
-Nevada,MB76,Proposition 54,,,No,0
-Nevada,MB76,Proposition 54,,,Yes,0
-Nevada,MB76,Proposition 55,,,No,0
-Nevada,MB76,Proposition 55,,,Yes,0
-Nevada,MB76,Proposition 56,,,No,0
-Nevada,MB76,Proposition 56,,,Yes,0
-Nevada,MB76,Proposition 57,,,No,0
-Nevada,MB76,Proposition 57,,,Yes,0
-Nevada,MB76,Proposition 58,,,No,0
-Nevada,MB76,Proposition 58,,,Yes,0
-Nevada,MB76,Proposition 59,,,No,0
-Nevada,MB76,Proposition 59,,,Yes,0
-Nevada,MB76,Proposition 60,,,No,0
-Nevada,MB76,Proposition 60,,,Yes,0
-Nevada,MB76,Proposition 61,,,No,0
-Nevada,MB76,Proposition 61,,,Yes,0
-Nevada,MB76,Proposition 62,,,No,0
-Nevada,MB76,Proposition 62,,,Yes,0
-Nevada,MB76,Proposition 63,,,No,0
-Nevada,MB76,Proposition 63,,,Yes,0
-Nevada,MB76,Proposition 64,,,No,0
-Nevada,MB76,Proposition 64,,,Yes,0
-Nevada,MB76,Proposition 65,,,No,0
-Nevada,MB76,Proposition 65,,,Yes,0
-Nevada,MB76,Proposition 66,,,No,0
-Nevada,MB76,Proposition 66,,,Yes,0
-Nevada,MB76,Proposition 67,,,No,0
-Nevada,MB76,Proposition 67,,,Yes,0
-Nevada,MB76,U.S. Senate,,DEM,Kamala D. Harris,0
-Nevada,MB76,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Nevada,MB77,President,,REP/AI,Donald J. Trump,45
+Nevada,MB77,President,,REP,Donald J. Trump,45
 Nevada,MB77,President,,LIB,Gary Johnson,4
-Nevada,MB77,President,,PF,Gloria Estela La Riva,1
+Nevada,MB77,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB77,President,,DEM,Hillary Clinton,39
 Nevada,MB77,President,,GRN,Jill Stein,5
-Nevada,MB77,President,,WI,Write-In,1
 Nevada,MB77,Proposition 51,,,No,58
 Nevada,MB77,Proposition 51,,,Yes,32
 Nevada,MB77,Proposition 52,,,No,34
@@ -3231,14 +3373,19 @@ Nevada,MB77,Proposition 66,,,No,41
 Nevada,MB77,Proposition 66,,,Yes,40
 Nevada,MB77,Proposition 67,,,No,48
 Nevada,MB77,Proposition 67,,,Yes,45
+Nevada,MB77,State Assembly,1,REP,Brian Dahle,61
+Nevada,MB77,State Assembly,1,LIB,Donn Coenen,25
+Nevada,MB77,State Senate,1,DEM,Rob Rowen,43
+Nevada,MB77,State Senate,1,REP,Ted Gaines,48
+Nevada,MB77,U.S. House,1,REP,Doug La Malfa,49
+Nevada,MB77,U.S. House,1,DEM,Jim Reed,44
 Nevada,MB77,U.S. Senate,,DEM,Kamala D. Harris,45
 Nevada,MB77,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Nevada,MB78,President,,REP/AI,Donald J. Trump,182
+Nevada,MB78,President,,REP,Donald J. Trump,182
 Nevada,MB78,President,,LIB,Gary Johnson,33
-Nevada,MB78,President,,PF,Gloria Estela La Riva,1
+Nevada,MB78,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB78,President,,DEM,Hillary Clinton,223
 Nevada,MB78,President,,GRN,Jill Stein,31
-Nevada,MB78,President,,WI,Write-In,9
 Nevada,MB78,Proposition 51,,,No,262
 Nevada,MB78,Proposition 51,,,Yes,210
 Nevada,MB78,Proposition 52,,,No,161
@@ -3273,14 +3420,19 @@ Nevada,MB78,Proposition 66,,,No,231
 Nevada,MB78,Proposition 66,,,Yes,214
 Nevada,MB78,Proposition 67,,,No,202
 Nevada,MB78,Proposition 67,,,Yes,270
+Nevada,MB78,State Assembly,1,REP,Brian Dahle,250
+Nevada,MB78,State Assembly,1,LIB,Donn Coenen,174
+Nevada,MB78,State Senate,1,DEM,Rob Rowen,243
+Nevada,MB78,State Senate,1,REP,Ted Gaines,219
+Nevada,MB78,U.S. House,1,REP,Doug La Malfa,212
+Nevada,MB78,U.S. House,1,DEM,Jim Reed,261
 Nevada,MB78,U.S. Senate,,DEM,Kamala D. Harris,262
 Nevada,MB78,U.S. Senate,,DEM,Loretta L. Sanchez,124
-Nevada,MB79,President,,REP/AI,Donald J. Trump,119
+Nevada,MB79,President,,REP,Donald J. Trump,119
 Nevada,MB79,President,,LIB,Gary Johnson,7
-Nevada,MB79,President,,PF,Gloria Estela La Riva,2
+Nevada,MB79,President,,PAF,Gloria Estela La Riva,2
 Nevada,MB79,President,,DEM,Hillary Clinton,88
 Nevada,MB79,President,,GRN,Jill Stein,5
-Nevada,MB79,President,,WI,Write-In,2
 Nevada,MB79,Proposition 51,,,No,155
 Nevada,MB79,Proposition 51,,,Yes,60
 Nevada,MB79,Proposition 52,,,No,87
@@ -3315,14 +3467,18 @@ Nevada,MB79,Proposition 66,,,No,93
 Nevada,MB79,Proposition 66,,,Yes,108
 Nevada,MB79,Proposition 67,,,No,126
 Nevada,MB79,Proposition 67,,,Yes,85
+Nevada,MB79,State Assembly,1,REP,Brian Dahle,141
+Nevada,MB79,State Assembly,1,LIB,Donn Coenen,57
+Nevada,MB79,State Senate,1,DEM,Rob Rowen,79
+Nevada,MB79,State Senate,1,REP,Ted Gaines,135
+Nevada,MB79,U.S. House,1,REP,Doug La Malfa,130
+Nevada,MB79,U.S. House,1,DEM,Jim Reed,88
 Nevada,MB79,U.S. Senate,,DEM,Kamala D. Harris,104
 Nevada,MB79,U.S. Senate,,DEM,Loretta L. Sanchez,51
-Nevada,MB80,President,,REP/AI,Donald J. Trump,21
+Nevada,MB80,President,,REP,Donald J. Trump,21
 Nevada,MB80,President,,LIB,Gary Johnson,3
-Nevada,MB80,President,,PF,Gloria Estela La Riva,0
 Nevada,MB80,President,,DEM,Hillary Clinton,12
 Nevada,MB80,President,,GRN,Jill Stein,1
-Nevada,MB80,President,,WI,Write-In,1
 Nevada,MB80,Proposition 51,,,No,32
 Nevada,MB80,Proposition 51,,,Yes,4
 Nevada,MB80,Proposition 52,,,No,12
@@ -3357,14 +3513,19 @@ Nevada,MB80,Proposition 66,,,No,11
 Nevada,MB80,Proposition 66,,,Yes,26
 Nevada,MB80,Proposition 67,,,No,24
 Nevada,MB80,Proposition 67,,,Yes,13
+Nevada,MB80,State Assembly,1,REP,Brian Dahle,28
+Nevada,MB80,State Assembly,1,LIB,Donn Coenen,5
+Nevada,MB80,State Senate,1,DEM,Rob Rowen,11
+Nevada,MB80,State Senate,1,REP,Ted Gaines,26
+Nevada,MB80,U.S. House,1,REP,Doug La Malfa,26
+Nevada,MB80,U.S. House,1,DEM,Jim Reed,12
 Nevada,MB80,U.S. Senate,,DEM,Kamala D. Harris,16
 Nevada,MB80,U.S. Senate,,DEM,Loretta L. Sanchez,13
-Nevada,MB81,President,,REP/AI,Donald J. Trump,56
+Nevada,MB81,President,,REP,Donald J. Trump,56
 Nevada,MB81,President,,LIB,Gary Johnson,3
-Nevada,MB81,President,,PF,Gloria Estela La Riva,1
+Nevada,MB81,President,,PAF,Gloria Estela La Riva,1
 Nevada,MB81,President,,DEM,Hillary Clinton,43
 Nevada,MB81,President,,GRN,Jill Stein,5
-Nevada,MB81,President,,WI,Write-In,0
 Nevada,MB81,Proposition 51,,,No,68
 Nevada,MB81,Proposition 51,,,Yes,39
 Nevada,MB81,Proposition 52,,,No,34
@@ -3399,14 +3560,17 @@ Nevada,MB81,Proposition 66,,,No,46
 Nevada,MB81,Proposition 66,,,Yes,52
 Nevada,MB81,Proposition 67,,,No,56
 Nevada,MB81,Proposition 67,,,Yes,45
+Nevada,MB81,State Assembly,1,REP,Brian Dahle,64
+Nevada,MB81,State Assembly,1,LIB,Donn Coenen,33
+Nevada,MB81,State Senate,1,DEM,Rob Rowen,42
+Nevada,MB81,State Senate,1,REP,Ted Gaines,59
+Nevada,MB81,U.S. House,1,REP,Doug La Malfa,57
+Nevada,MB81,U.S. House,1,DEM,Jim Reed,46
 Nevada,MB81,U.S. Senate,,DEM,Kamala D. Harris,54
 Nevada,MB81,U.S. Senate,,DEM,Loretta L. Sanchez,28
-Nevada,MB82,President,,REP/AI,Donald J. Trump,21
-Nevada,MB82,President,,LIB,Gary Johnson,0
-Nevada,MB82,President,,PF,Gloria Estela La Riva,0
+Nevada,MB82,President,,REP,Donald J. Trump,21
 Nevada,MB82,President,,DEM,Hillary Clinton,9
 Nevada,MB82,President,,GRN,Jill Stein,2
-Nevada,MB82,President,,WI,Write-In,0
 Nevada,MB82,Proposition 51,,,No,26
 Nevada,MB82,Proposition 51,,,Yes,6
 Nevada,MB82,Proposition 52,,,No,10
@@ -3441,5 +3605,11 @@ Nevada,MB82,Proposition 66,,,No,11
 Nevada,MB82,Proposition 66,,,Yes,22
 Nevada,MB82,Proposition 67,,,No,22
 Nevada,MB82,Proposition 67,,,Yes,13
+Nevada,MB82,State Assembly,1,REP,Brian Dahle,23
+Nevada,MB82,State Assembly,1,LIB,Donn Coenen,8
+Nevada,MB82,State Senate,1,DEM,Rob Rowen,15
+Nevada,MB82,State Senate,1,REP,Ted Gaines,18
+Nevada,MB82,U.S. House,1,REP,Doug La Malfa,23
+Nevada,MB82,U.S. House,1,DEM,Jim Reed,10
 Nevada,MB82,U.S. Senate,,DEM,Kamala D. Harris,10
 Nevada,MB82,U.S. Senate,,DEM,Loretta L. Sanchez,11

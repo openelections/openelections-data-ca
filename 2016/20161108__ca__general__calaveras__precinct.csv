@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Calaveras,110,President,,REP/AI,Donald J. Trump,412
+Calaveras,110,President,,REP,Donald J. Trump,412
 Calaveras,110,President,,LIB,Gary Johnson,38
-Calaveras,110,President,,PF,Gloria Estela La Riva,2
+Calaveras,110,President,,PAF,Gloria Estela La Riva,2
 Calaveras,110,President,,DEM,Hillary Clinton,238
 Calaveras,110,President,,GRN,Jill Stein,15
-Calaveras,110,President,,WI,Write-In,14
 Calaveras,110,Proposition 51,,,No,367
 Calaveras,110,Proposition 51,,,Yes,313
 Calaveras,110,Proposition 52,,,No,253
@@ -39,14 +38,17 @@ Calaveras,110,Proposition 66,,,No,261
 Calaveras,110,Proposition 66,,,Yes,403
 Calaveras,110,Proposition 67,,,No,404
 Calaveras,110,Proposition 67,,,Yes,287
+Calaveras,110,State Assembly,5,REP,Frank Bigelow,460
+Calaveras,110,State Assembly,5,DEM,Robert Carabas,229
+Calaveras,110,U.S. House,4,DEM,Robert W. Derlet,253
+Calaveras,110,U.S. House,4,REP,Tom McClintock,445
 Calaveras,110,U.S. Senate,,DEM,Kamala D. Harris,376
 Calaveras,110,U.S. Senate,,DEM,Loretta L. Sanchez,212
-Calaveras,120,President,,REP/AI,Donald J. Trump,576
+Calaveras,120,President,,REP,Donald J. Trump,576
 Calaveras,120,President,,LIB,Gary Johnson,45
-Calaveras,120,President,,PF,Gloria Estela La Riva,3
+Calaveras,120,President,,PAF,Gloria Estela La Riva,3
 Calaveras,120,President,,DEM,Hillary Clinton,264
 Calaveras,120,President,,GRN,Jill Stein,19
-Calaveras,120,President,,WI,Write-In,20
 Calaveras,120,Proposition 51,,,No,524
 Calaveras,120,Proposition 51,,,Yes,354
 Calaveras,120,Proposition 52,,,No,365
@@ -81,14 +83,17 @@ Calaveras,120,Proposition 66,,,No,329
 Calaveras,120,Proposition 66,,,Yes,526
 Calaveras,120,Proposition 67,,,No,528
 Calaveras,120,Proposition 67,,,Yes,372
+Calaveras,120,State Assembly,5,REP,Frank Bigelow,643
+Calaveras,120,State Assembly,5,DEM,Robert Carabas,247
+Calaveras,120,U.S. House,4,DEM,Robert W. Derlet,279
+Calaveras,120,U.S. House,4,REP,Tom McClintock,611
 Calaveras,120,U.S. Senate,,DEM,Kamala D. Harris,435
 Calaveras,120,U.S. Senate,,DEM,Loretta L. Sanchez,274
-Calaveras,140,President,,REP/AI,Donald J. Trump,516
+Calaveras,140,President,,REP,Donald J. Trump,516
 Calaveras,140,President,,LIB,Gary Johnson,37
-Calaveras,140,President,,PF,Gloria Estela La Riva,2
+Calaveras,140,President,,PAF,Gloria Estela La Riva,2
 Calaveras,140,President,,DEM,Hillary Clinton,217
 Calaveras,140,President,,GRN,Jill Stein,8
-Calaveras,140,President,,WI,Write-In,12
 Calaveras,140,Proposition 51,,,No,436
 Calaveras,140,Proposition 51,,,Yes,326
 Calaveras,140,Proposition 52,,,No,309
@@ -123,14 +128,17 @@ Calaveras,140,Proposition 66,,,No,281
 Calaveras,140,Proposition 66,,,Yes,461
 Calaveras,140,Proposition 67,,,No,517
 Calaveras,140,Proposition 67,,,Yes,249
+Calaveras,140,State Assembly,5,REP,Frank Bigelow,522
+Calaveras,140,State Assembly,5,DEM,Robert Carabas,212
+Calaveras,140,U.S. House,4,DEM,Robert W. Derlet,220
+Calaveras,140,U.S. House,4,REP,Tom McClintock,528
 Calaveras,140,U.S. Senate,,DEM,Kamala D. Harris,352
 Calaveras,140,U.S. Senate,,DEM,Loretta L. Sanchez,248
-Calaveras,150,President,,REP/AI,Donald J. Trump,362
+Calaveras,150,President,,REP,Donald J. Trump,362
 Calaveras,150,President,,LIB,Gary Johnson,23
-Calaveras,150,President,,PF,Gloria Estela La Riva,1
+Calaveras,150,President,,PAF,Gloria Estela La Riva,1
 Calaveras,150,President,,DEM,Hillary Clinton,176
 Calaveras,150,President,,GRN,Jill Stein,5
-Calaveras,150,President,,WI,Write-In,16
 Calaveras,150,Proposition 51,,,No,339
 Calaveras,150,Proposition 51,,,Yes,226
 Calaveras,150,Proposition 52,,,No,236
@@ -165,14 +173,17 @@ Calaveras,150,Proposition 66,,,No,189
 Calaveras,150,Proposition 66,,,Yes,377
 Calaveras,150,Proposition 67,,,No,371
 Calaveras,150,Proposition 67,,,Yes,200
+Calaveras,150,State Assembly,5,REP,Frank Bigelow,400
+Calaveras,150,State Assembly,5,DEM,Robert Carabas,149
+Calaveras,150,U.S. House,4,DEM,Robert W. Derlet,157
+Calaveras,150,U.S. House,4,REP,Tom McClintock,404
 Calaveras,150,U.S. Senate,,DEM,Kamala D. Harris,268
 Calaveras,150,U.S. Senate,,DEM,Loretta L. Sanchez,164
-Calaveras,160,President,,REP/AI,Donald J. Trump,473
+Calaveras,160,President,,REP,Donald J. Trump,473
 Calaveras,160,President,,LIB,Gary Johnson,24
-Calaveras,160,President,,PF,Gloria Estela La Riva,2
+Calaveras,160,President,,PAF,Gloria Estela La Riva,2
 Calaveras,160,President,,DEM,Hillary Clinton,153
 Calaveras,160,President,,GRN,Jill Stein,4
-Calaveras,160,President,,WI,Write-In,11
 Calaveras,160,Proposition 51,,,No,431
 Calaveras,160,Proposition 51,,,Yes,215
 Calaveras,160,Proposition 52,,,No,303
@@ -207,14 +218,17 @@ Calaveras,160,Proposition 66,,,No,233
 Calaveras,160,Proposition 66,,,Yes,386
 Calaveras,160,Proposition 67,,,No,465
 Calaveras,160,Proposition 67,,,Yes,182
+Calaveras,160,State Assembly,5,REP,Frank Bigelow,491
+Calaveras,160,State Assembly,5,DEM,Robert Carabas,148
+Calaveras,160,U.S. House,4,DEM,Robert W. Derlet,163
+Calaveras,160,U.S. House,4,REP,Tom McClintock,486
 Calaveras,160,U.S. Senate,,DEM,Kamala D. Harris,274
 Calaveras,160,U.S. Senate,,DEM,Loretta L. Sanchez,224
-Calaveras,170,President,,REP/AI,Donald J. Trump,576
+Calaveras,170,President,,REP,Donald J. Trump,576
 Calaveras,170,President,,LIB,Gary Johnson,40
-Calaveras,170,President,,PF,Gloria Estela La Riva,1
+Calaveras,170,President,,PAF,Gloria Estela La Riva,1
 Calaveras,170,President,,DEM,Hillary Clinton,205
 Calaveras,170,President,,GRN,Jill Stein,14
-Calaveras,170,President,,WI,Write-In,14
 Calaveras,170,Proposition 51,,,No,558
 Calaveras,170,Proposition 51,,,Yes,262
 Calaveras,170,Proposition 52,,,No,391
@@ -249,14 +263,16 @@ Calaveras,170,Proposition 66,,,No,284
 Calaveras,170,Proposition 66,,,Yes,505
 Calaveras,170,Proposition 67,,,No,593
 Calaveras,170,Proposition 67,,,Yes,240
+Calaveras,170,State Assembly,5,REP,Frank Bigelow,597
+Calaveras,170,State Assembly,5,DEM,Robert Carabas,203
+Calaveras,170,U.S. House,4,DEM,Robert W. Derlet,214
+Calaveras,170,U.S. House,4,REP,Tom McClintock,607
 Calaveras,170,U.S. Senate,,DEM,Kamala D. Harris,335
 Calaveras,170,U.S. Senate,,DEM,Loretta L. Sanchez,278
-Calaveras,210,President,,REP/AI,Donald J. Trump,213
+Calaveras,210,President,,REP,Donald J. Trump,213
 Calaveras,210,President,,LIB,Gary Johnson,34
-Calaveras,210,President,,PF,Gloria Estela La Riva,0
 Calaveras,210,President,,DEM,Hillary Clinton,219
 Calaveras,210,President,,GRN,Jill Stein,18
-Calaveras,210,President,,WI,Write-In,13
 Calaveras,210,Proposition 51,,,No,262
 Calaveras,210,Proposition 51,,,Yes,211
 Calaveras,210,Proposition 52,,,No,164
@@ -291,14 +307,16 @@ Calaveras,210,Proposition 66,,,No,186
 Calaveras,210,Proposition 66,,,Yes,273
 Calaveras,210,Proposition 67,,,No,272
 Calaveras,210,Proposition 67,,,Yes,214
+Calaveras,210,State Assembly,5,REP,Frank Bigelow,255
+Calaveras,210,State Assembly,5,DEM,Robert Carabas,207
+Calaveras,210,U.S. House,4,DEM,Robert W. Derlet,220
+Calaveras,210,U.S. House,4,REP,Tom McClintock,246
 Calaveras,210,U.S. Senate,,DEM,Kamala D. Harris,247
 Calaveras,210,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Calaveras,215,President,,REP/AI,Donald J. Trump,376
+Calaveras,215,President,,REP,Donald J. Trump,376
 Calaveras,215,President,,LIB,Gary Johnson,44
-Calaveras,215,President,,PF,Gloria Estela La Riva,0
 Calaveras,215,President,,DEM,Hillary Clinton,284
 Calaveras,215,President,,GRN,Jill Stein,26
-Calaveras,215,President,,WI,Write-In,24
 Calaveras,215,Proposition 51,,,No,436
 Calaveras,215,Proposition 51,,,Yes,289
 Calaveras,215,Proposition 52,,,No,251
@@ -333,14 +351,17 @@ Calaveras,215,Proposition 66,,,No,308
 Calaveras,215,Proposition 66,,,Yes,398
 Calaveras,215,Proposition 67,,,No,409
 Calaveras,215,Proposition 67,,,Yes,330
+Calaveras,215,State Assembly,5,REP,Frank Bigelow,440
+Calaveras,215,State Assembly,5,DEM,Robert Carabas,267
+Calaveras,215,U.S. House,4,DEM,Robert W. Derlet,303
+Calaveras,215,U.S. House,4,REP,Tom McClintock,413
 Calaveras,215,U.S. Senate,,DEM,Kamala D. Harris,383
 Calaveras,215,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Calaveras,220,President,,REP/AI,Donald J. Trump,397
+Calaveras,220,President,,REP,Donald J. Trump,397
 Calaveras,220,President,,LIB,Gary Johnson,36
-Calaveras,220,President,,PF,Gloria Estela La Riva,5
+Calaveras,220,President,,PAF,Gloria Estela La Riva,5
 Calaveras,220,President,,DEM,Hillary Clinton,238
 Calaveras,220,President,,GRN,Jill Stein,21
-Calaveras,220,President,,WI,Write-In,15
 Calaveras,220,Proposition 51,,,No,396
 Calaveras,220,Proposition 51,,,Yes,275
 Calaveras,220,Proposition 52,,,No,275
@@ -375,14 +396,17 @@ Calaveras,220,Proposition 66,,,No,266
 Calaveras,220,Proposition 66,,,Yes,392
 Calaveras,220,Proposition 67,,,No,412
 Calaveras,220,Proposition 67,,,Yes,283
+Calaveras,220,State Assembly,5,REP,Frank Bigelow,422
+Calaveras,220,State Assembly,5,DEM,Robert Carabas,248
+Calaveras,220,U.S. House,4,DEM,Robert W. Derlet,258
+Calaveras,220,U.S. House,4,REP,Tom McClintock,421
 Calaveras,220,U.S. Senate,,DEM,Kamala D. Harris,347
 Calaveras,220,U.S. Senate,,DEM,Loretta L. Sanchez,200
-Calaveras,230,President,,REP/AI,Donald J. Trump,245
+Calaveras,230,President,,REP,Donald J. Trump,245
 Calaveras,230,President,,LIB,Gary Johnson,25
-Calaveras,230,President,,PF,Gloria Estela La Riva,2
+Calaveras,230,President,,PAF,Gloria Estela La Riva,2
 Calaveras,230,President,,DEM,Hillary Clinton,120
 Calaveras,230,President,,GRN,Jill Stein,15
-Calaveras,230,President,,WI,Write-In,9
 Calaveras,230,Proposition 51,,,No,243
 Calaveras,230,Proposition 51,,,Yes,159
 Calaveras,230,Proposition 52,,,No,169
@@ -417,14 +441,16 @@ Calaveras,230,Proposition 66,,,No,173
 Calaveras,230,Proposition 66,,,Yes,217
 Calaveras,230,Proposition 67,,,No,267
 Calaveras,230,Proposition 67,,,Yes,141
+Calaveras,230,State Assembly,5,REP,Frank Bigelow,264
+Calaveras,230,State Assembly,5,DEM,Robert Carabas,130
+Calaveras,230,U.S. House,4,DEM,Robert W. Derlet,148
+Calaveras,230,U.S. House,4,REP,Tom McClintock,249
 Calaveras,230,U.S. Senate,,DEM,Kamala D. Harris,194
 Calaveras,230,U.S. Senate,,DEM,Loretta L. Sanchez,116
-Calaveras,240,President,,REP/AI,Donald J. Trump,379
+Calaveras,240,President,,REP,Donald J. Trump,379
 Calaveras,240,President,,LIB,Gary Johnson,34
-Calaveras,240,President,,PF,Gloria Estela La Riva,0
 Calaveras,240,President,,DEM,Hillary Clinton,260
 Calaveras,240,President,,GRN,Jill Stein,21
-Calaveras,240,President,,WI,Write-In,16
 Calaveras,240,Proposition 51,,,No,420
 Calaveras,240,Proposition 51,,,Yes,263
 Calaveras,240,Proposition 52,,,No,256
@@ -459,14 +485,17 @@ Calaveras,240,Proposition 66,,,No,273
 Calaveras,240,Proposition 66,,,Yes,397
 Calaveras,240,Proposition 67,,,No,444
 Calaveras,240,Proposition 67,,,Yes,253
+Calaveras,240,State Assembly,5,REP,Frank Bigelow,409
+Calaveras,240,State Assembly,5,DEM,Robert Carabas,255
+Calaveras,240,U.S. House,4,DEM,Robert W. Derlet,272
+Calaveras,240,U.S. House,4,REP,Tom McClintock,402
 Calaveras,240,U.S. Senate,,DEM,Kamala D. Harris,340
 Calaveras,240,U.S. Senate,,DEM,Loretta L. Sanchez,209
-Calaveras,250,President,,REP/AI,Donald J. Trump,295
+Calaveras,250,President,,REP,Donald J. Trump,295
 Calaveras,250,President,,LIB,Gary Johnson,26
-Calaveras,250,President,,PF,Gloria Estela La Riva,2
+Calaveras,250,President,,PAF,Gloria Estela La Riva,2
 Calaveras,250,President,,DEM,Hillary Clinton,199
 Calaveras,250,President,,GRN,Jill Stein,8
-Calaveras,250,President,,WI,Write-In,9
 Calaveras,250,Proposition 51,,,No,321
 Calaveras,250,Proposition 51,,,Yes,204
 Calaveras,250,Proposition 52,,,No,200
@@ -501,14 +530,17 @@ Calaveras,250,Proposition 66,,,No,223
 Calaveras,250,Proposition 66,,,Yes,286
 Calaveras,250,Proposition 67,,,No,308
 Calaveras,250,Proposition 67,,,Yes,218
+Calaveras,250,State Assembly,5,REP,Frank Bigelow,325
+Calaveras,250,State Assembly,5,DEM,Robert Carabas,189
+Calaveras,250,U.S. House,4,DEM,Robert W. Derlet,187
+Calaveras,250,U.S. House,4,REP,Tom McClintock,330
 Calaveras,250,U.S. Senate,,DEM,Kamala D. Harris,280
 Calaveras,250,U.S. Senate,,DEM,Loretta L. Sanchez,132
-Calaveras,260,President,,REP/AI,Donald J. Trump,319
+Calaveras,260,President,,REP,Donald J. Trump,319
 Calaveras,260,President,,LIB,Gary Johnson,23
-Calaveras,260,President,,PF,Gloria Estela La Riva,1
+Calaveras,260,President,,PAF,Gloria Estela La Riva,1
 Calaveras,260,President,,DEM,Hillary Clinton,223
 Calaveras,260,President,,GRN,Jill Stein,27
-Calaveras,260,President,,WI,Write-In,11
 Calaveras,260,Proposition 51,,,No,349
 Calaveras,260,Proposition 51,,,Yes,234
 Calaveras,260,Proposition 52,,,No,242
@@ -543,14 +575,17 @@ Calaveras,260,Proposition 66,,,No,269
 Calaveras,260,Proposition 66,,,Yes,296
 Calaveras,260,Proposition 67,,,No,356
 Calaveras,260,Proposition 67,,,Yes,240
+Calaveras,260,State Assembly,5,REP,Frank Bigelow,352
+Calaveras,260,State Assembly,5,DEM,Robert Carabas,219
+Calaveras,260,U.S. House,4,DEM,Robert W. Derlet,236
+Calaveras,260,U.S. House,4,REP,Tom McClintock,339
 Calaveras,260,U.S. Senate,,DEM,Kamala D. Harris,306
 Calaveras,260,U.S. Senate,,DEM,Loretta L. Sanchez,150
-Calaveras,310,President,,REP/AI,Donald J. Trump,426
+Calaveras,310,President,,REP,Donald J. Trump,426
 Calaveras,310,President,,LIB,Gary Johnson,37
-Calaveras,310,President,,PF,Gloria Estela La Riva,2
+Calaveras,310,President,,PAF,Gloria Estela La Riva,2
 Calaveras,310,President,,DEM,Hillary Clinton,399
 Calaveras,310,President,,GRN,Jill Stein,18
-Calaveras,310,President,,WI,Write-In,22
 Calaveras,310,Proposition 51,,,No,499
 Calaveras,310,Proposition 51,,,Yes,384
 Calaveras,310,Proposition 52,,,No,300
@@ -585,14 +620,16 @@ Calaveras,310,Proposition 66,,,No,365
 Calaveras,310,Proposition 66,,,Yes,487
 Calaveras,310,Proposition 67,,,No,485
 Calaveras,310,Proposition 67,,,Yes,406
+Calaveras,310,State Assembly,5,REP,Frank Bigelow,507
+Calaveras,310,State Assembly,5,DEM,Robert Carabas,375
+Calaveras,310,U.S. House,4,DEM,Robert W. Derlet,394
+Calaveras,310,U.S. House,4,REP,Tom McClintock,497
 Calaveras,310,U.S. Senate,,DEM,Kamala D. Harris,509
 Calaveras,310,U.S. Senate,,DEM,Loretta L. Sanchez,201
-Calaveras,320,President,,REP/AI,Donald J. Trump,337
+Calaveras,320,President,,REP,Donald J. Trump,337
 Calaveras,320,President,,LIB,Gary Johnson,37
-Calaveras,320,President,,PF,Gloria Estela La Riva,0
 Calaveras,320,President,,DEM,Hillary Clinton,269
 Calaveras,320,President,,GRN,Jill Stein,13
-Calaveras,320,President,,WI,Write-In,9
 Calaveras,320,Proposition 51,,,No,373
 Calaveras,320,Proposition 51,,,Yes,264
 Calaveras,320,Proposition 52,,,No,219
@@ -627,14 +664,17 @@ Calaveras,320,Proposition 66,,,No,252
 Calaveras,320,Proposition 66,,,Yes,372
 Calaveras,320,Proposition 67,,,No,364
 Calaveras,320,Proposition 67,,,Yes,297
+Calaveras,320,State Assembly,5,REP,Frank Bigelow,394
+Calaveras,320,State Assembly,5,DEM,Robert Carabas,253
+Calaveras,320,U.S. House,4,DEM,Robert W. Derlet,280
+Calaveras,320,U.S. House,4,REP,Tom McClintock,377
 Calaveras,320,U.S. Senate,,DEM,Kamala D. Harris,352
 Calaveras,320,U.S. Senate,,DEM,Loretta L. Sanchez,150
-Calaveras,330,President,,REP/AI,Donald J. Trump,295
+Calaveras,330,President,,REP,Donald J. Trump,295
 Calaveras,330,President,,LIB,Gary Johnson,29
-Calaveras,330,President,,PF,Gloria Estela La Riva,4
+Calaveras,330,President,,PAF,Gloria Estela La Riva,4
 Calaveras,330,President,,DEM,Hillary Clinton,363
 Calaveras,330,President,,GRN,Jill Stein,15
-Calaveras,330,President,,WI,Write-In,12
 Calaveras,330,Proposition 51,,,No,359
 Calaveras,330,Proposition 51,,,Yes,320
 Calaveras,330,Proposition 52,,,No,220
@@ -669,14 +709,17 @@ Calaveras,330,Proposition 66,,,No,309
 Calaveras,330,Proposition 66,,,Yes,363
 Calaveras,330,Proposition 67,,,No,332
 Calaveras,330,Proposition 67,,,Yes,356
+Calaveras,330,State Assembly,5,REP,Frank Bigelow,362
+Calaveras,330,State Assembly,5,DEM,Robert Carabas,312
+Calaveras,330,U.S. House,4,DEM,Robert W. Derlet,329
+Calaveras,330,U.S. House,4,REP,Tom McClintock,362
 Calaveras,330,U.S. Senate,,DEM,Kamala D. Harris,404
 Calaveras,330,U.S. Senate,,DEM,Loretta L. Sanchez,167
-Calaveras,350,President,,REP/AI,Donald J. Trump,453
+Calaveras,350,President,,REP,Donald J. Trump,453
 Calaveras,350,President,,LIB,Gary Johnson,48
-Calaveras,350,President,,PF,Gloria Estela La Riva,1
+Calaveras,350,President,,PAF,Gloria Estela La Riva,1
 Calaveras,350,President,,DEM,Hillary Clinton,513
 Calaveras,350,President,,GRN,Jill Stein,28
-Calaveras,350,President,,WI,Write-In,35
 Calaveras,350,Proposition 51,,,No,601
 Calaveras,350,Proposition 51,,,Yes,445
 Calaveras,350,Proposition 52,,,No,347
@@ -711,14 +754,17 @@ Calaveras,350,Proposition 66,,,No,405
 Calaveras,350,Proposition 66,,,Yes,606
 Calaveras,350,Proposition 67,,,No,522
 Calaveras,350,Proposition 67,,,Yes,549
+Calaveras,350,State Assembly,5,REP,Frank Bigelow,594
+Calaveras,350,State Assembly,5,DEM,Robert Carabas,438
+Calaveras,350,U.S. House,4,DEM,Robert W. Derlet,485
+Calaveras,350,U.S. House,4,REP,Tom McClintock,569
 Calaveras,350,U.S. Senate,,DEM,Kamala D. Harris,607
 Calaveras,350,U.S. Senate,,DEM,Loretta L. Sanchez,223
-Calaveras,360,President,,REP/AI,Donald J. Trump,410
+Calaveras,360,President,,REP,Donald J. Trump,410
 Calaveras,360,President,,LIB,Gary Johnson,37
-Calaveras,360,President,,PF,Gloria Estela La Riva,4
+Calaveras,360,President,,PAF,Gloria Estela La Riva,4
 Calaveras,360,President,,DEM,Hillary Clinton,429
 Calaveras,360,President,,GRN,Jill Stein,12
-Calaveras,360,President,,WI,Write-In,26
 Calaveras,360,Proposition 51,,,No,463
 Calaveras,360,Proposition 51,,,Yes,400
 Calaveras,360,Proposition 52,,,No,298
@@ -753,14 +799,17 @@ Calaveras,360,Proposition 66,,,No,332
 Calaveras,360,Proposition 66,,,Yes,500
 Calaveras,360,Proposition 67,,,No,442
 Calaveras,360,Proposition 67,,,Yes,443
+Calaveras,360,State Assembly,5,REP,Frank Bigelow,490
+Calaveras,360,State Assembly,5,DEM,Robert Carabas,378
+Calaveras,360,U.S. House,4,DEM,Robert W. Derlet,411
+Calaveras,360,U.S. House,4,REP,Tom McClintock,466
 Calaveras,360,U.S. Senate,,DEM,Kamala D. Harris,490
 Calaveras,360,U.S. Senate,,DEM,Loretta L. Sanchez,188
-Calaveras,370,President,,REP/AI,Donald J. Trump,388
+Calaveras,370,President,,REP,Donald J. Trump,388
 Calaveras,370,President,,LIB,Gary Johnson,53
-Calaveras,370,President,,PF,Gloria Estela La Riva,2
+Calaveras,370,President,,PAF,Gloria Estela La Riva,2
 Calaveras,370,President,,DEM,Hillary Clinton,343
 Calaveras,370,President,,GRN,Jill Stein,15
-Calaveras,370,President,,WI,Write-In,15
 Calaveras,370,Proposition 51,,,No,428
 Calaveras,370,Proposition 51,,,Yes,349
 Calaveras,370,Proposition 52,,,No,246
@@ -795,14 +844,17 @@ Calaveras,370,Proposition 66,,,No,302
 Calaveras,370,Proposition 66,,,Yes,457
 Calaveras,370,Proposition 67,,,No,427
 Calaveras,370,Proposition 67,,,Yes,366
+Calaveras,370,State Assembly,5,REP,Frank Bigelow,477
+Calaveras,370,State Assembly,5,DEM,Robert Carabas,315
+Calaveras,370,U.S. House,4,DEM,Robert W. Derlet,335
+Calaveras,370,U.S. House,4,REP,Tom McClintock,462
 Calaveras,370,U.S. Senate,,DEM,Kamala D. Harris,406
 Calaveras,370,U.S. Senate,,DEM,Loretta L. Sanchez,204
-Calaveras,410,President,,REP/AI,Donald J. Trump,605
+Calaveras,410,President,,REP,Donald J. Trump,605
 Calaveras,410,President,,LIB,Gary Johnson,45
-Calaveras,410,President,,PF,Gloria Estela La Riva,6
+Calaveras,410,President,,PAF,Gloria Estela La Riva,6
 Calaveras,410,President,,DEM,Hillary Clinton,344
 Calaveras,410,President,,GRN,Jill Stein,20
-Calaveras,410,President,,WI,Write-In,26
 Calaveras,410,Proposition 51,,,No,620
 Calaveras,410,Proposition 51,,,Yes,393
 Calaveras,410,Proposition 52,,,No,380
@@ -837,14 +889,17 @@ Calaveras,410,Proposition 66,,,No,406
 Calaveras,410,Proposition 66,,,Yes,589
 Calaveras,410,Proposition 67,,,No,598
 Calaveras,410,Proposition 67,,,Yes,439
+Calaveras,410,State Assembly,5,REP,Frank Bigelow,691
+Calaveras,410,State Assembly,5,DEM,Robert Carabas,322
+Calaveras,410,U.S. House,4,DEM,Robert W. Derlet,348
+Calaveras,410,U.S. House,4,REP,Tom McClintock,673
 Calaveras,410,U.S. Senate,,DEM,Kamala D. Harris,496
 Calaveras,410,U.S. Senate,,DEM,Loretta L. Sanchez,251
-Calaveras,420,President,,REP/AI,Donald J. Trump,421
+Calaveras,420,President,,REP,Donald J. Trump,421
 Calaveras,420,President,,LIB,Gary Johnson,53
-Calaveras,420,President,,PF,Gloria Estela La Riva,1
+Calaveras,420,President,,PAF,Gloria Estela La Riva,1
 Calaveras,420,President,,DEM,Hillary Clinton,285
 Calaveras,420,President,,GRN,Jill Stein,14
-Calaveras,420,President,,WI,Write-In,16
 Calaveras,420,Proposition 51,,,No,447
 Calaveras,420,Proposition 51,,,Yes,316
 Calaveras,420,Proposition 52,,,No,285
@@ -879,14 +934,16 @@ Calaveras,420,Proposition 66,,,No,309
 Calaveras,420,Proposition 66,,,Yes,424
 Calaveras,420,Proposition 67,,,No,470
 Calaveras,420,Proposition 67,,,Yes,289
+Calaveras,420,State Assembly,5,REP,Frank Bigelow,517
+Calaveras,420,State Assembly,5,DEM,Robert Carabas,235
+Calaveras,420,U.S. House,4,DEM,Robert W. Derlet,269
+Calaveras,420,U.S. House,4,REP,Tom McClintock,495
 Calaveras,420,U.S. Senate,,DEM,Kamala D. Harris,401
 Calaveras,420,U.S. Senate,,DEM,Loretta L. Sanchez,197
-Calaveras,430,President,,REP/AI,Donald J. Trump,604
+Calaveras,430,President,,REP,Donald J. Trump,604
 Calaveras,430,President,,LIB,Gary Johnson,62
-Calaveras,430,President,,PF,Gloria Estela La Riva,0
 Calaveras,430,President,,DEM,Hillary Clinton,391
 Calaveras,430,President,,GRN,Jill Stein,9
-Calaveras,430,President,,WI,Write-In,29
 Calaveras,430,Proposition 51,,,No,576
 Calaveras,430,Proposition 51,,,Yes,492
 Calaveras,430,Proposition 52,,,No,379
@@ -921,14 +978,17 @@ Calaveras,430,Proposition 66,,,No,407
 Calaveras,430,Proposition 66,,,Yes,645
 Calaveras,430,Proposition 67,,,No,612
 Calaveras,430,Proposition 67,,,Yes,476
+Calaveras,430,State Assembly,5,REP,Frank Bigelow,736
+Calaveras,430,State Assembly,5,DEM,Robert Carabas,330
+Calaveras,430,U.S. House,4,DEM,Robert W. Derlet,367
+Calaveras,430,U.S. House,4,REP,Tom McClintock,710
 Calaveras,430,U.S. Senate,,DEM,Kamala D. Harris,575
 Calaveras,430,U.S. Senate,,DEM,Loretta L. Sanchez,228
-Calaveras,440,President,,REP/AI,Donald J. Trump,708
+Calaveras,440,President,,REP,Donald J. Trump,708
 Calaveras,440,President,,LIB,Gary Johnson,39
-Calaveras,440,President,,PF,Gloria Estela La Riva,4
+Calaveras,440,President,,PAF,Gloria Estela La Riva,4
 Calaveras,440,President,,DEM,Hillary Clinton,287
 Calaveras,440,President,,GRN,Jill Stein,10
-Calaveras,440,President,,WI,Write-In,30
 Calaveras,440,Proposition 51,,,No,654
 Calaveras,440,Proposition 51,,,Yes,388
 Calaveras,440,Proposition 52,,,No,426
@@ -963,14 +1023,17 @@ Calaveras,440,Proposition 66,,,No,385
 Calaveras,440,Proposition 66,,,Yes,636
 Calaveras,440,Proposition 67,,,No,706
 Calaveras,440,Proposition 67,,,Yes,343
+Calaveras,440,State Assembly,5,REP,Frank Bigelow,761
+Calaveras,440,State Assembly,5,DEM,Robert Carabas,257
+Calaveras,440,U.S. House,4,DEM,Robert W. Derlet,308
+Calaveras,440,U.S. House,4,REP,Tom McClintock,726
 Calaveras,440,U.S. Senate,,DEM,Kamala D. Harris,452
 Calaveras,440,U.S. Senate,,DEM,Loretta L. Sanchez,286
-Calaveras,450,President,,REP/AI,Donald J. Trump,727
+Calaveras,450,President,,REP,Donald J. Trump,727
 Calaveras,450,President,,LIB,Gary Johnson,55
-Calaveras,450,President,,PF,Gloria Estela La Riva,2
+Calaveras,450,President,,PAF,Gloria Estela La Riva,2
 Calaveras,450,President,,DEM,Hillary Clinton,340
 Calaveras,450,President,,GRN,Jill Stein,12
-Calaveras,450,President,,WI,Write-In,21
 Calaveras,450,Proposition 51,,,No,708
 Calaveras,450,Proposition 51,,,Yes,423
 Calaveras,450,Proposition 52,,,No,464
@@ -1005,14 +1068,17 @@ Calaveras,450,Proposition 66,,,No,417
 Calaveras,450,Proposition 66,,,Yes,695
 Calaveras,450,Proposition 67,,,No,778
 Calaveras,450,Proposition 67,,,Yes,361
+Calaveras,450,State Assembly,5,REP,Frank Bigelow,823
+Calaveras,450,State Assembly,5,DEM,Robert Carabas,299
+Calaveras,450,U.S. House,4,DEM,Robert W. Derlet,341
+Calaveras,450,U.S. House,4,REP,Tom McClintock,797
 Calaveras,450,U.S. Senate,,DEM,Kamala D. Harris,537
 Calaveras,450,U.S. Senate,,DEM,Loretta L. Sanchez,303
-Calaveras,530,President,,REP/AI,Donald J. Trump,581
+Calaveras,530,President,,REP,Donald J. Trump,581
 Calaveras,530,President,,LIB,Gary Johnson,19
-Calaveras,530,President,,PF,Gloria Estela La Riva,3
+Calaveras,530,President,,PAF,Gloria Estela La Riva,3
 Calaveras,530,President,,DEM,Hillary Clinton,174
 Calaveras,530,President,,GRN,Jill Stein,11
-Calaveras,530,President,,WI,Write-In,14
 Calaveras,530,Proposition 51,,,No,541
 Calaveras,530,Proposition 51,,,Yes,223
 Calaveras,530,Proposition 52,,,No,345
@@ -1047,14 +1113,17 @@ Calaveras,530,Proposition 66,,,No,272
 Calaveras,530,Proposition 66,,,Yes,474
 Calaveras,530,Proposition 67,,,No,558
 Calaveras,530,Proposition 67,,,Yes,209
+Calaveras,530,State Assembly,5,REP,Frank Bigelow,611
+Calaveras,530,State Assembly,5,DEM,Robert Carabas,167
+Calaveras,530,U.S. House,4,DEM,Robert W. Derlet,188
+Calaveras,530,U.S. House,4,REP,Tom McClintock,586
 Calaveras,530,U.S. Senate,,DEM,Kamala D. Harris,297
 Calaveras,530,U.S. Senate,,DEM,Loretta L. Sanchez,255
-Calaveras,540,President,,REP/AI,Donald J. Trump,586
+Calaveras,540,President,,REP,Donald J. Trump,586
 Calaveras,540,President,,LIB,Gary Johnson,33
-Calaveras,540,President,,PF,Gloria Estela La Riva,4
+Calaveras,540,President,,PAF,Gloria Estela La Riva,4
 Calaveras,540,President,,DEM,Hillary Clinton,256
 Calaveras,540,President,,GRN,Jill Stein,13
-Calaveras,540,President,,WI,Write-In,14
 Calaveras,540,Proposition 51,,,No,568
 Calaveras,540,Proposition 51,,,Yes,298
 Calaveras,540,Proposition 52,,,No,409
@@ -1089,14 +1158,16 @@ Calaveras,540,Proposition 66,,,No,320
 Calaveras,540,Proposition 66,,,Yes,517
 Calaveras,540,Proposition 67,,,No,606
 Calaveras,540,Proposition 67,,,Yes,267
+Calaveras,540,State Assembly,5,REP,Frank Bigelow,593
+Calaveras,540,State Assembly,5,DEM,Robert Carabas,254
+Calaveras,540,U.S. House,4,DEM,Robert W. Derlet,266
+Calaveras,540,U.S. House,4,REP,Tom McClintock,605
 Calaveras,540,U.S. Senate,,DEM,Kamala D. Harris,410
 Calaveras,540,U.S. Senate,,DEM,Loretta L. Sanchez,259
-Calaveras,550,President,,REP/AI,Donald J. Trump,737
+Calaveras,550,President,,REP,Donald J. Trump,737
 Calaveras,550,President,,LIB,Gary Johnson,64
-Calaveras,550,President,,PF,Gloria Estela La Riva,0
 Calaveras,550,President,,DEM,Hillary Clinton,307
 Calaveras,550,President,,GRN,Jill Stein,14
-Calaveras,550,President,,WI,Write-In,11
 Calaveras,550,Proposition 51,,,No,691
 Calaveras,550,Proposition 51,,,Yes,411
 Calaveras,550,Proposition 52,,,No,482
@@ -1131,14 +1202,17 @@ Calaveras,550,Proposition 66,,,No,426
 Calaveras,550,Proposition 66,,,Yes,636
 Calaveras,550,Proposition 67,,,No,744
 Calaveras,550,Proposition 67,,,Yes,370
+Calaveras,550,State Assembly,5,REP,Frank Bigelow,760
+Calaveras,550,State Assembly,5,DEM,Robert Carabas,308
+Calaveras,550,U.S. House,4,DEM,Robert W. Derlet,337
+Calaveras,550,U.S. House,4,REP,Tom McClintock,741
 Calaveras,550,U.S. Senate,,DEM,Kamala D. Harris,519
 Calaveras,550,U.S. Senate,,DEM,Loretta L. Sanchez,325
-Calaveras,560,President,,REP/AI,Donald J. Trump,546
+Calaveras,560,President,,REP,Donald J. Trump,546
 Calaveras,560,President,,LIB,Gary Johnson,24
-Calaveras,560,President,,PF,Gloria Estela La Riva,1
+Calaveras,560,President,,PAF,Gloria Estela La Riva,1
 Calaveras,560,President,,DEM,Hillary Clinton,247
 Calaveras,560,President,,GRN,Jill Stein,7
-Calaveras,560,President,,WI,Write-In,14
 Calaveras,560,Proposition 51,,,No,481
 Calaveras,560,Proposition 51,,,Yes,323
 Calaveras,560,Proposition 52,,,No,376
@@ -1173,14 +1247,17 @@ Calaveras,560,Proposition 66,,,No,318
 Calaveras,560,Proposition 66,,,Yes,465
 Calaveras,560,Proposition 67,,,No,540
 Calaveras,560,Proposition 67,,,Yes,277
+Calaveras,560,State Assembly,5,REP,Frank Bigelow,575
+Calaveras,560,State Assembly,5,DEM,Robert Carabas,223
+Calaveras,560,U.S. House,4,DEM,Robert W. Derlet,242
+Calaveras,560,U.S. House,4,REP,Tom McClintock,564
 Calaveras,560,U.S. Senate,,DEM,Kamala D. Harris,328
 Calaveras,560,U.S. Senate,,DEM,Loretta L. Sanchez,284
-Calaveras,570,President,,REP/AI,Donald J. Trump,548
+Calaveras,570,President,,REP,Donald J. Trump,548
 Calaveras,570,President,,LIB,Gary Johnson,40
-Calaveras,570,President,,PF,Gloria Estela La Riva,1
+Calaveras,570,President,,PAF,Gloria Estela La Riva,1
 Calaveras,570,President,,DEM,Hillary Clinton,201
 Calaveras,570,President,,GRN,Jill Stein,12
-Calaveras,570,President,,WI,Write-In,14
 Calaveras,570,Proposition 51,,,No,487
 Calaveras,570,Proposition 51,,,Yes,300
 Calaveras,570,Proposition 52,,,No,355
@@ -1215,5 +1292,9 @@ Calaveras,570,Proposition 66,,,No,300
 Calaveras,570,Proposition 66,,,Yes,472
 Calaveras,570,Proposition 67,,,No,531
 Calaveras,570,Proposition 67,,,Yes,274
+Calaveras,570,State Assembly,5,REP,Frank Bigelow,558
+Calaveras,570,State Assembly,5,DEM,Robert Carabas,212
+Calaveras,570,U.S. House,4,DEM,Robert W. Derlet,227
+Calaveras,570,U.S. House,4,REP,Tom McClintock,556
 Calaveras,570,U.S. Senate,,DEM,Kamala D. Harris,339
 Calaveras,570,U.S. Senate,,DEM,Loretta L. Sanchez,265

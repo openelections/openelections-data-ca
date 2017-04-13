@@ -65,7 +65,7 @@ class Codes(object):
     def __parse(self):
         self.code_dict = {}
         for line in self.data.iter_lines():
-            split = str(line, self.data.encoding).strip().split()
+            split = str(line, self.data.apparent_encoding).strip().split()
             if split[0] == 'TOTREG' or split[0] == 'TOTVOTE':
                 continue
             entry = Entry(split)
