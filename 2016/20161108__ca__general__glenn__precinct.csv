@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Glenn,1,President,,REP/AI,Donald J. Trump,482
+Glenn,1,President,,REP,Donald J. Trump,482
 Glenn,1,President,,LIB,Gary Johnson,25
-Glenn,1,President,,PF,Gloria Estela La Riva,2
+Glenn,1,President,,PAF,Gloria Estela La Riva,2
 Glenn,1,President,,DEM,Hillary Clinton,185
 Glenn,1,President,,GRN,Jill Stein,9
-Glenn,1,President,,WI,Write-In,7
 Glenn,1,Proposition 51,,,No,427
 Glenn,1,Proposition 51,,,Yes,279
 Glenn,1,Proposition 52,,,No,305
@@ -39,14 +38,17 @@ Glenn,1,Proposition 66,,,No,296
 Glenn,1,Proposition 66,,,Yes,387
 Glenn,1,Proposition 67,,,No,447
 Glenn,1,Proposition 67,,,Yes,238
+Glenn,1,State Assembly,3,DEM,Edward Ritchie,168
+Glenn,1,State Assembly,3,REP,James Gallagher,519
+Glenn,1,U.S. House,3,DEM,John Garamendi,186
+Glenn,1,U.S. House,3,REP,N Eugene Cleek,530
 Glenn,1,U.S. Senate,,DEM,Kamala D. Harris,253
 Glenn,1,U.S. Senate,,DEM,Loretta L. Sanchez,272
-Glenn,10,President,,REP/AI,Donald J. Trump,118
+Glenn,10,President,,REP,Donald J. Trump,118
 Glenn,10,President,,LIB,Gary Johnson,19
-Glenn,10,President,,PF,Gloria Estela La Riva,3
+Glenn,10,President,,PAF,Gloria Estela La Riva,3
 Glenn,10,President,,DEM,Hillary Clinton,381
 Glenn,10,President,,GRN,Jill Stein,2
-Glenn,10,President,,WI,Write-In,5
 Glenn,10,Proposition 51,,,No,173
 Glenn,10,Proposition 51,,,Yes,331
 Glenn,10,Proposition 52,,,No,135
@@ -81,14 +83,16 @@ Glenn,10,Proposition 66,,,No,254
 Glenn,10,Proposition 66,,,Yes,232
 Glenn,10,Proposition 67,,,No,198
 Glenn,10,Proposition 67,,,Yes,302
+Glenn,10,State Assembly,3,DEM,Edward Ritchie,314
+Glenn,10,State Assembly,3,REP,James Gallagher,182
+Glenn,10,U.S. House,3,DEM,John Garamendi,328
+Glenn,10,U.S. House,3,REP,N Eugene Cleek,169
 Glenn,10,U.S. Senate,,DEM,Kamala D. Harris,160
 Glenn,10,U.S. Senate,,DEM,Loretta L. Sanchez,312
-Glenn,10031,President,,REP/AI,Donald J. Trump,30
+Glenn,10031,President,,REP,Donald J. Trump,30
 Glenn,10031,President,,LIB,Gary Johnson,2
-Glenn,10031,President,,PF,Gloria Estela La Riva,2
+Glenn,10031,President,,PAF,Gloria Estela La Riva,2
 Glenn,10031,President,,DEM,Hillary Clinton,56
-Glenn,10031,President,,GRN,Jill Stein,0
-Glenn,10031,President,,WI,Write-In,2
 Glenn,10031,Proposition 51,,,No,34
 Glenn,10031,Proposition 51,,,Yes,56
 Glenn,10031,Proposition 52,,,No,33
@@ -123,14 +127,16 @@ Glenn,10031,Proposition 66,,,No,39
 Glenn,10031,Proposition 66,,,Yes,42
 Glenn,10031,Proposition 67,,,No,50
 Glenn,10031,Proposition 67,,,Yes,35
+Glenn,10031,State Assembly,3,DEM,Edward Ritchie,48
+Glenn,10031,State Assembly,3,REP,James Gallagher,40
+Glenn,10031,U.S. House,3,DEM,John Garamendi,52
+Glenn,10031,U.S. House,3,REP,N Eugene Cleek,37
 Glenn,10031,U.S. Senate,,DEM,Kamala D. Harris,27
 Glenn,10031,U.S. Senate,,DEM,Loretta L. Sanchez,55
-Glenn,10050,President,,REP/AI,Donald J. Trump,16
+Glenn,10050,President,,REP,Donald J. Trump,16
 Glenn,10050,President,,LIB,Gary Johnson,4
-Glenn,10050,President,,PF,Gloria Estela La Riva,0
 Glenn,10050,President,,DEM,Hillary Clinton,28
 Glenn,10050,President,,GRN,Jill Stein,1
-Glenn,10050,President,,WI,Write-In,0
 Glenn,10050,Proposition 51,,,No,21
 Glenn,10050,Proposition 51,,,Yes,29
 Glenn,10050,Proposition 52,,,No,18
@@ -165,14 +171,17 @@ Glenn,10050,Proposition 66,,,No,19
 Glenn,10050,Proposition 66,,,Yes,25
 Glenn,10050,Proposition 67,,,No,32
 Glenn,10050,Proposition 67,,,Yes,13
+Glenn,10050,State Assembly,3,DEM,Edward Ritchie,26
+Glenn,10050,State Assembly,3,REP,James Gallagher,21
+Glenn,10050,U.S. House,3,DEM,John Garamendi,28
+Glenn,10050,U.S. House,3,REP,N Eugene Cleek,22
 Glenn,10050,U.S. Senate,,DEM,Kamala D. Harris,20
 Glenn,10050,U.S. Senate,,DEM,Loretta L. Sanchez,23
-Glenn,10060,President,,REP/AI,Donald J. Trump,45
+Glenn,10060,President,,REP,Donald J. Trump,45
 Glenn,10060,President,,LIB,Gary Johnson,2
-Glenn,10060,President,,PF,Gloria Estela La Riva,1
+Glenn,10060,President,,PAF,Gloria Estela La Riva,1
 Glenn,10060,President,,DEM,Hillary Clinton,42
 Glenn,10060,President,,GRN,Jill Stein,2
-Glenn,10060,President,,WI,Write-In,3
 Glenn,10060,Proposition 51,,,No,47
 Glenn,10060,Proposition 51,,,Yes,44
 Glenn,10060,Proposition 52,,,No,29
@@ -207,14 +216,17 @@ Glenn,10060,Proposition 66,,,No,42
 Glenn,10060,Proposition 66,,,Yes,49
 Glenn,10060,Proposition 67,,,No,54
 Glenn,10060,Proposition 67,,,Yes,36
+Glenn,10060,State Assembly,3,DEM,Edward Ritchie,41
+Glenn,10060,State Assembly,3,REP,James Gallagher,48
+Glenn,10060,U.S. House,3,DEM,John Garamendi,44
+Glenn,10060,U.S. House,3,REP,N Eugene Cleek,49
 Glenn,10060,U.S. Senate,,DEM,Kamala D. Harris,38
 Glenn,10060,U.S. Senate,,DEM,Loretta L. Sanchez,42
-Glenn,12150,President,,REP/AI,Donald J. Trump,77
+Glenn,12150,President,,REP,Donald J. Trump,77
 Glenn,12150,President,,LIB,Gary Johnson,15
-Glenn,12150,President,,PF,Gloria Estela La Riva,3
+Glenn,12150,President,,PAF,Gloria Estela La Riva,3
 Glenn,12150,President,,DEM,Hillary Clinton,135
 Glenn,12150,President,,GRN,Jill Stein,5
-Glenn,12150,President,,WI,Write-In,3
 Glenn,12150,Proposition 51,,,No,93
 Glenn,12150,Proposition 51,,,Yes,135
 Glenn,12150,Proposition 52,,,No,89
@@ -249,14 +261,17 @@ Glenn,12150,Proposition 66,,,No,109
 Glenn,12150,Proposition 66,,,Yes,112
 Glenn,12150,Proposition 67,,,No,121
 Glenn,12150,Proposition 67,,,Yes,106
+Glenn,12150,State Assembly,3,DEM,Edward Ritchie,132
+Glenn,12150,State Assembly,3,REP,James Gallagher,98
+Glenn,12150,U.S. House,3,DEM,John Garamendi,138
+Glenn,12150,U.S. House,3,REP,N Eugene Cleek,96
 Glenn,12150,U.S. Senate,,DEM,Kamala D. Harris,88
 Glenn,12150,U.S. Senate,,DEM,Loretta L. Sanchez,129
-Glenn,2,President,,REP/AI,Donald J. Trump,495
+Glenn,2,President,,REP,Donald J. Trump,495
 Glenn,2,President,,LIB,Gary Johnson,38
-Glenn,2,President,,PF,Gloria Estela La Riva,7
+Glenn,2,President,,PAF,Gloria Estela La Riva,7
 Glenn,2,President,,DEM,Hillary Clinton,206
 Glenn,2,President,,GRN,Jill Stein,8
-Glenn,2,President,,WI,Write-In,4
 Glenn,2,Proposition 51,,,No,458
 Glenn,2,Proposition 51,,,Yes,301
 Glenn,2,Proposition 52,,,No,352
@@ -291,14 +306,17 @@ Glenn,2,Proposition 66,,,No,314
 Glenn,2,Proposition 66,,,Yes,424
 Glenn,2,Proposition 67,,,No,468
 Glenn,2,Proposition 67,,,Yes,273
+Glenn,2,State Assembly,3,DEM,Edward Ritchie,195
+Glenn,2,State Assembly,3,REP,James Gallagher,544
+Glenn,2,U.S. House,3,DEM,John Garamendi,182
+Glenn,2,U.S. House,3,REP,N Eugene Cleek,586
 Glenn,2,U.S. Senate,,DEM,Kamala D. Harris,288
 Glenn,2,U.S. Senate,,DEM,Loretta L. Sanchez,292
-Glenn,3,President,,REP/AI,Donald J. Trump,334
+Glenn,3,President,,REP,Donald J. Trump,334
 Glenn,3,President,,LIB,Gary Johnson,25
-Glenn,3,President,,PF,Gloria Estela La Riva,6
+Glenn,3,President,,PAF,Gloria Estela La Riva,6
 Glenn,3,President,,DEM,Hillary Clinton,221
 Glenn,3,President,,GRN,Jill Stein,12
-Glenn,3,President,,WI,Write-In,7
 Glenn,3,Proposition 51,,,No,293
 Glenn,3,Proposition 51,,,Yes,294
 Glenn,3,Proposition 52,,,No,237
@@ -333,14 +351,16 @@ Glenn,3,Proposition 66,,,No,233
 Glenn,3,Proposition 66,,,Yes,321
 Glenn,3,Proposition 67,,,No,352
 Glenn,3,Proposition 67,,,Yes,222
+Glenn,3,State Assembly,3,DEM,Edward Ritchie,199
+Glenn,3,State Assembly,3,REP,James Gallagher,382
+Glenn,3,U.S. House,3,DEM,John Garamendi,185
+Glenn,3,U.S. House,3,REP,N Eugene Cleek,420
 Glenn,3,U.S. Senate,,DEM,Kamala D. Harris,222
 Glenn,3,U.S. Senate,,DEM,Loretta L. Sanchez,257
-Glenn,30011,President,,REP/AI,Donald J. Trump,103
+Glenn,30011,President,,REP,Donald J. Trump,103
 Glenn,30011,President,,LIB,Gary Johnson,9
-Glenn,30011,President,,PF,Gloria Estela La Riva,1
+Glenn,30011,President,,PAF,Gloria Estela La Riva,1
 Glenn,30011,President,,DEM,Hillary Clinton,26
-Glenn,30011,President,,GRN,Jill Stein,0
-Glenn,30011,President,,WI,Write-In,0
 Glenn,30011,Proposition 51,,,No,99
 Glenn,30011,Proposition 51,,,Yes,41
 Glenn,30011,Proposition 52,,,No,77
@@ -375,14 +395,15 @@ Glenn,30011,Proposition 66,,,No,61
 Glenn,30011,Proposition 66,,,Yes,72
 Glenn,30011,Proposition 67,,,No,100
 Glenn,30011,Proposition 67,,,Yes,31
+Glenn,30011,State Assembly,3,DEM,Edward Ritchie,24
+Glenn,30011,State Assembly,3,REP,James Gallagher,120
+Glenn,30011,U.S. House,3,DEM,John Garamendi,40
+Glenn,30011,U.S. House,3,REP,N Eugene Cleek,104
 Glenn,30011,U.S. Senate,,DEM,Kamala D. Harris,55
 Glenn,30011,U.S. Senate,,DEM,Loretta L. Sanchez,40
-Glenn,30014,President,,REP/AI,Donald J. Trump,65
-Glenn,30014,President,,LIB,Gary Johnson,0
-Glenn,30014,President,,PF,Gloria Estela La Riva,0
+Glenn,30014,President,,REP,Donald J. Trump,65
 Glenn,30014,President,,DEM,Hillary Clinton,10
 Glenn,30014,President,,GRN,Jill Stein,1
-Glenn,30014,President,,WI,Write-In,0
 Glenn,30014,Proposition 51,,,No,55
 Glenn,30014,Proposition 51,,,Yes,21
 Glenn,30014,Proposition 52,,,No,42
@@ -417,14 +438,17 @@ Glenn,30014,Proposition 66,,,No,31
 Glenn,30014,Proposition 66,,,Yes,40
 Glenn,30014,Proposition 67,,,No,57
 Glenn,30014,Proposition 67,,,Yes,15
+Glenn,30014,State Assembly,3,DEM,Edward Ritchie,12
+Glenn,30014,State Assembly,3,REP,James Gallagher,63
+Glenn,30014,U.S. House,3,DEM,John Garamendi,22
+Glenn,30014,U.S. House,3,REP,N Eugene Cleek,54
 Glenn,30014,U.S. Senate,,DEM,Kamala D. Harris,26
 Glenn,30014,U.S. Senate,,DEM,Loretta L. Sanchez,21
-Glenn,30020,President,,REP/AI,Donald J. Trump,191
+Glenn,30020,President,,REP,Donald J. Trump,191
 Glenn,30020,President,,LIB,Gary Johnson,5
-Glenn,30020,President,,PF,Gloria Estela La Riva,2
+Glenn,30020,President,,PAF,Gloria Estela La Riva,2
 Glenn,30020,President,,DEM,Hillary Clinton,52
 Glenn,30020,President,,GRN,Jill Stein,1
-Glenn,30020,President,,WI,Write-In,2
 Glenn,30020,Proposition 51,,,No,164
 Glenn,30020,Proposition 51,,,Yes,86
 Glenn,30020,Proposition 52,,,No,130
@@ -459,14 +483,15 @@ Glenn,30020,Proposition 66,,,No,115
 Glenn,30020,Proposition 66,,,Yes,132
 Glenn,30020,Proposition 67,,,No,178
 Glenn,30020,Proposition 67,,,Yes,68
+Glenn,30020,State Assembly,3,DEM,Edward Ritchie,49
+Glenn,30020,State Assembly,3,REP,James Gallagher,202
+Glenn,30020,U.S. House,3,DEM,John Garamendi,58
+Glenn,30020,U.S. House,3,REP,N Eugene Cleek,197
 Glenn,30020,U.S. Senate,,DEM,Kamala D. Harris,81
 Glenn,30020,U.S. Senate,,DEM,Loretta L. Sanchez,89
-Glenn,30042,President,,REP/AI,Donald J. Trump,167
+Glenn,30042,President,,REP,Donald J. Trump,167
 Glenn,30042,President,,LIB,Gary Johnson,11
-Glenn,30042,President,,PF,Gloria Estela La Riva,0
 Glenn,30042,President,,DEM,Hillary Clinton,48
-Glenn,30042,President,,GRN,Jill Stein,0
-Glenn,30042,President,,WI,Write-In,0
 Glenn,30042,Proposition 51,,,No,141
 Glenn,30042,Proposition 51,,,Yes,80
 Glenn,30042,Proposition 52,,,No,106
@@ -501,14 +526,16 @@ Glenn,30042,Proposition 66,,,No,105
 Glenn,30042,Proposition 66,,,Yes,109
 Glenn,30042,Proposition 67,,,No,143
 Glenn,30042,Proposition 67,,,Yes,68
+Glenn,30042,State Assembly,3,DEM,Edward Ritchie,42
+Glenn,30042,State Assembly,3,REP,James Gallagher,177
+Glenn,30042,U.S. House,3,DEM,John Garamendi,57
+Glenn,30042,U.S. House,3,REP,N Eugene Cleek,162
 Glenn,30042,U.S. Senate,,DEM,Kamala D. Harris,91
 Glenn,30042,U.S. Senate,,DEM,Loretta L. Sanchez,67
-Glenn,30070,President,,REP/AI,Donald J. Trump,140
+Glenn,30070,President,,REP,Donald J. Trump,140
 Glenn,30070,President,,LIB,Gary Johnson,9
-Glenn,30070,President,,PF,Gloria Estela La Riva,0
 Glenn,30070,President,,DEM,Hillary Clinton,36
 Glenn,30070,President,,GRN,Jill Stein,2
-Glenn,30070,President,,WI,Write-In,2
 Glenn,30070,Proposition 51,,,No,127
 Glenn,30070,Proposition 51,,,Yes,64
 Glenn,30070,Proposition 52,,,No,108
@@ -543,14 +570,16 @@ Glenn,30070,Proposition 66,,,No,73
 Glenn,30070,Proposition 66,,,Yes,110
 Glenn,30070,Proposition 67,,,No,141
 Glenn,30070,Proposition 67,,,Yes,47
+Glenn,30070,State Assembly,3,DEM,Edward Ritchie,29
+Glenn,30070,State Assembly,3,REP,James Gallagher,159
+Glenn,30070,U.S. House,3,DEM,John Garamendi,43
+Glenn,30070,U.S. House,3,REP,N Eugene Cleek,145
 Glenn,30070,U.S. Senate,,DEM,Kamala D. Harris,57
 Glenn,30070,U.S. Senate,,DEM,Loretta L. Sanchez,71
-Glenn,30072,President,,REP/AI,Donald J. Trump,60
+Glenn,30072,President,,REP,Donald J. Trump,60
 Glenn,30072,President,,LIB,Gary Johnson,3
-Glenn,30072,President,,PF,Gloria Estela La Riva,0
 Glenn,30072,President,,DEM,Hillary Clinton,14
 Glenn,30072,President,,GRN,Jill Stein,1
-Glenn,30072,President,,WI,Write-In,1
 Glenn,30072,Proposition 51,,,No,56
 Glenn,30072,Proposition 51,,,Yes,19
 Glenn,30072,Proposition 52,,,No,32
@@ -585,14 +614,17 @@ Glenn,30072,Proposition 66,,,No,30
 Glenn,30072,Proposition 66,,,Yes,43
 Glenn,30072,Proposition 67,,,No,50
 Glenn,30072,Proposition 67,,,Yes,24
+Glenn,30072,State Assembly,3,DEM,Edward Ritchie,14
+Glenn,30072,State Assembly,3,REP,James Gallagher,63
+Glenn,30072,U.S. House,1,REP,Doug La Malfa,56
+Glenn,30072,U.S. House,1,DEM,Jim Reed,20
 Glenn,30072,U.S. Senate,,DEM,Kamala D. Harris,24
 Glenn,30072,U.S. Senate,,DEM,Loretta L. Sanchez,29
-Glenn,30081,President,,REP/AI,Donald J. Trump,128
+Glenn,30081,President,,REP,Donald J. Trump,128
 Glenn,30081,President,,LIB,Gary Johnson,6
-Glenn,30081,President,,PF,Gloria Estela La Riva,1
+Glenn,30081,President,,PAF,Gloria Estela La Riva,1
 Glenn,30081,President,,DEM,Hillary Clinton,41
 Glenn,30081,President,,GRN,Jill Stein,2
-Glenn,30081,President,,WI,Write-In,1
 Glenn,30081,Proposition 51,,,No,106
 Glenn,30081,Proposition 51,,,Yes,72
 Glenn,30081,Proposition 52,,,No,79
@@ -627,14 +659,15 @@ Glenn,30081,Proposition 66,,,No,60
 Glenn,30081,Proposition 66,,,Yes,113
 Glenn,30081,Proposition 67,,,No,117
 Glenn,30081,Proposition 67,,,Yes,55
+Glenn,30081,State Assembly,3,DEM,Edward Ritchie,39
+Glenn,30081,State Assembly,3,REP,James Gallagher,136
+Glenn,30081,U.S. House,3,DEM,John Garamendi,47
+Glenn,30081,U.S. House,3,REP,N Eugene Cleek,134
 Glenn,30081,U.S. Senate,,DEM,Kamala D. Harris,56
 Glenn,30081,U.S. Senate,,DEM,Loretta L. Sanchez,87
-Glenn,30082,President,,REP/AI,Donald J. Trump,58
+Glenn,30082,President,,REP,Donald J. Trump,58
 Glenn,30082,President,,LIB,Gary Johnson,3
-Glenn,30082,President,,PF,Gloria Estela La Riva,0
 Glenn,30082,President,,DEM,Hillary Clinton,17
-Glenn,30082,President,,GRN,Jill Stein,0
-Glenn,30082,President,,WI,Write-In,1
 Glenn,30082,Proposition 51,,,No,56
 Glenn,30082,Proposition 51,,,Yes,23
 Glenn,30082,Proposition 52,,,No,42
@@ -669,14 +702,16 @@ Glenn,30082,Proposition 66,,,No,29
 Glenn,30082,Proposition 66,,,Yes,48
 Glenn,30082,Proposition 67,,,No,56
 Glenn,30082,Proposition 67,,,Yes,19
+Glenn,30082,State Assembly,3,DEM,Edward Ritchie,16
+Glenn,30082,State Assembly,3,REP,James Gallagher,63
+Glenn,30082,U.S. House,1,REP,Doug La Malfa,57
+Glenn,30082,U.S. House,1,DEM,Jim Reed,21
 Glenn,30082,U.S. Senate,,DEM,Kamala D. Harris,26
 Glenn,30082,U.S. Senate,,DEM,Loretta L. Sanchez,29
-Glenn,30120,President,,REP/AI,Donald J. Trump,177
+Glenn,30120,President,,REP,Donald J. Trump,177
 Glenn,30120,President,,LIB,Gary Johnson,4
-Glenn,30120,President,,PF,Gloria Estela La Riva,1
+Glenn,30120,President,,PAF,Gloria Estela La Riva,1
 Glenn,30120,President,,DEM,Hillary Clinton,25
-Glenn,30120,President,,GRN,Jill Stein,0
-Glenn,30120,President,,WI,Write-In,1
 Glenn,30120,Proposition 51,,,No,151
 Glenn,30120,Proposition 51,,,Yes,54
 Glenn,30120,Proposition 52,,,No,121
@@ -711,14 +746,16 @@ Glenn,30120,Proposition 66,,,No,90
 Glenn,30120,Proposition 66,,,Yes,110
 Glenn,30120,Proposition 67,,,No,161
 Glenn,30120,Proposition 67,,,Yes,39
+Glenn,30120,State Assembly,3,DEM,Edward Ritchie,17
+Glenn,30120,State Assembly,3,REP,James Gallagher,185
+Glenn,30120,U.S. House,1,REP,Doug La Malfa,180
+Glenn,30120,U.S. House,1,DEM,Jim Reed,28
 Glenn,30120,U.S. Senate,,DEM,Kamala D. Harris,75
 Glenn,30120,U.S. Senate,,DEM,Loretta L. Sanchez,49
-Glenn,31070,President,,REP/AI,Donald J. Trump,77
+Glenn,31070,President,,REP,Donald J. Trump,77
 Glenn,31070,President,,LIB,Gary Johnson,6
-Glenn,31070,President,,PF,Gloria Estela La Riva,0
 Glenn,31070,President,,DEM,Hillary Clinton,74
 Glenn,31070,President,,GRN,Jill Stein,1
-Glenn,31070,President,,WI,Write-In,0
 Glenn,31070,Proposition 51,,,No,83
 Glenn,31070,Proposition 51,,,Yes,76
 Glenn,31070,Proposition 52,,,No,59
@@ -753,14 +790,17 @@ Glenn,31070,Proposition 66,,,No,84
 Glenn,31070,Proposition 66,,,Yes,71
 Glenn,31070,Proposition 67,,,No,98
 Glenn,31070,Proposition 67,,,Yes,58
+Glenn,31070,State Assembly,3,DEM,Edward Ritchie,55
+Glenn,31070,State Assembly,3,REP,James Gallagher,103
+Glenn,31070,U.S. House,3,DEM,John Garamendi,77
+Glenn,31070,U.S. House,3,REP,N Eugene Cleek,82
 Glenn,31070,U.S. Senate,,DEM,Kamala D. Harris,80
 Glenn,31070,U.S. Senate,,DEM,Loretta L. Sanchez,60
-Glenn,4,President,,REP/AI,Donald J. Trump,345
+Glenn,4,President,,REP,Donald J. Trump,345
 Glenn,4,President,,LIB,Gary Johnson,23
-Glenn,4,President,,PF,Gloria Estela La Riva,2
+Glenn,4,President,,PAF,Gloria Estela La Riva,2
 Glenn,4,President,,DEM,Hillary Clinton,256
 Glenn,4,President,,GRN,Jill Stein,9
-Glenn,4,President,,WI,Write-In,3
 Glenn,4,Proposition 51,,,No,339
 Glenn,4,Proposition 51,,,Yes,293
 Glenn,4,Proposition 52,,,No,277
@@ -795,14 +835,17 @@ Glenn,4,Proposition 66,,,No,284
 Glenn,4,Proposition 66,,,Yes,310
 Glenn,4,Proposition 67,,,No,389
 Glenn,4,Proposition 67,,,Yes,230
+Glenn,4,State Assembly,3,DEM,Edward Ritchie,228
+Glenn,4,State Assembly,3,REP,James Gallagher,391
+Glenn,4,U.S. House,3,DEM,John Garamendi,216
+Glenn,4,U.S. House,3,REP,N Eugene Cleek,428
 Glenn,4,U.S. Senate,,DEM,Kamala D. Harris,220
 Glenn,4,U.S. Senate,,DEM,Loretta L. Sanchez,284
-Glenn,5,President,,REP/AI,Donald J. Trump,334
+Glenn,5,President,,REP,Donald J. Trump,334
 Glenn,5,President,,LIB,Gary Johnson,27
-Glenn,5,President,,PF,Gloria Estela La Riva,3
+Glenn,5,President,,PAF,Gloria Estela La Riva,3
 Glenn,5,President,,DEM,Hillary Clinton,257
 Glenn,5,President,,GRN,Jill Stein,10
-Glenn,5,President,,WI,Write-In,6
 Glenn,5,Proposition 51,,,No,306
 Glenn,5,Proposition 51,,,Yes,301
 Glenn,5,Proposition 52,,,No,200
@@ -837,14 +880,16 @@ Glenn,5,Proposition 66,,,No,260
 Glenn,5,Proposition 66,,,Yes,321
 Glenn,5,Proposition 67,,,No,370
 Glenn,5,Proposition 67,,,Yes,237
+Glenn,5,State Assembly,3,DEM,Edward Ritchie,254
+Glenn,5,State Assembly,3,REP,James Gallagher,347
+Glenn,5,U.S. House,3,DEM,John Garamendi,241
+Glenn,5,U.S. House,3,REP,N Eugene Cleek,386
 Glenn,5,U.S. Senate,,DEM,Kamala D. Harris,244
 Glenn,5,U.S. Senate,,DEM,Loretta L. Sanchez,276
-Glenn,50010,President,,REP/AI,Donald J. Trump,40
+Glenn,50010,President,,REP,Donald J. Trump,40
 Glenn,50010,President,,LIB,Gary Johnson,1
-Glenn,50010,President,,PF,Gloria Estela La Riva,0
 Glenn,50010,President,,DEM,Hillary Clinton,28
 Glenn,50010,President,,GRN,Jill Stein,1
-Glenn,50010,President,,WI,Write-In,0
 Glenn,50010,Proposition 51,,,No,33
 Glenn,50010,Proposition 51,,,Yes,30
 Glenn,50010,Proposition 52,,,No,23
@@ -879,14 +924,17 @@ Glenn,50010,Proposition 66,,,No,28
 Glenn,50010,Proposition 66,,,Yes,30
 Glenn,50010,Proposition 67,,,No,34
 Glenn,50010,Proposition 67,,,Yes,25
+Glenn,50010,State Assembly,3,DEM,Edward Ritchie,29
+Glenn,50010,State Assembly,3,REP,James Gallagher,40
+Glenn,50010,U.S. House,1,REP,Doug La Malfa,44
+Glenn,50010,U.S. House,1,DEM,Jim Reed,27
 Glenn,50010,U.S. Senate,,DEM,Kamala D. Harris,15
 Glenn,50010,U.S. Senate,,DEM,Loretta L. Sanchez,34
-Glenn,50022,President,,REP/AI,Donald J. Trump,123
+Glenn,50022,President,,REP,Donald J. Trump,123
 Glenn,50022,President,,LIB,Gary Johnson,6
-Glenn,50022,President,,PF,Gloria Estela La Riva,1
+Glenn,50022,President,,PAF,Gloria Estela La Riva,1
 Glenn,50022,President,,DEM,Hillary Clinton,25
 Glenn,50022,President,,GRN,Jill Stein,3
-Glenn,50022,President,,WI,Write-In,2
 Glenn,50022,Proposition 51,,,No,122
 Glenn,50022,Proposition 51,,,Yes,37
 Glenn,50022,Proposition 52,,,No,82
@@ -921,14 +969,16 @@ Glenn,50022,Proposition 66,,,No,69
 Glenn,50022,Proposition 66,,,Yes,82
 Glenn,50022,Proposition 67,,,No,109
 Glenn,50022,Proposition 67,,,Yes,44
+Glenn,50022,State Assembly,3,DEM,Edward Ritchie,19
+Glenn,50022,State Assembly,3,REP,James Gallagher,138
+Glenn,50022,U.S. House,1,REP,Doug La Malfa,134
+Glenn,50022,U.S. House,1,DEM,Jim Reed,26
 Glenn,50022,U.S. Senate,,DEM,Kamala D. Harris,64
 Glenn,50022,U.S. Senate,,DEM,Loretta L. Sanchez,39
-Glenn,50030,President,,REP/AI,Donald J. Trump,102
+Glenn,50030,President,,REP,Donald J. Trump,102
 Glenn,50030,President,,LIB,Gary Johnson,5
-Glenn,50030,President,,PF,Gloria Estela La Riva,0
 Glenn,50030,President,,DEM,Hillary Clinton,27
 Glenn,50030,President,,GRN,Jill Stein,2
-Glenn,50030,President,,WI,Write-In,1
 Glenn,50030,Proposition 51,,,No,85
 Glenn,50030,Proposition 51,,,Yes,41
 Glenn,50030,Proposition 52,,,No,64
@@ -963,14 +1013,16 @@ Glenn,50030,Proposition 66,,,No,49
 Glenn,50030,Proposition 66,,,Yes,77
 Glenn,50030,Proposition 67,,,No,87
 Glenn,50030,Proposition 67,,,Yes,43
+Glenn,50030,State Assembly,3,DEM,Edward Ritchie,25
+Glenn,50030,State Assembly,3,REP,James Gallagher,110
+Glenn,50030,U.S. House,1,REP,Doug La Malfa,103
+Glenn,50030,U.S. House,1,DEM,Jim Reed,36
 Glenn,50030,U.S. Senate,,DEM,Kamala D. Harris,41
 Glenn,50030,U.S. Senate,,DEM,Loretta L. Sanchez,55
-Glenn,50052,President,,REP/AI,Donald J. Trump,108
+Glenn,50052,President,,REP,Donald J. Trump,108
 Glenn,50052,President,,LIB,Gary Johnson,5
-Glenn,50052,President,,PF,Gloria Estela La Riva,0
 Glenn,50052,President,,DEM,Hillary Clinton,21
 Glenn,50052,President,,GRN,Jill Stein,1
-Glenn,50052,President,,WI,Write-In,0
 Glenn,50052,Proposition 51,,,No,83
 Glenn,50052,Proposition 51,,,Yes,47
 Glenn,50052,Proposition 52,,,No,68
@@ -1005,14 +1057,16 @@ Glenn,50052,Proposition 66,,,No,57
 Glenn,50052,Proposition 66,,,Yes,71
 Glenn,50052,Proposition 67,,,No,92
 Glenn,50052,Proposition 67,,,Yes,40
+Glenn,50052,State Assembly,3,DEM,Edward Ritchie,13
+Glenn,50052,State Assembly,3,REP,James Gallagher,112
+Glenn,50052,U.S. House,1,REP,Doug La Malfa,116
+Glenn,50052,U.S. House,1,DEM,Jim Reed,16
 Glenn,50052,U.S. Senate,,DEM,Kamala D. Harris,52
 Glenn,50052,U.S. Senate,,DEM,Loretta L. Sanchez,42
-Glenn,50061,President,,REP/AI,Donald J. Trump,207
+Glenn,50061,President,,REP,Donald J. Trump,207
 Glenn,50061,President,,LIB,Gary Johnson,7
-Glenn,50061,President,,PF,Gloria Estela La Riva,2
+Glenn,50061,President,,PAF,Gloria Estela La Riva,2
 Glenn,50061,President,,DEM,Hillary Clinton,55
-Glenn,50061,President,,GRN,Jill Stein,0
-Glenn,50061,President,,WI,Write-In,1
 Glenn,50061,Proposition 51,,,No,165
 Glenn,50061,Proposition 51,,,Yes,102
 Glenn,50061,Proposition 52,,,No,132
@@ -1047,14 +1101,15 @@ Glenn,50061,Proposition 66,,,No,109
 Glenn,50061,Proposition 66,,,Yes,136
 Glenn,50061,Proposition 67,,,No,166
 Glenn,50061,Proposition 67,,,Yes,93
+Glenn,50061,State Assembly,3,DEM,Edward Ritchie,51
+Glenn,50061,State Assembly,3,REP,James Gallagher,217
+Glenn,50061,U.S. House,3,DEM,John Garamendi,65
+Glenn,50061,U.S. House,3,REP,N Eugene Cleek,204
 Glenn,50061,U.S. Senate,,DEM,Kamala D. Harris,92
 Glenn,50061,U.S. Senate,,DEM,Loretta L. Sanchez,94
-Glenn,50081,President,,REP/AI,Donald J. Trump,18
+Glenn,50081,President,,REP,Donald J. Trump,18
 Glenn,50081,President,,LIB,Gary Johnson,1
-Glenn,50081,President,,PF,Gloria Estela La Riva,0
 Glenn,50081,President,,DEM,Hillary Clinton,6
-Glenn,50081,President,,GRN,Jill Stein,0
-Glenn,50081,President,,WI,Write-In,0
 Glenn,50081,Proposition 51,,,No,16
 Glenn,50081,Proposition 51,,,Yes,9
 Glenn,50081,Proposition 52,,,No,13
@@ -1089,14 +1144,16 @@ Glenn,50081,Proposition 66,,,No,7
 Glenn,50081,Proposition 66,,,Yes,16
 Glenn,50081,Proposition 67,,,No,17
 Glenn,50081,Proposition 67,,,Yes,6
+Glenn,50081,State Assembly,3,DEM,Edward Ritchie,5
+Glenn,50081,State Assembly,3,REP,James Gallagher,19
+Glenn,50081,U.S. House,3,DEM,John Garamendi,8
+Glenn,50081,U.S. House,3,REP,N Eugene Cleek,17
 Glenn,50081,U.S. Senate,,DEM,Kamala D. Harris,9
 Glenn,50081,U.S. Senate,,DEM,Loretta L. Sanchez,7
-Glenn,50082,President,,REP/AI,Donald J. Trump,143
+Glenn,50082,President,,REP,Donald J. Trump,143
 Glenn,50082,President,,LIB,Gary Johnson,7
-Glenn,50082,President,,PF,Gloria Estela La Riva,2
+Glenn,50082,President,,PAF,Gloria Estela La Riva,2
 Glenn,50082,President,,DEM,Hillary Clinton,22
-Glenn,50082,President,,GRN,Jill Stein,0
-Glenn,50082,President,,WI,Write-In,1
 Glenn,50082,Proposition 51,,,No,112
 Glenn,50082,Proposition 51,,,Yes,60
 Glenn,50082,Proposition 52,,,No,87
@@ -1131,14 +1188,15 @@ Glenn,50082,Proposition 66,,,No,71
 Glenn,50082,Proposition 66,,,Yes,89
 Glenn,50082,Proposition 67,,,No,115
 Glenn,50082,Proposition 67,,,Yes,44
+Glenn,50082,State Assembly,3,DEM,Edward Ritchie,29
+Glenn,50082,State Assembly,3,REP,James Gallagher,141
+Glenn,50082,U.S. House,3,DEM,John Garamendi,24
+Glenn,50082,U.S. House,3,REP,N Eugene Cleek,154
 Glenn,50082,U.S. Senate,,DEM,Kamala D. Harris,60
 Glenn,50082,U.S. Senate,,DEM,Loretta L. Sanchez,45
-Glenn,50083,President,,REP/AI,Donald J. Trump,73
+Glenn,50083,President,,REP,Donald J. Trump,73
 Glenn,50083,President,,LIB,Gary Johnson,8
-Glenn,50083,President,,PF,Gloria Estela La Riva,0
 Glenn,50083,President,,DEM,Hillary Clinton,25
-Glenn,50083,President,,GRN,Jill Stein,0
-Glenn,50083,President,,WI,Write-In,0
 Glenn,50083,Proposition 51,,,No,85
 Glenn,50083,Proposition 51,,,Yes,22
 Glenn,50083,Proposition 52,,,No,44
@@ -1173,14 +1231,17 @@ Glenn,50083,Proposition 66,,,No,59
 Glenn,50083,Proposition 66,,,Yes,43
 Glenn,50083,Proposition 67,,,No,73
 Glenn,50083,Proposition 67,,,Yes,29
+Glenn,50083,State Assembly,3,DEM,Edward Ritchie,18
+Glenn,50083,State Assembly,3,REP,James Gallagher,87
+Glenn,50083,U.S. House,1,REP,Doug La Malfa,85
+Glenn,50083,U.S. House,1,DEM,Jim Reed,22
 Glenn,50083,U.S. Senate,,DEM,Kamala D. Harris,37
 Glenn,50083,U.S. Senate,,DEM,Loretta L. Sanchez,35
-Glenn,50084,President,,REP/AI,Donald J. Trump,78
+Glenn,50084,President,,REP,Donald J. Trump,78
 Glenn,50084,President,,LIB,Gary Johnson,5
-Glenn,50084,President,,PF,Gloria Estela La Riva,1
+Glenn,50084,President,,PAF,Gloria Estela La Riva,1
 Glenn,50084,President,,DEM,Hillary Clinton,40
 Glenn,50084,President,,GRN,Jill Stein,2
-Glenn,50084,President,,WI,Write-In,0
 Glenn,50084,Proposition 51,,,No,67
 Glenn,50084,Proposition 51,,,Yes,61
 Glenn,50084,Proposition 52,,,No,34
@@ -1215,14 +1276,15 @@ Glenn,50084,Proposition 66,,,No,56
 Glenn,50084,Proposition 66,,,Yes,68
 Glenn,50084,Proposition 67,,,No,73
 Glenn,50084,Proposition 67,,,Yes,49
+Glenn,50084,State Assembly,3,DEM,Edward Ritchie,41
+Glenn,50084,State Assembly,3,REP,James Gallagher,82
+Glenn,50084,U.S. House,3,DEM,John Garamendi,43
+Glenn,50084,U.S. House,3,REP,N Eugene Cleek,83
 Glenn,50084,U.S. Senate,,DEM,Kamala D. Harris,54
 Glenn,50084,U.S. Senate,,DEM,Loretta L. Sanchez,55
-Glenn,50085,President,,REP/AI,Donald J. Trump,21
+Glenn,50085,President,,REP,Donald J. Trump,21
 Glenn,50085,President,,LIB,Gary Johnson,2
-Glenn,50085,President,,PF,Gloria Estela La Riva,0
 Glenn,50085,President,,DEM,Hillary Clinton,5
-Glenn,50085,President,,GRN,Jill Stein,0
-Glenn,50085,President,,WI,Write-In,0
 Glenn,50085,Proposition 51,,,No,22
 Glenn,50085,Proposition 51,,,Yes,4
 Glenn,50085,Proposition 52,,,No,15
@@ -1257,14 +1319,17 @@ Glenn,50085,Proposition 66,,,No,8
 Glenn,50085,Proposition 66,,,Yes,18
 Glenn,50085,Proposition 67,,,No,11
 Glenn,50085,Proposition 67,,,Yes,13
+Glenn,50085,State Assembly,3,DEM,Edward Ritchie,6
+Glenn,50085,State Assembly,3,REP,James Gallagher,22
+Glenn,50085,U.S. House,3,DEM,John Garamendi,5
+Glenn,50085,U.S. House,3,REP,N Eugene Cleek,23
 Glenn,50085,U.S. Senate,,DEM,Kamala D. Harris,7
 Glenn,50085,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Glenn,6,President,,REP/AI,Donald J. Trump,400
+Glenn,6,President,,REP,Donald J. Trump,400
 Glenn,6,President,,LIB,Gary Johnson,21
-Glenn,6,President,,PF,Gloria Estela La Riva,4
+Glenn,6,President,,PAF,Gloria Estela La Riva,4
 Glenn,6,President,,DEM,Hillary Clinton,125
 Glenn,6,President,,GRN,Jill Stein,3
-Glenn,6,President,,WI,Write-In,10
 Glenn,6,Proposition 51,,,No,362
 Glenn,6,Proposition 51,,,Yes,203
 Glenn,6,Proposition 52,,,No,265
@@ -1299,14 +1364,16 @@ Glenn,6,Proposition 66,,,No,237
 Glenn,6,Proposition 66,,,Yes,307
 Glenn,6,Proposition 67,,,No,390
 Glenn,6,Proposition 67,,,Yes,152
+Glenn,6,State Assembly,3,DEM,Edward Ritchie,127
+Glenn,6,State Assembly,3,REP,James Gallagher,419
+Glenn,6,U.S. House,3,DEM,John Garamendi,161
+Glenn,6,U.S. House,3,REP,N Eugene Cleek,397
 Glenn,6,U.S. Senate,,DEM,Kamala D. Harris,193
 Glenn,6,U.S. Senate,,DEM,Loretta L. Sanchez,207
-Glenn,7,President,,REP/AI,Donald J. Trump,374
+Glenn,7,President,,REP,Donald J. Trump,374
 Glenn,7,President,,LIB,Gary Johnson,29
-Glenn,7,President,,PF,Gloria Estela La Riva,0
 Glenn,7,President,,DEM,Hillary Clinton,184
 Glenn,7,President,,GRN,Jill Stein,4
-Glenn,7,President,,WI,Write-In,9
 Glenn,7,Proposition 51,,,No,333
 Glenn,7,Proposition 51,,,Yes,266
 Glenn,7,Proposition 52,,,No,262
@@ -1341,14 +1408,17 @@ Glenn,7,Proposition 66,,,No,262
 Glenn,7,Proposition 66,,,Yes,312
 Glenn,7,Proposition 67,,,No,384
 Glenn,7,Proposition 67,,,Yes,195
+Glenn,7,State Assembly,3,DEM,Edward Ritchie,156
+Glenn,7,State Assembly,3,REP,James Gallagher,421
+Glenn,7,U.S. House,3,DEM,John Garamendi,217
+Glenn,7,U.S. House,3,REP,N Eugene Cleek,378
 Glenn,7,U.S. Senate,,DEM,Kamala D. Harris,222
 Glenn,7,U.S. Senate,,DEM,Loretta L. Sanchez,227
-Glenn,8,President,,REP/AI,Donald J. Trump,334
+Glenn,8,President,,REP,Donald J. Trump,334
 Glenn,8,President,,LIB,Gary Johnson,22
-Glenn,8,President,,PF,Gloria Estela La Riva,4
+Glenn,8,President,,PAF,Gloria Estela La Riva,4
 Glenn,8,President,,DEM,Hillary Clinton,215
 Glenn,8,President,,GRN,Jill Stein,10
-Glenn,8,President,,WI,Write-In,11
 Glenn,8,Proposition 51,,,No,298
 Glenn,8,Proposition 51,,,Yes,288
 Glenn,8,Proposition 52,,,No,224
@@ -1383,14 +1453,17 @@ Glenn,8,Proposition 66,,,No,235
 Glenn,8,Proposition 66,,,Yes,330
 Glenn,8,Proposition 67,,,No,364
 Glenn,8,Proposition 67,,,Yes,212
+Glenn,8,State Assembly,3,DEM,Edward Ritchie,194
+Glenn,8,State Assembly,3,REP,James Gallagher,378
+Glenn,8,U.S. House,3,DEM,John Garamendi,227
+Glenn,8,U.S. House,3,REP,N Eugene Cleek,358
 Glenn,8,U.S. Senate,,DEM,Kamala D. Harris,226
 Glenn,8,U.S. Senate,,DEM,Loretta L. Sanchez,243
-Glenn,9,President,,REP/AI,Donald J. Trump,325
+Glenn,9,President,,REP,Donald J. Trump,325
 Glenn,9,President,,LIB,Gary Johnson,20
-Glenn,9,President,,PF,Gloria Estela La Riva,6
+Glenn,9,President,,PAF,Gloria Estela La Riva,6
 Glenn,9,President,,DEM,Hillary Clinton,177
 Glenn,9,President,,GRN,Jill Stein,5
-Glenn,9,President,,WI,Write-In,8
 Glenn,9,Proposition 51,,,No,303
 Glenn,9,Proposition 51,,,Yes,237
 Glenn,9,Proposition 52,,,No,209
@@ -1425,5 +1498,9 @@ Glenn,9,Proposition 66,,,No,247
 Glenn,9,Proposition 66,,,Yes,269
 Glenn,9,Proposition 67,,,No,342
 Glenn,9,Proposition 67,,,Yes,175
+Glenn,9,State Assembly,3,DEM,Edward Ritchie,158
+Glenn,9,State Assembly,3,REP,James Gallagher,359
+Glenn,9,U.S. House,3,DEM,John Garamendi,194
+Glenn,9,U.S. House,3,REP,N Eugene Cleek,338
 Glenn,9,U.S. Senate,,DEM,Kamala D. Harris,220
 Glenn,9,U.S. Senate,,DEM,Loretta L. Sanchez,218

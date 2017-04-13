@@ -1,10 +1,8 @@
 county,precinct,office,district,party,candidate,votes
-Colusa,105,President,,REP/AI,Donald J. Trump,387
+Colusa,105,President,,REP,Donald J. Trump,387
 Colusa,105,President,,LIB,Gary Johnson,27
-Colusa,105,President,,PF,Gloria Estela La Riva,0
 Colusa,105,President,,DEM,Hillary Clinton,261
 Colusa,105,President,,GRN,Jill Stein,6
-Colusa,105,President,,WI,Write-In,13
 Colusa,105,Proposition 51,,,No,393
 Colusa,105,Proposition 51,,,Yes,292
 Colusa,105,Proposition 52,,,No,273
@@ -39,14 +37,17 @@ Colusa,105,Proposition 66,,,No,295
 Colusa,105,Proposition 66,,,Yes,364
 Colusa,105,Proposition 67,,,No,441
 Colusa,105,Proposition 67,,,Yes,233
+Colusa,105,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,288
+Colusa,105,State Assembly,4,REP,Charlie Schaupp,393
+Colusa,105,U.S. House,3,DEM,John Garamendi,296
+Colusa,105,U.S. House,3,REP,N Eugene Cleek,386
 Colusa,105,U.S. Senate,,DEM,Kamala D. Harris,289
 Colusa,105,U.S. Senate,,DEM,Loretta L. Sanchez,243
-Colusa,106,President,,REP/AI,Donald J. Trump,342
+Colusa,106,President,,REP,Donald J. Trump,342
 Colusa,106,President,,LIB,Gary Johnson,33
-Colusa,106,President,,PF,Gloria Estela La Riva,3
+Colusa,106,President,,PAF,Gloria Estela La Riva,3
 Colusa,106,President,,DEM,Hillary Clinton,379
 Colusa,106,President,,GRN,Jill Stein,5
-Colusa,106,President,,WI,Write-In,10
 Colusa,106,Proposition 51,,,No,388
 Colusa,106,Proposition 51,,,Yes,366
 Colusa,106,Proposition 52,,,No,309
@@ -81,14 +82,16 @@ Colusa,106,Proposition 66,,,No,324
 Colusa,106,Proposition 66,,,Yes,409
 Colusa,106,Proposition 67,,,No,465
 Colusa,106,Proposition 67,,,Yes,281
+Colusa,106,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,371
+Colusa,106,State Assembly,4,REP,Charlie Schaupp,368
+Colusa,106,U.S. House,3,DEM,John Garamendi,385
+Colusa,106,U.S. House,3,REP,N Eugene Cleek,359
 Colusa,106,U.S. Senate,,DEM,Kamala D. Harris,289
 Colusa,106,U.S. Senate,,DEM,Loretta L. Sanchez,324
-Colusa,202,President,,REP/AI,Donald J. Trump,126
+Colusa,202,President,,REP,Donald J. Trump,126
 Colusa,202,President,,LIB,Gary Johnson,8
-Colusa,202,President,,PF,Gloria Estela La Riva,0
 Colusa,202,President,,DEM,Hillary Clinton,36
 Colusa,202,President,,GRN,Jill Stein,3
-Colusa,202,President,,WI,Write-In,4
 Colusa,202,Proposition 51,,,No,102
 Colusa,202,Proposition 51,,,Yes,66
 Colusa,202,Proposition 52,,,No,76
@@ -123,14 +126,16 @@ Colusa,202,Proposition 66,,,No,62
 Colusa,202,Proposition 66,,,Yes,108
 Colusa,202,Proposition 67,,,No,116
 Colusa,202,Proposition 67,,,Yes,58
+Colusa,202,State Assembly,3,DEM,Edward Ritchie,31
+Colusa,202,State Assembly,3,REP,James Gallagher,138
+Colusa,202,U.S. House,3,DEM,John Garamendi,80
+Colusa,202,U.S. House,3,REP,N Eugene Cleek,89
 Colusa,202,U.S. Senate,,DEM,Kamala D. Harris,76
 Colusa,202,U.S. Senate,,DEM,Loretta L. Sanchez,53
-Colusa,203,President,,REP/AI,Donald J. Trump,66
+Colusa,203,President,,REP,Donald J. Trump,66
 Colusa,203,President,,LIB,Gary Johnson,11
-Colusa,203,President,,PF,Gloria Estela La Riva,0
 Colusa,203,President,,DEM,Hillary Clinton,69
 Colusa,203,President,,GRN,Jill Stein,2
-Colusa,203,President,,WI,Write-In,3
 Colusa,203,Proposition 51,,,No,83
 Colusa,203,Proposition 51,,,Yes,66
 Colusa,203,Proposition 52,,,No,63
@@ -165,14 +170,17 @@ Colusa,203,Proposition 66,,,No,64
 Colusa,203,Proposition 66,,,Yes,74
 Colusa,203,Proposition 67,,,No,106
 Colusa,203,Proposition 67,,,Yes,42
+Colusa,203,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,74
+Colusa,203,State Assembly,4,REP,Charlie Schaupp,73
+Colusa,203,U.S. House,3,DEM,John Garamendi,80
+Colusa,203,U.S. House,3,REP,N Eugene Cleek,70
 Colusa,203,U.S. Senate,,DEM,Kamala D. Harris,55
 Colusa,203,U.S. Senate,,DEM,Loretta L. Sanchez,74
-Colusa,213,President,,REP/AI,Donald J. Trump,250
+Colusa,213,President,,REP,Donald J. Trump,250
 Colusa,213,President,,LIB,Gary Johnson,18
-Colusa,213,President,,PF,Gloria Estela La Riva,6
+Colusa,213,President,,PAF,Gloria Estela La Riva,6
 Colusa,213,President,,DEM,Hillary Clinton,263
 Colusa,213,President,,GRN,Jill Stein,6
-Colusa,213,President,,WI,Write-In,5
 Colusa,213,Proposition 51,,,No,228
 Colusa,213,Proposition 51,,,Yes,312
 Colusa,213,Proposition 52,,,No,184
@@ -207,14 +215,17 @@ Colusa,213,Proposition 66,,,No,253
 Colusa,213,Proposition 66,,,Yes,257
 Colusa,213,Proposition 67,,,No,317
 Colusa,213,Proposition 67,,,Yes,210
+Colusa,213,State Assembly,3,DEM,Edward Ritchie,209
+Colusa,213,State Assembly,3,REP,James Gallagher,313
+Colusa,213,U.S. House,3,DEM,John Garamendi,317
+Colusa,213,U.S. House,3,REP,N Eugene Cleek,217
 Colusa,213,U.S. Senate,,DEM,Kamala D. Harris,226
 Colusa,213,U.S. Senate,,DEM,Loretta L. Sanchez,225
-Colusa,214,President,,REP/AI,Donald J. Trump,360
+Colusa,214,President,,REP,Donald J. Trump,360
 Colusa,214,President,,LIB,Gary Johnson,27
-Colusa,214,President,,PF,Gloria Estela La Riva,1
+Colusa,214,President,,PAF,Gloria Estela La Riva,1
 Colusa,214,President,,DEM,Hillary Clinton,184
 Colusa,214,President,,GRN,Jill Stein,11
-Colusa,214,President,,WI,Write-In,8
 Colusa,214,Proposition 51,,,No,343
 Colusa,214,Proposition 51,,,Yes,227
 Colusa,214,Proposition 52,,,No,251
@@ -249,14 +260,16 @@ Colusa,214,Proposition 66,,,No,245
 Colusa,214,Proposition 66,,,Yes,304
 Colusa,214,Proposition 67,,,No,383
 Colusa,214,Proposition 67,,,Yes,177
+Colusa,214,State Assembly,3,DEM,Edward Ritchie,140
+Colusa,214,State Assembly,3,REP,James Gallagher,412
+Colusa,214,U.S. House,3,DEM,John Garamendi,245
+Colusa,214,U.S. House,3,REP,N Eugene Cleek,318
 Colusa,214,U.S. Senate,,DEM,Kamala D. Harris,248
 Colusa,214,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Colusa,301,President,,REP/AI,Donald J. Trump,223
+Colusa,301,President,,REP,Donald J. Trump,223
 Colusa,301,President,,LIB,Gary Johnson,22
-Colusa,301,President,,PF,Gloria Estela La Riva,0
 Colusa,301,President,,DEM,Hillary Clinton,75
 Colusa,301,President,,GRN,Jill Stein,1
-Colusa,301,President,,WI,Write-In,2
 Colusa,301,Proposition 51,,,No,215
 Colusa,301,Proposition 51,,,Yes,98
 Colusa,301,Proposition 52,,,No,153
@@ -291,14 +304,17 @@ Colusa,301,Proposition 66,,,No,110
 Colusa,301,Proposition 66,,,Yes,193
 Colusa,301,Proposition 67,,,No,231
 Colusa,301,Proposition 67,,,Yes,79
+Colusa,301,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,81
+Colusa,301,State Assembly,4,REP,Charlie Schaupp,233
+Colusa,301,U.S. House,3,DEM,John Garamendi,89
+Colusa,301,U.S. House,3,REP,N Eugene Cleek,223
 Colusa,301,U.S. Senate,,DEM,Kamala D. Harris,125
 Colusa,301,U.S. Senate,,DEM,Loretta L. Sanchez,91
-Colusa,323,President,,REP/AI,Donald J. Trump,124
+Colusa,323,President,,REP,Donald J. Trump,124
 Colusa,323,President,,LIB,Gary Johnson,19
-Colusa,323,President,,PF,Gloria Estela La Riva,3
+Colusa,323,President,,PAF,Gloria Estela La Riva,3
 Colusa,323,President,,DEM,Hillary Clinton,227
 Colusa,323,President,,GRN,Jill Stein,1
-Colusa,323,President,,WI,Write-In,5
 Colusa,323,Proposition 51,,,No,140
 Colusa,323,Proposition 51,,,Yes,226
 Colusa,323,Proposition 52,,,No,108
@@ -333,14 +349,17 @@ Colusa,323,Proposition 66,,,No,142
 Colusa,323,Proposition 66,,,Yes,209
 Colusa,323,Proposition 67,,,No,213
 Colusa,323,Proposition 67,,,Yes,139
+Colusa,323,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,207
+Colusa,323,State Assembly,4,REP,Charlie Schaupp,145
+Colusa,323,U.S. House,3,DEM,John Garamendi,229
+Colusa,323,U.S. House,3,REP,N Eugene Cleek,137
 Colusa,323,U.S. Senate,,DEM,Kamala D. Harris,121
 Colusa,323,U.S. Senate,,DEM,Loretta L. Sanchez,181
-Colusa,324,President,,REP/AI,Donald J. Trump,133
+Colusa,324,President,,REP,Donald J. Trump,133
 Colusa,324,President,,LIB,Gary Johnson,16
-Colusa,324,President,,PF,Gloria Estela La Riva,4
+Colusa,324,President,,PAF,Gloria Estela La Riva,4
 Colusa,324,President,,DEM,Hillary Clinton,256
 Colusa,324,President,,GRN,Jill Stein,7
-Colusa,324,President,,WI,Write-In,11
 Colusa,324,Proposition 51,,,No,160
 Colusa,324,Proposition 51,,,Yes,246
 Colusa,324,Proposition 52,,,No,134
@@ -375,14 +394,17 @@ Colusa,324,Proposition 66,,,No,195
 Colusa,324,Proposition 66,,,Yes,202
 Colusa,324,Proposition 67,,,No,237
 Colusa,324,Proposition 67,,,Yes,169
+Colusa,324,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,245
+Colusa,324,State Assembly,4,REP,Charlie Schaupp,146
+Colusa,324,U.S. House,3,DEM,John Garamendi,254
+Colusa,324,U.S. House,3,REP,N Eugene Cleek,156
 Colusa,324,U.S. Senate,,DEM,Kamala D. Harris,165
 Colusa,324,U.S. Senate,,DEM,Loretta L. Sanchez,194
-Colusa,401,President,,REP/AI,Donald J. Trump,394
+Colusa,401,President,,REP,Donald J. Trump,394
 Colusa,401,President,,LIB,Gary Johnson,16
-Colusa,401,President,,PF,Gloria Estela La Riva,5
+Colusa,401,President,,PAF,Gloria Estela La Riva,5
 Colusa,401,President,,DEM,Hillary Clinton,134
 Colusa,401,President,,GRN,Jill Stein,5
-Colusa,401,President,,WI,Write-In,5
 Colusa,401,Proposition 51,,,No,350
 Colusa,401,Proposition 51,,,Yes,196
 Colusa,401,Proposition 52,,,No,283
@@ -417,56 +439,103 @@ Colusa,401,Proposition 66,,,No,228
 Colusa,401,Proposition 66,,,Yes,286
 Colusa,401,Proposition 67,,,No,402
 Colusa,401,Proposition 67,,,Yes,137
+Colusa,401,State Assembly,3,DEM,Edward Ritchie,119
+Colusa,401,State Assembly,3,REP,James Gallagher,408
+Colusa,401,U.S. House,3,DEM,John Garamendi,174
+Colusa,401,U.S. House,3,REP,N Eugene Cleek,360
 Colusa,401,U.S. Senate,,DEM,Kamala D. Harris,201
 Colusa,401,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Colusa,405C,President,,REP/AI,Donald J. Trump,154
-Colusa,405C,President,,LIB,Gary Johnson,10
-Colusa,405C,President,,PF,Gloria Estela La Riva,0
-Colusa,405C,President,,DEM,Hillary Clinton,67
-Colusa,405C,President,,GRN,Jill Stein,2
-Colusa,405C,President,,WI,Write-In,5
-Colusa,405C,Proposition 51,,,No,146
-Colusa,405C,Proposition 51,,,Yes,83
-Colusa,405C,Proposition 52,,,No,111
-Colusa,405C,Proposition 52,,,Yes,122
-Colusa,405C,Proposition 53,,,No,91
-Colusa,405C,Proposition 53,,,Yes,141
-Colusa,405C,Proposition 54,,,No,103
-Colusa,405C,Proposition 54,,,Yes,120
-Colusa,405C,Proposition 55,,,No,117
-Colusa,405C,Proposition 55,,,Yes,111
-Colusa,405C,Proposition 56,,,No,147
-Colusa,405C,Proposition 56,,,Yes,91
-Colusa,405C,Proposition 57,,,No,117
-Colusa,405C,Proposition 57,,,Yes,114
-Colusa,405C,Proposition 58,,,No,70
-Colusa,405C,Proposition 58,,,Yes,159
-Colusa,405C,Proposition 59,,,No,140
-Colusa,405C,Proposition 59,,,Yes,80
-Colusa,405C,Proposition 60,,,No,147
-Colusa,405C,Proposition 60,,,Yes,85
-Colusa,405C,Proposition 61,,,No,155
-Colusa,405C,Proposition 61,,,Yes,69
-Colusa,405C,Proposition 62,,,No,180
-Colusa,405C,Proposition 62,,,Yes,53
-Colusa,405C,Proposition 63,,,No,169
-Colusa,405C,Proposition 63,,,Yes,66
-Colusa,405C,Proposition 64,,,No,118
-Colusa,405C,Proposition 64,,,Yes,112
-Colusa,405C,Proposition 65,,,No,161
-Colusa,405C,Proposition 65,,,Yes,65
-Colusa,405C,Proposition 66,,,No,113
-Colusa,405C,Proposition 66,,,Yes,99
-Colusa,405C,Proposition 67,,,No,161
-Colusa,405C,Proposition 67,,,Yes,67
-Colusa,405C,U.S. Senate,,DEM,Kamala D. Harris,106
-Colusa,405C,U.S. Senate,,DEM,Loretta L. Sanchez,73
-Colusa,407,President,,REP/AI,Donald J. Trump,36
+Colusa,405,President,,REP,Donald J. Trump,81
+Colusa,405,President,,LIB,Gary Johnson,2
+Colusa,405,President,,DEM,Hillary Clinton,21
+Colusa,405,President,,GRN,Jill Stein,1
+Colusa,405,Proposition 51,,,No,71
+Colusa,405,Proposition 51,,,Yes,28
+Colusa,405,Proposition 52,,,No,52
+Colusa,405,Proposition 52,,,Yes,46
+Colusa,405,Proposition 53,,,No,44
+Colusa,405,Proposition 53,,,Yes,56
+Colusa,405,Proposition 54,,,No,47
+Colusa,405,Proposition 54,,,Yes,48
+Colusa,405,Proposition 55,,,No,59
+Colusa,405,Proposition 55,,,Yes,37
+Colusa,405,Proposition 56,,,No,66
+Colusa,405,Proposition 56,,,Yes,37
+Colusa,405,Proposition 57,,,No,59
+Colusa,405,Proposition 57,,,Yes,41
+Colusa,405,Proposition 58,,,No,42
+Colusa,405,Proposition 58,,,Yes,59
+Colusa,405,Proposition 59,,,No,69
+Colusa,405,Proposition 59,,,Yes,29
+Colusa,405,Proposition 60,,,No,73
+Colusa,405,Proposition 60,,,Yes,27
+Colusa,405,Proposition 61,,,No,67
+Colusa,405,Proposition 61,,,Yes,31
+Colusa,405,Proposition 62,,,No,78
+Colusa,405,Proposition 62,,,Yes,24
+Colusa,405,Proposition 63,,,No,74
+Colusa,405,Proposition 63,,,Yes,29
+Colusa,405,Proposition 64,,,No,63
+Colusa,405,Proposition 64,,,Yes,39
+Colusa,405,Proposition 65,,,No,73
+Colusa,405,Proposition 65,,,Yes,24
+Colusa,405,Proposition 66,,,No,46
+Colusa,405,Proposition 66,,,Yes,45
+Colusa,405,Proposition 67,,,No,72
+Colusa,405,Proposition 67,,,Yes,28
+Colusa,405,State Assembly,3,DEM,Edward Ritchie,21
+Colusa,405,State Assembly,3,REP,James Gallagher,71
+Colusa,405,U.S. House,3,DEM,John Garamendi,36
+Colusa,405,U.S. House,3,REP,N Eugene Cleek,65
+Colusa,405,U.S. Senate,,DEM,Kamala D. Harris,43
+Colusa,405,U.S. Senate,,DEM,Loretta L. Sanchez,34
+Colusa,406,President,,REP,Donald J. Trump,73
+Colusa,406,President,,LIB,Gary Johnson,8
+Colusa,406,President,,DEM,Hillary Clinton,46
+Colusa,406,President,,GRN,Jill Stein,1
+Colusa,406,Proposition 51,,,No,75
+Colusa,406,Proposition 51,,,Yes,55
+Colusa,406,Proposition 52,,,No,59
+Colusa,406,Proposition 52,,,Yes,76
+Colusa,406,Proposition 53,,,No,47
+Colusa,406,Proposition 53,,,Yes,85
+Colusa,406,Proposition 54,,,No,56
+Colusa,406,Proposition 54,,,Yes,72
+Colusa,406,Proposition 55,,,No,58
+Colusa,406,Proposition 55,,,Yes,74
+Colusa,406,Proposition 56,,,No,81
+Colusa,406,Proposition 56,,,Yes,54
+Colusa,406,Proposition 57,,,No,58
+Colusa,406,Proposition 57,,,Yes,73
+Colusa,406,Proposition 58,,,No,28
+Colusa,406,Proposition 58,,,Yes,100
+Colusa,406,Proposition 59,,,No,71
+Colusa,406,Proposition 59,,,Yes,51
+Colusa,406,Proposition 60,,,No,74
+Colusa,406,Proposition 60,,,Yes,58
+Colusa,406,Proposition 61,,,No,88
+Colusa,406,Proposition 61,,,Yes,38
+Colusa,406,Proposition 62,,,No,102
+Colusa,406,Proposition 62,,,Yes,29
+Colusa,406,Proposition 63,,,No,95
+Colusa,406,Proposition 63,,,Yes,37
+Colusa,406,Proposition 64,,,No,55
+Colusa,406,Proposition 64,,,Yes,73
+Colusa,406,Proposition 65,,,No,88
+Colusa,406,Proposition 65,,,Yes,41
+Colusa,406,Proposition 66,,,No,67
+Colusa,406,Proposition 66,,,Yes,54
+Colusa,406,Proposition 67,,,No,89
+Colusa,406,Proposition 67,,,Yes,39
+Colusa,406,State Assembly,3,DEM,Edward Ritchie,51
+Colusa,406,State Assembly,3,REP,James Gallagher,78
+Colusa,406,U.S. House,3,DEM,John Garamendi,68
+Colusa,406,U.S. House,3,REP,N Eugene Cleek,64
+Colusa,406,U.S. Senate,,DEM,Kamala D. Harris,63
+Colusa,406,U.S. Senate,,DEM,Loretta L. Sanchez,39
+Colusa,407,President,,REP,Donald J. Trump,36
 Colusa,407,President,,LIB,Gary Johnson,1
-Colusa,407,President,,PF,Gloria Estela La Riva,0
 Colusa,407,President,,DEM,Hillary Clinton,21
-Colusa,407,President,,GRN,Jill Stein,0
-Colusa,407,President,,WI,Write-In,2
 Colusa,407,Proposition 51,,,No,34
 Colusa,407,Proposition 51,,,Yes,23
 Colusa,407,Proposition 52,,,No,22
@@ -501,14 +570,17 @@ Colusa,407,Proposition 66,,,No,21
 Colusa,407,Proposition 66,,,Yes,37
 Colusa,407,Proposition 67,,,No,41
 Colusa,407,Proposition 67,,,Yes,19
+Colusa,407,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,17
+Colusa,407,State Assembly,4,REP,Charlie Schaupp,39
+Colusa,407,U.S. House,3,DEM,John Garamendi,34
+Colusa,407,U.S. House,3,REP,N Eugene Cleek,25
 Colusa,407,U.S. Senate,,DEM,Kamala D. Harris,28
 Colusa,407,U.S. Senate,,DEM,Loretta L. Sanchez,17
-Colusa,427,President,,REP/AI,Donald J. Trump,40
+Colusa,427,President,,REP,Donald J. Trump,40
 Colusa,427,President,,LIB,Gary Johnson,8
-Colusa,427,President,,PF,Gloria Estela La Riva,3
+Colusa,427,President,,PAF,Gloria Estela La Riva,3
 Colusa,427,President,,DEM,Hillary Clinton,192
 Colusa,427,President,,GRN,Jill Stein,2
-Colusa,427,President,,WI,Write-In,3
 Colusa,427,Proposition 51,,,No,73
 Colusa,427,Proposition 51,,,Yes,167
 Colusa,427,Proposition 52,,,No,59
@@ -543,14 +615,17 @@ Colusa,427,Proposition 66,,,No,142
 Colusa,427,Proposition 66,,,Yes,92
 Colusa,427,Proposition 67,,,No,128
 Colusa,427,Proposition 67,,,Yes,108
+Colusa,427,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,190
+Colusa,427,State Assembly,4,REP,Charlie Schaupp,46
+Colusa,427,U.S. House,3,DEM,John Garamendi,180
+Colusa,427,U.S. House,3,REP,N Eugene Cleek,58
 Colusa,427,U.S. Senate,,DEM,Kamala D. Harris,77
 Colusa,427,U.S. Senate,,DEM,Loretta L. Sanchez,152
-Colusa,500,President,,REP/AI,Donald J. Trump,287
+Colusa,500,President,,REP,Donald J. Trump,287
 Colusa,500,President,,LIB,Gary Johnson,17
-Colusa,500,President,,PF,Gloria Estela La Riva,7
+Colusa,500,President,,PAF,Gloria Estela La Riva,7
 Colusa,500,President,,DEM,Hillary Clinton,121
 Colusa,500,President,,GRN,Jill Stein,6
-Colusa,500,President,,WI,Write-In,9
 Colusa,500,Proposition 51,,,No,268
 Colusa,500,Proposition 51,,,Yes,172
 Colusa,500,Proposition 52,,,No,199
@@ -585,14 +660,16 @@ Colusa,500,Proposition 66,,,No,198
 Colusa,500,Proposition 66,,,Yes,232
 Colusa,500,Proposition 67,,,No,320
 Colusa,500,Proposition 67,,,Yes,119
+Colusa,500,State Assembly,3,DEM,Edward Ritchie,103
+Colusa,500,State Assembly,3,REP,James Gallagher,332
+Colusa,500,U.S. House,3,DEM,John Garamendi,186
+Colusa,500,U.S. House,3,REP,N Eugene Cleek,253
 Colusa,500,U.S. Senate,,DEM,Kamala D. Harris,194
 Colusa,500,U.S. Senate,,DEM,Loretta L. Sanchez,151
-Colusa,505,President,,REP/AI,Donald J. Trump,120
+Colusa,505,President,,REP,Donald J. Trump,120
 Colusa,505,President,,LIB,Gary Johnson,2
-Colusa,505,President,,PF,Gloria Estela La Riva,0
 Colusa,505,President,,DEM,Hillary Clinton,31
 Colusa,505,President,,GRN,Jill Stein,4
-Colusa,505,President,,WI,Write-In,2
 Colusa,505,Proposition 51,,,No,101
 Colusa,505,Proposition 51,,,Yes,50
 Colusa,505,Proposition 52,,,No,76
@@ -627,14 +704,17 @@ Colusa,505,Proposition 66,,,No,61
 Colusa,505,Proposition 66,,,Yes,82
 Colusa,505,Proposition 67,,,No,116
 Colusa,505,Proposition 67,,,Yes,34
+Colusa,505,State Assembly,3,DEM,Edward Ritchie,28
+Colusa,505,State Assembly,3,REP,James Gallagher,124
+Colusa,505,U.S. House,3,DEM,John Garamendi,49
+Colusa,505,U.S. House,3,REP,N Eugene Cleek,102
 Colusa,505,U.S. Senate,,DEM,Kamala D. Harris,46
 Colusa,505,U.S. Senate,,DEM,Loretta L. Sanchez,44
-Colusa,512,President,,REP/AI,Donald J. Trump,227
+Colusa,512,President,,REP,Donald J. Trump,227
 Colusa,512,President,,LIB,Gary Johnson,10
-Colusa,512,President,,PF,Gloria Estela La Riva,5
+Colusa,512,President,,PAF,Gloria Estela La Riva,5
 Colusa,512,President,,DEM,Hillary Clinton,192
 Colusa,512,President,,GRN,Jill Stein,11
-Colusa,512,President,,WI,Write-In,3
 Colusa,512,Proposition 51,,,No,194
 Colusa,512,Proposition 51,,,Yes,241
 Colusa,512,Proposition 52,,,No,160
@@ -669,14 +749,17 @@ Colusa,512,Proposition 66,,,No,189
 Colusa,512,Proposition 66,,,Yes,223
 Colusa,512,Proposition 67,,,No,271
 Colusa,512,Proposition 67,,,Yes,154
+Colusa,512,State Assembly,3,DEM,Edward Ritchie,155
+Colusa,512,State Assembly,3,REP,James Gallagher,266
+Colusa,512,U.S. House,3,DEM,John Garamendi,225
+Colusa,512,U.S. House,3,REP,N Eugene Cleek,207
 Colusa,512,U.S. Senate,,DEM,Kamala D. Harris,189
 Colusa,512,U.S. Senate,,DEM,Loretta L. Sanchez,169
-Colusa,513,President,,REP/AI,Donald J. Trump,282
+Colusa,513,President,,REP,Donald J. Trump,282
 Colusa,513,President,,LIB,Gary Johnson,15
-Colusa,513,President,,PF,Gloria Estela La Riva,2
+Colusa,513,President,,PAF,Gloria Estela La Riva,2
 Colusa,513,President,,DEM,Hillary Clinton,153
 Colusa,513,President,,GRN,Jill Stein,13
-Colusa,513,President,,WI,Write-In,11
 Colusa,513,Proposition 51,,,No,268
 Colusa,513,Proposition 51,,,Yes,179
 Colusa,513,Proposition 52,,,No,193
@@ -711,5 +794,9 @@ Colusa,513,Proposition 66,,,No,192
 Colusa,513,Proposition 66,,,Yes,238
 Colusa,513,Proposition 67,,,No,283
 Colusa,513,Proposition 67,,,Yes,163
+Colusa,513,State Assembly,3,DEM,Edward Ritchie,104
+Colusa,513,State Assembly,3,REP,James Gallagher,340
+Colusa,513,U.S. House,3,DEM,John Garamendi,199
+Colusa,513,U.S. House,3,REP,N Eugene Cleek,263
 Colusa,513,U.S. Senate,,DEM,Kamala D. Harris,204
 Colusa,513,U.S. Senate,,DEM,Loretta L. Sanchez,145

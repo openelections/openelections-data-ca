@@ -24,7 +24,7 @@ def test_data(year, date, election_type):
     state_data = pandas.read_csv(state_file, na_values='').fillna('')
     state_data = state_data[state_data.votes != 0]
 
-    for county_file in glob.glob('{0}/{0}{1}__ca__{2}__*__precinct.csv'.format(year, date, election_type)):
+    for county_file in sorted(glob.glob('{0}/{0}{1}__ca__{2}__*__precinct.csv'.format(year, date, election_type))):
         county_data = pandas.read_csv(county_file, na_values='').fillna('')
 
         # Each county file should only contain a single county.

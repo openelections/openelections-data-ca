@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Marin,109019,President,,REP/AI,Donald J. Trump,98
+Marin,109019,President,,REP,Donald J. Trump,98
 Marin,109019,President,,LIB,Gary Johnson,11
-Marin,109019,President,,PF,Gloria Estela La Riva,2
+Marin,109019,President,,PAF,Gloria Estela La Riva,2
 Marin,109019,President,,DEM,Hillary Clinton,645
 Marin,109019,President,,GRN,Jill Stein,17
-Marin,109019,President,,WI,Write-In,16
 Marin,109019,Proposition 51,,,No,318
 Marin,109019,Proposition 51,,,Yes,435
 Marin,109019,Proposition 52,,,No,147
@@ -39,14 +38,17 @@ Marin,109019,Proposition 66,,,No,477
 Marin,109019,Proposition 66,,,Yes,233
 Marin,109019,Proposition 67,,,No,184
 Marin,109019,Proposition 67,,,Yes,574
+Marin,109019,State Assembly,10,DEM,Marc Levine,511
+Marin,109019,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",174
+Marin,109019,U.S. House,2,REP,Dale K. Mensing,101
+Marin,109019,U.S. House,2,DEM,Jared W. Huffman,650
 Marin,109019,U.S. Senate,,DEM,Kamala D. Harris,572
 Marin,109019,U.S. Senate,,DEM,Loretta L. Sanchez,140
-Marin,109029,President,,REP/AI,Donald J. Trump,239
+Marin,109029,President,,REP,Donald J. Trump,239
 Marin,109029,President,,LIB,Gary Johnson,53
-Marin,109029,President,,PF,Gloria Estela La Riva,5
+Marin,109029,President,,PAF,Gloria Estela La Riva,5
 Marin,109029,President,,DEM,Hillary Clinton,999
 Marin,109029,President,,GRN,Jill Stein,15
-Marin,109029,President,,WI,Write-In,23
 Marin,109029,Proposition 51,,,No,570
 Marin,109029,Proposition 51,,,Yes,706
 Marin,109029,Proposition 52,,,No,284
@@ -81,14 +83,17 @@ Marin,109029,Proposition 66,,,No,726
 Marin,109029,Proposition 66,,,Yes,473
 Marin,109029,Proposition 67,,,No,352
 Marin,109029,Proposition 67,,,Yes,931
+Marin,109029,State Assembly,10,DEM,Marc Levine,869
+Marin,109029,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",310
+Marin,109029,U.S. House,2,REP,Dale K. Mensing,225
+Marin,109029,U.S. House,2,DEM,Jared W. Huffman,1050
 Marin,109029,U.S. Senate,,DEM,Kamala D. Harris,914
 Marin,109029,U.S. Senate,,DEM,Loretta L. Sanchez,287
-Marin,109039,President,,REP/AI,Donald J. Trump,165
+Marin,109039,President,,REP,Donald J. Trump,165
 Marin,109039,President,,LIB,Gary Johnson,28
-Marin,109039,President,,PF,Gloria Estela La Riva,5
+Marin,109039,President,,PAF,Gloria Estela La Riva,5
 Marin,109039,President,,DEM,Hillary Clinton,848
 Marin,109039,President,,GRN,Jill Stein,13
-Marin,109039,President,,WI,Write-In,15
 Marin,109039,Proposition 51,,,No,438
 Marin,109039,Proposition 51,,,Yes,577
 Marin,109039,Proposition 52,,,No,222
@@ -123,14 +128,17 @@ Marin,109039,Proposition 66,,,No,609
 Marin,109039,Proposition 66,,,Yes,348
 Marin,109039,Proposition 67,,,No,270
 Marin,109039,Proposition 67,,,Yes,754
+Marin,109039,State Assembly,10,DEM,Marc Levine,692
+Marin,109039,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",213
+Marin,109039,U.S. House,2,REP,Dale K. Mensing,153
+Marin,109039,U.S. House,2,DEM,Jared W. Huffman,847
 Marin,109039,U.S. Senate,,DEM,Kamala D. Harris,793
 Marin,109039,U.S. Senate,,DEM,Loretta L. Sanchez,164
-Marin,109049,President,,REP/AI,Donald J. Trump,97
+Marin,109049,President,,REP,Donald J. Trump,97
 Marin,109049,President,,LIB,Gary Johnson,9
-Marin,109049,President,,PF,Gloria Estela La Riva,6
+Marin,109049,President,,PAF,Gloria Estela La Riva,6
 Marin,109049,President,,DEM,Hillary Clinton,453
 Marin,109049,President,,GRN,Jill Stein,20
-Marin,109049,President,,WI,Write-In,7
 Marin,109049,Proposition 51,,,No,245
 Marin,109049,Proposition 51,,,Yes,319
 Marin,109049,Proposition 52,,,No,129
@@ -165,14 +173,17 @@ Marin,109049,Proposition 66,,,No,308
 Marin,109049,Proposition 66,,,Yes,232
 Marin,109049,Proposition 67,,,No,187
 Marin,109049,Proposition 67,,,Yes,387
+Marin,109049,State Assembly,10,DEM,Marc Levine,337
+Marin,109049,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",182
+Marin,109049,U.S. House,2,REP,Dale K. Mensing,82
+Marin,109049,U.S. House,2,DEM,Jared W. Huffman,478
 Marin,109049,U.S. Senate,,DEM,Kamala D. Harris,402
 Marin,109049,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Marin,109050,President,,REP/AI,Donald J. Trump,103
+Marin,109050,President,,REP,Donald J. Trump,103
 Marin,109050,President,,LIB,Gary Johnson,17
-Marin,109050,President,,PF,Gloria Estela La Riva,1
+Marin,109050,President,,PAF,Gloria Estela La Riva,1
 Marin,109050,President,,DEM,Hillary Clinton,555
 Marin,109050,President,,GRN,Jill Stein,9
-Marin,109050,President,,WI,Write-In,19
 Marin,109050,Proposition 51,,,No,307
 Marin,109050,Proposition 51,,,Yes,375
 Marin,109050,Proposition 52,,,No,163
@@ -207,14 +218,17 @@ Marin,109050,Proposition 66,,,No,417
 Marin,109050,Proposition 66,,,Yes,232
 Marin,109050,Proposition 67,,,No,178
 Marin,109050,Proposition 67,,,Yes,512
+Marin,109050,State Assembly,10,DEM,Marc Levine,438
+Marin,109050,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",174
+Marin,109050,U.S. House,2,REP,Dale K. Mensing,124
+Marin,109050,U.S. House,2,DEM,Jared W. Huffman,553
 Marin,109050,U.S. Senate,,DEM,Kamala D. Harris,531
 Marin,109050,U.S. Senate,,DEM,Loretta L. Sanchez,108
-Marin,109059,President,,REP/AI,Donald J. Trump,195
+Marin,109059,President,,REP,Donald J. Trump,195
 Marin,109059,President,,LIB,Gary Johnson,45
-Marin,109059,President,,PF,Gloria Estela La Riva,6
+Marin,109059,President,,PAF,Gloria Estela La Riva,6
 Marin,109059,President,,DEM,Hillary Clinton,999
 Marin,109059,President,,GRN,Jill Stein,29
-Marin,109059,President,,WI,Write-In,45
 Marin,109059,Proposition 51,,,No,516
 Marin,109059,Proposition 51,,,Yes,728
 Marin,109059,Proposition 52,,,No,300
@@ -249,14 +263,17 @@ Marin,109059,Proposition 66,,,No,678
 Marin,109059,Proposition 66,,,Yes,485
 Marin,109059,Proposition 67,,,No,382
 Marin,109059,Proposition 67,,,Yes,876
+Marin,109059,State Assembly,10,DEM,Marc Levine,738
+Marin,109059,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",391
+Marin,109059,U.S. House,2,REP,Dale K. Mensing,209
+Marin,109059,U.S. House,2,DEM,Jared W. Huffman,1011
 Marin,109059,U.S. Senate,,DEM,Kamala D. Harris,860
 Marin,109059,U.S. Senate,,DEM,Loretta L. Sanchez,304
-Marin,109060,President,,REP/AI,Donald J. Trump,127
+Marin,109060,President,,REP,Donald J. Trump,127
 Marin,109060,President,,LIB,Gary Johnson,26
-Marin,109060,President,,PF,Gloria Estela La Riva,1
+Marin,109060,President,,PAF,Gloria Estela La Riva,1
 Marin,109060,President,,DEM,Hillary Clinton,540
 Marin,109060,President,,GRN,Jill Stein,14
-Marin,109060,President,,WI,Write-In,8
 Marin,109060,Proposition 51,,,No,318
 Marin,109060,Proposition 51,,,Yes,369
 Marin,109060,Proposition 52,,,No,170
@@ -291,14 +308,17 @@ Marin,109060,Proposition 66,,,No,423
 Marin,109060,Proposition 66,,,Yes,227
 Marin,109060,Proposition 67,,,No,176
 Marin,109060,Proposition 67,,,Yes,518
+Marin,109060,State Assembly,10,DEM,Marc Levine,460
+Marin,109060,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",149
+Marin,109060,U.S. House,2,REP,Dale K. Mensing,114
+Marin,109060,U.S. House,2,DEM,Jared W. Huffman,571
 Marin,109060,U.S. Senate,,DEM,Kamala D. Harris,511
 Marin,109060,U.S. Senate,,DEM,Loretta L. Sanchez,124
-Marin,109069,President,,REP/AI,Donald J. Trump,168
+Marin,109069,President,,REP,Donald J. Trump,168
 Marin,109069,President,,LIB,Gary Johnson,45
-Marin,109069,President,,PF,Gloria Estela La Riva,2
+Marin,109069,President,,PAF,Gloria Estela La Riva,2
 Marin,109069,President,,DEM,Hillary Clinton,1142
 Marin,109069,President,,GRN,Jill Stein,33
-Marin,109069,President,,WI,Write-In,14
 Marin,109069,Proposition 51,,,No,563
 Marin,109069,Proposition 51,,,Yes,773
 Marin,109069,Proposition 52,,,No,261
@@ -333,14 +353,17 @@ Marin,109069,Proposition 66,,,No,843
 Marin,109069,Proposition 66,,,Yes,389
 Marin,109069,Proposition 67,,,No,292
 Marin,109069,Proposition 67,,,Yes,1048
+Marin,109069,State Assembly,10,DEM,Marc Levine,929
+Marin,109069,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",283
+Marin,109069,U.S. House,2,REP,Dale K. Mensing,162
+Marin,109069,U.S. House,2,DEM,Jared W. Huffman,1155
 Marin,109069,U.S. Senate,,DEM,Kamala D. Harris,1027
 Marin,109069,U.S. Senate,,DEM,Loretta L. Sanchez,232
-Marin,109079,President,,REP/AI,Donald J. Trump,144
+Marin,109079,President,,REP,Donald J. Trump,144
 Marin,109079,President,,LIB,Gary Johnson,30
-Marin,109079,President,,PF,Gloria Estela La Riva,5
+Marin,109079,President,,PAF,Gloria Estela La Riva,5
 Marin,109079,President,,DEM,Hillary Clinton,1061
 Marin,109079,President,,GRN,Jill Stein,33
-Marin,109079,President,,WI,Write-In,24
 Marin,109079,Proposition 51,,,No,557
 Marin,109079,Proposition 51,,,Yes,697
 Marin,109079,Proposition 52,,,No,242
@@ -375,14 +398,17 @@ Marin,109079,Proposition 66,,,No,765
 Marin,109079,Proposition 66,,,Yes,406
 Marin,109079,Proposition 67,,,No,265
 Marin,109079,Proposition 67,,,Yes,1001
+Marin,109079,State Assembly,10,DEM,Marc Levine,870
+Marin,109079,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",282
+Marin,109079,U.S. House,2,REP,Dale K. Mensing,133
+Marin,109079,U.S. House,2,DEM,Jared W. Huffman,1124
 Marin,109079,U.S. Senate,,DEM,Kamala D. Harris,983
 Marin,109079,U.S. Senate,,DEM,Loretta L. Sanchez,207
-Marin,109080,President,,REP/AI,Donald J. Trump,176
+Marin,109080,President,,REP,Donald J. Trump,176
 Marin,109080,President,,LIB,Gary Johnson,31
-Marin,109080,President,,PF,Gloria Estela La Riva,3
+Marin,109080,President,,PAF,Gloria Estela La Riva,3
 Marin,109080,President,,DEM,Hillary Clinton,714
 Marin,109080,President,,GRN,Jill Stein,25
-Marin,109080,President,,WI,Write-In,17
 Marin,109080,Proposition 51,,,No,453
 Marin,109080,Proposition 51,,,Yes,488
 Marin,109080,Proposition 52,,,No,248
@@ -417,14 +443,17 @@ Marin,109080,Proposition 66,,,No,524
 Marin,109080,Proposition 66,,,Yes,338
 Marin,109080,Proposition 67,,,No,254
 Marin,109080,Proposition 67,,,Yes,675
+Marin,109080,State Assembly,10,DEM,Marc Levine,599
+Marin,109080,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",229
+Marin,109080,U.S. House,2,REP,Dale K. Mensing,159
+Marin,109080,U.S. House,2,DEM,Jared W. Huffman,756
 Marin,109080,U.S. Senate,,DEM,Kamala D. Harris,639
 Marin,109080,U.S. Senate,,DEM,Loretta L. Sanchez,223
-Marin,109089,President,,REP/AI,Donald J. Trump,120
+Marin,109089,President,,REP,Donald J. Trump,120
 Marin,109089,President,,LIB,Gary Johnson,19
-Marin,109089,President,,PF,Gloria Estela La Riva,1
+Marin,109089,President,,PAF,Gloria Estela La Riva,1
 Marin,109089,President,,DEM,Hillary Clinton,556
 Marin,109089,President,,GRN,Jill Stein,9
-Marin,109089,President,,WI,Write-In,9
 Marin,109089,Proposition 51,,,No,249
 Marin,109089,Proposition 51,,,Yes,431
 Marin,109089,Proposition 52,,,No,159
@@ -459,14 +488,17 @@ Marin,109089,Proposition 66,,,No,327
 Marin,109089,Proposition 66,,,Yes,291
 Marin,109089,Proposition 67,,,No,185
 Marin,109089,Proposition 67,,,Yes,493
+Marin,109089,State Assembly,10,DEM,Marc Levine,407
+Marin,109089,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",202
+Marin,109089,U.S. House,2,REP,Dale K. Mensing,123
+Marin,109089,U.S. House,2,DEM,Jared W. Huffman,547
 Marin,109089,U.S. Senate,,DEM,Kamala D. Harris,467
 Marin,109089,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Marin,109099,President,,REP/AI,Donald J. Trump,82
+Marin,109099,President,,REP,Donald J. Trump,82
 Marin,109099,President,,LIB,Gary Johnson,14
-Marin,109099,President,,PF,Gloria Estela La Riva,1
+Marin,109099,President,,PAF,Gloria Estela La Riva,1
 Marin,109099,President,,DEM,Hillary Clinton,598
 Marin,109099,President,,GRN,Jill Stein,27
-Marin,109099,President,,WI,Write-In,8
 Marin,109099,Proposition 51,,,No,270
 Marin,109099,Proposition 51,,,Yes,428
 Marin,109099,Proposition 52,,,No,134
@@ -501,14 +533,17 @@ Marin,109099,Proposition 66,,,No,404
 Marin,109099,Proposition 66,,,Yes,263
 Marin,109099,Proposition 67,,,No,170
 Marin,109099,Proposition 67,,,Yes,530
+Marin,109099,State Assembly,10,DEM,Marc Levine,454
+Marin,109099,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",181
+Marin,109099,U.S. House,2,REP,Dale K. Mensing,80
+Marin,109099,U.S. House,2,DEM,Jared W. Huffman,602
 Marin,109099,U.S. Senate,,DEM,Kamala D. Harris,511
 Marin,109099,U.S. Senate,,DEM,Loretta L. Sanchez,139
-Marin,109100,President,,REP/AI,Donald J. Trump,74
+Marin,109100,President,,REP,Donald J. Trump,74
 Marin,109100,President,,LIB,Gary Johnson,15
-Marin,109100,President,,PF,Gloria Estela La Riva,1
+Marin,109100,President,,PAF,Gloria Estela La Riva,1
 Marin,109100,President,,DEM,Hillary Clinton,542
 Marin,109100,President,,GRN,Jill Stein,20
-Marin,109100,President,,WI,Write-In,17
 Marin,109100,Proposition 51,,,No,252
 Marin,109100,Proposition 51,,,Yes,380
 Marin,109100,Proposition 52,,,No,116
@@ -543,14 +578,17 @@ Marin,109100,Proposition 66,,,No,367
 Marin,109100,Proposition 66,,,Yes,227
 Marin,109100,Proposition 67,,,No,138
 Marin,109100,Proposition 67,,,Yes,503
+Marin,109100,State Assembly,10,DEM,Marc Levine,440
+Marin,109100,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",155
+Marin,109100,U.S. House,2,REP,Dale K. Mensing,66
+Marin,109100,U.S. House,2,DEM,Jared W. Huffman,566
 Marin,109100,U.S. Senate,,DEM,Kamala D. Harris,506
 Marin,109100,U.S. Senate,,DEM,Loretta L. Sanchez,105
-Marin,109109,President,,REP/AI,Donald J. Trump,64
+Marin,109109,President,,REP,Donald J. Trump,64
 Marin,109109,President,,LIB,Gary Johnson,14
-Marin,109109,President,,PF,Gloria Estela La Riva,1
+Marin,109109,President,,PAF,Gloria Estela La Riva,1
 Marin,109109,President,,DEM,Hillary Clinton,432
 Marin,109109,President,,GRN,Jill Stein,16
-Marin,109109,President,,WI,Write-In,15
 Marin,109109,Proposition 51,,,No,221
 Marin,109109,Proposition 51,,,Yes,296
 Marin,109109,Proposition 52,,,No,118
@@ -585,14 +623,17 @@ Marin,109109,Proposition 66,,,No,291
 Marin,109109,Proposition 66,,,Yes,198
 Marin,109109,Proposition 67,,,No,161
 Marin,109109,Proposition 67,,,Yes,355
+Marin,109109,State Assembly,10,DEM,Marc Levine,328
+Marin,109109,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",139
+Marin,109109,U.S. House,2,REP,Dale K. Mensing,76
+Marin,109109,U.S. House,2,DEM,Jared W. Huffman,430
 Marin,109109,U.S. Senate,,DEM,Kamala D. Harris,364
 Marin,109109,U.S. Senate,,DEM,Loretta L. Sanchez,130
-Marin,109119,President,,REP/AI,Donald J. Trump,295
+Marin,109119,President,,REP,Donald J. Trump,295
 Marin,109119,President,,LIB,Gary Johnson,53
-Marin,109119,President,,PF,Gloria Estela La Riva,1
+Marin,109119,President,,PAF,Gloria Estela La Riva,1
 Marin,109119,President,,DEM,Hillary Clinton,869
 Marin,109119,President,,GRN,Jill Stein,13
-Marin,109119,President,,WI,Write-In,20
 Marin,109119,Proposition 51,,,No,650
 Marin,109119,Proposition 51,,,Yes,566
 Marin,109119,Proposition 52,,,No,369
@@ -627,14 +668,17 @@ Marin,109119,Proposition 66,,,No,662
 Marin,109119,Proposition 66,,,Yes,474
 Marin,109119,Proposition 67,,,No,411
 Marin,109119,Proposition 67,,,Yes,807
+Marin,109119,State Assembly,10,DEM,Marc Levine,812
+Marin,109119,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",266
+Marin,109119,U.S. House,2,REP,Dale K. Mensing,280
+Marin,109119,U.S. House,2,DEM,Jared W. Huffman,917
 Marin,109119,U.S. Senate,,DEM,Kamala D. Harris,838
 Marin,109119,U.S. Senate,,DEM,Loretta L. Sanchez,256
-Marin,109129,President,,REP/AI,Donald J. Trump,91
+Marin,109129,President,,REP,Donald J. Trump,91
 Marin,109129,President,,LIB,Gary Johnson,18
-Marin,109129,President,,PF,Gloria Estela La Riva,4
+Marin,109129,President,,PAF,Gloria Estela La Riva,4
 Marin,109129,President,,DEM,Hillary Clinton,631
 Marin,109129,President,,GRN,Jill Stein,35
-Marin,109129,President,,WI,Write-In,16
 Marin,109129,Proposition 51,,,No,292
 Marin,109129,Proposition 51,,,Yes,451
 Marin,109129,Proposition 52,,,No,152
@@ -669,14 +713,17 @@ Marin,109129,Proposition 66,,,No,458
 Marin,109129,Proposition 66,,,Yes,238
 Marin,109129,Proposition 67,,,No,173
 Marin,109129,Proposition 67,,,Yes,571
+Marin,109129,State Assembly,10,DEM,Marc Levine,465
+Marin,109129,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",216
+Marin,109129,U.S. House,2,REP,Dale K. Mensing,96
+Marin,109129,U.S. House,2,DEM,Jared W. Huffman,646
 Marin,109129,U.S. Senate,,DEM,Kamala D. Harris,545
 Marin,109129,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Marin,109130,President,,REP/AI,Donald J. Trump,111
+Marin,109130,President,,REP,Donald J. Trump,111
 Marin,109130,President,,LIB,Gary Johnson,13
-Marin,109130,President,,PF,Gloria Estela La Riva,1
+Marin,109130,President,,PAF,Gloria Estela La Riva,1
 Marin,109130,President,,DEM,Hillary Clinton,384
 Marin,109130,President,,GRN,Jill Stein,5
-Marin,109130,President,,WI,Write-In,7
 Marin,109130,Proposition 51,,,No,231
 Marin,109130,Proposition 51,,,Yes,287
 Marin,109130,Proposition 52,,,No,121
@@ -711,14 +758,16 @@ Marin,109130,Proposition 66,,,No,279
 Marin,109130,Proposition 66,,,Yes,195
 Marin,109130,Proposition 67,,,No,138
 Marin,109130,Proposition 67,,,Yes,373
+Marin,109130,State Assembly,10,DEM,Marc Levine,360
+Marin,109130,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",93
+Marin,109130,U.S. House,2,REP,Dale K. Mensing,114
+Marin,109130,U.S. House,2,DEM,Jared W. Huffman,402
 Marin,109130,U.S. Senate,,DEM,Kamala D. Harris,367
 Marin,109130,U.S. Senate,,DEM,Loretta L. Sanchez,97
-Marin,109139,President,,REP/AI,Donald J. Trump,74
+Marin,109139,President,,REP,Donald J. Trump,74
 Marin,109139,President,,LIB,Gary Johnson,13
-Marin,109139,President,,PF,Gloria Estela La Riva,0
 Marin,109139,President,,DEM,Hillary Clinton,541
 Marin,109139,President,,GRN,Jill Stein,33
-Marin,109139,President,,WI,Write-In,14
 Marin,109139,Proposition 51,,,No,240
 Marin,109139,Proposition 51,,,Yes,409
 Marin,109139,Proposition 52,,,No,108
@@ -753,14 +802,17 @@ Marin,109139,Proposition 66,,,No,371
 Marin,109139,Proposition 66,,,Yes,230
 Marin,109139,Proposition 67,,,No,149
 Marin,109139,Proposition 67,,,Yes,491
+Marin,109139,State Assembly,10,DEM,Marc Levine,376
+Marin,109139,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",199
+Marin,109139,U.S. House,2,REP,Dale K. Mensing,73
+Marin,109139,U.S. House,2,DEM,Jared W. Huffman,557
 Marin,109139,U.S. Senate,,DEM,Kamala D. Harris,441
 Marin,109139,U.S. Senate,,DEM,Loretta L. Sanchez,159
-Marin,109149,President,,REP/AI,Donald J. Trump,134
+Marin,109149,President,,REP,Donald J. Trump,134
 Marin,109149,President,,LIB,Gary Johnson,18
-Marin,109149,President,,PF,Gloria Estela La Riva,1
+Marin,109149,President,,PAF,Gloria Estela La Riva,1
 Marin,109149,President,,DEM,Hillary Clinton,579
 Marin,109149,President,,GRN,Jill Stein,6
-Marin,109149,President,,WI,Write-In,14
 Marin,109149,Proposition 51,,,No,325
 Marin,109149,Proposition 51,,,Yes,395
 Marin,109149,Proposition 52,,,No,156
@@ -795,14 +847,17 @@ Marin,109149,Proposition 66,,,No,456
 Marin,109149,Proposition 66,,,Yes,236
 Marin,109149,Proposition 67,,,No,194
 Marin,109149,Proposition 67,,,Yes,533
+Marin,109149,State Assembly,10,DEM,Marc Levine,481
+Marin,109149,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",158
+Marin,109149,U.S. House,2,REP,Dale K. Mensing,130
+Marin,109149,U.S. House,2,DEM,Jared W. Huffman,584
 Marin,109149,U.S. Senate,,DEM,Kamala D. Harris,521
 Marin,109149,U.S. Senate,,DEM,Loretta L. Sanchez,142
-Marin,109159,President,,REP/AI,Donald J. Trump,289
+Marin,109159,President,,REP,Donald J. Trump,289
 Marin,109159,President,,LIB,Gary Johnson,46
-Marin,109159,President,,PF,Gloria Estela La Riva,4
+Marin,109159,President,,PAF,Gloria Estela La Riva,4
 Marin,109159,President,,DEM,Hillary Clinton,942
 Marin,109159,President,,GRN,Jill Stein,17
-Marin,109159,President,,WI,Write-In,30
 Marin,109159,Proposition 51,,,No,715
 Marin,109159,Proposition 51,,,Yes,564
 Marin,109159,Proposition 52,,,No,400
@@ -837,14 +892,17 @@ Marin,109159,Proposition 66,,,No,690
 Marin,109159,Proposition 66,,,Yes,485
 Marin,109159,Proposition 67,,,No,434
 Marin,109159,Proposition 67,,,Yes,850
+Marin,109159,State Assembly,10,DEM,Marc Levine,852
+Marin,109159,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",252
+Marin,109159,U.S. House,2,REP,Dale K. Mensing,299
+Marin,109159,U.S. House,2,DEM,Jared W. Huffman,957
 Marin,109159,U.S. Senate,,DEM,Kamala D. Harris,880
 Marin,109159,U.S. Senate,,DEM,Loretta L. Sanchez,264
-Marin,109169,President,,REP/AI,Donald J. Trump,111
+Marin,109169,President,,REP,Donald J. Trump,111
 Marin,109169,President,,LIB,Gary Johnson,13
-Marin,109169,President,,PF,Gloria Estela La Riva,2
+Marin,109169,President,,PAF,Gloria Estela La Riva,2
 Marin,109169,President,,DEM,Hillary Clinton,433
 Marin,109169,President,,GRN,Jill Stein,17
-Marin,109169,President,,WI,Write-In,11
 Marin,109169,Proposition 51,,,No,241
 Marin,109169,Proposition 51,,,Yes,311
 Marin,109169,Proposition 52,,,No,127
@@ -879,14 +937,16 @@ Marin,109169,Proposition 66,,,No,308
 Marin,109169,Proposition 66,,,Yes,200
 Marin,109169,Proposition 67,,,No,138
 Marin,109169,Proposition 67,,,Yes,416
+Marin,109169,State Assembly,10,DEM,Marc Levine,327
+Marin,109169,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",168
+Marin,109169,U.S. House,2,REP,Dale K. Mensing,91
+Marin,109169,U.S. House,2,DEM,Jared W. Huffman,444
 Marin,109169,U.S. Senate,,DEM,Kamala D. Harris,382
 Marin,109169,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Marin,109290,President,,REP/AI,Donald J. Trump,129
+Marin,109290,President,,REP,Donald J. Trump,129
 Marin,109290,President,,LIB,Gary Johnson,25
-Marin,109290,President,,PF,Gloria Estela La Riva,0
 Marin,109290,President,,DEM,Hillary Clinton,558
 Marin,109290,President,,GRN,Jill Stein,13
-Marin,109290,President,,WI,Write-In,15
 Marin,109290,Proposition 51,,,No,344
 Marin,109290,Proposition 51,,,Yes,368
 Marin,109290,Proposition 52,,,No,197
@@ -921,14 +981,17 @@ Marin,109290,Proposition 66,,,No,418
 Marin,109290,Proposition 66,,,Yes,243
 Marin,109290,Proposition 67,,,No,174
 Marin,109290,Proposition 67,,,Yes,546
+Marin,109290,State Assembly,10,DEM,Marc Levine,470
+Marin,109290,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",159
+Marin,109290,U.S. House,2,REP,Dale K. Mensing,128
+Marin,109290,U.S. House,2,DEM,Jared W. Huffman,576
 Marin,109290,U.S. Senate,,DEM,Kamala D. Harris,515
 Marin,109290,U.S. Senate,,DEM,Loretta L. Sanchez,118
-Marin,109340,President,,REP/AI,Donald J. Trump,142
+Marin,109340,President,,REP,Donald J. Trump,142
 Marin,109340,President,,LIB,Gary Johnson,26
-Marin,109340,President,,PF,Gloria Estela La Riva,1
+Marin,109340,President,,PAF,Gloria Estela La Riva,1
 Marin,109340,President,,DEM,Hillary Clinton,529
 Marin,109340,President,,GRN,Jill Stein,9
-Marin,109340,President,,WI,Write-In,14
 Marin,109340,Proposition 51,,,No,346
 Marin,109340,Proposition 51,,,Yes,351
 Marin,109340,Proposition 52,,,No,193
@@ -963,14 +1026,16 @@ Marin,109340,Proposition 66,,,No,399
 Marin,109340,Proposition 66,,,Yes,265
 Marin,109340,Proposition 67,,,No,209
 Marin,109340,Proposition 67,,,Yes,495
+Marin,109340,State Assembly,10,DEM,Marc Levine,460
+Marin,109340,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",158
+Marin,109340,U.S. House,2,REP,Dale K. Mensing,142
+Marin,109340,U.S. House,2,DEM,Jared W. Huffman,542
 Marin,109340,U.S. Senate,,DEM,Kamala D. Harris,487
 Marin,109340,U.S. Senate,,DEM,Loretta L. Sanchez,143
-Marin,109360,President,,REP/AI,Donald J. Trump,178
+Marin,109360,President,,REP,Donald J. Trump,178
 Marin,109360,President,,LIB,Gary Johnson,24
-Marin,109360,President,,PF,Gloria Estela La Riva,0
 Marin,109360,President,,DEM,Hillary Clinton,583
 Marin,109360,President,,GRN,Jill Stein,11
-Marin,109360,President,,WI,Write-In,20
 Marin,109360,Proposition 51,,,No,443
 Marin,109360,Proposition 51,,,Yes,358
 Marin,109360,Proposition 52,,,No,231
@@ -1005,14 +1070,17 @@ Marin,109360,Proposition 66,,,No,437
 Marin,109360,Proposition 66,,,Yes,318
 Marin,109360,Proposition 67,,,No,245
 Marin,109360,Proposition 67,,,Yes,550
+Marin,109360,State Assembly,10,DEM,Marc Levine,545
+Marin,109360,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",158
+Marin,109360,U.S. House,2,REP,Dale K. Mensing,176
+Marin,109360,U.S. House,2,DEM,Jared W. Huffman,606
 Marin,109360,U.S. Senate,,DEM,Kamala D. Harris,552
 Marin,109360,U.S. Senate,,DEM,Loretta L. Sanchez,171
-Marin,109470,President,,REP/AI,Donald J. Trump,79
+Marin,109470,President,,REP,Donald J. Trump,79
 Marin,109470,President,,LIB,Gary Johnson,11
-Marin,109470,President,,PF,Gloria Estela La Riva,3
+Marin,109470,President,,PAF,Gloria Estela La Riva,3
 Marin,109470,President,,DEM,Hillary Clinton,632
 Marin,109470,President,,GRN,Jill Stein,19
-Marin,109470,President,,WI,Write-In,13
 Marin,109470,Proposition 51,,,No,273
 Marin,109470,Proposition 51,,,Yes,454
 Marin,109470,Proposition 52,,,No,136
@@ -1047,14 +1115,17 @@ Marin,109470,Proposition 66,,,No,453
 Marin,109470,Proposition 66,,,Yes,230
 Marin,109470,Proposition 67,,,No,141
 Marin,109470,Proposition 67,,,Yes,588
+Marin,109470,State Assembly,10,DEM,Marc Levine,481
+Marin,109470,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",189
+Marin,109470,U.S. House,2,REP,Dale K. Mensing,80
+Marin,109470,U.S. House,2,DEM,Jared W. Huffman,641
 Marin,109470,U.S. Senate,,DEM,Kamala D. Harris,550
 Marin,109470,U.S. Senate,,DEM,Loretta L. Sanchez,138
-Marin,112070,President,,REP/AI,Donald J. Trump,70
+Marin,112070,President,,REP,Donald J. Trump,70
 Marin,112070,President,,LIB,Gary Johnson,13
-Marin,112070,President,,PF,Gloria Estela La Riva,1
+Marin,112070,President,,PAF,Gloria Estela La Riva,1
 Marin,112070,President,,DEM,Hillary Clinton,515
 Marin,112070,President,,GRN,Jill Stein,10
-Marin,112070,President,,WI,Write-In,4
 Marin,112070,Proposition 51,,,No,240
 Marin,112070,Proposition 51,,,Yes,354
 Marin,112070,Proposition 52,,,No,121
@@ -1089,14 +1160,17 @@ Marin,112070,Proposition 66,,,No,380
 Marin,112070,Proposition 66,,,Yes,174
 Marin,112070,Proposition 67,,,No,133
 Marin,112070,Proposition 67,,,Yes,468
+Marin,112070,State Assembly,10,DEM,Marc Levine,432
+Marin,112070,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",112
+Marin,112070,U.S. House,2,REP,Dale K. Mensing,60
+Marin,112070,U.S. House,2,DEM,Jared W. Huffman,528
 Marin,112070,U.S. Senate,,DEM,Kamala D. Harris,477
 Marin,112070,U.S. Senate,,DEM,Loretta L. Sanchez,95
-Marin,112160,President,,REP/AI,Donald J. Trump,108
+Marin,112160,President,,REP,Donald J. Trump,108
 Marin,112160,President,,LIB,Gary Johnson,20
-Marin,112160,President,,PF,Gloria Estela La Riva,2
+Marin,112160,President,,PAF,Gloria Estela La Riva,2
 Marin,112160,President,,DEM,Hillary Clinton,579
 Marin,112160,President,,GRN,Jill Stein,16
-Marin,112160,President,,WI,Write-In,10
 Marin,112160,Proposition 51,,,No,304
 Marin,112160,Proposition 51,,,Yes,395
 Marin,112160,Proposition 52,,,No,165
@@ -1131,14 +1205,17 @@ Marin,112160,Proposition 66,,,No,387
 Marin,112160,Proposition 66,,,Yes,264
 Marin,112160,Proposition 67,,,No,174
 Marin,112160,Proposition 67,,,Yes,522
+Marin,112160,State Assembly,10,DEM,Marc Levine,474
+Marin,112160,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",167
+Marin,112160,U.S. House,2,REP,Dale K. Mensing,103
+Marin,112160,U.S. House,2,DEM,Jared W. Huffman,590
 Marin,112160,U.S. Senate,,DEM,Kamala D. Harris,510
 Marin,112160,U.S. Senate,,DEM,Loretta L. Sanchez,138
-Marin,112179,President,,REP/AI,Donald J. Trump,220
+Marin,112179,President,,REP,Donald J. Trump,220
 Marin,112179,President,,LIB,Gary Johnson,44
-Marin,112179,President,,PF,Gloria Estela La Riva,3
+Marin,112179,President,,PAF,Gloria Estela La Riva,3
 Marin,112179,President,,DEM,Hillary Clinton,1112
 Marin,112179,President,,GRN,Jill Stein,16
-Marin,112179,President,,WI,Write-In,23
 Marin,112179,Proposition 51,,,No,587
 Marin,112179,Proposition 51,,,Yes,795
 Marin,112179,Proposition 52,,,No,283
@@ -1173,14 +1250,17 @@ Marin,112179,Proposition 66,,,No,856
 Marin,112179,Proposition 66,,,Yes,448
 Marin,112179,Proposition 67,,,No,345
 Marin,112179,Proposition 67,,,Yes,1037
+Marin,112179,State Assembly,10,DEM,Marc Levine,1013
+Marin,112179,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",258
+Marin,112179,U.S. House,2,REP,Dale K. Mensing,218
+Marin,112179,U.S. House,2,DEM,Jared W. Huffman,1162
 Marin,112179,U.S. Senate,,DEM,Kamala D. Harris,1061
 Marin,112179,U.S. Senate,,DEM,Loretta L. Sanchez,235
-Marin,112189,President,,REP/AI,Donald J. Trump,255
+Marin,112189,President,,REP,Donald J. Trump,255
 Marin,112189,President,,LIB,Gary Johnson,50
-Marin,112189,President,,PF,Gloria Estela La Riva,3
+Marin,112189,President,,PAF,Gloria Estela La Riva,3
 Marin,112189,President,,DEM,Hillary Clinton,860
 Marin,112189,President,,GRN,Jill Stein,29
-Marin,112189,President,,WI,Write-In,22
 Marin,112189,Proposition 51,,,No,582
 Marin,112189,Proposition 51,,,Yes,587
 Marin,112189,Proposition 52,,,No,322
@@ -1215,14 +1295,17 @@ Marin,112189,Proposition 66,,,No,620
 Marin,112189,Proposition 66,,,Yes,459
 Marin,112189,Proposition 67,,,No,360
 Marin,112189,Proposition 67,,,Yes,808
+Marin,112189,State Assembly,10,DEM,Marc Levine,752
+Marin,112189,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",284
+Marin,112189,U.S. House,2,REP,Dale K. Mensing,236
+Marin,112189,U.S. House,2,DEM,Jared W. Huffman,887
 Marin,112189,U.S. Senate,,DEM,Kamala D. Harris,820
 Marin,112189,U.S. Senate,,DEM,Loretta L. Sanchez,235
-Marin,112199,President,,REP/AI,Donald J. Trump,61
+Marin,112199,President,,REP,Donald J. Trump,61
 Marin,112199,President,,LIB,Gary Johnson,19
-Marin,112199,President,,PF,Gloria Estela La Riva,2
+Marin,112199,President,,PAF,Gloria Estela La Riva,2
 Marin,112199,President,,DEM,Hillary Clinton,181
 Marin,112199,President,,GRN,Jill Stein,6
-Marin,112199,President,,WI,Write-In,5
 Marin,112199,Proposition 51,,,No,146
 Marin,112199,Proposition 51,,,Yes,129
 Marin,112199,Proposition 52,,,No,89
@@ -1257,14 +1340,17 @@ Marin,112199,Proposition 66,,,No,164
 Marin,112199,Proposition 66,,,Yes,99
 Marin,112199,Proposition 67,,,No,88
 Marin,112199,Proposition 67,,,Yes,186
+Marin,112199,State Assembly,10,DEM,Marc Levine,166
+Marin,112199,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",68
+Marin,112199,U.S. House,2,REP,Dale K. Mensing,65
+Marin,112199,U.S. House,2,DEM,Jared W. Huffman,203
 Marin,112199,U.S. Senate,,DEM,Kamala D. Harris,188
 Marin,112199,U.S. Senate,,DEM,Loretta L. Sanchez,56
-Marin,112209,President,,REP/AI,Donald J. Trump,147
+Marin,112209,President,,REP,Donald J. Trump,147
 Marin,112209,President,,LIB,Gary Johnson,24
-Marin,112209,President,,PF,Gloria Estela La Riva,5
+Marin,112209,President,,PAF,Gloria Estela La Riva,5
 Marin,112209,President,,DEM,Hillary Clinton,825
 Marin,112209,President,,GRN,Jill Stein,24
-Marin,112209,President,,WI,Write-In,18
 Marin,112209,Proposition 51,,,No,456
 Marin,112209,Proposition 51,,,Yes,525
 Marin,112209,Proposition 52,,,No,219
@@ -1299,14 +1385,17 @@ Marin,112209,Proposition 66,,,No,583
 Marin,112209,Proposition 66,,,Yes,347
 Marin,112209,Proposition 67,,,No,234
 Marin,112209,Proposition 67,,,Yes,772
+Marin,112209,State Assembly,10,DEM,Marc Levine,634
+Marin,112209,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",258
+Marin,112209,U.S. House,2,REP,Dale K. Mensing,138
+Marin,112209,U.S. House,2,DEM,Jared W. Huffman,850
 Marin,112209,U.S. Senate,,DEM,Kamala D. Harris,727
 Marin,112209,U.S. Senate,,DEM,Loretta L. Sanchez,189
-Marin,112219,President,,REP/AI,Donald J. Trump,89
+Marin,112219,President,,REP,Donald J. Trump,89
 Marin,112219,President,,LIB,Gary Johnson,22
-Marin,112219,President,,PF,Gloria Estela La Riva,2
+Marin,112219,President,,PAF,Gloria Estela La Riva,2
 Marin,112219,President,,DEM,Hillary Clinton,494
 Marin,112219,President,,GRN,Jill Stein,22
-Marin,112219,President,,WI,Write-In,15
 Marin,112219,Proposition 51,,,No,263
 Marin,112219,Proposition 51,,,Yes,364
 Marin,112219,Proposition 52,,,No,133
@@ -1341,14 +1430,16 @@ Marin,112219,Proposition 66,,,No,372
 Marin,112219,Proposition 66,,,Yes,214
 Marin,112219,Proposition 67,,,No,171
 Marin,112219,Proposition 67,,,Yes,452
+Marin,112219,State Assembly,10,DEM,Marc Levine,414
+Marin,112219,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",151
+Marin,112219,U.S. House,2,REP,Dale K. Mensing,96
+Marin,112219,U.S. House,2,DEM,Jared W. Huffman,522
 Marin,112219,U.S. Senate,,DEM,Kamala D. Harris,456
 Marin,112219,U.S. Senate,,DEM,Loretta L. Sanchez,134
-Marin,112229,President,,REP/AI,Donald J. Trump,85
+Marin,112229,President,,REP,Donald J. Trump,85
 Marin,112229,President,,LIB,Gary Johnson,16
-Marin,112229,President,,PF,Gloria Estela La Riva,0
 Marin,112229,President,,DEM,Hillary Clinton,486
 Marin,112229,President,,GRN,Jill Stein,20
-Marin,112229,President,,WI,Write-In,8
 Marin,112229,Proposition 51,,,No,244
 Marin,112229,Proposition 51,,,Yes,336
 Marin,112229,Proposition 52,,,No,130
@@ -1383,14 +1474,17 @@ Marin,112229,Proposition 66,,,No,335
 Marin,112229,Proposition 66,,,Yes,218
 Marin,112229,Proposition 67,,,No,143
 Marin,112229,Proposition 67,,,Yes,447
+Marin,112229,State Assembly,10,DEM,Marc Levine,374
+Marin,112229,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",166
+Marin,112229,U.S. House,2,REP,Dale K. Mensing,82
+Marin,112229,U.S. House,2,DEM,Jared W. Huffman,489
 Marin,112229,U.S. Senate,,DEM,Kamala D. Harris,414
 Marin,112229,U.S. Senate,,DEM,Loretta L. Sanchez,139
-Marin,112239,President,,REP/AI,Donald J. Trump,156
+Marin,112239,President,,REP,Donald J. Trump,156
 Marin,112239,President,,LIB,Gary Johnson,23
-Marin,112239,President,,PF,Gloria Estela La Riva,2
+Marin,112239,President,,PAF,Gloria Estela La Riva,2
 Marin,112239,President,,DEM,Hillary Clinton,493
 Marin,112239,President,,GRN,Jill Stein,13
-Marin,112239,President,,WI,Write-In,13
 Marin,112239,Proposition 51,,,No,356
 Marin,112239,Proposition 51,,,Yes,336
 Marin,112239,Proposition 52,,,No,178
@@ -1425,14 +1519,17 @@ Marin,112239,Proposition 66,,,No,410
 Marin,112239,Proposition 66,,,Yes,241
 Marin,112239,Proposition 67,,,No,212
 Marin,112239,Proposition 67,,,Yes,480
+Marin,112239,State Assembly,10,DEM,Marc Levine,453
+Marin,112239,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",153
+Marin,112239,U.S. House,2,REP,Dale K. Mensing,160
+Marin,112239,U.S. House,2,DEM,Jared W. Huffman,516
 Marin,112239,U.S. Senate,,DEM,Kamala D. Harris,482
 Marin,112239,U.S. Senate,,DEM,Loretta L. Sanchez,139
-Marin,203019,President,,REP/AI,Donald J. Trump,74
+Marin,203019,President,,REP,Donald J. Trump,74
 Marin,203019,President,,LIB,Gary Johnson,24
-Marin,203019,President,,PF,Gloria Estela La Riva,3
+Marin,203019,President,,PAF,Gloria Estela La Riva,3
 Marin,203019,President,,DEM,Hillary Clinton,1005
 Marin,203019,President,,GRN,Jill Stein,42
-Marin,203019,President,,WI,Write-In,20
 Marin,203019,Proposition 51,,,No,419
 Marin,203019,Proposition 51,,,Yes,692
 Marin,203019,Proposition 52,,,No,177
@@ -1467,14 +1564,17 @@ Marin,203019,Proposition 66,,,No,724
 Marin,203019,Proposition 66,,,Yes,321
 Marin,203019,Proposition 67,,,No,161
 Marin,203019,Proposition 67,,,Yes,972
+Marin,203019,State Assembly,10,DEM,Marc Levine,692
+Marin,203019,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",348
+Marin,203019,U.S. House,2,REP,Dale K. Mensing,80
+Marin,203019,U.S. House,2,DEM,Jared W. Huffman,1041
 Marin,203019,U.S. Senate,,DEM,Kamala D. Harris,909
 Marin,203019,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Marin,203029,President,,REP/AI,Donald J. Trump,106
+Marin,203029,President,,REP,Donald J. Trump,106
 Marin,203029,President,,LIB,Gary Johnson,20
-Marin,203029,President,,PF,Gloria Estela La Riva,2
+Marin,203029,President,,PAF,Gloria Estela La Riva,2
 Marin,203029,President,,DEM,Hillary Clinton,966
 Marin,203029,President,,GRN,Jill Stein,65
-Marin,203029,President,,WI,Write-In,26
 Marin,203029,Proposition 51,,,No,452
 Marin,203029,Proposition 51,,,Yes,664
 Marin,203029,Proposition 52,,,No,191
@@ -1509,14 +1609,17 @@ Marin,203029,Proposition 66,,,No,770
 Marin,203029,Proposition 66,,,Yes,289
 Marin,203029,Proposition 67,,,No,180
 Marin,203029,Proposition 67,,,Yes,967
+Marin,203029,State Assembly,10,DEM,Marc Levine,696
+Marin,203029,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",338
+Marin,203029,U.S. House,2,REP,Dale K. Mensing,95
+Marin,203029,U.S. House,2,DEM,Jared W. Huffman,1026
 Marin,203029,U.S. Senate,,DEM,Kamala D. Harris,877
 Marin,203029,U.S. Senate,,DEM,Loretta L. Sanchez,198
-Marin,203040,President,,REP/AI,Donald J. Trump,57
+Marin,203040,President,,REP,Donald J. Trump,57
 Marin,203040,President,,LIB,Gary Johnson,20
-Marin,203040,President,,PF,Gloria Estela La Riva,1
+Marin,203040,President,,PAF,Gloria Estela La Riva,1
 Marin,203040,President,,DEM,Hillary Clinton,572
 Marin,203040,President,,GRN,Jill Stein,38
-Marin,203040,President,,WI,Write-In,12
 Marin,203040,Proposition 51,,,No,247
 Marin,203040,Proposition 51,,,Yes,410
 Marin,203040,Proposition 52,,,No,114
@@ -1551,14 +1654,17 @@ Marin,203040,Proposition 66,,,No,409
 Marin,203040,Proposition 66,,,Yes,209
 Marin,203040,Proposition 67,,,No,114
 Marin,203040,Proposition 67,,,Yes,560
+Marin,203040,State Assembly,10,DEM,Marc Levine,449
+Marin,203040,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",172
+Marin,203040,U.S. House,2,REP,Dale K. Mensing,67
+Marin,203040,U.S. House,2,DEM,Jared W. Huffman,600
 Marin,203040,U.S. Senate,,DEM,Kamala D. Harris,528
 Marin,203040,U.S. Senate,,DEM,Loretta L. Sanchez,112
-Marin,203060,President,,REP/AI,Donald J. Trump,72
+Marin,203060,President,,REP,Donald J. Trump,72
 Marin,203060,President,,LIB,Gary Johnson,14
-Marin,203060,President,,PF,Gloria Estela La Riva,2
+Marin,203060,President,,PAF,Gloria Estela La Riva,2
 Marin,203060,President,,DEM,Hillary Clinton,489
 Marin,203060,President,,GRN,Jill Stein,19
-Marin,203060,President,,WI,Write-In,12
 Marin,203060,Proposition 51,,,No,251
 Marin,203060,Proposition 51,,,Yes,332
 Marin,203060,Proposition 52,,,No,116
@@ -1593,14 +1699,17 @@ Marin,203060,Proposition 66,,,No,394
 Marin,203060,Proposition 66,,,Yes,149
 Marin,203060,Proposition 67,,,No,144
 Marin,203060,Proposition 67,,,Yes,449
+Marin,203060,State Assembly,10,DEM,Marc Levine,383
+Marin,203060,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",161
+Marin,203060,U.S. House,2,REP,Dale K. Mensing,59
+Marin,203060,U.S. House,2,DEM,Jared W. Huffman,522
 Marin,203060,U.S. Senate,,DEM,Kamala D. Harris,450
 Marin,203060,U.S. Senate,,DEM,Loretta L. Sanchez,105
-Marin,203080,President,,REP/AI,Donald J. Trump,30
+Marin,203080,President,,REP,Donald J. Trump,30
 Marin,203080,President,,LIB,Gary Johnson,14
-Marin,203080,President,,PF,Gloria Estela La Riva,2
+Marin,203080,President,,PAF,Gloria Estela La Riva,2
 Marin,203080,President,,DEM,Hillary Clinton,528
 Marin,203080,President,,GRN,Jill Stein,24
-Marin,203080,President,,WI,Write-In,10
 Marin,203080,Proposition 51,,,No,185
 Marin,203080,Proposition 51,,,Yes,387
 Marin,203080,Proposition 52,,,No,98
@@ -1635,14 +1744,17 @@ Marin,203080,Proposition 66,,,No,383
 Marin,203080,Proposition 66,,,Yes,149
 Marin,203080,Proposition 67,,,No,90
 Marin,203080,Proposition 67,,,Yes,493
+Marin,203080,State Assembly,10,DEM,Marc Levine,374
+Marin,203080,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",167
+Marin,203080,U.S. House,2,REP,Dale K. Mensing,37
+Marin,203080,U.S. House,2,DEM,Jared W. Huffman,538
 Marin,203080,U.S. Senate,,DEM,Kamala D. Harris,475
 Marin,203080,U.S. Senate,,DEM,Loretta L. Sanchez,83
-Marin,203130,President,,REP/AI,Donald J. Trump,34
+Marin,203130,President,,REP,Donald J. Trump,34
 Marin,203130,President,,LIB,Gary Johnson,10
-Marin,203130,President,,PF,Gloria Estela La Riva,1
+Marin,203130,President,,PAF,Gloria Estela La Riva,1
 Marin,203130,President,,DEM,Hillary Clinton,616
 Marin,203130,President,,GRN,Jill Stein,38
-Marin,203130,President,,WI,Write-In,7
 Marin,203130,Proposition 51,,,No,226
 Marin,203130,Proposition 51,,,Yes,438
 Marin,203130,Proposition 52,,,No,97
@@ -1677,14 +1789,16 @@ Marin,203130,Proposition 66,,,No,457
 Marin,203130,Proposition 66,,,Yes,151
 Marin,203130,Proposition 67,,,No,98
 Marin,203130,Proposition 67,,,Yes,576
+Marin,203130,State Assembly,10,DEM,Marc Levine,412
+Marin,203130,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",196
+Marin,203130,U.S. House,2,REP,Dale K. Mensing,45
+Marin,203130,U.S. House,2,DEM,Jared W. Huffman,621
 Marin,203130,U.S. Senate,,DEM,Kamala D. Harris,545
 Marin,203130,U.S. Senate,,DEM,Loretta L. Sanchez,107
-Marin,204039,President,,REP/AI,Donald J. Trump,39
+Marin,204039,President,,REP,Donald J. Trump,39
 Marin,204039,President,,LIB,Gary Johnson,6
-Marin,204039,President,,PF,Gloria Estela La Riva,0
 Marin,204039,President,,DEM,Hillary Clinton,289
 Marin,204039,President,,GRN,Jill Stein,9
-Marin,204039,President,,WI,Write-In,5
 Marin,204039,Proposition 51,,,No,142
 Marin,204039,Proposition 51,,,Yes,198
 Marin,204039,Proposition 52,,,No,65
@@ -1719,14 +1833,17 @@ Marin,204039,Proposition 66,,,No,219
 Marin,204039,Proposition 66,,,Yes,94
 Marin,204039,Proposition 67,,,No,60
 Marin,204039,Proposition 67,,,Yes,279
+Marin,204039,State Assembly,10,DEM,Marc Levine,222
+Marin,204039,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",76
+Marin,204039,U.S. House,2,REP,Dale K. Mensing,48
+Marin,204039,U.S. House,2,DEM,Jared W. Huffman,282
 Marin,204039,U.S. Senate,,DEM,Kamala D. Harris,251
 Marin,204039,U.S. Senate,,DEM,Loretta L. Sanchez,60
-Marin,204049,President,,REP/AI,Donald J. Trump,77
+Marin,204049,President,,REP,Donald J. Trump,77
 Marin,204049,President,,LIB,Gary Johnson,11
-Marin,204049,President,,PF,Gloria Estela La Riva,2
+Marin,204049,President,,PAF,Gloria Estela La Riva,2
 Marin,204049,President,,DEM,Hillary Clinton,419
 Marin,204049,President,,GRN,Jill Stein,15
-Marin,204049,President,,WI,Write-In,9
 Marin,204049,Proposition 51,,,No,217
 Marin,204049,Proposition 51,,,Yes,290
 Marin,204049,Proposition 52,,,No,114
@@ -1761,14 +1878,17 @@ Marin,204049,Proposition 66,,,No,298
 Marin,204049,Proposition 66,,,Yes,176
 Marin,204049,Proposition 67,,,No,106
 Marin,204049,Proposition 67,,,Yes,390
+Marin,204049,State Assembly,10,DEM,Marc Levine,332
+Marin,204049,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",129
+Marin,204049,U.S. House,2,REP,Dale K. Mensing,78
+Marin,204049,U.S. House,2,DEM,Jared W. Huffman,424
 Marin,204049,U.S. Senate,,DEM,Kamala D. Harris,384
 Marin,204049,U.S. Senate,,DEM,Loretta L. Sanchez,89
-Marin,204059,President,,REP/AI,Donald J. Trump,136
+Marin,204059,President,,REP,Donald J. Trump,136
 Marin,204059,President,,LIB,Gary Johnson,31
-Marin,204059,President,,PF,Gloria Estela La Riva,3
+Marin,204059,President,,PAF,Gloria Estela La Riva,3
 Marin,204059,President,,DEM,Hillary Clinton,749
 Marin,204059,President,,GRN,Jill Stein,18
-Marin,204059,President,,WI,Write-In,16
 Marin,204059,Proposition 51,,,No,446
 Marin,204059,Proposition 51,,,Yes,471
 Marin,204059,Proposition 52,,,No,203
@@ -1803,14 +1923,17 @@ Marin,204059,Proposition 66,,,No,548
 Marin,204059,Proposition 66,,,Yes,307
 Marin,204059,Proposition 67,,,No,222
 Marin,204059,Proposition 67,,,Yes,698
+Marin,204059,State Assembly,10,DEM,Marc Levine,628
+Marin,204059,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",197
+Marin,204059,U.S. House,2,REP,Dale K. Mensing,161
+Marin,204059,U.S. House,2,DEM,Jared W. Huffman,744
 Marin,204059,U.S. Senate,,DEM,Kamala D. Harris,693
 Marin,204059,U.S. Senate,,DEM,Loretta L. Sanchez,154
-Marin,204069,President,,REP/AI,Donald J. Trump,117
+Marin,204069,President,,REP,Donald J. Trump,117
 Marin,204069,President,,LIB,Gary Johnson,16
-Marin,204069,President,,PF,Gloria Estela La Riva,4
+Marin,204069,President,,PAF,Gloria Estela La Riva,4
 Marin,204069,President,,DEM,Hillary Clinton,745
 Marin,204069,President,,GRN,Jill Stein,23
-Marin,204069,President,,WI,Write-In,28
 Marin,204069,Proposition 51,,,No,356
 Marin,204069,Proposition 51,,,Yes,521
 Marin,204069,Proposition 52,,,No,186
@@ -1845,14 +1968,17 @@ Marin,204069,Proposition 66,,,No,495
 Marin,204069,Proposition 66,,,Yes,310
 Marin,204069,Proposition 67,,,No,229
 Marin,204069,Proposition 67,,,Yes,653
+Marin,204069,State Assembly,10,DEM,Marc Levine,568
+Marin,204069,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",238
+Marin,204069,U.S. House,2,REP,Dale K. Mensing,114
+Marin,204069,U.S. House,2,DEM,Jared W. Huffman,759
 Marin,204069,U.S. Senate,,DEM,Kamala D. Harris,623
 Marin,204069,U.S. Senate,,DEM,Loretta L. Sanchez,215
-Marin,204079,President,,REP/AI,Donald J. Trump,72
+Marin,204079,President,,REP,Donald J. Trump,72
 Marin,204079,President,,LIB,Gary Johnson,27
-Marin,204079,President,,PF,Gloria Estela La Riva,2
+Marin,204079,President,,PAF,Gloria Estela La Riva,2
 Marin,204079,President,,DEM,Hillary Clinton,478
 Marin,204079,President,,GRN,Jill Stein,4
-Marin,204079,President,,WI,Write-In,10
 Marin,204079,Proposition 51,,,No,255
 Marin,204079,Proposition 51,,,Yes,325
 Marin,204079,Proposition 52,,,No,128
@@ -1887,14 +2013,17 @@ Marin,204079,Proposition 66,,,No,363
 Marin,204079,Proposition 66,,,Yes,169
 Marin,204079,Proposition 67,,,No,101
 Marin,204079,Proposition 67,,,Yes,471
+Marin,204079,State Assembly,10,DEM,Marc Levine,423
+Marin,204079,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",105
+Marin,204079,U.S. House,2,REP,Dale K. Mensing,79
+Marin,204079,U.S. House,2,DEM,Jared W. Huffman,488
 Marin,204079,U.S. Senate,,DEM,Kamala D. Harris,477
 Marin,204079,U.S. Senate,,DEM,Loretta L. Sanchez,76
-Marin,204089,President,,REP/AI,Donald J. Trump,265
+Marin,204089,President,,REP,Donald J. Trump,265
 Marin,204089,President,,LIB,Gary Johnson,60
-Marin,204089,President,,PF,Gloria Estela La Riva,3
+Marin,204089,President,,PAF,Gloria Estela La Riva,3
 Marin,204089,President,,DEM,Hillary Clinton,1161
 Marin,204089,President,,GRN,Jill Stein,19
-Marin,204089,President,,WI,Write-In,34
 Marin,204089,Proposition 51,,,No,694
 Marin,204089,Proposition 51,,,Yes,786
 Marin,204089,Proposition 52,,,No,383
@@ -1929,14 +2058,16 @@ Marin,204089,Proposition 66,,,No,823
 Marin,204089,Proposition 66,,,Yes,592
 Marin,204089,Proposition 67,,,No,442
 Marin,204089,Proposition 67,,,Yes,1047
+Marin,204089,State Assembly,10,DEM,Marc Levine,967
+Marin,204089,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",333
+Marin,204089,U.S. House,2,REP,Dale K. Mensing,292
+Marin,204089,U.S. House,2,DEM,Jared W. Huffman,1165
 Marin,204089,U.S. Senate,,DEM,Kamala D. Harris,1065
 Marin,204089,U.S. Senate,,DEM,Loretta L. Sanchez,290
-Marin,204350,President,,REP/AI,Donald J. Trump,99
+Marin,204350,President,,REP,Donald J. Trump,99
 Marin,204350,President,,LIB,Gary Johnson,26
-Marin,204350,President,,PF,Gloria Estela La Riva,0
 Marin,204350,President,,DEM,Hillary Clinton,604
 Marin,204350,President,,GRN,Jill Stein,17
-Marin,204350,President,,WI,Write-In,15
 Marin,204350,Proposition 51,,,No,356
 Marin,204350,Proposition 51,,,Yes,371
 Marin,204350,Proposition 52,,,No,158
@@ -1971,14 +2102,17 @@ Marin,204350,Proposition 66,,,No,461
 Marin,204350,Proposition 66,,,Yes,205
 Marin,204350,Proposition 67,,,No,159
 Marin,204350,Proposition 67,,,Yes,577
+Marin,204350,State Assembly,10,DEM,Marc Levine,501
+Marin,204350,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",138
+Marin,204350,U.S. House,2,REP,Dale K. Mensing,102
+Marin,204350,U.S. House,2,DEM,Jared W. Huffman,616
 Marin,204350,U.S. Senate,,DEM,Kamala D. Harris,522
 Marin,204350,U.S. Senate,,DEM,Loretta L. Sanchez,138
-Marin,204390,President,,REP/AI,Donald J. Trump,93
+Marin,204390,President,,REP,Donald J. Trump,93
 Marin,204390,President,,LIB,Gary Johnson,11
-Marin,204390,President,,PF,Gloria Estela La Riva,1
+Marin,204390,President,,PAF,Gloria Estela La Riva,1
 Marin,204390,President,,DEM,Hillary Clinton,491
 Marin,204390,President,,GRN,Jill Stein,12
-Marin,204390,President,,WI,Write-In,9
 Marin,204390,Proposition 51,,,No,218
 Marin,204390,Proposition 51,,,Yes,352
 Marin,204390,Proposition 52,,,No,103
@@ -2013,14 +2147,17 @@ Marin,204390,Proposition 66,,,No,355
 Marin,204390,Proposition 66,,,Yes,171
 Marin,204390,Proposition 67,,,No,126
 Marin,204390,Proposition 67,,,Yes,445
+Marin,204390,State Assembly,10,DEM,Marc Levine,400
+Marin,204390,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",113
+Marin,204390,U.S. House,2,REP,Dale K. Mensing,99
+Marin,204390,U.S. House,2,DEM,Jared W. Huffman,479
 Marin,204390,U.S. Senate,,DEM,Kamala D. Harris,441
 Marin,204390,U.S. Senate,,DEM,Loretta L. Sanchez,104
-Marin,204410,President,,REP/AI,Donald J. Trump,68
+Marin,204410,President,,REP,Donald J. Trump,68
 Marin,204410,President,,LIB,Gary Johnson,14
-Marin,204410,President,,PF,Gloria Estela La Riva,2
+Marin,204410,President,,PAF,Gloria Estela La Riva,2
 Marin,204410,President,,DEM,Hillary Clinton,487
 Marin,204410,President,,GRN,Jill Stein,20
-Marin,204410,President,,WI,Write-In,12
 Marin,204410,Proposition 51,,,No,242
 Marin,204410,Proposition 51,,,Yes,325
 Marin,204410,Proposition 52,,,No,117
@@ -2055,14 +2192,16 @@ Marin,204410,Proposition 66,,,No,344
 Marin,204410,Proposition 66,,,Yes,185
 Marin,204410,Proposition 67,,,No,117
 Marin,204410,Proposition 67,,,Yes,460
+Marin,204410,State Assembly,10,DEM,Marc Levine,364
+Marin,204410,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",146
+Marin,204410,U.S. House,2,REP,Dale K. Mensing,85
+Marin,204410,U.S. House,2,DEM,Jared W. Huffman,482
 Marin,204410,U.S. Senate,,DEM,Kamala D. Harris,422
 Marin,204410,U.S. Senate,,DEM,Loretta L. Sanchez,111
-Marin,207099,President,,REP/AI,Donald J. Trump,196
+Marin,207099,President,,REP,Donald J. Trump,196
 Marin,207099,President,,LIB,Gary Johnson,55
-Marin,207099,President,,PF,Gloria Estela La Riva,0
 Marin,207099,President,,DEM,Hillary Clinton,660
 Marin,207099,President,,GRN,Jill Stein,11
-Marin,207099,President,,WI,Write-In,21
 Marin,207099,Proposition 51,,,No,430
 Marin,207099,Proposition 51,,,Yes,478
 Marin,207099,Proposition 52,,,No,291
@@ -2097,14 +2236,17 @@ Marin,207099,Proposition 66,,,No,506
 Marin,207099,Proposition 66,,,Yes,326
 Marin,207099,Proposition 67,,,No,283
 Marin,207099,Proposition 67,,,Yes,633
+Marin,207099,State Assembly,10,DEM,Marc Levine,569
+Marin,207099,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",196
+Marin,207099,U.S. House,2,REP,Dale K. Mensing,232
+Marin,207099,U.S. House,2,DEM,Jared W. Huffman,659
 Marin,207099,U.S. Senate,,DEM,Kamala D. Harris,604
 Marin,207099,U.S. Senate,,DEM,Loretta L. Sanchez,218
-Marin,207180,President,,REP/AI,Donald J. Trump,82
+Marin,207180,President,,REP,Donald J. Trump,82
 Marin,207180,President,,LIB,Gary Johnson,30
-Marin,207180,President,,PF,Gloria Estela La Riva,1
+Marin,207180,President,,PAF,Gloria Estela La Riva,1
 Marin,207180,President,,DEM,Hillary Clinton,350
 Marin,207180,President,,GRN,Jill Stein,7
-Marin,207180,President,,WI,Write-In,6
 Marin,207180,Proposition 51,,,No,229
 Marin,207180,Proposition 51,,,Yes,234
 Marin,207180,Proposition 52,,,No,125
@@ -2139,14 +2281,17 @@ Marin,207180,Proposition 66,,,No,257
 Marin,207180,Proposition 66,,,Yes,178
 Marin,207180,Proposition 67,,,No,125
 Marin,207180,Proposition 67,,,Yes,338
+Marin,207180,State Assembly,10,DEM,Marc Levine,291
+Marin,207180,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",106
+Marin,207180,U.S. House,2,REP,Dale K. Mensing,107
+Marin,207180,U.S. House,2,DEM,Jared W. Huffman,348
 Marin,207180,U.S. Senate,,DEM,Kamala D. Harris,328
 Marin,207180,U.S. Senate,,DEM,Loretta L. Sanchez,93
-Marin,208100,President,,REP/AI,Donald J. Trump,89
+Marin,208100,President,,REP,Donald J. Trump,89
 Marin,208100,President,,LIB,Gary Johnson,27
-Marin,208100,President,,PF,Gloria Estela La Riva,1
+Marin,208100,President,,PAF,Gloria Estela La Riva,1
 Marin,208100,President,,DEM,Hillary Clinton,640
 Marin,208100,President,,GRN,Jill Stein,25
-Marin,208100,President,,WI,Write-In,6
 Marin,208100,Proposition 51,,,No,284
 Marin,208100,Proposition 51,,,Yes,461
 Marin,208100,Proposition 52,,,No,143
@@ -2181,14 +2326,16 @@ Marin,208100,Proposition 66,,,No,469
 Marin,208100,Proposition 66,,,Yes,226
 Marin,208100,Proposition 67,,,No,121
 Marin,208100,Proposition 67,,,Yes,639
+Marin,208100,State Assembly,10,DEM,Marc Levine,462
+Marin,208100,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",194
+Marin,208100,U.S. House,2,REP,Dale K. Mensing,89
+Marin,208100,U.S. House,2,DEM,Jared W. Huffman,659
 Marin,208100,U.S. Senate,,DEM,Kamala D. Harris,585
 Marin,208100,U.S. Senate,,DEM,Loretta L. Sanchez,125
-Marin,208109,President,,REP/AI,Donald J. Trump,122
+Marin,208109,President,,REP,Donald J. Trump,122
 Marin,208109,President,,LIB,Gary Johnson,34
-Marin,208109,President,,PF,Gloria Estela La Riva,0
 Marin,208109,President,,DEM,Hillary Clinton,1100
 Marin,208109,President,,GRN,Jill Stein,27
-Marin,208109,President,,WI,Write-In,22
 Marin,208109,Proposition 51,,,No,521
 Marin,208109,Proposition 51,,,Yes,726
 Marin,208109,Proposition 52,,,No,242
@@ -2223,14 +2370,17 @@ Marin,208109,Proposition 66,,,No,769
 Marin,208109,Proposition 66,,,Yes,385
 Marin,208109,Proposition 67,,,No,254
 Marin,208109,Proposition 67,,,Yes,995
+Marin,208109,State Assembly,10,DEM,Marc Levine,868
+Marin,208109,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",264
+Marin,208109,U.S. House,2,REP,Dale K. Mensing,136
+Marin,208109,U.S. House,2,DEM,Jared W. Huffman,1106
 Marin,208109,U.S. Senate,,DEM,Kamala D. Harris,1007
 Marin,208109,U.S. Senate,,DEM,Loretta L. Sanchez,173
-Marin,208119,President,,REP/AI,Donald J. Trump,111
+Marin,208119,President,,REP,Donald J. Trump,111
 Marin,208119,President,,LIB,Gary Johnson,26
-Marin,208119,President,,PF,Gloria Estela La Riva,3
+Marin,208119,President,,PAF,Gloria Estela La Riva,3
 Marin,208119,President,,DEM,Hillary Clinton,1077
 Marin,208119,President,,GRN,Jill Stein,33
-Marin,208119,President,,WI,Write-In,19
 Marin,208119,Proposition 51,,,No,454
 Marin,208119,Proposition 51,,,Yes,762
 Marin,208119,Proposition 52,,,No,227
@@ -2265,14 +2415,17 @@ Marin,208119,Proposition 66,,,No,770
 Marin,208119,Proposition 66,,,Yes,376
 Marin,208119,Proposition 67,,,No,210
 Marin,208119,Proposition 67,,,Yes,1025
+Marin,208119,State Assembly,10,DEM,Marc Levine,799
+Marin,208119,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",310
+Marin,208119,U.S. House,2,REP,Dale K. Mensing,117
+Marin,208119,U.S. House,2,DEM,Jared W. Huffman,1094
 Marin,208119,U.S. Senate,,DEM,Kamala D. Harris,942
 Marin,208119,U.S. Senate,,DEM,Loretta L. Sanchez,207
-Marin,208129,President,,REP/AI,Donald J. Trump,54
+Marin,208129,President,,REP,Donald J. Trump,54
 Marin,208129,President,,LIB,Gary Johnson,18
-Marin,208129,President,,PF,Gloria Estela La Riva,3
+Marin,208129,President,,PAF,Gloria Estela La Riva,3
 Marin,208129,President,,DEM,Hillary Clinton,590
 Marin,208129,President,,GRN,Jill Stein,14
-Marin,208129,President,,WI,Write-In,21
 Marin,208129,Proposition 51,,,No,243
 Marin,208129,Proposition 51,,,Yes,426
 Marin,208129,Proposition 52,,,No,131
@@ -2307,14 +2460,17 @@ Marin,208129,Proposition 66,,,No,407
 Marin,208129,Proposition 66,,,Yes,221
 Marin,208129,Proposition 67,,,No,121
 Marin,208129,Proposition 67,,,Yes,558
+Marin,208129,State Assembly,10,DEM,Marc Levine,428
+Marin,208129,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",176
+Marin,208129,U.S. House,2,REP,Dale K. Mensing,63
+Marin,208129,U.S. House,2,DEM,Jared W. Huffman,595
 Marin,208129,U.S. Senate,,DEM,Kamala D. Harris,527
 Marin,208129,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Marin,208139,President,,REP/AI,Donald J. Trump,59
+Marin,208139,President,,REP,Donald J. Trump,59
 Marin,208139,President,,LIB,Gary Johnson,11
-Marin,208139,President,,PF,Gloria Estela La Riva,1
+Marin,208139,President,,PAF,Gloria Estela La Riva,1
 Marin,208139,President,,DEM,Hillary Clinton,618
 Marin,208139,President,,GRN,Jill Stein,11
-Marin,208139,President,,WI,Write-In,9
 Marin,208139,Proposition 51,,,No,289
 Marin,208139,Proposition 51,,,Yes,400
 Marin,208139,Proposition 52,,,No,134
@@ -2349,14 +2505,17 @@ Marin,208139,Proposition 66,,,No,454
 Marin,208139,Proposition 66,,,Yes,193
 Marin,208139,Proposition 67,,,No,125
 Marin,208139,Proposition 67,,,Yes,564
+Marin,208139,State Assembly,10,DEM,Marc Levine,465
+Marin,208139,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",143
+Marin,208139,U.S. House,2,REP,Dale K. Mensing,56
+Marin,208139,U.S. House,2,DEM,Jared W. Huffman,619
 Marin,208139,U.S. Senate,,DEM,Kamala D. Harris,544
 Marin,208139,U.S. Senate,,DEM,Loretta L. Sanchez,103
-Marin,208149,President,,REP/AI,Donald J. Trump,139
+Marin,208149,President,,REP,Donald J. Trump,139
 Marin,208149,President,,LIB,Gary Johnson,14
-Marin,208149,President,,PF,Gloria Estela La Riva,3
+Marin,208149,President,,PAF,Gloria Estela La Riva,3
 Marin,208149,President,,DEM,Hillary Clinton,1071
 Marin,208149,President,,GRN,Jill Stein,28
-Marin,208149,President,,WI,Write-In,14
 Marin,208149,Proposition 51,,,No,498
 Marin,208149,Proposition 51,,,Yes,697
 Marin,208149,Proposition 52,,,No,234
@@ -2391,14 +2550,16 @@ Marin,208149,Proposition 66,,,No,780
 Marin,208149,Proposition 66,,,Yes,332
 Marin,208149,Proposition 67,,,No,240
 Marin,208149,Proposition 67,,,Yes,969
+Marin,208149,State Assembly,10,DEM,Marc Levine,842
+Marin,208149,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",249
+Marin,208149,U.S. House,2,REP,Dale K. Mensing,144
+Marin,208149,U.S. House,2,DEM,Jared W. Huffman,1065
 Marin,208149,U.S. Senate,,DEM,Kamala D. Harris,942
 Marin,208149,U.S. Senate,,DEM,Loretta L. Sanchez,191
-Marin,208160,President,,REP/AI,Donald J. Trump,79
+Marin,208160,President,,REP,Donald J. Trump,79
 Marin,208160,President,,LIB,Gary Johnson,21
-Marin,208160,President,,PF,Gloria Estela La Riva,0
 Marin,208160,President,,DEM,Hillary Clinton,607
 Marin,208160,President,,GRN,Jill Stein,20
-Marin,208160,President,,WI,Write-In,11
 Marin,208160,Proposition 51,,,No,312
 Marin,208160,Proposition 51,,,Yes,386
 Marin,208160,Proposition 52,,,No,133
@@ -2433,14 +2594,17 @@ Marin,208160,Proposition 66,,,No,460
 Marin,208160,Proposition 66,,,Yes,196
 Marin,208160,Proposition 67,,,No,129
 Marin,208160,Proposition 67,,,Yes,572
+Marin,208160,State Assembly,10,DEM,Marc Levine,468
+Marin,208160,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",164
+Marin,208160,U.S. House,2,REP,Dale K. Mensing,95
+Marin,208160,U.S. House,2,DEM,Jared W. Huffman,603
 Marin,208160,U.S. Senate,,DEM,Kamala D. Harris,558
 Marin,208160,U.S. Senate,,DEM,Loretta L. Sanchez,112
-Marin,208240,President,,REP/AI,Donald J. Trump,39
+Marin,208240,President,,REP,Donald J. Trump,39
 Marin,208240,President,,LIB,Gary Johnson,6
-Marin,208240,President,,PF,Gloria Estela La Riva,2
+Marin,208240,President,,PAF,Gloria Estela La Riva,2
 Marin,208240,President,,DEM,Hillary Clinton,474
 Marin,208240,President,,GRN,Jill Stein,11
-Marin,208240,President,,WI,Write-In,14
 Marin,208240,Proposition 51,,,No,208
 Marin,208240,Proposition 51,,,Yes,307
 Marin,208240,Proposition 52,,,No,102
@@ -2475,14 +2639,17 @@ Marin,208240,Proposition 66,,,No,358
 Marin,208240,Proposition 66,,,Yes,112
 Marin,208240,Proposition 67,,,No,86
 Marin,208240,Proposition 67,,,Yes,433
+Marin,208240,State Assembly,10,DEM,Marc Levine,355
+Marin,208240,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",114
+Marin,208240,U.S. House,2,REP,Dale K. Mensing,57
+Marin,208240,U.S. House,2,DEM,Jared W. Huffman,457
 Marin,208240,U.S. Senate,,DEM,Kamala D. Harris,420
 Marin,208240,U.S. Senate,,DEM,Loretta L. Sanchez,74
-Marin,208250,President,,REP/AI,Donald J. Trump,77
+Marin,208250,President,,REP,Donald J. Trump,77
 Marin,208250,President,,LIB,Gary Johnson,22
-Marin,208250,President,,PF,Gloria Estela La Riva,1
+Marin,208250,President,,PAF,Gloria Estela La Riva,1
 Marin,208250,President,,DEM,Hillary Clinton,609
 Marin,208250,President,,GRN,Jill Stein,26
-Marin,208250,President,,WI,Write-In,10
 Marin,208250,Proposition 51,,,No,240
 Marin,208250,Proposition 51,,,Yes,454
 Marin,208250,Proposition 52,,,No,126
@@ -2517,14 +2684,17 @@ Marin,208250,Proposition 66,,,No,425
 Marin,208250,Proposition 66,,,Yes,216
 Marin,208250,Proposition 67,,,No,140
 Marin,208250,Proposition 67,,,Yes,563
+Marin,208250,State Assembly,10,DEM,Marc Levine,445
+Marin,208250,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",200
+Marin,208250,U.S. House,2,REP,Dale K. Mensing,72
+Marin,208250,U.S. House,2,DEM,Jared W. Huffman,620
 Marin,208250,U.S. Senate,,DEM,Kamala D. Harris,542
 Marin,208250,U.S. Senate,,DEM,Loretta L. Sanchez,129
-Marin,209159,President,,REP/AI,Donald J. Trump,77
+Marin,209159,President,,REP,Donald J. Trump,77
 Marin,209159,President,,LIB,Gary Johnson,16
-Marin,209159,President,,PF,Gloria Estela La Riva,1
+Marin,209159,President,,PAF,Gloria Estela La Riva,1
 Marin,209159,President,,DEM,Hillary Clinton,610
 Marin,209159,President,,GRN,Jill Stein,21
-Marin,209159,President,,WI,Write-In,13
 Marin,209159,Proposition 51,,,No,301
 Marin,209159,Proposition 51,,,Yes,406
 Marin,209159,Proposition 52,,,No,146
@@ -2559,14 +2729,17 @@ Marin,209159,Proposition 66,,,No,452
 Marin,209159,Proposition 66,,,Yes,213
 Marin,209159,Proposition 67,,,No,140
 Marin,209159,Proposition 67,,,Yes,571
+Marin,209159,State Assembly,10,DEM,Marc Levine,494
+Marin,209159,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",168
+Marin,209159,U.S. House,2,REP,Dale K. Mensing,74
+Marin,209159,U.S. House,2,DEM,Jared W. Huffman,628
 Marin,209159,U.S. Senate,,DEM,Kamala D. Harris,552
 Marin,209159,U.S. Senate,,DEM,Loretta L. Sanchez,128
-Marin,209169,President,,REP/AI,Donald J. Trump,60
+Marin,209169,President,,REP,Donald J. Trump,60
 Marin,209169,President,,LIB,Gary Johnson,16
-Marin,209169,President,,PF,Gloria Estela La Riva,5
+Marin,209169,President,,PAF,Gloria Estela La Riva,5
 Marin,209169,President,,DEM,Hillary Clinton,592
 Marin,209169,President,,GRN,Jill Stein,19
-Marin,209169,President,,WI,Write-In,14
 Marin,209169,Proposition 51,,,No,275
 Marin,209169,Proposition 51,,,Yes,386
 Marin,209169,Proposition 52,,,No,101
@@ -2601,14 +2774,17 @@ Marin,209169,Proposition 66,,,No,424
 Marin,209169,Proposition 66,,,Yes,193
 Marin,209169,Proposition 67,,,No,137
 Marin,209169,Proposition 67,,,Yes,535
+Marin,209169,State Assembly,10,DEM,Marc Levine,412
+Marin,209169,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",190
+Marin,209169,U.S. House,2,REP,Dale K. Mensing,72
+Marin,209169,U.S. House,2,DEM,Jared W. Huffman,571
 Marin,209169,U.S. Senate,,DEM,Kamala D. Harris,510
 Marin,209169,U.S. Senate,,DEM,Loretta L. Sanchez,108
-Marin,209179,President,,REP/AI,Donald J. Trump,68
+Marin,209179,President,,REP,Donald J. Trump,68
 Marin,209179,President,,LIB,Gary Johnson,25
-Marin,209179,President,,PF,Gloria Estela La Riva,3
+Marin,209179,President,,PAF,Gloria Estela La Riva,3
 Marin,209179,President,,DEM,Hillary Clinton,596
 Marin,209179,President,,GRN,Jill Stein,19
-Marin,209179,President,,WI,Write-In,12
 Marin,209179,Proposition 51,,,No,243
 Marin,209179,Proposition 51,,,Yes,439
 Marin,209179,Proposition 52,,,No,139
@@ -2643,14 +2819,17 @@ Marin,209179,Proposition 66,,,No,404
 Marin,209179,Proposition 66,,,Yes,235
 Marin,209179,Proposition 67,,,No,128
 Marin,209179,Proposition 67,,,Yes,567
+Marin,209179,State Assembly,10,DEM,Marc Levine,428
+Marin,209179,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",211
+Marin,209179,U.S. House,2,REP,Dale K. Mensing,82
+Marin,209179,U.S. House,2,DEM,Jared W. Huffman,603
 Marin,209179,U.S. Senate,,DEM,Kamala D. Harris,508
 Marin,209179,U.S. Senate,,DEM,Loretta L. Sanchez,143
-Marin,209189,President,,REP/AI,Donald J. Trump,84
+Marin,209189,President,,REP,Donald J. Trump,84
 Marin,209189,President,,LIB,Gary Johnson,13
-Marin,209189,President,,PF,Gloria Estela La Riva,5
+Marin,209189,President,,PAF,Gloria Estela La Riva,5
 Marin,209189,President,,DEM,Hillary Clinton,584
 Marin,209189,President,,GRN,Jill Stein,25
-Marin,209189,President,,WI,Write-In,14
 Marin,209189,Proposition 51,,,No,259
 Marin,209189,Proposition 51,,,Yes,438
 Marin,209189,Proposition 52,,,No,134
@@ -2685,14 +2864,17 @@ Marin,209189,Proposition 66,,,No,447
 Marin,209189,Proposition 66,,,Yes,212
 Marin,209189,Proposition 67,,,No,155
 Marin,209189,Proposition 67,,,Yes,546
+Marin,209189,State Assembly,10,DEM,Marc Levine,434
+Marin,209189,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",211
+Marin,209189,U.S. House,2,REP,Dale K. Mensing,82
+Marin,209189,U.S. House,2,DEM,Jared W. Huffman,614
 Marin,209189,U.S. Senate,,DEM,Kamala D. Harris,522
 Marin,209189,U.S. Senate,,DEM,Loretta L. Sanchez,153
-Marin,209199,President,,REP/AI,Donald J. Trump,99
+Marin,209199,President,,REP,Donald J. Trump,99
 Marin,209199,President,,LIB,Gary Johnson,18
-Marin,209199,President,,PF,Gloria Estela La Riva,2
+Marin,209199,President,,PAF,Gloria Estela La Riva,2
 Marin,209199,President,,DEM,Hillary Clinton,550
 Marin,209199,President,,GRN,Jill Stein,27
-Marin,209199,President,,WI,Write-In,16
 Marin,209199,Proposition 51,,,No,285
 Marin,209199,Proposition 51,,,Yes,406
 Marin,209199,Proposition 52,,,No,150
@@ -2727,14 +2909,16 @@ Marin,209199,Proposition 66,,,No,398
 Marin,209199,Proposition 66,,,Yes,246
 Marin,209199,Proposition 67,,,No,152
 Marin,209199,Proposition 67,,,Yes,549
+Marin,209199,State Assembly,10,DEM,Marc Levine,456
+Marin,209199,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",170
+Marin,209199,U.S. House,2,REP,Dale K. Mensing,107
+Marin,209199,U.S. House,2,DEM,Jared W. Huffman,577
 Marin,209199,U.S. Senate,,DEM,Kamala D. Harris,527
 Marin,209199,U.S. Senate,,DEM,Loretta L. Sanchez,129
-Marin,212209,President,,REP/AI,Donald J. Trump,163
+Marin,212209,President,,REP,Donald J. Trump,163
 Marin,212209,President,,LIB,Gary Johnson,31
-Marin,212209,President,,PF,Gloria Estela La Riva,0
 Marin,212209,President,,DEM,Hillary Clinton,678
 Marin,212209,President,,GRN,Jill Stein,12
-Marin,212209,President,,WI,Write-In,14
 Marin,212209,Proposition 51,,,No,405
 Marin,212209,Proposition 51,,,Yes,458
 Marin,212209,Proposition 52,,,No,233
@@ -2769,14 +2953,17 @@ Marin,212209,Proposition 66,,,No,497
 Marin,212209,Proposition 66,,,Yes,328
 Marin,212209,Proposition 67,,,No,240
 Marin,212209,Proposition 67,,,Yes,638
+Marin,212209,State Assembly,10,DEM,Marc Levine,540
+Marin,212209,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",207
+Marin,212209,U.S. House,2,REP,Dale K. Mensing,171
+Marin,212209,U.S. House,2,DEM,Jared W. Huffman,674
 Marin,212209,U.S. Senate,,DEM,Kamala D. Harris,607
 Marin,212209,U.S. Senate,,DEM,Loretta L. Sanchez,172
-Marin,212219,President,,REP/AI,Donald J. Trump,127
+Marin,212219,President,,REP,Donald J. Trump,127
 Marin,212219,President,,LIB,Gary Johnson,17
-Marin,212219,President,,PF,Gloria Estela La Riva,2
+Marin,212219,President,,PAF,Gloria Estela La Riva,2
 Marin,212219,President,,DEM,Hillary Clinton,633
 Marin,212219,President,,GRN,Jill Stein,12
-Marin,212219,President,,WI,Write-In,20
 Marin,212219,Proposition 51,,,No,366
 Marin,212219,Proposition 51,,,Yes,411
 Marin,212219,Proposition 52,,,No,162
@@ -2811,14 +2998,17 @@ Marin,212219,Proposition 66,,,No,455
 Marin,212219,Proposition 66,,,Yes,284
 Marin,212219,Proposition 67,,,No,197
 Marin,212219,Proposition 67,,,Yes,599
+Marin,212219,State Assembly,10,DEM,Marc Levine,502
+Marin,212219,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",175
+Marin,212219,U.S. House,2,REP,Dale K. Mensing,140
+Marin,212219,U.S. House,2,DEM,Jared W. Huffman,627
 Marin,212219,U.S. Senate,,DEM,Kamala D. Harris,551
 Marin,212219,U.S. Senate,,DEM,Loretta L. Sanchez,148
-Marin,212229,President,,REP/AI,Donald J. Trump,79
+Marin,212229,President,,REP,Donald J. Trump,79
 Marin,212229,President,,LIB,Gary Johnson,15
-Marin,212229,President,,PF,Gloria Estela La Riva,2
+Marin,212229,President,,PAF,Gloria Estela La Riva,2
 Marin,212229,President,,DEM,Hillary Clinton,468
 Marin,212229,President,,GRN,Jill Stein,20
-Marin,212229,President,,WI,Write-In,2
 Marin,212229,Proposition 51,,,No,242
 Marin,212229,Proposition 51,,,Yes,310
 Marin,212229,Proposition 52,,,No,109
@@ -2853,14 +3043,17 @@ Marin,212229,Proposition 66,,,No,372
 Marin,212229,Proposition 66,,,Yes,159
 Marin,212229,Proposition 67,,,No,95
 Marin,212229,Proposition 67,,,Yes,466
+Marin,212229,State Assembly,10,DEM,Marc Levine,358
+Marin,212229,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",135
+Marin,212229,U.S. House,2,REP,Dale K. Mensing,70
+Marin,212229,U.S. House,2,DEM,Jared W. Huffman,477
 Marin,212229,U.S. Senate,,DEM,Kamala D. Harris,432
 Marin,212229,U.S. Senate,,DEM,Loretta L. Sanchez,96
-Marin,212239,President,,REP/AI,Donald J. Trump,197
+Marin,212239,President,,REP,Donald J. Trump,197
 Marin,212239,President,,LIB,Gary Johnson,41
-Marin,212239,President,,PF,Gloria Estela La Riva,1
+Marin,212239,President,,PAF,Gloria Estela La Riva,1
 Marin,212239,President,,DEM,Hillary Clinton,689
 Marin,212239,President,,GRN,Jill Stein,11
-Marin,212239,President,,WI,Write-In,19
 Marin,212239,Proposition 51,,,No,481
 Marin,212239,Proposition 51,,,Yes,451
 Marin,212239,Proposition 52,,,No,242
@@ -2895,14 +3088,17 @@ Marin,212239,Proposition 66,,,No,484
 Marin,212239,Proposition 66,,,Yes,383
 Marin,212239,Proposition 67,,,No,284
 Marin,212239,Proposition 67,,,Yes,666
+Marin,212239,State Assembly,10,DEM,Marc Levine,613
+Marin,212239,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",187
+Marin,212239,U.S. House,2,REP,Dale K. Mensing,223
+Marin,212239,U.S. House,2,DEM,Jared W. Huffman,705
 Marin,212239,U.S. Senate,,DEM,Kamala D. Harris,649
 Marin,212239,U.S. Senate,,DEM,Loretta L. Sanchez,195
-Marin,212249,President,,REP/AI,Donald J. Trump,57
+Marin,212249,President,,REP,Donald J. Trump,57
 Marin,212249,President,,LIB,Gary Johnson,14
-Marin,212249,President,,PF,Gloria Estela La Riva,1
+Marin,212249,President,,PAF,Gloria Estela La Riva,1
 Marin,212249,President,,DEM,Hillary Clinton,297
 Marin,212249,President,,GRN,Jill Stein,7
-Marin,212249,President,,WI,Write-In,6
 Marin,212249,Proposition 51,,,No,167
 Marin,212249,Proposition 51,,,Yes,193
 Marin,212249,Proposition 52,,,No,91
@@ -2937,14 +3133,17 @@ Marin,212249,Proposition 66,,,No,211
 Marin,212249,Proposition 66,,,Yes,126
 Marin,212249,Proposition 67,,,No,96
 Marin,212249,Proposition 67,,,Yes,272
+Marin,212249,State Assembly,10,DEM,Marc Levine,233
+Marin,212249,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",87
+Marin,212249,U.S. House,2,REP,Dale K. Mensing,70
+Marin,212249,U.S. House,2,DEM,Jared W. Huffman,287
 Marin,212249,U.S. Senate,,DEM,Kamala D. Harris,265
 Marin,212249,U.S. Senate,,DEM,Loretta L. Sanchez,70
-Marin,212259,President,,REP/AI,Donald J. Trump,124
+Marin,212259,President,,REP,Donald J. Trump,124
 Marin,212259,President,,LIB,Gary Johnson,21
-Marin,212259,President,,PF,Gloria Estela La Riva,3
+Marin,212259,President,,PAF,Gloria Estela La Riva,3
 Marin,212259,President,,DEM,Hillary Clinton,688
 Marin,212259,President,,GRN,Jill Stein,14
-Marin,212259,President,,WI,Write-In,21
 Marin,212259,Proposition 51,,,No,356
 Marin,212259,Proposition 51,,,Yes,486
 Marin,212259,Proposition 52,,,No,182
@@ -2979,14 +3178,17 @@ Marin,212259,Proposition 66,,,No,490
 Marin,212259,Proposition 66,,,Yes,289
 Marin,212259,Proposition 67,,,No,213
 Marin,212259,Proposition 67,,,Yes,631
+Marin,212259,State Assembly,10,DEM,Marc Levine,568
+Marin,212259,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",153
+Marin,212259,U.S. House,2,REP,Dale K. Mensing,148
+Marin,212259,U.S. House,2,DEM,Jared W. Huffman,672
 Marin,212259,U.S. Senate,,DEM,Kamala D. Harris,615
 Marin,212259,U.S. Senate,,DEM,Loretta L. Sanchez,156
-Marin,212269,President,,REP/AI,Donald J. Trump,165
+Marin,212269,President,,REP,Donald J. Trump,165
 Marin,212269,President,,LIB,Gary Johnson,42
-Marin,212269,President,,PF,Gloria Estela La Riva,2
+Marin,212269,President,,PAF,Gloria Estela La Riva,2
 Marin,212269,President,,DEM,Hillary Clinton,793
 Marin,212269,President,,GRN,Jill Stein,9
-Marin,212269,President,,WI,Write-In,24
 Marin,212269,Proposition 51,,,No,452
 Marin,212269,Proposition 51,,,Yes,537
 Marin,212269,Proposition 52,,,No,239
@@ -3021,14 +3223,17 @@ Marin,212269,Proposition 66,,,No,550
 Marin,212269,Proposition 66,,,Yes,374
 Marin,212269,Proposition 67,,,No,285
 Marin,212269,Proposition 67,,,Yes,716
+Marin,212269,State Assembly,10,DEM,Marc Levine,675
+Marin,212269,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",179
+Marin,212269,U.S. House,2,REP,Dale K. Mensing,178
+Marin,212269,U.S. House,2,DEM,Jared W. Huffman,768
 Marin,212269,U.S. Senate,,DEM,Kamala D. Harris,724
 Marin,212269,U.S. Senate,,DEM,Loretta L. Sanchez,171
-Marin,212300,President,,REP/AI,Donald J. Trump,90
+Marin,212300,President,,REP,Donald J. Trump,90
 Marin,212300,President,,LIB,Gary Johnson,16
-Marin,212300,President,,PF,Gloria Estela La Riva,1
+Marin,212300,President,,PAF,Gloria Estela La Riva,1
 Marin,212300,President,,DEM,Hillary Clinton,536
 Marin,212300,President,,GRN,Jill Stein,15
-Marin,212300,President,,WI,Write-In,16
 Marin,212300,Proposition 51,,,No,281
 Marin,212300,Proposition 51,,,Yes,368
 Marin,212300,Proposition 52,,,No,147
@@ -3063,14 +3268,17 @@ Marin,212300,Proposition 66,,,No,354
 Marin,212300,Proposition 66,,,Yes,243
 Marin,212300,Proposition 67,,,No,153
 Marin,212300,Proposition 67,,,Yes,494
+Marin,212300,State Assembly,10,DEM,Marc Levine,443
+Marin,212300,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",146
+Marin,212300,U.S. House,2,REP,Dale K. Mensing,97
+Marin,212300,U.S. House,2,DEM,Jared W. Huffman,538
 Marin,212300,U.S. Senate,,DEM,Kamala D. Harris,499
 Marin,212300,U.S. Senate,,DEM,Loretta L. Sanchez,98
-Marin,301019,President,,REP/AI,Donald J. Trump,292
+Marin,301019,President,,REP,Donald J. Trump,292
 Marin,301019,President,,LIB,Gary Johnson,55
-Marin,301019,President,,PF,Gloria Estela La Riva,1
+Marin,301019,President,,PAF,Gloria Estela La Riva,1
 Marin,301019,President,,DEM,Hillary Clinton,889
 Marin,301019,President,,GRN,Jill Stein,13
-Marin,301019,President,,WI,Write-In,29
 Marin,301019,Proposition 51,,,No,603
 Marin,301019,Proposition 51,,,Yes,642
 Marin,301019,Proposition 52,,,No,364
@@ -3105,14 +3313,16 @@ Marin,301019,Proposition 66,,,No,671
 Marin,301019,Proposition 66,,,Yes,512
 Marin,301019,Proposition 67,,,No,388
 Marin,301019,Proposition 67,,,Yes,873
+Marin,301019,State Assembly,10,DEM,Marc Levine,771
+Marin,301019,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",295
+Marin,301019,U.S. House,2,REP,Dale K. Mensing,343
+Marin,301019,U.S. House,2,DEM,Jared W. Huffman,883
 Marin,301019,U.S. Senate,,DEM,Kamala D. Harris,885
 Marin,301019,U.S. Senate,,DEM,Loretta L. Sanchez,226
-Marin,305010,President,,REP/AI,Donald J. Trump,51
+Marin,305010,President,,REP,Donald J. Trump,51
 Marin,305010,President,,LIB,Gary Johnson,22
-Marin,305010,President,,PF,Gloria Estela La Riva,0
 Marin,305010,President,,DEM,Hillary Clinton,634
 Marin,305010,President,,GRN,Jill Stein,14
-Marin,305010,President,,WI,Write-In,8
 Marin,305010,Proposition 51,,,No,279
 Marin,305010,Proposition 51,,,Yes,412
 Marin,305010,Proposition 52,,,No,132
@@ -3147,14 +3357,17 @@ Marin,305010,Proposition 66,,,No,453
 Marin,305010,Proposition 66,,,Yes,190
 Marin,305010,Proposition 67,,,No,116
 Marin,305010,Proposition 67,,,Yes,588
+Marin,305010,State Assembly,10,DEM,Marc Levine,489
+Marin,305010,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",150
+Marin,305010,U.S. House,2,REP,Dale K. Mensing,68
+Marin,305010,U.S. House,2,DEM,Jared W. Huffman,622
 Marin,305010,U.S. Senate,,DEM,Kamala D. Harris,552
 Marin,305010,U.S. Senate,,DEM,Loretta L. Sanchez,118
-Marin,305020,President,,REP/AI,Donald J. Trump,40
+Marin,305020,President,,REP,Donald J. Trump,40
 Marin,305020,President,,LIB,Gary Johnson,16
-Marin,305020,President,,PF,Gloria Estela La Riva,1
+Marin,305020,President,,PAF,Gloria Estela La Riva,1
 Marin,305020,President,,DEM,Hillary Clinton,497
 Marin,305020,President,,GRN,Jill Stein,8
-Marin,305020,President,,WI,Write-In,10
 Marin,305020,Proposition 51,,,No,228
 Marin,305020,Proposition 51,,,Yes,332
 Marin,305020,Proposition 52,,,No,95
@@ -3189,14 +3402,17 @@ Marin,305020,Proposition 66,,,No,352
 Marin,305020,Proposition 66,,,Yes,161
 Marin,305020,Proposition 67,,,No,115
 Marin,305020,Proposition 67,,,Yes,449
+Marin,305020,State Assembly,10,DEM,Marc Levine,371
+Marin,305020,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",125
+Marin,305020,U.S. House,2,REP,Dale K. Mensing,66
+Marin,305020,U.S. House,2,DEM,Jared W. Huffman,492
 Marin,305020,U.S. Senate,,DEM,Kamala D. Harris,444
 Marin,305020,U.S. Senate,,DEM,Loretta L. Sanchez,79
-Marin,305029,President,,REP/AI,Donald J. Trump,44
+Marin,305029,President,,REP,Donald J. Trump,44
 Marin,305029,President,,LIB,Gary Johnson,20
-Marin,305029,President,,PF,Gloria Estela La Riva,1
+Marin,305029,President,,PAF,Gloria Estela La Riva,1
 Marin,305029,President,,DEM,Hillary Clinton,606
 Marin,305029,President,,GRN,Jill Stein,22
-Marin,305029,President,,WI,Write-In,19
 Marin,305029,Proposition 51,,,No,254
 Marin,305029,Proposition 51,,,Yes,418
 Marin,305029,Proposition 52,,,No,142
@@ -3231,14 +3447,17 @@ Marin,305029,Proposition 66,,,No,423
 Marin,305029,Proposition 66,,,Yes,203
 Marin,305029,Proposition 67,,,No,97
 Marin,305029,Proposition 67,,,Yes,584
+Marin,305029,State Assembly,10,DEM,Marc Levine,436
+Marin,305029,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",167
+Marin,305029,U.S. House,2,REP,Dale K. Mensing,59
+Marin,305029,U.S. House,2,DEM,Jared W. Huffman,609
 Marin,305029,U.S. Senate,,DEM,Kamala D. Harris,512
 Marin,305029,U.S. Senate,,DEM,Loretta L. Sanchez,124
-Marin,305030,President,,REP/AI,Donald J. Trump,49
+Marin,305030,President,,REP,Donald J. Trump,49
 Marin,305030,President,,LIB,Gary Johnson,21
-Marin,305030,President,,PF,Gloria Estela La Riva,1
+Marin,305030,President,,PAF,Gloria Estela La Riva,1
 Marin,305030,President,,DEM,Hillary Clinton,643
 Marin,305030,President,,GRN,Jill Stein,16
-Marin,305030,President,,WI,Write-In,5
 Marin,305030,Proposition 51,,,No,268
 Marin,305030,Proposition 51,,,Yes,433
 Marin,305030,Proposition 52,,,No,120
@@ -3273,14 +3492,17 @@ Marin,305030,Proposition 66,,,No,458
 Marin,305030,Proposition 66,,,Yes,189
 Marin,305030,Proposition 67,,,No,113
 Marin,305030,Proposition 67,,,Yes,588
+Marin,305030,State Assembly,10,DEM,Marc Levine,492
+Marin,305030,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",151
+Marin,305030,U.S. House,2,REP,Dale K. Mensing,59
+Marin,305030,U.S. House,2,DEM,Jared W. Huffman,639
 Marin,305030,U.S. Senate,,DEM,Kamala D. Harris,587
 Marin,305030,U.S. Senate,,DEM,Loretta L. Sanchez,93
-Marin,305039,President,,REP/AI,Donald J. Trump,108
+Marin,305039,President,,REP,Donald J. Trump,108
 Marin,305039,President,,LIB,Gary Johnson,29
-Marin,305039,President,,PF,Gloria Estela La Riva,1
+Marin,305039,President,,PAF,Gloria Estela La Riva,1
 Marin,305039,President,,DEM,Hillary Clinton,1088
 Marin,305039,President,,GRN,Jill Stein,15
-Marin,305039,President,,WI,Write-In,16
 Marin,305039,Proposition 51,,,No,463
 Marin,305039,Proposition 51,,,Yes,751
 Marin,305039,Proposition 52,,,No,225
@@ -3315,14 +3537,17 @@ Marin,305039,Proposition 66,,,No,739
 Marin,305039,Proposition 66,,,Yes,386
 Marin,305039,Proposition 67,,,No,230
 Marin,305039,Proposition 67,,,Yes,993
+Marin,305039,State Assembly,10,DEM,Marc Levine,852
+Marin,305039,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",249
+Marin,305039,U.S. House,2,REP,Dale K. Mensing,140
+Marin,305039,U.S. House,2,DEM,Jared W. Huffman,1071
 Marin,305039,U.S. Senate,,DEM,Kamala D. Harris,989
 Marin,305039,U.S. Senate,,DEM,Loretta L. Sanchez,180
-Marin,305049,President,,REP/AI,Donald J. Trump,60
+Marin,305049,President,,REP,Donald J. Trump,60
 Marin,305049,President,,LIB,Gary Johnson,12
-Marin,305049,President,,PF,Gloria Estela La Riva,1
+Marin,305049,President,,PAF,Gloria Estela La Riva,1
 Marin,305049,President,,DEM,Hillary Clinton,610
 Marin,305049,President,,GRN,Jill Stein,17
-Marin,305049,President,,WI,Write-In,9
 Marin,305049,Proposition 51,,,No,213
 Marin,305049,Proposition 51,,,Yes,449
 Marin,305049,Proposition 52,,,No,139
@@ -3357,14 +3582,17 @@ Marin,305049,Proposition 66,,,No,431
 Marin,305049,Proposition 66,,,Yes,184
 Marin,305049,Proposition 67,,,No,117
 Marin,305049,Proposition 67,,,Yes,559
+Marin,305049,State Assembly,10,DEM,Marc Levine,463
+Marin,305049,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",148
+Marin,305049,U.S. House,2,REP,Dale K. Mensing,66
+Marin,305049,U.S. House,2,DEM,Jared W. Huffman,606
 Marin,305049,U.S. Senate,,DEM,Kamala D. Harris,546
 Marin,305049,U.S. Senate,,DEM,Loretta L. Sanchez,93
-Marin,305050,President,,REP/AI,Donald J. Trump,62
+Marin,305050,President,,REP,Donald J. Trump,62
 Marin,305050,President,,LIB,Gary Johnson,12
-Marin,305050,President,,PF,Gloria Estela La Riva,3
+Marin,305050,President,,PAF,Gloria Estela La Riva,3
 Marin,305050,President,,DEM,Hillary Clinton,572
 Marin,305050,President,,GRN,Jill Stein,10
-Marin,305050,President,,WI,Write-In,11
 Marin,305050,Proposition 51,,,No,216
 Marin,305050,Proposition 51,,,Yes,399
 Marin,305050,Proposition 52,,,No,128
@@ -3399,14 +3627,16 @@ Marin,305050,Proposition 66,,,No,384
 Marin,305050,Proposition 66,,,Yes,196
 Marin,305050,Proposition 67,,,No,122
 Marin,305050,Proposition 67,,,Yes,516
+Marin,305050,State Assembly,10,DEM,Marc Levine,413
+Marin,305050,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",157
+Marin,305050,U.S. House,2,REP,Dale K. Mensing,73
+Marin,305050,U.S. House,2,DEM,Jared W. Huffman,553
 Marin,305050,U.S. Senate,,DEM,Kamala D. Harris,491
 Marin,305050,U.S. Senate,,DEM,Loretta L. Sanchez,108
-Marin,305059,President,,REP/AI,Donald J. Trump,175
+Marin,305059,President,,REP,Donald J. Trump,175
 Marin,305059,President,,LIB,Gary Johnson,29
-Marin,305059,President,,PF,Gloria Estela La Riva,0
 Marin,305059,President,,DEM,Hillary Clinton,1223
 Marin,305059,President,,GRN,Jill Stein,24
-Marin,305059,President,,WI,Write-In,19
 Marin,305059,Proposition 51,,,No,562
 Marin,305059,Proposition 51,,,Yes,835
 Marin,305059,Proposition 52,,,No,265
@@ -3441,14 +3671,17 @@ Marin,305059,Proposition 66,,,No,858
 Marin,305059,Proposition 66,,,Yes,442
 Marin,305059,Proposition 67,,,No,314
 Marin,305059,Proposition 67,,,Yes,1096
+Marin,305059,State Assembly,10,DEM,Marc Levine,955
+Marin,305059,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",320
+Marin,305059,U.S. House,2,REP,Dale K. Mensing,191
+Marin,305059,U.S. House,2,DEM,Jared W. Huffman,1210
 Marin,305059,U.S. Senate,,DEM,Kamala D. Harris,1084
 Marin,305059,U.S. Senate,,DEM,Loretta L. Sanchez,269
-Marin,305069,President,,REP/AI,Donald J. Trump,126
+Marin,305069,President,,REP,Donald J. Trump,126
 Marin,305069,President,,LIB,Gary Johnson,38
-Marin,305069,President,,PF,Gloria Estela La Riva,1
+Marin,305069,President,,PAF,Gloria Estela La Riva,1
 Marin,305069,President,,DEM,Hillary Clinton,1335
 Marin,305069,President,,GRN,Jill Stein,22
-Marin,305069,President,,WI,Write-In,27
 Marin,305069,Proposition 51,,,No,506
 Marin,305069,Proposition 51,,,Yes,980
 Marin,305069,Proposition 52,,,No,266
@@ -3483,14 +3716,17 @@ Marin,305069,Proposition 66,,,No,937
 Marin,305069,Proposition 66,,,Yes,455
 Marin,305069,Proposition 67,,,No,288
 Marin,305069,Proposition 67,,,Yes,1179
+Marin,305069,State Assembly,10,DEM,Marc Levine,1036
+Marin,305069,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",324
+Marin,305069,U.S. House,2,REP,Dale K. Mensing,153
+Marin,305069,U.S. House,2,DEM,Jared W. Huffman,1313
 Marin,305069,U.S. Senate,,DEM,Kamala D. Harris,1151
 Marin,305069,U.S. Senate,,DEM,Loretta L. Sanchez,275
-Marin,305090,President,,REP/AI,Donald J. Trump,44
+Marin,305090,President,,REP,Donald J. Trump,44
 Marin,305090,President,,LIB,Gary Johnson,19
-Marin,305090,President,,PF,Gloria Estela La Riva,1
+Marin,305090,President,,PAF,Gloria Estela La Riva,1
 Marin,305090,President,,DEM,Hillary Clinton,569
 Marin,305090,President,,GRN,Jill Stein,15
-Marin,305090,President,,WI,Write-In,7
 Marin,305090,Proposition 51,,,No,225
 Marin,305090,Proposition 51,,,Yes,398
 Marin,305090,Proposition 52,,,No,93
@@ -3525,14 +3761,17 @@ Marin,305090,Proposition 66,,,No,365
 Marin,305090,Proposition 66,,,Yes,198
 Marin,305090,Proposition 67,,,No,101
 Marin,305090,Proposition 67,,,Yes,524
+Marin,305090,State Assembly,10,DEM,Marc Levine,425
+Marin,305090,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",132
+Marin,305090,U.S. House,2,REP,Dale K. Mensing,64
+Marin,305090,U.S. House,2,DEM,Jared W. Huffman,544
 Marin,305090,U.S. Senate,,DEM,Kamala D. Harris,517
 Marin,305090,U.S. Senate,,DEM,Loretta L. Sanchez,74
-Marin,310079,President,,REP/AI,Donald J. Trump,117
+Marin,310079,President,,REP,Donald J. Trump,117
 Marin,310079,President,,LIB,Gary Johnson,24
-Marin,310079,President,,PF,Gloria Estela La Riva,2
+Marin,310079,President,,PAF,Gloria Estela La Riva,2
 Marin,310079,President,,DEM,Hillary Clinton,760
 Marin,310079,President,,GRN,Jill Stein,25
-Marin,310079,President,,WI,Write-In,15
 Marin,310079,Proposition 51,,,No,345
 Marin,310079,Proposition 51,,,Yes,543
 Marin,310079,Proposition 52,,,No,196
@@ -3567,14 +3806,17 @@ Marin,310079,Proposition 66,,,No,537
 Marin,310079,Proposition 66,,,Yes,283
 Marin,310079,Proposition 67,,,No,196
 Marin,310079,Proposition 67,,,Yes,682
+Marin,310079,State Assembly,10,DEM,Marc Levine,517
+Marin,310079,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",243
+Marin,310079,U.S. House,2,REP,Dale K. Mensing,144
+Marin,310079,U.S. House,2,DEM,Jared W. Huffman,732
 Marin,310079,U.S. Senate,,DEM,Kamala D. Harris,664
 Marin,310079,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Marin,310089,President,,REP/AI,Donald J. Trump,165
+Marin,310089,President,,REP,Donald J. Trump,165
 Marin,310089,President,,LIB,Gary Johnson,35
-Marin,310089,President,,PF,Gloria Estela La Riva,1
+Marin,310089,President,,PAF,Gloria Estela La Riva,1
 Marin,310089,President,,DEM,Hillary Clinton,1002
 Marin,310089,President,,GRN,Jill Stein,23
-Marin,310089,President,,WI,Write-In,21
 Marin,310089,Proposition 51,,,No,501
 Marin,310089,Proposition 51,,,Yes,684
 Marin,310089,Proposition 52,,,No,269
@@ -3609,14 +3851,16 @@ Marin,310089,Proposition 66,,,No,702
 Marin,310089,Proposition 66,,,Yes,416
 Marin,310089,Proposition 67,,,No,278
 Marin,310089,Proposition 67,,,Yes,936
+Marin,310089,State Assembly,10,DEM,Marc Levine,706
+Marin,310089,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",323
+Marin,310089,U.S. House,2,REP,Dale K. Mensing,191
+Marin,310089,U.S. House,2,DEM,Jared W. Huffman,970
 Marin,310089,U.S. Senate,,DEM,Kamala D. Harris,894
 Marin,310089,U.S. Senate,,DEM,Loretta L. Sanchez,202
-Marin,310099,President,,REP/AI,Donald J. Trump,109
+Marin,310099,President,,REP,Donald J. Trump,109
 Marin,310099,President,,LIB,Gary Johnson,37
-Marin,310099,President,,PF,Gloria Estela La Riva,0
 Marin,310099,President,,DEM,Hillary Clinton,946
 Marin,310099,President,,GRN,Jill Stein,26
-Marin,310099,President,,WI,Write-In,22
 Marin,310099,Proposition 51,,,No,443
 Marin,310099,Proposition 51,,,Yes,620
 Marin,310099,Proposition 52,,,No,233
@@ -3651,14 +3895,17 @@ Marin,310099,Proposition 66,,,No,658
 Marin,310099,Proposition 66,,,Yes,334
 Marin,310099,Proposition 67,,,No,205
 Marin,310099,Proposition 67,,,Yes,881
+Marin,310099,State Assembly,10,DEM,Marc Levine,654
+Marin,310099,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",285
+Marin,310099,U.S. House,2,REP,Dale K. Mensing,137
+Marin,310099,U.S. House,2,DEM,Jared W. Huffman,909
 Marin,310099,U.S. Senate,,DEM,Kamala D. Harris,834
 Marin,310099,U.S. Senate,,DEM,Loretta L. Sanchez,179
-Marin,310310,President,,REP/AI,Donald J. Trump,103
+Marin,310310,President,,REP,Donald J. Trump,103
 Marin,310310,President,,LIB,Gary Johnson,12
-Marin,310310,President,,PF,Gloria Estela La Riva,2
+Marin,310310,President,,PAF,Gloria Estela La Riva,2
 Marin,310310,President,,DEM,Hillary Clinton,502
 Marin,310310,President,,GRN,Jill Stein,10
-Marin,310310,President,,WI,Write-In,10
 Marin,310310,Proposition 51,,,No,274
 Marin,310310,Proposition 51,,,Yes,328
 Marin,310310,Proposition 52,,,No,135
@@ -3693,14 +3940,16 @@ Marin,310310,Proposition 66,,,No,352
 Marin,310310,Proposition 66,,,Yes,224
 Marin,310310,Proposition 67,,,No,162
 Marin,310310,Proposition 67,,,Yes,449
+Marin,310310,State Assembly,10,DEM,Marc Levine,392
+Marin,310310,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",169
+Marin,310310,U.S. House,2,REP,Dale K. Mensing,112
+Marin,310310,U.S. House,2,DEM,Jared W. Huffman,499
 Marin,310310,U.S. Senate,,DEM,Kamala D. Harris,466
 Marin,310310,U.S. Senate,,DEM,Loretta L. Sanchez,116
-Marin,310410,President,,REP/AI,Donald J. Trump,142
+Marin,310410,President,,REP,Donald J. Trump,142
 Marin,310410,President,,LIB,Gary Johnson,44
-Marin,310410,President,,PF,Gloria Estela La Riva,0
 Marin,310410,President,,DEM,Hillary Clinton,614
 Marin,310410,President,,GRN,Jill Stein,7
-Marin,310410,President,,WI,Write-In,7
 Marin,310410,Proposition 51,,,No,353
 Marin,310410,Proposition 51,,,Yes,430
 Marin,310410,Proposition 52,,,No,201
@@ -3735,14 +3984,17 @@ Marin,310410,Proposition 66,,,No,464
 Marin,310410,Proposition 66,,,Yes,263
 Marin,310410,Proposition 67,,,No,206
 Marin,310410,Proposition 67,,,Yes,585
+Marin,310410,State Assembly,10,DEM,Marc Levine,456
+Marin,310410,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",198
+Marin,310410,U.S. House,2,REP,Dale K. Mensing,168
+Marin,310410,U.S. House,2,DEM,Jared W. Huffman,600
 Marin,310410,U.S. Senate,,DEM,Kamala D. Harris,576
 Marin,310410,U.S. Senate,,DEM,Loretta L. Sanchez,153
-Marin,311109,President,,REP/AI,Donald J. Trump,246
+Marin,311109,President,,REP,Donald J. Trump,246
 Marin,311109,President,,LIB,Gary Johnson,67
-Marin,311109,President,,PF,Gloria Estela La Riva,3
+Marin,311109,President,,PAF,Gloria Estela La Riva,3
 Marin,311109,President,,DEM,Hillary Clinton,876
 Marin,311109,President,,GRN,Jill Stein,20
-Marin,311109,President,,WI,Write-In,32
 Marin,311109,Proposition 51,,,No,575
 Marin,311109,Proposition 51,,,Yes,640
 Marin,311109,Proposition 52,,,No,321
@@ -3777,14 +4029,17 @@ Marin,311109,Proposition 66,,,No,652
 Marin,311109,Proposition 66,,,Yes,486
 Marin,311109,Proposition 67,,,No,390
 Marin,311109,Proposition 67,,,Yes,823
+Marin,311109,State Assembly,10,DEM,Marc Levine,717
+Marin,311109,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",325
+Marin,311109,U.S. House,2,REP,Dale K. Mensing,293
+Marin,311109,U.S. House,2,DEM,Jared W. Huffman,880
 Marin,311109,U.S. Senate,,DEM,Kamala D. Harris,822
 Marin,311109,U.S. Senate,,DEM,Loretta L. Sanchez,280
-Marin,311119,President,,REP/AI,Donald J. Trump,177
+Marin,311119,President,,REP,Donald J. Trump,177
 Marin,311119,President,,LIB,Gary Johnson,47
-Marin,311119,President,,PF,Gloria Estela La Riva,3
+Marin,311119,President,,PAF,Gloria Estela La Riva,3
 Marin,311119,President,,DEM,Hillary Clinton,891
 Marin,311119,President,,GRN,Jill Stein,20
-Marin,311119,President,,WI,Write-In,26
 Marin,311119,Proposition 51,,,No,500
 Marin,311119,Proposition 51,,,Yes,606
 Marin,311119,Proposition 52,,,No,293
@@ -3819,14 +4074,17 @@ Marin,311119,Proposition 66,,,No,594
 Marin,311119,Proposition 66,,,Yes,426
 Marin,311119,Proposition 67,,,No,322
 Marin,311119,Proposition 67,,,Yes,781
+Marin,311119,State Assembly,10,DEM,Marc Levine,671
+Marin,311119,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",272
+Marin,311119,U.S. House,2,REP,Dale K. Mensing,238
+Marin,311119,U.S. House,2,DEM,Jared W. Huffman,836
 Marin,311119,U.S. Senate,,DEM,Kamala D. Harris,781
 Marin,311119,U.S. Senate,,DEM,Loretta L. Sanchez,223
-Marin,311129,President,,REP/AI,Donald J. Trump,237
+Marin,311129,President,,REP,Donald J. Trump,237
 Marin,311129,President,,LIB,Gary Johnson,53
-Marin,311129,President,,PF,Gloria Estela La Riva,2
+Marin,311129,President,,PAF,Gloria Estela La Riva,2
 Marin,311129,President,,DEM,Hillary Clinton,985
 Marin,311129,President,,GRN,Jill Stein,19
-Marin,311129,President,,WI,Write-In,28
 Marin,311129,Proposition 51,,,No,575
 Marin,311129,Proposition 51,,,Yes,712
 Marin,311129,Proposition 52,,,No,316
@@ -3861,14 +4119,17 @@ Marin,311129,Proposition 66,,,No,684
 Marin,311129,Proposition 66,,,Yes,489
 Marin,311129,Proposition 67,,,No,368
 Marin,311129,Proposition 67,,,Yes,905
+Marin,311129,State Assembly,10,DEM,Marc Levine,769
+Marin,311129,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",317
+Marin,311129,U.S. House,2,REP,Dale K. Mensing,294
+Marin,311129,U.S. House,2,DEM,Jared W. Huffman,949
 Marin,311129,U.S. Senate,,DEM,Kamala D. Harris,905
 Marin,311129,U.S. Senate,,DEM,Loretta L. Sanchez,252
-Marin,311139,President,,REP/AI,Donald J. Trump,316
+Marin,311139,President,,REP,Donald J. Trump,316
 Marin,311139,President,,LIB,Gary Johnson,72
-Marin,311139,President,,PF,Gloria Estela La Riva,2
+Marin,311139,President,,PAF,Gloria Estela La Riva,2
 Marin,311139,President,,DEM,Hillary Clinton,1081
 Marin,311139,President,,GRN,Jill Stein,17
-Marin,311139,President,,WI,Write-In,26
 Marin,311139,Proposition 51,,,No,697
 Marin,311139,Proposition 51,,,Yes,763
 Marin,311139,Proposition 52,,,No,417
@@ -3903,14 +4164,16 @@ Marin,311139,Proposition 66,,,No,792
 Marin,311139,Proposition 66,,,Yes,557
 Marin,311139,Proposition 67,,,No,454
 Marin,311139,Proposition 67,,,Yes,1021
+Marin,311139,State Assembly,10,DEM,Marc Levine,851
+Marin,311139,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",370
+Marin,311139,U.S. House,2,REP,Dale K. Mensing,371
+Marin,311139,U.S. House,2,DEM,Jared W. Huffman,1061
 Marin,311139,U.S. Senate,,DEM,Kamala D. Harris,982
 Marin,311139,U.S. Senate,,DEM,Loretta L. Sanchez,315
-Marin,312149,President,,REP/AI,Donald J. Trump,24
+Marin,312149,President,,REP,Donald J. Trump,24
 Marin,312149,President,,LIB,Gary Johnson,11
-Marin,312149,President,,PF,Gloria Estela La Riva,0
 Marin,312149,President,,DEM,Hillary Clinton,368
 Marin,312149,President,,GRN,Jill Stein,6
-Marin,312149,President,,WI,Write-In,5
 Marin,312149,Proposition 51,,,No,144
 Marin,312149,Proposition 51,,,Yes,252
 Marin,312149,Proposition 52,,,No,65
@@ -3945,14 +4208,17 @@ Marin,312149,Proposition 66,,,No,243
 Marin,312149,Proposition 66,,,Yes,116
 Marin,312149,Proposition 67,,,No,65
 Marin,312149,Proposition 67,,,Yes,332
+Marin,312149,State Assembly,10,DEM,Marc Levine,256
+Marin,312149,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",99
+Marin,312149,U.S. House,2,REP,Dale K. Mensing,39
+Marin,312149,U.S. House,2,DEM,Jared W. Huffman,353
 Marin,312149,U.S. Senate,,DEM,Kamala D. Harris,316
 Marin,312149,U.S. Senate,,DEM,Loretta L. Sanchez,68
-Marin,312159,President,,REP/AI,Donald J. Trump,105
+Marin,312159,President,,REP,Donald J. Trump,105
 Marin,312159,President,,LIB,Gary Johnson,33
-Marin,312159,President,,PF,Gloria Estela La Riva,1
+Marin,312159,President,,PAF,Gloria Estela La Riva,1
 Marin,312159,President,,DEM,Hillary Clinton,965
 Marin,312159,President,,GRN,Jill Stein,24
-Marin,312159,President,,WI,Write-In,13
 Marin,312159,Proposition 51,,,No,452
 Marin,312159,Proposition 51,,,Yes,641
 Marin,312159,Proposition 52,,,No,206
@@ -3987,14 +4253,17 @@ Marin,312159,Proposition 66,,,No,676
 Marin,312159,Proposition 66,,,Yes,334
 Marin,312159,Proposition 67,,,No,244
 Marin,312159,Proposition 67,,,Yes,843
+Marin,312159,State Assembly,10,DEM,Marc Levine,747
+Marin,312159,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",246
+Marin,312159,U.S. House,2,REP,Dale K. Mensing,106
+Marin,312159,U.S. House,2,DEM,Jared W. Huffman,965
 Marin,312159,U.S. Senate,,DEM,Kamala D. Harris,856
 Marin,312159,U.S. Senate,,DEM,Loretta L. Sanchez,179
-Marin,312169,President,,REP/AI,Donald J. Trump,137
+Marin,312169,President,,REP,Donald J. Trump,137
 Marin,312169,President,,LIB,Gary Johnson,44
-Marin,312169,President,,PF,Gloria Estela La Riva,3
+Marin,312169,President,,PAF,Gloria Estela La Riva,3
 Marin,312169,President,,DEM,Hillary Clinton,1197
 Marin,312169,President,,GRN,Jill Stein,29
-Marin,312169,President,,WI,Write-In,28
 Marin,312169,Proposition 51,,,No,545
 Marin,312169,Proposition 51,,,Yes,836
 Marin,312169,Proposition 52,,,No,295
@@ -4029,14 +4298,17 @@ Marin,312169,Proposition 66,,,No,851
 Marin,312169,Proposition 66,,,Yes,455
 Marin,312169,Proposition 67,,,No,277
 Marin,312169,Proposition 67,,,Yes,1128
+Marin,312169,State Assembly,10,DEM,Marc Levine,922
+Marin,312169,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",315
+Marin,312169,U.S. House,2,REP,Dale K. Mensing,174
+Marin,312169,U.S. House,2,DEM,Jared W. Huffman,1186
 Marin,312169,U.S. Senate,,DEM,Kamala D. Harris,1085
 Marin,312169,U.S. Senate,,DEM,Loretta L. Sanchez,230
-Marin,312179,President,,REP/AI,Donald J. Trump,67
+Marin,312179,President,,REP,Donald J. Trump,67
 Marin,312179,President,,LIB,Gary Johnson,26
-Marin,312179,President,,PF,Gloria Estela La Riva,6
+Marin,312179,President,,PAF,Gloria Estela La Riva,6
 Marin,312179,President,,DEM,Hillary Clinton,547
 Marin,312179,President,,GRN,Jill Stein,13
-Marin,312179,President,,WI,Write-In,17
 Marin,312179,Proposition 51,,,No,270
 Marin,312179,Proposition 51,,,Yes,374
 Marin,312179,Proposition 52,,,No,126
@@ -4071,14 +4343,17 @@ Marin,312179,Proposition 66,,,No,392
 Marin,312179,Proposition 66,,,Yes,208
 Marin,312179,Proposition 67,,,No,142
 Marin,312179,Proposition 67,,,Yes,501
+Marin,312179,State Assembly,10,DEM,Marc Levine,412
+Marin,312179,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",147
+Marin,312179,U.S. House,2,REP,Dale K. Mensing,90
+Marin,312179,U.S. House,2,DEM,Jared W. Huffman,540
 Marin,312179,U.S. Senate,,DEM,Kamala D. Harris,498
 Marin,312179,U.S. Senate,,DEM,Loretta L. Sanchez,108
-Marin,312189,President,,REP/AI,Donald J. Trump,99
+Marin,312189,President,,REP,Donald J. Trump,99
 Marin,312189,President,,LIB,Gary Johnson,32
-Marin,312189,President,,PF,Gloria Estela La Riva,3
+Marin,312189,President,,PAF,Gloria Estela La Riva,3
 Marin,312189,President,,DEM,Hillary Clinton,954
 Marin,312189,President,,GRN,Jill Stein,13
-Marin,312189,President,,WI,Write-In,19
 Marin,312189,Proposition 51,,,No,374
 Marin,312189,Proposition 51,,,Yes,684
 Marin,312189,Proposition 52,,,No,193
@@ -4113,14 +4388,17 @@ Marin,312189,Proposition 66,,,No,649
 Marin,312189,Proposition 66,,,Yes,339
 Marin,312189,Proposition 67,,,No,220
 Marin,312189,Proposition 67,,,Yes,862
+Marin,312189,State Assembly,10,DEM,Marc Levine,724
+Marin,312189,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",238
+Marin,312189,U.S. House,2,REP,Dale K. Mensing,122
+Marin,312189,U.S. House,2,DEM,Jared W. Huffman,938
 Marin,312189,U.S. Senate,,DEM,Kamala D. Harris,853
 Marin,312189,U.S. Senate,,DEM,Loretta L. Sanchez,166
-Marin,312199,President,,REP/AI,Donald J. Trump,40
+Marin,312199,President,,REP,Donald J. Trump,40
 Marin,312199,President,,LIB,Gary Johnson,6
-Marin,312199,President,,PF,Gloria Estela La Riva,7
+Marin,312199,President,,PAF,Gloria Estela La Riva,7
 Marin,312199,President,,DEM,Hillary Clinton,527
 Marin,312199,President,,GRN,Jill Stein,12
-Marin,312199,President,,WI,Write-In,10
 Marin,312199,Proposition 51,,,No,141
 Marin,312199,Proposition 51,,,Yes,444
 Marin,312199,Proposition 52,,,No,83
@@ -4155,14 +4433,17 @@ Marin,312199,Proposition 66,,,No,381
 Marin,312199,Proposition 66,,,Yes,161
 Marin,312199,Proposition 67,,,No,172
 Marin,312199,Proposition 67,,,Yes,395
+Marin,312199,State Assembly,10,DEM,Marc Levine,360
+Marin,312199,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",178
+Marin,312199,U.S. House,2,REP,Dale K. Mensing,44
+Marin,312199,U.S. House,2,DEM,Jared W. Huffman,527
 Marin,312199,U.S. Senate,,DEM,Kamala D. Harris,467
 Marin,312199,U.S. Senate,,DEM,Loretta L. Sanchez,101
-Marin,312209,President,,REP/AI,Donald J. Trump,102
+Marin,312209,President,,REP,Donald J. Trump,102
 Marin,312209,President,,LIB,Gary Johnson,21
-Marin,312209,President,,PF,Gloria Estela La Riva,3
+Marin,312209,President,,PAF,Gloria Estela La Riva,3
 Marin,312209,President,,DEM,Hillary Clinton,1073
 Marin,312209,President,,GRN,Jill Stein,21
-Marin,312209,President,,WI,Write-In,22
 Marin,312209,Proposition 51,,,No,363
 Marin,312209,Proposition 51,,,Yes,810
 Marin,312209,Proposition 52,,,No,185
@@ -4197,14 +4478,17 @@ Marin,312209,Proposition 66,,,No,754
 Marin,312209,Proposition 66,,,Yes,356
 Marin,312209,Proposition 67,,,No,268
 Marin,312209,Proposition 67,,,Yes,927
+Marin,312209,State Assembly,10,DEM,Marc Levine,802
+Marin,312209,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",290
+Marin,312209,U.S. House,2,REP,Dale K. Mensing,95
+Marin,312209,U.S. House,2,DEM,Jared W. Huffman,1086
 Marin,312209,U.S. Senate,,DEM,Kamala D. Harris,935
 Marin,312209,U.S. Senate,,DEM,Loretta L. Sanchez,207
-Marin,312219,President,,REP/AI,Donald J. Trump,151
+Marin,312219,President,,REP,Donald J. Trump,151
 Marin,312219,President,,LIB,Gary Johnson,35
-Marin,312219,President,,PF,Gloria Estela La Riva,1
+Marin,312219,President,,PAF,Gloria Estela La Riva,1
 Marin,312219,President,,DEM,Hillary Clinton,769
 Marin,312219,President,,GRN,Jill Stein,17
-Marin,312219,President,,WI,Write-In,10
 Marin,312219,Proposition 51,,,No,439
 Marin,312219,Proposition 51,,,Yes,503
 Marin,312219,Proposition 52,,,No,207
@@ -4239,14 +4523,17 @@ Marin,312219,Proposition 66,,,No,514
 Marin,312219,Proposition 66,,,Yes,361
 Marin,312219,Proposition 67,,,No,245
 Marin,312219,Proposition 67,,,Yes,699
+Marin,312219,State Assembly,10,DEM,Marc Levine,592
+Marin,312219,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",224
+Marin,312219,U.S. House,2,REP,Dale K. Mensing,160
+Marin,312219,U.S. House,2,DEM,Jared W. Huffman,757
 Marin,312219,U.S. Senate,,DEM,Kamala D. Harris,671
 Marin,312219,U.S. Senate,,DEM,Loretta L. Sanchez,209
-Marin,312229,President,,REP/AI,Donald J. Trump,56
+Marin,312229,President,,REP,Donald J. Trump,56
 Marin,312229,President,,LIB,Gary Johnson,23
-Marin,312229,President,,PF,Gloria Estela La Riva,2
+Marin,312229,President,,PAF,Gloria Estela La Riva,2
 Marin,312229,President,,DEM,Hillary Clinton,279
 Marin,312229,President,,GRN,Jill Stein,8
-Marin,312229,President,,WI,Write-In,8
 Marin,312229,Proposition 51,,,No,138
 Marin,312229,Proposition 51,,,Yes,221
 Marin,312229,Proposition 52,,,No,74
@@ -4281,14 +4568,17 @@ Marin,312229,Proposition 66,,,No,210
 Marin,312229,Proposition 66,,,Yes,130
 Marin,312229,Proposition 67,,,No,106
 Marin,312229,Proposition 67,,,Yes,255
+Marin,312229,State Assembly,10,DEM,Marc Levine,218
+Marin,312229,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",105
+Marin,312229,U.S. House,2,REP,Dale K. Mensing,64
+Marin,312229,U.S. House,2,DEM,Jared W. Huffman,287
 Marin,312229,U.S. Senate,,DEM,Kamala D. Harris,242
 Marin,312229,U.S. Senate,,DEM,Loretta L. Sanchez,92
-Marin,312239,President,,REP/AI,Donald J. Trump,232
+Marin,312239,President,,REP,Donald J. Trump,232
 Marin,312239,President,,LIB,Gary Johnson,48
-Marin,312239,President,,PF,Gloria Estela La Riva,2
+Marin,312239,President,,PAF,Gloria Estela La Riva,2
 Marin,312239,President,,DEM,Hillary Clinton,918
 Marin,312239,President,,GRN,Jill Stein,24
-Marin,312239,President,,WI,Write-In,32
 Marin,312239,Proposition 51,,,No,552
 Marin,312239,Proposition 51,,,Yes,641
 Marin,312239,Proposition 52,,,No,313
@@ -4323,14 +4613,16 @@ Marin,312239,Proposition 66,,,No,636
 Marin,312239,Proposition 66,,,Yes,460
 Marin,312239,Proposition 67,,,No,338
 Marin,312239,Proposition 67,,,Yes,860
+Marin,312239,State Assembly,10,DEM,Marc Levine,771
+Marin,312239,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",280
+Marin,312239,U.S. House,2,REP,Dale K. Mensing,254
+Marin,312239,U.S. House,2,DEM,Jared W. Huffman,910
 Marin,312239,U.S. Senate,,DEM,Kamala D. Harris,832
 Marin,312239,U.S. Senate,,DEM,Loretta L. Sanchez,262
-Marin,312249,President,,REP/AI,Donald J. Trump,99
+Marin,312249,President,,REP,Donald J. Trump,99
 Marin,312249,President,,LIB,Gary Johnson,19
-Marin,312249,President,,PF,Gloria Estela La Riva,0
 Marin,312249,President,,DEM,Hillary Clinton,299
 Marin,312249,President,,GRN,Jill Stein,8
-Marin,312249,President,,WI,Write-In,12
 Marin,312249,Proposition 51,,,No,220
 Marin,312249,Proposition 51,,,Yes,197
 Marin,312249,Proposition 52,,,No,128
@@ -4365,14 +4657,17 @@ Marin,312249,Proposition 66,,,No,223
 Marin,312249,Proposition 66,,,Yes,181
 Marin,312249,Proposition 67,,,No,152
 Marin,312249,Proposition 67,,,Yes,272
+Marin,312249,State Assembly,10,DEM,Marc Levine,234
+Marin,312249,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",121
+Marin,312249,U.S. House,2,REP,Dale K. Mensing,117
+Marin,312249,U.S. House,2,DEM,Jared W. Huffman,286
 Marin,312249,U.S. Senate,,DEM,Kamala D. Harris,279
 Marin,312249,U.S. Senate,,DEM,Loretta L. Sanchez,99
-Marin,312250,President,,REP/AI,Donald J. Trump,55
+Marin,312250,President,,REP,Donald J. Trump,55
 Marin,312250,President,,LIB,Gary Johnson,10
-Marin,312250,President,,PF,Gloria Estela La Riva,2
+Marin,312250,President,,PAF,Gloria Estela La Riva,2
 Marin,312250,President,,DEM,Hillary Clinton,455
 Marin,312250,President,,GRN,Jill Stein,16
-Marin,312250,President,,WI,Write-In,7
 Marin,312250,Proposition 51,,,No,203
 Marin,312250,Proposition 51,,,Yes,315
 Marin,312250,Proposition 52,,,No,104
@@ -4407,14 +4702,17 @@ Marin,312250,Proposition 66,,,No,318
 Marin,312250,Proposition 66,,,Yes,162
 Marin,312250,Proposition 67,,,No,97
 Marin,312250,Proposition 67,,,Yes,420
+Marin,312250,State Assembly,10,DEM,Marc Levine,339
+Marin,312250,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",125
+Marin,312250,U.S. House,2,REP,Dale K. Mensing,51
+Marin,312250,U.S. House,2,DEM,Jared W. Huffman,457
 Marin,312250,U.S. Senate,,DEM,Kamala D. Harris,409
 Marin,312250,U.S. Senate,,DEM,Loretta L. Sanchez,83
-Marin,402019,President,,REP/AI,Donald J. Trump,126
+Marin,402019,President,,REP,Donald J. Trump,126
 Marin,402019,President,,LIB,Gary Johnson,29
-Marin,402019,President,,PF,Gloria Estela La Riva,3
+Marin,402019,President,,PAF,Gloria Estela La Riva,3
 Marin,402019,President,,DEM,Hillary Clinton,923
 Marin,402019,President,,GRN,Jill Stein,14
-Marin,402019,President,,WI,Write-In,28
 Marin,402019,Proposition 51,,,No,440
 Marin,402019,Proposition 51,,,Yes,632
 Marin,402019,Proposition 52,,,No,217
@@ -4449,14 +4747,17 @@ Marin,402019,Proposition 66,,,No,587
 Marin,402019,Proposition 66,,,Yes,393
 Marin,402019,Proposition 67,,,No,240
 Marin,402019,Proposition 67,,,Yes,843
+Marin,402019,State Assembly,10,DEM,Marc Levine,695
+Marin,402019,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",278
+Marin,402019,U.S. House,2,REP,Dale K. Mensing,155
+Marin,402019,U.S. House,2,DEM,Jared W. Huffman,900
 Marin,402019,U.S. Senate,,DEM,Kamala D. Harris,787
 Marin,402019,U.S. Senate,,DEM,Loretta L. Sanchez,212
-Marin,402029,President,,REP/AI,Donald J. Trump,153
+Marin,402029,President,,REP,Donald J. Trump,153
 Marin,402029,President,,LIB,Gary Johnson,38
-Marin,402029,President,,PF,Gloria Estela La Riva,1
+Marin,402029,President,,PAF,Gloria Estela La Riva,1
 Marin,402029,President,,DEM,Hillary Clinton,1055
 Marin,402029,President,,GRN,Jill Stein,13
-Marin,402029,President,,WI,Write-In,25
 Marin,402029,Proposition 51,,,No,530
 Marin,402029,Proposition 51,,,Yes,683
 Marin,402029,Proposition 52,,,No,241
@@ -4491,14 +4792,16 @@ Marin,402029,Proposition 66,,,No,667
 Marin,402029,Proposition 66,,,Yes,430
 Marin,402029,Proposition 67,,,No,300
 Marin,402029,Proposition 67,,,Yes,906
+Marin,402029,State Assembly,10,DEM,Marc Levine,851
+Marin,402029,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",241
+Marin,402029,U.S. House,2,REP,Dale K. Mensing,164
+Marin,402029,U.S. House,2,DEM,Jared W. Huffman,1027
 Marin,402029,U.S. Senate,,DEM,Kamala D. Harris,957
 Marin,402029,U.S. Senate,,DEM,Loretta L. Sanchez,201
-Marin,402039,President,,REP/AI,Donald J. Trump,96
+Marin,402039,President,,REP,Donald J. Trump,96
 Marin,402039,President,,LIB,Gary Johnson,19
-Marin,402039,President,,PF,Gloria Estela La Riva,0
 Marin,402039,President,,DEM,Hillary Clinton,472
 Marin,402039,President,,GRN,Jill Stein,4
-Marin,402039,President,,WI,Write-In,9
 Marin,402039,Proposition 51,,,No,245
 Marin,402039,Proposition 51,,,Yes,336
 Marin,402039,Proposition 52,,,No,137
@@ -4533,14 +4836,17 @@ Marin,402039,Proposition 66,,,No,312
 Marin,402039,Proposition 66,,,Yes,224
 Marin,402039,Proposition 67,,,No,173
 Marin,402039,Proposition 67,,,Yes,399
+Marin,402039,State Assembly,10,DEM,Marc Levine,373
+Marin,402039,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",125
+Marin,402039,U.S. House,2,REP,Dale K. Mensing,105
+Marin,402039,U.S. House,2,DEM,Jared W. Huffman,443
 Marin,402039,U.S. Senate,,DEM,Kamala D. Harris,418
 Marin,402039,U.S. Senate,,DEM,Loretta L. Sanchez,116
-Marin,402049,President,,REP/AI,Donald J. Trump,184
+Marin,402049,President,,REP,Donald J. Trump,184
 Marin,402049,President,,LIB,Gary Johnson,42
-Marin,402049,President,,PF,Gloria Estela La Riva,3
+Marin,402049,President,,PAF,Gloria Estela La Riva,3
 Marin,402049,President,,DEM,Hillary Clinton,921
 Marin,402049,President,,GRN,Jill Stein,13
-Marin,402049,President,,WI,Write-In,20
 Marin,402049,Proposition 51,,,No,517
 Marin,402049,Proposition 51,,,Yes,625
 Marin,402049,Proposition 52,,,No,306
@@ -4575,14 +4881,17 @@ Marin,402049,Proposition 66,,,No,606
 Marin,402049,Proposition 66,,,Yes,425
 Marin,402049,Proposition 67,,,No,336
 Marin,402049,Proposition 67,,,Yes,778
+Marin,402049,State Assembly,10,DEM,Marc Levine,723
+Marin,402049,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",274
+Marin,402049,U.S. House,2,REP,Dale K. Mensing,206
+Marin,402049,U.S. House,2,DEM,Jared W. Huffman,904
 Marin,402049,U.S. Senate,,DEM,Kamala D. Harris,817
 Marin,402049,U.S. Senate,,DEM,Loretta L. Sanchez,231
-Marin,402059,President,,REP/AI,Donald J. Trump,92
+Marin,402059,President,,REP,Donald J. Trump,92
 Marin,402059,President,,LIB,Gary Johnson,26
-Marin,402059,President,,PF,Gloria Estela La Riva,1
+Marin,402059,President,,PAF,Gloria Estela La Riva,1
 Marin,402059,President,,DEM,Hillary Clinton,529
 Marin,402059,President,,GRN,Jill Stein,8
-Marin,402059,President,,WI,Write-In,13
 Marin,402059,Proposition 51,,,No,249
 Marin,402059,Proposition 51,,,Yes,382
 Marin,402059,Proposition 52,,,No,152
@@ -4617,14 +4926,16 @@ Marin,402059,Proposition 66,,,No,350
 Marin,402059,Proposition 66,,,Yes,225
 Marin,402059,Proposition 67,,,No,164
 Marin,402059,Proposition 67,,,Yes,462
+Marin,402059,State Assembly,10,DEM,Marc Levine,414
+Marin,402059,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",138
+Marin,402059,U.S. House,2,REP,Dale K. Mensing,114
+Marin,402059,U.S. House,2,DEM,Jared W. Huffman,524
 Marin,402059,U.S. Senate,,DEM,Kamala D. Harris,466
 Marin,402059,U.S. Senate,,DEM,Loretta L. Sanchez,124
-Marin,402230,President,,REP/AI,Donald J. Trump,50
+Marin,402230,President,,REP,Donald J. Trump,50
 Marin,402230,President,,LIB,Gary Johnson,27
-Marin,402230,President,,PF,Gloria Estela La Riva,0
 Marin,402230,President,,DEM,Hillary Clinton,593
 Marin,402230,President,,GRN,Jill Stein,26
-Marin,402230,President,,WI,Write-In,15
 Marin,402230,Proposition 51,,,No,280
 Marin,402230,Proposition 51,,,Yes,406
 Marin,402230,Proposition 52,,,No,155
@@ -4659,14 +4970,17 @@ Marin,402230,Proposition 66,,,No,408
 Marin,402230,Proposition 66,,,Yes,223
 Marin,402230,Proposition 67,,,No,138
 Marin,402230,Proposition 67,,,Yes,549
+Marin,402230,State Assembly,10,DEM,Marc Levine,473
+Marin,402230,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",152
+Marin,402230,U.S. House,2,REP,Dale K. Mensing,70
+Marin,402230,U.S. House,2,DEM,Jared W. Huffman,603
 Marin,402230,U.S. Senate,,DEM,Kamala D. Harris,517
 Marin,402230,U.S. Senate,,DEM,Loretta L. Sanchez,123
-Marin,404069,President,,REP/AI,Donald J. Trump,59
+Marin,404069,President,,REP,Donald J. Trump,59
 Marin,404069,President,,LIB,Gary Johnson,14
-Marin,404069,President,,PF,Gloria Estela La Riva,1
+Marin,404069,President,,PAF,Gloria Estela La Riva,1
 Marin,404069,President,,DEM,Hillary Clinton,215
 Marin,404069,President,,GRN,Jill Stein,3
-Marin,404069,President,,WI,Write-In,7
 Marin,404069,Proposition 51,,,No,153
 Marin,404069,Proposition 51,,,Yes,143
 Marin,404069,Proposition 52,,,No,75
@@ -4701,14 +5015,17 @@ Marin,404069,Proposition 66,,,No,164
 Marin,404069,Proposition 66,,,Yes,116
 Marin,404069,Proposition 67,,,No,79
 Marin,404069,Proposition 67,,,Yes,217
+Marin,404069,State Assembly,10,DEM,Marc Levine,202
+Marin,404069,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",60
+Marin,404069,U.S. House,2,REP,Dale K. Mensing,64
+Marin,404069,U.S. House,2,DEM,Jared W. Huffman,227
 Marin,404069,U.S. Senate,,DEM,Kamala D. Harris,209
 Marin,404069,U.S. Senate,,DEM,Loretta L. Sanchez,71
-Marin,404079,President,,REP/AI,Donald J. Trump,81
+Marin,404079,President,,REP,Donald J. Trump,81
 Marin,404079,President,,LIB,Gary Johnson,14
-Marin,404079,President,,PF,Gloria Estela La Riva,3
+Marin,404079,President,,PAF,Gloria Estela La Riva,3
 Marin,404079,President,,DEM,Hillary Clinton,409
 Marin,404079,President,,GRN,Jill Stein,10
-Marin,404079,President,,WI,Write-In,13
 Marin,404079,Proposition 51,,,No,172
 Marin,404079,Proposition 51,,,Yes,321
 Marin,404079,Proposition 52,,,No,111
@@ -4743,14 +5060,17 @@ Marin,404079,Proposition 66,,,No,247
 Marin,404079,Proposition 66,,,Yes,209
 Marin,404079,Proposition 67,,,No,132
 Marin,404079,Proposition 67,,,Yes,361
+Marin,404079,State Assembly,10,DEM,Marc Levine,277
+Marin,404079,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",161
+Marin,404079,U.S. House,2,REP,Dale K. Mensing,81
+Marin,404079,U.S. House,2,DEM,Jared W. Huffman,397
 Marin,404079,U.S. Senate,,DEM,Kamala D. Harris,341
 Marin,404079,U.S. Senate,,DEM,Loretta L. Sanchez,117
-Marin,406089,President,,REP/AI,Donald J. Trump,303
+Marin,406089,President,,REP,Donald J. Trump,303
 Marin,406089,President,,LIB,Gary Johnson,39
-Marin,406089,President,,PF,Gloria Estela La Riva,4
+Marin,406089,President,,PAF,Gloria Estela La Riva,4
 Marin,406089,President,,DEM,Hillary Clinton,735
 Marin,406089,President,,GRN,Jill Stein,25
-Marin,406089,President,,WI,Write-In,16
 Marin,406089,Proposition 51,,,No,548
 Marin,406089,Proposition 51,,,Yes,541
 Marin,406089,Proposition 52,,,No,337
@@ -4785,14 +5105,17 @@ Marin,406089,Proposition 66,,,No,561
 Marin,406089,Proposition 66,,,Yes,446
 Marin,406089,Proposition 67,,,No,367
 Marin,406089,Proposition 67,,,Yes,716
+Marin,406089,State Assembly,10,DEM,Marc Levine,651
+Marin,406089,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",285
+Marin,406089,U.S. House,2,REP,Dale K. Mensing,263
+Marin,406089,U.S. House,2,DEM,Jared W. Huffman,788
 Marin,406089,U.S. Senate,,DEM,Kamala D. Harris,706
 Marin,406089,U.S. Senate,,DEM,Loretta L. Sanchez,249
-Marin,406099,President,,REP/AI,Donald J. Trump,296
+Marin,406099,President,,REP,Donald J. Trump,296
 Marin,406099,President,,LIB,Gary Johnson,41
-Marin,406099,President,,PF,Gloria Estela La Riva,4
+Marin,406099,President,,PAF,Gloria Estela La Riva,4
 Marin,406099,President,,DEM,Hillary Clinton,707
 Marin,406099,President,,GRN,Jill Stein,22
-Marin,406099,President,,WI,Write-In,14
 Marin,406099,Proposition 51,,,No,564
 Marin,406099,Proposition 51,,,Yes,476
 Marin,406099,Proposition 52,,,No,319
@@ -4827,14 +5150,17 @@ Marin,406099,Proposition 66,,,No,465
 Marin,406099,Proposition 66,,,Yes,494
 Marin,406099,Proposition 67,,,No,376
 Marin,406099,Proposition 67,,,Yes,652
+Marin,406099,State Assembly,10,DEM,Marc Levine,603
+Marin,406099,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",281
+Marin,406099,U.S. House,2,REP,Dale K. Mensing,261
+Marin,406099,U.S. House,2,DEM,Jared W. Huffman,742
 Marin,406099,U.S. Senate,,DEM,Kamala D. Harris,681
 Marin,406099,U.S. Senate,,DEM,Loretta L. Sanchez,256
-Marin,406109,President,,REP/AI,Donald J. Trump,286
+Marin,406109,President,,REP,Donald J. Trump,286
 Marin,406109,President,,LIB,Gary Johnson,51
-Marin,406109,President,,PF,Gloria Estela La Riva,8
+Marin,406109,President,,PAF,Gloria Estela La Riva,8
 Marin,406109,President,,DEM,Hillary Clinton,950
 Marin,406109,President,,GRN,Jill Stein,18
-Marin,406109,President,,WI,Write-In,19
 Marin,406109,Proposition 51,,,No,605
 Marin,406109,Proposition 51,,,Yes,686
 Marin,406109,Proposition 52,,,No,343
@@ -4869,14 +5195,17 @@ Marin,406109,Proposition 66,,,No,640
 Marin,406109,Proposition 66,,,Yes,558
 Marin,406109,Proposition 67,,,No,376
 Marin,406109,Proposition 67,,,Yes,896
+Marin,406109,State Assembly,10,DEM,Marc Levine,803
+Marin,406109,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",345
+Marin,406109,U.S. House,2,REP,Dale K. Mensing,278
+Marin,406109,U.S. House,2,DEM,Jared W. Huffman,978
 Marin,406109,U.S. Senate,,DEM,Kamala D. Harris,889
 Marin,406109,U.S. Senate,,DEM,Loretta L. Sanchez,290
-Marin,406119,President,,REP/AI,Donald J. Trump,196
+Marin,406119,President,,REP,Donald J. Trump,196
 Marin,406119,President,,LIB,Gary Johnson,24
-Marin,406119,President,,PF,Gloria Estela La Riva,1
+Marin,406119,President,,PAF,Gloria Estela La Riva,1
 Marin,406119,President,,DEM,Hillary Clinton,488
 Marin,406119,President,,GRN,Jill Stein,12
-Marin,406119,President,,WI,Write-In,15
 Marin,406119,Proposition 51,,,No,389
 Marin,406119,Proposition 51,,,Yes,321
 Marin,406119,Proposition 52,,,No,203
@@ -4911,14 +5240,17 @@ Marin,406119,Proposition 66,,,No,303
 Marin,406119,Proposition 66,,,Yes,345
 Marin,406119,Proposition 67,,,No,270
 Marin,406119,Proposition 67,,,Yes,433
+Marin,406119,State Assembly,10,DEM,Marc Levine,457
+Marin,406119,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",159
+Marin,406119,U.S. House,2,REP,Dale K. Mensing,197
+Marin,406119,U.S. House,2,DEM,Jared W. Huffman,501
 Marin,406119,U.S. Senate,,DEM,Kamala D. Harris,432
 Marin,406119,U.S. Senate,,DEM,Loretta L. Sanchez,203
-Marin,409129,President,,REP/AI,Donald J. Trump,138
+Marin,409129,President,,REP,Donald J. Trump,138
 Marin,409129,President,,LIB,Gary Johnson,29
-Marin,409129,President,,PF,Gloria Estela La Riva,2
+Marin,409129,President,,PAF,Gloria Estela La Riva,2
 Marin,409129,President,,DEM,Hillary Clinton,842
 Marin,409129,President,,GRN,Jill Stein,15
-Marin,409129,President,,WI,Write-In,14
 Marin,409129,Proposition 51,,,No,382
 Marin,409129,Proposition 51,,,Yes,599
 Marin,409129,Proposition 52,,,No,218
@@ -4953,14 +5285,17 @@ Marin,409129,Proposition 66,,,No,524
 Marin,409129,Proposition 66,,,Yes,400
 Marin,409129,Proposition 67,,,No,250
 Marin,409129,Proposition 67,,,Yes,734
+Marin,409129,State Assembly,10,DEM,Marc Levine,642
+Marin,409129,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",275
+Marin,409129,U.S. House,2,REP,Dale K. Mensing,144
+Marin,409129,U.S. House,2,DEM,Jared W. Huffman,829
 Marin,409129,U.S. Senate,,DEM,Kamala D. Harris,647
 Marin,409129,U.S. Senate,,DEM,Loretta L. Sanchez,295
-Marin,409460,President,,REP/AI,Donald J. Trump,58
+Marin,409460,President,,REP,Donald J. Trump,58
 Marin,409460,President,,LIB,Gary Johnson,4
-Marin,409460,President,,PF,Gloria Estela La Riva,3
+Marin,409460,President,,PAF,Gloria Estela La Riva,3
 Marin,409460,President,,DEM,Hillary Clinton,463
 Marin,409460,President,,GRN,Jill Stein,18
-Marin,409460,President,,WI,Write-In,11
 Marin,409460,Proposition 51,,,No,162
 Marin,409460,Proposition 51,,,Yes,361
 Marin,409460,Proposition 52,,,No,108
@@ -4995,14 +5330,17 @@ Marin,409460,Proposition 66,,,No,278
 Marin,409460,Proposition 66,,,Yes,213
 Marin,409460,Proposition 67,,,No,145
 Marin,409460,Proposition 67,,,Yes,366
+Marin,409460,State Assembly,10,DEM,Marc Levine,292
+Marin,409460,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",188
+Marin,409460,U.S. House,2,REP,Dale K. Mensing,56
+Marin,409460,U.S. House,2,DEM,Jared W. Huffman,458
 Marin,409460,U.S. Senate,,DEM,Kamala D. Harris,266
 Marin,409460,U.S. Senate,,DEM,Loretta L. Sanchez,231
-Marin,412139,President,,REP/AI,Donald J. Trump,117
+Marin,412139,President,,REP,Donald J. Trump,117
 Marin,412139,President,,LIB,Gary Johnson,23
-Marin,412139,President,,PF,Gloria Estela La Riva,4
+Marin,412139,President,,PAF,Gloria Estela La Riva,4
 Marin,412139,President,,DEM,Hillary Clinton,403
 Marin,412139,President,,GRN,Jill Stein,21
-Marin,412139,President,,WI,Write-In,18
 Marin,412139,Proposition 51,,,No,235
 Marin,412139,Proposition 51,,,Yes,322
 Marin,412139,Proposition 52,,,No,158
@@ -5037,14 +5375,17 @@ Marin,412139,Proposition 66,,,No,314
 Marin,412139,Proposition 66,,,Yes,208
 Marin,412139,Proposition 67,,,No,164
 Marin,412139,Proposition 67,,,Yes,403
+Marin,412139,State Assembly,10,DEM,Marc Levine,344
+Marin,412139,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",133
+Marin,412139,U.S. House,2,REP,Dale K. Mensing,107
+Marin,412139,U.S. House,2,DEM,Jared W. Huffman,432
 Marin,412139,U.S. Senate,,DEM,Kamala D. Harris,406
 Marin,412139,U.S. Senate,,DEM,Loretta L. Sanchez,110
-Marin,412149,President,,REP/AI,Donald J. Trump,78
+Marin,412149,President,,REP,Donald J. Trump,78
 Marin,412149,President,,LIB,Gary Johnson,15
-Marin,412149,President,,PF,Gloria Estela La Riva,2
+Marin,412149,President,,PAF,Gloria Estela La Riva,2
 Marin,412149,President,,DEM,Hillary Clinton,868
 Marin,412149,President,,GRN,Jill Stein,63
-Marin,412149,President,,WI,Write-In,18
 Marin,412149,Proposition 51,,,No,318
 Marin,412149,Proposition 51,,,Yes,687
 Marin,412149,Proposition 52,,,No,141
@@ -5079,14 +5420,16 @@ Marin,412149,Proposition 66,,,No,725
 Marin,412149,Proposition 66,,,Yes,219
 Marin,412149,Proposition 67,,,No,133
 Marin,412149,Proposition 67,,,Yes,882
+Marin,412149,State Assembly,10,DEM,Marc Levine,661
+Marin,412149,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",279
+Marin,412149,U.S. House,2,REP,Dale K. Mensing,81
+Marin,412149,U.S. House,2,DEM,Jared W. Huffman,924
 Marin,412149,U.S. Senate,,DEM,Kamala D. Harris,792
 Marin,412149,U.S. Senate,,DEM,Loretta L. Sanchez,182
-Marin,412159,President,,REP/AI,Donald J. Trump,51
+Marin,412159,President,,REP,Donald J. Trump,51
 Marin,412159,President,,LIB,Gary Johnson,13
-Marin,412159,President,,PF,Gloria Estela La Riva,0
 Marin,412159,President,,DEM,Hillary Clinton,302
 Marin,412159,President,,GRN,Jill Stein,13
-Marin,412159,President,,WI,Write-In,3
 Marin,412159,Proposition 51,,,No,172
 Marin,412159,Proposition 51,,,Yes,197
 Marin,412159,Proposition 52,,,No,94
@@ -5121,14 +5464,17 @@ Marin,412159,Proposition 66,,,No,233
 Marin,412159,Proposition 66,,,Yes,107
 Marin,412159,Proposition 67,,,No,77
 Marin,412159,Proposition 67,,,Yes,289
+Marin,412159,State Assembly,10,DEM,Marc Levine,248
+Marin,412159,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",83
+Marin,412159,U.S. House,2,REP,Dale K. Mensing,55
+Marin,412159,U.S. House,2,DEM,Jared W. Huffman,306
 Marin,412159,U.S. Senate,,DEM,Kamala D. Harris,270
 Marin,412159,U.S. Senate,,DEM,Loretta L. Sanchez,68
-Marin,412169,President,,REP/AI,Donald J. Trump,52
+Marin,412169,President,,REP,Donald J. Trump,52
 Marin,412169,President,,LIB,Gary Johnson,7
-Marin,412169,President,,PF,Gloria Estela La Riva,7
+Marin,412169,President,,PAF,Gloria Estela La Riva,7
 Marin,412169,President,,DEM,Hillary Clinton,566
 Marin,412169,President,,GRN,Jill Stein,45
-Marin,412169,President,,WI,Write-In,9
 Marin,412169,Proposition 51,,,No,247
 Marin,412169,Proposition 51,,,Yes,404
 Marin,412169,Proposition 52,,,No,108
@@ -5163,14 +5509,17 @@ Marin,412169,Proposition 66,,,No,452
 Marin,412169,Proposition 66,,,Yes,158
 Marin,412169,Proposition 67,,,No,96
 Marin,412169,Proposition 67,,,Yes,570
+Marin,412169,State Assembly,10,DEM,Marc Levine,431
+Marin,412169,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",170
+Marin,412169,U.S. House,2,REP,Dale K. Mensing,51
+Marin,412169,U.S. House,2,DEM,Jared W. Huffman,612
 Marin,412169,U.S. Senate,,DEM,Kamala D. Harris,536
 Marin,412169,U.S. Senate,,DEM,Loretta L. Sanchez,101
-Marin,412179,President,,REP/AI,Donald J. Trump,44
+Marin,412179,President,,REP,Donald J. Trump,44
 Marin,412179,President,,LIB,Gary Johnson,8
-Marin,412179,President,,PF,Gloria Estela La Riva,4
+Marin,412179,President,,PAF,Gloria Estela La Riva,4
 Marin,412179,President,,DEM,Hillary Clinton,731
 Marin,412179,President,,GRN,Jill Stein,71
-Marin,412179,President,,WI,Write-In,15
 Marin,412179,Proposition 51,,,No,266
 Marin,412179,Proposition 51,,,Yes,556
 Marin,412179,Proposition 52,,,No,106
@@ -5205,14 +5554,17 @@ Marin,412179,Proposition 66,,,No,622
 Marin,412179,Proposition 66,,,Yes,146
 Marin,412179,Proposition 67,,,No,107
 Marin,412179,Proposition 67,,,Yes,728
+Marin,412179,State Assembly,10,DEM,Marc Levine,528
+Marin,412179,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",227
+Marin,412179,U.S. House,2,REP,Dale K. Mensing,51
+Marin,412179,U.S. House,2,DEM,Jared W. Huffman,765
 Marin,412179,U.S. Senate,,DEM,Kamala D. Harris,688
 Marin,412179,U.S. Senate,,DEM,Loretta L. Sanchez,112
-Marin,412189,President,,REP/AI,Donald J. Trump,207
+Marin,412189,President,,REP,Donald J. Trump,207
 Marin,412189,President,,LIB,Gary Johnson,24
-Marin,412189,President,,PF,Gloria Estela La Riva,2
+Marin,412189,President,,PAF,Gloria Estela La Riva,2
 Marin,412189,President,,DEM,Hillary Clinton,443
 Marin,412189,President,,GRN,Jill Stein,12
-Marin,412189,President,,WI,Write-In,19
 Marin,412189,Proposition 51,,,No,342
 Marin,412189,Proposition 51,,,Yes,350
 Marin,412189,Proposition 52,,,No,230
@@ -5247,14 +5599,16 @@ Marin,412189,Proposition 66,,,No,327
 Marin,412189,Proposition 66,,,Yes,324
 Marin,412189,Proposition 67,,,No,240
 Marin,412189,Proposition 67,,,Yes,439
+Marin,412189,State Assembly,10,DEM,Marc Levine,400
+Marin,412189,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",186
+Marin,412189,U.S. House,2,REP,Dale K. Mensing,203
+Marin,412189,U.S. House,2,DEM,Jared W. Huffman,475
 Marin,412189,U.S. Senate,,DEM,Kamala D. Harris,425
 Marin,412189,U.S. Senate,,DEM,Loretta L. Sanchez,192
-Marin,412199,President,,REP/AI,Donald J. Trump,26
+Marin,412199,President,,REP,Donald J. Trump,26
 Marin,412199,President,,LIB,Gary Johnson,11
-Marin,412199,President,,PF,Gloria Estela La Riva,0
 Marin,412199,President,,DEM,Hillary Clinton,374
 Marin,412199,President,,GRN,Jill Stein,10
-Marin,412199,President,,WI,Write-In,1
 Marin,412199,Proposition 51,,,No,138
 Marin,412199,Proposition 51,,,Yes,258
 Marin,412199,Proposition 52,,,No,68
@@ -5289,14 +5643,17 @@ Marin,412199,Proposition 66,,,No,255
 Marin,412199,Proposition 66,,,Yes,117
 Marin,412199,Proposition 67,,,No,61
 Marin,412199,Proposition 67,,,Yes,337
+Marin,412199,State Assembly,10,DEM,Marc Levine,250
+Marin,412199,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",117
+Marin,412199,U.S. House,2,REP,Dale K. Mensing,29
+Marin,412199,U.S. House,2,DEM,Jared W. Huffman,367
 Marin,412199,U.S. Senate,,DEM,Kamala D. Harris,331
 Marin,412199,U.S. Senate,,DEM,Loretta L. Sanchez,55
-Marin,412209,President,,REP/AI,Donald J. Trump,49
+Marin,412209,President,,REP,Donald J. Trump,49
 Marin,412209,President,,LIB,Gary Johnson,16
-Marin,412209,President,,PF,Gloria Estela La Riva,2
+Marin,412209,President,,PAF,Gloria Estela La Riva,2
 Marin,412209,President,,DEM,Hillary Clinton,658
 Marin,412209,President,,GRN,Jill Stein,45
-Marin,412209,President,,WI,Write-In,8
 Marin,412209,Proposition 51,,,No,267
 Marin,412209,Proposition 51,,,Yes,464
 Marin,412209,Proposition 52,,,No,101
@@ -5331,14 +5688,17 @@ Marin,412209,Proposition 66,,,No,504
 Marin,412209,Proposition 66,,,Yes,180
 Marin,412209,Proposition 67,,,No,106
 Marin,412209,Proposition 67,,,Yes,637
+Marin,412209,State Assembly,10,DEM,Marc Levine,499
+Marin,412209,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",175
+Marin,412209,U.S. House,2,REP,Dale K. Mensing,44
+Marin,412209,U.S. House,2,DEM,Jared W. Huffman,699
 Marin,412209,U.S. Senate,,DEM,Kamala D. Harris,603
 Marin,412209,U.S. Senate,,DEM,Loretta L. Sanchez,110
-Marin,412219,President,,REP/AI,Donald J. Trump,126
+Marin,412219,President,,REP,Donald J. Trump,126
 Marin,412219,President,,LIB,Gary Johnson,24
-Marin,412219,President,,PF,Gloria Estela La Riva,7
+Marin,412219,President,,PAF,Gloria Estela La Riva,7
 Marin,412219,President,,DEM,Hillary Clinton,824
 Marin,412219,President,,GRN,Jill Stein,62
-Marin,412219,President,,WI,Write-In,6
 Marin,412219,Proposition 51,,,No,380
 Marin,412219,Proposition 51,,,Yes,622
 Marin,412219,Proposition 52,,,No,175
@@ -5373,14 +5733,16 @@ Marin,412219,Proposition 66,,,No,668
 Marin,412219,Proposition 66,,,Yes,267
 Marin,412219,Proposition 67,,,No,204
 Marin,412219,Proposition 67,,,Yes,814
+Marin,412219,State Assembly,10,DEM,Marc Levine,606
+Marin,412219,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",314
+Marin,412219,U.S. House,2,REP,Dale K. Mensing,130
+Marin,412219,U.S. House,2,DEM,Jared W. Huffman,875
 Marin,412219,U.S. Senate,,DEM,Kamala D. Harris,757
 Marin,412219,U.S. Senate,,DEM,Loretta L. Sanchez,203
-Marin,412229,President,,REP/AI,Donald J. Trump,12
+Marin,412229,President,,REP,Donald J. Trump,12
 Marin,412229,President,,LIB,Gary Johnson,4
-Marin,412229,President,,PF,Gloria Estela La Riva,0
 Marin,412229,President,,DEM,Hillary Clinton,249
 Marin,412229,President,,GRN,Jill Stein,9
-Marin,412229,President,,WI,Write-In,1
 Marin,412229,Proposition 51,,,No,90
 Marin,412229,Proposition 51,,,Yes,168
 Marin,412229,Proposition 52,,,No,30
@@ -5415,14 +5777,17 @@ Marin,412229,Proposition 66,,,No,180
 Marin,412229,Proposition 66,,,Yes,68
 Marin,412229,Proposition 67,,,No,29
 Marin,412229,Proposition 67,,,Yes,237
+Marin,412229,State Assembly,10,DEM,Marc Levine,172
+Marin,412229,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",67
+Marin,412229,U.S. House,2,REP,Dale K. Mensing,15
+Marin,412229,U.S. House,2,DEM,Jared W. Huffman,246
 Marin,412229,U.S. Senate,,DEM,Kamala D. Harris,219
 Marin,412229,U.S. Senate,,DEM,Loretta L. Sanchez,41
-Marin,412239,President,,REP/AI,Donald J. Trump,39
+Marin,412239,President,,REP,Donald J. Trump,39
 Marin,412239,President,,LIB,Gary Johnson,13
-Marin,412239,President,,PF,Gloria Estela La Riva,2
+Marin,412239,President,,PAF,Gloria Estela La Riva,2
 Marin,412239,President,,DEM,Hillary Clinton,410
 Marin,412239,President,,GRN,Jill Stein,12
-Marin,412239,President,,WI,Write-In,5
 Marin,412239,Proposition 51,,,No,180
 Marin,412239,Proposition 51,,,Yes,286
 Marin,412239,Proposition 52,,,No,98
@@ -5457,14 +5822,17 @@ Marin,412239,Proposition 66,,,No,305
 Marin,412239,Proposition 66,,,Yes,134
 Marin,412239,Proposition 67,,,No,94
 Marin,412239,Proposition 67,,,Yes,370
+Marin,412239,State Assembly,10,DEM,Marc Levine,290
+Marin,412239,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",125
+Marin,412239,U.S. House,2,REP,Dale K. Mensing,51
+Marin,412239,U.S. House,2,DEM,Jared W. Huffman,408
 Marin,412239,U.S. Senate,,DEM,Kamala D. Harris,370
 Marin,412239,U.S. Senate,,DEM,Loretta L. Sanchez,81
-Marin,412249,President,,REP/AI,Donald J. Trump,66
+Marin,412249,President,,REP,Donald J. Trump,66
 Marin,412249,President,,LIB,Gary Johnson,22
-Marin,412249,President,,PF,Gloria Estela La Riva,1
+Marin,412249,President,,PAF,Gloria Estela La Riva,1
 Marin,412249,President,,DEM,Hillary Clinton,914
 Marin,412249,President,,GRN,Jill Stein,26
-Marin,412249,President,,WI,Write-In,16
 Marin,412249,Proposition 51,,,No,374
 Marin,412249,Proposition 51,,,Yes,630
 Marin,412249,Proposition 52,,,No,176
@@ -5499,14 +5867,16 @@ Marin,412249,Proposition 66,,,No,670
 Marin,412249,Proposition 66,,,Yes,255
 Marin,412249,Proposition 67,,,No,181
 Marin,412249,Proposition 67,,,Yes,828
+Marin,412249,State Assembly,10,DEM,Marc Levine,700
+Marin,412249,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",221
+Marin,412249,U.S. House,2,REP,Dale K. Mensing,87
+Marin,412249,U.S. House,2,DEM,Jared W. Huffman,902
 Marin,412249,U.S. Senate,,DEM,Kamala D. Harris,800
 Marin,412249,U.S. Senate,,DEM,Loretta L. Sanchez,166
-Marin,412259,President,,REP/AI,Donald J. Trump,24
+Marin,412259,President,,REP,Donald J. Trump,24
 Marin,412259,President,,LIB,Gary Johnson,3
-Marin,412259,President,,PF,Gloria Estela La Riva,0
 Marin,412259,President,,DEM,Hillary Clinton,438
 Marin,412259,President,,GRN,Jill Stein,33
-Marin,412259,President,,WI,Write-In,8
 Marin,412259,Proposition 51,,,No,121
 Marin,412259,Proposition 51,,,Yes,368
 Marin,412259,Proposition 52,,,No,67
@@ -5541,14 +5911,16 @@ Marin,412259,Proposition 66,,,No,360
 Marin,412259,Proposition 66,,,Yes,104
 Marin,412259,Proposition 67,,,No,57
 Marin,412259,Proposition 67,,,Yes,435
+Marin,412259,State Assembly,10,DEM,Marc Levine,324
+Marin,412259,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",133
+Marin,412259,U.S. House,2,REP,Dale K. Mensing,27
+Marin,412259,U.S. House,2,DEM,Jared W. Huffman,452
 Marin,412259,U.S. Senate,,DEM,Kamala D. Harris,397
 Marin,412259,U.S. Senate,,DEM,Loretta L. Sanchez,71
-Marin,412300,President,,REP/AI,Donald J. Trump,54
+Marin,412300,President,,REP,Donald J. Trump,54
 Marin,412300,President,,LIB,Gary Johnson,16
-Marin,412300,President,,PF,Gloria Estela La Riva,0
 Marin,412300,President,,DEM,Hillary Clinton,519
 Marin,412300,President,,GRN,Jill Stein,14
-Marin,412300,President,,WI,Write-In,11
 Marin,412300,Proposition 51,,,No,226
 Marin,412300,Proposition 51,,,Yes,373
 Marin,412300,Proposition 52,,,No,123
@@ -5583,14 +5955,16 @@ Marin,412300,Proposition 66,,,No,378
 Marin,412300,Proposition 66,,,Yes,175
 Marin,412300,Proposition 67,,,No,116
 Marin,412300,Proposition 67,,,Yes,480
+Marin,412300,State Assembly,10,DEM,Marc Levine,397
+Marin,412300,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",141
+Marin,412300,U.S. House,2,REP,Dale K. Mensing,62
+Marin,412300,U.S. House,2,DEM,Jared W. Huffman,528
 Marin,412300,U.S. Senate,,DEM,Kamala D. Harris,481
 Marin,412300,U.S. Senate,,DEM,Loretta L. Sanchez,95
-Marin,506010,President,,REP/AI,Donald J. Trump,152
+Marin,506010,President,,REP,Donald J. Trump,152
 Marin,506010,President,,LIB,Gary Johnson,42
-Marin,506010,President,,PF,Gloria Estela La Riva,0
 Marin,506010,President,,DEM,Hillary Clinton,465
 Marin,506010,President,,GRN,Jill Stein,8
-Marin,506010,President,,WI,Write-In,22
 Marin,506010,Proposition 51,,,No,358
 Marin,506010,Proposition 51,,,Yes,299
 Marin,506010,Proposition 52,,,No,199
@@ -5625,14 +5999,17 @@ Marin,506010,Proposition 66,,,No,330
 Marin,506010,Proposition 66,,,Yes,283
 Marin,506010,Proposition 67,,,No,225
 Marin,506010,Proposition 67,,,Yes,432
+Marin,506010,State Assembly,10,DEM,Marc Levine,389
+Marin,506010,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",186
+Marin,506010,U.S. House,2,REP,Dale K. Mensing,151
+Marin,506010,U.S. House,2,DEM,Jared W. Huffman,482
 Marin,506010,U.S. Senate,,DEM,Kamala D. Harris,451
 Marin,506010,U.S. Senate,,DEM,Loretta L. Sanchez,138
-Marin,506019,President,,REP/AI,Donald J. Trump,237
+Marin,506019,President,,REP,Donald J. Trump,237
 Marin,506019,President,,LIB,Gary Johnson,38
-Marin,506019,President,,PF,Gloria Estela La Riva,5
+Marin,506019,President,,PAF,Gloria Estela La Riva,5
 Marin,506019,President,,DEM,Hillary Clinton,720
 Marin,506019,President,,GRN,Jill Stein,19
-Marin,506019,President,,WI,Write-In,22
 Marin,506019,Proposition 51,,,No,490
 Marin,506019,Proposition 51,,,Yes,508
 Marin,506019,Proposition 52,,,No,276
@@ -5667,14 +6044,17 @@ Marin,506019,Proposition 66,,,No,479
 Marin,506019,Proposition 66,,,Yes,462
 Marin,506019,Proposition 67,,,No,312
 Marin,506019,Proposition 67,,,Yes,698
+Marin,506019,State Assembly,10,DEM,Marc Levine,607
+Marin,506019,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",269
+Marin,506019,U.S. House,2,REP,Dale K. Mensing,226
+Marin,506019,U.S. House,2,DEM,Jared W. Huffman,755
 Marin,506019,U.S. Senate,,DEM,Kamala D. Harris,680
 Marin,506019,U.S. Senate,,DEM,Loretta L. Sanchez,231
-Marin,506029,President,,REP/AI,Donald J. Trump,155
+Marin,506029,President,,REP,Donald J. Trump,155
 Marin,506029,President,,LIB,Gary Johnson,24
-Marin,506029,President,,PF,Gloria Estela La Riva,4
+Marin,506029,President,,PAF,Gloria Estela La Riva,4
 Marin,506029,President,,DEM,Hillary Clinton,487
 Marin,506029,President,,GRN,Jill Stein,14
-Marin,506029,President,,WI,Write-In,15
 Marin,506029,Proposition 51,,,No,338
 Marin,506029,Proposition 51,,,Yes,331
 Marin,506029,Proposition 52,,,No,185
@@ -5709,14 +6089,17 @@ Marin,506029,Proposition 66,,,No,333
 Marin,506029,Proposition 66,,,Yes,308
 Marin,506029,Proposition 67,,,No,235
 Marin,506029,Proposition 67,,,Yes,450
+Marin,506029,State Assembly,10,DEM,Marc Levine,393
+Marin,506029,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",208
+Marin,506029,U.S. House,2,REP,Dale K. Mensing,145
+Marin,506029,U.S. House,2,DEM,Jared W. Huffman,523
 Marin,506029,U.S. Senate,,DEM,Kamala D. Harris,422
 Marin,506029,U.S. Senate,,DEM,Loretta L. Sanchez,190
-Marin,506030,President,,REP/AI,Donald J. Trump,194
+Marin,506030,President,,REP,Donald J. Trump,194
 Marin,506030,President,,LIB,Gary Johnson,24
-Marin,506030,President,,PF,Gloria Estela La Riva,2
+Marin,506030,President,,PAF,Gloria Estela La Riva,2
 Marin,506030,President,,DEM,Hillary Clinton,504
 Marin,506030,President,,GRN,Jill Stein,12
-Marin,506030,President,,WI,Write-In,11
 Marin,506030,Proposition 51,,,No,377
 Marin,506030,Proposition 51,,,Yes,338
 Marin,506030,Proposition 52,,,No,230
@@ -5751,14 +6134,16 @@ Marin,506030,Proposition 66,,,No,358
 Marin,506030,Proposition 66,,,Yes,324
 Marin,506030,Proposition 67,,,No,272
 Marin,506030,Proposition 67,,,Yes,453
+Marin,506030,State Assembly,10,DEM,Marc Levine,445
+Marin,506030,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",188
+Marin,506030,U.S. House,2,REP,Dale K. Mensing,182
+Marin,506030,U.S. House,2,DEM,Jared W. Huffman,519
 Marin,506030,U.S. Senate,,DEM,Kamala D. Harris,456
 Marin,506030,U.S. Senate,,DEM,Loretta L. Sanchez,189
-Marin,506039,President,,REP/AI,Donald J. Trump,119
+Marin,506039,President,,REP,Donald J. Trump,119
 Marin,506039,President,,LIB,Gary Johnson,21
-Marin,506039,President,,PF,Gloria Estela La Riva,0
 Marin,506039,President,,DEM,Hillary Clinton,442
 Marin,506039,President,,GRN,Jill Stein,16
-Marin,506039,President,,WI,Write-In,18
 Marin,506039,Proposition 51,,,No,267
 Marin,506039,Proposition 51,,,Yes,314
 Marin,506039,Proposition 52,,,No,161
@@ -5793,14 +6178,17 @@ Marin,506039,Proposition 66,,,No,283
 Marin,506039,Proposition 66,,,Yes,260
 Marin,506039,Proposition 67,,,No,193
 Marin,506039,Proposition 67,,,Yes,387
+Marin,506039,State Assembly,10,DEM,Marc Levine,364
+Marin,506039,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",151
+Marin,506039,U.S. House,2,REP,Dale K. Mensing,123
+Marin,506039,U.S. House,2,DEM,Jared W. Huffman,450
 Marin,506039,U.S. Senate,,DEM,Kamala D. Harris,384
 Marin,506039,U.S. Senate,,DEM,Loretta L. Sanchez,161
-Marin,506040,President,,REP/AI,Donald J. Trump,146
+Marin,506040,President,,REP,Donald J. Trump,146
 Marin,506040,President,,LIB,Gary Johnson,18
-Marin,506040,President,,PF,Gloria Estela La Riva,3
+Marin,506040,President,,PAF,Gloria Estela La Riva,3
 Marin,506040,President,,DEM,Hillary Clinton,468
 Marin,506040,President,,GRN,Jill Stein,9
-Marin,506040,President,,WI,Write-In,5
 Marin,506040,Proposition 51,,,No,318
 Marin,506040,Proposition 51,,,Yes,320
 Marin,506040,Proposition 52,,,No,189
@@ -5835,14 +6223,17 @@ Marin,506040,Proposition 66,,,No,310
 Marin,506040,Proposition 66,,,Yes,281
 Marin,506040,Proposition 67,,,No,216
 Marin,506040,Proposition 67,,,Yes,422
+Marin,506040,State Assembly,10,DEM,Marc Levine,402
+Marin,506040,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",160
+Marin,506040,U.S. House,2,REP,Dale K. Mensing,137
+Marin,506040,U.S. House,2,DEM,Jared W. Huffman,493
 Marin,506040,U.S. Senate,,DEM,Kamala D. Harris,440
 Marin,506040,U.S. Senate,,DEM,Loretta L. Sanchez,149
-Marin,506049,President,,REP/AI,Donald J. Trump,134
+Marin,506049,President,,REP,Donald J. Trump,134
 Marin,506049,President,,LIB,Gary Johnson,16
-Marin,506049,President,,PF,Gloria Estela La Riva,3
+Marin,506049,President,,PAF,Gloria Estela La Riva,3
 Marin,506049,President,,DEM,Hillary Clinton,512
 Marin,506049,President,,GRN,Jill Stein,16
-Marin,506049,President,,WI,Write-In,12
 Marin,506049,Proposition 51,,,No,275
 Marin,506049,Proposition 51,,,Yes,383
 Marin,506049,Proposition 52,,,No,172
@@ -5877,14 +6268,16 @@ Marin,506049,Proposition 66,,,No,350
 Marin,506049,Proposition 66,,,Yes,272
 Marin,506049,Proposition 67,,,No,208
 Marin,506049,Proposition 67,,,Yes,457
+Marin,506049,State Assembly,10,DEM,Marc Levine,398
+Marin,506049,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",193
+Marin,506049,U.S. House,2,REP,Dale K. Mensing,129
+Marin,506049,U.S. House,2,DEM,Jared W. Huffman,514
 Marin,506049,U.S. Senate,,DEM,Kamala D. Harris,436
 Marin,506049,U.S. Senate,,DEM,Loretta L. Sanchez,170
-Marin,506050,President,,REP/AI,Donald J. Trump,193
+Marin,506050,President,,REP,Donald J. Trump,193
 Marin,506050,President,,LIB,Gary Johnson,23
-Marin,506050,President,,PF,Gloria Estela La Riva,0
 Marin,506050,President,,DEM,Hillary Clinton,459
 Marin,506050,President,,GRN,Jill Stein,15
-Marin,506050,President,,WI,Write-In,9
 Marin,506050,Proposition 51,,,No,362
 Marin,506050,Proposition 51,,,Yes,303
 Marin,506050,Proposition 52,,,No,220
@@ -5919,14 +6312,17 @@ Marin,506050,Proposition 66,,,No,341
 Marin,506050,Proposition 66,,,Yes,272
 Marin,506050,Proposition 67,,,No,212
 Marin,506050,Proposition 67,,,Yes,447
+Marin,506050,State Assembly,10,DEM,Marc Levine,396
+Marin,506050,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",175
+Marin,506050,U.S. House,2,REP,Dale K. Mensing,181
+Marin,506050,U.S. House,2,DEM,Jared W. Huffman,465
 Marin,506050,U.S. Senate,,DEM,Kamala D. Harris,426
 Marin,506050,U.S. Senate,,DEM,Loretta L. Sanchez,178
-Marin,506059,President,,REP/AI,Donald J. Trump,354
+Marin,506059,President,,REP,Donald J. Trump,354
 Marin,506059,President,,LIB,Gary Johnson,51
-Marin,506059,President,,PF,Gloria Estela La Riva,3
+Marin,506059,President,,PAF,Gloria Estela La Riva,3
 Marin,506059,President,,DEM,Hillary Clinton,946
 Marin,506059,President,,GRN,Jill Stein,22
-Marin,506059,President,,WI,Write-In,23
 Marin,506059,Proposition 51,,,No,717
 Marin,506059,Proposition 51,,,Yes,625
 Marin,506059,Proposition 52,,,No,398
@@ -5961,14 +6357,17 @@ Marin,506059,Proposition 66,,,No,701
 Marin,506059,Proposition 66,,,Yes,535
 Marin,506059,Proposition 67,,,No,454
 Marin,506059,Proposition 67,,,Yes,891
+Marin,506059,State Assembly,10,DEM,Marc Levine,784
+Marin,506059,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",393
+Marin,506059,U.S. House,2,REP,Dale K. Mensing,338
+Marin,506059,U.S. House,2,DEM,Jared W. Huffman,978
 Marin,506059,U.S. Senate,,DEM,Kamala D. Harris,883
 Marin,506059,U.S. Senate,,DEM,Loretta L. Sanchez,339
-Marin,506069,President,,REP/AI,Donald J. Trump,230
+Marin,506069,President,,REP,Donald J. Trump,230
 Marin,506069,President,,LIB,Gary Johnson,19
-Marin,506069,President,,PF,Gloria Estela La Riva,1
+Marin,506069,President,,PAF,Gloria Estela La Riva,1
 Marin,506069,President,,DEM,Hillary Clinton,428
 Marin,506069,President,,GRN,Jill Stein,14
-Marin,506069,President,,WI,Write-In,18
 Marin,506069,Proposition 51,,,No,404
 Marin,506069,Proposition 51,,,Yes,279
 Marin,506069,Proposition 52,,,No,214
@@ -6003,14 +6402,16 @@ Marin,506069,Proposition 66,,,No,309
 Marin,506069,Proposition 66,,,Yes,335
 Marin,506069,Proposition 67,,,No,267
 Marin,506069,Proposition 67,,,Yes,425
+Marin,506069,State Assembly,10,DEM,Marc Levine,404
+Marin,506069,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",170
+Marin,506069,U.S. House,2,REP,Dale K. Mensing,207
+Marin,506069,U.S. House,2,DEM,Jared W. Huffman,466
 Marin,506069,U.S. Senate,,DEM,Kamala D. Harris,417
 Marin,506069,U.S. Senate,,DEM,Loretta L. Sanchez,176
-Marin,506079,President,,REP/AI,Donald J. Trump,133
+Marin,506079,President,,REP,Donald J. Trump,133
 Marin,506079,President,,LIB,Gary Johnson,21
-Marin,506079,President,,PF,Gloria Estela La Riva,0
 Marin,506079,President,,DEM,Hillary Clinton,439
 Marin,506079,President,,GRN,Jill Stein,11
-Marin,506079,President,,WI,Write-In,13
 Marin,506079,Proposition 51,,,No,300
 Marin,506079,Proposition 51,,,Yes,299
 Marin,506079,Proposition 52,,,No,152
@@ -6045,14 +6446,17 @@ Marin,506079,Proposition 66,,,No,330
 Marin,506079,Proposition 66,,,Yes,233
 Marin,506079,Proposition 67,,,No,191
 Marin,506079,Proposition 67,,,Yes,410
+Marin,506079,State Assembly,10,DEM,Marc Levine,390
+Marin,506079,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",146
+Marin,506079,U.S. House,2,REP,Dale K. Mensing,143
+Marin,506079,U.S. House,2,DEM,Jared W. Huffman,458
 Marin,506079,U.S. Senate,,DEM,Kamala D. Harris,429
 Marin,506079,U.S. Senate,,DEM,Loretta L. Sanchez,124
-Marin,506089,President,,REP/AI,Donald J. Trump,167
+Marin,506089,President,,REP,Donald J. Trump,167
 Marin,506089,President,,LIB,Gary Johnson,27
-Marin,506089,President,,PF,Gloria Estela La Riva,2
+Marin,506089,President,,PAF,Gloria Estela La Riva,2
 Marin,506089,President,,DEM,Hillary Clinton,506
 Marin,506089,President,,GRN,Jill Stein,15
-Marin,506089,President,,WI,Write-In,14
 Marin,506089,Proposition 51,,,No,348
 Marin,506089,Proposition 51,,,Yes,344
 Marin,506089,Proposition 52,,,No,212
@@ -6087,14 +6491,17 @@ Marin,506089,Proposition 66,,,No,368
 Marin,506089,Proposition 66,,,Yes,282
 Marin,506089,Proposition 67,,,No,224
 Marin,506089,Proposition 67,,,Yes,472
+Marin,506089,State Assembly,10,DEM,Marc Levine,430
+Marin,506089,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",185
+Marin,506089,U.S. House,2,REP,Dale K. Mensing,162
+Marin,506089,U.S. House,2,DEM,Jared W. Huffman,527
 Marin,506089,U.S. Senate,,DEM,Kamala D. Harris,471
 Marin,506089,U.S. Senate,,DEM,Loretta L. Sanchez,161
-Marin,506099,President,,REP/AI,Donald J. Trump,140
+Marin,506099,President,,REP,Donald J. Trump,140
 Marin,506099,President,,LIB,Gary Johnson,19
-Marin,506099,President,,PF,Gloria Estela La Riva,5
+Marin,506099,President,,PAF,Gloria Estela La Riva,5
 Marin,506099,President,,DEM,Hillary Clinton,538
 Marin,506099,President,,GRN,Jill Stein,21
-Marin,506099,President,,WI,Write-In,20
 Marin,506099,Proposition 51,,,No,293
 Marin,506099,Proposition 51,,,Yes,408
 Marin,506099,Proposition 52,,,No,157
@@ -6129,14 +6536,17 @@ Marin,506099,Proposition 66,,,No,374
 Marin,506099,Proposition 66,,,Yes,268
 Marin,506099,Proposition 67,,,No,201
 Marin,506099,Proposition 67,,,Yes,497
+Marin,506099,State Assembly,10,DEM,Marc Levine,423
+Marin,506099,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",213
+Marin,506099,U.S. House,2,REP,Dale K. Mensing,130
+Marin,506099,U.S. House,2,DEM,Jared W. Huffman,565
 Marin,506099,U.S. Senate,,DEM,Kamala D. Harris,462
 Marin,506099,U.S. Senate,,DEM,Loretta L. Sanchez,195
-Marin,506100,President,,REP/AI,Donald J. Trump,128
+Marin,506100,President,,REP,Donald J. Trump,128
 Marin,506100,President,,LIB,Gary Johnson,26
-Marin,506100,President,,PF,Gloria Estela La Riva,3
+Marin,506100,President,,PAF,Gloria Estela La Riva,3
 Marin,506100,President,,DEM,Hillary Clinton,541
 Marin,506100,President,,GRN,Jill Stein,22
-Marin,506100,President,,WI,Write-In,28
 Marin,506100,Proposition 51,,,No,307
 Marin,506100,Proposition 51,,,Yes,403
 Marin,506100,Proposition 52,,,No,178
@@ -6171,14 +6581,17 @@ Marin,506100,Proposition 66,,,No,349
 Marin,506100,Proposition 66,,,Yes,313
 Marin,506100,Proposition 67,,,No,220
 Marin,506100,Proposition 67,,,Yes,491
+Marin,506100,State Assembly,10,DEM,Marc Levine,399
+Marin,506100,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",227
+Marin,506100,U.S. House,2,REP,Dale K. Mensing,144
+Marin,506100,U.S. House,2,DEM,Jared W. Huffman,555
 Marin,506100,U.S. Senate,,DEM,Kamala D. Harris,425
 Marin,506100,U.S. Senate,,DEM,Loretta L. Sanchez,215
-Marin,506109,President,,REP/AI,Donald J. Trump,264
+Marin,506109,President,,REP,Donald J. Trump,264
 Marin,506109,President,,LIB,Gary Johnson,45
-Marin,506109,President,,PF,Gloria Estela La Riva,2
+Marin,506109,President,,PAF,Gloria Estela La Riva,2
 Marin,506109,President,,DEM,Hillary Clinton,1086
 Marin,506109,President,,GRN,Jill Stein,27
-Marin,506109,President,,WI,Write-In,20
 Marin,506109,Proposition 51,,,No,677
 Marin,506109,Proposition 51,,,Yes,713
 Marin,506109,Proposition 52,,,No,337
@@ -6213,14 +6626,17 @@ Marin,506109,Proposition 66,,,No,753
 Marin,506109,Proposition 66,,,Yes,553
 Marin,506109,Proposition 67,,,No,401
 Marin,506109,Proposition 67,,,Yes,969
+Marin,506109,State Assembly,10,DEM,Marc Levine,859
+Marin,506109,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",376
+Marin,506109,U.S. House,2,REP,Dale K. Mensing,250
+Marin,506109,U.S. House,2,DEM,Jared W. Huffman,1092
 Marin,506109,U.S. Senate,,DEM,Kamala D. Harris,957
 Marin,506109,U.S. Senate,,DEM,Loretta L. Sanchez,335
-Marin,506119,President,,REP/AI,Donald J. Trump,319
+Marin,506119,President,,REP,Donald J. Trump,319
 Marin,506119,President,,LIB,Gary Johnson,53
-Marin,506119,President,,PF,Gloria Estela La Riva,2
+Marin,506119,President,,PAF,Gloria Estela La Riva,2
 Marin,506119,President,,DEM,Hillary Clinton,1056
 Marin,506119,President,,GRN,Jill Stein,39
-Marin,506119,President,,WI,Write-In,20
 Marin,506119,Proposition 51,,,No,729
 Marin,506119,Proposition 51,,,Yes,701
 Marin,506119,Proposition 52,,,No,412
@@ -6255,14 +6671,17 @@ Marin,506119,Proposition 66,,,No,734
 Marin,506119,Proposition 66,,,Yes,603
 Marin,506119,Proposition 67,,,No,492
 Marin,506119,Proposition 67,,,Yes,934
+Marin,506119,State Assembly,10,DEM,Marc Levine,865
+Marin,506119,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",389
+Marin,506119,U.S. House,2,REP,Dale K. Mensing,317
+Marin,506119,U.S. House,2,DEM,Jared W. Huffman,1065
 Marin,506119,U.S. Senate,,DEM,Kamala D. Harris,944
 Marin,506119,U.S. Senate,,DEM,Loretta L. Sanchez,363
-Marin,506120,President,,REP/AI,Donald J. Trump,132
+Marin,506120,President,,REP,Donald J. Trump,132
 Marin,506120,President,,LIB,Gary Johnson,19
-Marin,506120,President,,PF,Gloria Estela La Riva,7
+Marin,506120,President,,PAF,Gloria Estela La Riva,7
 Marin,506120,President,,DEM,Hillary Clinton,516
 Marin,506120,President,,GRN,Jill Stein,23
-Marin,506120,President,,WI,Write-In,11
 Marin,506120,Proposition 51,,,No,296
 Marin,506120,Proposition 51,,,Yes,372
 Marin,506120,Proposition 52,,,No,175
@@ -6297,14 +6716,17 @@ Marin,506120,Proposition 66,,,No,351
 Marin,506120,Proposition 66,,,Yes,278
 Marin,506120,Proposition 67,,,No,206
 Marin,506120,Proposition 67,,,Yes,467
+Marin,506120,State Assembly,10,DEM,Marc Levine,393
+Marin,506120,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",196
+Marin,506120,U.S. House,2,REP,Dale K. Mensing,123
+Marin,506120,U.S. House,2,DEM,Jared W. Huffman,533
 Marin,506120,U.S. Senate,,DEM,Kamala D. Harris,418
 Marin,506120,U.S. Senate,,DEM,Loretta L. Sanchez,199
-Marin,506129,President,,REP/AI,Donald J. Trump,340
+Marin,506129,President,,REP,Donald J. Trump,340
 Marin,506129,President,,LIB,Gary Johnson,55
-Marin,506129,President,,PF,Gloria Estela La Riva,3
+Marin,506129,President,,PAF,Gloria Estela La Riva,3
 Marin,506129,President,,DEM,Hillary Clinton,986
 Marin,506129,President,,GRN,Jill Stein,32
-Marin,506129,President,,WI,Write-In,38
 Marin,506129,Proposition 51,,,No,709
 Marin,506129,Proposition 51,,,Yes,687
 Marin,506129,Proposition 52,,,No,409
@@ -6339,14 +6761,17 @@ Marin,506129,Proposition 66,,,No,678
 Marin,506129,Proposition 66,,,Yes,607
 Marin,506129,Proposition 67,,,No,467
 Marin,506129,Proposition 67,,,Yes,929
+Marin,506129,State Assembly,10,DEM,Marc Levine,808
+Marin,506129,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",419
+Marin,506129,U.S. House,2,REP,Dale K. Mensing,336
+Marin,506129,U.S. House,2,DEM,Jared W. Huffman,1022
 Marin,506129,U.S. Senate,,DEM,Kamala D. Harris,907
 Marin,506129,U.S. Senate,,DEM,Loretta L. Sanchez,332
-Marin,506139,President,,REP/AI,Donald J. Trump,367
+Marin,506139,President,,REP,Donald J. Trump,367
 Marin,506139,President,,LIB,Gary Johnson,39
-Marin,506139,President,,PF,Gloria Estela La Riva,4
+Marin,506139,President,,PAF,Gloria Estela La Riva,4
 Marin,506139,President,,DEM,Hillary Clinton,740
 Marin,506139,President,,GRN,Jill Stein,10
-Marin,506139,President,,WI,Write-In,33
 Marin,506139,Proposition 51,,,No,645
 Marin,506139,Proposition 51,,,Yes,525
 Marin,506139,Proposition 52,,,No,367
@@ -6381,14 +6806,17 @@ Marin,506139,Proposition 66,,,No,559
 Marin,506139,Proposition 66,,,Yes,534
 Marin,506139,Proposition 67,,,No,420
 Marin,506139,Proposition 67,,,Yes,735
+Marin,506139,State Assembly,10,DEM,Marc Levine,669
+Marin,506139,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",317
+Marin,506139,U.S. House,2,REP,Dale K. Mensing,351
+Marin,506139,U.S. House,2,DEM,Jared W. Huffman,795
 Marin,506139,U.S. Senate,,DEM,Kamala D. Harris,752
 Marin,506139,U.S. Senate,,DEM,Loretta L. Sanchez,267
-Marin,506149,President,,REP/AI,Donald J. Trump,297
+Marin,506149,President,,REP,Donald J. Trump,297
 Marin,506149,President,,LIB,Gary Johnson,40
-Marin,506149,President,,PF,Gloria Estela La Riva,5
+Marin,506149,President,,PAF,Gloria Estela La Riva,5
 Marin,506149,President,,DEM,Hillary Clinton,1050
 Marin,506149,President,,GRN,Jill Stein,19
-Marin,506149,President,,WI,Write-In,19
 Marin,506149,Proposition 51,,,No,678
 Marin,506149,Proposition 51,,,Yes,689
 Marin,506149,Proposition 52,,,No,399
@@ -6423,14 +6851,17 @@ Marin,506149,Proposition 66,,,No,696
 Marin,506149,Proposition 66,,,Yes,582
 Marin,506149,Proposition 67,,,No,469
 Marin,506149,Proposition 67,,,Yes,904
+Marin,506149,State Assembly,10,DEM,Marc Levine,861
+Marin,506149,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",357
+Marin,506149,U.S. House,2,REP,Dale K. Mensing,300
+Marin,506149,U.S. House,2,DEM,Jared W. Huffman,1047
 Marin,506149,U.S. Senate,,DEM,Kamala D. Harris,953
 Marin,506149,U.S. Senate,,DEM,Loretta L. Sanchez,308
-Marin,506159,President,,REP/AI,Donald J. Trump,216
+Marin,506159,President,,REP,Donald J. Trump,216
 Marin,506159,President,,LIB,Gary Johnson,34
-Marin,506159,President,,PF,Gloria Estela La Riva,1
+Marin,506159,President,,PAF,Gloria Estela La Riva,1
 Marin,506159,President,,DEM,Hillary Clinton,789
 Marin,506159,President,,GRN,Jill Stein,13
-Marin,506159,President,,WI,Write-In,15
 Marin,506159,Proposition 51,,,No,472
 Marin,506159,Proposition 51,,,Yes,540
 Marin,506159,Proposition 52,,,No,265
@@ -6465,14 +6896,17 @@ Marin,506159,Proposition 66,,,No,485
 Marin,506159,Proposition 66,,,Yes,473
 Marin,506159,Proposition 67,,,No,309
 Marin,506159,Proposition 67,,,Yes,705
+Marin,506159,State Assembly,10,DEM,Marc Levine,596
+Marin,506159,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",305
+Marin,506159,U.S. House,2,REP,Dale K. Mensing,231
+Marin,506159,U.S. House,2,DEM,Jared W. Huffman,778
 Marin,506159,U.S. Senate,,DEM,Kamala D. Harris,686
 Marin,506159,U.S. Senate,,DEM,Loretta L. Sanchez,243
-Marin,506169,President,,REP/AI,Donald J. Trump,248
+Marin,506169,President,,REP,Donald J. Trump,248
 Marin,506169,President,,LIB,Gary Johnson,31
-Marin,506169,President,,PF,Gloria Estela La Riva,4
+Marin,506169,President,,PAF,Gloria Estela La Riva,4
 Marin,506169,President,,DEM,Hillary Clinton,946
 Marin,506169,President,,GRN,Jill Stein,20
-Marin,506169,President,,WI,Write-In,21
 Marin,506169,Proposition 51,,,No,526
 Marin,506169,Proposition 51,,,Yes,668
 Marin,506169,Proposition 52,,,No,289
@@ -6507,14 +6941,17 @@ Marin,506169,Proposition 66,,,No,639
 Marin,506169,Proposition 66,,,Yes,486
 Marin,506169,Proposition 67,,,No,350
 Marin,506169,Proposition 67,,,Yes,853
+Marin,506169,State Assembly,10,DEM,Marc Levine,762
+Marin,506169,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",331
+Marin,506169,U.S. House,2,REP,Dale K. Mensing,231
+Marin,506169,U.S. House,2,DEM,Jared W. Huffman,971
 Marin,506169,U.S. Senate,,DEM,Kamala D. Harris,863
 Marin,506169,U.S. Senate,,DEM,Loretta L. Sanchez,285
-Marin,506179,President,,REP/AI,Donald J. Trump,239
+Marin,506179,President,,REP,Donald J. Trump,239
 Marin,506179,President,,LIB,Gary Johnson,21
-Marin,506179,President,,PF,Gloria Estela La Riva,7
+Marin,506179,President,,PAF,Gloria Estela La Riva,7
 Marin,506179,President,,DEM,Hillary Clinton,914
 Marin,506179,President,,GRN,Jill Stein,35
-Marin,506179,President,,WI,Write-In,26
 Marin,506179,Proposition 51,,,No,553
 Marin,506179,Proposition 51,,,Yes,628
 Marin,506179,Proposition 52,,,No,300
@@ -6549,14 +6986,17 @@ Marin,506179,Proposition 66,,,No,606
 Marin,506179,Proposition 66,,,Yes,499
 Marin,506179,Proposition 67,,,No,364
 Marin,506179,Proposition 67,,,Yes,818
+Marin,506179,State Assembly,10,DEM,Marc Levine,727
+Marin,506179,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",332
+Marin,506179,U.S. House,2,REP,Dale K. Mensing,227
+Marin,506179,U.S. House,2,DEM,Jared W. Huffman,945
 Marin,506179,U.S. Senate,,DEM,Kamala D. Harris,795
 Marin,506179,U.S. Senate,,DEM,Loretta L. Sanchez,307
-Marin,506189,President,,REP/AI,Donald J. Trump,120
+Marin,506189,President,,REP,Donald J. Trump,120
 Marin,506189,President,,LIB,Gary Johnson,9
-Marin,506189,President,,PF,Gloria Estela La Riva,4
+Marin,506189,President,,PAF,Gloria Estela La Riva,4
 Marin,506189,President,,DEM,Hillary Clinton,481
 Marin,506189,President,,GRN,Jill Stein,11
-Marin,506189,President,,WI,Write-In,17
 Marin,506189,Proposition 51,,,No,235
 Marin,506189,Proposition 51,,,Yes,382
 Marin,506189,Proposition 52,,,No,144
@@ -6591,14 +7031,17 @@ Marin,506189,Proposition 66,,,No,340
 Marin,506189,Proposition 66,,,Yes,230
 Marin,506189,Proposition 67,,,No,188
 Marin,506189,Proposition 67,,,Yes,419
+Marin,506189,State Assembly,10,DEM,Marc Levine,399
+Marin,506189,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",166
+Marin,506189,U.S. House,2,REP,Dale K. Mensing,94
+Marin,506189,U.S. House,2,DEM,Jared W. Huffman,518
 Marin,506189,U.S. Senate,,DEM,Kamala D. Harris,413
 Marin,506189,U.S. Senate,,DEM,Loretta L. Sanchez,161
-Marin,512199,President,,REP/AI,Donald J. Trump,404
+Marin,512199,President,,REP,Donald J. Trump,404
 Marin,512199,President,,LIB,Gary Johnson,48
-Marin,512199,President,,PF,Gloria Estela La Riva,1
+Marin,512199,President,,PAF,Gloria Estela La Riva,1
 Marin,512199,President,,DEM,Hillary Clinton,753
 Marin,512199,President,,GRN,Jill Stein,13
-Marin,512199,President,,WI,Write-In,30
 Marin,512199,Proposition 51,,,No,663
 Marin,512199,Proposition 51,,,Yes,550
 Marin,512199,Proposition 52,,,No,391
@@ -6633,14 +7076,17 @@ Marin,512199,Proposition 66,,,No,596
 Marin,512199,Proposition 66,,,Yes,555
 Marin,512199,Proposition 67,,,No,403
 Marin,512199,Proposition 67,,,Yes,810
+Marin,512199,State Assembly,10,DEM,Marc Levine,706
+Marin,512199,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",307
+Marin,512199,U.S. House,2,REP,Dale K. Mensing,353
+Marin,512199,U.S. House,2,DEM,Jared W. Huffman,828
 Marin,512199,U.S. Senate,,DEM,Kamala D. Harris,737
 Marin,512199,U.S. Senate,,DEM,Loretta L. Sanchez,302
-Marin,512209,President,,REP/AI,Donald J. Trump,292
+Marin,512209,President,,REP,Donald J. Trump,292
 Marin,512209,President,,LIB,Gary Johnson,33
-Marin,512209,President,,PF,Gloria Estela La Riva,3
+Marin,512209,President,,PAF,Gloria Estela La Riva,3
 Marin,512209,President,,DEM,Hillary Clinton,715
 Marin,512209,President,,GRN,Jill Stein,23
-Marin,512209,President,,WI,Write-In,16
 Marin,512209,Proposition 51,,,No,569
 Marin,512209,Proposition 51,,,Yes,463
 Marin,512209,Proposition 52,,,No,325
@@ -6675,14 +7121,17 @@ Marin,512209,Proposition 66,,,No,521
 Marin,512209,Proposition 66,,,Yes,441
 Marin,512209,Proposition 67,,,No,355
 Marin,512209,Proposition 67,,,Yes,664
+Marin,512209,State Assembly,10,DEM,Marc Levine,577
+Marin,512209,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",307
+Marin,512209,U.S. House,2,REP,Dale K. Mensing,274
+Marin,512209,U.S. House,2,DEM,Jared W. Huffman,730
 Marin,512209,U.S. Senate,,DEM,Kamala D. Harris,690
 Marin,512209,U.S. Senate,,DEM,Loretta L. Sanchez,234
-Marin,512219,President,,REP/AI,Donald J. Trump,170
+Marin,512219,President,,REP,Donald J. Trump,170
 Marin,512219,President,,LIB,Gary Johnson,23
-Marin,512219,President,,PF,Gloria Estela La Riva,2
+Marin,512219,President,,PAF,Gloria Estela La Riva,2
 Marin,512219,President,,DEM,Hillary Clinton,387
 Marin,512219,President,,GRN,Jill Stein,12
-Marin,512219,President,,WI,Write-In,12
 Marin,512219,Proposition 51,,,No,351
 Marin,512219,Proposition 51,,,Yes,227
 Marin,512219,Proposition 52,,,No,190
@@ -6717,14 +7166,17 @@ Marin,512219,Proposition 66,,,No,299
 Marin,512219,Proposition 66,,,Yes,234
 Marin,512219,Proposition 67,,,No,209
 Marin,512219,Proposition 67,,,Yes,370
+Marin,512219,State Assembly,10,DEM,Marc Levine,348
+Marin,512219,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",125
+Marin,512219,U.S. House,2,REP,Dale K. Mensing,148
+Marin,512219,U.S. House,2,DEM,Jared W. Huffman,415
 Marin,512219,U.S. Senate,,DEM,Kamala D. Harris,384
 Marin,512219,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Marin,512340,President,,REP/AI,Donald J. Trump,172
+Marin,512340,President,,REP,Donald J. Trump,172
 Marin,512340,President,,LIB,Gary Johnson,32
-Marin,512340,President,,PF,Gloria Estela La Riva,3
+Marin,512340,President,,PAF,Gloria Estela La Riva,3
 Marin,512340,President,,DEM,Hillary Clinton,485
 Marin,512340,President,,GRN,Jill Stein,17
-Marin,512340,President,,WI,Write-In,19
 Marin,512340,Proposition 51,,,No,378
 Marin,512340,Proposition 51,,,Yes,335
 Marin,512340,Proposition 52,,,No,205
@@ -6759,14 +7211,15 @@ Marin,512340,Proposition 66,,,No,369
 Marin,512340,Proposition 66,,,Yes,301
 Marin,512340,Proposition 67,,,No,242
 Marin,512340,Proposition 67,,,Yes,469
+Marin,512340,State Assembly,10,DEM,Marc Levine,443
+Marin,512340,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",192
+Marin,512340,U.S. House,2,REP,Dale K. Mensing,181
+Marin,512340,U.S. House,2,DEM,Jared W. Huffman,518
 Marin,512340,U.S. Senate,,DEM,Kamala D. Harris,491
 Marin,512340,U.S. Senate,,DEM,Loretta L. Sanchez,161
-Marin,611201,President,,REP/AI,Donald J. Trump,8
+Marin,611201,President,,REP,Donald J. Trump,8
 Marin,611201,President,,LIB,Gary Johnson,2
-Marin,611201,President,,PF,Gloria Estela La Riva,0
 Marin,611201,President,,DEM,Hillary Clinton,18
-Marin,611201,President,,GRN,Jill Stein,0
-Marin,611201,President,,WI,Write-In,1
 Marin,611201,Proposition 51,,,No,20
 Marin,611201,Proposition 51,,,Yes,9
 Marin,611201,Proposition 52,,,No,6
@@ -6801,56 +7254,13 @@ Marin,611201,Proposition 66,,,No,15
 Marin,611201,Proposition 66,,,Yes,13
 Marin,611201,Proposition 67,,,No,12
 Marin,611201,Proposition 67,,,Yes,17
+Marin,611201,State Assembly,10,DEM,Marc Levine,13
+Marin,611201,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",12
+Marin,611201,U.S. House,2,REP,Dale K. Mensing,11
+Marin,611201,U.S. House,2,DEM,Jared W. Huffman,17
 Marin,611201,U.S. Senate,,DEM,Kamala D. Harris,17
 Marin,611201,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Marin,620701,President,,REP/AI,Donald J. Trump,0
-Marin,620701,President,,LIB,Gary Johnson,0
-Marin,620701,President,,PF,Gloria Estela La Riva,0
-Marin,620701,President,,DEM,Hillary Clinton,0
-Marin,620701,President,,GRN,Jill Stein,0
-Marin,620701,President,,WI,Write-In,0
-Marin,620701,Proposition 51,,,No,0
-Marin,620701,Proposition 51,,,Yes,0
-Marin,620701,Proposition 52,,,No,0
-Marin,620701,Proposition 52,,,Yes,0
-Marin,620701,Proposition 53,,,No,0
-Marin,620701,Proposition 53,,,Yes,0
-Marin,620701,Proposition 54,,,No,0
-Marin,620701,Proposition 54,,,Yes,0
-Marin,620701,Proposition 55,,,No,0
-Marin,620701,Proposition 55,,,Yes,0
-Marin,620701,Proposition 56,,,No,0
-Marin,620701,Proposition 56,,,Yes,0
-Marin,620701,Proposition 57,,,No,0
-Marin,620701,Proposition 57,,,Yes,0
-Marin,620701,Proposition 58,,,No,0
-Marin,620701,Proposition 58,,,Yes,0
-Marin,620701,Proposition 59,,,No,0
-Marin,620701,Proposition 59,,,Yes,0
-Marin,620701,Proposition 60,,,No,0
-Marin,620701,Proposition 60,,,Yes,0
-Marin,620701,Proposition 61,,,No,0
-Marin,620701,Proposition 61,,,Yes,0
-Marin,620701,Proposition 62,,,No,0
-Marin,620701,Proposition 62,,,Yes,0
-Marin,620701,Proposition 63,,,No,0
-Marin,620701,Proposition 63,,,Yes,0
-Marin,620701,Proposition 64,,,No,0
-Marin,620701,Proposition 64,,,Yes,0
-Marin,620701,Proposition 65,,,No,0
-Marin,620701,Proposition 65,,,Yes,0
-Marin,620701,Proposition 66,,,No,0
-Marin,620701,Proposition 66,,,Yes,0
-Marin,620701,Proposition 67,,,No,0
-Marin,620701,Proposition 67,,,Yes,0
-Marin,620701,U.S. Senate,,DEM,Kamala D. Harris,0
-Marin,620701,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Marin,620702,President,,REP/AI,Donald J. Trump,0
-Marin,620702,President,,LIB,Gary Johnson,0
-Marin,620702,President,,PF,Gloria Estela La Riva,0
 Marin,620702,President,,DEM,Hillary Clinton,4
-Marin,620702,President,,GRN,Jill Stein,0
-Marin,620702,President,,WI,Write-In,1
 Marin,620702,Proposition 51,,,No,3
 Marin,620702,Proposition 51,,,Yes,1
 Marin,620702,Proposition 52,,,No,2
@@ -6861,9 +7271,7 @@ Marin,620702,Proposition 54,,,No,2
 Marin,620702,Proposition 54,,,Yes,3
 Marin,620702,Proposition 55,,,No,4
 Marin,620702,Proposition 55,,,Yes,1
-Marin,620702,Proposition 56,,,No,0
 Marin,620702,Proposition 56,,,Yes,5
-Marin,620702,Proposition 57,,,No,0
 Marin,620702,Proposition 57,,,Yes,5
 Marin,620702,Proposition 58,,,No,2
 Marin,620702,Proposition 58,,,Yes,3
@@ -6873,26 +7281,22 @@ Marin,620702,Proposition 60,,,No,3
 Marin,620702,Proposition 60,,,Yes,2
 Marin,620702,Proposition 61,,,No,2
 Marin,620702,Proposition 61,,,Yes,3
-Marin,620702,Proposition 62,,,No,0
 Marin,620702,Proposition 62,,,Yes,5
-Marin,620702,Proposition 63,,,No,0
 Marin,620702,Proposition 63,,,Yes,5
 Marin,620702,Proposition 64,,,No,3
 Marin,620702,Proposition 64,,,Yes,2
 Marin,620702,Proposition 65,,,No,5
-Marin,620702,Proposition 65,,,Yes,0
 Marin,620702,Proposition 66,,,No,1
 Marin,620702,Proposition 66,,,Yes,3
-Marin,620702,Proposition 67,,,No,0
 Marin,620702,Proposition 67,,,Yes,5
+Marin,620702,State Assembly,10,DEM,Marc Levine,5
+Marin,620702,U.S. House,2,REP,Dale K. Mensing,1
+Marin,620702,U.S. House,2,DEM,Jared W. Huffman,4
 Marin,620702,U.S. Senate,,DEM,Kamala D. Harris,4
-Marin,620702,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Marin,621203,President,,REP/AI,Donald J. Trump,44
+Marin,621203,President,,REP,Donald J. Trump,44
 Marin,621203,President,,LIB,Gary Johnson,13
-Marin,621203,President,,PF,Gloria Estela La Riva,0
 Marin,621203,President,,DEM,Hillary Clinton,141
 Marin,621203,President,,GRN,Jill Stein,3
-Marin,621203,President,,WI,Write-In,12
 Marin,621203,Proposition 51,,,No,112
 Marin,621203,Proposition 51,,,Yes,88
 Marin,621203,Proposition 52,,,No,71
@@ -6927,14 +7331,16 @@ Marin,621203,Proposition 66,,,No,98
 Marin,621203,Proposition 66,,,Yes,75
 Marin,621203,Proposition 67,,,No,61
 Marin,621203,Proposition 67,,,Yes,150
+Marin,621203,State Assembly,10,DEM,Marc Levine,124
+Marin,621203,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",41
+Marin,621203,U.S. House,2,REP,Dale K. Mensing,69
+Marin,621203,U.S. House,2,DEM,Jared W. Huffman,129
 Marin,621203,U.S. Senate,,DEM,Kamala D. Harris,132
 Marin,621203,U.S. Senate,,DEM,Loretta L. Sanchez,52
-Marin,621204,President,,REP/AI,Donald J. Trump,23
+Marin,621204,President,,REP,Donald J. Trump,23
 Marin,621204,President,,LIB,Gary Johnson,3
-Marin,621204,President,,PF,Gloria Estela La Riva,0
 Marin,621204,President,,DEM,Hillary Clinton,186
 Marin,621204,President,,GRN,Jill Stein,3
-Marin,621204,President,,WI,Write-In,10
 Marin,621204,Proposition 51,,,No,90
 Marin,621204,Proposition 51,,,Yes,128
 Marin,621204,Proposition 52,,,No,53
@@ -6969,14 +7375,16 @@ Marin,621204,Proposition 66,,,No,126
 Marin,621204,Proposition 66,,,Yes,83
 Marin,621204,Proposition 67,,,No,51
 Marin,621204,Proposition 67,,,Yes,173
+Marin,621204,State Assembly,10,DEM,Marc Levine,161
+Marin,621204,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",40
+Marin,621204,U.S. House,2,REP,Dale K. Mensing,19
+Marin,621204,U.S. House,2,DEM,Jared W. Huffman,198
 Marin,621204,U.S. Senate,,DEM,Kamala D. Harris,174
 Marin,621204,U.S. Senate,,DEM,Loretta L. Sanchez,38
-Marin,621205,President,,REP/AI,Donald J. Trump,10
+Marin,621205,President,,REP,Donald J. Trump,10
 Marin,621205,President,,LIB,Gary Johnson,2
-Marin,621205,President,,PF,Gloria Estela La Riva,0
 Marin,621205,President,,DEM,Hillary Clinton,128
 Marin,621205,President,,GRN,Jill Stein,5
-Marin,621205,President,,WI,Write-In,6
 Marin,621205,Proposition 51,,,No,58
 Marin,621205,Proposition 51,,,Yes,83
 Marin,621205,Proposition 52,,,No,23
@@ -7011,17 +7419,16 @@ Marin,621205,Proposition 66,,,No,95
 Marin,621205,Proposition 66,,,Yes,38
 Marin,621205,Proposition 67,,,No,28
 Marin,621205,Proposition 67,,,Yes,118
+Marin,621205,State Assembly,10,DEM,Marc Levine,93
+Marin,621205,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",38
+Marin,621205,U.S. House,2,REP,Dale K. Mensing,13
+Marin,621205,U.S. House,2,DEM,Jared W. Huffman,128
 Marin,621205,U.S. Senate,,DEM,Kamala D. Harris,117
 Marin,621205,U.S. Senate,,DEM,Loretta L. Sanchez,19
-Marin,630501,President,,REP/AI,Donald J. Trump,2
-Marin,630501,President,,LIB,Gary Johnson,0
-Marin,630501,President,,PF,Gloria Estela La Riva,0
+Marin,630501,President,,REP,Donald J. Trump,2
 Marin,630501,President,,DEM,Hillary Clinton,10
-Marin,630501,President,,GRN,Jill Stein,0
-Marin,630501,President,,WI,Write-In,0
 Marin,630501,Proposition 51,,,No,6
 Marin,630501,Proposition 51,,,Yes,6
-Marin,630501,Proposition 52,,,No,0
 Marin,630501,Proposition 52,,,Yes,9
 Marin,630501,Proposition 53,,,No,9
 Marin,630501,Proposition 53,,,Yes,2
@@ -7053,14 +7460,16 @@ Marin,630501,Proposition 66,,,No,5
 Marin,630501,Proposition 66,,,Yes,5
 Marin,630501,Proposition 67,,,No,3
 Marin,630501,Proposition 67,,,Yes,9
+Marin,630501,State Assembly,10,DEM,Marc Levine,4
+Marin,630501,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",3
+Marin,630501,U.S. House,2,REP,Dale K. Mensing,2
+Marin,630501,U.S. House,2,DEM,Jared W. Huffman,7
 Marin,630501,U.S. Senate,,DEM,Kamala D. Harris,5
 Marin,630501,U.S. Senate,,DEM,Loretta L. Sanchez,4
-Marin,631102,President,,REP/AI,Donald J. Trump,19
+Marin,631102,President,,REP,Donald J. Trump,19
 Marin,631102,President,,LIB,Gary Johnson,6
-Marin,631102,President,,PF,Gloria Estela La Riva,0
 Marin,631102,President,,DEM,Hillary Clinton,85
 Marin,631102,President,,GRN,Jill Stein,1
-Marin,631102,President,,WI,Write-In,0
 Marin,631102,Proposition 51,,,No,49
 Marin,631102,Proposition 51,,,Yes,64
 Marin,631102,Proposition 52,,,No,24
@@ -7095,14 +7504,16 @@ Marin,631102,Proposition 66,,,No,70
 Marin,631102,Proposition 66,,,Yes,33
 Marin,631102,Proposition 67,,,No,38
 Marin,631102,Proposition 67,,,Yes,75
+Marin,631102,State Assembly,10,DEM,Marc Levine,65
+Marin,631102,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",22
+Marin,631102,U.S. House,2,REP,Dale K. Mensing,24
+Marin,631102,U.S. House,2,DEM,Jared W. Huffman,82
 Marin,631102,U.S. Senate,,DEM,Kamala D. Harris,75
 Marin,631102,U.S. Senate,,DEM,Loretta L. Sanchez,23
-Marin,631203,President,,REP/AI,Donald J. Trump,9
+Marin,631203,President,,REP,Donald J. Trump,9
 Marin,631203,President,,LIB,Gary Johnson,3
-Marin,631203,President,,PF,Gloria Estela La Riva,0
 Marin,631203,President,,DEM,Hillary Clinton,68
 Marin,631203,President,,GRN,Jill Stein,1
-Marin,631203,President,,WI,Write-In,3
 Marin,631203,Proposition 51,,,No,28
 Marin,631203,Proposition 51,,,Yes,52
 Marin,631203,Proposition 52,,,No,21
@@ -7137,14 +7548,16 @@ Marin,631203,Proposition 66,,,No,50
 Marin,631203,Proposition 66,,,Yes,19
 Marin,631203,Proposition 67,,,No,20
 Marin,631203,Proposition 67,,,Yes,59
+Marin,631203,State Assembly,10,DEM,Marc Levine,53
+Marin,631203,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",18
+Marin,631203,U.S. House,2,REP,Dale K. Mensing,10
+Marin,631203,U.S. House,2,DEM,Jared W. Huffman,70
 Marin,631203,U.S. Senate,,DEM,Kamala D. Harris,61
 Marin,631203,U.S. Senate,,DEM,Loretta L. Sanchez,19
-Marin,631204,President,,REP/AI,Donald J. Trump,28
+Marin,631204,President,,REP,Donald J. Trump,28
 Marin,631204,President,,LIB,Gary Johnson,7
-Marin,631204,President,,PF,Gloria Estela La Riva,0
 Marin,631204,President,,DEM,Hillary Clinton,147
 Marin,631204,President,,GRN,Jill Stein,1
-Marin,631204,President,,WI,Write-In,4
 Marin,631204,Proposition 51,,,No,79
 Marin,631204,Proposition 51,,,Yes,97
 Marin,631204,Proposition 52,,,No,49
@@ -7179,14 +7592,16 @@ Marin,631204,Proposition 66,,,No,85
 Marin,631204,Proposition 66,,,Yes,74
 Marin,631204,Proposition 67,,,No,48
 Marin,631204,Proposition 67,,,Yes,124
+Marin,631204,State Assembly,10,DEM,Marc Levine,88
+Marin,631204,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",55
+Marin,631204,U.S. House,2,REP,Dale K. Mensing,29
+Marin,631204,U.S. House,2,DEM,Jared W. Huffman,133
 Marin,631204,U.S. Senate,,DEM,Kamala D. Harris,127
 Marin,631204,U.S. Senate,,DEM,Loretta L. Sanchez,25
-Marin,631205,President,,REP/AI,Donald J. Trump,56
+Marin,631205,President,,REP,Donald J. Trump,56
 Marin,631205,President,,LIB,Gary Johnson,5
-Marin,631205,President,,PF,Gloria Estela La Riva,1
+Marin,631205,President,,PAF,Gloria Estela La Riva,1
 Marin,631205,President,,DEM,Hillary Clinton,118
-Marin,631205,President,,GRN,Jill Stein,0
-Marin,631205,President,,WI,Write-In,2
 Marin,631205,Proposition 51,,,No,110
 Marin,631205,Proposition 51,,,Yes,71
 Marin,631205,Proposition 52,,,No,70
@@ -7221,56 +7636,16 @@ Marin,631205,Proposition 66,,,No,92
 Marin,631205,Proposition 66,,,Yes,80
 Marin,631205,Proposition 67,,,No,70
 Marin,631205,Proposition 67,,,Yes,109
+Marin,631205,State Assembly,10,DEM,Marc Levine,107
+Marin,631205,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",42
+Marin,631205,U.S. House,2,REP,Dale K. Mensing,56
+Marin,631205,U.S. House,2,DEM,Jared W. Huffman,113
 Marin,631205,U.S. Senate,,DEM,Kamala D. Harris,106
 Marin,631205,U.S. Senate,,DEM,Loretta L. Sanchez,40
-Marin,640401,President,,REP/AI,Donald J. Trump,0
-Marin,640401,President,,LIB,Gary Johnson,0
-Marin,640401,President,,PF,Gloria Estela La Riva,0
-Marin,640401,President,,DEM,Hillary Clinton,0
-Marin,640401,President,,GRN,Jill Stein,0
-Marin,640401,President,,WI,Write-In,0
-Marin,640401,Proposition 51,,,No,0
-Marin,640401,Proposition 51,,,Yes,0
-Marin,640401,Proposition 52,,,No,0
-Marin,640401,Proposition 52,,,Yes,0
-Marin,640401,Proposition 53,,,No,0
-Marin,640401,Proposition 53,,,Yes,0
-Marin,640401,Proposition 54,,,No,0
-Marin,640401,Proposition 54,,,Yes,0
-Marin,640401,Proposition 55,,,No,0
-Marin,640401,Proposition 55,,,Yes,0
-Marin,640401,Proposition 56,,,No,0
-Marin,640401,Proposition 56,,,Yes,0
-Marin,640401,Proposition 57,,,No,0
-Marin,640401,Proposition 57,,,Yes,0
-Marin,640401,Proposition 58,,,No,0
-Marin,640401,Proposition 58,,,Yes,0
-Marin,640401,Proposition 59,,,No,0
-Marin,640401,Proposition 59,,,Yes,0
-Marin,640401,Proposition 60,,,No,0
-Marin,640401,Proposition 60,,,Yes,0
-Marin,640401,Proposition 61,,,No,0
-Marin,640401,Proposition 61,,,Yes,0
-Marin,640401,Proposition 62,,,No,0
-Marin,640401,Proposition 62,,,Yes,0
-Marin,640401,Proposition 63,,,No,0
-Marin,640401,Proposition 63,,,Yes,0
-Marin,640401,Proposition 64,,,No,0
-Marin,640401,Proposition 64,,,Yes,0
-Marin,640401,Proposition 65,,,No,0
-Marin,640401,Proposition 65,,,Yes,0
-Marin,640401,Proposition 66,,,No,0
-Marin,640401,Proposition 66,,,Yes,0
-Marin,640401,Proposition 67,,,No,0
-Marin,640401,Proposition 67,,,Yes,0
-Marin,640401,U.S. Senate,,DEM,Kamala D. Harris,0
-Marin,640401,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Marin,641202,President,,REP/AI,Donald J. Trump,78
+Marin,641202,President,,REP,Donald J. Trump,78
 Marin,641202,President,,LIB,Gary Johnson,10
-Marin,641202,President,,PF,Gloria Estela La Riva,0
 Marin,641202,President,,DEM,Hillary Clinton,114
 Marin,641202,President,,GRN,Jill Stein,3
-Marin,641202,President,,WI,Write-In,2
 Marin,641202,Proposition 51,,,No,113
 Marin,641202,Proposition 51,,,Yes,88
 Marin,641202,Proposition 52,,,No,65
@@ -7305,14 +7680,16 @@ Marin,641202,Proposition 66,,,No,98
 Marin,641202,Proposition 66,,,Yes,83
 Marin,641202,Proposition 67,,,No,89
 Marin,641202,Proposition 67,,,Yes,110
+Marin,641202,State Assembly,10,DEM,Marc Levine,101
+Marin,641202,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",61
+Marin,641202,U.S. House,2,REP,Dale K. Mensing,72
+Marin,641202,U.S. House,2,DEM,Jared W. Huffman,114
 Marin,641202,U.S. Senate,,DEM,Kamala D. Harris,111
 Marin,641202,U.S. Senate,,DEM,Loretta L. Sanchez,50
-Marin,641203,President,,REP/AI,Donald J. Trump,28
+Marin,641203,President,,REP,Donald J. Trump,28
 Marin,641203,President,,LIB,Gary Johnson,2
-Marin,641203,President,,PF,Gloria Estela La Riva,0
 Marin,641203,President,,DEM,Hillary Clinton,69
 Marin,641203,President,,GRN,Jill Stein,1
-Marin,641203,President,,WI,Write-In,3
 Marin,641203,Proposition 51,,,No,53
 Marin,641203,Proposition 51,,,Yes,49
 Marin,641203,Proposition 52,,,No,26
@@ -7347,14 +7724,16 @@ Marin,641203,Proposition 66,,,No,54
 Marin,641203,Proposition 66,,,Yes,36
 Marin,641203,Proposition 67,,,No,36
 Marin,641203,Proposition 67,,,Yes,66
+Marin,641203,State Assembly,10,DEM,Marc Levine,66
+Marin,641203,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",27
+Marin,641203,U.S. House,2,REP,Dale K. Mensing,17
+Marin,641203,U.S. House,2,DEM,Jared W. Huffman,85
 Marin,641203,U.S. Senate,,DEM,Kamala D. Harris,60
 Marin,641203,U.S. Senate,,DEM,Loretta L. Sanchez,35
-Marin,641204,President,,REP/AI,Donald J. Trump,5
+Marin,641204,President,,REP,Donald J. Trump,5
 Marin,641204,President,,LIB,Gary Johnson,1
-Marin,641204,President,,PF,Gloria Estela La Riva,0
 Marin,641204,President,,DEM,Hillary Clinton,10
 Marin,641204,President,,GRN,Jill Stein,1
-Marin,641204,President,,WI,Write-In,0
 Marin,641204,Proposition 51,,,No,12
 Marin,641204,Proposition 51,,,Yes,7
 Marin,641204,Proposition 52,,,No,11
@@ -7376,7 +7755,6 @@ Marin,641204,Proposition 59,,,Yes,10
 Marin,641204,Proposition 60,,,No,12
 Marin,641204,Proposition 60,,,Yes,5
 Marin,641204,Proposition 61,,,No,17
-Marin,641204,Proposition 61,,,Yes,0
 Marin,641204,Proposition 62,,,No,9
 Marin,641204,Proposition 62,,,Yes,9
 Marin,641204,Proposition 63,,,No,8
@@ -7389,56 +7767,37 @@ Marin,641204,Proposition 66,,,No,8
 Marin,641204,Proposition 66,,,Yes,7
 Marin,641204,Proposition 67,,,No,8
 Marin,641204,Proposition 67,,,Yes,9
+Marin,641204,State Assembly,10,DEM,Marc Levine,13
+Marin,641204,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",4
+Marin,641204,U.S. House,2,REP,Dale K. Mensing,4
+Marin,641204,U.S. House,2,DEM,Jared W. Huffman,14
 Marin,641204,U.S. Senate,,DEM,Kamala D. Harris,12
 Marin,641204,U.S. Senate,,DEM,Loretta L. Sanchez,4
-Marin,641205,President,,REP/AI,Donald J. Trump,0
-Marin,641205,President,,LIB,Gary Johnson,0
-Marin,641205,President,,PF,Gloria Estela La Riva,0
 Marin,641205,President,,DEM,Hillary Clinton,2
-Marin,641205,President,,GRN,Jill Stein,0
-Marin,641205,President,,WI,Write-In,0
-Marin,641205,Proposition 51,,,No,0
 Marin,641205,Proposition 51,,,Yes,2
-Marin,641205,Proposition 52,,,No,0
 Marin,641205,Proposition 52,,,Yes,2
-Marin,641205,Proposition 53,,,No,0
 Marin,641205,Proposition 53,,,Yes,2
-Marin,641205,Proposition 54,,,No,0
 Marin,641205,Proposition 54,,,Yes,2
-Marin,641205,Proposition 55,,,No,0
 Marin,641205,Proposition 55,,,Yes,2
-Marin,641205,Proposition 56,,,No,0
 Marin,641205,Proposition 56,,,Yes,2
-Marin,641205,Proposition 57,,,No,0
 Marin,641205,Proposition 57,,,Yes,2
-Marin,641205,Proposition 58,,,No,0
 Marin,641205,Proposition 58,,,Yes,2
-Marin,641205,Proposition 59,,,No,0
 Marin,641205,Proposition 59,,,Yes,2
 Marin,641205,Proposition 60,,,No,2
-Marin,641205,Proposition 60,,,Yes,0
-Marin,641205,Proposition 61,,,No,0
 Marin,641205,Proposition 61,,,Yes,2
-Marin,641205,Proposition 62,,,No,0
 Marin,641205,Proposition 62,,,Yes,2
-Marin,641205,Proposition 63,,,No,0
 Marin,641205,Proposition 63,,,Yes,2
-Marin,641205,Proposition 64,,,No,0
 Marin,641205,Proposition 64,,,Yes,2
 Marin,641205,Proposition 65,,,No,2
-Marin,641205,Proposition 65,,,Yes,0
-Marin,641205,Proposition 66,,,No,0
 Marin,641205,Proposition 66,,,Yes,2
-Marin,641205,Proposition 67,,,No,0
 Marin,641205,Proposition 67,,,Yes,2
+Marin,641205,State Assembly,10,DEM,Marc Levine,1
+Marin,641205,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",1
+Marin,641205,U.S. House,2,DEM,Jared W. Huffman,2
 Marin,641205,U.S. Senate,,DEM,Kamala D. Harris,1
 Marin,641205,U.S. Senate,,DEM,Loretta L. Sanchez,1
-Marin,641206,President,,REP/AI,Donald J. Trump,2
-Marin,641206,President,,LIB,Gary Johnson,0
-Marin,641206,President,,PF,Gloria Estela La Riva,0
+Marin,641206,President,,REP,Donald J. Trump,2
 Marin,641206,President,,DEM,Hillary Clinton,1
-Marin,641206,President,,GRN,Jill Stein,0
-Marin,641206,President,,WI,Write-In,1
 Marin,641206,Proposition 51,,,No,2
 Marin,641206,Proposition 51,,,Yes,2
 Marin,641206,Proposition 52,,,No,2
@@ -7453,11 +7812,9 @@ Marin,641206,Proposition 56,,,No,1
 Marin,641206,Proposition 56,,,Yes,3
 Marin,641206,Proposition 57,,,No,2
 Marin,641206,Proposition 57,,,Yes,2
-Marin,641206,Proposition 58,,,No,0
 Marin,641206,Proposition 58,,,Yes,4
 Marin,641206,Proposition 59,,,No,2
 Marin,641206,Proposition 59,,,Yes,2
-Marin,641206,Proposition 60,,,No,0
 Marin,641206,Proposition 60,,,Yes,4
 Marin,641206,Proposition 61,,,No,3
 Marin,641206,Proposition 61,,,Yes,1
@@ -7466,66 +7823,28 @@ Marin,641206,Proposition 62,,,Yes,2
 Marin,641206,Proposition 63,,,No,2
 Marin,641206,Proposition 63,,,Yes,2
 Marin,641206,Proposition 64,,,No,4
-Marin,641206,Proposition 64,,,Yes,0
 Marin,641206,Proposition 65,,,No,4
-Marin,641206,Proposition 65,,,Yes,0
 Marin,641206,Proposition 66,,,No,1
 Marin,641206,Proposition 66,,,Yes,3
 Marin,641206,Proposition 67,,,No,2
 Marin,641206,Proposition 67,,,Yes,2
+Marin,641206,State Assembly,10,DEM,Marc Levine,3
+Marin,641206,U.S. House,2,REP,Dale K. Mensing,2
+Marin,641206,U.S. House,2,DEM,Jared W. Huffman,2
 Marin,641206,U.S. Senate,,DEM,Kamala D. Harris,3
-Marin,641206,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Marin,641207,President,,REP/AI,Donald J. Trump,1
-Marin,641207,President,,LIB,Gary Johnson,0
-Marin,641207,President,,PF,Gloria Estela La Riva,0
-Marin,641207,President,,DEM,Hillary Clinton,0
-Marin,641207,President,,GRN,Jill Stein,0
-Marin,641207,President,,WI,Write-In,0
-Marin,641207,Proposition 51,,,No,0
-Marin,641207,Proposition 51,,,Yes,0
-Marin,641207,Proposition 52,,,No,0
+Marin,641207,President,,REP,Donald J. Trump,1
 Marin,641207,Proposition 52,,,Yes,1
-Marin,641207,Proposition 53,,,No,0
-Marin,641207,Proposition 53,,,Yes,0
-Marin,641207,Proposition 54,,,No,0
-Marin,641207,Proposition 54,,,Yes,0
-Marin,641207,Proposition 55,,,No,0
-Marin,641207,Proposition 55,,,Yes,0
-Marin,641207,Proposition 56,,,No,0
 Marin,641207,Proposition 56,,,Yes,1
-Marin,641207,Proposition 57,,,No,0
 Marin,641207,Proposition 57,,,Yes,1
-Marin,641207,Proposition 58,,,No,0
 Marin,641207,Proposition 58,,,Yes,1
-Marin,641207,Proposition 59,,,No,0
-Marin,641207,Proposition 59,,,Yes,0
-Marin,641207,Proposition 60,,,No,0
-Marin,641207,Proposition 60,,,Yes,0
-Marin,641207,Proposition 61,,,No,0
-Marin,641207,Proposition 61,,,Yes,0
-Marin,641207,Proposition 62,,,No,0
 Marin,641207,Proposition 62,,,Yes,1
-Marin,641207,Proposition 63,,,No,0
-Marin,641207,Proposition 63,,,Yes,0
-Marin,641207,Proposition 64,,,No,0
-Marin,641207,Proposition 64,,,Yes,0
 Marin,641207,Proposition 65,,,No,1
-Marin,641207,Proposition 65,,,Yes,0
-Marin,641207,Proposition 66,,,No,0
-Marin,641207,Proposition 66,,,Yes,0
 Marin,641207,Proposition 67,,,No,1
-Marin,641207,Proposition 67,,,Yes,0
-Marin,641207,U.S. Senate,,DEM,Kamala D. Harris,0
-Marin,641207,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Marin,641208,President,,REP/AI,Donald J. Trump,0
-Marin,641208,President,,LIB,Gary Johnson,0
-Marin,641208,President,,PF,Gloria Estela La Riva,0
+Marin,641207,U.S. House,2,REP,Dale K. Mensing,1
 Marin,641208,President,,DEM,Hillary Clinton,11
 Marin,641208,President,,GRN,Jill Stein,2
-Marin,641208,President,,WI,Write-In,0
 Marin,641208,Proposition 51,,,No,2
 Marin,641208,Proposition 51,,,Yes,11
-Marin,641208,Proposition 52,,,No,0
 Marin,641208,Proposition 52,,,Yes,13
 Marin,641208,Proposition 53,,,No,11
 Marin,641208,Proposition 53,,,Yes,1
@@ -7533,11 +7852,8 @@ Marin,641208,Proposition 54,,,No,3
 Marin,641208,Proposition 54,,,Yes,7
 Marin,641208,Proposition 55,,,No,3
 Marin,641208,Proposition 55,,,Yes,10
-Marin,641208,Proposition 56,,,No,0
 Marin,641208,Proposition 56,,,Yes,13
-Marin,641208,Proposition 57,,,No,0
 Marin,641208,Proposition 57,,,Yes,13
-Marin,641208,Proposition 58,,,No,0
 Marin,641208,Proposition 58,,,Yes,13
 Marin,641208,Proposition 59,,,No,1
 Marin,641208,Proposition 59,,,Yes,12
@@ -7545,26 +7861,25 @@ Marin,641208,Proposition 60,,,No,9
 Marin,641208,Proposition 60,,,Yes,4
 Marin,641208,Proposition 61,,,No,3
 Marin,641208,Proposition 61,,,Yes,9
-Marin,641208,Proposition 62,,,No,0
 Marin,641208,Proposition 62,,,Yes,13
 Marin,641208,Proposition 63,,,No,1
 Marin,641208,Proposition 63,,,Yes,12
-Marin,641208,Proposition 64,,,No,0
 Marin,641208,Proposition 64,,,Yes,11
 Marin,641208,Proposition 65,,,No,8
 Marin,641208,Proposition 65,,,Yes,5
 Marin,641208,Proposition 66,,,No,10
 Marin,641208,Proposition 66,,,Yes,1
-Marin,641208,Proposition 67,,,No,0
 Marin,641208,Proposition 67,,,Yes,13
+Marin,641208,State Assembly,10,DEM,Marc Levine,7
+Marin,641208,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",4
+Marin,641208,U.S. House,2,DEM,Jared W. Huffman,12
 Marin,641208,U.S. Senate,,DEM,Kamala D. Harris,10
 Marin,641208,U.S. Senate,,DEM,Loretta L. Sanchez,2
-Marin,641209,President,,REP/AI,Donald J. Trump,48
+Marin,641209,President,,REP,Donald J. Trump,48
 Marin,641209,President,,LIB,Gary Johnson,5
-Marin,641209,President,,PF,Gloria Estela La Riva,1
+Marin,641209,President,,PAF,Gloria Estela La Riva,1
 Marin,641209,President,,DEM,Hillary Clinton,135
 Marin,641209,President,,GRN,Jill Stein,8
-Marin,641209,President,,WI,Write-In,8
 Marin,641209,Proposition 51,,,No,107
 Marin,641209,Proposition 51,,,Yes,96
 Marin,641209,Proposition 52,,,No,49
@@ -7599,14 +7914,16 @@ Marin,641209,Proposition 66,,,No,100
 Marin,641209,Proposition 66,,,Yes,93
 Marin,641209,Proposition 67,,,No,64
 Marin,641209,Proposition 67,,,Yes,139
+Marin,641209,State Assembly,10,DEM,Marc Levine,114
+Marin,641209,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",67
+Marin,641209,U.S. House,2,REP,Dale K. Mensing,51
+Marin,641209,U.S. House,2,DEM,Jared W. Huffman,146
 Marin,641209,U.S. Senate,,DEM,Kamala D. Harris,153
 Marin,641209,U.S. Senate,,DEM,Loretta L. Sanchez,32
-Marin,641210,President,,REP/AI,Donald J. Trump,3
+Marin,641210,President,,REP,Donald J. Trump,3
 Marin,641210,President,,LIB,Gary Johnson,1
-Marin,641210,President,,PF,Gloria Estela La Riva,1
+Marin,641210,President,,PAF,Gloria Estela La Riva,1
 Marin,641210,President,,DEM,Hillary Clinton,7
-Marin,641210,President,,GRN,Jill Stein,0
-Marin,641210,President,,WI,Write-In,0
 Marin,641210,Proposition 51,,,No,7
 Marin,641210,Proposition 51,,,Yes,4
 Marin,641210,Proposition 52,,,No,3
@@ -7641,5 +7958,9 @@ Marin,641210,Proposition 66,,,No,5
 Marin,641210,Proposition 66,,,Yes,6
 Marin,641210,Proposition 67,,,No,1
 Marin,641210,Proposition 67,,,Yes,11
+Marin,641210,State Assembly,10,DEM,Marc Levine,4
+Marin,641210,State Assembly,10,DEM,"Veronica ""Roni"" Jacobi",4
+Marin,641210,U.S. House,2,REP,Dale K. Mensing,2
+Marin,641210,U.S. House,2,DEM,Jared W. Huffman,8
 Marin,641210,U.S. Senate,,DEM,Kamala D. Harris,8
 Marin,641210,U.S. Senate,,DEM,Loretta L. Sanchez,2
