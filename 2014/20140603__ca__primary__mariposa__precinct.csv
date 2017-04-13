@@ -1,7 +1,6 @@
 county,precinct,office,district,party,candidate,votes
 Mariposa,1001,Attorney General,,REP,David King,2
 Mariposa,1001,Attorney General,,REP,John Haggerty,4
-Mariposa,1001,Attorney General,,LIB,Jonathan Jaech,0
 Mariposa,1001,Attorney General,,DEM,Kamala D. Harris,110
 Mariposa,1001,Attorney General,,IND,Orly Taitz,3
 Mariposa,1001,Attorney General,,REP,Phil Wyman,3
@@ -14,19 +13,12 @@ Mariposa,1001,Controller,,REP,David Evans,10
 Mariposa,1001,Controller,,DEM,John A. Pérez,30
 Mariposa,1001,Controller,,GRN,Laura Wells,21
 Mariposa,1001,Controller,,DEM,Tammy D. Blair,14
-Mariposa,1001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Mariposa,1001,Governor,,DEM,Akinyemi Agbede,1
-Mariposa,1001,Governor,,REP,Alma Marie Winston,0
-Mariposa,1001,Governor,,REP,Andrew Blount,0
 Mariposa,1001,Governor,,PAF,Cindy L. Sheehan,4
 Mariposa,1001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",109
 Mariposa,1001,Governor,,REP,Glenn Champ,3
-Mariposa,1001,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,1001,Governor,,IND,Joe Leicht,0
 Mariposa,1001,Governor,,GRN,Luis J. Rodriguez,2
 Mariposa,1001,Governor,,REP,Neel Kashkari,4
-Mariposa,1001,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,1001,Governor,,REP,Richard William Aguirre,0
 Mariposa,1001,Governor,,IND,Robert Newman,1
 Mariposa,1001,Governor,,REP,Tim Donnelly,12
 Mariposa,1001,Insurance Commissioner,,DEM,Dave Jones,101
@@ -40,6 +32,10 @@ Mariposa,1001,Lieutenant Governor,,DEM,Gavin Newsom,108
 Mariposa,1001,Lieutenant Governor,,REP,George Yang,2
 Mariposa,1001,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Mariposa,1001,Lieutenant Governor,,REP,Ron Nehring,9
+Mariposa,1001,Proposition 41,,,No,45
+Mariposa,1001,Proposition 41,,,Yes,85
+Mariposa,1001,Proposition 42,,,No,43
+Mariposa,1001,Proposition 42,,,Yes,80
 Mariposa,1001,Secretary of State,,DEM,Alex Padilla,46
 Mariposa,1001,Secretary of State,,IND,Dan Schnur,7
 Mariposa,1001,Secretary of State,,GRN,David Curtis,16
@@ -75,18 +71,11 @@ Mariposa,1002,Controller,,REP,David Evans,29
 Mariposa,1002,Controller,,DEM,John A. Pérez,15
 Mariposa,1002,Controller,,GRN,Laura Wells,4
 Mariposa,1002,Controller,,DEM,Tammy D. Blair,2
-Mariposa,1002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,1002,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,1002,Governor,,REP,Alma Marie Winston,2
 Mariposa,1002,Governor,,REP,Andrew Blount,7
-Mariposa,1002,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,1002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",50
 Mariposa,1002,Governor,,REP,Glenn Champ,3
-Mariposa,1002,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,1002,Governor,,IND,Joe Leicht,0
-Mariposa,1002,Governor,,GRN,Luis J. Rodriguez,0
 Mariposa,1002,Governor,,REP,Neel Kashkari,16
-Mariposa,1002,Governor,,IND,Rakesh Kumar Christian,0
 Mariposa,1002,Governor,,REP,Richard William Aguirre,1
 Mariposa,1002,Governor,,IND,Robert Newman,1
 Mariposa,1002,Governor,,REP,Tim Donnelly,33
@@ -101,6 +90,10 @@ Mariposa,1002,Lieutenant Governor,,DEM,Gavin Newsom,43
 Mariposa,1002,Lieutenant Governor,,REP,George Yang,11
 Mariposa,1002,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Mariposa,1002,Lieutenant Governor,,REP,Ron Nehring,30
+Mariposa,1002,Proposition 41,,,No,43
+Mariposa,1002,Proposition 41,,,Yes,70
+Mariposa,1002,Proposition 42,,,No,63
+Mariposa,1002,Proposition 42,,,Yes,45
 Mariposa,1002,Secretary of State,,DEM,Alex Padilla,28
 Mariposa,1002,Secretary of State,,IND,Dan Schnur,4
 Mariposa,1002,Secretary of State,,GRN,David Curtis,2
@@ -138,7 +131,6 @@ Mariposa,1003,Controller,,GRN,Laura Wells,32
 Mariposa,1003,Controller,,DEM,Tammy D. Blair,16
 Mariposa,1003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Mariposa,1003,Governor,,DEM,Akinyemi Agbede,1
-Mariposa,1003,Governor,,REP,Alma Marie Winston,0
 Mariposa,1003,Governor,,REP,Andrew Blount,4
 Mariposa,1003,Governor,,PAF,Cindy L. Sheehan,4
 Mariposa,1003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",134
@@ -148,7 +140,6 @@ Mariposa,1003,Governor,,IND,Joe Leicht,2
 Mariposa,1003,Governor,,GRN,Luis J. Rodriguez,9
 Mariposa,1003,Governor,,REP,Neel Kashkari,52
 Mariposa,1003,Governor,,IND,Rakesh Kumar Christian,2
-Mariposa,1003,Governor,,REP,Richard William Aguirre,0
 Mariposa,1003,Governor,,IND,Robert Newman,4
 Mariposa,1003,Governor,,REP,Tim Donnelly,67
 Mariposa,1003,Insurance Commissioner,,DEM,Dave Jones,132
@@ -162,6 +153,10 @@ Mariposa,1003,Lieutenant Governor,,DEM,Gavin Newsom,127
 Mariposa,1003,Lieutenant Governor,,REP,George Yang,26
 Mariposa,1003,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Mariposa,1003,Lieutenant Governor,,REP,Ron Nehring,82
+Mariposa,1003,Proposition 41,,,No,129
+Mariposa,1003,Proposition 41,,,Yes,157
+Mariposa,1003,Proposition 42,,,No,166
+Mariposa,1003,Proposition 42,,,Yes,104
 Mariposa,1003,Secretary of State,,DEM,Alex Padilla,54
 Mariposa,1003,Secretary of State,,IND,Dan Schnur,20
 Mariposa,1003,Secretary of State,,GRN,David Curtis,26
@@ -184,9 +179,7 @@ Mariposa,1003,U.S. House,4,IND,Jeffrey D. Gerlach,87
 Mariposa,1003,U.S. House,4,REP,Tom McClintock,128
 Mariposa,1004,Attorney General,,REP,David King,1
 Mariposa,1004,Attorney General,,REP,John Haggerty,3
-Mariposa,1004,Attorney General,,LIB,Jonathan Jaech,0
 Mariposa,1004,Attorney General,,DEM,Kamala D. Harris,13
-Mariposa,1004,Attorney General,,IND,Orly Taitz,0
 Mariposa,1004,Attorney General,,REP,Phil Wyman,2
 Mariposa,1004,Attorney General,,REP,Ronald Gold,3
 Mariposa,1004,Board of Equalization,1,DEM,Chris Parker,13
@@ -195,38 +188,22 @@ Mariposa,1004,Controller,,REP,Ashley Swearengin,10
 Mariposa,1004,Controller,,DEM,Betty T. Yee,5
 Mariposa,1004,Controller,,REP,David Evans,1
 Mariposa,1004,Controller,,DEM,John A. Pérez,6
-Mariposa,1004,Controller,,GRN,Laura Wells,0
-Mariposa,1004,Controller,,DEM,Tammy D. Blair,0
-Mariposa,1004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,1004,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,1004,Governor,,REP,Alma Marie Winston,0
-Mariposa,1004,Governor,,REP,Andrew Blount,0
-Mariposa,1004,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,1004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
-Mariposa,1004,Governor,,REP,Glenn Champ,0
-Mariposa,1004,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,1004,Governor,,IND,Joe Leicht,0
-Mariposa,1004,Governor,,GRN,Luis J. Rodriguez,0
 Mariposa,1004,Governor,,REP,Neel Kashkari,4
-Mariposa,1004,Governor,,IND,Rakesh Kumar Christian,0
 Mariposa,1004,Governor,,REP,Richard William Aguirre,1
-Mariposa,1004,Governor,,IND,Robert Newman,0
 Mariposa,1004,Governor,,REP,Tim Donnelly,4
 Mariposa,1004,Insurance Commissioner,,DEM,Dave Jones,14
-Mariposa,1004,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Mariposa,1004,Insurance Commissioner,,REP,Ted Gaines,9
-Mariposa,1004,Lieutenant Governor,,AME,Alan Reynolds,0
-Mariposa,1004,Lieutenant Governor,,PAF,Amos Johnson,0
-Mariposa,1004,Lieutenant Governor,,REP,David Fennell,0
 Mariposa,1004,Lieutenant Governor,,DEM,Eric Korevaar,3
 Mariposa,1004,Lieutenant Governor,,DEM,Gavin Newsom,12
 Mariposa,1004,Lieutenant Governor,,REP,George Yang,3
-Mariposa,1004,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Mariposa,1004,Lieutenant Governor,,REP,Ron Nehring,5
+Mariposa,1004,Proposition 41,,,No,13
+Mariposa,1004,Proposition 41,,,Yes,12
+Mariposa,1004,Proposition 42,,,No,15
+Mariposa,1004,Proposition 42,,,Yes,10
 Mariposa,1004,Secretary of State,,DEM,Alex Padilla,6
 Mariposa,1004,Secretary of State,,IND,Dan Schnur,2
-Mariposa,1004,Secretary of State,,GRN,David Curtis,0
-Mariposa,1004,Secretary of State,,DEM,Derek Cressman,0
 Mariposa,1004,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Mariposa,1004,Secretary of State,,DEM,Leland Yee,2
 Mariposa,1004,Secretary of State,,REP,Pete Peterson,7
@@ -237,7 +214,6 @@ Mariposa,1004,State Senate,8,REP,Tom Berryhill,9
 Mariposa,1004,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Mariposa,1004,Superintendent of Public Instruction,,NOP,Marshall Tuck,5
 Mariposa,1004,Superintendent of Public Instruction,,NOP,Tom Torlakson,17
-Mariposa,1004,Treasurer,,GRN,Ellen H. Brown,0
 Mariposa,1004,Treasurer,,REP,Greg Conlon,9
 Mariposa,1004,Treasurer,,DEM,John Chiang,13
 Mariposa,1004,U.S. House,4,REP,"Arthur ""Art"" Moore",2
@@ -259,17 +235,11 @@ Mariposa,1005,Controller,,DEM,John A. Pérez,24
 Mariposa,1005,Controller,,GRN,Laura Wells,15
 Mariposa,1005,Controller,,DEM,Tammy D. Blair,6
 Mariposa,1005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Mariposa,1005,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,1005,Governor,,REP,Alma Marie Winston,0
 Mariposa,1005,Governor,,REP,Andrew Blount,2
 Mariposa,1005,Governor,,PAF,Cindy L. Sheehan,7
 Mariposa,1005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",78
-Mariposa,1005,Governor,,REP,Glenn Champ,0
-Mariposa,1005,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,1005,Governor,,IND,Joe Leicht,0
 Mariposa,1005,Governor,,GRN,Luis J. Rodriguez,1
 Mariposa,1005,Governor,,REP,Neel Kashkari,6
-Mariposa,1005,Governor,,IND,Rakesh Kumar Christian,0
 Mariposa,1005,Governor,,REP,Richard William Aguirre,1
 Mariposa,1005,Governor,,IND,Robert Newman,2
 Mariposa,1005,Governor,,REP,Tim Donnelly,8
@@ -284,6 +254,10 @@ Mariposa,1005,Lieutenant Governor,,DEM,Gavin Newsom,66
 Mariposa,1005,Lieutenant Governor,,REP,George Yang,4
 Mariposa,1005,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Mariposa,1005,Lieutenant Governor,,REP,Ron Nehring,11
+Mariposa,1005,Proposition 41,,,No,31
+Mariposa,1005,Proposition 41,,,Yes,72
+Mariposa,1005,Proposition 42,,,No,44
+Mariposa,1005,Proposition 42,,,Yes,53
 Mariposa,1005,Secretary of State,,DEM,Alex Padilla,38
 Mariposa,1005,Secretary of State,,IND,Dan Schnur,5
 Mariposa,1005,Secretary of State,,GRN,David Curtis,5
@@ -320,13 +294,10 @@ Mariposa,1006,Controller,,DEM,John A. Pérez,13
 Mariposa,1006,Controller,,GRN,Laura Wells,4
 Mariposa,1006,Controller,,DEM,Tammy D. Blair,8
 Mariposa,1006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Mariposa,1006,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,1006,Governor,,REP,Alma Marie Winston,1
 Mariposa,1006,Governor,,REP,Andrew Blount,7
-Mariposa,1006,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,1006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",61
 Mariposa,1006,Governor,,REP,Glenn Champ,18
-Mariposa,1006,Governor,,IND,Janel Hyeshia Buycks,0
 Mariposa,1006,Governor,,IND,Joe Leicht,1
 Mariposa,1006,Governor,,GRN,Luis J. Rodriguez,4
 Mariposa,1006,Governor,,REP,Neel Kashkari,53
@@ -338,13 +309,16 @@ Mariposa,1006,Insurance Commissioner,,DEM,Dave Jones,63
 Mariposa,1006,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Mariposa,1006,Insurance Commissioner,,REP,Ted Gaines,134
 Mariposa,1006,Lieutenant Governor,,AME,Alan Reynolds,1
-Mariposa,1006,Lieutenant Governor,,PAF,Amos Johnson,0
 Mariposa,1006,Lieutenant Governor,,REP,David Fennell,17
 Mariposa,1006,Lieutenant Governor,,DEM,Eric Korevaar,8
 Mariposa,1006,Lieutenant Governor,,DEM,Gavin Newsom,59
 Mariposa,1006,Lieutenant Governor,,REP,George Yang,22
 Mariposa,1006,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Mariposa,1006,Lieutenant Governor,,REP,Ron Nehring,93
+Mariposa,1006,Proposition 41,,,No,96
+Mariposa,1006,Proposition 41,,,Yes,100
+Mariposa,1006,Proposition 42,,,No,111
+Mariposa,1006,Proposition 42,,,Yes,77
 Mariposa,1006,Secretary of State,,DEM,Alex Padilla,25
 Mariposa,1006,Secretary of State,,IND,Dan Schnur,8
 Mariposa,1006,Secretary of State,,GRN,David Curtis,8
@@ -365,53 +339,28 @@ Mariposa,1006,Treasurer,,DEM,John Chiang,67
 Mariposa,1006,U.S. House,4,REP,"Arthur ""Art"" Moore",44
 Mariposa,1006,U.S. House,4,IND,Jeffrey D. Gerlach,25
 Mariposa,1006,U.S. House,4,REP,Tom McClintock,126
-Mariposa,2001,Attorney General,,REP,David King,0
 Mariposa,2001,Attorney General,,REP,John Haggerty,1
-Mariposa,2001,Attorney General,,LIB,Jonathan Jaech,0
 Mariposa,2001,Attorney General,,DEM,Kamala D. Harris,6
-Mariposa,2001,Attorney General,,IND,Orly Taitz,0
 Mariposa,2001,Attorney General,,REP,Phil Wyman,1
 Mariposa,2001,Attorney General,,REP,Ronald Gold,1
 Mariposa,2001,Board of Equalization,1,DEM,Chris Parker,6
 Mariposa,2001,Board of Equalization,1,REP,George Runner,3
-Mariposa,2001,Controller,,REP,Ashley Swearengin,0
 Mariposa,2001,Controller,,DEM,Betty T. Yee,2
 Mariposa,2001,Controller,,REP,David Evans,3
 Mariposa,2001,Controller,,DEM,John A. Pérez,3
 Mariposa,2001,Controller,,GRN,Laura Wells,1
-Mariposa,2001,Controller,,DEM,Tammy D. Blair,0
-Mariposa,2001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,2001,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,2001,Governor,,REP,Alma Marie Winston,0
 Mariposa,2001,Governor,,REP,Andrew Blount,1
-Mariposa,2001,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,2001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Mariposa,2001,Governor,,REP,Glenn Champ,0
-Mariposa,2001,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,2001,Governor,,IND,Joe Leicht,0
-Mariposa,2001,Governor,,GRN,Luis J. Rodriguez,0
-Mariposa,2001,Governor,,REP,Neel Kashkari,0
-Mariposa,2001,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,2001,Governor,,REP,Richard William Aguirre,0
-Mariposa,2001,Governor,,IND,Robert Newman,0
 Mariposa,2001,Governor,,REP,Tim Donnelly,1
 Mariposa,2001,Insurance Commissioner,,DEM,Dave Jones,6
-Mariposa,2001,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Mariposa,2001,Insurance Commissioner,,REP,Ted Gaines,3
-Mariposa,2001,Lieutenant Governor,,AME,Alan Reynolds,0
-Mariposa,2001,Lieutenant Governor,,PAF,Amos Johnson,0
-Mariposa,2001,Lieutenant Governor,,REP,David Fennell,0
-Mariposa,2001,Lieutenant Governor,,DEM,Eric Korevaar,0
 Mariposa,2001,Lieutenant Governor,,DEM,Gavin Newsom,6
-Mariposa,2001,Lieutenant Governor,,REP,George Yang,0
-Mariposa,2001,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Mariposa,2001,Lieutenant Governor,,REP,Ron Nehring,3
+Mariposa,2001,Proposition 41,,,No,4
+Mariposa,2001,Proposition 41,,,Yes,5
+Mariposa,2001,Proposition 42,,,No,3
+Mariposa,2001,Proposition 42,,,Yes,6
 Mariposa,2001,Secretary of State,,DEM,Alex Padilla,6
-Mariposa,2001,Secretary of State,,IND,Dan Schnur,0
-Mariposa,2001,Secretary of State,,GRN,David Curtis,0
-Mariposa,2001,Secretary of State,,DEM,Derek Cressman,0
-Mariposa,2001,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Mariposa,2001,Secretary of State,,DEM,Leland Yee,0
 Mariposa,2001,Secretary of State,,REP,Pete Peterson,2
 Mariposa,2001,Secretary of State,,REP,Roy Allmond,1
 Mariposa,2001,State Assembly,5,REP,Frank Bigelow,4
@@ -420,7 +369,6 @@ Mariposa,2001,State Senate,8,REP,Tom Berryhill,3
 Mariposa,2001,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,4
 Mariposa,2001,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Mariposa,2001,Superintendent of Public Instruction,,NOP,Tom Torlakson,4
-Mariposa,2001,Treasurer,,GRN,Ellen H. Brown,0
 Mariposa,2001,Treasurer,,REP,Greg Conlon,3
 Mariposa,2001,Treasurer,,DEM,John Chiang,6
 Mariposa,2001,U.S. House,4,REP,"Arthur ""Art"" Moore",1
@@ -467,6 +415,10 @@ Mariposa,2002,Lieutenant Governor,,DEM,Gavin Newsom,76
 Mariposa,2002,Lieutenant Governor,,REP,George Yang,22
 Mariposa,2002,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Mariposa,2002,Lieutenant Governor,,REP,Ron Nehring,61
+Mariposa,2002,Proposition 41,,,No,75
+Mariposa,2002,Proposition 41,,,Yes,124
+Mariposa,2002,Proposition 42,,,No,92
+Mariposa,2002,Proposition 42,,,Yes,94
 Mariposa,2002,Secretary of State,,DEM,Alex Padilla,34
 Mariposa,2002,Secretary of State,,IND,Dan Schnur,10
 Mariposa,2002,Secretary of State,,GRN,David Curtis,7
@@ -504,17 +456,12 @@ Mariposa,2003,Controller,,GRN,Laura Wells,8
 Mariposa,2003,Controller,,DEM,Tammy D. Blair,9
 Mariposa,2003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
 Mariposa,2003,Governor,,DEM,Akinyemi Agbede,2
-Mariposa,2003,Governor,,REP,Alma Marie Winston,0
 Mariposa,2003,Governor,,REP,Andrew Blount,10
-Mariposa,2003,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,2003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",74
 Mariposa,2003,Governor,,REP,Glenn Champ,12
-Mariposa,2003,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,2003,Governor,,IND,Joe Leicht,0
 Mariposa,2003,Governor,,GRN,Luis J. Rodriguez,1
 Mariposa,2003,Governor,,REP,Neel Kashkari,28
 Mariposa,2003,Governor,,IND,Rakesh Kumar Christian,1
-Mariposa,2003,Governor,,REP,Richard William Aguirre,0
 Mariposa,2003,Governor,,IND,Robert Newman,9
 Mariposa,2003,Governor,,REP,Tim Donnelly,63
 Mariposa,2003,Insurance Commissioner,,DEM,Dave Jones,73
@@ -528,6 +475,10 @@ Mariposa,2003,Lieutenant Governor,,DEM,Gavin Newsom,67
 Mariposa,2003,Lieutenant Governor,,REP,George Yang,25
 Mariposa,2003,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Mariposa,2003,Lieutenant Governor,,REP,Ron Nehring,67
+Mariposa,2003,Proposition 41,,,No,91
+Mariposa,2003,Proposition 41,,,Yes,112
+Mariposa,2003,Proposition 42,,,No,96
+Mariposa,2003,Proposition 42,,,Yes,94
 Mariposa,2003,Secretary of State,,DEM,Alex Padilla,25
 Mariposa,2003,Secretary of State,,IND,Dan Schnur,18
 Mariposa,2003,Secretary of State,,GRN,David Curtis,6
@@ -570,12 +521,8 @@ Mariposa,2005,Governor,,REP,Andrew Blount,12
 Mariposa,2005,Governor,,PAF,Cindy L. Sheehan,3
 Mariposa,2005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Mariposa,2005,Governor,,REP,Glenn Champ,5
-Mariposa,2005,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,2005,Governor,,IND,Joe Leicht,0
 Mariposa,2005,Governor,,GRN,Luis J. Rodriguez,4
 Mariposa,2005,Governor,,REP,Neel Kashkari,47
-Mariposa,2005,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,2005,Governor,,REP,Richard William Aguirre,0
 Mariposa,2005,Governor,,IND,Robert Newman,9
 Mariposa,2005,Governor,,REP,Tim Donnelly,78
 Mariposa,2005,Insurance Commissioner,,DEM,Dave Jones,80
@@ -589,6 +536,10 @@ Mariposa,2005,Lieutenant Governor,,DEM,Gavin Newsom,80
 Mariposa,2005,Lieutenant Governor,,REP,George Yang,15
 Mariposa,2005,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Mariposa,2005,Lieutenant Governor,,REP,Ron Nehring,81
+Mariposa,2005,Proposition 41,,,No,114
+Mariposa,2005,Proposition 41,,,Yes,118
+Mariposa,2005,Proposition 42,,,No,149
+Mariposa,2005,Proposition 42,,,Yes,66
 Mariposa,2005,Secretary of State,,DEM,Alex Padilla,27
 Mariposa,2005,Secretary of State,,IND,Dan Schnur,15
 Mariposa,2005,Secretary of State,,GRN,David Curtis,8
@@ -624,15 +575,12 @@ Mariposa,3001,Controller,,REP,David Evans,78
 Mariposa,3001,Controller,,DEM,John A. Pérez,26
 Mariposa,3001,Controller,,GRN,Laura Wells,18
 Mariposa,3001,Controller,,DEM,Tammy D. Blair,9
-Mariposa,3001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,3001,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,3001,Governor,,REP,Alma Marie Winston,1
 Mariposa,3001,Governor,,REP,Andrew Blount,13
 Mariposa,3001,Governor,,PAF,Cindy L. Sheehan,2
 Mariposa,3001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 Mariposa,3001,Governor,,REP,Glenn Champ,4
 Mariposa,3001,Governor,,IND,Janel Hyeshia Buycks,1
-Mariposa,3001,Governor,,IND,Joe Leicht,0
 Mariposa,3001,Governor,,GRN,Luis J. Rodriguez,2
 Mariposa,3001,Governor,,REP,Neel Kashkari,81
 Mariposa,3001,Governor,,IND,Rakesh Kumar Christian,2
@@ -650,6 +598,10 @@ Mariposa,3001,Lieutenant Governor,,DEM,Gavin Newsom,73
 Mariposa,3001,Lieutenant Governor,,REP,George Yang,39
 Mariposa,3001,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Mariposa,3001,Lieutenant Governor,,REP,Ron Nehring,134
+Mariposa,3001,Proposition 41,,,No,159
+Mariposa,3001,Proposition 41,,,Yes,143
+Mariposa,3001,Proposition 42,,,No,156
+Mariposa,3001,Proposition 42,,,Yes,137
 Mariposa,3001,Secretary of State,,DEM,Alex Padilla,43
 Mariposa,3001,Secretary of State,,IND,Dan Schnur,23
 Mariposa,3001,Secretary of State,,GRN,David Curtis,7
@@ -684,38 +636,29 @@ Mariposa,3002,Controller,,DEM,Betty T. Yee,7
 Mariposa,3002,Controller,,REP,David Evans,19
 Mariposa,3002,Controller,,DEM,John A. Pérez,3
 Mariposa,3002,Controller,,GRN,Laura Wells,2
-Mariposa,3002,Controller,,DEM,Tammy D. Blair,0
 Mariposa,3002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Mariposa,3002,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,3002,Governor,,REP,Alma Marie Winston,0
 Mariposa,3002,Governor,,REP,Andrew Blount,3
-Mariposa,3002,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,3002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
 Mariposa,3002,Governor,,REP,Glenn Champ,1
-Mariposa,3002,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,3002,Governor,,IND,Joe Leicht,0
-Mariposa,3002,Governor,,GRN,Luis J. Rodriguez,0
 Mariposa,3002,Governor,,REP,Neel Kashkari,15
-Mariposa,3002,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,3002,Governor,,REP,Richard William Aguirre,0
 Mariposa,3002,Governor,,IND,Robert Newman,3
 Mariposa,3002,Governor,,REP,Tim Donnelly,26
 Mariposa,3002,Insurance Commissioner,,DEM,Dave Jones,12
 Mariposa,3002,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Mariposa,3002,Insurance Commissioner,,REP,Ted Gaines,46
-Mariposa,3002,Lieutenant Governor,,AME,Alan Reynolds,0
 Mariposa,3002,Lieutenant Governor,,PAF,Amos Johnson,2
 Mariposa,3002,Lieutenant Governor,,REP,David Fennell,15
 Mariposa,3002,Lieutenant Governor,,DEM,Eric Korevaar,1
 Mariposa,3002,Lieutenant Governor,,DEM,Gavin Newsom,11
 Mariposa,3002,Lieutenant Governor,,REP,George Yang,6
-Mariposa,3002,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Mariposa,3002,Lieutenant Governor,,REP,Ron Nehring,26
+Mariposa,3002,Proposition 41,,,No,35
+Mariposa,3002,Proposition 41,,,Yes,23
+Mariposa,3002,Proposition 42,,,No,39
+Mariposa,3002,Proposition 42,,,Yes,21
 Mariposa,3002,Secretary of State,,DEM,Alex Padilla,9
 Mariposa,3002,Secretary of State,,IND,Dan Schnur,5
-Mariposa,3002,Secretary of State,,GRN,David Curtis,0
 Mariposa,3002,Secretary of State,,DEM,Derek Cressman,2
-Mariposa,3002,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Mariposa,3002,Secretary of State,,DEM,Leland Yee,1
 Mariposa,3002,Secretary of State,,REP,Pete Peterson,32
 Mariposa,3002,Secretary of State,,REP,Roy Allmond,9
@@ -757,7 +700,6 @@ Mariposa,3003,Governor,,IND,Janel Hyeshia Buycks,1
 Mariposa,3003,Governor,,IND,Joe Leicht,2
 Mariposa,3003,Governor,,GRN,Luis J. Rodriguez,2
 Mariposa,3003,Governor,,REP,Neel Kashkari,72
-Mariposa,3003,Governor,,IND,Rakesh Kumar Christian,0
 Mariposa,3003,Governor,,REP,Richard William Aguirre,2
 Mariposa,3003,Governor,,IND,Robert Newman,9
 Mariposa,3003,Governor,,REP,Tim Donnelly,66
@@ -772,6 +714,10 @@ Mariposa,3003,Lieutenant Governor,,DEM,Gavin Newsom,91
 Mariposa,3003,Lieutenant Governor,,REP,George Yang,29
 Mariposa,3003,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Mariposa,3003,Lieutenant Governor,,REP,Ron Nehring,95
+Mariposa,3003,Proposition 41,,,No,123
+Mariposa,3003,Proposition 41,,,Yes,143
+Mariposa,3003,Proposition 42,,,No,154
+Mariposa,3003,Proposition 42,,,Yes,99
 Mariposa,3003,Secretary of State,,DEM,Alex Padilla,42
 Mariposa,3003,Secretary of State,,IND,Dan Schnur,35
 Mariposa,3003,Secretary of State,,GRN,David Curtis,8
@@ -833,6 +779,10 @@ Mariposa,3004,Lieutenant Governor,,DEM,Gavin Newsom,115
 Mariposa,3004,Lieutenant Governor,,REP,George Yang,35
 Mariposa,3004,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Mariposa,3004,Lieutenant Governor,,REP,Ron Nehring,120
+Mariposa,3004,Proposition 41,,,No,156
+Mariposa,3004,Proposition 41,,,Yes,197
+Mariposa,3004,Proposition 42,,,No,202
+Mariposa,3004,Proposition 42,,,Yes,142
 Mariposa,3004,Secretary of State,,DEM,Alex Padilla,58
 Mariposa,3004,Secretary of State,,IND,Dan Schnur,39
 Mariposa,3004,Secretary of State,,GRN,David Curtis,14
@@ -853,53 +803,35 @@ Mariposa,3004,Treasurer,,DEM,John Chiang,146
 Mariposa,3004,U.S. House,4,REP,"Arthur ""Art"" Moore",77
 Mariposa,3004,U.S. House,4,IND,Jeffrey D. Gerlach,78
 Mariposa,3004,U.S. House,4,REP,Tom McClintock,198
-Mariposa,3005,Attorney General,,REP,David King,0
 Mariposa,3005,Attorney General,,REP,John Haggerty,6
-Mariposa,3005,Attorney General,,LIB,Jonathan Jaech,0
 Mariposa,3005,Attorney General,,DEM,Kamala D. Harris,5
-Mariposa,3005,Attorney General,,IND,Orly Taitz,0
 Mariposa,3005,Attorney General,,REP,Phil Wyman,16
 Mariposa,3005,Attorney General,,REP,Ronald Gold,1
 Mariposa,3005,Board of Equalization,1,DEM,Chris Parker,4
 Mariposa,3005,Board of Equalization,1,REP,George Runner,21
 Mariposa,3005,Controller,,REP,Ashley Swearengin,20
-Mariposa,3005,Controller,,DEM,Betty T. Yee,0
 Mariposa,3005,Controller,,REP,David Evans,5
-Mariposa,3005,Controller,,DEM,John A. Pérez,0
 Mariposa,3005,Controller,,GRN,Laura Wells,3
-Mariposa,3005,Controller,,DEM,Tammy D. Blair,0
-Mariposa,3005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,3005,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,3005,Governor,,REP,Alma Marie Winston,0
 Mariposa,3005,Governor,,REP,Andrew Blount,1
-Mariposa,3005,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,3005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
 Mariposa,3005,Governor,,REP,Glenn Champ,3
-Mariposa,3005,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,3005,Governor,,IND,Joe Leicht,0
 Mariposa,3005,Governor,,GRN,Luis J. Rodriguez,1
 Mariposa,3005,Governor,,REP,Neel Kashkari,9
-Mariposa,3005,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,3005,Governor,,REP,Richard William Aguirre,0
-Mariposa,3005,Governor,,IND,Robert Newman,0
 Mariposa,3005,Governor,,REP,Tim Donnelly,11
 Mariposa,3005,Insurance Commissioner,,DEM,Dave Jones,2
 Mariposa,3005,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Mariposa,3005,Insurance Commissioner,,REP,Ted Gaines,22
 Mariposa,3005,Lieutenant Governor,,AME,Alan Reynolds,1
-Mariposa,3005,Lieutenant Governor,,PAF,Amos Johnson,0
 Mariposa,3005,Lieutenant Governor,,REP,David Fennell,7
-Mariposa,3005,Lieutenant Governor,,DEM,Eric Korevaar,0
 Mariposa,3005,Lieutenant Governor,,DEM,Gavin Newsom,3
-Mariposa,3005,Lieutenant Governor,,REP,George Yang,0
 Mariposa,3005,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Mariposa,3005,Lieutenant Governor,,REP,Ron Nehring,16
+Mariposa,3005,Proposition 41,,,No,18
+Mariposa,3005,Proposition 41,,,Yes,10
+Mariposa,3005,Proposition 42,,,No,13
+Mariposa,3005,Proposition 42,,,Yes,14
 Mariposa,3005,Secretary of State,,DEM,Alex Padilla,1
-Mariposa,3005,Secretary of State,,IND,Dan Schnur,0
 Mariposa,3005,Secretary of State,,GRN,David Curtis,3
-Mariposa,3005,Secretary of State,,DEM,Derek Cressman,0
-Mariposa,3005,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Mariposa,3005,Secretary of State,,DEM,Leland Yee,0
 Mariposa,3005,Secretary of State,,REP,Pete Peterson,23
 Mariposa,3005,Secretary of State,,REP,Roy Allmond,1
 Mariposa,3005,State Assembly,5,REP,Frank Bigelow,23
@@ -911,7 +843,6 @@ Mariposa,3005,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
 Mariposa,3005,Treasurer,,GRN,Ellen H. Brown,3
 Mariposa,3005,Treasurer,,REP,Greg Conlon,23
 Mariposa,3005,Treasurer,,DEM,John Chiang,2
-Mariposa,3005,U.S. House,4,REP,"Arthur ""Art"" Moore",0
 Mariposa,3005,U.S. House,4,IND,Jeffrey D. Gerlach,3
 Mariposa,3005,U.S. House,4,REP,Tom McClintock,24
 Mariposa,3006,Attorney General,,REP,David King,4
@@ -930,18 +861,14 @@ Mariposa,3006,Controller,,DEM,John A. Pérez,15
 Mariposa,3006,Controller,,GRN,Laura Wells,10
 Mariposa,3006,Controller,,DEM,Tammy D. Blair,3
 Mariposa,3006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Mariposa,3006,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,3006,Governor,,REP,Alma Marie Winston,1
 Mariposa,3006,Governor,,REP,Andrew Blount,7
 Mariposa,3006,Governor,,PAF,Cindy L. Sheehan,3
 Mariposa,3006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",33
 Mariposa,3006,Governor,,REP,Glenn Champ,11
-Mariposa,3006,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,3006,Governor,,IND,Joe Leicht,0
 Mariposa,3006,Governor,,GRN,Luis J. Rodriguez,2
 Mariposa,3006,Governor,,REP,Neel Kashkari,17
 Mariposa,3006,Governor,,IND,Rakesh Kumar Christian,1
-Mariposa,3006,Governor,,REP,Richard William Aguirre,0
 Mariposa,3006,Governor,,IND,Robert Newman,2
 Mariposa,3006,Governor,,REP,Tim Donnelly,39
 Mariposa,3006,Insurance Commissioner,,DEM,Dave Jones,33
@@ -955,6 +882,10 @@ Mariposa,3006,Lieutenant Governor,,DEM,Gavin Newsom,36
 Mariposa,3006,Lieutenant Governor,,REP,George Yang,9
 Mariposa,3006,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Mariposa,3006,Lieutenant Governor,,REP,Ron Nehring,41
+Mariposa,3006,Proposition 41,,,No,56
+Mariposa,3006,Proposition 41,,,Yes,55
+Mariposa,3006,Proposition 42,,,No,59
+Mariposa,3006,Proposition 42,,,Yes,47
 Mariposa,3006,Secretary of State,,DEM,Alex Padilla,16
 Mariposa,3006,Secretary of State,,IND,Dan Schnur,8
 Mariposa,3006,Secretary of State,,GRN,David Curtis,3
@@ -991,18 +922,12 @@ Mariposa,4001,Controller,,DEM,John A. Pérez,13
 Mariposa,4001,Controller,,GRN,Laura Wells,15
 Mariposa,4001,Controller,,DEM,Tammy D. Blair,5
 Mariposa,4001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Mariposa,4001,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,4001,Governor,,REP,Alma Marie Winston,0
 Mariposa,4001,Governor,,REP,Andrew Blount,13
 Mariposa,4001,Governor,,PAF,Cindy L. Sheehan,5
 Mariposa,4001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",64
 Mariposa,4001,Governor,,REP,Glenn Champ,7
-Mariposa,4001,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,4001,Governor,,IND,Joe Leicht,0
 Mariposa,4001,Governor,,GRN,Luis J. Rodriguez,6
 Mariposa,4001,Governor,,REP,Neel Kashkari,62
-Mariposa,4001,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,4001,Governor,,REP,Richard William Aguirre,0
 Mariposa,4001,Governor,,IND,Robert Newman,7
 Mariposa,4001,Governor,,REP,Tim Donnelly,73
 Mariposa,4001,Insurance Commissioner,,DEM,Dave Jones,71
@@ -1016,6 +941,10 @@ Mariposa,4001,Lieutenant Governor,,DEM,Gavin Newsom,57
 Mariposa,4001,Lieutenant Governor,,REP,George Yang,18
 Mariposa,4001,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Mariposa,4001,Lieutenant Governor,,REP,Ron Nehring,102
+Mariposa,4001,Proposition 41,,,No,101
+Mariposa,4001,Proposition 41,,,Yes,134
+Mariposa,4001,Proposition 42,,,No,127
+Mariposa,4001,Proposition 42,,,Yes,99
 Mariposa,4001,Secretary of State,,DEM,Alex Padilla,33
 Mariposa,4001,Secretary of State,,IND,Dan Schnur,14
 Mariposa,4001,Secretary of State,,GRN,David Curtis,10
@@ -1052,17 +981,13 @@ Mariposa,4002,Controller,,DEM,John A. Pérez,36
 Mariposa,4002,Controller,,GRN,Laura Wells,16
 Mariposa,4002,Controller,,DEM,Tammy D. Blair,15
 Mariposa,4002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Mariposa,4002,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,4002,Governor,,REP,Alma Marie Winston,3
 Mariposa,4002,Governor,,REP,Andrew Blount,11
 Mariposa,4002,Governor,,PAF,Cindy L. Sheehan,10
 Mariposa,4002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",120
 Mariposa,4002,Governor,,REP,Glenn Champ,10
-Mariposa,4002,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,4002,Governor,,IND,Joe Leicht,0
 Mariposa,4002,Governor,,GRN,Luis J. Rodriguez,5
 Mariposa,4002,Governor,,REP,Neel Kashkari,64
-Mariposa,4002,Governor,,IND,Rakesh Kumar Christian,0
 Mariposa,4002,Governor,,REP,Richard William Aguirre,1
 Mariposa,4002,Governor,,IND,Robert Newman,6
 Mariposa,4002,Governor,,REP,Tim Donnelly,73
@@ -1077,6 +1002,10 @@ Mariposa,4002,Lieutenant Governor,,DEM,Gavin Newsom,110
 Mariposa,4002,Lieutenant Governor,,REP,George Yang,25
 Mariposa,4002,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Mariposa,4002,Lieutenant Governor,,REP,Ron Nehring,100
+Mariposa,4002,Proposition 41,,,No,127
+Mariposa,4002,Proposition 41,,,Yes,164
+Mariposa,4002,Proposition 42,,,No,152
+Mariposa,4002,Proposition 42,,,Yes,127
 Mariposa,4002,Secretary of State,,DEM,Alex Padilla,64
 Mariposa,4002,Secretary of State,,IND,Dan Schnur,9
 Mariposa,4002,Secretary of State,,GRN,David Curtis,13
@@ -1138,6 +1067,10 @@ Mariposa,4003,Lieutenant Governor,,DEM,Gavin Newsom,85
 Mariposa,4003,Lieutenant Governor,,REP,George Yang,25
 Mariposa,4003,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Mariposa,4003,Lieutenant Governor,,REP,Ron Nehring,65
+Mariposa,4003,Proposition 41,,,No,85
+Mariposa,4003,Proposition 41,,,Yes,126
+Mariposa,4003,Proposition 42,,,No,106
+Mariposa,4003,Proposition 42,,,Yes,96
 Mariposa,4003,Secretary of State,,DEM,Alex Padilla,43
 Mariposa,4003,Secretary of State,,IND,Dan Schnur,13
 Mariposa,4003,Secretary of State,,GRN,David Curtis,7
@@ -1173,25 +1106,16 @@ Mariposa,4004,Controller,,REP,David Evans,50
 Mariposa,4004,Controller,,DEM,John A. Pérez,14
 Mariposa,4004,Controller,,GRN,Laura Wells,7
 Mariposa,4004,Controller,,DEM,Tammy D. Blair,11
-Mariposa,4004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,4004,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,4004,Governor,,REP,Alma Marie Winston,0
 Mariposa,4004,Governor,,REP,Andrew Blount,13
 Mariposa,4004,Governor,,PAF,Cindy L. Sheehan,5
 Mariposa,4004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",51
 Mariposa,4004,Governor,,REP,Glenn Champ,4
 Mariposa,4004,Governor,,IND,Janel Hyeshia Buycks,1
-Mariposa,4004,Governor,,IND,Joe Leicht,0
-Mariposa,4004,Governor,,GRN,Luis J. Rodriguez,0
 Mariposa,4004,Governor,,REP,Neel Kashkari,41
-Mariposa,4004,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,4004,Governor,,REP,Richard William Aguirre,0
-Mariposa,4004,Governor,,IND,Robert Newman,0
 Mariposa,4004,Governor,,REP,Tim Donnelly,60
 Mariposa,4004,Insurance Commissioner,,DEM,Dave Jones,52
 Mariposa,4004,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Mariposa,4004,Insurance Commissioner,,REP,Ted Gaines,111
-Mariposa,4004,Lieutenant Governor,,AME,Alan Reynolds,0
 Mariposa,4004,Lieutenant Governor,,PAF,Amos Johnson,3
 Mariposa,4004,Lieutenant Governor,,REP,David Fennell,21
 Mariposa,4004,Lieutenant Governor,,DEM,Eric Korevaar,6
@@ -1199,6 +1123,10 @@ Mariposa,4004,Lieutenant Governor,,DEM,Gavin Newsom,49
 Mariposa,4004,Lieutenant Governor,,REP,George Yang,13
 Mariposa,4004,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Mariposa,4004,Lieutenant Governor,,REP,Ron Nehring,74
+Mariposa,4004,Proposition 41,,,No,87
+Mariposa,4004,Proposition 41,,,Yes,85
+Mariposa,4004,Proposition 42,,,No,102
+Mariposa,4004,Proposition 42,,,Yes,64
 Mariposa,4004,Secretary of State,,DEM,Alex Padilla,28
 Mariposa,4004,Secretary of State,,IND,Dan Schnur,6
 Mariposa,4004,Secretary of State,,GRN,David Curtis,2
@@ -1235,18 +1163,15 @@ Mariposa,5001,Controller,,DEM,John A. Pérez,18
 Mariposa,5001,Controller,,GRN,Laura Wells,12
 Mariposa,5001,Controller,,DEM,Tammy D. Blair,10
 Mariposa,5001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Mariposa,5001,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,5001,Governor,,REP,Alma Marie Winston,2
 Mariposa,5001,Governor,,REP,Andrew Blount,14
 Mariposa,5001,Governor,,PAF,Cindy L. Sheehan,1
 Mariposa,5001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",65
 Mariposa,5001,Governor,,REP,Glenn Champ,17
-Mariposa,5001,Governor,,IND,Janel Hyeshia Buycks,0
 Mariposa,5001,Governor,,IND,Joe Leicht,1
 Mariposa,5001,Governor,,GRN,Luis J. Rodriguez,4
 Mariposa,5001,Governor,,REP,Neel Kashkari,51
 Mariposa,5001,Governor,,IND,Rakesh Kumar Christian,2
-Mariposa,5001,Governor,,REP,Richard William Aguirre,0
 Mariposa,5001,Governor,,IND,Robert Newman,2
 Mariposa,5001,Governor,,REP,Tim Donnelly,71
 Mariposa,5001,Insurance Commissioner,,DEM,Dave Jones,72
@@ -1260,6 +1185,10 @@ Mariposa,5001,Lieutenant Governor,,DEM,Gavin Newsom,63
 Mariposa,5001,Lieutenant Governor,,REP,George Yang,21
 Mariposa,5001,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Mariposa,5001,Lieutenant Governor,,REP,Ron Nehring,91
+Mariposa,5001,Proposition 41,,,No,99
+Mariposa,5001,Proposition 41,,,Yes,129
+Mariposa,5001,Proposition 42,,,No,117
+Mariposa,5001,Proposition 42,,,Yes,97
 Mariposa,5001,Secretary of State,,DEM,Alex Padilla,26
 Mariposa,5001,Secretary of State,,IND,Dan Schnur,12
 Mariposa,5001,Secretary of State,,GRN,David Curtis,9
@@ -1295,7 +1224,6 @@ Mariposa,5002,Controller,,REP,David Evans,59
 Mariposa,5002,Controller,,DEM,John A. Pérez,31
 Mariposa,5002,Controller,,GRN,Laura Wells,9
 Mariposa,5002,Controller,,DEM,Tammy D. Blair,8
-Mariposa,5002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Mariposa,5002,Governor,,DEM,Akinyemi Agbede,1
 Mariposa,5002,Governor,,REP,Alma Marie Winston,1
 Mariposa,5002,Governor,,REP,Andrew Blount,17
@@ -1303,11 +1231,9 @@ Mariposa,5002,Governor,,PAF,Cindy L. Sheehan,7
 Mariposa,5002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",77
 Mariposa,5002,Governor,,REP,Glenn Champ,12
 Mariposa,5002,Governor,,IND,Janel Hyeshia Buycks,2
-Mariposa,5002,Governor,,IND,Joe Leicht,0
 Mariposa,5002,Governor,,GRN,Luis J. Rodriguez,1
 Mariposa,5002,Governor,,REP,Neel Kashkari,68
 Mariposa,5002,Governor,,IND,Rakesh Kumar Christian,1
-Mariposa,5002,Governor,,REP,Richard William Aguirre,0
 Mariposa,5002,Governor,,IND,Robert Newman,7
 Mariposa,5002,Governor,,REP,Tim Donnelly,84
 Mariposa,5002,Insurance Commissioner,,DEM,Dave Jones,82
@@ -1321,6 +1247,10 @@ Mariposa,5002,Lieutenant Governor,,DEM,Gavin Newsom,80
 Mariposa,5002,Lieutenant Governor,,REP,George Yang,32
 Mariposa,5002,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Mariposa,5002,Lieutenant Governor,,REP,Ron Nehring,106
+Mariposa,5002,Proposition 41,,,No,121
+Mariposa,5002,Proposition 41,,,Yes,150
+Mariposa,5002,Proposition 42,,,No,135
+Mariposa,5002,Proposition 42,,,Yes,120
 Mariposa,5002,Secretary of State,,DEM,Alex Padilla,41
 Mariposa,5002,Secretary of State,,IND,Dan Schnur,16
 Mariposa,5002,Secretary of State,,GRN,David Curtis,11
@@ -1343,7 +1273,6 @@ Mariposa,5002,U.S. House,4,IND,Jeffrey D. Gerlach,49
 Mariposa,5002,U.S. House,4,REP,Tom McClintock,163
 Mariposa,5003,Attorney General,,REP,David King,4
 Mariposa,5003,Attorney General,,REP,John Haggerty,10
-Mariposa,5003,Attorney General,,LIB,Jonathan Jaech,0
 Mariposa,5003,Attorney General,,DEM,Kamala D. Harris,29
 Mariposa,5003,Attorney General,,IND,Orly Taitz,2
 Mariposa,5003,Attorney General,,REP,Phil Wyman,9
@@ -1356,32 +1285,25 @@ Mariposa,5003,Controller,,REP,David Evans,6
 Mariposa,5003,Controller,,DEM,John A. Pérez,5
 Mariposa,5003,Controller,,GRN,Laura Wells,5
 Mariposa,5003,Controller,,DEM,Tammy D. Blair,2
-Mariposa,5003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Mariposa,5003,Governor,,DEM,Akinyemi Agbede,0
-Mariposa,5003,Governor,,REP,Alma Marie Winston,0
 Mariposa,5003,Governor,,REP,Andrew Blount,1
-Mariposa,5003,Governor,,PAF,Cindy L. Sheehan,0
 Mariposa,5003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Mariposa,5003,Governor,,REP,Glenn Champ,4
-Mariposa,5003,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,5003,Governor,,IND,Joe Leicht,0
 Mariposa,5003,Governor,,GRN,Luis J. Rodriguez,2
 Mariposa,5003,Governor,,REP,Neel Kashkari,4
-Mariposa,5003,Governor,,IND,Rakesh Kumar Christian,0
-Mariposa,5003,Governor,,REP,Richard William Aguirre,0
-Mariposa,5003,Governor,,IND,Robert Newman,0
 Mariposa,5003,Governor,,REP,Tim Donnelly,15
 Mariposa,5003,Insurance Commissioner,,DEM,Dave Jones,30
 Mariposa,5003,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Mariposa,5003,Insurance Commissioner,,REP,Ted Gaines,25
-Mariposa,5003,Lieutenant Governor,,AME,Alan Reynolds,0
-Mariposa,5003,Lieutenant Governor,,PAF,Amos Johnson,0
 Mariposa,5003,Lieutenant Governor,,REP,David Fennell,4
 Mariposa,5003,Lieutenant Governor,,DEM,Eric Korevaar,4
 Mariposa,5003,Lieutenant Governor,,DEM,Gavin Newsom,26
 Mariposa,5003,Lieutenant Governor,,REP,George Yang,3
 Mariposa,5003,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Mariposa,5003,Lieutenant Governor,,REP,Ron Nehring,18
+Mariposa,5003,Proposition 41,,,No,22
+Mariposa,5003,Proposition 41,,,Yes,36
+Mariposa,5003,Proposition 42,,,No,22
+Mariposa,5003,Proposition 42,,,Yes,31
 Mariposa,5003,Secretary of State,,DEM,Alex Padilla,7
 Mariposa,5003,Secretary of State,,IND,Dan Schnur,2
 Mariposa,5003,Secretary of State,,GRN,David Curtis,1
@@ -1418,14 +1340,11 @@ Mariposa,5004,Controller,,DEM,John A. Pérez,35
 Mariposa,5004,Controller,,GRN,Laura Wells,20
 Mariposa,5004,Controller,,DEM,Tammy D. Blair,7
 Mariposa,5004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Mariposa,5004,Governor,,DEM,Akinyemi Agbede,0
 Mariposa,5004,Governor,,REP,Alma Marie Winston,2
 Mariposa,5004,Governor,,REP,Andrew Blount,12
 Mariposa,5004,Governor,,PAF,Cindy L. Sheehan,8
 Mariposa,5004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",99
 Mariposa,5004,Governor,,REP,Glenn Champ,6
-Mariposa,5004,Governor,,IND,Janel Hyeshia Buycks,0
-Mariposa,5004,Governor,,IND,Joe Leicht,0
 Mariposa,5004,Governor,,GRN,Luis J. Rodriguez,3
 Mariposa,5004,Governor,,REP,Neel Kashkari,71
 Mariposa,5004,Governor,,IND,Rakesh Kumar Christian,1
@@ -1443,6 +1362,10 @@ Mariposa,5004,Lieutenant Governor,,DEM,Gavin Newsom,97
 Mariposa,5004,Lieutenant Governor,,REP,George Yang,30
 Mariposa,5004,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Mariposa,5004,Lieutenant Governor,,REP,Ron Nehring,109
+Mariposa,5004,Proposition 41,,,No,129
+Mariposa,5004,Proposition 41,,,Yes,183
+Mariposa,5004,Proposition 42,,,No,166
+Mariposa,5004,Proposition 42,,,Yes,121
 Mariposa,5004,Secretary of State,,DEM,Alex Padilla,53
 Mariposa,5004,Secretary of State,,IND,Dan Schnur,20
 Mariposa,5004,Secretary of State,,GRN,David Curtis,11
@@ -1489,7 +1412,6 @@ Mariposa,5005,Governor,,IND,Janel Hyeshia Buycks,1
 Mariposa,5005,Governor,,IND,Joe Leicht,1
 Mariposa,5005,Governor,,GRN,Luis J. Rodriguez,6
 Mariposa,5005,Governor,,REP,Neel Kashkari,52
-Mariposa,5005,Governor,,IND,Rakesh Kumar Christian,0
 Mariposa,5005,Governor,,REP,Richard William Aguirre,2
 Mariposa,5005,Governor,,IND,Robert Newman,5
 Mariposa,5005,Governor,,REP,Tim Donnelly,74
@@ -1504,6 +1426,10 @@ Mariposa,5005,Lieutenant Governor,,DEM,Gavin Newsom,51
 Mariposa,5005,Lieutenant Governor,,REP,George Yang,29
 Mariposa,5005,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Mariposa,5005,Lieutenant Governor,,REP,Ron Nehring,83
+Mariposa,5005,Proposition 41,,,No,114
+Mariposa,5005,Proposition 41,,,Yes,105
+Mariposa,5005,Proposition 42,,,No,123
+Mariposa,5005,Proposition 42,,,Yes,81
 Mariposa,5005,Secretary of State,,DEM,Alex Padilla,29
 Mariposa,5005,Secretary of State,,IND,Dan Schnur,9
 Mariposa,5005,Secretary of State,,GRN,David Curtis,9

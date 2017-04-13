@@ -26,7 +26,6 @@ Tehama,10030,Governor,,IND,Joe Leicht,2
 Tehama,10030,Governor,,GRN,Luis J. Rodriguez,3
 Tehama,10030,Governor,,REP,Neel Kashkari,95
 Tehama,10030,Governor,,IND,Rakesh Kumar Christian,5
-Tehama,10030,Governor,,REP,Richard William Aguirre,0
 Tehama,10030,Governor,,IND,Robert Newman,11
 Tehama,10030,Governor,,REP,Tim Donnelly,194
 Tehama,10030,Insurance Commissioner,,DEM,Dave Jones,141
@@ -40,6 +39,10 @@ Tehama,10030,Lieutenant Governor,,DEM,Gavin Newsom,117
 Tehama,10030,Lieutenant Governor,,REP,George Yang,46
 Tehama,10030,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Tehama,10030,Lieutenant Governor,,REP,Ron Nehring,180
+Tehama,10030,Proposition 41,,,No,283
+Tehama,10030,Proposition 41,,,Yes,286
+Tehama,10030,Proposition 42,,,No,303
+Tehama,10030,Proposition 42,,,Yes,245
 Tehama,10030,Secretary of State,,DEM,Alex Padilla,72
 Tehama,10030,Secretary of State,,IND,Dan Schnur,72
 Tehama,10030,Secretary of State,,GRN,David Curtis,16
@@ -104,6 +107,10 @@ Tehama,10050,Lieutenant Governor,,DEM,Gavin Newsom,113
 Tehama,10050,Lieutenant Governor,,REP,George Yang,34
 Tehama,10050,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Tehama,10050,Lieutenant Governor,,REP,Ron Nehring,187
+Tehama,10050,Proposition 41,,,No,266
+Tehama,10050,Proposition 41,,,Yes,313
+Tehama,10050,Proposition 42,,,No,291
+Tehama,10050,Proposition 42,,,Yes,277
 Tehama,10050,Secretary of State,,DEM,Alex Padilla,89
 Tehama,10050,Secretary of State,,IND,Dan Schnur,106
 Tehama,10050,Secretary of State,,GRN,David Curtis,26
@@ -143,7 +150,6 @@ Tehama,10130,Controller,,DEM,John A. Pérez,78
 Tehama,10130,Controller,,GRN,Laura Wells,40
 Tehama,10130,Controller,,DEM,Tammy D. Blair,41
 Tehama,10130,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",8
-Tehama,10130,Governor,,DEM,Akinyemi Agbede,0
 Tehama,10130,Governor,,REP,Alma Marie Winston,2
 Tehama,10130,Governor,,REP,Andrew Blount,39
 Tehama,10130,Governor,,PAF,Cindy L. Sheehan,11
@@ -168,6 +174,10 @@ Tehama,10130,Lieutenant Governor,,DEM,Gavin Newsom,184
 Tehama,10130,Lieutenant Governor,,REP,George Yang,74
 Tehama,10130,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Tehama,10130,Lieutenant Governor,,REP,Ron Nehring,279
+Tehama,10130,Proposition 41,,,No,377
+Tehama,10130,Proposition 41,,,Yes,447
+Tehama,10130,Proposition 42,,,No,458
+Tehama,10130,Proposition 42,,,Yes,336
 Tehama,10130,Secretary of State,,DEM,Alex Padilla,126
 Tehama,10130,Secretary of State,,IND,Dan Schnur,122
 Tehama,10130,Secretary of State,,GRN,David Curtis,14
@@ -214,10 +224,8 @@ Tehama,12060,Governor,,PAF,Cindy L. Sheehan,6
 Tehama,12060,Governor,,DEM,"Edmund G. ""Jerry"" Brown",167
 Tehama,12060,Governor,,REP,Glenn Champ,14
 Tehama,12060,Governor,,IND,Janel Hyeshia Buycks,10
-Tehama,12060,Governor,,IND,Joe Leicht,0
 Tehama,12060,Governor,,GRN,Luis J. Rodriguez,5
 Tehama,12060,Governor,,REP,Neel Kashkari,62
-Tehama,12060,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,12060,Governor,,REP,Richard William Aguirre,4
 Tehama,12060,Governor,,IND,Robert Newman,11
 Tehama,12060,Governor,,REP,Tim Donnelly,87
@@ -232,6 +240,10 @@ Tehama,12060,Lieutenant Governor,,DEM,Gavin Newsom,111
 Tehama,12060,Lieutenant Governor,,REP,George Yang,26
 Tehama,12060,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Tehama,12060,Lieutenant Governor,,REP,Ron Nehring,101
+Tehama,12060,Proposition 41,,,No,133
+Tehama,12060,Proposition 41,,,Yes,258
+Tehama,12060,Proposition 42,,,No,184
+Tehama,12060,Proposition 42,,,Yes,192
 Tehama,12060,Secretary of State,,DEM,Alex Padilla,81
 Tehama,12060,Secretary of State,,IND,Dan Schnur,50
 Tehama,12060,Secretary of State,,GRN,David Curtis,22
@@ -271,7 +283,6 @@ Tehama,12080,Controller,,DEM,John A. Pérez,48
 Tehama,12080,Controller,,GRN,Laura Wells,19
 Tehama,12080,Controller,,DEM,Tammy D. Blair,45
 Tehama,12080,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Tehama,12080,Governor,,DEM,Akinyemi Agbede,0
 Tehama,12080,Governor,,REP,Alma Marie Winston,10
 Tehama,12080,Governor,,REP,Andrew Blount,19
 Tehama,12080,Governor,,PAF,Cindy L. Sheehan,6
@@ -296,6 +307,10 @@ Tehama,12080,Lieutenant Governor,,DEM,Gavin Newsom,140
 Tehama,12080,Lieutenant Governor,,REP,George Yang,35
 Tehama,12080,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tehama,12080,Lieutenant Governor,,REP,Ron Nehring,112
+Tehama,12080,Proposition 41,,,No,171
+Tehama,12080,Proposition 41,,,Yes,255
+Tehama,12080,Proposition 42,,,No,232
+Tehama,12080,Proposition 42,,,Yes,177
 Tehama,12080,Secretary of State,,DEM,Alex Padilla,94
 Tehama,12080,Secretary of State,,IND,Dan Schnur,44
 Tehama,12080,Secretary of State,,GRN,David Curtis,19
@@ -336,17 +351,14 @@ Tehama,12210,Controller,,GRN,Laura Wells,11
 Tehama,12210,Controller,,DEM,Tammy D. Blair,32
 Tehama,12210,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Tehama,12210,Governor,,DEM,Akinyemi Agbede,2
-Tehama,12210,Governor,,REP,Alma Marie Winston,0
 Tehama,12210,Governor,,REP,Andrew Blount,17
 Tehama,12210,Governor,,PAF,Cindy L. Sheehan,4
 Tehama,12210,Governor,,DEM,"Edmund G. ""Jerry"" Brown",77
 Tehama,12210,Governor,,REP,Glenn Champ,8
 Tehama,12210,Governor,,IND,Janel Hyeshia Buycks,3
-Tehama,12210,Governor,,IND,Joe Leicht,0
 Tehama,12210,Governor,,GRN,Luis J. Rodriguez,3
 Tehama,12210,Governor,,REP,Neel Kashkari,40
 Tehama,12210,Governor,,IND,Rakesh Kumar Christian,1
-Tehama,12210,Governor,,REP,Richard William Aguirre,0
 Tehama,12210,Governor,,IND,Robert Newman,5
 Tehama,12210,Governor,,REP,Tim Donnelly,47
 Tehama,12210,Insurance Commissioner,,DEM,Dave Jones,79
@@ -360,6 +372,10 @@ Tehama,12210,Lieutenant Governor,,DEM,Gavin Newsom,58
 Tehama,12210,Lieutenant Governor,,REP,George Yang,18
 Tehama,12210,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Tehama,12210,Lieutenant Governor,,REP,Ron Nehring,38
+Tehama,12210,Proposition 41,,,No,68
+Tehama,12210,Proposition 41,,,Yes,138
+Tehama,12210,Proposition 42,,,No,99
+Tehama,12210,Proposition 42,,,Yes,99
 Tehama,12210,Secretary of State,,DEM,Alex Padilla,49
 Tehama,12210,Secretary of State,,IND,Dan Schnur,25
 Tehama,12210,Secretary of State,,GRN,David Curtis,4
@@ -399,7 +415,6 @@ Tehama,20140,Controller,,DEM,John A. Pérez,49
 Tehama,20140,Controller,,GRN,Laura Wells,39
 Tehama,20140,Controller,,DEM,Tammy D. Blair,38
 Tehama,20140,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",7
-Tehama,20140,Governor,,DEM,Akinyemi Agbede,0
 Tehama,20140,Governor,,REP,Alma Marie Winston,4
 Tehama,20140,Governor,,REP,Andrew Blount,45
 Tehama,20140,Governor,,PAF,Cindy L. Sheehan,3
@@ -424,6 +439,10 @@ Tehama,20140,Lieutenant Governor,,DEM,Gavin Newsom,124
 Tehama,20140,Lieutenant Governor,,REP,George Yang,41
 Tehama,20140,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tehama,20140,Lieutenant Governor,,REP,Ron Nehring,156
+Tehama,20140,Proposition 41,,,No,255
+Tehama,20140,Proposition 41,,,Yes,282
+Tehama,20140,Proposition 42,,,No,303
+Tehama,20140,Proposition 42,,,Yes,206
 Tehama,20140,Secretary of State,,DEM,Alex Padilla,90
 Tehama,20140,Secretary of State,,IND,Dan Schnur,70
 Tehama,20140,Secretary of State,,GRN,David Curtis,21
@@ -462,18 +481,13 @@ Tehama,20160,Controller,,REP,David Evans,43
 Tehama,20160,Controller,,DEM,John A. Pérez,21
 Tehama,20160,Controller,,GRN,Laura Wells,7
 Tehama,20160,Controller,,DEM,Tammy D. Blair,12
-Tehama,20160,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,20160,Governor,,DEM,Akinyemi Agbede,0
 Tehama,20160,Governor,,REP,Alma Marie Winston,1
 Tehama,20160,Governor,,REP,Andrew Blount,4
 Tehama,20160,Governor,,PAF,Cindy L. Sheehan,1
 Tehama,20160,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
 Tehama,20160,Governor,,REP,Glenn Champ,16
 Tehama,20160,Governor,,IND,Janel Hyeshia Buycks,2
-Tehama,20160,Governor,,IND,Joe Leicht,0
-Tehama,20160,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,20160,Governor,,REP,Neel Kashkari,19
-Tehama,20160,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,20160,Governor,,REP,Richard William Aguirre,2
 Tehama,20160,Governor,,IND,Robert Newman,4
 Tehama,20160,Governor,,REP,Tim Donnelly,32
@@ -488,6 +502,10 @@ Tehama,20160,Lieutenant Governor,,DEM,Gavin Newsom,36
 Tehama,20160,Lieutenant Governor,,REP,George Yang,9
 Tehama,20160,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tehama,20160,Lieutenant Governor,,REP,Ron Nehring,21
+Tehama,20160,Proposition 41,,,No,56
+Tehama,20160,Proposition 41,,,Yes,65
+Tehama,20160,Proposition 42,,,No,59
+Tehama,20160,Proposition 42,,,Yes,54
 Tehama,20160,Secretary of State,,DEM,Alex Padilla,26
 Tehama,20160,Secretary of State,,IND,Dan Schnur,14
 Tehama,20160,Secretary of State,,GRN,David Curtis,3
@@ -534,10 +552,7 @@ Tehama,20170,Governor,,PAF,Cindy L. Sheehan,6
 Tehama,20170,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 Tehama,20170,Governor,,REP,Glenn Champ,19
 Tehama,20170,Governor,,IND,Janel Hyeshia Buycks,3
-Tehama,20170,Governor,,IND,Joe Leicht,0
-Tehama,20170,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,20170,Governor,,REP,Neel Kashkari,38
-Tehama,20170,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,20170,Governor,,REP,Richard William Aguirre,1
 Tehama,20170,Governor,,IND,Robert Newman,7
 Tehama,20170,Governor,,REP,Tim Donnelly,54
@@ -552,6 +567,10 @@ Tehama,20170,Lieutenant Governor,,DEM,Gavin Newsom,57
 Tehama,20170,Lieutenant Governor,,REP,George Yang,9
 Tehama,20170,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tehama,20170,Lieutenant Governor,,REP,Ron Nehring,62
+Tehama,20170,Proposition 41,,,No,106
+Tehama,20170,Proposition 41,,,Yes,124
+Tehama,20170,Proposition 42,,,No,112
+Tehama,20170,Proposition 42,,,Yes,104
 Tehama,20170,Secretary of State,,DEM,Alex Padilla,39
 Tehama,20170,Secretary of State,,IND,Dan Schnur,34
 Tehama,20170,Secretary of State,,GRN,David Curtis,8
@@ -591,7 +610,6 @@ Tehama,20250,Controller,,DEM,John A. Pérez,23
 Tehama,20250,Controller,,GRN,Laura Wells,14
 Tehama,20250,Controller,,DEM,Tammy D. Blair,18
 Tehama,20250,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Tehama,20250,Governor,,DEM,Akinyemi Agbede,0
 Tehama,20250,Governor,,REP,Alma Marie Winston,6
 Tehama,20250,Governor,,REP,Andrew Blount,21
 Tehama,20250,Governor,,PAF,Cindy L. Sheehan,1
@@ -616,6 +634,10 @@ Tehama,20250,Lieutenant Governor,,DEM,Gavin Newsom,59
 Tehama,20250,Lieutenant Governor,,REP,George Yang,24
 Tehama,20250,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tehama,20250,Lieutenant Governor,,REP,Ron Nehring,137
+Tehama,20250,Proposition 41,,,No,177
+Tehama,20250,Proposition 41,,,Yes,198
+Tehama,20250,Proposition 42,,,No,188
+Tehama,20250,Proposition 42,,,Yes,173
 Tehama,20250,Secretary of State,,DEM,Alex Padilla,37
 Tehama,20250,Secretary of State,,IND,Dan Schnur,70
 Tehama,20250,Secretary of State,,GRN,David Curtis,10
@@ -662,7 +684,6 @@ Tehama,20255,Governor,,PAF,Cindy L. Sheehan,3
 Tehama,20255,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Tehama,20255,Governor,,REP,Glenn Champ,12
 Tehama,20255,Governor,,IND,Janel Hyeshia Buycks,1
-Tehama,20255,Governor,,IND,Joe Leicht,0
 Tehama,20255,Governor,,GRN,Luis J. Rodriguez,1
 Tehama,20255,Governor,,REP,Neel Kashkari,50
 Tehama,20255,Governor,,IND,Rakesh Kumar Christian,1
@@ -680,6 +701,10 @@ Tehama,20255,Lieutenant Governor,,DEM,Gavin Newsom,48
 Tehama,20255,Lieutenant Governor,,REP,George Yang,15
 Tehama,20255,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tehama,20255,Lieutenant Governor,,REP,Ron Nehring,85
+Tehama,20255,Proposition 41,,,No,99
+Tehama,20255,Proposition 41,,,Yes,138
+Tehama,20255,Proposition 42,,,No,114
+Tehama,20255,Proposition 42,,,Yes,117
 Tehama,20255,Secretary of State,,DEM,Alex Padilla,30
 Tehama,20255,Secretary of State,,IND,Dan Schnur,36
 Tehama,20255,Secretary of State,,GRN,David Curtis,4
@@ -744,6 +769,10 @@ Tehama,22190,Lieutenant Governor,,DEM,Gavin Newsom,94
 Tehama,22190,Lieutenant Governor,,REP,George Yang,15
 Tehama,22190,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Tehama,22190,Lieutenant Governor,,REP,Ron Nehring,64
+Tehama,22190,Proposition 41,,,No,111
+Tehama,22190,Proposition 41,,,Yes,198
+Tehama,22190,Proposition 42,,,No,153
+Tehama,22190,Proposition 42,,,Yes,148
 Tehama,22190,Secretary of State,,DEM,Alex Padilla,73
 Tehama,22190,Secretary of State,,IND,Dan Schnur,37
 Tehama,22190,Secretary of State,,GRN,David Curtis,26
@@ -782,7 +811,6 @@ Tehama,22230,Controller,,REP,David Evans,141
 Tehama,22230,Controller,,DEM,John A. Pérez,34
 Tehama,22230,Controller,,GRN,Laura Wells,17
 Tehama,22230,Controller,,DEM,Tammy D. Blair,59
-Tehama,22230,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tehama,22230,Governor,,DEM,Akinyemi Agbede,2
 Tehama,22230,Governor,,REP,Alma Marie Winston,5
 Tehama,22230,Governor,,REP,Andrew Blount,28
@@ -808,6 +836,10 @@ Tehama,22230,Lieutenant Governor,,DEM,Gavin Newsom,118
 Tehama,22230,Lieutenant Governor,,REP,George Yang,29
 Tehama,22230,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tehama,22230,Lieutenant Governor,,REP,Ron Nehring,91
+Tehama,22230,Proposition 41,,,No,146
+Tehama,22230,Proposition 41,,,Yes,240
+Tehama,22230,Proposition 42,,,No,200
+Tehama,22230,Proposition 42,,,Yes,172
 Tehama,22230,Secretary of State,,DEM,Alex Padilla,76
 Tehama,22230,Secretary of State,,IND,Dan Schnur,38
 Tehama,22230,Secretary of State,,GRN,David Curtis,18
@@ -858,7 +890,6 @@ Tehama,22240,Governor,,IND,Joe Leicht,6
 Tehama,22240,Governor,,GRN,Luis J. Rodriguez,1
 Tehama,22240,Governor,,REP,Neel Kashkari,60
 Tehama,22240,Governor,,IND,Rakesh Kumar Christian,1
-Tehama,22240,Governor,,REP,Richard William Aguirre,0
 Tehama,22240,Governor,,IND,Robert Newman,8
 Tehama,22240,Governor,,REP,Tim Donnelly,62
 Tehama,22240,Insurance Commissioner,,DEM,Dave Jones,125
@@ -872,6 +903,10 @@ Tehama,22240,Lieutenant Governor,,DEM,Gavin Newsom,86
 Tehama,22240,Lieutenant Governor,,REP,George Yang,21
 Tehama,22240,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Tehama,22240,Lieutenant Governor,,REP,Ron Nehring,82
+Tehama,22240,Proposition 41,,,No,112
+Tehama,22240,Proposition 41,,,Yes,202
+Tehama,22240,Proposition 42,,,No,146
+Tehama,22240,Proposition 42,,,Yes,147
 Tehama,22240,Secretary of State,,DEM,Alex Padilla,53
 Tehama,22240,Secretary of State,,IND,Dan Schnur,43
 Tehama,22240,Secretary of State,,GRN,David Curtis,17
@@ -911,17 +946,14 @@ Tehama,30010,Controller,,DEM,John A. Pérez,20
 Tehama,30010,Controller,,GRN,Laura Wells,12
 Tehama,30010,Controller,,DEM,Tammy D. Blair,21
 Tehama,30010,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tehama,30010,Governor,,DEM,Akinyemi Agbede,0
 Tehama,30010,Governor,,REP,Alma Marie Winston,3
 Tehama,30010,Governor,,REP,Andrew Blount,15
 Tehama,30010,Governor,,PAF,Cindy L. Sheehan,3
 Tehama,30010,Governor,,DEM,"Edmund G. ""Jerry"" Brown",77
 Tehama,30010,Governor,,REP,Glenn Champ,9
 Tehama,30010,Governor,,IND,Janel Hyeshia Buycks,2
-Tehama,30010,Governor,,IND,Joe Leicht,0
 Tehama,30010,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,30010,Governor,,REP,Neel Kashkari,45
-Tehama,30010,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,30010,Governor,,REP,Richard William Aguirre,2
 Tehama,30010,Governor,,IND,Robert Newman,5
 Tehama,30010,Governor,,REP,Tim Donnelly,71
@@ -936,6 +968,10 @@ Tehama,30010,Lieutenant Governor,,DEM,Gavin Newsom,46
 Tehama,30010,Lieutenant Governor,,REP,George Yang,26
 Tehama,30010,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tehama,30010,Lieutenant Governor,,REP,Ron Nehring,69
+Tehama,30010,Proposition 41,,,No,99
+Tehama,30010,Proposition 41,,,Yes,131
+Tehama,30010,Proposition 42,,,No,106
+Tehama,30010,Proposition 42,,,Yes,116
 Tehama,30010,Secretary of State,,DEM,Alex Padilla,35
 Tehama,30010,Secretary of State,,IND,Dan Schnur,39
 Tehama,30010,Secretary of State,,GRN,David Curtis,6
@@ -959,7 +995,6 @@ Tehama,30010,U.S. House,1,DEM,Dan Levine,18
 Tehama,30010,U.S. House,1,REP,Doug La Malfa,137
 Tehama,30010,U.S. House,1,REP,Gregory Cheadle,29
 Tehama,30010,U.S. House,1,DEM,Heidi Hall,52
-Tehama,30015,Attorney General,,REP,David King,0
 Tehama,30015,Attorney General,,REP,John Haggerty,17
 Tehama,30015,Attorney General,,LIB,Jonathan Jaech,3
 Tehama,30015,Attorney General,,DEM,Kamala D. Harris,15
@@ -974,37 +1009,30 @@ Tehama,30015,Controller,,REP,David Evans,19
 Tehama,30015,Controller,,DEM,John A. Pérez,5
 Tehama,30015,Controller,,GRN,Laura Wells,2
 Tehama,30015,Controller,,DEM,Tammy D. Blair,2
-Tehama,30015,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,30015,Governor,,DEM,Akinyemi Agbede,0
 Tehama,30015,Governor,,REP,Alma Marie Winston,1
 Tehama,30015,Governor,,REP,Andrew Blount,4
-Tehama,30015,Governor,,PAF,Cindy L. Sheehan,0
 Tehama,30015,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Tehama,30015,Governor,,REP,Glenn Champ,5
 Tehama,30015,Governor,,IND,Janel Hyeshia Buycks,1
-Tehama,30015,Governor,,IND,Joe Leicht,0
-Tehama,30015,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,30015,Governor,,REP,Neel Kashkari,14
-Tehama,30015,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,30015,Governor,,REP,Richard William Aguirre,0
-Tehama,30015,Governor,,IND,Robert Newman,0
 Tehama,30015,Governor,,REP,Tim Donnelly,12
 Tehama,30015,Insurance Commissioner,,DEM,Dave Jones,14
 Tehama,30015,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Tehama,30015,Insurance Commissioner,,REP,Ted Gaines,36
 Tehama,30015,Lieutenant Governor,,AME,Alan Reynolds,1
-Tehama,30015,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,30015,Lieutenant Governor,,REP,David Fennell,11
 Tehama,30015,Lieutenant Governor,,DEM,Eric Korevaar,5
 Tehama,30015,Lieutenant Governor,,DEM,Gavin Newsom,12
 Tehama,30015,Lieutenant Governor,,REP,George Yang,1
-Tehama,30015,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tehama,30015,Lieutenant Governor,,REP,Ron Nehring,23
+Tehama,30015,Proposition 41,,,No,26
+Tehama,30015,Proposition 41,,,Yes,32
+Tehama,30015,Proposition 42,,,No,31
+Tehama,30015,Proposition 42,,,Yes,24
 Tehama,30015,Secretary of State,,DEM,Alex Padilla,10
 Tehama,30015,Secretary of State,,IND,Dan Schnur,11
 Tehama,30015,Secretary of State,,GRN,David Curtis,1
 Tehama,30015,Secretary of State,,DEM,Derek Cressman,3
-Tehama,30015,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tehama,30015,Secretary of State,,DEM,Leland Yee,3
 Tehama,30015,Secretary of State,,REP,Pete Peterson,26
 Tehama,30015,Secretary of State,,REP,Roy Allmond,1
@@ -1038,7 +1066,6 @@ Tehama,30120,Controller,,REP,David Evans,210
 Tehama,30120,Controller,,DEM,John A. Pérez,49
 Tehama,30120,Controller,,GRN,Laura Wells,27
 Tehama,30120,Controller,,DEM,Tammy D. Blair,53
-Tehama,30120,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tehama,30120,Governor,,DEM,Akinyemi Agbede,3
 Tehama,30120,Governor,,REP,Alma Marie Winston,4
 Tehama,30120,Governor,,REP,Andrew Blount,40
@@ -1064,6 +1091,10 @@ Tehama,30120,Lieutenant Governor,,DEM,Gavin Newsom,154
 Tehama,30120,Lieutenant Governor,,REP,George Yang,46
 Tehama,30120,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tehama,30120,Lieutenant Governor,,REP,Ron Nehring,177
+Tehama,30120,Proposition 41,,,No,254
+Tehama,30120,Proposition 41,,,Yes,322
+Tehama,30120,Proposition 42,,,No,312
+Tehama,30120,Proposition 42,,,Yes,246
 Tehama,30120,Secretary of State,,DEM,Alex Padilla,91
 Tehama,30120,Secretary of State,,IND,Dan Schnur,87
 Tehama,30120,Secretary of State,,GRN,David Curtis,7
@@ -1110,7 +1141,6 @@ Tehama,30260,Governor,,PAF,Cindy L. Sheehan,7
 Tehama,30260,Governor,,DEM,"Edmund G. ""Jerry"" Brown",197
 Tehama,30260,Governor,,REP,Glenn Champ,22
 Tehama,30260,Governor,,IND,Janel Hyeshia Buycks,4
-Tehama,30260,Governor,,IND,Joe Leicht,0
 Tehama,30260,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,30260,Governor,,REP,Neel Kashkari,106
 Tehama,30260,Governor,,IND,Rakesh Kumar Christian,2
@@ -1128,6 +1158,10 @@ Tehama,30260,Lieutenant Governor,,DEM,Gavin Newsom,135
 Tehama,30260,Lieutenant Governor,,REP,George Yang,41
 Tehama,30260,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Tehama,30260,Lieutenant Governor,,REP,Ron Nehring,122
+Tehama,30260,Proposition 41,,,No,175
+Tehama,30260,Proposition 41,,,Yes,315
+Tehama,30260,Proposition 42,,,No,272
+Tehama,30260,Proposition 42,,,Yes,193
 Tehama,30260,Secretary of State,,DEM,Alex Padilla,100
 Tehama,30260,Secretary of State,,IND,Dan Schnur,72
 Tehama,30260,Secretary of State,,GRN,David Curtis,15
@@ -1167,18 +1201,14 @@ Tehama,30270,Controller,,DEM,John A. Pérez,30
 Tehama,30270,Controller,,GRN,Laura Wells,16
 Tehama,30270,Controller,,DEM,Tammy D. Blair,27
 Tehama,30270,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Tehama,30270,Governor,,DEM,Akinyemi Agbede,0
 Tehama,30270,Governor,,REP,Alma Marie Winston,2
 Tehama,30270,Governor,,REP,Andrew Blount,14
 Tehama,30270,Governor,,PAF,Cindy L. Sheehan,5
 Tehama,30270,Governor,,DEM,"Edmund G. ""Jerry"" Brown",120
 Tehama,30270,Governor,,REP,Glenn Champ,10
 Tehama,30270,Governor,,IND,Janel Hyeshia Buycks,3
-Tehama,30270,Governor,,IND,Joe Leicht,0
 Tehama,30270,Governor,,GRN,Luis J. Rodriguez,3
 Tehama,30270,Governor,,REP,Neel Kashkari,53
-Tehama,30270,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,30270,Governor,,REP,Richard William Aguirre,0
 Tehama,30270,Governor,,IND,Robert Newman,3
 Tehama,30270,Governor,,REP,Tim Donnelly,80
 Tehama,30270,Insurance Commissioner,,DEM,Dave Jones,98
@@ -1192,6 +1222,10 @@ Tehama,30270,Lieutenant Governor,,DEM,Gavin Newsom,85
 Tehama,30270,Lieutenant Governor,,REP,George Yang,25
 Tehama,30270,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tehama,30270,Lieutenant Governor,,REP,Ron Nehring,76
+Tehama,30270,Proposition 41,,,No,131
+Tehama,30270,Proposition 41,,,Yes,161
+Tehama,30270,Proposition 42,,,No,154
+Tehama,30270,Proposition 42,,,Yes,126
 Tehama,30270,Secretary of State,,DEM,Alex Padilla,61
 Tehama,30270,Secretary of State,,IND,Dan Schnur,31
 Tehama,30270,Secretary of State,,GRN,David Curtis,6
@@ -1256,6 +1290,10 @@ Tehama,30280,Lieutenant Governor,,DEM,Gavin Newsom,124
 Tehama,30280,Lieutenant Governor,,REP,George Yang,37
 Tehama,30280,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Tehama,30280,Lieutenant Governor,,REP,Ron Nehring,149
+Tehama,30280,Proposition 41,,,No,198
+Tehama,30280,Proposition 41,,,Yes,292
+Tehama,30280,Proposition 42,,,No,244
+Tehama,30280,Proposition 42,,,Yes,234
 Tehama,30280,Secretary of State,,DEM,Alex Padilla,80
 Tehama,30280,Secretary of State,,IND,Dan Schnur,66
 Tehama,30280,Secretary of State,,GRN,David Curtis,15
@@ -1301,11 +1339,8 @@ Tehama,30300,Governor,,REP,Andrew Blount,15
 Tehama,30300,Governor,,PAF,Cindy L. Sheehan,3
 Tehama,30300,Governor,,DEM,"Edmund G. ""Jerry"" Brown",88
 Tehama,30300,Governor,,REP,Glenn Champ,22
-Tehama,30300,Governor,,IND,Janel Hyeshia Buycks,0
 Tehama,30300,Governor,,IND,Joe Leicht,2
-Tehama,30300,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,30300,Governor,,REP,Neel Kashkari,63
-Tehama,30300,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,30300,Governor,,REP,Richard William Aguirre,1
 Tehama,30300,Governor,,IND,Robert Newman,10
 Tehama,30300,Governor,,REP,Tim Donnelly,58
@@ -1320,6 +1355,10 @@ Tehama,30300,Lieutenant Governor,,DEM,Gavin Newsom,65
 Tehama,30300,Lieutenant Governor,,REP,George Yang,20
 Tehama,30300,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tehama,30300,Lieutenant Governor,,REP,Ron Nehring,77
+Tehama,30300,Proposition 41,,,No,107
+Tehama,30300,Proposition 41,,,Yes,156
+Tehama,30300,Proposition 42,,,No,119
+Tehama,30300,Proposition 42,,,Yes,136
 Tehama,30300,Secretary of State,,DEM,Alex Padilla,32
 Tehama,30300,Secretary of State,,IND,Dan Schnur,26
 Tehama,30300,Secretary of State,,GRN,David Curtis,11
@@ -1358,19 +1397,14 @@ Tehama,30320,Controller,,REP,David Evans,45
 Tehama,30320,Controller,,DEM,John A. Pérez,7
 Tehama,30320,Controller,,GRN,Laura Wells,11
 Tehama,30320,Controller,,DEM,Tammy D. Blair,4
-Tehama,30320,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tehama,30320,Governor,,DEM,Akinyemi Agbede,1
-Tehama,30320,Governor,,REP,Alma Marie Winston,0
 Tehama,30320,Governor,,REP,Andrew Blount,3
-Tehama,30320,Governor,,PAF,Cindy L. Sheehan,0
 Tehama,30320,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Tehama,30320,Governor,,REP,Glenn Champ,7
 Tehama,30320,Governor,,IND,Janel Hyeshia Buycks,3
 Tehama,30320,Governor,,IND,Joe Leicht,3
 Tehama,30320,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,30320,Governor,,REP,Neel Kashkari,7
-Tehama,30320,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,30320,Governor,,REP,Richard William Aguirre,0
 Tehama,30320,Governor,,IND,Robert Newman,3
 Tehama,30320,Governor,,REP,Tim Donnelly,37
 Tehama,30320,Insurance Commissioner,,DEM,Dave Jones,30
@@ -1384,6 +1418,10 @@ Tehama,30320,Lieutenant Governor,,DEM,Gavin Newsom,22
 Tehama,30320,Lieutenant Governor,,REP,George Yang,9
 Tehama,30320,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tehama,30320,Lieutenant Governor,,REP,Ron Nehring,28
+Tehama,30320,Proposition 41,,,No,47
+Tehama,30320,Proposition 41,,,Yes,47
+Tehama,30320,Proposition 42,,,No,45
+Tehama,30320,Proposition 42,,,Yes,49
 Tehama,30320,Secretary of State,,DEM,Alex Padilla,17
 Tehama,30320,Secretary of State,,IND,Dan Schnur,5
 Tehama,30320,Secretary of State,,GRN,David Curtis,6
@@ -1422,37 +1460,28 @@ Tehama,30330,Controller,,REP,David Evans,32
 Tehama,30330,Controller,,DEM,John A. Pérez,9
 Tehama,30330,Controller,,GRN,Laura Wells,4
 Tehama,30330,Controller,,DEM,Tammy D. Blair,2
-Tehama,30330,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,30330,Governor,,DEM,Akinyemi Agbede,0
 Tehama,30330,Governor,,REP,Alma Marie Winston,1
 Tehama,30330,Governor,,REP,Andrew Blount,1
 Tehama,30330,Governor,,PAF,Cindy L. Sheehan,3
 Tehama,30330,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
 Tehama,30330,Governor,,REP,Glenn Champ,1
-Tehama,30330,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,30330,Governor,,IND,Joe Leicht,0
-Tehama,30330,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,30330,Governor,,REP,Neel Kashkari,17
-Tehama,30330,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,30330,Governor,,REP,Richard William Aguirre,0
-Tehama,30330,Governor,,IND,Robert Newman,0
 Tehama,30330,Governor,,REP,Tim Donnelly,16
 Tehama,30330,Insurance Commissioner,,DEM,Dave Jones,25
-Tehama,30330,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tehama,30330,Insurance Commissioner,,REP,Ted Gaines,36
 Tehama,30330,Lieutenant Governor,,AME,Alan Reynolds,2
-Tehama,30330,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,30330,Lieutenant Governor,,REP,David Fennell,15
 Tehama,30330,Lieutenant Governor,,DEM,Eric Korevaar,8
 Tehama,30330,Lieutenant Governor,,DEM,Gavin Newsom,17
 Tehama,30330,Lieutenant Governor,,REP,George Yang,3
-Tehama,30330,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tehama,30330,Lieutenant Governor,,REP,Ron Nehring,16
+Tehama,30330,Proposition 41,,,No,26
+Tehama,30330,Proposition 41,,,Yes,38
+Tehama,30330,Proposition 42,,,No,31
+Tehama,30330,Proposition 42,,,Yes,30
 Tehama,30330,Secretary of State,,DEM,Alex Padilla,13
 Tehama,30330,Secretary of State,,IND,Dan Schnur,2
-Tehama,30330,Secretary of State,,GRN,David Curtis,0
 Tehama,30330,Secretary of State,,DEM,Derek Cressman,3
-Tehama,30330,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tehama,30330,Secretary of State,,DEM,Leland Yee,6
 Tehama,30330,Secretary of State,,REP,Pete Peterson,31
 Tehama,30330,Secretary of State,,REP,Roy Allmond,5
@@ -1473,7 +1502,6 @@ Tehama,30330,U.S. House,1,REP,Gregory Cheadle,5
 Tehama,30330,U.S. House,1,DEM,Heidi Hall,19
 Tehama,30340,Attorney General,,REP,David King,3
 Tehama,30340,Attorney General,,REP,John Haggerty,17
-Tehama,30340,Attorney General,,LIB,Jonathan Jaech,0
 Tehama,30340,Attorney General,,DEM,Kamala D. Harris,26
 Tehama,30340,Attorney General,,IND,Orly Taitz,5
 Tehama,30340,Attorney General,,REP,Phil Wyman,19
@@ -1494,10 +1522,7 @@ Tehama,30340,Governor,,PAF,Cindy L. Sheehan,1
 Tehama,30340,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Tehama,30340,Governor,,REP,Glenn Champ,5
 Tehama,30340,Governor,,IND,Janel Hyeshia Buycks,2
-Tehama,30340,Governor,,IND,Joe Leicht,0
-Tehama,30340,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,30340,Governor,,REP,Neel Kashkari,12
-Tehama,30340,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,30340,Governor,,REP,Richard William Aguirre,1
 Tehama,30340,Governor,,IND,Robert Newman,7
 Tehama,30340,Governor,,REP,Tim Donnelly,28
@@ -1512,6 +1537,10 @@ Tehama,30340,Lieutenant Governor,,DEM,Gavin Newsom,20
 Tehama,30340,Lieutenant Governor,,REP,George Yang,8
 Tehama,30340,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tehama,30340,Lieutenant Governor,,REP,Ron Nehring,25
+Tehama,30340,Proposition 41,,,No,37
+Tehama,30340,Proposition 41,,,Yes,56
+Tehama,30340,Proposition 42,,,No,52
+Tehama,30340,Proposition 42,,,Yes,41
 Tehama,30340,Secretary of State,,DEM,Alex Padilla,14
 Tehama,30340,Secretary of State,,IND,Dan Schnur,14
 Tehama,30340,Secretary of State,,GRN,David Curtis,2
@@ -1558,11 +1587,8 @@ Tehama,32350,Governor,,PAF,Cindy L. Sheehan,3
 Tehama,32350,Governor,,DEM,"Edmund G. ""Jerry"" Brown",70
 Tehama,32350,Governor,,REP,Glenn Champ,5
 Tehama,32350,Governor,,IND,Janel Hyeshia Buycks,2
-Tehama,32350,Governor,,IND,Joe Leicht,0
 Tehama,32350,Governor,,GRN,Luis J. Rodriguez,1
 Tehama,32350,Governor,,REP,Neel Kashkari,32
-Tehama,32350,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,32350,Governor,,REP,Richard William Aguirre,0
 Tehama,32350,Governor,,IND,Robert Newman,10
 Tehama,32350,Governor,,REP,Tim Donnelly,34
 Tehama,32350,Insurance Commissioner,,DEM,Dave Jones,64
@@ -1576,6 +1602,10 @@ Tehama,32350,Lieutenant Governor,,DEM,Gavin Newsom,52
 Tehama,32350,Lieutenant Governor,,REP,George Yang,16
 Tehama,32350,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tehama,32350,Lieutenant Governor,,REP,Ron Nehring,38
+Tehama,32350,Proposition 41,,,No,54
+Tehama,32350,Proposition 41,,,Yes,122
+Tehama,32350,Proposition 42,,,No,77
+Tehama,32350,Proposition 42,,,Yes,90
 Tehama,32350,Secretary of State,,DEM,Alex Padilla,34
 Tehama,32350,Secretary of State,,IND,Dan Schnur,20
 Tehama,32350,Secretary of State,,GRN,David Curtis,12
@@ -1614,19 +1644,13 @@ Tehama,40180,Controller,,REP,David Evans,11
 Tehama,40180,Controller,,DEM,John A. Pérez,7
 Tehama,40180,Controller,,GRN,Laura Wells,6
 Tehama,40180,Controller,,DEM,Tammy D. Blair,11
-Tehama,40180,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,40180,Governor,,DEM,Akinyemi Agbede,0
 Tehama,40180,Governor,,REP,Alma Marie Winston,1
 Tehama,40180,Governor,,REP,Andrew Blount,5
 Tehama,40180,Governor,,PAF,Cindy L. Sheehan,1
 Tehama,40180,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
 Tehama,40180,Governor,,REP,Glenn Champ,3
-Tehama,40180,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,40180,Governor,,IND,Joe Leicht,0
 Tehama,40180,Governor,,GRN,Luis J. Rodriguez,3
 Tehama,40180,Governor,,REP,Neel Kashkari,30
-Tehama,40180,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,40180,Governor,,REP,Richard William Aguirre,0
 Tehama,40180,Governor,,IND,Robert Newman,1
 Tehama,40180,Governor,,REP,Tim Donnelly,18
 Tehama,40180,Insurance Commissioner,,DEM,Dave Jones,30
@@ -1640,6 +1664,10 @@ Tehama,40180,Lieutenant Governor,,DEM,Gavin Newsom,25
 Tehama,40180,Lieutenant Governor,,REP,George Yang,5
 Tehama,40180,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tehama,40180,Lieutenant Governor,,REP,Ron Nehring,30
+Tehama,40180,Proposition 41,,,No,60
+Tehama,40180,Proposition 41,,,Yes,34
+Tehama,40180,Proposition 42,,,No,44
+Tehama,40180,Proposition 42,,,Yes,47
 Tehama,40180,Secretary of State,,DEM,Alex Padilla,9
 Tehama,40180,Secretary of State,,IND,Dan Schnur,15
 Tehama,40180,Secretary of State,,GRN,David Curtis,7
@@ -1704,6 +1732,10 @@ Tehama,40360,Lieutenant Governor,,DEM,Gavin Newsom,75
 Tehama,40360,Lieutenant Governor,,REP,George Yang,38
 Tehama,40360,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Tehama,40360,Lieutenant Governor,,REP,Ron Nehring,121
+Tehama,40360,Proposition 41,,,No,187
+Tehama,40360,Proposition 41,,,Yes,218
+Tehama,40360,Proposition 42,,,No,234
+Tehama,40360,Proposition 42,,,Yes,153
 Tehama,40360,Secretary of State,,DEM,Alex Padilla,53
 Tehama,40360,Secretary of State,,IND,Dan Schnur,40
 Tehama,40360,Secretary of State,,GRN,David Curtis,21
@@ -1727,7 +1759,6 @@ Tehama,40360,U.S. House,1,DEM,Dan Levine,24
 Tehama,40360,U.S. House,1,REP,Doug La Malfa,279
 Tehama,40360,U.S. House,1,REP,Gregory Cheadle,36
 Tehama,40360,U.S. House,1,DEM,Heidi Hall,68
-Tehama,40365,Attorney General,,REP,David King,0
 Tehama,40365,Attorney General,,REP,John Haggerty,1
 Tehama,40365,Attorney General,,LIB,Jonathan Jaech,1
 Tehama,40365,Attorney General,,DEM,Kamala D. Harris,3
@@ -1739,43 +1770,29 @@ Tehama,40365,Board of Equalization,2,REP,James E. Theis,4
 Tehama,40365,Controller,,REP,Ashley Swearengin,2
 Tehama,40365,Controller,,DEM,Betty T. Yee,1
 Tehama,40365,Controller,,REP,David Evans,2
-Tehama,40365,Controller,,DEM,John A. Pérez,0
 Tehama,40365,Controller,,GRN,Laura Wells,2
 Tehama,40365,Controller,,DEM,Tammy D. Blair,1
 Tehama,40365,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tehama,40365,Governor,,DEM,Akinyemi Agbede,0
-Tehama,40365,Governor,,REP,Alma Marie Winston,0
-Tehama,40365,Governor,,REP,Andrew Blount,0
 Tehama,40365,Governor,,PAF,Cindy L. Sheehan,1
 Tehama,40365,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Tehama,40365,Governor,,REP,Glenn Champ,0
-Tehama,40365,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,40365,Governor,,IND,Joe Leicht,0
-Tehama,40365,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,40365,Governor,,REP,Neel Kashkari,1
-Tehama,40365,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,40365,Governor,,REP,Richard William Aguirre,0
-Tehama,40365,Governor,,IND,Robert Newman,0
 Tehama,40365,Governor,,REP,Tim Donnelly,3
 Tehama,40365,Insurance Commissioner,,DEM,Dave Jones,3
 Tehama,40365,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tehama,40365,Insurance Commissioner,,REP,Ted Gaines,4
-Tehama,40365,Lieutenant Governor,,AME,Alan Reynolds,0
-Tehama,40365,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,40365,Lieutenant Governor,,REP,David Fennell,1
-Tehama,40365,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tehama,40365,Lieutenant Governor,,DEM,Gavin Newsom,3
-Tehama,40365,Lieutenant Governor,,REP,George Yang,0
 Tehama,40365,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tehama,40365,Lieutenant Governor,,REP,Ron Nehring,4
+Tehama,40365,Proposition 41,,,No,4
+Tehama,40365,Proposition 41,,,Yes,5
+Tehama,40365,Proposition 42,,,No,6
+Tehama,40365,Proposition 42,,,Yes,3
 Tehama,40365,Secretary of State,,DEM,Alex Padilla,1
 Tehama,40365,Secretary of State,,IND,Dan Schnur,3
 Tehama,40365,Secretary of State,,GRN,David Curtis,1
-Tehama,40365,Secretary of State,,DEM,Derek Cressman,0
 Tehama,40365,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Tehama,40365,Secretary of State,,DEM,Leland Yee,0
 Tehama,40365,Secretary of State,,REP,Pete Peterson,2
-Tehama,40365,Secretary of State,,REP,Roy Allmond,0
 Tehama,40365,State Assembly,3,REP,James Gallagher,1
 Tehama,40365,State Assembly,3,DEM,Jim Reed,4
 Tehama,40365,State Assembly,3,REP,Ryan Schohr,4
@@ -1787,7 +1804,6 @@ Tehama,40365,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
 Tehama,40365,Treasurer,,GRN,Ellen H. Brown,1
 Tehama,40365,Treasurer,,REP,Greg Conlon,4
 Tehama,40365,Treasurer,,DEM,John Chiang,3
-Tehama,40365,U.S. House,1,DEM,Dan Levine,0
 Tehama,40365,U.S. House,1,REP,Doug La Malfa,3
 Tehama,40365,U.S. House,1,REP,Gregory Cheadle,2
 Tehama,40365,U.S. House,1,DEM,Heidi Hall,4
@@ -1814,10 +1830,8 @@ Tehama,40420,Governor,,PAF,Cindy L. Sheehan,8
 Tehama,40420,Governor,,DEM,"Edmund G. ""Jerry"" Brown",79
 Tehama,40420,Governor,,REP,Glenn Champ,9
 Tehama,40420,Governor,,IND,Janel Hyeshia Buycks,1
-Tehama,40420,Governor,,IND,Joe Leicht,0
 Tehama,40420,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,40420,Governor,,REP,Neel Kashkari,56
-Tehama,40420,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,40420,Governor,,REP,Richard William Aguirre,2
 Tehama,40420,Governor,,IND,Robert Newman,7
 Tehama,40420,Governor,,REP,Tim Donnelly,95
@@ -1832,6 +1846,10 @@ Tehama,40420,Lieutenant Governor,,DEM,Gavin Newsom,54
 Tehama,40420,Lieutenant Governor,,REP,George Yang,25
 Tehama,40420,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tehama,40420,Lieutenant Governor,,REP,Ron Nehring,78
+Tehama,40420,Proposition 41,,,No,123
+Tehama,40420,Proposition 41,,,Yes,156
+Tehama,40420,Proposition 42,,,No,147
+Tehama,40420,Proposition 42,,,Yes,122
 Tehama,40420,Secretary of State,,DEM,Alex Padilla,45
 Tehama,40420,Secretary of State,,IND,Dan Schnur,33
 Tehama,40420,Secretary of State,,GRN,David Curtis,9
@@ -1855,9 +1873,7 @@ Tehama,40420,U.S. House,1,DEM,Dan Levine,20
 Tehama,40420,U.S. House,1,REP,Doug La Malfa,182
 Tehama,40420,U.S. House,1,REP,Gregory Cheadle,30
 Tehama,40420,U.S. House,1,DEM,Heidi Hall,50
-Tehama,40430,Attorney General,,REP,David King,0
 Tehama,40430,Attorney General,,REP,John Haggerty,15
-Tehama,40430,Attorney General,,LIB,Jonathan Jaech,0
 Tehama,40430,Attorney General,,DEM,Kamala D. Harris,20
 Tehama,40430,Attorney General,,IND,Orly Taitz,3
 Tehama,40430,Attorney General,,REP,Phil Wyman,23
@@ -1868,37 +1884,26 @@ Tehama,40430,Controller,,REP,Ashley Swearengin,28
 Tehama,40430,Controller,,DEM,Betty T. Yee,4
 Tehama,40430,Controller,,REP,David Evans,24
 Tehama,40430,Controller,,DEM,John A. Pérez,8
-Tehama,40430,Controller,,GRN,Laura Wells,0
 Tehama,40430,Controller,,DEM,Tammy D. Blair,9
-Tehama,40430,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,40430,Governor,,DEM,Akinyemi Agbede,0
-Tehama,40430,Governor,,REP,Alma Marie Winston,0
 Tehama,40430,Governor,,REP,Andrew Blount,2
-Tehama,40430,Governor,,PAF,Cindy L. Sheehan,0
 Tehama,40430,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
-Tehama,40430,Governor,,REP,Glenn Champ,0
-Tehama,40430,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,40430,Governor,,IND,Joe Leicht,0
-Tehama,40430,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,40430,Governor,,REP,Neel Kashkari,14
-Tehama,40430,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,40430,Governor,,REP,Richard William Aguirre,0
 Tehama,40430,Governor,,IND,Robert Newman,6
 Tehama,40430,Governor,,REP,Tim Donnelly,32
 Tehama,40430,Insurance Commissioner,,DEM,Dave Jones,20
 Tehama,40430,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tehama,40430,Insurance Commissioner,,REP,Ted Gaines,52
 Tehama,40430,Lieutenant Governor,,AME,Alan Reynolds,2
-Tehama,40430,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,40430,Lieutenant Governor,,REP,David Fennell,14
 Tehama,40430,Lieutenant Governor,,DEM,Eric Korevaar,5
 Tehama,40430,Lieutenant Governor,,DEM,Gavin Newsom,15
 Tehama,40430,Lieutenant Governor,,REP,George Yang,4
-Tehama,40430,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tehama,40430,Lieutenant Governor,,REP,Ron Nehring,29
+Tehama,40430,Proposition 41,,,No,41
+Tehama,40430,Proposition 41,,,Yes,33
+Tehama,40430,Proposition 42,,,No,47
+Tehama,40430,Proposition 42,,,Yes,22
 Tehama,40430,Secretary of State,,DEM,Alex Padilla,14
-Tehama,40430,Secretary of State,,IND,Dan Schnur,0
-Tehama,40430,Secretary of State,,GRN,David Curtis,0
 Tehama,40430,Secretary of State,,DEM,Derek Cressman,2
 Tehama,40430,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Tehama,40430,Secretary of State,,DEM,Leland Yee,2
@@ -1912,7 +1917,6 @@ Tehama,40430,State Senate,4,REP,Jim Nielsen,59
 Tehama,40430,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,21
 Tehama,40430,Superintendent of Public Instruction,,NOP,Marshall Tuck,17
 Tehama,40430,Superintendent of Public Instruction,,NOP,Tom Torlakson,29
-Tehama,40430,Treasurer,,GRN,Ellen H. Brown,0
 Tehama,40430,Treasurer,,REP,Greg Conlon,50
 Tehama,40430,Treasurer,,DEM,John Chiang,24
 Tehama,40430,U.S. House,1,DEM,Dan Levine,3
@@ -1935,19 +1939,13 @@ Tehama,40480,Controller,,DEM,John A. Pérez,8
 Tehama,40480,Controller,,GRN,Laura Wells,3
 Tehama,40480,Controller,,DEM,Tammy D. Blair,3
 Tehama,40480,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Tehama,40480,Governor,,DEM,Akinyemi Agbede,0
-Tehama,40480,Governor,,REP,Alma Marie Winston,0
 Tehama,40480,Governor,,REP,Andrew Blount,4
 Tehama,40480,Governor,,PAF,Cindy L. Sheehan,1
 Tehama,40480,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
 Tehama,40480,Governor,,REP,Glenn Champ,4
 Tehama,40480,Governor,,IND,Janel Hyeshia Buycks,2
-Tehama,40480,Governor,,IND,Joe Leicht,0
-Tehama,40480,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,40480,Governor,,REP,Neel Kashkari,2
 Tehama,40480,Governor,,IND,Rakesh Kumar Christian,1
-Tehama,40480,Governor,,REP,Richard William Aguirre,0
-Tehama,40480,Governor,,IND,Robert Newman,0
 Tehama,40480,Governor,,REP,Tim Donnelly,29
 Tehama,40480,Insurance Commissioner,,DEM,Dave Jones,15
 Tehama,40480,Insurance Commissioner,,PAF,Nathalie Hrizi,3
@@ -1958,11 +1956,13 @@ Tehama,40480,Lieutenant Governor,,REP,David Fennell,15
 Tehama,40480,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tehama,40480,Lieutenant Governor,,DEM,Gavin Newsom,12
 Tehama,40480,Lieutenant Governor,,REP,George Yang,7
-Tehama,40480,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tehama,40480,Lieutenant Governor,,REP,Ron Nehring,16
+Tehama,40480,Proposition 41,,,No,30
+Tehama,40480,Proposition 41,,,Yes,28
+Tehama,40480,Proposition 42,,,No,29
+Tehama,40480,Proposition 42,,,Yes,25
 Tehama,40480,Secretary of State,,DEM,Alex Padilla,11
 Tehama,40480,Secretary of State,,IND,Dan Schnur,4
-Tehama,40480,Secretary of State,,GRN,David Curtis,0
 Tehama,40480,Secretary of State,,DEM,Derek Cressman,2
 Tehama,40480,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Tehama,40480,Secretary of State,,DEM,Leland Yee,2
@@ -2006,7 +2006,6 @@ Tehama,40485,Governor,,PAF,Cindy L. Sheehan,5
 Tehama,40485,Governor,,DEM,"Edmund G. ""Jerry"" Brown",122
 Tehama,40485,Governor,,REP,Glenn Champ,10
 Tehama,40485,Governor,,IND,Janel Hyeshia Buycks,6
-Tehama,40485,Governor,,IND,Joe Leicht,0
 Tehama,40485,Governor,,GRN,Luis J. Rodriguez,7
 Tehama,40485,Governor,,REP,Neel Kashkari,46
 Tehama,40485,Governor,,IND,Rakesh Kumar Christian,1
@@ -2024,6 +2023,10 @@ Tehama,40485,Lieutenant Governor,,DEM,Gavin Newsom,87
 Tehama,40485,Lieutenant Governor,,REP,George Yang,6
 Tehama,40485,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tehama,40485,Lieutenant Governor,,REP,Ron Nehring,66
+Tehama,40485,Proposition 41,,,No,112
+Tehama,40485,Proposition 41,,,Yes,160
+Tehama,40485,Proposition 42,,,No,140
+Tehama,40485,Proposition 42,,,Yes,130
 Tehama,40485,Secretary of State,,DEM,Alex Padilla,61
 Tehama,40485,Secretary of State,,IND,Dan Schnur,33
 Tehama,40485,Secretary of State,,GRN,David Curtis,22
@@ -2063,7 +2066,6 @@ Tehama,40490,Controller,,DEM,John A. Pérez,16
 Tehama,40490,Controller,,GRN,Laura Wells,14
 Tehama,40490,Controller,,DEM,Tammy D. Blair,17
 Tehama,40490,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Tehama,40490,Governor,,DEM,Akinyemi Agbede,0
 Tehama,40490,Governor,,REP,Alma Marie Winston,5
 Tehama,40490,Governor,,REP,Andrew Blount,17
 Tehama,40490,Governor,,PAF,Cindy L. Sheehan,3
@@ -2071,9 +2073,7 @@ Tehama,40490,Governor,,DEM,"Edmund G. ""Jerry"" Brown",67
 Tehama,40490,Governor,,REP,Glenn Champ,14
 Tehama,40490,Governor,,IND,Janel Hyeshia Buycks,4
 Tehama,40490,Governor,,IND,Joe Leicht,3
-Tehama,40490,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,40490,Governor,,REP,Neel Kashkari,56
-Tehama,40490,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,40490,Governor,,REP,Richard William Aguirre,3
 Tehama,40490,Governor,,IND,Robert Newman,6
 Tehama,40490,Governor,,REP,Tim Donnelly,78
@@ -2088,6 +2088,10 @@ Tehama,40490,Lieutenant Governor,,DEM,Gavin Newsom,43
 Tehama,40490,Lieutenant Governor,,REP,George Yang,21
 Tehama,40490,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tehama,40490,Lieutenant Governor,,REP,Ron Nehring,72
+Tehama,40490,Proposition 41,,,No,122
+Tehama,40490,Proposition 41,,,Yes,127
+Tehama,40490,Proposition 42,,,No,135
+Tehama,40490,Proposition 42,,,Yes,104
 Tehama,40490,Secretary of State,,DEM,Alex Padilla,27
 Tehama,40490,Secretary of State,,IND,Dan Schnur,31
 Tehama,40490,Secretary of State,,GRN,David Curtis,6
@@ -2121,24 +2125,16 @@ Tehama,40620,Attorney General,,REP,Ronald Gold,8
 Tehama,40620,Board of Equalization,2,DEM,Fiona Ma,11
 Tehama,40620,Board of Equalization,2,REP,James E. Theis,33
 Tehama,40620,Controller,,REP,Ashley Swearengin,10
-Tehama,40620,Controller,,DEM,Betty T. Yee,0
 Tehama,40620,Controller,,REP,David Evans,25
 Tehama,40620,Controller,,DEM,John A. Pérez,4
 Tehama,40620,Controller,,GRN,Laura Wells,2
 Tehama,40620,Controller,,DEM,Tammy D. Blair,6
-Tehama,40620,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,40620,Governor,,DEM,Akinyemi Agbede,0
-Tehama,40620,Governor,,REP,Alma Marie Winston,0
 Tehama,40620,Governor,,REP,Andrew Blount,1
-Tehama,40620,Governor,,PAF,Cindy L. Sheehan,0
 Tehama,40620,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
 Tehama,40620,Governor,,REP,Glenn Champ,6
-Tehama,40620,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,40620,Governor,,IND,Joe Leicht,0
 Tehama,40620,Governor,,GRN,Luis J. Rodriguez,1
 Tehama,40620,Governor,,REP,Neel Kashkari,11
 Tehama,40620,Governor,,IND,Rakesh Kumar Christian,1
-Tehama,40620,Governor,,REP,Richard William Aguirre,0
 Tehama,40620,Governor,,IND,Robert Newman,1
 Tehama,40620,Governor,,REP,Tim Donnelly,18
 Tehama,40620,Insurance Commissioner,,DEM,Dave Jones,8
@@ -2152,12 +2148,14 @@ Tehama,40620,Lieutenant Governor,,DEM,Gavin Newsom,8
 Tehama,40620,Lieutenant Governor,,REP,George Yang,3
 Tehama,40620,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tehama,40620,Lieutenant Governor,,REP,Ron Nehring,21
+Tehama,40620,Proposition 41,,,No,24
+Tehama,40620,Proposition 41,,,Yes,23
+Tehama,40620,Proposition 42,,,No,21
+Tehama,40620,Proposition 42,,,Yes,21
 Tehama,40620,Secretary of State,,DEM,Alex Padilla,10
 Tehama,40620,Secretary of State,,IND,Dan Schnur,8
 Tehama,40620,Secretary of State,,GRN,David Curtis,1
 Tehama,40620,Secretary of State,,DEM,Derek Cressman,1
-Tehama,40620,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Tehama,40620,Secretary of State,,DEM,Leland Yee,0
 Tehama,40620,Secretary of State,,REP,Pete Peterson,18
 Tehama,40620,Secretary of State,,REP,Roy Allmond,7
 Tehama,40620,State Assembly,3,REP,James Gallagher,23
@@ -2198,11 +2196,9 @@ Tehama,41380,Governor,,PAF,Cindy L. Sheehan,6
 Tehama,41380,Governor,,DEM,"Edmund G. ""Jerry"" Brown",103
 Tehama,41380,Governor,,REP,Glenn Champ,15
 Tehama,41380,Governor,,IND,Janel Hyeshia Buycks,2
-Tehama,41380,Governor,,IND,Joe Leicht,0
 Tehama,41380,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,41380,Governor,,REP,Neel Kashkari,50
 Tehama,41380,Governor,,IND,Rakesh Kumar Christian,1
-Tehama,41380,Governor,,REP,Richard William Aguirre,0
 Tehama,41380,Governor,,IND,Robert Newman,6
 Tehama,41380,Governor,,REP,Tim Donnelly,73
 Tehama,41380,Insurance Commissioner,,DEM,Dave Jones,91
@@ -2216,6 +2212,10 @@ Tehama,41380,Lieutenant Governor,,DEM,Gavin Newsom,68
 Tehama,41380,Lieutenant Governor,,REP,George Yang,21
 Tehama,41380,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tehama,41380,Lieutenant Governor,,REP,Ron Nehring,73
+Tehama,41380,Proposition 41,,,No,118
+Tehama,41380,Proposition 41,,,Yes,156
+Tehama,41380,Proposition 42,,,No,147
+Tehama,41380,Proposition 42,,,Yes,122
 Tehama,41380,Secretary of State,,DEM,Alex Padilla,62
 Tehama,41380,Secretary of State,,IND,Dan Schnur,29
 Tehama,41380,Secretary of State,,GRN,David Curtis,7
@@ -2254,7 +2254,6 @@ Tehama,41400,Controller,,REP,David Evans,50
 Tehama,41400,Controller,,DEM,John A. Pérez,29
 Tehama,41400,Controller,,GRN,Laura Wells,18
 Tehama,41400,Controller,,DEM,Tammy D. Blair,26
-Tehama,41400,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tehama,41400,Governor,,DEM,Akinyemi Agbede,2
 Tehama,41400,Governor,,REP,Alma Marie Winston,8
 Tehama,41400,Governor,,REP,Andrew Blount,6
@@ -2265,8 +2264,6 @@ Tehama,41400,Governor,,IND,Janel Hyeshia Buycks,2
 Tehama,41400,Governor,,IND,Joe Leicht,2
 Tehama,41400,Governor,,GRN,Luis J. Rodriguez,4
 Tehama,41400,Governor,,REP,Neel Kashkari,29
-Tehama,41400,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,41400,Governor,,REP,Richard William Aguirre,0
 Tehama,41400,Governor,,IND,Robert Newman,3
 Tehama,41400,Governor,,REP,Tim Donnelly,56
 Tehama,41400,Insurance Commissioner,,DEM,Dave Jones,81
@@ -2280,6 +2277,10 @@ Tehama,41400,Lieutenant Governor,,DEM,Gavin Newsom,59
 Tehama,41400,Lieutenant Governor,,REP,George Yang,12
 Tehama,41400,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Tehama,41400,Lieutenant Governor,,REP,Ron Nehring,47
+Tehama,41400,Proposition 41,,,No,80
+Tehama,41400,Proposition 41,,,Yes,132
+Tehama,41400,Proposition 42,,,No,111
+Tehama,41400,Proposition 42,,,Yes,97
 Tehama,41400,Secretary of State,,DEM,Alex Padilla,43
 Tehama,41400,Secretary of State,,IND,Dan Schnur,19
 Tehama,41400,Secretary of State,,GRN,David Curtis,12
@@ -2318,32 +2319,27 @@ Tehama,50370,Controller,,REP,David Evans,36
 Tehama,50370,Controller,,DEM,John A. Pérez,11
 Tehama,50370,Controller,,GRN,Laura Wells,3
 Tehama,50370,Controller,,DEM,Tammy D. Blair,10
-Tehama,50370,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,50370,Governor,,DEM,Akinyemi Agbede,0
-Tehama,50370,Governor,,REP,Alma Marie Winston,0
 Tehama,50370,Governor,,REP,Andrew Blount,4
 Tehama,50370,Governor,,PAF,Cindy L. Sheehan,2
 Tehama,50370,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Tehama,50370,Governor,,REP,Glenn Champ,4
-Tehama,50370,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,50370,Governor,,IND,Joe Leicht,0
-Tehama,50370,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,50370,Governor,,REP,Neel Kashkari,29
-Tehama,50370,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,50370,Governor,,REP,Richard William Aguirre,1
-Tehama,50370,Governor,,IND,Robert Newman,0
 Tehama,50370,Governor,,REP,Tim Donnelly,27
 Tehama,50370,Insurance Commissioner,,DEM,Dave Jones,31
 Tehama,50370,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Tehama,50370,Insurance Commissioner,,REP,Ted Gaines,61
 Tehama,50370,Lieutenant Governor,,AME,Alan Reynolds,1
-Tehama,50370,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,50370,Lieutenant Governor,,REP,David Fennell,26
 Tehama,50370,Lieutenant Governor,,DEM,Eric Korevaar,7
 Tehama,50370,Lieutenant Governor,,DEM,Gavin Newsom,29
 Tehama,50370,Lieutenant Governor,,REP,George Yang,8
 Tehama,50370,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tehama,50370,Lieutenant Governor,,REP,Ron Nehring,29
+Tehama,50370,Proposition 41,,,No,61
+Tehama,50370,Proposition 41,,,Yes,40
+Tehama,50370,Proposition 42,,,No,43
+Tehama,50370,Proposition 42,,,Yes,48
 Tehama,50370,Secretary of State,,DEM,Alex Padilla,25
 Tehama,50370,Secretary of State,,IND,Dan Schnur,12
 Tehama,50370,Secretary of State,,GRN,David Curtis,1
@@ -2382,16 +2378,11 @@ Tehama,50450,Controller,,REP,David Evans,24
 Tehama,50450,Controller,,DEM,John A. Pérez,4
 Tehama,50450,Controller,,GRN,Laura Wells,2
 Tehama,50450,Controller,,DEM,Tammy D. Blair,2
-Tehama,50450,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tehama,50450,Governor,,DEM,Akinyemi Agbede,1
 Tehama,50450,Governor,,REP,Alma Marie Winston,1
 Tehama,50450,Governor,,REP,Andrew Blount,1
 Tehama,50450,Governor,,PAF,Cindy L. Sheehan,1
 Tehama,50450,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
-Tehama,50450,Governor,,REP,Glenn Champ,0
-Tehama,50450,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,50450,Governor,,IND,Joe Leicht,0
-Tehama,50450,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,50450,Governor,,REP,Neel Kashkari,12
 Tehama,50450,Governor,,IND,Rakesh Kumar Christian,1
 Tehama,50450,Governor,,REP,Richard William Aguirre,1
@@ -2408,10 +2399,13 @@ Tehama,50450,Lieutenant Governor,,DEM,Gavin Newsom,7
 Tehama,50450,Lieutenant Governor,,REP,George Yang,6
 Tehama,50450,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tehama,50450,Lieutenant Governor,,REP,Ron Nehring,24
+Tehama,50450,Proposition 41,,,No,36
+Tehama,50450,Proposition 41,,,Yes,19
+Tehama,50450,Proposition 42,,,No,36
+Tehama,50450,Proposition 42,,,Yes,15
 Tehama,50450,Secretary of State,,DEM,Alex Padilla,3
 Tehama,50450,Secretary of State,,IND,Dan Schnur,9
 Tehama,50450,Secretary of State,,GRN,David Curtis,1
-Tehama,50450,Secretary of State,,DEM,Derek Cressman,0
 Tehama,50450,Secretary of State,,DEM,Jeffrey H. Drobman,5
 Tehama,50450,Secretary of State,,DEM,Leland Yee,3
 Tehama,50450,Secretary of State,,REP,Pete Peterson,26
@@ -2433,50 +2427,31 @@ Tehama,50450,U.S. House,1,REP,Gregory Cheadle,7
 Tehama,50450,U.S. House,1,DEM,Heidi Hall,8
 Tehama,50455,Attorney General,,REP,David King,1
 Tehama,50455,Attorney General,,REP,John Haggerty,5
-Tehama,50455,Attorney General,,LIB,Jonathan Jaech,0
 Tehama,50455,Attorney General,,DEM,Kamala D. Harris,3
-Tehama,50455,Attorney General,,IND,Orly Taitz,0
 Tehama,50455,Attorney General,,REP,Phil Wyman,4
 Tehama,50455,Attorney General,,REP,Ronald Gold,2
 Tehama,50455,Board of Equalization,2,DEM,Fiona Ma,3
 Tehama,50455,Board of Equalization,2,REP,James E. Theis,12
 Tehama,50455,Controller,,REP,Ashley Swearengin,7
-Tehama,50455,Controller,,DEM,Betty T. Yee,0
 Tehama,50455,Controller,,REP,David Evans,5
-Tehama,50455,Controller,,DEM,John A. Pérez,0
-Tehama,50455,Controller,,GRN,Laura Wells,0
 Tehama,50455,Controller,,DEM,Tammy D. Blair,3
-Tehama,50455,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,50455,Governor,,DEM,Akinyemi Agbede,0
-Tehama,50455,Governor,,REP,Alma Marie Winston,0
-Tehama,50455,Governor,,REP,Andrew Blount,0
-Tehama,50455,Governor,,PAF,Cindy L. Sheehan,0
 Tehama,50455,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
-Tehama,50455,Governor,,REP,Glenn Champ,0
-Tehama,50455,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,50455,Governor,,IND,Joe Leicht,0
-Tehama,50455,Governor,,GRN,Luis J. Rodriguez,0
 Tehama,50455,Governor,,REP,Neel Kashkari,1
-Tehama,50455,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,50455,Governor,,REP,Richard William Aguirre,0
-Tehama,50455,Governor,,IND,Robert Newman,0
 Tehama,50455,Governor,,REP,Tim Donnelly,11
 Tehama,50455,Insurance Commissioner,,DEM,Dave Jones,2
 Tehama,50455,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Tehama,50455,Insurance Commissioner,,REP,Ted Gaines,12
-Tehama,50455,Lieutenant Governor,,AME,Alan Reynolds,0
-Tehama,50455,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,50455,Lieutenant Governor,,REP,David Fennell,4
 Tehama,50455,Lieutenant Governor,,DEM,Eric Korevaar,2
 Tehama,50455,Lieutenant Governor,,DEM,Gavin Newsom,1
 Tehama,50455,Lieutenant Governor,,REP,George Yang,1
-Tehama,50455,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tehama,50455,Lieutenant Governor,,REP,Ron Nehring,7
+Tehama,50455,Proposition 41,,,No,7
+Tehama,50455,Proposition 41,,,Yes,9
+Tehama,50455,Proposition 42,,,No,9
+Tehama,50455,Proposition 42,,,Yes,7
 Tehama,50455,Secretary of State,,DEM,Alex Padilla,1
-Tehama,50455,Secretary of State,,IND,Dan Schnur,0
-Tehama,50455,Secretary of State,,GRN,David Curtis,0
 Tehama,50455,Secretary of State,,DEM,Derek Cressman,2
-Tehama,50455,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tehama,50455,Secretary of State,,DEM,Leland Yee,1
 Tehama,50455,Secretary of State,,REP,Pete Peterson,9
 Tehama,50455,Secretary of State,,REP,Roy Allmond,2
@@ -2512,16 +2487,13 @@ Tehama,50530,Controller,,GRN,Laura Wells,11
 Tehama,50530,Controller,,DEM,Tammy D. Blair,14
 Tehama,50530,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Tehama,50530,Governor,,DEM,Akinyemi Agbede,2
-Tehama,50530,Governor,,REP,Alma Marie Winston,0
 Tehama,50530,Governor,,REP,Andrew Blount,9
 Tehama,50530,Governor,,PAF,Cindy L. Sheehan,3
 Tehama,50530,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Tehama,50530,Governor,,REP,Glenn Champ,9
 Tehama,50530,Governor,,IND,Janel Hyeshia Buycks,6
-Tehama,50530,Governor,,IND,Joe Leicht,0
 Tehama,50530,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,50530,Governor,,REP,Neel Kashkari,15
-Tehama,50530,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,50530,Governor,,REP,Richard William Aguirre,1
 Tehama,50530,Governor,,IND,Robert Newman,5
 Tehama,50530,Governor,,REP,Tim Donnelly,35
@@ -2536,6 +2508,10 @@ Tehama,50530,Lieutenant Governor,,DEM,Gavin Newsom,38
 Tehama,50530,Lieutenant Governor,,REP,George Yang,10
 Tehama,50530,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tehama,50530,Lieutenant Governor,,REP,Ron Nehring,28
+Tehama,50530,Proposition 41,,,No,62
+Tehama,50530,Proposition 41,,,Yes,85
+Tehama,50530,Proposition 42,,,No,76
+Tehama,50530,Proposition 42,,,Yes,66
 Tehama,50530,Secretary of State,,DEM,Alex Padilla,40
 Tehama,50530,Secretary of State,,IND,Dan Schnur,9
 Tehama,50530,Secretary of State,,GRN,David Curtis,5
@@ -2600,6 +2576,10 @@ Tehama,50560,Lieutenant Governor,,DEM,Gavin Newsom,112
 Tehama,50560,Lieutenant Governor,,REP,George Yang,16
 Tehama,50560,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tehama,50560,Lieutenant Governor,,REP,Ron Nehring,104
+Tehama,50560,Proposition 41,,,No,157
+Tehama,50560,Proposition 41,,,Yes,241
+Tehama,50560,Proposition 42,,,No,215
+Tehama,50560,Proposition 42,,,Yes,168
 Tehama,50560,Secretary of State,,DEM,Alex Padilla,76
 Tehama,50560,Secretary of State,,IND,Dan Schnur,49
 Tehama,50560,Secretary of State,,GRN,David Curtis,7
@@ -2664,6 +2644,10 @@ Tehama,50580,Lieutenant Governor,,DEM,Gavin Newsom,125
 Tehama,50580,Lieutenant Governor,,REP,George Yang,45
 Tehama,50580,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Tehama,50580,Lieutenant Governor,,REP,Ron Nehring,140
+Tehama,50580,Proposition 41,,,No,217
+Tehama,50580,Proposition 41,,,Yes,273
+Tehama,50580,Proposition 42,,,No,232
+Tehama,50580,Proposition 42,,,Yes,230
 Tehama,50580,Secretary of State,,DEM,Alex Padilla,76
 Tehama,50580,Secretary of State,,IND,Dan Schnur,75
 Tehama,50580,Secretary of State,,GRN,David Curtis,16
@@ -2728,6 +2712,10 @@ Tehama,50590,Lieutenant Governor,,DEM,Gavin Newsom,90
 Tehama,50590,Lieutenant Governor,,REP,George Yang,30
 Tehama,50590,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tehama,50590,Lieutenant Governor,,REP,Ron Nehring,102
+Tehama,50590,Proposition 41,,,No,176
+Tehama,50590,Proposition 41,,,Yes,197
+Tehama,50590,Proposition 42,,,No,198
+Tehama,50590,Proposition 42,,,Yes,150
 Tehama,50590,Secretary of State,,DEM,Alex Padilla,63
 Tehama,50590,Secretary of State,,IND,Dan Schnur,34
 Tehama,50590,Secretary of State,,GRN,David Curtis,7
@@ -2766,18 +2754,13 @@ Tehama,50630,Controller,,REP,David Evans,44
 Tehama,50630,Controller,,DEM,John A. Pérez,11
 Tehama,50630,Controller,,GRN,Laura Wells,3
 Tehama,50630,Controller,,DEM,Tammy D. Blair,7
-Tehama,50630,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tehama,50630,Governor,,DEM,Akinyemi Agbede,1
 Tehama,50630,Governor,,REP,Alma Marie Winston,2
 Tehama,50630,Governor,,REP,Andrew Blount,8
-Tehama,50630,Governor,,PAF,Cindy L. Sheehan,0
 Tehama,50630,Governor,,DEM,"Edmund G. ""Jerry"" Brown",33
 Tehama,50630,Governor,,REP,Glenn Champ,7
-Tehama,50630,Governor,,IND,Janel Hyeshia Buycks,0
-Tehama,50630,Governor,,IND,Joe Leicht,0
 Tehama,50630,Governor,,GRN,Luis J. Rodriguez,1
 Tehama,50630,Governor,,REP,Neel Kashkari,16
-Tehama,50630,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,50630,Governor,,REP,Richard William Aguirre,1
 Tehama,50630,Governor,,IND,Robert Newman,6
 Tehama,50630,Governor,,REP,Tim Donnelly,40
@@ -2790,8 +2773,11 @@ Tehama,50630,Lieutenant Governor,,REP,David Fennell,29
 Tehama,50630,Lieutenant Governor,,DEM,Eric Korevaar,11
 Tehama,50630,Lieutenant Governor,,DEM,Gavin Newsom,29
 Tehama,50630,Lieutenant Governor,,REP,George Yang,5
-Tehama,50630,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tehama,50630,Lieutenant Governor,,REP,Ron Nehring,32
+Tehama,50630,Proposition 41,,,No,58
+Tehama,50630,Proposition 41,,,Yes,53
+Tehama,50630,Proposition 42,,,No,62
+Tehama,50630,Proposition 42,,,Yes,43
 Tehama,50630,Secretary of State,,DEM,Alex Padilla,17
 Tehama,50630,Secretary of State,,IND,Dan Schnur,9
 Tehama,50630,Secretary of State,,GRN,David Curtis,2
@@ -2841,7 +2827,6 @@ Tehama,51510,Governor,,IND,Janel Hyeshia Buycks,2
 Tehama,51510,Governor,,IND,Joe Leicht,1
 Tehama,51510,Governor,,GRN,Luis J. Rodriguez,3
 Tehama,51510,Governor,,REP,Neel Kashkari,56
-Tehama,51510,Governor,,IND,Rakesh Kumar Christian,0
 Tehama,51510,Governor,,REP,Richard William Aguirre,1
 Tehama,51510,Governor,,IND,Robert Newman,13
 Tehama,51510,Governor,,REP,Tim Donnelly,98
@@ -2856,6 +2841,10 @@ Tehama,51510,Lieutenant Governor,,DEM,Gavin Newsom,66
 Tehama,51510,Lieutenant Governor,,REP,George Yang,20
 Tehama,51510,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tehama,51510,Lieutenant Governor,,REP,Ron Nehring,93
+Tehama,51510,Proposition 41,,,No,131
+Tehama,51510,Proposition 41,,,Yes,205
+Tehama,51510,Proposition 42,,,No,165
+Tehama,51510,Proposition 42,,,Yes,162
 Tehama,51510,Secretary of State,,DEM,Alex Padilla,69
 Tehama,51510,Secretary of State,,IND,Dan Schnur,42
 Tehama,51510,Secretary of State,,GRN,David Curtis,8
@@ -2894,8 +2883,6 @@ Tehama,53610,Controller,,REP,David Evans,39
 Tehama,53610,Controller,,DEM,John A. Pérez,8
 Tehama,53610,Controller,,GRN,Laura Wells,4
 Tehama,53610,Controller,,DEM,Tammy D. Blair,13
-Tehama,53610,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tehama,53610,Governor,,DEM,Akinyemi Agbede,0
 Tehama,53610,Governor,,REP,Alma Marie Winston,2
 Tehama,53610,Governor,,REP,Andrew Blount,6
 Tehama,53610,Governor,,PAF,Cindy L. Sheehan,1
@@ -2905,21 +2892,22 @@ Tehama,53610,Governor,,IND,Janel Hyeshia Buycks,6
 Tehama,53610,Governor,,IND,Joe Leicht,1
 Tehama,53610,Governor,,GRN,Luis J. Rodriguez,2
 Tehama,53610,Governor,,REP,Neel Kashkari,15
-Tehama,53610,Governor,,IND,Rakesh Kumar Christian,0
-Tehama,53610,Governor,,REP,Richard William Aguirre,0
 Tehama,53610,Governor,,IND,Robert Newman,1
 Tehama,53610,Governor,,REP,Tim Donnelly,24
 Tehama,53610,Insurance Commissioner,,DEM,Dave Jones,29
 Tehama,53610,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Tehama,53610,Insurance Commissioner,,REP,Ted Gaines,54
 Tehama,53610,Lieutenant Governor,,AME,Alan Reynolds,4
-Tehama,53610,Lieutenant Governor,,PAF,Amos Johnson,0
 Tehama,53610,Lieutenant Governor,,REP,David Fennell,16
 Tehama,53610,Lieutenant Governor,,DEM,Eric Korevaar,9
 Tehama,53610,Lieutenant Governor,,DEM,Gavin Newsom,26
 Tehama,53610,Lieutenant Governor,,REP,George Yang,6
 Tehama,53610,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tehama,53610,Lieutenant Governor,,REP,Ron Nehring,29
+Tehama,53610,Proposition 41,,,No,40
+Tehama,53610,Proposition 41,,,Yes,57
+Tehama,53610,Proposition 42,,,No,44
+Tehama,53610,Proposition 42,,,Yes,51
 Tehama,53610,Secretary of State,,DEM,Alex Padilla,21
 Tehama,53610,Secretary of State,,IND,Dan Schnur,2
 Tehama,53610,Secretary of State,,GRN,David Curtis,5

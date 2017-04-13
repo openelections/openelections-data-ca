@@ -25,7 +25,6 @@ Amador,AV101,Governor,,IND,Janel Hyeshia Buycks,1
 Amador,AV101,Governor,,IND,Joe Leicht,1
 Amador,AV101,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV101,Governor,,REP,Neel Kashkari,53
-Amador,AV101,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV101,Governor,,REP,Richard William Aguirre,1
 Amador,AV101,Governor,,IND,Robert Newman,8
 Amador,AV101,Governor,,REP,Tim Donnelly,43
@@ -40,6 +39,10 @@ Amador,AV101,Lieutenant Governor,,DEM,Gavin Newsom,106
 Amador,AV101,Lieutenant Governor,,REP,George Yang,18
 Amador,AV101,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Amador,AV101,Lieutenant Governor,,REP,Ron Nehring,70
+Amador,AV101,Proposition 41,,,No,96
+Amador,AV101,Proposition 41,,,Yes,163
+Amador,AV101,Proposition 42,,,No,144
+Amador,AV101,Proposition 42,,,Yes,103
 Amador,AV101,Secretary of State,,DEM,Alex Padilla,50
 Amador,AV101,Secretary of State,,IND,Dan Schnur,17
 Amador,AV101,Secretary of State,,GRN,David Curtis,8
@@ -76,18 +79,13 @@ Amador,AV102,Controller,,DEM,John A. Pérez,35
 Amador,AV102,Controller,,GRN,Laura Wells,8
 Amador,AV102,Controller,,DEM,Tammy D. Blair,11
 Amador,AV102,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,AV102,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV102,Governor,,REP,Alma Marie Winston,3
 Amador,AV102,Governor,,REP,Andrew Blount,11
 Amador,AV102,Governor,,PAF,Cindy L. Sheehan,2
 Amador,AV102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",119
 Amador,AV102,Governor,,REP,Glenn Champ,4
-Amador,AV102,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV102,Governor,,IND,Joe Leicht,1
-Amador,AV102,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV102,Governor,,REP,Neel Kashkari,54
-Amador,AV102,Governor,,IND,Rakesh Kumar Christian,0
-Amador,AV102,Governor,,REP,Richard William Aguirre,0
 Amador,AV102,Governor,,IND,Robert Newman,2
 Amador,AV102,Governor,,REP,Tim Donnelly,67
 Amador,AV102,Insurance Commissioner,,DEM,Dave Jones,97
@@ -101,6 +99,10 @@ Amador,AV102,Lieutenant Governor,,DEM,Gavin Newsom,93
 Amador,AV102,Lieutenant Governor,,REP,George Yang,21
 Amador,AV102,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,AV102,Lieutenant Governor,,REP,Ron Nehring,78
+Amador,AV102,Proposition 41,,,No,99
+Amador,AV102,Proposition 41,,,Yes,150
+Amador,AV102,Proposition 42,,,No,134
+Amador,AV102,Proposition 42,,,Yes,109
 Amador,AV102,Secretary of State,,DEM,Alex Padilla,59
 Amador,AV102,Secretary of State,,IND,Dan Schnur,18
 Amador,AV102,Secretary of State,,GRN,David Curtis,5
@@ -137,17 +139,14 @@ Amador,AV103,Controller,,DEM,John A. Pérez,29
 Amador,AV103,Controller,,GRN,Laura Wells,9
 Amador,AV103,Controller,,DEM,Tammy D. Blair,20
 Amador,AV103,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,AV103,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV103,Governor,,REP,Alma Marie Winston,1
 Amador,AV103,Governor,,REP,Andrew Blount,8
 Amador,AV103,Governor,,PAF,Cindy L. Sheehan,1
 Amador,AV103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",125
 Amador,AV103,Governor,,REP,Glenn Champ,5
 Amador,AV103,Governor,,IND,Janel Hyeshia Buycks,1
-Amador,AV103,Governor,,IND,Joe Leicht,0
 Amador,AV103,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV103,Governor,,REP,Neel Kashkari,33
-Amador,AV103,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV103,Governor,,REP,Richard William Aguirre,2
 Amador,AV103,Governor,,IND,Robert Newman,3
 Amador,AV103,Governor,,REP,Tim Donnelly,26
@@ -162,6 +161,10 @@ Amador,AV103,Lieutenant Governor,,DEM,Gavin Newsom,100
 Amador,AV103,Lieutenant Governor,,REP,George Yang,22
 Amador,AV103,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Amador,AV103,Lieutenant Governor,,REP,Ron Nehring,50
+Amador,AV103,Proposition 41,,,No,63
+Amador,AV103,Proposition 41,,,Yes,137
+Amador,AV103,Proposition 42,,,No,91
+Amador,AV103,Proposition 42,,,Yes,101
 Amador,AV103,Secretary of State,,DEM,Alex Padilla,33
 Amador,AV103,Secretary of State,,IND,Dan Schnur,11
 Amador,AV103,Secretary of State,,GRN,David Curtis,2
@@ -197,7 +200,6 @@ Amador,AV104,Controller,,REP,David Evans,143
 Amador,AV104,Controller,,DEM,John A. Pérez,34
 Amador,AV104,Controller,,GRN,Laura Wells,17
 Amador,AV104,Controller,,DEM,Tammy D. Blair,27
-Amador,AV104,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV104,Governor,,DEM,Akinyemi Agbede,1
 Amador,AV104,Governor,,REP,Alma Marie Winston,3
 Amador,AV104,Governor,,REP,Andrew Blount,13
@@ -205,10 +207,8 @@ Amador,AV104,Governor,,PAF,Cindy L. Sheehan,2
 Amador,AV104,Governor,,DEM,"Edmund G. ""Jerry"" Brown",129
 Amador,AV104,Governor,,REP,Glenn Champ,8
 Amador,AV104,Governor,,IND,Janel Hyeshia Buycks,3
-Amador,AV104,Governor,,IND,Joe Leicht,0
 Amador,AV104,Governor,,GRN,Luis J. Rodriguez,2
 Amador,AV104,Governor,,REP,Neel Kashkari,89
-Amador,AV104,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV104,Governor,,REP,Richard William Aguirre,2
 Amador,AV104,Governor,,IND,Robert Newman,2
 Amador,AV104,Governor,,REP,Tim Donnelly,82
@@ -223,6 +223,10 @@ Amador,AV104,Lieutenant Governor,,DEM,Gavin Newsom,108
 Amador,AV104,Lieutenant Governor,,REP,George Yang,33
 Amador,AV104,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,AV104,Lieutenant Governor,,REP,Ron Nehring,118
+Amador,AV104,Proposition 41,,,No,145
+Amador,AV104,Proposition 41,,,Yes,183
+Amador,AV104,Proposition 42,,,No,211
+Amador,AV104,Proposition 42,,,Yes,115
 Amador,AV104,Secretary of State,,DEM,Alex Padilla,51
 Amador,AV104,Secretary of State,,IND,Dan Schnur,16
 Amador,AV104,Secretary of State,,GRN,David Curtis,4
@@ -258,20 +262,16 @@ Amador,AV105,Controller,,REP,David Evans,60
 Amador,AV105,Controller,,DEM,John A. Pérez,18
 Amador,AV105,Controller,,GRN,Laura Wells,13
 Amador,AV105,Controller,,DEM,Tammy D. Blair,13
-Amador,AV105,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV105,Governor,,DEM,Akinyemi Agbede,1
 Amador,AV105,Governor,,REP,Alma Marie Winston,5
 Amador,AV105,Governor,,REP,Andrew Blount,4
 Amador,AV105,Governor,,PAF,Cindy L. Sheehan,2
 Amador,AV105,Governor,,DEM,"Edmund G. ""Jerry"" Brown",66
 Amador,AV105,Governor,,REP,Glenn Champ,3
-Amador,AV105,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV105,Governor,,IND,Joe Leicht,3
 Amador,AV105,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV105,Governor,,REP,Neel Kashkari,48
 Amador,AV105,Governor,,IND,Rakesh Kumar Christian,3
-Amador,AV105,Governor,,REP,Richard William Aguirre,0
-Amador,AV105,Governor,,IND,Robert Newman,0
 Amador,AV105,Governor,,REP,Tim Donnelly,33
 Amador,AV105,Insurance Commissioner,,DEM,Dave Jones,50
 Amador,AV105,Insurance Commissioner,,PAF,Nathalie Hrizi,12
@@ -284,6 +284,10 @@ Amador,AV105,Lieutenant Governor,,DEM,Gavin Newsom,59
 Amador,AV105,Lieutenant Governor,,REP,George Yang,15
 Amador,AV105,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Amador,AV105,Lieutenant Governor,,REP,Ron Nehring,57
+Amador,AV105,Proposition 41,,,No,73
+Amador,AV105,Proposition 41,,,Yes,96
+Amador,AV105,Proposition 42,,,No,87
+Amador,AV105,Proposition 42,,,Yes,74
 Amador,AV105,Secretary of State,,DEM,Alex Padilla,24
 Amador,AV105,Secretary of State,,IND,Dan Schnur,19
 Amador,AV105,Secretary of State,,GRN,David Curtis,3
@@ -320,7 +324,6 @@ Amador,AV106,Controller,,DEM,John A. Pérez,47
 Amador,AV106,Controller,,GRN,Laura Wells,29
 Amador,AV106,Controller,,DEM,Tammy D. Blair,9
 Amador,AV106,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,AV106,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV106,Governor,,REP,Alma Marie Winston,4
 Amador,AV106,Governor,,REP,Andrew Blount,10
 Amador,AV106,Governor,,PAF,Cindy L. Sheehan,8
@@ -330,7 +333,6 @@ Amador,AV106,Governor,,IND,Janel Hyeshia Buycks,3
 Amador,AV106,Governor,,IND,Joe Leicht,3
 Amador,AV106,Governor,,GRN,Luis J. Rodriguez,2
 Amador,AV106,Governor,,REP,Neel Kashkari,89
-Amador,AV106,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV106,Governor,,REP,Richard William Aguirre,2
 Amador,AV106,Governor,,IND,Robert Newman,4
 Amador,AV106,Governor,,REP,Tim Donnelly,116
@@ -345,6 +347,10 @@ Amador,AV106,Lieutenant Governor,,DEM,Gavin Newsom,163
 Amador,AV106,Lieutenant Governor,,REP,George Yang,41
 Amador,AV106,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,AV106,Lieutenant Governor,,REP,Ron Nehring,149
+Amador,AV106,Proposition 41,,,No,172
+Amador,AV106,Proposition 41,,,Yes,254
+Amador,AV106,Proposition 42,,,No,226
+Amador,AV106,Proposition 42,,,Yes,189
 Amador,AV106,Secretary of State,,DEM,Alex Padilla,62
 Amador,AV106,Secretary of State,,IND,Dan Schnur,24
 Amador,AV106,Secretary of State,,GRN,David Curtis,11
@@ -380,18 +386,13 @@ Amador,AV107,Controller,,REP,David Evans,71
 Amador,AV107,Controller,,DEM,John A. Pérez,29
 Amador,AV107,Controller,,GRN,Laura Wells,10
 Amador,AV107,Controller,,DEM,Tammy D. Blair,8
-Amador,AV107,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV107,Governor,,DEM,Akinyemi Agbede,2
 Amador,AV107,Governor,,REP,Alma Marie Winston,1
 Amador,AV107,Governor,,REP,Andrew Blount,9
 Amador,AV107,Governor,,PAF,Cindy L. Sheehan,5
 Amador,AV107,Governor,,DEM,"Edmund G. ""Jerry"" Brown",92
 Amador,AV107,Governor,,REP,Glenn Champ,1
-Amador,AV107,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV107,Governor,,IND,Joe Leicht,0
-Amador,AV107,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV107,Governor,,REP,Neel Kashkari,49
-Amador,AV107,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV107,Governor,,REP,Richard William Aguirre,2
 Amador,AV107,Governor,,IND,Robert Newman,1
 Amador,AV107,Governor,,REP,Tim Donnelly,46
@@ -406,6 +407,10 @@ Amador,AV107,Lieutenant Governor,,DEM,Gavin Newsom,77
 Amador,AV107,Lieutenant Governor,,REP,George Yang,18
 Amador,AV107,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,AV107,Lieutenant Governor,,REP,Ron Nehring,56
+Amador,AV107,Proposition 41,,,No,61
+Amador,AV107,Proposition 41,,,Yes,132
+Amador,AV107,Proposition 42,,,No,108
+Amador,AV107,Proposition 42,,,Yes,83
 Amador,AV107,Secretary of State,,DEM,Alex Padilla,53
 Amador,AV107,Secretary of State,,IND,Dan Schnur,12
 Amador,AV107,Secretary of State,,GRN,David Curtis,3
@@ -439,20 +444,12 @@ Amador,AV108,Controller,,REP,Ashley Swearengin,17
 Amador,AV108,Controller,,DEM,Betty T. Yee,5
 Amador,AV108,Controller,,REP,David Evans,29
 Amador,AV108,Controller,,DEM,John A. Pérez,6
-Amador,AV108,Controller,,GRN,Laura Wells,0
-Amador,AV108,Controller,,DEM,Tammy D. Blair,0
-Amador,AV108,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV108,Governor,,DEM,Akinyemi Agbede,1
 Amador,AV108,Governor,,REP,Alma Marie Winston,3
 Amador,AV108,Governor,,REP,Andrew Blount,4
-Amador,AV108,Governor,,PAF,Cindy L. Sheehan,0
 Amador,AV108,Governor,,DEM,"Edmund G. ""Jerry"" Brown",14
 Amador,AV108,Governor,,REP,Glenn Champ,2
-Amador,AV108,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV108,Governor,,IND,Joe Leicht,0
-Amador,AV108,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV108,Governor,,REP,Neel Kashkari,12
-Amador,AV108,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV108,Governor,,REP,Richard William Aguirre,3
 Amador,AV108,Governor,,IND,Robert Newman,1
 Amador,AV108,Governor,,REP,Tim Donnelly,22
@@ -460,16 +457,17 @@ Amador,AV108,Insurance Commissioner,,DEM,Dave Jones,12
 Amador,AV108,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Amador,AV108,Insurance Commissioner,,REP,Ted Gaines,42
 Amador,AV108,Lieutenant Governor,,AME,Alan Reynolds,3
-Amador,AV108,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,AV108,Lieutenant Governor,,REP,David Fennell,17
 Amador,AV108,Lieutenant Governor,,DEM,Eric Korevaar,4
 Amador,AV108,Lieutenant Governor,,DEM,Gavin Newsom,7
 Amador,AV108,Lieutenant Governor,,REP,George Yang,3
-Amador,AV108,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,AV108,Lieutenant Governor,,REP,Ron Nehring,24
+Amador,AV108,Proposition 41,,,No,38
+Amador,AV108,Proposition 41,,,Yes,25
+Amador,AV108,Proposition 42,,,No,34
+Amador,AV108,Proposition 42,,,Yes,27
 Amador,AV108,Secretary of State,,DEM,Alex Padilla,6
 Amador,AV108,Secretary of State,,IND,Dan Schnur,5
-Amador,AV108,Secretary of State,,GRN,David Curtis,0
 Amador,AV108,Secretary of State,,DEM,Derek Cressman,2
 Amador,AV108,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Amador,AV108,Secretary of State,,DEM,Leland Yee,1
@@ -491,7 +489,6 @@ Amador,AV109,Attorney General,,REP,David King,8
 Amador,AV109,Attorney General,,REP,John Haggerty,14
 Amador,AV109,Attorney General,,LIB,Jonathan Jaech,3
 Amador,AV109,Attorney General,,DEM,Kamala D. Harris,22
-Amador,AV109,Attorney General,,IND,Orly Taitz,0
 Amador,AV109,Attorney General,,REP,Phil Wyman,15
 Amador,AV109,Attorney General,,REP,Ronald Gold,14
 Amador,AV109,Board of Equalization,1,DEM,Chris Parker,25
@@ -502,32 +499,25 @@ Amador,AV109,Controller,,REP,David Evans,28
 Amador,AV109,Controller,,DEM,John A. Pérez,12
 Amador,AV109,Controller,,GRN,Laura Wells,5
 Amador,AV109,Controller,,DEM,Tammy D. Blair,3
-Amador,AV109,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV109,Governor,,DEM,Akinyemi Agbede,1
 Amador,AV109,Governor,,REP,Alma Marie Winston,1
 Amador,AV109,Governor,,REP,Andrew Blount,3
-Amador,AV109,Governor,,PAF,Cindy L. Sheehan,0
 Amador,AV109,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
-Amador,AV109,Governor,,REP,Glenn Champ,0
-Amador,AV109,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV109,Governor,,IND,Joe Leicht,0
-Amador,AV109,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV109,Governor,,REP,Neel Kashkari,24
-Amador,AV109,Governor,,IND,Rakesh Kumar Christian,0
-Amador,AV109,Governor,,REP,Richard William Aguirre,0
-Amador,AV109,Governor,,IND,Robert Newman,0
 Amador,AV109,Governor,,REP,Tim Donnelly,22
 Amador,AV109,Insurance Commissioner,,DEM,Dave Jones,25
 Amador,AV109,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Amador,AV109,Insurance Commissioner,,REP,Ted Gaines,55
-Amador,AV109,Lieutenant Governor,,AME,Alan Reynolds,0
-Amador,AV109,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,AV109,Lieutenant Governor,,REP,David Fennell,12
 Amador,AV109,Lieutenant Governor,,DEM,Eric Korevaar,4
 Amador,AV109,Lieutenant Governor,,DEM,Gavin Newsom,22
 Amador,AV109,Lieutenant Governor,,REP,George Yang,12
 Amador,AV109,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,AV109,Lieutenant Governor,,REP,Ron Nehring,29
+Amador,AV109,Proposition 41,,,No,42
+Amador,AV109,Proposition 41,,,Yes,40
+Amador,AV109,Proposition 42,,,No,48
+Amador,AV109,Proposition 42,,,Yes,34
 Amador,AV109,Secretary of State,,DEM,Alex Padilla,9
 Amador,AV109,Secretary of State,,IND,Dan Schnur,3
 Amador,AV109,Secretary of State,,GRN,David Curtis,2
@@ -542,7 +532,6 @@ Amador,AV109,State Senate,8,REP,Tom Berryhill,66
 Amador,AV109,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,11
 Amador,AV109,Superintendent of Public Instruction,,NOP,Marshall Tuck,22
 Amador,AV109,Superintendent of Public Instruction,,NOP,Tom Torlakson,35
-Amador,AV109,Treasurer,,GRN,Ellen H. Brown,0
 Amador,AV109,Treasurer,,REP,Greg Conlon,49
 Amador,AV109,Treasurer,,DEM,John Chiang,33
 Amador,AV109,U.S. House,4,REP,"Arthur ""Art"" Moore",14
@@ -564,14 +553,11 @@ Amador,AV110,Controller,,DEM,John A. Pérez,18
 Amador,AV110,Controller,,GRN,Laura Wells,11
 Amador,AV110,Controller,,DEM,Tammy D. Blair,6
 Amador,AV110,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,AV110,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV110,Governor,,REP,Alma Marie Winston,3
 Amador,AV110,Governor,,REP,Andrew Blount,7
 Amador,AV110,Governor,,PAF,Cindy L. Sheehan,1
 Amador,AV110,Governor,,DEM,"Edmund G. ""Jerry"" Brown",64
 Amador,AV110,Governor,,REP,Glenn Champ,5
-Amador,AV110,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV110,Governor,,IND,Joe Leicht,0
 Amador,AV110,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV110,Governor,,REP,Neel Kashkari,39
 Amador,AV110,Governor,,IND,Rakesh Kumar Christian,1
@@ -587,8 +573,11 @@ Amador,AV110,Lieutenant Governor,,REP,David Fennell,18
 Amador,AV110,Lieutenant Governor,,DEM,Eric Korevaar,8
 Amador,AV110,Lieutenant Governor,,DEM,Gavin Newsom,52
 Amador,AV110,Lieutenant Governor,,REP,George Yang,19
-Amador,AV110,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,AV110,Lieutenant Governor,,REP,Ron Nehring,55
+Amador,AV110,Proposition 41,,,No,61
+Amador,AV110,Proposition 41,,,Yes,95
+Amador,AV110,Proposition 42,,,No,79
+Amador,AV110,Proposition 42,,,Yes,78
 Amador,AV110,Secretary of State,,DEM,Alex Padilla,25
 Amador,AV110,Secretary of State,,IND,Dan Schnur,13
 Amador,AV110,Secretary of State,,GRN,David Curtis,7
@@ -609,7 +598,6 @@ Amador,AV110,Treasurer,,DEM,John Chiang,65
 Amador,AV110,U.S. House,4,REP,"Arthur ""Art"" Moore",23
 Amador,AV110,U.S. House,4,IND,Jeffrey D. Gerlach,37
 Amador,AV110,U.S. House,4,REP,Tom McClintock,99
-Amador,AV111,Attorney General,,REP,David King,0
 Amador,AV111,Attorney General,,REP,John Haggerty,1
 Amador,AV111,Attorney General,,LIB,Jonathan Jaech,2
 Amador,AV111,Attorney General,,DEM,Kamala D. Harris,17
@@ -624,32 +612,26 @@ Amador,AV111,Controller,,REP,David Evans,7
 Amador,AV111,Controller,,DEM,John A. Pérez,7
 Amador,AV111,Controller,,GRN,Laura Wells,2
 Amador,AV111,Controller,,DEM,Tammy D. Blair,1
-Amador,AV111,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,AV111,Governor,,DEM,Akinyemi Agbede,0
-Amador,AV111,Governor,,REP,Alma Marie Winston,0
 Amador,AV111,Governor,,REP,Andrew Blount,1
 Amador,AV111,Governor,,PAF,Cindy L. Sheehan,1
 Amador,AV111,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
-Amador,AV111,Governor,,REP,Glenn Champ,0
-Amador,AV111,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV111,Governor,,IND,Joe Leicht,0
 Amador,AV111,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV111,Governor,,REP,Neel Kashkari,5
-Amador,AV111,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV111,Governor,,REP,Richard William Aguirre,2
-Amador,AV111,Governor,,IND,Robert Newman,0
 Amador,AV111,Governor,,REP,Tim Donnelly,4
 Amador,AV111,Insurance Commissioner,,DEM,Dave Jones,18
 Amador,AV111,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Amador,AV111,Insurance Commissioner,,REP,Ted Gaines,11
-Amador,AV111,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,AV111,Lieutenant Governor,,PAF,Amos Johnson,2
 Amador,AV111,Lieutenant Governor,,REP,David Fennell,4
 Amador,AV111,Lieutenant Governor,,DEM,Eric Korevaar,1
 Amador,AV111,Lieutenant Governor,,DEM,Gavin Newsom,16
 Amador,AV111,Lieutenant Governor,,REP,George Yang,1
-Amador,AV111,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,AV111,Lieutenant Governor,,REP,Ron Nehring,8
+Amador,AV111,Proposition 41,,,No,17
+Amador,AV111,Proposition 41,,,Yes,16
+Amador,AV111,Proposition 42,,,No,18
+Amador,AV111,Proposition 42,,,Yes,14
 Amador,AV111,Secretary of State,,DEM,Alex Padilla,7
 Amador,AV111,Secretary of State,,IND,Dan Schnur,2
 Amador,AV111,Secretary of State,,GRN,David Curtis,1
@@ -685,18 +667,14 @@ Amador,AV112,Controller,,REP,David Evans,40
 Amador,AV112,Controller,,DEM,John A. Pérez,19
 Amador,AV112,Controller,,GRN,Laura Wells,13
 Amador,AV112,Controller,,DEM,Tammy D. Blair,2
-Amador,AV112,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV112,Governor,,DEM,Akinyemi Agbede,1
-Amador,AV112,Governor,,REP,Alma Marie Winston,0
 Amador,AV112,Governor,,REP,Andrew Blount,9
 Amador,AV112,Governor,,PAF,Cindy L. Sheehan,3
 Amador,AV112,Governor,,DEM,"Edmund G. ""Jerry"" Brown",60
 Amador,AV112,Governor,,REP,Glenn Champ,1
-Amador,AV112,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV112,Governor,,IND,Joe Leicht,1
 Amador,AV112,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV112,Governor,,REP,Neel Kashkari,20
-Amador,AV112,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV112,Governor,,REP,Richard William Aguirre,2
 Amador,AV112,Governor,,IND,Robert Newman,4
 Amador,AV112,Governor,,REP,Tim Donnelly,22
@@ -711,6 +689,10 @@ Amador,AV112,Lieutenant Governor,,DEM,Gavin Newsom,48
 Amador,AV112,Lieutenant Governor,,REP,George Yang,7
 Amador,AV112,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Amador,AV112,Lieutenant Governor,,REP,Ron Nehring,32
+Amador,AV112,Proposition 41,,,No,49
+Amador,AV112,Proposition 41,,,Yes,69
+Amador,AV112,Proposition 42,,,No,62
+Amador,AV112,Proposition 42,,,Yes,54
 Amador,AV112,Secretary of State,,DEM,Alex Padilla,17
 Amador,AV112,Secretary of State,,IND,Dan Schnur,5
 Amador,AV112,Secretary of State,,GRN,David Curtis,6
@@ -747,18 +729,15 @@ Amador,AV113,Controller,,DEM,John A. Pérez,27
 Amador,AV113,Controller,,GRN,Laura Wells,13
 Amador,AV113,Controller,,DEM,Tammy D. Blair,12
 Amador,AV113,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,AV113,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV113,Governor,,REP,Alma Marie Winston,1
 Amador,AV113,Governor,,REP,Andrew Blount,8
 Amador,AV113,Governor,,PAF,Cindy L. Sheehan,8
 Amador,AV113,Governor,,DEM,"Edmund G. ""Jerry"" Brown",102
 Amador,AV113,Governor,,REP,Glenn Champ,4
 Amador,AV113,Governor,,IND,Janel Hyeshia Buycks,1
-Amador,AV113,Governor,,IND,Joe Leicht,0
 Amador,AV113,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV113,Governor,,REP,Neel Kashkari,57
 Amador,AV113,Governor,,IND,Rakesh Kumar Christian,1
-Amador,AV113,Governor,,REP,Richard William Aguirre,0
 Amador,AV113,Governor,,IND,Robert Newman,5
 Amador,AV113,Governor,,REP,Tim Donnelly,51
 Amador,AV113,Insurance Commissioner,,DEM,Dave Jones,79
@@ -772,6 +751,10 @@ Amador,AV113,Lieutenant Governor,,DEM,Gavin Newsom,87
 Amador,AV113,Lieutenant Governor,,REP,George Yang,14
 Amador,AV113,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Amador,AV113,Lieutenant Governor,,REP,Ron Nehring,83
+Amador,AV113,Proposition 41,,,No,91
+Amador,AV113,Proposition 41,,,Yes,145
+Amador,AV113,Proposition 42,,,No,136
+Amador,AV113,Proposition 42,,,Yes,92
 Amador,AV113,Secretary of State,,DEM,Alex Padilla,50
 Amador,AV113,Secretary of State,,IND,Dan Schnur,17
 Amador,AV113,Secretary of State,,GRN,David Curtis,8
@@ -808,15 +791,12 @@ Amador,AV114,Controller,,DEM,John A. Pérez,28
 Amador,AV114,Controller,,GRN,Laura Wells,17
 Amador,AV114,Controller,,DEM,Tammy D. Blair,11
 Amador,AV114,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,AV114,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV114,Governor,,REP,Alma Marie Winston,3
 Amador,AV114,Governor,,REP,Andrew Blount,7
 Amador,AV114,Governor,,PAF,Cindy L. Sheehan,1
 Amador,AV114,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Amador,AV114,Governor,,REP,Glenn Champ,8
-Amador,AV114,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV114,Governor,,IND,Joe Leicht,5
-Amador,AV114,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV114,Governor,,REP,Neel Kashkari,71
 Amador,AV114,Governor,,IND,Rakesh Kumar Christian,1
 Amador,AV114,Governor,,REP,Richard William Aguirre,1
@@ -833,6 +813,10 @@ Amador,AV114,Lieutenant Governor,,DEM,Gavin Newsom,95
 Amador,AV114,Lieutenant Governor,,REP,George Yang,15
 Amador,AV114,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,AV114,Lieutenant Governor,,REP,Ron Nehring,86
+Amador,AV114,Proposition 41,,,No,94
+Amador,AV114,Proposition 41,,,Yes,152
+Amador,AV114,Proposition 42,,,No,118
+Amador,AV114,Proposition 42,,,Yes,114
 Amador,AV114,Secretary of State,,DEM,Alex Padilla,42
 Amador,AV114,Secretary of State,,IND,Dan Schnur,19
 Amador,AV114,Secretary of State,,GRN,David Curtis,6
@@ -875,11 +859,9 @@ Amador,AV115,Governor,,REP,Andrew Blount,16
 Amador,AV115,Governor,,PAF,Cindy L. Sheehan,3
 Amador,AV115,Governor,,DEM,"Edmund G. ""Jerry"" Brown",199
 Amador,AV115,Governor,,REP,Glenn Champ,14
-Amador,AV115,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV115,Governor,,IND,Joe Leicht,1
 Amador,AV115,Governor,,GRN,Luis J. Rodriguez,3
 Amador,AV115,Governor,,REP,Neel Kashkari,83
-Amador,AV115,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV115,Governor,,REP,Richard William Aguirre,5
 Amador,AV115,Governor,,IND,Robert Newman,6
 Amador,AV115,Governor,,REP,Tim Donnelly,81
@@ -894,6 +876,10 @@ Amador,AV115,Lieutenant Governor,,DEM,Gavin Newsom,159
 Amador,AV115,Lieutenant Governor,,REP,George Yang,26
 Amador,AV115,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Amador,AV115,Lieutenant Governor,,REP,Ron Nehring,115
+Amador,AV115,Proposition 41,,,No,144
+Amador,AV115,Proposition 41,,,Yes,267
+Amador,AV115,Proposition 42,,,No,236
+Amador,AV115,Proposition 42,,,Yes,162
 Amador,AV115,Secretary of State,,DEM,Alex Padilla,71
 Amador,AV115,Secretary of State,,IND,Dan Schnur,29
 Amador,AV115,Secretary of State,,GRN,David Curtis,15
@@ -930,17 +916,14 @@ Amador,AV116,Controller,,DEM,John A. Pérez,32
 Amador,AV116,Controller,,GRN,Laura Wells,15
 Amador,AV116,Controller,,DEM,Tammy D. Blair,20
 Amador,AV116,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,AV116,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV116,Governor,,REP,Alma Marie Winston,4
 Amador,AV116,Governor,,REP,Andrew Blount,7
 Amador,AV116,Governor,,PAF,Cindy L. Sheehan,1
 Amador,AV116,Governor,,DEM,"Edmund G. ""Jerry"" Brown",116
 Amador,AV116,Governor,,REP,Glenn Champ,2
 Amador,AV116,Governor,,IND,Janel Hyeshia Buycks,1
-Amador,AV116,Governor,,IND,Joe Leicht,0
 Amador,AV116,Governor,,GRN,Luis J. Rodriguez,3
 Amador,AV116,Governor,,REP,Neel Kashkari,63
-Amador,AV116,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV116,Governor,,REP,Richard William Aguirre,1
 Amador,AV116,Governor,,IND,Robert Newman,3
 Amador,AV116,Governor,,REP,Tim Donnelly,38
@@ -948,13 +931,16 @@ Amador,AV116,Insurance Commissioner,,DEM,Dave Jones,98
 Amador,AV116,Insurance Commissioner,,PAF,Nathalie Hrizi,14
 Amador,AV116,Insurance Commissioner,,REP,Ted Gaines,114
 Amador,AV116,Lieutenant Governor,,AME,Alan Reynolds,3
-Amador,AV116,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,AV116,Lieutenant Governor,,REP,David Fennell,20
 Amador,AV116,Lieutenant Governor,,DEM,Eric Korevaar,15
 Amador,AV116,Lieutenant Governor,,DEM,Gavin Newsom,96
 Amador,AV116,Lieutenant Governor,,REP,George Yang,20
 Amador,AV116,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,AV116,Lieutenant Governor,,REP,Ron Nehring,78
+Amador,AV116,Proposition 41,,,No,89
+Amador,AV116,Proposition 41,,,Yes,148
+Amador,AV116,Proposition 42,,,No,113
+Amador,AV116,Proposition 42,,,Yes,119
 Amador,AV116,Secretary of State,,DEM,Alex Padilla,45
 Amador,AV116,Secretary of State,,IND,Dan Schnur,17
 Amador,AV116,Secretary of State,,GRN,David Curtis,6
@@ -991,13 +977,11 @@ Amador,AV117,Controller,,DEM,John A. Pérez,24
 Amador,AV117,Controller,,GRN,Laura Wells,15
 Amador,AV117,Controller,,DEM,Tammy D. Blair,15
 Amador,AV117,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,AV117,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV117,Governor,,REP,Alma Marie Winston,1
 Amador,AV117,Governor,,REP,Andrew Blount,7
 Amador,AV117,Governor,,PAF,Cindy L. Sheehan,5
 Amador,AV117,Governor,,DEM,"Edmund G. ""Jerry"" Brown",88
 Amador,AV117,Governor,,REP,Glenn Champ,2
-Amador,AV117,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV117,Governor,,IND,Joe Leicht,2
 Amador,AV117,Governor,,GRN,Luis J. Rodriguez,2
 Amador,AV117,Governor,,REP,Neel Kashkari,35
@@ -1016,6 +1000,10 @@ Amador,AV117,Lieutenant Governor,,DEM,Gavin Newsom,80
 Amador,AV117,Lieutenant Governor,,REP,George Yang,14
 Amador,AV117,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,AV117,Lieutenant Governor,,REP,Ron Nehring,59
+Amador,AV117,Proposition 41,,,No,73
+Amador,AV117,Proposition 41,,,Yes,119
+Amador,AV117,Proposition 42,,,No,106
+Amador,AV117,Proposition 42,,,Yes,79
 Amador,AV117,Secretary of State,,DEM,Alex Padilla,41
 Amador,AV117,Secretary of State,,IND,Dan Schnur,16
 Amador,AV117,Secretary of State,,GRN,David Curtis,6
@@ -1052,14 +1040,12 @@ Amador,AV118,Controller,,DEM,John A. Pérez,28
 Amador,AV118,Controller,,GRN,Laura Wells,13
 Amador,AV118,Controller,,DEM,Tammy D. Blair,10
 Amador,AV118,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,AV118,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV118,Governor,,REP,Alma Marie Winston,4
 Amador,AV118,Governor,,REP,Andrew Blount,8
 Amador,AV118,Governor,,PAF,Cindy L. Sheehan,6
 Amador,AV118,Governor,,DEM,"Edmund G. ""Jerry"" Brown",148
 Amador,AV118,Governor,,REP,Glenn Champ,6
 Amador,AV118,Governor,,IND,Janel Hyeshia Buycks,1
-Amador,AV118,Governor,,IND,Joe Leicht,0
 Amador,AV118,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV118,Governor,,REP,Neel Kashkari,52
 Amador,AV118,Governor,,IND,Rakesh Kumar Christian,1
@@ -1077,6 +1063,10 @@ Amador,AV118,Lieutenant Governor,,DEM,Gavin Newsom,121
 Amador,AV118,Lieutenant Governor,,REP,George Yang,22
 Amador,AV118,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,AV118,Lieutenant Governor,,REP,Ron Nehring,80
+Amador,AV118,Proposition 41,,,No,103
+Amador,AV118,Proposition 41,,,Yes,175
+Amador,AV118,Proposition 42,,,No,162
+Amador,AV118,Proposition 42,,,Yes,113
 Amador,AV118,Secretary of State,,DEM,Alex Padilla,58
 Amador,AV118,Secretary of State,,IND,Dan Schnur,17
 Amador,AV118,Secretary of State,,GRN,David Curtis,8
@@ -1113,15 +1103,11 @@ Amador,AV119,Controller,,DEM,John A. Pérez,33
 Amador,AV119,Controller,,GRN,Laura Wells,14
 Amador,AV119,Controller,,DEM,Tammy D. Blair,8
 Amador,AV119,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,AV119,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV119,Governor,,REP,Alma Marie Winston,1
 Amador,AV119,Governor,,REP,Andrew Blount,5
 Amador,AV119,Governor,,PAF,Cindy L. Sheehan,2
 Amador,AV119,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Amador,AV119,Governor,,REP,Glenn Champ,4
-Amador,AV119,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV119,Governor,,IND,Joe Leicht,0
-Amador,AV119,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV119,Governor,,REP,Neel Kashkari,91
 Amador,AV119,Governor,,IND,Rakesh Kumar Christian,1
 Amador,AV119,Governor,,REP,Richard William Aguirre,1
@@ -1138,6 +1124,10 @@ Amador,AV119,Lieutenant Governor,,DEM,Gavin Newsom,91
 Amador,AV119,Lieutenant Governor,,REP,George Yang,16
 Amador,AV119,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Amador,AV119,Lieutenant Governor,,REP,Ron Nehring,104
+Amador,AV119,Proposition 41,,,No,124
+Amador,AV119,Proposition 41,,,Yes,151
+Amador,AV119,Proposition 42,,,No,156
+Amador,AV119,Proposition 42,,,Yes,116
 Amador,AV119,Secretary of State,,DEM,Alex Padilla,45
 Amador,AV119,Secretary of State,,IND,Dan Schnur,16
 Amador,AV119,Secretary of State,,GRN,David Curtis,9
@@ -1173,25 +1163,19 @@ Amador,AV120,Controller,,REP,David Evans,73
 Amador,AV120,Controller,,DEM,John A. Pérez,40
 Amador,AV120,Controller,,GRN,Laura Wells,7
 Amador,AV120,Controller,,DEM,Tammy D. Blair,14
-Amador,AV120,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV120,Governor,,DEM,Akinyemi Agbede,1
 Amador,AV120,Governor,,REP,Alma Marie Winston,3
 Amador,AV120,Governor,,REP,Andrew Blount,4
 Amador,AV120,Governor,,PAF,Cindy L. Sheehan,3
 Amador,AV120,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Amador,AV120,Governor,,REP,Glenn Champ,2
-Amador,AV120,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV120,Governor,,IND,Joe Leicht,0
-Amador,AV120,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV120,Governor,,REP,Neel Kashkari,36
 Amador,AV120,Governor,,IND,Rakesh Kumar Christian,3
-Amador,AV120,Governor,,REP,Richard William Aguirre,0
 Amador,AV120,Governor,,IND,Robert Newman,2
 Amador,AV120,Governor,,REP,Tim Donnelly,43
 Amador,AV120,Insurance Commissioner,,DEM,Dave Jones,97
 Amador,AV120,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Amador,AV120,Insurance Commissioner,,REP,Ted Gaines,97
-Amador,AV120,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,AV120,Lieutenant Governor,,PAF,Amos Johnson,4
 Amador,AV120,Lieutenant Governor,,REP,David Fennell,13
 Amador,AV120,Lieutenant Governor,,DEM,Eric Korevaar,8
@@ -1199,6 +1183,10 @@ Amador,AV120,Lieutenant Governor,,DEM,Gavin Newsom,89
 Amador,AV120,Lieutenant Governor,,REP,George Yang,24
 Amador,AV120,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Amador,AV120,Lieutenant Governor,,REP,Ron Nehring,60
+Amador,AV120,Proposition 41,,,No,83
+Amador,AV120,Proposition 41,,,Yes,114
+Amador,AV120,Proposition 42,,,No,109
+Amador,AV120,Proposition 42,,,Yes,80
 Amador,AV120,Secretary of State,,DEM,Alex Padilla,47
 Amador,AV120,Secretary of State,,IND,Dan Schnur,11
 Amador,AV120,Secretary of State,,GRN,David Curtis,3
@@ -1235,17 +1223,13 @@ Amador,AV121,Controller,,DEM,John A. Pérez,27
 Amador,AV121,Controller,,GRN,Laura Wells,22
 Amador,AV121,Controller,,DEM,Tammy D. Blair,19
 Amador,AV121,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Amador,AV121,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV121,Governor,,REP,Alma Marie Winston,2
 Amador,AV121,Governor,,REP,Andrew Blount,13
 Amador,AV121,Governor,,PAF,Cindy L. Sheehan,6
 Amador,AV121,Governor,,DEM,"Edmund G. ""Jerry"" Brown",131
 Amador,AV121,Governor,,REP,Glenn Champ,6
-Amador,AV121,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV121,Governor,,IND,Joe Leicht,0
 Amador,AV121,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV121,Governor,,REP,Neel Kashkari,68
-Amador,AV121,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV121,Governor,,REP,Richard William Aguirre,1
 Amador,AV121,Governor,,IND,Robert Newman,3
 Amador,AV121,Governor,,REP,Tim Donnelly,58
@@ -1260,6 +1244,10 @@ Amador,AV121,Lieutenant Governor,,DEM,Gavin Newsom,113
 Amador,AV121,Lieutenant Governor,,REP,George Yang,21
 Amador,AV121,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Amador,AV121,Lieutenant Governor,,REP,Ron Nehring,84
+Amador,AV121,Proposition 41,,,No,99
+Amador,AV121,Proposition 41,,,Yes,178
+Amador,AV121,Proposition 42,,,No,156
+Amador,AV121,Proposition 42,,,Yes,111
 Amador,AV121,Secretary of State,,DEM,Alex Padilla,43
 Amador,AV121,Secretary of State,,IND,Dan Schnur,20
 Amador,AV121,Secretary of State,,GRN,David Curtis,10
@@ -1294,20 +1282,13 @@ Amador,AV122,Controller,,DEM,Betty T. Yee,8
 Amador,AV122,Controller,,REP,David Evans,32
 Amador,AV122,Controller,,DEM,John A. Pérez,16
 Amador,AV122,Controller,,GRN,Laura Wells,8
-Amador,AV122,Controller,,DEM,Tammy D. Blair,0
-Amador,AV122,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV122,Governor,,DEM,Akinyemi Agbede,3
-Amador,AV122,Governor,,REP,Alma Marie Winston,0
-Amador,AV122,Governor,,REP,Andrew Blount,0
 Amador,AV122,Governor,,PAF,Cindy L. Sheehan,2
 Amador,AV122,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
-Amador,AV122,Governor,,REP,Glenn Champ,0
-Amador,AV122,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV122,Governor,,IND,Joe Leicht,1
 Amador,AV122,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV122,Governor,,REP,Neel Kashkari,28
 Amador,AV122,Governor,,IND,Rakesh Kumar Christian,1
-Amador,AV122,Governor,,REP,Richard William Aguirre,0
 Amador,AV122,Governor,,IND,Robert Newman,2
 Amador,AV122,Governor,,REP,Tim Donnelly,17
 Amador,AV122,Insurance Commissioner,,DEM,Dave Jones,33
@@ -1321,6 +1302,10 @@ Amador,AV122,Lieutenant Governor,,DEM,Gavin Newsom,35
 Amador,AV122,Lieutenant Governor,,REP,George Yang,8
 Amador,AV122,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,AV122,Lieutenant Governor,,REP,Ron Nehring,25
+Amador,AV122,Proposition 41,,,No,34
+Amador,AV122,Proposition 41,,,Yes,59
+Amador,AV122,Proposition 42,,,No,44
+Amador,AV122,Proposition 42,,,Yes,43
 Amador,AV122,Secretary of State,,DEM,Alex Padilla,21
 Amador,AV122,Secretary of State,,IND,Dan Schnur,11
 Amador,AV122,Secretary of State,,GRN,David Curtis,3
@@ -1364,7 +1349,6 @@ Amador,AV123,Governor,,PAF,Cindy L. Sheehan,9
 Amador,AV123,Governor,,DEM,"Edmund G. ""Jerry"" Brown",191
 Amador,AV123,Governor,,REP,Glenn Champ,4
 Amador,AV123,Governor,,IND,Janel Hyeshia Buycks,2
-Amador,AV123,Governor,,IND,Joe Leicht,0
 Amador,AV123,Governor,,GRN,Luis J. Rodriguez,10
 Amador,AV123,Governor,,REP,Neel Kashkari,119
 Amador,AV123,Governor,,IND,Rakesh Kumar Christian,1
@@ -1382,6 +1366,10 @@ Amador,AV123,Lieutenant Governor,,DEM,Gavin Newsom,176
 Amador,AV123,Lieutenant Governor,,REP,George Yang,32
 Amador,AV123,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Amador,AV123,Lieutenant Governor,,REP,Ron Nehring,123
+Amador,AV123,Proposition 41,,,No,152
+Amador,AV123,Proposition 41,,,Yes,263
+Amador,AV123,Proposition 42,,,No,197
+Amador,AV123,Proposition 42,,,Yes,202
 Amador,AV123,Secretary of State,,DEM,Alex Padilla,73
 Amador,AV123,Secretary of State,,IND,Dan Schnur,53
 Amador,AV123,Secretary of State,,GRN,David Curtis,14
@@ -1424,8 +1412,6 @@ Amador,AV125,Governor,,REP,Andrew Blount,4
 Amador,AV125,Governor,,PAF,Cindy L. Sheehan,5
 Amador,AV125,Governor,,DEM,"Edmund G. ""Jerry"" Brown",87
 Amador,AV125,Governor,,REP,Glenn Champ,6
-Amador,AV125,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,AV125,Governor,,IND,Joe Leicht,0
 Amador,AV125,Governor,,GRN,Luis J. Rodriguez,6
 Amador,AV125,Governor,,REP,Neel Kashkari,47
 Amador,AV125,Governor,,IND,Rakesh Kumar Christian,1
@@ -1443,6 +1429,10 @@ Amador,AV125,Lieutenant Governor,,DEM,Gavin Newsom,79
 Amador,AV125,Lieutenant Governor,,REP,George Yang,19
 Amador,AV125,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Amador,AV125,Lieutenant Governor,,REP,Ron Nehring,60
+Amador,AV125,Proposition 41,,,No,88
+Amador,AV125,Proposition 41,,,Yes,112
+Amador,AV125,Proposition 42,,,No,125
+Amador,AV125,Proposition 42,,,Yes,72
 Amador,AV125,Secretary of State,,DEM,Alex Padilla,30
 Amador,AV125,Secretary of State,,IND,Dan Schnur,22
 Amador,AV125,Secretary of State,,GRN,David Curtis,12
@@ -1478,32 +1468,30 @@ Amador,AV126,Controller,,REP,David Evans,57
 Amador,AV126,Controller,,DEM,John A. Pérez,24
 Amador,AV126,Controller,,GRN,Laura Wells,12
 Amador,AV126,Controller,,DEM,Tammy D. Blair,9
-Amador,AV126,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,AV126,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV126,Governor,,REP,Alma Marie Winston,1
 Amador,AV126,Governor,,REP,Andrew Blount,6
 Amador,AV126,Governor,,PAF,Cindy L. Sheehan,4
 Amador,AV126,Governor,,DEM,"Edmund G. ""Jerry"" Brown",99
 Amador,AV126,Governor,,REP,Glenn Champ,4
-Amador,AV126,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV126,Governor,,IND,Joe Leicht,1
 Amador,AV126,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV126,Governor,,REP,Neel Kashkari,43
-Amador,AV126,Governor,,IND,Rakesh Kumar Christian,0
-Amador,AV126,Governor,,REP,Richard William Aguirre,0
 Amador,AV126,Governor,,IND,Robert Newman,5
 Amador,AV126,Governor,,REP,Tim Donnelly,24
 Amador,AV126,Insurance Commissioner,,DEM,Dave Jones,77
 Amador,AV126,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Amador,AV126,Insurance Commissioner,,REP,Ted Gaines,90
 Amador,AV126,Lieutenant Governor,,AME,Alan Reynolds,2
-Amador,AV126,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,AV126,Lieutenant Governor,,REP,David Fennell,24
 Amador,AV126,Lieutenant Governor,,DEM,Eric Korevaar,5
 Amador,AV126,Lieutenant Governor,,DEM,Gavin Newsom,81
 Amador,AV126,Lieutenant Governor,,REP,George Yang,18
 Amador,AV126,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Amador,AV126,Lieutenant Governor,,REP,Ron Nehring,50
+Amador,AV126,Proposition 41,,,No,66
+Amador,AV126,Proposition 41,,,Yes,114
+Amador,AV126,Proposition 42,,,No,97
+Amador,AV126,Proposition 42,,,Yes,76
 Amador,AV126,Secretary of State,,DEM,Alex Padilla,32
 Amador,AV126,Secretary of State,,IND,Dan Schnur,15
 Amador,AV126,Secretary of State,,GRN,David Curtis,6
@@ -1539,32 +1527,31 @@ Amador,AV127,Controller,,REP,David Evans,41
 Amador,AV127,Controller,,DEM,John A. Pérez,32
 Amador,AV127,Controller,,GRN,Laura Wells,8
 Amador,AV127,Controller,,DEM,Tammy D. Blair,12
-Amador,AV127,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV127,Governor,,DEM,Akinyemi Agbede,2
 Amador,AV127,Governor,,REP,Alma Marie Winston,6
 Amador,AV127,Governor,,REP,Andrew Blount,5
 Amador,AV127,Governor,,PAF,Cindy L. Sheehan,3
 Amador,AV127,Governor,,DEM,"Edmund G. ""Jerry"" Brown",88
 Amador,AV127,Governor,,REP,Glenn Champ,4
-Amador,AV127,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV127,Governor,,IND,Joe Leicht,1
 Amador,AV127,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV127,Governor,,REP,Neel Kashkari,62
-Amador,AV127,Governor,,IND,Rakesh Kumar Christian,0
-Amador,AV127,Governor,,REP,Richard William Aguirre,0
 Amador,AV127,Governor,,IND,Robert Newman,2
 Amador,AV127,Governor,,REP,Tim Donnelly,45
 Amador,AV127,Insurance Commissioner,,DEM,Dave Jones,82
 Amador,AV127,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Amador,AV127,Insurance Commissioner,,REP,Ted Gaines,110
 Amador,AV127,Lieutenant Governor,,AME,Alan Reynolds,2
-Amador,AV127,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,AV127,Lieutenant Governor,,REP,David Fennell,20
 Amador,AV127,Lieutenant Governor,,DEM,Eric Korevaar,7
 Amador,AV127,Lieutenant Governor,,DEM,Gavin Newsom,88
 Amador,AV127,Lieutenant Governor,,REP,George Yang,19
 Amador,AV127,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,AV127,Lieutenant Governor,,REP,Ron Nehring,72
+Amador,AV127,Proposition 41,,,No,91
+Amador,AV127,Proposition 41,,,Yes,124
+Amador,AV127,Proposition 42,,,No,108
+Amador,AV127,Proposition 42,,,Yes,98
 Amador,AV127,Secretary of State,,DEM,Alex Padilla,45
 Amador,AV127,Secretary of State,,IND,Dan Schnur,30
 Amador,AV127,Secretary of State,,GRN,David Curtis,5
@@ -1601,17 +1588,12 @@ Amador,AV128,Controller,,DEM,John A. Pérez,21
 Amador,AV128,Controller,,GRN,Laura Wells,9
 Amador,AV128,Controller,,DEM,Tammy D. Blair,9
 Amador,AV128,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,AV128,Governor,,DEM,Akinyemi Agbede,0
 Amador,AV128,Governor,,REP,Alma Marie Winston,3
 Amador,AV128,Governor,,REP,Andrew Blount,3
-Amador,AV128,Governor,,PAF,Cindy L. Sheehan,0
 Amador,AV128,Governor,,DEM,"Edmund G. ""Jerry"" Brown",74
 Amador,AV128,Governor,,REP,Glenn Champ,3
-Amador,AV128,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV128,Governor,,IND,Joe Leicht,1
-Amador,AV128,Governor,,GRN,Luis J. Rodriguez,0
 Amador,AV128,Governor,,REP,Neel Kashkari,45
-Amador,AV128,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV128,Governor,,REP,Richard William Aguirre,1
 Amador,AV128,Governor,,IND,Robert Newman,4
 Amador,AV128,Governor,,REP,Tim Donnelly,34
@@ -1626,6 +1608,10 @@ Amador,AV128,Lieutenant Governor,,DEM,Gavin Newsom,54
 Amador,AV128,Lieutenant Governor,,REP,George Yang,10
 Amador,AV128,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Amador,AV128,Lieutenant Governor,,REP,Ron Nehring,56
+Amador,AV128,Proposition 41,,,No,78
+Amador,AV128,Proposition 41,,,Yes,83
+Amador,AV128,Proposition 42,,,No,78
+Amador,AV128,Proposition 42,,,Yes,83
 Amador,AV128,Secretary of State,,DEM,Alex Padilla,20
 Amador,AV128,Secretary of State,,IND,Dan Schnur,25
 Amador,AV128,Secretary of State,,GRN,David Curtis,3
@@ -1661,18 +1647,14 @@ Amador,AV129,Controller,,REP,David Evans,50
 Amador,AV129,Controller,,DEM,John A. Pérez,29
 Amador,AV129,Controller,,GRN,Laura Wells,12
 Amador,AV129,Controller,,DEM,Tammy D. Blair,3
-Amador,AV129,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,AV129,Governor,,DEM,Akinyemi Agbede,3
 Amador,AV129,Governor,,REP,Alma Marie Winston,3
 Amador,AV129,Governor,,REP,Andrew Blount,9
 Amador,AV129,Governor,,PAF,Cindy L. Sheehan,5
 Amador,AV129,Governor,,DEM,"Edmund G. ""Jerry"" Brown",80
-Amador,AV129,Governor,,REP,Glenn Champ,0
-Amador,AV129,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,AV129,Governor,,IND,Joe Leicht,1
 Amador,AV129,Governor,,GRN,Luis J. Rodriguez,1
 Amador,AV129,Governor,,REP,Neel Kashkari,34
-Amador,AV129,Governor,,IND,Rakesh Kumar Christian,0
 Amador,AV129,Governor,,REP,Richard William Aguirre,1
 Amador,AV129,Governor,,IND,Robert Newman,1
 Amador,AV129,Governor,,REP,Tim Donnelly,29
@@ -1680,13 +1662,16 @@ Amador,AV129,Insurance Commissioner,,DEM,Dave Jones,73
 Amador,AV129,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Amador,AV129,Insurance Commissioner,,REP,Ted Gaines,84
 Amador,AV129,Lieutenant Governor,,AME,Alan Reynolds,3
-Amador,AV129,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,AV129,Lieutenant Governor,,REP,David Fennell,11
 Amador,AV129,Lieutenant Governor,,DEM,Eric Korevaar,9
 Amador,AV129,Lieutenant Governor,,DEM,Gavin Newsom,68
 Amador,AV129,Lieutenant Governor,,REP,George Yang,20
 Amador,AV129,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,AV129,Lieutenant Governor,,REP,Ron Nehring,46
+Amador,AV129,Proposition 41,,,No,63
+Amador,AV129,Proposition 41,,,Yes,104
+Amador,AV129,Proposition 42,,,No,91
+Amador,AV129,Proposition 42,,,Yes,70
 Amador,AV129,Secretary of State,,DEM,Alex Padilla,34
 Amador,AV129,Secretary of State,,IND,Dan Schnur,19
 Amador,AV129,Secretary of State,,GRN,David Curtis,8
@@ -1734,7 +1719,6 @@ Amador,AV130,Governor,,IND,Joe Leicht,2
 Amador,AV130,Governor,,GRN,Luis J. Rodriguez,4
 Amador,AV130,Governor,,REP,Neel Kashkari,55
 Amador,AV130,Governor,,IND,Rakesh Kumar Christian,2
-Amador,AV130,Governor,,REP,Richard William Aguirre,0
 Amador,AV130,Governor,,IND,Robert Newman,6
 Amador,AV130,Governor,,REP,Tim Donnelly,59
 Amador,AV130,Insurance Commissioner,,DEM,Dave Jones,100
@@ -1748,6 +1732,10 @@ Amador,AV130,Lieutenant Governor,,DEM,Gavin Newsom,99
 Amador,AV130,Lieutenant Governor,,REP,George Yang,27
 Amador,AV130,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Amador,AV130,Lieutenant Governor,,REP,Ron Nehring,83
+Amador,AV130,Proposition 41,,,No,109
+Amador,AV130,Proposition 41,,,Yes,151
+Amador,AV130,Proposition 42,,,No,129
+Amador,AV130,Proposition 42,,,Yes,121
 Amador,AV130,Secretary of State,,DEM,Alex Padilla,42
 Amador,AV130,Secretary of State,,IND,Dan Schnur,12
 Amador,AV130,Secretary of State,,GRN,David Curtis,16
@@ -1784,18 +1772,11 @@ Amador,CP01,Controller,,DEM,John A. Pérez,28
 Amador,CP01,Controller,,GRN,Laura Wells,3
 Amador,CP01,Controller,,DEM,Tammy D. Blair,4
 Amador,CP01,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,CP01,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP01,Governor,,REP,Alma Marie Winston,0
 Amador,CP01,Governor,,REP,Andrew Blount,4
-Amador,CP01,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP01,Governor,,DEM,"Edmund G. ""Jerry"" Brown",53
 Amador,CP01,Governor,,REP,Glenn Champ,2
-Amador,CP01,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP01,Governor,,IND,Joe Leicht,0
 Amador,CP01,Governor,,GRN,Luis J. Rodriguez,3
 Amador,CP01,Governor,,REP,Neel Kashkari,46
-Amador,CP01,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP01,Governor,,REP,Richard William Aguirre,0
 Amador,CP01,Governor,,IND,Robert Newman,3
 Amador,CP01,Governor,,REP,Tim Donnelly,33
 Amador,CP01,Insurance Commissioner,,DEM,Dave Jones,47
@@ -1809,6 +1790,10 @@ Amador,CP01,Lieutenant Governor,,DEM,Gavin Newsom,46
 Amador,CP01,Lieutenant Governor,,REP,George Yang,12
 Amador,CP01,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,CP01,Lieutenant Governor,,REP,Ron Nehring,42
+Amador,CP01,Proposition 41,,,No,50
+Amador,CP01,Proposition 41,,,Yes,84
+Amador,CP01,Proposition 42,,,No,73
+Amador,CP01,Proposition 42,,,Yes,58
 Amador,CP01,Secretary of State,,DEM,Alex Padilla,22
 Amador,CP01,Secretary of State,,IND,Dan Schnur,10
 Amador,CP01,Secretary of State,,GRN,David Curtis,5
@@ -1844,19 +1829,10 @@ Amador,CP02,Controller,,REP,David Evans,55
 Amador,CP02,Controller,,DEM,John A. Pérez,15
 Amador,CP02,Controller,,GRN,Laura Wells,4
 Amador,CP02,Controller,,DEM,Tammy D. Blair,7
-Amador,CP02,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP02,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP02,Governor,,REP,Alma Marie Winston,0
 Amador,CP02,Governor,,REP,Andrew Blount,4
-Amador,CP02,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP02,Governor,,DEM,"Edmund G. ""Jerry"" Brown",57
-Amador,CP02,Governor,,REP,Glenn Champ,0
-Amador,CP02,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP02,Governor,,IND,Joe Leicht,0
-Amador,CP02,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP02,Governor,,REP,Neel Kashkari,38
 Amador,CP02,Governor,,IND,Rakesh Kumar Christian,2
-Amador,CP02,Governor,,REP,Richard William Aguirre,0
 Amador,CP02,Governor,,IND,Robert Newman,1
 Amador,CP02,Governor,,REP,Tim Donnelly,21
 Amador,CP02,Insurance Commissioner,,DEM,Dave Jones,40
@@ -1870,6 +1846,10 @@ Amador,CP02,Lieutenant Governor,,DEM,Gavin Newsom,46
 Amador,CP02,Lieutenant Governor,,REP,George Yang,10
 Amador,CP02,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,CP02,Lieutenant Governor,,REP,Ron Nehring,37
+Amador,CP02,Proposition 41,,,No,48
+Amador,CP02,Proposition 41,,,Yes,66
+Amador,CP02,Proposition 42,,,No,69
+Amador,CP02,Proposition 42,,,Yes,45
 Amador,CP02,Secretary of State,,DEM,Alex Padilla,28
 Amador,CP02,Secretary of State,,IND,Dan Schnur,8
 Amador,CP02,Secretary of State,,GRN,David Curtis,1
@@ -1894,7 +1874,6 @@ Amador,CP03,Attorney General,,REP,David King,2
 Amador,CP03,Attorney General,,REP,John Haggerty,10
 Amador,CP03,Attorney General,,LIB,Jonathan Jaech,3
 Amador,CP03,Attorney General,,DEM,Kamala D. Harris,38
-Amador,CP03,Attorney General,,IND,Orly Taitz,0
 Amador,CP03,Attorney General,,REP,Phil Wyman,6
 Amador,CP03,Attorney General,,REP,Ronald Gold,5
 Amador,CP03,Board of Equalization,1,DEM,Chris Parker,32
@@ -1905,25 +1884,15 @@ Amador,CP03,Controller,,REP,David Evans,15
 Amador,CP03,Controller,,DEM,John A. Pérez,19
 Amador,CP03,Controller,,GRN,Laura Wells,9
 Amador,CP03,Controller,,DEM,Tammy D. Blair,3
-Amador,CP03,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP03,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP03,Governor,,REP,Alma Marie Winston,0
 Amador,CP03,Governor,,REP,Andrew Blount,4
-Amador,CP03,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP03,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
-Amador,CP03,Governor,,REP,Glenn Champ,0
 Amador,CP03,Governor,,IND,Janel Hyeshia Buycks,1
-Amador,CP03,Governor,,IND,Joe Leicht,0
 Amador,CP03,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP03,Governor,,REP,Neel Kashkari,13
-Amador,CP03,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP03,Governor,,REP,Richard William Aguirre,0
-Amador,CP03,Governor,,IND,Robert Newman,0
 Amador,CP03,Governor,,REP,Tim Donnelly,9
 Amador,CP03,Insurance Commissioner,,DEM,Dave Jones,33
 Amador,CP03,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Amador,CP03,Insurance Commissioner,,REP,Ted Gaines,23
-Amador,CP03,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP03,Lieutenant Governor,,PAF,Amos Johnson,2
 Amador,CP03,Lieutenant Governor,,REP,David Fennell,3
 Amador,CP03,Lieutenant Governor,,DEM,Eric Korevaar,3
@@ -1931,6 +1900,10 @@ Amador,CP03,Lieutenant Governor,,DEM,Gavin Newsom,39
 Amador,CP03,Lieutenant Governor,,REP,George Yang,5
 Amador,CP03,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,CP03,Lieutenant Governor,,REP,Ron Nehring,11
+Amador,CP03,Proposition 41,,,No,24
+Amador,CP03,Proposition 41,,,Yes,38
+Amador,CP03,Proposition 42,,,No,24
+Amador,CP03,Proposition 42,,,Yes,38
 Amador,CP03,Secretary of State,,DEM,Alex Padilla,21
 Amador,CP03,Secretary of State,,IND,Dan Schnur,4
 Amador,CP03,Secretary of State,,GRN,David Curtis,2
@@ -1953,7 +1926,6 @@ Amador,CP03,U.S. House,4,IND,Jeffrey D. Gerlach,18
 Amador,CP03,U.S. House,4,REP,Tom McClintock,34
 Amador,CP04,Attorney General,,REP,David King,7
 Amador,CP04,Attorney General,,REP,John Haggerty,22
-Amador,CP04,Attorney General,,LIB,Jonathan Jaech,0
 Amador,CP04,Attorney General,,DEM,Kamala D. Harris,36
 Amador,CP04,Attorney General,,IND,Orly Taitz,3
 Amador,CP04,Attorney General,,REP,Phil Wyman,25
@@ -1966,18 +1938,11 @@ Amador,CP04,Controller,,REP,David Evans,44
 Amador,CP04,Controller,,DEM,John A. Pérez,20
 Amador,CP04,Controller,,GRN,Laura Wells,2
 Amador,CP04,Controller,,DEM,Tammy D. Blair,3
-Amador,CP04,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP04,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP04,Governor,,REP,Alma Marie Winston,0
 Amador,CP04,Governor,,REP,Andrew Blount,1
 Amador,CP04,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP04,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Amador,CP04,Governor,,REP,Glenn Champ,1
-Amador,CP04,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP04,Governor,,IND,Joe Leicht,0
-Amador,CP04,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP04,Governor,,REP,Neel Kashkari,47
-Amador,CP04,Governor,,IND,Rakesh Kumar Christian,0
 Amador,CP04,Governor,,REP,Richard William Aguirre,1
 Amador,CP04,Governor,,IND,Robert Newman,1
 Amador,CP04,Governor,,REP,Tim Donnelly,23
@@ -1985,13 +1950,16 @@ Amador,CP04,Insurance Commissioner,,DEM,Dave Jones,37
 Amador,CP04,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Amador,CP04,Insurance Commissioner,,REP,Ted Gaines,70
 Amador,CP04,Lieutenant Governor,,AME,Alan Reynolds,3
-Amador,CP04,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP04,Lieutenant Governor,,REP,David Fennell,21
 Amador,CP04,Lieutenant Governor,,DEM,Eric Korevaar,4
 Amador,CP04,Lieutenant Governor,,DEM,Gavin Newsom,34
 Amador,CP04,Lieutenant Governor,,REP,George Yang,9
 Amador,CP04,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,CP04,Lieutenant Governor,,REP,Ron Nehring,40
+Amador,CP04,Proposition 41,,,No,50
+Amador,CP04,Proposition 41,,,Yes,60
+Amador,CP04,Proposition 42,,,No,69
+Amador,CP04,Proposition 42,,,Yes,37
 Amador,CP04,Secretary of State,,DEM,Alex Padilla,19
 Amador,CP04,Secretary of State,,IND,Dan Schnur,6
 Amador,CP04,Secretary of State,,GRN,David Curtis,1
@@ -2029,33 +1997,28 @@ Amador,CP05,Controller,,GRN,Laura Wells,4
 Amador,CP05,Controller,,DEM,Tammy D. Blair,3
 Amador,CP05,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Amador,CP05,Governor,,DEM,Akinyemi Agbede,1
-Amador,CP05,Governor,,REP,Alma Marie Winston,0
 Amador,CP05,Governor,,REP,Andrew Blount,3
 Amador,CP05,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP05,Governor,,DEM,"Edmund G. ""Jerry"" Brown",39
 Amador,CP05,Governor,,REP,Glenn Champ,2
-Amador,CP05,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP05,Governor,,IND,Joe Leicht,0
-Amador,CP05,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP05,Governor,,REP,Neel Kashkari,20
 Amador,CP05,Governor,,IND,Rakesh Kumar Christian,1
-Amador,CP05,Governor,,REP,Richard William Aguirre,0
-Amador,CP05,Governor,,IND,Robert Newman,0
 Amador,CP05,Governor,,REP,Tim Donnelly,15
 Amador,CP05,Insurance Commissioner,,DEM,Dave Jones,39
 Amador,CP05,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Amador,CP05,Insurance Commissioner,,REP,Ted Gaines,37
-Amador,CP05,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP05,Lieutenant Governor,,PAF,Amos Johnson,2
 Amador,CP05,Lieutenant Governor,,REP,David Fennell,16
 Amador,CP05,Lieutenant Governor,,DEM,Eric Korevaar,4
 Amador,CP05,Lieutenant Governor,,DEM,Gavin Newsom,36
 Amador,CP05,Lieutenant Governor,,REP,George Yang,2
-Amador,CP05,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,CP05,Lieutenant Governor,,REP,Ron Nehring,19
+Amador,CP05,Proposition 41,,,No,36
+Amador,CP05,Proposition 41,,,Yes,47
+Amador,CP05,Proposition 42,,,No,31
+Amador,CP05,Proposition 42,,,Yes,49
 Amador,CP05,Secretary of State,,DEM,Alex Padilla,11
 Amador,CP05,Secretary of State,,IND,Dan Schnur,8
-Amador,CP05,Secretary of State,,GRN,David Curtis,0
 Amador,CP05,Secretary of State,,DEM,Derek Cressman,8
 Amador,CP05,Secretary of State,,DEM,Jeffrey H. Drobman,6
 Amador,CP05,Secretary of State,,DEM,Leland Yee,11
@@ -2090,14 +2053,10 @@ Amador,CP06,Controller,,GRN,Laura Wells,5
 Amador,CP06,Controller,,DEM,Tammy D. Blair,8
 Amador,CP06,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Amador,CP06,Governor,,DEM,Akinyemi Agbede,1
-Amador,CP06,Governor,,REP,Alma Marie Winston,0
 Amador,CP06,Governor,,REP,Andrew Blount,5
-Amador,CP06,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP06,Governor,,DEM,"Edmund G. ""Jerry"" Brown",50
 Amador,CP06,Governor,,REP,Glenn Champ,4
-Amador,CP06,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,CP06,Governor,,IND,Joe Leicht,1
-Amador,CP06,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP06,Governor,,REP,Neel Kashkari,53
 Amador,CP06,Governor,,IND,Rakesh Kumar Christian,1
 Amador,CP06,Governor,,REP,Richard William Aguirre,1
@@ -2114,6 +2073,10 @@ Amador,CP06,Lieutenant Governor,,DEM,Gavin Newsom,49
 Amador,CP06,Lieutenant Governor,,REP,George Yang,13
 Amador,CP06,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,CP06,Lieutenant Governor,,REP,Ron Nehring,63
+Amador,CP06,Proposition 41,,,No,75
+Amador,CP06,Proposition 41,,,Yes,78
+Amador,CP06,Proposition 42,,,No,84
+Amador,CP06,Proposition 42,,,Yes,66
 Amador,CP06,Secretary of State,,DEM,Alex Padilla,31
 Amador,CP06,Secretary of State,,IND,Dan Schnur,6
 Amador,CP06,Secretary of State,,GRN,David Curtis,8
@@ -2149,32 +2112,31 @@ Amador,CP07,Controller,,REP,David Evans,37
 Amador,CP07,Controller,,DEM,John A. Pérez,17
 Amador,CP07,Controller,,GRN,Laura Wells,7
 Amador,CP07,Controller,,DEM,Tammy D. Blair,4
-Amador,CP07,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,CP07,Governor,,DEM,Akinyemi Agbede,1
 Amador,CP07,Governor,,REP,Alma Marie Winston,1
 Amador,CP07,Governor,,REP,Andrew Blount,5
 Amador,CP07,Governor,,PAF,Cindy L. Sheehan,2
 Amador,CP07,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Amador,CP07,Governor,,REP,Glenn Champ,1
-Amador,CP07,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP07,Governor,,IND,Joe Leicht,0
 Amador,CP07,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP07,Governor,,REP,Neel Kashkari,32
 Amador,CP07,Governor,,IND,Rakesh Kumar Christian,1
-Amador,CP07,Governor,,REP,Richard William Aguirre,0
 Amador,CP07,Governor,,IND,Robert Newman,2
 Amador,CP07,Governor,,REP,Tim Donnelly,19
 Amador,CP07,Insurance Commissioner,,DEM,Dave Jones,28
 Amador,CP07,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Amador,CP07,Insurance Commissioner,,REP,Ted Gaines,62
 Amador,CP07,Lieutenant Governor,,AME,Alan Reynolds,2
-Amador,CP07,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP07,Lieutenant Governor,,REP,David Fennell,20
 Amador,CP07,Lieutenant Governor,,DEM,Eric Korevaar,3
 Amador,CP07,Lieutenant Governor,,DEM,Gavin Newsom,28
 Amador,CP07,Lieutenant Governor,,REP,George Yang,14
 Amador,CP07,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,CP07,Lieutenant Governor,,REP,Ron Nehring,24
+Amador,CP07,Proposition 41,,,No,41
+Amador,CP07,Proposition 41,,,Yes,47
+Amador,CP07,Proposition 42,,,No,55
+Amador,CP07,Proposition 42,,,Yes,32
 Amador,CP07,Secretary of State,,DEM,Alex Padilla,12
 Amador,CP07,Secretary of State,,IND,Dan Schnur,7
 Amador,CP07,Secretary of State,,GRN,David Curtis,1
@@ -2209,52 +2171,33 @@ Amador,CP08,Controller,,DEM,Betty T. Yee,2
 Amador,CP08,Controller,,REP,David Evans,8
 Amador,CP08,Controller,,DEM,John A. Pérez,1
 Amador,CP08,Controller,,GRN,Laura Wells,1
-Amador,CP08,Controller,,DEM,Tammy D. Blair,0
-Amador,CP08,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP08,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP08,Governor,,REP,Alma Marie Winston,0
 Amador,CP08,Governor,,REP,Andrew Blount,1
-Amador,CP08,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP08,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Amador,CP08,Governor,,REP,Glenn Champ,0
-Amador,CP08,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP08,Governor,,IND,Joe Leicht,0
-Amador,CP08,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP08,Governor,,REP,Neel Kashkari,7
-Amador,CP08,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP08,Governor,,REP,Richard William Aguirre,0
-Amador,CP08,Governor,,IND,Robert Newman,0
 Amador,CP08,Governor,,REP,Tim Donnelly,6
 Amador,CP08,Insurance Commissioner,,DEM,Dave Jones,2
 Amador,CP08,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Amador,CP08,Insurance Commissioner,,REP,Ted Gaines,14
-Amador,CP08,Lieutenant Governor,,AME,Alan Reynolds,0
-Amador,CP08,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP08,Lieutenant Governor,,REP,David Fennell,5
 Amador,CP08,Lieutenant Governor,,DEM,Eric Korevaar,1
 Amador,CP08,Lieutenant Governor,,DEM,Gavin Newsom,3
 Amador,CP08,Lieutenant Governor,,REP,George Yang,1
-Amador,CP08,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,CP08,Lieutenant Governor,,REP,Ron Nehring,6
+Amador,CP08,Proposition 41,,,No,8
+Amador,CP08,Proposition 41,,,Yes,9
+Amador,CP08,Proposition 42,,,No,9
+Amador,CP08,Proposition 42,,,Yes,7
 Amador,CP08,Secretary of State,,DEM,Alex Padilla,3
-Amador,CP08,Secretary of State,,IND,Dan Schnur,0
-Amador,CP08,Secretary of State,,GRN,David Curtis,0
-Amador,CP08,Secretary of State,,DEM,Derek Cressman,0
-Amador,CP08,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Amador,CP08,Secretary of State,,DEM,Leland Yee,0
 Amador,CP08,Secretary of State,,REP,Pete Peterson,10
 Amador,CP08,Secretary of State,,REP,Roy Allmond,3
 Amador,CP08,State Assembly,5,REP,Frank Bigelow,14
 Amador,CP08,State Senate,8,DEM,Paulina Miranda,1
 Amador,CP08,State Senate,8,REP,Tom Berryhill,17
-Amador,CP08,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 Amador,CP08,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
 Amador,CP08,Superintendent of Public Instruction,,NOP,Tom Torlakson,7
-Amador,CP08,Treasurer,,GRN,Ellen H. Brown,0
 Amador,CP08,Treasurer,,REP,Greg Conlon,12
 Amador,CP08,Treasurer,,DEM,John Chiang,6
 Amador,CP08,U.S. House,4,REP,"Arthur ""Art"" Moore",5
-Amador,CP08,U.S. House,4,IND,Jeffrey D. Gerlach,0
 Amador,CP08,U.S. House,4,REP,Tom McClintock,13
 Amador,CP09,Attorney General,,REP,David King,3
 Amador,CP09,Attorney General,,REP,John Haggerty,10
@@ -2270,38 +2213,30 @@ Amador,CP09,Controller,,DEM,Betty T. Yee,6
 Amador,CP09,Controller,,REP,David Evans,13
 Amador,CP09,Controller,,DEM,John A. Pérez,13
 Amador,CP09,Controller,,GRN,Laura Wells,3
-Amador,CP09,Controller,,DEM,Tammy D. Blair,0
-Amador,CP09,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP09,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP09,Governor,,REP,Alma Marie Winston,0
 Amador,CP09,Governor,,REP,Andrew Blount,2
 Amador,CP09,Governor,,PAF,Cindy L. Sheehan,2
 Amador,CP09,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
 Amador,CP09,Governor,,REP,Glenn Champ,3
-Amador,CP09,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP09,Governor,,IND,Joe Leicht,0
-Amador,CP09,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP09,Governor,,REP,Neel Kashkari,19
-Amador,CP09,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP09,Governor,,REP,Richard William Aguirre,0
-Amador,CP09,Governor,,IND,Robert Newman,0
 Amador,CP09,Governor,,REP,Tim Donnelly,14
 Amador,CP09,Insurance Commissioner,,DEM,Dave Jones,16
 Amador,CP09,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Amador,CP09,Insurance Commissioner,,REP,Ted Gaines,37
 Amador,CP09,Lieutenant Governor,,AME,Alan Reynolds,1
-Amador,CP09,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP09,Lieutenant Governor,,REP,David Fennell,14
 Amador,CP09,Lieutenant Governor,,DEM,Eric Korevaar,1
 Amador,CP09,Lieutenant Governor,,DEM,Gavin Newsom,18
 Amador,CP09,Lieutenant Governor,,REP,George Yang,9
 Amador,CP09,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Amador,CP09,Lieutenant Governor,,REP,Ron Nehring,13
+Amador,CP09,Proposition 41,,,No,27
+Amador,CP09,Proposition 41,,,Yes,31
+Amador,CP09,Proposition 42,,,No,35
+Amador,CP09,Proposition 42,,,Yes,22
 Amador,CP09,Secretary of State,,DEM,Alex Padilla,13
 Amador,CP09,Secretary of State,,IND,Dan Schnur,1
 Amador,CP09,Secretary of State,,GRN,David Curtis,1
 Amador,CP09,Secretary of State,,DEM,Derek Cressman,1
-Amador,CP09,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Amador,CP09,Secretary of State,,DEM,Leland Yee,2
 Amador,CP09,Secretary of State,,REP,Pete Peterson,25
 Amador,CP09,Secretary of State,,REP,Roy Allmond,13
@@ -2332,35 +2267,26 @@ Amador,CP10,Controller,,REP,David Evans,19
 Amador,CP10,Controller,,DEM,John A. Pérez,12
 Amador,CP10,Controller,,GRN,Laura Wells,2
 Amador,CP10,Controller,,DEM,Tammy D. Blair,2
-Amador,CP10,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP10,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP10,Governor,,REP,Alma Marie Winston,0
-Amador,CP10,Governor,,REP,Andrew Blount,0
-Amador,CP10,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Amador,CP10,Governor,,REP,Glenn Champ,1
-Amador,CP10,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP10,Governor,,IND,Joe Leicht,0
-Amador,CP10,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP10,Governor,,REP,Neel Kashkari,26
 Amador,CP10,Governor,,IND,Rakesh Kumar Christian,1
-Amador,CP10,Governor,,REP,Richard William Aguirre,0
-Amador,CP10,Governor,,IND,Robert Newman,0
 Amador,CP10,Governor,,REP,Tim Donnelly,14
 Amador,CP10,Insurance Commissioner,,DEM,Dave Jones,22
 Amador,CP10,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Amador,CP10,Insurance Commissioner,,REP,Ted Gaines,42
-Amador,CP10,Lieutenant Governor,,AME,Alan Reynolds,0
-Amador,CP10,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP10,Lieutenant Governor,,REP,David Fennell,9
 Amador,CP10,Lieutenant Governor,,DEM,Eric Korevaar,3
 Amador,CP10,Lieutenant Governor,,DEM,Gavin Newsom,20
 Amador,CP10,Lieutenant Governor,,REP,George Yang,8
 Amador,CP10,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,CP10,Lieutenant Governor,,REP,Ron Nehring,18
+Amador,CP10,Proposition 41,,,No,38
+Amador,CP10,Proposition 41,,,Yes,25
+Amador,CP10,Proposition 42,,,No,32
+Amador,CP10,Proposition 42,,,Yes,31
 Amador,CP10,Secretary of State,,DEM,Alex Padilla,7
 Amador,CP10,Secretary of State,,IND,Dan Schnur,2
-Amador,CP10,Secretary of State,,GRN,David Curtis,0
 Amador,CP10,Secretary of State,,DEM,Derek Cressman,3
 Amador,CP10,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Amador,CP10,Secretary of State,,DEM,Leland Yee,5
@@ -2378,7 +2304,6 @@ Amador,CP10,Treasurer,,DEM,John Chiang,24
 Amador,CP10,U.S. House,4,REP,"Arthur ""Art"" Moore",14
 Amador,CP10,U.S. House,4,IND,Jeffrey D. Gerlach,12
 Amador,CP10,U.S. House,4,REP,Tom McClintock,39
-Amador,CP11,Attorney General,,REP,David King,0
 Amador,CP11,Attorney General,,REP,John Haggerty,5
 Amador,CP11,Attorney General,,LIB,Jonathan Jaech,5
 Amador,CP11,Attorney General,,DEM,Kamala D. Harris,13
@@ -2393,20 +2318,12 @@ Amador,CP11,Controller,,REP,David Evans,5
 Amador,CP11,Controller,,DEM,John A. Pérez,4
 Amador,CP11,Controller,,GRN,Laura Wells,2
 Amador,CP11,Controller,,DEM,Tammy D. Blair,4
-Amador,CP11,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP11,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP11,Governor,,REP,Alma Marie Winston,2
 Amador,CP11,Governor,,REP,Andrew Blount,2
-Amador,CP11,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP11,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
 Amador,CP11,Governor,,REP,Glenn Champ,1
-Amador,CP11,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP11,Governor,,IND,Joe Leicht,0
 Amador,CP11,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP11,Governor,,REP,Neel Kashkari,4
-Amador,CP11,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP11,Governor,,REP,Richard William Aguirre,0
-Amador,CP11,Governor,,IND,Robert Newman,0
 Amador,CP11,Governor,,REP,Tim Donnelly,4
 Amador,CP11,Insurance Commissioner,,DEM,Dave Jones,13
 Amador,CP11,Insurance Commissioner,,PAF,Nathalie Hrizi,1
@@ -2417,10 +2334,12 @@ Amador,CP11,Lieutenant Governor,,REP,David Fennell,2
 Amador,CP11,Lieutenant Governor,,DEM,Eric Korevaar,3
 Amador,CP11,Lieutenant Governor,,DEM,Gavin Newsom,12
 Amador,CP11,Lieutenant Governor,,REP,George Yang,2
-Amador,CP11,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,CP11,Lieutenant Governor,,REP,Ron Nehring,8
+Amador,CP11,Proposition 41,,,No,9
+Amador,CP11,Proposition 41,,,Yes,21
+Amador,CP11,Proposition 42,,,No,15
+Amador,CP11,Proposition 42,,,Yes,13
 Amador,CP11,Secretary of State,,DEM,Alex Padilla,7
-Amador,CP11,Secretary of State,,IND,Dan Schnur,0
 Amador,CP11,Secretary of State,,GRN,David Curtis,1
 Amador,CP11,Secretary of State,,DEM,Derek Cressman,5
 Amador,CP11,Secretary of State,,DEM,Jeffrey H. Drobman,1
@@ -2455,18 +2374,13 @@ Amador,CP12,Controller,,DEM,John A. Pérez,20
 Amador,CP12,Controller,,GRN,Laura Wells,4
 Amador,CP12,Controller,,DEM,Tammy D. Blair,3
 Amador,CP12,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,CP12,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP12,Governor,,REP,Alma Marie Winston,0
 Amador,CP12,Governor,,REP,Andrew Blount,2
 Amador,CP12,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",36
 Amador,CP12,Governor,,REP,Glenn Champ,4
-Amador,CP12,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,CP12,Governor,,IND,Joe Leicht,1
 Amador,CP12,Governor,,GRN,Luis J. Rodriguez,2
 Amador,CP12,Governor,,REP,Neel Kashkari,16
-Amador,CP12,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP12,Governor,,REP,Richard William Aguirre,0
 Amador,CP12,Governor,,IND,Robert Newman,4
 Amador,CP12,Governor,,REP,Tim Donnelly,24
 Amador,CP12,Insurance Commissioner,,DEM,Dave Jones,33
@@ -2480,6 +2394,10 @@ Amador,CP12,Lieutenant Governor,,DEM,Gavin Newsom,31
 Amador,CP12,Lieutenant Governor,,REP,George Yang,8
 Amador,CP12,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,CP12,Lieutenant Governor,,REP,Ron Nehring,25
+Amador,CP12,Proposition 41,,,No,36
+Amador,CP12,Proposition 41,,,Yes,54
+Amador,CP12,Proposition 42,,,No,37
+Amador,CP12,Proposition 42,,,Yes,54
 Amador,CP12,Secretary of State,,DEM,Alex Padilla,18
 Amador,CP12,Secretary of State,,IND,Dan Schnur,9
 Amador,CP12,Secretary of State,,GRN,David Curtis,6
@@ -2515,15 +2433,10 @@ Amador,CP13,Controller,,REP,David Evans,39
 Amador,CP13,Controller,,DEM,John A. Pérez,20
 Amador,CP13,Controller,,GRN,Laura Wells,11
 Amador,CP13,Controller,,DEM,Tammy D. Blair,3
-Amador,CP13,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP13,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP13,Governor,,REP,Alma Marie Winston,0
 Amador,CP13,Governor,,REP,Andrew Blount,1
 Amador,CP13,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP13,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
 Amador,CP13,Governor,,REP,Glenn Champ,2
-Amador,CP13,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP13,Governor,,IND,Joe Leicht,0
 Amador,CP13,Governor,,GRN,Luis J. Rodriguez,2
 Amador,CP13,Governor,,REP,Neel Kashkari,42
 Amador,CP13,Governor,,IND,Rakesh Kumar Christian,1
@@ -2541,6 +2454,10 @@ Amador,CP13,Lieutenant Governor,,DEM,Gavin Newsom,38
 Amador,CP13,Lieutenant Governor,,REP,George Yang,8
 Amador,CP13,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Amador,CP13,Lieutenant Governor,,REP,Ron Nehring,34
+Amador,CP13,Proposition 41,,,No,35
+Amador,CP13,Proposition 41,,,Yes,67
+Amador,CP13,Proposition 42,,,No,53
+Amador,CP13,Proposition 42,,,Yes,46
 Amador,CP13,Secretary of State,,DEM,Alex Padilla,21
 Amador,CP13,Secretary of State,,IND,Dan Schnur,8
 Amador,CP13,Secretary of State,,GRN,David Curtis,6
@@ -2563,7 +2480,6 @@ Amador,CP13,U.S. House,4,IND,Jeffrey D. Gerlach,23
 Amador,CP13,U.S. House,4,REP,Tom McClintock,56
 Amador,CP14,Attorney General,,REP,David King,7
 Amador,CP14,Attorney General,,REP,John Haggerty,26
-Amador,CP14,Attorney General,,LIB,Jonathan Jaech,0
 Amador,CP14,Attorney General,,DEM,Kamala D. Harris,39
 Amador,CP14,Attorney General,,IND,Orly Taitz,3
 Amador,CP14,Attorney General,,REP,Phil Wyman,24
@@ -2577,14 +2493,12 @@ Amador,CP14,Controller,,DEM,John A. Pérez,15
 Amador,CP14,Controller,,GRN,Laura Wells,9
 Amador,CP14,Controller,,DEM,Tammy D. Blair,7
 Amador,CP14,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,CP14,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP14,Governor,,REP,Alma Marie Winston,1
 Amador,CP14,Governor,,REP,Andrew Blount,3
 Amador,CP14,Governor,,PAF,Cindy L. Sheehan,3
 Amador,CP14,Governor,,DEM,"Edmund G. ""Jerry"" Brown",50
 Amador,CP14,Governor,,REP,Glenn Champ,5
 Amador,CP14,Governor,,IND,Janel Hyeshia Buycks,1
-Amador,CP14,Governor,,IND,Joe Leicht,0
 Amador,CP14,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP14,Governor,,REP,Neel Kashkari,41
 Amador,CP14,Governor,,IND,Rakesh Kumar Christian,2
@@ -2595,13 +2509,16 @@ Amador,CP14,Insurance Commissioner,,DEM,Dave Jones,41
 Amador,CP14,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Amador,CP14,Insurance Commissioner,,REP,Ted Gaines,71
 Amador,CP14,Lieutenant Governor,,AME,Alan Reynolds,2
-Amador,CP14,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP14,Lieutenant Governor,,REP,David Fennell,10
 Amador,CP14,Lieutenant Governor,,DEM,Eric Korevaar,5
 Amador,CP14,Lieutenant Governor,,DEM,Gavin Newsom,46
 Amador,CP14,Lieutenant Governor,,REP,George Yang,13
 Amador,CP14,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Amador,CP14,Lieutenant Governor,,REP,Ron Nehring,47
+Amador,CP14,Proposition 41,,,No,63
+Amador,CP14,Proposition 41,,,Yes,64
+Amador,CP14,Proposition 42,,,No,76
+Amador,CP14,Proposition 42,,,Yes,50
 Amador,CP14,Secretary of State,,DEM,Alex Padilla,23
 Amador,CP14,Secretary of State,,IND,Dan Schnur,6
 Amador,CP14,Secretary of State,,GRN,David Curtis,5
@@ -2638,17 +2555,13 @@ Amador,CP15,Controller,,DEM,John A. Pérez,42
 Amador,CP15,Controller,,GRN,Laura Wells,7
 Amador,CP15,Controller,,DEM,Tammy D. Blair,11
 Amador,CP15,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,CP15,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP15,Governor,,REP,Alma Marie Winston,2
 Amador,CP15,Governor,,REP,Andrew Blount,3
 Amador,CP15,Governor,,PAF,Cindy L. Sheehan,4
 Amador,CP15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",80
 Amador,CP15,Governor,,REP,Glenn Champ,6
-Amador,CP15,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP15,Governor,,IND,Joe Leicht,0
 Amador,CP15,Governor,,GRN,Luis J. Rodriguez,3
 Amador,CP15,Governor,,REP,Neel Kashkari,61
-Amador,CP15,Governor,,IND,Rakesh Kumar Christian,0
 Amador,CP15,Governor,,REP,Richard William Aguirre,2
 Amador,CP15,Governor,,IND,Robert Newman,7
 Amador,CP15,Governor,,REP,Tim Donnelly,45
@@ -2663,6 +2576,10 @@ Amador,CP15,Lieutenant Governor,,DEM,Gavin Newsom,77
 Amador,CP15,Lieutenant Governor,,REP,George Yang,15
 Amador,CP15,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,CP15,Lieutenant Governor,,REP,Ron Nehring,66
+Amador,CP15,Proposition 41,,,No,77
+Amador,CP15,Proposition 41,,,Yes,125
+Amador,CP15,Proposition 42,,,No,98
+Amador,CP15,Proposition 42,,,Yes,95
 Amador,CP15,Secretary of State,,DEM,Alex Padilla,40
 Amador,CP15,Secretary of State,,IND,Dan Schnur,14
 Amador,CP15,Secretary of State,,GRN,David Curtis,7
@@ -2698,18 +2615,11 @@ Amador,CP16,Controller,,REP,David Evans,43
 Amador,CP16,Controller,,DEM,John A. Pérez,20
 Amador,CP16,Controller,,GRN,Laura Wells,5
 Amador,CP16,Controller,,DEM,Tammy D. Blair,6
-Amador,CP16,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP16,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP16,Governor,,REP,Alma Marie Winston,0
 Amador,CP16,Governor,,REP,Andrew Blount,3
 Amador,CP16,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP16,Governor,,DEM,"Edmund G. ""Jerry"" Brown",39
 Amador,CP16,Governor,,REP,Glenn Champ,4
-Amador,CP16,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP16,Governor,,IND,Joe Leicht,0
-Amador,CP16,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP16,Governor,,REP,Neel Kashkari,30
-Amador,CP16,Governor,,IND,Rakesh Kumar Christian,0
 Amador,CP16,Governor,,REP,Richard William Aguirre,1
 Amador,CP16,Governor,,IND,Robert Newman,3
 Amador,CP16,Governor,,REP,Tim Donnelly,23
@@ -2724,6 +2634,10 @@ Amador,CP16,Lieutenant Governor,,DEM,Gavin Newsom,33
 Amador,CP16,Lieutenant Governor,,REP,George Yang,10
 Amador,CP16,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Amador,CP16,Lieutenant Governor,,REP,Ron Nehring,34
+Amador,CP16,Proposition 41,,,No,43
+Amador,CP16,Proposition 41,,,Yes,62
+Amador,CP16,Proposition 42,,,No,52
+Amador,CP16,Proposition 42,,,Yes,47
 Amador,CP16,Secretary of State,,DEM,Alex Padilla,12
 Amador,CP16,Secretary of State,,IND,Dan Schnur,5
 Amador,CP16,Secretary of State,,GRN,David Curtis,4
@@ -2759,19 +2673,11 @@ Amador,CP17,Controller,,REP,David Evans,33
 Amador,CP17,Controller,,DEM,John A. Pérez,18
 Amador,CP17,Controller,,GRN,Laura Wells,4
 Amador,CP17,Controller,,DEM,Tammy D. Blair,2
-Amador,CP17,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP17,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP17,Governor,,REP,Alma Marie Winston,0
 Amador,CP17,Governor,,REP,Andrew Blount,3
 Amador,CP17,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP17,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
-Amador,CP17,Governor,,REP,Glenn Champ,0
-Amador,CP17,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP17,Governor,,IND,Joe Leicht,0
 Amador,CP17,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP17,Governor,,REP,Neel Kashkari,24
-Amador,CP17,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP17,Governor,,REP,Richard William Aguirre,0
 Amador,CP17,Governor,,IND,Robert Newman,1
 Amador,CP17,Governor,,REP,Tim Donnelly,23
 Amador,CP17,Insurance Commissioner,,DEM,Dave Jones,30
@@ -2785,6 +2691,10 @@ Amador,CP17,Lieutenant Governor,,DEM,Gavin Newsom,25
 Amador,CP17,Lieutenant Governor,,REP,George Yang,10
 Amador,CP17,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,CP17,Lieutenant Governor,,REP,Ron Nehring,21
+Amador,CP17,Proposition 41,,,No,26
+Amador,CP17,Proposition 41,,,Yes,53
+Amador,CP17,Proposition 42,,,No,43
+Amador,CP17,Proposition 42,,,Yes,35
 Amador,CP17,Secretary of State,,DEM,Alex Padilla,20
 Amador,CP17,Secretary of State,,IND,Dan Schnur,1
 Amador,CP17,Secretary of State,,GRN,David Curtis,2
@@ -2821,24 +2731,18 @@ Amador,CP18,Controller,,DEM,John A. Pérez,23
 Amador,CP18,Controller,,GRN,Laura Wells,6
 Amador,CP18,Controller,,DEM,Tammy D. Blair,3
 Amador,CP18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Amador,CP18,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP18,Governor,,REP,Alma Marie Winston,1
 Amador,CP18,Governor,,REP,Andrew Blount,6
 Amador,CP18,Governor,,PAF,Cindy L. Sheehan,4
 Amador,CP18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",53
 Amador,CP18,Governor,,REP,Glenn Champ,2
-Amador,CP18,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP18,Governor,,IND,Joe Leicht,0
-Amador,CP18,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP18,Governor,,REP,Neel Kashkari,40
-Amador,CP18,Governor,,IND,Rakesh Kumar Christian,0
 Amador,CP18,Governor,,REP,Richard William Aguirre,2
 Amador,CP18,Governor,,IND,Robert Newman,1
 Amador,CP18,Governor,,REP,Tim Donnelly,32
 Amador,CP18,Insurance Commissioner,,DEM,Dave Jones,51
 Amador,CP18,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Amador,CP18,Insurance Commissioner,,REP,Ted Gaines,77
-Amador,CP18,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP18,Lieutenant Governor,,PAF,Amos Johnson,6
 Amador,CP18,Lieutenant Governor,,REP,David Fennell,16
 Amador,CP18,Lieutenant Governor,,DEM,Eric Korevaar,11
@@ -2846,6 +2750,10 @@ Amador,CP18,Lieutenant Governor,,DEM,Gavin Newsom,47
 Amador,CP18,Lieutenant Governor,,REP,George Yang,9
 Amador,CP18,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,CP18,Lieutenant Governor,,REP,Ron Nehring,40
+Amador,CP18,Proposition 41,,,No,63
+Amador,CP18,Proposition 41,,,Yes,73
+Amador,CP18,Proposition 42,,,No,67
+Amador,CP18,Proposition 42,,,Yes,66
 Amador,CP18,Secretary of State,,DEM,Alex Padilla,30
 Amador,CP18,Secretary of State,,IND,Dan Schnur,13
 Amador,CP18,Secretary of State,,GRN,David Curtis,4
@@ -2881,18 +2789,12 @@ Amador,CP19,Controller,,REP,David Evans,60
 Amador,CP19,Controller,,DEM,John A. Pérez,30
 Amador,CP19,Controller,,GRN,Laura Wells,7
 Amador,CP19,Controller,,DEM,Tammy D. Blair,7
-Amador,CP19,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP19,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP19,Governor,,REP,Alma Marie Winston,1
 Amador,CP19,Governor,,REP,Andrew Blount,4
-Amador,CP19,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP19,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Amador,CP19,Governor,,REP,Glenn Champ,2
-Amador,CP19,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP19,Governor,,IND,Joe Leicht,0
 Amador,CP19,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP19,Governor,,REP,Neel Kashkari,44
-Amador,CP19,Governor,,IND,Rakesh Kumar Christian,0
 Amador,CP19,Governor,,REP,Richard William Aguirre,1
 Amador,CP19,Governor,,IND,Robert Newman,4
 Amador,CP19,Governor,,REP,Tim Donnelly,28
@@ -2900,13 +2802,15 @@ Amador,CP19,Insurance Commissioner,,DEM,Dave Jones,54
 Amador,CP19,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Amador,CP19,Insurance Commissioner,,REP,Ted Gaines,85
 Amador,CP19,Lieutenant Governor,,AME,Alan Reynolds,1
-Amador,CP19,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP19,Lieutenant Governor,,REP,David Fennell,21
 Amador,CP19,Lieutenant Governor,,DEM,Eric Korevaar,6
 Amador,CP19,Lieutenant Governor,,DEM,Gavin Newsom,60
 Amador,CP19,Lieutenant Governor,,REP,George Yang,12
-Amador,CP19,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,CP19,Lieutenant Governor,,REP,Ron Nehring,49
+Amador,CP19,Proposition 41,,,No,52
+Amador,CP19,Proposition 41,,,Yes,96
+Amador,CP19,Proposition 42,,,No,74
+Amador,CP19,Proposition 42,,,Yes,72
 Amador,CP19,Secretary of State,,DEM,Alex Padilla,26
 Amador,CP19,Secretary of State,,IND,Dan Schnur,11
 Amador,CP19,Secretary of State,,GRN,David Curtis,3
@@ -2942,18 +2846,11 @@ Amador,CP20,Controller,,REP,David Evans,28
 Amador,CP20,Controller,,DEM,John A. Pérez,23
 Amador,CP20,Controller,,GRN,Laura Wells,3
 Amador,CP20,Controller,,DEM,Tammy D. Blair,4
-Amador,CP20,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,CP20,Governor,,DEM,Akinyemi Agbede,2
-Amador,CP20,Governor,,REP,Alma Marie Winston,0
 Amador,CP20,Governor,,REP,Andrew Blount,6
-Amador,CP20,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP20,Governor,,DEM,"Edmund G. ""Jerry"" Brown",51
 Amador,CP20,Governor,,REP,Glenn Champ,3
-Amador,CP20,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP20,Governor,,IND,Joe Leicht,0
-Amador,CP20,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP20,Governor,,REP,Neel Kashkari,15
-Amador,CP20,Governor,,IND,Rakesh Kumar Christian,0
 Amador,CP20,Governor,,REP,Richard William Aguirre,1
 Amador,CP20,Governor,,IND,Robert Newman,3
 Amador,CP20,Governor,,REP,Tim Donnelly,23
@@ -2968,6 +2865,10 @@ Amador,CP20,Lieutenant Governor,,DEM,Gavin Newsom,40
 Amador,CP20,Lieutenant Governor,,REP,George Yang,3
 Amador,CP20,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Amador,CP20,Lieutenant Governor,,REP,Ron Nehring,28
+Amador,CP20,Proposition 41,,,No,44
+Amador,CP20,Proposition 41,,,Yes,53
+Amador,CP20,Proposition 42,,,No,52
+Amador,CP20,Proposition 42,,,Yes,44
 Amador,CP20,Secretary of State,,DEM,Alex Padilla,22
 Amador,CP20,Secretary of State,,IND,Dan Schnur,8
 Amador,CP20,Secretary of State,,GRN,David Curtis,2
@@ -3003,19 +2904,15 @@ Amador,CP21,Controller,,REP,David Evans,62
 Amador,CP21,Controller,,DEM,John A. Pérez,20
 Amador,CP21,Controller,,GRN,Laura Wells,4
 Amador,CP21,Controller,,DEM,Tammy D. Blair,2
-Amador,CP21,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,CP21,Governor,,DEM,Akinyemi Agbede,1
 Amador,CP21,Governor,,REP,Alma Marie Winston,3
 Amador,CP21,Governor,,REP,Andrew Blount,6
 Amador,CP21,Governor,,PAF,Cindy L. Sheehan,2
 Amador,CP21,Governor,,DEM,"Edmund G. ""Jerry"" Brown",46
 Amador,CP21,Governor,,REP,Glenn Champ,2
-Amador,CP21,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,CP21,Governor,,IND,Joe Leicht,2
 Amador,CP21,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP21,Governor,,REP,Neel Kashkari,48
-Amador,CP21,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP21,Governor,,REP,Richard William Aguirre,0
 Amador,CP21,Governor,,IND,Robert Newman,2
 Amador,CP21,Governor,,REP,Tim Donnelly,33
 Amador,CP21,Insurance Commissioner,,DEM,Dave Jones,42
@@ -3029,6 +2926,10 @@ Amador,CP21,Lieutenant Governor,,DEM,Gavin Newsom,37
 Amador,CP21,Lieutenant Governor,,REP,George Yang,19
 Amador,CP21,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Amador,CP21,Lieutenant Governor,,REP,Ron Nehring,56
+Amador,CP21,Proposition 41,,,No,67
+Amador,CP21,Proposition 41,,,Yes,73
+Amador,CP21,Proposition 42,,,No,70
+Amador,CP21,Proposition 42,,,Yes,68
 Amador,CP21,Secretary of State,,DEM,Alex Padilla,26
 Amador,CP21,Secretary of State,,IND,Dan Schnur,5
 Amador,CP21,Secretary of State,,GRN,David Curtis,5
@@ -3064,25 +2965,16 @@ Amador,CP22,Controller,,REP,David Evans,29
 Amador,CP22,Controller,,DEM,John A. Pérez,13
 Amador,CP22,Controller,,GRN,Laura Wells,5
 Amador,CP22,Controller,,DEM,Tammy D. Blair,4
-Amador,CP22,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,CP22,Governor,,DEM,Akinyemi Agbede,1
 Amador,CP22,Governor,,REP,Alma Marie Winston,1
 Amador,CP22,Governor,,REP,Andrew Blount,4
-Amador,CP22,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
 Amador,CP22,Governor,,REP,Glenn Champ,3
-Amador,CP22,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP22,Governor,,IND,Joe Leicht,0
-Amador,CP22,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP22,Governor,,REP,Neel Kashkari,22
-Amador,CP22,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP22,Governor,,REP,Richard William Aguirre,0
-Amador,CP22,Governor,,IND,Robert Newman,0
 Amador,CP22,Governor,,REP,Tim Donnelly,16
 Amador,CP22,Insurance Commissioner,,DEM,Dave Jones,26
 Amador,CP22,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Amador,CP22,Insurance Commissioner,,REP,Ted Gaines,47
-Amador,CP22,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP22,Lieutenant Governor,,PAF,Amos Johnson,2
 Amador,CP22,Lieutenant Governor,,REP,David Fennell,10
 Amador,CP22,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -3090,6 +2982,10 @@ Amador,CP22,Lieutenant Governor,,DEM,Gavin Newsom,26
 Amador,CP22,Lieutenant Governor,,REP,George Yang,6
 Amador,CP22,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,CP22,Lieutenant Governor,,REP,Ron Nehring,25
+Amador,CP22,Proposition 41,,,No,35
+Amador,CP22,Proposition 41,,,Yes,37
+Amador,CP22,Proposition 42,,,No,40
+Amador,CP22,Proposition 42,,,Yes,31
 Amador,CP22,Secretary of State,,DEM,Alex Padilla,14
 Amador,CP22,Secretary of State,,IND,Dan Schnur,4
 Amador,CP22,Secretary of State,,GRN,David Curtis,1
@@ -3125,32 +3021,29 @@ Amador,CP23,Controller,,REP,David Evans,35
 Amador,CP23,Controller,,DEM,John A. Pérez,27
 Amador,CP23,Controller,,GRN,Laura Wells,10
 Amador,CP23,Controller,,DEM,Tammy D. Blair,5
-Amador,CP23,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP23,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP23,Governor,,REP,Alma Marie Winston,1
 Amador,CP23,Governor,,REP,Andrew Blount,1
 Amador,CP23,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP23,Governor,,DEM,"Edmund G. ""Jerry"" Brown",59
 Amador,CP23,Governor,,REP,Glenn Champ,1
-Amador,CP23,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP23,Governor,,IND,Joe Leicht,0
 Amador,CP23,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP23,Governor,,REP,Neel Kashkari,53
 Amador,CP23,Governor,,IND,Rakesh Kumar Christian,1
-Amador,CP23,Governor,,REP,Richard William Aguirre,0
-Amador,CP23,Governor,,IND,Robert Newman,0
 Amador,CP23,Governor,,REP,Tim Donnelly,28
 Amador,CP23,Insurance Commissioner,,DEM,Dave Jones,58
 Amador,CP23,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Amador,CP23,Insurance Commissioner,,REP,Ted Gaines,76
 Amador,CP23,Lieutenant Governor,,AME,Alan Reynolds,1
-Amador,CP23,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP23,Lieutenant Governor,,REP,David Fennell,17
 Amador,CP23,Lieutenant Governor,,DEM,Eric Korevaar,4
 Amador,CP23,Lieutenant Governor,,DEM,Gavin Newsom,56
 Amador,CP23,Lieutenant Governor,,REP,George Yang,14
 Amador,CP23,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Amador,CP23,Lieutenant Governor,,REP,Ron Nehring,47
+Amador,CP23,Proposition 41,,,No,66
+Amador,CP23,Proposition 41,,,Yes,72
+Amador,CP23,Proposition 42,,,No,71
+Amador,CP23,Proposition 42,,,Yes,68
 Amador,CP23,Secretary of State,,DEM,Alex Padilla,31
 Amador,CP23,Secretary of State,,IND,Dan Schnur,10
 Amador,CP23,Secretary of State,,GRN,David Curtis,1
@@ -3175,7 +3068,6 @@ Amador,CP25,Attorney General,,REP,David King,4
 Amador,CP25,Attorney General,,REP,John Haggerty,18
 Amador,CP25,Attorney General,,LIB,Jonathan Jaech,7
 Amador,CP25,Attorney General,,DEM,Kamala D. Harris,50
-Amador,CP25,Attorney General,,IND,Orly Taitz,0
 Amador,CP25,Attorney General,,REP,Phil Wyman,18
 Amador,CP25,Attorney General,,REP,Ronald Gold,17
 Amador,CP25,Board of Equalization,1,DEM,Chris Parker,42
@@ -3186,25 +3078,17 @@ Amador,CP25,Controller,,REP,David Evans,34
 Amador,CP25,Controller,,DEM,John A. Pérez,15
 Amador,CP25,Controller,,GRN,Laura Wells,6
 Amador,CP25,Controller,,DEM,Tammy D. Blair,6
-Amador,CP25,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP25,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP25,Governor,,REP,Alma Marie Winston,0
 Amador,CP25,Governor,,REP,Andrew Blount,5
 Amador,CP25,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP25,Governor,,DEM,"Edmund G. ""Jerry"" Brown",59
 Amador,CP25,Governor,,REP,Glenn Champ,2
-Amador,CP25,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP25,Governor,,IND,Joe Leicht,0
 Amador,CP25,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP25,Governor,,REP,Neel Kashkari,35
-Amador,CP25,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP25,Governor,,REP,Richard William Aguirre,0
 Amador,CP25,Governor,,IND,Robert Newman,1
 Amador,CP25,Governor,,REP,Tim Donnelly,21
 Amador,CP25,Insurance Commissioner,,DEM,Dave Jones,51
 Amador,CP25,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Amador,CP25,Insurance Commissioner,,REP,Ted Gaines,64
-Amador,CP25,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP25,Lieutenant Governor,,PAF,Amos Johnson,3
 Amador,CP25,Lieutenant Governor,,REP,David Fennell,12
 Amador,CP25,Lieutenant Governor,,DEM,Eric Korevaar,5
@@ -3212,6 +3096,10 @@ Amador,CP25,Lieutenant Governor,,DEM,Gavin Newsom,52
 Amador,CP25,Lieutenant Governor,,REP,George Yang,12
 Amador,CP25,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Amador,CP25,Lieutenant Governor,,REP,Ron Nehring,34
+Amador,CP25,Proposition 41,,,No,49
+Amador,CP25,Proposition 41,,,Yes,70
+Amador,CP25,Proposition 42,,,No,56
+Amador,CP25,Proposition 42,,,Yes,61
 Amador,CP25,Secretary of State,,DEM,Alex Padilla,22
 Amador,CP25,Secretary of State,,IND,Dan Schnur,10
 Amador,CP25,Secretary of State,,GRN,David Curtis,2
@@ -3246,15 +3134,10 @@ Amador,CP26,Controller,,DEM,Betty T. Yee,12
 Amador,CP26,Controller,,REP,David Evans,30
 Amador,CP26,Controller,,DEM,John A. Pérez,16
 Amador,CP26,Controller,,GRN,Laura Wells,6
-Amador,CP26,Controller,,DEM,Tammy D. Blair,0
-Amador,CP26,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP26,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP26,Governor,,REP,Alma Marie Winston,0
 Amador,CP26,Governor,,REP,Andrew Blount,1
 Amador,CP26,Governor,,PAF,Cindy L. Sheehan,3
 Amador,CP26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Amador,CP26,Governor,,REP,Glenn Champ,10
-Amador,CP26,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,CP26,Governor,,IND,Joe Leicht,1
 Amador,CP26,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP26,Governor,,REP,Neel Kashkari,19
@@ -3265,7 +3148,6 @@ Amador,CP26,Governor,,REP,Tim Donnelly,23
 Amador,CP26,Insurance Commissioner,,DEM,Dave Jones,26
 Amador,CP26,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Amador,CP26,Insurance Commissioner,,REP,Ted Gaines,60
-Amador,CP26,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP26,Lieutenant Governor,,PAF,Amos Johnson,2
 Amador,CP26,Lieutenant Governor,,REP,David Fennell,19
 Amador,CP26,Lieutenant Governor,,DEM,Eric Korevaar,3
@@ -3273,6 +3155,10 @@ Amador,CP26,Lieutenant Governor,,DEM,Gavin Newsom,30
 Amador,CP26,Lieutenant Governor,,REP,George Yang,10
 Amador,CP26,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,CP26,Lieutenant Governor,,REP,Ron Nehring,26
+Amador,CP26,Proposition 41,,,No,34
+Amador,CP26,Proposition 41,,,Yes,60
+Amador,CP26,Proposition 42,,,No,50
+Amador,CP26,Proposition 42,,,Yes,44
 Amador,CP26,Secretary of State,,DEM,Alex Padilla,21
 Amador,CP26,Secretary of State,,IND,Dan Schnur,10
 Amador,CP26,Secretary of State,,GRN,David Curtis,4
@@ -3310,30 +3196,27 @@ Amador,CP27,Controller,,GRN,Laura Wells,10
 Amador,CP27,Controller,,DEM,Tammy D. Blair,7
 Amador,CP27,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Amador,CP27,Governor,,DEM,Akinyemi Agbede,1
-Amador,CP27,Governor,,REP,Alma Marie Winston,0
 Amador,CP27,Governor,,REP,Andrew Blount,2
-Amador,CP27,Governor,,PAF,Cindy L. Sheehan,0
 Amador,CP27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",44
 Amador,CP27,Governor,,REP,Glenn Champ,1
-Amador,CP27,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP27,Governor,,IND,Joe Leicht,0
 Amador,CP27,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP27,Governor,,REP,Neel Kashkari,35
 Amador,CP27,Governor,,IND,Rakesh Kumar Christian,2
-Amador,CP27,Governor,,REP,Richard William Aguirre,0
 Amador,CP27,Governor,,IND,Robert Newman,1
 Amador,CP27,Governor,,REP,Tim Donnelly,27
 Amador,CP27,Insurance Commissioner,,DEM,Dave Jones,39
 Amador,CP27,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Amador,CP27,Insurance Commissioner,,REP,Ted Gaines,69
 Amador,CP27,Lieutenant Governor,,AME,Alan Reynolds,4
-Amador,CP27,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP27,Lieutenant Governor,,REP,David Fennell,14
 Amador,CP27,Lieutenant Governor,,DEM,Eric Korevaar,4
 Amador,CP27,Lieutenant Governor,,DEM,Gavin Newsom,34
 Amador,CP27,Lieutenant Governor,,REP,George Yang,9
-Amador,CP27,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Amador,CP27,Lieutenant Governor,,REP,Ron Nehring,44
+Amador,CP27,Proposition 41,,,No,46
+Amador,CP27,Proposition 41,,,Yes,61
+Amador,CP27,Proposition 42,,,No,59
+Amador,CP27,Proposition 42,,,Yes,45
 Amador,CP27,Secretary of State,,DEM,Alex Padilla,23
 Amador,CP27,Secretary of State,,IND,Dan Schnur,14
 Amador,CP27,Secretary of State,,GRN,David Curtis,3
@@ -3376,18 +3259,14 @@ Amador,CP28,Governor,,REP,Andrew Blount,2
 Amador,CP28,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP28,Governor,,DEM,"Edmund G. ""Jerry"" Brown",46
 Amador,CP28,Governor,,REP,Glenn Champ,1
-Amador,CP28,Governor,,IND,Janel Hyeshia Buycks,0
 Amador,CP28,Governor,,IND,Joe Leicht,1
 Amador,CP28,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP28,Governor,,REP,Neel Kashkari,41
-Amador,CP28,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP28,Governor,,REP,Richard William Aguirre,0
 Amador,CP28,Governor,,IND,Robert Newman,1
 Amador,CP28,Governor,,REP,Tim Donnelly,26
 Amador,CP28,Insurance Commissioner,,DEM,Dave Jones,41
 Amador,CP28,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Amador,CP28,Insurance Commissioner,,REP,Ted Gaines,69
-Amador,CP28,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP28,Lieutenant Governor,,PAF,Amos Johnson,1
 Amador,CP28,Lieutenant Governor,,REP,David Fennell,18
 Amador,CP28,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -3395,6 +3274,10 @@ Amador,CP28,Lieutenant Governor,,DEM,Gavin Newsom,40
 Amador,CP28,Lieutenant Governor,,REP,George Yang,8
 Amador,CP28,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,CP28,Lieutenant Governor,,REP,Ron Nehring,40
+Amador,CP28,Proposition 41,,,No,64
+Amador,CP28,Proposition 41,,,Yes,49
+Amador,CP28,Proposition 42,,,No,64
+Amador,CP28,Proposition 42,,,Yes,42
 Amador,CP28,Secretary of State,,DEM,Alex Padilla,26
 Amador,CP28,Secretary of State,,IND,Dan Schnur,10
 Amador,CP28,Secretary of State,,GRN,David Curtis,4
@@ -3430,16 +3313,11 @@ Amador,CP29,Controller,,REP,David Evans,26
 Amador,CP29,Controller,,DEM,John A. Pérez,6
 Amador,CP29,Controller,,GRN,Laura Wells,5
 Amador,CP29,Controller,,DEM,Tammy D. Blair,4
-Amador,CP29,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Amador,CP29,Governor,,DEM,Akinyemi Agbede,1
-Amador,CP29,Governor,,REP,Alma Marie Winston,0
 Amador,CP29,Governor,,REP,Andrew Blount,2
 Amador,CP29,Governor,,PAF,Cindy L. Sheehan,3
 Amador,CP29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Amador,CP29,Governor,,REP,Glenn Champ,2
-Amador,CP29,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP29,Governor,,IND,Joe Leicht,0
-Amador,CP29,Governor,,GRN,Luis J. Rodriguez,0
 Amador,CP29,Governor,,REP,Neel Kashkari,27
 Amador,CP29,Governor,,IND,Rakesh Kumar Christian,1
 Amador,CP29,Governor,,REP,Richard William Aguirre,1
@@ -3449,13 +3327,16 @@ Amador,CP29,Insurance Commissioner,,DEM,Dave Jones,17
 Amador,CP29,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Amador,CP29,Insurance Commissioner,,REP,Ted Gaines,47
 Amador,CP29,Lieutenant Governor,,AME,Alan Reynolds,3
-Amador,CP29,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP29,Lieutenant Governor,,REP,David Fennell,12
 Amador,CP29,Lieutenant Governor,,DEM,Eric Korevaar,5
 Amador,CP29,Lieutenant Governor,,DEM,Gavin Newsom,20
 Amador,CP29,Lieutenant Governor,,REP,George Yang,5
 Amador,CP29,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Amador,CP29,Lieutenant Governor,,REP,Ron Nehring,27
+Amador,CP29,Proposition 41,,,No,29
+Amador,CP29,Proposition 41,,,Yes,47
+Amador,CP29,Proposition 42,,,No,37
+Amador,CP29,Proposition 42,,,Yes,36
 Amador,CP29,Secretary of State,,DEM,Alex Padilla,13
 Amador,CP29,Secretary of State,,IND,Dan Schnur,11
 Amador,CP29,Secretary of State,,GRN,David Curtis,6
@@ -3476,7 +3357,6 @@ Amador,CP29,Treasurer,,DEM,John Chiang,33
 Amador,CP29,U.S. House,4,REP,"Arthur ""Art"" Moore",14
 Amador,CP29,U.S. House,4,IND,Jeffrey D. Gerlach,13
 Amador,CP29,U.S. House,4,REP,Tom McClintock,43
-Amador,CP30,Attorney General,,REP,David King,0
 Amador,CP30,Attorney General,,REP,John Haggerty,17
 Amador,CP30,Attorney General,,LIB,Jonathan Jaech,3
 Amador,CP30,Attorney General,,DEM,Kamala D. Harris,17
@@ -3492,24 +3372,18 @@ Amador,CP30,Controller,,DEM,John A. Pérez,7
 Amador,CP30,Controller,,GRN,Laura Wells,2
 Amador,CP30,Controller,,DEM,Tammy D. Blair,4
 Amador,CP30,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Amador,CP30,Governor,,DEM,Akinyemi Agbede,0
 Amador,CP30,Governor,,REP,Alma Marie Winston,1
 Amador,CP30,Governor,,REP,Andrew Blount,1
 Amador,CP30,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP30,Governor,,DEM,"Edmund G. ""Jerry"" Brown",18
-Amador,CP30,Governor,,REP,Glenn Champ,0
-Amador,CP30,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP30,Governor,,IND,Joe Leicht,0
 Amador,CP30,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP30,Governor,,REP,Neel Kashkari,33
 Amador,CP30,Governor,,IND,Rakesh Kumar Christian,2
-Amador,CP30,Governor,,REP,Richard William Aguirre,0
 Amador,CP30,Governor,,IND,Robert Newman,1
 Amador,CP30,Governor,,REP,Tim Donnelly,20
 Amador,CP30,Insurance Commissioner,,DEM,Dave Jones,15
 Amador,CP30,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Amador,CP30,Insurance Commissioner,,REP,Ted Gaines,55
-Amador,CP30,Lieutenant Governor,,AME,Alan Reynolds,0
 Amador,CP30,Lieutenant Governor,,PAF,Amos Johnson,1
 Amador,CP30,Lieutenant Governor,,REP,David Fennell,18
 Amador,CP30,Lieutenant Governor,,DEM,Eric Korevaar,1
@@ -3517,6 +3391,10 @@ Amador,CP30,Lieutenant Governor,,DEM,Gavin Newsom,15
 Amador,CP30,Lieutenant Governor,,REP,George Yang,13
 Amador,CP30,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,CP30,Lieutenant Governor,,REP,Ron Nehring,26
+Amador,CP30,Proposition 41,,,No,35
+Amador,CP30,Proposition 41,,,Yes,40
+Amador,CP30,Proposition 42,,,No,35
+Amador,CP30,Proposition 42,,,Yes,33
 Amador,CP30,Secretary of State,,DEM,Alex Padilla,5
 Amador,CP30,Secretary of State,,IND,Dan Schnur,8
 Amador,CP30,Secretary of State,,GRN,David Curtis,2
@@ -3537,8 +3415,6 @@ Amador,CP30,Treasurer,,DEM,John Chiang,25
 Amador,CP30,U.S. House,4,REP,"Arthur ""Art"" Moore",13
 Amador,CP30,U.S. House,4,IND,Jeffrey D. Gerlach,10
 Amador,CP30,U.S. House,4,REP,Tom McClintock,54
-Amador,CP83,Attorney General,,REP,David King,0
-Amador,CP83,Attorney General,,REP,John Haggerty,0
 Amador,CP83,Attorney General,,LIB,Jonathan Jaech,1
 Amador,CP83,Attorney General,,DEM,Kamala D. Harris,12
 Amador,CP83,Attorney General,,IND,Orly Taitz,2
@@ -3551,46 +3427,34 @@ Amador,CP83,Controller,,DEM,Betty T. Yee,6
 Amador,CP83,Controller,,REP,David Evans,6
 Amador,CP83,Controller,,DEM,John A. Pérez,3
 Amador,CP83,Controller,,GRN,Laura Wells,2
-Amador,CP83,Controller,,DEM,Tammy D. Blair,0
-Amador,CP83,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Amador,CP83,Governor,,DEM,Akinyemi Agbede,0
-Amador,CP83,Governor,,REP,Alma Marie Winston,0
 Amador,CP83,Governor,,REP,Andrew Blount,2
 Amador,CP83,Governor,,PAF,Cindy L. Sheehan,1
 Amador,CP83,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Amador,CP83,Governor,,REP,Glenn Champ,2
-Amador,CP83,Governor,,IND,Janel Hyeshia Buycks,0
-Amador,CP83,Governor,,IND,Joe Leicht,0
 Amador,CP83,Governor,,GRN,Luis J. Rodriguez,1
 Amador,CP83,Governor,,REP,Neel Kashkari,5
-Amador,CP83,Governor,,IND,Rakesh Kumar Christian,0
-Amador,CP83,Governor,,REP,Richard William Aguirre,0
-Amador,CP83,Governor,,IND,Robert Newman,0
-Amador,CP83,Governor,,REP,Tim Donnelly,0
 Amador,CP83,Insurance Commissioner,,DEM,Dave Jones,10
 Amador,CP83,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Amador,CP83,Insurance Commissioner,,REP,Ted Gaines,8
-Amador,CP83,Lieutenant Governor,,AME,Alan Reynolds,0
-Amador,CP83,Lieutenant Governor,,PAF,Amos Johnson,0
 Amador,CP83,Lieutenant Governor,,REP,David Fennell,2
-Amador,CP83,Lieutenant Governor,,DEM,Eric Korevaar,0
 Amador,CP83,Lieutenant Governor,,DEM,Gavin Newsom,12
 Amador,CP83,Lieutenant Governor,,REP,George Yang,2
 Amador,CP83,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Amador,CP83,Lieutenant Governor,,REP,Ron Nehring,4
+Amador,CP83,Proposition 41,,,No,6
+Amador,CP83,Proposition 41,,,Yes,16
+Amador,CP83,Proposition 42,,,No,10
+Amador,CP83,Proposition 42,,,Yes,12
 Amador,CP83,Secretary of State,,DEM,Alex Padilla,6
 Amador,CP83,Secretary of State,,IND,Dan Schnur,1
 Amador,CP83,Secretary of State,,GRN,David Curtis,3
 Amador,CP83,Secretary of State,,DEM,Derek Cressman,1
-Amador,CP83,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Amador,CP83,Secretary of State,,DEM,Leland Yee,3
 Amador,CP83,Secretary of State,,REP,Pete Peterson,7
-Amador,CP83,Secretary of State,,REP,Roy Allmond,0
 Amador,CP83,State Assembly,5,REP,Frank Bigelow,10
 Amador,CP83,State Senate,8,DEM,Paulina Miranda,10
 Amador,CP83,State Senate,8,REP,Tom Berryhill,10
 Amador,CP83,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
-Amador,CP83,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Amador,CP83,Superintendent of Public Instruction,,NOP,Tom Torlakson,9
 Amador,CP83,Treasurer,,GRN,Ellen H. Brown,1
 Amador,CP83,Treasurer,,REP,Greg Conlon,8

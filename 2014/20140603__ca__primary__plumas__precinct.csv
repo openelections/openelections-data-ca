@@ -15,17 +15,12 @@ Plumas,01,Controller,,DEM,John A. Pérez,3
 Plumas,01,Controller,,GRN,Laura Wells,2
 Plumas,01,Controller,,DEM,Tammy D. Blair,3
 Plumas,01,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Plumas,01,Governor,,DEM,Akinyemi Agbede,0
 Plumas,01,Governor,,REP,Alma Marie Winston,2
 Plumas,01,Governor,,REP,Andrew Blount,3
-Plumas,01,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,01,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
 Plumas,01,Governor,,REP,Glenn Champ,2
 Plumas,01,Governor,,IND,Janel Hyeshia Buycks,3
-Plumas,01,Governor,,IND,Joe Leicht,0
-Plumas,01,Governor,,GRN,Luis J. Rodriguez,0
 Plumas,01,Governor,,REP,Neel Kashkari,27
-Plumas,01,Governor,,IND,Rakesh Kumar Christian,0
 Plumas,01,Governor,,REP,Richard William Aguirre,1
 Plumas,01,Governor,,IND,Robert Newman,4
 Plumas,01,Governor,,REP,Tim Donnelly,34
@@ -33,13 +28,16 @@ Plumas,01,Insurance Commissioner,,DEM,Dave Jones,13
 Plumas,01,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Plumas,01,Insurance Commissioner,,REP,Ted Gaines,74
 Plumas,01,Lieutenant Governor,,AME,Alan Reynolds,3
-Plumas,01,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,01,Lieutenant Governor,,REP,David Fennell,15
 Plumas,01,Lieutenant Governor,,DEM,Eric Korevaar,2
 Plumas,01,Lieutenant Governor,,DEM,Gavin Newsom,15
 Plumas,01,Lieutenant Governor,,REP,George Yang,6
 Plumas,01,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Plumas,01,Lieutenant Governor,,REP,Ron Nehring,50
+Plumas,01,Proposition 41,,,No,61
+Plumas,01,Proposition 41,,,Yes,33
+Plumas,01,Proposition 42,,,No,52
+Plumas,01,Proposition 42,,,Yes,36
 Plumas,01,Secretary of State,,DEM,Alex Padilla,8
 Plumas,01,Secretary of State,,IND,Dan Schnur,1
 Plumas,01,Secretary of State,,GRN,David Curtis,1
@@ -75,16 +73,12 @@ Plumas,02,Controller,,REP,David Evans,103
 Plumas,02,Controller,,DEM,John A. Pérez,14
 Plumas,02,Controller,,GRN,Laura Wells,8
 Plumas,02,Controller,,DEM,Tammy D. Blair,3
-Plumas,02,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,02,Governor,,DEM,Akinyemi Agbede,0
 Plumas,02,Governor,,REP,Alma Marie Winston,7
 Plumas,02,Governor,,REP,Andrew Blount,4
 Plumas,02,Governor,,PAF,Cindy L. Sheehan,3
 Plumas,02,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
 Plumas,02,Governor,,REP,Glenn Champ,11
-Plumas,02,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,02,Governor,,IND,Joe Leicht,2
-Plumas,02,Governor,,GRN,Luis J. Rodriguez,0
 Plumas,02,Governor,,REP,Neel Kashkari,55
 Plumas,02,Governor,,IND,Rakesh Kumar Christian,4
 Plumas,02,Governor,,REP,Richard William Aguirre,3
@@ -93,7 +87,6 @@ Plumas,02,Governor,,REP,Tim Donnelly,57
 Plumas,02,Insurance Commissioner,,DEM,Dave Jones,42
 Plumas,02,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Plumas,02,Insurance Commissioner,,REP,Ted Gaines,137
-Plumas,02,Lieutenant Governor,,AME,Alan Reynolds,0
 Plumas,02,Lieutenant Governor,,PAF,Amos Johnson,3
 Plumas,02,Lieutenant Governor,,REP,David Fennell,31
 Plumas,02,Lieutenant Governor,,DEM,Eric Korevaar,5
@@ -101,6 +94,10 @@ Plumas,02,Lieutenant Governor,,DEM,Gavin Newsom,37
 Plumas,02,Lieutenant Governor,,REP,George Yang,24
 Plumas,02,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Plumas,02,Lieutenant Governor,,REP,Ron Nehring,83
+Plumas,02,Proposition 41,,,No,103
+Plumas,02,Proposition 41,,,Yes,81
+Plumas,02,Proposition 42,,,No,122
+Plumas,02,Proposition 42,,,Yes,52
 Plumas,02,Secretary of State,,DEM,Alex Padilla,18
 Plumas,02,Secretary of State,,IND,Dan Schnur,11
 Plumas,02,Secretary of State,,GRN,David Curtis,4
@@ -136,32 +133,29 @@ Plumas,03,Controller,,REP,David Evans,36
 Plumas,03,Controller,,DEM,John A. Pérez,12
 Plumas,03,Controller,,GRN,Laura Wells,10
 Plumas,03,Controller,,DEM,Tammy D. Blair,5
-Plumas,03,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,03,Governor,,DEM,Akinyemi Agbede,0
 Plumas,03,Governor,,REP,Alma Marie Winston,2
 Plumas,03,Governor,,REP,Andrew Blount,10
 Plumas,03,Governor,,PAF,Cindy L. Sheehan,1
 Plumas,03,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
 Plumas,03,Governor,,REP,Glenn Champ,2
-Plumas,03,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,03,Governor,,IND,Joe Leicht,3
 Plumas,03,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,03,Governor,,REP,Neel Kashkari,15
-Plumas,03,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,03,Governor,,REP,Richard William Aguirre,0
 Plumas,03,Governor,,IND,Robert Newman,2
 Plumas,03,Governor,,REP,Tim Donnelly,31
 Plumas,03,Insurance Commissioner,,DEM,Dave Jones,26
 Plumas,03,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Plumas,03,Insurance Commissioner,,REP,Ted Gaines,66
-Plumas,03,Lieutenant Governor,,AME,Alan Reynolds,0
-Plumas,03,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,03,Lieutenant Governor,,REP,David Fennell,9
 Plumas,03,Lieutenant Governor,,DEM,Eric Korevaar,5
 Plumas,03,Lieutenant Governor,,DEM,Gavin Newsom,28
 Plumas,03,Lieutenant Governor,,REP,George Yang,6
 Plumas,03,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Plumas,03,Lieutenant Governor,,REP,Ron Nehring,45
+Plumas,03,Proposition 41,,,No,50
+Plumas,03,Proposition 41,,,Yes,50
+Plumas,03,Proposition 42,,,No,70
+Plumas,03,Proposition 42,,,Yes,27
 Plumas,03,Secretary of State,,DEM,Alex Padilla,16
 Plumas,03,Secretary of State,,IND,Dan Schnur,5
 Plumas,03,Secretary of State,,GRN,David Curtis,3
@@ -186,9 +180,7 @@ Plumas,04,Attorney General,,REP,David King,1
 Plumas,04,Attorney General,,REP,John Haggerty,1
 Plumas,04,Attorney General,,LIB,Jonathan Jaech,1
 Plumas,04,Attorney General,,DEM,Kamala D. Harris,5
-Plumas,04,Attorney General,,IND,Orly Taitz,0
 Plumas,04,Attorney General,,REP,Phil Wyman,4
-Plumas,04,Attorney General,,REP,Ronald Gold,0
 Plumas,04,Board of Equalization,1,DEM,Chris Parker,6
 Plumas,04,Board of Equalization,1,REP,George Runner,6
 Plumas,04,Controller,,REP,Ashley Swearengin,3
@@ -196,52 +188,34 @@ Plumas,04,Controller,,DEM,Betty T. Yee,2
 Plumas,04,Controller,,REP,David Evans,4
 Plumas,04,Controller,,DEM,John A. Pérez,2
 Plumas,04,Controller,,GRN,Laura Wells,1
-Plumas,04,Controller,,DEM,Tammy D. Blair,0
-Plumas,04,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,04,Governor,,DEM,Akinyemi Agbede,0
 Plumas,04,Governor,,REP,Alma Marie Winston,1
-Plumas,04,Governor,,REP,Andrew Blount,0
-Plumas,04,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,04,Governor,,DEM,"Edmund G. ""Jerry"" Brown",5
 Plumas,04,Governor,,REP,Glenn Champ,1
-Plumas,04,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,04,Governor,,IND,Joe Leicht,0
-Plumas,04,Governor,,GRN,Luis J. Rodriguez,0
 Plumas,04,Governor,,REP,Neel Kashkari,4
-Plumas,04,Governor,,IND,Rakesh Kumar Christian,0
 Plumas,04,Governor,,REP,Richard William Aguirre,1
-Plumas,04,Governor,,IND,Robert Newman,0
-Plumas,04,Governor,,REP,Tim Donnelly,0
 Plumas,04,Insurance Commissioner,,DEM,Dave Jones,4
-Plumas,04,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Plumas,04,Insurance Commissioner,,REP,Ted Gaines,8
-Plumas,04,Lieutenant Governor,,AME,Alan Reynolds,0
-Plumas,04,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,04,Lieutenant Governor,,REP,David Fennell,1
-Plumas,04,Lieutenant Governor,,DEM,Eric Korevaar,0
 Plumas,04,Lieutenant Governor,,DEM,Gavin Newsom,5
 Plumas,04,Lieutenant Governor,,REP,George Yang,2
 Plumas,04,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Plumas,04,Lieutenant Governor,,REP,Ron Nehring,3
+Plumas,04,Proposition 41,,,No,2
+Plumas,04,Proposition 41,,,Yes,10
+Plumas,04,Proposition 42,,,No,6
+Plumas,04,Proposition 42,,,Yes,5
 Plumas,04,Secretary of State,,DEM,Alex Padilla,3
 Plumas,04,Secretary of State,,IND,Dan Schnur,1
-Plumas,04,Secretary of State,,GRN,David Curtis,0
-Plumas,04,Secretary of State,,DEM,Derek Cressman,0
-Plumas,04,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Plumas,04,Secretary of State,,DEM,Leland Yee,1
 Plumas,04,Secretary of State,,REP,Pete Peterson,7
-Plumas,04,Secretary of State,,REP,Roy Allmond,0
 Plumas,04,State Assembly,1,REP,Brian Dahle,9
 Plumas,04,State Assembly,1,DEM,Brigham Sawyer Smith,3
 Plumas,04,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Plumas,04,Superintendent of Public Instruction,,NOP,Marshall Tuck,5
 Plumas,04,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-Plumas,04,Treasurer,,GRN,Ellen H. Brown,0
 Plumas,04,Treasurer,,REP,Greg Conlon,5
 Plumas,04,Treasurer,,DEM,John Chiang,7
-Plumas,04,U.S. House,1,DEM,Dan Levine,0
 Plumas,04,U.S. House,1,REP,Doug La Malfa,10
-Plumas,04,U.S. House,1,REP,Gregory Cheadle,0
 Plumas,04,U.S. House,1,DEM,Heidi Hall,3
 Plumas,05,Attorney General,,REP,David King,8
 Plumas,05,Attorney General,,REP,John Haggerty,5
@@ -259,8 +233,6 @@ Plumas,05,Controller,,DEM,John A. Pérez,12
 Plumas,05,Controller,,GRN,Laura Wells,7
 Plumas,05,Controller,,DEM,Tammy D. Blair,3
 Plumas,05,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Plumas,05,Governor,,DEM,Akinyemi Agbede,0
-Plumas,05,Governor,,REP,Alma Marie Winston,0
 Plumas,05,Governor,,REP,Andrew Blount,3
 Plumas,05,Governor,,PAF,Cindy L. Sheehan,1
 Plumas,05,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
@@ -269,21 +241,22 @@ Plumas,05,Governor,,IND,Janel Hyeshia Buycks,2
 Plumas,05,Governor,,IND,Joe Leicht,2
 Plumas,05,Governor,,GRN,Luis J. Rodriguez,3
 Plumas,05,Governor,,REP,Neel Kashkari,21
-Plumas,05,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,05,Governor,,REP,Richard William Aguirre,0
 Plumas,05,Governor,,IND,Robert Newman,2
 Plumas,05,Governor,,REP,Tim Donnelly,20
 Plumas,05,Insurance Commissioner,,DEM,Dave Jones,34
 Plumas,05,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Plumas,05,Insurance Commissioner,,REP,Ted Gaines,49
 Plumas,05,Lieutenant Governor,,AME,Alan Reynolds,2
-Plumas,05,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,05,Lieutenant Governor,,REP,David Fennell,9
 Plumas,05,Lieutenant Governor,,DEM,Eric Korevaar,1
 Plumas,05,Lieutenant Governor,,DEM,Gavin Newsom,39
 Plumas,05,Lieutenant Governor,,REP,George Yang,10
 Plumas,05,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Plumas,05,Lieutenant Governor,,REP,Ron Nehring,27
+Plumas,05,Proposition 41,,,No,42
+Plumas,05,Proposition 41,,,Yes,49
+Plumas,05,Proposition 42,,,No,53
+Plumas,05,Proposition 42,,,Yes,38
 Plumas,05,Secretary of State,,DEM,Alex Padilla,19
 Plumas,05,Secretary of State,,IND,Dan Schnur,5
 Plumas,05,Secretary of State,,GRN,David Curtis,6
@@ -320,36 +293,30 @@ Plumas,06,Controller,,DEM,John A. Pérez,2
 Plumas,06,Controller,,GRN,Laura Wells,3
 Plumas,06,Controller,,DEM,Tammy D. Blair,2
 Plumas,06,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Plumas,06,Governor,,DEM,Akinyemi Agbede,0
 Plumas,06,Governor,,REP,Alma Marie Winston,1
 Plumas,06,Governor,,REP,Andrew Blount,1
-Plumas,06,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,06,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Plumas,06,Governor,,REP,Glenn Champ,2
-Plumas,06,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,06,Governor,,IND,Joe Leicht,0
 Plumas,06,Governor,,GRN,Luis J. Rodriguez,1
-Plumas,06,Governor,,REP,Neel Kashkari,0
-Plumas,06,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,06,Governor,,REP,Richard William Aguirre,0
-Plumas,06,Governor,,IND,Robert Newman,0
 Plumas,06,Governor,,REP,Tim Donnelly,7
 Plumas,06,Insurance Commissioner,,DEM,Dave Jones,17
 Plumas,06,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Plumas,06,Insurance Commissioner,,REP,Ted Gaines,11
 Plumas,06,Lieutenant Governor,,AME,Alan Reynolds,1
-Plumas,06,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,06,Lieutenant Governor,,REP,David Fennell,1
 Plumas,06,Lieutenant Governor,,DEM,Eric Korevaar,1
 Plumas,06,Lieutenant Governor,,DEM,Gavin Newsom,18
 Plumas,06,Lieutenant Governor,,REP,George Yang,2
 Plumas,06,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Plumas,06,Lieutenant Governor,,REP,Ron Nehring,8
+Plumas,06,Proposition 41,,,No,13
+Plumas,06,Proposition 41,,,Yes,17
+Plumas,06,Proposition 42,,,No,17
+Plumas,06,Proposition 42,,,Yes,13
 Plumas,06,Secretary of State,,DEM,Alex Padilla,9
 Plumas,06,Secretary of State,,IND,Dan Schnur,3
 Plumas,06,Secretary of State,,GRN,David Curtis,3
 Plumas,06,Secretary of State,,DEM,Derek Cressman,2
-Plumas,06,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Plumas,06,Secretary of State,,DEM,Leland Yee,1
 Plumas,06,Secretary of State,,REP,Pete Peterson,7
 Plumas,06,Secretary of State,,REP,Roy Allmond,4
@@ -380,25 +347,14 @@ Plumas,07,Controller,,REP,David Evans,6
 Plumas,07,Controller,,DEM,John A. Pérez,8
 Plumas,07,Controller,,GRN,Laura Wells,4
 Plumas,07,Controller,,DEM,Tammy D. Blair,4
-Plumas,07,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,07,Governor,,DEM,Akinyemi Agbede,0
-Plumas,07,Governor,,REP,Alma Marie Winston,0
-Plumas,07,Governor,,REP,Andrew Blount,0
 Plumas,07,Governor,,PAF,Cindy L. Sheehan,1
 Plumas,07,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Plumas,07,Governor,,REP,Glenn Champ,7
-Plumas,07,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,07,Governor,,IND,Joe Leicht,0
 Plumas,07,Governor,,GRN,Luis J. Rodriguez,3
 Plumas,07,Governor,,REP,Neel Kashkari,4
-Plumas,07,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,07,Governor,,REP,Richard William Aguirre,0
-Plumas,07,Governor,,IND,Robert Newman,0
 Plumas,07,Governor,,REP,Tim Donnelly,7
 Plumas,07,Insurance Commissioner,,DEM,Dave Jones,26
-Plumas,07,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Plumas,07,Insurance Commissioner,,REP,Ted Gaines,18
-Plumas,07,Lieutenant Governor,,AME,Alan Reynolds,0
 Plumas,07,Lieutenant Governor,,PAF,Amos Johnson,2
 Plumas,07,Lieutenant Governor,,REP,David Fennell,4
 Plumas,07,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -406,6 +362,10 @@ Plumas,07,Lieutenant Governor,,DEM,Gavin Newsom,19
 Plumas,07,Lieutenant Governor,,REP,George Yang,5
 Plumas,07,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Plumas,07,Lieutenant Governor,,REP,Ron Nehring,6
+Plumas,07,Proposition 41,,,No,12
+Plumas,07,Proposition 41,,,Yes,34
+Plumas,07,Proposition 42,,,No,26
+Plumas,07,Proposition 42,,,Yes,19
 Plumas,07,Secretary of State,,DEM,Alex Padilla,3
 Plumas,07,Secretary of State,,IND,Dan Schnur,4
 Plumas,07,Secretary of State,,GRN,David Curtis,3
@@ -426,9 +386,7 @@ Plumas,07,U.S. House,1,DEM,Dan Levine,4
 Plumas,07,U.S. House,1,REP,Doug La Malfa,15
 Plumas,07,U.S. House,1,REP,Gregory Cheadle,3
 Plumas,07,U.S. House,1,DEM,Heidi Hall,23
-Plumas,08,Attorney General,,REP,David King,0
 Plumas,08,Attorney General,,REP,John Haggerty,3
-Plumas,08,Attorney General,,LIB,Jonathan Jaech,0
 Plumas,08,Attorney General,,DEM,Kamala D. Harris,7
 Plumas,08,Attorney General,,IND,Orly Taitz,1
 Plumas,08,Attorney General,,REP,Phil Wyman,4
@@ -441,38 +399,28 @@ Plumas,08,Controller,,REP,David Evans,10
 Plumas,08,Controller,,DEM,John A. Pérez,1
 Plumas,08,Controller,,GRN,Laura Wells,2
 Plumas,08,Controller,,DEM,Tammy D. Blair,1
-Plumas,08,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,08,Governor,,DEM,Akinyemi Agbede,0
-Plumas,08,Governor,,REP,Alma Marie Winston,0
 Plumas,08,Governor,,REP,Andrew Blount,1
-Plumas,08,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,08,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Plumas,08,Governor,,REP,Glenn Champ,0
-Plumas,08,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,08,Governor,,IND,Joe Leicht,0
 Plumas,08,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,08,Governor,,REP,Neel Kashkari,7
-Plumas,08,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,08,Governor,,REP,Richard William Aguirre,0
-Plumas,08,Governor,,IND,Robert Newman,0
 Plumas,08,Governor,,REP,Tim Donnelly,4
 Plumas,08,Insurance Commissioner,,DEM,Dave Jones,6
 Plumas,08,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Plumas,08,Insurance Commissioner,,REP,Ted Gaines,12
-Plumas,08,Lieutenant Governor,,AME,Alan Reynolds,0
-Plumas,08,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,08,Lieutenant Governor,,REP,David Fennell,1
 Plumas,08,Lieutenant Governor,,DEM,Eric Korevaar,2
 Plumas,08,Lieutenant Governor,,DEM,Gavin Newsom,6
 Plumas,08,Lieutenant Governor,,REP,George Yang,3
 Plumas,08,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Plumas,08,Lieutenant Governor,,REP,Ron Nehring,6
+Plumas,08,Proposition 41,,,No,10
+Plumas,08,Proposition 41,,,Yes,9
+Plumas,08,Proposition 42,,,No,6
+Plumas,08,Proposition 42,,,Yes,13
 Plumas,08,Secretary of State,,DEM,Alex Padilla,2
-Plumas,08,Secretary of State,,IND,Dan Schnur,0
 Plumas,08,Secretary of State,,GRN,David Curtis,1
 Plumas,08,Secretary of State,,DEM,Derek Cressman,2
 Plumas,08,Secretary of State,,DEM,Jeffrey H. Drobman,2
-Plumas,08,Secretary of State,,DEM,Leland Yee,0
 Plumas,08,Secretary of State,,REP,Pete Peterson,8
 Plumas,08,Secretary of State,,REP,Roy Allmond,5
 Plumas,08,State Assembly,1,REP,Brian Dahle,13
@@ -483,12 +431,9 @@ Plumas,08,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
 Plumas,08,Treasurer,,GRN,Ellen H. Brown,2
 Plumas,08,Treasurer,,REP,Greg Conlon,11
 Plumas,08,Treasurer,,DEM,John Chiang,6
-Plumas,08,U.S. House,1,DEM,Dan Levine,0
 Plumas,08,U.S. House,1,REP,Doug La Malfa,9
 Plumas,08,U.S. House,1,REP,Gregory Cheadle,4
 Plumas,08,U.S. House,1,DEM,Heidi Hall,7
-Plumas,09,Attorney General,,REP,David King,0
-Plumas,09,Attorney General,,REP,John Haggerty,0
 Plumas,09,Attorney General,,LIB,Jonathan Jaech,1
 Plumas,09,Attorney General,,DEM,Kamala D. Harris,1
 Plumas,09,Attorney General,,IND,Orly Taitz,1
@@ -499,40 +444,24 @@ Plumas,09,Board of Equalization,1,REP,George Runner,4
 Plumas,09,Controller,,REP,Ashley Swearengin,3
 Plumas,09,Controller,,DEM,Betty T. Yee,1
 Plumas,09,Controller,,REP,David Evans,1
-Plumas,09,Controller,,DEM,John A. Pérez,0
 Plumas,09,Controller,,GRN,Laura Wells,1
 Plumas,09,Controller,,DEM,Tammy D. Blair,2
-Plumas,09,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,09,Governor,,DEM,Akinyemi Agbede,0
-Plumas,09,Governor,,REP,Alma Marie Winston,0
-Plumas,09,Governor,,REP,Andrew Blount,0
-Plumas,09,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,09,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Plumas,09,Governor,,REP,Glenn Champ,0
-Plumas,09,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,09,Governor,,IND,Joe Leicht,0
 Plumas,09,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,09,Governor,,REP,Neel Kashkari,4
-Plumas,09,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,09,Governor,,REP,Richard William Aguirre,0
-Plumas,09,Governor,,IND,Robert Newman,0
-Plumas,09,Governor,,REP,Tim Donnelly,0
 Plumas,09,Insurance Commissioner,,DEM,Dave Jones,1
 Plumas,09,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Plumas,09,Insurance Commissioner,,REP,Ted Gaines,6
-Plumas,09,Lieutenant Governor,,AME,Alan Reynolds,0
-Plumas,09,Lieutenant Governor,,PAF,Amos Johnson,0
-Plumas,09,Lieutenant Governor,,REP,David Fennell,0
 Plumas,09,Lieutenant Governor,,DEM,Eric Korevaar,3
 Plumas,09,Lieutenant Governor,,DEM,Gavin Newsom,1
 Plumas,09,Lieutenant Governor,,REP,George Yang,1
-Plumas,09,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Plumas,09,Lieutenant Governor,,REP,Ron Nehring,3
+Plumas,09,Proposition 41,,,No,2
+Plumas,09,Proposition 41,,,Yes,6
+Plumas,09,Proposition 42,,,No,5
+Plumas,09,Proposition 42,,,Yes,3
 Plumas,09,Secretary of State,,DEM,Alex Padilla,1
 Plumas,09,Secretary of State,,IND,Dan Schnur,1
-Plumas,09,Secretary of State,,GRN,David Curtis,0
-Plumas,09,Secretary of State,,DEM,Derek Cressman,0
-Plumas,09,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Plumas,09,Secretary of State,,DEM,Leland Yee,1
 Plumas,09,Secretary of State,,REP,Pete Peterson,4
 Plumas,09,Secretary of State,,REP,Roy Allmond,1
@@ -571,17 +500,13 @@ Plumas,10,Governor,,PAF,Cindy L. Sheehan,1
 Plumas,10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",58
 Plumas,10,Governor,,REP,Glenn Champ,3
 Plumas,10,Governor,,IND,Janel Hyeshia Buycks,2
-Plumas,10,Governor,,IND,Joe Leicht,0
 Plumas,10,Governor,,GRN,Luis J. Rodriguez,3
 Plumas,10,Governor,,REP,Neel Kashkari,21
-Plumas,10,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,10,Governor,,REP,Richard William Aguirre,0
 Plumas,10,Governor,,IND,Robert Newman,3
 Plumas,10,Governor,,REP,Tim Donnelly,22
 Plumas,10,Insurance Commissioner,,DEM,Dave Jones,59
 Plumas,10,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Plumas,10,Insurance Commissioner,,REP,Ted Gaines,53
-Plumas,10,Lieutenant Governor,,AME,Alan Reynolds,0
 Plumas,10,Lieutenant Governor,,PAF,Amos Johnson,1
 Plumas,10,Lieutenant Governor,,REP,David Fennell,7
 Plumas,10,Lieutenant Governor,,DEM,Eric Korevaar,18
@@ -589,6 +514,10 @@ Plumas,10,Lieutenant Governor,,DEM,Gavin Newsom,50
 Plumas,10,Lieutenant Governor,,REP,George Yang,11
 Plumas,10,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Plumas,10,Lieutenant Governor,,REP,Ron Nehring,28
+Plumas,10,Proposition 41,,,No,37
+Plumas,10,Proposition 41,,,Yes,83
+Plumas,10,Proposition 42,,,No,61
+Plumas,10,Proposition 42,,,Yes,59
 Plumas,10,Secretary of State,,DEM,Alex Padilla,24
 Plumas,10,Secretary of State,,IND,Dan Schnur,5
 Plumas,10,Secretary of State,,GRN,David Curtis,4
@@ -625,7 +554,6 @@ Plumas,11,Controller,,DEM,John A. Pérez,31
 Plumas,11,Controller,,GRN,Laura Wells,24
 Plumas,11,Controller,,DEM,Tammy D. Blair,23
 Plumas,11,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Plumas,11,Governor,,DEM,Akinyemi Agbede,0
 Plumas,11,Governor,,REP,Alma Marie Winston,6
 Plumas,11,Governor,,REP,Andrew Blount,5
 Plumas,11,Governor,,PAF,Cindy L. Sheehan,5
@@ -635,7 +563,6 @@ Plumas,11,Governor,,IND,Janel Hyeshia Buycks,1
 Plumas,11,Governor,,IND,Joe Leicht,1
 Plumas,11,Governor,,GRN,Luis J. Rodriguez,4
 Plumas,11,Governor,,REP,Neel Kashkari,31
-Plumas,11,Governor,,IND,Rakesh Kumar Christian,0
 Plumas,11,Governor,,REP,Richard William Aguirre,2
 Plumas,11,Governor,,IND,Robert Newman,7
 Plumas,11,Governor,,REP,Tim Donnelly,43
@@ -650,6 +577,10 @@ Plumas,11,Lieutenant Governor,,DEM,Gavin Newsom,82
 Plumas,11,Lieutenant Governor,,REP,George Yang,23
 Plumas,11,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Plumas,11,Lieutenant Governor,,REP,Ron Nehring,48
+Plumas,11,Proposition 41,,,No,78
+Plumas,11,Proposition 41,,,Yes,127
+Plumas,11,Proposition 42,,,No,116
+Plumas,11,Proposition 42,,,Yes,86
 Plumas,11,Secretary of State,,DEM,Alex Padilla,39
 Plumas,11,Secretary of State,,IND,Dan Schnur,15
 Plumas,11,Secretary of State,,GRN,David Curtis,12
@@ -686,18 +617,13 @@ Plumas,12,Controller,,DEM,John A. Pérez,18
 Plumas,12,Controller,,GRN,Laura Wells,10
 Plumas,12,Controller,,DEM,Tammy D. Blair,3
 Plumas,12,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Plumas,12,Governor,,DEM,Akinyemi Agbede,0
 Plumas,12,Governor,,REP,Alma Marie Winston,4
 Plumas,12,Governor,,REP,Andrew Blount,5
-Plumas,12,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",47
 Plumas,12,Governor,,REP,Glenn Champ,10
-Plumas,12,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,12,Governor,,IND,Joe Leicht,2
 Plumas,12,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,12,Governor,,REP,Neel Kashkari,44
-Plumas,12,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,12,Governor,,REP,Richard William Aguirre,0
 Plumas,12,Governor,,IND,Robert Newman,3
 Plumas,12,Governor,,REP,Tim Donnelly,44
 Plumas,12,Insurance Commissioner,,DEM,Dave Jones,46
@@ -711,6 +637,10 @@ Plumas,12,Lieutenant Governor,,DEM,Gavin Newsom,40
 Plumas,12,Lieutenant Governor,,REP,George Yang,21
 Plumas,12,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Plumas,12,Lieutenant Governor,,REP,Ron Nehring,57
+Plumas,12,Proposition 41,,,No,73
+Plumas,12,Proposition 41,,,Yes,86
+Plumas,12,Proposition 42,,,No,85
+Plumas,12,Proposition 42,,,Yes,70
 Plumas,12,Secretary of State,,DEM,Alex Padilla,16
 Plumas,12,Secretary of State,,IND,Dan Schnur,10
 Plumas,12,Secretary of State,,GRN,David Curtis,6
@@ -746,18 +676,14 @@ Plumas,13,Controller,,REP,David Evans,201
 Plumas,13,Controller,,DEM,John A. Pérez,54
 Plumas,13,Controller,,GRN,Laura Wells,28
 Plumas,13,Controller,,DEM,Tammy D. Blair,22
-Plumas,13,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,13,Governor,,DEM,Akinyemi Agbede,0
 Plumas,13,Governor,,REP,Alma Marie Winston,7
 Plumas,13,Governor,,REP,Andrew Blount,20
-Plumas,13,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,13,Governor,,DEM,"Edmund G. ""Jerry"" Brown",197
 Plumas,13,Governor,,REP,Glenn Champ,8
 Plumas,13,Governor,,IND,Janel Hyeshia Buycks,1
 Plumas,13,Governor,,IND,Joe Leicht,3
 Plumas,13,Governor,,GRN,Luis J. Rodriguez,2
 Plumas,13,Governor,,REP,Neel Kashkari,145
-Plumas,13,Governor,,IND,Rakesh Kumar Christian,0
 Plumas,13,Governor,,REP,Richard William Aguirre,8
 Plumas,13,Governor,,IND,Robert Newman,6
 Plumas,13,Governor,,REP,Tim Donnelly,112
@@ -772,6 +698,10 @@ Plumas,13,Lieutenant Governor,,DEM,Gavin Newsom,163
 Plumas,13,Lieutenant Governor,,REP,George Yang,73
 Plumas,13,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Plumas,13,Lieutenant Governor,,REP,Ron Nehring,162
+Plumas,13,Proposition 41,,,No,205
+Plumas,13,Proposition 41,,,Yes,299
+Plumas,13,Proposition 42,,,No,270
+Plumas,13,Proposition 42,,,Yes,224
 Plumas,13,Secretary of State,,DEM,Alex Padilla,77
 Plumas,13,Secretary of State,,IND,Dan Schnur,53
 Plumas,13,Secretary of State,,GRN,David Curtis,8
@@ -819,7 +749,6 @@ Plumas,14,Governor,,IND,Joe Leicht,2
 Plumas,14,Governor,,GRN,Luis J. Rodriguez,11
 Plumas,14,Governor,,REP,Neel Kashkari,137
 Plumas,14,Governor,,IND,Rakesh Kumar Christian,2
-Plumas,14,Governor,,REP,Richard William Aguirre,0
 Plumas,14,Governor,,IND,Robert Newman,3
 Plumas,14,Governor,,REP,Tim Donnelly,101
 Plumas,14,Insurance Commissioner,,DEM,Dave Jones,155
@@ -833,6 +762,10 @@ Plumas,14,Lieutenant Governor,,DEM,Gavin Newsom,141
 Plumas,14,Lieutenant Governor,,REP,George Yang,71
 Plumas,14,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Plumas,14,Lieutenant Governor,,REP,Ron Nehring,136
+Plumas,14,Proposition 41,,,No,202
+Plumas,14,Proposition 41,,,Yes,257
+Plumas,14,Proposition 42,,,No,256
+Plumas,14,Proposition 42,,,Yes,190
 Plumas,14,Secretary of State,,DEM,Alex Padilla,96
 Plumas,14,Secretary of State,,IND,Dan Schnur,46
 Plumas,14,Secretary of State,,GRN,David Curtis,11
@@ -875,25 +808,23 @@ Plumas,15,Governor,,REP,Andrew Blount,7
 Plumas,15,Governor,,PAF,Cindy L. Sheehan,3
 Plumas,15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",55
 Plumas,15,Governor,,REP,Glenn Champ,4
-Plumas,15,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,15,Governor,,IND,Joe Leicht,0
 Plumas,15,Governor,,GRN,Luis J. Rodriguez,8
 Plumas,15,Governor,,REP,Neel Kashkari,36
 Plumas,15,Governor,,IND,Rakesh Kumar Christian,1
-Plumas,15,Governor,,REP,Richard William Aguirre,0
-Plumas,15,Governor,,IND,Robert Newman,0
 Plumas,15,Governor,,REP,Tim Donnelly,39
 Plumas,15,Insurance Commissioner,,DEM,Dave Jones,48
 Plumas,15,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Plumas,15,Insurance Commissioner,,REP,Ted Gaines,93
-Plumas,15,Lieutenant Governor,,AME,Alan Reynolds,0
-Plumas,15,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,15,Lieutenant Governor,,REP,David Fennell,28
 Plumas,15,Lieutenant Governor,,DEM,Eric Korevaar,8
 Plumas,15,Lieutenant Governor,,DEM,Gavin Newsom,52
 Plumas,15,Lieutenant Governor,,REP,George Yang,15
 Plumas,15,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Plumas,15,Lieutenant Governor,,REP,Ron Nehring,44
+Plumas,15,Proposition 41,,,No,69
+Plumas,15,Proposition 41,,,Yes,93
+Plumas,15,Proposition 42,,,No,95
+Plumas,15,Proposition 42,,,Yes,66
 Plumas,15,Secretary of State,,DEM,Alex Padilla,18
 Plumas,15,Secretary of State,,IND,Dan Schnur,4
 Plumas,15,Secretary of State,,GRN,David Curtis,9
@@ -929,25 +860,20 @@ Plumas,16,Controller,,REP,David Evans,73
 Plumas,16,Controller,,DEM,John A. Pérez,28
 Plumas,16,Controller,,GRN,Laura Wells,11
 Plumas,16,Controller,,DEM,Tammy D. Blair,8
-Plumas,16,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,16,Governor,,DEM,Akinyemi Agbede,0
 Plumas,16,Governor,,REP,Alma Marie Winston,5
 Plumas,16,Governor,,REP,Andrew Blount,9
 Plumas,16,Governor,,PAF,Cindy L. Sheehan,3
 Plumas,16,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 Plumas,16,Governor,,REP,Glenn Champ,6
-Plumas,16,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,16,Governor,,IND,Joe Leicht,1
 Plumas,16,Governor,,GRN,Luis J. Rodriguez,2
 Plumas,16,Governor,,REP,Neel Kashkari,39
 Plumas,16,Governor,,IND,Rakesh Kumar Christian,1
-Plumas,16,Governor,,REP,Richard William Aguirre,0
 Plumas,16,Governor,,IND,Robert Newman,1
 Plumas,16,Governor,,REP,Tim Donnelly,46
 Plumas,16,Insurance Commissioner,,DEM,Dave Jones,62
 Plumas,16,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Plumas,16,Insurance Commissioner,,REP,Ted Gaines,113
-Plumas,16,Lieutenant Governor,,AME,Alan Reynolds,0
 Plumas,16,Lieutenant Governor,,PAF,Amos Johnson,4
 Plumas,16,Lieutenant Governor,,REP,David Fennell,19
 Plumas,16,Lieutenant Governor,,DEM,Eric Korevaar,10
@@ -955,6 +881,10 @@ Plumas,16,Lieutenant Governor,,DEM,Gavin Newsom,65
 Plumas,16,Lieutenant Governor,,REP,George Yang,31
 Plumas,16,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Plumas,16,Lieutenant Governor,,REP,Ron Nehring,49
+Plumas,16,Proposition 41,,,No,78
+Plumas,16,Proposition 41,,,Yes,114
+Plumas,16,Proposition 42,,,No,110
+Plumas,16,Proposition 42,,,Yes,78
 Plumas,16,Secretary of State,,DEM,Alex Padilla,42
 Plumas,16,Secretary of State,,IND,Dan Schnur,10
 Plumas,16,Secretary of State,,GRN,David Curtis,7
@@ -1001,7 +931,6 @@ Plumas,17,Governor,,IND,Janel Hyeshia Buycks,2
 Plumas,17,Governor,,IND,Joe Leicht,4
 Plumas,17,Governor,,GRN,Luis J. Rodriguez,4
 Plumas,17,Governor,,REP,Neel Kashkari,91
-Plumas,17,Governor,,IND,Rakesh Kumar Christian,0
 Plumas,17,Governor,,REP,Richard William Aguirre,2
 Plumas,17,Governor,,IND,Robert Newman,9
 Plumas,17,Governor,,REP,Tim Donnelly,77
@@ -1016,6 +945,10 @@ Plumas,17,Lieutenant Governor,,DEM,Gavin Newsom,131
 Plumas,17,Lieutenant Governor,,REP,George Yang,40
 Plumas,17,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Plumas,17,Lieutenant Governor,,REP,Ron Nehring,90
+Plumas,17,Proposition 41,,,No,161
+Plumas,17,Proposition 41,,,Yes,195
+Plumas,17,Proposition 42,,,No,228
+Plumas,17,Proposition 42,,,Yes,124
 Plumas,17,Secretary of State,,DEM,Alex Padilla,62
 Plumas,17,Secretary of State,,IND,Dan Schnur,36
 Plumas,17,Secretary of State,,GRN,David Curtis,19
@@ -1051,32 +984,27 @@ Plumas,18,Controller,,REP,David Evans,43
 Plumas,18,Controller,,DEM,John A. Pérez,10
 Plumas,18,Controller,,GRN,Laura Wells,8
 Plumas,18,Controller,,DEM,Tammy D. Blair,5
-Plumas,18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Plumas,18,Governor,,DEM,Akinyemi Agbede,1
-Plumas,18,Governor,,REP,Alma Marie Winston,0
 Plumas,18,Governor,,REP,Andrew Blount,1
 Plumas,18,Governor,,PAF,Cindy L. Sheehan,2
 Plumas,18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
-Plumas,18,Governor,,REP,Glenn Champ,0
 Plumas,18,Governor,,IND,Janel Hyeshia Buycks,1
-Plumas,18,Governor,,IND,Joe Leicht,0
-Plumas,18,Governor,,GRN,Luis J. Rodriguez,0
 Plumas,18,Governor,,REP,Neel Kashkari,27
-Plumas,18,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,18,Governor,,REP,Richard William Aguirre,0
 Plumas,18,Governor,,IND,Robert Newman,3
 Plumas,18,Governor,,REP,Tim Donnelly,32
 Plumas,18,Insurance Commissioner,,DEM,Dave Jones,39
 Plumas,18,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Plumas,18,Insurance Commissioner,,REP,Ted Gaines,67
-Plumas,18,Lieutenant Governor,,AME,Alan Reynolds,0
-Plumas,18,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,18,Lieutenant Governor,,REP,David Fennell,10
 Plumas,18,Lieutenant Governor,,DEM,Eric Korevaar,3
 Plumas,18,Lieutenant Governor,,DEM,Gavin Newsom,38
 Plumas,18,Lieutenant Governor,,REP,George Yang,14
 Plumas,18,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Plumas,18,Lieutenant Governor,,REP,Ron Nehring,35
+Plumas,18,Proposition 41,,,No,46
+Plumas,18,Proposition 41,,,Yes,60
+Plumas,18,Proposition 42,,,No,71
+Plumas,18,Proposition 42,,,Yes,35
 Plumas,18,Secretary of State,,DEM,Alex Padilla,18
 Plumas,18,Secretary of State,,IND,Dan Schnur,9
 Plumas,18,Secretary of State,,GRN,David Curtis,7
@@ -1119,12 +1047,9 @@ Plumas,19,Governor,,REP,Andrew Blount,2
 Plumas,19,Governor,,PAF,Cindy L. Sheehan,3
 Plumas,19,Governor,,DEM,"Edmund G. ""Jerry"" Brown",137
 Plumas,19,Governor,,REP,Glenn Champ,3
-Plumas,19,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,19,Governor,,IND,Joe Leicht,3
 Plumas,19,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,19,Governor,,REP,Neel Kashkari,68
-Plumas,19,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,19,Governor,,REP,Richard William Aguirre,0
 Plumas,19,Governor,,IND,Robert Newman,4
 Plumas,19,Governor,,REP,Tim Donnelly,59
 Plumas,19,Insurance Commissioner,,DEM,Dave Jones,114
@@ -1138,6 +1063,10 @@ Plumas,19,Lieutenant Governor,,DEM,Gavin Newsom,119
 Plumas,19,Lieutenant Governor,,REP,George Yang,32
 Plumas,19,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Plumas,19,Lieutenant Governor,,REP,Ron Nehring,68
+Plumas,19,Proposition 41,,,No,123
+Plumas,19,Proposition 41,,,Yes,153
+Plumas,19,Proposition 42,,,No,173
+Plumas,19,Proposition 42,,,Yes,101
 Plumas,19,Secretary of State,,DEM,Alex Padilla,56
 Plumas,19,Secretary of State,,IND,Dan Schnur,22
 Plumas,19,Secretary of State,,GRN,David Curtis,9
@@ -1173,7 +1102,6 @@ Plumas,20,Controller,,REP,David Evans,50
 Plumas,20,Controller,,DEM,John A. Pérez,27
 Plumas,20,Controller,,GRN,Laura Wells,16
 Plumas,20,Controller,,DEM,Tammy D. Blair,3
-Plumas,20,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Plumas,20,Governor,,DEM,Akinyemi Agbede,3
 Plumas,20,Governor,,REP,Alma Marie Winston,3
 Plumas,20,Governor,,REP,Andrew Blount,6
@@ -1181,10 +1109,8 @@ Plumas,20,Governor,,PAF,Cindy L. Sheehan,4
 Plumas,20,Governor,,DEM,"Edmund G. ""Jerry"" Brown",91
 Plumas,20,Governor,,REP,Glenn Champ,2
 Plumas,20,Governor,,IND,Janel Hyeshia Buycks,1
-Plumas,20,Governor,,IND,Joe Leicht,0
 Plumas,20,Governor,,GRN,Luis J. Rodriguez,4
 Plumas,20,Governor,,REP,Neel Kashkari,24
-Plumas,20,Governor,,IND,Rakesh Kumar Christian,0
 Plumas,20,Governor,,REP,Richard William Aguirre,1
 Plumas,20,Governor,,IND,Robert Newman,2
 Plumas,20,Governor,,REP,Tim Donnelly,32
@@ -1199,6 +1125,10 @@ Plumas,20,Lieutenant Governor,,DEM,Gavin Newsom,84
 Plumas,20,Lieutenant Governor,,REP,George Yang,21
 Plumas,20,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Plumas,20,Lieutenant Governor,,REP,Ron Nehring,35
+Plumas,20,Proposition 41,,,No,45
+Plumas,20,Proposition 41,,,Yes,125
+Plumas,20,Proposition 42,,,No,98
+Plumas,20,Proposition 42,,,Yes,65
 Plumas,20,Secretary of State,,DEM,Alex Padilla,30
 Plumas,20,Secretary of State,,IND,Dan Schnur,10
 Plumas,20,Secretary of State,,GRN,David Curtis,8
@@ -1234,19 +1164,13 @@ Plumas,21,Controller,,REP,David Evans,49
 Plumas,21,Controller,,DEM,John A. Pérez,39
 Plumas,21,Controller,,GRN,Laura Wells,9
 Plumas,21,Controller,,DEM,Tammy D. Blair,3
-Plumas,21,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,21,Governor,,DEM,Akinyemi Agbede,0
 Plumas,21,Governor,,REP,Alma Marie Winston,5
 Plumas,21,Governor,,REP,Andrew Blount,1
-Plumas,21,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,21,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Plumas,21,Governor,,REP,Glenn Champ,6
-Plumas,21,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,21,Governor,,IND,Joe Leicht,1
 Plumas,21,Governor,,GRN,Luis J. Rodriguez,2
 Plumas,21,Governor,,REP,Neel Kashkari,20
-Plumas,21,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,21,Governor,,REP,Richard William Aguirre,0
 Plumas,21,Governor,,IND,Robert Newman,4
 Plumas,21,Governor,,REP,Tim Donnelly,32
 Plumas,21,Insurance Commissioner,,DEM,Dave Jones,95
@@ -1260,6 +1184,10 @@ Plumas,21,Lieutenant Governor,,DEM,Gavin Newsom,93
 Plumas,21,Lieutenant Governor,,REP,George Yang,21
 Plumas,21,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Plumas,21,Lieutenant Governor,,REP,Ron Nehring,31
+Plumas,21,Proposition 41,,,No,55
+Plumas,21,Proposition 41,,,Yes,114
+Plumas,21,Proposition 42,,,No,90
+Plumas,21,Proposition 42,,,Yes,77
 Plumas,21,Secretary of State,,DEM,Alex Padilla,49
 Plumas,21,Secretary of State,,IND,Dan Schnur,13
 Plumas,21,Secretary of State,,GRN,David Curtis,10
@@ -1295,19 +1223,14 @@ Plumas,22,Controller,,REP,David Evans,33
 Plumas,22,Controller,,DEM,John A. Pérez,11
 Plumas,22,Controller,,GRN,Laura Wells,5
 Plumas,22,Controller,,DEM,Tammy D. Blair,7
-Plumas,22,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Plumas,22,Governor,,DEM,Akinyemi Agbede,0
 Plumas,22,Governor,,REP,Alma Marie Winston,3
 Plumas,22,Governor,,REP,Andrew Blount,2
 Plumas,22,Governor,,PAF,Cindy L. Sheehan,2
 Plumas,22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Plumas,22,Governor,,REP,Glenn Champ,3
 Plumas,22,Governor,,IND,Janel Hyeshia Buycks,1
-Plumas,22,Governor,,IND,Joe Leicht,0
 Plumas,22,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,22,Governor,,REP,Neel Kashkari,17
-Plumas,22,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,22,Governor,,REP,Richard William Aguirre,0
 Plumas,22,Governor,,IND,Robert Newman,1
 Plumas,22,Governor,,REP,Tim Donnelly,15
 Plumas,22,Insurance Commissioner,,DEM,Dave Jones,31
@@ -1321,6 +1244,10 @@ Plumas,22,Lieutenant Governor,,DEM,Gavin Newsom,27
 Plumas,22,Lieutenant Governor,,REP,George Yang,8
 Plumas,22,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Plumas,22,Lieutenant Governor,,REP,Ron Nehring,21
+Plumas,22,Proposition 41,,,No,29
+Plumas,22,Proposition 41,,,Yes,47
+Plumas,22,Proposition 42,,,No,43
+Plumas,22,Proposition 42,,,Yes,31
 Plumas,22,Secretary of State,,DEM,Alex Padilla,14
 Plumas,22,Secretary of State,,IND,Dan Schnur,5
 Plumas,22,Secretary of State,,GRN,David Curtis,3
@@ -1356,19 +1283,15 @@ Plumas,23,Controller,,REP,David Evans,52
 Plumas,23,Controller,,DEM,John A. Pérez,31
 Plumas,23,Controller,,GRN,Laura Wells,20
 Plumas,23,Controller,,DEM,Tammy D. Blair,8
-Plumas,23,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Plumas,23,Governor,,DEM,Akinyemi Agbede,1
-Plumas,23,Governor,,REP,Alma Marie Winston,0
 Plumas,23,Governor,,REP,Andrew Blount,3
 Plumas,23,Governor,,PAF,Cindy L. Sheehan,2
 Plumas,23,Governor,,DEM,"Edmund G. ""Jerry"" Brown",97
 Plumas,23,Governor,,REP,Glenn Champ,4
-Plumas,23,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,23,Governor,,IND,Joe Leicht,2
 Plumas,23,Governor,,GRN,Luis J. Rodriguez,7
 Plumas,23,Governor,,REP,Neel Kashkari,35
 Plumas,23,Governor,,IND,Rakesh Kumar Christian,1
-Plumas,23,Governor,,REP,Richard William Aguirre,0
 Plumas,23,Governor,,IND,Robert Newman,3
 Plumas,23,Governor,,REP,Tim Donnelly,35
 Plumas,23,Insurance Commissioner,,DEM,Dave Jones,95
@@ -1382,6 +1305,10 @@ Plumas,23,Lieutenant Governor,,DEM,Gavin Newsom,83
 Plumas,23,Lieutenant Governor,,REP,George Yang,22
 Plumas,23,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Plumas,23,Lieutenant Governor,,REP,Ron Nehring,37
+Plumas,23,Proposition 41,,,No,65
+Plumas,23,Proposition 41,,,Yes,124
+Plumas,23,Proposition 42,,,No,96
+Plumas,23,Proposition 42,,,Yes,88
 Plumas,23,Secretary of State,,DEM,Alex Padilla,44
 Plumas,23,Secretary of State,,IND,Dan Schnur,7
 Plumas,23,Secretary of State,,GRN,David Curtis,14
@@ -1418,7 +1345,6 @@ Plumas,24,Controller,,DEM,John A. Pérez,21
 Plumas,24,Controller,,GRN,Laura Wells,8
 Plumas,24,Controller,,DEM,Tammy D. Blair,7
 Plumas,24,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Plumas,24,Governor,,DEM,Akinyemi Agbede,0
 Plumas,24,Governor,,REP,Alma Marie Winston,4
 Plumas,24,Governor,,REP,Andrew Blount,2
 Plumas,24,Governor,,PAF,Cindy L. Sheehan,4
@@ -1428,21 +1354,22 @@ Plumas,24,Governor,,IND,Janel Hyeshia Buycks,1
 Plumas,24,Governor,,IND,Joe Leicht,1
 Plumas,24,Governor,,GRN,Luis J. Rodriguez,4
 Plumas,24,Governor,,REP,Neel Kashkari,24
-Plumas,24,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,24,Governor,,REP,Richard William Aguirre,0
 Plumas,24,Governor,,IND,Robert Newman,4
 Plumas,24,Governor,,REP,Tim Donnelly,23
 Plumas,24,Insurance Commissioner,,DEM,Dave Jones,46
 Plumas,24,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Plumas,24,Insurance Commissioner,,REP,Ted Gaines,54
 Plumas,24,Lieutenant Governor,,AME,Alan Reynolds,3
-Plumas,24,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,24,Lieutenant Governor,,REP,David Fennell,14
 Plumas,24,Lieutenant Governor,,DEM,Eric Korevaar,4
 Plumas,24,Lieutenant Governor,,DEM,Gavin Newsom,45
 Plumas,24,Lieutenant Governor,,REP,George Yang,10
 Plumas,24,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Plumas,24,Lieutenant Governor,,REP,Ron Nehring,26
+Plumas,24,Proposition 41,,,No,41
+Plumas,24,Proposition 41,,,Yes,75
+Plumas,24,Proposition 42,,,No,67
+Plumas,24,Proposition 42,,,Yes,44
 Plumas,24,Secretary of State,,DEM,Alex Padilla,19
 Plumas,24,Secretary of State,,IND,Dan Schnur,10
 Plumas,24,Secretary of State,,GRN,David Curtis,7
@@ -1489,8 +1416,6 @@ Plumas,25,Governor,,IND,Janel Hyeshia Buycks,2
 Plumas,25,Governor,,IND,Joe Leicht,1
 Plumas,25,Governor,,GRN,Luis J. Rodriguez,4
 Plumas,25,Governor,,REP,Neel Kashkari,35
-Plumas,25,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,25,Governor,,REP,Richard William Aguirre,0
 Plumas,25,Governor,,IND,Robert Newman,2
 Plumas,25,Governor,,REP,Tim Donnelly,47
 Plumas,25,Insurance Commissioner,,DEM,Dave Jones,85
@@ -1504,6 +1429,10 @@ Plumas,25,Lieutenant Governor,,DEM,Gavin Newsom,76
 Plumas,25,Lieutenant Governor,,REP,George Yang,13
 Plumas,25,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Plumas,25,Lieutenant Governor,,REP,Ron Nehring,53
+Plumas,25,Proposition 41,,,No,77
+Plumas,25,Proposition 41,,,Yes,113
+Plumas,25,Proposition 42,,,No,104
+Plumas,25,Proposition 42,,,Yes,79
 Plumas,25,Secretary of State,,DEM,Alex Padilla,39
 Plumas,25,Secretary of State,,IND,Dan Schnur,16
 Plumas,25,Secretary of State,,GRN,David Curtis,9
@@ -1528,7 +1457,6 @@ Plumas,26,Attorney General,,REP,David King,11
 Plumas,26,Attorney General,,REP,John Haggerty,36
 Plumas,26,Attorney General,,LIB,Jonathan Jaech,1
 Plumas,26,Attorney General,,DEM,Kamala D. Harris,49
-Plumas,26,Attorney General,,IND,Orly Taitz,0
 Plumas,26,Attorney General,,REP,Phil Wyman,38
 Plumas,26,Attorney General,,REP,Ronald Gold,26
 Plumas,26,Board of Equalization,1,DEM,Chris Parker,42
@@ -1539,15 +1467,12 @@ Plumas,26,Controller,,REP,David Evans,76
 Plumas,26,Controller,,DEM,John A. Pérez,15
 Plumas,26,Controller,,GRN,Laura Wells,7
 Plumas,26,Controller,,DEM,Tammy D. Blair,3
-Plumas,26,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Plumas,26,Governor,,DEM,Akinyemi Agbede,1
 Plumas,26,Governor,,REP,Alma Marie Winston,2
 Plumas,26,Governor,,REP,Andrew Blount,6
 Plumas,26,Governor,,PAF,Cindy L. Sheehan,1
 Plumas,26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Plumas,26,Governor,,REP,Glenn Champ,2
-Plumas,26,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,26,Governor,,IND,Joe Leicht,0
 Plumas,26,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,26,Governor,,REP,Neel Kashkari,46
 Plumas,26,Governor,,IND,Rakesh Kumar Christian,1
@@ -1558,13 +1483,16 @@ Plumas,26,Insurance Commissioner,,DEM,Dave Jones,54
 Plumas,26,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Plumas,26,Insurance Commissioner,,REP,Ted Gaines,108
 Plumas,26,Lieutenant Governor,,AME,Alan Reynolds,2
-Plumas,26,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,26,Lieutenant Governor,,REP,David Fennell,12
 Plumas,26,Lieutenant Governor,,DEM,Eric Korevaar,12
 Plumas,26,Lieutenant Governor,,DEM,Gavin Newsom,45
 Plumas,26,Lieutenant Governor,,REP,George Yang,36
 Plumas,26,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Plumas,26,Lieutenant Governor,,REP,Ron Nehring,59
+Plumas,26,Proposition 41,,,No,79
+Plumas,26,Proposition 41,,,Yes,88
+Plumas,26,Proposition 42,,,No,95
+Plumas,26,Proposition 42,,,Yes,66
 Plumas,26,Secretary of State,,DEM,Alex Padilla,16
 Plumas,26,Secretary of State,,IND,Dan Schnur,15
 Plumas,26,Secretary of State,,GRN,David Curtis,3
@@ -1601,14 +1529,10 @@ Plumas,27,Controller,,DEM,John A. Pérez,27
 Plumas,27,Controller,,GRN,Laura Wells,18
 Plumas,27,Controller,,DEM,Tammy D. Blair,8
 Plumas,27,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Plumas,27,Governor,,DEM,Akinyemi Agbede,0
 Plumas,27,Governor,,REP,Alma Marie Winston,4
 Plumas,27,Governor,,REP,Andrew Blount,11
-Plumas,27,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",91
 Plumas,27,Governor,,REP,Glenn Champ,11
-Plumas,27,Governor,,IND,Janel Hyeshia Buycks,0
-Plumas,27,Governor,,IND,Joe Leicht,0
 Plumas,27,Governor,,GRN,Luis J. Rodriguez,6
 Plumas,27,Governor,,REP,Neel Kashkari,77
 Plumas,27,Governor,,IND,Rakesh Kumar Christian,2
@@ -1619,13 +1543,16 @@ Plumas,27,Insurance Commissioner,,DEM,Dave Jones,88
 Plumas,27,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Plumas,27,Insurance Commissioner,,REP,Ted Gaines,175
 Plumas,27,Lieutenant Governor,,AME,Alan Reynolds,4
-Plumas,27,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,27,Lieutenant Governor,,REP,David Fennell,47
 Plumas,27,Lieutenant Governor,,DEM,Eric Korevaar,15
 Plumas,27,Lieutenant Governor,,DEM,Gavin Newsom,78
 Plumas,27,Lieutenant Governor,,REP,George Yang,35
 Plumas,27,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Plumas,27,Lieutenant Governor,,REP,Ron Nehring,93
+Plumas,27,Proposition 41,,,No,128
+Plumas,27,Proposition 41,,,Yes,151
+Plumas,27,Proposition 42,,,No,148
+Plumas,27,Proposition 42,,,Yes,125
 Plumas,27,Secretary of State,,DEM,Alex Padilla,31
 Plumas,27,Secretary of State,,IND,Dan Schnur,22
 Plumas,27,Secretary of State,,GRN,David Curtis,10
@@ -1665,15 +1592,11 @@ Plumas,28,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Plumas,28,Governor,,DEM,Akinyemi Agbede,3
 Plumas,28,Governor,,REP,Alma Marie Winston,4
 Plumas,28,Governor,,REP,Andrew Blount,5
-Plumas,28,Governor,,PAF,Cindy L. Sheehan,0
 Plumas,28,Governor,,DEM,"Edmund G. ""Jerry"" Brown",86
 Plumas,28,Governor,,REP,Glenn Champ,11
-Plumas,28,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,28,Governor,,IND,Joe Leicht,2
 Plumas,28,Governor,,GRN,Luis J. Rodriguez,3
 Plumas,28,Governor,,REP,Neel Kashkari,42
-Plumas,28,Governor,,IND,Rakesh Kumar Christian,0
-Plumas,28,Governor,,REP,Richard William Aguirre,0
 Plumas,28,Governor,,IND,Robert Newman,7
 Plumas,28,Governor,,REP,Tim Donnelly,96
 Plumas,28,Insurance Commissioner,,DEM,Dave Jones,73
@@ -1687,6 +1610,10 @@ Plumas,28,Lieutenant Governor,,DEM,Gavin Newsom,73
 Plumas,28,Lieutenant Governor,,REP,George Yang,35
 Plumas,28,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Plumas,28,Lieutenant Governor,,REP,Ron Nehring,90
+Plumas,28,Proposition 41,,,No,112
+Plumas,28,Proposition 41,,,Yes,138
+Plumas,28,Proposition 42,,,No,147
+Plumas,28,Proposition 42,,,Yes,101
 Plumas,28,Secretary of State,,DEM,Alex Padilla,28
 Plumas,28,Secretary of State,,IND,Dan Schnur,13
 Plumas,28,Secretary of State,,GRN,David Curtis,6
@@ -1723,31 +1650,31 @@ Plumas,29,Controller,,DEM,John A. Pérez,31
 Plumas,29,Controller,,GRN,Laura Wells,9
 Plumas,29,Controller,,DEM,Tammy D. Blair,10
 Plumas,29,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Plumas,29,Governor,,DEM,Akinyemi Agbede,0
 Plumas,29,Governor,,REP,Alma Marie Winston,5
 Plumas,29,Governor,,REP,Andrew Blount,11
 Plumas,29,Governor,,PAF,Cindy L. Sheehan,1
 Plumas,29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Plumas,29,Governor,,REP,Glenn Champ,7
-Plumas,29,Governor,,IND,Janel Hyeshia Buycks,0
 Plumas,29,Governor,,IND,Joe Leicht,2
 Plumas,29,Governor,,GRN,Luis J. Rodriguez,1
 Plumas,29,Governor,,REP,Neel Kashkari,89
 Plumas,29,Governor,,IND,Rakesh Kumar Christian,3
-Plumas,29,Governor,,REP,Richard William Aguirre,0
 Plumas,29,Governor,,IND,Robert Newman,3
 Plumas,29,Governor,,REP,Tim Donnelly,75
 Plumas,29,Insurance Commissioner,,DEM,Dave Jones,97
 Plumas,29,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Plumas,29,Insurance Commissioner,,REP,Ted Gaines,210
 Plumas,29,Lieutenant Governor,,AME,Alan Reynolds,6
-Plumas,29,Lieutenant Governor,,PAF,Amos Johnson,0
 Plumas,29,Lieutenant Governor,,REP,David Fennell,40
 Plumas,29,Lieutenant Governor,,DEM,Eric Korevaar,8
 Plumas,29,Lieutenant Governor,,DEM,Gavin Newsom,92
 Plumas,29,Lieutenant Governor,,REP,George Yang,45
 Plumas,29,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Plumas,29,Lieutenant Governor,,REP,Ron Nehring,108
+Plumas,29,Proposition 41,,,No,135
+Plumas,29,Proposition 41,,,Yes,174
+Plumas,29,Proposition 42,,,No,186
+Plumas,29,Proposition 42,,,Yes,118
 Plumas,29,Secretary of State,,DEM,Alex Padilla,40
 Plumas,29,Secretary of State,,IND,Dan Schnur,20
 Plumas,29,Secretary of State,,GRN,David Curtis,1

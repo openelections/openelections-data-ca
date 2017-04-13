@@ -23,9 +23,7 @@ Sierra,001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
 Sierra,001,Governor,,REP,Glenn Champ,3
 Sierra,001,Governor,,IND,Janel Hyeshia Buycks,1
 Sierra,001,Governor,,IND,Joe Leicht,2
-Sierra,001,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,001,Governor,,REP,Neel Kashkari,14
-Sierra,001,Governor,,IND,Rakesh Kumar Christian,0
 Sierra,001,Governor,,REP,Richard William Aguirre,1
 Sierra,001,Governor,,IND,Robert Newman,6
 Sierra,001,Governor,,REP,Tim Donnelly,27
@@ -40,6 +38,10 @@ Sierra,001,Lieutenant Governor,,DEM,Gavin Newsom,36
 Sierra,001,Lieutenant Governor,,REP,George Yang,20
 Sierra,001,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Sierra,001,Lieutenant Governor,,REP,Ron Nehring,24
+Sierra,001,Proposition 41,,,No,37
+Sierra,001,Proposition 41,,,Yes,75
+Sierra,001,Proposition 42,,,No,76
+Sierra,001,Proposition 42,,,Yes,39
 Sierra,001,Secretary of State,,DEM,Alex Padilla,13
 Sierra,001,Secretary of State,,IND,Dan Schnur,5
 Sierra,001,Secretary of State,,GRN,David Curtis,7
@@ -75,25 +77,18 @@ Sierra,002,Controller,,REP,David Evans,17
 Sierra,002,Controller,,DEM,John A. Pérez,2
 Sierra,002,Controller,,GRN,Laura Wells,2
 Sierra,002,Controller,,DEM,Tammy D. Blair,1
-Sierra,002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,002,Governor,,DEM,Akinyemi Agbede,0
-Sierra,002,Governor,,REP,Alma Marie Winston,0
 Sierra,002,Governor,,REP,Andrew Blount,4
 Sierra,002,Governor,,PAF,Cindy L. Sheehan,1
 Sierra,002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Sierra,002,Governor,,REP,Glenn Champ,1
-Sierra,002,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,002,Governor,,IND,Joe Leicht,0
 Sierra,002,Governor,,GRN,Luis J. Rodriguez,2
 Sierra,002,Governor,,REP,Neel Kashkari,11
-Sierra,002,Governor,,IND,Rakesh Kumar Christian,0
 Sierra,002,Governor,,REP,Richard William Aguirre,2
 Sierra,002,Governor,,IND,Robert Newman,1
 Sierra,002,Governor,,REP,Tim Donnelly,4
 Sierra,002,Insurance Commissioner,,DEM,Dave Jones,20
 Sierra,002,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Sierra,002,Insurance Commissioner,,REP,Ted Gaines,22
-Sierra,002,Lieutenant Governor,,AME,Alan Reynolds,0
 Sierra,002,Lieutenant Governor,,PAF,Amos Johnson,1
 Sierra,002,Lieutenant Governor,,REP,David Fennell,6
 Sierra,002,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -101,6 +96,10 @@ Sierra,002,Lieutenant Governor,,DEM,Gavin Newsom,15
 Sierra,002,Lieutenant Governor,,REP,George Yang,3
 Sierra,002,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Sierra,002,Lieutenant Governor,,REP,Ron Nehring,11
+Sierra,002,Proposition 41,,,No,23
+Sierra,002,Proposition 41,,,Yes,25
+Sierra,002,Proposition 42,,,No,27
+Sierra,002,Proposition 42,,,Yes,20
 Sierra,002,Secretary of State,,DEM,Alex Padilla,7
 Sierra,002,Secretary of State,,IND,Dan Schnur,1
 Sierra,002,Secretary of State,,GRN,David Curtis,2
@@ -136,19 +135,12 @@ Sierra,003,Controller,,REP,David Evans,17
 Sierra,003,Controller,,DEM,John A. Pérez,5
 Sierra,003,Controller,,GRN,Laura Wells,4
 Sierra,003,Controller,,DEM,Tammy D. Blair,5
-Sierra,003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,003,Governor,,DEM,Akinyemi Agbede,0
 Sierra,003,Governor,,REP,Alma Marie Winston,1
 Sierra,003,Governor,,REP,Andrew Blount,1
 Sierra,003,Governor,,PAF,Cindy L. Sheehan,2
 Sierra,003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
-Sierra,003,Governor,,REP,Glenn Champ,0
-Sierra,003,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,003,Governor,,IND,Joe Leicht,0
 Sierra,003,Governor,,GRN,Luis J. Rodriguez,3
 Sierra,003,Governor,,REP,Neel Kashkari,9
-Sierra,003,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,003,Governor,,REP,Richard William Aguirre,0
 Sierra,003,Governor,,IND,Robert Newman,1
 Sierra,003,Governor,,REP,Tim Donnelly,10
 Sierra,003,Insurance Commissioner,,DEM,Dave Jones,14
@@ -160,13 +152,15 @@ Sierra,003,Lieutenant Governor,,REP,David Fennell,7
 Sierra,003,Lieutenant Governor,,DEM,Eric Korevaar,2
 Sierra,003,Lieutenant Governor,,DEM,Gavin Newsom,17
 Sierra,003,Lieutenant Governor,,REP,George Yang,8
-Sierra,003,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Sierra,003,Lieutenant Governor,,REP,Ron Nehring,6
+Sierra,003,Proposition 41,,,No,19
+Sierra,003,Proposition 41,,,Yes,30
+Sierra,003,Proposition 42,,,No,28
+Sierra,003,Proposition 42,,,Yes,18
 Sierra,003,Secretary of State,,DEM,Alex Padilla,10
 Sierra,003,Secretary of State,,IND,Dan Schnur,3
 Sierra,003,Secretary of State,,GRN,David Curtis,2
 Sierra,003,Secretary of State,,DEM,Derek Cressman,4
-Sierra,003,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,003,Secretary of State,,DEM,Leland Yee,1
 Sierra,003,Secretary of State,,REP,Pete Peterson,15
 Sierra,003,Secretary of State,,REP,Roy Allmond,6
@@ -196,20 +190,12 @@ Sierra,004,Controller,,DEM,Betty T. Yee,10
 Sierra,004,Controller,,REP,David Evans,9
 Sierra,004,Controller,,DEM,John A. Pérez,3
 Sierra,004,Controller,,GRN,Laura Wells,13
-Sierra,004,Controller,,DEM,Tammy D. Blair,0
 Sierra,004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Sierra,004,Governor,,DEM,Akinyemi Agbede,0
-Sierra,004,Governor,,REP,Alma Marie Winston,0
-Sierra,004,Governor,,REP,Andrew Blount,0
 Sierra,004,Governor,,PAF,Cindy L. Sheehan,3
 Sierra,004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Sierra,004,Governor,,REP,Glenn Champ,1
-Sierra,004,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,004,Governor,,IND,Joe Leicht,0
-Sierra,004,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,004,Governor,,REP,Neel Kashkari,9
 Sierra,004,Governor,,IND,Rakesh Kumar Christian,1
-Sierra,004,Governor,,REP,Richard William Aguirre,0
 Sierra,004,Governor,,IND,Robert Newman,1
 Sierra,004,Governor,,REP,Tim Donnelly,7
 Sierra,004,Insurance Commissioner,,DEM,Dave Jones,19
@@ -223,11 +209,14 @@ Sierra,004,Lieutenant Governor,,DEM,Gavin Newsom,23
 Sierra,004,Lieutenant Governor,,REP,George Yang,1
 Sierra,004,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Sierra,004,Lieutenant Governor,,REP,Ron Nehring,6
+Sierra,004,Proposition 41,,,No,12
+Sierra,004,Proposition 41,,,Yes,37
+Sierra,004,Proposition 42,,,No,25
+Sierra,004,Proposition 42,,,Yes,24
 Sierra,004,Secretary of State,,DEM,Alex Padilla,15
 Sierra,004,Secretary of State,,IND,Dan Schnur,5
 Sierra,004,Secretary of State,,GRN,David Curtis,6
 Sierra,004,Secretary of State,,DEM,Derek Cressman,2
-Sierra,004,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,004,Secretary of State,,DEM,Leland Yee,6
 Sierra,004,Secretary of State,,REP,Pete Peterson,8
 Sierra,004,Secretary of State,,REP,Roy Allmond,3
@@ -258,32 +247,29 @@ Sierra,005,Controller,,REP,David Evans,19
 Sierra,005,Controller,,DEM,John A. Pérez,3
 Sierra,005,Controller,,GRN,Laura Wells,17
 Sierra,005,Controller,,DEM,Tammy D. Blair,3
-Sierra,005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,005,Governor,,DEM,Akinyemi Agbede,0
 Sierra,005,Governor,,REP,Alma Marie Winston,2
 Sierra,005,Governor,,REP,Andrew Blount,3
 Sierra,005,Governor,,PAF,Cindy L. Sheehan,3
 Sierra,005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
 Sierra,005,Governor,,REP,Glenn Champ,5
-Sierra,005,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,005,Governor,,IND,Joe Leicht,0
 Sierra,005,Governor,,GRN,Luis J. Rodriguez,3
 Sierra,005,Governor,,REP,Neel Kashkari,10
-Sierra,005,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,005,Governor,,REP,Richard William Aguirre,0
 Sierra,005,Governor,,IND,Robert Newman,2
 Sierra,005,Governor,,REP,Tim Donnelly,13
 Sierra,005,Insurance Commissioner,,DEM,Dave Jones,21
 Sierra,005,Insurance Commissioner,,PAF,Nathalie Hrizi,14
 Sierra,005,Insurance Commissioner,,REP,Ted Gaines,31
 Sierra,005,Lieutenant Governor,,AME,Alan Reynolds,3
-Sierra,005,Lieutenant Governor,,PAF,Amos Johnson,0
 Sierra,005,Lieutenant Governor,,REP,David Fennell,11
 Sierra,005,Lieutenant Governor,,DEM,Eric Korevaar,6
 Sierra,005,Lieutenant Governor,,DEM,Gavin Newsom,23
 Sierra,005,Lieutenant Governor,,REP,George Yang,7
 Sierra,005,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Sierra,005,Lieutenant Governor,,REP,Ron Nehring,13
+Sierra,005,Proposition 41,,,No,35
+Sierra,005,Proposition 41,,,Yes,38
+Sierra,005,Proposition 42,,,No,43
+Sierra,005,Proposition 42,,,Yes,24
 Sierra,005,Secretary of State,,DEM,Alex Padilla,9
 Sierra,005,Secretary of State,,IND,Dan Schnur,6
 Sierra,005,Secretary of State,,GRN,David Curtis,8
@@ -319,32 +305,28 @@ Sierra,006,Controller,,REP,David Evans,40
 Sierra,006,Controller,,DEM,John A. Pérez,11
 Sierra,006,Controller,,GRN,Laura Wells,9
 Sierra,006,Controller,,DEM,Tammy D. Blair,3
-Sierra,006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,006,Governor,,DEM,Akinyemi Agbede,0
 Sierra,006,Governor,,REP,Alma Marie Winston,2
 Sierra,006,Governor,,REP,Andrew Blount,2
 Sierra,006,Governor,,PAF,Cindy L. Sheehan,2
 Sierra,006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 Sierra,006,Governor,,REP,Glenn Champ,3
-Sierra,006,Governor,,IND,Janel Hyeshia Buycks,0
 Sierra,006,Governor,,IND,Joe Leicht,1
-Sierra,006,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,006,Governor,,REP,Neel Kashkari,19
-Sierra,006,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,006,Governor,,REP,Richard William Aguirre,0
 Sierra,006,Governor,,IND,Robert Newman,2
 Sierra,006,Governor,,REP,Tim Donnelly,23
 Sierra,006,Insurance Commissioner,,DEM,Dave Jones,36
 Sierra,006,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Sierra,006,Insurance Commissioner,,REP,Ted Gaines,54
 Sierra,006,Lieutenant Governor,,AME,Alan Reynolds,3
-Sierra,006,Lieutenant Governor,,PAF,Amos Johnson,0
 Sierra,006,Lieutenant Governor,,REP,David Fennell,12
 Sierra,006,Lieutenant Governor,,DEM,Eric Korevaar,5
 Sierra,006,Lieutenant Governor,,DEM,Gavin Newsom,38
 Sierra,006,Lieutenant Governor,,REP,George Yang,10
-Sierra,006,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Sierra,006,Lieutenant Governor,,REP,Ron Nehring,29
+Sierra,006,Proposition 41,,,No,36
+Sierra,006,Proposition 41,,,Yes,63
+Sierra,006,Proposition 42,,,No,56
+Sierra,006,Proposition 42,,,Yes,41
 Sierra,006,Secretary of State,,DEM,Alex Padilla,14
 Sierra,006,Secretary of State,,IND,Dan Schnur,4
 Sierra,006,Secretary of State,,GRN,David Curtis,5
@@ -380,20 +362,14 @@ Sierra,007,Controller,,REP,David Evans,30
 Sierra,007,Controller,,DEM,John A. Pérez,13
 Sierra,007,Controller,,GRN,Laura Wells,4
 Sierra,007,Controller,,DEM,Tammy D. Blair,3
-Sierra,007,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,007,Governor,,DEM,Akinyemi Agbede,0
 Sierra,007,Governor,,REP,Alma Marie Winston,4
 Sierra,007,Governor,,REP,Andrew Blount,4
 Sierra,007,Governor,,PAF,Cindy L. Sheehan,1
 Sierra,007,Governor,,DEM,"Edmund G. ""Jerry"" Brown",44
 Sierra,007,Governor,,REP,Glenn Champ,2
 Sierra,007,Governor,,IND,Janel Hyeshia Buycks,1
-Sierra,007,Governor,,IND,Joe Leicht,0
 Sierra,007,Governor,,GRN,Luis J. Rodriguez,1
 Sierra,007,Governor,,REP,Neel Kashkari,18
-Sierra,007,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,007,Governor,,REP,Richard William Aguirre,0
-Sierra,007,Governor,,IND,Robert Newman,0
 Sierra,007,Governor,,REP,Tim Donnelly,15
 Sierra,007,Insurance Commissioner,,DEM,Dave Jones,32
 Sierra,007,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -406,6 +382,10 @@ Sierra,007,Lieutenant Governor,,DEM,Gavin Newsom,30
 Sierra,007,Lieutenant Governor,,REP,George Yang,7
 Sierra,007,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Sierra,007,Lieutenant Governor,,REP,Ron Nehring,17
+Sierra,007,Proposition 41,,,No,36
+Sierra,007,Proposition 41,,,Yes,59
+Sierra,007,Proposition 42,,,No,50
+Sierra,007,Proposition 42,,,Yes,34
 Sierra,007,Secretary of State,,DEM,Alex Padilla,6
 Sierra,007,Secretary of State,,IND,Dan Schnur,8
 Sierra,007,Secretary of State,,GRN,David Curtis,2
@@ -426,70 +406,38 @@ Sierra,007,U.S. House,1,DEM,Dan Levine,2
 Sierra,007,U.S. House,1,REP,Doug La Malfa,40
 Sierra,007,U.S. House,1,REP,Gregory Cheadle,10
 Sierra,007,U.S. House,1,DEM,Heidi Hall,34
-Sierra,008,Attorney General,,REP,David King,0
-Sierra,008,Attorney General,,REP,John Haggerty,0
-Sierra,008,Attorney General,,LIB,Jonathan Jaech,0
 Sierra,008,Attorney General,,DEM,Kamala D. Harris,3
-Sierra,008,Attorney General,,IND,Orly Taitz,0
 Sierra,008,Attorney General,,REP,Phil Wyman,3
-Sierra,008,Attorney General,,REP,Ronald Gold,0
 Sierra,008,Board of Equalization,1,DEM,Chris Parker,3
 Sierra,008,Board of Equalization,1,REP,George Runner,3
-Sierra,008,Controller,,REP,Ashley Swearengin,0
 Sierra,008,Controller,,DEM,Betty T. Yee,2
 Sierra,008,Controller,,REP,David Evans,3
-Sierra,008,Controller,,DEM,John A. Pérez,0
 Sierra,008,Controller,,GRN,Laura Wells,1
-Sierra,008,Controller,,DEM,Tammy D. Blair,0
-Sierra,008,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,008,Governor,,DEM,Akinyemi Agbede,0
-Sierra,008,Governor,,REP,Alma Marie Winston,0
-Sierra,008,Governor,,REP,Andrew Blount,0
-Sierra,008,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,008,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Sierra,008,Governor,,REP,Glenn Champ,0
-Sierra,008,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,008,Governor,,IND,Joe Leicht,0
 Sierra,008,Governor,,GRN,Luis J. Rodriguez,1
 Sierra,008,Governor,,REP,Neel Kashkari,1
-Sierra,008,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,008,Governor,,REP,Richard William Aguirre,0
-Sierra,008,Governor,,IND,Robert Newman,0
-Sierra,008,Governor,,REP,Tim Donnelly,0
 Sierra,008,Insurance Commissioner,,DEM,Dave Jones,4
-Sierra,008,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Sierra,008,Insurance Commissioner,,REP,Ted Gaines,2
-Sierra,008,Lieutenant Governor,,AME,Alan Reynolds,0
-Sierra,008,Lieutenant Governor,,PAF,Amos Johnson,0
-Sierra,008,Lieutenant Governor,,REP,David Fennell,0
-Sierra,008,Lieutenant Governor,,DEM,Eric Korevaar,0
 Sierra,008,Lieutenant Governor,,DEM,Gavin Newsom,4
-Sierra,008,Lieutenant Governor,,REP,George Yang,0
 Sierra,008,Lieutenant Governor,,GRN,Jena F. Goodman,1
-Sierra,008,Lieutenant Governor,,REP,Ron Nehring,0
+Sierra,008,Proposition 41,,,No,1
+Sierra,008,Proposition 41,,,Yes,5
+Sierra,008,Proposition 42,,,No,2
+Sierra,008,Proposition 42,,,Yes,2
 Sierra,008,Secretary of State,,DEM,Alex Padilla,1
-Sierra,008,Secretary of State,,IND,Dan Schnur,0
 Sierra,008,Secretary of State,,GRN,David Curtis,1
-Sierra,008,Secretary of State,,DEM,Derek Cressman,0
-Sierra,008,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,008,Secretary of State,,DEM,Leland Yee,1
 Sierra,008,Secretary of State,,REP,Pete Peterson,1
 Sierra,008,Secretary of State,,REP,Roy Allmond,1
 Sierra,008,State Assembly,1,REP,Brian Dahle,3
 Sierra,008,State Assembly,1,DEM,Brigham Sawyer Smith,3
-Sierra,008,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Sierra,008,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Sierra,008,Superintendent of Public Instruction,,NOP,Tom Torlakson,4
 Sierra,008,Treasurer,,GRN,Ellen H. Brown,1
 Sierra,008,Treasurer,,REP,Greg Conlon,1
 Sierra,008,Treasurer,,DEM,John Chiang,4
-Sierra,008,U.S. House,1,DEM,Dan Levine,0
 Sierra,008,U.S. House,1,REP,Doug La Malfa,3
-Sierra,008,U.S. House,1,REP,Gregory Cheadle,0
 Sierra,008,U.S. House,1,DEM,Heidi Hall,2
-Sierra,009,Attorney General,,REP,David King,0
 Sierra,009,Attorney General,,REP,John Haggerty,4
-Sierra,009,Attorney General,,LIB,Jonathan Jaech,0
 Sierra,009,Attorney General,,DEM,Kamala D. Harris,11
 Sierra,009,Attorney General,,IND,Orly Taitz,3
 Sierra,009,Attorney General,,REP,Phil Wyman,3
@@ -501,38 +449,26 @@ Sierra,009,Controller,,DEM,Betty T. Yee,6
 Sierra,009,Controller,,REP,David Evans,11
 Sierra,009,Controller,,DEM,John A. Pérez,4
 Sierra,009,Controller,,GRN,Laura Wells,1
-Sierra,009,Controller,,DEM,Tammy D. Blair,0
-Sierra,009,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,009,Governor,,DEM,Akinyemi Agbede,0
 Sierra,009,Governor,,REP,Alma Marie Winston,4
 Sierra,009,Governor,,REP,Andrew Blount,1
-Sierra,009,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,009,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
-Sierra,009,Governor,,REP,Glenn Champ,0
-Sierra,009,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,009,Governor,,IND,Joe Leicht,0
-Sierra,009,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,009,Governor,,REP,Neel Kashkari,1
-Sierra,009,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,009,Governor,,REP,Richard William Aguirre,0
-Sierra,009,Governor,,IND,Robert Newman,0
 Sierra,009,Governor,,REP,Tim Donnelly,7
 Sierra,009,Insurance Commissioner,,DEM,Dave Jones,12
 Sierra,009,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Sierra,009,Insurance Commissioner,,REP,Ted Gaines,12
-Sierra,009,Lieutenant Governor,,AME,Alan Reynolds,0
 Sierra,009,Lieutenant Governor,,PAF,Amos Johnson,1
-Sierra,009,Lieutenant Governor,,REP,David Fennell,0
-Sierra,009,Lieutenant Governor,,DEM,Eric Korevaar,0
 Sierra,009,Lieutenant Governor,,DEM,Gavin Newsom,13
 Sierra,009,Lieutenant Governor,,REP,George Yang,3
 Sierra,009,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Sierra,009,Lieutenant Governor,,REP,Ron Nehring,9
+Sierra,009,Proposition 41,,,No,10
+Sierra,009,Proposition 41,,,Yes,15
+Sierra,009,Proposition 42,,,No,5
+Sierra,009,Proposition 42,,,Yes,13
 Sierra,009,Secretary of State,,DEM,Alex Padilla,7
 Sierra,009,Secretary of State,,IND,Dan Schnur,2
-Sierra,009,Secretary of State,,GRN,David Curtis,0
 Sierra,009,Secretary of State,,DEM,Derek Cressman,2
-Sierra,009,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,009,Secretary of State,,DEM,Leland Yee,1
 Sierra,009,Secretary of State,,REP,Pete Peterson,10
 Sierra,009,Secretary of State,,REP,Roy Allmond,3
@@ -548,11 +484,6 @@ Sierra,009,U.S. House,1,DEM,Dan Levine,1
 Sierra,009,U.S. House,1,REP,Doug La Malfa,10
 Sierra,009,U.S. House,1,REP,Gregory Cheadle,3
 Sierra,009,U.S. House,1,DEM,Heidi Hall,13
-Sierra,010,Attorney General,,REP,David King,0
-Sierra,010,Attorney General,,REP,John Haggerty,0
-Sierra,010,Attorney General,,LIB,Jonathan Jaech,0
-Sierra,010,Attorney General,,DEM,Kamala D. Harris,0
-Sierra,010,Attorney General,,IND,Orly Taitz,0
 Sierra,010,Attorney General,,REP,Phil Wyman,1
 Sierra,010,Attorney General,,REP,Ronald Gold,1
 Sierra,010,Board of Equalization,1,DEM,Chris Parker,1
@@ -560,58 +491,29 @@ Sierra,010,Board of Equalization,1,REP,George Runner,2
 Sierra,010,Controller,,REP,Ashley Swearengin,1
 Sierra,010,Controller,,DEM,Betty T. Yee,1
 Sierra,010,Controller,,REP,David Evans,1
-Sierra,010,Controller,,DEM,John A. Pérez,0
-Sierra,010,Controller,,GRN,Laura Wells,0
-Sierra,010,Controller,,DEM,Tammy D. Blair,0
-Sierra,010,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,010,Governor,,DEM,Akinyemi Agbede,0
-Sierra,010,Governor,,REP,Alma Marie Winston,0
-Sierra,010,Governor,,REP,Andrew Blount,0
-Sierra,010,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,010,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
-Sierra,010,Governor,,REP,Glenn Champ,0
-Sierra,010,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,010,Governor,,IND,Joe Leicht,0
-Sierra,010,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,010,Governor,,REP,Neel Kashkari,1
-Sierra,010,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,010,Governor,,REP,Richard William Aguirre,0
-Sierra,010,Governor,,IND,Robert Newman,0
 Sierra,010,Governor,,REP,Tim Donnelly,1
 Sierra,010,Insurance Commissioner,,DEM,Dave Jones,1
-Sierra,010,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Sierra,010,Insurance Commissioner,,REP,Ted Gaines,2
-Sierra,010,Lieutenant Governor,,AME,Alan Reynolds,0
-Sierra,010,Lieutenant Governor,,PAF,Amos Johnson,0
-Sierra,010,Lieutenant Governor,,REP,David Fennell,0
-Sierra,010,Lieutenant Governor,,DEM,Eric Korevaar,0
 Sierra,010,Lieutenant Governor,,DEM,Gavin Newsom,1
-Sierra,010,Lieutenant Governor,,REP,George Yang,0
-Sierra,010,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Sierra,010,Lieutenant Governor,,REP,Ron Nehring,2
+Sierra,010,Proposition 41,,,No,2
+Sierra,010,Proposition 41,,,Yes,1
+Sierra,010,Proposition 42,,,No,2
+Sierra,010,Proposition 42,,,Yes,1
 Sierra,010,Secretary of State,,DEM,Alex Padilla,1
-Sierra,010,Secretary of State,,IND,Dan Schnur,0
-Sierra,010,Secretary of State,,GRN,David Curtis,0
-Sierra,010,Secretary of State,,DEM,Derek Cressman,0
-Sierra,010,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Sierra,010,Secretary of State,,DEM,Leland Yee,0
 Sierra,010,Secretary of State,,REP,Pete Peterson,2
-Sierra,010,Secretary of State,,REP,Roy Allmond,0
 Sierra,010,State Assembly,1,REP,Brian Dahle,1
 Sierra,010,State Assembly,1,DEM,Brigham Sawyer Smith,1
 Sierra,010,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
 Sierra,010,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
-Sierra,010,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Sierra,010,Treasurer,,GRN,Ellen H. Brown,0
 Sierra,010,Treasurer,,REP,Greg Conlon,1
 Sierra,010,Treasurer,,DEM,John Chiang,1
-Sierra,010,U.S. House,1,DEM,Dan Levine,0
 Sierra,010,U.S. House,1,REP,Doug La Malfa,2
-Sierra,010,U.S. House,1,REP,Gregory Cheadle,0
 Sierra,010,U.S. House,1,DEM,Heidi Hall,1
 Sierra,011,Attorney General,,REP,David King,2
 Sierra,011,Attorney General,,REP,John Haggerty,2
-Sierra,011,Attorney General,,LIB,Jonathan Jaech,0
 Sierra,011,Attorney General,,DEM,Kamala D. Harris,18
 Sierra,011,Attorney General,,IND,Orly Taitz,2
 Sierra,011,Attorney General,,REP,Phil Wyman,9
@@ -624,20 +526,10 @@ Sierra,011,Controller,,REP,David Evans,14
 Sierra,011,Controller,,DEM,John A. Pérez,4
 Sierra,011,Controller,,GRN,Laura Wells,3
 Sierra,011,Controller,,DEM,Tammy D. Blair,4
-Sierra,011,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,011,Governor,,DEM,Akinyemi Agbede,0
-Sierra,011,Governor,,REP,Alma Marie Winston,0
-Sierra,011,Governor,,REP,Andrew Blount,0
 Sierra,011,Governor,,PAF,Cindy L. Sheehan,3
 Sierra,011,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
-Sierra,011,Governor,,REP,Glenn Champ,0
-Sierra,011,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,011,Governor,,IND,Joe Leicht,0
 Sierra,011,Governor,,GRN,Luis J. Rodriguez,1
 Sierra,011,Governor,,REP,Neel Kashkari,8
-Sierra,011,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,011,Governor,,REP,Richard William Aguirre,0
-Sierra,011,Governor,,IND,Robert Newman,0
 Sierra,011,Governor,,REP,Tim Donnelly,9
 Sierra,011,Insurance Commissioner,,DEM,Dave Jones,18
 Sierra,011,Insurance Commissioner,,PAF,Nathalie Hrizi,1
@@ -650,6 +542,10 @@ Sierra,011,Lieutenant Governor,,DEM,Gavin Newsom,17
 Sierra,011,Lieutenant Governor,,REP,George Yang,3
 Sierra,011,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Sierra,011,Lieutenant Governor,,REP,Ron Nehring,14
+Sierra,011,Proposition 41,,,No,12
+Sierra,011,Proposition 41,,,Yes,27
+Sierra,011,Proposition 42,,,No,18
+Sierra,011,Proposition 42,,,Yes,19
 Sierra,011,Secretary of State,,DEM,Alex Padilla,6
 Sierra,011,Secretary of State,,IND,Dan Schnur,3
 Sierra,011,Secretary of State,,GRN,David Curtis,1
@@ -686,17 +582,12 @@ Sierra,012,Controller,,DEM,John A. Pérez,10
 Sierra,012,Controller,,GRN,Laura Wells,5
 Sierra,012,Controller,,DEM,Tammy D. Blair,11
 Sierra,012,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Sierra,012,Governor,,DEM,Akinyemi Agbede,0
-Sierra,012,Governor,,REP,Alma Marie Winston,0
 Sierra,012,Governor,,REP,Andrew Blount,2
 Sierra,012,Governor,,PAF,Cindy L. Sheehan,1
 Sierra,012,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Sierra,012,Governor,,REP,Glenn Champ,5
-Sierra,012,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,012,Governor,,IND,Joe Leicht,0
 Sierra,012,Governor,,GRN,Luis J. Rodriguez,2
 Sierra,012,Governor,,REP,Neel Kashkari,17
-Sierra,012,Governor,,IND,Rakesh Kumar Christian,0
 Sierra,012,Governor,,REP,Richard William Aguirre,1
 Sierra,012,Governor,,IND,Robert Newman,6
 Sierra,012,Governor,,REP,Tim Donnelly,25
@@ -711,6 +602,10 @@ Sierra,012,Lieutenant Governor,,DEM,Gavin Newsom,35
 Sierra,012,Lieutenant Governor,,REP,George Yang,13
 Sierra,012,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Sierra,012,Lieutenant Governor,,REP,Ron Nehring,29
+Sierra,012,Proposition 41,,,No,58
+Sierra,012,Proposition 41,,,Yes,47
+Sierra,012,Proposition 42,,,No,72
+Sierra,012,Proposition 42,,,Yes,31
 Sierra,012,Secretary of State,,DEM,Alex Padilla,11
 Sierra,012,Secretary of State,,IND,Dan Schnur,11
 Sierra,012,Secretary of State,,GRN,David Curtis,6
@@ -731,9 +626,7 @@ Sierra,012,U.S. House,1,DEM,Dan Levine,6
 Sierra,012,U.S. House,1,REP,Doug La Malfa,64
 Sierra,012,U.S. House,1,REP,Gregory Cheadle,5
 Sierra,012,U.S. House,1,DEM,Heidi Hall,33
-Sierra,013,Attorney General,,REP,David King,0
 Sierra,013,Attorney General,,REP,John Haggerty,5
-Sierra,013,Attorney General,,LIB,Jonathan Jaech,0
 Sierra,013,Attorney General,,DEM,Kamala D. Harris,10
 Sierra,013,Attorney General,,IND,Orly Taitz,1
 Sierra,013,Attorney General,,REP,Phil Wyman,11
@@ -745,26 +638,17 @@ Sierra,013,Controller,,DEM,Betty T. Yee,5
 Sierra,013,Controller,,REP,David Evans,13
 Sierra,013,Controller,,DEM,John A. Pérez,3
 Sierra,013,Controller,,GRN,Laura Wells,5
-Sierra,013,Controller,,DEM,Tammy D. Blair,0
-Sierra,013,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Sierra,013,Governor,,DEM,Akinyemi Agbede,1
-Sierra,013,Governor,,REP,Alma Marie Winston,0
-Sierra,013,Governor,,REP,Andrew Blount,0
 Sierra,013,Governor,,PAF,Cindy L. Sheehan,2
 Sierra,013,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
 Sierra,013,Governor,,REP,Glenn Champ,1
-Sierra,013,Governor,,IND,Janel Hyeshia Buycks,0
 Sierra,013,Governor,,IND,Joe Leicht,1
 Sierra,013,Governor,,GRN,Luis J. Rodriguez,1
 Sierra,013,Governor,,REP,Neel Kashkari,6
-Sierra,013,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,013,Governor,,REP,Richard William Aguirre,0
-Sierra,013,Governor,,IND,Robert Newman,0
 Sierra,013,Governor,,REP,Tim Donnelly,13
 Sierra,013,Insurance Commissioner,,DEM,Dave Jones,7
 Sierra,013,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Sierra,013,Insurance Commissioner,,REP,Ted Gaines,18
-Sierra,013,Lieutenant Governor,,AME,Alan Reynolds,0
 Sierra,013,Lieutenant Governor,,PAF,Amos Johnson,1
 Sierra,013,Lieutenant Governor,,REP,David Fennell,2
 Sierra,013,Lieutenant Governor,,DEM,Eric Korevaar,2
@@ -772,11 +656,14 @@ Sierra,013,Lieutenant Governor,,DEM,Gavin Newsom,11
 Sierra,013,Lieutenant Governor,,REP,George Yang,5
 Sierra,013,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Sierra,013,Lieutenant Governor,,REP,Ron Nehring,7
+Sierra,013,Proposition 41,,,No,16
+Sierra,013,Proposition 41,,,Yes,15
+Sierra,013,Proposition 42,,,No,20
+Sierra,013,Proposition 42,,,Yes,11
 Sierra,013,Secretary of State,,DEM,Alex Padilla,5
 Sierra,013,Secretary of State,,IND,Dan Schnur,2
 Sierra,013,Secretary of State,,GRN,David Curtis,4
 Sierra,013,Secretary of State,,DEM,Derek Cressman,3
-Sierra,013,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,013,Secretary of State,,DEM,Leland Yee,2
 Sierra,013,Secretary of State,,REP,Pete Peterson,11
 Sierra,013,Secretary of State,,REP,Roy Allmond,4
@@ -790,7 +677,6 @@ Sierra,013,Treasurer,,REP,Greg Conlon,16
 Sierra,013,Treasurer,,DEM,John Chiang,13
 Sierra,013,U.S. House,1,DEM,Dan Levine,2
 Sierra,013,U.S. House,1,REP,Doug La Malfa,21
-Sierra,013,U.S. House,1,REP,Gregory Cheadle,0
 Sierra,013,U.S. House,1,DEM,Heidi Hall,10
 Sierra,014,Attorney General,,REP,David King,4
 Sierra,014,Attorney General,,REP,John Haggerty,16
@@ -806,38 +692,31 @@ Sierra,014,Controller,,DEM,Betty T. Yee,14
 Sierra,014,Controller,,REP,David Evans,47
 Sierra,014,Controller,,DEM,John A. Pérez,8
 Sierra,014,Controller,,GRN,Laura Wells,3
-Sierra,014,Controller,,DEM,Tammy D. Blair,0
-Sierra,014,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,014,Governor,,DEM,Akinyemi Agbede,0
 Sierra,014,Governor,,REP,Alma Marie Winston,3
 Sierra,014,Governor,,REP,Andrew Blount,3
-Sierra,014,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,014,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Sierra,014,Governor,,REP,Glenn Champ,2
-Sierra,014,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,014,Governor,,IND,Joe Leicht,0
-Sierra,014,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,014,Governor,,REP,Neel Kashkari,18
-Sierra,014,Governor,,IND,Rakesh Kumar Christian,0
 Sierra,014,Governor,,REP,Richard William Aguirre,1
-Sierra,014,Governor,,IND,Robert Newman,0
 Sierra,014,Governor,,REP,Tim Donnelly,32
 Sierra,014,Insurance Commissioner,,DEM,Dave Jones,24
 Sierra,014,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Sierra,014,Insurance Commissioner,,REP,Ted Gaines,57
 Sierra,014,Lieutenant Governor,,AME,Alan Reynolds,3
-Sierra,014,Lieutenant Governor,,PAF,Amos Johnson,0
 Sierra,014,Lieutenant Governor,,REP,David Fennell,9
 Sierra,014,Lieutenant Governor,,DEM,Eric Korevaar,1
 Sierra,014,Lieutenant Governor,,DEM,Gavin Newsom,25
 Sierra,014,Lieutenant Governor,,REP,George Yang,14
 Sierra,014,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Sierra,014,Lieutenant Governor,,REP,Ron Nehring,29
+Sierra,014,Proposition 41,,,No,44
+Sierra,014,Proposition 41,,,Yes,39
+Sierra,014,Proposition 42,,,No,57
+Sierra,014,Proposition 42,,,Yes,25
 Sierra,014,Secretary of State,,DEM,Alex Padilla,9
 Sierra,014,Secretary of State,,IND,Dan Schnur,6
 Sierra,014,Secretary of State,,GRN,David Curtis,4
 Sierra,014,Secretary of State,,DEM,Derek Cressman,3
-Sierra,014,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,014,Secretary of State,,DEM,Leland Yee,10
 Sierra,014,Secretary of State,,REP,Pete Peterson,40
 Sierra,014,Secretary of State,,REP,Roy Allmond,9
@@ -849,7 +728,6 @@ Sierra,014,Superintendent of Public Instruction,,NOP,Tom Torlakson,32
 Sierra,014,Treasurer,,GRN,Ellen H. Brown,1
 Sierra,014,Treasurer,,REP,Greg Conlon,52
 Sierra,014,Treasurer,,DEM,John Chiang,32
-Sierra,014,U.S. House,1,DEM,Dan Levine,0
 Sierra,014,U.S. House,1,REP,Doug La Malfa,60
 Sierra,014,U.S. House,1,REP,Gregory Cheadle,2
 Sierra,014,U.S. House,1,DEM,Heidi Hall,26
@@ -867,38 +745,28 @@ Sierra,015,Controller,,DEM,Betty T. Yee,7
 Sierra,015,Controller,,REP,David Evans,22
 Sierra,015,Controller,,DEM,John A. Pérez,7
 Sierra,015,Controller,,GRN,Laura Wells,2
-Sierra,015,Controller,,DEM,Tammy D. Blair,0
-Sierra,015,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,015,Governor,,DEM,Akinyemi Agbede,0
 Sierra,015,Governor,,REP,Alma Marie Winston,1
-Sierra,015,Governor,,REP,Andrew Blount,0
 Sierra,015,Governor,,PAF,Cindy L. Sheehan,1
 Sierra,015,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
 Sierra,015,Governor,,REP,Glenn Champ,1
-Sierra,015,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,015,Governor,,IND,Joe Leicht,0
-Sierra,015,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,015,Governor,,REP,Neel Kashkari,13
-Sierra,015,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,015,Governor,,REP,Richard William Aguirre,0
 Sierra,015,Governor,,IND,Robert Newman,2
 Sierra,015,Governor,,REP,Tim Donnelly,15
 Sierra,015,Insurance Commissioner,,DEM,Dave Jones,10
 Sierra,015,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Sierra,015,Insurance Commissioner,,REP,Ted Gaines,34
-Sierra,015,Lieutenant Governor,,AME,Alan Reynolds,0
 Sierra,015,Lieutenant Governor,,PAF,Amos Johnson,1
 Sierra,015,Lieutenant Governor,,REP,David Fennell,11
 Sierra,015,Lieutenant Governor,,DEM,Eric Korevaar,2
 Sierra,015,Lieutenant Governor,,DEM,Gavin Newsom,12
 Sierra,015,Lieutenant Governor,,REP,George Yang,3
-Sierra,015,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Sierra,015,Lieutenant Governor,,REP,Ron Nehring,20
+Sierra,015,Proposition 41,,,No,28
+Sierra,015,Proposition 41,,,Yes,19
+Sierra,015,Proposition 42,,,No,24
+Sierra,015,Proposition 42,,,Yes,21
 Sierra,015,Secretary of State,,DEM,Alex Padilla,9
-Sierra,015,Secretary of State,,IND,Dan Schnur,0
-Sierra,015,Secretary of State,,GRN,David Curtis,0
 Sierra,015,Secretary of State,,DEM,Derek Cressman,1
-Sierra,015,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,015,Secretary of State,,DEM,Leland Yee,6
 Sierra,015,Secretary of State,,REP,Pete Peterson,22
 Sierra,015,Secretary of State,,REP,Roy Allmond,9
@@ -927,17 +795,12 @@ Sierra,016,Controller,,REP,Ashley Swearengin,17
 Sierra,016,Controller,,DEM,Betty T. Yee,9
 Sierra,016,Controller,,REP,David Evans,27
 Sierra,016,Controller,,DEM,John A. Pérez,12
-Sierra,016,Controller,,GRN,Laura Wells,0
 Sierra,016,Controller,,DEM,Tammy D. Blair,4
-Sierra,016,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Sierra,016,Governor,,DEM,Akinyemi Agbede,2
-Sierra,016,Governor,,REP,Alma Marie Winston,0
 Sierra,016,Governor,,REP,Andrew Blount,1
 Sierra,016,Governor,,PAF,Cindy L. Sheehan,2
 Sierra,016,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
-Sierra,016,Governor,,REP,Glenn Champ,0
 Sierra,016,Governor,,IND,Janel Hyeshia Buycks,2
-Sierra,016,Governor,,IND,Joe Leicht,0
 Sierra,016,Governor,,GRN,Luis J. Rodriguez,1
 Sierra,016,Governor,,REP,Neel Kashkari,10
 Sierra,016,Governor,,IND,Rakesh Kumar Christian,1
@@ -955,6 +818,10 @@ Sierra,016,Lieutenant Governor,,DEM,Gavin Newsom,22
 Sierra,016,Lieutenant Governor,,REP,George Yang,10
 Sierra,016,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Sierra,016,Lieutenant Governor,,REP,Ron Nehring,19
+Sierra,016,Proposition 41,,,No,26
+Sierra,016,Proposition 41,,,Yes,44
+Sierra,016,Proposition 42,,,No,33
+Sierra,016,Proposition 42,,,Yes,38
 Sierra,016,Secretary of State,,DEM,Alex Padilla,14
 Sierra,016,Secretary of State,,IND,Dan Schnur,2
 Sierra,016,Secretary of State,,GRN,David Curtis,1
@@ -990,20 +857,13 @@ Sierra,017,Controller,,REP,David Evans,47
 Sierra,017,Controller,,DEM,John A. Pérez,13
 Sierra,017,Controller,,GRN,Laura Wells,6
 Sierra,017,Controller,,DEM,Tammy D. Blair,3
-Sierra,017,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Sierra,017,Governor,,DEM,Akinyemi Agbede,2
 Sierra,017,Governor,,REP,Alma Marie Winston,2
 Sierra,017,Governor,,REP,Andrew Blount,2
 Sierra,017,Governor,,PAF,Cindy L. Sheehan,3
 Sierra,017,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Sierra,017,Governor,,REP,Glenn Champ,5
-Sierra,017,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,017,Governor,,IND,Joe Leicht,0
-Sierra,017,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,017,Governor,,REP,Neel Kashkari,27
-Sierra,017,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,017,Governor,,REP,Richard William Aguirre,0
-Sierra,017,Governor,,IND,Robert Newman,0
 Sierra,017,Governor,,REP,Tim Donnelly,29
 Sierra,017,Insurance Commissioner,,DEM,Dave Jones,33
 Sierra,017,Insurance Commissioner,,PAF,Nathalie Hrizi,3
@@ -1014,8 +874,11 @@ Sierra,017,Lieutenant Governor,,REP,David Fennell,12
 Sierra,017,Lieutenant Governor,,DEM,Eric Korevaar,4
 Sierra,017,Lieutenant Governor,,DEM,Gavin Newsom,28
 Sierra,017,Lieutenant Governor,,REP,George Yang,11
-Sierra,017,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Sierra,017,Lieutenant Governor,,REP,Ron Nehring,37
+Sierra,017,Proposition 41,,,No,32
+Sierra,017,Proposition 41,,,Yes,67
+Sierra,017,Proposition 42,,,No,51
+Sierra,017,Proposition 42,,,Yes,41
 Sierra,017,Secretary of State,,DEM,Alex Padilla,11
 Sierra,017,Secretary of State,,IND,Dan Schnur,4
 Sierra,017,Secretary of State,,GRN,David Curtis,3
@@ -1051,32 +914,27 @@ Sierra,018,Controller,,REP,David Evans,22
 Sierra,018,Controller,,DEM,John A. Pérez,3
 Sierra,018,Controller,,GRN,Laura Wells,3
 Sierra,018,Controller,,DEM,Tammy D. Blair,4
-Sierra,018,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,018,Governor,,DEM,Akinyemi Agbede,0
 Sierra,018,Governor,,REP,Alma Marie Winston,1
 Sierra,018,Governor,,REP,Andrew Blount,3
 Sierra,018,Governor,,PAF,Cindy L. Sheehan,3
 Sierra,018,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
-Sierra,018,Governor,,REP,Glenn Champ,0
-Sierra,018,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,018,Governor,,IND,Joe Leicht,0
 Sierra,018,Governor,,GRN,Luis J. Rodriguez,1
 Sierra,018,Governor,,REP,Neel Kashkari,10
-Sierra,018,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,018,Governor,,REP,Richard William Aguirre,0
-Sierra,018,Governor,,IND,Robert Newman,0
 Sierra,018,Governor,,REP,Tim Donnelly,13
 Sierra,018,Insurance Commissioner,,DEM,Dave Jones,11
 Sierra,018,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Sierra,018,Insurance Commissioner,,REP,Ted Gaines,29
 Sierra,018,Lieutenant Governor,,AME,Alan Reynolds,3
-Sierra,018,Lieutenant Governor,,PAF,Amos Johnson,0
 Sierra,018,Lieutenant Governor,,REP,David Fennell,10
 Sierra,018,Lieutenant Governor,,DEM,Eric Korevaar,4
 Sierra,018,Lieutenant Governor,,DEM,Gavin Newsom,10
 Sierra,018,Lieutenant Governor,,REP,George Yang,5
 Sierra,018,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Sierra,018,Lieutenant Governor,,REP,Ron Nehring,8
+Sierra,018,Proposition 41,,,No,20
+Sierra,018,Proposition 41,,,Yes,24
+Sierra,018,Proposition 42,,,No,28
+Sierra,018,Proposition 42,,,Yes,16
 Sierra,018,Secretary of State,,DEM,Alex Padilla,6
 Sierra,018,Secretary of State,,IND,Dan Schnur,5
 Sierra,018,Secretary of State,,GRN,David Curtis,1
@@ -1097,55 +955,34 @@ Sierra,018,U.S. House,1,DEM,Dan Levine,1
 Sierra,018,U.S. House,1,REP,Doug La Malfa,20
 Sierra,018,U.S. House,1,REP,Gregory Cheadle,6
 Sierra,018,U.S. House,1,DEM,Heidi Hall,18
-Sierra,019,Attorney General,,REP,David King,0
-Sierra,019,Attorney General,,REP,John Haggerty,0
 Sierra,019,Attorney General,,LIB,Jonathan Jaech,2
 Sierra,019,Attorney General,,DEM,Kamala D. Harris,4
 Sierra,019,Attorney General,,IND,Orly Taitz,1
-Sierra,019,Attorney General,,REP,Phil Wyman,0
-Sierra,019,Attorney General,,REP,Ronald Gold,0
 Sierra,019,Board of Equalization,1,DEM,Chris Parker,6
 Sierra,019,Board of Equalization,1,REP,George Runner,2
-Sierra,019,Controller,,REP,Ashley Swearengin,0
 Sierra,019,Controller,,DEM,Betty T. Yee,1
 Sierra,019,Controller,,REP,David Evans,2
 Sierra,019,Controller,,DEM,John A. Pérez,2
 Sierra,019,Controller,,GRN,Laura Wells,1
 Sierra,019,Controller,,DEM,Tammy D. Blair,1
-Sierra,019,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,019,Governor,,DEM,Akinyemi Agbede,0
-Sierra,019,Governor,,REP,Alma Marie Winston,0
-Sierra,019,Governor,,REP,Andrew Blount,0
-Sierra,019,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,019,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
-Sierra,019,Governor,,REP,Glenn Champ,0
-Sierra,019,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,019,Governor,,IND,Joe Leicht,0
 Sierra,019,Governor,,GRN,Luis J. Rodriguez,1
-Sierra,019,Governor,,REP,Neel Kashkari,0
-Sierra,019,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,019,Governor,,REP,Richard William Aguirre,0
 Sierra,019,Governor,,IND,Robert Newman,1
-Sierra,019,Governor,,REP,Tim Donnelly,0
 Sierra,019,Insurance Commissioner,,DEM,Dave Jones,3
 Sierra,019,Insurance Commissioner,,PAF,Nathalie Hrizi,4
-Sierra,019,Insurance Commissioner,,REP,Ted Gaines,0
-Sierra,019,Lieutenant Governor,,AME,Alan Reynolds,0
 Sierra,019,Lieutenant Governor,,PAF,Amos Johnson,1
 Sierra,019,Lieutenant Governor,,REP,David Fennell,1
-Sierra,019,Lieutenant Governor,,DEM,Eric Korevaar,0
 Sierra,019,Lieutenant Governor,,DEM,Gavin Newsom,4
-Sierra,019,Lieutenant Governor,,REP,George Yang,0
 Sierra,019,Lieutenant Governor,,GRN,Jena F. Goodman,1
-Sierra,019,Lieutenant Governor,,REP,Ron Nehring,0
+Sierra,019,Proposition 41,,,No,2
+Sierra,019,Proposition 41,,,Yes,5
+Sierra,019,Proposition 42,,,No,3
+Sierra,019,Proposition 42,,,Yes,3
 Sierra,019,Secretary of State,,DEM,Alex Padilla,3
-Sierra,019,Secretary of State,,IND,Dan Schnur,0
 Sierra,019,Secretary of State,,GRN,David Curtis,1
 Sierra,019,Secretary of State,,DEM,Derek Cressman,1
 Sierra,019,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Sierra,019,Secretary of State,,DEM,Leland Yee,1
-Sierra,019,Secretary of State,,REP,Pete Peterson,0
-Sierra,019,Secretary of State,,REP,Roy Allmond,0
 Sierra,019,State Assembly,1,REP,Brian Dahle,2
 Sierra,019,State Assembly,1,DEM,Brigham Sawyer Smith,5
 Sierra,019,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
@@ -1156,68 +993,36 @@ Sierra,019,Treasurer,,REP,Greg Conlon,1
 Sierra,019,Treasurer,,DEM,John Chiang,4
 Sierra,019,U.S. House,1,DEM,Dan Levine,3
 Sierra,019,U.S. House,1,REP,Doug La Malfa,2
-Sierra,019,U.S. House,1,REP,Gregory Cheadle,0
 Sierra,019,U.S. House,1,DEM,Heidi Hall,2
-Sierra,020,Attorney General,,REP,David King,0
-Sierra,020,Attorney General,,REP,John Haggerty,0
-Sierra,020,Attorney General,,LIB,Jonathan Jaech,0
 Sierra,020,Attorney General,,DEM,Kamala D. Harris,13
-Sierra,020,Attorney General,,IND,Orly Taitz,0
-Sierra,020,Attorney General,,REP,Phil Wyman,0
-Sierra,020,Attorney General,,REP,Ronald Gold,0
 Sierra,020,Board of Equalization,1,DEM,Chris Parker,9
 Sierra,020,Board of Equalization,1,REP,George Runner,3
 Sierra,020,Controller,,REP,Ashley Swearengin,2
 Sierra,020,Controller,,DEM,Betty T. Yee,3
 Sierra,020,Controller,,REP,David Evans,1
 Sierra,020,Controller,,DEM,John A. Pérez,6
-Sierra,020,Controller,,GRN,Laura Wells,0
 Sierra,020,Controller,,DEM,Tammy D. Blair,2
-Sierra,020,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Sierra,020,Governor,,DEM,Akinyemi Agbede,0
-Sierra,020,Governor,,REP,Alma Marie Winston,0
-Sierra,020,Governor,,REP,Andrew Blount,0
-Sierra,020,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,020,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
-Sierra,020,Governor,,REP,Glenn Champ,0
 Sierra,020,Governor,,IND,Janel Hyeshia Buycks,1
-Sierra,020,Governor,,IND,Joe Leicht,0
-Sierra,020,Governor,,GRN,Luis J. Rodriguez,0
-Sierra,020,Governor,,REP,Neel Kashkari,0
-Sierra,020,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,020,Governor,,REP,Richard William Aguirre,0
-Sierra,020,Governor,,IND,Robert Newman,0
-Sierra,020,Governor,,REP,Tim Donnelly,0
 Sierra,020,Insurance Commissioner,,DEM,Dave Jones,10
 Sierra,020,Insurance Commissioner,,PAF,Nathalie Hrizi,3
-Sierra,020,Insurance Commissioner,,REP,Ted Gaines,0
-Sierra,020,Lieutenant Governor,,AME,Alan Reynolds,0
-Sierra,020,Lieutenant Governor,,PAF,Amos Johnson,0
-Sierra,020,Lieutenant Governor,,REP,David Fennell,0
 Sierra,020,Lieutenant Governor,,DEM,Eric Korevaar,2
 Sierra,020,Lieutenant Governor,,DEM,Gavin Newsom,10
-Sierra,020,Lieutenant Governor,,REP,George Yang,0
-Sierra,020,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Sierra,020,Lieutenant Governor,,REP,Ron Nehring,0
+Sierra,020,Proposition 41,,,No,3
+Sierra,020,Proposition 41,,,Yes,11
+Sierra,020,Proposition 42,,,No,7
+Sierra,020,Proposition 42,,,Yes,3
 Sierra,020,Secretary of State,,DEM,Alex Padilla,4
-Sierra,020,Secretary of State,,IND,Dan Schnur,0
 Sierra,020,Secretary of State,,GRN,David Curtis,1
-Sierra,020,Secretary of State,,DEM,Derek Cressman,0
-Sierra,020,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,020,Secretary of State,,DEM,Leland Yee,7
-Sierra,020,Secretary of State,,REP,Pete Peterson,0
-Sierra,020,Secretary of State,,REP,Roy Allmond,0
 Sierra,020,State Assembly,1,REP,Brian Dahle,3
 Sierra,020,State Assembly,1,DEM,Brigham Sawyer Smith,9
 Sierra,020,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
-Sierra,020,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Sierra,020,Superintendent of Public Instruction,,NOP,Tom Torlakson,4
 Sierra,020,Treasurer,,GRN,Ellen H. Brown,1
-Sierra,020,Treasurer,,REP,Greg Conlon,0
 Sierra,020,Treasurer,,DEM,John Chiang,12
 Sierra,020,U.S. House,1,DEM,Dan Levine,4
 Sierra,020,U.S. House,1,REP,Doug La Malfa,1
-Sierra,020,U.S. House,1,REP,Gregory Cheadle,0
 Sierra,020,U.S. House,1,DEM,Heidi Hall,8
 Sierra,021,Attorney General,,REP,David King,1
 Sierra,021,Attorney General,,REP,John Haggerty,24
@@ -1235,18 +1040,12 @@ Sierra,021,Controller,,DEM,John A. Pérez,7
 Sierra,021,Controller,,GRN,Laura Wells,5
 Sierra,021,Controller,,DEM,Tammy D. Blair,4
 Sierra,021,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Sierra,021,Governor,,DEM,Akinyemi Agbede,0
 Sierra,021,Governor,,REP,Alma Marie Winston,2
 Sierra,021,Governor,,REP,Andrew Blount,4
 Sierra,021,Governor,,PAF,Cindy L. Sheehan,3
 Sierra,021,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Sierra,021,Governor,,REP,Glenn Champ,4
-Sierra,021,Governor,,IND,Janel Hyeshia Buycks,0
-Sierra,021,Governor,,IND,Joe Leicht,0
-Sierra,021,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,021,Governor,,REP,Neel Kashkari,15
-Sierra,021,Governor,,IND,Rakesh Kumar Christian,0
-Sierra,021,Governor,,REP,Richard William Aguirre,0
 Sierra,021,Governor,,IND,Robert Newman,4
 Sierra,021,Governor,,REP,Tim Donnelly,31
 Sierra,021,Insurance Commissioner,,DEM,Dave Jones,22
@@ -1258,8 +1057,11 @@ Sierra,021,Lieutenant Governor,,REP,David Fennell,11
 Sierra,021,Lieutenant Governor,,DEM,Eric Korevaar,3
 Sierra,021,Lieutenant Governor,,DEM,Gavin Newsom,21
 Sierra,021,Lieutenant Governor,,REP,George Yang,20
-Sierra,021,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Sierra,021,Lieutenant Governor,,REP,Ron Nehring,27
+Sierra,021,Proposition 41,,,No,40
+Sierra,021,Proposition 41,,,Yes,48
+Sierra,021,Proposition 42,,,No,42
+Sierra,021,Proposition 42,,,Yes,34
 Sierra,021,Secretary of State,,DEM,Alex Padilla,10
 Sierra,021,Secretary of State,,IND,Dan Schnur,6
 Sierra,021,Secretary of State,,GRN,David Curtis,3
@@ -1299,14 +1101,10 @@ Sierra,022,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Sierra,022,Governor,,DEM,Akinyemi Agbede,1
 Sierra,022,Governor,,REP,Alma Marie Winston,1
 Sierra,022,Governor,,REP,Andrew Blount,5
-Sierra,022,Governor,,PAF,Cindy L. Sheehan,0
 Sierra,022,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Sierra,022,Governor,,REP,Glenn Champ,4
 Sierra,022,Governor,,IND,Janel Hyeshia Buycks,2
-Sierra,022,Governor,,IND,Joe Leicht,0
-Sierra,022,Governor,,GRN,Luis J. Rodriguez,0
 Sierra,022,Governor,,REP,Neel Kashkari,16
-Sierra,022,Governor,,IND,Rakesh Kumar Christian,0
 Sierra,022,Governor,,REP,Richard William Aguirre,1
 Sierra,022,Governor,,IND,Robert Newman,5
 Sierra,022,Governor,,REP,Tim Donnelly,24
@@ -1314,18 +1112,20 @@ Sierra,022,Insurance Commissioner,,DEM,Dave Jones,34
 Sierra,022,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Sierra,022,Insurance Commissioner,,REP,Ted Gaines,59
 Sierra,022,Lieutenant Governor,,AME,Alan Reynolds,3
-Sierra,022,Lieutenant Governor,,PAF,Amos Johnson,0
 Sierra,022,Lieutenant Governor,,REP,David Fennell,14
 Sierra,022,Lieutenant Governor,,DEM,Eric Korevaar,5
 Sierra,022,Lieutenant Governor,,DEM,Gavin Newsom,23
 Sierra,022,Lieutenant Governor,,REP,George Yang,13
 Sierra,022,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Sierra,022,Lieutenant Governor,,REP,Ron Nehring,25
+Sierra,022,Proposition 41,,,No,31
+Sierra,022,Proposition 41,,,Yes,64
+Sierra,022,Proposition 42,,,No,45
+Sierra,022,Proposition 42,,,Yes,34
 Sierra,022,Secretary of State,,DEM,Alex Padilla,12
 Sierra,022,Secretary of State,,IND,Dan Schnur,5
 Sierra,022,Secretary of State,,GRN,David Curtis,4
 Sierra,022,Secretary of State,,DEM,Derek Cressman,7
-Sierra,022,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Sierra,022,Secretary of State,,DEM,Leland Yee,5
 Sierra,022,Secretary of State,,REP,Pete Peterson,41
 Sierra,022,Secretary of State,,REP,Roy Allmond,12

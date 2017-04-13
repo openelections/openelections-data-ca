@@ -14,7 +14,6 @@ Glenn,1,Controller,,REP,David Evans,120
 Glenn,1,Controller,,DEM,John A. Pérez,30
 Glenn,1,Controller,,GRN,Laura Wells,30
 Glenn,1,Controller,,DEM,Tammy D. Blair,29
-Glenn,1,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,1,Governor,,DEM,Akinyemi Agbede,1
 Glenn,1,Governor,,REP,Alma Marie Winston,8
 Glenn,1,Governor,,REP,Andrew Blount,14
@@ -40,6 +39,10 @@ Glenn,1,Lieutenant Governor,,DEM,Gavin Newsom,99
 Glenn,1,Lieutenant Governor,,REP,George Yang,35
 Glenn,1,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Glenn,1,Lieutenant Governor,,REP,Ron Nehring,119
+Glenn,1,Proposition 41,,,No,181
+Glenn,1,Proposition 41,,,Yes,203
+Glenn,1,Proposition 42,,,No,200
+Glenn,1,Proposition 42,,,Yes,170
 Glenn,1,Secretary of State,,DEM,Alex Padilla,64
 Glenn,1,Secretary of State,,IND,Dan Schnur,55
 Glenn,1,Secretary of State,,GRN,David Curtis,14
@@ -76,9 +79,7 @@ Glenn,10,Controller,,REP,David Evans,32
 Glenn,10,Controller,,DEM,John A. Pérez,49
 Glenn,10,Controller,,GRN,Laura Wells,4
 Glenn,10,Controller,,DEM,Tammy D. Blair,19
-Glenn,10,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,10,Governor,,DEM,Akinyemi Agbede,1
-Glenn,10,Governor,,REP,Alma Marie Winston,0
 Glenn,10,Governor,,REP,Andrew Blount,6
 Glenn,10,Governor,,PAF,Cindy L. Sheehan,3
 Glenn,10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",86
@@ -102,10 +103,13 @@ Glenn,10,Lieutenant Governor,,DEM,Gavin Newsom,63
 Glenn,10,Lieutenant Governor,,REP,George Yang,13
 Glenn,10,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Glenn,10,Lieutenant Governor,,REP,Ron Nehring,30
+Glenn,10,Proposition 41,,,No,52
+Glenn,10,Proposition 41,,,Yes,97
+Glenn,10,Proposition 42,,,No,56
+Glenn,10,Proposition 42,,,Yes,85
 Glenn,10,Secretary of State,,DEM,Alex Padilla,70
 Glenn,10,Secretary of State,,IND,Dan Schnur,6
 Glenn,10,Secretary of State,,GRN,David Curtis,4
-Glenn,10,Secretary of State,,DEM,Derek Cressman,0
 Glenn,10,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Glenn,10,Secretary of State,,DEM,Leland Yee,13
 Glenn,10,Secretary of State,,REP,Pete Peterson,46
@@ -127,7 +131,6 @@ Glenn,10031,Attorney General,,REP,David King,5
 Glenn,10031,Attorney General,,REP,John Haggerty,3
 Glenn,10031,Attorney General,,LIB,Jonathan Jaech,1
 Glenn,10031,Attorney General,,DEM,Kamala D. Harris,18
-Glenn,10031,Attorney General,,IND,Orly Taitz,0
 Glenn,10031,Attorney General,,REP,Phil Wyman,4
 Glenn,10031,Attorney General,,REP,Ronald Gold,2
 Glenn,10031,Board of Equalization,2,DEM,Fiona Ma,22
@@ -138,32 +141,29 @@ Glenn,10031,Controller,,REP,David Evans,8
 Glenn,10031,Controller,,DEM,John A. Pérez,9
 Glenn,10031,Controller,,GRN,Laura Wells,4
 Glenn,10031,Controller,,DEM,Tammy D. Blair,6
-Glenn,10031,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,10031,Governor,,DEM,Akinyemi Agbede,2
 Glenn,10031,Governor,,REP,Alma Marie Winston,1
 Glenn,10031,Governor,,REP,Andrew Blount,1
-Glenn,10031,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,10031,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Glenn,10031,Governor,,REP,Glenn Champ,1
-Glenn,10031,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,10031,Governor,,IND,Joe Leicht,0
 Glenn,10031,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,10031,Governor,,REP,Neel Kashkari,1
-Glenn,10031,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,10031,Governor,,REP,Richard William Aguirre,0
 Glenn,10031,Governor,,IND,Robert Newman,2
 Glenn,10031,Governor,,REP,Tim Donnelly,7
 Glenn,10031,Insurance Commissioner,,DEM,Dave Jones,20
 Glenn,10031,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Glenn,10031,Insurance Commissioner,,REP,Ted Gaines,13
 Glenn,10031,Lieutenant Governor,,AME,Alan Reynolds,1
-Glenn,10031,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,10031,Lieutenant Governor,,REP,David Fennell,5
 Glenn,10031,Lieutenant Governor,,DEM,Eric Korevaar,15
 Glenn,10031,Lieutenant Governor,,DEM,Gavin Newsom,8
 Glenn,10031,Lieutenant Governor,,REP,George Yang,2
 Glenn,10031,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,10031,Lieutenant Governor,,REP,Ron Nehring,3
+Glenn,10031,Proposition 41,,,No,9
+Glenn,10031,Proposition 41,,,Yes,27
+Glenn,10031,Proposition 42,,,No,15
+Glenn,10031,Proposition 42,,,Yes,21
 Glenn,10031,Secretary of State,,DEM,Alex Padilla,15
 Glenn,10031,Secretary of State,,IND,Dan Schnur,6
 Glenn,10031,Secretary of State,,GRN,David Curtis,1
@@ -200,35 +200,27 @@ Glenn,10050,Controller,,REP,David Evans,6
 Glenn,10050,Controller,,DEM,John A. Pérez,6
 Glenn,10050,Controller,,GRN,Laura Wells,3
 Glenn,10050,Controller,,DEM,Tammy D. Blair,3
-Glenn,10050,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,10050,Governor,,DEM,Akinyemi Agbede,0
-Glenn,10050,Governor,,REP,Alma Marie Winston,0
 Glenn,10050,Governor,,REP,Andrew Blount,1
 Glenn,10050,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,10050,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
 Glenn,10050,Governor,,REP,Glenn Champ,1
-Glenn,10050,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,10050,Governor,,IND,Joe Leicht,0
-Glenn,10050,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,10050,Governor,,REP,Neel Kashkari,5
-Glenn,10050,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,10050,Governor,,REP,Richard William Aguirre,0
 Glenn,10050,Governor,,IND,Robert Newman,1
 Glenn,10050,Governor,,REP,Tim Donnelly,4
 Glenn,10050,Insurance Commissioner,,DEM,Dave Jones,14
 Glenn,10050,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Glenn,10050,Insurance Commissioner,,REP,Ted Gaines,11
-Glenn,10050,Lieutenant Governor,,AME,Alan Reynolds,0
 Glenn,10050,Lieutenant Governor,,PAF,Amos Johnson,2
 Glenn,10050,Lieutenant Governor,,REP,David Fennell,2
 Glenn,10050,Lieutenant Governor,,DEM,Eric Korevaar,3
 Glenn,10050,Lieutenant Governor,,DEM,Gavin Newsom,15
-Glenn,10050,Lieutenant Governor,,REP,George Yang,0
-Glenn,10050,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,10050,Lieutenant Governor,,REP,Ron Nehring,4
+Glenn,10050,Proposition 41,,,No,8
+Glenn,10050,Proposition 41,,,Yes,19
+Glenn,10050,Proposition 42,,,No,19
+Glenn,10050,Proposition 42,,,Yes,9
 Glenn,10050,Secretary of State,,DEM,Alex Padilla,7
 Glenn,10050,Secretary of State,,IND,Dan Schnur,4
-Glenn,10050,Secretary of State,,GRN,David Curtis,0
 Glenn,10050,Secretary of State,,DEM,Derek Cressman,1
 Glenn,10050,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Glenn,10050,Secretary of State,,DEM,Leland Yee,3
@@ -263,36 +255,28 @@ Glenn,10060,Controller,,DEM,John A. Pérez,6
 Glenn,10060,Controller,,GRN,Laura Wells,2
 Glenn,10060,Controller,,DEM,Tammy D. Blair,5
 Glenn,10060,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Glenn,10060,Governor,,DEM,Akinyemi Agbede,0
 Glenn,10060,Governor,,REP,Alma Marie Winston,1
 Glenn,10060,Governor,,REP,Andrew Blount,2
 Glenn,10060,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,10060,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Glenn,10060,Governor,,REP,Glenn Champ,3
-Glenn,10060,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,10060,Governor,,IND,Joe Leicht,0
-Glenn,10060,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,10060,Governor,,REP,Neel Kashkari,10
-Glenn,10060,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,10060,Governor,,REP,Richard William Aguirre,0
 Glenn,10060,Governor,,IND,Robert Newman,1
 Glenn,10060,Governor,,REP,Tim Donnelly,10
 Glenn,10060,Insurance Commissioner,,DEM,Dave Jones,14
-Glenn,10060,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Glenn,10060,Insurance Commissioner,,REP,Ted Gaines,25
 Glenn,10060,Lieutenant Governor,,AME,Alan Reynolds,1
-Glenn,10060,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,10060,Lieutenant Governor,,REP,David Fennell,12
 Glenn,10060,Lieutenant Governor,,DEM,Eric Korevaar,5
 Glenn,10060,Lieutenant Governor,,DEM,Gavin Newsom,8
 Glenn,10060,Lieutenant Governor,,REP,George Yang,2
-Glenn,10060,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,10060,Lieutenant Governor,,REP,Ron Nehring,12
+Glenn,10060,Proposition 41,,,No,12
+Glenn,10060,Proposition 41,,,Yes,31
+Glenn,10060,Proposition 42,,,No,20
+Glenn,10060,Proposition 42,,,Yes,20
 Glenn,10060,Secretary of State,,DEM,Alex Padilla,9
 Glenn,10060,Secretary of State,,IND,Dan Schnur,9
-Glenn,10060,Secretary of State,,GRN,David Curtis,0
-Glenn,10060,Secretary of State,,DEM,Derek Cressman,0
-Glenn,10060,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Glenn,10060,Secretary of State,,DEM,Leland Yee,2
 Glenn,10060,Secretary of State,,REP,Pete Peterson,16
 Glenn,10060,Secretary of State,,REP,Roy Allmond,2
@@ -324,19 +308,13 @@ Glenn,12150,Controller,,REP,David Evans,20
 Glenn,12150,Controller,,DEM,John A. Pérez,15
 Glenn,12150,Controller,,GRN,Laura Wells,9
 Glenn,12150,Controller,,DEM,Tammy D. Blair,5
-Glenn,12150,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,12150,Governor,,DEM,Akinyemi Agbede,0
 Glenn,12150,Governor,,REP,Alma Marie Winston,2
 Glenn,12150,Governor,,REP,Andrew Blount,5
 Glenn,12150,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,12150,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Glenn,12150,Governor,,REP,Glenn Champ,3
-Glenn,12150,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,12150,Governor,,IND,Joe Leicht,0
 Glenn,12150,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,12150,Governor,,REP,Neel Kashkari,11
-Glenn,12150,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,12150,Governor,,REP,Richard William Aguirre,0
 Glenn,12150,Governor,,IND,Robert Newman,2
 Glenn,12150,Governor,,REP,Tim Donnelly,15
 Glenn,12150,Insurance Commissioner,,DEM,Dave Jones,33
@@ -350,6 +328,10 @@ Glenn,12150,Lieutenant Governor,,DEM,Gavin Newsom,21
 Glenn,12150,Lieutenant Governor,,REP,George Yang,8
 Glenn,12150,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Glenn,12150,Lieutenant Governor,,REP,Ron Nehring,13
+Glenn,12150,Proposition 41,,,No,39
+Glenn,12150,Proposition 41,,,Yes,38
+Glenn,12150,Proposition 42,,,No,41
+Glenn,12150,Proposition 42,,,Yes,36
 Glenn,12150,Secretary of State,,DEM,Alex Padilla,21
 Glenn,12150,Secretary of State,,IND,Dan Schnur,9
 Glenn,12150,Secretary of State,,GRN,David Curtis,7
@@ -387,7 +369,6 @@ Glenn,2,Controller,,DEM,John A. Pérez,26
 Glenn,2,Controller,,GRN,Laura Wells,19
 Glenn,2,Controller,,DEM,Tammy D. Blair,35
 Glenn,2,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Glenn,2,Governor,,DEM,Akinyemi Agbede,0
 Glenn,2,Governor,,REP,Alma Marie Winston,5
 Glenn,2,Governor,,REP,Andrew Blount,18
 Glenn,2,Governor,,PAF,Cindy L. Sheehan,5
@@ -412,6 +393,10 @@ Glenn,2,Lieutenant Governor,,DEM,Gavin Newsom,72
 Glenn,2,Lieutenant Governor,,REP,George Yang,29
 Glenn,2,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Glenn,2,Lieutenant Governor,,REP,Ron Nehring,96
+Glenn,2,Proposition 41,,,No,157
+Glenn,2,Proposition 41,,,Yes,207
+Glenn,2,Proposition 42,,,No,197
+Glenn,2,Proposition 42,,,Yes,139
 Glenn,2,Secretary of State,,DEM,Alex Padilla,48
 Glenn,2,Secretary of State,,IND,Dan Schnur,52
 Glenn,2,Secretary of State,,GRN,David Curtis,6
@@ -448,7 +433,6 @@ Glenn,3,Controller,,REP,David Evans,103
 Glenn,3,Controller,,DEM,John A. Pérez,23
 Glenn,3,Controller,,GRN,Laura Wells,18
 Glenn,3,Controller,,DEM,Tammy D. Blair,29
-Glenn,3,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,3,Governor,,DEM,Akinyemi Agbede,1
 Glenn,3,Governor,,REP,Alma Marie Winston,1
 Glenn,3,Governor,,REP,Andrew Blount,18
@@ -456,7 +440,6 @@ Glenn,3,Governor,,PAF,Cindy L. Sheehan,3
 Glenn,3,Governor,,DEM,"Edmund G. ""Jerry"" Brown",98
 Glenn,3,Governor,,REP,Glenn Champ,18
 Glenn,3,Governor,,IND,Janel Hyeshia Buycks,1
-Glenn,3,Governor,,IND,Joe Leicht,0
 Glenn,3,Governor,,GRN,Luis J. Rodriguez,2
 Glenn,3,Governor,,REP,Neel Kashkari,78
 Glenn,3,Governor,,IND,Rakesh Kumar Christian,1
@@ -474,6 +457,10 @@ Glenn,3,Lieutenant Governor,,DEM,Gavin Newsom,77
 Glenn,3,Lieutenant Governor,,REP,George Yang,26
 Glenn,3,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Glenn,3,Lieutenant Governor,,REP,Ron Nehring,91
+Glenn,3,Proposition 41,,,No,119
+Glenn,3,Proposition 41,,,Yes,183
+Glenn,3,Proposition 42,,,No,160
+Glenn,3,Proposition 42,,,Yes,131
 Glenn,3,Secretary of State,,DEM,Alex Padilla,43
 Glenn,3,Secretary of State,,IND,Dan Schnur,43
 Glenn,3,Secretary of State,,GRN,David Curtis,10
@@ -510,18 +497,12 @@ Glenn,30011,Controller,,REP,David Evans,44
 Glenn,30011,Controller,,DEM,John A. Pérez,8
 Glenn,30011,Controller,,GRN,Laura Wells,3
 Glenn,30011,Controller,,DEM,Tammy D. Blair,4
-Glenn,30011,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30011,Governor,,DEM,Akinyemi Agbede,0
 Glenn,30011,Governor,,REP,Alma Marie Winston,1
 Glenn,30011,Governor,,REP,Andrew Blount,2
-Glenn,30011,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,30011,Governor,,DEM,"Edmund G. ""Jerry"" Brown",19
 Glenn,30011,Governor,,REP,Glenn Champ,10
-Glenn,30011,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,30011,Governor,,IND,Joe Leicht,0
 Glenn,30011,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,30011,Governor,,REP,Neel Kashkari,21
-Glenn,30011,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,30011,Governor,,REP,Richard William Aguirre,2
 Glenn,30011,Governor,,IND,Robert Newman,3
 Glenn,30011,Governor,,REP,Tim Donnelly,36
@@ -536,10 +517,13 @@ Glenn,30011,Lieutenant Governor,,DEM,Gavin Newsom,18
 Glenn,30011,Lieutenant Governor,,REP,George Yang,3
 Glenn,30011,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,30011,Lieutenant Governor,,REP,Ron Nehring,42
+Glenn,30011,Proposition 41,,,No,56
+Glenn,30011,Proposition 41,,,Yes,38
+Glenn,30011,Proposition 42,,,No,51
+Glenn,30011,Proposition 42,,,Yes,40
 Glenn,30011,Secretary of State,,DEM,Alex Padilla,14
 Glenn,30011,Secretary of State,,IND,Dan Schnur,13
 Glenn,30011,Secretary of State,,GRN,David Curtis,2
-Glenn,30011,Secretary of State,,DEM,Derek Cressman,0
 Glenn,30011,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Glenn,30011,Secretary of State,,DEM,Leland Yee,4
 Glenn,30011,Secretary of State,,REP,Pete Peterson,46
@@ -573,18 +557,13 @@ Glenn,30014,Controller,,DEM,John A. Pérez,2
 Glenn,30014,Controller,,GRN,Laura Wells,4
 Glenn,30014,Controller,,DEM,Tammy D. Blair,7
 Glenn,30014,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Glenn,30014,Governor,,DEM,Akinyemi Agbede,0
 Glenn,30014,Governor,,REP,Alma Marie Winston,3
 Glenn,30014,Governor,,REP,Andrew Blount,6
 Glenn,30014,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,30014,Governor,,DEM,"Edmund G. ""Jerry"" Brown",18
 Glenn,30014,Governor,,REP,Glenn Champ,10
 Glenn,30014,Governor,,IND,Janel Hyeshia Buycks,1
-Glenn,30014,Governor,,IND,Joe Leicht,0
-Glenn,30014,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30014,Governor,,REP,Neel Kashkari,5
-Glenn,30014,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,30014,Governor,,REP,Richard William Aguirre,0
 Glenn,30014,Governor,,IND,Robert Newman,2
 Glenn,30014,Governor,,REP,Tim Donnelly,11
 Glenn,30014,Insurance Commissioner,,DEM,Dave Jones,12
@@ -598,10 +577,13 @@ Glenn,30014,Lieutenant Governor,,DEM,Gavin Newsom,11
 Glenn,30014,Lieutenant Governor,,REP,George Yang,4
 Glenn,30014,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Glenn,30014,Lieutenant Governor,,REP,Ron Nehring,17
+Glenn,30014,Proposition 41,,,No,29
+Glenn,30014,Proposition 41,,,Yes,29
+Glenn,30014,Proposition 42,,,No,33
+Glenn,30014,Proposition 42,,,Yes,26
 Glenn,30014,Secretary of State,,DEM,Alex Padilla,9
 Glenn,30014,Secretary of State,,IND,Dan Schnur,10
 Glenn,30014,Secretary of State,,GRN,David Curtis,2
-Glenn,30014,Secretary of State,,DEM,Derek Cressman,0
 Glenn,30014,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Glenn,30014,Secretary of State,,DEM,Leland Yee,3
 Glenn,30014,Secretary of State,,REP,Pete Peterson,25
@@ -634,20 +616,14 @@ Glenn,30020,Controller,,REP,David Evans,45
 Glenn,30020,Controller,,DEM,John A. Pérez,7
 Glenn,30020,Controller,,GRN,Laura Wells,6
 Glenn,30020,Controller,,DEM,Tammy D. Blair,7
-Glenn,30020,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30020,Governor,,DEM,Akinyemi Agbede,0
-Glenn,30020,Governor,,REP,Alma Marie Winston,0
 Glenn,30020,Governor,,REP,Andrew Blount,6
 Glenn,30020,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,30020,Governor,,DEM,"Edmund G. ""Jerry"" Brown",35
 Glenn,30020,Governor,,REP,Glenn Champ,7
 Glenn,30020,Governor,,IND,Janel Hyeshia Buycks,1
-Glenn,30020,Governor,,IND,Joe Leicht,0
-Glenn,30020,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30020,Governor,,REP,Neel Kashkari,42
 Glenn,30020,Governor,,IND,Rakesh Kumar Christian,2
 Glenn,30020,Governor,,REP,Richard William Aguirre,1
-Glenn,30020,Governor,,IND,Robert Newman,0
 Glenn,30020,Governor,,REP,Tim Donnelly,41
 Glenn,30020,Insurance Commissioner,,DEM,Dave Jones,19
 Glenn,30020,Insurance Commissioner,,PAF,Nathalie Hrizi,8
@@ -660,9 +636,12 @@ Glenn,30020,Lieutenant Governor,,DEM,Gavin Newsom,19
 Glenn,30020,Lieutenant Governor,,REP,George Yang,12
 Glenn,30020,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,30020,Lieutenant Governor,,REP,Ron Nehring,61
+Glenn,30020,Proposition 41,,,No,82
+Glenn,30020,Proposition 41,,,Yes,54
+Glenn,30020,Proposition 42,,,No,65
+Glenn,30020,Proposition 42,,,Yes,63
 Glenn,30020,Secretary of State,,DEM,Alex Padilla,9
 Glenn,30020,Secretary of State,,IND,Dan Schnur,34
-Glenn,30020,Secretary of State,,GRN,David Curtis,0
 Glenn,30020,Secretary of State,,DEM,Derek Cressman,1
 Glenn,30020,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Glenn,30020,Secretary of State,,DEM,Leland Yee,6
@@ -696,18 +675,13 @@ Glenn,30042,Controller,,REP,David Evans,74
 Glenn,30042,Controller,,DEM,John A. Pérez,14
 Glenn,30042,Controller,,GRN,Laura Wells,7
 Glenn,30042,Controller,,DEM,Tammy D. Blair,13
-Glenn,30042,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30042,Governor,,DEM,Akinyemi Agbede,0
 Glenn,30042,Governor,,REP,Alma Marie Winston,3
 Glenn,30042,Governor,,REP,Andrew Blount,15
 Glenn,30042,Governor,,PAF,Cindy L. Sheehan,3
 Glenn,30042,Governor,,DEM,"Edmund G. ""Jerry"" Brown",63
 Glenn,30042,Governor,,REP,Glenn Champ,10
-Glenn,30042,Governor,,IND,Janel Hyeshia Buycks,0
 Glenn,30042,Governor,,IND,Joe Leicht,1
-Glenn,30042,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30042,Governor,,REP,Neel Kashkari,43
-Glenn,30042,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,30042,Governor,,REP,Richard William Aguirre,2
 Glenn,30042,Governor,,IND,Robert Newman,2
 Glenn,30042,Governor,,REP,Tim Donnelly,55
@@ -720,12 +694,14 @@ Glenn,30042,Lieutenant Governor,,REP,David Fennell,60
 Glenn,30042,Lieutenant Governor,,DEM,Eric Korevaar,3
 Glenn,30042,Lieutenant Governor,,DEM,Gavin Newsom,51
 Glenn,30042,Lieutenant Governor,,REP,George Yang,15
-Glenn,30042,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,30042,Lieutenant Governor,,REP,Ron Nehring,53
+Glenn,30042,Proposition 41,,,No,114
+Glenn,30042,Proposition 41,,,Yes,84
+Glenn,30042,Proposition 42,,,No,111
+Glenn,30042,Proposition 42,,,Yes,86
 Glenn,30042,Secretary of State,,DEM,Alex Padilla,37
 Glenn,30042,Secretary of State,,IND,Dan Schnur,24
 Glenn,30042,Secretary of State,,GRN,David Curtis,4
-Glenn,30042,Secretary of State,,DEM,Derek Cressman,0
 Glenn,30042,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Glenn,30042,Secretary of State,,DEM,Leland Yee,8
 Glenn,30042,Secretary of State,,REP,Pete Peterson,93
@@ -745,7 +721,6 @@ Glenn,30042,U.S. House,3,REP,Dan Logue,151
 Glenn,30042,U.S. House,3,DEM,John Garamendi,55
 Glenn,30070,Attorney General,,REP,David King,9
 Glenn,30070,Attorney General,,REP,John Haggerty,41
-Glenn,30070,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,30070,Attorney General,,DEM,Kamala D. Harris,27
 Glenn,30070,Attorney General,,IND,Orly Taitz,5
 Glenn,30070,Attorney General,,REP,Phil Wyman,28
@@ -758,18 +733,11 @@ Glenn,30070,Controller,,REP,David Evans,53
 Glenn,30070,Controller,,DEM,John A. Pérez,10
 Glenn,30070,Controller,,GRN,Laura Wells,3
 Glenn,30070,Controller,,DEM,Tammy D. Blair,9
-Glenn,30070,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30070,Governor,,DEM,Akinyemi Agbede,0
 Glenn,30070,Governor,,REP,Alma Marie Winston,1
 Glenn,30070,Governor,,REP,Andrew Blount,9
-Glenn,30070,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,30070,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Glenn,30070,Governor,,REP,Glenn Champ,4
-Glenn,30070,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,30070,Governor,,IND,Joe Leicht,0
-Glenn,30070,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30070,Governor,,REP,Neel Kashkari,30
-Glenn,30070,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,30070,Governor,,REP,Richard William Aguirre,5
 Glenn,30070,Governor,,IND,Robert Newman,7
 Glenn,30070,Governor,,REP,Tim Donnelly,40
@@ -777,13 +745,16 @@ Glenn,30070,Insurance Commissioner,,DEM,Dave Jones,22
 Glenn,30070,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Glenn,30070,Insurance Commissioner,,REP,Ted Gaines,93
 Glenn,30070,Lieutenant Governor,,AME,Alan Reynolds,2
-Glenn,30070,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,30070,Lieutenant Governor,,REP,David Fennell,33
 Glenn,30070,Lieutenant Governor,,DEM,Eric Korevaar,6
 Glenn,30070,Lieutenant Governor,,DEM,Gavin Newsom,24
 Glenn,30070,Lieutenant Governor,,REP,George Yang,17
 Glenn,30070,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Glenn,30070,Lieutenant Governor,,REP,Ron Nehring,35
+Glenn,30070,Proposition 41,,,No,78
+Glenn,30070,Proposition 41,,,Yes,51
+Glenn,30070,Proposition 42,,,No,72
+Glenn,30070,Proposition 42,,,Yes,55
 Glenn,30070,Secretary of State,,DEM,Alex Padilla,13
 Glenn,30070,Secretary of State,,IND,Dan Schnur,16
 Glenn,30070,Secretary of State,,GRN,David Curtis,7
@@ -809,7 +780,6 @@ Glenn,30072,Attorney General,,REP,David King,4
 Glenn,30072,Attorney General,,REP,John Haggerty,7
 Glenn,30072,Attorney General,,LIB,Jonathan Jaech,2
 Glenn,30072,Attorney General,,DEM,Kamala D. Harris,8
-Glenn,30072,Attorney General,,IND,Orly Taitz,0
 Glenn,30072,Attorney General,,REP,Phil Wyman,7
 Glenn,30072,Attorney General,,REP,Ronald Gold,11
 Glenn,30072,Board of Equalization,2,DEM,Fiona Ma,8
@@ -818,34 +788,24 @@ Glenn,30072,Controller,,REP,Ashley Swearengin,22
 Glenn,30072,Controller,,DEM,Betty T. Yee,4
 Glenn,30072,Controller,,REP,David Evans,12
 Glenn,30072,Controller,,DEM,John A. Pérez,3
-Glenn,30072,Controller,,GRN,Laura Wells,0
-Glenn,30072,Controller,,DEM,Tammy D. Blair,0
-Glenn,30072,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30072,Governor,,DEM,Akinyemi Agbede,0
-Glenn,30072,Governor,,REP,Alma Marie Winston,0
-Glenn,30072,Governor,,REP,Andrew Blount,0
-Glenn,30072,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,30072,Governor,,DEM,"Edmund G. ""Jerry"" Brown",9
 Glenn,30072,Governor,,REP,Glenn Champ,7
-Glenn,30072,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,30072,Governor,,IND,Joe Leicht,0
-Glenn,30072,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30072,Governor,,REP,Neel Kashkari,15
-Glenn,30072,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,30072,Governor,,REP,Richard William Aguirre,0
 Glenn,30072,Governor,,IND,Robert Newman,1
 Glenn,30072,Governor,,REP,Tim Donnelly,13
 Glenn,30072,Insurance Commissioner,,DEM,Dave Jones,8
 Glenn,30072,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Glenn,30072,Insurance Commissioner,,REP,Ted Gaines,29
 Glenn,30072,Lieutenant Governor,,AME,Alan Reynolds,1
-Glenn,30072,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,30072,Lieutenant Governor,,REP,David Fennell,14
-Glenn,30072,Lieutenant Governor,,DEM,Eric Korevaar,0
 Glenn,30072,Lieutenant Governor,,DEM,Gavin Newsom,8
 Glenn,30072,Lieutenant Governor,,REP,George Yang,5
 Glenn,30072,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,30072,Lieutenant Governor,,REP,Ron Nehring,11
+Glenn,30072,Proposition 41,,,No,20
+Glenn,30072,Proposition 41,,,Yes,17
+Glenn,30072,Proposition 42,,,No,19
+Glenn,30072,Proposition 42,,,Yes,18
 Glenn,30072,Secretary of State,,DEM,Alex Padilla,3
 Glenn,30072,Secretary of State,,IND,Dan Schnur,7
 Glenn,30072,Secretary of State,,GRN,David Curtis,5
@@ -884,32 +844,29 @@ Glenn,30081,Controller,,REP,David Evans,36
 Glenn,30081,Controller,,DEM,John A. Pérez,4
 Glenn,30081,Controller,,GRN,Laura Wells,5
 Glenn,30081,Controller,,DEM,Tammy D. Blair,5
-Glenn,30081,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30081,Governor,,DEM,Akinyemi Agbede,0
 Glenn,30081,Governor,,REP,Alma Marie Winston,2
 Glenn,30081,Governor,,REP,Andrew Blount,6
 Glenn,30081,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,30081,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
 Glenn,30081,Governor,,REP,Glenn Champ,9
-Glenn,30081,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,30081,Governor,,IND,Joe Leicht,0
 Glenn,30081,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,30081,Governor,,REP,Neel Kashkari,32
 Glenn,30081,Governor,,IND,Rakesh Kumar Christian,1
-Glenn,30081,Governor,,REP,Richard William Aguirre,0
-Glenn,30081,Governor,,IND,Robert Newman,0
 Glenn,30081,Governor,,REP,Tim Donnelly,20
 Glenn,30081,Insurance Commissioner,,DEM,Dave Jones,11
 Glenn,30081,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Glenn,30081,Insurance Commissioner,,REP,Ted Gaines,75
 Glenn,30081,Lieutenant Governor,,AME,Alan Reynolds,1
-Glenn,30081,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,30081,Lieutenant Governor,,REP,David Fennell,30
 Glenn,30081,Lieutenant Governor,,DEM,Eric Korevaar,2
 Glenn,30081,Lieutenant Governor,,DEM,Gavin Newsom,11
 Glenn,30081,Lieutenant Governor,,REP,George Yang,9
 Glenn,30081,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Glenn,30081,Lieutenant Governor,,REP,Ron Nehring,33
+Glenn,30081,Proposition 41,,,No,40
+Glenn,30081,Proposition 41,,,Yes,47
+Glenn,30081,Proposition 42,,,No,51
+Glenn,30081,Proposition 42,,,Yes,33
 Glenn,30081,Secretary of State,,DEM,Alex Padilla,5
 Glenn,30081,Secretary of State,,IND,Dan Schnur,14
 Glenn,30081,Secretary of State,,GRN,David Curtis,4
@@ -933,7 +890,6 @@ Glenn,30081,U.S. House,3,REP,Dan Logue,75
 Glenn,30081,U.S. House,3,DEM,John Garamendi,12
 Glenn,30082,Attorney General,,REP,David King,1
 Glenn,30082,Attorney General,,REP,John Haggerty,6
-Glenn,30082,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,30082,Attorney General,,DEM,Kamala D. Harris,4
 Glenn,30082,Attorney General,,IND,Orly Taitz,2
 Glenn,30082,Attorney General,,REP,Phil Wyman,6
@@ -941,42 +897,25 @@ Glenn,30082,Attorney General,,REP,Ronald Gold,12
 Glenn,30082,Board of Equalization,2,DEM,Fiona Ma,5
 Glenn,30082,Board of Equalization,2,REP,James E. Theis,25
 Glenn,30082,Controller,,REP,Ashley Swearengin,15
-Glenn,30082,Controller,,DEM,Betty T. Yee,0
 Glenn,30082,Controller,,REP,David Evans,12
 Glenn,30082,Controller,,DEM,John A. Pérez,2
 Glenn,30082,Controller,,GRN,Laura Wells,1
-Glenn,30082,Controller,,DEM,Tammy D. Blair,0
-Glenn,30082,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,30082,Governor,,DEM,Akinyemi Agbede,0
-Glenn,30082,Governor,,REP,Alma Marie Winston,0
-Glenn,30082,Governor,,REP,Andrew Blount,0
-Glenn,30082,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,30082,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Glenn,30082,Governor,,REP,Glenn Champ,0
-Glenn,30082,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,30082,Governor,,IND,Joe Leicht,0
-Glenn,30082,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30082,Governor,,REP,Neel Kashkari,9
-Glenn,30082,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,30082,Governor,,REP,Richard William Aguirre,0
-Glenn,30082,Governor,,IND,Robert Newman,0
 Glenn,30082,Governor,,REP,Tim Donnelly,13
 Glenn,30082,Insurance Commissioner,,DEM,Dave Jones,2
-Glenn,30082,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Glenn,30082,Insurance Commissioner,,REP,Ted Gaines,26
-Glenn,30082,Lieutenant Governor,,AME,Alan Reynolds,0
-Glenn,30082,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,30082,Lieutenant Governor,,REP,David Fennell,4
 Glenn,30082,Lieutenant Governor,,DEM,Eric Korevaar,1
 Glenn,30082,Lieutenant Governor,,DEM,Gavin Newsom,3
 Glenn,30082,Lieutenant Governor,,REP,George Yang,5
-Glenn,30082,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,30082,Lieutenant Governor,,REP,Ron Nehring,16
+Glenn,30082,Proposition 41,,,No,20
+Glenn,30082,Proposition 41,,,Yes,10
+Glenn,30082,Proposition 42,,,No,18
+Glenn,30082,Proposition 42,,,Yes,11
 Glenn,30082,Secretary of State,,DEM,Alex Padilla,1
 Glenn,30082,Secretary of State,,IND,Dan Schnur,3
-Glenn,30082,Secretary of State,,GRN,David Curtis,0
-Glenn,30082,Secretary of State,,DEM,Derek Cressman,0
-Glenn,30082,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Glenn,30082,Secretary of State,,DEM,Leland Yee,1
 Glenn,30082,Secretary of State,,REP,Pete Peterson,23
 Glenn,30082,Secretary of State,,REP,Roy Allmond,1
@@ -988,13 +927,11 @@ Glenn,30082,State Senate,4,REP,Jim Nielsen,26
 Glenn,30082,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 Glenn,30082,Superintendent of Public Instruction,,NOP,Marshall Tuck,17
 Glenn,30082,Superintendent of Public Instruction,,NOP,Tom Torlakson,8
-Glenn,30082,Treasurer,,GRN,Ellen H. Brown,0
 Glenn,30082,Treasurer,,REP,Greg Conlon,22
 Glenn,30082,Treasurer,,DEM,John Chiang,9
 Glenn,30082,U.S. House,1,DEM,Dan Levine,2
 Glenn,30082,U.S. House,1,REP,Doug La Malfa,28
 Glenn,30082,U.S. House,1,REP,Gregory Cheadle,2
-Glenn,30082,U.S. House,1,DEM,Heidi Hall,0
 Glenn,30120,Attorney General,,REP,David King,6
 Glenn,30120,Attorney General,,REP,John Haggerty,39
 Glenn,30120,Attorney General,,LIB,Jonathan Jaech,2
@@ -1010,7 +947,6 @@ Glenn,30120,Controller,,REP,David Evans,57
 Glenn,30120,Controller,,DEM,John A. Pérez,6
 Glenn,30120,Controller,,GRN,Laura Wells,4
 Glenn,30120,Controller,,DEM,Tammy D. Blair,5
-Glenn,30120,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,30120,Governor,,DEM,Akinyemi Agbede,1
 Glenn,30120,Governor,,REP,Alma Marie Winston,1
 Glenn,30120,Governor,,REP,Andrew Blount,13
@@ -1018,12 +954,8 @@ Glenn,30120,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,30120,Governor,,DEM,"Edmund G. ""Jerry"" Brown",35
 Glenn,30120,Governor,,REP,Glenn Champ,11
 Glenn,30120,Governor,,IND,Janel Hyeshia Buycks,1
-Glenn,30120,Governor,,IND,Joe Leicht,0
-Glenn,30120,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,30120,Governor,,REP,Neel Kashkari,40
-Glenn,30120,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,30120,Governor,,REP,Richard William Aguirre,1
-Glenn,30120,Governor,,IND,Robert Newman,0
 Glenn,30120,Governor,,REP,Tim Donnelly,47
 Glenn,30120,Insurance Commissioner,,DEM,Dave Jones,33
 Glenn,30120,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -1036,9 +968,12 @@ Glenn,30120,Lieutenant Governor,,DEM,Gavin Newsom,26
 Glenn,30120,Lieutenant Governor,,REP,George Yang,16
 Glenn,30120,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,30120,Lieutenant Governor,,REP,Ron Nehring,43
+Glenn,30120,Proposition 41,,,No,86
+Glenn,30120,Proposition 41,,,Yes,66
+Glenn,30120,Proposition 42,,,No,86
+Glenn,30120,Proposition 42,,,Yes,60
 Glenn,30120,Secretary of State,,DEM,Alex Padilla,17
 Glenn,30120,Secretary of State,,IND,Dan Schnur,29
-Glenn,30120,Secretary of State,,GRN,David Curtis,0
 Glenn,30120,Secretary of State,,DEM,Derek Cressman,2
 Glenn,30120,Secretary of State,,DEM,Jeffrey H. Drobman,6
 Glenn,30120,Secretary of State,,DEM,Leland Yee,2
@@ -1075,31 +1010,29 @@ Glenn,31070,Controller,,DEM,John A. Pérez,12
 Glenn,31070,Controller,,GRN,Laura Wells,9
 Glenn,31070,Controller,,DEM,Tammy D. Blair,9
 Glenn,31070,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Glenn,31070,Governor,,DEM,Akinyemi Agbede,0
 Glenn,31070,Governor,,REP,Alma Marie Winston,4
 Glenn,31070,Governor,,REP,Andrew Blount,5
 Glenn,31070,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,31070,Governor,,DEM,"Edmund G. ""Jerry"" Brown",36
 Glenn,31070,Governor,,REP,Glenn Champ,4
-Glenn,31070,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,31070,Governor,,IND,Joe Leicht,0
 Glenn,31070,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,31070,Governor,,REP,Neel Kashkari,9
-Glenn,31070,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,31070,Governor,,REP,Richard William Aguirre,0
 Glenn,31070,Governor,,IND,Robert Newman,3
 Glenn,31070,Governor,,REP,Tim Donnelly,15
 Glenn,31070,Insurance Commissioner,,DEM,Dave Jones,39
 Glenn,31070,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Glenn,31070,Insurance Commissioner,,REP,Ted Gaines,37
 Glenn,31070,Lieutenant Governor,,AME,Alan Reynolds,1
-Glenn,31070,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,31070,Lieutenant Governor,,REP,David Fennell,11
 Glenn,31070,Lieutenant Governor,,DEM,Eric Korevaar,9
 Glenn,31070,Lieutenant Governor,,DEM,Gavin Newsom,23
 Glenn,31070,Lieutenant Governor,,REP,George Yang,7
 Glenn,31070,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Glenn,31070,Lieutenant Governor,,REP,Ron Nehring,17
+Glenn,31070,Proposition 41,,,No,28
+Glenn,31070,Proposition 41,,,Yes,50
+Glenn,31070,Proposition 42,,,No,43
+Glenn,31070,Proposition 42,,,Yes,28
 Glenn,31070,Secretary of State,,DEM,Alex Padilla,18
 Glenn,31070,Secretary of State,,IND,Dan Schnur,12
 Glenn,31070,Secretary of State,,GRN,David Curtis,2
@@ -1136,7 +1069,6 @@ Glenn,4,Controller,,REP,David Evans,90
 Glenn,4,Controller,,DEM,John A. Pérez,25
 Glenn,4,Controller,,GRN,Laura Wells,14
 Glenn,4,Controller,,DEM,Tammy D. Blair,37
-Glenn,4,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,4,Governor,,DEM,Akinyemi Agbede,4
 Glenn,4,Governor,,REP,Alma Marie Winston,1
 Glenn,4,Governor,,REP,Andrew Blount,9
@@ -1145,10 +1077,8 @@ Glenn,4,Governor,,DEM,"Edmund G. ""Jerry"" Brown",117
 Glenn,4,Governor,,REP,Glenn Champ,9
 Glenn,4,Governor,,IND,Janel Hyeshia Buycks,3
 Glenn,4,Governor,,IND,Joe Leicht,1
-Glenn,4,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,4,Governor,,REP,Neel Kashkari,72
 Glenn,4,Governor,,IND,Rakesh Kumar Christian,2
-Glenn,4,Governor,,REP,Richard William Aguirre,0
 Glenn,4,Governor,,IND,Robert Newman,4
 Glenn,4,Governor,,REP,Tim Donnelly,81
 Glenn,4,Insurance Commissioner,,DEM,Dave Jones,99
@@ -1162,6 +1092,10 @@ Glenn,4,Lieutenant Governor,,DEM,Gavin Newsom,84
 Glenn,4,Lieutenant Governor,,REP,George Yang,22
 Glenn,4,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Glenn,4,Lieutenant Governor,,REP,Ron Nehring,86
+Glenn,4,Proposition 41,,,No,153
+Glenn,4,Proposition 41,,,Yes,141
+Glenn,4,Proposition 42,,,No,165
+Glenn,4,Proposition 42,,,Yes,119
 Glenn,4,Secretary of State,,DEM,Alex Padilla,60
 Glenn,4,Secretary of State,,IND,Dan Schnur,50
 Glenn,4,Secretary of State,,GRN,David Curtis,5
@@ -1198,7 +1132,6 @@ Glenn,5,Controller,,REP,David Evans,78
 Glenn,5,Controller,,DEM,John A. Pérez,31
 Glenn,5,Controller,,GRN,Laura Wells,19
 Glenn,5,Controller,,DEM,Tammy D. Blair,35
-Glenn,5,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,5,Governor,,DEM,Akinyemi Agbede,2
 Glenn,5,Governor,,REP,Alma Marie Winston,3
 Glenn,5,Governor,,REP,Andrew Blount,8
@@ -1206,7 +1139,6 @@ Glenn,5,Governor,,PAF,Cindy L. Sheehan,5
 Glenn,5,Governor,,DEM,"Edmund G. ""Jerry"" Brown",119
 Glenn,5,Governor,,REP,Glenn Champ,11
 Glenn,5,Governor,,IND,Janel Hyeshia Buycks,5
-Glenn,5,Governor,,IND,Joe Leicht,0
 Glenn,5,Governor,,GRN,Luis J. Rodriguez,3
 Glenn,5,Governor,,REP,Neel Kashkari,44
 Glenn,5,Governor,,IND,Rakesh Kumar Christian,2
@@ -1224,6 +1156,10 @@ Glenn,5,Lieutenant Governor,,DEM,Gavin Newsom,81
 Glenn,5,Lieutenant Governor,,REP,George Yang,17
 Glenn,5,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Glenn,5,Lieutenant Governor,,REP,Ron Nehring,58
+Glenn,5,Proposition 41,,,No,90
+Glenn,5,Proposition 41,,,Yes,175
+Glenn,5,Proposition 42,,,No,111
+Glenn,5,Proposition 42,,,Yes,145
 Glenn,5,Secretary of State,,DEM,Alex Padilla,63
 Glenn,5,Secretary of State,,IND,Dan Schnur,34
 Glenn,5,Secretary of State,,GRN,David Curtis,11
@@ -1260,25 +1196,19 @@ Glenn,50010,Controller,,REP,David Evans,16
 Glenn,50010,Controller,,DEM,John A. Pérez,7
 Glenn,50010,Controller,,GRN,Laura Wells,3
 Glenn,50010,Controller,,DEM,Tammy D. Blair,3
-Glenn,50010,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50010,Governor,,DEM,Akinyemi Agbede,0
-Glenn,50010,Governor,,REP,Alma Marie Winston,0
 Glenn,50010,Governor,,REP,Andrew Blount,1
 Glenn,50010,Governor,,PAF,Cindy L. Sheehan,1
 Glenn,50010,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Glenn,50010,Governor,,REP,Glenn Champ,3
-Glenn,50010,Governor,,IND,Janel Hyeshia Buycks,0
 Glenn,50010,Governor,,IND,Joe Leicht,1
 Glenn,50010,Governor,,GRN,Luis J. Rodriguez,2
 Glenn,50010,Governor,,REP,Neel Kashkari,4
-Glenn,50010,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,50010,Governor,,REP,Richard William Aguirre,1
 Glenn,50010,Governor,,IND,Robert Newman,1
 Glenn,50010,Governor,,REP,Tim Donnelly,15
 Glenn,50010,Insurance Commissioner,,DEM,Dave Jones,10
 Glenn,50010,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Glenn,50010,Insurance Commissioner,,REP,Ted Gaines,23
-Glenn,50010,Lieutenant Governor,,AME,Alan Reynolds,0
 Glenn,50010,Lieutenant Governor,,PAF,Amos Johnson,1
 Glenn,50010,Lieutenant Governor,,REP,David Fennell,5
 Glenn,50010,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -1286,11 +1216,13 @@ Glenn,50010,Lieutenant Governor,,DEM,Gavin Newsom,8
 Glenn,50010,Lieutenant Governor,,REP,George Yang,3
 Glenn,50010,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Glenn,50010,Lieutenant Governor,,REP,Ron Nehring,16
+Glenn,50010,Proposition 41,,,No,20
+Glenn,50010,Proposition 41,,,Yes,19
+Glenn,50010,Proposition 42,,,No,17
+Glenn,50010,Proposition 42,,,Yes,22
 Glenn,50010,Secretary of State,,DEM,Alex Padilla,6
 Glenn,50010,Secretary of State,,IND,Dan Schnur,2
-Glenn,50010,Secretary of State,,GRN,David Curtis,0
 Glenn,50010,Secretary of State,,DEM,Derek Cressman,4
-Glenn,50010,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Glenn,50010,Secretary of State,,DEM,Leland Yee,2
 Glenn,50010,Secretary of State,,REP,Pete Peterson,25
 Glenn,50010,Secretary of State,,REP,Roy Allmond,1
@@ -1324,32 +1256,27 @@ Glenn,50022,Controller,,REP,David Evans,42
 Glenn,50022,Controller,,DEM,John A. Pérez,4
 Glenn,50022,Controller,,GRN,Laura Wells,5
 Glenn,50022,Controller,,DEM,Tammy D. Blair,4
-Glenn,50022,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50022,Governor,,DEM,Akinyemi Agbede,0
-Glenn,50022,Governor,,REP,Alma Marie Winston,0
 Glenn,50022,Governor,,REP,Andrew Blount,5
-Glenn,50022,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50022,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Glenn,50022,Governor,,REP,Glenn Champ,3
-Glenn,50022,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,50022,Governor,,IND,Joe Leicht,0
 Glenn,50022,Governor,,GRN,Luis J. Rodriguez,4
 Glenn,50022,Governor,,REP,Neel Kashkari,26
-Glenn,50022,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,50022,Governor,,REP,Richard William Aguirre,0
 Glenn,50022,Governor,,IND,Robert Newman,3
 Glenn,50022,Governor,,REP,Tim Donnelly,35
 Glenn,50022,Insurance Commissioner,,DEM,Dave Jones,17
 Glenn,50022,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Glenn,50022,Insurance Commissioner,,REP,Ted Gaines,74
 Glenn,50022,Lieutenant Governor,,AME,Alan Reynolds,2
-Glenn,50022,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,50022,Lieutenant Governor,,REP,David Fennell,16
 Glenn,50022,Lieutenant Governor,,DEM,Eric Korevaar,1
 Glenn,50022,Lieutenant Governor,,DEM,Gavin Newsom,18
 Glenn,50022,Lieutenant Governor,,REP,George Yang,15
 Glenn,50022,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Glenn,50022,Lieutenant Governor,,REP,Ron Nehring,34
+Glenn,50022,Proposition 41,,,No,52
+Glenn,50022,Proposition 41,,,Yes,48
+Glenn,50022,Proposition 42,,,No,61
+Glenn,50022,Proposition 42,,,Yes,34
 Glenn,50022,Secretary of State,,DEM,Alex Padilla,6
 Glenn,50022,Secretary of State,,IND,Dan Schnur,9
 Glenn,50022,Secretary of State,,GRN,David Curtis,5
@@ -1375,7 +1302,6 @@ Glenn,50022,U.S. House,1,REP,Gregory Cheadle,5
 Glenn,50022,U.S. House,1,DEM,Heidi Hall,14
 Glenn,50030,Attorney General,,REP,David King,3
 Glenn,50030,Attorney General,,REP,John Haggerty,20
-Glenn,50030,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,50030,Attorney General,,DEM,Kamala D. Harris,11
 Glenn,50030,Attorney General,,IND,Orly Taitz,4
 Glenn,50030,Attorney General,,REP,Phil Wyman,33
@@ -1385,21 +1311,16 @@ Glenn,50030,Board of Equalization,2,REP,James E. Theis,67
 Glenn,50030,Controller,,REP,Ashley Swearengin,20
 Glenn,50030,Controller,,DEM,Betty T. Yee,8
 Glenn,50030,Controller,,REP,David Evans,44
-Glenn,50030,Controller,,DEM,John A. Pérez,0
 Glenn,50030,Controller,,GRN,Laura Wells,6
 Glenn,50030,Controller,,DEM,Tammy D. Blair,2
 Glenn,50030,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Glenn,50030,Governor,,DEM,Akinyemi Agbede,0
 Glenn,50030,Governor,,REP,Alma Marie Winston,2
 Glenn,50030,Governor,,REP,Andrew Blount,6
-Glenn,50030,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50030,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Glenn,50030,Governor,,REP,Glenn Champ,1
 Glenn,50030,Governor,,IND,Janel Hyeshia Buycks,1
-Glenn,50030,Governor,,IND,Joe Leicht,0
 Glenn,50030,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,50030,Governor,,REP,Neel Kashkari,27
-Glenn,50030,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,50030,Governor,,REP,Richard William Aguirre,1
 Glenn,50030,Governor,,IND,Robert Newman,1
 Glenn,50030,Governor,,REP,Tim Donnelly,31
@@ -1412,8 +1333,11 @@ Glenn,50030,Lieutenant Governor,,REP,David Fennell,28
 Glenn,50030,Lieutenant Governor,,DEM,Eric Korevaar,1
 Glenn,50030,Lieutenant Governor,,DEM,Gavin Newsom,11
 Glenn,50030,Lieutenant Governor,,REP,George Yang,12
-Glenn,50030,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,50030,Lieutenant Governor,,REP,Ron Nehring,23
+Glenn,50030,Proposition 41,,,No,59
+Glenn,50030,Proposition 41,,,Yes,24
+Glenn,50030,Proposition 42,,,No,48
+Glenn,50030,Proposition 42,,,Yes,31
 Glenn,50030,Secretary of State,,DEM,Alex Padilla,4
 Glenn,50030,Secretary of State,,IND,Dan Schnur,3
 Glenn,50030,Secretary of State,,GRN,David Curtis,1
@@ -1439,7 +1363,6 @@ Glenn,50030,U.S. House,1,REP,Gregory Cheadle,4
 Glenn,50030,U.S. House,1,DEM,Heidi Hall,6
 Glenn,50052,Attorney General,,REP,David King,1
 Glenn,50052,Attorney General,,REP,John Haggerty,22
-Glenn,50052,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,50052,Attorney General,,DEM,Kamala D. Harris,15
 Glenn,50052,Attorney General,,IND,Orly Taitz,1
 Glenn,50052,Attorney General,,REP,Phil Wyman,24
@@ -1452,19 +1375,13 @@ Glenn,50052,Controller,,REP,David Evans,15
 Glenn,50052,Controller,,DEM,John A. Pérez,5
 Glenn,50052,Controller,,GRN,Laura Wells,5
 Glenn,50052,Controller,,DEM,Tammy D. Blair,9
-Glenn,50052,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50052,Governor,,DEM,Akinyemi Agbede,0
 Glenn,50052,Governor,,REP,Alma Marie Winston,1
 Glenn,50052,Governor,,REP,Andrew Blount,8
 Glenn,50052,Governor,,PAF,Cindy L. Sheehan,2
 Glenn,50052,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
 Glenn,50052,Governor,,REP,Glenn Champ,2
-Glenn,50052,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,50052,Governor,,IND,Joe Leicht,0
-Glenn,50052,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,50052,Governor,,REP,Neel Kashkari,28
 Glenn,50052,Governor,,IND,Rakesh Kumar Christian,1
-Glenn,50052,Governor,,REP,Richard William Aguirre,0
 Glenn,50052,Governor,,IND,Robert Newman,3
 Glenn,50052,Governor,,REP,Tim Donnelly,19
 Glenn,50052,Insurance Commissioner,,DEM,Dave Jones,17
@@ -1478,6 +1395,10 @@ Glenn,50052,Lieutenant Governor,,DEM,Gavin Newsom,12
 Glenn,50052,Lieutenant Governor,,REP,George Yang,13
 Glenn,50052,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,50052,Lieutenant Governor,,REP,Ron Nehring,23
+Glenn,50052,Proposition 41,,,No,45
+Glenn,50052,Proposition 41,,,Yes,39
+Glenn,50052,Proposition 42,,,No,45
+Glenn,50052,Proposition 42,,,Yes,39
 Glenn,50052,Secretary of State,,DEM,Alex Padilla,11
 Glenn,50052,Secretary of State,,IND,Dan Schnur,15
 Glenn,50052,Secretary of State,,GRN,David Curtis,2
@@ -1516,18 +1437,12 @@ Glenn,50061,Controller,,REP,David Evans,59
 Glenn,50061,Controller,,DEM,John A. Pérez,12
 Glenn,50061,Controller,,GRN,Laura Wells,4
 Glenn,50061,Controller,,DEM,Tammy D. Blair,4
-Glenn,50061,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,50061,Governor,,DEM,Akinyemi Agbede,2
-Glenn,50061,Governor,,REP,Alma Marie Winston,0
 Glenn,50061,Governor,,REP,Andrew Blount,2
-Glenn,50061,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50061,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 Glenn,50061,Governor,,REP,Glenn Champ,8
-Glenn,50061,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,50061,Governor,,IND,Joe Leicht,0
 Glenn,50061,Governor,,GRN,Luis J. Rodriguez,1
 Glenn,50061,Governor,,REP,Neel Kashkari,28
-Glenn,50061,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,50061,Governor,,REP,Richard William Aguirre,2
 Glenn,50061,Governor,,IND,Robert Newman,6
 Glenn,50061,Governor,,REP,Tim Donnelly,66
@@ -1542,6 +1457,10 @@ Glenn,50061,Lieutenant Governor,,DEM,Gavin Newsom,25
 Glenn,50061,Lieutenant Governor,,REP,George Yang,14
 Glenn,50061,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,50061,Lieutenant Governor,,REP,Ron Nehring,57
+Glenn,50061,Proposition 41,,,No,66
+Glenn,50061,Proposition 41,,,Yes,70
+Glenn,50061,Proposition 42,,,No,68
+Glenn,50061,Proposition 42,,,Yes,66
 Glenn,50061,Secretary of State,,DEM,Alex Padilla,17
 Glenn,50061,Secretary of State,,IND,Dan Schnur,17
 Glenn,50061,Secretary of State,,GRN,David Curtis,1
@@ -1565,7 +1484,6 @@ Glenn,50061,U.S. House,3,REP,Dan Logue,111
 Glenn,50061,U.S. House,3,DEM,John Garamendi,32
 Glenn,50081,Attorney General,,REP,David King,2
 Glenn,50081,Attorney General,,REP,John Haggerty,1
-Glenn,50081,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,50081,Attorney General,,DEM,Kamala D. Harris,2
 Glenn,50081,Attorney General,,IND,Orly Taitz,2
 Glenn,50081,Attorney General,,REP,Phil Wyman,3
@@ -1573,43 +1491,26 @@ Glenn,50081,Attorney General,,REP,Ronald Gold,1
 Glenn,50081,Board of Equalization,2,DEM,Fiona Ma,5
 Glenn,50081,Board of Equalization,2,REP,James E. Theis,6
 Glenn,50081,Controller,,REP,Ashley Swearengin,3
-Glenn,50081,Controller,,DEM,Betty T. Yee,0
 Glenn,50081,Controller,,REP,David Evans,5
 Glenn,50081,Controller,,DEM,John A. Pérez,2
-Glenn,50081,Controller,,GRN,Laura Wells,0
 Glenn,50081,Controller,,DEM,Tammy D. Blair,1
-Glenn,50081,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50081,Governor,,DEM,Akinyemi Agbede,0
-Glenn,50081,Governor,,REP,Alma Marie Winston,0
 Glenn,50081,Governor,,REP,Andrew Blount,1
-Glenn,50081,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50081,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Glenn,50081,Governor,,REP,Glenn Champ,1
-Glenn,50081,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,50081,Governor,,IND,Joe Leicht,0
-Glenn,50081,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,50081,Governor,,REP,Neel Kashkari,1
-Glenn,50081,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,50081,Governor,,REP,Richard William Aguirre,0
-Glenn,50081,Governor,,IND,Robert Newman,0
 Glenn,50081,Governor,,REP,Tim Donnelly,5
 Glenn,50081,Insurance Commissioner,,DEM,Dave Jones,3
-Glenn,50081,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Glenn,50081,Insurance Commissioner,,REP,Ted Gaines,8
-Glenn,50081,Lieutenant Governor,,AME,Alan Reynolds,0
-Glenn,50081,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,50081,Lieutenant Governor,,REP,David Fennell,3
-Glenn,50081,Lieutenant Governor,,DEM,Eric Korevaar,0
 Glenn,50081,Lieutenant Governor,,DEM,Gavin Newsom,3
 Glenn,50081,Lieutenant Governor,,REP,George Yang,1
-Glenn,50081,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,50081,Lieutenant Governor,,REP,Ron Nehring,4
+Glenn,50081,Proposition 41,,,No,7
+Glenn,50081,Proposition 41,,,Yes,5
+Glenn,50081,Proposition 42,,,No,7
+Glenn,50081,Proposition 42,,,Yes,3
 Glenn,50081,Secretary of State,,DEM,Alex Padilla,2
 Glenn,50081,Secretary of State,,IND,Dan Schnur,1
-Glenn,50081,Secretary of State,,GRN,David Curtis,0
-Glenn,50081,Secretary of State,,DEM,Derek Cressman,0
-Glenn,50081,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Glenn,50081,Secretary of State,,DEM,Leland Yee,0
 Glenn,50081,Secretary of State,,REP,Pete Peterson,5
 Glenn,50081,Secretary of State,,REP,Roy Allmond,3
 Glenn,50081,State Assembly,3,REP,James Gallagher,2
@@ -1620,7 +1521,6 @@ Glenn,50081,State Senate,4,REP,Jim Nielsen,9
 Glenn,50081,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
 Glenn,50081,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
 Glenn,50081,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-Glenn,50081,Treasurer,,GRN,Ellen H. Brown,0
 Glenn,50081,Treasurer,,REP,Greg Conlon,8
 Glenn,50081,Treasurer,,DEM,John Chiang,3
 Glenn,50081,U.S. House,3,REP,Dan Logue,8
@@ -1640,32 +1540,27 @@ Glenn,50082,Controller,,REP,David Evans,30
 Glenn,50082,Controller,,DEM,John A. Pérez,3
 Glenn,50082,Controller,,GRN,Laura Wells,2
 Glenn,50082,Controller,,DEM,Tammy D. Blair,1
-Glenn,50082,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50082,Governor,,DEM,Akinyemi Agbede,0
 Glenn,50082,Governor,,REP,Alma Marie Winston,3
 Glenn,50082,Governor,,REP,Andrew Blount,5
-Glenn,50082,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50082,Governor,,DEM,"Edmund G. ""Jerry"" Brown",18
 Glenn,50082,Governor,,REP,Glenn Champ,4
 Glenn,50082,Governor,,IND,Janel Hyeshia Buycks,1
-Glenn,50082,Governor,,IND,Joe Leicht,0
-Glenn,50082,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,50082,Governor,,REP,Neel Kashkari,31
-Glenn,50082,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,50082,Governor,,REP,Richard William Aguirre,0
 Glenn,50082,Governor,,IND,Robert Newman,4
 Glenn,50082,Governor,,REP,Tim Donnelly,30
 Glenn,50082,Insurance Commissioner,,DEM,Dave Jones,15
 Glenn,50082,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Glenn,50082,Insurance Commissioner,,REP,Ted Gaines,73
 Glenn,50082,Lieutenant Governor,,AME,Alan Reynolds,2
-Glenn,50082,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,50082,Lieutenant Governor,,REP,David Fennell,14
 Glenn,50082,Lieutenant Governor,,DEM,Eric Korevaar,1
 Glenn,50082,Lieutenant Governor,,DEM,Gavin Newsom,17
 Glenn,50082,Lieutenant Governor,,REP,George Yang,9
-Glenn,50082,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,50082,Lieutenant Governor,,REP,Ron Nehring,48
+Glenn,50082,Proposition 41,,,No,53
+Glenn,50082,Proposition 41,,,Yes,39
+Glenn,50082,Proposition 42,,,No,45
+Glenn,50082,Proposition 42,,,Yes,42
 Glenn,50082,Secretary of State,,DEM,Alex Padilla,9
 Glenn,50082,Secretary of State,,IND,Dan Schnur,24
 Glenn,50082,Secretary of State,,GRN,David Curtis,2
@@ -1689,9 +1584,7 @@ Glenn,50082,U.S. House,3,REP,Dan Logue,72
 Glenn,50082,U.S. House,3,DEM,John Garamendi,24
 Glenn,50083,Attorney General,,REP,David King,4
 Glenn,50083,Attorney General,,REP,John Haggerty,12
-Glenn,50083,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,50083,Attorney General,,DEM,Kamala D. Harris,14
-Glenn,50083,Attorney General,,IND,Orly Taitz,0
 Glenn,50083,Attorney General,,REP,Phil Wyman,13
 Glenn,50083,Attorney General,,REP,Ronald Gold,5
 Glenn,50083,Board of Equalization,2,DEM,Fiona Ma,12
@@ -1700,38 +1593,27 @@ Glenn,50083,Controller,,REP,Ashley Swearengin,18
 Glenn,50083,Controller,,DEM,Betty T. Yee,5
 Glenn,50083,Controller,,REP,David Evans,21
 Glenn,50083,Controller,,DEM,John A. Pérez,5
-Glenn,50083,Controller,,GRN,Laura Wells,0
 Glenn,50083,Controller,,DEM,Tammy D. Blair,1
-Glenn,50083,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50083,Governor,,DEM,Akinyemi Agbede,0
-Glenn,50083,Governor,,REP,Alma Marie Winston,0
 Glenn,50083,Governor,,REP,Andrew Blount,1
-Glenn,50083,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50083,Governor,,DEM,"Edmund G. ""Jerry"" Brown",10
-Glenn,50083,Governor,,REP,Glenn Champ,0
 Glenn,50083,Governor,,IND,Janel Hyeshia Buycks,2
-Glenn,50083,Governor,,IND,Joe Leicht,0
-Glenn,50083,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,50083,Governor,,REP,Neel Kashkari,23
-Glenn,50083,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,50083,Governor,,REP,Richard William Aguirre,1
-Glenn,50083,Governor,,IND,Robert Newman,0
 Glenn,50083,Governor,,REP,Tim Donnelly,16
 Glenn,50083,Insurance Commissioner,,DEM,Dave Jones,8
 Glenn,50083,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Glenn,50083,Insurance Commissioner,,REP,Ted Gaines,42
-Glenn,50083,Lieutenant Governor,,AME,Alan Reynolds,0
-Glenn,50083,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,50083,Lieutenant Governor,,REP,David Fennell,14
 Glenn,50083,Lieutenant Governor,,DEM,Eric Korevaar,1
 Glenn,50083,Lieutenant Governor,,DEM,Gavin Newsom,11
 Glenn,50083,Lieutenant Governor,,REP,George Yang,2
-Glenn,50083,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,50083,Lieutenant Governor,,REP,Ron Nehring,23
+Glenn,50083,Proposition 41,,,No,27
+Glenn,50083,Proposition 41,,,Yes,24
+Glenn,50083,Proposition 42,,,No,29
+Glenn,50083,Proposition 42,,,Yes,20
 Glenn,50083,Secretary of State,,DEM,Alex Padilla,6
 Glenn,50083,Secretary of State,,IND,Dan Schnur,12
-Glenn,50083,Secretary of State,,GRN,David Curtis,0
-Glenn,50083,Secretary of State,,DEM,Derek Cressman,0
 Glenn,50083,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Glenn,50083,Secretary of State,,DEM,Leland Yee,1
 Glenn,50083,Secretary of State,,REP,Pete Peterson,25
@@ -1766,25 +1648,16 @@ Glenn,50084,Controller,,REP,David Evans,17
 Glenn,50084,Controller,,DEM,John A. Pérez,9
 Glenn,50084,Controller,,GRN,Laura Wells,2
 Glenn,50084,Controller,,DEM,Tammy D. Blair,10
-Glenn,50084,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50084,Governor,,DEM,Akinyemi Agbede,0
 Glenn,50084,Governor,,REP,Alma Marie Winston,3
 Glenn,50084,Governor,,REP,Andrew Blount,3
-Glenn,50084,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50084,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Glenn,50084,Governor,,REP,Glenn Champ,3
-Glenn,50084,Governor,,IND,Janel Hyeshia Buycks,0
 Glenn,50084,Governor,,IND,Joe Leicht,1
-Glenn,50084,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,50084,Governor,,REP,Neel Kashkari,17
-Glenn,50084,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,50084,Governor,,REP,Richard William Aguirre,0
-Glenn,50084,Governor,,IND,Robert Newman,0
 Glenn,50084,Governor,,REP,Tim Donnelly,14
 Glenn,50084,Insurance Commissioner,,DEM,Dave Jones,23
 Glenn,50084,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Glenn,50084,Insurance Commissioner,,REP,Ted Gaines,43
-Glenn,50084,Lieutenant Governor,,AME,Alan Reynolds,0
 Glenn,50084,Lieutenant Governor,,PAF,Amos Johnson,1
 Glenn,50084,Lieutenant Governor,,REP,David Fennell,16
 Glenn,50084,Lieutenant Governor,,DEM,Eric Korevaar,6
@@ -1792,6 +1665,10 @@ Glenn,50084,Lieutenant Governor,,DEM,Gavin Newsom,18
 Glenn,50084,Lieutenant Governor,,REP,George Yang,6
 Glenn,50084,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Glenn,50084,Lieutenant Governor,,REP,Ron Nehring,15
+Glenn,50084,Proposition 41,,,No,33
+Glenn,50084,Proposition 41,,,Yes,34
+Glenn,50084,Proposition 42,,,No,32
+Glenn,50084,Proposition 42,,,Yes,34
 Glenn,50084,Secretary of State,,DEM,Alex Padilla,16
 Glenn,50084,Secretary of State,,IND,Dan Schnur,8
 Glenn,50084,Secretary of State,,GRN,David Curtis,2
@@ -1815,7 +1692,6 @@ Glenn,50084,U.S. House,3,REP,Dan Logue,40
 Glenn,50084,U.S. House,3,DEM,John Garamendi,28
 Glenn,50085,Attorney General,,REP,David King,1
 Glenn,50085,Attorney General,,REP,John Haggerty,5
-Glenn,50085,Attorney General,,LIB,Jonathan Jaech,0
 Glenn,50085,Attorney General,,DEM,Kamala D. Harris,3
 Glenn,50085,Attorney General,,IND,Orly Taitz,1
 Glenn,50085,Attorney General,,REP,Phil Wyman,5
@@ -1828,38 +1704,22 @@ Glenn,50085,Controller,,REP,David Evans,3
 Glenn,50085,Controller,,DEM,John A. Pérez,2
 Glenn,50085,Controller,,GRN,Laura Wells,1
 Glenn,50085,Controller,,DEM,Tammy D. Blair,1
-Glenn,50085,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Glenn,50085,Governor,,DEM,Akinyemi Agbede,0
-Glenn,50085,Governor,,REP,Alma Marie Winston,0
-Glenn,50085,Governor,,REP,Andrew Blount,0
-Glenn,50085,Governor,,PAF,Cindy L. Sheehan,0
 Glenn,50085,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Glenn,50085,Governor,,REP,Glenn Champ,0
-Glenn,50085,Governor,,IND,Janel Hyeshia Buycks,0
-Glenn,50085,Governor,,IND,Joe Leicht,0
-Glenn,50085,Governor,,GRN,Luis J. Rodriguez,0
 Glenn,50085,Governor,,REP,Neel Kashkari,7
-Glenn,50085,Governor,,IND,Rakesh Kumar Christian,0
-Glenn,50085,Governor,,REP,Richard William Aguirre,0
 Glenn,50085,Governor,,IND,Robert Newman,3
 Glenn,50085,Governor,,REP,Tim Donnelly,6
 Glenn,50085,Insurance Commissioner,,DEM,Dave Jones,4
-Glenn,50085,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Glenn,50085,Insurance Commissioner,,REP,Ted Gaines,15
-Glenn,50085,Lieutenant Governor,,AME,Alan Reynolds,0
-Glenn,50085,Lieutenant Governor,,PAF,Amos Johnson,0
 Glenn,50085,Lieutenant Governor,,REP,David Fennell,4
-Glenn,50085,Lieutenant Governor,,DEM,Eric Korevaar,0
 Glenn,50085,Lieutenant Governor,,DEM,Gavin Newsom,2
 Glenn,50085,Lieutenant Governor,,REP,George Yang,2
-Glenn,50085,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Glenn,50085,Lieutenant Governor,,REP,Ron Nehring,9
+Glenn,50085,Proposition 41,,,No,10
+Glenn,50085,Proposition 41,,,Yes,10
+Glenn,50085,Proposition 42,,,No,6
+Glenn,50085,Proposition 42,,,Yes,12
 Glenn,50085,Secretary of State,,DEM,Alex Padilla,4
 Glenn,50085,Secretary of State,,IND,Dan Schnur,4
-Glenn,50085,Secretary of State,,GRN,David Curtis,0
-Glenn,50085,Secretary of State,,DEM,Derek Cressman,0
-Glenn,50085,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Glenn,50085,Secretary of State,,DEM,Leland Yee,0
 Glenn,50085,Secretary of State,,REP,Pete Peterson,6
 Glenn,50085,Secretary of State,,REP,Roy Allmond,4
 Glenn,50085,State Assembly,3,REP,James Gallagher,5
@@ -1901,7 +1761,6 @@ Glenn,6,Governor,,IND,Janel Hyeshia Buycks,5
 Glenn,6,Governor,,IND,Joe Leicht,2
 Glenn,6,Governor,,GRN,Luis J. Rodriguez,4
 Glenn,6,Governor,,REP,Neel Kashkari,88
-Glenn,6,Governor,,IND,Rakesh Kumar Christian,0
 Glenn,6,Governor,,REP,Richard William Aguirre,2
 Glenn,6,Governor,,IND,Robert Newman,5
 Glenn,6,Governor,,REP,Tim Donnelly,109
@@ -1916,6 +1775,10 @@ Glenn,6,Lieutenant Governor,,DEM,Gavin Newsom,69
 Glenn,6,Lieutenant Governor,,REP,George Yang,37
 Glenn,6,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Glenn,6,Lieutenant Governor,,REP,Ron Nehring,92
+Glenn,6,Proposition 41,,,No,214
+Glenn,6,Proposition 41,,,Yes,179
+Glenn,6,Proposition 42,,,No,214
+Glenn,6,Proposition 42,,,Yes,174
 Glenn,6,Secretary of State,,DEM,Alex Padilla,58
 Glenn,6,Secretary of State,,IND,Dan Schnur,57
 Glenn,6,Secretary of State,,GRN,David Curtis,18
@@ -1952,7 +1815,6 @@ Glenn,7,Controller,,REP,David Evans,139
 Glenn,7,Controller,,DEM,John A. Pérez,52
 Glenn,7,Controller,,GRN,Laura Wells,31
 Glenn,7,Controller,,DEM,Tammy D. Blair,32
-Glenn,7,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Glenn,7,Governor,,DEM,Akinyemi Agbede,4
 Glenn,7,Governor,,REP,Alma Marie Winston,12
 Glenn,7,Governor,,REP,Andrew Blount,26
@@ -1978,6 +1840,10 @@ Glenn,7,Lieutenant Governor,,DEM,Gavin Newsom,84
 Glenn,7,Lieutenant Governor,,REP,George Yang,40
 Glenn,7,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Glenn,7,Lieutenant Governor,,REP,Ron Nehring,117
+Glenn,7,Proposition 41,,,No,196
+Glenn,7,Proposition 41,,,Yes,222
+Glenn,7,Proposition 42,,,No,229
+Glenn,7,Proposition 42,,,Yes,178
 Glenn,7,Secretary of State,,DEM,Alex Padilla,77
 Glenn,7,Secretary of State,,IND,Dan Schnur,75
 Glenn,7,Secretary of State,,GRN,David Curtis,10
@@ -2022,7 +1888,6 @@ Glenn,8,Governor,,PAF,Cindy L. Sheehan,8
 Glenn,8,Governor,,DEM,"Edmund G. ""Jerry"" Brown",161
 Glenn,8,Governor,,REP,Glenn Champ,11
 Glenn,8,Governor,,IND,Janel Hyeshia Buycks,2
-Glenn,8,Governor,,IND,Joe Leicht,0
 Glenn,8,Governor,,GRN,Luis J. Rodriguez,8
 Glenn,8,Governor,,REP,Neel Kashkari,75
 Glenn,8,Governor,,IND,Rakesh Kumar Christian,4
@@ -2040,6 +1905,10 @@ Glenn,8,Lieutenant Governor,,DEM,Gavin Newsom,99
 Glenn,8,Lieutenant Governor,,REP,George Yang,35
 Glenn,8,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Glenn,8,Lieutenant Governor,,REP,Ron Nehring,93
+Glenn,8,Proposition 41,,,No,202
+Glenn,8,Proposition 41,,,Yes,201
+Glenn,8,Proposition 42,,,No,219
+Glenn,8,Proposition 42,,,Yes,171
 Glenn,8,Secretary of State,,DEM,Alex Padilla,84
 Glenn,8,Secretary of State,,IND,Dan Schnur,56
 Glenn,8,Secretary of State,,GRN,David Curtis,20
@@ -2077,7 +1946,6 @@ Glenn,9,Controller,,DEM,John A. Pérez,45
 Glenn,9,Controller,,GRN,Laura Wells,21
 Glenn,9,Controller,,DEM,Tammy D. Blair,37
 Glenn,9,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Glenn,9,Governor,,DEM,Akinyemi Agbede,0
 Glenn,9,Governor,,REP,Alma Marie Winston,5
 Glenn,9,Governor,,REP,Andrew Blount,26
 Glenn,9,Governor,,PAF,Cindy L. Sheehan,7
@@ -2102,6 +1970,10 @@ Glenn,9,Lieutenant Governor,,DEM,Gavin Newsom,98
 Glenn,9,Lieutenant Governor,,REP,George Yang,33
 Glenn,9,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Glenn,9,Lieutenant Governor,,REP,Ron Nehring,95
+Glenn,9,Proposition 41,,,No,185
+Glenn,9,Proposition 41,,,Yes,212
+Glenn,9,Proposition 42,,,No,191
+Glenn,9,Proposition 42,,,Yes,199
 Glenn,9,Secretary of State,,DEM,Alex Padilla,77
 Glenn,9,Secretary of State,,IND,Dan Schnur,55
 Glenn,9,Secretary of State,,GRN,David Curtis,16

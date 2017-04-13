@@ -14,35 +14,28 @@ Merced,1,Controller,,REP,David Evans,18
 Merced,1,Controller,,DEM,John A. Pérez,4
 Merced,1,Controller,,GRN,Laura Wells,1
 Merced,1,Controller,,DEM,Tammy D. Blair,1
-Merced,1,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,1,Governor,,DEM,Akinyemi Agbede,0
-Merced,1,Governor,,REP,Alma Marie Winston,0
 Merced,1,Governor,,REP,Andrew Blount,5
-Merced,1,Governor,,PAF,Cindy L. Sheehan,0
 Merced,1,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Merced,1,Governor,,REP,Glenn Champ,4
-Merced,1,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,1,Governor,,IND,Joe Leicht,2
-Merced,1,Governor,,GRN,Luis J. Rodriguez,0
 Merced,1,Governor,,REP,Neel Kashkari,37
-Merced,1,Governor,,IND,Rakesh Kumar Christian,0
-Merced,1,Governor,,REP,Richard William Aguirre,0
 Merced,1,Governor,,IND,Robert Newman,2
 Merced,1,Governor,,REP,Tim Donnelly,31
 Merced,1,Insurance Commissioner,,DEM,Dave Jones,11
 Merced,1,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Merced,1,Insurance Commissioner,,REP,Ted Gaines,76
 Merced,1,Lieutenant Governor,,AME,Alan Reynolds,2
-Merced,1,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,1,Lieutenant Governor,,REP,David Fennell,26
-Merced,1,Lieutenant Governor,,DEM,Eric Korevaar,0
 Merced,1,Lieutenant Governor,,DEM,Gavin Newsom,13
 Merced,1,Lieutenant Governor,,REP,George Yang,15
 Merced,1,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,1,Lieutenant Governor,,REP,Ron Nehring,29
+Merced,1,Proposition 41,,,No,50
+Merced,1,Proposition 41,,,Yes,40
+Merced,1,Proposition 42,,,No,44
+Merced,1,Proposition 42,,,Yes,43
 Merced,1,Secretary of State,,DEM,Alex Padilla,5
 Merced,1,Secretary of State,,IND,Dan Schnur,2
-Merced,1,Secretary of State,,GRN,David Curtis,0
 Merced,1,Secretary of State,,DEM,Derek Cressman,4
 Merced,1,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Merced,1,Secretary of State,,DEM,Leland Yee,3
@@ -59,7 +52,6 @@ Merced,1,Treasurer,,REP,Greg Conlon,68
 Merced,1,Treasurer,,DEM,John Chiang,16
 Merced,1,U.S. House,16,DEM,Jim Costa,12
 Merced,1,U.S. House,16,REP,Joanna Garcia-Botelho,6
-Merced,1,U.S. House,16,DEM,Job Melton,0
 Merced,1,U.S. House,16,REP,Johnny Tacherra,29
 Merced,1,U.S. House,16,REP,Mel Levey,8
 Merced,1,U.S. House,16,REP,Steve Crass,43
@@ -78,32 +70,29 @@ Merced,10,Controller,,REP,David Evans,10
 Merced,10,Controller,,DEM,John A. Pérez,42
 Merced,10,Controller,,GRN,Laura Wells,3
 Merced,10,Controller,,DEM,Tammy D. Blair,16
-Merced,10,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,10,Governor,,DEM,Akinyemi Agbede,4
-Merced,10,Governor,,REP,Alma Marie Winston,0
-Merced,10,Governor,,REP,Andrew Blount,0
 Merced,10,Governor,,PAF,Cindy L. Sheehan,3
 Merced,10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Merced,10,Governor,,REP,Glenn Champ,1
 Merced,10,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,10,Governor,,IND,Joe Leicht,0
 Merced,10,Governor,,GRN,Luis J. Rodriguez,5
 Merced,10,Governor,,REP,Neel Kashkari,28
 Merced,10,Governor,,IND,Rakesh Kumar Christian,16
-Merced,10,Governor,,REP,Richard William Aguirre,0
 Merced,10,Governor,,IND,Robert Newman,4
 Merced,10,Governor,,REP,Tim Donnelly,7
 Merced,10,Insurance Commissioner,,DEM,Dave Jones,91
 Merced,10,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Merced,10,Insurance Commissioner,,REP,Ted Gaines,33
-Merced,10,Lieutenant Governor,,AME,Alan Reynolds,0
-Merced,10,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,10,Lieutenant Governor,,REP,David Fennell,6
 Merced,10,Lieutenant Governor,,DEM,Eric Korevaar,14
 Merced,10,Lieutenant Governor,,DEM,Gavin Newsom,77
 Merced,10,Lieutenant Governor,,REP,George Yang,14
 Merced,10,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,10,Lieutenant Governor,,REP,Ron Nehring,19
+Merced,10,Proposition 41,,,No,55
+Merced,10,Proposition 41,,,Yes,77
+Merced,10,Proposition 42,,,No,57
+Merced,10,Proposition 42,,,Yes,73
 Merced,10,Secretary of State,,DEM,Alex Padilla,37
 Merced,10,Secretary of State,,IND,Dan Schnur,14
 Merced,10,Secretary of State,,GRN,David Curtis,2
@@ -142,16 +131,8 @@ Merced,100,Controller,,REP,David Evans,9
 Merced,100,Controller,,DEM,John A. Pérez,6
 Merced,100,Controller,,GRN,Laura Wells,1
 Merced,100,Controller,,DEM,Tammy D. Blair,1
-Merced,100,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,100,Governor,,DEM,Akinyemi Agbede,0
-Merced,100,Governor,,REP,Alma Marie Winston,0
 Merced,100,Governor,,REP,Andrew Blount,5
-Merced,100,Governor,,PAF,Cindy L. Sheehan,0
 Merced,100,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
-Merced,100,Governor,,REP,Glenn Champ,0
-Merced,100,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,100,Governor,,IND,Joe Leicht,0
-Merced,100,Governor,,GRN,Luis J. Rodriguez,0
 Merced,100,Governor,,REP,Neel Kashkari,16
 Merced,100,Governor,,IND,Rakesh Kumar Christian,1
 Merced,100,Governor,,REP,Richard William Aguirre,2
@@ -160,14 +141,16 @@ Merced,100,Governor,,REP,Tim Donnelly,11
 Merced,100,Insurance Commissioner,,DEM,Dave Jones,24
 Merced,100,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Merced,100,Insurance Commissioner,,REP,Ted Gaines,35
-Merced,100,Lieutenant Governor,,AME,Alan Reynolds,0
 Merced,100,Lieutenant Governor,,PAF,Amos Johnson,1
 Merced,100,Lieutenant Governor,,REP,David Fennell,7
-Merced,100,Lieutenant Governor,,DEM,Eric Korevaar,0
 Merced,100,Lieutenant Governor,,DEM,Gavin Newsom,23
 Merced,100,Lieutenant Governor,,REP,George Yang,6
 Merced,100,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,100,Lieutenant Governor,,REP,Ron Nehring,20
+Merced,100,Proposition 41,,,No,33
+Merced,100,Proposition 41,,,Yes,28
+Merced,100,Proposition 42,,,No,27
+Merced,100,Proposition 42,,,Yes,33
 Merced,100,Secretary of State,,DEM,Alex Padilla,7
 Merced,100,Secretary of State,,IND,Dan Schnur,8
 Merced,100,Secretary of State,,GRN,David Curtis,1
@@ -208,16 +191,12 @@ Merced,101,Controller,,GRN,Laura Wells,8
 Merced,101,Controller,,DEM,Tammy D. Blair,10
 Merced,101,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,101,Governor,,DEM,Akinyemi Agbede,3
-Merced,101,Governor,,REP,Alma Marie Winston,0
-Merced,101,Governor,,REP,Andrew Blount,0
-Merced,101,Governor,,PAF,Cindy L. Sheehan,0
 Merced,101,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
 Merced,101,Governor,,REP,Glenn Champ,12
 Merced,101,Governor,,IND,Janel Hyeshia Buycks,1
 Merced,101,Governor,,IND,Joe Leicht,1
 Merced,101,Governor,,GRN,Luis J. Rodriguez,4
 Merced,101,Governor,,REP,Neel Kashkari,38
-Merced,101,Governor,,IND,Rakesh Kumar Christian,0
 Merced,101,Governor,,REP,Richard William Aguirre,3
 Merced,101,Governor,,IND,Robert Newman,2
 Merced,101,Governor,,REP,Tim Donnelly,38
@@ -232,6 +211,10 @@ Merced,101,Lieutenant Governor,,DEM,Gavin Newsom,38
 Merced,101,Lieutenant Governor,,REP,George Yang,26
 Merced,101,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,101,Lieutenant Governor,,REP,Ron Nehring,44
+Merced,101,Proposition 41,,,No,65
+Merced,101,Proposition 41,,,Yes,81
+Merced,101,Proposition 42,,,No,65
+Merced,101,Proposition 42,,,Yes,80
 Merced,101,Secretary of State,,DEM,Alex Padilla,35
 Merced,101,Secretary of State,,IND,Dan Schnur,12
 Merced,101,Secretary of State,,GRN,David Curtis,4
@@ -251,7 +234,6 @@ Merced,101,Treasurer,,REP,Greg Conlon,64
 Merced,101,Treasurer,,DEM,John Chiang,67
 Merced,101,U.S. House,16,DEM,Jim Costa,53
 Merced,101,U.S. House,16,REP,Joanna Garcia-Botelho,11
-Merced,101,U.S. House,16,DEM,Job Melton,0
 Merced,101,U.S. House,16,REP,Johnny Tacherra,27
 Merced,101,U.S. House,16,REP,Mel Levey,10
 Merced,101,U.S. House,16,REP,Steve Crass,47
@@ -270,7 +252,6 @@ Merced,102,Controller,,REP,David Evans,16
 Merced,102,Controller,,DEM,John A. Pérez,40
 Merced,102,Controller,,GRN,Laura Wells,5
 Merced,102,Controller,,DEM,Tammy D. Blair,11
-Merced,102,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,102,Governor,,DEM,Akinyemi Agbede,4
 Merced,102,Governor,,REP,Alma Marie Winston,1
 Merced,102,Governor,,REP,Andrew Blount,5
@@ -278,11 +259,9 @@ Merced,102,Governor,,PAF,Cindy L. Sheehan,1
 Merced,102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",65
 Merced,102,Governor,,REP,Glenn Champ,7
 Merced,102,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,102,Governor,,IND,Joe Leicht,0
 Merced,102,Governor,,GRN,Luis J. Rodriguez,1
 Merced,102,Governor,,REP,Neel Kashkari,29
 Merced,102,Governor,,IND,Rakesh Kumar Christian,1
-Merced,102,Governor,,REP,Richard William Aguirre,0
 Merced,102,Governor,,IND,Robert Newman,3
 Merced,102,Governor,,REP,Tim Donnelly,21
 Merced,102,Insurance Commissioner,,DEM,Dave Jones,82
@@ -296,6 +275,10 @@ Merced,102,Lieutenant Governor,,DEM,Gavin Newsom,64
 Merced,102,Lieutenant Governor,,REP,George Yang,8
 Merced,102,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,102,Lieutenant Governor,,REP,Ron Nehring,29
+Merced,102,Proposition 41,,,No,45
+Merced,102,Proposition 41,,,Yes,94
+Merced,102,Proposition 42,,,No,63
+Merced,102,Proposition 42,,,Yes,74
 Merced,102,Secretary of State,,DEM,Alex Padilla,42
 Merced,102,Secretary of State,,IND,Dan Schnur,6
 Merced,102,Secretary of State,,GRN,David Curtis,4
@@ -334,18 +317,14 @@ Merced,103,Controller,,REP,David Evans,21
 Merced,103,Controller,,DEM,John A. Pérez,33
 Merced,103,Controller,,GRN,Laura Wells,7
 Merced,103,Controller,,DEM,Tammy D. Blair,12
-Merced,103,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,103,Governor,,DEM,Akinyemi Agbede,3
 Merced,103,Governor,,REP,Alma Marie Winston,1
 Merced,103,Governor,,REP,Andrew Blount,5
 Merced,103,Governor,,PAF,Cindy L. Sheehan,4
 Merced,103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",60
 Merced,103,Governor,,REP,Glenn Champ,8
-Merced,103,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,103,Governor,,IND,Joe Leicht,0
 Merced,103,Governor,,GRN,Luis J. Rodriguez,4
 Merced,103,Governor,,REP,Neel Kashkari,31
-Merced,103,Governor,,IND,Rakesh Kumar Christian,0
 Merced,103,Governor,,REP,Richard William Aguirre,1
 Merced,103,Governor,,IND,Robert Newman,2
 Merced,103,Governor,,REP,Tim Donnelly,46
@@ -360,6 +339,10 @@ Merced,103,Lieutenant Governor,,DEM,Gavin Newsom,43
 Merced,103,Lieutenant Governor,,REP,George Yang,28
 Merced,103,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,103,Lieutenant Governor,,REP,Ron Nehring,44
+Merced,103,Proposition 41,,,No,65
+Merced,103,Proposition 41,,,Yes,101
+Merced,103,Proposition 42,,,No,92
+Merced,103,Proposition 42,,,Yes,72
 Merced,103,Secretary of State,,DEM,Alex Padilla,43
 Merced,103,Secretary of State,,IND,Dan Schnur,10
 Merced,103,Secretary of State,,GRN,David Curtis,5
@@ -402,12 +385,8 @@ Merced,104,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,104,Governor,,DEM,Akinyemi Agbede,1
 Merced,104,Governor,,REP,Alma Marie Winston,2
 Merced,104,Governor,,REP,Andrew Blount,5
-Merced,104,Governor,,PAF,Cindy L. Sheehan,0
 Merced,104,Governor,,DEM,"Edmund G. ""Jerry"" Brown",57
 Merced,104,Governor,,REP,Glenn Champ,6
-Merced,104,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,104,Governor,,IND,Joe Leicht,0
-Merced,104,Governor,,GRN,Luis J. Rodriguez,0
 Merced,104,Governor,,REP,Neel Kashkari,45
 Merced,104,Governor,,IND,Rakesh Kumar Christian,1
 Merced,104,Governor,,REP,Richard William Aguirre,2
@@ -424,6 +403,10 @@ Merced,104,Lieutenant Governor,,DEM,Gavin Newsom,56
 Merced,104,Lieutenant Governor,,REP,George Yang,23
 Merced,104,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,104,Lieutenant Governor,,REP,Ron Nehring,56
+Merced,104,Proposition 41,,,No,86
+Merced,104,Proposition 41,,,Yes,86
+Merced,104,Proposition 42,,,No,86
+Merced,104,Proposition 42,,,Yes,80
 Merced,104,Secretary of State,,DEM,Alex Padilla,32
 Merced,104,Secretary of State,,IND,Dan Schnur,16
 Merced,104,Secretary of State,,GRN,David Curtis,3
@@ -462,19 +445,16 @@ Merced,105,Controller,,REP,David Evans,15
 Merced,105,Controller,,DEM,John A. Pérez,44
 Merced,105,Controller,,GRN,Laura Wells,2
 Merced,105,Controller,,DEM,Tammy D. Blair,10
-Merced,105,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,105,Governor,,DEM,Akinyemi Agbede,7
 Merced,105,Governor,,REP,Alma Marie Winston,2
 Merced,105,Governor,,REP,Andrew Blount,3
 Merced,105,Governor,,PAF,Cindy L. Sheehan,1
 Merced,105,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Merced,105,Governor,,REP,Glenn Champ,4
-Merced,105,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,105,Governor,,IND,Joe Leicht,1
 Merced,105,Governor,,GRN,Luis J. Rodriguez,2
 Merced,105,Governor,,REP,Neel Kashkari,55
 Merced,105,Governor,,IND,Rakesh Kumar Christian,2
-Merced,105,Governor,,REP,Richard William Aguirre,0
 Merced,105,Governor,,IND,Robert Newman,7
 Merced,105,Governor,,REP,Tim Donnelly,21
 Merced,105,Insurance Commissioner,,DEM,Dave Jones,68
@@ -488,6 +468,10 @@ Merced,105,Lieutenant Governor,,DEM,Gavin Newsom,54
 Merced,105,Lieutenant Governor,,REP,George Yang,25
 Merced,105,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,105,Lieutenant Governor,,REP,Ron Nehring,44
+Merced,105,Proposition 41,,,No,45
+Merced,105,Proposition 41,,,Yes,110
+Merced,105,Proposition 42,,,No,67
+Merced,105,Proposition 42,,,Yes,82
 Merced,105,Secretary of State,,DEM,Alex Padilla,43
 Merced,105,Secretary of State,,IND,Dan Schnur,17
 Merced,105,Secretary of State,,GRN,David Curtis,3
@@ -526,7 +510,6 @@ Merced,106,Controller,,REP,David Evans,35
 Merced,106,Controller,,DEM,John A. Pérez,41
 Merced,106,Controller,,GRN,Laura Wells,7
 Merced,106,Controller,,DEM,Tammy D. Blair,13
-Merced,106,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,106,Governor,,DEM,Akinyemi Agbede,2
 Merced,106,Governor,,REP,Alma Marie Winston,1
 Merced,106,Governor,,REP,Andrew Blount,5
@@ -552,6 +535,10 @@ Merced,106,Lieutenant Governor,,DEM,Gavin Newsom,64
 Merced,106,Lieutenant Governor,,REP,George Yang,33
 Merced,106,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Merced,106,Lieutenant Governor,,REP,Ron Nehring,78
+Merced,106,Proposition 41,,,No,89
+Merced,106,Proposition 41,,,Yes,148
+Merced,106,Proposition 42,,,No,106
+Merced,106,Proposition 42,,,Yes,115
 Merced,106,Secretary of State,,DEM,Alex Padilla,56
 Merced,106,Secretary of State,,IND,Dan Schnur,24
 Merced,106,Secretary of State,,GRN,David Curtis,6
@@ -590,19 +577,11 @@ Merced,107,Controller,,REP,David Evans,6
 Merced,107,Controller,,DEM,John A. Pérez,5
 Merced,107,Controller,,GRN,Laura Wells,1
 Merced,107,Controller,,DEM,Tammy D. Blair,2
-Merced,107,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,107,Governor,,DEM,Akinyemi Agbede,0
 Merced,107,Governor,,REP,Alma Marie Winston,1
-Merced,107,Governor,,REP,Andrew Blount,0
-Merced,107,Governor,,PAF,Cindy L. Sheehan,0
 Merced,107,Governor,,DEM,"Edmund G. ""Jerry"" Brown",9
 Merced,107,Governor,,REP,Glenn Champ,2
-Merced,107,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,107,Governor,,IND,Joe Leicht,0
 Merced,107,Governor,,GRN,Luis J. Rodriguez,1
 Merced,107,Governor,,REP,Neel Kashkari,16
-Merced,107,Governor,,IND,Rakesh Kumar Christian,0
-Merced,107,Governor,,REP,Richard William Aguirre,0
 Merced,107,Governor,,IND,Robert Newman,1
 Merced,107,Governor,,REP,Tim Donnelly,20
 Merced,107,Insurance Commissioner,,DEM,Dave Jones,14
@@ -616,11 +595,13 @@ Merced,107,Lieutenant Governor,,DEM,Gavin Newsom,6
 Merced,107,Lieutenant Governor,,REP,George Yang,8
 Merced,107,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,107,Lieutenant Governor,,REP,Ron Nehring,22
+Merced,107,Proposition 41,,,No,20
+Merced,107,Proposition 41,,,Yes,30
+Merced,107,Proposition 42,,,No,24
+Merced,107,Proposition 42,,,Yes,21
 Merced,107,Secretary of State,,DEM,Alex Padilla,4
 Merced,107,Secretary of State,,IND,Dan Schnur,8
 Merced,107,Secretary of State,,GRN,David Curtis,1
-Merced,107,Secretary of State,,DEM,Derek Cressman,0
-Merced,107,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Merced,107,Secretary of State,,DEM,Leland Yee,4
 Merced,107,Secretary of State,,REP,Pete Peterson,27
 Merced,107,Secretary of State,,REP,Roy Allmond,3
@@ -637,13 +618,8 @@ Merced,107,U.S. House,16,DEM,Jim Costa,9
 Merced,107,U.S. House,16,REP,Joanna Garcia-Botelho,1
 Merced,107,U.S. House,16,DEM,Job Melton,2
 Merced,107,U.S. House,16,REP,Johnny Tacherra,36
-Merced,107,U.S. House,16,REP,Mel Levey,0
 Merced,107,U.S. House,16,REP,Steve Crass,3
-Merced,108,Attorney General,,REP,David King,0
-Merced,108,Attorney General,,REP,John Haggerty,0
-Merced,108,Attorney General,,LIB,Jonathan Jaech,0
 Merced,108,Attorney General,,DEM,Kamala D. Harris,7
-Merced,108,Attorney General,,IND,Orly Taitz,0
 Merced,108,Attorney General,,REP,Phil Wyman,7
 Merced,108,Attorney General,,REP,Ronald Gold,1
 Merced,108,Board of Equalization,1,DEM,Chris Parker,7
@@ -653,38 +629,21 @@ Merced,108,Controller,,DEM,Betty T. Yee,4
 Merced,108,Controller,,REP,David Evans,3
 Merced,108,Controller,,DEM,John A. Pérez,1
 Merced,108,Controller,,GRN,Laura Wells,1
-Merced,108,Controller,,DEM,Tammy D. Blair,0
-Merced,108,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,108,Governor,,DEM,Akinyemi Agbede,0
-Merced,108,Governor,,REP,Alma Marie Winston,0
-Merced,108,Governor,,REP,Andrew Blount,0
-Merced,108,Governor,,PAF,Cindy L. Sheehan,0
 Merced,108,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Merced,108,Governor,,REP,Glenn Champ,0
-Merced,108,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,108,Governor,,IND,Joe Leicht,0
-Merced,108,Governor,,GRN,Luis J. Rodriguez,0
 Merced,108,Governor,,REP,Neel Kashkari,3
-Merced,108,Governor,,IND,Rakesh Kumar Christian,0
-Merced,108,Governor,,REP,Richard William Aguirre,0
-Merced,108,Governor,,IND,Robert Newman,0
 Merced,108,Governor,,REP,Tim Donnelly,5
 Merced,108,Insurance Commissioner,,DEM,Dave Jones,7
-Merced,108,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Merced,108,Insurance Commissioner,,REP,Ted Gaines,7
-Merced,108,Lieutenant Governor,,AME,Alan Reynolds,0
-Merced,108,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,108,Lieutenant Governor,,REP,David Fennell,3
 Merced,108,Lieutenant Governor,,DEM,Eric Korevaar,1
 Merced,108,Lieutenant Governor,,DEM,Gavin Newsom,7
-Merced,108,Lieutenant Governor,,REP,George Yang,0
-Merced,108,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Merced,108,Lieutenant Governor,,REP,Ron Nehring,4
+Merced,108,Proposition 41,,,No,3
+Merced,108,Proposition 41,,,Yes,12
+Merced,108,Proposition 42,,,No,5
+Merced,108,Proposition 42,,,Yes,6
 Merced,108,Secretary of State,,DEM,Alex Padilla,4
-Merced,108,Secretary of State,,IND,Dan Schnur,0
 Merced,108,Secretary of State,,GRN,David Curtis,1
-Merced,108,Secretary of State,,DEM,Derek Cressman,0
-Merced,108,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Merced,108,Secretary of State,,DEM,Leland Yee,3
 Merced,108,Secretary of State,,REP,Pete Peterson,6
 Merced,108,Secretary of State,,REP,Roy Allmond,1
@@ -698,11 +657,8 @@ Merced,108,Treasurer,,GRN,Ellen H. Brown,1
 Merced,108,Treasurer,,REP,Greg Conlon,5
 Merced,108,Treasurer,,DEM,John Chiang,7
 Merced,108,U.S. House,16,DEM,Jim Costa,7
-Merced,108,U.S. House,16,REP,Joanna Garcia-Botelho,0
 Merced,108,U.S. House,16,DEM,Job Melton,1
 Merced,108,U.S. House,16,REP,Johnny Tacherra,9
-Merced,108,U.S. House,16,REP,Mel Levey,0
-Merced,108,U.S. House,16,REP,Steve Crass,0
 Merced,109,Attorney General,,REP,David King,3
 Merced,109,Attorney General,,REP,John Haggerty,5
 Merced,109,Attorney General,,LIB,Jonathan Jaech,5
@@ -718,7 +674,6 @@ Merced,109,Controller,,REP,David Evans,8
 Merced,109,Controller,,DEM,John A. Pérez,50
 Merced,109,Controller,,GRN,Laura Wells,6
 Merced,109,Controller,,DEM,Tammy D. Blair,9
-Merced,109,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,109,Governor,,DEM,Akinyemi Agbede,2
 Merced,109,Governor,,REP,Alma Marie Winston,2
 Merced,109,Governor,,REP,Andrew Blount,5
@@ -726,7 +681,6 @@ Merced,109,Governor,,PAF,Cindy L. Sheehan,4
 Merced,109,Governor,,DEM,"Edmund G. ""Jerry"" Brown",77
 Merced,109,Governor,,REP,Glenn Champ,3
 Merced,109,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,109,Governor,,IND,Joe Leicht,0
 Merced,109,Governor,,GRN,Luis J. Rodriguez,2
 Merced,109,Governor,,REP,Neel Kashkari,9
 Merced,109,Governor,,IND,Rakesh Kumar Christian,2
@@ -744,6 +698,10 @@ Merced,109,Lieutenant Governor,,DEM,Gavin Newsom,71
 Merced,109,Lieutenant Governor,,REP,George Yang,10
 Merced,109,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,109,Lieutenant Governor,,REP,Ron Nehring,16
+Merced,109,Proposition 41,,,No,33
+Merced,109,Proposition 41,,,Yes,93
+Merced,109,Proposition 42,,,No,45
+Merced,109,Proposition 42,,,Yes,71
 Merced,109,Secretary of State,,DEM,Alex Padilla,48
 Merced,109,Secretary of State,,IND,Dan Schnur,4
 Merced,109,Secretary of State,,GRN,David Curtis,4
@@ -769,7 +727,6 @@ Merced,109,U.S. House,16,REP,Mel Levey,1
 Merced,109,U.S. House,16,REP,Steve Crass,6
 Merced,11,Attorney General,,REP,David King,5
 Merced,11,Attorney General,,REP,John Haggerty,4
-Merced,11,Attorney General,,LIB,Jonathan Jaech,0
 Merced,11,Attorney General,,DEM,Kamala D. Harris,23
 Merced,11,Attorney General,,IND,Orly Taitz,4
 Merced,11,Attorney General,,REP,Phil Wyman,5
@@ -781,19 +738,11 @@ Merced,11,Controller,,DEM,Betty T. Yee,4
 Merced,11,Controller,,REP,David Evans,7
 Merced,11,Controller,,DEM,John A. Pérez,17
 Merced,11,Controller,,GRN,Laura Wells,1
-Merced,11,Controller,,DEM,Tammy D. Blair,0
-Merced,11,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,11,Governor,,DEM,Akinyemi Agbede,0
-Merced,11,Governor,,REP,Alma Marie Winston,0
-Merced,11,Governor,,REP,Andrew Blount,0
-Merced,11,Governor,,PAF,Cindy L. Sheehan,0
 Merced,11,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Merced,11,Governor,,REP,Glenn Champ,1
-Merced,11,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,11,Governor,,IND,Joe Leicht,1
 Merced,11,Governor,,GRN,Luis J. Rodriguez,2
 Merced,11,Governor,,REP,Neel Kashkari,15
-Merced,11,Governor,,IND,Rakesh Kumar Christian,0
 Merced,11,Governor,,REP,Richard William Aguirre,1
 Merced,11,Governor,,IND,Robert Newman,3
 Merced,11,Governor,,REP,Tim Donnelly,9
@@ -801,17 +750,19 @@ Merced,11,Insurance Commissioner,,DEM,Dave Jones,27
 Merced,11,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Merced,11,Insurance Commissioner,,REP,Ted Gaines,21
 Merced,11,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,11,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,11,Lieutenant Governor,,REP,David Fennell,2
 Merced,11,Lieutenant Governor,,DEM,Eric Korevaar,1
 Merced,11,Lieutenant Governor,,DEM,Gavin Newsom,21
 Merced,11,Lieutenant Governor,,REP,George Yang,3
 Merced,11,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,11,Lieutenant Governor,,REP,Ron Nehring,22
+Merced,11,Proposition 41,,,No,20
+Merced,11,Proposition 41,,,Yes,33
+Merced,11,Proposition 42,,,No,22
+Merced,11,Proposition 42,,,Yes,27
 Merced,11,Secretary of State,,DEM,Alex Padilla,21
 Merced,11,Secretary of State,,IND,Dan Schnur,6
 Merced,11,Secretary of State,,GRN,David Curtis,1
-Merced,11,Secretary of State,,DEM,Derek Cressman,0
 Merced,11,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Merced,11,Secretary of State,,DEM,Leland Yee,2
 Merced,11,Secretary of State,,REP,Pete Peterson,16
@@ -827,7 +778,6 @@ Merced,11,Treasurer,,REP,Greg Conlon,22
 Merced,11,Treasurer,,DEM,John Chiang,27
 Merced,11,U.S. House,16,DEM,Jim Costa,25
 Merced,11,U.S. House,16,REP,Joanna Garcia-Botelho,2
-Merced,11,U.S. House,16,DEM,Job Melton,0
 Merced,11,U.S. House,16,REP,Johnny Tacherra,15
 Merced,11,U.S. House,16,REP,Mel Levey,3
 Merced,11,U.S. House,16,REP,Steve Crass,8
@@ -846,18 +796,14 @@ Merced,110,Controller,,REP,David Evans,6
 Merced,110,Controller,,DEM,John A. Pérez,36
 Merced,110,Controller,,GRN,Laura Wells,6
 Merced,110,Controller,,DEM,Tammy D. Blair,12
-Merced,110,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,110,Governor,,DEM,Akinyemi Agbede,4
 Merced,110,Governor,,REP,Alma Marie Winston,2
 Merced,110,Governor,,REP,Andrew Blount,2
 Merced,110,Governor,,PAF,Cindy L. Sheehan,1
 Merced,110,Governor,,DEM,"Edmund G. ""Jerry"" Brown",70
 Merced,110,Governor,,REP,Glenn Champ,5
-Merced,110,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,110,Governor,,IND,Joe Leicht,0
 Merced,110,Governor,,GRN,Luis J. Rodriguez,2
 Merced,110,Governor,,REP,Neel Kashkari,24
-Merced,110,Governor,,IND,Rakesh Kumar Christian,0
 Merced,110,Governor,,REP,Richard William Aguirre,2
 Merced,110,Governor,,IND,Robert Newman,6
 Merced,110,Governor,,REP,Tim Donnelly,15
@@ -872,6 +818,10 @@ Merced,110,Lieutenant Governor,,DEM,Gavin Newsom,56
 Merced,110,Lieutenant Governor,,REP,George Yang,12
 Merced,110,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,110,Lieutenant Governor,,REP,Ron Nehring,24
+Merced,110,Proposition 41,,,No,36
+Merced,110,Proposition 41,,,Yes,89
+Merced,110,Proposition 42,,,No,51
+Merced,110,Proposition 42,,,Yes,69
 Merced,110,Secretary of State,,DEM,Alex Padilla,44
 Merced,110,Secretary of State,,IND,Dan Schnur,8
 Merced,110,Secretary of State,,GRN,David Curtis,3
@@ -910,16 +860,12 @@ Merced,111,Controller,,REP,David Evans,33
 Merced,111,Controller,,DEM,John A. Pérez,53
 Merced,111,Controller,,GRN,Laura Wells,3
 Merced,111,Controller,,DEM,Tammy D. Blair,12
-Merced,111,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,111,Governor,,DEM,Akinyemi Agbede,4
-Merced,111,Governor,,REP,Alma Marie Winston,0
 Merced,111,Governor,,REP,Andrew Blount,4
 Merced,111,Governor,,PAF,Cindy L. Sheehan,1
 Merced,111,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Merced,111,Governor,,REP,Glenn Champ,12
-Merced,111,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,111,Governor,,IND,Joe Leicht,1
-Merced,111,Governor,,GRN,Luis J. Rodriguez,0
 Merced,111,Governor,,REP,Neel Kashkari,48
 Merced,111,Governor,,IND,Rakesh Kumar Christian,1
 Merced,111,Governor,,REP,Richard William Aguirre,3
@@ -936,9 +882,12 @@ Merced,111,Lieutenant Governor,,DEM,Gavin Newsom,95
 Merced,111,Lieutenant Governor,,REP,George Yang,25
 Merced,111,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,111,Lieutenant Governor,,REP,Ron Nehring,53
+Merced,111,Proposition 41,,,No,71
+Merced,111,Proposition 41,,,Yes,152
+Merced,111,Proposition 42,,,No,96
+Merced,111,Proposition 42,,,Yes,114
 Merced,111,Secretary of State,,DEM,Alex Padilla,60
 Merced,111,Secretary of State,,IND,Dan Schnur,26
-Merced,111,Secretary of State,,GRN,David Curtis,0
 Merced,111,Secretary of State,,DEM,Derek Cressman,9
 Merced,111,Secretary of State,,DEM,Jeffrey H. Drobman,12
 Merced,111,Secretary of State,,DEM,Leland Yee,27
@@ -975,17 +924,14 @@ Merced,112,Controller,,DEM,John A. Pérez,25
 Merced,112,Controller,,GRN,Laura Wells,6
 Merced,112,Controller,,DEM,Tammy D. Blair,16
 Merced,112,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Merced,112,Governor,,DEM,Akinyemi Agbede,0
 Merced,112,Governor,,REP,Alma Marie Winston,2
 Merced,112,Governor,,REP,Andrew Blount,7
 Merced,112,Governor,,PAF,Cindy L. Sheehan,1
 Merced,112,Governor,,DEM,"Edmund G. ""Jerry"" Brown",100
 Merced,112,Governor,,REP,Glenn Champ,10
-Merced,112,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,112,Governor,,IND,Joe Leicht,2
 Merced,112,Governor,,GRN,Luis J. Rodriguez,1
 Merced,112,Governor,,REP,Neel Kashkari,36
-Merced,112,Governor,,IND,Rakesh Kumar Christian,0
 Merced,112,Governor,,REP,Richard William Aguirre,1
 Merced,112,Governor,,IND,Robert Newman,5
 Merced,112,Governor,,REP,Tim Donnelly,54
@@ -993,13 +939,16 @@ Merced,112,Insurance Commissioner,,DEM,Dave Jones,83
 Merced,112,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Merced,112,Insurance Commissioner,,REP,Ted Gaines,118
 Merced,112,Lieutenant Governor,,AME,Alan Reynolds,2
-Merced,112,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,112,Lieutenant Governor,,REP,David Fennell,21
 Merced,112,Lieutenant Governor,,DEM,Eric Korevaar,10
 Merced,112,Lieutenant Governor,,DEM,Gavin Newsom,82
 Merced,112,Lieutenant Governor,,REP,George Yang,36
 Merced,112,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,112,Lieutenant Governor,,REP,Ron Nehring,54
+Merced,112,Proposition 41,,,No,82
+Merced,112,Proposition 41,,,Yes,128
+Merced,112,Proposition 42,,,No,98
+Merced,112,Proposition 42,,,Yes,101
 Merced,112,Secretary of State,,DEM,Alex Padilla,44
 Merced,112,Secretary of State,,IND,Dan Schnur,21
 Merced,112,Secretary of State,,GRN,David Curtis,5
@@ -1039,7 +988,6 @@ Merced,113,Controller,,DEM,John A. Pérez,41
 Merced,113,Controller,,GRN,Laura Wells,10
 Merced,113,Controller,,DEM,Tammy D. Blair,12
 Merced,113,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Merced,113,Governor,,DEM,Akinyemi Agbede,0
 Merced,113,Governor,,REP,Alma Marie Winston,2
 Merced,113,Governor,,REP,Andrew Blount,4
 Merced,113,Governor,,PAF,Cindy L. Sheehan,2
@@ -1064,6 +1012,10 @@ Merced,113,Lieutenant Governor,,DEM,Gavin Newsom,68
 Merced,113,Lieutenant Governor,,REP,George Yang,9
 Merced,113,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,113,Lieutenant Governor,,REP,Ron Nehring,26
+Merced,113,Proposition 41,,,No,46
+Merced,113,Proposition 41,,,Yes,99
+Merced,113,Proposition 42,,,No,67
+Merced,113,Proposition 42,,,Yes,72
 Merced,113,Secretary of State,,DEM,Alex Padilla,45
 Merced,113,Secretary of State,,IND,Dan Schnur,4
 Merced,113,Secretary of State,,GRN,David Curtis,4
@@ -1104,16 +1056,11 @@ Merced,114,Controller,,GRN,Laura Wells,3
 Merced,114,Controller,,DEM,Tammy D. Blair,8
 Merced,114,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,114,Governor,,DEM,Akinyemi Agbede,5
-Merced,114,Governor,,REP,Alma Marie Winston,0
 Merced,114,Governor,,REP,Andrew Blount,1
-Merced,114,Governor,,PAF,Cindy L. Sheehan,0
 Merced,114,Governor,,DEM,"Edmund G. ""Jerry"" Brown",70
 Merced,114,Governor,,REP,Glenn Champ,11
-Merced,114,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,114,Governor,,IND,Joe Leicht,0
 Merced,114,Governor,,GRN,Luis J. Rodriguez,1
 Merced,114,Governor,,REP,Neel Kashkari,26
-Merced,114,Governor,,IND,Rakesh Kumar Christian,0
 Merced,114,Governor,,REP,Richard William Aguirre,1
 Merced,114,Governor,,IND,Robert Newman,1
 Merced,114,Governor,,REP,Tim Donnelly,32
@@ -1128,9 +1075,12 @@ Merced,114,Lieutenant Governor,,DEM,Gavin Newsom,78
 Merced,114,Lieutenant Governor,,REP,George Yang,10
 Merced,114,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,114,Lieutenant Governor,,REP,Ron Nehring,32
+Merced,114,Proposition 41,,,No,43
+Merced,114,Proposition 41,,,Yes,105
+Merced,114,Proposition 42,,,No,54
+Merced,114,Proposition 42,,,Yes,88
 Merced,114,Secretary of State,,DEM,Alex Padilla,50
 Merced,114,Secretary of State,,IND,Dan Schnur,13
-Merced,114,Secretary of State,,GRN,David Curtis,0
 Merced,114,Secretary of State,,DEM,Derek Cressman,9
 Merced,114,Secretary of State,,DEM,Jeffrey H. Drobman,9
 Merced,114,Secretary of State,,DEM,Leland Yee,17
@@ -1168,30 +1118,30 @@ Merced,115,Controller,,GRN,Laura Wells,3
 Merced,115,Controller,,DEM,Tammy D. Blair,16
 Merced,115,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,115,Governor,,DEM,Akinyemi Agbede,6
-Merced,115,Governor,,REP,Alma Marie Winston,0
 Merced,115,Governor,,REP,Andrew Blount,3
 Merced,115,Governor,,PAF,Cindy L. Sheehan,3
 Merced,115,Governor,,DEM,"Edmund G. ""Jerry"" Brown",63
 Merced,115,Governor,,REP,Glenn Champ,3
-Merced,115,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,115,Governor,,IND,Joe Leicht,3
 Merced,115,Governor,,GRN,Luis J. Rodriguez,4
 Merced,115,Governor,,REP,Neel Kashkari,32
 Merced,115,Governor,,IND,Rakesh Kumar Christian,3
-Merced,115,Governor,,REP,Richard William Aguirre,0
 Merced,115,Governor,,IND,Robert Newman,3
 Merced,115,Governor,,REP,Tim Donnelly,49
 Merced,115,Insurance Commissioner,,DEM,Dave Jones,80
 Merced,115,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Merced,115,Insurance Commissioner,,REP,Ted Gaines,79
 Merced,115,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,115,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,115,Lieutenant Governor,,REP,David Fennell,20
 Merced,115,Lieutenant Governor,,DEM,Eric Korevaar,8
 Merced,115,Lieutenant Governor,,DEM,Gavin Newsom,79
 Merced,115,Lieutenant Governor,,REP,George Yang,18
 Merced,115,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,115,Lieutenant Governor,,REP,Ron Nehring,43
+Merced,115,Proposition 41,,,No,70
+Merced,115,Proposition 41,,,Yes,101
+Merced,115,Proposition 42,,,No,57
+Merced,115,Proposition 42,,,Yes,110
 Merced,115,Secretary of State,,DEM,Alex Padilla,48
 Merced,115,Secretary of State,,IND,Dan Schnur,7
 Merced,115,Secretary of State,,GRN,David Curtis,1
@@ -1230,7 +1180,6 @@ Merced,116,Controller,,REP,David Evans,36
 Merced,116,Controller,,DEM,John A. Pérez,32
 Merced,116,Controller,,GRN,Laura Wells,3
 Merced,116,Controller,,DEM,Tammy D. Blair,8
-Merced,116,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,116,Governor,,DEM,Akinyemi Agbede,1
 Merced,116,Governor,,REP,Alma Marie Winston,1
 Merced,116,Governor,,REP,Andrew Blount,6
@@ -1238,24 +1187,23 @@ Merced,116,Governor,,PAF,Cindy L. Sheehan,1
 Merced,116,Governor,,DEM,"Edmund G. ""Jerry"" Brown",106
 Merced,116,Governor,,REP,Glenn Champ,9
 Merced,116,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,116,Governor,,IND,Joe Leicht,0
-Merced,116,Governor,,GRN,Luis J. Rodriguez,0
 Merced,116,Governor,,REP,Neel Kashkari,107
 Merced,116,Governor,,IND,Rakesh Kumar Christian,3
-Merced,116,Governor,,REP,Richard William Aguirre,0
 Merced,116,Governor,,IND,Robert Newman,2
 Merced,116,Governor,,REP,Tim Donnelly,66
 Merced,116,Insurance Commissioner,,DEM,Dave Jones,110
 Merced,116,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Merced,116,Insurance Commissioner,,REP,Ted Gaines,174
-Merced,116,Lieutenant Governor,,AME,Alan Reynolds,0
-Merced,116,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,116,Lieutenant Governor,,REP,David Fennell,28
 Merced,116,Lieutenant Governor,,DEM,Eric Korevaar,6
 Merced,116,Lieutenant Governor,,DEM,Gavin Newsom,101
 Merced,116,Lieutenant Governor,,REP,George Yang,40
 Merced,116,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,116,Lieutenant Governor,,REP,Ron Nehring,107
+Merced,116,Proposition 41,,,No,113
+Merced,116,Proposition 41,,,Yes,181
+Merced,116,Proposition 42,,,No,172
+Merced,116,Proposition 42,,,Yes,111
 Merced,116,Secretary of State,,DEM,Alex Padilla,45
 Merced,116,Secretary of State,,IND,Dan Schnur,66
 Merced,116,Secretary of State,,GRN,David Curtis,1
@@ -1294,18 +1242,13 @@ Merced,117,Controller,,REP,David Evans,23
 Merced,117,Controller,,DEM,John A. Pérez,58
 Merced,117,Controller,,GRN,Laura Wells,9
 Merced,117,Controller,,DEM,Tammy D. Blair,9
-Merced,117,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,117,Governor,,DEM,Akinyemi Agbede,3
-Merced,117,Governor,,REP,Alma Marie Winston,0
-Merced,117,Governor,,REP,Andrew Blount,0
 Merced,117,Governor,,PAF,Cindy L. Sheehan,2
 Merced,117,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Merced,117,Governor,,REP,Glenn Champ,6
 Merced,117,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,117,Governor,,IND,Joe Leicht,0
 Merced,117,Governor,,GRN,Luis J. Rodriguez,1
 Merced,117,Governor,,REP,Neel Kashkari,5
-Merced,117,Governor,,IND,Rakesh Kumar Christian,0
 Merced,117,Governor,,REP,Richard William Aguirre,4
 Merced,117,Governor,,IND,Robert Newman,4
 Merced,117,Governor,,REP,Tim Donnelly,43
@@ -1320,6 +1263,10 @@ Merced,117,Lieutenant Governor,,DEM,Gavin Newsom,89
 Merced,117,Lieutenant Governor,,REP,George Yang,12
 Merced,117,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,117,Lieutenant Governor,,REP,Ron Nehring,24
+Merced,117,Proposition 41,,,No,54
+Merced,117,Proposition 41,,,Yes,106
+Merced,117,Proposition 42,,,No,58
+Merced,117,Proposition 42,,,Yes,101
 Merced,117,Secretary of State,,DEM,Alex Padilla,56
 Merced,117,Secretary of State,,IND,Dan Schnur,7
 Merced,117,Secretary of State,,GRN,David Curtis,3
@@ -1358,18 +1305,14 @@ Merced,118,Controller,,REP,David Evans,25
 Merced,118,Controller,,DEM,John A. Pérez,47
 Merced,118,Controller,,GRN,Laura Wells,9
 Merced,118,Controller,,DEM,Tammy D. Blair,13
-Merced,118,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,118,Governor,,DEM,Akinyemi Agbede,1
 Merced,118,Governor,,REP,Alma Marie Winston,2
 Merced,118,Governor,,REP,Andrew Blount,4
 Merced,118,Governor,,PAF,Cindy L. Sheehan,3
 Merced,118,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Merced,118,Governor,,REP,Glenn Champ,5
-Merced,118,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,118,Governor,,IND,Joe Leicht,0
 Merced,118,Governor,,GRN,Luis J. Rodriguez,1
 Merced,118,Governor,,REP,Neel Kashkari,25
-Merced,118,Governor,,IND,Rakesh Kumar Christian,0
 Merced,118,Governor,,REP,Richard William Aguirre,1
 Merced,118,Governor,,IND,Robert Newman,7
 Merced,118,Governor,,REP,Tim Donnelly,34
@@ -1384,6 +1327,10 @@ Merced,118,Lieutenant Governor,,DEM,Gavin Newsom,88
 Merced,118,Lieutenant Governor,,REP,George Yang,13
 Merced,118,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,118,Lieutenant Governor,,REP,Ron Nehring,37
+Merced,118,Proposition 41,,,No,59
+Merced,118,Proposition 41,,,Yes,116
+Merced,118,Proposition 42,,,No,77
+Merced,118,Proposition 42,,,Yes,95
 Merced,118,Secretary of State,,DEM,Alex Padilla,59
 Merced,118,Secretary of State,,IND,Dan Schnur,6
 Merced,118,Secretary of State,,GRN,David Curtis,3
@@ -1423,31 +1370,30 @@ Merced,119,Controller,,DEM,John A. Pérez,38
 Merced,119,Controller,,GRN,Laura Wells,3
 Merced,119,Controller,,DEM,Tammy D. Blair,13
 Merced,119,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Merced,119,Governor,,DEM,Akinyemi Agbede,0
 Merced,119,Governor,,REP,Alma Marie Winston,1
 Merced,119,Governor,,REP,Andrew Blount,2
 Merced,119,Governor,,PAF,Cindy L. Sheehan,1
 Merced,119,Governor,,DEM,"Edmund G. ""Jerry"" Brown",67
 Merced,119,Governor,,REP,Glenn Champ,5
 Merced,119,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,119,Governor,,IND,Joe Leicht,0
 Merced,119,Governor,,GRN,Luis J. Rodriguez,5
 Merced,119,Governor,,REP,Neel Kashkari,6
-Merced,119,Governor,,IND,Rakesh Kumar Christian,0
 Merced,119,Governor,,REP,Richard William Aguirre,1
-Merced,119,Governor,,IND,Robert Newman,0
 Merced,119,Governor,,REP,Tim Donnelly,26
 Merced,119,Insurance Commissioner,,DEM,Dave Jones,62
 Merced,119,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Merced,119,Insurance Commissioner,,REP,Ted Gaines,41
 Merced,119,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,119,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,119,Lieutenant Governor,,REP,David Fennell,11
 Merced,119,Lieutenant Governor,,DEM,Eric Korevaar,12
 Merced,119,Lieutenant Governor,,DEM,Gavin Newsom,56
 Merced,119,Lieutenant Governor,,REP,George Yang,17
 Merced,119,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,119,Lieutenant Governor,,REP,Ron Nehring,13
+Merced,119,Proposition 41,,,No,25
+Merced,119,Proposition 41,,,Yes,86
+Merced,119,Proposition 42,,,No,35
+Merced,119,Proposition 42,,,Yes,71
 Merced,119,Secretary of State,,DEM,Alex Padilla,45
 Merced,119,Secretary of State,,IND,Dan Schnur,1
 Merced,119,Secretary of State,,GRN,David Curtis,1
@@ -1472,7 +1418,6 @@ Merced,119,U.S. House,16,REP,Johnny Tacherra,25
 Merced,119,U.S. House,16,REP,Mel Levey,10
 Merced,119,U.S. House,16,REP,Steve Crass,6
 Merced,12,Attorney General,,REP,David King,4
-Merced,12,Attorney General,,REP,John Haggerty,0
 Merced,12,Attorney General,,LIB,Jonathan Jaech,1
 Merced,12,Attorney General,,DEM,Kamala D. Harris,18
 Merced,12,Attorney General,,IND,Orly Taitz,1
@@ -1486,35 +1431,32 @@ Merced,12,Controller,,REP,David Evans,10
 Merced,12,Controller,,DEM,John A. Pérez,11
 Merced,12,Controller,,GRN,Laura Wells,2
 Merced,12,Controller,,DEM,Tammy D. Blair,4
-Merced,12,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,12,Governor,,DEM,Akinyemi Agbede,2
 Merced,12,Governor,,REP,Alma Marie Winston,1
 Merced,12,Governor,,REP,Andrew Blount,1
 Merced,12,Governor,,PAF,Cindy L. Sheehan,1
 Merced,12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Merced,12,Governor,,REP,Glenn Champ,3
-Merced,12,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,12,Governor,,IND,Joe Leicht,0
 Merced,12,Governor,,GRN,Luis J. Rodriguez,1
 Merced,12,Governor,,REP,Neel Kashkari,15
-Merced,12,Governor,,IND,Rakesh Kumar Christian,0
-Merced,12,Governor,,REP,Richard William Aguirre,0
 Merced,12,Governor,,IND,Robert Newman,1
 Merced,12,Governor,,REP,Tim Donnelly,14
 Merced,12,Insurance Commissioner,,DEM,Dave Jones,18
 Merced,12,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Merced,12,Insurance Commissioner,,REP,Ted Gaines,29
 Merced,12,Lieutenant Governor,,AME,Alan Reynolds,4
-Merced,12,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,12,Lieutenant Governor,,REP,David Fennell,2
 Merced,12,Lieutenant Governor,,DEM,Eric Korevaar,4
 Merced,12,Lieutenant Governor,,DEM,Gavin Newsom,15
 Merced,12,Lieutenant Governor,,REP,George Yang,4
 Merced,12,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,12,Lieutenant Governor,,REP,Ron Nehring,21
+Merced,12,Proposition 41,,,No,18
+Merced,12,Proposition 41,,,Yes,33
+Merced,12,Proposition 42,,,No,23
+Merced,12,Proposition 42,,,Yes,27
 Merced,12,Secretary of State,,DEM,Alex Padilla,13
 Merced,12,Secretary of State,,IND,Dan Schnur,6
-Merced,12,Secretary of State,,GRN,David Curtis,0
 Merced,12,Secretary of State,,DEM,Derek Cressman,1
 Merced,12,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Merced,12,Secretary of State,,DEM,Leland Yee,5
@@ -1553,15 +1495,11 @@ Merced,120,Controller,,DEM,Tammy D. Blair,16
 Merced,120,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,120,Governor,,DEM,Akinyemi Agbede,1
 Merced,120,Governor,,REP,Alma Marie Winston,1
-Merced,120,Governor,,REP,Andrew Blount,0
 Merced,120,Governor,,PAF,Cindy L. Sheehan,2
 Merced,120,Governor,,DEM,"Edmund G. ""Jerry"" Brown",80
 Merced,120,Governor,,REP,Glenn Champ,1
-Merced,120,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,120,Governor,,IND,Joe Leicht,0
 Merced,120,Governor,,GRN,Luis J. Rodriguez,6
 Merced,120,Governor,,REP,Neel Kashkari,15
-Merced,120,Governor,,IND,Rakesh Kumar Christian,0
 Merced,120,Governor,,REP,Richard William Aguirre,1
 Merced,120,Governor,,IND,Robert Newman,4
 Merced,120,Governor,,REP,Tim Donnelly,43
@@ -1576,6 +1514,10 @@ Merced,120,Lieutenant Governor,,DEM,Gavin Newsom,67
 Merced,120,Lieutenant Governor,,REP,George Yang,13
 Merced,120,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,120,Lieutenant Governor,,REP,Ron Nehring,24
+Merced,120,Proposition 41,,,No,42
+Merced,120,Proposition 41,,,Yes,107
+Merced,120,Proposition 42,,,No,60
+Merced,120,Proposition 42,,,Yes,85
 Merced,120,Secretary of State,,DEM,Alex Padilla,51
 Merced,120,Secretary of State,,IND,Dan Schnur,2
 Merced,120,Secretary of State,,GRN,David Curtis,3
@@ -1622,8 +1564,6 @@ Merced,121,Governor,,PAF,Cindy L. Sheehan,4
 Merced,121,Governor,,DEM,"Edmund G. ""Jerry"" Brown",58
 Merced,121,Governor,,REP,Glenn Champ,6
 Merced,121,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,121,Governor,,IND,Joe Leicht,0
-Merced,121,Governor,,GRN,Luis J. Rodriguez,0
 Merced,121,Governor,,REP,Neel Kashkari,41
 Merced,121,Governor,,IND,Rakesh Kumar Christian,2
 Merced,121,Governor,,REP,Richard William Aguirre,3
@@ -1638,8 +1578,11 @@ Merced,121,Lieutenant Governor,,REP,David Fennell,21
 Merced,121,Lieutenant Governor,,DEM,Eric Korevaar,13
 Merced,121,Lieutenant Governor,,DEM,Gavin Newsom,55
 Merced,121,Lieutenant Governor,,REP,George Yang,28
-Merced,121,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Merced,121,Lieutenant Governor,,REP,Ron Nehring,56
+Merced,121,Proposition 41,,,No,63
+Merced,121,Proposition 41,,,Yes,117
+Merced,121,Proposition 42,,,No,80
+Merced,121,Proposition 42,,,Yes,92
 Merced,121,Secretary of State,,DEM,Alex Padilla,36
 Merced,121,Secretary of State,,IND,Dan Schnur,18
 Merced,121,Secretary of State,,GRN,David Curtis,4
@@ -1686,11 +1629,8 @@ Merced,122,Governor,,PAF,Cindy L. Sheehan,4
 Merced,122,Governor,,DEM,"Edmund G. ""Jerry"" Brown",76
 Merced,122,Governor,,REP,Glenn Champ,5
 Merced,122,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,122,Governor,,IND,Joe Leicht,0
 Merced,122,Governor,,GRN,Luis J. Rodriguez,2
 Merced,122,Governor,,REP,Neel Kashkari,30
-Merced,122,Governor,,IND,Rakesh Kumar Christian,0
-Merced,122,Governor,,REP,Richard William Aguirre,0
 Merced,122,Governor,,IND,Robert Newman,4
 Merced,122,Governor,,REP,Tim Donnelly,28
 Merced,122,Insurance Commissioner,,DEM,Dave Jones,87
@@ -1704,6 +1644,10 @@ Merced,122,Lieutenant Governor,,DEM,Gavin Newsom,66
 Merced,122,Lieutenant Governor,,REP,George Yang,18
 Merced,122,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,122,Lieutenant Governor,,REP,Ron Nehring,35
+Merced,122,Proposition 41,,,No,48
+Merced,122,Proposition 41,,,Yes,109
+Merced,122,Proposition 42,,,No,75
+Merced,122,Proposition 42,,,Yes,76
 Merced,122,Secretary of State,,DEM,Alex Padilla,49
 Merced,122,Secretary of State,,IND,Dan Schnur,8
 Merced,122,Secretary of State,,GRN,David Curtis,4
@@ -1749,8 +1693,6 @@ Merced,123,Governor,,REP,Andrew Blount,2
 Merced,123,Governor,,PAF,Cindy L. Sheehan,2
 Merced,123,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Merced,123,Governor,,REP,Glenn Champ,12
-Merced,123,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,123,Governor,,IND,Joe Leicht,0
 Merced,123,Governor,,GRN,Luis J. Rodriguez,3
 Merced,123,Governor,,REP,Neel Kashkari,59
 Merced,123,Governor,,IND,Rakesh Kumar Christian,3
@@ -1768,6 +1710,10 @@ Merced,123,Lieutenant Governor,,DEM,Gavin Newsom,37
 Merced,123,Lieutenant Governor,,REP,George Yang,19
 Merced,123,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,123,Lieutenant Governor,,REP,Ron Nehring,83
+Merced,123,Proposition 41,,,No,116
+Merced,123,Proposition 41,,,Yes,78
+Merced,123,Proposition 42,,,No,106
+Merced,123,Proposition 42,,,Yes,85
 Merced,123,Secretary of State,,DEM,Alex Padilla,21
 Merced,123,Secretary of State,,IND,Dan Schnur,25
 Merced,123,Secretary of State,,GRN,David Curtis,1
@@ -1806,15 +1752,10 @@ Merced,124,Controller,,REP,David Evans,21
 Merced,124,Controller,,DEM,John A. Pérez,11
 Merced,124,Controller,,GRN,Laura Wells,5
 Merced,124,Controller,,DEM,Tammy D. Blair,5
-Merced,124,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,124,Governor,,DEM,Akinyemi Agbede,2
 Merced,124,Governor,,REP,Alma Marie Winston,5
-Merced,124,Governor,,REP,Andrew Blount,0
-Merced,124,Governor,,PAF,Cindy L. Sheehan,0
 Merced,124,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Merced,124,Governor,,REP,Glenn Champ,7
-Merced,124,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,124,Governor,,IND,Joe Leicht,0
 Merced,124,Governor,,GRN,Luis J. Rodriguez,4
 Merced,124,Governor,,REP,Neel Kashkari,42
 Merced,124,Governor,,IND,Rakesh Kumar Christian,2
@@ -1825,16 +1766,18 @@ Merced,124,Insurance Commissioner,,DEM,Dave Jones,31
 Merced,124,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Merced,124,Insurance Commissioner,,REP,Ted Gaines,88
 Merced,124,Lieutenant Governor,,AME,Alan Reynolds,5
-Merced,124,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,124,Lieutenant Governor,,REP,David Fennell,22
 Merced,124,Lieutenant Governor,,DEM,Eric Korevaar,3
 Merced,124,Lieutenant Governor,,DEM,Gavin Newsom,28
 Merced,124,Lieutenant Governor,,REP,George Yang,13
 Merced,124,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,124,Lieutenant Governor,,REP,Ron Nehring,49
+Merced,124,Proposition 41,,,No,78
+Merced,124,Proposition 41,,,Yes,49
+Merced,124,Proposition 42,,,No,69
+Merced,124,Proposition 42,,,Yes,52
 Merced,124,Secretary of State,,DEM,Alex Padilla,14
 Merced,124,Secretary of State,,IND,Dan Schnur,9
-Merced,124,Secretary of State,,GRN,David Curtis,0
 Merced,124,Secretary of State,,DEM,Derek Cressman,2
 Merced,124,Secretary of State,,DEM,Jeffrey H. Drobman,7
 Merced,124,Secretary of State,,DEM,Leland Yee,7
@@ -1878,7 +1821,6 @@ Merced,125,Governor,,PAF,Cindy L. Sheehan,2
 Merced,125,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 Merced,125,Governor,,REP,Glenn Champ,6
 Merced,125,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,125,Governor,,IND,Joe Leicht,0
 Merced,125,Governor,,GRN,Luis J. Rodriguez,5
 Merced,125,Governor,,REP,Neel Kashkari,42
 Merced,125,Governor,,IND,Rakesh Kumar Christian,1
@@ -1888,7 +1830,6 @@ Merced,125,Governor,,REP,Tim Donnelly,42
 Merced,125,Insurance Commissioner,,DEM,Dave Jones,89
 Merced,125,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Merced,125,Insurance Commissioner,,REP,Ted Gaines,97
-Merced,125,Lieutenant Governor,,AME,Alan Reynolds,0
 Merced,125,Lieutenant Governor,,PAF,Amos Johnson,6
 Merced,125,Lieutenant Governor,,REP,David Fennell,17
 Merced,125,Lieutenant Governor,,DEM,Eric Korevaar,15
@@ -1896,6 +1837,10 @@ Merced,125,Lieutenant Governor,,DEM,Gavin Newsom,76
 Merced,125,Lieutenant Governor,,REP,George Yang,13
 Merced,125,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,125,Lieutenant Governor,,REP,Ron Nehring,58
+Merced,125,Proposition 41,,,No,74
+Merced,125,Proposition 41,,,Yes,118
+Merced,125,Proposition 42,,,No,80
+Merced,125,Proposition 42,,,Yes,106
 Merced,125,Secretary of State,,DEM,Alex Padilla,60
 Merced,125,Secretary of State,,IND,Dan Schnur,13
 Merced,125,Secretary of State,,GRN,David Curtis,1
@@ -1934,15 +1879,11 @@ Merced,126,Controller,,REP,David Evans,8
 Merced,126,Controller,,DEM,John A. Pérez,16
 Merced,126,Controller,,GRN,Laura Wells,2
 Merced,126,Controller,,DEM,Tammy D. Blair,4
-Merced,126,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,126,Governor,,DEM,Akinyemi Agbede,4
 Merced,126,Governor,,REP,Alma Marie Winston,1
 Merced,126,Governor,,REP,Andrew Blount,1
-Merced,126,Governor,,PAF,Cindy L. Sheehan,0
 Merced,126,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Merced,126,Governor,,REP,Glenn Champ,3
-Merced,126,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,126,Governor,,IND,Joe Leicht,0
 Merced,126,Governor,,GRN,Luis J. Rodriguez,2
 Merced,126,Governor,,REP,Neel Kashkari,19
 Merced,126,Governor,,IND,Rakesh Kumar Christian,2
@@ -1960,6 +1901,10 @@ Merced,126,Lieutenant Governor,,DEM,Gavin Newsom,31
 Merced,126,Lieutenant Governor,,REP,George Yang,3
 Merced,126,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,126,Lieutenant Governor,,REP,Ron Nehring,14
+Merced,126,Proposition 41,,,No,25
+Merced,126,Proposition 41,,,Yes,43
+Merced,126,Proposition 42,,,No,23
+Merced,126,Proposition 42,,,Yes,44
 Merced,126,Secretary of State,,DEM,Alex Padilla,15
 Merced,126,Secretary of State,,IND,Dan Schnur,8
 Merced,126,Secretary of State,,GRN,David Curtis,1
@@ -1998,20 +1943,16 @@ Merced,13,Controller,,REP,David Evans,6
 Merced,13,Controller,,DEM,John A. Pérez,60
 Merced,13,Controller,,GRN,Laura Wells,3
 Merced,13,Controller,,DEM,Tammy D. Blair,9
-Merced,13,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,13,Governor,,DEM,Akinyemi Agbede,12
 Merced,13,Governor,,REP,Alma Marie Winston,1
 Merced,13,Governor,,REP,Andrew Blount,1
 Merced,13,Governor,,PAF,Cindy L. Sheehan,1
 Merced,13,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
-Merced,13,Governor,,REP,Glenn Champ,0
-Merced,13,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,13,Governor,,IND,Joe Leicht,1
 Merced,13,Governor,,GRN,Luis J. Rodriguez,10
 Merced,13,Governor,,REP,Neel Kashkari,3
 Merced,13,Governor,,IND,Rakesh Kumar Christian,1
 Merced,13,Governor,,REP,Richard William Aguirre,3
-Merced,13,Governor,,IND,Robert Newman,0
 Merced,13,Governor,,REP,Tim Donnelly,9
 Merced,13,Insurance Commissioner,,DEM,Dave Jones,62
 Merced,13,Insurance Commissioner,,PAF,Nathalie Hrizi,15
@@ -2024,6 +1965,10 @@ Merced,13,Lieutenant Governor,,DEM,Gavin Newsom,44
 Merced,13,Lieutenant Governor,,REP,George Yang,7
 Merced,13,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,13,Lieutenant Governor,,REP,Ron Nehring,4
+Merced,13,Proposition 41,,,No,20
+Merced,13,Proposition 41,,,Yes,72
+Merced,13,Proposition 42,,,No,32
+Merced,13,Proposition 42,,,Yes,57
 Merced,13,Secretary of State,,DEM,Alex Padilla,50
 Merced,13,Secretary of State,,IND,Dan Schnur,4
 Merced,13,Secretary of State,,GRN,David Curtis,3
@@ -2062,7 +2007,6 @@ Merced,14,Controller,,REP,David Evans,22
 Merced,14,Controller,,DEM,John A. Pérez,84
 Merced,14,Controller,,GRN,Laura Wells,12
 Merced,14,Controller,,DEM,Tammy D. Blair,24
-Merced,14,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,14,Governor,,DEM,Akinyemi Agbede,7
 Merced,14,Governor,,REP,Alma Marie Winston,1
 Merced,14,Governor,,REP,Andrew Blount,9
@@ -2088,6 +2032,10 @@ Merced,14,Lieutenant Governor,,DEM,Gavin Newsom,101
 Merced,14,Lieutenant Governor,,REP,George Yang,27
 Merced,14,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,14,Lieutenant Governor,,REP,Ron Nehring,38
+Merced,14,Proposition 41,,,No,78
+Merced,14,Proposition 41,,,Yes,157
+Merced,14,Proposition 42,,,No,91
+Merced,14,Proposition 42,,,Yes,142
 Merced,14,Secretary of State,,DEM,Alex Padilla,90
 Merced,14,Secretary of State,,IND,Dan Schnur,13
 Merced,14,Secretary of State,,GRN,David Curtis,5
@@ -2134,7 +2082,6 @@ Merced,15,Governor,,PAF,Cindy L. Sheehan,4
 Merced,15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",88
 Merced,15,Governor,,REP,Glenn Champ,10
 Merced,15,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,15,Governor,,IND,Joe Leicht,0
 Merced,15,Governor,,GRN,Luis J. Rodriguez,8
 Merced,15,Governor,,REP,Neel Kashkari,7
 Merced,15,Governor,,IND,Rakesh Kumar Christian,5
@@ -2152,6 +2099,10 @@ Merced,15,Lieutenant Governor,,DEM,Gavin Newsom,66
 Merced,15,Lieutenant Governor,,REP,George Yang,31
 Merced,15,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,15,Lieutenant Governor,,REP,Ron Nehring,27
+Merced,15,Proposition 41,,,No,58
+Merced,15,Proposition 41,,,Yes,104
+Merced,15,Proposition 42,,,No,57
+Merced,15,Proposition 42,,,Yes,111
 Merced,15,Secretary of State,,DEM,Alex Padilla,51
 Merced,15,Secretary of State,,IND,Dan Schnur,6
 Merced,15,Secretary of State,,GRN,David Curtis,4
@@ -2190,15 +2141,11 @@ Merced,16,Controller,,REP,David Evans,17
 Merced,16,Controller,,DEM,John A. Pérez,48
 Merced,16,Controller,,GRN,Laura Wells,9
 Merced,16,Controller,,DEM,Tammy D. Blair,12
-Merced,16,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,16,Governor,,DEM,Akinyemi Agbede,7
-Merced,16,Governor,,REP,Alma Marie Winston,0
 Merced,16,Governor,,REP,Andrew Blount,3
 Merced,16,Governor,,PAF,Cindy L. Sheehan,5
 Merced,16,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Merced,16,Governor,,REP,Glenn Champ,3
-Merced,16,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,16,Governor,,IND,Joe Leicht,0
 Merced,16,Governor,,GRN,Luis J. Rodriguez,9
 Merced,16,Governor,,REP,Neel Kashkari,10
 Merced,16,Governor,,IND,Rakesh Kumar Christian,3
@@ -2216,6 +2163,10 @@ Merced,16,Lieutenant Governor,,DEM,Gavin Newsom,55
 Merced,16,Lieutenant Governor,,REP,George Yang,33
 Merced,16,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Merced,16,Lieutenant Governor,,REP,Ron Nehring,14
+Merced,16,Proposition 41,,,No,46
+Merced,16,Proposition 41,,,Yes,87
+Merced,16,Proposition 42,,,No,61
+Merced,16,Proposition 42,,,Yes,73
 Merced,16,Secretary of State,,DEM,Alex Padilla,41
 Merced,16,Secretary of State,,IND,Dan Schnur,2
 Merced,16,Secretary of State,,GRN,David Curtis,4
@@ -2254,7 +2205,6 @@ Merced,17,Controller,,REP,David Evans,6
 Merced,17,Controller,,DEM,John A. Pérez,54
 Merced,17,Controller,,GRN,Laura Wells,6
 Merced,17,Controller,,DEM,Tammy D. Blair,10
-Merced,17,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,17,Governor,,DEM,Akinyemi Agbede,2
 Merced,17,Governor,,REP,Alma Marie Winston,2
 Merced,17,Governor,,REP,Andrew Blount,1
@@ -2262,7 +2212,6 @@ Merced,17,Governor,,PAF,Cindy L. Sheehan,2
 Merced,17,Governor,,DEM,"Edmund G. ""Jerry"" Brown",67
 Merced,17,Governor,,REP,Glenn Champ,3
 Merced,17,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,17,Governor,,IND,Joe Leicht,0
 Merced,17,Governor,,GRN,Luis J. Rodriguez,5
 Merced,17,Governor,,REP,Neel Kashkari,8
 Merced,17,Governor,,IND,Rakesh Kumar Christian,2
@@ -2280,10 +2229,13 @@ Merced,17,Lieutenant Governor,,DEM,Gavin Newsom,63
 Merced,17,Lieutenant Governor,,REP,George Yang,6
 Merced,17,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,17,Lieutenant Governor,,REP,Ron Nehring,14
+Merced,17,Proposition 41,,,No,32
+Merced,17,Proposition 41,,,Yes,80
+Merced,17,Proposition 42,,,No,45
+Merced,17,Proposition 42,,,Yes,62
 Merced,17,Secretary of State,,DEM,Alex Padilla,60
 Merced,17,Secretary of State,,IND,Dan Schnur,3
 Merced,17,Secretary of State,,GRN,David Curtis,3
-Merced,17,Secretary of State,,DEM,Derek Cressman,0
 Merced,17,Secretary of State,,DEM,Jeffrey H. Drobman,7
 Merced,17,Secretary of State,,DEM,Leland Yee,16
 Merced,17,Secretary of State,,REP,Pete Peterson,19
@@ -2318,15 +2270,12 @@ Merced,18,Controller,,REP,David Evans,5
 Merced,18,Controller,,DEM,John A. Pérez,70
 Merced,18,Controller,,GRN,Laura Wells,8
 Merced,18,Controller,,DEM,Tammy D. Blair,9
-Merced,18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,18,Governor,,DEM,Akinyemi Agbede,4
 Merced,18,Governor,,REP,Alma Marie Winston,3
 Merced,18,Governor,,REP,Andrew Blount,2
 Merced,18,Governor,,PAF,Cindy L. Sheehan,2
 Merced,18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 Merced,18,Governor,,REP,Glenn Champ,2
-Merced,18,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,18,Governor,,IND,Joe Leicht,0
 Merced,18,Governor,,GRN,Luis J. Rodriguez,12
 Merced,18,Governor,,REP,Neel Kashkari,8
 Merced,18,Governor,,IND,Rakesh Kumar Christian,1
@@ -2344,6 +2293,10 @@ Merced,18,Lieutenant Governor,,DEM,Gavin Newsom,74
 Merced,18,Lieutenant Governor,,REP,George Yang,11
 Merced,18,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Merced,18,Lieutenant Governor,,REP,Ron Nehring,12
+Merced,18,Proposition 41,,,No,34
+Merced,18,Proposition 41,,,Yes,97
+Merced,18,Proposition 42,,,No,38
+Merced,18,Proposition 42,,,Yes,88
 Merced,18,Secretary of State,,DEM,Alex Padilla,73
 Merced,18,Secretary of State,,IND,Dan Schnur,3
 Merced,18,Secretary of State,,GRN,David Curtis,2
@@ -2390,11 +2343,9 @@ Merced,19,Governor,,PAF,Cindy L. Sheehan,7
 Merced,19,Governor,,DEM,"Edmund G. ""Jerry"" Brown",66
 Merced,19,Governor,,REP,Glenn Champ,1
 Merced,19,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,19,Governor,,IND,Joe Leicht,0
 Merced,19,Governor,,GRN,Luis J. Rodriguez,5
 Merced,19,Governor,,REP,Neel Kashkari,15
 Merced,19,Governor,,IND,Rakesh Kumar Christian,3
-Merced,19,Governor,,REP,Richard William Aguirre,0
 Merced,19,Governor,,IND,Robert Newman,5
 Merced,19,Governor,,REP,Tim Donnelly,13
 Merced,19,Insurance Commissioner,,DEM,Dave Jones,70
@@ -2408,6 +2359,10 @@ Merced,19,Lieutenant Governor,,DEM,Gavin Newsom,56
 Merced,19,Lieutenant Governor,,REP,George Yang,20
 Merced,19,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Merced,19,Lieutenant Governor,,REP,Ron Nehring,13
+Merced,19,Proposition 41,,,No,42
+Merced,19,Proposition 41,,,Yes,86
+Merced,19,Proposition 42,,,No,51
+Merced,19,Proposition 42,,,Yes,78
 Merced,19,Secretary of State,,DEM,Alex Padilla,48
 Merced,19,Secretary of State,,IND,Dan Schnur,6
 Merced,19,Secretary of State,,GRN,David Curtis,11
@@ -2435,7 +2390,6 @@ Merced,2,Attorney General,,REP,David King,7
 Merced,2,Attorney General,,REP,John Haggerty,1
 Merced,2,Attorney General,,LIB,Jonathan Jaech,1
 Merced,2,Attorney General,,DEM,Kamala D. Harris,9
-Merced,2,Attorney General,,IND,Orly Taitz,0
 Merced,2,Attorney General,,REP,Phil Wyman,23
 Merced,2,Attorney General,,REP,Ronald Gold,9
 Merced,2,Board of Equalization,1,DEM,Chris Parker,6
@@ -2446,38 +2400,29 @@ Merced,2,Controller,,REP,David Evans,6
 Merced,2,Controller,,DEM,John A. Pérez,2
 Merced,2,Controller,,GRN,Laura Wells,1
 Merced,2,Controller,,DEM,Tammy D. Blair,3
-Merced,2,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,2,Governor,,DEM,Akinyemi Agbede,0
 Merced,2,Governor,,REP,Alma Marie Winston,1
 Merced,2,Governor,,REP,Andrew Blount,1
-Merced,2,Governor,,PAF,Cindy L. Sheehan,0
 Merced,2,Governor,,DEM,"Edmund G. ""Jerry"" Brown",9
 Merced,2,Governor,,REP,Glenn Champ,2
-Merced,2,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,2,Governor,,IND,Joe Leicht,0
-Merced,2,Governor,,GRN,Luis J. Rodriguez,0
 Merced,2,Governor,,REP,Neel Kashkari,16
-Merced,2,Governor,,IND,Rakesh Kumar Christian,0
-Merced,2,Governor,,REP,Richard William Aguirre,0
 Merced,2,Governor,,IND,Robert Newman,4
 Merced,2,Governor,,REP,Tim Donnelly,19
 Merced,2,Insurance Commissioner,,DEM,Dave Jones,9
-Merced,2,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Merced,2,Insurance Commissioner,,REP,Ted Gaines,43
 Merced,2,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,2,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,2,Lieutenant Governor,,REP,David Fennell,12
-Merced,2,Lieutenant Governor,,DEM,Eric Korevaar,0
 Merced,2,Lieutenant Governor,,DEM,Gavin Newsom,9
 Merced,2,Lieutenant Governor,,REP,George Yang,9
-Merced,2,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Merced,2,Lieutenant Governor,,REP,Ron Nehring,20
+Merced,2,Proposition 41,,,No,30
+Merced,2,Proposition 41,,,Yes,23
+Merced,2,Proposition 42,,,No,32
+Merced,2,Proposition 42,,,Yes,21
 Merced,2,Secretary of State,,DEM,Alex Padilla,2
 Merced,2,Secretary of State,,IND,Dan Schnur,7
 Merced,2,Secretary of State,,GRN,David Curtis,1
 Merced,2,Secretary of State,,DEM,Derek Cressman,1
 Merced,2,Secretary of State,,DEM,Jeffrey H. Drobman,2
-Merced,2,Secretary of State,,DEM,Leland Yee,0
 Merced,2,Secretary of State,,REP,Pete Peterson,30
 Merced,2,Secretary of State,,REP,Roy Allmond,6
 Merced,2,State Assembly,21,DEM,Adam Gray,24
@@ -2510,15 +2455,11 @@ Merced,20,Controller,,REP,David Evans,10
 Merced,20,Controller,,DEM,John A. Pérez,90
 Merced,20,Controller,,GRN,Laura Wells,6
 Merced,20,Controller,,DEM,Tammy D. Blair,11
-Merced,20,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,20,Governor,,DEM,Akinyemi Agbede,6
 Merced,20,Governor,,REP,Alma Marie Winston,3
-Merced,20,Governor,,REP,Andrew Blount,0
 Merced,20,Governor,,PAF,Cindy L. Sheehan,1
 Merced,20,Governor,,DEM,"Edmund G. ""Jerry"" Brown",97
 Merced,20,Governor,,REP,Glenn Champ,3
-Merced,20,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,20,Governor,,IND,Joe Leicht,0
 Merced,20,Governor,,GRN,Luis J. Rodriguez,11
 Merced,20,Governor,,REP,Neel Kashkari,9
 Merced,20,Governor,,IND,Rakesh Kumar Christian,2
@@ -2536,6 +2477,10 @@ Merced,20,Lieutenant Governor,,DEM,Gavin Newsom,83
 Merced,20,Lieutenant Governor,,REP,George Yang,9
 Merced,20,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,20,Lieutenant Governor,,REP,Ron Nehring,14
+Merced,20,Proposition 41,,,No,55
+Merced,20,Proposition 41,,,Yes,98
+Merced,20,Proposition 42,,,No,45
+Merced,20,Proposition 42,,,Yes,117
 Merced,20,Secretary of State,,DEM,Alex Padilla,84
 Merced,20,Secretary of State,,IND,Dan Schnur,4
 Merced,20,Secretary of State,,GRN,David Curtis,2
@@ -2581,8 +2526,6 @@ Merced,21,Governor,,REP,Andrew Blount,1
 Merced,21,Governor,,PAF,Cindy L. Sheehan,1
 Merced,21,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 Merced,21,Governor,,REP,Glenn Champ,9
-Merced,21,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,21,Governor,,IND,Joe Leicht,0
 Merced,21,Governor,,GRN,Luis J. Rodriguez,5
 Merced,21,Governor,,REP,Neel Kashkari,21
 Merced,21,Governor,,IND,Rakesh Kumar Christian,1
@@ -2600,6 +2543,10 @@ Merced,21,Lieutenant Governor,,DEM,Gavin Newsom,54
 Merced,21,Lieutenant Governor,,REP,George Yang,27
 Merced,21,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,21,Lieutenant Governor,,REP,Ron Nehring,27
+Merced,21,Proposition 41,,,No,49
+Merced,21,Proposition 41,,,Yes,100
+Merced,21,Proposition 42,,,No,53
+Merced,21,Proposition 42,,,Yes,92
 Merced,21,Secretary of State,,DEM,Alex Padilla,72
 Merced,21,Secretary of State,,IND,Dan Schnur,5
 Merced,21,Secretary of State,,GRN,David Curtis,1
@@ -2636,22 +2583,14 @@ Merced,22,Controller,,REP,Ashley Swearengin,67
 Merced,22,Controller,,DEM,Betty T. Yee,11
 Merced,22,Controller,,REP,David Evans,16
 Merced,22,Controller,,DEM,John A. Pérez,2
-Merced,22,Controller,,GRN,Laura Wells,0
 Merced,22,Controller,,DEM,Tammy D. Blair,1
-Merced,22,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,22,Governor,,DEM,Akinyemi Agbede,0
-Merced,22,Governor,,REP,Alma Marie Winston,0
 Merced,22,Governor,,REP,Andrew Blount,2
 Merced,22,Governor,,PAF,Cindy L. Sheehan,1
 Merced,22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Merced,22,Governor,,REP,Glenn Champ,3
-Merced,22,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,22,Governor,,IND,Joe Leicht,0
-Merced,22,Governor,,GRN,Luis J. Rodriguez,0
 Merced,22,Governor,,REP,Neel Kashkari,46
 Merced,22,Governor,,IND,Rakesh Kumar Christian,1
 Merced,22,Governor,,REP,Richard William Aguirre,1
-Merced,22,Governor,,IND,Robert Newman,0
 Merced,22,Governor,,REP,Tim Donnelly,40
 Merced,22,Insurance Commissioner,,DEM,Dave Jones,8
 Merced,22,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -2662,13 +2601,13 @@ Merced,22,Lieutenant Governor,,REP,David Fennell,8
 Merced,22,Lieutenant Governor,,DEM,Eric Korevaar,1
 Merced,22,Lieutenant Governor,,DEM,Gavin Newsom,5
 Merced,22,Lieutenant Governor,,REP,George Yang,16
-Merced,22,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Merced,22,Lieutenant Governor,,REP,Ron Nehring,59
+Merced,22,Proposition 41,,,No,60
+Merced,22,Proposition 41,,,Yes,38
+Merced,22,Proposition 42,,,No,56
+Merced,22,Proposition 42,,,Yes,37
 Merced,22,Secretary of State,,DEM,Alex Padilla,5
 Merced,22,Secretary of State,,IND,Dan Schnur,15
-Merced,22,Secretary of State,,GRN,David Curtis,0
-Merced,22,Secretary of State,,DEM,Derek Cressman,0
-Merced,22,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Merced,22,Secretary of State,,DEM,Leland Yee,5
 Merced,22,Secretary of State,,REP,Pete Peterson,53
 Merced,22,Secretary of State,,REP,Roy Allmond,14
@@ -2683,7 +2622,6 @@ Merced,22,Treasurer,,REP,Greg Conlon,78
 Merced,22,Treasurer,,DEM,John Chiang,10
 Merced,22,U.S. House,16,DEM,Jim Costa,5
 Merced,22,U.S. House,16,REP,Joanna Garcia-Botelho,5
-Merced,22,U.S. House,16,DEM,Job Melton,0
 Merced,22,U.S. House,16,REP,Johnny Tacherra,33
 Merced,22,U.S. House,16,REP,Mel Levey,4
 Merced,22,U.S. House,16,REP,Steve Crass,53
@@ -2714,7 +2652,6 @@ Merced,23,Governor,,IND,Joe Leicht,1
 Merced,23,Governor,,GRN,Luis J. Rodriguez,5
 Merced,23,Governor,,REP,Neel Kashkari,90
 Merced,23,Governor,,IND,Rakesh Kumar Christian,2
-Merced,23,Governor,,REP,Richard William Aguirre,0
 Merced,23,Governor,,IND,Robert Newman,1
 Merced,23,Governor,,REP,Tim Donnelly,71
 Merced,23,Insurance Commissioner,,DEM,Dave Jones,113
@@ -2728,6 +2665,10 @@ Merced,23,Lieutenant Governor,,DEM,Gavin Newsom,105
 Merced,23,Lieutenant Governor,,REP,George Yang,41
 Merced,23,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,23,Lieutenant Governor,,REP,Ron Nehring,107
+Merced,23,Proposition 41,,,No,150
+Merced,23,Proposition 41,,,Yes,167
+Merced,23,Proposition 42,,,No,175
+Merced,23,Proposition 42,,,Yes,130
 Merced,23,Secretary of State,,DEM,Alex Padilla,47
 Merced,23,Secretary of State,,IND,Dan Schnur,37
 Merced,23,Secretary of State,,GRN,David Curtis,2
@@ -2766,15 +2707,12 @@ Merced,24,Controller,,REP,David Evans,81
 Merced,24,Controller,,DEM,John A. Pérez,53
 Merced,24,Controller,,GRN,Laura Wells,15
 Merced,24,Controller,,DEM,Tammy D. Blair,17
-Merced,24,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,24,Governor,,DEM,Akinyemi Agbede,2
 Merced,24,Governor,,REP,Alma Marie Winston,2
 Merced,24,Governor,,REP,Andrew Blount,18
 Merced,24,Governor,,PAF,Cindy L. Sheehan,1
 Merced,24,Governor,,DEM,"Edmund G. ""Jerry"" Brown",188
 Merced,24,Governor,,REP,Glenn Champ,21
-Merced,24,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,24,Governor,,IND,Joe Leicht,0
 Merced,24,Governor,,GRN,Luis J. Rodriguez,3
 Merced,24,Governor,,REP,Neel Kashkari,131
 Merced,24,Governor,,IND,Rakesh Kumar Christian,3
@@ -2792,6 +2730,10 @@ Merced,24,Lieutenant Governor,,DEM,Gavin Newsom,164
 Merced,24,Lieutenant Governor,,REP,George Yang,68
 Merced,24,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Merced,24,Lieutenant Governor,,REP,Ron Nehring,155
+Merced,24,Proposition 41,,,No,223
+Merced,24,Proposition 41,,,Yes,253
+Merced,24,Proposition 42,,,No,236
+Merced,24,Proposition 42,,,Yes,221
 Merced,24,Secretary of State,,DEM,Alex Padilla,66
 Merced,24,Secretary of State,,IND,Dan Schnur,53
 Merced,24,Secretary of State,,GRN,David Curtis,13
@@ -2837,7 +2779,6 @@ Merced,25,Governor,,REP,Andrew Blount,8
 Merced,25,Governor,,PAF,Cindy L. Sheehan,3
 Merced,25,Governor,,DEM,"Edmund G. ""Jerry"" Brown",64
 Merced,25,Governor,,REP,Glenn Champ,12
-Merced,25,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,25,Governor,,IND,Joe Leicht,1
 Merced,25,Governor,,GRN,Luis J. Rodriguez,2
 Merced,25,Governor,,REP,Neel Kashkari,44
@@ -2856,6 +2797,10 @@ Merced,25,Lieutenant Governor,,DEM,Gavin Newsom,65
 Merced,25,Lieutenant Governor,,REP,George Yang,28
 Merced,25,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,25,Lieutenant Governor,,REP,Ron Nehring,64
+Merced,25,Proposition 41,,,No,95
+Merced,25,Proposition 41,,,Yes,120
+Merced,25,Proposition 42,,,No,106
+Merced,25,Proposition 42,,,Yes,102
 Merced,25,Secretary of State,,DEM,Alex Padilla,34
 Merced,25,Secretary of State,,IND,Dan Schnur,18
 Merced,25,Secretary of State,,GRN,David Curtis,4
@@ -2898,7 +2843,6 @@ Merced,26,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Merced,26,Governor,,DEM,Akinyemi Agbede,2
 Merced,26,Governor,,REP,Alma Marie Winston,2
 Merced,26,Governor,,REP,Andrew Blount,2
-Merced,26,Governor,,PAF,Cindy L. Sheehan,0
 Merced,26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",69
 Merced,26,Governor,,REP,Glenn Champ,4
 Merced,26,Governor,,IND,Janel Hyeshia Buycks,1
@@ -2920,6 +2864,10 @@ Merced,26,Lieutenant Governor,,DEM,Gavin Newsom,67
 Merced,26,Lieutenant Governor,,REP,George Yang,17
 Merced,26,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Merced,26,Lieutenant Governor,,REP,Ron Nehring,39
+Merced,26,Proposition 41,,,No,65
+Merced,26,Proposition 41,,,Yes,109
+Merced,26,Proposition 42,,,No,73
+Merced,26,Proposition 42,,,Yes,94
 Merced,26,Secretary of State,,DEM,Alex Padilla,43
 Merced,26,Secretary of State,,IND,Dan Schnur,16
 Merced,26,Secretary of State,,GRN,David Curtis,3
@@ -2958,7 +2906,6 @@ Merced,27,Controller,,REP,David Evans,34
 Merced,27,Controller,,DEM,John A. Pérez,48
 Merced,27,Controller,,GRN,Laura Wells,5
 Merced,27,Controller,,DEM,Tammy D. Blair,19
-Merced,27,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,27,Governor,,DEM,Akinyemi Agbede,5
 Merced,27,Governor,,REP,Alma Marie Winston,2
 Merced,27,Governor,,REP,Andrew Blount,8
@@ -2966,7 +2913,6 @@ Merced,27,Governor,,PAF,Cindy L. Sheehan,1
 Merced,27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",128
 Merced,27,Governor,,REP,Glenn Champ,5
 Merced,27,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,27,Governor,,IND,Joe Leicht,0
 Merced,27,Governor,,GRN,Luis J. Rodriguez,4
 Merced,27,Governor,,REP,Neel Kashkari,66
 Merced,27,Governor,,IND,Rakesh Kumar Christian,1
@@ -2984,6 +2930,10 @@ Merced,27,Lieutenant Governor,,DEM,Gavin Newsom,122
 Merced,27,Lieutenant Governor,,REP,George Yang,31
 Merced,27,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,27,Lieutenant Governor,,REP,Ron Nehring,70
+Merced,27,Proposition 41,,,No,101
+Merced,27,Proposition 41,,,Yes,177
+Merced,27,Proposition 42,,,No,130
+Merced,27,Proposition 42,,,Yes,135
 Merced,27,Secretary of State,,DEM,Alex Padilla,58
 Merced,27,Secretary of State,,IND,Dan Schnur,36
 Merced,27,Secretary of State,,GRN,David Curtis,1
@@ -3048,6 +2998,10 @@ Merced,28,Lieutenant Governor,,DEM,Gavin Newsom,78
 Merced,28,Lieutenant Governor,,REP,George Yang,28
 Merced,28,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,28,Lieutenant Governor,,REP,Ron Nehring,42
+Merced,28,Proposition 41,,,No,57
+Merced,28,Proposition 41,,,Yes,137
+Merced,28,Proposition 42,,,No,82
+Merced,28,Proposition 42,,,Yes,105
 Merced,28,Secretary of State,,DEM,Alex Padilla,48
 Merced,28,Secretary of State,,IND,Dan Schnur,23
 Merced,28,Secretary of State,,GRN,David Curtis,12
@@ -3088,12 +3042,10 @@ Merced,29,Controller,,GRN,Laura Wells,13
 Merced,29,Controller,,DEM,Tammy D. Blair,15
 Merced,29,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Merced,29,Governor,,DEM,Akinyemi Agbede,1
-Merced,29,Governor,,REP,Alma Marie Winston,0
 Merced,29,Governor,,REP,Andrew Blount,7
 Merced,29,Governor,,PAF,Cindy L. Sheehan,9
 Merced,29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",80
 Merced,29,Governor,,REP,Glenn Champ,8
-Merced,29,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,29,Governor,,IND,Joe Leicht,2
 Merced,29,Governor,,GRN,Luis J. Rodriguez,2
 Merced,29,Governor,,REP,Neel Kashkari,29
@@ -3112,6 +3064,10 @@ Merced,29,Lieutenant Governor,,DEM,Gavin Newsom,79
 Merced,29,Lieutenant Governor,,REP,George Yang,16
 Merced,29,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Merced,29,Lieutenant Governor,,REP,Ron Nehring,50
+Merced,29,Proposition 41,,,No,74
+Merced,29,Proposition 41,,,Yes,121
+Merced,29,Proposition 42,,,No,81
+Merced,29,Proposition 42,,,Yes,103
 Merced,29,Secretary of State,,DEM,Alex Padilla,44
 Merced,29,Secretary of State,,IND,Dan Schnur,14
 Merced,29,Secretary of State,,GRN,David Curtis,11
@@ -3137,9 +3093,7 @@ Merced,29,U.S. House,16,REP,Mel Levey,20
 Merced,29,U.S. House,16,REP,Steve Crass,44
 Merced,3,Attorney General,,REP,David King,4
 Merced,3,Attorney General,,REP,John Haggerty,12
-Merced,3,Attorney General,,LIB,Jonathan Jaech,0
 Merced,3,Attorney General,,DEM,Kamala D. Harris,22
-Merced,3,Attorney General,,IND,Orly Taitz,0
 Merced,3,Attorney General,,REP,Phil Wyman,37
 Merced,3,Attorney General,,REP,Ronald Gold,20
 Merced,3,Board of Equalization,1,DEM,Chris Parker,22
@@ -3150,15 +3104,10 @@ Merced,3,Controller,,REP,David Evans,12
 Merced,3,Controller,,DEM,John A. Pérez,8
 Merced,3,Controller,,GRN,Laura Wells,1
 Merced,3,Controller,,DEM,Tammy D. Blair,6
-Merced,3,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,3,Governor,,DEM,Akinyemi Agbede,0
-Merced,3,Governor,,REP,Alma Marie Winston,0
 Merced,3,Governor,,REP,Andrew Blount,2
 Merced,3,Governor,,PAF,Cindy L. Sheehan,2
 Merced,3,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Merced,3,Governor,,REP,Glenn Champ,2
-Merced,3,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,3,Governor,,IND,Joe Leicht,0
 Merced,3,Governor,,GRN,Luis J. Rodriguez,1
 Merced,3,Governor,,REP,Neel Kashkari,41
 Merced,3,Governor,,IND,Rakesh Kumar Christian,1
@@ -3166,16 +3115,18 @@ Merced,3,Governor,,REP,Richard William Aguirre,3
 Merced,3,Governor,,IND,Robert Newman,4
 Merced,3,Governor,,REP,Tim Donnelly,23
 Merced,3,Insurance Commissioner,,DEM,Dave Jones,25
-Merced,3,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Merced,3,Insurance Commissioner,,REP,Ted Gaines,71
 Merced,3,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,3,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,3,Lieutenant Governor,,REP,David Fennell,16
 Merced,3,Lieutenant Governor,,DEM,Eric Korevaar,3
 Merced,3,Lieutenant Governor,,DEM,Gavin Newsom,19
 Merced,3,Lieutenant Governor,,REP,George Yang,9
 Merced,3,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,3,Lieutenant Governor,,REP,Ron Nehring,40
+Merced,3,Proposition 41,,,No,53
+Merced,3,Proposition 41,,,Yes,45
+Merced,3,Proposition 42,,,No,54
+Merced,3,Proposition 42,,,Yes,42
 Merced,3,Secretary of State,,DEM,Alex Padilla,8
 Merced,3,Secretary of State,,IND,Dan Schnur,12
 Merced,3,Secretary of State,,GRN,David Curtis,1
@@ -3214,19 +3165,14 @@ Merced,30,Controller,,REP,David Evans,33
 Merced,30,Controller,,DEM,John A. Pérez,25
 Merced,30,Controller,,GRN,Laura Wells,5
 Merced,30,Controller,,DEM,Tammy D. Blair,12
-Merced,30,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,30,Governor,,DEM,Akinyemi Agbede,2
 Merced,30,Governor,,REP,Alma Marie Winston,2
 Merced,30,Governor,,REP,Andrew Blount,3
-Merced,30,Governor,,PAF,Cindy L. Sheehan,0
 Merced,30,Governor,,DEM,"Edmund G. ""Jerry"" Brown",76
 Merced,30,Governor,,REP,Glenn Champ,9
-Merced,30,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,30,Governor,,IND,Joe Leicht,0
 Merced,30,Governor,,GRN,Luis J. Rodriguez,3
 Merced,30,Governor,,REP,Neel Kashkari,44
 Merced,30,Governor,,IND,Rakesh Kumar Christian,1
-Merced,30,Governor,,REP,Richard William Aguirre,0
 Merced,30,Governor,,IND,Robert Newman,3
 Merced,30,Governor,,REP,Tim Donnelly,40
 Merced,30,Insurance Commissioner,,DEM,Dave Jones,82
@@ -3240,6 +3186,10 @@ Merced,30,Lieutenant Governor,,DEM,Gavin Newsom,66
 Merced,30,Lieutenant Governor,,REP,George Yang,28
 Merced,30,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,30,Lieutenant Governor,,REP,Ron Nehring,54
+Merced,30,Proposition 41,,,No,57
+Merced,30,Proposition 41,,,Yes,119
+Merced,30,Proposition 42,,,No,83
+Merced,30,Proposition 42,,,Yes,88
 Merced,30,Secretary of State,,DEM,Alex Padilla,31
 Merced,30,Secretary of State,,IND,Dan Schnur,14
 Merced,30,Secretary of State,,GRN,David Curtis,2
@@ -3278,7 +3228,6 @@ Merced,31,Controller,,REP,David Evans,31
 Merced,31,Controller,,DEM,John A. Pérez,45
 Merced,31,Controller,,GRN,Laura Wells,11
 Merced,31,Controller,,DEM,Tammy D. Blair,10
-Merced,31,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,31,Governor,,DEM,Akinyemi Agbede,7
 Merced,31,Governor,,REP,Alma Marie Winston,3
 Merced,31,Governor,,REP,Andrew Blount,5
@@ -3286,11 +3235,9 @@ Merced,31,Governor,,PAF,Cindy L. Sheehan,5
 Merced,31,Governor,,DEM,"Edmund G. ""Jerry"" Brown",102
 Merced,31,Governor,,REP,Glenn Champ,6
 Merced,31,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,31,Governor,,IND,Joe Leicht,0
 Merced,31,Governor,,GRN,Luis J. Rodriguez,2
 Merced,31,Governor,,REP,Neel Kashkari,39
 Merced,31,Governor,,IND,Rakesh Kumar Christian,1
-Merced,31,Governor,,REP,Richard William Aguirre,0
 Merced,31,Governor,,IND,Robert Newman,5
 Merced,31,Governor,,REP,Tim Donnelly,45
 Merced,31,Insurance Commissioner,,DEM,Dave Jones,106
@@ -3304,6 +3251,10 @@ Merced,31,Lieutenant Governor,,DEM,Gavin Newsom,106
 Merced,31,Lieutenant Governor,,REP,George Yang,15
 Merced,31,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,31,Lieutenant Governor,,REP,Ron Nehring,48
+Merced,31,Proposition 41,,,No,75
+Merced,31,Proposition 41,,,Yes,141
+Merced,31,Proposition 42,,,No,93
+Merced,31,Proposition 42,,,Yes,118
 Merced,31,Secretary of State,,DEM,Alex Padilla,57
 Merced,31,Secretary of State,,IND,Dan Schnur,28
 Merced,31,Secretary of State,,GRN,David Curtis,4
@@ -3344,13 +3295,9 @@ Merced,32,Controller,,GRN,Laura Wells,10
 Merced,32,Controller,,DEM,Tammy D. Blair,16
 Merced,32,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Merced,32,Governor,,DEM,Akinyemi Agbede,4
-Merced,32,Governor,,REP,Alma Marie Winston,0
-Merced,32,Governor,,REP,Andrew Blount,0
 Merced,32,Governor,,PAF,Cindy L. Sheehan,4
 Merced,32,Governor,,DEM,"Edmund G. ""Jerry"" Brown",78
 Merced,32,Governor,,REP,Glenn Champ,7
-Merced,32,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,32,Governor,,IND,Joe Leicht,0
 Merced,32,Governor,,GRN,Luis J. Rodriguez,4
 Merced,32,Governor,,REP,Neel Kashkari,14
 Merced,32,Governor,,IND,Rakesh Kumar Christian,1
@@ -3368,6 +3315,10 @@ Merced,32,Lieutenant Governor,,DEM,Gavin Newsom,72
 Merced,32,Lieutenant Governor,,REP,George Yang,6
 Merced,32,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,32,Lieutenant Governor,,REP,Ron Nehring,26
+Merced,32,Proposition 41,,,No,26
+Merced,32,Proposition 41,,,Yes,115
+Merced,32,Proposition 42,,,No,47
+Merced,32,Proposition 42,,,Yes,91
 Merced,32,Secretary of State,,DEM,Alex Padilla,45
 Merced,32,Secretary of State,,IND,Dan Schnur,10
 Merced,32,Secretary of State,,GRN,David Curtis,7
@@ -3406,7 +3357,6 @@ Merced,33,Controller,,REP,David Evans,45
 Merced,33,Controller,,DEM,John A. Pérez,46
 Merced,33,Controller,,GRN,Laura Wells,10
 Merced,33,Controller,,DEM,Tammy D. Blair,13
-Merced,33,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,33,Governor,,DEM,Akinyemi Agbede,2
 Merced,33,Governor,,REP,Alma Marie Winston,2
 Merced,33,Governor,,REP,Andrew Blount,8
@@ -3414,7 +3364,6 @@ Merced,33,Governor,,PAF,Cindy L. Sheehan,1
 Merced,33,Governor,,DEM,"Edmund G. ""Jerry"" Brown",128
 Merced,33,Governor,,REP,Glenn Champ,17
 Merced,33,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,33,Governor,,IND,Joe Leicht,0
 Merced,33,Governor,,GRN,Luis J. Rodriguez,4
 Merced,33,Governor,,REP,Neel Kashkari,83
 Merced,33,Governor,,IND,Rakesh Kumar Christian,4
@@ -3432,6 +3381,10 @@ Merced,33,Lieutenant Governor,,DEM,Gavin Newsom,108
 Merced,33,Lieutenant Governor,,REP,George Yang,27
 Merced,33,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,33,Lieutenant Governor,,REP,Ron Nehring,83
+Merced,33,Proposition 41,,,No,90
+Merced,33,Proposition 41,,,Yes,203
+Merced,33,Proposition 42,,,No,116
+Merced,33,Proposition 42,,,Yes,162
 Merced,33,Secretary of State,,DEM,Alex Padilla,63
 Merced,33,Secretary of State,,IND,Dan Schnur,30
 Merced,33,Secretary of State,,GRN,David Curtis,3
@@ -3477,8 +3430,6 @@ Merced,34,Governor,,REP,Andrew Blount,6
 Merced,34,Governor,,PAF,Cindy L. Sheehan,5
 Merced,34,Governor,,DEM,"Edmund G. ""Jerry"" Brown",70
 Merced,34,Governor,,REP,Glenn Champ,7
-Merced,34,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,34,Governor,,IND,Joe Leicht,0
 Merced,34,Governor,,GRN,Luis J. Rodriguez,2
 Merced,34,Governor,,REP,Neel Kashkari,45
 Merced,34,Governor,,IND,Rakesh Kumar Christian,3
@@ -3496,6 +3447,10 @@ Merced,34,Lieutenant Governor,,DEM,Gavin Newsom,62
 Merced,34,Lieutenant Governor,,REP,George Yang,26
 Merced,34,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,34,Lieutenant Governor,,REP,Ron Nehring,48
+Merced,34,Proposition 41,,,No,66
+Merced,34,Proposition 41,,,Yes,119
+Merced,34,Proposition 42,,,No,88
+Merced,34,Proposition 42,,,Yes,87
 Merced,34,Secretary of State,,DEM,Alex Padilla,36
 Merced,34,Secretary of State,,IND,Dan Schnur,24
 Merced,34,Secretary of State,,GRN,David Curtis,6
@@ -3541,8 +3496,6 @@ Merced,35,Governor,,REP,Andrew Blount,2
 Merced,35,Governor,,PAF,Cindy L. Sheehan,3
 Merced,35,Governor,,DEM,"Edmund G. ""Jerry"" Brown",76
 Merced,35,Governor,,REP,Glenn Champ,7
-Merced,35,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,35,Governor,,IND,Joe Leicht,0
 Merced,35,Governor,,GRN,Luis J. Rodriguez,2
 Merced,35,Governor,,REP,Neel Kashkari,42
 Merced,35,Governor,,IND,Rakesh Kumar Christian,3
@@ -3560,6 +3513,10 @@ Merced,35,Lieutenant Governor,,DEM,Gavin Newsom,72
 Merced,35,Lieutenant Governor,,REP,George Yang,16
 Merced,35,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,35,Lieutenant Governor,,REP,Ron Nehring,51
+Merced,35,Proposition 41,,,No,64
+Merced,35,Proposition 41,,,Yes,118
+Merced,35,Proposition 42,,,No,77
+Merced,35,Proposition 42,,,Yes,104
 Merced,35,Secretary of State,,DEM,Alex Padilla,40
 Merced,35,Secretary of State,,IND,Dan Schnur,18
 Merced,35,Secretary of State,,GRN,David Curtis,3
@@ -3598,7 +3555,6 @@ Merced,36,Controller,,REP,David Evans,27
 Merced,36,Controller,,DEM,John A. Pérez,27
 Merced,36,Controller,,GRN,Laura Wells,9
 Merced,36,Controller,,DEM,Tammy D. Blair,7
-Merced,36,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,36,Governor,,DEM,Akinyemi Agbede,3
 Merced,36,Governor,,REP,Alma Marie Winston,1
 Merced,36,Governor,,REP,Andrew Blount,6
@@ -3606,7 +3562,6 @@ Merced,36,Governor,,PAF,Cindy L. Sheehan,5
 Merced,36,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Merced,36,Governor,,REP,Glenn Champ,5
 Merced,36,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,36,Governor,,IND,Joe Leicht,0
 Merced,36,Governor,,GRN,Luis J. Rodriguez,4
 Merced,36,Governor,,REP,Neel Kashkari,36
 Merced,36,Governor,,IND,Rakesh Kumar Christian,2
@@ -3624,6 +3579,10 @@ Merced,36,Lieutenant Governor,,DEM,Gavin Newsom,53
 Merced,36,Lieutenant Governor,,REP,George Yang,16
 Merced,36,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,36,Lieutenant Governor,,REP,Ron Nehring,37
+Merced,36,Proposition 41,,,No,53
+Merced,36,Proposition 41,,,Yes,103
+Merced,36,Proposition 42,,,No,73
+Merced,36,Proposition 42,,,Yes,72
 Merced,36,Secretary of State,,DEM,Alex Padilla,36
 Merced,36,Secretary of State,,IND,Dan Schnur,9
 Merced,36,Secretary of State,,GRN,David Curtis,10
@@ -3669,8 +3628,6 @@ Merced,37,Governor,,REP,Andrew Blount,2
 Merced,37,Governor,,PAF,Cindy L. Sheehan,6
 Merced,37,Governor,,DEM,"Edmund G. ""Jerry"" Brown",90
 Merced,37,Governor,,REP,Glenn Champ,8
-Merced,37,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,37,Governor,,IND,Joe Leicht,0
 Merced,37,Governor,,GRN,Luis J. Rodriguez,1
 Merced,37,Governor,,REP,Neel Kashkari,35
 Merced,37,Governor,,IND,Rakesh Kumar Christian,1
@@ -3688,6 +3645,10 @@ Merced,37,Lieutenant Governor,,DEM,Gavin Newsom,74
 Merced,37,Lieutenant Governor,,REP,George Yang,25
 Merced,37,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,37,Lieutenant Governor,,REP,Ron Nehring,54
+Merced,37,Proposition 41,,,No,67
+Merced,37,Proposition 41,,,Yes,139
+Merced,37,Proposition 42,,,No,89
+Merced,37,Proposition 42,,,Yes,105
 Merced,37,Secretary of State,,DEM,Alex Padilla,46
 Merced,37,Secretary of State,,IND,Dan Schnur,13
 Merced,37,Secretary of State,,GRN,David Curtis,2
@@ -3726,7 +3687,6 @@ Merced,38,Controller,,REP,David Evans,16
 Merced,38,Controller,,DEM,John A. Pérez,22
 Merced,38,Controller,,GRN,Laura Wells,9
 Merced,38,Controller,,DEM,Tammy D. Blair,6
-Merced,38,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,38,Governor,,DEM,Akinyemi Agbede,2
 Merced,38,Governor,,REP,Alma Marie Winston,3
 Merced,38,Governor,,REP,Andrew Blount,2
@@ -3752,6 +3712,10 @@ Merced,38,Lieutenant Governor,,DEM,Gavin Newsom,48
 Merced,38,Lieutenant Governor,,REP,George Yang,18
 Merced,38,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,38,Lieutenant Governor,,REP,Ron Nehring,34
+Merced,38,Proposition 41,,,No,60
+Merced,38,Proposition 41,,,Yes,87
+Merced,38,Proposition 42,,,No,59
+Merced,38,Proposition 42,,,Yes,89
 Merced,38,Secretary of State,,DEM,Alex Padilla,25
 Merced,38,Secretary of State,,IND,Dan Schnur,10
 Merced,38,Secretary of State,,GRN,David Curtis,10
@@ -3790,7 +3754,6 @@ Merced,39,Controller,,REP,David Evans,42
 Merced,39,Controller,,DEM,John A. Pérez,36
 Merced,39,Controller,,GRN,Laura Wells,17
 Merced,39,Controller,,DEM,Tammy D. Blair,12
-Merced,39,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,39,Governor,,DEM,Akinyemi Agbede,5
 Merced,39,Governor,,REP,Alma Marie Winston,3
 Merced,39,Governor,,REP,Andrew Blount,9
@@ -3798,7 +3761,6 @@ Merced,39,Governor,,PAF,Cindy L. Sheehan,5
 Merced,39,Governor,,DEM,"Edmund G. ""Jerry"" Brown",129
 Merced,39,Governor,,REP,Glenn Champ,17
 Merced,39,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,39,Governor,,IND,Joe Leicht,0
 Merced,39,Governor,,GRN,Luis J. Rodriguez,3
 Merced,39,Governor,,REP,Neel Kashkari,62
 Merced,39,Governor,,IND,Rakesh Kumar Christian,2
@@ -3816,6 +3778,10 @@ Merced,39,Lieutenant Governor,,DEM,Gavin Newsom,105
 Merced,39,Lieutenant Governor,,REP,George Yang,26
 Merced,39,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Merced,39,Lieutenant Governor,,REP,Ron Nehring,88
+Merced,39,Proposition 41,,,No,113
+Merced,39,Proposition 41,,,Yes,178
+Merced,39,Proposition 42,,,No,135
+Merced,39,Proposition 42,,,Yes,146
 Merced,39,Secretary of State,,DEM,Alex Padilla,49
 Merced,39,Secretary of State,,IND,Dan Schnur,38
 Merced,39,Secretary of State,,GRN,David Curtis,11
@@ -3854,18 +3820,14 @@ Merced,4,Controller,,REP,David Evans,41
 Merced,4,Controller,,DEM,John A. Pérez,43
 Merced,4,Controller,,GRN,Laura Wells,6
 Merced,4,Controller,,DEM,Tammy D. Blair,10
-Merced,4,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,4,Governor,,DEM,Akinyemi Agbede,1
 Merced,4,Governor,,REP,Alma Marie Winston,3
-Merced,4,Governor,,REP,Andrew Blount,0
 Merced,4,Governor,,PAF,Cindy L. Sheehan,4
 Merced,4,Governor,,DEM,"Edmund G. ""Jerry"" Brown",77
 Merced,4,Governor,,REP,Glenn Champ,14
 Merced,4,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,4,Governor,,IND,Joe Leicht,0
 Merced,4,Governor,,GRN,Luis J. Rodriguez,2
 Merced,4,Governor,,REP,Neel Kashkari,52
-Merced,4,Governor,,IND,Rakesh Kumar Christian,0
 Merced,4,Governor,,REP,Richard William Aguirre,1
 Merced,4,Governor,,IND,Robert Newman,10
 Merced,4,Governor,,REP,Tim Donnelly,56
@@ -3880,6 +3842,10 @@ Merced,4,Lieutenant Governor,,DEM,Gavin Newsom,78
 Merced,4,Lieutenant Governor,,REP,George Yang,33
 Merced,4,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,4,Lieutenant Governor,,REP,Ron Nehring,54
+Merced,4,Proposition 41,,,No,96
+Merced,4,Proposition 41,,,Yes,117
+Merced,4,Proposition 42,,,No,101
+Merced,4,Proposition 42,,,Yes,107
 Merced,4,Secretary of State,,DEM,Alex Padilla,52
 Merced,4,Secretary of State,,IND,Dan Schnur,17
 Merced,4,Secretary of State,,GRN,David Curtis,5
@@ -3926,7 +3892,6 @@ Merced,40,Governor,,PAF,Cindy L. Sheehan,3
 Merced,40,Governor,,DEM,"Edmund G. ""Jerry"" Brown",94
 Merced,40,Governor,,REP,Glenn Champ,11
 Merced,40,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,40,Governor,,IND,Joe Leicht,0
 Merced,40,Governor,,GRN,Luis J. Rodriguez,4
 Merced,40,Governor,,REP,Neel Kashkari,82
 Merced,40,Governor,,IND,Rakesh Kumar Christian,2
@@ -3944,6 +3909,10 @@ Merced,40,Lieutenant Governor,,DEM,Gavin Newsom,92
 Merced,40,Lieutenant Governor,,REP,George Yang,31
 Merced,40,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,40,Lieutenant Governor,,REP,Ron Nehring,77
+Merced,40,Proposition 41,,,No,89
+Merced,40,Proposition 41,,,Yes,179
+Merced,40,Proposition 42,,,No,107
+Merced,40,Proposition 42,,,Yes,150
 Merced,40,Secretary of State,,DEM,Alex Padilla,52
 Merced,40,Secretary of State,,IND,Dan Schnur,35
 Merced,40,Secretary of State,,GRN,David Curtis,9
@@ -3986,10 +3955,8 @@ Merced,41,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Merced,41,Governor,,DEM,Akinyemi Agbede,3
 Merced,41,Governor,,REP,Alma Marie Winston,5
 Merced,41,Governor,,REP,Andrew Blount,8
-Merced,41,Governor,,PAF,Cindy L. Sheehan,0
 Merced,41,Governor,,DEM,"Edmund G. ""Jerry"" Brown",184
 Merced,41,Governor,,REP,Glenn Champ,16
-Merced,41,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,41,Governor,,IND,Joe Leicht,1
 Merced,41,Governor,,GRN,Luis J. Rodriguez,3
 Merced,41,Governor,,REP,Neel Kashkari,111
@@ -4008,6 +3975,10 @@ Merced,41,Lieutenant Governor,,DEM,Gavin Newsom,150
 Merced,41,Lieutenant Governor,,REP,George Yang,54
 Merced,41,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,41,Lieutenant Governor,,REP,Ron Nehring,107
+Merced,41,Proposition 41,,,No,142
+Merced,41,Proposition 41,,,Yes,248
+Merced,41,Proposition 42,,,No,186
+Merced,41,Proposition 42,,,Yes,188
 Merced,41,Secretary of State,,DEM,Alex Padilla,71
 Merced,41,Secretary of State,,IND,Dan Schnur,42
 Merced,41,Secretary of State,,GRN,David Curtis,12
@@ -4053,13 +4024,9 @@ Merced,42,Governor,,REP,Andrew Blount,8
 Merced,42,Governor,,PAF,Cindy L. Sheehan,5
 Merced,42,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Merced,42,Governor,,REP,Glenn Champ,11
-Merced,42,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,42,Governor,,IND,Joe Leicht,0
 Merced,42,Governor,,GRN,Luis J. Rodriguez,3
 Merced,42,Governor,,REP,Neel Kashkari,64
-Merced,42,Governor,,IND,Rakesh Kumar Christian,0
 Merced,42,Governor,,REP,Richard William Aguirre,3
-Merced,42,Governor,,IND,Robert Newman,0
 Merced,42,Governor,,REP,Tim Donnelly,70
 Merced,42,Insurance Commissioner,,DEM,Dave Jones,122
 Merced,42,Insurance Commissioner,,PAF,Nathalie Hrizi,16
@@ -4072,6 +4039,10 @@ Merced,42,Lieutenant Governor,,DEM,Gavin Newsom,107
 Merced,42,Lieutenant Governor,,REP,George Yang,37
 Merced,42,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,42,Lieutenant Governor,,REP,Ron Nehring,72
+Merced,42,Proposition 41,,,No,100
+Merced,42,Proposition 41,,,Yes,183
+Merced,42,Proposition 42,,,No,127
+Merced,42,Proposition 42,,,Yes,147
 Merced,42,Secretary of State,,DEM,Alex Padilla,66
 Merced,42,Secretary of State,,IND,Dan Schnur,25
 Merced,42,Secretary of State,,GRN,David Curtis,9
@@ -4118,7 +4089,6 @@ Merced,43,Governor,,PAF,Cindy L. Sheehan,4
 Merced,43,Governor,,DEM,"Edmund G. ""Jerry"" Brown",91
 Merced,43,Governor,,REP,Glenn Champ,10
 Merced,43,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,43,Governor,,IND,Joe Leicht,0
 Merced,43,Governor,,GRN,Luis J. Rodriguez,4
 Merced,43,Governor,,REP,Neel Kashkari,42
 Merced,43,Governor,,IND,Rakesh Kumar Christian,2
@@ -4136,6 +4106,10 @@ Merced,43,Lieutenant Governor,,DEM,Gavin Newsom,79
 Merced,43,Lieutenant Governor,,REP,George Yang,30
 Merced,43,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,43,Lieutenant Governor,,REP,Ron Nehring,46
+Merced,43,Proposition 41,,,No,77
+Merced,43,Proposition 41,,,Yes,136
+Merced,43,Proposition 42,,,No,101
+Merced,43,Proposition 42,,,Yes,106
 Merced,43,Secretary of State,,DEM,Alex Padilla,38
 Merced,43,Secretary of State,,IND,Dan Schnur,26
 Merced,43,Secretary of State,,GRN,David Curtis,6
@@ -4174,14 +4148,11 @@ Merced,44,Controller,,REP,David Evans,42
 Merced,44,Controller,,DEM,John A. Pérez,28
 Merced,44,Controller,,GRN,Laura Wells,6
 Merced,44,Controller,,DEM,Tammy D. Blair,9
-Merced,44,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,44,Governor,,DEM,Akinyemi Agbede,2
-Merced,44,Governor,,REP,Alma Marie Winston,0
 Merced,44,Governor,,REP,Andrew Blount,5
 Merced,44,Governor,,PAF,Cindy L. Sheehan,2
 Merced,44,Governor,,DEM,"Edmund G. ""Jerry"" Brown",95
 Merced,44,Governor,,REP,Glenn Champ,10
-Merced,44,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,44,Governor,,IND,Joe Leicht,1
 Merced,44,Governor,,GRN,Luis J. Rodriguez,8
 Merced,44,Governor,,REP,Neel Kashkari,75
@@ -4200,6 +4171,10 @@ Merced,44,Lieutenant Governor,,DEM,Gavin Newsom,85
 Merced,44,Lieutenant Governor,,REP,George Yang,39
 Merced,44,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,44,Lieutenant Governor,,REP,Ron Nehring,91
+Merced,44,Proposition 41,,,No,121
+Merced,44,Proposition 41,,,Yes,164
+Merced,44,Proposition 42,,,No,139
+Merced,44,Proposition 42,,,Yes,135
 Merced,44,Secretary of State,,DEM,Alex Padilla,34
 Merced,44,Secretary of State,,IND,Dan Schnur,32
 Merced,44,Secretary of State,,GRN,David Curtis,8
@@ -4238,19 +4213,15 @@ Merced,45,Controller,,REP,David Evans,36
 Merced,45,Controller,,DEM,John A. Pérez,38
 Merced,45,Controller,,GRN,Laura Wells,10
 Merced,45,Controller,,DEM,Tammy D. Blair,14
-Merced,45,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,45,Governor,,DEM,Akinyemi Agbede,1
 Merced,45,Governor,,REP,Alma Marie Winston,2
 Merced,45,Governor,,REP,Andrew Blount,1
 Merced,45,Governor,,PAF,Cindy L. Sheehan,2
 Merced,45,Governor,,DEM,"Edmund G. ""Jerry"" Brown",142
 Merced,45,Governor,,REP,Glenn Champ,2
-Merced,45,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,45,Governor,,IND,Joe Leicht,0
 Merced,45,Governor,,GRN,Luis J. Rodriguez,3
 Merced,45,Governor,,REP,Neel Kashkari,99
 Merced,45,Governor,,IND,Rakesh Kumar Christian,1
-Merced,45,Governor,,REP,Richard William Aguirre,0
 Merced,45,Governor,,IND,Robert Newman,1
 Merced,45,Governor,,REP,Tim Donnelly,63
 Merced,45,Insurance Commissioner,,DEM,Dave Jones,130
@@ -4264,6 +4235,10 @@ Merced,45,Lieutenant Governor,,DEM,Gavin Newsom,126
 Merced,45,Lieutenant Governor,,REP,George Yang,36
 Merced,45,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,45,Lieutenant Governor,,REP,Ron Nehring,96
+Merced,45,Proposition 41,,,No,127
+Merced,45,Proposition 41,,,Yes,192
+Merced,45,Proposition 42,,,No,175
+Merced,45,Proposition 42,,,Yes,136
 Merced,45,Secretary of State,,DEM,Alex Padilla,50
 Merced,45,Secretary of State,,IND,Dan Schnur,37
 Merced,45,Secretary of State,,GRN,David Curtis,4
@@ -4309,7 +4284,6 @@ Merced,46,Governor,,REP,Andrew Blount,2
 Merced,46,Governor,,PAF,Cindy L. Sheehan,5
 Merced,46,Governor,,DEM,"Edmund G. ""Jerry"" Brown",116
 Merced,46,Governor,,REP,Glenn Champ,16
-Merced,46,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,46,Governor,,IND,Joe Leicht,3
 Merced,46,Governor,,GRN,Luis J. Rodriguez,3
 Merced,46,Governor,,REP,Neel Kashkari,56
@@ -4328,6 +4302,10 @@ Merced,46,Lieutenant Governor,,DEM,Gavin Newsom,106
 Merced,46,Lieutenant Governor,,REP,George Yang,29
 Merced,46,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,46,Lieutenant Governor,,REP,Ron Nehring,102
+Merced,46,Proposition 41,,,No,147
+Merced,46,Proposition 41,,,Yes,155
+Merced,46,Proposition 42,,,No,149
+Merced,46,Proposition 42,,,Yes,148
 Merced,46,Secretary of State,,DEM,Alex Padilla,46
 Merced,46,Secretary of State,,IND,Dan Schnur,22
 Merced,46,Secretary of State,,GRN,David Curtis,6
@@ -4377,8 +4355,6 @@ Merced,47,Governor,,IND,Janel Hyeshia Buycks,1
 Merced,47,Governor,,IND,Joe Leicht,1
 Merced,47,Governor,,GRN,Luis J. Rodriguez,2
 Merced,47,Governor,,REP,Neel Kashkari,21
-Merced,47,Governor,,IND,Rakesh Kumar Christian,0
-Merced,47,Governor,,REP,Richard William Aguirre,0
 Merced,47,Governor,,IND,Robert Newman,3
 Merced,47,Governor,,REP,Tim Donnelly,25
 Merced,47,Insurance Commissioner,,DEM,Dave Jones,79
@@ -4392,6 +4368,10 @@ Merced,47,Lieutenant Governor,,DEM,Gavin Newsom,67
 Merced,47,Lieutenant Governor,,REP,George Yang,15
 Merced,47,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,47,Lieutenant Governor,,REP,Ron Nehring,26
+Merced,47,Proposition 41,,,No,28
+Merced,47,Proposition 41,,,Yes,118
+Merced,47,Proposition 42,,,No,62
+Merced,47,Proposition 42,,,Yes,82
 Merced,47,Secretary of State,,DEM,Alex Padilla,45
 Merced,47,Secretary of State,,IND,Dan Schnur,13
 Merced,47,Secretary of State,,GRN,David Curtis,6
@@ -4430,7 +4410,6 @@ Merced,48,Controller,,REP,David Evans,29
 Merced,48,Controller,,DEM,John A. Pérez,43
 Merced,48,Controller,,GRN,Laura Wells,11
 Merced,48,Controller,,DEM,Tammy D. Blair,12
-Merced,48,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,48,Governor,,DEM,Akinyemi Agbede,6
 Merced,48,Governor,,REP,Alma Marie Winston,1
 Merced,48,Governor,,REP,Andrew Blount,11
@@ -4441,7 +4420,6 @@ Merced,48,Governor,,IND,Janel Hyeshia Buycks,1
 Merced,48,Governor,,IND,Joe Leicht,1
 Merced,48,Governor,,GRN,Luis J. Rodriguez,4
 Merced,48,Governor,,REP,Neel Kashkari,27
-Merced,48,Governor,,IND,Rakesh Kumar Christian,0
 Merced,48,Governor,,REP,Richard William Aguirre,3
 Merced,48,Governor,,IND,Robert Newman,10
 Merced,48,Governor,,REP,Tim Donnelly,33
@@ -4456,6 +4434,10 @@ Merced,48,Lieutenant Governor,,DEM,Gavin Newsom,73
 Merced,48,Lieutenant Governor,,REP,George Yang,15
 Merced,48,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,48,Lieutenant Governor,,REP,Ron Nehring,43
+Merced,48,Proposition 41,,,No,69
+Merced,48,Proposition 41,,,Yes,111
+Merced,48,Proposition 42,,,No,78
+Merced,48,Proposition 42,,,Yes,96
 Merced,48,Secretary of State,,DEM,Alex Padilla,54
 Merced,48,Secretary of State,,IND,Dan Schnur,10
 Merced,48,Secretary of State,,GRN,David Curtis,5
@@ -4501,8 +4483,6 @@ Merced,49,Governor,,REP,Andrew Blount,5
 Merced,49,Governor,,PAF,Cindy L. Sheehan,2
 Merced,49,Governor,,DEM,"Edmund G. ""Jerry"" Brown",173
 Merced,49,Governor,,REP,Glenn Champ,10
-Merced,49,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,49,Governor,,IND,Joe Leicht,0
 Merced,49,Governor,,GRN,Luis J. Rodriguez,3
 Merced,49,Governor,,REP,Neel Kashkari,54
 Merced,49,Governor,,IND,Rakesh Kumar Christian,2
@@ -4520,6 +4500,10 @@ Merced,49,Lieutenant Governor,,DEM,Gavin Newsom,155
 Merced,49,Lieutenant Governor,,REP,George Yang,34
 Merced,49,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,49,Lieutenant Governor,,REP,Ron Nehring,78
+Merced,49,Proposition 41,,,No,135
+Merced,49,Proposition 41,,,Yes,184
+Merced,49,Proposition 42,,,No,133
+Merced,49,Proposition 42,,,Yes,173
 Merced,49,Secretary of State,,DEM,Alex Padilla,84
 Merced,49,Secretary of State,,IND,Dan Schnur,22
 Merced,49,Secretary of State,,GRN,David Curtis,4
@@ -4558,15 +4542,11 @@ Merced,5,Controller,,REP,David Evans,35
 Merced,5,Controller,,DEM,John A. Pérez,53
 Merced,5,Controller,,GRN,Laura Wells,9
 Merced,5,Controller,,DEM,Tammy D. Blair,5
-Merced,5,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,5,Governor,,DEM,Akinyemi Agbede,1
-Merced,5,Governor,,REP,Alma Marie Winston,0
 Merced,5,Governor,,REP,Andrew Blount,1
 Merced,5,Governor,,PAF,Cindy L. Sheehan,2
 Merced,5,Governor,,DEM,"Edmund G. ""Jerry"" Brown",66
 Merced,5,Governor,,REP,Glenn Champ,16
-Merced,5,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,5,Governor,,IND,Joe Leicht,0
 Merced,5,Governor,,GRN,Luis J. Rodriguez,9
 Merced,5,Governor,,REP,Neel Kashkari,60
 Merced,5,Governor,,IND,Rakesh Kumar Christian,4
@@ -4584,6 +4564,10 @@ Merced,5,Lieutenant Governor,,DEM,Gavin Newsom,66
 Merced,5,Lieutenant Governor,,REP,George Yang,24
 Merced,5,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Merced,5,Lieutenant Governor,,REP,Ron Nehring,68
+Merced,5,Proposition 41,,,No,112
+Merced,5,Proposition 41,,,Yes,109
+Merced,5,Proposition 42,,,No,101
+Merced,5,Proposition 42,,,Yes,113
 Merced,5,Secretary of State,,DEM,Alex Padilla,52
 Merced,5,Secretary of State,,IND,Dan Schnur,6
 Merced,5,Secretary of State,,GRN,David Curtis,3
@@ -4622,18 +4606,14 @@ Merced,50,Controller,,REP,David Evans,23
 Merced,50,Controller,,DEM,John A. Pérez,27
 Merced,50,Controller,,GRN,Laura Wells,9
 Merced,50,Controller,,DEM,Tammy D. Blair,5
-Merced,50,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,50,Governor,,DEM,Akinyemi Agbede,1
-Merced,50,Governor,,REP,Alma Marie Winston,0
 Merced,50,Governor,,REP,Andrew Blount,4
 Merced,50,Governor,,PAF,Cindy L. Sheehan,2
 Merced,50,Governor,,DEM,"Edmund G. ""Jerry"" Brown",71
 Merced,50,Governor,,REP,Glenn Champ,6
 Merced,50,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,50,Governor,,IND,Joe Leicht,0
 Merced,50,Governor,,GRN,Luis J. Rodriguez,2
 Merced,50,Governor,,REP,Neel Kashkari,30
-Merced,50,Governor,,IND,Rakesh Kumar Christian,0
 Merced,50,Governor,,REP,Richard William Aguirre,2
 Merced,50,Governor,,IND,Robert Newman,4
 Merced,50,Governor,,REP,Tim Donnelly,42
@@ -4648,6 +4628,10 @@ Merced,50,Lieutenant Governor,,DEM,Gavin Newsom,65
 Merced,50,Lieutenant Governor,,REP,George Yang,20
 Merced,50,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,50,Lieutenant Governor,,REP,Ron Nehring,42
+Merced,50,Proposition 41,,,No,69
+Merced,50,Proposition 41,,,Yes,95
+Merced,50,Proposition 42,,,No,76
+Merced,50,Proposition 42,,,Yes,85
 Merced,50,Secretary of State,,DEM,Alex Padilla,33
 Merced,50,Secretary of State,,IND,Dan Schnur,10
 Merced,50,Secretary of State,,GRN,David Curtis,4
@@ -4693,25 +4677,26 @@ Merced,51,Governor,,REP,Andrew Blount,2
 Merced,51,Governor,,PAF,Cindy L. Sheehan,4
 Merced,51,Governor,,DEM,"Edmund G. ""Jerry"" Brown",150
 Merced,51,Governor,,REP,Glenn Champ,6
-Merced,51,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,51,Governor,,IND,Joe Leicht,2
 Merced,51,Governor,,GRN,Luis J. Rodriguez,2
 Merced,51,Governor,,REP,Neel Kashkari,90
 Merced,51,Governor,,IND,Rakesh Kumar Christian,1
-Merced,51,Governor,,REP,Richard William Aguirre,0
 Merced,51,Governor,,IND,Robert Newman,5
 Merced,51,Governor,,REP,Tim Donnelly,71
 Merced,51,Insurance Commissioner,,DEM,Dave Jones,144
 Merced,51,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Merced,51,Insurance Commissioner,,REP,Ted Gaines,173
 Merced,51,Lieutenant Governor,,AME,Alan Reynolds,5
-Merced,51,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,51,Lieutenant Governor,,REP,David Fennell,29
 Merced,51,Lieutenant Governor,,DEM,Eric Korevaar,14
 Merced,51,Lieutenant Governor,,DEM,Gavin Newsom,131
 Merced,51,Lieutenant Governor,,REP,George Yang,40
 Merced,51,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,51,Lieutenant Governor,,REP,Ron Nehring,100
+Merced,51,Proposition 41,,,No,135
+Merced,51,Proposition 41,,,Yes,207
+Merced,51,Proposition 42,,,No,168
+Merced,51,Proposition 42,,,Yes,162
 Merced,51,Secretary of State,,DEM,Alex Padilla,84
 Merced,51,Secretary of State,,IND,Dan Schnur,33
 Merced,51,Secretary of State,,GRN,David Curtis,5
@@ -4754,15 +4739,10 @@ Merced,52,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Merced,52,Governor,,DEM,Akinyemi Agbede,3
 Merced,52,Governor,,REP,Alma Marie Winston,1
 Merced,52,Governor,,REP,Andrew Blount,3
-Merced,52,Governor,,PAF,Cindy L. Sheehan,0
 Merced,52,Governor,,DEM,"Edmund G. ""Jerry"" Brown",66
 Merced,52,Governor,,REP,Glenn Champ,9
 Merced,52,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,52,Governor,,IND,Joe Leicht,0
-Merced,52,Governor,,GRN,Luis J. Rodriguez,0
 Merced,52,Governor,,REP,Neel Kashkari,66
-Merced,52,Governor,,IND,Rakesh Kumar Christian,0
-Merced,52,Governor,,REP,Richard William Aguirre,0
 Merced,52,Governor,,IND,Robert Newman,1
 Merced,52,Governor,,REP,Tim Donnelly,32
 Merced,52,Insurance Commissioner,,DEM,Dave Jones,53
@@ -4776,6 +4756,10 @@ Merced,52,Lieutenant Governor,,DEM,Gavin Newsom,57
 Merced,52,Lieutenant Governor,,REP,George Yang,18
 Merced,52,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,52,Lieutenant Governor,,REP,Ron Nehring,69
+Merced,52,Proposition 41,,,No,93
+Merced,52,Proposition 41,,,Yes,86
+Merced,52,Proposition 42,,,No,95
+Merced,52,Proposition 42,,,Yes,73
 Merced,52,Secretary of State,,DEM,Alex Padilla,30
 Merced,52,Secretary of State,,IND,Dan Schnur,30
 Merced,52,Secretary of State,,GRN,David Curtis,3
@@ -4795,74 +4779,48 @@ Merced,52,Treasurer,,REP,Greg Conlon,79
 Merced,52,Treasurer,,DEM,John Chiang,66
 Merced,52,U.S. House,16,DEM,Jim Costa,56
 Merced,52,U.S. House,16,REP,Joanna Garcia-Botelho,4
-Merced,52,U.S. House,16,DEM,Job Melton,0
 Merced,52,U.S. House,16,REP,Johnny Tacherra,27
 Merced,52,U.S. House,16,REP,Mel Levey,16
 Merced,52,U.S. House,16,REP,Steve Crass,84
 Merced,53,Attorney General,,REP,David King,1
-Merced,53,Attorney General,,REP,John Haggerty,0
 Merced,53,Attorney General,,LIB,Jonathan Jaech,1
 Merced,53,Attorney General,,DEM,Kamala D. Harris,5
 Merced,53,Attorney General,,IND,Orly Taitz,2
-Merced,53,Attorney General,,REP,Phil Wyman,0
-Merced,53,Attorney General,,REP,Ronald Gold,0
 Merced,53,Board of Equalization,1,DEM,Chris Parker,8
 Merced,53,Board of Equalization,1,REP,George Runner,1
 Merced,53,Controller,,REP,Ashley Swearengin,1
 Merced,53,Controller,,DEM,Betty T. Yee,3
-Merced,53,Controller,,REP,David Evans,0
 Merced,53,Controller,,DEM,John A. Pérez,2
 Merced,53,Controller,,GRN,Laura Wells,1
 Merced,53,Controller,,DEM,Tammy D. Blair,2
-Merced,53,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,53,Governor,,DEM,Akinyemi Agbede,1
-Merced,53,Governor,,REP,Alma Marie Winston,0
 Merced,53,Governor,,REP,Andrew Blount,1
-Merced,53,Governor,,PAF,Cindy L. Sheehan,0
 Merced,53,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
 Merced,53,Governor,,REP,Glenn Champ,1
-Merced,53,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,53,Governor,,IND,Joe Leicht,0
-Merced,53,Governor,,GRN,Luis J. Rodriguez,0
-Merced,53,Governor,,REP,Neel Kashkari,0
-Merced,53,Governor,,IND,Rakesh Kumar Christian,0
-Merced,53,Governor,,REP,Richard William Aguirre,0
-Merced,53,Governor,,IND,Robert Newman,0
-Merced,53,Governor,,REP,Tim Donnelly,0
 Merced,53,Insurance Commissioner,,DEM,Dave Jones,8
 Merced,53,Insurance Commissioner,,PAF,Nathalie Hrizi,1
-Merced,53,Insurance Commissioner,,REP,Ted Gaines,0
 Merced,53,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,53,Lieutenant Governor,,PAF,Amos Johnson,0
-Merced,53,Lieutenant Governor,,REP,David Fennell,0
 Merced,53,Lieutenant Governor,,DEM,Eric Korevaar,3
 Merced,53,Lieutenant Governor,,DEM,Gavin Newsom,5
-Merced,53,Lieutenant Governor,,REP,George Yang,0
-Merced,53,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Merced,53,Lieutenant Governor,,REP,Ron Nehring,0
+Merced,53,Proposition 41,,,No,5
+Merced,53,Proposition 41,,,Yes,3
+Merced,53,Proposition 42,,,No,2
+Merced,53,Proposition 42,,,Yes,7
 Merced,53,Secretary of State,,DEM,Alex Padilla,2
 Merced,53,Secretary of State,,IND,Dan Schnur,1
-Merced,53,Secretary of State,,GRN,David Curtis,0
 Merced,53,Secretary of State,,DEM,Derek Cressman,1
 Merced,53,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Merced,53,Secretary of State,,DEM,Leland Yee,1
-Merced,53,Secretary of State,,REP,Pete Peterson,0
-Merced,53,Secretary of State,,REP,Roy Allmond,0
 Merced,53,State Assembly,21,DEM,Adam Gray,8
 Merced,53,State Senate,12,REP,Anthony Cannella,2
 Merced,53,State Senate,12,DEM,Shawn K. Bagley,7
 Merced,53,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,4
 Merced,53,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
-Merced,53,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
 Merced,53,Treasurer,,GRN,Ellen H. Brown,2
 Merced,53,Treasurer,,REP,Greg Conlon,1
 Merced,53,Treasurer,,DEM,John Chiang,6
 Merced,53,U.S. House,16,DEM,Jim Costa,8
 Merced,53,U.S. House,16,REP,Joanna Garcia-Botelho,1
-Merced,53,U.S. House,16,DEM,Job Melton,0
-Merced,53,U.S. House,16,REP,Johnny Tacherra,0
-Merced,53,U.S. House,16,REP,Mel Levey,0
-Merced,53,U.S. House,16,REP,Steve Crass,0
 Merced,54,Attorney General,,REP,David King,5
 Merced,54,Attorney General,,REP,John Haggerty,9
 Merced,54,Attorney General,,LIB,Jonathan Jaech,3
@@ -4878,20 +4836,14 @@ Merced,54,Controller,,REP,David Evans,15
 Merced,54,Controller,,DEM,John A. Pérez,30
 Merced,54,Controller,,GRN,Laura Wells,8
 Merced,54,Controller,,DEM,Tammy D. Blair,8
-Merced,54,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,54,Governor,,DEM,Akinyemi Agbede,1
-Merced,54,Governor,,REP,Alma Marie Winston,0
 Merced,54,Governor,,REP,Andrew Blount,2
 Merced,54,Governor,,PAF,Cindy L. Sheehan,7
 Merced,54,Governor,,DEM,"Edmund G. ""Jerry"" Brown",52
 Merced,54,Governor,,REP,Glenn Champ,7
-Merced,54,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,54,Governor,,IND,Joe Leicht,0
 Merced,54,Governor,,GRN,Luis J. Rodriguez,3
 Merced,54,Governor,,REP,Neel Kashkari,26
 Merced,54,Governor,,IND,Rakesh Kumar Christian,1
-Merced,54,Governor,,REP,Richard William Aguirre,0
-Merced,54,Governor,,IND,Robert Newman,0
 Merced,54,Governor,,REP,Tim Donnelly,23
 Merced,54,Insurance Commissioner,,DEM,Dave Jones,47
 Merced,54,Insurance Commissioner,,PAF,Nathalie Hrizi,17
@@ -4904,6 +4856,10 @@ Merced,54,Lieutenant Governor,,DEM,Gavin Newsom,45
 Merced,54,Lieutenant Governor,,REP,George Yang,6
 Merced,54,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,54,Lieutenant Governor,,REP,Ron Nehring,27
+Merced,54,Proposition 41,,,No,35
+Merced,54,Proposition 41,,,Yes,86
+Merced,54,Proposition 42,,,No,54
+Merced,54,Proposition 42,,,Yes,64
 Merced,54,Secretary of State,,DEM,Alex Padilla,35
 Merced,54,Secretary of State,,IND,Dan Schnur,4
 Merced,54,Secretary of State,,GRN,David Curtis,6
@@ -4950,7 +4906,6 @@ Merced,55,Governor,,PAF,Cindy L. Sheehan,2
 Merced,55,Governor,,DEM,"Edmund G. ""Jerry"" Brown",52
 Merced,55,Governor,,REP,Glenn Champ,4
 Merced,55,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,55,Governor,,IND,Joe Leicht,0
 Merced,55,Governor,,GRN,Luis J. Rodriguez,2
 Merced,55,Governor,,REP,Neel Kashkari,35
 Merced,55,Governor,,IND,Rakesh Kumar Christian,1
@@ -4968,6 +4923,10 @@ Merced,55,Lieutenant Governor,,DEM,Gavin Newsom,44
 Merced,55,Lieutenant Governor,,REP,George Yang,18
 Merced,55,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,55,Lieutenant Governor,,REP,Ron Nehring,42
+Merced,55,Proposition 41,,,No,43
+Merced,55,Proposition 41,,,Yes,89
+Merced,55,Proposition 42,,,No,49
+Merced,55,Proposition 42,,,Yes,82
 Merced,55,Secretary of State,,DEM,Alex Padilla,21
 Merced,55,Secretary of State,,IND,Dan Schnur,10
 Merced,55,Secretary of State,,GRN,David Curtis,5
@@ -5004,7 +4963,6 @@ Merced,56,Controller,,REP,Ashley Swearengin,92
 Merced,56,Controller,,DEM,Betty T. Yee,25
 Merced,56,Controller,,REP,David Evans,25
 Merced,56,Controller,,DEM,John A. Pérez,34
-Merced,56,Controller,,GRN,Laura Wells,0
 Merced,56,Controller,,DEM,Tammy D. Blair,9
 Merced,56,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Merced,56,Governor,,DEM,Akinyemi Agbede,4
@@ -5013,12 +4971,9 @@ Merced,56,Governor,,REP,Andrew Blount,2
 Merced,56,Governor,,PAF,Cindy L. Sheehan,1
 Merced,56,Governor,,DEM,"Edmund G. ""Jerry"" Brown",79
 Merced,56,Governor,,REP,Glenn Champ,13
-Merced,56,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,56,Governor,,IND,Joe Leicht,0
 Merced,56,Governor,,GRN,Luis J. Rodriguez,3
 Merced,56,Governor,,REP,Neel Kashkari,40
 Merced,56,Governor,,IND,Rakesh Kumar Christian,1
-Merced,56,Governor,,REP,Richard William Aguirre,0
 Merced,56,Governor,,IND,Robert Newman,4
 Merced,56,Governor,,REP,Tim Donnelly,43
 Merced,56,Insurance Commissioner,,DEM,Dave Jones,84
@@ -5032,6 +4987,10 @@ Merced,56,Lieutenant Governor,,DEM,Gavin Newsom,71
 Merced,56,Lieutenant Governor,,REP,George Yang,14
 Merced,56,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,56,Lieutenant Governor,,REP,Ron Nehring,70
+Merced,56,Proposition 41,,,No,67
+Merced,56,Proposition 41,,,Yes,122
+Merced,56,Proposition 42,,,No,93
+Merced,56,Proposition 42,,,Yes,90
 Merced,56,Secretary of State,,DEM,Alex Padilla,39
 Merced,56,Secretary of State,,IND,Dan Schnur,20
 Merced,56,Secretary of State,,GRN,David Curtis,2
@@ -5077,8 +5036,6 @@ Merced,57,Governor,,REP,Andrew Blount,4
 Merced,57,Governor,,PAF,Cindy L. Sheehan,2
 Merced,57,Governor,,DEM,"Edmund G. ""Jerry"" Brown",88
 Merced,57,Governor,,REP,Glenn Champ,18
-Merced,57,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,57,Governor,,IND,Joe Leicht,0
 Merced,57,Governor,,GRN,Luis J. Rodriguez,4
 Merced,57,Governor,,REP,Neel Kashkari,46
 Merced,57,Governor,,IND,Rakesh Kumar Christian,5
@@ -5096,6 +5053,10 @@ Merced,57,Lieutenant Governor,,DEM,Gavin Newsom,88
 Merced,57,Lieutenant Governor,,REP,George Yang,27
 Merced,57,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Merced,57,Lieutenant Governor,,REP,Ron Nehring,82
+Merced,57,Proposition 41,,,No,98
+Merced,57,Proposition 41,,,Yes,155
+Merced,57,Proposition 42,,,No,116
+Merced,57,Proposition 42,,,Yes,128
 Merced,57,Secretary of State,,DEM,Alex Padilla,49
 Merced,57,Secretary of State,,IND,Dan Schnur,15
 Merced,57,Secretary of State,,GRN,David Curtis,4
@@ -5142,8 +5103,6 @@ Merced,58,Governor,,PAF,Cindy L. Sheehan,2
 Merced,58,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Merced,58,Governor,,REP,Glenn Champ,16
 Merced,58,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,58,Governor,,IND,Joe Leicht,0
-Merced,58,Governor,,GRN,Luis J. Rodriguez,0
 Merced,58,Governor,,REP,Neel Kashkari,64
 Merced,58,Governor,,IND,Rakesh Kumar Christian,1
 Merced,58,Governor,,REP,Richard William Aguirre,2
@@ -5160,6 +5119,10 @@ Merced,58,Lieutenant Governor,,DEM,Gavin Newsom,66
 Merced,58,Lieutenant Governor,,REP,George Yang,17
 Merced,58,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,58,Lieutenant Governor,,REP,Ron Nehring,79
+Merced,58,Proposition 41,,,No,77
+Merced,58,Proposition 41,,,Yes,137
+Merced,58,Proposition 42,,,No,112
+Merced,58,Proposition 42,,,Yes,101
 Merced,58,Secretary of State,,DEM,Alex Padilla,36
 Merced,58,Secretary of State,,IND,Dan Schnur,16
 Merced,58,Secretary of State,,GRN,David Curtis,1
@@ -5198,7 +5161,6 @@ Merced,59,Controller,,REP,David Evans,21
 Merced,59,Controller,,DEM,John A. Pérez,48
 Merced,59,Controller,,GRN,Laura Wells,10
 Merced,59,Controller,,DEM,Tammy D. Blair,31
-Merced,59,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,59,Governor,,DEM,Akinyemi Agbede,3
 Merced,59,Governor,,REP,Alma Marie Winston,2
 Merced,59,Governor,,REP,Andrew Blount,2
@@ -5224,6 +5186,10 @@ Merced,59,Lieutenant Governor,,DEM,Gavin Newsom,94
 Merced,59,Lieutenant Governor,,REP,George Yang,19
 Merced,59,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,59,Lieutenant Governor,,REP,Ron Nehring,43
+Merced,59,Proposition 41,,,No,54
+Merced,59,Proposition 41,,,Yes,155
+Merced,59,Proposition 42,,,No,87
+Merced,59,Proposition 42,,,Yes,107
 Merced,59,Secretary of State,,DEM,Alex Padilla,58
 Merced,59,Secretary of State,,IND,Dan Schnur,15
 Merced,59,Secretary of State,,GRN,David Curtis,3
@@ -5262,15 +5228,10 @@ Merced,6,Controller,,REP,David Evans,11
 Merced,6,Controller,,DEM,John A. Pérez,44
 Merced,6,Controller,,GRN,Laura Wells,3
 Merced,6,Controller,,DEM,Tammy D. Blair,16
-Merced,6,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,6,Governor,,DEM,Akinyemi Agbede,1
-Merced,6,Governor,,REP,Alma Marie Winston,0
-Merced,6,Governor,,REP,Andrew Blount,0
 Merced,6,Governor,,PAF,Cindy L. Sheehan,4
 Merced,6,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Merced,6,Governor,,REP,Glenn Champ,2
-Merced,6,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,6,Governor,,IND,Joe Leicht,0
 Merced,6,Governor,,GRN,Luis J. Rodriguez,10
 Merced,6,Governor,,REP,Neel Kashkari,7
 Merced,6,Governor,,IND,Rakesh Kumar Christian,10
@@ -5280,7 +5241,6 @@ Merced,6,Governor,,REP,Tim Donnelly,5
 Merced,6,Insurance Commissioner,,DEM,Dave Jones,73
 Merced,6,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Merced,6,Insurance Commissioner,,REP,Ted Gaines,20
-Merced,6,Lieutenant Governor,,AME,Alan Reynolds,0
 Merced,6,Lieutenant Governor,,PAF,Amos Johnson,7
 Merced,6,Lieutenant Governor,,REP,David Fennell,4
 Merced,6,Lieutenant Governor,,DEM,Eric Korevaar,22
@@ -5288,6 +5248,10 @@ Merced,6,Lieutenant Governor,,DEM,Gavin Newsom,43
 Merced,6,Lieutenant Governor,,REP,George Yang,4
 Merced,6,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,6,Lieutenant Governor,,REP,Ron Nehring,14
+Merced,6,Proposition 41,,,No,47
+Merced,6,Proposition 41,,,Yes,53
+Merced,6,Proposition 42,,,No,36
+Merced,6,Proposition 42,,,Yes,62
 Merced,6,Secretary of State,,DEM,Alex Padilla,49
 Merced,6,Secretary of State,,IND,Dan Schnur,5
 Merced,6,Secretary of State,,GRN,David Curtis,1
@@ -5326,15 +5290,12 @@ Merced,60,Controller,,REP,David Evans,28
 Merced,60,Controller,,DEM,John A. Pérez,14
 Merced,60,Controller,,GRN,Laura Wells,6
 Merced,60,Controller,,DEM,Tammy D. Blair,8
-Merced,60,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,60,Governor,,DEM,Akinyemi Agbede,2
 Merced,60,Governor,,REP,Alma Marie Winston,2
 Merced,60,Governor,,REP,Andrew Blount,4
 Merced,60,Governor,,PAF,Cindy L. Sheehan,7
 Merced,60,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
 Merced,60,Governor,,REP,Glenn Champ,5
-Merced,60,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,60,Governor,,IND,Joe Leicht,0
 Merced,60,Governor,,GRN,Luis J. Rodriguez,4
 Merced,60,Governor,,REP,Neel Kashkari,48
 Merced,60,Governor,,IND,Rakesh Kumar Christian,1
@@ -5352,6 +5313,10 @@ Merced,60,Lieutenant Governor,,DEM,Gavin Newsom,40
 Merced,60,Lieutenant Governor,,REP,George Yang,18
 Merced,60,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,60,Lieutenant Governor,,REP,Ron Nehring,55
+Merced,60,Proposition 41,,,No,63
+Merced,60,Proposition 41,,,Yes,102
+Merced,60,Proposition 42,,,No,73
+Merced,60,Proposition 42,,,Yes,88
 Merced,60,Secretary of State,,DEM,Alex Padilla,26
 Merced,60,Secretary of State,,IND,Dan Schnur,16
 Merced,60,Secretary of State,,GRN,David Curtis,5
@@ -5391,13 +5356,11 @@ Merced,61,Controller,,DEM,John A. Pérez,38
 Merced,61,Controller,,GRN,Laura Wells,5
 Merced,61,Controller,,DEM,Tammy D. Blair,19
 Merced,61,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Merced,61,Governor,,DEM,Akinyemi Agbede,0
 Merced,61,Governor,,REP,Alma Marie Winston,2
 Merced,61,Governor,,REP,Andrew Blount,8
 Merced,61,Governor,,PAF,Cindy L. Sheehan,1
 Merced,61,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Merced,61,Governor,,REP,Glenn Champ,9
-Merced,61,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,61,Governor,,IND,Joe Leicht,1
 Merced,61,Governor,,GRN,Luis J. Rodriguez,4
 Merced,61,Governor,,REP,Neel Kashkari,73
@@ -5416,6 +5379,10 @@ Merced,61,Lieutenant Governor,,DEM,Gavin Newsom,93
 Merced,61,Lieutenant Governor,,REP,George Yang,32
 Merced,61,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,61,Lieutenant Governor,,REP,Ron Nehring,110
+Merced,61,Proposition 41,,,No,144
+Merced,61,Proposition 41,,,Yes,158
+Merced,61,Proposition 42,,,No,162
+Merced,61,Proposition 42,,,Yes,127
 Merced,61,Secretary of State,,DEM,Alex Padilla,44
 Merced,61,Secretary of State,,IND,Dan Schnur,32
 Merced,61,Secretary of State,,GRN,David Curtis,7
@@ -5454,18 +5421,14 @@ Merced,62,Controller,,REP,David Evans,31
 Merced,62,Controller,,DEM,John A. Pérez,30
 Merced,62,Controller,,GRN,Laura Wells,6
 Merced,62,Controller,,DEM,Tammy D. Blair,8
-Merced,62,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,62,Governor,,DEM,Akinyemi Agbede,1
-Merced,62,Governor,,REP,Alma Marie Winston,0
 Merced,62,Governor,,REP,Andrew Blount,1
 Merced,62,Governor,,PAF,Cindy L. Sheehan,4
 Merced,62,Governor,,DEM,"Edmund G. ""Jerry"" Brown",74
 Merced,62,Governor,,REP,Glenn Champ,15
 Merced,62,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,62,Governor,,IND,Joe Leicht,0
 Merced,62,Governor,,GRN,Luis J. Rodriguez,3
 Merced,62,Governor,,REP,Neel Kashkari,67
-Merced,62,Governor,,IND,Rakesh Kumar Christian,0
 Merced,62,Governor,,REP,Richard William Aguirre,1
 Merced,62,Governor,,IND,Robert Newman,2
 Merced,62,Governor,,REP,Tim Donnelly,54
@@ -5480,6 +5443,10 @@ Merced,62,Lieutenant Governor,,DEM,Gavin Newsom,69
 Merced,62,Lieutenant Governor,,REP,George Yang,17
 Merced,62,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,62,Lieutenant Governor,,REP,Ron Nehring,83
+Merced,62,Proposition 41,,,No,95
+Merced,62,Proposition 41,,,Yes,116
+Merced,62,Proposition 42,,,No,108
+Merced,62,Proposition 42,,,Yes,97
 Merced,62,Secretary of State,,DEM,Alex Padilla,37
 Merced,62,Secretary of State,,IND,Dan Schnur,29
 Merced,62,Secretary of State,,GRN,David Curtis,3
@@ -5518,19 +5485,14 @@ Merced,63,Controller,,REP,David Evans,39
 Merced,63,Controller,,DEM,John A. Pérez,48
 Merced,63,Controller,,GRN,Laura Wells,13
 Merced,63,Controller,,DEM,Tammy D. Blair,8
-Merced,63,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,63,Governor,,DEM,Akinyemi Agbede,1
 Merced,63,Governor,,REP,Alma Marie Winston,2
 Merced,63,Governor,,REP,Andrew Blount,8
 Merced,63,Governor,,PAF,Cindy L. Sheehan,5
 Merced,63,Governor,,DEM,"Edmund G. ""Jerry"" Brown",102
 Merced,63,Governor,,REP,Glenn Champ,12
-Merced,63,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,63,Governor,,IND,Joe Leicht,0
 Merced,63,Governor,,GRN,Luis J. Rodriguez,3
 Merced,63,Governor,,REP,Neel Kashkari,64
-Merced,63,Governor,,IND,Rakesh Kumar Christian,0
-Merced,63,Governor,,REP,Richard William Aguirre,0
 Merced,63,Governor,,IND,Robert Newman,6
 Merced,63,Governor,,REP,Tim Donnelly,55
 Merced,63,Insurance Commissioner,,DEM,Dave Jones,108
@@ -5544,6 +5506,10 @@ Merced,63,Lieutenant Governor,,DEM,Gavin Newsom,93
 Merced,63,Lieutenant Governor,,REP,George Yang,25
 Merced,63,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,63,Lieutenant Governor,,REP,Ron Nehring,89
+Merced,63,Proposition 41,,,No,93
+Merced,63,Proposition 41,,,Yes,161
+Merced,63,Proposition 42,,,No,110
+Merced,63,Proposition 42,,,Yes,130
 Merced,63,Secretary of State,,DEM,Alex Padilla,64
 Merced,63,Secretary of State,,IND,Dan Schnur,28
 Merced,63,Secretary of State,,GRN,David Curtis,4
@@ -5583,13 +5549,11 @@ Merced,64,Controller,,DEM,John A. Pérez,39
 Merced,64,Controller,,GRN,Laura Wells,9
 Merced,64,Controller,,DEM,Tammy D. Blair,11
 Merced,64,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Merced,64,Governor,,DEM,Akinyemi Agbede,0
 Merced,64,Governor,,REP,Alma Marie Winston,1
 Merced,64,Governor,,REP,Andrew Blount,3
 Merced,64,Governor,,PAF,Cindy L. Sheehan,3
 Merced,64,Governor,,DEM,"Edmund G. ""Jerry"" Brown",78
 Merced,64,Governor,,REP,Glenn Champ,18
-Merced,64,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,64,Governor,,IND,Joe Leicht,1
 Merced,64,Governor,,GRN,Luis J. Rodriguez,2
 Merced,64,Governor,,REP,Neel Kashkari,50
@@ -5608,6 +5572,10 @@ Merced,64,Lieutenant Governor,,DEM,Gavin Newsom,75
 Merced,64,Lieutenant Governor,,REP,George Yang,21
 Merced,64,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,64,Lieutenant Governor,,REP,Ron Nehring,96
+Merced,64,Proposition 41,,,No,125
+Merced,64,Proposition 41,,,Yes,139
+Merced,64,Proposition 42,,,No,130
+Merced,64,Proposition 42,,,Yes,133
 Merced,64,Secretary of State,,DEM,Alex Padilla,40
 Merced,64,Secretary of State,,IND,Dan Schnur,31
 Merced,64,Secretary of State,,GRN,David Curtis,3
@@ -5654,7 +5622,6 @@ Merced,65,Governor,,PAF,Cindy L. Sheehan,8
 Merced,65,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Merced,65,Governor,,REP,Glenn Champ,16
 Merced,65,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,65,Governor,,IND,Joe Leicht,0
 Merced,65,Governor,,GRN,Luis J. Rodriguez,6
 Merced,65,Governor,,REP,Neel Kashkari,69
 Merced,65,Governor,,IND,Rakesh Kumar Christian,3
@@ -5672,6 +5639,10 @@ Merced,65,Lieutenant Governor,,DEM,Gavin Newsom,101
 Merced,65,Lieutenant Governor,,REP,George Yang,46
 Merced,65,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Merced,65,Lieutenant Governor,,REP,Ron Nehring,89
+Merced,65,Proposition 41,,,No,101
+Merced,65,Proposition 41,,,Yes,201
+Merced,65,Proposition 42,,,No,113
+Merced,65,Proposition 42,,,Yes,180
 Merced,65,Secretary of State,,DEM,Alex Padilla,50
 Merced,65,Secretary of State,,IND,Dan Schnur,35
 Merced,65,Secretary of State,,GRN,David Curtis,9
@@ -5710,15 +5681,12 @@ Merced,66,Controller,,REP,David Evans,24
 Merced,66,Controller,,DEM,John A. Pérez,30
 Merced,66,Controller,,GRN,Laura Wells,12
 Merced,66,Controller,,DEM,Tammy D. Blair,3
-Merced,66,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,66,Governor,,DEM,Akinyemi Agbede,1
 Merced,66,Governor,,REP,Alma Marie Winston,1
 Merced,66,Governor,,REP,Andrew Blount,2
 Merced,66,Governor,,PAF,Cindy L. Sheehan,4
 Merced,66,Governor,,DEM,"Edmund G. ""Jerry"" Brown",62
 Merced,66,Governor,,REP,Glenn Champ,10
-Merced,66,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,66,Governor,,IND,Joe Leicht,0
 Merced,66,Governor,,GRN,Luis J. Rodriguez,5
 Merced,66,Governor,,REP,Neel Kashkari,45
 Merced,66,Governor,,IND,Rakesh Kumar Christian,1
@@ -5736,6 +5704,10 @@ Merced,66,Lieutenant Governor,,DEM,Gavin Newsom,52
 Merced,66,Lieutenant Governor,,REP,George Yang,13
 Merced,66,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,66,Lieutenant Governor,,REP,Ron Nehring,63
+Merced,66,Proposition 41,,,No,69
+Merced,66,Proposition 41,,,Yes,108
+Merced,66,Proposition 42,,,No,76
+Merced,66,Proposition 42,,,Yes,93
 Merced,66,Secretary of State,,DEM,Alex Padilla,45
 Merced,66,Secretary of State,,IND,Dan Schnur,20
 Merced,66,Secretary of State,,GRN,David Curtis,5
@@ -5774,19 +5746,15 @@ Merced,67,Controller,,REP,David Evans,56
 Merced,67,Controller,,DEM,John A. Pérez,27
 Merced,67,Controller,,GRN,Laura Wells,5
 Merced,67,Controller,,DEM,Tammy D. Blair,11
-Merced,67,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,67,Governor,,DEM,Akinyemi Agbede,4
 Merced,67,Governor,,REP,Alma Marie Winston,2
 Merced,67,Governor,,REP,Andrew Blount,7
 Merced,67,Governor,,PAF,Cindy L. Sheehan,2
 Merced,67,Governor,,DEM,"Edmund G. ""Jerry"" Brown",85
 Merced,67,Governor,,REP,Glenn Champ,17
-Merced,67,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,67,Governor,,IND,Joe Leicht,0
 Merced,67,Governor,,GRN,Luis J. Rodriguez,2
 Merced,67,Governor,,REP,Neel Kashkari,120
 Merced,67,Governor,,IND,Rakesh Kumar Christian,2
-Merced,67,Governor,,REP,Richard William Aguirre,0
 Merced,67,Governor,,IND,Robert Newman,5
 Merced,67,Governor,,REP,Tim Donnelly,103
 Merced,67,Insurance Commissioner,,DEM,Dave Jones,86
@@ -5800,6 +5768,10 @@ Merced,67,Lieutenant Governor,,DEM,Gavin Newsom,80
 Merced,67,Lieutenant Governor,,REP,George Yang,57
 Merced,67,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,67,Lieutenant Governor,,REP,Ron Nehring,144
+Merced,67,Proposition 41,,,No,175
+Merced,67,Proposition 41,,,Yes,168
+Merced,67,Proposition 42,,,No,183
+Merced,67,Proposition 42,,,Yes,151
 Merced,67,Secretary of State,,DEM,Alex Padilla,38
 Merced,67,Secretary of State,,IND,Dan Schnur,40
 Merced,67,Secretary of State,,GRN,David Curtis,3
@@ -5845,7 +5817,6 @@ Merced,68,Governor,,REP,Andrew Blount,2
 Merced,68,Governor,,PAF,Cindy L. Sheehan,2
 Merced,68,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 Merced,68,Governor,,REP,Glenn Champ,12
-Merced,68,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,68,Governor,,IND,Joe Leicht,1
 Merced,68,Governor,,GRN,Luis J. Rodriguez,2
 Merced,68,Governor,,REP,Neel Kashkari,77
@@ -5864,6 +5835,10 @@ Merced,68,Lieutenant Governor,,DEM,Gavin Newsom,77
 Merced,68,Lieutenant Governor,,REP,George Yang,30
 Merced,68,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,68,Lieutenant Governor,,REP,Ron Nehring,89
+Merced,68,Proposition 41,,,No,113
+Merced,68,Proposition 41,,,Yes,144
+Merced,68,Proposition 42,,,No,124
+Merced,68,Proposition 42,,,Yes,131
 Merced,68,Secretary of State,,DEM,Alex Padilla,57
 Merced,68,Secretary of State,,IND,Dan Schnur,17
 Merced,68,Secretary of State,,GRN,David Curtis,5
@@ -5883,7 +5858,6 @@ Merced,68,Treasurer,,REP,Greg Conlon,116
 Merced,68,Treasurer,,DEM,John Chiang,105
 Merced,68,U.S. House,16,DEM,Jim Costa,71
 Merced,68,U.S. House,16,REP,Joanna Garcia-Botelho,14
-Merced,68,U.S. House,16,DEM,Job Melton,0
 Merced,68,U.S. House,16,REP,Johnny Tacherra,72
 Merced,68,U.S. House,16,REP,Mel Levey,27
 Merced,68,U.S. House,16,REP,Steve Crass,78
@@ -5902,18 +5876,15 @@ Merced,69,Controller,,REP,David Evans,24
 Merced,69,Controller,,DEM,John A. Pérez,33
 Merced,69,Controller,,GRN,Laura Wells,6
 Merced,69,Controller,,DEM,Tammy D. Blair,14
-Merced,69,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,69,Governor,,DEM,Akinyemi Agbede,9
 Merced,69,Governor,,REP,Alma Marie Winston,2
 Merced,69,Governor,,REP,Andrew Blount,3
 Merced,69,Governor,,PAF,Cindy L. Sheehan,5
 Merced,69,Governor,,DEM,"Edmund G. ""Jerry"" Brown",58
 Merced,69,Governor,,REP,Glenn Champ,4
-Merced,69,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,69,Governor,,IND,Joe Leicht,1
 Merced,69,Governor,,GRN,Luis J. Rodriguez,7
 Merced,69,Governor,,REP,Neel Kashkari,36
-Merced,69,Governor,,IND,Rakesh Kumar Christian,0
 Merced,69,Governor,,REP,Richard William Aguirre,3
 Merced,69,Governor,,IND,Robert Newman,8
 Merced,69,Governor,,REP,Tim Donnelly,34
@@ -5928,6 +5899,10 @@ Merced,69,Lieutenant Governor,,DEM,Gavin Newsom,67
 Merced,69,Lieutenant Governor,,REP,George Yang,18
 Merced,69,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Merced,69,Lieutenant Governor,,REP,Ron Nehring,46
+Merced,69,Proposition 41,,,No,78
+Merced,69,Proposition 41,,,Yes,88
+Merced,69,Proposition 42,,,No,65
+Merced,69,Proposition 42,,,Yes,97
 Merced,69,Secretary of State,,DEM,Alex Padilla,43
 Merced,69,Secretary of State,,IND,Dan Schnur,14
 Merced,69,Secretary of State,,GRN,David Curtis,8
@@ -5966,32 +5941,28 @@ Merced,7,Controller,,REP,David Evans,10
 Merced,7,Controller,,DEM,John A. Pérez,57
 Merced,7,Controller,,GRN,Laura Wells,4
 Merced,7,Controller,,DEM,Tammy D. Blair,9
-Merced,7,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,7,Governor,,DEM,Akinyemi Agbede,1
-Merced,7,Governor,,REP,Alma Marie Winston,0
-Merced,7,Governor,,REP,Andrew Blount,0
 Merced,7,Governor,,PAF,Cindy L. Sheehan,3
 Merced,7,Governor,,DEM,"Edmund G. ""Jerry"" Brown",77
 Merced,7,Governor,,REP,Glenn Champ,2
-Merced,7,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,7,Governor,,IND,Joe Leicht,0
 Merced,7,Governor,,GRN,Luis J. Rodriguez,5
 Merced,7,Governor,,REP,Neel Kashkari,27
 Merced,7,Governor,,IND,Rakesh Kumar Christian,3
-Merced,7,Governor,,REP,Richard William Aguirre,0
 Merced,7,Governor,,IND,Robert Newman,1
 Merced,7,Governor,,REP,Tim Donnelly,13
 Merced,7,Insurance Commissioner,,DEM,Dave Jones,89
 Merced,7,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Merced,7,Insurance Commissioner,,REP,Ted Gaines,34
-Merced,7,Lieutenant Governor,,AME,Alan Reynolds,0
-Merced,7,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,7,Lieutenant Governor,,REP,David Fennell,12
 Merced,7,Lieutenant Governor,,DEM,Eric Korevaar,17
 Merced,7,Lieutenant Governor,,DEM,Gavin Newsom,68
 Merced,7,Lieutenant Governor,,REP,George Yang,6
 Merced,7,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,7,Lieutenant Governor,,REP,Ron Nehring,17
+Merced,7,Proposition 41,,,No,50
+Merced,7,Proposition 41,,,Yes,79
+Merced,7,Proposition 42,,,No,52
+Merced,7,Proposition 42,,,Yes,77
 Merced,7,Secretary of State,,DEM,Alex Padilla,54
 Merced,7,Secretary of State,,IND,Dan Schnur,10
 Merced,7,Secretary of State,,GRN,David Curtis,4
@@ -6013,7 +5984,6 @@ Merced,7,U.S. House,16,DEM,Jim Costa,89
 Merced,7,U.S. House,16,REP,Joanna Garcia-Botelho,1
 Merced,7,U.S. House,16,DEM,Job Melton,4
 Merced,7,U.S. House,16,REP,Johnny Tacherra,23
-Merced,7,U.S. House,16,REP,Mel Levey,0
 Merced,7,U.S. House,16,REP,Steve Crass,17
 Merced,70,Attorney General,,REP,David King,10
 Merced,70,Attorney General,,REP,John Haggerty,9
@@ -6037,11 +6007,9 @@ Merced,70,Governor,,REP,Andrew Blount,1
 Merced,70,Governor,,PAF,Cindy L. Sheehan,2
 Merced,70,Governor,,DEM,"Edmund G. ""Jerry"" Brown",65
 Merced,70,Governor,,REP,Glenn Champ,6
-Merced,70,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,70,Governor,,IND,Joe Leicht,1
 Merced,70,Governor,,GRN,Luis J. Rodriguez,7
 Merced,70,Governor,,REP,Neel Kashkari,16
-Merced,70,Governor,,IND,Rakesh Kumar Christian,0
 Merced,70,Governor,,REP,Richard William Aguirre,4
 Merced,70,Governor,,IND,Robert Newman,7
 Merced,70,Governor,,REP,Tim Donnelly,26
@@ -6056,6 +6024,10 @@ Merced,70,Lieutenant Governor,,DEM,Gavin Newsom,55
 Merced,70,Lieutenant Governor,,REP,George Yang,18
 Merced,70,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,70,Lieutenant Governor,,REP,Ron Nehring,20
+Merced,70,Proposition 41,,,No,50
+Merced,70,Proposition 41,,,Yes,91
+Merced,70,Proposition 42,,,No,64
+Merced,70,Proposition 42,,,Yes,76
 Merced,70,Secretary of State,,DEM,Alex Padilla,32
 Merced,70,Secretary of State,,IND,Dan Schnur,7
 Merced,70,Secretary of State,,GRN,David Curtis,4
@@ -6094,14 +6066,11 @@ Merced,71,Controller,,REP,David Evans,51
 Merced,71,Controller,,DEM,John A. Pérez,31
 Merced,71,Controller,,GRN,Laura Wells,6
 Merced,71,Controller,,DEM,Tammy D. Blair,10
-Merced,71,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,71,Governor,,DEM,Akinyemi Agbede,1
-Merced,71,Governor,,REP,Alma Marie Winston,0
 Merced,71,Governor,,REP,Andrew Blount,4
 Merced,71,Governor,,PAF,Cindy L. Sheehan,2
 Merced,71,Governor,,DEM,"Edmund G. ""Jerry"" Brown",96
 Merced,71,Governor,,REP,Glenn Champ,14
-Merced,71,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,71,Governor,,IND,Joe Leicht,1
 Merced,71,Governor,,GRN,Luis J. Rodriguez,5
 Merced,71,Governor,,REP,Neel Kashkari,85
@@ -6120,6 +6089,10 @@ Merced,71,Lieutenant Governor,,DEM,Gavin Newsom,88
 Merced,71,Lieutenant Governor,,REP,George Yang,41
 Merced,71,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,71,Lieutenant Governor,,REP,Ron Nehring,110
+Merced,71,Proposition 41,,,No,161
+Merced,71,Proposition 41,,,Yes,143
+Merced,71,Proposition 42,,,No,171
+Merced,71,Proposition 42,,,Yes,121
 Merced,71,Secretary of State,,DEM,Alex Padilla,51
 Merced,71,Secretary of State,,IND,Dan Schnur,36
 Merced,71,Secretary of State,,GRN,David Curtis,6
@@ -6162,11 +6135,8 @@ Merced,72,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Merced,72,Governor,,DEM,Akinyemi Agbede,3
 Merced,72,Governor,,REP,Alma Marie Winston,3
 Merced,72,Governor,,REP,Andrew Blount,3
-Merced,72,Governor,,PAF,Cindy L. Sheehan,0
 Merced,72,Governor,,DEM,"Edmund G. ""Jerry"" Brown",95
 Merced,72,Governor,,REP,Glenn Champ,14
-Merced,72,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,72,Governor,,IND,Joe Leicht,0
 Merced,72,Governor,,GRN,Luis J. Rodriguez,5
 Merced,72,Governor,,REP,Neel Kashkari,80
 Merced,72,Governor,,IND,Rakesh Kumar Christian,1
@@ -6184,6 +6154,10 @@ Merced,72,Lieutenant Governor,,DEM,Gavin Newsom,76
 Merced,72,Lieutenant Governor,,REP,George Yang,41
 Merced,72,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,72,Lieutenant Governor,,REP,Ron Nehring,127
+Merced,72,Proposition 41,,,No,171
+Merced,72,Proposition 41,,,Yes,158
+Merced,72,Proposition 42,,,No,174
+Merced,72,Proposition 42,,,Yes,134
 Merced,72,Secretary of State,,DEM,Alex Padilla,45
 Merced,72,Secretary of State,,IND,Dan Schnur,50
 Merced,72,Secretary of State,,GRN,David Curtis,4
@@ -6222,19 +6196,15 @@ Merced,73,Controller,,REP,David Evans,22
 Merced,73,Controller,,DEM,John A. Pérez,24
 Merced,73,Controller,,GRN,Laura Wells,11
 Merced,73,Controller,,DEM,Tammy D. Blair,16
-Merced,73,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,73,Governor,,DEM,Akinyemi Agbede,7
 Merced,73,Governor,,REP,Alma Marie Winston,4
 Merced,73,Governor,,REP,Andrew Blount,4
 Merced,73,Governor,,PAF,Cindy L. Sheehan,4
 Merced,73,Governor,,DEM,"Edmund G. ""Jerry"" Brown",66
 Merced,73,Governor,,REP,Glenn Champ,5
-Merced,73,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,73,Governor,,IND,Joe Leicht,0
 Merced,73,Governor,,GRN,Luis J. Rodriguez,3
 Merced,73,Governor,,REP,Neel Kashkari,14
 Merced,73,Governor,,IND,Rakesh Kumar Christian,2
-Merced,73,Governor,,REP,Richard William Aguirre,0
 Merced,73,Governor,,IND,Robert Newman,1
 Merced,73,Governor,,REP,Tim Donnelly,16
 Merced,73,Insurance Commissioner,,DEM,Dave Jones,73
@@ -6248,6 +6218,10 @@ Merced,73,Lieutenant Governor,,DEM,Gavin Newsom,52
 Merced,73,Lieutenant Governor,,REP,George Yang,13
 Merced,73,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Merced,73,Lieutenant Governor,,REP,Ron Nehring,17
+Merced,73,Proposition 41,,,No,31
+Merced,73,Proposition 41,,,Yes,92
+Merced,73,Proposition 42,,,No,43
+Merced,73,Proposition 42,,,Yes,79
 Merced,73,Secretary of State,,DEM,Alex Padilla,38
 Merced,73,Secretary of State,,IND,Dan Schnur,3
 Merced,73,Secretary of State,,GRN,David Curtis,6
@@ -6297,7 +6271,6 @@ Merced,74,Governor,,IND,Janel Hyeshia Buycks,3
 Merced,74,Governor,,IND,Joe Leicht,2
 Merced,74,Governor,,GRN,Luis J. Rodriguez,11
 Merced,74,Governor,,REP,Neel Kashkari,51
-Merced,74,Governor,,IND,Rakesh Kumar Christian,0
 Merced,74,Governor,,REP,Richard William Aguirre,1
 Merced,74,Governor,,IND,Robert Newman,3
 Merced,74,Governor,,REP,Tim Donnelly,51
@@ -6312,6 +6285,10 @@ Merced,74,Lieutenant Governor,,DEM,Gavin Newsom,124
 Merced,74,Lieutenant Governor,,REP,George Yang,39
 Merced,74,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Merced,74,Lieutenant Governor,,REP,Ron Nehring,61
+Merced,74,Proposition 41,,,No,101
+Merced,74,Proposition 41,,,Yes,190
+Merced,74,Proposition 42,,,No,129
+Merced,74,Proposition 42,,,Yes,155
 Merced,74,Secretary of State,,DEM,Alex Padilla,66
 Merced,74,Secretary of State,,IND,Dan Schnur,13
 Merced,74,Secretary of State,,GRN,David Curtis,10
@@ -6358,10 +6335,8 @@ Merced,75,Governor,,PAF,Cindy L. Sheehan,2
 Merced,75,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Merced,75,Governor,,REP,Glenn Champ,2
 Merced,75,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,75,Governor,,IND,Joe Leicht,0
 Merced,75,Governor,,GRN,Luis J. Rodriguez,1
 Merced,75,Governor,,REP,Neel Kashkari,26
-Merced,75,Governor,,IND,Rakesh Kumar Christian,0
 Merced,75,Governor,,REP,Richard William Aguirre,1
 Merced,75,Governor,,IND,Robert Newman,4
 Merced,75,Governor,,REP,Tim Donnelly,34
@@ -6376,6 +6351,10 @@ Merced,75,Lieutenant Governor,,DEM,Gavin Newsom,63
 Merced,75,Lieutenant Governor,,REP,George Yang,22
 Merced,75,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,75,Lieutenant Governor,,REP,Ron Nehring,38
+Merced,75,Proposition 41,,,No,68
+Merced,75,Proposition 41,,,Yes,92
+Merced,75,Proposition 42,,,No,67
+Merced,75,Proposition 42,,,Yes,87
 Merced,75,Secretary of State,,DEM,Alex Padilla,31
 Merced,75,Secretary of State,,IND,Dan Schnur,6
 Merced,75,Secretary of State,,GRN,David Curtis,2
@@ -6414,15 +6393,12 @@ Merced,76,Controller,,REP,David Evans,20
 Merced,76,Controller,,DEM,John A. Pérez,33
 Merced,76,Controller,,GRN,Laura Wells,8
 Merced,76,Controller,,DEM,Tammy D. Blair,7
-Merced,76,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,76,Governor,,DEM,Akinyemi Agbede,4
-Merced,76,Governor,,REP,Alma Marie Winston,0
 Merced,76,Governor,,REP,Andrew Blount,3
 Merced,76,Governor,,PAF,Cindy L. Sheehan,4
 Merced,76,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Merced,76,Governor,,REP,Glenn Champ,9
 Merced,76,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,76,Governor,,IND,Joe Leicht,0
 Merced,76,Governor,,GRN,Luis J. Rodriguez,4
 Merced,76,Governor,,REP,Neel Kashkari,24
 Merced,76,Governor,,IND,Rakesh Kumar Christian,2
@@ -6440,6 +6416,10 @@ Merced,76,Lieutenant Governor,,DEM,Gavin Newsom,74
 Merced,76,Lieutenant Governor,,REP,George Yang,26
 Merced,76,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,76,Lieutenant Governor,,REP,Ron Nehring,32
+Merced,76,Proposition 41,,,No,68
+Merced,76,Proposition 41,,,Yes,101
+Merced,76,Proposition 42,,,No,75
+Merced,76,Proposition 42,,,Yes,91
 Merced,76,Secretary of State,,DEM,Alex Padilla,54
 Merced,76,Secretary of State,,IND,Dan Schnur,5
 Merced,76,Secretary of State,,GRN,David Curtis,3
@@ -6479,19 +6459,12 @@ Merced,77,Controller,,DEM,John A. Pérez,11
 Merced,77,Controller,,GRN,Laura Wells,3
 Merced,77,Controller,,DEM,Tammy D. Blair,4
 Merced,77,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Merced,77,Governor,,DEM,Akinyemi Agbede,0
 Merced,77,Governor,,REP,Alma Marie Winston,1
-Merced,77,Governor,,REP,Andrew Blount,0
-Merced,77,Governor,,PAF,Cindy L. Sheehan,0
 Merced,77,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
 Merced,77,Governor,,REP,Glenn Champ,6
-Merced,77,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,77,Governor,,IND,Joe Leicht,0
 Merced,77,Governor,,GRN,Luis J. Rodriguez,1
 Merced,77,Governor,,REP,Neel Kashkari,39
 Merced,77,Governor,,IND,Rakesh Kumar Christian,1
-Merced,77,Governor,,REP,Richard William Aguirre,0
-Merced,77,Governor,,IND,Robert Newman,0
 Merced,77,Governor,,REP,Tim Donnelly,31
 Merced,77,Insurance Commissioner,,DEM,Dave Jones,32
 Merced,77,Insurance Commissioner,,PAF,Nathalie Hrizi,4
@@ -6502,12 +6475,13 @@ Merced,77,Lieutenant Governor,,REP,David Fennell,11
 Merced,77,Lieutenant Governor,,DEM,Eric Korevaar,2
 Merced,77,Lieutenant Governor,,DEM,Gavin Newsom,24
 Merced,77,Lieutenant Governor,,REP,George Yang,20
-Merced,77,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Merced,77,Lieutenant Governor,,REP,Ron Nehring,46
+Merced,77,Proposition 41,,,No,51
+Merced,77,Proposition 41,,,Yes,56
+Merced,77,Proposition 42,,,No,54
+Merced,77,Proposition 42,,,Yes,45
 Merced,77,Secretary of State,,DEM,Alex Padilla,11
 Merced,77,Secretary of State,,IND,Dan Schnur,14
-Merced,77,Secretary of State,,GRN,David Curtis,0
-Merced,77,Secretary of State,,DEM,Derek Cressman,0
 Merced,77,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Merced,77,Secretary of State,,DEM,Leland Yee,12
 Merced,77,Secretary of State,,REP,Pete Peterson,58
@@ -6542,18 +6516,13 @@ Merced,78,Controller,,REP,David Evans,41
 Merced,78,Controller,,DEM,John A. Pérez,14
 Merced,78,Controller,,GRN,Laura Wells,6
 Merced,78,Controller,,DEM,Tammy D. Blair,6
-Merced,78,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,78,Governor,,DEM,Akinyemi Agbede,2
 Merced,78,Governor,,REP,Alma Marie Winston,1
 Merced,78,Governor,,REP,Andrew Blount,7
-Merced,78,Governor,,PAF,Cindy L. Sheehan,0
 Merced,78,Governor,,DEM,"Edmund G. ""Jerry"" Brown",51
 Merced,78,Governor,,REP,Glenn Champ,9
-Merced,78,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,78,Governor,,IND,Joe Leicht,0
 Merced,78,Governor,,GRN,Luis J. Rodriguez,1
 Merced,78,Governor,,REP,Neel Kashkari,45
-Merced,78,Governor,,IND,Rakesh Kumar Christian,0
 Merced,78,Governor,,REP,Richard William Aguirre,1
 Merced,78,Governor,,IND,Robert Newman,2
 Merced,78,Governor,,REP,Tim Donnelly,48
@@ -6561,17 +6530,19 @@ Merced,78,Insurance Commissioner,,DEM,Dave Jones,49
 Merced,78,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Merced,78,Insurance Commissioner,,REP,Ted Gaines,112
 Merced,78,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,78,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,78,Lieutenant Governor,,REP,David Fennell,15
 Merced,78,Lieutenant Governor,,DEM,Eric Korevaar,6
 Merced,78,Lieutenant Governor,,DEM,Gavin Newsom,41
 Merced,78,Lieutenant Governor,,REP,George Yang,24
 Merced,78,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,78,Lieutenant Governor,,REP,Ron Nehring,66
+Merced,78,Proposition 41,,,No,70
+Merced,78,Proposition 41,,,Yes,85
+Merced,78,Proposition 42,,,No,82
+Merced,78,Proposition 42,,,Yes,69
 Merced,78,Secretary of State,,DEM,Alex Padilla,22
 Merced,78,Secretary of State,,IND,Dan Schnur,21
 Merced,78,Secretary of State,,GRN,David Curtis,3
-Merced,78,Secretary of State,,DEM,Derek Cressman,0
 Merced,78,Secretary of State,,DEM,Jeffrey H. Drobman,6
 Merced,78,Secretary of State,,DEM,Leland Yee,14
 Merced,78,Secretary of State,,REP,Pete Peterson,76
@@ -6606,14 +6577,12 @@ Merced,79,Controller,,REP,David Evans,53
 Merced,79,Controller,,DEM,John A. Pérez,41
 Merced,79,Controller,,GRN,Laura Wells,4
 Merced,79,Controller,,DEM,Tammy D. Blair,11
-Merced,79,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,79,Governor,,DEM,Akinyemi Agbede,2
 Merced,79,Governor,,REP,Alma Marie Winston,2
 Merced,79,Governor,,REP,Andrew Blount,4
 Merced,79,Governor,,PAF,Cindy L. Sheehan,1
 Merced,79,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Merced,79,Governor,,REP,Glenn Champ,18
-Merced,79,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,79,Governor,,IND,Joe Leicht,1
 Merced,79,Governor,,GRN,Luis J. Rodriguez,3
 Merced,79,Governor,,REP,Neel Kashkari,76
@@ -6632,6 +6601,10 @@ Merced,79,Lieutenant Governor,,DEM,Gavin Newsom,82
 Merced,79,Lieutenant Governor,,REP,George Yang,46
 Merced,79,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,79,Lieutenant Governor,,REP,Ron Nehring,121
+Merced,79,Proposition 41,,,No,155
+Merced,79,Proposition 41,,,Yes,176
+Merced,79,Proposition 42,,,No,165
+Merced,79,Proposition 42,,,Yes,159
 Merced,79,Secretary of State,,DEM,Alex Padilla,54
 Merced,79,Secretary of State,,IND,Dan Schnur,28
 Merced,79,Secretary of State,,GRN,David Curtis,3
@@ -6671,14 +6644,11 @@ Merced,8,Controller,,DEM,John A. Pérez,42
 Merced,8,Controller,,GRN,Laura Wells,6
 Merced,8,Controller,,DEM,Tammy D. Blair,7
 Merced,8,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Merced,8,Governor,,DEM,Akinyemi Agbede,0
 Merced,8,Governor,,REP,Alma Marie Winston,5
 Merced,8,Governor,,REP,Andrew Blount,1
 Merced,8,Governor,,PAF,Cindy L. Sheehan,1
 Merced,8,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Merced,8,Governor,,REP,Glenn Champ,2
-Merced,8,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,8,Governor,,IND,Joe Leicht,0
 Merced,8,Governor,,GRN,Luis J. Rodriguez,2
 Merced,8,Governor,,REP,Neel Kashkari,7
 Merced,8,Governor,,IND,Rakesh Kumar Christian,1
@@ -6689,13 +6659,16 @@ Merced,8,Insurance Commissioner,,DEM,Dave Jones,64
 Merced,8,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Merced,8,Insurance Commissioner,,REP,Ted Gaines,12
 Merced,8,Lieutenant Governor,,AME,Alan Reynolds,2
-Merced,8,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,8,Lieutenant Governor,,REP,David Fennell,5
 Merced,8,Lieutenant Governor,,DEM,Eric Korevaar,12
 Merced,8,Lieutenant Governor,,DEM,Gavin Newsom,48
 Merced,8,Lieutenant Governor,,REP,George Yang,7
 Merced,8,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,8,Lieutenant Governor,,REP,Ron Nehring,6
+Merced,8,Proposition 41,,,No,16
+Merced,8,Proposition 41,,,Yes,67
+Merced,8,Proposition 42,,,No,34
+Merced,8,Proposition 42,,,Yes,50
 Merced,8,Secretary of State,,DEM,Alex Padilla,43
 Merced,8,Secretary of State,,IND,Dan Schnur,6
 Merced,8,Secretary of State,,GRN,David Curtis,3
@@ -6721,7 +6694,6 @@ Merced,8,U.S. House,16,REP,Mel Levey,5
 Merced,8,U.S. House,16,REP,Steve Crass,4
 Merced,80,Attorney General,,REP,David King,5
 Merced,80,Attorney General,,REP,John Haggerty,6
-Merced,80,Attorney General,,LIB,Jonathan Jaech,0
 Merced,80,Attorney General,,DEM,Kamala D. Harris,13
 Merced,80,Attorney General,,IND,Orly Taitz,1
 Merced,80,Attorney General,,REP,Phil Wyman,22
@@ -6734,32 +6706,27 @@ Merced,80,Controller,,REP,David Evans,22
 Merced,80,Controller,,DEM,John A. Pérez,6
 Merced,80,Controller,,GRN,Laura Wells,1
 Merced,80,Controller,,DEM,Tammy D. Blair,3
-Merced,80,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,80,Governor,,DEM,Akinyemi Agbede,0
-Merced,80,Governor,,REP,Alma Marie Winston,0
-Merced,80,Governor,,REP,Andrew Blount,0
 Merced,80,Governor,,PAF,Cindy L. Sheehan,1
 Merced,80,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
 Merced,80,Governor,,REP,Glenn Champ,3
-Merced,80,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,80,Governor,,IND,Joe Leicht,0
 Merced,80,Governor,,GRN,Luis J. Rodriguez,1
 Merced,80,Governor,,REP,Neel Kashkari,20
-Merced,80,Governor,,IND,Rakesh Kumar Christian,0
 Merced,80,Governor,,REP,Richard William Aguirre,1
-Merced,80,Governor,,IND,Robert Newman,0
 Merced,80,Governor,,REP,Tim Donnelly,29
 Merced,80,Insurance Commissioner,,DEM,Dave Jones,12
 Merced,80,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Merced,80,Insurance Commissioner,,REP,Ted Gaines,57
 Merced,80,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,80,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,80,Lieutenant Governor,,REP,David Fennell,3
 Merced,80,Lieutenant Governor,,DEM,Eric Korevaar,2
 Merced,80,Lieutenant Governor,,DEM,Gavin Newsom,13
 Merced,80,Lieutenant Governor,,REP,George Yang,17
 Merced,80,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,80,Lieutenant Governor,,REP,Ron Nehring,32
+Merced,80,Proposition 41,,,No,38
+Merced,80,Proposition 41,,,Yes,33
+Merced,80,Proposition 42,,,No,37
+Merced,80,Proposition 42,,,Yes,31
 Merced,80,Secretary of State,,DEM,Alex Padilla,6
 Merced,80,Secretary of State,,IND,Dan Schnur,8
 Merced,80,Secretary of State,,GRN,David Curtis,1
@@ -6774,7 +6741,6 @@ Merced,80,State Senate,12,DEM,Shawn K. Bagley,8
 Merced,80,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,15
 Merced,80,Superintendent of Public Instruction,,NOP,Marshall Tuck,17
 Merced,80,Superintendent of Public Instruction,,NOP,Tom Torlakson,30
-Merced,80,Treasurer,,GRN,Ellen H. Brown,0
 Merced,80,Treasurer,,REP,Greg Conlon,49
 Merced,80,Treasurer,,DEM,John Chiang,17
 Merced,80,U.S. House,16,DEM,Jim Costa,9
@@ -6802,15 +6768,12 @@ Merced,81,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,81,Governor,,DEM,Akinyemi Agbede,2
 Merced,81,Governor,,REP,Alma Marie Winston,1
 Merced,81,Governor,,REP,Andrew Blount,1
-Merced,81,Governor,,PAF,Cindy L. Sheehan,0
 Merced,81,Governor,,DEM,"Edmund G. ""Jerry"" Brown",46
 Merced,81,Governor,,REP,Glenn Champ,9
 Merced,81,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,81,Governor,,IND,Joe Leicht,0
 Merced,81,Governor,,GRN,Luis J. Rodriguez,2
 Merced,81,Governor,,REP,Neel Kashkari,35
 Merced,81,Governor,,IND,Rakesh Kumar Christian,2
-Merced,81,Governor,,REP,Richard William Aguirre,0
 Merced,81,Governor,,IND,Robert Newman,5
 Merced,81,Governor,,REP,Tim Donnelly,32
 Merced,81,Insurance Commissioner,,DEM,Dave Jones,56
@@ -6824,6 +6787,10 @@ Merced,81,Lieutenant Governor,,DEM,Gavin Newsom,41
 Merced,81,Lieutenant Governor,,REP,George Yang,20
 Merced,81,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,81,Lieutenant Governor,,REP,Ron Nehring,35
+Merced,81,Proposition 41,,,No,50
+Merced,81,Proposition 41,,,Yes,76
+Merced,81,Proposition 42,,,No,57
+Merced,81,Proposition 42,,,Yes,66
 Merced,81,Secretary of State,,DEM,Alex Padilla,20
 Merced,81,Secretary of State,,IND,Dan Schnur,22
 Merced,81,Secretary of State,,GRN,David Curtis,2
@@ -6862,18 +6829,12 @@ Merced,82,Controller,,REP,David Evans,13
 Merced,82,Controller,,DEM,John A. Pérez,24
 Merced,82,Controller,,GRN,Laura Wells,2
 Merced,82,Controller,,DEM,Tammy D. Blair,10
-Merced,82,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,82,Governor,,DEM,Akinyemi Agbede,1
-Merced,82,Governor,,REP,Alma Marie Winston,0
 Merced,82,Governor,,REP,Andrew Blount,1
-Merced,82,Governor,,PAF,Cindy L. Sheehan,0
 Merced,82,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 Merced,82,Governor,,REP,Glenn Champ,1
 Merced,82,Governor,,IND,Janel Hyeshia Buycks,1
-Merced,82,Governor,,IND,Joe Leicht,0
-Merced,82,Governor,,GRN,Luis J. Rodriguez,0
 Merced,82,Governor,,REP,Neel Kashkari,10
-Merced,82,Governor,,IND,Rakesh Kumar Christian,0
 Merced,82,Governor,,REP,Richard William Aguirre,1
 Merced,82,Governor,,IND,Robert Newman,3
 Merced,82,Governor,,REP,Tim Donnelly,15
@@ -6881,13 +6842,16 @@ Merced,82,Insurance Commissioner,,DEM,Dave Jones,41
 Merced,82,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Merced,82,Insurance Commissioner,,REP,Ted Gaines,28
 Merced,82,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,82,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,82,Lieutenant Governor,,REP,David Fennell,2
 Merced,82,Lieutenant Governor,,DEM,Eric Korevaar,11
 Merced,82,Lieutenant Governor,,DEM,Gavin Newsom,32
 Merced,82,Lieutenant Governor,,REP,George Yang,5
 Merced,82,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,82,Lieutenant Governor,,REP,Ron Nehring,19
+Merced,82,Proposition 41,,,No,32
+Merced,82,Proposition 41,,,Yes,42
+Merced,82,Proposition 42,,,No,27
+Merced,82,Proposition 42,,,Yes,47
 Merced,82,Secretary of State,,DEM,Alex Padilla,26
 Merced,82,Secretary of State,,IND,Dan Schnur,4
 Merced,82,Secretary of State,,GRN,David Curtis,2
@@ -6926,19 +6890,14 @@ Merced,83,Controller,,REP,David Evans,15
 Merced,83,Controller,,DEM,John A. Pérez,40
 Merced,83,Controller,,GRN,Laura Wells,7
 Merced,83,Controller,,DEM,Tammy D. Blair,8
-Merced,83,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,83,Governor,,DEM,Akinyemi Agbede,4
 Merced,83,Governor,,REP,Alma Marie Winston,3
-Merced,83,Governor,,REP,Andrew Blount,0
 Merced,83,Governor,,PAF,Cindy L. Sheehan,1
 Merced,83,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
 Merced,83,Governor,,REP,Glenn Champ,4
-Merced,83,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,83,Governor,,IND,Joe Leicht,0
 Merced,83,Governor,,GRN,Luis J. Rodriguez,3
 Merced,83,Governor,,REP,Neel Kashkari,13
 Merced,83,Governor,,IND,Rakesh Kumar Christian,3
-Merced,83,Governor,,REP,Richard William Aguirre,0
 Merced,83,Governor,,IND,Robert Newman,1
 Merced,83,Governor,,REP,Tim Donnelly,20
 Merced,83,Insurance Commissioner,,DEM,Dave Jones,55
@@ -6952,6 +6911,10 @@ Merced,83,Lieutenant Governor,,DEM,Gavin Newsom,48
 Merced,83,Lieutenant Governor,,REP,George Yang,13
 Merced,83,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,83,Lieutenant Governor,,REP,Ron Nehring,14
+Merced,83,Proposition 41,,,No,39
+Merced,83,Proposition 41,,,Yes,63
+Merced,83,Proposition 42,,,No,38
+Merced,83,Proposition 42,,,Yes,62
 Merced,83,Secretary of State,,DEM,Alex Padilla,41
 Merced,83,Secretary of State,,IND,Dan Schnur,7
 Merced,83,Secretary of State,,GRN,David Curtis,5
@@ -6990,19 +6953,15 @@ Merced,84,Controller,,REP,David Evans,25
 Merced,84,Controller,,DEM,John A. Pérez,21
 Merced,84,Controller,,GRN,Laura Wells,9
 Merced,84,Controller,,DEM,Tammy D. Blair,5
-Merced,84,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,84,Governor,,DEM,Akinyemi Agbede,2
 Merced,84,Governor,,REP,Alma Marie Winston,1
 Merced,84,Governor,,REP,Andrew Blount,3
 Merced,84,Governor,,PAF,Cindy L. Sheehan,1
 Merced,84,Governor,,DEM,"Edmund G. ""Jerry"" Brown",35
 Merced,84,Governor,,REP,Glenn Champ,7
-Merced,84,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,84,Governor,,IND,Joe Leicht,0
 Merced,84,Governor,,GRN,Luis J. Rodriguez,2
 Merced,84,Governor,,REP,Neel Kashkari,21
 Merced,84,Governor,,IND,Rakesh Kumar Christian,1
-Merced,84,Governor,,REP,Richard William Aguirre,0
 Merced,84,Governor,,IND,Robert Newman,2
 Merced,84,Governor,,REP,Tim Donnelly,33
 Merced,84,Insurance Commissioner,,DEM,Dave Jones,42
@@ -7016,6 +6975,10 @@ Merced,84,Lieutenant Governor,,DEM,Gavin Newsom,32
 Merced,84,Lieutenant Governor,,REP,George Yang,10
 Merced,84,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,84,Lieutenant Governor,,REP,Ron Nehring,38
+Merced,84,Proposition 41,,,No,38
+Merced,84,Proposition 41,,,Yes,70
+Merced,84,Proposition 42,,,No,43
+Merced,84,Proposition 42,,,Yes,61
 Merced,84,Secretary of State,,DEM,Alex Padilla,16
 Merced,84,Secretary of State,,IND,Dan Schnur,8
 Merced,84,Secretary of State,,GRN,David Curtis,3
@@ -7054,32 +7017,27 @@ Merced,85,Controller,,REP,David Evans,19
 Merced,85,Controller,,DEM,John A. Pérez,14
 Merced,85,Controller,,GRN,Laura Wells,1
 Merced,85,Controller,,DEM,Tammy D. Blair,3
-Merced,85,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,85,Governor,,DEM,Akinyemi Agbede,0
-Merced,85,Governor,,REP,Alma Marie Winston,0
 Merced,85,Governor,,REP,Andrew Blount,1
 Merced,85,Governor,,PAF,Cindy L. Sheehan,1
 Merced,85,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Merced,85,Governor,,REP,Glenn Champ,6
-Merced,85,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,85,Governor,,IND,Joe Leicht,0
 Merced,85,Governor,,GRN,Luis J. Rodriguez,1
 Merced,85,Governor,,REP,Neel Kashkari,19
-Merced,85,Governor,,IND,Rakesh Kumar Christian,0
-Merced,85,Governor,,REP,Richard William Aguirre,0
 Merced,85,Governor,,IND,Robert Newman,3
 Merced,85,Governor,,REP,Tim Donnelly,24
 Merced,85,Insurance Commissioner,,DEM,Dave Jones,23
 Merced,85,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Merced,85,Insurance Commissioner,,REP,Ted Gaines,48
 Merced,85,Lieutenant Governor,,AME,Alan Reynolds,1
-Merced,85,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,85,Lieutenant Governor,,REP,David Fennell,8
-Merced,85,Lieutenant Governor,,DEM,Eric Korevaar,0
 Merced,85,Lieutenant Governor,,DEM,Gavin Newsom,28
 Merced,85,Lieutenant Governor,,REP,George Yang,10
 Merced,85,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,85,Lieutenant Governor,,REP,Ron Nehring,26
+Merced,85,Proposition 41,,,No,43
+Merced,85,Proposition 41,,,Yes,34
+Merced,85,Proposition 42,,,No,37
+Merced,85,Proposition 42,,,Yes,36
 Merced,85,Secretary of State,,DEM,Alex Padilla,16
 Merced,85,Secretary of State,,IND,Dan Schnur,5
 Merced,85,Secretary of State,,GRN,David Curtis,1
@@ -7118,18 +7076,11 @@ Merced,86,Controller,,REP,David Evans,37
 Merced,86,Controller,,DEM,John A. Pérez,16
 Merced,86,Controller,,GRN,Laura Wells,2
 Merced,86,Controller,,DEM,Tammy D. Blair,12
-Merced,86,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,86,Governor,,DEM,Akinyemi Agbede,0
-Merced,86,Governor,,REP,Alma Marie Winston,0
 Merced,86,Governor,,REP,Andrew Blount,5
-Merced,86,Governor,,PAF,Cindy L. Sheehan,0
 Merced,86,Governor,,DEM,"Edmund G. ""Jerry"" Brown",55
 Merced,86,Governor,,REP,Glenn Champ,7
-Merced,86,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,86,Governor,,IND,Joe Leicht,0
 Merced,86,Governor,,GRN,Luis J. Rodriguez,3
 Merced,86,Governor,,REP,Neel Kashkari,80
-Merced,86,Governor,,IND,Rakesh Kumar Christian,0
 Merced,86,Governor,,REP,Richard William Aguirre,4
 Merced,86,Governor,,IND,Robert Newman,3
 Merced,86,Governor,,REP,Tim Donnelly,63
@@ -7137,13 +7088,16 @@ Merced,86,Insurance Commissioner,,DEM,Dave Jones,50
 Merced,86,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Merced,86,Insurance Commissioner,,REP,Ted Gaines,160
 Merced,86,Lieutenant Governor,,AME,Alan Reynolds,2
-Merced,86,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,86,Lieutenant Governor,,REP,David Fennell,41
 Merced,86,Lieutenant Governor,,DEM,Eric Korevaar,1
 Merced,86,Lieutenant Governor,,DEM,Gavin Newsom,54
 Merced,86,Lieutenant Governor,,REP,George Yang,16
 Merced,86,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,86,Lieutenant Governor,,REP,Ron Nehring,91
+Merced,86,Proposition 41,,,No,110
+Merced,86,Proposition 41,,,Yes,102
+Merced,86,Proposition 42,,,No,127
+Merced,86,Proposition 42,,,Yes,82
 Merced,86,Secretary of State,,DEM,Alex Padilla,21
 Merced,86,Secretary of State,,IND,Dan Schnur,32
 Merced,86,Secretary of State,,GRN,David Curtis,1
@@ -7163,7 +7117,6 @@ Merced,86,Treasurer,,REP,Greg Conlon,133
 Merced,86,Treasurer,,DEM,John Chiang,58
 Merced,86,U.S. House,16,DEM,Jim Costa,53
 Merced,86,U.S. House,16,REP,Joanna Garcia-Botelho,6
-Merced,86,U.S. House,16,DEM,Job Melton,0
 Merced,86,U.S. House,16,REP,Johnny Tacherra,21
 Merced,86,U.S. House,16,REP,Mel Levey,19
 Merced,86,U.S. House,16,REP,Steve Crass,128
@@ -7184,16 +7137,13 @@ Merced,87,Controller,,GRN,Laura Wells,6
 Merced,87,Controller,,DEM,Tammy D. Blair,28
 Merced,87,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,87,Governor,,DEM,Akinyemi Agbede,8
-Merced,87,Governor,,REP,Alma Marie Winston,0
 Merced,87,Governor,,REP,Andrew Blount,5
 Merced,87,Governor,,PAF,Cindy L. Sheehan,4
 Merced,87,Governor,,DEM,"Edmund G. ""Jerry"" Brown",117
 Merced,87,Governor,,REP,Glenn Champ,9
-Merced,87,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,87,Governor,,IND,Joe Leicht,1
 Merced,87,Governor,,GRN,Luis J. Rodriguez,1
 Merced,87,Governor,,REP,Neel Kashkari,56
-Merced,87,Governor,,IND,Rakesh Kumar Christian,0
 Merced,87,Governor,,REP,Richard William Aguirre,2
 Merced,87,Governor,,IND,Robert Newman,4
 Merced,87,Governor,,REP,Tim Donnelly,33
@@ -7208,6 +7158,10 @@ Merced,87,Lieutenant Governor,,DEM,Gavin Newsom,101
 Merced,87,Lieutenant Governor,,REP,George Yang,15
 Merced,87,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,87,Lieutenant Governor,,REP,Ron Nehring,61
+Merced,87,Proposition 41,,,No,81
+Merced,87,Proposition 41,,,Yes,153
+Merced,87,Proposition 42,,,No,104
+Merced,87,Proposition 42,,,Yes,124
 Merced,87,Secretary of State,,DEM,Alex Padilla,60
 Merced,87,Secretary of State,,IND,Dan Schnur,25
 Merced,87,Secretary of State,,GRN,David Curtis,6
@@ -7246,15 +7200,12 @@ Merced,88,Controller,,REP,David Evans,45
 Merced,88,Controller,,DEM,John A. Pérez,64
 Merced,88,Controller,,GRN,Laura Wells,12
 Merced,88,Controller,,DEM,Tammy D. Blair,19
-Merced,88,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,88,Governor,,DEM,Akinyemi Agbede,4
 Merced,88,Governor,,REP,Alma Marie Winston,1
 Merced,88,Governor,,REP,Andrew Blount,2
 Merced,88,Governor,,PAF,Cindy L. Sheehan,3
 Merced,88,Governor,,DEM,"Edmund G. ""Jerry"" Brown",133
 Merced,88,Governor,,REP,Glenn Champ,11
-Merced,88,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,88,Governor,,IND,Joe Leicht,0
 Merced,88,Governor,,GRN,Luis J. Rodriguez,2
 Merced,88,Governor,,REP,Neel Kashkari,56
 Merced,88,Governor,,IND,Rakesh Kumar Christian,2
@@ -7265,13 +7216,16 @@ Merced,88,Insurance Commissioner,,DEM,Dave Jones,131
 Merced,88,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Merced,88,Insurance Commissioner,,REP,Ted Gaines,105
 Merced,88,Lieutenant Governor,,AME,Alan Reynolds,4
-Merced,88,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,88,Lieutenant Governor,,REP,David Fennell,17
 Merced,88,Lieutenant Governor,,DEM,Eric Korevaar,10
 Merced,88,Lieutenant Governor,,DEM,Gavin Newsom,113
 Merced,88,Lieutenant Governor,,REP,George Yang,19
 Merced,88,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Merced,88,Lieutenant Governor,,REP,Ron Nehring,81
+Merced,88,Proposition 41,,,No,67
+Merced,88,Proposition 41,,,Yes,192
+Merced,88,Proposition 42,,,No,96
+Merced,88,Proposition 42,,,Yes,155
 Merced,88,Secretary of State,,DEM,Alex Padilla,76
 Merced,88,Secretary of State,,IND,Dan Schnur,29
 Merced,88,Secretary of State,,GRN,David Curtis,5
@@ -7310,32 +7264,28 @@ Merced,89,Controller,,REP,David Evans,27
 Merced,89,Controller,,DEM,John A. Pérez,12
 Merced,89,Controller,,GRN,Laura Wells,3
 Merced,89,Controller,,DEM,Tammy D. Blair,3
-Merced,89,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,89,Governor,,DEM,Akinyemi Agbede,0
 Merced,89,Governor,,REP,Alma Marie Winston,2
 Merced,89,Governor,,REP,Andrew Blount,3
-Merced,89,Governor,,PAF,Cindy L. Sheehan,0
 Merced,89,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 Merced,89,Governor,,REP,Glenn Champ,4
-Merced,89,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,89,Governor,,IND,Joe Leicht,0
 Merced,89,Governor,,GRN,Luis J. Rodriguez,1
 Merced,89,Governor,,REP,Neel Kashkari,43
 Merced,89,Governor,,IND,Rakesh Kumar Christian,2
 Merced,89,Governor,,REP,Richard William Aguirre,1
-Merced,89,Governor,,IND,Robert Newman,0
 Merced,89,Governor,,REP,Tim Donnelly,33
 Merced,89,Insurance Commissioner,,DEM,Dave Jones,34
 Merced,89,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Merced,89,Insurance Commissioner,,REP,Ted Gaines,81
 Merced,89,Lieutenant Governor,,AME,Alan Reynolds,2
-Merced,89,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,89,Lieutenant Governor,,REP,David Fennell,16
-Merced,89,Lieutenant Governor,,DEM,Eric Korevaar,0
 Merced,89,Lieutenant Governor,,DEM,Gavin Newsom,28
 Merced,89,Lieutenant Governor,,REP,George Yang,13
 Merced,89,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,89,Lieutenant Governor,,REP,Ron Nehring,53
+Merced,89,Proposition 41,,,No,56
+Merced,89,Proposition 41,,,Yes,56
+Merced,89,Proposition 42,,,No,58
+Merced,89,Proposition 42,,,Yes,49
 Merced,89,Secretary of State,,DEM,Alex Padilla,17
 Merced,89,Secretary of State,,IND,Dan Schnur,20
 Merced,89,Secretary of State,,GRN,David Curtis,3
@@ -7377,29 +7327,26 @@ Merced,9,Controller,,DEM,Tammy D. Blair,9
 Merced,9,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Merced,9,Governor,,DEM,Akinyemi Agbede,3
 Merced,9,Governor,,REP,Alma Marie Winston,2
-Merced,9,Governor,,REP,Andrew Blount,0
-Merced,9,Governor,,PAF,Cindy L. Sheehan,0
 Merced,9,Governor,,DEM,"Edmund G. ""Jerry"" Brown",74
 Merced,9,Governor,,REP,Glenn Champ,3
-Merced,9,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,9,Governor,,IND,Joe Leicht,0
 Merced,9,Governor,,GRN,Luis J. Rodriguez,3
 Merced,9,Governor,,REP,Neel Kashkari,13
 Merced,9,Governor,,IND,Rakesh Kumar Christian,4
-Merced,9,Governor,,REP,Richard William Aguirre,0
 Merced,9,Governor,,IND,Robert Newman,5
 Merced,9,Governor,,REP,Tim Donnelly,7
 Merced,9,Insurance Commissioner,,DEM,Dave Jones,83
 Merced,9,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Merced,9,Insurance Commissioner,,REP,Ted Gaines,21
-Merced,9,Lieutenant Governor,,AME,Alan Reynolds,0
-Merced,9,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,9,Lieutenant Governor,,REP,David Fennell,3
 Merced,9,Lieutenant Governor,,DEM,Eric Korevaar,21
 Merced,9,Lieutenant Governor,,DEM,Gavin Newsom,60
 Merced,9,Lieutenant Governor,,REP,George Yang,10
 Merced,9,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,9,Lieutenant Governor,,REP,Ron Nehring,12
+Merced,9,Proposition 41,,,No,49
+Merced,9,Proposition 41,,,Yes,61
+Merced,9,Proposition 42,,,No,62
+Merced,9,Proposition 42,,,Yes,47
 Merced,9,Secretary of State,,DEM,Alex Padilla,41
 Merced,9,Secretary of State,,IND,Dan Schnur,7
 Merced,9,Secretary of State,,GRN,David Curtis,4
@@ -7445,11 +7392,8 @@ Merced,90,Governor,,REP,Andrew Blount,4
 Merced,90,Governor,,PAF,Cindy L. Sheehan,4
 Merced,90,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Merced,90,Governor,,REP,Glenn Champ,16
-Merced,90,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,90,Governor,,IND,Joe Leicht,0
 Merced,90,Governor,,GRN,Luis J. Rodriguez,1
 Merced,90,Governor,,REP,Neel Kashkari,47
-Merced,90,Governor,,IND,Rakesh Kumar Christian,0
 Merced,90,Governor,,REP,Richard William Aguirre,2
 Merced,90,Governor,,IND,Robert Newman,7
 Merced,90,Governor,,REP,Tim Donnelly,46
@@ -7462,8 +7406,11 @@ Merced,90,Lieutenant Governor,,REP,David Fennell,21
 Merced,90,Lieutenant Governor,,DEM,Eric Korevaar,11
 Merced,90,Lieutenant Governor,,DEM,Gavin Newsom,61
 Merced,90,Lieutenant Governor,,REP,George Yang,18
-Merced,90,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Merced,90,Lieutenant Governor,,REP,Ron Nehring,75
+Merced,90,Proposition 41,,,No,67
+Merced,90,Proposition 41,,,Yes,131
+Merced,90,Proposition 42,,,No,84
+Merced,90,Proposition 42,,,Yes,110
 Merced,90,Secretary of State,,DEM,Alex Padilla,30
 Merced,90,Secretary of State,,IND,Dan Schnur,20
 Merced,90,Secretary of State,,GRN,David Curtis,2
@@ -7509,12 +7456,8 @@ Merced,91,Governor,,REP,Andrew Blount,3
 Merced,91,Governor,,PAF,Cindy L. Sheehan,1
 Merced,91,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Merced,91,Governor,,REP,Glenn Champ,10
-Merced,91,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,91,Governor,,IND,Joe Leicht,0
-Merced,91,Governor,,GRN,Luis J. Rodriguez,0
 Merced,91,Governor,,REP,Neel Kashkari,65
 Merced,91,Governor,,IND,Rakesh Kumar Christian,2
-Merced,91,Governor,,REP,Richard William Aguirre,0
 Merced,91,Governor,,IND,Robert Newman,7
 Merced,91,Governor,,REP,Tim Donnelly,57
 Merced,91,Insurance Commissioner,,DEM,Dave Jones,56
@@ -7528,6 +7471,10 @@ Merced,91,Lieutenant Governor,,DEM,Gavin Newsom,42
 Merced,91,Lieutenant Governor,,REP,George Yang,32
 Merced,91,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,91,Lieutenant Governor,,REP,Ron Nehring,77
+Merced,91,Proposition 41,,,No,78
+Merced,91,Proposition 41,,,Yes,110
+Merced,91,Proposition 42,,,No,66
+Merced,91,Proposition 42,,,Yes,110
 Merced,91,Secretary of State,,DEM,Alex Padilla,25
 Merced,91,Secretary of State,,IND,Dan Schnur,25
 Merced,91,Secretary of State,,GRN,David Curtis,1
@@ -7567,15 +7514,11 @@ Merced,92,Controller,,DEM,John A. Pérez,23
 Merced,92,Controller,,GRN,Laura Wells,7
 Merced,92,Controller,,DEM,Tammy D. Blair,11
 Merced,92,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Merced,92,Governor,,DEM,Akinyemi Agbede,0
 Merced,92,Governor,,REP,Alma Marie Winston,1
 Merced,92,Governor,,REP,Andrew Blount,8
 Merced,92,Governor,,PAF,Cindy L. Sheehan,1
 Merced,92,Governor,,DEM,"Edmund G. ""Jerry"" Brown",60
 Merced,92,Governor,,REP,Glenn Champ,13
-Merced,92,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,92,Governor,,IND,Joe Leicht,0
-Merced,92,Governor,,GRN,Luis J. Rodriguez,0
 Merced,92,Governor,,REP,Neel Kashkari,55
 Merced,92,Governor,,IND,Rakesh Kumar Christian,2
 Merced,92,Governor,,REP,Richard William Aguirre,1
@@ -7592,6 +7535,10 @@ Merced,92,Lieutenant Governor,,DEM,Gavin Newsom,43
 Merced,92,Lieutenant Governor,,REP,George Yang,21
 Merced,92,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,92,Lieutenant Governor,,REP,Ron Nehring,65
+Merced,92,Proposition 41,,,No,88
+Merced,92,Proposition 41,,,Yes,100
+Merced,92,Proposition 42,,,No,90
+Merced,92,Proposition 42,,,Yes,88
 Merced,92,Secretary of State,,DEM,Alex Padilla,27
 Merced,92,Secretary of State,,IND,Dan Schnur,27
 Merced,92,Secretary of State,,GRN,David Curtis,5
@@ -7630,16 +7577,10 @@ Merced,93,Controller,,REP,David Evans,36
 Merced,93,Controller,,DEM,John A. Pérez,15
 Merced,93,Controller,,GRN,Laura Wells,4
 Merced,93,Controller,,DEM,Tammy D. Blair,8
-Merced,93,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,93,Governor,,DEM,Akinyemi Agbede,4
-Merced,93,Governor,,REP,Alma Marie Winston,0
 Merced,93,Governor,,REP,Andrew Blount,3
-Merced,93,Governor,,PAF,Cindy L. Sheehan,0
 Merced,93,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
 Merced,93,Governor,,REP,Glenn Champ,7
-Merced,93,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,93,Governor,,IND,Joe Leicht,0
-Merced,93,Governor,,GRN,Luis J. Rodriguez,0
 Merced,93,Governor,,REP,Neel Kashkari,55
 Merced,93,Governor,,IND,Rakesh Kumar Christian,1
 Merced,93,Governor,,REP,Richard William Aguirre,4
@@ -7648,7 +7589,6 @@ Merced,93,Governor,,REP,Tim Donnelly,64
 Merced,93,Insurance Commissioner,,DEM,Dave Jones,45
 Merced,93,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Merced,93,Insurance Commissioner,,REP,Ted Gaines,128
-Merced,93,Lieutenant Governor,,AME,Alan Reynolds,0
 Merced,93,Lieutenant Governor,,PAF,Amos Johnson,1
 Merced,93,Lieutenant Governor,,REP,David Fennell,28
 Merced,93,Lieutenant Governor,,DEM,Eric Korevaar,8
@@ -7656,9 +7596,12 @@ Merced,93,Lieutenant Governor,,DEM,Gavin Newsom,37
 Merced,93,Lieutenant Governor,,REP,George Yang,14
 Merced,93,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,93,Lieutenant Governor,,REP,Ron Nehring,87
+Merced,93,Proposition 41,,,No,83
+Merced,93,Proposition 41,,,Yes,100
+Merced,93,Proposition 42,,,No,115
+Merced,93,Proposition 42,,,Yes,62
 Merced,93,Secretary of State,,DEM,Alex Padilla,19
 Merced,93,Secretary of State,,IND,Dan Schnur,21
-Merced,93,Secretary of State,,GRN,David Curtis,0
 Merced,93,Secretary of State,,DEM,Derek Cressman,6
 Merced,93,Secretary of State,,DEM,Jeffrey H. Drobman,11
 Merced,93,Secretary of State,,DEM,Leland Yee,13
@@ -7679,70 +7622,6 @@ Merced,93,U.S. House,16,DEM,Job Melton,2
 Merced,93,U.S. House,16,REP,Johnny Tacherra,57
 Merced,93,U.S. House,16,REP,Mel Levey,21
 Merced,93,U.S. House,16,REP,Steve Crass,42
-Merced,94,Attorney General,,REP,David King,0
-Merced,94,Attorney General,,REP,John Haggerty,0
-Merced,94,Attorney General,,LIB,Jonathan Jaech,0
-Merced,94,Attorney General,,DEM,Kamala D. Harris,0
-Merced,94,Attorney General,,IND,Orly Taitz,0
-Merced,94,Attorney General,,REP,Phil Wyman,0
-Merced,94,Attorney General,,REP,Ronald Gold,0
-Merced,94,Board of Equalization,1,DEM,Chris Parker,0
-Merced,94,Board of Equalization,1,REP,George Runner,0
-Merced,94,Controller,,REP,Ashley Swearengin,0
-Merced,94,Controller,,DEM,Betty T. Yee,0
-Merced,94,Controller,,REP,David Evans,0
-Merced,94,Controller,,DEM,John A. Pérez,0
-Merced,94,Controller,,GRN,Laura Wells,0
-Merced,94,Controller,,DEM,Tammy D. Blair,0
-Merced,94,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Merced,94,Governor,,DEM,Akinyemi Agbede,0
-Merced,94,Governor,,REP,Alma Marie Winston,0
-Merced,94,Governor,,REP,Andrew Blount,0
-Merced,94,Governor,,PAF,Cindy L. Sheehan,0
-Merced,94,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Merced,94,Governor,,REP,Glenn Champ,0
-Merced,94,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,94,Governor,,IND,Joe Leicht,0
-Merced,94,Governor,,GRN,Luis J. Rodriguez,0
-Merced,94,Governor,,REP,Neel Kashkari,0
-Merced,94,Governor,,IND,Rakesh Kumar Christian,0
-Merced,94,Governor,,REP,Richard William Aguirre,0
-Merced,94,Governor,,IND,Robert Newman,0
-Merced,94,Governor,,REP,Tim Donnelly,0
-Merced,94,Insurance Commissioner,,DEM,Dave Jones,0
-Merced,94,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Merced,94,Insurance Commissioner,,REP,Ted Gaines,0
-Merced,94,Lieutenant Governor,,AME,Alan Reynolds,0
-Merced,94,Lieutenant Governor,,PAF,Amos Johnson,0
-Merced,94,Lieutenant Governor,,REP,David Fennell,0
-Merced,94,Lieutenant Governor,,DEM,Eric Korevaar,0
-Merced,94,Lieutenant Governor,,DEM,Gavin Newsom,0
-Merced,94,Lieutenant Governor,,REP,George Yang,0
-Merced,94,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Merced,94,Lieutenant Governor,,REP,Ron Nehring,0
-Merced,94,Secretary of State,,DEM,Alex Padilla,0
-Merced,94,Secretary of State,,IND,Dan Schnur,0
-Merced,94,Secretary of State,,GRN,David Curtis,0
-Merced,94,Secretary of State,,DEM,Derek Cressman,0
-Merced,94,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Merced,94,Secretary of State,,DEM,Leland Yee,0
-Merced,94,Secretary of State,,REP,Pete Peterson,0
-Merced,94,Secretary of State,,REP,Roy Allmond,0
-Merced,94,State Assembly,21,DEM,Adam Gray,0
-Merced,94,State Senate,12,REP,Anthony Cannella,0
-Merced,94,State Senate,12,DEM,Shawn K. Bagley,0
-Merced,94,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Merced,94,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Merced,94,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Merced,94,Treasurer,,GRN,Ellen H. Brown,0
-Merced,94,Treasurer,,REP,Greg Conlon,0
-Merced,94,Treasurer,,DEM,John Chiang,0
-Merced,94,U.S. House,16,DEM,Jim Costa,0
-Merced,94,U.S. House,16,REP,Joanna Garcia-Botelho,0
-Merced,94,U.S. House,16,DEM,Job Melton,0
-Merced,94,U.S. House,16,REP,Johnny Tacherra,0
-Merced,94,U.S. House,16,REP,Mel Levey,0
-Merced,94,U.S. House,16,REP,Steve Crass,0
 Merced,95,Attorney General,,REP,David King,16
 Merced,95,Attorney General,,REP,John Haggerty,18
 Merced,95,Attorney General,,LIB,Jonathan Jaech,11
@@ -7758,15 +7637,12 @@ Merced,95,Controller,,REP,David Evans,28
 Merced,95,Controller,,DEM,John A. Pérez,17
 Merced,95,Controller,,GRN,Laura Wells,4
 Merced,95,Controller,,DEM,Tammy D. Blair,4
-Merced,95,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,95,Governor,,DEM,Akinyemi Agbede,3
 Merced,95,Governor,,REP,Alma Marie Winston,1
 Merced,95,Governor,,REP,Andrew Blount,2
 Merced,95,Governor,,PAF,Cindy L. Sheehan,2
 Merced,95,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
 Merced,95,Governor,,REP,Glenn Champ,10
-Merced,95,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,95,Governor,,IND,Joe Leicht,0
 Merced,95,Governor,,GRN,Luis J. Rodriguez,7
 Merced,95,Governor,,REP,Neel Kashkari,69
 Merced,95,Governor,,IND,Rakesh Kumar Christian,1
@@ -7784,9 +7660,12 @@ Merced,95,Lieutenant Governor,,DEM,Gavin Newsom,36
 Merced,95,Lieutenant Governor,,REP,George Yang,31
 Merced,95,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Merced,95,Lieutenant Governor,,REP,Ron Nehring,70
+Merced,95,Proposition 41,,,No,101
+Merced,95,Proposition 41,,,Yes,83
+Merced,95,Proposition 42,,,No,84
+Merced,95,Proposition 42,,,Yes,96
 Merced,95,Secretary of State,,DEM,Alex Padilla,23
 Merced,95,Secretary of State,,IND,Dan Schnur,27
-Merced,95,Secretary of State,,GRN,David Curtis,0
 Merced,95,Secretary of State,,DEM,Derek Cressman,7
 Merced,95,Secretary of State,,DEM,Jeffrey H. Drobman,7
 Merced,95,Secretary of State,,DEM,Leland Yee,9
@@ -7822,15 +7701,11 @@ Merced,96,Controller,,REP,David Evans,37
 Merced,96,Controller,,DEM,John A. Pérez,19
 Merced,96,Controller,,GRN,Laura Wells,5
 Merced,96,Controller,,DEM,Tammy D. Blair,7
-Merced,96,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,96,Governor,,DEM,Akinyemi Agbede,1
 Merced,96,Governor,,REP,Alma Marie Winston,1
 Merced,96,Governor,,REP,Andrew Blount,4
-Merced,96,Governor,,PAF,Cindy L. Sheehan,0
 Merced,96,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 Merced,96,Governor,,REP,Glenn Champ,10
-Merced,96,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,96,Governor,,IND,Joe Leicht,0
 Merced,96,Governor,,GRN,Luis J. Rodriguez,3
 Merced,96,Governor,,REP,Neel Kashkari,31
 Merced,96,Governor,,IND,Rakesh Kumar Christian,1
@@ -7841,13 +7716,16 @@ Merced,96,Insurance Commissioner,,DEM,Dave Jones,38
 Merced,96,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Merced,96,Insurance Commissioner,,REP,Ted Gaines,95
 Merced,96,Lieutenant Governor,,AME,Alan Reynolds,2
-Merced,96,Lieutenant Governor,,PAF,Amos Johnson,0
 Merced,96,Lieutenant Governor,,REP,David Fennell,25
 Merced,96,Lieutenant Governor,,DEM,Eric Korevaar,8
 Merced,96,Lieutenant Governor,,DEM,Gavin Newsom,39
 Merced,96,Lieutenant Governor,,REP,George Yang,18
 Merced,96,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Merced,96,Lieutenant Governor,,REP,Ron Nehring,43
+Merced,96,Proposition 41,,,No,80
+Merced,96,Proposition 41,,,Yes,64
+Merced,96,Proposition 42,,,No,73
+Merced,96,Proposition 42,,,Yes,69
 Merced,96,Secretary of State,,DEM,Alex Padilla,18
 Merced,96,Secretary of State,,IND,Dan Schnur,5
 Merced,96,Secretary of State,,GRN,David Curtis,3
@@ -7867,7 +7745,6 @@ Merced,96,Treasurer,,REP,Greg Conlon,89
 Merced,96,Treasurer,,DEM,John Chiang,44
 Merced,96,U.S. House,16,DEM,Jim Costa,40
 Merced,96,U.S. House,16,REP,Joanna Garcia-Botelho,15
-Merced,96,U.S. House,16,DEM,Job Melton,0
 Merced,96,U.S. House,16,REP,Johnny Tacherra,32
 Merced,96,U.S. House,16,REP,Mel Levey,9
 Merced,96,U.S. House,16,REP,Steve Crass,53
@@ -7875,7 +7752,6 @@ Merced,97,Attorney General,,REP,David King,1
 Merced,97,Attorney General,,REP,John Haggerty,1
 Merced,97,Attorney General,,LIB,Jonathan Jaech,1
 Merced,97,Attorney General,,DEM,Kamala D. Harris,5
-Merced,97,Attorney General,,IND,Orly Taitz,0
 Merced,97,Attorney General,,REP,Phil Wyman,18
 Merced,97,Attorney General,,REP,Ronald Gold,5
 Merced,97,Board of Equalization,1,DEM,Chris Parker,10
@@ -7885,20 +7761,12 @@ Merced,97,Controller,,DEM,Betty T. Yee,1
 Merced,97,Controller,,REP,David Evans,14
 Merced,97,Controller,,DEM,John A. Pérez,2
 Merced,97,Controller,,GRN,Laura Wells,3
-Merced,97,Controller,,DEM,Tammy D. Blair,0
 Merced,97,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Merced,97,Governor,,DEM,Akinyemi Agbede,0
-Merced,97,Governor,,REP,Alma Marie Winston,0
 Merced,97,Governor,,REP,Andrew Blount,3
 Merced,97,Governor,,PAF,Cindy L. Sheehan,1
 Merced,97,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Merced,97,Governor,,REP,Glenn Champ,3
-Merced,97,Governor,,IND,Janel Hyeshia Buycks,0
-Merced,97,Governor,,IND,Joe Leicht,0
-Merced,97,Governor,,GRN,Luis J. Rodriguez,0
 Merced,97,Governor,,REP,Neel Kashkari,9
-Merced,97,Governor,,IND,Rakesh Kumar Christian,0
-Merced,97,Governor,,REP,Richard William Aguirre,0
 Merced,97,Governor,,IND,Robert Newman,1
 Merced,97,Governor,,REP,Tim Donnelly,13
 Merced,97,Insurance Commissioner,,DEM,Dave Jones,7
@@ -7912,11 +7780,14 @@ Merced,97,Lieutenant Governor,,DEM,Gavin Newsom,6
 Merced,97,Lieutenant Governor,,REP,George Yang,5
 Merced,97,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Merced,97,Lieutenant Governor,,REP,Ron Nehring,10
+Merced,97,Proposition 41,,,No,17
+Merced,97,Proposition 41,,,Yes,16
+Merced,97,Proposition 42,,,No,20
+Merced,97,Proposition 42,,,Yes,10
 Merced,97,Secretary of State,,DEM,Alex Padilla,1
 Merced,97,Secretary of State,,IND,Dan Schnur,1
 Merced,97,Secretary of State,,GRN,David Curtis,2
 Merced,97,Secretary of State,,DEM,Derek Cressman,4
-Merced,97,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Merced,97,Secretary of State,,DEM,Leland Yee,2
 Merced,97,Secretary of State,,REP,Pete Peterson,14
 Merced,97,Secretary of State,,REP,Roy Allmond,7
@@ -7931,7 +7802,6 @@ Merced,97,Treasurer,,REP,Greg Conlon,20
 Merced,97,Treasurer,,DEM,John Chiang,7
 Merced,97,U.S. House,16,DEM,Jim Costa,8
 Merced,97,U.S. House,16,REP,Joanna Garcia-Botelho,3
-Merced,97,U.S. House,16,DEM,Job Melton,0
 Merced,97,U.S. House,16,REP,Johnny Tacherra,21
 Merced,97,U.S. House,16,REP,Mel Levey,1
 Merced,97,U.S. House,16,REP,Steve Crass,1
@@ -7951,13 +7821,9 @@ Merced,98,Controller,,DEM,John A. Pérez,22
 Merced,98,Controller,,GRN,Laura Wells,4
 Merced,98,Controller,,DEM,Tammy D. Blair,6
 Merced,98,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Merced,98,Governor,,DEM,Akinyemi Agbede,0
-Merced,98,Governor,,REP,Alma Marie Winston,0
 Merced,98,Governor,,REP,Andrew Blount,3
-Merced,98,Governor,,PAF,Cindy L. Sheehan,0
 Merced,98,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
 Merced,98,Governor,,REP,Glenn Champ,7
-Merced,98,Governor,,IND,Janel Hyeshia Buycks,0
 Merced,98,Governor,,IND,Joe Leicht,1
 Merced,98,Governor,,GRN,Luis J. Rodriguez,1
 Merced,98,Governor,,REP,Neel Kashkari,18
@@ -7976,10 +7842,13 @@ Merced,98,Lieutenant Governor,,DEM,Gavin Newsom,30
 Merced,98,Lieutenant Governor,,REP,George Yang,16
 Merced,98,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Merced,98,Lieutenant Governor,,REP,Ron Nehring,41
+Merced,98,Proposition 41,,,No,52
+Merced,98,Proposition 41,,,Yes,67
+Merced,98,Proposition 42,,,No,59
+Merced,98,Proposition 42,,,Yes,61
 Merced,98,Secretary of State,,DEM,Alex Padilla,18
 Merced,98,Secretary of State,,IND,Dan Schnur,7
 Merced,98,Secretary of State,,GRN,David Curtis,2
-Merced,98,Secretary of State,,DEM,Derek Cressman,0
 Merced,98,Secretary of State,,DEM,Jeffrey H. Drobman,6
 Merced,98,Secretary of State,,DEM,Leland Yee,16
 Merced,98,Secretary of State,,REP,Pete Peterson,55
@@ -8014,7 +7883,6 @@ Merced,99,Controller,,REP,David Evans,14
 Merced,99,Controller,,DEM,John A. Pérez,8
 Merced,99,Controller,,GRN,Laura Wells,5
 Merced,99,Controller,,DEM,Tammy D. Blair,5
-Merced,99,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Merced,99,Governor,,DEM,Akinyemi Agbede,1
 Merced,99,Governor,,REP,Alma Marie Winston,2
 Merced,99,Governor,,REP,Andrew Blount,3
@@ -8022,10 +7890,7 @@ Merced,99,Governor,,PAF,Cindy L. Sheehan,1
 Merced,99,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Merced,99,Governor,,REP,Glenn Champ,7
 Merced,99,Governor,,IND,Janel Hyeshia Buycks,2
-Merced,99,Governor,,IND,Joe Leicht,0
-Merced,99,Governor,,GRN,Luis J. Rodriguez,0
 Merced,99,Governor,,REP,Neel Kashkari,35
-Merced,99,Governor,,IND,Rakesh Kumar Christian,0
 Merced,99,Governor,,REP,Richard William Aguirre,1
 Merced,99,Governor,,IND,Robert Newman,4
 Merced,99,Governor,,REP,Tim Donnelly,30
@@ -8040,6 +7905,10 @@ Merced,99,Lieutenant Governor,,DEM,Gavin Newsom,28
 Merced,99,Lieutenant Governor,,REP,George Yang,10
 Merced,99,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Merced,99,Lieutenant Governor,,REP,Ron Nehring,40
+Merced,99,Proposition 41,,,No,59
+Merced,99,Proposition 41,,,Yes,57
+Merced,99,Proposition 42,,,No,61
+Merced,99,Proposition 42,,,Yes,48
 Merced,99,Secretary of State,,DEM,Alex Padilla,17
 Merced,99,Secretary of State,,IND,Dan Schnur,11
 Merced,99,Secretary of State,,GRN,David Curtis,2
