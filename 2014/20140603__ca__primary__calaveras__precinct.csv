@@ -21,7 +21,6 @@ Calaveras,110,Governor,,REP,Andrew Blount,11
 Calaveras,110,Governor,,PAF,Cindy L. Sheehan,6
 Calaveras,110,Governor,,DEM,"Edmund G. ""Jerry"" Brown",161
 Calaveras,110,Governor,,REP,Glenn Champ,4
-Calaveras,110,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,110,Governor,,IND,Joe Leicht,4
 Calaveras,110,Governor,,GRN,Luis J. Rodriguez,6
 Calaveras,110,Governor,,REP,Neel Kashkari,88
@@ -40,6 +39,10 @@ Calaveras,110,Lieutenant Governor,,DEM,Gavin Newsom,129
 Calaveras,110,Lieutenant Governor,,REP,George Yang,23
 Calaveras,110,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Calaveras,110,Lieutenant Governor,,REP,Ron Nehring,107
+Calaveras,110,Proposition 41,,,No,125
+Calaveras,110,Proposition 41,,,Yes,225
+Calaveras,110,Proposition 42,,,No,173
+Calaveras,110,Proposition 42,,,Yes,161
 Calaveras,110,Secretary of State,,DEM,Alex Padilla,76
 Calaveras,110,Secretary of State,,IND,Dan Schnur,24
 Calaveras,110,Secretary of State,,GRN,David Curtis,18
@@ -82,7 +85,6 @@ Calaveras,120,Governor,,REP,Andrew Blount,16
 Calaveras,120,Governor,,PAF,Cindy L. Sheehan,6
 Calaveras,120,Governor,,DEM,"Edmund G. ""Jerry"" Brown",206
 Calaveras,120,Governor,,REP,Glenn Champ,14
-Calaveras,120,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,120,Governor,,IND,Joe Leicht,1
 Calaveras,120,Governor,,GRN,Luis J. Rodriguez,1
 Calaveras,120,Governor,,REP,Neel Kashkari,141
@@ -101,6 +103,10 @@ Calaveras,120,Lieutenant Governor,,DEM,Gavin Newsom,190
 Calaveras,120,Lieutenant Governor,,REP,George Yang,40
 Calaveras,120,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Calaveras,120,Lieutenant Governor,,REP,Ron Nehring,155
+Calaveras,120,Proposition 41,,,No,208
+Calaveras,120,Proposition 41,,,Yes,302
+Calaveras,120,Proposition 42,,,No,254
+Calaveras,120,Proposition 42,,,Yes,249
 Calaveras,120,Secretary of State,,DEM,Alex Padilla,86
 Calaveras,120,Secretary of State,,IND,Dan Schnur,47
 Calaveras,120,Secretary of State,,GRN,David Curtis,14
@@ -143,12 +149,10 @@ Calaveras,140,Governor,,REP,Andrew Blount,11
 Calaveras,140,Governor,,PAF,Cindy L. Sheehan,7
 Calaveras,140,Governor,,DEM,"Edmund G. ""Jerry"" Brown",133
 Calaveras,140,Governor,,REP,Glenn Champ,8
-Calaveras,140,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,140,Governor,,IND,Joe Leicht,2
 Calaveras,140,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,140,Governor,,REP,Neel Kashkari,82
 Calaveras,140,Governor,,IND,Rakesh Kumar Christian,2
-Calaveras,140,Governor,,REP,Richard William Aguirre,0
 Calaveras,140,Governor,,IND,Robert Newman,10
 Calaveras,140,Governor,,REP,Tim Donnelly,83
 Calaveras,140,Insurance Commissioner,,DEM,Dave Jones,113
@@ -162,6 +166,10 @@ Calaveras,140,Lieutenant Governor,,DEM,Gavin Newsom,110
 Calaveras,140,Lieutenant Governor,,REP,George Yang,26
 Calaveras,140,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Calaveras,140,Lieutenant Governor,,REP,Ron Nehring,114
+Calaveras,140,Proposition 41,,,No,150
+Calaveras,140,Proposition 41,,,Yes,186
+Calaveras,140,Proposition 42,,,No,169
+Calaveras,140,Proposition 42,,,Yes,160
 Calaveras,140,Secretary of State,,DEM,Alex Padilla,73
 Calaveras,140,Secretary of State,,IND,Dan Schnur,14
 Calaveras,140,Secretary of State,,GRN,David Curtis,13
@@ -205,12 +213,9 @@ Calaveras,150,Governor,,PAF,Cindy L. Sheehan,1
 Calaveras,150,Governor,,DEM,"Edmund G. ""Jerry"" Brown",112
 Calaveras,150,Governor,,REP,Glenn Champ,8
 Calaveras,150,Governor,,IND,Janel Hyeshia Buycks,1
-Calaveras,150,Governor,,IND,Joe Leicht,0
 Calaveras,150,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,150,Governor,,REP,Neel Kashkari,88
-Calaveras,150,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,150,Governor,,REP,Richard William Aguirre,2
-Calaveras,150,Governor,,IND,Robert Newman,0
 Calaveras,150,Governor,,REP,Tim Donnelly,81
 Calaveras,150,Insurance Commissioner,,DEM,Dave Jones,95
 Calaveras,150,Insurance Commissioner,,PAF,Nathalie Hrizi,17
@@ -223,6 +228,10 @@ Calaveras,150,Lieutenant Governor,,DEM,Gavin Newsom,93
 Calaveras,150,Lieutenant Governor,,REP,George Yang,37
 Calaveras,150,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Calaveras,150,Lieutenant Governor,,REP,Ron Nehring,121
+Calaveras,150,Proposition 41,,,No,143
+Calaveras,150,Proposition 41,,,Yes,174
+Calaveras,150,Proposition 42,,,No,169
+Calaveras,150,Proposition 42,,,Yes,143
 Calaveras,150,Secretary of State,,DEM,Alex Padilla,51
 Calaveras,150,Secretary of State,,IND,Dan Schnur,35
 Calaveras,150,Secretary of State,,GRN,David Curtis,3
@@ -259,18 +268,15 @@ Calaveras,160,Controller,,DEM,John A. Pérez,31
 Calaveras,160,Controller,,GRN,Laura Wells,14
 Calaveras,160,Controller,,DEM,Tammy D. Blair,16
 Calaveras,160,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Calaveras,160,Governor,,DEM,Akinyemi Agbede,0
 Calaveras,160,Governor,,REP,Alma Marie Winston,1
 Calaveras,160,Governor,,REP,Andrew Blount,15
 Calaveras,160,Governor,,PAF,Cindy L. Sheehan,2
 Calaveras,160,Governor,,DEM,"Edmund G. ""Jerry"" Brown",95
 Calaveras,160,Governor,,REP,Glenn Champ,8
 Calaveras,160,Governor,,IND,Janel Hyeshia Buycks,2
-Calaveras,160,Governor,,IND,Joe Leicht,0
 Calaveras,160,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,160,Governor,,REP,Neel Kashkari,76
 Calaveras,160,Governor,,IND,Rakesh Kumar Christian,3
-Calaveras,160,Governor,,REP,Richard William Aguirre,0
 Calaveras,160,Governor,,IND,Robert Newman,9
 Calaveras,160,Governor,,REP,Tim Donnelly,76
 Calaveras,160,Insurance Commissioner,,DEM,Dave Jones,83
@@ -284,6 +290,10 @@ Calaveras,160,Lieutenant Governor,,DEM,Gavin Newsom,86
 Calaveras,160,Lieutenant Governor,,REP,George Yang,26
 Calaveras,160,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Calaveras,160,Lieutenant Governor,,REP,Ron Nehring,106
+Calaveras,160,Proposition 41,,,No,149
+Calaveras,160,Proposition 41,,,Yes,134
+Calaveras,160,Proposition 42,,,No,175
+Calaveras,160,Proposition 42,,,Yes,110
 Calaveras,160,Secretary of State,,DEM,Alex Padilla,47
 Calaveras,160,Secretary of State,,IND,Dan Schnur,17
 Calaveras,160,Secretary of State,,GRN,David Curtis,7
@@ -319,14 +329,11 @@ Calaveras,170,Controller,,REP,David Evans,147
 Calaveras,170,Controller,,DEM,John A. Pérez,50
 Calaveras,170,Controller,,GRN,Laura Wells,14
 Calaveras,170,Controller,,DEM,Tammy D. Blair,12
-Calaveras,170,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Calaveras,170,Governor,,DEM,Akinyemi Agbede,0
 Calaveras,170,Governor,,REP,Alma Marie Winston,2
 Calaveras,170,Governor,,REP,Andrew Blount,18
 Calaveras,170,Governor,,PAF,Cindy L. Sheehan,3
 Calaveras,170,Governor,,DEM,"Edmund G. ""Jerry"" Brown",125
 Calaveras,170,Governor,,REP,Glenn Champ,8
-Calaveras,170,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,170,Governor,,IND,Joe Leicht,1
 Calaveras,170,Governor,,GRN,Luis J. Rodriguez,1
 Calaveras,170,Governor,,REP,Neel Kashkari,100
@@ -345,6 +352,10 @@ Calaveras,170,Lieutenant Governor,,DEM,Gavin Newsom,114
 Calaveras,170,Lieutenant Governor,,REP,George Yang,35
 Calaveras,170,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Calaveras,170,Lieutenant Governor,,REP,Ron Nehring,160
+Calaveras,170,Proposition 41,,,No,209
+Calaveras,170,Proposition 41,,,Yes,182
+Calaveras,170,Proposition 42,,,No,209
+Calaveras,170,Proposition 42,,,Yes,172
 Calaveras,170,Secretary of State,,DEM,Alex Padilla,71
 Calaveras,170,Secretary of State,,IND,Dan Schnur,19
 Calaveras,170,Secretary of State,,GRN,David Curtis,6
@@ -381,8 +392,6 @@ Calaveras,210,Controller,,DEM,John A. Pérez,67
 Calaveras,210,Controller,,GRN,Laura Wells,27
 Calaveras,210,Controller,,DEM,Tammy D. Blair,20
 Calaveras,210,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Calaveras,210,Governor,,DEM,Akinyemi Agbede,0
-Calaveras,210,Governor,,REP,Alma Marie Winston,0
 Calaveras,210,Governor,,REP,Andrew Blount,11
 Calaveras,210,Governor,,PAF,Cindy L. Sheehan,5
 Calaveras,210,Governor,,DEM,"Edmund G. ""Jerry"" Brown",177
@@ -391,7 +400,6 @@ Calaveras,210,Governor,,IND,Janel Hyeshia Buycks,1
 Calaveras,210,Governor,,IND,Joe Leicht,2
 Calaveras,210,Governor,,GRN,Luis J. Rodriguez,4
 Calaveras,210,Governor,,REP,Neel Kashkari,83
-Calaveras,210,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,210,Governor,,REP,Richard William Aguirre,1
 Calaveras,210,Governor,,IND,Robert Newman,5
 Calaveras,210,Governor,,REP,Tim Donnelly,64
@@ -406,6 +414,10 @@ Calaveras,210,Lieutenant Governor,,DEM,Gavin Newsom,170
 Calaveras,210,Lieutenant Governor,,REP,George Yang,19
 Calaveras,210,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Calaveras,210,Lieutenant Governor,,REP,Ron Nehring,92
+Calaveras,210,Proposition 41,,,No,136
+Calaveras,210,Proposition 41,,,Yes,214
+Calaveras,210,Proposition 42,,,No,174
+Calaveras,210,Proposition 42,,,Yes,153
 Calaveras,210,Secretary of State,,DEM,Alex Padilla,77
 Calaveras,210,Secretary of State,,IND,Dan Schnur,31
 Calaveras,210,Secretary of State,,GRN,David Curtis,18
@@ -448,11 +460,8 @@ Calaveras,215,Governor,,REP,Andrew Blount,10
 Calaveras,215,Governor,,PAF,Cindy L. Sheehan,6
 Calaveras,215,Governor,,DEM,"Edmund G. ""Jerry"" Brown",196
 Calaveras,215,Governor,,REP,Glenn Champ,6
-Calaveras,215,Governor,,IND,Janel Hyeshia Buycks,0
-Calaveras,215,Governor,,IND,Joe Leicht,0
 Calaveras,215,Governor,,GRN,Luis J. Rodriguez,11
 Calaveras,215,Governor,,REP,Neel Kashkari,107
-Calaveras,215,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,215,Governor,,REP,Richard William Aguirre,3
 Calaveras,215,Governor,,IND,Robert Newman,8
 Calaveras,215,Governor,,REP,Tim Donnelly,70
@@ -467,6 +476,10 @@ Calaveras,215,Lieutenant Governor,,DEM,Gavin Newsom,180
 Calaveras,215,Lieutenant Governor,,REP,George Yang,25
 Calaveras,215,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Calaveras,215,Lieutenant Governor,,REP,Ron Nehring,132
+Calaveras,215,Proposition 41,,,No,176
+Calaveras,215,Proposition 41,,,Yes,247
+Calaveras,215,Proposition 42,,,No,216
+Calaveras,215,Proposition 42,,,Yes,196
 Calaveras,215,Secretary of State,,DEM,Alex Padilla,107
 Calaveras,215,Secretary of State,,IND,Dan Schnur,26
 Calaveras,215,Secretary of State,,GRN,David Curtis,29
@@ -509,7 +522,6 @@ Calaveras,220,Governor,,REP,Andrew Blount,14
 Calaveras,220,Governor,,PAF,Cindy L. Sheehan,11
 Calaveras,220,Governor,,DEM,"Edmund G. ""Jerry"" Brown",149
 Calaveras,220,Governor,,REP,Glenn Champ,12
-Calaveras,220,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,220,Governor,,IND,Joe Leicht,1
 Calaveras,220,Governor,,GRN,Luis J. Rodriguez,4
 Calaveras,220,Governor,,REP,Neel Kashkari,87
@@ -528,6 +540,10 @@ Calaveras,220,Lieutenant Governor,,DEM,Gavin Newsom,139
 Calaveras,220,Lieutenant Governor,,REP,George Yang,22
 Calaveras,220,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Calaveras,220,Lieutenant Governor,,REP,Ron Nehring,120
+Calaveras,220,Proposition 41,,,No,155
+Calaveras,220,Proposition 41,,,Yes,215
+Calaveras,220,Proposition 42,,,No,184
+Calaveras,220,Proposition 42,,,Yes,177
 Calaveras,220,Secretary of State,,DEM,Alex Padilla,87
 Calaveras,220,Secretary of State,,IND,Dan Schnur,18
 Calaveras,220,Secretary of State,,GRN,David Curtis,23
@@ -564,18 +580,15 @@ Calaveras,230,Controller,,DEM,John A. Pérez,33
 Calaveras,230,Controller,,GRN,Laura Wells,21
 Calaveras,230,Controller,,DEM,Tammy D. Blair,11
 Calaveras,230,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Calaveras,230,Governor,,DEM,Akinyemi Agbede,0
 Calaveras,230,Governor,,REP,Alma Marie Winston,3
 Calaveras,230,Governor,,REP,Andrew Blount,6
 Calaveras,230,Governor,,PAF,Cindy L. Sheehan,4
 Calaveras,230,Governor,,DEM,"Edmund G. ""Jerry"" Brown",86
 Calaveras,230,Governor,,REP,Glenn Champ,8
-Calaveras,230,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,230,Governor,,IND,Joe Leicht,1
 Calaveras,230,Governor,,GRN,Luis J. Rodriguez,2
 Calaveras,230,Governor,,REP,Neel Kashkari,51
 Calaveras,230,Governor,,IND,Rakesh Kumar Christian,1
-Calaveras,230,Governor,,REP,Richard William Aguirre,0
 Calaveras,230,Governor,,IND,Robert Newman,9
 Calaveras,230,Governor,,REP,Tim Donnelly,32
 Calaveras,230,Insurance Commissioner,,DEM,Dave Jones,70
@@ -589,6 +602,10 @@ Calaveras,230,Lieutenant Governor,,DEM,Gavin Newsom,66
 Calaveras,230,Lieutenant Governor,,REP,George Yang,18
 Calaveras,230,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Calaveras,230,Lieutenant Governor,,REP,Ron Nehring,63
+Calaveras,230,Proposition 41,,,No,88
+Calaveras,230,Proposition 41,,,Yes,115
+Calaveras,230,Proposition 42,,,No,97
+Calaveras,230,Proposition 42,,,Yes,100
 Calaveras,230,Secretary of State,,DEM,Alex Padilla,32
 Calaveras,230,Secretary of State,,IND,Dan Schnur,16
 Calaveras,230,Secretary of State,,GRN,David Curtis,10
@@ -636,7 +653,6 @@ Calaveras,240,Governor,,IND,Joe Leicht,1
 Calaveras,240,Governor,,GRN,Luis J. Rodriguez,1
 Calaveras,240,Governor,,REP,Neel Kashkari,98
 Calaveras,240,Governor,,IND,Rakesh Kumar Christian,1
-Calaveras,240,Governor,,REP,Richard William Aguirre,0
 Calaveras,240,Governor,,IND,Robert Newman,9
 Calaveras,240,Governor,,REP,Tim Donnelly,74
 Calaveras,240,Insurance Commissioner,,DEM,Dave Jones,120
@@ -650,6 +666,10 @@ Calaveras,240,Lieutenant Governor,,DEM,Gavin Newsom,125
 Calaveras,240,Lieutenant Governor,,REP,George Yang,28
 Calaveras,240,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Calaveras,240,Lieutenant Governor,,REP,Ron Nehring,113
+Calaveras,240,Proposition 41,,,No,157
+Calaveras,240,Proposition 41,,,Yes,190
+Calaveras,240,Proposition 42,,,No,168
+Calaveras,240,Proposition 42,,,Yes,164
 Calaveras,240,Secretary of State,,DEM,Alex Padilla,59
 Calaveras,240,Secretary of State,,IND,Dan Schnur,29
 Calaveras,240,Secretary of State,,GRN,David Curtis,21
@@ -692,12 +712,10 @@ Calaveras,250,Governor,,REP,Andrew Blount,8
 Calaveras,250,Governor,,PAF,Cindy L. Sheehan,4
 Calaveras,250,Governor,,DEM,"Edmund G. ""Jerry"" Brown",155
 Calaveras,250,Governor,,REP,Glenn Champ,5
-Calaveras,250,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,250,Governor,,IND,Joe Leicht,2
 Calaveras,250,Governor,,GRN,Luis J. Rodriguez,7
 Calaveras,250,Governor,,REP,Neel Kashkari,84
 Calaveras,250,Governor,,IND,Rakesh Kumar Christian,1
-Calaveras,250,Governor,,REP,Richard William Aguirre,0
 Calaveras,250,Governor,,IND,Robert Newman,4
 Calaveras,250,Governor,,REP,Tim Donnelly,47
 Calaveras,250,Insurance Commissioner,,DEM,Dave Jones,130
@@ -711,6 +729,10 @@ Calaveras,250,Lieutenant Governor,,DEM,Gavin Newsom,138
 Calaveras,250,Lieutenant Governor,,REP,George Yang,25
 Calaveras,250,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Calaveras,250,Lieutenant Governor,,REP,Ron Nehring,77
+Calaveras,250,Proposition 41,,,No,113
+Calaveras,250,Proposition 41,,,Yes,196
+Calaveras,250,Proposition 42,,,No,159
+Calaveras,250,Proposition 42,,,Yes,141
 Calaveras,250,Secretary of State,,DEM,Alex Padilla,75
 Calaveras,250,Secretary of State,,IND,Dan Schnur,30
 Calaveras,250,Secretary of State,,GRN,David Curtis,10
@@ -747,8 +769,6 @@ Calaveras,260,Controller,,DEM,John A. Pérez,44
 Calaveras,260,Controller,,GRN,Laura Wells,24
 Calaveras,260,Controller,,DEM,Tammy D. Blair,17
 Calaveras,260,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Calaveras,260,Governor,,DEM,Akinyemi Agbede,0
-Calaveras,260,Governor,,REP,Alma Marie Winston,0
 Calaveras,260,Governor,,REP,Andrew Blount,6
 Calaveras,260,Governor,,PAF,Cindy L. Sheehan,9
 Calaveras,260,Governor,,DEM,"Edmund G. ""Jerry"" Brown",134
@@ -772,6 +792,10 @@ Calaveras,260,Lieutenant Governor,,DEM,Gavin Newsom,131
 Calaveras,260,Lieutenant Governor,,REP,George Yang,16
 Calaveras,260,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Calaveras,260,Lieutenant Governor,,REP,Ron Nehring,95
+Calaveras,260,Proposition 41,,,No,127
+Calaveras,260,Proposition 41,,,Yes,186
+Calaveras,260,Proposition 42,,,No,161
+Calaveras,260,Proposition 42,,,Yes,144
 Calaveras,260,Secretary of State,,DEM,Alex Padilla,65
 Calaveras,260,Secretary of State,,IND,Dan Schnur,19
 Calaveras,260,Secretary of State,,GRN,David Curtis,20
@@ -814,7 +838,6 @@ Calaveras,310,Governor,,REP,Andrew Blount,11
 Calaveras,310,Governor,,PAF,Cindy L. Sheehan,8
 Calaveras,310,Governor,,DEM,"Edmund G. ""Jerry"" Brown",283
 Calaveras,310,Governor,,REP,Glenn Champ,9
-Calaveras,310,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,310,Governor,,IND,Joe Leicht,1
 Calaveras,310,Governor,,GRN,Luis J. Rodriguez,2
 Calaveras,310,Governor,,REP,Neel Kashkari,145
@@ -833,6 +856,10 @@ Calaveras,310,Lieutenant Governor,,DEM,Gavin Newsom,262
 Calaveras,310,Lieutenant Governor,,REP,George Yang,32
 Calaveras,310,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Calaveras,310,Lieutenant Governor,,REP,Ron Nehring,143
+Calaveras,310,Proposition 41,,,No,219
+Calaveras,310,Proposition 41,,,Yes,317
+Calaveras,310,Proposition 42,,,No,295
+Calaveras,310,Proposition 42,,,Yes,221
 Calaveras,310,Secretary of State,,DEM,Alex Padilla,125
 Calaveras,310,Secretary of State,,IND,Dan Schnur,44
 Calaveras,310,Secretary of State,,GRN,David Curtis,17
@@ -875,11 +902,9 @@ Calaveras,320,Governor,,REP,Andrew Blount,18
 Calaveras,320,Governor,,PAF,Cindy L. Sheehan,3
 Calaveras,320,Governor,,DEM,"Edmund G. ""Jerry"" Brown",196
 Calaveras,320,Governor,,REP,Glenn Champ,6
-Calaveras,320,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,320,Governor,,IND,Joe Leicht,1
 Calaveras,320,Governor,,GRN,Luis J. Rodriguez,4
 Calaveras,320,Governor,,REP,Neel Kashkari,118
-Calaveras,320,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,320,Governor,,REP,Richard William Aguirre,2
 Calaveras,320,Governor,,IND,Robert Newman,11
 Calaveras,320,Governor,,REP,Tim Donnelly,58
@@ -894,6 +919,10 @@ Calaveras,320,Lieutenant Governor,,DEM,Gavin Newsom,184
 Calaveras,320,Lieutenant Governor,,REP,George Yang,37
 Calaveras,320,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Calaveras,320,Lieutenant Governor,,REP,Ron Nehring,118
+Calaveras,320,Proposition 41,,,No,177
+Calaveras,320,Proposition 41,,,Yes,220
+Calaveras,320,Proposition 42,,,No,203
+Calaveras,320,Proposition 42,,,Yes,177
 Calaveras,320,Secretary of State,,DEM,Alex Padilla,90
 Calaveras,320,Secretary of State,,IND,Dan Schnur,41
 Calaveras,320,Secretary of State,,GRN,David Curtis,16
@@ -930,17 +959,14 @@ Calaveras,330,Controller,,DEM,John A. Pérez,102
 Calaveras,330,Controller,,GRN,Laura Wells,31
 Calaveras,330,Controller,,DEM,Tammy D. Blair,15
 Calaveras,330,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Calaveras,330,Governor,,DEM,Akinyemi Agbede,0
 Calaveras,330,Governor,,REP,Alma Marie Winston,1
 Calaveras,330,Governor,,REP,Andrew Blount,8
 Calaveras,330,Governor,,PAF,Cindy L. Sheehan,4
 Calaveras,330,Governor,,DEM,"Edmund G. ""Jerry"" Brown",248
 Calaveras,330,Governor,,REP,Glenn Champ,5
-Calaveras,330,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,330,Governor,,IND,Joe Leicht,3
 Calaveras,330,Governor,,GRN,Luis J. Rodriguez,5
 Calaveras,330,Governor,,REP,Neel Kashkari,125
-Calaveras,330,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,330,Governor,,REP,Richard William Aguirre,2
 Calaveras,330,Governor,,IND,Robert Newman,2
 Calaveras,330,Governor,,REP,Tim Donnelly,56
@@ -955,6 +981,10 @@ Calaveras,330,Lieutenant Governor,,DEM,Gavin Newsom,226
 Calaveras,330,Lieutenant Governor,,REP,George Yang,38
 Calaveras,330,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Calaveras,330,Lieutenant Governor,,REP,Ron Nehring,108
+Calaveras,330,Proposition 41,,,No,181
+Calaveras,330,Proposition 41,,,Yes,262
+Calaveras,330,Proposition 42,,,No,224
+Calaveras,330,Proposition 42,,,Yes,206
 Calaveras,330,Secretary of State,,DEM,Alex Padilla,111
 Calaveras,330,Secretary of State,,IND,Dan Schnur,37
 Calaveras,330,Secretary of State,,GRN,David Curtis,15
@@ -998,7 +1028,6 @@ Calaveras,350,Governor,,PAF,Cindy L. Sheehan,6
 Calaveras,350,Governor,,DEM,"Edmund G. ""Jerry"" Brown",324
 Calaveras,350,Governor,,REP,Glenn Champ,12
 Calaveras,350,Governor,,IND,Janel Hyeshia Buycks,1
-Calaveras,350,Governor,,IND,Joe Leicht,0
 Calaveras,350,Governor,,GRN,Luis J. Rodriguez,5
 Calaveras,350,Governor,,REP,Neel Kashkari,187
 Calaveras,350,Governor,,IND,Rakesh Kumar Christian,1
@@ -1016,6 +1045,10 @@ Calaveras,350,Lieutenant Governor,,DEM,Gavin Newsom,271
 Calaveras,350,Lieutenant Governor,,REP,George Yang,45
 Calaveras,350,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Calaveras,350,Lieutenant Governor,,REP,Ron Nehring,201
+Calaveras,350,Proposition 41,,,No,245
+Calaveras,350,Proposition 41,,,Yes,379
+Calaveras,350,Proposition 42,,,No,303
+Calaveras,350,Proposition 42,,,Yes,296
 Calaveras,350,Secretary of State,,DEM,Alex Padilla,126
 Calaveras,350,Secretary of State,,IND,Dan Schnur,63
 Calaveras,350,Secretary of State,,GRN,David Curtis,21
@@ -1077,6 +1110,10 @@ Calaveras,360,Lieutenant Governor,,DEM,Gavin Newsom,209
 Calaveras,360,Lieutenant Governor,,REP,George Yang,40
 Calaveras,360,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Calaveras,360,Lieutenant Governor,,REP,Ron Nehring,185
+Calaveras,360,Proposition 41,,,No,170
+Calaveras,360,Proposition 41,,,Yes,360
+Calaveras,360,Proposition 42,,,No,278
+Calaveras,360,Proposition 42,,,Yes,240
 Calaveras,360,Secretary of State,,DEM,Alex Padilla,106
 Calaveras,360,Secretary of State,,IND,Dan Schnur,49
 Calaveras,360,Secretary of State,,GRN,David Curtis,26
@@ -1112,9 +1149,7 @@ Calaveras,370,Controller,,REP,David Evans,159
 Calaveras,370,Controller,,DEM,John A. Pérez,72
 Calaveras,370,Controller,,GRN,Laura Wells,20
 Calaveras,370,Controller,,DEM,Tammy D. Blair,17
-Calaveras,370,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Calaveras,370,Governor,,DEM,Akinyemi Agbede,2
-Calaveras,370,Governor,,REP,Alma Marie Winston,0
 Calaveras,370,Governor,,REP,Andrew Blount,11
 Calaveras,370,Governor,,PAF,Cindy L. Sheehan,5
 Calaveras,370,Governor,,DEM,"Edmund G. ""Jerry"" Brown",221
@@ -1138,6 +1173,10 @@ Calaveras,370,Lieutenant Governor,,DEM,Gavin Newsom,203
 Calaveras,370,Lieutenant Governor,,REP,George Yang,37
 Calaveras,370,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Calaveras,370,Lieutenant Governor,,REP,Ron Nehring,137
+Calaveras,370,Proposition 41,,,No,162
+Calaveras,370,Proposition 41,,,Yes,273
+Calaveras,370,Proposition 42,,,No,218
+Calaveras,370,Proposition 42,,,Yes,203
 Calaveras,370,Secretary of State,,DEM,Alex Padilla,89
 Calaveras,370,Secretary of State,,IND,Dan Schnur,25
 Calaveras,370,Secretary of State,,GRN,David Curtis,12
@@ -1180,7 +1219,6 @@ Calaveras,410,Governor,,REP,Andrew Blount,18
 Calaveras,410,Governor,,PAF,Cindy L. Sheehan,1
 Calaveras,410,Governor,,DEM,"Edmund G. ""Jerry"" Brown",166
 Calaveras,410,Governor,,REP,Glenn Champ,14
-Calaveras,410,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,410,Governor,,IND,Joe Leicht,2
 Calaveras,410,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,410,Governor,,REP,Neel Kashkari,124
@@ -1199,6 +1237,10 @@ Calaveras,410,Lieutenant Governor,,DEM,Gavin Newsom,143
 Calaveras,410,Lieutenant Governor,,REP,George Yang,33
 Calaveras,410,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Calaveras,410,Lieutenant Governor,,REP,Ron Nehring,146
+Calaveras,410,Proposition 41,,,No,213
+Calaveras,410,Proposition 41,,,Yes,217
+Calaveras,410,Proposition 42,,,No,247
+Calaveras,410,Proposition 42,,,Yes,181
 Calaveras,410,Secretary of State,,DEM,Alex Padilla,65
 Calaveras,410,Secretary of State,,IND,Dan Schnur,44
 Calaveras,410,Secretary of State,,GRN,David Curtis,11
@@ -1234,7 +1276,6 @@ Calaveras,420,Controller,,REP,David Evans,113
 Calaveras,420,Controller,,DEM,John A. Pérez,68
 Calaveras,420,Controller,,GRN,Laura Wells,23
 Calaveras,420,Controller,,DEM,Tammy D. Blair,15
-Calaveras,420,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Calaveras,420,Governor,,DEM,Akinyemi Agbede,1
 Calaveras,420,Governor,,REP,Alma Marie Winston,5
 Calaveras,420,Governor,,REP,Andrew Blount,13
@@ -1245,7 +1286,6 @@ Calaveras,420,Governor,,IND,Janel Hyeshia Buycks,2
 Calaveras,420,Governor,,IND,Joe Leicht,1
 Calaveras,420,Governor,,GRN,Luis J. Rodriguez,2
 Calaveras,420,Governor,,REP,Neel Kashkari,91
-Calaveras,420,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,420,Governor,,REP,Richard William Aguirre,2
 Calaveras,420,Governor,,IND,Robert Newman,5
 Calaveras,420,Governor,,REP,Tim Donnelly,74
@@ -1260,6 +1300,10 @@ Calaveras,420,Lieutenant Governor,,DEM,Gavin Newsom,136
 Calaveras,420,Lieutenant Governor,,REP,George Yang,28
 Calaveras,420,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Calaveras,420,Lieutenant Governor,,REP,Ron Nehring,119
+Calaveras,420,Proposition 41,,,No,161
+Calaveras,420,Proposition 41,,,Yes,200
+Calaveras,420,Proposition 42,,,No,201
+Calaveras,420,Proposition 42,,,Yes,143
 Calaveras,420,Secretary of State,,DEM,Alex Padilla,64
 Calaveras,420,Secretary of State,,IND,Dan Schnur,27
 Calaveras,420,Secretary of State,,GRN,David Curtis,15
@@ -1306,7 +1350,6 @@ Calaveras,430,Governor,,IND,Janel Hyeshia Buycks,1
 Calaveras,430,Governor,,IND,Joe Leicht,1
 Calaveras,430,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,430,Governor,,REP,Neel Kashkari,162
-Calaveras,430,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,430,Governor,,REP,Richard William Aguirre,1
 Calaveras,430,Governor,,IND,Robert Newman,5
 Calaveras,430,Governor,,REP,Tim Donnelly,124
@@ -1321,6 +1364,10 @@ Calaveras,430,Lieutenant Governor,,DEM,Gavin Newsom,252
 Calaveras,430,Lieutenant Governor,,REP,George Yang,45
 Calaveras,430,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Calaveras,430,Lieutenant Governor,,REP,Ron Nehring,216
+Calaveras,430,Proposition 41,,,No,262
+Calaveras,430,Proposition 41,,,Yes,335
+Calaveras,430,Proposition 42,,,No,333
+Calaveras,430,Proposition 42,,,Yes,248
 Calaveras,430,Secretary of State,,DEM,Alex Padilla,106
 Calaveras,430,Secretary of State,,IND,Dan Schnur,68
 Calaveras,430,Secretary of State,,GRN,David Curtis,13
@@ -1382,6 +1429,10 @@ Calaveras,440,Lieutenant Governor,,DEM,Gavin Newsom,128
 Calaveras,440,Lieutenant Governor,,REP,George Yang,31
 Calaveras,440,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Calaveras,440,Lieutenant Governor,,REP,Ron Nehring,130
+Calaveras,440,Proposition 41,,,No,170
+Calaveras,440,Proposition 41,,,Yes,207
+Calaveras,440,Proposition 42,,,No,184
+Calaveras,440,Proposition 42,,,Yes,180
 Calaveras,440,Secretary of State,,DEM,Alex Padilla,70
 Calaveras,440,Secretary of State,,IND,Dan Schnur,38
 Calaveras,440,Secretary of State,,GRN,David Curtis,16
@@ -1424,11 +1475,9 @@ Calaveras,450,Governor,,REP,Andrew Blount,18
 Calaveras,450,Governor,,PAF,Cindy L. Sheehan,3
 Calaveras,450,Governor,,DEM,"Edmund G. ""Jerry"" Brown",103
 Calaveras,450,Governor,,REP,Glenn Champ,5
-Calaveras,450,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,450,Governor,,IND,Joe Leicht,1
 Calaveras,450,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,450,Governor,,REP,Neel Kashkari,82
-Calaveras,450,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,450,Governor,,REP,Richard William Aguirre,3
 Calaveras,450,Governor,,IND,Robert Newman,13
 Calaveras,450,Governor,,REP,Tim Donnelly,97
@@ -1443,6 +1492,10 @@ Calaveras,450,Lieutenant Governor,,DEM,Gavin Newsom,84
 Calaveras,450,Lieutenant Governor,,REP,George Yang,31
 Calaveras,450,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Calaveras,450,Lieutenant Governor,,REP,Ron Nehring,136
+Calaveras,450,Proposition 41,,,No,166
+Calaveras,450,Proposition 41,,,Yes,163
+Calaveras,450,Proposition 42,,,No,168
+Calaveras,450,Proposition 42,,,Yes,149
 Calaveras,450,Secretary of State,,DEM,Alex Padilla,46
 Calaveras,450,Secretary of State,,IND,Dan Schnur,29
 Calaveras,450,Secretary of State,,GRN,David Curtis,11
@@ -1485,25 +1538,23 @@ Calaveras,460,Governor,,REP,Andrew Blount,12
 Calaveras,460,Governor,,PAF,Cindy L. Sheehan,2
 Calaveras,460,Governor,,DEM,"Edmund G. ""Jerry"" Brown",102
 Calaveras,460,Governor,,REP,Glenn Champ,7
-Calaveras,460,Governor,,IND,Janel Hyeshia Buycks,0
-Calaveras,460,Governor,,IND,Joe Leicht,0
-Calaveras,460,Governor,,GRN,Luis J. Rodriguez,0
 Calaveras,460,Governor,,REP,Neel Kashkari,83
-Calaveras,460,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,460,Governor,,REP,Richard William Aguirre,1
-Calaveras,460,Governor,,IND,Robert Newman,0
 Calaveras,460,Governor,,REP,Tim Donnelly,52
 Calaveras,460,Insurance Commissioner,,DEM,Dave Jones,86
 Calaveras,460,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Calaveras,460,Insurance Commissioner,,REP,Ted Gaines,163
 Calaveras,460,Lieutenant Governor,,AME,Alan Reynolds,3
-Calaveras,460,Lieutenant Governor,,PAF,Amos Johnson,0
 Calaveras,460,Lieutenant Governor,,REP,David Fennell,31
 Calaveras,460,Lieutenant Governor,,DEM,Eric Korevaar,6
 Calaveras,460,Lieutenant Governor,,DEM,Gavin Newsom,95
 Calaveras,460,Lieutenant Governor,,REP,George Yang,17
 Calaveras,460,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Calaveras,460,Lieutenant Governor,,REP,Ron Nehring,102
+Calaveras,460,Proposition 41,,,No,105
+Calaveras,460,Proposition 41,,,Yes,150
+Calaveras,460,Proposition 42,,,No,106
+Calaveras,460,Proposition 42,,,Yes,136
 Calaveras,460,Secretary of State,,DEM,Alex Padilla,45
 Calaveras,460,Secretary of State,,IND,Dan Schnur,55
 Calaveras,460,Secretary of State,,GRN,David Curtis,5
@@ -1539,15 +1590,12 @@ Calaveras,530,Controller,,REP,David Evans,141
 Calaveras,530,Controller,,DEM,John A. Pérez,31
 Calaveras,530,Controller,,GRN,Laura Wells,12
 Calaveras,530,Controller,,DEM,Tammy D. Blair,13
-Calaveras,530,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Calaveras,530,Governor,,DEM,Akinyemi Agbede,2
 Calaveras,530,Governor,,REP,Alma Marie Winston,3
 Calaveras,530,Governor,,REP,Andrew Blount,8
 Calaveras,530,Governor,,PAF,Cindy L. Sheehan,6
 Calaveras,530,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Calaveras,530,Governor,,REP,Glenn Champ,8
-Calaveras,530,Governor,,IND,Janel Hyeshia Buycks,0
-Calaveras,530,Governor,,IND,Joe Leicht,0
 Calaveras,530,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,530,Governor,,REP,Neel Kashkari,119
 Calaveras,530,Governor,,IND,Rakesh Kumar Christian,2
@@ -1565,6 +1613,10 @@ Calaveras,530,Lieutenant Governor,,DEM,Gavin Newsom,91
 Calaveras,530,Lieutenant Governor,,REP,George Yang,28
 Calaveras,530,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Calaveras,530,Lieutenant Governor,,REP,Ron Nehring,153
+Calaveras,530,Proposition 41,,,No,193
+Calaveras,530,Proposition 41,,,Yes,167
+Calaveras,530,Proposition 42,,,No,187
+Calaveras,530,Proposition 42,,,Yes,165
 Calaveras,530,Secretary of State,,DEM,Alex Padilla,52
 Calaveras,530,Secretary of State,,IND,Dan Schnur,26
 Calaveras,530,Secretary of State,,GRN,David Curtis,12
@@ -1607,8 +1659,6 @@ Calaveras,540,Governor,,REP,Andrew Blount,9
 Calaveras,540,Governor,,PAF,Cindy L. Sheehan,4
 Calaveras,540,Governor,,DEM,"Edmund G. ""Jerry"" Brown",167
 Calaveras,540,Governor,,REP,Glenn Champ,10
-Calaveras,540,Governor,,IND,Janel Hyeshia Buycks,0
-Calaveras,540,Governor,,IND,Joe Leicht,0
 Calaveras,540,Governor,,GRN,Luis J. Rodriguez,2
 Calaveras,540,Governor,,REP,Neel Kashkari,122
 Calaveras,540,Governor,,IND,Rakesh Kumar Christian,1
@@ -1626,6 +1676,10 @@ Calaveras,540,Lieutenant Governor,,DEM,Gavin Newsom,136
 Calaveras,540,Lieutenant Governor,,REP,George Yang,43
 Calaveras,540,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Calaveras,540,Lieutenant Governor,,REP,Ron Nehring,147
+Calaveras,540,Proposition 41,,,No,190
+Calaveras,540,Proposition 41,,,Yes,214
+Calaveras,540,Proposition 42,,,No,210
+Calaveras,540,Proposition 42,,,Yes,190
 Calaveras,540,Secretary of State,,DEM,Alex Padilla,73
 Calaveras,540,Secretary of State,,IND,Dan Schnur,32
 Calaveras,540,Secretary of State,,GRN,David Curtis,11
@@ -1668,7 +1722,6 @@ Calaveras,550,Governor,,REP,Andrew Blount,16
 Calaveras,550,Governor,,PAF,Cindy L. Sheehan,6
 Calaveras,550,Governor,,DEM,"Edmund G. ""Jerry"" Brown",199
 Calaveras,550,Governor,,REP,Glenn Champ,14
-Calaveras,550,Governor,,IND,Janel Hyeshia Buycks,0
 Calaveras,550,Governor,,IND,Joe Leicht,2
 Calaveras,550,Governor,,GRN,Luis J. Rodriguez,3
 Calaveras,550,Governor,,REP,Neel Kashkari,127
@@ -1687,6 +1740,10 @@ Calaveras,550,Lieutenant Governor,,DEM,Gavin Newsom,170
 Calaveras,550,Lieutenant Governor,,REP,George Yang,48
 Calaveras,550,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Calaveras,550,Lieutenant Governor,,REP,Ron Nehring,178
+Calaveras,550,Proposition 41,,,No,269
+Calaveras,550,Proposition 41,,,Yes,243
+Calaveras,550,Proposition 42,,,No,275
+Calaveras,550,Proposition 42,,,Yes,223
 Calaveras,550,Secretary of State,,DEM,Alex Padilla,78
 Calaveras,550,Secretary of State,,IND,Dan Schnur,55
 Calaveras,550,Secretary of State,,GRN,David Curtis,14
@@ -1748,6 +1805,10 @@ Calaveras,560,Lieutenant Governor,,DEM,Gavin Newsom,135
 Calaveras,560,Lieutenant Governor,,REP,George Yang,30
 Calaveras,560,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Calaveras,560,Lieutenant Governor,,REP,Ron Nehring,169
+Calaveras,560,Proposition 41,,,No,180
+Calaveras,560,Proposition 41,,,Yes,240
+Calaveras,560,Proposition 42,,,No,241
+Calaveras,560,Proposition 42,,,Yes,164
 Calaveras,560,Secretary of State,,DEM,Alex Padilla,62
 Calaveras,560,Secretary of State,,IND,Dan Schnur,29
 Calaveras,560,Secretary of State,,GRN,David Curtis,21
@@ -1783,18 +1844,13 @@ Calaveras,570,Controller,,REP,David Evans,135
 Calaveras,570,Controller,,DEM,John A. Pérez,47
 Calaveras,570,Controller,,GRN,Laura Wells,22
 Calaveras,570,Controller,,DEM,Tammy D. Blair,12
-Calaveras,570,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Calaveras,570,Governor,,DEM,Akinyemi Agbede,0
 Calaveras,570,Governor,,REP,Alma Marie Winston,4
 Calaveras,570,Governor,,REP,Andrew Blount,18
 Calaveras,570,Governor,,PAF,Cindy L. Sheehan,5
 Calaveras,570,Governor,,DEM,"Edmund G. ""Jerry"" Brown",133
 Calaveras,570,Governor,,REP,Glenn Champ,10
-Calaveras,570,Governor,,IND,Janel Hyeshia Buycks,0
-Calaveras,570,Governor,,IND,Joe Leicht,0
 Calaveras,570,Governor,,GRN,Luis J. Rodriguez,6
 Calaveras,570,Governor,,REP,Neel Kashkari,90
-Calaveras,570,Governor,,IND,Rakesh Kumar Christian,0
 Calaveras,570,Governor,,REP,Richard William Aguirre,1
 Calaveras,570,Governor,,IND,Robert Newman,9
 Calaveras,570,Governor,,REP,Tim Donnelly,106
@@ -1809,6 +1865,10 @@ Calaveras,570,Lieutenant Governor,,DEM,Gavin Newsom,125
 Calaveras,570,Lieutenant Governor,,REP,George Yang,31
 Calaveras,570,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Calaveras,570,Lieutenant Governor,,REP,Ron Nehring,149
+Calaveras,570,Proposition 41,,,No,165
+Calaveras,570,Proposition 41,,,Yes,208
+Calaveras,570,Proposition 42,,,No,211
+Calaveras,570,Proposition 42,,,Yes,155
 Calaveras,570,Secretary of State,,DEM,Alex Padilla,48
 Calaveras,570,Secretary of State,,IND,Dan Schnur,36
 Calaveras,570,Secretary of State,,GRN,David Curtis,13

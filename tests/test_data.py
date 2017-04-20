@@ -9,6 +9,7 @@ columns = ['candidate', 'county', 'district', 'office', 'votes']
 
 
 @pytest.mark.parametrize("year,date,election_type", [
+    ("2014", "0603", "primary"),
     ("2014", "1104", "general"),
     ("2015", "0317", "special__primary"),
     ("2015", "0519", "special__general"),

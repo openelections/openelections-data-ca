@@ -14,32 +14,29 @@ Trinity,1,Controller,,REP,David Evans,21
 Trinity,1,Controller,,DEM,John A. Pérez,9
 Trinity,1,Controller,,GRN,Laura Wells,5
 Trinity,1,Controller,,DEM,Tammy D. Blair,6
-Trinity,1,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Trinity,1,Governor,,DEM,Akinyemi Agbede,1
 Trinity,1,Governor,,REP,Alma Marie Winston,7
 Trinity,1,Governor,,REP,Andrew Blount,4
 Trinity,1,Governor,,PAF,Cindy L. Sheehan,2
 Trinity,1,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Trinity,1,Governor,,REP,Glenn Champ,3
-Trinity,1,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,1,Governor,,IND,Joe Leicht,0
 Trinity,1,Governor,,GRN,Luis J. Rodriguez,1
 Trinity,1,Governor,,REP,Neel Kashkari,6
-Trinity,1,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,1,Governor,,REP,Richard William Aguirre,0
 Trinity,1,Governor,,IND,Robert Newman,2
 Trinity,1,Governor,,REP,Tim Donnelly,17
 Trinity,1,Insurance Commissioner,,DEM,Dave Jones,29
 Trinity,1,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Trinity,1,Insurance Commissioner,,REP,Ted Gaines,35
-Trinity,1,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,1,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,1,Lieutenant Governor,,REP,David Fennell,4
 Trinity,1,Lieutenant Governor,,DEM,Eric Korevaar,6
 Trinity,1,Lieutenant Governor,,DEM,Gavin Newsom,28
 Trinity,1,Lieutenant Governor,,REP,George Yang,13
 Trinity,1,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Trinity,1,Lieutenant Governor,,REP,Ron Nehring,15
+Trinity,1,Proposition 41,,,No,37
+Trinity,1,Proposition 41,,,Yes,38
+Trinity,1,Proposition 42,,,No,38
+Trinity,1,Proposition 42,,,Yes,32
 Trinity,1,Secretary of State,,DEM,Alex Padilla,14
 Trinity,1,Secretary of State,,IND,Dan Schnur,5
 Trinity,1,Secretary of State,,GRN,David Curtis,8
@@ -106,6 +103,10 @@ Trinity,10,Lieutenant Governor,,DEM,Gavin Newsom,121
 Trinity,10,Lieutenant Governor,,REP,George Yang,42
 Trinity,10,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Trinity,10,Lieutenant Governor,,REP,Ron Nehring,55
+Trinity,10,Proposition 41,,,No,121
+Trinity,10,Proposition 41,,,Yes,183
+Trinity,10,Proposition 42,,,No,151
+Trinity,10,Proposition 42,,,Yes,144
 Trinity,10,Secretary of State,,DEM,Alex Padilla,66
 Trinity,10,Secretary of State,,IND,Dan Schnur,6
 Trinity,10,Secretary of State,,GRN,David Curtis,15
@@ -131,8 +132,6 @@ Trinity,10,Treasurer,,DEM,John Chiang,132
 Trinity,10,U.S. House,2,DEM,Andy Caffrey,41
 Trinity,10,U.S. House,2,REP,Dale K. Mensing,121
 Trinity,10,U.S. House,2,DEM,Jared Huffman,124
-Trinity,11,Attorney General,,REP,David King,0
-Trinity,11,Attorney General,,REP,John Haggerty,0
 Trinity,11,Attorney General,,LIB,Jonathan Jaech,1
 Trinity,11,Attorney General,,DEM,Kamala D. Harris,6
 Trinity,11,Attorney General,,IND,Orly Taitz,2
@@ -146,37 +145,25 @@ Trinity,11,Controller,,REP,David Evans,7
 Trinity,11,Controller,,DEM,John A. Pérez,1
 Trinity,11,Controller,,GRN,Laura Wells,2
 Trinity,11,Controller,,DEM,Tammy D. Blair,1
-Trinity,11,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,11,Governor,,DEM,Akinyemi Agbede,0
 Trinity,11,Governor,,REP,Alma Marie Winston,4
-Trinity,11,Governor,,REP,Andrew Blount,0
-Trinity,11,Governor,,PAF,Cindy L. Sheehan,0
 Trinity,11,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
 Trinity,11,Governor,,REP,Glenn Champ,1
-Trinity,11,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,11,Governor,,IND,Joe Leicht,0
-Trinity,11,Governor,,GRN,Luis J. Rodriguez,0
 Trinity,11,Governor,,REP,Neel Kashkari,1
-Trinity,11,Governor,,IND,Rakesh Kumar Christian,0
 Trinity,11,Governor,,REP,Richard William Aguirre,1
-Trinity,11,Governor,,IND,Robert Newman,0
 Trinity,11,Governor,,REP,Tim Donnelly,2
 Trinity,11,Insurance Commissioner,,DEM,Dave Jones,7
-Trinity,11,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Trinity,11,Insurance Commissioner,,REP,Ted Gaines,9
-Trinity,11,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,11,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,11,Lieutenant Governor,,REP,David Fennell,1
 Trinity,11,Lieutenant Governor,,DEM,Eric Korevaar,3
 Trinity,11,Lieutenant Governor,,DEM,Gavin Newsom,4
 Trinity,11,Lieutenant Governor,,REP,George Yang,2
-Trinity,11,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Trinity,11,Lieutenant Governor,,REP,Ron Nehring,6
+Trinity,11,Proposition 41,,,No,9
+Trinity,11,Proposition 41,,,Yes,8
+Trinity,11,Proposition 42,,,No,10
+Trinity,11,Proposition 42,,,Yes,7
 Trinity,11,Secretary of State,,DEM,Alex Padilla,3
-Trinity,11,Secretary of State,,IND,Dan Schnur,0
-Trinity,11,Secretary of State,,GRN,David Curtis,0
 Trinity,11,Secretary of State,,DEM,Derek Cressman,2
-Trinity,11,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Trinity,11,Secretary of State,,DEM,Leland Yee,2
 Trinity,11,Secretary of State,,REP,Pete Peterson,5
 Trinity,11,Secretary of State,,REP,Roy Allmond,4
@@ -212,32 +199,28 @@ Trinity,12,Controller,,REP,David Evans,22
 Trinity,12,Controller,,DEM,John A. Pérez,3
 Trinity,12,Controller,,GRN,Laura Wells,6
 Trinity,12,Controller,,DEM,Tammy D. Blair,4
-Trinity,12,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,12,Governor,,DEM,Akinyemi Agbede,0
 Trinity,12,Governor,,REP,Alma Marie Winston,1
 Trinity,12,Governor,,REP,Andrew Blount,1
-Trinity,12,Governor,,PAF,Cindy L. Sheehan,0
 Trinity,12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Trinity,12,Governor,,REP,Glenn Champ,4
-Trinity,12,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,12,Governor,,IND,Joe Leicht,0
 Trinity,12,Governor,,GRN,Luis J. Rodriguez,3
 Trinity,12,Governor,,REP,Neel Kashkari,7
-Trinity,12,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,12,Governor,,REP,Richard William Aguirre,0
 Trinity,12,Governor,,IND,Robert Newman,1
 Trinity,12,Governor,,REP,Tim Donnelly,12
 Trinity,12,Insurance Commissioner,,DEM,Dave Jones,20
 Trinity,12,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Trinity,12,Insurance Commissioner,,REP,Ted Gaines,26
 Trinity,12,Lieutenant Governor,,AME,Alan Reynolds,1
-Trinity,12,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,12,Lieutenant Governor,,REP,David Fennell,5
 Trinity,12,Lieutenant Governor,,DEM,Eric Korevaar,9
 Trinity,12,Lieutenant Governor,,DEM,Gavin Newsom,13
 Trinity,12,Lieutenant Governor,,REP,George Yang,7
 Trinity,12,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Trinity,12,Lieutenant Governor,,REP,Ron Nehring,13
+Trinity,12,Proposition 41,,,No,24
+Trinity,12,Proposition 41,,,Yes,26
+Trinity,12,Proposition 42,,,No,28
+Trinity,12,Proposition 42,,,Yes,23
 Trinity,12,Secretary of State,,DEM,Alex Padilla,4
 Trinity,12,Secretary of State,,IND,Dan Schnur,4
 Trinity,12,Secretary of State,,GRN,David Curtis,3
@@ -250,7 +233,6 @@ Trinity,12,State Assembly,2,DEM,Jim Wood,9
 Trinity,12,State Assembly,2,DEM,John Lowry,7
 Trinity,12,State Assembly,2,REP,Matt Heath,27
 Trinity,12,State Assembly,2,GRN,Pamela Elizondo,6
-Trinity,12,State Senate,2,DEM,Derek Knell,0
 Trinity,12,State Senate,2,IND,Harry V. Lehmann,1
 Trinity,12,State Senate,2,REP,Lawrence R. Wiesner,26
 Trinity,12,State Senate,2,DEM,Mike McGuire,21
@@ -279,18 +261,15 @@ Trinity,13,Controller,,DEM,John A. Pérez,40
 Trinity,13,Controller,,GRN,Laura Wells,38
 Trinity,13,Controller,,DEM,Tammy D. Blair,20
 Trinity,13,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Trinity,13,Governor,,DEM,Akinyemi Agbede,0
 Trinity,13,Governor,,REP,Alma Marie Winston,6
 Trinity,13,Governor,,REP,Andrew Blount,3
 Trinity,13,Governor,,PAF,Cindy L. Sheehan,8
 Trinity,13,Governor,,DEM,"Edmund G. ""Jerry"" Brown",119
 Trinity,13,Governor,,REP,Glenn Champ,6
 Trinity,13,Governor,,IND,Janel Hyeshia Buycks,2
-Trinity,13,Governor,,IND,Joe Leicht,0
 Trinity,13,Governor,,GRN,Luis J. Rodriguez,14
 Trinity,13,Governor,,REP,Neel Kashkari,19
 Trinity,13,Governor,,IND,Rakesh Kumar Christian,1
-Trinity,13,Governor,,REP,Richard William Aguirre,0
 Trinity,13,Governor,,IND,Robert Newman,9
 Trinity,13,Governor,,REP,Tim Donnelly,46
 Trinity,13,Insurance Commissioner,,DEM,Dave Jones,110
@@ -304,6 +283,10 @@ Trinity,13,Lieutenant Governor,,DEM,Gavin Newsom,109
 Trinity,13,Lieutenant Governor,,REP,George Yang,25
 Trinity,13,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Trinity,13,Lieutenant Governor,,REP,Ron Nehring,43
+Trinity,13,Proposition 41,,,No,96
+Trinity,13,Proposition 41,,,Yes,139
+Trinity,13,Proposition 42,,,No,133
+Trinity,13,Proposition 42,,,Yes,94
 Trinity,13,Secretary of State,,DEM,Alex Padilla,58
 Trinity,13,Secretary of State,,IND,Dan Schnur,14
 Trinity,13,Secretary of State,,GRN,David Curtis,19
@@ -356,8 +339,6 @@ Trinity,14,Governor,,IND,Joe Leicht,1
 Trinity,14,Governor,,GRN,Luis J. Rodriguez,2
 Trinity,14,Governor,,REP,Neel Kashkari,5
 Trinity,14,Governor,,IND,Rakesh Kumar Christian,1
-Trinity,14,Governor,,REP,Richard William Aguirre,0
-Trinity,14,Governor,,IND,Robert Newman,0
 Trinity,14,Governor,,REP,Tim Donnelly,16
 Trinity,14,Insurance Commissioner,,DEM,Dave Jones,28
 Trinity,14,Insurance Commissioner,,PAF,Nathalie Hrizi,11
@@ -370,6 +351,10 @@ Trinity,14,Lieutenant Governor,,DEM,Gavin Newsom,21
 Trinity,14,Lieutenant Governor,,REP,George Yang,8
 Trinity,14,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Trinity,14,Lieutenant Governor,,REP,Ron Nehring,10
+Trinity,14,Proposition 41,,,No,33
+Trinity,14,Proposition 41,,,Yes,39
+Trinity,14,Proposition 42,,,No,39
+Trinity,14,Proposition 42,,,Yes,31
 Trinity,14,Secretary of State,,DEM,Alex Padilla,13
 Trinity,14,Secretary of State,,IND,Dan Schnur,4
 Trinity,14,Secretary of State,,GRN,David Curtis,9
@@ -397,7 +382,6 @@ Trinity,14,U.S. House,2,REP,Dale K. Mensing,36
 Trinity,14,U.S. House,2,DEM,Jared Huffman,31
 Trinity,15,Attorney General,,REP,David King,5
 Trinity,15,Attorney General,,REP,John Haggerty,8
-Trinity,15,Attorney General,,LIB,Jonathan Jaech,0
 Trinity,15,Attorney General,,DEM,Kamala D. Harris,38
 Trinity,15,Attorney General,,IND,Orly Taitz,1
 Trinity,15,Attorney General,,REP,Phil Wyman,9
@@ -410,32 +394,28 @@ Trinity,15,Controller,,REP,David Evans,17
 Trinity,15,Controller,,DEM,John A. Pérez,4
 Trinity,15,Controller,,GRN,Laura Wells,7
 Trinity,15,Controller,,DEM,Tammy D. Blair,6
-Trinity,15,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,15,Governor,,DEM,Akinyemi Agbede,0
 Trinity,15,Governor,,REP,Alma Marie Winston,2
 Trinity,15,Governor,,REP,Andrew Blount,4
 Trinity,15,Governor,,PAF,Cindy L. Sheehan,2
 Trinity,15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",35
 Trinity,15,Governor,,REP,Glenn Champ,4
-Trinity,15,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,15,Governor,,IND,Joe Leicht,0
 Trinity,15,Governor,,GRN,Luis J. Rodriguez,3
 Trinity,15,Governor,,REP,Neel Kashkari,7
-Trinity,15,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,15,Governor,,REP,Richard William Aguirre,0
 Trinity,15,Governor,,IND,Robert Newman,1
 Trinity,15,Governor,,REP,Tim Donnelly,10
 Trinity,15,Insurance Commissioner,,DEM,Dave Jones,33
 Trinity,15,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Trinity,15,Insurance Commissioner,,REP,Ted Gaines,21
-Trinity,15,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,15,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,15,Lieutenant Governor,,REP,David Fennell,4
 Trinity,15,Lieutenant Governor,,DEM,Eric Korevaar,8
 Trinity,15,Lieutenant Governor,,DEM,Gavin Newsom,31
 Trinity,15,Lieutenant Governor,,REP,George Yang,6
 Trinity,15,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Trinity,15,Lieutenant Governor,,REP,Ron Nehring,11
+Trinity,15,Proposition 41,,,No,24
+Trinity,15,Proposition 41,,,Yes,42
+Trinity,15,Proposition 42,,,No,28
+Trinity,15,Proposition 42,,,Yes,32
 Trinity,15,Secretary of State,,DEM,Alex Padilla,11
 Trinity,15,Secretary of State,,IND,Dan Schnur,3
 Trinity,15,Secretary of State,,GRN,David Curtis,3
@@ -483,25 +463,24 @@ Trinity,16,Governor,,REP,Andrew Blount,3
 Trinity,16,Governor,,PAF,Cindy L. Sheehan,3
 Trinity,16,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
 Trinity,16,Governor,,REP,Glenn Champ,4
-Trinity,16,Governor,,IND,Janel Hyeshia Buycks,0
 Trinity,16,Governor,,IND,Joe Leicht,1
 Trinity,16,Governor,,GRN,Luis J. Rodriguez,1
 Trinity,16,Governor,,REP,Neel Kashkari,8
-Trinity,16,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,16,Governor,,REP,Richard William Aguirre,0
 Trinity,16,Governor,,IND,Robert Newman,1
 Trinity,16,Governor,,REP,Tim Donnelly,16
 Trinity,16,Insurance Commissioner,,DEM,Dave Jones,33
 Trinity,16,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Trinity,16,Insurance Commissioner,,REP,Ted Gaines,33
-Trinity,16,Lieutenant Governor,,AME,Alan Reynolds,0
 Trinity,16,Lieutenant Governor,,PAF,Amos Johnson,3
 Trinity,16,Lieutenant Governor,,REP,David Fennell,3
 Trinity,16,Lieutenant Governor,,DEM,Eric Korevaar,10
 Trinity,16,Lieutenant Governor,,DEM,Gavin Newsom,26
 Trinity,16,Lieutenant Governor,,REP,George Yang,12
-Trinity,16,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Trinity,16,Lieutenant Governor,,REP,Ron Nehring,18
+Trinity,16,Proposition 41,,,No,43
+Trinity,16,Proposition 41,,,Yes,33
+Trinity,16,Proposition 42,,,No,43
+Trinity,16,Proposition 42,,,Yes,31
 Trinity,16,Secretary of State,,DEM,Alex Padilla,16
 Trinity,16,Secretary of State,,IND,Dan Schnur,5
 Trinity,16,Secretary of State,,GRN,David Curtis,5
@@ -543,7 +522,6 @@ Trinity,17,Controller,,DEM,John A. Pérez,32
 Trinity,17,Controller,,GRN,Laura Wells,18
 Trinity,17,Controller,,DEM,Tammy D. Blair,13
 Trinity,17,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Trinity,17,Governor,,DEM,Akinyemi Agbede,0
 Trinity,17,Governor,,REP,Alma Marie Winston,15
 Trinity,17,Governor,,REP,Andrew Blount,9
 Trinity,17,Governor,,PAF,Cindy L. Sheehan,3
@@ -568,6 +546,10 @@ Trinity,17,Lieutenant Governor,,DEM,Gavin Newsom,71
 Trinity,17,Lieutenant Governor,,REP,George Yang,33
 Trinity,17,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Trinity,17,Lieutenant Governor,,REP,Ron Nehring,41
+Trinity,17,Proposition 41,,,No,86
+Trinity,17,Proposition 41,,,Yes,109
+Trinity,17,Proposition 42,,,No,123
+Trinity,17,Proposition 42,,,Yes,74
 Trinity,17,Secretary of State,,DEM,Alex Padilla,36
 Trinity,17,Secretary of State,,IND,Dan Schnur,18
 Trinity,17,Secretary of State,,GRN,David Curtis,12
@@ -595,7 +577,6 @@ Trinity,17,U.S. House,2,REP,Dale K. Mensing,77
 Trinity,17,U.S. House,2,DEM,Jared Huffman,96
 Trinity,18,Attorney General,,REP,David King,10
 Trinity,18,Attorney General,,REP,John Haggerty,8
-Trinity,18,Attorney General,,LIB,Jonathan Jaech,0
 Trinity,18,Attorney General,,DEM,Kamala D. Harris,25
 Trinity,18,Attorney General,,IND,Orly Taitz,1
 Trinity,18,Attorney General,,REP,Phil Wyman,11
@@ -608,34 +589,30 @@ Trinity,18,Controller,,REP,David Evans,32
 Trinity,18,Controller,,DEM,John A. Pérez,6
 Trinity,18,Controller,,GRN,Laura Wells,6
 Trinity,18,Controller,,DEM,Tammy D. Blair,6
-Trinity,18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,18,Governor,,DEM,Akinyemi Agbede,0
 Trinity,18,Governor,,REP,Alma Marie Winston,3
 Trinity,18,Governor,,REP,Andrew Blount,5
 Trinity,18,Governor,,PAF,Cindy L. Sheehan,1
 Trinity,18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 Trinity,18,Governor,,REP,Glenn Champ,6
-Trinity,18,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,18,Governor,,IND,Joe Leicht,0
 Trinity,18,Governor,,GRN,Luis J. Rodriguez,1
 Trinity,18,Governor,,REP,Neel Kashkari,11
-Trinity,18,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,18,Governor,,REP,Richard William Aguirre,0
 Trinity,18,Governor,,IND,Robert Newman,1
 Trinity,18,Governor,,REP,Tim Donnelly,11
 Trinity,18,Insurance Commissioner,,DEM,Dave Jones,24
 Trinity,18,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Trinity,18,Insurance Commissioner,,REP,Ted Gaines,38
 Trinity,18,Lieutenant Governor,,AME,Alan Reynolds,4
-Trinity,18,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,18,Lieutenant Governor,,REP,David Fennell,10
 Trinity,18,Lieutenant Governor,,DEM,Eric Korevaar,6
 Trinity,18,Lieutenant Governor,,DEM,Gavin Newsom,21
 Trinity,18,Lieutenant Governor,,REP,George Yang,9
 Trinity,18,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Trinity,18,Lieutenant Governor,,REP,Ron Nehring,16
+Trinity,18,Proposition 41,,,No,37
+Trinity,18,Proposition 41,,,Yes,28
+Trinity,18,Proposition 42,,,No,46
+Trinity,18,Proposition 42,,,Yes,20
 Trinity,18,Secretary of State,,DEM,Alex Padilla,8
-Trinity,18,Secretary of State,,IND,Dan Schnur,0
 Trinity,18,Secretary of State,,GRN,David Curtis,1
 Trinity,18,Secretary of State,,DEM,Derek Cressman,9
 Trinity,18,Secretary of State,,DEM,Jeffrey H. Drobman,1
@@ -700,6 +677,10 @@ Trinity,19,Lieutenant Governor,,DEM,Gavin Newsom,89
 Trinity,19,Lieutenant Governor,,REP,George Yang,29
 Trinity,19,Lieutenant Governor,,GRN,Jena F. Goodman,20
 Trinity,19,Lieutenant Governor,,REP,Ron Nehring,62
+Trinity,19,Proposition 41,,,No,107
+Trinity,19,Proposition 41,,,Yes,168
+Trinity,19,Proposition 42,,,No,149
+Trinity,19,Proposition 42,,,Yes,117
 Trinity,19,Secretary of State,,DEM,Alex Padilla,46
 Trinity,19,Secretary of State,,IND,Dan Schnur,13
 Trinity,19,Secretary of State,,GRN,David Curtis,24
@@ -747,11 +728,9 @@ Trinity,2,Governor,,REP,Andrew Blount,12
 Trinity,2,Governor,,PAF,Cindy L. Sheehan,3
 Trinity,2,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Trinity,2,Governor,,REP,Glenn Champ,7
-Trinity,2,Governor,,IND,Janel Hyeshia Buycks,0
 Trinity,2,Governor,,IND,Joe Leicht,1
 Trinity,2,Governor,,GRN,Luis J. Rodriguez,2
 Trinity,2,Governor,,REP,Neel Kashkari,10
-Trinity,2,Governor,,IND,Rakesh Kumar Christian,0
 Trinity,2,Governor,,REP,Richard William Aguirre,2
 Trinity,2,Governor,,IND,Robert Newman,4
 Trinity,2,Governor,,REP,Tim Donnelly,54
@@ -766,6 +745,10 @@ Trinity,2,Lieutenant Governor,,DEM,Gavin Newsom,36
 Trinity,2,Lieutenant Governor,,REP,George Yang,20
 Trinity,2,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Trinity,2,Lieutenant Governor,,REP,Ron Nehring,57
+Trinity,2,Proposition 41,,,No,83
+Trinity,2,Proposition 41,,,Yes,67
+Trinity,2,Proposition 42,,,No,103
+Trinity,2,Proposition 42,,,Yes,41
 Trinity,2,Secretary of State,,DEM,Alex Padilla,25
 Trinity,2,Secretary of State,,IND,Dan Schnur,9
 Trinity,2,Secretary of State,,GRN,David Curtis,10
@@ -792,71 +775,25 @@ Trinity,2,U.S. House,2,DEM,Andy Caffrey,8
 Trinity,2,U.S. House,2,REP,Dale K. Mensing,75
 Trinity,2,U.S. House,2,DEM,Jared Huffman,50
 Trinity,20,Attorney General,,REP,David King,1
-Trinity,20,Attorney General,,REP,John Haggerty,0
-Trinity,20,Attorney General,,LIB,Jonathan Jaech,0
-Trinity,20,Attorney General,,DEM,Kamala D. Harris,0
-Trinity,20,Attorney General,,IND,Orly Taitz,0
 Trinity,20,Attorney General,,REP,Phil Wyman,1
-Trinity,20,Attorney General,,REP,Ronald Gold,0
 Trinity,20,Board of Equalization,2,DEM,Fiona Ma,1
 Trinity,20,Board of Equalization,2,REP,James E. Theis,1
-Trinity,20,Controller,,REP,Ashley Swearengin,0
-Trinity,20,Controller,,DEM,Betty T. Yee,0
 Trinity,20,Controller,,REP,David Evans,2
-Trinity,20,Controller,,DEM,John A. Pérez,0
-Trinity,20,Controller,,GRN,Laura Wells,0
-Trinity,20,Controller,,DEM,Tammy D. Blair,0
-Trinity,20,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,20,Governor,,DEM,Akinyemi Agbede,0
-Trinity,20,Governor,,REP,Alma Marie Winston,0
-Trinity,20,Governor,,REP,Andrew Blount,0
-Trinity,20,Governor,,PAF,Cindy L. Sheehan,0
-Trinity,20,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Trinity,20,Governor,,REP,Glenn Champ,0
-Trinity,20,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,20,Governor,,IND,Joe Leicht,0
-Trinity,20,Governor,,GRN,Luis J. Rodriguez,0
 Trinity,20,Governor,,REP,Neel Kashkari,1
-Trinity,20,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,20,Governor,,REP,Richard William Aguirre,0
-Trinity,20,Governor,,IND,Robert Newman,0
 Trinity,20,Governor,,REP,Tim Donnelly,1
-Trinity,20,Insurance Commissioner,,DEM,Dave Jones,0
-Trinity,20,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Trinity,20,Insurance Commissioner,,REP,Ted Gaines,2
-Trinity,20,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,20,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,20,Lieutenant Governor,,REP,David Fennell,1
-Trinity,20,Lieutenant Governor,,DEM,Eric Korevaar,0
-Trinity,20,Lieutenant Governor,,DEM,Gavin Newsom,0
 Trinity,20,Lieutenant Governor,,REP,George Yang,1
-Trinity,20,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Trinity,20,Lieutenant Governor,,REP,Ron Nehring,0
-Trinity,20,Secretary of State,,DEM,Alex Padilla,0
+Trinity,20,Proposition 41,,,No,3
+Trinity,20,Proposition 42,,,No,2
 Trinity,20,Secretary of State,,IND,Dan Schnur,1
-Trinity,20,Secretary of State,,GRN,David Curtis,0
-Trinity,20,Secretary of State,,DEM,Derek Cressman,0
-Trinity,20,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Trinity,20,Secretary of State,,DEM,Leland Yee,0
 Trinity,20,Secretary of State,,REP,Pete Peterson,1
 Trinity,20,Secretary of State,,REP,Roy Allmond,1
-Trinity,20,State Assembly,2,DEM,Jim Wood,0
-Trinity,20,State Assembly,2,DEM,John Lowry,0
 Trinity,20,State Assembly,2,REP,Matt Heath,3
-Trinity,20,State Assembly,2,GRN,Pamela Elizondo,0
-Trinity,20,State Senate,2,DEM,Derek Knell,0
-Trinity,20,State Senate,2,IND,Harry V. Lehmann,0
 Trinity,20,State Senate,2,REP,Lawrence R. Wiesner,3
-Trinity,20,State Senate,2,DEM,Mike McGuire,0
-Trinity,20,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 Trinity,20,Superintendent of Public Instruction,,NOP,Marshall Tuck,2
-Trinity,20,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Trinity,20,Treasurer,,GRN,Ellen H. Brown,0
 Trinity,20,Treasurer,,REP,Greg Conlon,2
-Trinity,20,Treasurer,,DEM,John Chiang,0
-Trinity,20,U.S. House,2,DEM,Andy Caffrey,0
 Trinity,20,U.S. House,2,REP,Dale K. Mensing,3
-Trinity,20,U.S. House,2,DEM,Jared Huffman,0
 Trinity,21,Attorney General,,REP,David King,4
 Trinity,21,Attorney General,,REP,John Haggerty,3
 Trinity,21,Attorney General,,LIB,Jonathan Jaech,5
@@ -872,32 +809,29 @@ Trinity,21,Controller,,REP,David Evans,14
 Trinity,21,Controller,,DEM,John A. Pérez,6
 Trinity,21,Controller,,GRN,Laura Wells,14
 Trinity,21,Controller,,DEM,Tammy D. Blair,3
-Trinity,21,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,21,Governor,,DEM,Akinyemi Agbede,0
 Trinity,21,Governor,,REP,Alma Marie Winston,1
 Trinity,21,Governor,,REP,Andrew Blount,4
 Trinity,21,Governor,,PAF,Cindy L. Sheehan,2
 Trinity,21,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Trinity,21,Governor,,REP,Glenn Champ,2
-Trinity,21,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,21,Governor,,IND,Joe Leicht,0
 Trinity,21,Governor,,GRN,Luis J. Rodriguez,6
 Trinity,21,Governor,,REP,Neel Kashkari,1
-Trinity,21,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,21,Governor,,REP,Richard William Aguirre,0
 Trinity,21,Governor,,IND,Robert Newman,3
 Trinity,21,Governor,,REP,Tim Donnelly,13
 Trinity,21,Insurance Commissioner,,DEM,Dave Jones,22
 Trinity,21,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Trinity,21,Insurance Commissioner,,REP,Ted Gaines,20
 Trinity,21,Lieutenant Governor,,AME,Alan Reynolds,1
-Trinity,21,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,21,Lieutenant Governor,,REP,David Fennell,7
 Trinity,21,Lieutenant Governor,,DEM,Eric Korevaar,8
 Trinity,21,Lieutenant Governor,,DEM,Gavin Newsom,19
 Trinity,21,Lieutenant Governor,,REP,George Yang,5
 Trinity,21,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Trinity,21,Lieutenant Governor,,REP,Ron Nehring,9
+Trinity,21,Proposition 41,,,No,21
+Trinity,21,Proposition 41,,,Yes,35
+Trinity,21,Proposition 42,,,No,24
+Trinity,21,Proposition 42,,,Yes,31
 Trinity,21,Secretary of State,,DEM,Alex Padilla,9
 Trinity,21,Secretary of State,,IND,Dan Schnur,2
 Trinity,21,Secretary of State,,GRN,David Curtis,8
@@ -938,32 +872,30 @@ Trinity,22,Controller,,REP,David Evans,35
 Trinity,22,Controller,,DEM,John A. Pérez,8
 Trinity,22,Controller,,GRN,Laura Wells,16
 Trinity,22,Controller,,DEM,Tammy D. Blair,8
-Trinity,22,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,22,Governor,,DEM,Akinyemi Agbede,0
 Trinity,22,Governor,,REP,Alma Marie Winston,1
 Trinity,22,Governor,,REP,Andrew Blount,8
 Trinity,22,Governor,,PAF,Cindy L. Sheehan,5
 Trinity,22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
 Trinity,22,Governor,,REP,Glenn Champ,4
-Trinity,22,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,22,Governor,,IND,Joe Leicht,0
 Trinity,22,Governor,,GRN,Luis J. Rodriguez,4
 Trinity,22,Governor,,REP,Neel Kashkari,2
 Trinity,22,Governor,,IND,Rakesh Kumar Christian,1
-Trinity,22,Governor,,REP,Richard William Aguirre,0
 Trinity,22,Governor,,IND,Robert Newman,7
 Trinity,22,Governor,,REP,Tim Donnelly,28
 Trinity,22,Insurance Commissioner,,DEM,Dave Jones,27
 Trinity,22,Insurance Commissioner,,PAF,Nathalie Hrizi,18
 Trinity,22,Insurance Commissioner,,REP,Ted Gaines,43
 Trinity,22,Lieutenant Governor,,AME,Alan Reynolds,2
-Trinity,22,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,22,Lieutenant Governor,,REP,David Fennell,14
 Trinity,22,Lieutenant Governor,,DEM,Eric Korevaar,7
 Trinity,22,Lieutenant Governor,,DEM,Gavin Newsom,29
 Trinity,22,Lieutenant Governor,,REP,George Yang,5
 Trinity,22,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Trinity,22,Lieutenant Governor,,REP,Ron Nehring,25
+Trinity,22,Proposition 41,,,No,45
+Trinity,22,Proposition 41,,,Yes,43
+Trinity,22,Proposition 42,,,No,54
+Trinity,22,Proposition 42,,,Yes,37
 Trinity,22,Secretary of State,,DEM,Alex Padilla,13
 Trinity,22,Secretary of State,,IND,Dan Schnur,7
 Trinity,22,Secretary of State,,GRN,David Curtis,14
@@ -1004,19 +936,13 @@ Trinity,23,Controller,,REP,David Evans,38
 Trinity,23,Controller,,DEM,John A. Pérez,3
 Trinity,23,Controller,,GRN,Laura Wells,10
 Trinity,23,Controller,,DEM,Tammy D. Blair,5
-Trinity,23,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Trinity,23,Governor,,DEM,Akinyemi Agbede,1
 Trinity,23,Governor,,REP,Alma Marie Winston,2
 Trinity,23,Governor,,REP,Andrew Blount,4
-Trinity,23,Governor,,PAF,Cindy L. Sheehan,0
 Trinity,23,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
 Trinity,23,Governor,,REP,Glenn Champ,4
-Trinity,23,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,23,Governor,,IND,Joe Leicht,0
-Trinity,23,Governor,,GRN,Luis J. Rodriguez,0
 Trinity,23,Governor,,REP,Neel Kashkari,5
 Trinity,23,Governor,,IND,Rakesh Kumar Christian,2
-Trinity,23,Governor,,REP,Richard William Aguirre,0
 Trinity,23,Governor,,IND,Robert Newman,5
 Trinity,23,Governor,,REP,Tim Donnelly,38
 Trinity,23,Insurance Commissioner,,DEM,Dave Jones,19
@@ -1028,8 +954,11 @@ Trinity,23,Lieutenant Governor,,REP,David Fennell,6
 Trinity,23,Lieutenant Governor,,DEM,Eric Korevaar,8
 Trinity,23,Lieutenant Governor,,DEM,Gavin Newsom,17
 Trinity,23,Lieutenant Governor,,REP,George Yang,6
-Trinity,23,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Trinity,23,Lieutenant Governor,,REP,Ron Nehring,40
+Trinity,23,Proposition 41,,,No,41
+Trinity,23,Proposition 41,,,Yes,43
+Trinity,23,Proposition 42,,,No,53
+Trinity,23,Proposition 42,,,Yes,29
 Trinity,23,Secretary of State,,DEM,Alex Padilla,3
 Trinity,23,Secretary of State,,IND,Dan Schnur,5
 Trinity,23,Secretary of State,,GRN,David Curtis,4
@@ -1043,7 +972,6 @@ Trinity,23,State Assembly,2,DEM,John Lowry,4
 Trinity,23,State Assembly,2,REP,Matt Heath,55
 Trinity,23,State Assembly,2,GRN,Pamela Elizondo,4
 Trinity,23,State Senate,2,DEM,Derek Knell,1
-Trinity,23,State Senate,2,IND,Harry V. Lehmann,0
 Trinity,23,State Senate,2,REP,Lawrence R. Wiesner,54
 Trinity,23,State Senate,2,DEM,Mike McGuire,23
 Trinity,23,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,30
@@ -1077,11 +1005,8 @@ Trinity,24,Governor,,REP,Andrew Blount,4
 Trinity,24,Governor,,PAF,Cindy L. Sheehan,2
 Trinity,24,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Trinity,24,Governor,,REP,Glenn Champ,7
-Trinity,24,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,24,Governor,,IND,Joe Leicht,0
 Trinity,24,Governor,,GRN,Luis J. Rodriguez,1
 Trinity,24,Governor,,REP,Neel Kashkari,7
-Trinity,24,Governor,,IND,Rakesh Kumar Christian,0
 Trinity,24,Governor,,REP,Richard William Aguirre,1
 Trinity,24,Governor,,IND,Robert Newman,2
 Trinity,24,Governor,,REP,Tim Donnelly,11
@@ -1094,10 +1019,12 @@ Trinity,24,Lieutenant Governor,,REP,David Fennell,5
 Trinity,24,Lieutenant Governor,,DEM,Eric Korevaar,8
 Trinity,24,Lieutenant Governor,,DEM,Gavin Newsom,11
 Trinity,24,Lieutenant Governor,,REP,George Yang,8
-Trinity,24,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Trinity,24,Lieutenant Governor,,REP,Ron Nehring,16
+Trinity,24,Proposition 41,,,No,21
+Trinity,24,Proposition 41,,,Yes,32
+Trinity,24,Proposition 42,,,No,35
+Trinity,24,Proposition 42,,,Yes,16
 Trinity,24,Secretary of State,,DEM,Alex Padilla,5
-Trinity,24,Secretary of State,,IND,Dan Schnur,0
 Trinity,24,Secretary of State,,GRN,David Curtis,2
 Trinity,24,Secretary of State,,DEM,Derek Cressman,8
 Trinity,24,Secretary of State,,DEM,Jeffrey H. Drobman,3
@@ -1137,18 +1064,12 @@ Trinity,25,Controller,,DEM,John A. Pérez,17
 Trinity,25,Controller,,GRN,Laura Wells,15
 Trinity,25,Controller,,DEM,Tammy D. Blair,7
 Trinity,25,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Trinity,25,Governor,,DEM,Akinyemi Agbede,0
 Trinity,25,Governor,,REP,Alma Marie Winston,3
 Trinity,25,Governor,,REP,Andrew Blount,1
 Trinity,25,Governor,,PAF,Cindy L. Sheehan,9
 Trinity,25,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
-Trinity,25,Governor,,REP,Glenn Champ,0
-Trinity,25,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,25,Governor,,IND,Joe Leicht,0
 Trinity,25,Governor,,GRN,Luis J. Rodriguez,7
 Trinity,25,Governor,,REP,Neel Kashkari,5
-Trinity,25,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,25,Governor,,REP,Richard William Aguirre,0
 Trinity,25,Governor,,IND,Robert Newman,2
 Trinity,25,Governor,,REP,Tim Donnelly,14
 Trinity,25,Insurance Commissioner,,DEM,Dave Jones,35
@@ -1162,6 +1083,10 @@ Trinity,25,Lieutenant Governor,,DEM,Gavin Newsom,38
 Trinity,25,Lieutenant Governor,,REP,George Yang,7
 Trinity,25,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Trinity,25,Lieutenant Governor,,REP,Ron Nehring,10
+Trinity,25,Proposition 41,,,No,30
+Trinity,25,Proposition 41,,,Yes,43
+Trinity,25,Proposition 42,,,No,40
+Trinity,25,Proposition 42,,,Yes,31
 Trinity,25,Secretary of State,,DEM,Alex Padilla,19
 Trinity,25,Secretary of State,,IND,Dan Schnur,3
 Trinity,25,Secretary of State,,GRN,David Curtis,14
@@ -1187,273 +1112,8 @@ Trinity,25,Treasurer,,DEM,John Chiang,32
 Trinity,25,U.S. House,2,DEM,Andy Caffrey,10
 Trinity,25,U.S. House,2,REP,Dale K. Mensing,18
 Trinity,25,U.S. House,2,DEM,Jared Huffman,39
-Trinity,26,Attorney General,,REP,David King,0
-Trinity,26,Attorney General,,REP,John Haggerty,0
-Trinity,26,Attorney General,,LIB,Jonathan Jaech,0
-Trinity,26,Attorney General,,DEM,Kamala D. Harris,0
-Trinity,26,Attorney General,,IND,Orly Taitz,0
-Trinity,26,Attorney General,,REP,Phil Wyman,0
-Trinity,26,Attorney General,,REP,Ronald Gold,0
-Trinity,26,Board of Equalization,2,DEM,Fiona Ma,0
-Trinity,26,Board of Equalization,2,REP,James E. Theis,0
-Trinity,26,Controller,,REP,Ashley Swearengin,0
-Trinity,26,Controller,,DEM,Betty T. Yee,0
-Trinity,26,Controller,,REP,David Evans,0
-Trinity,26,Controller,,DEM,John A. Pérez,0
-Trinity,26,Controller,,GRN,Laura Wells,0
-Trinity,26,Controller,,DEM,Tammy D. Blair,0
-Trinity,26,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,26,Governor,,DEM,Akinyemi Agbede,0
-Trinity,26,Governor,,REP,Alma Marie Winston,0
-Trinity,26,Governor,,REP,Andrew Blount,0
-Trinity,26,Governor,,PAF,Cindy L. Sheehan,0
-Trinity,26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Trinity,26,Governor,,REP,Glenn Champ,0
-Trinity,26,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,26,Governor,,IND,Joe Leicht,0
-Trinity,26,Governor,,GRN,Luis J. Rodriguez,0
-Trinity,26,Governor,,REP,Neel Kashkari,0
-Trinity,26,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,26,Governor,,REP,Richard William Aguirre,0
-Trinity,26,Governor,,IND,Robert Newman,0
-Trinity,26,Governor,,REP,Tim Donnelly,0
-Trinity,26,Insurance Commissioner,,DEM,Dave Jones,0
-Trinity,26,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Trinity,26,Insurance Commissioner,,REP,Ted Gaines,0
-Trinity,26,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,26,Lieutenant Governor,,PAF,Amos Johnson,0
-Trinity,26,Lieutenant Governor,,REP,David Fennell,0
-Trinity,26,Lieutenant Governor,,DEM,Eric Korevaar,0
-Trinity,26,Lieutenant Governor,,DEM,Gavin Newsom,0
-Trinity,26,Lieutenant Governor,,REP,George Yang,0
-Trinity,26,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Trinity,26,Lieutenant Governor,,REP,Ron Nehring,0
-Trinity,26,Secretary of State,,DEM,Alex Padilla,0
-Trinity,26,Secretary of State,,IND,Dan Schnur,0
-Trinity,26,Secretary of State,,GRN,David Curtis,0
-Trinity,26,Secretary of State,,DEM,Derek Cressman,0
-Trinity,26,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Trinity,26,Secretary of State,,DEM,Leland Yee,0
-Trinity,26,Secretary of State,,REP,Pete Peterson,0
-Trinity,26,Secretary of State,,REP,Roy Allmond,0
-Trinity,26,State Assembly,2,DEM,Jim Wood,0
-Trinity,26,State Assembly,2,DEM,John Lowry,0
-Trinity,26,State Assembly,2,REP,Matt Heath,0
-Trinity,26,State Assembly,2,GRN,Pamela Elizondo,0
-Trinity,26,State Senate,2,DEM,Derek Knell,0
-Trinity,26,State Senate,2,IND,Harry V. Lehmann,0
-Trinity,26,State Senate,2,REP,Lawrence R. Wiesner,0
-Trinity,26,State Senate,2,DEM,Mike McGuire,0
-Trinity,26,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Trinity,26,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Trinity,26,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Trinity,26,Treasurer,,GRN,Ellen H. Brown,0
-Trinity,26,Treasurer,,REP,Greg Conlon,0
-Trinity,26,Treasurer,,DEM,John Chiang,0
-Trinity,26,U.S. House,2,DEM,Andy Caffrey,0
-Trinity,26,U.S. House,2,REP,Dale K. Mensing,0
-Trinity,26,U.S. House,2,DEM,Jared Huffman,0
-Trinity,27,Attorney General,,REP,David King,0
-Trinity,27,Attorney General,,REP,John Haggerty,0
-Trinity,27,Attorney General,,LIB,Jonathan Jaech,0
-Trinity,27,Attorney General,,DEM,Kamala D. Harris,0
-Trinity,27,Attorney General,,IND,Orly Taitz,0
-Trinity,27,Attorney General,,REP,Phil Wyman,0
-Trinity,27,Attorney General,,REP,Ronald Gold,0
-Trinity,27,Board of Equalization,2,DEM,Fiona Ma,0
-Trinity,27,Board of Equalization,2,REP,James E. Theis,0
-Trinity,27,Controller,,REP,Ashley Swearengin,0
-Trinity,27,Controller,,DEM,Betty T. Yee,0
-Trinity,27,Controller,,REP,David Evans,0
-Trinity,27,Controller,,DEM,John A. Pérez,0
-Trinity,27,Controller,,GRN,Laura Wells,0
-Trinity,27,Controller,,DEM,Tammy D. Blair,0
-Trinity,27,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,27,Governor,,DEM,Akinyemi Agbede,0
-Trinity,27,Governor,,REP,Alma Marie Winston,0
-Trinity,27,Governor,,REP,Andrew Blount,0
-Trinity,27,Governor,,PAF,Cindy L. Sheehan,0
-Trinity,27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Trinity,27,Governor,,REP,Glenn Champ,0
-Trinity,27,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,27,Governor,,IND,Joe Leicht,0
-Trinity,27,Governor,,GRN,Luis J. Rodriguez,0
-Trinity,27,Governor,,REP,Neel Kashkari,0
-Trinity,27,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,27,Governor,,REP,Richard William Aguirre,0
-Trinity,27,Governor,,IND,Robert Newman,0
-Trinity,27,Governor,,REP,Tim Donnelly,0
-Trinity,27,Insurance Commissioner,,DEM,Dave Jones,0
-Trinity,27,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Trinity,27,Insurance Commissioner,,REP,Ted Gaines,0
-Trinity,27,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,27,Lieutenant Governor,,PAF,Amos Johnson,0
-Trinity,27,Lieutenant Governor,,REP,David Fennell,0
-Trinity,27,Lieutenant Governor,,DEM,Eric Korevaar,0
-Trinity,27,Lieutenant Governor,,DEM,Gavin Newsom,0
-Trinity,27,Lieutenant Governor,,REP,George Yang,0
-Trinity,27,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Trinity,27,Lieutenant Governor,,REP,Ron Nehring,0
-Trinity,27,Secretary of State,,DEM,Alex Padilla,0
-Trinity,27,Secretary of State,,IND,Dan Schnur,0
-Trinity,27,Secretary of State,,GRN,David Curtis,0
-Trinity,27,Secretary of State,,DEM,Derek Cressman,0
-Trinity,27,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Trinity,27,Secretary of State,,DEM,Leland Yee,0
-Trinity,27,Secretary of State,,REP,Pete Peterson,0
-Trinity,27,Secretary of State,,REP,Roy Allmond,0
-Trinity,27,State Assembly,2,DEM,Jim Wood,0
-Trinity,27,State Assembly,2,DEM,John Lowry,0
-Trinity,27,State Assembly,2,REP,Matt Heath,0
-Trinity,27,State Assembly,2,GRN,Pamela Elizondo,0
-Trinity,27,State Senate,2,DEM,Derek Knell,0
-Trinity,27,State Senate,2,IND,Harry V. Lehmann,0
-Trinity,27,State Senate,2,REP,Lawrence R. Wiesner,0
-Trinity,27,State Senate,2,DEM,Mike McGuire,0
-Trinity,27,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Trinity,27,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Trinity,27,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Trinity,27,Treasurer,,GRN,Ellen H. Brown,0
-Trinity,27,Treasurer,,REP,Greg Conlon,0
-Trinity,27,Treasurer,,DEM,John Chiang,0
-Trinity,27,U.S. House,2,DEM,Andy Caffrey,0
-Trinity,27,U.S. House,2,REP,Dale K. Mensing,0
-Trinity,27,U.S. House,2,DEM,Jared Huffman,0
-Trinity,28,Attorney General,,REP,David King,0
-Trinity,28,Attorney General,,REP,John Haggerty,0
-Trinity,28,Attorney General,,LIB,Jonathan Jaech,0
-Trinity,28,Attorney General,,DEM,Kamala D. Harris,0
-Trinity,28,Attorney General,,IND,Orly Taitz,0
-Trinity,28,Attorney General,,REP,Phil Wyman,0
-Trinity,28,Attorney General,,REP,Ronald Gold,0
-Trinity,28,Board of Equalization,2,DEM,Fiona Ma,0
-Trinity,28,Board of Equalization,2,REP,James E. Theis,0
-Trinity,28,Controller,,REP,Ashley Swearengin,0
-Trinity,28,Controller,,DEM,Betty T. Yee,0
-Trinity,28,Controller,,REP,David Evans,0
-Trinity,28,Controller,,DEM,John A. Pérez,0
-Trinity,28,Controller,,GRN,Laura Wells,0
-Trinity,28,Controller,,DEM,Tammy D. Blair,0
-Trinity,28,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,28,Governor,,DEM,Akinyemi Agbede,0
-Trinity,28,Governor,,REP,Alma Marie Winston,0
-Trinity,28,Governor,,REP,Andrew Blount,0
-Trinity,28,Governor,,PAF,Cindy L. Sheehan,0
-Trinity,28,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Trinity,28,Governor,,REP,Glenn Champ,0
-Trinity,28,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,28,Governor,,IND,Joe Leicht,0
-Trinity,28,Governor,,GRN,Luis J. Rodriguez,0
-Trinity,28,Governor,,REP,Neel Kashkari,0
-Trinity,28,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,28,Governor,,REP,Richard William Aguirre,0
-Trinity,28,Governor,,IND,Robert Newman,0
-Trinity,28,Governor,,REP,Tim Donnelly,0
-Trinity,28,Insurance Commissioner,,DEM,Dave Jones,0
-Trinity,28,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Trinity,28,Insurance Commissioner,,REP,Ted Gaines,0
-Trinity,28,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,28,Lieutenant Governor,,PAF,Amos Johnson,0
-Trinity,28,Lieutenant Governor,,REP,David Fennell,0
-Trinity,28,Lieutenant Governor,,DEM,Eric Korevaar,0
-Trinity,28,Lieutenant Governor,,DEM,Gavin Newsom,0
-Trinity,28,Lieutenant Governor,,REP,George Yang,0
-Trinity,28,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Trinity,28,Lieutenant Governor,,REP,Ron Nehring,0
-Trinity,28,Secretary of State,,DEM,Alex Padilla,0
-Trinity,28,Secretary of State,,IND,Dan Schnur,0
-Trinity,28,Secretary of State,,GRN,David Curtis,0
-Trinity,28,Secretary of State,,DEM,Derek Cressman,0
-Trinity,28,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Trinity,28,Secretary of State,,DEM,Leland Yee,0
-Trinity,28,Secretary of State,,REP,Pete Peterson,0
-Trinity,28,Secretary of State,,REP,Roy Allmond,0
-Trinity,28,State Assembly,2,DEM,Jim Wood,0
-Trinity,28,State Assembly,2,DEM,John Lowry,0
-Trinity,28,State Assembly,2,REP,Matt Heath,0
-Trinity,28,State Assembly,2,GRN,Pamela Elizondo,0
-Trinity,28,State Senate,2,DEM,Derek Knell,0
-Trinity,28,State Senate,2,IND,Harry V. Lehmann,0
-Trinity,28,State Senate,2,REP,Lawrence R. Wiesner,0
-Trinity,28,State Senate,2,DEM,Mike McGuire,0
-Trinity,28,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Trinity,28,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Trinity,28,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Trinity,28,Treasurer,,GRN,Ellen H. Brown,0
-Trinity,28,Treasurer,,REP,Greg Conlon,0
-Trinity,28,Treasurer,,DEM,John Chiang,0
-Trinity,28,U.S. House,2,DEM,Andy Caffrey,0
-Trinity,28,U.S. House,2,REP,Dale K. Mensing,0
-Trinity,28,U.S. House,2,DEM,Jared Huffman,0
-Trinity,29,Attorney General,,REP,David King,0
-Trinity,29,Attorney General,,REP,John Haggerty,0
-Trinity,29,Attorney General,,LIB,Jonathan Jaech,0
-Trinity,29,Attorney General,,DEM,Kamala D. Harris,0
-Trinity,29,Attorney General,,IND,Orly Taitz,0
-Trinity,29,Attorney General,,REP,Phil Wyman,0
-Trinity,29,Attorney General,,REP,Ronald Gold,0
-Trinity,29,Board of Equalization,2,DEM,Fiona Ma,0
-Trinity,29,Board of Equalization,2,REP,James E. Theis,0
-Trinity,29,Controller,,REP,Ashley Swearengin,0
-Trinity,29,Controller,,DEM,Betty T. Yee,0
-Trinity,29,Controller,,REP,David Evans,0
-Trinity,29,Controller,,DEM,John A. Pérez,0
-Trinity,29,Controller,,GRN,Laura Wells,0
-Trinity,29,Controller,,DEM,Tammy D. Blair,0
-Trinity,29,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Trinity,29,Governor,,DEM,Akinyemi Agbede,0
-Trinity,29,Governor,,REP,Alma Marie Winston,0
-Trinity,29,Governor,,REP,Andrew Blount,0
-Trinity,29,Governor,,PAF,Cindy L. Sheehan,0
-Trinity,29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Trinity,29,Governor,,REP,Glenn Champ,0
-Trinity,29,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,29,Governor,,IND,Joe Leicht,0
-Trinity,29,Governor,,GRN,Luis J. Rodriguez,0
-Trinity,29,Governor,,REP,Neel Kashkari,0
-Trinity,29,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,29,Governor,,REP,Richard William Aguirre,0
-Trinity,29,Governor,,IND,Robert Newman,0
-Trinity,29,Governor,,REP,Tim Donnelly,0
-Trinity,29,Insurance Commissioner,,DEM,Dave Jones,0
-Trinity,29,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Trinity,29,Insurance Commissioner,,REP,Ted Gaines,0
-Trinity,29,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,29,Lieutenant Governor,,PAF,Amos Johnson,0
-Trinity,29,Lieutenant Governor,,REP,David Fennell,0
-Trinity,29,Lieutenant Governor,,DEM,Eric Korevaar,0
-Trinity,29,Lieutenant Governor,,DEM,Gavin Newsom,0
-Trinity,29,Lieutenant Governor,,REP,George Yang,0
-Trinity,29,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Trinity,29,Lieutenant Governor,,REP,Ron Nehring,0
-Trinity,29,Secretary of State,,DEM,Alex Padilla,0
-Trinity,29,Secretary of State,,IND,Dan Schnur,0
-Trinity,29,Secretary of State,,GRN,David Curtis,0
-Trinity,29,Secretary of State,,DEM,Derek Cressman,0
-Trinity,29,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Trinity,29,Secretary of State,,DEM,Leland Yee,0
-Trinity,29,Secretary of State,,REP,Pete Peterson,0
-Trinity,29,Secretary of State,,REP,Roy Allmond,0
-Trinity,29,State Assembly,2,DEM,Jim Wood,0
-Trinity,29,State Assembly,2,DEM,John Lowry,0
-Trinity,29,State Assembly,2,REP,Matt Heath,0
-Trinity,29,State Assembly,2,GRN,Pamela Elizondo,0
-Trinity,29,State Senate,2,DEM,Derek Knell,0
-Trinity,29,State Senate,2,IND,Harry V. Lehmann,0
-Trinity,29,State Senate,2,REP,Lawrence R. Wiesner,0
-Trinity,29,State Senate,2,DEM,Mike McGuire,0
-Trinity,29,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Trinity,29,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Trinity,29,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Trinity,29,Treasurer,,GRN,Ellen H. Brown,0
-Trinity,29,Treasurer,,REP,Greg Conlon,0
-Trinity,29,Treasurer,,DEM,John Chiang,0
-Trinity,29,U.S. House,2,DEM,Andy Caffrey,0
-Trinity,29,U.S. House,2,REP,Dale K. Mensing,0
-Trinity,29,U.S. House,2,DEM,Jared Huffman,0
 Trinity,3,Attorney General,,REP,David King,4
 Trinity,3,Attorney General,,REP,John Haggerty,5
-Trinity,3,Attorney General,,LIB,Jonathan Jaech,0
 Trinity,3,Attorney General,,DEM,Kamala D. Harris,26
 Trinity,3,Attorney General,,IND,Orly Taitz,2
 Trinity,3,Attorney General,,REP,Phil Wyman,8
@@ -1467,34 +1127,28 @@ Trinity,3,Controller,,DEM,John A. Pérez,5
 Trinity,3,Controller,,GRN,Laura Wells,3
 Trinity,3,Controller,,DEM,Tammy D. Blair,9
 Trinity,3,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Trinity,3,Governor,,DEM,Akinyemi Agbede,0
 Trinity,3,Governor,,REP,Alma Marie Winston,1
 Trinity,3,Governor,,REP,Andrew Blount,7
 Trinity,3,Governor,,PAF,Cindy L. Sheehan,1
 Trinity,3,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
 Trinity,3,Governor,,REP,Glenn Champ,5
-Trinity,3,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,3,Governor,,IND,Joe Leicht,0
-Trinity,3,Governor,,GRN,Luis J. Rodriguez,0
-Trinity,3,Governor,,REP,Neel Kashkari,0
-Trinity,3,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,3,Governor,,REP,Richard William Aguirre,0
 Trinity,3,Governor,,IND,Robert Newman,2
 Trinity,3,Governor,,REP,Tim Donnelly,14
 Trinity,3,Insurance Commissioner,,DEM,Dave Jones,25
 Trinity,3,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Trinity,3,Insurance Commissioner,,REP,Ted Gaines,28
-Trinity,3,Lieutenant Governor,,AME,Alan Reynolds,0
-Trinity,3,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,3,Lieutenant Governor,,REP,David Fennell,6
 Trinity,3,Lieutenant Governor,,DEM,Eric Korevaar,6
 Trinity,3,Lieutenant Governor,,DEM,Gavin Newsom,18
 Trinity,3,Lieutenant Governor,,REP,George Yang,4
 Trinity,3,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Trinity,3,Lieutenant Governor,,REP,Ron Nehring,20
+Trinity,3,Proposition 41,,,No,31
+Trinity,3,Proposition 41,,,Yes,28
+Trinity,3,Proposition 42,,,No,39
+Trinity,3,Proposition 42,,,Yes,14
 Trinity,3,Secretary of State,,DEM,Alex Padilla,9
 Trinity,3,Secretary of State,,IND,Dan Schnur,5
-Trinity,3,Secretary of State,,GRN,David Curtis,0
 Trinity,3,Secretary of State,,DEM,Derek Cressman,2
 Trinity,3,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Trinity,3,Secretary of State,,DEM,Leland Yee,8
@@ -1543,7 +1197,6 @@ Trinity,4,Governor,,IND,Janel Hyeshia Buycks,2
 Trinity,4,Governor,,IND,Joe Leicht,2
 Trinity,4,Governor,,GRN,Luis J. Rodriguez,11
 Trinity,4,Governor,,REP,Neel Kashkari,34
-Trinity,4,Governor,,IND,Rakesh Kumar Christian,0
 Trinity,4,Governor,,REP,Richard William Aguirre,2
 Trinity,4,Governor,,IND,Robert Newman,8
 Trinity,4,Governor,,REP,Tim Donnelly,113
@@ -1558,6 +1211,10 @@ Trinity,4,Lieutenant Governor,,DEM,Gavin Newsom,118
 Trinity,4,Lieutenant Governor,,REP,George Yang,56
 Trinity,4,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Trinity,4,Lieutenant Governor,,REP,Ron Nehring,98
+Trinity,4,Proposition 41,,,No,160
+Trinity,4,Proposition 41,,,Yes,209
+Trinity,4,Proposition 42,,,No,208
+Trinity,4,Proposition 42,,,Yes,157
 Trinity,4,Secretary of State,,DEM,Alex Padilla,58
 Trinity,4,Secretary of State,,IND,Dan Schnur,27
 Trinity,4,Secretary of State,,GRN,David Curtis,17
@@ -1609,7 +1266,6 @@ Trinity,5,Governor,,IND,Janel Hyeshia Buycks,1
 Trinity,5,Governor,,IND,Joe Leicht,1
 Trinity,5,Governor,,GRN,Luis J. Rodriguez,5
 Trinity,5,Governor,,REP,Neel Kashkari,19
-Trinity,5,Governor,,IND,Rakesh Kumar Christian,0
 Trinity,5,Governor,,REP,Richard William Aguirre,1
 Trinity,5,Governor,,IND,Robert Newman,3
 Trinity,5,Governor,,REP,Tim Donnelly,33
@@ -1617,13 +1273,16 @@ Trinity,5,Insurance Commissioner,,DEM,Dave Jones,98
 Trinity,5,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Trinity,5,Insurance Commissioner,,REP,Ted Gaines,76
 Trinity,5,Lieutenant Governor,,AME,Alan Reynolds,4
-Trinity,5,Lieutenant Governor,,PAF,Amos Johnson,0
 Trinity,5,Lieutenant Governor,,REP,David Fennell,13
 Trinity,5,Lieutenant Governor,,DEM,Eric Korevaar,14
 Trinity,5,Lieutenant Governor,,DEM,Gavin Newsom,93
 Trinity,5,Lieutenant Governor,,REP,George Yang,35
 Trinity,5,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Trinity,5,Lieutenant Governor,,REP,Ron Nehring,19
+Trinity,5,Proposition 41,,,No,67
+Trinity,5,Proposition 41,,,Yes,129
+Trinity,5,Proposition 42,,,No,123
+Trinity,5,Proposition 42,,,Yes,69
 Trinity,5,Secretary of State,,DEM,Alex Padilla,45
 Trinity,5,Secretary of State,,IND,Dan Schnur,9
 Trinity,5,Secretary of State,,GRN,David Curtis,10
@@ -1690,6 +1349,10 @@ Trinity,6,Lieutenant Governor,,DEM,Gavin Newsom,164
 Trinity,6,Lieutenant Governor,,REP,George Yang,83
 Trinity,6,Lieutenant Governor,,GRN,Jena F. Goodman,23
 Trinity,6,Lieutenant Governor,,REP,Ron Nehring,83
+Trinity,6,Proposition 41,,,No,218
+Trinity,6,Proposition 41,,,Yes,283
+Trinity,6,Proposition 42,,,No,271
+Trinity,6,Proposition 42,,,Yes,212
 Trinity,6,Secretary of State,,DEM,Alex Padilla,88
 Trinity,6,Secretary of State,,IND,Dan Schnur,24
 Trinity,6,Secretary of State,,GRN,David Curtis,37
@@ -1738,10 +1401,8 @@ Trinity,7,Governor,,PAF,Cindy L. Sheehan,3
 Trinity,7,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Trinity,7,Governor,,REP,Glenn Champ,13
 Trinity,7,Governor,,IND,Janel Hyeshia Buycks,3
-Trinity,7,Governor,,IND,Joe Leicht,0
 Trinity,7,Governor,,GRN,Luis J. Rodriguez,8
 Trinity,7,Governor,,REP,Neel Kashkari,15
-Trinity,7,Governor,,IND,Rakesh Kumar Christian,0
 Trinity,7,Governor,,REP,Richard William Aguirre,2
 Trinity,7,Governor,,IND,Robert Newman,5
 Trinity,7,Governor,,REP,Tim Donnelly,52
@@ -1756,6 +1417,10 @@ Trinity,7,Lieutenant Governor,,DEM,Gavin Newsom,69
 Trinity,7,Lieutenant Governor,,REP,George Yang,31
 Trinity,7,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Trinity,7,Lieutenant Governor,,REP,Ron Nehring,57
+Trinity,7,Proposition 41,,,No,107
+Trinity,7,Proposition 41,,,Yes,142
+Trinity,7,Proposition 42,,,No,142
+Trinity,7,Proposition 42,,,Yes,96
 Trinity,7,Secretary of State,,DEM,Alex Padilla,35
 Trinity,7,Secretary of State,,IND,Dan Schnur,13
 Trinity,7,Secretary of State,,GRN,David Curtis,11
@@ -1803,8 +1468,6 @@ Trinity,8,Governor,,REP,Andrew Blount,20
 Trinity,8,Governor,,PAF,Cindy L. Sheehan,7
 Trinity,8,Governor,,DEM,"Edmund G. ""Jerry"" Brown",158
 Trinity,8,Governor,,REP,Glenn Champ,8
-Trinity,8,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,8,Governor,,IND,Joe Leicht,0
 Trinity,8,Governor,,GRN,Luis J. Rodriguez,18
 Trinity,8,Governor,,REP,Neel Kashkari,17
 Trinity,8,Governor,,IND,Rakesh Kumar Christian,1
@@ -1822,6 +1485,10 @@ Trinity,8,Lieutenant Governor,,DEM,Gavin Newsom,140
 Trinity,8,Lieutenant Governor,,REP,George Yang,33
 Trinity,8,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Trinity,8,Lieutenant Governor,,REP,Ron Nehring,48
+Trinity,8,Proposition 41,,,No,115
+Trinity,8,Proposition 41,,,Yes,194
+Trinity,8,Proposition 42,,,No,163
+Trinity,8,Proposition 42,,,Yes,144
 Trinity,8,Secretary of State,,DEM,Alex Padilla,72
 Trinity,8,Secretary of State,,IND,Dan Schnur,7
 Trinity,8,Secretary of State,,GRN,David Curtis,29
@@ -1847,35 +1514,21 @@ Trinity,8,Treasurer,,DEM,John Chiang,156
 Trinity,8,U.S. House,2,DEM,Andy Caffrey,43
 Trinity,8,U.S. House,2,REP,Dale K. Mensing,114
 Trinity,8,U.S. House,2,DEM,Jared Huffman,144
-Trinity,9,Attorney General,,REP,David King,0
-Trinity,9,Attorney General,,REP,John Haggerty,0
 Trinity,9,Attorney General,,LIB,Jonathan Jaech,2
 Trinity,9,Attorney General,,DEM,Kamala D. Harris,6
 Trinity,9,Attorney General,,IND,Orly Taitz,1
 Trinity,9,Attorney General,,REP,Phil Wyman,4
-Trinity,9,Attorney General,,REP,Ronald Gold,0
 Trinity,9,Board of Equalization,2,DEM,Fiona Ma,9
 Trinity,9,Board of Equalization,2,REP,James E. Theis,4
 Trinity,9,Controller,,REP,Ashley Swearengin,5
 Trinity,9,Controller,,DEM,Betty T. Yee,4
-Trinity,9,Controller,,REP,David Evans,0
 Trinity,9,Controller,,DEM,John A. Pérez,1
 Trinity,9,Controller,,GRN,Laura Wells,3
-Trinity,9,Controller,,DEM,Tammy D. Blair,0
 Trinity,9,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Trinity,9,Governor,,DEM,Akinyemi Agbede,0
-Trinity,9,Governor,,REP,Alma Marie Winston,0
-Trinity,9,Governor,,REP,Andrew Blount,0
 Trinity,9,Governor,,PAF,Cindy L. Sheehan,1
 Trinity,9,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Trinity,9,Governor,,REP,Glenn Champ,2
-Trinity,9,Governor,,IND,Janel Hyeshia Buycks,0
-Trinity,9,Governor,,IND,Joe Leicht,0
 Trinity,9,Governor,,GRN,Luis J. Rodriguez,2
-Trinity,9,Governor,,REP,Neel Kashkari,0
-Trinity,9,Governor,,IND,Rakesh Kumar Christian,0
-Trinity,9,Governor,,REP,Richard William Aguirre,0
-Trinity,9,Governor,,IND,Robert Newman,0
 Trinity,9,Governor,,REP,Tim Donnelly,2
 Trinity,9,Insurance Commissioner,,DEM,Dave Jones,5
 Trinity,9,Insurance Commissioner,,PAF,Nathalie Hrizi,6
@@ -1887,17 +1540,17 @@ Trinity,9,Lieutenant Governor,,DEM,Eric Korevaar,2
 Trinity,9,Lieutenant Governor,,DEM,Gavin Newsom,3
 Trinity,9,Lieutenant Governor,,REP,George Yang,1
 Trinity,9,Lieutenant Governor,,GRN,Jena F. Goodman,2
-Trinity,9,Lieutenant Governor,,REP,Ron Nehring,0
+Trinity,9,Proposition 41,,,No,7
+Trinity,9,Proposition 41,,,Yes,5
+Trinity,9,Proposition 42,,,No,6
+Trinity,9,Proposition 42,,,Yes,6
 Trinity,9,Secretary of State,,DEM,Alex Padilla,2
 Trinity,9,Secretary of State,,IND,Dan Schnur,2
 Trinity,9,Secretary of State,,GRN,David Curtis,4
-Trinity,9,Secretary of State,,DEM,Derek Cressman,0
-Trinity,9,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Trinity,9,Secretary of State,,DEM,Leland Yee,1
 Trinity,9,Secretary of State,,REP,Pete Peterson,2
 Trinity,9,Secretary of State,,REP,Roy Allmond,2
 Trinity,9,State Assembly,2,DEM,Jim Wood,7
-Trinity,9,State Assembly,2,DEM,John Lowry,0
 Trinity,9,State Assembly,2,REP,Matt Heath,3
 Trinity,9,State Assembly,2,GRN,Pamela Elizondo,3
 Trinity,9,State Senate,2,DEM,Derek Knell,1

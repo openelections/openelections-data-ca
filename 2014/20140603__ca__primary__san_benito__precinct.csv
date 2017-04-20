@@ -18,15 +18,11 @@ San Benito,0130001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 San Benito,0130001,Governor,,DEM,Akinyemi Agbede,1
 San Benito,0130001,Governor,,REP,Alma Marie Winston,8
 San Benito,0130001,Governor,,REP,Andrew Blount,14
-San Benito,0130001,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,0130001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",198
 San Benito,0130001,Governor,,REP,Glenn Champ,8
-San Benito,0130001,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,0130001,Governor,,IND,Joe Leicht,0
 San Benito,0130001,Governor,,GRN,Luis J. Rodriguez,5
 San Benito,0130001,Governor,,REP,Neel Kashkari,22
 San Benito,0130001,Governor,,IND,Rakesh Kumar Christian,2
-San Benito,0130001,Governor,,REP,Richard William Aguirre,0
 San Benito,0130001,Governor,,IND,Robert Newman,4
 San Benito,0130001,Governor,,REP,Tim Donnelly,59
 San Benito,0130001,Insurance Commissioner,,DEM,Dave Jones,155
@@ -40,6 +36,10 @@ San Benito,0130001,Lieutenant Governor,,DEM,Gavin Newsom,171
 San Benito,0130001,Lieutenant Governor,,REP,George Yang,19
 San Benito,0130001,Lieutenant Governor,,GRN,Jena F. Goodman,12
 San Benito,0130001,Lieutenant Governor,,REP,Ron Nehring,77
+San Benito,0130001,Proposition 41,,,No,125
+San Benito,0130001,Proposition 41,,,Yes,186
+San Benito,0130001,Proposition 42,,,No,131
+San Benito,0130001,Proposition 42,,,Yes,169
 San Benito,0130001,Secretary of State,,DEM,Alex Padilla,87
 San Benito,0130001,Secretary of State,,IND,Dan Schnur,9
 San Benito,0130001,Secretary of State,,GRN,David Curtis,9
@@ -76,7 +76,6 @@ San Benito,0130002,Controller,,DEM,John A. Pérez,70
 San Benito,0130002,Controller,,GRN,Laura Wells,25
 San Benito,0130002,Controller,,DEM,Tammy D. Blair,11
 San Benito,0130002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-San Benito,0130002,Governor,,DEM,Akinyemi Agbede,0
 San Benito,0130002,Governor,,REP,Alma Marie Winston,7
 San Benito,0130002,Governor,,REP,Andrew Blount,15
 San Benito,0130002,Governor,,PAF,Cindy L. Sheehan,8
@@ -101,6 +100,10 @@ San Benito,0130002,Lieutenant Governor,,DEM,Gavin Newsom,215
 San Benito,0130002,Lieutenant Governor,,REP,George Yang,39
 San Benito,0130002,Lieutenant Governor,,GRN,Jena F. Goodman,7
 San Benito,0130002,Lieutenant Governor,,REP,Ron Nehring,171
+San Benito,0130002,Proposition 41,,,No,247
+San Benito,0130002,Proposition 41,,,Yes,264
+San Benito,0130002,Proposition 42,,,No,214
+San Benito,0130002,Proposition 42,,,Yes,272
 San Benito,0130002,Secretary of State,,DEM,Alex Padilla,99
 San Benito,0130002,Secretary of State,,IND,Dan Schnur,31
 San Benito,0130002,Secretary of State,,GRN,David Curtis,8
@@ -147,7 +150,6 @@ San Benito,0135109,Governor,,IND,Janel Hyeshia Buycks,2
 San Benito,0135109,Governor,,IND,Joe Leicht,5
 San Benito,0135109,Governor,,GRN,Luis J. Rodriguez,14
 San Benito,0135109,Governor,,REP,Neel Kashkari,34
-San Benito,0135109,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,0135109,Governor,,REP,Richard William Aguirre,3
 San Benito,0135109,Governor,,IND,Robert Newman,5
 San Benito,0135109,Governor,,REP,Tim Donnelly,105
@@ -162,6 +164,10 @@ San Benito,0135109,Lieutenant Governor,,DEM,Gavin Newsom,290
 San Benito,0135109,Lieutenant Governor,,REP,George Yang,33
 San Benito,0135109,Lieutenant Governor,,GRN,Jena F. Goodman,14
 San Benito,0135109,Lieutenant Governor,,REP,Ron Nehring,127
+San Benito,0135109,Proposition 41,,,No,184
+San Benito,0135109,Proposition 41,,,Yes,334
+San Benito,0135109,Proposition 42,,,No,207
+San Benito,0135109,Proposition 42,,,Yes,291
 San Benito,0135109,Secretary of State,,DEM,Alex Padilla,143
 San Benito,0135109,Secretary of State,,IND,Dan Schnur,21
 San Benito,0135109,Secretary of State,,GRN,David Curtis,13
@@ -197,8 +203,6 @@ San Benito,0201001,Controller,,REP,David Evans,76
 San Benito,0201001,Controller,,DEM,John A. Pérez,40
 San Benito,0201001,Controller,,GRN,Laura Wells,19
 San Benito,0201001,Controller,,DEM,Tammy D. Blair,8
-San Benito,0201001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,0201001,Governor,,DEM,Akinyemi Agbede,0
 San Benito,0201001,Governor,,REP,Alma Marie Winston,6
 San Benito,0201001,Governor,,REP,Andrew Blount,7
 San Benito,0201001,Governor,,PAF,Cindy L. Sheehan,3
@@ -208,7 +212,6 @@ San Benito,0201001,Governor,,IND,Janel Hyeshia Buycks,2
 San Benito,0201001,Governor,,IND,Joe Leicht,1
 San Benito,0201001,Governor,,GRN,Luis J. Rodriguez,9
 San Benito,0201001,Governor,,REP,Neel Kashkari,28
-San Benito,0201001,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,0201001,Governor,,REP,Richard William Aguirre,3
 San Benito,0201001,Governor,,IND,Robert Newman,2
 San Benito,0201001,Governor,,REP,Tim Donnelly,74
@@ -223,6 +226,10 @@ San Benito,0201001,Lieutenant Governor,,DEM,Gavin Newsom,160
 San Benito,0201001,Lieutenant Governor,,REP,George Yang,18
 San Benito,0201001,Lieutenant Governor,,GRN,Jena F. Goodman,10
 San Benito,0201001,Lieutenant Governor,,REP,Ron Nehring,90
+San Benito,0201001,Proposition 41,,,No,123
+San Benito,0201001,Proposition 41,,,Yes,187
+San Benito,0201001,Proposition 42,,,No,120
+San Benito,0201001,Proposition 42,,,Yes,178
 San Benito,0201001,Secretary of State,,DEM,Alex Padilla,60
 San Benito,0201001,Secretary of State,,IND,Dan Schnur,15
 San Benito,0201001,Secretary of State,,GRN,David Curtis,7
@@ -259,24 +266,18 @@ San Benito,0205000,Controller,,DEM,John A. Pérez,36
 San Benito,0205000,Controller,,GRN,Laura Wells,14
 San Benito,0205000,Controller,,DEM,Tammy D. Blair,11
 San Benito,0205000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-San Benito,0205000,Governor,,DEM,Akinyemi Agbede,0
 San Benito,0205000,Governor,,REP,Alma Marie Winston,3
 San Benito,0205000,Governor,,REP,Andrew Blount,1
 San Benito,0205000,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,0205000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",143
 San Benito,0205000,Governor,,REP,Glenn Champ,2
-San Benito,0205000,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,0205000,Governor,,IND,Joe Leicht,0
 San Benito,0205000,Governor,,GRN,Luis J. Rodriguez,2
 San Benito,0205000,Governor,,REP,Neel Kashkari,21
-San Benito,0205000,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,0205000,Governor,,REP,Richard William Aguirre,0
 San Benito,0205000,Governor,,IND,Robert Newman,1
 San Benito,0205000,Governor,,REP,Tim Donnelly,28
 San Benito,0205000,Insurance Commissioner,,DEM,Dave Jones,115
 San Benito,0205000,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 San Benito,0205000,Insurance Commissioner,,REP,Ted Gaines,60
-San Benito,0205000,Lieutenant Governor,,AME,Alan Reynolds,0
 San Benito,0205000,Lieutenant Governor,,PAF,Amos Johnson,1
 San Benito,0205000,Lieutenant Governor,,REP,David Fennell,5
 San Benito,0205000,Lieutenant Governor,,DEM,Eric Korevaar,9
@@ -284,6 +285,10 @@ San Benito,0205000,Lieutenant Governor,,DEM,Gavin Newsom,127
 San Benito,0205000,Lieutenant Governor,,REP,George Yang,10
 San Benito,0205000,Lieutenant Governor,,GRN,Jena F. Goodman,7
 San Benito,0205000,Lieutenant Governor,,REP,Ron Nehring,40
+San Benito,0205000,Proposition 41,,,No,65
+San Benito,0205000,Proposition 41,,,Yes,133
+San Benito,0205000,Proposition 42,,,No,80
+San Benito,0205000,Proposition 42,,,Yes,104
 San Benito,0205000,Secretary of State,,DEM,Alex Padilla,49
 San Benito,0205000,Secretary of State,,IND,Dan Schnur,18
 San Benito,0205000,Secretary of State,,GRN,David Curtis,8
@@ -319,32 +324,30 @@ San Benito,0235320,Controller,,REP,David Evans,48
 San Benito,0235320,Controller,,DEM,John A. Pérez,32
 San Benito,0235320,Controller,,GRN,Laura Wells,7
 San Benito,0235320,Controller,,DEM,Tammy D. Blair,11
-San Benito,0235320,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 San Benito,0235320,Governor,,DEM,Akinyemi Agbede,1
 San Benito,0235320,Governor,,REP,Alma Marie Winston,5
 San Benito,0235320,Governor,,REP,Andrew Blount,8
 San Benito,0235320,Governor,,PAF,Cindy L. Sheehan,4
 San Benito,0235320,Governor,,DEM,"Edmund G. ""Jerry"" Brown",111
-San Benito,0235320,Governor,,REP,Glenn Champ,0
-San Benito,0235320,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,0235320,Governor,,IND,Joe Leicht,1
 San Benito,0235320,Governor,,GRN,Luis J. Rodriguez,1
 San Benito,0235320,Governor,,REP,Neel Kashkari,22
-San Benito,0235320,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,0235320,Governor,,REP,Richard William Aguirre,0
 San Benito,0235320,Governor,,IND,Robert Newman,8
 San Benito,0235320,Governor,,REP,Tim Donnelly,40
 San Benito,0235320,Insurance Commissioner,,DEM,Dave Jones,100
 San Benito,0235320,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 San Benito,0235320,Insurance Commissioner,,REP,Ted Gaines,82
 San Benito,0235320,Lieutenant Governor,,AME,Alan Reynolds,1
-San Benito,0235320,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,0235320,Lieutenant Governor,,REP,David Fennell,12
 San Benito,0235320,Lieutenant Governor,,DEM,Eric Korevaar,11
 San Benito,0235320,Lieutenant Governor,,DEM,Gavin Newsom,118
 San Benito,0235320,Lieutenant Governor,,REP,George Yang,6
 San Benito,0235320,Lieutenant Governor,,GRN,Jena F. Goodman,2
 San Benito,0235320,Lieutenant Governor,,REP,Ron Nehring,49
+San Benito,0235320,Proposition 41,,,No,72
+San Benito,0235320,Proposition 41,,,Yes,130
+San Benito,0235320,Proposition 42,,,No,80
+San Benito,0235320,Proposition 42,,,Yes,112
 San Benito,0235320,Secretary of State,,DEM,Alex Padilla,47
 San Benito,0235320,Secretary of State,,IND,Dan Schnur,11
 San Benito,0235320,Secretary of State,,GRN,David Curtis,3
@@ -380,19 +383,16 @@ San Benito,0235426,Controller,,REP,David Evans,62
 San Benito,0235426,Controller,,DEM,John A. Pérez,52
 San Benito,0235426,Controller,,GRN,Laura Wells,12
 San Benito,0235426,Controller,,DEM,Tammy D. Blair,12
-San Benito,0235426,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 San Benito,0235426,Governor,,DEM,Akinyemi Agbede,2
 San Benito,0235426,Governor,,REP,Alma Marie Winston,8
 San Benito,0235426,Governor,,REP,Andrew Blount,10
 San Benito,0235426,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,0235426,Governor,,DEM,"Edmund G. ""Jerry"" Brown",167
 San Benito,0235426,Governor,,REP,Glenn Champ,12
-San Benito,0235426,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,0235426,Governor,,IND,Joe Leicht,1
 San Benito,0235426,Governor,,GRN,Luis J. Rodriguez,6
 San Benito,0235426,Governor,,REP,Neel Kashkari,27
 San Benito,0235426,Governor,,IND,Rakesh Kumar Christian,1
-San Benito,0235426,Governor,,REP,Richard William Aguirre,0
 San Benito,0235426,Governor,,IND,Robert Newman,4
 San Benito,0235426,Governor,,REP,Tim Donnelly,39
 San Benito,0235426,Insurance Commissioner,,DEM,Dave Jones,146
@@ -406,6 +406,10 @@ San Benito,0235426,Lieutenant Governor,,DEM,Gavin Newsom,155
 San Benito,0235426,Lieutenant Governor,,REP,George Yang,16
 San Benito,0235426,Lieutenant Governor,,GRN,Jena F. Goodman,5
 San Benito,0235426,Lieutenant Governor,,REP,Ron Nehring,62
+San Benito,0235426,Proposition 41,,,No,112
+San Benito,0235426,Proposition 41,,,Yes,165
+San Benito,0235426,Proposition 42,,,No,133
+San Benito,0235426,Proposition 42,,,Yes,133
 San Benito,0235426,Secretary of State,,DEM,Alex Padilla,63
 San Benito,0235426,Secretary of State,,IND,Dan Schnur,15
 San Benito,0235426,Secretary of State,,GRN,David Curtis,9
@@ -441,18 +445,15 @@ San Benito,0265000,Controller,,REP,David Evans,28
 San Benito,0265000,Controller,,DEM,John A. Pérez,69
 San Benito,0265000,Controller,,GRN,Laura Wells,26
 San Benito,0265000,Controller,,DEM,Tammy D. Blair,13
-San Benito,0265000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 San Benito,0265000,Governor,,DEM,Akinyemi Agbede,2
 San Benito,0265000,Governor,,REP,Alma Marie Winston,5
 San Benito,0265000,Governor,,REP,Andrew Blount,8
 San Benito,0265000,Governor,,PAF,Cindy L. Sheehan,5
 San Benito,0265000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",180
 San Benito,0265000,Governor,,REP,Glenn Champ,2
-San Benito,0265000,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,0265000,Governor,,IND,Joe Leicht,3
 San Benito,0265000,Governor,,GRN,Luis J. Rodriguez,10
 San Benito,0265000,Governor,,REP,Neel Kashkari,12
-San Benito,0265000,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,0265000,Governor,,REP,Richard William Aguirre,3
 San Benito,0265000,Governor,,IND,Robert Newman,4
 San Benito,0265000,Governor,,REP,Tim Donnelly,31
@@ -467,6 +468,10 @@ San Benito,0265000,Lieutenant Governor,,DEM,Gavin Newsom,171
 San Benito,0265000,Lieutenant Governor,,REP,George Yang,12
 San Benito,0265000,Lieutenant Governor,,GRN,Jena F. Goodman,7
 San Benito,0265000,Lieutenant Governor,,REP,Ron Nehring,44
+San Benito,0265000,Proposition 41,,,No,71
+San Benito,0265000,Proposition 41,,,Yes,188
+San Benito,0265000,Proposition 42,,,No,111
+San Benito,0265000,Proposition 42,,,Yes,149
 San Benito,0265000,Secretary of State,,DEM,Alex Padilla,93
 San Benito,0265000,Secretary of State,,IND,Dan Schnur,10
 San Benito,0265000,Secretary of State,,GRN,David Curtis,15
@@ -528,6 +533,10 @@ San Benito,0335111,Lieutenant Governor,,DEM,Gavin Newsom,241
 San Benito,0335111,Lieutenant Governor,,REP,George Yang,14
 San Benito,0335111,Lieutenant Governor,,GRN,Jena F. Goodman,17
 San Benito,0335111,Lieutenant Governor,,REP,Ron Nehring,74
+San Benito,0335111,Proposition 41,,,No,124
+San Benito,0335111,Proposition 41,,,Yes,271
+San Benito,0335111,Proposition 42,,,No,155
+San Benito,0335111,Proposition 42,,,Yes,231
 San Benito,0335111,Secretary of State,,DEM,Alex Padilla,159
 San Benito,0335111,Secretary of State,,IND,Dan Schnur,19
 San Benito,0335111,Secretary of State,,GRN,David Curtis,14
@@ -589,6 +598,10 @@ San Benito,0335315,Lieutenant Governor,,DEM,Gavin Newsom,393
 San Benito,0335315,Lieutenant Governor,,REP,George Yang,44
 San Benito,0335315,Lieutenant Governor,,GRN,Jena F. Goodman,12
 San Benito,0335315,Lieutenant Governor,,REP,Ron Nehring,165
+San Benito,0335315,Proposition 41,,,No,261
+San Benito,0335315,Proposition 41,,,Yes,467
+San Benito,0335315,Proposition 42,,,No,305
+San Benito,0335315,Proposition 42,,,Yes,407
 San Benito,0335315,Secretary of State,,DEM,Alex Padilla,202
 San Benito,0335315,Secretary of State,,IND,Dan Schnur,41
 San Benito,0335315,Secretary of State,,GRN,David Curtis,19
@@ -632,10 +645,8 @@ San Benito,0420001,Governor,,PAF,Cindy L. Sheehan,2
 San Benito,0420001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",240
 San Benito,0420001,Governor,,REP,Glenn Champ,23
 San Benito,0420001,Governor,,IND,Janel Hyeshia Buycks,1
-San Benito,0420001,Governor,,IND,Joe Leicht,0
 San Benito,0420001,Governor,,GRN,Luis J. Rodriguez,2
 San Benito,0420001,Governor,,REP,Neel Kashkari,95
-San Benito,0420001,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,0420001,Governor,,REP,Richard William Aguirre,5
 San Benito,0420001,Governor,,IND,Robert Newman,6
 San Benito,0420001,Governor,,REP,Tim Donnelly,89
@@ -650,6 +661,10 @@ San Benito,0420001,Lieutenant Governor,,DEM,Gavin Newsom,200
 San Benito,0420001,Lieutenant Governor,,REP,George Yang,40
 San Benito,0420001,Lieutenant Governor,,GRN,Jena F. Goodman,11
 San Benito,0420001,Lieutenant Governor,,REP,Ron Nehring,174
+San Benito,0420001,Proposition 41,,,No,220
+San Benito,0420001,Proposition 41,,,Yes,275
+San Benito,0420001,Proposition 42,,,No,243
+San Benito,0420001,Proposition 42,,,Yes,235
 San Benito,0420001,Secretary of State,,DEM,Alex Padilla,81
 San Benito,0420001,Secretary of State,,IND,Dan Schnur,70
 San Benito,0420001,Secretary of State,,GRN,David Curtis,7
@@ -696,7 +711,6 @@ San Benito,0435427,Governor,,IND,Janel Hyeshia Buycks,2
 San Benito,0435427,Governor,,IND,Joe Leicht,4
 San Benito,0435427,Governor,,GRN,Luis J. Rodriguez,7
 San Benito,0435427,Governor,,REP,Neel Kashkari,56
-San Benito,0435427,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,0435427,Governor,,REP,Richard William Aguirre,2
 San Benito,0435427,Governor,,IND,Robert Newman,9
 San Benito,0435427,Governor,,REP,Tim Donnelly,109
@@ -711,6 +725,10 @@ San Benito,0435427,Lieutenant Governor,,DEM,Gavin Newsom,236
 San Benito,0435427,Lieutenant Governor,,REP,George Yang,25
 San Benito,0435427,Lieutenant Governor,,GRN,Jena F. Goodman,6
 San Benito,0435427,Lieutenant Governor,,REP,Ron Nehring,142
+San Benito,0435427,Proposition 41,,,No,166
+San Benito,0435427,Proposition 41,,,Yes,292
+San Benito,0435427,Proposition 42,,,No,177
+San Benito,0435427,Proposition 42,,,Yes,266
 San Benito,0435427,Secretary of State,,DEM,Alex Padilla,108
 San Benito,0435427,Secretary of State,,IND,Dan Schnur,35
 San Benito,0435427,Secretary of State,,GRN,David Curtis,13
@@ -747,7 +765,6 @@ San Benito,0458001,Controller,,DEM,John A. Pérez,62
 San Benito,0458001,Controller,,GRN,Laura Wells,18
 San Benito,0458001,Controller,,DEM,Tammy D. Blair,24
 San Benito,0458001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-San Benito,0458001,Governor,,DEM,Akinyemi Agbede,0
 San Benito,0458001,Governor,,REP,Alma Marie Winston,19
 San Benito,0458001,Governor,,REP,Andrew Blount,25
 San Benito,0458001,Governor,,PAF,Cindy L. Sheehan,3
@@ -757,7 +774,6 @@ San Benito,0458001,Governor,,IND,Janel Hyeshia Buycks,1
 San Benito,0458001,Governor,,IND,Joe Leicht,3
 San Benito,0458001,Governor,,GRN,Luis J. Rodriguez,4
 San Benito,0458001,Governor,,REP,Neel Kashkari,132
-San Benito,0458001,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,0458001,Governor,,REP,Richard William Aguirre,5
 San Benito,0458001,Governor,,IND,Robert Newman,3
 San Benito,0458001,Governor,,REP,Tim Donnelly,158
@@ -772,6 +788,10 @@ San Benito,0458001,Lieutenant Governor,,DEM,Gavin Newsom,360
 San Benito,0458001,Lieutenant Governor,,REP,George Yang,59
 San Benito,0458001,Lieutenant Governor,,GRN,Jena F. Goodman,10
 San Benito,0458001,Lieutenant Governor,,REP,Ron Nehring,244
+San Benito,0458001,Proposition 41,,,No,285
+San Benito,0458001,Proposition 41,,,Yes,464
+San Benito,0458001,Proposition 42,,,No,330
+San Benito,0458001,Proposition 42,,,Yes,391
 San Benito,0458001,Secretary of State,,DEM,Alex Padilla,118
 San Benito,0458001,Secretary of State,,IND,Dan Schnur,97
 San Benito,0458001,Secretary of State,,GRN,David Curtis,10
@@ -807,20 +827,14 @@ San Benito,0470000,Controller,,REP,David Evans,44
 San Benito,0470000,Controller,,DEM,John A. Pérez,17
 San Benito,0470000,Controller,,GRN,Laura Wells,9
 San Benito,0470000,Controller,,DEM,Tammy D. Blair,4
-San Benito,0470000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,0470000,Governor,,DEM,Akinyemi Agbede,0
 San Benito,0470000,Governor,,REP,Alma Marie Winston,13
 San Benito,0470000,Governor,,REP,Andrew Blount,4
-San Benito,0470000,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,0470000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",65
 San Benito,0470000,Governor,,REP,Glenn Champ,15
 San Benito,0470000,Governor,,IND,Janel Hyeshia Buycks,1
-San Benito,0470000,Governor,,IND,Joe Leicht,0
 San Benito,0470000,Governor,,GRN,Luis J. Rodriguez,5
 San Benito,0470000,Governor,,REP,Neel Kashkari,29
 San Benito,0470000,Governor,,IND,Rakesh Kumar Christian,1
-San Benito,0470000,Governor,,REP,Richard William Aguirre,0
-San Benito,0470000,Governor,,IND,Robert Newman,0
 San Benito,0470000,Governor,,REP,Tim Donnelly,31
 San Benito,0470000,Insurance Commissioner,,DEM,Dave Jones,46
 San Benito,0470000,Insurance Commissioner,,PAF,Nathalie Hrizi,7
@@ -833,6 +847,10 @@ San Benito,0470000,Lieutenant Governor,,DEM,Gavin Newsom,48
 San Benito,0470000,Lieutenant Governor,,REP,George Yang,11
 San Benito,0470000,Lieutenant Governor,,GRN,Jena F. Goodman,3
 San Benito,0470000,Lieutenant Governor,,REP,Ron Nehring,64
+San Benito,0470000,Proposition 41,,,No,86
+San Benito,0470000,Proposition 41,,,Yes,80
+San Benito,0470000,Proposition 42,,,No,75
+San Benito,0470000,Proposition 42,,,Yes,85
 San Benito,0470000,Secretary of State,,DEM,Alex Padilla,28
 San Benito,0470000,Secretary of State,,IND,Dan Schnur,14
 San Benito,0470000,Secretary of State,,GRN,David Curtis,4
@@ -879,8 +897,6 @@ San Benito,0535105,Governor,,IND,Janel Hyeshia Buycks,1
 San Benito,0535105,Governor,,IND,Joe Leicht,2
 San Benito,0535105,Governor,,GRN,Luis J. Rodriguez,24
 San Benito,0535105,Governor,,REP,Neel Kashkari,30
-San Benito,0535105,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,0535105,Governor,,REP,Richard William Aguirre,0
 San Benito,0535105,Governor,,IND,Robert Newman,5
 San Benito,0535105,Governor,,REP,Tim Donnelly,58
 San Benito,0535105,Insurance Commissioner,,DEM,Dave Jones,300
@@ -894,6 +910,10 @@ San Benito,0535105,Lieutenant Governor,,DEM,Gavin Newsom,287
 San Benito,0535105,Lieutenant Governor,,REP,George Yang,15
 San Benito,0535105,Lieutenant Governor,,GRN,Jena F. Goodman,10
 San Benito,0535105,Lieutenant Governor,,REP,Ron Nehring,71
+San Benito,0535105,Proposition 41,,,No,143
+San Benito,0535105,Proposition 41,,,Yes,306
+San Benito,0535105,Proposition 42,,,No,159
+San Benito,0535105,Proposition 42,,,Yes,277
 San Benito,0535105,Secretary of State,,DEM,Alex Padilla,174
 San Benito,0535105,Secretary of State,,IND,Dan Schnur,13
 San Benito,0535105,Secretary of State,,GRN,David Curtis,15
@@ -936,13 +956,11 @@ San Benito,0535212,Governor,,REP,Andrew Blount,4
 San Benito,0535212,Governor,,PAF,Cindy L. Sheehan,6
 San Benito,0535212,Governor,,DEM,"Edmund G. ""Jerry"" Brown",207
 San Benito,0535212,Governor,,REP,Glenn Champ,3
-San Benito,0535212,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,0535212,Governor,,IND,Joe Leicht,2
 San Benito,0535212,Governor,,GRN,Luis J. Rodriguez,19
 San Benito,0535212,Governor,,REP,Neel Kashkari,11
 San Benito,0535212,Governor,,IND,Rakesh Kumar Christian,1
 San Benito,0535212,Governor,,REP,Richard William Aguirre,1
-San Benito,0535212,Governor,,IND,Robert Newman,0
 San Benito,0535212,Governor,,REP,Tim Donnelly,17
 San Benito,0535212,Insurance Commissioner,,DEM,Dave Jones,217
 San Benito,0535212,Insurance Commissioner,,PAF,Nathalie Hrizi,25
@@ -955,6 +973,10 @@ San Benito,0535212,Lieutenant Governor,,DEM,Gavin Newsom,200
 San Benito,0535212,Lieutenant Governor,,REP,George Yang,6
 San Benito,0535212,Lieutenant Governor,,GRN,Jena F. Goodman,9
 San Benito,0535212,Lieutenant Governor,,REP,Ron Nehring,34
+San Benito,0535212,Proposition 41,,,No,85
+San Benito,0535212,Proposition 41,,,Yes,189
+San Benito,0535212,Proposition 42,,,No,104
+San Benito,0535212,Proposition 42,,,Yes,171
 San Benito,0535212,Secretary of State,,DEM,Alex Padilla,151
 San Benito,0535212,Secretary of State,,IND,Dan Schnur,8
 San Benito,0535212,Secretary of State,,GRN,David Curtis,10
@@ -976,10 +998,8 @@ San Benito,0535212,Treasurer,,DEM,John Chiang,211
 San Benito,0535212,U.S. House,20,IND,Ronald Paul Kabat,45
 San Benito,0535212,U.S. House,20,DEM,Sam Farr,247
 San Benito,9130003,Attorney General,,REP,David King,4
-San Benito,9130003,Attorney General,,REP,John Haggerty,0
 San Benito,9130003,Attorney General,,LIB,Jonathan Jaech,2
 San Benito,9130003,Attorney General,,DEM,Kamala D. Harris,3
-San Benito,9130003,Attorney General,,IND,Orly Taitz,0
 San Benito,9130003,Attorney General,,REP,Phil Wyman,4
 San Benito,9130003,Attorney General,,REP,Ronald Gold,1
 San Benito,9130003,Board of Equalization,2,DEM,Fiona Ma,4
@@ -989,39 +1009,23 @@ San Benito,9130003,Controller,,DEM,Betty T. Yee,2
 San Benito,9130003,Controller,,REP,David Evans,8
 San Benito,9130003,Controller,,DEM,John A. Pérez,1
 San Benito,9130003,Controller,,GRN,Laura Wells,1
-San Benito,9130003,Controller,,DEM,Tammy D. Blair,0
-San Benito,9130003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9130003,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9130003,Governor,,REP,Alma Marie Winston,1
-San Benito,9130003,Governor,,REP,Andrew Blount,0
-San Benito,9130003,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9130003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
 San Benito,9130003,Governor,,REP,Glenn Champ,2
-San Benito,9130003,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9130003,Governor,,IND,Joe Leicht,0
-San Benito,9130003,Governor,,GRN,Luis J. Rodriguez,0
-San Benito,9130003,Governor,,REP,Neel Kashkari,0
-San Benito,9130003,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9130003,Governor,,REP,Richard William Aguirre,0
-San Benito,9130003,Governor,,IND,Robert Newman,0
 San Benito,9130003,Governor,,REP,Tim Donnelly,4
 San Benito,9130003,Insurance Commissioner,,DEM,Dave Jones,4
-San Benito,9130003,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 San Benito,9130003,Insurance Commissioner,,REP,Ted Gaines,11
-San Benito,9130003,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9130003,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9130003,Lieutenant Governor,,REP,David Fennell,3
-San Benito,9130003,Lieutenant Governor,,DEM,Eric Korevaar,0
 San Benito,9130003,Lieutenant Governor,,DEM,Gavin Newsom,7
 San Benito,9130003,Lieutenant Governor,,REP,George Yang,1
-San Benito,9130003,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9130003,Lieutenant Governor,,REP,Ron Nehring,4
+San Benito,9130003,Proposition 41,,,No,8
+San Benito,9130003,Proposition 41,,,Yes,7
+San Benito,9130003,Proposition 42,,,No,11
+San Benito,9130003,Proposition 42,,,Yes,4
 San Benito,9130003,Secretary of State,,DEM,Alex Padilla,2
-San Benito,9130003,Secretary of State,,IND,Dan Schnur,0
-San Benito,9130003,Secretary of State,,GRN,David Curtis,0
 San Benito,9130003,Secretary of State,,DEM,Derek Cressman,1
 San Benito,9130003,Secretary of State,,DEM,Jeffrey H. Drobman,1
-San Benito,9130003,Secretary of State,,DEM,Leland Yee,0
 San Benito,9130003,Secretary of State,,REP,Pete Peterson,8
 San Benito,9130003,Secretary of State,,REP,Roy Allmond,3
 San Benito,9130003,State Assembly,30,DEM,Luis Alejo,3
@@ -1038,7 +1042,6 @@ San Benito,9130003,U.S. House,20,IND,Ronald Paul Kabat,6
 San Benito,9130003,U.S. House,20,DEM,Sam Farr,5
 San Benito,9130005,Attorney General,,REP,David King,2
 San Benito,9130005,Attorney General,,REP,John Haggerty,5
-San Benito,9130005,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9130005,Attorney General,,DEM,Kamala D. Harris,31
 San Benito,9130005,Attorney General,,IND,Orly Taitz,2
 San Benito,9130005,Attorney General,,REP,Phil Wyman,6
@@ -1051,34 +1054,24 @@ San Benito,9130005,Controller,,REP,David Evans,8
 San Benito,9130005,Controller,,DEM,John A. Pérez,8
 San Benito,9130005,Controller,,GRN,Laura Wells,7
 San Benito,9130005,Controller,,DEM,Tammy D. Blair,1
-San Benito,9130005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9130005,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9130005,Governor,,REP,Alma Marie Winston,0
 San Benito,9130005,Governor,,REP,Andrew Blount,2
-San Benito,9130005,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9130005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 San Benito,9130005,Governor,,REP,Glenn Champ,2
-San Benito,9130005,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9130005,Governor,,IND,Joe Leicht,0
-San Benito,9130005,Governor,,GRN,Luis J. Rodriguez,0
 San Benito,9130005,Governor,,REP,Neel Kashkari,2
-San Benito,9130005,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9130005,Governor,,REP,Richard William Aguirre,0
 San Benito,9130005,Governor,,IND,Robert Newman,2
 San Benito,9130005,Governor,,REP,Tim Donnelly,7
 San Benito,9130005,Insurance Commissioner,,DEM,Dave Jones,34
-San Benito,9130005,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 San Benito,9130005,Insurance Commissioner,,REP,Ted Gaines,11
-San Benito,9130005,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9130005,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9130005,Lieutenant Governor,,REP,David Fennell,5
 San Benito,9130005,Lieutenant Governor,,DEM,Eric Korevaar,4
 San Benito,9130005,Lieutenant Governor,,DEM,Gavin Newsom,29
 San Benito,9130005,Lieutenant Governor,,REP,George Yang,1
-San Benito,9130005,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9130005,Lieutenant Governor,,REP,Ron Nehring,9
+San Benito,9130005,Proposition 41,,,No,13
+San Benito,9130005,Proposition 41,,,Yes,31
+San Benito,9130005,Proposition 42,,,No,20
+San Benito,9130005,Proposition 42,,,Yes,24
 San Benito,9130005,Secretary of State,,DEM,Alex Padilla,11
-San Benito,9130005,Secretary of State,,IND,Dan Schnur,0
 San Benito,9130005,Secretary of State,,GRN,David Curtis,2
 San Benito,9130005,Secretary of State,,DEM,Derek Cressman,9
 San Benito,9130005,Secretary of State,,DEM,Jeffrey H. Drobman,4
@@ -1099,7 +1092,6 @@ San Benito,9130005,U.S. House,20,IND,Ronald Paul Kabat,6
 San Benito,9130005,U.S. House,20,DEM,Sam Farr,41
 San Benito,9130006,Attorney General,,REP,David King,4
 San Benito,9130006,Attorney General,,REP,John Haggerty,1
-San Benito,9130006,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9130006,Attorney General,,DEM,Kamala D. Harris,10
 San Benito,9130006,Attorney General,,IND,Orly Taitz,1
 San Benito,9130006,Attorney General,,REP,Phil Wyman,3
@@ -1111,37 +1103,26 @@ San Benito,9130006,Controller,,DEM,Betty T. Yee,4
 San Benito,9130006,Controller,,REP,David Evans,9
 San Benito,9130006,Controller,,DEM,John A. Pérez,3
 San Benito,9130006,Controller,,GRN,Laura Wells,1
-San Benito,9130006,Controller,,DEM,Tammy D. Blair,0
-San Benito,9130006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 San Benito,9130006,Governor,,DEM,Akinyemi Agbede,1
-San Benito,9130006,Governor,,REP,Alma Marie Winston,0
 San Benito,9130006,Governor,,REP,Andrew Blount,1
-San Benito,9130006,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9130006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
 San Benito,9130006,Governor,,REP,Glenn Champ,1
-San Benito,9130006,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9130006,Governor,,IND,Joe Leicht,0
-San Benito,9130006,Governor,,GRN,Luis J. Rodriguez,0
 San Benito,9130006,Governor,,REP,Neel Kashkari,2
-San Benito,9130006,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9130006,Governor,,REP,Richard William Aguirre,0
-San Benito,9130006,Governor,,IND,Robert Newman,0
 San Benito,9130006,Governor,,REP,Tim Donnelly,7
 San Benito,9130006,Insurance Commissioner,,DEM,Dave Jones,9
-San Benito,9130006,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 San Benito,9130006,Insurance Commissioner,,REP,Ted Gaines,12
 San Benito,9130006,Lieutenant Governor,,AME,Alan Reynolds,1
-San Benito,9130006,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9130006,Lieutenant Governor,,REP,David Fennell,2
-San Benito,9130006,Lieutenant Governor,,DEM,Eric Korevaar,0
 San Benito,9130006,Lieutenant Governor,,DEM,Gavin Newsom,10
 San Benito,9130006,Lieutenant Governor,,REP,George Yang,2
-San Benito,9130006,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9130006,Lieutenant Governor,,REP,Ron Nehring,6
+San Benito,9130006,Proposition 41,,,No,7
+San Benito,9130006,Proposition 41,,,Yes,11
+San Benito,9130006,Proposition 42,,,No,9
+San Benito,9130006,Proposition 42,,,Yes,11
 San Benito,9130006,Secretary of State,,DEM,Alex Padilla,4
 San Benito,9130006,Secretary of State,,IND,Dan Schnur,1
 San Benito,9130006,Secretary of State,,GRN,David Curtis,1
-San Benito,9130006,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9130006,Secretary of State,,DEM,Jeffrey H. Drobman,2
 San Benito,9130006,Secretary of State,,DEM,Leland Yee,4
 San Benito,9130006,Secretary of State,,REP,Pete Peterson,4
@@ -1153,69 +1134,38 @@ San Benito,9130006,State Senate,12,DEM,Shawn K. Bagley,8
 San Benito,9130006,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 San Benito,9130006,Superintendent of Public Instruction,,NOP,Marshall Tuck,7
 San Benito,9130006,Superintendent of Public Instruction,,NOP,Tom Torlakson,9
-San Benito,9130006,Treasurer,,GRN,Ellen H. Brown,0
 San Benito,9130006,Treasurer,,REP,Greg Conlon,14
 San Benito,9130006,Treasurer,,DEM,John Chiang,7
 San Benito,9130006,U.S. House,20,IND,Ronald Paul Kabat,7
 San Benito,9130006,U.S. House,20,DEM,Sam Farr,15
-San Benito,9135101,Attorney General,,REP,David King,0
-San Benito,9135101,Attorney General,,REP,John Haggerty,0
 San Benito,9135101,Attorney General,,LIB,Jonathan Jaech,1
 San Benito,9135101,Attorney General,,DEM,Kamala D. Harris,4
-San Benito,9135101,Attorney General,,IND,Orly Taitz,0
-San Benito,9135101,Attorney General,,REP,Phil Wyman,0
 San Benito,9135101,Attorney General,,REP,Ronald Gold,2
 San Benito,9135101,Board of Equalization,2,DEM,Fiona Ma,5
 San Benito,9135101,Board of Equalization,2,REP,James E. Theis,2
 San Benito,9135101,Controller,,REP,Ashley Swearengin,1
 San Benito,9135101,Controller,,DEM,Betty T. Yee,3
-San Benito,9135101,Controller,,REP,David Evans,0
 San Benito,9135101,Controller,,DEM,John A. Pérez,2
-San Benito,9135101,Controller,,GRN,Laura Wells,0
 San Benito,9135101,Controller,,DEM,Tammy D. Blair,1
-San Benito,9135101,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9135101,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9135101,Governor,,REP,Alma Marie Winston,0
-San Benito,9135101,Governor,,REP,Andrew Blount,0
-San Benito,9135101,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9135101,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
-San Benito,9135101,Governor,,REP,Glenn Champ,0
-San Benito,9135101,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9135101,Governor,,IND,Joe Leicht,0
-San Benito,9135101,Governor,,GRN,Luis J. Rodriguez,0
-San Benito,9135101,Governor,,REP,Neel Kashkari,0
 San Benito,9135101,Governor,,IND,Rakesh Kumar Christian,1
-San Benito,9135101,Governor,,REP,Richard William Aguirre,0
-San Benito,9135101,Governor,,IND,Robert Newman,0
-San Benito,9135101,Governor,,REP,Tim Donnelly,0
 San Benito,9135101,Insurance Commissioner,,DEM,Dave Jones,4
 San Benito,9135101,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 San Benito,9135101,Insurance Commissioner,,REP,Ted Gaines,2
-San Benito,9135101,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9135101,Lieutenant Governor,,PAF,Amos Johnson,0
-San Benito,9135101,Lieutenant Governor,,REP,David Fennell,0
-San Benito,9135101,Lieutenant Governor,,DEM,Eric Korevaar,0
 San Benito,9135101,Lieutenant Governor,,DEM,Gavin Newsom,7
-San Benito,9135101,Lieutenant Governor,,REP,George Yang,0
-San Benito,9135101,Lieutenant Governor,,GRN,Jena F. Goodman,0
-San Benito,9135101,Lieutenant Governor,,REP,Ron Nehring,0
+San Benito,9135101,Proposition 41,,,Yes,7
+San Benito,9135101,Proposition 42,,,No,1
+San Benito,9135101,Proposition 42,,,Yes,6
 San Benito,9135101,Secretary of State,,DEM,Alex Padilla,4
-San Benito,9135101,Secretary of State,,IND,Dan Schnur,0
-San Benito,9135101,Secretary of State,,GRN,David Curtis,0
-San Benito,9135101,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9135101,Secretary of State,,DEM,Jeffrey H. Drobman,1
 San Benito,9135101,Secretary of State,,DEM,Leland Yee,2
-San Benito,9135101,Secretary of State,,REP,Pete Peterson,0
-San Benito,9135101,Secretary of State,,REP,Roy Allmond,0
 San Benito,9135101,State Assembly,30,DEM,Luis Alejo,7
-San Benito,9135101,State Assembly,30,REP,Mark Starritt,0
 San Benito,9135101,State Senate,12,REP,Anthony Cannella,2
 San Benito,9135101,State Senate,12,DEM,Shawn K. Bagley,5
 San Benito,9135101,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
 San Benito,9135101,Superintendent of Public Instruction,,NOP,Marshall Tuck,2
 San Benito,9135101,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
 San Benito,9135101,Treasurer,,GRN,Ellen H. Brown,1
-San Benito,9135101,Treasurer,,REP,Greg Conlon,0
 San Benito,9135101,Treasurer,,DEM,John Chiang,5
 San Benito,9135101,U.S. House,20,IND,Ronald Paul Kabat,1
 San Benito,9135101,U.S. House,20,DEM,Sam Farr,6
@@ -1234,32 +1184,27 @@ San Benito,9135317,Controller,,REP,David Evans,21
 San Benito,9135317,Controller,,DEM,John A. Pérez,10
 San Benito,9135317,Controller,,GRN,Laura Wells,7
 San Benito,9135317,Controller,,DEM,Tammy D. Blair,4
-San Benito,9135317,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9135317,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9135317,Governor,,REP,Alma Marie Winston,5
-San Benito,9135317,Governor,,REP,Andrew Blount,0
 San Benito,9135317,Governor,,PAF,Cindy L. Sheehan,2
 San Benito,9135317,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
-San Benito,9135317,Governor,,REP,Glenn Champ,0
-San Benito,9135317,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,9135317,Governor,,IND,Joe Leicht,2
 San Benito,9135317,Governor,,GRN,Luis J. Rodriguez,1
 San Benito,9135317,Governor,,REP,Neel Kashkari,5
-San Benito,9135317,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9135317,Governor,,REP,Richard William Aguirre,0
 San Benito,9135317,Governor,,IND,Robert Newman,3
 San Benito,9135317,Governor,,REP,Tim Donnelly,21
 San Benito,9135317,Insurance Commissioner,,DEM,Dave Jones,34
 San Benito,9135317,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 San Benito,9135317,Insurance Commissioner,,REP,Ted Gaines,40
-San Benito,9135317,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9135317,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9135317,Lieutenant Governor,,REP,David Fennell,7
 San Benito,9135317,Lieutenant Governor,,DEM,Eric Korevaar,2
 San Benito,9135317,Lieutenant Governor,,DEM,Gavin Newsom,39
 San Benito,9135317,Lieutenant Governor,,REP,George Yang,5
 San Benito,9135317,Lieutenant Governor,,GRN,Jena F. Goodman,2
 San Benito,9135317,Lieutenant Governor,,REP,Ron Nehring,23
+San Benito,9135317,Proposition 41,,,No,30
+San Benito,9135317,Proposition 41,,,Yes,47
+San Benito,9135317,Proposition 42,,,No,31
+San Benito,9135317,Proposition 42,,,Yes,44
 San Benito,9135317,Secretary of State,,DEM,Alex Padilla,12
 San Benito,9135317,Secretary of State,,IND,Dan Schnur,4
 San Benito,9135317,Secretary of State,,GRN,David Curtis,3
@@ -1296,31 +1241,25 @@ San Benito,9205004,Controller,,DEM,John A. Pérez,15
 San Benito,9205004,Controller,,GRN,Laura Wells,13
 San Benito,9205004,Controller,,DEM,Tammy D. Blair,3
 San Benito,9205004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-San Benito,9205004,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9205004,Governor,,REP,Alma Marie Winston,0
-San Benito,9205004,Governor,,REP,Andrew Blount,0
 San Benito,9205004,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,9205004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",44
-San Benito,9205004,Governor,,REP,Glenn Champ,0
-San Benito,9205004,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9205004,Governor,,IND,Joe Leicht,0
 San Benito,9205004,Governor,,GRN,Luis J. Rodriguez,5
 San Benito,9205004,Governor,,REP,Neel Kashkari,1
-San Benito,9205004,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9205004,Governor,,REP,Richard William Aguirre,0
 San Benito,9205004,Governor,,IND,Robert Newman,2
 San Benito,9205004,Governor,,REP,Tim Donnelly,12
 San Benito,9205004,Insurance Commissioner,,DEM,Dave Jones,52
 San Benito,9205004,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 San Benito,9205004,Insurance Commissioner,,REP,Ted Gaines,9
 San Benito,9205004,Lieutenant Governor,,AME,Alan Reynolds,4
-San Benito,9205004,Lieutenant Governor,,PAF,Amos Johnson,0
-San Benito,9205004,Lieutenant Governor,,REP,David Fennell,0
 San Benito,9205004,Lieutenant Governor,,DEM,Eric Korevaar,5
 San Benito,9205004,Lieutenant Governor,,DEM,Gavin Newsom,42
 San Benito,9205004,Lieutenant Governor,,REP,George Yang,3
 San Benito,9205004,Lieutenant Governor,,GRN,Jena F. Goodman,4
 San Benito,9205004,Lieutenant Governor,,REP,Ron Nehring,9
+San Benito,9205004,Proposition 41,,,No,26
+San Benito,9205004,Proposition 41,,,Yes,38
+San Benito,9205004,Proposition 42,,,No,24
+San Benito,9205004,Proposition 42,,,Yes,38
 San Benito,9205004,Secretary of State,,DEM,Alex Padilla,22
 San Benito,9205004,Secretary of State,,IND,Dan Schnur,7
 San Benito,9205004,Secretary of State,,GRN,David Curtis,6
@@ -1341,55 +1280,28 @@ San Benito,9205004,Treasurer,,REP,Greg Conlon,11
 San Benito,9205004,Treasurer,,DEM,John Chiang,39
 San Benito,9205004,U.S. House,20,IND,Ronald Paul Kabat,15
 San Benito,9205004,U.S. House,20,DEM,Sam Farr,52
-San Benito,9220003,Attorney General,,REP,David King,0
 San Benito,9220003,Attorney General,,REP,John Haggerty,1
-San Benito,9220003,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9220003,Attorney General,,DEM,Kamala D. Harris,3
-San Benito,9220003,Attorney General,,IND,Orly Taitz,0
-San Benito,9220003,Attorney General,,REP,Phil Wyman,0
-San Benito,9220003,Attorney General,,REP,Ronald Gold,0
 San Benito,9220003,Board of Equalization,2,DEM,Fiona Ma,3
 San Benito,9220003,Board of Equalization,2,REP,James E. Theis,1
 San Benito,9220003,Controller,,REP,Ashley Swearengin,1
 San Benito,9220003,Controller,,DEM,Betty T. Yee,3
-San Benito,9220003,Controller,,REP,David Evans,0
 San Benito,9220003,Controller,,DEM,John A. Pérez,1
-San Benito,9220003,Controller,,GRN,Laura Wells,0
-San Benito,9220003,Controller,,DEM,Tammy D. Blair,0
-San Benito,9220003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9220003,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9220003,Governor,,REP,Alma Marie Winston,0
-San Benito,9220003,Governor,,REP,Andrew Blount,0
-San Benito,9220003,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9220003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",5
-San Benito,9220003,Governor,,REP,Glenn Champ,0
-San Benito,9220003,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9220003,Governor,,IND,Joe Leicht,0
-San Benito,9220003,Governor,,GRN,Luis J. Rodriguez,0
 San Benito,9220003,Governor,,REP,Neel Kashkari,1
-San Benito,9220003,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9220003,Governor,,REP,Richard William Aguirre,0
-San Benito,9220003,Governor,,IND,Robert Newman,0
-San Benito,9220003,Governor,,REP,Tim Donnelly,0
 San Benito,9220003,Insurance Commissioner,,DEM,Dave Jones,2
 San Benito,9220003,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 San Benito,9220003,Insurance Commissioner,,REP,Ted Gaines,1
-San Benito,9220003,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9220003,Lieutenant Governor,,PAF,Amos Johnson,0
-San Benito,9220003,Lieutenant Governor,,REP,David Fennell,0
-San Benito,9220003,Lieutenant Governor,,DEM,Eric Korevaar,0
 San Benito,9220003,Lieutenant Governor,,DEM,Gavin Newsom,5
-San Benito,9220003,Lieutenant Governor,,REP,George Yang,0
-San Benito,9220003,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9220003,Lieutenant Governor,,REP,Ron Nehring,1
+San Benito,9220003,Proposition 41,,,No,4
+San Benito,9220003,Proposition 41,,,Yes,2
+San Benito,9220003,Proposition 42,,,No,1
+San Benito,9220003,Proposition 42,,,Yes,3
 San Benito,9220003,Secretary of State,,DEM,Alex Padilla,1
 San Benito,9220003,Secretary of State,,IND,Dan Schnur,2
-San Benito,9220003,Secretary of State,,GRN,David Curtis,0
-San Benito,9220003,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9220003,Secretary of State,,DEM,Jeffrey H. Drobman,2
 San Benito,9220003,Secretary of State,,DEM,Leland Yee,1
-San Benito,9220003,Secretary of State,,REP,Pete Peterson,0
-San Benito,9220003,Secretary of State,,REP,Roy Allmond,0
 San Benito,9220003,State Assembly,30,DEM,Luis Alejo,3
 San Benito,9220003,State Assembly,30,REP,Mark Starritt,3
 San Benito,9220003,State Senate,12,REP,Anthony Cannella,5
@@ -1397,7 +1309,6 @@ San Benito,9220003,State Senate,12,DEM,Shawn K. Bagley,1
 San Benito,9220003,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 San Benito,9220003,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 San Benito,9220003,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-San Benito,9220003,Treasurer,,GRN,Ellen H. Brown,0
 San Benito,9220003,Treasurer,,REP,Greg Conlon,1
 San Benito,9220003,Treasurer,,DEM,John Chiang,5
 San Benito,9220003,U.S. House,20,IND,Ronald Paul Kabat,1
@@ -1417,20 +1328,12 @@ San Benito,9235214,Controller,,REP,David Evans,9
 San Benito,9235214,Controller,,DEM,John A. Pérez,8
 San Benito,9235214,Controller,,GRN,Laura Wells,5
 San Benito,9235214,Controller,,DEM,Tammy D. Blair,3
-San Benito,9235214,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9235214,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9235214,Governor,,REP,Alma Marie Winston,1
-San Benito,9235214,Governor,,REP,Andrew Blount,0
 San Benito,9235214,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,9235214,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 San Benito,9235214,Governor,,REP,Glenn Champ,1
-San Benito,9235214,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9235214,Governor,,IND,Joe Leicht,0
 San Benito,9235214,Governor,,GRN,Luis J. Rodriguez,1
 San Benito,9235214,Governor,,REP,Neel Kashkari,1
-San Benito,9235214,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9235214,Governor,,REP,Richard William Aguirre,0
-San Benito,9235214,Governor,,IND,Robert Newman,0
 San Benito,9235214,Governor,,REP,Tim Donnelly,7
 San Benito,9235214,Insurance Commissioner,,DEM,Dave Jones,18
 San Benito,9235214,Insurance Commissioner,,PAF,Nathalie Hrizi,3
@@ -1443,8 +1346,11 @@ San Benito,9235214,Lieutenant Governor,,DEM,Gavin Newsom,20
 San Benito,9235214,Lieutenant Governor,,REP,George Yang,1
 San Benito,9235214,Lieutenant Governor,,GRN,Jena F. Goodman,1
 San Benito,9235214,Lieutenant Governor,,REP,Ron Nehring,6
+San Benito,9235214,Proposition 41,,,No,10
+San Benito,9235214,Proposition 41,,,Yes,22
+San Benito,9235214,Proposition 42,,,No,8
+San Benito,9235214,Proposition 42,,,Yes,23
 San Benito,9235214,Secretary of State,,DEM,Alex Padilla,13
-San Benito,9235214,Secretary of State,,IND,Dan Schnur,0
 San Benito,9235214,Secretary of State,,GRN,David Curtis,3
 San Benito,9235214,Secretary of State,,DEM,Derek Cressman,1
 San Benito,9235214,Secretary of State,,DEM,Jeffrey H. Drobman,3
@@ -1465,7 +1371,6 @@ San Benito,9235214,U.S. House,20,IND,Ronald Paul Kabat,9
 San Benito,9235214,U.S. House,20,DEM,Sam Farr,24
 San Benito,9240005,Attorney General,,REP,David King,7
 San Benito,9240005,Attorney General,,REP,John Haggerty,2
-San Benito,9240005,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9240005,Attorney General,,DEM,Kamala D. Harris,6
 San Benito,9240005,Attorney General,,IND,Orly Taitz,1
 San Benito,9240005,Attorney General,,REP,Phil Wyman,9
@@ -1476,38 +1381,28 @@ San Benito,9240005,Controller,,REP,Ashley Swearengin,20
 San Benito,9240005,Controller,,DEM,Betty T. Yee,2
 San Benito,9240005,Controller,,REP,David Evans,10
 San Benito,9240005,Controller,,DEM,John A. Pérez,2
-San Benito,9240005,Controller,,GRN,Laura Wells,0
 San Benito,9240005,Controller,,DEM,Tammy D. Blair,3
-San Benito,9240005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 San Benito,9240005,Governor,,DEM,Akinyemi Agbede,1
 San Benito,9240005,Governor,,REP,Alma Marie Winston,2
 San Benito,9240005,Governor,,REP,Andrew Blount,1
-San Benito,9240005,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9240005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",10
 San Benito,9240005,Governor,,REP,Glenn Champ,1
-San Benito,9240005,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9240005,Governor,,IND,Joe Leicht,0
-San Benito,9240005,Governor,,GRN,Luis J. Rodriguez,0
 San Benito,9240005,Governor,,REP,Neel Kashkari,9
 San Benito,9240005,Governor,,IND,Rakesh Kumar Christian,1
-San Benito,9240005,Governor,,REP,Richard William Aguirre,0
 San Benito,9240005,Governor,,IND,Robert Newman,2
 San Benito,9240005,Governor,,REP,Tim Donnelly,9
 San Benito,9240005,Insurance Commissioner,,DEM,Dave Jones,7
-San Benito,9240005,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 San Benito,9240005,Insurance Commissioner,,REP,Ted Gaines,30
-San Benito,9240005,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9240005,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9240005,Lieutenant Governor,,REP,David Fennell,1
 San Benito,9240005,Lieutenant Governor,,DEM,Eric Korevaar,2
 San Benito,9240005,Lieutenant Governor,,DEM,Gavin Newsom,6
 San Benito,9240005,Lieutenant Governor,,REP,George Yang,4
-San Benito,9240005,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9240005,Lieutenant Governor,,REP,Ron Nehring,24
+San Benito,9240005,Proposition 41,,,No,21
+San Benito,9240005,Proposition 41,,,Yes,15
+San Benito,9240005,Proposition 42,,,No,22
+San Benito,9240005,Proposition 42,,,Yes,14
 San Benito,9240005,Secretary of State,,DEM,Alex Padilla,2
-San Benito,9240005,Secretary of State,,IND,Dan Schnur,0
-San Benito,9240005,Secretary of State,,GRN,David Curtis,0
-San Benito,9240005,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9240005,Secretary of State,,DEM,Jeffrey H. Drobman,2
 San Benito,9240005,Secretary of State,,DEM,Leland Yee,2
 San Benito,9240005,Secretary of State,,REP,Pete Peterson,18
@@ -1519,7 +1414,6 @@ San Benito,9240005,State Senate,12,DEM,Shawn K. Bagley,4
 San Benito,9240005,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,6
 San Benito,9240005,Superintendent of Public Instruction,,NOP,Marshall Tuck,11
 San Benito,9240005,Superintendent of Public Instruction,,NOP,Tom Torlakson,15
-San Benito,9240005,Treasurer,,GRN,Ellen H. Brown,0
 San Benito,9240005,Treasurer,,REP,Greg Conlon,29
 San Benito,9240005,Treasurer,,DEM,John Chiang,7
 San Benito,9240005,U.S. House,20,IND,Ronald Paul Kabat,25
@@ -1539,20 +1433,12 @@ San Benito,9280001,Controller,,REP,David Evans,22
 San Benito,9280001,Controller,,DEM,John A. Pérez,16
 San Benito,9280001,Controller,,GRN,Laura Wells,3
 San Benito,9280001,Controller,,DEM,Tammy D. Blair,7
-San Benito,9280001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9280001,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9280001,Governor,,REP,Alma Marie Winston,3
-San Benito,9280001,Governor,,REP,Andrew Blount,0
 San Benito,9280001,Governor,,PAF,Cindy L. Sheehan,2
 San Benito,9280001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",55
 San Benito,9280001,Governor,,REP,Glenn Champ,3
-San Benito,9280001,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9280001,Governor,,IND,Joe Leicht,0
-San Benito,9280001,Governor,,GRN,Luis J. Rodriguez,0
 San Benito,9280001,Governor,,REP,Neel Kashkari,9
-San Benito,9280001,Governor,,IND,Rakesh Kumar Christian,0
 San Benito,9280001,Governor,,REP,Richard William Aguirre,1
-San Benito,9280001,Governor,,IND,Robert Newman,0
 San Benito,9280001,Governor,,REP,Tim Donnelly,14
 San Benito,9280001,Insurance Commissioner,,DEM,Dave Jones,42
 San Benito,9280001,Insurance Commissioner,,PAF,Nathalie Hrizi,5
@@ -1565,6 +1451,10 @@ San Benito,9280001,Lieutenant Governor,,DEM,Gavin Newsom,45
 San Benito,9280001,Lieutenant Governor,,REP,George Yang,6
 San Benito,9280001,Lieutenant Governor,,GRN,Jena F. Goodman,3
 San Benito,9280001,Lieutenant Governor,,REP,Ron Nehring,16
+San Benito,9280001,Proposition 41,,,No,36
+San Benito,9280001,Proposition 41,,,Yes,50
+San Benito,9280001,Proposition 42,,,No,46
+San Benito,9280001,Proposition 42,,,Yes,38
 San Benito,9280001,Secretary of State,,DEM,Alex Padilla,17
 San Benito,9280001,Secretary of State,,IND,Dan Schnur,1
 San Benito,9280001,Secretary of State,,GRN,David Curtis,2
@@ -1585,70 +1475,32 @@ San Benito,9280001,Treasurer,,REP,Greg Conlon,30
 San Benito,9280001,Treasurer,,DEM,John Chiang,48
 San Benito,9280001,U.S. House,20,IND,Ronald Paul Kabat,24
 San Benito,9280001,U.S. House,20,DEM,Sam Farr,61
-San Benito,9395001,Attorney General,,REP,David King,0
-San Benito,9395001,Attorney General,,REP,John Haggerty,0
-San Benito,9395001,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9395001,Attorney General,,DEM,Kamala D. Harris,1
-San Benito,9395001,Attorney General,,IND,Orly Taitz,0
-San Benito,9395001,Attorney General,,REP,Phil Wyman,0
 San Benito,9395001,Attorney General,,REP,Ronald Gold,2
 San Benito,9395001,Board of Equalization,2,DEM,Fiona Ma,1
 San Benito,9395001,Board of Equalization,2,REP,James E. Theis,2
-San Benito,9395001,Controller,,REP,Ashley Swearengin,0
-San Benito,9395001,Controller,,DEM,Betty T. Yee,0
 San Benito,9395001,Controller,,REP,David Evans,3
-San Benito,9395001,Controller,,DEM,John A. Pérez,0
-San Benito,9395001,Controller,,GRN,Laura Wells,0
-San Benito,9395001,Controller,,DEM,Tammy D. Blair,0
-San Benito,9395001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9395001,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9395001,Governor,,REP,Alma Marie Winston,0
 San Benito,9395001,Governor,,REP,Andrew Blount,1
-San Benito,9395001,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9395001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
-San Benito,9395001,Governor,,REP,Glenn Champ,0
-San Benito,9395001,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9395001,Governor,,IND,Joe Leicht,0
-San Benito,9395001,Governor,,GRN,Luis J. Rodriguez,0
-San Benito,9395001,Governor,,REP,Neel Kashkari,0
-San Benito,9395001,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9395001,Governor,,REP,Richard William Aguirre,0
-San Benito,9395001,Governor,,IND,Robert Newman,0
 San Benito,9395001,Governor,,REP,Tim Donnelly,1
-San Benito,9395001,Insurance Commissioner,,DEM,Dave Jones,0
-San Benito,9395001,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 San Benito,9395001,Insurance Commissioner,,REP,Ted Gaines,3
-San Benito,9395001,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9395001,Lieutenant Governor,,PAF,Amos Johnson,0
-San Benito,9395001,Lieutenant Governor,,REP,David Fennell,0
-San Benito,9395001,Lieutenant Governor,,DEM,Eric Korevaar,0
 San Benito,9395001,Lieutenant Governor,,DEM,Gavin Newsom,1
-San Benito,9395001,Lieutenant Governor,,REP,George Yang,0
-San Benito,9395001,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9395001,Lieutenant Governor,,REP,Ron Nehring,2
-San Benito,9395001,Secretary of State,,DEM,Alex Padilla,0
-San Benito,9395001,Secretary of State,,IND,Dan Schnur,0
-San Benito,9395001,Secretary of State,,GRN,David Curtis,0
-San Benito,9395001,Secretary of State,,DEM,Derek Cressman,0
-San Benito,9395001,Secretary of State,,DEM,Jeffrey H. Drobman,0
-San Benito,9395001,Secretary of State,,DEM,Leland Yee,0
+San Benito,9395001,Proposition 41,,,Yes,3
+San Benito,9395001,Proposition 42,,,No,1
+San Benito,9395001,Proposition 42,,,Yes,2
 San Benito,9395001,Secretary of State,,REP,Pete Peterson,2
 San Benito,9395001,Secretary of State,,REP,Roy Allmond,1
-San Benito,9395001,State Assembly,30,DEM,Luis Alejo,0
 San Benito,9395001,State Assembly,30,REP,Mark Starritt,3
 San Benito,9395001,State Senate,12,REP,Anthony Cannella,2
-San Benito,9395001,State Senate,12,DEM,Shawn K. Bagley,0
-San Benito,9395001,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 San Benito,9395001,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 San Benito,9395001,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-San Benito,9395001,Treasurer,,GRN,Ellen H. Brown,0
 San Benito,9395001,Treasurer,,REP,Greg Conlon,2
 San Benito,9395001,Treasurer,,DEM,John Chiang,1
 San Benito,9395001,U.S. House,20,IND,Ronald Paul Kabat,1
 San Benito,9395001,U.S. House,20,DEM,Sam Farr,1
 San Benito,9410000,Attorney General,,REP,David King,8
 San Benito,9410000,Attorney General,,REP,John Haggerty,2
-San Benito,9410000,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9410000,Attorney General,,DEM,Kamala D. Harris,13
 San Benito,9410000,Attorney General,,IND,Orly Taitz,3
 San Benito,9410000,Attorney General,,REP,Phil Wyman,17
@@ -1661,37 +1513,30 @@ San Benito,9410000,Controller,,REP,David Evans,12
 San Benito,9410000,Controller,,DEM,John A. Pérez,2
 San Benito,9410000,Controller,,GRN,Laura Wells,3
 San Benito,9410000,Controller,,DEM,Tammy D. Blair,3
-San Benito,9410000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9410000,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9410000,Governor,,REP,Alma Marie Winston,2
 San Benito,9410000,Governor,,REP,Andrew Blount,3
-San Benito,9410000,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9410000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",18
 San Benito,9410000,Governor,,REP,Glenn Champ,5
-San Benito,9410000,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9410000,Governor,,IND,Joe Leicht,0
 San Benito,9410000,Governor,,GRN,Luis J. Rodriguez,1
 San Benito,9410000,Governor,,REP,Neel Kashkari,7
-San Benito,9410000,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9410000,Governor,,REP,Richard William Aguirre,0
-San Benito,9410000,Governor,,IND,Robert Newman,0
 San Benito,9410000,Governor,,REP,Tim Donnelly,20
 San Benito,9410000,Insurance Commissioner,,DEM,Dave Jones,15
 San Benito,9410000,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 San Benito,9410000,Insurance Commissioner,,REP,Ted Gaines,35
 San Benito,9410000,Lieutenant Governor,,AME,Alan Reynolds,2
-San Benito,9410000,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9410000,Lieutenant Governor,,REP,David Fennell,5
 San Benito,9410000,Lieutenant Governor,,DEM,Eric Korevaar,1
 San Benito,9410000,Lieutenant Governor,,DEM,Gavin Newsom,16
 San Benito,9410000,Lieutenant Governor,,REP,George Yang,7
-San Benito,9410000,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9410000,Lieutenant Governor,,REP,Ron Nehring,21
+San Benito,9410000,Proposition 41,,,No,17
+San Benito,9410000,Proposition 41,,,Yes,33
+San Benito,9410000,Proposition 42,,,No,26
+San Benito,9410000,Proposition 42,,,Yes,21
 San Benito,9410000,Secretary of State,,DEM,Alex Padilla,1
 San Benito,9410000,Secretary of State,,IND,Dan Schnur,3
 San Benito,9410000,Secretary of State,,GRN,David Curtis,2
 San Benito,9410000,Secretary of State,,DEM,Derek Cressman,5
-San Benito,9410000,Secretary of State,,DEM,Jeffrey H. Drobman,0
 San Benito,9410000,Secretary of State,,DEM,Leland Yee,6
 San Benito,9410000,Secretary of State,,REP,Pete Peterson,20
 San Benito,9410000,Secretary of State,,REP,Roy Allmond,11
@@ -1722,32 +1567,27 @@ San Benito,9415000,Controller,,REP,David Evans,5
 San Benito,9415000,Controller,,DEM,John A. Pérez,6
 San Benito,9415000,Controller,,GRN,Laura Wells,4
 San Benito,9415000,Controller,,DEM,Tammy D. Blair,1
-San Benito,9415000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9415000,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9415000,Governor,,REP,Alma Marie Winston,1
-San Benito,9415000,Governor,,REP,Andrew Blount,0
-San Benito,9415000,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9415000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 San Benito,9415000,Governor,,REP,Glenn Champ,1
-San Benito,9415000,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9415000,Governor,,IND,Joe Leicht,0
 San Benito,9415000,Governor,,GRN,Luis J. Rodriguez,2
 San Benito,9415000,Governor,,REP,Neel Kashkari,5
-San Benito,9415000,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9415000,Governor,,REP,Richard William Aguirre,0
 San Benito,9415000,Governor,,IND,Robert Newman,1
 San Benito,9415000,Governor,,REP,Tim Donnelly,6
 San Benito,9415000,Insurance Commissioner,,DEM,Dave Jones,23
 San Benito,9415000,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 San Benito,9415000,Insurance Commissioner,,REP,Ted Gaines,13
 San Benito,9415000,Lieutenant Governor,,AME,Alan Reynolds,1
-San Benito,9415000,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9415000,Lieutenant Governor,,REP,David Fennell,2
 San Benito,9415000,Lieutenant Governor,,DEM,Eric Korevaar,1
 San Benito,9415000,Lieutenant Governor,,DEM,Gavin Newsom,25
 San Benito,9415000,Lieutenant Governor,,REP,George Yang,1
 San Benito,9415000,Lieutenant Governor,,GRN,Jena F. Goodman,1
 San Benito,9415000,Lieutenant Governor,,REP,Ron Nehring,10
+San Benito,9415000,Proposition 41,,,No,11
+San Benito,9415000,Proposition 41,,,Yes,29
+San Benito,9415000,Proposition 42,,,No,13
+San Benito,9415000,Proposition 42,,,Yes,27
 San Benito,9415000,Secretary of State,,DEM,Alex Padilla,9
 San Benito,9415000,Secretary of State,,IND,Dan Schnur,4
 San Benito,9415000,Secretary of State,,GRN,David Curtis,1
@@ -1783,7 +1623,6 @@ San Benito,9422000,Controller,,REP,David Evans,34
 San Benito,9422000,Controller,,DEM,John A. Pérez,21
 San Benito,9422000,Controller,,GRN,Laura Wells,8
 San Benito,9422000,Controller,,DEM,Tammy D. Blair,2
-San Benito,9422000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 San Benito,9422000,Governor,,DEM,Akinyemi Agbede,1
 San Benito,9422000,Governor,,REP,Alma Marie Winston,5
 San Benito,9422000,Governor,,REP,Andrew Blount,5
@@ -1791,11 +1630,8 @@ San Benito,9422000,Governor,,PAF,Cindy L. Sheehan,2
 San Benito,9422000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",51
 San Benito,9422000,Governor,,REP,Glenn Champ,5
 San Benito,9422000,Governor,,IND,Janel Hyeshia Buycks,1
-San Benito,9422000,Governor,,IND,Joe Leicht,0
 San Benito,9422000,Governor,,GRN,Luis J. Rodriguez,3
 San Benito,9422000,Governor,,REP,Neel Kashkari,7
-San Benito,9422000,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9422000,Governor,,REP,Richard William Aguirre,0
 San Benito,9422000,Governor,,IND,Robert Newman,2
 San Benito,9422000,Governor,,REP,Tim Donnelly,31
 San Benito,9422000,Insurance Commissioner,,DEM,Dave Jones,41
@@ -1809,6 +1645,10 @@ San Benito,9422000,Lieutenant Governor,,DEM,Gavin Newsom,45
 San Benito,9422000,Lieutenant Governor,,REP,George Yang,11
 San Benito,9422000,Lieutenant Governor,,GRN,Jena F. Goodman,1
 San Benito,9422000,Lieutenant Governor,,REP,Ron Nehring,28
+San Benito,9422000,Proposition 41,,,No,51
+San Benito,9422000,Proposition 41,,,Yes,58
+San Benito,9422000,Proposition 42,,,No,54
+San Benito,9422000,Proposition 42,,,Yes,54
 San Benito,9422000,Secretary of State,,DEM,Alex Padilla,21
 San Benito,9422000,Secretary of State,,IND,Dan Schnur,8
 San Benito,9422000,Secretary of State,,GRN,David Curtis,5
@@ -1845,31 +1685,30 @@ San Benito,9450000,Controller,,DEM,John A. Pérez,16
 San Benito,9450000,Controller,,GRN,Laura Wells,7
 San Benito,9450000,Controller,,DEM,Tammy D. Blair,8
 San Benito,9450000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-San Benito,9450000,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9450000,Governor,,REP,Alma Marie Winston,2
 San Benito,9450000,Governor,,REP,Andrew Blount,1
 San Benito,9450000,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,9450000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",33
 San Benito,9450000,Governor,,REP,Glenn Champ,5
-San Benito,9450000,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,9450000,Governor,,IND,Joe Leicht,1
 San Benito,9450000,Governor,,GRN,Luis J. Rodriguez,6
 San Benito,9450000,Governor,,REP,Neel Kashkari,39
-San Benito,9450000,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9450000,Governor,,REP,Richard William Aguirre,0
 San Benito,9450000,Governor,,IND,Robert Newman,10
 San Benito,9450000,Governor,,REP,Tim Donnelly,25
 San Benito,9450000,Insurance Commissioner,,DEM,Dave Jones,39
 San Benito,9450000,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 San Benito,9450000,Insurance Commissioner,,REP,Ted Gaines,77
 San Benito,9450000,Lieutenant Governor,,AME,Alan Reynolds,2
-San Benito,9450000,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9450000,Lieutenant Governor,,REP,David Fennell,14
 San Benito,9450000,Lieutenant Governor,,DEM,Eric Korevaar,8
 San Benito,9450000,Lieutenant Governor,,DEM,Gavin Newsom,30
 San Benito,9450000,Lieutenant Governor,,REP,George Yang,19
 San Benito,9450000,Lieutenant Governor,,GRN,Jena F. Goodman,3
 San Benito,9450000,Lieutenant Governor,,REP,Ron Nehring,44
+San Benito,9450000,Proposition 41,,,No,51
+San Benito,9450000,Proposition 41,,,Yes,70
+San Benito,9450000,Proposition 42,,,No,59
+San Benito,9450000,Proposition 42,,,Yes,59
 San Benito,9450000,Secretary of State,,DEM,Alex Padilla,19
 San Benito,9450000,Secretary of State,,IND,Dan Schnur,19
 San Benito,9450000,Secretary of State,,GRN,David Curtis,5
@@ -1904,26 +1743,18 @@ San Benito,9460000,Controller,,DEM,Betty T. Yee,3
 San Benito,9460000,Controller,,REP,David Evans,8
 San Benito,9460000,Controller,,DEM,John A. Pérez,3
 San Benito,9460000,Controller,,GRN,Laura Wells,2
-San Benito,9460000,Controller,,DEM,Tammy D. Blair,0
-San Benito,9460000,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9460000,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9460000,Governor,,REP,Alma Marie Winston,1
 San Benito,9460000,Governor,,REP,Andrew Blount,2
 San Benito,9460000,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,9460000,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 San Benito,9460000,Governor,,REP,Glenn Champ,1
-San Benito,9460000,Governor,,IND,Janel Hyeshia Buycks,0
 San Benito,9460000,Governor,,IND,Joe Leicht,1
 San Benito,9460000,Governor,,GRN,Luis J. Rodriguez,1
 San Benito,9460000,Governor,,REP,Neel Kashkari,11
-San Benito,9460000,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9460000,Governor,,REP,Richard William Aguirre,0
-San Benito,9460000,Governor,,IND,Robert Newman,0
 San Benito,9460000,Governor,,REP,Tim Donnelly,12
 San Benito,9460000,Insurance Commissioner,,DEM,Dave Jones,8
 San Benito,9460000,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 San Benito,9460000,Insurance Commissioner,,REP,Ted Gaines,25
-San Benito,9460000,Lieutenant Governor,,AME,Alan Reynolds,0
 San Benito,9460000,Lieutenant Governor,,PAF,Amos Johnson,1
 San Benito,9460000,Lieutenant Governor,,REP,David Fennell,5
 San Benito,9460000,Lieutenant Governor,,DEM,Eric Korevaar,1
@@ -1931,10 +1762,13 @@ San Benito,9460000,Lieutenant Governor,,DEM,Gavin Newsom,9
 San Benito,9460000,Lieutenant Governor,,REP,George Yang,8
 San Benito,9460000,Lieutenant Governor,,GRN,Jena F. Goodman,1
 San Benito,9460000,Lieutenant Governor,,REP,Ron Nehring,16
+San Benito,9460000,Proposition 41,,,No,20
+San Benito,9460000,Proposition 41,,,Yes,22
+San Benito,9460000,Proposition 42,,,No,22
+San Benito,9460000,Proposition 42,,,Yes,18
 San Benito,9460000,Secretary of State,,DEM,Alex Padilla,4
 San Benito,9460000,Secretary of State,,IND,Dan Schnur,10
 San Benito,9460000,Secretary of State,,GRN,David Curtis,2
-San Benito,9460000,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9460000,Secretary of State,,DEM,Jeffrey H. Drobman,1
 San Benito,9460000,Secretary of State,,DEM,Leland Yee,1
 San Benito,9460000,Secretary of State,,REP,Pete Peterson,9
@@ -1951,72 +1785,40 @@ San Benito,9460000,Treasurer,,REP,Greg Conlon,26
 San Benito,9460000,Treasurer,,DEM,John Chiang,11
 San Benito,9460000,U.S. House,20,IND,Ronald Paul Kabat,21
 San Benito,9460000,U.S. House,20,DEM,Sam Farr,16
-San Benito,9535104,Attorney General,,REP,David King,0
-San Benito,9535104,Attorney General,,REP,John Haggerty,0
-San Benito,9535104,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9535104,Attorney General,,DEM,Kamala D. Harris,3
 San Benito,9535104,Attorney General,,IND,Orly Taitz,1
-San Benito,9535104,Attorney General,,REP,Phil Wyman,0
-San Benito,9535104,Attorney General,,REP,Ronald Gold,0
 San Benito,9535104,Board of Equalization,2,DEM,Fiona Ma,4
-San Benito,9535104,Board of Equalization,2,REP,James E. Theis,0
-San Benito,9535104,Controller,,REP,Ashley Swearengin,0
 San Benito,9535104,Controller,,DEM,Betty T. Yee,2
-San Benito,9535104,Controller,,REP,David Evans,0
 San Benito,9535104,Controller,,DEM,John A. Pérez,1
 San Benito,9535104,Controller,,GRN,Laura Wells,1
-San Benito,9535104,Controller,,DEM,Tammy D. Blair,0
-San Benito,9535104,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9535104,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9535104,Governor,,REP,Alma Marie Winston,0
-San Benito,9535104,Governor,,REP,Andrew Blount,0
 San Benito,9535104,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,9535104,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
-San Benito,9535104,Governor,,REP,Glenn Champ,0
-San Benito,9535104,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9535104,Governor,,IND,Joe Leicht,0
-San Benito,9535104,Governor,,GRN,Luis J. Rodriguez,0
-San Benito,9535104,Governor,,REP,Neel Kashkari,0
-San Benito,9535104,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9535104,Governor,,REP,Richard William Aguirre,0
 San Benito,9535104,Governor,,IND,Robert Newman,1
-San Benito,9535104,Governor,,REP,Tim Donnelly,0
 San Benito,9535104,Insurance Commissioner,,DEM,Dave Jones,3
-San Benito,9535104,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 San Benito,9535104,Insurance Commissioner,,REP,Ted Gaines,1
-San Benito,9535104,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9535104,Lieutenant Governor,,PAF,Amos Johnson,0
-San Benito,9535104,Lieutenant Governor,,REP,David Fennell,0
 San Benito,9535104,Lieutenant Governor,,DEM,Eric Korevaar,2
 San Benito,9535104,Lieutenant Governor,,DEM,Gavin Newsom,1
-San Benito,9535104,Lieutenant Governor,,REP,George Yang,0
 San Benito,9535104,Lieutenant Governor,,GRN,Jena F. Goodman,1
-San Benito,9535104,Lieutenant Governor,,REP,Ron Nehring,0
-San Benito,9535104,Secretary of State,,DEM,Alex Padilla,0
-San Benito,9535104,Secretary of State,,IND,Dan Schnur,0
+San Benito,9535104,Proposition 41,,,No,2
+San Benito,9535104,Proposition 41,,,Yes,2
+San Benito,9535104,Proposition 42,,,No,1
+San Benito,9535104,Proposition 42,,,Yes,3
 San Benito,9535104,Secretary of State,,GRN,David Curtis,1
 San Benito,9535104,Secretary of State,,DEM,Derek Cressman,1
-San Benito,9535104,Secretary of State,,DEM,Jeffrey H. Drobman,0
 San Benito,9535104,Secretary of State,,DEM,Leland Yee,2
-San Benito,9535104,Secretary of State,,REP,Pete Peterson,0
-San Benito,9535104,Secretary of State,,REP,Roy Allmond,0
 San Benito,9535104,State Assembly,30,DEM,Luis Alejo,4
-San Benito,9535104,State Assembly,30,REP,Mark Starritt,0
 San Benito,9535104,State Senate,12,REP,Anthony Cannella,1
 San Benito,9535104,State Senate,12,DEM,Shawn K. Bagley,3
 San Benito,9535104,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
 San Benito,9535104,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 San Benito,9535104,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
 San Benito,9535104,Treasurer,,GRN,Ellen H. Brown,2
-San Benito,9535104,Treasurer,,REP,Greg Conlon,0
 San Benito,9535104,Treasurer,,DEM,John Chiang,2
 San Benito,9535104,U.S. House,20,IND,Ronald Paul Kabat,1
 San Benito,9535104,U.S. House,20,DEM,Sam Farr,3
 San Benito,9545003,Attorney General,,REP,David King,3
-San Benito,9545003,Attorney General,,REP,John Haggerty,0
 San Benito,9545003,Attorney General,,LIB,Jonathan Jaech,3
 San Benito,9545003,Attorney General,,DEM,Kamala D. Harris,34
-San Benito,9545003,Attorney General,,IND,Orly Taitz,0
 San Benito,9545003,Attorney General,,REP,Phil Wyman,9
 San Benito,9545003,Attorney General,,REP,Ronald Gold,3
 San Benito,9545003,Board of Equalization,2,DEM,Fiona Ma,34
@@ -2028,35 +1830,28 @@ San Benito,9545003,Controller,,DEM,John A. Pérez,15
 San Benito,9545003,Controller,,GRN,Laura Wells,8
 San Benito,9545003,Controller,,DEM,Tammy D. Blair,1
 San Benito,9545003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-San Benito,9545003,Governor,,DEM,Akinyemi Agbede,0
 San Benito,9545003,Governor,,REP,Alma Marie Winston,1
-San Benito,9545003,Governor,,REP,Andrew Blount,0
-San Benito,9545003,Governor,,PAF,Cindy L. Sheehan,0
 San Benito,9545003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
 San Benito,9545003,Governor,,REP,Glenn Champ,2
-San Benito,9545003,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9545003,Governor,,IND,Joe Leicht,0
 San Benito,9545003,Governor,,GRN,Luis J. Rodriguez,2
 San Benito,9545003,Governor,,REP,Neel Kashkari,2
-San Benito,9545003,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9545003,Governor,,REP,Richard William Aguirre,0
-San Benito,9545003,Governor,,IND,Robert Newman,0
 San Benito,9545003,Governor,,REP,Tim Donnelly,7
 San Benito,9545003,Insurance Commissioner,,DEM,Dave Jones,37
 San Benito,9545003,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 San Benito,9545003,Insurance Commissioner,,REP,Ted Gaines,14
-San Benito,9545003,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9545003,Lieutenant Governor,,PAF,Amos Johnson,0
 San Benito,9545003,Lieutenant Governor,,REP,David Fennell,4
 San Benito,9545003,Lieutenant Governor,,DEM,Eric Korevaar,2
 San Benito,9545003,Lieutenant Governor,,DEM,Gavin Newsom,38
 San Benito,9545003,Lieutenant Governor,,REP,George Yang,3
 San Benito,9545003,Lieutenant Governor,,GRN,Jena F. Goodman,1
 San Benito,9545003,Lieutenant Governor,,REP,Ron Nehring,6
+San Benito,9545003,Proposition 41,,,No,18
+San Benito,9545003,Proposition 41,,,Yes,36
+San Benito,9545003,Proposition 42,,,No,21
+San Benito,9545003,Proposition 42,,,Yes,30
 San Benito,9545003,Secretary of State,,DEM,Alex Padilla,21
 San Benito,9545003,Secretary of State,,IND,Dan Schnur,3
 San Benito,9545003,Secretary of State,,GRN,David Curtis,5
-San Benito,9545003,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9545003,Secretary of State,,DEM,Jeffrey H. Drobman,4
 San Benito,9545003,Secretary of State,,DEM,Leland Yee,6
 San Benito,9545003,Secretary of State,,REP,Pete Peterson,10
@@ -2073,13 +1868,9 @@ San Benito,9545003,Treasurer,,REP,Greg Conlon,12
 San Benito,9545003,Treasurer,,DEM,John Chiang,34
 San Benito,9545003,U.S. House,20,IND,Ronald Paul Kabat,9
 San Benito,9545003,U.S. House,20,DEM,Sam Farr,43
-San Benito,9585002,Attorney General,,REP,David King,0
-San Benito,9585002,Attorney General,,REP,John Haggerty,0
-San Benito,9585002,Attorney General,,LIB,Jonathan Jaech,0
 San Benito,9585002,Attorney General,,DEM,Kamala D. Harris,5
 San Benito,9585002,Attorney General,,IND,Orly Taitz,1
 San Benito,9585002,Attorney General,,REP,Phil Wyman,2
-San Benito,9585002,Attorney General,,REP,Ronald Gold,0
 San Benito,9585002,Board of Equalization,2,DEM,Fiona Ma,6
 San Benito,9585002,Board of Equalization,2,REP,James E. Theis,2
 San Benito,9585002,Controller,,REP,Ashley Swearengin,1
@@ -2087,37 +1878,19 @@ San Benito,9585002,Controller,,DEM,Betty T. Yee,3
 San Benito,9585002,Controller,,REP,David Evans,2
 San Benito,9585002,Controller,,DEM,John A. Pérez,1
 San Benito,9585002,Controller,,GRN,Laura Wells,1
-San Benito,9585002,Controller,,DEM,Tammy D. Blair,0
-San Benito,9585002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-San Benito,9585002,Governor,,DEM,Akinyemi Agbede,0
-San Benito,9585002,Governor,,REP,Alma Marie Winston,0
-San Benito,9585002,Governor,,REP,Andrew Blount,0
 San Benito,9585002,Governor,,PAF,Cindy L. Sheehan,1
 San Benito,9585002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",5
-San Benito,9585002,Governor,,REP,Glenn Champ,0
-San Benito,9585002,Governor,,IND,Janel Hyeshia Buycks,0
-San Benito,9585002,Governor,,IND,Joe Leicht,0
-San Benito,9585002,Governor,,GRN,Luis J. Rodriguez,0
 San Benito,9585002,Governor,,REP,Neel Kashkari,2
-San Benito,9585002,Governor,,IND,Rakesh Kumar Christian,0
-San Benito,9585002,Governor,,REP,Richard William Aguirre,0
-San Benito,9585002,Governor,,IND,Robert Newman,0
 San Benito,9585002,Governor,,REP,Tim Donnelly,1
 San Benito,9585002,Insurance Commissioner,,DEM,Dave Jones,5
 San Benito,9585002,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 San Benito,9585002,Insurance Commissioner,,REP,Ted Gaines,3
-San Benito,9585002,Lieutenant Governor,,AME,Alan Reynolds,0
-San Benito,9585002,Lieutenant Governor,,PAF,Amos Johnson,0
-San Benito,9585002,Lieutenant Governor,,REP,David Fennell,0
-San Benito,9585002,Lieutenant Governor,,DEM,Eric Korevaar,0
 San Benito,9585002,Lieutenant Governor,,DEM,Gavin Newsom,6
-San Benito,9585002,Lieutenant Governor,,REP,George Yang,0
-San Benito,9585002,Lieutenant Governor,,GRN,Jena F. Goodman,0
 San Benito,9585002,Lieutenant Governor,,REP,Ron Nehring,3
+San Benito,9585002,Proposition 41,,,Yes,8
+San Benito,9585002,Proposition 42,,,No,3
+San Benito,9585002,Proposition 42,,,Yes,5
 San Benito,9585002,Secretary of State,,DEM,Alex Padilla,1
-San Benito,9585002,Secretary of State,,IND,Dan Schnur,0
-San Benito,9585002,Secretary of State,,GRN,David Curtis,0
-San Benito,9585002,Secretary of State,,DEM,Derek Cressman,0
 San Benito,9585002,Secretary of State,,DEM,Jeffrey H. Drobman,1
 San Benito,9585002,Secretary of State,,DEM,Leland Yee,3
 San Benito,9585002,Secretary of State,,REP,Pete Peterson,2
@@ -2129,7 +1902,6 @@ San Benito,9585002,State Senate,12,DEM,Shawn K. Bagley,5
 San Benito,9585002,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,5
 San Benito,9585002,Superintendent of Public Instruction,,NOP,Marshall Tuck,2
 San Benito,9585002,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-San Benito,9585002,Treasurer,,GRN,Ellen H. Brown,0
 San Benito,9585002,Treasurer,,REP,Greg Conlon,3
 San Benito,9585002,Treasurer,,DEM,John Chiang,5
 San Benito,9585002,U.S. House,20,IND,Ronald Paul Kabat,2

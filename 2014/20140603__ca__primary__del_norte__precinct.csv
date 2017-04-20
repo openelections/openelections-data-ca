@@ -15,7 +15,6 @@ Del Norte,01,Controller,,DEM,John A. Pérez,45
 Del Norte,01,Controller,,GRN,Laura Wells,27
 Del Norte,01,Controller,,DEM,Tammy D. Blair,21
 Del Norte,01,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Del Norte,01,Governor,,DEM,Akinyemi Agbede,0
 Del Norte,01,Governor,,REP,Alma Marie Winston,15
 Del Norte,01,Governor,,REP,Andrew Blount,12
 Del Norte,01,Governor,,PAF,Cindy L. Sheehan,7
@@ -25,7 +24,6 @@ Del Norte,01,Governor,,IND,Janel Hyeshia Buycks,5
 Del Norte,01,Governor,,IND,Joe Leicht,4
 Del Norte,01,Governor,,GRN,Luis J. Rodriguez,4
 Del Norte,01,Governor,,REP,Neel Kashkari,16
-Del Norte,01,Governor,,IND,Rakesh Kumar Christian,0
 Del Norte,01,Governor,,REP,Richard William Aguirre,3
 Del Norte,01,Governor,,IND,Robert Newman,7
 Del Norte,01,Governor,,REP,Tim Donnelly,61
@@ -40,6 +38,10 @@ Del Norte,01,Lieutenant Governor,,DEM,Gavin Newsom,104
 Del Norte,01,Lieutenant Governor,,REP,George Yang,35
 Del Norte,01,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Del Norte,01,Lieutenant Governor,,REP,Ron Nehring,62
+Del Norte,01,Proposition 41,,,No,93
+Del Norte,01,Proposition 41,,,Yes,195
+Del Norte,01,Proposition 42,,,No,141
+Del Norte,01,Proposition 42,,,Yes,138
 Del Norte,01,Secretary of State,,DEM,Alex Padilla,65
 Del Norte,01,Secretary of State,,IND,Dan Schnur,14
 Del Norte,01,Secretary of State,,GRN,David Curtis,16
@@ -81,7 +83,6 @@ Del Norte,02,Controller,,DEM,John A. Pérez,31
 Del Norte,02,Controller,,GRN,Laura Wells,30
 Del Norte,02,Controller,,DEM,Tammy D. Blair,30
 Del Norte,02,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Del Norte,02,Governor,,DEM,Akinyemi Agbede,0
 Del Norte,02,Governor,,REP,Alma Marie Winston,19
 Del Norte,02,Governor,,REP,Andrew Blount,7
 Del Norte,02,Governor,,PAF,Cindy L. Sheehan,9
@@ -91,7 +92,6 @@ Del Norte,02,Governor,,IND,Janel Hyeshia Buycks,3
 Del Norte,02,Governor,,IND,Joe Leicht,1
 Del Norte,02,Governor,,GRN,Luis J. Rodriguez,3
 Del Norte,02,Governor,,REP,Neel Kashkari,16
-Del Norte,02,Governor,,IND,Rakesh Kumar Christian,0
 Del Norte,02,Governor,,REP,Richard William Aguirre,1
 Del Norte,02,Governor,,IND,Robert Newman,1
 Del Norte,02,Governor,,REP,Tim Donnelly,44
@@ -106,6 +106,10 @@ Del Norte,02,Lieutenant Governor,,DEM,Gavin Newsom,101
 Del Norte,02,Lieutenant Governor,,REP,George Yang,35
 Del Norte,02,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Del Norte,02,Lieutenant Governor,,REP,Ron Nehring,50
+Del Norte,02,Proposition 41,,,No,93
+Del Norte,02,Proposition 41,,,Yes,158
+Del Norte,02,Proposition 42,,,No,140
+Del Norte,02,Proposition 42,,,Yes,105
 Del Norte,02,Secretary of State,,DEM,Alex Padilla,70
 Del Norte,02,Secretary of State,,IND,Dan Schnur,17
 Del Norte,02,Secretary of State,,GRN,David Curtis,12
@@ -146,7 +150,6 @@ Del Norte,03,Controller,,REP,David Evans,44
 Del Norte,03,Controller,,DEM,John A. Pérez,28
 Del Norte,03,Controller,,GRN,Laura Wells,17
 Del Norte,03,Controller,,DEM,Tammy D. Blair,11
-Del Norte,03,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Del Norte,03,Governor,,DEM,Akinyemi Agbede,2
 Del Norte,03,Governor,,REP,Alma Marie Winston,9
 Del Norte,03,Governor,,REP,Andrew Blount,9
@@ -158,7 +161,6 @@ Del Norte,03,Governor,,IND,Joe Leicht,4
 Del Norte,03,Governor,,GRN,Luis J. Rodriguez,5
 Del Norte,03,Governor,,REP,Neel Kashkari,17
 Del Norte,03,Governor,,IND,Rakesh Kumar Christian,1
-Del Norte,03,Governor,,REP,Richard William Aguirre,0
 Del Norte,03,Governor,,IND,Robert Newman,2
 Del Norte,03,Governor,,REP,Tim Donnelly,44
 Del Norte,03,Insurance Commissioner,,DEM,Dave Jones,89
@@ -172,6 +174,10 @@ Del Norte,03,Lieutenant Governor,,DEM,Gavin Newsom,86
 Del Norte,03,Lieutenant Governor,,REP,George Yang,34
 Del Norte,03,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Del Norte,03,Lieutenant Governor,,REP,Ron Nehring,33
+Del Norte,03,Proposition 41,,,No,53
+Del Norte,03,Proposition 41,,,Yes,156
+Del Norte,03,Proposition 42,,,No,98
+Del Norte,03,Proposition 42,,,Yes,103
 Del Norte,03,Secretary of State,,DEM,Alex Padilla,50
 Del Norte,03,Secretary of State,,IND,Dan Schnur,10
 Del Norte,03,Secretary of State,,GRN,David Curtis,8
@@ -220,11 +226,9 @@ Del Norte,04,Governor,,PAF,Cindy L. Sheehan,5
 Del Norte,04,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Del Norte,04,Governor,,REP,Glenn Champ,5
 Del Norte,04,Governor,,IND,Janel Hyeshia Buycks,1
-Del Norte,04,Governor,,IND,Joe Leicht,0
 Del Norte,04,Governor,,GRN,Luis J. Rodriguez,5
 Del Norte,04,Governor,,REP,Neel Kashkari,12
 Del Norte,04,Governor,,IND,Rakesh Kumar Christian,2
-Del Norte,04,Governor,,REP,Richard William Aguirre,0
 Del Norte,04,Governor,,IND,Robert Newman,4
 Del Norte,04,Governor,,REP,Tim Donnelly,34
 Del Norte,04,Insurance Commissioner,,DEM,Dave Jones,58
@@ -238,6 +242,10 @@ Del Norte,04,Lieutenant Governor,,DEM,Gavin Newsom,52
 Del Norte,04,Lieutenant Governor,,REP,George Yang,22
 Del Norte,04,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Del Norte,04,Lieutenant Governor,,REP,Ron Nehring,34
+Del Norte,04,Proposition 41,,,No,41
+Del Norte,04,Proposition 41,,,Yes,104
+Del Norte,04,Proposition 42,,,No,56
+Del Norte,04,Proposition 42,,,Yes,87
 Del Norte,04,Secretary of State,,DEM,Alex Padilla,30
 Del Norte,04,Secretary of State,,IND,Dan Schnur,14
 Del Norte,04,Secretary of State,,GRN,David Curtis,14
@@ -285,11 +293,9 @@ Del Norte,05,Governor,,REP,Andrew Blount,5
 Del Norte,05,Governor,,PAF,Cindy L. Sheehan,1
 Del Norte,05,Governor,,DEM,"Edmund G. ""Jerry"" Brown",114
 Del Norte,05,Governor,,REP,Glenn Champ,1
-Del Norte,05,Governor,,IND,Janel Hyeshia Buycks,0
 Del Norte,05,Governor,,IND,Joe Leicht,2
 Del Norte,05,Governor,,GRN,Luis J. Rodriguez,5
 Del Norte,05,Governor,,REP,Neel Kashkari,15
-Del Norte,05,Governor,,IND,Rakesh Kumar Christian,0
 Del Norte,05,Governor,,REP,Richard William Aguirre,2
 Del Norte,05,Governor,,IND,Robert Newman,3
 Del Norte,05,Governor,,REP,Tim Donnelly,40
@@ -304,6 +310,10 @@ Del Norte,05,Lieutenant Governor,,DEM,Gavin Newsom,81
 Del Norte,05,Lieutenant Governor,,REP,George Yang,30
 Del Norte,05,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Del Norte,05,Lieutenant Governor,,REP,Ron Nehring,37
+Del Norte,05,Proposition 41,,,No,50
+Del Norte,05,Proposition 41,,,Yes,147
+Del Norte,05,Proposition 42,,,No,95
+Del Norte,05,Proposition 42,,,Yes,94
 Del Norte,05,Secretary of State,,DEM,Alex Padilla,49
 Del Norte,05,Secretary of State,,IND,Dan Schnur,11
 Del Norte,05,Secretary of State,,GRN,David Curtis,8
@@ -344,7 +354,6 @@ Del Norte,06,Controller,,REP,David Evans,40
 Del Norte,06,Controller,,DEM,John A. Pérez,21
 Del Norte,06,Controller,,GRN,Laura Wells,11
 Del Norte,06,Controller,,DEM,Tammy D. Blair,13
-Del Norte,06,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Del Norte,06,Governor,,DEM,Akinyemi Agbede,4
 Del Norte,06,Governor,,REP,Alma Marie Winston,3
 Del Norte,06,Governor,,REP,Andrew Blount,4
@@ -352,17 +361,14 @@ Del Norte,06,Governor,,PAF,Cindy L. Sheehan,2
 Del Norte,06,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Del Norte,06,Governor,,REP,Glenn Champ,3
 Del Norte,06,Governor,,IND,Janel Hyeshia Buycks,1
-Del Norte,06,Governor,,IND,Joe Leicht,0
 Del Norte,06,Governor,,GRN,Luis J. Rodriguez,1
 Del Norte,06,Governor,,REP,Neel Kashkari,29
 Del Norte,06,Governor,,IND,Rakesh Kumar Christian,2
-Del Norte,06,Governor,,REP,Richard William Aguirre,0
 Del Norte,06,Governor,,IND,Robert Newman,3
 Del Norte,06,Governor,,REP,Tim Donnelly,56
 Del Norte,06,Insurance Commissioner,,DEM,Dave Jones,85
 Del Norte,06,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Del Norte,06,Insurance Commissioner,,REP,Ted Gaines,98
-Del Norte,06,Lieutenant Governor,,AME,Alan Reynolds,0
 Del Norte,06,Lieutenant Governor,,PAF,Amos Johnson,3
 Del Norte,06,Lieutenant Governor,,REP,David Fennell,18
 Del Norte,06,Lieutenant Governor,,DEM,Eric Korevaar,18
@@ -370,6 +376,10 @@ Del Norte,06,Lieutenant Governor,,DEM,Gavin Newsom,73
 Del Norte,06,Lieutenant Governor,,REP,George Yang,20
 Del Norte,06,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Del Norte,06,Lieutenant Governor,,REP,Ron Nehring,57
+Del Norte,06,Proposition 41,,,No,53
+Del Norte,06,Proposition 41,,,Yes,140
+Del Norte,06,Proposition 42,,,No,63
+Del Norte,06,Proposition 42,,,Yes,124
 Del Norte,06,Secretary of State,,DEM,Alex Padilla,39
 Del Norte,06,Secretary of State,,IND,Dan Schnur,15
 Del Norte,06,Secretary of State,,GRN,David Curtis,7
@@ -418,7 +428,6 @@ Del Norte,07,Governor,,PAF,Cindy L. Sheehan,4
 Del Norte,07,Governor,,DEM,"Edmund G. ""Jerry"" Brown",186
 Del Norte,07,Governor,,REP,Glenn Champ,10
 Del Norte,07,Governor,,IND,Janel Hyeshia Buycks,1
-Del Norte,07,Governor,,IND,Joe Leicht,0
 Del Norte,07,Governor,,GRN,Luis J. Rodriguez,11
 Del Norte,07,Governor,,REP,Neel Kashkari,25
 Del Norte,07,Governor,,IND,Rakesh Kumar Christian,3
@@ -436,6 +445,10 @@ Del Norte,07,Lieutenant Governor,,DEM,Gavin Newsom,143
 Del Norte,07,Lieutenant Governor,,REP,George Yang,55
 Del Norte,07,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Del Norte,07,Lieutenant Governor,,REP,Ron Nehring,81
+Del Norte,07,Proposition 41,,,No,113
+Del Norte,07,Proposition 41,,,Yes,245
+Del Norte,07,Proposition 42,,,No,169
+Del Norte,07,Proposition 42,,,Yes,184
 Del Norte,07,Secretary of State,,DEM,Alex Padilla,85
 Del Norte,07,Secretary of State,,IND,Dan Schnur,22
 Del Norte,07,Secretary of State,,GRN,David Curtis,24
@@ -477,18 +490,13 @@ Del Norte,08,Controller,,DEM,John A. Pérez,30
 Del Norte,08,Controller,,GRN,Laura Wells,6
 Del Norte,08,Controller,,DEM,Tammy D. Blair,11
 Del Norte,08,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Del Norte,08,Governor,,DEM,Akinyemi Agbede,0
 Del Norte,08,Governor,,REP,Alma Marie Winston,12
 Del Norte,08,Governor,,REP,Andrew Blount,5
-Del Norte,08,Governor,,PAF,Cindy L. Sheehan,0
 Del Norte,08,Governor,,DEM,"Edmund G. ""Jerry"" Brown",97
 Del Norte,08,Governor,,REP,Glenn Champ,8
-Del Norte,08,Governor,,IND,Janel Hyeshia Buycks,0
 Del Norte,08,Governor,,IND,Joe Leicht,2
 Del Norte,08,Governor,,GRN,Luis J. Rodriguez,2
 Del Norte,08,Governor,,REP,Neel Kashkari,22
-Del Norte,08,Governor,,IND,Rakesh Kumar Christian,0
-Del Norte,08,Governor,,REP,Richard William Aguirre,0
 Del Norte,08,Governor,,IND,Robert Newman,7
 Del Norte,08,Governor,,REP,Tim Donnelly,57
 Del Norte,08,Insurance Commissioner,,DEM,Dave Jones,90
@@ -502,6 +510,10 @@ Del Norte,08,Lieutenant Governor,,DEM,Gavin Newsom,77
 Del Norte,08,Lieutenant Governor,,REP,George Yang,25
 Del Norte,08,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Del Norte,08,Lieutenant Governor,,REP,Ron Nehring,60
+Del Norte,08,Proposition 41,,,No,99
+Del Norte,08,Proposition 41,,,Yes,120
+Del Norte,08,Proposition 42,,,No,117
+Del Norte,08,Proposition 42,,,Yes,90
 Del Norte,08,Secretary of State,,DEM,Alex Padilla,42
 Del Norte,08,Secretary of State,,IND,Dan Schnur,19
 Del Norte,08,Secretary of State,,GRN,David Curtis,5
@@ -543,17 +555,14 @@ Del Norte,09,Controller,,DEM,John A. Pérez,20
 Del Norte,09,Controller,,GRN,Laura Wells,8
 Del Norte,09,Controller,,DEM,Tammy D. Blair,15
 Del Norte,09,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Del Norte,09,Governor,,DEM,Akinyemi Agbede,0
 Del Norte,09,Governor,,REP,Alma Marie Winston,16
 Del Norte,09,Governor,,REP,Andrew Blount,12
 Del Norte,09,Governor,,PAF,Cindy L. Sheehan,1
 Del Norte,09,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 Del Norte,09,Governor,,REP,Glenn Champ,11
-Del Norte,09,Governor,,IND,Janel Hyeshia Buycks,0
 Del Norte,09,Governor,,IND,Joe Leicht,1
 Del Norte,09,Governor,,GRN,Luis J. Rodriguez,1
 Del Norte,09,Governor,,REP,Neel Kashkari,16
-Del Norte,09,Governor,,IND,Rakesh Kumar Christian,0
 Del Norte,09,Governor,,REP,Richard William Aguirre,2
 Del Norte,09,Governor,,IND,Robert Newman,8
 Del Norte,09,Governor,,REP,Tim Donnelly,48
@@ -568,6 +577,10 @@ Del Norte,09,Lieutenant Governor,,DEM,Gavin Newsom,55
 Del Norte,09,Lieutenant Governor,,REP,George Yang,32
 Del Norte,09,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Del Norte,09,Lieutenant Governor,,REP,Ron Nehring,48
+Del Norte,09,Proposition 41,,,No,74
+Del Norte,09,Proposition 41,,,Yes,124
+Del Norte,09,Proposition 42,,,No,91
+Del Norte,09,Proposition 42,,,Yes,98
 Del Norte,09,Secretary of State,,DEM,Alex Padilla,36
 Del Norte,09,Secretary of State,,IND,Dan Schnur,16
 Del Norte,09,Secretary of State,,GRN,David Curtis,5
@@ -616,7 +629,6 @@ Del Norte,10,Governor,,PAF,Cindy L. Sheehan,4
 Del Norte,10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",182
 Del Norte,10,Governor,,REP,Glenn Champ,9
 Del Norte,10,Governor,,IND,Janel Hyeshia Buycks,2
-Del Norte,10,Governor,,IND,Joe Leicht,0
 Del Norte,10,Governor,,GRN,Luis J. Rodriguez,2
 Del Norte,10,Governor,,REP,Neel Kashkari,46
 Del Norte,10,Governor,,IND,Rakesh Kumar Christian,1
@@ -634,6 +646,10 @@ Del Norte,10,Lieutenant Governor,,DEM,Gavin Newsom,140
 Del Norte,10,Lieutenant Governor,,REP,George Yang,66
 Del Norte,10,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Del Norte,10,Lieutenant Governor,,REP,Ron Nehring,82
+Del Norte,10,Proposition 41,,,No,143
+Del Norte,10,Proposition 41,,,Yes,222
+Del Norte,10,Proposition 42,,,No,172
+Del Norte,10,Proposition 42,,,Yes,180
 Del Norte,10,Secretary of State,,DEM,Alex Padilla,88
 Del Norte,10,Secretary of State,,IND,Dan Schnur,31
 Del Norte,10,Secretary of State,,GRN,David Curtis,14
@@ -685,8 +701,6 @@ Del Norte,11,Governor,,IND,Janel Hyeshia Buycks,1
 Del Norte,11,Governor,,IND,Joe Leicht,2
 Del Norte,11,Governor,,GRN,Luis J. Rodriguez,7
 Del Norte,11,Governor,,REP,Neel Kashkari,55
-Del Norte,11,Governor,,IND,Rakesh Kumar Christian,0
-Del Norte,11,Governor,,REP,Richard William Aguirre,0
 Del Norte,11,Governor,,IND,Robert Newman,5
 Del Norte,11,Governor,,REP,Tim Donnelly,103
 Del Norte,11,Insurance Commissioner,,DEM,Dave Jones,116
@@ -700,6 +714,10 @@ Del Norte,11,Lieutenant Governor,,DEM,Gavin Newsom,101
 Del Norte,11,Lieutenant Governor,,REP,George Yang,59
 Del Norte,11,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Del Norte,11,Lieutenant Governor,,REP,Ron Nehring,105
+Del Norte,11,Proposition 41,,,No,158
+Del Norte,11,Proposition 41,,,Yes,199
+Del Norte,11,Proposition 42,,,No,197
+Del Norte,11,Proposition 42,,,Yes,150
 Del Norte,11,Secretary of State,,DEM,Alex Padilla,63
 Del Norte,11,Secretary of State,,IND,Dan Schnur,39
 Del Norte,11,Secretary of State,,GRN,David Curtis,14
@@ -740,14 +758,11 @@ Del Norte,12,Controller,,REP,David Evans,91
 Del Norte,12,Controller,,DEM,John A. Pérez,40
 Del Norte,12,Controller,,GRN,Laura Wells,22
 Del Norte,12,Controller,,DEM,Tammy D. Blair,13
-Del Norte,12,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Del Norte,12,Governor,,DEM,Akinyemi Agbede,0
 Del Norte,12,Governor,,REP,Alma Marie Winston,14
 Del Norte,12,Governor,,REP,Andrew Blount,8
 Del Norte,12,Governor,,PAF,Cindy L. Sheehan,7
 Del Norte,12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",135
 Del Norte,12,Governor,,REP,Glenn Champ,9
-Del Norte,12,Governor,,IND,Janel Hyeshia Buycks,0
 Del Norte,12,Governor,,IND,Joe Leicht,1
 Del Norte,12,Governor,,GRN,Luis J. Rodriguez,7
 Del Norte,12,Governor,,REP,Neel Kashkari,22
@@ -766,6 +781,10 @@ Del Norte,12,Lieutenant Governor,,DEM,Gavin Newsom,111
 Del Norte,12,Lieutenant Governor,,REP,George Yang,33
 Del Norte,12,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Del Norte,12,Lieutenant Governor,,REP,Ron Nehring,44
+Del Norte,12,Proposition 41,,,No,110
+Del Norte,12,Proposition 41,,,Yes,153
+Del Norte,12,Proposition 42,,,No,131
+Del Norte,12,Proposition 42,,,Yes,127
 Del Norte,12,Secretary of State,,DEM,Alex Padilla,62
 Del Norte,12,Secretary of State,,IND,Dan Schnur,19
 Del Norte,12,Secretary of State,,GRN,David Curtis,16
@@ -817,8 +836,6 @@ Del Norte,13,Governor,,IND,Janel Hyeshia Buycks,6
 Del Norte,13,Governor,,IND,Joe Leicht,1
 Del Norte,13,Governor,,GRN,Luis J. Rodriguez,8
 Del Norte,13,Governor,,REP,Neel Kashkari,19
-Del Norte,13,Governor,,IND,Rakesh Kumar Christian,0
-Del Norte,13,Governor,,REP,Richard William Aguirre,0
 Del Norte,13,Governor,,IND,Robert Newman,2
 Del Norte,13,Governor,,REP,Tim Donnelly,36
 Del Norte,13,Insurance Commissioner,,DEM,Dave Jones,64
@@ -832,6 +849,10 @@ Del Norte,13,Lieutenant Governor,,DEM,Gavin Newsom,51
 Del Norte,13,Lieutenant Governor,,REP,George Yang,31
 Del Norte,13,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Del Norte,13,Lieutenant Governor,,REP,Ron Nehring,29
+Del Norte,13,Proposition 41,,,No,57
+Del Norte,13,Proposition 41,,,Yes,122
+Del Norte,13,Proposition 42,,,No,90
+Del Norte,13,Proposition 42,,,Yes,80
 Del Norte,13,Secretary of State,,DEM,Alex Padilla,25
 Del Norte,13,Secretary of State,,IND,Dan Schnur,13
 Del Norte,13,Secretary of State,,GRN,David Curtis,14
@@ -898,6 +919,10 @@ Del Norte,14,Lieutenant Governor,,DEM,Gavin Newsom,200
 Del Norte,14,Lieutenant Governor,,REP,George Yang,96
 Del Norte,14,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Del Norte,14,Lieutenant Governor,,REP,Ron Nehring,158
+Del Norte,14,Proposition 41,,,No,270
+Del Norte,14,Proposition 41,,,Yes,368
+Del Norte,14,Proposition 42,,,No,351
+Del Norte,14,Proposition 42,,,Yes,256
 Del Norte,14,Secretary of State,,DEM,Alex Padilla,119
 Del Norte,14,Secretary of State,,IND,Dan Schnur,49
 Del Norte,14,Secretary of State,,GRN,David Curtis,21
@@ -946,8 +971,6 @@ Del Norte,15,Governor,,PAF,Cindy L. Sheehan,6
 Del Norte,15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",150
 Del Norte,15,Governor,,REP,Glenn Champ,18
 Del Norte,15,Governor,,IND,Janel Hyeshia Buycks,6
-Del Norte,15,Governor,,IND,Joe Leicht,0
-Del Norte,15,Governor,,GRN,Luis J. Rodriguez,0
 Del Norte,15,Governor,,REP,Neel Kashkari,51
 Del Norte,15,Governor,,IND,Rakesh Kumar Christian,4
 Del Norte,15,Governor,,REP,Richard William Aguirre,3
@@ -964,6 +987,10 @@ Del Norte,15,Lieutenant Governor,,DEM,Gavin Newsom,123
 Del Norte,15,Lieutenant Governor,,REP,George Yang,73
 Del Norte,15,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Del Norte,15,Lieutenant Governor,,REP,Ron Nehring,154
+Del Norte,15,Proposition 41,,,No,219
+Del Norte,15,Proposition 41,,,Yes,258
+Del Norte,15,Proposition 42,,,No,237
+Del Norte,15,Proposition 42,,,Yes,222
 Del Norte,15,Secretary of State,,DEM,Alex Padilla,64
 Del Norte,15,Secretary of State,,IND,Dan Schnur,36
 Del Norte,15,Secretary of State,,GRN,David Curtis,12
@@ -1015,7 +1042,6 @@ Del Norte,16,Governor,,IND,Janel Hyeshia Buycks,2
 Del Norte,16,Governor,,IND,Joe Leicht,3
 Del Norte,16,Governor,,GRN,Luis J. Rodriguez,9
 Del Norte,16,Governor,,REP,Neel Kashkari,60
-Del Norte,16,Governor,,IND,Rakesh Kumar Christian,0
 Del Norte,16,Governor,,REP,Richard William Aguirre,1
 Del Norte,16,Governor,,IND,Robert Newman,14
 Del Norte,16,Governor,,REP,Tim Donnelly,147
@@ -1030,6 +1056,10 @@ Del Norte,16,Lieutenant Governor,,DEM,Gavin Newsom,200
 Del Norte,16,Lieutenant Governor,,REP,George Yang,85
 Del Norte,16,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Del Norte,16,Lieutenant Governor,,REP,Ron Nehring,137
+Del Norte,16,Proposition 41,,,No,211
+Del Norte,16,Proposition 41,,,Yes,341
+Del Norte,16,Proposition 42,,,No,260
+Del Norte,16,Proposition 42,,,Yes,282
 Del Norte,16,Secretary of State,,DEM,Alex Padilla,98
 Del Norte,16,Secretary of State,,IND,Dan Schnur,37
 Del Norte,16,Secretary of State,,GRN,David Curtis,27
@@ -1096,6 +1126,10 @@ Del Norte,17,Lieutenant Governor,,DEM,Gavin Newsom,155
 Del Norte,17,Lieutenant Governor,,REP,George Yang,67
 Del Norte,17,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Del Norte,17,Lieutenant Governor,,REP,Ron Nehring,104
+Del Norte,17,Proposition 41,,,No,156
+Del Norte,17,Proposition 41,,,Yes,319
+Del Norte,17,Proposition 42,,,No,225
+Del Norte,17,Proposition 42,,,Yes,226
 Del Norte,17,Secretary of State,,DEM,Alex Padilla,81
 Del Norte,17,Secretary of State,,IND,Dan Schnur,39
 Del Norte,17,Secretary of State,,GRN,David Curtis,15
@@ -1136,7 +1170,6 @@ Del Norte,18,Controller,,REP,David Evans,49
 Del Norte,18,Controller,,DEM,John A. Pérez,22
 Del Norte,18,Controller,,GRN,Laura Wells,18
 Del Norte,18,Controller,,DEM,Tammy D. Blair,21
-Del Norte,18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Del Norte,18,Governor,,DEM,Akinyemi Agbede,3
 Del Norte,18,Governor,,REP,Alma Marie Winston,10
 Del Norte,18,Governor,,REP,Andrew Blount,14
@@ -1162,6 +1195,10 @@ Del Norte,18,Lieutenant Governor,,DEM,Gavin Newsom,70
 Del Norte,18,Lieutenant Governor,,REP,George Yang,31
 Del Norte,18,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Del Norte,18,Lieutenant Governor,,REP,Ron Nehring,39
+Del Norte,18,Proposition 41,,,No,63
+Del Norte,18,Proposition 41,,,Yes,126
+Del Norte,18,Proposition 42,,,No,73
+Del Norte,18,Proposition 42,,,Yes,106
 Del Norte,18,Secretary of State,,DEM,Alex Padilla,32
 Del Norte,18,Secretary of State,,IND,Dan Schnur,17
 Del Norte,18,Secretary of State,,GRN,David Curtis,9

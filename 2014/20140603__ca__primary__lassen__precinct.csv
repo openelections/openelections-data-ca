@@ -15,17 +15,14 @@ Lassen,CP1,Controller,,DEM,John A. Pérez,59
 Lassen,CP1,Controller,,GRN,Laura Wells,26
 Lassen,CP1,Controller,,DEM,Tammy D. Blair,16
 Lassen,CP1,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Lassen,CP1,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP1,Governor,,REP,Alma Marie Winston,5
 Lassen,CP1,Governor,,REP,Andrew Blount,4
 Lassen,CP1,Governor,,PAF,Cindy L. Sheehan,6
 Lassen,CP1,Governor,,DEM,"Edmund G. ""Jerry"" Brown",159
 Lassen,CP1,Governor,,REP,Glenn Champ,11
-Lassen,CP1,Governor,,IND,Janel Hyeshia Buycks,0
 Lassen,CP1,Governor,,IND,Joe Leicht,2
 Lassen,CP1,Governor,,GRN,Luis J. Rodriguez,7
 Lassen,CP1,Governor,,REP,Neel Kashkari,64
-Lassen,CP1,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,CP1,Governor,,REP,Richard William Aguirre,2
 Lassen,CP1,Governor,,IND,Robert Newman,4
 Lassen,CP1,Governor,,REP,Tim Donnelly,65
@@ -40,6 +37,10 @@ Lassen,CP1,Lieutenant Governor,,DEM,Gavin Newsom,138
 Lassen,CP1,Lieutenant Governor,,REP,George Yang,27
 Lassen,CP1,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Lassen,CP1,Lieutenant Governor,,REP,Ron Nehring,86
+Lassen,CP1,Proposition 41,,,No,115
+Lassen,CP1,Proposition 41,,,Yes,213
+Lassen,CP1,Proposition 42,,,No,164
+Lassen,CP1,Proposition 42,,,Yes,158
 Lassen,CP1,Secretary of State,,DEM,Alex Padilla,74
 Lassen,CP1,Secretary of State,,IND,Dan Schnur,31
 Lassen,CP1,Secretary of State,,GRN,David Curtis,12
@@ -76,18 +77,14 @@ Lassen,CP11,Controller,,DEM,John A. Pérez,27
 Lassen,CP11,Controller,,GRN,Laura Wells,13
 Lassen,CP11,Controller,,DEM,Tammy D. Blair,11
 Lassen,CP11,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-Lassen,CP11,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP11,Governor,,REP,Alma Marie Winston,16
 Lassen,CP11,Governor,,REP,Andrew Blount,14
-Lassen,CP11,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,CP11,Governor,,DEM,"Edmund G. ""Jerry"" Brown",106
 Lassen,CP11,Governor,,REP,Glenn Champ,26
 Lassen,CP11,Governor,,IND,Janel Hyeshia Buycks,1
-Lassen,CP11,Governor,,IND,Joe Leicht,0
 Lassen,CP11,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,CP11,Governor,,REP,Neel Kashkari,75
 Lassen,CP11,Governor,,IND,Rakesh Kumar Christian,2
-Lassen,CP11,Governor,,REP,Richard William Aguirre,0
 Lassen,CP11,Governor,,IND,Robert Newman,9
 Lassen,CP11,Governor,,REP,Tim Donnelly,139
 Lassen,CP11,Insurance Commissioner,,DEM,Dave Jones,92
@@ -101,6 +98,10 @@ Lassen,CP11,Lieutenant Governor,,DEM,Gavin Newsom,80
 Lassen,CP11,Lieutenant Governor,,REP,George Yang,61
 Lassen,CP11,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Lassen,CP11,Lieutenant Governor,,REP,Ron Nehring,151
+Lassen,CP11,Proposition 41,,,No,197
+Lassen,CP11,Proposition 41,,,Yes,186
+Lassen,CP11,Proposition 42,,,No,220
+Lassen,CP11,Proposition 42,,,Yes,164
 Lassen,CP11,Secretary of State,,DEM,Alex Padilla,49
 Lassen,CP11,Secretary of State,,IND,Dan Schnur,51
 Lassen,CP11,Secretary of State,,GRN,David Curtis,4
@@ -147,7 +148,6 @@ Lassen,CP12,Governor,,IND,Janel Hyeshia Buycks,2
 Lassen,CP12,Governor,,IND,Joe Leicht,3
 Lassen,CP12,Governor,,GRN,Luis J. Rodriguez,3
 Lassen,CP12,Governor,,REP,Neel Kashkari,115
-Lassen,CP12,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,CP12,Governor,,REP,Richard William Aguirre,3
 Lassen,CP12,Governor,,IND,Robert Newman,14
 Lassen,CP12,Governor,,REP,Tim Donnelly,225
@@ -162,6 +162,10 @@ Lassen,CP12,Lieutenant Governor,,DEM,Gavin Newsom,114
 Lassen,CP12,Lieutenant Governor,,REP,George Yang,92
 Lassen,CP12,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Lassen,CP12,Lieutenant Governor,,REP,Ron Nehring,212
+Lassen,CP12,Proposition 41,,,No,284
+Lassen,CP12,Proposition 41,,,Yes,284
+Lassen,CP12,Proposition 42,,,No,324
+Lassen,CP12,Proposition 42,,,Yes,232
 Lassen,CP12,Secretary of State,,DEM,Alex Padilla,54
 Lassen,CP12,Secretary of State,,IND,Dan Schnur,76
 Lassen,CP12,Secretary of State,,GRN,David Curtis,12
@@ -206,7 +210,6 @@ Lassen,CP13,Governor,,DEM,"Edmund G. ""Jerry"" Brown",100
 Lassen,CP13,Governor,,REP,Glenn Champ,15
 Lassen,CP13,Governor,,IND,Janel Hyeshia Buycks,3
 Lassen,CP13,Governor,,IND,Joe Leicht,3
-Lassen,CP13,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,CP13,Governor,,REP,Neel Kashkari,88
 Lassen,CP13,Governor,,IND,Rakesh Kumar Christian,1
 Lassen,CP13,Governor,,REP,Richard William Aguirre,4
@@ -223,6 +226,10 @@ Lassen,CP13,Lieutenant Governor,,DEM,Gavin Newsom,87
 Lassen,CP13,Lieutenant Governor,,REP,George Yang,33
 Lassen,CP13,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Lassen,CP13,Lieutenant Governor,,REP,Ron Nehring,133
+Lassen,CP13,Proposition 41,,,No,174
+Lassen,CP13,Proposition 41,,,Yes,196
+Lassen,CP13,Proposition 42,,,No,221
+Lassen,CP13,Proposition 42,,,Yes,147
 Lassen,CP13,Secretary of State,,DEM,Alex Padilla,50
 Lassen,CP13,Secretary of State,,IND,Dan Schnur,59
 Lassen,CP13,Secretary of State,,GRN,David Curtis,7
@@ -258,7 +265,6 @@ Lassen,CP16,Controller,,REP,David Evans,103
 Lassen,CP16,Controller,,DEM,John A. Pérez,14
 Lassen,CP16,Controller,,GRN,Laura Wells,15
 Lassen,CP16,Controller,,DEM,Tammy D. Blair,8
-Lassen,CP16,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,CP16,Governor,,DEM,Akinyemi Agbede,1
 Lassen,CP16,Governor,,REP,Alma Marie Winston,4
 Lassen,CP16,Governor,,REP,Andrew Blount,10
@@ -266,11 +272,9 @@ Lassen,CP16,Governor,,PAF,Cindy L. Sheehan,5
 Lassen,CP16,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Lassen,CP16,Governor,,REP,Glenn Champ,13
 Lassen,CP16,Governor,,IND,Janel Hyeshia Buycks,1
-Lassen,CP16,Governor,,IND,Joe Leicht,0
 Lassen,CP16,Governor,,GRN,Luis J. Rodriguez,2
 Lassen,CP16,Governor,,REP,Neel Kashkari,62
 Lassen,CP16,Governor,,IND,Rakesh Kumar Christian,4
-Lassen,CP16,Governor,,REP,Richard William Aguirre,0
 Lassen,CP16,Governor,,IND,Robert Newman,5
 Lassen,CP16,Governor,,REP,Tim Donnelly,78
 Lassen,CP16,Insurance Commissioner,,DEM,Dave Jones,44
@@ -284,6 +288,10 @@ Lassen,CP16,Lieutenant Governor,,DEM,Gavin Newsom,39
 Lassen,CP16,Lieutenant Governor,,REP,George Yang,31
 Lassen,CP16,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Lassen,CP16,Lieutenant Governor,,REP,Ron Nehring,95
+Lassen,CP16,Proposition 41,,,No,132
+Lassen,CP16,Proposition 41,,,Yes,107
+Lassen,CP16,Proposition 42,,,No,137
+Lassen,CP16,Proposition 42,,,Yes,94
 Lassen,CP16,Secretary of State,,DEM,Alex Padilla,18
 Lassen,CP16,Secretary of State,,IND,Dan Schnur,41
 Lassen,CP16,Secretary of State,,GRN,David Curtis,8
@@ -320,18 +328,13 @@ Lassen,CP18,Controller,,DEM,John A. Pérez,43
 Lassen,CP18,Controller,,GRN,Laura Wells,14
 Lassen,CP18,Controller,,DEM,Tammy D. Blair,10
 Lassen,CP18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Lassen,CP18,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP18,Governor,,REP,Alma Marie Winston,7
 Lassen,CP18,Governor,,REP,Andrew Blount,14
 Lassen,CP18,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,CP18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",130
 Lassen,CP18,Governor,,REP,Glenn Champ,7
-Lassen,CP18,Governor,,IND,Janel Hyeshia Buycks,0
 Lassen,CP18,Governor,,IND,Joe Leicht,1
-Lassen,CP18,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,CP18,Governor,,REP,Neel Kashkari,51
-Lassen,CP18,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,CP18,Governor,,REP,Richard William Aguirre,0
 Lassen,CP18,Governor,,IND,Robert Newman,4
 Lassen,CP18,Governor,,REP,Tim Donnelly,97
 Lassen,CP18,Insurance Commissioner,,DEM,Dave Jones,104
@@ -345,6 +348,10 @@ Lassen,CP18,Lieutenant Governor,,DEM,Gavin Newsom,100
 Lassen,CP18,Lieutenant Governor,,REP,George Yang,31
 Lassen,CP18,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Lassen,CP18,Lieutenant Governor,,REP,Ron Nehring,106
+Lassen,CP18,Proposition 41,,,No,129
+Lassen,CP18,Proposition 41,,,Yes,195
+Lassen,CP18,Proposition 42,,,No,174
+Lassen,CP18,Proposition 42,,,Yes,138
 Lassen,CP18,Secretary of State,,DEM,Alex Padilla,62
 Lassen,CP18,Secretary of State,,IND,Dan Schnur,43
 Lassen,CP18,Secretary of State,,GRN,David Curtis,3
@@ -381,7 +388,6 @@ Lassen,CP19,Controller,,DEM,John A. Pérez,24
 Lassen,CP19,Controller,,GRN,Laura Wells,11
 Lassen,CP19,Controller,,DEM,Tammy D. Blair,8
 Lassen,CP19,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Lassen,CP19,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP19,Governor,,REP,Alma Marie Winston,7
 Lassen,CP19,Governor,,REP,Andrew Blount,10
 Lassen,CP19,Governor,,PAF,Cindy L. Sheehan,1
@@ -392,7 +398,6 @@ Lassen,CP19,Governor,,IND,Joe Leicht,1
 Lassen,CP19,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,CP19,Governor,,REP,Neel Kashkari,55
 Lassen,CP19,Governor,,IND,Rakesh Kumar Christian,1
-Lassen,CP19,Governor,,REP,Richard William Aguirre,0
 Lassen,CP19,Governor,,IND,Robert Newman,5
 Lassen,CP19,Governor,,REP,Tim Donnelly,84
 Lassen,CP19,Insurance Commissioner,,DEM,Dave Jones,76
@@ -406,6 +411,10 @@ Lassen,CP19,Lieutenant Governor,,DEM,Gavin Newsom,70
 Lassen,CP19,Lieutenant Governor,,REP,George Yang,50
 Lassen,CP19,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Lassen,CP19,Lieutenant Governor,,REP,Ron Nehring,81
+Lassen,CP19,Proposition 41,,,No,121
+Lassen,CP19,Proposition 41,,,Yes,155
+Lassen,CP19,Proposition 42,,,No,160
+Lassen,CP19,Proposition 42,,,Yes,113
 Lassen,CP19,Secretary of State,,DEM,Alex Padilla,41
 Lassen,CP19,Secretary of State,,IND,Dan Schnur,29
 Lassen,CP19,Secretary of State,,GRN,David Curtis,5
@@ -441,8 +450,6 @@ Lassen,CP20,Controller,,REP,David Evans,95
 Lassen,CP20,Controller,,DEM,John A. Pérez,14
 Lassen,CP20,Controller,,GRN,Laura Wells,2
 Lassen,CP20,Controller,,DEM,Tammy D. Blair,2
-Lassen,CP20,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,CP20,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP20,Governor,,REP,Alma Marie Winston,11
 Lassen,CP20,Governor,,REP,Andrew Blount,9
 Lassen,CP20,Governor,,PAF,Cindy L. Sheehan,1
@@ -453,7 +460,6 @@ Lassen,CP20,Governor,,IND,Joe Leicht,3
 Lassen,CP20,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,CP20,Governor,,REP,Neel Kashkari,31
 Lassen,CP20,Governor,,IND,Rakesh Kumar Christian,1
-Lassen,CP20,Governor,,REP,Richard William Aguirre,0
 Lassen,CP20,Governor,,IND,Robert Newman,8
 Lassen,CP20,Governor,,REP,Tim Donnelly,76
 Lassen,CP20,Insurance Commissioner,,DEM,Dave Jones,31
@@ -467,6 +473,10 @@ Lassen,CP20,Lieutenant Governor,,DEM,Gavin Newsom,34
 Lassen,CP20,Lieutenant Governor,,REP,George Yang,27
 Lassen,CP20,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,CP20,Lieutenant Governor,,REP,Ron Nehring,77
+Lassen,CP20,Proposition 41,,,No,105
+Lassen,CP20,Proposition 41,,,Yes,85
+Lassen,CP20,Proposition 42,,,No,118
+Lassen,CP20,Proposition 42,,,Yes,67
 Lassen,CP20,Secretary of State,,DEM,Alex Padilla,20
 Lassen,CP20,Secretary of State,,IND,Dan Schnur,24
 Lassen,CP20,Secretary of State,,GRN,David Curtis,3
@@ -503,14 +513,11 @@ Lassen,CP21,Controller,,DEM,John A. Pérez,12
 Lassen,CP21,Controller,,GRN,Laura Wells,5
 Lassen,CP21,Controller,,DEM,Tammy D. Blair,6
 Lassen,CP21,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Lassen,CP21,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP21,Governor,,REP,Alma Marie Winston,3
 Lassen,CP21,Governor,,REP,Andrew Blount,1
-Lassen,CP21,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,CP21,Governor,,DEM,"Edmund G. ""Jerry"" Brown",35
 Lassen,CP21,Governor,,REP,Glenn Champ,4
 Lassen,CP21,Governor,,IND,Janel Hyeshia Buycks,1
-Lassen,CP21,Governor,,IND,Joe Leicht,0
 Lassen,CP21,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,CP21,Governor,,REP,Neel Kashkari,6
 Lassen,CP21,Governor,,IND,Rakesh Kumar Christian,1
@@ -521,13 +528,16 @@ Lassen,CP21,Insurance Commissioner,,DEM,Dave Jones,24
 Lassen,CP21,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Lassen,CP21,Insurance Commissioner,,REP,Ted Gaines,56
 Lassen,CP21,Lieutenant Governor,,AME,Alan Reynolds,4
-Lassen,CP21,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,CP21,Lieutenant Governor,,REP,David Fennell,8
 Lassen,CP21,Lieutenant Governor,,DEM,Eric Korevaar,2
 Lassen,CP21,Lieutenant Governor,,DEM,Gavin Newsom,27
 Lassen,CP21,Lieutenant Governor,,REP,George Yang,8
 Lassen,CP21,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lassen,CP21,Lieutenant Governor,,REP,Ron Nehring,34
+Lassen,CP21,Proposition 41,,,No,35
+Lassen,CP21,Proposition 41,,,Yes,52
+Lassen,CP21,Proposition 42,,,No,46
+Lassen,CP21,Proposition 42,,,Yes,40
 Lassen,CP21,Secretary of State,,DEM,Alex Padilla,14
 Lassen,CP21,Secretary of State,,IND,Dan Schnur,7
 Lassen,CP21,Secretary of State,,GRN,David Curtis,2
@@ -571,10 +581,8 @@ Lassen,CP23,Governor,,PAF,Cindy L. Sheehan,3
 Lassen,CP23,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
 Lassen,CP23,Governor,,REP,Glenn Champ,10
 Lassen,CP23,Governor,,IND,Janel Hyeshia Buycks,2
-Lassen,CP23,Governor,,IND,Joe Leicht,0
 Lassen,CP23,Governor,,GRN,Luis J. Rodriguez,4
 Lassen,CP23,Governor,,REP,Neel Kashkari,40
-Lassen,CP23,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,CP23,Governor,,REP,Richard William Aguirre,1
 Lassen,CP23,Governor,,IND,Robert Newman,9
 Lassen,CP23,Governor,,REP,Tim Donnelly,56
@@ -589,6 +597,10 @@ Lassen,CP23,Lieutenant Governor,,DEM,Gavin Newsom,43
 Lassen,CP23,Lieutenant Governor,,REP,George Yang,38
 Lassen,CP23,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Lassen,CP23,Lieutenant Governor,,REP,Ron Nehring,55
+Lassen,CP23,Proposition 41,,,No,90
+Lassen,CP23,Proposition 41,,,Yes,94
+Lassen,CP23,Proposition 42,,,No,96
+Lassen,CP23,Proposition 42,,,Yes,88
 Lassen,CP23,Secretary of State,,DEM,Alex Padilla,33
 Lassen,CP23,Secretary of State,,IND,Dan Schnur,27
 Lassen,CP23,Secretary of State,,GRN,David Curtis,11
@@ -628,14 +640,12 @@ Lassen,CP4,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
 Lassen,CP4,Governor,,DEM,Akinyemi Agbede,4
 Lassen,CP4,Governor,,REP,Alma Marie Winston,12
 Lassen,CP4,Governor,,REP,Andrew Blount,16
-Lassen,CP4,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,CP4,Governor,,DEM,"Edmund G. ""Jerry"" Brown",126
 Lassen,CP4,Governor,,REP,Glenn Champ,21
 Lassen,CP4,Governor,,IND,Janel Hyeshia Buycks,2
 Lassen,CP4,Governor,,IND,Joe Leicht,5
 Lassen,CP4,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,CP4,Governor,,REP,Neel Kashkari,96
-Lassen,CP4,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,CP4,Governor,,REP,Richard William Aguirre,6
 Lassen,CP4,Governor,,IND,Robert Newman,6
 Lassen,CP4,Governor,,REP,Tim Donnelly,142
@@ -650,6 +660,10 @@ Lassen,CP4,Lieutenant Governor,,DEM,Gavin Newsom,99
 Lassen,CP4,Lieutenant Governor,,REP,George Yang,72
 Lassen,CP4,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Lassen,CP4,Lieutenant Governor,,REP,Ron Nehring,135
+Lassen,CP4,Proposition 41,,,No,232
+Lassen,CP4,Proposition 41,,,Yes,211
+Lassen,CP4,Proposition 42,,,No,268
+Lassen,CP4,Proposition 42,,,Yes,170
 Lassen,CP4,Secretary of State,,DEM,Alex Padilla,61
 Lassen,CP4,Secretary of State,,IND,Dan Schnur,48
 Lassen,CP4,Secretary of State,,GRN,David Curtis,6
@@ -685,15 +699,12 @@ Lassen,CP5,Controller,,REP,David Evans,81
 Lassen,CP5,Controller,,DEM,John A. Pérez,13
 Lassen,CP5,Controller,,GRN,Laura Wells,8
 Lassen,CP5,Controller,,DEM,Tammy D. Blair,3
-Lassen,CP5,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,CP5,Governor,,DEM,Akinyemi Agbede,1
 Lassen,CP5,Governor,,REP,Alma Marie Winston,3
 Lassen,CP5,Governor,,REP,Andrew Blount,2
 Lassen,CP5,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,CP5,Governor,,DEM,"Edmund G. ""Jerry"" Brown",51
 Lassen,CP5,Governor,,REP,Glenn Champ,8
-Lassen,CP5,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,CP5,Governor,,IND,Joe Leicht,0
 Lassen,CP5,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,CP5,Governor,,REP,Neel Kashkari,55
 Lassen,CP5,Governor,,IND,Rakesh Kumar Christian,1
@@ -711,6 +722,10 @@ Lassen,CP5,Lieutenant Governor,,DEM,Gavin Newsom,39
 Lassen,CP5,Lieutenant Governor,,REP,George Yang,25
 Lassen,CP5,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,CP5,Lieutenant Governor,,REP,Ron Nehring,73
+Lassen,CP5,Proposition 41,,,No,96
+Lassen,CP5,Proposition 41,,,Yes,88
+Lassen,CP5,Proposition 42,,,No,108
+Lassen,CP5,Proposition 42,,,Yes,73
 Lassen,CP5,Secretary of State,,DEM,Alex Padilla,14
 Lassen,CP5,Secretary of State,,IND,Dan Schnur,39
 Lassen,CP5,Secretary of State,,GRN,David Curtis,2
@@ -747,18 +762,13 @@ Lassen,CP7,Controller,,DEM,John A. Pérez,20
 Lassen,CP7,Controller,,GRN,Laura Wells,6
 Lassen,CP7,Controller,,DEM,Tammy D. Blair,5
 Lassen,CP7,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Lassen,CP7,Governor,,DEM,Akinyemi Agbede,0
 Lassen,CP7,Governor,,REP,Alma Marie Winston,3
 Lassen,CP7,Governor,,REP,Andrew Blount,4
-Lassen,CP7,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,CP7,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 Lassen,CP7,Governor,,REP,Glenn Champ,6
 Lassen,CP7,Governor,,IND,Janel Hyeshia Buycks,1
-Lassen,CP7,Governor,,IND,Joe Leicht,0
 Lassen,CP7,Governor,,GRN,Luis J. Rodriguez,2
 Lassen,CP7,Governor,,REP,Neel Kashkari,18
-Lassen,CP7,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,CP7,Governor,,REP,Richard William Aguirre,0
 Lassen,CP7,Governor,,IND,Robert Newman,3
 Lassen,CP7,Governor,,REP,Tim Donnelly,31
 Lassen,CP7,Insurance Commissioner,,DEM,Dave Jones,43
@@ -772,6 +782,10 @@ Lassen,CP7,Lieutenant Governor,,DEM,Gavin Newsom,42
 Lassen,CP7,Lieutenant Governor,,REP,George Yang,12
 Lassen,CP7,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lassen,CP7,Lieutenant Governor,,REP,Ron Nehring,34
+Lassen,CP7,Proposition 41,,,No,51
+Lassen,CP7,Proposition 41,,,Yes,74
+Lassen,CP7,Proposition 42,,,No,60
+Lassen,CP7,Proposition 42,,,Yes,63
 Lassen,CP7,Secretary of State,,DEM,Alex Padilla,23
 Lassen,CP7,Secretary of State,,IND,Dan Schnur,7
 Lassen,CP7,Secretary of State,,GRN,David Curtis,6
@@ -794,7 +808,6 @@ Lassen,CP7,U.S. House,1,REP,Gregory Cheadle,14
 Lassen,CP7,U.S. House,1,DEM,Heidi Hall,25
 Lassen,MB10,Attorney General,,REP,David King,5
 Lassen,MB10,Attorney General,,REP,John Haggerty,4
-Lassen,MB10,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB10,Attorney General,,DEM,Kamala D. Harris,22
 Lassen,MB10,Attorney General,,IND,Orly Taitz,1
 Lassen,MB10,Attorney General,,REP,Phil Wyman,14
@@ -808,31 +821,25 @@ Lassen,MB10,Controller,,DEM,John A. Pérez,7
 Lassen,MB10,Controller,,GRN,Laura Wells,2
 Lassen,MB10,Controller,,DEM,Tammy D. Blair,2
 Lassen,MB10,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Lassen,MB10,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB10,Governor,,REP,Alma Marie Winston,4
 Lassen,MB10,Governor,,REP,Andrew Blount,4
-Lassen,MB10,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
-Lassen,MB10,Governor,,REP,Glenn Champ,0
-Lassen,MB10,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB10,Governor,,IND,Joe Leicht,0
-Lassen,MB10,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB10,Governor,,REP,Neel Kashkari,6
-Lassen,MB10,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB10,Governor,,REP,Richard William Aguirre,3
-Lassen,MB10,Governor,,IND,Robert Newman,0
 Lassen,MB10,Governor,,REP,Tim Donnelly,20
 Lassen,MB10,Insurance Commissioner,,DEM,Dave Jones,20
 Lassen,MB10,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Lassen,MB10,Insurance Commissioner,,REP,Ted Gaines,38
-Lassen,MB10,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB10,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB10,Lieutenant Governor,,REP,David Fennell,6
 Lassen,MB10,Lieutenant Governor,,DEM,Eric Korevaar,1
 Lassen,MB10,Lieutenant Governor,,DEM,Gavin Newsom,17
 Lassen,MB10,Lieutenant Governor,,REP,George Yang,8
 Lassen,MB10,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB10,Lieutenant Governor,,REP,Ron Nehring,25
+Lassen,MB10,Proposition 41,,,No,26
+Lassen,MB10,Proposition 41,,,Yes,33
+Lassen,MB10,Proposition 42,,,No,30
+Lassen,MB10,Proposition 42,,,Yes,28
 Lassen,MB10,Secretary of State,,DEM,Alex Padilla,6
 Lassen,MB10,Secretary of State,,IND,Dan Schnur,6
 Lassen,MB10,Secretary of State,,GRN,David Curtis,4
@@ -846,7 +853,6 @@ Lassen,MB10,State Assembly,1,DEM,Brigham Sawyer Smith,6
 Lassen,MB10,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,11
 Lassen,MB10,Superintendent of Public Instruction,,NOP,Marshall Tuck,9
 Lassen,MB10,Superintendent of Public Instruction,,NOP,Tom Torlakson,36
-Lassen,MB10,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB10,Treasurer,,REP,Greg Conlon,30
 Lassen,MB10,Treasurer,,DEM,John Chiang,30
 Lassen,MB10,U.S. House,1,DEM,Dan Levine,3
@@ -867,33 +873,29 @@ Lassen,MB14,Controller,,DEM,Betty T. Yee,14
 Lassen,MB14,Controller,,REP,David Evans,31
 Lassen,MB14,Controller,,DEM,John A. Pérez,11
 Lassen,MB14,Controller,,GRN,Laura Wells,3
-Lassen,MB14,Controller,,DEM,Tammy D. Blair,0
 Lassen,MB14,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Lassen,MB14,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB14,Governor,,REP,Alma Marie Winston,3
 Lassen,MB14,Governor,,REP,Andrew Blount,2
 Lassen,MB14,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB14,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
 Lassen,MB14,Governor,,REP,Glenn Champ,6
 Lassen,MB14,Governor,,IND,Janel Hyeshia Buycks,1
-Lassen,MB14,Governor,,IND,Joe Leicht,0
-Lassen,MB14,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB14,Governor,,REP,Neel Kashkari,10
-Lassen,MB14,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB14,Governor,,REP,Richard William Aguirre,0
-Lassen,MB14,Governor,,IND,Robert Newman,0
 Lassen,MB14,Governor,,REP,Tim Donnelly,23
 Lassen,MB14,Insurance Commissioner,,DEM,Dave Jones,24
 Lassen,MB14,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Lassen,MB14,Insurance Commissioner,,REP,Ted Gaines,44
 Lassen,MB14,Lieutenant Governor,,AME,Alan Reynolds,2
-Lassen,MB14,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB14,Lieutenant Governor,,REP,David Fennell,9
 Lassen,MB14,Lieutenant Governor,,DEM,Eric Korevaar,7
 Lassen,MB14,Lieutenant Governor,,DEM,Gavin Newsom,24
 Lassen,MB14,Lieutenant Governor,,REP,George Yang,9
 Lassen,MB14,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB14,Lieutenant Governor,,REP,Ron Nehring,22
+Lassen,MB14,Proposition 41,,,No,31
+Lassen,MB14,Proposition 41,,,Yes,45
+Lassen,MB14,Proposition 42,,,No,36
+Lassen,MB14,Proposition 42,,,Yes,39
 Lassen,MB14,Secretary of State,,DEM,Alex Padilla,8
 Lassen,MB14,Secretary of State,,IND,Dan Schnur,7
 Lassen,MB14,Secretary of State,,GRN,David Curtis,1
@@ -929,7 +931,6 @@ Lassen,MB15,Controller,,REP,David Evans,45
 Lassen,MB15,Controller,,DEM,John A. Pérez,12
 Lassen,MB15,Controller,,GRN,Laura Wells,4
 Lassen,MB15,Controller,,DEM,Tammy D. Blair,7
-Lassen,MB15,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB15,Governor,,DEM,Akinyemi Agbede,1
 Lassen,MB15,Governor,,REP,Alma Marie Winston,3
 Lassen,MB15,Governor,,REP,Andrew Blount,4
@@ -938,9 +939,7 @@ Lassen,MB15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Lassen,MB15,Governor,,REP,Glenn Champ,6
 Lassen,MB15,Governor,,IND,Janel Hyeshia Buycks,1
 Lassen,MB15,Governor,,IND,Joe Leicht,1
-Lassen,MB15,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB15,Governor,,REP,Neel Kashkari,20
-Lassen,MB15,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB15,Governor,,REP,Richard William Aguirre,1
 Lassen,MB15,Governor,,IND,Robert Newman,2
 Lassen,MB15,Governor,,REP,Tim Donnelly,53
@@ -948,16 +947,18 @@ Lassen,MB15,Insurance Commissioner,,DEM,Dave Jones,19
 Lassen,MB15,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Lassen,MB15,Insurance Commissioner,,REP,Ted Gaines,89
 Lassen,MB15,Lieutenant Governor,,AME,Alan Reynolds,1
-Lassen,MB15,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB15,Lieutenant Governor,,REP,David Fennell,13
 Lassen,MB15,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lassen,MB15,Lieutenant Governor,,DEM,Gavin Newsom,28
 Lassen,MB15,Lieutenant Governor,,REP,George Yang,12
 Lassen,MB15,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB15,Lieutenant Governor,,REP,Ron Nehring,53
+Lassen,MB15,Proposition 41,,,No,44
+Lassen,MB15,Proposition 41,,,Yes,72
+Lassen,MB15,Proposition 42,,,No,63
+Lassen,MB15,Proposition 42,,,Yes,48
 Lassen,MB15,Secretary of State,,DEM,Alex Padilla,11
 Lassen,MB15,Secretary of State,,IND,Dan Schnur,15
-Lassen,MB15,Secretary of State,,GRN,David Curtis,0
 Lassen,MB15,Secretary of State,,DEM,Derek Cressman,7
 Lassen,MB15,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Lassen,MB15,Secretary of State,,DEM,Leland Yee,3
@@ -977,7 +978,6 @@ Lassen,MB15,U.S. House,1,REP,Gregory Cheadle,5
 Lassen,MB15,U.S. House,1,DEM,Heidi Hall,14
 Lassen,MB17,Attorney General,,REP,David King,12
 Lassen,MB17,Attorney General,,REP,John Haggerty,5
-Lassen,MB17,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB17,Attorney General,,DEM,Kamala D. Harris,15
 Lassen,MB17,Attorney General,,IND,Orly Taitz,2
 Lassen,MB17,Attorney General,,REP,Phil Wyman,41
@@ -990,18 +990,14 @@ Lassen,MB17,Controller,,REP,David Evans,40
 Lassen,MB17,Controller,,DEM,John A. Pérez,4
 Lassen,MB17,Controller,,GRN,Laura Wells,2
 Lassen,MB17,Controller,,DEM,Tammy D. Blair,2
-Lassen,MB17,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB17,Governor,,DEM,Akinyemi Agbede,2
 Lassen,MB17,Governor,,REP,Alma Marie Winston,1
 Lassen,MB17,Governor,,REP,Andrew Blount,4
 Lassen,MB17,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB17,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
 Lassen,MB17,Governor,,REP,Glenn Champ,7
-Lassen,MB17,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB17,Governor,,IND,Joe Leicht,0
 Lassen,MB17,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB17,Governor,,REP,Neel Kashkari,33
-Lassen,MB17,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB17,Governor,,REP,Richard William Aguirre,1
 Lassen,MB17,Governor,,IND,Robert Newman,5
 Lassen,MB17,Governor,,REP,Tim Donnelly,33
@@ -1014,8 +1010,11 @@ Lassen,MB17,Lieutenant Governor,,REP,David Fennell,17
 Lassen,MB17,Lieutenant Governor,,DEM,Eric Korevaar,4
 Lassen,MB17,Lieutenant Governor,,DEM,Gavin Newsom,15
 Lassen,MB17,Lieutenant Governor,,REP,George Yang,8
-Lassen,MB17,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB17,Lieutenant Governor,,REP,Ron Nehring,53
+Lassen,MB17,Proposition 41,,,No,51
+Lassen,MB17,Proposition 41,,,Yes,51
+Lassen,MB17,Proposition 42,,,No,72
+Lassen,MB17,Proposition 42,,,Yes,28
 Lassen,MB17,Secretary of State,,DEM,Alex Padilla,10
 Lassen,MB17,Secretary of State,,IND,Dan Schnur,18
 Lassen,MB17,Secretary of State,,GRN,David Curtis,3
@@ -1032,7 +1031,6 @@ Lassen,MB17,Superintendent of Public Instruction,,NOP,Tom Torlakson,43
 Lassen,MB17,Treasurer,,GRN,Ellen H. Brown,2
 Lassen,MB17,Treasurer,,REP,Greg Conlon,77
 Lassen,MB17,Treasurer,,DEM,John Chiang,21
-Lassen,MB17,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB17,U.S. House,1,REP,Doug La Malfa,84
 Lassen,MB17,U.S. House,1,REP,Gregory Cheadle,6
 Lassen,MB17,U.S. House,1,DEM,Heidi Hall,15
@@ -1051,25 +1049,15 @@ Lassen,MB2,Controller,,REP,David Evans,13
 Lassen,MB2,Controller,,DEM,John A. Pérez,4
 Lassen,MB2,Controller,,GRN,Laura Wells,4
 Lassen,MB2,Controller,,DEM,Tammy D. Blair,2
-Lassen,MB2,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB2,Governor,,DEM,Akinyemi Agbede,1
-Lassen,MB2,Governor,,REP,Alma Marie Winston,0
-Lassen,MB2,Governor,,REP,Andrew Blount,0
 Lassen,MB2,Governor,,PAF,Cindy L. Sheehan,2
 Lassen,MB2,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
-Lassen,MB2,Governor,,REP,Glenn Champ,0
-Lassen,MB2,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB2,Governor,,IND,Joe Leicht,0
 Lassen,MB2,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB2,Governor,,REP,Neel Kashkari,11
-Lassen,MB2,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB2,Governor,,REP,Richard William Aguirre,0
-Lassen,MB2,Governor,,IND,Robert Newman,0
 Lassen,MB2,Governor,,REP,Tim Donnelly,13
 Lassen,MB2,Insurance Commissioner,,DEM,Dave Jones,16
 Lassen,MB2,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Lassen,MB2,Insurance Commissioner,,REP,Ted Gaines,22
-Lassen,MB2,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB2,Lieutenant Governor,,PAF,Amos Johnson,1
 Lassen,MB2,Lieutenant Governor,,REP,David Fennell,3
 Lassen,MB2,Lieutenant Governor,,DEM,Eric Korevaar,6
@@ -1077,6 +1065,10 @@ Lassen,MB2,Lieutenant Governor,,DEM,Gavin Newsom,13
 Lassen,MB2,Lieutenant Governor,,REP,George Yang,9
 Lassen,MB2,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lassen,MB2,Lieutenant Governor,,REP,Ron Nehring,8
+Lassen,MB2,Proposition 41,,,No,16
+Lassen,MB2,Proposition 41,,,Yes,27
+Lassen,MB2,Proposition 42,,,No,27
+Lassen,MB2,Proposition 42,,,Yes,15
 Lassen,MB2,Secretary of State,,DEM,Alex Padilla,10
 Lassen,MB2,Secretary of State,,IND,Dan Schnur,6
 Lassen,MB2,Secretary of State,,GRN,David Curtis,3
@@ -1099,7 +1091,6 @@ Lassen,MB2,U.S. House,1,REP,Gregory Cheadle,1
 Lassen,MB2,U.S. House,1,DEM,Heidi Hall,14
 Lassen,MB22,Attorney General,,REP,David King,5
 Lassen,MB22,Attorney General,,REP,John Haggerty,2
-Lassen,MB22,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB22,Attorney General,,DEM,Kamala D. Harris,13
 Lassen,MB22,Attorney General,,IND,Orly Taitz,1
 Lassen,MB22,Attorney General,,REP,Phil Wyman,6
@@ -1112,35 +1103,23 @@ Lassen,MB22,Controller,,REP,David Evans,10
 Lassen,MB22,Controller,,DEM,John A. Pérez,4
 Lassen,MB22,Controller,,GRN,Laura Wells,1
 Lassen,MB22,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB22,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB22,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB22,Governor,,REP,Alma Marie Winston,0
-Lassen,MB22,Governor,,REP,Andrew Blount,0
-Lassen,MB22,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
-Lassen,MB22,Governor,,REP,Glenn Champ,0
-Lassen,MB22,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB22,Governor,,IND,Joe Leicht,0
-Lassen,MB22,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB22,Governor,,REP,Neel Kashkari,5
-Lassen,MB22,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB22,Governor,,REP,Richard William Aguirre,2
-Lassen,MB22,Governor,,IND,Robert Newman,0
 Lassen,MB22,Governor,,REP,Tim Donnelly,10
 Lassen,MB22,Insurance Commissioner,,DEM,Dave Jones,15
 Lassen,MB22,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Lassen,MB22,Insurance Commissioner,,REP,Ted Gaines,16
-Lassen,MB22,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB22,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB22,Lieutenant Governor,,REP,David Fennell,4
-Lassen,MB22,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB22,Lieutenant Governor,,DEM,Gavin Newsom,15
 Lassen,MB22,Lieutenant Governor,,REP,George Yang,5
-Lassen,MB22,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB22,Lieutenant Governor,,REP,Ron Nehring,9
+Lassen,MB22,Proposition 41,,,No,14
+Lassen,MB22,Proposition 41,,,Yes,15
+Lassen,MB22,Proposition 42,,,No,17
+Lassen,MB22,Proposition 42,,,Yes,12
 Lassen,MB22,Secretary of State,,DEM,Alex Padilla,5
 Lassen,MB22,Secretary of State,,IND,Dan Schnur,2
-Lassen,MB22,Secretary of State,,GRN,David Curtis,0
 Lassen,MB22,Secretary of State,,DEM,Derek Cressman,6
 Lassen,MB22,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Lassen,MB22,Secretary of State,,DEM,Leland Yee,1
@@ -1156,74 +1135,37 @@ Lassen,MB22,Treasurer,,REP,Greg Conlon,14
 Lassen,MB22,Treasurer,,DEM,John Chiang,17
 Lassen,MB22,U.S. House,1,DEM,Dan Levine,2
 Lassen,MB22,U.S. House,1,REP,Doug La Malfa,20
-Lassen,MB22,U.S. House,1,REP,Gregory Cheadle,0
 Lassen,MB22,U.S. House,1,DEM,Heidi Hall,11
 Lassen,MB24,Attorney General,,REP,David King,1
-Lassen,MB24,Attorney General,,REP,John Haggerty,0
 Lassen,MB24,Attorney General,,LIB,Jonathan Jaech,1
-Lassen,MB24,Attorney General,,DEM,Kamala D. Harris,0
-Lassen,MB24,Attorney General,,IND,Orly Taitz,0
 Lassen,MB24,Attorney General,,REP,Phil Wyman,2
-Lassen,MB24,Attorney General,,REP,Ronald Gold,0
 Lassen,MB24,Board of Equalization,1,DEM,Chris Parker,1
 Lassen,MB24,Board of Equalization,1,REP,George Runner,3
-Lassen,MB24,Controller,,REP,Ashley Swearengin,0
-Lassen,MB24,Controller,,DEM,Betty T. Yee,0
 Lassen,MB24,Controller,,REP,David Evans,4
-Lassen,MB24,Controller,,DEM,John A. Pérez,0
-Lassen,MB24,Controller,,GRN,Laura Wells,0
-Lassen,MB24,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB24,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB24,Governor,,DEM,Akinyemi Agbede,1
-Lassen,MB24,Governor,,REP,Alma Marie Winston,0
-Lassen,MB24,Governor,,REP,Andrew Blount,0
-Lassen,MB24,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB24,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
-Lassen,MB24,Governor,,REP,Glenn Champ,0
-Lassen,MB24,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB24,Governor,,IND,Joe Leicht,0
-Lassen,MB24,Governor,,GRN,Luis J. Rodriguez,0
-Lassen,MB24,Governor,,REP,Neel Kashkari,0
-Lassen,MB24,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB24,Governor,,REP,Richard William Aguirre,0
-Lassen,MB24,Governor,,IND,Robert Newman,0
 Lassen,MB24,Governor,,REP,Tim Donnelly,2
-Lassen,MB24,Insurance Commissioner,,DEM,Dave Jones,0
 Lassen,MB24,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Lassen,MB24,Insurance Commissioner,,REP,Ted Gaines,2
-Lassen,MB24,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB24,Lieutenant Governor,,PAF,Amos Johnson,0
-Lassen,MB24,Lieutenant Governor,,REP,David Fennell,0
-Lassen,MB24,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB24,Lieutenant Governor,,DEM,Gavin Newsom,1
-Lassen,MB24,Lieutenant Governor,,REP,George Yang,0
 Lassen,MB24,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB24,Lieutenant Governor,,REP,Ron Nehring,1
-Lassen,MB24,Secretary of State,,DEM,Alex Padilla,0
-Lassen,MB24,Secretary of State,,IND,Dan Schnur,0
-Lassen,MB24,Secretary of State,,GRN,David Curtis,0
-Lassen,MB24,Secretary of State,,DEM,Derek Cressman,0
+Lassen,MB24,Proposition 41,,,No,4
+Lassen,MB24,Proposition 41,,,Yes,1
+Lassen,MB24,Proposition 42,,,No,4
+Lassen,MB24,Proposition 42,,,Yes,1
 Lassen,MB24,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Lassen,MB24,Secretary of State,,DEM,Leland Yee,0
 Lassen,MB24,Secretary of State,,REP,Pete Peterson,3
-Lassen,MB24,Secretary of State,,REP,Roy Allmond,0
 Lassen,MB24,State Assembly,1,REP,Brian Dahle,4
 Lassen,MB24,State Assembly,1,DEM,Brigham Sawyer Smith,1
 Lassen,MB24,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
-Lassen,MB24,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Lassen,MB24,Superintendent of Public Instruction,,NOP,Tom Torlakson,2
-Lassen,MB24,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB24,Treasurer,,REP,Greg Conlon,3
 Lassen,MB24,Treasurer,,DEM,John Chiang,1
-Lassen,MB24,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB24,U.S. House,1,REP,Doug La Malfa,3
 Lassen,MB24,U.S. House,1,REP,Gregory Cheadle,1
-Lassen,MB24,U.S. House,1,DEM,Heidi Hall,0
-Lassen,MB25,Attorney General,,REP,David King,0
 Lassen,MB25,Attorney General,,REP,John Haggerty,1
-Lassen,MB25,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB25,Attorney General,,DEM,Kamala D. Harris,7
-Lassen,MB25,Attorney General,,IND,Orly Taitz,0
 Lassen,MB25,Attorney General,,REP,Phil Wyman,10
 Lassen,MB25,Attorney General,,REP,Ronald Gold,4
 Lassen,MB25,Board of Equalization,1,DEM,Chris Parker,6
@@ -1231,37 +1173,25 @@ Lassen,MB25,Board of Equalization,1,REP,George Runner,15
 Lassen,MB25,Controller,,REP,Ashley Swearengin,2
 Lassen,MB25,Controller,,DEM,Betty T. Yee,3
 Lassen,MB25,Controller,,REP,David Evans,10
-Lassen,MB25,Controller,,DEM,John A. Pérez,0
 Lassen,MB25,Controller,,GRN,Laura Wells,3
 Lassen,MB25,Controller,,DEM,Tammy D. Blair,2
-Lassen,MB25,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB25,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB25,Governor,,REP,Alma Marie Winston,0
-Lassen,MB25,Governor,,REP,Andrew Blount,0
 Lassen,MB25,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB25,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Lassen,MB25,Governor,,REP,Glenn Champ,0
-Lassen,MB25,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB25,Governor,,IND,Joe Leicht,0
 Lassen,MB25,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB25,Governor,,REP,Neel Kashkari,1
-Lassen,MB25,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB25,Governor,,REP,Richard William Aguirre,0
-Lassen,MB25,Governor,,IND,Robert Newman,0
 Lassen,MB25,Governor,,REP,Tim Donnelly,11
 Lassen,MB25,Insurance Commissioner,,DEM,Dave Jones,6
 Lassen,MB25,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB25,Insurance Commissioner,,REP,Ted Gaines,14
-Lassen,MB25,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB25,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB25,Lieutenant Governor,,REP,David Fennell,1
-Lassen,MB25,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB25,Lieutenant Governor,,DEM,Gavin Newsom,7
-Lassen,MB25,Lieutenant Governor,,REP,George Yang,0
 Lassen,MB25,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,MB25,Lieutenant Governor,,REP,Ron Nehring,11
+Lassen,MB25,Proposition 41,,,No,11
+Lassen,MB25,Proposition 41,,,Yes,10
+Lassen,MB25,Proposition 42,,,No,17
+Lassen,MB25,Proposition 42,,,Yes,3
 Lassen,MB25,Secretary of State,,DEM,Alex Padilla,4
-Lassen,MB25,Secretary of State,,IND,Dan Schnur,0
 Lassen,MB25,Secretary of State,,GRN,David Curtis,2
 Lassen,MB25,Secretary of State,,DEM,Derek Cressman,1
 Lassen,MB25,Secretary of State,,DEM,Jeffrey H. Drobman,1
@@ -1293,27 +1223,15 @@ Lassen,MB26,Controller,,REP,Ashley Swearengin,9
 Lassen,MB26,Controller,,DEM,Betty T. Yee,9
 Lassen,MB26,Controller,,REP,David Evans,17
 Lassen,MB26,Controller,,DEM,John A. Pérez,2
-Lassen,MB26,Controller,,GRN,Laura Wells,0
 Lassen,MB26,Controller,,DEM,Tammy D. Blair,6
-Lassen,MB26,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB26,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB26,Governor,,REP,Alma Marie Winston,4
 Lassen,MB26,Governor,,REP,Andrew Blount,3
-Lassen,MB26,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Lassen,MB26,Governor,,REP,Glenn Champ,3
-Lassen,MB26,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB26,Governor,,IND,Joe Leicht,0
-Lassen,MB26,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB26,Governor,,REP,Neel Kashkari,4
-Lassen,MB26,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB26,Governor,,REP,Richard William Aguirre,0
-Lassen,MB26,Governor,,IND,Robert Newman,0
 Lassen,MB26,Governor,,REP,Tim Donnelly,11
 Lassen,MB26,Insurance Commissioner,,DEM,Dave Jones,19
-Lassen,MB26,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lassen,MB26,Insurance Commissioner,,REP,Ted Gaines,24
-Lassen,MB26,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB26,Lieutenant Governor,,PAF,Amos Johnson,2
 Lassen,MB26,Lieutenant Governor,,REP,David Fennell,1
 Lassen,MB26,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -1321,9 +1239,12 @@ Lassen,MB26,Lieutenant Governor,,DEM,Gavin Newsom,14
 Lassen,MB26,Lieutenant Governor,,REP,George Yang,7
 Lassen,MB26,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB26,Lieutenant Governor,,REP,Ron Nehring,12
+Lassen,MB26,Proposition 41,,,No,15
+Lassen,MB26,Proposition 41,,,Yes,29
+Lassen,MB26,Proposition 42,,,No,26
+Lassen,MB26,Proposition 42,,,Yes,17
 Lassen,MB26,Secretary of State,,DEM,Alex Padilla,5
 Lassen,MB26,Secretary of State,,IND,Dan Schnur,3
-Lassen,MB26,Secretary of State,,GRN,David Curtis,0
 Lassen,MB26,Secretary of State,,DEM,Derek Cressman,9
 Lassen,MB26,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Lassen,MB26,Secretary of State,,DEM,Leland Yee,4
@@ -1341,11 +1262,7 @@ Lassen,MB26,U.S. House,1,DEM,Dan Levine,3
 Lassen,MB26,U.S. House,1,REP,Doug La Malfa,17
 Lassen,MB26,U.S. House,1,REP,Gregory Cheadle,6
 Lassen,MB26,U.S. House,1,DEM,Heidi Hall,14
-Lassen,MB27,Attorney General,,REP,David King,0
-Lassen,MB27,Attorney General,,REP,John Haggerty,0
-Lassen,MB27,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB27,Attorney General,,DEM,Kamala D. Harris,8
-Lassen,MB27,Attorney General,,IND,Orly Taitz,0
 Lassen,MB27,Attorney General,,REP,Phil Wyman,1
 Lassen,MB27,Attorney General,,REP,Ronald Gold,3
 Lassen,MB27,Board of Equalization,1,DEM,Chris Parker,7
@@ -1353,40 +1270,22 @@ Lassen,MB27,Board of Equalization,1,REP,George Runner,5
 Lassen,MB27,Controller,,REP,Ashley Swearengin,2
 Lassen,MB27,Controller,,DEM,Betty T. Yee,4
 Lassen,MB27,Controller,,REP,David Evans,3
-Lassen,MB27,Controller,,DEM,John A. Pérez,0
 Lassen,MB27,Controller,,GRN,Laura Wells,2
 Lassen,MB27,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB27,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB27,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB27,Governor,,REP,Alma Marie Winston,0
-Lassen,MB27,Governor,,REP,Andrew Blount,0
-Lassen,MB27,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",10
-Lassen,MB27,Governor,,REP,Glenn Champ,0
-Lassen,MB27,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB27,Governor,,IND,Joe Leicht,0
-Lassen,MB27,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB27,Governor,,REP,Neel Kashkari,1
-Lassen,MB27,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB27,Governor,,REP,Richard William Aguirre,0
-Lassen,MB27,Governor,,IND,Robert Newman,0
 Lassen,MB27,Governor,,REP,Tim Donnelly,3
 Lassen,MB27,Insurance Commissioner,,DEM,Dave Jones,6
 Lassen,MB27,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB27,Insurance Commissioner,,REP,Ted Gaines,4
-Lassen,MB27,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB27,Lieutenant Governor,,PAF,Amos Johnson,0
-Lassen,MB27,Lieutenant Governor,,REP,David Fennell,0
-Lassen,MB27,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB27,Lieutenant Governor,,DEM,Gavin Newsom,7
 Lassen,MB27,Lieutenant Governor,,REP,George Yang,3
-Lassen,MB27,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB27,Lieutenant Governor,,REP,Ron Nehring,3
+Lassen,MB27,Proposition 41,,,No,4
+Lassen,MB27,Proposition 41,,,Yes,11
+Lassen,MB27,Proposition 42,,,No,5
+Lassen,MB27,Proposition 42,,,Yes,7
 Lassen,MB27,Secretary of State,,DEM,Alex Padilla,5
-Lassen,MB27,Secretary of State,,IND,Dan Schnur,0
-Lassen,MB27,Secretary of State,,GRN,David Curtis,0
-Lassen,MB27,Secretary of State,,DEM,Derek Cressman,0
-Lassen,MB27,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB27,Secretary of State,,DEM,Leland Yee,3
 Lassen,MB27,Secretary of State,,REP,Pete Peterson,3
 Lassen,MB27,Secretary of State,,REP,Roy Allmond,1
@@ -1417,38 +1316,30 @@ Lassen,MB28,Controller,,REP,David Evans,6
 Lassen,MB28,Controller,,DEM,John A. Pérez,1
 Lassen,MB28,Controller,,GRN,Laura Wells,1
 Lassen,MB28,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB28,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB28,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB28,Governor,,REP,Alma Marie Winston,1
-Lassen,MB28,Governor,,REP,Andrew Blount,0
 Lassen,MB28,Governor,,PAF,Cindy L. Sheehan,2
 Lassen,MB28,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Lassen,MB28,Governor,,REP,Glenn Champ,0
-Lassen,MB28,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB28,Governor,,IND,Joe Leicht,0
 Lassen,MB28,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB28,Governor,,REP,Neel Kashkari,9
-Lassen,MB28,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB28,Governor,,REP,Richard William Aguirre,0
 Lassen,MB28,Governor,,IND,Robert Newman,1
 Lassen,MB28,Governor,,REP,Tim Donnelly,1
 Lassen,MB28,Insurance Commissioner,,DEM,Dave Jones,6
 Lassen,MB28,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Lassen,MB28,Insurance Commissioner,,REP,Ted Gaines,12
-Lassen,MB28,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB28,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB28,Lieutenant Governor,,REP,David Fennell,4
-Lassen,MB28,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB28,Lieutenant Governor,,DEM,Gavin Newsom,5
 Lassen,MB28,Lieutenant Governor,,REP,George Yang,4
 Lassen,MB28,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,MB28,Lieutenant Governor,,REP,Ron Nehring,4
+Lassen,MB28,Proposition 41,,,No,10
+Lassen,MB28,Proposition 41,,,Yes,8
+Lassen,MB28,Proposition 42,,,No,13
+Lassen,MB28,Proposition 42,,,Yes,6
 Lassen,MB28,Secretary of State,,DEM,Alex Padilla,2
 Lassen,MB28,Secretary of State,,IND,Dan Schnur,4
 Lassen,MB28,Secretary of State,,GRN,David Curtis,1
 Lassen,MB28,Secretary of State,,DEM,Derek Cressman,1
 Lassen,MB28,Secretary of State,,DEM,Jeffrey H. Drobman,2
-Lassen,MB28,Secretary of State,,DEM,Leland Yee,0
 Lassen,MB28,Secretary of State,,REP,Pete Peterson,3
 Lassen,MB28,Secretary of State,,REP,Roy Allmond,6
 Lassen,MB28,State Assembly,1,REP,Brian Dahle,16
@@ -1459,15 +1350,11 @@ Lassen,MB28,Superintendent of Public Instruction,,NOP,Tom Torlakson,10
 Lassen,MB28,Treasurer,,GRN,Ellen H. Brown,1
 Lassen,MB28,Treasurer,,REP,Greg Conlon,8
 Lassen,MB28,Treasurer,,DEM,John Chiang,10
-Lassen,MB28,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB28,U.S. House,1,REP,Doug La Malfa,14
 Lassen,MB28,U.S. House,1,REP,Gregory Cheadle,1
 Lassen,MB28,U.S. House,1,DEM,Heidi Hall,3
 Lassen,MB29,Attorney General,,REP,David King,2
-Lassen,MB29,Attorney General,,REP,John Haggerty,0
-Lassen,MB29,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB29,Attorney General,,DEM,Kamala D. Harris,2
-Lassen,MB29,Attorney General,,IND,Orly Taitz,0
 Lassen,MB29,Attorney General,,REP,Phil Wyman,9
 Lassen,MB29,Attorney General,,REP,Ronald Gold,3
 Lassen,MB29,Board of Equalization,1,DEM,Chris Parker,1
@@ -1475,40 +1362,24 @@ Lassen,MB29,Board of Equalization,1,REP,George Runner,15
 Lassen,MB29,Controller,,REP,Ashley Swearengin,2
 Lassen,MB29,Controller,,DEM,Betty T. Yee,1
 Lassen,MB29,Controller,,REP,David Evans,12
-Lassen,MB29,Controller,,DEM,John A. Pérez,0
-Lassen,MB29,Controller,,GRN,Laura Wells,0
-Lassen,MB29,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB29,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB29,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB29,Governor,,REP,Alma Marie Winston,1
-Lassen,MB29,Governor,,REP,Andrew Blount,0
-Lassen,MB29,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Lassen,MB29,Governor,,REP,Glenn Champ,0
-Lassen,MB29,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB29,Governor,,IND,Joe Leicht,0
-Lassen,MB29,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB29,Governor,,REP,Neel Kashkari,1
-Lassen,MB29,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB29,Governor,,REP,Richard William Aguirre,0
 Lassen,MB29,Governor,,IND,Robert Newman,2
 Lassen,MB29,Governor,,REP,Tim Donnelly,7
 Lassen,MB29,Insurance Commissioner,,DEM,Dave Jones,3
-Lassen,MB29,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lassen,MB29,Insurance Commissioner,,REP,Ted Gaines,13
-Lassen,MB29,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB29,Lieutenant Governor,,PAF,Amos Johnson,1
 Lassen,MB29,Lieutenant Governor,,REP,David Fennell,1
-Lassen,MB29,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB29,Lieutenant Governor,,DEM,Gavin Newsom,2
 Lassen,MB29,Lieutenant Governor,,REP,George Yang,6
-Lassen,MB29,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB29,Lieutenant Governor,,REP,Ron Nehring,4
-Lassen,MB29,Secretary of State,,DEM,Alex Padilla,0
+Lassen,MB29,Proposition 41,,,No,5
+Lassen,MB29,Proposition 41,,,Yes,10
+Lassen,MB29,Proposition 42,,,No,8
+Lassen,MB29,Proposition 42,,,Yes,7
 Lassen,MB29,Secretary of State,,IND,Dan Schnur,2
-Lassen,MB29,Secretary of State,,GRN,David Curtis,0
 Lassen,MB29,Secretary of State,,DEM,Derek Cressman,1
-Lassen,MB29,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB29,Secretary of State,,DEM,Leland Yee,1
 Lassen,MB29,Secretary of State,,REP,Pete Peterson,8
 Lassen,MB29,Secretary of State,,REP,Roy Allmond,3
@@ -1520,7 +1391,6 @@ Lassen,MB29,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
 Lassen,MB29,Treasurer,,GRN,Ellen H. Brown,1
 Lassen,MB29,Treasurer,,REP,Greg Conlon,12
 Lassen,MB29,Treasurer,,DEM,John Chiang,3
-Lassen,MB29,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB29,U.S. House,1,REP,Doug La Malfa,10
 Lassen,MB29,U.S. House,1,REP,Gregory Cheadle,4
 Lassen,MB29,U.S. House,1,DEM,Heidi Hall,2
@@ -1543,21 +1413,15 @@ Lassen,MB3,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Lassen,MB3,Governor,,DEM,Akinyemi Agbede,1
 Lassen,MB3,Governor,,REP,Alma Marie Winston,2
 Lassen,MB3,Governor,,REP,Andrew Blount,4
-Lassen,MB3,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB3,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Lassen,MB3,Governor,,REP,Glenn Champ,3
-Lassen,MB3,Governor,,IND,Janel Hyeshia Buycks,0
 Lassen,MB3,Governor,,IND,Joe Leicht,2
 Lassen,MB3,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB3,Governor,,REP,Neel Kashkari,25
-Lassen,MB3,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB3,Governor,,REP,Richard William Aguirre,0
-Lassen,MB3,Governor,,IND,Robert Newman,0
 Lassen,MB3,Governor,,REP,Tim Donnelly,33
 Lassen,MB3,Insurance Commissioner,,DEM,Dave Jones,31
 Lassen,MB3,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Lassen,MB3,Insurance Commissioner,,REP,Ted Gaines,78
-Lassen,MB3,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB3,Lieutenant Governor,,PAF,Amos Johnson,2
 Lassen,MB3,Lieutenant Governor,,REP,David Fennell,8
 Lassen,MB3,Lieutenant Governor,,DEM,Eric Korevaar,6
@@ -1565,6 +1429,10 @@ Lassen,MB3,Lieutenant Governor,,DEM,Gavin Newsom,36
 Lassen,MB3,Lieutenant Governor,,REP,George Yang,22
 Lassen,MB3,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lassen,MB3,Lieutenant Governor,,REP,Ron Nehring,37
+Lassen,MB3,Proposition 41,,,No,43
+Lassen,MB3,Proposition 41,,,Yes,73
+Lassen,MB3,Proposition 42,,,No,64
+Lassen,MB3,Proposition 42,,,Yes,52
 Lassen,MB3,Secretary of State,,DEM,Alex Padilla,13
 Lassen,MB3,Secretary of State,,IND,Dan Schnur,16
 Lassen,MB3,Secretary of State,,GRN,David Curtis,4
@@ -1586,10 +1454,7 @@ Lassen,MB3,U.S. House,1,REP,Doug La Malfa,76
 Lassen,MB3,U.S. House,1,REP,Gregory Cheadle,8
 Lassen,MB3,U.S. House,1,DEM,Heidi Hall,23
 Lassen,MB30,Attorney General,,REP,David King,3
-Lassen,MB30,Attorney General,,REP,John Haggerty,0
-Lassen,MB30,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB30,Attorney General,,DEM,Kamala D. Harris,2
-Lassen,MB30,Attorney General,,IND,Orly Taitz,0
 Lassen,MB30,Attorney General,,REP,Phil Wyman,21
 Lassen,MB30,Attorney General,,REP,Ronald Gold,4
 Lassen,MB30,Board of Equalization,1,DEM,Chris Parker,2
@@ -1597,40 +1462,24 @@ Lassen,MB30,Board of Equalization,1,REP,George Runner,30
 Lassen,MB30,Controller,,REP,Ashley Swearengin,11
 Lassen,MB30,Controller,,DEM,Betty T. Yee,1
 Lassen,MB30,Controller,,REP,David Evans,17
-Lassen,MB30,Controller,,DEM,John A. Pérez,0
-Lassen,MB30,Controller,,GRN,Laura Wells,0
 Lassen,MB30,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB30,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB30,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB30,Governor,,REP,Alma Marie Winston,0
-Lassen,MB30,Governor,,REP,Andrew Blount,0
-Lassen,MB30,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB30,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Lassen,MB30,Governor,,REP,Glenn Champ,3
-Lassen,MB30,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB30,Governor,,IND,Joe Leicht,0
-Lassen,MB30,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB30,Governor,,REP,Neel Kashkari,6
-Lassen,MB30,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB30,Governor,,REP,Richard William Aguirre,1
-Lassen,MB30,Governor,,IND,Robert Newman,0
 Lassen,MB30,Governor,,REP,Tim Donnelly,18
 Lassen,MB30,Insurance Commissioner,,DEM,Dave Jones,2
-Lassen,MB30,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lassen,MB30,Insurance Commissioner,,REP,Ted Gaines,30
-Lassen,MB30,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB30,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB30,Lieutenant Governor,,REP,David Fennell,9
-Lassen,MB30,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB30,Lieutenant Governor,,DEM,Gavin Newsom,6
 Lassen,MB30,Lieutenant Governor,,REP,George Yang,7
-Lassen,MB30,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB30,Lieutenant Governor,,REP,Ron Nehring,7
-Lassen,MB30,Secretary of State,,DEM,Alex Padilla,0
+Lassen,MB30,Proposition 41,,,No,28
+Lassen,MB30,Proposition 41,,,Yes,5
+Lassen,MB30,Proposition 42,,,No,26
+Lassen,MB30,Proposition 42,,,Yes,6
 Lassen,MB30,Secretary of State,,IND,Dan Schnur,1
-Lassen,MB30,Secretary of State,,GRN,David Curtis,0
 Lassen,MB30,Secretary of State,,DEM,Derek Cressman,1
-Lassen,MB30,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB30,Secretary of State,,DEM,Leland Yee,1
 Lassen,MB30,Secretary of State,,REP,Pete Peterson,23
 Lassen,MB30,Secretary of State,,REP,Roy Allmond,3
@@ -1639,77 +1488,13 @@ Lassen,MB30,State Assembly,1,DEM,Brigham Sawyer Smith,1
 Lassen,MB30,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
 Lassen,MB30,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
 Lassen,MB30,Superintendent of Public Instruction,,NOP,Tom Torlakson,13
-Lassen,MB30,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB30,Treasurer,,REP,Greg Conlon,28
 Lassen,MB30,Treasurer,,DEM,John Chiang,3
-Lassen,MB30,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB30,U.S. House,1,REP,Doug La Malfa,28
 Lassen,MB30,U.S. House,1,REP,Gregory Cheadle,2
 Lassen,MB30,U.S. House,1,DEM,Heidi Hall,2
-Lassen,MB31,Attorney General,,REP,David King,0
-Lassen,MB31,Attorney General,,REP,John Haggerty,0
-Lassen,MB31,Attorney General,,LIB,Jonathan Jaech,0
-Lassen,MB31,Attorney General,,DEM,Kamala D. Harris,0
-Lassen,MB31,Attorney General,,IND,Orly Taitz,0
-Lassen,MB31,Attorney General,,REP,Phil Wyman,0
-Lassen,MB31,Attorney General,,REP,Ronald Gold,0
-Lassen,MB31,Board of Equalization,1,DEM,Chris Parker,0
-Lassen,MB31,Board of Equalization,1,REP,George Runner,0
-Lassen,MB31,Controller,,REP,Ashley Swearengin,0
-Lassen,MB31,Controller,,DEM,Betty T. Yee,0
-Lassen,MB31,Controller,,REP,David Evans,0
-Lassen,MB31,Controller,,DEM,John A. Pérez,0
-Lassen,MB31,Controller,,GRN,Laura Wells,0
-Lassen,MB31,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB31,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB31,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB31,Governor,,REP,Alma Marie Winston,0
-Lassen,MB31,Governor,,REP,Andrew Blount,0
-Lassen,MB31,Governor,,PAF,Cindy L. Sheehan,0
-Lassen,MB31,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Lassen,MB31,Governor,,REP,Glenn Champ,0
-Lassen,MB31,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB31,Governor,,IND,Joe Leicht,0
-Lassen,MB31,Governor,,GRN,Luis J. Rodriguez,0
-Lassen,MB31,Governor,,REP,Neel Kashkari,0
-Lassen,MB31,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB31,Governor,,REP,Richard William Aguirre,0
-Lassen,MB31,Governor,,IND,Robert Newman,0
-Lassen,MB31,Governor,,REP,Tim Donnelly,0
-Lassen,MB31,Insurance Commissioner,,DEM,Dave Jones,0
-Lassen,MB31,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Lassen,MB31,Insurance Commissioner,,REP,Ted Gaines,0
-Lassen,MB31,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB31,Lieutenant Governor,,PAF,Amos Johnson,0
-Lassen,MB31,Lieutenant Governor,,REP,David Fennell,0
-Lassen,MB31,Lieutenant Governor,,DEM,Eric Korevaar,0
-Lassen,MB31,Lieutenant Governor,,DEM,Gavin Newsom,0
-Lassen,MB31,Lieutenant Governor,,REP,George Yang,0
-Lassen,MB31,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lassen,MB31,Lieutenant Governor,,REP,Ron Nehring,0
-Lassen,MB31,Secretary of State,,DEM,Alex Padilla,0
-Lassen,MB31,Secretary of State,,IND,Dan Schnur,0
-Lassen,MB31,Secretary of State,,GRN,David Curtis,0
-Lassen,MB31,Secretary of State,,DEM,Derek Cressman,0
-Lassen,MB31,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lassen,MB31,Secretary of State,,DEM,Leland Yee,0
-Lassen,MB31,Secretary of State,,REP,Pete Peterson,0
-Lassen,MB31,Secretary of State,,REP,Roy Allmond,0
-Lassen,MB31,State Assembly,1,REP,Brian Dahle,0
-Lassen,MB31,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Lassen,MB31,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Lassen,MB31,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Lassen,MB31,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Lassen,MB31,Treasurer,,GRN,Ellen H. Brown,0
-Lassen,MB31,Treasurer,,REP,Greg Conlon,0
-Lassen,MB31,Treasurer,,DEM,John Chiang,0
-Lassen,MB31,U.S. House,1,DEM,Dan Levine,0
-Lassen,MB31,U.S. House,1,REP,Doug La Malfa,0
-Lassen,MB31,U.S. House,1,REP,Gregory Cheadle,0
-Lassen,MB31,U.S. House,1,DEM,Heidi Hall,0
 Lassen,MB32,Attorney General,,REP,David King,3
 Lassen,MB32,Attorney General,,REP,John Haggerty,3
-Lassen,MB32,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB32,Attorney General,,DEM,Kamala D. Harris,11
 Lassen,MB32,Attorney General,,IND,Orly Taitz,1
 Lassen,MB32,Attorney General,,REP,Phil Wyman,8
@@ -1719,40 +1504,32 @@ Lassen,MB32,Board of Equalization,1,REP,George Runner,21
 Lassen,MB32,Controller,,REP,Ashley Swearengin,10
 Lassen,MB32,Controller,,DEM,Betty T. Yee,6
 Lassen,MB32,Controller,,REP,David Evans,11
-Lassen,MB32,Controller,,DEM,John A. Pérez,0
-Lassen,MB32,Controller,,GRN,Laura Wells,0
 Lassen,MB32,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB32,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB32,Governor,,DEM,Akinyemi Agbede,2
-Lassen,MB32,Governor,,REP,Alma Marie Winston,0
 Lassen,MB32,Governor,,REP,Andrew Blount,2
 Lassen,MB32,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB32,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
 Lassen,MB32,Governor,,REP,Glenn Champ,2
-Lassen,MB32,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB32,Governor,,IND,Joe Leicht,0
-Lassen,MB32,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB32,Governor,,REP,Neel Kashkari,3
-Lassen,MB32,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB32,Governor,,REP,Richard William Aguirre,2
-Lassen,MB32,Governor,,IND,Robert Newman,0
 Lassen,MB32,Governor,,REP,Tim Donnelly,6
 Lassen,MB32,Insurance Commissioner,,DEM,Dave Jones,9
 Lassen,MB32,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB32,Insurance Commissioner,,REP,Ted Gaines,17
-Lassen,MB32,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB32,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB32,Lieutenant Governor,,REP,David Fennell,2
 Lassen,MB32,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lassen,MB32,Lieutenant Governor,,DEM,Gavin Newsom,9
 Lassen,MB32,Lieutenant Governor,,REP,George Yang,6
 Lassen,MB32,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB32,Lieutenant Governor,,REP,Ron Nehring,8
+Lassen,MB32,Proposition 41,,,No,13
+Lassen,MB32,Proposition 41,,,Yes,18
+Lassen,MB32,Proposition 42,,,No,22
+Lassen,MB32,Proposition 42,,,Yes,9
 Lassen,MB32,Secretary of State,,DEM,Alex Padilla,5
 Lassen,MB32,Secretary of State,,IND,Dan Schnur,3
 Lassen,MB32,Secretary of State,,GRN,David Curtis,1
 Lassen,MB32,Secretary of State,,DEM,Derek Cressman,4
-Lassen,MB32,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB32,Secretary of State,,DEM,Leland Yee,2
 Lassen,MB32,Secretary of State,,REP,Pete Peterson,8
 Lassen,MB32,Secretary of State,,REP,Roy Allmond,6
@@ -1770,7 +1547,6 @@ Lassen,MB32,U.S. House,1,REP,Gregory Cheadle,2
 Lassen,MB32,U.S. House,1,DEM,Heidi Hall,4
 Lassen,MB33,Attorney General,,REP,David King,5
 Lassen,MB33,Attorney General,,REP,John Haggerty,2
-Lassen,MB33,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB33,Attorney General,,DEM,Kamala D. Harris,12
 Lassen,MB33,Attorney General,,IND,Orly Taitz,2
 Lassen,MB33,Attorney General,,REP,Phil Wyman,7
@@ -1782,33 +1558,25 @@ Lassen,MB33,Controller,,DEM,Betty T. Yee,8
 Lassen,MB33,Controller,,REP,David Evans,9
 Lassen,MB33,Controller,,DEM,John A. Pérez,5
 Lassen,MB33,Controller,,GRN,Laura Wells,2
-Lassen,MB33,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB33,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB33,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB33,Governor,,REP,Alma Marie Winston,2
-Lassen,MB33,Governor,,REP,Andrew Blount,0
-Lassen,MB33,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB33,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
-Lassen,MB33,Governor,,REP,Glenn Champ,0
-Lassen,MB33,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB33,Governor,,IND,Joe Leicht,0
-Lassen,MB33,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB33,Governor,,REP,Neel Kashkari,5
-Lassen,MB33,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB33,Governor,,REP,Richard William Aguirre,0
 Lassen,MB33,Governor,,IND,Robert Newman,1
 Lassen,MB33,Governor,,REP,Tim Donnelly,6
 Lassen,MB33,Insurance Commissioner,,DEM,Dave Jones,13
 Lassen,MB33,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB33,Insurance Commissioner,,REP,Ted Gaines,14
 Lassen,MB33,Lieutenant Governor,,AME,Alan Reynolds,2
-Lassen,MB33,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB33,Lieutenant Governor,,REP,David Fennell,3
 Lassen,MB33,Lieutenant Governor,,DEM,Eric Korevaar,1
 Lassen,MB33,Lieutenant Governor,,DEM,Gavin Newsom,13
 Lassen,MB33,Lieutenant Governor,,REP,George Yang,1
 Lassen,MB33,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,MB33,Lieutenant Governor,,REP,Ron Nehring,8
+Lassen,MB33,Proposition 41,,,No,13
+Lassen,MB33,Proposition 41,,,Yes,18
+Lassen,MB33,Proposition 42,,,No,9
+Lassen,MB33,Proposition 42,,,Yes,20
 Lassen,MB33,Secretary of State,,DEM,Alex Padilla,8
 Lassen,MB33,Secretary of State,,IND,Dan Schnur,2
 Lassen,MB33,Secretary of State,,GRN,David Curtis,1
@@ -1829,7 +1597,6 @@ Lassen,MB33,U.S. House,1,DEM,Dan Levine,2
 Lassen,MB33,U.S. House,1,REP,Doug La Malfa,15
 Lassen,MB33,U.S. House,1,REP,Gregory Cheadle,3
 Lassen,MB33,U.S. House,1,DEM,Heidi Hall,12
-Lassen,MB34,Attorney General,,REP,David King,0
 Lassen,MB34,Attorney General,,REP,John Haggerty,1
 Lassen,MB34,Attorney General,,LIB,Jonathan Jaech,1
 Lassen,MB34,Attorney General,,DEM,Kamala D. Harris,4
@@ -1841,43 +1608,31 @@ Lassen,MB34,Board of Equalization,1,REP,George Runner,12
 Lassen,MB34,Controller,,REP,Ashley Swearengin,7
 Lassen,MB34,Controller,,DEM,Betty T. Yee,2
 Lassen,MB34,Controller,,REP,David Evans,4
-Lassen,MB34,Controller,,DEM,John A. Pérez,0
 Lassen,MB34,Controller,,GRN,Laura Wells,1
 Lassen,MB34,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB34,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB34,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB34,Governor,,REP,Alma Marie Winston,0
 Lassen,MB34,Governor,,REP,Andrew Blount,1
-Lassen,MB34,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB34,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
 Lassen,MB34,Governor,,REP,Glenn Champ,1
-Lassen,MB34,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB34,Governor,,IND,Joe Leicht,0
 Lassen,MB34,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB34,Governor,,REP,Neel Kashkari,4
-Lassen,MB34,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB34,Governor,,REP,Richard William Aguirre,0
 Lassen,MB34,Governor,,IND,Robert Newman,1
 Lassen,MB34,Governor,,REP,Tim Donnelly,4
 Lassen,MB34,Insurance Commissioner,,DEM,Dave Jones,2
 Lassen,MB34,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Lassen,MB34,Insurance Commissioner,,REP,Ted Gaines,10
-Lassen,MB34,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB34,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB34,Lieutenant Governor,,REP,David Fennell,2
-Lassen,MB34,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB34,Lieutenant Governor,,DEM,Gavin Newsom,4
-Lassen,MB34,Lieutenant Governor,,REP,George Yang,0
-Lassen,MB34,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB34,Lieutenant Governor,,REP,Ron Nehring,9
+Lassen,MB34,Proposition 41,,,No,7
+Lassen,MB34,Proposition 41,,,Yes,7
+Lassen,MB34,Proposition 42,,,No,9
+Lassen,MB34,Proposition 42,,,Yes,5
 Lassen,MB34,Secretary of State,,DEM,Alex Padilla,1
 Lassen,MB34,Secretary of State,,IND,Dan Schnur,3
 Lassen,MB34,Secretary of State,,GRN,David Curtis,1
 Lassen,MB34,Secretary of State,,DEM,Derek Cressman,1
-Lassen,MB34,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB34,Secretary of State,,DEM,Leland Yee,1
 Lassen,MB34,Secretary of State,,REP,Pete Peterson,8
-Lassen,MB34,Secretary of State,,REP,Roy Allmond,0
 Lassen,MB34,State Assembly,1,REP,Brian Dahle,10
 Lassen,MB34,State Assembly,1,DEM,Brigham Sawyer Smith,5
 Lassen,MB34,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
@@ -1886,74 +1641,11 @@ Lassen,MB34,Superintendent of Public Instruction,,NOP,Tom Torlakson,4
 Lassen,MB34,Treasurer,,GRN,Ellen H. Brown,2
 Lassen,MB34,Treasurer,,REP,Greg Conlon,9
 Lassen,MB34,Treasurer,,DEM,John Chiang,3
-Lassen,MB34,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB34,U.S. House,1,REP,Doug La Malfa,8
 Lassen,MB34,U.S. House,1,REP,Gregory Cheadle,3
 Lassen,MB34,U.S. House,1,DEM,Heidi Hall,4
-Lassen,MB35,Attorney General,,REP,David King,0
-Lassen,MB35,Attorney General,,REP,John Haggerty,0
-Lassen,MB35,Attorney General,,LIB,Jonathan Jaech,0
-Lassen,MB35,Attorney General,,DEM,Kamala D. Harris,0
-Lassen,MB35,Attorney General,,IND,Orly Taitz,0
-Lassen,MB35,Attorney General,,REP,Phil Wyman,0
-Lassen,MB35,Attorney General,,REP,Ronald Gold,0
-Lassen,MB35,Board of Equalization,1,DEM,Chris Parker,0
-Lassen,MB35,Board of Equalization,1,REP,George Runner,0
-Lassen,MB35,Controller,,REP,Ashley Swearengin,0
-Lassen,MB35,Controller,,DEM,Betty T. Yee,0
-Lassen,MB35,Controller,,REP,David Evans,0
-Lassen,MB35,Controller,,DEM,John A. Pérez,0
-Lassen,MB35,Controller,,GRN,Laura Wells,0
-Lassen,MB35,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB35,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB35,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB35,Governor,,REP,Alma Marie Winston,0
-Lassen,MB35,Governor,,REP,Andrew Blount,0
-Lassen,MB35,Governor,,PAF,Cindy L. Sheehan,0
-Lassen,MB35,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Lassen,MB35,Governor,,REP,Glenn Champ,0
-Lassen,MB35,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB35,Governor,,IND,Joe Leicht,0
-Lassen,MB35,Governor,,GRN,Luis J. Rodriguez,0
-Lassen,MB35,Governor,,REP,Neel Kashkari,0
-Lassen,MB35,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB35,Governor,,REP,Richard William Aguirre,0
-Lassen,MB35,Governor,,IND,Robert Newman,0
-Lassen,MB35,Governor,,REP,Tim Donnelly,0
-Lassen,MB35,Insurance Commissioner,,DEM,Dave Jones,0
-Lassen,MB35,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Lassen,MB35,Insurance Commissioner,,REP,Ted Gaines,0
-Lassen,MB35,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB35,Lieutenant Governor,,PAF,Amos Johnson,0
-Lassen,MB35,Lieutenant Governor,,REP,David Fennell,0
-Lassen,MB35,Lieutenant Governor,,DEM,Eric Korevaar,0
-Lassen,MB35,Lieutenant Governor,,DEM,Gavin Newsom,0
-Lassen,MB35,Lieutenant Governor,,REP,George Yang,0
-Lassen,MB35,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lassen,MB35,Lieutenant Governor,,REP,Ron Nehring,0
-Lassen,MB35,Secretary of State,,DEM,Alex Padilla,0
-Lassen,MB35,Secretary of State,,IND,Dan Schnur,0
-Lassen,MB35,Secretary of State,,GRN,David Curtis,0
-Lassen,MB35,Secretary of State,,DEM,Derek Cressman,0
-Lassen,MB35,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lassen,MB35,Secretary of State,,DEM,Leland Yee,0
-Lassen,MB35,Secretary of State,,REP,Pete Peterson,0
-Lassen,MB35,Secretary of State,,REP,Roy Allmond,0
-Lassen,MB35,State Assembly,1,REP,Brian Dahle,0
-Lassen,MB35,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Lassen,MB35,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Lassen,MB35,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Lassen,MB35,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Lassen,MB35,Treasurer,,GRN,Ellen H. Brown,0
-Lassen,MB35,Treasurer,,REP,Greg Conlon,0
-Lassen,MB35,Treasurer,,DEM,John Chiang,0
-Lassen,MB35,U.S. House,1,DEM,Dan Levine,0
-Lassen,MB35,U.S. House,1,REP,Doug La Malfa,0
-Lassen,MB35,U.S. House,1,REP,Gregory Cheadle,0
-Lassen,MB35,U.S. House,1,DEM,Heidi Hall,0
 Lassen,MB36,Attorney General,,REP,David King,4
 Lassen,MB36,Attorney General,,REP,John Haggerty,12
-Lassen,MB36,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB36,Attorney General,,DEM,Kamala D. Harris,22
 Lassen,MB36,Attorney General,,IND,Orly Taitz,6
 Lassen,MB36,Attorney General,,REP,Phil Wyman,6
@@ -1965,20 +1657,13 @@ Lassen,MB36,Controller,,DEM,Betty T. Yee,14
 Lassen,MB36,Controller,,REP,David Evans,21
 Lassen,MB36,Controller,,DEM,John A. Pérez,11
 Lassen,MB36,Controller,,GRN,Laura Wells,2
-Lassen,MB36,Controller,,DEM,Tammy D. Blair,0
 Lassen,MB36,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Lassen,MB36,Governor,,DEM,Akinyemi Agbede,1
-Lassen,MB36,Governor,,REP,Alma Marie Winston,0
 Lassen,MB36,Governor,,REP,Andrew Blount,3
-Lassen,MB36,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB36,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
 Lassen,MB36,Governor,,REP,Glenn Champ,3
-Lassen,MB36,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB36,Governor,,IND,Joe Leicht,0
 Lassen,MB36,Governor,,GRN,Luis J. Rodriguez,4
 Lassen,MB36,Governor,,REP,Neel Kashkari,10
-Lassen,MB36,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB36,Governor,,REP,Richard William Aguirre,0
 Lassen,MB36,Governor,,IND,Robert Newman,3
 Lassen,MB36,Governor,,REP,Tim Donnelly,19
 Lassen,MB36,Insurance Commissioner,,DEM,Dave Jones,23
@@ -1990,13 +1675,15 @@ Lassen,MB36,Lieutenant Governor,,REP,David Fennell,6
 Lassen,MB36,Lieutenant Governor,,DEM,Eric Korevaar,4
 Lassen,MB36,Lieutenant Governor,,DEM,Gavin Newsom,24
 Lassen,MB36,Lieutenant Governor,,REP,George Yang,8
-Lassen,MB36,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB36,Lieutenant Governor,,REP,Ron Nehring,19
+Lassen,MB36,Proposition 41,,,No,21
+Lassen,MB36,Proposition 41,,,Yes,40
+Lassen,MB36,Proposition 42,,,No,27
+Lassen,MB36,Proposition 42,,,Yes,33
 Lassen,MB36,Secretary of State,,DEM,Alex Padilla,10
 Lassen,MB36,Secretary of State,,IND,Dan Schnur,7
 Lassen,MB36,Secretary of State,,GRN,David Curtis,5
 Lassen,MB36,Secretary of State,,DEM,Derek Cressman,6
-Lassen,MB36,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB36,Secretary of State,,DEM,Leland Yee,9
 Lassen,MB36,Secretary of State,,REP,Pete Peterson,23
 Lassen,MB36,Secretary of State,,REP,Roy Allmond,3
@@ -2034,25 +1721,24 @@ Lassen,MB37,Governor,,REP,Andrew Blount,2
 Lassen,MB37,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB37,Governor,,DEM,"Edmund G. ""Jerry"" Brown",18
 Lassen,MB37,Governor,,REP,Glenn Champ,5
-Lassen,MB37,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB37,Governor,,IND,Joe Leicht,0
 Lassen,MB37,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB37,Governor,,REP,Neel Kashkari,12
-Lassen,MB37,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB37,Governor,,REP,Richard William Aguirre,0
 Lassen,MB37,Governor,,IND,Robert Newman,4
 Lassen,MB37,Governor,,REP,Tim Donnelly,27
 Lassen,MB37,Insurance Commissioner,,DEM,Dave Jones,23
 Lassen,MB37,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Lassen,MB37,Insurance Commissioner,,REP,Ted Gaines,48
 Lassen,MB37,Lieutenant Governor,,AME,Alan Reynolds,7
-Lassen,MB37,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB37,Lieutenant Governor,,REP,David Fennell,10
 Lassen,MB37,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lassen,MB37,Lieutenant Governor,,DEM,Gavin Newsom,20
 Lassen,MB37,Lieutenant Governor,,REP,George Yang,13
 Lassen,MB37,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Lassen,MB37,Lieutenant Governor,,REP,Ron Nehring,19
+Lassen,MB37,Proposition 41,,,No,27
+Lassen,MB37,Proposition 41,,,Yes,52
+Lassen,MB37,Proposition 42,,,No,38
+Lassen,MB37,Proposition 42,,,Yes,39
 Lassen,MB37,Secretary of State,,DEM,Alex Padilla,11
 Lassen,MB37,Secretary of State,,IND,Dan Schnur,11
 Lassen,MB37,Secretary of State,,GRN,David Curtis,6
@@ -2075,9 +1761,7 @@ Lassen,MB37,U.S. House,1,REP,Gregory Cheadle,12
 Lassen,MB37,U.S. House,1,DEM,Heidi Hall,16
 Lassen,MB38,Attorney General,,REP,David King,2
 Lassen,MB38,Attorney General,,REP,John Haggerty,2
-Lassen,MB38,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB38,Attorney General,,DEM,Kamala D. Harris,4
-Lassen,MB38,Attorney General,,IND,Orly Taitz,0
 Lassen,MB38,Attorney General,,REP,Phil Wyman,7
 Lassen,MB38,Attorney General,,REP,Ronald Gold,4
 Lassen,MB38,Board of Equalization,1,DEM,Chris Parker,5
@@ -2086,40 +1770,25 @@ Lassen,MB38,Controller,,REP,Ashley Swearengin,6
 Lassen,MB38,Controller,,DEM,Betty T. Yee,2
 Lassen,MB38,Controller,,REP,David Evans,9
 Lassen,MB38,Controller,,DEM,John A. Pérez,2
-Lassen,MB38,Controller,,GRN,Laura Wells,0
-Lassen,MB38,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB38,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB38,Governor,,DEM,Akinyemi Agbede,1
-Lassen,MB38,Governor,,REP,Alma Marie Winston,0
 Lassen,MB38,Governor,,REP,Andrew Blount,3
-Lassen,MB38,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB38,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Lassen,MB38,Governor,,REP,Glenn Champ,0
-Lassen,MB38,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB38,Governor,,IND,Joe Leicht,0
-Lassen,MB38,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB38,Governor,,REP,Neel Kashkari,5
-Lassen,MB38,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB38,Governor,,REP,Richard William Aguirre,0
-Lassen,MB38,Governor,,IND,Robert Newman,0
 Lassen,MB38,Governor,,REP,Tim Donnelly,7
 Lassen,MB38,Insurance Commissioner,,DEM,Dave Jones,7
-Lassen,MB38,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lassen,MB38,Insurance Commissioner,,REP,Ted Gaines,12
-Lassen,MB38,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB38,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB38,Lieutenant Governor,,REP,David Fennell,4
 Lassen,MB38,Lieutenant Governor,,DEM,Eric Korevaar,1
 Lassen,MB38,Lieutenant Governor,,DEM,Gavin Newsom,5
 Lassen,MB38,Lieutenant Governor,,REP,George Yang,3
-Lassen,MB38,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB38,Lieutenant Governor,,REP,Ron Nehring,6
-Lassen,MB38,Secretary of State,,DEM,Alex Padilla,0
-Lassen,MB38,Secretary of State,,IND,Dan Schnur,0
+Lassen,MB38,Proposition 41,,,No,5
+Lassen,MB38,Proposition 41,,,Yes,14
+Lassen,MB38,Proposition 42,,,No,9
+Lassen,MB38,Proposition 42,,,Yes,10
 Lassen,MB38,Secretary of State,,GRN,David Curtis,1
 Lassen,MB38,Secretary of State,,DEM,Derek Cressman,4
 Lassen,MB38,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Lassen,MB38,Secretary of State,,DEM,Leland Yee,0
 Lassen,MB38,Secretary of State,,REP,Pete Peterson,7
 Lassen,MB38,Secretary of State,,REP,Roy Allmond,6
 Lassen,MB38,State Assembly,1,REP,Brian Dahle,15
@@ -2127,10 +1796,8 @@ Lassen,MB38,State Assembly,1,DEM,Brigham Sawyer Smith,4
 Lassen,MB38,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
 Lassen,MB38,Superintendent of Public Instruction,,NOP,Marshall Tuck,6
 Lassen,MB38,Superintendent of Public Instruction,,NOP,Tom Torlakson,6
-Lassen,MB38,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB38,Treasurer,,REP,Greg Conlon,15
 Lassen,MB38,Treasurer,,DEM,John Chiang,4
-Lassen,MB38,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB38,U.S. House,1,REP,Doug La Malfa,10
 Lassen,MB38,U.S. House,1,REP,Gregory Cheadle,2
 Lassen,MB38,U.S. House,1,DEM,Heidi Hall,7
@@ -2150,18 +1817,12 @@ Lassen,MB39,Controller,,DEM,John A. Pérez,7
 Lassen,MB39,Controller,,GRN,Laura Wells,5
 Lassen,MB39,Controller,,DEM,Tammy D. Blair,1
 Lassen,MB39,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Lassen,MB39,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB39,Governor,,REP,Alma Marie Winston,2
 Lassen,MB39,Governor,,REP,Andrew Blount,4
-Lassen,MB39,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB39,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
 Lassen,MB39,Governor,,REP,Glenn Champ,1
-Lassen,MB39,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB39,Governor,,IND,Joe Leicht,0
 Lassen,MB39,Governor,,GRN,Luis J. Rodriguez,2
 Lassen,MB39,Governor,,REP,Neel Kashkari,13
-Lassen,MB39,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB39,Governor,,REP,Richard William Aguirre,0
 Lassen,MB39,Governor,,IND,Robert Newman,2
 Lassen,MB39,Governor,,REP,Tim Donnelly,28
 Lassen,MB39,Insurance Commissioner,,DEM,Dave Jones,13
@@ -2175,11 +1836,13 @@ Lassen,MB39,Lieutenant Governor,,DEM,Gavin Newsom,14
 Lassen,MB39,Lieutenant Governor,,REP,George Yang,8
 Lassen,MB39,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB39,Lieutenant Governor,,REP,Ron Nehring,26
+Lassen,MB39,Proposition 41,,,No,31
+Lassen,MB39,Proposition 41,,,Yes,38
+Lassen,MB39,Proposition 42,,,No,42
+Lassen,MB39,Proposition 42,,,Yes,26
 Lassen,MB39,Secretary of State,,DEM,Alex Padilla,7
 Lassen,MB39,Secretary of State,,IND,Dan Schnur,12
 Lassen,MB39,Secretary of State,,GRN,David Curtis,2
-Lassen,MB39,Secretary of State,,DEM,Derek Cressman,0
-Lassen,MB39,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB39,Secretary of State,,DEM,Leland Yee,7
 Lassen,MB39,Secretary of State,,REP,Pete Peterson,21
 Lassen,MB39,Secretary of State,,REP,Roy Allmond,19
@@ -2197,7 +1860,6 @@ Lassen,MB39,U.S. House,1,REP,Gregory Cheadle,6
 Lassen,MB39,U.S. House,1,DEM,Heidi Hall,8
 Lassen,MB40,Attorney General,,REP,David King,3
 Lassen,MB40,Attorney General,,REP,John Haggerty,5
-Lassen,MB40,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB40,Attorney General,,DEM,Kamala D. Harris,10
 Lassen,MB40,Attorney General,,IND,Orly Taitz,1
 Lassen,MB40,Attorney General,,REP,Phil Wyman,14
@@ -2209,38 +1871,29 @@ Lassen,MB40,Controller,,DEM,Betty T. Yee,3
 Lassen,MB40,Controller,,REP,David Evans,13
 Lassen,MB40,Controller,,DEM,John A. Pérez,3
 Lassen,MB40,Controller,,GRN,Laura Wells,3
-Lassen,MB40,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB40,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB40,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB40,Governor,,REP,Alma Marie Winston,4
-Lassen,MB40,Governor,,REP,Andrew Blount,0
-Lassen,MB40,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB40,Governor,,DEM,"Edmund G. ""Jerry"" Brown",9
 Lassen,MB40,Governor,,REP,Glenn Champ,2
-Lassen,MB40,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB40,Governor,,IND,Joe Leicht,0
-Lassen,MB40,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB40,Governor,,REP,Neel Kashkari,1
-Lassen,MB40,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB40,Governor,,REP,Richard William Aguirre,0
 Lassen,MB40,Governor,,IND,Robert Newman,2
 Lassen,MB40,Governor,,REP,Tim Donnelly,17
 Lassen,MB40,Insurance Commissioner,,DEM,Dave Jones,7
 Lassen,MB40,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB40,Insurance Commissioner,,REP,Ted Gaines,26
 Lassen,MB40,Lieutenant Governor,,AME,Alan Reynolds,1
-Lassen,MB40,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB40,Lieutenant Governor,,REP,David Fennell,4
 Lassen,MB40,Lieutenant Governor,,DEM,Eric Korevaar,2
 Lassen,MB40,Lieutenant Governor,,DEM,Gavin Newsom,5
 Lassen,MB40,Lieutenant Governor,,REP,George Yang,7
 Lassen,MB40,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB40,Lieutenant Governor,,REP,Ron Nehring,14
+Lassen,MB40,Proposition 41,,,No,14
+Lassen,MB40,Proposition 41,,,Yes,22
+Lassen,MB40,Proposition 42,,,No,19
+Lassen,MB40,Proposition 42,,,Yes,17
 Lassen,MB40,Secretary of State,,DEM,Alex Padilla,11
 Lassen,MB40,Secretary of State,,IND,Dan Schnur,1
-Lassen,MB40,Secretary of State,,GRN,David Curtis,0
 Lassen,MB40,Secretary of State,,DEM,Derek Cressman,1
-Lassen,MB40,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB40,Secretary of State,,DEM,Leland Yee,1
 Lassen,MB40,Secretary of State,,REP,Pete Peterson,12
 Lassen,MB40,Secretary of State,,REP,Roy Allmond,10
@@ -2258,7 +1911,6 @@ Lassen,MB40,U.S. House,1,REP,Gregory Cheadle,1
 Lassen,MB40,U.S. House,1,DEM,Heidi Hall,8
 Lassen,MB41,Attorney General,,REP,David King,9
 Lassen,MB41,Attorney General,,REP,John Haggerty,9
-Lassen,MB41,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB41,Attorney General,,DEM,Kamala D. Harris,9
 Lassen,MB41,Attorney General,,IND,Orly Taitz,2
 Lassen,MB41,Attorney General,,REP,Phil Wyman,25
@@ -2271,18 +1923,10 @@ Lassen,MB41,Controller,,REP,David Evans,35
 Lassen,MB41,Controller,,DEM,John A. Pérez,3
 Lassen,MB41,Controller,,GRN,Laura Wells,3
 Lassen,MB41,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB41,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB41,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB41,Governor,,REP,Alma Marie Winston,0
 Lassen,MB41,Governor,,REP,Andrew Blount,3
-Lassen,MB41,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB41,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Lassen,MB41,Governor,,REP,Glenn Champ,1
-Lassen,MB41,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB41,Governor,,IND,Joe Leicht,0
-Lassen,MB41,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB41,Governor,,REP,Neel Kashkari,17
-Lassen,MB41,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB41,Governor,,REP,Richard William Aguirre,2
 Lassen,MB41,Governor,,IND,Robert Newman,7
 Lassen,MB41,Governor,,REP,Tim Donnelly,27
@@ -2290,18 +1934,19 @@ Lassen,MB41,Insurance Commissioner,,DEM,Dave Jones,12
 Lassen,MB41,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Lassen,MB41,Insurance Commissioner,,REP,Ted Gaines,55
 Lassen,MB41,Lieutenant Governor,,AME,Alan Reynolds,1
-Lassen,MB41,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB41,Lieutenant Governor,,REP,David Fennell,22
 Lassen,MB41,Lieutenant Governor,,DEM,Eric Korevaar,1
 Lassen,MB41,Lieutenant Governor,,DEM,Gavin Newsom,14
 Lassen,MB41,Lieutenant Governor,,REP,George Yang,5
 Lassen,MB41,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB41,Lieutenant Governor,,REP,Ron Nehring,22
+Lassen,MB41,Proposition 41,,,No,45
+Lassen,MB41,Proposition 41,,,Yes,24
+Lassen,MB41,Proposition 42,,,No,42
+Lassen,MB41,Proposition 42,,,Yes,24
 Lassen,MB41,Secretary of State,,DEM,Alex Padilla,6
 Lassen,MB41,Secretary of State,,IND,Dan Schnur,9
-Lassen,MB41,Secretary of State,,GRN,David Curtis,0
 Lassen,MB41,Secretary of State,,DEM,Derek Cressman,3
-Lassen,MB41,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB41,Secretary of State,,DEM,Leland Yee,2
 Lassen,MB41,Secretary of State,,REP,Pete Peterson,35
 Lassen,MB41,Secretary of State,,REP,Roy Allmond,14
@@ -2333,19 +1978,14 @@ Lassen,MB42,Controller,,DEM,John A. Pérez,13
 Lassen,MB42,Controller,,GRN,Laura Wells,5
 Lassen,MB42,Controller,,DEM,Tammy D. Blair,2
 Lassen,MB42,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Lassen,MB42,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB42,Governor,,REP,Alma Marie Winston,1
 Lassen,MB42,Governor,,REP,Andrew Blount,5
 Lassen,MB42,Governor,,PAF,Cindy L. Sheehan,2
 Lassen,MB42,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
 Lassen,MB42,Governor,,REP,Glenn Champ,1
-Lassen,MB42,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB42,Governor,,IND,Joe Leicht,0
-Lassen,MB42,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB42,Governor,,REP,Neel Kashkari,17
 Lassen,MB42,Governor,,IND,Rakesh Kumar Christian,1
 Lassen,MB42,Governor,,REP,Richard William Aguirre,1
-Lassen,MB42,Governor,,IND,Robert Newman,0
 Lassen,MB42,Governor,,REP,Tim Donnelly,22
 Lassen,MB42,Insurance Commissioner,,DEM,Dave Jones,40
 Lassen,MB42,Insurance Commissioner,,PAF,Nathalie Hrizi,6
@@ -2358,6 +1998,10 @@ Lassen,MB42,Lieutenant Governor,,DEM,Gavin Newsom,36
 Lassen,MB42,Lieutenant Governor,,REP,George Yang,19
 Lassen,MB42,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lassen,MB42,Lieutenant Governor,,REP,Ron Nehring,26
+Lassen,MB42,Proposition 41,,,No,54
+Lassen,MB42,Proposition 41,,,Yes,49
+Lassen,MB42,Proposition 42,,,No,66
+Lassen,MB42,Proposition 42,,,Yes,34
 Lassen,MB42,Secretary of State,,DEM,Alex Padilla,21
 Lassen,MB42,Secretary of State,,IND,Dan Schnur,10
 Lassen,MB42,Secretary of State,,GRN,David Curtis,2
@@ -2393,19 +2037,13 @@ Lassen,MB43,Controller,,REP,David Evans,21
 Lassen,MB43,Controller,,DEM,John A. Pérez,2
 Lassen,MB43,Controller,,GRN,Laura Wells,3
 Lassen,MB43,Controller,,DEM,Tammy D. Blair,3
-Lassen,MB43,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB43,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB43,Governor,,REP,Alma Marie Winston,1
 Lassen,MB43,Governor,,REP,Andrew Blount,4
 Lassen,MB43,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB43,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
 Lassen,MB43,Governor,,REP,Glenn Champ,3
-Lassen,MB43,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB43,Governor,,IND,Joe Leicht,0
 Lassen,MB43,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB43,Governor,,REP,Neel Kashkari,11
-Lassen,MB43,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB43,Governor,,REP,Richard William Aguirre,0
 Lassen,MB43,Governor,,IND,Robert Newman,3
 Lassen,MB43,Governor,,REP,Tim Donnelly,13
 Lassen,MB43,Insurance Commissioner,,DEM,Dave Jones,21
@@ -2419,6 +2057,10 @@ Lassen,MB43,Lieutenant Governor,,DEM,Gavin Newsom,10
 Lassen,MB43,Lieutenant Governor,,REP,George Yang,10
 Lassen,MB43,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,MB43,Lieutenant Governor,,REP,Ron Nehring,20
+Lassen,MB43,Proposition 41,,,No,21
+Lassen,MB43,Proposition 41,,,Yes,32
+Lassen,MB43,Proposition 42,,,No,28
+Lassen,MB43,Proposition 42,,,Yes,24
 Lassen,MB43,Secretary of State,,DEM,Alex Padilla,13
 Lassen,MB43,Secretary of State,,IND,Dan Schnur,3
 Lassen,MB43,Secretary of State,,GRN,David Curtis,2
@@ -2455,36 +2097,31 @@ Lassen,MB44,Controller,,DEM,John A. Pérez,7
 Lassen,MB44,Controller,,GRN,Laura Wells,2
 Lassen,MB44,Controller,,DEM,Tammy D. Blair,3
 Lassen,MB44,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Lassen,MB44,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB44,Governor,,REP,Alma Marie Winston,0
 Lassen,MB44,Governor,,REP,Andrew Blount,1
 Lassen,MB44,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB44,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
 Lassen,MB44,Governor,,REP,Glenn Champ,1
-Lassen,MB44,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB44,Governor,,IND,Joe Leicht,0
-Lassen,MB44,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB44,Governor,,REP,Neel Kashkari,9
-Lassen,MB44,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB44,Governor,,REP,Richard William Aguirre,0
 Lassen,MB44,Governor,,IND,Robert Newman,1
 Lassen,MB44,Governor,,REP,Tim Donnelly,12
 Lassen,MB44,Insurance Commissioner,,DEM,Dave Jones,15
 Lassen,MB44,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB44,Insurance Commissioner,,REP,Ted Gaines,23
 Lassen,MB44,Lieutenant Governor,,AME,Alan Reynolds,1
-Lassen,MB44,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB44,Lieutenant Governor,,REP,David Fennell,3
 Lassen,MB44,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lassen,MB44,Lieutenant Governor,,DEM,Gavin Newsom,14
 Lassen,MB44,Lieutenant Governor,,REP,George Yang,7
 Lassen,MB44,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB44,Lieutenant Governor,,REP,Ron Nehring,13
+Lassen,MB44,Proposition 41,,,No,20
+Lassen,MB44,Proposition 41,,,Yes,25
+Lassen,MB44,Proposition 42,,,No,19
+Lassen,MB44,Proposition 42,,,Yes,25
 Lassen,MB44,Secretary of State,,DEM,Alex Padilla,6
 Lassen,MB44,Secretary of State,,IND,Dan Schnur,7
 Lassen,MB44,Secretary of State,,GRN,David Curtis,5
 Lassen,MB44,Secretary of State,,DEM,Derek Cressman,3
-Lassen,MB44,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB44,Secretary of State,,DEM,Leland Yee,5
 Lassen,MB44,Secretary of State,,REP,Pete Peterson,14
 Lassen,MB44,Secretary of State,,REP,Roy Allmond,3
@@ -2515,20 +2152,12 @@ Lassen,MB45,Controller,,REP,David Evans,16
 Lassen,MB45,Controller,,DEM,John A. Pérez,4
 Lassen,MB45,Controller,,GRN,Laura Wells,2
 Lassen,MB45,Controller,,DEM,Tammy D. Blair,4
-Lassen,MB45,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB45,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB45,Governor,,REP,Alma Marie Winston,2
 Lassen,MB45,Governor,,REP,Andrew Blount,3
 Lassen,MB45,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB45,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Lassen,MB45,Governor,,REP,Glenn Champ,3
-Lassen,MB45,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB45,Governor,,IND,Joe Leicht,0
-Lassen,MB45,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB45,Governor,,REP,Neel Kashkari,8
-Lassen,MB45,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB45,Governor,,REP,Richard William Aguirre,0
-Lassen,MB45,Governor,,IND,Robert Newman,0
 Lassen,MB45,Governor,,REP,Tim Donnelly,9
 Lassen,MB45,Insurance Commissioner,,DEM,Dave Jones,14
 Lassen,MB45,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -2541,6 +2170,10 @@ Lassen,MB45,Lieutenant Governor,,DEM,Gavin Newsom,13
 Lassen,MB45,Lieutenant Governor,,REP,George Yang,7
 Lassen,MB45,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB45,Lieutenant Governor,,REP,Ron Nehring,11
+Lassen,MB45,Proposition 41,,,No,22
+Lassen,MB45,Proposition 41,,,Yes,25
+Lassen,MB45,Proposition 42,,,No,23
+Lassen,MB45,Proposition 42,,,Yes,20
 Lassen,MB45,Secretary of State,,DEM,Alex Padilla,12
 Lassen,MB45,Secretary of State,,IND,Dan Schnur,2
 Lassen,MB45,Secretary of State,,GRN,David Curtis,2
@@ -2576,20 +2209,15 @@ Lassen,MB46,Controller,,REP,David Evans,26
 Lassen,MB46,Controller,,DEM,John A. Pérez,8
 Lassen,MB46,Controller,,GRN,Laura Wells,7
 Lassen,MB46,Controller,,DEM,Tammy D. Blair,4
-Lassen,MB46,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB46,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB46,Governor,,REP,Alma Marie Winston,4
 Lassen,MB46,Governor,,REP,Andrew Blount,2
 Lassen,MB46,Governor,,PAF,Cindy L. Sheehan,2
 Lassen,MB46,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
 Lassen,MB46,Governor,,REP,Glenn Champ,2
 Lassen,MB46,Governor,,IND,Janel Hyeshia Buycks,2
-Lassen,MB46,Governor,,IND,Joe Leicht,0
 Lassen,MB46,Governor,,GRN,Luis J. Rodriguez,2
 Lassen,MB46,Governor,,REP,Neel Kashkari,10
-Lassen,MB46,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB46,Governor,,REP,Richard William Aguirre,1
-Lassen,MB46,Governor,,IND,Robert Newman,0
 Lassen,MB46,Governor,,REP,Tim Donnelly,20
 Lassen,MB46,Insurance Commissioner,,DEM,Dave Jones,19
 Lassen,MB46,Insurance Commissioner,,PAF,Nathalie Hrizi,7
@@ -2602,6 +2230,10 @@ Lassen,MB46,Lieutenant Governor,,DEM,Gavin Newsom,19
 Lassen,MB46,Lieutenant Governor,,REP,George Yang,7
 Lassen,MB46,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lassen,MB46,Lieutenant Governor,,REP,Ron Nehring,24
+Lassen,MB46,Proposition 41,,,No,24
+Lassen,MB46,Proposition 41,,,Yes,53
+Lassen,MB46,Proposition 42,,,No,40
+Lassen,MB46,Proposition 42,,,Yes,37
 Lassen,MB46,Secretary of State,,DEM,Alex Padilla,14
 Lassen,MB46,Secretary of State,,IND,Dan Schnur,5
 Lassen,MB46,Secretary of State,,GRN,David Curtis,5
@@ -2626,7 +2258,6 @@ Lassen,MB47,Attorney General,,REP,David King,5
 Lassen,MB47,Attorney General,,REP,John Haggerty,3
 Lassen,MB47,Attorney General,,LIB,Jonathan Jaech,1
 Lassen,MB47,Attorney General,,DEM,Kamala D. Harris,10
-Lassen,MB47,Attorney General,,IND,Orly Taitz,0
 Lassen,MB47,Attorney General,,REP,Phil Wyman,7
 Lassen,MB47,Attorney General,,REP,Ronald Gold,4
 Lassen,MB47,Board of Equalization,1,DEM,Chris Parker,15
@@ -2637,20 +2268,13 @@ Lassen,MB47,Controller,,REP,David Evans,12
 Lassen,MB47,Controller,,DEM,John A. Pérez,3
 Lassen,MB47,Controller,,GRN,Laura Wells,3
 Lassen,MB47,Controller,,DEM,Tammy D. Blair,5
-Lassen,MB47,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB47,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB47,Governor,,REP,Alma Marie Winston,1
 Lassen,MB47,Governor,,REP,Andrew Blount,1
-Lassen,MB47,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB47,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
 Lassen,MB47,Governor,,REP,Glenn Champ,2
 Lassen,MB47,Governor,,IND,Janel Hyeshia Buycks,3
-Lassen,MB47,Governor,,IND,Joe Leicht,0
 Lassen,MB47,Governor,,GRN,Luis J. Rodriguez,2
 Lassen,MB47,Governor,,REP,Neel Kashkari,7
-Lassen,MB47,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB47,Governor,,REP,Richard William Aguirre,0
-Lassen,MB47,Governor,,IND,Robert Newman,0
 Lassen,MB47,Governor,,REP,Tim Donnelly,5
 Lassen,MB47,Insurance Commissioner,,DEM,Dave Jones,12
 Lassen,MB47,Insurance Commissioner,,PAF,Nathalie Hrizi,1
@@ -2663,6 +2287,10 @@ Lassen,MB47,Lieutenant Governor,,DEM,Gavin Newsom,9
 Lassen,MB47,Lieutenant Governor,,REP,George Yang,6
 Lassen,MB47,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,MB47,Lieutenant Governor,,REP,Ron Nehring,5
+Lassen,MB47,Proposition 41,,,No,7
+Lassen,MB47,Proposition 41,,,Yes,26
+Lassen,MB47,Proposition 42,,,No,17
+Lassen,MB47,Proposition 42,,,Yes,14
 Lassen,MB47,Secretary of State,,DEM,Alex Padilla,5
 Lassen,MB47,Secretary of State,,IND,Dan Schnur,4
 Lassen,MB47,Secretary of State,,GRN,David Curtis,3
@@ -2685,7 +2313,6 @@ Lassen,MB47,U.S. House,1,REP,Gregory Cheadle,1
 Lassen,MB47,U.S. House,1,DEM,Heidi Hall,7
 Lassen,MB48,Attorney General,,REP,David King,5
 Lassen,MB48,Attorney General,,REP,John Haggerty,4
-Lassen,MB48,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB48,Attorney General,,DEM,Kamala D. Harris,8
 Lassen,MB48,Attorney General,,IND,Orly Taitz,1
 Lassen,MB48,Attorney General,,REP,Phil Wyman,5
@@ -2696,18 +2323,11 @@ Lassen,MB48,Controller,,REP,Ashley Swearengin,5
 Lassen,MB48,Controller,,DEM,Betty T. Yee,3
 Lassen,MB48,Controller,,REP,David Evans,14
 Lassen,MB48,Controller,,DEM,John A. Pérez,8
-Lassen,MB48,Controller,,GRN,Laura Wells,0
 Lassen,MB48,Controller,,DEM,Tammy D. Blair,2
-Lassen,MB48,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB48,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB48,Governor,,REP,Alma Marie Winston,1
 Lassen,MB48,Governor,,REP,Andrew Blount,1
-Lassen,MB48,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB48,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Lassen,MB48,Governor,,REP,Glenn Champ,1
-Lassen,MB48,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB48,Governor,,IND,Joe Leicht,0
-Lassen,MB48,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB48,Governor,,REP,Neel Kashkari,2
 Lassen,MB48,Governor,,IND,Rakesh Kumar Christian,1
 Lassen,MB48,Governor,,REP,Richard William Aguirre,1
@@ -2717,17 +2337,18 @@ Lassen,MB48,Insurance Commissioner,,DEM,Dave Jones,9
 Lassen,MB48,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB48,Insurance Commissioner,,REP,Ted Gaines,16
 Lassen,MB48,Lieutenant Governor,,AME,Alan Reynolds,1
-Lassen,MB48,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB48,Lieutenant Governor,,REP,David Fennell,4
 Lassen,MB48,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lassen,MB48,Lieutenant Governor,,DEM,Gavin Newsom,10
 Lassen,MB48,Lieutenant Governor,,REP,George Yang,2
 Lassen,MB48,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB48,Lieutenant Governor,,REP,Ron Nehring,9
+Lassen,MB48,Proposition 41,,,No,6
+Lassen,MB48,Proposition 41,,,Yes,21
+Lassen,MB48,Proposition 42,,,No,13
+Lassen,MB48,Proposition 42,,,Yes,16
 Lassen,MB48,Secretary of State,,DEM,Alex Padilla,8
-Lassen,MB48,Secretary of State,,IND,Dan Schnur,0
 Lassen,MB48,Secretary of State,,GRN,David Curtis,1
-Lassen,MB48,Secretary of State,,DEM,Derek Cressman,0
 Lassen,MB48,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Lassen,MB48,Secretary of State,,DEM,Leland Yee,2
 Lassen,MB48,Secretary of State,,REP,Pete Peterson,8
@@ -2737,16 +2358,13 @@ Lassen,MB48,State Assembly,1,DEM,Brigham Sawyer Smith,4
 Lassen,MB48,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
 Lassen,MB48,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Lassen,MB48,Superintendent of Public Instruction,,NOP,Tom Torlakson,18
-Lassen,MB48,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB48,Treasurer,,REP,Greg Conlon,16
 Lassen,MB48,Treasurer,,DEM,John Chiang,13
-Lassen,MB48,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB48,U.S. House,1,REP,Doug La Malfa,19
 Lassen,MB48,U.S. House,1,REP,Gregory Cheadle,3
 Lassen,MB48,U.S. House,1,DEM,Heidi Hall,9
 Lassen,MB49,Attorney General,,REP,David King,5
 Lassen,MB49,Attorney General,,REP,John Haggerty,7
-Lassen,MB49,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB49,Attorney General,,DEM,Kamala D. Harris,7
 Lassen,MB49,Attorney General,,IND,Orly Taitz,1
 Lassen,MB49,Attorney General,,REP,Phil Wyman,19
@@ -2759,37 +2377,34 @@ Lassen,MB49,Controller,,REP,David Evans,21
 Lassen,MB49,Controller,,DEM,John A. Pérez,2
 Lassen,MB49,Controller,,GRN,Laura Wells,1
 Lassen,MB49,Controller,,DEM,Tammy D. Blair,1
-Lassen,MB49,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB49,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB49,Governor,,REP,Alma Marie Winston,3
 Lassen,MB49,Governor,,REP,Andrew Blount,2
 Lassen,MB49,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB49,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
 Lassen,MB49,Governor,,REP,Glenn Champ,5
-Lassen,MB49,Governor,,IND,Janel Hyeshia Buycks,0
 Lassen,MB49,Governor,,IND,Joe Leicht,2
 Lassen,MB49,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB49,Governor,,REP,Neel Kashkari,11
 Lassen,MB49,Governor,,IND,Rakesh Kumar Christian,2
-Lassen,MB49,Governor,,REP,Richard William Aguirre,0
 Lassen,MB49,Governor,,IND,Robert Newman,1
 Lassen,MB49,Governor,,REP,Tim Donnelly,13
 Lassen,MB49,Insurance Commissioner,,DEM,Dave Jones,9
 Lassen,MB49,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB49,Insurance Commissioner,,REP,Ted Gaines,38
 Lassen,MB49,Lieutenant Governor,,AME,Alan Reynolds,3
-Lassen,MB49,Lieutenant Governor,,PAF,Amos Johnson,0
 Lassen,MB49,Lieutenant Governor,,REP,David Fennell,15
-Lassen,MB49,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB49,Lieutenant Governor,,DEM,Gavin Newsom,7
 Lassen,MB49,Lieutenant Governor,,REP,George Yang,6
 Lassen,MB49,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lassen,MB49,Lieutenant Governor,,REP,Ron Nehring,16
+Lassen,MB49,Proposition 41,,,No,21
+Lassen,MB49,Proposition 41,,,Yes,28
+Lassen,MB49,Proposition 42,,,No,28
+Lassen,MB49,Proposition 42,,,Yes,17
 Lassen,MB49,Secretary of State,,DEM,Alex Padilla,3
 Lassen,MB49,Secretary of State,,IND,Dan Schnur,5
 Lassen,MB49,Secretary of State,,GRN,David Curtis,1
 Lassen,MB49,Secretary of State,,DEM,Derek Cressman,3
-Lassen,MB49,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB49,Secretary of State,,DEM,Leland Yee,4
 Lassen,MB49,Secretary of State,,REP,Pete Peterson,19
 Lassen,MB49,Secretary of State,,REP,Roy Allmond,14
@@ -2824,21 +2439,14 @@ Lassen,MB50,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Lassen,MB50,Governor,,DEM,Akinyemi Agbede,2
 Lassen,MB50,Governor,,REP,Alma Marie Winston,2
 Lassen,MB50,Governor,,REP,Andrew Blount,3
-Lassen,MB50,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB50,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
 Lassen,MB50,Governor,,REP,Glenn Champ,3
 Lassen,MB50,Governor,,IND,Janel Hyeshia Buycks,1
-Lassen,MB50,Governor,,IND,Joe Leicht,0
-Lassen,MB50,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB50,Governor,,REP,Neel Kashkari,9
-Lassen,MB50,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB50,Governor,,REP,Richard William Aguirre,0
-Lassen,MB50,Governor,,IND,Robert Newman,0
 Lassen,MB50,Governor,,REP,Tim Donnelly,28
 Lassen,MB50,Insurance Commissioner,,DEM,Dave Jones,25
 Lassen,MB50,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lassen,MB50,Insurance Commissioner,,REP,Ted Gaines,45
-Lassen,MB50,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB50,Lieutenant Governor,,PAF,Amos Johnson,1
 Lassen,MB50,Lieutenant Governor,,REP,David Fennell,6
 Lassen,MB50,Lieutenant Governor,,DEM,Eric Korevaar,2
@@ -2846,11 +2454,14 @@ Lassen,MB50,Lieutenant Governor,,DEM,Gavin Newsom,29
 Lassen,MB50,Lieutenant Governor,,REP,George Yang,8
 Lassen,MB50,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB50,Lieutenant Governor,,REP,Ron Nehring,28
+Lassen,MB50,Proposition 41,,,No,32
+Lassen,MB50,Proposition 41,,,Yes,48
+Lassen,MB50,Proposition 42,,,No,44
+Lassen,MB50,Proposition 42,,,Yes,34
 Lassen,MB50,Secretary of State,,DEM,Alex Padilla,7
 Lassen,MB50,Secretary of State,,IND,Dan Schnur,9
 Lassen,MB50,Secretary of State,,GRN,David Curtis,2
 Lassen,MB50,Secretary of State,,DEM,Derek Cressman,6
-Lassen,MB50,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB50,Secretary of State,,DEM,Leland Yee,11
 Lassen,MB50,Secretary of State,,REP,Pete Peterson,24
 Lassen,MB50,Secretary of State,,REP,Roy Allmond,12
@@ -2866,9 +2477,7 @@ Lassen,MB50,U.S. House,1,DEM,Dan Levine,2
 Lassen,MB50,U.S. House,1,REP,Doug La Malfa,54
 Lassen,MB50,U.S. House,1,REP,Gregory Cheadle,5
 Lassen,MB50,U.S. House,1,DEM,Heidi Hall,15
-Lassen,MB51,Attorney General,,REP,David King,0
 Lassen,MB51,Attorney General,,REP,John Haggerty,2
-Lassen,MB51,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB51,Attorney General,,DEM,Kamala D. Harris,10
 Lassen,MB51,Attorney General,,IND,Orly Taitz,1
 Lassen,MB51,Attorney General,,REP,Phil Wyman,6
@@ -2881,25 +2490,17 @@ Lassen,MB51,Controller,,REP,David Evans,4
 Lassen,MB51,Controller,,DEM,John A. Pérez,8
 Lassen,MB51,Controller,,GRN,Laura Wells,1
 Lassen,MB51,Controller,,DEM,Tammy D. Blair,2
-Lassen,MB51,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB51,Governor,,DEM,Akinyemi Agbede,0
 Lassen,MB51,Governor,,REP,Alma Marie Winston,4
 Lassen,MB51,Governor,,REP,Andrew Blount,1
 Lassen,MB51,Governor,,PAF,Cindy L. Sheehan,1
 Lassen,MB51,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Lassen,MB51,Governor,,REP,Glenn Champ,0
-Lassen,MB51,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB51,Governor,,IND,Joe Leicht,0
 Lassen,MB51,Governor,,GRN,Luis J. Rodriguez,3
 Lassen,MB51,Governor,,REP,Neel Kashkari,7
-Lassen,MB51,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB51,Governor,,REP,Richard William Aguirre,0
 Lassen,MB51,Governor,,IND,Robert Newman,1
 Lassen,MB51,Governor,,REP,Tim Donnelly,3
 Lassen,MB51,Insurance Commissioner,,DEM,Dave Jones,8
 Lassen,MB51,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Lassen,MB51,Insurance Commissioner,,REP,Ted Gaines,14
-Lassen,MB51,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB51,Lieutenant Governor,,PAF,Amos Johnson,2
 Lassen,MB51,Lieutenant Governor,,REP,David Fennell,1
 Lassen,MB51,Lieutenant Governor,,DEM,Eric Korevaar,1
@@ -2907,6 +2508,10 @@ Lassen,MB51,Lieutenant Governor,,DEM,Gavin Newsom,7
 Lassen,MB51,Lieutenant Governor,,REP,George Yang,4
 Lassen,MB51,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lassen,MB51,Lieutenant Governor,,REP,Ron Nehring,10
+Lassen,MB51,Proposition 41,,,No,3
+Lassen,MB51,Proposition 41,,,Yes,22
+Lassen,MB51,Proposition 42,,,No,4
+Lassen,MB51,Proposition 42,,,Yes,21
 Lassen,MB51,Secretary of State,,DEM,Alex Padilla,8
 Lassen,MB51,Secretary of State,,IND,Dan Schnur,4
 Lassen,MB51,Secretary of State,,GRN,David Curtis,2
@@ -2914,7 +2519,6 @@ Lassen,MB51,Secretary of State,,DEM,Derek Cressman,2
 Lassen,MB51,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Lassen,MB51,Secretary of State,,DEM,Leland Yee,3
 Lassen,MB51,Secretary of State,,REP,Pete Peterson,6
-Lassen,MB51,Secretary of State,,REP,Roy Allmond,0
 Lassen,MB51,State Assembly,1,REP,Brian Dahle,22
 Lassen,MB51,State Assembly,1,DEM,Brigham Sawyer Smith,4
 Lassen,MB51,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,7
@@ -2927,11 +2531,7 @@ Lassen,MB51,U.S. House,1,DEM,Dan Levine,2
 Lassen,MB51,U.S. House,1,REP,Doug La Malfa,12
 Lassen,MB51,U.S. House,1,REP,Gregory Cheadle,5
 Lassen,MB51,U.S. House,1,DEM,Heidi Hall,7
-Lassen,MB52,Attorney General,,REP,David King,0
-Lassen,MB52,Attorney General,,REP,John Haggerty,0
-Lassen,MB52,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB52,Attorney General,,DEM,Kamala D. Harris,2
-Lassen,MB52,Attorney General,,IND,Orly Taitz,0
 Lassen,MB52,Attorney General,,REP,Phil Wyman,6
 Lassen,MB52,Attorney General,,REP,Ronald Gold,3
 Lassen,MB52,Board of Equalization,1,DEM,Chris Parker,2
@@ -2939,40 +2539,20 @@ Lassen,MB52,Board of Equalization,1,REP,George Runner,9
 Lassen,MB52,Controller,,REP,Ashley Swearengin,8
 Lassen,MB52,Controller,,DEM,Betty T. Yee,2
 Lassen,MB52,Controller,,REP,David Evans,1
-Lassen,MB52,Controller,,DEM,John A. Pérez,0
-Lassen,MB52,Controller,,GRN,Laura Wells,0
-Lassen,MB52,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB52,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB52,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB52,Governor,,REP,Alma Marie Winston,0
-Lassen,MB52,Governor,,REP,Andrew Blount,0
-Lassen,MB52,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB52,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
 Lassen,MB52,Governor,,REP,Glenn Champ,1
-Lassen,MB52,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB52,Governor,,IND,Joe Leicht,0
-Lassen,MB52,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB52,Governor,,REP,Neel Kashkari,5
-Lassen,MB52,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB52,Governor,,REP,Richard William Aguirre,0
-Lassen,MB52,Governor,,IND,Robert Newman,0
 Lassen,MB52,Governor,,REP,Tim Donnelly,3
 Lassen,MB52,Insurance Commissioner,,DEM,Dave Jones,2
-Lassen,MB52,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lassen,MB52,Insurance Commissioner,,REP,Ted Gaines,9
-Lassen,MB52,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB52,Lieutenant Governor,,PAF,Amos Johnson,0
-Lassen,MB52,Lieutenant Governor,,REP,David Fennell,0
-Lassen,MB52,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB52,Lieutenant Governor,,DEM,Gavin Newsom,2
 Lassen,MB52,Lieutenant Governor,,REP,George Yang,5
-Lassen,MB52,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB52,Lieutenant Governor,,REP,Ron Nehring,4
-Lassen,MB52,Secretary of State,,DEM,Alex Padilla,0
+Lassen,MB52,Proposition 41,,,No,1
+Lassen,MB52,Proposition 41,,,Yes,10
+Lassen,MB52,Proposition 42,,,No,3
+Lassen,MB52,Proposition 42,,,Yes,7
 Lassen,MB52,Secretary of State,,IND,Dan Schnur,1
-Lassen,MB52,Secretary of State,,GRN,David Curtis,0
-Lassen,MB52,Secretary of State,,DEM,Derek Cressman,0
-Lassen,MB52,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB52,Secretary of State,,DEM,Leland Yee,2
 Lassen,MB52,Secretary of State,,REP,Pete Peterson,5
 Lassen,MB52,Secretary of State,,REP,Roy Allmond,3
@@ -2981,77 +2561,25 @@ Lassen,MB52,State Assembly,1,DEM,Brigham Sawyer Smith,2
 Lassen,MB52,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 Lassen,MB52,Superintendent of Public Instruction,,NOP,Marshall Tuck,7
 Lassen,MB52,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-Lassen,MB52,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB52,Treasurer,,REP,Greg Conlon,9
 Lassen,MB52,Treasurer,,DEM,John Chiang,2
-Lassen,MB52,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB52,U.S. House,1,REP,Doug La Malfa,9
-Lassen,MB52,U.S. House,1,REP,Gregory Cheadle,0
 Lassen,MB52,U.S. House,1,DEM,Heidi Hall,2
-Lassen,MB53,Attorney General,,REP,David King,0
-Lassen,MB53,Attorney General,,REP,John Haggerty,0
-Lassen,MB53,Attorney General,,LIB,Jonathan Jaech,0
-Lassen,MB53,Attorney General,,DEM,Kamala D. Harris,0
-Lassen,MB53,Attorney General,,IND,Orly Taitz,0
 Lassen,MB53,Attorney General,,REP,Phil Wyman,1
-Lassen,MB53,Attorney General,,REP,Ronald Gold,0
-Lassen,MB53,Board of Equalization,1,DEM,Chris Parker,0
 Lassen,MB53,Board of Equalization,1,REP,George Runner,1
 Lassen,MB53,Controller,,REP,Ashley Swearengin,1
-Lassen,MB53,Controller,,DEM,Betty T. Yee,0
-Lassen,MB53,Controller,,REP,David Evans,0
-Lassen,MB53,Controller,,DEM,John A. Pérez,0
-Lassen,MB53,Controller,,GRN,Laura Wells,0
-Lassen,MB53,Controller,,DEM,Tammy D. Blair,0
-Lassen,MB53,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lassen,MB53,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB53,Governor,,REP,Alma Marie Winston,0
-Lassen,MB53,Governor,,REP,Andrew Blount,0
-Lassen,MB53,Governor,,PAF,Cindy L. Sheehan,0
-Lassen,MB53,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
 Lassen,MB53,Governor,,REP,Glenn Champ,1
-Lassen,MB53,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB53,Governor,,IND,Joe Leicht,0
-Lassen,MB53,Governor,,GRN,Luis J. Rodriguez,0
-Lassen,MB53,Governor,,REP,Neel Kashkari,0
-Lassen,MB53,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB53,Governor,,REP,Richard William Aguirre,0
-Lassen,MB53,Governor,,IND,Robert Newman,0
-Lassen,MB53,Governor,,REP,Tim Donnelly,0
-Lassen,MB53,Insurance Commissioner,,DEM,Dave Jones,0
-Lassen,MB53,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lassen,MB53,Insurance Commissioner,,REP,Ted Gaines,1
-Lassen,MB53,Lieutenant Governor,,AME,Alan Reynolds,0
-Lassen,MB53,Lieutenant Governor,,PAF,Amos Johnson,0
-Lassen,MB53,Lieutenant Governor,,REP,David Fennell,0
-Lassen,MB53,Lieutenant Governor,,DEM,Eric Korevaar,0
-Lassen,MB53,Lieutenant Governor,,DEM,Gavin Newsom,0
 Lassen,MB53,Lieutenant Governor,,REP,George Yang,1
-Lassen,MB53,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lassen,MB53,Lieutenant Governor,,REP,Ron Nehring,0
-Lassen,MB53,Secretary of State,,DEM,Alex Padilla,0
-Lassen,MB53,Secretary of State,,IND,Dan Schnur,0
-Lassen,MB53,Secretary of State,,GRN,David Curtis,0
-Lassen,MB53,Secretary of State,,DEM,Derek Cressman,0
-Lassen,MB53,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lassen,MB53,Secretary of State,,DEM,Leland Yee,0
+Lassen,MB53,Proposition 41,,,Yes,1
+Lassen,MB53,Proposition 42,,,Yes,1
 Lassen,MB53,Secretary of State,,REP,Pete Peterson,1
-Lassen,MB53,Secretary of State,,REP,Roy Allmond,0
 Lassen,MB53,State Assembly,1,REP,Brian Dahle,1
-Lassen,MB53,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Lassen,MB53,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Lassen,MB53,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Lassen,MB53,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-Lassen,MB53,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB53,Treasurer,,REP,Greg Conlon,1
-Lassen,MB53,Treasurer,,DEM,John Chiang,0
-Lassen,MB53,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB53,U.S. House,1,REP,Doug La Malfa,1
-Lassen,MB53,U.S. House,1,REP,Gregory Cheadle,0
-Lassen,MB53,U.S. House,1,DEM,Heidi Hall,0
 Lassen,MB55,Attorney General,,REP,David King,1
 Lassen,MB55,Attorney General,,REP,John Haggerty,1
-Lassen,MB55,Attorney General,,LIB,Jonathan Jaech,0
 Lassen,MB55,Attorney General,,DEM,Kamala D. Harris,6
 Lassen,MB55,Attorney General,,IND,Orly Taitz,1
 Lassen,MB55,Attorney General,,REP,Phil Wyman,4
@@ -3062,39 +2590,29 @@ Lassen,MB55,Controller,,REP,Ashley Swearengin,3
 Lassen,MB55,Controller,,DEM,Betty T. Yee,2
 Lassen,MB55,Controller,,REP,David Evans,6
 Lassen,MB55,Controller,,DEM,John A. Pérez,3
-Lassen,MB55,Controller,,GRN,Laura Wells,0
 Lassen,MB55,Controller,,DEM,Tammy D. Blair,1
 Lassen,MB55,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Lassen,MB55,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB55,Governor,,REP,Alma Marie Winston,0
 Lassen,MB55,Governor,,REP,Andrew Blount,1
-Lassen,MB55,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB55,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Lassen,MB55,Governor,,REP,Glenn Champ,0
-Lassen,MB55,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB55,Governor,,IND,Joe Leicht,0
-Lassen,MB55,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB55,Governor,,REP,Neel Kashkari,3
-Lassen,MB55,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB55,Governor,,REP,Richard William Aguirre,0
 Lassen,MB55,Governor,,IND,Robert Newman,1
 Lassen,MB55,Governor,,REP,Tim Donnelly,5
 Lassen,MB55,Insurance Commissioner,,DEM,Dave Jones,6
 Lassen,MB55,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Lassen,MB55,Insurance Commissioner,,REP,Ted Gaines,8
-Lassen,MB55,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB55,Lieutenant Governor,,PAF,Amos Johnson,1
 Lassen,MB55,Lieutenant Governor,,REP,David Fennell,1
-Lassen,MB55,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lassen,MB55,Lieutenant Governor,,DEM,Gavin Newsom,6
 Lassen,MB55,Lieutenant Governor,,REP,George Yang,4
-Lassen,MB55,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB55,Lieutenant Governor,,REP,Ron Nehring,3
+Lassen,MB55,Proposition 41,,,No,5
+Lassen,MB55,Proposition 41,,,Yes,12
+Lassen,MB55,Proposition 42,,,No,8
+Lassen,MB55,Proposition 42,,,Yes,7
 Lassen,MB55,Secretary of State,,DEM,Alex Padilla,2
 Lassen,MB55,Secretary of State,,IND,Dan Schnur,2
 Lassen,MB55,Secretary of State,,GRN,David Curtis,1
 Lassen,MB55,Secretary of State,,DEM,Derek Cressman,1
-Lassen,MB55,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lassen,MB55,Secretary of State,,DEM,Leland Yee,1
 Lassen,MB55,Secretary of State,,REP,Pete Peterson,6
 Lassen,MB55,Secretary of State,,REP,Roy Allmond,2
@@ -3106,7 +2624,6 @@ Lassen,MB55,Superintendent of Public Instruction,,NOP,Tom Torlakson,10
 Lassen,MB55,Treasurer,,GRN,Ellen H. Brown,2
 Lassen,MB55,Treasurer,,REP,Greg Conlon,6
 Lassen,MB55,Treasurer,,DEM,John Chiang,8
-Lassen,MB55,U.S. House,1,DEM,Dan Levine,0
 Lassen,MB55,U.S. House,1,REP,Doug La Malfa,12
 Lassen,MB55,U.S. House,1,REP,Gregory Cheadle,1
 Lassen,MB55,U.S. House,1,DEM,Heidi Hall,4
@@ -3125,18 +2642,13 @@ Lassen,MB6,Controller,,REP,David Evans,38
 Lassen,MB6,Controller,,DEM,John A. Pérez,11
 Lassen,MB6,Controller,,GRN,Laura Wells,5
 Lassen,MB6,Controller,,DEM,Tammy D. Blair,7
-Lassen,MB6,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lassen,MB6,Governor,,DEM,Akinyemi Agbede,4
 Lassen,MB6,Governor,,REP,Alma Marie Winston,6
 Lassen,MB6,Governor,,REP,Andrew Blount,1
-Lassen,MB6,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB6,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 Lassen,MB6,Governor,,REP,Glenn Champ,2
-Lassen,MB6,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB6,Governor,,IND,Joe Leicht,0
 Lassen,MB6,Governor,,GRN,Luis J. Rodriguez,1
 Lassen,MB6,Governor,,REP,Neel Kashkari,7
-Lassen,MB6,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB6,Governor,,REP,Richard William Aguirre,1
 Lassen,MB6,Governor,,IND,Robert Newman,1
 Lassen,MB6,Governor,,REP,Tim Donnelly,34
@@ -3149,8 +2661,11 @@ Lassen,MB6,Lieutenant Governor,,REP,David Fennell,15
 Lassen,MB6,Lieutenant Governor,,DEM,Eric Korevaar,4
 Lassen,MB6,Lieutenant Governor,,DEM,Gavin Newsom,27
 Lassen,MB6,Lieutenant Governor,,REP,George Yang,10
-Lassen,MB6,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB6,Lieutenant Governor,,REP,Ron Nehring,24
+Lassen,MB6,Proposition 41,,,No,41
+Lassen,MB6,Proposition 41,,,Yes,44
+Lassen,MB6,Proposition 42,,,No,51
+Lassen,MB6,Proposition 42,,,Yes,31
 Lassen,MB6,Secretary of State,,DEM,Alex Padilla,12
 Lassen,MB6,Secretary of State,,IND,Dan Schnur,4
 Lassen,MB6,Secretary of State,,GRN,David Curtis,1
@@ -3187,31 +2702,25 @@ Lassen,MB8,Controller,,DEM,John A. Pérez,16
 Lassen,MB8,Controller,,GRN,Laura Wells,4
 Lassen,MB8,Controller,,DEM,Tammy D. Blair,5
 Lassen,MB8,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Lassen,MB8,Governor,,DEM,Akinyemi Agbede,0
-Lassen,MB8,Governor,,REP,Alma Marie Winston,0
 Lassen,MB8,Governor,,REP,Andrew Blount,1
-Lassen,MB8,Governor,,PAF,Cindy L. Sheehan,0
 Lassen,MB8,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
 Lassen,MB8,Governor,,REP,Glenn Champ,4
-Lassen,MB8,Governor,,IND,Janel Hyeshia Buycks,0
-Lassen,MB8,Governor,,IND,Joe Leicht,0
-Lassen,MB8,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB8,Governor,,REP,Neel Kashkari,12
-Lassen,MB8,Governor,,IND,Rakesh Kumar Christian,0
 Lassen,MB8,Governor,,REP,Richard William Aguirre,1
-Lassen,MB8,Governor,,IND,Robert Newman,0
 Lassen,MB8,Governor,,REP,Tim Donnelly,21
 Lassen,MB8,Insurance Commissioner,,DEM,Dave Jones,38
 Lassen,MB8,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Lassen,MB8,Insurance Commissioner,,REP,Ted Gaines,37
-Lassen,MB8,Lieutenant Governor,,AME,Alan Reynolds,0
 Lassen,MB8,Lieutenant Governor,,PAF,Amos Johnson,1
 Lassen,MB8,Lieutenant Governor,,REP,David Fennell,9
 Lassen,MB8,Lieutenant Governor,,DEM,Eric Korevaar,9
 Lassen,MB8,Lieutenant Governor,,DEM,Gavin Newsom,38
 Lassen,MB8,Lieutenant Governor,,REP,George Yang,7
-Lassen,MB8,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lassen,MB8,Lieutenant Governor,,REP,Ron Nehring,17
+Lassen,MB8,Proposition 41,,,No,43
+Lassen,MB8,Proposition 41,,,Yes,44
+Lassen,MB8,Proposition 42,,,No,51
+Lassen,MB8,Proposition 42,,,Yes,31
 Lassen,MB8,Secretary of State,,DEM,Alex Padilla,19
 Lassen,MB8,Secretary of State,,IND,Dan Schnur,9
 Lassen,MB8,Secretary of State,,GRN,David Curtis,2
@@ -3225,7 +2734,6 @@ Lassen,MB8,State Assembly,1,DEM,Brigham Sawyer Smith,18
 Lassen,MB8,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,20
 Lassen,MB8,Superintendent of Public Instruction,,NOP,Marshall Tuck,19
 Lassen,MB8,Superintendent of Public Instruction,,NOP,Tom Torlakson,41
-Lassen,MB8,Treasurer,,GRN,Ellen H. Brown,0
 Lassen,MB8,Treasurer,,REP,Greg Conlon,27
 Lassen,MB8,Treasurer,,DEM,John Chiang,56
 Lassen,MB8,U.S. House,1,DEM,Dan Levine,1
@@ -3254,12 +2762,8 @@ Lassen,MB9,Governor,,REP,Andrew Blount,4
 Lassen,MB9,Governor,,PAF,Cindy L. Sheehan,3
 Lassen,MB9,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Lassen,MB9,Governor,,REP,Glenn Champ,3
-Lassen,MB9,Governor,,IND,Janel Hyeshia Buycks,0
 Lassen,MB9,Governor,,IND,Joe Leicht,1
-Lassen,MB9,Governor,,GRN,Luis J. Rodriguez,0
 Lassen,MB9,Governor,,REP,Neel Kashkari,19
-Lassen,MB9,Governor,,IND,Rakesh Kumar Christian,0
-Lassen,MB9,Governor,,REP,Richard William Aguirre,0
 Lassen,MB9,Governor,,IND,Robert Newman,2
 Lassen,MB9,Governor,,REP,Tim Donnelly,30
 Lassen,MB9,Insurance Commissioner,,DEM,Dave Jones,30
@@ -3273,6 +2777,10 @@ Lassen,MB9,Lieutenant Governor,,DEM,Gavin Newsom,33
 Lassen,MB9,Lieutenant Governor,,REP,George Yang,13
 Lassen,MB9,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Lassen,MB9,Lieutenant Governor,,REP,Ron Nehring,38
+Lassen,MB9,Proposition 41,,,No,38
+Lassen,MB9,Proposition 41,,,Yes,78
+Lassen,MB9,Proposition 42,,,No,56
+Lassen,MB9,Proposition 42,,,Yes,59
 Lassen,MB9,Secretary of State,,DEM,Alex Padilla,16
 Lassen,MB9,Secretary of State,,IND,Dan Schnur,11
 Lassen,MB9,Secretary of State,,GRN,David Curtis,6

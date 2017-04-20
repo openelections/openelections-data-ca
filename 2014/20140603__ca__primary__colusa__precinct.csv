@@ -14,15 +14,12 @@ Colusa,105,Controller,,REP,David Evans,102
 Colusa,105,Controller,,DEM,John A. Pérez,46
 Colusa,105,Controller,,GRN,Laura Wells,17
 Colusa,105,Controller,,DEM,Tammy D. Blair,7
-Colusa,105,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Colusa,105,Governor,,DEM,Akinyemi Agbede,0
 Colusa,105,Governor,,REP,Alma Marie Winston,5
 Colusa,105,Governor,,REP,Andrew Blount,7
 Colusa,105,Governor,,PAF,Cindy L. Sheehan,4
 Colusa,105,Governor,,DEM,"Edmund G. ""Jerry"" Brown",92
 Colusa,105,Governor,,REP,Glenn Champ,10
 Colusa,105,Governor,,IND,Janel Hyeshia Buycks,1
-Colusa,105,Governor,,IND,Joe Leicht,0
 Colusa,105,Governor,,GRN,Luis J. Rodriguez,3
 Colusa,105,Governor,,REP,Neel Kashkari,121
 Colusa,105,Governor,,IND,Rakesh Kumar Christian,1
@@ -40,6 +37,10 @@ Colusa,105,Lieutenant Governor,,DEM,Gavin Newsom,60
 Colusa,105,Lieutenant Governor,,REP,George Yang,23
 Colusa,105,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Colusa,105,Lieutenant Governor,,REP,Ron Nehring,140
+Colusa,105,Proposition 41,,,No,150
+Colusa,105,Proposition 41,,,Yes,179
+Colusa,105,Proposition 42,,,No,157
+Colusa,105,Proposition 42,,,Yes,155
 Colusa,105,Secretary of State,,DEM,Alex Padilla,51
 Colusa,105,Secretary of State,,IND,Dan Schnur,53
 Colusa,105,Secretary of State,,GRN,David Curtis,12
@@ -86,7 +87,6 @@ Colusa,106,Governor,,PAF,Cindy L. Sheehan,2
 Colusa,106,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Colusa,106,Governor,,REP,Glenn Champ,2
 Colusa,106,Governor,,IND,Janel Hyeshia Buycks,1
-Colusa,106,Governor,,IND,Joe Leicht,0
 Colusa,106,Governor,,GRN,Luis J. Rodriguez,3
 Colusa,106,Governor,,REP,Neel Kashkari,90
 Colusa,106,Governor,,IND,Rakesh Kumar Christian,1
@@ -104,11 +104,14 @@ Colusa,106,Lieutenant Governor,,DEM,Gavin Newsom,83
 Colusa,106,Lieutenant Governor,,REP,George Yang,28
 Colusa,106,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Colusa,106,Lieutenant Governor,,REP,Ron Nehring,71
+Colusa,106,Proposition 41,,,No,113
+Colusa,106,Proposition 41,,,Yes,151
+Colusa,106,Proposition 42,,,No,113
+Colusa,106,Proposition 42,,,Yes,140
 Colusa,106,Secretary of State,,DEM,Alex Padilla,73
 Colusa,106,Secretary of State,,IND,Dan Schnur,26
 Colusa,106,Secretary of State,,GRN,David Curtis,5
 Colusa,106,Secretary of State,,DEM,Derek Cressman,7
-Colusa,106,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Colusa,106,Secretary of State,,DEM,Leland Yee,11
 Colusa,106,Secretary of State,,REP,Pete Peterson,116
 Colusa,106,Secretary of State,,REP,Roy Allmond,16
@@ -142,19 +145,12 @@ Colusa,202,Controller,,REP,David Evans,85
 Colusa,202,Controller,,DEM,John A. Pérez,18
 Colusa,202,Controller,,GRN,Laura Wells,6
 Colusa,202,Controller,,DEM,Tammy D. Blair,7
-Colusa,202,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Colusa,202,Governor,,DEM,Akinyemi Agbede,0
-Colusa,202,Governor,,REP,Alma Marie Winston,0
 Colusa,202,Governor,,REP,Andrew Blount,7
-Colusa,202,Governor,,PAF,Cindy L. Sheehan,0
 Colusa,202,Governor,,DEM,"Edmund G. ""Jerry"" Brown",67
 Colusa,202,Governor,,REP,Glenn Champ,6
-Colusa,202,Governor,,IND,Janel Hyeshia Buycks,0
-Colusa,202,Governor,,IND,Joe Leicht,0
 Colusa,202,Governor,,GRN,Luis J. Rodriguez,1
 Colusa,202,Governor,,REP,Neel Kashkari,69
 Colusa,202,Governor,,IND,Rakesh Kumar Christian,1
-Colusa,202,Governor,,REP,Richard William Aguirre,0
 Colusa,202,Governor,,IND,Robert Newman,3
 Colusa,202,Governor,,REP,Tim Donnelly,46
 Colusa,202,Insurance Commissioner,,DEM,Dave Jones,45
@@ -168,6 +164,10 @@ Colusa,202,Lieutenant Governor,,DEM,Gavin Newsom,41
 Colusa,202,Lieutenant Governor,,REP,George Yang,17
 Colusa,202,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Colusa,202,Lieutenant Governor,,REP,Ron Nehring,61
+Colusa,202,Proposition 41,,,No,83
+Colusa,202,Proposition 41,,,Yes,99
+Colusa,202,Proposition 42,,,No,99
+Colusa,202,Proposition 42,,,Yes,82
 Colusa,202,Secretary of State,,DEM,Alex Padilla,20
 Colusa,202,Secretary of State,,IND,Dan Schnur,21
 Colusa,202,Secretary of State,,GRN,David Curtis,4
@@ -204,37 +204,32 @@ Colusa,203,Controller,,REP,David Evans,25
 Colusa,203,Controller,,DEM,John A. Pérez,16
 Colusa,203,Controller,,GRN,Laura Wells,2
 Colusa,203,Controller,,DEM,Tammy D. Blair,1
-Colusa,203,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,203,Governor,,DEM,Akinyemi Agbede,2
 Colusa,203,Governor,,REP,Alma Marie Winston,3
 Colusa,203,Governor,,REP,Andrew Blount,8
-Colusa,203,Governor,,PAF,Cindy L. Sheehan,0
 Colusa,203,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
 Colusa,203,Governor,,REP,Glenn Champ,3
 Colusa,203,Governor,,IND,Janel Hyeshia Buycks,1
-Colusa,203,Governor,,IND,Joe Leicht,0
 Colusa,203,Governor,,GRN,Luis J. Rodriguez,3
 Colusa,203,Governor,,REP,Neel Kashkari,28
-Colusa,203,Governor,,IND,Rakesh Kumar Christian,0
-Colusa,203,Governor,,REP,Richard William Aguirre,0
 Colusa,203,Governor,,IND,Robert Newman,5
 Colusa,203,Governor,,REP,Tim Donnelly,11
 Colusa,203,Insurance Commissioner,,DEM,Dave Jones,24
 Colusa,203,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Colusa,203,Insurance Commissioner,,REP,Ted Gaines,47
 Colusa,203,Lieutenant Governor,,AME,Alan Reynolds,5
-Colusa,203,Lieutenant Governor,,PAF,Amos Johnson,0
 Colusa,203,Lieutenant Governor,,REP,David Fennell,12
 Colusa,203,Lieutenant Governor,,DEM,Eric Korevaar,5
 Colusa,203,Lieutenant Governor,,DEM,Gavin Newsom,15
 Colusa,203,Lieutenant Governor,,REP,George Yang,12
-Colusa,203,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Colusa,203,Lieutenant Governor,,REP,Ron Nehring,23
+Colusa,203,Proposition 41,,,No,41
+Colusa,203,Proposition 41,,,Yes,34
+Colusa,203,Proposition 42,,,No,50
+Colusa,203,Proposition 42,,,Yes,25
 Colusa,203,Secretary of State,,DEM,Alex Padilla,20
 Colusa,203,Secretary of State,,IND,Dan Schnur,11
-Colusa,203,Secretary of State,,GRN,David Curtis,0
 Colusa,203,Secretary of State,,DEM,Derek Cressman,1
-Colusa,203,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Colusa,203,Secretary of State,,DEM,Leland Yee,1
 Colusa,203,Secretary of State,,REP,Pete Peterson,38
 Colusa,203,Secretary of State,,REP,Roy Allmond,4
@@ -268,18 +263,13 @@ Colusa,213,Controller,,REP,David Evans,60
 Colusa,213,Controller,,DEM,John A. Pérez,43
 Colusa,213,Controller,,GRN,Laura Wells,7
 Colusa,213,Controller,,DEM,Tammy D. Blair,20
-Colusa,213,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,213,Governor,,DEM,Akinyemi Agbede,1
-Colusa,213,Governor,,REP,Alma Marie Winston,0
 Colusa,213,Governor,,REP,Andrew Blount,6
-Colusa,213,Governor,,PAF,Cindy L. Sheehan,0
 Colusa,213,Governor,,DEM,"Edmund G. ""Jerry"" Brown",140
 Colusa,213,Governor,,REP,Glenn Champ,4
 Colusa,213,Governor,,IND,Janel Hyeshia Buycks,1
-Colusa,213,Governor,,IND,Joe Leicht,0
 Colusa,213,Governor,,GRN,Luis J. Rodriguez,1
 Colusa,213,Governor,,REP,Neel Kashkari,47
-Colusa,213,Governor,,IND,Rakesh Kumar Christian,0
 Colusa,213,Governor,,REP,Richard William Aguirre,1
 Colusa,213,Governor,,IND,Robert Newman,2
 Colusa,213,Governor,,REP,Tim Donnelly,39
@@ -294,6 +284,10 @@ Colusa,213,Lieutenant Governor,,DEM,Gavin Newsom,77
 Colusa,213,Lieutenant Governor,,REP,George Yang,16
 Colusa,213,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Colusa,213,Lieutenant Governor,,REP,Ron Nehring,46
+Colusa,213,Proposition 41,,,No,82
+Colusa,213,Proposition 41,,,Yes,150
+Colusa,213,Proposition 42,,,No,105
+Colusa,213,Proposition 42,,,Yes,114
 Colusa,213,Secretary of State,,DEM,Alex Padilla,74
 Colusa,213,Secretary of State,,IND,Dan Schnur,20
 Colusa,213,Secretary of State,,GRN,David Curtis,11
@@ -330,7 +324,6 @@ Colusa,214,Controller,,REP,David Evans,115
 Colusa,214,Controller,,DEM,John A. Pérez,50
 Colusa,214,Controller,,GRN,Laura Wells,10
 Colusa,214,Controller,,DEM,Tammy D. Blair,19
-Colusa,214,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,214,Governor,,DEM,Akinyemi Agbede,1
 Colusa,214,Governor,,REP,Alma Marie Winston,1
 Colusa,214,Governor,,REP,Andrew Blount,10
@@ -338,11 +331,9 @@ Colusa,214,Governor,,PAF,Cindy L. Sheehan,1
 Colusa,214,Governor,,DEM,"Edmund G. ""Jerry"" Brown",146
 Colusa,214,Governor,,REP,Glenn Champ,4
 Colusa,214,Governor,,IND,Janel Hyeshia Buycks,2
-Colusa,214,Governor,,IND,Joe Leicht,0
 Colusa,214,Governor,,GRN,Luis J. Rodriguez,1
 Colusa,214,Governor,,REP,Neel Kashkari,103
 Colusa,214,Governor,,IND,Rakesh Kumar Christian,3
-Colusa,214,Governor,,REP,Richard William Aguirre,0
 Colusa,214,Governor,,IND,Robert Newman,4
 Colusa,214,Governor,,REP,Tim Donnelly,69
 Colusa,214,Insurance Commissioner,,DEM,Dave Jones,109
@@ -356,6 +347,10 @@ Colusa,214,Lieutenant Governor,,DEM,Gavin Newsom,88
 Colusa,214,Lieutenant Governor,,REP,George Yang,30
 Colusa,214,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Colusa,214,Lieutenant Governor,,REP,Ron Nehring,76
+Colusa,214,Proposition 41,,,No,173
+Colusa,214,Proposition 41,,,Yes,148
+Colusa,214,Proposition 42,,,No,188
+Colusa,214,Proposition 42,,,Yes,125
 Colusa,214,Secretary of State,,DEM,Alex Padilla,71
 Colusa,214,Secretary of State,,IND,Dan Schnur,33
 Colusa,214,Secretary of State,,GRN,David Curtis,9
@@ -392,18 +387,13 @@ Colusa,301,Controller,,REP,David Evans,65
 Colusa,301,Controller,,DEM,John A. Pérez,10
 Colusa,301,Controller,,GRN,Laura Wells,3
 Colusa,301,Controller,,DEM,Tammy D. Blair,3
-Colusa,301,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Colusa,301,Governor,,DEM,Akinyemi Agbede,0
 Colusa,301,Governor,,REP,Alma Marie Winston,3
 Colusa,301,Governor,,REP,Andrew Blount,2
 Colusa,301,Governor,,PAF,Cindy L. Sheehan,1
 Colusa,301,Governor,,DEM,"Edmund G. ""Jerry"" Brown",36
 Colusa,301,Governor,,REP,Glenn Champ,6
-Colusa,301,Governor,,IND,Janel Hyeshia Buycks,0
-Colusa,301,Governor,,IND,Joe Leicht,0
 Colusa,301,Governor,,GRN,Luis J. Rodriguez,1
 Colusa,301,Governor,,REP,Neel Kashkari,65
-Colusa,301,Governor,,IND,Rakesh Kumar Christian,0
 Colusa,301,Governor,,REP,Richard William Aguirre,1
 Colusa,301,Governor,,IND,Robert Newman,6
 Colusa,301,Governor,,REP,Tim Donnelly,46
@@ -411,13 +401,16 @@ Colusa,301,Insurance Commissioner,,DEM,Dave Jones,38
 Colusa,301,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Colusa,301,Insurance Commissioner,,REP,Ted Gaines,129
 Colusa,301,Lieutenant Governor,,AME,Alan Reynolds,3
-Colusa,301,Lieutenant Governor,,PAF,Amos Johnson,0
 Colusa,301,Lieutenant Governor,,REP,David Fennell,47
 Colusa,301,Lieutenant Governor,,DEM,Eric Korevaar,3
 Colusa,301,Lieutenant Governor,,DEM,Gavin Newsom,31
 Colusa,301,Lieutenant Governor,,REP,George Yang,18
 Colusa,301,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Colusa,301,Lieutenant Governor,,REP,Ron Nehring,57
+Colusa,301,Proposition 41,,,No,83
+Colusa,301,Proposition 41,,,Yes,80
+Colusa,301,Proposition 42,,,No,102
+Colusa,301,Proposition 42,,,Yes,49
 Colusa,301,Secretary of State,,DEM,Alex Padilla,8
 Colusa,301,Secretary of State,,IND,Dan Schnur,27
 Colusa,301,Secretary of State,,GRN,David Curtis,1
@@ -456,19 +449,14 @@ Colusa,323,Controller,,REP,David Evans,37
 Colusa,323,Controller,,DEM,John A. Pérez,30
 Colusa,323,Controller,,GRN,Laura Wells,3
 Colusa,323,Controller,,DEM,Tammy D. Blair,5
-Colusa,323,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,323,Governor,,DEM,Akinyemi Agbede,2
 Colusa,323,Governor,,REP,Alma Marie Winston,2
 Colusa,323,Governor,,REP,Andrew Blount,5
 Colusa,323,Governor,,PAF,Cindy L. Sheehan,1
 Colusa,323,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Colusa,323,Governor,,REP,Glenn Champ,3
-Colusa,323,Governor,,IND,Janel Hyeshia Buycks,0
-Colusa,323,Governor,,IND,Joe Leicht,0
 Colusa,323,Governor,,GRN,Luis J. Rodriguez,3
 Colusa,323,Governor,,REP,Neel Kashkari,40
-Colusa,323,Governor,,IND,Rakesh Kumar Christian,0
-Colusa,323,Governor,,REP,Richard William Aguirre,0
 Colusa,323,Governor,,IND,Robert Newman,5
 Colusa,323,Governor,,REP,Tim Donnelly,33
 Colusa,323,Insurance Commissioner,,DEM,Dave Jones,51
@@ -482,9 +470,12 @@ Colusa,323,Lieutenant Governor,,DEM,Gavin Newsom,42
 Colusa,323,Lieutenant Governor,,REP,George Yang,13
 Colusa,323,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Colusa,323,Lieutenant Governor,,REP,Ron Nehring,34
+Colusa,323,Proposition 41,,,No,52
+Colusa,323,Proposition 41,,,Yes,78
+Colusa,323,Proposition 42,,,No,60
+Colusa,323,Proposition 42,,,Yes,70
 Colusa,323,Secretary of State,,DEM,Alex Padilla,37
 Colusa,323,Secretary of State,,IND,Dan Schnur,26
-Colusa,323,Secretary of State,,GRN,David Curtis,0
 Colusa,323,Secretary of State,,DEM,Derek Cressman,4
 Colusa,323,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Colusa,323,Secretary of State,,DEM,Leland Yee,5
@@ -507,7 +498,6 @@ Colusa,323,U.S. House,3,REP,Dan Logue,86
 Colusa,323,U.S. House,3,DEM,John Garamendi,61
 Colusa,324,Attorney General,,REP,David King,3
 Colusa,324,Attorney General,,REP,John Haggerty,19
-Colusa,324,Attorney General,,LIB,Jonathan Jaech,0
 Colusa,324,Attorney General,,DEM,Kamala D. Harris,57
 Colusa,324,Attorney General,,IND,Orly Taitz,10
 Colusa,324,Attorney General,,REP,Phil Wyman,13
@@ -527,12 +517,10 @@ Colusa,324,Governor,,REP,Andrew Blount,3
 Colusa,324,Governor,,PAF,Cindy L. Sheehan,2
 Colusa,324,Governor,,DEM,"Edmund G. ""Jerry"" Brown",61
 Colusa,324,Governor,,REP,Glenn Champ,1
-Colusa,324,Governor,,IND,Janel Hyeshia Buycks,0
 Colusa,324,Governor,,IND,Joe Leicht,1
 Colusa,324,Governor,,GRN,Luis J. Rodriguez,3
 Colusa,324,Governor,,REP,Neel Kashkari,25
 Colusa,324,Governor,,IND,Rakesh Kumar Christian,2
-Colusa,324,Governor,,REP,Richard William Aguirre,0
 Colusa,324,Governor,,IND,Robert Newman,5
 Colusa,324,Governor,,REP,Tim Donnelly,14
 Colusa,324,Insurance Commissioner,,DEM,Dave Jones,57
@@ -546,6 +534,10 @@ Colusa,324,Lieutenant Governor,,DEM,Gavin Newsom,41
 Colusa,324,Lieutenant Governor,,REP,George Yang,10
 Colusa,324,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Colusa,324,Lieutenant Governor,,REP,Ron Nehring,28
+Colusa,324,Proposition 41,,,No,47
+Colusa,324,Proposition 41,,,Yes,77
+Colusa,324,Proposition 42,,,No,58
+Colusa,324,Proposition 42,,,Yes,64
 Colusa,324,Secretary of State,,DEM,Alex Padilla,36
 Colusa,324,Secretary of State,,IND,Dan Schnur,11
 Colusa,324,Secretary of State,,GRN,David Curtis,2
@@ -571,7 +563,6 @@ Colusa,324,U.S. House,3,REP,Dan Logue,52
 Colusa,324,U.S. House,3,DEM,John Garamendi,71
 Colusa,401,Attorney General,,REP,David King,20
 Colusa,401,Attorney General,,REP,John Haggerty,72
-Colusa,401,Attorney General,,LIB,Jonathan Jaech,0
 Colusa,401,Attorney General,,DEM,Kamala D. Harris,59
 Colusa,401,Attorney General,,IND,Orly Taitz,11
 Colusa,401,Attorney General,,REP,Phil Wyman,93
@@ -592,10 +583,8 @@ Colusa,401,Governor,,PAF,Cindy L. Sheehan,2
 Colusa,401,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 Colusa,401,Governor,,REP,Glenn Champ,8
 Colusa,401,Governor,,IND,Janel Hyeshia Buycks,2
-Colusa,401,Governor,,IND,Joe Leicht,0
 Colusa,401,Governor,,GRN,Luis J. Rodriguez,4
 Colusa,401,Governor,,REP,Neel Kashkari,107
-Colusa,401,Governor,,IND,Rakesh Kumar Christian,0
 Colusa,401,Governor,,REP,Richard William Aguirre,3
 Colusa,401,Governor,,IND,Robert Newman,3
 Colusa,401,Governor,,REP,Tim Donnelly,92
@@ -610,6 +599,10 @@ Colusa,401,Lieutenant Governor,,DEM,Gavin Newsom,48
 Colusa,401,Lieutenant Governor,,REP,George Yang,33
 Colusa,401,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Colusa,401,Lieutenant Governor,,REP,Ron Nehring,94
+Colusa,401,Proposition 41,,,No,171
+Colusa,401,Proposition 41,,,Yes,148
+Colusa,401,Proposition 42,,,No,177
+Colusa,401,Proposition 42,,,Yes,135
 Colusa,401,Secretary of State,,DEM,Alex Padilla,37
 Colusa,401,Secretary of State,,IND,Dan Schnur,31
 Colusa,401,Secretary of State,,GRN,David Curtis,7
@@ -646,32 +639,24 @@ Colusa,405,Controller,,REP,David Evans,18
 Colusa,405,Controller,,DEM,John A. Pérez,8
 Colusa,405,Controller,,GRN,Laura Wells,1
 Colusa,405,Controller,,DEM,Tammy D. Blair,9
-Colusa,405,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,405,Governor,,DEM,Akinyemi Agbede,2
-Colusa,405,Governor,,REP,Alma Marie Winston,0
-Colusa,405,Governor,,REP,Andrew Blount,0
-Colusa,405,Governor,,PAF,Cindy L. Sheehan,0
 Colusa,405,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Colusa,405,Governor,,REP,Glenn Champ,1
-Colusa,405,Governor,,IND,Janel Hyeshia Buycks,0
-Colusa,405,Governor,,IND,Joe Leicht,0
-Colusa,405,Governor,,GRN,Luis J. Rodriguez,0
 Colusa,405,Governor,,REP,Neel Kashkari,17
-Colusa,405,Governor,,IND,Rakesh Kumar Christian,0
-Colusa,405,Governor,,REP,Richard William Aguirre,0
-Colusa,405,Governor,,IND,Robert Newman,0
 Colusa,405,Governor,,REP,Tim Donnelly,24
 Colusa,405,Insurance Commissioner,,DEM,Dave Jones,24
 Colusa,405,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Colusa,405,Insurance Commissioner,,REP,Ted Gaines,38
 Colusa,405,Lieutenant Governor,,AME,Alan Reynolds,3
-Colusa,405,Lieutenant Governor,,PAF,Amos Johnson,0
 Colusa,405,Lieutenant Governor,,REP,David Fennell,6
 Colusa,405,Lieutenant Governor,,DEM,Eric Korevaar,6
 Colusa,405,Lieutenant Governor,,DEM,Gavin Newsom,17
 Colusa,405,Lieutenant Governor,,REP,George Yang,1
-Colusa,405,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Colusa,405,Lieutenant Governor,,REP,Ron Nehring,29
+Colusa,405,Proposition 41,,,No,27
+Colusa,405,Proposition 41,,,Yes,34
+Colusa,405,Proposition 42,,,No,24
+Colusa,405,Proposition 42,,,Yes,37
 Colusa,405,Secretary of State,,DEM,Alex Padilla,13
 Colusa,405,Secretary of State,,IND,Dan Schnur,7
 Colusa,405,Secretary of State,,GRN,David Curtis,1
@@ -708,19 +693,13 @@ Colusa,406,Controller,,REP,David Evans,22
 Colusa,406,Controller,,DEM,John A. Pérez,6
 Colusa,406,Controller,,GRN,Laura Wells,5
 Colusa,406,Controller,,DEM,Tammy D. Blair,7
-Colusa,406,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,406,Governor,,DEM,Akinyemi Agbede,1
-Colusa,406,Governor,,REP,Alma Marie Winston,0
 Colusa,406,Governor,,REP,Andrew Blount,4
 Colusa,406,Governor,,PAF,Cindy L. Sheehan,1
 Colusa,406,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
-Colusa,406,Governor,,REP,Glenn Champ,0
-Colusa,406,Governor,,IND,Janel Hyeshia Buycks,0
-Colusa,406,Governor,,IND,Joe Leicht,0
 Colusa,406,Governor,,GRN,Luis J. Rodriguez,1
 Colusa,406,Governor,,REP,Neel Kashkari,14
 Colusa,406,Governor,,IND,Rakesh Kumar Christian,1
-Colusa,406,Governor,,REP,Richard William Aguirre,0
 Colusa,406,Governor,,IND,Robert Newman,4
 Colusa,406,Governor,,REP,Tim Donnelly,14
 Colusa,406,Insurance Commissioner,,DEM,Dave Jones,30
@@ -732,8 +711,11 @@ Colusa,406,Lieutenant Governor,,REP,David Fennell,10
 Colusa,406,Lieutenant Governor,,DEM,Eric Korevaar,10
 Colusa,406,Lieutenant Governor,,DEM,Gavin Newsom,21
 Colusa,406,Lieutenant Governor,,REP,George Yang,6
-Colusa,406,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Colusa,406,Lieutenant Governor,,REP,Ron Nehring,14
+Colusa,406,Proposition 41,,,No,30
+Colusa,406,Proposition 41,,,Yes,36
+Colusa,406,Proposition 42,,,No,27
+Colusa,406,Proposition 42,,,Yes,35
 Colusa,406,Secretary of State,,DEM,Alex Padilla,14
 Colusa,406,Secretary of State,,IND,Dan Schnur,6
 Colusa,406,Secretary of State,,GRN,David Curtis,2
@@ -759,7 +741,6 @@ Colusa,407,Attorney General,,REP,David King,4
 Colusa,407,Attorney General,,REP,John Haggerty,4
 Colusa,407,Attorney General,,LIB,Jonathan Jaech,1
 Colusa,407,Attorney General,,DEM,Kamala D. Harris,11
-Colusa,407,Attorney General,,IND,Orly Taitz,0
 Colusa,407,Attorney General,,REP,Phil Wyman,8
 Colusa,407,Attorney General,,REP,Ronald Gold,3
 Colusa,407,Board of Equalization,2,DEM,Fiona Ma,13
@@ -768,37 +749,27 @@ Colusa,407,Controller,,REP,Ashley Swearengin,13
 Colusa,407,Controller,,DEM,Betty T. Yee,6
 Colusa,407,Controller,,REP,David Evans,8
 Colusa,407,Controller,,DEM,John A. Pérez,3
-Colusa,407,Controller,,GRN,Laura Wells,0
 Colusa,407,Controller,,DEM,Tammy D. Blair,2
-Colusa,407,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Colusa,407,Governor,,DEM,Akinyemi Agbede,0
-Colusa,407,Governor,,REP,Alma Marie Winston,0
 Colusa,407,Governor,,REP,Andrew Blount,1
-Colusa,407,Governor,,PAF,Cindy L. Sheehan,0
 Colusa,407,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Colusa,407,Governor,,REP,Glenn Champ,2
-Colusa,407,Governor,,IND,Janel Hyeshia Buycks,0
-Colusa,407,Governor,,IND,Joe Leicht,0
-Colusa,407,Governor,,GRN,Luis J. Rodriguez,0
 Colusa,407,Governor,,REP,Neel Kashkari,10
-Colusa,407,Governor,,IND,Rakesh Kumar Christian,0
-Colusa,407,Governor,,REP,Richard William Aguirre,0
-Colusa,407,Governor,,IND,Robert Newman,0
 Colusa,407,Governor,,REP,Tim Donnelly,3
 Colusa,407,Insurance Commissioner,,DEM,Dave Jones,11
 Colusa,407,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Colusa,407,Insurance Commissioner,,REP,Ted Gaines,18
 Colusa,407,Lieutenant Governor,,AME,Alan Reynolds,1
-Colusa,407,Lieutenant Governor,,PAF,Amos Johnson,0
 Colusa,407,Lieutenant Governor,,REP,David Fennell,4
 Colusa,407,Lieutenant Governor,,DEM,Eric Korevaar,1
 Colusa,407,Lieutenant Governor,,DEM,Gavin Newsom,10
 Colusa,407,Lieutenant Governor,,REP,George Yang,2
-Colusa,407,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Colusa,407,Lieutenant Governor,,REP,Ron Nehring,12
+Colusa,407,Proposition 41,,,No,10
+Colusa,407,Proposition 41,,,Yes,17
+Colusa,407,Proposition 42,,,No,17
+Colusa,407,Proposition 42,,,Yes,10
 Colusa,407,Secretary of State,,DEM,Alex Padilla,4
 Colusa,407,Secretary of State,,IND,Dan Schnur,5
-Colusa,407,Secretary of State,,GRN,David Curtis,0
 Colusa,407,Secretary of State,,DEM,Derek Cressman,3
 Colusa,407,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Colusa,407,Secretary of State,,DEM,Leland Yee,2
@@ -806,7 +777,6 @@ Colusa,407,Secretary of State,,REP,Pete Peterson,11
 Colusa,407,Secretary of State,,REP,Roy Allmond,3
 Colusa,407,State Assembly,4,DEM,Bill Dodd,7
 Colusa,407,State Assembly,4,REP,Charlie Schaupp,17
-Colusa,407,State Assembly,4,DEM,Dan Wolk,0
 Colusa,407,State Assembly,4,REP,Dustin Call,1
 Colusa,407,State Assembly,4,DEM,Joe Krovoza,7
 Colusa,407,State Senate,4,DEM,CJ Jawahar,11
@@ -821,7 +791,6 @@ Colusa,407,U.S. House,3,REP,Dan Logue,16
 Colusa,407,U.S. House,3,DEM,John Garamendi,15
 Colusa,427,Attorney General,,REP,David King,3
 Colusa,427,Attorney General,,REP,John Haggerty,7
-Colusa,427,Attorney General,,LIB,Jonathan Jaech,0
 Colusa,427,Attorney General,,DEM,Kamala D. Harris,32
 Colusa,427,Attorney General,,IND,Orly Taitz,1
 Colusa,427,Attorney General,,REP,Phil Wyman,2
@@ -838,16 +807,9 @@ Colusa,427,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Colusa,427,Governor,,DEM,Akinyemi Agbede,5
 Colusa,427,Governor,,REP,Alma Marie Winston,1
 Colusa,427,Governor,,REP,Andrew Blount,1
-Colusa,427,Governor,,PAF,Cindy L. Sheehan,0
 Colusa,427,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
-Colusa,427,Governor,,REP,Glenn Champ,0
-Colusa,427,Governor,,IND,Janel Hyeshia Buycks,0
 Colusa,427,Governor,,IND,Joe Leicht,1
-Colusa,427,Governor,,GRN,Luis J. Rodriguez,0
 Colusa,427,Governor,,REP,Neel Kashkari,10
-Colusa,427,Governor,,IND,Rakesh Kumar Christian,0
-Colusa,427,Governor,,REP,Richard William Aguirre,0
-Colusa,427,Governor,,IND,Robert Newman,0
 Colusa,427,Governor,,REP,Tim Donnelly,8
 Colusa,427,Insurance Commissioner,,DEM,Dave Jones,36
 Colusa,427,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -858,13 +820,14 @@ Colusa,427,Lieutenant Governor,,REP,David Fennell,6
 Colusa,427,Lieutenant Governor,,DEM,Eric Korevaar,2
 Colusa,427,Lieutenant Governor,,DEM,Gavin Newsom,33
 Colusa,427,Lieutenant Governor,,REP,George Yang,5
-Colusa,427,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Colusa,427,Lieutenant Governor,,REP,Ron Nehring,8
+Colusa,427,Proposition 41,,,No,15
+Colusa,427,Proposition 41,,,Yes,43
+Colusa,427,Proposition 42,,,No,26
+Colusa,427,Proposition 42,,,Yes,30
 Colusa,427,Secretary of State,,DEM,Alex Padilla,28
 Colusa,427,Secretary of State,,IND,Dan Schnur,8
-Colusa,427,Secretary of State,,GRN,David Curtis,0
 Colusa,427,Secretary of State,,DEM,Derek Cressman,1
-Colusa,427,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Colusa,427,Secretary of State,,DEM,Leland Yee,5
 Colusa,427,Secretary of State,,REP,Pete Peterson,11
 Colusa,427,Secretary of State,,REP,Roy Allmond,1
@@ -906,10 +869,8 @@ Colusa,500,Governor,,PAF,Cindy L. Sheehan,1
 Colusa,500,Governor,,DEM,"Edmund G. ""Jerry"" Brown",98
 Colusa,500,Governor,,REP,Glenn Champ,6
 Colusa,500,Governor,,IND,Janel Hyeshia Buycks,2
-Colusa,500,Governor,,IND,Joe Leicht,0
 Colusa,500,Governor,,GRN,Luis J. Rodriguez,1
 Colusa,500,Governor,,REP,Neel Kashkari,91
-Colusa,500,Governor,,IND,Rakesh Kumar Christian,0
 Colusa,500,Governor,,REP,Richard William Aguirre,2
 Colusa,500,Governor,,IND,Robert Newman,4
 Colusa,500,Governor,,REP,Tim Donnelly,53
@@ -924,6 +885,10 @@ Colusa,500,Lieutenant Governor,,DEM,Gavin Newsom,69
 Colusa,500,Lieutenant Governor,,REP,George Yang,20
 Colusa,500,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Colusa,500,Lieutenant Governor,,REP,Ron Nehring,60
+Colusa,500,Proposition 41,,,No,125
+Colusa,500,Proposition 41,,,Yes,128
+Colusa,500,Proposition 42,,,No,145
+Colusa,500,Proposition 42,,,Yes,99
 Colusa,500,Secretary of State,,DEM,Alex Padilla,45
 Colusa,500,Secretary of State,,IND,Dan Schnur,48
 Colusa,500,Secretary of State,,GRN,David Curtis,9
@@ -961,31 +926,29 @@ Colusa,505,Controller,,DEM,John A. Pérez,12
 Colusa,505,Controller,,GRN,Laura Wells,2
 Colusa,505,Controller,,DEM,Tammy D. Blair,7
 Colusa,505,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Colusa,505,Governor,,DEM,Akinyemi Agbede,0
 Colusa,505,Governor,,REP,Alma Marie Winston,3
 Colusa,505,Governor,,REP,Andrew Blount,1
 Colusa,505,Governor,,PAF,Cindy L. Sheehan,1
 Colusa,505,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
 Colusa,505,Governor,,REP,Glenn Champ,4
-Colusa,505,Governor,,IND,Janel Hyeshia Buycks,0
 Colusa,505,Governor,,IND,Joe Leicht,1
-Colusa,505,Governor,,GRN,Luis J. Rodriguez,0
 Colusa,505,Governor,,REP,Neel Kashkari,27
-Colusa,505,Governor,,IND,Rakesh Kumar Christian,0
 Colusa,505,Governor,,REP,Richard William Aguirre,1
 Colusa,505,Governor,,IND,Robert Newman,1
 Colusa,505,Governor,,REP,Tim Donnelly,41
 Colusa,505,Insurance Commissioner,,DEM,Dave Jones,29
 Colusa,505,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Colusa,505,Insurance Commissioner,,REP,Ted Gaines,73
-Colusa,505,Lieutenant Governor,,AME,Alan Reynolds,0
-Colusa,505,Lieutenant Governor,,PAF,Amos Johnson,0
 Colusa,505,Lieutenant Governor,,REP,David Fennell,25
 Colusa,505,Lieutenant Governor,,DEM,Eric Korevaar,7
 Colusa,505,Lieutenant Governor,,DEM,Gavin Newsom,22
 Colusa,505,Lieutenant Governor,,REP,George Yang,15
 Colusa,505,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Colusa,505,Lieutenant Governor,,REP,Ron Nehring,28
+Colusa,505,Proposition 41,,,No,40
+Colusa,505,Proposition 41,,,Yes,57
+Colusa,505,Proposition 42,,,No,44
+Colusa,505,Proposition 42,,,Yes,48
 Colusa,505,Secretary of State,,DEM,Alex Padilla,17
 Colusa,505,Secretary of State,,IND,Dan Schnur,6
 Colusa,505,Secretary of State,,GRN,David Curtis,2
@@ -1023,18 +986,14 @@ Colusa,512,Controller,,DEM,John A. Pérez,35
 Colusa,512,Controller,,GRN,Laura Wells,9
 Colusa,512,Controller,,DEM,Tammy D. Blair,20
 Colusa,512,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Colusa,512,Governor,,DEM,Akinyemi Agbede,0
-Colusa,512,Governor,,REP,Alma Marie Winston,0
 Colusa,512,Governor,,REP,Andrew Blount,5
 Colusa,512,Governor,,PAF,Cindy L. Sheehan,5
 Colusa,512,Governor,,DEM,"Edmund G. ""Jerry"" Brown",104
 Colusa,512,Governor,,REP,Glenn Champ,10
 Colusa,512,Governor,,IND,Janel Hyeshia Buycks,3
-Colusa,512,Governor,,IND,Joe Leicht,0
 Colusa,512,Governor,,GRN,Luis J. Rodriguez,2
 Colusa,512,Governor,,REP,Neel Kashkari,62
 Colusa,512,Governor,,IND,Rakesh Kumar Christian,4
-Colusa,512,Governor,,REP,Richard William Aguirre,0
 Colusa,512,Governor,,IND,Robert Newman,4
 Colusa,512,Governor,,REP,Tim Donnelly,42
 Colusa,512,Insurance Commissioner,,DEM,Dave Jones,90
@@ -1048,6 +1007,10 @@ Colusa,512,Lieutenant Governor,,DEM,Gavin Newsom,69
 Colusa,512,Lieutenant Governor,,REP,George Yang,19
 Colusa,512,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Colusa,512,Lieutenant Governor,,REP,Ron Nehring,44
+Colusa,512,Proposition 41,,,No,97
+Colusa,512,Proposition 41,,,Yes,125
+Colusa,512,Proposition 42,,,No,106
+Colusa,512,Proposition 42,,,Yes,110
 Colusa,512,Secretary of State,,DEM,Alex Padilla,45
 Colusa,512,Secretary of State,,IND,Dan Schnur,25
 Colusa,512,Secretary of State,,GRN,David Curtis,12
@@ -1084,15 +1047,12 @@ Colusa,513,Controller,,REP,David Evans,117
 Colusa,513,Controller,,DEM,John A. Pérez,33
 Colusa,513,Controller,,GRN,Laura Wells,12
 Colusa,513,Controller,,DEM,Tammy D. Blair,23
-Colusa,513,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Colusa,513,Governor,,DEM,Akinyemi Agbede,1
-Colusa,513,Governor,,REP,Alma Marie Winston,0
 Colusa,513,Governor,,REP,Andrew Blount,9
 Colusa,513,Governor,,PAF,Cindy L. Sheehan,7
 Colusa,513,Governor,,DEM,"Edmund G. ""Jerry"" Brown",140
 Colusa,513,Governor,,REP,Glenn Champ,7
 Colusa,513,Governor,,IND,Janel Hyeshia Buycks,3
-Colusa,513,Governor,,IND,Joe Leicht,0
 Colusa,513,Governor,,GRN,Luis J. Rodriguez,6
 Colusa,513,Governor,,REP,Neel Kashkari,119
 Colusa,513,Governor,,IND,Rakesh Kumar Christian,3
@@ -1110,6 +1070,10 @@ Colusa,513,Lieutenant Governor,,DEM,Gavin Newsom,93
 Colusa,513,Lieutenant Governor,,REP,George Yang,31
 Colusa,513,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Colusa,513,Lieutenant Governor,,REP,Ron Nehring,81
+Colusa,513,Proposition 41,,,No,147
+Colusa,513,Proposition 41,,,Yes,175
+Colusa,513,Proposition 42,,,No,163
+Colusa,513,Proposition 42,,,Yes,155
 Colusa,513,Secretary of State,,DEM,Alex Padilla,47
 Colusa,513,Secretary of State,,IND,Dan Schnur,45
 Colusa,513,Secretary of State,,GRN,David Curtis,13

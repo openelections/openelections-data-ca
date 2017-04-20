@@ -21,11 +21,9 @@ El Dorado,10000109,Governor,,REP,Andrew Blount,4
 El Dorado,10000109,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,10000109,Governor,,DEM,"Edmund G. ""Jerry"" Brown",185
 El Dorado,10000109,Governor,,REP,Glenn Champ,8
-El Dorado,10000109,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,10000109,Governor,,IND,Joe Leicht,1
 El Dorado,10000109,Governor,,GRN,Luis J. Rodriguez,5
 El Dorado,10000109,Governor,,REP,Neel Kashkari,209
-El Dorado,10000109,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,10000109,Governor,,REP,Richard William Aguirre,2
 El Dorado,10000109,Governor,,IND,Robert Newman,5
 El Dorado,10000109,Governor,,REP,Tim Donnelly,100
@@ -40,6 +38,10 @@ El Dorado,10000109,Lieutenant Governor,,DEM,Gavin Newsom,169
 El Dorado,10000109,Lieutenant Governor,,REP,George Yang,46
 El Dorado,10000109,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,10000109,Lieutenant Governor,,REP,Ron Nehring,238
+El Dorado,10000109,Proposition 41,,,No,270
+El Dorado,10000109,Proposition 41,,,Yes,247
+El Dorado,10000109,Proposition 42,,,No,262
+El Dorado,10000109,Proposition 42,,,Yes,245
 El Dorado,10000109,Secretary of State,,DEM,Alex Padilla,81
 El Dorado,10000109,Secretary of State,,IND,Dan Schnur,79
 El Dorado,10000109,Secretary of State,,GRN,David Curtis,13
@@ -75,18 +77,12 @@ El Dorado,10000209,Controller,,DEM,John A. Pérez,38
 El Dorado,10000209,Controller,,GRN,Laura Wells,20
 El Dorado,10000209,Controller,,DEM,Tammy D. Blair,9
 El Dorado,10000209,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-El Dorado,10000209,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,10000209,Governor,,REP,Alma Marie Winston,2
 El Dorado,10000209,Governor,,REP,Andrew Blount,4
 El Dorado,10000209,Governor,,PAF,Cindy L. Sheehan,1
 El Dorado,10000209,Governor,,DEM,"Edmund G. ""Jerry"" Brown",157
 El Dorado,10000209,Governor,,REP,Glenn Champ,6
-El Dorado,10000209,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,10000209,Governor,,IND,Joe Leicht,0
-El Dorado,10000209,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,10000209,Governor,,REP,Neel Kashkari,89
-El Dorado,10000209,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,10000209,Governor,,REP,Richard William Aguirre,0
 El Dorado,10000209,Governor,,IND,Robert Newman,2
 El Dorado,10000209,Governor,,REP,Tim Donnelly,59
 El Dorado,10000209,Insurance Commissioner,,DEM,Dave Jones,125
@@ -100,6 +96,10 @@ El Dorado,10000209,Lieutenant Governor,,DEM,Gavin Newsom,121
 El Dorado,10000209,Lieutenant Governor,,REP,George Yang,13
 El Dorado,10000209,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,10000209,Lieutenant Governor,,REP,Ron Nehring,112
+El Dorado,10000209,Proposition 41,,,No,161
+El Dorado,10000209,Proposition 41,,,Yes,150
+El Dorado,10000209,Proposition 42,,,No,150
+El Dorado,10000209,Proposition 42,,,Yes,152
 El Dorado,10000209,Secretary of State,,DEM,Alex Padilla,52
 El Dorado,10000209,Secretary of State,,IND,Dan Schnur,44
 El Dorado,10000209,Secretary of State,,GRN,David Curtis,5
@@ -141,12 +141,9 @@ El Dorado,10000309,Governor,,REP,Andrew Blount,5
 El Dorado,10000309,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,10000309,Governor,,DEM,"Edmund G. ""Jerry"" Brown",297
 El Dorado,10000309,Governor,,REP,Glenn Champ,11
-El Dorado,10000309,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,10000309,Governor,,IND,Joe Leicht,1
-El Dorado,10000309,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,10000309,Governor,,REP,Neel Kashkari,199
 El Dorado,10000309,Governor,,IND,Rakesh Kumar Christian,4
-El Dorado,10000309,Governor,,REP,Richard William Aguirre,0
 El Dorado,10000309,Governor,,IND,Robert Newman,4
 El Dorado,10000309,Governor,,REP,Tim Donnelly,103
 El Dorado,10000309,Insurance Commissioner,,DEM,Dave Jones,248
@@ -160,6 +157,10 @@ El Dorado,10000309,Lieutenant Governor,,DEM,Gavin Newsom,289
 El Dorado,10000309,Lieutenant Governor,,REP,George Yang,47
 El Dorado,10000309,Lieutenant Governor,,GRN,Jena F. Goodman,5
 El Dorado,10000309,Lieutenant Governor,,REP,Ron Nehring,221
+El Dorado,10000309,Proposition 41,,,No,286
+El Dorado,10000309,Proposition 41,,,Yes,327
+El Dorado,10000309,Proposition 42,,,No,289
+El Dorado,10000309,Proposition 42,,,Yes,301
 El Dorado,10000309,Secretary of State,,DEM,Alex Padilla,145
 El Dorado,10000309,Secretary of State,,IND,Dan Schnur,105
 El Dorado,10000309,Secretary of State,,GRN,David Curtis,5
@@ -196,13 +197,10 @@ El Dorado,10000409,Controller,,GRN,Laura Wells,10
 El Dorado,10000409,Controller,,DEM,Tammy D. Blair,12
 El Dorado,10000409,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 El Dorado,10000409,Governor,,DEM,Akinyemi Agbede,1
-El Dorado,10000409,Governor,,REP,Alma Marie Winston,0
 El Dorado,10000409,Governor,,REP,Andrew Blount,2
 El Dorado,10000409,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,10000409,Governor,,DEM,"Edmund G. ""Jerry"" Brown",246
 El Dorado,10000409,Governor,,REP,Glenn Champ,14
-El Dorado,10000409,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,10000409,Governor,,IND,Joe Leicht,0
 El Dorado,10000409,Governor,,GRN,Luis J. Rodriguez,2
 El Dorado,10000409,Governor,,REP,Neel Kashkari,188
 El Dorado,10000409,Governor,,IND,Rakesh Kumar Christian,3
@@ -220,6 +218,10 @@ El Dorado,10000409,Lieutenant Governor,,DEM,Gavin Newsom,221
 El Dorado,10000409,Lieutenant Governor,,REP,George Yang,43
 El Dorado,10000409,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,10000409,Lieutenant Governor,,REP,Ron Nehring,196
+El Dorado,10000409,Proposition 41,,,No,250
+El Dorado,10000409,Proposition 41,,,Yes,287
+El Dorado,10000409,Proposition 42,,,No,275
+El Dorado,10000409,Proposition 42,,,Yes,251
 El Dorado,10000409,Secretary of State,,DEM,Alex Padilla,110
 El Dorado,10000409,Secretary of State,,IND,Dan Schnur,86
 El Dorado,10000409,Secretary of State,,GRN,David Curtis,11
@@ -255,13 +257,11 @@ El Dorado,10000509,Controller,,DEM,John A. Pérez,65
 El Dorado,10000509,Controller,,GRN,Laura Wells,17
 El Dorado,10000509,Controller,,DEM,Tammy D. Blair,7
 El Dorado,10000509,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-El Dorado,10000509,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,10000509,Governor,,REP,Alma Marie Winston,8
 El Dorado,10000509,Governor,,REP,Andrew Blount,8
 El Dorado,10000509,Governor,,PAF,Cindy L. Sheehan,1
 El Dorado,10000509,Governor,,DEM,"Edmund G. ""Jerry"" Brown",232
 El Dorado,10000509,Governor,,REP,Glenn Champ,10
-El Dorado,10000509,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,10000509,Governor,,IND,Joe Leicht,1
 El Dorado,10000509,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,10000509,Governor,,REP,Neel Kashkari,214
@@ -272,14 +272,16 @@ El Dorado,10000509,Governor,,REP,Tim Donnelly,161
 El Dorado,10000509,Insurance Commissioner,,DEM,Dave Jones,169
 El Dorado,10000509,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 El Dorado,10000509,Insurance Commissioner,,REP,Ted Gaines,453
-El Dorado,10000509,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,10000509,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,10000509,Lieutenant Governor,,REP,David Fennell,42
 El Dorado,10000509,Lieutenant Governor,,DEM,Eric Korevaar,14
 El Dorado,10000509,Lieutenant Governor,,DEM,Gavin Newsom,198
 El Dorado,10000509,Lieutenant Governor,,REP,George Yang,92
 El Dorado,10000509,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,10000509,Lieutenant Governor,,REP,Ron Nehring,262
+El Dorado,10000509,Proposition 41,,,No,336
+El Dorado,10000509,Proposition 41,,,Yes,278
+El Dorado,10000509,Proposition 42,,,No,323
+El Dorado,10000509,Proposition 42,,,Yes,272
 El Dorado,10000509,Secretary of State,,DEM,Alex Padilla,81
 El Dorado,10000509,Secretary of State,,IND,Dan Schnur,70
 El Dorado,10000509,Secretary of State,,GRN,David Curtis,10
@@ -321,8 +323,6 @@ El Dorado,10000609,Governor,,REP,Andrew Blount,17
 El Dorado,10000609,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,10000609,Governor,,DEM,"Edmund G. ""Jerry"" Brown",280
 El Dorado,10000609,Governor,,REP,Glenn Champ,14
-El Dorado,10000609,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,10000609,Governor,,IND,Joe Leicht,0
 El Dorado,10000609,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,10000609,Governor,,REP,Neel Kashkari,261
 El Dorado,10000609,Governor,,IND,Rakesh Kumar Christian,1
@@ -340,6 +340,10 @@ El Dorado,10000609,Lieutenant Governor,,DEM,Gavin Newsom,253
 El Dorado,10000609,Lieutenant Governor,,REP,George Yang,53
 El Dorado,10000609,Lieutenant Governor,,GRN,Jena F. Goodman,7
 El Dorado,10000609,Lieutenant Governor,,REP,Ron Nehring,277
+El Dorado,10000609,Proposition 41,,,No,354
+El Dorado,10000609,Proposition 41,,,Yes,355
+El Dorado,10000609,Proposition 42,,,No,340
+El Dorado,10000609,Proposition 42,,,Yes,339
 El Dorado,10000609,Secretary of State,,DEM,Alex Padilla,145
 El Dorado,10000609,Secretary of State,,IND,Dan Schnur,112
 El Dorado,10000609,Secretary of State,,GRN,David Curtis,11
@@ -375,17 +379,12 @@ El Dorado,10000809,Controller,,DEM,John A. Pérez,65
 El Dorado,10000809,Controller,,GRN,Laura Wells,13
 El Dorado,10000809,Controller,,DEM,Tammy D. Blair,11
 El Dorado,10000809,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-El Dorado,10000809,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,10000809,Governor,,REP,Alma Marie Winston,2
 El Dorado,10000809,Governor,,REP,Andrew Blount,4
-El Dorado,10000809,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,10000809,Governor,,DEM,"Edmund G. ""Jerry"" Brown",254
 El Dorado,10000809,Governor,,REP,Glenn Champ,4
-El Dorado,10000809,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,10000809,Governor,,IND,Joe Leicht,0
 El Dorado,10000809,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,10000809,Governor,,REP,Neel Kashkari,153
-El Dorado,10000809,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,10000809,Governor,,REP,Richard William Aguirre,4
 El Dorado,10000809,Governor,,IND,Robert Newman,4
 El Dorado,10000809,Governor,,REP,Tim Donnelly,101
@@ -393,13 +392,16 @@ El Dorado,10000809,Insurance Commissioner,,DEM,Dave Jones,193
 El Dorado,10000809,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 El Dorado,10000809,Insurance Commissioner,,REP,Ted Gaines,301
 El Dorado,10000809,Lieutenant Governor,,AME,Alan Reynolds,4
-El Dorado,10000809,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,10000809,Lieutenant Governor,,REP,David Fennell,36
 El Dorado,10000809,Lieutenant Governor,,DEM,Eric Korevaar,11
 El Dorado,10000809,Lieutenant Governor,,DEM,Gavin Newsom,207
 El Dorado,10000809,Lieutenant Governor,,REP,George Yang,55
 El Dorado,10000809,Lieutenant Governor,,GRN,Jena F. Goodman,1
 El Dorado,10000809,Lieutenant Governor,,REP,Ron Nehring,192
+El Dorado,10000809,Proposition 41,,,No,270
+El Dorado,10000809,Proposition 41,,,Yes,226
+El Dorado,10000809,Proposition 42,,,No,230
+El Dorado,10000809,Proposition 42,,,Yes,249
 El Dorado,10000809,Secretary of State,,DEM,Alex Padilla,101
 El Dorado,10000809,Secretary of State,,IND,Dan Schnur,67
 El Dorado,10000809,Secretary of State,,GRN,David Curtis,4
@@ -434,7 +436,6 @@ El Dorado,10000909,Controller,,REP,David Evans,108
 El Dorado,10000909,Controller,,DEM,John A. Pérez,63
 El Dorado,10000909,Controller,,GRN,Laura Wells,16
 El Dorado,10000909,Controller,,DEM,Tammy D. Blair,8
-El Dorado,10000909,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 El Dorado,10000909,Governor,,DEM,Akinyemi Agbede,1
 El Dorado,10000909,Governor,,REP,Alma Marie Winston,2
 El Dorado,10000909,Governor,,REP,Andrew Blount,8
@@ -442,7 +443,6 @@ El Dorado,10000909,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,10000909,Governor,,DEM,"Edmund G. ""Jerry"" Brown",200
 El Dorado,10000909,Governor,,REP,Glenn Champ,7
 El Dorado,10000909,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,10000909,Governor,,IND,Joe Leicht,0
 El Dorado,10000909,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,10000909,Governor,,REP,Neel Kashkari,146
 El Dorado,10000909,Governor,,IND,Rakesh Kumar Christian,2
@@ -460,6 +460,10 @@ El Dorado,10000909,Lieutenant Governor,,DEM,Gavin Newsom,172
 El Dorado,10000909,Lieutenant Governor,,REP,George Yang,38
 El Dorado,10000909,Lieutenant Governor,,GRN,Jena F. Goodman,1
 El Dorado,10000909,Lieutenant Governor,,REP,Ron Nehring,172
+El Dorado,10000909,Proposition 41,,,No,219
+El Dorado,10000909,Proposition 41,,,Yes,219
+El Dorado,10000909,Proposition 42,,,No,203
+El Dorado,10000909,Proposition 42,,,Yes,219
 El Dorado,10000909,Secretary of State,,DEM,Alex Padilla,88
 El Dorado,10000909,Secretary of State,,IND,Dan Schnur,68
 El Dorado,10000909,Secretary of State,,GRN,David Curtis,8
@@ -501,7 +505,6 @@ El Dorado,10001209,Governor,,REP,Andrew Blount,15
 El Dorado,10001209,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,10001209,Governor,,DEM,"Edmund G. ""Jerry"" Brown",284
 El Dorado,10001209,Governor,,REP,Glenn Champ,16
-El Dorado,10001209,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,10001209,Governor,,IND,Joe Leicht,2
 El Dorado,10001209,Governor,,GRN,Luis J. Rodriguez,7
 El Dorado,10001209,Governor,,REP,Neel Kashkari,229
@@ -520,6 +523,10 @@ El Dorado,10001209,Lieutenant Governor,,DEM,Gavin Newsom,252
 El Dorado,10001209,Lieutenant Governor,,REP,George Yang,71
 El Dorado,10001209,Lieutenant Governor,,GRN,Jena F. Goodman,13
 El Dorado,10001209,Lieutenant Governor,,REP,Ron Nehring,270
+El Dorado,10001209,Proposition 41,,,No,336
+El Dorado,10001209,Proposition 41,,,Yes,366
+El Dorado,10001209,Proposition 42,,,No,345
+El Dorado,10001209,Proposition 42,,,Yes,331
 El Dorado,10001209,Secretary of State,,DEM,Alex Padilla,106
 El Dorado,10001209,Secretary of State,,IND,Dan Schnur,138
 El Dorado,10001209,Secretary of State,,GRN,David Curtis,13
@@ -561,9 +568,7 @@ El Dorado,10001309,Governor,,REP,Andrew Blount,11
 El Dorado,10001309,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,10001309,Governor,,DEM,"Edmund G. ""Jerry"" Brown",285
 El Dorado,10001309,Governor,,REP,Glenn Champ,12
-El Dorado,10001309,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,10001309,Governor,,IND,Joe Leicht,2
-El Dorado,10001309,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,10001309,Governor,,REP,Neel Kashkari,196
 El Dorado,10001309,Governor,,IND,Rakesh Kumar Christian,2
 El Dorado,10001309,Governor,,REP,Richard William Aguirre,4
@@ -580,6 +585,10 @@ El Dorado,10001309,Lieutenant Governor,,DEM,Gavin Newsom,256
 El Dorado,10001309,Lieutenant Governor,,REP,George Yang,40
 El Dorado,10001309,Lieutenant Governor,,GRN,Jena F. Goodman,5
 El Dorado,10001309,Lieutenant Governor,,REP,Ron Nehring,245
+El Dorado,10001309,Proposition 41,,,No,307
+El Dorado,10001309,Proposition 41,,,Yes,316
+El Dorado,10001309,Proposition 42,,,No,300
+El Dorado,10001309,Proposition 42,,,Yes,301
 El Dorado,10001309,Secretary of State,,DEM,Alex Padilla,143
 El Dorado,10001309,Secretary of State,,IND,Dan Schnur,103
 El Dorado,10001309,Secretary of State,,GRN,David Curtis,10
@@ -622,7 +631,6 @@ El Dorado,10001409,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,10001409,Governor,,DEM,"Edmund G. ""Jerry"" Brown",196
 El Dorado,10001409,Governor,,REP,Glenn Champ,11
 El Dorado,10001409,Governor,,IND,Janel Hyeshia Buycks,2
-El Dorado,10001409,Governor,,IND,Joe Leicht,0
 El Dorado,10001409,Governor,,GRN,Luis J. Rodriguez,2
 El Dorado,10001409,Governor,,REP,Neel Kashkari,201
 El Dorado,10001409,Governor,,IND,Rakesh Kumar Christian,2
@@ -640,6 +648,10 @@ El Dorado,10001409,Lieutenant Governor,,DEM,Gavin Newsom,171
 El Dorado,10001409,Lieutenant Governor,,REP,George Yang,31
 El Dorado,10001409,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,10001409,Lieutenant Governor,,REP,Ron Nehring,272
+El Dorado,10001409,Proposition 41,,,No,270
+El Dorado,10001409,Proposition 41,,,Yes,269
+El Dorado,10001409,Proposition 42,,,No,260
+El Dorado,10001409,Proposition 42,,,Yes,258
 El Dorado,10001409,Secretary of State,,DEM,Alex Padilla,95
 El Dorado,10001409,Secretary of State,,IND,Dan Schnur,117
 El Dorado,10001409,Secretary of State,,GRN,David Curtis,5
@@ -674,15 +686,12 @@ El Dorado,10002209,Controller,,REP,David Evans,131
 El Dorado,10002209,Controller,,DEM,John A. Pérez,62
 El Dorado,10002209,Controller,,GRN,Laura Wells,20
 El Dorado,10002209,Controller,,DEM,Tammy D. Blair,7
-El Dorado,10002209,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 El Dorado,10002209,Governor,,DEM,Akinyemi Agbede,1
 El Dorado,10002209,Governor,,REP,Alma Marie Winston,3
 El Dorado,10002209,Governor,,REP,Andrew Blount,7
 El Dorado,10002209,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,10002209,Governor,,DEM,"Edmund G. ""Jerry"" Brown",201
 El Dorado,10002209,Governor,,REP,Glenn Champ,11
-El Dorado,10002209,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,10002209,Governor,,IND,Joe Leicht,0
 El Dorado,10002209,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,10002209,Governor,,REP,Neel Kashkari,175
 El Dorado,10002209,Governor,,IND,Rakesh Kumar Christian,2
@@ -700,6 +709,10 @@ El Dorado,10002209,Lieutenant Governor,,DEM,Gavin Newsom,177
 El Dorado,10002209,Lieutenant Governor,,REP,George Yang,44
 El Dorado,10002209,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,10002209,Lieutenant Governor,,REP,Ron Nehring,195
+El Dorado,10002209,Proposition 41,,,No,303
+El Dorado,10002209,Proposition 41,,,Yes,192
+El Dorado,10002209,Proposition 42,,,No,257
+El Dorado,10002209,Proposition 42,,,Yes,222
 El Dorado,10002209,Secretary of State,,DEM,Alex Padilla,92
 El Dorado,10002209,Secretary of State,,IND,Dan Schnur,80
 El Dorado,10002209,Secretary of State,,GRN,David Curtis,7
@@ -760,6 +773,10 @@ El Dorado,10002309,Lieutenant Governor,,DEM,Gavin Newsom,237
 El Dorado,10002309,Lieutenant Governor,,REP,George Yang,56
 El Dorado,10002309,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,10002309,Lieutenant Governor,,REP,Ron Nehring,362
+El Dorado,10002309,Proposition 41,,,No,373
+El Dorado,10002309,Proposition 41,,,Yes,382
+El Dorado,10002309,Proposition 42,,,No,375
+El Dorado,10002309,Proposition 42,,,Yes,357
 El Dorado,10002309,Secretary of State,,DEM,Alex Padilla,133
 El Dorado,10002309,Secretary of State,,IND,Dan Schnur,135
 El Dorado,10002309,Secretary of State,,GRN,David Curtis,11
@@ -820,6 +837,10 @@ El Dorado,20000310,Lieutenant Governor,,DEM,Gavin Newsom,154
 El Dorado,20000310,Lieutenant Governor,,REP,George Yang,35
 El Dorado,20000310,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,20000310,Lieutenant Governor,,REP,Ron Nehring,182
+El Dorado,20000310,Proposition 41,,,No,204
+El Dorado,20000310,Proposition 41,,,Yes,253
+El Dorado,20000310,Proposition 42,,,No,218
+El Dorado,20000310,Proposition 42,,,Yes,214
 El Dorado,20000310,Secretary of State,,DEM,Alex Padilla,77
 El Dorado,20000310,Secretary of State,,IND,Dan Schnur,69
 El Dorado,20000310,Secretary of State,,GRN,David Curtis,13
@@ -855,18 +876,15 @@ El Dorado,20000410,Controller,,DEM,John A. Pérez,67
 El Dorado,20000410,Controller,,GRN,Laura Wells,26
 El Dorado,20000410,Controller,,DEM,Tammy D. Blair,8
 El Dorado,20000410,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-El Dorado,20000410,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,20000410,Governor,,REP,Alma Marie Winston,5
 El Dorado,20000410,Governor,,REP,Andrew Blount,6
 El Dorado,20000410,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,20000410,Governor,,DEM,"Edmund G. ""Jerry"" Brown",217
 El Dorado,20000410,Governor,,REP,Glenn Champ,10
-El Dorado,20000410,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,20000410,Governor,,IND,Joe Leicht,1
 El Dorado,20000410,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,20000410,Governor,,REP,Neel Kashkari,175
 El Dorado,20000410,Governor,,IND,Rakesh Kumar Christian,3
-El Dorado,20000410,Governor,,REP,Richard William Aguirre,0
 El Dorado,20000410,Governor,,IND,Robert Newman,1
 El Dorado,20000410,Governor,,REP,Tim Donnelly,96
 El Dorado,20000410,Insurance Commissioner,,DEM,Dave Jones,183
@@ -880,6 +898,10 @@ El Dorado,20000410,Lieutenant Governor,,DEM,Gavin Newsom,190
 El Dorado,20000410,Lieutenant Governor,,REP,George Yang,48
 El Dorado,20000410,Lieutenant Governor,,GRN,Jena F. Goodman,10
 El Dorado,20000410,Lieutenant Governor,,REP,Ron Nehring,187
+El Dorado,20000410,Proposition 41,,,No,251
+El Dorado,20000410,Proposition 41,,,Yes,253
+El Dorado,20000410,Proposition 42,,,No,259
+El Dorado,20000410,Proposition 42,,,Yes,226
 El Dorado,20000410,Secretary of State,,DEM,Alex Padilla,105
 El Dorado,20000410,Secretary of State,,IND,Dan Schnur,64
 El Dorado,20000410,Secretary of State,,GRN,David Curtis,8
@@ -922,10 +944,8 @@ El Dorado,20000501,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,20000501,Governor,,DEM,"Edmund G. ""Jerry"" Brown",165
 El Dorado,20000501,Governor,,REP,Glenn Champ,13
 El Dorado,20000501,Governor,,IND,Janel Hyeshia Buycks,2
-El Dorado,20000501,Governor,,IND,Joe Leicht,0
 El Dorado,20000501,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,20000501,Governor,,REP,Neel Kashkari,122
-El Dorado,20000501,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,20000501,Governor,,REP,Richard William Aguirre,1
 El Dorado,20000501,Governor,,IND,Robert Newman,6
 El Dorado,20000501,Governor,,REP,Tim Donnelly,68
@@ -940,6 +960,10 @@ El Dorado,20000501,Lieutenant Governor,,DEM,Gavin Newsom,137
 El Dorado,20000501,Lieutenant Governor,,REP,George Yang,22
 El Dorado,20000501,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,20000501,Lieutenant Governor,,REP,Ron Nehring,163
+El Dorado,20000501,Proposition 41,,,No,175
+El Dorado,20000501,Proposition 41,,,Yes,217
+El Dorado,20000501,Proposition 42,,,No,190
+El Dorado,20000501,Proposition 42,,,Yes,179
 El Dorado,20000501,Secretary of State,,DEM,Alex Padilla,67
 El Dorado,20000501,Secretary of State,,IND,Dan Schnur,52
 El Dorado,20000501,Secretary of State,,GRN,David Curtis,13
@@ -977,11 +1001,8 @@ El Dorado,20000610,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 El Dorado,20000610,Governor,,DEM,Akinyemi Agbede,1
 El Dorado,20000610,Governor,,REP,Alma Marie Winston,6
 El Dorado,20000610,Governor,,REP,Andrew Blount,4
-El Dorado,20000610,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,20000610,Governor,,DEM,"Edmund G. ""Jerry"" Brown",154
 El Dorado,20000610,Governor,,REP,Glenn Champ,21
-El Dorado,20000610,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,20000610,Governor,,IND,Joe Leicht,0
 El Dorado,20000610,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,20000610,Governor,,REP,Neel Kashkari,177
 El Dorado,20000610,Governor,,IND,Rakesh Kumar Christian,3
@@ -999,6 +1020,10 @@ El Dorado,20000610,Lieutenant Governor,,DEM,Gavin Newsom,142
 El Dorado,20000610,Lieutenant Governor,,REP,George Yang,37
 El Dorado,20000610,Lieutenant Governor,,GRN,Jena F. Goodman,5
 El Dorado,20000610,Lieutenant Governor,,REP,Ron Nehring,218
+El Dorado,20000610,Proposition 41,,,No,306
+El Dorado,20000610,Proposition 41,,,Yes,186
+El Dorado,20000610,Proposition 42,,,No,269
+El Dorado,20000610,Proposition 42,,,Yes,209
 El Dorado,20000610,Secretary of State,,DEM,Alex Padilla,71
 El Dorado,20000610,Secretary of State,,IND,Dan Schnur,65
 El Dorado,20000610,Secretary of State,,GRN,David Curtis,8
@@ -1041,7 +1066,6 @@ El Dorado,20000810,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,20000810,Governor,,DEM,"Edmund G. ""Jerry"" Brown",117
 El Dorado,20000810,Governor,,REP,Glenn Champ,7
 El Dorado,20000810,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,20000810,Governor,,IND,Joe Leicht,0
 El Dorado,20000810,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,20000810,Governor,,REP,Neel Kashkari,99
 El Dorado,20000810,Governor,,IND,Rakesh Kumar Christian,3
@@ -1059,6 +1083,10 @@ El Dorado,20000810,Lieutenant Governor,,DEM,Gavin Newsom,107
 El Dorado,20000810,Lieutenant Governor,,REP,George Yang,24
 El Dorado,20000810,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,20000810,Lieutenant Governor,,REP,Ron Nehring,107
+El Dorado,20000810,Proposition 41,,,No,136
+El Dorado,20000810,Proposition 41,,,Yes,149
+El Dorado,20000810,Proposition 42,,,No,156
+El Dorado,20000810,Proposition 42,,,Yes,126
 El Dorado,20000810,Secretary of State,,DEM,Alex Padilla,65
 El Dorado,20000810,Secretary of State,,IND,Dan Schnur,47
 El Dorado,20000810,Secretary of State,,GRN,David Curtis,9
@@ -1094,13 +1122,11 @@ El Dorado,20001010,Controller,,DEM,John A. Pérez,60
 El Dorado,20001010,Controller,,GRN,Laura Wells,25
 El Dorado,20001010,Controller,,DEM,Tammy D. Blair,7
 El Dorado,20001010,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-El Dorado,20001010,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,20001010,Governor,,REP,Alma Marie Winston,1
 El Dorado,20001010,Governor,,REP,Andrew Blount,13
 El Dorado,20001010,Governor,,PAF,Cindy L. Sheehan,1
 El Dorado,20001010,Governor,,DEM,"Edmund G. ""Jerry"" Brown",190
 El Dorado,20001010,Governor,,REP,Glenn Champ,15
-El Dorado,20001010,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,20001010,Governor,,IND,Joe Leicht,1
 El Dorado,20001010,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,20001010,Governor,,REP,Neel Kashkari,120
@@ -1119,6 +1145,10 @@ El Dorado,20001010,Lieutenant Governor,,DEM,Gavin Newsom,162
 El Dorado,20001010,Lieutenant Governor,,REP,George Yang,31
 El Dorado,20001010,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,20001010,Lieutenant Governor,,REP,Ron Nehring,171
+El Dorado,20001010,Proposition 41,,,No,199
+El Dorado,20001010,Proposition 41,,,Yes,235
+El Dorado,20001010,Proposition 42,,,No,220
+El Dorado,20001010,Proposition 42,,,Yes,202
 El Dorado,20001010,Secretary of State,,DEM,Alex Padilla,83
 El Dorado,20001010,Secretary of State,,IND,Dan Schnur,75
 El Dorado,20001010,Secretary of State,,GRN,David Curtis,3
@@ -1161,11 +1191,8 @@ El Dorado,20001210,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,20001210,Governor,,DEM,"Edmund G. ""Jerry"" Brown",157
 El Dorado,20001210,Governor,,REP,Glenn Champ,5
 El Dorado,20001210,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,20001210,Governor,,IND,Joe Leicht,0
 El Dorado,20001210,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,20001210,Governor,,REP,Neel Kashkari,122
-El Dorado,20001210,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,20001210,Governor,,REP,Richard William Aguirre,0
 El Dorado,20001210,Governor,,IND,Robert Newman,3
 El Dorado,20001210,Governor,,REP,Tim Donnelly,75
 El Dorado,20001210,Insurance Commissioner,,DEM,Dave Jones,134
@@ -1179,6 +1206,10 @@ El Dorado,20001210,Lieutenant Governor,,DEM,Gavin Newsom,138
 El Dorado,20001210,Lieutenant Governor,,REP,George Yang,19
 El Dorado,20001210,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,20001210,Lieutenant Governor,,REP,Ron Nehring,164
+El Dorado,20001210,Proposition 41,,,No,191
+El Dorado,20001210,Proposition 41,,,Yes,175
+El Dorado,20001210,Proposition 42,,,No,197
+El Dorado,20001210,Proposition 42,,,Yes,153
 El Dorado,20001210,Secretary of State,,DEM,Alex Padilla,65
 El Dorado,20001210,Secretary of State,,IND,Dan Schnur,59
 El Dorado,20001210,Secretary of State,,GRN,David Curtis,8
@@ -1213,7 +1244,6 @@ El Dorado,20001310,Controller,,REP,David Evans,157
 El Dorado,20001310,Controller,,DEM,John A. Pérez,61
 El Dorado,20001310,Controller,,GRN,Laura Wells,30
 El Dorado,20001310,Controller,,DEM,Tammy D. Blair,16
-El Dorado,20001310,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 El Dorado,20001310,Governor,,DEM,Akinyemi Agbede,2
 El Dorado,20001310,Governor,,REP,Alma Marie Winston,5
 El Dorado,20001310,Governor,,REP,Andrew Blount,7
@@ -1225,7 +1255,6 @@ El Dorado,20001310,Governor,,IND,Joe Leicht,3
 El Dorado,20001310,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,20001310,Governor,,REP,Neel Kashkari,243
 El Dorado,20001310,Governor,,IND,Rakesh Kumar Christian,5
-El Dorado,20001310,Governor,,REP,Richard William Aguirre,0
 El Dorado,20001310,Governor,,IND,Robert Newman,1
 El Dorado,20001310,Governor,,REP,Tim Donnelly,95
 El Dorado,20001310,Insurance Commissioner,,DEM,Dave Jones,197
@@ -1239,6 +1268,10 @@ El Dorado,20001310,Lieutenant Governor,,DEM,Gavin Newsom,197
 El Dorado,20001310,Lieutenant Governor,,REP,George Yang,53
 El Dorado,20001310,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,20001310,Lieutenant Governor,,REP,Ron Nehring,256
+El Dorado,20001310,Proposition 41,,,No,273
+El Dorado,20001310,Proposition 41,,,Yes,319
+El Dorado,20001310,Proposition 42,,,No,290
+El Dorado,20001310,Proposition 42,,,Yes,290
 El Dorado,20001310,Secretary of State,,DEM,Alex Padilla,98
 El Dorado,20001310,Secretary of State,,IND,Dan Schnur,111
 El Dorado,20001310,Secretary of State,,GRN,David Curtis,23
@@ -1281,10 +1314,8 @@ El Dorado,20001410,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,20001410,Governor,,DEM,"Edmund G. ""Jerry"" Brown",231
 El Dorado,20001410,Governor,,REP,Glenn Champ,13
 El Dorado,20001410,Governor,,IND,Janel Hyeshia Buycks,2
-El Dorado,20001410,Governor,,IND,Joe Leicht,0
 El Dorado,20001410,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,20001410,Governor,,REP,Neel Kashkari,166
-El Dorado,20001410,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,20001410,Governor,,REP,Richard William Aguirre,2
 El Dorado,20001410,Governor,,IND,Robert Newman,2
 El Dorado,20001410,Governor,,REP,Tim Donnelly,100
@@ -1299,6 +1330,10 @@ El Dorado,20001410,Lieutenant Governor,,DEM,Gavin Newsom,185
 El Dorado,20001410,Lieutenant Governor,,REP,George Yang,35
 El Dorado,20001410,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,20001410,Lieutenant Governor,,REP,Ron Nehring,195
+El Dorado,20001410,Proposition 41,,,No,212
+El Dorado,20001410,Proposition 41,,,Yes,303
+El Dorado,20001410,Proposition 42,,,No,248
+El Dorado,20001410,Proposition 42,,,Yes,244
 El Dorado,20001410,Secretary of State,,DEM,Alex Padilla,90
 El Dorado,20001410,Secretary of State,,IND,Dan Schnur,86
 El Dorado,20001410,Secretary of State,,GRN,David Curtis,16
@@ -1345,7 +1380,6 @@ El Dorado,20001501,Governor,,IND,Joe Leicht,1
 El Dorado,20001501,Governor,,GRN,Luis J. Rodriguez,7
 El Dorado,20001501,Governor,,REP,Neel Kashkari,210
 El Dorado,20001501,Governor,,IND,Rakesh Kumar Christian,5
-El Dorado,20001501,Governor,,REP,Richard William Aguirre,0
 El Dorado,20001501,Governor,,IND,Robert Newman,11
 El Dorado,20001501,Governor,,REP,Tim Donnelly,122
 El Dorado,20001501,Insurance Commissioner,,DEM,Dave Jones,258
@@ -1359,6 +1393,10 @@ El Dorado,20001501,Lieutenant Governor,,DEM,Gavin Newsom,288
 El Dorado,20001501,Lieutenant Governor,,REP,George Yang,52
 El Dorado,20001501,Lieutenant Governor,,GRN,Jena F. Goodman,22
 El Dorado,20001501,Lieutenant Governor,,REP,Ron Nehring,224
+El Dorado,20001501,Proposition 41,,,No,320
+El Dorado,20001501,Proposition 41,,,Yes,374
+El Dorado,20001501,Proposition 42,,,No,344
+El Dorado,20001501,Proposition 42,,,Yes,323
 El Dorado,20001501,Secretary of State,,DEM,Alex Padilla,137
 El Dorado,20001501,Secretary of State,,IND,Dan Schnur,99
 El Dorado,20001501,Secretary of State,,GRN,David Curtis,37
@@ -1392,7 +1430,6 @@ El Dorado,20001610,Controller,,REP,David Evans,111
 El Dorado,20001610,Controller,,DEM,John A. Pérez,39
 El Dorado,20001610,Controller,,GRN,Laura Wells,22
 El Dorado,20001610,Controller,,DEM,Tammy D. Blair,6
-El Dorado,20001610,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 El Dorado,20001610,Governor,,DEM,Akinyemi Agbede,2
 El Dorado,20001610,Governor,,REP,Alma Marie Winston,1
 El Dorado,20001610,Governor,,REP,Andrew Blount,5
@@ -1403,7 +1440,6 @@ El Dorado,20001610,Governor,,IND,Janel Hyeshia Buycks,2
 El Dorado,20001610,Governor,,IND,Joe Leicht,1
 El Dorado,20001610,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,20001610,Governor,,REP,Neel Kashkari,145
-El Dorado,20001610,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,20001610,Governor,,REP,Richard William Aguirre,2
 El Dorado,20001610,Governor,,IND,Robert Newman,1
 El Dorado,20001610,Governor,,REP,Tim Donnelly,84
@@ -1418,6 +1454,10 @@ El Dorado,20001610,Lieutenant Governor,,DEM,Gavin Newsom,92
 El Dorado,20001610,Lieutenant Governor,,REP,George Yang,25
 El Dorado,20001610,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,20001610,Lieutenant Governor,,REP,Ron Nehring,174
+El Dorado,20001610,Proposition 41,,,No,197
+El Dorado,20001610,Proposition 41,,,Yes,157
+El Dorado,20001610,Proposition 42,,,No,177
+El Dorado,20001610,Proposition 42,,,Yes,167
 El Dorado,20001610,Secretary of State,,DEM,Alex Padilla,45
 El Dorado,20001610,Secretary of State,,IND,Dan Schnur,62
 El Dorado,20001610,Secretary of State,,GRN,David Curtis,14
@@ -1478,6 +1518,10 @@ El Dorado,20001701,Lieutenant Governor,,DEM,Gavin Newsom,209
 El Dorado,20001701,Lieutenant Governor,,REP,George Yang,33
 El Dorado,20001701,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,20001701,Lieutenant Governor,,REP,Ron Nehring,184
+El Dorado,20001701,Proposition 41,,,No,181
+El Dorado,20001701,Proposition 41,,,Yes,307
+El Dorado,20001701,Proposition 42,,,No,241
+El Dorado,20001701,Proposition 42,,,Yes,229
 El Dorado,20001701,Secretary of State,,DEM,Alex Padilla,88
 El Dorado,20001701,Secretary of State,,IND,Dan Schnur,66
 El Dorado,20001701,Secretary of State,,GRN,David Curtis,19
@@ -1518,7 +1562,6 @@ El Dorado,20001801,Governor,,REP,Andrew Blount,17
 El Dorado,20001801,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,20001801,Governor,,DEM,"Edmund G. ""Jerry"" Brown",206
 El Dorado,20001801,Governor,,REP,Glenn Champ,12
-El Dorado,20001801,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,20001801,Governor,,IND,Joe Leicht,5
 El Dorado,20001801,Governor,,GRN,Luis J. Rodriguez,7
 El Dorado,20001801,Governor,,REP,Neel Kashkari,218
@@ -1537,6 +1580,10 @@ El Dorado,20001801,Lieutenant Governor,,DEM,Gavin Newsom,205
 El Dorado,20001801,Lieutenant Governor,,REP,George Yang,46
 El Dorado,20001801,Lieutenant Governor,,GRN,Jena F. Goodman,12
 El Dorado,20001801,Lieutenant Governor,,REP,Ron Nehring,233
+El Dorado,20001801,Proposition 41,,,No,302
+El Dorado,20001801,Proposition 41,,,Yes,287
+El Dorado,20001801,Proposition 42,,,No,324
+El Dorado,20001801,Proposition 42,,,Yes,254
 El Dorado,20001801,Secretary of State,,DEM,Alex Padilla,97
 El Dorado,20001801,Secretary of State,,IND,Dan Schnur,80
 El Dorado,20001801,Secretary of State,,GRN,David Curtis,24
@@ -1596,6 +1643,10 @@ El Dorado,20002001,Lieutenant Governor,,DEM,Gavin Newsom,133
 El Dorado,20002001,Lieutenant Governor,,REP,George Yang,34
 El Dorado,20002001,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,20002001,Lieutenant Governor,,REP,Ron Nehring,174
+El Dorado,20002001,Proposition 41,,,No,208
+El Dorado,20002001,Proposition 41,,,Yes,234
+El Dorado,20002001,Proposition 42,,,No,229
+El Dorado,20002001,Proposition 42,,,Yes,192
 El Dorado,20002001,Secretary of State,,DEM,Alex Padilla,67
 El Dorado,20002001,Secretary of State,,IND,Dan Schnur,71
 El Dorado,20002001,Secretary of State,,GRN,David Curtis,13
@@ -1636,7 +1687,6 @@ El Dorado,20002101,Governor,,REP,Andrew Blount,22
 El Dorado,20002101,Governor,,PAF,Cindy L. Sheehan,10
 El Dorado,20002101,Governor,,DEM,"Edmund G. ""Jerry"" Brown",296
 El Dorado,20002101,Governor,,REP,Glenn Champ,15
-El Dorado,20002101,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,20002101,Governor,,IND,Joe Leicht,1
 El Dorado,20002101,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,20002101,Governor,,REP,Neel Kashkari,247
@@ -1655,6 +1705,10 @@ El Dorado,20002101,Lieutenant Governor,,DEM,Gavin Newsom,237
 El Dorado,20002101,Lieutenant Governor,,REP,George Yang,59
 El Dorado,20002101,Lieutenant Governor,,GRN,Jena F. Goodman,13
 El Dorado,20002101,Lieutenant Governor,,REP,Ron Nehring,291
+El Dorado,20002101,Proposition 41,,,No,349
+El Dorado,20002101,Proposition 41,,,Yes,374
+El Dorado,20002101,Proposition 42,,,No,383
+El Dorado,20002101,Proposition 42,,,Yes,329
 El Dorado,20002101,Secretary of State,,DEM,Alex Padilla,121
 El Dorado,20002101,Secretary of State,,IND,Dan Schnur,118
 El Dorado,20002101,Secretary of State,,GRN,David Curtis,26
@@ -1696,11 +1750,7 @@ El Dorado,20002401,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,20002401,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 El Dorado,20002401,Governor,,REP,Glenn Champ,1
 El Dorado,20002401,Governor,,IND,Janel Hyeshia Buycks,2
-El Dorado,20002401,Governor,,IND,Joe Leicht,0
-El Dorado,20002401,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,20002401,Governor,,REP,Neel Kashkari,85
-El Dorado,20002401,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,20002401,Governor,,REP,Richard William Aguirre,0
 El Dorado,20002401,Governor,,IND,Robert Newman,5
 El Dorado,20002401,Governor,,REP,Tim Donnelly,56
 El Dorado,20002401,Insurance Commissioner,,DEM,Dave Jones,72
@@ -1714,6 +1764,10 @@ El Dorado,20002401,Lieutenant Governor,,DEM,Gavin Newsom,70
 El Dorado,20002401,Lieutenant Governor,,REP,George Yang,24
 El Dorado,20002401,Lieutenant Governor,,GRN,Jena F. Goodman,2
 El Dorado,20002401,Lieutenant Governor,,REP,Ron Nehring,106
+El Dorado,20002401,Proposition 41,,,No,121
+El Dorado,20002401,Proposition 41,,,Yes,128
+El Dorado,20002401,Proposition 42,,,No,127
+El Dorado,20002401,Proposition 42,,,Yes,119
 El Dorado,20002401,Secretary of State,,DEM,Alex Padilla,32
 El Dorado,20002401,Secretary of State,,IND,Dan Schnur,31
 El Dorado,20002401,Secretary of State,,GRN,David Curtis,7
@@ -1754,12 +1808,10 @@ El Dorado,30000102,Governor,,REP,Andrew Blount,6
 El Dorado,30000102,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,30000102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",156
 El Dorado,30000102,Governor,,REP,Glenn Champ,8
-El Dorado,30000102,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30000102,Governor,,IND,Joe Leicht,2
 El Dorado,30000102,Governor,,GRN,Luis J. Rodriguez,7
 El Dorado,30000102,Governor,,REP,Neel Kashkari,85
 El Dorado,30000102,Governor,,IND,Rakesh Kumar Christian,2
-El Dorado,30000102,Governor,,REP,Richard William Aguirre,0
 El Dorado,30000102,Governor,,IND,Robert Newman,1
 El Dorado,30000102,Governor,,REP,Tim Donnelly,45
 El Dorado,30000102,Insurance Commissioner,,DEM,Dave Jones,134
@@ -1773,6 +1825,10 @@ El Dorado,30000102,Lieutenant Governor,,DEM,Gavin Newsom,147
 El Dorado,30000102,Lieutenant Governor,,REP,George Yang,20
 El Dorado,30000102,Lieutenant Governor,,GRN,Jena F. Goodman,7
 El Dorado,30000102,Lieutenant Governor,,REP,Ron Nehring,98
+El Dorado,30000102,Proposition 41,,,No,100
+El Dorado,30000102,Proposition 41,,,Yes,208
+El Dorado,30000102,Proposition 42,,,No,151
+El Dorado,30000102,Proposition 42,,,Yes,143
 El Dorado,30000102,Secretary of State,,DEM,Alex Padilla,73
 El Dorado,30000102,Secretary of State,,IND,Dan Schnur,42
 El Dorado,30000102,Secretary of State,,GRN,David Curtis,8
@@ -1807,17 +1863,14 @@ El Dorado,30000302,Controller,,DEM,John A. Pérez,122
 El Dorado,30000302,Controller,,GRN,Laura Wells,55
 El Dorado,30000302,Controller,,DEM,Tammy D. Blair,39
 El Dorado,30000302,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",8
-El Dorado,30000302,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30000302,Governor,,REP,Alma Marie Winston,3
 El Dorado,30000302,Governor,,REP,Andrew Blount,14
 El Dorado,30000302,Governor,,PAF,Cindy L. Sheehan,9
 El Dorado,30000302,Governor,,DEM,"Edmund G. ""Jerry"" Brown",390
 El Dorado,30000302,Governor,,REP,Glenn Champ,9
-El Dorado,30000302,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30000302,Governor,,IND,Joe Leicht,1
 El Dorado,30000302,Governor,,GRN,Luis J. Rodriguez,5
 El Dorado,30000302,Governor,,REP,Neel Kashkari,178
-El Dorado,30000302,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,30000302,Governor,,REP,Richard William Aguirre,1
 El Dorado,30000302,Governor,,IND,Robert Newman,7
 El Dorado,30000302,Governor,,REP,Tim Donnelly,106
@@ -1832,6 +1885,10 @@ El Dorado,30000302,Lieutenant Governor,,DEM,Gavin Newsom,345
 El Dorado,30000302,Lieutenant Governor,,REP,George Yang,53
 El Dorado,30000302,Lieutenant Governor,,GRN,Jena F. Goodman,19
 El Dorado,30000302,Lieutenant Governor,,REP,Ron Nehring,187
+El Dorado,30000302,Proposition 41,,,No,257
+El Dorado,30000302,Proposition 41,,,Yes,452
+El Dorado,30000302,Proposition 42,,,No,332
+El Dorado,30000302,Proposition 42,,,Yes,345
 El Dorado,30000302,Secretary of State,,DEM,Alex Padilla,163
 El Dorado,30000302,Secretary of State,,IND,Dan Schnur,63
 El Dorado,30000302,Secretary of State,,GRN,David Curtis,28
@@ -1873,7 +1930,6 @@ El Dorado,30000402,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,30000402,Governor,,DEM,"Edmund G. ""Jerry"" Brown",248
 El Dorado,30000402,Governor,,REP,Glenn Champ,17
 El Dorado,30000402,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,30000402,Governor,,IND,Joe Leicht,0
 El Dorado,30000402,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,30000402,Governor,,REP,Neel Kashkari,124
 El Dorado,30000402,Governor,,IND,Rakesh Kumar Christian,4
@@ -1891,6 +1947,10 @@ El Dorado,30000402,Lieutenant Governor,,DEM,Gavin Newsom,229
 El Dorado,30000402,Lieutenant Governor,,REP,George Yang,29
 El Dorado,30000402,Lieutenant Governor,,GRN,Jena F. Goodman,10
 El Dorado,30000402,Lieutenant Governor,,REP,Ron Nehring,149
+El Dorado,30000402,Proposition 41,,,No,167
+El Dorado,30000402,Proposition 41,,,Yes,332
+El Dorado,30000402,Proposition 42,,,No,244
+El Dorado,30000402,Proposition 42,,,Yes,240
 El Dorado,30000402,Secretary of State,,DEM,Alex Padilla,112
 El Dorado,30000402,Secretary of State,,IND,Dan Schnur,71
 El Dorado,30000402,Secretary of State,,GRN,David Curtis,14
@@ -1926,7 +1986,6 @@ El Dorado,30000502,Controller,,GRN,Laura Wells,32
 El Dorado,30000502,Controller,,DEM,Tammy D. Blair,17
 El Dorado,30000502,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 El Dorado,30000502,Governor,,DEM,Akinyemi Agbede,1
-El Dorado,30000502,Governor,,REP,Alma Marie Winston,0
 El Dorado,30000502,Governor,,REP,Andrew Blount,15
 El Dorado,30000502,Governor,,PAF,Cindy L. Sheehan,7
 El Dorado,30000502,Governor,,DEM,"Edmund G. ""Jerry"" Brown",260
@@ -1936,7 +1995,6 @@ El Dorado,30000502,Governor,,IND,Joe Leicht,1
 El Dorado,30000502,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,30000502,Governor,,REP,Neel Kashkari,143
 El Dorado,30000502,Governor,,IND,Rakesh Kumar Christian,5
-El Dorado,30000502,Governor,,REP,Richard William Aguirre,0
 El Dorado,30000502,Governor,,IND,Robert Newman,7
 El Dorado,30000502,Governor,,REP,Tim Donnelly,65
 El Dorado,30000502,Insurance Commissioner,,DEM,Dave Jones,217
@@ -1950,6 +2008,10 @@ El Dorado,30000502,Lieutenant Governor,,DEM,Gavin Newsom,215
 El Dorado,30000502,Lieutenant Governor,,REP,George Yang,37
 El Dorado,30000502,Lieutenant Governor,,GRN,Jena F. Goodman,12
 El Dorado,30000502,Lieutenant Governor,,REP,Ron Nehring,136
+El Dorado,30000502,Proposition 41,,,No,179
+El Dorado,30000502,Proposition 41,,,Yes,311
+El Dorado,30000502,Proposition 42,,,No,251
+El Dorado,30000502,Proposition 42,,,Yes,213
 El Dorado,30000502,Secretary of State,,DEM,Alex Padilla,93
 El Dorado,30000502,Secretary of State,,IND,Dan Schnur,52
 El Dorado,30000502,Secretary of State,,GRN,David Curtis,33
@@ -1984,18 +2046,14 @@ El Dorado,30000802,Controller,,DEM,John A. Pérez,68
 El Dorado,30000802,Controller,,GRN,Laura Wells,38
 El Dorado,30000802,Controller,,DEM,Tammy D. Blair,18
 El Dorado,30000802,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-El Dorado,30000802,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30000802,Governor,,REP,Alma Marie Winston,6
 El Dorado,30000802,Governor,,REP,Andrew Blount,12
 El Dorado,30000802,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,30000802,Governor,,DEM,"Edmund G. ""Jerry"" Brown",232
 El Dorado,30000802,Governor,,REP,Glenn Champ,14
-El Dorado,30000802,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,30000802,Governor,,IND,Joe Leicht,0
 El Dorado,30000802,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,30000802,Governor,,REP,Neel Kashkari,200
 El Dorado,30000802,Governor,,IND,Rakesh Kumar Christian,2
-El Dorado,30000802,Governor,,REP,Richard William Aguirre,0
 El Dorado,30000802,Governor,,IND,Robert Newman,7
 El Dorado,30000802,Governor,,REP,Tim Donnelly,114
 El Dorado,30000802,Insurance Commissioner,,DEM,Dave Jones,206
@@ -2009,6 +2067,10 @@ El Dorado,30000802,Lieutenant Governor,,DEM,Gavin Newsom,210
 El Dorado,30000802,Lieutenant Governor,,REP,George Yang,44
 El Dorado,30000802,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,30000802,Lieutenant Governor,,REP,Ron Nehring,218
+El Dorado,30000802,Proposition 41,,,No,292
+El Dorado,30000802,Proposition 41,,,Yes,295
+El Dorado,30000802,Proposition 42,,,No,306
+El Dorado,30000802,Proposition 42,,,Yes,267
 El Dorado,30000802,Secretary of State,,DEM,Alex Padilla,92
 El Dorado,30000802,Secretary of State,,IND,Dan Schnur,85
 El Dorado,30000802,Secretary of State,,GRN,David Curtis,26
@@ -2050,7 +2112,6 @@ El Dorado,30000902,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,30000902,Governor,,DEM,"Edmund G. ""Jerry"" Brown",125
 El Dorado,30000902,Governor,,REP,Glenn Champ,5
 El Dorado,30000902,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,30000902,Governor,,IND,Joe Leicht,0
 El Dorado,30000902,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,30000902,Governor,,REP,Neel Kashkari,113
 El Dorado,30000902,Governor,,IND,Rakesh Kumar Christian,1
@@ -2068,6 +2129,10 @@ El Dorado,30000902,Lieutenant Governor,,DEM,Gavin Newsom,115
 El Dorado,30000902,Lieutenant Governor,,REP,George Yang,31
 El Dorado,30000902,Lieutenant Governor,,GRN,Jena F. Goodman,7
 El Dorado,30000902,Lieutenant Governor,,REP,Ron Nehring,133
+El Dorado,30000902,Proposition 41,,,No,162
+El Dorado,30000902,Proposition 41,,,Yes,176
+El Dorado,30000902,Proposition 42,,,No,173
+El Dorado,30000902,Proposition 42,,,Yes,155
 El Dorado,30000902,Secretary of State,,DEM,Alex Padilla,62
 El Dorado,30000902,Secretary of State,,IND,Dan Schnur,53
 El Dorado,30000902,Secretary of State,,GRN,David Curtis,9
@@ -2109,12 +2174,10 @@ El Dorado,30001002,Governor,,PAF,Cindy L. Sheehan,7
 El Dorado,30001002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",215
 El Dorado,30001002,Governor,,REP,Glenn Champ,10
 El Dorado,30001002,Governor,,IND,Janel Hyeshia Buycks,2
-El Dorado,30001002,Governor,,IND,Joe Leicht,0
 El Dorado,30001002,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,30001002,Governor,,REP,Neel Kashkari,175
 El Dorado,30001002,Governor,,IND,Rakesh Kumar Christian,1
 El Dorado,30001002,Governor,,REP,Richard William Aguirre,4
-El Dorado,30001002,Governor,,IND,Robert Newman,0
 El Dorado,30001002,Governor,,REP,Tim Donnelly,115
 El Dorado,30001002,Insurance Commissioner,,DEM,Dave Jones,206
 El Dorado,30001002,Insurance Commissioner,,PAF,Nathalie Hrizi,17
@@ -2127,6 +2190,10 @@ El Dorado,30001002,Lieutenant Governor,,DEM,Gavin Newsom,203
 El Dorado,30001002,Lieutenant Governor,,REP,George Yang,42
 El Dorado,30001002,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,30001002,Lieutenant Governor,,REP,Ron Nehring,199
+El Dorado,30001002,Proposition 41,,,No,236
+El Dorado,30001002,Proposition 41,,,Yes,298
+El Dorado,30001002,Proposition 42,,,No,253
+El Dorado,30001002,Proposition 42,,,Yes,246
 El Dorado,30001002,Secretary of State,,DEM,Alex Padilla,91
 El Dorado,30001002,Secretary of State,,IND,Dan Schnur,76
 El Dorado,30001002,Secretary of State,,GRN,David Curtis,11
@@ -2168,10 +2235,8 @@ El Dorado,30001102,Governor,,PAF,Cindy L. Sheehan,7
 El Dorado,30001102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",223
 El Dorado,30001102,Governor,,REP,Glenn Champ,14
 El Dorado,30001102,Governor,,IND,Janel Hyeshia Buycks,2
-El Dorado,30001102,Governor,,IND,Joe Leicht,0
 El Dorado,30001102,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,30001102,Governor,,REP,Neel Kashkari,192
-El Dorado,30001102,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,30001102,Governor,,REP,Richard William Aguirre,4
 El Dorado,30001102,Governor,,IND,Robert Newman,9
 El Dorado,30001102,Governor,,REP,Tim Donnelly,100
@@ -2186,6 +2251,10 @@ El Dorado,30001102,Lieutenant Governor,,DEM,Gavin Newsom,206
 El Dorado,30001102,Lieutenant Governor,,REP,George Yang,45
 El Dorado,30001102,Lieutenant Governor,,GRN,Jena F. Goodman,12
 El Dorado,30001102,Lieutenant Governor,,REP,Ron Nehring,219
+El Dorado,30001102,Proposition 41,,,No,243
+El Dorado,30001102,Proposition 41,,,Yes,312
+El Dorado,30001102,Proposition 42,,,No,288
+El Dorado,30001102,Proposition 42,,,Yes,243
 El Dorado,30001102,Secretary of State,,DEM,Alex Padilla,97
 El Dorado,30001102,Secretary of State,,IND,Dan Schnur,98
 El Dorado,30001102,Secretary of State,,GRN,David Curtis,13
@@ -2220,7 +2289,6 @@ El Dorado,30001302,Controller,,DEM,John A. Pérez,69
 El Dorado,30001302,Controller,,GRN,Laura Wells,29
 El Dorado,30001302,Controller,,DEM,Tammy D. Blair,23
 El Dorado,30001302,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-El Dorado,30001302,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30001302,Governor,,REP,Alma Marie Winston,6
 El Dorado,30001302,Governor,,REP,Andrew Blount,9
 El Dorado,30001302,Governor,,PAF,Cindy L. Sheehan,5
@@ -2231,7 +2299,6 @@ El Dorado,30001302,Governor,,IND,Joe Leicht,3
 El Dorado,30001302,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,30001302,Governor,,REP,Neel Kashkari,197
 El Dorado,30001302,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,30001302,Governor,,REP,Richard William Aguirre,0
 El Dorado,30001302,Governor,,IND,Robert Newman,5
 El Dorado,30001302,Governor,,REP,Tim Donnelly,160
 El Dorado,30001302,Insurance Commissioner,,DEM,Dave Jones,199
@@ -2245,6 +2312,10 @@ El Dorado,30001302,Lieutenant Governor,,DEM,Gavin Newsom,196
 El Dorado,30001302,Lieutenant Governor,,REP,George Yang,44
 El Dorado,30001302,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,30001302,Lieutenant Governor,,REP,Ron Nehring,255
+El Dorado,30001302,Proposition 41,,,No,283
+El Dorado,30001302,Proposition 41,,,Yes,312
+El Dorado,30001302,Proposition 42,,,No,303
+El Dorado,30001302,Proposition 42,,,Yes,274
 El Dorado,30001302,Secretary of State,,DEM,Alex Padilla,113
 El Dorado,30001302,Secretary of State,,IND,Dan Schnur,90
 El Dorado,30001302,Secretary of State,,GRN,David Curtis,18
@@ -2279,18 +2350,15 @@ El Dorado,30001502,Controller,,DEM,John A. Pérez,34
 El Dorado,30001502,Controller,,GRN,Laura Wells,19
 El Dorado,30001502,Controller,,DEM,Tammy D. Blair,8
 El Dorado,30001502,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-El Dorado,30001502,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30001502,Governor,,REP,Alma Marie Winston,4
 El Dorado,30001502,Governor,,REP,Andrew Blount,4
 El Dorado,30001502,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,30001502,Governor,,DEM,"Edmund G. ""Jerry"" Brown",122
 El Dorado,30001502,Governor,,REP,Glenn Champ,2
-El Dorado,30001502,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30001502,Governor,,IND,Joe Leicht,1
 El Dorado,30001502,Governor,,GRN,Luis J. Rodriguez,2
 El Dorado,30001502,Governor,,REP,Neel Kashkari,92
 El Dorado,30001502,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,30001502,Governor,,REP,Richard William Aguirre,0
 El Dorado,30001502,Governor,,IND,Robert Newman,4
 El Dorado,30001502,Governor,,REP,Tim Donnelly,42
 El Dorado,30001502,Insurance Commissioner,,DEM,Dave Jones,121
@@ -2304,6 +2372,10 @@ El Dorado,30001502,Lieutenant Governor,,DEM,Gavin Newsom,98
 El Dorado,30001502,Lieutenant Governor,,REP,George Yang,17
 El Dorado,30001502,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,30001502,Lieutenant Governor,,REP,Ron Nehring,98
+El Dorado,30001502,Proposition 41,,,No,116
+El Dorado,30001502,Proposition 41,,,Yes,150
+El Dorado,30001502,Proposition 42,,,No,146
+El Dorado,30001502,Proposition 42,,,Yes,113
 El Dorado,30001502,Secretary of State,,DEM,Alex Padilla,57
 El Dorado,30001502,Secretary of State,,IND,Dan Schnur,35
 El Dorado,30001502,Secretary of State,,GRN,David Curtis,5
@@ -2363,6 +2435,10 @@ El Dorado,30001702,Lieutenant Governor,,DEM,Gavin Newsom,218
 El Dorado,30001702,Lieutenant Governor,,REP,George Yang,42
 El Dorado,30001702,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,30001702,Lieutenant Governor,,REP,Ron Nehring,202
+El Dorado,30001702,Proposition 41,,,No,266
+El Dorado,30001702,Proposition 41,,,Yes,296
+El Dorado,30001702,Proposition 42,,,No,297
+El Dorado,30001702,Proposition 42,,,Yes,245
 El Dorado,30001702,Secretary of State,,DEM,Alex Padilla,117
 El Dorado,30001702,Secretary of State,,IND,Dan Schnur,72
 El Dorado,30001702,Secretary of State,,GRN,David Curtis,18
@@ -2403,7 +2479,6 @@ El Dorado,30001802,Governor,,REP,Andrew Blount,5
 El Dorado,30001802,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,30001802,Governor,,DEM,"Edmund G. ""Jerry"" Brown",157
 El Dorado,30001802,Governor,,REP,Glenn Champ,7
-El Dorado,30001802,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30001802,Governor,,IND,Joe Leicht,1
 El Dorado,30001802,Governor,,GRN,Luis J. Rodriguez,6
 El Dorado,30001802,Governor,,REP,Neel Kashkari,128
@@ -2422,6 +2497,10 @@ El Dorado,30001802,Lieutenant Governor,,DEM,Gavin Newsom,156
 El Dorado,30001802,Lieutenant Governor,,REP,George Yang,34
 El Dorado,30001802,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,30001802,Lieutenant Governor,,REP,Ron Nehring,147
+El Dorado,30001802,Proposition 41,,,No,193
+El Dorado,30001802,Proposition 41,,,Yes,218
+El Dorado,30001802,Proposition 42,,,No,213
+El Dorado,30001802,Proposition 42,,,Yes,190
 El Dorado,30001802,Secretary of State,,DEM,Alex Padilla,65
 El Dorado,30001802,Secretary of State,,IND,Dan Schnur,44
 El Dorado,30001802,Secretary of State,,GRN,David Curtis,14
@@ -2462,7 +2541,6 @@ El Dorado,30002002,Governor,,REP,Andrew Blount,13
 El Dorado,30002002,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,30002002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",208
 El Dorado,30002002,Governor,,REP,Glenn Champ,7
-El Dorado,30002002,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30002002,Governor,,IND,Joe Leicht,2
 El Dorado,30002002,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,30002002,Governor,,REP,Neel Kashkari,154
@@ -2481,6 +2559,10 @@ El Dorado,30002002,Lieutenant Governor,,DEM,Gavin Newsom,174
 El Dorado,30002002,Lieutenant Governor,,REP,George Yang,44
 El Dorado,30002002,Lieutenant Governor,,GRN,Jena F. Goodman,13
 El Dorado,30002002,Lieutenant Governor,,REP,Ron Nehring,195
+El Dorado,30002002,Proposition 41,,,No,228
+El Dorado,30002002,Proposition 41,,,Yes,277
+El Dorado,30002002,Proposition 42,,,No,254
+El Dorado,30002002,Proposition 42,,,Yes,242
 El Dorado,30002002,Secretary of State,,DEM,Alex Padilla,88
 El Dorado,30002002,Secretary of State,,IND,Dan Schnur,74
 El Dorado,30002002,Secretary of State,,GRN,David Curtis,15
@@ -2515,13 +2597,11 @@ El Dorado,30002102,Controller,,DEM,John A. Pérez,92
 El Dorado,30002102,Controller,,GRN,Laura Wells,30
 El Dorado,30002102,Controller,,DEM,Tammy D. Blair,21
 El Dorado,30002102,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-El Dorado,30002102,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30002102,Governor,,REP,Alma Marie Winston,5
 El Dorado,30002102,Governor,,REP,Andrew Blount,15
 El Dorado,30002102,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,30002102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",236
 El Dorado,30002102,Governor,,REP,Glenn Champ,7
-El Dorado,30002102,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30002102,Governor,,IND,Joe Leicht,2
 El Dorado,30002102,Governor,,GRN,Luis J. Rodriguez,2
 El Dorado,30002102,Governor,,REP,Neel Kashkari,157
@@ -2540,6 +2620,10 @@ El Dorado,30002102,Lieutenant Governor,,DEM,Gavin Newsom,205
 El Dorado,30002102,Lieutenant Governor,,REP,George Yang,36
 El Dorado,30002102,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,30002102,Lieutenant Governor,,REP,Ron Nehring,164
+El Dorado,30002102,Proposition 41,,,No,242
+El Dorado,30002102,Proposition 41,,,Yes,246
+El Dorado,30002102,Proposition 42,,,No,265
+El Dorado,30002102,Proposition 42,,,Yes,215
 El Dorado,30002102,Secretary of State,,DEM,Alex Padilla,108
 El Dorado,30002102,Secretary of State,,IND,Dan Schnur,75
 El Dorado,30002102,Secretary of State,,GRN,David Curtis,15
@@ -2573,19 +2657,15 @@ El Dorado,30002202,Controller,,REP,David Evans,88
 El Dorado,30002202,Controller,,DEM,John A. Pérez,40
 El Dorado,30002202,Controller,,GRN,Laura Wells,18
 El Dorado,30002202,Controller,,DEM,Tammy D. Blair,17
-El Dorado,30002202,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,30002202,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30002202,Governor,,REP,Alma Marie Winston,4
 El Dorado,30002202,Governor,,REP,Andrew Blount,9
 El Dorado,30002202,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,30002202,Governor,,DEM,"Edmund G. ""Jerry"" Brown",136
 El Dorado,30002202,Governor,,REP,Glenn Champ,3
-El Dorado,30002202,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,30002202,Governor,,IND,Joe Leicht,4
 El Dorado,30002202,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,30002202,Governor,,REP,Neel Kashkari,85
 El Dorado,30002202,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,30002202,Governor,,REP,Richard William Aguirre,0
 El Dorado,30002202,Governor,,IND,Robert Newman,3
 El Dorado,30002202,Governor,,REP,Tim Donnelly,58
 El Dorado,30002202,Insurance Commissioner,,DEM,Dave Jones,112
@@ -2599,6 +2679,10 @@ El Dorado,30002202,Lieutenant Governor,,DEM,Gavin Newsom,122
 El Dorado,30002202,Lieutenant Governor,,REP,George Yang,19
 El Dorado,30002202,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,30002202,Lieutenant Governor,,REP,Ron Nehring,104
+El Dorado,30002202,Proposition 41,,,No,118
+El Dorado,30002202,Proposition 41,,,Yes,178
+El Dorado,30002202,Proposition 42,,,No,125
+El Dorado,30002202,Proposition 42,,,Yes,164
 El Dorado,30002202,Secretary of State,,DEM,Alex Padilla,52
 El Dorado,30002202,Secretary of State,,IND,Dan Schnur,33
 El Dorado,30002202,Secretary of State,,GRN,David Curtis,10
@@ -2633,7 +2717,6 @@ El Dorado,30002302,Controller,,DEM,John A. Pérez,121
 El Dorado,30002302,Controller,,GRN,Laura Wells,64
 El Dorado,30002302,Controller,,DEM,Tammy D. Blair,36
 El Dorado,30002302,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",6
-El Dorado,30002302,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,30002302,Governor,,REP,Alma Marie Winston,10
 El Dorado,30002302,Governor,,REP,Andrew Blount,17
 El Dorado,30002302,Governor,,PAF,Cindy L. Sheehan,6
@@ -2658,6 +2741,10 @@ El Dorado,30002302,Lieutenant Governor,,DEM,Gavin Newsom,360
 El Dorado,30002302,Lieutenant Governor,,REP,George Yang,83
 El Dorado,30002302,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,30002302,Lieutenant Governor,,REP,Ron Nehring,342
+El Dorado,30002302,Proposition 41,,,No,404
+El Dorado,30002302,Proposition 41,,,Yes,561
+El Dorado,30002302,Proposition 42,,,No,544
+El Dorado,30002302,Proposition 42,,,Yes,394
 El Dorado,30002302,Secretary of State,,DEM,Alex Padilla,174
 El Dorado,30002302,Secretary of State,,IND,Dan Schnur,147
 El Dorado,30002302,Secretary of State,,GRN,David Curtis,22
@@ -2691,7 +2778,6 @@ El Dorado,40000111,Controller,,REP,David Evans,239
 El Dorado,40000111,Controller,,DEM,John A. Pérez,102
 El Dorado,40000111,Controller,,GRN,Laura Wells,43
 El Dorado,40000111,Controller,,DEM,Tammy D. Blair,27
-El Dorado,40000111,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 El Dorado,40000111,Governor,,DEM,Akinyemi Agbede,2
 El Dorado,40000111,Governor,,REP,Alma Marie Winston,11
 El Dorado,40000111,Governor,,REP,Andrew Blount,14
@@ -2699,7 +2785,6 @@ El Dorado,40000111,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,40000111,Governor,,DEM,"Edmund G. ""Jerry"" Brown",337
 El Dorado,40000111,Governor,,REP,Glenn Champ,18
 El Dorado,40000111,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,40000111,Governor,,IND,Joe Leicht,0
 El Dorado,40000111,Governor,,GRN,Luis J. Rodriguez,2
 El Dorado,40000111,Governor,,REP,Neel Kashkari,275
 El Dorado,40000111,Governor,,IND,Rakesh Kumar Christian,6
@@ -2717,6 +2802,10 @@ El Dorado,40000111,Lieutenant Governor,,DEM,Gavin Newsom,293
 El Dorado,40000111,Lieutenant Governor,,REP,George Yang,62
 El Dorado,40000111,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,40000111,Lieutenant Governor,,REP,Ron Nehring,324
+El Dorado,40000111,Proposition 41,,,No,374
+El Dorado,40000111,Proposition 41,,,Yes,437
+El Dorado,40000111,Proposition 42,,,No,416
+El Dorado,40000111,Proposition 42,,,Yes,364
 El Dorado,40000111,Secretary of State,,DEM,Alex Padilla,153
 El Dorado,40000111,Secretary of State,,IND,Dan Schnur,117
 El Dorado,40000111,Secretary of State,,GRN,David Curtis,20
@@ -2758,8 +2847,6 @@ El Dorado,40000203,Governor,,REP,Andrew Blount,14
 El Dorado,40000203,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,40000203,Governor,,DEM,"Edmund G. ""Jerry"" Brown",202
 El Dorado,40000203,Governor,,REP,Glenn Champ,12
-El Dorado,40000203,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,40000203,Governor,,IND,Joe Leicht,0
 El Dorado,40000203,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,40000203,Governor,,REP,Neel Kashkari,246
 El Dorado,40000203,Governor,,IND,Rakesh Kumar Christian,1
@@ -2777,6 +2864,10 @@ El Dorado,40000203,Lieutenant Governor,,DEM,Gavin Newsom,170
 El Dorado,40000203,Lieutenant Governor,,REP,George Yang,60
 El Dorado,40000203,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,40000203,Lieutenant Governor,,REP,Ron Nehring,267
+El Dorado,40000203,Proposition 41,,,No,340
+El Dorado,40000203,Proposition 41,,,Yes,283
+El Dorado,40000203,Proposition 42,,,No,328
+El Dorado,40000203,Proposition 42,,,Yes,266
 El Dorado,40000203,Secretary of State,,DEM,Alex Padilla,99
 El Dorado,40000203,Secretary of State,,IND,Dan Schnur,106
 El Dorado,40000203,Secretary of State,,GRN,David Curtis,16
@@ -2811,13 +2902,11 @@ El Dorado,40000303,Controller,,DEM,John A. Pérez,83
 El Dorado,40000303,Controller,,GRN,Laura Wells,36
 El Dorado,40000303,Controller,,DEM,Tammy D. Blair,29
 El Dorado,40000303,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",21
-El Dorado,40000303,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,40000303,Governor,,REP,Alma Marie Winston,4
 El Dorado,40000303,Governor,,REP,Andrew Blount,18
 El Dorado,40000303,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,40000303,Governor,,DEM,"Edmund G. ""Jerry"" Brown",271
 El Dorado,40000303,Governor,,REP,Glenn Champ,18
-El Dorado,40000303,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,40000303,Governor,,IND,Joe Leicht,1
 El Dorado,40000303,Governor,,GRN,Luis J. Rodriguez,8
 El Dorado,40000303,Governor,,REP,Neel Kashkari,217
@@ -2836,6 +2925,10 @@ El Dorado,40000303,Lieutenant Governor,,DEM,Gavin Newsom,249
 El Dorado,40000303,Lieutenant Governor,,REP,George Yang,48
 El Dorado,40000303,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,40000303,Lieutenant Governor,,REP,Ron Nehring,266
+El Dorado,40000303,Proposition 41,,,No,344
+El Dorado,40000303,Proposition 41,,,Yes,365
+El Dorado,40000303,Proposition 42,,,No,347
+El Dorado,40000303,Proposition 42,,,Yes,334
 El Dorado,40000303,Secretary of State,,DEM,Alex Padilla,116
 El Dorado,40000303,Secretary of State,,IND,Dan Schnur,101
 El Dorado,40000303,Secretary of State,,GRN,David Curtis,22
@@ -2895,6 +2988,10 @@ El Dorado,40000411,Lieutenant Governor,,DEM,Gavin Newsom,177
 El Dorado,40000411,Lieutenant Governor,,REP,George Yang,58
 El Dorado,40000411,Lieutenant Governor,,GRN,Jena F. Goodman,15
 El Dorado,40000411,Lieutenant Governor,,REP,Ron Nehring,206
+El Dorado,40000411,Proposition 41,,,No,264
+El Dorado,40000411,Proposition 41,,,Yes,286
+El Dorado,40000411,Proposition 42,,,No,278
+El Dorado,40000411,Proposition 42,,,Yes,260
 El Dorado,40000411,Secretary of State,,DEM,Alex Padilla,95
 El Dorado,40000411,Secretary of State,,IND,Dan Schnur,85
 El Dorado,40000411,Secretary of State,,GRN,David Curtis,16
@@ -2931,13 +3028,10 @@ El Dorado,40000504,Controller,,GRN,Laura Wells,23
 El Dorado,40000504,Controller,,DEM,Tammy D. Blair,9
 El Dorado,40000504,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",10
 El Dorado,40000504,Governor,,DEM,Akinyemi Agbede,1
-El Dorado,40000504,Governor,,REP,Alma Marie Winston,0
 El Dorado,40000504,Governor,,REP,Andrew Blount,6
 El Dorado,40000504,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,40000504,Governor,,DEM,"Edmund G. ""Jerry"" Brown",111
 El Dorado,40000504,Governor,,REP,Glenn Champ,3
-El Dorado,40000504,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,40000504,Governor,,IND,Joe Leicht,0
 El Dorado,40000504,Governor,,GRN,Luis J. Rodriguez,2
 El Dorado,40000504,Governor,,REP,Neel Kashkari,90
 El Dorado,40000504,Governor,,IND,Rakesh Kumar Christian,2
@@ -2955,6 +3049,10 @@ El Dorado,40000504,Lieutenant Governor,,DEM,Gavin Newsom,90
 El Dorado,40000504,Lieutenant Governor,,REP,George Yang,30
 El Dorado,40000504,Lieutenant Governor,,GRN,Jena F. Goodman,7
 El Dorado,40000504,Lieutenant Governor,,REP,Ron Nehring,87
+El Dorado,40000504,Proposition 41,,,No,142
+El Dorado,40000504,Proposition 41,,,Yes,136
+El Dorado,40000504,Proposition 42,,,No,130
+El Dorado,40000504,Proposition 42,,,Yes,132
 El Dorado,40000504,Secretary of State,,DEM,Alex Padilla,49
 El Dorado,40000504,Secretary of State,,IND,Dan Schnur,35
 El Dorado,40000504,Secretary of State,,GRN,David Curtis,15
@@ -2999,8 +3097,6 @@ El Dorado,40000603,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,40000603,Governor,,IND,Joe Leicht,2
 El Dorado,40000603,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,40000603,Governor,,REP,Neel Kashkari,210
-El Dorado,40000603,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,40000603,Governor,,REP,Richard William Aguirre,0
 El Dorado,40000603,Governor,,IND,Robert Newman,2
 El Dorado,40000603,Governor,,REP,Tim Donnelly,116
 El Dorado,40000603,Insurance Commissioner,,DEM,Dave Jones,270
@@ -3014,6 +3110,10 @@ El Dorado,40000603,Lieutenant Governor,,DEM,Gavin Newsom,261
 El Dorado,40000603,Lieutenant Governor,,REP,George Yang,51
 El Dorado,40000603,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,40000603,Lieutenant Governor,,REP,Ron Nehring,236
+El Dorado,40000603,Proposition 41,,,No,297
+El Dorado,40000603,Proposition 41,,,Yes,362
+El Dorado,40000603,Proposition 42,,,No,347
+El Dorado,40000603,Proposition 42,,,Yes,281
 El Dorado,40000603,Secretary of State,,DEM,Alex Padilla,130
 El Dorado,40000603,Secretary of State,,IND,Dan Schnur,123
 El Dorado,40000603,Secretary of State,,GRN,David Curtis,14
@@ -3054,7 +3154,6 @@ El Dorado,40000704,Governor,,REP,Andrew Blount,19
 El Dorado,40000704,Governor,,PAF,Cindy L. Sheehan,11
 El Dorado,40000704,Governor,,DEM,"Edmund G. ""Jerry"" Brown",304
 El Dorado,40000704,Governor,,REP,Glenn Champ,16
-El Dorado,40000704,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,40000704,Governor,,IND,Joe Leicht,2
 El Dorado,40000704,Governor,,GRN,Luis J. Rodriguez,6
 El Dorado,40000704,Governor,,REP,Neel Kashkari,295
@@ -3073,6 +3172,10 @@ El Dorado,40000704,Lieutenant Governor,,DEM,Gavin Newsom,258
 El Dorado,40000704,Lieutenant Governor,,REP,George Yang,84
 El Dorado,40000704,Lieutenant Governor,,GRN,Jena F. Goodman,18
 El Dorado,40000704,Lieutenant Governor,,REP,Ron Nehring,302
+El Dorado,40000704,Proposition 41,,,No,386
+El Dorado,40000704,Proposition 41,,,Yes,456
+El Dorado,40000704,Proposition 42,,,No,442
+El Dorado,40000704,Proposition 42,,,Yes,368
 El Dorado,40000704,Secretary of State,,DEM,Alex Padilla,128
 El Dorado,40000704,Secretary of State,,IND,Dan Schnur,113
 El Dorado,40000704,Secretary of State,,GRN,David Curtis,31
@@ -3117,7 +3220,6 @@ El Dorado,40001004,Governor,,IND,Janel Hyeshia Buycks,4
 El Dorado,40001004,Governor,,IND,Joe Leicht,1
 El Dorado,40001004,Governor,,GRN,Luis J. Rodriguez,12
 El Dorado,40001004,Governor,,REP,Neel Kashkari,245
-El Dorado,40001004,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,40001004,Governor,,REP,Richard William Aguirre,2
 El Dorado,40001004,Governor,,IND,Robert Newman,16
 El Dorado,40001004,Governor,,REP,Tim Donnelly,154
@@ -3132,6 +3234,10 @@ El Dorado,40001004,Lieutenant Governor,,DEM,Gavin Newsom,364
 El Dorado,40001004,Lieutenant Governor,,REP,George Yang,58
 El Dorado,40001004,Lieutenant Governor,,GRN,Jena F. Goodman,22
 El Dorado,40001004,Lieutenant Governor,,REP,Ron Nehring,282
+El Dorado,40001004,Proposition 41,,,No,368
+El Dorado,40001004,Proposition 41,,,Yes,499
+El Dorado,40001004,Proposition 42,,,No,437
+El Dorado,40001004,Proposition 42,,,Yes,388
 El Dorado,40001004,Secretary of State,,DEM,Alex Padilla,184
 El Dorado,40001004,Secretary of State,,IND,Dan Schnur,95
 El Dorado,40001004,Secretary of State,,GRN,David Curtis,43
@@ -3166,18 +3272,15 @@ El Dorado,40001203,Controller,,DEM,John A. Pérez,48
 El Dorado,40001203,Controller,,GRN,Laura Wells,29
 El Dorado,40001203,Controller,,DEM,Tammy D. Blair,23
 El Dorado,40001203,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-El Dorado,40001203,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,40001203,Governor,,REP,Alma Marie Winston,1
 El Dorado,40001203,Governor,,REP,Andrew Blount,6
 El Dorado,40001203,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,40001203,Governor,,DEM,"Edmund G. ""Jerry"" Brown",210
 El Dorado,40001203,Governor,,REP,Glenn Champ,8
-El Dorado,40001203,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,40001203,Governor,,IND,Joe Leicht,1
 El Dorado,40001203,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,40001203,Governor,,REP,Neel Kashkari,117
 El Dorado,40001203,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,40001203,Governor,,REP,Richard William Aguirre,0
 El Dorado,40001203,Governor,,IND,Robert Newman,6
 El Dorado,40001203,Governor,,REP,Tim Donnelly,66
 El Dorado,40001203,Insurance Commissioner,,DEM,Dave Jones,166
@@ -3191,6 +3294,10 @@ El Dorado,40001203,Lieutenant Governor,,DEM,Gavin Newsom,168
 El Dorado,40001203,Lieutenant Governor,,REP,George Yang,29
 El Dorado,40001203,Lieutenant Governor,,GRN,Jena F. Goodman,12
 El Dorado,40001203,Lieutenant Governor,,REP,Ron Nehring,145
+El Dorado,40001203,Proposition 41,,,No,193
+El Dorado,40001203,Proposition 41,,,Yes,228
+El Dorado,40001203,Proposition 42,,,No,202
+El Dorado,40001203,Proposition 42,,,Yes,210
 El Dorado,40001203,Secretary of State,,DEM,Alex Padilla,72
 El Dorado,40001203,Secretary of State,,IND,Dan Schnur,60
 El Dorado,40001203,Secretary of State,,GRN,David Curtis,16
@@ -3225,14 +3332,11 @@ El Dorado,40001303,Controller,,DEM,John A. Pérez,28
 El Dorado,40001303,Controller,,GRN,Laura Wells,26
 El Dorado,40001303,Controller,,DEM,Tammy D. Blair,10
 El Dorado,40001303,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-El Dorado,40001303,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,40001303,Governor,,REP,Alma Marie Winston,3
 El Dorado,40001303,Governor,,REP,Andrew Blount,5
 El Dorado,40001303,Governor,,PAF,Cindy L. Sheehan,1
 El Dorado,40001303,Governor,,DEM,"Edmund G. ""Jerry"" Brown",99
 El Dorado,40001303,Governor,,REP,Glenn Champ,8
-El Dorado,40001303,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,40001303,Governor,,IND,Joe Leicht,0
 El Dorado,40001303,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,40001303,Governor,,REP,Neel Kashkari,122
 El Dorado,40001303,Governor,,IND,Rakesh Kumar Christian,4
@@ -3250,6 +3354,10 @@ El Dorado,40001303,Lieutenant Governor,,DEM,Gavin Newsom,85
 El Dorado,40001303,Lieutenant Governor,,REP,George Yang,31
 El Dorado,40001303,Lieutenant Governor,,GRN,Jena F. Goodman,9
 El Dorado,40001303,Lieutenant Governor,,REP,Ron Nehring,129
+El Dorado,40001303,Proposition 41,,,No,148
+El Dorado,40001303,Proposition 41,,,Yes,156
+El Dorado,40001303,Proposition 42,,,No,159
+El Dorado,40001303,Proposition 42,,,Yes,126
 El Dorado,40001303,Secretary of State,,DEM,Alex Padilla,43
 El Dorado,40001303,Secretary of State,,IND,Dan Schnur,50
 El Dorado,40001303,Secretary of State,,GRN,David Curtis,13
@@ -3291,7 +3399,6 @@ El Dorado,40001403,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,40001403,Governor,,DEM,"Edmund G. ""Jerry"" Brown",288
 El Dorado,40001403,Governor,,REP,Glenn Champ,9
 El Dorado,40001403,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,40001403,Governor,,IND,Joe Leicht,0
 El Dorado,40001403,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,40001403,Governor,,REP,Neel Kashkari,226
 El Dorado,40001403,Governor,,IND,Rakesh Kumar Christian,1
@@ -3309,6 +3416,10 @@ El Dorado,40001403,Lieutenant Governor,,DEM,Gavin Newsom,241
 El Dorado,40001403,Lieutenant Governor,,REP,George Yang,38
 El Dorado,40001403,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,40001403,Lieutenant Governor,,REP,Ron Nehring,263
+El Dorado,40001403,Proposition 41,,,No,372
+El Dorado,40001403,Proposition 41,,,Yes,309
+El Dorado,40001403,Proposition 42,,,No,355
+El Dorado,40001403,Proposition 42,,,Yes,311
 El Dorado,40001403,Secretary of State,,DEM,Alex Padilla,127
 El Dorado,40001403,Secretary of State,,IND,Dan Schnur,110
 El Dorado,40001403,Secretary of State,,GRN,David Curtis,24
@@ -3344,7 +3455,6 @@ El Dorado,40001703,Controller,,GRN,Laura Wells,39
 El Dorado,40001703,Controller,,DEM,Tammy D. Blair,20
 El Dorado,40001703,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 El Dorado,40001703,Governor,,DEM,Akinyemi Agbede,4
-El Dorado,40001703,Governor,,REP,Alma Marie Winston,0
 El Dorado,40001703,Governor,,REP,Andrew Blount,6
 El Dorado,40001703,Governor,,PAF,Cindy L. Sheehan,1
 El Dorado,40001703,Governor,,DEM,"Edmund G. ""Jerry"" Brown",203
@@ -3353,7 +3463,6 @@ El Dorado,40001703,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,40001703,Governor,,IND,Joe Leicht,2
 El Dorado,40001703,Governor,,GRN,Luis J. Rodriguez,5
 El Dorado,40001703,Governor,,REP,Neel Kashkari,244
-El Dorado,40001703,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,40001703,Governor,,REP,Richard William Aguirre,5
 El Dorado,40001703,Governor,,IND,Robert Newman,10
 El Dorado,40001703,Governor,,REP,Tim Donnelly,132
@@ -3368,6 +3477,10 @@ El Dorado,40001703,Lieutenant Governor,,DEM,Gavin Newsom,197
 El Dorado,40001703,Lieutenant Governor,,REP,George Yang,66
 El Dorado,40001703,Lieutenant Governor,,GRN,Jena F. Goodman,10
 El Dorado,40001703,Lieutenant Governor,,REP,Ron Nehring,268
+El Dorado,40001703,Proposition 41,,,No,303
+El Dorado,40001703,Proposition 41,,,Yes,317
+El Dorado,40001703,Proposition 42,,,No,299
+El Dorado,40001703,Proposition 42,,,Yes,289
 El Dorado,40001703,Secretary of State,,DEM,Alex Padilla,87
 El Dorado,40001703,Secretary of State,,IND,Dan Schnur,95
 El Dorado,40001703,Secretary of State,,GRN,David Curtis,19
@@ -3408,12 +3521,8 @@ El Dorado,40001803,Governor,,REP,Andrew Blount,7
 El Dorado,40001803,Governor,,PAF,Cindy L. Sheehan,1
 El Dorado,40001803,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 El Dorado,40001803,Governor,,REP,Glenn Champ,3
-El Dorado,40001803,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,40001803,Governor,,IND,Joe Leicht,0
 El Dorado,40001803,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,40001803,Governor,,REP,Neel Kashkari,101
-El Dorado,40001803,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,40001803,Governor,,REP,Richard William Aguirre,0
 El Dorado,40001803,Governor,,IND,Robert Newman,1
 El Dorado,40001803,Governor,,REP,Tim Donnelly,42
 El Dorado,40001803,Insurance Commissioner,,DEM,Dave Jones,61
@@ -3427,6 +3536,10 @@ El Dorado,40001803,Lieutenant Governor,,DEM,Gavin Newsom,61
 El Dorado,40001803,Lieutenant Governor,,REP,George Yang,28
 El Dorado,40001803,Lieutenant Governor,,GRN,Jena F. Goodman,5
 El Dorado,40001803,Lieutenant Governor,,REP,Ron Nehring,91
+El Dorado,40001803,Proposition 41,,,No,121
+El Dorado,40001803,Proposition 41,,,Yes,109
+El Dorado,40001803,Proposition 42,,,No,136
+El Dorado,40001803,Proposition 42,,,Yes,88
 El Dorado,40001803,Secretary of State,,DEM,Alex Padilla,33
 El Dorado,40001803,Secretary of State,,IND,Dan Schnur,46
 El Dorado,40001803,Secretary of State,,GRN,David Curtis,9
@@ -3460,8 +3573,6 @@ El Dorado,40002003,Controller,,REP,David Evans,101
 El Dorado,40002003,Controller,,DEM,John A. Pérez,35
 El Dorado,40002003,Controller,,GRN,Laura Wells,25
 El Dorado,40002003,Controller,,DEM,Tammy D. Blair,7
-El Dorado,40002003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,40002003,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,40002003,Governor,,REP,Alma Marie Winston,4
 El Dorado,40002003,Governor,,REP,Andrew Blount,7
 El Dorado,40002003,Governor,,PAF,Cindy L. Sheehan,6
@@ -3471,7 +3582,6 @@ El Dorado,40002003,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,40002003,Governor,,IND,Joe Leicht,1
 El Dorado,40002003,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,40002003,Governor,,REP,Neel Kashkari,111
-El Dorado,40002003,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,40002003,Governor,,REP,Richard William Aguirre,2
 El Dorado,40002003,Governor,,IND,Robert Newman,3
 El Dorado,40002003,Governor,,REP,Tim Donnelly,53
@@ -3486,6 +3596,10 @@ El Dorado,40002003,Lieutenant Governor,,DEM,Gavin Newsom,109
 El Dorado,40002003,Lieutenant Governor,,REP,George Yang,17
 El Dorado,40002003,Lieutenant Governor,,GRN,Jena F. Goodman,12
 El Dorado,40002003,Lieutenant Governor,,REP,Ron Nehring,124
+El Dorado,40002003,Proposition 41,,,No,164
+El Dorado,40002003,Proposition 41,,,Yes,153
+El Dorado,40002003,Proposition 42,,,No,183
+El Dorado,40002003,Proposition 42,,,Yes,123
 El Dorado,40002003,Secretary of State,,DEM,Alex Padilla,61
 El Dorado,40002003,Secretary of State,,IND,Dan Schnur,47
 El Dorado,40002003,Secretary of State,,GRN,David Curtis,13
@@ -3526,11 +3640,8 @@ El Dorado,40002103,Governor,,REP,Andrew Blount,12
 El Dorado,40002103,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,40002103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",228
 El Dorado,40002103,Governor,,REP,Glenn Champ,13
-El Dorado,40002103,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,40002103,Governor,,IND,Joe Leicht,0
 El Dorado,40002103,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,40002103,Governor,,REP,Neel Kashkari,238
-El Dorado,40002103,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,40002103,Governor,,REP,Richard William Aguirre,2
 El Dorado,40002103,Governor,,IND,Robert Newman,13
 El Dorado,40002103,Governor,,REP,Tim Donnelly,109
@@ -3545,6 +3656,10 @@ El Dorado,40002103,Lieutenant Governor,,DEM,Gavin Newsom,201
 El Dorado,40002103,Lieutenant Governor,,REP,George Yang,63
 El Dorado,40002103,Lieutenant Governor,,GRN,Jena F. Goodman,8
 El Dorado,40002103,Lieutenant Governor,,REP,Ron Nehring,244
+El Dorado,40002103,Proposition 41,,,No,304
+El Dorado,40002103,Proposition 41,,,Yes,306
+El Dorado,40002103,Proposition 42,,,No,310
+El Dorado,40002103,Proposition 42,,,Yes,280
 El Dorado,40002103,Secretary of State,,DEM,Alex Padilla,81
 El Dorado,40002103,Secretary of State,,IND,Dan Schnur,128
 El Dorado,40002103,Secretary of State,,GRN,David Curtis,11
@@ -3589,7 +3704,6 @@ El Dorado,50000108,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,50000108,Governor,,IND,Joe Leicht,3
 El Dorado,50000108,Governor,,GRN,Luis J. Rodriguez,6
 El Dorado,50000108,Governor,,REP,Neel Kashkari,82
-El Dorado,50000108,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,50000108,Governor,,REP,Richard William Aguirre,4
 El Dorado,50000108,Governor,,IND,Robert Newman,11
 El Dorado,50000108,Governor,,REP,Tim Donnelly,80
@@ -3604,6 +3718,10 @@ El Dorado,50000108,Lieutenant Governor,,DEM,Gavin Newsom,308
 El Dorado,50000108,Lieutenant Governor,,REP,George Yang,34
 El Dorado,50000108,Lieutenant Governor,,GRN,Jena F. Goodman,13
 El Dorado,50000108,Lieutenant Governor,,REP,Ron Nehring,127
+El Dorado,50000108,Proposition 41,,,No,190
+El Dorado,50000108,Proposition 41,,,Yes,373
+El Dorado,50000108,Proposition 42,,,No,234
+El Dorado,50000108,Proposition 42,,,Yes,294
 El Dorado,50000108,Secretary of State,,DEM,Alex Padilla,132
 El Dorado,50000108,Secretary of State,,IND,Dan Schnur,57
 El Dorado,50000108,Secretary of State,,GRN,David Curtis,16
@@ -3644,12 +3762,9 @@ El Dorado,50000206,Governor,,REP,Andrew Blount,8
 El Dorado,50000206,Governor,,PAF,Cindy L. Sheehan,9
 El Dorado,50000206,Governor,,DEM,"Edmund G. ""Jerry"" Brown",232
 El Dorado,50000206,Governor,,REP,Glenn Champ,13
-El Dorado,50000206,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,50000206,Governor,,IND,Joe Leicht,5
 El Dorado,50000206,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,50000206,Governor,,REP,Neel Kashkari,38
-El Dorado,50000206,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,50000206,Governor,,REP,Richard William Aguirre,0
 El Dorado,50000206,Governor,,IND,Robert Newman,4
 El Dorado,50000206,Governor,,REP,Tim Donnelly,53
 El Dorado,50000206,Insurance Commissioner,,DEM,Dave Jones,198
@@ -3663,6 +3778,10 @@ El Dorado,50000206,Lieutenant Governor,,DEM,Gavin Newsom,196
 El Dorado,50000206,Lieutenant Governor,,REP,George Yang,22
 El Dorado,50000206,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,50000206,Lieutenant Governor,,REP,Ron Nehring,84
+El Dorado,50000206,Proposition 41,,,No,115
+El Dorado,50000206,Proposition 41,,,Yes,252
+El Dorado,50000206,Proposition 42,,,No,136
+El Dorado,50000206,Proposition 42,,,Yes,224
 El Dorado,50000206,Secretary of State,,DEM,Alex Padilla,97
 El Dorado,50000206,Secretary of State,,IND,Dan Schnur,36
 El Dorado,50000206,Secretary of State,,GRN,David Curtis,19
@@ -3703,7 +3822,6 @@ El Dorado,50000308,Governor,,REP,Andrew Blount,10
 El Dorado,50000308,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,50000308,Governor,,DEM,"Edmund G. ""Jerry"" Brown",186
 El Dorado,50000308,Governor,,REP,Glenn Champ,2
-El Dorado,50000308,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,50000308,Governor,,IND,Joe Leicht,1
 El Dorado,50000308,Governor,,GRN,Luis J. Rodriguez,7
 El Dorado,50000308,Governor,,REP,Neel Kashkari,41
@@ -3722,6 +3840,10 @@ El Dorado,50000308,Lieutenant Governor,,DEM,Gavin Newsom,154
 El Dorado,50000308,Lieutenant Governor,,REP,George Yang,19
 El Dorado,50000308,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,50000308,Lieutenant Governor,,REP,Ron Nehring,55
+El Dorado,50000308,Proposition 41,,,No,105
+El Dorado,50000308,Proposition 41,,,Yes,183
+El Dorado,50000308,Proposition 42,,,No,111
+El Dorado,50000308,Proposition 42,,,Yes,163
 El Dorado,50000308,Secretary of State,,DEM,Alex Padilla,63
 El Dorado,50000308,Secretary of State,,IND,Dan Schnur,21
 El Dorado,50000308,Secretary of State,,GRN,David Curtis,16
@@ -3756,7 +3878,6 @@ El Dorado,50000506,Controller,,DEM,John A. Pérez,82
 El Dorado,50000506,Controller,,GRN,Laura Wells,52
 El Dorado,50000506,Controller,,DEM,Tammy D. Blair,32
 El Dorado,50000506,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-El Dorado,50000506,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,50000506,Governor,,REP,Alma Marie Winston,5
 El Dorado,50000506,Governor,,REP,Andrew Blount,10
 El Dorado,50000506,Governor,,PAF,Cindy L. Sheehan,15
@@ -3767,7 +3888,6 @@ El Dorado,50000506,Governor,,IND,Joe Leicht,3
 El Dorado,50000506,Governor,,GRN,Luis J. Rodriguez,9
 El Dorado,50000506,Governor,,REP,Neel Kashkari,39
 El Dorado,50000506,Governor,,IND,Rakesh Kumar Christian,4
-El Dorado,50000506,Governor,,REP,Richard William Aguirre,0
 El Dorado,50000506,Governor,,IND,Robert Newman,6
 El Dorado,50000506,Governor,,REP,Tim Donnelly,56
 El Dorado,50000506,Insurance Commissioner,,DEM,Dave Jones,231
@@ -3781,6 +3901,10 @@ El Dorado,50000506,Lieutenant Governor,,DEM,Gavin Newsom,236
 El Dorado,50000506,Lieutenant Governor,,REP,George Yang,16
 El Dorado,50000506,Lieutenant Governor,,GRN,Jena F. Goodman,21
 El Dorado,50000506,Lieutenant Governor,,REP,Ron Nehring,83
+El Dorado,50000506,Proposition 41,,,No,131
+El Dorado,50000506,Proposition 41,,,Yes,292
+El Dorado,50000506,Proposition 42,,,No,154
+El Dorado,50000506,Proposition 42,,,Yes,243
 El Dorado,50000506,Secretary of State,,DEM,Alex Padilla,102
 El Dorado,50000506,Secretary of State,,IND,Dan Schnur,35
 El Dorado,50000506,Secretary of State,,GRN,David Curtis,40
@@ -3840,6 +3964,10 @@ El Dorado,50000606,Lieutenant Governor,,DEM,Gavin Newsom,216
 El Dorado,50000606,Lieutenant Governor,,REP,George Yang,16
 El Dorado,50000606,Lieutenant Governor,,GRN,Jena F. Goodman,18
 El Dorado,50000606,Lieutenant Governor,,REP,Ron Nehring,75
+El Dorado,50000606,Proposition 41,,,No,117
+El Dorado,50000606,Proposition 41,,,Yes,286
+El Dorado,50000606,Proposition 42,,,No,157
+El Dorado,50000606,Proposition 42,,,Yes,227
 El Dorado,50000606,Secretary of State,,DEM,Alex Padilla,93
 El Dorado,50000606,Secretary of State,,IND,Dan Schnur,26
 El Dorado,50000606,Secretary of State,,GRN,David Curtis,38
@@ -3899,6 +4027,10 @@ El Dorado,50000706,Lieutenant Governor,,DEM,Gavin Newsom,332
 El Dorado,50000706,Lieutenant Governor,,REP,George Yang,33
 El Dorado,50000706,Lieutenant Governor,,GRN,Jena F. Goodman,26
 El Dorado,50000706,Lieutenant Governor,,REP,Ron Nehring,168
+El Dorado,50000706,Proposition 41,,,No,242
+El Dorado,50000706,Proposition 41,,,Yes,414
+El Dorado,50000706,Proposition 42,,,No,267
+El Dorado,50000706,Proposition 42,,,Yes,336
 El Dorado,50000706,Secretary of State,,DEM,Alex Padilla,154
 El Dorado,50000706,Secretary of State,,IND,Dan Schnur,84
 El Dorado,50000706,Secretary of State,,GRN,David Curtis,29
@@ -3944,7 +4076,6 @@ El Dorado,50000906,Governor,,IND,Joe Leicht,1
 El Dorado,50000906,Governor,,GRN,Luis J. Rodriguez,8
 El Dorado,50000906,Governor,,REP,Neel Kashkari,39
 El Dorado,50000906,Governor,,IND,Rakesh Kumar Christian,2
-El Dorado,50000906,Governor,,REP,Richard William Aguirre,0
 El Dorado,50000906,Governor,,IND,Robert Newman,4
 El Dorado,50000906,Governor,,REP,Tim Donnelly,28
 El Dorado,50000906,Insurance Commissioner,,DEM,Dave Jones,154
@@ -3958,6 +4089,10 @@ El Dorado,50000906,Lieutenant Governor,,DEM,Gavin Newsom,163
 El Dorado,50000906,Lieutenant Governor,,REP,George Yang,8
 El Dorado,50000906,Lieutenant Governor,,GRN,Jena F. Goodman,7
 El Dorado,50000906,Lieutenant Governor,,REP,Ron Nehring,63
+El Dorado,50000906,Proposition 41,,,No,81
+El Dorado,50000906,Proposition 41,,,Yes,193
+El Dorado,50000906,Proposition 42,,,No,109
+El Dorado,50000906,Proposition 42,,,Yes,151
 El Dorado,50000906,Secretary of State,,DEM,Alex Padilla,60
 El Dorado,50000906,Secretary of State,,IND,Dan Schnur,24
 El Dorado,50000906,Secretary of State,,GRN,David Curtis,17
@@ -4017,6 +4152,10 @@ El Dorado,50001106,Lieutenant Governor,,DEM,Gavin Newsom,147
 El Dorado,50001106,Lieutenant Governor,,REP,George Yang,20
 El Dorado,50001106,Lieutenant Governor,,GRN,Jena F. Goodman,11
 El Dorado,50001106,Lieutenant Governor,,REP,Ron Nehring,63
+El Dorado,50001106,Proposition 41,,,No,86
+El Dorado,50001106,Proposition 41,,,Yes,203
+El Dorado,50001106,Proposition 42,,,No,110
+El Dorado,50001106,Proposition 42,,,Yes,146
 El Dorado,50001106,Secretary of State,,DEM,Alex Padilla,67
 El Dorado,50001106,Secretary of State,,IND,Dan Schnur,27
 El Dorado,50001106,Secretary of State,,GRN,David Curtis,17
@@ -4061,7 +4200,6 @@ El Dorado,50001208,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,50001208,Governor,,IND,Joe Leicht,2
 El Dorado,50001208,Governor,,GRN,Luis J. Rodriguez,8
 El Dorado,50001208,Governor,,REP,Neel Kashkari,69
-El Dorado,50001208,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,50001208,Governor,,REP,Richard William Aguirre,2
 El Dorado,50001208,Governor,,IND,Robert Newman,6
 El Dorado,50001208,Governor,,REP,Tim Donnelly,79
@@ -4076,6 +4214,10 @@ El Dorado,50001208,Lieutenant Governor,,DEM,Gavin Newsom,286
 El Dorado,50001208,Lieutenant Governor,,REP,George Yang,29
 El Dorado,50001208,Lieutenant Governor,,GRN,Jena F. Goodman,15
 El Dorado,50001208,Lieutenant Governor,,REP,Ron Nehring,105
+El Dorado,50001208,Proposition 41,,,No,179
+El Dorado,50001208,Proposition 41,,,Yes,320
+El Dorado,50001208,Proposition 42,,,No,219
+El Dorado,50001208,Proposition 42,,,Yes,249
 El Dorado,50001208,Secretary of State,,DEM,Alex Padilla,138
 El Dorado,50001208,Secretary of State,,IND,Dan Schnur,35
 El Dorado,50001208,Secretary of State,,GRN,David Curtis,27
@@ -4116,7 +4258,6 @@ El Dorado,50001508,Governor,,REP,Andrew Blount,10
 El Dorado,50001508,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,50001508,Governor,,DEM,"Edmund G. ""Jerry"" Brown",226
 El Dorado,50001508,Governor,,REP,Glenn Champ,4
-El Dorado,50001508,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,50001508,Governor,,IND,Joe Leicht,3
 El Dorado,50001508,Governor,,GRN,Luis J. Rodriguez,7
 El Dorado,50001508,Governor,,REP,Neel Kashkari,50
@@ -4135,6 +4276,10 @@ El Dorado,50001508,Lieutenant Governor,,DEM,Gavin Newsom,210
 El Dorado,50001508,Lieutenant Governor,,REP,George Yang,14
 El Dorado,50001508,Lieutenant Governor,,GRN,Jena F. Goodman,12
 El Dorado,50001508,Lieutenant Governor,,REP,Ron Nehring,62
+El Dorado,50001508,Proposition 41,,,No,139
+El Dorado,50001508,Proposition 41,,,Yes,230
+El Dorado,50001508,Proposition 42,,,No,161
+El Dorado,50001508,Proposition 42,,,Yes,189
 El Dorado,50001508,Secretary of State,,DEM,Alex Padilla,92
 El Dorado,50001508,Secretary of State,,IND,Dan Schnur,31
 El Dorado,50001508,Secretary of State,,GRN,David Curtis,25
@@ -4169,13 +4314,11 @@ El Dorado,50002005,Controller,,DEM,John A. Pérez,82
 El Dorado,50002005,Controller,,GRN,Laura Wells,35
 El Dorado,50002005,Controller,,DEM,Tammy D. Blair,35
 El Dorado,50002005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-El Dorado,50002005,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,50002005,Governor,,REP,Alma Marie Winston,6
 El Dorado,50002005,Governor,,REP,Andrew Blount,6
 El Dorado,50002005,Governor,,PAF,Cindy L. Sheehan,8
 El Dorado,50002005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",264
 El Dorado,50002005,Governor,,REP,Glenn Champ,12
-El Dorado,50002005,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,50002005,Governor,,IND,Joe Leicht,4
 El Dorado,50002005,Governor,,GRN,Luis J. Rodriguez,8
 El Dorado,50002005,Governor,,REP,Neel Kashkari,152
@@ -4194,6 +4337,10 @@ El Dorado,50002005,Lieutenant Governor,,DEM,Gavin Newsom,232
 El Dorado,50002005,Lieutenant Governor,,REP,George Yang,40
 El Dorado,50002005,Lieutenant Governor,,GRN,Jena F. Goodman,22
 El Dorado,50002005,Lieutenant Governor,,REP,Ron Nehring,156
+El Dorado,50002005,Proposition 41,,,No,246
+El Dorado,50002005,Proposition 41,,,Yes,307
+El Dorado,50002005,Proposition 42,,,No,272
+El Dorado,50002005,Proposition 42,,,Yes,262
 El Dorado,50002005,Secretary of State,,DEM,Alex Padilla,96
 El Dorado,50002005,Secretary of State,,IND,Dan Schnur,55
 El Dorado,50002005,Secretary of State,,GRN,David Curtis,38
@@ -4228,18 +4375,15 @@ El Dorado,50002105,Controller,,DEM,John A. Pérez,66
 El Dorado,50002105,Controller,,GRN,Laura Wells,25
 El Dorado,50002105,Controller,,DEM,Tammy D. Blair,33
 El Dorado,50002105,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",7
-El Dorado,50002105,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,50002105,Governor,,REP,Alma Marie Winston,3
 El Dorado,50002105,Governor,,REP,Andrew Blount,7
 El Dorado,50002105,Governor,,PAF,Cindy L. Sheehan,5
 El Dorado,50002105,Governor,,DEM,"Edmund G. ""Jerry"" Brown",236
 El Dorado,50002105,Governor,,REP,Glenn Champ,16
-El Dorado,50002105,Governor,,IND,Janel Hyeshia Buycks,0
 El Dorado,50002105,Governor,,IND,Joe Leicht,3
 El Dorado,50002105,Governor,,GRN,Luis J. Rodriguez,4
 El Dorado,50002105,Governor,,REP,Neel Kashkari,214
 El Dorado,50002105,Governor,,IND,Rakesh Kumar Christian,2
-El Dorado,50002105,Governor,,REP,Richard William Aguirre,0
 El Dorado,50002105,Governor,,IND,Robert Newman,4
 El Dorado,50002105,Governor,,REP,Tim Donnelly,88
 El Dorado,50002105,Insurance Commissioner,,DEM,Dave Jones,202
@@ -4253,6 +4397,10 @@ El Dorado,50002105,Lieutenant Governor,,DEM,Gavin Newsom,214
 El Dorado,50002105,Lieutenant Governor,,REP,George Yang,40
 El Dorado,50002105,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,50002105,Lieutenant Governor,,REP,Ron Nehring,216
+El Dorado,50002105,Proposition 41,,,No,278
+El Dorado,50002105,Proposition 41,,,Yes,290
+El Dorado,50002105,Proposition 42,,,No,294
+El Dorado,50002105,Proposition 42,,,Yes,250
 El Dorado,50002105,Secretary of State,,DEM,Alex Padilla,95
 El Dorado,50002105,Secretary of State,,IND,Dan Schnur,75
 El Dorado,50002105,Secretary of State,,GRN,David Curtis,19
@@ -4287,17 +4435,13 @@ El Dorado,95U20101,Controller,,DEM,John A. Pérez,18
 El Dorado,95U20101,Controller,,GRN,Laura Wells,12
 El Dorado,95U20101,Controller,,DEM,Tammy D. Blair,15
 El Dorado,95U20101,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",6
-El Dorado,95U20101,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U20101,Governor,,REP,Alma Marie Winston,2
 El Dorado,95U20101,Governor,,REP,Andrew Blount,6
 El Dorado,95U20101,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,95U20101,Governor,,DEM,"Edmund G. ""Jerry"" Brown",92
 El Dorado,95U20101,Governor,,REP,Glenn Champ,9
-El Dorado,95U20101,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U20101,Governor,,IND,Joe Leicht,0
 El Dorado,95U20101,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,95U20101,Governor,,REP,Neel Kashkari,68
-El Dorado,95U20101,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,95U20101,Governor,,REP,Richard William Aguirre,2
 El Dorado,95U20101,Governor,,IND,Robert Newman,3
 El Dorado,95U20101,Governor,,REP,Tim Donnelly,55
@@ -4312,6 +4456,10 @@ El Dorado,95U20101,Lieutenant Governor,,DEM,Gavin Newsom,85
 El Dorado,95U20101,Lieutenant Governor,,REP,George Yang,22
 El Dorado,95U20101,Lieutenant Governor,,GRN,Jena F. Goodman,3
 El Dorado,95U20101,Lieutenant Governor,,REP,Ron Nehring,94
+El Dorado,95U20101,Proposition 41,,,No,127
+El Dorado,95U20101,Proposition 41,,,Yes,115
+El Dorado,95U20101,Proposition 42,,,No,122
+El Dorado,95U20101,Proposition 42,,,Yes,110
 El Dorado,95U20101,Secretary of State,,DEM,Alex Padilla,40
 El Dorado,95U20101,Secretary of State,,IND,Dan Schnur,38
 El Dorado,95U20101,Secretary of State,,GRN,David Curtis,12
@@ -4346,14 +4494,12 @@ El Dorado,95U20201,Controller,,DEM,John A. Pérez,53
 El Dorado,95U20201,Controller,,GRN,Laura Wells,32
 El Dorado,95U20201,Controller,,DEM,Tammy D. Blair,12
 El Dorado,95U20201,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-El Dorado,95U20201,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U20201,Governor,,REP,Alma Marie Winston,8
 El Dorado,95U20201,Governor,,REP,Andrew Blount,5
 El Dorado,95U20201,Governor,,PAF,Cindy L. Sheehan,6
 El Dorado,95U20201,Governor,,DEM,"Edmund G. ""Jerry"" Brown",173
 El Dorado,95U20201,Governor,,REP,Glenn Champ,10
 El Dorado,95U20201,Governor,,IND,Janel Hyeshia Buycks,3
-El Dorado,95U20201,Governor,,IND,Joe Leicht,0
 El Dorado,95U20201,Governor,,GRN,Luis J. Rodriguez,5
 El Dorado,95U20201,Governor,,REP,Neel Kashkari,110
 El Dorado,95U20201,Governor,,IND,Rakesh Kumar Christian,2
@@ -4371,6 +4517,10 @@ El Dorado,95U20201,Lieutenant Governor,,DEM,Gavin Newsom,153
 El Dorado,95U20201,Lieutenant Governor,,REP,George Yang,28
 El Dorado,95U20201,Lieutenant Governor,,GRN,Jena F. Goodman,14
 El Dorado,95U20201,Lieutenant Governor,,REP,Ron Nehring,158
+El Dorado,95U20201,Proposition 41,,,No,175
+El Dorado,95U20201,Proposition 41,,,Yes,224
+El Dorado,95U20201,Proposition 42,,,No,206
+El Dorado,95U20201,Proposition 42,,,Yes,170
 El Dorado,95U20201,Secretary of State,,DEM,Alex Padilla,72
 El Dorado,95U20201,Secretary of State,,IND,Dan Schnur,51
 El Dorado,95U20201,Secretary of State,,GRN,David Curtis,16
@@ -4389,65 +4539,6 @@ El Dorado,95U20201,Treasurer,,DEM,John Chiang,170
 El Dorado,95U20201,U.S. House,4,REP,"Arthur ""Art"" Moore",84
 El Dorado,95U20201,U.S. House,4,IND,Jeffrey D. Gerlach,83
 El Dorado,95U20201,U.S. House,4,REP,Tom McClintock,220
-El Dorado,95U20301,Attorney General,,REP,David King,0
-El Dorado,95U20301,Attorney General,,REP,John Haggerty,0
-El Dorado,95U20301,Attorney General,,LIB,Jonathan Jaech,0
-El Dorado,95U20301,Attorney General,,DEM,Kamala D. Harris,0
-El Dorado,95U20301,Attorney General,,IND,Orly Taitz,0
-El Dorado,95U20301,Attorney General,,REP,Phil Wyman,0
-El Dorado,95U20301,Attorney General,,REP,Ronald Gold,0
-El Dorado,95U20301,Board of Equalization,1,DEM,Chris Parker,0
-El Dorado,95U20301,Board of Equalization,1,REP,George Runner,0
-El Dorado,95U20301,Controller,,REP,Ashley Swearengin,0
-El Dorado,95U20301,Controller,,DEM,Betty T. Yee,0
-El Dorado,95U20301,Controller,,REP,David Evans,0
-El Dorado,95U20301,Controller,,DEM,John A. Pérez,0
-El Dorado,95U20301,Controller,,GRN,Laura Wells,0
-El Dorado,95U20301,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U20301,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U20301,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U20301,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U20301,Governor,,REP,Andrew Blount,0
-El Dorado,95U20301,Governor,,PAF,Cindy L. Sheehan,0
-El Dorado,95U20301,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-El Dorado,95U20301,Governor,,REP,Glenn Champ,0
-El Dorado,95U20301,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U20301,Governor,,IND,Joe Leicht,0
-El Dorado,95U20301,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U20301,Governor,,REP,Neel Kashkari,0
-El Dorado,95U20301,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U20301,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U20301,Governor,,IND,Robert Newman,0
-El Dorado,95U20301,Governor,,REP,Tim Donnelly,0
-El Dorado,95U20301,Insurance Commissioner,,DEM,Dave Jones,0
-El Dorado,95U20301,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-El Dorado,95U20301,Insurance Commissioner,,REP,Ted Gaines,0
-El Dorado,95U20301,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U20301,Lieutenant Governor,,PAF,Amos Johnson,0
-El Dorado,95U20301,Lieutenant Governor,,REP,David Fennell,0
-El Dorado,95U20301,Lieutenant Governor,,DEM,Eric Korevaar,0
-El Dorado,95U20301,Lieutenant Governor,,DEM,Gavin Newsom,0
-El Dorado,95U20301,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U20301,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,95U20301,Lieutenant Governor,,REP,Ron Nehring,0
-El Dorado,95U20301,Secretary of State,,DEM,Alex Padilla,0
-El Dorado,95U20301,Secretary of State,,IND,Dan Schnur,0
-El Dorado,95U20301,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U20301,Secretary of State,,DEM,Derek Cressman,0
-El Dorado,95U20301,Secretary of State,,DEM,Jeffrey H. Drobman,0
-El Dorado,95U20301,Secretary of State,,DEM,Leland Yee,0
-El Dorado,95U20301,Secretary of State,,REP,Pete Peterson,0
-El Dorado,95U20301,Secretary of State,,REP,Roy Allmond,0
-El Dorado,95U20301,State Assembly,5,REP,Frank Bigelow,0
-El Dorado,95U20301,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-El Dorado,95U20301,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-El Dorado,95U20301,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-El Dorado,95U20301,Treasurer,,GRN,Ellen H. Brown,0
-El Dorado,95U20301,Treasurer,,REP,Greg Conlon,0
-El Dorado,95U20301,Treasurer,,DEM,John Chiang,0
-El Dorado,95U20301,U.S. House,4,REP,"Arthur ""Art"" Moore",0
-El Dorado,95U20301,U.S. House,4,IND,Jeffrey D. Gerlach,0
-El Dorado,95U20301,U.S. House,4,REP,Tom McClintock,0
 El Dorado,95U20401,Attorney General,,REP,David King,22
 El Dorado,95U20401,Attorney General,,REP,John Haggerty,89
 El Dorado,95U20401,Attorney General,,LIB,Jonathan Jaech,16
@@ -4463,8 +4554,6 @@ El Dorado,95U20401,Controller,,REP,David Evans,125
 El Dorado,95U20401,Controller,,DEM,John A. Pérez,46
 El Dorado,95U20401,Controller,,GRN,Laura Wells,25
 El Dorado,95U20401,Controller,,DEM,Tammy D. Blair,16
-El Dorado,95U20401,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U20401,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U20401,Governor,,REP,Alma Marie Winston,2
 El Dorado,95U20401,Governor,,REP,Andrew Blount,8
 El Dorado,95U20401,Governor,,PAF,Cindy L. Sheehan,4
@@ -4489,6 +4578,10 @@ El Dorado,95U20401,Lieutenant Governor,,DEM,Gavin Newsom,154
 El Dorado,95U20401,Lieutenant Governor,,REP,George Yang,28
 El Dorado,95U20401,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,95U20401,Lieutenant Governor,,REP,Ron Nehring,171
+El Dorado,95U20401,Proposition 41,,,No,210
+El Dorado,95U20401,Proposition 41,,,Yes,222
+El Dorado,95U20401,Proposition 42,,,No,236
+El Dorado,95U20401,Proposition 42,,,Yes,188
 El Dorado,95U20401,Secretary of State,,DEM,Alex Padilla,69
 El Dorado,95U20401,Secretary of State,,IND,Dan Schnur,62
 El Dorado,95U20401,Secretary of State,,GRN,David Curtis,12
@@ -4522,16 +4615,9 @@ El Dorado,95U30102,Controller,,REP,David Evans,28
 El Dorado,95U30102,Controller,,DEM,John A. Pérez,5
 El Dorado,95U30102,Controller,,GRN,Laura Wells,3
 El Dorado,95U30102,Controller,,DEM,Tammy D. Blair,5
-El Dorado,95U30102,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U30102,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U30102,Governor,,REP,Alma Marie Winston,0
 El Dorado,95U30102,Governor,,REP,Andrew Blount,3
-El Dorado,95U30102,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,95U30102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 El Dorado,95U30102,Governor,,REP,Glenn Champ,3
-El Dorado,95U30102,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U30102,Governor,,IND,Joe Leicht,0
-El Dorado,95U30102,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,95U30102,Governor,,REP,Neel Kashkari,35
 El Dorado,95U30102,Governor,,IND,Rakesh Kumar Christian,2
 El Dorado,95U30102,Governor,,REP,Richard William Aguirre,3
@@ -4540,7 +4626,6 @@ El Dorado,95U30102,Governor,,REP,Tim Donnelly,17
 El Dorado,95U30102,Insurance Commissioner,,DEM,Dave Jones,22
 El Dorado,95U30102,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 El Dorado,95U30102,Insurance Commissioner,,REP,Ted Gaines,55
-El Dorado,95U30102,Lieutenant Governor,,AME,Alan Reynolds,0
 El Dorado,95U30102,Lieutenant Governor,,PAF,Amos Johnson,2
 El Dorado,95U30102,Lieutenant Governor,,REP,David Fennell,4
 El Dorado,95U30102,Lieutenant Governor,,DEM,Eric Korevaar,1
@@ -4548,6 +4633,10 @@ El Dorado,95U30102,Lieutenant Governor,,DEM,Gavin Newsom,25
 El Dorado,95U30102,Lieutenant Governor,,REP,George Yang,8
 El Dorado,95U30102,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,95U30102,Lieutenant Governor,,REP,Ron Nehring,45
+El Dorado,95U30102,Proposition 41,,,No,67
+El Dorado,95U30102,Proposition 41,,,Yes,31
+El Dorado,95U30102,Proposition 42,,,No,55
+El Dorado,95U30102,Proposition 42,,,Yes,39
 El Dorado,95U30102,Secretary of State,,DEM,Alex Padilla,7
 El Dorado,95U30102,Secretary of State,,IND,Dan Schnur,18
 El Dorado,95U30102,Secretary of State,,GRN,David Curtis,3
@@ -4568,7 +4657,6 @@ El Dorado,95U30102,U.S. House,4,IND,Jeffrey D. Gerlach,20
 El Dorado,95U30102,U.S. House,4,REP,Tom McClintock,48
 El Dorado,95U30202,Attorney General,,REP,David King,7
 El Dorado,95U30202,Attorney General,,REP,John Haggerty,13
-El Dorado,95U30202,Attorney General,,LIB,Jonathan Jaech,0
 El Dorado,95U30202,Attorney General,,DEM,Kamala D. Harris,31
 El Dorado,95U30202,Attorney General,,IND,Orly Taitz,2
 El Dorado,95U30202,Attorney General,,REP,Phil Wyman,6
@@ -4581,35 +4669,29 @@ El Dorado,95U30202,Controller,,REP,David Evans,18
 El Dorado,95U30202,Controller,,DEM,John A. Pérez,6
 El Dorado,95U30202,Controller,,GRN,Laura Wells,3
 El Dorado,95U30202,Controller,,DEM,Tammy D. Blair,3
-El Dorado,95U30202,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U30202,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U30202,Governor,,REP,Alma Marie Winston,0
 El Dorado,95U30202,Governor,,REP,Andrew Blount,3
-El Dorado,95U30202,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,95U30202,Governor,,DEM,"Edmund G. ""Jerry"" Brown",33
-El Dorado,95U30202,Governor,,REP,Glenn Champ,0
 El Dorado,95U30202,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,95U30202,Governor,,IND,Joe Leicht,1
-El Dorado,95U30202,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,95U30202,Governor,,REP,Neel Kashkari,25
-El Dorado,95U30202,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U30202,Governor,,REP,Richard William Aguirre,0
 El Dorado,95U30202,Governor,,IND,Robert Newman,2
 El Dorado,95U30202,Governor,,REP,Tim Donnelly,5
 El Dorado,95U30202,Insurance Commissioner,,DEM,Dave Jones,26
 El Dorado,95U30202,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 El Dorado,95U30202,Insurance Commissioner,,REP,Ted Gaines,40
 El Dorado,95U30202,Lieutenant Governor,,AME,Alan Reynolds,1
-El Dorado,95U30202,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,95U30202,Lieutenant Governor,,REP,David Fennell,8
 El Dorado,95U30202,Lieutenant Governor,,DEM,Eric Korevaar,1
 El Dorado,95U30202,Lieutenant Governor,,DEM,Gavin Newsom,27
 El Dorado,95U30202,Lieutenant Governor,,REP,George Yang,4
 El Dorado,95U30202,Lieutenant Governor,,GRN,Jena F. Goodman,4
 El Dorado,95U30202,Lieutenant Governor,,REP,Ron Nehring,21
+El Dorado,95U30202,Proposition 41,,,No,23
+El Dorado,95U30202,Proposition 41,,,Yes,43
+El Dorado,95U30202,Proposition 42,,,No,20
+El Dorado,95U30202,Proposition 42,,,Yes,43
 El Dorado,95U30202,Secretary of State,,DEM,Alex Padilla,8
 El Dorado,95U30202,Secretary of State,,IND,Dan Schnur,10
-El Dorado,95U30202,Secretary of State,,GRN,David Curtis,0
 El Dorado,95U30202,Secretary of State,,DEM,Derek Cressman,5
 El Dorado,95U30202,Secretary of State,,DEM,Jeffrey H. Drobman,4
 El Dorado,95U30202,Secretary of State,,DEM,Leland Yee,6
@@ -4640,19 +4722,12 @@ El Dorado,95U30302,Controller,,REP,David Evans,40
 El Dorado,95U30302,Controller,,DEM,John A. Pérez,18
 El Dorado,95U30302,Controller,,GRN,Laura Wells,10
 El Dorado,95U30302,Controller,,DEM,Tammy D. Blair,9
-El Dorado,95U30302,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U30302,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U30302,Governor,,REP,Alma Marie Winston,1
-El Dorado,95U30302,Governor,,REP,Andrew Blount,0
 El Dorado,95U30302,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,95U30302,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 El Dorado,95U30302,Governor,,REP,Glenn Champ,1
-El Dorado,95U30302,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U30302,Governor,,IND,Joe Leicht,0
 El Dorado,95U30302,Governor,,GRN,Luis J. Rodriguez,1
 El Dorado,95U30302,Governor,,REP,Neel Kashkari,41
-El Dorado,95U30302,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U30302,Governor,,REP,Richard William Aguirre,0
 El Dorado,95U30302,Governor,,IND,Robert Newman,2
 El Dorado,95U30302,Governor,,REP,Tim Donnelly,26
 El Dorado,95U30302,Insurance Commissioner,,DEM,Dave Jones,35
@@ -4666,6 +4741,10 @@ El Dorado,95U30302,Lieutenant Governor,,DEM,Gavin Newsom,36
 El Dorado,95U30302,Lieutenant Governor,,REP,George Yang,16
 El Dorado,95U30302,Lieutenant Governor,,GRN,Jena F. Goodman,5
 El Dorado,95U30302,Lieutenant Governor,,REP,Ron Nehring,43
+El Dorado,95U30302,Proposition 41,,,No,55
+El Dorado,95U30302,Proposition 41,,,Yes,59
+El Dorado,95U30302,Proposition 42,,,No,55
+El Dorado,95U30302,Proposition 42,,,Yes,56
 El Dorado,95U30302,Secretary of State,,DEM,Alex Padilla,18
 El Dorado,95U30302,Secretary of State,,IND,Dan Schnur,8
 El Dorado,95U30302,Secretary of State,,GRN,David Curtis,5
@@ -4684,64 +4763,40 @@ El Dorado,95U30302,Treasurer,,DEM,John Chiang,40
 El Dorado,95U30302,U.S. House,4,REP,"Arthur ""Art"" Moore",29
 El Dorado,95U30302,U.S. House,4,IND,Jeffrey D. Gerlach,19
 El Dorado,95U30302,U.S. House,4,REP,Tom McClintock,58
-El Dorado,95U40103,Attorney General,,REP,David King,0
 El Dorado,95U40103,Attorney General,,REP,John Haggerty,2
 El Dorado,95U40103,Attorney General,,LIB,Jonathan Jaech,1
 El Dorado,95U40103,Attorney General,,DEM,Kamala D. Harris,1
-El Dorado,95U40103,Attorney General,,IND,Orly Taitz,0
 El Dorado,95U40103,Attorney General,,REP,Phil Wyman,1
 El Dorado,95U40103,Attorney General,,REP,Ronald Gold,3
 El Dorado,95U40103,Board of Equalization,1,DEM,Chris Parker,2
 El Dorado,95U40103,Board of Equalization,1,REP,George Runner,5
 El Dorado,95U40103,Controller,,REP,Ashley Swearengin,1
-El Dorado,95U40103,Controller,,DEM,Betty T. Yee,0
 El Dorado,95U40103,Controller,,REP,David Evans,4
 El Dorado,95U40103,Controller,,DEM,John A. Pérez,1
 El Dorado,95U40103,Controller,,GRN,Laura Wells,1
-El Dorado,95U40103,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U40103,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U40103,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U40103,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U40103,Governor,,REP,Andrew Blount,0
-El Dorado,95U40103,Governor,,PAF,Cindy L. Sheehan,0
-El Dorado,95U40103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-El Dorado,95U40103,Governor,,REP,Glenn Champ,0
-El Dorado,95U40103,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U40103,Governor,,IND,Joe Leicht,0
-El Dorado,95U40103,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,95U40103,Governor,,REP,Neel Kashkari,2
 El Dorado,95U40103,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,95U40103,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U40103,Governor,,IND,Robert Newman,0
 El Dorado,95U40103,Governor,,REP,Tim Donnelly,4
 El Dorado,95U40103,Insurance Commissioner,,DEM,Dave Jones,1
 El Dorado,95U40103,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 El Dorado,95U40103,Insurance Commissioner,,REP,Ted Gaines,6
-El Dorado,95U40103,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U40103,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,95U40103,Lieutenant Governor,,REP,David Fennell,2
-El Dorado,95U40103,Lieutenant Governor,,DEM,Eric Korevaar,0
 El Dorado,95U40103,Lieutenant Governor,,DEM,Gavin Newsom,2
 El Dorado,95U40103,Lieutenant Governor,,REP,George Yang,1
-El Dorado,95U40103,Lieutenant Governor,,GRN,Jena F. Goodman,0
 El Dorado,95U40103,Lieutenant Governor,,REP,Ron Nehring,2
-El Dorado,95U40103,Secretary of State,,DEM,Alex Padilla,0
+El Dorado,95U40103,Proposition 41,,,No,6
+El Dorado,95U40103,Proposition 42,,,No,4
+El Dorado,95U40103,Proposition 42,,,Yes,2
 El Dorado,95U40103,Secretary of State,,IND,Dan Schnur,1
-El Dorado,95U40103,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U40103,Secretary of State,,DEM,Derek Cressman,0
 El Dorado,95U40103,Secretary of State,,DEM,Jeffrey H. Drobman,1
-El Dorado,95U40103,Secretary of State,,DEM,Leland Yee,0
 El Dorado,95U40103,Secretary of State,,REP,Pete Peterson,2
 El Dorado,95U40103,Secretary of State,,REP,Roy Allmond,3
 El Dorado,95U40103,State Assembly,5,REP,Frank Bigelow,7
-El Dorado,95U40103,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 El Dorado,95U40103,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
 El Dorado,95U40103,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
-El Dorado,95U40103,Treasurer,,GRN,Ellen H. Brown,0
 El Dorado,95U40103,Treasurer,,REP,Greg Conlon,6
 El Dorado,95U40103,Treasurer,,DEM,John Chiang,2
 El Dorado,95U40103,U.S. House,4,REP,"Arthur ""Art"" Moore",1
-El Dorado,95U40103,U.S. House,4,IND,Jeffrey D. Gerlach,0
 El Dorado,95U40103,U.S. House,4,REP,Tom McClintock,7
 El Dorado,95U40203,Attorney General,,REP,David King,44
 El Dorado,95U40203,Attorney General,,REP,John Haggerty,92
@@ -4784,6 +4839,10 @@ El Dorado,95U40203,Lieutenant Governor,,DEM,Gavin Newsom,179
 El Dorado,95U40203,Lieutenant Governor,,REP,George Yang,43
 El Dorado,95U40203,Lieutenant Governor,,GRN,Jena F. Goodman,7
 El Dorado,95U40203,Lieutenant Governor,,REP,Ron Nehring,263
+El Dorado,95U40203,Proposition 41,,,No,302
+El Dorado,95U40203,Proposition 41,,,Yes,276
+El Dorado,95U40203,Proposition 42,,,No,323
+El Dorado,95U40203,Proposition 42,,,Yes,246
 El Dorado,95U40203,Secretary of State,,DEM,Alex Padilla,92
 El Dorado,95U40203,Secretary of State,,IND,Dan Schnur,103
 El Dorado,95U40203,Secretary of State,,GRN,David Curtis,12
@@ -4818,7 +4877,6 @@ El Dorado,95U40303,Controller,,DEM,John A. Pérez,74
 El Dorado,95U40303,Controller,,GRN,Laura Wells,33
 El Dorado,95U40303,Controller,,DEM,Tammy D. Blair,13
 El Dorado,95U40303,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-El Dorado,95U40303,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U40303,Governor,,REP,Alma Marie Winston,1
 El Dorado,95U40303,Governor,,REP,Andrew Blount,9
 El Dorado,95U40303,Governor,,PAF,Cindy L. Sheehan,9
@@ -4829,7 +4887,6 @@ El Dorado,95U40303,Governor,,IND,Joe Leicht,1
 El Dorado,95U40303,Governor,,GRN,Luis J. Rodriguez,6
 El Dorado,95U40303,Governor,,REP,Neel Kashkari,96
 El Dorado,95U40303,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,95U40303,Governor,,REP,Richard William Aguirre,0
 El Dorado,95U40303,Governor,,IND,Robert Newman,10
 El Dorado,95U40303,Governor,,REP,Tim Donnelly,101
 El Dorado,95U40303,Insurance Commissioner,,DEM,Dave Jones,180
@@ -4843,6 +4900,10 @@ El Dorado,95U40303,Lieutenant Governor,,DEM,Gavin Newsom,197
 El Dorado,95U40303,Lieutenant Governor,,REP,George Yang,27
 El Dorado,95U40303,Lieutenant Governor,,GRN,Jena F. Goodman,9
 El Dorado,95U40303,Lieutenant Governor,,REP,Ron Nehring,137
+El Dorado,95U40303,Proposition 41,,,No,192
+El Dorado,95U40303,Proposition 41,,,Yes,243
+El Dorado,95U40303,Proposition 42,,,No,185
+El Dorado,95U40303,Proposition 42,,,Yes,234
 El Dorado,95U40303,Secretary of State,,DEM,Alex Padilla,97
 El Dorado,95U40303,Secretary of State,,IND,Dan Schnur,39
 El Dorado,95U40303,Secretary of State,,GRN,David Curtis,23
@@ -4877,18 +4938,15 @@ El Dorado,95U40304,Controller,,DEM,John A. Pérez,46
 El Dorado,95U40304,Controller,,GRN,Laura Wells,27
 El Dorado,95U40304,Controller,,DEM,Tammy D. Blair,11
 El Dorado,95U40304,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-El Dorado,95U40304,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U40304,Governor,,REP,Alma Marie Winston,7
 El Dorado,95U40304,Governor,,REP,Andrew Blount,5
 El Dorado,95U40304,Governor,,PAF,Cindy L. Sheehan,4
 El Dorado,95U40304,Governor,,DEM,"Edmund G. ""Jerry"" Brown",128
 El Dorado,95U40304,Governor,,REP,Glenn Champ,8
 El Dorado,95U40304,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,95U40304,Governor,,IND,Joe Leicht,0
 El Dorado,95U40304,Governor,,GRN,Luis J. Rodriguez,3
 El Dorado,95U40304,Governor,,REP,Neel Kashkari,104
 El Dorado,95U40304,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,95U40304,Governor,,REP,Richard William Aguirre,0
 El Dorado,95U40304,Governor,,IND,Robert Newman,11
 El Dorado,95U40304,Governor,,REP,Tim Donnelly,65
 El Dorado,95U40304,Insurance Commissioner,,DEM,Dave Jones,113
@@ -4902,6 +4960,10 @@ El Dorado,95U40304,Lieutenant Governor,,DEM,Gavin Newsom,113
 El Dorado,95U40304,Lieutenant Governor,,REP,George Yang,26
 El Dorado,95U40304,Lieutenant Governor,,GRN,Jena F. Goodman,6
 El Dorado,95U40304,Lieutenant Governor,,REP,Ron Nehring,101
+El Dorado,95U40304,Proposition 41,,,No,168
+El Dorado,95U40304,Proposition 41,,,Yes,161
+El Dorado,95U40304,Proposition 42,,,No,178
+El Dorado,95U40304,Proposition 42,,,Yes,132
 El Dorado,95U40304,Secretary of State,,DEM,Alex Padilla,57
 El Dorado,95U40304,Secretary of State,,IND,Dan Schnur,40
 El Dorado,95U40304,Secretary of State,,GRN,David Curtis,15
@@ -4920,171 +4982,26 @@ El Dorado,95U40304,Treasurer,,DEM,John Chiang,140
 El Dorado,95U40304,U.S. House,4,REP,"Arthur ""Art"" Moore",53
 El Dorado,95U40304,U.S. House,4,IND,Jeffrey D. Gerlach,81
 El Dorado,95U40304,U.S. House,4,REP,Tom McClintock,179
-El Dorado,95U40403,Attorney General,,REP,David King,0
-El Dorado,95U40403,Attorney General,,REP,John Haggerty,0
-El Dorado,95U40403,Attorney General,,LIB,Jonathan Jaech,0
-El Dorado,95U40403,Attorney General,,DEM,Kamala D. Harris,0
-El Dorado,95U40403,Attorney General,,IND,Orly Taitz,0
-El Dorado,95U40403,Attorney General,,REP,Phil Wyman,0
-El Dorado,95U40403,Attorney General,,REP,Ronald Gold,0
-El Dorado,95U40403,Board of Equalization,1,DEM,Chris Parker,0
-El Dorado,95U40403,Board of Equalization,1,REP,George Runner,0
-El Dorado,95U40403,Controller,,REP,Ashley Swearengin,0
-El Dorado,95U40403,Controller,,DEM,Betty T. Yee,0
-El Dorado,95U40403,Controller,,REP,David Evans,0
-El Dorado,95U40403,Controller,,DEM,John A. Pérez,0
-El Dorado,95U40403,Controller,,GRN,Laura Wells,0
-El Dorado,95U40403,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U40403,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U40403,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U40403,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U40403,Governor,,REP,Andrew Blount,0
-El Dorado,95U40403,Governor,,PAF,Cindy L. Sheehan,0
-El Dorado,95U40403,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-El Dorado,95U40403,Governor,,REP,Glenn Champ,0
-El Dorado,95U40403,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U40403,Governor,,IND,Joe Leicht,0
-El Dorado,95U40403,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U40403,Governor,,REP,Neel Kashkari,0
-El Dorado,95U40403,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U40403,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U40403,Governor,,IND,Robert Newman,0
-El Dorado,95U40403,Governor,,REP,Tim Donnelly,0
-El Dorado,95U40403,Insurance Commissioner,,DEM,Dave Jones,0
-El Dorado,95U40403,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-El Dorado,95U40403,Insurance Commissioner,,REP,Ted Gaines,0
-El Dorado,95U40403,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U40403,Lieutenant Governor,,PAF,Amos Johnson,0
-El Dorado,95U40403,Lieutenant Governor,,REP,David Fennell,0
-El Dorado,95U40403,Lieutenant Governor,,DEM,Eric Korevaar,0
-El Dorado,95U40403,Lieutenant Governor,,DEM,Gavin Newsom,0
-El Dorado,95U40403,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U40403,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,95U40403,Lieutenant Governor,,REP,Ron Nehring,0
-El Dorado,95U40403,Secretary of State,,DEM,Alex Padilla,0
-El Dorado,95U40403,Secretary of State,,IND,Dan Schnur,0
-El Dorado,95U40403,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U40403,Secretary of State,,DEM,Derek Cressman,0
-El Dorado,95U40403,Secretary of State,,DEM,Jeffrey H. Drobman,0
-El Dorado,95U40403,Secretary of State,,DEM,Leland Yee,0
-El Dorado,95U40403,Secretary of State,,REP,Pete Peterson,0
-El Dorado,95U40403,Secretary of State,,REP,Roy Allmond,0
-El Dorado,95U40403,State Assembly,5,REP,Frank Bigelow,0
-El Dorado,95U40403,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-El Dorado,95U40403,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-El Dorado,95U40403,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-El Dorado,95U40403,Treasurer,,GRN,Ellen H. Brown,0
-El Dorado,95U40403,Treasurer,,REP,Greg Conlon,0
-El Dorado,95U40403,Treasurer,,DEM,John Chiang,0
-El Dorado,95U40403,U.S. House,4,REP,"Arthur ""Art"" Moore",0
-El Dorado,95U40403,U.S. House,4,IND,Jeffrey D. Gerlach,0
-El Dorado,95U40403,U.S. House,4,REP,Tom McClintock,0
-El Dorado,95U40404,Attorney General,,REP,David King,0
-El Dorado,95U40404,Attorney General,,REP,John Haggerty,0
-El Dorado,95U40404,Attorney General,,LIB,Jonathan Jaech,0
-El Dorado,95U40404,Attorney General,,DEM,Kamala D. Harris,0
-El Dorado,95U40404,Attorney General,,IND,Orly Taitz,0
-El Dorado,95U40404,Attorney General,,REP,Phil Wyman,0
-El Dorado,95U40404,Attorney General,,REP,Ronald Gold,0
-El Dorado,95U40404,Board of Equalization,1,DEM,Chris Parker,0
-El Dorado,95U40404,Board of Equalization,1,REP,George Runner,0
-El Dorado,95U40404,Controller,,REP,Ashley Swearengin,0
-El Dorado,95U40404,Controller,,DEM,Betty T. Yee,0
-El Dorado,95U40404,Controller,,REP,David Evans,0
-El Dorado,95U40404,Controller,,DEM,John A. Pérez,0
-El Dorado,95U40404,Controller,,GRN,Laura Wells,0
-El Dorado,95U40404,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U40404,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U40404,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U40404,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U40404,Governor,,REP,Andrew Blount,0
-El Dorado,95U40404,Governor,,PAF,Cindy L. Sheehan,0
-El Dorado,95U40404,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-El Dorado,95U40404,Governor,,REP,Glenn Champ,0
-El Dorado,95U40404,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U40404,Governor,,IND,Joe Leicht,0
-El Dorado,95U40404,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U40404,Governor,,REP,Neel Kashkari,0
-El Dorado,95U40404,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U40404,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U40404,Governor,,IND,Robert Newman,0
-El Dorado,95U40404,Governor,,REP,Tim Donnelly,0
-El Dorado,95U40404,Insurance Commissioner,,DEM,Dave Jones,0
-El Dorado,95U40404,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-El Dorado,95U40404,Insurance Commissioner,,REP,Ted Gaines,0
-El Dorado,95U40404,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U40404,Lieutenant Governor,,PAF,Amos Johnson,0
-El Dorado,95U40404,Lieutenant Governor,,REP,David Fennell,0
-El Dorado,95U40404,Lieutenant Governor,,DEM,Eric Korevaar,0
-El Dorado,95U40404,Lieutenant Governor,,DEM,Gavin Newsom,0
-El Dorado,95U40404,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U40404,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,95U40404,Lieutenant Governor,,REP,Ron Nehring,0
-El Dorado,95U40404,Secretary of State,,DEM,Alex Padilla,0
-El Dorado,95U40404,Secretary of State,,IND,Dan Schnur,0
-El Dorado,95U40404,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U40404,Secretary of State,,DEM,Derek Cressman,0
-El Dorado,95U40404,Secretary of State,,DEM,Jeffrey H. Drobman,0
-El Dorado,95U40404,Secretary of State,,DEM,Leland Yee,0
-El Dorado,95U40404,Secretary of State,,REP,Pete Peterson,0
-El Dorado,95U40404,Secretary of State,,REP,Roy Allmond,0
-El Dorado,95U40404,State Assembly,5,REP,Frank Bigelow,0
-El Dorado,95U40404,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-El Dorado,95U40404,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-El Dorado,95U40404,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-El Dorado,95U40404,Treasurer,,GRN,Ellen H. Brown,0
-El Dorado,95U40404,Treasurer,,REP,Greg Conlon,0
-El Dorado,95U40404,Treasurer,,DEM,John Chiang,0
-El Dorado,95U40404,U.S. House,4,REP,"Arthur ""Art"" Moore",0
-El Dorado,95U40404,U.S. House,4,IND,Jeffrey D. Gerlach,0
-El Dorado,95U40404,U.S. House,4,REP,Tom McClintock,0
-El Dorado,95U40503,Attorney General,,REP,David King,0
-El Dorado,95U40503,Attorney General,,REP,John Haggerty,0
-El Dorado,95U40503,Attorney General,,LIB,Jonathan Jaech,0
 El Dorado,95U40503,Attorney General,,DEM,Kamala D. Harris,4
-El Dorado,95U40503,Attorney General,,IND,Orly Taitz,0
 El Dorado,95U40503,Attorney General,,REP,Phil Wyman,2
-El Dorado,95U40503,Attorney General,,REP,Ronald Gold,0
 El Dorado,95U40503,Board of Equalization,1,DEM,Chris Parker,4
 El Dorado,95U40503,Board of Equalization,1,REP,George Runner,3
 El Dorado,95U40503,Controller,,REP,Ashley Swearengin,3
-El Dorado,95U40503,Controller,,DEM,Betty T. Yee,0
-El Dorado,95U40503,Controller,,REP,David Evans,0
 El Dorado,95U40503,Controller,,DEM,John A. Pérez,3
 El Dorado,95U40503,Controller,,GRN,Laura Wells,1
-El Dorado,95U40503,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U40503,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U40503,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U40503,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U40503,Governor,,REP,Andrew Blount,0
-El Dorado,95U40503,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,95U40503,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-El Dorado,95U40503,Governor,,REP,Glenn Champ,0
-El Dorado,95U40503,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U40503,Governor,,IND,Joe Leicht,0
-El Dorado,95U40503,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U40503,Governor,,REP,Neel Kashkari,0
-El Dorado,95U40503,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U40503,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U40503,Governor,,IND,Robert Newman,0
 El Dorado,95U40503,Governor,,REP,Tim Donnelly,3
 El Dorado,95U40503,Insurance Commissioner,,DEM,Dave Jones,3
 El Dorado,95U40503,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 El Dorado,95U40503,Insurance Commissioner,,REP,Ted Gaines,2
-El Dorado,95U40503,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U40503,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,95U40503,Lieutenant Governor,,REP,David Fennell,3
-El Dorado,95U40503,Lieutenant Governor,,DEM,Eric Korevaar,0
 El Dorado,95U40503,Lieutenant Governor,,DEM,Gavin Newsom,4
-El Dorado,95U40503,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U40503,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,95U40503,Lieutenant Governor,,REP,Ron Nehring,0
+El Dorado,95U40503,Proposition 41,,,No,2
+El Dorado,95U40503,Proposition 41,,,Yes,5
+El Dorado,95U40503,Proposition 42,,,No,5
+El Dorado,95U40503,Proposition 42,,,Yes,2
 El Dorado,95U40503,Secretary of State,,DEM,Alex Padilla,2
-El Dorado,95U40503,Secretary of State,,IND,Dan Schnur,0
-El Dorado,95U40503,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U40503,Secretary of State,,DEM,Derek Cressman,0
 El Dorado,95U40503,Secretary of State,,DEM,Jeffrey H. Drobman,1
-El Dorado,95U40503,Secretary of State,,DEM,Leland Yee,0
 El Dorado,95U40503,Secretary of State,,REP,Pete Peterson,1
 El Dorado,95U40503,Secretary of State,,REP,Roy Allmond,3
 El Dorado,95U40503,State Assembly,5,REP,Frank Bigelow,6
@@ -5094,127 +5011,20 @@ El Dorado,95U40503,Superintendent of Public Instruction,,NOP,Tom Torlakson,2
 El Dorado,95U40503,Treasurer,,GRN,Ellen H. Brown,1
 El Dorado,95U40503,Treasurer,,REP,Greg Conlon,3
 El Dorado,95U40503,Treasurer,,DEM,John Chiang,3
-El Dorado,95U40503,U.S. House,4,REP,"Arthur ""Art"" Moore",0
 El Dorado,95U40503,U.S. House,4,IND,Jeffrey D. Gerlach,4
 El Dorado,95U40503,U.S. House,4,REP,Tom McClintock,3
-El Dorado,95U40603,Attorney General,,REP,David King,0
-El Dorado,95U40603,Attorney General,,REP,John Haggerty,0
-El Dorado,95U40603,Attorney General,,LIB,Jonathan Jaech,0
 El Dorado,95U40603,Attorney General,,DEM,Kamala D. Harris,2
-El Dorado,95U40603,Attorney General,,IND,Orly Taitz,0
-El Dorado,95U40603,Attorney General,,REP,Phil Wyman,0
-El Dorado,95U40603,Attorney General,,REP,Ronald Gold,0
 El Dorado,95U40603,Board of Equalization,1,DEM,Chris Parker,2
-El Dorado,95U40603,Board of Equalization,1,REP,George Runner,0
-El Dorado,95U40603,Controller,,REP,Ashley Swearengin,0
-El Dorado,95U40603,Controller,,DEM,Betty T. Yee,0
-El Dorado,95U40603,Controller,,REP,David Evans,0
 El Dorado,95U40603,Controller,,DEM,John A. Pérez,2
-El Dorado,95U40603,Controller,,GRN,Laura Wells,0
-El Dorado,95U40603,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U40603,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U40603,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U40603,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U40603,Governor,,REP,Andrew Blount,0
-El Dorado,95U40603,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,95U40603,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
-El Dorado,95U40603,Governor,,REP,Glenn Champ,0
-El Dorado,95U40603,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U40603,Governor,,IND,Joe Leicht,0
-El Dorado,95U40603,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U40603,Governor,,REP,Neel Kashkari,0
-El Dorado,95U40603,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U40603,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U40603,Governor,,IND,Robert Newman,0
-El Dorado,95U40603,Governor,,REP,Tim Donnelly,0
 El Dorado,95U40603,Insurance Commissioner,,DEM,Dave Jones,2
-El Dorado,95U40603,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-El Dorado,95U40603,Insurance Commissioner,,REP,Ted Gaines,0
-El Dorado,95U40603,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U40603,Lieutenant Governor,,PAF,Amos Johnson,0
-El Dorado,95U40603,Lieutenant Governor,,REP,David Fennell,0
-El Dorado,95U40603,Lieutenant Governor,,DEM,Eric Korevaar,0
 El Dorado,95U40603,Lieutenant Governor,,DEM,Gavin Newsom,2
-El Dorado,95U40603,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U40603,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,95U40603,Lieutenant Governor,,REP,Ron Nehring,0
-El Dorado,95U40603,Secretary of State,,DEM,Alex Padilla,0
+El Dorado,95U40603,Proposition 41,,,Yes,2
+El Dorado,95U40603,Proposition 42,,,No,2
 El Dorado,95U40603,Secretary of State,,IND,Dan Schnur,2
-El Dorado,95U40603,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U40603,Secretary of State,,DEM,Derek Cressman,0
-El Dorado,95U40603,Secretary of State,,DEM,Jeffrey H. Drobman,0
-El Dorado,95U40603,Secretary of State,,DEM,Leland Yee,0
-El Dorado,95U40603,Secretary of State,,REP,Pete Peterson,0
-El Dorado,95U40603,Secretary of State,,REP,Roy Allmond,0
-El Dorado,95U40603,State Assembly,5,REP,Frank Bigelow,0
-El Dorado,95U40603,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-El Dorado,95U40603,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 El Dorado,95U40603,Superintendent of Public Instruction,,NOP,Tom Torlakson,2
-El Dorado,95U40603,Treasurer,,GRN,Ellen H. Brown,0
-El Dorado,95U40603,Treasurer,,REP,Greg Conlon,0
 El Dorado,95U40603,Treasurer,,DEM,John Chiang,2
-El Dorado,95U40603,U.S. House,4,REP,"Arthur ""Art"" Moore",0
 El Dorado,95U40603,U.S. House,4,IND,Jeffrey D. Gerlach,2
-El Dorado,95U40603,U.S. House,4,REP,Tom McClintock,0
-El Dorado,95U40704,Attorney General,,REP,David King,0
-El Dorado,95U40704,Attorney General,,REP,John Haggerty,0
-El Dorado,95U40704,Attorney General,,LIB,Jonathan Jaech,0
-El Dorado,95U40704,Attorney General,,DEM,Kamala D. Harris,0
-El Dorado,95U40704,Attorney General,,IND,Orly Taitz,0
-El Dorado,95U40704,Attorney General,,REP,Phil Wyman,0
-El Dorado,95U40704,Attorney General,,REP,Ronald Gold,0
-El Dorado,95U40704,Board of Equalization,1,DEM,Chris Parker,0
-El Dorado,95U40704,Board of Equalization,1,REP,George Runner,0
-El Dorado,95U40704,Controller,,REP,Ashley Swearengin,0
-El Dorado,95U40704,Controller,,DEM,Betty T. Yee,0
-El Dorado,95U40704,Controller,,REP,David Evans,0
-El Dorado,95U40704,Controller,,DEM,John A. Pérez,0
-El Dorado,95U40704,Controller,,GRN,Laura Wells,0
-El Dorado,95U40704,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U40704,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U40704,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U40704,Governor,,REP,Alma Marie Winston,0
-El Dorado,95U40704,Governor,,REP,Andrew Blount,0
-El Dorado,95U40704,Governor,,PAF,Cindy L. Sheehan,0
-El Dorado,95U40704,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-El Dorado,95U40704,Governor,,REP,Glenn Champ,0
-El Dorado,95U40704,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U40704,Governor,,IND,Joe Leicht,0
-El Dorado,95U40704,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U40704,Governor,,REP,Neel Kashkari,0
-El Dorado,95U40704,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U40704,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U40704,Governor,,IND,Robert Newman,0
-El Dorado,95U40704,Governor,,REP,Tim Donnelly,0
-El Dorado,95U40704,Insurance Commissioner,,DEM,Dave Jones,0
-El Dorado,95U40704,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-El Dorado,95U40704,Insurance Commissioner,,REP,Ted Gaines,0
-El Dorado,95U40704,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U40704,Lieutenant Governor,,PAF,Amos Johnson,0
-El Dorado,95U40704,Lieutenant Governor,,REP,David Fennell,0
-El Dorado,95U40704,Lieutenant Governor,,DEM,Eric Korevaar,0
-El Dorado,95U40704,Lieutenant Governor,,DEM,Gavin Newsom,0
-El Dorado,95U40704,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U40704,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,95U40704,Lieutenant Governor,,REP,Ron Nehring,0
-El Dorado,95U40704,Secretary of State,,DEM,Alex Padilla,0
-El Dorado,95U40704,Secretary of State,,IND,Dan Schnur,0
-El Dorado,95U40704,Secretary of State,,GRN,David Curtis,0
-El Dorado,95U40704,Secretary of State,,DEM,Derek Cressman,0
-El Dorado,95U40704,Secretary of State,,DEM,Jeffrey H. Drobman,0
-El Dorado,95U40704,Secretary of State,,DEM,Leland Yee,0
-El Dorado,95U40704,Secretary of State,,REP,Pete Peterson,0
-El Dorado,95U40704,Secretary of State,,REP,Roy Allmond,0
-El Dorado,95U40704,State Assembly,5,REP,Frank Bigelow,0
-El Dorado,95U40704,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-El Dorado,95U40704,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-El Dorado,95U40704,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-El Dorado,95U40704,Treasurer,,GRN,Ellen H. Brown,0
-El Dorado,95U40704,Treasurer,,REP,Greg Conlon,0
-El Dorado,95U40704,Treasurer,,DEM,John Chiang,0
-El Dorado,95U40704,U.S. House,4,REP,"Arthur ""Art"" Moore",0
-El Dorado,95U40704,U.S. House,4,IND,Jeffrey D. Gerlach,0
-El Dorado,95U40704,U.S. House,4,REP,Tom McClintock,0
 El Dorado,95U50105,Attorney General,,REP,David King,5
 El Dorado,95U50105,Attorney General,,REP,John Haggerty,24
 El Dorado,95U50105,Attorney General,,LIB,Jonathan Jaech,1
@@ -5230,32 +5040,27 @@ El Dorado,95U50105,Controller,,REP,David Evans,30
 El Dorado,95U50105,Controller,,DEM,John A. Pérez,11
 El Dorado,95U50105,Controller,,GRN,Laura Wells,14
 El Dorado,95U50105,Controller,,DEM,Tammy D. Blair,2
-El Dorado,95U50105,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U50105,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U50105,Governor,,REP,Alma Marie Winston,3
 El Dorado,95U50105,Governor,,REP,Andrew Blount,3
-El Dorado,95U50105,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,95U50105,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 El Dorado,95U50105,Governor,,REP,Glenn Champ,5
-El Dorado,95U50105,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U50105,Governor,,IND,Joe Leicht,0
-El Dorado,95U50105,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,95U50105,Governor,,REP,Neel Kashkari,29
-El Dorado,95U50105,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U50105,Governor,,REP,Richard William Aguirre,0
 El Dorado,95U50105,Governor,,IND,Robert Newman,1
 El Dorado,95U50105,Governor,,REP,Tim Donnelly,15
 El Dorado,95U50105,Insurance Commissioner,,DEM,Dave Jones,37
 El Dorado,95U50105,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 El Dorado,95U50105,Insurance Commissioner,,REP,Ted Gaines,67
 El Dorado,95U50105,Lieutenant Governor,,AME,Alan Reynolds,1
-El Dorado,95U50105,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,95U50105,Lieutenant Governor,,REP,David Fennell,6
 El Dorado,95U50105,Lieutenant Governor,,DEM,Eric Korevaar,6
 El Dorado,95U50105,Lieutenant Governor,,DEM,Gavin Newsom,40
 El Dorado,95U50105,Lieutenant Governor,,REP,George Yang,10
 El Dorado,95U50105,Lieutenant Governor,,GRN,Jena F. Goodman,1
 El Dorado,95U50105,Lieutenant Governor,,REP,Ron Nehring,37
+El Dorado,95U50105,Proposition 41,,,No,53
+El Dorado,95U50105,Proposition 41,,,Yes,53
+El Dorado,95U50105,Proposition 42,,,No,60
+El Dorado,95U50105,Proposition 42,,,Yes,44
 El Dorado,95U50105,Secretary of State,,DEM,Alex Padilla,14
 El Dorado,95U50105,Secretary of State,,IND,Dan Schnur,13
 El Dorado,95U50105,Secretary of State,,GRN,David Curtis,3
@@ -5274,55 +5079,33 @@ El Dorado,95U50105,Treasurer,,DEM,John Chiang,39
 El Dorado,95U50105,U.S. House,4,REP,"Arthur ""Art"" Moore",21
 El Dorado,95U50105,U.S. House,4,IND,Jeffrey D. Gerlach,20
 El Dorado,95U50105,U.S. House,4,REP,Tom McClintock,64
-El Dorado,95U50108,Attorney General,,REP,David King,0
 El Dorado,95U50108,Attorney General,,REP,John Haggerty,1
-El Dorado,95U50108,Attorney General,,LIB,Jonathan Jaech,0
 El Dorado,95U50108,Attorney General,,DEM,Kamala D. Harris,5
 El Dorado,95U50108,Attorney General,,IND,Orly Taitz,1
 El Dorado,95U50108,Attorney General,,REP,Phil Wyman,1
-El Dorado,95U50108,Attorney General,,REP,Ronald Gold,0
 El Dorado,95U50108,Board of Equalization,1,DEM,Chris Parker,4
 El Dorado,95U50108,Board of Equalization,1,REP,George Runner,3
-El Dorado,95U50108,Controller,,REP,Ashley Swearengin,0
-El Dorado,95U50108,Controller,,DEM,Betty T. Yee,0
 El Dorado,95U50108,Controller,,REP,David Evans,4
-El Dorado,95U50108,Controller,,DEM,John A. Pérez,0
 El Dorado,95U50108,Controller,,GRN,Laura Wells,4
-El Dorado,95U50108,Controller,,DEM,Tammy D. Blair,0
-El Dorado,95U50108,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U50108,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U50108,Governor,,REP,Alma Marie Winston,0
 El Dorado,95U50108,Governor,,REP,Andrew Blount,1
 El Dorado,95U50108,Governor,,PAF,Cindy L. Sheehan,2
 El Dorado,95U50108,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-El Dorado,95U50108,Governor,,REP,Glenn Champ,0
-El Dorado,95U50108,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U50108,Governor,,IND,Joe Leicht,0
-El Dorado,95U50108,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,95U50108,Governor,,REP,Neel Kashkari,0
-El Dorado,95U50108,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U50108,Governor,,REP,Richard William Aguirre,0
 El Dorado,95U50108,Governor,,IND,Robert Newman,1
-El Dorado,95U50108,Governor,,REP,Tim Donnelly,0
 El Dorado,95U50108,Insurance Commissioner,,DEM,Dave Jones,3
 El Dorado,95U50108,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 El Dorado,95U50108,Insurance Commissioner,,REP,Ted Gaines,4
-El Dorado,95U50108,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,95U50108,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,95U50108,Lieutenant Governor,,REP,David Fennell,1
-El Dorado,95U50108,Lieutenant Governor,,DEM,Eric Korevaar,0
 El Dorado,95U50108,Lieutenant Governor,,DEM,Gavin Newsom,6
-El Dorado,95U50108,Lieutenant Governor,,REP,George Yang,0
-El Dorado,95U50108,Lieutenant Governor,,GRN,Jena F. Goodman,0
 El Dorado,95U50108,Lieutenant Governor,,REP,Ron Nehring,1
+El Dorado,95U50108,Proposition 41,,,No,2
+El Dorado,95U50108,Proposition 41,,,Yes,5
+El Dorado,95U50108,Proposition 42,,,No,6
+El Dorado,95U50108,Proposition 42,,,Yes,3
 El Dorado,95U50108,Secretary of State,,DEM,Alex Padilla,1
-El Dorado,95U50108,Secretary of State,,IND,Dan Schnur,0
 El Dorado,95U50108,Secretary of State,,GRN,David Curtis,1
-El Dorado,95U50108,Secretary of State,,DEM,Derek Cressman,0
 El Dorado,95U50108,Secretary of State,,DEM,Jeffrey H. Drobman,1
 El Dorado,95U50108,Secretary of State,,DEM,Leland Yee,3
 El Dorado,95U50108,Secretary of State,,REP,Pete Peterson,2
-El Dorado,95U50108,Secretary of State,,REP,Roy Allmond,0
 El Dorado,95U50108,State Assembly,5,REP,Frank Bigelow,6
 El Dorado,95U50108,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
 El Dorado,95U50108,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
@@ -5348,18 +5131,13 @@ El Dorado,95U59805,Controller,,REP,David Evans,40
 El Dorado,95U59805,Controller,,DEM,John A. Pérez,22
 El Dorado,95U59805,Controller,,GRN,Laura Wells,17
 El Dorado,95U59805,Controller,,DEM,Tammy D. Blair,4
-El Dorado,95U59805,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U59805,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,95U59805,Governor,,REP,Alma Marie Winston,1
 El Dorado,95U59805,Governor,,REP,Andrew Blount,2
 El Dorado,95U59805,Governor,,PAF,Cindy L. Sheehan,3
 El Dorado,95U59805,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 El Dorado,95U59805,Governor,,REP,Glenn Champ,1
 El Dorado,95U59805,Governor,,IND,Janel Hyeshia Buycks,1
-El Dorado,95U59805,Governor,,IND,Joe Leicht,0
-El Dorado,95U59805,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,95U59805,Governor,,REP,Neel Kashkari,28
-El Dorado,95U59805,Governor,,IND,Rakesh Kumar Christian,0
 El Dorado,95U59805,Governor,,REP,Richard William Aguirre,1
 El Dorado,95U59805,Governor,,IND,Robert Newman,3
 El Dorado,95U59805,Governor,,REP,Tim Donnelly,24
@@ -5374,6 +5152,10 @@ El Dorado,95U59805,Lieutenant Governor,,DEM,Gavin Newsom,78
 El Dorado,95U59805,Lieutenant Governor,,REP,George Yang,8
 El Dorado,95U59805,Lieutenant Governor,,GRN,Jena F. Goodman,1
 El Dorado,95U59805,Lieutenant Governor,,REP,Ron Nehring,34
+El Dorado,95U59805,Proposition 41,,,No,59
+El Dorado,95U59805,Proposition 41,,,Yes,79
+El Dorado,95U59805,Proposition 42,,,No,50
+El Dorado,95U59805,Proposition 42,,,Yes,80
 El Dorado,95U59805,Secretary of State,,DEM,Alex Padilla,31
 El Dorado,95U59805,Secretary of State,,IND,Dan Schnur,16
 El Dorado,95U59805,Secretary of State,,GRN,David Curtis,5
@@ -5407,37 +5189,27 @@ El Dorado,95U59907,Controller,,REP,David Evans,6
 El Dorado,95U59907,Controller,,DEM,John A. Pérez,6
 El Dorado,95U59907,Controller,,GRN,Laura Wells,1
 El Dorado,95U59907,Controller,,DEM,Tammy D. Blair,2
-El Dorado,95U59907,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,95U59907,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,95U59907,Governor,,REP,Alma Marie Winston,0
 El Dorado,95U59907,Governor,,REP,Andrew Blount,2
-El Dorado,95U59907,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,95U59907,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
-El Dorado,95U59907,Governor,,REP,Glenn Champ,0
-El Dorado,95U59907,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,95U59907,Governor,,IND,Joe Leicht,0
-El Dorado,95U59907,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,95U59907,Governor,,REP,Neel Kashkari,10
-El Dorado,95U59907,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,95U59907,Governor,,REP,Richard William Aguirre,0
-El Dorado,95U59907,Governor,,IND,Robert Newman,0
 El Dorado,95U59907,Governor,,REP,Tim Donnelly,1
 El Dorado,95U59907,Insurance Commissioner,,DEM,Dave Jones,18
-El Dorado,95U59907,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 El Dorado,95U59907,Insurance Commissioner,,REP,Ted Gaines,15
 El Dorado,95U59907,Lieutenant Governor,,AME,Alan Reynolds,1
-El Dorado,95U59907,Lieutenant Governor,,PAF,Amos Johnson,0
 El Dorado,95U59907,Lieutenant Governor,,REP,David Fennell,5
 El Dorado,95U59907,Lieutenant Governor,,DEM,Eric Korevaar,1
 El Dorado,95U59907,Lieutenant Governor,,DEM,Gavin Newsom,20
 El Dorado,95U59907,Lieutenant Governor,,REP,George Yang,2
 El Dorado,95U59907,Lieutenant Governor,,GRN,Jena F. Goodman,1
 El Dorado,95U59907,Lieutenant Governor,,REP,Ron Nehring,6
+El Dorado,95U59907,Proposition 41,,,No,11
+El Dorado,95U59907,Proposition 41,,,Yes,21
+El Dorado,95U59907,Proposition 42,,,No,16
+El Dorado,95U59907,Proposition 42,,,Yes,16
 El Dorado,95U59907,Secretary of State,,DEM,Alex Padilla,11
 El Dorado,95U59907,Secretary of State,,IND,Dan Schnur,5
 El Dorado,95U59907,Secretary of State,,GRN,David Curtis,1
 El Dorado,95U59907,Secretary of State,,DEM,Derek Cressman,1
-El Dorado,95U59907,Secretary of State,,DEM,Jeffrey H. Drobman,0
 El Dorado,95U59907,Secretary of State,,DEM,Leland Yee,3
 El Dorado,95U59907,Secretary of State,,REP,Pete Peterson,8
 El Dorado,95U59907,Secretary of State,,REP,Roy Allmond,2
@@ -5467,19 +5239,14 @@ El Dorado,96U10109,Controller,,DEM,John A. Pérez,23
 El Dorado,96U10109,Controller,,GRN,Laura Wells,10
 El Dorado,96U10109,Controller,,DEM,Tammy D. Blair,4
 El Dorado,96U10109,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-El Dorado,96U10109,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,96U10109,Governor,,REP,Alma Marie Winston,2
 El Dorado,96U10109,Governor,,REP,Andrew Blount,9
-El Dorado,96U10109,Governor,,PAF,Cindy L. Sheehan,0
 El Dorado,96U10109,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 El Dorado,96U10109,Governor,,REP,Glenn Champ,9
 El Dorado,96U10109,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,96U10109,Governor,,IND,Joe Leicht,2
-El Dorado,96U10109,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,96U10109,Governor,,REP,Neel Kashkari,85
 El Dorado,96U10109,Governor,,IND,Rakesh Kumar Christian,1
-El Dorado,96U10109,Governor,,REP,Richard William Aguirre,0
-El Dorado,96U10109,Governor,,IND,Robert Newman,0
 El Dorado,96U10109,Governor,,REP,Tim Donnelly,61
 El Dorado,96U10109,Insurance Commissioner,,DEM,Dave Jones,73
 El Dorado,96U10109,Insurance Commissioner,,PAF,Nathalie Hrizi,5
@@ -5490,8 +5257,11 @@ El Dorado,96U10109,Lieutenant Governor,,REP,David Fennell,17
 El Dorado,96U10109,Lieutenant Governor,,DEM,Eric Korevaar,11
 El Dorado,96U10109,Lieutenant Governor,,DEM,Gavin Newsom,63
 El Dorado,96U10109,Lieutenant Governor,,REP,George Yang,20
-El Dorado,96U10109,Lieutenant Governor,,GRN,Jena F. Goodman,0
 El Dorado,96U10109,Lieutenant Governor,,REP,Ron Nehring,121
+El Dorado,96U10109,Proposition 41,,,No,158
+El Dorado,96U10109,Proposition 41,,,Yes,97
+El Dorado,96U10109,Proposition 42,,,No,130
+El Dorado,96U10109,Proposition 42,,,Yes,119
 El Dorado,96U10109,Secretary of State,,DEM,Alex Padilla,35
 El Dorado,96U10109,Secretary of State,,IND,Dan Schnur,47
 El Dorado,96U10109,Secretary of State,,GRN,David Curtis,2
@@ -5511,65 +5281,6 @@ El Dorado,96U10109,Treasurer,,DEM,John Chiang,86
 El Dorado,96U10109,U.S. House,4,REP,"Arthur ""Art"" Moore",71
 El Dorado,96U10109,U.S. House,4,IND,Jeffrey D. Gerlach,35
 El Dorado,96U10109,U.S. House,4,REP,Tom McClintock,144
-El Dorado,96U40103,Attorney General,,REP,David King,0
-El Dorado,96U40103,Attorney General,,REP,John Haggerty,0
-El Dorado,96U40103,Attorney General,,LIB,Jonathan Jaech,0
-El Dorado,96U40103,Attorney General,,DEM,Kamala D. Harris,0
-El Dorado,96U40103,Attorney General,,IND,Orly Taitz,0
-El Dorado,96U40103,Attorney General,,REP,Phil Wyman,0
-El Dorado,96U40103,Attorney General,,REP,Ronald Gold,0
-El Dorado,96U40103,Board of Equalization,1,DEM,Chris Parker,0
-El Dorado,96U40103,Board of Equalization,1,REP,George Runner,0
-El Dorado,96U40103,Controller,,REP,Ashley Swearengin,0
-El Dorado,96U40103,Controller,,DEM,Betty T. Yee,0
-El Dorado,96U40103,Controller,,REP,David Evans,0
-El Dorado,96U40103,Controller,,DEM,John A. Pérez,0
-El Dorado,96U40103,Controller,,GRN,Laura Wells,0
-El Dorado,96U40103,Controller,,DEM,Tammy D. Blair,0
-El Dorado,96U40103,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-El Dorado,96U40103,Governor,,DEM,Akinyemi Agbede,0
-El Dorado,96U40103,Governor,,REP,Alma Marie Winston,0
-El Dorado,96U40103,Governor,,REP,Andrew Blount,0
-El Dorado,96U40103,Governor,,PAF,Cindy L. Sheehan,0
-El Dorado,96U40103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-El Dorado,96U40103,Governor,,REP,Glenn Champ,0
-El Dorado,96U40103,Governor,,IND,Janel Hyeshia Buycks,0
-El Dorado,96U40103,Governor,,IND,Joe Leicht,0
-El Dorado,96U40103,Governor,,GRN,Luis J. Rodriguez,0
-El Dorado,96U40103,Governor,,REP,Neel Kashkari,0
-El Dorado,96U40103,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,96U40103,Governor,,REP,Richard William Aguirre,0
-El Dorado,96U40103,Governor,,IND,Robert Newman,0
-El Dorado,96U40103,Governor,,REP,Tim Donnelly,0
-El Dorado,96U40103,Insurance Commissioner,,DEM,Dave Jones,0
-El Dorado,96U40103,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-El Dorado,96U40103,Insurance Commissioner,,REP,Ted Gaines,0
-El Dorado,96U40103,Lieutenant Governor,,AME,Alan Reynolds,0
-El Dorado,96U40103,Lieutenant Governor,,PAF,Amos Johnson,0
-El Dorado,96U40103,Lieutenant Governor,,REP,David Fennell,0
-El Dorado,96U40103,Lieutenant Governor,,DEM,Eric Korevaar,0
-El Dorado,96U40103,Lieutenant Governor,,DEM,Gavin Newsom,0
-El Dorado,96U40103,Lieutenant Governor,,REP,George Yang,0
-El Dorado,96U40103,Lieutenant Governor,,GRN,Jena F. Goodman,0
-El Dorado,96U40103,Lieutenant Governor,,REP,Ron Nehring,0
-El Dorado,96U40103,Secretary of State,,DEM,Alex Padilla,0
-El Dorado,96U40103,Secretary of State,,IND,Dan Schnur,0
-El Dorado,96U40103,Secretary of State,,GRN,David Curtis,0
-El Dorado,96U40103,Secretary of State,,DEM,Derek Cressman,0
-El Dorado,96U40103,Secretary of State,,DEM,Jeffrey H. Drobman,0
-El Dorado,96U40103,Secretary of State,,DEM,Leland Yee,0
-El Dorado,96U40103,Secretary of State,,REP,Pete Peterson,0
-El Dorado,96U40103,Secretary of State,,REP,Roy Allmond,0
-El Dorado,96U40103,State Assembly,5,REP,Frank Bigelow,0
-El Dorado,96U40103,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-El Dorado,96U40103,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-El Dorado,96U40103,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-El Dorado,96U40103,Treasurer,,GRN,Ellen H. Brown,0
-El Dorado,96U40103,Treasurer,,REP,Greg Conlon,0
-El Dorado,96U40103,Treasurer,,DEM,John Chiang,0
-El Dorado,96U40103,U.S. House,4,REP,"Arthur ""Art"" Moore",0
-El Dorado,96U40103,U.S. House,4,IND,Jeffrey D. Gerlach,0
-El Dorado,96U40103,U.S. House,4,REP,Tom McClintock,0
 El Dorado,96U40111,Attorney General,,REP,David King,14
 El Dorado,96U40111,Attorney General,,REP,John Haggerty,24
 El Dorado,96U40111,Attorney General,,LIB,Jonathan Jaech,7
@@ -5586,7 +5297,6 @@ El Dorado,96U40111,Controller,,DEM,John A. Pérez,20
 El Dorado,96U40111,Controller,,GRN,Laura Wells,14
 El Dorado,96U40111,Controller,,DEM,Tammy D. Blair,9
 El Dorado,96U40111,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-El Dorado,96U40111,Governor,,DEM,Akinyemi Agbede,0
 El Dorado,96U40111,Governor,,REP,Alma Marie Winston,2
 El Dorado,96U40111,Governor,,REP,Andrew Blount,2
 El Dorado,96U40111,Governor,,PAF,Cindy L. Sheehan,2
@@ -5594,11 +5304,7 @@ El Dorado,96U40111,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 El Dorado,96U40111,Governor,,REP,Glenn Champ,6
 El Dorado,96U40111,Governor,,IND,Janel Hyeshia Buycks,1
 El Dorado,96U40111,Governor,,IND,Joe Leicht,1
-El Dorado,96U40111,Governor,,GRN,Luis J. Rodriguez,0
 El Dorado,96U40111,Governor,,REP,Neel Kashkari,80
-El Dorado,96U40111,Governor,,IND,Rakesh Kumar Christian,0
-El Dorado,96U40111,Governor,,REP,Richard William Aguirre,0
-El Dorado,96U40111,Governor,,IND,Robert Newman,0
 El Dorado,96U40111,Governor,,REP,Tim Donnelly,35
 El Dorado,96U40111,Insurance Commissioner,,DEM,Dave Jones,68
 El Dorado,96U40111,Insurance Commissioner,,PAF,Nathalie Hrizi,8
@@ -5611,6 +5317,10 @@ El Dorado,96U40111,Lieutenant Governor,,DEM,Gavin Newsom,84
 El Dorado,96U40111,Lieutenant Governor,,REP,George Yang,17
 El Dorado,96U40111,Lieutenant Governor,,GRN,Jena F. Goodman,2
 El Dorado,96U40111,Lieutenant Governor,,REP,Ron Nehring,73
+El Dorado,96U40111,Proposition 41,,,No,102
+El Dorado,96U40111,Proposition 41,,,Yes,91
+El Dorado,96U40111,Proposition 42,,,No,102
+El Dorado,96U40111,Proposition 42,,,Yes,85
 El Dorado,96U40111,Secretary of State,,DEM,Alex Padilla,33
 El Dorado,96U40111,Secretary of State,,IND,Dan Schnur,40
 El Dorado,96U40111,Secretary of State,,GRN,David Curtis,9

@@ -21,12 +21,9 @@ Nevada,CP01,Governor,,REP,Andrew Blount,3
 Nevada,CP01,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP01,Governor,,DEM,"Edmund G. ""Jerry"" Brown",171
 Nevada,CP01,Governor,,REP,Glenn Champ,3
-Nevada,CP01,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP01,Governor,,IND,Joe Leicht,0
 Nevada,CP01,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP01,Governor,,REP,Neel Kashkari,59
 Nevada,CP01,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP01,Governor,,REP,Richard William Aguirre,0
 Nevada,CP01,Governor,,IND,Robert Newman,2
 Nevada,CP01,Governor,,REP,Tim Donnelly,89
 Nevada,CP01,Insurance Commissioner,,DEM,Dave Jones,146
@@ -40,6 +37,10 @@ Nevada,CP01,Lieutenant Governor,,DEM,Gavin Newsom,139
 Nevada,CP01,Lieutenant Governor,,REP,George Yang,43
 Nevada,CP01,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Nevada,CP01,Lieutenant Governor,,REP,Ron Nehring,87
+Nevada,CP01,Proposition 41,,,No,161
+Nevada,CP01,Proposition 41,,,Yes,171
+Nevada,CP01,Proposition 42,,,No,185
+Nevada,CP01,Proposition 42,,,Yes,140
 Nevada,CP01,Secretary of State,,DEM,Alex Padilla,60
 Nevada,CP01,Secretary of State,,IND,Dan Schnur,11
 Nevada,CP01,Secretary of State,,GRN,David Curtis,17
@@ -82,12 +83,8 @@ Nevada,CP02,Governor,,REP,Andrew Blount,2
 Nevada,CP02,Governor,,PAF,Cindy L. Sheehan,8
 Nevada,CP02,Governor,,DEM,"Edmund G. ""Jerry"" Brown",204
 Nevada,CP02,Governor,,REP,Glenn Champ,6
-Nevada,CP02,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP02,Governor,,IND,Joe Leicht,0
 Nevada,CP02,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP02,Governor,,REP,Neel Kashkari,84
-Nevada,CP02,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP02,Governor,,REP,Richard William Aguirre,0
 Nevada,CP02,Governor,,IND,Robert Newman,3
 Nevada,CP02,Governor,,REP,Tim Donnelly,97
 Nevada,CP02,Insurance Commissioner,,DEM,Dave Jones,164
@@ -101,6 +98,10 @@ Nevada,CP02,Lieutenant Governor,,DEM,Gavin Newsom,178
 Nevada,CP02,Lieutenant Governor,,REP,George Yang,51
 Nevada,CP02,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Nevada,CP02,Lieutenant Governor,,REP,Ron Nehring,120
+Nevada,CP02,Proposition 41,,,No,193
+Nevada,CP02,Proposition 41,,,Yes,213
+Nevada,CP02,Proposition 42,,,No,208
+Nevada,CP02,Proposition 42,,,Yes,185
 Nevada,CP02,Secretary of State,,DEM,Alex Padilla,62
 Nevada,CP02,Secretary of State,,IND,Dan Schnur,15
 Nevada,CP02,Secretary of State,,GRN,David Curtis,26
@@ -143,7 +144,6 @@ Nevada,CP03,Governor,,REP,Andrew Blount,5
 Nevada,CP03,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP03,Governor,,DEM,"Edmund G. ""Jerry"" Brown",204
 Nevada,CP03,Governor,,REP,Glenn Champ,2
-Nevada,CP03,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP03,Governor,,IND,Joe Leicht,4
 Nevada,CP03,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP03,Governor,,REP,Neel Kashkari,75
@@ -162,6 +162,10 @@ Nevada,CP03,Lieutenant Governor,,DEM,Gavin Newsom,173
 Nevada,CP03,Lieutenant Governor,,REP,George Yang,47
 Nevada,CP03,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Nevada,CP03,Lieutenant Governor,,REP,Ron Nehring,112
+Nevada,CP03,Proposition 41,,,No,131
+Nevada,CP03,Proposition 41,,,Yes,251
+Nevada,CP03,Proposition 42,,,No,203
+Nevada,CP03,Proposition 42,,,Yes,163
 Nevada,CP03,Secretary of State,,DEM,Alex Padilla,56
 Nevada,CP03,Secretary of State,,IND,Dan Schnur,14
 Nevada,CP03,Secretary of State,,GRN,David Curtis,19
@@ -204,11 +208,8 @@ Nevada,CP04,Governor,,REP,Andrew Blount,9
 Nevada,CP04,Governor,,PAF,Cindy L. Sheehan,14
 Nevada,CP04,Governor,,DEM,"Edmund G. ""Jerry"" Brown",370
 Nevada,CP04,Governor,,REP,Glenn Champ,3
-Nevada,CP04,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP04,Governor,,IND,Joe Leicht,0
 Nevada,CP04,Governor,,GRN,Luis J. Rodriguez,9
 Nevada,CP04,Governor,,REP,Neel Kashkari,101
-Nevada,CP04,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP04,Governor,,REP,Richard William Aguirre,2
 Nevada,CP04,Governor,,IND,Robert Newman,8
 Nevada,CP04,Governor,,REP,Tim Donnelly,93
@@ -223,6 +224,10 @@ Nevada,CP04,Lieutenant Governor,,DEM,Gavin Newsom,322
 Nevada,CP04,Lieutenant Governor,,REP,George Yang,55
 Nevada,CP04,Lieutenant Governor,,GRN,Jena F. Goodman,27
 Nevada,CP04,Lieutenant Governor,,REP,Ron Nehring,117
+Nevada,CP04,Proposition 41,,,No,222
+Nevada,CP04,Proposition 41,,,Yes,365
+Nevada,CP04,Proposition 42,,,No,271
+Nevada,CP04,Proposition 42,,,Yes,295
 Nevada,CP04,Secretary of State,,DEM,Alex Padilla,104
 Nevada,CP04,Secretary of State,,IND,Dan Schnur,27
 Nevada,CP04,Secretary of State,,GRN,David Curtis,33
@@ -258,14 +263,12 @@ Nevada,CP05,Controller,,REP,David Evans,144
 Nevada,CP05,Controller,,DEM,John A. Pérez,58
 Nevada,CP05,Controller,,GRN,Laura Wells,77
 Nevada,CP05,Controller,,DEM,Tammy D. Blair,14
-Nevada,CP05,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,CP05,Governor,,DEM,Akinyemi Agbede,2
 Nevada,CP05,Governor,,REP,Alma Marie Winston,6
 Nevada,CP05,Governor,,REP,Andrew Blount,4
 Nevada,CP05,Governor,,PAF,Cindy L. Sheehan,13
 Nevada,CP05,Governor,,DEM,"Edmund G. ""Jerry"" Brown",365
 Nevada,CP05,Governor,,REP,Glenn Champ,10
-Nevada,CP05,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP05,Governor,,IND,Joe Leicht,1
 Nevada,CP05,Governor,,GRN,Luis J. Rodriguez,25
 Nevada,CP05,Governor,,REP,Neel Kashkari,104
@@ -284,6 +287,10 @@ Nevada,CP05,Lieutenant Governor,,DEM,Gavin Newsom,324
 Nevada,CP05,Lieutenant Governor,,REP,George Yang,68
 Nevada,CP05,Lieutenant Governor,,GRN,Jena F. Goodman,34
 Nevada,CP05,Lieutenant Governor,,REP,Ron Nehring,140
+Nevada,CP05,Proposition 41,,,No,236
+Nevada,CP05,Proposition 41,,,Yes,389
+Nevada,CP05,Proposition 42,,,No,265
+Nevada,CP05,Proposition 42,,,Yes,339
 Nevada,CP05,Secretary of State,,DEM,Alex Padilla,113
 Nevada,CP05,Secretary of State,,IND,Dan Schnur,30
 Nevada,CP05,Secretary of State,,GRN,David Curtis,40
@@ -320,19 +327,14 @@ Nevada,CP06,Controller,,DEM,John A. Pérez,43
 Nevada,CP06,Controller,,GRN,Laura Wells,33
 Nevada,CP06,Controller,,DEM,Tammy D. Blair,13
 Nevada,CP06,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Nevada,CP06,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP06,Governor,,REP,Alma Marie Winston,4
 Nevada,CP06,Governor,,REP,Andrew Blount,7
 Nevada,CP06,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP06,Governor,,DEM,"Edmund G. ""Jerry"" Brown",232
 Nevada,CP06,Governor,,REP,Glenn Champ,6
-Nevada,CP06,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP06,Governor,,IND,Joe Leicht,1
 Nevada,CP06,Governor,,GRN,Luis J. Rodriguez,9
 Nevada,CP06,Governor,,REP,Neel Kashkari,105
-Nevada,CP06,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP06,Governor,,REP,Richard William Aguirre,0
-Nevada,CP06,Governor,,IND,Robert Newman,0
 Nevada,CP06,Governor,,REP,Tim Donnelly,92
 Nevada,CP06,Insurance Commissioner,,DEM,Dave Jones,192
 Nevada,CP06,Insurance Commissioner,,PAF,Nathalie Hrizi,18
@@ -345,6 +347,10 @@ Nevada,CP06,Lieutenant Governor,,DEM,Gavin Newsom,204
 Nevada,CP06,Lieutenant Governor,,REP,George Yang,60
 Nevada,CP06,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Nevada,CP06,Lieutenant Governor,,REP,Ron Nehring,122
+Nevada,CP06,Proposition 41,,,No,197
+Nevada,CP06,Proposition 41,,,Yes,248
+Nevada,CP06,Proposition 42,,,No,210
+Nevada,CP06,Proposition 42,,,Yes,217
 Nevada,CP06,Secretary of State,,DEM,Alex Padilla,74
 Nevada,CP06,Secretary of State,,IND,Dan Schnur,22
 Nevada,CP06,Secretary of State,,GRN,David Curtis,19
@@ -381,18 +387,14 @@ Nevada,CP07,Controller,,DEM,John A. Pérez,43
 Nevada,CP07,Controller,,GRN,Laura Wells,36
 Nevada,CP07,Controller,,DEM,Tammy D. Blair,11
 Nevada,CP07,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-Nevada,CP07,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP07,Governor,,REP,Alma Marie Winston,4
 Nevada,CP07,Governor,,REP,Andrew Blount,3
 Nevada,CP07,Governor,,PAF,Cindy L. Sheehan,2
 Nevada,CP07,Governor,,DEM,"Edmund G. ""Jerry"" Brown",188
 Nevada,CP07,Governor,,REP,Glenn Champ,2
-Nevada,CP07,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP07,Governor,,IND,Joe Leicht,0
 Nevada,CP07,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP07,Governor,,REP,Neel Kashkari,91
 Nevada,CP07,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP07,Governor,,REP,Richard William Aguirre,0
 Nevada,CP07,Governor,,IND,Robert Newman,5
 Nevada,CP07,Governor,,REP,Tim Donnelly,78
 Nevada,CP07,Insurance Commissioner,,DEM,Dave Jones,160
@@ -406,6 +408,10 @@ Nevada,CP07,Lieutenant Governor,,DEM,Gavin Newsom,168
 Nevada,CP07,Lieutenant Governor,,REP,George Yang,40
 Nevada,CP07,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Nevada,CP07,Lieutenant Governor,,REP,Ron Nehring,106
+Nevada,CP07,Proposition 41,,,No,135
+Nevada,CP07,Proposition 41,,,Yes,245
+Nevada,CP07,Proposition 42,,,No,190
+Nevada,CP07,Proposition 42,,,Yes,173
 Nevada,CP07,Secretary of State,,DEM,Alex Padilla,71
 Nevada,CP07,Secretary of State,,IND,Dan Schnur,31
 Nevada,CP07,Secretary of State,,GRN,David Curtis,19
@@ -448,7 +454,6 @@ Nevada,CP08,Governor,,REP,Andrew Blount,10
 Nevada,CP08,Governor,,PAF,Cindy L. Sheehan,6
 Nevada,CP08,Governor,,DEM,"Edmund G. ""Jerry"" Brown",286
 Nevada,CP08,Governor,,REP,Glenn Champ,11
-Nevada,CP08,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP08,Governor,,IND,Joe Leicht,4
 Nevada,CP08,Governor,,GRN,Luis J. Rodriguez,7
 Nevada,CP08,Governor,,REP,Neel Kashkari,151
@@ -467,6 +472,10 @@ Nevada,CP08,Lieutenant Governor,,DEM,Gavin Newsom,245
 Nevada,CP08,Lieutenant Governor,,REP,George Yang,81
 Nevada,CP08,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Nevada,CP08,Lieutenant Governor,,REP,Ron Nehring,186
+Nevada,CP08,Proposition 41,,,No,298
+Nevada,CP08,Proposition 41,,,Yes,319
+Nevada,CP08,Proposition 42,,,No,302
+Nevada,CP08,Proposition 42,,,Yes,292
 Nevada,CP08,Secretary of State,,DEM,Alex Padilla,113
 Nevada,CP08,Secretary of State,,IND,Dan Schnur,36
 Nevada,CP08,Secretary of State,,GRN,David Curtis,22
@@ -502,19 +511,13 @@ Nevada,CP09,Controller,,REP,David Evans,26
 Nevada,CP09,Controller,,DEM,John A. Pérez,50
 Nevada,CP09,Controller,,GRN,Laura Wells,59
 Nevada,CP09,Controller,,DEM,Tammy D. Blair,7
-Nevada,CP09,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,CP09,Governor,,DEM,Akinyemi Agbede,1
-Nevada,CP09,Governor,,REP,Alma Marie Winston,0
-Nevada,CP09,Governor,,REP,Andrew Blount,0
 Nevada,CP09,Governor,,PAF,Cindy L. Sheehan,11
 Nevada,CP09,Governor,,DEM,"Edmund G. ""Jerry"" Brown",294
 Nevada,CP09,Governor,,REP,Glenn Champ,1
-Nevada,CP09,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP09,Governor,,IND,Joe Leicht,1
 Nevada,CP09,Governor,,GRN,Luis J. Rodriguez,13
 Nevada,CP09,Governor,,REP,Neel Kashkari,30
-Nevada,CP09,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP09,Governor,,REP,Richard William Aguirre,0
 Nevada,CP09,Governor,,IND,Robert Newman,3
 Nevada,CP09,Governor,,REP,Tim Donnelly,32
 Nevada,CP09,Insurance Commissioner,,DEM,Dave Jones,251
@@ -528,6 +531,10 @@ Nevada,CP09,Lieutenant Governor,,DEM,Gavin Newsom,272
 Nevada,CP09,Lieutenant Governor,,REP,George Yang,21
 Nevada,CP09,Lieutenant Governor,,GRN,Jena F. Goodman,20
 Nevada,CP09,Lieutenant Governor,,REP,Ron Nehring,35
+Nevada,CP09,Proposition 41,,,No,99
+Nevada,CP09,Proposition 41,,,Yes,264
+Nevada,CP09,Proposition 42,,,No,140
+Nevada,CP09,Proposition 42,,,Yes,213
 Nevada,CP09,Secretary of State,,DEM,Alex Padilla,63
 Nevada,CP09,Secretary of State,,IND,Dan Schnur,16
 Nevada,CP09,Secretary of State,,GRN,David Curtis,38
@@ -570,12 +577,10 @@ Nevada,CP10,Governor,,REP,Andrew Blount,3
 Nevada,CP10,Governor,,PAF,Cindy L. Sheehan,13
 Nevada,CP10,Governor,,DEM,"Edmund G. ""Jerry"" Brown",307
 Nevada,CP10,Governor,,REP,Glenn Champ,2
-Nevada,CP10,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP10,Governor,,IND,Joe Leicht,1
 Nevada,CP10,Governor,,GRN,Luis J. Rodriguez,23
 Nevada,CP10,Governor,,REP,Neel Kashkari,74
 Nevada,CP10,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP10,Governor,,REP,Richard William Aguirre,0
 Nevada,CP10,Governor,,IND,Robert Newman,2
 Nevada,CP10,Governor,,REP,Tim Donnelly,51
 Nevada,CP10,Insurance Commissioner,,DEM,Dave Jones,278
@@ -589,6 +594,10 @@ Nevada,CP10,Lieutenant Governor,,DEM,Gavin Newsom,285
 Nevada,CP10,Lieutenant Governor,,REP,George Yang,38
 Nevada,CP10,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Nevada,CP10,Lieutenant Governor,,REP,Ron Nehring,82
+Nevada,CP10,Proposition 41,,,No,154
+Nevada,CP10,Proposition 41,,,Yes,312
+Nevada,CP10,Proposition 42,,,No,186
+Nevada,CP10,Proposition 42,,,Yes,267
 Nevada,CP10,Secretary of State,,DEM,Alex Padilla,94
 Nevada,CP10,Secretary of State,,IND,Dan Schnur,26
 Nevada,CP10,Secretary of State,,GRN,David Curtis,31
@@ -625,17 +634,14 @@ Nevada,CP11,Controller,,DEM,John A. Pérez,45
 Nevada,CP11,Controller,,GRN,Laura Wells,30
 Nevada,CP11,Controller,,DEM,Tammy D. Blair,16
 Nevada,CP11,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Nevada,CP11,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP11,Governor,,REP,Alma Marie Winston,11
 Nevada,CP11,Governor,,REP,Andrew Blount,9
 Nevada,CP11,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP11,Governor,,DEM,"Edmund G. ""Jerry"" Brown",177
 Nevada,CP11,Governor,,REP,Glenn Champ,9
 Nevada,CP11,Governor,,IND,Janel Hyeshia Buycks,2
-Nevada,CP11,Governor,,IND,Joe Leicht,0
 Nevada,CP11,Governor,,GRN,Luis J. Rodriguez,3
 Nevada,CP11,Governor,,REP,Neel Kashkari,156
-Nevada,CP11,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP11,Governor,,REP,Richard William Aguirre,5
 Nevada,CP11,Governor,,IND,Robert Newman,14
 Nevada,CP11,Governor,,REP,Tim Donnelly,123
@@ -650,6 +656,10 @@ Nevada,CP11,Lieutenant Governor,,DEM,Gavin Newsom,144
 Nevada,CP11,Lieutenant Governor,,REP,George Yang,66
 Nevada,CP11,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Nevada,CP11,Lieutenant Governor,,REP,Ron Nehring,173
+Nevada,CP11,Proposition 41,,,No,248
+Nevada,CP11,Proposition 41,,,Yes,244
+Nevada,CP11,Proposition 42,,,No,242
+Nevada,CP11,Proposition 42,,,Yes,236
 Nevada,CP11,Secretary of State,,DEM,Alex Padilla,47
 Nevada,CP11,Secretary of State,,IND,Dan Schnur,27
 Nevada,CP11,Secretary of State,,GRN,David Curtis,17
@@ -686,18 +696,14 @@ Nevada,CP12,Controller,,DEM,John A. Pérez,66
 Nevada,CP12,Controller,,GRN,Laura Wells,37
 Nevada,CP12,Controller,,DEM,Tammy D. Blair,23
 Nevada,CP12,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",6
-Nevada,CP12,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP12,Governor,,REP,Alma Marie Winston,16
 Nevada,CP12,Governor,,REP,Andrew Blount,17
 Nevada,CP12,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,CP12,Governor,,DEM,"Edmund G. ""Jerry"" Brown",318
 Nevada,CP12,Governor,,REP,Glenn Champ,12
-Nevada,CP12,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP12,Governor,,IND,Joe Leicht,0
 Nevada,CP12,Governor,,GRN,Luis J. Rodriguez,4
 Nevada,CP12,Governor,,REP,Neel Kashkari,205
 Nevada,CP12,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP12,Governor,,REP,Richard William Aguirre,0
 Nevada,CP12,Governor,,IND,Robert Newman,3
 Nevada,CP12,Governor,,REP,Tim Donnelly,205
 Nevada,CP12,Insurance Commissioner,,DEM,Dave Jones,252
@@ -711,6 +717,10 @@ Nevada,CP12,Lieutenant Governor,,DEM,Gavin Newsom,257
 Nevada,CP12,Lieutenant Governor,,REP,George Yang,101
 Nevada,CP12,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Nevada,CP12,Lieutenant Governor,,REP,Ron Nehring,288
+Nevada,CP12,Proposition 41,,,No,318
+Nevada,CP12,Proposition 41,,,Yes,433
+Nevada,CP12,Proposition 42,,,No,408
+Nevada,CP12,Proposition 42,,,Yes,320
 Nevada,CP12,Secretary of State,,DEM,Alex Padilla,124
 Nevada,CP12,Secretary of State,,IND,Dan Schnur,39
 Nevada,CP12,Secretary of State,,GRN,David Curtis,15
@@ -746,8 +756,6 @@ Nevada,CP13,Controller,,REP,David Evans,233
 Nevada,CP13,Controller,,DEM,John A. Pérez,73
 Nevada,CP13,Controller,,GRN,Laura Wells,40
 Nevada,CP13,Controller,,DEM,Tammy D. Blair,26
-Nevada,CP13,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,CP13,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP13,Governor,,REP,Alma Marie Winston,16
 Nevada,CP13,Governor,,REP,Andrew Blount,12
 Nevada,CP13,Governor,,PAF,Cindy L. Sheehan,10
@@ -758,7 +766,6 @@ Nevada,CP13,Governor,,IND,Joe Leicht,2
 Nevada,CP13,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP13,Governor,,REP,Neel Kashkari,205
 Nevada,CP13,Governor,,IND,Rakesh Kumar Christian,2
-Nevada,CP13,Governor,,REP,Richard William Aguirre,0
 Nevada,CP13,Governor,,IND,Robert Newman,8
 Nevada,CP13,Governor,,REP,Tim Donnelly,166
 Nevada,CP13,Insurance Commissioner,,DEM,Dave Jones,225
@@ -772,6 +779,10 @@ Nevada,CP13,Lieutenant Governor,,DEM,Gavin Newsom,225
 Nevada,CP13,Lieutenant Governor,,REP,George Yang,91
 Nevada,CP13,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Nevada,CP13,Lieutenant Governor,,REP,Ron Nehring,240
+Nevada,CP13,Proposition 41,,,No,326
+Nevada,CP13,Proposition 41,,,Yes,374
+Nevada,CP13,Proposition 42,,,No,354
+Nevada,CP13,Proposition 42,,,Yes,318
 Nevada,CP13,Secretary of State,,DEM,Alex Padilla,114
 Nevada,CP13,Secretary of State,,IND,Dan Schnur,45
 Nevada,CP13,Secretary of State,,GRN,David Curtis,14
@@ -808,31 +819,29 @@ Nevada,CP14,Controller,,DEM,John A. Pérez,13
 Nevada,CP14,Controller,,GRN,Laura Wells,12
 Nevada,CP14,Controller,,DEM,Tammy D. Blair,3
 Nevada,CP14,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Nevada,CP14,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP14,Governor,,REP,Alma Marie Winston,5
 Nevada,CP14,Governor,,REP,Andrew Blount,3
 Nevada,CP14,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP14,Governor,,DEM,"Edmund G. ""Jerry"" Brown",46
 Nevada,CP14,Governor,,REP,Glenn Champ,3
-Nevada,CP14,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP14,Governor,,IND,Joe Leicht,0
 Nevada,CP14,Governor,,GRN,Luis J. Rodriguez,5
 Nevada,CP14,Governor,,REP,Neel Kashkari,44
-Nevada,CP14,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP14,Governor,,REP,Richard William Aguirre,0
 Nevada,CP14,Governor,,IND,Robert Newman,1
 Nevada,CP14,Governor,,REP,Tim Donnelly,47
 Nevada,CP14,Insurance Commissioner,,DEM,Dave Jones,33
 Nevada,CP14,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Nevada,CP14,Insurance Commissioner,,REP,Ted Gaines,104
 Nevada,CP14,Lieutenant Governor,,AME,Alan Reynolds,2
-Nevada,CP14,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP14,Lieutenant Governor,,REP,David Fennell,24
 Nevada,CP14,Lieutenant Governor,,DEM,Eric Korevaar,4
 Nevada,CP14,Lieutenant Governor,,DEM,Gavin Newsom,35
 Nevada,CP14,Lieutenant Governor,,REP,George Yang,19
 Nevada,CP14,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Nevada,CP14,Lieutenant Governor,,REP,Ron Nehring,61
+Nevada,CP14,Proposition 41,,,No,88
+Nevada,CP14,Proposition 41,,,Yes,69
+Nevada,CP14,Proposition 42,,,No,97
+Nevada,CP14,Proposition 42,,,Yes,54
 Nevada,CP14,Secretary of State,,DEM,Alex Padilla,21
 Nevada,CP14,Secretary of State,,IND,Dan Schnur,6
 Nevada,CP14,Secretary of State,,GRN,David Curtis,8
@@ -875,12 +884,9 @@ Nevada,CP15,Governor,,REP,Andrew Blount,16
 Nevada,CP15,Governor,,PAF,Cindy L. Sheehan,8
 Nevada,CP15,Governor,,DEM,"Edmund G. ""Jerry"" Brown",392
 Nevada,CP15,Governor,,REP,Glenn Champ,9
-Nevada,CP15,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP15,Governor,,IND,Joe Leicht,2
 Nevada,CP15,Governor,,GRN,Luis J. Rodriguez,11
 Nevada,CP15,Governor,,REP,Neel Kashkari,108
-Nevada,CP15,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP15,Governor,,REP,Richard William Aguirre,0
 Nevada,CP15,Governor,,IND,Robert Newman,6
 Nevada,CP15,Governor,,REP,Tim Donnelly,143
 Nevada,CP15,Insurance Commissioner,,DEM,Dave Jones,316
@@ -894,6 +900,10 @@ Nevada,CP15,Lieutenant Governor,,DEM,Gavin Newsom,334
 Nevada,CP15,Lieutenant Governor,,REP,George Yang,87
 Nevada,CP15,Lieutenant Governor,,GRN,Jena F. Goodman,21
 Nevada,CP15,Lieutenant Governor,,REP,Ron Nehring,180
+Nevada,CP15,Proposition 41,,,No,200
+Nevada,CP15,Proposition 41,,,Yes,487
+Nevada,CP15,Proposition 42,,,No,311
+Nevada,CP15,Proposition 42,,,Yes,345
 Nevada,CP15,Secretary of State,,DEM,Alex Padilla,135
 Nevada,CP15,Secretary of State,,IND,Dan Schnur,43
 Nevada,CP15,Secretary of State,,GRN,David Curtis,22
@@ -930,7 +940,6 @@ Nevada,CP16,Controller,,DEM,John A. Pérez,75
 Nevada,CP16,Controller,,GRN,Laura Wells,38
 Nevada,CP16,Controller,,DEM,Tammy D. Blair,27
 Nevada,CP16,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Nevada,CP16,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP16,Governor,,REP,Alma Marie Winston,9
 Nevada,CP16,Governor,,REP,Andrew Blount,14
 Nevada,CP16,Governor,,PAF,Cindy L. Sheehan,1
@@ -940,7 +949,6 @@ Nevada,CP16,Governor,,IND,Janel Hyeshia Buycks,3
 Nevada,CP16,Governor,,IND,Joe Leicht,2
 Nevada,CP16,Governor,,GRN,Luis J. Rodriguez,5
 Nevada,CP16,Governor,,REP,Neel Kashkari,184
-Nevada,CP16,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP16,Governor,,REP,Richard William Aguirre,3
 Nevada,CP16,Governor,,IND,Robert Newman,3
 Nevada,CP16,Governor,,REP,Tim Donnelly,164
@@ -955,6 +963,10 @@ Nevada,CP16,Lieutenant Governor,,DEM,Gavin Newsom,263
 Nevada,CP16,Lieutenant Governor,,REP,George Yang,85
 Nevada,CP16,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Nevada,CP16,Lieutenant Governor,,REP,Ron Nehring,238
+Nevada,CP16,Proposition 41,,,No,307
+Nevada,CP16,Proposition 41,,,Yes,396
+Nevada,CP16,Proposition 42,,,No,368
+Nevada,CP16,Proposition 42,,,Yes,306
 Nevada,CP16,Secretary of State,,DEM,Alex Padilla,102
 Nevada,CP16,Secretary of State,,IND,Dan Schnur,39
 Nevada,CP16,Secretary of State,,GRN,David Curtis,11
@@ -990,7 +1002,6 @@ Nevada,CP17,Controller,,REP,David Evans,118
 Nevada,CP17,Controller,,DEM,John A. Pérez,43
 Nevada,CP17,Controller,,GRN,Laura Wells,36
 Nevada,CP17,Controller,,DEM,Tammy D. Blair,18
-Nevada,CP17,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,CP17,Governor,,DEM,Akinyemi Agbede,1
 Nevada,CP17,Governor,,REP,Alma Marie Winston,7
 Nevada,CP17,Governor,,REP,Andrew Blount,9
@@ -998,11 +1009,9 @@ Nevada,CP17,Governor,,PAF,Cindy L. Sheehan,9
 Nevada,CP17,Governor,,DEM,"Edmund G. ""Jerry"" Brown",208
 Nevada,CP17,Governor,,REP,Glenn Champ,3
 Nevada,CP17,Governor,,IND,Janel Hyeshia Buycks,2
-Nevada,CP17,Governor,,IND,Joe Leicht,0
 Nevada,CP17,Governor,,GRN,Luis J. Rodriguez,4
 Nevada,CP17,Governor,,REP,Neel Kashkari,125
 Nevada,CP17,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP17,Governor,,REP,Richard William Aguirre,0
 Nevada,CP17,Governor,,IND,Robert Newman,3
 Nevada,CP17,Governor,,REP,Tim Donnelly,108
 Nevada,CP17,Insurance Commissioner,,DEM,Dave Jones,172
@@ -1016,6 +1025,10 @@ Nevada,CP17,Lieutenant Governor,,DEM,Gavin Newsom,180
 Nevada,CP17,Lieutenant Governor,,REP,George Yang,52
 Nevada,CP17,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Nevada,CP17,Lieutenant Governor,,REP,Ron Nehring,155
+Nevada,CP17,Proposition 41,,,No,196
+Nevada,CP17,Proposition 41,,,Yes,272
+Nevada,CP17,Proposition 42,,,No,222
+Nevada,CP17,Proposition 42,,,Yes,228
 Nevada,CP17,Secretary of State,,DEM,Alex Padilla,68
 Nevada,CP17,Secretary of State,,IND,Dan Schnur,21
 Nevada,CP17,Secretary of State,,GRN,David Curtis,18
@@ -1052,13 +1065,11 @@ Nevada,CP18,Controller,,DEM,John A. Pérez,68
 Nevada,CP18,Controller,,GRN,Laura Wells,33
 Nevada,CP18,Controller,,DEM,Tammy D. Blair,25
 Nevada,CP18,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Nevada,CP18,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP18,Governor,,REP,Alma Marie Winston,11
 Nevada,CP18,Governor,,REP,Andrew Blount,4
 Nevada,CP18,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP18,Governor,,DEM,"Edmund G. ""Jerry"" Brown",234
 Nevada,CP18,Governor,,REP,Glenn Champ,10
-Nevada,CP18,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP18,Governor,,IND,Joe Leicht,2
 Nevada,CP18,Governor,,GRN,Luis J. Rodriguez,1
 Nevada,CP18,Governor,,REP,Neel Kashkari,142
@@ -1077,6 +1088,10 @@ Nevada,CP18,Lieutenant Governor,,DEM,Gavin Newsom,189
 Nevada,CP18,Lieutenant Governor,,REP,George Yang,90
 Nevada,CP18,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Nevada,CP18,Lieutenant Governor,,REP,Ron Nehring,182
+Nevada,CP18,Proposition 41,,,No,237
+Nevada,CP18,Proposition 41,,,Yes,307
+Nevada,CP18,Proposition 42,,,No,303
+Nevada,CP18,Proposition 42,,,Yes,232
 Nevada,CP18,Secretary of State,,DEM,Alex Padilla,87
 Nevada,CP18,Secretary of State,,IND,Dan Schnur,34
 Nevada,CP18,Secretary of State,,GRN,David Curtis,13
@@ -1112,32 +1127,29 @@ Nevada,CP19,Controller,,REP,David Evans,100
 Nevada,CP19,Controller,,DEM,John A. Pérez,46
 Nevada,CP19,Controller,,GRN,Laura Wells,15
 Nevada,CP19,Controller,,DEM,Tammy D. Blair,16
-Nevada,CP19,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,CP19,Governor,,DEM,Akinyemi Agbede,1
 Nevada,CP19,Governor,,REP,Alma Marie Winston,4
 Nevada,CP19,Governor,,REP,Andrew Blount,13
-Nevada,CP19,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,CP19,Governor,,DEM,"Edmund G. ""Jerry"" Brown",140
 Nevada,CP19,Governor,,REP,Glenn Champ,6
-Nevada,CP19,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP19,Governor,,IND,Joe Leicht,1
-Nevada,CP19,Governor,,GRN,Luis J. Rodriguez,0
 Nevada,CP19,Governor,,REP,Neel Kashkari,99
 Nevada,CP19,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP19,Governor,,REP,Richard William Aguirre,0
 Nevada,CP19,Governor,,IND,Robert Newman,2
 Nevada,CP19,Governor,,REP,Tim Donnelly,78
 Nevada,CP19,Insurance Commissioner,,DEM,Dave Jones,122
 Nevada,CP19,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Nevada,CP19,Insurance Commissioner,,REP,Ted Gaines,197
-Nevada,CP19,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,CP19,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP19,Lieutenant Governor,,REP,David Fennell,26
 Nevada,CP19,Lieutenant Governor,,DEM,Eric Korevaar,21
 Nevada,CP19,Lieutenant Governor,,DEM,Gavin Newsom,109
 Nevada,CP19,Lieutenant Governor,,REP,George Yang,50
 Nevada,CP19,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Nevada,CP19,Lieutenant Governor,,REP,Ron Nehring,113
+Nevada,CP19,Proposition 41,,,No,140
+Nevada,CP19,Proposition 41,,,Yes,185
+Nevada,CP19,Proposition 42,,,No,186
+Nevada,CP19,Proposition 42,,,Yes,134
 Nevada,CP19,Secretary of State,,DEM,Alex Padilla,44
 Nevada,CP19,Secretary of State,,IND,Dan Schnur,22
 Nevada,CP19,Secretary of State,,GRN,David Curtis,2
@@ -1180,18 +1192,15 @@ Nevada,CP20,Governor,,REP,Andrew Blount,6
 Nevada,CP20,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,CP20,Governor,,DEM,"Edmund G. ""Jerry"" Brown",165
 Nevada,CP20,Governor,,REP,Glenn Champ,6
-Nevada,CP20,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP20,Governor,,IND,Joe Leicht,1
 Nevada,CP20,Governor,,GRN,Luis J. Rodriguez,7
 Nevada,CP20,Governor,,REP,Neel Kashkari,94
 Nevada,CP20,Governor,,IND,Rakesh Kumar Christian,3
-Nevada,CP20,Governor,,REP,Richard William Aguirre,0
 Nevada,CP20,Governor,,IND,Robert Newman,5
 Nevada,CP20,Governor,,REP,Tim Donnelly,96
 Nevada,CP20,Insurance Commissioner,,DEM,Dave Jones,136
 Nevada,CP20,Insurance Commissioner,,PAF,Nathalie Hrizi,16
 Nevada,CP20,Insurance Commissioner,,REP,Ted Gaines,229
-Nevada,CP20,Lieutenant Governor,,AME,Alan Reynolds,0
 Nevada,CP20,Lieutenant Governor,,PAF,Amos Johnson,1
 Nevada,CP20,Lieutenant Governor,,REP,David Fennell,42
 Nevada,CP20,Lieutenant Governor,,DEM,Eric Korevaar,22
@@ -1199,6 +1208,10 @@ Nevada,CP20,Lieutenant Governor,,DEM,Gavin Newsom,131
 Nevada,CP20,Lieutenant Governor,,REP,George Yang,52
 Nevada,CP20,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Nevada,CP20,Lieutenant Governor,,REP,Ron Nehring,125
+Nevada,CP20,Proposition 41,,,No,185
+Nevada,CP20,Proposition 41,,,Yes,196
+Nevada,CP20,Proposition 42,,,No,193
+Nevada,CP20,Proposition 42,,,Yes,177
 Nevada,CP20,Secretary of State,,DEM,Alex Padilla,68
 Nevada,CP20,Secretary of State,,IND,Dan Schnur,21
 Nevada,CP20,Secretary of State,,GRN,David Curtis,14
@@ -1260,6 +1273,10 @@ Nevada,CP21,Lieutenant Governor,,DEM,Gavin Newsom,162
 Nevada,CP21,Lieutenant Governor,,REP,George Yang,73
 Nevada,CP21,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Nevada,CP21,Lieutenant Governor,,REP,Ron Nehring,132
+Nevada,CP21,Proposition 41,,,No,179
+Nevada,CP21,Proposition 41,,,Yes,256
+Nevada,CP21,Proposition 42,,,No,219
+Nevada,CP21,Proposition 42,,,Yes,193
 Nevada,CP21,Secretary of State,,DEM,Alex Padilla,77
 Nevada,CP21,Secretary of State,,IND,Dan Schnur,18
 Nevada,CP21,Secretary of State,,GRN,David Curtis,8
@@ -1296,31 +1313,28 @@ Nevada,CP22,Controller,,DEM,John A. Pérez,30
 Nevada,CP22,Controller,,GRN,Laura Wells,21
 Nevada,CP22,Controller,,DEM,Tammy D. Blair,11
 Nevada,CP22,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Nevada,CP22,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP22,Governor,,REP,Alma Marie Winston,5
-Nevada,CP22,Governor,,REP,Andrew Blount,0
 Nevada,CP22,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP22,Governor,,DEM,"Edmund G. ""Jerry"" Brown",168
 Nevada,CP22,Governor,,REP,Glenn Champ,3
-Nevada,CP22,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP22,Governor,,IND,Joe Leicht,0
 Nevada,CP22,Governor,,GRN,Luis J. Rodriguez,4
 Nevada,CP22,Governor,,REP,Neel Kashkari,46
-Nevada,CP22,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP22,Governor,,REP,Richard William Aguirre,0
 Nevada,CP22,Governor,,IND,Robert Newman,1
 Nevada,CP22,Governor,,REP,Tim Donnelly,63
 Nevada,CP22,Insurance Commissioner,,DEM,Dave Jones,129
 Nevada,CP22,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Nevada,CP22,Insurance Commissioner,,REP,Ted Gaines,125
 Nevada,CP22,Lieutenant Governor,,AME,Alan Reynolds,5
-Nevada,CP22,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP22,Lieutenant Governor,,REP,David Fennell,15
 Nevada,CP22,Lieutenant Governor,,DEM,Eric Korevaar,13
 Nevada,CP22,Lieutenant Governor,,DEM,Gavin Newsom,133
 Nevada,CP22,Lieutenant Governor,,REP,George Yang,33
 Nevada,CP22,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Nevada,CP22,Lieutenant Governor,,REP,Ron Nehring,70
+Nevada,CP22,Proposition 41,,,No,98
+Nevada,CP22,Proposition 41,,,Yes,182
+Nevada,CP22,Proposition 42,,,No,129
+Nevada,CP22,Proposition 42,,,Yes,138
 Nevada,CP22,Secretary of State,,DEM,Alex Padilla,48
 Nevada,CP22,Secretary of State,,IND,Dan Schnur,18
 Nevada,CP22,Secretary of State,,GRN,David Curtis,13
@@ -1367,7 +1381,6 @@ Nevada,CP23,Governor,,IND,Janel Hyeshia Buycks,1
 Nevada,CP23,Governor,,IND,Joe Leicht,1
 Nevada,CP23,Governor,,GRN,Luis J. Rodriguez,15
 Nevada,CP23,Governor,,REP,Neel Kashkari,126
-Nevada,CP23,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP23,Governor,,REP,Richard William Aguirre,1
 Nevada,CP23,Governor,,IND,Robert Newman,10
 Nevada,CP23,Governor,,REP,Tim Donnelly,135
@@ -1382,6 +1395,10 @@ Nevada,CP23,Lieutenant Governor,,DEM,Gavin Newsom,292
 Nevada,CP23,Lieutenant Governor,,REP,George Yang,84
 Nevada,CP23,Lieutenant Governor,,GRN,Jena F. Goodman,20
 Nevada,CP23,Lieutenant Governor,,REP,Ron Nehring,168
+Nevada,CP23,Proposition 41,,,No,256
+Nevada,CP23,Proposition 41,,,Yes,415
+Nevada,CP23,Proposition 42,,,No,310
+Nevada,CP23,Proposition 42,,,Yes,320
 Nevada,CP23,Secretary of State,,DEM,Alex Padilla,110
 Nevada,CP23,Secretary of State,,IND,Dan Schnur,32
 Nevada,CP23,Secretary of State,,GRN,David Curtis,43
@@ -1443,6 +1460,10 @@ Nevada,CP24,Lieutenant Governor,,DEM,Gavin Newsom,393
 Nevada,CP24,Lieutenant Governor,,REP,George Yang,71
 Nevada,CP24,Lieutenant Governor,,GRN,Jena F. Goodman,27
 Nevada,CP24,Lieutenant Governor,,REP,Ron Nehring,158
+Nevada,CP24,Proposition 41,,,No,247
+Nevada,CP24,Proposition 41,,,Yes,494
+Nevada,CP24,Proposition 42,,,No,339
+Nevada,CP24,Proposition 42,,,Yes,370
 Nevada,CP24,Secretary of State,,DEM,Alex Padilla,156
 Nevada,CP24,Secretary of State,,IND,Dan Schnur,28
 Nevada,CP24,Secretary of State,,GRN,David Curtis,49
@@ -1485,8 +1506,6 @@ Nevada,CP25,Governor,,REP,Andrew Blount,6
 Nevada,CP25,Governor,,PAF,Cindy L. Sheehan,8
 Nevada,CP25,Governor,,DEM,"Edmund G. ""Jerry"" Brown",158
 Nevada,CP25,Governor,,REP,Glenn Champ,3
-Nevada,CP25,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP25,Governor,,IND,Joe Leicht,0
 Nevada,CP25,Governor,,GRN,Luis J. Rodriguez,11
 Nevada,CP25,Governor,,REP,Neel Kashkari,55
 Nevada,CP25,Governor,,IND,Rakesh Kumar Christian,1
@@ -1504,6 +1523,10 @@ Nevada,CP25,Lieutenant Governor,,DEM,Gavin Newsom,153
 Nevada,CP25,Lieutenant Governor,,REP,George Yang,29
 Nevada,CP25,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Nevada,CP25,Lieutenant Governor,,REP,Ron Nehring,55
+Nevada,CP25,Proposition 41,,,No,96
+Nevada,CP25,Proposition 41,,,Yes,188
+Nevada,CP25,Proposition 42,,,No,119
+Nevada,CP25,Proposition 42,,,Yes,149
 Nevada,CP25,Secretary of State,,DEM,Alex Padilla,63
 Nevada,CP25,Secretary of State,,IND,Dan Schnur,26
 Nevada,CP25,Secretary of State,,GRN,David Curtis,24
@@ -1547,11 +1570,9 @@ Nevada,CP26,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP26,Governor,,DEM,"Edmund G. ""Jerry"" Brown",275
 Nevada,CP26,Governor,,REP,Glenn Champ,2
 Nevada,CP26,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,CP26,Governor,,IND,Joe Leicht,0
 Nevada,CP26,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP26,Governor,,REP,Neel Kashkari,101
 Nevada,CP26,Governor,,IND,Rakesh Kumar Christian,2
-Nevada,CP26,Governor,,REP,Richard William Aguirre,0
 Nevada,CP26,Governor,,IND,Robert Newman,2
 Nevada,CP26,Governor,,REP,Tim Donnelly,69
 Nevada,CP26,Insurance Commissioner,,DEM,Dave Jones,254
@@ -1565,6 +1586,10 @@ Nevada,CP26,Lieutenant Governor,,DEM,Gavin Newsom,263
 Nevada,CP26,Lieutenant Governor,,REP,George Yang,47
 Nevada,CP26,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Nevada,CP26,Lieutenant Governor,,REP,Ron Nehring,98
+Nevada,CP26,Proposition 41,,,No,152
+Nevada,CP26,Proposition 41,,,Yes,319
+Nevada,CP26,Proposition 42,,,No,185
+Nevada,CP26,Proposition 42,,,Yes,255
 Nevada,CP26,Secretary of State,,DEM,Alex Padilla,92
 Nevada,CP26,Secretary of State,,IND,Dan Schnur,29
 Nevada,CP26,Secretary of State,,GRN,David Curtis,13
@@ -1606,26 +1631,24 @@ Nevada,CP27,Governor,,REP,Alma Marie Winston,3
 Nevada,CP27,Governor,,REP,Andrew Blount,4
 Nevada,CP27,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,CP27,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
-Nevada,CP27,Governor,,REP,Glenn Champ,0
 Nevada,CP27,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,CP27,Governor,,IND,Joe Leicht,0
 Nevada,CP27,Governor,,GRN,Luis J. Rodriguez,1
 Nevada,CP27,Governor,,REP,Neel Kashkari,10
 Nevada,CP27,Governor,,IND,Rakesh Kumar Christian,2
-Nevada,CP27,Governor,,REP,Richard William Aguirre,0
-Nevada,CP27,Governor,,IND,Robert Newman,0
 Nevada,CP27,Governor,,REP,Tim Donnelly,20
 Nevada,CP27,Insurance Commissioner,,DEM,Dave Jones,43
 Nevada,CP27,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Nevada,CP27,Insurance Commissioner,,REP,Ted Gaines,38
 Nevada,CP27,Lieutenant Governor,,AME,Alan Reynolds,3
-Nevada,CP27,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP27,Lieutenant Governor,,REP,David Fennell,4
 Nevada,CP27,Lieutenant Governor,,DEM,Eric Korevaar,11
 Nevada,CP27,Lieutenant Governor,,DEM,Gavin Newsom,43
 Nevada,CP27,Lieutenant Governor,,REP,George Yang,10
-Nevada,CP27,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Nevada,CP27,Lieutenant Governor,,REP,Ron Nehring,21
+Nevada,CP27,Proposition 41,,,No,28
+Nevada,CP27,Proposition 41,,,Yes,58
+Nevada,CP27,Proposition 42,,,No,37
+Nevada,CP27,Proposition 42,,,Yes,48
 Nevada,CP27,Secretary of State,,DEM,Alex Padilla,23
 Nevada,CP27,Secretary of State,,IND,Dan Schnur,2
 Nevada,CP27,Secretary of State,,GRN,David Curtis,2
@@ -1680,13 +1703,16 @@ Nevada,CP28,Insurance Commissioner,,DEM,Dave Jones,263
 Nevada,CP28,Insurance Commissioner,,PAF,Nathalie Hrizi,24
 Nevada,CP28,Insurance Commissioner,,REP,Ted Gaines,383
 Nevada,CP28,Lieutenant Governor,,AME,Alan Reynolds,6
-Nevada,CP28,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP28,Lieutenant Governor,,REP,David Fennell,56
 Nevada,CP28,Lieutenant Governor,,DEM,Eric Korevaar,23
 Nevada,CP28,Lieutenant Governor,,DEM,Gavin Newsom,280
 Nevada,CP28,Lieutenant Governor,,REP,George Yang,100
 Nevada,CP28,Lieutenant Governor,,GRN,Jena F. Goodman,19
 Nevada,CP28,Lieutenant Governor,,REP,Ron Nehring,226
+Nevada,CP28,Proposition 41,,,No,321
+Nevada,CP28,Proposition 41,,,Yes,387
+Nevada,CP28,Proposition 42,,,No,363
+Nevada,CP28,Proposition 42,,,Yes,318
 Nevada,CP28,Secretary of State,,DEM,Alex Padilla,121
 Nevada,CP28,Secretary of State,,IND,Dan Schnur,36
 Nevada,CP28,Secretary of State,,GRN,David Curtis,24
@@ -1722,19 +1748,14 @@ Nevada,CP29,Controller,,REP,David Evans,103
 Nevada,CP29,Controller,,DEM,John A. Pérez,50
 Nevada,CP29,Controller,,GRN,Laura Wells,29
 Nevada,CP29,Controller,,DEM,Tammy D. Blair,8
-Nevada,CP29,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,CP29,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP29,Governor,,REP,Alma Marie Winston,6
 Nevada,CP29,Governor,,REP,Andrew Blount,6
 Nevada,CP29,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP29,Governor,,DEM,"Edmund G. ""Jerry"" Brown",199
 Nevada,CP29,Governor,,REP,Glenn Champ,6
-Nevada,CP29,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP29,Governor,,IND,Joe Leicht,3
 Nevada,CP29,Governor,,GRN,Luis J. Rodriguez,5
 Nevada,CP29,Governor,,REP,Neel Kashkari,93
-Nevada,CP29,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP29,Governor,,REP,Richard William Aguirre,0
 Nevada,CP29,Governor,,IND,Robert Newman,4
 Nevada,CP29,Governor,,REP,Tim Donnelly,96
 Nevada,CP29,Insurance Commissioner,,DEM,Dave Jones,176
@@ -1748,6 +1769,10 @@ Nevada,CP29,Lieutenant Governor,,DEM,Gavin Newsom,185
 Nevada,CP29,Lieutenant Governor,,REP,George Yang,35
 Nevada,CP29,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Nevada,CP29,Lieutenant Governor,,REP,Ron Nehring,132
+Nevada,CP29,Proposition 41,,,No,160
+Nevada,CP29,Proposition 41,,,Yes,240
+Nevada,CP29,Proposition 42,,,No,208
+Nevada,CP29,Proposition 42,,,Yes,169
 Nevada,CP29,Secretary of State,,DEM,Alex Padilla,79
 Nevada,CP29,Secretary of State,,IND,Dan Schnur,17
 Nevada,CP29,Secretary of State,,GRN,David Curtis,16
@@ -1790,7 +1815,6 @@ Nevada,CP30,Governor,,REP,Andrew Blount,9
 Nevada,CP30,Governor,,PAF,Cindy L. Sheehan,5
 Nevada,CP30,Governor,,DEM,"Edmund G. ""Jerry"" Brown",202
 Nevada,CP30,Governor,,REP,Glenn Champ,1
-Nevada,CP30,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP30,Governor,,IND,Joe Leicht,2
 Nevada,CP30,Governor,,GRN,Luis J. Rodriguez,2
 Nevada,CP30,Governor,,REP,Neel Kashkari,87
@@ -1802,13 +1826,16 @@ Nevada,CP30,Insurance Commissioner,,DEM,Dave Jones,176
 Nevada,CP30,Insurance Commissioner,,PAF,Nathalie Hrizi,18
 Nevada,CP30,Insurance Commissioner,,REP,Ted Gaines,183
 Nevada,CP30,Lieutenant Governor,,AME,Alan Reynolds,7
-Nevada,CP30,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP30,Lieutenant Governor,,REP,David Fennell,27
 Nevada,CP30,Lieutenant Governor,,DEM,Eric Korevaar,22
 Nevada,CP30,Lieutenant Governor,,DEM,Gavin Newsom,169
 Nevada,CP30,Lieutenant Governor,,REP,George Yang,52
 Nevada,CP30,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Nevada,CP30,Lieutenant Governor,,REP,Ron Nehring,100
+Nevada,CP30,Proposition 41,,,No,145
+Nevada,CP30,Proposition 41,,,Yes,239
+Nevada,CP30,Proposition 42,,,No,181
+Nevada,CP30,Proposition 42,,,Yes,183
 Nevada,CP30,Secretary of State,,DEM,Alex Padilla,61
 Nevada,CP30,Secretary of State,,IND,Dan Schnur,23
 Nevada,CP30,Secretary of State,,GRN,David Curtis,14
@@ -1870,6 +1897,10 @@ Nevada,CP31,Lieutenant Governor,,DEM,Gavin Newsom,271
 Nevada,CP31,Lieutenant Governor,,REP,George Yang,98
 Nevada,CP31,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Nevada,CP31,Lieutenant Governor,,REP,Ron Nehring,257
+Nevada,CP31,Proposition 41,,,No,313
+Nevada,CP31,Proposition 41,,,Yes,434
+Nevada,CP31,Proposition 42,,,No,408
+Nevada,CP31,Proposition 42,,,Yes,321
 Nevada,CP31,Secretary of State,,DEM,Alex Padilla,128
 Nevada,CP31,Secretary of State,,IND,Dan Schnur,47
 Nevada,CP31,Secretary of State,,GRN,David Curtis,11
@@ -1917,7 +1948,6 @@ Nevada,CP32,Governor,,IND,Joe Leicht,1
 Nevada,CP32,Governor,,GRN,Luis J. Rodriguez,5
 Nevada,CP32,Governor,,REP,Neel Kashkari,173
 Nevada,CP32,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP32,Governor,,REP,Richard William Aguirre,0
 Nevada,CP32,Governor,,IND,Robert Newman,4
 Nevada,CP32,Governor,,REP,Tim Donnelly,185
 Nevada,CP32,Insurance Commissioner,,DEM,Dave Jones,280
@@ -1931,6 +1961,10 @@ Nevada,CP32,Lieutenant Governor,,DEM,Gavin Newsom,300
 Nevada,CP32,Lieutenant Governor,,REP,George Yang,114
 Nevada,CP32,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Nevada,CP32,Lieutenant Governor,,REP,Ron Nehring,233
+Nevada,CP32,Proposition 41,,,No,312
+Nevada,CP32,Proposition 41,,,Yes,455
+Nevada,CP32,Proposition 42,,,No,408
+Nevada,CP32,Proposition 42,,,Yes,343
 Nevada,CP32,Secretary of State,,DEM,Alex Padilla,112
 Nevada,CP32,Secretary of State,,IND,Dan Schnur,52
 Nevada,CP32,Secretary of State,,GRN,David Curtis,14
@@ -1967,17 +2001,13 @@ Nevada,CP33,Controller,,DEM,John A. Pérez,37
 Nevada,CP33,Controller,,GRN,Laura Wells,30
 Nevada,CP33,Controller,,DEM,Tammy D. Blair,16
 Nevada,CP33,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Nevada,CP33,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP33,Governor,,REP,Alma Marie Winston,6
 Nevada,CP33,Governor,,REP,Andrew Blount,4
 Nevada,CP33,Governor,,PAF,Cindy L. Sheehan,12
 Nevada,CP33,Governor,,DEM,"Edmund G. ""Jerry"" Brown",131
 Nevada,CP33,Governor,,REP,Glenn Champ,4
-Nevada,CP33,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP33,Governor,,IND,Joe Leicht,0
 Nevada,CP33,Governor,,GRN,Luis J. Rodriguez,14
 Nevada,CP33,Governor,,REP,Neel Kashkari,68
-Nevada,CP33,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP33,Governor,,REP,Richard William Aguirre,2
 Nevada,CP33,Governor,,IND,Robert Newman,5
 Nevada,CP33,Governor,,REP,Tim Donnelly,76
@@ -1992,6 +2022,10 @@ Nevada,CP33,Lieutenant Governor,,DEM,Gavin Newsom,133
 Nevada,CP33,Lieutenant Governor,,REP,George Yang,38
 Nevada,CP33,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Nevada,CP33,Lieutenant Governor,,REP,Ron Nehring,87
+Nevada,CP33,Proposition 41,,,No,151
+Nevada,CP33,Proposition 41,,,Yes,158
+Nevada,CP33,Proposition 42,,,No,166
+Nevada,CP33,Proposition 42,,,Yes,137
 Nevada,CP33,Secretary of State,,DEM,Alex Padilla,45
 Nevada,CP33,Secretary of State,,IND,Dan Schnur,19
 Nevada,CP33,Secretary of State,,GRN,David Curtis,23
@@ -2028,31 +2062,28 @@ Nevada,CP34,Controller,,DEM,John A. Pérez,17
 Nevada,CP34,Controller,,GRN,Laura Wells,15
 Nevada,CP34,Controller,,DEM,Tammy D. Blair,5
 Nevada,CP34,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Nevada,CP34,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP34,Governor,,REP,Alma Marie Winston,3
 Nevada,CP34,Governor,,REP,Andrew Blount,1
-Nevada,CP34,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,CP34,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Nevada,CP34,Governor,,REP,Glenn Champ,3
-Nevada,CP34,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP34,Governor,,IND,Joe Leicht,2
 Nevada,CP34,Governor,,GRN,Luis J. Rodriguez,2
 Nevada,CP34,Governor,,REP,Neel Kashkari,36
-Nevada,CP34,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP34,Governor,,REP,Richard William Aguirre,0
 Nevada,CP34,Governor,,IND,Robert Newman,3
 Nevada,CP34,Governor,,REP,Tim Donnelly,50
 Nevada,CP34,Insurance Commissioner,,DEM,Dave Jones,59
 Nevada,CP34,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Nevada,CP34,Insurance Commissioner,,REP,Ted Gaines,97
 Nevada,CP34,Lieutenant Governor,,AME,Alan Reynolds,3
-Nevada,CP34,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP34,Lieutenant Governor,,REP,David Fennell,16
 Nevada,CP34,Lieutenant Governor,,DEM,Eric Korevaar,16
 Nevada,CP34,Lieutenant Governor,,DEM,Gavin Newsom,54
 Nevada,CP34,Lieutenant Governor,,REP,George Yang,20
-Nevada,CP34,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Nevada,CP34,Lieutenant Governor,,REP,Ron Nehring,55
+Nevada,CP34,Proposition 41,,,No,102
+Nevada,CP34,Proposition 41,,,Yes,68
+Nevada,CP34,Proposition 42,,,No,83
+Nevada,CP34,Proposition 42,,,Yes,77
 Nevada,CP34,Secretary of State,,DEM,Alex Padilla,31
 Nevada,CP34,Secretary of State,,IND,Dan Schnur,12
 Nevada,CP34,Secretary of State,,GRN,David Curtis,4
@@ -2096,7 +2127,6 @@ Nevada,CP35,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP35,Governor,,DEM,"Edmund G. ""Jerry"" Brown",155
 Nevada,CP35,Governor,,REP,Glenn Champ,7
 Nevada,CP35,Governor,,IND,Janel Hyeshia Buycks,4
-Nevada,CP35,Governor,,IND,Joe Leicht,0
 Nevada,CP35,Governor,,GRN,Luis J. Rodriguez,3
 Nevada,CP35,Governor,,REP,Neel Kashkari,100
 Nevada,CP35,Governor,,IND,Rakesh Kumar Christian,2
@@ -2114,6 +2144,10 @@ Nevada,CP35,Lieutenant Governor,,DEM,Gavin Newsom,148
 Nevada,CP35,Lieutenant Governor,,REP,George Yang,58
 Nevada,CP35,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Nevada,CP35,Lieutenant Governor,,REP,Ron Nehring,132
+Nevada,CP35,Proposition 41,,,No,187
+Nevada,CP35,Proposition 41,,,Yes,223
+Nevada,CP35,Proposition 42,,,No,211
+Nevada,CP35,Proposition 42,,,Yes,187
 Nevada,CP35,Secretary of State,,DEM,Alex Padilla,73
 Nevada,CP35,Secretary of State,,IND,Dan Schnur,13
 Nevada,CP35,Secretary of State,,GRN,David Curtis,21
@@ -2156,12 +2190,9 @@ Nevada,CP36,Governor,,REP,Andrew Blount,3
 Nevada,CP36,Governor,,PAF,Cindy L. Sheehan,2
 Nevada,CP36,Governor,,DEM,"Edmund G. ""Jerry"" Brown",142
 Nevada,CP36,Governor,,REP,Glenn Champ,3
-Nevada,CP36,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP36,Governor,,IND,Joe Leicht,0
 Nevada,CP36,Governor,,GRN,Luis J. Rodriguez,7
 Nevada,CP36,Governor,,REP,Neel Kashkari,79
 Nevada,CP36,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP36,Governor,,REP,Richard William Aguirre,0
 Nevada,CP36,Governor,,IND,Robert Newman,3
 Nevada,CP36,Governor,,REP,Tim Donnelly,63
 Nevada,CP36,Insurance Commissioner,,DEM,Dave Jones,115
@@ -2175,6 +2206,10 @@ Nevada,CP36,Lieutenant Governor,,DEM,Gavin Newsom,126
 Nevada,CP36,Lieutenant Governor,,REP,George Yang,31
 Nevada,CP36,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Nevada,CP36,Lieutenant Governor,,REP,Ron Nehring,98
+Nevada,CP36,Proposition 41,,,No,110
+Nevada,CP36,Proposition 41,,,Yes,190
+Nevada,CP36,Proposition 42,,,No,148
+Nevada,CP36,Proposition 42,,,Yes,147
 Nevada,CP36,Secretary of State,,DEM,Alex Padilla,51
 Nevada,CP36,Secretary of State,,IND,Dan Schnur,11
 Nevada,CP36,Secretary of State,,GRN,David Curtis,23
@@ -2211,18 +2246,13 @@ Nevada,CP37,Controller,,DEM,John A. Pérez,19
 Nevada,CP37,Controller,,GRN,Laura Wells,15
 Nevada,CP37,Controller,,DEM,Tammy D. Blair,5
 Nevada,CP37,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Nevada,CP37,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP37,Governor,,REP,Alma Marie Winston,6
 Nevada,CP37,Governor,,REP,Andrew Blount,6
 Nevada,CP37,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP37,Governor,,DEM,"Edmund G. ""Jerry"" Brown",100
 Nevada,CP37,Governor,,REP,Glenn Champ,3
-Nevada,CP37,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP37,Governor,,IND,Joe Leicht,0
 Nevada,CP37,Governor,,GRN,Luis J. Rodriguez,3
 Nevada,CP37,Governor,,REP,Neel Kashkari,52
-Nevada,CP37,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP37,Governor,,REP,Richard William Aguirre,0
 Nevada,CP37,Governor,,IND,Robert Newman,1
 Nevada,CP37,Governor,,REP,Tim Donnelly,72
 Nevada,CP37,Insurance Commissioner,,DEM,Dave Jones,79
@@ -2236,6 +2266,10 @@ Nevada,CP37,Lieutenant Governor,,DEM,Gavin Newsom,82
 Nevada,CP37,Lieutenant Governor,,REP,George Yang,28
 Nevada,CP37,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Nevada,CP37,Lieutenant Governor,,REP,Ron Nehring,77
+Nevada,CP37,Proposition 41,,,No,89
+Nevada,CP37,Proposition 41,,,Yes,152
+Nevada,CP37,Proposition 42,,,No,125
+Nevada,CP37,Proposition 42,,,Yes,108
 Nevada,CP37,Secretary of State,,DEM,Alex Padilla,40
 Nevada,CP37,Secretary of State,,IND,Dan Schnur,9
 Nevada,CP37,Secretary of State,,GRN,David Curtis,10
@@ -2278,7 +2312,6 @@ Nevada,CP38,Governor,,REP,Andrew Blount,6
 Nevada,CP38,Governor,,PAF,Cindy L. Sheehan,9
 Nevada,CP38,Governor,,DEM,"Edmund G. ""Jerry"" Brown",228
 Nevada,CP38,Governor,,REP,Glenn Champ,9
-Nevada,CP38,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP38,Governor,,IND,Joe Leicht,1
 Nevada,CP38,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,CP38,Governor,,REP,Neel Kashkari,136
@@ -2297,6 +2330,10 @@ Nevada,CP38,Lieutenant Governor,,DEM,Gavin Newsom,192
 Nevada,CP38,Lieutenant Governor,,REP,George Yang,70
 Nevada,CP38,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Nevada,CP38,Lieutenant Governor,,REP,Ron Nehring,169
+Nevada,CP38,Proposition 41,,,No,258
+Nevada,CP38,Proposition 41,,,Yes,297
+Nevada,CP38,Proposition 42,,,No,275
+Nevada,CP38,Proposition 42,,,Yes,267
 Nevada,CP38,Secretary of State,,DEM,Alex Padilla,95
 Nevada,CP38,Secretary of State,,IND,Dan Schnur,18
 Nevada,CP38,Secretary of State,,GRN,David Curtis,23
@@ -2340,11 +2377,9 @@ Nevada,CP39,Governor,,PAF,Cindy L. Sheehan,9
 Nevada,CP39,Governor,,DEM,"Edmund G. ""Jerry"" Brown",136
 Nevada,CP39,Governor,,REP,Glenn Champ,3
 Nevada,CP39,Governor,,IND,Janel Hyeshia Buycks,3
-Nevada,CP39,Governor,,IND,Joe Leicht,0
 Nevada,CP39,Governor,,GRN,Luis J. Rodriguez,9
 Nevada,CP39,Governor,,REP,Neel Kashkari,52
 Nevada,CP39,Governor,,IND,Rakesh Kumar Christian,3
-Nevada,CP39,Governor,,REP,Richard William Aguirre,0
 Nevada,CP39,Governor,,IND,Robert Newman,1
 Nevada,CP39,Governor,,REP,Tim Donnelly,60
 Nevada,CP39,Insurance Commissioner,,DEM,Dave Jones,107
@@ -2358,6 +2393,10 @@ Nevada,CP39,Lieutenant Governor,,DEM,Gavin Newsom,121
 Nevada,CP39,Lieutenant Governor,,REP,George Yang,33
 Nevada,CP39,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Nevada,CP39,Lieutenant Governor,,REP,Ron Nehring,72
+Nevada,CP39,Proposition 41,,,No,105
+Nevada,CP39,Proposition 41,,,Yes,169
+Nevada,CP39,Proposition 42,,,No,124
+Nevada,CP39,Proposition 42,,,Yes,132
 Nevada,CP39,Secretary of State,,DEM,Alex Padilla,38
 Nevada,CP39,Secretary of State,,IND,Dan Schnur,18
 Nevada,CP39,Secretary of State,,GRN,David Curtis,19
@@ -2400,7 +2439,6 @@ Nevada,CP40,Governor,,REP,Andrew Blount,5
 Nevada,CP40,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP40,Governor,,DEM,"Edmund G. ""Jerry"" Brown",154
 Nevada,CP40,Governor,,REP,Glenn Champ,3
-Nevada,CP40,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP40,Governor,,IND,Joe Leicht,1
 Nevada,CP40,Governor,,GRN,Luis J. Rodriguez,1
 Nevada,CP40,Governor,,REP,Neel Kashkari,63
@@ -2412,13 +2450,16 @@ Nevada,CP40,Insurance Commissioner,,DEM,Dave Jones,120
 Nevada,CP40,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Nevada,CP40,Insurance Commissioner,,REP,Ted Gaines,170
 Nevada,CP40,Lieutenant Governor,,AME,Alan Reynolds,4
-Nevada,CP40,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP40,Lieutenant Governor,,REP,David Fennell,17
 Nevada,CP40,Lieutenant Governor,,DEM,Eric Korevaar,19
 Nevada,CP40,Lieutenant Governor,,DEM,Gavin Newsom,125
 Nevada,CP40,Lieutenant Governor,,REP,George Yang,38
 Nevada,CP40,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Nevada,CP40,Lieutenant Governor,,REP,Ron Nehring,99
+Nevada,CP40,Proposition 41,,,No,139
+Nevada,CP40,Proposition 41,,,Yes,174
+Nevada,CP40,Proposition 42,,,No,183
+Nevada,CP40,Proposition 42,,,Yes,123
 Nevada,CP40,Secretary of State,,DEM,Alex Padilla,67
 Nevada,CP40,Secretary of State,,IND,Dan Schnur,14
 Nevada,CP40,Secretary of State,,GRN,David Curtis,7
@@ -2455,7 +2496,6 @@ Nevada,CP41,Controller,,DEM,John A. Pérez,56
 Nevada,CP41,Controller,,GRN,Laura Wells,68
 Nevada,CP41,Controller,,DEM,Tammy D. Blair,12
 Nevada,CP41,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Nevada,CP41,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP41,Governor,,REP,Alma Marie Winston,3
 Nevada,CP41,Governor,,REP,Andrew Blount,3
 Nevada,CP41,Governor,,PAF,Cindy L. Sheehan,13
@@ -2465,8 +2505,6 @@ Nevada,CP41,Governor,,IND,Janel Hyeshia Buycks,1
 Nevada,CP41,Governor,,IND,Joe Leicht,1
 Nevada,CP41,Governor,,GRN,Luis J. Rodriguez,27
 Nevada,CP41,Governor,,REP,Neel Kashkari,30
-Nevada,CP41,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP41,Governor,,REP,Richard William Aguirre,0
 Nevada,CP41,Governor,,IND,Robert Newman,7
 Nevada,CP41,Governor,,REP,Tim Donnelly,31
 Nevada,CP41,Insurance Commissioner,,DEM,Dave Jones,161
@@ -2480,6 +2518,10 @@ Nevada,CP41,Lieutenant Governor,,DEM,Gavin Newsom,168
 Nevada,CP41,Lieutenant Governor,,REP,George Yang,26
 Nevada,CP41,Lieutenant Governor,,GRN,Jena F. Goodman,41
 Nevada,CP41,Lieutenant Governor,,REP,Ron Nehring,42
+Nevada,CP41,Proposition 41,,,No,73
+Nevada,CP41,Proposition 41,,,Yes,223
+Nevada,CP41,Proposition 42,,,No,134
+Nevada,CP41,Proposition 42,,,Yes,137
 Nevada,CP41,Secretary of State,,DEM,Alex Padilla,47
 Nevada,CP41,Secretary of State,,IND,Dan Schnur,14
 Nevada,CP41,Secretary of State,,GRN,David Curtis,47
@@ -2516,18 +2558,13 @@ Nevada,CP42,Controller,,DEM,John A. Pérez,46
 Nevada,CP42,Controller,,GRN,Laura Wells,66
 Nevada,CP42,Controller,,DEM,Tammy D. Blair,14
 Nevada,CP42,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Nevada,CP42,Governor,,DEM,Akinyemi Agbede,0
-Nevada,CP42,Governor,,REP,Alma Marie Winston,0
 Nevada,CP42,Governor,,REP,Andrew Blount,2
 Nevada,CP42,Governor,,PAF,Cindy L. Sheehan,12
 Nevada,CP42,Governor,,DEM,"Edmund G. ""Jerry"" Brown",247
 Nevada,CP42,Governor,,REP,Glenn Champ,1
 Nevada,CP42,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,CP42,Governor,,IND,Joe Leicht,0
 Nevada,CP42,Governor,,GRN,Luis J. Rodriguez,20
 Nevada,CP42,Governor,,REP,Neel Kashkari,8
-Nevada,CP42,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP42,Governor,,REP,Richard William Aguirre,0
 Nevada,CP42,Governor,,IND,Robert Newman,3
 Nevada,CP42,Governor,,REP,Tim Donnelly,14
 Nevada,CP42,Insurance Commissioner,,DEM,Dave Jones,203
@@ -2541,6 +2578,10 @@ Nevada,CP42,Lieutenant Governor,,DEM,Gavin Newsom,197
 Nevada,CP42,Lieutenant Governor,,REP,George Yang,6
 Nevada,CP42,Lieutenant Governor,,GRN,Jena F. Goodman,31
 Nevada,CP42,Lieutenant Governor,,REP,Ron Nehring,11
+Nevada,CP42,Proposition 41,,,No,52
+Nevada,CP42,Proposition 41,,,Yes,243
+Nevada,CP42,Proposition 42,,,No,91
+Nevada,CP42,Proposition 42,,,Yes,172
 Nevada,CP42,Secretary of State,,DEM,Alex Padilla,73
 Nevada,CP42,Secretary of State,,IND,Dan Schnur,10
 Nevada,CP42,Secretary of State,,GRN,David Curtis,47
@@ -2575,33 +2616,29 @@ Nevada,CP43,Controller,,DEM,Betty T. Yee,27
 Nevada,CP43,Controller,,REP,David Evans,44
 Nevada,CP43,Controller,,DEM,John A. Pérez,20
 Nevada,CP43,Controller,,GRN,Laura Wells,10
-Nevada,CP43,Controller,,DEM,Tammy D. Blair,0
 Nevada,CP43,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Nevada,CP43,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP43,Governor,,REP,Alma Marie Winston,4
 Nevada,CP43,Governor,,REP,Andrew Blount,1
 Nevada,CP43,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,CP43,Governor,,DEM,"Edmund G. ""Jerry"" Brown",66
-Nevada,CP43,Governor,,REP,Glenn Champ,0
-Nevada,CP43,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP43,Governor,,IND,Joe Leicht,0
 Nevada,CP43,Governor,,GRN,Luis J. Rodriguez,3
 Nevada,CP43,Governor,,REP,Neel Kashkari,55
-Nevada,CP43,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP43,Governor,,REP,Richard William Aguirre,0
 Nevada,CP43,Governor,,IND,Robert Newman,1
 Nevada,CP43,Governor,,REP,Tim Donnelly,37
 Nevada,CP43,Insurance Commissioner,,DEM,Dave Jones,54
 Nevada,CP43,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Nevada,CP43,Insurance Commissioner,,REP,Ted Gaines,103
 Nevada,CP43,Lieutenant Governor,,AME,Alan Reynolds,1
-Nevada,CP43,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP43,Lieutenant Governor,,REP,David Fennell,22
 Nevada,CP43,Lieutenant Governor,,DEM,Eric Korevaar,5
 Nevada,CP43,Lieutenant Governor,,DEM,Gavin Newsom,52
 Nevada,CP43,Lieutenant Governor,,REP,George Yang,28
 Nevada,CP43,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Nevada,CP43,Lieutenant Governor,,REP,Ron Nehring,50
+Nevada,CP43,Proposition 41,,,No,84
+Nevada,CP43,Proposition 41,,,Yes,85
+Nevada,CP43,Proposition 42,,,No,92
+Nevada,CP43,Proposition 42,,,Yes,69
 Nevada,CP43,Secretary of State,,DEM,Alex Padilla,30
 Nevada,CP43,Secretary of State,,IND,Dan Schnur,6
 Nevada,CP43,Secretary of State,,GRN,David Curtis,7
@@ -2638,31 +2675,28 @@ Nevada,CP44,Controller,,DEM,John A. Pérez,25
 Nevada,CP44,Controller,,GRN,Laura Wells,26
 Nevada,CP44,Controller,,DEM,Tammy D. Blair,7
 Nevada,CP44,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Nevada,CP44,Governor,,DEM,Akinyemi Agbede,0
-Nevada,CP44,Governor,,REP,Alma Marie Winston,0
-Nevada,CP44,Governor,,REP,Andrew Blount,0
-Nevada,CP44,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,CP44,Governor,,DEM,"Edmund G. ""Jerry"" Brown",117
 Nevada,CP44,Governor,,REP,Glenn Champ,4
 Nevada,CP44,Governor,,IND,Janel Hyeshia Buycks,1
 Nevada,CP44,Governor,,IND,Joe Leicht,1
 Nevada,CP44,Governor,,GRN,Luis J. Rodriguez,10
 Nevada,CP44,Governor,,REP,Neel Kashkari,24
-Nevada,CP44,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP44,Governor,,REP,Richard William Aguirre,0
 Nevada,CP44,Governor,,IND,Robert Newman,2
 Nevada,CP44,Governor,,REP,Tim Donnelly,22
 Nevada,CP44,Insurance Commissioner,,DEM,Dave Jones,101
 Nevada,CP44,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Nevada,CP44,Insurance Commissioner,,REP,Ted Gaines,56
 Nevada,CP44,Lieutenant Governor,,AME,Alan Reynolds,4
-Nevada,CP44,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP44,Lieutenant Governor,,REP,David Fennell,8
 Nevada,CP44,Lieutenant Governor,,DEM,Eric Korevaar,17
 Nevada,CP44,Lieutenant Governor,,DEM,Gavin Newsom,97
 Nevada,CP44,Lieutenant Governor,,REP,George Yang,12
 Nevada,CP44,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Nevada,CP44,Lieutenant Governor,,REP,Ron Nehring,27
+Nevada,CP44,Proposition 41,,,No,48
+Nevada,CP44,Proposition 41,,,Yes,134
+Nevada,CP44,Proposition 42,,,No,75
+Nevada,CP44,Proposition 42,,,Yes,95
 Nevada,CP44,Secretary of State,,DEM,Alex Padilla,35
 Nevada,CP44,Secretary of State,,IND,Dan Schnur,12
 Nevada,CP44,Secretary of State,,GRN,David Curtis,15
@@ -2697,32 +2731,31 @@ Nevada,CP45,Controller,,REP,David Evans,63
 Nevada,CP45,Controller,,DEM,John A. Pérez,32
 Nevada,CP45,Controller,,GRN,Laura Wells,16
 Nevada,CP45,Controller,,DEM,Tammy D. Blair,7
-Nevada,CP45,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,CP45,Governor,,DEM,Akinyemi Agbede,2
 Nevada,CP45,Governor,,REP,Alma Marie Winston,2
 Nevada,CP45,Governor,,REP,Andrew Blount,6
-Nevada,CP45,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,CP45,Governor,,DEM,"Edmund G. ""Jerry"" Brown",169
 Nevada,CP45,Governor,,REP,Glenn Champ,2
 Nevada,CP45,Governor,,IND,Janel Hyeshia Buycks,1
 Nevada,CP45,Governor,,IND,Joe Leicht,1
 Nevada,CP45,Governor,,GRN,Luis J. Rodriguez,4
 Nevada,CP45,Governor,,REP,Neel Kashkari,34
-Nevada,CP45,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP45,Governor,,REP,Richard William Aguirre,0
 Nevada,CP45,Governor,,IND,Robert Newman,4
 Nevada,CP45,Governor,,REP,Tim Donnelly,43
 Nevada,CP45,Insurance Commissioner,,DEM,Dave Jones,140
 Nevada,CP45,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Nevada,CP45,Insurance Commissioner,,REP,Ted Gaines,98
 Nevada,CP45,Lieutenant Governor,,AME,Alan Reynolds,3
-Nevada,CP45,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP45,Lieutenant Governor,,REP,David Fennell,13
 Nevada,CP45,Lieutenant Governor,,DEM,Eric Korevaar,18
 Nevada,CP45,Lieutenant Governor,,DEM,Gavin Newsom,152
 Nevada,CP45,Lieutenant Governor,,REP,George Yang,22
 Nevada,CP45,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Nevada,CP45,Lieutenant Governor,,REP,Ron Nehring,46
+Nevada,CP45,Proposition 41,,,No,96
+Nevada,CP45,Proposition 41,,,Yes,163
+Nevada,CP45,Proposition 42,,,No,101
+Nevada,CP45,Proposition 42,,,Yes,146
 Nevada,CP45,Secretary of State,,DEM,Alex Padilla,53
 Nevada,CP45,Secretary of State,,IND,Dan Schnur,21
 Nevada,CP45,Secretary of State,,GRN,David Curtis,14
@@ -2764,11 +2797,8 @@ Nevada,CP46,Governor,,REP,Andrew Blount,4
 Nevada,CP46,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP46,Governor,,DEM,"Edmund G. ""Jerry"" Brown",345
 Nevada,CP46,Governor,,REP,Glenn Champ,3
-Nevada,CP46,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP46,Governor,,IND,Joe Leicht,0
 Nevada,CP46,Governor,,GRN,Luis J. Rodriguez,7
 Nevada,CP46,Governor,,REP,Neel Kashkari,52
-Nevada,CP46,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP46,Governor,,REP,Richard William Aguirre,3
 Nevada,CP46,Governor,,IND,Robert Newman,2
 Nevada,CP46,Governor,,REP,Tim Donnelly,59
@@ -2783,6 +2813,10 @@ Nevada,CP46,Lieutenant Governor,,DEM,Gavin Newsom,281
 Nevada,CP46,Lieutenant Governor,,REP,George Yang,28
 Nevada,CP46,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Nevada,CP46,Lieutenant Governor,,REP,Ron Nehring,67
+Nevada,CP46,Proposition 41,,,No,163
+Nevada,CP46,Proposition 41,,,Yes,286
+Nevada,CP46,Proposition 42,,,No,172
+Nevada,CP46,Proposition 42,,,Yes,250
 Nevada,CP46,Secretary of State,,DEM,Alex Padilla,94
 Nevada,CP46,Secretary of State,,IND,Dan Schnur,20
 Nevada,CP46,Secretary of State,,GRN,David Curtis,21
@@ -2824,8 +2858,6 @@ Nevada,CP47,Governor,,REP,Andrew Blount,4
 Nevada,CP47,Governor,,PAF,Cindy L. Sheehan,5
 Nevada,CP47,Governor,,DEM,"Edmund G. ""Jerry"" Brown",283
 Nevada,CP47,Governor,,REP,Glenn Champ,7
-Nevada,CP47,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP47,Governor,,IND,Joe Leicht,0
 Nevada,CP47,Governor,,GRN,Luis J. Rodriguez,10
 Nevada,CP47,Governor,,REP,Neel Kashkari,46
 Nevada,CP47,Governor,,IND,Rakesh Kumar Christian,2
@@ -2836,13 +2868,16 @@ Nevada,CP47,Insurance Commissioner,,DEM,Dave Jones,225
 Nevada,CP47,Insurance Commissioner,,PAF,Nathalie Hrizi,28
 Nevada,CP47,Insurance Commissioner,,REP,Ted Gaines,154
 Nevada,CP47,Lieutenant Governor,,AME,Alan Reynolds,3
-Nevada,CP47,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP47,Lieutenant Governor,,REP,David Fennell,23
 Nevada,CP47,Lieutenant Governor,,DEM,Eric Korevaar,45
 Nevada,CP47,Lieutenant Governor,,DEM,Gavin Newsom,234
 Nevada,CP47,Lieutenant Governor,,REP,George Yang,35
 Nevada,CP47,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Nevada,CP47,Lieutenant Governor,,REP,Ron Nehring,81
+Nevada,CP47,Proposition 41,,,No,151
+Nevada,CP47,Proposition 41,,,Yes,278
+Nevada,CP47,Proposition 42,,,No,165
+Nevada,CP47,Proposition 42,,,Yes,244
 Nevada,CP47,Secretary of State,,DEM,Alex Padilla,105
 Nevada,CP47,Secretary of State,,IND,Dan Schnur,16
 Nevada,CP47,Secretary of State,,GRN,David Curtis,16
@@ -2884,12 +2919,9 @@ Nevada,CP48,Governor,,REP,Andrew Blount,11
 Nevada,CP48,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,CP48,Governor,,DEM,"Edmund G. ""Jerry"" Brown",347
 Nevada,CP48,Governor,,REP,Glenn Champ,9
-Nevada,CP48,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,CP48,Governor,,IND,Joe Leicht,0
 Nevada,CP48,Governor,,GRN,Luis J. Rodriguez,18
 Nevada,CP48,Governor,,REP,Neel Kashkari,61
 Nevada,CP48,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,CP48,Governor,,REP,Richard William Aguirre,0
 Nevada,CP48,Governor,,IND,Robert Newman,4
 Nevada,CP48,Governor,,REP,Tim Donnelly,69
 Nevada,CP48,Insurance Commissioner,,DEM,Dave Jones,256
@@ -2903,6 +2935,10 @@ Nevada,CP48,Lieutenant Governor,,DEM,Gavin Newsom,269
 Nevada,CP48,Lieutenant Governor,,REP,George Yang,50
 Nevada,CP48,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Nevada,CP48,Lieutenant Governor,,REP,Ron Nehring,75
+Nevada,CP48,Proposition 41,,,No,186
+Nevada,CP48,Proposition 41,,,Yes,328
+Nevada,CP48,Proposition 42,,,No,210
+Nevada,CP48,Proposition 42,,,Yes,276
 Nevada,CP48,Secretary of State,,DEM,Alex Padilla,118
 Nevada,CP48,Secretary of State,,IND,Dan Schnur,22
 Nevada,CP48,Secretary of State,,GRN,David Curtis,19
@@ -2937,19 +2973,14 @@ Nevada,CP49,Controller,,REP,David Evans,30
 Nevada,CP49,Controller,,DEM,John A. Pérez,31
 Nevada,CP49,Controller,,GRN,Laura Wells,30
 Nevada,CP49,Controller,,DEM,Tammy D. Blair,5
-Nevada,CP49,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,CP49,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP49,Governor,,REP,Alma Marie Winston,1
 Nevada,CP49,Governor,,REP,Andrew Blount,2
 Nevada,CP49,Governor,,PAF,Cindy L. Sheehan,2
 Nevada,CP49,Governor,,DEM,"Edmund G. ""Jerry"" Brown",159
 Nevada,CP49,Governor,,REP,Glenn Champ,2
-Nevada,CP49,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP49,Governor,,IND,Joe Leicht,1
 Nevada,CP49,Governor,,GRN,Luis J. Rodriguez,10
 Nevada,CP49,Governor,,REP,Neel Kashkari,26
-Nevada,CP49,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP49,Governor,,REP,Richard William Aguirre,0
 Nevada,CP49,Governor,,IND,Robert Newman,1
 Nevada,CP49,Governor,,REP,Tim Donnelly,21
 Nevada,CP49,Insurance Commissioner,,DEM,Dave Jones,118
@@ -2963,6 +2994,10 @@ Nevada,CP49,Lieutenant Governor,,DEM,Gavin Newsom,126
 Nevada,CP49,Lieutenant Governor,,REP,George Yang,11
 Nevada,CP49,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Nevada,CP49,Lieutenant Governor,,REP,Ron Nehring,27
+Nevada,CP49,Proposition 41,,,No,66
+Nevada,CP49,Proposition 41,,,Yes,141
+Nevada,CP49,Proposition 42,,,No,69
+Nevada,CP49,Proposition 42,,,Yes,124
 Nevada,CP49,Secretary of State,,DEM,Alex Padilla,46
 Nevada,CP49,Secretary of State,,IND,Dan Schnur,10
 Nevada,CP49,Secretary of State,,GRN,David Curtis,11
@@ -2998,17 +3033,14 @@ Nevada,CP50,Controller,,DEM,John A. Pérez,62
 Nevada,CP50,Controller,,GRN,Laura Wells,42
 Nevada,CP50,Controller,,DEM,Tammy D. Blair,23
 Nevada,CP50,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Nevada,CP50,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP50,Governor,,REP,Alma Marie Winston,6
 Nevada,CP50,Governor,,REP,Andrew Blount,14
 Nevada,CP50,Governor,,PAF,Cindy L. Sheehan,8
 Nevada,CP50,Governor,,DEM,"Edmund G. ""Jerry"" Brown",342
 Nevada,CP50,Governor,,REP,Glenn Champ,8
-Nevada,CP50,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP50,Governor,,IND,Joe Leicht,1
 Nevada,CP50,Governor,,GRN,Luis J. Rodriguez,14
 Nevada,CP50,Governor,,REP,Neel Kashkari,67
-Nevada,CP50,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,CP50,Governor,,REP,Richard William Aguirre,3
 Nevada,CP50,Governor,,IND,Robert Newman,11
 Nevada,CP50,Governor,,REP,Tim Donnelly,80
@@ -3016,13 +3048,16 @@ Nevada,CP50,Insurance Commissioner,,DEM,Dave Jones,265
 Nevada,CP50,Insurance Commissioner,,PAF,Nathalie Hrizi,33
 Nevada,CP50,Insurance Commissioner,,REP,Ted Gaines,206
 Nevada,CP50,Lieutenant Governor,,AME,Alan Reynolds,9
-Nevada,CP50,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,CP50,Lieutenant Governor,,REP,David Fennell,40
 Nevada,CP50,Lieutenant Governor,,DEM,Eric Korevaar,55
 Nevada,CP50,Lieutenant Governor,,DEM,Gavin Newsom,270
 Nevada,CP50,Lieutenant Governor,,REP,George Yang,44
 Nevada,CP50,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Nevada,CP50,Lieutenant Governor,,REP,Ron Nehring,95
+Nevada,CP50,Proposition 41,,,No,210
+Nevada,CP50,Proposition 41,,,Yes,332
+Nevada,CP50,Proposition 42,,,No,219
+Nevada,CP50,Proposition 42,,,Yes,294
 Nevada,CP50,Secretary of State,,DEM,Alex Padilla,89
 Nevada,CP50,Secretary of State,,IND,Dan Schnur,30
 Nevada,CP50,Secretary of State,,GRN,David Curtis,18
@@ -3065,7 +3100,6 @@ Nevada,CP51,Governor,,PAF,Cindy L. Sheehan,3
 Nevada,CP51,Governor,,DEM,"Edmund G. ""Jerry"" Brown",174
 Nevada,CP51,Governor,,REP,Glenn Champ,6
 Nevada,CP51,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,CP51,Governor,,IND,Joe Leicht,0
 Nevada,CP51,Governor,,GRN,Luis J. Rodriguez,13
 Nevada,CP51,Governor,,REP,Neel Kashkari,59
 Nevada,CP51,Governor,,IND,Rakesh Kumar Christian,2
@@ -3075,7 +3109,6 @@ Nevada,CP51,Governor,,REP,Tim Donnelly,58
 Nevada,CP51,Insurance Commissioner,,DEM,Dave Jones,158
 Nevada,CP51,Insurance Commissioner,,PAF,Nathalie Hrizi,16
 Nevada,CP51,Insurance Commissioner,,REP,Ted Gaines,140
-Nevada,CP51,Lieutenant Governor,,AME,Alan Reynolds,0
 Nevada,CP51,Lieutenant Governor,,PAF,Amos Johnson,1
 Nevada,CP51,Lieutenant Governor,,REP,David Fennell,27
 Nevada,CP51,Lieutenant Governor,,DEM,Eric Korevaar,16
@@ -3083,6 +3116,10 @@ Nevada,CP51,Lieutenant Governor,,DEM,Gavin Newsom,154
 Nevada,CP51,Lieutenant Governor,,REP,George Yang,29
 Nevada,CP51,Lieutenant Governor,,GRN,Jena F. Goodman,22
 Nevada,CP51,Lieutenant Governor,,REP,Ron Nehring,74
+Nevada,CP51,Proposition 41,,,No,133
+Nevada,CP51,Proposition 41,,,Yes,186
+Nevada,CP51,Proposition 42,,,No,147
+Nevada,CP51,Proposition 42,,,Yes,157
 Nevada,CP51,Secretary of State,,DEM,Alex Padilla,50
 Nevada,CP51,Secretary of State,,IND,Dan Schnur,16
 Nevada,CP51,Secretary of State,,GRN,David Curtis,25
@@ -3119,7 +3156,6 @@ Nevada,CP52,Controller,,DEM,John A. Pérez,34
 Nevada,CP52,Controller,,GRN,Laura Wells,24
 Nevada,CP52,Controller,,DEM,Tammy D. Blair,12
 Nevada,CP52,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Nevada,CP52,Governor,,DEM,Akinyemi Agbede,0
 Nevada,CP52,Governor,,REP,Alma Marie Winston,4
 Nevada,CP52,Governor,,REP,Andrew Blount,4
 Nevada,CP52,Governor,,PAF,Cindy L. Sheehan,7
@@ -3129,8 +3165,6 @@ Nevada,CP52,Governor,,IND,Janel Hyeshia Buycks,1
 Nevada,CP52,Governor,,IND,Joe Leicht,1
 Nevada,CP52,Governor,,GRN,Luis J. Rodriguez,5
 Nevada,CP52,Governor,,REP,Neel Kashkari,116
-Nevada,CP52,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP52,Governor,,REP,Richard William Aguirre,0
 Nevada,CP52,Governor,,IND,Robert Newman,4
 Nevada,CP52,Governor,,REP,Tim Donnelly,111
 Nevada,CP52,Insurance Commissioner,,DEM,Dave Jones,130
@@ -3144,6 +3178,10 @@ Nevada,CP52,Lieutenant Governor,,DEM,Gavin Newsom,142
 Nevada,CP52,Lieutenant Governor,,REP,George Yang,61
 Nevada,CP52,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Nevada,CP52,Lieutenant Governor,,REP,Ron Nehring,137
+Nevada,CP52,Proposition 41,,,No,165
+Nevada,CP52,Proposition 41,,,Yes,230
+Nevada,CP52,Proposition 42,,,No,204
+Nevada,CP52,Proposition 42,,,Yes,186
 Nevada,CP52,Secretary of State,,DEM,Alex Padilla,40
 Nevada,CP52,Secretary of State,,IND,Dan Schnur,23
 Nevada,CP52,Secretary of State,,GRN,David Curtis,12
@@ -3181,23 +3219,16 @@ Nevada,CP53,Controller,,GRN,Laura Wells,10
 Nevada,CP53,Controller,,DEM,Tammy D. Blair,7
 Nevada,CP53,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Nevada,CP53,Governor,,DEM,Akinyemi Agbede,1
-Nevada,CP53,Governor,,REP,Alma Marie Winston,0
 Nevada,CP53,Governor,,REP,Andrew Blount,1
 Nevada,CP53,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,CP53,Governor,,DEM,"Edmund G. ""Jerry"" Brown",86
 Nevada,CP53,Governor,,REP,Glenn Champ,2
-Nevada,CP53,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,CP53,Governor,,IND,Joe Leicht,1
-Nevada,CP53,Governor,,GRN,Luis J. Rodriguez,0
 Nevada,CP53,Governor,,REP,Neel Kashkari,53
-Nevada,CP53,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,CP53,Governor,,REP,Richard William Aguirre,0
-Nevada,CP53,Governor,,IND,Robert Newman,0
 Nevada,CP53,Governor,,REP,Tim Donnelly,56
 Nevada,CP53,Insurance Commissioner,,DEM,Dave Jones,76
 Nevada,CP53,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Nevada,CP53,Insurance Commissioner,,REP,Ted Gaines,108
-Nevada,CP53,Lieutenant Governor,,AME,Alan Reynolds,0
 Nevada,CP53,Lieutenant Governor,,PAF,Amos Johnson,1
 Nevada,CP53,Lieutenant Governor,,REP,David Fennell,10
 Nevada,CP53,Lieutenant Governor,,DEM,Eric Korevaar,8
@@ -3205,6 +3236,10 @@ Nevada,CP53,Lieutenant Governor,,DEM,Gavin Newsom,81
 Nevada,CP53,Lieutenant Governor,,REP,George Yang,27
 Nevada,CP53,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Nevada,CP53,Lieutenant Governor,,REP,Ron Nehring,68
+Nevada,CP53,Proposition 41,,,No,84
+Nevada,CP53,Proposition 41,,,Yes,109
+Nevada,CP53,Proposition 42,,,No,95
+Nevada,CP53,Proposition 42,,,Yes,89
 Nevada,CP53,Secretary of State,,DEM,Alex Padilla,23
 Nevada,CP53,Secretary of State,,IND,Dan Schnur,6
 Nevada,CP53,Secretary of State,,GRN,David Curtis,7
@@ -3225,13 +3260,10 @@ Nevada,CP53,U.S. House,1,DEM,Dan Levine,14
 Nevada,CP53,U.S. House,1,REP,Doug La Malfa,103
 Nevada,CP53,U.S. House,1,REP,Gregory Cheadle,21
 Nevada,CP53,U.S. House,1,DEM,Heidi Hall,59
-Nevada,MB54,Attorney General,,REP,David King,0
 Nevada,MB54,Attorney General,,REP,John Haggerty,1
 Nevada,MB54,Attorney General,,LIB,Jonathan Jaech,3
 Nevada,MB54,Attorney General,,DEM,Kamala D. Harris,8
-Nevada,MB54,Attorney General,,IND,Orly Taitz,0
 Nevada,MB54,Attorney General,,REP,Phil Wyman,1
-Nevada,MB54,Attorney General,,REP,Ronald Gold,0
 Nevada,MB54,Board of Equalization,1,DEM,Chris Parker,8
 Nevada,MB54,Board of Equalization,1,REP,George Runner,4
 Nevada,MB54,Controller,,REP,Ashley Swearengin,1
@@ -3239,36 +3271,23 @@ Nevada,MB54,Controller,,DEM,Betty T. Yee,3
 Nevada,MB54,Controller,,REP,David Evans,2
 Nevada,MB54,Controller,,DEM,John A. Pérez,2
 Nevada,MB54,Controller,,GRN,Laura Wells,2
-Nevada,MB54,Controller,,DEM,Tammy D. Blair,0
-Nevada,MB54,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB54,Governor,,DEM,Akinyemi Agbede,0
-Nevada,MB54,Governor,,REP,Alma Marie Winston,0
-Nevada,MB54,Governor,,REP,Andrew Blount,0
 Nevada,MB54,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,MB54,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
-Nevada,MB54,Governor,,REP,Glenn Champ,0
-Nevada,MB54,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB54,Governor,,IND,Joe Leicht,0
-Nevada,MB54,Governor,,GRN,Luis J. Rodriguez,0
 Nevada,MB54,Governor,,REP,Neel Kashkari,3
-Nevada,MB54,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB54,Governor,,REP,Richard William Aguirre,0
 Nevada,MB54,Governor,,IND,Robert Newman,1
 Nevada,MB54,Governor,,REP,Tim Donnelly,1
 Nevada,MB54,Insurance Commissioner,,DEM,Dave Jones,8
 Nevada,MB54,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Nevada,MB54,Insurance Commissioner,,REP,Ted Gaines,3
-Nevada,MB54,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,MB54,Lieutenant Governor,,PAF,Amos Johnson,0
-Nevada,MB54,Lieutenant Governor,,REP,David Fennell,0
-Nevada,MB54,Lieutenant Governor,,DEM,Eric Korevaar,0
 Nevada,MB54,Lieutenant Governor,,DEM,Gavin Newsom,8
-Nevada,MB54,Lieutenant Governor,,REP,George Yang,0
 Nevada,MB54,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Nevada,MB54,Lieutenant Governor,,REP,Ron Nehring,3
+Nevada,MB54,Proposition 41,,,No,6
+Nevada,MB54,Proposition 41,,,Yes,7
+Nevada,MB54,Proposition 42,,,No,4
+Nevada,MB54,Proposition 42,,,Yes,9
 Nevada,MB54,Secretary of State,,DEM,Alex Padilla,3
 Nevada,MB54,Secretary of State,,IND,Dan Schnur,2
-Nevada,MB54,Secretary of State,,GRN,David Curtis,0
 Nevada,MB54,Secretary of State,,DEM,Derek Cressman,2
 Nevada,MB54,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Nevada,MB54,Secretary of State,,DEM,Leland Yee,1
@@ -3282,73 +3301,9 @@ Nevada,MB54,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
 Nevada,MB54,Treasurer,,GRN,Ellen H. Brown,3
 Nevada,MB54,Treasurer,,REP,Greg Conlon,3
 Nevada,MB54,Treasurer,,DEM,John Chiang,4
-Nevada,MB54,U.S. House,1,DEM,Dan Levine,0
 Nevada,MB54,U.S. House,1,REP,Doug La Malfa,4
 Nevada,MB54,U.S. House,1,REP,Gregory Cheadle,1
 Nevada,MB54,U.S. House,1,DEM,Heidi Hall,7
-Nevada,MB55,Attorney General,,REP,David King,0
-Nevada,MB55,Attorney General,,REP,John Haggerty,0
-Nevada,MB55,Attorney General,,LIB,Jonathan Jaech,0
-Nevada,MB55,Attorney General,,DEM,Kamala D. Harris,0
-Nevada,MB55,Attorney General,,IND,Orly Taitz,0
-Nevada,MB55,Attorney General,,REP,Phil Wyman,0
-Nevada,MB55,Attorney General,,REP,Ronald Gold,0
-Nevada,MB55,Board of Equalization,1,DEM,Chris Parker,0
-Nevada,MB55,Board of Equalization,1,REP,George Runner,0
-Nevada,MB55,Controller,,REP,Ashley Swearengin,0
-Nevada,MB55,Controller,,DEM,Betty T. Yee,0
-Nevada,MB55,Controller,,REP,David Evans,0
-Nevada,MB55,Controller,,DEM,John A. Pérez,0
-Nevada,MB55,Controller,,GRN,Laura Wells,0
-Nevada,MB55,Controller,,DEM,Tammy D. Blair,0
-Nevada,MB55,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB55,Governor,,DEM,Akinyemi Agbede,0
-Nevada,MB55,Governor,,REP,Alma Marie Winston,0
-Nevada,MB55,Governor,,REP,Andrew Blount,0
-Nevada,MB55,Governor,,PAF,Cindy L. Sheehan,0
-Nevada,MB55,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Nevada,MB55,Governor,,REP,Glenn Champ,0
-Nevada,MB55,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB55,Governor,,IND,Joe Leicht,0
-Nevada,MB55,Governor,,GRN,Luis J. Rodriguez,0
-Nevada,MB55,Governor,,REP,Neel Kashkari,0
-Nevada,MB55,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB55,Governor,,REP,Richard William Aguirre,0
-Nevada,MB55,Governor,,IND,Robert Newman,0
-Nevada,MB55,Governor,,REP,Tim Donnelly,0
-Nevada,MB55,Insurance Commissioner,,DEM,Dave Jones,0
-Nevada,MB55,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Nevada,MB55,Insurance Commissioner,,REP,Ted Gaines,0
-Nevada,MB55,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,MB55,Lieutenant Governor,,PAF,Amos Johnson,0
-Nevada,MB55,Lieutenant Governor,,REP,David Fennell,0
-Nevada,MB55,Lieutenant Governor,,DEM,Eric Korevaar,0
-Nevada,MB55,Lieutenant Governor,,DEM,Gavin Newsom,0
-Nevada,MB55,Lieutenant Governor,,REP,George Yang,0
-Nevada,MB55,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Nevada,MB55,Lieutenant Governor,,REP,Ron Nehring,0
-Nevada,MB55,Secretary of State,,DEM,Alex Padilla,0
-Nevada,MB55,Secretary of State,,IND,Dan Schnur,0
-Nevada,MB55,Secretary of State,,GRN,David Curtis,0
-Nevada,MB55,Secretary of State,,DEM,Derek Cressman,0
-Nevada,MB55,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Nevada,MB55,Secretary of State,,DEM,Leland Yee,0
-Nevada,MB55,Secretary of State,,REP,Pete Peterson,0
-Nevada,MB55,Secretary of State,,REP,Roy Allmond,0
-Nevada,MB55,State Assembly,1,REP,Brian Dahle,0
-Nevada,MB55,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Nevada,MB55,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Nevada,MB55,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Nevada,MB55,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Nevada,MB55,Treasurer,,GRN,Ellen H. Brown,0
-Nevada,MB55,Treasurer,,REP,Greg Conlon,0
-Nevada,MB55,Treasurer,,DEM,John Chiang,0
-Nevada,MB55,U.S. House,1,DEM,Dan Levine,0
-Nevada,MB55,U.S. House,1,REP,Doug La Malfa,0
-Nevada,MB55,U.S. House,1,REP,Gregory Cheadle,0
-Nevada,MB55,U.S. House,1,DEM,Heidi Hall,0
-Nevada,MB56,Attorney General,,REP,David King,0
-Nevada,MB56,Attorney General,,REP,John Haggerty,0
 Nevada,MB56,Attorney General,,LIB,Jonathan Jaech,1
 Nevada,MB56,Attorney General,,DEM,Kamala D. Harris,30
 Nevada,MB56,Attorney General,,IND,Orly Taitz,12
@@ -3362,19 +3317,13 @@ Nevada,MB56,Controller,,REP,David Evans,2
 Nevada,MB56,Controller,,DEM,John A. Pérez,7
 Nevada,MB56,Controller,,GRN,Laura Wells,9
 Nevada,MB56,Controller,,DEM,Tammy D. Blair,2
-Nevada,MB56,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB56,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB56,Governor,,REP,Alma Marie Winston,1
 Nevada,MB56,Governor,,REP,Andrew Blount,1
 Nevada,MB56,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,MB56,Governor,,DEM,"Edmund G. ""Jerry"" Brown",36
-Nevada,MB56,Governor,,REP,Glenn Champ,0
 Nevada,MB56,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,MB56,Governor,,IND,Joe Leicht,0
 Nevada,MB56,Governor,,GRN,Luis J. Rodriguez,1
 Nevada,MB56,Governor,,REP,Neel Kashkari,5
-Nevada,MB56,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB56,Governor,,REP,Richard William Aguirre,0
 Nevada,MB56,Governor,,IND,Robert Newman,4
 Nevada,MB56,Governor,,REP,Tim Donnelly,1
 Nevada,MB56,Insurance Commissioner,,DEM,Dave Jones,31
@@ -3388,6 +3337,10 @@ Nevada,MB56,Lieutenant Governor,,DEM,Gavin Newsom,31
 Nevada,MB56,Lieutenant Governor,,REP,George Yang,2
 Nevada,MB56,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Nevada,MB56,Lieutenant Governor,,REP,Ron Nehring,1
+Nevada,MB56,Proposition 41,,,No,14
+Nevada,MB56,Proposition 41,,,Yes,34
+Nevada,MB56,Proposition 42,,,No,21
+Nevada,MB56,Proposition 42,,,Yes,25
 Nevada,MB56,Secretary of State,,DEM,Alex Padilla,12
 Nevada,MB56,Secretary of State,,IND,Dan Schnur,4
 Nevada,MB56,Secretary of State,,GRN,David Curtis,3
@@ -3424,18 +3377,13 @@ Nevada,MB57,Controller,,DEM,John A. Pérez,42
 Nevada,MB57,Controller,,GRN,Laura Wells,27
 Nevada,MB57,Controller,,DEM,Tammy D. Blair,4
 Nevada,MB57,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Nevada,MB57,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB57,Governor,,REP,Alma Marie Winston,2
 Nevada,MB57,Governor,,REP,Andrew Blount,7
 Nevada,MB57,Governor,,PAF,Cindy L. Sheehan,5
 Nevada,MB57,Governor,,DEM,"Edmund G. ""Jerry"" Brown",136
 Nevada,MB57,Governor,,REP,Glenn Champ,3
-Nevada,MB57,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB57,Governor,,IND,Joe Leicht,0
 Nevada,MB57,Governor,,GRN,Luis J. Rodriguez,12
 Nevada,MB57,Governor,,REP,Neel Kashkari,53
-Nevada,MB57,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB57,Governor,,REP,Richard William Aguirre,0
 Nevada,MB57,Governor,,IND,Robert Newman,2
 Nevada,MB57,Governor,,REP,Tim Donnelly,55
 Nevada,MB57,Insurance Commissioner,,DEM,Dave Jones,119
@@ -3449,6 +3397,10 @@ Nevada,MB57,Lieutenant Governor,,DEM,Gavin Newsom,123
 Nevada,MB57,Lieutenant Governor,,REP,George Yang,18
 Nevada,MB57,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Nevada,MB57,Lieutenant Governor,,REP,Ron Nehring,75
+Nevada,MB57,Proposition 41,,,No,114
+Nevada,MB57,Proposition 41,,,Yes,156
+Nevada,MB57,Proposition 42,,,No,122
+Nevada,MB57,Proposition 42,,,Yes,135
 Nevada,MB57,Secretary of State,,DEM,Alex Padilla,42
 Nevada,MB57,Secretary of State,,IND,Dan Schnur,19
 Nevada,MB57,Secretary of State,,GRN,David Curtis,13
@@ -3485,31 +3437,30 @@ Nevada,MB58,Controller,,DEM,John A. Pérez,34
 Nevada,MB58,Controller,,GRN,Laura Wells,21
 Nevada,MB58,Controller,,DEM,Tammy D. Blair,6
 Nevada,MB58,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-Nevada,MB58,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB58,Governor,,REP,Alma Marie Winston,2
 Nevada,MB58,Governor,,REP,Andrew Blount,1
 Nevada,MB58,Governor,,PAF,Cindy L. Sheehan,2
 Nevada,MB58,Governor,,DEM,"Edmund G. ""Jerry"" Brown",112
 Nevada,MB58,Governor,,REP,Glenn Champ,4
 Nevada,MB58,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,MB58,Governor,,IND,Joe Leicht,0
 Nevada,MB58,Governor,,GRN,Luis J. Rodriguez,5
 Nevada,MB58,Governor,,REP,Neel Kashkari,18
-Nevada,MB58,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB58,Governor,,REP,Richard William Aguirre,0
 Nevada,MB58,Governor,,IND,Robert Newman,4
 Nevada,MB58,Governor,,REP,Tim Donnelly,12
 Nevada,MB58,Insurance Commissioner,,DEM,Dave Jones,97
 Nevada,MB58,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Nevada,MB58,Insurance Commissioner,,REP,Ted Gaines,47
 Nevada,MB58,Lieutenant Governor,,AME,Alan Reynolds,2
-Nevada,MB58,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,MB58,Lieutenant Governor,,REP,David Fennell,7
 Nevada,MB58,Lieutenant Governor,,DEM,Eric Korevaar,9
 Nevada,MB58,Lieutenant Governor,,DEM,Gavin Newsom,92
 Nevada,MB58,Lieutenant Governor,,REP,George Yang,11
 Nevada,MB58,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Nevada,MB58,Lieutenant Governor,,REP,Ron Nehring,29
+Nevada,MB58,Proposition 41,,,No,52
+Nevada,MB58,Proposition 41,,,Yes,103
+Nevada,MB58,Proposition 42,,,No,69
+Nevada,MB58,Proposition 42,,,Yes,85
 Nevada,MB58,Secretary of State,,DEM,Alex Padilla,28
 Nevada,MB58,Secretary of State,,IND,Dan Schnur,8
 Nevada,MB58,Secretary of State,,GRN,David Curtis,12
@@ -3556,8 +3507,6 @@ Nevada,MB59,Governor,,IND,Janel Hyeshia Buycks,2
 Nevada,MB59,Governor,,IND,Joe Leicht,1
 Nevada,MB59,Governor,,GRN,Luis J. Rodriguez,11
 Nevada,MB59,Governor,,REP,Neel Kashkari,98
-Nevada,MB59,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB59,Governor,,REP,Richard William Aguirre,0
 Nevada,MB59,Governor,,IND,Robert Newman,6
 Nevada,MB59,Governor,,REP,Tim Donnelly,96
 Nevada,MB59,Insurance Commissioner,,DEM,Dave Jones,202
@@ -3571,6 +3520,10 @@ Nevada,MB59,Lieutenant Governor,,DEM,Gavin Newsom,201
 Nevada,MB59,Lieutenant Governor,,REP,George Yang,60
 Nevada,MB59,Lieutenant Governor,,GRN,Jena F. Goodman,19
 Nevada,MB59,Lieutenant Governor,,REP,Ron Nehring,111
+Nevada,MB59,Proposition 41,,,No,198
+Nevada,MB59,Proposition 41,,,Yes,264
+Nevada,MB59,Proposition 42,,,No,227
+Nevada,MB59,Proposition 42,,,Yes,225
 Nevada,MB59,Secretary of State,,DEM,Alex Padilla,85
 Nevada,MB59,Secretary of State,,IND,Dan Schnur,28
 Nevada,MB59,Secretary of State,,GRN,David Curtis,31
@@ -3614,7 +3567,6 @@ Nevada,MB60,Governor,,PAF,Cindy L. Sheehan,10
 Nevada,MB60,Governor,,DEM,"Edmund G. ""Jerry"" Brown",149
 Nevada,MB60,Governor,,REP,Glenn Champ,7
 Nevada,MB60,Governor,,IND,Janel Hyeshia Buycks,3
-Nevada,MB60,Governor,,IND,Joe Leicht,0
 Nevada,MB60,Governor,,GRN,Luis J. Rodriguez,6
 Nevada,MB60,Governor,,REP,Neel Kashkari,121
 Nevada,MB60,Governor,,IND,Rakesh Kumar Christian,1
@@ -3632,6 +3584,10 @@ Nevada,MB60,Lieutenant Governor,,DEM,Gavin Newsom,127
 Nevada,MB60,Lieutenant Governor,,REP,George Yang,70
 Nevada,MB60,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Nevada,MB60,Lieutenant Governor,,REP,Ron Nehring,144
+Nevada,MB60,Proposition 41,,,No,226
+Nevada,MB60,Proposition 41,,,Yes,203
+Nevada,MB60,Proposition 42,,,No,215
+Nevada,MB60,Proposition 42,,,Yes,206
 Nevada,MB60,Secretary of State,,DEM,Alex Padilla,54
 Nevada,MB60,Secretary of State,,IND,Dan Schnur,27
 Nevada,MB60,Secretary of State,,GRN,David Curtis,16
@@ -3667,8 +3623,6 @@ Nevada,MB61,Controller,,REP,David Evans,39
 Nevada,MB61,Controller,,DEM,John A. Pérez,29
 Nevada,MB61,Controller,,GRN,Laura Wells,24
 Nevada,MB61,Controller,,DEM,Tammy D. Blair,7
-Nevada,MB61,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB61,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB61,Governor,,REP,Alma Marie Winston,1
 Nevada,MB61,Governor,,REP,Andrew Blount,2
 Nevada,MB61,Governor,,PAF,Cindy L. Sheehan,4
@@ -3679,7 +3633,6 @@ Nevada,MB61,Governor,,IND,Joe Leicht,1
 Nevada,MB61,Governor,,GRN,Luis J. Rodriguez,4
 Nevada,MB61,Governor,,REP,Neel Kashkari,30
 Nevada,MB61,Governor,,IND,Rakesh Kumar Christian,2
-Nevada,MB61,Governor,,REP,Richard William Aguirre,0
 Nevada,MB61,Governor,,IND,Robert Newman,6
 Nevada,MB61,Governor,,REP,Tim Donnelly,29
 Nevada,MB61,Insurance Commissioner,,DEM,Dave Jones,83
@@ -3693,6 +3646,10 @@ Nevada,MB61,Lieutenant Governor,,DEM,Gavin Newsom,79
 Nevada,MB61,Lieutenant Governor,,REP,George Yang,15
 Nevada,MB61,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Nevada,MB61,Lieutenant Governor,,REP,Ron Nehring,42
+Nevada,MB61,Proposition 41,,,No,66
+Nevada,MB61,Proposition 41,,,Yes,117
+Nevada,MB61,Proposition 42,,,No,80
+Nevada,MB61,Proposition 42,,,Yes,87
 Nevada,MB61,Secretary of State,,DEM,Alex Padilla,32
 Nevada,MB61,Secretary of State,,IND,Dan Schnur,9
 Nevada,MB61,Secretary of State,,GRN,David Curtis,14
@@ -3728,19 +3685,15 @@ Nevada,MB62,Controller,,REP,David Evans,58
 Nevada,MB62,Controller,,DEM,John A. Pérez,26
 Nevada,MB62,Controller,,GRN,Laura Wells,13
 Nevada,MB62,Controller,,DEM,Tammy D. Blair,11
-Nevada,MB62,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,MB62,Governor,,DEM,Akinyemi Agbede,2
 Nevada,MB62,Governor,,REP,Alma Marie Winston,3
-Nevada,MB62,Governor,,REP,Andrew Blount,0
 Nevada,MB62,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,MB62,Governor,,DEM,"Edmund G. ""Jerry"" Brown",106
 Nevada,MB62,Governor,,REP,Glenn Champ,5
 Nevada,MB62,Governor,,IND,Janel Hyeshia Buycks,2
 Nevada,MB62,Governor,,IND,Joe Leicht,2
-Nevada,MB62,Governor,,GRN,Luis J. Rodriguez,0
 Nevada,MB62,Governor,,REP,Neel Kashkari,58
 Nevada,MB62,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,MB62,Governor,,REP,Richard William Aguirre,0
 Nevada,MB62,Governor,,IND,Robert Newman,1
 Nevada,MB62,Governor,,REP,Tim Donnelly,52
 Nevada,MB62,Insurance Commissioner,,DEM,Dave Jones,94
@@ -3754,6 +3707,10 @@ Nevada,MB62,Lieutenant Governor,,DEM,Gavin Newsom,87
 Nevada,MB62,Lieutenant Governor,,REP,George Yang,20
 Nevada,MB62,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Nevada,MB62,Lieutenant Governor,,REP,Ron Nehring,78
+Nevada,MB62,Proposition 41,,,No,83
+Nevada,MB62,Proposition 41,,,Yes,133
+Nevada,MB62,Proposition 42,,,No,105
+Nevada,MB62,Proposition 42,,,Yes,103
 Nevada,MB62,Secretary of State,,DEM,Alex Padilla,37
 Nevada,MB62,Secretary of State,,IND,Dan Schnur,13
 Nevada,MB62,Secretary of State,,GRN,David Curtis,6
@@ -3801,8 +3758,6 @@ Nevada,MB63,Governor,,IND,Joe Leicht,1
 Nevada,MB63,Governor,,GRN,Luis J. Rodriguez,8
 Nevada,MB63,Governor,,REP,Neel Kashkari,71
 Nevada,MB63,Governor,,IND,Rakesh Kumar Christian,2
-Nevada,MB63,Governor,,REP,Richard William Aguirre,0
-Nevada,MB63,Governor,,IND,Robert Newman,0
 Nevada,MB63,Governor,,REP,Tim Donnelly,78
 Nevada,MB63,Insurance Commissioner,,DEM,Dave Jones,160
 Nevada,MB63,Insurance Commissioner,,PAF,Nathalie Hrizi,22
@@ -3815,6 +3770,10 @@ Nevada,MB63,Lieutenant Governor,,DEM,Gavin Newsom,162
 Nevada,MB63,Lieutenant Governor,,REP,George Yang,45
 Nevada,MB63,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Nevada,MB63,Lieutenant Governor,,REP,Ron Nehring,84
+Nevada,MB63,Proposition 41,,,No,167
+Nevada,MB63,Proposition 41,,,Yes,190
+Nevada,MB63,Proposition 42,,,No,193
+Nevada,MB63,Proposition 42,,,Yes,152
 Nevada,MB63,Secretary of State,,DEM,Alex Padilla,60
 Nevada,MB63,Secretary of State,,IND,Dan Schnur,9
 Nevada,MB63,Secretary of State,,GRN,David Curtis,22
@@ -3858,11 +3817,9 @@ Nevada,MB64,Governor,,PAF,Cindy L. Sheehan,8
 Nevada,MB64,Governor,,DEM,"Edmund G. ""Jerry"" Brown",214
 Nevada,MB64,Governor,,REP,Glenn Champ,8
 Nevada,MB64,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,MB64,Governor,,IND,Joe Leicht,0
 Nevada,MB64,Governor,,GRN,Luis J. Rodriguez,13
 Nevada,MB64,Governor,,REP,Neel Kashkari,89
 Nevada,MB64,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,MB64,Governor,,REP,Richard William Aguirre,0
 Nevada,MB64,Governor,,IND,Robert Newman,6
 Nevada,MB64,Governor,,REP,Tim Donnelly,108
 Nevada,MB64,Insurance Commissioner,,DEM,Dave Jones,174
@@ -3876,6 +3833,10 @@ Nevada,MB64,Lieutenant Governor,,DEM,Gavin Newsom,176
 Nevada,MB64,Lieutenant Governor,,REP,George Yang,48
 Nevada,MB64,Lieutenant Governor,,GRN,Jena F. Goodman,21
 Nevada,MB64,Lieutenant Governor,,REP,Ron Nehring,132
+Nevada,MB64,Proposition 41,,,No,179
+Nevada,MB64,Proposition 41,,,Yes,273
+Nevada,MB64,Proposition 42,,,No,222
+Nevada,MB64,Proposition 42,,,Yes,218
 Nevada,MB64,Secretary of State,,DEM,Alex Padilla,66
 Nevada,MB64,Secretary of State,,IND,Dan Schnur,16
 Nevada,MB64,Secretary of State,,GRN,David Curtis,32
@@ -3911,32 +3872,28 @@ Nevada,MB65,Controller,,REP,David Evans,19
 Nevada,MB65,Controller,,DEM,John A. Pérez,16
 Nevada,MB65,Controller,,GRN,Laura Wells,7
 Nevada,MB65,Controller,,DEM,Tammy D. Blair,1
-Nevada,MB65,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB65,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB65,Governor,,REP,Alma Marie Winston,2
 Nevada,MB65,Governor,,REP,Andrew Blount,1
 Nevada,MB65,Governor,,PAF,Cindy L. Sheehan,2
 Nevada,MB65,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 Nevada,MB65,Governor,,REP,Glenn Champ,3
-Nevada,MB65,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB65,Governor,,IND,Joe Leicht,0
 Nevada,MB65,Governor,,GRN,Luis J. Rodriguez,3
 Nevada,MB65,Governor,,REP,Neel Kashkari,9
 Nevada,MB65,Governor,,IND,Rakesh Kumar Christian,1
-Nevada,MB65,Governor,,REP,Richard William Aguirre,0
-Nevada,MB65,Governor,,IND,Robert Newman,0
 Nevada,MB65,Governor,,REP,Tim Donnelly,10
 Nevada,MB65,Insurance Commissioner,,DEM,Dave Jones,40
 Nevada,MB65,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Nevada,MB65,Insurance Commissioner,,REP,Ted Gaines,27
-Nevada,MB65,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,MB65,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,MB65,Lieutenant Governor,,REP,David Fennell,6
 Nevada,MB65,Lieutenant Governor,,DEM,Eric Korevaar,5
 Nevada,MB65,Lieutenant Governor,,DEM,Gavin Newsom,48
 Nevada,MB65,Lieutenant Governor,,REP,George Yang,3
 Nevada,MB65,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Nevada,MB65,Lieutenant Governor,,REP,Ron Nehring,11
+Nevada,MB65,Proposition 41,,,No,19
+Nevada,MB65,Proposition 41,,,Yes,59
+Nevada,MB65,Proposition 42,,,No,34
+Nevada,MB65,Proposition 42,,,Yes,41
 Nevada,MB65,Secretary of State,,DEM,Alex Padilla,15
 Nevada,MB65,Secretary of State,,IND,Dan Schnur,4
 Nevada,MB65,Secretary of State,,GRN,David Curtis,8
@@ -3972,18 +3929,13 @@ Nevada,MB66,Controller,,REP,David Evans,33
 Nevada,MB66,Controller,,DEM,John A. Pérez,13
 Nevada,MB66,Controller,,GRN,Laura Wells,8
 Nevada,MB66,Controller,,DEM,Tammy D. Blair,4
-Nevada,MB66,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,MB66,Governor,,DEM,Akinyemi Agbede,1
 Nevada,MB66,Governor,,REP,Alma Marie Winston,2
 Nevada,MB66,Governor,,REP,Andrew Blount,1
 Nevada,MB66,Governor,,PAF,Cindy L. Sheehan,4
 Nevada,MB66,Governor,,DEM,"Edmund G. ""Jerry"" Brown",60
-Nevada,MB66,Governor,,REP,Glenn Champ,0
-Nevada,MB66,Governor,,IND,Janel Hyeshia Buycks,0
 Nevada,MB66,Governor,,IND,Joe Leicht,2
-Nevada,MB66,Governor,,GRN,Luis J. Rodriguez,0
 Nevada,MB66,Governor,,REP,Neel Kashkari,20
-Nevada,MB66,Governor,,IND,Rakesh Kumar Christian,0
 Nevada,MB66,Governor,,REP,Richard William Aguirre,1
 Nevada,MB66,Governor,,IND,Robert Newman,2
 Nevada,MB66,Governor,,REP,Tim Donnelly,27
@@ -3991,13 +3943,16 @@ Nevada,MB66,Insurance Commissioner,,DEM,Dave Jones,53
 Nevada,MB66,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Nevada,MB66,Insurance Commissioner,,REP,Ted Gaines,52
 Nevada,MB66,Lieutenant Governor,,AME,Alan Reynolds,1
-Nevada,MB66,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,MB66,Lieutenant Governor,,REP,David Fennell,8
 Nevada,MB66,Lieutenant Governor,,DEM,Eric Korevaar,10
 Nevada,MB66,Lieutenant Governor,,DEM,Gavin Newsom,53
 Nevada,MB66,Lieutenant Governor,,REP,George Yang,8
 Nevada,MB66,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Nevada,MB66,Lieutenant Governor,,REP,Ron Nehring,32
+Nevada,MB66,Proposition 41,,,No,36
+Nevada,MB66,Proposition 41,,,Yes,80
+Nevada,MB66,Proposition 42,,,No,53
+Nevada,MB66,Proposition 42,,,Yes,59
 Nevada,MB66,Secretary of State,,DEM,Alex Padilla,24
 Nevada,MB66,Secretary of State,,IND,Dan Schnur,2
 Nevada,MB66,Secretary of State,,GRN,David Curtis,6
@@ -4034,24 +3989,17 @@ Nevada,MB67,Controller,,DEM,John A. Pérez,7
 Nevada,MB67,Controller,,GRN,Laura Wells,19
 Nevada,MB67,Controller,,DEM,Tammy D. Blair,8
 Nevada,MB67,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Nevada,MB67,Governor,,DEM,Akinyemi Agbede,0
-Nevada,MB67,Governor,,REP,Alma Marie Winston,0
 Nevada,MB67,Governor,,REP,Andrew Blount,4
 Nevada,MB67,Governor,,PAF,Cindy L. Sheehan,1
 Nevada,MB67,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Nevada,MB67,Governor,,REP,Glenn Champ,3
-Nevada,MB67,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB67,Governor,,IND,Joe Leicht,0
 Nevada,MB67,Governor,,GRN,Luis J. Rodriguez,7
 Nevada,MB67,Governor,,REP,Neel Kashkari,44
-Nevada,MB67,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB67,Governor,,REP,Richard William Aguirre,0
 Nevada,MB67,Governor,,IND,Robert Newman,1
 Nevada,MB67,Governor,,REP,Tim Donnelly,47
 Nevada,MB67,Insurance Commissioner,,DEM,Dave Jones,52
 Nevada,MB67,Insurance Commissioner,,PAF,Nathalie Hrizi,17
 Nevada,MB67,Insurance Commissioner,,REP,Ted Gaines,95
-Nevada,MB67,Lieutenant Governor,,AME,Alan Reynolds,0
 Nevada,MB67,Lieutenant Governor,,PAF,Amos Johnson,2
 Nevada,MB67,Lieutenant Governor,,REP,David Fennell,20
 Nevada,MB67,Lieutenant Governor,,DEM,Eric Korevaar,5
@@ -4059,6 +4007,10 @@ Nevada,MB67,Lieutenant Governor,,DEM,Gavin Newsom,56
 Nevada,MB67,Lieutenant Governor,,REP,George Yang,17
 Nevada,MB67,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Nevada,MB67,Lieutenant Governor,,REP,Ron Nehring,57
+Nevada,MB67,Proposition 41,,,No,68
+Nevada,MB67,Proposition 41,,,Yes,98
+Nevada,MB67,Proposition 42,,,No,93
+Nevada,MB67,Proposition 42,,,Yes,71
 Nevada,MB67,Secretary of State,,DEM,Alex Padilla,18
 Nevada,MB67,Secretary of State,,IND,Dan Schnur,10
 Nevada,MB67,Secretary of State,,GRN,David Curtis,13
@@ -4081,7 +4033,6 @@ Nevada,MB67,U.S. House,1,REP,Gregory Cheadle,13
 Nevada,MB67,U.S. House,1,DEM,Heidi Hall,62
 Nevada,MB68,Attorney General,,REP,David King,3
 Nevada,MB68,Attorney General,,REP,John Haggerty,8
-Nevada,MB68,Attorney General,,LIB,Jonathan Jaech,0
 Nevada,MB68,Attorney General,,DEM,Kamala D. Harris,33
 Nevada,MB68,Attorney General,,IND,Orly Taitz,3
 Nevada,MB68,Attorney General,,REP,Phil Wyman,9
@@ -4092,39 +4043,30 @@ Nevada,MB68,Controller,,REP,Ashley Swearengin,8
 Nevada,MB68,Controller,,DEM,Betty T. Yee,16
 Nevada,MB68,Controller,,REP,David Evans,17
 Nevada,MB68,Controller,,DEM,John A. Pérez,7
-Nevada,MB68,Controller,,GRN,Laura Wells,0
-Nevada,MB68,Controller,,DEM,Tammy D. Blair,0
-Nevada,MB68,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB68,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB68,Governor,,REP,Alma Marie Winston,2
 Nevada,MB68,Governor,,REP,Andrew Blount,1
-Nevada,MB68,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,MB68,Governor,,DEM,"Edmund G. ""Jerry"" Brown",36
-Nevada,MB68,Governor,,REP,Glenn Champ,0
-Nevada,MB68,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB68,Governor,,IND,Joe Leicht,0
 Nevada,MB68,Governor,,GRN,Luis J. Rodriguez,1
 Nevada,MB68,Governor,,REP,Neel Kashkari,7
-Nevada,MB68,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB68,Governor,,REP,Richard William Aguirre,0
 Nevada,MB68,Governor,,IND,Robert Newman,1
 Nevada,MB68,Governor,,REP,Tim Donnelly,15
 Nevada,MB68,Insurance Commissioner,,DEM,Dave Jones,19
 Nevada,MB68,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Nevada,MB68,Insurance Commissioner,,REP,Ted Gaines,36
-Nevada,MB68,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,MB68,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,MB68,Lieutenant Governor,,REP,David Fennell,1
 Nevada,MB68,Lieutenant Governor,,DEM,Eric Korevaar,2
 Nevada,MB68,Lieutenant Governor,,DEM,Gavin Newsom,31
 Nevada,MB68,Lieutenant Governor,,REP,George Yang,4
 Nevada,MB68,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Nevada,MB68,Lieutenant Governor,,REP,Ron Nehring,20
+Nevada,MB68,Proposition 41,,,No,24
+Nevada,MB68,Proposition 41,,,Yes,40
+Nevada,MB68,Proposition 42,,,No,28
+Nevada,MB68,Proposition 42,,,Yes,35
 Nevada,MB68,Secretary of State,,DEM,Alex Padilla,12
 Nevada,MB68,Secretary of State,,IND,Dan Schnur,5
 Nevada,MB68,Secretary of State,,GRN,David Curtis,3
 Nevada,MB68,Secretary of State,,DEM,Derek Cressman,8
-Nevada,MB68,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Nevada,MB68,Secretary of State,,DEM,Leland Yee,5
 Nevada,MB68,Secretary of State,,REP,Pete Peterson,21
 Nevada,MB68,Secretary of State,,REP,Roy Allmond,2
@@ -4154,34 +4096,27 @@ Nevada,MB69,Controller,,REP,David Evans,16
 Nevada,MB69,Controller,,DEM,John A. Pérez,3
 Nevada,MB69,Controller,,GRN,Laura Wells,8
 Nevada,MB69,Controller,,DEM,Tammy D. Blair,1
-Nevada,MB69,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Nevada,MB69,Governor,,DEM,Akinyemi Agbede,1
 Nevada,MB69,Governor,,REP,Alma Marie Winston,2
 Nevada,MB69,Governor,,REP,Andrew Blount,3
-Nevada,MB69,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,MB69,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
-Nevada,MB69,Governor,,REP,Glenn Champ,0
-Nevada,MB69,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB69,Governor,,IND,Joe Leicht,0
 Nevada,MB69,Governor,,GRN,Luis J. Rodriguez,1
 Nevada,MB69,Governor,,REP,Neel Kashkari,16
-Nevada,MB69,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB69,Governor,,REP,Richard William Aguirre,0
-Nevada,MB69,Governor,,IND,Robert Newman,0
 Nevada,MB69,Governor,,REP,Tim Donnelly,9
 Nevada,MB69,Insurance Commissioner,,DEM,Dave Jones,12
 Nevada,MB69,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Nevada,MB69,Insurance Commissioner,,REP,Ted Gaines,33
-Nevada,MB69,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,MB69,Lieutenant Governor,,PAF,Amos Johnson,0
 Nevada,MB69,Lieutenant Governor,,REP,David Fennell,4
 Nevada,MB69,Lieutenant Governor,,DEM,Eric Korevaar,2
 Nevada,MB69,Lieutenant Governor,,DEM,Gavin Newsom,16
 Nevada,MB69,Lieutenant Governor,,REP,George Yang,9
 Nevada,MB69,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Nevada,MB69,Lieutenant Governor,,REP,Ron Nehring,14
+Nevada,MB69,Proposition 41,,,No,27
+Nevada,MB69,Proposition 41,,,Yes,23
+Nevada,MB69,Proposition 42,,,No,24
+Nevada,MB69,Proposition 42,,,Yes,24
 Nevada,MB69,Secretary of State,,DEM,Alex Padilla,4
-Nevada,MB69,Secretary of State,,IND,Dan Schnur,0
 Nevada,MB69,Secretary of State,,GRN,David Curtis,4
 Nevada,MB69,Secretary of State,,DEM,Derek Cressman,4
 Nevada,MB69,Secretary of State,,DEM,Jeffrey H. Drobman,3
@@ -4215,18 +4150,14 @@ Nevada,MB70,Controller,,DEM,John A. Pérez,13
 Nevada,MB70,Controller,,GRN,Laura Wells,29
 Nevada,MB70,Controller,,DEM,Tammy D. Blair,7
 Nevada,MB70,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Nevada,MB70,Governor,,DEM,Akinyemi Agbede,0
 Nevada,MB70,Governor,,REP,Alma Marie Winston,5
 Nevada,MB70,Governor,,REP,Andrew Blount,1
 Nevada,MB70,Governor,,PAF,Cindy L. Sheehan,11
 Nevada,MB70,Governor,,DEM,"Edmund G. ""Jerry"" Brown",91
 Nevada,MB70,Governor,,REP,Glenn Champ,3
 Nevada,MB70,Governor,,IND,Janel Hyeshia Buycks,1
-Nevada,MB70,Governor,,IND,Joe Leicht,0
 Nevada,MB70,Governor,,GRN,Luis J. Rodriguez,7
 Nevada,MB70,Governor,,REP,Neel Kashkari,22
-Nevada,MB70,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB70,Governor,,REP,Richard William Aguirre,0
 Nevada,MB70,Governor,,IND,Robert Newman,2
 Nevada,MB70,Governor,,REP,Tim Donnelly,33
 Nevada,MB70,Insurance Commissioner,,DEM,Dave Jones,82
@@ -4240,6 +4171,10 @@ Nevada,MB70,Lieutenant Governor,,DEM,Gavin Newsom,80
 Nevada,MB70,Lieutenant Governor,,REP,George Yang,16
 Nevada,MB70,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Nevada,MB70,Lieutenant Governor,,REP,Ron Nehring,33
+Nevada,MB70,Proposition 41,,,No,70
+Nevada,MB70,Proposition 41,,,Yes,104
+Nevada,MB70,Proposition 42,,,No,91
+Nevada,MB70,Proposition 42,,,Yes,75
 Nevada,MB70,Secretary of State,,DEM,Alex Padilla,36
 Nevada,MB70,Secretary of State,,IND,Dan Schnur,7
 Nevada,MB70,Secretary of State,,GRN,David Curtis,24
@@ -4260,64 +4195,33 @@ Nevada,MB70,U.S. House,1,DEM,Dan Levine,9
 Nevada,MB70,U.S. House,1,REP,Doug La Malfa,62
 Nevada,MB70,U.S. House,1,REP,Gregory Cheadle,6
 Nevada,MB70,U.S. House,1,DEM,Heidi Hall,95
-Nevada,MB71,Attorney General,,REP,David King,0
-Nevada,MB71,Attorney General,,REP,John Haggerty,0
-Nevada,MB71,Attorney General,,LIB,Jonathan Jaech,0
 Nevada,MB71,Attorney General,,DEM,Kamala D. Harris,4
-Nevada,MB71,Attorney General,,IND,Orly Taitz,0
 Nevada,MB71,Attorney General,,REP,Phil Wyman,2
-Nevada,MB71,Attorney General,,REP,Ronald Gold,0
 Nevada,MB71,Board of Equalization,1,DEM,Chris Parker,4
 Nevada,MB71,Board of Equalization,1,REP,George Runner,1
-Nevada,MB71,Controller,,REP,Ashley Swearengin,0
 Nevada,MB71,Controller,,DEM,Betty T. Yee,2
 Nevada,MB71,Controller,,REP,David Evans,2
-Nevada,MB71,Controller,,DEM,John A. Pérez,0
 Nevada,MB71,Controller,,GRN,Laura Wells,2
-Nevada,MB71,Controller,,DEM,Tammy D. Blair,0
-Nevada,MB71,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Nevada,MB71,Governor,,DEM,Akinyemi Agbede,0
-Nevada,MB71,Governor,,REP,Alma Marie Winston,0
-Nevada,MB71,Governor,,REP,Andrew Blount,0
-Nevada,MB71,Governor,,PAF,Cindy L. Sheehan,0
 Nevada,MB71,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Nevada,MB71,Governor,,REP,Glenn Champ,0
-Nevada,MB71,Governor,,IND,Janel Hyeshia Buycks,0
-Nevada,MB71,Governor,,IND,Joe Leicht,0
-Nevada,MB71,Governor,,GRN,Luis J. Rodriguez,0
-Nevada,MB71,Governor,,REP,Neel Kashkari,0
-Nevada,MB71,Governor,,IND,Rakesh Kumar Christian,0
-Nevada,MB71,Governor,,REP,Richard William Aguirre,0
-Nevada,MB71,Governor,,IND,Robert Newman,0
 Nevada,MB71,Governor,,REP,Tim Donnelly,2
 Nevada,MB71,Insurance Commissioner,,DEM,Dave Jones,4
-Nevada,MB71,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Nevada,MB71,Insurance Commissioner,,REP,Ted Gaines,2
-Nevada,MB71,Lieutenant Governor,,AME,Alan Reynolds,0
-Nevada,MB71,Lieutenant Governor,,PAF,Amos Johnson,0
-Nevada,MB71,Lieutenant Governor,,REP,David Fennell,0
 Nevada,MB71,Lieutenant Governor,,DEM,Eric Korevaar,1
 Nevada,MB71,Lieutenant Governor,,DEM,Gavin Newsom,3
 Nevada,MB71,Lieutenant Governor,,REP,George Yang,2
-Nevada,MB71,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Nevada,MB71,Lieutenant Governor,,REP,Ron Nehring,0
+Nevada,MB71,Proposition 41,,,Yes,6
+Nevada,MB71,Proposition 42,,,No,4
+Nevada,MB71,Proposition 42,,,Yes,2
 Nevada,MB71,Secretary of State,,DEM,Alex Padilla,2
-Nevada,MB71,Secretary of State,,IND,Dan Schnur,0
 Nevada,MB71,Secretary of State,,GRN,David Curtis,1
 Nevada,MB71,Secretary of State,,DEM,Derek Cressman,1
-Nevada,MB71,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Nevada,MB71,Secretary of State,,DEM,Leland Yee,0
 Nevada,MB71,Secretary of State,,REP,Pete Peterson,2
-Nevada,MB71,Secretary of State,,REP,Roy Allmond,0
 Nevada,MB71,State Assembly,1,REP,Brian Dahle,3
 Nevada,MB71,State Assembly,1,DEM,Brigham Sawyer Smith,3
 Nevada,MB71,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
-Nevada,MB71,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Nevada,MB71,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
 Nevada,MB71,Treasurer,,GRN,Ellen H. Brown,2
 Nevada,MB71,Treasurer,,REP,Greg Conlon,2
 Nevada,MB71,Treasurer,,DEM,John Chiang,2
-Nevada,MB71,U.S. House,1,DEM,Dan Levine,0
-Nevada,MB71,U.S. House,1,REP,Doug La Malfa,0
 Nevada,MB71,U.S. House,1,REP,Gregory Cheadle,2
 Nevada,MB71,U.S. House,1,DEM,Heidi Hall,4

@@ -16,16 +16,13 @@ Lake,111,Controller,,GRN,Laura Wells,23
 Lake,111,Controller,,DEM,Tammy D. Blair,14
 Lake,111,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Lake,111,Governor,,DEM,Akinyemi Agbede,4
-Lake,111,Governor,,REP,Alma Marie Winston,0
 Lake,111,Governor,,REP,Andrew Blount,7
 Lake,111,Governor,,PAF,Cindy L. Sheehan,4
 Lake,111,Governor,,DEM,"Edmund G. ""Jerry"" Brown",147
 Lake,111,Governor,,REP,Glenn Champ,7
-Lake,111,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,111,Governor,,IND,Joe Leicht,3
 Lake,111,Governor,,GRN,Luis J. Rodriguez,10
 Lake,111,Governor,,REP,Neel Kashkari,21
-Lake,111,Governor,,IND,Rakesh Kumar Christian,0
 Lake,111,Governor,,REP,Richard William Aguirre,1
 Lake,111,Governor,,IND,Robert Newman,7
 Lake,111,Governor,,REP,Tim Donnelly,36
@@ -40,6 +37,10 @@ Lake,111,Lieutenant Governor,,DEM,Gavin Newsom,128
 Lake,111,Lieutenant Governor,,REP,George Yang,8
 Lake,111,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Lake,111,Lieutenant Governor,,REP,Ron Nehring,35
+Lake,111,Proposition 41,,,No,86
+Lake,111,Proposition 41,,,Yes,156
+Lake,111,Proposition 42,,,No,108
+Lake,111,Proposition 42,,,Yes,117
 Lake,111,Secretary of State,,DEM,Alex Padilla,75
 Lake,111,Secretary of State,,IND,Dan Schnur,17
 Lake,111,Secretary of State,,GRN,David Curtis,24
@@ -88,12 +89,8 @@ Lake,112,Governor,,REP,Andrew Blount,9
 Lake,112,Governor,,PAF,Cindy L. Sheehan,4
 Lake,112,Governor,,DEM,"Edmund G. ""Jerry"" Brown",117
 Lake,112,Governor,,REP,Glenn Champ,6
-Lake,112,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,112,Governor,,IND,Joe Leicht,0
 Lake,112,Governor,,GRN,Luis J. Rodriguez,13
 Lake,112,Governor,,REP,Neel Kashkari,25
-Lake,112,Governor,,IND,Rakesh Kumar Christian,0
-Lake,112,Governor,,REP,Richard William Aguirre,0
 Lake,112,Governor,,IND,Robert Newman,9
 Lake,112,Governor,,REP,Tim Donnelly,41
 Lake,112,Insurance Commissioner,,DEM,Dave Jones,101
@@ -107,6 +104,10 @@ Lake,112,Lieutenant Governor,,DEM,Gavin Newsom,101
 Lake,112,Lieutenant Governor,,REP,George Yang,14
 Lake,112,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Lake,112,Lieutenant Governor,,REP,Ron Nehring,39
+Lake,112,Proposition 41,,,No,74
+Lake,112,Proposition 41,,,Yes,146
+Lake,112,Proposition 42,,,No,89
+Lake,112,Proposition 42,,,Yes,120
 Lake,112,Secretary of State,,DEM,Alex Padilla,71
 Lake,112,Secretary of State,,IND,Dan Schnur,19
 Lake,112,Secretary of State,,GRN,David Curtis,18
@@ -159,8 +160,6 @@ Lake,113,Governor,,IND,Janel Hyeshia Buycks,1
 Lake,113,Governor,,IND,Joe Leicht,2
 Lake,113,Governor,,GRN,Luis J. Rodriguez,10
 Lake,113,Governor,,REP,Neel Kashkari,25
-Lake,113,Governor,,IND,Rakesh Kumar Christian,0
-Lake,113,Governor,,REP,Richard William Aguirre,0
 Lake,113,Governor,,IND,Robert Newman,11
 Lake,113,Governor,,REP,Tim Donnelly,77
 Lake,113,Insurance Commissioner,,DEM,Dave Jones,154
@@ -174,6 +173,10 @@ Lake,113,Lieutenant Governor,,DEM,Gavin Newsom,168
 Lake,113,Lieutenant Governor,,REP,George Yang,12
 Lake,113,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Lake,113,Lieutenant Governor,,REP,Ron Nehring,68
+Lake,113,Proposition 41,,,No,108
+Lake,113,Proposition 41,,,Yes,210
+Lake,113,Proposition 42,,,No,144
+Lake,113,Proposition 42,,,Yes,164
 Lake,113,Secretary of State,,DEM,Alex Padilla,105
 Lake,113,Secretary of State,,IND,Dan Schnur,18
 Lake,113,Secretary of State,,GRN,David Curtis,17
@@ -223,24 +226,24 @@ Lake,114,Governor,,PAF,Cindy L. Sheehan,5
 Lake,114,Governor,,DEM,"Edmund G. ""Jerry"" Brown",150
 Lake,114,Governor,,REP,Glenn Champ,14
 Lake,114,Governor,,IND,Janel Hyeshia Buycks,1
-Lake,114,Governor,,IND,Joe Leicht,0
 Lake,114,Governor,,GRN,Luis J. Rodriguez,3
 Lake,114,Governor,,REP,Neel Kashkari,31
 Lake,114,Governor,,IND,Rakesh Kumar Christian,1
-Lake,114,Governor,,REP,Richard William Aguirre,0
-Lake,114,Governor,,IND,Robert Newman,0
 Lake,114,Governor,,REP,Tim Donnelly,40
 Lake,114,Insurance Commissioner,,DEM,Dave Jones,108
 Lake,114,Insurance Commissioner,,PAF,Nathalie Hrizi,20
 Lake,114,Insurance Commissioner,,REP,Ted Gaines,108
 Lake,114,Lieutenant Governor,,AME,Alan Reynolds,4
-Lake,114,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,114,Lieutenant Governor,,REP,David Fennell,35
 Lake,114,Lieutenant Governor,,DEM,Eric Korevaar,12
 Lake,114,Lieutenant Governor,,DEM,Gavin Newsom,134
 Lake,114,Lieutenant Governor,,REP,George Yang,14
 Lake,114,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lake,114,Lieutenant Governor,,REP,Ron Nehring,53
+Lake,114,Proposition 41,,,No,91
+Lake,114,Proposition 41,,,Yes,154
+Lake,114,Proposition 42,,,No,102
+Lake,114,Proposition 42,,,Yes,133
 Lake,114,Secretary of State,,DEM,Alex Padilla,67
 Lake,114,Secretary of State,,IND,Dan Schnur,23
 Lake,114,Secretary of State,,GRN,David Curtis,11
@@ -290,24 +293,24 @@ Lake,115,Governor,,PAF,Cindy L. Sheehan,4
 Lake,115,Governor,,DEM,"Edmund G. ""Jerry"" Brown",135
 Lake,115,Governor,,REP,Glenn Champ,16
 Lake,115,Governor,,IND,Janel Hyeshia Buycks,1
-Lake,115,Governor,,IND,Joe Leicht,0
 Lake,115,Governor,,GRN,Luis J. Rodriguez,1
 Lake,115,Governor,,REP,Neel Kashkari,25
-Lake,115,Governor,,IND,Rakesh Kumar Christian,0
-Lake,115,Governor,,REP,Richard William Aguirre,0
 Lake,115,Governor,,IND,Robert Newman,3
 Lake,115,Governor,,REP,Tim Donnelly,58
 Lake,115,Insurance Commissioner,,DEM,Dave Jones,105
 Lake,115,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Lake,115,Insurance Commissioner,,REP,Ted Gaines,136
 Lake,115,Lieutenant Governor,,AME,Alan Reynolds,1
-Lake,115,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,115,Lieutenant Governor,,REP,David Fennell,37
 Lake,115,Lieutenant Governor,,DEM,Eric Korevaar,13
 Lake,115,Lieutenant Governor,,DEM,Gavin Newsom,126
 Lake,115,Lieutenant Governor,,REP,George Yang,18
 Lake,115,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Lake,115,Lieutenant Governor,,REP,Ron Nehring,60
+Lake,115,Proposition 41,,,No,109
+Lake,115,Proposition 41,,,Yes,156
+Lake,115,Proposition 42,,,No,108
+Lake,115,Proposition 42,,,Yes,143
 Lake,115,Secretary of State,,DEM,Alex Padilla,73
 Lake,115,Secretary of State,,IND,Dan Schnur,17
 Lake,115,Secretary of State,,GRN,David Curtis,8
@@ -360,7 +363,6 @@ Lake,116,Governor,,IND,Janel Hyeshia Buycks,4
 Lake,116,Governor,,IND,Joe Leicht,2
 Lake,116,Governor,,GRN,Luis J. Rodriguez,7
 Lake,116,Governor,,REP,Neel Kashkari,15
-Lake,116,Governor,,IND,Rakesh Kumar Christian,0
 Lake,116,Governor,,REP,Richard William Aguirre,1
 Lake,116,Governor,,IND,Robert Newman,3
 Lake,116,Governor,,REP,Tim Donnelly,53
@@ -375,6 +377,10 @@ Lake,116,Lieutenant Governor,,DEM,Gavin Newsom,158
 Lake,116,Lieutenant Governor,,REP,George Yang,16
 Lake,116,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Lake,116,Lieutenant Governor,,REP,Ron Nehring,40
+Lake,116,Proposition 41,,,No,90
+Lake,116,Proposition 41,,,Yes,193
+Lake,116,Proposition 42,,,No,128
+Lake,116,Proposition 42,,,Yes,147
 Lake,116,Secretary of State,,DEM,Alex Padilla,103
 Lake,116,Secretary of State,,IND,Dan Schnur,10
 Lake,116,Secretary of State,,GRN,David Curtis,17
@@ -416,32 +422,28 @@ Lake,117,Controller,,REP,David Evans,36
 Lake,117,Controller,,DEM,John A. Pérez,8
 Lake,117,Controller,,GRN,Laura Wells,7
 Lake,117,Controller,,DEM,Tammy D. Blair,6
-Lake,117,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,117,Governor,,DEM,Akinyemi Agbede,1
 Lake,117,Governor,,REP,Alma Marie Winston,4
 Lake,117,Governor,,REP,Andrew Blount,7
-Lake,117,Governor,,PAF,Cindy L. Sheehan,0
 Lake,117,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 Lake,117,Governor,,REP,Glenn Champ,4
-Lake,117,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,117,Governor,,IND,Joe Leicht,1
 Lake,117,Governor,,GRN,Luis J. Rodriguez,1
 Lake,117,Governor,,REP,Neel Kashkari,15
-Lake,117,Governor,,IND,Rakesh Kumar Christian,0
-Lake,117,Governor,,REP,Richard William Aguirre,0
 Lake,117,Governor,,IND,Robert Newman,4
 Lake,117,Governor,,REP,Tim Donnelly,13
 Lake,117,Insurance Commissioner,,DEM,Dave Jones,34
 Lake,117,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Lake,117,Insurance Commissioner,,REP,Ted Gaines,52
-Lake,117,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,117,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,117,Lieutenant Governor,,REP,David Fennell,12
-Lake,117,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,117,Lieutenant Governor,,DEM,Gavin Newsom,41
 Lake,117,Lieutenant Governor,,REP,George Yang,6
 Lake,117,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Lake,117,Lieutenant Governor,,REP,Ron Nehring,29
+Lake,117,Proposition 41,,,No,38
+Lake,117,Proposition 41,,,Yes,52
+Lake,117,Proposition 42,,,No,50
+Lake,117,Proposition 42,,,Yes,39
 Lake,117,Secretary of State,,DEM,Alex Padilla,21
 Lake,117,Secretary of State,,IND,Dan Schnur,3
 Lake,117,Secretary of State,,GRN,David Curtis,4
@@ -485,30 +487,28 @@ Lake,118,Controller,,GRN,Laura Wells,20
 Lake,118,Controller,,DEM,Tammy D. Blair,6
 Lake,118,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Lake,118,Governor,,DEM,Akinyemi Agbede,1
-Lake,118,Governor,,REP,Alma Marie Winston,0
 Lake,118,Governor,,REP,Andrew Blount,2
 Lake,118,Governor,,PAF,Cindy L. Sheehan,3
 Lake,118,Governor,,DEM,"Edmund G. ""Jerry"" Brown",64
 Lake,118,Governor,,REP,Glenn Champ,9
-Lake,118,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,118,Governor,,IND,Joe Leicht,0
 Lake,118,Governor,,GRN,Luis J. Rodriguez,6
 Lake,118,Governor,,REP,Neel Kashkari,6
-Lake,118,Governor,,IND,Rakesh Kumar Christian,0
-Lake,118,Governor,,REP,Richard William Aguirre,0
 Lake,118,Governor,,IND,Robert Newman,3
 Lake,118,Governor,,REP,Tim Donnelly,22
 Lake,118,Insurance Commissioner,,DEM,Dave Jones,46
 Lake,118,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Lake,118,Insurance Commissioner,,REP,Ted Gaines,50
 Lake,118,Lieutenant Governor,,AME,Alan Reynolds,4
-Lake,118,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,118,Lieutenant Governor,,REP,David Fennell,15
 Lake,118,Lieutenant Governor,,DEM,Eric Korevaar,6
 Lake,118,Lieutenant Governor,,DEM,Gavin Newsom,54
 Lake,118,Lieutenant Governor,,REP,George Yang,7
 Lake,118,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Lake,118,Lieutenant Governor,,REP,Ron Nehring,22
+Lake,118,Proposition 41,,,No,51
+Lake,118,Proposition 41,,,Yes,60
+Lake,118,Proposition 42,,,No,50
+Lake,118,Proposition 42,,,Yes,60
 Lake,118,Secretary of State,,DEM,Alex Padilla,24
 Lake,118,Secretary of State,,IND,Dan Schnur,3
 Lake,118,Secretary of State,,GRN,David Curtis,12
@@ -535,66 +535,44 @@ Lake,118,Treasurer,,DEM,John Chiang,45
 Lake,118,U.S. House,5,IND,Douglas S. Van Raam,16
 Lake,118,U.S. House,5,IND,James Hinton,12
 Lake,118,U.S. House,5,DEM,Mike Thompson,74
-Lake,119,Attorney General,,REP,David King,0
 Lake,119,Attorney General,,REP,John Haggerty,1
 Lake,119,Attorney General,,LIB,Jonathan Jaech,2
 Lake,119,Attorney General,,DEM,Kamala D. Harris,2
 Lake,119,Attorney General,,IND,Orly Taitz,1
-Lake,119,Attorney General,,REP,Phil Wyman,0
-Lake,119,Attorney General,,REP,Ronald Gold,0
 Lake,119,Board of Equalization,2,DEM,Fiona Ma,4
 Lake,119,Board of Equalization,2,REP,James E. Theis,2
 Lake,119,Controller,,REP,Ashley Swearengin,1
 Lake,119,Controller,,DEM,Betty T. Yee,2
 Lake,119,Controller,,REP,David Evans,1
-Lake,119,Controller,,DEM,John A. Pérez,0
 Lake,119,Controller,,GRN,Laura Wells,2
-Lake,119,Controller,,DEM,Tammy D. Blair,0
-Lake,119,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,119,Governor,,DEM,Akinyemi Agbede,0
-Lake,119,Governor,,REP,Alma Marie Winston,0
-Lake,119,Governor,,REP,Andrew Blount,0
-Lake,119,Governor,,PAF,Cindy L. Sheehan,0
 Lake,119,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
-Lake,119,Governor,,REP,Glenn Champ,0
 Lake,119,Governor,,IND,Janel Hyeshia Buycks,1
 Lake,119,Governor,,IND,Joe Leicht,1
-Lake,119,Governor,,GRN,Luis J. Rodriguez,0
 Lake,119,Governor,,REP,Neel Kashkari,1
 Lake,119,Governor,,IND,Rakesh Kumar Christian,1
-Lake,119,Governor,,REP,Richard William Aguirre,0
-Lake,119,Governor,,IND,Robert Newman,0
-Lake,119,Governor,,REP,Tim Donnelly,0
 Lake,119,Insurance Commissioner,,DEM,Dave Jones,2
 Lake,119,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Lake,119,Insurance Commissioner,,REP,Ted Gaines,1
 Lake,119,Lieutenant Governor,,AME,Alan Reynolds,1
-Lake,119,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,119,Lieutenant Governor,,REP,David Fennell,1
 Lake,119,Lieutenant Governor,,DEM,Eric Korevaar,2
-Lake,119,Lieutenant Governor,,DEM,Gavin Newsom,0
-Lake,119,Lieutenant Governor,,REP,George Yang,0
 Lake,119,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lake,119,Lieutenant Governor,,REP,Ron Nehring,1
+Lake,119,Proposition 41,,,No,2
+Lake,119,Proposition 41,,,Yes,4
+Lake,119,Proposition 42,,,Yes,4
 Lake,119,Secretary of State,,DEM,Alex Padilla,3
-Lake,119,Secretary of State,,IND,Dan Schnur,0
 Lake,119,Secretary of State,,GRN,David Curtis,1
-Lake,119,Secretary of State,,DEM,Derek Cressman,0
 Lake,119,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Lake,119,Secretary of State,,DEM,Leland Yee,0
 Lake,119,Secretary of State,,REP,Pete Peterson,1
-Lake,119,Secretary of State,,REP,Roy Allmond,0
-Lake,119,State Assembly,4,DEM,Bill Dodd,0
 Lake,119,State Assembly,4,REP,Charlie Schaupp,2
 Lake,119,State Assembly,4,DEM,Dan Wolk,3
-Lake,119,State Assembly,4,REP,Dustin Call,0
 Lake,119,State Assembly,4,DEM,Joe Krovoza,1
 Lake,119,State Senate,2,DEM,Derek Knell,2
 Lake,119,State Senate,2,IND,Harry V. Lehmann,1
 Lake,119,State Senate,2,REP,Lawrence R. Wiesner,1
 Lake,119,State Senate,2,DEM,Mike McGuire,2
 Lake,119,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
-Lake,119,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Lake,119,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
 Lake,119,Treasurer,,GRN,Ellen H. Brown,1
 Lake,119,Treasurer,,REP,Greg Conlon,3
@@ -617,19 +595,12 @@ Lake,120,Controller,,REP,David Evans,24
 Lake,120,Controller,,DEM,John A. Pérez,8
 Lake,120,Controller,,GRN,Laura Wells,4
 Lake,120,Controller,,DEM,Tammy D. Blair,2
-Lake,120,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,120,Governor,,DEM,Akinyemi Agbede,0
 Lake,120,Governor,,REP,Alma Marie Winston,1
 Lake,120,Governor,,REP,Andrew Blount,1
-Lake,120,Governor,,PAF,Cindy L. Sheehan,0
 Lake,120,Governor,,DEM,"Edmund G. ""Jerry"" Brown",33
 Lake,120,Governor,,REP,Glenn Champ,1
-Lake,120,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,120,Governor,,IND,Joe Leicht,0
 Lake,120,Governor,,GRN,Luis J. Rodriguez,2
 Lake,120,Governor,,REP,Neel Kashkari,8
-Lake,120,Governor,,IND,Rakesh Kumar Christian,0
-Lake,120,Governor,,REP,Richard William Aguirre,0
 Lake,120,Governor,,IND,Robert Newman,2
 Lake,120,Governor,,REP,Tim Donnelly,15
 Lake,120,Insurance Commissioner,,DEM,Dave Jones,26
@@ -643,10 +614,13 @@ Lake,120,Lieutenant Governor,,DEM,Gavin Newsom,30
 Lake,120,Lieutenant Governor,,REP,George Yang,1
 Lake,120,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lake,120,Lieutenant Governor,,REP,Ron Nehring,21
+Lake,120,Proposition 41,,,No,38
+Lake,120,Proposition 41,,,Yes,26
+Lake,120,Proposition 42,,,No,44
+Lake,120,Proposition 42,,,Yes,21
 Lake,120,Secretary of State,,DEM,Alex Padilla,15
 Lake,120,Secretary of State,,IND,Dan Schnur,3
 Lake,120,Secretary of State,,GRN,David Curtis,4
-Lake,120,Secretary of State,,DEM,Derek Cressman,0
 Lake,120,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Lake,120,Secretary of State,,DEM,Leland Yee,6
 Lake,120,Secretary of State,,REP,Pete Peterson,20
@@ -692,10 +666,8 @@ Lake,121,Governor,,PAF,Cindy L. Sheehan,2
 Lake,121,Governor,,DEM,"Edmund G. ""Jerry"" Brown",123
 Lake,121,Governor,,REP,Glenn Champ,10
 Lake,121,Governor,,IND,Janel Hyeshia Buycks,5
-Lake,121,Governor,,IND,Joe Leicht,0
 Lake,121,Governor,,GRN,Luis J. Rodriguez,6
 Lake,121,Governor,,REP,Neel Kashkari,30
-Lake,121,Governor,,IND,Rakesh Kumar Christian,0
 Lake,121,Governor,,REP,Richard William Aguirre,4
 Lake,121,Governor,,IND,Robert Newman,8
 Lake,121,Governor,,REP,Tim Donnelly,49
@@ -703,13 +675,16 @@ Lake,121,Insurance Commissioner,,DEM,Dave Jones,112
 Lake,121,Insurance Commissioner,,PAF,Nathalie Hrizi,24
 Lake,121,Insurance Commissioner,,REP,Ted Gaines,104
 Lake,121,Lieutenant Governor,,AME,Alan Reynolds,4
-Lake,121,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,121,Lieutenant Governor,,REP,David Fennell,37
 Lake,121,Lieutenant Governor,,DEM,Eric Korevaar,21
 Lake,121,Lieutenant Governor,,DEM,Gavin Newsom,111
 Lake,121,Lieutenant Governor,,REP,George Yang,14
 Lake,121,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Lake,121,Lieutenant Governor,,REP,Ron Nehring,55
+Lake,121,Proposition 41,,,No,91
+Lake,121,Proposition 41,,,Yes,163
+Lake,121,Proposition 42,,,No,107
+Lake,121,Proposition 42,,,Yes,137
 Lake,121,Secretary of State,,DEM,Alex Padilla,71
 Lake,121,Secretary of State,,IND,Dan Schnur,29
 Lake,121,Secretary of State,,GRN,David Curtis,11
@@ -759,7 +734,6 @@ Lake,122,Governor,,PAF,Cindy L. Sheehan,3
 Lake,122,Governor,,DEM,"Edmund G. ""Jerry"" Brown",129
 Lake,122,Governor,,REP,Glenn Champ,6
 Lake,122,Governor,,IND,Janel Hyeshia Buycks,3
-Lake,122,Governor,,IND,Joe Leicht,0
 Lake,122,Governor,,GRN,Luis J. Rodriguez,8
 Lake,122,Governor,,REP,Neel Kashkari,19
 Lake,122,Governor,,IND,Rakesh Kumar Christian,1
@@ -777,6 +751,10 @@ Lake,122,Lieutenant Governor,,DEM,Gavin Newsom,116
 Lake,122,Lieutenant Governor,,REP,George Yang,8
 Lake,122,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Lake,122,Lieutenant Governor,,REP,Ron Nehring,42
+Lake,122,Proposition 41,,,No,93
+Lake,122,Proposition 41,,,Yes,120
+Lake,122,Proposition 42,,,No,106
+Lake,122,Proposition 42,,,Yes,104
 Lake,122,Secretary of State,,DEM,Alex Padilla,74
 Lake,122,Secretary of State,,IND,Dan Schnur,21
 Lake,122,Secretary of State,,GRN,David Curtis,13
@@ -802,78 +780,43 @@ Lake,122,Treasurer,,REP,Greg Conlon,73
 Lake,122,Treasurer,,DEM,John Chiang,117
 Lake,122,U.S. House,3,REP,Dan Logue,81
 Lake,122,U.S. House,3,DEM,John Garamendi,124
-Lake,123,Attorney General,,REP,David King,0
-Lake,123,Attorney General,,REP,John Haggerty,0
-Lake,123,Attorney General,,LIB,Jonathan Jaech,0
 Lake,123,Attorney General,,DEM,Kamala D. Harris,6
-Lake,123,Attorney General,,IND,Orly Taitz,0
 Lake,123,Attorney General,,REP,Phil Wyman,5
-Lake,123,Attorney General,,REP,Ronald Gold,0
 Lake,123,Board of Equalization,2,DEM,Fiona Ma,6
 Lake,123,Board of Equalization,2,REP,James E. Theis,5
-Lake,123,Controller,,REP,Ashley Swearengin,0
 Lake,123,Controller,,DEM,Betty T. Yee,3
 Lake,123,Controller,,REP,David Evans,5
 Lake,123,Controller,,DEM,John A. Pérez,2
-Lake,123,Controller,,GRN,Laura Wells,0
 Lake,123,Controller,,DEM,Tammy D. Blair,1
-Lake,123,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,123,Governor,,DEM,Akinyemi Agbede,0
-Lake,123,Governor,,REP,Alma Marie Winston,0
-Lake,123,Governor,,REP,Andrew Blount,0
-Lake,123,Governor,,PAF,Cindy L. Sheehan,0
 Lake,123,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Lake,123,Governor,,REP,Glenn Champ,0
-Lake,123,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,123,Governor,,IND,Joe Leicht,0
-Lake,123,Governor,,GRN,Luis J. Rodriguez,0
-Lake,123,Governor,,REP,Neel Kashkari,0
-Lake,123,Governor,,IND,Rakesh Kumar Christian,0
-Lake,123,Governor,,REP,Richard William Aguirre,0
-Lake,123,Governor,,IND,Robert Newman,0
 Lake,123,Governor,,REP,Tim Donnelly,5
 Lake,123,Insurance Commissioner,,DEM,Dave Jones,6
-Lake,123,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lake,123,Insurance Commissioner,,REP,Ted Gaines,5
-Lake,123,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,123,Lieutenant Governor,,PAF,Amos Johnson,0
-Lake,123,Lieutenant Governor,,REP,David Fennell,0
-Lake,123,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,123,Lieutenant Governor,,DEM,Gavin Newsom,7
-Lake,123,Lieutenant Governor,,REP,George Yang,0
-Lake,123,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lake,123,Lieutenant Governor,,REP,Ron Nehring,5
+Lake,123,Proposition 41,,,No,8
+Lake,123,Proposition 41,,,Yes,4
+Lake,123,Proposition 42,,,No,1
+Lake,123,Proposition 42,,,Yes,11
 Lake,123,Secretary of State,,DEM,Alex Padilla,2
-Lake,123,Secretary of State,,IND,Dan Schnur,0
-Lake,123,Secretary of State,,GRN,David Curtis,0
 Lake,123,Secretary of State,,DEM,Derek Cressman,3
-Lake,123,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lake,123,Secretary of State,,DEM,Leland Yee,1
-Lake,123,Secretary of State,,REP,Pete Peterson,0
 Lake,123,Secretary of State,,REP,Roy Allmond,5
-Lake,123,State Assembly,4,DEM,Bill Dodd,0
 Lake,123,State Assembly,4,REP,Charlie Schaupp,5
 Lake,123,State Assembly,4,DEM,Dan Wolk,1
-Lake,123,State Assembly,4,REP,Dustin Call,0
 Lake,123,State Assembly,4,DEM,Joe Krovoza,6
 Lake,123,State Senate,2,DEM,Derek Knell,1
-Lake,123,State Senate,2,IND,Harry V. Lehmann,0
 Lake,123,State Senate,2,REP,Lawrence R. Wiesner,5
 Lake,123,State Senate,2,DEM,Mike McGuire,5
 Lake,123,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,6
-Lake,123,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Lake,123,Superintendent of Public Instruction,,NOP,Tom Torlakson,4
-Lake,123,Treasurer,,GRN,Ellen H. Brown,0
 Lake,123,Treasurer,,REP,Greg Conlon,6
 Lake,123,Treasurer,,DEM,John Chiang,5
-Lake,123,U.S. House,5,IND,Douglas S. Van Raam,0
-Lake,123,U.S. House,5,IND,James Hinton,0
 Lake,123,U.S. House,5,DEM,Mike Thompson,7
 Lake,124,Attorney General,,REP,David King,1
 Lake,124,Attorney General,,REP,John Haggerty,6
 Lake,124,Attorney General,,LIB,Jonathan Jaech,4
 Lake,124,Attorney General,,DEM,Kamala D. Harris,25
-Lake,124,Attorney General,,IND,Orly Taitz,0
 Lake,124,Attorney General,,REP,Phil Wyman,4
 Lake,124,Attorney General,,REP,Ronald Gold,13
 Lake,124,Board of Equalization,2,DEM,Fiona Ma,29
@@ -888,28 +831,27 @@ Lake,124,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Lake,124,Governor,,DEM,Akinyemi Agbede,1
 Lake,124,Governor,,REP,Alma Marie Winston,3
 Lake,124,Governor,,REP,Andrew Blount,1
-Lake,124,Governor,,PAF,Cindy L. Sheehan,0
 Lake,124,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Lake,124,Governor,,REP,Glenn Champ,2
-Lake,124,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,124,Governor,,IND,Joe Leicht,2
 Lake,124,Governor,,GRN,Luis J. Rodriguez,2
 Lake,124,Governor,,REP,Neel Kashkari,6
-Lake,124,Governor,,IND,Rakesh Kumar Christian,0
-Lake,124,Governor,,REP,Richard William Aguirre,0
 Lake,124,Governor,,IND,Robert Newman,1
 Lake,124,Governor,,REP,Tim Donnelly,9
 Lake,124,Insurance Commissioner,,DEM,Dave Jones,24
 Lake,124,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Lake,124,Insurance Commissioner,,REP,Ted Gaines,24
 Lake,124,Lieutenant Governor,,AME,Alan Reynolds,1
-Lake,124,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,124,Lieutenant Governor,,REP,David Fennell,4
 Lake,124,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lake,124,Lieutenant Governor,,DEM,Gavin Newsom,28
 Lake,124,Lieutenant Governor,,REP,George Yang,4
 Lake,124,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lake,124,Lieutenant Governor,,REP,Ron Nehring,9
+Lake,124,Proposition 41,,,No,18
+Lake,124,Proposition 41,,,Yes,34
+Lake,124,Proposition 42,,,No,26
+Lake,124,Proposition 42,,,Yes,25
 Lake,124,Secretary of State,,DEM,Alex Padilla,12
 Lake,124,Secretary of State,,IND,Dan Schnur,5
 Lake,124,Secretary of State,,GRN,David Curtis,3
@@ -935,11 +877,9 @@ Lake,124,Treasurer,,REP,Greg Conlon,20
 Lake,124,Treasurer,,DEM,John Chiang,26
 Lake,124,U.S. House,3,REP,Dan Logue,25
 Lake,124,U.S. House,3,DEM,John Garamendi,28
-Lake,131,Attorney General,,REP,David King,0
 Lake,131,Attorney General,,REP,John Haggerty,1
 Lake,131,Attorney General,,LIB,Jonathan Jaech,2
 Lake,131,Attorney General,,DEM,Kamala D. Harris,22
-Lake,131,Attorney General,,IND,Orly Taitz,0
 Lake,131,Attorney General,,REP,Phil Wyman,4
 Lake,131,Attorney General,,REP,Ronald Gold,3
 Lake,131,Board of Equalization,2,DEM,Fiona Ma,22
@@ -950,35 +890,23 @@ Lake,131,Controller,,REP,David Evans,4
 Lake,131,Controller,,DEM,John A. Pérez,6
 Lake,131,Controller,,GRN,Laura Wells,1
 Lake,131,Controller,,DEM,Tammy D. Blair,4
-Lake,131,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,131,Governor,,DEM,Akinyemi Agbede,0
-Lake,131,Governor,,REP,Alma Marie Winston,0
 Lake,131,Governor,,REP,Andrew Blount,2
-Lake,131,Governor,,PAF,Cindy L. Sheehan,0
 Lake,131,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Lake,131,Governor,,REP,Glenn Champ,1
-Lake,131,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,131,Governor,,IND,Joe Leicht,0
-Lake,131,Governor,,GRN,Luis J. Rodriguez,0
 Lake,131,Governor,,REP,Neel Kashkari,2
-Lake,131,Governor,,IND,Rakesh Kumar Christian,0
-Lake,131,Governor,,REP,Richard William Aguirre,0
 Lake,131,Governor,,IND,Robert Newman,2
 Lake,131,Governor,,REP,Tim Donnelly,1
 Lake,131,Insurance Commissioner,,DEM,Dave Jones,24
-Lake,131,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lake,131,Insurance Commissioner,,REP,Ted Gaines,7
-Lake,131,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,131,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,131,Lieutenant Governor,,REP,David Fennell,2
-Lake,131,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,131,Lieutenant Governor,,DEM,Gavin Newsom,22
-Lake,131,Lieutenant Governor,,REP,George Yang,0
-Lake,131,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lake,131,Lieutenant Governor,,REP,Ron Nehring,8
+Lake,131,Proposition 41,,,No,12
+Lake,131,Proposition 41,,,Yes,19
+Lake,131,Proposition 42,,,No,13
+Lake,131,Proposition 42,,,Yes,15
 Lake,131,Secretary of State,,DEM,Alex Padilla,13
 Lake,131,Secretary of State,,IND,Dan Schnur,2
-Lake,131,Secretary of State,,GRN,David Curtis,0
 Lake,131,Secretary of State,,DEM,Derek Cressman,2
 Lake,131,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Lake,131,Secretary of State,,DEM,Leland Yee,2
@@ -989,8 +917,6 @@ Lake,131,State Assembly,4,REP,Charlie Schaupp,6
 Lake,131,State Assembly,4,DEM,Dan Wolk,5
 Lake,131,State Assembly,4,REP,Dustin Call,2
 Lake,131,State Assembly,4,DEM,Joe Krovoza,11
-Lake,131,State Senate,2,DEM,Derek Knell,0
-Lake,131,State Senate,2,IND,Harry V. Lehmann,0
 Lake,131,State Senate,2,REP,Lawrence R. Wiesner,7
 Lake,131,State Senate,2,DEM,Mike McGuire,24
 Lake,131,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,2
@@ -1002,72 +928,6 @@ Lake,131,Treasurer,,DEM,John Chiang,21
 Lake,131,U.S. House,5,IND,Douglas S. Van Raam,1
 Lake,131,U.S. House,5,IND,James Hinton,2
 Lake,131,U.S. House,5,DEM,Mike Thompson,25
-Lake,132,Attorney General,,REP,David King,0
-Lake,132,Attorney General,,REP,John Haggerty,0
-Lake,132,Attorney General,,LIB,Jonathan Jaech,0
-Lake,132,Attorney General,,DEM,Kamala D. Harris,0
-Lake,132,Attorney General,,IND,Orly Taitz,0
-Lake,132,Attorney General,,REP,Phil Wyman,0
-Lake,132,Attorney General,,REP,Ronald Gold,0
-Lake,132,Board of Equalization,2,DEM,Fiona Ma,0
-Lake,132,Board of Equalization,2,REP,James E. Theis,0
-Lake,132,Controller,,REP,Ashley Swearengin,0
-Lake,132,Controller,,DEM,Betty T. Yee,0
-Lake,132,Controller,,REP,David Evans,0
-Lake,132,Controller,,DEM,John A. Pérez,0
-Lake,132,Controller,,GRN,Laura Wells,0
-Lake,132,Controller,,DEM,Tammy D. Blair,0
-Lake,132,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,132,Governor,,DEM,Akinyemi Agbede,0
-Lake,132,Governor,,REP,Alma Marie Winston,0
-Lake,132,Governor,,REP,Andrew Blount,0
-Lake,132,Governor,,PAF,Cindy L. Sheehan,0
-Lake,132,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Lake,132,Governor,,REP,Glenn Champ,0
-Lake,132,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,132,Governor,,IND,Joe Leicht,0
-Lake,132,Governor,,GRN,Luis J. Rodriguez,0
-Lake,132,Governor,,REP,Neel Kashkari,0
-Lake,132,Governor,,IND,Rakesh Kumar Christian,0
-Lake,132,Governor,,REP,Richard William Aguirre,0
-Lake,132,Governor,,IND,Robert Newman,0
-Lake,132,Governor,,REP,Tim Donnelly,0
-Lake,132,Insurance Commissioner,,DEM,Dave Jones,0
-Lake,132,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Lake,132,Insurance Commissioner,,REP,Ted Gaines,0
-Lake,132,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,132,Lieutenant Governor,,PAF,Amos Johnson,0
-Lake,132,Lieutenant Governor,,REP,David Fennell,0
-Lake,132,Lieutenant Governor,,DEM,Eric Korevaar,0
-Lake,132,Lieutenant Governor,,DEM,Gavin Newsom,0
-Lake,132,Lieutenant Governor,,REP,George Yang,0
-Lake,132,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lake,132,Lieutenant Governor,,REP,Ron Nehring,0
-Lake,132,Secretary of State,,DEM,Alex Padilla,0
-Lake,132,Secretary of State,,IND,Dan Schnur,0
-Lake,132,Secretary of State,,GRN,David Curtis,0
-Lake,132,Secretary of State,,DEM,Derek Cressman,0
-Lake,132,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lake,132,Secretary of State,,DEM,Leland Yee,0
-Lake,132,Secretary of State,,REP,Pete Peterson,0
-Lake,132,Secretary of State,,REP,Roy Allmond,0
-Lake,132,State Assembly,4,DEM,Bill Dodd,0
-Lake,132,State Assembly,4,REP,Charlie Schaupp,0
-Lake,132,State Assembly,4,DEM,Dan Wolk,0
-Lake,132,State Assembly,4,REP,Dustin Call,0
-Lake,132,State Assembly,4,DEM,Joe Krovoza,0
-Lake,132,State Senate,2,DEM,Derek Knell,0
-Lake,132,State Senate,2,IND,Harry V. Lehmann,0
-Lake,132,State Senate,2,REP,Lawrence R. Wiesner,0
-Lake,132,State Senate,2,DEM,Mike McGuire,0
-Lake,132,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Lake,132,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Lake,132,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Lake,132,Treasurer,,GRN,Ellen H. Brown,0
-Lake,132,Treasurer,,REP,Greg Conlon,0
-Lake,132,Treasurer,,DEM,John Chiang,0
-Lake,132,U.S. House,3,REP,Dan Logue,0
-Lake,132,U.S. House,3,DEM,John Garamendi,0
 Lake,141,Attorney General,,REP,David King,1
 Lake,141,Attorney General,,REP,John Haggerty,13
 Lake,141,Attorney General,,LIB,Jonathan Jaech,5
@@ -1094,8 +954,6 @@ Lake,141,Governor,,IND,Janel Hyeshia Buycks,2
 Lake,141,Governor,,IND,Joe Leicht,1
 Lake,141,Governor,,GRN,Luis J. Rodriguez,6
 Lake,141,Governor,,REP,Neel Kashkari,8
-Lake,141,Governor,,IND,Rakesh Kumar Christian,0
-Lake,141,Governor,,REP,Richard William Aguirre,0
 Lake,141,Governor,,IND,Robert Newman,3
 Lake,141,Governor,,REP,Tim Donnelly,18
 Lake,141,Insurance Commissioner,,DEM,Dave Jones,123
@@ -1109,6 +967,10 @@ Lake,141,Lieutenant Governor,,DEM,Gavin Newsom,125
 Lake,141,Lieutenant Governor,,REP,George Yang,4
 Lake,141,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lake,141,Lieutenant Governor,,REP,Ron Nehring,19
+Lake,141,Proposition 41,,,No,40
+Lake,141,Proposition 41,,,Yes,142
+Lake,141,Proposition 42,,,No,71
+Lake,141,Proposition 42,,,Yes,105
 Lake,141,Secretary of State,,DEM,Alex Padilla,74
 Lake,141,Secretary of State,,IND,Dan Schnur,7
 Lake,141,Secretary of State,,GRN,David Curtis,8
@@ -1149,18 +1011,14 @@ Lake,142,Controller,,REP,David Evans,41
 Lake,142,Controller,,DEM,John A. Pérez,42
 Lake,142,Controller,,GRN,Laura Wells,17
 Lake,142,Controller,,DEM,Tammy D. Blair,12
-Lake,142,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,142,Governor,,DEM,Akinyemi Agbede,6
 Lake,142,Governor,,REP,Alma Marie Winston,5
 Lake,142,Governor,,REP,Andrew Blount,8
-Lake,142,Governor,,PAF,Cindy L. Sheehan,0
 Lake,142,Governor,,DEM,"Edmund G. ""Jerry"" Brown",90
 Lake,142,Governor,,REP,Glenn Champ,5
 Lake,142,Governor,,IND,Janel Hyeshia Buycks,3
-Lake,142,Governor,,IND,Joe Leicht,0
 Lake,142,Governor,,GRN,Luis J. Rodriguez,6
 Lake,142,Governor,,REP,Neel Kashkari,13
-Lake,142,Governor,,IND,Rakesh Kumar Christian,0
 Lake,142,Governor,,REP,Richard William Aguirre,1
 Lake,142,Governor,,IND,Robert Newman,4
 Lake,142,Governor,,REP,Tim Donnelly,21
@@ -1175,6 +1033,10 @@ Lake,142,Lieutenant Governor,,DEM,Gavin Newsom,78
 Lake,142,Lieutenant Governor,,REP,George Yang,11
 Lake,142,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Lake,142,Lieutenant Governor,,REP,Ron Nehring,22
+Lake,142,Proposition 41,,,No,53
+Lake,142,Proposition 41,,,Yes,104
+Lake,142,Proposition 42,,,No,69
+Lake,142,Proposition 42,,,Yes,72
 Lake,142,Secretary of State,,DEM,Alex Padilla,56
 Lake,142,Secretary of State,,IND,Dan Schnur,9
 Lake,142,Secretary of State,,GRN,David Curtis,6
@@ -1241,6 +1103,10 @@ Lake,211,Lieutenant Governor,,DEM,Gavin Newsom,177
 Lake,211,Lieutenant Governor,,REP,George Yang,9
 Lake,211,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Lake,211,Lieutenant Governor,,REP,Ron Nehring,50
+Lake,211,Proposition 41,,,No,82
+Lake,211,Proposition 41,,,Yes,246
+Lake,211,Proposition 42,,,No,144
+Lake,211,Proposition 42,,,Yes,165
 Lake,211,Secretary of State,,DEM,Alex Padilla,97
 Lake,211,Secretary of State,,IND,Dan Schnur,25
 Lake,211,Secretary of State,,GRN,David Curtis,20
@@ -1307,6 +1173,10 @@ Lake,212,Lieutenant Governor,,DEM,Gavin Newsom,144
 Lake,212,Lieutenant Governor,,REP,George Yang,14
 Lake,212,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Lake,212,Lieutenant Governor,,REP,Ron Nehring,32
+Lake,212,Proposition 41,,,No,82
+Lake,212,Proposition 41,,,Yes,201
+Lake,212,Proposition 42,,,No,111
+Lake,212,Proposition 42,,,Yes,165
 Lake,212,Secretary of State,,DEM,Alex Padilla,94
 Lake,212,Secretary of State,,IND,Dan Schnur,19
 Lake,212,Secretary of State,,GRN,David Curtis,25
@@ -1373,6 +1243,10 @@ Lake,213,Lieutenant Governor,,DEM,Gavin Newsom,180
 Lake,213,Lieutenant Governor,,REP,George Yang,12
 Lake,213,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Lake,213,Lieutenant Governor,,REP,Ron Nehring,55
+Lake,213,Proposition 41,,,No,111
+Lake,213,Proposition 41,,,Yes,196
+Lake,213,Proposition 42,,,No,139
+Lake,213,Proposition 42,,,Yes,163
 Lake,213,Secretary of State,,DEM,Alex Padilla,101
 Lake,213,Secretary of State,,IND,Dan Schnur,16
 Lake,213,Secretary of State,,GRN,David Curtis,23
@@ -1424,7 +1298,6 @@ Lake,214,Governor,,IND,Janel Hyeshia Buycks,1
 Lake,214,Governor,,IND,Joe Leicht,1
 Lake,214,Governor,,GRN,Luis J. Rodriguez,5
 Lake,214,Governor,,REP,Neel Kashkari,23
-Lake,214,Governor,,IND,Rakesh Kumar Christian,0
 Lake,214,Governor,,REP,Richard William Aguirre,1
 Lake,214,Governor,,IND,Robert Newman,12
 Lake,214,Governor,,REP,Tim Donnelly,30
@@ -1439,6 +1312,10 @@ Lake,214,Lieutenant Governor,,DEM,Gavin Newsom,150
 Lake,214,Lieutenant Governor,,REP,George Yang,12
 Lake,214,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Lake,214,Lieutenant Governor,,REP,Ron Nehring,40
+Lake,214,Proposition 41,,,No,83
+Lake,214,Proposition 41,,,Yes,189
+Lake,214,Proposition 42,,,No,98
+Lake,214,Proposition 42,,,Yes,164
 Lake,214,Secretary of State,,DEM,Alex Padilla,87
 Lake,214,Secretary of State,,IND,Dan Schnur,12
 Lake,214,Secretary of State,,GRN,David Curtis,27
@@ -1487,10 +1364,8 @@ Lake,215,Governor,,PAF,Cindy L. Sheehan,5
 Lake,215,Governor,,DEM,"Edmund G. ""Jerry"" Brown",147
 Lake,215,Governor,,REP,Glenn Champ,4
 Lake,215,Governor,,IND,Janel Hyeshia Buycks,3
-Lake,215,Governor,,IND,Joe Leicht,0
 Lake,215,Governor,,GRN,Luis J. Rodriguez,9
 Lake,215,Governor,,REP,Neel Kashkari,14
-Lake,215,Governor,,IND,Rakesh Kumar Christian,0
 Lake,215,Governor,,REP,Richard William Aguirre,2
 Lake,215,Governor,,IND,Robert Newman,4
 Lake,215,Governor,,REP,Tim Donnelly,32
@@ -1505,6 +1380,10 @@ Lake,215,Lieutenant Governor,,DEM,Gavin Newsom,129
 Lake,215,Lieutenant Governor,,REP,George Yang,6
 Lake,215,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Lake,215,Lieutenant Governor,,REP,Ron Nehring,31
+Lake,215,Proposition 41,,,No,68
+Lake,215,Proposition 41,,,Yes,166
+Lake,215,Proposition 42,,,No,117
+Lake,215,Proposition 42,,,Yes,101
 Lake,215,Secretary of State,,DEM,Alex Padilla,77
 Lake,215,Secretary of State,,IND,Dan Schnur,11
 Lake,215,Secretary of State,,GRN,David Curtis,22
@@ -1571,6 +1450,10 @@ Lake,216,Lieutenant Governor,,DEM,Gavin Newsom,143
 Lake,216,Lieutenant Governor,,REP,George Yang,10
 Lake,216,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Lake,216,Lieutenant Governor,,REP,Ron Nehring,36
+Lake,216,Proposition 41,,,No,63
+Lake,216,Proposition 41,,,Yes,191
+Lake,216,Proposition 42,,,No,102
+Lake,216,Proposition 42,,,Yes,134
 Lake,216,Secretary of State,,DEM,Alex Padilla,77
 Lake,216,Secretary of State,,IND,Dan Schnur,16
 Lake,216,Secretary of State,,GRN,David Curtis,19
@@ -1637,6 +1520,10 @@ Lake,217,Lieutenant Governor,,DEM,Gavin Newsom,143
 Lake,217,Lieutenant Governor,,REP,George Yang,17
 Lake,217,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Lake,217,Lieutenant Governor,,REP,Ron Nehring,31
+Lake,217,Proposition 41,,,No,58
+Lake,217,Proposition 41,,,Yes,214
+Lake,217,Proposition 42,,,No,102
+Lake,217,Proposition 42,,,Yes,154
 Lake,217,Secretary of State,,DEM,Alex Padilla,82
 Lake,217,Secretary of State,,IND,Dan Schnur,16
 Lake,217,Secretary of State,,GRN,David Curtis,21
@@ -1662,67 +1549,35 @@ Lake,217,Treasurer,,REP,Greg Conlon,72
 Lake,217,Treasurer,,DEM,John Chiang,155
 Lake,217,U.S. House,3,REP,Dan Logue,76
 Lake,217,U.S. House,3,DEM,John Garamendi,175
-Lake,222,Attorney General,,REP,David King,0
 Lake,222,Attorney General,,REP,John Haggerty,1
 Lake,222,Attorney General,,LIB,Jonathan Jaech,1
 Lake,222,Attorney General,,DEM,Kamala D. Harris,2
-Lake,222,Attorney General,,IND,Orly Taitz,0
-Lake,222,Attorney General,,REP,Phil Wyman,0
-Lake,222,Attorney General,,REP,Ronald Gold,0
 Lake,222,Board of Equalization,2,DEM,Fiona Ma,2
 Lake,222,Board of Equalization,2,REP,James E. Theis,2
 Lake,222,Controller,,REP,Ashley Swearengin,1
 Lake,222,Controller,,DEM,Betty T. Yee,2
 Lake,222,Controller,,REP,David Evans,1
-Lake,222,Controller,,DEM,John A. Pérez,0
-Lake,222,Controller,,GRN,Laura Wells,0
-Lake,222,Controller,,DEM,Tammy D. Blair,0
-Lake,222,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,222,Governor,,DEM,Akinyemi Agbede,0
-Lake,222,Governor,,REP,Alma Marie Winston,0
-Lake,222,Governor,,REP,Andrew Blount,0
-Lake,222,Governor,,PAF,Cindy L. Sheehan,0
 Lake,222,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
-Lake,222,Governor,,REP,Glenn Champ,0
-Lake,222,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,222,Governor,,IND,Joe Leicht,0
-Lake,222,Governor,,GRN,Luis J. Rodriguez,0
 Lake,222,Governor,,REP,Neel Kashkari,2
-Lake,222,Governor,,IND,Rakesh Kumar Christian,0
-Lake,222,Governor,,REP,Richard William Aguirre,0
-Lake,222,Governor,,IND,Robert Newman,0
 Lake,222,Governor,,REP,Tim Donnelly,2
 Lake,222,Insurance Commissioner,,DEM,Dave Jones,2
-Lake,222,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lake,222,Insurance Commissioner,,REP,Ted Gaines,2
-Lake,222,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,222,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,222,Lieutenant Governor,,REP,David Fennell,2
-Lake,222,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,222,Lieutenant Governor,,DEM,Gavin Newsom,3
-Lake,222,Lieutenant Governor,,REP,George Yang,0
-Lake,222,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lake,222,Lieutenant Governor,,REP,Ron Nehring,0
+Lake,222,Proposition 41,,,Yes,4
+Lake,222,Proposition 42,,,No,1
+Lake,222,Proposition 42,,,Yes,1
 Lake,222,Secretary of State,,DEM,Alex Padilla,1
 Lake,222,Secretary of State,,IND,Dan Schnur,1
-Lake,222,Secretary of State,,GRN,David Curtis,0
-Lake,222,Secretary of State,,DEM,Derek Cressman,0
-Lake,222,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lake,222,Secretary of State,,DEM,Leland Yee,0
-Lake,222,Secretary of State,,REP,Pete Peterson,0
-Lake,222,Secretary of State,,REP,Roy Allmond,0
 Lake,222,State Assembly,4,DEM,Bill Dodd,1
 Lake,222,State Assembly,4,REP,Charlie Schaupp,1
-Lake,222,State Assembly,4,DEM,Dan Wolk,0
 Lake,222,State Assembly,4,REP,Dustin Call,1
 Lake,222,State Assembly,4,DEM,Joe Krovoza,1
 Lake,222,State Senate,2,DEM,Derek Knell,1
-Lake,222,State Senate,2,IND,Harry V. Lehmann,0
 Lake,222,State Senate,2,REP,Lawrence R. Wiesner,2
 Lake,222,State Senate,2,DEM,Mike McGuire,1
 Lake,222,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Lake,222,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
-Lake,222,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
 Lake,222,Treasurer,,GRN,Ellen H. Brown,1
 Lake,222,Treasurer,,REP,Greg Conlon,2
 Lake,222,Treasurer,,DEM,John Chiang,1
@@ -1769,6 +1624,10 @@ Lake,311,Lieutenant Governor,,DEM,Gavin Newsom,172
 Lake,311,Lieutenant Governor,,REP,George Yang,14
 Lake,311,Lieutenant Governor,,GRN,Jena F. Goodman,26
 Lake,311,Lieutenant Governor,,REP,Ron Nehring,63
+Lake,311,Proposition 41,,,No,109
+Lake,311,Proposition 41,,,Yes,248
+Lake,311,Proposition 42,,,No,158
+Lake,311,Proposition 42,,,Yes,181
 Lake,311,Secretary of State,,DEM,Alex Padilla,103
 Lake,311,Secretary of State,,IND,Dan Schnur,27
 Lake,311,Secretary of State,,GRN,David Curtis,32
@@ -1820,7 +1679,6 @@ Lake,312,Governor,,IND,Janel Hyeshia Buycks,5
 Lake,312,Governor,,IND,Joe Leicht,2
 Lake,312,Governor,,GRN,Luis J. Rodriguez,10
 Lake,312,Governor,,REP,Neel Kashkari,40
-Lake,312,Governor,,IND,Rakesh Kumar Christian,0
 Lake,312,Governor,,REP,Richard William Aguirre,3
 Lake,312,Governor,,IND,Robert Newman,7
 Lake,312,Governor,,REP,Tim Donnelly,56
@@ -1835,6 +1693,10 @@ Lake,312,Lieutenant Governor,,DEM,Gavin Newsom,145
 Lake,312,Lieutenant Governor,,REP,George Yang,15
 Lake,312,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Lake,312,Lieutenant Governor,,REP,Ron Nehring,68
+Lake,312,Proposition 41,,,No,120
+Lake,312,Proposition 41,,,Yes,216
+Lake,312,Proposition 42,,,No,143
+Lake,312,Proposition 42,,,Yes,178
 Lake,312,Secretary of State,,DEM,Alex Padilla,92
 Lake,312,Secretary of State,,IND,Dan Schnur,8
 Lake,312,Secretary of State,,GRN,David Curtis,26
@@ -1901,6 +1763,10 @@ Lake,341,Lieutenant Governor,,DEM,Gavin Newsom,156
 Lake,341,Lieutenant Governor,,REP,George Yang,7
 Lake,341,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Lake,341,Lieutenant Governor,,REP,Ron Nehring,42
+Lake,341,Proposition 41,,,No,79
+Lake,341,Proposition 41,,,Yes,211
+Lake,341,Proposition 42,,,No,126
+Lake,341,Proposition 42,,,Yes,154
 Lake,341,Secretary of State,,DEM,Alex Padilla,94
 Lake,341,Secretary of State,,IND,Dan Schnur,9
 Lake,341,Secretary of State,,GRN,David Curtis,28
@@ -1949,7 +1815,6 @@ Lake,342,Governor,,PAF,Cindy L. Sheehan,8
 Lake,342,Governor,,DEM,"Edmund G. ""Jerry"" Brown",143
 Lake,342,Governor,,REP,Glenn Champ,9
 Lake,342,Governor,,IND,Janel Hyeshia Buycks,2
-Lake,342,Governor,,IND,Joe Leicht,0
 Lake,342,Governor,,GRN,Luis J. Rodriguez,5
 Lake,342,Governor,,REP,Neel Kashkari,19
 Lake,342,Governor,,IND,Rakesh Kumar Christian,3
@@ -1967,6 +1832,10 @@ Lake,342,Lieutenant Governor,,DEM,Gavin Newsom,121
 Lake,342,Lieutenant Governor,,REP,George Yang,6
 Lake,342,Lieutenant Governor,,GRN,Jena F. Goodman,25
 Lake,342,Lieutenant Governor,,REP,Ron Nehring,41
+Lake,342,Proposition 41,,,No,91
+Lake,342,Proposition 41,,,Yes,156
+Lake,342,Proposition 42,,,No,106
+Lake,342,Proposition 42,,,Yes,128
 Lake,342,Secretary of State,,DEM,Alex Padilla,68
 Lake,342,Secretary of State,,IND,Dan Schnur,13
 Lake,342,Secretary of State,,GRN,David Curtis,24
@@ -1993,61 +1862,32 @@ Lake,342,Treasurer,,DEM,John Chiang,107
 Lake,342,U.S. House,3,REP,Dan Logue,94
 Lake,342,U.S. House,3,DEM,John Garamendi,135
 Lake,343,Attorney General,,REP,David King,1
-Lake,343,Attorney General,,REP,John Haggerty,0
-Lake,343,Attorney General,,LIB,Jonathan Jaech,0
 Lake,343,Attorney General,,DEM,Kamala D. Harris,6
-Lake,343,Attorney General,,IND,Orly Taitz,0
 Lake,343,Attorney General,,REP,Phil Wyman,2
 Lake,343,Attorney General,,REP,Ronald Gold,1
 Lake,343,Board of Equalization,2,DEM,Fiona Ma,6
 Lake,343,Board of Equalization,2,REP,James E. Theis,4
-Lake,343,Controller,,REP,Ashley Swearengin,0
-Lake,343,Controller,,DEM,Betty T. Yee,0
 Lake,343,Controller,,REP,David Evans,4
 Lake,343,Controller,,DEM,John A. Pérez,4
 Lake,343,Controller,,GRN,Laura Wells,2
-Lake,343,Controller,,DEM,Tammy D. Blair,0
-Lake,343,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,343,Governor,,DEM,Akinyemi Agbede,0
-Lake,343,Governor,,REP,Alma Marie Winston,0
-Lake,343,Governor,,REP,Andrew Blount,0
-Lake,343,Governor,,PAF,Cindy L. Sheehan,0
 Lake,343,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Lake,343,Governor,,REP,Glenn Champ,0
-Lake,343,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,343,Governor,,IND,Joe Leicht,0
-Lake,343,Governor,,GRN,Luis J. Rodriguez,0
-Lake,343,Governor,,REP,Neel Kashkari,0
-Lake,343,Governor,,IND,Rakesh Kumar Christian,0
 Lake,343,Governor,,REP,Richard William Aguirre,1
-Lake,343,Governor,,IND,Robert Newman,0
 Lake,343,Governor,,REP,Tim Donnelly,2
 Lake,343,Insurance Commissioner,,DEM,Dave Jones,6
-Lake,343,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lake,343,Insurance Commissioner,,REP,Ted Gaines,4
 Lake,343,Lieutenant Governor,,AME,Alan Reynolds,1
-Lake,343,Lieutenant Governor,,PAF,Amos Johnson,0
-Lake,343,Lieutenant Governor,,REP,David Fennell,0
-Lake,343,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,343,Lieutenant Governor,,DEM,Gavin Newsom,7
 Lake,343,Lieutenant Governor,,REP,George Yang,2
-Lake,343,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lake,343,Lieutenant Governor,,REP,Ron Nehring,0
+Lake,343,Proposition 41,,,No,1
+Lake,343,Proposition 41,,,Yes,9
+Lake,343,Proposition 42,,,No,6
+Lake,343,Proposition 42,,,Yes,4
 Lake,343,Secretary of State,,DEM,Alex Padilla,4
-Lake,343,Secretary of State,,IND,Dan Schnur,0
-Lake,343,Secretary of State,,GRN,David Curtis,0
 Lake,343,Secretary of State,,DEM,Derek Cressman,2
-Lake,343,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lake,343,Secretary of State,,DEM,Leland Yee,0
-Lake,343,Secretary of State,,REP,Pete Peterson,0
 Lake,343,Secretary of State,,REP,Roy Allmond,4
-Lake,343,State Assembly,4,DEM,Bill Dodd,0
 Lake,343,State Assembly,4,REP,Charlie Schaupp,4
 Lake,343,State Assembly,4,DEM,Dan Wolk,4
-Lake,343,State Assembly,4,REP,Dustin Call,0
 Lake,343,State Assembly,4,DEM,Joe Krovoza,2
-Lake,343,State Senate,2,DEM,Derek Knell,0
-Lake,343,State Senate,2,IND,Harry V. Lehmann,0
 Lake,343,State Senate,2,REP,Lawrence R. Wiesner,4
 Lake,343,State Senate,2,DEM,Mike McGuire,6
 Lake,343,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
@@ -2073,9 +1913,7 @@ Lake,351,Controller,,REP,David Evans,38
 Lake,351,Controller,,DEM,John A. Pérez,74
 Lake,351,Controller,,GRN,Laura Wells,23
 Lake,351,Controller,,DEM,Tammy D. Blair,24
-Lake,351,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,351,Governor,,DEM,Akinyemi Agbede,2
-Lake,351,Governor,,REP,Alma Marie Winston,0
 Lake,351,Governor,,REP,Andrew Blount,3
 Lake,351,Governor,,PAF,Cindy L. Sheehan,7
 Lake,351,Governor,,DEM,"Edmund G. ""Jerry"" Brown",148
@@ -2084,7 +1922,6 @@ Lake,351,Governor,,IND,Janel Hyeshia Buycks,3
 Lake,351,Governor,,IND,Joe Leicht,1
 Lake,351,Governor,,GRN,Luis J. Rodriguez,6
 Lake,351,Governor,,REP,Neel Kashkari,27
-Lake,351,Governor,,IND,Rakesh Kumar Christian,0
 Lake,351,Governor,,REP,Richard William Aguirre,2
 Lake,351,Governor,,IND,Robert Newman,4
 Lake,351,Governor,,REP,Tim Donnelly,31
@@ -2099,6 +1936,10 @@ Lake,351,Lieutenant Governor,,DEM,Gavin Newsom,135
 Lake,351,Lieutenant Governor,,REP,George Yang,13
 Lake,351,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Lake,351,Lieutenant Governor,,REP,Ron Nehring,24
+Lake,351,Proposition 41,,,No,71
+Lake,351,Proposition 41,,,Yes,167
+Lake,351,Proposition 42,,,No,94
+Lake,351,Proposition 42,,,Yes,136
 Lake,351,Secretary of State,,DEM,Alex Padilla,78
 Lake,351,Secretary of State,,IND,Dan Schnur,18
 Lake,351,Secretary of State,,GRN,David Curtis,20
@@ -2139,19 +1980,15 @@ Lake,352,Controller,,REP,David Evans,28
 Lake,352,Controller,,DEM,John A. Pérez,45
 Lake,352,Controller,,GRN,Laura Wells,32
 Lake,352,Controller,,DEM,Tammy D. Blair,9
-Lake,352,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,352,Governor,,DEM,Akinyemi Agbede,10
-Lake,352,Governor,,REP,Alma Marie Winston,0
 Lake,352,Governor,,REP,Andrew Blount,4
 Lake,352,Governor,,PAF,Cindy L. Sheehan,6
 Lake,352,Governor,,DEM,"Edmund G. ""Jerry"" Brown",100
 Lake,352,Governor,,REP,Glenn Champ,1
 Lake,352,Governor,,IND,Janel Hyeshia Buycks,3
-Lake,352,Governor,,IND,Joe Leicht,0
 Lake,352,Governor,,GRN,Luis J. Rodriguez,4
 Lake,352,Governor,,REP,Neel Kashkari,12
 Lake,352,Governor,,IND,Rakesh Kumar Christian,1
-Lake,352,Governor,,REP,Richard William Aguirre,0
 Lake,352,Governor,,IND,Robert Newman,11
 Lake,352,Governor,,REP,Tim Donnelly,19
 Lake,352,Insurance Commissioner,,DEM,Dave Jones,103
@@ -2165,6 +2002,10 @@ Lake,352,Lieutenant Governor,,DEM,Gavin Newsom,93
 Lake,352,Lieutenant Governor,,REP,George Yang,8
 Lake,352,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Lake,352,Lieutenant Governor,,REP,Ron Nehring,22
+Lake,352,Proposition 41,,,No,53
+Lake,352,Proposition 41,,,Yes,124
+Lake,352,Proposition 42,,,No,83
+Lake,352,Proposition 42,,,Yes,92
 Lake,352,Secretary of State,,DEM,Alex Padilla,52
 Lake,352,Secretary of State,,IND,Dan Schnur,16
 Lake,352,Secretary of State,,GRN,David Curtis,13
@@ -2213,7 +2054,6 @@ Lake,353,Governor,,PAF,Cindy L. Sheehan,4
 Lake,353,Governor,,DEM,"Edmund G. ""Jerry"" Brown",116
 Lake,353,Governor,,REP,Glenn Champ,12
 Lake,353,Governor,,IND,Janel Hyeshia Buycks,3
-Lake,353,Governor,,IND,Joe Leicht,0
 Lake,353,Governor,,GRN,Luis J. Rodriguez,11
 Lake,353,Governor,,REP,Neel Kashkari,42
 Lake,353,Governor,,IND,Rakesh Kumar Christian,1
@@ -2231,6 +2071,10 @@ Lake,353,Lieutenant Governor,,DEM,Gavin Newsom,107
 Lake,353,Lieutenant Governor,,REP,George Yang,21
 Lake,353,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Lake,353,Lieutenant Governor,,REP,Ron Nehring,57
+Lake,353,Proposition 41,,,No,89
+Lake,353,Proposition 41,,,Yes,151
+Lake,353,Proposition 42,,,No,114
+Lake,353,Proposition 42,,,Yes,121
 Lake,353,Secretary of State,,DEM,Alex Padilla,62
 Lake,353,Secretary of State,,IND,Dan Schnur,17
 Lake,353,Secretary of State,,GRN,David Curtis,18
@@ -2256,7 +2100,6 @@ Lake,353,Treasurer,,REP,Greg Conlon,108
 Lake,353,Treasurer,,DEM,John Chiang,107
 Lake,353,U.S. House,3,REP,Dan Logue,110
 Lake,353,U.S. House,3,DEM,John Garamendi,130
-Lake,354,Attorney General,,REP,David King,0
 Lake,354,Attorney General,,REP,John Haggerty,4
 Lake,354,Attorney General,,LIB,Jonathan Jaech,4
 Lake,354,Attorney General,,DEM,Kamala D. Harris,37
@@ -2271,25 +2114,18 @@ Lake,354,Controller,,REP,David Evans,8
 Lake,354,Controller,,DEM,John A. Pérez,21
 Lake,354,Controller,,GRN,Laura Wells,5
 Lake,354,Controller,,DEM,Tammy D. Blair,5
-Lake,354,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,354,Governor,,DEM,Akinyemi Agbede,0
 Lake,354,Governor,,REP,Alma Marie Winston,3
 Lake,354,Governor,,REP,Andrew Blount,1
 Lake,354,Governor,,PAF,Cindy L. Sheehan,2
 Lake,354,Governor,,DEM,"Edmund G. ""Jerry"" Brown",44
 Lake,354,Governor,,REP,Glenn Champ,1
-Lake,354,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,354,Governor,,IND,Joe Leicht,0
 Lake,354,Governor,,GRN,Luis J. Rodriguez,2
 Lake,354,Governor,,REP,Neel Kashkari,1
-Lake,354,Governor,,IND,Rakesh Kumar Christian,0
-Lake,354,Governor,,REP,Richard William Aguirre,0
 Lake,354,Governor,,IND,Robert Newman,2
 Lake,354,Governor,,REP,Tim Donnelly,8
 Lake,354,Insurance Commissioner,,DEM,Dave Jones,35
 Lake,354,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Lake,354,Insurance Commissioner,,REP,Ted Gaines,14
-Lake,354,Lieutenant Governor,,AME,Alan Reynolds,0
 Lake,354,Lieutenant Governor,,PAF,Amos Johnson,3
 Lake,354,Lieutenant Governor,,REP,David Fennell,4
 Lake,354,Lieutenant Governor,,DEM,Eric Korevaar,6
@@ -2297,6 +2133,10 @@ Lake,354,Lieutenant Governor,,DEM,Gavin Newsom,39
 Lake,354,Lieutenant Governor,,REP,George Yang,2
 Lake,354,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lake,354,Lieutenant Governor,,REP,Ron Nehring,7
+Lake,354,Proposition 41,,,No,23
+Lake,354,Proposition 41,,,Yes,41
+Lake,354,Proposition 42,,,No,28
+Lake,354,Proposition 42,,,Yes,35
 Lake,354,Secretary of State,,DEM,Alex Padilla,24
 Lake,354,Secretary of State,,IND,Dan Schnur,5
 Lake,354,Secretary of State,,GRN,David Curtis,2
@@ -2322,53 +2162,33 @@ Lake,354,Treasurer,,REP,Greg Conlon,12
 Lake,354,Treasurer,,DEM,John Chiang,39
 Lake,354,U.S. House,3,REP,Dan Logue,15
 Lake,354,U.S. House,3,DEM,John Garamendi,40
-Lake,361,Attorney General,,REP,David King,0
 Lake,361,Attorney General,,REP,John Haggerty,2
-Lake,361,Attorney General,,LIB,Jonathan Jaech,0
 Lake,361,Attorney General,,DEM,Kamala D. Harris,7
-Lake,361,Attorney General,,IND,Orly Taitz,0
 Lake,361,Attorney General,,REP,Phil Wyman,1
 Lake,361,Attorney General,,REP,Ronald Gold,3
 Lake,361,Board of Equalization,2,DEM,Fiona Ma,7
 Lake,361,Board of Equalization,2,REP,James E. Theis,6
-Lake,361,Controller,,REP,Ashley Swearengin,0
 Lake,361,Controller,,DEM,Betty T. Yee,4
 Lake,361,Controller,,REP,David Evans,5
 Lake,361,Controller,,DEM,John A. Pérez,3
 Lake,361,Controller,,GRN,Laura Wells,1
-Lake,361,Controller,,DEM,Tammy D. Blair,0
-Lake,361,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,361,Governor,,DEM,Akinyemi Agbede,0
-Lake,361,Governor,,REP,Alma Marie Winston,0
-Lake,361,Governor,,REP,Andrew Blount,0
-Lake,361,Governor,,PAF,Cindy L. Sheehan,0
 Lake,361,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
 Lake,361,Governor,,REP,Glenn Champ,1
-Lake,361,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,361,Governor,,IND,Joe Leicht,0
-Lake,361,Governor,,GRN,Luis J. Rodriguez,0
-Lake,361,Governor,,REP,Neel Kashkari,0
-Lake,361,Governor,,IND,Rakesh Kumar Christian,0
-Lake,361,Governor,,REP,Richard William Aguirre,0
-Lake,361,Governor,,IND,Robert Newman,0
 Lake,361,Governor,,REP,Tim Donnelly,5
 Lake,361,Insurance Commissioner,,DEM,Dave Jones,6
 Lake,361,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Lake,361,Insurance Commissioner,,REP,Ted Gaines,6
-Lake,361,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,361,Lieutenant Governor,,PAF,Amos Johnson,0
-Lake,361,Lieutenant Governor,,REP,David Fennell,0
-Lake,361,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,361,Lieutenant Governor,,DEM,Gavin Newsom,6
 Lake,361,Lieutenant Governor,,REP,George Yang,3
 Lake,361,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Lake,361,Lieutenant Governor,,REP,Ron Nehring,3
+Lake,361,Proposition 41,,,No,9
+Lake,361,Proposition 41,,,Yes,3
+Lake,361,Proposition 42,,,No,8
+Lake,361,Proposition 42,,,Yes,4
 Lake,361,Secretary of State,,DEM,Alex Padilla,6
 Lake,361,Secretary of State,,IND,Dan Schnur,2
 Lake,361,Secretary of State,,GRN,David Curtis,1
-Lake,361,Secretary of State,,DEM,Derek Cressman,0
-Lake,361,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lake,361,Secretary of State,,DEM,Leland Yee,0
 Lake,361,Secretary of State,,REP,Pete Peterson,3
 Lake,361,Secretary of State,,REP,Roy Allmond,1
 Lake,361,State Assembly,4,DEM,Bill Dodd,2
@@ -2377,7 +2197,6 @@ Lake,361,State Assembly,4,DEM,Dan Wolk,3
 Lake,361,State Assembly,4,REP,Dustin Call,1
 Lake,361,State Assembly,4,DEM,Joe Krovoza,1
 Lake,361,State Senate,2,DEM,Derek Knell,2
-Lake,361,State Senate,2,IND,Harry V. Lehmann,0
 Lake,361,State Senate,2,REP,Lawrence R. Wiesner,6
 Lake,361,State Senate,2,DEM,Mike McGuire,5
 Lake,361,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
@@ -2388,68 +2207,28 @@ Lake,361,Treasurer,,REP,Greg Conlon,5
 Lake,361,Treasurer,,DEM,John Chiang,7
 Lake,361,U.S. House,3,REP,Dan Logue,8
 Lake,361,U.S. House,3,DEM,John Garamendi,5
-Lake,371,Attorney General,,REP,David King,0
 Lake,371,Attorney General,,REP,John Haggerty,1
-Lake,371,Attorney General,,LIB,Jonathan Jaech,0
-Lake,371,Attorney General,,DEM,Kamala D. Harris,0
 Lake,371,Attorney General,,IND,Orly Taitz,2
-Lake,371,Attorney General,,REP,Phil Wyman,0
-Lake,371,Attorney General,,REP,Ronald Gold,0
 Lake,371,Board of Equalization,2,DEM,Fiona Ma,2
 Lake,371,Board of Equalization,2,REP,James E. Theis,1
-Lake,371,Controller,,REP,Ashley Swearengin,0
-Lake,371,Controller,,DEM,Betty T. Yee,0
 Lake,371,Controller,,REP,David Evans,1
-Lake,371,Controller,,DEM,John A. Pérez,0
-Lake,371,Controller,,GRN,Laura Wells,0
 Lake,371,Controller,,DEM,Tammy D. Blair,2
-Lake,371,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,371,Governor,,DEM,Akinyemi Agbede,2
-Lake,371,Governor,,REP,Alma Marie Winston,0
-Lake,371,Governor,,REP,Andrew Blount,0
-Lake,371,Governor,,PAF,Cindy L. Sheehan,0
-Lake,371,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Lake,371,Governor,,REP,Glenn Champ,0
-Lake,371,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,371,Governor,,IND,Joe Leicht,0
-Lake,371,Governor,,GRN,Luis J. Rodriguez,0
-Lake,371,Governor,,REP,Neel Kashkari,0
-Lake,371,Governor,,IND,Rakesh Kumar Christian,0
-Lake,371,Governor,,REP,Richard William Aguirre,0
-Lake,371,Governor,,IND,Robert Newman,0
 Lake,371,Governor,,REP,Tim Donnelly,1
 Lake,371,Insurance Commissioner,,DEM,Dave Jones,2
-Lake,371,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lake,371,Insurance Commissioner,,REP,Ted Gaines,1
-Lake,371,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,371,Lieutenant Governor,,PAF,Amos Johnson,0
-Lake,371,Lieutenant Governor,,REP,David Fennell,0
 Lake,371,Lieutenant Governor,,DEM,Eric Korevaar,2
-Lake,371,Lieutenant Governor,,DEM,Gavin Newsom,0
 Lake,371,Lieutenant Governor,,REP,George Yang,1
-Lake,371,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lake,371,Lieutenant Governor,,REP,Ron Nehring,0
-Lake,371,Secretary of State,,DEM,Alex Padilla,0
-Lake,371,Secretary of State,,IND,Dan Schnur,0
-Lake,371,Secretary of State,,GRN,David Curtis,0
+Lake,371,Proposition 41,,,No,3
+Lake,371,Proposition 42,,,No,1
+Lake,371,Proposition 42,,,Yes,2
 Lake,371,Secretary of State,,DEM,Derek Cressman,2
-Lake,371,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Lake,371,Secretary of State,,DEM,Leland Yee,0
-Lake,371,Secretary of State,,REP,Pete Peterson,0
 Lake,371,Secretary of State,,REP,Roy Allmond,1
 Lake,371,State Assembly,4,DEM,Bill Dodd,2
 Lake,371,State Assembly,4,REP,Charlie Schaupp,1
-Lake,371,State Assembly,4,DEM,Dan Wolk,0
-Lake,371,State Assembly,4,REP,Dustin Call,0
-Lake,371,State Assembly,4,DEM,Joe Krovoza,0
 Lake,371,State Senate,2,DEM,Derek Knell,2
-Lake,371,State Senate,2,IND,Harry V. Lehmann,0
 Lake,371,State Senate,2,REP,Lawrence R. Wiesner,1
-Lake,371,State Senate,2,DEM,Mike McGuire,0
 Lake,371,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
-Lake,371,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Lake,371,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Lake,371,Treasurer,,GRN,Ellen H. Brown,0
 Lake,371,Treasurer,,REP,Greg Conlon,1
 Lake,371,Treasurer,,DEM,John Chiang,2
 Lake,371,U.S. House,3,REP,Dan Logue,1
@@ -2495,6 +2274,10 @@ Lake,381,Lieutenant Governor,,DEM,Gavin Newsom,148
 Lake,381,Lieutenant Governor,,REP,George Yang,13
 Lake,381,Lieutenant Governor,,GRN,Jena F. Goodman,27
 Lake,381,Lieutenant Governor,,REP,Ron Nehring,65
+Lake,381,Proposition 41,,,No,103
+Lake,381,Proposition 41,,,Yes,219
+Lake,381,Proposition 42,,,No,151
+Lake,381,Proposition 42,,,Yes,166
 Lake,381,Secretary of State,,DEM,Alex Padilla,87
 Lake,381,Secretary of State,,IND,Dan Schnur,37
 Lake,381,Secretary of State,,GRN,David Curtis,29
@@ -2561,6 +2344,10 @@ Lake,382,Lieutenant Governor,,DEM,Gavin Newsom,118
 Lake,382,Lieutenant Governor,,REP,George Yang,11
 Lake,382,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Lake,382,Lieutenant Governor,,REP,Ron Nehring,33
+Lake,382,Proposition 41,,,No,71
+Lake,382,Proposition 41,,,Yes,150
+Lake,382,Proposition 42,,,No,89
+Lake,382,Proposition 42,,,Yes,116
 Lake,382,Secretary of State,,DEM,Alex Padilla,72
 Lake,382,Secretary of State,,IND,Dan Schnur,16
 Lake,382,Secretary of State,,GRN,David Curtis,17
@@ -2612,7 +2399,6 @@ Lake,383,Governor,,IND,Janel Hyeshia Buycks,2
 Lake,383,Governor,,IND,Joe Leicht,1
 Lake,383,Governor,,GRN,Luis J. Rodriguez,4
 Lake,383,Governor,,REP,Neel Kashkari,28
-Lake,383,Governor,,IND,Rakesh Kumar Christian,0
 Lake,383,Governor,,REP,Richard William Aguirre,1
 Lake,383,Governor,,IND,Robert Newman,7
 Lake,383,Governor,,REP,Tim Donnelly,26
@@ -2627,6 +2413,10 @@ Lake,383,Lieutenant Governor,,DEM,Gavin Newsom,125
 Lake,383,Lieutenant Governor,,REP,George Yang,10
 Lake,383,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Lake,383,Lieutenant Governor,,REP,Ron Nehring,29
+Lake,383,Proposition 41,,,No,71
+Lake,383,Proposition 41,,,Yes,151
+Lake,383,Proposition 42,,,No,105
+Lake,383,Proposition 42,,,Yes,108
 Lake,383,Secretary of State,,DEM,Alex Padilla,69
 Lake,383,Secretary of State,,IND,Dan Schnur,11
 Lake,383,Secretary of State,,GRN,David Curtis,9
@@ -2678,7 +2468,6 @@ Lake,384,Governor,,IND,Janel Hyeshia Buycks,3
 Lake,384,Governor,,IND,Joe Leicht,1
 Lake,384,Governor,,GRN,Luis J. Rodriguez,1
 Lake,384,Governor,,REP,Neel Kashkari,14
-Lake,384,Governor,,IND,Rakesh Kumar Christian,0
 Lake,384,Governor,,REP,Richard William Aguirre,1
 Lake,384,Governor,,IND,Robert Newman,4
 Lake,384,Governor,,REP,Tim Donnelly,20
@@ -2693,6 +2482,10 @@ Lake,384,Lieutenant Governor,,DEM,Gavin Newsom,102
 Lake,384,Lieutenant Governor,,REP,George Yang,11
 Lake,384,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Lake,384,Lieutenant Governor,,REP,Ron Nehring,29
+Lake,384,Proposition 41,,,No,47
+Lake,384,Proposition 41,,,Yes,134
+Lake,384,Proposition 42,,,No,75
+Lake,384,Proposition 42,,,Yes,100
 Lake,384,Secretary of State,,DEM,Alex Padilla,54
 Lake,384,Secretary of State,,IND,Dan Schnur,8
 Lake,384,Secretary of State,,GRN,David Curtis,8
@@ -2720,7 +2513,6 @@ Lake,384,U.S. House,3,REP,Dan Logue,72
 Lake,384,U.S. House,3,DEM,John Garamendi,98
 Lake,390,Attorney General,,REP,David King,6
 Lake,390,Attorney General,,REP,John Haggerty,7
-Lake,390,Attorney General,,LIB,Jonathan Jaech,0
 Lake,390,Attorney General,,DEM,Kamala D. Harris,40
 Lake,390,Attorney General,,IND,Orly Taitz,10
 Lake,390,Attorney General,,REP,Phil Wyman,9
@@ -2734,24 +2526,18 @@ Lake,390,Controller,,DEM,John A. Pérez,19
 Lake,390,Controller,,GRN,Laura Wells,12
 Lake,390,Controller,,DEM,Tammy D. Blair,2
 Lake,390,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Lake,390,Governor,,DEM,Akinyemi Agbede,0
-Lake,390,Governor,,REP,Alma Marie Winston,0
 Lake,390,Governor,,REP,Andrew Blount,2
 Lake,390,Governor,,PAF,Cindy L. Sheehan,2
 Lake,390,Governor,,DEM,"Edmund G. ""Jerry"" Brown",58
 Lake,390,Governor,,REP,Glenn Champ,1
 Lake,390,Governor,,IND,Janel Hyeshia Buycks,1
-Lake,390,Governor,,IND,Joe Leicht,0
 Lake,390,Governor,,GRN,Luis J. Rodriguez,1
 Lake,390,Governor,,REP,Neel Kashkari,4
-Lake,390,Governor,,IND,Rakesh Kumar Christian,0
-Lake,390,Governor,,REP,Richard William Aguirre,0
 Lake,390,Governor,,IND,Robert Newman,1
 Lake,390,Governor,,REP,Tim Donnelly,14
 Lake,390,Insurance Commissioner,,DEM,Dave Jones,40
 Lake,390,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Lake,390,Insurance Commissioner,,REP,Ted Gaines,34
-Lake,390,Lieutenant Governor,,AME,Alan Reynolds,0
 Lake,390,Lieutenant Governor,,PAF,Amos Johnson,1
 Lake,390,Lieutenant Governor,,REP,David Fennell,8
 Lake,390,Lieutenant Governor,,DEM,Eric Korevaar,2
@@ -2759,6 +2545,10 @@ Lake,390,Lieutenant Governor,,DEM,Gavin Newsom,44
 Lake,390,Lieutenant Governor,,REP,George Yang,4
 Lake,390,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Lake,390,Lieutenant Governor,,REP,Ron Nehring,16
+Lake,390,Proposition 41,,,No,31
+Lake,390,Proposition 41,,,Yes,55
+Lake,390,Proposition 42,,,No,35
+Lake,390,Proposition 42,,,Yes,41
 Lake,390,Secretary of State,,DEM,Alex Padilla,27
 Lake,390,Secretary of State,,IND,Dan Schnur,7
 Lake,390,Secretary of State,,GRN,David Curtis,9
@@ -2799,18 +2589,13 @@ Lake,391,Controller,,REP,David Evans,16
 Lake,391,Controller,,DEM,John A. Pérez,18
 Lake,391,Controller,,GRN,Laura Wells,9
 Lake,391,Controller,,DEM,Tammy D. Blair,7
-Lake,391,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,391,Governor,,DEM,Akinyemi Agbede,0
 Lake,391,Governor,,REP,Alma Marie Winston,2
 Lake,391,Governor,,REP,Andrew Blount,2
-Lake,391,Governor,,PAF,Cindy L. Sheehan,0
 Lake,391,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Lake,391,Governor,,REP,Glenn Champ,6
-Lake,391,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,391,Governor,,IND,Joe Leicht,1
 Lake,391,Governor,,GRN,Luis J. Rodriguez,5
 Lake,391,Governor,,REP,Neel Kashkari,5
-Lake,391,Governor,,IND,Rakesh Kumar Christian,0
 Lake,391,Governor,,REP,Richard William Aguirre,3
 Lake,391,Governor,,IND,Robert Newman,3
 Lake,391,Governor,,REP,Tim Donnelly,4
@@ -2818,18 +2603,20 @@ Lake,391,Insurance Commissioner,,DEM,Dave Jones,37
 Lake,391,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Lake,391,Insurance Commissioner,,REP,Ted Gaines,25
 Lake,391,Lieutenant Governor,,AME,Alan Reynolds,1
-Lake,391,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,391,Lieutenant Governor,,REP,David Fennell,9
 Lake,391,Lieutenant Governor,,DEM,Eric Korevaar,8
 Lake,391,Lieutenant Governor,,DEM,Gavin Newsom,37
 Lake,391,Lieutenant Governor,,REP,George Yang,1
 Lake,391,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lake,391,Lieutenant Governor,,REP,Ron Nehring,15
+Lake,391,Proposition 41,,,No,21
+Lake,391,Proposition 41,,,Yes,52
+Lake,391,Proposition 42,,,No,40
+Lake,391,Proposition 42,,,Yes,30
 Lake,391,Secretary of State,,DEM,Alex Padilla,26
 Lake,391,Secretary of State,,IND,Dan Schnur,7
 Lake,391,Secretary of State,,GRN,David Curtis,5
 Lake,391,Secretary of State,,DEM,Derek Cressman,4
-Lake,391,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lake,391,Secretary of State,,DEM,Leland Yee,6
 Lake,391,Secretary of State,,REP,Pete Peterson,15
 Lake,391,Secretary of State,,REP,Roy Allmond,7
@@ -2850,71 +2637,30 @@ Lake,391,Treasurer,,REP,Greg Conlon,23
 Lake,391,Treasurer,,DEM,John Chiang,34
 Lake,391,U.S. House,3,REP,Dan Logue,24
 Lake,391,U.S. House,3,DEM,John Garamendi,47
-Lake,392,Attorney General,,REP,David King,0
-Lake,392,Attorney General,,REP,John Haggerty,0
-Lake,392,Attorney General,,LIB,Jonathan Jaech,0
 Lake,392,Attorney General,,DEM,Kamala D. Harris,4
-Lake,392,Attorney General,,IND,Orly Taitz,0
-Lake,392,Attorney General,,REP,Phil Wyman,0
-Lake,392,Attorney General,,REP,Ronald Gold,0
 Lake,392,Board of Equalization,2,DEM,Fiona Ma,3
 Lake,392,Board of Equalization,2,REP,James E. Theis,1
-Lake,392,Controller,,REP,Ashley Swearengin,0
 Lake,392,Controller,,DEM,Betty T. Yee,1
-Lake,392,Controller,,REP,David Evans,0
 Lake,392,Controller,,DEM,John A. Pérez,2
 Lake,392,Controller,,GRN,Laura Wells,1
-Lake,392,Controller,,DEM,Tammy D. Blair,0
-Lake,392,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,392,Governor,,DEM,Akinyemi Agbede,0
-Lake,392,Governor,,REP,Alma Marie Winston,0
-Lake,392,Governor,,REP,Andrew Blount,0
 Lake,392,Governor,,PAF,Cindy L. Sheehan,1
 Lake,392,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Lake,392,Governor,,REP,Glenn Champ,0
-Lake,392,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,392,Governor,,IND,Joe Leicht,0
-Lake,392,Governor,,GRN,Luis J. Rodriguez,0
-Lake,392,Governor,,REP,Neel Kashkari,0
-Lake,392,Governor,,IND,Rakesh Kumar Christian,0
-Lake,392,Governor,,REP,Richard William Aguirre,0
-Lake,392,Governor,,IND,Robert Newman,0
-Lake,392,Governor,,REP,Tim Donnelly,0
 Lake,392,Insurance Commissioner,,DEM,Dave Jones,3
 Lake,392,Insurance Commissioner,,PAF,Nathalie Hrizi,1
-Lake,392,Insurance Commissioner,,REP,Ted Gaines,0
-Lake,392,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,392,Lieutenant Governor,,PAF,Amos Johnson,0
-Lake,392,Lieutenant Governor,,REP,David Fennell,0
-Lake,392,Lieutenant Governor,,DEM,Eric Korevaar,0
 Lake,392,Lieutenant Governor,,DEM,Gavin Newsom,4
-Lake,392,Lieutenant Governor,,REP,George Yang,0
-Lake,392,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Lake,392,Lieutenant Governor,,REP,Ron Nehring,0
+Lake,392,Proposition 41,,,Yes,4
+Lake,392,Proposition 42,,,No,3
+Lake,392,Proposition 42,,,Yes,1
 Lake,392,Secretary of State,,DEM,Alex Padilla,2
-Lake,392,Secretary of State,,IND,Dan Schnur,0
 Lake,392,Secretary of State,,GRN,David Curtis,1
-Lake,392,Secretary of State,,DEM,Derek Cressman,0
-Lake,392,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lake,392,Secretary of State,,DEM,Leland Yee,1
-Lake,392,Secretary of State,,REP,Pete Peterson,0
-Lake,392,Secretary of State,,REP,Roy Allmond,0
 Lake,392,State Assembly,4,DEM,Bill Dodd,1
-Lake,392,State Assembly,4,REP,Charlie Schaupp,0
-Lake,392,State Assembly,4,DEM,Dan Wolk,0
-Lake,392,State Assembly,4,REP,Dustin Call,0
 Lake,392,State Assembly,4,DEM,Joe Krovoza,3
-Lake,392,State Senate,2,DEM,Derek Knell,0
-Lake,392,State Senate,2,IND,Harry V. Lehmann,0
-Lake,392,State Senate,2,REP,Lawrence R. Wiesner,0
 Lake,392,State Senate,2,DEM,Mike McGuire,4
 Lake,392,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
-Lake,392,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Lake,392,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
 Lake,392,Treasurer,,GRN,Ellen H. Brown,1
-Lake,392,Treasurer,,REP,Greg Conlon,0
 Lake,392,Treasurer,,DEM,John Chiang,3
-Lake,392,U.S. House,3,REP,Dan Logue,0
 Lake,392,U.S. House,3,DEM,John Garamendi,4
 Lake,411,Attorney General,,REP,David King,15
 Lake,411,Attorney General,,REP,John Haggerty,44
@@ -2957,6 +2703,10 @@ Lake,411,Lieutenant Governor,,DEM,Gavin Newsom,157
 Lake,411,Lieutenant Governor,,REP,George Yang,26
 Lake,411,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Lake,411,Lieutenant Governor,,REP,Ron Nehring,69
+Lake,411,Proposition 41,,,No,123
+Lake,411,Proposition 41,,,Yes,195
+Lake,411,Proposition 42,,,No,156
+Lake,411,Proposition 42,,,Yes,149
 Lake,411,Secretary of State,,DEM,Alex Padilla,98
 Lake,411,Secretary of State,,IND,Dan Schnur,16
 Lake,411,Secretary of State,,GRN,David Curtis,17
@@ -3006,7 +2756,6 @@ Lake,412,Governor,,PAF,Cindy L. Sheehan,2
 Lake,412,Governor,,DEM,"Edmund G. ""Jerry"" Brown",189
 Lake,412,Governor,,REP,Glenn Champ,6
 Lake,412,Governor,,IND,Janel Hyeshia Buycks,1
-Lake,412,Governor,,IND,Joe Leicht,0
 Lake,412,Governor,,GRN,Luis J. Rodriguez,4
 Lake,412,Governor,,REP,Neel Kashkari,42
 Lake,412,Governor,,IND,Rakesh Kumar Christian,1
@@ -3024,6 +2773,10 @@ Lake,412,Lieutenant Governor,,DEM,Gavin Newsom,159
 Lake,412,Lieutenant Governor,,REP,George Yang,23
 Lake,412,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lake,412,Lieutenant Governor,,REP,Ron Nehring,77
+Lake,412,Proposition 41,,,No,124
+Lake,412,Proposition 41,,,Yes,203
+Lake,412,Proposition 42,,,No,159
+Lake,412,Proposition 42,,,Yes,154
 Lake,412,Secretary of State,,DEM,Alex Padilla,102
 Lake,412,Secretary of State,,IND,Dan Schnur,13
 Lake,412,Secretary of State,,GRN,David Curtis,10
@@ -3091,6 +2844,10 @@ Lake,413,Lieutenant Governor,,DEM,Gavin Newsom,160
 Lake,413,Lieutenant Governor,,REP,George Yang,12
 Lake,413,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Lake,413,Lieutenant Governor,,REP,Ron Nehring,63
+Lake,413,Proposition 41,,,No,84
+Lake,413,Proposition 41,,,Yes,205
+Lake,413,Proposition 42,,,No,136
+Lake,413,Proposition 42,,,Yes,140
 Lake,413,Secretary of State,,DEM,Alex Padilla,102
 Lake,413,Secretary of State,,IND,Dan Schnur,18
 Lake,413,Secretary of State,,GRN,David Curtis,16
@@ -3144,7 +2901,6 @@ Lake,414,Governor,,IND,Joe Leicht,1
 Lake,414,Governor,,GRN,Luis J. Rodriguez,8
 Lake,414,Governor,,REP,Neel Kashkari,22
 Lake,414,Governor,,IND,Rakesh Kumar Christian,3
-Lake,414,Governor,,REP,Richard William Aguirre,0
 Lake,414,Governor,,IND,Robert Newman,7
 Lake,414,Governor,,REP,Tim Donnelly,37
 Lake,414,Insurance Commissioner,,DEM,Dave Jones,155
@@ -3158,6 +2914,10 @@ Lake,414,Lieutenant Governor,,DEM,Gavin Newsom,175
 Lake,414,Lieutenant Governor,,REP,George Yang,15
 Lake,414,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Lake,414,Lieutenant Governor,,REP,Ron Nehring,31
+Lake,414,Proposition 41,,,No,81
+Lake,414,Proposition 41,,,Yes,210
+Lake,414,Proposition 42,,,No,119
+Lake,414,Proposition 42,,,Yes,152
 Lake,414,Secretary of State,,DEM,Alex Padilla,102
 Lake,414,Secretary of State,,IND,Dan Schnur,10
 Lake,414,Secretary of State,,GRN,David Curtis,12
@@ -3199,8 +2959,6 @@ Lake,421,Controller,,REP,David Evans,59
 Lake,421,Controller,,DEM,John A. Pérez,44
 Lake,421,Controller,,GRN,Laura Wells,22
 Lake,421,Controller,,DEM,Tammy D. Blair,9
-Lake,421,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,421,Governor,,DEM,Akinyemi Agbede,0
 Lake,421,Governor,,REP,Alma Marie Winston,1
 Lake,421,Governor,,REP,Andrew Blount,4
 Lake,421,Governor,,PAF,Cindy L. Sheehan,2
@@ -3211,7 +2969,6 @@ Lake,421,Governor,,IND,Joe Leicht,1
 Lake,421,Governor,,GRN,Luis J. Rodriguez,2
 Lake,421,Governor,,REP,Neel Kashkari,26
 Lake,421,Governor,,IND,Rakesh Kumar Christian,2
-Lake,421,Governor,,REP,Richard William Aguirre,0
 Lake,421,Governor,,IND,Robert Newman,8
 Lake,421,Governor,,REP,Tim Donnelly,39
 Lake,421,Insurance Commissioner,,DEM,Dave Jones,96
@@ -3225,6 +2982,10 @@ Lake,421,Lieutenant Governor,,DEM,Gavin Newsom,106
 Lake,421,Lieutenant Governor,,REP,George Yang,12
 Lake,421,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Lake,421,Lieutenant Governor,,REP,Ron Nehring,45
+Lake,421,Proposition 41,,,No,84
+Lake,421,Proposition 41,,,Yes,144
+Lake,421,Proposition 42,,,No,110
+Lake,421,Proposition 42,,,Yes,108
 Lake,421,Secretary of State,,DEM,Alex Padilla,58
 Lake,421,Secretary of State,,IND,Dan Schnur,20
 Lake,421,Secretary of State,,GRN,David Curtis,15
@@ -3271,9 +3032,7 @@ Lake,422,Governor,,REP,Alma Marie Winston,2
 Lake,422,Governor,,REP,Andrew Blount,16
 Lake,422,Governor,,PAF,Cindy L. Sheehan,5
 Lake,422,Governor,,DEM,"Edmund G. ""Jerry"" Brown",126
-Lake,422,Governor,,REP,Glenn Champ,0
 Lake,422,Governor,,IND,Janel Hyeshia Buycks,2
-Lake,422,Governor,,IND,Joe Leicht,0
 Lake,422,Governor,,GRN,Luis J. Rodriguez,1
 Lake,422,Governor,,REP,Neel Kashkari,36
 Lake,422,Governor,,IND,Rakesh Kumar Christian,2
@@ -3291,6 +3050,10 @@ Lake,422,Lieutenant Governor,,DEM,Gavin Newsom,103
 Lake,422,Lieutenant Governor,,REP,George Yang,9
 Lake,422,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Lake,422,Lieutenant Governor,,REP,Ron Nehring,71
+Lake,422,Proposition 41,,,No,103
+Lake,422,Proposition 41,,,Yes,131
+Lake,422,Proposition 42,,,No,118
+Lake,422,Proposition 42,,,Yes,106
 Lake,422,Secretary of State,,DEM,Alex Padilla,67
 Lake,422,Secretary of State,,IND,Dan Schnur,23
 Lake,422,Secretary of State,,GRN,David Curtis,9
@@ -3332,7 +3095,6 @@ Lake,431,Controller,,REP,David Evans,119
 Lake,431,Controller,,DEM,John A. Pérez,102
 Lake,431,Controller,,GRN,Laura Wells,18
 Lake,431,Controller,,DEM,Tammy D. Blair,23
-Lake,431,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,431,Governor,,DEM,Akinyemi Agbede,4
 Lake,431,Governor,,REP,Alma Marie Winston,9
 Lake,431,Governor,,REP,Andrew Blount,19
@@ -3358,6 +3120,10 @@ Lake,431,Lieutenant Governor,,DEM,Gavin Newsom,183
 Lake,431,Lieutenant Governor,,REP,George Yang,24
 Lake,431,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Lake,431,Lieutenant Governor,,REP,Ron Nehring,75
+Lake,431,Proposition 41,,,No,123
+Lake,431,Proposition 41,,,Yes,279
+Lake,431,Proposition 42,,,No,176
+Lake,431,Proposition 42,,,Yes,196
 Lake,431,Secretary of State,,DEM,Alex Padilla,120
 Lake,431,Secretary of State,,IND,Dan Schnur,20
 Lake,431,Secretary of State,,GRN,David Curtis,11
@@ -3400,16 +3166,13 @@ Lake,432,Controller,,GRN,Laura Wells,36
 Lake,432,Controller,,DEM,Tammy D. Blair,18
 Lake,432,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
 Lake,432,Governor,,DEM,Akinyemi Agbede,3
-Lake,432,Governor,,REP,Alma Marie Winston,0
 Lake,432,Governor,,REP,Andrew Blount,20
 Lake,432,Governor,,PAF,Cindy L. Sheehan,5
 Lake,432,Governor,,DEM,"Edmund G. ""Jerry"" Brown",205
 Lake,432,Governor,,REP,Glenn Champ,11
-Lake,432,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,432,Governor,,IND,Joe Leicht,2
 Lake,432,Governor,,GRN,Luis J. Rodriguez,8
 Lake,432,Governor,,REP,Neel Kashkari,52
-Lake,432,Governor,,IND,Rakesh Kumar Christian,0
 Lake,432,Governor,,REP,Richard William Aguirre,1
 Lake,432,Governor,,IND,Robert Newman,10
 Lake,432,Governor,,REP,Tim Donnelly,69
@@ -3424,6 +3187,10 @@ Lake,432,Lieutenant Governor,,DEM,Gavin Newsom,179
 Lake,432,Lieutenant Governor,,REP,George Yang,27
 Lake,432,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Lake,432,Lieutenant Governor,,REP,Ron Nehring,83
+Lake,432,Proposition 41,,,No,151
+Lake,432,Proposition 41,,,Yes,230
+Lake,432,Proposition 42,,,No,168
+Lake,432,Proposition 42,,,Yes,197
 Lake,432,Secretary of State,,DEM,Alex Padilla,110
 Lake,432,Secretary of State,,IND,Dan Schnur,27
 Lake,432,Secretary of State,,GRN,David Curtis,14
@@ -3476,7 +3243,6 @@ Lake,441,Governor,,IND,Joe Leicht,1
 Lake,441,Governor,,GRN,Luis J. Rodriguez,6
 Lake,441,Governor,,REP,Neel Kashkari,31
 Lake,441,Governor,,IND,Rakesh Kumar Christian,1
-Lake,441,Governor,,REP,Richard William Aguirre,0
 Lake,441,Governor,,IND,Robert Newman,4
 Lake,441,Governor,,REP,Tim Donnelly,37
 Lake,441,Insurance Commissioner,,DEM,Dave Jones,76
@@ -3490,6 +3256,10 @@ Lake,441,Lieutenant Governor,,DEM,Gavin Newsom,78
 Lake,441,Lieutenant Governor,,REP,George Yang,10
 Lake,441,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Lake,441,Lieutenant Governor,,REP,Ron Nehring,57
+Lake,441,Proposition 41,,,No,93
+Lake,441,Proposition 41,,,Yes,112
+Lake,441,Proposition 42,,,No,113
+Lake,441,Proposition 42,,,Yes,88
 Lake,441,Secretary of State,,DEM,Alex Padilla,49
 Lake,441,Secretary of State,,IND,Dan Schnur,17
 Lake,441,Secretary of State,,GRN,David Curtis,12
@@ -3531,15 +3301,11 @@ Lake,442,Controller,,REP,David Evans,43
 Lake,442,Controller,,DEM,John A. Pérez,37
 Lake,442,Controller,,GRN,Laura Wells,10
 Lake,442,Controller,,DEM,Tammy D. Blair,6
-Lake,442,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,442,Governor,,DEM,Akinyemi Agbede,0
 Lake,442,Governor,,REP,Alma Marie Winston,3
 Lake,442,Governor,,REP,Andrew Blount,6
 Lake,442,Governor,,PAF,Cindy L. Sheehan,4
 Lake,442,Governor,,DEM,"Edmund G. ""Jerry"" Brown",84
 Lake,442,Governor,,REP,Glenn Champ,4
-Lake,442,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,442,Governor,,IND,Joe Leicht,0
 Lake,442,Governor,,GRN,Luis J. Rodriguez,3
 Lake,442,Governor,,REP,Neel Kashkari,13
 Lake,442,Governor,,IND,Rakesh Kumar Christian,1
@@ -3557,6 +3323,10 @@ Lake,442,Lieutenant Governor,,DEM,Gavin Newsom,72
 Lake,442,Lieutenant Governor,,REP,George Yang,5
 Lake,442,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lake,442,Lieutenant Governor,,REP,Ron Nehring,34
+Lake,442,Proposition 41,,,No,41
+Lake,442,Proposition 41,,,Yes,100
+Lake,442,Proposition 42,,,No,67
+Lake,442,Proposition 42,,,Yes,62
 Lake,442,Secretary of State,,DEM,Alex Padilla,50
 Lake,442,Secretary of State,,IND,Dan Schnur,14
 Lake,442,Secretary of State,,GRN,David Curtis,4
@@ -3602,11 +3372,9 @@ Lake,451,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
 Lake,451,Governor,,DEM,Akinyemi Agbede,4
 Lake,451,Governor,,REP,Alma Marie Winston,3
 Lake,451,Governor,,REP,Andrew Blount,14
-Lake,451,Governor,,PAF,Cindy L. Sheehan,0
 Lake,451,Governor,,DEM,"Edmund G. ""Jerry"" Brown",143
 Lake,451,Governor,,REP,Glenn Champ,6
 Lake,451,Governor,,IND,Janel Hyeshia Buycks,1
-Lake,451,Governor,,IND,Joe Leicht,0
 Lake,451,Governor,,GRN,Luis J. Rodriguez,5
 Lake,451,Governor,,REP,Neel Kashkari,22
 Lake,451,Governor,,IND,Rakesh Kumar Christian,2
@@ -3624,6 +3392,10 @@ Lake,451,Lieutenant Governor,,DEM,Gavin Newsom,123
 Lake,451,Lieutenant Governor,,REP,George Yang,12
 Lake,451,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Lake,451,Lieutenant Governor,,REP,Ron Nehring,55
+Lake,451,Proposition 41,,,No,96
+Lake,451,Proposition 41,,,Yes,143
+Lake,451,Proposition 42,,,No,118
+Lake,451,Proposition 42,,,Yes,106
 Lake,451,Secretary of State,,DEM,Alex Padilla,76
 Lake,451,Secretary of State,,IND,Dan Schnur,17
 Lake,451,Secretary of State,,GRN,David Curtis,4
@@ -3652,7 +3424,6 @@ Lake,451,U.S. House,5,IND,James Hinton,34
 Lake,451,U.S. House,5,DEM,Mike Thompson,179
 Lake,452,Attorney General,,REP,David King,3
 Lake,452,Attorney General,,REP,John Haggerty,7
-Lake,452,Attorney General,,LIB,Jonathan Jaech,0
 Lake,452,Attorney General,,DEM,Kamala D. Harris,28
 Lake,452,Attorney General,,IND,Orly Taitz,4
 Lake,452,Attorney General,,REP,Phil Wyman,13
@@ -3665,32 +3436,29 @@ Lake,452,Controller,,REP,David Evans,27
 Lake,452,Controller,,DEM,John A. Pérez,14
 Lake,452,Controller,,GRN,Laura Wells,7
 Lake,452,Controller,,DEM,Tammy D. Blair,1
-Lake,452,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,452,Governor,,DEM,Akinyemi Agbede,0
 Lake,452,Governor,,REP,Alma Marie Winston,2
 Lake,452,Governor,,REP,Andrew Blount,1
 Lake,452,Governor,,PAF,Cindy L. Sheehan,1
 Lake,452,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
 Lake,452,Governor,,REP,Glenn Champ,4
 Lake,452,Governor,,IND,Janel Hyeshia Buycks,2
-Lake,452,Governor,,IND,Joe Leicht,0
 Lake,452,Governor,,GRN,Luis J. Rodriguez,2
 Lake,452,Governor,,REP,Neel Kashkari,7
 Lake,452,Governor,,IND,Rakesh Kumar Christian,1
-Lake,452,Governor,,REP,Richard William Aguirre,0
 Lake,452,Governor,,IND,Robert Newman,1
 Lake,452,Governor,,REP,Tim Donnelly,12
 Lake,452,Insurance Commissioner,,DEM,Dave Jones,26
 Lake,452,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Lake,452,Insurance Commissioner,,REP,Ted Gaines,30
-Lake,452,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,452,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,452,Lieutenant Governor,,REP,David Fennell,9
 Lake,452,Lieutenant Governor,,DEM,Eric Korevaar,3
 Lake,452,Lieutenant Governor,,DEM,Gavin Newsom,23
-Lake,452,Lieutenant Governor,,REP,George Yang,0
 Lake,452,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Lake,452,Lieutenant Governor,,REP,Ron Nehring,24
+Lake,452,Proposition 41,,,No,27
+Lake,452,Proposition 41,,,Yes,37
+Lake,452,Proposition 42,,,No,28
+Lake,452,Proposition 42,,,Yes,36
 Lake,452,Secretary of State,,DEM,Alex Padilla,13
 Lake,452,Secretary of State,,IND,Dan Schnur,4
 Lake,452,Secretary of State,,GRN,David Curtis,4
@@ -3738,7 +3506,6 @@ Lake,455,Governor,,REP,Andrew Blount,8
 Lake,455,Governor,,PAF,Cindy L. Sheehan,2
 Lake,455,Governor,,DEM,"Edmund G. ""Jerry"" Brown",201
 Lake,455,Governor,,REP,Glenn Champ,6
-Lake,455,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,455,Governor,,IND,Joe Leicht,2
 Lake,455,Governor,,GRN,Luis J. Rodriguez,4
 Lake,455,Governor,,REP,Neel Kashkari,29
@@ -3757,6 +3524,10 @@ Lake,455,Lieutenant Governor,,DEM,Gavin Newsom,179
 Lake,455,Lieutenant Governor,,REP,George Yang,11
 Lake,455,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Lake,455,Lieutenant Governor,,REP,Ron Nehring,36
+Lake,455,Proposition 41,,,No,100
+Lake,455,Proposition 41,,,Yes,204
+Lake,455,Proposition 42,,,No,130
+Lake,455,Proposition 42,,,Yes,156
 Lake,455,Secretary of State,,DEM,Alex Padilla,107
 Lake,455,Secretary of State,,IND,Dan Schnur,22
 Lake,455,Secretary of State,,GRN,David Curtis,19
@@ -3787,7 +3558,6 @@ Lake,461,Attorney General,,REP,David King,3
 Lake,461,Attorney General,,REP,John Haggerty,1
 Lake,461,Attorney General,,LIB,Jonathan Jaech,1
 Lake,461,Attorney General,,DEM,Kamala D. Harris,8
-Lake,461,Attorney General,,IND,Orly Taitz,0
 Lake,461,Attorney General,,REP,Phil Wyman,5
 Lake,461,Attorney General,,REP,Ronald Gold,2
 Lake,461,Board of Equalization,2,DEM,Fiona Ma,7
@@ -3796,40 +3566,24 @@ Lake,461,Controller,,REP,Ashley Swearengin,6
 Lake,461,Controller,,DEM,Betty T. Yee,3
 Lake,461,Controller,,REP,David Evans,6
 Lake,461,Controller,,DEM,John A. Pérez,3
-Lake,461,Controller,,GRN,Laura Wells,0
-Lake,461,Controller,,DEM,Tammy D. Blair,0
-Lake,461,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,461,Governor,,DEM,Akinyemi Agbede,0
-Lake,461,Governor,,REP,Alma Marie Winston,0
-Lake,461,Governor,,REP,Andrew Blount,0
-Lake,461,Governor,,PAF,Cindy L. Sheehan,0
 Lake,461,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Lake,461,Governor,,REP,Glenn Champ,2
-Lake,461,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,461,Governor,,IND,Joe Leicht,0
-Lake,461,Governor,,GRN,Luis J. Rodriguez,0
 Lake,461,Governor,,REP,Neel Kashkari,6
-Lake,461,Governor,,IND,Rakesh Kumar Christian,0
-Lake,461,Governor,,REP,Richard William Aguirre,0
-Lake,461,Governor,,IND,Robert Newman,0
 Lake,461,Governor,,REP,Tim Donnelly,3
 Lake,461,Insurance Commissioner,,DEM,Dave Jones,9
-Lake,461,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Lake,461,Insurance Commissioner,,REP,Ted Gaines,11
 Lake,461,Lieutenant Governor,,AME,Alan Reynolds,2
-Lake,461,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,461,Lieutenant Governor,,REP,David Fennell,2
 Lake,461,Lieutenant Governor,,DEM,Eric Korevaar,1
 Lake,461,Lieutenant Governor,,DEM,Gavin Newsom,10
-Lake,461,Lieutenant Governor,,REP,George Yang,0
-Lake,461,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lake,461,Lieutenant Governor,,REP,Ron Nehring,6
+Lake,461,Proposition 41,,,No,11
+Lake,461,Proposition 41,,,Yes,10
+Lake,461,Proposition 42,,,No,5
+Lake,461,Proposition 42,,,Yes,13
 Lake,461,Secretary of State,,DEM,Alex Padilla,5
 Lake,461,Secretary of State,,IND,Dan Schnur,3
-Lake,461,Secretary of State,,GRN,David Curtis,0
-Lake,461,Secretary of State,,DEM,Derek Cressman,0
 Lake,461,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Lake,461,Secretary of State,,DEM,Leland Yee,0
 Lake,461,Secretary of State,,REP,Pete Peterson,5
 Lake,461,Secretary of State,,REP,Roy Allmond,1
 Lake,461,State Assembly,4,DEM,Bill Dodd,3
@@ -3838,7 +3592,6 @@ Lake,461,State Assembly,4,DEM,Dan Wolk,2
 Lake,461,State Assembly,4,REP,Dustin Call,1
 Lake,461,State Assembly,4,DEM,Joe Krovoza,5
 Lake,461,State Senate,2,DEM,Derek Knell,1
-Lake,461,State Senate,2,IND,Harry V. Lehmann,0
 Lake,461,State Senate,2,REP,Lawrence R. Wiesner,11
 Lake,461,State Senate,2,DEM,Mike McGuire,8
 Lake,461,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
@@ -3847,14 +3600,11 @@ Lake,461,Superintendent of Public Instruction,,NOP,Tom Torlakson,10
 Lake,461,Treasurer,,GRN,Ellen H. Brown,2
 Lake,461,Treasurer,,REP,Greg Conlon,11
 Lake,461,Treasurer,,DEM,John Chiang,7
-Lake,461,U.S. House,5,IND,Douglas S. Van Raam,0
 Lake,461,U.S. House,5,IND,James Hinton,4
 Lake,461,U.S. House,5,DEM,Mike Thompson,16
 Lake,471,Attorney General,,REP,David King,1
 Lake,471,Attorney General,,REP,John Haggerty,3
-Lake,471,Attorney General,,LIB,Jonathan Jaech,0
 Lake,471,Attorney General,,DEM,Kamala D. Harris,13
-Lake,471,Attorney General,,IND,Orly Taitz,0
 Lake,471,Attorney General,,REP,Phil Wyman,1
 Lake,471,Attorney General,,REP,Ronald Gold,3
 Lake,471,Board of Equalization,2,DEM,Fiona Ma,14
@@ -3865,37 +3615,26 @@ Lake,471,Controller,,REP,David Evans,6
 Lake,471,Controller,,DEM,John A. Pérez,4
 Lake,471,Controller,,GRN,Laura Wells,3
 Lake,471,Controller,,DEM,Tammy D. Blair,1
-Lake,471,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Lake,471,Governor,,DEM,Akinyemi Agbede,0
 Lake,471,Governor,,REP,Alma Marie Winston,1
 Lake,471,Governor,,REP,Andrew Blount,2
-Lake,471,Governor,,PAF,Cindy L. Sheehan,0
 Lake,471,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Lake,471,Governor,,REP,Glenn Champ,1
-Lake,471,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,471,Governor,,IND,Joe Leicht,0
-Lake,471,Governor,,GRN,Luis J. Rodriguez,0
 Lake,471,Governor,,REP,Neel Kashkari,1
-Lake,471,Governor,,IND,Rakesh Kumar Christian,0
-Lake,471,Governor,,REP,Richard William Aguirre,0
-Lake,471,Governor,,IND,Robert Newman,0
 Lake,471,Governor,,REP,Tim Donnelly,2
 Lake,471,Insurance Commissioner,,DEM,Dave Jones,12
 Lake,471,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Lake,471,Insurance Commissioner,,REP,Ted Gaines,7
-Lake,471,Lieutenant Governor,,AME,Alan Reynolds,0
-Lake,471,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,471,Lieutenant Governor,,REP,David Fennell,2
 Lake,471,Lieutenant Governor,,DEM,Eric Korevaar,1
 Lake,471,Lieutenant Governor,,DEM,Gavin Newsom,12
-Lake,471,Lieutenant Governor,,REP,George Yang,0
-Lake,471,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lake,471,Lieutenant Governor,,REP,Ron Nehring,6
+Lake,471,Proposition 41,,,No,4
+Lake,471,Proposition 41,,,Yes,17
+Lake,471,Proposition 42,,,No,10
+Lake,471,Proposition 42,,,Yes,9
 Lake,471,Secretary of State,,DEM,Alex Padilla,7
 Lake,471,Secretary of State,,IND,Dan Schnur,1
-Lake,471,Secretary of State,,GRN,David Curtis,0
 Lake,471,Secretary of State,,DEM,Derek Cressman,2
-Lake,471,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Lake,471,Secretary of State,,DEM,Leland Yee,3
 Lake,471,Secretary of State,,REP,Pete Peterson,3
 Lake,471,Secretary of State,,REP,Roy Allmond,5
@@ -3905,7 +3644,6 @@ Lake,471,State Assembly,4,DEM,Dan Wolk,8
 Lake,471,State Assembly,4,REP,Dustin Call,2
 Lake,471,State Assembly,4,DEM,Joe Krovoza,1
 Lake,471,State Senate,2,DEM,Derek Knell,2
-Lake,471,State Senate,2,IND,Harry V. Lehmann,0
 Lake,471,State Senate,2,REP,Lawrence R. Wiesner,9
 Lake,471,State Senate,2,DEM,Mike McGuire,10
 Lake,471,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,4
@@ -3958,6 +3696,10 @@ Lake,520,Lieutenant Governor,,DEM,Gavin Newsom,139
 Lake,520,Lieutenant Governor,,REP,George Yang,14
 Lake,520,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Lake,520,Lieutenant Governor,,REP,Ron Nehring,51
+Lake,520,Proposition 41,,,No,89
+Lake,520,Proposition 41,,,Yes,181
+Lake,520,Proposition 42,,,No,101
+Lake,520,Proposition 42,,,Yes,157
 Lake,520,Secretary of State,,DEM,Alex Padilla,86
 Lake,520,Secretary of State,,IND,Dan Schnur,25
 Lake,520,Secretary of State,,GRN,David Curtis,19
@@ -4010,7 +3752,6 @@ Lake,521,Governor,,IND,Janel Hyeshia Buycks,3
 Lake,521,Governor,,IND,Joe Leicht,1
 Lake,521,Governor,,GRN,Luis J. Rodriguez,11
 Lake,521,Governor,,REP,Neel Kashkari,33
-Lake,521,Governor,,IND,Rakesh Kumar Christian,0
 Lake,521,Governor,,REP,Richard William Aguirre,1
 Lake,521,Governor,,IND,Robert Newman,7
 Lake,521,Governor,,REP,Tim Donnelly,37
@@ -4025,6 +3766,10 @@ Lake,521,Lieutenant Governor,,DEM,Gavin Newsom,131
 Lake,521,Lieutenant Governor,,REP,George Yang,16
 Lake,521,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Lake,521,Lieutenant Governor,,REP,Ron Nehring,53
+Lake,521,Proposition 41,,,No,95
+Lake,521,Proposition 41,,,Yes,184
+Lake,521,Proposition 42,,,No,120
+Lake,521,Proposition 42,,,Yes,140
 Lake,521,Secretary of State,,DEM,Alex Padilla,103
 Lake,521,Secretary of State,,IND,Dan Schnur,21
 Lake,521,Secretary of State,,GRN,David Curtis,18
@@ -4074,11 +3819,8 @@ Lake,522,Governor,,PAF,Cindy L. Sheehan,2
 Lake,522,Governor,,DEM,"Edmund G. ""Jerry"" Brown",216
 Lake,522,Governor,,REP,Glenn Champ,8
 Lake,522,Governor,,IND,Janel Hyeshia Buycks,2
-Lake,522,Governor,,IND,Joe Leicht,0
 Lake,522,Governor,,GRN,Luis J. Rodriguez,6
 Lake,522,Governor,,REP,Neel Kashkari,60
-Lake,522,Governor,,IND,Rakesh Kumar Christian,0
-Lake,522,Governor,,REP,Richard William Aguirre,0
 Lake,522,Governor,,IND,Robert Newman,14
 Lake,522,Governor,,REP,Tim Donnelly,46
 Lake,522,Insurance Commissioner,,DEM,Dave Jones,186
@@ -4092,6 +3834,10 @@ Lake,522,Lieutenant Governor,,DEM,Gavin Newsom,195
 Lake,522,Lieutenant Governor,,REP,George Yang,15
 Lake,522,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Lake,522,Lieutenant Governor,,REP,Ron Nehring,73
+Lake,522,Proposition 41,,,No,151
+Lake,522,Proposition 41,,,Yes,218
+Lake,522,Proposition 42,,,No,186
+Lake,522,Proposition 42,,,Yes,167
 Lake,522,Secretary of State,,DEM,Alex Padilla,127
 Lake,522,Secretary of State,,IND,Dan Schnur,25
 Lake,522,Secretary of State,,GRN,David Curtis,11
@@ -4144,7 +3890,6 @@ Lake,531,Governor,,IND,Janel Hyeshia Buycks,2
 Lake,531,Governor,,IND,Joe Leicht,1
 Lake,531,Governor,,GRN,Luis J. Rodriguez,7
 Lake,531,Governor,,REP,Neel Kashkari,28
-Lake,531,Governor,,IND,Rakesh Kumar Christian,0
 Lake,531,Governor,,REP,Richard William Aguirre,1
 Lake,531,Governor,,IND,Robert Newman,5
 Lake,531,Governor,,REP,Tim Donnelly,46
@@ -4159,6 +3904,10 @@ Lake,531,Lieutenant Governor,,DEM,Gavin Newsom,191
 Lake,531,Lieutenant Governor,,REP,George Yang,13
 Lake,531,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Lake,531,Lieutenant Governor,,REP,Ron Nehring,59
+Lake,531,Proposition 41,,,No,105
+Lake,531,Proposition 41,,,Yes,243
+Lake,531,Proposition 42,,,No,165
+Lake,531,Proposition 42,,,Yes,160
 Lake,531,Secretary of State,,DEM,Alex Padilla,119
 Lake,531,Secretary of State,,IND,Dan Schnur,32
 Lake,531,Secretary of State,,GRN,David Curtis,21
@@ -4207,7 +3956,6 @@ Lake,532,Governor,,REP,Andrew Blount,15
 Lake,532,Governor,,PAF,Cindy L. Sheehan,6
 Lake,532,Governor,,DEM,"Edmund G. ""Jerry"" Brown",154
 Lake,532,Governor,,REP,Glenn Champ,10
-Lake,532,Governor,,IND,Janel Hyeshia Buycks,0
 Lake,532,Governor,,IND,Joe Leicht,2
 Lake,532,Governor,,GRN,Luis J. Rodriguez,8
 Lake,532,Governor,,REP,Neel Kashkari,19
@@ -4226,6 +3974,10 @@ Lake,532,Lieutenant Governor,,DEM,Gavin Newsom,138
 Lake,532,Lieutenant Governor,,REP,George Yang,14
 Lake,532,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Lake,532,Lieutenant Governor,,REP,Ron Nehring,41
+Lake,532,Proposition 41,,,No,83
+Lake,532,Proposition 41,,,Yes,192
+Lake,532,Proposition 42,,,No,126
+Lake,532,Proposition 42,,,Yes,131
 Lake,532,Secretary of State,,DEM,Alex Padilla,79
 Lake,532,Secretary of State,,IND,Dan Schnur,29
 Lake,532,Secretary of State,,GRN,David Curtis,22
@@ -4279,7 +4031,6 @@ Lake,533,Governor,,IND,Joe Leicht,1
 Lake,533,Governor,,GRN,Luis J. Rodriguez,8
 Lake,533,Governor,,REP,Neel Kashkari,45
 Lake,533,Governor,,IND,Rakesh Kumar Christian,1
-Lake,533,Governor,,REP,Richard William Aguirre,0
 Lake,533,Governor,,IND,Robert Newman,12
 Lake,533,Governor,,REP,Tim Donnelly,58
 Lake,533,Insurance Commissioner,,DEM,Dave Jones,170
@@ -4293,6 +4044,10 @@ Lake,533,Lieutenant Governor,,DEM,Gavin Newsom,190
 Lake,533,Lieutenant Governor,,REP,George Yang,23
 Lake,533,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Lake,533,Lieutenant Governor,,REP,Ron Nehring,72
+Lake,533,Proposition 41,,,No,131
+Lake,533,Proposition 41,,,Yes,224
+Lake,533,Proposition 42,,,No,159
+Lake,533,Proposition 42,,,Yes,172
 Lake,533,Secretary of State,,DEM,Alex Padilla,121
 Lake,533,Secretary of State,,IND,Dan Schnur,22
 Lake,533,Secretary of State,,GRN,David Curtis,19
@@ -4341,11 +4096,8 @@ Lake,541,Governor,,REP,Andrew Blount,12
 Lake,541,Governor,,PAF,Cindy L. Sheehan,4
 Lake,541,Governor,,DEM,"Edmund G. ""Jerry"" Brown",210
 Lake,541,Governor,,REP,Glenn Champ,12
-Lake,541,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,541,Governor,,IND,Joe Leicht,0
 Lake,541,Governor,,GRN,Luis J. Rodriguez,3
 Lake,541,Governor,,REP,Neel Kashkari,88
-Lake,541,Governor,,IND,Rakesh Kumar Christian,0
 Lake,541,Governor,,REP,Richard William Aguirre,5
 Lake,541,Governor,,IND,Robert Newman,7
 Lake,541,Governor,,REP,Tim Donnelly,55
@@ -4360,6 +4112,10 @@ Lake,541,Lieutenant Governor,,DEM,Gavin Newsom,171
 Lake,541,Lieutenant Governor,,REP,George Yang,25
 Lake,541,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Lake,541,Lieutenant Governor,,REP,Ron Nehring,97
+Lake,541,Proposition 41,,,No,141
+Lake,541,Proposition 41,,,Yes,252
+Lake,541,Proposition 42,,,No,188
+Lake,541,Proposition 42,,,Yes,190
 Lake,541,Secretary of State,,DEM,Alex Padilla,100
 Lake,541,Secretary of State,,IND,Dan Schnur,42
 Lake,541,Secretary of State,,GRN,David Curtis,15
@@ -4401,20 +4157,12 @@ Lake,551,Controller,,REP,David Evans,11
 Lake,551,Controller,,DEM,John A. Pérez,17
 Lake,551,Controller,,GRN,Laura Wells,5
 Lake,551,Controller,,DEM,Tammy D. Blair,5
-Lake,551,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Lake,551,Governor,,DEM,Akinyemi Agbede,2
-Lake,551,Governor,,REP,Alma Marie Winston,0
 Lake,551,Governor,,REP,Andrew Blount,1
 Lake,551,Governor,,PAF,Cindy L. Sheehan,2
 Lake,551,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 Lake,551,Governor,,REP,Glenn Champ,1
-Lake,551,Governor,,IND,Janel Hyeshia Buycks,0
-Lake,551,Governor,,IND,Joe Leicht,0
-Lake,551,Governor,,GRN,Luis J. Rodriguez,0
 Lake,551,Governor,,REP,Neel Kashkari,16
-Lake,551,Governor,,IND,Rakesh Kumar Christian,0
-Lake,551,Governor,,REP,Richard William Aguirre,0
-Lake,551,Governor,,IND,Robert Newman,0
 Lake,551,Governor,,REP,Tim Donnelly,9
 Lake,551,Insurance Commissioner,,DEM,Dave Jones,47
 Lake,551,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -4425,8 +4173,11 @@ Lake,551,Lieutenant Governor,,REP,David Fennell,4
 Lake,551,Lieutenant Governor,,DEM,Eric Korevaar,5
 Lake,551,Lieutenant Governor,,DEM,Gavin Newsom,45
 Lake,551,Lieutenant Governor,,REP,George Yang,6
-Lake,551,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Lake,551,Lieutenant Governor,,REP,Ron Nehring,16
+Lake,551,Proposition 41,,,No,18
+Lake,551,Proposition 41,,,Yes,62
+Lake,551,Proposition 42,,,No,33
+Lake,551,Proposition 42,,,Yes,44
 Lake,551,Secretary of State,,DEM,Alex Padilla,32
 Lake,551,Secretary of State,,IND,Dan Schnur,15
 Lake,551,Secretary of State,,GRN,David Curtis,1
@@ -4434,7 +4185,6 @@ Lake,551,Secretary of State,,DEM,Derek Cressman,7
 Lake,551,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Lake,551,Secretary of State,,DEM,Leland Yee,2
 Lake,551,Secretary of State,,REP,Pete Peterson,18
-Lake,551,Secretary of State,,REP,Roy Allmond,0
 Lake,551,State Assembly,4,DEM,Bill Dodd,18
 Lake,551,State Assembly,4,REP,Charlie Schaupp,22
 Lake,551,State Assembly,4,DEM,Dan Wolk,12
@@ -4494,6 +4244,10 @@ Lake,561,Lieutenant Governor,,DEM,Gavin Newsom,160
 Lake,561,Lieutenant Governor,,REP,George Yang,17
 Lake,561,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Lake,561,Lieutenant Governor,,REP,Ron Nehring,73
+Lake,561,Proposition 41,,,No,125
+Lake,561,Proposition 41,,,Yes,210
+Lake,561,Proposition 42,,,No,135
+Lake,561,Proposition 42,,,Yes,177
 Lake,561,Secretary of State,,DEM,Alex Padilla,94
 Lake,561,Secretary of State,,IND,Dan Schnur,28
 Lake,561,Secretary of State,,GRN,David Curtis,29
@@ -4546,21 +4300,22 @@ Lake,571,Governor,,IND,Janel Hyeshia Buycks,2
 Lake,571,Governor,,IND,Joe Leicht,5
 Lake,571,Governor,,GRN,Luis J. Rodriguez,10
 Lake,571,Governor,,REP,Neel Kashkari,16
-Lake,571,Governor,,IND,Rakesh Kumar Christian,0
-Lake,571,Governor,,REP,Richard William Aguirre,0
 Lake,571,Governor,,IND,Robert Newman,2
 Lake,571,Governor,,REP,Tim Donnelly,42
 Lake,571,Insurance Commissioner,,DEM,Dave Jones,167
 Lake,571,Insurance Commissioner,,PAF,Nathalie Hrizi,18
 Lake,571,Insurance Commissioner,,REP,Ted Gaines,81
 Lake,571,Lieutenant Governor,,AME,Alan Reynolds,2
-Lake,571,Lieutenant Governor,,PAF,Amos Johnson,0
 Lake,571,Lieutenant Governor,,REP,David Fennell,24
 Lake,571,Lieutenant Governor,,DEM,Eric Korevaar,14
 Lake,571,Lieutenant Governor,,DEM,Gavin Newsom,191
 Lake,571,Lieutenant Governor,,REP,George Yang,15
 Lake,571,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Lake,571,Lieutenant Governor,,REP,Ron Nehring,35
+Lake,571,Proposition 41,,,No,94
+Lake,571,Proposition 41,,,Yes,200
+Lake,571,Proposition 42,,,No,109
+Lake,571,Proposition 42,,,Yes,166
 Lake,571,Secretary of State,,DEM,Alex Padilla,115
 Lake,571,Secretary of State,,IND,Dan Schnur,15
 Lake,571,Secretary of State,,GRN,David Curtis,18
@@ -4610,7 +4365,6 @@ Lake,581,Governor,,PAF,Cindy L. Sheehan,9
 Lake,581,Governor,,DEM,"Edmund G. ""Jerry"" Brown",254
 Lake,581,Governor,,REP,Glenn Champ,6
 Lake,581,Governor,,IND,Janel Hyeshia Buycks,2
-Lake,581,Governor,,IND,Joe Leicht,0
 Lake,581,Governor,,GRN,Luis J. Rodriguez,17
 Lake,581,Governor,,REP,Neel Kashkari,8
 Lake,581,Governor,,IND,Rakesh Kumar Christian,2
@@ -4628,6 +4382,10 @@ Lake,581,Lieutenant Governor,,DEM,Gavin Newsom,246
 Lake,581,Lieutenant Governor,,REP,George Yang,11
 Lake,581,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Lake,581,Lieutenant Governor,,REP,Ron Nehring,45
+Lake,581,Proposition 41,,,No,118
+Lake,581,Proposition 41,,,Yes,253
+Lake,581,Proposition 42,,,No,136
+Lake,581,Proposition 42,,,Yes,214
 Lake,581,Secretary of State,,DEM,Alex Padilla,122
 Lake,581,Secretary of State,,IND,Dan Schnur,12
 Lake,581,Secretary of State,,GRN,David Curtis,34

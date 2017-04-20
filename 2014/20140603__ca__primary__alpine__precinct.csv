@@ -16,23 +16,18 @@ Alpine,1,Controller,,GRN,Laura Wells,16
 Alpine,1,Controller,,DEM,Tammy D. Blair,6
 Alpine,1,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Alpine,1,Governor,,DEM,Akinyemi Agbede,3
-Alpine,1,Governor,,REP,Alma Marie Winston,0
 Alpine,1,Governor,,REP,Andrew Blount,5
 Alpine,1,Governor,,PAF,Cindy L. Sheehan,2
 Alpine,1,Governor,,DEM,"Edmund G. ""Jerry"" Brown",63
 Alpine,1,Governor,,REP,Glenn Champ,5
-Alpine,1,Governor,,IND,Janel Hyeshia Buycks,0
 Alpine,1,Governor,,IND,Joe Leicht,1
 Alpine,1,Governor,,GRN,Luis J. Rodriguez,5
 Alpine,1,Governor,,REP,Neel Kashkari,3
-Alpine,1,Governor,,IND,Rakesh Kumar Christian,0
-Alpine,1,Governor,,REP,Richard William Aguirre,0
 Alpine,1,Governor,,IND,Robert Newman,3
 Alpine,1,Governor,,REP,Tim Donnelly,25
 Alpine,1,Insurance Commissioner,,DEM,Dave Jones,52
 Alpine,1,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Alpine,1,Insurance Commissioner,,REP,Ted Gaines,49
-Alpine,1,Lieutenant Governor,,AME,Alan Reynolds,0
 Alpine,1,Lieutenant Governor,,PAF,Amos Johnson,1
 Alpine,1,Lieutenant Governor,,REP,David Fennell,6
 Alpine,1,Lieutenant Governor,,DEM,Eric Korevaar,2
@@ -40,6 +35,10 @@ Alpine,1,Lieutenant Governor,,DEM,Gavin Newsom,58
 Alpine,1,Lieutenant Governor,,REP,George Yang,6
 Alpine,1,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Alpine,1,Lieutenant Governor,,REP,Ron Nehring,33
+Alpine,1,Proposition 41,,,No,48
+Alpine,1,Proposition 41,,,Yes,62
+Alpine,1,Proposition 42,,,No,40
+Alpine,1,Proposition 42,,,Yes,56
 Alpine,1,Secretary of State,,DEM,Alex Padilla,27
 Alpine,1,Secretary of State,,IND,Dan Schnur,3
 Alpine,1,Secretary of State,,GRN,David Curtis,12
@@ -62,7 +61,6 @@ Alpine,2,Attorney General,,REP,David King,2
 Alpine,2,Attorney General,,REP,John Haggerty,7
 Alpine,2,Attorney General,,LIB,Jonathan Jaech,2
 Alpine,2,Attorney General,,DEM,Kamala D. Harris,68
-Alpine,2,Attorney General,,IND,Orly Taitz,0
 Alpine,2,Attorney General,,REP,Phil Wyman,9
 Alpine,2,Attorney General,,REP,Ronald Gold,6
 Alpine,2,Board of Equalization,1,DEM,Chris Parker,57
@@ -73,18 +71,12 @@ Alpine,2,Controller,,REP,David Evans,21
 Alpine,2,Controller,,DEM,John A. Pérez,20
 Alpine,2,Controller,,GRN,Laura Wells,13
 Alpine,2,Controller,,DEM,Tammy D. Blair,7
-Alpine,2,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Alpine,2,Governor,,DEM,Akinyemi Agbede,0
-Alpine,2,Governor,,REP,Alma Marie Winston,0
 Alpine,2,Governor,,REP,Andrew Blount,7
 Alpine,2,Governor,,PAF,Cindy L. Sheehan,2
 Alpine,2,Governor,,DEM,"Edmund G. ""Jerry"" Brown",69
 Alpine,2,Governor,,REP,Glenn Champ,3
-Alpine,2,Governor,,IND,Janel Hyeshia Buycks,0
-Alpine,2,Governor,,IND,Joe Leicht,0
 Alpine,2,Governor,,GRN,Luis J. Rodriguez,3
 Alpine,2,Governor,,REP,Neel Kashkari,6
-Alpine,2,Governor,,IND,Rakesh Kumar Christian,0
 Alpine,2,Governor,,REP,Richard William Aguirre,1
 Alpine,2,Governor,,IND,Robert Newman,2
 Alpine,2,Governor,,REP,Tim Donnelly,11
@@ -99,6 +91,10 @@ Alpine,2,Lieutenant Governor,,DEM,Gavin Newsom,61
 Alpine,2,Lieutenant Governor,,REP,George Yang,5
 Alpine,2,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Alpine,2,Lieutenant Governor,,REP,Ron Nehring,16
+Alpine,2,Proposition 41,,,No,31
+Alpine,2,Proposition 41,,,Yes,72
+Alpine,2,Proposition 42,,,No,41
+Alpine,2,Proposition 42,,,Yes,43
 Alpine,2,Secretary of State,,DEM,Alex Padilla,33
 Alpine,2,Secretary of State,,IND,Dan Schnur,4
 Alpine,2,Secretary of State,,GRN,David Curtis,6
@@ -130,21 +126,15 @@ Alpine,3,Controller,,REP,Ashley Swearengin,2
 Alpine,3,Controller,,DEM,Betty T. Yee,18
 Alpine,3,Controller,,REP,David Evans,12
 Alpine,3,Controller,,DEM,John A. Pérez,17
-Alpine,3,Controller,,GRN,Laura Wells,0
 Alpine,3,Controller,,DEM,Tammy D. Blair,10
-Alpine,3,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Alpine,3,Governor,,DEM,Akinyemi Agbede,1
-Alpine,3,Governor,,REP,Alma Marie Winston,0
 Alpine,3,Governor,,REP,Andrew Blount,3
 Alpine,3,Governor,,PAF,Cindy L. Sheehan,1
 Alpine,3,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Alpine,3,Governor,,REP,Glenn Champ,2
-Alpine,3,Governor,,IND,Janel Hyeshia Buycks,0
-Alpine,3,Governor,,IND,Joe Leicht,0
 Alpine,3,Governor,,GRN,Luis J. Rodriguez,2
 Alpine,3,Governor,,REP,Neel Kashkari,1
 Alpine,3,Governor,,IND,Rakesh Kumar Christian,1
-Alpine,3,Governor,,REP,Richard William Aguirre,0
 Alpine,3,Governor,,IND,Robert Newman,3
 Alpine,3,Governor,,REP,Tim Donnelly,7
 Alpine,3,Insurance Commissioner,,DEM,Dave Jones,43
@@ -156,11 +146,13 @@ Alpine,3,Lieutenant Governor,,REP,David Fennell,5
 Alpine,3,Lieutenant Governor,,DEM,Eric Korevaar,7
 Alpine,3,Lieutenant Governor,,DEM,Gavin Newsom,39
 Alpine,3,Lieutenant Governor,,REP,George Yang,4
-Alpine,3,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Alpine,3,Lieutenant Governor,,REP,Ron Nehring,7
+Alpine,3,Proposition 41,,,No,11
+Alpine,3,Proposition 41,,,Yes,55
+Alpine,3,Proposition 42,,,No,12
+Alpine,3,Proposition 42,,,Yes,34
 Alpine,3,Secretary of State,,DEM,Alex Padilla,19
 Alpine,3,Secretary of State,,IND,Dan Schnur,3
-Alpine,3,Secretary of State,,GRN,David Curtis,0
 Alpine,3,Secretary of State,,DEM,Derek Cressman,3
 Alpine,3,Secretary of State,,DEM,Jeffrey H. Drobman,7
 Alpine,3,Secretary of State,,DEM,Leland Yee,16
@@ -180,7 +172,6 @@ Alpine,4,Attorney General,,REP,David King,2
 Alpine,4,Attorney General,,REP,John Haggerty,5
 Alpine,4,Attorney General,,LIB,Jonathan Jaech,5
 Alpine,4,Attorney General,,DEM,Kamala D. Harris,55
-Alpine,4,Attorney General,,IND,Orly Taitz,0
 Alpine,4,Attorney General,,REP,Phil Wyman,12
 Alpine,4,Attorney General,,REP,Ronald Gold,12
 Alpine,4,Board of Equalization,1,DEM,Chris Parker,43
@@ -191,32 +182,29 @@ Alpine,4,Controller,,REP,David Evans,33
 Alpine,4,Controller,,DEM,John A. Pérez,11
 Alpine,4,Controller,,GRN,Laura Wells,8
 Alpine,4,Controller,,DEM,Tammy D. Blair,2
-Alpine,4,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Alpine,4,Governor,,DEM,Akinyemi Agbede,1
 Alpine,4,Governor,,REP,Alma Marie Winston,1
-Alpine,4,Governor,,REP,Andrew Blount,0
 Alpine,4,Governor,,PAF,Cindy L. Sheehan,1
 Alpine,4,Governor,,DEM,"Edmund G. ""Jerry"" Brown",60
 Alpine,4,Governor,,REP,Glenn Champ,1
-Alpine,4,Governor,,IND,Janel Hyeshia Buycks,0
 Alpine,4,Governor,,IND,Joe Leicht,1
 Alpine,4,Governor,,GRN,Luis J. Rodriguez,1
 Alpine,4,Governor,,REP,Neel Kashkari,14
-Alpine,4,Governor,,IND,Rakesh Kumar Christian,0
-Alpine,4,Governor,,REP,Richard William Aguirre,0
 Alpine,4,Governor,,IND,Robert Newman,1
 Alpine,4,Governor,,REP,Tim Donnelly,17
 Alpine,4,Insurance Commissioner,,DEM,Dave Jones,42
 Alpine,4,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Alpine,4,Insurance Commissioner,,REP,Ted Gaines,39
 Alpine,4,Lieutenant Governor,,AME,Alan Reynolds,1
-Alpine,4,Lieutenant Governor,,PAF,Amos Johnson,0
 Alpine,4,Lieutenant Governor,,REP,David Fennell,9
 Alpine,4,Lieutenant Governor,,DEM,Eric Korevaar,2
 Alpine,4,Lieutenant Governor,,DEM,Gavin Newsom,61
 Alpine,4,Lieutenant Governor,,REP,George Yang,6
-Alpine,4,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Alpine,4,Lieutenant Governor,,REP,Ron Nehring,15
+Alpine,4,Proposition 41,,,No,37
+Alpine,4,Proposition 41,,,Yes,59
+Alpine,4,Proposition 42,,,No,40
+Alpine,4,Proposition 42,,,Yes,36
 Alpine,4,Secretary of State,,DEM,Alex Padilla,19
 Alpine,4,Secretary of State,,IND,Dan Schnur,7
 Alpine,4,Secretary of State,,GRN,David Curtis,4
@@ -250,19 +238,13 @@ Alpine,5,Controller,,REP,David Evans,47
 Alpine,5,Controller,,DEM,John A. Pérez,6
 Alpine,5,Controller,,GRN,Laura Wells,13
 Alpine,5,Controller,,DEM,Tammy D. Blair,6
-Alpine,5,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Alpine,5,Governor,,DEM,Akinyemi Agbede,0
 Alpine,5,Governor,,REP,Alma Marie Winston,1
 Alpine,5,Governor,,REP,Andrew Blount,3
 Alpine,5,Governor,,PAF,Cindy L. Sheehan,4
 Alpine,5,Governor,,DEM,"Edmund G. ""Jerry"" Brown",53
 Alpine,5,Governor,,REP,Glenn Champ,5
-Alpine,5,Governor,,IND,Janel Hyeshia Buycks,0
-Alpine,5,Governor,,IND,Joe Leicht,0
 Alpine,5,Governor,,GRN,Luis J. Rodriguez,1
 Alpine,5,Governor,,REP,Neel Kashkari,15
-Alpine,5,Governor,,IND,Rakesh Kumar Christian,0
-Alpine,5,Governor,,REP,Richard William Aguirre,0
 Alpine,5,Governor,,IND,Robert Newman,3
 Alpine,5,Governor,,REP,Tim Donnelly,25
 Alpine,5,Insurance Commissioner,,DEM,Dave Jones,32
@@ -276,6 +258,10 @@ Alpine,5,Lieutenant Governor,,DEM,Gavin Newsom,42
 Alpine,5,Lieutenant Governor,,REP,George Yang,8
 Alpine,5,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Alpine,5,Lieutenant Governor,,REP,Ron Nehring,29
+Alpine,5,Proposition 41,,,No,53
+Alpine,5,Proposition 41,,,Yes,53
+Alpine,5,Proposition 42,,,No,59
+Alpine,5,Proposition 42,,,Yes,33
 Alpine,5,Secretary of State,,DEM,Alex Padilla,17
 Alpine,5,Secretary of State,,IND,Dan Schnur,3
 Alpine,5,Secretary of State,,GRN,David Curtis,4

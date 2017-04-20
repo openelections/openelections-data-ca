@@ -16,17 +16,14 @@ Yuba,1001,Controller,,GRN,Laura Wells,10
 Yuba,1001,Controller,,DEM,Tammy D. Blair,20
 Yuba,1001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Yuba,1001,Governor,,DEM,Akinyemi Agbede,1
-Yuba,1001,Governor,,REP,Alma Marie Winston,0
 Yuba,1001,Governor,,REP,Andrew Blount,3
 Yuba,1001,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,1001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",90
 Yuba,1001,Governor,,REP,Glenn Champ,2
-Yuba,1001,Governor,,IND,Janel Hyeshia Buycks,0
 Yuba,1001,Governor,,IND,Joe Leicht,1
 Yuba,1001,Governor,,GRN,Luis J. Rodriguez,3
 Yuba,1001,Governor,,REP,Neel Kashkari,36
 Yuba,1001,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,1001,Governor,,REP,Richard William Aguirre,0
 Yuba,1001,Governor,,IND,Robert Newman,1
 Yuba,1001,Governor,,REP,Tim Donnelly,35
 Yuba,1001,Insurance Commissioner,,DEM,Dave Jones,82
@@ -40,6 +37,10 @@ Yuba,1001,Lieutenant Governor,,DEM,Gavin Newsom,43
 Yuba,1001,Lieutenant Governor,,REP,George Yang,20
 Yuba,1001,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Yuba,1001,Lieutenant Governor,,REP,Ron Nehring,35
+Yuba,1001,Proposition 41,,,No,41
+Yuba,1001,Proposition 41,,,Yes,135
+Yuba,1001,Proposition 42,,,No,57
+Yuba,1001,Proposition 42,,,Yes,119
 Yuba,1001,Secretary of State,,DEM,Alex Padilla,41
 Yuba,1001,Secretary of State,,IND,Dan Schnur,14
 Yuba,1001,Secretary of State,,GRN,David Curtis,13
@@ -76,19 +77,15 @@ Yuba,1002,Controller,,REP,David Evans,41
 Yuba,1002,Controller,,DEM,John A. Pérez,25
 Yuba,1002,Controller,,GRN,Laura Wells,8
 Yuba,1002,Controller,,DEM,Tammy D. Blair,10
-Yuba,1002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,1002,Governor,,DEM,Akinyemi Agbede,1
 Yuba,1002,Governor,,REP,Alma Marie Winston,1
 Yuba,1002,Governor,,REP,Andrew Blount,7
 Yuba,1002,Governor,,PAF,Cindy L. Sheehan,4
 Yuba,1002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 Yuba,1002,Governor,,REP,Glenn Champ,5
-Yuba,1002,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,1002,Governor,,IND,Joe Leicht,0
 Yuba,1002,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,1002,Governor,,REP,Neel Kashkari,30
 Yuba,1002,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,1002,Governor,,REP,Richard William Aguirre,0
 Yuba,1002,Governor,,IND,Robert Newman,4
 Yuba,1002,Governor,,REP,Tim Donnelly,35
 Yuba,1002,Insurance Commissioner,,DEM,Dave Jones,74
@@ -102,6 +99,10 @@ Yuba,1002,Lieutenant Governor,,DEM,Gavin Newsom,61
 Yuba,1002,Lieutenant Governor,,REP,George Yang,9
 Yuba,1002,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Yuba,1002,Lieutenant Governor,,REP,Ron Nehring,39
+Yuba,1002,Proposition 41,,,No,68
+Yuba,1002,Proposition 41,,,Yes,100
+Yuba,1002,Proposition 42,,,No,70
+Yuba,1002,Proposition 42,,,Yes,95
 Yuba,1002,Secretary of State,,DEM,Alex Padilla,44
 Yuba,1002,Secretary of State,,IND,Dan Schnur,11
 Yuba,1002,Secretary of State,,GRN,David Curtis,4
@@ -138,19 +139,14 @@ Yuba,1003,Controller,,REP,David Evans,31
 Yuba,1003,Controller,,DEM,John A. Pérez,16
 Yuba,1003,Controller,,GRN,Laura Wells,7
 Yuba,1003,Controller,,DEM,Tammy D. Blair,5
-Yuba,1003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,1003,Governor,,DEM,Akinyemi Agbede,0
-Yuba,1003,Governor,,REP,Alma Marie Winston,0
 Yuba,1003,Governor,,REP,Andrew Blount,1
 Yuba,1003,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,1003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Yuba,1003,Governor,,REP,Glenn Champ,4
 Yuba,1003,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,1003,Governor,,IND,Joe Leicht,0
 Yuba,1003,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,1003,Governor,,REP,Neel Kashkari,21
 Yuba,1003,Governor,,IND,Rakesh Kumar Christian,2
-Yuba,1003,Governor,,REP,Richard William Aguirre,0
 Yuba,1003,Governor,,IND,Robert Newman,1
 Yuba,1003,Governor,,REP,Tim Donnelly,16
 Yuba,1003,Insurance Commissioner,,DEM,Dave Jones,24
@@ -164,6 +160,10 @@ Yuba,1003,Lieutenant Governor,,DEM,Gavin Newsom,23
 Yuba,1003,Lieutenant Governor,,REP,George Yang,13
 Yuba,1003,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,1003,Lieutenant Governor,,REP,Ron Nehring,17
+Yuba,1003,Proposition 41,,,No,21
+Yuba,1003,Proposition 41,,,Yes,60
+Yuba,1003,Proposition 42,,,No,31
+Yuba,1003,Proposition 42,,,Yes,50
 Yuba,1003,Secretary of State,,DEM,Alex Padilla,18
 Yuba,1003,Secretary of State,,IND,Dan Schnur,13
 Yuba,1003,Secretary of State,,GRN,David Curtis,6
@@ -200,7 +200,6 @@ Yuba,1004,Controller,,REP,David Evans,52
 Yuba,1004,Controller,,DEM,John A. Pérez,15
 Yuba,1004,Controller,,GRN,Laura Wells,8
 Yuba,1004,Controller,,DEM,Tammy D. Blair,26
-Yuba,1004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,1004,Governor,,DEM,Akinyemi Agbede,2
 Yuba,1004,Governor,,REP,Alma Marie Winston,6
 Yuba,1004,Governor,,REP,Andrew Blount,8
@@ -226,6 +225,10 @@ Yuba,1004,Lieutenant Governor,,DEM,Gavin Newsom,39
 Yuba,1004,Lieutenant Governor,,REP,George Yang,13
 Yuba,1004,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Yuba,1004,Lieutenant Governor,,REP,Ron Nehring,51
+Yuba,1004,Proposition 41,,,No,71
+Yuba,1004,Proposition 41,,,Yes,121
+Yuba,1004,Proposition 42,,,No,79
+Yuba,1004,Proposition 42,,,Yes,110
 Yuba,1004,Secretary of State,,DEM,Alex Padilla,48
 Yuba,1004,Secretary of State,,IND,Dan Schnur,35
 Yuba,1004,Secretary of State,,GRN,David Curtis,3
@@ -249,7 +252,6 @@ Yuba,1004,U.S. House,3,REP,Dan Logue,120
 Yuba,1004,U.S. House,3,DEM,John Garamendi,69
 Yuba,1005,Attorney General,,REP,David King,6
 Yuba,1005,Attorney General,,REP,John Haggerty,13
-Yuba,1005,Attorney General,,LIB,Jonathan Jaech,0
 Yuba,1005,Attorney General,,DEM,Kamala D. Harris,31
 Yuba,1005,Attorney General,,IND,Orly Taitz,5
 Yuba,1005,Attorney General,,REP,Phil Wyman,10
@@ -262,16 +264,12 @@ Yuba,1005,Controller,,REP,David Evans,20
 Yuba,1005,Controller,,DEM,John A. Pérez,14
 Yuba,1005,Controller,,GRN,Laura Wells,2
 Yuba,1005,Controller,,DEM,Tammy D. Blair,11
-Yuba,1005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,1005,Governor,,DEM,Akinyemi Agbede,2
 Yuba,1005,Governor,,REP,Alma Marie Winston,1
 Yuba,1005,Governor,,REP,Andrew Blount,7
 Yuba,1005,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,1005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Yuba,1005,Governor,,REP,Glenn Champ,2
-Yuba,1005,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,1005,Governor,,IND,Joe Leicht,0
-Yuba,1005,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,1005,Governor,,REP,Neel Kashkari,11
 Yuba,1005,Governor,,IND,Rakesh Kumar Christian,1
 Yuba,1005,Governor,,REP,Richard William Aguirre,2
@@ -288,6 +286,10 @@ Yuba,1005,Lieutenant Governor,,DEM,Gavin Newsom,26
 Yuba,1005,Lieutenant Governor,,REP,George Yang,3
 Yuba,1005,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Yuba,1005,Lieutenant Governor,,REP,Ron Nehring,18
+Yuba,1005,Proposition 41,,,No,19
+Yuba,1005,Proposition 41,,,Yes,60
+Yuba,1005,Proposition 42,,,No,36
+Yuba,1005,Proposition 42,,,Yes,42
 Yuba,1005,Secretary of State,,DEM,Alex Padilla,21
 Yuba,1005,Secretary of State,,IND,Dan Schnur,6
 Yuba,1005,Secretary of State,,GRN,David Curtis,4
@@ -331,11 +333,8 @@ Yuba,1006,Governor,,REP,Andrew Blount,4
 Yuba,1006,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,1006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 Yuba,1006,Governor,,REP,Glenn Champ,2
-Yuba,1006,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,1006,Governor,,IND,Joe Leicht,0
 Yuba,1006,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,1006,Governor,,REP,Neel Kashkari,51
-Yuba,1006,Governor,,IND,Rakesh Kumar Christian,0
 Yuba,1006,Governor,,REP,Richard William Aguirre,1
 Yuba,1006,Governor,,IND,Robert Newman,1
 Yuba,1006,Governor,,REP,Tim Donnelly,33
@@ -350,6 +349,10 @@ Yuba,1006,Lieutenant Governor,,DEM,Gavin Newsom,57
 Yuba,1006,Lieutenant Governor,,REP,George Yang,14
 Yuba,1006,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,1006,Lieutenant Governor,,REP,Ron Nehring,36
+Yuba,1006,Proposition 41,,,No,59
+Yuba,1006,Proposition 41,,,Yes,121
+Yuba,1006,Proposition 42,,,No,83
+Yuba,1006,Proposition 42,,,Yes,92
 Yuba,1006,Secretary of State,,DEM,Alex Padilla,45
 Yuba,1006,Secretary of State,,IND,Dan Schnur,19
 Yuba,1006,Secretary of State,,GRN,David Curtis,2
@@ -386,19 +389,14 @@ Yuba,1007,Controller,,REP,David Evans,52
 Yuba,1007,Controller,,DEM,John A. Pérez,33
 Yuba,1007,Controller,,GRN,Laura Wells,8
 Yuba,1007,Controller,,DEM,Tammy D. Blair,10
-Yuba,1007,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,1007,Governor,,DEM,Akinyemi Agbede,1
-Yuba,1007,Governor,,REP,Alma Marie Winston,0
 Yuba,1007,Governor,,REP,Andrew Blount,6
 Yuba,1007,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,1007,Governor,,DEM,"Edmund G. ""Jerry"" Brown",80
 Yuba,1007,Governor,,REP,Glenn Champ,3
 Yuba,1007,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,1007,Governor,,IND,Joe Leicht,0
 Yuba,1007,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,1007,Governor,,REP,Neel Kashkari,74
-Yuba,1007,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,1007,Governor,,REP,Richard William Aguirre,0
 Yuba,1007,Governor,,IND,Robert Newman,1
 Yuba,1007,Governor,,REP,Tim Donnelly,51
 Yuba,1007,Insurance Commissioner,,DEM,Dave Jones,76
@@ -412,6 +410,10 @@ Yuba,1007,Lieutenant Governor,,DEM,Gavin Newsom,59
 Yuba,1007,Lieutenant Governor,,REP,George Yang,17
 Yuba,1007,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Yuba,1007,Lieutenant Governor,,REP,Ron Nehring,71
+Yuba,1007,Proposition 41,,,No,90
+Yuba,1007,Proposition 41,,,Yes,132
+Yuba,1007,Proposition 42,,,No,101
+Yuba,1007,Proposition 42,,,Yes,116
 Yuba,1007,Secretary of State,,DEM,Alex Padilla,45
 Yuba,1007,Secretary of State,,IND,Dan Schnur,32
 Yuba,1007,Secretary of State,,GRN,David Curtis,6
@@ -456,10 +458,7 @@ Yuba,2001,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,2001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",87
 Yuba,2001,Governor,,REP,Glenn Champ,2
 Yuba,2001,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,2001,Governor,,IND,Joe Leicht,0
-Yuba,2001,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,2001,Governor,,REP,Neel Kashkari,63
-Yuba,2001,Governor,,IND,Rakesh Kumar Christian,0
 Yuba,2001,Governor,,REP,Richard William Aguirre,2
 Yuba,2001,Governor,,IND,Robert Newman,3
 Yuba,2001,Governor,,REP,Tim Donnelly,49
@@ -474,6 +473,10 @@ Yuba,2001,Lieutenant Governor,,DEM,Gavin Newsom,71
 Yuba,2001,Lieutenant Governor,,REP,George Yang,12
 Yuba,2001,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,2001,Lieutenant Governor,,REP,Ron Nehring,62
+Yuba,2001,Proposition 41,,,No,90
+Yuba,2001,Proposition 41,,,Yes,123
+Yuba,2001,Proposition 42,,,No,106
+Yuba,2001,Proposition 42,,,Yes,103
 Yuba,2001,Secretary of State,,DEM,Alex Padilla,49
 Yuba,2001,Secretary of State,,IND,Dan Schnur,25
 Yuba,2001,Secretary of State,,GRN,David Curtis,2
@@ -510,15 +513,11 @@ Yuba,2002,Controller,,REP,David Evans,66
 Yuba,2002,Controller,,DEM,John A. Pérez,51
 Yuba,2002,Controller,,GRN,Laura Wells,11
 Yuba,2002,Controller,,DEM,Tammy D. Blair,19
-Yuba,2002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,2002,Governor,,DEM,Akinyemi Agbede,0
 Yuba,2002,Governor,,REP,Alma Marie Winston,3
 Yuba,2002,Governor,,REP,Andrew Blount,7
-Yuba,2002,Governor,,PAF,Cindy L. Sheehan,0
 Yuba,2002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Yuba,2002,Governor,,REP,Glenn Champ,8
 Yuba,2002,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,2002,Governor,,IND,Joe Leicht,0
 Yuba,2002,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,2002,Governor,,REP,Neel Kashkari,73
 Yuba,2002,Governor,,IND,Rakesh Kumar Christian,3
@@ -536,6 +535,10 @@ Yuba,2002,Lieutenant Governor,,DEM,Gavin Newsom,88
 Yuba,2002,Lieutenant Governor,,REP,George Yang,23
 Yuba,2002,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Yuba,2002,Lieutenant Governor,,REP,Ron Nehring,59
+Yuba,2002,Proposition 41,,,No,98
+Yuba,2002,Proposition 41,,,Yes,155
+Yuba,2002,Proposition 42,,,No,128
+Yuba,2002,Proposition 42,,,Yes,120
 Yuba,2002,Secretary of State,,DEM,Alex Padilla,59
 Yuba,2002,Secretary of State,,IND,Dan Schnur,39
 Yuba,2002,Secretary of State,,GRN,David Curtis,6
@@ -580,11 +583,9 @@ Yuba,2003,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,2003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",89
 Yuba,2003,Governor,,REP,Glenn Champ,2
 Yuba,2003,Governor,,IND,Janel Hyeshia Buycks,4
-Yuba,2003,Governor,,IND,Joe Leicht,0
 Yuba,2003,Governor,,GRN,Luis J. Rodriguez,4
 Yuba,2003,Governor,,REP,Neel Kashkari,61
 Yuba,2003,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,2003,Governor,,REP,Richard William Aguirre,0
 Yuba,2003,Governor,,IND,Robert Newman,6
 Yuba,2003,Governor,,REP,Tim Donnelly,38
 Yuba,2003,Insurance Commissioner,,DEM,Dave Jones,93
@@ -598,6 +599,10 @@ Yuba,2003,Lieutenant Governor,,DEM,Gavin Newsom,71
 Yuba,2003,Lieutenant Governor,,REP,George Yang,21
 Yuba,2003,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Yuba,2003,Lieutenant Governor,,REP,Ron Nehring,57
+Yuba,2003,Proposition 41,,,No,88
+Yuba,2003,Proposition 41,,,Yes,127
+Yuba,2003,Proposition 42,,,No,112
+Yuba,2003,Proposition 42,,,Yes,104
 Yuba,2003,Secretary of State,,DEM,Alex Padilla,64
 Yuba,2003,Secretary of State,,IND,Dan Schnur,19
 Yuba,2003,Secretary of State,,GRN,David Curtis,9
@@ -634,19 +639,14 @@ Yuba,2004,Controller,,REP,David Evans,54
 Yuba,2004,Controller,,DEM,John A. Pérez,34
 Yuba,2004,Controller,,GRN,Laura Wells,5
 Yuba,2004,Controller,,DEM,Tammy D. Blair,15
-Yuba,2004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,2004,Governor,,DEM,Akinyemi Agbede,0
 Yuba,2004,Governor,,REP,Alma Marie Winston,2
 Yuba,2004,Governor,,REP,Andrew Blount,9
 Yuba,2004,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,2004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Yuba,2004,Governor,,REP,Glenn Champ,4
-Yuba,2004,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,2004,Governor,,IND,Joe Leicht,0
 Yuba,2004,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,2004,Governor,,REP,Neel Kashkari,64
 Yuba,2004,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,2004,Governor,,REP,Richard William Aguirre,0
 Yuba,2004,Governor,,IND,Robert Newman,1
 Yuba,2004,Governor,,REP,Tim Donnelly,36
 Yuba,2004,Insurance Commissioner,,DEM,Dave Jones,73
@@ -660,6 +660,10 @@ Yuba,2004,Lieutenant Governor,,DEM,Gavin Newsom,72
 Yuba,2004,Lieutenant Governor,,REP,George Yang,18
 Yuba,2004,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,2004,Lieutenant Governor,,REP,Ron Nehring,55
+Yuba,2004,Proposition 41,,,No,93
+Yuba,2004,Proposition 41,,,Yes,118
+Yuba,2004,Proposition 42,,,No,108
+Yuba,2004,Proposition 42,,,Yes,97
 Yuba,2004,Secretary of State,,DEM,Alex Padilla,52
 Yuba,2004,Secretary of State,,IND,Dan Schnur,42
 Yuba,2004,Secretary of State,,GRN,David Curtis,3
@@ -696,19 +700,14 @@ Yuba,2005,Controller,,REP,David Evans,43
 Yuba,2005,Controller,,DEM,John A. Pérez,39
 Yuba,2005,Controller,,GRN,Laura Wells,9
 Yuba,2005,Controller,,DEM,Tammy D. Blair,25
-Yuba,2005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,2005,Governor,,DEM,Akinyemi Agbede,3
-Yuba,2005,Governor,,REP,Alma Marie Winston,0
 Yuba,2005,Governor,,REP,Andrew Blount,2
 Yuba,2005,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,2005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",104
 Yuba,2005,Governor,,REP,Glenn Champ,4
-Yuba,2005,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,2005,Governor,,IND,Joe Leicht,0
 Yuba,2005,Governor,,GRN,Luis J. Rodriguez,4
 Yuba,2005,Governor,,REP,Neel Kashkari,34
 Yuba,2005,Governor,,IND,Rakesh Kumar Christian,2
-Yuba,2005,Governor,,REP,Richard William Aguirre,0
 Yuba,2005,Governor,,IND,Robert Newman,1
 Yuba,2005,Governor,,REP,Tim Donnelly,33
 Yuba,2005,Insurance Commissioner,,DEM,Dave Jones,98
@@ -722,6 +721,10 @@ Yuba,2005,Lieutenant Governor,,DEM,Gavin Newsom,86
 Yuba,2005,Lieutenant Governor,,REP,George Yang,15
 Yuba,2005,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Yuba,2005,Lieutenant Governor,,REP,Ron Nehring,33
+Yuba,2005,Proposition 41,,,No,60
+Yuba,2005,Proposition 41,,,Yes,123
+Yuba,2005,Proposition 42,,,No,89
+Yuba,2005,Proposition 42,,,Yes,88
 Yuba,2005,Secretary of State,,DEM,Alex Padilla,56
 Yuba,2005,Secretary of State,,IND,Dan Schnur,8
 Yuba,2005,Secretary of State,,GRN,David Curtis,7
@@ -758,19 +761,15 @@ Yuba,2006,Controller,,REP,David Evans,47
 Yuba,2006,Controller,,DEM,John A. Pérez,19
 Yuba,2006,Controller,,GRN,Laura Wells,9
 Yuba,2006,Controller,,DEM,Tammy D. Blair,9
-Yuba,2006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,2006,Governor,,DEM,Akinyemi Agbede,1
-Yuba,2006,Governor,,REP,Alma Marie Winston,0
 Yuba,2006,Governor,,REP,Andrew Blount,4
 Yuba,2006,Governor,,PAF,Cindy L. Sheehan,5
 Yuba,2006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 Yuba,2006,Governor,,REP,Glenn Champ,1
 Yuba,2006,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,2006,Governor,,IND,Joe Leicht,0
 Yuba,2006,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,2006,Governor,,REP,Neel Kashkari,34
 Yuba,2006,Governor,,IND,Rakesh Kumar Christian,3
-Yuba,2006,Governor,,REP,Richard William Aguirre,0
 Yuba,2006,Governor,,IND,Robert Newman,1
 Yuba,2006,Governor,,REP,Tim Donnelly,31
 Yuba,2006,Insurance Commissioner,,DEM,Dave Jones,46
@@ -784,6 +783,10 @@ Yuba,2006,Lieutenant Governor,,DEM,Gavin Newsom,22
 Yuba,2006,Lieutenant Governor,,REP,George Yang,13
 Yuba,2006,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,2006,Lieutenant Governor,,REP,Ron Nehring,36
+Yuba,2006,Proposition 41,,,No,40
+Yuba,2006,Proposition 41,,,Yes,92
+Yuba,2006,Proposition 42,,,No,58
+Yuba,2006,Proposition 42,,,Yes,70
 Yuba,2006,Secretary of State,,DEM,Alex Padilla,32
 Yuba,2006,Secretary of State,,IND,Dan Schnur,18
 Yuba,2006,Secretary of State,,GRN,David Curtis,5
@@ -821,19 +824,14 @@ Yuba,2007,Controller,,DEM,John A. Pérez,30
 Yuba,2007,Controller,,GRN,Laura Wells,11
 Yuba,2007,Controller,,DEM,Tammy D. Blair,27
 Yuba,2007,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Yuba,2007,Governor,,DEM,Akinyemi Agbede,0
 Yuba,2007,Governor,,REP,Alma Marie Winston,3
 Yuba,2007,Governor,,REP,Andrew Blount,8
 Yuba,2007,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,2007,Governor,,DEM,"Edmund G. ""Jerry"" Brown",94
 Yuba,2007,Governor,,REP,Glenn Champ,2
-Yuba,2007,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,2007,Governor,,IND,Joe Leicht,0
 Yuba,2007,Governor,,GRN,Luis J. Rodriguez,4
 Yuba,2007,Governor,,REP,Neel Kashkari,41
 Yuba,2007,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,2007,Governor,,REP,Richard William Aguirre,0
-Yuba,2007,Governor,,IND,Robert Newman,0
 Yuba,2007,Governor,,REP,Tim Donnelly,36
 Yuba,2007,Insurance Commissioner,,DEM,Dave Jones,83
 Yuba,2007,Insurance Commissioner,,PAF,Nathalie Hrizi,9
@@ -846,6 +844,10 @@ Yuba,2007,Lieutenant Governor,,DEM,Gavin Newsom,63
 Yuba,2007,Lieutenant Governor,,REP,George Yang,17
 Yuba,2007,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Yuba,2007,Lieutenant Governor,,REP,Ron Nehring,45
+Yuba,2007,Proposition 41,,,No,71
+Yuba,2007,Proposition 41,,,Yes,117
+Yuba,2007,Proposition 42,,,No,76
+Yuba,2007,Proposition 42,,,Yes,104
 Yuba,2007,Secretary of State,,DEM,Alex Padilla,51
 Yuba,2007,Secretary of State,,IND,Dan Schnur,22
 Yuba,2007,Secretary of State,,GRN,David Curtis,9
@@ -884,16 +886,13 @@ Yuba,3001,Controller,,GRN,Laura Wells,15
 Yuba,3001,Controller,,DEM,Tammy D. Blair,23
 Yuba,3001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Yuba,3001,Governor,,DEM,Akinyemi Agbede,2
-Yuba,3001,Governor,,REP,Alma Marie Winston,0
 Yuba,3001,Governor,,REP,Andrew Blount,6
 Yuba,3001,Governor,,PAF,Cindy L. Sheehan,5
 Yuba,3001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",62
 Yuba,3001,Governor,,REP,Glenn Champ,2
 Yuba,3001,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,3001,Governor,,IND,Joe Leicht,0
 Yuba,3001,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,3001,Governor,,REP,Neel Kashkari,49
-Yuba,3001,Governor,,IND,Rakesh Kumar Christian,0
 Yuba,3001,Governor,,REP,Richard William Aguirre,1
 Yuba,3001,Governor,,IND,Robert Newman,3
 Yuba,3001,Governor,,REP,Tim Donnelly,21
@@ -908,6 +907,10 @@ Yuba,3001,Lieutenant Governor,,DEM,Gavin Newsom,38
 Yuba,3001,Lieutenant Governor,,REP,George Yang,18
 Yuba,3001,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,3001,Lieutenant Governor,,REP,Ron Nehring,38
+Yuba,3001,Proposition 41,,,No,60
+Yuba,3001,Proposition 41,,,Yes,94
+Yuba,3001,Proposition 42,,,No,74
+Yuba,3001,Proposition 42,,,Yes,79
 Yuba,3001,Secretary of State,,DEM,Alex Padilla,39
 Yuba,3001,Secretary of State,,IND,Dan Schnur,15
 Yuba,3001,Secretary of State,,GRN,David Curtis,8
@@ -944,15 +947,12 @@ Yuba,3002,Controller,,REP,David Evans,34
 Yuba,3002,Controller,,DEM,John A. Pérez,17
 Yuba,3002,Controller,,GRN,Laura Wells,9
 Yuba,3002,Controller,,DEM,Tammy D. Blair,13
-Yuba,3002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,3002,Governor,,DEM,Akinyemi Agbede,3
 Yuba,3002,Governor,,REP,Alma Marie Winston,2
 Yuba,3002,Governor,,REP,Andrew Blount,6
 Yuba,3002,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,3002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",53
 Yuba,3002,Governor,,REP,Glenn Champ,3
-Yuba,3002,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,3002,Governor,,IND,Joe Leicht,0
 Yuba,3002,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,3002,Governor,,REP,Neel Kashkari,30
 Yuba,3002,Governor,,IND,Rakesh Kumar Christian,2
@@ -970,6 +970,10 @@ Yuba,3002,Lieutenant Governor,,DEM,Gavin Newsom,36
 Yuba,3002,Lieutenant Governor,,REP,George Yang,6
 Yuba,3002,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,3002,Lieutenant Governor,,REP,Ron Nehring,24
+Yuba,3002,Proposition 41,,,No,38
+Yuba,3002,Proposition 41,,,Yes,83
+Yuba,3002,Proposition 42,,,No,50
+Yuba,3002,Proposition 42,,,Yes,72
 Yuba,3002,Secretary of State,,DEM,Alex Padilla,28
 Yuba,3002,Secretary of State,,IND,Dan Schnur,9
 Yuba,3002,Secretary of State,,GRN,David Curtis,8
@@ -1006,20 +1010,14 @@ Yuba,3003,Controller,,REP,David Evans,54
 Yuba,3003,Controller,,DEM,John A. Pérez,24
 Yuba,3003,Controller,,GRN,Laura Wells,12
 Yuba,3003,Controller,,DEM,Tammy D. Blair,17
-Yuba,3003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,3003,Governor,,DEM,Akinyemi Agbede,1
-Yuba,3003,Governor,,REP,Alma Marie Winston,0
 Yuba,3003,Governor,,REP,Andrew Blount,7
 Yuba,3003,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,3003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",65
 Yuba,3003,Governor,,REP,Glenn Champ,4
-Yuba,3003,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,3003,Governor,,IND,Joe Leicht,0
 Yuba,3003,Governor,,GRN,Luis J. Rodriguez,5
 Yuba,3003,Governor,,REP,Neel Kashkari,42
 Yuba,3003,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,3003,Governor,,REP,Richard William Aguirre,0
-Yuba,3003,Governor,,IND,Robert Newman,0
 Yuba,3003,Governor,,REP,Tim Donnelly,43
 Yuba,3003,Insurance Commissioner,,DEM,Dave Jones,57
 Yuba,3003,Insurance Commissioner,,PAF,Nathalie Hrizi,12
@@ -1032,6 +1030,10 @@ Yuba,3003,Lieutenant Governor,,DEM,Gavin Newsom,40
 Yuba,3003,Lieutenant Governor,,REP,George Yang,27
 Yuba,3003,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,3003,Lieutenant Governor,,REP,Ron Nehring,46
+Yuba,3003,Proposition 41,,,No,71
+Yuba,3003,Proposition 41,,,Yes,102
+Yuba,3003,Proposition 42,,,No,74
+Yuba,3003,Proposition 42,,,Yes,98
 Yuba,3003,Secretary of State,,DEM,Alex Padilla,35
 Yuba,3003,Secretary of State,,IND,Dan Schnur,17
 Yuba,3003,Secretary of State,,GRN,David Curtis,8
@@ -1068,7 +1070,6 @@ Yuba,3004,Controller,,REP,David Evans,38
 Yuba,3004,Controller,,DEM,John A. Pérez,26
 Yuba,3004,Controller,,GRN,Laura Wells,16
 Yuba,3004,Controller,,DEM,Tammy D. Blair,18
-Yuba,3004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,3004,Governor,,DEM,Akinyemi Agbede,3
 Yuba,3004,Governor,,REP,Alma Marie Winston,2
 Yuba,3004,Governor,,REP,Andrew Blount,3
@@ -1076,7 +1077,6 @@ Yuba,3004,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,3004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Yuba,3004,Governor,,REP,Glenn Champ,3
 Yuba,3004,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,3004,Governor,,IND,Joe Leicht,0
 Yuba,3004,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,3004,Governor,,REP,Neel Kashkari,29
 Yuba,3004,Governor,,IND,Rakesh Kumar Christian,1
@@ -1094,6 +1094,10 @@ Yuba,3004,Lieutenant Governor,,DEM,Gavin Newsom,62
 Yuba,3004,Lieutenant Governor,,REP,George Yang,9
 Yuba,3004,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,3004,Lieutenant Governor,,REP,Ron Nehring,40
+Yuba,3004,Proposition 41,,,No,71
+Yuba,3004,Proposition 41,,,Yes,90
+Yuba,3004,Proposition 42,,,No,81
+Yuba,3004,Proposition 42,,,Yes,80
 Yuba,3004,Secretary of State,,DEM,Alex Padilla,46
 Yuba,3004,Secretary of State,,IND,Dan Schnur,17
 Yuba,3004,Secretary of State,,GRN,David Curtis,6
@@ -1132,13 +1136,11 @@ Yuba,3005,Controller,,GRN,Laura Wells,13
 Yuba,3005,Controller,,DEM,Tammy D. Blair,17
 Yuba,3005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Yuba,3005,Governor,,DEM,Akinyemi Agbede,2
-Yuba,3005,Governor,,REP,Alma Marie Winston,0
 Yuba,3005,Governor,,REP,Andrew Blount,6
 Yuba,3005,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,3005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",78
 Yuba,3005,Governor,,REP,Glenn Champ,4
 Yuba,3005,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,3005,Governor,,IND,Joe Leicht,0
 Yuba,3005,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,3005,Governor,,REP,Neel Kashkari,63
 Yuba,3005,Governor,,IND,Rakesh Kumar Christian,1
@@ -1156,6 +1158,10 @@ Yuba,3005,Lieutenant Governor,,DEM,Gavin Newsom,50
 Yuba,3005,Lieutenant Governor,,REP,George Yang,14
 Yuba,3005,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Yuba,3005,Lieutenant Governor,,REP,Ron Nehring,48
+Yuba,3005,Proposition 41,,,No,74
+Yuba,3005,Proposition 41,,,Yes,127
+Yuba,3005,Proposition 42,,,No,111
+Yuba,3005,Proposition 42,,,Yes,91
 Yuba,3005,Secretary of State,,DEM,Alex Padilla,43
 Yuba,3005,Secretary of State,,IND,Dan Schnur,28
 Yuba,3005,Secretary of State,,GRN,David Curtis,6
@@ -1192,32 +1198,27 @@ Yuba,3006,Controller,,REP,David Evans,33
 Yuba,3006,Controller,,DEM,John A. Pérez,6
 Yuba,3006,Controller,,GRN,Laura Wells,3
 Yuba,3006,Controller,,DEM,Tammy D. Blair,3
-Yuba,3006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,3006,Governor,,DEM,Akinyemi Agbede,0
-Yuba,3006,Governor,,REP,Alma Marie Winston,0
 Yuba,3006,Governor,,REP,Andrew Blount,2
 Yuba,3006,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,3006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
 Yuba,3006,Governor,,REP,Glenn Champ,3
 Yuba,3006,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,3006,Governor,,IND,Joe Leicht,0
-Yuba,3006,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,3006,Governor,,REP,Neel Kashkari,30
-Yuba,3006,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,3006,Governor,,REP,Richard William Aguirre,0
 Yuba,3006,Governor,,IND,Robert Newman,1
 Yuba,3006,Governor,,REP,Tim Donnelly,15
 Yuba,3006,Insurance Commissioner,,DEM,Dave Jones,17
-Yuba,3006,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Yuba,3006,Insurance Commissioner,,REP,Ted Gaines,53
 Yuba,3006,Lieutenant Governor,,AME,Alan Reynolds,1
-Yuba,3006,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,3006,Lieutenant Governor,,REP,David Fennell,23
 Yuba,3006,Lieutenant Governor,,DEM,Eric Korevaar,1
 Yuba,3006,Lieutenant Governor,,DEM,Gavin Newsom,12
 Yuba,3006,Lieutenant Governor,,REP,George Yang,13
 Yuba,3006,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,3006,Lieutenant Governor,,REP,Ron Nehring,19
+Yuba,3006,Proposition 41,,,No,41
+Yuba,3006,Proposition 41,,,Yes,34
+Yuba,3006,Proposition 42,,,No,41
+Yuba,3006,Proposition 42,,,Yes,32
 Yuba,3006,Secretary of State,,DEM,Alex Padilla,8
 Yuba,3006,Secretary of State,,IND,Dan Schnur,12
 Yuba,3006,Secretary of State,,GRN,David Curtis,3
@@ -1243,7 +1244,6 @@ Yuba,3007,Attorney General,,REP,David King,1
 Yuba,3007,Attorney General,,REP,John Haggerty,7
 Yuba,3007,Attorney General,,LIB,Jonathan Jaech,1
 Yuba,3007,Attorney General,,DEM,Kamala D. Harris,2
-Yuba,3007,Attorney General,,IND,Orly Taitz,0
 Yuba,3007,Attorney General,,REP,Phil Wyman,9
 Yuba,3007,Attorney General,,REP,Ronald Gold,4
 Yuba,3007,Board of Equalization,1,DEM,Chris Parker,5
@@ -1253,20 +1253,11 @@ Yuba,3007,Controller,,DEM,Betty T. Yee,1
 Yuba,3007,Controller,,REP,David Evans,13
 Yuba,3007,Controller,,DEM,John A. Pérez,1
 Yuba,3007,Controller,,GRN,Laura Wells,4
-Yuba,3007,Controller,,DEM,Tammy D. Blair,0
-Yuba,3007,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,3007,Governor,,DEM,Akinyemi Agbede,0
 Yuba,3007,Governor,,REP,Alma Marie Winston,1
-Yuba,3007,Governor,,REP,Andrew Blount,0
 Yuba,3007,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,3007,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Yuba,3007,Governor,,REP,Glenn Champ,2
-Yuba,3007,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,3007,Governor,,IND,Joe Leicht,0
-Yuba,3007,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,3007,Governor,,REP,Neel Kashkari,13
-Yuba,3007,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,3007,Governor,,REP,Richard William Aguirre,0
 Yuba,3007,Governor,,IND,Robert Newman,1
 Yuba,3007,Governor,,REP,Tim Donnelly,5
 Yuba,3007,Insurance Commissioner,,DEM,Dave Jones,2
@@ -1275,16 +1266,17 @@ Yuba,3007,Insurance Commissioner,,REP,Ted Gaines,19
 Yuba,3007,Lieutenant Governor,,AME,Alan Reynolds,1
 Yuba,3007,Lieutenant Governor,,PAF,Amos Johnson,1
 Yuba,3007,Lieutenant Governor,,REP,David Fennell,5
-Yuba,3007,Lieutenant Governor,,DEM,Eric Korevaar,0
 Yuba,3007,Lieutenant Governor,,DEM,Gavin Newsom,4
 Yuba,3007,Lieutenant Governor,,REP,George Yang,1
 Yuba,3007,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,3007,Lieutenant Governor,,REP,Ron Nehring,9
+Yuba,3007,Proposition 41,,,No,11
+Yuba,3007,Proposition 41,,,Yes,12
+Yuba,3007,Proposition 42,,,No,11
+Yuba,3007,Proposition 42,,,Yes,10
 Yuba,3007,Secretary of State,,DEM,Alex Padilla,1
 Yuba,3007,Secretary of State,,IND,Dan Schnur,6
 Yuba,3007,Secretary of State,,GRN,David Curtis,1
-Yuba,3007,Secretary of State,,DEM,Derek Cressman,0
-Yuba,3007,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Yuba,3007,Secretary of State,,DEM,Leland Yee,1
 Yuba,3007,Secretary of State,,REP,Pete Peterson,9
 Yuba,3007,Secretary of State,,REP,Roy Allmond,5
@@ -1296,7 +1288,6 @@ Yuba,3007,State Senate,4,REP,Jim Nielsen,25
 Yuba,3007,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,6
 Yuba,3007,Superintendent of Public Instruction,,NOP,Marshall Tuck,11
 Yuba,3007,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-Yuba,3007,Treasurer,,GRN,Ellen H. Brown,0
 Yuba,3007,Treasurer,,REP,Greg Conlon,20
 Yuba,3007,Treasurer,,DEM,John Chiang,7
 Yuba,3007,U.S. House,3,REP,Dan Logue,22
@@ -1316,19 +1307,13 @@ Yuba,3008,Controller,,REP,David Evans,46
 Yuba,3008,Controller,,DEM,John A. Pérez,14
 Yuba,3008,Controller,,GRN,Laura Wells,8
 Yuba,3008,Controller,,DEM,Tammy D. Blair,11
-Yuba,3008,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,3008,Governor,,DEM,Akinyemi Agbede,0
 Yuba,3008,Governor,,REP,Alma Marie Winston,3
 Yuba,3008,Governor,,REP,Andrew Blount,10
 Yuba,3008,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,3008,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Yuba,3008,Governor,,REP,Glenn Champ,4
-Yuba,3008,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,3008,Governor,,IND,Joe Leicht,0
-Yuba,3008,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,3008,Governor,,REP,Neel Kashkari,43
 Yuba,3008,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,3008,Governor,,REP,Richard William Aguirre,0
 Yuba,3008,Governor,,IND,Robert Newman,2
 Yuba,3008,Governor,,REP,Tim Donnelly,27
 Yuba,3008,Insurance Commissioner,,DEM,Dave Jones,37
@@ -1342,6 +1327,10 @@ Yuba,3008,Lieutenant Governor,,DEM,Gavin Newsom,30
 Yuba,3008,Lieutenant Governor,,REP,George Yang,18
 Yuba,3008,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Yuba,3008,Lieutenant Governor,,REP,Ron Nehring,31
+Yuba,3008,Proposition 41,,,No,50
+Yuba,3008,Proposition 41,,,Yes,80
+Yuba,3008,Proposition 42,,,No,59
+Yuba,3008,Proposition 42,,,Yes,72
 Yuba,3008,Secretary of State,,DEM,Alex Padilla,25
 Yuba,3008,Secretary of State,,IND,Dan Schnur,6
 Yuba,3008,Secretary of State,,GRN,David Curtis,7
@@ -1379,8 +1368,6 @@ Yuba,4001,Controller,,DEM,John A. Pérez,30
 Yuba,4001,Controller,,GRN,Laura Wells,9
 Yuba,4001,Controller,,DEM,Tammy D. Blair,23
 Yuba,4001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Yuba,4001,Governor,,DEM,Akinyemi Agbede,0
-Yuba,4001,Governor,,REP,Alma Marie Winston,0
 Yuba,4001,Governor,,REP,Andrew Blount,4
 Yuba,4001,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,4001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",85
@@ -1397,13 +1384,16 @@ Yuba,4001,Insurance Commissioner,,DEM,Dave Jones,72
 Yuba,4001,Insurance Commissioner,,PAF,Nathalie Hrizi,16
 Yuba,4001,Insurance Commissioner,,REP,Ted Gaines,101
 Yuba,4001,Lieutenant Governor,,AME,Alan Reynolds,8
-Yuba,4001,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,4001,Lieutenant Governor,,REP,David Fennell,25
 Yuba,4001,Lieutenant Governor,,DEM,Eric Korevaar,14
 Yuba,4001,Lieutenant Governor,,DEM,Gavin Newsom,68
 Yuba,4001,Lieutenant Governor,,REP,George Yang,18
 Yuba,4001,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Yuba,4001,Lieutenant Governor,,REP,Ron Nehring,52
+Yuba,4001,Proposition 41,,,No,85
+Yuba,4001,Proposition 41,,,Yes,105
+Yuba,4001,Proposition 42,,,No,73
+Yuba,4001,Proposition 42,,,Yes,111
 Yuba,4001,Secretary of State,,DEM,Alex Padilla,35
 Yuba,4001,Secretary of State,,IND,Dan Schnur,22
 Yuba,4001,Secretary of State,,GRN,David Curtis,11
@@ -1440,7 +1430,6 @@ Yuba,4002,Controller,,REP,David Evans,56
 Yuba,4002,Controller,,DEM,John A. Pérez,28
 Yuba,4002,Controller,,GRN,Laura Wells,5
 Yuba,4002,Controller,,DEM,Tammy D. Blair,12
-Yuba,4002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,4002,Governor,,DEM,Akinyemi Agbede,1
 Yuba,4002,Governor,,REP,Alma Marie Winston,2
 Yuba,4002,Governor,,REP,Andrew Blount,13
@@ -1449,23 +1438,22 @@ Yuba,4002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",69
 Yuba,4002,Governor,,REP,Glenn Champ,6
 Yuba,4002,Governor,,IND,Janel Hyeshia Buycks,2
 Yuba,4002,Governor,,IND,Joe Leicht,1
-Yuba,4002,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,4002,Governor,,REP,Neel Kashkari,61
-Yuba,4002,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,4002,Governor,,REP,Richard William Aguirre,0
-Yuba,4002,Governor,,IND,Robert Newman,0
 Yuba,4002,Governor,,REP,Tim Donnelly,34
 Yuba,4002,Insurance Commissioner,,DEM,Dave Jones,55
 Yuba,4002,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Yuba,4002,Insurance Commissioner,,REP,Ted Gaines,120
 Yuba,4002,Lieutenant Governor,,AME,Alan Reynolds,4
-Yuba,4002,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,4002,Lieutenant Governor,,REP,David Fennell,44
 Yuba,4002,Lieutenant Governor,,DEM,Eric Korevaar,12
 Yuba,4002,Lieutenant Governor,,DEM,Gavin Newsom,57
 Yuba,4002,Lieutenant Governor,,REP,George Yang,22
 Yuba,4002,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,4002,Lieutenant Governor,,REP,Ron Nehring,38
+Yuba,4002,Proposition 41,,,No,90
+Yuba,4002,Proposition 41,,,Yes,92
+Yuba,4002,Proposition 42,,,No,97
+Yuba,4002,Proposition 42,,,Yes,81
 Yuba,4002,Secretary of State,,DEM,Alex Padilla,40
 Yuba,4002,Secretary of State,,IND,Dan Schnur,17
 Yuba,4002,Secretary of State,,GRN,David Curtis,1
@@ -1502,7 +1490,6 @@ Yuba,4003,Controller,,REP,David Evans,51
 Yuba,4003,Controller,,DEM,John A. Pérez,28
 Yuba,4003,Controller,,GRN,Laura Wells,6
 Yuba,4003,Controller,,DEM,Tammy D. Blair,17
-Yuba,4003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,4003,Governor,,DEM,Akinyemi Agbede,3
 Yuba,4003,Governor,,REP,Alma Marie Winston,1
 Yuba,4003,Governor,,REP,Andrew Blount,4
@@ -1513,8 +1500,6 @@ Yuba,4003,Governor,,IND,Janel Hyeshia Buycks,1
 Yuba,4003,Governor,,IND,Joe Leicht,3
 Yuba,4003,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,4003,Governor,,REP,Neel Kashkari,60
-Yuba,4003,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,4003,Governor,,REP,Richard William Aguirre,0
 Yuba,4003,Governor,,IND,Robert Newman,5
 Yuba,4003,Governor,,REP,Tim Donnelly,49
 Yuba,4003,Insurance Commissioner,,DEM,Dave Jones,77
@@ -1528,6 +1513,10 @@ Yuba,4003,Lieutenant Governor,,DEM,Gavin Newsom,49
 Yuba,4003,Lieutenant Governor,,REP,George Yang,22
 Yuba,4003,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,4003,Lieutenant Governor,,REP,Ron Nehring,60
+Yuba,4003,Proposition 41,,,No,100
+Yuba,4003,Proposition 41,,,Yes,101
+Yuba,4003,Proposition 42,,,No,91
+Yuba,4003,Proposition 42,,,Yes,105
 Yuba,4003,Secretary of State,,DEM,Alex Padilla,43
 Yuba,4003,Secretary of State,,IND,Dan Schnur,25
 Yuba,4003,Secretary of State,,GRN,David Curtis,9
@@ -1562,38 +1551,26 @@ Yuba,4004,Controller,,REP,Ashley Swearengin,10
 Yuba,4004,Controller,,DEM,Betty T. Yee,3
 Yuba,4004,Controller,,REP,David Evans,27
 Yuba,4004,Controller,,DEM,John A. Pérez,5
-Yuba,4004,Controller,,GRN,Laura Wells,0
 Yuba,4004,Controller,,DEM,Tammy D. Blair,1
-Yuba,4004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,4004,Governor,,DEM,Akinyemi Agbede,0
-Yuba,4004,Governor,,REP,Alma Marie Winston,0
 Yuba,4004,Governor,,REP,Andrew Blount,4
-Yuba,4004,Governor,,PAF,Cindy L. Sheehan,0
 Yuba,4004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
-Yuba,4004,Governor,,REP,Glenn Champ,0
-Yuba,4004,Governor,,IND,Janel Hyeshia Buycks,0
 Yuba,4004,Governor,,IND,Joe Leicht,1
-Yuba,4004,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,4004,Governor,,REP,Neel Kashkari,14
-Yuba,4004,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,4004,Governor,,REP,Richard William Aguirre,0
-Yuba,4004,Governor,,IND,Robert Newman,0
 Yuba,4004,Governor,,REP,Tim Donnelly,20
 Yuba,4004,Insurance Commissioner,,DEM,Dave Jones,10
-Yuba,4004,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Yuba,4004,Insurance Commissioner,,REP,Ted Gaines,39
 Yuba,4004,Lieutenant Governor,,AME,Alan Reynolds,1
-Yuba,4004,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,4004,Lieutenant Governor,,REP,David Fennell,11
 Yuba,4004,Lieutenant Governor,,DEM,Eric Korevaar,6
 Yuba,4004,Lieutenant Governor,,DEM,Gavin Newsom,2
 Yuba,4004,Lieutenant Governor,,REP,George Yang,5
-Yuba,4004,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Yuba,4004,Lieutenant Governor,,REP,Ron Nehring,22
+Yuba,4004,Proposition 41,,,No,30
+Yuba,4004,Proposition 41,,,Yes,21
+Yuba,4004,Proposition 42,,,No,21
+Yuba,4004,Proposition 42,,,Yes,27
 Yuba,4004,Secretary of State,,DEM,Alex Padilla,5
-Yuba,4004,Secretary of State,,IND,Dan Schnur,0
 Yuba,4004,Secretary of State,,GRN,David Curtis,1
-Yuba,4004,Secretary of State,,DEM,Derek Cressman,0
 Yuba,4004,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Yuba,4004,Secretary of State,,DEM,Leland Yee,1
 Yuba,4004,Secretary of State,,REP,Pete Peterson,33
@@ -1611,53 +1588,32 @@ Yuba,4004,Treasurer,,REP,Greg Conlon,36
 Yuba,4004,Treasurer,,DEM,John Chiang,8
 Yuba,4004,U.S. House,3,REP,Dan Logue,40
 Yuba,4004,U.S. House,3,DEM,John Garamendi,9
-Yuba,4005,Attorney General,,REP,David King,0
 Yuba,4005,Attorney General,,REP,John Haggerty,2
 Yuba,4005,Attorney General,,LIB,Jonathan Jaech,1
 Yuba,4005,Attorney General,,DEM,Kamala D. Harris,2
-Yuba,4005,Attorney General,,IND,Orly Taitz,0
 Yuba,4005,Attorney General,,REP,Phil Wyman,1
 Yuba,4005,Attorney General,,REP,Ronald Gold,1
 Yuba,4005,Board of Equalization,1,DEM,Chris Parker,3
 Yuba,4005,Board of Equalization,1,REP,George Runner,4
 Yuba,4005,Controller,,REP,Ashley Swearengin,2
-Yuba,4005,Controller,,DEM,Betty T. Yee,0
 Yuba,4005,Controller,,REP,David Evans,3
-Yuba,4005,Controller,,DEM,John A. Pérez,0
 Yuba,4005,Controller,,GRN,Laura Wells,2
-Yuba,4005,Controller,,DEM,Tammy D. Blair,0
-Yuba,4005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,4005,Governor,,DEM,Akinyemi Agbede,0
-Yuba,4005,Governor,,REP,Alma Marie Winston,0
 Yuba,4005,Governor,,REP,Andrew Blount,1
-Yuba,4005,Governor,,PAF,Cindy L. Sheehan,0
 Yuba,4005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Yuba,4005,Governor,,REP,Glenn Champ,0
-Yuba,4005,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,4005,Governor,,IND,Joe Leicht,0
 Yuba,4005,Governor,,GRN,Luis J. Rodriguez,1
-Yuba,4005,Governor,,REP,Neel Kashkari,0
-Yuba,4005,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,4005,Governor,,REP,Richard William Aguirre,0
-Yuba,4005,Governor,,IND,Robert Newman,0
 Yuba,4005,Governor,,REP,Tim Donnelly,2
 Yuba,4005,Insurance Commissioner,,DEM,Dave Jones,3
 Yuba,4005,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Yuba,4005,Insurance Commissioner,,REP,Ted Gaines,3
-Yuba,4005,Lieutenant Governor,,AME,Alan Reynolds,0
-Yuba,4005,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,4005,Lieutenant Governor,,REP,David Fennell,2
-Yuba,4005,Lieutenant Governor,,DEM,Eric Korevaar,0
 Yuba,4005,Lieutenant Governor,,DEM,Gavin Newsom,1
-Yuba,4005,Lieutenant Governor,,REP,George Yang,0
 Yuba,4005,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,4005,Lieutenant Governor,,REP,Ron Nehring,2
-Yuba,4005,Secretary of State,,DEM,Alex Padilla,0
-Yuba,4005,Secretary of State,,IND,Dan Schnur,0
+Yuba,4005,Proposition 41,,,No,1
+Yuba,4005,Proposition 41,,,Yes,6
+Yuba,4005,Proposition 42,,,No,1
+Yuba,4005,Proposition 42,,,Yes,6
 Yuba,4005,Secretary of State,,GRN,David Curtis,2
-Yuba,4005,Secretary of State,,DEM,Derek Cressman,0
-Yuba,4005,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Yuba,4005,Secretary of State,,DEM,Leland Yee,0
 Yuba,4005,Secretary of State,,REP,Pete Peterson,4
 Yuba,4005,Secretary of State,,REP,Roy Allmond,1
 Yuba,4005,State Assembly,3,REP,James Gallagher,4
@@ -1688,7 +1644,6 @@ Yuba,4006,Controller,,REP,David Evans,69
 Yuba,4006,Controller,,DEM,John A. Pérez,28
 Yuba,4006,Controller,,GRN,Laura Wells,10
 Yuba,4006,Controller,,DEM,Tammy D. Blair,16
-Yuba,4006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,4006,Governor,,DEM,Akinyemi Agbede,2
 Yuba,4006,Governor,,REP,Alma Marie Winston,4
 Yuba,4006,Governor,,REP,Andrew Blount,12
@@ -1696,7 +1651,6 @@ Yuba,4006,Governor,,PAF,Cindy L. Sheehan,7
 Yuba,4006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Yuba,4006,Governor,,REP,Glenn Champ,8
 Yuba,4006,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,4006,Governor,,IND,Joe Leicht,0
 Yuba,4006,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,4006,Governor,,REP,Neel Kashkari,56
 Yuba,4006,Governor,,IND,Rakesh Kumar Christian,2
@@ -1714,6 +1668,10 @@ Yuba,4006,Lieutenant Governor,,DEM,Gavin Newsom,59
 Yuba,4006,Lieutenant Governor,,REP,George Yang,17
 Yuba,4006,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,4006,Lieutenant Governor,,REP,Ron Nehring,51
+Yuba,4006,Proposition 41,,,No,89
+Yuba,4006,Proposition 41,,,Yes,130
+Yuba,4006,Proposition 42,,,No,116
+Yuba,4006,Proposition 42,,,Yes,100
 Yuba,4006,Secretary of State,,DEM,Alex Padilla,37
 Yuba,4006,Secretary of State,,IND,Dan Schnur,23
 Yuba,4006,Secretary of State,,GRN,David Curtis,7
@@ -1751,19 +1709,13 @@ Yuba,4007,Controller,,DEM,John A. Pérez,33
 Yuba,4007,Controller,,GRN,Laura Wells,12
 Yuba,4007,Controller,,DEM,Tammy D. Blair,20
 Yuba,4007,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Yuba,4007,Governor,,DEM,Akinyemi Agbede,0
 Yuba,4007,Governor,,REP,Alma Marie Winston,6
 Yuba,4007,Governor,,REP,Andrew Blount,9
 Yuba,4007,Governor,,PAF,Cindy L. Sheehan,3
 Yuba,4007,Governor,,DEM,"Edmund G. ""Jerry"" Brown",88
 Yuba,4007,Governor,,REP,Glenn Champ,5
-Yuba,4007,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,4007,Governor,,IND,Joe Leicht,0
-Yuba,4007,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,4007,Governor,,REP,Neel Kashkari,77
-Yuba,4007,Governor,,IND,Rakesh Kumar Christian,0
 Yuba,4007,Governor,,REP,Richard William Aguirre,1
-Yuba,4007,Governor,,IND,Robert Newman,0
 Yuba,4007,Governor,,REP,Tim Donnelly,44
 Yuba,4007,Insurance Commissioner,,DEM,Dave Jones,84
 Yuba,4007,Insurance Commissioner,,PAF,Nathalie Hrizi,9
@@ -1776,6 +1728,10 @@ Yuba,4007,Lieutenant Governor,,DEM,Gavin Newsom,59
 Yuba,4007,Lieutenant Governor,,REP,George Yang,20
 Yuba,4007,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,4007,Lieutenant Governor,,REP,Ron Nehring,56
+Yuba,4007,Proposition 41,,,No,79
+Yuba,4007,Proposition 41,,,Yes,153
+Yuba,4007,Proposition 42,,,No,113
+Yuba,4007,Proposition 42,,,Yes,114
 Yuba,4007,Secretary of State,,DEM,Alex Padilla,49
 Yuba,4007,Secretary of State,,IND,Dan Schnur,32
 Yuba,4007,Secretary of State,,GRN,David Curtis,4
@@ -1819,25 +1775,24 @@ Yuba,4008,Governor,,REP,Andrew Blount,6
 Yuba,4008,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,4008,Governor,,DEM,"Edmund G. ""Jerry"" Brown",70
 Yuba,4008,Governor,,REP,Glenn Champ,5
-Yuba,4008,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,4008,Governor,,IND,Joe Leicht,0
-Yuba,4008,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,4008,Governor,,REP,Neel Kashkari,88
 Yuba,4008,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,4008,Governor,,REP,Richard William Aguirre,0
 Yuba,4008,Governor,,IND,Robert Newman,4
 Yuba,4008,Governor,,REP,Tim Donnelly,56
 Yuba,4008,Insurance Commissioner,,DEM,Dave Jones,65
 Yuba,4008,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Yuba,4008,Insurance Commissioner,,REP,Ted Gaines,155
 Yuba,4008,Lieutenant Governor,,AME,Alan Reynolds,2
-Yuba,4008,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,4008,Lieutenant Governor,,REP,David Fennell,62
 Yuba,4008,Lieutenant Governor,,DEM,Eric Korevaar,12
 Yuba,4008,Lieutenant Governor,,DEM,Gavin Newsom,47
 Yuba,4008,Lieutenant Governor,,REP,George Yang,31
 Yuba,4008,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Yuba,4008,Lieutenant Governor,,REP,Ron Nehring,64
+Yuba,4008,Proposition 41,,,No,122
+Yuba,4008,Proposition 41,,,Yes,110
+Yuba,4008,Proposition 42,,,No,115
+Yuba,4008,Proposition 42,,,Yes,113
 Yuba,4008,Secretary of State,,DEM,Alex Padilla,29
 Yuba,4008,Secretary of State,,IND,Dan Schnur,29
 Yuba,4008,Secretary of State,,GRN,David Curtis,6
@@ -1874,16 +1829,10 @@ Yuba,4009,Controller,,REP,David Evans,42
 Yuba,4009,Controller,,DEM,John A. Pérez,19
 Yuba,4009,Controller,,GRN,Laura Wells,2
 Yuba,4009,Controller,,DEM,Tammy D. Blair,11
-Yuba,4009,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,4009,Governor,,DEM,Akinyemi Agbede,1
-Yuba,4009,Governor,,REP,Alma Marie Winston,0
 Yuba,4009,Governor,,REP,Andrew Blount,7
-Yuba,4009,Governor,,PAF,Cindy L. Sheehan,0
 Yuba,4009,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Yuba,4009,Governor,,REP,Glenn Champ,2
-Yuba,4009,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,4009,Governor,,IND,Joe Leicht,0
-Yuba,4009,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,4009,Governor,,REP,Neel Kashkari,27
 Yuba,4009,Governor,,IND,Rakesh Kumar Christian,2
 Yuba,4009,Governor,,REP,Richard William Aguirre,1
@@ -1893,13 +1842,16 @@ Yuba,4009,Insurance Commissioner,,DEM,Dave Jones,50
 Yuba,4009,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Yuba,4009,Insurance Commissioner,,REP,Ted Gaines,73
 Yuba,4009,Lieutenant Governor,,AME,Alan Reynolds,2
-Yuba,4009,Lieutenant Governor,,PAF,Amos Johnson,0
 Yuba,4009,Lieutenant Governor,,REP,David Fennell,19
 Yuba,4009,Lieutenant Governor,,DEM,Eric Korevaar,14
 Yuba,4009,Lieutenant Governor,,DEM,Gavin Newsom,46
 Yuba,4009,Lieutenant Governor,,REP,George Yang,9
 Yuba,4009,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Yuba,4009,Lieutenant Governor,,REP,Ron Nehring,33
+Yuba,4009,Proposition 41,,,No,59
+Yuba,4009,Proposition 41,,,Yes,71
+Yuba,4009,Proposition 42,,,No,62
+Yuba,4009,Proposition 42,,,Yes,61
 Yuba,4009,Secretary of State,,DEM,Alex Padilla,34
 Yuba,4009,Secretary of State,,IND,Dan Schnur,7
 Yuba,4009,Secretary of State,,GRN,David Curtis,2
@@ -1936,7 +1888,6 @@ Yuba,5001,Controller,,REP,David Evans,78
 Yuba,5001,Controller,,DEM,John A. Pérez,29
 Yuba,5001,Controller,,GRN,Laura Wells,13
 Yuba,5001,Controller,,DEM,Tammy D. Blair,17
-Yuba,5001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,5001,Governor,,DEM,Akinyemi Agbede,2
 Yuba,5001,Governor,,REP,Alma Marie Winston,5
 Yuba,5001,Governor,,REP,Andrew Blount,9
@@ -1944,7 +1895,6 @@ Yuba,5001,Governor,,PAF,Cindy L. Sheehan,5
 Yuba,5001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Yuba,5001,Governor,,REP,Glenn Champ,7
 Yuba,5001,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,5001,Governor,,IND,Joe Leicht,0
 Yuba,5001,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,5001,Governor,,REP,Neel Kashkari,38
 Yuba,5001,Governor,,IND,Rakesh Kumar Christian,4
@@ -1962,6 +1912,10 @@ Yuba,5001,Lieutenant Governor,,DEM,Gavin Newsom,60
 Yuba,5001,Lieutenant Governor,,REP,George Yang,19
 Yuba,5001,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,5001,Lieutenant Governor,,REP,Ron Nehring,60
+Yuba,5001,Proposition 41,,,No,90
+Yuba,5001,Proposition 41,,,Yes,123
+Yuba,5001,Proposition 42,,,No,110
+Yuba,5001,Proposition 42,,,Yes,98
 Yuba,5001,Secretary of State,,DEM,Alex Padilla,39
 Yuba,5001,Secretary of State,,IND,Dan Schnur,10
 Yuba,5001,Secretary of State,,GRN,David Curtis,14
@@ -1999,24 +1953,16 @@ Yuba,5002,Controller,,DEM,John A. Pérez,2
 Yuba,5002,Controller,,GRN,Laura Wells,5
 Yuba,5002,Controller,,DEM,Tammy D. Blair,2
 Yuba,5002,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Yuba,5002,Governor,,DEM,Akinyemi Agbede,0
-Yuba,5002,Governor,,REP,Alma Marie Winston,0
 Yuba,5002,Governor,,REP,Andrew Blount,3
 Yuba,5002,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,5002,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Yuba,5002,Governor,,REP,Glenn Champ,2
-Yuba,5002,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,5002,Governor,,IND,Joe Leicht,0
-Yuba,5002,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,5002,Governor,,REP,Neel Kashkari,19
-Yuba,5002,Governor,,IND,Rakesh Kumar Christian,0
 Yuba,5002,Governor,,REP,Richard William Aguirre,1
-Yuba,5002,Governor,,IND,Robert Newman,0
 Yuba,5002,Governor,,REP,Tim Donnelly,22
 Yuba,5002,Insurance Commissioner,,DEM,Dave Jones,11
 Yuba,5002,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Yuba,5002,Insurance Commissioner,,REP,Ted Gaines,41
-Yuba,5002,Lieutenant Governor,,AME,Alan Reynolds,0
 Yuba,5002,Lieutenant Governor,,PAF,Amos Johnson,2
 Yuba,5002,Lieutenant Governor,,REP,David Fennell,15
 Yuba,5002,Lieutenant Governor,,DEM,Eric Korevaar,3
@@ -2024,12 +1970,15 @@ Yuba,5002,Lieutenant Governor,,DEM,Gavin Newsom,7
 Yuba,5002,Lieutenant Governor,,REP,George Yang,6
 Yuba,5002,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Yuba,5002,Lieutenant Governor,,REP,Ron Nehring,24
+Yuba,5002,Proposition 41,,,No,36
+Yuba,5002,Proposition 41,,,Yes,25
+Yuba,5002,Proposition 42,,,No,31
+Yuba,5002,Proposition 42,,,Yes,30
 Yuba,5002,Secretary of State,,DEM,Alex Padilla,8
 Yuba,5002,Secretary of State,,IND,Dan Schnur,3
 Yuba,5002,Secretary of State,,GRN,David Curtis,3
 Yuba,5002,Secretary of State,,DEM,Derek Cressman,2
 Yuba,5002,Secretary of State,,DEM,Jeffrey H. Drobman,3
-Yuba,5002,Secretary of State,,DEM,Leland Yee,0
 Yuba,5002,Secretary of State,,REP,Pete Peterson,22
 Yuba,5002,Secretary of State,,REP,Roy Allmond,16
 Yuba,5002,State Assembly,3,REP,James Gallagher,32
@@ -2045,7 +1994,6 @@ Yuba,5002,Treasurer,,REP,Greg Conlon,43
 Yuba,5002,Treasurer,,DEM,John Chiang,10
 Yuba,5002,U.S. House,3,REP,Dan Logue,48
 Yuba,5002,U.S. House,3,DEM,John Garamendi,12
-Yuba,5003,Attorney General,,REP,David King,0
 Yuba,5003,Attorney General,,REP,John Haggerty,16
 Yuba,5003,Attorney General,,LIB,Jonathan Jaech,4
 Yuba,5003,Attorney General,,DEM,Kamala D. Harris,25
@@ -2060,16 +2008,10 @@ Yuba,5003,Controller,,REP,David Evans,24
 Yuba,5003,Controller,,DEM,John A. Pérez,7
 Yuba,5003,Controller,,GRN,Laura Wells,3
 Yuba,5003,Controller,,DEM,Tammy D. Blair,12
-Yuba,5003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,5003,Governor,,DEM,Akinyemi Agbede,0
-Yuba,5003,Governor,,REP,Alma Marie Winston,0
 Yuba,5003,Governor,,REP,Andrew Blount,2
 Yuba,5003,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,5003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Yuba,5003,Governor,,REP,Glenn Champ,2
-Yuba,5003,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,5003,Governor,,IND,Joe Leicht,0
-Yuba,5003,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,5003,Governor,,REP,Neel Kashkari,9
 Yuba,5003,Governor,,IND,Rakesh Kumar Christian,1
 Yuba,5003,Governor,,REP,Richard William Aguirre,2
@@ -2086,10 +2028,13 @@ Yuba,5003,Lieutenant Governor,,DEM,Gavin Newsom,16
 Yuba,5003,Lieutenant Governor,,REP,George Yang,6
 Yuba,5003,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Yuba,5003,Lieutenant Governor,,REP,Ron Nehring,18
+Yuba,5003,Proposition 41,,,No,35
+Yuba,5003,Proposition 41,,,Yes,39
+Yuba,5003,Proposition 42,,,No,33
+Yuba,5003,Proposition 42,,,Yes,38
 Yuba,5003,Secretary of State,,DEM,Alex Padilla,12
 Yuba,5003,Secretary of State,,IND,Dan Schnur,4
 Yuba,5003,Secretary of State,,GRN,David Curtis,3
-Yuba,5003,Secretary of State,,DEM,Derek Cressman,0
 Yuba,5003,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Yuba,5003,Secretary of State,,DEM,Leland Yee,4
 Yuba,5003,Secretary of State,,REP,Pete Peterson,32
@@ -2129,12 +2074,9 @@ Yuba,5004,Governor,,REP,Andrew Blount,9
 Yuba,5004,Governor,,PAF,Cindy L. Sheehan,8
 Yuba,5004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",246
 Yuba,5004,Governor,,REP,Glenn Champ,5
-Yuba,5004,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,5004,Governor,,IND,Joe Leicht,0
 Yuba,5004,Governor,,GRN,Luis J. Rodriguez,6
 Yuba,5004,Governor,,REP,Neel Kashkari,57
 Yuba,5004,Governor,,IND,Rakesh Kumar Christian,2
-Yuba,5004,Governor,,REP,Richard William Aguirre,0
 Yuba,5004,Governor,,IND,Robert Newman,7
 Yuba,5004,Governor,,REP,Tim Donnelly,67
 Yuba,5004,Insurance Commissioner,,DEM,Dave Jones,198
@@ -2148,6 +2090,10 @@ Yuba,5004,Lieutenant Governor,,DEM,Gavin Newsom,160
 Yuba,5004,Lieutenant Governor,,REP,George Yang,20
 Yuba,5004,Lieutenant Governor,,GRN,Jena F. Goodman,20
 Yuba,5004,Lieutenant Governor,,REP,Ron Nehring,63
+Yuba,5004,Proposition 41,,,No,126
+Yuba,5004,Proposition 41,,,Yes,266
+Yuba,5004,Proposition 42,,,No,172
+Yuba,5004,Proposition 42,,,Yes,205
 Yuba,5004,Secretary of State,,DEM,Alex Padilla,118
 Yuba,5004,Secretary of State,,IND,Dan Schnur,27
 Yuba,5004,Secretary of State,,GRN,David Curtis,37
@@ -2184,7 +2130,6 @@ Yuba,5005,Controller,,REP,David Evans,132
 Yuba,5005,Controller,,DEM,John A. Pérez,45
 Yuba,5005,Controller,,GRN,Laura Wells,25
 Yuba,5005,Controller,,DEM,Tammy D. Blair,29
-Yuba,5005,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,5005,Governor,,DEM,Akinyemi Agbede,1
 Yuba,5005,Governor,,REP,Alma Marie Winston,8
 Yuba,5005,Governor,,REP,Andrew Blount,12
@@ -2192,7 +2137,6 @@ Yuba,5005,Governor,,PAF,Cindy L. Sheehan,9
 Yuba,5005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",118
 Yuba,5005,Governor,,REP,Glenn Champ,8
 Yuba,5005,Governor,,IND,Janel Hyeshia Buycks,3
-Yuba,5005,Governor,,IND,Joe Leicht,0
 Yuba,5005,Governor,,GRN,Luis J. Rodriguez,3
 Yuba,5005,Governor,,REP,Neel Kashkari,97
 Yuba,5005,Governor,,IND,Rakesh Kumar Christian,3
@@ -2210,6 +2154,10 @@ Yuba,5005,Lieutenant Governor,,DEM,Gavin Newsom,89
 Yuba,5005,Lieutenant Governor,,REP,George Yang,49
 Yuba,5005,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Yuba,5005,Lieutenant Governor,,REP,Ron Nehring,98
+Yuba,5005,Proposition 41,,,No,155
+Yuba,5005,Proposition 41,,,Yes,196
+Yuba,5005,Proposition 42,,,No,172
+Yuba,5005,Proposition 42,,,Yes,173
 Yuba,5005,Secretary of State,,DEM,Alex Padilla,67
 Yuba,5005,Secretary of State,,IND,Dan Schnur,22
 Yuba,5005,Secretary of State,,GRN,David Curtis,18
@@ -2255,11 +2203,8 @@ Yuba,5006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 Yuba,5006,Governor,,REP,Glenn Champ,7
 Yuba,5006,Governor,,IND,Janel Hyeshia Buycks,1
 Yuba,5006,Governor,,IND,Joe Leicht,1
-Yuba,5006,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,5006,Governor,,REP,Neel Kashkari,95
 Yuba,5006,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,5006,Governor,,REP,Richard William Aguirre,0
-Yuba,5006,Governor,,IND,Robert Newman,0
 Yuba,5006,Governor,,REP,Tim Donnelly,74
 Yuba,5006,Insurance Commissioner,,DEM,Dave Jones,72
 Yuba,5006,Insurance Commissioner,,PAF,Nathalie Hrizi,7
@@ -2272,6 +2217,10 @@ Yuba,5006,Lieutenant Governor,,DEM,Gavin Newsom,64
 Yuba,5006,Lieutenant Governor,,REP,George Yang,34
 Yuba,5006,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Yuba,5006,Lieutenant Governor,,REP,Ron Nehring,79
+Yuba,5006,Proposition 41,,,No,137
+Yuba,5006,Proposition 41,,,Yes,137
+Yuba,5006,Proposition 42,,,No,151
+Yuba,5006,Proposition 42,,,Yes,121
 Yuba,5006,Secretary of State,,DEM,Alex Padilla,41
 Yuba,5006,Secretary of State,,IND,Dan Schnur,30
 Yuba,5006,Secretary of State,,GRN,David Curtis,6
@@ -2308,7 +2257,6 @@ Yuba,5007,Controller,,REP,David Evans,88
 Yuba,5007,Controller,,DEM,John A. Pérez,19
 Yuba,5007,Controller,,GRN,Laura Wells,14
 Yuba,5007,Controller,,DEM,Tammy D. Blair,12
-Yuba,5007,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,5007,Governor,,DEM,Akinyemi Agbede,1
 Yuba,5007,Governor,,REP,Alma Marie Winston,4
 Yuba,5007,Governor,,REP,Andrew Blount,8
@@ -2316,12 +2264,8 @@ Yuba,5007,Governor,,PAF,Cindy L. Sheehan,5
 Yuba,5007,Governor,,DEM,"Edmund G. ""Jerry"" Brown",76
 Yuba,5007,Governor,,REP,Glenn Champ,3
 Yuba,5007,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,5007,Governor,,IND,Joe Leicht,0
-Yuba,5007,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,5007,Governor,,REP,Neel Kashkari,119
 Yuba,5007,Governor,,IND,Rakesh Kumar Christian,2
-Yuba,5007,Governor,,REP,Richard William Aguirre,0
-Yuba,5007,Governor,,IND,Robert Newman,0
 Yuba,5007,Governor,,REP,Tim Donnelly,61
 Yuba,5007,Insurance Commissioner,,DEM,Dave Jones,62
 Yuba,5007,Insurance Commissioner,,PAF,Nathalie Hrizi,9
@@ -2334,6 +2278,10 @@ Yuba,5007,Lieutenant Governor,,DEM,Gavin Newsom,47
 Yuba,5007,Lieutenant Governor,,REP,George Yang,29
 Yuba,5007,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Yuba,5007,Lieutenant Governor,,REP,Ron Nehring,90
+Yuba,5007,Proposition 41,,,No,151
+Yuba,5007,Proposition 41,,,Yes,126
+Yuba,5007,Proposition 42,,,No,162
+Yuba,5007,Proposition 42,,,Yes,113
 Yuba,5007,Secretary of State,,DEM,Alex Padilla,33
 Yuba,5007,Secretary of State,,IND,Dan Schnur,44
 Yuba,5007,Secretary of State,,GRN,David Curtis,7
@@ -2396,6 +2344,10 @@ Yuba,5008,Lieutenant Governor,,DEM,Gavin Newsom,70
 Yuba,5008,Lieutenant Governor,,REP,George Yang,25
 Yuba,5008,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Yuba,5008,Lieutenant Governor,,REP,Ron Nehring,99
+Yuba,5008,Proposition 41,,,No,182
+Yuba,5008,Proposition 41,,,Yes,150
+Yuba,5008,Proposition 42,,,No,175
+Yuba,5008,Proposition 42,,,Yes,151
 Yuba,5008,Secretary of State,,DEM,Alex Padilla,48
 Yuba,5008,Secretary of State,,IND,Dan Schnur,48
 Yuba,5008,Secretary of State,,GRN,David Curtis,14
@@ -2434,14 +2386,10 @@ Yuba,5009,Controller,,GRN,Laura Wells,8
 Yuba,5009,Controller,,DEM,Tammy D. Blair,16
 Yuba,5009,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Yuba,5009,Governor,,DEM,Akinyemi Agbede,1
-Yuba,5009,Governor,,REP,Alma Marie Winston,0
 Yuba,5009,Governor,,REP,Andrew Blount,7
 Yuba,5009,Governor,,PAF,Cindy L. Sheehan,1
 Yuba,5009,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
 Yuba,5009,Governor,,REP,Glenn Champ,5
-Yuba,5009,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,5009,Governor,,IND,Joe Leicht,0
-Yuba,5009,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,5009,Governor,,REP,Neel Kashkari,105
 Yuba,5009,Governor,,IND,Rakesh Kumar Christian,2
 Yuba,5009,Governor,,REP,Richard William Aguirre,3
@@ -2458,6 +2406,10 @@ Yuba,5009,Lieutenant Governor,,DEM,Gavin Newsom,27
 Yuba,5009,Lieutenant Governor,,REP,George Yang,27
 Yuba,5009,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Yuba,5009,Lieutenant Governor,,REP,Ron Nehring,109
+Yuba,5009,Proposition 41,,,No,131
+Yuba,5009,Proposition 41,,,Yes,114
+Yuba,5009,Proposition 42,,,No,121
+Yuba,5009,Proposition 42,,,Yes,114
 Yuba,5009,Secretary of State,,DEM,Alex Padilla,19
 Yuba,5009,Secretary of State,,IND,Dan Schnur,46
 Yuba,5009,Secretary of State,,GRN,David Curtis,5
@@ -2505,8 +2457,6 @@ Yuba,5010,Governor,,IND,Janel Hyeshia Buycks,1
 Yuba,5010,Governor,,IND,Joe Leicht,1
 Yuba,5010,Governor,,GRN,Luis J. Rodriguez,2
 Yuba,5010,Governor,,REP,Neel Kashkari,151
-Yuba,5010,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,5010,Governor,,REP,Richard William Aguirre,0
 Yuba,5010,Governor,,IND,Robert Newman,5
 Yuba,5010,Governor,,REP,Tim Donnelly,101
 Yuba,5010,Insurance Commissioner,,DEM,Dave Jones,93
@@ -2520,6 +2470,10 @@ Yuba,5010,Lieutenant Governor,,DEM,Gavin Newsom,79
 Yuba,5010,Lieutenant Governor,,REP,George Yang,38
 Yuba,5010,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Yuba,5010,Lieutenant Governor,,REP,Ron Nehring,140
+Yuba,5010,Proposition 41,,,No,198
+Yuba,5010,Proposition 41,,,Yes,191
+Yuba,5010,Proposition 42,,,No,206
+Yuba,5010,Proposition 42,,,Yes,178
 Yuba,5010,Secretary of State,,DEM,Alex Padilla,56
 Yuba,5010,Secretary of State,,IND,Dan Schnur,65
 Yuba,5010,Secretary of State,,GRN,David Curtis,10
@@ -2556,19 +2510,14 @@ Yuba,5011,Controller,,REP,David Evans,139
 Yuba,5011,Controller,,DEM,John A. Pérez,34
 Yuba,5011,Controller,,GRN,Laura Wells,23
 Yuba,5011,Controller,,DEM,Tammy D. Blair,17
-Yuba,5011,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Yuba,5011,Governor,,DEM,Akinyemi Agbede,0
 Yuba,5011,Governor,,REP,Alma Marie Winston,3
 Yuba,5011,Governor,,REP,Andrew Blount,20
 Yuba,5011,Governor,,PAF,Cindy L. Sheehan,6
 Yuba,5011,Governor,,DEM,"Edmund G. ""Jerry"" Brown",135
 Yuba,5011,Governor,,REP,Glenn Champ,5
-Yuba,5011,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,5011,Governor,,IND,Joe Leicht,0
 Yuba,5011,Governor,,GRN,Luis J. Rodriguez,6
 Yuba,5011,Governor,,REP,Neel Kashkari,144
 Yuba,5011,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,5011,Governor,,REP,Richard William Aguirre,0
 Yuba,5011,Governor,,IND,Robert Newman,2
 Yuba,5011,Governor,,REP,Tim Donnelly,107
 Yuba,5011,Insurance Commissioner,,DEM,Dave Jones,116
@@ -2582,6 +2531,10 @@ Yuba,5011,Lieutenant Governor,,DEM,Gavin Newsom,103
 Yuba,5011,Lieutenant Governor,,REP,George Yang,45
 Yuba,5011,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Yuba,5011,Lieutenant Governor,,REP,Ron Nehring,120
+Yuba,5011,Proposition 41,,,No,204
+Yuba,5011,Proposition 41,,,Yes,219
+Yuba,5011,Proposition 42,,,No,216
+Yuba,5011,Proposition 42,,,Yes,198
 Yuba,5011,Secretary of State,,DEM,Alex Padilla,61
 Yuba,5011,Secretary of State,,IND,Dan Schnur,67
 Yuba,5011,Secretary of State,,GRN,David Curtis,14
@@ -2618,7 +2571,6 @@ Yuba,5012,Controller,,REP,David Evans,68
 Yuba,5012,Controller,,DEM,John A. Pérez,14
 Yuba,5012,Controller,,GRN,Laura Wells,12
 Yuba,5012,Controller,,DEM,Tammy D. Blair,18
-Yuba,5012,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Yuba,5012,Governor,,DEM,Akinyemi Agbede,2
 Yuba,5012,Governor,,REP,Alma Marie Winston,3
 Yuba,5012,Governor,,REP,Andrew Blount,4
@@ -2626,12 +2578,8 @@ Yuba,5012,Governor,,PAF,Cindy L. Sheehan,2
 Yuba,5012,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Yuba,5012,Governor,,REP,Glenn Champ,6
 Yuba,5012,Governor,,IND,Janel Hyeshia Buycks,2
-Yuba,5012,Governor,,IND,Joe Leicht,0
-Yuba,5012,Governor,,GRN,Luis J. Rodriguez,0
 Yuba,5012,Governor,,REP,Neel Kashkari,59
-Yuba,5012,Governor,,IND,Rakesh Kumar Christian,0
 Yuba,5012,Governor,,REP,Richard William Aguirre,1
-Yuba,5012,Governor,,IND,Robert Newman,0
 Yuba,5012,Governor,,REP,Tim Donnelly,52
 Yuba,5012,Insurance Commissioner,,DEM,Dave Jones,54
 Yuba,5012,Insurance Commissioner,,PAF,Nathalie Hrizi,12
@@ -2644,6 +2592,10 @@ Yuba,5012,Lieutenant Governor,,DEM,Gavin Newsom,46
 Yuba,5012,Lieutenant Governor,,REP,George Yang,30
 Yuba,5012,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Yuba,5012,Lieutenant Governor,,REP,Ron Nehring,50
+Yuba,5012,Proposition 41,,,No,76
+Yuba,5012,Proposition 41,,,Yes,131
+Yuba,5012,Proposition 42,,,No,77
+Yuba,5012,Proposition 42,,,Yes,126
 Yuba,5012,Secretary of State,,DEM,Alex Padilla,28
 Yuba,5012,Secretary of State,,IND,Dan Schnur,16
 Yuba,5012,Secretary of State,,GRN,David Curtis,12
@@ -2681,18 +2633,13 @@ Yuba,5013,Controller,,DEM,John A. Pérez,5
 Yuba,5013,Controller,,GRN,Laura Wells,3
 Yuba,5013,Controller,,DEM,Tammy D. Blair,4
 Yuba,5013,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Yuba,5013,Governor,,DEM,Akinyemi Agbede,0
 Yuba,5013,Governor,,REP,Alma Marie Winston,1
 Yuba,5013,Governor,,REP,Andrew Blount,4
-Yuba,5013,Governor,,PAF,Cindy L. Sheehan,0
 Yuba,5013,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Yuba,5013,Governor,,REP,Glenn Champ,3
 Yuba,5013,Governor,,IND,Janel Hyeshia Buycks,1
-Yuba,5013,Governor,,IND,Joe Leicht,0
 Yuba,5013,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,5013,Governor,,REP,Neel Kashkari,20
-Yuba,5013,Governor,,IND,Rakesh Kumar Christian,0
-Yuba,5013,Governor,,REP,Richard William Aguirre,0
 Yuba,5013,Governor,,IND,Robert Newman,2
 Yuba,5013,Governor,,REP,Tim Donnelly,14
 Yuba,5013,Insurance Commissioner,,DEM,Dave Jones,16
@@ -2706,6 +2653,10 @@ Yuba,5013,Lieutenant Governor,,DEM,Gavin Newsom,15
 Yuba,5013,Lieutenant Governor,,REP,George Yang,6
 Yuba,5013,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,5013,Lieutenant Governor,,REP,Ron Nehring,19
+Yuba,5013,Proposition 41,,,No,31
+Yuba,5013,Proposition 41,,,Yes,37
+Yuba,5013,Proposition 42,,,No,30
+Yuba,5013,Proposition 42,,,Yes,34
 Yuba,5013,Secretary of State,,DEM,Alex Padilla,11
 Yuba,5013,Secretary of State,,IND,Dan Schnur,3
 Yuba,5013,Secretary of State,,GRN,David Curtis,2
@@ -2743,19 +2694,14 @@ Yuba,5014,Controller,,DEM,John A. Pérez,30
 Yuba,5014,Controller,,GRN,Laura Wells,26
 Yuba,5014,Controller,,DEM,Tammy D. Blair,10
 Yuba,5014,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Yuba,5014,Governor,,DEM,Akinyemi Agbede,0
 Yuba,5014,Governor,,REP,Alma Marie Winston,4
 Yuba,5014,Governor,,REP,Andrew Blount,7
 Yuba,5014,Governor,,PAF,Cindy L. Sheehan,4
 Yuba,5014,Governor,,DEM,"Edmund G. ""Jerry"" Brown",85
 Yuba,5014,Governor,,REP,Glenn Champ,4
-Yuba,5014,Governor,,IND,Janel Hyeshia Buycks,0
-Yuba,5014,Governor,,IND,Joe Leicht,0
 Yuba,5014,Governor,,GRN,Luis J. Rodriguez,1
 Yuba,5014,Governor,,REP,Neel Kashkari,22
 Yuba,5014,Governor,,IND,Rakesh Kumar Christian,1
-Yuba,5014,Governor,,REP,Richard William Aguirre,0
-Yuba,5014,Governor,,IND,Robert Newman,0
 Yuba,5014,Governor,,REP,Tim Donnelly,21
 Yuba,5014,Insurance Commissioner,,DEM,Dave Jones,62
 Yuba,5014,Insurance Commissioner,,PAF,Nathalie Hrizi,23
@@ -2768,6 +2714,10 @@ Yuba,5014,Lieutenant Governor,,DEM,Gavin Newsom,60
 Yuba,5014,Lieutenant Governor,,REP,George Yang,8
 Yuba,5014,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Yuba,5014,Lieutenant Governor,,REP,Ron Nehring,27
+Yuba,5014,Proposition 41,,,No,47
+Yuba,5014,Proposition 41,,,Yes,102
+Yuba,5014,Proposition 42,,,No,69
+Yuba,5014,Proposition 42,,,Yes,73
 Yuba,5014,Secretary of State,,DEM,Alex Padilla,41
 Yuba,5014,Secretary of State,,IND,Dan Schnur,4
 Yuba,5014,Secretary of State,,GRN,David Curtis,18

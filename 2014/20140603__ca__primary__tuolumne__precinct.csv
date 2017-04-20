@@ -14,18 +14,11 @@ Tuolumne,100003,Controller,,REP,David Evans,106
 Tuolumne,100003,Controller,,DEM,John A. Pérez,19
 Tuolumne,100003,Controller,,GRN,Laura Wells,13
 Tuolumne,100003,Controller,,DEM,Tammy D. Blair,9
-Tuolumne,100003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,100003,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,100003,Governor,,REP,Alma Marie Winston,0
 Tuolumne,100003,Governor,,REP,Andrew Blount,15
 Tuolumne,100003,Governor,,PAF,Cindy L. Sheehan,6
 Tuolumne,100003,Governor,,DEM,"Edmund G. ""Jerry"" Brown",84
 Tuolumne,100003,Governor,,REP,Glenn Champ,6
-Tuolumne,100003,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,100003,Governor,,IND,Joe Leicht,0
-Tuolumne,100003,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,100003,Governor,,REP,Neel Kashkari,63
-Tuolumne,100003,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,100003,Governor,,REP,Richard William Aguirre,2
 Tuolumne,100003,Governor,,IND,Robert Newman,7
 Tuolumne,100003,Governor,,REP,Tim Donnelly,54
@@ -40,6 +33,10 @@ Tuolumne,100003,Lieutenant Governor,,DEM,Gavin Newsom,68
 Tuolumne,100003,Lieutenant Governor,,REP,George Yang,21
 Tuolumne,100003,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tuolumne,100003,Lieutenant Governor,,REP,Ron Nehring,95
+Tuolumne,100003,Proposition 41,,,No,99
+Tuolumne,100003,Proposition 41,,,Yes,130
+Tuolumne,100003,Proposition 42,,,No,117
+Tuolumne,100003,Proposition 42,,,Yes,111
 Tuolumne,100003,Secretary of State,,DEM,Alex Padilla,37
 Tuolumne,100003,Secretary of State,,IND,Dan Schnur,13
 Tuolumne,100003,Secretary of State,,GRN,David Curtis,9
@@ -76,14 +73,11 @@ Tuolumne,100004,Controller,,DEM,John A. Pérez,59
 Tuolumne,100004,Controller,,GRN,Laura Wells,12
 Tuolumne,100004,Controller,,DEM,Tammy D. Blair,19
 Tuolumne,100004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,100004,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,100004,Governor,,REP,Alma Marie Winston,0
 Tuolumne,100004,Governor,,REP,Andrew Blount,12
 Tuolumne,100004,Governor,,PAF,Cindy L. Sheehan,4
 Tuolumne,100004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",182
 Tuolumne,100004,Governor,,REP,Glenn Champ,5
 Tuolumne,100004,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,100004,Governor,,IND,Joe Leicht,0
 Tuolumne,100004,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,100004,Governor,,REP,Neel Kashkari,89
 Tuolumne,100004,Governor,,IND,Rakesh Kumar Christian,2
@@ -101,6 +95,10 @@ Tuolumne,100004,Lieutenant Governor,,DEM,Gavin Newsom,160
 Tuolumne,100004,Lieutenant Governor,,REP,George Yang,12
 Tuolumne,100004,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tuolumne,100004,Lieutenant Governor,,REP,Ron Nehring,108
+Tuolumne,100004,Proposition 41,,,No,124
+Tuolumne,100004,Proposition 41,,,Yes,204
+Tuolumne,100004,Proposition 42,,,No,151
+Tuolumne,100004,Proposition 42,,,Yes,169
 Tuolumne,100004,Secretary of State,,DEM,Alex Padilla,87
 Tuolumne,100004,Secretary of State,,IND,Dan Schnur,13
 Tuolumne,100004,Secretary of State,,GRN,David Curtis,7
@@ -143,12 +141,8 @@ Tuolumne,101006,Governor,,REP,Andrew Blount,9
 Tuolumne,101006,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,101006,Governor,,DEM,"Edmund G. ""Jerry"" Brown",131
 Tuolumne,101006,Governor,,REP,Glenn Champ,7
-Tuolumne,101006,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,101006,Governor,,IND,Joe Leicht,0
 Tuolumne,101006,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,101006,Governor,,REP,Neel Kashkari,56
-Tuolumne,101006,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,101006,Governor,,REP,Richard William Aguirre,0
 Tuolumne,101006,Governor,,IND,Robert Newman,5
 Tuolumne,101006,Governor,,REP,Tim Donnelly,39
 Tuolumne,101006,Insurance Commissioner,,DEM,Dave Jones,113
@@ -162,6 +156,10 @@ Tuolumne,101006,Lieutenant Governor,,DEM,Gavin Newsom,115
 Tuolumne,101006,Lieutenant Governor,,REP,George Yang,15
 Tuolumne,101006,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Tuolumne,101006,Lieutenant Governor,,REP,Ron Nehring,66
+Tuolumne,101006,Proposition 41,,,No,98
+Tuolumne,101006,Proposition 41,,,Yes,147
+Tuolumne,101006,Proposition 42,,,No,119
+Tuolumne,101006,Proposition 42,,,Yes,112
 Tuolumne,101006,Secretary of State,,DEM,Alex Padilla,56
 Tuolumne,101006,Secretary of State,,IND,Dan Schnur,13
 Tuolumne,101006,Secretary of State,,GRN,David Curtis,8
@@ -209,7 +207,6 @@ Tuolumne,101007,Governor,,IND,Joe Leicht,1
 Tuolumne,101007,Governor,,GRN,Luis J. Rodriguez,5
 Tuolumne,101007,Governor,,REP,Neel Kashkari,102
 Tuolumne,101007,Governor,,IND,Rakesh Kumar Christian,2
-Tuolumne,101007,Governor,,REP,Richard William Aguirre,0
 Tuolumne,101007,Governor,,IND,Robert Newman,3
 Tuolumne,101007,Governor,,REP,Tim Donnelly,97
 Tuolumne,101007,Insurance Commissioner,,DEM,Dave Jones,176
@@ -223,6 +220,10 @@ Tuolumne,101007,Lieutenant Governor,,DEM,Gavin Newsom,189
 Tuolumne,101007,Lieutenant Governor,,REP,George Yang,32
 Tuolumne,101007,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tuolumne,101007,Lieutenant Governor,,REP,Ron Nehring,135
+Tuolumne,101007,Proposition 41,,,No,205
+Tuolumne,101007,Proposition 41,,,Yes,225
+Tuolumne,101007,Proposition 42,,,No,238
+Tuolumne,101007,Proposition 42,,,Yes,186
 Tuolumne,101007,Secretary of State,,DEM,Alex Padilla,78
 Tuolumne,101007,Secretary of State,,IND,Dan Schnur,24
 Tuolumne,101007,Secretary of State,,GRN,David Curtis,19
@@ -266,7 +267,6 @@ Tuolumne,101008,Governor,,PAF,Cindy L. Sheehan,7
 Tuolumne,101008,Governor,,DEM,"Edmund G. ""Jerry"" Brown",125
 Tuolumne,101008,Governor,,REP,Glenn Champ,7
 Tuolumne,101008,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,101008,Governor,,IND,Joe Leicht,0
 Tuolumne,101008,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,101008,Governor,,REP,Neel Kashkari,34
 Tuolumne,101008,Governor,,IND,Rakesh Kumar Christian,1
@@ -276,7 +276,6 @@ Tuolumne,101008,Governor,,REP,Tim Donnelly,32
 Tuolumne,101008,Insurance Commissioner,,DEM,Dave Jones,106
 Tuolumne,101008,Insurance Commissioner,,PAF,Nathalie Hrizi,22
 Tuolumne,101008,Insurance Commissioner,,REP,Ted Gaines,80
-Tuolumne,101008,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,101008,Lieutenant Governor,,PAF,Amos Johnson,3
 Tuolumne,101008,Lieutenant Governor,,REP,David Fennell,15
 Tuolumne,101008,Lieutenant Governor,,DEM,Eric Korevaar,13
@@ -284,6 +283,10 @@ Tuolumne,101008,Lieutenant Governor,,DEM,Gavin Newsom,107
 Tuolumne,101008,Lieutenant Governor,,REP,George Yang,10
 Tuolumne,101008,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tuolumne,101008,Lieutenant Governor,,REP,Ron Nehring,55
+Tuolumne,101008,Proposition 41,,,No,78
+Tuolumne,101008,Proposition 41,,,Yes,139
+Tuolumne,101008,Proposition 42,,,No,108
+Tuolumne,101008,Proposition 42,,,Yes,97
 Tuolumne,101008,Secretary of State,,DEM,Alex Padilla,54
 Tuolumne,101008,Secretary of State,,IND,Dan Schnur,9
 Tuolumne,101008,Secretary of State,,GRN,David Curtis,15
@@ -326,12 +329,10 @@ Tuolumne,101009,Governor,,REP,Andrew Blount,8
 Tuolumne,101009,Governor,,PAF,Cindy L. Sheehan,5
 Tuolumne,101009,Governor,,DEM,"Edmund G. ""Jerry"" Brown",119
 Tuolumne,101009,Governor,,REP,Glenn Champ,4
-Tuolumne,101009,Governor,,IND,Janel Hyeshia Buycks,0
 Tuolumne,101009,Governor,,IND,Joe Leicht,1
 Tuolumne,101009,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,101009,Governor,,REP,Neel Kashkari,54
 Tuolumne,101009,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,101009,Governor,,REP,Richard William Aguirre,0
 Tuolumne,101009,Governor,,IND,Robert Newman,2
 Tuolumne,101009,Governor,,REP,Tim Donnelly,46
 Tuolumne,101009,Insurance Commissioner,,DEM,Dave Jones,99
@@ -345,6 +346,10 @@ Tuolumne,101009,Lieutenant Governor,,DEM,Gavin Newsom,103
 Tuolumne,101009,Lieutenant Governor,,REP,George Yang,20
 Tuolumne,101009,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tuolumne,101009,Lieutenant Governor,,REP,Ron Nehring,72
+Tuolumne,101009,Proposition 41,,,No,100
+Tuolumne,101009,Proposition 41,,,Yes,138
+Tuolumne,101009,Proposition 42,,,No,121
+Tuolumne,101009,Proposition 42,,,Yes,113
 Tuolumne,101009,Secretary of State,,DEM,Alex Padilla,53
 Tuolumne,101009,Secretary of State,,IND,Dan Schnur,19
 Tuolumne,101009,Secretary of State,,GRN,David Curtis,10
@@ -381,18 +386,13 @@ Tuolumne,200010,Controller,,DEM,John A. Pérez,33
 Tuolumne,200010,Controller,,GRN,Laura Wells,15
 Tuolumne,200010,Controller,,DEM,Tammy D. Blair,8
 Tuolumne,200010,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Tuolumne,200010,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,200010,Governor,,REP,Alma Marie Winston,1
 Tuolumne,200010,Governor,,REP,Andrew Blount,3
 Tuolumne,200010,Governor,,PAF,Cindy L. Sheehan,2
 Tuolumne,200010,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Tuolumne,200010,Governor,,REP,Glenn Champ,4
-Tuolumne,200010,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,200010,Governor,,IND,Joe Leicht,0
 Tuolumne,200010,Governor,,GRN,Luis J. Rodriguez,3
 Tuolumne,200010,Governor,,REP,Neel Kashkari,38
-Tuolumne,200010,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,200010,Governor,,REP,Richard William Aguirre,0
 Tuolumne,200010,Governor,,IND,Robert Newman,5
 Tuolumne,200010,Governor,,REP,Tim Donnelly,51
 Tuolumne,200010,Insurance Commissioner,,DEM,Dave Jones,88
@@ -406,6 +406,10 @@ Tuolumne,200010,Lieutenant Governor,,DEM,Gavin Newsom,84
 Tuolumne,200010,Lieutenant Governor,,REP,George Yang,21
 Tuolumne,200010,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tuolumne,200010,Lieutenant Governor,,REP,Ron Nehring,66
+Tuolumne,200010,Proposition 41,,,No,97
+Tuolumne,200010,Proposition 41,,,Yes,112
+Tuolumne,200010,Proposition 42,,,No,114
+Tuolumne,200010,Proposition 42,,,Yes,91
 Tuolumne,200010,Secretary of State,,DEM,Alex Padilla,48
 Tuolumne,200010,Secretary of State,,IND,Dan Schnur,10
 Tuolumne,200010,Secretary of State,,GRN,David Curtis,6
@@ -443,17 +447,13 @@ Tuolumne,200012,Controller,,GRN,Laura Wells,35
 Tuolumne,200012,Controller,,DEM,Tammy D. Blair,17
 Tuolumne,200012,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",7
 Tuolumne,200012,Governor,,DEM,Akinyemi Agbede,1
-Tuolumne,200012,Governor,,REP,Alma Marie Winston,0
 Tuolumne,200012,Governor,,REP,Andrew Blount,14
 Tuolumne,200012,Governor,,PAF,Cindy L. Sheehan,3
 Tuolumne,200012,Governor,,DEM,"Edmund G. ""Jerry"" Brown",172
 Tuolumne,200012,Governor,,REP,Glenn Champ,15
 Tuolumne,200012,Governor,,IND,Janel Hyeshia Buycks,1
 Tuolumne,200012,Governor,,IND,Joe Leicht,1
-Tuolumne,200012,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,200012,Governor,,REP,Neel Kashkari,89
-Tuolumne,200012,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,200012,Governor,,REP,Richard William Aguirre,0
 Tuolumne,200012,Governor,,IND,Robert Newman,8
 Tuolumne,200012,Governor,,REP,Tim Donnelly,96
 Tuolumne,200012,Insurance Commissioner,,DEM,Dave Jones,131
@@ -467,6 +467,10 @@ Tuolumne,200012,Lieutenant Governor,,DEM,Gavin Newsom,134
 Tuolumne,200012,Lieutenant Governor,,REP,George Yang,20
 Tuolumne,200012,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Tuolumne,200012,Lieutenant Governor,,REP,Ron Nehring,154
+Tuolumne,200012,Proposition 41,,,No,179
+Tuolumne,200012,Proposition 41,,,Yes,218
+Tuolumne,200012,Proposition 42,,,No,203
+Tuolumne,200012,Proposition 42,,,Yes,180
 Tuolumne,200012,Secretary of State,,DEM,Alex Padilla,69
 Tuolumne,200012,Secretary of State,,IND,Dan Schnur,22
 Tuolumne,200012,Secretary of State,,GRN,David Curtis,13
@@ -502,7 +506,6 @@ Tuolumne,200015,Controller,,REP,David Evans,180
 Tuolumne,200015,Controller,,DEM,John A. Pérez,71
 Tuolumne,200015,Controller,,GRN,Laura Wells,27
 Tuolumne,200015,Controller,,DEM,Tammy D. Blair,21
-Tuolumne,200015,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tuolumne,200015,Governor,,DEM,Akinyemi Agbede,1
 Tuolumne,200015,Governor,,REP,Alma Marie Winston,5
 Tuolumne,200015,Governor,,REP,Andrew Blount,10
@@ -511,7 +514,6 @@ Tuolumne,200015,Governor,,DEM,"Edmund G. ""Jerry"" Brown",224
 Tuolumne,200015,Governor,,REP,Glenn Champ,10
 Tuolumne,200015,Governor,,IND,Janel Hyeshia Buycks,1
 Tuolumne,200015,Governor,,IND,Joe Leicht,2
-Tuolumne,200015,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,200015,Governor,,REP,Neel Kashkari,121
 Tuolumne,200015,Governor,,IND,Rakesh Kumar Christian,2
 Tuolumne,200015,Governor,,REP,Richard William Aguirre,2
@@ -528,6 +530,10 @@ Tuolumne,200015,Lieutenant Governor,,DEM,Gavin Newsom,183
 Tuolumne,200015,Lieutenant Governor,,REP,George Yang,26
 Tuolumne,200015,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Tuolumne,200015,Lieutenant Governor,,REP,Ron Nehring,160
+Tuolumne,200015,Proposition 41,,,No,206
+Tuolumne,200015,Proposition 41,,,Yes,268
+Tuolumne,200015,Proposition 42,,,No,250
+Tuolumne,200015,Proposition 42,,,Yes,212
 Tuolumne,200015,Secretary of State,,DEM,Alex Padilla,96
 Tuolumne,200015,Secretary of State,,IND,Dan Schnur,25
 Tuolumne,200015,Secretary of State,,GRN,David Curtis,10
@@ -564,17 +570,14 @@ Tuolumne,200016,Controller,,DEM,John A. Pérez,39
 Tuolumne,200016,Controller,,GRN,Laura Wells,16
 Tuolumne,200016,Controller,,DEM,Tammy D. Blair,10
 Tuolumne,200016,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Tuolumne,200016,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,200016,Governor,,REP,Alma Marie Winston,2
 Tuolumne,200016,Governor,,REP,Andrew Blount,3
 Tuolumne,200016,Governor,,PAF,Cindy L. Sheehan,3
 Tuolumne,200016,Governor,,DEM,"Edmund G. ""Jerry"" Brown",125
 Tuolumne,200016,Governor,,REP,Glenn Champ,9
 Tuolumne,200016,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,200016,Governor,,IND,Joe Leicht,0
 Tuolumne,200016,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,200016,Governor,,REP,Neel Kashkari,84
-Tuolumne,200016,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,200016,Governor,,REP,Richard William Aguirre,1
 Tuolumne,200016,Governor,,IND,Robert Newman,3
 Tuolumne,200016,Governor,,REP,Tim Donnelly,60
@@ -589,6 +592,10 @@ Tuolumne,200016,Lieutenant Governor,,DEM,Gavin Newsom,120
 Tuolumne,200016,Lieutenant Governor,,REP,George Yang,15
 Tuolumne,200016,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tuolumne,200016,Lieutenant Governor,,REP,Ron Nehring,101
+Tuolumne,200016,Proposition 41,,,No,135
+Tuolumne,200016,Proposition 41,,,Yes,160
+Tuolumne,200016,Proposition 42,,,No,154
+Tuolumne,200016,Proposition 42,,,Yes,130
 Tuolumne,200016,Secretary of State,,DEM,Alex Padilla,52
 Tuolumne,200016,Secretary of State,,IND,Dan Schnur,16
 Tuolumne,200016,Secretary of State,,GRN,David Curtis,3
@@ -628,16 +635,10 @@ Tuolumne,200017,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Tuolumne,200017,Governor,,DEM,Akinyemi Agbede,2
 Tuolumne,200017,Governor,,REP,Alma Marie Winston,1
 Tuolumne,200017,Governor,,REP,Andrew Blount,4
-Tuolumne,200017,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,200017,Governor,,DEM,"Edmund G. ""Jerry"" Brown",117
 Tuolumne,200017,Governor,,REP,Glenn Champ,12
-Tuolumne,200017,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,200017,Governor,,IND,Joe Leicht,0
 Tuolumne,200017,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,200017,Governor,,REP,Neel Kashkari,82
-Tuolumne,200017,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,200017,Governor,,REP,Richard William Aguirre,0
-Tuolumne,200017,Governor,,IND,Robert Newman,0
 Tuolumne,200017,Governor,,REP,Tim Donnelly,51
 Tuolumne,200017,Insurance Commissioner,,DEM,Dave Jones,89
 Tuolumne,200017,Insurance Commissioner,,PAF,Nathalie Hrizi,8
@@ -650,6 +651,10 @@ Tuolumne,200017,Lieutenant Governor,,DEM,Gavin Newsom,85
 Tuolumne,200017,Lieutenant Governor,,REP,George Yang,18
 Tuolumne,200017,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tuolumne,200017,Lieutenant Governor,,REP,Ron Nehring,96
+Tuolumne,200017,Proposition 41,,,No,125
+Tuolumne,200017,Proposition 41,,,Yes,146
+Tuolumne,200017,Proposition 42,,,No,147
+Tuolumne,200017,Proposition 42,,,Yes,119
 Tuolumne,200017,Secretary of State,,DEM,Alex Padilla,46
 Tuolumne,200017,Secretary of State,,IND,Dan Schnur,13
 Tuolumne,200017,Secretary of State,,GRN,David Curtis,10
@@ -685,7 +690,6 @@ Tuolumne,300018,Controller,,REP,David Evans,127
 Tuolumne,300018,Controller,,DEM,John A. Pérez,35
 Tuolumne,300018,Controller,,GRN,Laura Wells,17
 Tuolumne,300018,Controller,,DEM,Tammy D. Blair,12
-Tuolumne,300018,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tuolumne,300018,Governor,,DEM,Akinyemi Agbede,1
 Tuolumne,300018,Governor,,REP,Alma Marie Winston,5
 Tuolumne,300018,Governor,,REP,Andrew Blount,12
@@ -693,8 +697,6 @@ Tuolumne,300018,Governor,,PAF,Cindy L. Sheehan,2
 Tuolumne,300018,Governor,,DEM,"Edmund G. ""Jerry"" Brown",122
 Tuolumne,300018,Governor,,REP,Glenn Champ,6
 Tuolumne,300018,Governor,,IND,Janel Hyeshia Buycks,3
-Tuolumne,300018,Governor,,IND,Joe Leicht,0
-Tuolumne,300018,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,300018,Governor,,REP,Neel Kashkari,85
 Tuolumne,300018,Governor,,IND,Rakesh Kumar Christian,1
 Tuolumne,300018,Governor,,REP,Richard William Aguirre,4
@@ -711,6 +713,10 @@ Tuolumne,300018,Lieutenant Governor,,DEM,Gavin Newsom,109
 Tuolumne,300018,Lieutenant Governor,,REP,George Yang,41
 Tuolumne,300018,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Tuolumne,300018,Lieutenant Governor,,REP,Ron Nehring,119
+Tuolumne,300018,Proposition 41,,,No,152
+Tuolumne,300018,Proposition 41,,,Yes,160
+Tuolumne,300018,Proposition 42,,,No,165
+Tuolumne,300018,Proposition 42,,,Yes,137
 Tuolumne,300018,Secretary of State,,DEM,Alex Padilla,59
 Tuolumne,300018,Secretary of State,,IND,Dan Schnur,10
 Tuolumne,300018,Secretary of State,,GRN,David Curtis,5
@@ -772,6 +778,10 @@ Tuolumne,300021,Lieutenant Governor,,DEM,Gavin Newsom,187
 Tuolumne,300021,Lieutenant Governor,,REP,George Yang,29
 Tuolumne,300021,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Tuolumne,300021,Lieutenant Governor,,REP,Ron Nehring,159
+Tuolumne,300021,Proposition 41,,,No,195
+Tuolumne,300021,Proposition 41,,,Yes,275
+Tuolumne,300021,Proposition 42,,,No,249
+Tuolumne,300021,Proposition 42,,,Yes,217
 Tuolumne,300021,Secretary of State,,DEM,Alex Padilla,90
 Tuolumne,300021,Secretary of State,,IND,Dan Schnur,30
 Tuolumne,300021,Secretary of State,,GRN,David Curtis,17
@@ -819,7 +829,6 @@ Tuolumne,300022,Governor,,IND,Joe Leicht,4
 Tuolumne,300022,Governor,,GRN,Luis J. Rodriguez,3
 Tuolumne,300022,Governor,,REP,Neel Kashkari,137
 Tuolumne,300022,Governor,,IND,Rakesh Kumar Christian,2
-Tuolumne,300022,Governor,,REP,Richard William Aguirre,0
 Tuolumne,300022,Governor,,IND,Robert Newman,6
 Tuolumne,300022,Governor,,REP,Tim Donnelly,128
 Tuolumne,300022,Insurance Commissioner,,DEM,Dave Jones,269
@@ -833,6 +842,10 @@ Tuolumne,300022,Lieutenant Governor,,DEM,Gavin Newsom,277
 Tuolumne,300022,Lieutenant Governor,,REP,George Yang,45
 Tuolumne,300022,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Tuolumne,300022,Lieutenant Governor,,REP,Ron Nehring,212
+Tuolumne,300022,Proposition 41,,,No,273
+Tuolumne,300022,Proposition 41,,,Yes,384
+Tuolumne,300022,Proposition 42,,,No,343
+Tuolumne,300022,Proposition 42,,,Yes,297
 Tuolumne,300022,Secretary of State,,DEM,Alex Padilla,128
 Tuolumne,300022,Secretary of State,,IND,Dan Schnur,33
 Tuolumne,300022,Secretary of State,,GRN,David Curtis,19
@@ -869,18 +882,13 @@ Tuolumne,300024,Controller,,DEM,John A. Pérez,24
 Tuolumne,300024,Controller,,GRN,Laura Wells,18
 Tuolumne,300024,Controller,,DEM,Tammy D. Blair,7
 Tuolumne,300024,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Tuolumne,300024,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,300024,Governor,,REP,Alma Marie Winston,1
 Tuolumne,300024,Governor,,REP,Andrew Blount,9
 Tuolumne,300024,Governor,,PAF,Cindy L. Sheehan,3
 Tuolumne,300024,Governor,,DEM,"Edmund G. ""Jerry"" Brown",110
 Tuolumne,300024,Governor,,REP,Glenn Champ,5
-Tuolumne,300024,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,300024,Governor,,IND,Joe Leicht,0
 Tuolumne,300024,Governor,,GRN,Luis J. Rodriguez,3
 Tuolumne,300024,Governor,,REP,Neel Kashkari,50
-Tuolumne,300024,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,300024,Governor,,REP,Richard William Aguirre,0
 Tuolumne,300024,Governor,,IND,Robert Newman,7
 Tuolumne,300024,Governor,,REP,Tim Donnelly,56
 Tuolumne,300024,Insurance Commissioner,,DEM,Dave Jones,89
@@ -894,6 +902,10 @@ Tuolumne,300024,Lieutenant Governor,,DEM,Gavin Newsom,89
 Tuolumne,300024,Lieutenant Governor,,REP,George Yang,19
 Tuolumne,300024,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tuolumne,300024,Lieutenant Governor,,REP,Ron Nehring,81
+Tuolumne,300024,Proposition 41,,,No,110
+Tuolumne,300024,Proposition 41,,,Yes,127
+Tuolumne,300024,Proposition 42,,,No,129
+Tuolumne,300024,Proposition 42,,,Yes,98
 Tuolumne,300024,Secretary of State,,DEM,Alex Padilla,39
 Tuolumne,300024,Secretary of State,,IND,Dan Schnur,19
 Tuolumne,300024,Secretary of State,,GRN,David Curtis,6
@@ -937,7 +949,6 @@ Tuolumne,300025,Governor,,PAF,Cindy L. Sheehan,4
 Tuolumne,300025,Governor,,DEM,"Edmund G. ""Jerry"" Brown",67
 Tuolumne,300025,Governor,,REP,Glenn Champ,4
 Tuolumne,300025,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,300025,Governor,,IND,Joe Leicht,0
 Tuolumne,300025,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,300025,Governor,,REP,Neel Kashkari,47
 Tuolumne,300025,Governor,,IND,Rakesh Kumar Christian,3
@@ -955,6 +966,10 @@ Tuolumne,300025,Lieutenant Governor,,DEM,Gavin Newsom,56
 Tuolumne,300025,Lieutenant Governor,,REP,George Yang,22
 Tuolumne,300025,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tuolumne,300025,Lieutenant Governor,,REP,Ron Nehring,78
+Tuolumne,300025,Proposition 41,,,No,97
+Tuolumne,300025,Proposition 41,,,Yes,103
+Tuolumne,300025,Proposition 42,,,No,119
+Tuolumne,300025,Proposition 42,,,Yes,79
 Tuolumne,300025,Secretary of State,,DEM,Alex Padilla,41
 Tuolumne,300025,Secretary of State,,IND,Dan Schnur,12
 Tuolumne,300025,Secretary of State,,GRN,David Curtis,6
@@ -1001,8 +1016,6 @@ Tuolumne,400028,Governor,,IND,Janel Hyeshia Buycks,1
 Tuolumne,400028,Governor,,IND,Joe Leicht,1
 Tuolumne,400028,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,400028,Governor,,REP,Neel Kashkari,61
-Tuolumne,400028,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,400028,Governor,,REP,Richard William Aguirre,0
 Tuolumne,400028,Governor,,IND,Robert Newman,3
 Tuolumne,400028,Governor,,REP,Tim Donnelly,46
 Tuolumne,400028,Insurance Commissioner,,DEM,Dave Jones,59
@@ -1014,8 +1027,11 @@ Tuolumne,400028,Lieutenant Governor,,REP,David Fennell,27
 Tuolumne,400028,Lieutenant Governor,,DEM,Eric Korevaar,5
 Tuolumne,400028,Lieutenant Governor,,DEM,Gavin Newsom,67
 Tuolumne,400028,Lieutenant Governor,,REP,George Yang,9
-Tuolumne,400028,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,400028,Lieutenant Governor,,REP,Ron Nehring,85
+Tuolumne,400028,Proposition 41,,,No,103
+Tuolumne,400028,Proposition 41,,,Yes,109
+Tuolumne,400028,Proposition 42,,,No,125
+Tuolumne,400028,Proposition 42,,,Yes,77
 Tuolumne,400028,Secretary of State,,DEM,Alex Padilla,33
 Tuolumne,400028,Secretary of State,,IND,Dan Schnur,10
 Tuolumne,400028,Secretary of State,,GRN,David Curtis,4
@@ -1051,20 +1067,13 @@ Tuolumne,400029,Controller,,REP,David Evans,83
 Tuolumne,400029,Controller,,DEM,John A. Pérez,35
 Tuolumne,400029,Controller,,GRN,Laura Wells,6
 Tuolumne,400029,Controller,,DEM,Tammy D. Blair,13
-Tuolumne,400029,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,400029,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,400029,Governor,,REP,Alma Marie Winston,0
 Tuolumne,400029,Governor,,REP,Andrew Blount,6
 Tuolumne,400029,Governor,,PAF,Cindy L. Sheehan,5
 Tuolumne,400029,Governor,,DEM,"Edmund G. ""Jerry"" Brown",91
 Tuolumne,400029,Governor,,REP,Glenn Champ,7
-Tuolumne,400029,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,400029,Governor,,IND,Joe Leicht,0
 Tuolumne,400029,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,400029,Governor,,REP,Neel Kashkari,48
 Tuolumne,400029,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,400029,Governor,,REP,Richard William Aguirre,0
-Tuolumne,400029,Governor,,IND,Robert Newman,0
 Tuolumne,400029,Governor,,REP,Tim Donnelly,40
 Tuolumne,400029,Insurance Commissioner,,DEM,Dave Jones,87
 Tuolumne,400029,Insurance Commissioner,,PAF,Nathalie Hrizi,5
@@ -1077,6 +1086,10 @@ Tuolumne,400029,Lieutenant Governor,,DEM,Gavin Newsom,82
 Tuolumne,400029,Lieutenant Governor,,REP,George Yang,8
 Tuolumne,400029,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,400029,Lieutenant Governor,,REP,Ron Nehring,74
+Tuolumne,400029,Proposition 41,,,No,74
+Tuolumne,400029,Proposition 41,,,Yes,122
+Tuolumne,400029,Proposition 42,,,No,81
+Tuolumne,400029,Proposition 42,,,Yes,107
 Tuolumne,400029,Secretary of State,,DEM,Alex Padilla,38
 Tuolumne,400029,Secretary of State,,IND,Dan Schnur,10
 Tuolumne,400029,Secretary of State,,GRN,David Curtis,3
@@ -1116,15 +1129,12 @@ Tuolumne,400030,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Tuolumne,400030,Governor,,DEM,Akinyemi Agbede,1
 Tuolumne,400030,Governor,,REP,Alma Marie Winston,2
 Tuolumne,400030,Governor,,REP,Andrew Blount,6
-Tuolumne,400030,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,400030,Governor,,DEM,"Edmund G. ""Jerry"" Brown",175
 Tuolumne,400030,Governor,,REP,Glenn Champ,7
-Tuolumne,400030,Governor,,IND,Janel Hyeshia Buycks,0
 Tuolumne,400030,Governor,,IND,Joe Leicht,1
 Tuolumne,400030,Governor,,GRN,Luis J. Rodriguez,5
 Tuolumne,400030,Governor,,REP,Neel Kashkari,100
 Tuolumne,400030,Governor,,IND,Rakesh Kumar Christian,4
-Tuolumne,400030,Governor,,REP,Richard William Aguirre,0
 Tuolumne,400030,Governor,,IND,Robert Newman,5
 Tuolumne,400030,Governor,,REP,Tim Donnelly,62
 Tuolumne,400030,Insurance Commissioner,,DEM,Dave Jones,166
@@ -1138,6 +1148,10 @@ Tuolumne,400030,Lieutenant Governor,,DEM,Gavin Newsom,160
 Tuolumne,400030,Lieutenant Governor,,REP,George Yang,30
 Tuolumne,400030,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tuolumne,400030,Lieutenant Governor,,REP,Ron Nehring,115
+Tuolumne,400030,Proposition 41,,,No,149
+Tuolumne,400030,Proposition 41,,,Yes,209
+Tuolumne,400030,Proposition 42,,,No,201
+Tuolumne,400030,Proposition 42,,,Yes,147
 Tuolumne,400030,Secretary of State,,DEM,Alex Padilla,80
 Tuolumne,400030,Secretary of State,,IND,Dan Schnur,24
 Tuolumne,400030,Secretary of State,,GRN,David Curtis,7
@@ -1174,13 +1188,11 @@ Tuolumne,400032,Controller,,DEM,John A. Pérez,67
 Tuolumne,400032,Controller,,GRN,Laura Wells,34
 Tuolumne,400032,Controller,,DEM,Tammy D. Blair,12
 Tuolumne,400032,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,400032,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,400032,Governor,,REP,Alma Marie Winston,4
 Tuolumne,400032,Governor,,REP,Andrew Blount,16
 Tuolumne,400032,Governor,,PAF,Cindy L. Sheehan,7
 Tuolumne,400032,Governor,,DEM,"Edmund G. ""Jerry"" Brown",213
 Tuolumne,400032,Governor,,REP,Glenn Champ,13
-Tuolumne,400032,Governor,,IND,Janel Hyeshia Buycks,0
 Tuolumne,400032,Governor,,IND,Joe Leicht,1
 Tuolumne,400032,Governor,,GRN,Luis J. Rodriguez,4
 Tuolumne,400032,Governor,,REP,Neel Kashkari,92
@@ -1199,6 +1211,10 @@ Tuolumne,400032,Lieutenant Governor,,DEM,Gavin Newsom,174
 Tuolumne,400032,Lieutenant Governor,,REP,George Yang,29
 Tuolumne,400032,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Tuolumne,400032,Lieutenant Governor,,REP,Ron Nehring,115
+Tuolumne,400032,Proposition 41,,,No,161
+Tuolumne,400032,Proposition 41,,,Yes,241
+Tuolumne,400032,Proposition 42,,,No,184
+Tuolumne,400032,Proposition 42,,,Yes,205
 Tuolumne,400032,Secretary of State,,DEM,Alex Padilla,85
 Tuolumne,400032,Secretary of State,,IND,Dan Schnur,26
 Tuolumne,400032,Secretary of State,,GRN,David Curtis,18
@@ -1234,19 +1250,12 @@ Tuolumne,400034,Controller,,REP,David Evans,31
 Tuolumne,400034,Controller,,DEM,John A. Pérez,15
 Tuolumne,400034,Controller,,GRN,Laura Wells,5
 Tuolumne,400034,Controller,,DEM,Tammy D. Blair,4
-Tuolumne,400034,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,400034,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,400034,Governor,,REP,Alma Marie Winston,0
 Tuolumne,400034,Governor,,REP,Andrew Blount,2
 Tuolumne,400034,Governor,,PAF,Cindy L. Sheehan,3
 Tuolumne,400034,Governor,,DEM,"Edmund G. ""Jerry"" Brown",39
 Tuolumne,400034,Governor,,REP,Glenn Champ,5
-Tuolumne,400034,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,400034,Governor,,IND,Joe Leicht,0
 Tuolumne,400034,Governor,,GRN,Luis J. Rodriguez,3
 Tuolumne,400034,Governor,,REP,Neel Kashkari,25
-Tuolumne,400034,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,400034,Governor,,REP,Richard William Aguirre,0
 Tuolumne,400034,Governor,,IND,Robert Newman,6
 Tuolumne,400034,Governor,,REP,Tim Donnelly,15
 Tuolumne,400034,Insurance Commissioner,,DEM,Dave Jones,38
@@ -1260,6 +1269,10 @@ Tuolumne,400034,Lieutenant Governor,,DEM,Gavin Newsom,36
 Tuolumne,400034,Lieutenant Governor,,REP,George Yang,6
 Tuolumne,400034,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,400034,Lieutenant Governor,,REP,Ron Nehring,35
+Tuolumne,400034,Proposition 41,,,No,46
+Tuolumne,400034,Proposition 41,,,Yes,54
+Tuolumne,400034,Proposition 42,,,No,51
+Tuolumne,400034,Proposition 42,,,Yes,48
 Tuolumne,400034,Secretary of State,,DEM,Alex Padilla,23
 Tuolumne,400034,Secretary of State,,IND,Dan Schnur,3
 Tuolumne,400034,Secretary of State,,GRN,David Curtis,2
@@ -1296,15 +1309,11 @@ Tuolumne,400035,Controller,,DEM,John A. Pérez,22
 Tuolumne,400035,Controller,,GRN,Laura Wells,12
 Tuolumne,400035,Controller,,DEM,Tammy D. Blair,13
 Tuolumne,400035,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,400035,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,400035,Governor,,REP,Alma Marie Winston,4
 Tuolumne,400035,Governor,,REP,Andrew Blount,10
 Tuolumne,400035,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,400035,Governor,,DEM,"Edmund G. ""Jerry"" Brown",69
 Tuolumne,400035,Governor,,REP,Glenn Champ,6
-Tuolumne,400035,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,400035,Governor,,IND,Joe Leicht,0
-Tuolumne,400035,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,400035,Governor,,REP,Neel Kashkari,63
 Tuolumne,400035,Governor,,IND,Rakesh Kumar Christian,2
 Tuolumne,400035,Governor,,REP,Richard William Aguirre,1
@@ -1321,6 +1330,10 @@ Tuolumne,400035,Lieutenant Governor,,DEM,Gavin Newsom,68
 Tuolumne,400035,Lieutenant Governor,,REP,George Yang,21
 Tuolumne,400035,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tuolumne,400035,Lieutenant Governor,,REP,Ron Nehring,83
+Tuolumne,400035,Proposition 41,,,No,93
+Tuolumne,400035,Proposition 41,,,Yes,126
+Tuolumne,400035,Proposition 42,,,No,109
+Tuolumne,400035,Proposition 42,,,Yes,105
 Tuolumne,400035,Secretary of State,,DEM,Alex Padilla,31
 Tuolumne,400035,Secretary of State,,IND,Dan Schnur,4
 Tuolumne,400035,Secretary of State,,GRN,David Curtis,9
@@ -1363,7 +1376,6 @@ Tuolumne,500037,Governor,,REP,Andrew Blount,14
 Tuolumne,500037,Governor,,PAF,Cindy L. Sheehan,3
 Tuolumne,500037,Governor,,DEM,"Edmund G. ""Jerry"" Brown",108
 Tuolumne,500037,Governor,,REP,Glenn Champ,12
-Tuolumne,500037,Governor,,IND,Janel Hyeshia Buycks,0
 Tuolumne,500037,Governor,,IND,Joe Leicht,1
 Tuolumne,500037,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,500037,Governor,,REP,Neel Kashkari,78
@@ -1375,13 +1387,16 @@ Tuolumne,500037,Insurance Commissioner,,DEM,Dave Jones,94
 Tuolumne,500037,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Tuolumne,500037,Insurance Commissioner,,REP,Ted Gaines,150
 Tuolumne,500037,Lieutenant Governor,,AME,Alan Reynolds,5
-Tuolumne,500037,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,500037,Lieutenant Governor,,REP,David Fennell,19
 Tuolumne,500037,Lieutenant Governor,,DEM,Eric Korevaar,9
 Tuolumne,500037,Lieutenant Governor,,DEM,Gavin Newsom,100
 Tuolumne,500037,Lieutenant Governor,,REP,George Yang,18
 Tuolumne,500037,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tuolumne,500037,Lieutenant Governor,,REP,Ron Nehring,98
+Tuolumne,500037,Proposition 41,,,No,123
+Tuolumne,500037,Proposition 41,,,Yes,131
+Tuolumne,500037,Proposition 42,,,No,126
+Tuolumne,500037,Proposition 42,,,Yes,124
 Tuolumne,500037,Secretary of State,,DEM,Alex Padilla,45
 Tuolumne,500037,Secretary of State,,IND,Dan Schnur,9
 Tuolumne,500037,Secretary of State,,GRN,David Curtis,5
@@ -1443,6 +1458,10 @@ Tuolumne,500038,Lieutenant Governor,,DEM,Gavin Newsom,253
 Tuolumne,500038,Lieutenant Governor,,REP,George Yang,40
 Tuolumne,500038,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Tuolumne,500038,Lieutenant Governor,,REP,Ron Nehring,181
+Tuolumne,500038,Proposition 41,,,No,252
+Tuolumne,500038,Proposition 41,,,Yes,328
+Tuolumne,500038,Proposition 42,,,No,283
+Tuolumne,500038,Proposition 42,,,Yes,275
 Tuolumne,500038,Secretary of State,,DEM,Alex Padilla,137
 Tuolumne,500038,Secretary of State,,IND,Dan Schnur,22
 Tuolumne,500038,Secretary of State,,GRN,David Curtis,24
@@ -1486,7 +1505,6 @@ Tuolumne,500041,Governor,,PAF,Cindy L. Sheehan,9
 Tuolumne,500041,Governor,,DEM,"Edmund G. ""Jerry"" Brown",196
 Tuolumne,500041,Governor,,REP,Glenn Champ,9
 Tuolumne,500041,Governor,,IND,Janel Hyeshia Buycks,2
-Tuolumne,500041,Governor,,IND,Joe Leicht,0
 Tuolumne,500041,Governor,,GRN,Luis J. Rodriguez,6
 Tuolumne,500041,Governor,,REP,Neel Kashkari,104
 Tuolumne,500041,Governor,,IND,Rakesh Kumar Christian,4
@@ -1504,6 +1522,10 @@ Tuolumne,500041,Lieutenant Governor,,DEM,Gavin Newsom,170
 Tuolumne,500041,Lieutenant Governor,,REP,George Yang,27
 Tuolumne,500041,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Tuolumne,500041,Lieutenant Governor,,REP,Ron Nehring,139
+Tuolumne,500041,Proposition 41,,,No,169
+Tuolumne,500041,Proposition 41,,,Yes,248
+Tuolumne,500041,Proposition 42,,,No,219
+Tuolumne,500041,Proposition 42,,,Yes,192
 Tuolumne,500041,Secretary of State,,DEM,Alex Padilla,96
 Tuolumne,500041,Secretary of State,,IND,Dan Schnur,26
 Tuolumne,500041,Secretary of State,,GRN,David Curtis,13
@@ -1540,14 +1562,12 @@ Tuolumne,500042,Controller,,DEM,John A. Pérez,59
 Tuolumne,500042,Controller,,GRN,Laura Wells,27
 Tuolumne,500042,Controller,,DEM,Tammy D. Blair,16
 Tuolumne,500042,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,500042,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,500042,Governor,,REP,Alma Marie Winston,1
 Tuolumne,500042,Governor,,REP,Andrew Blount,21
 Tuolumne,500042,Governor,,PAF,Cindy L. Sheehan,7
 Tuolumne,500042,Governor,,DEM,"Edmund G. ""Jerry"" Brown",157
 Tuolumne,500042,Governor,,REP,Glenn Champ,5
 Tuolumne,500042,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,500042,Governor,,IND,Joe Leicht,0
 Tuolumne,500042,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,500042,Governor,,REP,Neel Kashkari,71
 Tuolumne,500042,Governor,,IND,Rakesh Kumar Christian,1
@@ -1565,6 +1585,10 @@ Tuolumne,500042,Lieutenant Governor,,DEM,Gavin Newsom,139
 Tuolumne,500042,Lieutenant Governor,,REP,George Yang,17
 Tuolumne,500042,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Tuolumne,500042,Lieutenant Governor,,REP,Ron Nehring,112
+Tuolumne,500042,Proposition 41,,,No,127
+Tuolumne,500042,Proposition 41,,,Yes,211
+Tuolumne,500042,Proposition 42,,,No,152
+Tuolumne,500042,Proposition 42,,,Yes,170
 Tuolumne,500042,Secretary of State,,DEM,Alex Padilla,83
 Tuolumne,500042,Secretary of State,,IND,Dan Schnur,23
 Tuolumne,500042,Secretary of State,,GRN,David Curtis,9
@@ -1601,13 +1625,11 @@ Tuolumne,500043,Controller,,DEM,John A. Pérez,40
 Tuolumne,500043,Controller,,GRN,Laura Wells,13
 Tuolumne,500043,Controller,,DEM,Tammy D. Blair,11
 Tuolumne,500043,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,500043,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,500043,Governor,,REP,Alma Marie Winston,2
 Tuolumne,500043,Governor,,REP,Andrew Blount,8
 Tuolumne,500043,Governor,,PAF,Cindy L. Sheehan,4
 Tuolumne,500043,Governor,,DEM,"Edmund G. ""Jerry"" Brown",120
 Tuolumne,500043,Governor,,REP,Glenn Champ,3
-Tuolumne,500043,Governor,,IND,Janel Hyeshia Buycks,0
 Tuolumne,500043,Governor,,IND,Joe Leicht,1
 Tuolumne,500043,Governor,,GRN,Luis J. Rodriguez,4
 Tuolumne,500043,Governor,,REP,Neel Kashkari,61
@@ -1626,6 +1648,10 @@ Tuolumne,500043,Lieutenant Governor,,DEM,Gavin Newsom,102
 Tuolumne,500043,Lieutenant Governor,,REP,George Yang,19
 Tuolumne,500043,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Tuolumne,500043,Lieutenant Governor,,REP,Ron Nehring,90
+Tuolumne,500043,Proposition 41,,,No,126
+Tuolumne,500043,Proposition 41,,,Yes,136
+Tuolumne,500043,Proposition 42,,,No,143
+Tuolumne,500043,Proposition 42,,,Yes,113
 Tuolumne,500043,Secretary of State,,DEM,Alex Padilla,55
 Tuolumne,500043,Secretary of State,,IND,Dan Schnur,15
 Tuolumne,500043,Secretary of State,,GRN,David Curtis,11
@@ -1648,7 +1674,6 @@ Tuolumne,500043,U.S. House,4,IND,Jeffrey D. Gerlach,68
 Tuolumne,500043,U.S. House,4,REP,Tom McClintock,134
 Tuolumne,999101,Attorney General,,REP,David King,2
 Tuolumne,999101,Attorney General,,REP,John Haggerty,12
-Tuolumne,999101,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999101,Attorney General,,DEM,Kamala D. Harris,23
 Tuolumne,999101,Attorney General,,IND,Orly Taitz,3
 Tuolumne,999101,Attorney General,,REP,Phil Wyman,20
@@ -1660,26 +1685,16 @@ Tuolumne,999101,Controller,,DEM,Betty T. Yee,7
 Tuolumne,999101,Controller,,REP,David Evans,28
 Tuolumne,999101,Controller,,DEM,John A. Pérez,11
 Tuolumne,999101,Controller,,GRN,Laura Wells,7
-Tuolumne,999101,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999101,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999101,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999101,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999101,Governor,,REP,Andrew Blount,1
 Tuolumne,999101,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999101,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 Tuolumne,999101,Governor,,REP,Glenn Champ,3
-Tuolumne,999101,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999101,Governor,,IND,Joe Leicht,0
 Tuolumne,999101,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,999101,Governor,,REP,Neel Kashkari,17
-Tuolumne,999101,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999101,Governor,,REP,Richard William Aguirre,1
-Tuolumne,999101,Governor,,IND,Robert Newman,0
 Tuolumne,999101,Governor,,REP,Tim Donnelly,26
 Tuolumne,999101,Insurance Commissioner,,DEM,Dave Jones,26
-Tuolumne,999101,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999101,Insurance Commissioner,,REP,Ted Gaines,48
-Tuolumne,999101,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999101,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999101,Lieutenant Governor,,REP,David Fennell,13
 Tuolumne,999101,Lieutenant Governor,,DEM,Eric Korevaar,1
@@ -1687,6 +1702,10 @@ Tuolumne,999101,Lieutenant Governor,,DEM,Gavin Newsom,24
 Tuolumne,999101,Lieutenant Governor,,REP,George Yang,5
 Tuolumne,999101,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999101,Lieutenant Governor,,REP,Ron Nehring,28
+Tuolumne,999101,Proposition 41,,,No,33
+Tuolumne,999101,Proposition 41,,,Yes,42
+Tuolumne,999101,Proposition 42,,,No,41
+Tuolumne,999101,Proposition 42,,,Yes,30
 Tuolumne,999101,Secretary of State,,DEM,Alex Padilla,10
 Tuolumne,999101,Secretary of State,,IND,Dan Schnur,8
 Tuolumne,999101,Secretary of State,,GRN,David Curtis,2
@@ -1707,9 +1726,7 @@ Tuolumne,999101,Treasurer,,DEM,John Chiang,23
 Tuolumne,999101,U.S. House,4,REP,"Arthur ""Art"" Moore",6
 Tuolumne,999101,U.S. House,4,IND,Jeffrey D. Gerlach,15
 Tuolumne,999101,U.S. House,4,REP,Tom McClintock,51
-Tuolumne,999102,Attorney General,,REP,David King,0
 Tuolumne,999102,Attorney General,,REP,John Haggerty,3
-Tuolumne,999102,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999102,Attorney General,,DEM,Kamala D. Harris,19
 Tuolumne,999102,Attorney General,,IND,Orly Taitz,1
 Tuolumne,999102,Attorney General,,REP,Phil Wyman,2
@@ -1722,32 +1739,25 @@ Tuolumne,999102,Controller,,REP,David Evans,9
 Tuolumne,999102,Controller,,DEM,John A. Pérez,8
 Tuolumne,999102,Controller,,GRN,Laura Wells,2
 Tuolumne,999102,Controller,,DEM,Tammy D. Blair,2
-Tuolumne,999102,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999102,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999102,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999102,Governor,,REP,Andrew Blount,3
-Tuolumne,999102,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
-Tuolumne,999102,Governor,,REP,Glenn Champ,0
-Tuolumne,999102,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999102,Governor,,IND,Joe Leicht,0
 Tuolumne,999102,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999102,Governor,,REP,Neel Kashkari,8
-Tuolumne,999102,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999102,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999102,Governor,,IND,Robert Newman,0
 Tuolumne,999102,Governor,,REP,Tim Donnelly,1
 Tuolumne,999102,Insurance Commissioner,,DEM,Dave Jones,22
 Tuolumne,999102,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999102,Insurance Commissioner,,REP,Ted Gaines,12
 Tuolumne,999102,Lieutenant Governor,,AME,Alan Reynolds,1
-Tuolumne,999102,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999102,Lieutenant Governor,,REP,David Fennell,1
 Tuolumne,999102,Lieutenant Governor,,DEM,Eric Korevaar,4
 Tuolumne,999102,Lieutenant Governor,,DEM,Gavin Newsom,15
-Tuolumne,999102,Lieutenant Governor,,REP,George Yang,0
 Tuolumne,999102,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999102,Lieutenant Governor,,REP,Ron Nehring,12
+Tuolumne,999102,Proposition 41,,,No,11
+Tuolumne,999102,Proposition 41,,,Yes,25
+Tuolumne,999102,Proposition 42,,,No,16
+Tuolumne,999102,Proposition 42,,,Yes,19
 Tuolumne,999102,Secretary of State,,DEM,Alex Padilla,7
 Tuolumne,999102,Secretary of State,,IND,Dan Schnur,2
 Tuolumne,999102,Secretary of State,,GRN,David Curtis,1
@@ -1755,7 +1765,6 @@ Tuolumne,999102,Secretary of State,,DEM,Derek Cressman,5
 Tuolumne,999102,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Tuolumne,999102,Secretary of State,,DEM,Leland Yee,7
 Tuolumne,999102,Secretary of State,,REP,Pete Peterson,10
-Tuolumne,999102,Secretary of State,,REP,Roy Allmond,0
 Tuolumne,999102,State Assembly,5,REP,Frank Bigelow,20
 Tuolumne,999102,State Senate,8,DEM,Paulina Miranda,22
 Tuolumne,999102,State Senate,8,REP,Tom Berryhill,14
@@ -1768,7 +1777,6 @@ Tuolumne,999102,Treasurer,,DEM,John Chiang,23
 Tuolumne,999102,U.S. House,4,REP,"Arthur ""Art"" Moore",4
 Tuolumne,999102,U.S. House,4,IND,Jeffrey D. Gerlach,13
 Tuolumne,999102,U.S. House,4,REP,Tom McClintock,17
-Tuolumne,999103,Attorney General,,REP,David King,0
 Tuolumne,999103,Attorney General,,REP,John Haggerty,3
 Tuolumne,999103,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999103,Attorney General,,DEM,Kamala D. Harris,24
@@ -1783,32 +1791,24 @@ Tuolumne,999103,Controller,,REP,David Evans,11
 Tuolumne,999103,Controller,,DEM,John A. Pérez,9
 Tuolumne,999103,Controller,,GRN,Laura Wells,3
 Tuolumne,999103,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999103,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tuolumne,999103,Governor,,DEM,Akinyemi Agbede,1
-Tuolumne,999103,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999103,Governor,,REP,Andrew Blount,0
-Tuolumne,999103,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
-Tuolumne,999103,Governor,,REP,Glenn Champ,0
-Tuolumne,999103,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999103,Governor,,IND,Joe Leicht,0
 Tuolumne,999103,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999103,Governor,,REP,Neel Kashkari,9
-Tuolumne,999103,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999103,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999103,Governor,,IND,Robert Newman,0
 Tuolumne,999103,Governor,,REP,Tim Donnelly,3
 Tuolumne,999103,Insurance Commissioner,,DEM,Dave Jones,20
 Tuolumne,999103,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Tuolumne,999103,Insurance Commissioner,,REP,Ted Gaines,11
-Tuolumne,999103,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999103,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999103,Lieutenant Governor,,REP,David Fennell,7
 Tuolumne,999103,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999103,Lieutenant Governor,,DEM,Gavin Newsom,21
 Tuolumne,999103,Lieutenant Governor,,REP,George Yang,1
 Tuolumne,999103,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999103,Lieutenant Governor,,REP,Ron Nehring,4
+Tuolumne,999103,Proposition 41,,,No,15
+Tuolumne,999103,Proposition 41,,,Yes,22
+Tuolumne,999103,Proposition 42,,,No,24
+Tuolumne,999103,Proposition 42,,,Yes,11
 Tuolumne,999103,Secretary of State,,DEM,Alex Padilla,16
 Tuolumne,999103,Secretary of State,,IND,Dan Schnur,1
 Tuolumne,999103,Secretary of State,,GRN,David Curtis,1
@@ -1829,12 +1829,9 @@ Tuolumne,999103,Treasurer,,DEM,John Chiang,23
 Tuolumne,999103,U.S. House,4,REP,"Arthur ""Art"" Moore",5
 Tuolumne,999103,U.S. House,4,IND,Jeffrey D. Gerlach,12
 Tuolumne,999103,U.S. House,4,REP,Tom McClintock,16
-Tuolumne,999104,Attorney General,,REP,David King,0
 Tuolumne,999104,Attorney General,,REP,John Haggerty,3
-Tuolumne,999104,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999104,Attorney General,,DEM,Kamala D. Harris,11
 Tuolumne,999104,Attorney General,,IND,Orly Taitz,1
-Tuolumne,999104,Attorney General,,REP,Phil Wyman,0
 Tuolumne,999104,Attorney General,,REP,Ronald Gold,2
 Tuolumne,999104,Board of Equalization,1,DEM,Chris Parker,10
 Tuolumne,999104,Board of Equalization,1,REP,George Runner,6
@@ -1844,35 +1841,21 @@ Tuolumne,999104,Controller,,REP,David Evans,4
 Tuolumne,999104,Controller,,DEM,John A. Pérez,4
 Tuolumne,999104,Controller,,GRN,Laura Wells,2
 Tuolumne,999104,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999104,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999104,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999104,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999104,Governor,,REP,Andrew Blount,0
-Tuolumne,999104,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999104,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
-Tuolumne,999104,Governor,,REP,Glenn Champ,0
-Tuolumne,999104,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999104,Governor,,IND,Joe Leicht,0
-Tuolumne,999104,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999104,Governor,,REP,Neel Kashkari,2
-Tuolumne,999104,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999104,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999104,Governor,,IND,Robert Newman,0
 Tuolumne,999104,Governor,,REP,Tim Donnelly,3
 Tuolumne,999104,Insurance Commissioner,,DEM,Dave Jones,11
 Tuolumne,999104,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999104,Insurance Commissioner,,REP,Ted Gaines,5
-Tuolumne,999104,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999104,Lieutenant Governor,,PAF,Amos Johnson,0
-Tuolumne,999104,Lieutenant Governor,,REP,David Fennell,0
-Tuolumne,999104,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999104,Lieutenant Governor,,DEM,Gavin Newsom,10
 Tuolumne,999104,Lieutenant Governor,,REP,George Yang,1
-Tuolumne,999104,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999104,Lieutenant Governor,,REP,Ron Nehring,5
+Tuolumne,999104,Proposition 41,,,No,3
+Tuolumne,999104,Proposition 41,,,Yes,12
+Tuolumne,999104,Proposition 42,,,No,5
+Tuolumne,999104,Proposition 42,,,Yes,12
 Tuolumne,999104,Secretary of State,,DEM,Alex Padilla,6
 Tuolumne,999104,Secretary of State,,IND,Dan Schnur,1
-Tuolumne,999104,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999104,Secretary of State,,DEM,Derek Cressman,2
 Tuolumne,999104,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Tuolumne,999104,Secretary of State,,DEM,Leland Yee,1
@@ -1884,7 +1867,6 @@ Tuolumne,999104,State Senate,8,REP,Tom Berryhill,6
 Tuolumne,999104,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Tuolumne,999104,Superintendent of Public Instruction,,NOP,Marshall Tuck,2
 Tuolumne,999104,Superintendent of Public Instruction,,NOP,Tom Torlakson,11
-Tuolumne,999104,Treasurer,,GRN,Ellen H. Brown,0
 Tuolumne,999104,Treasurer,,REP,Greg Conlon,6
 Tuolumne,999104,Treasurer,,DEM,John Chiang,10
 Tuolumne,999104,U.S. House,4,REP,"Arthur ""Art"" Moore",3
@@ -1906,31 +1888,27 @@ Tuolumne,999105,Controller,,DEM,John A. Pérez,16
 Tuolumne,999105,Controller,,GRN,Laura Wells,10
 Tuolumne,999105,Controller,,DEM,Tammy D. Blair,8
 Tuolumne,999105,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,999105,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999105,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999105,Governor,,REP,Andrew Blount,2
-Tuolumne,999105,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999105,Governor,,DEM,"Edmund G. ""Jerry"" Brown",47
 Tuolumne,999105,Governor,,REP,Glenn Champ,4
-Tuolumne,999105,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999105,Governor,,IND,Joe Leicht,0
 Tuolumne,999105,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999105,Governor,,REP,Neel Kashkari,18
 Tuolumne,999105,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,999105,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999105,Governor,,IND,Robert Newman,0
 Tuolumne,999105,Governor,,REP,Tim Donnelly,8
 Tuolumne,999105,Insurance Commissioner,,DEM,Dave Jones,40
 Tuolumne,999105,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Tuolumne,999105,Insurance Commissioner,,REP,Ted Gaines,34
 Tuolumne,999105,Lieutenant Governor,,AME,Alan Reynolds,3
-Tuolumne,999105,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999105,Lieutenant Governor,,REP,David Fennell,8
 Tuolumne,999105,Lieutenant Governor,,DEM,Eric Korevaar,5
 Tuolumne,999105,Lieutenant Governor,,DEM,Gavin Newsom,35
 Tuolumne,999105,Lieutenant Governor,,REP,George Yang,2
 Tuolumne,999105,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Tuolumne,999105,Lieutenant Governor,,REP,Ron Nehring,17
+Tuolumne,999105,Proposition 41,,,No,29
+Tuolumne,999105,Proposition 41,,,Yes,50
+Tuolumne,999105,Proposition 42,,,No,36
+Tuolumne,999105,Proposition 42,,,Yes,40
 Tuolumne,999105,Secretary of State,,DEM,Alex Padilla,26
 Tuolumne,999105,Secretary of State,,IND,Dan Schnur,3
 Tuolumne,999105,Secretary of State,,GRN,David Curtis,5
@@ -1953,64 +1931,33 @@ Tuolumne,999105,U.S. House,4,IND,Jeffrey D. Gerlach,25
 Tuolumne,999105,U.S. House,4,REP,Tom McClintock,38
 Tuolumne,999106,Attorney General,,REP,David King,1
 Tuolumne,999106,Attorney General,,REP,John Haggerty,3
-Tuolumne,999106,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999106,Attorney General,,DEM,Kamala D. Harris,1
-Tuolumne,999106,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999106,Attorney General,,REP,Phil Wyman,4
 Tuolumne,999106,Attorney General,,REP,Ronald Gold,2
-Tuolumne,999106,Board of Equalization,1,DEM,Chris Parker,0
 Tuolumne,999106,Board of Equalization,1,REP,George Runner,10
-Tuolumne,999106,Controller,,REP,Ashley Swearengin,0
-Tuolumne,999106,Controller,,DEM,Betty T. Yee,0
 Tuolumne,999106,Controller,,REP,David Evans,8
-Tuolumne,999106,Controller,,DEM,John A. Pérez,0
-Tuolumne,999106,Controller,,GRN,Laura Wells,0
-Tuolumne,999106,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999106,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999106,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999106,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999106,Governor,,REP,Andrew Blount,0
-Tuolumne,999106,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999106,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
 Tuolumne,999106,Governor,,REP,Glenn Champ,1
-Tuolumne,999106,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999106,Governor,,IND,Joe Leicht,0
-Tuolumne,999106,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999106,Governor,,REP,Neel Kashkari,3
-Tuolumne,999106,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999106,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999106,Governor,,IND,Robert Newman,0
 Tuolumne,999106,Governor,,REP,Tim Donnelly,6
 Tuolumne,999106,Insurance Commissioner,,DEM,Dave Jones,1
-Tuolumne,999106,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999106,Insurance Commissioner,,REP,Ted Gaines,10
-Tuolumne,999106,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999106,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999106,Lieutenant Governor,,REP,David Fennell,1
-Tuolumne,999106,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999106,Lieutenant Governor,,DEM,Gavin Newsom,2
-Tuolumne,999106,Lieutenant Governor,,REP,George Yang,0
-Tuolumne,999106,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999106,Lieutenant Governor,,REP,Ron Nehring,6
+Tuolumne,999106,Proposition 41,,,No,7
+Tuolumne,999106,Proposition 41,,,Yes,4
+Tuolumne,999106,Proposition 42,,,No,9
+Tuolumne,999106,Proposition 42,,,Yes,1
 Tuolumne,999106,Secretary of State,,DEM,Alex Padilla,1
-Tuolumne,999106,Secretary of State,,IND,Dan Schnur,0
-Tuolumne,999106,Secretary of State,,GRN,David Curtis,0
-Tuolumne,999106,Secretary of State,,DEM,Derek Cressman,0
-Tuolumne,999106,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Tuolumne,999106,Secretary of State,,DEM,Leland Yee,0
 Tuolumne,999106,Secretary of State,,REP,Pete Peterson,6
 Tuolumne,999106,Secretary of State,,REP,Roy Allmond,2
 Tuolumne,999106,State Assembly,5,REP,Frank Bigelow,10
-Tuolumne,999106,State Senate,8,DEM,Paulina Miranda,0
 Tuolumne,999106,State Senate,8,REP,Tom Berryhill,9
-Tuolumne,999106,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 Tuolumne,999106,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
 Tuolumne,999106,Superintendent of Public Instruction,,NOP,Tom Torlakson,3
-Tuolumne,999106,Treasurer,,GRN,Ellen H. Brown,0
 Tuolumne,999106,Treasurer,,REP,Greg Conlon,10
 Tuolumne,999106,Treasurer,,DEM,John Chiang,1
-Tuolumne,999106,U.S. House,4,REP,"Arthur ""Art"" Moore",0
-Tuolumne,999106,U.S. House,4,IND,Jeffrey D. Gerlach,0
 Tuolumne,999106,U.S. House,4,REP,Tom McClintock,10
 Tuolumne,999107,Attorney General,,REP,David King,5
 Tuolumne,999107,Attorney General,,REP,John Haggerty,23
@@ -2027,32 +1974,25 @@ Tuolumne,999107,Controller,,REP,David Evans,42
 Tuolumne,999107,Controller,,DEM,John A. Pérez,11
 Tuolumne,999107,Controller,,GRN,Laura Wells,4
 Tuolumne,999107,Controller,,DEM,Tammy D. Blair,2
-Tuolumne,999107,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tuolumne,999107,Governor,,DEM,Akinyemi Agbede,1
-Tuolumne,999107,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999107,Governor,,REP,Andrew Blount,2
-Tuolumne,999107,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999107,Governor,,DEM,"Edmund G. ""Jerry"" Brown",36
 Tuolumne,999107,Governor,,REP,Glenn Champ,2
-Tuolumne,999107,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999107,Governor,,IND,Joe Leicht,0
-Tuolumne,999107,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999107,Governor,,REP,Neel Kashkari,30
 Tuolumne,999107,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,999107,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999107,Governor,,IND,Robert Newman,0
 Tuolumne,999107,Governor,,REP,Tim Donnelly,19
 Tuolumne,999107,Insurance Commissioner,,DEM,Dave Jones,31
 Tuolumne,999107,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Tuolumne,999107,Insurance Commissioner,,REP,Ted Gaines,54
-Tuolumne,999107,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999107,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999107,Lieutenant Governor,,REP,David Fennell,10
 Tuolumne,999107,Lieutenant Governor,,DEM,Eric Korevaar,4
 Tuolumne,999107,Lieutenant Governor,,DEM,Gavin Newsom,27
 Tuolumne,999107,Lieutenant Governor,,REP,George Yang,10
-Tuolumne,999107,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999107,Lieutenant Governor,,REP,Ron Nehring,37
+Tuolumne,999107,Proposition 41,,,No,52
+Tuolumne,999107,Proposition 41,,,Yes,40
+Tuolumne,999107,Proposition 42,,,No,55
+Tuolumne,999107,Proposition 42,,,Yes,34
 Tuolumne,999107,Secretary of State,,DEM,Alex Padilla,11
 Tuolumne,999107,Secretary of State,,IND,Dan Schnur,5
 Tuolumne,999107,Secretary of State,,GRN,David Curtis,3
@@ -2087,33 +2027,25 @@ Tuolumne,999108,Controller,,DEM,Betty T. Yee,19
 Tuolumne,999108,Controller,,REP,David Evans,36
 Tuolumne,999108,Controller,,DEM,John A. Pérez,11
 Tuolumne,999108,Controller,,GRN,Laura Wells,5
-Tuolumne,999108,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999108,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999108,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999108,Governor,,REP,Alma Marie Winston,2
 Tuolumne,999108,Governor,,REP,Andrew Blount,4
-Tuolumne,999108,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999108,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 Tuolumne,999108,Governor,,REP,Glenn Champ,1
 Tuolumne,999108,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,999108,Governor,,IND,Joe Leicht,0
-Tuolumne,999108,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999108,Governor,,REP,Neel Kashkari,20
-Tuolumne,999108,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999108,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999108,Governor,,IND,Robert Newman,0
 Tuolumne,999108,Governor,,REP,Tim Donnelly,16
 Tuolumne,999108,Insurance Commissioner,,DEM,Dave Jones,28
 Tuolumne,999108,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Tuolumne,999108,Insurance Commissioner,,REP,Ted Gaines,53
-Tuolumne,999108,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999108,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999108,Lieutenant Governor,,REP,David Fennell,8
 Tuolumne,999108,Lieutenant Governor,,DEM,Eric Korevaar,3
 Tuolumne,999108,Lieutenant Governor,,DEM,Gavin Newsom,35
 Tuolumne,999108,Lieutenant Governor,,REP,George Yang,5
-Tuolumne,999108,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999108,Lieutenant Governor,,REP,Ron Nehring,34
+Tuolumne,999108,Proposition 41,,,No,34
+Tuolumne,999108,Proposition 41,,,Yes,53
+Tuolumne,999108,Proposition 42,,,No,46
+Tuolumne,999108,Proposition 42,,,Yes,41
 Tuolumne,999108,Secretary of State,,DEM,Alex Padilla,23
 Tuolumne,999108,Secretary of State,,IND,Dan Schnur,3
 Tuolumne,999108,Secretary of State,,GRN,David Curtis,3
@@ -2149,34 +2081,28 @@ Tuolumne,999109,Controller,,REP,David Evans,32
 Tuolumne,999109,Controller,,DEM,John A. Pérez,13
 Tuolumne,999109,Controller,,GRN,Laura Wells,3
 Tuolumne,999109,Controller,,DEM,Tammy D. Blair,4
-Tuolumne,999109,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999109,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999109,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999109,Governor,,REP,Andrew Blount,1
 Tuolumne,999109,Governor,,PAF,Cindy L. Sheehan,2
 Tuolumne,999109,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
-Tuolumne,999109,Governor,,REP,Glenn Champ,0
 Tuolumne,999109,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,999109,Governor,,IND,Joe Leicht,0
 Tuolumne,999109,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,999109,Governor,,REP,Neel Kashkari,19
-Tuolumne,999109,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999109,Governor,,REP,Richard William Aguirre,1
-Tuolumne,999109,Governor,,IND,Robert Newman,0
 Tuolumne,999109,Governor,,REP,Tim Donnelly,17
 Tuolumne,999109,Insurance Commissioner,,DEM,Dave Jones,37
 Tuolumne,999109,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999109,Insurance Commissioner,,REP,Ted Gaines,45
-Tuolumne,999109,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999109,Lieutenant Governor,,PAF,Amos Johnson,0
-Tuolumne,999109,Lieutenant Governor,,REP,David Fennell,0
 Tuolumne,999109,Lieutenant Governor,,DEM,Eric Korevaar,5
 Tuolumne,999109,Lieutenant Governor,,DEM,Gavin Newsom,38
 Tuolumne,999109,Lieutenant Governor,,REP,George Yang,9
 Tuolumne,999109,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999109,Lieutenant Governor,,REP,Ron Nehring,31
+Tuolumne,999109,Proposition 41,,,No,38
+Tuolumne,999109,Proposition 41,,,Yes,49
+Tuolumne,999109,Proposition 42,,,No,40
+Tuolumne,999109,Proposition 42,,,Yes,44
 Tuolumne,999109,Secretary of State,,DEM,Alex Padilla,20
-Tuolumne,999109,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999109,Secretary of State,,GRN,David Curtis,2
 Tuolumne,999109,Secretary of State,,DEM,Derek Cressman,3
 Tuolumne,999109,Secretary of State,,DEM,Jeffrey H. Drobman,5
@@ -2196,51 +2122,31 @@ Tuolumne,999109,U.S. House,4,REP,"Arthur ""Art"" Moore",10
 Tuolumne,999109,U.S. House,4,IND,Jeffrey D. Gerlach,24
 Tuolumne,999109,U.S. House,4,REP,Tom McClintock,45
 Tuolumne,999117,Attorney General,,REP,David King,1
-Tuolumne,999117,Attorney General,,REP,John Haggerty,0
-Tuolumne,999117,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999117,Attorney General,,DEM,Kamala D. Harris,8
-Tuolumne,999117,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999117,Attorney General,,REP,Phil Wyman,1
-Tuolumne,999117,Attorney General,,REP,Ronald Gold,0
 Tuolumne,999117,Board of Equalization,1,DEM,Chris Parker,8
 Tuolumne,999117,Board of Equalization,1,REP,George Runner,2
-Tuolumne,999117,Controller,,REP,Ashley Swearengin,0
 Tuolumne,999117,Controller,,DEM,Betty T. Yee,5
 Tuolumne,999117,Controller,,REP,David Evans,2
 Tuolumne,999117,Controller,,DEM,John A. Pérez,2
 Tuolumne,999117,Controller,,GRN,Laura Wells,1
 Tuolumne,999117,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999117,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999117,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999117,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999117,Governor,,REP,Andrew Blount,0
-Tuolumne,999117,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999117,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
-Tuolumne,999117,Governor,,REP,Glenn Champ,0
-Tuolumne,999117,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999117,Governor,,IND,Joe Leicht,0
-Tuolumne,999117,Governor,,GRN,Luis J. Rodriguez,0
-Tuolumne,999117,Governor,,REP,Neel Kashkari,0
-Tuolumne,999117,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999117,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999117,Governor,,IND,Robert Newman,0
 Tuolumne,999117,Governor,,REP,Tim Donnelly,2
 Tuolumne,999117,Insurance Commissioner,,DEM,Dave Jones,7
-Tuolumne,999117,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999117,Insurance Commissioner,,REP,Ted Gaines,3
-Tuolumne,999117,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999117,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999117,Lieutenant Governor,,REP,David Fennell,2
 Tuolumne,999117,Lieutenant Governor,,DEM,Eric Korevaar,2
 Tuolumne,999117,Lieutenant Governor,,DEM,Gavin Newsom,6
 Tuolumne,999117,Lieutenant Governor,,REP,George Yang,1
 Tuolumne,999117,Lieutenant Governor,,GRN,Jena F. Goodman,1
-Tuolumne,999117,Lieutenant Governor,,REP,Ron Nehring,0
+Tuolumne,999117,Proposition 41,,,No,4
+Tuolumne,999117,Proposition 41,,,Yes,7
+Tuolumne,999117,Proposition 42,,,No,8
+Tuolumne,999117,Proposition 42,,,Yes,3
 Tuolumne,999117,Secretary of State,,DEM,Alex Padilla,3
-Tuolumne,999117,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999117,Secretary of State,,GRN,David Curtis,1
 Tuolumne,999117,Secretary of State,,DEM,Derek Cressman,3
-Tuolumne,999117,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tuolumne,999117,Secretary of State,,DEM,Leland Yee,1
 Tuolumne,999117,Secretary of State,,REP,Pete Peterson,1
 Tuolumne,999117,Secretary of State,,REP,Roy Allmond,1
@@ -2271,32 +2177,27 @@ Tuolumne,999118,Controller,,REP,David Evans,31
 Tuolumne,999118,Controller,,DEM,John A. Pérez,14
 Tuolumne,999118,Controller,,GRN,Laura Wells,4
 Tuolumne,999118,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999118,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999118,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999118,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999118,Governor,,REP,Andrew Blount,3
-Tuolumne,999118,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999118,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Tuolumne,999118,Governor,,REP,Glenn Champ,2
 Tuolumne,999118,Governor,,IND,Janel Hyeshia Buycks,1
-Tuolumne,999118,Governor,,IND,Joe Leicht,0
-Tuolumne,999118,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999118,Governor,,REP,Neel Kashkari,20
 Tuolumne,999118,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,999118,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999118,Governor,,IND,Robert Newman,0
 Tuolumne,999118,Governor,,REP,Tim Donnelly,15
 Tuolumne,999118,Insurance Commissioner,,DEM,Dave Jones,32
 Tuolumne,999118,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Tuolumne,999118,Insurance Commissioner,,REP,Ted Gaines,44
 Tuolumne,999118,Lieutenant Governor,,AME,Alan Reynolds,3
-Tuolumne,999118,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999118,Lieutenant Governor,,REP,David Fennell,10
 Tuolumne,999118,Lieutenant Governor,,DEM,Eric Korevaar,2
 Tuolumne,999118,Lieutenant Governor,,DEM,Gavin Newsom,34
 Tuolumne,999118,Lieutenant Governor,,REP,George Yang,3
 Tuolumne,999118,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999118,Lieutenant Governor,,REP,Ron Nehring,26
+Tuolumne,999118,Proposition 41,,,No,44
+Tuolumne,999118,Proposition 41,,,Yes,32
+Tuolumne,999118,Proposition 42,,,No,36
+Tuolumne,999118,Proposition 42,,,Yes,39
 Tuolumne,999118,Secretary of State,,DEM,Alex Padilla,17
 Tuolumne,999118,Secretary of State,,IND,Dan Schnur,9
 Tuolumne,999118,Secretary of State,,GRN,David Curtis,5
@@ -2317,11 +2218,9 @@ Tuolumne,999118,Treasurer,,DEM,John Chiang,35
 Tuolumne,999118,U.S. House,4,REP,"Arthur ""Art"" Moore",16
 Tuolumne,999118,U.S. House,4,IND,Jeffrey D. Gerlach,22
 Tuolumne,999118,U.S. House,4,REP,Tom McClintock,35
-Tuolumne,999201,Attorney General,,REP,David King,0
 Tuolumne,999201,Attorney General,,REP,John Haggerty,9
 Tuolumne,999201,Attorney General,,LIB,Jonathan Jaech,2
 Tuolumne,999201,Attorney General,,DEM,Kamala D. Harris,10
-Tuolumne,999201,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999201,Attorney General,,REP,Phil Wyman,4
 Tuolumne,999201,Attorney General,,REP,Ronald Gold,4
 Tuolumne,999201,Board of Equalization,1,DEM,Chris Parker,9
@@ -2329,40 +2228,29 @@ Tuolumne,999201,Board of Equalization,1,REP,George Runner,22
 Tuolumne,999201,Controller,,REP,Ashley Swearengin,7
 Tuolumne,999201,Controller,,DEM,Betty T. Yee,6
 Tuolumne,999201,Controller,,REP,David Evans,11
-Tuolumne,999201,Controller,,DEM,John A. Pérez,0
 Tuolumne,999201,Controller,,GRN,Laura Wells,1
 Tuolumne,999201,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999201,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999201,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999201,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999201,Governor,,REP,Andrew Blount,1
-Tuolumne,999201,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999201,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Tuolumne,999201,Governor,,REP,Glenn Champ,4
-Tuolumne,999201,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999201,Governor,,IND,Joe Leicht,0
-Tuolumne,999201,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999201,Governor,,REP,Neel Kashkari,1
-Tuolumne,999201,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999201,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999201,Governor,,IND,Robert Newman,0
 Tuolumne,999201,Governor,,REP,Tim Donnelly,10
 Tuolumne,999201,Insurance Commissioner,,DEM,Dave Jones,11
 Tuolumne,999201,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999201,Insurance Commissioner,,REP,Ted Gaines,19
-Tuolumne,999201,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999201,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999201,Lieutenant Governor,,REP,David Fennell,2
 Tuolumne,999201,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999201,Lieutenant Governor,,DEM,Gavin Newsom,11
 Tuolumne,999201,Lieutenant Governor,,REP,George Yang,5
-Tuolumne,999201,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999201,Lieutenant Governor,,REP,Ron Nehring,11
+Tuolumne,999201,Proposition 41,,,No,17
+Tuolumne,999201,Proposition 41,,,Yes,15
+Tuolumne,999201,Proposition 42,,,No,17
+Tuolumne,999201,Proposition 42,,,Yes,14
 Tuolumne,999201,Secretary of State,,DEM,Alex Padilla,2
 Tuolumne,999201,Secretary of State,,IND,Dan Schnur,2
 Tuolumne,999201,Secretary of State,,GRN,David Curtis,1
 Tuolumne,999201,Secretary of State,,DEM,Derek Cressman,2
-Tuolumne,999201,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tuolumne,999201,Secretary of State,,DEM,Leland Yee,3
 Tuolumne,999201,Secretary of State,,REP,Pete Peterson,17
 Tuolumne,999201,Secretary of State,,REP,Roy Allmond,2
@@ -2372,7 +2260,6 @@ Tuolumne,999201,State Senate,8,REP,Tom Berryhill,22
 Tuolumne,999201,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,10
 Tuolumne,999201,Superintendent of Public Instruction,,NOP,Marshall Tuck,8
 Tuolumne,999201,Superintendent of Public Instruction,,NOP,Tom Torlakson,9
-Tuolumne,999201,Treasurer,,GRN,Ellen H. Brown,0
 Tuolumne,999201,Treasurer,,REP,Greg Conlon,18
 Tuolumne,999201,Treasurer,,DEM,John Chiang,9
 Tuolumne,999201,U.S. House,4,REP,"Arthur ""Art"" Moore",7
@@ -2382,7 +2269,6 @@ Tuolumne,999202,Attorney General,,REP,David King,3
 Tuolumne,999202,Attorney General,,REP,John Haggerty,5
 Tuolumne,999202,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999202,Attorney General,,DEM,Kamala D. Harris,27
-Tuolumne,999202,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999202,Attorney General,,REP,Phil Wyman,4
 Tuolumne,999202,Attorney General,,REP,Ronald Gold,10
 Tuolumne,999202,Board of Equalization,1,DEM,Chris Parker,22
@@ -2393,34 +2279,27 @@ Tuolumne,999202,Controller,,REP,David Evans,15
 Tuolumne,999202,Controller,,DEM,John A. Pérez,13
 Tuolumne,999202,Controller,,GRN,Laura Wells,2
 Tuolumne,999202,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999202,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999202,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999202,Governor,,REP,Alma Marie Winston,2
 Tuolumne,999202,Governor,,REP,Andrew Blount,3
 Tuolumne,999202,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999202,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
 Tuolumne,999202,Governor,,REP,Glenn Champ,2
-Tuolumne,999202,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999202,Governor,,IND,Joe Leicht,0
-Tuolumne,999202,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999202,Governor,,REP,Neel Kashkari,11
-Tuolumne,999202,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999202,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999202,Governor,,IND,Robert Newman,0
 Tuolumne,999202,Governor,,REP,Tim Donnelly,3
 Tuolumne,999202,Insurance Commissioner,,DEM,Dave Jones,22
 Tuolumne,999202,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Tuolumne,999202,Insurance Commissioner,,REP,Ted Gaines,23
-Tuolumne,999202,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999202,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999202,Lieutenant Governor,,REP,David Fennell,8
 Tuolumne,999202,Lieutenant Governor,,DEM,Eric Korevaar,3
 Tuolumne,999202,Lieutenant Governor,,DEM,Gavin Newsom,24
 Tuolumne,999202,Lieutenant Governor,,REP,George Yang,3
-Tuolumne,999202,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999202,Lieutenant Governor,,REP,Ron Nehring,11
+Tuolumne,999202,Proposition 41,,,No,14
+Tuolumne,999202,Proposition 41,,,Yes,34
+Tuolumne,999202,Proposition 42,,,No,19
+Tuolumne,999202,Proposition 42,,,Yes,27
 Tuolumne,999202,Secretary of State,,DEM,Alex Padilla,18
-Tuolumne,999202,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999202,Secretary of State,,GRN,David Curtis,2
 Tuolumne,999202,Secretary of State,,DEM,Derek Cressman,1
 Tuolumne,999202,Secretary of State,,DEM,Jeffrey H. Drobman,4
@@ -2454,34 +2333,27 @@ Tuolumne,999203,Controller,,REP,David Evans,22
 Tuolumne,999203,Controller,,DEM,John A. Pérez,2
 Tuolumne,999203,Controller,,GRN,Laura Wells,2
 Tuolumne,999203,Controller,,DEM,Tammy D. Blair,4
-Tuolumne,999203,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999203,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999203,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999203,Governor,,REP,Andrew Blount,5
-Tuolumne,999203,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999203,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Tuolumne,999203,Governor,,REP,Glenn Champ,3
-Tuolumne,999203,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999203,Governor,,IND,Joe Leicht,0
-Tuolumne,999203,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999203,Governor,,REP,Neel Kashkari,18
-Tuolumne,999203,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999203,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999203,Governor,,IND,Robert Newman,0
 Tuolumne,999203,Governor,,REP,Tim Donnelly,10
 Tuolumne,999203,Insurance Commissioner,,DEM,Dave Jones,12
 Tuolumne,999203,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Tuolumne,999203,Insurance Commissioner,,REP,Ted Gaines,32
 Tuolumne,999203,Lieutenant Governor,,AME,Alan Reynolds,2
-Tuolumne,999203,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999203,Lieutenant Governor,,REP,David Fennell,3
 Tuolumne,999203,Lieutenant Governor,,DEM,Eric Korevaar,2
 Tuolumne,999203,Lieutenant Governor,,DEM,Gavin Newsom,8
 Tuolumne,999203,Lieutenant Governor,,REP,George Yang,3
 Tuolumne,999203,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999203,Lieutenant Governor,,REP,Ron Nehring,27
+Tuolumne,999203,Proposition 41,,,No,26
+Tuolumne,999203,Proposition 41,,,Yes,22
+Tuolumne,999203,Proposition 42,,,No,30
+Tuolumne,999203,Proposition 42,,,Yes,18
 Tuolumne,999203,Secretary of State,,DEM,Alex Padilla,4
-Tuolumne,999203,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999203,Secretary of State,,GRN,David Curtis,1
 Tuolumne,999203,Secretary of State,,DEM,Derek Cressman,2
 Tuolumne,999203,Secretary of State,,DEM,Jeffrey H. Drobman,4
@@ -2502,7 +2374,6 @@ Tuolumne,999203,U.S. House,4,IND,Jeffrey D. Gerlach,6
 Tuolumne,999203,U.S. House,4,REP,Tom McClintock,27
 Tuolumne,999204,Attorney General,,REP,David King,1
 Tuolumne,999204,Attorney General,,REP,John Haggerty,1
-Tuolumne,999204,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999204,Attorney General,,DEM,Kamala D. Harris,29
 Tuolumne,999204,Attorney General,,IND,Orly Taitz,3
 Tuolumne,999204,Attorney General,,REP,Phil Wyman,5
@@ -2516,33 +2387,26 @@ Tuolumne,999204,Controller,,DEM,John A. Pérez,2
 Tuolumne,999204,Controller,,GRN,Laura Wells,5
 Tuolumne,999204,Controller,,DEM,Tammy D. Blair,3
 Tuolumne,999204,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,999204,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999204,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999204,Governor,,REP,Andrew Blount,1
 Tuolumne,999204,Governor,,PAF,Cindy L. Sheehan,2
 Tuolumne,999204,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
-Tuolumne,999204,Governor,,REP,Glenn Champ,0
-Tuolumne,999204,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999204,Governor,,IND,Joe Leicht,0
-Tuolumne,999204,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999204,Governor,,REP,Neel Kashkari,5
-Tuolumne,999204,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999204,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999204,Governor,,IND,Robert Newman,1
 Tuolumne,999204,Governor,,REP,Tim Donnelly,4
 Tuolumne,999204,Insurance Commissioner,,DEM,Dave Jones,24
 Tuolumne,999204,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Tuolumne,999204,Insurance Commissioner,,REP,Ted Gaines,11
-Tuolumne,999204,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999204,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999204,Lieutenant Governor,,REP,David Fennell,1
 Tuolumne,999204,Lieutenant Governor,,DEM,Eric Korevaar,3
 Tuolumne,999204,Lieutenant Governor,,DEM,Gavin Newsom,27
 Tuolumne,999204,Lieutenant Governor,,REP,George Yang,1
 Tuolumne,999204,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999204,Lieutenant Governor,,REP,Ron Nehring,10
+Tuolumne,999204,Proposition 41,,,No,11
+Tuolumne,999204,Proposition 41,,,Yes,30
+Tuolumne,999204,Proposition 42,,,No,15
+Tuolumne,999204,Proposition 42,,,Yes,27
 Tuolumne,999204,Secretary of State,,DEM,Alex Padilla,13
-Tuolumne,999204,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999204,Secretary of State,,GRN,David Curtis,3
 Tuolumne,999204,Secretary of State,,DEM,Derek Cressman,2
 Tuolumne,999204,Secretary of State,,DEM,Jeffrey H. Drobman,3
@@ -2576,19 +2440,13 @@ Tuolumne,999205,Controller,,REP,David Evans,14
 Tuolumne,999205,Controller,,DEM,John A. Pérez,8
 Tuolumne,999205,Controller,,GRN,Laura Wells,4
 Tuolumne,999205,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999205,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999205,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999205,Governor,,REP,Alma Marie Winston,1
-Tuolumne,999205,Governor,,REP,Andrew Blount,0
 Tuolumne,999205,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999205,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
 Tuolumne,999205,Governor,,REP,Glenn Champ,2
-Tuolumne,999205,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999205,Governor,,IND,Joe Leicht,0
 Tuolumne,999205,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999205,Governor,,REP,Neel Kashkari,6
 Tuolumne,999205,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,999205,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999205,Governor,,IND,Robert Newman,1
 Tuolumne,999205,Governor,,REP,Tim Donnelly,13
 Tuolumne,999205,Insurance Commissioner,,DEM,Dave Jones,26
@@ -2597,11 +2455,14 @@ Tuolumne,999205,Insurance Commissioner,,REP,Ted Gaines,20
 Tuolumne,999205,Lieutenant Governor,,AME,Alan Reynolds,2
 Tuolumne,999205,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999205,Lieutenant Governor,,REP,David Fennell,4
-Tuolumne,999205,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999205,Lieutenant Governor,,DEM,Gavin Newsom,32
 Tuolumne,999205,Lieutenant Governor,,REP,George Yang,2
 Tuolumne,999205,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999205,Lieutenant Governor,,REP,Ron Nehring,12
+Tuolumne,999205,Proposition 41,,,No,19
+Tuolumne,999205,Proposition 41,,,Yes,35
+Tuolumne,999205,Proposition 42,,,No,31
+Tuolumne,999205,Proposition 42,,,Yes,22
 Tuolumne,999205,Secretary of State,,DEM,Alex Padilla,9
 Tuolumne,999205,Secretary of State,,IND,Dan Schnur,1
 Tuolumne,999205,Secretary of State,,GRN,David Curtis,5
@@ -2641,15 +2502,9 @@ Tuolumne,999206,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Tuolumne,999206,Governor,,DEM,Akinyemi Agbede,1
 Tuolumne,999206,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999206,Governor,,REP,Andrew Blount,4
-Tuolumne,999206,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999206,Governor,,DEM,"Edmund G. ""Jerry"" Brown",56
 Tuolumne,999206,Governor,,REP,Glenn Champ,6
-Tuolumne,999206,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999206,Governor,,IND,Joe Leicht,0
-Tuolumne,999206,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999206,Governor,,REP,Neel Kashkari,23
-Tuolumne,999206,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999206,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999206,Governor,,IND,Robert Newman,2
 Tuolumne,999206,Governor,,REP,Tim Donnelly,26
 Tuolumne,999206,Insurance Commissioner,,DEM,Dave Jones,47
@@ -2661,8 +2516,11 @@ Tuolumne,999206,Lieutenant Governor,,REP,David Fennell,7
 Tuolumne,999206,Lieutenant Governor,,DEM,Eric Korevaar,7
 Tuolumne,999206,Lieutenant Governor,,DEM,Gavin Newsom,46
 Tuolumne,999206,Lieutenant Governor,,REP,George Yang,4
-Tuolumne,999206,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999206,Lieutenant Governor,,REP,Ron Nehring,48
+Tuolumne,999206,Proposition 41,,,No,43
+Tuolumne,999206,Proposition 41,,,Yes,73
+Tuolumne,999206,Proposition 42,,,No,62
+Tuolumne,999206,Proposition 42,,,Yes,53
 Tuolumne,999206,Secretary of State,,DEM,Alex Padilla,23
 Tuolumne,999206,Secretary of State,,IND,Dan Schnur,4
 Tuolumne,999206,Secretary of State,,GRN,David Curtis,4
@@ -2687,7 +2545,6 @@ Tuolumne,999207,Attorney General,,REP,David King,1
 Tuolumne,999207,Attorney General,,REP,John Haggerty,1
 Tuolumne,999207,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999207,Attorney General,,DEM,Kamala D. Harris,11
-Tuolumne,999207,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999207,Attorney General,,REP,Phil Wyman,6
 Tuolumne,999207,Attorney General,,REP,Ronald Gold,5
 Tuolumne,999207,Board of Equalization,1,DEM,Chris Parker,11
@@ -2698,37 +2555,27 @@ Tuolumne,999207,Controller,,REP,David Evans,7
 Tuolumne,999207,Controller,,DEM,John A. Pérez,4
 Tuolumne,999207,Controller,,GRN,Laura Wells,2
 Tuolumne,999207,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999207,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999207,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999207,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999207,Governor,,REP,Andrew Blount,2
-Tuolumne,999207,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999207,Governor,,DEM,"Edmund G. ""Jerry"" Brown",11
 Tuolumne,999207,Governor,,REP,Glenn Champ,1
-Tuolumne,999207,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999207,Governor,,IND,Joe Leicht,0
-Tuolumne,999207,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999207,Governor,,REP,Neel Kashkari,4
-Tuolumne,999207,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999207,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999207,Governor,,IND,Robert Newman,1
 Tuolumne,999207,Governor,,REP,Tim Donnelly,6
 Tuolumne,999207,Insurance Commissioner,,DEM,Dave Jones,10
 Tuolumne,999207,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999207,Insurance Commissioner,,REP,Ted Gaines,13
-Tuolumne,999207,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999207,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999207,Lieutenant Governor,,REP,David Fennell,3
-Tuolumne,999207,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999207,Lieutenant Governor,,DEM,Gavin Newsom,11
 Tuolumne,999207,Lieutenant Governor,,REP,George Yang,1
 Tuolumne,999207,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999207,Lieutenant Governor,,REP,Ron Nehring,9
+Tuolumne,999207,Proposition 41,,,No,11
+Tuolumne,999207,Proposition 41,,,Yes,14
+Tuolumne,999207,Proposition 42,,,No,13
+Tuolumne,999207,Proposition 42,,,Yes,10
 Tuolumne,999207,Secretary of State,,DEM,Alex Padilla,8
 Tuolumne,999207,Secretary of State,,IND,Dan Schnur,2
-Tuolumne,999207,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999207,Secretary of State,,DEM,Derek Cressman,1
-Tuolumne,999207,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tuolumne,999207,Secretary of State,,DEM,Leland Yee,1
 Tuolumne,999207,Secretary of State,,REP,Pete Peterson,9
 Tuolumne,999207,Secretary of State,,REP,Roy Allmond,3
@@ -2766,11 +2613,8 @@ Tuolumne,999208,Governor,,REP,Andrew Blount,11
 Tuolumne,999208,Governor,,PAF,Cindy L. Sheehan,2
 Tuolumne,999208,Governor,,DEM,"Edmund G. ""Jerry"" Brown",151
 Tuolumne,999208,Governor,,REP,Glenn Champ,3
-Tuolumne,999208,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999208,Governor,,IND,Joe Leicht,0
 Tuolumne,999208,Governor,,GRN,Luis J. Rodriguez,3
 Tuolumne,999208,Governor,,REP,Neel Kashkari,51
-Tuolumne,999208,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999208,Governor,,REP,Richard William Aguirre,2
 Tuolumne,999208,Governor,,IND,Robert Newman,3
 Tuolumne,999208,Governor,,REP,Tim Donnelly,59
@@ -2785,6 +2629,10 @@ Tuolumne,999208,Lieutenant Governor,,DEM,Gavin Newsom,120
 Tuolumne,999208,Lieutenant Governor,,REP,George Yang,23
 Tuolumne,999208,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Tuolumne,999208,Lieutenant Governor,,REP,Ron Nehring,88
+Tuolumne,999208,Proposition 41,,,No,125
+Tuolumne,999208,Proposition 41,,,Yes,157
+Tuolumne,999208,Proposition 42,,,No,153
+Tuolumne,999208,Proposition 42,,,Yes,118
 Tuolumne,999208,Secretary of State,,DEM,Alex Padilla,68
 Tuolumne,999208,Secretary of State,,IND,Dan Schnur,20
 Tuolumne,999208,Secretary of State,,GRN,David Curtis,7
@@ -2805,70 +2653,44 @@ Tuolumne,999208,Treasurer,,DEM,John Chiang,127
 Tuolumne,999208,U.S. House,4,REP,"Arthur ""Art"" Moore",49
 Tuolumne,999208,U.S. House,4,IND,Jeffrey D. Gerlach,63
 Tuolumne,999208,U.S. House,4,REP,Tom McClintock,160
-Tuolumne,999301,Attorney General,,REP,David King,0
 Tuolumne,999301,Attorney General,,REP,John Haggerty,1
 Tuolumne,999301,Attorney General,,LIB,Jonathan Jaech,2
 Tuolumne,999301,Attorney General,,DEM,Kamala D. Harris,3
-Tuolumne,999301,Attorney General,,IND,Orly Taitz,0
-Tuolumne,999301,Attorney General,,REP,Phil Wyman,0
 Tuolumne,999301,Attorney General,,REP,Ronald Gold,1
 Tuolumne,999301,Board of Equalization,1,DEM,Chris Parker,3
 Tuolumne,999301,Board of Equalization,1,REP,George Runner,3
 Tuolumne,999301,Controller,,REP,Ashley Swearengin,1
-Tuolumne,999301,Controller,,DEM,Betty T. Yee,0
 Tuolumne,999301,Controller,,REP,David Evans,2
 Tuolumne,999301,Controller,,DEM,John A. Pérez,2
-Tuolumne,999301,Controller,,GRN,Laura Wells,0
 Tuolumne,999301,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999301,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999301,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999301,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999301,Governor,,REP,Andrew Blount,1
-Tuolumne,999301,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999301,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
 Tuolumne,999301,Governor,,REP,Glenn Champ,1
-Tuolumne,999301,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999301,Governor,,IND,Joe Leicht,0
-Tuolumne,999301,Governor,,GRN,Luis J. Rodriguez,0
-Tuolumne,999301,Governor,,REP,Neel Kashkari,0
-Tuolumne,999301,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999301,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999301,Governor,,IND,Robert Newman,0
-Tuolumne,999301,Governor,,REP,Tim Donnelly,0
 Tuolumne,999301,Insurance Commissioner,,DEM,Dave Jones,3
 Tuolumne,999301,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999301,Insurance Commissioner,,REP,Ted Gaines,3
-Tuolumne,999301,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999301,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999301,Lieutenant Governor,,REP,David Fennell,1
-Tuolumne,999301,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999301,Lieutenant Governor,,DEM,Gavin Newsom,3
-Tuolumne,999301,Lieutenant Governor,,REP,George Yang,0
-Tuolumne,999301,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999301,Lieutenant Governor,,REP,Ron Nehring,3
+Tuolumne,999301,Proposition 41,,,No,6
+Tuolumne,999301,Proposition 41,,,Yes,1
+Tuolumne,999301,Proposition 42,,,No,5
+Tuolumne,999301,Proposition 42,,,Yes,2
 Tuolumne,999301,Secretary of State,,DEM,Alex Padilla,2
-Tuolumne,999301,Secretary of State,,IND,Dan Schnur,0
-Tuolumne,999301,Secretary of State,,GRN,David Curtis,0
-Tuolumne,999301,Secretary of State,,DEM,Derek Cressman,0
 Tuolumne,999301,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Tuolumne,999301,Secretary of State,,DEM,Leland Yee,0
 Tuolumne,999301,Secretary of State,,REP,Pete Peterson,4
-Tuolumne,999301,Secretary of State,,REP,Roy Allmond,0
 Tuolumne,999301,State Assembly,5,REP,Frank Bigelow,3
 Tuolumne,999301,State Senate,8,DEM,Paulina Miranda,3
 Tuolumne,999301,State Senate,8,REP,Tom Berryhill,3
 Tuolumne,999301,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Tuolumne,999301,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
-Tuolumne,999301,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Tuolumne,999301,Treasurer,,GRN,Ellen H. Brown,0
 Tuolumne,999301,Treasurer,,REP,Greg Conlon,3
 Tuolumne,999301,Treasurer,,DEM,John Chiang,3
-Tuolumne,999301,U.S. House,4,REP,"Arthur ""Art"" Moore",0
 Tuolumne,999301,U.S. House,4,IND,Jeffrey D. Gerlach,4
 Tuolumne,999301,U.S. House,4,REP,Tom McClintock,3
 Tuolumne,999302,Attorney General,,REP,David King,1
 Tuolumne,999302,Attorney General,,REP,John Haggerty,4
-Tuolumne,999302,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999302,Attorney General,,DEM,Kamala D. Harris,13
 Tuolumne,999302,Attorney General,,IND,Orly Taitz,1
 Tuolumne,999302,Attorney General,,REP,Phil Wyman,1
@@ -2879,37 +2701,25 @@ Tuolumne,999302,Controller,,REP,Ashley Swearengin,3
 Tuolumne,999302,Controller,,DEM,Betty T. Yee,5
 Tuolumne,999302,Controller,,REP,David Evans,9
 Tuolumne,999302,Controller,,DEM,John A. Pérez,1
-Tuolumne,999302,Controller,,GRN,Laura Wells,0
 Tuolumne,999302,Controller,,DEM,Tammy D. Blair,2
-Tuolumne,999302,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999302,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999302,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999302,Governor,,REP,Andrew Blount,1
-Tuolumne,999302,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999302,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Tuolumne,999302,Governor,,REP,Glenn Champ,2
-Tuolumne,999302,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999302,Governor,,IND,Joe Leicht,0
 Tuolumne,999302,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999302,Governor,,REP,Neel Kashkari,6
-Tuolumne,999302,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999302,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999302,Governor,,IND,Robert Newman,0
 Tuolumne,999302,Governor,,REP,Tim Donnelly,3
 Tuolumne,999302,Insurance Commissioner,,DEM,Dave Jones,11
-Tuolumne,999302,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999302,Insurance Commissioner,,REP,Ted Gaines,12
-Tuolumne,999302,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999302,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999302,Lieutenant Governor,,REP,David Fennell,3
 Tuolumne,999302,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999302,Lieutenant Governor,,DEM,Gavin Newsom,12
 Tuolumne,999302,Lieutenant Governor,,REP,George Yang,2
-Tuolumne,999302,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999302,Lieutenant Governor,,REP,Ron Nehring,5
+Tuolumne,999302,Proposition 41,,,No,17
+Tuolumne,999302,Proposition 41,,,Yes,11
+Tuolumne,999302,Proposition 42,,,No,13
+Tuolumne,999302,Proposition 42,,,Yes,13
 Tuolumne,999302,Secretary of State,,DEM,Alex Padilla,7
-Tuolumne,999302,Secretary of State,,IND,Dan Schnur,0
-Tuolumne,999302,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999302,Secretary of State,,DEM,Derek Cressman,1
 Tuolumne,999302,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Tuolumne,999302,Secretary of State,,DEM,Leland Yee,3
@@ -2942,32 +2752,27 @@ Tuolumne,999303,Controller,,REP,David Evans,20
 Tuolumne,999303,Controller,,DEM,John A. Pérez,6
 Tuolumne,999303,Controller,,GRN,Laura Wells,6
 Tuolumne,999303,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999303,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999303,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999303,Governor,,REP,Alma Marie Winston,1
-Tuolumne,999303,Governor,,REP,Andrew Blount,0
 Tuolumne,999303,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999303,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
 Tuolumne,999303,Governor,,REP,Glenn Champ,6
-Tuolumne,999303,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999303,Governor,,IND,Joe Leicht,0
-Tuolumne,999303,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999303,Governor,,REP,Neel Kashkari,17
-Tuolumne,999303,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999303,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999303,Governor,,IND,Robert Newman,1
 Tuolumne,999303,Governor,,REP,Tim Donnelly,9
 Tuolumne,999303,Insurance Commissioner,,DEM,Dave Jones,27
 Tuolumne,999303,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999303,Insurance Commissioner,,REP,Ted Gaines,33
 Tuolumne,999303,Lieutenant Governor,,AME,Alan Reynolds,1
-Tuolumne,999303,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999303,Lieutenant Governor,,REP,David Fennell,9
 Tuolumne,999303,Lieutenant Governor,,DEM,Eric Korevaar,3
 Tuolumne,999303,Lieutenant Governor,,DEM,Gavin Newsom,19
 Tuolumne,999303,Lieutenant Governor,,REP,George Yang,4
 Tuolumne,999303,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tuolumne,999303,Lieutenant Governor,,REP,Ron Nehring,22
+Tuolumne,999303,Proposition 41,,,No,23
+Tuolumne,999303,Proposition 41,,,Yes,36
+Tuolumne,999303,Proposition 42,,,No,32
+Tuolumne,999303,Proposition 42,,,Yes,27
 Tuolumne,999303,Secretary of State,,DEM,Alex Padilla,10
 Tuolumne,999303,Secretary of State,,IND,Dan Schnur,5
 Tuolumne,999303,Secretary of State,,GRN,David Curtis,1
@@ -3003,32 +2808,23 @@ Tuolumne,999304,Controller,,REP,David Evans,25
 Tuolumne,999304,Controller,,DEM,John A. Pérez,10
 Tuolumne,999304,Controller,,GRN,Laura Wells,3
 Tuolumne,999304,Controller,,DEM,Tammy D. Blair,2
-Tuolumne,999304,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999304,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999304,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999304,Governor,,REP,Andrew Blount,2
-Tuolumne,999304,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999304,Governor,,DEM,"Edmund G. ""Jerry"" Brown",28
-Tuolumne,999304,Governor,,REP,Glenn Champ,0
-Tuolumne,999304,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999304,Governor,,IND,Joe Leicht,0
-Tuolumne,999304,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999304,Governor,,REP,Neel Kashkari,25
-Tuolumne,999304,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999304,Governor,,REP,Richard William Aguirre,1
 Tuolumne,999304,Governor,,IND,Robert Newman,1
 Tuolumne,999304,Governor,,REP,Tim Donnelly,11
 Tuolumne,999304,Insurance Commissioner,,DEM,Dave Jones,24
 Tuolumne,999304,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Tuolumne,999304,Insurance Commissioner,,REP,Ted Gaines,39
-Tuolumne,999304,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999304,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999304,Lieutenant Governor,,REP,David Fennell,8
-Tuolumne,999304,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999304,Lieutenant Governor,,DEM,Gavin Newsom,24
 Tuolumne,999304,Lieutenant Governor,,REP,George Yang,8
-Tuolumne,999304,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999304,Lieutenant Governor,,REP,Ron Nehring,25
+Tuolumne,999304,Proposition 41,,,No,26
+Tuolumne,999304,Proposition 41,,,Yes,40
+Tuolumne,999304,Proposition 42,,,No,33
+Tuolumne,999304,Proposition 42,,,Yes,30
 Tuolumne,999304,Secretary of State,,DEM,Alex Padilla,11
 Tuolumne,999304,Secretary of State,,IND,Dan Schnur,3
 Tuolumne,999304,Secretary of State,,GRN,David Curtis,1
@@ -3063,26 +2859,13 @@ Tuolumne,999305,Controller,,DEM,Betty T. Yee,7
 Tuolumne,999305,Controller,,REP,David Evans,25
 Tuolumne,999305,Controller,,DEM,John A. Pérez,8
 Tuolumne,999305,Controller,,GRN,Laura Wells,4
-Tuolumne,999305,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999305,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999305,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999305,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999305,Governor,,REP,Andrew Blount,0
-Tuolumne,999305,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999305,Governor,,DEM,"Edmund G. ""Jerry"" Brown",24
-Tuolumne,999305,Governor,,REP,Glenn Champ,0
-Tuolumne,999305,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999305,Governor,,IND,Joe Leicht,0
-Tuolumne,999305,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999305,Governor,,REP,Neel Kashkari,25
-Tuolumne,999305,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999305,Governor,,REP,Richard William Aguirre,1
-Tuolumne,999305,Governor,,IND,Robert Newman,0
 Tuolumne,999305,Governor,,REP,Tim Donnelly,12
 Tuolumne,999305,Insurance Commissioner,,DEM,Dave Jones,19
 Tuolumne,999305,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Tuolumne,999305,Insurance Commissioner,,REP,Ted Gaines,38
-Tuolumne,999305,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999305,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999305,Lieutenant Governor,,REP,David Fennell,6
 Tuolumne,999305,Lieutenant Governor,,DEM,Eric Korevaar,3
@@ -3090,6 +2873,10 @@ Tuolumne,999305,Lieutenant Governor,,DEM,Gavin Newsom,22
 Tuolumne,999305,Lieutenant Governor,,REP,George Yang,5
 Tuolumne,999305,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999305,Lieutenant Governor,,REP,Ron Nehring,23
+Tuolumne,999305,Proposition 41,,,No,29
+Tuolumne,999305,Proposition 41,,,Yes,30
+Tuolumne,999305,Proposition 42,,,No,37
+Tuolumne,999305,Proposition 42,,,Yes,22
 Tuolumne,999305,Secretary of State,,DEM,Alex Padilla,8
 Tuolumne,999305,Secretary of State,,IND,Dan Schnur,3
 Tuolumne,999305,Secretary of State,,GRN,David Curtis,5
@@ -3125,32 +2912,27 @@ Tuolumne,999306,Controller,,REP,David Evans,34
 Tuolumne,999306,Controller,,DEM,John A. Pérez,13
 Tuolumne,999306,Controller,,GRN,Laura Wells,12
 Tuolumne,999306,Controller,,DEM,Tammy D. Blair,6
-Tuolumne,999306,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Tuolumne,999306,Governor,,DEM,Akinyemi Agbede,2
 Tuolumne,999306,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999306,Governor,,REP,Andrew Blount,4
 Tuolumne,999306,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999306,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Tuolumne,999306,Governor,,REP,Glenn Champ,1
-Tuolumne,999306,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999306,Governor,,IND,Joe Leicht,0
-Tuolumne,999306,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999306,Governor,,REP,Neel Kashkari,21
-Tuolumne,999306,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999306,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999306,Governor,,IND,Robert Newman,0
 Tuolumne,999306,Governor,,REP,Tim Donnelly,14
 Tuolumne,999306,Insurance Commissioner,,DEM,Dave Jones,38
 Tuolumne,999306,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Tuolumne,999306,Insurance Commissioner,,REP,Ted Gaines,44
-Tuolumne,999306,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999306,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999306,Lieutenant Governor,,REP,David Fennell,6
 Tuolumne,999306,Lieutenant Governor,,DEM,Eric Korevaar,5
 Tuolumne,999306,Lieutenant Governor,,DEM,Gavin Newsom,45
 Tuolumne,999306,Lieutenant Governor,,REP,George Yang,9
 Tuolumne,999306,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999306,Lieutenant Governor,,REP,Ron Nehring,29
+Tuolumne,999306,Proposition 41,,,No,43
+Tuolumne,999306,Proposition 41,,,Yes,50
+Tuolumne,999306,Proposition 42,,,No,49
+Tuolumne,999306,Proposition 42,,,Yes,39
 Tuolumne,999306,Secretary of State,,DEM,Alex Padilla,15
 Tuolumne,999306,Secretary of State,,IND,Dan Schnur,1
 Tuolumne,999306,Secretary of State,,GRN,David Curtis,4
@@ -3171,11 +2953,8 @@ Tuolumne,999306,Treasurer,,DEM,John Chiang,45
 Tuolumne,999306,U.S. House,4,REP,"Arthur ""Art"" Moore",16
 Tuolumne,999306,U.S. House,4,IND,Jeffrey D. Gerlach,26
 Tuolumne,999306,U.S. House,4,REP,Tom McClintock,43
-Tuolumne,999307,Attorney General,,REP,David King,0
 Tuolumne,999307,Attorney General,,REP,John Haggerty,5
-Tuolumne,999307,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999307,Attorney General,,DEM,Kamala D. Harris,10
-Tuolumne,999307,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999307,Attorney General,,REP,Phil Wyman,3
 Tuolumne,999307,Attorney General,,REP,Ronald Gold,2
 Tuolumne,999307,Board of Equalization,1,DEM,Chris Parker,8
@@ -3186,38 +2965,25 @@ Tuolumne,999307,Controller,,REP,David Evans,6
 Tuolumne,999307,Controller,,DEM,John A. Pérez,1
 Tuolumne,999307,Controller,,GRN,Laura Wells,3
 Tuolumne,999307,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999307,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999307,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999307,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999307,Governor,,REP,Andrew Blount,0
-Tuolumne,999307,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999307,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
 Tuolumne,999307,Governor,,REP,Glenn Champ,2
-Tuolumne,999307,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999307,Governor,,IND,Joe Leicht,0
-Tuolumne,999307,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999307,Governor,,REP,Neel Kashkari,5
-Tuolumne,999307,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999307,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999307,Governor,,IND,Robert Newman,0
 Tuolumne,999307,Governor,,REP,Tim Donnelly,8
 Tuolumne,999307,Insurance Commissioner,,DEM,Dave Jones,7
 Tuolumne,999307,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Tuolumne,999307,Insurance Commissioner,,REP,Ted Gaines,11
 Tuolumne,999307,Lieutenant Governor,,AME,Alan Reynolds,1
-Tuolumne,999307,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999307,Lieutenant Governor,,REP,David Fennell,3
-Tuolumne,999307,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999307,Lieutenant Governor,,DEM,Gavin Newsom,8
-Tuolumne,999307,Lieutenant Governor,,REP,George Yang,0
 Tuolumne,999307,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999307,Lieutenant Governor,,REP,Ron Nehring,7
+Tuolumne,999307,Proposition 41,,,No,8
+Tuolumne,999307,Proposition 41,,,Yes,12
+Tuolumne,999307,Proposition 42,,,No,11
+Tuolumne,999307,Proposition 42,,,Yes,8
 Tuolumne,999307,Secretary of State,,DEM,Alex Padilla,5
-Tuolumne,999307,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999307,Secretary of State,,GRN,David Curtis,2
 Tuolumne,999307,Secretary of State,,DEM,Derek Cressman,1
-Tuolumne,999307,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Tuolumne,999307,Secretary of State,,DEM,Leland Yee,0
 Tuolumne,999307,Secretary of State,,REP,Pete Peterson,9
 Tuolumne,999307,Secretary of State,,REP,Roy Allmond,2
 Tuolumne,999307,State Assembly,5,REP,Frank Bigelow,16
@@ -3236,7 +3002,6 @@ Tuolumne,999308,Attorney General,,REP,David King,3
 Tuolumne,999308,Attorney General,,REP,John Haggerty,5
 Tuolumne,999308,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999308,Attorney General,,DEM,Kamala D. Harris,12
-Tuolumne,999308,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999308,Attorney General,,REP,Phil Wyman,9
 Tuolumne,999308,Attorney General,,REP,Ronald Gold,3
 Tuolumne,999308,Board of Equalization,1,DEM,Chris Parker,10
@@ -3246,38 +3011,24 @@ Tuolumne,999308,Controller,,DEM,Betty T. Yee,5
 Tuolumne,999308,Controller,,REP,David Evans,14
 Tuolumne,999308,Controller,,DEM,John A. Pérez,4
 Tuolumne,999308,Controller,,GRN,Laura Wells,2
-Tuolumne,999308,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999308,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999308,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999308,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999308,Governor,,REP,Andrew Blount,2
-Tuolumne,999308,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999308,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Tuolumne,999308,Governor,,REP,Glenn Champ,1
-Tuolumne,999308,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999308,Governor,,IND,Joe Leicht,0
-Tuolumne,999308,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999308,Governor,,REP,Neel Kashkari,12
-Tuolumne,999308,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999308,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999308,Governor,,IND,Robert Newman,0
 Tuolumne,999308,Governor,,REP,Tim Donnelly,7
 Tuolumne,999308,Insurance Commissioner,,DEM,Dave Jones,11
-Tuolumne,999308,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999308,Insurance Commissioner,,REP,Ted Gaines,24
-Tuolumne,999308,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999308,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999308,Lieutenant Governor,,REP,David Fennell,5
-Tuolumne,999308,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999308,Lieutenant Governor,,DEM,Gavin Newsom,12
 Tuolumne,999308,Lieutenant Governor,,REP,George Yang,1
-Tuolumne,999308,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999308,Lieutenant Governor,,REP,Ron Nehring,16
+Tuolumne,999308,Proposition 41,,,No,20
+Tuolumne,999308,Proposition 41,,,Yes,16
+Tuolumne,999308,Proposition 42,,,No,19
+Tuolumne,999308,Proposition 42,,,Yes,17
 Tuolumne,999308,Secretary of State,,DEM,Alex Padilla,7
 Tuolumne,999308,Secretary of State,,IND,Dan Schnur,2
-Tuolumne,999308,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999308,Secretary of State,,DEM,Derek Cressman,2
-Tuolumne,999308,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tuolumne,999308,Secretary of State,,DEM,Leland Yee,1
 Tuolumne,999308,Secretary of State,,REP,Pete Peterson,19
 Tuolumne,999308,Secretary of State,,REP,Roy Allmond,3
@@ -3287,7 +3038,6 @@ Tuolumne,999308,State Senate,8,REP,Tom Berryhill,26
 Tuolumne,999308,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,8
 Tuolumne,999308,Superintendent of Public Instruction,,NOP,Marshall Tuck,6
 Tuolumne,999308,Superintendent of Public Instruction,,NOP,Tom Torlakson,12
-Tuolumne,999308,Treasurer,,GRN,Ellen H. Brown,0
 Tuolumne,999308,Treasurer,,REP,Greg Conlon,19
 Tuolumne,999308,Treasurer,,DEM,John Chiang,16
 Tuolumne,999308,U.S. House,4,REP,"Arthur ""Art"" Moore",6
@@ -3308,25 +3058,16 @@ Tuolumne,999309,Controller,,REP,David Evans,25
 Tuolumne,999309,Controller,,DEM,John A. Pérez,12
 Tuolumne,999309,Controller,,GRN,Laura Wells,6
 Tuolumne,999309,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999309,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999309,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999309,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999309,Governor,,REP,Andrew Blount,1
 Tuolumne,999309,Governor,,PAF,Cindy L. Sheehan,3
 Tuolumne,999309,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
-Tuolumne,999309,Governor,,REP,Glenn Champ,0
-Tuolumne,999309,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999309,Governor,,IND,Joe Leicht,0
 Tuolumne,999309,Governor,,GRN,Luis J. Rodriguez,2
 Tuolumne,999309,Governor,,REP,Neel Kashkari,13
-Tuolumne,999309,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999309,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999309,Governor,,IND,Robert Newman,1
 Tuolumne,999309,Governor,,REP,Tim Donnelly,10
 Tuolumne,999309,Insurance Commissioner,,DEM,Dave Jones,16
 Tuolumne,999309,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Tuolumne,999309,Insurance Commissioner,,REP,Ted Gaines,27
-Tuolumne,999309,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999309,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999309,Lieutenant Governor,,REP,David Fennell,7
 Tuolumne,999309,Lieutenant Governor,,DEM,Eric Korevaar,5
@@ -3334,6 +3075,10 @@ Tuolumne,999309,Lieutenant Governor,,DEM,Gavin Newsom,20
 Tuolumne,999309,Lieutenant Governor,,REP,George Yang,5
 Tuolumne,999309,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999309,Lieutenant Governor,,REP,Ron Nehring,15
+Tuolumne,999309,Proposition 41,,,No,30
+Tuolumne,999309,Proposition 41,,,Yes,27
+Tuolumne,999309,Proposition 42,,,No,29
+Tuolumne,999309,Proposition 42,,,Yes,24
 Tuolumne,999309,Secretary of State,,DEM,Alex Padilla,10
 Tuolumne,999309,Secretary of State,,IND,Dan Schnur,2
 Tuolumne,999309,Secretary of State,,GRN,David Curtis,5
@@ -3354,11 +3099,9 @@ Tuolumne,999309,Treasurer,,DEM,John Chiang,26
 Tuolumne,999309,U.S. House,4,REP,"Arthur ""Art"" Moore",14
 Tuolumne,999309,U.S. House,4,IND,Jeffrey D. Gerlach,15
 Tuolumne,999309,U.S. House,4,REP,Tom McClintock,27
-Tuolumne,999401,Attorney General,,REP,David King,0
 Tuolumne,999401,Attorney General,,REP,John Haggerty,5
 Tuolumne,999401,Attorney General,,LIB,Jonathan Jaech,2
 Tuolumne,999401,Attorney General,,DEM,Kamala D. Harris,3
-Tuolumne,999401,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999401,Attorney General,,REP,Phil Wyman,7
 Tuolumne,999401,Attorney General,,REP,Ronald Gold,1
 Tuolumne,999401,Board of Equalization,1,DEM,Chris Parker,3
@@ -3366,40 +3109,24 @@ Tuolumne,999401,Board of Equalization,1,REP,George Runner,14
 Tuolumne,999401,Controller,,REP,Ashley Swearengin,5
 Tuolumne,999401,Controller,,DEM,Betty T. Yee,3
 Tuolumne,999401,Controller,,REP,David Evans,9
-Tuolumne,999401,Controller,,DEM,John A. Pérez,0
-Tuolumne,999401,Controller,,GRN,Laura Wells,0
-Tuolumne,999401,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999401,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999401,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999401,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999401,Governor,,REP,Andrew Blount,1
-Tuolumne,999401,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999401,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Tuolumne,999401,Governor,,REP,Glenn Champ,0
-Tuolumne,999401,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999401,Governor,,IND,Joe Leicht,0
-Tuolumne,999401,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999401,Governor,,REP,Neel Kashkari,8
-Tuolumne,999401,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999401,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999401,Governor,,IND,Robert Newman,0
 Tuolumne,999401,Governor,,REP,Tim Donnelly,7
 Tuolumne,999401,Insurance Commissioner,,DEM,Dave Jones,3
-Tuolumne,999401,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999401,Insurance Commissioner,,REP,Ted Gaines,14
-Tuolumne,999401,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999401,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999401,Lieutenant Governor,,REP,David Fennell,1
 Tuolumne,999401,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999401,Lieutenant Governor,,DEM,Gavin Newsom,2
 Tuolumne,999401,Lieutenant Governor,,REP,George Yang,4
-Tuolumne,999401,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999401,Lieutenant Governor,,REP,Ron Nehring,10
+Tuolumne,999401,Proposition 41,,,No,8
+Tuolumne,999401,Proposition 41,,,Yes,10
+Tuolumne,999401,Proposition 42,,,No,11
+Tuolumne,999401,Proposition 42,,,Yes,6
 Tuolumne,999401,Secretary of State,,DEM,Alex Padilla,1
 Tuolumne,999401,Secretary of State,,IND,Dan Schnur,1
-Tuolumne,999401,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999401,Secretary of State,,DEM,Derek Cressman,1
-Tuolumne,999401,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Tuolumne,999401,Secretary of State,,DEM,Leland Yee,1
 Tuolumne,999401,Secretary of State,,REP,Pete Peterson,11
 Tuolumne,999401,Secretary of State,,REP,Roy Allmond,3
@@ -3409,7 +3136,6 @@ Tuolumne,999401,State Senate,8,REP,Tom Berryhill,15
 Tuolumne,999401,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,5
 Tuolumne,999401,Superintendent of Public Instruction,,NOP,Marshall Tuck,5
 Tuolumne,999401,Superintendent of Public Instruction,,NOP,Tom Torlakson,7
-Tuolumne,999401,Treasurer,,GRN,Ellen H. Brown,0
 Tuolumne,999401,Treasurer,,REP,Greg Conlon,15
 Tuolumne,999401,Treasurer,,DEM,John Chiang,3
 Tuolumne,999401,U.S. House,4,REP,"Arthur ""Art"" Moore",4
@@ -3428,21 +3154,11 @@ Tuolumne,999402,Controller,,REP,Ashley Swearengin,12
 Tuolumne,999402,Controller,,DEM,Betty T. Yee,15
 Tuolumne,999402,Controller,,REP,David Evans,22
 Tuolumne,999402,Controller,,DEM,John A. Pérez,5
-Tuolumne,999402,Controller,,GRN,Laura Wells,0
 Tuolumne,999402,Controller,,DEM,Tammy D. Blair,6
-Tuolumne,999402,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999402,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999402,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999402,Governor,,REP,Andrew Blount,1
-Tuolumne,999402,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999402,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Tuolumne,999402,Governor,,REP,Glenn Champ,2
-Tuolumne,999402,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999402,Governor,,IND,Joe Leicht,0
-Tuolumne,999402,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999402,Governor,,REP,Neel Kashkari,15
-Tuolumne,999402,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999402,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999402,Governor,,IND,Robert Newman,1
 Tuolumne,999402,Governor,,REP,Tim Donnelly,10
 Tuolumne,999402,Insurance Commissioner,,DEM,Dave Jones,28
@@ -3454,11 +3170,13 @@ Tuolumne,999402,Lieutenant Governor,,REP,David Fennell,1
 Tuolumne,999402,Lieutenant Governor,,DEM,Eric Korevaar,7
 Tuolumne,999402,Lieutenant Governor,,DEM,Gavin Newsom,20
 Tuolumne,999402,Lieutenant Governor,,REP,George Yang,4
-Tuolumne,999402,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999402,Lieutenant Governor,,REP,Ron Nehring,26
+Tuolumne,999402,Proposition 41,,,No,18
+Tuolumne,999402,Proposition 41,,,Yes,42
+Tuolumne,999402,Proposition 42,,,No,30
+Tuolumne,999402,Proposition 42,,,Yes,27
 Tuolumne,999402,Secretary of State,,DEM,Alex Padilla,13
 Tuolumne,999402,Secretary of State,,IND,Dan Schnur,4
-Tuolumne,999402,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999402,Secretary of State,,DEM,Derek Cressman,6
 Tuolumne,999402,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Tuolumne,999402,Secretary of State,,DEM,Leland Yee,6
@@ -3476,47 +3194,33 @@ Tuolumne,999402,Treasurer,,DEM,John Chiang,30
 Tuolumne,999402,U.S. House,4,REP,"Arthur ""Art"" Moore",11
 Tuolumne,999402,U.S. House,4,IND,Jeffrey D. Gerlach,12
 Tuolumne,999402,U.S. House,4,REP,Tom McClintock,35
-Tuolumne,999403,Attorney General,,REP,David King,0
 Tuolumne,999403,Attorney General,,REP,John Haggerty,3
 Tuolumne,999403,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999403,Attorney General,,DEM,Kamala D. Harris,6
-Tuolumne,999403,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999403,Attorney General,,REP,Phil Wyman,1
-Tuolumne,999403,Attorney General,,REP,Ronald Gold,0
 Tuolumne,999403,Board of Equalization,1,DEM,Chris Parker,7
 Tuolumne,999403,Board of Equalization,1,REP,George Runner,4
 Tuolumne,999403,Controller,,REP,Ashley Swearengin,1
 Tuolumne,999403,Controller,,DEM,Betty T. Yee,4
 Tuolumne,999403,Controller,,REP,David Evans,3
-Tuolumne,999403,Controller,,DEM,John A. Pérez,0
 Tuolumne,999403,Controller,,GRN,Laura Wells,2
 Tuolumne,999403,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999403,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999403,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999403,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999403,Governor,,REP,Andrew Blount,0
 Tuolumne,999403,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999403,Governor,,DEM,"Edmund G. ""Jerry"" Brown",5
-Tuolumne,999403,Governor,,REP,Glenn Champ,0
-Tuolumne,999403,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999403,Governor,,IND,Joe Leicht,0
 Tuolumne,999403,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999403,Governor,,REP,Neel Kashkari,3
 Tuolumne,999403,Governor,,IND,Rakesh Kumar Christian,1
-Tuolumne,999403,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999403,Governor,,IND,Robert Newman,0
-Tuolumne,999403,Governor,,REP,Tim Donnelly,0
 Tuolumne,999403,Insurance Commissioner,,DEM,Dave Jones,7
 Tuolumne,999403,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Tuolumne,999403,Insurance Commissioner,,REP,Ted Gaines,4
-Tuolumne,999403,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999403,Lieutenant Governor,,PAF,Amos Johnson,1
-Tuolumne,999403,Lieutenant Governor,,REP,David Fennell,0
 Tuolumne,999403,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999403,Lieutenant Governor,,DEM,Gavin Newsom,7
-Tuolumne,999403,Lieutenant Governor,,REP,George Yang,0
-Tuolumne,999403,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999403,Lieutenant Governor,,REP,Ron Nehring,3
+Tuolumne,999403,Proposition 41,,,No,5
+Tuolumne,999403,Proposition 41,,,Yes,7
+Tuolumne,999403,Proposition 42,,,No,8
+Tuolumne,999403,Proposition 42,,,Yes,4
 Tuolumne,999403,Secretary of State,,DEM,Alex Padilla,3
 Tuolumne,999403,Secretary of State,,IND,Dan Schnur,1
 Tuolumne,999403,Secretary of State,,GRN,David Curtis,1
@@ -3552,36 +3256,24 @@ Tuolumne,999404,Controller,,REP,David Evans,22
 Tuolumne,999404,Controller,,DEM,John A. Pérez,5
 Tuolumne,999404,Controller,,GRN,Laura Wells,5
 Tuolumne,999404,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999404,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999404,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999404,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999404,Governor,,REP,Andrew Blount,0
-Tuolumne,999404,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999404,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
-Tuolumne,999404,Governor,,REP,Glenn Champ,0
-Tuolumne,999404,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999404,Governor,,IND,Joe Leicht,0
-Tuolumne,999404,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999404,Governor,,REP,Neel Kashkari,19
-Tuolumne,999404,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999404,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999404,Governor,,IND,Robert Newman,1
 Tuolumne,999404,Governor,,REP,Tim Donnelly,11
 Tuolumne,999404,Insurance Commissioner,,DEM,Dave Jones,18
 Tuolumne,999404,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Tuolumne,999404,Insurance Commissioner,,REP,Ted Gaines,26
-Tuolumne,999404,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999404,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999404,Lieutenant Governor,,REP,David Fennell,5
 Tuolumne,999404,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999404,Lieutenant Governor,,DEM,Gavin Newsom,18
 Tuolumne,999404,Lieutenant Governor,,REP,George Yang,3
-Tuolumne,999404,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999404,Lieutenant Governor,,REP,Ron Nehring,21
+Tuolumne,999404,Proposition 41,,,No,16
+Tuolumne,999404,Proposition 41,,,Yes,35
+Tuolumne,999404,Proposition 42,,,No,19
+Tuolumne,999404,Proposition 42,,,Yes,31
 Tuolumne,999404,Secretary of State,,DEM,Alex Padilla,9
-Tuolumne,999404,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999404,Secretary of State,,GRN,David Curtis,4
-Tuolumne,999404,Secretary of State,,DEM,Derek Cressman,0
 Tuolumne,999404,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Tuolumne,999404,Secretary of State,,DEM,Leland Yee,5
 Tuolumne,999404,Secretary of State,,REP,Pete Peterson,26
@@ -3613,32 +3305,27 @@ Tuolumne,999405,Controller,,REP,David Evans,31
 Tuolumne,999405,Controller,,DEM,John A. Pérez,13
 Tuolumne,999405,Controller,,GRN,Laura Wells,6
 Tuolumne,999405,Controller,,DEM,Tammy D. Blair,7
-Tuolumne,999405,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999405,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999405,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999405,Governor,,REP,Andrew Blount,5
 Tuolumne,999405,Governor,,PAF,Cindy L. Sheehan,2
 Tuolumne,999405,Governor,,DEM,"Edmund G. ""Jerry"" Brown",35
 Tuolumne,999405,Governor,,REP,Glenn Champ,2
-Tuolumne,999405,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999405,Governor,,IND,Joe Leicht,0
-Tuolumne,999405,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999405,Governor,,REP,Neel Kashkari,31
-Tuolumne,999405,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999405,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999405,Governor,,IND,Robert Newman,1
 Tuolumne,999405,Governor,,REP,Tim Donnelly,19
 Tuolumne,999405,Insurance Commissioner,,DEM,Dave Jones,29
 Tuolumne,999405,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Tuolumne,999405,Insurance Commissioner,,REP,Ted Gaines,58
 Tuolumne,999405,Lieutenant Governor,,AME,Alan Reynolds,1
-Tuolumne,999405,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999405,Lieutenant Governor,,REP,David Fennell,5
 Tuolumne,999405,Lieutenant Governor,,DEM,Eric Korevaar,4
 Tuolumne,999405,Lieutenant Governor,,DEM,Gavin Newsom,32
 Tuolumne,999405,Lieutenant Governor,,REP,George Yang,7
 Tuolumne,999405,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999405,Lieutenant Governor,,REP,Ron Nehring,45
+Tuolumne,999405,Proposition 41,,,No,40
+Tuolumne,999405,Proposition 41,,,Yes,56
+Tuolumne,999405,Proposition 42,,,No,45
+Tuolumne,999405,Proposition 42,,,Yes,47
 Tuolumne,999405,Secretary of State,,DEM,Alex Padilla,18
 Tuolumne,999405,Secretary of State,,IND,Dan Schnur,8
 Tuolumne,999405,Secretary of State,,GRN,David Curtis,1
@@ -3661,7 +3348,6 @@ Tuolumne,999405,U.S. House,4,IND,Jeffrey D. Gerlach,24
 Tuolumne,999405,U.S. House,4,REP,Tom McClintock,61
 Tuolumne,999406,Attorney General,,REP,David King,7
 Tuolumne,999406,Attorney General,,REP,John Haggerty,4
-Tuolumne,999406,Attorney General,,LIB,Jonathan Jaech,0
 Tuolumne,999406,Attorney General,,DEM,Kamala D. Harris,20
 Tuolumne,999406,Attorney General,,IND,Orly Taitz,1
 Tuolumne,999406,Attorney General,,REP,Phil Wyman,18
@@ -3674,32 +3360,25 @@ Tuolumne,999406,Controller,,REP,David Evans,33
 Tuolumne,999406,Controller,,DEM,John A. Pérez,6
 Tuolumne,999406,Controller,,GRN,Laura Wells,7
 Tuolumne,999406,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999406,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999406,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999406,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999406,Governor,,REP,Andrew Blount,2
-Tuolumne,999406,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999406,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
-Tuolumne,999406,Governor,,REP,Glenn Champ,0
-Tuolumne,999406,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999406,Governor,,IND,Joe Leicht,0
-Tuolumne,999406,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999406,Governor,,REP,Neel Kashkari,18
-Tuolumne,999406,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999406,Governor,,REP,Richard William Aguirre,2
 Tuolumne,999406,Governor,,IND,Robert Newman,5
 Tuolumne,999406,Governor,,REP,Tim Donnelly,20
 Tuolumne,999406,Insurance Commissioner,,DEM,Dave Jones,20
-Tuolumne,999406,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999406,Insurance Commissioner,,REP,Ted Gaines,46
 Tuolumne,999406,Lieutenant Governor,,AME,Alan Reynolds,5
 Tuolumne,999406,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999406,Lieutenant Governor,,REP,David Fennell,5
-Tuolumne,999406,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999406,Lieutenant Governor,,DEM,Gavin Newsom,19
 Tuolumne,999406,Lieutenant Governor,,REP,George Yang,3
 Tuolumne,999406,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999406,Lieutenant Governor,,REP,Ron Nehring,31
+Tuolumne,999406,Proposition 41,,,No,35
+Tuolumne,999406,Proposition 41,,,Yes,32
+Tuolumne,999406,Proposition 42,,,No,33
+Tuolumne,999406,Proposition 42,,,Yes,31
 Tuolumne,999406,Secretary of State,,DEM,Alex Padilla,13
 Tuolumne,999406,Secretary of State,,IND,Dan Schnur,4
 Tuolumne,999406,Secretary of State,,GRN,David Curtis,2
@@ -3735,34 +3414,23 @@ Tuolumne,999407,Controller,,REP,David Evans,20
 Tuolumne,999407,Controller,,DEM,John A. Pérez,9
 Tuolumne,999407,Controller,,GRN,Laura Wells,2
 Tuolumne,999407,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999407,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999407,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999407,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999407,Governor,,REP,Andrew Blount,1
 Tuolumne,999407,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999407,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
-Tuolumne,999407,Governor,,REP,Glenn Champ,0
-Tuolumne,999407,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999407,Governor,,IND,Joe Leicht,0
-Tuolumne,999407,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999407,Governor,,REP,Neel Kashkari,11
-Tuolumne,999407,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999407,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999407,Governor,,IND,Robert Newman,0
 Tuolumne,999407,Governor,,REP,Tim Donnelly,14
 Tuolumne,999407,Insurance Commissioner,,DEM,Dave Jones,13
-Tuolumne,999407,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999407,Insurance Commissioner,,REP,Ted Gaines,32
-Tuolumne,999407,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999407,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999407,Lieutenant Governor,,REP,David Fennell,6
-Tuolumne,999407,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999407,Lieutenant Governor,,DEM,Gavin Newsom,14
 Tuolumne,999407,Lieutenant Governor,,REP,George Yang,5
 Tuolumne,999407,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999407,Lieutenant Governor,,REP,Ron Nehring,19
+Tuolumne,999407,Proposition 41,,,No,25
+Tuolumne,999407,Proposition 41,,,Yes,23
+Tuolumne,999407,Proposition 42,,,No,26
+Tuolumne,999407,Proposition 42,,,Yes,21
 Tuolumne,999407,Secretary of State,,DEM,Alex Padilla,8
-Tuolumne,999407,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999407,Secretary of State,,GRN,David Curtis,1
 Tuolumne,999407,Secretary of State,,DEM,Derek Cressman,3
 Tuolumne,999407,Secretary of State,,DEM,Jeffrey H. Drobman,1
@@ -3796,34 +3464,26 @@ Tuolumne,999408,Controller,,REP,David Evans,36
 Tuolumne,999408,Controller,,DEM,John A. Pérez,7
 Tuolumne,999408,Controller,,GRN,Laura Wells,2
 Tuolumne,999408,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999408,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999408,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999408,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999408,Governor,,REP,Andrew Blount,4
-Tuolumne,999408,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999408,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Tuolumne,999408,Governor,,REP,Glenn Champ,2
-Tuolumne,999408,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999408,Governor,,IND,Joe Leicht,0
-Tuolumne,999408,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999408,Governor,,REP,Neel Kashkari,24
-Tuolumne,999408,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999408,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999408,Governor,,IND,Robert Newman,1
 Tuolumne,999408,Governor,,REP,Tim Donnelly,22
 Tuolumne,999408,Insurance Commissioner,,DEM,Dave Jones,25
-Tuolumne,999408,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Tuolumne,999408,Insurance Commissioner,,REP,Ted Gaines,50
 Tuolumne,999408,Lieutenant Governor,,AME,Alan Reynolds,2
 Tuolumne,999408,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999408,Lieutenant Governor,,REP,David Fennell,8
-Tuolumne,999408,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999408,Lieutenant Governor,,DEM,Gavin Newsom,25
 Tuolumne,999408,Lieutenant Governor,,REP,George Yang,11
 Tuolumne,999408,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999408,Lieutenant Governor,,REP,Ron Nehring,32
+Tuolumne,999408,Proposition 41,,,No,37
+Tuolumne,999408,Proposition 41,,,Yes,41
+Tuolumne,999408,Proposition 42,,,No,36
+Tuolumne,999408,Proposition 42,,,Yes,40
 Tuolumne,999408,Secretary of State,,DEM,Alex Padilla,12
-Tuolumne,999408,Secretary of State,,IND,Dan Schnur,0
 Tuolumne,999408,Secretary of State,,GRN,David Curtis,1
 Tuolumne,999408,Secretary of State,,DEM,Derek Cressman,3
 Tuolumne,999408,Secretary of State,,DEM,Jeffrey H. Drobman,7
@@ -3855,27 +3515,16 @@ Tuolumne,999409,Controller,,REP,Ashley Swearengin,8
 Tuolumne,999409,Controller,,DEM,Betty T. Yee,2
 Tuolumne,999409,Controller,,REP,David Evans,21
 Tuolumne,999409,Controller,,DEM,John A. Pérez,5
-Tuolumne,999409,Controller,,GRN,Laura Wells,0
 Tuolumne,999409,Controller,,DEM,Tammy D. Blair,2
-Tuolumne,999409,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999409,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999409,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999409,Governor,,REP,Andrew Blount,1
 Tuolumne,999409,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999409,Governor,,DEM,"Edmund G. ""Jerry"" Brown",17
 Tuolumne,999409,Governor,,REP,Glenn Champ,1
-Tuolumne,999409,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999409,Governor,,IND,Joe Leicht,0
-Tuolumne,999409,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999409,Governor,,REP,Neel Kashkari,12
-Tuolumne,999409,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999409,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999409,Governor,,IND,Robert Newman,0
 Tuolumne,999409,Governor,,REP,Tim Donnelly,9
 Tuolumne,999409,Insurance Commissioner,,DEM,Dave Jones,9
 Tuolumne,999409,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Tuolumne,999409,Insurance Commissioner,,REP,Ted Gaines,30
-Tuolumne,999409,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999409,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999409,Lieutenant Governor,,REP,David Fennell,8
 Tuolumne,999409,Lieutenant Governor,,DEM,Eric Korevaar,1
@@ -3883,9 +3532,12 @@ Tuolumne,999409,Lieutenant Governor,,DEM,Gavin Newsom,11
 Tuolumne,999409,Lieutenant Governor,,REP,George Yang,2
 Tuolumne,999409,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999409,Lieutenant Governor,,REP,Ron Nehring,15
+Tuolumne,999409,Proposition 41,,,No,22
+Tuolumne,999409,Proposition 41,,,Yes,20
+Tuolumne,999409,Proposition 42,,,No,20
+Tuolumne,999409,Proposition 42,,,Yes,17
 Tuolumne,999409,Secretary of State,,DEM,Alex Padilla,5
 Tuolumne,999409,Secretary of State,,IND,Dan Schnur,1
-Tuolumne,999409,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999409,Secretary of State,,DEM,Derek Cressman,2
 Tuolumne,999409,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Tuolumne,999409,Secretary of State,,DEM,Leland Yee,2
@@ -3918,32 +3570,25 @@ Tuolumne,999410,Controller,,REP,David Evans,9
 Tuolumne,999410,Controller,,DEM,John A. Pérez,6
 Tuolumne,999410,Controller,,GRN,Laura Wells,6
 Tuolumne,999410,Controller,,DEM,Tammy D. Blair,3
-Tuolumne,999410,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999410,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999410,Governor,,REP,Alma Marie Winston,1
-Tuolumne,999410,Governor,,REP,Andrew Blount,0
-Tuolumne,999410,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999410,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
-Tuolumne,999410,Governor,,REP,Glenn Champ,0
-Tuolumne,999410,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999410,Governor,,IND,Joe Leicht,0
 Tuolumne,999410,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999410,Governor,,REP,Neel Kashkari,7
-Tuolumne,999410,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999410,Governor,,REP,Richard William Aguirre,1
-Tuolumne,999410,Governor,,IND,Robert Newman,0
 Tuolumne,999410,Governor,,REP,Tim Donnelly,6
 Tuolumne,999410,Insurance Commissioner,,DEM,Dave Jones,19
 Tuolumne,999410,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Tuolumne,999410,Insurance Commissioner,,REP,Ted Gaines,16
-Tuolumne,999410,Lieutenant Governor,,AME,Alan Reynolds,0
-Tuolumne,999410,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999410,Lieutenant Governor,,REP,David Fennell,3
 Tuolumne,999410,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999410,Lieutenant Governor,,DEM,Gavin Newsom,20
 Tuolumne,999410,Lieutenant Governor,,REP,George Yang,1
 Tuolumne,999410,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999410,Lieutenant Governor,,REP,Ron Nehring,11
+Tuolumne,999410,Proposition 41,,,No,17
+Tuolumne,999410,Proposition 41,,,Yes,20
+Tuolumne,999410,Proposition 42,,,No,18
+Tuolumne,999410,Proposition 42,,,Yes,18
 Tuolumne,999410,Secretary of State,,DEM,Alex Padilla,6
 Tuolumne,999410,Secretary of State,,IND,Dan Schnur,1
 Tuolumne,999410,Secretary of State,,GRN,David Curtis,2
@@ -3979,36 +3624,29 @@ Tuolumne,999411,Controller,,REP,David Evans,31
 Tuolumne,999411,Controller,,DEM,John A. Pérez,2
 Tuolumne,999411,Controller,,GRN,Laura Wells,2
 Tuolumne,999411,Controller,,DEM,Tammy D. Blair,2
-Tuolumne,999411,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999411,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999411,Governor,,REP,Alma Marie Winston,2
 Tuolumne,999411,Governor,,REP,Andrew Blount,1
 Tuolumne,999411,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999411,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Tuolumne,999411,Governor,,REP,Glenn Champ,1
-Tuolumne,999411,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999411,Governor,,IND,Joe Leicht,0
-Tuolumne,999411,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999411,Governor,,REP,Neel Kashkari,18
-Tuolumne,999411,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999411,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999411,Governor,,IND,Robert Newman,1
 Tuolumne,999411,Governor,,REP,Tim Donnelly,18
 Tuolumne,999411,Insurance Commissioner,,DEM,Dave Jones,19
 Tuolumne,999411,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Tuolumne,999411,Insurance Commissioner,,REP,Ted Gaines,42
-Tuolumne,999411,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999411,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999411,Lieutenant Governor,,REP,David Fennell,11
-Tuolumne,999411,Lieutenant Governor,,DEM,Eric Korevaar,0
 Tuolumne,999411,Lieutenant Governor,,DEM,Gavin Newsom,22
 Tuolumne,999411,Lieutenant Governor,,REP,George Yang,5
-Tuolumne,999411,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999411,Lieutenant Governor,,REP,Ron Nehring,25
+Tuolumne,999411,Proposition 41,,,No,28
+Tuolumne,999411,Proposition 41,,,Yes,40
+Tuolumne,999411,Proposition 42,,,No,36
+Tuolumne,999411,Proposition 42,,,Yes,29
 Tuolumne,999411,Secretary of State,,DEM,Alex Padilla,11
 Tuolumne,999411,Secretary of State,,IND,Dan Schnur,4
 Tuolumne,999411,Secretary of State,,GRN,David Curtis,1
-Tuolumne,999411,Secretary of State,,DEM,Derek Cressman,0
 Tuolumne,999411,Secretary of State,,DEM,Jeffrey H. Drobman,5
 Tuolumne,999411,Secretary of State,,DEM,Leland Yee,8
 Tuolumne,999411,Secretary of State,,REP,Pete Peterson,28
@@ -4029,7 +3667,6 @@ Tuolumne,999412,Attorney General,,REP,David King,1
 Tuolumne,999412,Attorney General,,REP,John Haggerty,2
 Tuolumne,999412,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999412,Attorney General,,DEM,Kamala D. Harris,3
-Tuolumne,999412,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999412,Attorney General,,REP,Phil Wyman,5
 Tuolumne,999412,Attorney General,,REP,Ronald Gold,8
 Tuolumne,999412,Board of Equalization,1,DEM,Chris Parker,4
@@ -4039,21 +3676,11 @@ Tuolumne,999412,Controller,,DEM,Betty T. Yee,3
 Tuolumne,999412,Controller,,REP,David Evans,12
 Tuolumne,999412,Controller,,DEM,John A. Pérez,1
 Tuolumne,999412,Controller,,GRN,Laura Wells,1
-Tuolumne,999412,Controller,,DEM,Tammy D. Blair,0
-Tuolumne,999412,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999412,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999412,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999412,Governor,,REP,Andrew Blount,1
-Tuolumne,999412,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999412,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
 Tuolumne,999412,Governor,,REP,Glenn Champ,1
-Tuolumne,999412,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999412,Governor,,IND,Joe Leicht,0
-Tuolumne,999412,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999412,Governor,,REP,Neel Kashkari,3
-Tuolumne,999412,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999412,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999412,Governor,,IND,Robert Newman,0
 Tuolumne,999412,Governor,,REP,Tim Donnelly,7
 Tuolumne,999412,Insurance Commissioner,,DEM,Dave Jones,4
 Tuolumne,999412,Insurance Commissioner,,PAF,Nathalie Hrizi,2
@@ -4063,12 +3690,12 @@ Tuolumne,999412,Lieutenant Governor,,PAF,Amos Johnson,2
 Tuolumne,999412,Lieutenant Governor,,REP,David Fennell,4
 Tuolumne,999412,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999412,Lieutenant Governor,,DEM,Gavin Newsom,3
-Tuolumne,999412,Lieutenant Governor,,REP,George Yang,0
-Tuolumne,999412,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Tuolumne,999412,Lieutenant Governor,,REP,Ron Nehring,8
+Tuolumne,999412,Proposition 41,,,No,11
+Tuolumne,999412,Proposition 41,,,Yes,10
+Tuolumne,999412,Proposition 42,,,No,12
+Tuolumne,999412,Proposition 42,,,Yes,7
 Tuolumne,999412,Secretary of State,,DEM,Alex Padilla,1
-Tuolumne,999412,Secretary of State,,IND,Dan Schnur,0
-Tuolumne,999412,Secretary of State,,GRN,David Curtis,0
 Tuolumne,999412,Secretary of State,,DEM,Derek Cressman,1
 Tuolumne,999412,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Tuolumne,999412,Secretary of State,,DEM,Leland Yee,1
@@ -4086,7 +3713,6 @@ Tuolumne,999412,Treasurer,,DEM,John Chiang,7
 Tuolumne,999412,U.S. House,4,REP,"Arthur ""Art"" Moore",5
 Tuolumne,999412,U.S. House,4,IND,Jeffrey D. Gerlach,3
 Tuolumne,999412,U.S. House,4,REP,Tom McClintock,13
-Tuolumne,999413,Attorney General,,REP,David King,0
 Tuolumne,999413,Attorney General,,REP,John Haggerty,8
 Tuolumne,999413,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999413,Attorney General,,DEM,Kamala D. Harris,10
@@ -4100,19 +3726,13 @@ Tuolumne,999413,Controller,,DEM,Betty T. Yee,2
 Tuolumne,999413,Controller,,REP,David Evans,14
 Tuolumne,999413,Controller,,DEM,John A. Pérez,8
 Tuolumne,999413,Controller,,GRN,Laura Wells,1
-Tuolumne,999413,Controller,,DEM,Tammy D. Blair,0
 Tuolumne,999413,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,999413,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999413,Governor,,REP,Alma Marie Winston,1
 Tuolumne,999413,Governor,,REP,Andrew Blount,1
 Tuolumne,999413,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999413,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Tuolumne,999413,Governor,,REP,Glenn Champ,2
-Tuolumne,999413,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999413,Governor,,IND,Joe Leicht,0
-Tuolumne,999413,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999413,Governor,,REP,Neel Kashkari,3
-Tuolumne,999413,Governor,,IND,Rakesh Kumar Christian,0
 Tuolumne,999413,Governor,,REP,Richard William Aguirre,1
 Tuolumne,999413,Governor,,IND,Robert Newman,4
 Tuolumne,999413,Governor,,REP,Tim Donnelly,10
@@ -4120,13 +3740,16 @@ Tuolumne,999413,Insurance Commissioner,,DEM,Dave Jones,9
 Tuolumne,999413,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Tuolumne,999413,Insurance Commissioner,,REP,Ted Gaines,21
 Tuolumne,999413,Lieutenant Governor,,AME,Alan Reynolds,1
-Tuolumne,999413,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999413,Lieutenant Governor,,REP,David Fennell,4
 Tuolumne,999413,Lieutenant Governor,,DEM,Eric Korevaar,1
 Tuolumne,999413,Lieutenant Governor,,DEM,Gavin Newsom,10
 Tuolumne,999413,Lieutenant Governor,,REP,George Yang,5
 Tuolumne,999413,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999413,Lieutenant Governor,,REP,Ron Nehring,10
+Tuolumne,999413,Proposition 41,,,No,16
+Tuolumne,999413,Proposition 41,,,Yes,16
+Tuolumne,999413,Proposition 42,,,No,15
+Tuolumne,999413,Proposition 42,,,Yes,14
 Tuolumne,999413,Secretary of State,,DEM,Alex Padilla,8
 Tuolumne,999413,Secretary of State,,IND,Dan Schnur,2
 Tuolumne,999413,Secretary of State,,GRN,David Curtis,1
@@ -4144,7 +3767,6 @@ Tuolumne,999413,Superintendent of Public Instruction,,NOP,Tom Torlakson,12
 Tuolumne,999413,Treasurer,,GRN,Ellen H. Brown,1
 Tuolumne,999413,Treasurer,,REP,Greg Conlon,19
 Tuolumne,999413,Treasurer,,DEM,John Chiang,12
-Tuolumne,999413,U.S. House,4,REP,"Arthur ""Art"" Moore",0
 Tuolumne,999413,U.S. House,4,IND,Jeffrey D. Gerlach,4
 Tuolumne,999413,U.S. House,4,REP,Tom McClintock,31
 Tuolumne,999414,Attorney General,,REP,David King,13
@@ -4162,15 +3784,11 @@ Tuolumne,999414,Controller,,REP,David Evans,91
 Tuolumne,999414,Controller,,DEM,John A. Pérez,19
 Tuolumne,999414,Controller,,GRN,Laura Wells,5
 Tuolumne,999414,Controller,,DEM,Tammy D. Blair,6
-Tuolumne,999414,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999414,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999414,Governor,,REP,Alma Marie Winston,4
 Tuolumne,999414,Governor,,REP,Andrew Blount,10
 Tuolumne,999414,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999414,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Tuolumne,999414,Governor,,REP,Glenn Champ,6
-Tuolumne,999414,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999414,Governor,,IND,Joe Leicht,0
 Tuolumne,999414,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999414,Governor,,REP,Neel Kashkari,65
 Tuolumne,999414,Governor,,IND,Rakesh Kumar Christian,1
@@ -4181,13 +3799,16 @@ Tuolumne,999414,Insurance Commissioner,,DEM,Dave Jones,65
 Tuolumne,999414,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Tuolumne,999414,Insurance Commissioner,,REP,Ted Gaines,132
 Tuolumne,999414,Lieutenant Governor,,AME,Alan Reynolds,4
-Tuolumne,999414,Lieutenant Governor,,PAF,Amos Johnson,0
 Tuolumne,999414,Lieutenant Governor,,REP,David Fennell,19
 Tuolumne,999414,Lieutenant Governor,,DEM,Eric Korevaar,14
 Tuolumne,999414,Lieutenant Governor,,DEM,Gavin Newsom,58
 Tuolumne,999414,Lieutenant Governor,,REP,George Yang,17
 Tuolumne,999414,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Tuolumne,999414,Lieutenant Governor,,REP,Ron Nehring,90
+Tuolumne,999414,Proposition 41,,,No,104
+Tuolumne,999414,Proposition 41,,,Yes,97
+Tuolumne,999414,Proposition 42,,,No,100
+Tuolumne,999414,Proposition 42,,,Yes,98
 Tuolumne,999414,Secretary of State,,DEM,Alex Padilla,26
 Tuolumne,999414,Secretary of State,,IND,Dan Schnur,12
 Tuolumne,999414,Secretary of State,,GRN,David Curtis,2
@@ -4224,19 +3845,12 @@ Tuolumne,999415,Controller,,DEM,John A. Pérez,14
 Tuolumne,999415,Controller,,GRN,Laura Wells,7
 Tuolumne,999415,Controller,,DEM,Tammy D. Blair,1
 Tuolumne,999415,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,999415,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999415,Governor,,REP,Alma Marie Winston,4
 Tuolumne,999415,Governor,,REP,Andrew Blount,6
-Tuolumne,999415,Governor,,PAF,Cindy L. Sheehan,0
 Tuolumne,999415,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
 Tuolumne,999415,Governor,,REP,Glenn Champ,6
-Tuolumne,999415,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999415,Governor,,IND,Joe Leicht,0
 Tuolumne,999415,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999415,Governor,,REP,Neel Kashkari,37
-Tuolumne,999415,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999415,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999415,Governor,,IND,Robert Newman,0
 Tuolumne,999415,Governor,,REP,Tim Donnelly,18
 Tuolumne,999415,Insurance Commissioner,,DEM,Dave Jones,37
 Tuolumne,999415,Insurance Commissioner,,PAF,Nathalie Hrizi,5
@@ -4249,6 +3863,10 @@ Tuolumne,999415,Lieutenant Governor,,DEM,Gavin Newsom,36
 Tuolumne,999415,Lieutenant Governor,,REP,George Yang,8
 Tuolumne,999415,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999415,Lieutenant Governor,,REP,Ron Nehring,42
+Tuolumne,999415,Proposition 41,,,No,72
+Tuolumne,999415,Proposition 41,,,Yes,54
+Tuolumne,999415,Proposition 42,,,No,62
+Tuolumne,999415,Proposition 42,,,Yes,64
 Tuolumne,999415,Secretary of State,,DEM,Alex Padilla,17
 Tuolumne,999415,Secretary of State,,IND,Dan Schnur,11
 Tuolumne,999415,Secretary of State,,GRN,David Curtis,4
@@ -4273,7 +3891,6 @@ Tuolumne,999501,Attorney General,,REP,David King,3
 Tuolumne,999501,Attorney General,,REP,John Haggerty,15
 Tuolumne,999501,Attorney General,,LIB,Jonathan Jaech,1
 Tuolumne,999501,Attorney General,,DEM,Kamala D. Harris,12
-Tuolumne,999501,Attorney General,,IND,Orly Taitz,0
 Tuolumne,999501,Attorney General,,REP,Phil Wyman,9
 Tuolumne,999501,Attorney General,,REP,Ronald Gold,9
 Tuolumne,999501,Board of Equalization,1,DEM,Chris Parker,12
@@ -4284,25 +3901,15 @@ Tuolumne,999501,Controller,,REP,David Evans,20
 Tuolumne,999501,Controller,,DEM,John A. Pérez,2
 Tuolumne,999501,Controller,,GRN,Laura Wells,5
 Tuolumne,999501,Controller,,DEM,Tammy D. Blair,1
-Tuolumne,999501,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999501,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999501,Governor,,REP,Alma Marie Winston,0
-Tuolumne,999501,Governor,,REP,Andrew Blount,0
 Tuolumne,999501,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999501,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
 Tuolumne,999501,Governor,,REP,Glenn Champ,1
-Tuolumne,999501,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999501,Governor,,IND,Joe Leicht,0
 Tuolumne,999501,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999501,Governor,,REP,Neel Kashkari,19
-Tuolumne,999501,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999501,Governor,,REP,Richard William Aguirre,0
-Tuolumne,999501,Governor,,IND,Robert Newman,0
 Tuolumne,999501,Governor,,REP,Tim Donnelly,12
 Tuolumne,999501,Insurance Commissioner,,DEM,Dave Jones,14
 Tuolumne,999501,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Tuolumne,999501,Insurance Commissioner,,REP,Ted Gaines,31
-Tuolumne,999501,Lieutenant Governor,,AME,Alan Reynolds,0
 Tuolumne,999501,Lieutenant Governor,,PAF,Amos Johnson,1
 Tuolumne,999501,Lieutenant Governor,,REP,David Fennell,6
 Tuolumne,999501,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -4310,10 +3917,13 @@ Tuolumne,999501,Lieutenant Governor,,DEM,Gavin Newsom,13
 Tuolumne,999501,Lieutenant Governor,,REP,George Yang,5
 Tuolumne,999501,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999501,Lieutenant Governor,,REP,Ron Nehring,19
+Tuolumne,999501,Proposition 41,,,No,28
+Tuolumne,999501,Proposition 41,,,Yes,22
+Tuolumne,999501,Proposition 42,,,No,30
+Tuolumne,999501,Proposition 42,,,Yes,20
 Tuolumne,999501,Secretary of State,,DEM,Alex Padilla,7
 Tuolumne,999501,Secretary of State,,IND,Dan Schnur,1
 Tuolumne,999501,Secretary of State,,GRN,David Curtis,2
-Tuolumne,999501,Secretary of State,,DEM,Derek Cressman,0
 Tuolumne,999501,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Tuolumne,999501,Secretary of State,,DEM,Leland Yee,2
 Tuolumne,999501,Secretary of State,,REP,Pete Peterson,30
@@ -4345,19 +3955,12 @@ Tuolumne,999502,Controller,,REP,David Evans,92
 Tuolumne,999502,Controller,,DEM,John A. Pérez,15
 Tuolumne,999502,Controller,,GRN,Laura Wells,5
 Tuolumne,999502,Controller,,DEM,Tammy D. Blair,4
-Tuolumne,999502,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Tuolumne,999502,Governor,,DEM,Akinyemi Agbede,0
 Tuolumne,999502,Governor,,REP,Alma Marie Winston,3
 Tuolumne,999502,Governor,,REP,Andrew Blount,5
 Tuolumne,999502,Governor,,PAF,Cindy L. Sheehan,1
 Tuolumne,999502,Governor,,DEM,"Edmund G. ""Jerry"" Brown",55
 Tuolumne,999502,Governor,,REP,Glenn Champ,4
-Tuolumne,999502,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999502,Governor,,IND,Joe Leicht,0
-Tuolumne,999502,Governor,,GRN,Luis J. Rodriguez,0
 Tuolumne,999502,Governor,,REP,Neel Kashkari,45
-Tuolumne,999502,Governor,,IND,Rakesh Kumar Christian,0
-Tuolumne,999502,Governor,,REP,Richard William Aguirre,0
 Tuolumne,999502,Governor,,IND,Robert Newman,5
 Tuolumne,999502,Governor,,REP,Tim Donnelly,56
 Tuolumne,999502,Insurance Commissioner,,DEM,Dave Jones,45
@@ -4371,6 +3974,10 @@ Tuolumne,999502,Lieutenant Governor,,DEM,Gavin Newsom,42
 Tuolumne,999502,Lieutenant Governor,,REP,George Yang,16
 Tuolumne,999502,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Tuolumne,999502,Lieutenant Governor,,REP,Ron Nehring,75
+Tuolumne,999502,Proposition 41,,,No,79
+Tuolumne,999502,Proposition 41,,,Yes,87
+Tuolumne,999502,Proposition 42,,,No,99
+Tuolumne,999502,Proposition 42,,,Yes,66
 Tuolumne,999502,Secretary of State,,DEM,Alex Padilla,22
 Tuolumne,999502,Secretary of State,,IND,Dan Schnur,10
 Tuolumne,999502,Secretary of State,,GRN,David Curtis,5
@@ -4407,14 +4014,10 @@ Tuolumne,999503,Controller,,DEM,John A. Pérez,20
 Tuolumne,999503,Controller,,GRN,Laura Wells,8
 Tuolumne,999503,Controller,,DEM,Tammy D. Blair,11
 Tuolumne,999503,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Tuolumne,999503,Governor,,DEM,Akinyemi Agbede,0
-Tuolumne,999503,Governor,,REP,Alma Marie Winston,0
 Tuolumne,999503,Governor,,REP,Andrew Blount,4
 Tuolumne,999503,Governor,,PAF,Cindy L. Sheehan,4
 Tuolumne,999503,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 Tuolumne,999503,Governor,,REP,Glenn Champ,6
-Tuolumne,999503,Governor,,IND,Janel Hyeshia Buycks,0
-Tuolumne,999503,Governor,,IND,Joe Leicht,0
 Tuolumne,999503,Governor,,GRN,Luis J. Rodriguez,1
 Tuolumne,999503,Governor,,REP,Neel Kashkari,48
 Tuolumne,999503,Governor,,IND,Rakesh Kumar Christian,1
@@ -4432,6 +4035,10 @@ Tuolumne,999503,Lieutenant Governor,,DEM,Gavin Newsom,74
 Tuolumne,999503,Lieutenant Governor,,REP,George Yang,12
 Tuolumne,999503,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Tuolumne,999503,Lieutenant Governor,,REP,Ron Nehring,73
+Tuolumne,999503,Proposition 41,,,No,81
+Tuolumne,999503,Proposition 41,,,Yes,105
+Tuolumne,999503,Proposition 42,,,No,92
+Tuolumne,999503,Proposition 42,,,Yes,87
 Tuolumne,999503,Secretary of State,,DEM,Alex Padilla,32
 Tuolumne,999503,Secretary of State,,IND,Dan Schnur,5
 Tuolumne,999503,Secretary of State,,GRN,David Curtis,5

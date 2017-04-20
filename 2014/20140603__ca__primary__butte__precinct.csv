@@ -14,7 +14,6 @@ Butte,1101,Controller,,REP,David Evans,64
 Butte,1101,Controller,,DEM,John A. Pérez,25
 Butte,1101,Controller,,GRN,Laura Wells,13
 Butte,1101,Controller,,DEM,Tammy D. Blair,20
-Butte,1101,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1101,Governor,,DEM,Akinyemi Agbede,2
 Butte,1101,Governor,,REP,Alma Marie Winston,2
 Butte,1101,Governor,,REP,Andrew Blount,10
@@ -22,10 +21,8 @@ Butte,1101,Governor,,PAF,Cindy L. Sheehan,3
 Butte,1101,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Butte,1101,Governor,,REP,Glenn Champ,8
 Butte,1101,Governor,,IND,Janel Hyeshia Buycks,3
-Butte,1101,Governor,,IND,Joe Leicht,0
 Butte,1101,Governor,,GRN,Luis J. Rodriguez,2
 Butte,1101,Governor,,REP,Neel Kashkari,37
-Butte,1101,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1101,Governor,,REP,Richard William Aguirre,1
 Butte,1101,Governor,,IND,Robert Newman,4
 Butte,1101,Governor,,REP,Tim Donnelly,37
@@ -40,6 +37,10 @@ Butte,1101,Lieutenant Governor,,DEM,Gavin Newsom,58
 Butte,1101,Lieutenant Governor,,REP,George Yang,14
 Butte,1101,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Butte,1101,Lieutenant Governor,,REP,Ron Nehring,51
+Butte,1101,Proposition 41,,,No,57
+Butte,1101,Proposition 41,,,Yes,127
+Butte,1101,Proposition 42,,,No,93
+Butte,1101,Proposition 42,,,Yes,87
 Butte,1101,Secretary of State,,DEM,Alex Padilla,41
 Butte,1101,Secretary of State,,IND,Dan Schnur,16
 Butte,1101,Secretary of State,,GRN,David Curtis,11
@@ -86,11 +87,9 @@ Butte,1102,Governor,,PAF,Cindy L. Sheehan,5
 Butte,1102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",154
 Butte,1102,Governor,,REP,Glenn Champ,6
 Butte,1102,Governor,,IND,Janel Hyeshia Buycks,7
-Butte,1102,Governor,,IND,Joe Leicht,0
 Butte,1102,Governor,,GRN,Luis J. Rodriguez,4
 Butte,1102,Governor,,REP,Neel Kashkari,43
 Butte,1102,Governor,,IND,Rakesh Kumar Christian,1
-Butte,1102,Governor,,REP,Richard William Aguirre,0
 Butte,1102,Governor,,IND,Robert Newman,3
 Butte,1102,Governor,,REP,Tim Donnelly,58
 Butte,1102,Insurance Commissioner,,DEM,Dave Jones,132
@@ -104,6 +103,10 @@ Butte,1102,Lieutenant Governor,,DEM,Gavin Newsom,116
 Butte,1102,Lieutenant Governor,,REP,George Yang,23
 Butte,1102,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,1102,Lieutenant Governor,,REP,Ron Nehring,50
+Butte,1102,Proposition 41,,,No,88
+Butte,1102,Proposition 41,,,Yes,198
+Butte,1102,Proposition 42,,,No,126
+Butte,1102,Proposition 42,,,Yes,145
 Butte,1102,Secretary of State,,DEM,Alex Padilla,75
 Butte,1102,Secretary of State,,IND,Dan Schnur,24
 Butte,1102,Secretary of State,,GRN,David Curtis,20
@@ -150,7 +153,6 @@ Butte,1103,Governor,,PAF,Cindy L. Sheehan,7
 Butte,1103,Governor,,DEM,"Edmund G. ""Jerry"" Brown",180
 Butte,1103,Governor,,REP,Glenn Champ,9
 Butte,1103,Governor,,IND,Janel Hyeshia Buycks,5
-Butte,1103,Governor,,IND,Joe Leicht,0
 Butte,1103,Governor,,GRN,Luis J. Rodriguez,9
 Butte,1103,Governor,,REP,Neel Kashkari,68
 Butte,1103,Governor,,IND,Rakesh Kumar Christian,2
@@ -168,6 +170,10 @@ Butte,1103,Lieutenant Governor,,DEM,Gavin Newsom,133
 Butte,1103,Lieutenant Governor,,REP,George Yang,34
 Butte,1103,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Butte,1103,Lieutenant Governor,,REP,Ron Nehring,101
+Butte,1103,Proposition 41,,,No,117
+Butte,1103,Proposition 41,,,Yes,297
+Butte,1103,Proposition 42,,,No,197
+Butte,1103,Proposition 42,,,Yes,206
 Butte,1103,Secretary of State,,DEM,Alex Padilla,102
 Butte,1103,Secretary of State,,IND,Dan Schnur,52
 Butte,1103,Secretary of State,,GRN,David Curtis,22
@@ -206,7 +212,6 @@ Butte,1104,Controller,,REP,David Evans,163
 Butte,1104,Controller,,DEM,John A. Pérez,68
 Butte,1104,Controller,,GRN,Laura Wells,26
 Butte,1104,Controller,,DEM,Tammy D. Blair,46
-Butte,1104,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1104,Governor,,DEM,Akinyemi Agbede,2
 Butte,1104,Governor,,REP,Alma Marie Winston,2
 Butte,1104,Governor,,REP,Andrew Blount,24
@@ -215,10 +220,8 @@ Butte,1104,Governor,,DEM,"Edmund G. ""Jerry"" Brown",189
 Butte,1104,Governor,,REP,Glenn Champ,16
 Butte,1104,Governor,,IND,Janel Hyeshia Buycks,4
 Butte,1104,Governor,,IND,Joe Leicht,2
-Butte,1104,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1104,Governor,,REP,Neel Kashkari,158
 Butte,1104,Governor,,IND,Rakesh Kumar Christian,3
-Butte,1104,Governor,,REP,Richard William Aguirre,0
 Butte,1104,Governor,,IND,Robert Newman,7
 Butte,1104,Governor,,REP,Tim Donnelly,115
 Butte,1104,Insurance Commissioner,,DEM,Dave Jones,177
@@ -232,6 +235,10 @@ Butte,1104,Lieutenant Governor,,DEM,Gavin Newsom,149
 Butte,1104,Lieutenant Governor,,REP,George Yang,53
 Butte,1104,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,1104,Lieutenant Governor,,REP,Ron Nehring,140
+Butte,1104,Proposition 41,,,No,245
+Butte,1104,Proposition 41,,,Yes,278
+Butte,1104,Proposition 42,,,No,290
+Butte,1104,Proposition 42,,,Yes,216
 Butte,1104,Secretary of State,,DEM,Alex Padilla,95
 Butte,1104,Secretary of State,,IND,Dan Schnur,71
 Butte,1104,Secretary of State,,GRN,David Curtis,18
@@ -296,6 +303,10 @@ Butte,1105,Lieutenant Governor,,DEM,Gavin Newsom,81
 Butte,1105,Lieutenant Governor,,REP,George Yang,37
 Butte,1105,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,1105,Lieutenant Governor,,REP,Ron Nehring,85
+Butte,1105,Proposition 41,,,No,138
+Butte,1105,Proposition 41,,,Yes,149
+Butte,1105,Proposition 42,,,No,169
+Butte,1105,Proposition 42,,,Yes,113
 Butte,1105,Secretary of State,,DEM,Alex Padilla,45
 Butte,1105,Secretary of State,,IND,Dan Schnur,52
 Butte,1105,Secretary of State,,GRN,David Curtis,6
@@ -335,7 +346,6 @@ Butte,1801,Controller,,DEM,John A. Pérez,61
 Butte,1801,Controller,,GRN,Laura Wells,33
 Butte,1801,Controller,,DEM,Tammy D. Blair,28
 Butte,1801,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Butte,1801,Governor,,DEM,Akinyemi Agbede,0
 Butte,1801,Governor,,REP,Alma Marie Winston,3
 Butte,1801,Governor,,REP,Andrew Blount,9
 Butte,1801,Governor,,PAF,Cindy L. Sheehan,4
@@ -360,6 +370,10 @@ Butte,1801,Lieutenant Governor,,DEM,Gavin Newsom,130
 Butte,1801,Lieutenant Governor,,REP,George Yang,56
 Butte,1801,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Butte,1801,Lieutenant Governor,,REP,Ron Nehring,145
+Butte,1801,Proposition 41,,,No,241
+Butte,1801,Proposition 41,,,Yes,253
+Butte,1801,Proposition 42,,,No,280
+Butte,1801,Proposition 42,,,Yes,208
 Butte,1801,Secretary of State,,DEM,Alex Padilla,73
 Butte,1801,Secretary of State,,IND,Dan Schnur,71
 Butte,1801,Secretary of State,,GRN,David Curtis,18
@@ -409,8 +423,6 @@ Butte,1802,Governor,,IND,Janel Hyeshia Buycks,5
 Butte,1802,Governor,,IND,Joe Leicht,1
 Butte,1802,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1802,Governor,,REP,Neel Kashkari,14
-Butte,1802,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1802,Governor,,REP,Richard William Aguirre,0
 Butte,1802,Governor,,IND,Robert Newman,6
 Butte,1802,Governor,,REP,Tim Donnelly,37
 Butte,1802,Insurance Commissioner,,DEM,Dave Jones,106
@@ -424,6 +436,10 @@ Butte,1802,Lieutenant Governor,,DEM,Gavin Newsom,86
 Butte,1802,Lieutenant Governor,,REP,George Yang,23
 Butte,1802,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,1802,Lieutenant Governor,,REP,Ron Nehring,17
+Butte,1802,Proposition 41,,,No,54
+Butte,1802,Proposition 41,,,Yes,132
+Butte,1802,Proposition 42,,,No,86
+Butte,1802,Proposition 42,,,Yes,102
 Butte,1802,Secretary of State,,DEM,Alex Padilla,61
 Butte,1802,Secretary of State,,IND,Dan Schnur,13
 Butte,1802,Secretary of State,,GRN,David Curtis,12
@@ -469,8 +485,6 @@ Butte,1803,Governor,,REP,Andrew Blount,24
 Butte,1803,Governor,,PAF,Cindy L. Sheehan,3
 Butte,1803,Governor,,DEM,"Edmund G. ""Jerry"" Brown",157
 Butte,1803,Governor,,REP,Glenn Champ,12
-Butte,1803,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1803,Governor,,IND,Joe Leicht,0
 Butte,1803,Governor,,GRN,Luis J. Rodriguez,2
 Butte,1803,Governor,,REP,Neel Kashkari,111
 Butte,1803,Governor,,IND,Rakesh Kumar Christian,1
@@ -488,6 +502,10 @@ Butte,1803,Lieutenant Governor,,DEM,Gavin Newsom,130
 Butte,1803,Lieutenant Governor,,REP,George Yang,53
 Butte,1803,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,1803,Lieutenant Governor,,REP,Ron Nehring,112
+Butte,1803,Proposition 41,,,No,201
+Butte,1803,Proposition 41,,,Yes,222
+Butte,1803,Proposition 42,,,No,245
+Butte,1803,Proposition 42,,,Yes,165
 Butte,1803,Secretary of State,,DEM,Alex Padilla,80
 Butte,1803,Secretary of State,,IND,Dan Schnur,70
 Butte,1803,Secretary of State,,GRN,David Curtis,15
@@ -526,15 +544,12 @@ Butte,1804,Controller,,REP,David Evans,121
 Butte,1804,Controller,,DEM,John A. Pérez,52
 Butte,1804,Controller,,GRN,Laura Wells,17
 Butte,1804,Controller,,DEM,Tammy D. Blair,31
-Butte,1804,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1804,Governor,,DEM,Akinyemi Agbede,1
 Butte,1804,Governor,,REP,Alma Marie Winston,2
 Butte,1804,Governor,,REP,Andrew Blount,8
 Butte,1804,Governor,,PAF,Cindy L. Sheehan,8
 Butte,1804,Governor,,DEM,"Edmund G. ""Jerry"" Brown",134
 Butte,1804,Governor,,REP,Glenn Champ,16
-Butte,1804,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1804,Governor,,IND,Joe Leicht,0
 Butte,1804,Governor,,GRN,Luis J. Rodriguez,4
 Butte,1804,Governor,,REP,Neel Kashkari,82
 Butte,1804,Governor,,IND,Rakesh Kumar Christian,2
@@ -552,6 +567,10 @@ Butte,1804,Lieutenant Governor,,DEM,Gavin Newsom,124
 Butte,1804,Lieutenant Governor,,REP,George Yang,30
 Butte,1804,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,1804,Lieutenant Governor,,REP,Ron Nehring,89
+Butte,1804,Proposition 41,,,No,151
+Butte,1804,Proposition 41,,,Yes,198
+Butte,1804,Proposition 42,,,No,200
+Butte,1804,Proposition 42,,,Yes,142
 Butte,1804,Secretary of State,,DEM,Alex Padilla,78
 Butte,1804,Secretary of State,,IND,Dan Schnur,56
 Butte,1804,Secretary of State,,GRN,David Curtis,8
@@ -590,7 +609,6 @@ Butte,1805,Controller,,REP,David Evans,91
 Butte,1805,Controller,,DEM,John A. Pérez,53
 Butte,1805,Controller,,GRN,Laura Wells,16
 Butte,1805,Controller,,DEM,Tammy D. Blair,61
-Butte,1805,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1805,Governor,,DEM,Akinyemi Agbede,4
 Butte,1805,Governor,,REP,Alma Marie Winston,3
 Butte,1805,Governor,,REP,Andrew Blount,12
@@ -601,7 +619,6 @@ Butte,1805,Governor,,IND,Janel Hyeshia Buycks,4
 Butte,1805,Governor,,IND,Joe Leicht,2
 Butte,1805,Governor,,GRN,Luis J. Rodriguez,2
 Butte,1805,Governor,,REP,Neel Kashkari,49
-Butte,1805,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1805,Governor,,REP,Richard William Aguirre,2
 Butte,1805,Governor,,IND,Robert Newman,5
 Butte,1805,Governor,,REP,Tim Donnelly,71
@@ -616,6 +633,10 @@ Butte,1805,Lieutenant Governor,,DEM,Gavin Newsom,118
 Butte,1805,Lieutenant Governor,,REP,George Yang,25
 Butte,1805,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,1805,Lieutenant Governor,,REP,Ron Nehring,59
+Butte,1805,Proposition 41,,,No,109
+Butte,1805,Proposition 41,,,Yes,194
+Butte,1805,Proposition 42,,,No,165
+Butte,1805,Proposition 42,,,Yes,136
 Butte,1805,Secretary of State,,DEM,Alex Padilla,74
 Butte,1805,Secretary of State,,IND,Dan Schnur,23
 Butte,1805,Secretary of State,,GRN,David Curtis,16
@@ -680,6 +701,10 @@ Butte,1806,Lieutenant Governor,,DEM,Gavin Newsom,205
 Butte,1806,Lieutenant Governor,,REP,George Yang,61
 Butte,1806,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Butte,1806,Lieutenant Governor,,REP,Ron Nehring,176
+Butte,1806,Proposition 41,,,No,230
+Butte,1806,Proposition 41,,,Yes,386
+Butte,1806,Proposition 42,,,No,340
+Butte,1806,Proposition 42,,,Yes,260
 Butte,1806,Secretary of State,,DEM,Alex Padilla,136
 Butte,1806,Secretary of State,,IND,Dan Schnur,103
 Butte,1806,Secretary of State,,GRN,David Curtis,28
@@ -719,13 +744,11 @@ Butte,1807,Controller,,DEM,John A. Pérez,25
 Butte,1807,Controller,,GRN,Laura Wells,37
 Butte,1807,Controller,,DEM,Tammy D. Blair,31
 Butte,1807,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-Butte,1807,Governor,,DEM,Akinyemi Agbede,0
 Butte,1807,Governor,,REP,Alma Marie Winston,4
 Butte,1807,Governor,,REP,Andrew Blount,21
 Butte,1807,Governor,,PAF,Cindy L. Sheehan,8
 Butte,1807,Governor,,DEM,"Edmund G. ""Jerry"" Brown",132
 Butte,1807,Governor,,REP,Glenn Champ,21
-Butte,1807,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,1807,Governor,,IND,Joe Leicht,1
 Butte,1807,Governor,,GRN,Luis J. Rodriguez,2
 Butte,1807,Governor,,REP,Neel Kashkari,140
@@ -744,6 +767,10 @@ Butte,1807,Lieutenant Governor,,DEM,Gavin Newsom,98
 Butte,1807,Lieutenant Governor,,REP,George Yang,38
 Butte,1807,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,1807,Lieutenant Governor,,REP,Ron Nehring,158
+Butte,1807,Proposition 41,,,No,196
+Butte,1807,Proposition 41,,,Yes,242
+Butte,1807,Proposition 42,,,No,241
+Butte,1807,Proposition 42,,,Yes,182
 Butte,1807,Secretary of State,,DEM,Alex Padilla,63
 Butte,1807,Secretary of State,,IND,Dan Schnur,81
 Butte,1807,Secretary of State,,GRN,David Curtis,17
@@ -790,7 +817,6 @@ Butte,1808,Governor,,PAF,Cindy L. Sheehan,10
 Butte,1808,Governor,,DEM,"Edmund G. ""Jerry"" Brown",105
 Butte,1808,Governor,,REP,Glenn Champ,15
 Butte,1808,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,1808,Governor,,IND,Joe Leicht,0
 Butte,1808,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1808,Governor,,REP,Neel Kashkari,56
 Butte,1808,Governor,,IND,Rakesh Kumar Christian,1
@@ -808,6 +834,10 @@ Butte,1808,Lieutenant Governor,,DEM,Gavin Newsom,77
 Butte,1808,Lieutenant Governor,,REP,George Yang,31
 Butte,1808,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Butte,1808,Lieutenant Governor,,REP,Ron Nehring,91
+Butte,1808,Proposition 41,,,No,153
+Butte,1808,Proposition 41,,,Yes,171
+Butte,1808,Proposition 42,,,No,164
+Butte,1808,Proposition 42,,,Yes,162
 Butte,1808,Secretary of State,,DEM,Alex Padilla,49
 Butte,1808,Secretary of State,,IND,Dan Schnur,50
 Butte,1808,Secretary of State,,GRN,David Curtis,21
@@ -857,7 +887,6 @@ Butte,1809,Governor,,IND,Janel Hyeshia Buycks,3
 Butte,1809,Governor,,IND,Joe Leicht,3
 Butte,1809,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1809,Governor,,REP,Neel Kashkari,53
-Butte,1809,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1809,Governor,,REP,Richard William Aguirre,3
 Butte,1809,Governor,,IND,Robert Newman,9
 Butte,1809,Governor,,REP,Tim Donnelly,115
@@ -872,6 +901,10 @@ Butte,1809,Lieutenant Governor,,DEM,Gavin Newsom,105
 Butte,1809,Lieutenant Governor,,REP,George Yang,29
 Butte,1809,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,1809,Lieutenant Governor,,REP,Ron Nehring,116
+Butte,1809,Proposition 41,,,No,182
+Butte,1809,Proposition 41,,,Yes,182
+Butte,1809,Proposition 42,,,No,184
+Butte,1809,Proposition 42,,,Yes,171
 Butte,1809,Secretary of State,,DEM,Alex Padilla,68
 Butte,1809,Secretary of State,,IND,Dan Schnur,32
 Butte,1809,Secretary of State,,GRN,David Curtis,21
@@ -922,7 +955,6 @@ Butte,1810,Governor,,IND,Joe Leicht,2
 Butte,1810,Governor,,GRN,Luis J. Rodriguez,4
 Butte,1810,Governor,,REP,Neel Kashkari,132
 Butte,1810,Governor,,IND,Rakesh Kumar Christian,1
-Butte,1810,Governor,,REP,Richard William Aguirre,0
 Butte,1810,Governor,,IND,Robert Newman,8
 Butte,1810,Governor,,REP,Tim Donnelly,143
 Butte,1810,Insurance Commissioner,,DEM,Dave Jones,116
@@ -936,6 +968,10 @@ Butte,1810,Lieutenant Governor,,DEM,Gavin Newsom,102
 Butte,1810,Lieutenant Governor,,REP,George Yang,53
 Butte,1810,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,1810,Lieutenant Governor,,REP,Ron Nehring,138
+Butte,1810,Proposition 41,,,No,241
+Butte,1810,Proposition 41,,,Yes,231
+Butte,1810,Proposition 42,,,No,273
+Butte,1810,Proposition 42,,,Yes,197
 Butte,1810,Secretary of State,,DEM,Alex Padilla,53
 Butte,1810,Secretary of State,,IND,Dan Schnur,69
 Butte,1810,Secretary of State,,GRN,David Curtis,27
@@ -983,10 +1019,7 @@ Butte,1811,Governor,,DEM,"Edmund G. ""Jerry"" Brown",79
 Butte,1811,Governor,,REP,Glenn Champ,9
 Butte,1811,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,1811,Governor,,IND,Joe Leicht,3
-Butte,1811,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1811,Governor,,REP,Neel Kashkari,68
-Butte,1811,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1811,Governor,,REP,Richard William Aguirre,0
 Butte,1811,Governor,,IND,Robert Newman,3
 Butte,1811,Governor,,REP,Tim Donnelly,74
 Butte,1811,Insurance Commissioner,,DEM,Dave Jones,80
@@ -1000,6 +1033,10 @@ Butte,1811,Lieutenant Governor,,DEM,Gavin Newsom,64
 Butte,1811,Lieutenant Governor,,REP,George Yang,23
 Butte,1811,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,1811,Lieutenant Governor,,REP,Ron Nehring,89
+Butte,1811,Proposition 41,,,No,136
+Butte,1811,Proposition 41,,,Yes,126
+Butte,1811,Proposition 42,,,No,151
+Butte,1811,Proposition 42,,,Yes,101
 Butte,1811,Secretary of State,,DEM,Alex Padilla,44
 Butte,1811,Secretary of State,,IND,Dan Schnur,43
 Butte,1811,Secretary of State,,GRN,David Curtis,11
@@ -1045,11 +1082,9 @@ Butte,1812,Governor,,REP,Andrew Blount,24
 Butte,1812,Governor,,PAF,Cindy L. Sheehan,7
 Butte,1812,Governor,,DEM,"Edmund G. ""Jerry"" Brown",165
 Butte,1812,Governor,,REP,Glenn Champ,10
-Butte,1812,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,1812,Governor,,IND,Joe Leicht,3
 Butte,1812,Governor,,GRN,Luis J. Rodriguez,10
 Butte,1812,Governor,,REP,Neel Kashkari,56
-Butte,1812,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1812,Governor,,REP,Richard William Aguirre,1
 Butte,1812,Governor,,IND,Robert Newman,17
 Butte,1812,Governor,,REP,Tim Donnelly,89
@@ -1064,6 +1099,10 @@ Butte,1812,Lieutenant Governor,,DEM,Gavin Newsom,139
 Butte,1812,Lieutenant Governor,,REP,George Yang,52
 Butte,1812,Lieutenant Governor,,GRN,Jena F. Goodman,24
 Butte,1812,Lieutenant Governor,,REP,Ron Nehring,95
+Butte,1812,Proposition 41,,,No,148
+Butte,1812,Proposition 41,,,Yes,247
+Butte,1812,Proposition 42,,,No,179
+Butte,1812,Proposition 42,,,Yes,203
 Butte,1812,Secretary of State,,DEM,Alex Padilla,65
 Butte,1812,Secretary of State,,IND,Dan Schnur,39
 Butte,1812,Secretary of State,,GRN,David Curtis,37
@@ -1113,7 +1152,6 @@ Butte,1813,Governor,,IND,Joe Leicht,5
 Butte,1813,Governor,,GRN,Luis J. Rodriguez,23
 Butte,1813,Governor,,REP,Neel Kashkari,39
 Butte,1813,Governor,,IND,Rakesh Kumar Christian,2
-Butte,1813,Governor,,REP,Richard William Aguirre,0
 Butte,1813,Governor,,IND,Robert Newman,17
 Butte,1813,Governor,,REP,Tim Donnelly,84
 Butte,1813,Insurance Commissioner,,DEM,Dave Jones,136
@@ -1127,6 +1165,10 @@ Butte,1813,Lieutenant Governor,,DEM,Gavin Newsom,129
 Butte,1813,Lieutenant Governor,,REP,George Yang,35
 Butte,1813,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Butte,1813,Lieutenant Governor,,REP,Ron Nehring,77
+Butte,1813,Proposition 41,,,No,144
+Butte,1813,Proposition 41,,,Yes,203
+Butte,1813,Proposition 42,,,No,165
+Butte,1813,Proposition 42,,,Yes,174
 Butte,1813,Secretary of State,,DEM,Alex Padilla,51
 Butte,1813,Secretary of State,,IND,Dan Schnur,20
 Butte,1813,Secretary of State,,GRN,David Curtis,40
@@ -1164,25 +1206,19 @@ Butte,1901,Controller,,REP,David Evans,14
 Butte,1901,Controller,,DEM,John A. Pérez,9
 Butte,1901,Controller,,GRN,Laura Wells,5
 Butte,1901,Controller,,DEM,Tammy D. Blair,11
-Butte,1901,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1901,Governor,,DEM,Akinyemi Agbede,5
 Butte,1901,Governor,,REP,Alma Marie Winston,3
 Butte,1901,Governor,,REP,Andrew Blount,1
 Butte,1901,Governor,,PAF,Cindy L. Sheehan,6
 Butte,1901,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Butte,1901,Governor,,REP,Glenn Champ,3
-Butte,1901,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1901,Governor,,IND,Joe Leicht,0
 Butte,1901,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1901,Governor,,REP,Neel Kashkari,13
-Butte,1901,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1901,Governor,,REP,Richard William Aguirre,0
 Butte,1901,Governor,,IND,Robert Newman,1
 Butte,1901,Governor,,REP,Tim Donnelly,12
 Butte,1901,Insurance Commissioner,,DEM,Dave Jones,38
 Butte,1901,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Butte,1901,Insurance Commissioner,,REP,Ted Gaines,23
-Butte,1901,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,1901,Lieutenant Governor,,PAF,Amos Johnson,1
 Butte,1901,Lieutenant Governor,,REP,David Fennell,10
 Butte,1901,Lieutenant Governor,,DEM,Eric Korevaar,10
@@ -1190,6 +1226,10 @@ Butte,1901,Lieutenant Governor,,DEM,Gavin Newsom,21
 Butte,1901,Lieutenant Governor,,REP,George Yang,9
 Butte,1901,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,1901,Lieutenant Governor,,REP,Ron Nehring,16
+Butte,1901,Proposition 41,,,No,26
+Butte,1901,Proposition 41,,,Yes,45
+Butte,1901,Proposition 42,,,No,37
+Butte,1901,Proposition 42,,,Yes,34
 Butte,1901,Secretary of State,,DEM,Alex Padilla,18
 Butte,1901,Secretary of State,,IND,Dan Schnur,11
 Butte,1901,Secretary of State,,GRN,David Curtis,4
@@ -1213,12 +1253,9 @@ Butte,1901,U.S. House,1,DEM,Dan Levine,13
 Butte,1901,U.S. House,1,REP,Doug La Malfa,25
 Butte,1901,U.S. House,1,REP,Gregory Cheadle,7
 Butte,1901,U.S. House,1,DEM,Heidi Hall,24
-Butte,1902,Attorney General,,REP,David King,0
 Butte,1902,Attorney General,,REP,John Haggerty,1
-Butte,1902,Attorney General,,LIB,Jonathan Jaech,0
 Butte,1902,Attorney General,,DEM,Kamala D. Harris,17
 Butte,1902,Attorney General,,IND,Orly Taitz,4
-Butte,1902,Attorney General,,REP,Phil Wyman,0
 Butte,1902,Attorney General,,REP,Ronald Gold,1
 Butte,1902,Board of Equalization,1,DEM,Chris Parker,16
 Butte,1902,Board of Equalization,1,REP,George Runner,6
@@ -1228,40 +1265,31 @@ Butte,1902,Controller,,REP,David Evans,2
 Butte,1902,Controller,,DEM,John A. Pérez,3
 Butte,1902,Controller,,GRN,Laura Wells,4
 Butte,1902,Controller,,DEM,Tammy D. Blair,8
-Butte,1902,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1902,Governor,,DEM,Akinyemi Agbede,2
-Butte,1902,Governor,,REP,Alma Marie Winston,0
 Butte,1902,Governor,,REP,Andrew Blount,1
 Butte,1902,Governor,,PAF,Cindy L. Sheehan,1
 Butte,1902,Governor,,DEM,"Edmund G. ""Jerry"" Brown",14
-Butte,1902,Governor,,REP,Glenn Champ,0
-Butte,1902,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1902,Governor,,IND,Joe Leicht,0
 Butte,1902,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1902,Governor,,REP,Neel Kashkari,1
-Butte,1902,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1902,Governor,,REP,Richard William Aguirre,0
 Butte,1902,Governor,,IND,Robert Newman,1
-Butte,1902,Governor,,REP,Tim Donnelly,0
 Butte,1902,Insurance Commissioner,,DEM,Dave Jones,19
-Butte,1902,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Butte,1902,Insurance Commissioner,,REP,Ted Gaines,4
 Butte,1902,Lieutenant Governor,,AME,Alan Reynolds,1
-Butte,1902,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,1902,Lieutenant Governor,,REP,David Fennell,1
 Butte,1902,Lieutenant Governor,,DEM,Eric Korevaar,4
 Butte,1902,Lieutenant Governor,,DEM,Gavin Newsom,15
-Butte,1902,Lieutenant Governor,,REP,George Yang,0
 Butte,1902,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,1902,Lieutenant Governor,,REP,Ron Nehring,1
+Butte,1902,Proposition 41,,,No,4
+Butte,1902,Proposition 41,,,Yes,19
+Butte,1902,Proposition 42,,,No,8
+Butte,1902,Proposition 42,,,Yes,15
 Butte,1902,Secretary of State,,DEM,Alex Padilla,13
 Butte,1902,Secretary of State,,IND,Dan Schnur,1
-Butte,1902,Secretary of State,,GRN,David Curtis,0
 Butte,1902,Secretary of State,,DEM,Derek Cressman,3
 Butte,1902,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Butte,1902,Secretary of State,,DEM,Leland Yee,3
 Butte,1902,Secretary of State,,REP,Pete Peterson,2
-Butte,1902,Secretary of State,,REP,Roy Allmond,0
 Butte,1902,State Assembly,3,REP,James Gallagher,3
 Butte,1902,State Assembly,3,DEM,Jim Reed,18
 Butte,1902,State Assembly,3,REP,Ryan Schohr,2
@@ -1292,19 +1320,15 @@ Butte,1903,Controller,,REP,David Evans,34
 Butte,1903,Controller,,DEM,John A. Pérez,11
 Butte,1903,Controller,,GRN,Laura Wells,14
 Butte,1903,Controller,,DEM,Tammy D. Blair,6
-Butte,1903,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1903,Governor,,DEM,Akinyemi Agbede,1
 Butte,1903,Governor,,REP,Alma Marie Winston,3
 Butte,1903,Governor,,REP,Andrew Blount,2
 Butte,1903,Governor,,PAF,Cindy L. Sheehan,6
 Butte,1903,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
 Butte,1903,Governor,,REP,Glenn Champ,4
-Butte,1903,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,1903,Governor,,IND,Joe Leicht,2
 Butte,1903,Governor,,GRN,Luis J. Rodriguez,5
 Butte,1903,Governor,,REP,Neel Kashkari,7
-Butte,1903,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1903,Governor,,REP,Richard William Aguirre,0
 Butte,1903,Governor,,IND,Robert Newman,3
 Butte,1903,Governor,,REP,Tim Donnelly,28
 Butte,1903,Insurance Commissioner,,DEM,Dave Jones,40
@@ -1318,6 +1342,10 @@ Butte,1903,Lieutenant Governor,,DEM,Gavin Newsom,38
 Butte,1903,Lieutenant Governor,,REP,George Yang,15
 Butte,1903,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,1903,Lieutenant Governor,,REP,Ron Nehring,12
+Butte,1903,Proposition 41,,,No,47
+Butte,1903,Proposition 41,,,Yes,48
+Butte,1903,Proposition 42,,,No,53
+Butte,1903,Proposition 42,,,Yes,40
 Butte,1903,Secretary of State,,DEM,Alex Padilla,11
 Butte,1903,Secretary of State,,IND,Dan Schnur,10
 Butte,1903,Secretary of State,,GRN,David Curtis,5
@@ -1362,12 +1390,9 @@ Butte,1904,Governor,,REP,Andrew Blount,5
 Butte,1904,Governor,,PAF,Cindy L. Sheehan,4
 Butte,1904,Governor,,DEM,"Edmund G. ""Jerry"" Brown",34
 Butte,1904,Governor,,REP,Glenn Champ,1
-Butte,1904,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1904,Governor,,IND,Joe Leicht,0
 Butte,1904,Governor,,GRN,Luis J. Rodriguez,3
 Butte,1904,Governor,,REP,Neel Kashkari,15
 Butte,1904,Governor,,IND,Rakesh Kumar Christian,1
-Butte,1904,Governor,,REP,Richard William Aguirre,0
 Butte,1904,Governor,,IND,Robert Newman,5
 Butte,1904,Governor,,REP,Tim Donnelly,29
 Butte,1904,Insurance Commissioner,,DEM,Dave Jones,29
@@ -1381,11 +1406,14 @@ Butte,1904,Lieutenant Governor,,DEM,Gavin Newsom,34
 Butte,1904,Lieutenant Governor,,REP,George Yang,12
 Butte,1904,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,1904,Lieutenant Governor,,REP,Ron Nehring,32
+Butte,1904,Proposition 41,,,No,46
+Butte,1904,Proposition 41,,,Yes,56
+Butte,1904,Proposition 42,,,No,59
+Butte,1904,Proposition 42,,,Yes,43
 Butte,1904,Secretary of State,,DEM,Alex Padilla,9
 Butte,1904,Secretary of State,,IND,Dan Schnur,4
 Butte,1904,Secretary of State,,GRN,David Curtis,8
 Butte,1904,Secretary of State,,DEM,Derek Cressman,10
-Butte,1904,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Butte,1904,Secretary of State,,DEM,Leland Yee,13
 Butte,1904,Secretary of State,,REP,Pete Peterson,43
 Butte,1904,Secretary of State,,REP,Roy Allmond,11
@@ -1418,7 +1446,6 @@ Butte,1905,Controller,,REP,David Evans,32
 Butte,1905,Controller,,DEM,John A. Pérez,4
 Butte,1905,Controller,,GRN,Laura Wells,6
 Butte,1905,Controller,,DEM,Tammy D. Blair,3
-Butte,1905,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1905,Governor,,DEM,Akinyemi Agbede,1
 Butte,1905,Governor,,REP,Alma Marie Winston,4
 Butte,1905,Governor,,REP,Andrew Blount,2
@@ -1426,11 +1453,8 @@ Butte,1905,Governor,,PAF,Cindy L. Sheehan,1
 Butte,1905,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Butte,1905,Governor,,REP,Glenn Champ,3
 Butte,1905,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,1905,Governor,,IND,Joe Leicht,0
 Butte,1905,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1905,Governor,,REP,Neel Kashkari,12
-Butte,1905,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1905,Governor,,REP,Richard William Aguirre,0
 Butte,1905,Governor,,IND,Robert Newman,2
 Butte,1905,Governor,,REP,Tim Donnelly,32
 Butte,1905,Insurance Commissioner,,DEM,Dave Jones,23
@@ -1444,11 +1468,14 @@ Butte,1905,Lieutenant Governor,,DEM,Gavin Newsom,20
 Butte,1905,Lieutenant Governor,,REP,George Yang,6
 Butte,1905,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,1905,Lieutenant Governor,,REP,Ron Nehring,25
+Butte,1905,Proposition 41,,,No,42
+Butte,1905,Proposition 41,,,Yes,39
+Butte,1905,Proposition 42,,,No,48
+Butte,1905,Proposition 42,,,Yes,32
 Butte,1905,Secretary of State,,DEM,Alex Padilla,7
 Butte,1905,Secretary of State,,IND,Dan Schnur,2
 Butte,1905,Secretary of State,,GRN,David Curtis,3
 Butte,1905,Secretary of State,,DEM,Derek Cressman,5
-Butte,1905,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Butte,1905,Secretary of State,,DEM,Leland Yee,10
 Butte,1905,Secretary of State,,REP,Pete Peterson,40
 Butte,1905,Secretary of State,,REP,Roy Allmond,10
@@ -1481,7 +1508,6 @@ Butte,1906,Controller,,REP,David Evans,43
 Butte,1906,Controller,,DEM,John A. Pérez,10
 Butte,1906,Controller,,GRN,Laura Wells,14
 Butte,1906,Controller,,DEM,Tammy D. Blair,5
-Butte,1906,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1906,Governor,,DEM,Akinyemi Agbede,1
 Butte,1906,Governor,,REP,Alma Marie Winston,1
 Butte,1906,Governor,,REP,Andrew Blount,1
@@ -1490,11 +1516,7 @@ Butte,1906,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
 Butte,1906,Governor,,REP,Glenn Champ,4
 Butte,1906,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,1906,Governor,,IND,Joe Leicht,1
-Butte,1906,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1906,Governor,,REP,Neel Kashkari,14
-Butte,1906,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1906,Governor,,REP,Richard William Aguirre,0
-Butte,1906,Governor,,IND,Robert Newman,0
 Butte,1906,Governor,,REP,Tim Donnelly,37
 Butte,1906,Insurance Commissioner,,DEM,Dave Jones,37
 Butte,1906,Insurance Commissioner,,PAF,Nathalie Hrizi,9
@@ -1507,6 +1529,10 @@ Butte,1906,Lieutenant Governor,,DEM,Gavin Newsom,38
 Butte,1906,Lieutenant Governor,,REP,George Yang,12
 Butte,1906,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,1906,Lieutenant Governor,,REP,Ron Nehring,32
+Butte,1906,Proposition 41,,,No,52
+Butte,1906,Proposition 41,,,Yes,49
+Butte,1906,Proposition 42,,,No,55
+Butte,1906,Proposition 42,,,Yes,48
 Butte,1906,Secretary of State,,DEM,Alex Padilla,20
 Butte,1906,Secretary of State,,IND,Dan Schnur,5
 Butte,1906,Secretary of State,,GRN,David Curtis,3
@@ -1547,16 +1573,11 @@ Butte,1907,Controller,,DEM,Tammy D. Blair,2
 Butte,1907,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,1907,Governor,,DEM,Akinyemi Agbede,1
 Butte,1907,Governor,,REP,Alma Marie Winston,4
-Butte,1907,Governor,,REP,Andrew Blount,0
 Butte,1907,Governor,,PAF,Cindy L. Sheehan,5
 Butte,1907,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Butte,1907,Governor,,REP,Glenn Champ,4
-Butte,1907,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1907,Governor,,IND,Joe Leicht,0
 Butte,1907,Governor,,GRN,Luis J. Rodriguez,3
 Butte,1907,Governor,,REP,Neel Kashkari,13
-Butte,1907,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1907,Governor,,REP,Richard William Aguirre,0
 Butte,1907,Governor,,IND,Robert Newman,5
 Butte,1907,Governor,,REP,Tim Donnelly,23
 Butte,1907,Insurance Commissioner,,DEM,Dave Jones,21
@@ -1570,6 +1591,10 @@ Butte,1907,Lieutenant Governor,,DEM,Gavin Newsom,18
 Butte,1907,Lieutenant Governor,,REP,George Yang,10
 Butte,1907,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,1907,Lieutenant Governor,,REP,Ron Nehring,23
+Butte,1907,Proposition 41,,,No,42
+Butte,1907,Proposition 41,,,Yes,37
+Butte,1907,Proposition 42,,,No,38
+Butte,1907,Proposition 42,,,Yes,38
 Butte,1907,Secretary of State,,DEM,Alex Padilla,12
 Butte,1907,Secretary of State,,IND,Dan Schnur,11
 Butte,1907,Secretary of State,,GRN,David Curtis,8
@@ -1614,11 +1639,9 @@ Butte,1908,Governor,,REP,Andrew Blount,4
 Butte,1908,Governor,,PAF,Cindy L. Sheehan,2
 Butte,1908,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Butte,1908,Governor,,REP,Glenn Champ,2
-Butte,1908,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,1908,Governor,,IND,Joe Leicht,2
 Butte,1908,Governor,,GRN,Luis J. Rodriguez,2
 Butte,1908,Governor,,REP,Neel Kashkari,21
-Butte,1908,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1908,Governor,,REP,Richard William Aguirre,1
 Butte,1908,Governor,,IND,Robert Newman,6
 Butte,1908,Governor,,REP,Tim Donnelly,29
@@ -1633,6 +1656,10 @@ Butte,1908,Lieutenant Governor,,DEM,Gavin Newsom,32
 Butte,1908,Lieutenant Governor,,REP,George Yang,14
 Butte,1908,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,1908,Lieutenant Governor,,REP,Ron Nehring,20
+Butte,1908,Proposition 41,,,No,54
+Butte,1908,Proposition 41,,,Yes,58
+Butte,1908,Proposition 42,,,No,59
+Butte,1908,Proposition 42,,,Yes,49
 Butte,1908,Secretary of State,,DEM,Alex Padilla,21
 Butte,1908,Secretary of State,,IND,Dan Schnur,14
 Butte,1908,Secretary of State,,GRN,David Curtis,10
@@ -1658,7 +1685,6 @@ Butte,1908,U.S. House,1,REP,Gregory Cheadle,9
 Butte,1908,U.S. House,1,DEM,Heidi Hall,29
 Butte,1909,Attorney General,,REP,David King,2
 Butte,1909,Attorney General,,REP,John Haggerty,5
-Butte,1909,Attorney General,,LIB,Jonathan Jaech,0
 Butte,1909,Attorney General,,DEM,Kamala D. Harris,1
 Butte,1909,Attorney General,,IND,Orly Taitz,2
 Butte,1909,Attorney General,,REP,Phil Wyman,3
@@ -1670,39 +1696,25 @@ Butte,1909,Controller,,DEM,Betty T. Yee,2
 Butte,1909,Controller,,REP,David Evans,10
 Butte,1909,Controller,,DEM,John A. Pérez,1
 Butte,1909,Controller,,GRN,Laura Wells,1
-Butte,1909,Controller,,DEM,Tammy D. Blair,0
-Butte,1909,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,1909,Governor,,DEM,Akinyemi Agbede,0
-Butte,1909,Governor,,REP,Alma Marie Winston,0
 Butte,1909,Governor,,REP,Andrew Blount,2
-Butte,1909,Governor,,PAF,Cindy L. Sheehan,0
 Butte,1909,Governor,,DEM,"Edmund G. ""Jerry"" Brown",7
-Butte,1909,Governor,,REP,Glenn Champ,0
-Butte,1909,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1909,Governor,,IND,Joe Leicht,0
-Butte,1909,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1909,Governor,,REP,Neel Kashkari,1
-Butte,1909,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1909,Governor,,REP,Richard William Aguirre,0
 Butte,1909,Governor,,IND,Robert Newman,1
 Butte,1909,Governor,,REP,Tim Donnelly,7
 Butte,1909,Insurance Commissioner,,DEM,Dave Jones,5
 Butte,1909,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Butte,1909,Insurance Commissioner,,REP,Ted Gaines,11
-Butte,1909,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,1909,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,1909,Lieutenant Governor,,REP,David Fennell,5
 Butte,1909,Lieutenant Governor,,DEM,Eric Korevaar,2
 Butte,1909,Lieutenant Governor,,DEM,Gavin Newsom,4
 Butte,1909,Lieutenant Governor,,REP,George Yang,2
-Butte,1909,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,1909,Lieutenant Governor,,REP,Ron Nehring,5
+Butte,1909,Proposition 41,,,No,11
+Butte,1909,Proposition 41,,,Yes,8
+Butte,1909,Proposition 42,,,No,11
+Butte,1909,Proposition 42,,,Yes,7
 Butte,1909,Secretary of State,,DEM,Alex Padilla,3
-Butte,1909,Secretary of State,,IND,Dan Schnur,0
 Butte,1909,Secretary of State,,GRN,David Curtis,2
-Butte,1909,Secretary of State,,DEM,Derek Cressman,0
-Butte,1909,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Butte,1909,Secretary of State,,DEM,Leland Yee,0
 Butte,1909,Secretary of State,,REP,Pete Peterson,11
 Butte,1909,Secretary of State,,REP,Roy Allmond,2
 Butte,1909,State Assembly,3,REP,James Gallagher,5
@@ -1713,10 +1725,8 @@ Butte,1909,State Senate,4,REP,Jim Nielsen,16
 Butte,1909,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Butte,1909,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
 Butte,1909,Superintendent of Public Instruction,,NOP,Tom Torlakson,7
-Butte,1909,Treasurer,,GRN,Ellen H. Brown,0
 Butte,1909,Treasurer,,REP,Greg Conlon,16
 Butte,1909,Treasurer,,DEM,John Chiang,2
-Butte,1909,U.S. House,1,DEM,Dan Levine,0
 Butte,1909,U.S. House,1,REP,Doug La Malfa,13
 Butte,1909,U.S. House,1,REP,Gregory Cheadle,2
 Butte,1909,U.S. House,1,DEM,Heidi Hall,4
@@ -1736,17 +1746,13 @@ Butte,1910,Controller,,DEM,John A. Pérez,3
 Butte,1910,Controller,,GRN,Laura Wells,8
 Butte,1910,Controller,,DEM,Tammy D. Blair,17
 Butte,1910,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,1910,Governor,,DEM,Akinyemi Agbede,0
 Butte,1910,Governor,,REP,Alma Marie Winston,1
 Butte,1910,Governor,,REP,Andrew Blount,4
 Butte,1910,Governor,,PAF,Cindy L. Sheehan,2
 Butte,1910,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
 Butte,1910,Governor,,REP,Glenn Champ,5
 Butte,1910,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,1910,Governor,,IND,Joe Leicht,0
-Butte,1910,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1910,Governor,,REP,Neel Kashkari,11
-Butte,1910,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1910,Governor,,REP,Richard William Aguirre,1
 Butte,1910,Governor,,IND,Robert Newman,5
 Butte,1910,Governor,,REP,Tim Donnelly,27
@@ -1761,6 +1767,10 @@ Butte,1910,Lieutenant Governor,,DEM,Gavin Newsom,30
 Butte,1910,Lieutenant Governor,,REP,George Yang,8
 Butte,1910,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,1910,Lieutenant Governor,,REP,Ron Nehring,16
+Butte,1910,Proposition 41,,,No,38
+Butte,1910,Proposition 41,,,Yes,41
+Butte,1910,Proposition 42,,,No,44
+Butte,1910,Proposition 42,,,Yes,34
 Butte,1910,Secretary of State,,DEM,Alex Padilla,10
 Butte,1910,Secretary of State,,IND,Dan Schnur,14
 Butte,1910,Secretary of State,,GRN,David Curtis,6
@@ -1799,25 +1809,20 @@ Butte,1911,Controller,,REP,David Evans,51
 Butte,1911,Controller,,DEM,John A. Pérez,12
 Butte,1911,Controller,,GRN,Laura Wells,12
 Butte,1911,Controller,,DEM,Tammy D. Blair,14
-Butte,1911,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,1911,Governor,,DEM,Akinyemi Agbede,2
 Butte,1911,Governor,,REP,Alma Marie Winston,3
 Butte,1911,Governor,,REP,Andrew Blount,5
 Butte,1911,Governor,,PAF,Cindy L. Sheehan,6
 Butte,1911,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
 Butte,1911,Governor,,REP,Glenn Champ,3
-Butte,1911,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,1911,Governor,,IND,Joe Leicht,1
-Butte,1911,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1911,Governor,,REP,Neel Kashkari,14
-Butte,1911,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1911,Governor,,REP,Richard William Aguirre,4
 Butte,1911,Governor,,IND,Robert Newman,8
 Butte,1911,Governor,,REP,Tim Donnelly,34
 Butte,1911,Insurance Commissioner,,DEM,Dave Jones,37
 Butte,1911,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Butte,1911,Insurance Commissioner,,REP,Ted Gaines,72
-Butte,1911,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,1911,Lieutenant Governor,,PAF,Amos Johnson,6
 Butte,1911,Lieutenant Governor,,REP,David Fennell,23
 Butte,1911,Lieutenant Governor,,DEM,Eric Korevaar,3
@@ -1825,6 +1830,10 @@ Butte,1911,Lieutenant Governor,,DEM,Gavin Newsom,38
 Butte,1911,Lieutenant Governor,,REP,George Yang,11
 Butte,1911,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,1911,Lieutenant Governor,,REP,Ron Nehring,37
+Butte,1911,Proposition 41,,,No,58
+Butte,1911,Proposition 41,,,Yes,61
+Butte,1911,Proposition 42,,,No,72
+Butte,1911,Proposition 42,,,Yes,43
 Butte,1911,Secretary of State,,DEM,Alex Padilla,25
 Butte,1911,Secretary of State,,IND,Dan Schnur,13
 Butte,1911,Secretary of State,,GRN,David Curtis,4
@@ -1864,31 +1873,28 @@ Butte,1912,Controller,,DEM,John A. Pérez,11
 Butte,1912,Controller,,GRN,Laura Wells,7
 Butte,1912,Controller,,DEM,Tammy D. Blair,9
 Butte,1912,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,1912,Governor,,DEM,Akinyemi Agbede,0
 Butte,1912,Governor,,REP,Alma Marie Winston,2
 Butte,1912,Governor,,REP,Andrew Blount,4
 Butte,1912,Governor,,PAF,Cindy L. Sheehan,2
 Butte,1912,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
 Butte,1912,Governor,,REP,Glenn Champ,2
 Butte,1912,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,1912,Governor,,IND,Joe Leicht,0
-Butte,1912,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1912,Governor,,REP,Neel Kashkari,6
-Butte,1912,Governor,,IND,Rakesh Kumar Christian,0
 Butte,1912,Governor,,REP,Richard William Aguirre,1
-Butte,1912,Governor,,IND,Robert Newman,0
 Butte,1912,Governor,,REP,Tim Donnelly,25
 Butte,1912,Insurance Commissioner,,DEM,Dave Jones,33
 Butte,1912,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Butte,1912,Insurance Commissioner,,REP,Ted Gaines,43
 Butte,1912,Lieutenant Governor,,AME,Alan Reynolds,1
-Butte,1912,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,1912,Lieutenant Governor,,REP,David Fennell,11
 Butte,1912,Lieutenant Governor,,DEM,Eric Korevaar,8
 Butte,1912,Lieutenant Governor,,DEM,Gavin Newsom,33
 Butte,1912,Lieutenant Governor,,REP,George Yang,7
-Butte,1912,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,1912,Lieutenant Governor,,REP,Ron Nehring,23
+Butte,1912,Proposition 41,,,No,28
+Butte,1912,Proposition 41,,,Yes,51
+Butte,1912,Proposition 42,,,No,42
+Butte,1912,Proposition 42,,,Yes,37
 Butte,1912,Secretary of State,,DEM,Alex Padilla,18
 Butte,1912,Secretary of State,,IND,Dan Schnur,3
 Butte,1912,Secretary of State,,GRN,David Curtis,3
@@ -1928,19 +1934,14 @@ Butte,1913,Controller,,DEM,John A. Pérez,9
 Butte,1913,Controller,,GRN,Laura Wells,11
 Butte,1913,Controller,,DEM,Tammy D. Blair,6
 Butte,1913,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,1913,Governor,,DEM,Akinyemi Agbede,0
 Butte,1913,Governor,,REP,Alma Marie Winston,1
 Butte,1913,Governor,,REP,Andrew Blount,1
 Butte,1913,Governor,,PAF,Cindy L. Sheehan,3
 Butte,1913,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Butte,1913,Governor,,REP,Glenn Champ,3
-Butte,1913,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1913,Governor,,IND,Joe Leicht,0
 Butte,1913,Governor,,GRN,Luis J. Rodriguez,1
 Butte,1913,Governor,,REP,Neel Kashkari,13
 Butte,1913,Governor,,IND,Rakesh Kumar Christian,1
-Butte,1913,Governor,,REP,Richard William Aguirre,0
-Butte,1913,Governor,,IND,Robert Newman,0
 Butte,1913,Governor,,REP,Tim Donnelly,22
 Butte,1913,Insurance Commissioner,,DEM,Dave Jones,26
 Butte,1913,Insurance Commissioner,,PAF,Nathalie Hrizi,6
@@ -1953,6 +1954,10 @@ Butte,1913,Lieutenant Governor,,DEM,Gavin Newsom,28
 Butte,1913,Lieutenant Governor,,REP,George Yang,7
 Butte,1913,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Butte,1913,Lieutenant Governor,,REP,Ron Nehring,15
+Butte,1913,Proposition 41,,,No,37
+Butte,1913,Proposition 41,,,Yes,40
+Butte,1913,Proposition 42,,,No,37
+Butte,1913,Proposition 42,,,Yes,40
 Butte,1913,Secretary of State,,DEM,Alex Padilla,13
 Butte,1913,Secretary of State,,IND,Dan Schnur,11
 Butte,1913,Secretary of State,,GRN,David Curtis,5
@@ -1980,48 +1985,40 @@ Butte,1914,Attorney General,,REP,David King,4
 Butte,1914,Attorney General,,REP,John Haggerty,9
 Butte,1914,Attorney General,,LIB,Jonathan Jaech,1
 Butte,1914,Attorney General,,DEM,Kamala D. Harris,5
-Butte,1914,Attorney General,,IND,Orly Taitz,0
 Butte,1914,Attorney General,,REP,Phil Wyman,9
 Butte,1914,Attorney General,,REP,Ronald Gold,9
 Butte,1914,Board of Equalization,1,DEM,Chris Parker,6
 Butte,1914,Board of Equalization,1,REP,George Runner,28
 Butte,1914,Controller,,REP,Ashley Swearengin,8
-Butte,1914,Controller,,DEM,Betty T. Yee,0
 Butte,1914,Controller,,REP,David Evans,21
 Butte,1914,Controller,,DEM,John A. Pérez,2
 Butte,1914,Controller,,GRN,Laura Wells,1
 Butte,1914,Controller,,DEM,Tammy D. Blair,3
-Butte,1914,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,1914,Governor,,DEM,Akinyemi Agbede,0
 Butte,1914,Governor,,REP,Alma Marie Winston,1
 Butte,1914,Governor,,REP,Andrew Blount,5
-Butte,1914,Governor,,PAF,Cindy L. Sheehan,0
 Butte,1914,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
 Butte,1914,Governor,,REP,Glenn Champ,2
 Butte,1914,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,1914,Governor,,IND,Joe Leicht,0
-Butte,1914,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1914,Governor,,REP,Neel Kashkari,3
-Butte,1914,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1914,Governor,,REP,Richard William Aguirre,0
 Butte,1914,Governor,,IND,Robert Newman,2
 Butte,1914,Governor,,REP,Tim Donnelly,17
 Butte,1914,Insurance Commissioner,,DEM,Dave Jones,5
 Butte,1914,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Butte,1914,Insurance Commissioner,,REP,Ted Gaines,29
 Butte,1914,Lieutenant Governor,,AME,Alan Reynolds,2
-Butte,1914,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,1914,Lieutenant Governor,,REP,David Fennell,6
 Butte,1914,Lieutenant Governor,,DEM,Eric Korevaar,1
 Butte,1914,Lieutenant Governor,,DEM,Gavin Newsom,6
 Butte,1914,Lieutenant Governor,,REP,George Yang,6
 Butte,1914,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,1914,Lieutenant Governor,,REP,Ron Nehring,15
+Butte,1914,Proposition 41,,,No,21
+Butte,1914,Proposition 41,,,Yes,16
+Butte,1914,Proposition 42,,,No,27
+Butte,1914,Proposition 42,,,Yes,9
 Butte,1914,Secretary of State,,DEM,Alex Padilla,5
 Butte,1914,Secretary of State,,IND,Dan Schnur,2
 Butte,1914,Secretary of State,,GRN,David Curtis,2
-Butte,1914,Secretary of State,,DEM,Derek Cressman,0
-Butte,1914,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Butte,1914,Secretary of State,,DEM,Leland Yee,1
 Butte,1914,Secretary of State,,REP,Pete Peterson,23
 Butte,1914,Secretary of State,,REP,Roy Allmond,1
@@ -2044,7 +2041,6 @@ Butte,1915,Attorney General,,REP,David King,4
 Butte,1915,Attorney General,,REP,John Haggerty,7
 Butte,1915,Attorney General,,LIB,Jonathan Jaech,1
 Butte,1915,Attorney General,,DEM,Kamala D. Harris,8
-Butte,1915,Attorney General,,IND,Orly Taitz,0
 Butte,1915,Attorney General,,REP,Phil Wyman,15
 Butte,1915,Attorney General,,REP,Ronald Gold,5
 Butte,1915,Board of Equalization,1,DEM,Chris Parker,8
@@ -2055,19 +2051,10 @@ Butte,1915,Controller,,REP,David Evans,12
 Butte,1915,Controller,,DEM,John A. Pérez,6
 Butte,1915,Controller,,GRN,Laura Wells,4
 Butte,1915,Controller,,DEM,Tammy D. Blair,1
-Butte,1915,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,1915,Governor,,DEM,Akinyemi Agbede,0
-Butte,1915,Governor,,REP,Alma Marie Winston,0
-Butte,1915,Governor,,REP,Andrew Blount,0
 Butte,1915,Governor,,PAF,Cindy L. Sheehan,1
 Butte,1915,Governor,,DEM,"Edmund G. ""Jerry"" Brown",9
 Butte,1915,Governor,,REP,Glenn Champ,1
-Butte,1915,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,1915,Governor,,IND,Joe Leicht,0
-Butte,1915,Governor,,GRN,Luis J. Rodriguez,0
 Butte,1915,Governor,,REP,Neel Kashkari,12
-Butte,1915,Governor,,IND,Rakesh Kumar Christian,0
-Butte,1915,Governor,,REP,Richard William Aguirre,0
 Butte,1915,Governor,,IND,Robert Newman,2
 Butte,1915,Governor,,REP,Tim Donnelly,18
 Butte,1915,Insurance Commissioner,,DEM,Dave Jones,8
@@ -2079,14 +2066,16 @@ Butte,1915,Lieutenant Governor,,REP,David Fennell,7
 Butte,1915,Lieutenant Governor,,DEM,Eric Korevaar,1
 Butte,1915,Lieutenant Governor,,DEM,Gavin Newsom,8
 Butte,1915,Lieutenant Governor,,REP,George Yang,6
-Butte,1915,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,1915,Lieutenant Governor,,REP,Ron Nehring,16
+Butte,1915,Proposition 41,,,No,20
+Butte,1915,Proposition 41,,,Yes,20
+Butte,1915,Proposition 42,,,No,21
+Butte,1915,Proposition 42,,,Yes,16
 Butte,1915,Secretary of State,,DEM,Alex Padilla,6
 Butte,1915,Secretary of State,,IND,Dan Schnur,10
 Butte,1915,Secretary of State,,GRN,David Curtis,1
 Butte,1915,Secretary of State,,DEM,Derek Cressman,2
 Butte,1915,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Butte,1915,Secretary of State,,DEM,Leland Yee,0
 Butte,1915,Secretary of State,,REP,Pete Peterson,19
 Butte,1915,Secretary of State,,REP,Roy Allmond,2
 Butte,1915,State Assembly,3,REP,James Gallagher,12
@@ -2119,18 +2108,14 @@ Butte,2201,Controller,,REP,David Evans,122
 Butte,2201,Controller,,DEM,John A. Pérez,87
 Butte,2201,Controller,,GRN,Laura Wells,39
 Butte,2201,Controller,,DEM,Tammy D. Blair,38
-Butte,2201,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,2201,Governor,,DEM,Akinyemi Agbede,1
 Butte,2201,Governor,,REP,Alma Marie Winston,4
 Butte,2201,Governor,,REP,Andrew Blount,18
 Butte,2201,Governor,,PAF,Cindy L. Sheehan,6
 Butte,2201,Governor,,DEM,"Edmund G. ""Jerry"" Brown",279
 Butte,2201,Governor,,REP,Glenn Champ,7
-Butte,2201,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2201,Governor,,IND,Joe Leicht,0
 Butte,2201,Governor,,GRN,Luis J. Rodriguez,8
 Butte,2201,Governor,,REP,Neel Kashkari,86
-Butte,2201,Governor,,IND,Rakesh Kumar Christian,0
 Butte,2201,Governor,,REP,Richard William Aguirre,1
 Butte,2201,Governor,,IND,Robert Newman,4
 Butte,2201,Governor,,REP,Tim Donnelly,85
@@ -2145,6 +2130,10 @@ Butte,2201,Lieutenant Governor,,DEM,Gavin Newsom,241
 Butte,2201,Lieutenant Governor,,REP,George Yang,24
 Butte,2201,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,2201,Lieutenant Governor,,REP,Ron Nehring,89
+Butte,2201,Proposition 41,,,No,167
+Butte,2201,Proposition 41,,,Yes,320
+Butte,2201,Proposition 42,,,No,208
+Butte,2201,Proposition 42,,,Yes,260
 Butte,2201,Secretary of State,,DEM,Alex Padilla,163
 Butte,2201,Secretary of State,,IND,Dan Schnur,57
 Butte,2201,Secretary of State,,GRN,David Curtis,21
@@ -2183,7 +2172,6 @@ Butte,2202,Controller,,REP,David Evans,90
 Butte,2202,Controller,,DEM,John A. Pérez,54
 Butte,2202,Controller,,GRN,Laura Wells,18
 Butte,2202,Controller,,DEM,Tammy D. Blair,38
-Butte,2202,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,2202,Governor,,DEM,Akinyemi Agbede,3
 Butte,2202,Governor,,REP,Alma Marie Winston,2
 Butte,2202,Governor,,REP,Andrew Blount,10
@@ -2195,7 +2183,6 @@ Butte,2202,Governor,,IND,Joe Leicht,2
 Butte,2202,Governor,,GRN,Luis J. Rodriguez,5
 Butte,2202,Governor,,REP,Neel Kashkari,85
 Butte,2202,Governor,,IND,Rakesh Kumar Christian,1
-Butte,2202,Governor,,REP,Richard William Aguirre,0
 Butte,2202,Governor,,IND,Robert Newman,2
 Butte,2202,Governor,,REP,Tim Donnelly,63
 Butte,2202,Insurance Commissioner,,DEM,Dave Jones,166
@@ -2209,6 +2196,10 @@ Butte,2202,Lieutenant Governor,,DEM,Gavin Newsom,176
 Butte,2202,Lieutenant Governor,,REP,George Yang,29
 Butte,2202,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,2202,Lieutenant Governor,,REP,Ron Nehring,67
+Butte,2202,Proposition 41,,,No,155
+Butte,2202,Proposition 41,,,Yes,202
+Butte,2202,Proposition 42,,,No,163
+Butte,2202,Proposition 42,,,Yes,181
 Butte,2202,Secretary of State,,DEM,Alex Padilla,112
 Butte,2202,Secretary of State,,IND,Dan Schnur,37
 Butte,2202,Secretary of State,,GRN,David Curtis,16
@@ -2258,8 +2249,6 @@ Butte,2203,Governor,,IND,Janel Hyeshia Buycks,2
 Butte,2203,Governor,,IND,Joe Leicht,1
 Butte,2203,Governor,,GRN,Luis J. Rodriguez,1
 Butte,2203,Governor,,REP,Neel Kashkari,107
-Butte,2203,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2203,Governor,,REP,Richard William Aguirre,0
 Butte,2203,Governor,,IND,Robert Newman,2
 Butte,2203,Governor,,REP,Tim Donnelly,125
 Butte,2203,Insurance Commissioner,,DEM,Dave Jones,148
@@ -2273,6 +2262,10 @@ Butte,2203,Lieutenant Governor,,DEM,Gavin Newsom,145
 Butte,2203,Lieutenant Governor,,REP,George Yang,40
 Butte,2203,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,2203,Lieutenant Governor,,REP,Ron Nehring,132
+Butte,2203,Proposition 41,,,No,202
+Butte,2203,Proposition 41,,,Yes,229
+Butte,2203,Proposition 42,,,No,233
+Butte,2203,Proposition 42,,,Yes,193
 Butte,2203,Secretary of State,,DEM,Alex Padilla,90
 Butte,2203,Secretary of State,,IND,Dan Schnur,65
 Butte,2203,Secretary of State,,GRN,David Curtis,10
@@ -2312,7 +2305,6 @@ Butte,2204,Controller,,DEM,John A. Pérez,48
 Butte,2204,Controller,,GRN,Laura Wells,22
 Butte,2204,Controller,,DEM,Tammy D. Blair,43
 Butte,2204,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,2204,Governor,,DEM,Akinyemi Agbede,0
 Butte,2204,Governor,,REP,Alma Marie Winston,4
 Butte,2204,Governor,,REP,Andrew Blount,16
 Butte,2204,Governor,,PAF,Cindy L. Sheehan,4
@@ -2322,7 +2314,6 @@ Butte,2204,Governor,,IND,Janel Hyeshia Buycks,4
 Butte,2204,Governor,,IND,Joe Leicht,1
 Butte,2204,Governor,,GRN,Luis J. Rodriguez,1
 Butte,2204,Governor,,REP,Neel Kashkari,94
-Butte,2204,Governor,,IND,Rakesh Kumar Christian,0
 Butte,2204,Governor,,REP,Richard William Aguirre,2
 Butte,2204,Governor,,IND,Robert Newman,4
 Butte,2204,Governor,,REP,Tim Donnelly,123
@@ -2337,6 +2328,10 @@ Butte,2204,Lieutenant Governor,,DEM,Gavin Newsom,139
 Butte,2204,Lieutenant Governor,,REP,George Yang,29
 Butte,2204,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,2204,Lieutenant Governor,,REP,Ron Nehring,141
+Butte,2204,Proposition 41,,,No,193
+Butte,2204,Proposition 41,,,Yes,259
+Butte,2204,Proposition 42,,,No,216
+Butte,2204,Proposition 42,,,Yes,221
 Butte,2204,Secretary of State,,DEM,Alex Padilla,82
 Butte,2204,Secretary of State,,IND,Dan Schnur,52
 Butte,2204,Secretary of State,,GRN,David Curtis,12
@@ -2376,7 +2371,6 @@ Butte,2205,Controller,,DEM,John A. Pérez,49
 Butte,2205,Controller,,GRN,Laura Wells,47
 Butte,2205,Controller,,DEM,Tammy D. Blair,23
 Butte,2205,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,2205,Governor,,DEM,Akinyemi Agbede,0
 Butte,2205,Governor,,REP,Alma Marie Winston,2
 Butte,2205,Governor,,REP,Andrew Blount,13
 Butte,2205,Governor,,PAF,Cindy L. Sheehan,6
@@ -2386,8 +2380,6 @@ Butte,2205,Governor,,IND,Janel Hyeshia Buycks,2
 Butte,2205,Governor,,IND,Joe Leicht,2
 Butte,2205,Governor,,GRN,Luis J. Rodriguez,8
 Butte,2205,Governor,,REP,Neel Kashkari,79
-Butte,2205,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2205,Governor,,REP,Richard William Aguirre,0
 Butte,2205,Governor,,IND,Robert Newman,1
 Butte,2205,Governor,,REP,Tim Donnelly,58
 Butte,2205,Insurance Commissioner,,DEM,Dave Jones,161
@@ -2401,6 +2393,10 @@ Butte,2205,Lieutenant Governor,,DEM,Gavin Newsom,163
 Butte,2205,Lieutenant Governor,,REP,George Yang,23
 Butte,2205,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,2205,Lieutenant Governor,,REP,Ron Nehring,83
+Butte,2205,Proposition 41,,,No,159
+Butte,2205,Proposition 41,,,Yes,206
+Butte,2205,Proposition 42,,,No,186
+Butte,2205,Proposition 42,,,Yes,167
 Butte,2205,Secretary of State,,DEM,Alex Padilla,97
 Butte,2205,Secretary of State,,IND,Dan Schnur,34
 Butte,2205,Secretary of State,,GRN,David Curtis,27
@@ -2439,38 +2435,31 @@ Butte,2206,Controller,,REP,David Evans,7
 Butte,2206,Controller,,DEM,John A. Pérez,6
 Butte,2206,Controller,,GRN,Laura Wells,5
 Butte,2206,Controller,,DEM,Tammy D. Blair,6
-Butte,2206,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,2206,Governor,,DEM,Akinyemi Agbede,0
 Butte,2206,Governor,,REP,Alma Marie Winston,1
-Butte,2206,Governor,,REP,Andrew Blount,0
-Butte,2206,Governor,,PAF,Cindy L. Sheehan,0
 Butte,2206,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
-Butte,2206,Governor,,REP,Glenn Champ,0
-Butte,2206,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2206,Governor,,IND,Joe Leicht,0
 Butte,2206,Governor,,GRN,Luis J. Rodriguez,2
 Butte,2206,Governor,,REP,Neel Kashkari,1
-Butte,2206,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2206,Governor,,REP,Richard William Aguirre,0
 Butte,2206,Governor,,IND,Robert Newman,2
 Butte,2206,Governor,,REP,Tim Donnelly,10
 Butte,2206,Insurance Commissioner,,DEM,Dave Jones,14
 Butte,2206,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Butte,2206,Insurance Commissioner,,REP,Ted Gaines,11
 Butte,2206,Lieutenant Governor,,AME,Alan Reynolds,1
-Butte,2206,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,2206,Lieutenant Governor,,REP,David Fennell,3
 Butte,2206,Lieutenant Governor,,DEM,Eric Korevaar,3
 Butte,2206,Lieutenant Governor,,DEM,Gavin Newsom,15
 Butte,2206,Lieutenant Governor,,REP,George Yang,3
 Butte,2206,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,2206,Lieutenant Governor,,REP,Ron Nehring,5
+Butte,2206,Proposition 41,,,No,14
+Butte,2206,Proposition 41,,,Yes,17
+Butte,2206,Proposition 42,,,No,15
+Butte,2206,Proposition 42,,,Yes,14
 Butte,2206,Secretary of State,,DEM,Alex Padilla,10
 Butte,2206,Secretary of State,,IND,Dan Schnur,1
 Butte,2206,Secretary of State,,GRN,David Curtis,1
 Butte,2206,Secretary of State,,DEM,Derek Cressman,4
 Butte,2206,Secretary of State,,DEM,Jeffrey H. Drobman,3
-Butte,2206,Secretary of State,,DEM,Leland Yee,0
 Butte,2206,Secretary of State,,REP,Pete Peterson,8
 Butte,2206,Secretary of State,,REP,Roy Allmond,3
 Butte,2206,State Assembly,3,REP,James Gallagher,11
@@ -2488,69 +2477,34 @@ Butte,2206,U.S. House,1,DEM,Dan Levine,3
 Butte,2206,U.S. House,1,REP,Doug La Malfa,12
 Butte,2206,U.S. House,1,REP,Gregory Cheadle,1
 Butte,2206,U.S. House,1,DEM,Heidi Hall,15
-Butte,2207,Attorney General,,REP,David King,0
-Butte,2207,Attorney General,,REP,John Haggerty,0
-Butte,2207,Attorney General,,LIB,Jonathan Jaech,0
 Butte,2207,Attorney General,,DEM,Kamala D. Harris,4
 Butte,2207,Attorney General,,IND,Orly Taitz,1
-Butte,2207,Attorney General,,REP,Phil Wyman,0
-Butte,2207,Attorney General,,REP,Ronald Gold,0
 Butte,2207,Board of Equalization,1,DEM,Chris Parker,5
-Butte,2207,Board of Equalization,1,REP,George Runner,0
-Butte,2207,Controller,,REP,Ashley Swearengin,0
-Butte,2207,Controller,,DEM,Betty T. Yee,0
-Butte,2207,Controller,,REP,David Evans,0
 Butte,2207,Controller,,DEM,John A. Pérez,2
 Butte,2207,Controller,,GRN,Laura Wells,2
 Butte,2207,Controller,,DEM,Tammy D. Blair,1
-Butte,2207,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,2207,Governor,,DEM,Akinyemi Agbede,0
-Butte,2207,Governor,,REP,Alma Marie Winston,0
-Butte,2207,Governor,,REP,Andrew Blount,0
-Butte,2207,Governor,,PAF,Cindy L. Sheehan,0
 Butte,2207,Governor,,DEM,"Edmund G. ""Jerry"" Brown",4
-Butte,2207,Governor,,REP,Glenn Champ,0
 Butte,2207,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,2207,Governor,,IND,Joe Leicht,0
-Butte,2207,Governor,,GRN,Luis J. Rodriguez,0
-Butte,2207,Governor,,REP,Neel Kashkari,0
-Butte,2207,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2207,Governor,,REP,Richard William Aguirre,0
-Butte,2207,Governor,,IND,Robert Newman,0
-Butte,2207,Governor,,REP,Tim Donnelly,0
 Butte,2207,Insurance Commissioner,,DEM,Dave Jones,2
 Butte,2207,Insurance Commissioner,,PAF,Nathalie Hrizi,3
-Butte,2207,Insurance Commissioner,,REP,Ted Gaines,0
-Butte,2207,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,2207,Lieutenant Governor,,PAF,Amos Johnson,0
-Butte,2207,Lieutenant Governor,,REP,David Fennell,0
 Butte,2207,Lieutenant Governor,,DEM,Eric Korevaar,4
 Butte,2207,Lieutenant Governor,,DEM,Gavin Newsom,1
-Butte,2207,Lieutenant Governor,,REP,George Yang,0
-Butte,2207,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Butte,2207,Lieutenant Governor,,REP,Ron Nehring,0
+Butte,2207,Proposition 41,,,No,2
+Butte,2207,Proposition 41,,,Yes,3
+Butte,2207,Proposition 42,,,No,1
+Butte,2207,Proposition 42,,,Yes,3
 Butte,2207,Secretary of State,,DEM,Alex Padilla,2
 Butte,2207,Secretary of State,,IND,Dan Schnur,1
-Butte,2207,Secretary of State,,GRN,David Curtis,0
 Butte,2207,Secretary of State,,DEM,Derek Cressman,1
 Butte,2207,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Butte,2207,Secretary of State,,DEM,Leland Yee,0
-Butte,2207,Secretary of State,,REP,Pete Peterson,0
-Butte,2207,Secretary of State,,REP,Roy Allmond,0
-Butte,2207,State Assembly,3,REP,James Gallagher,0
 Butte,2207,State Assembly,3,DEM,Jim Reed,5
-Butte,2207,State Assembly,3,REP,Ryan Schohr,0
 Butte,2207,State Senate,4,DEM,CJ Jawahar,5
-Butte,2207,State Senate,4,REP,Jim Nielsen,0
 Butte,2207,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 Butte,2207,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Butte,2207,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
 Butte,2207,Treasurer,,GRN,Ellen H. Brown,2
-Butte,2207,Treasurer,,REP,Greg Conlon,0
 Butte,2207,Treasurer,,DEM,John Chiang,3
 Butte,2207,U.S. House,1,DEM,Dan Levine,1
-Butte,2207,U.S. House,1,REP,Doug La Malfa,0
-Butte,2207,U.S. House,1,REP,Gregory Cheadle,0
 Butte,2207,U.S. House,1,DEM,Heidi Hall,4
 Butte,2208,Attorney General,,REP,David King,1
 Butte,2208,Attorney General,,REP,John Haggerty,5
@@ -2567,18 +2521,12 @@ Butte,2208,Controller,,REP,David Evans,16
 Butte,2208,Controller,,DEM,John A. Pérez,20
 Butte,2208,Controller,,GRN,Laura Wells,17
 Butte,2208,Controller,,DEM,Tammy D. Blair,10
-Butte,2208,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,2208,Governor,,DEM,Akinyemi Agbede,2
-Butte,2208,Governor,,REP,Alma Marie Winston,0
-Butte,2208,Governor,,REP,Andrew Blount,0
 Butte,2208,Governor,,PAF,Cindy L. Sheehan,3
 Butte,2208,Governor,,DEM,"Edmund G. ""Jerry"" Brown",57
 Butte,2208,Governor,,REP,Glenn Champ,1
-Butte,2208,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2208,Governor,,IND,Joe Leicht,0
 Butte,2208,Governor,,GRN,Luis J. Rodriguez,7
 Butte,2208,Governor,,REP,Neel Kashkari,4
-Butte,2208,Governor,,IND,Rakesh Kumar Christian,0
 Butte,2208,Governor,,REP,Richard William Aguirre,1
 Butte,2208,Governor,,IND,Robert Newman,2
 Butte,2208,Governor,,REP,Tim Donnelly,9
@@ -2593,6 +2541,10 @@ Butte,2208,Lieutenant Governor,,DEM,Gavin Newsom,43
 Butte,2208,Lieutenant Governor,,REP,George Yang,4
 Butte,2208,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,2208,Lieutenant Governor,,REP,Ron Nehring,7
+Butte,2208,Proposition 41,,,No,22
+Butte,2208,Proposition 41,,,Yes,66
+Butte,2208,Proposition 42,,,No,45
+Butte,2208,Proposition 42,,,Yes,40
 Butte,2208,Secretary of State,,DEM,Alex Padilla,36
 Butte,2208,Secretary of State,,IND,Dan Schnur,4
 Butte,2208,Secretary of State,,GRN,David Curtis,12
@@ -2616,7 +2568,6 @@ Butte,2208,U.S. House,1,DEM,Dan Levine,15
 Butte,2208,U.S. House,1,REP,Doug La Malfa,23
 Butte,2208,U.S. House,1,REP,Gregory Cheadle,5
 Butte,2208,U.S. House,1,DEM,Heidi Hall,43
-Butte,2209,Attorney General,,REP,David King,0
 Butte,2209,Attorney General,,REP,John Haggerty,2
 Butte,2209,Attorney General,,LIB,Jonathan Jaech,5
 Butte,2209,Attorney General,,DEM,Kamala D. Harris,41
@@ -2631,32 +2582,28 @@ Butte,2209,Controller,,REP,David Evans,9
 Butte,2209,Controller,,DEM,John A. Pérez,11
 Butte,2209,Controller,,GRN,Laura Wells,6
 Butte,2209,Controller,,DEM,Tammy D. Blair,16
-Butte,2209,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,2209,Governor,,DEM,Akinyemi Agbede,1
-Butte,2209,Governor,,REP,Alma Marie Winston,0
 Butte,2209,Governor,,REP,Andrew Blount,3
 Butte,2209,Governor,,PAF,Cindy L. Sheehan,5
 Butte,2209,Governor,,DEM,"Edmund G. ""Jerry"" Brown",44
-Butte,2209,Governor,,REP,Glenn Champ,0
-Butte,2209,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,2209,Governor,,IND,Joe Leicht,1
 Butte,2209,Governor,,GRN,Luis J. Rodriguez,1
 Butte,2209,Governor,,REP,Neel Kashkari,1
-Butte,2209,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2209,Governor,,REP,Richard William Aguirre,0
 Butte,2209,Governor,,IND,Robert Newman,1
 Butte,2209,Governor,,REP,Tim Donnelly,5
 Butte,2209,Insurance Commissioner,,DEM,Dave Jones,42
 Butte,2209,Insurance Commissioner,,PAF,Nathalie Hrizi,9
 Butte,2209,Insurance Commissioner,,REP,Ted Gaines,8
-Butte,2209,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,2209,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,2209,Lieutenant Governor,,REP,David Fennell,2
 Butte,2209,Lieutenant Governor,,DEM,Eric Korevaar,15
 Butte,2209,Lieutenant Governor,,DEM,Gavin Newsom,32
 Butte,2209,Lieutenant Governor,,REP,George Yang,2
 Butte,2209,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,2209,Lieutenant Governor,,REP,Ron Nehring,5
+Butte,2209,Proposition 41,,,No,14
+Butte,2209,Proposition 41,,,Yes,48
+Butte,2209,Proposition 42,,,No,18
+Butte,2209,Proposition 42,,,Yes,41
 Butte,2209,Secretary of State,,DEM,Alex Padilla,26
 Butte,2209,Secretary of State,,IND,Dan Schnur,2
 Butte,2209,Secretary of State,,GRN,David Curtis,4
@@ -2697,30 +2644,24 @@ Butte,2210,Controller,,GRN,Laura Wells,3
 Butte,2210,Controller,,DEM,Tammy D. Blair,1
 Butte,2210,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,2210,Governor,,DEM,Akinyemi Agbede,1
-Butte,2210,Governor,,REP,Alma Marie Winston,0
 Butte,2210,Governor,,REP,Andrew Blount,1
-Butte,2210,Governor,,PAF,Cindy L. Sheehan,0
 Butte,2210,Governor,,DEM,"Edmund G. ""Jerry"" Brown",10
-Butte,2210,Governor,,REP,Glenn Champ,0
-Butte,2210,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,2210,Governor,,IND,Joe Leicht,2
-Butte,2210,Governor,,GRN,Luis J. Rodriguez,0
 Butte,2210,Governor,,REP,Neel Kashkari,2
-Butte,2210,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2210,Governor,,REP,Richard William Aguirre,0
 Butte,2210,Governor,,IND,Robert Newman,1
 Butte,2210,Governor,,REP,Tim Donnelly,4
 Butte,2210,Insurance Commissioner,,DEM,Dave Jones,15
 Butte,2210,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Butte,2210,Insurance Commissioner,,REP,Ted Gaines,8
-Butte,2210,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,2210,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,2210,Lieutenant Governor,,REP,David Fennell,2
 Butte,2210,Lieutenant Governor,,DEM,Eric Korevaar,7
 Butte,2210,Lieutenant Governor,,DEM,Gavin Newsom,5
 Butte,2210,Lieutenant Governor,,REP,George Yang,1
-Butte,2210,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,2210,Lieutenant Governor,,REP,Ron Nehring,6
+Butte,2210,Proposition 41,,,No,5
+Butte,2210,Proposition 41,,,Yes,18
+Butte,2210,Proposition 42,,,No,7
+Butte,2210,Proposition 42,,,Yes,15
 Butte,2210,Secretary of State,,DEM,Alex Padilla,9
 Butte,2210,Secretary of State,,IND,Dan Schnur,2
 Butte,2210,Secretary of State,,GRN,David Curtis,3
@@ -2742,7 +2683,6 @@ Butte,2210,Treasurer,,REP,Greg Conlon,7
 Butte,2210,Treasurer,,DEM,John Chiang,15
 Butte,2210,U.S. House,1,DEM,Dan Levine,2
 Butte,2210,U.S. House,1,REP,Doug La Malfa,9
-Butte,2210,U.S. House,1,REP,Gregory Cheadle,0
 Butte,2210,U.S. House,1,DEM,Heidi Hall,14
 Butte,2211,Attorney General,,REP,David King,8
 Butte,2211,Attorney General,,REP,John Haggerty,13
@@ -2760,7 +2700,6 @@ Butte,2211,Controller,,DEM,John A. Pérez,82
 Butte,2211,Controller,,GRN,Laura Wells,43
 Butte,2211,Controller,,DEM,Tammy D. Blair,40
 Butte,2211,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,2211,Governor,,DEM,Akinyemi Agbede,0
 Butte,2211,Governor,,REP,Alma Marie Winston,1
 Butte,2211,Governor,,REP,Andrew Blount,9
 Butte,2211,Governor,,PAF,Cindy L. Sheehan,10
@@ -2785,6 +2724,10 @@ Butte,2211,Lieutenant Governor,,DEM,Gavin Newsom,205
 Butte,2211,Lieutenant Governor,,REP,George Yang,14
 Butte,2211,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Butte,2211,Lieutenant Governor,,REP,Ron Nehring,53
+Butte,2211,Proposition 41,,,No,91
+Butte,2211,Proposition 41,,,Yes,250
+Butte,2211,Proposition 42,,,No,144
+Butte,2211,Proposition 42,,,Yes,189
 Butte,2211,Secretary of State,,DEM,Alex Padilla,106
 Butte,2211,Secretary of State,,IND,Dan Schnur,36
 Butte,2211,Secretary of State,,GRN,David Curtis,34
@@ -2834,7 +2777,6 @@ Butte,2212,Governor,,IND,Janel Hyeshia Buycks,2
 Butte,2212,Governor,,IND,Joe Leicht,1
 Butte,2212,Governor,,GRN,Luis J. Rodriguez,10
 Butte,2212,Governor,,REP,Neel Kashkari,14
-Butte,2212,Governor,,IND,Rakesh Kumar Christian,0
 Butte,2212,Governor,,REP,Richard William Aguirre,2
 Butte,2212,Governor,,IND,Robert Newman,2
 Butte,2212,Governor,,REP,Tim Donnelly,27
@@ -2849,6 +2791,10 @@ Butte,2212,Lieutenant Governor,,DEM,Gavin Newsom,128
 Butte,2212,Lieutenant Governor,,REP,George Yang,12
 Butte,2212,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Butte,2212,Lieutenant Governor,,REP,Ron Nehring,21
+Butte,2212,Proposition 41,,,No,63
+Butte,2212,Proposition 41,,,Yes,178
+Butte,2212,Proposition 42,,,No,101
+Butte,2212,Proposition 42,,,Yes,132
 Butte,2212,Secretary of State,,DEM,Alex Padilla,107
 Butte,2212,Secretary of State,,IND,Dan Schnur,12
 Butte,2212,Secretary of State,,GRN,David Curtis,25
@@ -2889,7 +2835,6 @@ Butte,2213,Controller,,GRN,Laura Wells,40
 Butte,2213,Controller,,DEM,Tammy D. Blair,22
 Butte,2213,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Butte,2213,Governor,,DEM,Akinyemi Agbede,1
-Butte,2213,Governor,,REP,Alma Marie Winston,0
 Butte,2213,Governor,,REP,Andrew Blount,7
 Butte,2213,Governor,,PAF,Cindy L. Sheehan,16
 Butte,2213,Governor,,DEM,"Edmund G. ""Jerry"" Brown",169
@@ -2899,7 +2844,6 @@ Butte,2213,Governor,,IND,Joe Leicht,1
 Butte,2213,Governor,,GRN,Luis J. Rodriguez,10
 Butte,2213,Governor,,REP,Neel Kashkari,37
 Butte,2213,Governor,,IND,Rakesh Kumar Christian,1
-Butte,2213,Governor,,REP,Richard William Aguirre,0
 Butte,2213,Governor,,IND,Robert Newman,3
 Butte,2213,Governor,,REP,Tim Donnelly,28
 Butte,2213,Insurance Commissioner,,DEM,Dave Jones,161
@@ -2913,6 +2857,10 @@ Butte,2213,Lieutenant Governor,,DEM,Gavin Newsom,147
 Butte,2213,Lieutenant Governor,,REP,George Yang,15
 Butte,2213,Lieutenant Governor,,GRN,Jena F. Goodman,18
 Butte,2213,Lieutenant Governor,,REP,Ron Nehring,37
+Butte,2213,Proposition 41,,,No,73
+Butte,2213,Proposition 41,,,Yes,211
+Butte,2213,Proposition 42,,,No,117
+Butte,2213,Proposition 42,,,Yes,158
 Butte,2213,Secretary of State,,DEM,Alex Padilla,98
 Butte,2213,Secretary of State,,IND,Dan Schnur,26
 Butte,2213,Secretary of State,,GRN,David Curtis,29
@@ -2952,18 +2900,14 @@ Butte,2214,Controller,,DEM,John A. Pérez,58
 Butte,2214,Controller,,GRN,Laura Wells,20
 Butte,2214,Controller,,DEM,Tammy D. Blair,26
 Butte,2214,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,2214,Governor,,DEM,Akinyemi Agbede,0
 Butte,2214,Governor,,REP,Alma Marie Winston,1
 Butte,2214,Governor,,REP,Andrew Blount,14
 Butte,2214,Governor,,PAF,Cindy L. Sheehan,4
 Butte,2214,Governor,,DEM,"Edmund G. ""Jerry"" Brown",166
 Butte,2214,Governor,,REP,Glenn Champ,9
 Butte,2214,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,2214,Governor,,IND,Joe Leicht,0
 Butte,2214,Governor,,GRN,Luis J. Rodriguez,4
 Butte,2214,Governor,,REP,Neel Kashkari,54
-Butte,2214,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2214,Governor,,REP,Richard William Aguirre,0
 Butte,2214,Governor,,IND,Robert Newman,1
 Butte,2214,Governor,,REP,Tim Donnelly,46
 Butte,2214,Insurance Commissioner,,DEM,Dave Jones,145
@@ -2977,6 +2921,10 @@ Butte,2214,Lieutenant Governor,,DEM,Gavin Newsom,149
 Butte,2214,Lieutenant Governor,,REP,George Yang,15
 Butte,2214,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,2214,Lieutenant Governor,,REP,Ron Nehring,53
+Butte,2214,Proposition 41,,,No,112
+Butte,2214,Proposition 41,,,Yes,183
+Butte,2214,Proposition 42,,,No,148
+Butte,2214,Proposition 42,,,Yes,134
 Butte,2214,Secretary of State,,DEM,Alex Padilla,79
 Butte,2214,Secretary of State,,IND,Dan Schnur,30
 Butte,2214,Secretary of State,,GRN,David Curtis,16
@@ -3016,14 +2964,12 @@ Butte,2215,Controller,,DEM,John A. Pérez,68
 Butte,2215,Controller,,GRN,Laura Wells,24
 Butte,2215,Controller,,DEM,Tammy D. Blair,43
 Butte,2215,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,2215,Governor,,DEM,Akinyemi Agbede,0
 Butte,2215,Governor,,REP,Alma Marie Winston,3
 Butte,2215,Governor,,REP,Andrew Blount,22
 Butte,2215,Governor,,PAF,Cindy L. Sheehan,3
 Butte,2215,Governor,,DEM,"Edmund G. ""Jerry"" Brown",232
 Butte,2215,Governor,,REP,Glenn Champ,5
 Butte,2215,Governor,,IND,Janel Hyeshia Buycks,6
-Butte,2215,Governor,,IND,Joe Leicht,0
 Butte,2215,Governor,,GRN,Luis J. Rodriguez,3
 Butte,2215,Governor,,REP,Neel Kashkari,83
 Butte,2215,Governor,,IND,Rakesh Kumar Christian,1
@@ -3041,6 +2987,10 @@ Butte,2215,Lieutenant Governor,,DEM,Gavin Newsom,169
 Butte,2215,Lieutenant Governor,,REP,George Yang,33
 Butte,2215,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,2215,Lieutenant Governor,,REP,Ron Nehring,102
+Butte,2215,Proposition 41,,,No,164
+Butte,2215,Proposition 41,,,Yes,279
+Butte,2215,Proposition 42,,,No,202
+Butte,2215,Proposition 42,,,Yes,229
 Butte,2215,Secretary of State,,DEM,Alex Padilla,109
 Butte,2215,Secretary of State,,IND,Dan Schnur,49
 Butte,2215,Secretary of State,,GRN,David Curtis,18
@@ -3087,11 +3037,8 @@ Butte,2216,Governor,,PAF,Cindy L. Sheehan,4
 Butte,2216,Governor,,DEM,"Edmund G. ""Jerry"" Brown",89
 Butte,2216,Governor,,REP,Glenn Champ,2
 Butte,2216,Governor,,IND,Janel Hyeshia Buycks,5
-Butte,2216,Governor,,IND,Joe Leicht,0
 Butte,2216,Governor,,GRN,Luis J. Rodriguez,4
 Butte,2216,Governor,,REP,Neel Kashkari,36
-Butte,2216,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2216,Governor,,REP,Richard William Aguirre,0
 Butte,2216,Governor,,IND,Robert Newman,2
 Butte,2216,Governor,,REP,Tim Donnelly,46
 Butte,2216,Insurance Commissioner,,DEM,Dave Jones,76
@@ -3105,6 +3052,10 @@ Butte,2216,Lieutenant Governor,,DEM,Gavin Newsom,73
 Butte,2216,Lieutenant Governor,,REP,George Yang,17
 Butte,2216,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,2216,Lieutenant Governor,,REP,Ron Nehring,55
+Butte,2216,Proposition 41,,,No,67
+Butte,2216,Proposition 41,,,Yes,136
+Butte,2216,Proposition 42,,,No,90
+Butte,2216,Proposition 42,,,Yes,112
 Butte,2216,Secretary of State,,DEM,Alex Padilla,54
 Butte,2216,Secretary of State,,IND,Dan Schnur,26
 Butte,2216,Secretary of State,,GRN,David Curtis,12
@@ -3154,8 +3105,6 @@ Butte,2801,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,2801,Governor,,IND,Joe Leicht,2
 Butte,2801,Governor,,GRN,Luis J. Rodriguez,7
 Butte,2801,Governor,,REP,Neel Kashkari,143
-Butte,2801,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2801,Governor,,REP,Richard William Aguirre,0
 Butte,2801,Governor,,IND,Robert Newman,4
 Butte,2801,Governor,,REP,Tim Donnelly,101
 Butte,2801,Insurance Commissioner,,DEM,Dave Jones,221
@@ -3169,6 +3118,10 @@ Butte,2801,Lieutenant Governor,,DEM,Gavin Newsom,212
 Butte,2801,Lieutenant Governor,,REP,George Yang,46
 Butte,2801,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,2801,Lieutenant Governor,,REP,Ron Nehring,136
+Butte,2801,Proposition 41,,,No,240
+Butte,2801,Proposition 41,,,Yes,308
+Butte,2801,Proposition 42,,,No,263
+Butte,2801,Proposition 42,,,Yes,259
 Butte,2801,Secretary of State,,DEM,Alex Padilla,132
 Butte,2801,Secretary of State,,IND,Dan Schnur,85
 Butte,2801,Secretary of State,,GRN,David Curtis,17
@@ -3208,19 +3161,15 @@ Butte,2802,Controller,,DEM,John A. Pérez,42
 Butte,2802,Controller,,GRN,Laura Wells,23
 Butte,2802,Controller,,DEM,Tammy D. Blair,23
 Butte,2802,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,2802,Governor,,DEM,Akinyemi Agbede,0
 Butte,2802,Governor,,REP,Alma Marie Winston,1
 Butte,2802,Governor,,REP,Andrew Blount,5
 Butte,2802,Governor,,PAF,Cindy L. Sheehan,7
 Butte,2802,Governor,,DEM,"Edmund G. ""Jerry"" Brown",157
 Butte,2802,Governor,,REP,Glenn Champ,5
-Butte,2802,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,2802,Governor,,IND,Joe Leicht,1
 Butte,2802,Governor,,GRN,Luis J. Rodriguez,5
 Butte,2802,Governor,,REP,Neel Kashkari,86
 Butte,2802,Governor,,IND,Rakesh Kumar Christian,1
-Butte,2802,Governor,,REP,Richard William Aguirre,0
-Butte,2802,Governor,,IND,Robert Newman,0
 Butte,2802,Governor,,REP,Tim Donnelly,58
 Butte,2802,Insurance Commissioner,,DEM,Dave Jones,143
 Butte,2802,Insurance Commissioner,,PAF,Nathalie Hrizi,17
@@ -3233,6 +3182,10 @@ Butte,2802,Lieutenant Governor,,DEM,Gavin Newsom,146
 Butte,2802,Lieutenant Governor,,REP,George Yang,20
 Butte,2802,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,2802,Lieutenant Governor,,REP,Ron Nehring,65
+Butte,2802,Proposition 41,,,No,129
+Butte,2802,Proposition 41,,,Yes,195
+Butte,2802,Proposition 42,,,No,151
+Butte,2802,Proposition 42,,,Yes,163
 Butte,2802,Secretary of State,,DEM,Alex Padilla,86
 Butte,2802,Secretary of State,,IND,Dan Schnur,44
 Butte,2802,Secretary of State,,GRN,David Curtis,20
@@ -3273,23 +3226,17 @@ Butte,2803,Controller,,GRN,Laura Wells,14
 Butte,2803,Controller,,DEM,Tammy D. Blair,16
 Butte,2803,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,2803,Governor,,DEM,Akinyemi Agbede,4
-Butte,2803,Governor,,REP,Alma Marie Winston,0
 Butte,2803,Governor,,REP,Andrew Blount,2
 Butte,2803,Governor,,PAF,Cindy L. Sheehan,12
 Butte,2803,Governor,,DEM,"Edmund G. ""Jerry"" Brown",71
 Butte,2803,Governor,,REP,Glenn Champ,2
 Butte,2803,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,2803,Governor,,IND,Joe Leicht,0
 Butte,2803,Governor,,GRN,Luis J. Rodriguez,3
 Butte,2803,Governor,,REP,Neel Kashkari,11
-Butte,2803,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2803,Governor,,REP,Richard William Aguirre,0
-Butte,2803,Governor,,IND,Robert Newman,0
 Butte,2803,Governor,,REP,Tim Donnelly,14
 Butte,2803,Insurance Commissioner,,DEM,Dave Jones,67
 Butte,2803,Insurance Commissioner,,PAF,Nathalie Hrizi,20
 Butte,2803,Insurance Commissioner,,REP,Ted Gaines,24
-Butte,2803,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,2803,Lieutenant Governor,,PAF,Amos Johnson,2
 Butte,2803,Lieutenant Governor,,REP,David Fennell,9
 Butte,2803,Lieutenant Governor,,DEM,Eric Korevaar,12
@@ -3297,6 +3244,10 @@ Butte,2803,Lieutenant Governor,,DEM,Gavin Newsom,68
 Butte,2803,Lieutenant Governor,,REP,George Yang,7
 Butte,2803,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,2803,Lieutenant Governor,,REP,Ron Nehring,10
+Butte,2803,Proposition 41,,,No,31
+Butte,2803,Proposition 41,,,Yes,87
+Butte,2803,Proposition 42,,,No,49
+Butte,2803,Proposition 42,,,Yes,65
 Butte,2803,Secretary of State,,DEM,Alex Padilla,40
 Butte,2803,Secretary of State,,IND,Dan Schnur,11
 Butte,2803,Secretary of State,,GRN,David Curtis,10
@@ -3336,7 +3287,6 @@ Butte,2804,Controller,,DEM,John A. Pérez,20
 Butte,2804,Controller,,GRN,Laura Wells,14
 Butte,2804,Controller,,DEM,Tammy D. Blair,12
 Butte,2804,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,2804,Governor,,DEM,Akinyemi Agbede,0
 Butte,2804,Governor,,REP,Alma Marie Winston,1
 Butte,2804,Governor,,REP,Andrew Blount,14
 Butte,2804,Governor,,PAF,Cindy L. Sheehan,4
@@ -3361,6 +3311,10 @@ Butte,2804,Lieutenant Governor,,DEM,Gavin Newsom,74
 Butte,2804,Lieutenant Governor,,REP,George Yang,22
 Butte,2804,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,2804,Lieutenant Governor,,REP,Ron Nehring,97
+Butte,2804,Proposition 41,,,No,146
+Butte,2804,Proposition 41,,,Yes,135
+Butte,2804,Proposition 42,,,No,169
+Butte,2804,Proposition 42,,,Yes,110
 Butte,2804,Secretary of State,,DEM,Alex Padilla,33
 Butte,2804,Secretary of State,,IND,Dan Schnur,42
 Butte,2804,Secretary of State,,GRN,David Curtis,8
@@ -3407,7 +3361,6 @@ Butte,2805,Governor,,PAF,Cindy L. Sheehan,5
 Butte,2805,Governor,,DEM,"Edmund G. ""Jerry"" Brown",152
 Butte,2805,Governor,,REP,Glenn Champ,19
 Butte,2805,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,2805,Governor,,IND,Joe Leicht,0
 Butte,2805,Governor,,GRN,Luis J. Rodriguez,6
 Butte,2805,Governor,,REP,Neel Kashkari,109
 Butte,2805,Governor,,IND,Rakesh Kumar Christian,2
@@ -3425,6 +3378,10 @@ Butte,2805,Lieutenant Governor,,DEM,Gavin Newsom,119
 Butte,2805,Lieutenant Governor,,REP,George Yang,30
 Butte,2805,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Butte,2805,Lieutenant Governor,,REP,Ron Nehring,130
+Butte,2805,Proposition 41,,,No,217
+Butte,2805,Proposition 41,,,Yes,209
+Butte,2805,Proposition 42,,,No,238
+Butte,2805,Proposition 42,,,Yes,180
 Butte,2805,Secretary of State,,DEM,Alex Padilla,81
 Butte,2805,Secretary of State,,IND,Dan Schnur,56
 Butte,2805,Secretary of State,,GRN,David Curtis,25
@@ -3475,7 +3432,6 @@ Butte,2806,Governor,,IND,Joe Leicht,1
 Butte,2806,Governor,,GRN,Luis J. Rodriguez,5
 Butte,2806,Governor,,REP,Neel Kashkari,167
 Butte,2806,Governor,,IND,Rakesh Kumar Christian,1
-Butte,2806,Governor,,REP,Richard William Aguirre,0
 Butte,2806,Governor,,IND,Robert Newman,1
 Butte,2806,Governor,,REP,Tim Donnelly,127
 Butte,2806,Insurance Commissioner,,DEM,Dave Jones,156
@@ -3489,6 +3445,10 @@ Butte,2806,Lieutenant Governor,,DEM,Gavin Newsom,150
 Butte,2806,Lieutenant Governor,,REP,George Yang,37
 Butte,2806,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,2806,Lieutenant Governor,,REP,Ron Nehring,155
+Butte,2806,Proposition 41,,,No,287
+Butte,2806,Proposition 41,,,Yes,235
+Butte,2806,Proposition 42,,,No,259
+Butte,2806,Proposition 42,,,Yes,254
 Butte,2806,Secretary of State,,DEM,Alex Padilla,81
 Butte,2806,Secretary of State,,IND,Dan Schnur,61
 Butte,2806,Secretary of State,,GRN,David Curtis,14
@@ -3527,20 +3487,11 @@ Butte,2901,Controller,,REP,David Evans,22
 Butte,2901,Controller,,DEM,John A. Pérez,13
 Butte,2901,Controller,,GRN,Laura Wells,7
 Butte,2901,Controller,,DEM,Tammy D. Blair,3
-Butte,2901,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,2901,Governor,,DEM,Akinyemi Agbede,0
-Butte,2901,Governor,,REP,Alma Marie Winston,0
 Butte,2901,Governor,,REP,Andrew Blount,4
-Butte,2901,Governor,,PAF,Cindy L. Sheehan,0
 Butte,2901,Governor,,DEM,"Edmund G. ""Jerry"" Brown",55
 Butte,2901,Governor,,REP,Glenn Champ,3
-Butte,2901,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2901,Governor,,IND,Joe Leicht,0
 Butte,2901,Governor,,GRN,Luis J. Rodriguez,1
 Butte,2901,Governor,,REP,Neel Kashkari,24
-Butte,2901,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2901,Governor,,REP,Richard William Aguirre,0
-Butte,2901,Governor,,IND,Robert Newman,0
 Butte,2901,Governor,,REP,Tim Donnelly,19
 Butte,2901,Insurance Commissioner,,DEM,Dave Jones,40
 Butte,2901,Insurance Commissioner,,PAF,Nathalie Hrizi,8
@@ -3553,6 +3504,10 @@ Butte,2901,Lieutenant Governor,,DEM,Gavin Newsom,42
 Butte,2901,Lieutenant Governor,,REP,George Yang,7
 Butte,2901,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,2901,Lieutenant Governor,,REP,Ron Nehring,26
+Butte,2901,Proposition 41,,,No,44
+Butte,2901,Proposition 41,,,Yes,60
+Butte,2901,Proposition 42,,,No,49
+Butte,2901,Proposition 42,,,Yes,53
 Butte,2901,Secretary of State,,DEM,Alex Padilla,23
 Butte,2901,Secretary of State,,IND,Dan Schnur,14
 Butte,2901,Secretary of State,,GRN,David Curtis,5
@@ -3592,31 +3547,27 @@ Butte,2902,Controller,,DEM,John A. Pérez,27
 Butte,2902,Controller,,GRN,Laura Wells,10
 Butte,2902,Controller,,DEM,Tammy D. Blair,8
 Butte,2902,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,2902,Governor,,DEM,Akinyemi Agbede,0
-Butte,2902,Governor,,REP,Alma Marie Winston,0
 Butte,2902,Governor,,REP,Andrew Blount,5
-Butte,2902,Governor,,PAF,Cindy L. Sheehan,0
 Butte,2902,Governor,,DEM,"Edmund G. ""Jerry"" Brown",76
 Butte,2902,Governor,,REP,Glenn Champ,8
-Butte,2902,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2902,Governor,,IND,Joe Leicht,0
-Butte,2902,Governor,,GRN,Luis J. Rodriguez,0
 Butte,2902,Governor,,REP,Neel Kashkari,55
 Butte,2902,Governor,,IND,Rakesh Kumar Christian,1
-Butte,2902,Governor,,REP,Richard William Aguirre,0
 Butte,2902,Governor,,IND,Robert Newman,4
 Butte,2902,Governor,,REP,Tim Donnelly,62
 Butte,2902,Insurance Commissioner,,DEM,Dave Jones,68
 Butte,2902,Insurance Commissioner,,PAF,Nathalie Hrizi,10
 Butte,2902,Insurance Commissioner,,REP,Ted Gaines,125
 Butte,2902,Lieutenant Governor,,AME,Alan Reynolds,4
-Butte,2902,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,2902,Lieutenant Governor,,REP,David Fennell,42
 Butte,2902,Lieutenant Governor,,DEM,Eric Korevaar,3
 Butte,2902,Lieutenant Governor,,DEM,Gavin Newsom,72
 Butte,2902,Lieutenant Governor,,REP,George Yang,22
 Butte,2902,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,2902,Lieutenant Governor,,REP,Ron Nehring,57
+Butte,2902,Proposition 41,,,No,95
+Butte,2902,Proposition 41,,,Yes,114
+Butte,2902,Proposition 42,,,No,120
+Butte,2902,Proposition 42,,,Yes,80
 Butte,2902,Secretary of State,,DEM,Alex Padilla,39
 Butte,2902,Secretary of State,,IND,Dan Schnur,26
 Butte,2902,Secretary of State,,GRN,David Curtis,8
@@ -3656,18 +3607,10 @@ Butte,2903,Controller,,DEM,John A. Pérez,6
 Butte,2903,Controller,,GRN,Laura Wells,7
 Butte,2903,Controller,,DEM,Tammy D. Blair,8
 Butte,2903,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,2903,Governor,,DEM,Akinyemi Agbede,0
-Butte,2903,Governor,,REP,Alma Marie Winston,0
 Butte,2903,Governor,,REP,Andrew Blount,6
 Butte,2903,Governor,,PAF,Cindy L. Sheehan,3
 Butte,2903,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
-Butte,2903,Governor,,REP,Glenn Champ,0
-Butte,2903,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2903,Governor,,IND,Joe Leicht,0
-Butte,2903,Governor,,GRN,Luis J. Rodriguez,0
 Butte,2903,Governor,,REP,Neel Kashkari,15
-Butte,2903,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2903,Governor,,REP,Richard William Aguirre,0
 Butte,2903,Governor,,IND,Robert Newman,1
 Butte,2903,Governor,,REP,Tim Donnelly,22
 Butte,2903,Insurance Commissioner,,DEM,Dave Jones,29
@@ -3681,6 +3624,10 @@ Butte,2903,Lieutenant Governor,,DEM,Gavin Newsom,20
 Butte,2903,Lieutenant Governor,,REP,George Yang,10
 Butte,2903,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,2903,Lieutenant Governor,,REP,Ron Nehring,22
+Butte,2903,Proposition 41,,,No,39
+Butte,2903,Proposition 41,,,Yes,41
+Butte,2903,Proposition 42,,,No,44
+Butte,2903,Proposition 42,,,Yes,31
 Butte,2903,Secretary of State,,DEM,Alex Padilla,12
 Butte,2903,Secretary of State,,IND,Dan Schnur,8
 Butte,2903,Secretary of State,,GRN,David Curtis,5
@@ -3704,69 +3651,6 @@ Butte,2903,U.S. House,1,DEM,Dan Levine,5
 Butte,2903,U.S. House,1,REP,Doug La Malfa,51
 Butte,2903,U.S. House,1,REP,Gregory Cheadle,6
 Butte,2903,U.S. House,1,DEM,Heidi Hall,19
-Butte,2904,Attorney General,,REP,David King,0
-Butte,2904,Attorney General,,REP,John Haggerty,0
-Butte,2904,Attorney General,,LIB,Jonathan Jaech,0
-Butte,2904,Attorney General,,DEM,Kamala D. Harris,0
-Butte,2904,Attorney General,,IND,Orly Taitz,0
-Butte,2904,Attorney General,,REP,Phil Wyman,0
-Butte,2904,Attorney General,,REP,Ronald Gold,0
-Butte,2904,Board of Equalization,1,DEM,Chris Parker,0
-Butte,2904,Board of Equalization,1,REP,George Runner,0
-Butte,2904,Controller,,REP,Ashley Swearengin,0
-Butte,2904,Controller,,DEM,Betty T. Yee,0
-Butte,2904,Controller,,REP,David Evans,0
-Butte,2904,Controller,,DEM,John A. Pérez,0
-Butte,2904,Controller,,GRN,Laura Wells,0
-Butte,2904,Controller,,DEM,Tammy D. Blair,0
-Butte,2904,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,2904,Governor,,DEM,Akinyemi Agbede,0
-Butte,2904,Governor,,REP,Alma Marie Winston,0
-Butte,2904,Governor,,REP,Andrew Blount,0
-Butte,2904,Governor,,PAF,Cindy L. Sheehan,0
-Butte,2904,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Butte,2904,Governor,,REP,Glenn Champ,0
-Butte,2904,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,2904,Governor,,IND,Joe Leicht,0
-Butte,2904,Governor,,GRN,Luis J. Rodriguez,0
-Butte,2904,Governor,,REP,Neel Kashkari,0
-Butte,2904,Governor,,IND,Rakesh Kumar Christian,0
-Butte,2904,Governor,,REP,Richard William Aguirre,0
-Butte,2904,Governor,,IND,Robert Newman,0
-Butte,2904,Governor,,REP,Tim Donnelly,0
-Butte,2904,Insurance Commissioner,,DEM,Dave Jones,0
-Butte,2904,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Butte,2904,Insurance Commissioner,,REP,Ted Gaines,0
-Butte,2904,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,2904,Lieutenant Governor,,PAF,Amos Johnson,0
-Butte,2904,Lieutenant Governor,,REP,David Fennell,0
-Butte,2904,Lieutenant Governor,,DEM,Eric Korevaar,0
-Butte,2904,Lieutenant Governor,,DEM,Gavin Newsom,0
-Butte,2904,Lieutenant Governor,,REP,George Yang,0
-Butte,2904,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Butte,2904,Lieutenant Governor,,REP,Ron Nehring,0
-Butte,2904,Secretary of State,,DEM,Alex Padilla,0
-Butte,2904,Secretary of State,,IND,Dan Schnur,0
-Butte,2904,Secretary of State,,GRN,David Curtis,0
-Butte,2904,Secretary of State,,DEM,Derek Cressman,0
-Butte,2904,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Butte,2904,Secretary of State,,DEM,Leland Yee,0
-Butte,2904,Secretary of State,,REP,Pete Peterson,0
-Butte,2904,Secretary of State,,REP,Roy Allmond,0
-Butte,2904,State Assembly,1,REP,Brian Dahle,0
-Butte,2904,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Butte,2904,State Senate,4,DEM,CJ Jawahar,0
-Butte,2904,State Senate,4,REP,Jim Nielsen,0
-Butte,2904,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Butte,2904,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Butte,2904,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Butte,2904,Treasurer,,GRN,Ellen H. Brown,0
-Butte,2904,Treasurer,,REP,Greg Conlon,0
-Butte,2904,Treasurer,,DEM,John Chiang,0
-Butte,2904,U.S. House,1,DEM,Dan Levine,0
-Butte,2904,U.S. House,1,REP,Doug La Malfa,0
-Butte,2904,U.S. House,1,REP,Gregory Cheadle,0
-Butte,2904,U.S. House,1,DEM,Heidi Hall,0
 Butte,3201,Attorney General,,REP,David King,21
 Butte,3201,Attorney General,,REP,John Haggerty,68
 Butte,3201,Attorney General,,LIB,Jonathan Jaech,9
@@ -3790,11 +3674,9 @@ Butte,3201,Governor,,PAF,Cindy L. Sheehan,15
 Butte,3201,Governor,,DEM,"Edmund G. ""Jerry"" Brown",290
 Butte,3201,Governor,,REP,Glenn Champ,3
 Butte,3201,Governor,,IND,Janel Hyeshia Buycks,3
-Butte,3201,Governor,,IND,Joe Leicht,0
 Butte,3201,Governor,,GRN,Luis J. Rodriguez,2
 Butte,3201,Governor,,REP,Neel Kashkari,98
 Butte,3201,Governor,,IND,Rakesh Kumar Christian,1
-Butte,3201,Governor,,REP,Richard William Aguirre,0
 Butte,3201,Governor,,IND,Robert Newman,2
 Butte,3201,Governor,,REP,Tim Donnelly,102
 Butte,3201,Insurance Commissioner,,DEM,Dave Jones,243
@@ -3808,6 +3690,10 @@ Butte,3201,Lieutenant Governor,,DEM,Gavin Newsom,240
 Butte,3201,Lieutenant Governor,,REP,George Yang,34
 Butte,3201,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Butte,3201,Lieutenant Governor,,REP,Ron Nehring,113
+Butte,3201,Proposition 41,,,No,201
+Butte,3201,Proposition 41,,,Yes,326
+Butte,3201,Proposition 42,,,No,227
+Butte,3201,Proposition 42,,,Yes,283
 Butte,3201,Secretary of State,,DEM,Alex Padilla,130
 Butte,3201,Secretary of State,,IND,Dan Schnur,55
 Butte,3201,Secretary of State,,GRN,David Curtis,34
@@ -3847,17 +3733,14 @@ Butte,3202,Controller,,DEM,John A. Pérez,79
 Butte,3202,Controller,,GRN,Laura Wells,38
 Butte,3202,Controller,,DEM,Tammy D. Blair,48
 Butte,3202,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,3202,Governor,,DEM,Akinyemi Agbede,0
 Butte,3202,Governor,,REP,Alma Marie Winston,7
 Butte,3202,Governor,,REP,Andrew Blount,16
 Butte,3202,Governor,,PAF,Cindy L. Sheehan,7
 Butte,3202,Governor,,DEM,"Edmund G. ""Jerry"" Brown",322
 Butte,3202,Governor,,REP,Glenn Champ,13
 Butte,3202,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,3202,Governor,,IND,Joe Leicht,0
 Butte,3202,Governor,,GRN,Luis J. Rodriguez,8
 Butte,3202,Governor,,REP,Neel Kashkari,128
-Butte,3202,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3202,Governor,,REP,Richard William Aguirre,1
 Butte,3202,Governor,,IND,Robert Newman,5
 Butte,3202,Governor,,REP,Tim Donnelly,154
@@ -3872,6 +3755,10 @@ Butte,3202,Lieutenant Governor,,DEM,Gavin Newsom,274
 Butte,3202,Lieutenant Governor,,REP,George Yang,41
 Butte,3202,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Butte,3202,Lieutenant Governor,,REP,Ron Nehring,171
+Butte,3202,Proposition 41,,,No,229
+Butte,3202,Proposition 41,,,Yes,429
+Butte,3202,Proposition 42,,,No,295
+Butte,3202,Proposition 42,,,Yes,340
 Butte,3202,Secretary of State,,DEM,Alex Padilla,152
 Butte,3202,Secretary of State,,IND,Dan Schnur,74
 Butte,3202,Secretary of State,,GRN,David Curtis,22
@@ -3910,7 +3797,6 @@ Butte,3203,Controller,,REP,David Evans,142
 Butte,3203,Controller,,DEM,John A. Pérez,62
 Butte,3203,Controller,,GRN,Laura Wells,28
 Butte,3203,Controller,,DEM,Tammy D. Blair,33
-Butte,3203,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,3203,Governor,,DEM,Akinyemi Agbede,3
 Butte,3203,Governor,,REP,Alma Marie Winston,4
 Butte,3203,Governor,,REP,Andrew Blount,14
@@ -3936,6 +3822,10 @@ Butte,3203,Lieutenant Governor,,DEM,Gavin Newsom,191
 Butte,3203,Lieutenant Governor,,REP,George Yang,37
 Butte,3203,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Butte,3203,Lieutenant Governor,,REP,Ron Nehring,117
+Butte,3203,Proposition 41,,,No,144
+Butte,3203,Proposition 41,,,Yes,323
+Butte,3203,Proposition 42,,,No,219
+Butte,3203,Proposition 42,,,Yes,235
 Butte,3203,Secretary of State,,DEM,Alex Padilla,118
 Butte,3203,Secretary of State,,IND,Dan Schnur,51
 Butte,3203,Secretary of State,,GRN,David Curtis,24
@@ -3974,7 +3864,6 @@ Butte,3204,Controller,,REP,David Evans,124
 Butte,3204,Controller,,DEM,John A. Pérez,61
 Butte,3204,Controller,,GRN,Laura Wells,32
 Butte,3204,Controller,,DEM,Tammy D. Blair,44
-Butte,3204,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,3204,Governor,,DEM,Akinyemi Agbede,4
 Butte,3204,Governor,,REP,Alma Marie Winston,3
 Butte,3204,Governor,,REP,Andrew Blount,16
@@ -3985,7 +3874,6 @@ Butte,3204,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,3204,Governor,,IND,Joe Leicht,1
 Butte,3204,Governor,,GRN,Luis J. Rodriguez,6
 Butte,3204,Governor,,REP,Neel Kashkari,78
-Butte,3204,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3204,Governor,,REP,Richard William Aguirre,5
 Butte,3204,Governor,,IND,Robert Newman,6
 Butte,3204,Governor,,REP,Tim Donnelly,72
@@ -4000,6 +3888,10 @@ Butte,3204,Lieutenant Governor,,DEM,Gavin Newsom,208
 Butte,3204,Lieutenant Governor,,REP,George Yang,38
 Butte,3204,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,3204,Lieutenant Governor,,REP,Ron Nehring,83
+Butte,3204,Proposition 41,,,No,137
+Butte,3204,Proposition 41,,,Yes,307
+Butte,3204,Proposition 42,,,No,192
+Butte,3204,Proposition 42,,,Yes,237
 Butte,3204,Secretary of State,,DEM,Alex Padilla,108
 Butte,3204,Secretary of State,,IND,Dan Schnur,56
 Butte,3204,Secretary of State,,GRN,David Curtis,17
@@ -4039,7 +3931,6 @@ Butte,3205,Controller,,DEM,John A. Pérez,83
 Butte,3205,Controller,,GRN,Laura Wells,41
 Butte,3205,Controller,,DEM,Tammy D. Blair,36
 Butte,3205,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,3205,Governor,,DEM,Akinyemi Agbede,0
 Butte,3205,Governor,,REP,Alma Marie Winston,4
 Butte,3205,Governor,,REP,Andrew Blount,9
 Butte,3205,Governor,,PAF,Cindy L. Sheehan,2
@@ -4050,7 +3941,6 @@ Butte,3205,Governor,,IND,Joe Leicht,1
 Butte,3205,Governor,,GRN,Luis J. Rodriguez,5
 Butte,3205,Governor,,REP,Neel Kashkari,104
 Butte,3205,Governor,,IND,Rakesh Kumar Christian,1
-Butte,3205,Governor,,REP,Richard William Aguirre,0
 Butte,3205,Governor,,IND,Robert Newman,5
 Butte,3205,Governor,,REP,Tim Donnelly,81
 Butte,3205,Insurance Commissioner,,DEM,Dave Jones,258
@@ -4064,6 +3954,10 @@ Butte,3205,Lieutenant Governor,,DEM,Gavin Newsom,266
 Butte,3205,Lieutenant Governor,,REP,George Yang,40
 Butte,3205,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Butte,3205,Lieutenant Governor,,REP,Ron Nehring,93
+Butte,3205,Proposition 41,,,No,174
+Butte,3205,Proposition 41,,,Yes,358
+Butte,3205,Proposition 42,,,No,203
+Butte,3205,Proposition 42,,,Yes,310
 Butte,3205,Secretary of State,,DEM,Alex Padilla,141
 Butte,3205,Secretary of State,,IND,Dan Schnur,49
 Butte,3205,Secretary of State,,GRN,David Curtis,27
@@ -4109,8 +4003,6 @@ Butte,3206,Governor,,REP,Andrew Blount,11
 Butte,3206,Governor,,PAF,Cindy L. Sheehan,11
 Butte,3206,Governor,,DEM,"Edmund G. ""Jerry"" Brown",348
 Butte,3206,Governor,,REP,Glenn Champ,6
-Butte,3206,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3206,Governor,,IND,Joe Leicht,0
 Butte,3206,Governor,,GRN,Luis J. Rodriguez,5
 Butte,3206,Governor,,REP,Neel Kashkari,104
 Butte,3206,Governor,,IND,Rakesh Kumar Christian,1
@@ -4128,6 +4020,10 @@ Butte,3206,Lieutenant Governor,,DEM,Gavin Newsom,322
 Butte,3206,Lieutenant Governor,,REP,George Yang,35
 Butte,3206,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,3206,Lieutenant Governor,,REP,Ron Nehring,83
+Butte,3206,Proposition 41,,,No,185
+Butte,3206,Proposition 41,,,Yes,399
+Butte,3206,Proposition 42,,,No,241
+Butte,3206,Proposition 42,,,Yes,320
 Butte,3206,Secretary of State,,DEM,Alex Padilla,173
 Butte,3206,Secretary of State,,IND,Dan Schnur,58
 Butte,3206,Secretary of State,,GRN,David Curtis,37
@@ -4166,15 +4062,11 @@ Butte,3207,Controller,,REP,David Evans,144
 Butte,3207,Controller,,DEM,John A. Pérez,95
 Butte,3207,Controller,,GRN,Laura Wells,43
 Butte,3207,Controller,,DEM,Tammy D. Blair,37
-Butte,3207,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3207,Governor,,DEM,Akinyemi Agbede,0
 Butte,3207,Governor,,REP,Alma Marie Winston,2
 Butte,3207,Governor,,REP,Andrew Blount,25
 Butte,3207,Governor,,PAF,Cindy L. Sheehan,9
 Butte,3207,Governor,,DEM,"Edmund G. ""Jerry"" Brown",350
 Butte,3207,Governor,,REP,Glenn Champ,7
-Butte,3207,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3207,Governor,,IND,Joe Leicht,0
 Butte,3207,Governor,,GRN,Luis J. Rodriguez,3
 Butte,3207,Governor,,REP,Neel Kashkari,105
 Butte,3207,Governor,,IND,Rakesh Kumar Christian,1
@@ -4192,6 +4084,10 @@ Butte,3207,Lieutenant Governor,,DEM,Gavin Newsom,296
 Butte,3207,Lieutenant Governor,,REP,George Yang,40
 Butte,3207,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Butte,3207,Lieutenant Governor,,REP,Ron Nehring,113
+Butte,3207,Proposition 41,,,No,199
+Butte,3207,Proposition 41,,,Yes,402
+Butte,3207,Proposition 42,,,No,235
+Butte,3207,Proposition 42,,,Yes,344
 Butte,3207,Secretary of State,,DEM,Alex Padilla,150
 Butte,3207,Secretary of State,,IND,Dan Schnur,68
 Butte,3207,Secretary of State,,GRN,David Curtis,23
@@ -4256,6 +4152,10 @@ Butte,3208,Lieutenant Governor,,DEM,Gavin Newsom,372
 Butte,3208,Lieutenant Governor,,REP,George Yang,68
 Butte,3208,Lieutenant Governor,,GRN,Jena F. Goodman,24
 Butte,3208,Lieutenant Governor,,REP,Ron Nehring,119
+Butte,3208,Proposition 41,,,No,238
+Butte,3208,Proposition 41,,,Yes,506
+Butte,3208,Proposition 42,,,No,303
+Butte,3208,Proposition 42,,,Yes,413
 Butte,3208,Secretary of State,,DEM,Alex Padilla,183
 Butte,3208,Secretary of State,,IND,Dan Schnur,75
 Butte,3208,Secretary of State,,GRN,David Curtis,44
@@ -4305,7 +4205,6 @@ Butte,3209,Governor,,IND,Janel Hyeshia Buycks,4
 Butte,3209,Governor,,IND,Joe Leicht,2
 Butte,3209,Governor,,GRN,Luis J. Rodriguez,13
 Butte,3209,Governor,,REP,Neel Kashkari,44
-Butte,3209,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3209,Governor,,REP,Richard William Aguirre,1
 Butte,3209,Governor,,IND,Robert Newman,4
 Butte,3209,Governor,,REP,Tim Donnelly,35
@@ -4320,6 +4219,10 @@ Butte,3209,Lieutenant Governor,,DEM,Gavin Newsom,237
 Butte,3209,Lieutenant Governor,,REP,George Yang,22
 Butte,3209,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Butte,3209,Lieutenant Governor,,REP,Ron Nehring,34
+Butte,3209,Proposition 41,,,No,112
+Butte,3209,Proposition 41,,,Yes,292
+Butte,3209,Proposition 42,,,No,147
+Butte,3209,Proposition 42,,,Yes,253
 Butte,3209,Secretary of State,,DEM,Alex Padilla,144
 Butte,3209,Secretary of State,,IND,Dan Schnur,37
 Butte,3209,Secretary of State,,GRN,David Curtis,37
@@ -4359,18 +4262,14 @@ Butte,3210,Controller,,DEM,John A. Pérez,67
 Butte,3210,Controller,,GRN,Laura Wells,66
 Butte,3210,Controller,,DEM,Tammy D. Blair,69
 Butte,3210,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,3210,Governor,,DEM,Akinyemi Agbede,0
 Butte,3210,Governor,,REP,Alma Marie Winston,3
 Butte,3210,Governor,,REP,Andrew Blount,19
 Butte,3210,Governor,,PAF,Cindy L. Sheehan,17
 Butte,3210,Governor,,DEM,"Edmund G. ""Jerry"" Brown",324
 Butte,3210,Governor,,REP,Glenn Champ,6
-Butte,3210,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3210,Governor,,IND,Joe Leicht,0
 Butte,3210,Governor,,GRN,Luis J. Rodriguez,17
 Butte,3210,Governor,,REP,Neel Kashkari,82
 Butte,3210,Governor,,IND,Rakesh Kumar Christian,1
-Butte,3210,Governor,,REP,Richard William Aguirre,0
 Butte,3210,Governor,,IND,Robert Newman,5
 Butte,3210,Governor,,REP,Tim Donnelly,76
 Butte,3210,Insurance Commissioner,,DEM,Dave Jones,280
@@ -4384,6 +4283,10 @@ Butte,3210,Lieutenant Governor,,DEM,Gavin Newsom,294
 Butte,3210,Lieutenant Governor,,REP,George Yang,40
 Butte,3210,Lieutenant Governor,,GRN,Jena F. Goodman,19
 Butte,3210,Lieutenant Governor,,REP,Ron Nehring,83
+Butte,3210,Proposition 41,,,No,155
+Butte,3210,Proposition 41,,,Yes,389
+Butte,3210,Proposition 42,,,No,213
+Butte,3210,Proposition 42,,,Yes,312
 Butte,3210,Secretary of State,,DEM,Alex Padilla,161
 Butte,3210,Secretary of State,,IND,Dan Schnur,48
 Butte,3210,Secretary of State,,GRN,David Curtis,39
@@ -4423,7 +4326,6 @@ Butte,3211,Controller,,DEM,John A. Pérez,52
 Butte,3211,Controller,,GRN,Laura Wells,29
 Butte,3211,Controller,,DEM,Tammy D. Blair,32
 Butte,3211,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,3211,Governor,,DEM,Akinyemi Agbede,0
 Butte,3211,Governor,,REP,Alma Marie Winston,3
 Butte,3211,Governor,,REP,Andrew Blount,19
 Butte,3211,Governor,,PAF,Cindy L. Sheehan,4
@@ -4448,6 +4350,10 @@ Butte,3211,Lieutenant Governor,,DEM,Gavin Newsom,125
 Butte,3211,Lieutenant Governor,,REP,George Yang,21
 Butte,3211,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Butte,3211,Lieutenant Governor,,REP,Ron Nehring,63
+Butte,3211,Proposition 41,,,No,98
+Butte,3211,Proposition 41,,,Yes,207
+Butte,3211,Proposition 42,,,No,141
+Butte,3211,Proposition 42,,,Yes,159
 Butte,3211,Secretary of State,,DEM,Alex Padilla,72
 Butte,3211,Secretary of State,,IND,Dan Schnur,24
 Butte,3211,Secretary of State,,GRN,David Curtis,18
@@ -4497,7 +4403,6 @@ Butte,3212,Governor,,IND,Janel Hyeshia Buycks,2
 Butte,3212,Governor,,IND,Joe Leicht,3
 Butte,3212,Governor,,GRN,Luis J. Rodriguez,8
 Butte,3212,Governor,,REP,Neel Kashkari,83
-Butte,3212,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3212,Governor,,REP,Richard William Aguirre,2
 Butte,3212,Governor,,IND,Robert Newman,5
 Butte,3212,Governor,,REP,Tim Donnelly,68
@@ -4512,6 +4417,10 @@ Butte,3212,Lieutenant Governor,,DEM,Gavin Newsom,158
 Butte,3212,Lieutenant Governor,,REP,George Yang,35
 Butte,3212,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,3212,Lieutenant Governor,,REP,Ron Nehring,74
+Butte,3212,Proposition 41,,,No,145
+Butte,3212,Proposition 41,,,Yes,242
+Butte,3212,Proposition 42,,,No,178
+Butte,3212,Proposition 42,,,Yes,202
 Butte,3212,Secretary of State,,DEM,Alex Padilla,93
 Butte,3212,Secretary of State,,IND,Dan Schnur,40
 Butte,3212,Secretary of State,,GRN,David Curtis,24
@@ -4576,6 +4485,10 @@ Butte,3213,Lieutenant Governor,,DEM,Gavin Newsom,123
 Butte,3213,Lieutenant Governor,,REP,George Yang,25
 Butte,3213,Lieutenant Governor,,GRN,Jena F. Goodman,22
 Butte,3213,Lieutenant Governor,,REP,Ron Nehring,57
+Butte,3213,Proposition 41,,,No,104
+Butte,3213,Proposition 41,,,Yes,213
+Butte,3213,Proposition 42,,,No,163
+Butte,3213,Proposition 42,,,Yes,147
 Butte,3213,Secretary of State,,DEM,Alex Padilla,72
 Butte,3213,Secretary of State,,IND,Dan Schnur,27
 Butte,3213,Secretary of State,,GRN,David Curtis,18
@@ -4614,19 +4527,15 @@ Butte,3214,Controller,,REP,David Evans,58
 Butte,3214,Controller,,DEM,John A. Pérez,49
 Butte,3214,Controller,,GRN,Laura Wells,20
 Butte,3214,Controller,,DEM,Tammy D. Blair,23
-Butte,3214,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3214,Governor,,DEM,Akinyemi Agbede,0
 Butte,3214,Governor,,REP,Alma Marie Winston,1
 Butte,3214,Governor,,REP,Andrew Blount,7
 Butte,3214,Governor,,PAF,Cindy L. Sheehan,3
 Butte,3214,Governor,,DEM,"Edmund G. ""Jerry"" Brown",185
 Butte,3214,Governor,,REP,Glenn Champ,4
-Butte,3214,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,3214,Governor,,IND,Joe Leicht,2
 Butte,3214,Governor,,GRN,Luis J. Rodriguez,2
 Butte,3214,Governor,,REP,Neel Kashkari,52
 Butte,3214,Governor,,IND,Rakesh Kumar Christian,1
-Butte,3214,Governor,,REP,Richard William Aguirre,0
 Butte,3214,Governor,,IND,Robert Newman,4
 Butte,3214,Governor,,REP,Tim Donnelly,43
 Butte,3214,Insurance Commissioner,,DEM,Dave Jones,159
@@ -4640,6 +4549,10 @@ Butte,3214,Lieutenant Governor,,DEM,Gavin Newsom,165
 Butte,3214,Lieutenant Governor,,REP,George Yang,23
 Butte,3214,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,3214,Lieutenant Governor,,REP,Ron Nehring,45
+Butte,3214,Proposition 41,,,No,99
+Butte,3214,Proposition 41,,,Yes,197
+Butte,3214,Proposition 42,,,No,114
+Butte,3214,Proposition 42,,,Yes,179
 Butte,3214,Secretary of State,,DEM,Alex Padilla,96
 Butte,3214,Secretary of State,,IND,Dan Schnur,23
 Butte,3214,Secretary of State,,GRN,David Curtis,8
@@ -4685,11 +4598,9 @@ Butte,3215,Governor,,REP,Andrew Blount,10
 Butte,3215,Governor,,PAF,Cindy L. Sheehan,5
 Butte,3215,Governor,,DEM,"Edmund G. ""Jerry"" Brown",279
 Butte,3215,Governor,,REP,Glenn Champ,13
-Butte,3215,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,3215,Governor,,IND,Joe Leicht,5
 Butte,3215,Governor,,GRN,Luis J. Rodriguez,7
 Butte,3215,Governor,,REP,Neel Kashkari,135
-Butte,3215,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3215,Governor,,REP,Richard William Aguirre,3
 Butte,3215,Governor,,IND,Robert Newman,5
 Butte,3215,Governor,,REP,Tim Donnelly,101
@@ -4704,6 +4615,10 @@ Butte,3215,Lieutenant Governor,,DEM,Gavin Newsom,232
 Butte,3215,Lieutenant Governor,,REP,George Yang,40
 Butte,3215,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Butte,3215,Lieutenant Governor,,REP,Ron Nehring,117
+Butte,3215,Proposition 41,,,No,206
+Butte,3215,Proposition 41,,,Yes,346
+Butte,3215,Proposition 42,,,No,257
+Butte,3215,Proposition 42,,,Yes,273
 Butte,3215,Secretary of State,,DEM,Alex Padilla,115
 Butte,3215,Secretary of State,,IND,Dan Schnur,72
 Butte,3215,Secretary of State,,GRN,David Curtis,15
@@ -4744,13 +4659,11 @@ Butte,3216,Controller,,GRN,Laura Wells,23
 Butte,3216,Controller,,DEM,Tammy D. Blair,26
 Butte,3216,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Butte,3216,Governor,,DEM,Akinyemi Agbede,2
-Butte,3216,Governor,,REP,Alma Marie Winston,0
 Butte,3216,Governor,,REP,Andrew Blount,7
 Butte,3216,Governor,,PAF,Cindy L. Sheehan,5
 Butte,3216,Governor,,DEM,"Edmund G. ""Jerry"" Brown",121
 Butte,3216,Governor,,REP,Glenn Champ,2
 Butte,3216,Governor,,IND,Janel Hyeshia Buycks,3
-Butte,3216,Governor,,IND,Joe Leicht,0
 Butte,3216,Governor,,GRN,Luis J. Rodriguez,4
 Butte,3216,Governor,,REP,Neel Kashkari,45
 Butte,3216,Governor,,IND,Rakesh Kumar Christian,1
@@ -4768,6 +4681,10 @@ Butte,3216,Lieutenant Governor,,DEM,Gavin Newsom,88
 Butte,3216,Lieutenant Governor,,REP,George Yang,26
 Butte,3216,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,3216,Lieutenant Governor,,REP,Ron Nehring,48
+Butte,3216,Proposition 41,,,No,75
+Butte,3216,Proposition 41,,,Yes,165
+Butte,3216,Proposition 42,,,No,87
+Butte,3216,Proposition 42,,,Yes,140
 Butte,3216,Secretary of State,,DEM,Alex Padilla,58
 Butte,3216,Secretary of State,,IND,Dan Schnur,29
 Butte,3216,Secretary of State,,GRN,David Curtis,18
@@ -4807,17 +4724,14 @@ Butte,3801,Controller,,DEM,John A. Pérez,39
 Butte,3801,Controller,,GRN,Laura Wells,29
 Butte,3801,Controller,,DEM,Tammy D. Blair,39
 Butte,3801,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Butte,3801,Governor,,DEM,Akinyemi Agbede,0
 Butte,3801,Governor,,REP,Alma Marie Winston,2
 Butte,3801,Governor,,REP,Andrew Blount,17
 Butte,3801,Governor,,PAF,Cindy L. Sheehan,5
 Butte,3801,Governor,,DEM,"Edmund G. ""Jerry"" Brown",150
 Butte,3801,Governor,,REP,Glenn Champ,9
 Butte,3801,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,3801,Governor,,IND,Joe Leicht,0
 Butte,3801,Governor,,GRN,Luis J. Rodriguez,2
 Butte,3801,Governor,,REP,Neel Kashkari,71
-Butte,3801,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3801,Governor,,REP,Richard William Aguirre,3
 Butte,3801,Governor,,IND,Robert Newman,5
 Butte,3801,Governor,,REP,Tim Donnelly,81
@@ -4832,6 +4746,10 @@ Butte,3801,Lieutenant Governor,,DEM,Gavin Newsom,113
 Butte,3801,Lieutenant Governor,,REP,George Yang,37
 Butte,3801,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,3801,Lieutenant Governor,,REP,Ron Nehring,67
+Butte,3801,Proposition 41,,,No,142
+Butte,3801,Proposition 41,,,Yes,203
+Butte,3801,Proposition 42,,,No,191
+Butte,3801,Proposition 42,,,Yes,149
 Butte,3801,Secretary of State,,DEM,Alex Padilla,73
 Butte,3801,Secretary of State,,IND,Dan Schnur,25
 Butte,3801,Secretary of State,,GRN,David Curtis,15
@@ -4896,6 +4814,10 @@ Butte,3802,Lieutenant Governor,,DEM,Gavin Newsom,172
 Butte,3802,Lieutenant Governor,,REP,George Yang,48
 Butte,3802,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Butte,3802,Lieutenant Governor,,REP,Ron Nehring,81
+Butte,3802,Proposition 41,,,No,163
+Butte,3802,Proposition 41,,,Yes,235
+Butte,3802,Proposition 42,,,No,176
+Butte,3802,Proposition 42,,,Yes,214
 Butte,3802,Secretary of State,,DEM,Alex Padilla,83
 Butte,3802,Secretary of State,,IND,Dan Schnur,41
 Butte,3802,Secretary of State,,GRN,David Curtis,22
@@ -4918,68 +4840,19 @@ Butte,3802,U.S. House,1,DEM,Dan Levine,32
 Butte,3802,U.S. House,1,REP,Doug La Malfa,174
 Butte,3802,U.S. House,1,REP,Gregory Cheadle,35
 Butte,3802,U.S. House,1,DEM,Heidi Hall,158
-Butte,3901,Attorney General,,REP,David King,0
-Butte,3901,Attorney General,,REP,John Haggerty,0
-Butte,3901,Attorney General,,LIB,Jonathan Jaech,0
-Butte,3901,Attorney General,,DEM,Kamala D. Harris,0
 Butte,3901,Attorney General,,IND,Orly Taitz,1
-Butte,3901,Attorney General,,REP,Phil Wyman,0
-Butte,3901,Attorney General,,REP,Ronald Gold,0
-Butte,3901,Board of Equalization,1,DEM,Chris Parker,0
 Butte,3901,Board of Equalization,1,REP,George Runner,1
-Butte,3901,Controller,,REP,Ashley Swearengin,0
-Butte,3901,Controller,,DEM,Betty T. Yee,0
-Butte,3901,Controller,,REP,David Evans,0
-Butte,3901,Controller,,DEM,John A. Pérez,0
 Butte,3901,Controller,,GRN,Laura Wells,1
-Butte,3901,Controller,,DEM,Tammy D. Blair,0
-Butte,3901,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3901,Governor,,DEM,Akinyemi Agbede,0
-Butte,3901,Governor,,REP,Alma Marie Winston,0
-Butte,3901,Governor,,REP,Andrew Blount,0
-Butte,3901,Governor,,PAF,Cindy L. Sheehan,0
 Butte,3901,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
-Butte,3901,Governor,,REP,Glenn Champ,0
-Butte,3901,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3901,Governor,,IND,Joe Leicht,0
-Butte,3901,Governor,,GRN,Luis J. Rodriguez,0
-Butte,3901,Governor,,REP,Neel Kashkari,0
-Butte,3901,Governor,,IND,Rakesh Kumar Christian,0
-Butte,3901,Governor,,REP,Richard William Aguirre,0
-Butte,3901,Governor,,IND,Robert Newman,0
-Butte,3901,Governor,,REP,Tim Donnelly,0
 Butte,3901,Insurance Commissioner,,DEM,Dave Jones,1
-Butte,3901,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Butte,3901,Insurance Commissioner,,REP,Ted Gaines,0
-Butte,3901,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,3901,Lieutenant Governor,,PAF,Amos Johnson,0
-Butte,3901,Lieutenant Governor,,REP,David Fennell,0
-Butte,3901,Lieutenant Governor,,DEM,Eric Korevaar,0
 Butte,3901,Lieutenant Governor,,DEM,Gavin Newsom,1
-Butte,3901,Lieutenant Governor,,REP,George Yang,0
-Butte,3901,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Butte,3901,Lieutenant Governor,,REP,Ron Nehring,0
-Butte,3901,Secretary of State,,DEM,Alex Padilla,0
-Butte,3901,Secretary of State,,IND,Dan Schnur,0
-Butte,3901,Secretary of State,,GRN,David Curtis,0
-Butte,3901,Secretary of State,,DEM,Derek Cressman,0
-Butte,3901,Secretary of State,,DEM,Jeffrey H. Drobman,0
+Butte,3901,Proposition 41,,,No,1
+Butte,3901,Proposition 42,,,No,1
 Butte,3901,Secretary of State,,DEM,Leland Yee,1
-Butte,3901,Secretary of State,,REP,Pete Peterson,0
-Butte,3901,Secretary of State,,REP,Roy Allmond,0
-Butte,3901,State Assembly,1,REP,Brian Dahle,0
 Butte,3901,State Assembly,1,DEM,Brigham Sawyer Smith,1
-Butte,3901,State Senate,4,DEM,CJ Jawahar,0
 Butte,3901,State Senate,4,REP,Jim Nielsen,1
-Butte,3901,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Butte,3901,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
 Butte,3901,Superintendent of Public Instruction,,NOP,Tom Torlakson,1
-Butte,3901,Treasurer,,GRN,Ellen H. Brown,0
-Butte,3901,Treasurer,,REP,Greg Conlon,0
 Butte,3901,Treasurer,,DEM,John Chiang,1
-Butte,3901,U.S. House,1,DEM,Dan Levine,0
-Butte,3901,U.S. House,1,REP,Doug La Malfa,0
-Butte,3901,U.S. House,1,REP,Gregory Cheadle,0
 Butte,3901,U.S. House,1,DEM,Heidi Hall,1
 Butte,3902,Attorney General,,REP,David King,6
 Butte,3902,Attorney General,,REP,John Haggerty,16
@@ -4996,20 +4869,11 @@ Butte,3902,Controller,,REP,David Evans,29
 Butte,3902,Controller,,DEM,John A. Pérez,14
 Butte,3902,Controller,,GRN,Laura Wells,7
 Butte,3902,Controller,,DEM,Tammy D. Blair,6
-Butte,3902,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3902,Governor,,DEM,Akinyemi Agbede,0
-Butte,3902,Governor,,REP,Alma Marie Winston,0
 Butte,3902,Governor,,REP,Andrew Blount,4
 Butte,3902,Governor,,PAF,Cindy L. Sheehan,2
 Butte,3902,Governor,,DEM,"Edmund G. ""Jerry"" Brown",52
-Butte,3902,Governor,,REP,Glenn Champ,0
-Butte,3902,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,3902,Governor,,IND,Joe Leicht,1
-Butte,3902,Governor,,GRN,Luis J. Rodriguez,0
 Butte,3902,Governor,,REP,Neel Kashkari,25
-Butte,3902,Governor,,IND,Rakesh Kumar Christian,0
-Butte,3902,Governor,,REP,Richard William Aguirre,0
-Butte,3902,Governor,,IND,Robert Newman,0
 Butte,3902,Governor,,REP,Tim Donnelly,17
 Butte,3902,Insurance Commissioner,,DEM,Dave Jones,34
 Butte,3902,Insurance Commissioner,,PAF,Nathalie Hrizi,6
@@ -5022,6 +4886,10 @@ Butte,3902,Lieutenant Governor,,DEM,Gavin Newsom,43
 Butte,3902,Lieutenant Governor,,REP,George Yang,4
 Butte,3902,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,3902,Lieutenant Governor,,REP,Ron Nehring,24
+Butte,3902,Proposition 41,,,No,42
+Butte,3902,Proposition 41,,,Yes,58
+Butte,3902,Proposition 42,,,No,45
+Butte,3902,Proposition 42,,,Yes,51
 Butte,3902,Secretary of State,,DEM,Alex Padilla,26
 Butte,3902,Secretary of State,,IND,Dan Schnur,10
 Butte,3902,Secretary of State,,GRN,David Curtis,5
@@ -5061,31 +4929,24 @@ Butte,3903,Controller,,DEM,John A. Pérez,11
 Butte,3903,Controller,,GRN,Laura Wells,4
 Butte,3903,Controller,,DEM,Tammy D. Blair,3
 Butte,3903,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,3903,Governor,,DEM,Akinyemi Agbede,0
-Butte,3903,Governor,,REP,Alma Marie Winston,0
 Butte,3903,Governor,,REP,Andrew Blount,2
-Butte,3903,Governor,,PAF,Cindy L. Sheehan,0
 Butte,3903,Governor,,DEM,"Edmund G. ""Jerry"" Brown",52
 Butte,3903,Governor,,REP,Glenn Champ,2
-Butte,3903,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3903,Governor,,IND,Joe Leicht,0
-Butte,3903,Governor,,GRN,Luis J. Rodriguez,0
 Butte,3903,Governor,,REP,Neel Kashkari,13
-Butte,3903,Governor,,IND,Rakesh Kumar Christian,0
-Butte,3903,Governor,,REP,Richard William Aguirre,0
-Butte,3903,Governor,,IND,Robert Newman,0
 Butte,3903,Governor,,REP,Tim Donnelly,12
 Butte,3903,Insurance Commissioner,,DEM,Dave Jones,49
 Butte,3903,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Butte,3903,Insurance Commissioner,,REP,Ted Gaines,31
 Butte,3903,Lieutenant Governor,,AME,Alan Reynolds,1
-Butte,3903,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,3903,Lieutenant Governor,,REP,David Fennell,11
 Butte,3903,Lieutenant Governor,,DEM,Eric Korevaar,7
 Butte,3903,Lieutenant Governor,,DEM,Gavin Newsom,46
 Butte,3903,Lieutenant Governor,,REP,George Yang,5
-Butte,3903,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,3903,Lieutenant Governor,,REP,Ron Nehring,10
+Butte,3903,Proposition 41,,,No,27
+Butte,3903,Proposition 41,,,Yes,51
+Butte,3903,Proposition 42,,,No,31
+Butte,3903,Proposition 42,,,Yes,42
 Butte,3903,Secretary of State,,DEM,Alex Padilla,31
 Butte,3903,Secretary of State,,IND,Dan Schnur,11
 Butte,3903,Secretary of State,,GRN,David Curtis,3
@@ -5125,13 +4986,11 @@ Butte,3904,Controller,,DEM,John A. Pérez,9
 Butte,3904,Controller,,GRN,Laura Wells,32
 Butte,3904,Controller,,DEM,Tammy D. Blair,1
 Butte,3904,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Butte,3904,Governor,,DEM,Akinyemi Agbede,0
 Butte,3904,Governor,,REP,Alma Marie Winston,2
 Butte,3904,Governor,,REP,Andrew Blount,3
 Butte,3904,Governor,,PAF,Cindy L. Sheehan,8
 Butte,3904,Governor,,DEM,"Edmund G. ""Jerry"" Brown",61
 Butte,3904,Governor,,REP,Glenn Champ,7
-Butte,3904,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,3904,Governor,,IND,Joe Leicht,1
 Butte,3904,Governor,,GRN,Luis J. Rodriguez,3
 Butte,3904,Governor,,REP,Neel Kashkari,18
@@ -5150,6 +5009,10 @@ Butte,3904,Lieutenant Governor,,DEM,Gavin Newsom,58
 Butte,3904,Lieutenant Governor,,REP,George Yang,8
 Butte,3904,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,3904,Lieutenant Governor,,REP,Ron Nehring,28
+Butte,3904,Proposition 41,,,No,51
+Butte,3904,Proposition 41,,,Yes,79
+Butte,3904,Proposition 42,,,No,65
+Butte,3904,Proposition 42,,,Yes,61
 Butte,3904,Secretary of State,,DEM,Alex Padilla,19
 Butte,3904,Secretary of State,,IND,Dan Schnur,13
 Butte,3904,Secretary of State,,GRN,David Curtis,16
@@ -5172,7 +5035,6 @@ Butte,3904,U.S. House,1,DEM,Dan Levine,16
 Butte,3904,U.S. House,1,REP,Doug La Malfa,47
 Butte,3904,U.S. House,1,REP,Gregory Cheadle,13
 Butte,3904,U.S. House,1,DEM,Heidi Hall,60
-Butte,3905,Attorney General,,REP,David King,0
 Butte,3905,Attorney General,,REP,John Haggerty,5
 Butte,3905,Attorney General,,LIB,Jonathan Jaech,3
 Butte,3905,Attorney General,,DEM,Kamala D. Harris,19
@@ -5187,18 +5049,12 @@ Butte,3905,Controller,,REP,David Evans,10
 Butte,3905,Controller,,DEM,John A. Pérez,4
 Butte,3905,Controller,,GRN,Laura Wells,11
 Butte,3905,Controller,,DEM,Tammy D. Blair,2
-Butte,3905,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3905,Governor,,DEM,Akinyemi Agbede,0
-Butte,3905,Governor,,REP,Alma Marie Winston,0
 Butte,3905,Governor,,REP,Andrew Blount,1
 Butte,3905,Governor,,PAF,Cindy L. Sheehan,3
 Butte,3905,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Butte,3905,Governor,,REP,Glenn Champ,1
-Butte,3905,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3905,Governor,,IND,Joe Leicht,0
 Butte,3905,Governor,,GRN,Luis J. Rodriguez,2
 Butte,3905,Governor,,REP,Neel Kashkari,5
-Butte,3905,Governor,,IND,Rakesh Kumar Christian,0
 Butte,3905,Governor,,REP,Richard William Aguirre,1
 Butte,3905,Governor,,IND,Robert Newman,2
 Butte,3905,Governor,,REP,Tim Donnelly,10
@@ -5213,6 +5069,10 @@ Butte,3905,Lieutenant Governor,,DEM,Gavin Newsom,18
 Butte,3905,Lieutenant Governor,,REP,George Yang,3
 Butte,3905,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,3905,Lieutenant Governor,,REP,Ron Nehring,9
+Butte,3905,Proposition 41,,,No,21
+Butte,3905,Proposition 41,,,Yes,27
+Butte,3905,Proposition 42,,,No,20
+Butte,3905,Proposition 42,,,Yes,27
 Butte,3905,Secretary of State,,DEM,Alex Padilla,8
 Butte,3905,Secretary of State,,IND,Dan Schnur,3
 Butte,3905,Secretary of State,,GRN,David Curtis,5
@@ -5250,32 +5110,28 @@ Butte,3906,Controller,,REP,David Evans,29
 Butte,3906,Controller,,DEM,John A. Pérez,13
 Butte,3906,Controller,,GRN,Laura Wells,3
 Butte,3906,Controller,,DEM,Tammy D. Blair,3
-Butte,3906,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3906,Governor,,DEM,Akinyemi Agbede,0
 Butte,3906,Governor,,REP,Alma Marie Winston,3
 Butte,3906,Governor,,REP,Andrew Blount,1
-Butte,3906,Governor,,PAF,Cindy L. Sheehan,0
 Butte,3906,Governor,,DEM,"Edmund G. ""Jerry"" Brown",42
 Butte,3906,Governor,,REP,Glenn Champ,2
 Butte,3906,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,3906,Governor,,IND,Joe Leicht,1
-Butte,3906,Governor,,GRN,Luis J. Rodriguez,0
 Butte,3906,Governor,,REP,Neel Kashkari,19
-Butte,3906,Governor,,IND,Rakesh Kumar Christian,0
-Butte,3906,Governor,,REP,Richard William Aguirre,0
 Butte,3906,Governor,,IND,Robert Newman,1
 Butte,3906,Governor,,REP,Tim Donnelly,27
 Butte,3906,Insurance Commissioner,,DEM,Dave Jones,38
 Butte,3906,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Butte,3906,Insurance Commissioner,,REP,Ted Gaines,54
 Butte,3906,Lieutenant Governor,,AME,Alan Reynolds,1
-Butte,3906,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,3906,Lieutenant Governor,,REP,David Fennell,10
 Butte,3906,Lieutenant Governor,,DEM,Eric Korevaar,6
 Butte,3906,Lieutenant Governor,,DEM,Gavin Newsom,40
 Butte,3906,Lieutenant Governor,,REP,George Yang,8
-Butte,3906,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,3906,Lieutenant Governor,,REP,Ron Nehring,30
+Butte,3906,Proposition 41,,,No,44
+Butte,3906,Proposition 41,,,Yes,53
+Butte,3906,Proposition 42,,,No,41
+Butte,3906,Proposition 42,,,Yes,48
 Butte,3906,Secretary of State,,DEM,Alex Padilla,21
 Butte,3906,Secretary of State,,IND,Dan Schnur,8
 Butte,3906,Secretary of State,,GRN,David Curtis,1
@@ -5300,10 +5156,7 @@ Butte,3906,U.S. House,1,REP,Gregory Cheadle,9
 Butte,3906,U.S. House,1,DEM,Heidi Hall,35
 Butte,3907,Attorney General,,REP,David King,2
 Butte,3907,Attorney General,,REP,John Haggerty,4
-Butte,3907,Attorney General,,LIB,Jonathan Jaech,0
 Butte,3907,Attorney General,,DEM,Kamala D. Harris,5
-Butte,3907,Attorney General,,IND,Orly Taitz,0
-Butte,3907,Attorney General,,REP,Phil Wyman,0
 Butte,3907,Attorney General,,REP,Ronald Gold,4
 Butte,3907,Board of Equalization,1,DEM,Chris Parker,5
 Butte,3907,Board of Equalization,1,REP,George Runner,11
@@ -5312,38 +5165,22 @@ Butte,3907,Controller,,DEM,Betty T. Yee,3
 Butte,3907,Controller,,REP,David Evans,5
 Butte,3907,Controller,,DEM,John A. Pérez,2
 Butte,3907,Controller,,GRN,Laura Wells,1
-Butte,3907,Controller,,DEM,Tammy D. Blair,0
-Butte,3907,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,3907,Governor,,DEM,Akinyemi Agbede,0
-Butte,3907,Governor,,REP,Alma Marie Winston,0
-Butte,3907,Governor,,REP,Andrew Blount,0
-Butte,3907,Governor,,PAF,Cindy L. Sheehan,0
 Butte,3907,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
 Butte,3907,Governor,,REP,Glenn Champ,2
-Butte,3907,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,3907,Governor,,IND,Joe Leicht,0
-Butte,3907,Governor,,GRN,Luis J. Rodriguez,0
 Butte,3907,Governor,,REP,Neel Kashkari,6
-Butte,3907,Governor,,IND,Rakesh Kumar Christian,0
-Butte,3907,Governor,,REP,Richard William Aguirre,0
-Butte,3907,Governor,,IND,Robert Newman,0
 Butte,3907,Governor,,REP,Tim Donnelly,2
 Butte,3907,Insurance Commissioner,,DEM,Dave Jones,4
-Butte,3907,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Butte,3907,Insurance Commissioner,,REP,Ted Gaines,10
-Butte,3907,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,3907,Lieutenant Governor,,PAF,Amos Johnson,0
-Butte,3907,Lieutenant Governor,,REP,David Fennell,0
-Butte,3907,Lieutenant Governor,,DEM,Eric Korevaar,0
 Butte,3907,Lieutenant Governor,,DEM,Gavin Newsom,6
 Butte,3907,Lieutenant Governor,,REP,George Yang,3
-Butte,3907,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,3907,Lieutenant Governor,,REP,Ron Nehring,7
+Butte,3907,Proposition 41,,,No,4
+Butte,3907,Proposition 41,,,Yes,9
+Butte,3907,Proposition 42,,,No,11
+Butte,3907,Proposition 42,,,Yes,3
 Butte,3907,Secretary of State,,DEM,Alex Padilla,2
 Butte,3907,Secretary of State,,IND,Dan Schnur,3
-Butte,3907,Secretary of State,,GRN,David Curtis,0
 Butte,3907,Secretary of State,,DEM,Derek Cressman,1
-Butte,3907,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Butte,3907,Secretary of State,,DEM,Leland Yee,1
 Butte,3907,Secretary of State,,REP,Pete Peterson,6
 Butte,3907,Secretary of State,,REP,Roy Allmond,1
@@ -5376,19 +5213,15 @@ Butte,4201,Controller,,REP,David Evans,23
 Butte,4201,Controller,,DEM,John A. Pérez,6
 Butte,4201,Controller,,GRN,Laura Wells,11
 Butte,4201,Controller,,DEM,Tammy D. Blair,12
-Butte,4201,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,4201,Governor,,DEM,Akinyemi Agbede,0
 Butte,4201,Governor,,REP,Alma Marie Winston,2
 Butte,4201,Governor,,REP,Andrew Blount,3
 Butte,4201,Governor,,PAF,Cindy L. Sheehan,6
 Butte,4201,Governor,,DEM,"Edmund G. ""Jerry"" Brown",44
 Butte,4201,Governor,,REP,Glenn Champ,3
 Butte,4201,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,4201,Governor,,IND,Joe Leicht,0
 Butte,4201,Governor,,GRN,Luis J. Rodriguez,4
 Butte,4201,Governor,,REP,Neel Kashkari,10
 Butte,4201,Governor,,IND,Rakesh Kumar Christian,1
-Butte,4201,Governor,,REP,Richard William Aguirre,0
 Butte,4201,Governor,,IND,Robert Newman,2
 Butte,4201,Governor,,REP,Tim Donnelly,15
 Butte,4201,Insurance Commissioner,,DEM,Dave Jones,36
@@ -5402,6 +5235,10 @@ Butte,4201,Lieutenant Governor,,DEM,Gavin Newsom,32
 Butte,4201,Lieutenant Governor,,REP,George Yang,11
 Butte,4201,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Butte,4201,Lieutenant Governor,,REP,Ron Nehring,16
+Butte,4201,Proposition 41,,,No,25
+Butte,4201,Proposition 41,,,Yes,62
+Butte,4201,Proposition 42,,,No,35
+Butte,4201,Proposition 42,,,Yes,46
 Butte,4201,Secretary of State,,DEM,Alex Padilla,20
 Butte,4201,Secretary of State,,IND,Dan Schnur,9
 Butte,4201,Secretary of State,,GRN,David Curtis,8
@@ -5452,7 +5289,6 @@ Butte,4202,Governor,,IND,Joe Leicht,2
 Butte,4202,Governor,,GRN,Luis J. Rodriguez,31
 Butte,4202,Governor,,REP,Neel Kashkari,16
 Butte,4202,Governor,,IND,Rakesh Kumar Christian,1
-Butte,4202,Governor,,REP,Richard William Aguirre,0
 Butte,4202,Governor,,IND,Robert Newman,1
 Butte,4202,Governor,,REP,Tim Donnelly,33
 Butte,4202,Insurance Commissioner,,DEM,Dave Jones,177
@@ -5466,6 +5302,10 @@ Butte,4202,Lieutenant Governor,,DEM,Gavin Newsom,182
 Butte,4202,Lieutenant Governor,,REP,George Yang,13
 Butte,4202,Lieutenant Governor,,GRN,Jena F. Goodman,33
 Butte,4202,Lieutenant Governor,,REP,Ron Nehring,30
+Butte,4202,Proposition 41,,,No,76
+Butte,4202,Proposition 41,,,Yes,251
+Butte,4202,Proposition 42,,,No,125
+Butte,4202,Proposition 42,,,Yes,188
 Butte,4202,Secretary of State,,DEM,Alex Padilla,120
 Butte,4202,Secretary of State,,IND,Dan Schnur,12
 Butte,4202,Secretary of State,,GRN,David Curtis,55
@@ -5512,11 +5352,9 @@ Butte,4203,Governor,,PAF,Cindy L. Sheehan,8
 Butte,4203,Governor,,DEM,"Edmund G. ""Jerry"" Brown",144
 Butte,4203,Governor,,REP,Glenn Champ,8
 Butte,4203,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,4203,Governor,,IND,Joe Leicht,0
 Butte,4203,Governor,,GRN,Luis J. Rodriguez,4
 Butte,4203,Governor,,REP,Neel Kashkari,49
 Butte,4203,Governor,,IND,Rakesh Kumar Christian,1
-Butte,4203,Governor,,REP,Richard William Aguirre,0
 Butte,4203,Governor,,IND,Robert Newman,5
 Butte,4203,Governor,,REP,Tim Donnelly,69
 Butte,4203,Insurance Commissioner,,DEM,Dave Jones,136
@@ -5530,6 +5368,10 @@ Butte,4203,Lieutenant Governor,,DEM,Gavin Newsom,118
 Butte,4203,Lieutenant Governor,,REP,George Yang,24
 Butte,4203,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Butte,4203,Lieutenant Governor,,REP,Ron Nehring,66
+Butte,4203,Proposition 41,,,No,102
+Butte,4203,Proposition 41,,,Yes,194
+Butte,4203,Proposition 42,,,No,135
+Butte,4203,Proposition 42,,,Yes,153
 Butte,4203,Secretary of State,,DEM,Alex Padilla,59
 Butte,4203,Secretary of State,,IND,Dan Schnur,35
 Butte,4203,Secretary of State,,GRN,David Curtis,9
@@ -5594,6 +5436,10 @@ Butte,4204,Lieutenant Governor,,DEM,Gavin Newsom,196
 Butte,4204,Lieutenant Governor,,REP,George Yang,33
 Butte,4204,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Butte,4204,Lieutenant Governor,,REP,Ron Nehring,107
+Butte,4204,Proposition 41,,,No,161
+Butte,4204,Proposition 41,,,Yes,319
+Butte,4204,Proposition 42,,,No,204
+Butte,4204,Proposition 42,,,Yes,259
 Butte,4204,Secretary of State,,DEM,Alex Padilla,122
 Butte,4204,Secretary of State,,IND,Dan Schnur,57
 Butte,4204,Secretary of State,,GRN,David Curtis,27
@@ -5632,7 +5478,6 @@ Butte,4301,Controller,,REP,David Evans,143
 Butte,4301,Controller,,DEM,John A. Pérez,57
 Butte,4301,Controller,,GRN,Laura Wells,26
 Butte,4301,Controller,,DEM,Tammy D. Blair,34
-Butte,4301,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,4301,Governor,,DEM,Akinyemi Agbede,1
 Butte,4301,Governor,,REP,Alma Marie Winston,6
 Butte,4301,Governor,,REP,Andrew Blount,22
@@ -5640,7 +5485,6 @@ Butte,4301,Governor,,PAF,Cindy L. Sheehan,6
 Butte,4301,Governor,,DEM,"Edmund G. ""Jerry"" Brown",131
 Butte,4301,Governor,,REP,Glenn Champ,11
 Butte,4301,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,4301,Governor,,IND,Joe Leicht,0
 Butte,4301,Governor,,GRN,Luis J. Rodriguez,10
 Butte,4301,Governor,,REP,Neel Kashkari,116
 Butte,4301,Governor,,IND,Rakesh Kumar Christian,2
@@ -5658,6 +5502,10 @@ Butte,4301,Lieutenant Governor,,DEM,Gavin Newsom,104
 Butte,4301,Lieutenant Governor,,REP,George Yang,39
 Butte,4301,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Butte,4301,Lieutenant Governor,,REP,Ron Nehring,105
+Butte,4301,Proposition 41,,,No,182
+Butte,4301,Proposition 41,,,Yes,213
+Butte,4301,Proposition 42,,,No,205
+Butte,4301,Proposition 42,,,Yes,177
 Butte,4301,Secretary of State,,DEM,Alex Padilla,84
 Butte,4301,Secretary of State,,IND,Dan Schnur,42
 Butte,4301,Secretary of State,,GRN,David Curtis,15
@@ -5722,6 +5570,10 @@ Butte,4302,Lieutenant Governor,,DEM,Gavin Newsom,74
 Butte,4302,Lieutenant Governor,,REP,George Yang,19
 Butte,4302,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,4302,Lieutenant Governor,,REP,Ron Nehring,80
+Butte,4302,Proposition 41,,,No,136
+Butte,4302,Proposition 41,,,Yes,144
+Butte,4302,Proposition 42,,,No,152
+Butte,4302,Proposition 42,,,Yes,125
 Butte,4302,Secretary of State,,DEM,Alex Padilla,74
 Butte,4302,Secretary of State,,IND,Dan Schnur,33
 Butte,4302,Secretary of State,,GRN,David Curtis,7
@@ -5761,7 +5613,6 @@ Butte,4401,Controller,,DEM,John A. Pérez,24
 Butte,4401,Controller,,GRN,Laura Wells,7
 Butte,4401,Controller,,DEM,Tammy D. Blair,19
 Butte,4401,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,4401,Governor,,DEM,Akinyemi Agbede,0
 Butte,4401,Governor,,REP,Alma Marie Winston,2
 Butte,4401,Governor,,REP,Andrew Blount,8
 Butte,4401,Governor,,PAF,Cindy L. Sheehan,1
@@ -5772,8 +5623,6 @@ Butte,4401,Governor,,IND,Joe Leicht,1
 Butte,4401,Governor,,GRN,Luis J. Rodriguez,2
 Butte,4401,Governor,,REP,Neel Kashkari,35
 Butte,4401,Governor,,IND,Rakesh Kumar Christian,1
-Butte,4401,Governor,,REP,Richard William Aguirre,0
-Butte,4401,Governor,,IND,Robert Newman,0
 Butte,4401,Governor,,REP,Tim Donnelly,64
 Butte,4401,Insurance Commissioner,,DEM,Dave Jones,56
 Butte,4401,Insurance Commissioner,,PAF,Nathalie Hrizi,12
@@ -5786,6 +5635,10 @@ Butte,4401,Lieutenant Governor,,DEM,Gavin Newsom,51
 Butte,4401,Lieutenant Governor,,REP,George Yang,18
 Butte,4401,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Butte,4401,Lieutenant Governor,,REP,Ron Nehring,49
+Butte,4401,Proposition 41,,,No,89
+Butte,4401,Proposition 41,,,Yes,90
+Butte,4401,Proposition 42,,,No,90
+Butte,4401,Proposition 42,,,Yes,85
 Butte,4401,Secretary of State,,DEM,Alex Padilla,32
 Butte,4401,Secretary of State,,IND,Dan Schnur,10
 Butte,4401,Secretary of State,,GRN,David Curtis,8
@@ -5824,7 +5677,6 @@ Butte,4801,Controller,,REP,David Evans,155
 Butte,4801,Controller,,DEM,John A. Pérez,75
 Butte,4801,Controller,,GRN,Laura Wells,16
 Butte,4801,Controller,,DEM,Tammy D. Blair,45
-Butte,4801,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,4801,Governor,,DEM,Akinyemi Agbede,5
 Butte,4801,Governor,,REP,Alma Marie Winston,5
 Butte,4801,Governor,,REP,Andrew Blount,17
@@ -5835,7 +5687,6 @@ Butte,4801,Governor,,IND,Janel Hyeshia Buycks,4
 Butte,4801,Governor,,IND,Joe Leicht,1
 Butte,4801,Governor,,GRN,Luis J. Rodriguez,1
 Butte,4801,Governor,,REP,Neel Kashkari,91
-Butte,4801,Governor,,IND,Rakesh Kumar Christian,0
 Butte,4801,Governor,,REP,Richard William Aguirre,2
 Butte,4801,Governor,,IND,Robert Newman,9
 Butte,4801,Governor,,REP,Tim Donnelly,107
@@ -5850,6 +5701,10 @@ Butte,4801,Lieutenant Governor,,DEM,Gavin Newsom,147
 Butte,4801,Lieutenant Governor,,REP,George Yang,36
 Butte,4801,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,4801,Lieutenant Governor,,REP,Ron Nehring,131
+Butte,4801,Proposition 41,,,No,179
+Butte,4801,Proposition 41,,,Yes,266
+Butte,4801,Proposition 42,,,No,213
+Butte,4801,Proposition 42,,,Yes,221
 Butte,4801,Secretary of State,,DEM,Alex Padilla,112
 Butte,4801,Secretary of State,,IND,Dan Schnur,58
 Butte,4801,Secretary of State,,GRN,David Curtis,13
@@ -5914,6 +5769,10 @@ Butte,4802,Lieutenant Governor,,DEM,Gavin Newsom,126
 Butte,4802,Lieutenant Governor,,REP,George Yang,48
 Butte,4802,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,4802,Lieutenant Governor,,REP,Ron Nehring,95
+Butte,4802,Proposition 41,,,No,171
+Butte,4802,Proposition 41,,,Yes,232
+Butte,4802,Proposition 42,,,No,219
+Butte,4802,Proposition 42,,,Yes,182
 Butte,4802,Secretary of State,,DEM,Alex Padilla,97
 Butte,4802,Secretary of State,,IND,Dan Schnur,56
 Butte,4802,Secretary of State,,GRN,David Curtis,17
@@ -5952,8 +5811,6 @@ Butte,4803,Controller,,REP,David Evans,134
 Butte,4803,Controller,,DEM,John A. Pérez,24
 Butte,4803,Controller,,GRN,Laura Wells,10
 Butte,4803,Controller,,DEM,Tammy D. Blair,27
-Butte,4803,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,4803,Governor,,DEM,Akinyemi Agbede,0
 Butte,4803,Governor,,REP,Alma Marie Winston,1
 Butte,4803,Governor,,REP,Andrew Blount,14
 Butte,4803,Governor,,PAF,Cindy L. Sheehan,1
@@ -5978,6 +5835,10 @@ Butte,4803,Lieutenant Governor,,DEM,Gavin Newsom,71
 Butte,4803,Lieutenant Governor,,REP,George Yang,32
 Butte,4803,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,4803,Lieutenant Governor,,REP,Ron Nehring,103
+Butte,4803,Proposition 41,,,No,157
+Butte,4803,Proposition 41,,,Yes,160
+Butte,4803,Proposition 42,,,No,185
+Butte,4803,Proposition 42,,,Yes,118
 Butte,4803,Secretary of State,,DEM,Alex Padilla,42
 Butte,4803,Secretary of State,,IND,Dan Schnur,45
 Butte,4803,Secretary of State,,GRN,David Curtis,8
@@ -6016,7 +5877,6 @@ Butte,4804,Controller,,REP,David Evans,180
 Butte,4804,Controller,,DEM,John A. Pérez,21
 Butte,4804,Controller,,GRN,Laura Wells,13
 Butte,4804,Controller,,DEM,Tammy D. Blair,23
-Butte,4804,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,4804,Governor,,DEM,Akinyemi Agbede,1
 Butte,4804,Governor,,REP,Alma Marie Winston,5
 Butte,4804,Governor,,REP,Andrew Blount,15
@@ -6024,10 +5884,7 @@ Butte,4804,Governor,,PAF,Cindy L. Sheehan,3
 Butte,4804,Governor,,DEM,"Edmund G. ""Jerry"" Brown",83
 Butte,4804,Governor,,REP,Glenn Champ,13
 Butte,4804,Governor,,IND,Janel Hyeshia Buycks,3
-Butte,4804,Governor,,IND,Joe Leicht,0
-Butte,4804,Governor,,GRN,Luis J. Rodriguez,0
 Butte,4804,Governor,,REP,Neel Kashkari,181
-Butte,4804,Governor,,IND,Rakesh Kumar Christian,0
 Butte,4804,Governor,,REP,Richard William Aguirre,2
 Butte,4804,Governor,,IND,Robert Newman,10
 Butte,4804,Governor,,REP,Tim Donnelly,153
@@ -6042,6 +5899,10 @@ Butte,4804,Lieutenant Governor,,DEM,Gavin Newsom,71
 Butte,4804,Lieutenant Governor,,REP,George Yang,50
 Butte,4804,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Butte,4804,Lieutenant Governor,,REP,Ron Nehring,167
+Butte,4804,Proposition 41,,,No,254
+Butte,4804,Proposition 41,,,Yes,203
+Butte,4804,Proposition 42,,,No,246
+Butte,4804,Proposition 42,,,Yes,203
 Butte,4804,Secretary of State,,DEM,Alex Padilla,45
 Butte,4804,Secretary of State,,IND,Dan Schnur,79
 Butte,4804,Secretary of State,,GRN,David Curtis,7
@@ -6081,7 +5942,6 @@ Butte,4805,Controller,,DEM,John A. Pérez,39
 Butte,4805,Controller,,GRN,Laura Wells,26
 Butte,4805,Controller,,DEM,Tammy D. Blair,45
 Butte,4805,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,4805,Governor,,DEM,Akinyemi Agbede,0
 Butte,4805,Governor,,REP,Alma Marie Winston,3
 Butte,4805,Governor,,REP,Andrew Blount,21
 Butte,4805,Governor,,PAF,Cindy L. Sheehan,5
@@ -6106,6 +5966,10 @@ Butte,4805,Lieutenant Governor,,DEM,Gavin Newsom,119
 Butte,4805,Lieutenant Governor,,REP,George Yang,59
 Butte,4805,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,4805,Lieutenant Governor,,REP,Ron Nehring,154
+Butte,4805,Proposition 41,,,No,251
+Butte,4805,Proposition 41,,,Yes,230
+Butte,4805,Proposition 42,,,No,256
+Butte,4805,Proposition 42,,,Yes,208
 Butte,4805,Secretary of State,,DEM,Alex Padilla,66
 Butte,4805,Secretary of State,,IND,Dan Schnur,66
 Butte,4805,Secretary of State,,GRN,David Curtis,13
@@ -6145,17 +6009,13 @@ Butte,4806,Controller,,DEM,John A. Pérez,60
 Butte,4806,Controller,,GRN,Laura Wells,28
 Butte,4806,Controller,,DEM,Tammy D. Blair,30
 Butte,4806,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Butte,4806,Governor,,DEM,Akinyemi Agbede,0
 Butte,4806,Governor,,REP,Alma Marie Winston,2
 Butte,4806,Governor,,REP,Andrew Blount,21
 Butte,4806,Governor,,PAF,Cindy L. Sheehan,4
 Butte,4806,Governor,,DEM,"Edmund G. ""Jerry"" Brown",177
 Butte,4806,Governor,,REP,Glenn Champ,11
-Butte,4806,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,4806,Governor,,IND,Joe Leicht,0
 Butte,4806,Governor,,GRN,Luis J. Rodriguez,7
 Butte,4806,Governor,,REP,Neel Kashkari,141
-Butte,4806,Governor,,IND,Rakesh Kumar Christian,0
 Butte,4806,Governor,,REP,Richard William Aguirre,1
 Butte,4806,Governor,,IND,Robert Newman,6
 Butte,4806,Governor,,REP,Tim Donnelly,139
@@ -6170,6 +6030,10 @@ Butte,4806,Lieutenant Governor,,DEM,Gavin Newsom,153
 Butte,4806,Lieutenant Governor,,REP,George Yang,53
 Butte,4806,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Butte,4806,Lieutenant Governor,,REP,Ron Nehring,133
+Butte,4806,Proposition 41,,,No,236
+Butte,4806,Proposition 41,,,Yes,258
+Butte,4806,Proposition 42,,,No,259
+Butte,4806,Proposition 42,,,Yes,223
 Butte,4806,Secretary of State,,DEM,Alex Padilla,83
 Butte,4806,Secretary of State,,IND,Dan Schnur,81
 Butte,4806,Secretary of State,,GRN,David Curtis,24
@@ -6216,11 +6080,8 @@ Butte,4807,Governor,,PAF,Cindy L. Sheehan,6
 Butte,4807,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
 Butte,4807,Governor,,REP,Glenn Champ,5
 Butte,4807,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,4807,Governor,,IND,Joe Leicht,0
 Butte,4807,Governor,,GRN,Luis J. Rodriguez,4
 Butte,4807,Governor,,REP,Neel Kashkari,80
-Butte,4807,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4807,Governor,,REP,Richard William Aguirre,0
 Butte,4807,Governor,,IND,Robert Newman,2
 Butte,4807,Governor,,REP,Tim Donnelly,83
 Butte,4807,Insurance Commissioner,,DEM,Dave Jones,46
@@ -6234,6 +6095,10 @@ Butte,4807,Lieutenant Governor,,DEM,Gavin Newsom,45
 Butte,4807,Lieutenant Governor,,REP,George Yang,30
 Butte,4807,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Butte,4807,Lieutenant Governor,,REP,Ron Nehring,70
+Butte,4807,Proposition 41,,,No,134
+Butte,4807,Proposition 41,,,Yes,109
+Butte,4807,Proposition 42,,,No,142
+Butte,4807,Proposition 42,,,Yes,91
 Butte,4807,Secretary of State,,DEM,Alex Padilla,28
 Butte,4807,Secretary of State,,IND,Dan Schnur,35
 Butte,4807,Secretary of State,,GRN,David Curtis,11
@@ -6298,6 +6163,10 @@ Butte,4808,Lieutenant Governor,,DEM,Gavin Newsom,268
 Butte,4808,Lieutenant Governor,,REP,George Yang,79
 Butte,4808,Lieutenant Governor,,GRN,Jena F. Goodman,19
 Butte,4808,Lieutenant Governor,,REP,Ron Nehring,194
+Butte,4808,Proposition 41,,,No,345
+Butte,4808,Proposition 41,,,Yes,466
+Butte,4808,Proposition 42,,,No,432
+Butte,4808,Proposition 42,,,Yes,371
 Butte,4808,Secretary of State,,DEM,Alex Padilla,136
 Butte,4808,Secretary of State,,IND,Dan Schnur,113
 Butte,4808,Secretary of State,,GRN,David Curtis,46
@@ -6336,19 +6205,13 @@ Butte,4901,Controller,,REP,David Evans,6
 Butte,4901,Controller,,DEM,John A. Pérez,11
 Butte,4901,Controller,,GRN,Laura Wells,9
 Butte,4901,Controller,,DEM,Tammy D. Blair,4
-Butte,4901,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,4901,Governor,,DEM,Akinyemi Agbede,1
-Butte,4901,Governor,,REP,Alma Marie Winston,0
 Butte,4901,Governor,,REP,Andrew Blount,1
 Butte,4901,Governor,,PAF,Cindy L. Sheehan,2
 Butte,4901,Governor,,DEM,"Edmund G. ""Jerry"" Brown",26
-Butte,4901,Governor,,REP,Glenn Champ,0
-Butte,4901,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,4901,Governor,,IND,Joe Leicht,1
 Butte,4901,Governor,,GRN,Luis J. Rodriguez,2
 Butte,4901,Governor,,REP,Neel Kashkari,6
-Butte,4901,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4901,Governor,,REP,Richard William Aguirre,0
 Butte,4901,Governor,,IND,Robert Newman,1
 Butte,4901,Governor,,REP,Tim Donnelly,6
 Butte,4901,Insurance Commissioner,,DEM,Dave Jones,26
@@ -6362,6 +6225,10 @@ Butte,4901,Lieutenant Governor,,DEM,Gavin Newsom,15
 Butte,4901,Lieutenant Governor,,REP,George Yang,8
 Butte,4901,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,4901,Lieutenant Governor,,REP,Ron Nehring,4
+Butte,4901,Proposition 41,,,No,13
+Butte,4901,Proposition 41,,,Yes,33
+Butte,4901,Proposition 42,,,No,21
+Butte,4901,Proposition 42,,,Yes,24
 Butte,4901,Secretary of State,,DEM,Alex Padilla,12
 Butte,4901,Secretary of State,,IND,Dan Schnur,4
 Butte,4901,Secretary of State,,GRN,David Curtis,7
@@ -6383,7 +6250,6 @@ Butte,4901,Treasurer,,REP,Greg Conlon,7
 Butte,4901,Treasurer,,DEM,John Chiang,33
 Butte,4901,U.S. House,1,DEM,Dan Levine,10
 Butte,4901,U.S. House,1,REP,Doug La Malfa,16
-Butte,4901,U.S. House,1,REP,Gregory Cheadle,0
 Butte,4901,U.S. House,1,DEM,Heidi Hall,20
 Butte,4902,Attorney General,,REP,David King,3
 Butte,4902,Attorney General,,REP,John Haggerty,11
@@ -6402,33 +6268,30 @@ Butte,4902,Controller,,GRN,Laura Wells,1
 Butte,4902,Controller,,DEM,Tammy D. Blair,8
 Butte,4902,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Butte,4902,Governor,,DEM,Akinyemi Agbede,1
-Butte,4902,Governor,,REP,Alma Marie Winston,0
 Butte,4902,Governor,,REP,Andrew Blount,6
-Butte,4902,Governor,,PAF,Cindy L. Sheehan,0
 Butte,4902,Governor,,DEM,"Edmund G. ""Jerry"" Brown",23
 Butte,4902,Governor,,REP,Glenn Champ,2
-Butte,4902,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,4902,Governor,,IND,Joe Leicht,1
 Butte,4902,Governor,,GRN,Luis J. Rodriguez,1
 Butte,4902,Governor,,REP,Neel Kashkari,19
 Butte,4902,Governor,,IND,Rakesh Kumar Christian,1
-Butte,4902,Governor,,REP,Richard William Aguirre,0
 Butte,4902,Governor,,IND,Robert Newman,1
 Butte,4902,Governor,,REP,Tim Donnelly,29
 Butte,4902,Insurance Commissioner,,DEM,Dave Jones,25
 Butte,4902,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Butte,4902,Insurance Commissioner,,REP,Ted Gaines,52
-Butte,4902,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,4902,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,4902,Lieutenant Governor,,REP,David Fennell,20
 Butte,4902,Lieutenant Governor,,DEM,Eric Korevaar,8
 Butte,4902,Lieutenant Governor,,DEM,Gavin Newsom,21
 Butte,4902,Lieutenant Governor,,REP,George Yang,6
 Butte,4902,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,4902,Lieutenant Governor,,REP,Ron Nehring,28
+Butte,4902,Proposition 41,,,No,36
+Butte,4902,Proposition 41,,,Yes,47
+Butte,4902,Proposition 42,,,No,39
+Butte,4902,Proposition 42,,,Yes,46
 Butte,4902,Secretary of State,,DEM,Alex Padilla,11
 Butte,4902,Secretary of State,,IND,Dan Schnur,4
-Butte,4902,Secretary of State,,GRN,David Curtis,0
 Butte,4902,Secretary of State,,DEM,Derek Cressman,2
 Butte,4902,Secretary of State,,DEM,Jeffrey H. Drobman,5
 Butte,4902,Secretary of State,,DEM,Leland Yee,7
@@ -6466,30 +6329,24 @@ Butte,4903,Controller,,GRN,Laura Wells,5
 Butte,4903,Controller,,DEM,Tammy D. Blair,12
 Butte,4903,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,4903,Governor,,DEM,Akinyemi Agbede,1
-Butte,4903,Governor,,REP,Alma Marie Winston,0
-Butte,4903,Governor,,REP,Andrew Blount,0
 Butte,4903,Governor,,PAF,Cindy L. Sheehan,2
 Butte,4903,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
-Butte,4903,Governor,,REP,Glenn Champ,0
 Butte,4903,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,4903,Governor,,IND,Joe Leicht,0
-Butte,4903,Governor,,GRN,Luis J. Rodriguez,0
 Butte,4903,Governor,,REP,Neel Kashkari,8
-Butte,4903,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4903,Governor,,REP,Richard William Aguirre,0
-Butte,4903,Governor,,IND,Robert Newman,0
 Butte,4903,Governor,,REP,Tim Donnelly,7
 Butte,4903,Insurance Commissioner,,DEM,Dave Jones,27
 Butte,4903,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Butte,4903,Insurance Commissioner,,REP,Ted Gaines,18
-Butte,4903,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,4903,Lieutenant Governor,,PAF,Amos Johnson,0
 Butte,4903,Lieutenant Governor,,REP,David Fennell,4
 Butte,4903,Lieutenant Governor,,DEM,Eric Korevaar,5
 Butte,4903,Lieutenant Governor,,DEM,Gavin Newsom,21
 Butte,4903,Lieutenant Governor,,REP,George Yang,3
 Butte,4903,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,4903,Lieutenant Governor,,REP,Ron Nehring,12
+Butte,4903,Proposition 41,,,No,17
+Butte,4903,Proposition 41,,,Yes,32
+Butte,4903,Proposition 42,,,No,20
+Butte,4903,Proposition 42,,,Yes,26
 Butte,4903,Secretary of State,,DEM,Alex Padilla,15
 Butte,4903,Secretary of State,,IND,Dan Schnur,5
 Butte,4903,Secretary of State,,GRN,David Curtis,3
@@ -6528,35 +6385,29 @@ Butte,4904,Controller,,REP,David Evans,18
 Butte,4904,Controller,,DEM,John A. Pérez,4
 Butte,4904,Controller,,GRN,Laura Wells,4
 Butte,4904,Controller,,DEM,Tammy D. Blair,3
-Butte,4904,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,4904,Governor,,DEM,Akinyemi Agbede,0
 Butte,4904,Governor,,REP,Alma Marie Winston,1
 Butte,4904,Governor,,REP,Andrew Blount,5
-Butte,4904,Governor,,PAF,Cindy L. Sheehan,0
 Butte,4904,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Butte,4904,Governor,,REP,Glenn Champ,3
-Butte,4904,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,4904,Governor,,IND,Joe Leicht,0
-Butte,4904,Governor,,GRN,Luis J. Rodriguez,0
 Butte,4904,Governor,,REP,Neel Kashkari,10
 Butte,4904,Governor,,IND,Rakesh Kumar Christian,1
-Butte,4904,Governor,,REP,Richard William Aguirre,0
 Butte,4904,Governor,,IND,Robert Newman,1
 Butte,4904,Governor,,REP,Tim Donnelly,15
 Butte,4904,Insurance Commissioner,,DEM,Dave Jones,14
 Butte,4904,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Butte,4904,Insurance Commissioner,,REP,Ted Gaines,31
-Butte,4904,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,4904,Lieutenant Governor,,PAF,Amos Johnson,1
 Butte,4904,Lieutenant Governor,,REP,David Fennell,13
 Butte,4904,Lieutenant Governor,,DEM,Eric Korevaar,4
 Butte,4904,Lieutenant Governor,,DEM,Gavin Newsom,10
 Butte,4904,Lieutenant Governor,,REP,George Yang,6
-Butte,4904,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,4904,Lieutenant Governor,,REP,Ron Nehring,15
+Butte,4904,Proposition 41,,,No,17
+Butte,4904,Proposition 41,,,Yes,29
+Butte,4904,Proposition 42,,,No,22
+Butte,4904,Proposition 42,,,Yes,23
 Butte,4904,Secretary of State,,DEM,Alex Padilla,6
 Butte,4904,Secretary of State,,IND,Dan Schnur,3
-Butte,4904,Secretary of State,,GRN,David Curtis,0
 Butte,4904,Secretary of State,,DEM,Derek Cressman,1
 Butte,4904,Secretary of State,,DEM,Jeffrey H. Drobman,4
 Butte,4904,Secretary of State,,DEM,Leland Yee,2
@@ -6592,7 +6443,6 @@ Butte,4905,Controller,,REP,David Evans,63
 Butte,4905,Controller,,DEM,John A. Pérez,4
 Butte,4905,Controller,,GRN,Laura Wells,4
 Butte,4905,Controller,,DEM,Tammy D. Blair,7
-Butte,4905,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,4905,Governor,,DEM,Akinyemi Agbede,1
 Butte,4905,Governor,,REP,Alma Marie Winston,3
 Butte,4905,Governor,,REP,Andrew Blount,2
@@ -6600,11 +6450,7 @@ Butte,4905,Governor,,PAF,Cindy L. Sheehan,1
 Butte,4905,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
 Butte,4905,Governor,,REP,Glenn Champ,5
 Butte,4905,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,4905,Governor,,IND,Joe Leicht,0
-Butte,4905,Governor,,GRN,Luis J. Rodriguez,0
 Butte,4905,Governor,,REP,Neel Kashkari,31
-Butte,4905,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4905,Governor,,REP,Richard William Aguirre,0
 Butte,4905,Governor,,IND,Robert Newman,2
 Butte,4905,Governor,,REP,Tim Donnelly,60
 Butte,4905,Insurance Commissioner,,DEM,Dave Jones,18
@@ -6616,12 +6462,14 @@ Butte,4905,Lieutenant Governor,,REP,David Fennell,32
 Butte,4905,Lieutenant Governor,,DEM,Eric Korevaar,4
 Butte,4905,Lieutenant Governor,,DEM,Gavin Newsom,15
 Butte,4905,Lieutenant Governor,,REP,George Yang,16
-Butte,4905,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,4905,Lieutenant Governor,,REP,Ron Nehring,44
+Butte,4905,Proposition 41,,,No,73
+Butte,4905,Proposition 41,,,Yes,49
+Butte,4905,Proposition 42,,,No,80
+Butte,4905,Proposition 42,,,Yes,37
 Butte,4905,Secretary of State,,DEM,Alex Padilla,10
 Butte,4905,Secretary of State,,IND,Dan Schnur,2
 Butte,4905,Secretary of State,,GRN,David Curtis,5
-Butte,4905,Secretary of State,,DEM,Derek Cressman,0
 Butte,4905,Secretary of State,,DEM,Jeffrey H. Drobman,3
 Butte,4905,Secretary of State,,DEM,Leland Yee,2
 Butte,4905,Secretary of State,,REP,Pete Peterson,82
@@ -6656,25 +6504,19 @@ Butte,4906,Controller,,REP,David Evans,27
 Butte,4906,Controller,,DEM,John A. Pérez,4
 Butte,4906,Controller,,GRN,Laura Wells,7
 Butte,4906,Controller,,DEM,Tammy D. Blair,16
-Butte,4906,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,4906,Governor,,DEM,Akinyemi Agbede,1
 Butte,4906,Governor,,REP,Alma Marie Winston,3
 Butte,4906,Governor,,REP,Andrew Blount,3
 Butte,4906,Governor,,PAF,Cindy L. Sheehan,3
 Butte,4906,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
 Butte,4906,Governor,,REP,Glenn Champ,4
-Butte,4906,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,4906,Governor,,IND,Joe Leicht,0
 Butte,4906,Governor,,GRN,Luis J. Rodriguez,1
 Butte,4906,Governor,,REP,Neel Kashkari,20
-Butte,4906,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4906,Governor,,REP,Richard William Aguirre,0
 Butte,4906,Governor,,IND,Robert Newman,1
 Butte,4906,Governor,,REP,Tim Donnelly,14
 Butte,4906,Insurance Commissioner,,DEM,Dave Jones,23
 Butte,4906,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Butte,4906,Insurance Commissioner,,REP,Ted Gaines,42
-Butte,4906,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,4906,Lieutenant Governor,,PAF,Amos Johnson,4
 Butte,4906,Lieutenant Governor,,REP,David Fennell,15
 Butte,4906,Lieutenant Governor,,DEM,Eric Korevaar,9
@@ -6682,6 +6524,10 @@ Butte,4906,Lieutenant Governor,,DEM,Gavin Newsom,22
 Butte,4906,Lieutenant Governor,,REP,George Yang,9
 Butte,4906,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,4906,Lieutenant Governor,,REP,Ron Nehring,15
+Butte,4906,Proposition 41,,,No,37
+Butte,4906,Proposition 41,,,Yes,38
+Butte,4906,Proposition 42,,,No,40
+Butte,4906,Proposition 42,,,Yes,34
 Butte,4906,Secretary of State,,DEM,Alex Padilla,10
 Butte,4906,Secretary of State,,IND,Dan Schnur,5
 Butte,4906,Secretary of State,,GRN,David Curtis,6
@@ -6720,19 +6566,12 @@ Butte,4907,Controller,,REP,David Evans,22
 Butte,4907,Controller,,DEM,John A. Pérez,2
 Butte,4907,Controller,,GRN,Laura Wells,9
 Butte,4907,Controller,,DEM,Tammy D. Blair,5
-Butte,4907,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,4907,Governor,,DEM,Akinyemi Agbede,0
-Butte,4907,Governor,,REP,Alma Marie Winston,0
 Butte,4907,Governor,,REP,Andrew Blount,3
 Butte,4907,Governor,,PAF,Cindy L. Sheehan,2
 Butte,4907,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Butte,4907,Governor,,REP,Glenn Champ,1
 Butte,4907,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,4907,Governor,,IND,Joe Leicht,0
-Butte,4907,Governor,,GRN,Luis J. Rodriguez,0
 Butte,4907,Governor,,REP,Neel Kashkari,12
-Butte,4907,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4907,Governor,,REP,Richard William Aguirre,0
 Butte,4907,Governor,,IND,Robert Newman,1
 Butte,4907,Governor,,REP,Tim Donnelly,23
 Butte,4907,Insurance Commissioner,,DEM,Dave Jones,16
@@ -6746,6 +6585,10 @@ Butte,4907,Lieutenant Governor,,DEM,Gavin Newsom,15
 Butte,4907,Lieutenant Governor,,REP,George Yang,3
 Butte,4907,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,4907,Lieutenant Governor,,REP,Ron Nehring,19
+Butte,4907,Proposition 41,,,No,24
+Butte,4907,Proposition 41,,,Yes,43
+Butte,4907,Proposition 42,,,No,41
+Butte,4907,Proposition 42,,,Yes,26
 Butte,4907,Secretary of State,,DEM,Alex Padilla,9
 Butte,4907,Secretary of State,,IND,Dan Schnur,10
 Butte,4907,Secretary of State,,GRN,David Curtis,6
@@ -6785,7 +6628,6 @@ Butte,4908,Controller,,DEM,John A. Pérez,9
 Butte,4908,Controller,,GRN,Laura Wells,9
 Butte,4908,Controller,,DEM,Tammy D. Blair,7
 Butte,4908,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,4908,Governor,,DEM,Akinyemi Agbede,0
 Butte,4908,Governor,,REP,Alma Marie Winston,4
 Butte,4908,Governor,,REP,Andrew Blount,1
 Butte,4908,Governor,,PAF,Cindy L. Sheehan,3
@@ -6793,10 +6635,7 @@ Butte,4908,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Butte,4908,Governor,,REP,Glenn Champ,6
 Butte,4908,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,4908,Governor,,IND,Joe Leicht,1
-Butte,4908,Governor,,GRN,Luis J. Rodriguez,0
 Butte,4908,Governor,,REP,Neel Kashkari,16
-Butte,4908,Governor,,IND,Rakesh Kumar Christian,0
-Butte,4908,Governor,,REP,Richard William Aguirre,0
 Butte,4908,Governor,,IND,Robert Newman,1
 Butte,4908,Governor,,REP,Tim Donnelly,24
 Butte,4908,Insurance Commissioner,,DEM,Dave Jones,22
@@ -6810,6 +6649,10 @@ Butte,4908,Lieutenant Governor,,DEM,Gavin Newsom,15
 Butte,4908,Lieutenant Governor,,REP,George Yang,3
 Butte,4908,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Butte,4908,Lieutenant Governor,,REP,Ron Nehring,27
+Butte,4908,Proposition 41,,,No,31
+Butte,4908,Proposition 41,,,Yes,47
+Butte,4908,Proposition 42,,,No,49
+Butte,4908,Proposition 42,,,Yes,28
 Butte,4908,Secretary of State,,DEM,Alex Padilla,12
 Butte,4908,Secretary of State,,IND,Dan Schnur,15
 Butte,4908,Secretary of State,,GRN,David Curtis,3
@@ -6848,9 +6691,7 @@ Butte,5201,Controller,,REP,David Evans,118
 Butte,5201,Controller,,DEM,John A. Pérez,41
 Butte,5201,Controller,,GRN,Laura Wells,23
 Butte,5201,Controller,,DEM,Tammy D. Blair,39
-Butte,5201,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5201,Governor,,DEM,Akinyemi Agbede,2
-Butte,5201,Governor,,REP,Alma Marie Winston,0
 Butte,5201,Governor,,REP,Andrew Blount,11
 Butte,5201,Governor,,PAF,Cindy L. Sheehan,2
 Butte,5201,Governor,,DEM,"Edmund G. ""Jerry"" Brown",188
@@ -6861,7 +6702,6 @@ Butte,5201,Governor,,GRN,Luis J. Rodriguez,8
 Butte,5201,Governor,,REP,Neel Kashkari,84
 Butte,5201,Governor,,IND,Rakesh Kumar Christian,1
 Butte,5201,Governor,,REP,Richard William Aguirre,1
-Butte,5201,Governor,,IND,Robert Newman,0
 Butte,5201,Governor,,REP,Tim Donnelly,86
 Butte,5201,Insurance Commissioner,,DEM,Dave Jones,172
 Butte,5201,Insurance Commissioner,,PAF,Nathalie Hrizi,20
@@ -6874,6 +6714,10 @@ Butte,5201,Lieutenant Governor,,DEM,Gavin Newsom,151
 Butte,5201,Lieutenant Governor,,REP,George Yang,32
 Butte,5201,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Butte,5201,Lieutenant Governor,,REP,Ron Nehring,90
+Butte,5201,Proposition 41,,,No,148
+Butte,5201,Proposition 41,,,Yes,239
+Butte,5201,Proposition 42,,,No,189
+Butte,5201,Proposition 42,,,Yes,185
 Butte,5201,Secretary of State,,DEM,Alex Padilla,93
 Butte,5201,Secretary of State,,IND,Dan Schnur,32
 Butte,5201,Secretary of State,,GRN,David Curtis,17
@@ -6920,10 +6764,8 @@ Butte,5501,Governor,,PAF,Cindy L. Sheehan,6
 Butte,5501,Governor,,DEM,"Edmund G. ""Jerry"" Brown",123
 Butte,5501,Governor,,REP,Glenn Champ,9
 Butte,5501,Governor,,IND,Janel Hyeshia Buycks,5
-Butte,5501,Governor,,IND,Joe Leicht,0
 Butte,5501,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5501,Governor,,REP,Neel Kashkari,75
-Butte,5501,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5501,Governor,,REP,Richard William Aguirre,1
 Butte,5501,Governor,,IND,Robert Newman,4
 Butte,5501,Governor,,REP,Tim Donnelly,58
@@ -6938,6 +6780,10 @@ Butte,5501,Lieutenant Governor,,DEM,Gavin Newsom,96
 Butte,5501,Lieutenant Governor,,REP,George Yang,22
 Butte,5501,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,5501,Lieutenant Governor,,REP,Ron Nehring,87
+Butte,5501,Proposition 41,,,No,102
+Butte,5501,Proposition 41,,,Yes,194
+Butte,5501,Proposition 42,,,No,135
+Butte,5501,Proposition 42,,,Yes,152
 Butte,5501,Secretary of State,,DEM,Alex Padilla,48
 Butte,5501,Secretary of State,,IND,Dan Schnur,59
 Butte,5501,Secretary of State,,GRN,David Curtis,13
@@ -6983,11 +6829,9 @@ Butte,5502,Governor,,REP,Andrew Blount,3
 Butte,5502,Governor,,PAF,Cindy L. Sheehan,5
 Butte,5502,Governor,,DEM,"Edmund G. ""Jerry"" Brown",138
 Butte,5502,Governor,,REP,Glenn Champ,8
-Butte,5502,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,5502,Governor,,IND,Joe Leicht,2
 Butte,5502,Governor,,GRN,Luis J. Rodriguez,4
 Butte,5502,Governor,,REP,Neel Kashkari,81
-Butte,5502,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5502,Governor,,REP,Richard William Aguirre,1
 Butte,5502,Governor,,IND,Robert Newman,2
 Butte,5502,Governor,,REP,Tim Donnelly,102
@@ -7002,6 +6846,10 @@ Butte,5502,Lieutenant Governor,,DEM,Gavin Newsom,113
 Butte,5502,Lieutenant Governor,,REP,George Yang,30
 Butte,5502,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Butte,5502,Lieutenant Governor,,REP,Ron Nehring,97
+Butte,5502,Proposition 41,,,No,157
+Butte,5502,Proposition 41,,,Yes,185
+Butte,5502,Proposition 42,,,No,185
+Butte,5502,Proposition 42,,,Yes,151
 Butte,5502,Secretary of State,,DEM,Alex Padilla,62
 Butte,5502,Secretary of State,,IND,Dan Schnur,32
 Butte,5502,Secretary of State,,GRN,David Curtis,16
@@ -7040,7 +6888,6 @@ Butte,5503,Controller,,REP,David Evans,88
 Butte,5503,Controller,,DEM,John A. Pérez,34
 Butte,5503,Controller,,GRN,Laura Wells,34
 Butte,5503,Controller,,DEM,Tammy D. Blair,23
-Butte,5503,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5503,Governor,,DEM,Akinyemi Agbede,2
 Butte,5503,Governor,,REP,Alma Marie Winston,1
 Butte,5503,Governor,,REP,Andrew Blount,12
@@ -7048,11 +6895,9 @@ Butte,5503,Governor,,PAF,Cindy L. Sheehan,4
 Butte,5503,Governor,,DEM,"Edmund G. ""Jerry"" Brown",131
 Butte,5503,Governor,,REP,Glenn Champ,8
 Butte,5503,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,5503,Governor,,IND,Joe Leicht,0
 Butte,5503,Governor,,GRN,Luis J. Rodriguez,9
 Butte,5503,Governor,,REP,Neel Kashkari,94
 Butte,5503,Governor,,IND,Rakesh Kumar Christian,1
-Butte,5503,Governor,,REP,Richard William Aguirre,0
 Butte,5503,Governor,,IND,Robert Newman,4
 Butte,5503,Governor,,REP,Tim Donnelly,53
 Butte,5503,Insurance Commissioner,,DEM,Dave Jones,105
@@ -7066,6 +6911,10 @@ Butte,5503,Lieutenant Governor,,DEM,Gavin Newsom,110
 Butte,5503,Lieutenant Governor,,REP,George Yang,34
 Butte,5503,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,5503,Lieutenant Governor,,REP,Ron Nehring,74
+Butte,5503,Proposition 41,,,No,124
+Butte,5503,Proposition 41,,,Yes,189
+Butte,5503,Proposition 42,,,No,158
+Butte,5503,Proposition 42,,,Yes,132
 Butte,5503,Secretary of State,,DEM,Alex Padilla,58
 Butte,5503,Secretary of State,,IND,Dan Schnur,55
 Butte,5503,Secretary of State,,GRN,David Curtis,16
@@ -7106,17 +6955,14 @@ Butte,5504,Controller,,GRN,Laura Wells,20
 Butte,5504,Controller,,DEM,Tammy D. Blair,28
 Butte,5504,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,5504,Governor,,DEM,Akinyemi Agbede,1
-Butte,5504,Governor,,REP,Alma Marie Winston,0
 Butte,5504,Governor,,REP,Andrew Blount,5
 Butte,5504,Governor,,PAF,Cindy L. Sheehan,8
 Butte,5504,Governor,,DEM,"Edmund G. ""Jerry"" Brown",118
 Butte,5504,Governor,,REP,Glenn Champ,5
 Butte,5504,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,5504,Governor,,IND,Joe Leicht,0
 Butte,5504,Governor,,GRN,Luis J. Rodriguez,5
 Butte,5504,Governor,,REP,Neel Kashkari,57
 Butte,5504,Governor,,IND,Rakesh Kumar Christian,1
-Butte,5504,Governor,,REP,Richard William Aguirre,0
 Butte,5504,Governor,,IND,Robert Newman,3
 Butte,5504,Governor,,REP,Tim Donnelly,55
 Butte,5504,Insurance Commissioner,,DEM,Dave Jones,102
@@ -7130,6 +6976,10 @@ Butte,5504,Lieutenant Governor,,DEM,Gavin Newsom,98
 Butte,5504,Lieutenant Governor,,REP,George Yang,19
 Butte,5504,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Butte,5504,Lieutenant Governor,,REP,Ron Nehring,55
+Butte,5504,Proposition 41,,,No,83
+Butte,5504,Proposition 41,,,Yes,169
+Butte,5504,Proposition 42,,,No,131
+Butte,5504,Proposition 42,,,Yes,111
 Butte,5504,Secretary of State,,DEM,Alex Padilla,57
 Butte,5504,Secretary of State,,IND,Dan Schnur,30
 Butte,5504,Secretary of State,,GRN,David Curtis,17
@@ -7194,6 +7044,10 @@ Butte,5505,Lieutenant Governor,,DEM,Gavin Newsom,251
 Butte,5505,Lieutenant Governor,,REP,George Yang,76
 Butte,5505,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Butte,5505,Lieutenant Governor,,REP,Ron Nehring,204
+Butte,5505,Proposition 41,,,No,265
+Butte,5505,Proposition 41,,,Yes,496
+Butte,5505,Proposition 42,,,No,404
+Butte,5505,Proposition 42,,,Yes,330
 Butte,5505,Secretary of State,,DEM,Alex Padilla,158
 Butte,5505,Secretary of State,,IND,Dan Schnur,103
 Butte,5505,Secretary of State,,GRN,David Curtis,36
@@ -7240,10 +7094,8 @@ Butte,5506,Governor,,PAF,Cindy L. Sheehan,8
 Butte,5506,Governor,,DEM,"Edmund G. ""Jerry"" Brown",240
 Butte,5506,Governor,,REP,Glenn Champ,12
 Butte,5506,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,5506,Governor,,IND,Joe Leicht,0
 Butte,5506,Governor,,GRN,Luis J. Rodriguez,3
 Butte,5506,Governor,,REP,Neel Kashkari,151
-Butte,5506,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5506,Governor,,REP,Richard William Aguirre,4
 Butte,5506,Governor,,IND,Robert Newman,1
 Butte,5506,Governor,,REP,Tim Donnelly,133
@@ -7258,6 +7110,10 @@ Butte,5506,Lieutenant Governor,,DEM,Gavin Newsom,203
 Butte,5506,Lieutenant Governor,,REP,George Yang,53
 Butte,5506,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Butte,5506,Lieutenant Governor,,REP,Ron Nehring,156
+Butte,5506,Proposition 41,,,No,221
+Butte,5506,Proposition 41,,,Yes,356
+Butte,5506,Proposition 42,,,No,305
+Butte,5506,Proposition 42,,,Yes,252
 Butte,5506,Secretary of State,,DEM,Alex Padilla,130
 Butte,5506,Secretary of State,,IND,Dan Schnur,76
 Butte,5506,Secretary of State,,GRN,David Curtis,22
@@ -7304,7 +7160,6 @@ Butte,5507,Governor,,PAF,Cindy L. Sheehan,10
 Butte,5507,Governor,,DEM,"Edmund G. ""Jerry"" Brown",113
 Butte,5507,Governor,,REP,Glenn Champ,4
 Butte,5507,Governor,,IND,Janel Hyeshia Buycks,3
-Butte,5507,Governor,,IND,Joe Leicht,0
 Butte,5507,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5507,Governor,,REP,Neel Kashkari,40
 Butte,5507,Governor,,IND,Rakesh Kumar Christian,1
@@ -7322,6 +7177,10 @@ Butte,5507,Lieutenant Governor,,DEM,Gavin Newsom,93
 Butte,5507,Lieutenant Governor,,REP,George Yang,17
 Butte,5507,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Butte,5507,Lieutenant Governor,,REP,Ron Nehring,53
+Butte,5507,Proposition 41,,,No,68
+Butte,5507,Proposition 41,,,Yes,161
+Butte,5507,Proposition 42,,,No,101
+Butte,5507,Proposition 42,,,Yes,120
 Butte,5507,Secretary of State,,DEM,Alex Padilla,47
 Butte,5507,Secretary of State,,IND,Dan Schnur,24
 Butte,5507,Secretary of State,,GRN,David Curtis,12
@@ -7362,7 +7221,6 @@ Butte,5508,Controller,,GRN,Laura Wells,25
 Butte,5508,Controller,,DEM,Tammy D. Blair,25
 Butte,5508,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,5508,Governor,,DEM,Akinyemi Agbede,2
-Butte,5508,Governor,,REP,Alma Marie Winston,0
 Butte,5508,Governor,,REP,Andrew Blount,17
 Butte,5508,Governor,,PAF,Cindy L. Sheehan,7
 Butte,5508,Governor,,DEM,"Edmund G. ""Jerry"" Brown",102
@@ -7373,7 +7231,6 @@ Butte,5508,Governor,,GRN,Luis J. Rodriguez,3
 Butte,5508,Governor,,REP,Neel Kashkari,43
 Butte,5508,Governor,,IND,Rakesh Kumar Christian,2
 Butte,5508,Governor,,REP,Richard William Aguirre,2
-Butte,5508,Governor,,IND,Robert Newman,0
 Butte,5508,Governor,,REP,Tim Donnelly,44
 Butte,5508,Insurance Commissioner,,DEM,Dave Jones,86
 Butte,5508,Insurance Commissioner,,PAF,Nathalie Hrizi,16
@@ -7386,6 +7243,10 @@ Butte,5508,Lieutenant Governor,,DEM,Gavin Newsom,82
 Butte,5508,Lieutenant Governor,,REP,George Yang,9
 Butte,5508,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,5508,Lieutenant Governor,,REP,Ron Nehring,54
+Butte,5508,Proposition 41,,,No,80
+Butte,5508,Proposition 41,,,Yes,144
+Butte,5508,Proposition 42,,,No,123
+Butte,5508,Proposition 42,,,Yes,93
 Butte,5508,Secretary of State,,DEM,Alex Padilla,54
 Butte,5508,Secretary of State,,IND,Dan Schnur,37
 Butte,5508,Secretary of State,,GRN,David Curtis,12
@@ -7450,6 +7311,10 @@ Butte,5509,Lieutenant Governor,,DEM,Gavin Newsom,189
 Butte,5509,Lieutenant Governor,,REP,George Yang,48
 Butte,5509,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Butte,5509,Lieutenant Governor,,REP,Ron Nehring,106
+Butte,5509,Proposition 41,,,No,178
+Butte,5509,Proposition 41,,,Yes,318
+Butte,5509,Proposition 42,,,No,255
+Butte,5509,Proposition 42,,,Yes,226
 Butte,5509,Secretary of State,,DEM,Alex Padilla,111
 Butte,5509,Secretary of State,,IND,Dan Schnur,53
 Butte,5509,Secretary of State,,GRN,David Curtis,32
@@ -7490,7 +7355,6 @@ Butte,5510,Controller,,GRN,Laura Wells,42
 Butte,5510,Controller,,DEM,Tammy D. Blair,58
 Butte,5510,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
 Butte,5510,Governor,,DEM,Akinyemi Agbede,3
-Butte,5510,Governor,,REP,Alma Marie Winston,0
 Butte,5510,Governor,,REP,Andrew Blount,27
 Butte,5510,Governor,,PAF,Cindy L. Sheehan,9
 Butte,5510,Governor,,DEM,"Edmund G. ""Jerry"" Brown",267
@@ -7499,7 +7363,6 @@ Butte,5510,Governor,,IND,Janel Hyeshia Buycks,3
 Butte,5510,Governor,,IND,Joe Leicht,3
 Butte,5510,Governor,,GRN,Luis J. Rodriguez,10
 Butte,5510,Governor,,REP,Neel Kashkari,152
-Butte,5510,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5510,Governor,,REP,Richard William Aguirre,1
 Butte,5510,Governor,,IND,Robert Newman,11
 Butte,5510,Governor,,REP,Tim Donnelly,147
@@ -7514,6 +7377,10 @@ Butte,5510,Lieutenant Governor,,DEM,Gavin Newsom,216
 Butte,5510,Lieutenant Governor,,REP,George Yang,75
 Butte,5510,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Butte,5510,Lieutenant Governor,,REP,Ron Nehring,179
+Butte,5510,Proposition 41,,,No,270
+Butte,5510,Proposition 41,,,Yes,368
+Butte,5510,Proposition 42,,,No,335
+Butte,5510,Proposition 42,,,Yes,286
 Butte,5510,Secretary of State,,DEM,Alex Padilla,120
 Butte,5510,Secretary of State,,IND,Dan Schnur,96
 Butte,5510,Secretary of State,,GRN,David Curtis,23
@@ -7578,6 +7445,10 @@ Butte,5511,Lieutenant Governor,,DEM,Gavin Newsom,209
 Butte,5511,Lieutenant Governor,,REP,George Yang,61
 Butte,5511,Lieutenant Governor,,GRN,Jena F. Goodman,23
 Butte,5511,Lieutenant Governor,,REP,Ron Nehring,166
+Butte,5511,Proposition 41,,,No,259
+Butte,5511,Proposition 41,,,Yes,371
+Butte,5511,Proposition 42,,,No,340
+Butte,5511,Proposition 42,,,Yes,272
 Butte,5511,Secretary of State,,DEM,Alex Padilla,116
 Butte,5511,Secretary of State,,IND,Dan Schnur,88
 Butte,5511,Secretary of State,,GRN,David Curtis,30
@@ -7642,6 +7513,10 @@ Butte,5512,Lieutenant Governor,,DEM,Gavin Newsom,173
 Butte,5512,Lieutenant Governor,,REP,George Yang,27
 Butte,5512,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Butte,5512,Lieutenant Governor,,REP,Ron Nehring,125
+Butte,5512,Proposition 41,,,No,174
+Butte,5512,Proposition 41,,,Yes,296
+Butte,5512,Proposition 42,,,No,240
+Butte,5512,Proposition 42,,,Yes,209
 Butte,5512,Secretary of State,,DEM,Alex Padilla,90
 Butte,5512,Secretary of State,,IND,Dan Schnur,55
 Butte,5512,Secretary of State,,GRN,David Curtis,34
@@ -7680,7 +7555,6 @@ Butte,5513,Controller,,REP,David Evans,204
 Butte,5513,Controller,,DEM,John A. Pérez,79
 Butte,5513,Controller,,GRN,Laura Wells,38
 Butte,5513,Controller,,DEM,Tammy D. Blair,46
-Butte,5513,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5513,Governor,,DEM,Akinyemi Agbede,1
 Butte,5513,Governor,,REP,Alma Marie Winston,3
 Butte,5513,Governor,,REP,Andrew Blount,28
@@ -7691,7 +7565,6 @@ Butte,5513,Governor,,IND,Janel Hyeshia Buycks,2
 Butte,5513,Governor,,IND,Joe Leicht,1
 Butte,5513,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5513,Governor,,REP,Neel Kashkari,151
-Butte,5513,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5513,Governor,,REP,Richard William Aguirre,2
 Butte,5513,Governor,,IND,Robert Newman,10
 Butte,5513,Governor,,REP,Tim Donnelly,144
@@ -7706,6 +7579,10 @@ Butte,5513,Lieutenant Governor,,DEM,Gavin Newsom,204
 Butte,5513,Lieutenant Governor,,REP,George Yang,55
 Butte,5513,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Butte,5513,Lieutenant Governor,,REP,Ron Nehring,178
+Butte,5513,Proposition 41,,,No,227
+Butte,5513,Proposition 41,,,Yes,374
+Butte,5513,Proposition 42,,,No,303
+Butte,5513,Proposition 42,,,Yes,283
 Butte,5513,Secretary of State,,DEM,Alex Padilla,120
 Butte,5513,Secretary of State,,IND,Dan Schnur,73
 Butte,5513,Secretary of State,,GRN,David Curtis,18
@@ -7755,7 +7632,6 @@ Butte,5801,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,5801,Governor,,IND,Joe Leicht,1
 Butte,5801,Governor,,GRN,Luis J. Rodriguez,5
 Butte,5801,Governor,,REP,Neel Kashkari,63
-Butte,5801,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5801,Governor,,REP,Richard William Aguirre,2
 Butte,5801,Governor,,IND,Robert Newman,11
 Butte,5801,Governor,,REP,Tim Donnelly,93
@@ -7770,6 +7646,10 @@ Butte,5801,Lieutenant Governor,,DEM,Gavin Newsom,93
 Butte,5801,Lieutenant Governor,,REP,George Yang,44
 Butte,5801,Lieutenant Governor,,GRN,Jena F. Goodman,16
 Butte,5801,Lieutenant Governor,,REP,Ron Nehring,90
+Butte,5801,Proposition 41,,,No,121
+Butte,5801,Proposition 41,,,Yes,177
+Butte,5801,Proposition 42,,,No,156
+Butte,5801,Proposition 42,,,Yes,137
 Butte,5801,Secretary of State,,DEM,Alex Padilla,46
 Butte,5801,Secretary of State,,IND,Dan Schnur,26
 Butte,5801,Secretary of State,,GRN,David Curtis,17
@@ -7807,7 +7687,6 @@ Butte,5802,Controller,,REP,David Evans,153
 Butte,5802,Controller,,DEM,John A. Pérez,57
 Butte,5802,Controller,,GRN,Laura Wells,44
 Butte,5802,Controller,,DEM,Tammy D. Blair,39
-Butte,5802,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5802,Governor,,DEM,Akinyemi Agbede,2
 Butte,5802,Governor,,REP,Alma Marie Winston,6
 Butte,5802,Governor,,REP,Andrew Blount,16
@@ -7833,6 +7712,10 @@ Butte,5802,Lieutenant Governor,,DEM,Gavin Newsom,196
 Butte,5802,Lieutenant Governor,,REP,George Yang,56
 Butte,5802,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Butte,5802,Lieutenant Governor,,REP,Ron Nehring,144
+Butte,5802,Proposition 41,,,No,182
+Butte,5802,Proposition 41,,,Yes,325
+Butte,5802,Proposition 42,,,No,268
+Butte,5802,Proposition 42,,,Yes,221
 Butte,5802,Secretary of State,,DEM,Alex Padilla,71
 Butte,5802,Secretary of State,,IND,Dan Schnur,54
 Butte,5802,Secretary of State,,GRN,David Curtis,23
@@ -7871,18 +7754,14 @@ Butte,5803,Controller,,DEM,John A. Pérez,44
 Butte,5803,Controller,,GRN,Laura Wells,35
 Butte,5803,Controller,,DEM,Tammy D. Blair,27
 Butte,5803,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",5
-Butte,5803,Governor,,DEM,Akinyemi Agbede,0
 Butte,5803,Governor,,REP,Alma Marie Winston,7
 Butte,5803,Governor,,REP,Andrew Blount,13
 Butte,5803,Governor,,PAF,Cindy L. Sheehan,7
 Butte,5803,Governor,,DEM,"Edmund G. ""Jerry"" Brown",161
 Butte,5803,Governor,,REP,Glenn Champ,18
 Butte,5803,Governor,,IND,Janel Hyeshia Buycks,2
-Butte,5803,Governor,,IND,Joe Leicht,0
 Butte,5803,Governor,,GRN,Luis J. Rodriguez,6
 Butte,5803,Governor,,REP,Neel Kashkari,54
-Butte,5803,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5803,Governor,,REP,Richard William Aguirre,0
 Butte,5803,Governor,,IND,Robert Newman,7
 Butte,5803,Governor,,REP,Tim Donnelly,107
 Butte,5803,Insurance Commissioner,,DEM,Dave Jones,143
@@ -7896,6 +7775,10 @@ Butte,5803,Lieutenant Governor,,DEM,Gavin Newsom,136
 Butte,5803,Lieutenant Governor,,REP,George Yang,48
 Butte,5803,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Butte,5803,Lieutenant Governor,,REP,Ron Nehring,101
+Butte,5803,Proposition 41,,,No,167
+Butte,5803,Proposition 41,,,Yes,210
+Butte,5803,Proposition 42,,,No,208
+Butte,5803,Proposition 42,,,Yes,162
 Butte,5803,Secretary of State,,DEM,Alex Padilla,60
 Butte,5803,Secretary of State,,IND,Dan Schnur,39
 Butte,5803,Secretary of State,,GRN,David Curtis,13
@@ -7944,7 +7827,6 @@ Butte,5804,Governor,,IND,Janel Hyeshia Buycks,1
 Butte,5804,Governor,,IND,Joe Leicht,5
 Butte,5804,Governor,,GRN,Luis J. Rodriguez,16
 Butte,5804,Governor,,REP,Neel Kashkari,54
-Butte,5804,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5804,Governor,,REP,Richard William Aguirre,2
 Butte,5804,Governor,,IND,Robert Newman,3
 Butte,5804,Governor,,REP,Tim Donnelly,116
@@ -7959,6 +7841,10 @@ Butte,5804,Lieutenant Governor,,DEM,Gavin Newsom,119
 Butte,5804,Lieutenant Governor,,REP,George Yang,45
 Butte,5804,Lieutenant Governor,,GRN,Jena F. Goodman,13
 Butte,5804,Lieutenant Governor,,REP,Ron Nehring,97
+Butte,5804,Proposition 41,,,No,151
+Butte,5804,Proposition 41,,,Yes,205
+Butte,5804,Proposition 42,,,No,194
+Butte,5804,Proposition 42,,,Yes,154
 Butte,5804,Secretary of State,,DEM,Alex Padilla,49
 Butte,5804,Secretary of State,,IND,Dan Schnur,32
 Butte,5804,Secretary of State,,GRN,David Curtis,18
@@ -8007,7 +7893,6 @@ Butte,5805,Governor,,IND,Janel Hyeshia Buycks,4
 Butte,5805,Governor,,IND,Joe Leicht,1
 Butte,5805,Governor,,GRN,Luis J. Rodriguez,7
 Butte,5805,Governor,,REP,Neel Kashkari,105
-Butte,5805,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5805,Governor,,REP,Richard William Aguirre,3
 Butte,5805,Governor,,IND,Robert Newman,9
 Butte,5805,Governor,,REP,Tim Donnelly,149
@@ -8022,6 +7907,10 @@ Butte,5805,Lieutenant Governor,,DEM,Gavin Newsom,272
 Butte,5805,Lieutenant Governor,,REP,George Yang,87
 Butte,5805,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Butte,5805,Lieutenant Governor,,REP,Ron Nehring,168
+Butte,5805,Proposition 41,,,No,247
+Butte,5805,Proposition 41,,,Yes,422
+Butte,5805,Proposition 42,,,No,333
+Butte,5805,Proposition 42,,,Yes,322
 Butte,5805,Secretary of State,,DEM,Alex Padilla,111
 Butte,5805,Secretary of State,,IND,Dan Schnur,49
 Butte,5805,Secretary of State,,GRN,David Curtis,26
@@ -8059,20 +7948,15 @@ Butte,5806,Controller,,REP,David Evans,64
 Butte,5806,Controller,,DEM,John A. Pérez,12
 Butte,5806,Controller,,GRN,Laura Wells,18
 Butte,5806,Controller,,DEM,Tammy D. Blair,8
-Butte,5806,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5806,Governor,,DEM,Akinyemi Agbede,1
 Butte,5806,Governor,,REP,Alma Marie Winston,1
 Butte,5806,Governor,,REP,Andrew Blount,9
 Butte,5806,Governor,,PAF,Cindy L. Sheehan,3
 Butte,5806,Governor,,DEM,"Edmund G. ""Jerry"" Brown",58
 Butte,5806,Governor,,REP,Glenn Champ,13
-Butte,5806,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5806,Governor,,IND,Joe Leicht,0
 Butte,5806,Governor,,GRN,Luis J. Rodriguez,3
 Butte,5806,Governor,,REP,Neel Kashkari,36
-Butte,5806,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5806,Governor,,REP,Richard William Aguirre,1
-Butte,5806,Governor,,IND,Robert Newman,0
 Butte,5806,Governor,,REP,Tim Donnelly,61
 Butte,5806,Insurance Commissioner,,DEM,Dave Jones,50
 Butte,5806,Insurance Commissioner,,PAF,Nathalie Hrizi,9
@@ -8085,6 +7969,10 @@ Butte,5806,Lieutenant Governor,,DEM,Gavin Newsom,44
 Butte,5806,Lieutenant Governor,,REP,George Yang,18
 Butte,5806,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,5806,Lieutenant Governor,,REP,Ron Nehring,56
+Butte,5806,Proposition 41,,,No,85
+Butte,5806,Proposition 41,,,Yes,94
+Butte,5806,Proposition 42,,,No,100
+Butte,5806,Proposition 42,,,Yes,80
 Butte,5806,Secretary of State,,DEM,Alex Padilla,28
 Butte,5806,Secretary of State,,IND,Dan Schnur,21
 Butte,5806,Secretary of State,,GRN,David Curtis,9
@@ -8108,69 +7996,6 @@ Butte,5806,U.S. House,1,DEM,Dan Levine,4
 Butte,5806,U.S. House,1,REP,Doug La Malfa,106
 Butte,5806,U.S. House,1,REP,Gregory Cheadle,27
 Butte,5806,U.S. House,1,DEM,Heidi Hall,50
-Butte,5901,Attorney General,,REP,David King,0
-Butte,5901,Attorney General,,REP,John Haggerty,0
-Butte,5901,Attorney General,,LIB,Jonathan Jaech,0
-Butte,5901,Attorney General,,DEM,Kamala D. Harris,0
-Butte,5901,Attorney General,,IND,Orly Taitz,0
-Butte,5901,Attorney General,,REP,Phil Wyman,0
-Butte,5901,Attorney General,,REP,Ronald Gold,0
-Butte,5901,Board of Equalization,1,DEM,Chris Parker,0
-Butte,5901,Board of Equalization,1,REP,George Runner,0
-Butte,5901,Controller,,REP,Ashley Swearengin,0
-Butte,5901,Controller,,DEM,Betty T. Yee,0
-Butte,5901,Controller,,REP,David Evans,0
-Butte,5901,Controller,,DEM,John A. Pérez,0
-Butte,5901,Controller,,GRN,Laura Wells,0
-Butte,5901,Controller,,DEM,Tammy D. Blair,0
-Butte,5901,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5901,Governor,,DEM,Akinyemi Agbede,0
-Butte,5901,Governor,,REP,Alma Marie Winston,0
-Butte,5901,Governor,,REP,Andrew Blount,0
-Butte,5901,Governor,,PAF,Cindy L. Sheehan,0
-Butte,5901,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Butte,5901,Governor,,REP,Glenn Champ,0
-Butte,5901,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5901,Governor,,IND,Joe Leicht,0
-Butte,5901,Governor,,GRN,Luis J. Rodriguez,0
-Butte,5901,Governor,,REP,Neel Kashkari,0
-Butte,5901,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5901,Governor,,REP,Richard William Aguirre,0
-Butte,5901,Governor,,IND,Robert Newman,0
-Butte,5901,Governor,,REP,Tim Donnelly,0
-Butte,5901,Insurance Commissioner,,DEM,Dave Jones,0
-Butte,5901,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Butte,5901,Insurance Commissioner,,REP,Ted Gaines,0
-Butte,5901,Lieutenant Governor,,AME,Alan Reynolds,0
-Butte,5901,Lieutenant Governor,,PAF,Amos Johnson,0
-Butte,5901,Lieutenant Governor,,REP,David Fennell,0
-Butte,5901,Lieutenant Governor,,DEM,Eric Korevaar,0
-Butte,5901,Lieutenant Governor,,DEM,Gavin Newsom,0
-Butte,5901,Lieutenant Governor,,REP,George Yang,0
-Butte,5901,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Butte,5901,Lieutenant Governor,,REP,Ron Nehring,0
-Butte,5901,Secretary of State,,DEM,Alex Padilla,0
-Butte,5901,Secretary of State,,IND,Dan Schnur,0
-Butte,5901,Secretary of State,,GRN,David Curtis,0
-Butte,5901,Secretary of State,,DEM,Derek Cressman,0
-Butte,5901,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Butte,5901,Secretary of State,,DEM,Leland Yee,0
-Butte,5901,Secretary of State,,REP,Pete Peterson,0
-Butte,5901,Secretary of State,,REP,Roy Allmond,0
-Butte,5901,State Assembly,1,REP,Brian Dahle,0
-Butte,5901,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Butte,5901,State Senate,4,DEM,CJ Jawahar,0
-Butte,5901,State Senate,4,REP,Jim Nielsen,0
-Butte,5901,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Butte,5901,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Butte,5901,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Butte,5901,Treasurer,,GRN,Ellen H. Brown,0
-Butte,5901,Treasurer,,REP,Greg Conlon,0
-Butte,5901,Treasurer,,DEM,John Chiang,0
-Butte,5901,U.S. House,1,DEM,Dan Levine,0
-Butte,5901,U.S. House,1,REP,Doug La Malfa,0
-Butte,5901,U.S. House,1,REP,Gregory Cheadle,0
-Butte,5901,U.S. House,1,DEM,Heidi Hall,0
 Butte,5902,Attorney General,,REP,David King,9
 Butte,5902,Attorney General,,REP,John Haggerty,30
 Butte,5902,Attorney General,,LIB,Jonathan Jaech,8
@@ -8186,25 +8011,16 @@ Butte,5902,Controller,,REP,David Evans,50
 Butte,5902,Controller,,DEM,John A. Pérez,18
 Butte,5902,Controller,,GRN,Laura Wells,9
 Butte,5902,Controller,,DEM,Tammy D. Blair,10
-Butte,5902,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5902,Governor,,DEM,Akinyemi Agbede,0
-Butte,5902,Governor,,REP,Alma Marie Winston,0
 Butte,5902,Governor,,REP,Andrew Blount,3
 Butte,5902,Governor,,PAF,Cindy L. Sheehan,1
 Butte,5902,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
 Butte,5902,Governor,,REP,Glenn Champ,5
-Butte,5902,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5902,Governor,,IND,Joe Leicht,0
 Butte,5902,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5902,Governor,,REP,Neel Kashkari,33
-Butte,5902,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5902,Governor,,REP,Richard William Aguirre,0
-Butte,5902,Governor,,IND,Robert Newman,0
 Butte,5902,Governor,,REP,Tim Donnelly,36
 Butte,5902,Insurance Commissioner,,DEM,Dave Jones,38
 Butte,5902,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Butte,5902,Insurance Commissioner,,REP,Ted Gaines,81
-Butte,5902,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,5902,Lieutenant Governor,,PAF,Amos Johnson,2
 Butte,5902,Lieutenant Governor,,REP,David Fennell,27
 Butte,5902,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -8212,11 +8028,14 @@ Butte,5902,Lieutenant Governor,,DEM,Gavin Newsom,41
 Butte,5902,Lieutenant Governor,,REP,George Yang,13
 Butte,5902,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,5902,Lieutenant Governor,,REP,Ron Nehring,31
+Butte,5902,Proposition 41,,,No,48
+Butte,5902,Proposition 41,,,Yes,78
+Butte,5902,Proposition 42,,,No,70
+Butte,5902,Proposition 42,,,Yes,55
 Butte,5902,Secretary of State,,DEM,Alex Padilla,18
 Butte,5902,Secretary of State,,IND,Dan Schnur,16
 Butte,5902,Secretary of State,,GRN,David Curtis,8
 Butte,5902,Secretary of State,,DEM,Derek Cressman,4
-Butte,5902,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Butte,5902,Secretary of State,,DEM,Leland Yee,8
 Butte,5902,Secretary of State,,REP,Pete Peterson,55
 Butte,5902,Secretary of State,,REP,Roy Allmond,8
@@ -8251,18 +8070,15 @@ Butte,5903,Controller,,DEM,John A. Pérez,3
 Butte,5903,Controller,,GRN,Laura Wells,13
 Butte,5903,Controller,,DEM,Tammy D. Blair,5
 Butte,5903,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Butte,5903,Governor,,DEM,Akinyemi Agbede,0
 Butte,5903,Governor,,REP,Alma Marie Winston,2
 Butte,5903,Governor,,REP,Andrew Blount,6
 Butte,5903,Governor,,PAF,Cindy L. Sheehan,3
 Butte,5903,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
 Butte,5903,Governor,,REP,Glenn Champ,3
-Butte,5903,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,5903,Governor,,IND,Joe Leicht,1
 Butte,5903,Governor,,GRN,Luis J. Rodriguez,1
 Butte,5903,Governor,,REP,Neel Kashkari,18
 Butte,5903,Governor,,IND,Rakesh Kumar Christian,2
-Butte,5903,Governor,,REP,Richard William Aguirre,0
 Butte,5903,Governor,,IND,Robert Newman,2
 Butte,5903,Governor,,REP,Tim Donnelly,29
 Butte,5903,Insurance Commissioner,,DEM,Dave Jones,29
@@ -8276,6 +8092,10 @@ Butte,5903,Lieutenant Governor,,DEM,Gavin Newsom,30
 Butte,5903,Lieutenant Governor,,REP,George Yang,14
 Butte,5903,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Butte,5903,Lieutenant Governor,,REP,Ron Nehring,31
+Butte,5903,Proposition 41,,,No,54
+Butte,5903,Proposition 41,,,Yes,58
+Butte,5903,Proposition 42,,,No,61
+Butte,5903,Proposition 42,,,Yes,47
 Butte,5903,Secretary of State,,DEM,Alex Padilla,14
 Butte,5903,Secretary of State,,IND,Dan Schnur,16
 Butte,5903,Secretary of State,,GRN,David Curtis,8
@@ -8315,23 +8135,16 @@ Butte,5904,Controller,,GRN,Laura Wells,8
 Butte,5904,Controller,,DEM,Tammy D. Blair,5
 Butte,5904,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Butte,5904,Governor,,DEM,Akinyemi Agbede,1
-Butte,5904,Governor,,REP,Alma Marie Winston,0
 Butte,5904,Governor,,REP,Andrew Blount,1
 Butte,5904,Governor,,PAF,Cindy L. Sheehan,3
 Butte,5904,Governor,,DEM,"Edmund G. ""Jerry"" Brown",18
 Butte,5904,Governor,,REP,Glenn Champ,3
-Butte,5904,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5904,Governor,,IND,Joe Leicht,0
-Butte,5904,Governor,,GRN,Luis J. Rodriguez,0
 Butte,5904,Governor,,REP,Neel Kashkari,8
-Butte,5904,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5904,Governor,,REP,Richard William Aguirre,0
 Butte,5904,Governor,,IND,Robert Newman,6
 Butte,5904,Governor,,REP,Tim Donnelly,24
 Butte,5904,Insurance Commissioner,,DEM,Dave Jones,17
 Butte,5904,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Butte,5904,Insurance Commissioner,,REP,Ted Gaines,39
-Butte,5904,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,5904,Lieutenant Governor,,PAF,Amos Johnson,1
 Butte,5904,Lieutenant Governor,,REP,David Fennell,7
 Butte,5904,Lieutenant Governor,,DEM,Eric Korevaar,2
@@ -8339,6 +8152,10 @@ Butte,5904,Lieutenant Governor,,DEM,Gavin Newsom,15
 Butte,5904,Lieutenant Governor,,REP,George Yang,8
 Butte,5904,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,5904,Lieutenant Governor,,REP,Ron Nehring,25
+Butte,5904,Proposition 41,,,No,29
+Butte,5904,Proposition 41,,,Yes,37
+Butte,5904,Proposition 42,,,No,38
+Butte,5904,Proposition 42,,,Yes,28
 Butte,5904,Secretary of State,,DEM,Alex Padilla,10
 Butte,5904,Secretary of State,,IND,Dan Schnur,8
 Butte,5904,Secretary of State,,GRN,David Curtis,6
@@ -8377,19 +8194,13 @@ Butte,5905,Controller,,DEM,John A. Pérez,5
 Butte,5905,Controller,,GRN,Laura Wells,10
 Butte,5905,Controller,,DEM,Tammy D. Blair,4
 Butte,5905,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Butte,5905,Governor,,DEM,Akinyemi Agbede,0
 Butte,5905,Governor,,REP,Alma Marie Winston,1
 Butte,5905,Governor,,REP,Andrew Blount,1
 Butte,5905,Governor,,PAF,Cindy L. Sheehan,4
 Butte,5905,Governor,,DEM,"Edmund G. ""Jerry"" Brown",30
 Butte,5905,Governor,,REP,Glenn Champ,1
-Butte,5905,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5905,Governor,,IND,Joe Leicht,0
 Butte,5905,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5905,Governor,,REP,Neel Kashkari,8
-Butte,5905,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5905,Governor,,REP,Richard William Aguirre,0
-Butte,5905,Governor,,IND,Robert Newman,0
 Butte,5905,Governor,,REP,Tim Donnelly,25
 Butte,5905,Insurance Commissioner,,DEM,Dave Jones,25
 Butte,5905,Insurance Commissioner,,PAF,Nathalie Hrizi,7
@@ -8402,6 +8213,10 @@ Butte,5905,Lieutenant Governor,,DEM,Gavin Newsom,25
 Butte,5905,Lieutenant Governor,,REP,George Yang,7
 Butte,5905,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,5905,Lieutenant Governor,,REP,Ron Nehring,17
+Butte,5905,Proposition 41,,,No,36
+Butte,5905,Proposition 41,,,Yes,36
+Butte,5905,Proposition 42,,,No,32
+Butte,5905,Proposition 42,,,Yes,33
 Butte,5905,Secretary of State,,DEM,Alex Padilla,7
 Butte,5905,Secretary of State,,IND,Dan Schnur,7
 Butte,5905,Secretary of State,,GRN,David Curtis,9
@@ -8439,19 +8254,12 @@ Butte,5906,Controller,,REP,David Evans,39
 Butte,5906,Controller,,DEM,John A. Pérez,20
 Butte,5906,Controller,,GRN,Laura Wells,19
 Butte,5906,Controller,,DEM,Tammy D. Blair,13
-Butte,5906,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5906,Governor,,DEM,Akinyemi Agbede,0
 Butte,5906,Governor,,REP,Alma Marie Winston,5
 Butte,5906,Governor,,REP,Andrew Blount,7
-Butte,5906,Governor,,PAF,Cindy L. Sheehan,0
 Butte,5906,Governor,,DEM,"Edmund G. ""Jerry"" Brown",75
 Butte,5906,Governor,,REP,Glenn Champ,2
-Butte,5906,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5906,Governor,,IND,Joe Leicht,0
 Butte,5906,Governor,,GRN,Luis J. Rodriguez,3
 Butte,5906,Governor,,REP,Neel Kashkari,18
-Butte,5906,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5906,Governor,,REP,Richard William Aguirre,0
 Butte,5906,Governor,,IND,Robert Newman,2
 Butte,5906,Governor,,REP,Tim Donnelly,41
 Butte,5906,Insurance Commissioner,,DEM,Dave Jones,75
@@ -8465,6 +8273,10 @@ Butte,5906,Lieutenant Governor,,DEM,Gavin Newsom,70
 Butte,5906,Lieutenant Governor,,REP,George Yang,21
 Butte,5906,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Butte,5906,Lieutenant Governor,,REP,Ron Nehring,27
+Butte,5906,Proposition 41,,,No,66
+Butte,5906,Proposition 41,,,Yes,85
+Butte,5906,Proposition 42,,,No,73
+Butte,5906,Proposition 42,,,Yes,72
 Butte,5906,Secretary of State,,DEM,Alex Padilla,27
 Butte,5906,Secretary of State,,IND,Dan Schnur,15
 Butte,5906,Secretary of State,,GRN,David Curtis,9
@@ -8502,20 +8314,12 @@ Butte,5907,Controller,,REP,David Evans,21
 Butte,5907,Controller,,DEM,John A. Pérez,16
 Butte,5907,Controller,,GRN,Laura Wells,13
 Butte,5907,Controller,,DEM,Tammy D. Blair,7
-Butte,5907,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5907,Governor,,DEM,Akinyemi Agbede,0
 Butte,5907,Governor,,REP,Alma Marie Winston,2
-Butte,5907,Governor,,REP,Andrew Blount,0
 Butte,5907,Governor,,PAF,Cindy L. Sheehan,7
 Butte,5907,Governor,,DEM,"Edmund G. ""Jerry"" Brown",48
 Butte,5907,Governor,,REP,Glenn Champ,3
-Butte,5907,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,5907,Governor,,IND,Joe Leicht,1
-Butte,5907,Governor,,GRN,Luis J. Rodriguez,0
 Butte,5907,Governor,,REP,Neel Kashkari,8
-Butte,5907,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5907,Governor,,REP,Richard William Aguirre,0
-Butte,5907,Governor,,IND,Robert Newman,0
 Butte,5907,Governor,,REP,Tim Donnelly,14
 Butte,5907,Insurance Commissioner,,DEM,Dave Jones,44
 Butte,5907,Insurance Commissioner,,PAF,Nathalie Hrizi,10
@@ -8526,8 +8330,11 @@ Butte,5907,Lieutenant Governor,,REP,David Fennell,10
 Butte,5907,Lieutenant Governor,,DEM,Eric Korevaar,7
 Butte,5907,Lieutenant Governor,,DEM,Gavin Newsom,45
 Butte,5907,Lieutenant Governor,,REP,George Yang,3
-Butte,5907,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Butte,5907,Lieutenant Governor,,REP,Ron Nehring,9
+Butte,5907,Proposition 41,,,No,19
+Butte,5907,Proposition 41,,,Yes,68
+Butte,5907,Proposition 42,,,No,40
+Butte,5907,Proposition 42,,,Yes,45
 Butte,5907,Secretary of State,,DEM,Alex Padilla,23
 Butte,5907,Secretary of State,,IND,Dan Schnur,7
 Butte,5907,Secretary of State,,GRN,David Curtis,7
@@ -8566,19 +8373,13 @@ Butte,5908,Controller,,REP,David Evans,14
 Butte,5908,Controller,,DEM,John A. Pérez,14
 Butte,5908,Controller,,GRN,Laura Wells,15
 Butte,5908,Controller,,DEM,Tammy D. Blair,13
-Butte,5908,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5908,Governor,,DEM,Akinyemi Agbede,1
-Butte,5908,Governor,,REP,Alma Marie Winston,0
-Butte,5908,Governor,,REP,Andrew Blount,0
 Butte,5908,Governor,,PAF,Cindy L. Sheehan,3
 Butte,5908,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Butte,5908,Governor,,REP,Glenn Champ,2
 Butte,5908,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,5908,Governor,,IND,Joe Leicht,0
 Butte,5908,Governor,,GRN,Luis J. Rodriguez,6
 Butte,5908,Governor,,REP,Neel Kashkari,13
-Butte,5908,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5908,Governor,,REP,Richard William Aguirre,0
 Butte,5908,Governor,,IND,Robert Newman,1
 Butte,5908,Governor,,REP,Tim Donnelly,16
 Butte,5908,Insurance Commissioner,,DEM,Dave Jones,47
@@ -8592,6 +8393,10 @@ Butte,5908,Lieutenant Governor,,DEM,Gavin Newsom,49
 Butte,5908,Lieutenant Governor,,REP,George Yang,6
 Butte,5908,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,5908,Lieutenant Governor,,REP,Ron Nehring,17
+Butte,5908,Proposition 41,,,No,34
+Butte,5908,Proposition 41,,,Yes,58
+Butte,5908,Proposition 42,,,No,46
+Butte,5908,Proposition 42,,,Yes,41
 Butte,5908,Secretary of State,,DEM,Alex Padilla,23
 Butte,5908,Secretary of State,,IND,Dan Schnur,8
 Butte,5908,Secretary of State,,GRN,David Curtis,13
@@ -8630,25 +8435,16 @@ Butte,5909,Controller,,REP,David Evans,12
 Butte,5909,Controller,,DEM,John A. Pérez,13
 Butte,5909,Controller,,GRN,Laura Wells,16
 Butte,5909,Controller,,DEM,Tammy D. Blair,5
-Butte,5909,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5909,Governor,,DEM,Akinyemi Agbede,0
 Butte,5909,Governor,,REP,Alma Marie Winston,1
 Butte,5909,Governor,,REP,Andrew Blount,4
 Butte,5909,Governor,,PAF,Cindy L. Sheehan,4
 Butte,5909,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
-Butte,5909,Governor,,REP,Glenn Champ,0
-Butte,5909,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5909,Governor,,IND,Joe Leicht,0
 Butte,5909,Governor,,GRN,Luis J. Rodriguez,5
 Butte,5909,Governor,,REP,Neel Kashkari,13
-Butte,5909,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5909,Governor,,REP,Richard William Aguirre,0
-Butte,5909,Governor,,IND,Robert Newman,0
 Butte,5909,Governor,,REP,Tim Donnelly,17
 Butte,5909,Insurance Commissioner,,DEM,Dave Jones,42
 Butte,5909,Insurance Commissioner,,PAF,Nathalie Hrizi,11
 Butte,5909,Insurance Commissioner,,REP,Ted Gaines,29
-Butte,5909,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,5909,Lieutenant Governor,,PAF,Amos Johnson,1
 Butte,5909,Lieutenant Governor,,REP,David Fennell,5
 Butte,5909,Lieutenant Governor,,DEM,Eric Korevaar,8
@@ -8656,6 +8452,10 @@ Butte,5909,Lieutenant Governor,,DEM,Gavin Newsom,40
 Butte,5909,Lieutenant Governor,,REP,George Yang,2
 Butte,5909,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Butte,5909,Lieutenant Governor,,REP,Ron Nehring,25
+Butte,5909,Proposition 41,,,No,27
+Butte,5909,Proposition 41,,,Yes,63
+Butte,5909,Proposition 42,,,No,40
+Butte,5909,Proposition 42,,,Yes,47
 Butte,5909,Secretary of State,,DEM,Alex Padilla,23
 Butte,5909,Secretary of State,,IND,Dan Schnur,11
 Butte,5909,Secretary of State,,GRN,David Curtis,14
@@ -8698,21 +8498,16 @@ Butte,5910,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
 Butte,5910,Governor,,DEM,Akinyemi Agbede,1
 Butte,5910,Governor,,REP,Alma Marie Winston,1
 Butte,5910,Governor,,REP,Andrew Blount,4
-Butte,5910,Governor,,PAF,Cindy L. Sheehan,0
 Butte,5910,Governor,,DEM,"Edmund G. ""Jerry"" Brown",64
-Butte,5910,Governor,,REP,Glenn Champ,0
-Butte,5910,Governor,,IND,Janel Hyeshia Buycks,0
 Butte,5910,Governor,,IND,Joe Leicht,1
 Butte,5910,Governor,,GRN,Luis J. Rodriguez,3
 Butte,5910,Governor,,REP,Neel Kashkari,28
-Butte,5910,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5910,Governor,,REP,Richard William Aguirre,2
 Butte,5910,Governor,,IND,Robert Newman,3
 Butte,5910,Governor,,REP,Tim Donnelly,35
 Butte,5910,Insurance Commissioner,,DEM,Dave Jones,51
 Butte,5910,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Butte,5910,Insurance Commissioner,,REP,Ted Gaines,75
-Butte,5910,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,5910,Lieutenant Governor,,PAF,Amos Johnson,2
 Butte,5910,Lieutenant Governor,,REP,David Fennell,23
 Butte,5910,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -8720,6 +8515,10 @@ Butte,5910,Lieutenant Governor,,DEM,Gavin Newsom,52
 Butte,5910,Lieutenant Governor,,REP,George Yang,16
 Butte,5910,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Butte,5910,Lieutenant Governor,,REP,Ron Nehring,33
+Butte,5910,Proposition 41,,,No,68
+Butte,5910,Proposition 41,,,Yes,76
+Butte,5910,Proposition 42,,,No,76
+Butte,5910,Proposition 42,,,Yes,61
 Butte,5910,Secretary of State,,DEM,Alex Padilla,25
 Butte,5910,Secretary of State,,IND,Dan Schnur,16
 Butte,5910,Secretary of State,,GRN,David Curtis,9
@@ -8758,25 +8557,16 @@ Butte,5911,Controller,,REP,David Evans,43
 Butte,5911,Controller,,DEM,John A. Pérez,5
 Butte,5911,Controller,,GRN,Laura Wells,6
 Butte,5911,Controller,,DEM,Tammy D. Blair,4
-Butte,5911,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5911,Governor,,DEM,Akinyemi Agbede,0
-Butte,5911,Governor,,REP,Alma Marie Winston,0
 Butte,5911,Governor,,REP,Andrew Blount,5
-Butte,5911,Governor,,PAF,Cindy L. Sheehan,0
 Butte,5911,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Butte,5911,Governor,,REP,Glenn Champ,3
-Butte,5911,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5911,Governor,,IND,Joe Leicht,0
 Butte,5911,Governor,,GRN,Luis J. Rodriguez,1
 Butte,5911,Governor,,REP,Neel Kashkari,26
-Butte,5911,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5911,Governor,,REP,Richard William Aguirre,0
 Butte,5911,Governor,,IND,Robert Newman,1
 Butte,5911,Governor,,REP,Tim Donnelly,34
 Butte,5911,Insurance Commissioner,,DEM,Dave Jones,23
 Butte,5911,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Butte,5911,Insurance Commissioner,,REP,Ted Gaines,70
-Butte,5911,Lieutenant Governor,,AME,Alan Reynolds,0
 Butte,5911,Lieutenant Governor,,PAF,Amos Johnson,1
 Butte,5911,Lieutenant Governor,,REP,David Fennell,27
 Butte,5911,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -8784,6 +8574,10 @@ Butte,5911,Lieutenant Governor,,DEM,Gavin Newsom,19
 Butte,5911,Lieutenant Governor,,REP,George Yang,3
 Butte,5911,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Butte,5911,Lieutenant Governor,,REP,Ron Nehring,40
+Butte,5911,Proposition 41,,,No,47
+Butte,5911,Proposition 41,,,Yes,47
+Butte,5911,Proposition 42,,,No,49
+Butte,5911,Proposition 42,,,Yes,44
 Butte,5911,Secretary of State,,DEM,Alex Padilla,12
 Butte,5911,Secretary of State,,IND,Dan Schnur,9
 Butte,5911,Secretary of State,,GRN,David Curtis,2
@@ -8822,20 +8616,12 @@ Butte,5912,Controller,,REP,David Evans,24
 Butte,5912,Controller,,DEM,John A. Pérez,11
 Butte,5912,Controller,,GRN,Laura Wells,10
 Butte,5912,Controller,,DEM,Tammy D. Blair,11
-Butte,5912,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Butte,5912,Governor,,DEM,Akinyemi Agbede,2
-Butte,5912,Governor,,REP,Alma Marie Winston,0
 Butte,5912,Governor,,REP,Andrew Blount,1
 Butte,5912,Governor,,PAF,Cindy L. Sheehan,4
 Butte,5912,Governor,,DEM,"Edmund G. ""Jerry"" Brown",40
 Butte,5912,Governor,,REP,Glenn Champ,2
-Butte,5912,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5912,Governor,,IND,Joe Leicht,0
-Butte,5912,Governor,,GRN,Luis J. Rodriguez,0
 Butte,5912,Governor,,REP,Neel Kashkari,23
-Butte,5912,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5912,Governor,,REP,Richard William Aguirre,0
-Butte,5912,Governor,,IND,Robert Newman,0
 Butte,5912,Governor,,REP,Tim Donnelly,24
 Butte,5912,Insurance Commissioner,,DEM,Dave Jones,33
 Butte,5912,Insurance Commissioner,,PAF,Nathalie Hrizi,5
@@ -8848,6 +8634,10 @@ Butte,5912,Lieutenant Governor,,DEM,Gavin Newsom,25
 Butte,5912,Lieutenant Governor,,REP,George Yang,13
 Butte,5912,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,5912,Lieutenant Governor,,REP,Ron Nehring,23
+Butte,5912,Proposition 41,,,No,41
+Butte,5912,Proposition 41,,,Yes,51
+Butte,5912,Proposition 42,,,No,50
+Butte,5912,Proposition 42,,,Yes,38
 Butte,5912,Secretary of State,,DEM,Alex Padilla,19
 Butte,5912,Secretary of State,,IND,Dan Schnur,12
 Butte,5912,Secretary of State,,GRN,David Curtis,9
@@ -8886,20 +8676,13 @@ Butte,5913,Controller,,REP,David Evans,40
 Butte,5913,Controller,,DEM,John A. Pérez,16
 Butte,5913,Controller,,GRN,Laura Wells,4
 Butte,5913,Controller,,DEM,Tammy D. Blair,13
-Butte,5913,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5913,Governor,,DEM,Akinyemi Agbede,0
-Butte,5913,Governor,,REP,Alma Marie Winston,0
 Butte,5913,Governor,,REP,Andrew Blount,7
 Butte,5913,Governor,,PAF,Cindy L. Sheehan,2
 Butte,5913,Governor,,DEM,"Edmund G. ""Jerry"" Brown",57
 Butte,5913,Governor,,REP,Glenn Champ,1
-Butte,5913,Governor,,IND,Janel Hyeshia Buycks,0
-Butte,5913,Governor,,IND,Joe Leicht,0
 Butte,5913,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5913,Governor,,REP,Neel Kashkari,26
-Butte,5913,Governor,,IND,Rakesh Kumar Christian,0
 Butte,5913,Governor,,REP,Richard William Aguirre,1
-Butte,5913,Governor,,IND,Robert Newman,0
 Butte,5913,Governor,,REP,Tim Donnelly,26
 Butte,5913,Insurance Commissioner,,DEM,Dave Jones,40
 Butte,5913,Insurance Commissioner,,PAF,Nathalie Hrizi,5
@@ -8912,6 +8695,10 @@ Butte,5913,Lieutenant Governor,,DEM,Gavin Newsom,46
 Butte,5913,Lieutenant Governor,,REP,George Yang,6
 Butte,5913,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Butte,5913,Lieutenant Governor,,REP,Ron Nehring,39
+Butte,5913,Proposition 41,,,No,50
+Butte,5913,Proposition 41,,,Yes,67
+Butte,5913,Proposition 42,,,No,59
+Butte,5913,Proposition 42,,,Yes,54
 Butte,5913,Secretary of State,,DEM,Alex Padilla,24
 Butte,5913,Secretary of State,,IND,Dan Schnur,14
 Butte,5913,Secretary of State,,GRN,David Curtis,4
@@ -8950,20 +8737,14 @@ Butte,5914,Controller,,REP,David Evans,42
 Butte,5914,Controller,,DEM,John A. Pérez,22
 Butte,5914,Controller,,GRN,Laura Wells,9
 Butte,5914,Controller,,DEM,Tammy D. Blair,11
-Butte,5914,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Butte,5914,Governor,,DEM,Akinyemi Agbede,0
 Butte,5914,Governor,,REP,Alma Marie Winston,1
 Butte,5914,Governor,,REP,Andrew Blount,4
 Butte,5914,Governor,,PAF,Cindy L. Sheehan,1
 Butte,5914,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Butte,5914,Governor,,REP,Glenn Champ,4
 Butte,5914,Governor,,IND,Janel Hyeshia Buycks,1
-Butte,5914,Governor,,IND,Joe Leicht,0
 Butte,5914,Governor,,GRN,Luis J. Rodriguez,2
 Butte,5914,Governor,,REP,Neel Kashkari,36
-Butte,5914,Governor,,IND,Rakesh Kumar Christian,0
-Butte,5914,Governor,,REP,Richard William Aguirre,0
-Butte,5914,Governor,,IND,Robert Newman,0
 Butte,5914,Governor,,REP,Tim Donnelly,43
 Butte,5914,Insurance Commissioner,,DEM,Dave Jones,50
 Butte,5914,Insurance Commissioner,,PAF,Nathalie Hrizi,6
@@ -8976,6 +8757,10 @@ Butte,5914,Lieutenant Governor,,DEM,Gavin Newsom,52
 Butte,5914,Lieutenant Governor,,REP,George Yang,11
 Butte,5914,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Butte,5914,Lieutenant Governor,,REP,Ron Nehring,48
+Butte,5914,Proposition 41,,,No,48
+Butte,5914,Proposition 41,,,Yes,94
+Butte,5914,Proposition 42,,,No,55
+Butte,5914,Proposition 42,,,Yes,83
 Butte,5914,Secretary of State,,DEM,Alex Padilla,34
 Butte,5914,Secretary of State,,IND,Dan Schnur,19
 Butte,5914,Secretary of State,,GRN,David Curtis,4

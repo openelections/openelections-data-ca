@@ -3,7 +3,6 @@ Shasta,0010,Attorney General,,REP,David King,3
 Shasta,0010,Attorney General,,REP,John Haggerty,7
 Shasta,0010,Attorney General,,LIB,Jonathan Jaech,1
 Shasta,0010,Attorney General,,DEM,Kamala D. Harris,13
-Shasta,0010,Attorney General,,IND,Orly Taitz,0
 Shasta,0010,Attorney General,,REP,Phil Wyman,12
 Shasta,0010,Attorney General,,REP,Ronald Gold,11
 Shasta,0010,Board of Equalization,1,DEM,Chris Parker,9
@@ -14,34 +13,30 @@ Shasta,0010,Controller,,REP,David Evans,20
 Shasta,0010,Controller,,DEM,John A. Pérez,1
 Shasta,0010,Controller,,GRN,Laura Wells,3
 Shasta,0010,Controller,,DEM,Tammy D. Blair,1
-Shasta,0010,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0010,Governor,,DEM,Akinyemi Agbede,2
 Shasta,0010,Governor,,REP,Alma Marie Winston,1
 Shasta,0010,Governor,,REP,Andrew Blount,2
-Shasta,0010,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0010,Governor,,DEM,"Edmund G. ""Jerry"" Brown",15
 Shasta,0010,Governor,,REP,Glenn Champ,1
-Shasta,0010,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0010,Governor,,IND,Joe Leicht,0
 Shasta,0010,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0010,Governor,,REP,Neel Kashkari,7
-Shasta,0010,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0010,Governor,,REP,Richard William Aguirre,1
-Shasta,0010,Governor,,IND,Robert Newman,0
 Shasta,0010,Governor,,REP,Tim Donnelly,15
 Shasta,0010,Insurance Commissioner,,DEM,Dave Jones,14
 Shasta,0010,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Shasta,0010,Insurance Commissioner,,REP,Ted Gaines,30
 Shasta,0010,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0010,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0010,Lieutenant Governor,,REP,David Fennell,7
 Shasta,0010,Lieutenant Governor,,DEM,Eric Korevaar,1
 Shasta,0010,Lieutenant Governor,,DEM,Gavin Newsom,11
 Shasta,0010,Lieutenant Governor,,REP,George Yang,10
 Shasta,0010,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0010,Lieutenant Governor,,REP,Ron Nehring,14
+Shasta,0010,Proposition 41,,,No,21
+Shasta,0010,Proposition 41,,,Yes,23
+Shasta,0010,Proposition 42,,,No,17
+Shasta,0010,Proposition 42,,,Yes,26
 Shasta,0010,Secretary of State,,DEM,Alex Padilla,4
-Shasta,0010,Secretary of State,,IND,Dan Schnur,0
 Shasta,0010,Secretary of State,,GRN,David Curtis,3
 Shasta,0010,Secretary of State,,DEM,Derek Cressman,2
 Shasta,0010,Secretary of State,,DEM,Jeffrey H. Drobman,1
@@ -75,35 +70,31 @@ Shasta,0012,Controller,,REP,David Evans,28
 Shasta,0012,Controller,,DEM,John A. Pérez,12
 Shasta,0012,Controller,,GRN,Laura Wells,3
 Shasta,0012,Controller,,DEM,Tammy D. Blair,3
-Shasta,0012,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0012,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0012,Governor,,REP,Alma Marie Winston,7
 Shasta,0012,Governor,,REP,Andrew Blount,3
 Shasta,0012,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0012,Governor,,DEM,"Edmund G. ""Jerry"" Brown",39
 Shasta,0012,Governor,,REP,Glenn Champ,7
-Shasta,0012,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0012,Governor,,IND,Joe Leicht,5
-Shasta,0012,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0012,Governor,,REP,Neel Kashkari,6
-Shasta,0012,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0012,Governor,,REP,Richard William Aguirre,0
 Shasta,0012,Governor,,IND,Robert Newman,1
 Shasta,0012,Governor,,REP,Tim Donnelly,10
 Shasta,0012,Insurance Commissioner,,DEM,Dave Jones,26
 Shasta,0012,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Shasta,0012,Insurance Commissioner,,REP,Ted Gaines,37
 Shasta,0012,Lieutenant Governor,,AME,Alan Reynolds,3
-Shasta,0012,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0012,Lieutenant Governor,,REP,David Fennell,9
 Shasta,0012,Lieutenant Governor,,DEM,Eric Korevaar,7
 Shasta,0012,Lieutenant Governor,,DEM,Gavin Newsom,28
 Shasta,0012,Lieutenant Governor,,REP,George Yang,15
 Shasta,0012,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0012,Lieutenant Governor,,REP,Ron Nehring,10
+Shasta,0012,Proposition 41,,,No,40
+Shasta,0012,Proposition 41,,,Yes,37
+Shasta,0012,Proposition 42,,,No,44
+Shasta,0012,Proposition 42,,,Yes,28
 Shasta,0012,Secretary of State,,DEM,Alex Padilla,16
 Shasta,0012,Secretary of State,,IND,Dan Schnur,5
-Shasta,0012,Secretary of State,,GRN,David Curtis,0
 Shasta,0012,Secretary of State,,DEM,Derek Cressman,2
 Shasta,0012,Secretary of State,,DEM,Jeffrey H. Drobman,1
 Shasta,0012,Secretary of State,,DEM,Leland Yee,10
@@ -136,7 +127,6 @@ Shasta,0015,Controller,,REP,David Evans,93
 Shasta,0015,Controller,,DEM,John A. Pérez,28
 Shasta,0015,Controller,,GRN,Laura Wells,17
 Shasta,0015,Controller,,DEM,Tammy D. Blair,19
-Shasta,0015,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0015,Governor,,DEM,Akinyemi Agbede,3
 Shasta,0015,Governor,,REP,Alma Marie Winston,10
 Shasta,0015,Governor,,REP,Andrew Blount,9
@@ -147,7 +137,6 @@ Shasta,0015,Governor,,IND,Janel Hyeshia Buycks,4
 Shasta,0015,Governor,,IND,Joe Leicht,1
 Shasta,0015,Governor,,GRN,Luis J. Rodriguez,7
 Shasta,0015,Governor,,REP,Neel Kashkari,41
-Shasta,0015,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0015,Governor,,REP,Richard William Aguirre,1
 Shasta,0015,Governor,,IND,Robert Newman,7
 Shasta,0015,Governor,,REP,Tim Donnelly,61
@@ -162,6 +151,10 @@ Shasta,0015,Lieutenant Governor,,DEM,Gavin Newsom,90
 Shasta,0015,Lieutenant Governor,,REP,George Yang,35
 Shasta,0015,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0015,Lieutenant Governor,,REP,Ron Nehring,65
+Shasta,0015,Proposition 41,,,No,97
+Shasta,0015,Proposition 41,,,Yes,161
+Shasta,0015,Proposition 42,,,No,136
+Shasta,0015,Proposition 42,,,Yes,108
 Shasta,0015,Secretary of State,,DEM,Alex Padilla,50
 Shasta,0015,Secretary of State,,IND,Dan Schnur,17
 Shasta,0015,Secretary of State,,GRN,David Curtis,13
@@ -205,7 +198,6 @@ Shasta,0020,Governor,,PAF,Cindy L. Sheehan,6
 Shasta,0020,Governor,,DEM,"Edmund G. ""Jerry"" Brown",103
 Shasta,0020,Governor,,REP,Glenn Champ,14
 Shasta,0020,Governor,,IND,Janel Hyeshia Buycks,3
-Shasta,0020,Governor,,IND,Joe Leicht,0
 Shasta,0020,Governor,,GRN,Luis J. Rodriguez,9
 Shasta,0020,Governor,,REP,Neel Kashkari,32
 Shasta,0020,Governor,,IND,Rakesh Kumar Christian,1
@@ -223,6 +215,10 @@ Shasta,0020,Lieutenant Governor,,DEM,Gavin Newsom,78
 Shasta,0020,Lieutenant Governor,,REP,George Yang,34
 Shasta,0020,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0020,Lieutenant Governor,,REP,Ron Nehring,80
+Shasta,0020,Proposition 41,,,No,109
+Shasta,0020,Proposition 41,,,Yes,178
+Shasta,0020,Proposition 42,,,No,138
+Shasta,0020,Proposition 42,,,Yes,145
 Shasta,0020,Secretary of State,,DEM,Alex Padilla,36
 Shasta,0020,Secretary of State,,IND,Dan Schnur,19
 Shasta,0020,Secretary of State,,GRN,David Curtis,16
@@ -259,7 +255,6 @@ Shasta,0030,Controller,,DEM,John A. Pérez,19
 Shasta,0030,Controller,,GRN,Laura Wells,14
 Shasta,0030,Controller,,DEM,Tammy D. Blair,19
 Shasta,0030,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,0030,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0030,Governor,,REP,Alma Marie Winston,9
 Shasta,0030,Governor,,REP,Andrew Blount,10
 Shasta,0030,Governor,,PAF,Cindy L. Sheehan,2
@@ -284,6 +279,10 @@ Shasta,0030,Lieutenant Governor,,DEM,Gavin Newsom,69
 Shasta,0030,Lieutenant Governor,,REP,George Yang,43
 Shasta,0030,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0030,Lieutenant Governor,,REP,Ron Nehring,58
+Shasta,0030,Proposition 41,,,No,98
+Shasta,0030,Proposition 41,,,Yes,149
+Shasta,0030,Proposition 42,,,No,130
+Shasta,0030,Proposition 42,,,Yes,107
 Shasta,0030,Secretary of State,,DEM,Alex Padilla,32
 Shasta,0030,Secretary of State,,IND,Dan Schnur,6
 Shasta,0030,Secretary of State,,GRN,David Curtis,8
@@ -327,10 +326,8 @@ Shasta,0050,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0050,Governor,,DEM,"Edmund G. ""Jerry"" Brown",62
 Shasta,0050,Governor,,REP,Glenn Champ,8
 Shasta,0050,Governor,,IND,Janel Hyeshia Buycks,2
-Shasta,0050,Governor,,IND,Joe Leicht,0
 Shasta,0050,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0050,Governor,,REP,Neel Kashkari,23
-Shasta,0050,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0050,Governor,,REP,Richard William Aguirre,3
 Shasta,0050,Governor,,IND,Robert Newman,3
 Shasta,0050,Governor,,REP,Tim Donnelly,36
@@ -345,6 +342,10 @@ Shasta,0050,Lieutenant Governor,,DEM,Gavin Newsom,56
 Shasta,0050,Lieutenant Governor,,REP,George Yang,17
 Shasta,0050,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0050,Lieutenant Governor,,REP,Ron Nehring,45
+Shasta,0050,Proposition 41,,,No,64
+Shasta,0050,Proposition 41,,,Yes,99
+Shasta,0050,Proposition 42,,,No,82
+Shasta,0050,Proposition 42,,,Yes,79
 Shasta,0050,Secretary of State,,DEM,Alex Padilla,17
 Shasta,0050,Secretary of State,,IND,Dan Schnur,5
 Shasta,0050,Secretary of State,,GRN,David Curtis,9
@@ -391,8 +392,6 @@ Shasta,0060,Governor,,IND,Janel Hyeshia Buycks,2
 Shasta,0060,Governor,,IND,Joe Leicht,3
 Shasta,0060,Governor,,GRN,Luis J. Rodriguez,7
 Shasta,0060,Governor,,REP,Neel Kashkari,24
-Shasta,0060,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0060,Governor,,REP,Richard William Aguirre,0
 Shasta,0060,Governor,,IND,Robert Newman,4
 Shasta,0060,Governor,,REP,Tim Donnelly,53
 Shasta,0060,Insurance Commissioner,,DEM,Dave Jones,84
@@ -406,6 +405,10 @@ Shasta,0060,Lieutenant Governor,,DEM,Gavin Newsom,73
 Shasta,0060,Lieutenant Governor,,REP,George Yang,19
 Shasta,0060,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0060,Lieutenant Governor,,REP,Ron Nehring,56
+Shasta,0060,Proposition 41,,,No,80
+Shasta,0060,Proposition 41,,,Yes,121
+Shasta,0060,Proposition 42,,,No,93
+Shasta,0060,Proposition 42,,,Yes,95
 Shasta,0060,Secretary of State,,DEM,Alex Padilla,26
 Shasta,0060,Secretary of State,,IND,Dan Schnur,14
 Shasta,0060,Secretary of State,,GRN,David Curtis,10
@@ -467,6 +470,10 @@ Shasta,0068,Lieutenant Governor,,DEM,Gavin Newsom,118
 Shasta,0068,Lieutenant Governor,,REP,George Yang,48
 Shasta,0068,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Shasta,0068,Lieutenant Governor,,REP,Ron Nehring,95
+Shasta,0068,Proposition 41,,,No,157
+Shasta,0068,Proposition 41,,,Yes,178
+Shasta,0068,Proposition 42,,,No,182
+Shasta,0068,Proposition 42,,,Yes,144
 Shasta,0068,Secretary of State,,DEM,Alex Padilla,53
 Shasta,0068,Secretary of State,,IND,Dan Schnur,20
 Shasta,0068,Secretary of State,,GRN,David Curtis,3
@@ -503,17 +510,14 @@ Shasta,0070,Controller,,DEM,John A. Pérez,17
 Shasta,0070,Controller,,GRN,Laura Wells,13
 Shasta,0070,Controller,,DEM,Tammy D. Blair,6
 Shasta,0070,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Shasta,0070,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0070,Governor,,REP,Alma Marie Winston,2
 Shasta,0070,Governor,,REP,Andrew Blount,6
 Shasta,0070,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0070,Governor,,DEM,"Edmund G. ""Jerry"" Brown",49
 Shasta,0070,Governor,,REP,Glenn Champ,12
-Shasta,0070,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0070,Governor,,IND,Joe Leicht,1
 Shasta,0070,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0070,Governor,,REP,Neel Kashkari,13
-Shasta,0070,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0070,Governor,,REP,Richard William Aguirre,3
 Shasta,0070,Governor,,IND,Robert Newman,1
 Shasta,0070,Governor,,REP,Tim Donnelly,80
@@ -528,6 +532,10 @@ Shasta,0070,Lieutenant Governor,,DEM,Gavin Newsom,49
 Shasta,0070,Lieutenant Governor,,REP,George Yang,19
 Shasta,0070,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0070,Lieutenant Governor,,REP,Ron Nehring,59
+Shasta,0070,Proposition 41,,,No,86
+Shasta,0070,Proposition 41,,,Yes,91
+Shasta,0070,Proposition 42,,,No,83
+Shasta,0070,Proposition 42,,,Yes,87
 Shasta,0070,Secretary of State,,DEM,Alex Padilla,26
 Shasta,0070,Secretary of State,,IND,Dan Schnur,10
 Shasta,0070,Secretary of State,,GRN,David Curtis,6
@@ -574,7 +582,6 @@ Shasta,0080,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0080,Governor,,IND,Joe Leicht,3
 Shasta,0080,Governor,,GRN,Luis J. Rodriguez,7
 Shasta,0080,Governor,,REP,Neel Kashkari,71
-Shasta,0080,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0080,Governor,,REP,Richard William Aguirre,3
 Shasta,0080,Governor,,IND,Robert Newman,8
 Shasta,0080,Governor,,REP,Tim Donnelly,129
@@ -589,6 +596,10 @@ Shasta,0080,Lieutenant Governor,,DEM,Gavin Newsom,79
 Shasta,0080,Lieutenant Governor,,REP,George Yang,55
 Shasta,0080,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0080,Lieutenant Governor,,REP,Ron Nehring,109
+Shasta,0080,Proposition 41,,,No,161
+Shasta,0080,Proposition 41,,,Yes,197
+Shasta,0080,Proposition 42,,,No,190
+Shasta,0080,Proposition 42,,,Yes,159
 Shasta,0080,Secretary of State,,DEM,Alex Padilla,24
 Shasta,0080,Secretary of State,,IND,Dan Schnur,23
 Shasta,0080,Secretary of State,,GRN,David Curtis,13
@@ -624,19 +635,12 @@ Shasta,0081,Controller,,REP,David Evans,22
 Shasta,0081,Controller,,DEM,John A. Pérez,8
 Shasta,0081,Controller,,GRN,Laura Wells,6
 Shasta,0081,Controller,,DEM,Tammy D. Blair,5
-Shasta,0081,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0081,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0081,Governor,,REP,Alma Marie Winston,1
 Shasta,0081,Governor,,REP,Andrew Blount,4
 Shasta,0081,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0081,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Shasta,0081,Governor,,REP,Glenn Champ,3
-Shasta,0081,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0081,Governor,,IND,Joe Leicht,0
-Shasta,0081,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0081,Governor,,REP,Neel Kashkari,3
-Shasta,0081,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0081,Governor,,REP,Richard William Aguirre,0
 Shasta,0081,Governor,,IND,Robert Newman,3
 Shasta,0081,Governor,,REP,Tim Donnelly,13
 Shasta,0081,Insurance Commissioner,,DEM,Dave Jones,28
@@ -650,6 +654,10 @@ Shasta,0081,Lieutenant Governor,,DEM,Gavin Newsom,22
 Shasta,0081,Lieutenant Governor,,REP,George Yang,3
 Shasta,0081,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0081,Lieutenant Governor,,REP,Ron Nehring,11
+Shasta,0081,Proposition 41,,,No,18
+Shasta,0081,Proposition 41,,,Yes,37
+Shasta,0081,Proposition 42,,,No,28
+Shasta,0081,Proposition 42,,,Yes,28
 Shasta,0081,Secretary of State,,DEM,Alex Padilla,10
 Shasta,0081,Secretary of State,,IND,Dan Schnur,4
 Shasta,0081,Secretary of State,,GRN,David Curtis,1
@@ -696,7 +704,6 @@ Shasta,0091,Governor,,IND,Janel Hyeshia Buycks,2
 Shasta,0091,Governor,,IND,Joe Leicht,2
 Shasta,0091,Governor,,GRN,Luis J. Rodriguez,6
 Shasta,0091,Governor,,REP,Neel Kashkari,48
-Shasta,0091,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0091,Governor,,REP,Richard William Aguirre,1
 Shasta,0091,Governor,,IND,Robert Newman,8
 Shasta,0091,Governor,,REP,Tim Donnelly,76
@@ -711,6 +718,10 @@ Shasta,0091,Lieutenant Governor,,DEM,Gavin Newsom,76
 Shasta,0091,Lieutenant Governor,,REP,George Yang,40
 Shasta,0091,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0091,Lieutenant Governor,,REP,Ron Nehring,98
+Shasta,0091,Proposition 41,,,No,136
+Shasta,0091,Proposition 41,,,Yes,144
+Shasta,0091,Proposition 42,,,No,120
+Shasta,0091,Proposition 42,,,Yes,149
 Shasta,0091,Secretary of State,,DEM,Alex Padilla,38
 Shasta,0091,Secretary of State,,IND,Dan Schnur,12
 Shasta,0091,Secretary of State,,GRN,David Curtis,7
@@ -757,7 +768,6 @@ Shasta,0101,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0101,Governor,,IND,Joe Leicht,2
 Shasta,0101,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0101,Governor,,REP,Neel Kashkari,39
-Shasta,0101,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0101,Governor,,REP,Richard William Aguirre,2
 Shasta,0101,Governor,,IND,Robert Newman,9
 Shasta,0101,Governor,,REP,Tim Donnelly,92
@@ -772,6 +782,10 @@ Shasta,0101,Lieutenant Governor,,DEM,Gavin Newsom,63
 Shasta,0101,Lieutenant Governor,,REP,George Yang,43
 Shasta,0101,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0101,Lieutenant Governor,,REP,Ron Nehring,86
+Shasta,0101,Proposition 41,,,No,136
+Shasta,0101,Proposition 41,,,Yes,114
+Shasta,0101,Proposition 42,,,No,124
+Shasta,0101,Proposition 42,,,Yes,122
 Shasta,0101,Secretary of State,,DEM,Alex Padilla,41
 Shasta,0101,Secretary of State,,IND,Dan Schnur,17
 Shasta,0101,Secretary of State,,GRN,David Curtis,5
@@ -814,11 +828,9 @@ Shasta,0102,Governor,,REP,Andrew Blount,15
 Shasta,0102,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0102,Governor,,DEM,"Edmund G. ""Jerry"" Brown",84
 Shasta,0102,Governor,,REP,Glenn Champ,18
-Shasta,0102,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0102,Governor,,IND,Joe Leicht,1
 Shasta,0102,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0102,Governor,,REP,Neel Kashkari,41
-Shasta,0102,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0102,Governor,,REP,Richard William Aguirre,2
 Shasta,0102,Governor,,IND,Robert Newman,12
 Shasta,0102,Governor,,REP,Tim Donnelly,116
@@ -833,6 +845,10 @@ Shasta,0102,Lieutenant Governor,,DEM,Gavin Newsom,67
 Shasta,0102,Lieutenant Governor,,REP,George Yang,39
 Shasta,0102,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0102,Lieutenant Governor,,REP,Ron Nehring,96
+Shasta,0102,Proposition 41,,,No,147
+Shasta,0102,Proposition 41,,,Yes,139
+Shasta,0102,Proposition 42,,,No,160
+Shasta,0102,Proposition 42,,,Yes,120
 Shasta,0102,Secretary of State,,DEM,Alex Padilla,33
 Shasta,0102,Secretary of State,,IND,Dan Schnur,18
 Shasta,0102,Secretary of State,,GRN,David Curtis,11
@@ -868,19 +884,14 @@ Shasta,0110,Controller,,REP,David Evans,30
 Shasta,0110,Controller,,DEM,John A. Pérez,13
 Shasta,0110,Controller,,GRN,Laura Wells,6
 Shasta,0110,Controller,,DEM,Tammy D. Blair,6
-Shasta,0110,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0110,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0110,Governor,,REP,Alma Marie Winston,1
 Shasta,0110,Governor,,REP,Andrew Blount,2
 Shasta,0110,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0110,Governor,,DEM,"Edmund G. ""Jerry"" Brown",41
 Shasta,0110,Governor,,REP,Glenn Champ,5
-Shasta,0110,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0110,Governor,,IND,Joe Leicht,1
 Shasta,0110,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0110,Governor,,REP,Neel Kashkari,15
-Shasta,0110,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0110,Governor,,REP,Richard William Aguirre,0
 Shasta,0110,Governor,,IND,Robert Newman,4
 Shasta,0110,Governor,,REP,Tim Donnelly,19
 Shasta,0110,Insurance Commissioner,,DEM,Dave Jones,36
@@ -892,8 +903,11 @@ Shasta,0110,Lieutenant Governor,,REP,David Fennell,13
 Shasta,0110,Lieutenant Governor,,DEM,Eric Korevaar,6
 Shasta,0110,Lieutenant Governor,,DEM,Gavin Newsom,34
 Shasta,0110,Lieutenant Governor,,REP,George Yang,13
-Shasta,0110,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0110,Lieutenant Governor,,REP,Ron Nehring,21
+Shasta,0110,Proposition 41,,,No,36
+Shasta,0110,Proposition 41,,,Yes,54
+Shasta,0110,Proposition 42,,,No,48
+Shasta,0110,Proposition 42,,,Yes,40
 Shasta,0110,Secretary of State,,DEM,Alex Padilla,15
 Shasta,0110,Secretary of State,,IND,Dan Schnur,7
 Shasta,0110,Secretary of State,,GRN,David Curtis,3
@@ -955,6 +969,10 @@ Shasta,0112,Lieutenant Governor,,DEM,Gavin Newsom,128
 Shasta,0112,Lieutenant Governor,,REP,George Yang,90
 Shasta,0112,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0112,Lieutenant Governor,,REP,Ron Nehring,137
+Shasta,0112,Proposition 41,,,No,249
+Shasta,0112,Proposition 41,,,Yes,243
+Shasta,0112,Proposition 42,,,No,281
+Shasta,0112,Proposition 42,,,Yes,210
 Shasta,0112,Secretary of State,,DEM,Alex Padilla,64
 Shasta,0112,Secretary of State,,IND,Dan Schnur,21
 Shasta,0112,Secretary of State,,GRN,David Curtis,10
@@ -990,32 +1008,24 @@ Shasta,0114,Controller,,REP,David Evans,25
 Shasta,0114,Controller,,DEM,John A. Pérez,8
 Shasta,0114,Controller,,GRN,Laura Wells,1
 Shasta,0114,Controller,,DEM,Tammy D. Blair,3
-Shasta,0114,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0114,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0114,Governor,,REP,Alma Marie Winston,2
 Shasta,0114,Governor,,REP,Andrew Blount,5
-Shasta,0114,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0114,Governor,,DEM,"Edmund G. ""Jerry"" Brown",27
 Shasta,0114,Governor,,REP,Glenn Champ,3
-Shasta,0114,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0114,Governor,,IND,Joe Leicht,0
-Shasta,0114,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0114,Governor,,REP,Neel Kashkari,17
-Shasta,0114,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0114,Governor,,REP,Richard William Aguirre,0
-Shasta,0114,Governor,,IND,Robert Newman,0
 Shasta,0114,Governor,,REP,Tim Donnelly,10
 Shasta,0114,Insurance Commissioner,,DEM,Dave Jones,20
-Shasta,0114,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0114,Insurance Commissioner,,REP,Ted Gaines,42
-Shasta,0114,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0114,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0114,Lieutenant Governor,,REP,David Fennell,5
 Shasta,0114,Lieutenant Governor,,DEM,Eric Korevaar,4
 Shasta,0114,Lieutenant Governor,,DEM,Gavin Newsom,18
 Shasta,0114,Lieutenant Governor,,REP,George Yang,14
 Shasta,0114,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0114,Lieutenant Governor,,REP,Ron Nehring,22
+Shasta,0114,Proposition 41,,,No,31
+Shasta,0114,Proposition 41,,,Yes,33
+Shasta,0114,Proposition 42,,,No,41
+Shasta,0114,Proposition 42,,,Yes,20
 Shasta,0114,Secretary of State,,DEM,Alex Padilla,9
 Shasta,0114,Secretary of State,,IND,Dan Schnur,3
 Shasta,0114,Secretary of State,,GRN,David Curtis,1
@@ -1058,11 +1068,9 @@ Shasta,0120,Governor,,REP,Andrew Blount,13
 Shasta,0120,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0120,Governor,,DEM,"Edmund G. ""Jerry"" Brown",130
 Shasta,0120,Governor,,REP,Glenn Champ,8
-Shasta,0120,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0120,Governor,,IND,Joe Leicht,2
 Shasta,0120,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0120,Governor,,REP,Neel Kashkari,55
-Shasta,0120,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0120,Governor,,REP,Richard William Aguirre,1
 Shasta,0120,Governor,,IND,Robert Newman,9
 Shasta,0120,Governor,,REP,Tim Donnelly,65
@@ -1077,6 +1085,10 @@ Shasta,0120,Lieutenant Governor,,DEM,Gavin Newsom,113
 Shasta,0120,Lieutenant Governor,,REP,George Yang,44
 Shasta,0120,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Shasta,0120,Lieutenant Governor,,REP,Ron Nehring,72
+Shasta,0120,Proposition 41,,,No,127
+Shasta,0120,Proposition 41,,,Yes,172
+Shasta,0120,Proposition 42,,,No,152
+Shasta,0120,Proposition 42,,,Yes,141
 Shasta,0120,Secretary of State,,DEM,Alex Padilla,50
 Shasta,0120,Secretary of State,,IND,Dan Schnur,17
 Shasta,0120,Secretary of State,,GRN,David Curtis,14
@@ -1101,7 +1113,6 @@ Shasta,0130,Attorney General,,REP,David King,3
 Shasta,0130,Attorney General,,REP,John Haggerty,4
 Shasta,0130,Attorney General,,LIB,Jonathan Jaech,1
 Shasta,0130,Attorney General,,DEM,Kamala D. Harris,5
-Shasta,0130,Attorney General,,IND,Orly Taitz,0
 Shasta,0130,Attorney General,,REP,Phil Wyman,4
 Shasta,0130,Attorney General,,REP,Ronald Gold,2
 Shasta,0130,Board of Equalization,1,DEM,Chris Parker,5
@@ -1111,38 +1122,26 @@ Shasta,0130,Controller,,DEM,Betty T. Yee,2
 Shasta,0130,Controller,,REP,David Evans,8
 Shasta,0130,Controller,,DEM,John A. Pérez,2
 Shasta,0130,Controller,,GRN,Laura Wells,1
-Shasta,0130,Controller,,DEM,Tammy D. Blair,0
-Shasta,0130,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0130,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0130,Governor,,REP,Alma Marie Winston,1
 Shasta,0130,Governor,,REP,Andrew Blount,2
-Shasta,0130,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0130,Governor,,DEM,"Edmund G. ""Jerry"" Brown",5
-Shasta,0130,Governor,,REP,Glenn Champ,0
-Shasta,0130,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0130,Governor,,IND,Joe Leicht,0
-Shasta,0130,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0130,Governor,,REP,Neel Kashkari,4
-Shasta,0130,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0130,Governor,,REP,Richard William Aguirre,0
 Shasta,0130,Governor,,IND,Robert Newman,1
 Shasta,0130,Governor,,REP,Tim Donnelly,8
 Shasta,0130,Insurance Commissioner,,DEM,Dave Jones,5
-Shasta,0130,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0130,Insurance Commissioner,,REP,Ted Gaines,15
-Shasta,0130,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0130,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0130,Lieutenant Governor,,REP,David Fennell,4
 Shasta,0130,Lieutenant Governor,,DEM,Eric Korevaar,1
 Shasta,0130,Lieutenant Governor,,DEM,Gavin Newsom,4
 Shasta,0130,Lieutenant Governor,,REP,George Yang,4
 Shasta,0130,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0130,Lieutenant Governor,,REP,Ron Nehring,6
+Shasta,0130,Proposition 41,,,No,9
+Shasta,0130,Proposition 41,,,Yes,12
+Shasta,0130,Proposition 42,,,No,7
+Shasta,0130,Proposition 42,,,Yes,8
 Shasta,0130,Secretary of State,,DEM,Alex Padilla,3
-Shasta,0130,Secretary of State,,IND,Dan Schnur,0
-Shasta,0130,Secretary of State,,GRN,David Curtis,0
 Shasta,0130,Secretary of State,,DEM,Derek Cressman,1
-Shasta,0130,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,0130,Secretary of State,,DEM,Leland Yee,2
 Shasta,0130,Secretary of State,,REP,Pete Peterson,11
 Shasta,0130,Secretary of State,,REP,Roy Allmond,3
@@ -1180,11 +1179,9 @@ Shasta,0140,Governor,,REP,Andrew Blount,8
 Shasta,0140,Governor,,PAF,Cindy L. Sheehan,16
 Shasta,0140,Governor,,DEM,"Edmund G. ""Jerry"" Brown",84
 Shasta,0140,Governor,,REP,Glenn Champ,21
-Shasta,0140,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0140,Governor,,IND,Joe Leicht,1
 Shasta,0140,Governor,,GRN,Luis J. Rodriguez,6
 Shasta,0140,Governor,,REP,Neel Kashkari,32
-Shasta,0140,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0140,Governor,,REP,Richard William Aguirre,2
 Shasta,0140,Governor,,IND,Robert Newman,9
 Shasta,0140,Governor,,REP,Tim Donnelly,74
@@ -1199,6 +1196,10 @@ Shasta,0140,Lieutenant Governor,,DEM,Gavin Newsom,74
 Shasta,0140,Lieutenant Governor,,REP,George Yang,24
 Shasta,0140,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0140,Lieutenant Governor,,REP,Ron Nehring,89
+Shasta,0140,Proposition 41,,,No,137
+Shasta,0140,Proposition 41,,,Yes,129
+Shasta,0140,Proposition 42,,,No,140
+Shasta,0140,Proposition 42,,,Yes,119
 Shasta,0140,Secretary of State,,DEM,Alex Padilla,25
 Shasta,0140,Secretary of State,,IND,Dan Schnur,21
 Shasta,0140,Secretary of State,,GRN,David Curtis,14
@@ -1235,17 +1236,12 @@ Shasta,0150,Controller,,DEM,John A. Pérez,6
 Shasta,0150,Controller,,GRN,Laura Wells,13
 Shasta,0150,Controller,,DEM,Tammy D. Blair,8
 Shasta,0150,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Shasta,0150,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0150,Governor,,REP,Alma Marie Winston,2
 Shasta,0150,Governor,,REP,Andrew Blount,4
 Shasta,0150,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0150,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
 Shasta,0150,Governor,,REP,Glenn Champ,4
-Shasta,0150,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0150,Governor,,IND,Joe Leicht,0
-Shasta,0150,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0150,Governor,,REP,Neel Kashkari,12
-Shasta,0150,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0150,Governor,,REP,Richard William Aguirre,2
 Shasta,0150,Governor,,IND,Robert Newman,2
 Shasta,0150,Governor,,REP,Tim Donnelly,14
@@ -1253,13 +1249,16 @@ Shasta,0150,Insurance Commissioner,,DEM,Dave Jones,27
 Shasta,0150,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Shasta,0150,Insurance Commissioner,,REP,Ted Gaines,40
 Shasta,0150,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0150,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0150,Lieutenant Governor,,REP,David Fennell,12
 Shasta,0150,Lieutenant Governor,,DEM,Eric Korevaar,10
 Shasta,0150,Lieutenant Governor,,DEM,Gavin Newsom,22
 Shasta,0150,Lieutenant Governor,,REP,George Yang,10
 Shasta,0150,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0150,Lieutenant Governor,,REP,Ron Nehring,13
+Shasta,0150,Proposition 41,,,No,29
+Shasta,0150,Proposition 41,,,Yes,46
+Shasta,0150,Proposition 42,,,No,31
+Shasta,0150,Proposition 42,,,Yes,42
 Shasta,0150,Secretary of State,,DEM,Alex Padilla,13
 Shasta,0150,Secretary of State,,IND,Dan Schnur,7
 Shasta,0150,Secretary of State,,GRN,David Curtis,6
@@ -1306,7 +1305,6 @@ Shasta,0160,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0160,Governor,,IND,Joe Leicht,3
 Shasta,0160,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0160,Governor,,REP,Neel Kashkari,55
-Shasta,0160,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0160,Governor,,REP,Richard William Aguirre,1
 Shasta,0160,Governor,,IND,Robert Newman,3
 Shasta,0160,Governor,,REP,Tim Donnelly,94
@@ -1321,6 +1319,10 @@ Shasta,0160,Lieutenant Governor,,DEM,Gavin Newsom,97
 Shasta,0160,Lieutenant Governor,,REP,George Yang,52
 Shasta,0160,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0160,Lieutenant Governor,,REP,Ron Nehring,81
+Shasta,0160,Proposition 41,,,No,142
+Shasta,0160,Proposition 41,,,Yes,162
+Shasta,0160,Proposition 42,,,No,177
+Shasta,0160,Proposition 42,,,Yes,118
 Shasta,0160,Secretary of State,,DEM,Alex Padilla,43
 Shasta,0160,Secretary of State,,IND,Dan Schnur,12
 Shasta,0160,Secretary of State,,GRN,David Curtis,7
@@ -1357,18 +1359,13 @@ Shasta,0170,Controller,,DEM,John A. Pérez,23
 Shasta,0170,Controller,,GRN,Laura Wells,13
 Shasta,0170,Controller,,DEM,Tammy D. Blair,17
 Shasta,0170,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Shasta,0170,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0170,Governor,,REP,Alma Marie Winston,10
 Shasta,0170,Governor,,REP,Andrew Blount,15
 Shasta,0170,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0170,Governor,,DEM,"Edmund G. ""Jerry"" Brown",115
 Shasta,0170,Governor,,REP,Glenn Champ,7
-Shasta,0170,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0170,Governor,,IND,Joe Leicht,0
 Shasta,0170,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0170,Governor,,REP,Neel Kashkari,41
-Shasta,0170,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0170,Governor,,REP,Richard William Aguirre,0
 Shasta,0170,Governor,,IND,Robert Newman,6
 Shasta,0170,Governor,,REP,Tim Donnelly,87
 Shasta,0170,Insurance Commissioner,,DEM,Dave Jones,88
@@ -1382,6 +1379,10 @@ Shasta,0170,Lieutenant Governor,,DEM,Gavin Newsom,89
 Shasta,0170,Lieutenant Governor,,REP,George Yang,48
 Shasta,0170,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0170,Lieutenant Governor,,REP,Ron Nehring,78
+Shasta,0170,Proposition 41,,,No,116
+Shasta,0170,Proposition 41,,,Yes,155
+Shasta,0170,Proposition 42,,,No,147
+Shasta,0170,Proposition 42,,,Yes,117
 Shasta,0170,Secretary of State,,DEM,Alex Padilla,34
 Shasta,0170,Secretary of State,,IND,Dan Schnur,14
 Shasta,0170,Secretary of State,,GRN,David Curtis,11
@@ -1428,7 +1429,6 @@ Shasta,0175,Governor,,IND,Janel Hyeshia Buycks,4
 Shasta,0175,Governor,,IND,Joe Leicht,3
 Shasta,0175,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0175,Governor,,REP,Neel Kashkari,46
-Shasta,0175,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0175,Governor,,REP,Richard William Aguirre,2
 Shasta,0175,Governor,,IND,Robert Newman,5
 Shasta,0175,Governor,,REP,Tim Donnelly,92
@@ -1443,6 +1443,10 @@ Shasta,0175,Lieutenant Governor,,DEM,Gavin Newsom,109
 Shasta,0175,Lieutenant Governor,,REP,George Yang,33
 Shasta,0175,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0175,Lieutenant Governor,,REP,Ron Nehring,95
+Shasta,0175,Proposition 41,,,No,140
+Shasta,0175,Proposition 41,,,Yes,164
+Shasta,0175,Proposition 42,,,No,173
+Shasta,0175,Proposition 42,,,Yes,128
 Shasta,0175,Secretary of State,,DEM,Alex Padilla,49
 Shasta,0175,Secretary of State,,IND,Dan Schnur,10
 Shasta,0175,Secretary of State,,GRN,David Curtis,6
@@ -1504,6 +1508,10 @@ Shasta,0201,Lieutenant Governor,,DEM,Gavin Newsom,106
 Shasta,0201,Lieutenant Governor,,REP,George Yang,63
 Shasta,0201,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0201,Lieutenant Governor,,REP,Ron Nehring,108
+Shasta,0201,Proposition 41,,,No,164
+Shasta,0201,Proposition 41,,,Yes,223
+Shasta,0201,Proposition 42,,,No,182
+Shasta,0201,Proposition 42,,,Yes,187
 Shasta,0201,Secretary of State,,DEM,Alex Padilla,57
 Shasta,0201,Secretary of State,,IND,Dan Schnur,16
 Shasta,0201,Secretary of State,,GRN,David Curtis,12
@@ -1565,6 +1573,10 @@ Shasta,0210,Lieutenant Governor,,DEM,Gavin Newsom,132
 Shasta,0210,Lieutenant Governor,,REP,George Yang,67
 Shasta,0210,Lieutenant Governor,,GRN,Jena F. Goodman,15
 Shasta,0210,Lieutenant Governor,,REP,Ron Nehring,181
+Shasta,0210,Proposition 41,,,No,234
+Shasta,0210,Proposition 41,,,Yes,273
+Shasta,0210,Proposition 42,,,No,263
+Shasta,0210,Proposition 42,,,Yes,239
 Shasta,0210,Secretary of State,,DEM,Alex Padilla,78
 Shasta,0210,Secretary of State,,IND,Dan Schnur,33
 Shasta,0210,Secretary of State,,GRN,David Curtis,21
@@ -1600,32 +1612,27 @@ Shasta,0240,Controller,,REP,David Evans,22
 Shasta,0240,Controller,,DEM,John A. Pérez,2
 Shasta,0240,Controller,,GRN,Laura Wells,7
 Shasta,0240,Controller,,DEM,Tammy D. Blair,1
-Shasta,0240,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0240,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0240,Governor,,REP,Alma Marie Winston,1
 Shasta,0240,Governor,,REP,Andrew Blount,1
 Shasta,0240,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0240,Governor,,DEM,"Edmund G. ""Jerry"" Brown",31
 Shasta,0240,Governor,,REP,Glenn Champ,4
-Shasta,0240,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0240,Governor,,IND,Joe Leicht,0
-Shasta,0240,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0240,Governor,,REP,Neel Kashkari,4
-Shasta,0240,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0240,Governor,,REP,Richard William Aguirre,0
 Shasta,0240,Governor,,IND,Robert Newman,1
 Shasta,0240,Governor,,REP,Tim Donnelly,17
 Shasta,0240,Insurance Commissioner,,DEM,Dave Jones,21
 Shasta,0240,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Shasta,0240,Insurance Commissioner,,REP,Ted Gaines,31
 Shasta,0240,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0240,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0240,Lieutenant Governor,,REP,David Fennell,4
 Shasta,0240,Lieutenant Governor,,DEM,Eric Korevaar,5
 Shasta,0240,Lieutenant Governor,,DEM,Gavin Newsom,20
 Shasta,0240,Lieutenant Governor,,REP,George Yang,9
-Shasta,0240,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0240,Lieutenant Governor,,REP,Ron Nehring,18
+Shasta,0240,Proposition 41,,,No,20
+Shasta,0240,Proposition 41,,,Yes,38
+Shasta,0240,Proposition 42,,,No,30
+Shasta,0240,Proposition 42,,,Yes,29
 Shasta,0240,Secretary of State,,DEM,Alex Padilla,10
 Shasta,0240,Secretary of State,,IND,Dan Schnur,5
 Shasta,0240,Secretary of State,,GRN,David Curtis,6
@@ -1662,18 +1669,13 @@ Shasta,0260,Controller,,DEM,John A. Pérez,18
 Shasta,0260,Controller,,GRN,Laura Wells,19
 Shasta,0260,Controller,,DEM,Tammy D. Blair,4
 Shasta,0260,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Shasta,0260,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0260,Governor,,REP,Alma Marie Winston,9
 Shasta,0260,Governor,,REP,Andrew Blount,6
 Shasta,0260,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0260,Governor,,DEM,"Edmund G. ""Jerry"" Brown",109
 Shasta,0260,Governor,,REP,Glenn Champ,9
-Shasta,0260,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0260,Governor,,IND,Joe Leicht,0
 Shasta,0260,Governor,,GRN,Luis J. Rodriguez,6
 Shasta,0260,Governor,,REP,Neel Kashkari,54
-Shasta,0260,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0260,Governor,,REP,Richard William Aguirre,0
 Shasta,0260,Governor,,IND,Robert Newman,1
 Shasta,0260,Governor,,REP,Tim Donnelly,97
 Shasta,0260,Insurance Commissioner,,DEM,Dave Jones,83
@@ -1687,6 +1689,10 @@ Shasta,0260,Lieutenant Governor,,DEM,Gavin Newsom,83
 Shasta,0260,Lieutenant Governor,,REP,George Yang,50
 Shasta,0260,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0260,Lieutenant Governor,,REP,Ron Nehring,80
+Shasta,0260,Proposition 41,,,No,163
+Shasta,0260,Proposition 41,,,Yes,126
+Shasta,0260,Proposition 42,,,No,172
+Shasta,0260,Proposition 42,,,Yes,114
 Shasta,0260,Secretary of State,,DEM,Alex Padilla,27
 Shasta,0260,Secretary of State,,IND,Dan Schnur,13
 Shasta,0260,Secretary of State,,GRN,David Curtis,6
@@ -1730,10 +1736,8 @@ Shasta,0261,Governor,,PAF,Cindy L. Sheehan,5
 Shasta,0261,Governor,,DEM,"Edmund G. ""Jerry"" Brown",118
 Shasta,0261,Governor,,REP,Glenn Champ,12
 Shasta,0261,Governor,,IND,Janel Hyeshia Buycks,3
-Shasta,0261,Governor,,IND,Joe Leicht,0
 Shasta,0261,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0261,Governor,,REP,Neel Kashkari,65
-Shasta,0261,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0261,Governor,,REP,Richard William Aguirre,2
 Shasta,0261,Governor,,IND,Robert Newman,2
 Shasta,0261,Governor,,REP,Tim Donnelly,90
@@ -1748,6 +1752,10 @@ Shasta,0261,Lieutenant Governor,,DEM,Gavin Newsom,95
 Shasta,0261,Lieutenant Governor,,REP,George Yang,50
 Shasta,0261,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0261,Lieutenant Governor,,REP,Ron Nehring,95
+Shasta,0261,Proposition 41,,,No,172
+Shasta,0261,Proposition 41,,,Yes,150
+Shasta,0261,Proposition 42,,,No,177
+Shasta,0261,Proposition 42,,,Yes,138
 Shasta,0261,Secretary of State,,DEM,Alex Padilla,45
 Shasta,0261,Secretary of State,,IND,Dan Schnur,20
 Shasta,0261,Secretary of State,,GRN,David Curtis,14
@@ -1770,51 +1778,30 @@ Shasta,0261,U.S. House,1,REP,Gregory Cheadle,48
 Shasta,0261,U.S. House,1,DEM,Heidi Hall,76
 Shasta,0264,Attorney General,,REP,David King,1
 Shasta,0264,Attorney General,,REP,John Haggerty,1
-Shasta,0264,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0264,Attorney General,,DEM,Kamala D. Harris,2
-Shasta,0264,Attorney General,,IND,Orly Taitz,0
 Shasta,0264,Attorney General,,REP,Phil Wyman,3
 Shasta,0264,Attorney General,,REP,Ronald Gold,1
-Shasta,0264,Board of Equalization,1,DEM,Chris Parker,0
 Shasta,0264,Board of Equalization,1,REP,George Runner,8
 Shasta,0264,Controller,,REP,Ashley Swearengin,5
-Shasta,0264,Controller,,DEM,Betty T. Yee,0
 Shasta,0264,Controller,,REP,David Evans,2
 Shasta,0264,Controller,,DEM,John A. Pérez,1
-Shasta,0264,Controller,,GRN,Laura Wells,0
-Shasta,0264,Controller,,DEM,Tammy D. Blair,0
-Shasta,0264,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0264,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0264,Governor,,REP,Alma Marie Winston,1
 Shasta,0264,Governor,,REP,Andrew Blount,1
-Shasta,0264,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0264,Governor,,DEM,"Edmund G. ""Jerry"" Brown",2
-Shasta,0264,Governor,,REP,Glenn Champ,0
-Shasta,0264,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0264,Governor,,IND,Joe Leicht,0
-Shasta,0264,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0264,Governor,,REP,Neel Kashkari,1
 Shasta,0264,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0264,Governor,,REP,Richard William Aguirre,0
-Shasta,0264,Governor,,IND,Robert Newman,0
 Shasta,0264,Governor,,REP,Tim Donnelly,3
 Shasta,0264,Insurance Commissioner,,DEM,Dave Jones,1
-Shasta,0264,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0264,Insurance Commissioner,,REP,Ted Gaines,7
-Shasta,0264,Lieutenant Governor,,AME,Alan Reynolds,0
 Shasta,0264,Lieutenant Governor,,PAF,Amos Johnson,1
-Shasta,0264,Lieutenant Governor,,REP,David Fennell,0
-Shasta,0264,Lieutenant Governor,,DEM,Eric Korevaar,0
 Shasta,0264,Lieutenant Governor,,DEM,Gavin Newsom,1
 Shasta,0264,Lieutenant Governor,,REP,George Yang,4
 Shasta,0264,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0264,Lieutenant Governor,,REP,Ron Nehring,2
-Shasta,0264,Secretary of State,,DEM,Alex Padilla,0
-Shasta,0264,Secretary of State,,IND,Dan Schnur,0
-Shasta,0264,Secretary of State,,GRN,David Curtis,0
-Shasta,0264,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0264,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0264,Secretary of State,,DEM,Leland Yee,0
+Shasta,0264,Proposition 41,,,No,4
+Shasta,0264,Proposition 41,,,Yes,5
+Shasta,0264,Proposition 42,,,No,4
+Shasta,0264,Proposition 42,,,Yes,4
 Shasta,0264,Secretary of State,,REP,Pete Peterson,7
 Shasta,0264,Secretary of State,,REP,Roy Allmond,1
 Shasta,0264,State Assembly,1,REP,Brian Dahle,8
@@ -1822,74 +1809,23 @@ Shasta,0264,State Assembly,1,DEM,Brigham Sawyer Smith,1
 Shasta,0264,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 Shasta,0264,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Shasta,0264,Superintendent of Public Instruction,,NOP,Tom Torlakson,4
-Shasta,0264,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0264,Treasurer,,REP,Greg Conlon,4
 Shasta,0264,Treasurer,,DEM,John Chiang,4
-Shasta,0264,U.S. House,1,DEM,Dan Levine,0
 Shasta,0264,U.S. House,1,REP,Doug La Malfa,6
 Shasta,0264,U.S. House,1,REP,Gregory Cheadle,2
-Shasta,0264,U.S. House,1,DEM,Heidi Hall,0
-Shasta,0270,Attorney General,,REP,David King,0
-Shasta,0270,Attorney General,,REP,John Haggerty,0
-Shasta,0270,Attorney General,,LIB,Jonathan Jaech,0
-Shasta,0270,Attorney General,,DEM,Kamala D. Harris,0
-Shasta,0270,Attorney General,,IND,Orly Taitz,0
-Shasta,0270,Attorney General,,REP,Phil Wyman,0
 Shasta,0270,Attorney General,,REP,Ronald Gold,1
-Shasta,0270,Board of Equalization,1,DEM,Chris Parker,0
 Shasta,0270,Board of Equalization,1,REP,George Runner,1
-Shasta,0270,Controller,,REP,Ashley Swearengin,0
-Shasta,0270,Controller,,DEM,Betty T. Yee,0
 Shasta,0270,Controller,,REP,David Evans,1
-Shasta,0270,Controller,,DEM,John A. Pérez,0
-Shasta,0270,Controller,,GRN,Laura Wells,0
-Shasta,0270,Controller,,DEM,Tammy D. Blair,0
-Shasta,0270,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0270,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0270,Governor,,REP,Alma Marie Winston,0
-Shasta,0270,Governor,,REP,Andrew Blount,0
-Shasta,0270,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0270,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
-Shasta,0270,Governor,,REP,Glenn Champ,0
-Shasta,0270,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0270,Governor,,IND,Joe Leicht,0
-Shasta,0270,Governor,,GRN,Luis J. Rodriguez,0
-Shasta,0270,Governor,,REP,Neel Kashkari,0
-Shasta,0270,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0270,Governor,,REP,Richard William Aguirre,0
-Shasta,0270,Governor,,IND,Robert Newman,0
-Shasta,0270,Governor,,REP,Tim Donnelly,0
-Shasta,0270,Insurance Commissioner,,DEM,Dave Jones,0
-Shasta,0270,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0270,Insurance Commissioner,,REP,Ted Gaines,1
-Shasta,0270,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0270,Lieutenant Governor,,PAF,Amos Johnson,0
-Shasta,0270,Lieutenant Governor,,REP,David Fennell,0
-Shasta,0270,Lieutenant Governor,,DEM,Eric Korevaar,0
-Shasta,0270,Lieutenant Governor,,DEM,Gavin Newsom,0
 Shasta,0270,Lieutenant Governor,,REP,George Yang,1
-Shasta,0270,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Shasta,0270,Lieutenant Governor,,REP,Ron Nehring,0
-Shasta,0270,Secretary of State,,DEM,Alex Padilla,0
-Shasta,0270,Secretary of State,,IND,Dan Schnur,0
+Shasta,0270,Proposition 41,,,Yes,1
+Shasta,0270,Proposition 42,,,No,1
 Shasta,0270,Secretary of State,,GRN,David Curtis,1
-Shasta,0270,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0270,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0270,Secretary of State,,DEM,Leland Yee,0
-Shasta,0270,Secretary of State,,REP,Pete Peterson,0
-Shasta,0270,Secretary of State,,REP,Roy Allmond,0
 Shasta,0270,State Assembly,1,REP,Brian Dahle,1
-Shasta,0270,State Assembly,1,DEM,Brigham Sawyer Smith,0
 Shasta,0270,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
-Shasta,0270,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Shasta,0270,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Shasta,0270,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0270,Treasurer,,REP,Greg Conlon,1
-Shasta,0270,Treasurer,,DEM,John Chiang,0
-Shasta,0270,U.S. House,1,DEM,Dan Levine,0
-Shasta,0270,U.S. House,1,REP,Doug La Malfa,0
 Shasta,0270,U.S. House,1,REP,Gregory Cheadle,1
-Shasta,0270,U.S. House,1,DEM,Heidi Hall,0
 Shasta,0310,Attorney General,,REP,David King,23
 Shasta,0310,Attorney General,,REP,John Haggerty,39
 Shasta,0310,Attorney General,,LIB,Jonathan Jaech,12
@@ -1931,6 +1867,10 @@ Shasta,0310,Lieutenant Governor,,DEM,Gavin Newsom,57
 Shasta,0310,Lieutenant Governor,,REP,George Yang,40
 Shasta,0310,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0310,Lieutenant Governor,,REP,Ron Nehring,77
+Shasta,0310,Proposition 41,,,No,118
+Shasta,0310,Proposition 41,,,Yes,119
+Shasta,0310,Proposition 42,,,No,119
+Shasta,0310,Proposition 42,,,Yes,116
 Shasta,0310,Secretary of State,,DEM,Alex Padilla,19
 Shasta,0310,Secretary of State,,IND,Dan Schnur,12
 Shasta,0310,Secretary of State,,GRN,David Curtis,10
@@ -1992,6 +1932,10 @@ Shasta,0311,Lieutenant Governor,,DEM,Gavin Newsom,153
 Shasta,0311,Lieutenant Governor,,REP,George Yang,70
 Shasta,0311,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Shasta,0311,Lieutenant Governor,,REP,Ron Nehring,135
+Shasta,0311,Proposition 41,,,No,238
+Shasta,0311,Proposition 41,,,Yes,260
+Shasta,0311,Proposition 42,,,No,287
+Shasta,0311,Proposition 42,,,Yes,194
 Shasta,0311,Secretary of State,,DEM,Alex Padilla,79
 Shasta,0311,Secretary of State,,IND,Dan Schnur,22
 Shasta,0311,Secretary of State,,GRN,David Curtis,18
@@ -2035,7 +1979,6 @@ Shasta,0320,Governor,,PAF,Cindy L. Sheehan,7
 Shasta,0320,Governor,,DEM,"Edmund G. ""Jerry"" Brown",140
 Shasta,0320,Governor,,REP,Glenn Champ,31
 Shasta,0320,Governor,,IND,Janel Hyeshia Buycks,4
-Shasta,0320,Governor,,IND,Joe Leicht,0
 Shasta,0320,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0320,Governor,,REP,Neel Kashkari,67
 Shasta,0320,Governor,,IND,Rakesh Kumar Christian,2
@@ -2053,6 +1996,10 @@ Shasta,0320,Lieutenant Governor,,DEM,Gavin Newsom,118
 Shasta,0320,Lieutenant Governor,,REP,George Yang,70
 Shasta,0320,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0320,Lieutenant Governor,,REP,Ron Nehring,158
+Shasta,0320,Proposition 41,,,No,208
+Shasta,0320,Proposition 41,,,Yes,242
+Shasta,0320,Proposition 42,,,No,248
+Shasta,0320,Proposition 42,,,Yes,193
 Shasta,0320,Secretary of State,,DEM,Alex Padilla,56
 Shasta,0320,Secretary of State,,IND,Dan Schnur,26
 Shasta,0320,Secretary of State,,GRN,David Curtis,10
@@ -2073,67 +2020,37 @@ Shasta,0320,U.S. House,1,DEM,Dan Levine,28
 Shasta,0320,U.S. House,1,REP,Doug La Malfa,265
 Shasta,0320,U.S. House,1,REP,Gregory Cheadle,50
 Shasta,0320,U.S. House,1,DEM,Heidi Hall,112
-Shasta,0322,Attorney General,,REP,David King,0
 Shasta,0322,Attorney General,,REP,John Haggerty,7
-Shasta,0322,Attorney General,,LIB,Jonathan Jaech,0
-Shasta,0322,Attorney General,,DEM,Kamala D. Harris,0
-Shasta,0322,Attorney General,,IND,Orly Taitz,0
 Shasta,0322,Attorney General,,REP,Phil Wyman,2
 Shasta,0322,Attorney General,,REP,Ronald Gold,2
 Shasta,0322,Board of Equalization,1,DEM,Chris Parker,3
 Shasta,0322,Board of Equalization,1,REP,George Runner,7
-Shasta,0322,Controller,,REP,Ashley Swearengin,0
-Shasta,0322,Controller,,DEM,Betty T. Yee,0
 Shasta,0322,Controller,,REP,David Evans,9
 Shasta,0322,Controller,,DEM,John A. Pérez,1
-Shasta,0322,Controller,,GRN,Laura Wells,0
 Shasta,0322,Controller,,DEM,Tammy D. Blair,1
-Shasta,0322,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0322,Governor,,DEM,Akinyemi Agbede,1
-Shasta,0322,Governor,,REP,Alma Marie Winston,0
-Shasta,0322,Governor,,REP,Andrew Blount,0
-Shasta,0322,Governor,,PAF,Cindy L. Sheehan,0
-Shasta,0322,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
 Shasta,0322,Governor,,REP,Glenn Champ,1
-Shasta,0322,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0322,Governor,,IND,Joe Leicht,0
-Shasta,0322,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0322,Governor,,REP,Neel Kashkari,2
-Shasta,0322,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0322,Governor,,REP,Richard William Aguirre,0
-Shasta,0322,Governor,,IND,Robert Newman,0
 Shasta,0322,Governor,,REP,Tim Donnelly,7
 Shasta,0322,Insurance Commissioner,,DEM,Dave Jones,1
 Shasta,0322,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Shasta,0322,Insurance Commissioner,,REP,Ted Gaines,8
-Shasta,0322,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0322,Lieutenant Governor,,PAF,Amos Johnson,0
-Shasta,0322,Lieutenant Governor,,REP,David Fennell,0
-Shasta,0322,Lieutenant Governor,,DEM,Eric Korevaar,0
 Shasta,0322,Lieutenant Governor,,DEM,Gavin Newsom,3
-Shasta,0322,Lieutenant Governor,,REP,George Yang,0
-Shasta,0322,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0322,Lieutenant Governor,,REP,Ron Nehring,6
-Shasta,0322,Secretary of State,,DEM,Alex Padilla,0
+Shasta,0322,Proposition 41,,,No,4
+Shasta,0322,Proposition 41,,,Yes,4
+Shasta,0322,Proposition 42,,,No,8
+Shasta,0322,Proposition 42,,,Yes,1
 Shasta,0322,Secretary of State,,IND,Dan Schnur,1
-Shasta,0322,Secretary of State,,GRN,David Curtis,0
 Shasta,0322,Secretary of State,,DEM,Derek Cressman,1
-Shasta,0322,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0322,Secretary of State,,DEM,Leland Yee,0
 Shasta,0322,Secretary of State,,REP,Pete Peterson,9
-Shasta,0322,Secretary of State,,REP,Roy Allmond,0
 Shasta,0322,State Assembly,1,REP,Brian Dahle,11
-Shasta,0322,State Assembly,1,DEM,Brigham Sawyer Smith,0
 Shasta,0322,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Shasta,0322,Superintendent of Public Instruction,,NOP,Marshall Tuck,2
 Shasta,0322,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-Shasta,0322,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0322,Treasurer,,REP,Greg Conlon,10
 Shasta,0322,Treasurer,,DEM,John Chiang,1
-Shasta,0322,U.S. House,1,DEM,Dan Levine,0
 Shasta,0322,U.S. House,1,REP,Doug La Malfa,11
-Shasta,0322,U.S. House,1,REP,Gregory Cheadle,0
-Shasta,0322,U.S. House,1,DEM,Heidi Hall,0
 Shasta,0330,Attorney General,,REP,David King,15
 Shasta,0330,Attorney General,,REP,John Haggerty,60
 Shasta,0330,Attorney General,,LIB,Jonathan Jaech,12
@@ -2175,6 +2092,10 @@ Shasta,0330,Lieutenant Governor,,DEM,Gavin Newsom,106
 Shasta,0330,Lieutenant Governor,,REP,George Yang,52
 Shasta,0330,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0330,Lieutenant Governor,,REP,Ron Nehring,99
+Shasta,0330,Proposition 41,,,No,157
+Shasta,0330,Proposition 41,,,Yes,194
+Shasta,0330,Proposition 42,,,No,163
+Shasta,0330,Proposition 42,,,Yes,183
 Shasta,0330,Secretary of State,,DEM,Alex Padilla,49
 Shasta,0330,Secretary of State,,IND,Dan Schnur,22
 Shasta,0330,Secretary of State,,GRN,David Curtis,14
@@ -2236,6 +2157,10 @@ Shasta,0340,Lieutenant Governor,,DEM,Gavin Newsom,104
 Shasta,0340,Lieutenant Governor,,REP,George Yang,64
 Shasta,0340,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Shasta,0340,Lieutenant Governor,,REP,Ron Nehring,123
+Shasta,0340,Proposition 41,,,No,190
+Shasta,0340,Proposition 41,,,Yes,213
+Shasta,0340,Proposition 42,,,No,231
+Shasta,0340,Proposition 42,,,Yes,163
 Shasta,0340,Secretary of State,,DEM,Alex Padilla,49
 Shasta,0340,Secretary of State,,IND,Dan Schnur,13
 Shasta,0340,Secretary of State,,GRN,David Curtis,10
@@ -2272,7 +2197,6 @@ Shasta,0343,Controller,,DEM,John A. Pérez,36
 Shasta,0343,Controller,,GRN,Laura Wells,38
 Shasta,0343,Controller,,DEM,Tammy D. Blair,15
 Shasta,0343,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Shasta,0343,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0343,Governor,,REP,Alma Marie Winston,12
 Shasta,0343,Governor,,REP,Andrew Blount,13
 Shasta,0343,Governor,,PAF,Cindy L. Sheehan,10
@@ -2297,6 +2221,10 @@ Shasta,0343,Lieutenant Governor,,DEM,Gavin Newsom,133
 Shasta,0343,Lieutenant Governor,,REP,George Yang,74
 Shasta,0343,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Shasta,0343,Lieutenant Governor,,REP,Ron Nehring,143
+Shasta,0343,Proposition 41,,,No,195
+Shasta,0343,Proposition 41,,,Yes,266
+Shasta,0343,Proposition 42,,,No,247
+Shasta,0343,Proposition 42,,,Yes,198
 Shasta,0343,Secretary of State,,DEM,Alex Padilla,57
 Shasta,0343,Secretary of State,,IND,Dan Schnur,26
 Shasta,0343,Secretary of State,,GRN,David Curtis,18
@@ -2358,6 +2286,10 @@ Shasta,0350,Lieutenant Governor,,DEM,Gavin Newsom,116
 Shasta,0350,Lieutenant Governor,,REP,George Yang,78
 Shasta,0350,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Shasta,0350,Lieutenant Governor,,REP,Ron Nehring,157
+Shasta,0350,Proposition 41,,,No,231
+Shasta,0350,Proposition 41,,,Yes,247
+Shasta,0350,Proposition 42,,,No,237
+Shasta,0350,Proposition 42,,,Yes,218
 Shasta,0350,Secretary of State,,DEM,Alex Padilla,53
 Shasta,0350,Secretary of State,,IND,Dan Schnur,37
 Shasta,0350,Secretary of State,,GRN,David Curtis,13
@@ -2405,7 +2337,6 @@ Shasta,0360,Governor,,IND,Joe Leicht,1
 Shasta,0360,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0360,Governor,,REP,Neel Kashkari,27
 Shasta,0360,Governor,,IND,Rakesh Kumar Christian,2
-Shasta,0360,Governor,,REP,Richard William Aguirre,0
 Shasta,0360,Governor,,IND,Robert Newman,7
 Shasta,0360,Governor,,REP,Tim Donnelly,81
 Shasta,0360,Insurance Commissioner,,DEM,Dave Jones,108
@@ -2419,6 +2350,10 @@ Shasta,0360,Lieutenant Governor,,DEM,Gavin Newsom,99
 Shasta,0360,Lieutenant Governor,,REP,George Yang,28
 Shasta,0360,Lieutenant Governor,,GRN,Jena F. Goodman,10
 Shasta,0360,Lieutenant Governor,,REP,Ron Nehring,73
+Shasta,0360,Proposition 41,,,No,107
+Shasta,0360,Proposition 41,,,Yes,151
+Shasta,0360,Proposition 42,,,No,107
+Shasta,0360,Proposition 42,,,Yes,144
 Shasta,0360,Secretary of State,,DEM,Alex Padilla,38
 Shasta,0360,Secretary of State,,IND,Dan Schnur,11
 Shasta,0360,Secretary of State,,GRN,David Curtis,15
@@ -2455,18 +2390,14 @@ Shasta,0370,Controller,,DEM,John A. Pérez,8
 Shasta,0370,Controller,,GRN,Laura Wells,11
 Shasta,0370,Controller,,DEM,Tammy D. Blair,7
 Shasta,0370,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,0370,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0370,Governor,,REP,Alma Marie Winston,4
 Shasta,0370,Governor,,REP,Andrew Blount,8
 Shasta,0370,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0370,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Shasta,0370,Governor,,REP,Glenn Champ,6
 Shasta,0370,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0370,Governor,,IND,Joe Leicht,0
 Shasta,0370,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0370,Governor,,REP,Neel Kashkari,27
-Shasta,0370,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0370,Governor,,REP,Richard William Aguirre,0
 Shasta,0370,Governor,,IND,Robert Newman,2
 Shasta,0370,Governor,,REP,Tim Donnelly,42
 Shasta,0370,Insurance Commissioner,,DEM,Dave Jones,61
@@ -2480,6 +2411,10 @@ Shasta,0370,Lieutenant Governor,,DEM,Gavin Newsom,58
 Shasta,0370,Lieutenant Governor,,REP,George Yang,29
 Shasta,0370,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0370,Lieutenant Governor,,REP,Ron Nehring,44
+Shasta,0370,Proposition 41,,,No,75
+Shasta,0370,Proposition 41,,,Yes,96
+Shasta,0370,Proposition 42,,,No,94
+Shasta,0370,Proposition 42,,,Yes,71
 Shasta,0370,Secretary of State,,DEM,Alex Padilla,23
 Shasta,0370,Secretary of State,,IND,Dan Schnur,11
 Shasta,0370,Secretary of State,,GRN,David Curtis,5
@@ -2541,6 +2476,10 @@ Shasta,0371,Lieutenant Governor,,DEM,Gavin Newsom,127
 Shasta,0371,Lieutenant Governor,,REP,George Yang,63
 Shasta,0371,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Shasta,0371,Lieutenant Governor,,REP,Ron Nehring,153
+Shasta,0371,Proposition 41,,,No,186
+Shasta,0371,Proposition 41,,,Yes,246
+Shasta,0371,Proposition 42,,,No,219
+Shasta,0371,Proposition 42,,,Yes,187
 Shasta,0371,Secretary of State,,DEM,Alex Padilla,57
 Shasta,0371,Secretary of State,,IND,Dan Schnur,24
 Shasta,0371,Secretary of State,,GRN,David Curtis,13
@@ -2583,12 +2522,8 @@ Shasta,0375,Governor,,REP,Andrew Blount,18
 Shasta,0375,Governor,,PAF,Cindy L. Sheehan,5
 Shasta,0375,Governor,,DEM,"Edmund G. ""Jerry"" Brown",111
 Shasta,0375,Governor,,REP,Glenn Champ,16
-Shasta,0375,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0375,Governor,,IND,Joe Leicht,0
 Shasta,0375,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0375,Governor,,REP,Neel Kashkari,48
-Shasta,0375,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0375,Governor,,REP,Richard William Aguirre,0
 Shasta,0375,Governor,,IND,Robert Newman,4
 Shasta,0375,Governor,,REP,Tim Donnelly,91
 Shasta,0375,Insurance Commissioner,,DEM,Dave Jones,89
@@ -2602,6 +2537,10 @@ Shasta,0375,Lieutenant Governor,,DEM,Gavin Newsom,73
 Shasta,0375,Lieutenant Governor,,REP,George Yang,47
 Shasta,0375,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0375,Lieutenant Governor,,REP,Ron Nehring,92
+Shasta,0375,Proposition 41,,,No,131
+Shasta,0375,Proposition 41,,,Yes,166
+Shasta,0375,Proposition 42,,,No,149
+Shasta,0375,Proposition 42,,,Yes,139
 Shasta,0375,Secretary of State,,DEM,Alex Padilla,39
 Shasta,0375,Secretary of State,,IND,Dan Schnur,24
 Shasta,0375,Secretary of State,,GRN,David Curtis,8
@@ -2637,19 +2576,12 @@ Shasta,0380,Controller,,REP,David Evans,5
 Shasta,0380,Controller,,DEM,John A. Pérez,3
 Shasta,0380,Controller,,GRN,Laura Wells,13
 Shasta,0380,Controller,,DEM,Tammy D. Blair,4
-Shasta,0380,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0380,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0380,Governor,,REP,Alma Marie Winston,0
 Shasta,0380,Governor,,REP,Andrew Blount,1
 Shasta,0380,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0380,Governor,,DEM,"Edmund G. ""Jerry"" Brown",12
 Shasta,0380,Governor,,REP,Glenn Champ,2
-Shasta,0380,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0380,Governor,,IND,Joe Leicht,1
 Shasta,0380,Governor,,GRN,Luis J. Rodriguez,3
-Shasta,0380,Governor,,REP,Neel Kashkari,0
-Shasta,0380,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0380,Governor,,REP,Richard William Aguirre,0
 Shasta,0380,Governor,,IND,Robert Newman,7
 Shasta,0380,Governor,,REP,Tim Donnelly,4
 Shasta,0380,Insurance Commissioner,,DEM,Dave Jones,14
@@ -2660,9 +2592,12 @@ Shasta,0380,Lieutenant Governor,,PAF,Amos Johnson,1
 Shasta,0380,Lieutenant Governor,,REP,David Fennell,1
 Shasta,0380,Lieutenant Governor,,DEM,Eric Korevaar,3
 Shasta,0380,Lieutenant Governor,,DEM,Gavin Newsom,13
-Shasta,0380,Lieutenant Governor,,REP,George Yang,0
 Shasta,0380,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Shasta,0380,Lieutenant Governor,,REP,Ron Nehring,3
+Shasta,0380,Proposition 41,,,No,9
+Shasta,0380,Proposition 41,,,Yes,24
+Shasta,0380,Proposition 42,,,No,9
+Shasta,0380,Proposition 42,,,Yes,24
 Shasta,0380,Secretary of State,,DEM,Alex Padilla,5
 Shasta,0380,Secretary of State,,IND,Dan Schnur,6
 Shasta,0380,Secretary of State,,GRN,David Curtis,10
@@ -2705,11 +2640,8 @@ Shasta,0390,Governor,,REP,Andrew Blount,4
 Shasta,0390,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0390,Governor,,DEM,"Edmund G. ""Jerry"" Brown",68
 Shasta,0390,Governor,,REP,Glenn Champ,5
-Shasta,0390,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0390,Governor,,IND,Joe Leicht,0
 Shasta,0390,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0390,Governor,,REP,Neel Kashkari,27
-Shasta,0390,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0390,Governor,,REP,Richard William Aguirre,2
 Shasta,0390,Governor,,IND,Robert Newman,8
 Shasta,0390,Governor,,REP,Tim Donnelly,51
@@ -2724,6 +2656,10 @@ Shasta,0390,Lieutenant Governor,,DEM,Gavin Newsom,54
 Shasta,0390,Lieutenant Governor,,REP,George Yang,23
 Shasta,0390,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0390,Lieutenant Governor,,REP,Ron Nehring,58
+Shasta,0390,Proposition 41,,,No,65
+Shasta,0390,Proposition 41,,,Yes,114
+Shasta,0390,Proposition 42,,,No,85
+Shasta,0390,Proposition 42,,,Yes,83
 Shasta,0390,Secretary of State,,DEM,Alex Padilla,38
 Shasta,0390,Secretary of State,,IND,Dan Schnur,6
 Shasta,0390,Secretary of State,,GRN,David Curtis,7
@@ -2760,7 +2696,6 @@ Shasta,0400,Controller,,DEM,John A. Pérez,21
 Shasta,0400,Controller,,GRN,Laura Wells,25
 Shasta,0400,Controller,,DEM,Tammy D. Blair,16
 Shasta,0400,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,0400,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0400,Governor,,REP,Alma Marie Winston,5
 Shasta,0400,Governor,,REP,Andrew Blount,7
 Shasta,0400,Governor,,PAF,Cindy L. Sheehan,7
@@ -2771,7 +2706,6 @@ Shasta,0400,Governor,,IND,Joe Leicht,6
 Shasta,0400,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0400,Governor,,REP,Neel Kashkari,14
 Shasta,0400,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0400,Governor,,REP,Richard William Aguirre,0
 Shasta,0400,Governor,,IND,Robert Newman,3
 Shasta,0400,Governor,,REP,Tim Donnelly,51
 Shasta,0400,Insurance Commissioner,,DEM,Dave Jones,73
@@ -2785,6 +2719,10 @@ Shasta,0400,Lieutenant Governor,,DEM,Gavin Newsom,69
 Shasta,0400,Lieutenant Governor,,REP,George Yang,20
 Shasta,0400,Lieutenant Governor,,GRN,Jena F. Goodman,11
 Shasta,0400,Lieutenant Governor,,REP,Ron Nehring,41
+Shasta,0400,Proposition 41,,,No,51
+Shasta,0400,Proposition 41,,,Yes,138
+Shasta,0400,Proposition 42,,,No,72
+Shasta,0400,Proposition 42,,,Yes,112
 Shasta,0400,Secretary of State,,DEM,Alex Padilla,25
 Shasta,0400,Secretary of State,,IND,Dan Schnur,14
 Shasta,0400,Secretary of State,,GRN,David Curtis,13
@@ -2820,18 +2758,14 @@ Shasta,0410,Controller,,REP,David Evans,44
 Shasta,0410,Controller,,DEM,John A. Pérez,10
 Shasta,0410,Controller,,GRN,Laura Wells,7
 Shasta,0410,Controller,,DEM,Tammy D. Blair,8
-Shasta,0410,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0410,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0410,Governor,,REP,Alma Marie Winston,3
 Shasta,0410,Governor,,REP,Andrew Blount,7
 Shasta,0410,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0410,Governor,,DEM,"Edmund G. ""Jerry"" Brown",46
 Shasta,0410,Governor,,REP,Glenn Champ,4
 Shasta,0410,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0410,Governor,,IND,Joe Leicht,0
 Shasta,0410,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0410,Governor,,REP,Neel Kashkari,34
-Shasta,0410,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0410,Governor,,REP,Richard William Aguirre,1
 Shasta,0410,Governor,,IND,Robert Newman,5
 Shasta,0410,Governor,,REP,Tim Donnelly,25
@@ -2846,6 +2780,10 @@ Shasta,0410,Lieutenant Governor,,DEM,Gavin Newsom,38
 Shasta,0410,Lieutenant Governor,,REP,George Yang,20
 Shasta,0410,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0410,Lieutenant Governor,,REP,Ron Nehring,37
+Shasta,0410,Proposition 41,,,No,73
+Shasta,0410,Proposition 41,,,Yes,56
+Shasta,0410,Proposition 42,,,No,62
+Shasta,0410,Proposition 42,,,Yes,61
 Shasta,0410,Secretary of State,,DEM,Alex Padilla,22
 Shasta,0410,Secretary of State,,IND,Dan Schnur,10
 Shasta,0410,Secretary of State,,GRN,David Curtis,4
@@ -2889,24 +2827,25 @@ Shasta,0420,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0420,Governor,,DEM,"Edmund G. ""Jerry"" Brown",65
 Shasta,0420,Governor,,REP,Glenn Champ,7
 Shasta,0420,Governor,,IND,Janel Hyeshia Buycks,2
-Shasta,0420,Governor,,IND,Joe Leicht,0
 Shasta,0420,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0420,Governor,,REP,Neel Kashkari,30
 Shasta,0420,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0420,Governor,,REP,Richard William Aguirre,0
 Shasta,0420,Governor,,IND,Robert Newman,3
 Shasta,0420,Governor,,REP,Tim Donnelly,58
 Shasta,0420,Insurance Commissioner,,DEM,Dave Jones,63
 Shasta,0420,Insurance Commissioner,,PAF,Nathalie Hrizi,14
 Shasta,0420,Insurance Commissioner,,REP,Ted Gaines,104
 Shasta,0420,Lieutenant Governor,,AME,Alan Reynolds,3
-Shasta,0420,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0420,Lieutenant Governor,,REP,David Fennell,31
 Shasta,0420,Lieutenant Governor,,DEM,Eric Korevaar,12
 Shasta,0420,Lieutenant Governor,,DEM,Gavin Newsom,55
 Shasta,0420,Lieutenant Governor,,REP,George Yang,23
 Shasta,0420,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0420,Lieutenant Governor,,REP,Ron Nehring,56
+Shasta,0420,Proposition 41,,,No,70
+Shasta,0420,Proposition 41,,,Yes,115
+Shasta,0420,Proposition 42,,,No,89
+Shasta,0420,Proposition 42,,,Yes,95
 Shasta,0420,Secretary of State,,DEM,Alex Padilla,23
 Shasta,0420,Secretary of State,,IND,Dan Schnur,12
 Shasta,0420,Secretary of State,,GRN,David Curtis,11
@@ -2949,7 +2888,6 @@ Shasta,0430,Governor,,REP,Andrew Blount,15
 Shasta,0430,Governor,,PAF,Cindy L. Sheehan,7
 Shasta,0430,Governor,,DEM,"Edmund G. ""Jerry"" Brown",110
 Shasta,0430,Governor,,REP,Glenn Champ,12
-Shasta,0430,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0430,Governor,,IND,Joe Leicht,3
 Shasta,0430,Governor,,GRN,Luis J. Rodriguez,7
 Shasta,0430,Governor,,REP,Neel Kashkari,43
@@ -2968,6 +2906,10 @@ Shasta,0430,Lieutenant Governor,,DEM,Gavin Newsom,90
 Shasta,0430,Lieutenant Governor,,REP,George Yang,42
 Shasta,0430,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0430,Lieutenant Governor,,REP,Ron Nehring,90
+Shasta,0430,Proposition 41,,,No,128
+Shasta,0430,Proposition 41,,,Yes,180
+Shasta,0430,Proposition 42,,,No,170
+Shasta,0430,Proposition 42,,,Yes,132
 Shasta,0430,Secretary of State,,DEM,Alex Padilla,52
 Shasta,0430,Secretary of State,,IND,Dan Schnur,16
 Shasta,0430,Secretary of State,,GRN,David Curtis,11
@@ -3029,6 +2971,10 @@ Shasta,0441,Lieutenant Governor,,DEM,Gavin Newsom,116
 Shasta,0441,Lieutenant Governor,,REP,George Yang,47
 Shasta,0441,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0441,Lieutenant Governor,,REP,Ron Nehring,103
+Shasta,0441,Proposition 41,,,No,171
+Shasta,0441,Proposition 41,,,Yes,179
+Shasta,0441,Proposition 42,,,No,186
+Shasta,0441,Proposition 42,,,Yes,155
 Shasta,0441,Secretary of State,,DEM,Alex Padilla,30
 Shasta,0441,Secretary of State,,IND,Dan Schnur,16
 Shasta,0441,Secretary of State,,GRN,David Curtis,8
@@ -3065,14 +3011,10 @@ Shasta,0443,Controller,,DEM,John A. Pérez,29
 Shasta,0443,Controller,,GRN,Laura Wells,17
 Shasta,0443,Controller,,DEM,Tammy D. Blair,13
 Shasta,0443,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,0443,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0443,Governor,,REP,Alma Marie Winston,6
 Shasta,0443,Governor,,REP,Andrew Blount,14
-Shasta,0443,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0443,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Shasta,0443,Governor,,REP,Glenn Champ,9
-Shasta,0443,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0443,Governor,,IND,Joe Leicht,0
 Shasta,0443,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0443,Governor,,REP,Neel Kashkari,50
 Shasta,0443,Governor,,IND,Rakesh Kumar Christian,1
@@ -3090,6 +3032,10 @@ Shasta,0443,Lieutenant Governor,,DEM,Gavin Newsom,76
 Shasta,0443,Lieutenant Governor,,REP,George Yang,40
 Shasta,0443,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0443,Lieutenant Governor,,REP,Ron Nehring,91
+Shasta,0443,Proposition 41,,,No,101
+Shasta,0443,Proposition 41,,,Yes,169
+Shasta,0443,Proposition 42,,,No,141
+Shasta,0443,Proposition 42,,,Yes,115
 Shasta,0443,Secretary of State,,DEM,Alex Padilla,39
 Shasta,0443,Secretary of State,,IND,Dan Schnur,18
 Shasta,0443,Secretary of State,,GRN,David Curtis,7
@@ -3132,11 +3078,8 @@ Shasta,0445,Governor,,REP,Andrew Blount,14
 Shasta,0445,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0445,Governor,,DEM,"Edmund G. ""Jerry"" Brown",85
 Shasta,0445,Governor,,REP,Glenn Champ,14
-Shasta,0445,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0445,Governor,,IND,Joe Leicht,0
 Shasta,0445,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0445,Governor,,REP,Neel Kashkari,46
-Shasta,0445,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0445,Governor,,REP,Richard William Aguirre,1
 Shasta,0445,Governor,,IND,Robert Newman,4
 Shasta,0445,Governor,,REP,Tim Donnelly,69
@@ -3151,6 +3094,10 @@ Shasta,0445,Lieutenant Governor,,DEM,Gavin Newsom,81
 Shasta,0445,Lieutenant Governor,,REP,George Yang,28
 Shasta,0445,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0445,Lieutenant Governor,,REP,Ron Nehring,75
+Shasta,0445,Proposition 41,,,No,98
+Shasta,0445,Proposition 41,,,Yes,140
+Shasta,0445,Proposition 42,,,No,112
+Shasta,0445,Proposition 42,,,Yes,121
 Shasta,0445,Secretary of State,,DEM,Alex Padilla,41
 Shasta,0445,Secretary of State,,IND,Dan Schnur,20
 Shasta,0445,Secretary of State,,GRN,David Curtis,13
@@ -3197,7 +3144,6 @@ Shasta,0450,Governor,,IND,Janel Hyeshia Buycks,3
 Shasta,0450,Governor,,IND,Joe Leicht,3
 Shasta,0450,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0450,Governor,,REP,Neel Kashkari,71
-Shasta,0450,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0450,Governor,,REP,Richard William Aguirre,3
 Shasta,0450,Governor,,IND,Robert Newman,11
 Shasta,0450,Governor,,REP,Tim Donnelly,65
@@ -3212,6 +3158,10 @@ Shasta,0450,Lieutenant Governor,,DEM,Gavin Newsom,95
 Shasta,0450,Lieutenant Governor,,REP,George Yang,43
 Shasta,0450,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0450,Lieutenant Governor,,REP,Ron Nehring,89
+Shasta,0450,Proposition 41,,,No,124
+Shasta,0450,Proposition 41,,,Yes,184
+Shasta,0450,Proposition 42,,,No,152
+Shasta,0450,Proposition 42,,,Yes,150
 Shasta,0450,Secretary of State,,DEM,Alex Padilla,44
 Shasta,0450,Secretary of State,,IND,Dan Schnur,25
 Shasta,0450,Secretary of State,,GRN,David Curtis,7
@@ -3247,38 +3197,34 @@ Shasta,0462,Controller,,REP,David Evans,12
 Shasta,0462,Controller,,DEM,John A. Pérez,1
 Shasta,0462,Controller,,GRN,Laura Wells,4
 Shasta,0462,Controller,,DEM,Tammy D. Blair,2
-Shasta,0462,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0462,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0462,Governor,,REP,Alma Marie Winston,1
 Shasta,0462,Governor,,REP,Andrew Blount,1
 Shasta,0462,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,0462,Governor,,DEM,"Edmund G. ""Jerry"" Brown",13
 Shasta,0462,Governor,,REP,Glenn Champ,2
-Shasta,0462,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0462,Governor,,IND,Joe Leicht,0
 Shasta,0462,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0462,Governor,,REP,Neel Kashkari,8
-Shasta,0462,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0462,Governor,,REP,Richard William Aguirre,0
 Shasta,0462,Governor,,IND,Robert Newman,1
 Shasta,0462,Governor,,REP,Tim Donnelly,6
 Shasta,0462,Insurance Commissioner,,DEM,Dave Jones,8
 Shasta,0462,Insurance Commissioner,,PAF,Nathalie Hrizi,7
 Shasta,0462,Insurance Commissioner,,REP,Ted Gaines,22
 Shasta,0462,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0462,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0462,Lieutenant Governor,,REP,David Fennell,3
 Shasta,0462,Lieutenant Governor,,DEM,Eric Korevaar,2
 Shasta,0462,Lieutenant Governor,,DEM,Gavin Newsom,9
 Shasta,0462,Lieutenant Governor,,REP,George Yang,1
 Shasta,0462,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Shasta,0462,Lieutenant Governor,,REP,Ron Nehring,15
+Shasta,0462,Proposition 41,,,No,17
+Shasta,0462,Proposition 41,,,Yes,16
+Shasta,0462,Proposition 42,,,No,16
+Shasta,0462,Proposition 42,,,Yes,15
 Shasta,0462,Secretary of State,,DEM,Alex Padilla,4
 Shasta,0462,Secretary of State,,IND,Dan Schnur,2
 Shasta,0462,Secretary of State,,GRN,David Curtis,3
 Shasta,0462,Secretary of State,,DEM,Derek Cressman,3
 Shasta,0462,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Shasta,0462,Secretary of State,,DEM,Leland Yee,0
 Shasta,0462,Secretary of State,,REP,Pete Peterson,19
 Shasta,0462,Secretary of State,,REP,Roy Allmond,2
 Shasta,0462,State Assembly,1,REP,Brian Dahle,26
@@ -3293,72 +3239,34 @@ Shasta,0462,U.S. House,1,DEM,Dan Levine,3
 Shasta,0462,U.S. House,1,REP,Doug La Malfa,22
 Shasta,0462,U.S. House,1,REP,Gregory Cheadle,3
 Shasta,0462,U.S. House,1,DEM,Heidi Hall,9
-Shasta,0464,Attorney General,,REP,David King,0
-Shasta,0464,Attorney General,,REP,John Haggerty,0
-Shasta,0464,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0464,Attorney General,,DEM,Kamala D. Harris,1
-Shasta,0464,Attorney General,,IND,Orly Taitz,0
-Shasta,0464,Attorney General,,REP,Phil Wyman,0
 Shasta,0464,Attorney General,,REP,Ronald Gold,2
 Shasta,0464,Board of Equalization,1,DEM,Chris Parker,1
 Shasta,0464,Board of Equalization,1,REP,George Runner,2
-Shasta,0464,Controller,,REP,Ashley Swearengin,0
-Shasta,0464,Controller,,DEM,Betty T. Yee,0
 Shasta,0464,Controller,,REP,David Evans,2
 Shasta,0464,Controller,,DEM,John A. Pérez,1
-Shasta,0464,Controller,,GRN,Laura Wells,0
-Shasta,0464,Controller,,DEM,Tammy D. Blair,0
-Shasta,0464,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0464,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0464,Governor,,REP,Alma Marie Winston,0
 Shasta,0464,Governor,,REP,Andrew Blount,1
-Shasta,0464,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0464,Governor,,DEM,"Edmund G. ""Jerry"" Brown",1
-Shasta,0464,Governor,,REP,Glenn Champ,0
-Shasta,0464,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0464,Governor,,IND,Joe Leicht,0
-Shasta,0464,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0464,Governor,,REP,Neel Kashkari,1
-Shasta,0464,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0464,Governor,,REP,Richard William Aguirre,0
-Shasta,0464,Governor,,IND,Robert Newman,0
-Shasta,0464,Governor,,REP,Tim Donnelly,0
 Shasta,0464,Insurance Commissioner,,DEM,Dave Jones,1
-Shasta,0464,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0464,Insurance Commissioner,,REP,Ted Gaines,2
-Shasta,0464,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0464,Lieutenant Governor,,PAF,Amos Johnson,0
-Shasta,0464,Lieutenant Governor,,REP,David Fennell,0
 Shasta,0464,Lieutenant Governor,,DEM,Eric Korevaar,1
-Shasta,0464,Lieutenant Governor,,DEM,Gavin Newsom,0
-Shasta,0464,Lieutenant Governor,,REP,George Yang,0
-Shasta,0464,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0464,Lieutenant Governor,,REP,Ron Nehring,2
+Shasta,0464,Proposition 41,,,Yes,3
+Shasta,0464,Proposition 42,,,No,2
+Shasta,0464,Proposition 42,,,Yes,1
 Shasta,0464,Secretary of State,,DEM,Alex Padilla,1
-Shasta,0464,Secretary of State,,IND,Dan Schnur,0
-Shasta,0464,Secretary of State,,GRN,David Curtis,0
-Shasta,0464,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0464,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0464,Secretary of State,,DEM,Leland Yee,0
 Shasta,0464,Secretary of State,,REP,Pete Peterson,2
-Shasta,0464,Secretary of State,,REP,Roy Allmond,0
 Shasta,0464,State Assembly,1,REP,Brian Dahle,3
-Shasta,0464,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Shasta,0464,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 Shasta,0464,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Shasta,0464,Superintendent of Public Instruction,,NOP,Tom Torlakson,2
-Shasta,0464,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0464,Treasurer,,REP,Greg Conlon,2
 Shasta,0464,Treasurer,,DEM,John Chiang,1
-Shasta,0464,U.S. House,1,DEM,Dan Levine,0
 Shasta,0464,U.S. House,1,REP,Doug La Malfa,2
-Shasta,0464,U.S. House,1,REP,Gregory Cheadle,0
 Shasta,0464,U.S. House,1,DEM,Heidi Hall,1
-Shasta,0466,Attorney General,,REP,David King,0
 Shasta,0466,Attorney General,,REP,John Haggerty,1
 Shasta,0466,Attorney General,,LIB,Jonathan Jaech,2
 Shasta,0466,Attorney General,,DEM,Kamala D. Harris,3
-Shasta,0466,Attorney General,,IND,Orly Taitz,0
 Shasta,0466,Attorney General,,REP,Phil Wyman,2
 Shasta,0466,Attorney General,,REP,Ronald Gold,3
 Shasta,0466,Board of Equalization,1,DEM,Chris Parker,3
@@ -3366,41 +3274,21 @@ Shasta,0466,Board of Equalization,1,REP,George Runner,8
 Shasta,0466,Controller,,REP,Ashley Swearengin,3
 Shasta,0466,Controller,,DEM,Betty T. Yee,3
 Shasta,0466,Controller,,REP,David Evans,5
-Shasta,0466,Controller,,DEM,John A. Pérez,0
-Shasta,0466,Controller,,GRN,Laura Wells,0
-Shasta,0466,Controller,,DEM,Tammy D. Blair,0
-Shasta,0466,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0466,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0466,Governor,,REP,Alma Marie Winston,0
-Shasta,0466,Governor,,REP,Andrew Blount,0
-Shasta,0466,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0466,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Shasta,0466,Governor,,REP,Glenn Champ,0
-Shasta,0466,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0466,Governor,,IND,Joe Leicht,0
-Shasta,0466,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0466,Governor,,REP,Neel Kashkari,1
-Shasta,0466,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0466,Governor,,REP,Richard William Aguirre,1
-Shasta,0466,Governor,,IND,Robert Newman,0
 Shasta,0466,Governor,,REP,Tim Donnelly,6
 Shasta,0466,Insurance Commissioner,,DEM,Dave Jones,3
-Shasta,0466,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0466,Insurance Commissioner,,REP,Ted Gaines,8
-Shasta,0466,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0466,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0466,Lieutenant Governor,,REP,David Fennell,6
 Shasta,0466,Lieutenant Governor,,DEM,Eric Korevaar,2
 Shasta,0466,Lieutenant Governor,,DEM,Gavin Newsom,1
-Shasta,0466,Lieutenant Governor,,REP,George Yang,0
-Shasta,0466,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0466,Lieutenant Governor,,REP,Ron Nehring,1
+Shasta,0466,Proposition 41,,,No,9
+Shasta,0466,Proposition 41,,,Yes,2
+Shasta,0466,Proposition 42,,,No,6
+Shasta,0466,Proposition 42,,,Yes,4
 Shasta,0466,Secretary of State,,DEM,Alex Padilla,3
-Shasta,0466,Secretary of State,,IND,Dan Schnur,0
-Shasta,0466,Secretary of State,,GRN,David Curtis,0
-Shasta,0466,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0466,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0466,Secretary of State,,DEM,Leland Yee,0
 Shasta,0466,Secretary of State,,REP,Pete Peterson,7
 Shasta,0466,Secretary of State,,REP,Roy Allmond,1
 Shasta,0466,State Assembly,1,REP,Brian Dahle,9
@@ -3408,10 +3296,8 @@ Shasta,0466,State Assembly,1,DEM,Brigham Sawyer Smith,2
 Shasta,0466,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 Shasta,0466,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
 Shasta,0466,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-Shasta,0466,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0466,Treasurer,,REP,Greg Conlon,8
 Shasta,0466,Treasurer,,DEM,John Chiang,3
-Shasta,0466,U.S. House,1,DEM,Dan Levine,0
 Shasta,0466,U.S. House,1,REP,Doug La Malfa,6
 Shasta,0466,U.S. House,1,REP,Gregory Cheadle,2
 Shasta,0466,U.S. House,1,DEM,Heidi Hall,3
@@ -3430,32 +3316,25 @@ Shasta,0468,Controller,,REP,David Evans,51
 Shasta,0468,Controller,,DEM,John A. Pérez,5
 Shasta,0468,Controller,,GRN,Laura Wells,3
 Shasta,0468,Controller,,DEM,Tammy D. Blair,5
-Shasta,0468,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0468,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0468,Governor,,REP,Alma Marie Winston,3
 Shasta,0468,Governor,,REP,Andrew Blount,6
-Shasta,0468,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0468,Governor,,DEM,"Edmund G. ""Jerry"" Brown",46
 Shasta,0468,Governor,,REP,Glenn Champ,3
 Shasta,0468,Governor,,IND,Janel Hyeshia Buycks,2
-Shasta,0468,Governor,,IND,Joe Leicht,0
-Shasta,0468,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0468,Governor,,REP,Neel Kashkari,15
-Shasta,0468,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0468,Governor,,REP,Richard William Aguirre,0
 Shasta,0468,Governor,,IND,Robert Newman,2
 Shasta,0468,Governor,,REP,Tim Donnelly,24
 Shasta,0468,Insurance Commissioner,,DEM,Dave Jones,37
-Shasta,0468,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0468,Insurance Commissioner,,REP,Ted Gaines,60
-Shasta,0468,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0468,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0468,Lieutenant Governor,,REP,David Fennell,13
 Shasta,0468,Lieutenant Governor,,DEM,Eric Korevaar,4
 Shasta,0468,Lieutenant Governor,,DEM,Gavin Newsom,36
 Shasta,0468,Lieutenant Governor,,REP,George Yang,11
-Shasta,0468,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0468,Lieutenant Governor,,REP,Ron Nehring,37
+Shasta,0468,Proposition 41,,,No,31
+Shasta,0468,Proposition 41,,,Yes,69
+Shasta,0468,Proposition 42,,,No,43
+Shasta,0468,Proposition 42,,,Yes,54
 Shasta,0468,Secretary of State,,DEM,Alex Padilla,9
 Shasta,0468,Secretary of State,,IND,Dan Schnur,5
 Shasta,0468,Secretary of State,,GRN,David Curtis,1
@@ -3492,14 +3371,12 @@ Shasta,0490,Controller,,DEM,John A. Pérez,9
 Shasta,0490,Controller,,GRN,Laura Wells,13
 Shasta,0490,Controller,,DEM,Tammy D. Blair,5
 Shasta,0490,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Shasta,0490,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0490,Governor,,REP,Alma Marie Winston,5
 Shasta,0490,Governor,,REP,Andrew Blount,1
 Shasta,0490,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0490,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
 Shasta,0490,Governor,,REP,Glenn Champ,6
 Shasta,0490,Governor,,IND,Janel Hyeshia Buycks,4
-Shasta,0490,Governor,,IND,Joe Leicht,0
 Shasta,0490,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0490,Governor,,REP,Neel Kashkari,8
 Shasta,0490,Governor,,IND,Rakesh Kumar Christian,1
@@ -3517,6 +3394,10 @@ Shasta,0490,Lieutenant Governor,,DEM,Gavin Newsom,27
 Shasta,0490,Lieutenant Governor,,REP,George Yang,10
 Shasta,0490,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0490,Lieutenant Governor,,REP,Ron Nehring,22
+Shasta,0490,Proposition 41,,,No,34
+Shasta,0490,Proposition 41,,,Yes,51
+Shasta,0490,Proposition 42,,,No,48
+Shasta,0490,Proposition 42,,,Yes,36
 Shasta,0490,Secretary of State,,DEM,Alex Padilla,11
 Shasta,0490,Secretary of State,,IND,Dan Schnur,3
 Shasta,0490,Secretary of State,,GRN,David Curtis,6
@@ -3553,13 +3434,11 @@ Shasta,0500,Controller,,DEM,John A. Pérez,35
 Shasta,0500,Controller,,GRN,Laura Wells,43
 Shasta,0500,Controller,,DEM,Tammy D. Blair,14
 Shasta,0500,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,0500,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0500,Governor,,REP,Alma Marie Winston,13
 Shasta,0500,Governor,,REP,Andrew Blount,25
 Shasta,0500,Governor,,PAF,Cindy L. Sheehan,5
 Shasta,0500,Governor,,DEM,"Edmund G. ""Jerry"" Brown",154
 Shasta,0500,Governor,,REP,Glenn Champ,26
-Shasta,0500,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0500,Governor,,IND,Joe Leicht,8
 Shasta,0500,Governor,,GRN,Luis J. Rodriguez,9
 Shasta,0500,Governor,,REP,Neel Kashkari,108
@@ -3578,6 +3457,10 @@ Shasta,0500,Lieutenant Governor,,DEM,Gavin Newsom,127
 Shasta,0500,Lieutenant Governor,,REP,George Yang,72
 Shasta,0500,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0500,Lieutenant Governor,,REP,Ron Nehring,181
+Shasta,0500,Proposition 41,,,No,251
+Shasta,0500,Proposition 41,,,Yes,247
+Shasta,0500,Proposition 42,,,No,273
+Shasta,0500,Proposition 42,,,Yes,214
 Shasta,0500,Secretary of State,,DEM,Alex Padilla,53
 Shasta,0500,Secretary of State,,IND,Dan Schnur,24
 Shasta,0500,Secretary of State,,GRN,David Curtis,19
@@ -3614,31 +3497,29 @@ Shasta,0510,Controller,,DEM,John A. Pérez,10
 Shasta,0510,Controller,,GRN,Laura Wells,7
 Shasta,0510,Controller,,DEM,Tammy D. Blair,4
 Shasta,0510,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Shasta,0510,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0510,Governor,,REP,Alma Marie Winston,2
 Shasta,0510,Governor,,REP,Andrew Blount,1
 Shasta,0510,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0510,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Shasta,0510,Governor,,REP,Glenn Champ,7
-Shasta,0510,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0510,Governor,,IND,Joe Leicht,0
 Shasta,0510,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0510,Governor,,REP,Neel Kashkari,8
-Shasta,0510,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0510,Governor,,REP,Richard William Aguirre,0
 Shasta,0510,Governor,,IND,Robert Newman,1
 Shasta,0510,Governor,,REP,Tim Donnelly,31
 Shasta,0510,Insurance Commissioner,,DEM,Dave Jones,26
 Shasta,0510,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Shasta,0510,Insurance Commissioner,,REP,Ted Gaines,43
 Shasta,0510,Lieutenant Governor,,AME,Alan Reynolds,4
-Shasta,0510,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0510,Lieutenant Governor,,REP,David Fennell,11
 Shasta,0510,Lieutenant Governor,,DEM,Eric Korevaar,6
 Shasta,0510,Lieutenant Governor,,DEM,Gavin Newsom,19
 Shasta,0510,Lieutenant Governor,,REP,George Yang,6
 Shasta,0510,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0510,Lieutenant Governor,,REP,Ron Nehring,26
+Shasta,0510,Proposition 41,,,No,31
+Shasta,0510,Proposition 41,,,Yes,45
+Shasta,0510,Proposition 42,,,No,40
+Shasta,0510,Proposition 42,,,Yes,29
 Shasta,0510,Secretary of State,,DEM,Alex Padilla,10
 Shasta,0510,Secretary of State,,IND,Dan Schnur,8
 Shasta,0510,Secretary of State,,GRN,David Curtis,3
@@ -3675,7 +3556,6 @@ Shasta,0520,Controller,,DEM,John A. Pérez,15
 Shasta,0520,Controller,,GRN,Laura Wells,16
 Shasta,0520,Controller,,DEM,Tammy D. Blair,8
 Shasta,0520,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,0520,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0520,Governor,,REP,Alma Marie Winston,7
 Shasta,0520,Governor,,REP,Andrew Blount,11
 Shasta,0520,Governor,,PAF,Cindy L. Sheehan,2
@@ -3685,8 +3565,6 @@ Shasta,0520,Governor,,IND,Janel Hyeshia Buycks,2
 Shasta,0520,Governor,,IND,Joe Leicht,2
 Shasta,0520,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0520,Governor,,REP,Neel Kashkari,48
-Shasta,0520,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0520,Governor,,REP,Richard William Aguirre,0
 Shasta,0520,Governor,,IND,Robert Newman,1
 Shasta,0520,Governor,,REP,Tim Donnelly,74
 Shasta,0520,Insurance Commissioner,,DEM,Dave Jones,47
@@ -3700,6 +3578,10 @@ Shasta,0520,Lieutenant Governor,,DEM,Gavin Newsom,46
 Shasta,0520,Lieutenant Governor,,REP,George Yang,20
 Shasta,0520,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0520,Lieutenant Governor,,REP,Ron Nehring,102
+Shasta,0520,Proposition 41,,,No,92
+Shasta,0520,Proposition 41,,,Yes,132
+Shasta,0520,Proposition 42,,,No,107
+Shasta,0520,Proposition 42,,,Yes,106
 Shasta,0520,Secretary of State,,DEM,Alex Padilla,26
 Shasta,0520,Secretary of State,,IND,Dan Schnur,17
 Shasta,0520,Secretary of State,,GRN,David Curtis,10
@@ -3735,19 +3617,15 @@ Shasta,0523,Controller,,REP,David Evans,65
 Shasta,0523,Controller,,DEM,John A. Pérez,20
 Shasta,0523,Controller,,GRN,Laura Wells,12
 Shasta,0523,Controller,,DEM,Tammy D. Blair,10
-Shasta,0523,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0523,Governor,,DEM,Akinyemi Agbede,2
 Shasta,0523,Governor,,REP,Alma Marie Winston,6
 Shasta,0523,Governor,,REP,Andrew Blount,11
-Shasta,0523,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0523,Governor,,DEM,"Edmund G. ""Jerry"" Brown",81
 Shasta,0523,Governor,,REP,Glenn Champ,9
 Shasta,0523,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0523,Governor,,IND,Joe Leicht,0
 Shasta,0523,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0523,Governor,,REP,Neel Kashkari,39
 Shasta,0523,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0523,Governor,,REP,Richard William Aguirre,0
 Shasta,0523,Governor,,IND,Robert Newman,1
 Shasta,0523,Governor,,REP,Tim Donnelly,40
 Shasta,0523,Insurance Commissioner,,DEM,Dave Jones,73
@@ -3761,6 +3639,10 @@ Shasta,0523,Lieutenant Governor,,DEM,Gavin Newsom,69
 Shasta,0523,Lieutenant Governor,,REP,George Yang,34
 Shasta,0523,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0523,Lieutenant Governor,,REP,Ron Nehring,48
+Shasta,0523,Proposition 41,,,No,81
+Shasta,0523,Proposition 41,,,Yes,108
+Shasta,0523,Proposition 42,,,No,90
+Shasta,0523,Proposition 42,,,Yes,92
 Shasta,0523,Secretary of State,,DEM,Alex Padilla,29
 Shasta,0523,Secretary of State,,IND,Dan Schnur,11
 Shasta,0523,Secretary of State,,GRN,David Curtis,4
@@ -3787,7 +3669,6 @@ Shasta,0531,Attorney General,,LIB,Jonathan Jaech,1
 Shasta,0531,Attorney General,,DEM,Kamala D. Harris,31
 Shasta,0531,Attorney General,,IND,Orly Taitz,6
 Shasta,0531,Attorney General,,REP,Phil Wyman,9
-Shasta,0531,Attorney General,,REP,Ronald Gold,0
 Shasta,0531,Board of Equalization,1,DEM,Chris Parker,31
 Shasta,0531,Board of Equalization,1,REP,George Runner,23
 Shasta,0531,Controller,,REP,Ashley Swearengin,4
@@ -3797,24 +3678,16 @@ Shasta,0531,Controller,,DEM,John A. Pérez,12
 Shasta,0531,Controller,,GRN,Laura Wells,9
 Shasta,0531,Controller,,DEM,Tammy D. Blair,3
 Shasta,0531,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-Shasta,0531,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0531,Governor,,REP,Alma Marie Winston,0
-Shasta,0531,Governor,,REP,Andrew Blount,0
 Shasta,0531,Governor,,PAF,Cindy L. Sheehan,5
 Shasta,0531,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Shasta,0531,Governor,,REP,Glenn Champ,1
-Shasta,0531,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0531,Governor,,IND,Joe Leicht,0
 Shasta,0531,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0531,Governor,,REP,Neel Kashkari,5
-Shasta,0531,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0531,Governor,,REP,Richard William Aguirre,0
 Shasta,0531,Governor,,IND,Robert Newman,2
 Shasta,0531,Governor,,REP,Tim Donnelly,12
 Shasta,0531,Insurance Commissioner,,DEM,Dave Jones,30
 Shasta,0531,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Shasta,0531,Insurance Commissioner,,REP,Ted Gaines,25
-Shasta,0531,Lieutenant Governor,,AME,Alan Reynolds,0
 Shasta,0531,Lieutenant Governor,,PAF,Amos Johnson,1
 Shasta,0531,Lieutenant Governor,,REP,David Fennell,3
 Shasta,0531,Lieutenant Governor,,DEM,Eric Korevaar,5
@@ -3822,11 +3695,14 @@ Shasta,0531,Lieutenant Governor,,DEM,Gavin Newsom,27
 Shasta,0531,Lieutenant Governor,,REP,George Yang,3
 Shasta,0531,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0531,Lieutenant Governor,,REP,Ron Nehring,15
+Shasta,0531,Proposition 41,,,No,22
+Shasta,0531,Proposition 41,,,Yes,35
+Shasta,0531,Proposition 42,,,No,28
+Shasta,0531,Proposition 42,,,Yes,24
 Shasta,0531,Secretary of State,,DEM,Alex Padilla,13
 Shasta,0531,Secretary of State,,IND,Dan Schnur,2
 Shasta,0531,Secretary of State,,GRN,David Curtis,9
 Shasta,0531,Secretary of State,,DEM,Derek Cressman,6
-Shasta,0531,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,0531,Secretary of State,,DEM,Leland Yee,2
 Shasta,0531,Secretary of State,,REP,Pete Peterson,17
 Shasta,0531,Secretary of State,,REP,Roy Allmond,2
@@ -3864,12 +3740,9 @@ Shasta,0555,Governor,,REP,Andrew Blount,4
 Shasta,0555,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0555,Governor,,DEM,"Edmund G. ""Jerry"" Brown",54
 Shasta,0555,Governor,,REP,Glenn Champ,10
-Shasta,0555,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0555,Governor,,IND,Joe Leicht,1
 Shasta,0555,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0555,Governor,,REP,Neel Kashkari,32
-Shasta,0555,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0555,Governor,,REP,Richard William Aguirre,0
 Shasta,0555,Governor,,IND,Robert Newman,6
 Shasta,0555,Governor,,REP,Tim Donnelly,55
 Shasta,0555,Insurance Commissioner,,DEM,Dave Jones,50
@@ -3883,6 +3756,10 @@ Shasta,0555,Lieutenant Governor,,DEM,Gavin Newsom,49
 Shasta,0555,Lieutenant Governor,,REP,George Yang,28
 Shasta,0555,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0555,Lieutenant Governor,,REP,Ron Nehring,61
+Shasta,0555,Proposition 41,,,No,83
+Shasta,0555,Proposition 41,,,Yes,91
+Shasta,0555,Proposition 42,,,No,96
+Shasta,0555,Proposition 42,,,Yes,72
 Shasta,0555,Secretary of State,,DEM,Alex Padilla,25
 Shasta,0555,Secretary of State,,IND,Dan Schnur,11
 Shasta,0555,Secretary of State,,GRN,David Curtis,5
@@ -3919,18 +3796,14 @@ Shasta,0557,Controller,,DEM,John A. Pérez,14
 Shasta,0557,Controller,,GRN,Laura Wells,6
 Shasta,0557,Controller,,DEM,Tammy D. Blair,6
 Shasta,0557,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",2
-Shasta,0557,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0557,Governor,,REP,Alma Marie Winston,10
 Shasta,0557,Governor,,REP,Andrew Blount,6
 Shasta,0557,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0557,Governor,,DEM,"Edmund G. ""Jerry"" Brown",45
 Shasta,0557,Governor,,REP,Glenn Champ,11
 Shasta,0557,Governor,,IND,Janel Hyeshia Buycks,3
-Shasta,0557,Governor,,IND,Joe Leicht,0
 Shasta,0557,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0557,Governor,,REP,Neel Kashkari,14
-Shasta,0557,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0557,Governor,,REP,Richard William Aguirre,0
 Shasta,0557,Governor,,IND,Robert Newman,6
 Shasta,0557,Governor,,REP,Tim Donnelly,38
 Shasta,0557,Insurance Commissioner,,DEM,Dave Jones,45
@@ -3944,9 +3817,12 @@ Shasta,0557,Lieutenant Governor,,DEM,Gavin Newsom,38
 Shasta,0557,Lieutenant Governor,,REP,George Yang,15
 Shasta,0557,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0557,Lieutenant Governor,,REP,Ron Nehring,45
+Shasta,0557,Proposition 41,,,No,65
+Shasta,0557,Proposition 41,,,Yes,69
+Shasta,0557,Proposition 42,,,No,66
+Shasta,0557,Proposition 42,,,Yes,66
 Shasta,0557,Secretary of State,,DEM,Alex Padilla,27
 Shasta,0557,Secretary of State,,IND,Dan Schnur,10
-Shasta,0557,Secretary of State,,GRN,David Curtis,0
 Shasta,0557,Secretary of State,,DEM,Derek Cressman,6
 Shasta,0557,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Shasta,0557,Secretary of State,,DEM,Leland Yee,12
@@ -4005,6 +3881,10 @@ Shasta,0560,Lieutenant Governor,,DEM,Gavin Newsom,73
 Shasta,0560,Lieutenant Governor,,REP,George Yang,46
 Shasta,0560,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0560,Lieutenant Governor,,REP,Ron Nehring,73
+Shasta,0560,Proposition 41,,,No,152
+Shasta,0560,Proposition 41,,,Yes,131
+Shasta,0560,Proposition 42,,,No,159
+Shasta,0560,Proposition 42,,,Yes,118
 Shasta,0560,Secretary of State,,DEM,Alex Padilla,40
 Shasta,0560,Secretary of State,,IND,Dan Schnur,12
 Shasta,0560,Secretary of State,,GRN,David Curtis,6
@@ -4041,14 +3921,10 @@ Shasta,0561,Controller,,DEM,John A. Pérez,30
 Shasta,0561,Controller,,GRN,Laura Wells,17
 Shasta,0561,Controller,,DEM,Tammy D. Blair,14
 Shasta,0561,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",4
-Shasta,0561,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0561,Governor,,REP,Alma Marie Winston,10
 Shasta,0561,Governor,,REP,Andrew Blount,12
-Shasta,0561,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0561,Governor,,DEM,"Edmund G. ""Jerry"" Brown",139
 Shasta,0561,Governor,,REP,Glenn Champ,13
-Shasta,0561,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0561,Governor,,IND,Joe Leicht,0
 Shasta,0561,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0561,Governor,,REP,Neel Kashkari,56
 Shasta,0561,Governor,,IND,Rakesh Kumar Christian,1
@@ -4066,6 +3942,10 @@ Shasta,0561,Lieutenant Governor,,DEM,Gavin Newsom,104
 Shasta,0561,Lieutenant Governor,,REP,George Yang,56
 Shasta,0561,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0561,Lieutenant Governor,,REP,Ron Nehring,107
+Shasta,0561,Proposition 41,,,No,177
+Shasta,0561,Proposition 41,,,Yes,172
+Shasta,0561,Proposition 42,,,No,199
+Shasta,0561,Proposition 42,,,Yes,139
 Shasta,0561,Secretary of State,,DEM,Alex Padilla,48
 Shasta,0561,Secretary of State,,IND,Dan Schnur,14
 Shasta,0561,Secretary of State,,GRN,David Curtis,6
@@ -4112,7 +3992,6 @@ Shasta,0570,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0570,Governor,,IND,Joe Leicht,1
 Shasta,0570,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0570,Governor,,REP,Neel Kashkari,78
-Shasta,0570,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0570,Governor,,REP,Richard William Aguirre,3
 Shasta,0570,Governor,,IND,Robert Newman,6
 Shasta,0570,Governor,,REP,Tim Donnelly,141
@@ -4127,6 +4006,10 @@ Shasta,0570,Lieutenant Governor,,DEM,Gavin Newsom,201
 Shasta,0570,Lieutenant Governor,,REP,George Yang,52
 Shasta,0570,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Shasta,0570,Lieutenant Governor,,REP,Ron Nehring,157
+Shasta,0570,Proposition 41,,,No,193
+Shasta,0570,Proposition 41,,,Yes,317
+Shasta,0570,Proposition 42,,,No,269
+Shasta,0570,Proposition 42,,,Yes,223
 Shasta,0570,Secretary of State,,DEM,Alex Padilla,88
 Shasta,0570,Secretary of State,,IND,Dan Schnur,13
 Shasta,0570,Secretary of State,,GRN,David Curtis,18
@@ -4169,11 +4052,8 @@ Shasta,0575,Governor,,REP,Andrew Blount,10
 Shasta,0575,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0575,Governor,,DEM,"Edmund G. ""Jerry"" Brown",164
 Shasta,0575,Governor,,REP,Glenn Champ,7
-Shasta,0575,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0575,Governor,,IND,Joe Leicht,0
 Shasta,0575,Governor,,GRN,Luis J. Rodriguez,6
 Shasta,0575,Governor,,REP,Neel Kashkari,52
-Shasta,0575,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0575,Governor,,REP,Richard William Aguirre,2
 Shasta,0575,Governor,,IND,Robert Newman,3
 Shasta,0575,Governor,,REP,Tim Donnelly,79
@@ -4188,6 +4068,10 @@ Shasta,0575,Lieutenant Governor,,DEM,Gavin Newsom,125
 Shasta,0575,Lieutenant Governor,,REP,George Yang,51
 Shasta,0575,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0575,Lieutenant Governor,,REP,Ron Nehring,84
+Shasta,0575,Proposition 41,,,No,131
+Shasta,0575,Proposition 41,,,Yes,196
+Shasta,0575,Proposition 42,,,No,162
+Shasta,0575,Proposition 42,,,Yes,156
 Shasta,0575,Secretary of State,,DEM,Alex Padilla,81
 Shasta,0575,Secretary of State,,IND,Dan Schnur,18
 Shasta,0575,Secretary of State,,GRN,David Curtis,11
@@ -4234,7 +4118,6 @@ Shasta,0590,Governor,,IND,Janel Hyeshia Buycks,4
 Shasta,0590,Governor,,IND,Joe Leicht,1
 Shasta,0590,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0590,Governor,,REP,Neel Kashkari,72
-Shasta,0590,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0590,Governor,,REP,Richard William Aguirre,3
 Shasta,0590,Governor,,IND,Robert Newman,14
 Shasta,0590,Governor,,REP,Tim Donnelly,103
@@ -4249,6 +4132,10 @@ Shasta,0590,Lieutenant Governor,,DEM,Gavin Newsom,73
 Shasta,0590,Lieutenant Governor,,REP,George Yang,49
 Shasta,0590,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0590,Lieutenant Governor,,REP,Ron Nehring,124
+Shasta,0590,Proposition 41,,,No,203
+Shasta,0590,Proposition 41,,,Yes,147
+Shasta,0590,Proposition 42,,,No,196
+Shasta,0590,Proposition 42,,,Yes,146
 Shasta,0590,Secretary of State,,DEM,Alex Padilla,37
 Shasta,0590,Secretary of State,,IND,Dan Schnur,18
 Shasta,0590,Secretary of State,,GRN,David Curtis,9
@@ -4284,8 +4171,6 @@ Shasta,0595,Controller,,REP,David Evans,101
 Shasta,0595,Controller,,DEM,John A. Pérez,37
 Shasta,0595,Controller,,GRN,Laura Wells,15
 Shasta,0595,Controller,,DEM,Tammy D. Blair,13
-Shasta,0595,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0595,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0595,Governor,,REP,Alma Marie Winston,2
 Shasta,0595,Governor,,REP,Andrew Blount,9
 Shasta,0595,Governor,,PAF,Cindy L. Sheehan,2
@@ -4295,7 +4180,6 @@ Shasta,0595,Governor,,IND,Janel Hyeshia Buycks,5
 Shasta,0595,Governor,,IND,Joe Leicht,3
 Shasta,0595,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0595,Governor,,REP,Neel Kashkari,45
-Shasta,0595,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0595,Governor,,REP,Richard William Aguirre,1
 Shasta,0595,Governor,,IND,Robert Newman,2
 Shasta,0595,Governor,,REP,Tim Donnelly,83
@@ -4310,6 +4194,10 @@ Shasta,0595,Lieutenant Governor,,DEM,Gavin Newsom,88
 Shasta,0595,Lieutenant Governor,,REP,George Yang,42
 Shasta,0595,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0595,Lieutenant Governor,,REP,Ron Nehring,75
+Shasta,0595,Proposition 41,,,No,95
+Shasta,0595,Proposition 41,,,Yes,168
+Shasta,0595,Proposition 42,,,No,144
+Shasta,0595,Proposition 42,,,Yes,110
 Shasta,0595,Secretary of State,,DEM,Alex Padilla,37
 Shasta,0595,Secretary of State,,IND,Dan Schnur,8
 Shasta,0595,Secretary of State,,GRN,David Curtis,6
@@ -4345,19 +4233,15 @@ Shasta,0597,Controller,,REP,David Evans,32
 Shasta,0597,Controller,,DEM,John A. Pérez,9
 Shasta,0597,Controller,,GRN,Laura Wells,10
 Shasta,0597,Controller,,DEM,Tammy D. Blair,4
-Shasta,0597,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0597,Governor,,DEM,Akinyemi Agbede,2
 Shasta,0597,Governor,,REP,Alma Marie Winston,4
 Shasta,0597,Governor,,REP,Andrew Blount,4
 Shasta,0597,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0597,Governor,,DEM,"Edmund G. ""Jerry"" Brown",32
 Shasta,0597,Governor,,REP,Glenn Champ,2
-Shasta,0597,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0597,Governor,,IND,Joe Leicht,1
 Shasta,0597,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0597,Governor,,REP,Neel Kashkari,12
-Shasta,0597,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0597,Governor,,REP,Richard William Aguirre,0
 Shasta,0597,Governor,,IND,Robert Newman,9
 Shasta,0597,Governor,,REP,Tim Donnelly,25
 Shasta,0597,Insurance Commissioner,,DEM,Dave Jones,37
@@ -4371,6 +4255,10 @@ Shasta,0597,Lieutenant Governor,,DEM,Gavin Newsom,30
 Shasta,0597,Lieutenant Governor,,REP,George Yang,8
 Shasta,0597,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0597,Lieutenant Governor,,REP,Ron Nehring,25
+Shasta,0597,Proposition 41,,,No,34
+Shasta,0597,Proposition 41,,,Yes,59
+Shasta,0597,Proposition 42,,,No,47
+Shasta,0597,Proposition 42,,,Yes,43
 Shasta,0597,Secretary of State,,DEM,Alex Padilla,14
 Shasta,0597,Secretary of State,,IND,Dan Schnur,8
 Shasta,0597,Secretary of State,,GRN,David Curtis,5
@@ -4413,11 +4301,9 @@ Shasta,0610,Governor,,REP,Andrew Blount,6
 Shasta,0610,Governor,,PAF,Cindy L. Sheehan,11
 Shasta,0610,Governor,,DEM,"Edmund G. ""Jerry"" Brown",58
 Shasta,0610,Governor,,REP,Glenn Champ,5
-Shasta,0610,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0610,Governor,,IND,Joe Leicht,1
 Shasta,0610,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,0610,Governor,,REP,Neel Kashkari,25
-Shasta,0610,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0610,Governor,,REP,Richard William Aguirre,1
 Shasta,0610,Governor,,IND,Robert Newman,3
 Shasta,0610,Governor,,REP,Tim Donnelly,33
@@ -4432,6 +4318,10 @@ Shasta,0610,Lieutenant Governor,,DEM,Gavin Newsom,48
 Shasta,0610,Lieutenant Governor,,REP,George Yang,14
 Shasta,0610,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Shasta,0610,Lieutenant Governor,,REP,Ron Nehring,42
+Shasta,0610,Proposition 41,,,No,58
+Shasta,0610,Proposition 41,,,Yes,93
+Shasta,0610,Proposition 42,,,No,81
+Shasta,0610,Proposition 42,,,Yes,63
 Shasta,0610,Secretary of State,,DEM,Alex Padilla,26
 Shasta,0610,Secretary of State,,IND,Dan Schnur,11
 Shasta,0610,Secretary of State,,GRN,David Curtis,18
@@ -4467,7 +4357,6 @@ Shasta,0611,Controller,,REP,David Evans,173
 Shasta,0611,Controller,,DEM,John A. Pérez,43
 Shasta,0611,Controller,,GRN,Laura Wells,19
 Shasta,0611,Controller,,DEM,Tammy D. Blair,14
-Shasta,0611,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0611,Governor,,DEM,Akinyemi Agbede,2
 Shasta,0611,Governor,,REP,Alma Marie Winston,13
 Shasta,0611,Governor,,REP,Andrew Blount,15
@@ -4475,10 +4364,8 @@ Shasta,0611,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0611,Governor,,DEM,"Edmund G. ""Jerry"" Brown",143
 Shasta,0611,Governor,,REP,Glenn Champ,18
 Shasta,0611,Governor,,IND,Janel Hyeshia Buycks,2
-Shasta,0611,Governor,,IND,Joe Leicht,0
 Shasta,0611,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0611,Governor,,REP,Neel Kashkari,70
-Shasta,0611,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0611,Governor,,REP,Richard William Aguirre,2
 Shasta,0611,Governor,,IND,Robert Newman,7
 Shasta,0611,Governor,,REP,Tim Donnelly,143
@@ -4493,6 +4380,10 @@ Shasta,0611,Lieutenant Governor,,DEM,Gavin Newsom,117
 Shasta,0611,Lieutenant Governor,,REP,George Yang,76
 Shasta,0611,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Shasta,0611,Lieutenant Governor,,REP,Ron Nehring,124
+Shasta,0611,Proposition 41,,,No,218
+Shasta,0611,Proposition 41,,,Yes,197
+Shasta,0611,Proposition 42,,,No,240
+Shasta,0611,Proposition 42,,,Yes,169
 Shasta,0611,Secretary of State,,DEM,Alex Padilla,47
 Shasta,0611,Secretary of State,,IND,Dan Schnur,18
 Shasta,0611,Secretary of State,,GRN,David Curtis,13
@@ -4539,8 +4430,6 @@ Shasta,0620,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0620,Governor,,IND,Joe Leicht,1
 Shasta,0620,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0620,Governor,,REP,Neel Kashkari,55
-Shasta,0620,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0620,Governor,,REP,Richard William Aguirre,0
 Shasta,0620,Governor,,IND,Robert Newman,15
 Shasta,0620,Governor,,REP,Tim Donnelly,105
 Shasta,0620,Insurance Commissioner,,DEM,Dave Jones,108
@@ -4554,6 +4443,10 @@ Shasta,0620,Lieutenant Governor,,DEM,Gavin Newsom,91
 Shasta,0620,Lieutenant Governor,,REP,George Yang,57
 Shasta,0620,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Shasta,0620,Lieutenant Governor,,REP,Ron Nehring,85
+Shasta,0620,Proposition 41,,,No,179
+Shasta,0620,Proposition 41,,,Yes,188
+Shasta,0620,Proposition 42,,,No,198
+Shasta,0620,Proposition 42,,,Yes,160
 Shasta,0620,Secretary of State,,DEM,Alex Padilla,37
 Shasta,0620,Secretary of State,,IND,Dan Schnur,16
 Shasta,0620,Secretary of State,,GRN,David Curtis,16
@@ -4588,35 +4481,28 @@ Shasta,0621,Controller,,DEM,Betty T. Yee,2
 Shasta,0621,Controller,,REP,David Evans,10
 Shasta,0621,Controller,,DEM,John A. Pérez,3
 Shasta,0621,Controller,,GRN,Laura Wells,5
-Shasta,0621,Controller,,DEM,Tammy D. Blair,0
-Shasta,0621,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0621,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0621,Governor,,REP,Alma Marie Winston,1
 Shasta,0621,Governor,,REP,Andrew Blount,6
 Shasta,0621,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0621,Governor,,DEM,"Edmund G. ""Jerry"" Brown",8
 Shasta,0621,Governor,,REP,Glenn Champ,4
-Shasta,0621,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0621,Governor,,IND,Joe Leicht,1
-Shasta,0621,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0621,Governor,,REP,Neel Kashkari,1
-Shasta,0621,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0621,Governor,,REP,Richard William Aguirre,0
-Shasta,0621,Governor,,IND,Robert Newman,0
 Shasta,0621,Governor,,REP,Tim Donnelly,2
 Shasta,0621,Insurance Commissioner,,DEM,Dave Jones,6
 Shasta,0621,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Shasta,0621,Insurance Commissioner,,REP,Ted Gaines,16
-Shasta,0621,Lieutenant Governor,,AME,Alan Reynolds,0
 Shasta,0621,Lieutenant Governor,,PAF,Amos Johnson,2
 Shasta,0621,Lieutenant Governor,,REP,David Fennell,5
 Shasta,0621,Lieutenant Governor,,DEM,Eric Korevaar,5
 Shasta,0621,Lieutenant Governor,,DEM,Gavin Newsom,4
 Shasta,0621,Lieutenant Governor,,REP,George Yang,5
-Shasta,0621,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0621,Lieutenant Governor,,REP,Ron Nehring,5
+Shasta,0621,Proposition 41,,,No,11
+Shasta,0621,Proposition 41,,,Yes,15
+Shasta,0621,Proposition 42,,,No,10
+Shasta,0621,Proposition 42,,,Yes,16
 Shasta,0621,Secretary of State,,DEM,Alex Padilla,1
-Shasta,0621,Secretary of State,,IND,Dan Schnur,0
 Shasta,0621,Secretary of State,,GRN,David Curtis,1
 Shasta,0621,Secretary of State,,DEM,Derek Cressman,4
 Shasta,0621,Secretary of State,,DEM,Jeffrey H. Drobman,2
@@ -4650,19 +4536,13 @@ Shasta,0630,Controller,,REP,David Evans,36
 Shasta,0630,Controller,,DEM,John A. Pérez,8
 Shasta,0630,Controller,,GRN,Laura Wells,7
 Shasta,0630,Controller,,DEM,Tammy D. Blair,4
-Shasta,0630,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0630,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0630,Governor,,REP,Alma Marie Winston,0
 Shasta,0630,Governor,,REP,Andrew Blount,5
 Shasta,0630,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0630,Governor,,DEM,"Edmund G. ""Jerry"" Brown",38
 Shasta,0630,Governor,,REP,Glenn Champ,4
-Shasta,0630,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0630,Governor,,IND,Joe Leicht,0
 Shasta,0630,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0630,Governor,,REP,Neel Kashkari,11
 Shasta,0630,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0630,Governor,,REP,Richard William Aguirre,0
 Shasta,0630,Governor,,IND,Robert Newman,3
 Shasta,0630,Governor,,REP,Tim Donnelly,30
 Shasta,0630,Insurance Commissioner,,DEM,Dave Jones,39
@@ -4676,8 +4556,11 @@ Shasta,0630,Lieutenant Governor,,DEM,Gavin Newsom,32
 Shasta,0630,Lieutenant Governor,,REP,George Yang,9
 Shasta,0630,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Shasta,0630,Lieutenant Governor,,REP,Ron Nehring,28
+Shasta,0630,Proposition 41,,,No,44
+Shasta,0630,Proposition 41,,,Yes,51
+Shasta,0630,Proposition 42,,,No,45
+Shasta,0630,Proposition 42,,,Yes,48
 Shasta,0630,Secretary of State,,DEM,Alex Padilla,9
-Shasta,0630,Secretary of State,,IND,Dan Schnur,0
 Shasta,0630,Secretary of State,,GRN,David Curtis,3
 Shasta,0630,Secretary of State,,DEM,Derek Cressman,7
 Shasta,0630,Secretary of State,,DEM,Jeffrey H. Drobman,4
@@ -4737,6 +4620,10 @@ Shasta,0640,Lieutenant Governor,,DEM,Gavin Newsom,112
 Shasta,0640,Lieutenant Governor,,REP,George Yang,80
 Shasta,0640,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0640,Lieutenant Governor,,REP,Ron Nehring,144
+Shasta,0640,Proposition 41,,,No,202
+Shasta,0640,Proposition 41,,,Yes,252
+Shasta,0640,Proposition 42,,,No,257
+Shasta,0640,Proposition 42,,,Yes,192
 Shasta,0640,Secretary of State,,DEM,Alex Padilla,51
 Shasta,0640,Secretary of State,,IND,Dan Schnur,28
 Shasta,0640,Secretary of State,,GRN,David Curtis,14
@@ -4783,21 +4670,22 @@ Shasta,0644,Governor,,IND,Janel Hyeshia Buycks,2
 Shasta,0644,Governor,,IND,Joe Leicht,1
 Shasta,0644,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0644,Governor,,REP,Neel Kashkari,42
-Shasta,0644,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0644,Governor,,REP,Richard William Aguirre,0
 Shasta,0644,Governor,,IND,Robert Newman,3
 Shasta,0644,Governor,,REP,Tim Donnelly,67
 Shasta,0644,Insurance Commissioner,,DEM,Dave Jones,49
 Shasta,0644,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Shasta,0644,Insurance Commissioner,,REP,Ted Gaines,143
 Shasta,0644,Lieutenant Governor,,AME,Alan Reynolds,7
-Shasta,0644,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0644,Lieutenant Governor,,REP,David Fennell,31
 Shasta,0644,Lieutenant Governor,,DEM,Eric Korevaar,11
 Shasta,0644,Lieutenant Governor,,DEM,Gavin Newsom,50
 Shasta,0644,Lieutenant Governor,,REP,George Yang,25
 Shasta,0644,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Shasta,0644,Lieutenant Governor,,REP,Ron Nehring,77
+Shasta,0644,Proposition 41,,,No,110
+Shasta,0644,Proposition 41,,,Yes,91
+Shasta,0644,Proposition 42,,,No,104
+Shasta,0644,Proposition 42,,,Yes,97
 Shasta,0644,Secretary of State,,DEM,Alex Padilla,28
 Shasta,0644,Secretary of State,,IND,Dan Schnur,11
 Shasta,0644,Secretary of State,,GRN,David Curtis,7
@@ -4833,15 +4721,11 @@ Shasta,0646,Controller,,REP,David Evans,27
 Shasta,0646,Controller,,DEM,John A. Pérez,5
 Shasta,0646,Controller,,GRN,Laura Wells,5
 Shasta,0646,Controller,,DEM,Tammy D. Blair,6
-Shasta,0646,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0646,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0646,Governor,,REP,Alma Marie Winston,4
 Shasta,0646,Governor,,REP,Andrew Blount,3
 Shasta,0646,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0646,Governor,,DEM,"Edmund G. ""Jerry"" Brown",25
 Shasta,0646,Governor,,REP,Glenn Champ,2
-Shasta,0646,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0646,Governor,,IND,Joe Leicht,0
 Shasta,0646,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0646,Governor,,REP,Neel Kashkari,8
 Shasta,0646,Governor,,IND,Rakesh Kumar Christian,1
@@ -4857,13 +4741,15 @@ Shasta,0646,Lieutenant Governor,,REP,David Fennell,3
 Shasta,0646,Lieutenant Governor,,DEM,Eric Korevaar,1
 Shasta,0646,Lieutenant Governor,,DEM,Gavin Newsom,21
 Shasta,0646,Lieutenant Governor,,REP,George Yang,13
-Shasta,0646,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0646,Lieutenant Governor,,REP,Ron Nehring,24
+Shasta,0646,Proposition 41,,,No,20
+Shasta,0646,Proposition 41,,,Yes,47
+Shasta,0646,Proposition 42,,,No,36
+Shasta,0646,Proposition 42,,,Yes,29
 Shasta,0646,Secretary of State,,DEM,Alex Padilla,8
 Shasta,0646,Secretary of State,,IND,Dan Schnur,1
 Shasta,0646,Secretary of State,,GRN,David Curtis,4
 Shasta,0646,Secretary of State,,DEM,Derek Cressman,3
-Shasta,0646,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,0646,Secretary of State,,DEM,Leland Yee,9
 Shasta,0646,Secretary of State,,REP,Pete Peterson,33
 Shasta,0646,Secretary of State,,REP,Roy Allmond,8
@@ -4881,7 +4767,6 @@ Shasta,0646,U.S. House,1,REP,Gregory Cheadle,9
 Shasta,0646,U.S. House,1,DEM,Heidi Hall,13
 Shasta,0647,Attorney General,,REP,David King,7
 Shasta,0647,Attorney General,,REP,John Haggerty,4
-Shasta,0647,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0647,Attorney General,,DEM,Kamala D. Harris,16
 Shasta,0647,Attorney General,,IND,Orly Taitz,2
 Shasta,0647,Attorney General,,REP,Phil Wyman,13
@@ -4894,37 +4779,30 @@ Shasta,0647,Controller,,REP,David Evans,21
 Shasta,0647,Controller,,DEM,John A. Pérez,6
 Shasta,0647,Controller,,GRN,Laura Wells,3
 Shasta,0647,Controller,,DEM,Tammy D. Blair,3
-Shasta,0647,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0647,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0647,Governor,,REP,Alma Marie Winston,3
-Shasta,0647,Governor,,REP,Andrew Blount,0
-Shasta,0647,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0647,Governor,,DEM,"Edmund G. ""Jerry"" Brown",20
 Shasta,0647,Governor,,REP,Glenn Champ,1
-Shasta,0647,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0647,Governor,,IND,Joe Leicht,0
 Shasta,0647,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0647,Governor,,REP,Neel Kashkari,10
-Shasta,0647,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0647,Governor,,REP,Richard William Aguirre,0
 Shasta,0647,Governor,,IND,Robert Newman,1
 Shasta,0647,Governor,,REP,Tim Donnelly,10
 Shasta,0647,Insurance Commissioner,,DEM,Dave Jones,15
 Shasta,0647,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Shasta,0647,Insurance Commissioner,,REP,Ted Gaines,28
 Shasta,0647,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0647,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0647,Lieutenant Governor,,REP,David Fennell,3
 Shasta,0647,Lieutenant Governor,,DEM,Eric Korevaar,1
 Shasta,0647,Lieutenant Governor,,DEM,Gavin Newsom,20
 Shasta,0647,Lieutenant Governor,,REP,George Yang,3
 Shasta,0647,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0647,Lieutenant Governor,,REP,Ron Nehring,18
+Shasta,0647,Proposition 41,,,No,22
+Shasta,0647,Proposition 41,,,Yes,24
+Shasta,0647,Proposition 42,,,No,28
+Shasta,0647,Proposition 42,,,Yes,16
 Shasta,0647,Secretary of State,,DEM,Alex Padilla,7
 Shasta,0647,Secretary of State,,IND,Dan Schnur,2
 Shasta,0647,Secretary of State,,GRN,David Curtis,2
-Shasta,0647,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0647,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,0647,Secretary of State,,DEM,Leland Yee,6
 Shasta,0647,Secretary of State,,REP,Pete Peterson,24
 Shasta,0647,Secretary of State,,REP,Roy Allmond,3
@@ -4940,11 +4818,8 @@ Shasta,0647,U.S. House,1,DEM,Dan Levine,3
 Shasta,0647,U.S. House,1,REP,Doug La Malfa,32
 Shasta,0647,U.S. House,1,REP,Gregory Cheadle,3
 Shasta,0647,U.S. House,1,DEM,Heidi Hall,11
-Shasta,0648,Attorney General,,REP,David King,0
 Shasta,0648,Attorney General,,REP,John Haggerty,8
-Shasta,0648,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0648,Attorney General,,DEM,Kamala D. Harris,1
-Shasta,0648,Attorney General,,IND,Orly Taitz,0
 Shasta,0648,Attorney General,,REP,Phil Wyman,1
 Shasta,0648,Attorney General,,REP,Ronald Gold,2
 Shasta,0648,Board of Equalization,1,DEM,Chris Parker,1
@@ -4953,54 +4828,31 @@ Shasta,0648,Controller,,REP,Ashley Swearengin,2
 Shasta,0648,Controller,,DEM,Betty T. Yee,1
 Shasta,0648,Controller,,REP,David Evans,7
 Shasta,0648,Controller,,DEM,John A. Pérez,1
-Shasta,0648,Controller,,GRN,Laura Wells,0
 Shasta,0648,Controller,,DEM,Tammy D. Blair,1
-Shasta,0648,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0648,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0648,Governor,,REP,Alma Marie Winston,0
-Shasta,0648,Governor,,REP,Andrew Blount,0
-Shasta,0648,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0648,Governor,,DEM,"Edmund G. ""Jerry"" Brown",3
-Shasta,0648,Governor,,REP,Glenn Champ,0
-Shasta,0648,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0648,Governor,,IND,Joe Leicht,0
 Shasta,0648,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0648,Governor,,REP,Neel Kashkari,6
-Shasta,0648,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0648,Governor,,REP,Richard William Aguirre,0
-Shasta,0648,Governor,,IND,Robert Newman,0
 Shasta,0648,Governor,,REP,Tim Donnelly,2
 Shasta,0648,Insurance Commissioner,,DEM,Dave Jones,2
-Shasta,0648,Insurance Commissioner,,PAF,Nathalie Hrizi,0
 Shasta,0648,Insurance Commissioner,,REP,Ted Gaines,9
-Shasta,0648,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0648,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0648,Lieutenant Governor,,REP,David Fennell,1
-Shasta,0648,Lieutenant Governor,,DEM,Eric Korevaar,0
 Shasta,0648,Lieutenant Governor,,DEM,Gavin Newsom,3
-Shasta,0648,Lieutenant Governor,,REP,George Yang,0
-Shasta,0648,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0648,Lieutenant Governor,,REP,Ron Nehring,8
+Shasta,0648,Proposition 41,,,No,8
+Shasta,0648,Proposition 41,,,Yes,5
+Shasta,0648,Proposition 42,,,No,8
+Shasta,0648,Proposition 42,,,Yes,5
 Shasta,0648,Secretary of State,,DEM,Alex Padilla,1
-Shasta,0648,Secretary of State,,IND,Dan Schnur,0
-Shasta,0648,Secretary of State,,GRN,David Curtis,0
-Shasta,0648,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0648,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,0648,Secretary of State,,DEM,Leland Yee,1
 Shasta,0648,Secretary of State,,REP,Pete Peterson,7
 Shasta,0648,Secretary of State,,REP,Roy Allmond,3
 Shasta,0648,State Assembly,1,REP,Brian Dahle,13
-Shasta,0648,State Assembly,1,DEM,Brigham Sawyer Smith,0
 Shasta,0648,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,1
 Shasta,0648,Superintendent of Public Instruction,,NOP,Marshall Tuck,4
 Shasta,0648,Superintendent of Public Instruction,,NOP,Tom Torlakson,6
-Shasta,0648,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0648,Treasurer,,REP,Greg Conlon,11
 Shasta,0648,Treasurer,,DEM,John Chiang,1
-Shasta,0648,U.S. House,1,DEM,Dan Levine,0
 Shasta,0648,U.S. House,1,REP,Doug La Malfa,12
-Shasta,0648,U.S. House,1,REP,Gregory Cheadle,0
-Shasta,0648,U.S. House,1,DEM,Heidi Hall,0
 Shasta,0660,Attorney General,,REP,David King,39
 Shasta,0660,Attorney General,,REP,John Haggerty,46
 Shasta,0660,Attorney General,,LIB,Jonathan Jaech,14
@@ -5027,7 +4879,6 @@ Shasta,0660,Governor,,IND,Janel Hyeshia Buycks,6
 Shasta,0660,Governor,,IND,Joe Leicht,3
 Shasta,0660,Governor,,GRN,Luis J. Rodriguez,14
 Shasta,0660,Governor,,REP,Neel Kashkari,43
-Shasta,0660,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0660,Governor,,REP,Richard William Aguirre,5
 Shasta,0660,Governor,,IND,Robert Newman,11
 Shasta,0660,Governor,,REP,Tim Donnelly,90
@@ -5042,6 +4893,10 @@ Shasta,0660,Lieutenant Governor,,DEM,Gavin Newsom,189
 Shasta,0660,Lieutenant Governor,,REP,George Yang,56
 Shasta,0660,Lieutenant Governor,,GRN,Jena F. Goodman,12
 Shasta,0660,Lieutenant Governor,,REP,Ron Nehring,71
+Shasta,0660,Proposition 41,,,No,130
+Shasta,0660,Proposition 41,,,Yes,304
+Shasta,0660,Proposition 42,,,No,198
+Shasta,0660,Proposition 42,,,Yes,223
 Shasta,0660,Secretary of State,,DEM,Alex Padilla,81
 Shasta,0660,Secretary of State,,IND,Dan Schnur,19
 Shasta,0660,Secretary of State,,GRN,David Curtis,17
@@ -5064,7 +4919,6 @@ Shasta,0660,U.S. House,1,REP,Gregory Cheadle,49
 Shasta,0660,U.S. House,1,DEM,Heidi Hall,182
 Shasta,0750,Attorney General,,REP,David King,7
 Shasta,0750,Attorney General,,REP,John Haggerty,20
-Shasta,0750,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0750,Attorney General,,DEM,Kamala D. Harris,28
 Shasta,0750,Attorney General,,IND,Orly Taitz,2
 Shasta,0750,Attorney General,,REP,Phil Wyman,11
@@ -5077,25 +4931,18 @@ Shasta,0750,Controller,,REP,David Evans,36
 Shasta,0750,Controller,,DEM,John A. Pérez,2
 Shasta,0750,Controller,,GRN,Laura Wells,3
 Shasta,0750,Controller,,DEM,Tammy D. Blair,6
-Shasta,0750,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0750,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0750,Governor,,REP,Alma Marie Winston,3
 Shasta,0750,Governor,,REP,Andrew Blount,5
 Shasta,0750,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0750,Governor,,DEM,"Edmund G. ""Jerry"" Brown",37
 Shasta,0750,Governor,,REP,Glenn Champ,4
-Shasta,0750,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0750,Governor,,IND,Joe Leicht,0
 Shasta,0750,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0750,Governor,,REP,Neel Kashkari,12
-Shasta,0750,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0750,Governor,,REP,Richard William Aguirre,0
 Shasta,0750,Governor,,IND,Robert Newman,2
 Shasta,0750,Governor,,REP,Tim Donnelly,17
 Shasta,0750,Insurance Commissioner,,DEM,Dave Jones,23
 Shasta,0750,Insurance Commissioner,,PAF,Nathalie Hrizi,5
 Shasta,0750,Insurance Commissioner,,REP,Ted Gaines,47
-Shasta,0750,Lieutenant Governor,,AME,Alan Reynolds,0
 Shasta,0750,Lieutenant Governor,,PAF,Amos Johnson,1
 Shasta,0750,Lieutenant Governor,,REP,David Fennell,8
 Shasta,0750,Lieutenant Governor,,DEM,Eric Korevaar,4
@@ -5103,11 +4950,14 @@ Shasta,0750,Lieutenant Governor,,DEM,Gavin Newsom,27
 Shasta,0750,Lieutenant Governor,,REP,George Yang,10
 Shasta,0750,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0750,Lieutenant Governor,,REP,Ron Nehring,24
+Shasta,0750,Proposition 41,,,No,22
+Shasta,0750,Proposition 41,,,Yes,51
+Shasta,0750,Proposition 42,,,No,39
+Shasta,0750,Proposition 42,,,Yes,29
 Shasta,0750,Secretary of State,,DEM,Alex Padilla,14
 Shasta,0750,Secretary of State,,IND,Dan Schnur,2
 Shasta,0750,Secretary of State,,GRN,David Curtis,2
 Shasta,0750,Secretary of State,,DEM,Derek Cressman,2
-Shasta,0750,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,0750,Secretary of State,,DEM,Leland Yee,6
 Shasta,0750,Secretary of State,,REP,Pete Peterson,32
 Shasta,0750,Secretary of State,,REP,Roy Allmond,9
@@ -5146,10 +4996,8 @@ Shasta,0760,Governor,,PAF,Cindy L. Sheehan,2
 Shasta,0760,Governor,,DEM,"Edmund G. ""Jerry"" Brown",99
 Shasta,0760,Governor,,REP,Glenn Champ,7
 Shasta,0760,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0760,Governor,,IND,Joe Leicht,0
 Shasta,0760,Governor,,GRN,Luis J. Rodriguez,7
 Shasta,0760,Governor,,REP,Neel Kashkari,24
-Shasta,0760,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0760,Governor,,REP,Richard William Aguirre,1
 Shasta,0760,Governor,,IND,Robert Newman,3
 Shasta,0760,Governor,,REP,Tim Donnelly,63
@@ -5157,13 +5005,16 @@ Shasta,0760,Insurance Commissioner,,DEM,Dave Jones,94
 Shasta,0760,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Shasta,0760,Insurance Commissioner,,REP,Ted Gaines,121
 Shasta,0760,Lieutenant Governor,,AME,Alan Reynolds,5
-Shasta,0760,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0760,Lieutenant Governor,,REP,David Fennell,26
 Shasta,0760,Lieutenant Governor,,DEM,Eric Korevaar,14
 Shasta,0760,Lieutenant Governor,,DEM,Gavin Newsom,90
 Shasta,0760,Lieutenant Governor,,REP,George Yang,31
 Shasta,0760,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0760,Lieutenant Governor,,REP,Ron Nehring,56
+Shasta,0760,Proposition 41,,,No,79
+Shasta,0760,Proposition 41,,,Yes,149
+Shasta,0760,Proposition 42,,,No,104
+Shasta,0760,Proposition 42,,,Yes,123
 Shasta,0760,Secretary of State,,DEM,Alex Padilla,33
 Shasta,0760,Secretary of State,,IND,Dan Schnur,12
 Shasta,0760,Secretary of State,,GRN,David Curtis,6
@@ -5210,7 +5061,6 @@ Shasta,0770,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0770,Governor,,IND,Joe Leicht,1
 Shasta,0770,Governor,,GRN,Luis J. Rodriguez,9
 Shasta,0770,Governor,,REP,Neel Kashkari,71
-Shasta,0770,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0770,Governor,,REP,Richard William Aguirre,5
 Shasta,0770,Governor,,IND,Robert Newman,3
 Shasta,0770,Governor,,REP,Tim Donnelly,94
@@ -5225,6 +5075,10 @@ Shasta,0770,Lieutenant Governor,,DEM,Gavin Newsom,108
 Shasta,0770,Lieutenant Governor,,REP,George Yang,53
 Shasta,0770,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0770,Lieutenant Governor,,REP,Ron Nehring,93
+Shasta,0770,Proposition 41,,,No,141
+Shasta,0770,Proposition 41,,,Yes,209
+Shasta,0770,Proposition 42,,,No,177
+Shasta,0770,Proposition 42,,,Yes,164
 Shasta,0770,Secretary of State,,DEM,Alex Padilla,55
 Shasta,0770,Secretary of State,,IND,Dan Schnur,23
 Shasta,0770,Secretary of State,,GRN,David Curtis,21
@@ -5245,11 +5099,9 @@ Shasta,0770,U.S. House,1,DEM,Dan Levine,16
 Shasta,0770,U.S. House,1,REP,Doug La Malfa,177
 Shasta,0770,U.S. House,1,REP,Gregory Cheadle,56
 Shasta,0770,U.S. House,1,DEM,Heidi Hall,103
-Shasta,0775,Attorney General,,REP,David King,0
 Shasta,0775,Attorney General,,REP,John Haggerty,2
 Shasta,0775,Attorney General,,LIB,Jonathan Jaech,1
 Shasta,0775,Attorney General,,DEM,Kamala D. Harris,8
-Shasta,0775,Attorney General,,IND,Orly Taitz,0
 Shasta,0775,Attorney General,,REP,Phil Wyman,2
 Shasta,0775,Attorney General,,REP,Ronald Gold,2
 Shasta,0775,Board of Equalization,1,DEM,Chris Parker,7
@@ -5258,48 +5110,32 @@ Shasta,0775,Controller,,REP,Ashley Swearengin,4
 Shasta,0775,Controller,,DEM,Betty T. Yee,1
 Shasta,0775,Controller,,REP,David Evans,5
 Shasta,0775,Controller,,DEM,John A. Pérez,2
-Shasta,0775,Controller,,GRN,Laura Wells,0
 Shasta,0775,Controller,,DEM,Tammy D. Blair,2
-Shasta,0775,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0775,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0775,Governor,,REP,Alma Marie Winston,1
-Shasta,0775,Governor,,REP,Andrew Blount,0
-Shasta,0775,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0775,Governor,,DEM,"Edmund G. ""Jerry"" Brown",6
 Shasta,0775,Governor,,REP,Glenn Champ,4
-Shasta,0775,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0775,Governor,,IND,Joe Leicht,1
-Shasta,0775,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0775,Governor,,REP,Neel Kashkari,3
-Shasta,0775,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0775,Governor,,REP,Richard William Aguirre,0
-Shasta,0775,Governor,,IND,Robert Newman,0
-Shasta,0775,Governor,,REP,Tim Donnelly,0
 Shasta,0775,Insurance Commissioner,,DEM,Dave Jones,6
 Shasta,0775,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Shasta,0775,Insurance Commissioner,,REP,Ted Gaines,8
-Shasta,0775,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0775,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0775,Lieutenant Governor,,REP,David Fennell,2
 Shasta,0775,Lieutenant Governor,,DEM,Eric Korevaar,4
 Shasta,0775,Lieutenant Governor,,DEM,Gavin Newsom,5
 Shasta,0775,Lieutenant Governor,,REP,George Yang,4
-Shasta,0775,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Shasta,0775,Lieutenant Governor,,REP,Ron Nehring,0
+Shasta,0775,Proposition 41,,,No,10
+Shasta,0775,Proposition 41,,,Yes,5
+Shasta,0775,Proposition 42,,,No,10
+Shasta,0775,Proposition 42,,,Yes,4
 Shasta,0775,Secretary of State,,DEM,Alex Padilla,3
-Shasta,0775,Secretary of State,,IND,Dan Schnur,0
 Shasta,0775,Secretary of State,,GRN,David Curtis,1
-Shasta,0775,Secretary of State,,DEM,Derek Cressman,0
 Shasta,0775,Secretary of State,,DEM,Jeffrey H. Drobman,1
-Shasta,0775,Secretary of State,,DEM,Leland Yee,0
 Shasta,0775,Secretary of State,,REP,Pete Peterson,8
-Shasta,0775,Secretary of State,,REP,Roy Allmond,0
 Shasta,0775,State Assembly,1,REP,Brian Dahle,8
 Shasta,0775,State Assembly,1,DEM,Brigham Sawyer Smith,6
 Shasta,0775,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,3
 Shasta,0775,Superintendent of Public Instruction,,NOP,Marshall Tuck,1
 Shasta,0775,Superintendent of Public Instruction,,NOP,Tom Torlakson,5
-Shasta,0775,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0775,Treasurer,,REP,Greg Conlon,6
 Shasta,0775,Treasurer,,DEM,John Chiang,8
 Shasta,0775,U.S. House,1,DEM,Dan Levine,3
@@ -5347,6 +5183,10 @@ Shasta,0780,Lieutenant Governor,,DEM,Gavin Newsom,147
 Shasta,0780,Lieutenant Governor,,REP,George Yang,43
 Shasta,0780,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Shasta,0780,Lieutenant Governor,,REP,Ron Nehring,74
+Shasta,0780,Proposition 41,,,No,104
+Shasta,0780,Proposition 41,,,Yes,232
+Shasta,0780,Proposition 42,,,No,152
+Shasta,0780,Proposition 42,,,Yes,175
 Shasta,0780,Secretary of State,,DEM,Alex Padilla,78
 Shasta,0780,Secretary of State,,IND,Dan Schnur,24
 Shasta,0780,Secretary of State,,GRN,David Curtis,23
@@ -5382,34 +5222,29 @@ Shasta,0800,Controller,,REP,David Evans,28
 Shasta,0800,Controller,,DEM,John A. Pérez,12
 Shasta,0800,Controller,,GRN,Laura Wells,5
 Shasta,0800,Controller,,DEM,Tammy D. Blair,5
-Shasta,0800,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0800,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0800,Governor,,REP,Alma Marie Winston,1
 Shasta,0800,Governor,,REP,Andrew Blount,1
 Shasta,0800,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0800,Governor,,DEM,"Edmund G. ""Jerry"" Brown",43
 Shasta,0800,Governor,,REP,Glenn Champ,3
-Shasta,0800,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0800,Governor,,IND,Joe Leicht,0
 Shasta,0800,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0800,Governor,,REP,Neel Kashkari,11
-Shasta,0800,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0800,Governor,,REP,Richard William Aguirre,0
-Shasta,0800,Governor,,IND,Robert Newman,0
 Shasta,0800,Governor,,REP,Tim Donnelly,18
 Shasta,0800,Insurance Commissioner,,DEM,Dave Jones,29
 Shasta,0800,Insurance Commissioner,,PAF,Nathalie Hrizi,6
 Shasta,0800,Insurance Commissioner,,REP,Ted Gaines,41
 Shasta,0800,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0800,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0800,Lieutenant Governor,,REP,David Fennell,4
 Shasta,0800,Lieutenant Governor,,DEM,Eric Korevaar,2
 Shasta,0800,Lieutenant Governor,,DEM,Gavin Newsom,35
 Shasta,0800,Lieutenant Governor,,REP,George Yang,4
 Shasta,0800,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0800,Lieutenant Governor,,REP,Ron Nehring,26
+Shasta,0800,Proposition 41,,,No,41
+Shasta,0800,Proposition 41,,,Yes,32
+Shasta,0800,Proposition 42,,,No,49
+Shasta,0800,Proposition 42,,,Yes,25
 Shasta,0800,Secretary of State,,DEM,Alex Padilla,9
-Shasta,0800,Secretary of State,,IND,Dan Schnur,0
 Shasta,0800,Secretary of State,,GRN,David Curtis,4
 Shasta,0800,Secretary of State,,DEM,Derek Cressman,7
 Shasta,0800,Secretary of State,,DEM,Jeffrey H. Drobman,3
@@ -5469,6 +5304,10 @@ Shasta,0830,Lieutenant Governor,,DEM,Gavin Newsom,179
 Shasta,0830,Lieutenant Governor,,REP,George Yang,70
 Shasta,0830,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0830,Lieutenant Governor,,REP,Ron Nehring,115
+Shasta,0830,Proposition 41,,,No,173
+Shasta,0830,Proposition 41,,,Yes,267
+Shasta,0830,Proposition 42,,,No,228
+Shasta,0830,Proposition 42,,,Yes,208
 Shasta,0830,Secretary of State,,DEM,Alex Padilla,83
 Shasta,0830,Secretary of State,,IND,Dan Schnur,23
 Shasta,0830,Secretary of State,,GRN,David Curtis,17
@@ -5504,15 +5343,12 @@ Shasta,0850,Controller,,REP,David Evans,96
 Shasta,0850,Controller,,DEM,John A. Pérez,18
 Shasta,0850,Controller,,GRN,Laura Wells,19
 Shasta,0850,Controller,,DEM,Tammy D. Blair,12
-Shasta,0850,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0850,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0850,Governor,,REP,Alma Marie Winston,11
 Shasta,0850,Governor,,REP,Andrew Blount,7
 Shasta,0850,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0850,Governor,,DEM,"Edmund G. ""Jerry"" Brown",93
 Shasta,0850,Governor,,REP,Glenn Champ,11
 Shasta,0850,Governor,,IND,Janel Hyeshia Buycks,2
-Shasta,0850,Governor,,IND,Joe Leicht,0
 Shasta,0850,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0850,Governor,,REP,Neel Kashkari,33
 Shasta,0850,Governor,,IND,Rakesh Kumar Christian,1
@@ -5530,6 +5366,10 @@ Shasta,0850,Lieutenant Governor,,DEM,Gavin Newsom,74
 Shasta,0850,Lieutenant Governor,,REP,George Yang,38
 Shasta,0850,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0850,Lieutenant Governor,,REP,Ron Nehring,65
+Shasta,0850,Proposition 41,,,No,100
+Shasta,0850,Proposition 41,,,Yes,123
+Shasta,0850,Proposition 42,,,No,111
+Shasta,0850,Proposition 42,,,Yes,105
 Shasta,0850,Secretary of State,,DEM,Alex Padilla,25
 Shasta,0850,Secretary of State,,IND,Dan Schnur,22
 Shasta,0850,Secretary of State,,GRN,David Curtis,9
@@ -5572,11 +5412,9 @@ Shasta,0861,Governor,,REP,Andrew Blount,27
 Shasta,0861,Governor,,PAF,Cindy L. Sheehan,7
 Shasta,0861,Governor,,DEM,"Edmund G. ""Jerry"" Brown",220
 Shasta,0861,Governor,,REP,Glenn Champ,28
-Shasta,0861,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0861,Governor,,IND,Joe Leicht,1
 Shasta,0861,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0861,Governor,,REP,Neel Kashkari,86
-Shasta,0861,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0861,Governor,,REP,Richard William Aguirre,7
 Shasta,0861,Governor,,IND,Robert Newman,8
 Shasta,0861,Governor,,REP,Tim Donnelly,165
@@ -5591,6 +5429,10 @@ Shasta,0861,Lieutenant Governor,,DEM,Gavin Newsom,186
 Shasta,0861,Lieutenant Governor,,REP,George Yang,83
 Shasta,0861,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0861,Lieutenant Governor,,REP,Ron Nehring,175
+Shasta,0861,Proposition 41,,,No,228
+Shasta,0861,Proposition 41,,,Yes,337
+Shasta,0861,Proposition 42,,,No,264
+Shasta,0861,Proposition 42,,,Yes,287
 Shasta,0861,Secretary of State,,DEM,Alex Padilla,97
 Shasta,0861,Secretary of State,,IND,Dan Schnur,36
 Shasta,0861,Secretary of State,,GRN,David Curtis,16
@@ -5627,31 +5469,30 @@ Shasta,0890,Controller,,DEM,John A. Pérez,39
 Shasta,0890,Controller,,GRN,Laura Wells,15
 Shasta,0890,Controller,,DEM,Tammy D. Blair,12
 Shasta,0890,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Shasta,0890,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0890,Governor,,REP,Alma Marie Winston,1
 Shasta,0890,Governor,,REP,Andrew Blount,10
-Shasta,0890,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0890,Governor,,DEM,"Edmund G. ""Jerry"" Brown",135
 Shasta,0890,Governor,,REP,Glenn Champ,8
 Shasta,0890,Governor,,IND,Janel Hyeshia Buycks,3
 Shasta,0890,Governor,,IND,Joe Leicht,3
 Shasta,0890,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,0890,Governor,,REP,Neel Kashkari,55
-Shasta,0890,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0890,Governor,,REP,Richard William Aguirre,0
 Shasta,0890,Governor,,IND,Robert Newman,3
 Shasta,0890,Governor,,REP,Tim Donnelly,45
 Shasta,0890,Insurance Commissioner,,DEM,Dave Jones,112
 Shasta,0890,Insurance Commissioner,,PAF,Nathalie Hrizi,12
 Shasta,0890,Insurance Commissioner,,REP,Ted Gaines,134
 Shasta,0890,Lieutenant Governor,,AME,Alan Reynolds,2
-Shasta,0890,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0890,Lieutenant Governor,,REP,David Fennell,31
 Shasta,0890,Lieutenant Governor,,DEM,Eric Korevaar,17
 Shasta,0890,Lieutenant Governor,,DEM,Gavin Newsom,114
 Shasta,0890,Lieutenant Governor,,REP,George Yang,20
 Shasta,0890,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0890,Lieutenant Governor,,REP,Ron Nehring,74
+Shasta,0890,Proposition 41,,,No,96
+Shasta,0890,Proposition 41,,,Yes,162
+Shasta,0890,Proposition 42,,,No,138
+Shasta,0890,Proposition 42,,,Yes,114
 Shasta,0890,Secretary of State,,DEM,Alex Padilla,53
 Shasta,0890,Secretary of State,,IND,Dan Schnur,25
 Shasta,0890,Secretary of State,,GRN,David Curtis,7
@@ -5687,18 +5528,14 @@ Shasta,0892,Controller,,REP,David Evans,143
 Shasta,0892,Controller,,DEM,John A. Pérez,23
 Shasta,0892,Controller,,GRN,Laura Wells,26
 Shasta,0892,Controller,,DEM,Tammy D. Blair,13
-Shasta,0892,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0892,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0892,Governor,,REP,Alma Marie Winston,8
 Shasta,0892,Governor,,REP,Andrew Blount,20
 Shasta,0892,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0892,Governor,,DEM,"Edmund G. ""Jerry"" Brown",91
 Shasta,0892,Governor,,REP,Glenn Champ,13
-Shasta,0892,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0892,Governor,,IND,Joe Leicht,4
 Shasta,0892,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0892,Governor,,REP,Neel Kashkari,73
-Shasta,0892,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0892,Governor,,REP,Richard William Aguirre,1
 Shasta,0892,Governor,,IND,Robert Newman,9
 Shasta,0892,Governor,,REP,Tim Donnelly,97
@@ -5713,6 +5550,10 @@ Shasta,0892,Lieutenant Governor,,DEM,Gavin Newsom,77
 Shasta,0892,Lieutenant Governor,,REP,George Yang,60
 Shasta,0892,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0892,Lieutenant Governor,,REP,Ron Nehring,102
+Shasta,0892,Proposition 41,,,No,140
+Shasta,0892,Proposition 41,,,Yes,176
+Shasta,0892,Proposition 42,,,No,175
+Shasta,0892,Proposition 42,,,Yes,139
 Shasta,0892,Secretary of State,,DEM,Alex Padilla,39
 Shasta,0892,Secretary of State,,IND,Dan Schnur,14
 Shasta,0892,Secretary of State,,GRN,David Curtis,12
@@ -5747,33 +5588,27 @@ Shasta,0893,Controller,,DEM,Betty T. Yee,6
 Shasta,0893,Controller,,REP,David Evans,23
 Shasta,0893,Controller,,DEM,John A. Pérez,6
 Shasta,0893,Controller,,GRN,Laura Wells,7
-Shasta,0893,Controller,,DEM,Tammy D. Blair,0
-Shasta,0893,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0893,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0893,Governor,,REP,Alma Marie Winston,0
 Shasta,0893,Governor,,REP,Andrew Blount,1
-Shasta,0893,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0893,Governor,,DEM,"Edmund G. ""Jerry"" Brown",21
 Shasta,0893,Governor,,REP,Glenn Champ,1
-Shasta,0893,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0893,Governor,,IND,Joe Leicht,0
 Shasta,0893,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0893,Governor,,REP,Neel Kashkari,9
 Shasta,0893,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0893,Governor,,REP,Richard William Aguirre,0
-Shasta,0893,Governor,,IND,Robert Newman,0
 Shasta,0893,Governor,,REP,Tim Donnelly,16
 Shasta,0893,Insurance Commissioner,,DEM,Dave Jones,18
 Shasta,0893,Insurance Commissioner,,PAF,Nathalie Hrizi,3
 Shasta,0893,Insurance Commissioner,,REP,Ted Gaines,30
 Shasta,0893,Lieutenant Governor,,AME,Alan Reynolds,2
-Shasta,0893,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0893,Lieutenant Governor,,REP,David Fennell,5
 Shasta,0893,Lieutenant Governor,,DEM,Eric Korevaar,7
 Shasta,0893,Lieutenant Governor,,DEM,Gavin Newsom,13
 Shasta,0893,Lieutenant Governor,,REP,George Yang,10
 Shasta,0893,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0893,Lieutenant Governor,,REP,Ron Nehring,16
+Shasta,0893,Proposition 41,,,No,23
+Shasta,0893,Proposition 41,,,Yes,30
+Shasta,0893,Proposition 42,,,No,27
+Shasta,0893,Proposition 42,,,Yes,24
 Shasta,0893,Secretary of State,,DEM,Alex Padilla,11
 Shasta,0893,Secretary of State,,IND,Dan Schnur,1
 Shasta,0893,Secretary of State,,GRN,David Curtis,3
@@ -5820,7 +5655,6 @@ Shasta,0894,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0894,Governor,,IND,Joe Leicht,2
 Shasta,0894,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0894,Governor,,REP,Neel Kashkari,56
-Shasta,0894,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0894,Governor,,REP,Richard William Aguirre,4
 Shasta,0894,Governor,,IND,Robert Newman,6
 Shasta,0894,Governor,,REP,Tim Donnelly,73
@@ -5835,6 +5669,10 @@ Shasta,0894,Lieutenant Governor,,DEM,Gavin Newsom,129
 Shasta,0894,Lieutenant Governor,,REP,George Yang,47
 Shasta,0894,Lieutenant Governor,,GRN,Jena F. Goodman,9
 Shasta,0894,Lieutenant Governor,,REP,Ron Nehring,72
+Shasta,0894,Proposition 41,,,No,144
+Shasta,0894,Proposition 41,,,Yes,195
+Shasta,0894,Proposition 42,,,No,157
+Shasta,0894,Proposition 42,,,Yes,175
 Shasta,0894,Secretary of State,,DEM,Alex Padilla,73
 Shasta,0894,Secretary of State,,IND,Dan Schnur,18
 Shasta,0894,Secretary of State,,GRN,David Curtis,12
@@ -5877,11 +5715,8 @@ Shasta,0895,Governor,,REP,Andrew Blount,13
 Shasta,0895,Governor,,PAF,Cindy L. Sheehan,3
 Shasta,0895,Governor,,DEM,"Edmund G. ""Jerry"" Brown",121
 Shasta,0895,Governor,,REP,Glenn Champ,5
-Shasta,0895,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0895,Governor,,IND,Joe Leicht,0
 Shasta,0895,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0895,Governor,,REP,Neel Kashkari,42
-Shasta,0895,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0895,Governor,,REP,Richard William Aguirre,1
 Shasta,0895,Governor,,IND,Robert Newman,3
 Shasta,0895,Governor,,REP,Tim Donnelly,77
@@ -5896,6 +5731,10 @@ Shasta,0895,Lieutenant Governor,,DEM,Gavin Newsom,96
 Shasta,0895,Lieutenant Governor,,REP,George Yang,34
 Shasta,0895,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0895,Lieutenant Governor,,REP,Ron Nehring,70
+Shasta,0895,Proposition 41,,,No,126
+Shasta,0895,Proposition 41,,,Yes,141
+Shasta,0895,Proposition 42,,,No,146
+Shasta,0895,Proposition 42,,,Yes,123
 Shasta,0895,Secretary of State,,DEM,Alex Padilla,40
 Shasta,0895,Secretary of State,,IND,Dan Schnur,13
 Shasta,0895,Secretary of State,,GRN,David Curtis,5
@@ -5939,10 +5778,8 @@ Shasta,0897,Governor,,PAF,Cindy L. Sheehan,12
 Shasta,0897,Governor,,DEM,"Edmund G. ""Jerry"" Brown",203
 Shasta,0897,Governor,,REP,Glenn Champ,18
 Shasta,0897,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0897,Governor,,IND,Joe Leicht,0
 Shasta,0897,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0897,Governor,,REP,Neel Kashkari,63
-Shasta,0897,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0897,Governor,,REP,Richard William Aguirre,1
 Shasta,0897,Governor,,IND,Robert Newman,12
 Shasta,0897,Governor,,REP,Tim Donnelly,116
@@ -5957,6 +5794,10 @@ Shasta,0897,Lieutenant Governor,,DEM,Gavin Newsom,151
 Shasta,0897,Lieutenant Governor,,REP,George Yang,50
 Shasta,0897,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0897,Lieutenant Governor,,REP,Ron Nehring,121
+Shasta,0897,Proposition 41,,,No,149
+Shasta,0897,Proposition 41,,,Yes,299
+Shasta,0897,Proposition 42,,,No,208
+Shasta,0897,Proposition 42,,,Yes,225
 Shasta,0897,Secretary of State,,DEM,Alex Padilla,65
 Shasta,0897,Secretary of State,,IND,Dan Schnur,26
 Shasta,0897,Secretary of State,,GRN,David Curtis,15
@@ -5979,7 +5820,6 @@ Shasta,0897,U.S. House,1,REP,Gregory Cheadle,71
 Shasta,0897,U.S. House,1,DEM,Heidi Hall,133
 Shasta,0900,Attorney General,,REP,David King,6
 Shasta,0900,Attorney General,,REP,John Haggerty,10
-Shasta,0900,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0900,Attorney General,,DEM,Kamala D. Harris,25
 Shasta,0900,Attorney General,,IND,Orly Taitz,1
 Shasta,0900,Attorney General,,REP,Phil Wyman,7
@@ -5992,35 +5832,25 @@ Shasta,0900,Controller,,REP,David Evans,26
 Shasta,0900,Controller,,DEM,John A. Pérez,5
 Shasta,0900,Controller,,GRN,Laura Wells,3
 Shasta,0900,Controller,,DEM,Tammy D. Blair,2
-Shasta,0900,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0900,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0900,Governor,,REP,Alma Marie Winston,3
 Shasta,0900,Governor,,REP,Andrew Blount,3
-Shasta,0900,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0900,Governor,,DEM,"Edmund G. ""Jerry"" Brown",29
-Shasta,0900,Governor,,REP,Glenn Champ,0
-Shasta,0900,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0900,Governor,,IND,Joe Leicht,0
-Shasta,0900,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0900,Governor,,REP,Neel Kashkari,8
-Shasta,0900,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0900,Governor,,REP,Richard William Aguirre,0
-Shasta,0900,Governor,,IND,Robert Newman,0
 Shasta,0900,Governor,,REP,Tim Donnelly,11
 Shasta,0900,Insurance Commissioner,,DEM,Dave Jones,27
 Shasta,0900,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Shasta,0900,Insurance Commissioner,,REP,Ted Gaines,25
 Shasta,0900,Lieutenant Governor,,AME,Alan Reynolds,1
-Shasta,0900,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0900,Lieutenant Governor,,REP,David Fennell,5
 Shasta,0900,Lieutenant Governor,,DEM,Eric Korevaar,4
 Shasta,0900,Lieutenant Governor,,DEM,Gavin Newsom,24
 Shasta,0900,Lieutenant Governor,,REP,George Yang,9
-Shasta,0900,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0900,Lieutenant Governor,,REP,Ron Nehring,12
+Shasta,0900,Proposition 41,,,No,24
+Shasta,0900,Proposition 41,,,Yes,27
+Shasta,0900,Proposition 42,,,No,27
+Shasta,0900,Proposition 42,,,Yes,23
 Shasta,0900,Secretary of State,,DEM,Alex Padilla,9
-Shasta,0900,Secretary of State,,IND,Dan Schnur,0
-Shasta,0900,Secretary of State,,GRN,David Curtis,0
 Shasta,0900,Secretary of State,,DEM,Derek Cressman,2
 Shasta,0900,Secretary of State,,DEM,Jeffrey H. Drobman,2
 Shasta,0900,Secretary of State,,DEM,Leland Yee,4
@@ -6053,7 +5883,6 @@ Shasta,0910,Controller,,REP,David Evans,46
 Shasta,0910,Controller,,DEM,John A. Pérez,10
 Shasta,0910,Controller,,GRN,Laura Wells,12
 Shasta,0910,Controller,,DEM,Tammy D. Blair,8
-Shasta,0910,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0910,Governor,,DEM,Akinyemi Agbede,1
 Shasta,0910,Governor,,REP,Alma Marie Winston,8
 Shasta,0910,Governor,,REP,Andrew Blount,5
@@ -6064,7 +5893,6 @@ Shasta,0910,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,0910,Governor,,IND,Joe Leicht,2
 Shasta,0910,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0910,Governor,,REP,Neel Kashkari,13
-Shasta,0910,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0910,Governor,,REP,Richard William Aguirre,1
 Shasta,0910,Governor,,IND,Robert Newman,1
 Shasta,0910,Governor,,REP,Tim Donnelly,25
@@ -6072,13 +5900,16 @@ Shasta,0910,Insurance Commissioner,,DEM,Dave Jones,42
 Shasta,0910,Insurance Commissioner,,PAF,Nathalie Hrizi,8
 Shasta,0910,Insurance Commissioner,,REP,Ted Gaines,58
 Shasta,0910,Lieutenant Governor,,AME,Alan Reynolds,6
-Shasta,0910,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0910,Lieutenant Governor,,REP,David Fennell,11
 Shasta,0910,Lieutenant Governor,,DEM,Eric Korevaar,4
 Shasta,0910,Lieutenant Governor,,DEM,Gavin Newsom,42
 Shasta,0910,Lieutenant Governor,,REP,George Yang,8
 Shasta,0910,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Shasta,0910,Lieutenant Governor,,REP,Ron Nehring,33
+Shasta,0910,Proposition 41,,,No,32
+Shasta,0910,Proposition 41,,,Yes,74
+Shasta,0910,Proposition 42,,,No,59
+Shasta,0910,Proposition 42,,,Yes,44
 Shasta,0910,Secretary of State,,DEM,Alex Padilla,19
 Shasta,0910,Secretary of State,,IND,Dan Schnur,7
 Shasta,0910,Secretary of State,,GRN,David Curtis,5
@@ -6115,10 +5946,8 @@ Shasta,0912,Controller,,DEM,John A. Pérez,57
 Shasta,0912,Controller,,GRN,Laura Wells,15
 Shasta,0912,Controller,,DEM,Tammy D. Blair,14
 Shasta,0912,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Shasta,0912,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0912,Governor,,REP,Alma Marie Winston,13
 Shasta,0912,Governor,,REP,Andrew Blount,21
-Shasta,0912,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0912,Governor,,DEM,"Edmund G. ""Jerry"" Brown",190
 Shasta,0912,Governor,,REP,Glenn Champ,9
 Shasta,0912,Governor,,IND,Janel Hyeshia Buycks,1
@@ -6140,6 +5969,10 @@ Shasta,0912,Lieutenant Governor,,DEM,Gavin Newsom,152
 Shasta,0912,Lieutenant Governor,,REP,George Yang,94
 Shasta,0912,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0912,Lieutenant Governor,,REP,Ron Nehring,170
+Shasta,0912,Proposition 41,,,No,254
+Shasta,0912,Proposition 41,,,Yes,281
+Shasta,0912,Proposition 42,,,No,282
+Shasta,0912,Proposition 42,,,Yes,239
 Shasta,0912,Secretary of State,,DEM,Alex Padilla,74
 Shasta,0912,Secretary of State,,IND,Dan Schnur,29
 Shasta,0912,Secretary of State,,GRN,David Curtis,14
@@ -6175,32 +6008,26 @@ Shasta,0914,Controller,,REP,David Evans,26
 Shasta,0914,Controller,,DEM,John A. Pérez,2
 Shasta,0914,Controller,,GRN,Laura Wells,1
 Shasta,0914,Controller,,DEM,Tammy D. Blair,1
-Shasta,0914,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0914,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0914,Governor,,REP,Alma Marie Winston,3
 Shasta,0914,Governor,,REP,Andrew Blount,1
-Shasta,0914,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0914,Governor,,DEM,"Edmund G. ""Jerry"" Brown",16
-Shasta,0914,Governor,,REP,Glenn Champ,0
-Shasta,0914,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0914,Governor,,IND,Joe Leicht,0
-Shasta,0914,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0914,Governor,,REP,Neel Kashkari,11
 Shasta,0914,Governor,,IND,Rakesh Kumar Christian,1
-Shasta,0914,Governor,,REP,Richard William Aguirre,0
-Shasta,0914,Governor,,IND,Robert Newman,0
 Shasta,0914,Governor,,REP,Tim Donnelly,16
 Shasta,0914,Insurance Commissioner,,DEM,Dave Jones,9
 Shasta,0914,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Shasta,0914,Insurance Commissioner,,REP,Ted Gaines,35
 Shasta,0914,Lieutenant Governor,,AME,Alan Reynolds,3
-Shasta,0914,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0914,Lieutenant Governor,,REP,David Fennell,7
 Shasta,0914,Lieutenant Governor,,DEM,Eric Korevaar,2
 Shasta,0914,Lieutenant Governor,,DEM,Gavin Newsom,8
 Shasta,0914,Lieutenant Governor,,REP,George Yang,8
 Shasta,0914,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0914,Lieutenant Governor,,REP,Ron Nehring,17
+Shasta,0914,Proposition 41,,,No,15
+Shasta,0914,Proposition 41,,,Yes,31
+Shasta,0914,Proposition 42,,,No,25
+Shasta,0914,Proposition 42,,,Yes,18
 Shasta,0914,Secretary of State,,DEM,Alex Padilla,3
 Shasta,0914,Secretary of State,,IND,Dan Schnur,3
 Shasta,0914,Secretary of State,,GRN,David Curtis,1
@@ -6217,7 +6044,6 @@ Shasta,0914,Superintendent of Public Instruction,,NOP,Tom Torlakson,13
 Shasta,0914,Treasurer,,GRN,Ellen H. Brown,1
 Shasta,0914,Treasurer,,REP,Greg Conlon,32
 Shasta,0914,Treasurer,,DEM,John Chiang,12
-Shasta,0914,U.S. House,1,DEM,Dan Levine,0
 Shasta,0914,U.S. House,1,REP,Doug La Malfa,29
 Shasta,0914,U.S. House,1,REP,Gregory Cheadle,9
 Shasta,0914,U.S. House,1,DEM,Heidi Hall,9
@@ -6262,6 +6088,10 @@ Shasta,0930,Lieutenant Governor,,DEM,Gavin Newsom,186
 Shasta,0930,Lieutenant Governor,,REP,George Yang,52
 Shasta,0930,Lieutenant Governor,,GRN,Jena F. Goodman,17
 Shasta,0930,Lieutenant Governor,,REP,Ron Nehring,130
+Shasta,0930,Proposition 41,,,No,200
+Shasta,0930,Proposition 41,,,Yes,281
+Shasta,0930,Proposition 42,,,No,244
+Shasta,0930,Proposition 42,,,Yes,231
 Shasta,0930,Secretary of State,,DEM,Alex Padilla,66
 Shasta,0930,Secretary of State,,IND,Dan Schnur,27
 Shasta,0930,Secretary of State,,GRN,David Curtis,26
@@ -6304,12 +6134,10 @@ Shasta,0932,Governor,,REP,Andrew Blount,9
 Shasta,0932,Governor,,PAF,Cindy L. Sheehan,6
 Shasta,0932,Governor,,DEM,"Edmund G. ""Jerry"" Brown",61
 Shasta,0932,Governor,,REP,Glenn Champ,12
-Shasta,0932,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0932,Governor,,IND,Joe Leicht,1
 Shasta,0932,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0932,Governor,,REP,Neel Kashkari,35
 Shasta,0932,Governor,,IND,Rakesh Kumar Christian,2
-Shasta,0932,Governor,,REP,Richard William Aguirre,0
 Shasta,0932,Governor,,IND,Robert Newman,3
 Shasta,0932,Governor,,REP,Tim Donnelly,79
 Shasta,0932,Insurance Commissioner,,DEM,Dave Jones,66
@@ -6323,6 +6151,10 @@ Shasta,0932,Lieutenant Governor,,DEM,Gavin Newsom,59
 Shasta,0932,Lieutenant Governor,,REP,George Yang,35
 Shasta,0932,Lieutenant Governor,,GRN,Jena F. Goodman,8
 Shasta,0932,Lieutenant Governor,,REP,Ron Nehring,67
+Shasta,0932,Proposition 41,,,No,139
+Shasta,0932,Proposition 41,,,Yes,89
+Shasta,0932,Proposition 42,,,No,122
+Shasta,0932,Proposition 42,,,Yes,98
 Shasta,0932,Secretary of State,,DEM,Alex Padilla,25
 Shasta,0932,Secretary of State,,IND,Dan Schnur,18
 Shasta,0932,Secretary of State,,GRN,David Curtis,7
@@ -6384,6 +6216,10 @@ Shasta,0940,Lieutenant Governor,,DEM,Gavin Newsom,177
 Shasta,0940,Lieutenant Governor,,REP,George Yang,107
 Shasta,0940,Lieutenant Governor,,GRN,Jena F. Goodman,14
 Shasta,0940,Lieutenant Governor,,REP,Ron Nehring,195
+Shasta,0940,Proposition 41,,,No,301
+Shasta,0940,Proposition 41,,,Yes,346
+Shasta,0940,Proposition 42,,,No,349
+Shasta,0940,Proposition 42,,,Yes,273
 Shasta,0940,Secretary of State,,DEM,Alex Padilla,73
 Shasta,0940,Secretary of State,,IND,Dan Schnur,35
 Shasta,0940,Secretary of State,,GRN,David Curtis,29
@@ -6430,7 +6266,6 @@ Shasta,0942,Governor,,IND,Janel Hyeshia Buycks,2
 Shasta,0942,Governor,,IND,Joe Leicht,4
 Shasta,0942,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0942,Governor,,REP,Neel Kashkari,76
-Shasta,0942,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0942,Governor,,REP,Richard William Aguirre,6
 Shasta,0942,Governor,,IND,Robert Newman,14
 Shasta,0942,Governor,,REP,Tim Donnelly,144
@@ -6445,6 +6280,10 @@ Shasta,0942,Lieutenant Governor,,DEM,Gavin Newsom,137
 Shasta,0942,Lieutenant Governor,,REP,George Yang,70
 Shasta,0942,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,0942,Lieutenant Governor,,REP,Ron Nehring,140
+Shasta,0942,Proposition 41,,,No,205
+Shasta,0942,Proposition 41,,,Yes,269
+Shasta,0942,Proposition 42,,,No,247
+Shasta,0942,Proposition 42,,,Yes,224
 Shasta,0942,Secretary of State,,DEM,Alex Padilla,58
 Shasta,0942,Secretary of State,,IND,Dan Schnur,53
 Shasta,0942,Secretary of State,,GRN,David Curtis,11
@@ -6480,20 +6319,14 @@ Shasta,0960,Controller,,REP,David Evans,43
 Shasta,0960,Controller,,DEM,John A. Pérez,4
 Shasta,0960,Controller,,GRN,Laura Wells,4
 Shasta,0960,Controller,,DEM,Tammy D. Blair,4
-Shasta,0960,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0960,Governor,,DEM,Akinyemi Agbede,1
 Shasta,0960,Governor,,REP,Alma Marie Winston,3
 Shasta,0960,Governor,,REP,Andrew Blount,7
 Shasta,0960,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0960,Governor,,DEM,"Edmund G. ""Jerry"" Brown",22
 Shasta,0960,Governor,,REP,Glenn Champ,1
-Shasta,0960,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0960,Governor,,IND,Joe Leicht,1
-Shasta,0960,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0960,Governor,,REP,Neel Kashkari,20
-Shasta,0960,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0960,Governor,,REP,Richard William Aguirre,0
-Shasta,0960,Governor,,IND,Robert Newman,0
 Shasta,0960,Governor,,REP,Tim Donnelly,32
 Shasta,0960,Insurance Commissioner,,DEM,Dave Jones,11
 Shasta,0960,Insurance Commissioner,,PAF,Nathalie Hrizi,4
@@ -6506,6 +6339,10 @@ Shasta,0960,Lieutenant Governor,,DEM,Gavin Newsom,14
 Shasta,0960,Lieutenant Governor,,REP,George Yang,18
 Shasta,0960,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,0960,Lieutenant Governor,,REP,Ron Nehring,31
+Shasta,0960,Proposition 41,,,No,42
+Shasta,0960,Proposition 41,,,Yes,43
+Shasta,0960,Proposition 42,,,No,53
+Shasta,0960,Proposition 42,,,Yes,28
 Shasta,0960,Secretary of State,,DEM,Alex Padilla,6
 Shasta,0960,Secretary of State,,IND,Dan Schnur,8
 Shasta,0960,Secretary of State,,GRN,David Curtis,1
@@ -6552,7 +6389,6 @@ Shasta,0970,Governor,,IND,Janel Hyeshia Buycks,3
 Shasta,0970,Governor,,IND,Joe Leicht,3
 Shasta,0970,Governor,,GRN,Luis J. Rodriguez,5
 Shasta,0970,Governor,,REP,Neel Kashkari,53
-Shasta,0970,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0970,Governor,,REP,Richard William Aguirre,1
 Shasta,0970,Governor,,IND,Robert Newman,13
 Shasta,0970,Governor,,REP,Tim Donnelly,83
@@ -6567,6 +6403,10 @@ Shasta,0970,Lieutenant Governor,,DEM,Gavin Newsom,84
 Shasta,0970,Lieutenant Governor,,REP,George Yang,27
 Shasta,0970,Lieutenant Governor,,GRN,Jena F. Goodman,4
 Shasta,0970,Lieutenant Governor,,REP,Ron Nehring,83
+Shasta,0970,Proposition 41,,,No,130
+Shasta,0970,Proposition 41,,,Yes,169
+Shasta,0970,Proposition 42,,,No,155
+Shasta,0970,Proposition 42,,,Yes,137
 Shasta,0970,Secretary of State,,DEM,Alex Padilla,39
 Shasta,0970,Secretary of State,,IND,Dan Schnur,19
 Shasta,0970,Secretary of State,,GRN,David Curtis,5
@@ -6602,32 +6442,28 @@ Shasta,0972,Controller,,REP,David Evans,72
 Shasta,0972,Controller,,DEM,John A. Pérez,17
 Shasta,0972,Controller,,GRN,Laura Wells,9
 Shasta,0972,Controller,,DEM,Tammy D. Blair,10
-Shasta,0972,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0972,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0972,Governor,,REP,Alma Marie Winston,3
 Shasta,0972,Governor,,REP,Andrew Blount,7
 Shasta,0972,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0972,Governor,,DEM,"Edmund G. ""Jerry"" Brown",80
 Shasta,0972,Governor,,REP,Glenn Champ,8
 Shasta,0972,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0972,Governor,,IND,Joe Leicht,0
-Shasta,0972,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0972,Governor,,REP,Neel Kashkari,35
-Shasta,0972,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0972,Governor,,REP,Richard William Aguirre,1
-Shasta,0972,Governor,,IND,Robert Newman,0
 Shasta,0972,Governor,,REP,Tim Donnelly,32
 Shasta,0972,Insurance Commissioner,,DEM,Dave Jones,71
 Shasta,0972,Insurance Commissioner,,PAF,Nathalie Hrizi,4
 Shasta,0972,Insurance Commissioner,,REP,Ted Gaines,89
 Shasta,0972,Lieutenant Governor,,AME,Alan Reynolds,2
-Shasta,0972,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0972,Lieutenant Governor,,REP,David Fennell,18
 Shasta,0972,Lieutenant Governor,,DEM,Eric Korevaar,7
 Shasta,0972,Lieutenant Governor,,DEM,Gavin Newsom,66
 Shasta,0972,Lieutenant Governor,,REP,George Yang,26
-Shasta,0972,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,0972,Lieutenant Governor,,REP,Ron Nehring,45
+Shasta,0972,Proposition 41,,,No,56
+Shasta,0972,Proposition 41,,,Yes,109
+Shasta,0972,Proposition 42,,,No,84
+Shasta,0972,Proposition 42,,,Yes,72
 Shasta,0972,Secretary of State,,DEM,Alex Padilla,31
 Shasta,0972,Secretary of State,,IND,Dan Schnur,9
 Shasta,0972,Secretary of State,,GRN,David Curtis,3
@@ -6664,7 +6500,6 @@ Shasta,0976,Controller,,DEM,John A. Pérez,38
 Shasta,0976,Controller,,GRN,Laura Wells,8
 Shasta,0976,Controller,,DEM,Tammy D. Blair,10
 Shasta,0976,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",7
-Shasta,0976,Governor,,DEM,Akinyemi Agbede,0
 Shasta,0976,Governor,,REP,Alma Marie Winston,17
 Shasta,0976,Governor,,REP,Andrew Blount,16
 Shasta,0976,Governor,,PAF,Cindy L. Sheehan,2
@@ -6689,6 +6524,10 @@ Shasta,0976,Lieutenant Governor,,DEM,Gavin Newsom,103
 Shasta,0976,Lieutenant Governor,,REP,George Yang,80
 Shasta,0976,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0976,Lieutenant Governor,,REP,Ron Nehring,152
+Shasta,0976,Proposition 41,,,No,232
+Shasta,0976,Proposition 41,,,Yes,198
+Shasta,0976,Proposition 42,,,No,259
+Shasta,0976,Proposition 42,,,Yes,161
 Shasta,0976,Secretary of State,,DEM,Alex Padilla,45
 Shasta,0976,Secretary of State,,IND,Dan Schnur,14
 Shasta,0976,Secretary of State,,GRN,David Curtis,11
@@ -6724,16 +6563,12 @@ Shasta,0978,Controller,,REP,David Evans,107
 Shasta,0978,Controller,,DEM,John A. Pérez,15
 Shasta,0978,Controller,,GRN,Laura Wells,7
 Shasta,0978,Controller,,DEM,Tammy D. Blair,4
-Shasta,0978,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,0978,Governor,,DEM,Akinyemi Agbede,1
 Shasta,0978,Governor,,REP,Alma Marie Winston,2
 Shasta,0978,Governor,,REP,Andrew Blount,10
 Shasta,0978,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0978,Governor,,DEM,"Edmund G. ""Jerry"" Brown",87
 Shasta,0978,Governor,,REP,Glenn Champ,4
-Shasta,0978,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0978,Governor,,IND,Joe Leicht,0
-Shasta,0978,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,0978,Governor,,REP,Neel Kashkari,49
 Shasta,0978,Governor,,IND,Rakesh Kumar Christian,1
 Shasta,0978,Governor,,REP,Richard William Aguirre,2
@@ -6750,6 +6585,10 @@ Shasta,0978,Lieutenant Governor,,DEM,Gavin Newsom,66
 Shasta,0978,Lieutenant Governor,,REP,George Yang,42
 Shasta,0978,Lieutenant Governor,,GRN,Jena F. Goodman,1
 Shasta,0978,Lieutenant Governor,,REP,Ron Nehring,65
+Shasta,0978,Proposition 41,,,No,116
+Shasta,0978,Proposition 41,,,Yes,95
+Shasta,0978,Proposition 42,,,No,110
+Shasta,0978,Proposition 42,,,Yes,92
 Shasta,0978,Secretary of State,,DEM,Alex Padilla,26
 Shasta,0978,Secretary of State,,IND,Dan Schnur,14
 Shasta,0978,Secretary of State,,GRN,David Curtis,3
@@ -6792,7 +6631,6 @@ Shasta,0979,Governor,,REP,Andrew Blount,23
 Shasta,0979,Governor,,PAF,Cindy L. Sheehan,5
 Shasta,0979,Governor,,DEM,"Edmund G. ""Jerry"" Brown",173
 Shasta,0979,Governor,,REP,Glenn Champ,12
-Shasta,0979,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,0979,Governor,,IND,Joe Leicht,3
 Shasta,0979,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,0979,Governor,,REP,Neel Kashkari,111
@@ -6811,6 +6649,10 @@ Shasta,0979,Lieutenant Governor,,DEM,Gavin Newsom,137
 Shasta,0979,Lieutenant Governor,,REP,George Yang,70
 Shasta,0979,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0979,Lieutenant Governor,,REP,Ron Nehring,171
+Shasta,0979,Proposition 41,,,No,252
+Shasta,0979,Proposition 41,,,Yes,248
+Shasta,0979,Proposition 42,,,No,275
+Shasta,0979,Proposition 42,,,Yes,211
 Shasta,0979,Secretary of State,,DEM,Alex Padilla,70
 Shasta,0979,Secretary of State,,IND,Dan Schnur,19
 Shasta,0979,Secretary of State,,GRN,David Curtis,8
@@ -6854,10 +6696,8 @@ Shasta,0982,Governor,,PAF,Cindy L. Sheehan,1
 Shasta,0982,Governor,,DEM,"Edmund G. ""Jerry"" Brown",74
 Shasta,0982,Governor,,REP,Glenn Champ,11
 Shasta,0982,Governor,,IND,Janel Hyeshia Buycks,1
-Shasta,0982,Governor,,IND,Joe Leicht,0
 Shasta,0982,Governor,,GRN,Luis J. Rodriguez,3
 Shasta,0982,Governor,,REP,Neel Kashkari,25
-Shasta,0982,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,0982,Governor,,REP,Richard William Aguirre,1
 Shasta,0982,Governor,,IND,Robert Newman,3
 Shasta,0982,Governor,,REP,Tim Donnelly,36
@@ -6865,13 +6705,16 @@ Shasta,0982,Insurance Commissioner,,DEM,Dave Jones,65
 Shasta,0982,Insurance Commissioner,,PAF,Nathalie Hrizi,13
 Shasta,0982,Insurance Commissioner,,REP,Ted Gaines,85
 Shasta,0982,Lieutenant Governor,,AME,Alan Reynolds,3
-Shasta,0982,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,0982,Lieutenant Governor,,REP,David Fennell,15
 Shasta,0982,Lieutenant Governor,,DEM,Eric Korevaar,14
 Shasta,0982,Lieutenant Governor,,DEM,Gavin Newsom,63
 Shasta,0982,Lieutenant Governor,,REP,George Yang,22
 Shasta,0982,Lieutenant Governor,,GRN,Jena F. Goodman,3
 Shasta,0982,Lieutenant Governor,,REP,Ron Nehring,44
+Shasta,0982,Proposition 41,,,No,71
+Shasta,0982,Proposition 41,,,Yes,92
+Shasta,0982,Proposition 42,,,No,85
+Shasta,0982,Proposition 42,,,Yes,72
 Shasta,0982,Secretary of State,,DEM,Alex Padilla,16
 Shasta,0982,Secretary of State,,IND,Dan Schnur,8
 Shasta,0982,Secretary of State,,GRN,David Curtis,8
@@ -6892,127 +6735,28 @@ Shasta,0982,U.S. House,1,DEM,Dan Levine,8
 Shasta,0982,U.S. House,1,REP,Doug La Malfa,78
 Shasta,0982,U.S. House,1,REP,Gregory Cheadle,17
 Shasta,0982,U.S. House,1,DEM,Heidi Hall,62
-Shasta,0983,Attorney General,,REP,David King,0
-Shasta,0983,Attorney General,,REP,John Haggerty,0
-Shasta,0983,Attorney General,,LIB,Jonathan Jaech,0
-Shasta,0983,Attorney General,,DEM,Kamala D. Harris,0
-Shasta,0983,Attorney General,,IND,Orly Taitz,0
-Shasta,0983,Attorney General,,REP,Phil Wyman,0
-Shasta,0983,Attorney General,,REP,Ronald Gold,0
-Shasta,0983,Board of Equalization,1,DEM,Chris Parker,0
-Shasta,0983,Board of Equalization,1,REP,George Runner,0
-Shasta,0983,Controller,,REP,Ashley Swearengin,0
-Shasta,0983,Controller,,DEM,Betty T. Yee,0
-Shasta,0983,Controller,,REP,David Evans,0
-Shasta,0983,Controller,,DEM,John A. Pérez,0
-Shasta,0983,Controller,,GRN,Laura Wells,0
-Shasta,0983,Controller,,DEM,Tammy D. Blair,0
-Shasta,0983,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0983,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0983,Governor,,REP,Alma Marie Winston,0
-Shasta,0983,Governor,,REP,Andrew Blount,0
-Shasta,0983,Governor,,PAF,Cindy L. Sheehan,0
-Shasta,0983,Governor,,DEM,"Edmund G. ""Jerry"" Brown",0
-Shasta,0983,Governor,,REP,Glenn Champ,0
-Shasta,0983,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0983,Governor,,IND,Joe Leicht,0
-Shasta,0983,Governor,,GRN,Luis J. Rodriguez,0
-Shasta,0983,Governor,,REP,Neel Kashkari,0
-Shasta,0983,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0983,Governor,,REP,Richard William Aguirre,0
-Shasta,0983,Governor,,IND,Robert Newman,0
-Shasta,0983,Governor,,REP,Tim Donnelly,0
-Shasta,0983,Insurance Commissioner,,DEM,Dave Jones,0
-Shasta,0983,Insurance Commissioner,,PAF,Nathalie Hrizi,0
-Shasta,0983,Insurance Commissioner,,REP,Ted Gaines,0
-Shasta,0983,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0983,Lieutenant Governor,,PAF,Amos Johnson,0
-Shasta,0983,Lieutenant Governor,,REP,David Fennell,0
-Shasta,0983,Lieutenant Governor,,DEM,Eric Korevaar,0
-Shasta,0983,Lieutenant Governor,,DEM,Gavin Newsom,0
-Shasta,0983,Lieutenant Governor,,REP,George Yang,0
-Shasta,0983,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Shasta,0983,Lieutenant Governor,,REP,Ron Nehring,0
-Shasta,0983,Secretary of State,,DEM,Alex Padilla,0
-Shasta,0983,Secretary of State,,IND,Dan Schnur,0
-Shasta,0983,Secretary of State,,GRN,David Curtis,0
-Shasta,0983,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0983,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0983,Secretary of State,,DEM,Leland Yee,0
-Shasta,0983,Secretary of State,,REP,Pete Peterson,0
-Shasta,0983,Secretary of State,,REP,Roy Allmond,0
-Shasta,0983,State Assembly,1,REP,Brian Dahle,0
-Shasta,0983,State Assembly,1,DEM,Brigham Sawyer Smith,0
-Shasta,0983,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
-Shasta,0983,Superintendent of Public Instruction,,NOP,Marshall Tuck,0
-Shasta,0983,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Shasta,0983,Treasurer,,GRN,Ellen H. Brown,0
-Shasta,0983,Treasurer,,REP,Greg Conlon,0
-Shasta,0983,Treasurer,,DEM,John Chiang,0
-Shasta,0983,U.S. House,1,DEM,Dan Levine,0
-Shasta,0983,U.S. House,1,REP,Doug La Malfa,0
-Shasta,0983,U.S. House,1,REP,Gregory Cheadle,0
-Shasta,0983,U.S. House,1,DEM,Heidi Hall,0
-Shasta,0990,Attorney General,,REP,David King,0
-Shasta,0990,Attorney General,,REP,John Haggerty,0
-Shasta,0990,Attorney General,,LIB,Jonathan Jaech,0
 Shasta,0990,Attorney General,,DEM,Kamala D. Harris,5
-Shasta,0990,Attorney General,,IND,Orly Taitz,0
-Shasta,0990,Attorney General,,REP,Phil Wyman,0
-Shasta,0990,Attorney General,,REP,Ronald Gold,0
 Shasta,0990,Board of Equalization,1,DEM,Chris Parker,2
 Shasta,0990,Board of Equalization,1,REP,George Runner,2
-Shasta,0990,Controller,,REP,Ashley Swearengin,0
-Shasta,0990,Controller,,DEM,Betty T. Yee,0
 Shasta,0990,Controller,,REP,David Evans,2
 Shasta,0990,Controller,,DEM,John A. Pérez,2
-Shasta,0990,Controller,,GRN,Laura Wells,0
-Shasta,0990,Controller,,DEM,Tammy D. Blair,0
-Shasta,0990,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,0990,Governor,,DEM,Akinyemi Agbede,0
-Shasta,0990,Governor,,REP,Alma Marie Winston,0
-Shasta,0990,Governor,,REP,Andrew Blount,0
-Shasta,0990,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,0990,Governor,,DEM,"Edmund G. ""Jerry"" Brown",5
-Shasta,0990,Governor,,REP,Glenn Champ,0
-Shasta,0990,Governor,,IND,Janel Hyeshia Buycks,0
-Shasta,0990,Governor,,IND,Joe Leicht,0
-Shasta,0990,Governor,,GRN,Luis J. Rodriguez,0
-Shasta,0990,Governor,,REP,Neel Kashkari,0
-Shasta,0990,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,0990,Governor,,REP,Richard William Aguirre,0
-Shasta,0990,Governor,,IND,Robert Newman,0
-Shasta,0990,Governor,,REP,Tim Donnelly,0
 Shasta,0990,Insurance Commissioner,,DEM,Dave Jones,2
 Shasta,0990,Insurance Commissioner,,PAF,Nathalie Hrizi,1
 Shasta,0990,Insurance Commissioner,,REP,Ted Gaines,2
-Shasta,0990,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,0990,Lieutenant Governor,,PAF,Amos Johnson,0
-Shasta,0990,Lieutenant Governor,,REP,David Fennell,0
-Shasta,0990,Lieutenant Governor,,DEM,Eric Korevaar,0
 Shasta,0990,Lieutenant Governor,,DEM,Gavin Newsom,5
-Shasta,0990,Lieutenant Governor,,REP,George Yang,0
-Shasta,0990,Lieutenant Governor,,GRN,Jena F. Goodman,0
-Shasta,0990,Lieutenant Governor,,REP,Ron Nehring,0
+Shasta,0990,Proposition 41,,,Yes,5
+Shasta,0990,Proposition 42,,,No,2
+Shasta,0990,Proposition 42,,,Yes,3
 Shasta,0990,Secretary of State,,DEM,Alex Padilla,2
 Shasta,0990,Secretary of State,,IND,Dan Schnur,2
-Shasta,0990,Secretary of State,,GRN,David Curtis,0
-Shasta,0990,Secretary of State,,DEM,Derek Cressman,0
-Shasta,0990,Secretary of State,,DEM,Jeffrey H. Drobman,0
-Shasta,0990,Secretary of State,,DEM,Leland Yee,0
-Shasta,0990,Secretary of State,,REP,Pete Peterson,0
-Shasta,0990,Secretary of State,,REP,Roy Allmond,0
 Shasta,0990,State Assembly,1,REP,Brian Dahle,2
 Shasta,0990,State Assembly,1,DEM,Brigham Sawyer Smith,3
-Shasta,0990,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,0
 Shasta,0990,Superintendent of Public Instruction,,NOP,Marshall Tuck,3
-Shasta,0990,Superintendent of Public Instruction,,NOP,Tom Torlakson,0
-Shasta,0990,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,0990,Treasurer,,REP,Greg Conlon,1
 Shasta,0990,Treasurer,,DEM,John Chiang,3
 Shasta,0990,U.S. House,1,DEM,Dan Levine,1
 Shasta,0990,U.S. House,1,REP,Doug La Malfa,2
-Shasta,0990,U.S. House,1,REP,Gregory Cheadle,0
 Shasta,0990,U.S. House,1,DEM,Heidi Hall,2
 Shasta,1001,Attorney General,,REP,David King,1
 Shasta,1001,Attorney General,,REP,John Haggerty,4
@@ -7028,50 +6772,36 @@ Shasta,1001,Controller,,DEM,Betty T. Yee,7
 Shasta,1001,Controller,,REP,David Evans,15
 Shasta,1001,Controller,,DEM,John A. Pérez,2
 Shasta,1001,Controller,,GRN,Laura Wells,1
-Shasta,1001,Controller,,DEM,Tammy D. Blair,0
-Shasta,1001,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
-Shasta,1001,Governor,,DEM,Akinyemi Agbede,0
-Shasta,1001,Governor,,REP,Alma Marie Winston,0
 Shasta,1001,Governor,,REP,Andrew Blount,2
-Shasta,1001,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,1001,Governor,,DEM,"Edmund G. ""Jerry"" Brown",10
 Shasta,1001,Governor,,REP,Glenn Champ,1
-Shasta,1001,Governor,,IND,Janel Hyeshia Buycks,0
 Shasta,1001,Governor,,IND,Joe Leicht,1
-Shasta,1001,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,1001,Governor,,REP,Neel Kashkari,6
-Shasta,1001,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,1001,Governor,,REP,Richard William Aguirre,0
-Shasta,1001,Governor,,IND,Robert Newman,0
 Shasta,1001,Governor,,REP,Tim Donnelly,12
 Shasta,1001,Insurance Commissioner,,DEM,Dave Jones,9
 Shasta,1001,Insurance Commissioner,,PAF,Nathalie Hrizi,2
 Shasta,1001,Insurance Commissioner,,REP,Ted Gaines,21
-Shasta,1001,Lieutenant Governor,,AME,Alan Reynolds,0
-Shasta,1001,Lieutenant Governor,,PAF,Amos Johnson,0
 Shasta,1001,Lieutenant Governor,,REP,David Fennell,3
 Shasta,1001,Lieutenant Governor,,DEM,Eric Korevaar,1
 Shasta,1001,Lieutenant Governor,,DEM,Gavin Newsom,7
 Shasta,1001,Lieutenant Governor,,REP,George Yang,7
-Shasta,1001,Lieutenant Governor,,GRN,Jena F. Goodman,0
 Shasta,1001,Lieutenant Governor,,REP,Ron Nehring,12
+Shasta,1001,Proposition 41,,,No,19
+Shasta,1001,Proposition 41,,,Yes,11
+Shasta,1001,Proposition 42,,,No,16
+Shasta,1001,Proposition 42,,,Yes,12
 Shasta,1001,Secretary of State,,DEM,Alex Padilla,3
 Shasta,1001,Secretary of State,,IND,Dan Schnur,1
 Shasta,1001,Secretary of State,,GRN,David Curtis,1
-Shasta,1001,Secretary of State,,DEM,Derek Cressman,0
-Shasta,1001,Secretary of State,,DEM,Jeffrey H. Drobman,0
 Shasta,1001,Secretary of State,,DEM,Leland Yee,5
 Shasta,1001,Secretary of State,,REP,Pete Peterson,20
-Shasta,1001,Secretary of State,,REP,Roy Allmond,0
 Shasta,1001,State Assembly,1,REP,Brian Dahle,25
 Shasta,1001,State Assembly,1,DEM,Brigham Sawyer Smith,7
 Shasta,1001,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,6
 Shasta,1001,Superintendent of Public Instruction,,NOP,Marshall Tuck,6
 Shasta,1001,Superintendent of Public Instruction,,NOP,Tom Torlakson,13
-Shasta,1001,Treasurer,,GRN,Ellen H. Brown,0
 Shasta,1001,Treasurer,,REP,Greg Conlon,22
 Shasta,1001,Treasurer,,DEM,John Chiang,10
-Shasta,1001,U.S. House,1,DEM,Dan Levine,0
 Shasta,1001,U.S. House,1,REP,Doug La Malfa,21
 Shasta,1001,U.S. House,1,REP,Gregory Cheadle,3
 Shasta,1001,U.S. House,1,DEM,Heidi Hall,8
@@ -7091,7 +6821,6 @@ Shasta,1003,Controller,,DEM,John A. Pérez,25
 Shasta,1003,Controller,,GRN,Laura Wells,17
 Shasta,1003,Controller,,DEM,Tammy D. Blair,22
 Shasta,1003,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",3
-Shasta,1003,Governor,,DEM,Akinyemi Agbede,0
 Shasta,1003,Governor,,REP,Alma Marie Winston,7
 Shasta,1003,Governor,,REP,Andrew Blount,7
 Shasta,1003,Governor,,PAF,Cindy L. Sheehan,4
@@ -7101,7 +6830,6 @@ Shasta,1003,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,1003,Governor,,IND,Joe Leicht,1
 Shasta,1003,Governor,,GRN,Luis J. Rodriguez,4
 Shasta,1003,Governor,,REP,Neel Kashkari,26
-Shasta,1003,Governor,,IND,Rakesh Kumar Christian,0
 Shasta,1003,Governor,,REP,Richard William Aguirre,4
 Shasta,1003,Governor,,IND,Robert Newman,9
 Shasta,1003,Governor,,REP,Tim Donnelly,52
@@ -7116,6 +6844,10 @@ Shasta,1003,Lieutenant Governor,,DEM,Gavin Newsom,65
 Shasta,1003,Lieutenant Governor,,REP,George Yang,15
 Shasta,1003,Lieutenant Governor,,GRN,Jena F. Goodman,6
 Shasta,1003,Lieutenant Governor,,REP,Ron Nehring,57
+Shasta,1003,Proposition 41,,,No,72
+Shasta,1003,Proposition 41,,,Yes,116
+Shasta,1003,Proposition 42,,,No,89
+Shasta,1003,Proposition 42,,,Yes,98
 Shasta,1003,Secretary of State,,DEM,Alex Padilla,31
 Shasta,1003,Secretary of State,,IND,Dan Schnur,19
 Shasta,1003,Secretary of State,,GRN,David Curtis,13
@@ -7151,7 +6883,6 @@ Shasta,1004,Controller,,REP,David Evans,72
 Shasta,1004,Controller,,DEM,John A. Pérez,24
 Shasta,1004,Controller,,GRN,Laura Wells,19
 Shasta,1004,Controller,,DEM,Tammy D. Blair,11
-Shasta,1004,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",0
 Shasta,1004,Governor,,DEM,Akinyemi Agbede,1
 Shasta,1004,Governor,,REP,Alma Marie Winston,5
 Shasta,1004,Governor,,REP,Andrew Blount,7
@@ -7159,7 +6890,6 @@ Shasta,1004,Governor,,PAF,Cindy L. Sheehan,4
 Shasta,1004,Governor,,DEM,"Edmund G. ""Jerry"" Brown",72
 Shasta,1004,Governor,,REP,Glenn Champ,1
 Shasta,1004,Governor,,IND,Janel Hyeshia Buycks,3
-Shasta,1004,Governor,,IND,Joe Leicht,0
 Shasta,1004,Governor,,GRN,Luis J. Rodriguez,8
 Shasta,1004,Governor,,REP,Neel Kashkari,27
 Shasta,1004,Governor,,IND,Rakesh Kumar Christian,3
@@ -7177,6 +6907,10 @@ Shasta,1004,Lieutenant Governor,,DEM,Gavin Newsom,71
 Shasta,1004,Lieutenant Governor,,REP,George Yang,19
 Shasta,1004,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,1004,Lieutenant Governor,,REP,Ron Nehring,51
+Shasta,1004,Proposition 41,,,No,57
+Shasta,1004,Proposition 41,,,Yes,120
+Shasta,1004,Proposition 42,,,No,79
+Shasta,1004,Proposition 42,,,Yes,93
 Shasta,1004,Secretary of State,,DEM,Alex Padilla,36
 Shasta,1004,Secretary of State,,IND,Dan Schnur,8
 Shasta,1004,Secretary of State,,GRN,David Curtis,7
@@ -7221,7 +6955,6 @@ Shasta,1005,Governor,,DEM,"Edmund G. ""Jerry"" Brown",119
 Shasta,1005,Governor,,REP,Glenn Champ,16
 Shasta,1005,Governor,,IND,Janel Hyeshia Buycks,1
 Shasta,1005,Governor,,IND,Joe Leicht,2
-Shasta,1005,Governor,,GRN,Luis J. Rodriguez,0
 Shasta,1005,Governor,,REP,Neel Kashkari,48
 Shasta,1005,Governor,,IND,Rakesh Kumar Christian,1
 Shasta,1005,Governor,,REP,Richard William Aguirre,3
@@ -7238,6 +6971,10 @@ Shasta,1005,Lieutenant Governor,,DEM,Gavin Newsom,104
 Shasta,1005,Lieutenant Governor,,REP,George Yang,53
 Shasta,1005,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,1005,Lieutenant Governor,,REP,Ron Nehring,101
+Shasta,1005,Proposition 41,,,No,145
+Shasta,1005,Proposition 41,,,Yes,176
+Shasta,1005,Proposition 42,,,No,180
+Shasta,1005,Proposition 42,,,Yes,143
 Shasta,1005,Secretary of State,,DEM,Alex Padilla,51
 Shasta,1005,Secretary of State,,IND,Dan Schnur,16
 Shasta,1005,Secretary of State,,GRN,David Curtis,8
@@ -7274,7 +7011,6 @@ Shasta,1006,Controller,,DEM,John A. Pérez,17
 Shasta,1006,Controller,,GRN,Laura Wells,11
 Shasta,1006,Controller,,DEM,Tammy D. Blair,9
 Shasta,1006,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
-Shasta,1006,Governor,,DEM,Akinyemi Agbede,0
 Shasta,1006,Governor,,REP,Alma Marie Winston,7
 Shasta,1006,Governor,,REP,Andrew Blount,10
 Shasta,1006,Governor,,PAF,Cindy L. Sheehan,4
@@ -7285,7 +7021,6 @@ Shasta,1006,Governor,,IND,Joe Leicht,2
 Shasta,1006,Governor,,GRN,Luis J. Rodriguez,2
 Shasta,1006,Governor,,REP,Neel Kashkari,23
 Shasta,1006,Governor,,IND,Rakesh Kumar Christian,2
-Shasta,1006,Governor,,REP,Richard William Aguirre,0
 Shasta,1006,Governor,,IND,Robert Newman,7
 Shasta,1006,Governor,,REP,Tim Donnelly,53
 Shasta,1006,Insurance Commissioner,,DEM,Dave Jones,74
@@ -7299,6 +7034,10 @@ Shasta,1006,Lieutenant Governor,,DEM,Gavin Newsom,57
 Shasta,1006,Lieutenant Governor,,REP,George Yang,25
 Shasta,1006,Lieutenant Governor,,GRN,Jena F. Goodman,5
 Shasta,1006,Lieutenant Governor,,REP,Ron Nehring,47
+Shasta,1006,Proposition 41,,,No,69
+Shasta,1006,Proposition 41,,,Yes,119
+Shasta,1006,Proposition 42,,,No,89
+Shasta,1006,Proposition 42,,,Yes,94
 Shasta,1006,Secretary of State,,DEM,Alex Padilla,27
 Shasta,1006,Secretary of State,,IND,Dan Schnur,15
 Shasta,1006,Secretary of State,,GRN,David Curtis,4
@@ -7342,11 +7081,8 @@ Shasta,1008,Governor,,PAF,Cindy L. Sheehan,6
 Shasta,1008,Governor,,DEM,"Edmund G. ""Jerry"" Brown",97
 Shasta,1008,Governor,,REP,Glenn Champ,10
 Shasta,1008,Governor,,IND,Janel Hyeshia Buycks,2
-Shasta,1008,Governor,,IND,Joe Leicht,0
 Shasta,1008,Governor,,GRN,Luis J. Rodriguez,1
 Shasta,1008,Governor,,REP,Neel Kashkari,44
-Shasta,1008,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,1008,Governor,,REP,Richard William Aguirre,0
 Shasta,1008,Governor,,IND,Robert Newman,9
 Shasta,1008,Governor,,REP,Tim Donnelly,39
 Shasta,1008,Insurance Commissioner,,DEM,Dave Jones,95
@@ -7360,6 +7096,10 @@ Shasta,1008,Lieutenant Governor,,DEM,Gavin Newsom,80
 Shasta,1008,Lieutenant Governor,,REP,George Yang,28
 Shasta,1008,Lieutenant Governor,,GRN,Jena F. Goodman,7
 Shasta,1008,Lieutenant Governor,,REP,Ron Nehring,59
+Shasta,1008,Proposition 41,,,No,82
+Shasta,1008,Proposition 41,,,Yes,142
+Shasta,1008,Proposition 42,,,No,104
+Shasta,1008,Proposition 42,,,Yes,113
 Shasta,1008,Secretary of State,,DEM,Alex Padilla,26
 Shasta,1008,Secretary of State,,IND,Dan Schnur,12
 Shasta,1008,Secretary of State,,GRN,David Curtis,9
@@ -7399,15 +7139,12 @@ Shasta,1009,Governor,,IND,"""Bo"" Bogdan Ambrozewicz",1
 Shasta,1009,Governor,,DEM,Akinyemi Agbede,2
 Shasta,1009,Governor,,REP,Alma Marie Winston,3
 Shasta,1009,Governor,,REP,Andrew Blount,5
-Shasta,1009,Governor,,PAF,Cindy L. Sheehan,0
 Shasta,1009,Governor,,DEM,"Edmund G. ""Jerry"" Brown",82
 Shasta,1009,Governor,,REP,Glenn Champ,10
 Shasta,1009,Governor,,IND,Janel Hyeshia Buycks,2
 Shasta,1009,Governor,,IND,Joe Leicht,2
 Shasta,1009,Governor,,GRN,Luis J. Rodriguez,7
 Shasta,1009,Governor,,REP,Neel Kashkari,32
-Shasta,1009,Governor,,IND,Rakesh Kumar Christian,0
-Shasta,1009,Governor,,REP,Richard William Aguirre,0
 Shasta,1009,Governor,,IND,Robert Newman,11
 Shasta,1009,Governor,,REP,Tim Donnelly,49
 Shasta,1009,Insurance Commissioner,,DEM,Dave Jones,80
@@ -7421,6 +7158,10 @@ Shasta,1009,Lieutenant Governor,,DEM,Gavin Newsom,65
 Shasta,1009,Lieutenant Governor,,REP,George Yang,27
 Shasta,1009,Lieutenant Governor,,GRN,Jena F. Goodman,2
 Shasta,1009,Lieutenant Governor,,REP,Ron Nehring,60
+Shasta,1009,Proposition 41,,,No,83
+Shasta,1009,Proposition 41,,,Yes,122
+Shasta,1009,Proposition 42,,,No,109
+Shasta,1009,Proposition 42,,,Yes,93
 Shasta,1009,Secretary of State,,DEM,Alex Padilla,37
 Shasta,1009,Secretary of State,,IND,Dan Schnur,11
 Shasta,1009,Secretary of State,,GRN,David Curtis,12
