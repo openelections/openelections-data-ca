@@ -20,7 +20,7 @@ Los Angeles,0850001A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,0850001A,U.S. House,34,DEM,Tracy Van Houten,10
 Los Angeles,0850001A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,0850001A,U.S. House,34,DEM,Wendy Carrillo,34
-Los Angeles,0850001A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,0850001A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,0850001A,U.S. House,34,DEM,Yolie Flores,15
 Los Angeles,0850012A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,0850012A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -43,7 +43,7 @@ Los Angeles,0850012A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,0850012A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,0850012A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,0850012A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,0850012A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,0850012A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,0850012A,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,0850037A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,0850037A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -66,7 +66,7 @@ Los Angeles,0850037A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,0850037A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,0850037A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,0850037A,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,0850037A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,0850037A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,0850037A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,0850061A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,0850061A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -89,7 +89,7 @@ Los Angeles,0850061A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,0850061A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,0850061A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,0850061A,U.S. House,34,DEM,Wendy Carrillo,18
-Los Angeles,0850061A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",10
+Los Angeles,0850061A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",10
 Los Angeles,0850061A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9000010C,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000010C,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -112,7 +112,7 @@ Los Angeles,9000010C,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000010C,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000010C,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000010C,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9000010C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9000010C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9000010C,U.S. House,34,DEM,Yolie Flores,13
 Los Angeles,9000014A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000014A,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -135,7 +135,7 @@ Los Angeles,9000014A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9000014A,U.S. House,34,DEM,Tracy Van Houten,17
 Los Angeles,9000014A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000014A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9000014A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",17
+Los Angeles,9000014A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",17
 Los Angeles,9000014A,U.S. House,34,DEM,Yolie Flores,17
 Los Angeles,9000038C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000038C,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -158,7 +158,7 @@ Los Angeles,9000038C,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000038C,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000038C,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000038C,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9000038C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9000038C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9000038C,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000053A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000053A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -181,7 +181,7 @@ Los Angeles,9000053A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000053A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9000053A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000053A,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9000053A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9000053A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9000053A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000055A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000055A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -204,7 +204,7 @@ Los Angeles,9000055A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000055A,U.S. House,34,DEM,Tracy Van Houten,11
 Los Angeles,9000055A,U.S. House,34,DEM,Vanessa L. Aramayo,51
 Los Angeles,9000055A,U.S. House,34,DEM,Wendy Carrillo,23
-Los Angeles,9000055A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",26
+Los Angeles,9000055A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",26
 Los Angeles,9000055A,U.S. House,34,DEM,Yolie Flores,18
 Los Angeles,9000243A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000243A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -227,7 +227,7 @@ Los Angeles,9000243A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000243A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9000243A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000243A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000243A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9000243A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9000243A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000244A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000244A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -250,7 +250,7 @@ Los Angeles,9000244A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000244A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9000244A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000244A,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9000244A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000244A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000244A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000249A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000249A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -273,7 +273,7 @@ Los Angeles,9000249A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000249A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9000249A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000249A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9000249A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000249A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000249A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9000273B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000273B,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -296,7 +296,7 @@ Los Angeles,9000273B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000273B,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000273B,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000273B,U.S. House,34,DEM,Wendy Carrillo,21
-Los Angeles,9000273B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9000273B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9000273B,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000274B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000274B,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -319,7 +319,7 @@ Los Angeles,9000274B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000274B,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000274B,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000274B,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9000274B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000274B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000274B,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9000275A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000275A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -342,7 +342,7 @@ Los Angeles,9000275A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000275A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9000275A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000275A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9000275A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9000275A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9000275A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000319C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000319C,U.S. House,34,DEM,Alejandra Campoverdi,12
@@ -365,7 +365,7 @@ Los Angeles,9000319C,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000319C,U.S. House,34,DEM,Tracy Van Houten,14
 Los Angeles,9000319C,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000319C,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9000319C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9000319C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9000319C,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9000323A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000323A,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -388,7 +388,7 @@ Los Angeles,9000323A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000323A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000323A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000323A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9000323A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9000323A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9000323A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9000336B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000336B,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -411,7 +411,7 @@ Los Angeles,9000336B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000336B,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000336B,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000336B,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000336B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9000336B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9000336B,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9000368C,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000368C,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -434,7 +434,7 @@ Los Angeles,9000368C,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000368C,U.S. House,34,DEM,Tracy Van Houten,11
 Los Angeles,9000368C,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000368C,U.S. House,34,DEM,Wendy Carrillo,23
-Los Angeles,9000368C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9000368C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9000368C,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9000371A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000371A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -457,7 +457,7 @@ Los Angeles,9000371A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000371A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9000371A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000371A,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9000371A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9000371A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9000371A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9000380A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000380A,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -480,7 +480,7 @@ Los Angeles,9000380A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000380A,U.S. House,34,DEM,Tracy Van Houten,12
 Los Angeles,9000380A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000380A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9000380A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",17
+Los Angeles,9000380A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",17
 Los Angeles,9000380A,U.S. House,34,DEM,Yolie Flores,19
 Los Angeles,9000437A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000437A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -503,7 +503,7 @@ Los Angeles,9000437A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000437A,U.S. House,34,DEM,Tracy Van Houten,14
 Los Angeles,9000437A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000437A,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9000437A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000437A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000437A,U.S. House,34,DEM,Yolie Flores,25
 Los Angeles,9000464B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000464B,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -526,7 +526,7 @@ Los Angeles,9000464B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000464B,U.S. House,34,DEM,Tracy Van Houten,8
 Los Angeles,9000464B,U.S. House,34,DEM,Vanessa L. Aramayo,14
 Los Angeles,9000464B,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9000464B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9000464B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9000464B,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000493A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000493A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -549,7 +549,7 @@ Los Angeles,9000493A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9000493A,U.S. House,34,DEM,Tracy Van Houten,13
 Los Angeles,9000493A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9000493A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9000493A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9000493A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9000493A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000501A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9000501A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -572,7 +572,7 @@ Los Angeles,9000501A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9000501A,U.S. House,34,DEM,Tracy Van Houten,13
 Los Angeles,9000501A,U.S. House,34,DEM,Vanessa L. Aramayo,10
 Los Angeles,9000501A,U.S. House,34,DEM,Wendy Carrillo,22
-Los Angeles,9000501A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000501A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000501A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9000502A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000502A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -595,7 +595,7 @@ Los Angeles,9000502A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000502A,U.S. House,34,DEM,Tracy Van Houten,9
 Los Angeles,9000502A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000502A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9000502A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000502A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000502A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000513A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9000513A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -618,7 +618,7 @@ Los Angeles,9000513A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000513A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9000513A,U.S. House,34,DEM,Vanessa L. Aramayo,9
 Los Angeles,9000513A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9000513A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9000513A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9000513A,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9000515A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000515A,U.S. House,34,DEM,Alejandra Campoverdi,19
@@ -641,7 +641,7 @@ Los Angeles,9000515A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000515A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000515A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000515A,U.S. House,34,DEM,Wendy Carrillo,28
-Los Angeles,9000515A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000515A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000515A,U.S. House,34,DEM,Yolie Flores,28
 Los Angeles,9000517A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000517A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -664,7 +664,7 @@ Los Angeles,9000517A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000517A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000517A,U.S. House,34,DEM,Vanessa L. Aramayo,10
 Los Angeles,9000517A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000517A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9000517A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9000517A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000536B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000536B,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -687,7 +687,7 @@ Los Angeles,9000536B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000536B,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9000536B,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000536B,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9000536B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9000536B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9000536B,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9000560A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000560A,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -710,7 +710,7 @@ Los Angeles,9000560A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000560A,U.S. House,34,DEM,Tracy Van Houten,8
 Los Angeles,9000560A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000560A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9000560A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000560A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000560A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9000585A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000585A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -733,7 +733,7 @@ Los Angeles,9000585A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000585A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9000585A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000585A,U.S. House,34,DEM,Wendy Carrillo,27
-Los Angeles,9000585A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9000585A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9000585A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9000589A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000589A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -756,7 +756,7 @@ Los Angeles,9000589A,U.S. House,34,DEM,Tenaya Wallace,3
 Los Angeles,9000589A,U.S. House,34,DEM,Tracy Van Houten,14
 Los Angeles,9000589A,U.S. House,34,DEM,Vanessa L. Aramayo,17
 Los Angeles,9000589A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9000589A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",25
+Los Angeles,9000589A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",25
 Los Angeles,9000589A,U.S. House,34,DEM,Yolie Flores,20
 Los Angeles,9000593A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000593A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -779,7 +779,7 @@ Los Angeles,9000593A,U.S. House,34,DEM,Tenaya Wallace,3
 Los Angeles,9000593A,U.S. House,34,DEM,Tracy Van Houten,12
 Los Angeles,9000593A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000593A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9000593A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9000593A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9000593A,U.S. House,34,DEM,Yolie Flores,25
 Los Angeles,9000595A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000595A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -802,7 +802,7 @@ Los Angeles,9000595A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000595A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000595A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000595A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9000595A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000595A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000595A,U.S. House,34,DEM,Yolie Flores,14
 Los Angeles,9000598A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000598A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -825,7 +825,7 @@ Los Angeles,9000598A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000598A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000598A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000598A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9000598A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000598A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000598A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9000605B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000605B,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -848,7 +848,7 @@ Los Angeles,9000605B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000605B,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9000605B,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000605B,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9000605B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000605B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000605B,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9000731A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000731A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -871,7 +871,7 @@ Los Angeles,9000731A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000731A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000731A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000731A,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9000731A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9000731A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9000731A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000760A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000760A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -894,7 +894,7 @@ Los Angeles,9000760A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9000760A,U.S. House,34,DEM,Tracy Van Houten,16
 Los Angeles,9000760A,U.S. House,34,DEM,Vanessa L. Aramayo,14
 Los Angeles,9000760A,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9000760A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",37
+Los Angeles,9000760A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",37
 Los Angeles,9000760A,U.S. House,34,DEM,Yolie Flores,17
 Los Angeles,9000766A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000766A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -917,7 +917,7 @@ Los Angeles,9000766A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000766A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9000766A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000766A,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9000766A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000766A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000766A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9000774B,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000774B,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -940,7 +940,7 @@ Los Angeles,9000774B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000774B,U.S. House,34,DEM,Tracy Van Houten,9
 Los Angeles,9000774B,U.S. House,34,DEM,Vanessa L. Aramayo,11
 Los Angeles,9000774B,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000774B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",17
+Los Angeles,9000774B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",17
 Los Angeles,9000774B,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9000779A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000779A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -963,7 +963,7 @@ Los Angeles,9000779A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000779A,U.S. House,34,DEM,Tracy Van Houten,15
 Los Angeles,9000779A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000779A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9000779A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9000779A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9000779A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9000788A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000788A,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -986,7 +986,7 @@ Los Angeles,9000788A,U.S. House,34,DEM,Tenaya Wallace,3
 Los Angeles,9000788A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000788A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000788A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9000788A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",24
+Los Angeles,9000788A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",24
 Los Angeles,9000788A,U.S. House,34,DEM,Yolie Flores,19
 Los Angeles,9000789C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000789C,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -1009,7 +1009,7 @@ Los Angeles,9000789C,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000789C,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9000789C,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000789C,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9000789C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000789C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000789C,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9000800A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000800A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -1032,7 +1032,7 @@ Los Angeles,9000800A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000800A,U.S. House,34,DEM,Tracy Van Houten,16
 Los Angeles,9000800A,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9000800A,U.S. House,34,DEM,Wendy Carrillo,34
-Los Angeles,9000800A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",18
+Los Angeles,9000800A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",18
 Los Angeles,9000800A,U.S. House,34,DEM,Yolie Flores,25
 Los Angeles,9000816A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000816A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -1055,7 +1055,7 @@ Los Angeles,9000816A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000816A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9000816A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000816A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9000816A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9000816A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9000816A,U.S. House,34,DEM,Yolie Flores,12
 Los Angeles,9000818A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000818A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -1078,7 +1078,7 @@ Los Angeles,9000818A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000818A,U.S. House,34,DEM,Tracy Van Houten,15
 Los Angeles,9000818A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000818A,U.S. House,34,DEM,Wendy Carrillo,20
-Los Angeles,9000818A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9000818A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9000818A,U.S. House,34,DEM,Yolie Flores,12
 Los Angeles,9000821A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000821A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -1101,7 +1101,7 @@ Los Angeles,9000821A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000821A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000821A,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9000821A,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9000821A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9000821A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9000821A,U.S. House,34,DEM,Yolie Flores,9
 Los Angeles,9000830A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000830A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -1124,7 +1124,7 @@ Los Angeles,9000830A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000830A,U.S. House,34,DEM,Tracy Van Houten,10
 Los Angeles,9000830A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000830A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9000830A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9000830A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9000830A,U.S. House,34,DEM,Yolie Flores,17
 Los Angeles,9000833D,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000833D,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -1147,7 +1147,7 @@ Los Angeles,9000833D,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000833D,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000833D,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000833D,U.S. House,34,DEM,Wendy Carrillo,22
-Los Angeles,9000833D,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9000833D,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9000833D,U.S. House,34,DEM,Yolie Flores,14
 Los Angeles,9000835A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000835A,U.S. House,34,DEM,Alejandra Campoverdi,11
@@ -1170,7 +1170,7 @@ Los Angeles,9000835A,U.S. House,34,DEM,Tenaya Wallace,7
 Los Angeles,9000835A,U.S. House,34,DEM,Tracy Van Houten,31
 Los Angeles,9000835A,U.S. House,34,DEM,Vanessa L. Aramayo,9
 Los Angeles,9000835A,U.S. House,34,DEM,Wendy Carrillo,19
-Los Angeles,9000835A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9000835A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9000835A,U.S. House,34,DEM,Yolie Flores,20
 Los Angeles,9000843A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000843A,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -1193,7 +1193,7 @@ Los Angeles,9000843A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000843A,U.S. House,34,DEM,Tracy Van Houten,18
 Los Angeles,9000843A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9000843A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000843A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",14
+Los Angeles,9000843A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",14
 Los Angeles,9000843A,U.S. House,34,DEM,Yolie Flores,24
 Los Angeles,9000856A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9000856A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -1216,7 +1216,7 @@ Los Angeles,9000856A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000856A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9000856A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000856A,U.S. House,34,DEM,Wendy Carrillo,16
-Los Angeles,9000856A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",15
+Los Angeles,9000856A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",15
 Los Angeles,9000856A,U.S. House,34,DEM,Yolie Flores,19
 Los Angeles,9000878A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9000878A,U.S. House,34,DEM,Alejandra Campoverdi,12
@@ -1239,7 +1239,7 @@ Los Angeles,9000878A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000878A,U.S. House,34,DEM,Tracy Van Houten,9
 Los Angeles,9000878A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000878A,U.S. House,34,DEM,Wendy Carrillo,26
-Los Angeles,9000878A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000878A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000878A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9000882A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000882A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -1262,7 +1262,7 @@ Los Angeles,9000882A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000882A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000882A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9000882A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9000882A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",10
+Los Angeles,9000882A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",10
 Los Angeles,9000882A,U.S. House,34,DEM,Yolie Flores,13
 Los Angeles,9000884B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000884B,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -1285,7 +1285,7 @@ Los Angeles,9000884B,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000884B,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9000884B,U.S. House,34,DEM,Vanessa L. Aramayo,9
 Los Angeles,9000884B,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9000884B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",17
+Los Angeles,9000884B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",17
 Los Angeles,9000884B,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9000885A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000885A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -1308,7 +1308,7 @@ Los Angeles,9000885A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000885A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9000885A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000885A,U.S. House,34,DEM,Wendy Carrillo,18
-Los Angeles,9000885A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9000885A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9000885A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9000887B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000887B,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -1331,7 +1331,7 @@ Los Angeles,9000887B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000887B,U.S. House,34,DEM,Tracy Van Houten,11
 Los Angeles,9000887B,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000887B,U.S. House,34,DEM,Wendy Carrillo,19
-Los Angeles,9000887B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9000887B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9000887B,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9000900A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000900A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -1354,7 +1354,7 @@ Los Angeles,9000900A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000900A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9000900A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000900A,U.S. House,34,DEM,Wendy Carrillo,18
-Los Angeles,9000900A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9000900A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9000900A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9000902B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000902B,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -1377,7 +1377,7 @@ Los Angeles,9000902B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000902B,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000902B,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000902B,U.S. House,34,DEM,Wendy Carrillo,2
-Los Angeles,9000902B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9000902B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9000902B,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000903B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000903B,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -1400,7 +1400,7 @@ Los Angeles,9000903B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000903B,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9000903B,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9000903B,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9000903B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",14
+Los Angeles,9000903B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",14
 Los Angeles,9000903B,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000904A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000904A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -1423,7 +1423,7 @@ Los Angeles,9000904A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000904A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9000904A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000904A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9000904A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9000904A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9000904A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000907A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000907A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -1446,7 +1446,7 @@ Los Angeles,9000907A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000907A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000907A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000907A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9000907A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",13
+Los Angeles,9000907A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",13
 Los Angeles,9000907A,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9000913D,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000913D,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -1469,7 +1469,7 @@ Los Angeles,9000913D,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9000913D,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000913D,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000913D,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9000913D,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9000913D,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9000913D,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9000916A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000916A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -1492,7 +1492,7 @@ Los Angeles,9000916A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000916A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9000916A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9000916A,U.S. House,34,DEM,Wendy Carrillo,23
-Los Angeles,9000916A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",12
+Los Angeles,9000916A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",12
 Los Angeles,9000916A,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9000922B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000922B,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -1515,7 +1515,7 @@ Los Angeles,9000922B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000922B,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000922B,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9000922B,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9000922B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000922B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000922B,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9000927A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000927A,U.S. House,34,DEM,Alejandra Campoverdi,15
@@ -1538,7 +1538,7 @@ Los Angeles,9000927A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000927A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9000927A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000927A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9000927A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9000927A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9000927A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9000929A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000929A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -1561,7 +1561,7 @@ Los Angeles,9000929A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9000929A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9000929A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9000929A,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9000929A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9000929A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9000929A,U.S. House,34,DEM,Yolie Flores,9
 Los Angeles,9000957C,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9000957C,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -1584,7 +1584,7 @@ Los Angeles,9000957C,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9000957C,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9000957C,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9000957C,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9000957C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9000957C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9000957C,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000961A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000961A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -1607,7 +1607,7 @@ Los Angeles,9000961A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000961A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000961A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9000961A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9000961A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9000961A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9000961A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9000968A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000968A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -1630,7 +1630,7 @@ Los Angeles,9000968A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000968A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9000968A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000968A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9000968A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9000968A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9000968A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9000971A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9000971A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -1653,7 +1653,7 @@ Los Angeles,9000971A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000971A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000971A,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9000971A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000971A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",10
+Los Angeles,9000971A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",10
 Los Angeles,9000971A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9000989A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000989A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -1676,7 +1676,7 @@ Los Angeles,9000989A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000989A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9000989A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9000989A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9000989A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9000989A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9000989A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9000989C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9000989C,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -1699,7 +1699,7 @@ Los Angeles,9000989C,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000989C,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9000989C,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9000989C,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9000989C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9000989C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9000989C,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9000999A,U.S. House,34,DEM,Adrienne Nicole Edwards,4
 Los Angeles,9000999A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -1722,7 +1722,7 @@ Los Angeles,9000999A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000999A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9000999A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000999A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9000999A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9000999A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9000999A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9000999B,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9000999B,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -1745,7 +1745,7 @@ Los Angeles,9000999B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9000999B,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9000999B,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9000999B,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9000999B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",13
+Los Angeles,9000999B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",13
 Los Angeles,9000999B,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001008A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001008A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -1768,7 +1768,7 @@ Los Angeles,9001008A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001008A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001008A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001008A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9001008A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9001008A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9001008A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9001008C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001008C,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -1791,7 +1791,7 @@ Los Angeles,9001008C,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001008C,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9001008C,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9001008C,U.S. House,34,DEM,Wendy Carrillo,20
-Los Angeles,9001008C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001008C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001008C,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9001014A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001014A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -1814,7 +1814,7 @@ Los Angeles,9001014A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001014A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001014A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001014A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9001014A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9001014A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9001014A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001023A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001023A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -1837,7 +1837,7 @@ Los Angeles,9001023A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001023A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9001023A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001023A,U.S. House,34,DEM,Wendy Carrillo,18
-Los Angeles,9001023A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9001023A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9001023A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9001047B,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001047B,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -1860,7 +1860,7 @@ Los Angeles,9001047B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001047B,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001047B,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001047B,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9001047B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9001047B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9001047B,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9001104A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001104A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -1883,7 +1883,7 @@ Los Angeles,9001104A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001104A,U.S. House,34,DEM,Tracy Van Houten,9
 Los Angeles,9001104A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9001104A,U.S. House,34,DEM,Wendy Carrillo,31
-Los Angeles,9001104A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9001104A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9001104A,U.S. House,34,DEM,Yolie Flores,15
 Los Angeles,9001114A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001114A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -1906,7 +1906,7 @@ Los Angeles,9001114A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001114A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001114A,U.S. House,34,DEM,Vanessa L. Aramayo,11
 Los Angeles,9001114A,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9001114A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001114A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001114A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9001210A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001210A,U.S. House,34,DEM,Alejandra Campoverdi,12
@@ -1929,7 +1929,7 @@ Los Angeles,9001210A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001210A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001210A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001210A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9001210A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9001210A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9001210A,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9001280A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001280A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -1952,7 +1952,7 @@ Los Angeles,9001280A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001280A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9001280A,U.S. House,34,DEM,Vanessa L. Aramayo,9
 Los Angeles,9001280A,U.S. House,34,DEM,Wendy Carrillo,18
-Los Angeles,9001280A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9001280A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9001280A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9001309A,U.S. House,34,DEM,Adrienne Nicole Edwards,5
 Los Angeles,9001309A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -1975,7 +1975,7 @@ Los Angeles,9001309A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001309A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001309A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9001309A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9001309A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9001309A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9001309A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001344B,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001344B,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -1998,7 +1998,7 @@ Los Angeles,9001344B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001344B,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001344B,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9001344B,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9001344B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",10
+Los Angeles,9001344B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",10
 Los Angeles,9001344B,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9001348A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001348A,U.S. House,34,DEM,Alejandra Campoverdi,20
@@ -2021,7 +2021,7 @@ Los Angeles,9001348A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9001348A,U.S. House,34,DEM,Tracy Van Houten,11
 Los Angeles,9001348A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001348A,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9001348A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",10
+Los Angeles,9001348A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",10
 Los Angeles,9001348A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001353A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001353A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -2044,7 +2044,7 @@ Los Angeles,9001353A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001353A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9001353A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001353A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9001353A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",12
+Los Angeles,9001353A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",12
 Los Angeles,9001353A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9001372A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001372A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -2067,7 +2067,7 @@ Los Angeles,9001372A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001372A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001372A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9001372A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9001372A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001372A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001372A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001410A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001410A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2090,7 +2090,7 @@ Los Angeles,9001410A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001410A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001410A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001410A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9001410A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9001410A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9001410A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001469A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001469A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -2113,7 +2113,7 @@ Los Angeles,9001469A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001469A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001469A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001469A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9001469A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9001469A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9001469A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9001500E,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001500E,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -2136,7 +2136,7 @@ Los Angeles,9001500E,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001500E,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001500E,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001500E,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9001500E,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9001500E,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9001500E,U.S. House,34,DEM,Yolie Flores,12
 Los Angeles,9001509C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001509C,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2159,7 +2159,7 @@ Los Angeles,9001509C,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001509C,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001509C,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9001509C,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9001509C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9001509C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9001509C,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9001526A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001526A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -2182,7 +2182,7 @@ Los Angeles,9001526A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001526A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001526A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001526A,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9001526A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001526A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001526A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9001536A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001536A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2205,7 +2205,7 @@ Los Angeles,9001536A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001536A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001536A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9001536A,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9001536A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001536A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001536A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001541A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001541A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2228,7 +2228,7 @@ Los Angeles,9001541A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001541A,U.S. House,34,DEM,Tracy Van Houten,8
 Los Angeles,9001541A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9001541A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9001541A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001541A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001541A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9001551A,U.S. House,34,DEM,Adrienne Nicole Edwards,5
 Los Angeles,9001551A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2251,7 +2251,7 @@ Los Angeles,9001551A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001551A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001551A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9001551A,U.S. House,34,DEM,Wendy Carrillo,2
-Los Angeles,9001551A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9001551A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9001551A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001577A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001577A,U.S. House,34,DEM,Alejandra Campoverdi,14
@@ -2274,7 +2274,7 @@ Los Angeles,9001577A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001577A,U.S. House,34,DEM,Tracy Van Houten,13
 Los Angeles,9001577A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001577A,U.S. House,34,DEM,Wendy Carrillo,19
-Los Angeles,9001577A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001577A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001577A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9001590A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001590A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2297,7 +2297,7 @@ Los Angeles,9001590A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001590A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001590A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9001590A,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9001590A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001590A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001590A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001621A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001621A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2320,7 +2320,7 @@ Los Angeles,9001621A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9001621A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001621A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9001621A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9001621A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",21
+Los Angeles,9001621A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",21
 Los Angeles,9001621A,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9001624A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001624A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -2343,7 +2343,7 @@ Los Angeles,9001624A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001624A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9001624A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9001624A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9001624A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001624A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001624A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001628A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001628A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -2366,7 +2366,7 @@ Los Angeles,9001628A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001628A,U.S. House,34,DEM,Tracy Van Houten,8
 Los Angeles,9001628A,U.S. House,34,DEM,Vanessa L. Aramayo,9
 Los Angeles,9001628A,U.S. House,34,DEM,Wendy Carrillo,24
-Los Angeles,9001628A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",14
+Los Angeles,9001628A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",14
 Los Angeles,9001628A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9001635E,U.S. House,34,DEM,Adrienne Nicole Edwards,4
 Los Angeles,9001635E,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -2389,7 +2389,7 @@ Los Angeles,9001635E,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001635E,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001635E,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001635E,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9001635E,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001635E,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001635E,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001668B,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9001668B,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -2412,7 +2412,7 @@ Los Angeles,9001668B,U.S. House,34,DEM,Tenaya Wallace,3
 Los Angeles,9001668B,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001668B,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001668B,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9001668B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001668B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001668B,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001678A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001678A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2435,7 +2435,7 @@ Los Angeles,9001678A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001678A,U.S. House,34,DEM,Tracy Van Houten,8
 Los Angeles,9001678A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9001678A,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9001678A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9001678A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9001678A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9001685A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9001685A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -2458,7 +2458,7 @@ Los Angeles,9001685A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001685A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001685A,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9001685A,U.S. House,34,DEM,Wendy Carrillo,16
-Los Angeles,9001685A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9001685A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9001685A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9001686A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001686A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -2481,7 +2481,7 @@ Los Angeles,9001686A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001686A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9001686A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001686A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9001686A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9001686A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9001686A,U.S. House,34,DEM,Yolie Flores,9
 Los Angeles,9001693B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001693B,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -2504,7 +2504,7 @@ Los Angeles,9001693B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001693B,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001693B,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9001693B,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9001693B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001693B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001693B,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001702A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9001702A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -2527,7 +2527,7 @@ Los Angeles,9001702A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9001702A,U.S. House,34,DEM,Tracy Van Houten,18
 Los Angeles,9001702A,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9001702A,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9001702A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",12
+Los Angeles,9001702A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",12
 Los Angeles,9001702A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9001721A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001721A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -2550,7 +2550,7 @@ Los Angeles,9001721A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001721A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001721A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9001721A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9001721A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9001721A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9001721A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9001738A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9001738A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -2573,7 +2573,7 @@ Los Angeles,9001738A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001738A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001738A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9001738A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9001738A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",12
+Los Angeles,9001738A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",12
 Los Angeles,9001738A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9001781A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001781A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2596,7 +2596,7 @@ Los Angeles,9001781A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001781A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001781A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9001781A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9001781A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9001781A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9001781A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001801B,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001801B,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -2619,7 +2619,7 @@ Los Angeles,9001801B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001801B,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001801B,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9001801B,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9001801B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9001801B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9001801B,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9001810A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9001810A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -2642,7 +2642,7 @@ Los Angeles,9001810A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001810A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001810A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001810A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9001810A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9001810A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9001810A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001814A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9001814A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -2665,7 +2665,7 @@ Los Angeles,9001814A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001814A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9001814A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001814A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9001814A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9001814A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9001814A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001820A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001820A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -2688,7 +2688,7 @@ Los Angeles,9001820A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001820A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001820A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001820A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9001820A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9001820A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9001820A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001839A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001839A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -2711,7 +2711,7 @@ Los Angeles,9001839A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001839A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001839A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9001839A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9001839A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9001839A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9001839A,U.S. House,34,DEM,Yolie Flores,9
 Los Angeles,9001841A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001841A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2734,7 +2734,7 @@ Los Angeles,9001841A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001841A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001841A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001841A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9001841A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001841A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001841A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001846B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001846B,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2757,7 +2757,7 @@ Los Angeles,9001846B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001846B,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001846B,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001846B,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9001846B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9001846B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9001846B,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001851A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001851A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -2780,7 +2780,7 @@ Los Angeles,9001851A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001851A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001851A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001851A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9001851A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9001851A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9001851A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9001854A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001854A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2803,7 +2803,7 @@ Los Angeles,9001854A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001854A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001854A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001854A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9001854A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9001854A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9001854A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001855D,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9001855D,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2826,7 +2826,7 @@ Los Angeles,9001855D,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001855D,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001855D,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9001855D,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9001855D,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9001855D,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9001855D,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001859A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001859A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -2849,7 +2849,7 @@ Los Angeles,9001859A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001859A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9001859A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001859A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9001859A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9001859A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9001859A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9001889A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001889A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -2872,7 +2872,7 @@ Los Angeles,9001889A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001889A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001889A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9001889A,U.S. House,34,DEM,Wendy Carrillo,17
-Los Angeles,9001889A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9001889A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9001889A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001890A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001890A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2895,7 +2895,7 @@ Los Angeles,9001890A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001890A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001890A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001890A,U.S. House,34,DEM,Wendy Carrillo,27
-Los Angeles,9001890A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9001890A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9001890A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9001891A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001891A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -2918,7 +2918,7 @@ Los Angeles,9001891A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001891A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001891A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9001891A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9001891A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001891A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001891A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9001895A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001895A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2941,7 +2941,7 @@ Los Angeles,9001895A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001895A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001895A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001895A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9001895A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9001895A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9001895A,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9001899A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001899A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -2964,7 +2964,7 @@ Los Angeles,9001899A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001899A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001899A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9001899A,U.S. House,34,DEM,Wendy Carrillo,2
-Los Angeles,9001899A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9001899A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9001899A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9001902A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001902A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -2987,7 +2987,7 @@ Los Angeles,9001902A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001902A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9001902A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9001902A,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9001902A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9001902A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9001902A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001905A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9001905A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3010,7 +3010,7 @@ Los Angeles,9001905A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9001905A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9001905A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9001905A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9001905A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9001905A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9001905A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9001913C,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9001913C,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3033,7 +3033,7 @@ Los Angeles,9001913C,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9001913C,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9001913C,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9001913C,U.S. House,34,DEM,Wendy Carrillo,16
-Los Angeles,9001913C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9001913C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9001913C,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9002001A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002001A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3056,7 +3056,7 @@ Los Angeles,9002001A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002001A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9002001A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9002001A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9002001A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9002001A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9002001A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9002012B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9002012B,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -3079,7 +3079,7 @@ Los Angeles,9002012B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002012B,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9002012B,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9002012B,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9002012B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9002012B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9002012B,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9002017A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002017A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -3102,7 +3102,7 @@ Los Angeles,9002017A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002017A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9002017A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9002017A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9002017A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9002017A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9002017A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9002053A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002053A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -3125,7 +3125,7 @@ Los Angeles,9002053A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002053A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9002053A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9002053A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9002053A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",14
+Los Angeles,9002053A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",14
 Los Angeles,9002053A,U.S. House,34,DEM,Yolie Flores,14
 Los Angeles,9002089A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9002089A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -3148,7 +3148,7 @@ Los Angeles,9002089A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9002089A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9002089A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9002089A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9002089A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9002089A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9002089A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9002098A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002098A,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -3171,7 +3171,7 @@ Los Angeles,9002098A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002098A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9002098A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9002098A,U.S. House,34,DEM,Wendy Carrillo,22
-Los Angeles,9002098A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9002098A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9002098A,U.S. House,34,DEM,Yolie Flores,12
 Los Angeles,9002108A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9002108A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -3194,7 +3194,7 @@ Los Angeles,9002108A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002108A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9002108A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9002108A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9002108A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9002108A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9002108A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9002122A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9002122A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3217,7 +3217,7 @@ Los Angeles,9002122A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002122A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9002122A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9002122A,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9002122A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9002122A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9002122A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9002142A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002142A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3240,7 +3240,7 @@ Los Angeles,9002142A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9002142A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9002142A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9002142A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9002142A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9002142A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9002142A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9002146A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002146A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -3263,7 +3263,7 @@ Los Angeles,9002146A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002146A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9002146A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9002146A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9002146A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9002146A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9002146A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9002155A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9002155A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -3286,7 +3286,7 @@ Los Angeles,9002155A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9002155A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9002155A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9002155A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9002155A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9002155A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9002155A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9002158A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002158A,U.S. House,34,DEM,Alejandra Campoverdi,12
@@ -3309,7 +3309,7 @@ Los Angeles,9002158A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002158A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9002158A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9002158A,U.S. House,34,DEM,Wendy Carrillo,20
-Los Angeles,9002158A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9002158A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9002158A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9002159A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002159A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -3332,7 +3332,7 @@ Los Angeles,9002159A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9002159A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9002159A,U.S. House,34,DEM,Vanessa L. Aramayo,11
 Los Angeles,9002159A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9002159A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",13
+Los Angeles,9002159A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",13
 Los Angeles,9002159A,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9002169A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9002169A,U.S. House,34,DEM,Alejandra Campoverdi,8
@@ -3355,7 +3355,7 @@ Los Angeles,9002169A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002169A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9002169A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9002169A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9002169A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9002169A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9002169A,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9002192A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002192A,U.S. House,34,DEM,Alejandra Campoverdi,12
@@ -3378,7 +3378,7 @@ Los Angeles,9002192A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002192A,U.S. House,34,DEM,Tracy Van Houten,18
 Los Angeles,9002192A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9002192A,U.S. House,34,DEM,Wendy Carrillo,21
-Los Angeles,9002192A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",16
+Los Angeles,9002192A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",16
 Los Angeles,9002192A,U.S. House,34,DEM,Yolie Flores,8
 Los Angeles,9002248A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9002248A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -3401,7 +3401,7 @@ Los Angeles,9002248A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002248A,U.S. House,34,DEM,Tracy Van Houten,22
 Los Angeles,9002248A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9002248A,U.S. House,34,DEM,Wendy Carrillo,16
-Los Angeles,9002248A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",13
+Los Angeles,9002248A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",13
 Los Angeles,9002248A,U.S. House,34,DEM,Yolie Flores,21
 Los Angeles,9002352A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002352A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -3424,7 +3424,7 @@ Los Angeles,9002352A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002352A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9002352A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9002352A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9002352A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9002352A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9002352A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9002353B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002353B,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3447,7 +3447,7 @@ Los Angeles,9002353B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002353B,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9002353B,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9002353B,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9002353B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9002353B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9002353B,U.S. House,34,DEM,Yolie Flores,7
 Los Angeles,9002359A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9002359A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -3470,7 +3470,7 @@ Los Angeles,9002359A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002359A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9002359A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9002359A,U.S. House,34,DEM,Wendy Carrillo,1
-Los Angeles,9002359A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9002359A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9002359A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9002545A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9002545A,U.S. House,34,DEM,Alejandra Campoverdi,13
@@ -3493,7 +3493,7 @@ Los Angeles,9002545A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002545A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9002545A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9002545A,U.S. House,34,DEM,Wendy Carrillo,21
-Los Angeles,9002545A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9002545A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9002545A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9002547A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002547A,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -3516,7 +3516,7 @@ Los Angeles,9002547A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002547A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9002547A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9002547A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9002547A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",13
+Los Angeles,9002547A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",13
 Los Angeles,9002547A,U.S. House,34,DEM,Yolie Flores,12
 Los Angeles,9002624A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002624A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -3539,7 +3539,7 @@ Los Angeles,9002624A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002624A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9002624A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9002624A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9002624A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9002624A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9002624A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9002691A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002691A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -3562,7 +3562,7 @@ Los Angeles,9002691A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9002691A,U.S. House,34,DEM,Tracy Van Houten,11
 Los Angeles,9002691A,U.S. House,34,DEM,Vanessa L. Aramayo,11
 Los Angeles,9002691A,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9002691A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9002691A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9002691A,U.S. House,34,DEM,Yolie Flores,9
 Los Angeles,9002714A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002714A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -3585,7 +3585,7 @@ Los Angeles,9002714A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002714A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9002714A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9002714A,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9002714A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9002714A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9002714A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9002719D,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002719D,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3608,7 +3608,7 @@ Los Angeles,9002719D,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002719D,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9002719D,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9002719D,U.S. House,34,DEM,Wendy Carrillo,19
-Los Angeles,9002719D,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9002719D,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9002719D,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9002767A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002767A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -3631,7 +3631,7 @@ Los Angeles,9002767A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002767A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9002767A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9002767A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9002767A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9002767A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9002767A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9002809A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9002809A,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -3654,7 +3654,7 @@ Los Angeles,9002809A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002809A,U.S. House,34,DEM,Tracy Van Houten,14
 Los Angeles,9002809A,U.S. House,34,DEM,Vanessa L. Aramayo,7
 Los Angeles,9002809A,U.S. House,34,DEM,Wendy Carrillo,24
-Los Angeles,9002809A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",11
+Los Angeles,9002809A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",11
 Los Angeles,9002809A,U.S. House,34,DEM,Yolie Flores,38
 Los Angeles,9002839A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002839A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3677,7 +3677,7 @@ Los Angeles,9002839A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9002839A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9002839A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9002839A,U.S. House,34,DEM,Wendy Carrillo,3
-Los Angeles,9002839A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9002839A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9002839A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9002952A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9002952A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3700,7 +3700,7 @@ Los Angeles,9002952A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9002952A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9002952A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9002952A,U.S. House,34,DEM,Wendy Carrillo,2
-Los Angeles,9002952A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",1
+Los Angeles,9002952A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",1
 Los Angeles,9002952A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9003168A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9003168A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -3723,7 +3723,7 @@ Los Angeles,9003168A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9003168A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9003168A,U.S. House,34,DEM,Vanessa L. Aramayo,3
 Los Angeles,9003168A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9003168A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9003168A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9003168A,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9003184B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9003184B,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3746,7 +3746,7 @@ Los Angeles,9003184B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9003184B,U.S. House,34,DEM,Tracy Van Houten,8
 Los Angeles,9003184B,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9003184B,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9003184B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9003184B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9003184B,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9003185A,U.S. House,34,DEM,Adrienne Nicole Edwards,4
 Los Angeles,9003185A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -3769,7 +3769,7 @@ Los Angeles,9003185A,U.S. House,34,DEM,Tenaya Wallace,3
 Los Angeles,9003185A,U.S. House,34,DEM,Tracy Van Houten,13
 Los Angeles,9003185A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9003185A,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9003185A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",21
+Los Angeles,9003185A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",21
 Los Angeles,9003185A,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9003309A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9003309A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3792,7 +3792,7 @@ Los Angeles,9003309A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9003309A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9003309A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9003309A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9003309A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9003309A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9003309A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9003896A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9003896A,U.S. House,34,DEM,Alejandra Campoverdi,14
@@ -3815,7 +3815,7 @@ Los Angeles,9003896A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9003896A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9003896A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9003896A,U.S. House,34,DEM,Wendy Carrillo,11
-Los Angeles,9003896A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9003896A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9003896A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9003923A,U.S. House,34,DEM,Adrienne Nicole Edwards,4
 Los Angeles,9003923A,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -3838,7 +3838,7 @@ Los Angeles,9003923A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9003923A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9003923A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9003923A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9003923A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9003923A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9003923A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9003937B,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9003937B,U.S. House,34,DEM,Alejandra Campoverdi,11
@@ -3861,7 +3861,7 @@ Los Angeles,9003937B,U.S. House,34,DEM,Tenaya Wallace,9
 Los Angeles,9003937B,U.S. House,34,DEM,Tracy Van Houten,26
 Los Angeles,9003937B,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9003937B,U.S. House,34,DEM,Wendy Carrillo,18
-Los Angeles,9003937B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",16
+Los Angeles,9003937B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",16
 Los Angeles,9003937B,U.S. House,34,DEM,Yolie Flores,20
 Los Angeles,9003951B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9003951B,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3884,7 +3884,7 @@ Los Angeles,9003951B,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9003951B,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9003951B,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9003951B,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9003951B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9003951B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9003951B,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9004230A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9004230A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -3907,7 +3907,7 @@ Los Angeles,9004230A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9004230A,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9004230A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9004230A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9004230A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9004230A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9004230A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9005003A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9005003A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3930,7 +3930,7 @@ Los Angeles,9005003A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9005003A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9005003A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9005003A,U.S. House,34,DEM,Wendy Carrillo,1
-Los Angeles,9005003A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9005003A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9005003A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9005007A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9005007A,U.S. House,34,DEM,Alejandra Campoverdi,1
@@ -3953,7 +3953,7 @@ Los Angeles,9005007A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005007A,U.S. House,34,DEM,Tracy Van Houten,6
 Los Angeles,9005007A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9005007A,U.S. House,34,DEM,Wendy Carrillo,12
-Los Angeles,9005007A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9005007A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9005007A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9005012A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9005012A,U.S. House,34,DEM,Alejandra Campoverdi,3
@@ -3976,7 +3976,7 @@ Los Angeles,9005012A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9005012A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9005012A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9005012A,U.S. House,34,DEM,Wendy Carrillo,5
-Los Angeles,9005012A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9005012A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9005012A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9005014A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9005014A,U.S. House,34,DEM,Alejandra Campoverdi,6
@@ -3999,7 +3999,7 @@ Los Angeles,9005014A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005014A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9005014A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9005014A,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9005014A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",16
+Los Angeles,9005014A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",16
 Los Angeles,9005014A,U.S. House,34,DEM,Yolie Flores,9
 Los Angeles,9005016A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9005016A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -4022,7 +4022,7 @@ Los Angeles,9005016A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005016A,U.S. House,34,DEM,Tracy Van Houten,1
 Los Angeles,9005016A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9005016A,U.S. House,34,DEM,Wendy Carrillo,2
-Los Angeles,9005016A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9005016A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9005016A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9005022A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9005022A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -4045,7 +4045,7 @@ Los Angeles,9005022A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005022A,U.S. House,34,DEM,Tracy Van Houten,4
 Los Angeles,9005022A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9005022A,U.S. House,34,DEM,Wendy Carrillo,4
-Los Angeles,9005022A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",5
+Los Angeles,9005022A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",5
 Los Angeles,9005022A,U.S. House,34,DEM,Yolie Flores,1
 Los Angeles,9005399A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9005399A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -4068,7 +4068,7 @@ Los Angeles,9005399A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005399A,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9005399A,U.S. House,34,DEM,Vanessa L. Aramayo,6
 Los Angeles,9005399A,U.S. House,34,DEM,Wendy Carrillo,15
-Los Angeles,9005399A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9005399A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9005399A,U.S. House,34,DEM,Yolie Flores,3
 Los Angeles,9005401A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9005401A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -4091,7 +4091,7 @@ Los Angeles,9005401A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005401A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9005401A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9005401A,U.S. House,34,DEM,Wendy Carrillo,19
-Los Angeles,9005401A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9005401A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9005401A,U.S. House,34,DEM,Yolie Flores,5
 Los Angeles,9005537A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9005537A,U.S. House,34,DEM,Alejandra Campoverdi,9
@@ -4114,7 +4114,7 @@ Los Angeles,9005537A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005537A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9005537A,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9005537A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9005537A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9005537A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9005537A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9005538B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9005538B,U.S. House,34,DEM,Alejandra Campoverdi,11
@@ -4137,7 +4137,7 @@ Los Angeles,9005538B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005538B,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9005538B,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9005538B,U.S. House,34,DEM,Wendy Carrillo,20
-Los Angeles,9005538B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",2
+Los Angeles,9005538B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",2
 Los Angeles,9005538B,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9005543B,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9005543B,U.S. House,34,DEM,Alejandra Campoverdi,5
@@ -4160,7 +4160,7 @@ Los Angeles,9005543B,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005543B,U.S. House,34,DEM,Tracy Van Houten,7
 Los Angeles,9005543B,U.S. House,34,DEM,Vanessa L. Aramayo,1
 Los Angeles,9005543B,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9005543B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",4
+Los Angeles,9005543B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",4
 Los Angeles,9005543B,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9005757A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9005757A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -4183,7 +4183,7 @@ Los Angeles,9005757A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9005757A,U.S. House,34,DEM,Tracy Van Houten,2
 Los Angeles,9005757A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9005757A,U.S. House,34,DEM,Wendy Carrillo,7
-Los Angeles,9005757A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",6
+Los Angeles,9005757A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",6
 Los Angeles,9005757A,U.S. House,34,DEM,Yolie Flores,4
 Los Angeles,9005769B,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9005769B,U.S. House,34,DEM,Alejandra Campoverdi,2
@@ -4206,7 +4206,7 @@ Los Angeles,9005769B,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9005769B,U.S. House,34,DEM,Tracy Van Houten,3
 Los Angeles,9005769B,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9005769B,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9005769B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",3
+Los Angeles,9005769B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",3
 Los Angeles,9005769B,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9006313A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9006313A,U.S. House,34,DEM,Alejandra Campoverdi,14
@@ -4229,7 +4229,7 @@ Los Angeles,9006313A,U.S. House,34,DEM,Tenaya Wallace,4
 Los Angeles,9006313A,U.S. House,34,DEM,Tracy Van Houten,17
 Los Angeles,9006313A,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9006313A,U.S. House,34,DEM,Wendy Carrillo,25
-Los Angeles,9006313A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",17
+Los Angeles,9006313A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",17
 Los Angeles,9006313A,U.S. House,34,DEM,Yolie Flores,20
 Los Angeles,9006315A,U.S. House,34,DEM,Adrienne Nicole Edwards,4
 Los Angeles,9006315A,U.S. House,34,DEM,Alejandra Campoverdi,18
@@ -4252,7 +4252,7 @@ Los Angeles,9006315A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9006315A,U.S. House,34,DEM,Tracy Van Houten,30
 Los Angeles,9006315A,U.S. House,34,DEM,Vanessa L. Aramayo,5
 Los Angeles,9006315A,U.S. House,34,DEM,Wendy Carrillo,21
-Los Angeles,9006315A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",18
+Los Angeles,9006315A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",18
 Los Angeles,9006315A,U.S. House,34,DEM,Yolie Flores,18
 Los Angeles,9006319A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9006319A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -4275,7 +4275,7 @@ Los Angeles,9006319A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9006319A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9006319A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9006319A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9006319A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",15
+Los Angeles,9006319A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",15
 Los Angeles,9006319A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9006320C,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9006320C,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -4298,7 +4298,7 @@ Los Angeles,9006320C,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9006320C,U.S. House,34,DEM,Tracy Van Houten,9
 Los Angeles,9006320C,U.S. House,34,DEM,Vanessa L. Aramayo,2
 Los Angeles,9006320C,U.S. House,34,DEM,Wendy Carrillo,10
-Los Angeles,9006320C,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",12
+Los Angeles,9006320C,U.S. House,34,REP,"William ""Rodriguez"" Morrison",12
 Los Angeles,9006320C,U.S. House,34,DEM,Yolie Flores,6
 Los Angeles,9006321A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9006321A,U.S. House,34,DEM,Alejandra Campoverdi,7
@@ -4321,7 +4321,7 @@ Los Angeles,9006321A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9006321A,U.S. House,34,DEM,Tracy Van Houten,10
 Los Angeles,9006321A,U.S. House,34,DEM,Vanessa L. Aramayo,9
 Los Angeles,9006321A,U.S. House,34,DEM,Wendy Carrillo,13
-Los Angeles,9006321A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",8
+Los Angeles,9006321A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",8
 Los Angeles,9006321A,U.S. House,34,DEM,Yolie Flores,10
 Los Angeles,9006324A,U.S. House,34,DEM,Adrienne Nicole Edwards,1
 Los Angeles,9006324A,U.S. House,34,DEM,Alejandra Campoverdi,11
@@ -4344,7 +4344,7 @@ Los Angeles,9006324A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9006324A,U.S. House,34,DEM,Tracy Van Houten,11
 Los Angeles,9006324A,U.S. House,34,DEM,Vanessa L. Aramayo,8
 Los Angeles,9006324A,U.S. House,34,DEM,Wendy Carrillo,9
-Los Angeles,9006324A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",9
+Los Angeles,9006324A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",9
 Los Angeles,9006324A,U.S. House,34,DEM,Yolie Flores,11
 Los Angeles,9006335B,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9006335B,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -4367,7 +4367,7 @@ Los Angeles,9006335B,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9006335B,U.S. House,34,DEM,Tracy Van Houten,15
 Los Angeles,9006335B,U.S. House,34,DEM,Vanessa L. Aramayo,30
 Los Angeles,9006335B,U.S. House,34,DEM,Wendy Carrillo,14
-Los Angeles,9006335B,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",38
+Los Angeles,9006335B,U.S. House,34,REP,"William ""Rodriguez"" Morrison",38
 Los Angeles,9006335B,U.S. House,34,DEM,Yolie Flores,33
 Los Angeles,9006337A,U.S. House,34,DEM,Adrienne Nicole Edwards,3
 Los Angeles,9006337A,U.S. House,34,DEM,Alejandra Campoverdi,10
@@ -4390,7 +4390,7 @@ Los Angeles,9006337A,U.S. House,34,DEM,Tenaya Wallace,1
 Los Angeles,9006337A,U.S. House,34,DEM,Tracy Van Houten,18
 Los Angeles,9006337A,U.S. House,34,DEM,Vanessa L. Aramayo,25
 Los Angeles,9006337A,U.S. House,34,DEM,Wendy Carrillo,8
-Los Angeles,9006337A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",32
+Los Angeles,9006337A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",32
 Los Angeles,9006337A,U.S. House,34,DEM,Yolie Flores,25
 Los Angeles,9007015A,U.S. House,34,DEM,Adrienne Nicole Edwards,2
 Los Angeles,9007015A,U.S. House,34,DEM,Alejandra Campoverdi,4
@@ -4413,7 +4413,7 @@ Los Angeles,9007015A,U.S. House,34,DEM,Tenaya Wallace,2
 Los Angeles,9007015A,U.S. House,34,DEM,Tracy Van Houten,5
 Los Angeles,9007015A,U.S. House,34,DEM,Vanessa L. Aramayo,4
 Los Angeles,9007015A,U.S. House,34,DEM,Wendy Carrillo,6
-Los Angeles,9007015A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",7
+Los Angeles,9007015A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",7
 Los Angeles,9007015A,U.S. House,34,DEM,Yolie Flores,2
 Los Angeles,9990201A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9990201A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -4436,7 +4436,7 @@ Los Angeles,9990201A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9990201A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9990201A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9990201A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9990201A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9990201A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9990201A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9990202A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9990202A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -4459,7 +4459,7 @@ Los Angeles,9990202A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9990202A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9990202A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9990202A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9990202A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9990202A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9990202A,U.S. House,34,DEM,Yolie Flores,0
 Los Angeles,9990203A,U.S. House,34,DEM,Adrienne Nicole Edwards,0
 Los Angeles,9990203A,U.S. House,34,DEM,Alejandra Campoverdi,0
@@ -4482,5 +4482,5 @@ Los Angeles,9990203A,U.S. House,34,DEM,Tenaya Wallace,0
 Los Angeles,9990203A,U.S. House,34,DEM,Tracy Van Houten,0
 Los Angeles,9990203A,U.S. House,34,DEM,Vanessa L. Aramayo,0
 Los Angeles,9990203A,U.S. House,34,DEM,Wendy Carrillo,0
-Los Angeles,9990203A,U.S. House,34,DEM,"William ""Rodriguez"" Morrison",0
+Los Angeles,9990203A,U.S. House,34,REP,"William ""Rodriguez"" Morrison",0
 Los Angeles,9990203A,U.S. House,34,DEM,Yolie Flores,0
