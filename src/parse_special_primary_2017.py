@@ -29,7 +29,8 @@ candidates = {'ADRIENNE N EDWARDS': 'Adrienne Nicole Edwards',
 
 p = {'Kenneth Mejia': 'GRN',
      'Angela E. McArdle': 'LIB',
-     'Mark Edward Padilla': 'NPP'}
+     'Mark Edward Padilla': 'NPP',
+     'William "Rodriguez" Morrison': 'REP'}
 
 
 def parse_sos():
@@ -42,6 +43,7 @@ def parse_sos():
                     for x in [8, 14, 20, 26, 32, 38]], axis=1)
     df.columns = df.iloc[0].str.strip() + ' ' + df.iloc[1].str.rstrip(' (W/I)')
     parties = df.iloc[2].str.upper().to_dict()
+    parties.update(p)
     table = pd.melt(df.tail(-3), id_vars=None, value_vars=df.columns.tolist(), var_name='candidate', value_name='votes').assign(county='Los Angeles',
                                                                                                                                 office='U.S. House',
                                                                                                                                 district='34')
