@@ -1,10 +1,8 @@
 county,precinct,office,district,party,candidate,votes
-Mono,01,President,,REP/AI,Donald J. Trump,291
+Mono,01,President,,REP,Donald J. Trump,291
 Mono,01,President,,LIB,Gary Johnson,23
-Mono,01,President,,PF,Gloria Estela La Riva,0
 Mono,01,President,,DEM,Hillary Clinton,146
 Mono,01,President,,GRN,Jill Stein,7
-Mono,01,President,,WI,Write-In,0
 Mono,01,Proposition 51,,,No,290
 Mono,01,Proposition 51,,,Yes,173
 Mono,01,Proposition 52,,,No,219
@@ -39,14 +37,16 @@ Mono,01,Proposition 66,,,No,174
 Mono,01,Proposition 66,,,Yes,261
 Mono,01,Proposition 67,,,No,294
 Mono,01,Proposition 67,,,Yes,165
+Mono,01,State Assembly,5,REP,Frank Bigelow,321
+Mono,01,State Assembly,5,DEM,Robert Carabas,136
+Mono,01,U.S. House,8,REP,Paul Cook,308
+Mono,01,U.S. House,8,DEM,Rita Ramirez,150
 Mono,01,U.S. Senate,,DEM,Kamala D. Harris,209
 Mono,01,U.S. Senate,,DEM,Loretta L. Sanchez,153
-Mono,03,President,,REP/AI,Donald J. Trump,210
+Mono,03,President,,REP,Donald J. Trump,210
 Mono,03,President,,LIB,Gary Johnson,8
-Mono,03,President,,PF,Gloria Estela La Riva,0
 Mono,03,President,,DEM,Hillary Clinton,114
 Mono,03,President,,GRN,Jill Stein,4
-Mono,03,President,,WI,Write-In,0
 Mono,03,Proposition 51,,,No,207
 Mono,03,Proposition 51,,,Yes,130
 Mono,03,Proposition 52,,,No,158
@@ -81,14 +81,17 @@ Mono,03,Proposition 66,,,No,163
 Mono,03,Proposition 66,,,Yes,160
 Mono,03,Proposition 67,,,No,208
 Mono,03,Proposition 67,,,Yes,131
+Mono,03,State Assembly,5,REP,Frank Bigelow,239
+Mono,03,State Assembly,5,DEM,Robert Carabas,94
+Mono,03,U.S. House,8,REP,Paul Cook,237
+Mono,03,U.S. House,8,DEM,Rita Ramirez,106
 Mono,03,U.S. Senate,,DEM,Kamala D. Harris,156
 Mono,03,U.S. Senate,,DEM,Loretta L. Sanchez,109
-Mono,04,President,,REP/AI,Donald J. Trump,312
+Mono,04,President,,REP,Donald J. Trump,312
 Mono,04,President,,LIB,Gary Johnson,27
-Mono,04,President,,PF,Gloria Estela La Riva,3
+Mono,04,President,,PAF,Gloria Estela La Riva,3
 Mono,04,President,,DEM,Hillary Clinton,124
 Mono,04,President,,GRN,Jill Stein,7
-Mono,04,President,,WI,Write-In,0
 Mono,04,Proposition 51,,,No,328
 Mono,04,Proposition 51,,,Yes,133
 Mono,04,Proposition 52,,,No,231
@@ -123,14 +126,17 @@ Mono,04,Proposition 66,,,No,216
 Mono,04,Proposition 66,,,Yes,235
 Mono,04,Proposition 67,,,No,299
 Mono,04,Proposition 67,,,Yes,171
+Mono,04,State Assembly,5,REP,Frank Bigelow,341
+Mono,04,State Assembly,5,DEM,Robert Carabas,122
+Mono,04,U.S. House,8,REP,Paul Cook,345
+Mono,04,U.S. House,8,DEM,Rita Ramirez,121
 Mono,04,U.S. Senate,,DEM,Kamala D. Harris,217
 Mono,04,U.S. Senate,,DEM,Loretta L. Sanchez,130
-Mono,05,President,,REP/AI,Donald J. Trump,134
+Mono,05,President,,REP,Donald J. Trump,134
 Mono,05,President,,LIB,Gary Johnson,3
-Mono,05,President,,PF,Gloria Estela La Riva,3
+Mono,05,President,,PAF,Gloria Estela La Riva,3
 Mono,05,President,,DEM,Hillary Clinton,153
 Mono,05,President,,GRN,Jill Stein,16
-Mono,05,President,,WI,Write-In,0
 Mono,05,Proposition 51,,,No,180
 Mono,05,Proposition 51,,,Yes,133
 Mono,05,Proposition 52,,,No,130
@@ -165,14 +171,17 @@ Mono,05,Proposition 66,,,No,189
 Mono,05,Proposition 66,,,Yes,105
 Mono,05,Proposition 67,,,No,130
 Mono,05,Proposition 67,,,Yes,186
+Mono,05,State Assembly,5,REP,Frank Bigelow,160
+Mono,05,State Assembly,5,DEM,Robert Carabas,141
+Mono,05,U.S. House,8,REP,Paul Cook,165
+Mono,05,U.S. House,8,DEM,Rita Ramirez,146
 Mono,05,U.S. Senate,,DEM,Kamala D. Harris,154
 Mono,05,U.S. Senate,,DEM,Loretta L. Sanchez,90
-Mono,06,President,,REP/AI,Donald J. Trump,72
+Mono,06,President,,REP,Donald J. Trump,72
 Mono,06,President,,LIB,Gary Johnson,6
-Mono,06,President,,PF,Gloria Estela La Riva,3
+Mono,06,President,,PAF,Gloria Estela La Riva,3
 Mono,06,President,,DEM,Hillary Clinton,126
 Mono,06,President,,GRN,Jill Stein,11
-Mono,06,President,,WI,Write-In,0
 Mono,06,Proposition 51,,,No,102
 Mono,06,Proposition 51,,,Yes,112
 Mono,06,Proposition 52,,,No,62
@@ -207,14 +216,17 @@ Mono,06,Proposition 66,,,No,136
 Mono,06,Proposition 66,,,Yes,70
 Mono,06,Proposition 67,,,No,73
 Mono,06,Proposition 67,,,Yes,146
+Mono,06,State Assembly,5,REP,Frank Bigelow,85
+Mono,06,State Assembly,5,DEM,Robert Carabas,122
+Mono,06,U.S. House,8,REP,Paul Cook,84
+Mono,06,U.S. House,8,DEM,Rita Ramirez,127
 Mono,06,U.S. Senate,,DEM,Kamala D. Harris,112
 Mono,06,U.S. Senate,,DEM,Loretta L. Sanchez,61
-Mono,07,President,,REP/AI,Donald J. Trump,242
+Mono,07,President,,REP,Donald J. Trump,242
 Mono,07,President,,LIB,Gary Johnson,25
-Mono,07,President,,PF,Gloria Estela La Riva,2
+Mono,07,President,,PAF,Gloria Estela La Riva,2
 Mono,07,President,,DEM,Hillary Clinton,349
 Mono,07,President,,GRN,Jill Stein,16
-Mono,07,President,,WI,Write-In,0
 Mono,07,Proposition 51,,,No,345
 Mono,07,Proposition 51,,,Yes,281
 Mono,07,Proposition 52,,,No,236
@@ -249,14 +261,16 @@ Mono,07,Proposition 66,,,No,284
 Mono,07,Proposition 66,,,Yes,309
 Mono,07,Proposition 67,,,No,218
 Mono,07,Proposition 67,,,Yes,418
+Mono,07,State Assembly,5,REP,Frank Bigelow,308
+Mono,07,State Assembly,5,DEM,Robert Carabas,292
+Mono,07,U.S. House,8,REP,Paul Cook,308
+Mono,07,U.S. House,8,DEM,Rita Ramirez,307
 Mono,07,U.S. Senate,,DEM,Kamala D. Harris,313
 Mono,07,U.S. Senate,,DEM,Loretta L. Sanchez,167
-Mono,08,President,,REP/AI,Donald J. Trump,112
+Mono,08,President,,REP,Donald J. Trump,112
 Mono,08,President,,LIB,Gary Johnson,9
-Mono,08,President,,PF,Gloria Estela La Riva,0
 Mono,08,President,,DEM,Hillary Clinton,210
 Mono,08,President,,GRN,Jill Stein,11
-Mono,08,President,,WI,Write-In,0
 Mono,08,Proposition 51,,,No,175
 Mono,08,Proposition 51,,,Yes,174
 Mono,08,Proposition 52,,,No,130
@@ -291,14 +305,17 @@ Mono,08,Proposition 66,,,No,166
 Mono,08,Proposition 66,,,Yes,154
 Mono,08,Proposition 67,,,No,107
 Mono,08,Proposition 67,,,Yes,243
+Mono,08,State Assembly,5,REP,Frank Bigelow,155
+Mono,08,State Assembly,5,DEM,Robert Carabas,185
+Mono,08,U.S. House,8,REP,Paul Cook,153
+Mono,08,U.S. House,8,DEM,Rita Ramirez,192
 Mono,08,U.S. Senate,,DEM,Kamala D. Harris,180
 Mono,08,U.S. Senate,,DEM,Loretta L. Sanchez,103
-Mono,09,President,,REP/AI,Donald J. Trump,236
+Mono,09,President,,REP,Donald J. Trump,236
 Mono,09,President,,LIB,Gary Johnson,38
-Mono,09,President,,PF,Gloria Estela La Riva,3
+Mono,09,President,,PAF,Gloria Estela La Riva,3
 Mono,09,President,,DEM,Hillary Clinton,393
 Mono,09,President,,GRN,Jill Stein,20
-Mono,09,President,,WI,Write-In,0
 Mono,09,Proposition 51,,,No,350
 Mono,09,Proposition 51,,,Yes,335
 Mono,09,Proposition 52,,,No,225
@@ -333,14 +350,17 @@ Mono,09,Proposition 66,,,No,345
 Mono,09,Proposition 66,,,Yes,285
 Mono,09,Proposition 67,,,No,222
 Mono,09,Proposition 67,,,Yes,464
+Mono,09,State Assembly,5,REP,Frank Bigelow,300
+Mono,09,State Assembly,5,DEM,Robert Carabas,353
+Mono,09,U.S. House,8,REP,Paul Cook,300
+Mono,09,U.S. House,8,DEM,Rita Ramirez,365
 Mono,09,U.S. Senate,,DEM,Kamala D. Harris,353
 Mono,09,U.S. Senate,,DEM,Loretta L. Sanchez,211
-Mono,10,President,,REP/AI,Donald J. Trump,140
+Mono,10,President,,REP,Donald J. Trump,140
 Mono,10,President,,LIB,Gary Johnson,21
-Mono,10,President,,PF,Gloria Estela La Riva,3
+Mono,10,President,,PAF,Gloria Estela La Riva,3
 Mono,10,President,,DEM,Hillary Clinton,287
 Mono,10,President,,GRN,Jill Stein,17
-Mono,10,President,,WI,Write-In,0
 Mono,10,Proposition 51,,,No,223
 Mono,10,Proposition 51,,,Yes,240
 Mono,10,Proposition 52,,,No,161
@@ -375,14 +395,17 @@ Mono,10,Proposition 66,,,No,231
 Mono,10,Proposition 66,,,Yes,196
 Mono,10,Proposition 67,,,No,121
 Mono,10,Proposition 67,,,Yes,354
+Mono,10,State Assembly,5,REP,Frank Bigelow,167
+Mono,10,State Assembly,5,DEM,Robert Carabas,280
+Mono,10,U.S. House,8,REP,Paul Cook,166
+Mono,10,U.S. House,8,DEM,Rita Ramirez,292
 Mono,10,U.S. Senate,,DEM,Kamala D. Harris,239
 Mono,10,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Mono,11,President,,REP/AI,Donald J. Trump,63
+Mono,11,President,,REP,Donald J. Trump,63
 Mono,11,President,,LIB,Gary Johnson,7
-Mono,11,President,,PF,Gloria Estela La Riva,2
+Mono,11,President,,PAF,Gloria Estela La Riva,2
 Mono,11,President,,DEM,Hillary Clinton,170
 Mono,11,President,,GRN,Jill Stein,3
-Mono,11,President,,WI,Write-In,0
 Mono,11,Proposition 51,,,No,132
 Mono,11,Proposition 51,,,Yes,118
 Mono,11,Proposition 52,,,No,70
@@ -417,14 +440,17 @@ Mono,11,Proposition 66,,,No,133
 Mono,11,Proposition 66,,,Yes,114
 Mono,11,Proposition 67,,,No,76
 Mono,11,Proposition 67,,,Yes,174
+Mono,11,State Assembly,5,REP,Frank Bigelow,87
+Mono,11,State Assembly,5,DEM,Robert Carabas,155
+Mono,11,U.S. House,8,REP,Paul Cook,88
+Mono,11,U.S. House,8,DEM,Rita Ramirez,160
 Mono,11,U.S. Senate,,DEM,Kamala D. Harris,147
 Mono,11,U.S. Senate,,DEM,Loretta L. Sanchez,60
-Mono,12,President,,REP/AI,Donald J. Trump,181
+Mono,12,President,,REP,Donald J. Trump,181
 Mono,12,President,,LIB,Gary Johnson,31
-Mono,12,President,,PF,Gloria Estela La Riva,1
+Mono,12,President,,PAF,Gloria Estela La Riva,1
 Mono,12,President,,DEM,Hillary Clinton,426
 Mono,12,President,,GRN,Jill Stein,19
-Mono,12,President,,WI,Write-In,0
 Mono,12,Proposition 51,,,No,275
 Mono,12,Proposition 51,,,Yes,364
 Mono,12,Proposition 52,,,No,192
@@ -459,14 +485,17 @@ Mono,12,Proposition 66,,,No,297
 Mono,12,Proposition 66,,,Yes,290
 Mono,12,Proposition 67,,,No,193
 Mono,12,Proposition 67,,,Yes,451
+Mono,12,State Assembly,5,REP,Frank Bigelow,239
+Mono,12,State Assembly,5,DEM,Robert Carabas,372
+Mono,12,U.S. House,8,REP,Paul Cook,242
+Mono,12,U.S. House,8,DEM,Rita Ramirez,383
 Mono,12,U.S. Senate,,DEM,Kamala D. Harris,311
 Mono,12,U.S. Senate,,DEM,Loretta L. Sanchez,220
-Mono,13,President,,REP/AI,Donald J. Trump,118
+Mono,13,President,,REP,Donald J. Trump,118
 Mono,13,President,,LIB,Gary Johnson,24
-Mono,13,President,,PF,Gloria Estela La Riva,3
+Mono,13,President,,PAF,Gloria Estela La Riva,3
 Mono,13,President,,DEM,Hillary Clinton,275
 Mono,13,President,,GRN,Jill Stein,11
-Mono,13,President,,WI,Write-In,0
 Mono,13,Proposition 51,,,No,195
 Mono,13,Proposition 51,,,Yes,229
 Mono,13,Proposition 52,,,No,135
@@ -501,5 +530,9 @@ Mono,13,Proposition 66,,,No,227
 Mono,13,Proposition 66,,,Yes,161
 Mono,13,Proposition 67,,,No,114
 Mono,13,Proposition 67,,,Yes,316
+Mono,13,State Assembly,5,REP,Frank Bigelow,177
+Mono,13,State Assembly,5,DEM,Robert Carabas,234
+Mono,13,U.S. House,8,REP,Paul Cook,167
+Mono,13,U.S. House,8,DEM,Rita Ramirez,253
 Mono,13,U.S. Senate,,DEM,Kamala D. Harris,220
 Mono,13,U.S. Senate,,DEM,Loretta L. Sanchez,130

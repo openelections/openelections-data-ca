@@ -1,52 +1,8 @@
 county,precinct,office,district,party,candidate,votes
-Siskiyou,CON1,President,,REP/AI,Donald J. Trump,802
-Siskiyou,CON1,President,,LIB,Gary Johnson,33
-Siskiyou,CON1,President,,PF,Gloria Estela La Riva,6
-Siskiyou,CON1,President,,DEM,Hillary Clinton,218
-Siskiyou,CON1,President,,GRN,Jill Stein,10
-Siskiyou,CON1,President,,WI,Write-In,7
-Siskiyou,CON1,Proposition 51,,,No,720
-Siskiyou,CON1,Proposition 51,,,Yes,325
-Siskiyou,CON1,Proposition 52,,,No,522
-Siskiyou,CON1,Proposition 52,,,Yes,520
-Siskiyou,CON1,Proposition 53,,,No,368
-Siskiyou,CON1,Proposition 53,,,Yes,676
-Siskiyou,CON1,Proposition 54,,,No,373
-Siskiyou,CON1,Proposition 54,,,Yes,658
-Siskiyou,CON1,Proposition 55,,,No,608
-Siskiyou,CON1,Proposition 55,,,Yes,443
-Siskiyou,CON1,Proposition 56,,,No,620
-Siskiyou,CON1,Proposition 56,,,Yes,458
-Siskiyou,CON1,Proposition 57,,,No,605
-Siskiyou,CON1,Proposition 57,,,Yes,444
-Siskiyou,CON1,Proposition 58,,,No,394
-Siskiyou,CON1,Proposition 58,,,Yes,668
-Siskiyou,CON1,Proposition 59,,,No,628
-Siskiyou,CON1,Proposition 59,,,Yes,369
-Siskiyou,CON1,Proposition 60,,,No,670
-Siskiyou,CON1,Proposition 60,,,Yes,347
-Siskiyou,CON1,Proposition 61,,,No,651
-Siskiyou,CON1,Proposition 61,,,Yes,374
-Siskiyou,CON1,Proposition 62,,,No,829
-Siskiyou,CON1,Proposition 62,,,Yes,214
-Siskiyou,CON1,Proposition 63,,,No,865
-Siskiyou,CON1,Proposition 63,,,Yes,209
-Siskiyou,CON1,Proposition 64,,,No,644
-Siskiyou,CON1,Proposition 64,,,Yes,442
-Siskiyou,CON1,Proposition 65,,,No,803
-Siskiyou,CON1,Proposition 65,,,Yes,243
-Siskiyou,CON1,Proposition 66,,,No,427
-Siskiyou,CON1,Proposition 66,,,Yes,575
-Siskiyou,CON1,Proposition 67,,,No,735
-Siskiyou,CON1,Proposition 67,,,Yes,319
-Siskiyou,CON1,U.S. Senate,,DEM,Kamala D. Harris,377
-Siskiyou,CON1,U.S. Senate,,DEM,Loretta L. Sanchez,343
-Siskiyou,M1001,President,,REP/AI,Donald J. Trump,148
+Siskiyou,M1001,President,,REP,Donald J. Trump,148
 Siskiyou,M1001,President,,LIB,Gary Johnson,3
-Siskiyou,M1001,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M1001,President,,DEM,Hillary Clinton,44
 Siskiyou,M1001,President,,GRN,Jill Stein,3
-Siskiyou,M1001,President,,WI,Write-In,2
 Siskiyou,M1001,Proposition 51,,,No,144
 Siskiyou,M1001,Proposition 51,,,Yes,58
 Siskiyou,M1001,Proposition 52,,,No,104
@@ -81,14 +37,19 @@ Siskiyou,M1001,Proposition 66,,,No,96
 Siskiyou,M1001,Proposition 66,,,Yes,98
 Siskiyou,M1001,Proposition 67,,,No,148
 Siskiyou,M1001,Proposition 67,,,Yes,53
+Siskiyou,M1001,State Assembly,1,REP,Brian Dahle,141
+Siskiyou,M1001,State Assembly,1,LIB,Donn Coenen,43
+Siskiyou,M1001,State Senate,1,DEM,Rob Rowen,49
+Siskiyou,M1001,State Senate,1,REP,Ted Gaines,147
+Siskiyou,M1001,U.S. House,1,REP,Doug La Malfa,150
+Siskiyou,M1001,U.S. House,1,DEM,Jim Reed,50
 Siskiyou,M1001,U.S. Senate,,DEM,Kamala D. Harris,73
 Siskiyou,M1001,U.S. Senate,,DEM,Loretta L. Sanchez,63
-Siskiyou,M1009,President,,REP/AI,Donald J. Trump,128
+Siskiyou,M1009,President,,REP,Donald J. Trump,128
 Siskiyou,M1009,President,,LIB,Gary Johnson,3
-Siskiyou,M1009,President,,PF,Gloria Estela La Riva,1
+Siskiyou,M1009,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,M1009,President,,DEM,Hillary Clinton,28
 Siskiyou,M1009,President,,GRN,Jill Stein,4
-Siskiyou,M1009,President,,WI,Write-In,2
 Siskiyou,M1009,Proposition 51,,,No,116
 Siskiyou,M1009,Proposition 51,,,Yes,47
 Siskiyou,M1009,Proposition 52,,,No,81
@@ -123,14 +84,19 @@ Siskiyou,M1009,Proposition 66,,,No,64
 Siskiyou,M1009,Proposition 66,,,Yes,95
 Siskiyou,M1009,Proposition 67,,,No,129
 Siskiyou,M1009,Proposition 67,,,Yes,34
+Siskiyou,M1009,State Assembly,1,REP,Brian Dahle,124
+Siskiyou,M1009,State Assembly,1,LIB,Donn Coenen,37
+Siskiyou,M1009,State Senate,1,DEM,Rob Rowen,32
+Siskiyou,M1009,State Senate,1,REP,Ted Gaines,134
+Siskiyou,M1009,U.S. House,1,REP,Doug La Malfa,130
+Siskiyou,M1009,U.S. House,1,DEM,Jim Reed,35
 Siskiyou,M1009,U.S. Senate,,DEM,Kamala D. Harris,74
 Siskiyou,M1009,U.S. Senate,,DEM,Loretta L. Sanchez,33
-Siskiyou,M1020,President,,REP/AI,Donald J. Trump,102
+Siskiyou,M1020,President,,REP,Donald J. Trump,102
 Siskiyou,M1020,President,,LIB,Gary Johnson,5
-Siskiyou,M1020,President,,PF,Gloria Estela La Riva,2
+Siskiyou,M1020,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,M1020,President,,DEM,Hillary Clinton,16
 Siskiyou,M1020,President,,GRN,Jill Stein,1
-Siskiyou,M1020,President,,WI,Write-In,0
 Siskiyou,M1020,Proposition 51,,,No,92
 Siskiyou,M1020,Proposition 51,,,Yes,31
 Siskiyou,M1020,Proposition 52,,,No,76
@@ -165,14 +131,19 @@ Siskiyou,M1020,Proposition 66,,,No,53
 Siskiyou,M1020,Proposition 66,,,Yes,59
 Siskiyou,M1020,Proposition 67,,,No,100
 Siskiyou,M1020,Proposition 67,,,Yes,21
+Siskiyou,M1020,State Assembly,1,REP,Brian Dahle,111
+Siskiyou,M1020,State Assembly,1,LIB,Donn Coenen,11
+Siskiyou,M1020,State Senate,1,DEM,Rob Rowen,14
+Siskiyou,M1020,State Senate,1,REP,Ted Gaines,111
+Siskiyou,M1020,U.S. House,1,REP,Doug La Malfa,108
+Siskiyou,M1020,U.S. House,1,DEM,Jim Reed,20
 Siskiyou,M1020,U.S. Senate,,DEM,Kamala D. Harris,42
 Siskiyou,M1020,U.S. Senate,,DEM,Loretta L. Sanchez,21
-Siskiyou,M1023,President,,REP/AI,Donald J. Trump,123
+Siskiyou,M1023,President,,REP,Donald J. Trump,123
 Siskiyou,M1023,President,,LIB,Gary Johnson,3
-Siskiyou,M1023,President,,PF,Gloria Estela La Riva,1
+Siskiyou,M1023,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,M1023,President,,DEM,Hillary Clinton,42
 Siskiyou,M1023,President,,GRN,Jill Stein,5
-Siskiyou,M1023,President,,WI,Write-In,0
 Siskiyou,M1023,Proposition 51,,,No,119
 Siskiyou,M1023,Proposition 51,,,Yes,54
 Siskiyou,M1023,Proposition 52,,,No,90
@@ -207,14 +178,18 @@ Siskiyou,M1023,Proposition 66,,,No,77
 Siskiyou,M1023,Proposition 66,,,Yes,83
 Siskiyou,M1023,Proposition 67,,,No,123
 Siskiyou,M1023,Proposition 67,,,Yes,52
+Siskiyou,M1023,State Assembly,1,REP,Brian Dahle,141
+Siskiyou,M1023,State Assembly,1,LIB,Donn Coenen,26
+Siskiyou,M1023,State Senate,1,DEM,Rob Rowen,44
+Siskiyou,M1023,State Senate,1,REP,Ted Gaines,125
+Siskiyou,M1023,U.S. House,1,REP,Doug La Malfa,132
+Siskiyou,M1023,U.S. House,1,DEM,Jim Reed,43
 Siskiyou,M1023,U.S. Senate,,DEM,Kamala D. Harris,59
 Siskiyou,M1023,U.S. Senate,,DEM,Loretta L. Sanchez,58
-Siskiyou,M1060,President,,REP/AI,Donald J. Trump,74
+Siskiyou,M1060,President,,REP,Donald J. Trump,74
 Siskiyou,M1060,President,,LIB,Gary Johnson,6
-Siskiyou,M1060,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M1060,President,,DEM,Hillary Clinton,80
 Siskiyou,M1060,President,,GRN,Jill Stein,6
-Siskiyou,M1060,President,,WI,Write-In,3
 Siskiyou,M1060,Proposition 51,,,No,101
 Siskiyou,M1060,Proposition 51,,,Yes,60
 Siskiyou,M1060,Proposition 52,,,No,65
@@ -249,14 +224,17 @@ Siskiyou,M1060,Proposition 66,,,No,83
 Siskiyou,M1060,Proposition 66,,,Yes,72
 Siskiyou,M1060,Proposition 67,,,No,88
 Siskiyou,M1060,Proposition 67,,,Yes,75
+Siskiyou,M1060,State Assembly,1,REP,Brian Dahle,99
+Siskiyou,M1060,State Assembly,1,LIB,Donn Coenen,47
+Siskiyou,M1060,State Senate,1,DEM,Rob Rowen,82
+Siskiyou,M1060,State Senate,1,REP,Ted Gaines,83
+Siskiyou,M1060,U.S. House,1,REP,Doug La Malfa,77
+Siskiyou,M1060,U.S. House,1,DEM,Jim Reed,89
 Siskiyou,M1060,U.S. Senate,,DEM,Kamala D. Harris,95
 Siskiyou,M1060,U.S. Senate,,DEM,Loretta L. Sanchez,37
-Siskiyou,M1065,President,,REP/AI,Donald J. Trump,59
+Siskiyou,M1065,President,,REP,Donald J. Trump,59
 Siskiyou,M1065,President,,LIB,Gary Johnson,7
-Siskiyou,M1065,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M1065,President,,DEM,Hillary Clinton,27
-Siskiyou,M1065,President,,GRN,Jill Stein,0
-Siskiyou,M1065,President,,WI,Write-In,0
 Siskiyou,M1065,Proposition 51,,,No,57
 Siskiyou,M1065,Proposition 51,,,Yes,31
 Siskiyou,M1065,Proposition 52,,,No,43
@@ -291,14 +269,18 @@ Siskiyou,M1065,Proposition 66,,,No,43
 Siskiyou,M1065,Proposition 66,,,Yes,42
 Siskiyou,M1065,Proposition 67,,,No,59
 Siskiyou,M1065,Proposition 67,,,Yes,29
+Siskiyou,M1065,State Assembly,1,REP,Brian Dahle,67
+Siskiyou,M1065,State Assembly,1,LIB,Donn Coenen,13
+Siskiyou,M1065,State Senate,1,DEM,Rob Rowen,21
+Siskiyou,M1065,State Senate,1,REP,Ted Gaines,61
+Siskiyou,M1065,U.S. House,1,REP,Doug La Malfa,58
+Siskiyou,M1065,U.S. House,1,DEM,Jim Reed,25
 Siskiyou,M1065,U.S. Senate,,DEM,Kamala D. Harris,30
 Siskiyou,M1065,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Siskiyou,M1070,President,,REP/AI,Donald J. Trump,139
+Siskiyou,M1070,President,,REP,Donald J. Trump,139
 Siskiyou,M1070,President,,LIB,Gary Johnson,7
-Siskiyou,M1070,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M1070,President,,DEM,Hillary Clinton,46
 Siskiyou,M1070,President,,GRN,Jill Stein,5
-Siskiyou,M1070,President,,WI,Write-In,3
 Siskiyou,M1070,Proposition 51,,,No,131
 Siskiyou,M1070,Proposition 51,,,Yes,71
 Siskiyou,M1070,Proposition 52,,,No,87
@@ -333,14 +315,19 @@ Siskiyou,M1070,Proposition 66,,,No,72
 Siskiyou,M1070,Proposition 66,,,Yes,110
 Siskiyou,M1070,Proposition 67,,,No,130
 Siskiyou,M1070,Proposition 67,,,Yes,66
+Siskiyou,M1070,State Assembly,1,REP,Brian Dahle,161
+Siskiyou,M1070,State Assembly,1,LIB,Donn Coenen,27
+Siskiyou,M1070,State Senate,1,DEM,Rob Rowen,56
+Siskiyou,M1070,State Senate,1,REP,Ted Gaines,142
+Siskiyou,M1070,U.S. House,1,REP,Doug La Malfa,150
+Siskiyou,M1070,U.S. House,1,DEM,Jim Reed,51
 Siskiyou,M1070,U.S. Senate,,DEM,Kamala D. Harris,66
 Siskiyou,M1070,U.S. Senate,,DEM,Loretta L. Sanchez,65
-Siskiyou,M1117,President,,REP/AI,Donald J. Trump,122
+Siskiyou,M1117,President,,REP,Donald J. Trump,122
 Siskiyou,M1117,President,,LIB,Gary Johnson,6
-Siskiyou,M1117,President,,PF,Gloria Estela La Riva,2
+Siskiyou,M1117,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,M1117,President,,DEM,Hillary Clinton,51
 Siskiyou,M1117,President,,GRN,Jill Stein,4
-Siskiyou,M1117,President,,WI,Write-In,8
 Siskiyou,M1117,Proposition 51,,,No,118
 Siskiyou,M1117,Proposition 51,,,Yes,68
 Siskiyou,M1117,Proposition 52,,,No,82
@@ -375,14 +362,18 @@ Siskiyou,M1117,Proposition 66,,,No,69
 Siskiyou,M1117,Proposition 66,,,Yes,105
 Siskiyou,M1117,Proposition 67,,,No,139
 Siskiyou,M1117,Proposition 67,,,Yes,45
+Siskiyou,M1117,State Assembly,1,REP,Brian Dahle,163
+Siskiyou,M1117,State Assembly,1,LIB,Donn Coenen,25
+Siskiyou,M1117,State Senate,1,DEM,Rob Rowen,51
+Siskiyou,M1117,State Senate,1,REP,Ted Gaines,137
+Siskiyou,M1117,U.S. House,1,REP,Doug La Malfa,135
+Siskiyou,M1117,U.S. House,1,DEM,Jim Reed,57
 Siskiyou,M1117,U.S. Senate,,DEM,Kamala D. Harris,83
 Siskiyou,M1117,U.S. Senate,,DEM,Loretta L. Sanchez,58
-Siskiyou,M2009,President,,REP/AI,Donald J. Trump,81
+Siskiyou,M2009,President,,REP,Donald J. Trump,81
 Siskiyou,M2009,President,,LIB,Gary Johnson,8
-Siskiyou,M2009,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M2009,President,,DEM,Hillary Clinton,114
 Siskiyou,M2009,President,,GRN,Jill Stein,10
-Siskiyou,M2009,President,,WI,Write-In,4
 Siskiyou,M2009,Proposition 51,,,No,116
 Siskiyou,M2009,Proposition 51,,,Yes,90
 Siskiyou,M2009,Proposition 52,,,No,61
@@ -417,14 +408,19 @@ Siskiyou,M2009,Proposition 66,,,No,95
 Siskiyou,M2009,Proposition 66,,,Yes,104
 Siskiyou,M2009,Proposition 67,,,No,117
 Siskiyou,M2009,Proposition 67,,,Yes,93
+Siskiyou,M2009,State Assembly,1,REP,Brian Dahle,101
+Siskiyou,M2009,State Assembly,1,LIB,Donn Coenen,95
+Siskiyou,M2009,State Senate,1,DEM,Rob Rowen,116
+Siskiyou,M2009,State Senate,1,REP,Ted Gaines,88
+Siskiyou,M2009,U.S. House,1,REP,Doug La Malfa,87
+Siskiyou,M2009,U.S. House,1,DEM,Jim Reed,121
 Siskiyou,M2009,U.S. Senate,,DEM,Kamala D. Harris,92
 Siskiyou,M2009,U.S. Senate,,DEM,Loretta L. Sanchez,83
-Siskiyou,M3013,President,,REP/AI,Donald J. Trump,130
+Siskiyou,M3013,President,,REP,Donald J. Trump,130
 Siskiyou,M3013,President,,LIB,Gary Johnson,4
-Siskiyou,M3013,President,,PF,Gloria Estela La Riva,1
+Siskiyou,M3013,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,M3013,President,,DEM,Hillary Clinton,59
 Siskiyou,M3013,President,,GRN,Jill Stein,7
-Siskiyou,M3013,President,,WI,Write-In,2
 Siskiyou,M3013,Proposition 51,,,No,114
 Siskiyou,M3013,Proposition 51,,,Yes,85
 Siskiyou,M3013,Proposition 52,,,No,90
@@ -459,14 +455,62 @@ Siskiyou,M3013,Proposition 66,,,No,86
 Siskiyou,M3013,Proposition 66,,,Yes,96
 Siskiyou,M3013,Proposition 67,,,No,143
 Siskiyou,M3013,Proposition 67,,,Yes,58
+Siskiyou,M3013,State Assembly,1,REP,Brian Dahle,147
+Siskiyou,M3013,State Assembly,1,LIB,Donn Coenen,46
+Siskiyou,M3013,State Senate,1,DEM,Rob Rowen,63
+Siskiyou,M3013,State Senate,1,REP,Ted Gaines,134
+Siskiyou,M3013,U.S. House,1,REP,Doug La Malfa,137
+Siskiyou,M3013,U.S. House,1,DEM,Jim Reed,67
 Siskiyou,M3013,U.S. Senate,,DEM,Kamala D. Harris,78
 Siskiyou,M3013,U.S. Senate,,DEM,Loretta L. Sanchez,65
-Siskiyou,M3065,President,,REP/AI,Donald J. Trump,122
+Siskiyou,M3055,President,,REP,Donald J. Trump,11
+Siskiyou,M3055,President,,DEM,Hillary Clinton,12
+Siskiyou,M3055,Proposition 51,,,No,4
+Siskiyou,M3055,Proposition 51,,,Yes,18
+Siskiyou,M3055,Proposition 52,,,No,7
+Siskiyou,M3055,Proposition 52,,,Yes,15
+Siskiyou,M3055,Proposition 53,,,No,4
+Siskiyou,M3055,Proposition 53,,,Yes,18
+Siskiyou,M3055,Proposition 54,,,No,5
+Siskiyou,M3055,Proposition 54,,,Yes,17
+Siskiyou,M3055,Proposition 55,,,No,4
+Siskiyou,M3055,Proposition 55,,,Yes,19
+Siskiyou,M3055,Proposition 56,,,No,11
+Siskiyou,M3055,Proposition 56,,,Yes,12
+Siskiyou,M3055,Proposition 57,,,No,4
+Siskiyou,M3055,Proposition 57,,,Yes,18
+Siskiyou,M3055,Proposition 58,,,No,4
+Siskiyou,M3055,Proposition 58,,,Yes,18
+Siskiyou,M3055,Proposition 59,,,No,6
+Siskiyou,M3055,Proposition 59,,,Yes,15
+Siskiyou,M3055,Proposition 60,,,No,11
+Siskiyou,M3055,Proposition 60,,,Yes,11
+Siskiyou,M3055,Proposition 61,,,No,11
+Siskiyou,M3055,Proposition 61,,,Yes,10
+Siskiyou,M3055,Proposition 62,,,No,10
+Siskiyou,M3055,Proposition 62,,,Yes,11
+Siskiyou,M3055,Proposition 63,,,No,14
+Siskiyou,M3055,Proposition 63,,,Yes,9
+Siskiyou,M3055,Proposition 64,,,No,8
+Siskiyou,M3055,Proposition 64,,,Yes,15
+Siskiyou,M3055,Proposition 65,,,No,8
+Siskiyou,M3055,Proposition 65,,,Yes,15
+Siskiyou,M3055,Proposition 66,,,No,11
+Siskiyou,M3055,Proposition 66,,,Yes,10
+Siskiyou,M3055,Proposition 67,,,No,6
+Siskiyou,M3055,Proposition 67,,,Yes,17
+Siskiyou,M3055,State Assembly,1,REP,Brian Dahle,15
+Siskiyou,M3055,State Assembly,1,LIB,Donn Coenen,6
+Siskiyou,M3055,State Senate,1,DEM,Rob Rowen,11
+Siskiyou,M3055,State Senate,1,REP,Ted Gaines,12
+Siskiyou,M3055,U.S. House,1,REP,Doug La Malfa,12
+Siskiyou,M3055,U.S. House,1,DEM,Jim Reed,11
+Siskiyou,M3055,U.S. Senate,,DEM,Kamala D. Harris,8
+Siskiyou,M3055,U.S. Senate,,DEM,Loretta L. Sanchez,13
+Siskiyou,M3065,President,,REP,Donald J. Trump,122
 Siskiyou,M3065,President,,LIB,Gary Johnson,4
-Siskiyou,M3065,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M3065,President,,DEM,Hillary Clinton,35
 Siskiyou,M3065,President,,GRN,Jill Stein,2
-Siskiyou,M3065,President,,WI,Write-In,2
 Siskiyou,M3065,Proposition 51,,,No,106
 Siskiyou,M3065,Proposition 51,,,Yes,61
 Siskiyou,M3065,Proposition 52,,,No,79
@@ -501,14 +545,19 @@ Siskiyou,M3065,Proposition 66,,,No,62
 Siskiyou,M3065,Proposition 66,,,Yes,92
 Siskiyou,M3065,Proposition 67,,,No,102
 Siskiyou,M3065,Proposition 67,,,Yes,61
+Siskiyou,M3065,State Assembly,1,REP,Brian Dahle,137
+Siskiyou,M3065,State Assembly,1,LIB,Donn Coenen,25
+Siskiyou,M3065,State Senate,1,DEM,Rob Rowen,35
+Siskiyou,M3065,State Senate,1,REP,Ted Gaines,133
+Siskiyou,M3065,U.S. House,1,REP,Doug La Malfa,139
+Siskiyou,M3065,U.S. House,1,DEM,Jim Reed,31
 Siskiyou,M3065,U.S. Senate,,DEM,Kamala D. Harris,55
 Siskiyou,M3065,U.S. Senate,,DEM,Loretta L. Sanchez,50
-Siskiyou,M4060,President,,REP/AI,Donald J. Trump,143
+Siskiyou,M4060,President,,REP,Donald J. Trump,143
 Siskiyou,M4060,President,,LIB,Gary Johnson,9
-Siskiyou,M4060,President,,PF,Gloria Estela La Riva,1
+Siskiyou,M4060,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,M4060,President,,DEM,Hillary Clinton,31
 Siskiyou,M4060,President,,GRN,Jill Stein,2
-Siskiyou,M4060,President,,WI,Write-In,2
 Siskiyou,M4060,Proposition 51,,,No,141
 Siskiyou,M4060,Proposition 51,,,Yes,49
 Siskiyou,M4060,Proposition 52,,,No,98
@@ -543,14 +592,18 @@ Siskiyou,M4060,Proposition 66,,,No,73
 Siskiyou,M4060,Proposition 66,,,Yes,105
 Siskiyou,M4060,Proposition 67,,,No,140
 Siskiyou,M4060,Proposition 67,,,Yes,49
+Siskiyou,M4060,State Assembly,1,REP,Brian Dahle,152
+Siskiyou,M4060,State Assembly,1,LIB,Donn Coenen,34
+Siskiyou,M4060,State Senate,1,DEM,Rob Rowen,35
+Siskiyou,M4060,State Senate,1,REP,Ted Gaines,156
+Siskiyou,M4060,U.S. House,1,REP,Doug La Malfa,157
+Siskiyou,M4060,U.S. House,1,DEM,Jim Reed,35
 Siskiyou,M4060,U.S. Senate,,DEM,Kamala D. Harris,51
 Siskiyou,M4060,U.S. Senate,,DEM,Loretta L. Sanchez,59
-Siskiyou,M4065,President,,REP/AI,Donald J. Trump,111
+Siskiyou,M4065,President,,REP,Donald J. Trump,111
 Siskiyou,M4065,President,,LIB,Gary Johnson,15
-Siskiyou,M4065,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M4065,President,,DEM,Hillary Clinton,41
 Siskiyou,M4065,President,,GRN,Jill Stein,2
-Siskiyou,M4065,President,,WI,Write-In,3
 Siskiyou,M4065,Proposition 51,,,No,116
 Siskiyou,M4065,Proposition 51,,,Yes,55
 Siskiyou,M4065,Proposition 52,,,No,81
@@ -585,14 +638,18 @@ Siskiyou,M4065,Proposition 66,,,No,74
 Siskiyou,M4065,Proposition 66,,,Yes,88
 Siskiyou,M4065,Proposition 67,,,No,112
 Siskiyou,M4065,Proposition 67,,,Yes,59
+Siskiyou,M4065,State Assembly,1,REP,Brian Dahle,132
+Siskiyou,M4065,State Assembly,1,LIB,Donn Coenen,36
+Siskiyou,M4065,State Senate,1,DEM,Rob Rowen,45
+Siskiyou,M4065,State Senate,1,REP,Ted Gaines,128
+Siskiyou,M4065,U.S. House,1,REP,Doug La Malfa,125
+Siskiyou,M4065,U.S. House,1,DEM,Jim Reed,49
 Siskiyou,M4065,U.S. Senate,,DEM,Kamala D. Harris,68
 Siskiyou,M4065,U.S. Senate,,DEM,Loretta L. Sanchez,58
-Siskiyou,M5018,President,,REP/AI,Donald J. Trump,71
+Siskiyou,M5018,President,,REP,Donald J. Trump,71
 Siskiyou,M5018,President,,LIB,Gary Johnson,8
-Siskiyou,M5018,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M5018,President,,DEM,Hillary Clinton,56
 Siskiyou,M5018,President,,GRN,Jill Stein,7
-Siskiyou,M5018,President,,WI,Write-In,2
 Siskiyou,M5018,Proposition 51,,,No,79
 Siskiyou,M5018,Proposition 51,,,Yes,58
 Siskiyou,M5018,Proposition 52,,,No,53
@@ -627,14 +684,18 @@ Siskiyou,M5018,Proposition 66,,,No,77
 Siskiyou,M5018,Proposition 66,,,Yes,52
 Siskiyou,M5018,Proposition 67,,,No,76
 Siskiyou,M5018,Proposition 67,,,Yes,67
+Siskiyou,M5018,State Assembly,1,REP,Brian Dahle,70
+Siskiyou,M5018,State Assembly,1,LIB,Donn Coenen,61
+Siskiyou,M5018,State Senate,1,DEM,Rob Rowen,68
+Siskiyou,M5018,State Senate,1,REP,Ted Gaines,74
+Siskiyou,M5018,U.S. House,1,REP,Doug La Malfa,77
+Siskiyou,M5018,U.S. House,1,DEM,Jim Reed,67
 Siskiyou,M5018,U.S. Senate,,DEM,Kamala D. Harris,64
 Siskiyou,M5018,U.S. Senate,,DEM,Loretta L. Sanchez,51
-Siskiyou,M5019,President,,REP/AI,Donald J. Trump,12
+Siskiyou,M5019,President,,REP,Donald J. Trump,12
 Siskiyou,M5019,President,,LIB,Gary Johnson,2
-Siskiyou,M5019,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M5019,President,,DEM,Hillary Clinton,34
 Siskiyou,M5019,President,,GRN,Jill Stein,3
-Siskiyou,M5019,President,,WI,Write-In,5
 Siskiyou,M5019,Proposition 51,,,No,31
 Siskiyou,M5019,Proposition 51,,,Yes,26
 Siskiyou,M5019,Proposition 52,,,No,20
@@ -669,14 +730,18 @@ Siskiyou,M5019,Proposition 66,,,No,36
 Siskiyou,M5019,Proposition 66,,,Yes,14
 Siskiyou,M5019,Proposition 67,,,No,17
 Siskiyou,M5019,Proposition 67,,,Yes,39
+Siskiyou,M5019,State Assembly,1,REP,Brian Dahle,23
+Siskiyou,M5019,State Assembly,1,LIB,Donn Coenen,23
+Siskiyou,M5019,State Senate,1,DEM,Rob Rowen,37
+Siskiyou,M5019,State Senate,1,REP,Ted Gaines,15
+Siskiyou,M5019,U.S. House,1,REP,Doug La Malfa,11
+Siskiyou,M5019,U.S. House,1,DEM,Jim Reed,43
 Siskiyou,M5019,U.S. Senate,,DEM,Kamala D. Harris,39
 Siskiyou,M5019,U.S. Senate,,DEM,Loretta L. Sanchez,7
-Siskiyou,M5038,President,,REP/AI,Donald J. Trump,110
+Siskiyou,M5038,President,,REP,Donald J. Trump,110
 Siskiyou,M5038,President,,LIB,Gary Johnson,2
-Siskiyou,M5038,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M5038,President,,DEM,Hillary Clinton,38
 Siskiyou,M5038,President,,GRN,Jill Stein,4
-Siskiyou,M5038,President,,WI,Write-In,1
 Siskiyou,M5038,Proposition 51,,,No,112
 Siskiyou,M5038,Proposition 51,,,Yes,40
 Siskiyou,M5038,Proposition 52,,,No,77
@@ -711,14 +776,63 @@ Siskiyou,M5038,Proposition 66,,,No,63
 Siskiyou,M5038,Proposition 66,,,Yes,84
 Siskiyou,M5038,Proposition 67,,,No,103
 Siskiyou,M5038,Proposition 67,,,Yes,53
+Siskiyou,M5038,State Assembly,1,REP,Brian Dahle,116
+Siskiyou,M5038,State Assembly,1,LIB,Donn Coenen,29
+Siskiyou,M5038,State Senate,1,DEM,Rob Rowen,41
+Siskiyou,M5038,State Senate,1,REP,Ted Gaines,108
+Siskiyou,M5038,U.S. House,1,REP,Doug La Malfa,110
+Siskiyou,M5038,U.S. House,1,DEM,Jim Reed,45
 Siskiyou,M5038,U.S. Senate,,DEM,Kamala D. Harris,56
 Siskiyou,M5038,U.S. Senate,,DEM,Loretta L. Sanchez,45
-Siskiyou,M5070,President,,REP/AI,Donald J. Trump,106
+Siskiyou,M5055,President,,REP,Donald J. Trump,43
+Siskiyou,M5055,President,,LIB,Gary Johnson,4
+Siskiyou,M5055,President,,DEM,Hillary Clinton,14
+Siskiyou,M5055,Proposition 51,,,No,49
+Siskiyou,M5055,Proposition 51,,,Yes,11
+Siskiyou,M5055,Proposition 52,,,No,34
+Siskiyou,M5055,Proposition 52,,,Yes,30
+Siskiyou,M5055,Proposition 53,,,No,18
+Siskiyou,M5055,Proposition 53,,,Yes,45
+Siskiyou,M5055,Proposition 54,,,No,23
+Siskiyou,M5055,Proposition 54,,,Yes,38
+Siskiyou,M5055,Proposition 55,,,No,36
+Siskiyou,M5055,Proposition 55,,,Yes,27
+Siskiyou,M5055,Proposition 56,,,No,30
+Siskiyou,M5055,Proposition 56,,,Yes,34
+Siskiyou,M5055,Proposition 57,,,No,40
+Siskiyou,M5055,Proposition 57,,,Yes,23
+Siskiyou,M5055,Proposition 58,,,No,24
+Siskiyou,M5055,Proposition 58,,,Yes,37
+Siskiyou,M5055,Proposition 59,,,No,33
+Siskiyou,M5055,Proposition 59,,,Yes,27
+Siskiyou,M5055,Proposition 60,,,No,40
+Siskiyou,M5055,Proposition 60,,,Yes,18
+Siskiyou,M5055,Proposition 61,,,No,28
+Siskiyou,M5055,Proposition 61,,,Yes,29
+Siskiyou,M5055,Proposition 62,,,No,52
+Siskiyou,M5055,Proposition 62,,,Yes,8
+Siskiyou,M5055,Proposition 63,,,No,48
+Siskiyou,M5055,Proposition 63,,,Yes,15
+Siskiyou,M5055,Proposition 64,,,No,45
+Siskiyou,M5055,Proposition 64,,,Yes,18
+Siskiyou,M5055,Proposition 65,,,No,49
+Siskiyou,M5055,Proposition 65,,,Yes,13
+Siskiyou,M5055,Proposition 66,,,No,22
+Siskiyou,M5055,Proposition 66,,,Yes,34
+Siskiyou,M5055,Proposition 67,,,No,45
+Siskiyou,M5055,Proposition 67,,,Yes,18
+Siskiyou,M5055,State Assembly,1,REP,Brian Dahle,43
+Siskiyou,M5055,State Assembly,1,LIB,Donn Coenen,14
+Siskiyou,M5055,State Senate,1,DEM,Rob Rowen,13
+Siskiyou,M5055,State Senate,1,REP,Ted Gaines,49
+Siskiyou,M5055,U.S. House,1,REP,Doug La Malfa,50
+Siskiyou,M5055,U.S. House,1,DEM,Jim Reed,13
+Siskiyou,M5055,U.S. Senate,,DEM,Kamala D. Harris,27
+Siskiyou,M5055,U.S. Senate,,DEM,Loretta L. Sanchez,25
+Siskiyou,M5070,President,,REP,Donald J. Trump,106
 Siskiyou,M5070,President,,LIB,Gary Johnson,3
-Siskiyou,M5070,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M5070,President,,DEM,Hillary Clinton,51
 Siskiyou,M5070,President,,GRN,Jill Stein,1
-Siskiyou,M5070,President,,WI,Write-In,6
 Siskiyou,M5070,Proposition 51,,,No,107
 Siskiyou,M5070,Proposition 51,,,Yes,49
 Siskiyou,M5070,Proposition 52,,,No,63
@@ -753,14 +867,18 @@ Siskiyou,M5070,Proposition 66,,,No,79
 Siskiyou,M5070,Proposition 66,,,Yes,72
 Siskiyou,M5070,Proposition 67,,,No,88
 Siskiyou,M5070,Proposition 67,,,Yes,72
+Siskiyou,M5070,State Assembly,1,REP,Brian Dahle,104
+Siskiyou,M5070,State Assembly,1,LIB,Donn Coenen,42
+Siskiyou,M5070,State Senate,1,DEM,Rob Rowen,57
+Siskiyou,M5070,State Senate,1,REP,Ted Gaines,102
+Siskiyou,M5070,U.S. House,1,REP,Doug La Malfa,99
+Siskiyou,M5070,U.S. House,1,DEM,Jim Reed,59
 Siskiyou,M5070,U.S. Senate,,DEM,Kamala D. Harris,62
 Siskiyou,M5070,U.S. Senate,,DEM,Loretta L. Sanchez,51
-Siskiyou,M5075,President,,REP/AI,Donald J. Trump,90
+Siskiyou,M5075,President,,REP,Donald J. Trump,90
 Siskiyou,M5075,President,,LIB,Gary Johnson,7
-Siskiyou,M5075,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M5075,President,,DEM,Hillary Clinton,38
 Siskiyou,M5075,President,,GRN,Jill Stein,3
-Siskiyou,M5075,President,,WI,Write-In,2
 Siskiyou,M5075,Proposition 51,,,No,80
 Siskiyou,M5075,Proposition 51,,,Yes,47
 Siskiyou,M5075,Proposition 52,,,No,57
@@ -795,14 +913,18 @@ Siskiyou,M5075,Proposition 66,,,No,67
 Siskiyou,M5075,Proposition 66,,,Yes,59
 Siskiyou,M5075,Proposition 67,,,No,84
 Siskiyou,M5075,Proposition 67,,,Yes,50
+Siskiyou,M5075,State Assembly,1,REP,Brian Dahle,100
+Siskiyou,M5075,State Assembly,1,LIB,Donn Coenen,30
+Siskiyou,M5075,State Senate,1,DEM,Rob Rowen,37
+Siskiyou,M5075,State Senate,1,REP,Ted Gaines,95
+Siskiyou,M5075,U.S. House,1,REP,Doug La Malfa,87
+Siskiyou,M5075,U.S. House,1,DEM,Jim Reed,48
 Siskiyou,M5075,U.S. Senate,,DEM,Kamala D. Harris,59
 Siskiyou,M5075,U.S. Senate,,DEM,Loretta L. Sanchez,47
-Siskiyou,M5080,President,,REP/AI,Donald J. Trump,82
+Siskiyou,M5080,President,,REP,Donald J. Trump,82
 Siskiyou,M5080,President,,LIB,Gary Johnson,7
-Siskiyou,M5080,President,,PF,Gloria Estela La Riva,0
 Siskiyou,M5080,President,,DEM,Hillary Clinton,50
 Siskiyou,M5080,President,,GRN,Jill Stein,5
-Siskiyou,M5080,President,,WI,Write-In,3
 Siskiyou,M5080,Proposition 51,,,No,84
 Siskiyou,M5080,Proposition 51,,,Yes,53
 Siskiyou,M5080,Proposition 52,,,No,54
@@ -837,14 +959,19 @@ Siskiyou,M5080,Proposition 66,,,No,59
 Siskiyou,M5080,Proposition 66,,,Yes,78
 Siskiyou,M5080,Proposition 67,,,No,84
 Siskiyou,M5080,Proposition 67,,,Yes,60
+Siskiyou,M5080,State Assembly,1,REP,Brian Dahle,75
+Siskiyou,M5080,State Assembly,1,LIB,Donn Coenen,56
+Siskiyou,M5080,State Senate,1,DEM,Rob Rowen,57
+Siskiyou,M5080,State Senate,1,REP,Ted Gaines,88
+Siskiyou,M5080,U.S. House,1,REP,Doug La Malfa,84
+Siskiyou,M5080,U.S. House,1,DEM,Jim Reed,63
 Siskiyou,M5080,U.S. Senate,,DEM,Kamala D. Harris,66
 Siskiyou,M5080,U.S. Senate,,DEM,Loretta L. Sanchez,52
-Siskiyou,M5090,President,,REP/AI,Donald J. Trump,99
+Siskiyou,M5090,President,,REP,Donald J. Trump,99
 Siskiyou,M5090,President,,LIB,Gary Johnson,9
-Siskiyou,M5090,President,,PF,Gloria Estela La Riva,3
+Siskiyou,M5090,President,,PAF,Gloria Estela La Riva,3
 Siskiyou,M5090,President,,DEM,Hillary Clinton,69
 Siskiyou,M5090,President,,GRN,Jill Stein,8
-Siskiyou,M5090,President,,WI,Write-In,5
 Siskiyou,M5090,Proposition 51,,,No,119
 Siskiyou,M5090,Proposition 51,,,Yes,76
 Siskiyou,M5090,Proposition 52,,,No,76
@@ -879,14 +1006,19 @@ Siskiyou,M5090,Proposition 66,,,No,104
 Siskiyou,M5090,Proposition 66,,,Yes,73
 Siskiyou,M5090,Proposition 67,,,No,94
 Siskiyou,M5090,Proposition 67,,,Yes,101
+Siskiyou,M5090,State Assembly,1,REP,Brian Dahle,116
+Siskiyou,M5090,State Assembly,1,LIB,Donn Coenen,45
+Siskiyou,M5090,State Senate,1,DEM,Rob Rowen,80
+Siskiyou,M5090,State Senate,1,REP,Ted Gaines,106
+Siskiyou,M5090,U.S. House,1,REP,Doug La Malfa,107
+Siskiyou,M5090,U.S. House,1,DEM,Jim Reed,84
 Siskiyou,M5090,U.S. Senate,,DEM,Kamala D. Harris,88
 Siskiyou,M5090,U.S. Senate,,DEM,Loretta L. Sanchez,53
-Siskiyou,P1000,President,,REP/AI,Donald J. Trump,292
+Siskiyou,P1000,President,,REP,Donald J. Trump,292
 Siskiyou,P1000,President,,LIB,Gary Johnson,28
-Siskiyou,P1000,President,,PF,Gloria Estela La Riva,3
+Siskiyou,P1000,President,,PAF,Gloria Estela La Riva,3
 Siskiyou,P1000,President,,DEM,Hillary Clinton,153
 Siskiyou,P1000,President,,GRN,Jill Stein,12
-Siskiyou,P1000,President,,WI,Write-In,12
 Siskiyou,P1000,Proposition 51,,,No,310
 Siskiyou,P1000,Proposition 51,,,Yes,184
 Siskiyou,P1000,Proposition 52,,,No,196
@@ -921,14 +1053,18 @@ Siskiyou,P1000,Proposition 66,,,No,209
 Siskiyou,P1000,Proposition 66,,,Yes,253
 Siskiyou,P1000,Proposition 67,,,No,286
 Siskiyou,P1000,Proposition 67,,,Yes,211
+Siskiyou,P1000,State Assembly,1,REP,Brian Dahle,354
+Siskiyou,P1000,State Assembly,1,LIB,Donn Coenen,117
+Siskiyou,P1000,State Senate,1,DEM,Rob Rowen,173
+Siskiyou,P1000,State Senate,1,REP,Ted Gaines,316
+Siskiyou,P1000,U.S. House,1,REP,Doug La Malfa,302
+Siskiyou,P1000,U.S. House,1,DEM,Jim Reed,199
 Siskiyou,P1000,U.S. Senate,,DEM,Kamala D. Harris,205
 Siskiyou,P1000,U.S. Senate,,DEM,Loretta L. Sanchez,164
-Siskiyou,P1002,President,,REP/AI,Donald J. Trump,197
+Siskiyou,P1002,President,,REP,Donald J. Trump,197
 Siskiyou,P1002,President,,LIB,Gary Johnson,12
-Siskiyou,P1002,President,,PF,Gloria Estela La Riva,0
 Siskiyou,P1002,President,,DEM,Hillary Clinton,39
 Siskiyou,P1002,President,,GRN,Jill Stein,3
-Siskiyou,P1002,President,,WI,Write-In,0
 Siskiyou,P1002,Proposition 51,,,No,155
 Siskiyou,P1002,Proposition 51,,,Yes,86
 Siskiyou,P1002,Proposition 52,,,No,100
@@ -963,14 +1099,19 @@ Siskiyou,P1002,Proposition 66,,,No,82
 Siskiyou,P1002,Proposition 66,,,Yes,141
 Siskiyou,P1002,Proposition 67,,,No,172
 Siskiyou,P1002,Proposition 67,,,Yes,66
+Siskiyou,P1002,State Assembly,1,REP,Brian Dahle,207
+Siskiyou,P1002,State Assembly,1,LIB,Donn Coenen,29
+Siskiyou,P1002,State Senate,1,DEM,Rob Rowen,47
+Siskiyou,P1002,State Senate,1,REP,Ted Gaines,191
+Siskiyou,P1002,U.S. House,1,REP,Doug La Malfa,203
+Siskiyou,P1002,U.S. House,1,DEM,Jim Reed,46
 Siskiyou,P1002,U.S. Senate,,DEM,Kamala D. Harris,92
 Siskiyou,P1002,U.S. Senate,,DEM,Loretta L. Sanchez,68
-Siskiyou,P1003,President,,REP/AI,Donald J. Trump,261
+Siskiyou,P1003,President,,REP,Donald J. Trump,261
 Siskiyou,P1003,President,,LIB,Gary Johnson,12
-Siskiyou,P1003,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P1003,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P1003,President,,DEM,Hillary Clinton,118
 Siskiyou,P1003,President,,GRN,Jill Stein,7
-Siskiyou,P1003,President,,WI,Write-In,1
 Siskiyou,P1003,Proposition 51,,,No,282
 Siskiyou,P1003,Proposition 51,,,Yes,103
 Siskiyou,P1003,Proposition 52,,,No,192
@@ -1005,14 +1146,19 @@ Siskiyou,P1003,Proposition 66,,,No,178
 Siskiyou,P1003,Proposition 66,,,Yes,189
 Siskiyou,P1003,Proposition 67,,,No,261
 Siskiyou,P1003,Proposition 67,,,Yes,131
+Siskiyou,P1003,State Assembly,1,REP,Brian Dahle,288
+Siskiyou,P1003,State Assembly,1,LIB,Donn Coenen,87
+Siskiyou,P1003,State Senate,1,DEM,Rob Rowen,114
+Siskiyou,P1003,State Senate,1,REP,Ted Gaines,268
+Siskiyou,P1003,U.S. House,1,REP,Doug La Malfa,270
+Siskiyou,P1003,U.S. House,1,DEM,Jim Reed,118
 Siskiyou,P1003,U.S. Senate,,DEM,Kamala D. Harris,152
 Siskiyou,P1003,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Siskiyou,P1026,President,,REP/AI,Donald J. Trump,119
+Siskiyou,P1026,President,,REP,Donald J. Trump,119
 Siskiyou,P1026,President,,LIB,Gary Johnson,9
-Siskiyou,P1026,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P1026,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P1026,President,,DEM,Hillary Clinton,108
 Siskiyou,P1026,President,,GRN,Jill Stein,5
-Siskiyou,P1026,President,,WI,Write-In,0
 Siskiyou,P1026,Proposition 51,,,No,139
 Siskiyou,P1026,Proposition 51,,,Yes,105
 Siskiyou,P1026,Proposition 52,,,No,90
@@ -1047,14 +1193,19 @@ Siskiyou,P1026,Proposition 66,,,No,126
 Siskiyou,P1026,Proposition 66,,,Yes,108
 Siskiyou,P1026,Proposition 67,,,No,152
 Siskiyou,P1026,Proposition 67,,,Yes,90
+Siskiyou,P1026,State Assembly,1,REP,Brian Dahle,142
+Siskiyou,P1026,State Assembly,1,LIB,Donn Coenen,77
+Siskiyou,P1026,State Senate,1,DEM,Rob Rowen,100
+Siskiyou,P1026,State Senate,1,REP,Ted Gaines,131
+Siskiyou,P1026,U.S. House,1,REP,Doug La Malfa,131
+Siskiyou,P1026,U.S. House,1,DEM,Jim Reed,104
 Siskiyou,P1026,U.S. Senate,,DEM,Kamala D. Harris,105
 Siskiyou,P1026,U.S. Senate,,DEM,Loretta L. Sanchez,77
-Siskiyou,P1105,President,,REP/AI,Donald J. Trump,165
+Siskiyou,P1105,President,,REP,Donald J. Trump,165
 Siskiyou,P1105,President,,LIB,Gary Johnson,14
-Siskiyou,P1105,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P1105,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P1105,President,,DEM,Hillary Clinton,75
 Siskiyou,P1105,President,,GRN,Jill Stein,4
-Siskiyou,P1105,President,,WI,Write-In,2
 Siskiyou,P1105,Proposition 51,,,No,144
 Siskiyou,P1105,Proposition 51,,,Yes,110
 Siskiyou,P1105,Proposition 52,,,No,88
@@ -1089,14 +1240,18 @@ Siskiyou,P1105,Proposition 66,,,No,125
 Siskiyou,P1105,Proposition 66,,,Yes,111
 Siskiyou,P1105,Proposition 67,,,No,180
 Siskiyou,P1105,Proposition 67,,,Yes,72
+Siskiyou,P1105,State Assembly,1,REP,Brian Dahle,188
+Siskiyou,P1105,State Assembly,1,LIB,Donn Coenen,58
+Siskiyou,P1105,State Senate,1,DEM,Rob Rowen,85
+Siskiyou,P1105,State Senate,1,REP,Ted Gaines,166
+Siskiyou,P1105,U.S. House,1,REP,Doug La Malfa,174
+Siskiyou,P1105,U.S. House,1,DEM,Jim Reed,85
 Siskiyou,P1105,U.S. Senate,,DEM,Kamala D. Harris,111
 Siskiyou,P1105,U.S. Senate,,DEM,Loretta L. Sanchez,89
-Siskiyou,P1110,President,,REP/AI,Donald J. Trump,385
+Siskiyou,P1110,President,,REP,Donald J. Trump,385
 Siskiyou,P1110,President,,LIB,Gary Johnson,36
-Siskiyou,P1110,President,,PF,Gloria Estela La Riva,3
+Siskiyou,P1110,President,,PAF,Gloria Estela La Riva,3
 Siskiyou,P1110,President,,DEM,Hillary Clinton,127
-Siskiyou,P1110,President,,GRN,Jill Stein,0
-Siskiyou,P1110,President,,WI,Write-In,6
 Siskiyou,P1110,Proposition 51,,,No,325
 Siskiyou,P1110,Proposition 51,,,Yes,216
 Siskiyou,P1110,Proposition 52,,,No,230
@@ -1131,14 +1286,19 @@ Siskiyou,P1110,Proposition 66,,,No,221
 Siskiyou,P1110,Proposition 66,,,Yes,294
 Siskiyou,P1110,Proposition 67,,,No,398
 Siskiyou,P1110,Proposition 67,,,Yes,144
+Siskiyou,P1110,State Assembly,1,REP,Brian Dahle,426
+Siskiyou,P1110,State Assembly,1,LIB,Donn Coenen,101
+Siskiyou,P1110,State Senate,1,DEM,Rob Rowen,111
+Siskiyou,P1110,State Senate,1,REP,Ted Gaines,422
+Siskiyou,P1110,U.S. House,1,REP,Doug La Malfa,418
+Siskiyou,P1110,U.S. House,1,DEM,Jim Reed,130
 Siskiyou,P1110,U.S. Senate,,DEM,Kamala D. Harris,219
 Siskiyou,P1110,U.S. Senate,,DEM,Loretta L. Sanchez,172
-Siskiyou,P2014,President,,REP/AI,Donald J. Trump,297
+Siskiyou,P2014,President,,REP,Donald J. Trump,297
 Siskiyou,P2014,President,,LIB,Gary Johnson,26
-Siskiyou,P2014,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P2014,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P2014,President,,DEM,Hillary Clinton,303
 Siskiyou,P2014,President,,GRN,Jill Stein,37
-Siskiyou,P2014,President,,WI,Write-In,14
 Siskiyou,P2014,Proposition 51,,,No,339
 Siskiyou,P2014,Proposition 51,,,Yes,326
 Siskiyou,P2014,Proposition 52,,,No,215
@@ -1173,14 +1333,19 @@ Siskiyou,P2014,Proposition 66,,,No,317
 Siskiyou,P2014,Proposition 66,,,Yes,302
 Siskiyou,P2014,Proposition 67,,,No,315
 Siskiyou,P2014,Proposition 67,,,Yes,364
+Siskiyou,P2014,State Assembly,1,REP,Brian Dahle,394
+Siskiyou,P2014,State Assembly,1,LIB,Donn Coenen,216
+Siskiyou,P2014,State Senate,1,DEM,Rob Rowen,333
+Siskiyou,P2014,State Senate,1,REP,Ted Gaines,333
+Siskiyou,P2014,U.S. House,1,REP,Doug La Malfa,327
+Siskiyou,P2014,U.S. House,1,DEM,Jim Reed,355
 Siskiyou,P2014,U.S. Senate,,DEM,Kamala D. Harris,324
 Siskiyou,P2014,U.S. Senate,,DEM,Loretta L. Sanchez,220
-Siskiyou,P2015,President,,REP/AI,Donald J. Trump,137
+Siskiyou,P2015,President,,REP,Donald J. Trump,137
 Siskiyou,P2015,President,,LIB,Gary Johnson,11
-Siskiyou,P2015,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P2015,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P2015,President,,DEM,Hillary Clinton,223
 Siskiyou,P2015,President,,GRN,Jill Stein,29
-Siskiyou,P2015,President,,WI,Write-In,12
 Siskiyou,P2015,Proposition 51,,,No,195
 Siskiyou,P2015,Proposition 51,,,Yes,203
 Siskiyou,P2015,Proposition 52,,,No,112
@@ -1215,14 +1380,18 @@ Siskiyou,P2015,Proposition 66,,,No,197
 Siskiyou,P2015,Proposition 66,,,Yes,168
 Siskiyou,P2015,Proposition 67,,,No,160
 Siskiyou,P2015,Proposition 67,,,Yes,257
+Siskiyou,P2015,State Assembly,1,REP,Brian Dahle,189
+Siskiyou,P2015,State Assembly,1,LIB,Donn Coenen,164
+Siskiyou,P2015,State Senate,1,DEM,Rob Rowen,249
+Siskiyou,P2015,State Senate,1,REP,Ted Gaines,150
+Siskiyou,P2015,U.S. House,1,REP,Doug La Malfa,153
+Siskiyou,P2015,U.S. House,1,DEM,Jim Reed,258
 Siskiyou,P2015,U.S. Senate,,DEM,Kamala D. Harris,223
 Siskiyou,P2015,U.S. Senate,,DEM,Loretta L. Sanchez,109
-Siskiyou,P2019,President,,REP/AI,Donald J. Trump,342
+Siskiyou,P2019,President,,REP,Donald J. Trump,342
 Siskiyou,P2019,President,,LIB,Gary Johnson,36
-Siskiyou,P2019,President,,PF,Gloria Estela La Riva,0
 Siskiyou,P2019,President,,DEM,Hillary Clinton,311
 Siskiyou,P2019,President,,GRN,Jill Stein,33
-Siskiyou,P2019,President,,WI,Write-In,22
 Siskiyou,P2019,Proposition 51,,,No,381
 Siskiyou,P2019,Proposition 51,,,Yes,339
 Siskiyou,P2019,Proposition 52,,,No,254
@@ -1257,14 +1426,19 @@ Siskiyou,P2019,Proposition 66,,,No,351
 Siskiyou,P2019,Proposition 66,,,Yes,330
 Siskiyou,P2019,Proposition 67,,,No,361
 Siskiyou,P2019,Proposition 67,,,Yes,358
+Siskiyou,P2019,State Assembly,1,REP,Brian Dahle,436
+Siskiyou,P2019,State Assembly,1,LIB,Donn Coenen,216
+Siskiyou,P2019,State Senate,1,DEM,Rob Rowen,341
+Siskiyou,P2019,State Senate,1,REP,Ted Gaines,375
+Siskiyou,P2019,U.S. House,1,REP,Doug La Malfa,367
+Siskiyou,P2019,U.S. House,1,DEM,Jim Reed,368
 Siskiyou,P2019,U.S. Senate,,DEM,Kamala D. Harris,348
 Siskiyou,P2019,U.S. Senate,,DEM,Loretta L. Sanchez,236
-Siskiyou,P2100,President,,REP/AI,Donald J. Trump,267
+Siskiyou,P2100,President,,REP,Donald J. Trump,267
 Siskiyou,P2100,President,,LIB,Gary Johnson,31
-Siskiyou,P2100,President,,PF,Gloria Estela La Riva,5
+Siskiyou,P2100,President,,PAF,Gloria Estela La Riva,5
 Siskiyou,P2100,President,,DEM,Hillary Clinton,353
 Siskiyou,P2100,President,,GRN,Jill Stein,34
-Siskiyou,P2100,President,,WI,Write-In,17
 Siskiyou,P2100,Proposition 51,,,No,344
 Siskiyou,P2100,Proposition 51,,,Yes,342
 Siskiyou,P2100,Proposition 52,,,No,236
@@ -1299,14 +1473,19 @@ Siskiyou,P2100,Proposition 66,,,No,338
 Siskiyou,P2100,Proposition 66,,,Yes,313
 Siskiyou,P2100,Proposition 67,,,No,350
 Siskiyou,P2100,Proposition 67,,,Yes,353
+Siskiyou,P2100,State Assembly,1,REP,Brian Dahle,402
+Siskiyou,P2100,State Assembly,1,LIB,Donn Coenen,247
+Siskiyou,P2100,State Senate,1,DEM,Rob Rowen,366
+Siskiyou,P2100,State Senate,1,REP,Ted Gaines,322
+Siskiyou,P2100,U.S. House,1,REP,Doug La Malfa,307
+Siskiyou,P2100,U.S. House,1,DEM,Jim Reed,393
 Siskiyou,P2100,U.S. Senate,,DEM,Kamala D. Harris,350
 Siskiyou,P2100,U.S. Senate,,DEM,Loretta L. Sanchez,236
-Siskiyou,P2110,President,,REP/AI,Donald J. Trump,154
+Siskiyou,P2110,President,,REP,Donald J. Trump,154
 Siskiyou,P2110,President,,LIB,Gary Johnson,24
-Siskiyou,P2110,President,,PF,Gloria Estela La Riva,4
+Siskiyou,P2110,President,,PAF,Gloria Estela La Riva,4
 Siskiyou,P2110,President,,DEM,Hillary Clinton,250
 Siskiyou,P2110,President,,GRN,Jill Stein,50
-Siskiyou,P2110,President,,WI,Write-In,21
 Siskiyou,P2110,Proposition 51,,,No,215
 Siskiyou,P2110,Proposition 51,,,Yes,255
 Siskiyou,P2110,Proposition 52,,,No,126
@@ -1341,14 +1520,19 @@ Siskiyou,P2110,Proposition 66,,,No,269
 Siskiyou,P2110,Proposition 66,,,Yes,184
 Siskiyou,P2110,Proposition 67,,,No,209
 Siskiyou,P2110,Proposition 67,,,Yes,279
+Siskiyou,P2110,State Assembly,1,REP,Brian Dahle,231
+Siskiyou,P2110,State Assembly,1,LIB,Donn Coenen,192
+Siskiyou,P2110,State Senate,1,DEM,Rob Rowen,297
+Siskiyou,P2110,State Senate,1,REP,Ted Gaines,180
+Siskiyou,P2110,U.S. House,1,REP,Doug La Malfa,167
+Siskiyou,P2110,U.S. House,1,DEM,Jim Reed,321
 Siskiyou,P2110,U.S. Senate,,DEM,Kamala D. Harris,259
 Siskiyou,P2110,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Siskiyou,P2111,President,,REP/AI,Donald J. Trump,201
+Siskiyou,P2111,President,,REP,Donald J. Trump,201
 Siskiyou,P2111,President,,LIB,Gary Johnson,18
-Siskiyou,P2111,President,,PF,Gloria Estela La Riva,6
+Siskiyou,P2111,President,,PAF,Gloria Estela La Riva,6
 Siskiyou,P2111,President,,DEM,Hillary Clinton,351
 Siskiyou,P2111,President,,GRN,Jill Stein,34
-Siskiyou,P2111,President,,WI,Write-In,18
 Siskiyou,P2111,Proposition 51,,,No,282
 Siskiyou,P2111,Proposition 51,,,Yes,301
 Siskiyou,P2111,Proposition 52,,,No,166
@@ -1383,14 +1567,19 @@ Siskiyou,P2111,Proposition 66,,,No,323
 Siskiyou,P2111,Proposition 66,,,Yes,256
 Siskiyou,P2111,Proposition 67,,,No,258
 Siskiyou,P2111,Proposition 67,,,Yes,366
+Siskiyou,P2111,State Assembly,1,REP,Brian Dahle,313
+Siskiyou,P2111,State Assembly,1,LIB,Donn Coenen,217
+Siskiyou,P2111,State Senate,1,DEM,Rob Rowen,361
+Siskiyou,P2111,State Senate,1,REP,Ted Gaines,238
+Siskiyou,P2111,U.S. House,1,REP,Doug La Malfa,230
+Siskiyou,P2111,U.S. House,1,DEM,Jim Reed,393
 Siskiyou,P2111,U.S. Senate,,DEM,Kamala D. Harris,325
 Siskiyou,P2111,U.S. Senate,,DEM,Loretta L. Sanchez,192
-Siskiyou,P2115,President,,REP/AI,Donald J. Trump,153
+Siskiyou,P2115,President,,REP,Donald J. Trump,153
 Siskiyou,P2115,President,,LIB,Gary Johnson,17
-Siskiyou,P2115,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P2115,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P2115,President,,DEM,Hillary Clinton,280
 Siskiyou,P2115,President,,GRN,Jill Stein,30
-Siskiyou,P2115,President,,WI,Write-In,9
 Siskiyou,P2115,Proposition 51,,,No,222
 Siskiyou,P2115,Proposition 51,,,Yes,234
 Siskiyou,P2115,Proposition 52,,,No,150
@@ -1425,14 +1614,18 @@ Siskiyou,P2115,Proposition 66,,,No,258
 Siskiyou,P2115,Proposition 66,,,Yes,175
 Siskiyou,P2115,Proposition 67,,,No,170
 Siskiyou,P2115,Proposition 67,,,Yes,305
+Siskiyou,P2115,State Assembly,1,REP,Brian Dahle,224
+Siskiyou,P2115,State Assembly,1,LIB,Donn Coenen,175
+Siskiyou,P2115,State Senate,1,DEM,Rob Rowen,300
+Siskiyou,P2115,State Senate,1,REP,Ted Gaines,172
+Siskiyou,P2115,U.S. House,1,REP,Doug La Malfa,172
+Siskiyou,P2115,U.S. House,1,DEM,Jim Reed,317
 Siskiyou,P2115,U.S. Senate,,DEM,Kamala D. Harris,265
 Siskiyou,P2115,U.S. Senate,,DEM,Loretta L. Sanchez,143
-Siskiyou,P3001,President,,REP/AI,Donald J. Trump,117
+Siskiyou,P3001,President,,REP,Donald J. Trump,117
 Siskiyou,P3001,President,,LIB,Gary Johnson,12
-Siskiyou,P3001,President,,PF,Gloria Estela La Riva,0
 Siskiyou,P3001,President,,DEM,Hillary Clinton,113
 Siskiyou,P3001,President,,GRN,Jill Stein,5
-Siskiyou,P3001,President,,WI,Write-In,7
 Siskiyou,P3001,Proposition 51,,,No,143
 Siskiyou,P3001,Proposition 51,,,Yes,99
 Siskiyou,P3001,Proposition 52,,,No,95
@@ -1467,14 +1660,65 @@ Siskiyou,P3001,Proposition 66,,,No,115
 Siskiyou,P3001,Proposition 66,,,Yes,111
 Siskiyou,P3001,Proposition 67,,,No,129
 Siskiyou,P3001,Proposition 67,,,Yes,117
+Siskiyou,P3001,State Assembly,1,REP,Brian Dahle,157
+Siskiyou,P3001,State Assembly,1,LIB,Donn Coenen,71
+Siskiyou,P3001,State Senate,1,DEM,Rob Rowen,111
+Siskiyou,P3001,State Senate,1,REP,Ted Gaines,136
+Siskiyou,P3001,U.S. House,1,REP,Doug La Malfa,134
+Siskiyou,P3001,U.S. House,1,DEM,Jim Reed,120
 Siskiyou,P3001,U.S. Senate,,DEM,Kamala D. Harris,122
 Siskiyou,P3001,U.S. Senate,,DEM,Loretta L. Sanchez,79
-Siskiyou,P3006,President,,REP/AI,Donald J. Trump,229
+Siskiyou,P3004,President,,REP,Donald J. Trump,276
+Siskiyou,P3004,President,,LIB,Gary Johnson,10
+Siskiyou,P3004,President,,PAF,Gloria Estela La Riva,2
+Siskiyou,P3004,President,,DEM,Hillary Clinton,76
+Siskiyou,P3004,President,,GRN,Jill Stein,6
+Siskiyou,P3004,Proposition 51,,,No,250
+Siskiyou,P3004,Proposition 51,,,Yes,123
+Siskiyou,P3004,Proposition 52,,,No,166
+Siskiyou,P3004,Proposition 52,,,Yes,199
+Siskiyou,P3004,Proposition 53,,,No,142
+Siskiyou,P3004,Proposition 53,,,Yes,227
+Siskiyou,P3004,Proposition 54,,,No,131
+Siskiyou,P3004,Proposition 54,,,Yes,231
+Siskiyou,P3004,Proposition 55,,,No,201
+Siskiyou,P3004,Proposition 55,,,Yes,165
+Siskiyou,P3004,Proposition 56,,,No,225
+Siskiyou,P3004,Proposition 56,,,Yes,150
+Siskiyou,P3004,Proposition 57,,,No,228
+Siskiyou,P3004,Proposition 57,,,Yes,140
+Siskiyou,P3004,Proposition 58,,,No,153
+Siskiyou,P3004,Proposition 58,,,Yes,223
+Siskiyou,P3004,Proposition 59,,,No,228
+Siskiyou,P3004,Proposition 59,,,Yes,123
+Siskiyou,P3004,Proposition 60,,,No,236
+Siskiyou,P3004,Proposition 60,,,Yes,126
+Siskiyou,P3004,Proposition 61,,,No,228
+Siskiyou,P3004,Proposition 61,,,Yes,133
+Siskiyou,P3004,Proposition 62,,,No,300
+Siskiyou,P3004,Proposition 62,,,Yes,69
+Siskiyou,P3004,Proposition 63,,,No,300
+Siskiyou,P3004,Proposition 63,,,Yes,78
+Siskiyou,P3004,Proposition 64,,,No,226
+Siskiyou,P3004,Proposition 64,,,Yes,153
+Siskiyou,P3004,Proposition 65,,,No,286
+Siskiyou,P3004,Proposition 65,,,Yes,76
+Siskiyou,P3004,Proposition 66,,,No,156
+Siskiyou,P3004,Proposition 66,,,Yes,200
+Siskiyou,P3004,Proposition 67,,,No,255
+Siskiyou,P3004,Proposition 67,,,Yes,112
+Siskiyou,P3004,State Assembly,1,REP,Brian Dahle,303
+Siskiyou,P3004,State Assembly,1,LIB,Donn Coenen,56
+Siskiyou,P3004,State Senate,1,DEM,Rob Rowen,82
+Siskiyou,P3004,State Senate,1,REP,Ted Gaines,286
+Siskiyou,P3004,U.S. House,1,REP,Doug La Malfa,297
+Siskiyou,P3004,U.S. House,1,DEM,Jim Reed,77
+Siskiyou,P3004,U.S. Senate,,DEM,Kamala D. Harris,136
+Siskiyou,P3004,U.S. Senate,,DEM,Loretta L. Sanchez,124
+Siskiyou,P3006,President,,REP,Donald J. Trump,229
 Siskiyou,P3006,President,,LIB,Gary Johnson,17
-Siskiyou,P3006,President,,PF,Gloria Estela La Riva,0
 Siskiyou,P3006,President,,DEM,Hillary Clinton,190
 Siskiyou,P3006,President,,GRN,Jill Stein,8
-Siskiyou,P3006,President,,WI,Write-In,7
 Siskiyou,P3006,Proposition 51,,,No,233
 Siskiyou,P3006,Proposition 51,,,Yes,217
 Siskiyou,P3006,Proposition 52,,,No,164
@@ -1509,14 +1753,19 @@ Siskiyou,P3006,Proposition 66,,,No,207
 Siskiyou,P3006,Proposition 66,,,Yes,230
 Siskiyou,P3006,Proposition 67,,,No,248
 Siskiyou,P3006,Proposition 67,,,Yes,211
+Siskiyou,P3006,State Assembly,1,REP,Brian Dahle,302
+Siskiyou,P3006,State Assembly,1,LIB,Donn Coenen,129
+Siskiyou,P3006,State Senate,1,DEM,Rob Rowen,189
+Siskiyou,P3006,State Senate,1,REP,Ted Gaines,252
+Siskiyou,P3006,U.S. House,1,REP,Doug La Malfa,255
+Siskiyou,P3006,U.S. House,1,DEM,Jim Reed,200
 Siskiyou,P3006,U.S. Senate,,DEM,Kamala D. Harris,212
 Siskiyou,P3006,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Siskiyou,P3007,President,,REP/AI,Donald J. Trump,414
+Siskiyou,P3007,President,,REP,Donald J. Trump,414
 Siskiyou,P3007,President,,LIB,Gary Johnson,25
-Siskiyou,P3007,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P3007,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P3007,President,,DEM,Hillary Clinton,290
 Siskiyou,P3007,President,,GRN,Jill Stein,27
-Siskiyou,P3007,President,,WI,Write-In,18
 Siskiyou,P3007,Proposition 51,,,No,402
 Siskiyou,P3007,Proposition 51,,,Yes,352
 Siskiyou,P3007,Proposition 52,,,No,291
@@ -1551,14 +1800,19 @@ Siskiyou,P3007,Proposition 66,,,No,325
 Siskiyou,P3007,Proposition 66,,,Yes,393
 Siskiyou,P3007,Proposition 67,,,No,450
 Siskiyou,P3007,Proposition 67,,,Yes,320
+Siskiyou,P3007,State Assembly,1,REP,Brian Dahle,498
+Siskiyou,P3007,State Assembly,1,LIB,Donn Coenen,202
+Siskiyou,P3007,State Senate,1,DEM,Rob Rowen,305
+Siskiyou,P3007,State Senate,1,REP,Ted Gaines,438
+Siskiyou,P3007,U.S. House,1,REP,Doug La Malfa,454
+Siskiyou,P3007,U.S. House,1,DEM,Jim Reed,317
 Siskiyou,P3007,U.S. Senate,,DEM,Kamala D. Harris,301
 Siskiyou,P3007,U.S. Senate,,DEM,Loretta L. Sanchez,277
-Siskiyou,P3009,President,,REP/AI,Donald J. Trump,195
+Siskiyou,P3009,President,,REP,Donald J. Trump,195
 Siskiyou,P3009,President,,LIB,Gary Johnson,7
-Siskiyou,P3009,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P3009,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P3009,President,,DEM,Hillary Clinton,167
 Siskiyou,P3009,President,,GRN,Jill Stein,8
-Siskiyou,P3009,President,,WI,Write-In,5
 Siskiyou,P3009,Proposition 51,,,No,219
 Siskiyou,P3009,Proposition 51,,,Yes,143
 Siskiyou,P3009,Proposition 52,,,No,159
@@ -1593,14 +1847,19 @@ Siskiyou,P3009,Proposition 66,,,No,178
 Siskiyou,P3009,Proposition 66,,,Yes,170
 Siskiyou,P3009,Proposition 67,,,No,257
 Siskiyou,P3009,Proposition 67,,,Yes,103
+Siskiyou,P3009,State Assembly,1,REP,Brian Dahle,249
+Siskiyou,P3009,State Assembly,1,LIB,Donn Coenen,88
+Siskiyou,P3009,State Senate,1,DEM,Rob Rowen,129
+Siskiyou,P3009,State Senate,1,REP,Ted Gaines,215
+Siskiyou,P3009,U.S. House,1,REP,Doug La Malfa,225
+Siskiyou,P3009,U.S. House,1,DEM,Jim Reed,122
 Siskiyou,P3009,U.S. Senate,,DEM,Kamala D. Harris,144
 Siskiyou,P3009,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Siskiyou,P3014,President,,REP/AI,Donald J. Trump,209
+Siskiyou,P3014,President,,REP,Donald J. Trump,209
 Siskiyou,P3014,President,,LIB,Gary Johnson,20
-Siskiyou,P3014,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P3014,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P3014,President,,DEM,Hillary Clinton,214
 Siskiyou,P3014,President,,GRN,Jill Stein,17
-Siskiyou,P3014,President,,WI,Write-In,14
 Siskiyou,P3014,Proposition 51,,,No,260
 Siskiyou,P3014,Proposition 51,,,Yes,197
 Siskiyou,P3014,Proposition 52,,,No,159
@@ -1635,14 +1894,18 @@ Siskiyou,P3014,Proposition 66,,,No,230
 Siskiyou,P3014,Proposition 66,,,Yes,218
 Siskiyou,P3014,Proposition 67,,,No,230
 Siskiyou,P3014,Proposition 67,,,Yes,237
+Siskiyou,P3014,State Assembly,1,REP,Brian Dahle,273
+Siskiyou,P3014,State Assembly,1,LIB,Donn Coenen,149
+Siskiyou,P3014,State Senate,1,DEM,Rob Rowen,219
+Siskiyou,P3014,State Senate,1,REP,Ted Gaines,238
+Siskiyou,P3014,U.S. House,1,REP,Doug La Malfa,241
+Siskiyou,P3014,U.S. House,1,DEM,Jim Reed,227
 Siskiyou,P3014,U.S. Senate,,DEM,Kamala D. Harris,241
 Siskiyou,P3014,U.S. Senate,,DEM,Loretta L. Sanchez,123
-Siskiyou,P3021,President,,REP/AI,Donald J. Trump,166
+Siskiyou,P3021,President,,REP,Donald J. Trump,166
 Siskiyou,P3021,President,,LIB,Gary Johnson,15
-Siskiyou,P3021,President,,PF,Gloria Estela La Riva,0
 Siskiyou,P3021,President,,DEM,Hillary Clinton,220
 Siskiyou,P3021,President,,GRN,Jill Stein,15
-Siskiyou,P3021,President,,WI,Write-In,6
 Siskiyou,P3021,Proposition 51,,,No,245
 Siskiyou,P3021,Proposition 51,,,Yes,182
 Siskiyou,P3021,Proposition 52,,,No,151
@@ -1677,14 +1940,160 @@ Siskiyou,P3021,Proposition 66,,,No,214
 Siskiyou,P3021,Proposition 66,,,Yes,176
 Siskiyou,P3021,Proposition 67,,,No,160
 Siskiyou,P3021,Proposition 67,,,Yes,260
+Siskiyou,P3021,State Assembly,1,REP,Brian Dahle,228
+Siskiyou,P3021,State Assembly,1,LIB,Donn Coenen,121
+Siskiyou,P3021,State Senate,1,DEM,Rob Rowen,234
+Siskiyou,P3021,State Senate,1,REP,Ted Gaines,184
+Siskiyou,P3021,U.S. House,1,REP,Doug La Malfa,190
+Siskiyou,P3021,U.S. House,1,DEM,Jim Reed,236
 Siskiyou,P3021,U.S. Senate,,DEM,Kamala D. Harris,237
 Siskiyou,P3021,U.S. Senate,,DEM,Loretta L. Sanchez,94
-Siskiyou,P4110,President,,REP/AI,Donald J. Trump,322
+Siskiyou,P3111,President,,REP,Donald J. Trump,159
+Siskiyou,P3111,President,,LIB,Gary Johnson,23
+Siskiyou,P3111,President,,PAF,Gloria Estela La Riva,1
+Siskiyou,P3111,President,,DEM,Hillary Clinton,185
+Siskiyou,P3111,President,,GRN,Jill Stein,8
+Siskiyou,P3111,Proposition 51,,,No,186
+Siskiyou,P3111,Proposition 51,,,Yes,182
+Siskiyou,P3111,Proposition 52,,,No,155
+Siskiyou,P3111,Proposition 52,,,Yes,212
+Siskiyou,P3111,Proposition 53,,,No,163
+Siskiyou,P3111,Proposition 53,,,Yes,192
+Siskiyou,P3111,Proposition 54,,,No,143
+Siskiyou,P3111,Proposition 54,,,Yes,215
+Siskiyou,P3111,Proposition 55,,,No,133
+Siskiyou,P3111,Proposition 55,,,Yes,240
+Siskiyou,P3111,Proposition 56,,,No,201
+Siskiyou,P3111,Proposition 56,,,Yes,176
+Siskiyou,P3111,Proposition 57,,,No,142
+Siskiyou,P3111,Proposition 57,,,Yes,226
+Siskiyou,P3111,Proposition 58,,,No,116
+Siskiyou,P3111,Proposition 58,,,Yes,247
+Siskiyou,P3111,Proposition 59,,,No,187
+Siskiyou,P3111,Proposition 59,,,Yes,164
+Siskiyou,P3111,Proposition 60,,,No,190
+Siskiyou,P3111,Proposition 60,,,Yes,173
+Siskiyou,P3111,Proposition 61,,,No,206
+Siskiyou,P3111,Proposition 61,,,Yes,153
+Siskiyou,P3111,Proposition 62,,,No,233
+Siskiyou,P3111,Proposition 62,,,Yes,135
+Siskiyou,P3111,Proposition 63,,,No,222
+Siskiyou,P3111,Proposition 63,,,Yes,155
+Siskiyou,P3111,Proposition 64,,,No,143
+Siskiyou,P3111,Proposition 64,,,Yes,236
+Siskiyou,P3111,Proposition 65,,,No,229
+Siskiyou,P3111,Proposition 65,,,Yes,130
+Siskiyou,P3111,Proposition 66,,,No,175
+Siskiyou,P3111,Proposition 66,,,Yes,177
+Siskiyou,P3111,Proposition 67,,,No,213
+Siskiyou,P3111,Proposition 67,,,Yes,150
+Siskiyou,P3111,State Assembly,1,REP,Brian Dahle,224
+Siskiyou,P3111,State Assembly,1,LIB,Donn Coenen,130
+Siskiyou,P3111,State Senate,1,DEM,Rob Rowen,177
+Siskiyou,P3111,State Senate,1,REP,Ted Gaines,176
+Siskiyou,P3111,U.S. House,1,REP,Doug La Malfa,186
+Siskiyou,P3111,U.S. House,1,DEM,Jim Reed,178
+Siskiyou,P3111,U.S. Senate,,DEM,Kamala D. Harris,154
+Siskiyou,P3111,U.S. Senate,,DEM,Loretta L. Sanchez,145
+Siskiyou,P3112,President,,REP,Donald J. Trump,195
+Siskiyou,P3112,President,,LIB,Gary Johnson,20
+Siskiyou,P3112,President,,PAF,Gloria Estela La Riva,4
+Siskiyou,P3112,President,,DEM,Hillary Clinton,191
+Siskiyou,P3112,President,,GRN,Jill Stein,9
+Siskiyou,P3112,Proposition 51,,,No,206
+Siskiyou,P3112,Proposition 51,,,Yes,202
+Siskiyou,P3112,Proposition 52,,,No,143
+Siskiyou,P3112,Proposition 52,,,Yes,263
+Siskiyou,P3112,Proposition 53,,,No,165
+Siskiyou,P3112,Proposition 53,,,Yes,231
+Siskiyou,P3112,Proposition 54,,,No,152
+Siskiyou,P3112,Proposition 54,,,Yes,238
+Siskiyou,P3112,Proposition 55,,,No,157
+Siskiyou,P3112,Proposition 55,,,Yes,252
+Siskiyou,P3112,Proposition 56,,,No,211
+Siskiyou,P3112,Proposition 56,,,Yes,208
+Siskiyou,P3112,Proposition 57,,,No,146
+Siskiyou,P3112,Proposition 57,,,Yes,255
+Siskiyou,P3112,Proposition 58,,,No,106
+Siskiyou,P3112,Proposition 58,,,Yes,297
+Siskiyou,P3112,Proposition 59,,,No,205
+Siskiyou,P3112,Proposition 59,,,Yes,183
+Siskiyou,P3112,Proposition 60,,,No,210
+Siskiyou,P3112,Proposition 60,,,Yes,178
+Siskiyou,P3112,Proposition 61,,,No,231
+Siskiyou,P3112,Proposition 61,,,Yes,173
+Siskiyou,P3112,Proposition 62,,,No,262
+Siskiyou,P3112,Proposition 62,,,Yes,145
+Siskiyou,P3112,Proposition 63,,,No,256
+Siskiyou,P3112,Proposition 63,,,Yes,153
+Siskiyou,P3112,Proposition 64,,,No,167
+Siskiyou,P3112,Proposition 64,,,Yes,252
+Siskiyou,P3112,Proposition 65,,,No,247
+Siskiyou,P3112,Proposition 65,,,Yes,156
+Siskiyou,P3112,Proposition 66,,,No,198
+Siskiyou,P3112,Proposition 66,,,Yes,187
+Siskiyou,P3112,Proposition 67,,,No,236
+Siskiyou,P3112,Proposition 67,,,Yes,178
+Siskiyou,P3112,State Assembly,1,REP,Brian Dahle,223
+Siskiyou,P3112,State Assembly,1,LIB,Donn Coenen,153
+Siskiyou,P3112,State Senate,1,DEM,Rob Rowen,196
+Siskiyou,P3112,State Senate,1,REP,Ted Gaines,201
+Siskiyou,P3112,U.S. House,1,REP,Doug La Malfa,206
+Siskiyou,P3112,U.S. House,1,DEM,Jim Reed,198
+Siskiyou,P3112,U.S. Senate,,DEM,Kamala D. Harris,174
+Siskiyou,P3112,U.S. Senate,,DEM,Loretta L. Sanchez,164
+Siskiyou,P4030,President,,REP,Donald J. Trump,472
+Siskiyou,P4030,President,,LIB,Gary Johnson,19
+Siskiyou,P4030,President,,PAF,Gloria Estela La Riva,4
+Siskiyou,P4030,President,,DEM,Hillary Clinton,116
+Siskiyou,P4030,President,,GRN,Jill Stein,4
+Siskiyou,P4030,Proposition 51,,,No,417
+Siskiyou,P4030,Proposition 51,,,Yes,173
+Siskiyou,P4030,Proposition 52,,,No,315
+Siskiyou,P4030,Proposition 52,,,Yes,276
+Siskiyou,P4030,Proposition 53,,,No,204
+Siskiyou,P4030,Proposition 53,,,Yes,386
+Siskiyou,P4030,Proposition 54,,,No,214
+Siskiyou,P4030,Proposition 54,,,Yes,372
+Siskiyou,P4030,Proposition 55,,,No,367
+Siskiyou,P4030,Proposition 55,,,Yes,232
+Siskiyou,P4030,Proposition 56,,,No,354
+Siskiyou,P4030,Proposition 56,,,Yes,262
+Siskiyou,P4030,Proposition 57,,,No,333
+Siskiyou,P4030,Proposition 57,,,Yes,263
+Siskiyou,P4030,Proposition 58,,,No,213
+Siskiyou,P4030,Proposition 58,,,Yes,390
+Siskiyou,P4030,Proposition 59,,,No,361
+Siskiyou,P4030,Proposition 59,,,Yes,204
+Siskiyou,P4030,Proposition 60,,,No,383
+Siskiyou,P4030,Proposition 60,,,Yes,192
+Siskiyou,P4030,Proposition 61,,,No,384
+Siskiyou,P4030,Proposition 61,,,Yes,202
+Siskiyou,P4030,Proposition 62,,,No,467
+Siskiyou,P4030,Proposition 62,,,Yes,126
+Siskiyou,P4030,Proposition 63,,,No,503
+Siskiyou,P4030,Proposition 63,,,Yes,107
+Siskiyou,P4030,Proposition 64,,,No,365
+Siskiyou,P4030,Proposition 64,,,Yes,256
+Siskiyou,P4030,Proposition 65,,,No,460
+Siskiyou,P4030,Proposition 65,,,Yes,139
+Siskiyou,P4030,Proposition 66,,,No,238
+Siskiyou,P4030,Proposition 66,,,Yes,331
+Siskiyou,P4030,Proposition 67,,,No,429
+Siskiyou,P4030,Proposition 67,,,Yes,172
+Siskiyou,P4030,State Assembly,1,REP,Brian Dahle,495
+Siskiyou,P4030,State Assembly,1,LIB,Donn Coenen,90
+Siskiyou,P4030,State Senate,1,DEM,Rob Rowen,112
+Siskiyou,P4030,State Senate,1,REP,Ted Gaines,475
+Siskiyou,P4030,U.S. House,1,REP,Doug La Malfa,503
+Siskiyou,P4030,U.S. House,1,DEM,Jim Reed,102
+Siskiyou,P4030,U.S. Senate,,DEM,Kamala D. Harris,206
+Siskiyou,P4030,U.S. Senate,,DEM,Loretta L. Sanchez,181
+Siskiyou,P4110,President,,REP,Donald J. Trump,322
 Siskiyou,P4110,President,,LIB,Gary Johnson,38
-Siskiyou,P4110,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P4110,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P4110,President,,DEM,Hillary Clinton,182
 Siskiyou,P4110,President,,GRN,Jill Stein,11
-Siskiyou,P4110,President,,WI,Write-In,11
 Siskiyou,P4110,Proposition 51,,,No,292
 Siskiyou,P4110,Proposition 51,,,Yes,253
 Siskiyou,P4110,Proposition 52,,,No,187
@@ -1719,14 +2128,19 @@ Siskiyou,P4110,Proposition 66,,,No,260
 Siskiyou,P4110,Proposition 66,,,Yes,267
 Siskiyou,P4110,Proposition 67,,,No,347
 Siskiyou,P4110,Proposition 67,,,Yes,207
+Siskiyou,P4110,State Assembly,1,REP,Brian Dahle,357
+Siskiyou,P4110,State Assembly,1,LIB,Donn Coenen,156
+Siskiyou,P4110,State Senate,1,DEM,Rob Rowen,193
+Siskiyou,P4110,State Senate,1,REP,Ted Gaines,346
+Siskiyou,P4110,U.S. House,1,REP,Doug La Malfa,343
+Siskiyou,P4110,U.S. House,1,DEM,Jim Reed,212
 Siskiyou,P4110,U.S. Senate,,DEM,Kamala D. Harris,244
 Siskiyou,P4110,U.S. Senate,,DEM,Loretta L. Sanchez,192
-Siskiyou,P4112,President,,REP/AI,Donald J. Trump,312
+Siskiyou,P4112,President,,REP,Donald J. Trump,312
 Siskiyou,P4112,President,,LIB,Gary Johnson,25
-Siskiyou,P4112,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P4112,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P4112,President,,DEM,Hillary Clinton,189
 Siskiyou,P4112,President,,GRN,Jill Stein,5
-Siskiyou,P4112,President,,WI,Write-In,9
 Siskiyou,P4112,Proposition 51,,,No,310
 Siskiyou,P4112,Proposition 51,,,Yes,215
 Siskiyou,P4112,Proposition 52,,,No,199
@@ -1761,14 +2175,19 @@ Siskiyou,P4112,Proposition 66,,,No,249
 Siskiyou,P4112,Proposition 66,,,Yes,251
 Siskiyou,P4112,Proposition 67,,,No,331
 Siskiyou,P4112,Proposition 67,,,Yes,201
+Siskiyou,P4112,State Assembly,1,REP,Brian Dahle,390
+Siskiyou,P4112,State Assembly,1,LIB,Donn Coenen,111
+Siskiyou,P4112,State Senate,1,DEM,Rob Rowen,188
+Siskiyou,P4112,State Senate,1,REP,Ted Gaines,334
+Siskiyou,P4112,U.S. House,1,REP,Doug La Malfa,357
+Siskiyou,P4112,U.S. House,1,DEM,Jim Reed,180
 Siskiyou,P4112,U.S. Senate,,DEM,Kamala D. Harris,227
 Siskiyou,P4112,U.S. Senate,,DEM,Loretta L. Sanchez,170
-Siskiyou,P4115,President,,REP/AI,Donald J. Trump,330
+Siskiyou,P4115,President,,REP,Donald J. Trump,330
 Siskiyou,P4115,President,,LIB,Gary Johnson,25
-Siskiyou,P4115,President,,PF,Gloria Estela La Riva,7
+Siskiyou,P4115,President,,PAF,Gloria Estela La Riva,7
 Siskiyou,P4115,President,,DEM,Hillary Clinton,175
 Siskiyou,P4115,President,,GRN,Jill Stein,3
-Siskiyou,P4115,President,,WI,Write-In,8
 Siskiyou,P4115,Proposition 51,,,No,328
 Siskiyou,P4115,Proposition 51,,,Yes,196
 Siskiyou,P4115,Proposition 52,,,No,229
@@ -1803,14 +2222,19 @@ Siskiyou,P4115,Proposition 66,,,No,232
 Siskiyou,P4115,Proposition 66,,,Yes,269
 Siskiyou,P4115,Proposition 67,,,No,350
 Siskiyou,P4115,Proposition 67,,,Yes,181
+Siskiyou,P4115,State Assembly,1,REP,Brian Dahle,364
+Siskiyou,P4115,State Assembly,1,LIB,Donn Coenen,145
+Siskiyou,P4115,State Senate,1,DEM,Rob Rowen,194
+Siskiyou,P4115,State Senate,1,REP,Ted Gaines,333
+Siskiyou,P4115,U.S. House,1,REP,Doug La Malfa,351
+Siskiyou,P4115,U.S. House,1,DEM,Jim Reed,197
 Siskiyou,P4115,U.S. Senate,,DEM,Kamala D. Harris,201
 Siskiyou,P4115,U.S. Senate,,DEM,Loretta L. Sanchez,210
-Siskiyou,P4116,President,,REP/AI,Donald J. Trump,231
+Siskiyou,P4116,President,,REP,Donald J. Trump,231
 Siskiyou,P4116,President,,LIB,Gary Johnson,20
-Siskiyou,P4116,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P4116,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P4116,President,,DEM,Hillary Clinton,129
 Siskiyou,P4116,President,,GRN,Jill Stein,6
-Siskiyou,P4116,President,,WI,Write-In,7
 Siskiyou,P4116,Proposition 51,,,No,226
 Siskiyou,P4116,Proposition 51,,,Yes,160
 Siskiyou,P4116,Proposition 52,,,No,147
@@ -1845,14 +2269,19 @@ Siskiyou,P4116,Proposition 66,,,No,180
 Siskiyou,P4116,Proposition 66,,,Yes,187
 Siskiyou,P4116,Proposition 67,,,No,244
 Siskiyou,P4116,Proposition 67,,,Yes,145
+Siskiyou,P4116,State Assembly,1,REP,Brian Dahle,264
+Siskiyou,P4116,State Assembly,1,LIB,Donn Coenen,101
+Siskiyou,P4116,State Senate,1,DEM,Rob Rowen,120
+Siskiyou,P4116,State Senate,1,REP,Ted Gaines,253
+Siskiyou,P4116,U.S. House,1,REP,Doug La Malfa,248
+Siskiyou,P4116,U.S. House,1,DEM,Jim Reed,139
 Siskiyou,P4116,U.S. Senate,,DEM,Kamala D. Harris,157
 Siskiyou,P4116,U.S. Senate,,DEM,Loretta L. Sanchez,134
-Siskiyou,P4118,President,,REP/AI,Donald J. Trump,314
+Siskiyou,P4118,President,,REP,Donald J. Trump,314
 Siskiyou,P4118,President,,LIB,Gary Johnson,26
-Siskiyou,P4118,President,,PF,Gloria Estela La Riva,6
+Siskiyou,P4118,President,,PAF,Gloria Estela La Riva,6
 Siskiyou,P4118,President,,DEM,Hillary Clinton,175
 Siskiyou,P4118,President,,GRN,Jill Stein,13
-Siskiyou,P4118,President,,WI,Write-In,4
 Siskiyou,P4118,Proposition 51,,,No,308
 Siskiyou,P4118,Proposition 51,,,Yes,201
 Siskiyou,P4118,Proposition 52,,,No,216
@@ -1887,14 +2316,18 @@ Siskiyou,P4118,Proposition 66,,,No,209
 Siskiyou,P4118,Proposition 66,,,Yes,277
 Siskiyou,P4118,Proposition 67,,,No,370
 Siskiyou,P4118,Proposition 67,,,Yes,146
+Siskiyou,P4118,State Assembly,1,REP,Brian Dahle,376
+Siskiyou,P4118,State Assembly,1,LIB,Donn Coenen,116
+Siskiyou,P4118,State Senate,1,DEM,Rob Rowen,164
+Siskiyou,P4118,State Senate,1,REP,Ted Gaines,335
+Siskiyou,P4118,U.S. House,1,REP,Doug La Malfa,340
+Siskiyou,P4118,U.S. House,1,DEM,Jim Reed,174
 Siskiyou,P4118,U.S. Senate,,DEM,Kamala D. Harris,229
 Siskiyou,P4118,U.S. Senate,,DEM,Loretta L. Sanchez,160
-Siskiyou,P4121,President,,REP/AI,Donald J. Trump,320
+Siskiyou,P4121,President,,REP,Donald J. Trump,320
 Siskiyou,P4121,President,,LIB,Gary Johnson,35
-Siskiyou,P4121,President,,PF,Gloria Estela La Riva,0
 Siskiyou,P4121,President,,DEM,Hillary Clinton,130
 Siskiyou,P4121,President,,GRN,Jill Stein,5
-Siskiyou,P4121,President,,WI,Write-In,7
 Siskiyou,P4121,Proposition 51,,,No,302
 Siskiyou,P4121,Proposition 51,,,Yes,176
 Siskiyou,P4121,Proposition 52,,,No,196
@@ -1929,14 +2362,19 @@ Siskiyou,P4121,Proposition 66,,,No,205
 Siskiyou,P4121,Proposition 66,,,Yes,263
 Siskiyou,P4121,Proposition 67,,,No,320
 Siskiyou,P4121,Proposition 67,,,Yes,171
+Siskiyou,P4121,State Assembly,1,REP,Brian Dahle,382
+Siskiyou,P4121,State Assembly,1,LIB,Donn Coenen,89
+Siskiyou,P4121,State Senate,1,DEM,Rob Rowen,130
+Siskiyou,P4121,State Senate,1,REP,Ted Gaines,355
+Siskiyou,P4121,U.S. House,1,REP,Doug La Malfa,359
+Siskiyou,P4121,U.S. House,1,DEM,Jim Reed,137
 Siskiyou,P4121,U.S. Senate,,DEM,Kamala D. Harris,210
 Siskiyou,P4121,U.S. Senate,,DEM,Loretta L. Sanchez,149
-Siskiyou,P5005,President,,REP/AI,Donald J. Trump,475
+Siskiyou,P5005,President,,REP,Donald J. Trump,475
 Siskiyou,P5005,President,,LIB,Gary Johnson,42
-Siskiyou,P5005,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P5005,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P5005,President,,DEM,Hillary Clinton,194
 Siskiyou,P5005,President,,GRN,Jill Stein,8
-Siskiyou,P5005,President,,WI,Write-In,8
 Siskiyou,P5005,Proposition 51,,,No,523
 Siskiyou,P5005,Proposition 51,,,Yes,206
 Siskiyou,P5005,Proposition 52,,,No,309
@@ -1971,14 +2409,19 @@ Siskiyou,P5005,Proposition 66,,,No,328
 Siskiyou,P5005,Proposition 66,,,Yes,363
 Siskiyou,P5005,Proposition 67,,,No,506
 Siskiyou,P5005,Proposition 67,,,Yes,229
+Siskiyou,P5005,State Assembly,1,REP,Brian Dahle,588
+Siskiyou,P5005,State Assembly,1,LIB,Donn Coenen,123
+Siskiyou,P5005,State Senate,1,DEM,Rob Rowen,182
+Siskiyou,P5005,State Senate,1,REP,Ted Gaines,540
+Siskiyou,P5005,U.S. House,1,REP,Doug La Malfa,549
+Siskiyou,P5005,U.S. House,1,DEM,Jim Reed,190
 Siskiyou,P5005,U.S. Senate,,DEM,Kamala D. Harris,280
 Siskiyou,P5005,U.S. Senate,,DEM,Loretta L. Sanchez,247
-Siskiyou,P5008,President,,REP/AI,Donald J. Trump,303
+Siskiyou,P5008,President,,REP,Donald J. Trump,303
 Siskiyou,P5008,President,,LIB,Gary Johnson,20
-Siskiyou,P5008,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P5008,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P5008,President,,DEM,Hillary Clinton,93
 Siskiyou,P5008,President,,GRN,Jill Stein,3
-Siskiyou,P5008,President,,WI,Write-In,7
 Siskiyou,P5008,Proposition 51,,,No,333
 Siskiyou,P5008,Proposition 51,,,Yes,100
 Siskiyou,P5008,Proposition 52,,,No,202
@@ -2013,14 +2456,19 @@ Siskiyou,P5008,Proposition 66,,,No,174
 Siskiyou,P5008,Proposition 66,,,Yes,239
 Siskiyou,P5008,Proposition 67,,,No,297
 Siskiyou,P5008,Proposition 67,,,Yes,139
+Siskiyou,P5008,State Assembly,1,REP,Brian Dahle,339
+Siskiyou,P5008,State Assembly,1,LIB,Donn Coenen,85
+Siskiyou,P5008,State Senate,1,DEM,Rob Rowen,92
+Siskiyou,P5008,State Senate,1,REP,Ted Gaines,335
+Siskiyou,P5008,U.S. House,1,REP,Doug La Malfa,341
+Siskiyou,P5008,U.S. House,1,DEM,Jim Reed,96
 Siskiyou,P5008,U.S. Senate,,DEM,Kamala D. Harris,175
 Siskiyou,P5008,U.S. Senate,,DEM,Loretta L. Sanchez,125
-Siskiyou,P5011,President,,REP/AI,Donald J. Trump,266
+Siskiyou,P5011,President,,REP,Donald J. Trump,266
 Siskiyou,P5011,President,,LIB,Gary Johnson,19
-Siskiyou,P5011,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P5011,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P5011,President,,DEM,Hillary Clinton,126
 Siskiyou,P5011,President,,GRN,Jill Stein,23
-Siskiyou,P5011,President,,WI,Write-In,8
 Siskiyou,P5011,Proposition 51,,,No,253
 Siskiyou,P5011,Proposition 51,,,Yes,173
 Siskiyou,P5011,Proposition 52,,,No,157
@@ -2055,14 +2503,19 @@ Siskiyou,P5011,Proposition 66,,,No,236
 Siskiyou,P5011,Proposition 66,,,Yes,177
 Siskiyou,P5011,Proposition 67,,,No,272
 Siskiyou,P5011,Proposition 67,,,Yes,163
+Siskiyou,P5011,State Assembly,1,REP,Brian Dahle,271
+Siskiyou,P5011,State Assembly,1,LIB,Donn Coenen,131
+Siskiyou,P5011,State Senate,1,DEM,Rob Rowen,162
+Siskiyou,P5011,State Senate,1,REP,Ted Gaines,255
+Siskiyou,P5011,U.S. House,1,REP,Doug La Malfa,258
+Siskiyou,P5011,U.S. House,1,DEM,Jim Reed,170
 Siskiyou,P5011,U.S. Senate,,DEM,Kamala D. Harris,205
 Siskiyou,P5011,U.S. Senate,,DEM,Loretta L. Sanchez,130
-Siskiyou,P5012,President,,REP/AI,Donald J. Trump,158
+Siskiyou,P5012,President,,REP,Donald J. Trump,158
 Siskiyou,P5012,President,,LIB,Gary Johnson,6
-Siskiyou,P5012,President,,PF,Gloria Estela La Riva,1
+Siskiyou,P5012,President,,PAF,Gloria Estela La Riva,1
 Siskiyou,P5012,President,,DEM,Hillary Clinton,73
 Siskiyou,P5012,President,,GRN,Jill Stein,12
-Siskiyou,P5012,President,,WI,Write-In,1
 Siskiyou,P5012,Proposition 51,,,No,155
 Siskiyou,P5012,Proposition 51,,,Yes,79
 Siskiyou,P5012,Proposition 52,,,No,113
@@ -2097,14 +2550,19 @@ Siskiyou,P5012,Proposition 66,,,No,121
 Siskiyou,P5012,Proposition 66,,,Yes,98
 Siskiyou,P5012,Proposition 67,,,No,170
 Siskiyou,P5012,Proposition 67,,,Yes,64
+Siskiyou,P5012,State Assembly,1,REP,Brian Dahle,156
+Siskiyou,P5012,State Assembly,1,LIB,Donn Coenen,63
+Siskiyou,P5012,State Senate,1,DEM,Rob Rowen,73
+Siskiyou,P5012,State Senate,1,REP,Ted Gaines,156
+Siskiyou,P5012,U.S. House,1,REP,Doug La Malfa,161
+Siskiyou,P5012,U.S. House,1,DEM,Jim Reed,72
 Siskiyou,P5012,U.S. Senate,,DEM,Kamala D. Harris,84
 Siskiyou,P5012,U.S. Senate,,DEM,Loretta L. Sanchez,79
-Siskiyou,P5095,President,,REP/AI,Donald J. Trump,435
+Siskiyou,P5095,President,,REP,Donald J. Trump,435
 Siskiyou,P5095,President,,LIB,Gary Johnson,26
-Siskiyou,P5095,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P5095,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P5095,President,,DEM,Hillary Clinton,153
 Siskiyou,P5095,President,,GRN,Jill Stein,11
-Siskiyou,P5095,President,,WI,Write-In,11
 Siskiyou,P5095,Proposition 51,,,No,428
 Siskiyou,P5095,Proposition 51,,,Yes,199
 Siskiyou,P5095,Proposition 52,,,No,300
@@ -2139,14 +2597,19 @@ Siskiyou,P5095,Proposition 66,,,No,269
 Siskiyou,P5095,Proposition 66,,,Yes,326
 Siskiyou,P5095,Proposition 67,,,No,417
 Siskiyou,P5095,Proposition 67,,,Yes,212
+Siskiyou,P5095,State Assembly,1,REP,Brian Dahle,477
+Siskiyou,P5095,State Assembly,1,LIB,Donn Coenen,135
+Siskiyou,P5095,State Senate,1,DEM,Rob Rowen,169
+Siskiyou,P5095,State Senate,1,REP,Ted Gaines,454
+Siskiyou,P5095,U.S. House,1,REP,Doug La Malfa,469
+Siskiyou,P5095,U.S. House,1,DEM,Jim Reed,164
 Siskiyou,P5095,U.S. Senate,,DEM,Kamala D. Harris,230
 Siskiyou,P5095,U.S. Senate,,DEM,Loretta L. Sanchez,186
-Siskiyou,P5103,President,,REP/AI,Donald J. Trump,195
+Siskiyou,P5103,President,,REP,Donald J. Trump,195
 Siskiyou,P5103,President,,LIB,Gary Johnson,13
-Siskiyou,P5103,President,,PF,Gloria Estela La Riva,4
+Siskiyou,P5103,President,,PAF,Gloria Estela La Riva,4
 Siskiyou,P5103,President,,DEM,Hillary Clinton,102
 Siskiyou,P5103,President,,GRN,Jill Stein,3
-Siskiyou,P5103,President,,WI,Write-In,10
 Siskiyou,P5103,Proposition 51,,,No,212
 Siskiyou,P5103,Proposition 51,,,Yes,108
 Siskiyou,P5103,Proposition 52,,,No,144
@@ -2181,14 +2644,19 @@ Siskiyou,P5103,Proposition 66,,,No,153
 Siskiyou,P5103,Proposition 66,,,Yes,135
 Siskiyou,P5103,Proposition 67,,,No,193
 Siskiyou,P5103,Proposition 67,,,Yes,123
+Siskiyou,P5103,State Assembly,1,REP,Brian Dahle,241
+Siskiyou,P5103,State Assembly,1,LIB,Donn Coenen,58
+Siskiyou,P5103,State Senate,1,DEM,Rob Rowen,90
+Siskiyou,P5103,State Senate,1,REP,Ted Gaines,219
+Siskiyou,P5103,U.S. House,1,REP,Doug La Malfa,227
+Siskiyou,P5103,U.S. House,1,DEM,Jim Reed,91
 Siskiyou,P5103,U.S. Senate,,DEM,Kamala D. Harris,141
 Siskiyou,P5103,U.S. Senate,,DEM,Loretta L. Sanchez,100
-Siskiyou,P5107,President,,REP/AI,Donald J. Trump,172
+Siskiyou,P5107,President,,REP,Donald J. Trump,172
 Siskiyou,P5107,President,,LIB,Gary Johnson,16
-Siskiyou,P5107,President,,PF,Gloria Estela La Riva,2
+Siskiyou,P5107,President,,PAF,Gloria Estela La Riva,2
 Siskiyou,P5107,President,,DEM,Hillary Clinton,84
 Siskiyou,P5107,President,,GRN,Jill Stein,5
-Siskiyou,P5107,President,,WI,Write-In,6
 Siskiyou,P5107,Proposition 51,,,No,168
 Siskiyou,P5107,Proposition 51,,,Yes,109
 Siskiyou,P5107,Proposition 52,,,No,123
@@ -2223,47 +2691,11 @@ Siskiyou,P5107,Proposition 66,,,No,140
 Siskiyou,P5107,Proposition 66,,,Yes,128
 Siskiyou,P5107,Proposition 67,,,No,176
 Siskiyou,P5107,Proposition 67,,,Yes,105
+Siskiyou,P5107,State Assembly,1,REP,Brian Dahle,194
+Siskiyou,P5107,State Assembly,1,LIB,Donn Coenen,74
+Siskiyou,P5107,State Senate,1,DEM,Rob Rowen,85
+Siskiyou,P5107,State Senate,1,REP,Ted Gaines,188
+Siskiyou,P5107,U.S. House,1,REP,Doug La Malfa,200
+Siskiyou,P5107,U.S. House,1,DEM,Jim Reed,85
 Siskiyou,P5107,U.S. Senate,,DEM,Kamala D. Harris,121
 Siskiyou,P5107,U.S. Senate,,DEM,Loretta L. Sanchez,96
-Siskiyou,WEED,President,,REP/AI,Donald J. Trump,354
-Siskiyou,WEED,President,,LIB,Gary Johnson,43
-Siskiyou,WEED,President,,PF,Gloria Estela La Riva,5
-Siskiyou,WEED,President,,DEM,Hillary Clinton,376
-Siskiyou,WEED,President,,GRN,Jill Stein,17
-Siskiyou,WEED,President,,WI,Write-In,30
-Siskiyou,WEED,Proposition 51,,,No,392
-Siskiyou,WEED,Proposition 51,,,Yes,384
-Siskiyou,WEED,Proposition 52,,,No,298
-Siskiyou,WEED,Proposition 52,,,Yes,475
-Siskiyou,WEED,Proposition 53,,,No,328
-Siskiyou,WEED,Proposition 53,,,Yes,423
-Siskiyou,WEED,Proposition 54,,,No,295
-Siskiyou,WEED,Proposition 54,,,Yes,453
-Siskiyou,WEED,Proposition 55,,,No,290
-Siskiyou,WEED,Proposition 55,,,Yes,492
-Siskiyou,WEED,Proposition 56,,,No,412
-Siskiyou,WEED,Proposition 56,,,Yes,384
-Siskiyou,WEED,Proposition 57,,,No,288
-Siskiyou,WEED,Proposition 57,,,Yes,481
-Siskiyou,WEED,Proposition 58,,,No,222
-Siskiyou,WEED,Proposition 58,,,Yes,544
-Siskiyou,WEED,Proposition 59,,,No,392
-Siskiyou,WEED,Proposition 59,,,Yes,347
-Siskiyou,WEED,Proposition 60,,,No,400
-Siskiyou,WEED,Proposition 60,,,Yes,351
-Siskiyou,WEED,Proposition 61,,,No,437
-Siskiyou,WEED,Proposition 61,,,Yes,326
-Siskiyou,WEED,Proposition 62,,,No,495
-Siskiyou,WEED,Proposition 62,,,Yes,280
-Siskiyou,WEED,Proposition 63,,,No,478
-Siskiyou,WEED,Proposition 63,,,Yes,308
-Siskiyou,WEED,Proposition 64,,,No,310
-Siskiyou,WEED,Proposition 64,,,Yes,488
-Siskiyou,WEED,Proposition 65,,,No,476
-Siskiyou,WEED,Proposition 65,,,Yes,286
-Siskiyou,WEED,Proposition 66,,,No,373
-Siskiyou,WEED,Proposition 66,,,Yes,364
-Siskiyou,WEED,Proposition 67,,,No,449
-Siskiyou,WEED,Proposition 67,,,Yes,328
-Siskiyou,WEED,U.S. Senate,,DEM,Kamala D. Harris,328
-Siskiyou,WEED,U.S. Senate,,DEM,Loretta L. Sanchez,309

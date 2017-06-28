@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Yolo,100001,President,,REP/AI,Donald J. Trump,254
+Yolo,100001,President,,REP,Donald J. Trump,254
 Yolo,100001,President,,LIB,Gary Johnson,41
-Yolo,100001,President,,PF,Gloria Estela La Riva,8
+Yolo,100001,President,,PAF,Gloria Estela La Riva,8
 Yolo,100001,President,,DEM,Hillary Clinton,578
 Yolo,100001,President,,GRN,Jill Stein,17
-Yolo,100001,President,,WI,Write-In,19
 Yolo,100001,Proposition 51,,,No,398
 Yolo,100001,Proposition 51,,,Yes,460
 Yolo,100001,Proposition 52,,,No,286
@@ -39,14 +38,17 @@ Yolo,100001,Proposition 66,,,No,425
 Yolo,100001,Proposition 66,,,Yes,443
 Yolo,100001,Proposition 67,,,No,415
 Yolo,100001,Proposition 67,,,Yes,492
+Yolo,100001,State Assembly,7,DEM,Kevin McCarty,572
+Yolo,100001,State Assembly,7,REP,Ryan K. Brown,291
+Yolo,100001,U.S. House,6,DEM,Doris Matsui,633
+Yolo,100001,U.S. House,6,REP,Robert (Bob) Evans,242
 Yolo,100001,U.S. Senate,,DEM,Kamala D. Harris,528
 Yolo,100001,U.S. Senate,,DEM,Loretta L. Sanchez,287
-Yolo,100002,President,,REP/AI,Donald J. Trump,197
+Yolo,100002,President,,REP,Donald J. Trump,197
 Yolo,100002,President,,LIB,Gary Johnson,36
-Yolo,100002,President,,PF,Gloria Estela La Riva,9
+Yolo,100002,President,,PAF,Gloria Estela La Riva,9
 Yolo,100002,President,,DEM,Hillary Clinton,622
 Yolo,100002,President,,GRN,Jill Stein,11
-Yolo,100002,President,,WI,Write-In,13
 Yolo,100002,Proposition 51,,,No,338
 Yolo,100002,Proposition 51,,,Yes,500
 Yolo,100002,Proposition 52,,,No,223
@@ -81,14 +83,17 @@ Yolo,100002,Proposition 66,,,No,426
 Yolo,100002,Proposition 66,,,Yes,397
 Yolo,100002,Proposition 67,,,No,393
 Yolo,100002,Proposition 67,,,Yes,470
+Yolo,100002,State Assembly,7,DEM,Kevin McCarty,564
+Yolo,100002,State Assembly,7,REP,Ryan K. Brown,265
+Yolo,100002,U.S. House,6,DEM,Doris Matsui,617
+Yolo,100002,U.S. House,6,REP,Robert (Bob) Evans,228
 Yolo,100002,U.S. Senate,,DEM,Kamala D. Harris,485
 Yolo,100002,U.S. Senate,,DEM,Loretta L. Sanchez,297
-Yolo,100003,President,,REP/AI,Donald J. Trump,268
+Yolo,100003,President,,REP,Donald J. Trump,268
 Yolo,100003,President,,LIB,Gary Johnson,43
-Yolo,100003,President,,PF,Gloria Estela La Riva,10
+Yolo,100003,President,,PAF,Gloria Estela La Riva,10
 Yolo,100003,President,,DEM,Hillary Clinton,702
 Yolo,100003,President,,GRN,Jill Stein,22
-Yolo,100003,President,,WI,Write-In,15
 Yolo,100003,Proposition 51,,,No,396
 Yolo,100003,Proposition 51,,,Yes,609
 Yolo,100003,Proposition 52,,,No,277
@@ -123,14 +128,17 @@ Yolo,100003,Proposition 66,,,No,491
 Yolo,100003,Proposition 66,,,Yes,519
 Yolo,100003,Proposition 67,,,No,538
 Yolo,100003,Proposition 67,,,Yes,503
+Yolo,100003,State Assembly,7,DEM,Kevin McCarty,709
+Yolo,100003,State Assembly,7,REP,Ryan K. Brown,295
+Yolo,100003,U.S. House,6,DEM,Doris Matsui,764
+Yolo,100003,U.S. House,6,REP,Robert (Bob) Evans,259
 Yolo,100003,U.S. Senate,,DEM,Kamala D. Harris,519
 Yolo,100003,U.S. Senate,,DEM,Loretta L. Sanchez,423
-Yolo,100004,President,,REP/AI,Donald J. Trump,220
+Yolo,100004,President,,REP,Donald J. Trump,220
 Yolo,100004,President,,LIB,Gary Johnson,24
-Yolo,100004,President,,PF,Gloria Estela La Riva,4
+Yolo,100004,President,,PAF,Gloria Estela La Riva,4
 Yolo,100004,President,,DEM,Hillary Clinton,369
 Yolo,100004,President,,GRN,Jill Stein,18
-Yolo,100004,President,,WI,Write-In,11
 Yolo,100004,Proposition 51,,,No,267
 Yolo,100004,Proposition 51,,,Yes,344
 Yolo,100004,Proposition 52,,,No,186
@@ -165,14 +173,17 @@ Yolo,100004,Proposition 66,,,No,255
 Yolo,100004,Proposition 66,,,Yes,363
 Yolo,100004,Proposition 67,,,No,354
 Yolo,100004,Proposition 67,,,Yes,291
+Yolo,100004,State Assembly,7,DEM,Kevin McCarty,356
+Yolo,100004,State Assembly,7,REP,Ryan K. Brown,259
+Yolo,100004,U.S. House,6,DEM,Doris Matsui,409
+Yolo,100004,U.S. House,6,REP,Robert (Bob) Evans,216
 Yolo,100004,U.S. Senate,,DEM,Kamala D. Harris,345
 Yolo,100004,U.S. Senate,,DEM,Loretta L. Sanchez,216
-Yolo,100005,President,,REP/AI,Donald J. Trump,207
+Yolo,100005,President,,REP,Donald J. Trump,207
 Yolo,100005,President,,LIB,Gary Johnson,17
-Yolo,100005,President,,PF,Gloria Estela La Riva,4
+Yolo,100005,President,,PAF,Gloria Estela La Riva,4
 Yolo,100005,President,,DEM,Hillary Clinton,357
 Yolo,100005,President,,GRN,Jill Stein,11
-Yolo,100005,President,,WI,Write-In,7
 Yolo,100005,Proposition 51,,,No,267
 Yolo,100005,Proposition 51,,,Yes,299
 Yolo,100005,Proposition 52,,,No,166
@@ -207,14 +218,17 @@ Yolo,100005,Proposition 66,,,No,260
 Yolo,100005,Proposition 66,,,Yes,300
 Yolo,100005,Proposition 67,,,No,293
 Yolo,100005,Proposition 67,,,Yes,297
+Yolo,100005,State Assembly,7,DEM,Kevin McCarty,341
+Yolo,100005,State Assembly,7,REP,Ryan K. Brown,234
+Yolo,100005,U.S. House,6,DEM,Doris Matsui,385
+Yolo,100005,U.S. House,6,REP,Robert (Bob) Evans,198
 Yolo,100005,U.S. Senate,,DEM,Kamala D. Harris,336
 Yolo,100005,U.S. Senate,,DEM,Loretta L. Sanchez,192
-Yolo,100006,President,,REP/AI,Donald J. Trump,498
+Yolo,100006,President,,REP,Donald J. Trump,498
 Yolo,100006,President,,LIB,Gary Johnson,61
-Yolo,100006,President,,PF,Gloria Estela La Riva,4
+Yolo,100006,President,,PAF,Gloria Estela La Riva,4
 Yolo,100006,President,,DEM,Hillary Clinton,763
 Yolo,100006,President,,GRN,Jill Stein,23
-Yolo,100006,President,,WI,Write-In,24
 Yolo,100006,Proposition 51,,,No,688
 Yolo,100006,Proposition 51,,,Yes,591
 Yolo,100006,Proposition 52,,,No,417
@@ -249,14 +263,17 @@ Yolo,100006,Proposition 66,,,No,601
 Yolo,100006,Proposition 66,,,Yes,663
 Yolo,100006,Proposition 67,,,No,691
 Yolo,100006,Proposition 67,,,Yes,648
+Yolo,100006,State Assembly,7,DEM,Kevin McCarty,756
+Yolo,100006,State Assembly,7,REP,Ryan K. Brown,535
+Yolo,100006,U.S. House,6,DEM,Doris Matsui,853
+Yolo,100006,U.S. House,6,REP,Robert (Bob) Evans,469
 Yolo,100006,U.S. Senate,,DEM,Kamala D. Harris,775
 Yolo,100006,U.S. Senate,,DEM,Loretta L. Sanchez,400
-Yolo,100007,President,,REP/AI,Donald J. Trump,371
+Yolo,100007,President,,REP,Donald J. Trump,371
 Yolo,100007,President,,LIB,Gary Johnson,54
-Yolo,100007,President,,PF,Gloria Estela La Riva,6
+Yolo,100007,President,,PAF,Gloria Estela La Riva,6
 Yolo,100007,President,,DEM,Hillary Clinton,599
 Yolo,100007,President,,GRN,Jill Stein,23
-Yolo,100007,President,,WI,Write-In,22
 Yolo,100007,Proposition 51,,,No,503
 Yolo,100007,Proposition 51,,,Yes,504
 Yolo,100007,Proposition 52,,,No,324
@@ -291,14 +308,17 @@ Yolo,100007,Proposition 66,,,No,450
 Yolo,100007,Proposition 66,,,Yes,539
 Yolo,100007,Proposition 67,,,No,529
 Yolo,100007,Proposition 67,,,Yes,515
+Yolo,100007,State Assembly,7,DEM,Kevin McCarty,604
+Yolo,100007,State Assembly,7,REP,Ryan K. Brown,400
+Yolo,100007,U.S. House,6,DEM,Doris Matsui,669
+Yolo,100007,U.S. House,6,REP,Robert (Bob) Evans,358
 Yolo,100007,U.S. Senate,,DEM,Kamala D. Harris,618
 Yolo,100007,U.S. Senate,,DEM,Loretta L. Sanchez,322
-Yolo,100008,President,,REP/AI,Donald J. Trump,260
+Yolo,100008,President,,REP,Donald J. Trump,260
 Yolo,100008,President,,LIB,Gary Johnson,31
-Yolo,100008,President,,PF,Gloria Estela La Riva,4
+Yolo,100008,President,,PAF,Gloria Estela La Riva,4
 Yolo,100008,President,,DEM,Hillary Clinton,463
 Yolo,100008,President,,GRN,Jill Stein,10
-Yolo,100008,President,,WI,Write-In,9
 Yolo,100008,Proposition 51,,,No,399
 Yolo,100008,Proposition 51,,,Yes,335
 Yolo,100008,Proposition 52,,,No,254
@@ -333,14 +353,17 @@ Yolo,100008,Proposition 66,,,No,361
 Yolo,100008,Proposition 66,,,Yes,366
 Yolo,100008,Proposition 67,,,No,375
 Yolo,100008,Proposition 67,,,Yes,391
+Yolo,100008,State Assembly,7,DEM,Kevin McCarty,455
+Yolo,100008,State Assembly,7,REP,Ryan K. Brown,292
+Yolo,100008,U.S. House,6,DEM,Doris Matsui,499
+Yolo,100008,U.S. House,6,REP,Robert (Bob) Evans,263
 Yolo,100008,U.S. Senate,,DEM,Kamala D. Harris,455
 Yolo,100008,U.S. Senate,,DEM,Loretta L. Sanchez,230
-Yolo,100009,President,,REP/AI,Donald J. Trump,398
+Yolo,100009,President,,REP,Donald J. Trump,398
 Yolo,100009,President,,LIB,Gary Johnson,60
-Yolo,100009,President,,PF,Gloria Estela La Riva,4
+Yolo,100009,President,,PAF,Gloria Estela La Riva,4
 Yolo,100009,President,,DEM,Hillary Clinton,1002
 Yolo,100009,President,,GRN,Jill Stein,27
-Yolo,100009,President,,WI,Write-In,14
 Yolo,100009,Proposition 51,,,No,703
 Yolo,100009,Proposition 51,,,Yes,753
 Yolo,100009,Proposition 52,,,No,461
@@ -375,14 +398,17 @@ Yolo,100009,Proposition 66,,,No,666
 Yolo,100009,Proposition 66,,,Yes,758
 Yolo,100009,Proposition 67,,,No,657
 Yolo,100009,Proposition 67,,,Yes,840
+Yolo,100009,State Assembly,7,DEM,Kevin McCarty,948
+Yolo,100009,State Assembly,7,REP,Ryan K. Brown,474
+Yolo,100009,U.S. House,6,DEM,Doris Matsui,1028
+Yolo,100009,U.S. House,6,REP,Robert (Bob) Evans,433
 Yolo,100009,U.S. Senate,,DEM,Kamala D. Harris,921
 Yolo,100009,U.S. Senate,,DEM,Loretta L. Sanchez,406
-Yolo,100010,President,,REP/AI,Donald J. Trump,428
+Yolo,100010,President,,REP,Donald J. Trump,428
 Yolo,100010,President,,LIB,Gary Johnson,72
-Yolo,100010,President,,PF,Gloria Estela La Riva,1
+Yolo,100010,President,,PAF,Gloria Estela La Riva,1
 Yolo,100010,President,,DEM,Hillary Clinton,829
 Yolo,100010,President,,GRN,Jill Stein,21
-Yolo,100010,President,,WI,Write-In,22
 Yolo,100010,Proposition 51,,,No,670
 Yolo,100010,Proposition 51,,,Yes,647
 Yolo,100010,Proposition 52,,,No,422
@@ -417,14 +443,17 @@ Yolo,100010,Proposition 66,,,No,634
 Yolo,100010,Proposition 66,,,Yes,659
 Yolo,100010,Proposition 67,,,No,708
 Yolo,100010,Proposition 67,,,Yes,657
+Yolo,100010,State Assembly,7,DEM,Kevin McCarty,813
+Yolo,100010,State Assembly,7,REP,Ryan K. Brown,487
+Yolo,100010,U.S. House,6,DEM,Doris Matsui,905
+Yolo,100010,U.S. House,6,REP,Robert (Bob) Evans,420
 Yolo,100010,U.S. Senate,,DEM,Kamala D. Harris,823
 Yolo,100010,U.S. Senate,,DEM,Loretta L. Sanchez,380
-Yolo,100011,President,,REP/AI,Donald J. Trump,382
+Yolo,100011,President,,REP,Donald J. Trump,382
 Yolo,100011,President,,LIB,Gary Johnson,35
-Yolo,100011,President,,PF,Gloria Estela La Riva,2
+Yolo,100011,President,,PAF,Gloria Estela La Riva,2
 Yolo,100011,President,,DEM,Hillary Clinton,476
 Yolo,100011,President,,GRN,Jill Stein,14
-Yolo,100011,President,,WI,Write-In,18
 Yolo,100011,Proposition 51,,,No,496
 Yolo,100011,Proposition 51,,,Yes,362
 Yolo,100011,Proposition 52,,,No,295
@@ -459,14 +488,17 @@ Yolo,100011,Proposition 66,,,No,371
 Yolo,100011,Proposition 66,,,Yes,488
 Yolo,100011,Proposition 67,,,No,486
 Yolo,100011,Proposition 67,,,Yes,404
+Yolo,100011,State Assembly,7,DEM,Kevin McCarty,485
+Yolo,100011,State Assembly,7,REP,Ryan K. Brown,374
+Yolo,100011,U.S. House,6,DEM,Doris Matsui,519
+Yolo,100011,U.S. House,6,REP,Robert (Bob) Evans,358
 Yolo,100011,U.S. Senate,,DEM,Kamala D. Harris,478
 Yolo,100011,U.S. Senate,,DEM,Loretta L. Sanchez,291
-Yolo,100012,President,,REP/AI,Donald J. Trump,343
+Yolo,100012,President,,REP,Donald J. Trump,343
 Yolo,100012,President,,LIB,Gary Johnson,76
-Yolo,100012,President,,PF,Gloria Estela La Riva,6
+Yolo,100012,President,,PAF,Gloria Estela La Riva,6
 Yolo,100012,President,,DEM,Hillary Clinton,818
 Yolo,100012,President,,GRN,Jill Stein,18
-Yolo,100012,President,,WI,Write-In,20
 Yolo,100012,Proposition 51,,,No,593
 Yolo,100012,Proposition 51,,,Yes,622
 Yolo,100012,Proposition 52,,,No,404
@@ -501,14 +533,17 @@ Yolo,100012,Proposition 66,,,No,567
 Yolo,100012,Proposition 66,,,Yes,623
 Yolo,100012,Proposition 67,,,No,613
 Yolo,100012,Proposition 67,,,Yes,638
+Yolo,100012,State Assembly,7,DEM,Kevin McCarty,787
+Yolo,100012,State Assembly,7,REP,Ryan K. Brown,419
+Yolo,100012,U.S. House,6,DEM,Doris Matsui,893
+Yolo,100012,U.S. House,6,REP,Robert (Bob) Evans,344
 Yolo,100012,U.S. Senate,,DEM,Kamala D. Harris,770
 Yolo,100012,U.S. Senate,,DEM,Loretta L. Sanchez,370
-Yolo,100013,President,,REP/AI,Donald J. Trump,585
+Yolo,100013,President,,REP,Donald J. Trump,585
 Yolo,100013,President,,LIB,Gary Johnson,80
-Yolo,100013,President,,PF,Gloria Estela La Riva,8
+Yolo,100013,President,,PAF,Gloria Estela La Riva,8
 Yolo,100013,President,,DEM,Hillary Clinton,1043
 Yolo,100013,President,,GRN,Jill Stein,25
-Yolo,100013,President,,WI,Write-In,32
 Yolo,100013,Proposition 51,,,No,823
 Yolo,100013,Proposition 51,,,Yes,879
 Yolo,100013,Proposition 52,,,No,623
@@ -543,14 +578,17 @@ Yolo,100013,Proposition 66,,,No,748
 Yolo,100013,Proposition 66,,,Yes,916
 Yolo,100013,Proposition 67,,,No,908
 Yolo,100013,Proposition 67,,,Yes,862
+Yolo,100013,State Assembly,7,DEM,Kevin McCarty,1032
+Yolo,100013,State Assembly,7,REP,Ryan K. Brown,649
+Yolo,100013,U.S. House,6,DEM,Doris Matsui,1149
+Yolo,100013,U.S. House,6,REP,Robert (Bob) Evans,579
 Yolo,100013,U.S. Senate,,DEM,Kamala D. Harris,1060
 Yolo,100013,U.S. Senate,,DEM,Loretta L. Sanchez,500
-Yolo,100014,President,,REP/AI,Donald J. Trump,389
+Yolo,100014,President,,REP,Donald J. Trump,389
 Yolo,100014,President,,LIB,Gary Johnson,50
-Yolo,100014,President,,PF,Gloria Estela La Riva,1
+Yolo,100014,President,,PAF,Gloria Estela La Riva,1
 Yolo,100014,President,,DEM,Hillary Clinton,643
 Yolo,100014,President,,GRN,Jill Stein,18
-Yolo,100014,President,,WI,Write-In,29
 Yolo,100014,Proposition 51,,,No,560
 Yolo,100014,Proposition 51,,,Yes,510
 Yolo,100014,Proposition 52,,,No,374
@@ -585,14 +623,17 @@ Yolo,100014,Proposition 66,,,No,486
 Yolo,100014,Proposition 66,,,Yes,566
 Yolo,100014,Proposition 67,,,No,570
 Yolo,100014,Proposition 67,,,Yes,547
+Yolo,100014,State Assembly,7,DEM,Kevin McCarty,637
+Yolo,100014,State Assembly,7,REP,Ryan K. Brown,439
+Yolo,100014,U.S. House,6,DEM,Doris Matsui,697
+Yolo,100014,U.S. House,6,REP,Robert (Bob) Evans,398
 Yolo,100014,U.S. Senate,,DEM,Kamala D. Harris,655
 Yolo,100014,U.S. Senate,,DEM,Loretta L. Sanchez,328
-Yolo,100015,President,,REP/AI,Donald J. Trump,281
+Yolo,100015,President,,REP,Donald J. Trump,281
 Yolo,100015,President,,LIB,Gary Johnson,21
-Yolo,100015,President,,PF,Gloria Estela La Riva,3
+Yolo,100015,President,,PAF,Gloria Estela La Riva,3
 Yolo,100015,President,,DEM,Hillary Clinton,298
 Yolo,100015,President,,GRN,Jill Stein,12
-Yolo,100015,President,,WI,Write-In,8
 Yolo,100015,Proposition 51,,,No,304
 Yolo,100015,Proposition 51,,,Yes,286
 Yolo,100015,Proposition 52,,,No,197
@@ -627,14 +668,17 @@ Yolo,100015,Proposition 66,,,No,255
 Yolo,100015,Proposition 66,,,Yes,336
 Yolo,100015,Proposition 67,,,No,386
 Yolo,100015,Proposition 67,,,Yes,234
+Yolo,100015,State Assembly,7,DEM,Kevin McCarty,322
+Yolo,100015,State Assembly,7,REP,Ryan K. Brown,278
+Yolo,100015,U.S. House,6,DEM,Doris Matsui,352
+Yolo,100015,U.S. House,6,REP,Robert (Bob) Evans,256
 Yolo,100015,U.S. Senate,,DEM,Kamala D. Harris,268
 Yolo,100015,U.S. Senate,,DEM,Loretta L. Sanchez,275
-Yolo,100016,President,,REP/AI,Donald J. Trump,166
+Yolo,100016,President,,REP,Donald J. Trump,166
 Yolo,100016,President,,LIB,Gary Johnson,19
-Yolo,100016,President,,PF,Gloria Estela La Riva,6
+Yolo,100016,President,,PAF,Gloria Estela La Riva,6
 Yolo,100016,President,,DEM,Hillary Clinton,389
 Yolo,100016,President,,GRN,Jill Stein,14
-Yolo,100016,President,,WI,Write-In,8
 Yolo,100016,Proposition 51,,,No,236
 Yolo,100016,Proposition 51,,,Yes,329
 Yolo,100016,Proposition 52,,,No,120
@@ -669,14 +713,17 @@ Yolo,100016,Proposition 66,,,No,241
 Yolo,100016,Proposition 66,,,Yes,318
 Yolo,100016,Proposition 67,,,No,316
 Yolo,100016,Proposition 67,,,Yes,261
+Yolo,100016,State Assembly,7,DEM,Kevin McCarty,387
+Yolo,100016,State Assembly,7,REP,Ryan K. Brown,178
+Yolo,100016,U.S. House,6,DEM,Doris Matsui,417
+Yolo,100016,U.S. House,6,REP,Robert (Bob) Evans,158
 Yolo,100016,U.S. Senate,,DEM,Kamala D. Harris,304
 Yolo,100016,U.S. Senate,,DEM,Loretta L. Sanchez,235
-Yolo,100017,President,,REP/AI,Donald J. Trump,283
+Yolo,100017,President,,REP,Donald J. Trump,283
 Yolo,100017,President,,LIB,Gary Johnson,32
-Yolo,100017,President,,PF,Gloria Estela La Riva,6
+Yolo,100017,President,,PAF,Gloria Estela La Riva,6
 Yolo,100017,President,,DEM,Hillary Clinton,626
 Yolo,100017,President,,GRN,Jill Stein,19
-Yolo,100017,President,,WI,Write-In,12
 Yolo,100017,Proposition 51,,,No,354
 Yolo,100017,Proposition 51,,,Yes,574
 Yolo,100017,Proposition 52,,,No,220
@@ -711,14 +758,17 @@ Yolo,100017,Proposition 66,,,No,431
 Yolo,100017,Proposition 66,,,Yes,502
 Yolo,100017,Proposition 67,,,No,502
 Yolo,100017,Proposition 67,,,Yes,464
+Yolo,100017,State Assembly,7,DEM,Kevin McCarty,636
+Yolo,100017,State Assembly,7,REP,Ryan K. Brown,290
+Yolo,100017,U.S. House,6,DEM,Doris Matsui,694
+Yolo,100017,U.S. House,6,REP,Robert (Bob) Evans,251
 Yolo,100017,U.S. Senate,,DEM,Kamala D. Harris,450
 Yolo,100017,U.S. Senate,,DEM,Loretta L. Sanchez,421
-Yolo,100018,President,,REP/AI,Donald J. Trump,62
+Yolo,100018,President,,REP,Donald J. Trump,62
 Yolo,100018,President,,LIB,Gary Johnson,35
-Yolo,100018,President,,PF,Gloria Estela La Riva,7
+Yolo,100018,President,,PAF,Gloria Estela La Riva,7
 Yolo,100018,President,,DEM,Hillary Clinton,732
 Yolo,100018,President,,GRN,Jill Stein,35
-Yolo,100018,President,,WI,Write-In,16
 Yolo,100018,Proposition 51,,,No,315
 Yolo,100018,Proposition 51,,,Yes,532
 Yolo,100018,Proposition 52,,,No,179
@@ -753,14 +803,19 @@ Yolo,100018,Proposition 66,,,No,541
 Yolo,100018,Proposition 66,,,Yes,265
 Yolo,100018,Proposition 67,,,No,168
 Yolo,100018,Proposition 67,,,Yes,701
+Yolo,100018,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,691
+Yolo,100018,State Assembly,4,REP,Charlie Schaupp,100
+Yolo,100018,State Senate,3,DEM,Bill Dodd,215
+Yolo,100018,State Senate,3,DEM,Mariko Yamada,564
+Yolo,100018,U.S. House,3,DEM,John Garamendi,725
+Yolo,100018,U.S. House,3,REP,N Eugene Cleek,100
 Yolo,100018,U.S. Senate,,DEM,Kamala D. Harris,560
 Yolo,100018,U.S. Senate,,DEM,Loretta L. Sanchez,223
-Yolo,100019,President,,REP/AI,Donald J. Trump,39
+Yolo,100019,President,,REP,Donald J. Trump,39
 Yolo,100019,President,,LIB,Gary Johnson,17
-Yolo,100019,President,,PF,Gloria Estela La Riva,2
+Yolo,100019,President,,PAF,Gloria Estela La Riva,2
 Yolo,100019,President,,DEM,Hillary Clinton,426
 Yolo,100019,President,,GRN,Jill Stein,23
-Yolo,100019,President,,WI,Write-In,5
 Yolo,100019,Proposition 51,,,No,159
 Yolo,100019,Proposition 51,,,Yes,309
 Yolo,100019,Proposition 52,,,No,82
@@ -795,14 +850,19 @@ Yolo,100019,Proposition 66,,,No,306
 Yolo,100019,Proposition 66,,,Yes,142
 Yolo,100019,Proposition 67,,,No,81
 Yolo,100019,Proposition 67,,,Yes,413
+Yolo,100019,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,397
+Yolo,100019,State Assembly,4,REP,Charlie Schaupp,53
+Yolo,100019,State Senate,3,DEM,Bill Dodd,160
+Yolo,100019,State Senate,3,DEM,Mariko Yamada,293
+Yolo,100019,U.S. House,3,DEM,John Garamendi,418
+Yolo,100019,U.S. House,3,REP,N Eugene Cleek,60
 Yolo,100019,U.S. Senate,,DEM,Kamala D. Harris,359
 Yolo,100019,U.S. Senate,,DEM,Loretta L. Sanchez,96
-Yolo,100020,President,,REP/AI,Donald J. Trump,72
+Yolo,100020,President,,REP,Donald J. Trump,72
 Yolo,100020,President,,LIB,Gary Johnson,26
-Yolo,100020,President,,PF,Gloria Estela La Riva,4
+Yolo,100020,President,,PAF,Gloria Estela La Riva,4
 Yolo,100020,President,,DEM,Hillary Clinton,726
 Yolo,100020,President,,GRN,Jill Stein,26
-Yolo,100020,President,,WI,Write-In,10
 Yolo,100020,Proposition 51,,,No,324
 Yolo,100020,Proposition 51,,,Yes,506
 Yolo,100020,Proposition 52,,,No,150
@@ -837,14 +897,19 @@ Yolo,100020,Proposition 66,,,No,563
 Yolo,100020,Proposition 66,,,Yes,215
 Yolo,100020,Proposition 67,,,No,147
 Yolo,100020,Proposition 67,,,Yes,701
+Yolo,100020,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,697
+Yolo,100020,State Assembly,4,REP,Charlie Schaupp,84
+Yolo,100020,State Senate,3,DEM,Bill Dodd,262
+Yolo,100020,State Senate,3,DEM,Mariko Yamada,529
+Yolo,100020,U.S. House,3,DEM,John Garamendi,732
+Yolo,100020,U.S. House,3,REP,N Eugene Cleek,92
 Yolo,100020,U.S. Senate,,DEM,Kamala D. Harris,640
 Yolo,100020,U.S. Senate,,DEM,Loretta L. Sanchez,125
-Yolo,100021,President,,REP/AI,Donald J. Trump,54
+Yolo,100021,President,,REP,Donald J. Trump,54
 Yolo,100021,President,,LIB,Gary Johnson,24
-Yolo,100021,President,,PF,Gloria Estela La Riva,7
+Yolo,100021,President,,PAF,Gloria Estela La Riva,7
 Yolo,100021,President,,DEM,Hillary Clinton,819
 Yolo,100021,President,,GRN,Jill Stein,39
-Yolo,100021,President,,WI,Write-In,12
 Yolo,100021,Proposition 51,,,No,318
 Yolo,100021,Proposition 51,,,Yes,568
 Yolo,100021,Proposition 52,,,No,150
@@ -879,14 +944,19 @@ Yolo,100021,Proposition 66,,,No,601
 Yolo,100021,Proposition 66,,,Yes,230
 Yolo,100021,Proposition 67,,,No,157
 Yolo,100021,Proposition 67,,,Yes,760
+Yolo,100021,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,765
+Yolo,100021,State Assembly,4,REP,Charlie Schaupp,105
+Yolo,100021,State Senate,3,DEM,Bill Dodd,258
+Yolo,100021,State Senate,3,DEM,Mariko Yamada,603
+Yolo,100021,U.S. House,3,DEM,John Garamendi,791
+Yolo,100021,U.S. House,3,REP,N Eugene Cleek,106
 Yolo,100021,U.S. Senate,,DEM,Kamala D. Harris,643
 Yolo,100021,U.S. Senate,,DEM,Loretta L. Sanchez,213
-Yolo,100022,President,,REP/AI,Donald J. Trump,131
+Yolo,100022,President,,REP,Donald J. Trump,131
 Yolo,100022,President,,LIB,Gary Johnson,39
-Yolo,100022,President,,PF,Gloria Estela La Riva,6
+Yolo,100022,President,,PAF,Gloria Estela La Riva,6
 Yolo,100022,President,,DEM,Hillary Clinton,1021
 Yolo,100022,President,,GRN,Jill Stein,40
-Yolo,100022,President,,WI,Write-In,17
 Yolo,100022,Proposition 51,,,No,411
 Yolo,100022,Proposition 51,,,Yes,779
 Yolo,100022,Proposition 52,,,No,221
@@ -921,14 +991,19 @@ Yolo,100022,Proposition 66,,,No,766
 Yolo,100022,Proposition 66,,,Yes,345
 Yolo,100022,Proposition 67,,,No,246
 Yolo,100022,Proposition 67,,,Yes,960
+Yolo,100022,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,953
+Yolo,100022,State Assembly,4,REP,Charlie Schaupp,201
+Yolo,100022,State Senate,3,DEM,Bill Dodd,337
+Yolo,100022,State Senate,3,DEM,Mariko Yamada,804
+Yolo,100022,U.S. House,3,DEM,John Garamendi,1002
+Yolo,100022,U.S. House,3,REP,N Eugene Cleek,200
 Yolo,100022,U.S. Senate,,DEM,Kamala D. Harris,867
 Yolo,100022,U.S. Senate,,DEM,Loretta L. Sanchez,242
-Yolo,100023,President,,REP/AI,Donald J. Trump,112
+Yolo,100023,President,,REP,Donald J. Trump,112
 Yolo,100023,President,,LIB,Gary Johnson,56
-Yolo,100023,President,,PF,Gloria Estela La Riva,6
+Yolo,100023,President,,PAF,Gloria Estela La Riva,6
 Yolo,100023,President,,DEM,Hillary Clinton,1150
 Yolo,100023,President,,GRN,Jill Stein,31
-Yolo,100023,President,,WI,Write-In,17
 Yolo,100023,Proposition 51,,,No,468
 Yolo,100023,Proposition 51,,,Yes,826
 Yolo,100023,Proposition 52,,,No,276
@@ -963,14 +1038,19 @@ Yolo,100023,Proposition 66,,,No,811
 Yolo,100023,Proposition 66,,,Yes,409
 Yolo,100023,Proposition 67,,,No,260
 Yolo,100023,Proposition 67,,,Yes,1071
+Yolo,100023,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,1017
+Yolo,100023,State Assembly,4,REP,Charlie Schaupp,187
+Yolo,100023,State Senate,3,DEM,Bill Dodd,381
+Yolo,100023,State Senate,3,DEM,Mariko Yamada,823
+Yolo,100023,U.S. House,3,DEM,John Garamendi,1069
+Yolo,100023,U.S. House,3,REP,N Eugene Cleek,178
 Yolo,100023,U.S. Senate,,DEM,Kamala D. Harris,910
 Yolo,100023,U.S. Senate,,DEM,Loretta L. Sanchez,295
-Yolo,100024,President,,REP/AI,Donald J. Trump,51
+Yolo,100024,President,,REP,Donald J. Trump,51
 Yolo,100024,President,,LIB,Gary Johnson,26
-Yolo,100024,President,,PF,Gloria Estela La Riva,8
+Yolo,100024,President,,PAF,Gloria Estela La Riva,8
 Yolo,100024,President,,DEM,Hillary Clinton,646
 Yolo,100024,President,,GRN,Jill Stein,24
-Yolo,100024,President,,WI,Write-In,7
 Yolo,100024,Proposition 51,,,No,260
 Yolo,100024,Proposition 51,,,Yes,457
 Yolo,100024,Proposition 52,,,No,119
@@ -1005,14 +1085,19 @@ Yolo,100024,Proposition 66,,,No,477
 Yolo,100024,Proposition 66,,,Yes,204
 Yolo,100024,Proposition 67,,,No,137
 Yolo,100024,Proposition 67,,,Yes,607
+Yolo,100024,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,581
+Yolo,100024,State Assembly,4,REP,Charlie Schaupp,100
+Yolo,100024,State Senate,3,DEM,Bill Dodd,210
+Yolo,100024,State Senate,3,DEM,Mariko Yamada,455
+Yolo,100024,U.S. House,3,DEM,John Garamendi,623
+Yolo,100024,U.S. House,3,REP,N Eugene Cleek,84
 Yolo,100024,U.S. Senate,,DEM,Kamala D. Harris,516
 Yolo,100024,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Yolo,100025,President,,REP/AI,Donald J. Trump,120
+Yolo,100025,President,,REP,Donald J. Trump,120
 Yolo,100025,President,,LIB,Gary Johnson,40
-Yolo,100025,President,,PF,Gloria Estela La Riva,4
+Yolo,100025,President,,PAF,Gloria Estela La Riva,4
 Yolo,100025,President,,DEM,Hillary Clinton,1396
 Yolo,100025,President,,GRN,Jill Stein,41
-Yolo,100025,President,,WI,Write-In,20
 Yolo,100025,Proposition 51,,,No,546
 Yolo,100025,Proposition 51,,,Yes,1023
 Yolo,100025,Proposition 52,,,No,310
@@ -1047,14 +1132,19 @@ Yolo,100025,Proposition 66,,,No,1096
 Yolo,100025,Proposition 66,,,Yes,399
 Yolo,100025,Proposition 67,,,No,283
 Yolo,100025,Proposition 67,,,Yes,1307
+Yolo,100025,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,1306
+Yolo,100025,State Assembly,4,REP,Charlie Schaupp,204
+Yolo,100025,State Senate,3,DEM,Bill Dodd,494
+Yolo,100025,State Senate,3,DEM,Mariko Yamada,1016
+Yolo,100025,U.S. House,3,DEM,John Garamendi,1388
+Yolo,100025,U.S. House,3,REP,N Eugene Cleek,177
 Yolo,100025,U.S. Senate,,DEM,Kamala D. Harris,1177
 Yolo,100025,U.S. Senate,,DEM,Loretta L. Sanchez,317
-Yolo,100026,President,,REP/AI,Donald J. Trump,178
+Yolo,100026,President,,REP,Donald J. Trump,178
 Yolo,100026,President,,LIB,Gary Johnson,25
-Yolo,100026,President,,PF,Gloria Estela La Riva,4
+Yolo,100026,President,,PAF,Gloria Estela La Riva,4
 Yolo,100026,President,,DEM,Hillary Clinton,956
 Yolo,100026,President,,GRN,Jill Stein,29
-Yolo,100026,President,,WI,Write-In,22
 Yolo,100026,Proposition 51,,,No,514
 Yolo,100026,Proposition 51,,,Yes,657
 Yolo,100026,Proposition 52,,,No,260
@@ -1089,14 +1179,19 @@ Yolo,100026,Proposition 66,,,No,715
 Yolo,100026,Proposition 66,,,Yes,393
 Yolo,100026,Proposition 67,,,No,315
 Yolo,100026,Proposition 67,,,Yes,868
+Yolo,100026,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,895
+Yolo,100026,State Assembly,4,REP,Charlie Schaupp,232
+Yolo,100026,State Senate,3,DEM,Bill Dodd,430
+Yolo,100026,State Senate,3,DEM,Mariko Yamada,678
+Yolo,100026,U.S. House,3,DEM,John Garamendi,940
+Yolo,100026,U.S. House,3,REP,N Eugene Cleek,225
 Yolo,100026,U.S. Senate,,DEM,Kamala D. Harris,801
 Yolo,100026,U.S. Senate,,DEM,Loretta L. Sanchez,285
-Yolo,100027,President,,REP/AI,Donald J. Trump,88
+Yolo,100027,President,,REP,Donald J. Trump,88
 Yolo,100027,President,,LIB,Gary Johnson,20
-Yolo,100027,President,,PF,Gloria Estela La Riva,5
+Yolo,100027,President,,PAF,Gloria Estela La Riva,5
 Yolo,100027,President,,DEM,Hillary Clinton,672
 Yolo,100027,President,,GRN,Jill Stein,26
-Yolo,100027,President,,WI,Write-In,18
 Yolo,100027,Proposition 51,,,No,313
 Yolo,100027,Proposition 51,,,Yes,487
 Yolo,100027,Proposition 52,,,No,163
@@ -1131,14 +1226,19 @@ Yolo,100027,Proposition 66,,,No,495
 Yolo,100027,Proposition 66,,,Yes,264
 Yolo,100027,Proposition 67,,,No,192
 Yolo,100027,Proposition 67,,,Yes,624
+Yolo,100027,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,645
+Yolo,100027,State Assembly,4,REP,Charlie Schaupp,142
+Yolo,100027,State Senate,3,DEM,Bill Dodd,260
+Yolo,100027,State Senate,3,DEM,Mariko Yamada,494
+Yolo,100027,U.S. House,3,DEM,John Garamendi,659
+Yolo,100027,U.S. House,3,REP,N Eugene Cleek,147
 Yolo,100027,U.S. Senate,,DEM,Kamala D. Harris,583
 Yolo,100027,U.S. Senate,,DEM,Loretta L. Sanchez,182
-Yolo,100028,President,,REP/AI,Donald J. Trump,88
+Yolo,100028,President,,REP,Donald J. Trump,88
 Yolo,100028,President,,LIB,Gary Johnson,23
-Yolo,100028,President,,PF,Gloria Estela La Riva,4
+Yolo,100028,President,,PAF,Gloria Estela La Riva,4
 Yolo,100028,President,,DEM,Hillary Clinton,651
 Yolo,100028,President,,GRN,Jill Stein,24
-Yolo,100028,President,,WI,Write-In,7
 Yolo,100028,Proposition 51,,,No,280
 Yolo,100028,Proposition 51,,,Yes,478
 Yolo,100028,Proposition 52,,,No,150
@@ -1173,14 +1273,19 @@ Yolo,100028,Proposition 66,,,No,436
 Yolo,100028,Proposition 66,,,Yes,282
 Yolo,100028,Proposition 67,,,No,166
 Yolo,100028,Proposition 67,,,Yes,617
+Yolo,100028,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,583
+Yolo,100028,State Assembly,4,REP,Charlie Schaupp,142
+Yolo,100028,State Senate,3,DEM,Bill Dodd,263
+Yolo,100028,State Senate,3,DEM,Mariko Yamada,445
+Yolo,100028,U.S. House,3,DEM,John Garamendi,631
+Yolo,100028,U.S. House,3,REP,N Eugene Cleek,126
 Yolo,100028,U.S. Senate,,DEM,Kamala D. Harris,501
 Yolo,100028,U.S. Senate,,DEM,Loretta L. Sanchez,216
-Yolo,100029,President,,REP/AI,Donald J. Trump,66
+Yolo,100029,President,,REP,Donald J. Trump,66
 Yolo,100029,President,,LIB,Gary Johnson,28
-Yolo,100029,President,,PF,Gloria Estela La Riva,1
+Yolo,100029,President,,PAF,Gloria Estela La Riva,1
 Yolo,100029,President,,DEM,Hillary Clinton,548
 Yolo,100029,President,,GRN,Jill Stein,19
-Yolo,100029,President,,WI,Write-In,10
 Yolo,100029,Proposition 51,,,No,256
 Yolo,100029,Proposition 51,,,Yes,390
 Yolo,100029,Proposition 52,,,No,146
@@ -1215,14 +1320,19 @@ Yolo,100029,Proposition 66,,,No,414
 Yolo,100029,Proposition 66,,,Yes,188
 Yolo,100029,Proposition 67,,,No,147
 Yolo,100029,Proposition 67,,,Yes,521
+Yolo,100029,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,506
+Yolo,100029,State Assembly,4,REP,Charlie Schaupp,116
+Yolo,100029,State Senate,3,DEM,Bill Dodd,203
+Yolo,100029,State Senate,3,DEM,Mariko Yamada,399
+Yolo,100029,U.S. House,3,DEM,John Garamendi,552
+Yolo,100029,U.S. House,3,REP,N Eugene Cleek,102
 Yolo,100029,U.S. Senate,,DEM,Kamala D. Harris,467
 Yolo,100029,U.S. Senate,,DEM,Loretta L. Sanchez,134
-Yolo,100030,President,,REP/AI,Donald J. Trump,138
+Yolo,100030,President,,REP,Donald J. Trump,138
 Yolo,100030,President,,LIB,Gary Johnson,31
-Yolo,100030,President,,PF,Gloria Estela La Riva,4
+Yolo,100030,President,,PAF,Gloria Estela La Riva,4
 Yolo,100030,President,,DEM,Hillary Clinton,792
 Yolo,100030,President,,GRN,Jill Stein,19
-Yolo,100030,President,,WI,Write-In,6
 Yolo,100030,Proposition 51,,,No,363
 Yolo,100030,Proposition 51,,,Yes,582
 Yolo,100030,Proposition 52,,,No,205
@@ -1257,14 +1367,19 @@ Yolo,100030,Proposition 66,,,No,516
 Yolo,100030,Proposition 66,,,Yes,368
 Yolo,100030,Proposition 67,,,No,226
 Yolo,100030,Proposition 67,,,Yes,741
+Yolo,100030,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,699
+Yolo,100030,State Assembly,4,REP,Charlie Schaupp,210
+Yolo,100030,State Senate,3,DEM,Bill Dodd,378
+Yolo,100030,State Senate,3,DEM,Mariko Yamada,536
+Yolo,100030,U.S. House,3,DEM,John Garamendi,766
+Yolo,100030,U.S. House,3,REP,N Eugene Cleek,189
 Yolo,100030,U.S. Senate,,DEM,Kamala D. Harris,705
 Yolo,100030,U.S. Senate,,DEM,Loretta L. Sanchez,191
-Yolo,100031,President,,REP/AI,Donald J. Trump,77
+Yolo,100031,President,,REP,Donald J. Trump,77
 Yolo,100031,President,,LIB,Gary Johnson,7
-Yolo,100031,President,,PF,Gloria Estela La Riva,2
+Yolo,100031,President,,PAF,Gloria Estela La Riva,2
 Yolo,100031,President,,DEM,Hillary Clinton,199
 Yolo,100031,President,,GRN,Jill Stein,3
-Yolo,100031,President,,WI,Write-In,3
 Yolo,100031,Proposition 51,,,No,149
 Yolo,100031,Proposition 51,,,Yes,138
 Yolo,100031,Proposition 52,,,No,93
@@ -1299,14 +1414,19 @@ Yolo,100031,Proposition 66,,,No,162
 Yolo,100031,Proposition 66,,,Yes,102
 Yolo,100031,Proposition 67,,,No,93
 Yolo,100031,Proposition 67,,,Yes,193
+Yolo,100031,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,186
+Yolo,100031,State Assembly,4,REP,Charlie Schaupp,92
+Yolo,100031,State Senate,3,DEM,Bill Dodd,121
+Yolo,100031,State Senate,3,DEM,Mariko Yamada,135
+Yolo,100031,U.S. House,3,DEM,John Garamendi,194
+Yolo,100031,U.S. House,3,REP,N Eugene Cleek,82
 Yolo,100031,U.S. Senate,,DEM,Kamala D. Harris,184
 Yolo,100031,U.S. Senate,,DEM,Loretta L. Sanchez,70
-Yolo,100032,President,,REP/AI,Donald J. Trump,34
+Yolo,100032,President,,REP,Donald J. Trump,34
 Yolo,100032,President,,LIB,Gary Johnson,32
-Yolo,100032,President,,PF,Gloria Estela La Riva,9
+Yolo,100032,President,,PAF,Gloria Estela La Riva,9
 Yolo,100032,President,,DEM,Hillary Clinton,475
 Yolo,100032,President,,GRN,Jill Stein,24
-Yolo,100032,President,,WI,Write-In,18
 Yolo,100032,Proposition 51,,,No,157
 Yolo,100032,Proposition 51,,,Yes,391
 Yolo,100032,Proposition 52,,,No,106
@@ -1341,14 +1461,19 @@ Yolo,100032,Proposition 66,,,No,273
 Yolo,100032,Proposition 66,,,Yes,244
 Yolo,100032,Proposition 67,,,No,109
 Yolo,100032,Proposition 67,,,Yes,469
+Yolo,100032,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,433
+Yolo,100032,State Assembly,4,REP,Charlie Schaupp,66
+Yolo,100032,State Senate,3,DEM,Bill Dodd,139
+Yolo,100032,State Senate,3,DEM,Mariko Yamada,350
+Yolo,100032,U.S. House,3,DEM,John Garamendi,426
+Yolo,100032,U.S. House,3,REP,N Eugene Cleek,93
 Yolo,100032,U.S. Senate,,DEM,Kamala D. Harris,292
 Yolo,100032,U.S. Senate,,DEM,Loretta L. Sanchez,215
-Yolo,100033,President,,REP/AI,Donald J. Trump,62
+Yolo,100033,President,,REP,Donald J. Trump,62
 Yolo,100033,President,,LIB,Gary Johnson,30
-Yolo,100033,President,,PF,Gloria Estela La Riva,2
+Yolo,100033,President,,PAF,Gloria Estela La Riva,2
 Yolo,100033,President,,DEM,Hillary Clinton,730
 Yolo,100033,President,,GRN,Jill Stein,43
-Yolo,100033,President,,WI,Write-In,13
 Yolo,100033,Proposition 51,,,No,243
 Yolo,100033,Proposition 51,,,Yes,554
 Yolo,100033,Proposition 52,,,No,158
@@ -1383,14 +1508,19 @@ Yolo,100033,Proposition 66,,,No,418
 Yolo,100033,Proposition 66,,,Yes,336
 Yolo,100033,Proposition 67,,,No,165
 Yolo,100033,Proposition 67,,,Yes,686
+Yolo,100033,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,637
+Yolo,100033,State Assembly,4,REP,Charlie Schaupp,109
+Yolo,100033,State Senate,3,DEM,Bill Dodd,233
+Yolo,100033,State Senate,3,DEM,Mariko Yamada,500
+Yolo,100033,U.S. House,3,DEM,John Garamendi,660
+Yolo,100033,U.S. House,3,REP,N Eugene Cleek,110
 Yolo,100033,U.S. Senate,,DEM,Kamala D. Harris,444
 Yolo,100033,U.S. Senate,,DEM,Loretta L. Sanchez,306
-Yolo,100034,President,,REP/AI,Donald J. Trump,31
+Yolo,100034,President,,REP,Donald J. Trump,31
 Yolo,100034,President,,LIB,Gary Johnson,32
-Yolo,100034,President,,PF,Gloria Estela La Riva,3
+Yolo,100034,President,,PAF,Gloria Estela La Riva,3
 Yolo,100034,President,,DEM,Hillary Clinton,602
 Yolo,100034,President,,GRN,Jill Stein,46
-Yolo,100034,President,,WI,Write-In,18
 Yolo,100034,Proposition 51,,,No,287
 Yolo,100034,Proposition 51,,,Yes,415
 Yolo,100034,Proposition 52,,,No,134
@@ -1425,14 +1555,19 @@ Yolo,100034,Proposition 66,,,No,459
 Yolo,100034,Proposition 66,,,Yes,196
 Yolo,100034,Proposition 67,,,No,117
 Yolo,100034,Proposition 67,,,Yes,603
+Yolo,100034,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,603
+Yolo,100034,State Assembly,4,REP,Charlie Schaupp,78
+Yolo,100034,State Senate,3,DEM,Bill Dodd,198
+Yolo,100034,State Senate,3,DEM,Mariko Yamada,474
+Yolo,100034,U.S. House,3,DEM,John Garamendi,624
+Yolo,100034,U.S. House,3,REP,N Eugene Cleek,66
 Yolo,100034,U.S. Senate,,DEM,Kamala D. Harris,476
 Yolo,100034,U.S. Senate,,DEM,Loretta L. Sanchez,188
-Yolo,100035,President,,REP/AI,Donald J. Trump,100
+Yolo,100035,President,,REP,Donald J. Trump,100
 Yolo,100035,President,,LIB,Gary Johnson,30
-Yolo,100035,President,,PF,Gloria Estela La Riva,2
+Yolo,100035,President,,PAF,Gloria Estela La Riva,2
 Yolo,100035,President,,DEM,Hillary Clinton,633
 Yolo,100035,President,,GRN,Jill Stein,20
-Yolo,100035,President,,WI,Write-In,13
 Yolo,100035,Proposition 51,,,No,327
 Yolo,100035,Proposition 51,,,Yes,442
 Yolo,100035,Proposition 52,,,No,168
@@ -1467,14 +1602,19 @@ Yolo,100035,Proposition 66,,,No,485
 Yolo,100035,Proposition 66,,,Yes,251
 Yolo,100035,Proposition 67,,,No,179
 Yolo,100035,Proposition 67,,,Yes,607
+Yolo,100035,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,621
+Yolo,100035,State Assembly,4,REP,Charlie Schaupp,129
+Yolo,100035,State Senate,3,DEM,Bill Dodd,240
+Yolo,100035,State Senate,3,DEM,Mariko Yamada,486
+Yolo,100035,U.S. House,3,DEM,John Garamendi,659
+Yolo,100035,U.S. House,3,REP,N Eugene Cleek,109
 Yolo,100035,U.S. Senate,,DEM,Kamala D. Harris,530
 Yolo,100035,U.S. Senate,,DEM,Loretta L. Sanchez,181
-Yolo,100036,President,,REP/AI,Donald J. Trump,84
+Yolo,100036,President,,REP,Donald J. Trump,84
 Yolo,100036,President,,LIB,Gary Johnson,27
-Yolo,100036,President,,PF,Gloria Estela La Riva,4
+Yolo,100036,President,,PAF,Gloria Estela La Riva,4
 Yolo,100036,President,,DEM,Hillary Clinton,809
 Yolo,100036,President,,GRN,Jill Stein,28
-Yolo,100036,President,,WI,Write-In,16
 Yolo,100036,Proposition 51,,,No,309
 Yolo,100036,Proposition 51,,,Yes,602
 Yolo,100036,Proposition 52,,,No,189
@@ -1509,14 +1649,18 @@ Yolo,100036,Proposition 66,,,No,573
 Yolo,100036,Proposition 66,,,Yes,292
 Yolo,100036,Proposition 67,,,No,201
 Yolo,100036,Proposition 67,,,Yes,737
+Yolo,100036,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,731
+Yolo,100036,State Assembly,4,REP,Charlie Schaupp,128
+Yolo,100036,State Senate,3,DEM,Bill Dodd,283
+Yolo,100036,State Senate,3,DEM,Mariko Yamada,582
+Yolo,100036,U.S. House,3,DEM,John Garamendi,786
+Yolo,100036,U.S. House,3,REP,N Eugene Cleek,113
 Yolo,100036,U.S. Senate,,DEM,Kamala D. Harris,625
 Yolo,100036,U.S. Senate,,DEM,Loretta L. Sanchez,226
-Yolo,100037,President,,REP/AI,Donald J. Trump,50
+Yolo,100037,President,,REP,Donald J. Trump,50
 Yolo,100037,President,,LIB,Gary Johnson,19
-Yolo,100037,President,,PF,Gloria Estela La Riva,0
 Yolo,100037,President,,DEM,Hillary Clinton,396
 Yolo,100037,President,,GRN,Jill Stein,14
-Yolo,100037,President,,WI,Write-In,7
 Yolo,100037,Proposition 51,,,No,185
 Yolo,100037,Proposition 51,,,Yes,287
 Yolo,100037,Proposition 52,,,No,94
@@ -1551,14 +1695,19 @@ Yolo,100037,Proposition 66,,,No,300
 Yolo,100037,Proposition 66,,,Yes,142
 Yolo,100037,Proposition 67,,,No,112
 Yolo,100037,Proposition 67,,,Yes,359
+Yolo,100037,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,383
+Yolo,100037,State Assembly,4,REP,Charlie Schaupp,77
+Yolo,100037,State Senate,3,DEM,Bill Dodd,163
+Yolo,100037,State Senate,3,DEM,Mariko Yamada,287
+Yolo,100037,U.S. House,3,DEM,John Garamendi,389
+Yolo,100037,U.S. House,3,REP,N Eugene Cleek,83
 Yolo,100037,U.S. Senate,,DEM,Kamala D. Harris,363
 Yolo,100037,U.S. Senate,,DEM,Loretta L. Sanchez,89
-Yolo,100038,President,,REP/AI,Donald J. Trump,101
+Yolo,100038,President,,REP,Donald J. Trump,101
 Yolo,100038,President,,LIB,Gary Johnson,22
-Yolo,100038,President,,PF,Gloria Estela La Riva,6
+Yolo,100038,President,,PAF,Gloria Estela La Riva,6
 Yolo,100038,President,,DEM,Hillary Clinton,719
 Yolo,100038,President,,GRN,Jill Stein,31
-Yolo,100038,President,,WI,Write-In,14
 Yolo,100038,Proposition 51,,,No,310
 Yolo,100038,Proposition 51,,,Yes,556
 Yolo,100038,Proposition 52,,,No,166
@@ -1593,14 +1742,18 @@ Yolo,100038,Proposition 66,,,No,520
 Yolo,100038,Proposition 66,,,Yes,299
 Yolo,100038,Proposition 67,,,No,211
 Yolo,100038,Proposition 67,,,Yes,666
+Yolo,100038,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,684
+Yolo,100038,State Assembly,4,REP,Charlie Schaupp,143
+Yolo,100038,State Senate,3,DEM,Bill Dodd,270
+Yolo,100038,State Senate,3,DEM,Mariko Yamada,538
+Yolo,100038,U.S. House,3,DEM,John Garamendi,710
+Yolo,100038,U.S. House,3,REP,N Eugene Cleek,132
 Yolo,100038,U.S. Senate,,DEM,Kamala D. Harris,555
 Yolo,100038,U.S. Senate,,DEM,Loretta L. Sanchez,252
-Yolo,100039,President,,REP/AI,Donald J. Trump,125
+Yolo,100039,President,,REP,Donald J. Trump,125
 Yolo,100039,President,,LIB,Gary Johnson,27
-Yolo,100039,President,,PF,Gloria Estela La Riva,0
 Yolo,100039,President,,DEM,Hillary Clinton,681
 Yolo,100039,President,,GRN,Jill Stein,25
-Yolo,100039,President,,WI,Write-In,11
 Yolo,100039,Proposition 51,,,No,318
 Yolo,100039,Proposition 51,,,Yes,524
 Yolo,100039,Proposition 52,,,No,172
@@ -1635,14 +1788,19 @@ Yolo,100039,Proposition 66,,,No,529
 Yolo,100039,Proposition 66,,,Yes,273
 Yolo,100039,Proposition 67,,,No,194
 Yolo,100039,Proposition 67,,,Yes,659
+Yolo,100039,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,650
+Yolo,100039,State Assembly,4,REP,Charlie Schaupp,171
+Yolo,100039,State Senate,3,DEM,Bill Dodd,283
+Yolo,100039,State Senate,3,DEM,Mariko Yamada,532
+Yolo,100039,U.S. House,3,DEM,John Garamendi,718
+Yolo,100039,U.S. House,3,REP,N Eugene Cleek,141
 Yolo,100039,U.S. Senate,,DEM,Kamala D. Harris,651
 Yolo,100039,U.S. Senate,,DEM,Loretta L. Sanchez,148
-Yolo,100040,President,,REP/AI,Donald J. Trump,101
+Yolo,100040,President,,REP,Donald J. Trump,101
 Yolo,100040,President,,LIB,Gary Johnson,26
-Yolo,100040,President,,PF,Gloria Estela La Riva,4
+Yolo,100040,President,,PAF,Gloria Estela La Riva,4
 Yolo,100040,President,,DEM,Hillary Clinton,617
 Yolo,100040,President,,GRN,Jill Stein,27
-Yolo,100040,President,,WI,Write-In,11
 Yolo,100040,Proposition 51,,,No,309
 Yolo,100040,Proposition 51,,,Yes,453
 Yolo,100040,Proposition 52,,,No,184
@@ -1677,14 +1835,19 @@ Yolo,100040,Proposition 66,,,No,496
 Yolo,100040,Proposition 66,,,Yes,239
 Yolo,100040,Proposition 67,,,No,191
 Yolo,100040,Proposition 67,,,Yes,591
+Yolo,100040,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,591
+Yolo,100040,State Assembly,4,REP,Charlie Schaupp,145
+Yolo,100040,State Senate,3,DEM,Bill Dodd,228
+Yolo,100040,State Senate,3,DEM,Mariko Yamada,500
+Yolo,100040,U.S. House,3,DEM,John Garamendi,649
+Yolo,100040,U.S. House,3,REP,N Eugene Cleek,116
 Yolo,100040,U.S. Senate,,DEM,Kamala D. Harris,550
 Yolo,100040,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Yolo,100041,President,,REP/AI,Donald J. Trump,113
+Yolo,100041,President,,REP,Donald J. Trump,113
 Yolo,100041,President,,LIB,Gary Johnson,31
-Yolo,100041,President,,PF,Gloria Estela La Riva,3
+Yolo,100041,President,,PAF,Gloria Estela La Riva,3
 Yolo,100041,President,,DEM,Hillary Clinton,660
 Yolo,100041,President,,GRN,Jill Stein,20
-Yolo,100041,President,,WI,Write-In,22
 Yolo,100041,Proposition 51,,,No,363
 Yolo,100041,Proposition 51,,,Yes,470
 Yolo,100041,Proposition 52,,,No,189
@@ -1719,14 +1882,19 @@ Yolo,100041,Proposition 66,,,No,534
 Yolo,100041,Proposition 66,,,Yes,255
 Yolo,100041,Proposition 67,,,No,218
 Yolo,100041,Proposition 67,,,Yes,607
+Yolo,100041,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,618
+Yolo,100041,State Assembly,4,REP,Charlie Schaupp,169
+Yolo,100041,State Senate,3,DEM,Bill Dodd,275
+Yolo,100041,State Senate,3,DEM,Mariko Yamada,485
+Yolo,100041,U.S. House,3,DEM,John Garamendi,664
+Yolo,100041,U.S. House,3,REP,N Eugene Cleek,153
 Yolo,100041,U.S. Senate,,DEM,Kamala D. Harris,579
 Yolo,100041,U.S. Senate,,DEM,Loretta L. Sanchez,164
-Yolo,100042,President,,REP/AI,Donald J. Trump,40
+Yolo,100042,President,,REP,Donald J. Trump,40
 Yolo,100042,President,,LIB,Gary Johnson,17
-Yolo,100042,President,,PF,Gloria Estela La Riva,3
+Yolo,100042,President,,PAF,Gloria Estela La Riva,3
 Yolo,100042,President,,DEM,Hillary Clinton,559
 Yolo,100042,President,,GRN,Jill Stein,30
-Yolo,100042,President,,WI,Write-In,12
 Yolo,100042,Proposition 51,,,No,209
 Yolo,100042,Proposition 51,,,Yes,416
 Yolo,100042,Proposition 52,,,No,110
@@ -1761,14 +1929,19 @@ Yolo,100042,Proposition 66,,,No,335
 Yolo,100042,Proposition 66,,,Yes,252
 Yolo,100042,Proposition 67,,,No,128
 Yolo,100042,Proposition 67,,,Yes,511
+Yolo,100042,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,524
+Yolo,100042,State Assembly,4,REP,Charlie Schaupp,66
+Yolo,100042,State Senate,3,DEM,Bill Dodd,166
+Yolo,100042,State Senate,3,DEM,Mariko Yamada,414
+Yolo,100042,U.S. House,3,DEM,John Garamendi,530
+Yolo,100042,U.S. House,3,REP,N Eugene Cleek,81
 Yolo,100042,U.S. Senate,,DEM,Kamala D. Harris,407
 Yolo,100042,U.S. Senate,,DEM,Loretta L. Sanchez,176
-Yolo,100043,President,,REP/AI,Donald J. Trump,260
+Yolo,100043,President,,REP,Donald J. Trump,260
 Yolo,100043,President,,LIB,Gary Johnson,54
-Yolo,100043,President,,PF,Gloria Estela La Riva,1
+Yolo,100043,President,,PAF,Gloria Estela La Riva,1
 Yolo,100043,President,,DEM,Hillary Clinton,1245
 Yolo,100043,President,,GRN,Jill Stein,33
-Yolo,100043,President,,WI,Write-In,23
 Yolo,100043,Proposition 51,,,No,709
 Yolo,100043,Proposition 51,,,Yes,886
 Yolo,100043,Proposition 52,,,No,387
@@ -1803,14 +1976,19 @@ Yolo,100043,Proposition 66,,,No,894
 Yolo,100043,Proposition 66,,,Yes,628
 Yolo,100043,Proposition 67,,,No,446
 Yolo,100043,Proposition 67,,,Yes,1175
+Yolo,100043,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,1146
+Yolo,100043,State Assembly,4,REP,Charlie Schaupp,422
+Yolo,100043,State Senate,3,DEM,Bill Dodd,622
+Yolo,100043,State Senate,3,DEM,Mariko Yamada,900
+Yolo,100043,U.S. House,3,DEM,John Garamendi,1260
+Yolo,100043,U.S. House,3,REP,N Eugene Cleek,351
 Yolo,100043,U.S. Senate,,DEM,Kamala D. Harris,1165
 Yolo,100043,U.S. Senate,,DEM,Loretta L. Sanchez,345
-Yolo,100044,President,,REP/AI,Donald J. Trump,150
+Yolo,100044,President,,REP,Donald J. Trump,150
 Yolo,100044,President,,LIB,Gary Johnson,43
-Yolo,100044,President,,PF,Gloria Estela La Riva,3
+Yolo,100044,President,,PAF,Gloria Estela La Riva,3
 Yolo,100044,President,,DEM,Hillary Clinton,901
 Yolo,100044,President,,GRN,Jill Stein,26
-Yolo,100044,President,,WI,Write-In,14
 Yolo,100044,Proposition 51,,,No,493
 Yolo,100044,Proposition 51,,,Yes,596
 Yolo,100044,Proposition 52,,,No,247
@@ -1845,14 +2023,19 @@ Yolo,100044,Proposition 66,,,No,661
 Yolo,100044,Proposition 66,,,Yes,364
 Yolo,100044,Proposition 67,,,No,284
 Yolo,100044,Proposition 67,,,Yes,817
+Yolo,100044,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,802
+Yolo,100044,State Assembly,4,REP,Charlie Schaupp,249
+Yolo,100044,State Senate,3,DEM,Bill Dodd,367
+Yolo,100044,State Senate,3,DEM,Mariko Yamada,666
+Yolo,100044,U.S. House,3,DEM,John Garamendi,881
+Yolo,100044,U.S. House,3,REP,N Eugene Cleek,212
 Yolo,100044,U.S. Senate,,DEM,Kamala D. Harris,779
 Yolo,100044,U.S. Senate,,DEM,Loretta L. Sanchez,234
-Yolo,100045,President,,REP/AI,Donald J. Trump,112
+Yolo,100045,President,,REP,Donald J. Trump,112
 Yolo,100045,President,,LIB,Gary Johnson,27
-Yolo,100045,President,,PF,Gloria Estela La Riva,4
+Yolo,100045,President,,PAF,Gloria Estela La Riva,4
 Yolo,100045,President,,DEM,Hillary Clinton,514
 Yolo,100045,President,,GRN,Jill Stein,25
-Yolo,100045,President,,WI,Write-In,10
 Yolo,100045,Proposition 51,,,No,264
 Yolo,100045,Proposition 51,,,Yes,374
 Yolo,100045,Proposition 52,,,No,138
@@ -1887,14 +2070,18 @@ Yolo,100045,Proposition 66,,,No,371
 Yolo,100045,Proposition 66,,,Yes,236
 Yolo,100045,Proposition 67,,,No,196
 Yolo,100045,Proposition 67,,,Yes,462
+Yolo,100045,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,495
+Yolo,100045,State Assembly,4,REP,Charlie Schaupp,117
+Yolo,100045,State Senate,3,DEM,Bill Dodd,174
+Yolo,100045,State Senate,3,DEM,Mariko Yamada,421
+Yolo,100045,U.S. House,3,DEM,John Garamendi,525
+Yolo,100045,U.S. House,3,REP,N Eugene Cleek,113
 Yolo,100045,U.S. Senate,,DEM,Kamala D. Harris,429
 Yolo,100045,U.S. Senate,,DEM,Loretta L. Sanchez,171
-Yolo,100046,President,,REP/AI,Donald J. Trump,172
+Yolo,100046,President,,REP,Donald J. Trump,172
 Yolo,100046,President,,LIB,Gary Johnson,56
-Yolo,100046,President,,PF,Gloria Estela La Riva,0
 Yolo,100046,President,,DEM,Hillary Clinton,772
 Yolo,100046,President,,GRN,Jill Stein,35
-Yolo,100046,President,,WI,Write-In,9
 Yolo,100046,Proposition 51,,,No,467
 Yolo,100046,Proposition 51,,,Yes,556
 Yolo,100046,Proposition 52,,,No,267
@@ -1929,14 +2116,19 @@ Yolo,100046,Proposition 66,,,No,523
 Yolo,100046,Proposition 66,,,Yes,435
 Yolo,100046,Proposition 67,,,No,315
 Yolo,100046,Proposition 67,,,Yes,717
+Yolo,100046,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,727
+Yolo,100046,State Assembly,4,REP,Charlie Schaupp,247
+Yolo,100046,State Senate,3,DEM,Bill Dodd,357
+Yolo,100046,State Senate,3,DEM,Mariko Yamada,599
+Yolo,100046,U.S. House,3,DEM,John Garamendi,781
+Yolo,100046,U.S. House,3,REP,N Eugene Cleek,226
 Yolo,100046,U.S. Senate,,DEM,Kamala D. Harris,693
 Yolo,100046,U.S. Senate,,DEM,Loretta L. Sanchez,237
-Yolo,100047,President,,REP/AI,Donald J. Trump,82
+Yolo,100047,President,,REP,Donald J. Trump,82
 Yolo,100047,President,,LIB,Gary Johnson,14
-Yolo,100047,President,,PF,Gloria Estela La Riva,4
+Yolo,100047,President,,PAF,Gloria Estela La Riva,4
 Yolo,100047,President,,DEM,Hillary Clinton,587
 Yolo,100047,President,,GRN,Jill Stein,14
-Yolo,100047,President,,WI,Write-In,8
 Yolo,100047,Proposition 51,,,No,281
 Yolo,100047,Proposition 51,,,Yes,413
 Yolo,100047,Proposition 52,,,No,125
@@ -1971,14 +2163,19 @@ Yolo,100047,Proposition 66,,,No,444
 Yolo,100047,Proposition 66,,,Yes,219
 Yolo,100047,Proposition 67,,,No,174
 Yolo,100047,Proposition 67,,,Yes,527
+Yolo,100047,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,575
+Yolo,100047,State Assembly,4,REP,Charlie Schaupp,106
+Yolo,100047,State Senate,3,DEM,Bill Dodd,233
+Yolo,100047,State Senate,3,DEM,Mariko Yamada,429
+Yolo,100047,U.S. House,3,DEM,John Garamendi,598
+Yolo,100047,U.S. House,3,REP,N Eugene Cleek,100
 Yolo,100047,U.S. Senate,,DEM,Kamala D. Harris,516
 Yolo,100047,U.S. Senate,,DEM,Loretta L. Sanchez,140
-Yolo,100048,President,,REP/AI,Donald J. Trump,63
+Yolo,100048,President,,REP,Donald J. Trump,63
 Yolo,100048,President,,LIB,Gary Johnson,20
-Yolo,100048,President,,PF,Gloria Estela La Riva,1
+Yolo,100048,President,,PAF,Gloria Estela La Riva,1
 Yolo,100048,President,,DEM,Hillary Clinton,562
 Yolo,100048,President,,GRN,Jill Stein,13
-Yolo,100048,President,,WI,Write-In,4
 Yolo,100048,Proposition 51,,,No,254
 Yolo,100048,Proposition 51,,,Yes,384
 Yolo,100048,Proposition 52,,,No,119
@@ -2013,14 +2210,19 @@ Yolo,100048,Proposition 66,,,No,418
 Yolo,100048,Proposition 66,,,Yes,185
 Yolo,100048,Proposition 67,,,No,131
 Yolo,100048,Proposition 67,,,Yes,516
+Yolo,100048,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,517
+Yolo,100048,State Assembly,4,REP,Charlie Schaupp,98
+Yolo,100048,State Senate,3,DEM,Bill Dodd,240
+Yolo,100048,State Senate,3,DEM,Mariko Yamada,359
+Yolo,100048,U.S. House,3,DEM,John Garamendi,554
+Yolo,100048,U.S. House,3,REP,N Eugene Cleek,92
 Yolo,100048,U.S. Senate,,DEM,Kamala D. Harris,488
 Yolo,100048,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Yolo,100049,President,,REP/AI,Donald J. Trump,177
+Yolo,100049,President,,REP,Donald J. Trump,177
 Yolo,100049,President,,LIB,Gary Johnson,48
-Yolo,100049,President,,PF,Gloria Estela La Riva,6
+Yolo,100049,President,,PAF,Gloria Estela La Riva,6
 Yolo,100049,President,,DEM,Hillary Clinton,1029
 Yolo,100049,President,,GRN,Jill Stein,27
-Yolo,100049,President,,WI,Write-In,11
 Yolo,100049,Proposition 51,,,No,557
 Yolo,100049,Proposition 51,,,Yes,706
 Yolo,100049,Proposition 52,,,No,300
@@ -2055,14 +2257,19 @@ Yolo,100049,Proposition 66,,,No,720
 Yolo,100049,Proposition 66,,,Yes,476
 Yolo,100049,Proposition 67,,,No,345
 Yolo,100049,Proposition 67,,,Yes,950
+Yolo,100049,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,945
+Yolo,100049,State Assembly,4,REP,Charlie Schaupp,268
+Yolo,100049,State Senate,3,DEM,Bill Dodd,399
+Yolo,100049,State Senate,3,DEM,Mariko Yamada,768
+Yolo,100049,U.S. House,3,DEM,John Garamendi,1015
+Yolo,100049,U.S. House,3,REP,N Eugene Cleek,247
 Yolo,100049,U.S. Senate,,DEM,Kamala D. Harris,860
 Yolo,100049,U.S. Senate,,DEM,Loretta L. Sanchez,284
-Yolo,100050,President,,REP/AI,Donald J. Trump,72
+Yolo,100050,President,,REP,Donald J. Trump,72
 Yolo,100050,President,,LIB,Gary Johnson,18
-Yolo,100050,President,,PF,Gloria Estela La Riva,1
+Yolo,100050,President,,PAF,Gloria Estela La Riva,1
 Yolo,100050,President,,DEM,Hillary Clinton,400
 Yolo,100050,President,,GRN,Jill Stein,6
-Yolo,100050,President,,WI,Write-In,6
 Yolo,100050,Proposition 51,,,No,220
 Yolo,100050,Proposition 51,,,Yes,269
 Yolo,100050,Proposition 52,,,No,122
@@ -2097,14 +2304,18 @@ Yolo,100050,Proposition 66,,,No,290
 Yolo,100050,Proposition 66,,,Yes,169
 Yolo,100050,Proposition 67,,,No,130
 Yolo,100050,Proposition 67,,,Yes,364
+Yolo,100050,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,362
+Yolo,100050,State Assembly,4,REP,Charlie Schaupp,101
+Yolo,100050,State Senate,3,DEM,Bill Dodd,179
+Yolo,100050,State Senate,3,DEM,Mariko Yamada,284
+Yolo,100050,U.S. House,3,DEM,John Garamendi,397
+Yolo,100050,U.S. House,3,REP,N Eugene Cleek,96
 Yolo,100050,U.S. Senate,,DEM,Kamala D. Harris,350
 Yolo,100050,U.S. Senate,,DEM,Loretta L. Sanchez,98
-Yolo,100051,President,,REP/AI,Donald J. Trump,223
+Yolo,100051,President,,REP,Donald J. Trump,223
 Yolo,100051,President,,LIB,Gary Johnson,72
-Yolo,100051,President,,PF,Gloria Estela La Riva,0
 Yolo,100051,President,,DEM,Hillary Clinton,1031
 Yolo,100051,President,,GRN,Jill Stein,22
-Yolo,100051,President,,WI,Write-In,12
 Yolo,100051,Proposition 51,,,No,608
 Yolo,100051,Proposition 51,,,Yes,738
 Yolo,100051,Proposition 52,,,No,336
@@ -2139,14 +2350,19 @@ Yolo,100051,Proposition 66,,,No,703
 Yolo,100051,Proposition 66,,,Yes,546
 Yolo,100051,Proposition 67,,,No,435
 Yolo,100051,Proposition 67,,,Yes,912
+Yolo,100051,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,932
+Yolo,100051,State Assembly,4,REP,Charlie Schaupp,346
+Yolo,100051,State Senate,3,DEM,Bill Dodd,534
+Yolo,100051,State Senate,3,DEM,Mariko Yamada,691
+Yolo,100051,U.S. House,3,DEM,John Garamendi,1015
+Yolo,100051,U.S. House,3,REP,N Eugene Cleek,306
 Yolo,100051,U.S. Senate,,DEM,Kamala D. Harris,941
 Yolo,100051,U.S. Senate,,DEM,Loretta L. Sanchez,270
-Yolo,100052,President,,REP/AI,Donald J. Trump,78
+Yolo,100052,President,,REP,Donald J. Trump,78
 Yolo,100052,President,,LIB,Gary Johnson,30
-Yolo,100052,President,,PF,Gloria Estela La Riva,2
+Yolo,100052,President,,PAF,Gloria Estela La Riva,2
 Yolo,100052,President,,DEM,Hillary Clinton,766
 Yolo,100052,President,,GRN,Jill Stein,36
-Yolo,100052,President,,WI,Write-In,15
 Yolo,100052,Proposition 51,,,No,324
 Yolo,100052,Proposition 51,,,Yes,546
 Yolo,100052,Proposition 52,,,No,157
@@ -2181,14 +2397,18 @@ Yolo,100052,Proposition 66,,,No,519
 Yolo,100052,Proposition 66,,,Yes,289
 Yolo,100052,Proposition 67,,,No,164
 Yolo,100052,Proposition 67,,,Yes,733
+Yolo,100052,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,710
+Yolo,100052,State Assembly,4,REP,Charlie Schaupp,111
+Yolo,100052,State Senate,3,DEM,Bill Dodd,243
+Yolo,100052,State Senate,3,DEM,Mariko Yamada,575
+Yolo,100052,U.S. House,3,DEM,John Garamendi,725
+Yolo,100052,U.S. House,3,REP,N Eugene Cleek,131
 Yolo,100052,U.S. Senate,,DEM,Kamala D. Harris,598
 Yolo,100052,U.S. Senate,,DEM,Loretta L. Sanchez,228
-Yolo,100053,President,,REP/AI,Donald J. Trump,85
+Yolo,100053,President,,REP,Donald J. Trump,85
 Yolo,100053,President,,LIB,Gary Johnson,28
-Yolo,100053,President,,PF,Gloria Estela La Riva,0
 Yolo,100053,President,,DEM,Hillary Clinton,427
 Yolo,100053,President,,GRN,Jill Stein,12
-Yolo,100053,President,,WI,Write-In,10
 Yolo,100053,Proposition 51,,,No,258
 Yolo,100053,Proposition 51,,,Yes,290
 Yolo,100053,Proposition 52,,,No,129
@@ -2223,14 +2443,19 @@ Yolo,100053,Proposition 66,,,No,336
 Yolo,100053,Proposition 66,,,Yes,187
 Yolo,100053,Proposition 67,,,No,148
 Yolo,100053,Proposition 67,,,Yes,398
+Yolo,100053,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,408
+Yolo,100053,State Assembly,4,REP,Charlie Schaupp,130
+Yolo,100053,State Senate,3,DEM,Bill Dodd,190
+Yolo,100053,State Senate,3,DEM,Mariko Yamada,333
+Yolo,100053,U.S. House,3,DEM,John Garamendi,427
+Yolo,100053,U.S. House,3,REP,N Eugene Cleek,128
 Yolo,100053,U.S. Senate,,DEM,Kamala D. Harris,401
 Yolo,100053,U.S. Senate,,DEM,Loretta L. Sanchez,94
-Yolo,100054,President,,REP/AI,Donald J. Trump,232
+Yolo,100054,President,,REP,Donald J. Trump,232
 Yolo,100054,President,,LIB,Gary Johnson,47
-Yolo,100054,President,,PF,Gloria Estela La Riva,4
+Yolo,100054,President,,PAF,Gloria Estela La Riva,4
 Yolo,100054,President,,DEM,Hillary Clinton,1046
 Yolo,100054,President,,GRN,Jill Stein,32
-Yolo,100054,President,,WI,Write-In,21
 Yolo,100054,Proposition 51,,,No,626
 Yolo,100054,Proposition 51,,,Yes,726
 Yolo,100054,Proposition 52,,,No,346
@@ -2265,14 +2490,19 @@ Yolo,100054,Proposition 66,,,No,744
 Yolo,100054,Proposition 66,,,Yes,531
 Yolo,100054,Proposition 67,,,No,389
 Yolo,100054,Proposition 67,,,Yes,986
+Yolo,100054,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,963
+Yolo,100054,State Assembly,4,REP,Charlie Schaupp,335
+Yolo,100054,State Senate,3,DEM,Bill Dodd,519
+Yolo,100054,State Senate,3,DEM,Mariko Yamada,753
+Yolo,100054,U.S. House,3,DEM,John Garamendi,1038
+Yolo,100054,U.S. House,3,REP,N Eugene Cleek,309
 Yolo,100054,U.S. Senate,,DEM,Kamala D. Harris,951
 Yolo,100054,U.S. Senate,,DEM,Loretta L. Sanchez,293
-Yolo,100055,President,,REP/AI,Donald J. Trump,298
+Yolo,100055,President,,REP,Donald J. Trump,298
 Yolo,100055,President,,LIB,Gary Johnson,42
-Yolo,100055,President,,PF,Gloria Estela La Riva,1
+Yolo,100055,President,,PAF,Gloria Estela La Riva,1
 Yolo,100055,President,,DEM,Hillary Clinton,588
 Yolo,100055,President,,GRN,Jill Stein,7
-Yolo,100055,President,,WI,Write-In,7
 Yolo,100055,Proposition 51,,,No,502
 Yolo,100055,Proposition 51,,,Yes,442
 Yolo,100055,Proposition 52,,,No,312
@@ -2307,14 +2537,18 @@ Yolo,100055,Proposition 66,,,No,434
 Yolo,100055,Proposition 66,,,Yes,448
 Yolo,100055,Proposition 67,,,No,371
 Yolo,100055,Proposition 67,,,Yes,577
+Yolo,100055,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,559
+Yolo,100055,State Assembly,4,REP,Charlie Schaupp,358
+Yolo,100055,State Senate,3,DEM,Bill Dodd,476
+Yolo,100055,State Senate,3,DEM,Mariko Yamada,402
+Yolo,100055,U.S. House,3,DEM,John Garamendi,591
+Yolo,100055,U.S. House,3,REP,N Eugene Cleek,350
 Yolo,100055,U.S. Senate,,DEM,Kamala D. Harris,605
 Yolo,100055,U.S. Senate,,DEM,Loretta L. Sanchez,239
-Yolo,100056,President,,REP/AI,Donald J. Trump,40
+Yolo,100056,President,,REP,Donald J. Trump,40
 Yolo,100056,President,,LIB,Gary Johnson,1
-Yolo,100056,President,,PF,Gloria Estela La Riva,0
 Yolo,100056,President,,DEM,Hillary Clinton,95
 Yolo,100056,President,,GRN,Jill Stein,5
-Yolo,100056,President,,WI,Write-In,2
 Yolo,100056,Proposition 51,,,No,62
 Yolo,100056,Proposition 51,,,Yes,74
 Yolo,100056,Proposition 52,,,No,34
@@ -2349,14 +2583,19 @@ Yolo,100056,Proposition 66,,,No,62
 Yolo,100056,Proposition 66,,,Yes,71
 Yolo,100056,Proposition 67,,,No,65
 Yolo,100056,Proposition 67,,,Yes,69
+Yolo,100056,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,92
+Yolo,100056,State Assembly,4,REP,Charlie Schaupp,44
+Yolo,100056,State Senate,3,DEM,Bill Dodd,43
+Yolo,100056,State Senate,3,DEM,Mariko Yamada,84
+Yolo,100056,U.S. House,3,DEM,John Garamendi,96
+Yolo,100056,U.S. House,3,REP,N Eugene Cleek,43
 Yolo,100056,U.S. Senate,,DEM,Kamala D. Harris,77
 Yolo,100056,U.S. Senate,,DEM,Loretta L. Sanchez,46
-Yolo,100057,President,,REP/AI,Donald J. Trump,264
+Yolo,100057,President,,REP,Donald J. Trump,264
 Yolo,100057,President,,LIB,Gary Johnson,37
-Yolo,100057,President,,PF,Gloria Estela La Riva,6
+Yolo,100057,President,,PAF,Gloria Estela La Riva,6
 Yolo,100057,President,,DEM,Hillary Clinton,385
 Yolo,100057,President,,GRN,Jill Stein,10
-Yolo,100057,President,,WI,Write-In,12
 Yolo,100057,Proposition 51,,,No,336
 Yolo,100057,Proposition 51,,,Yes,357
 Yolo,100057,Proposition 52,,,No,223
@@ -2391,14 +2630,19 @@ Yolo,100057,Proposition 66,,,No,354
 Yolo,100057,Proposition 66,,,Yes,327
 Yolo,100057,Proposition 67,,,No,322
 Yolo,100057,Proposition 67,,,Yes,385
+Yolo,100057,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,400
+Yolo,100057,State Assembly,4,REP,Charlie Schaupp,288
+Yolo,100057,State Senate,3,DEM,Bill Dodd,291
+Yolo,100057,State Senate,3,DEM,Mariko Yamada,357
+Yolo,100057,U.S. House,3,DEM,John Garamendi,433
+Yolo,100057,U.S. House,3,REP,N Eugene Cleek,270
 Yolo,100057,U.S. Senate,,DEM,Kamala D. Harris,436
 Yolo,100057,U.S. Senate,,DEM,Loretta L. Sanchez,193
-Yolo,100058,President,,REP/AI,Donald J. Trump,615
+Yolo,100058,President,,REP,Donald J. Trump,615
 Yolo,100058,President,,LIB,Gary Johnson,56
-Yolo,100058,President,,PF,Gloria Estela La Riva,3
+Yolo,100058,President,,PAF,Gloria Estela La Riva,3
 Yolo,100058,President,,DEM,Hillary Clinton,529
 Yolo,100058,President,,GRN,Jill Stein,8
-Yolo,100058,President,,WI,Write-In,10
 Yolo,100058,Proposition 51,,,No,734
 Yolo,100058,Proposition 51,,,Yes,469
 Yolo,100058,Proposition 52,,,No,487
@@ -2433,14 +2677,19 @@ Yolo,100058,Proposition 66,,,No,501
 Yolo,100058,Proposition 66,,,Yes,669
 Yolo,100058,Proposition 67,,,No,700
 Yolo,100058,Proposition 67,,,Yes,508
+Yolo,100058,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,518
+Yolo,100058,State Assembly,4,REP,Charlie Schaupp,686
+Yolo,100058,State Senate,3,DEM,Bill Dodd,640
+Yolo,100058,State Senate,3,DEM,Mariko Yamada,456
+Yolo,100058,U.S. House,3,DEM,John Garamendi,625
+Yolo,100058,U.S. House,3,REP,N Eugene Cleek,590
 Yolo,100058,U.S. Senate,,DEM,Kamala D. Harris,670
 Yolo,100058,U.S. Senate,,DEM,Loretta L. Sanchez,343
-Yolo,100059,President,,REP/AI,Donald J. Trump,280
+Yolo,100059,President,,REP,Donald J. Trump,280
 Yolo,100059,President,,LIB,Gary Johnson,50
-Yolo,100059,President,,PF,Gloria Estela La Riva,7
+Yolo,100059,President,,PAF,Gloria Estela La Riva,7
 Yolo,100059,President,,DEM,Hillary Clinton,480
 Yolo,100059,President,,GRN,Jill Stein,12
-Yolo,100059,President,,WI,Write-In,8
 Yolo,100059,Proposition 51,,,No,415
 Yolo,100059,Proposition 51,,,Yes,408
 Yolo,100059,Proposition 52,,,No,271
@@ -2475,14 +2724,19 @@ Yolo,100059,Proposition 66,,,No,362
 Yolo,100059,Proposition 66,,,Yes,417
 Yolo,100059,Proposition 67,,,No,424
 Yolo,100059,Proposition 67,,,Yes,403
+Yolo,100059,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,479
+Yolo,100059,State Assembly,4,REP,Charlie Schaupp,339
+Yolo,100059,State Senate,3,DEM,Bill Dodd,341
+Yolo,100059,State Senate,3,DEM,Mariko Yamada,417
+Yolo,100059,U.S. House,3,DEM,John Garamendi,500
+Yolo,100059,U.S. House,3,REP,N Eugene Cleek,327
 Yolo,100059,U.S. Senate,,DEM,Kamala D. Harris,479
 Yolo,100059,U.S. Senate,,DEM,Loretta L. Sanchez,264
-Yolo,100060,President,,REP/AI,Donald J. Trump,364
+Yolo,100060,President,,REP,Donald J. Trump,364
 Yolo,100060,President,,LIB,Gary Johnson,41
-Yolo,100060,President,,PF,Gloria Estela La Riva,1
+Yolo,100060,President,,PAF,Gloria Estela La Riva,1
 Yolo,100060,President,,DEM,Hillary Clinton,421
 Yolo,100060,President,,GRN,Jill Stein,16
-Yolo,100060,President,,WI,Write-In,6
 Yolo,100060,Proposition 51,,,No,467
 Yolo,100060,Proposition 51,,,Yes,392
 Yolo,100060,Proposition 52,,,No,309
@@ -2517,14 +2771,19 @@ Yolo,100060,Proposition 66,,,No,374
 Yolo,100060,Proposition 66,,,Yes,447
 Yolo,100060,Proposition 67,,,No,470
 Yolo,100060,Proposition 67,,,Yes,385
+Yolo,100060,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,405
+Yolo,100060,State Assembly,4,REP,Charlie Schaupp,435
+Yolo,100060,State Senate,3,DEM,Bill Dodd,364
+Yolo,100060,State Senate,3,DEM,Mariko Yamada,393
+Yolo,100060,U.S. House,3,DEM,John Garamendi,465
+Yolo,100060,U.S. House,3,REP,N Eugene Cleek,382
 Yolo,100060,U.S. Senate,,DEM,Kamala D. Harris,483
 Yolo,100060,U.S. Senate,,DEM,Loretta L. Sanchez,228
-Yolo,100061,President,,REP/AI,Donald J. Trump,412
+Yolo,100061,President,,REP,Donald J. Trump,412
 Yolo,100061,President,,LIB,Gary Johnson,46
-Yolo,100061,President,,PF,Gloria Estela La Riva,2
+Yolo,100061,President,,PAF,Gloria Estela La Riva,2
 Yolo,100061,President,,DEM,Hillary Clinton,381
 Yolo,100061,President,,GRN,Jill Stein,17
-Yolo,100061,President,,WI,Write-In,10
 Yolo,100061,Proposition 51,,,No,511
 Yolo,100061,Proposition 51,,,Yes,349
 Yolo,100061,Proposition 52,,,No,316
@@ -2559,14 +2818,19 @@ Yolo,100061,Proposition 66,,,No,344
 Yolo,100061,Proposition 66,,,Yes,493
 Yolo,100061,Proposition 67,,,No,502
 Yolo,100061,Proposition 67,,,Yes,357
+Yolo,100061,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,395
+Yolo,100061,State Assembly,4,REP,Charlie Schaupp,466
+Yolo,100061,State Senate,3,DEM,Bill Dodd,419
+Yolo,100061,State Senate,3,DEM,Mariko Yamada,364
+Yolo,100061,U.S. House,3,DEM,John Garamendi,459
+Yolo,100061,U.S. House,3,REP,N Eugene Cleek,414
 Yolo,100061,U.S. Senate,,DEM,Kamala D. Harris,467
 Yolo,100061,U.S. Senate,,DEM,Loretta L. Sanchez,276
-Yolo,100062,President,,REP/AI,Donald J. Trump,143
+Yolo,100062,President,,REP,Donald J. Trump,143
 Yolo,100062,President,,LIB,Gary Johnson,16
-Yolo,100062,President,,PF,Gloria Estela La Riva,5
+Yolo,100062,President,,PAF,Gloria Estela La Riva,5
 Yolo,100062,President,,DEM,Hillary Clinton,238
 Yolo,100062,President,,GRN,Jill Stein,9
-Yolo,100062,President,,WI,Write-In,4
 Yolo,100062,Proposition 51,,,No,217
 Yolo,100062,Proposition 51,,,Yes,191
 Yolo,100062,Proposition 52,,,No,131
@@ -2601,14 +2865,18 @@ Yolo,100062,Proposition 66,,,No,216
 Yolo,100062,Proposition 66,,,Yes,186
 Yolo,100062,Proposition 67,,,No,241
 Yolo,100062,Proposition 67,,,Yes,176
+Yolo,100062,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,240
+Yolo,100062,State Assembly,4,REP,Charlie Schaupp,169
+Yolo,100062,State Senate,3,DEM,Bill Dodd,170
+Yolo,100062,State Senate,3,DEM,Mariko Yamada,210
+Yolo,100062,U.S. House,3,DEM,John Garamendi,251
+Yolo,100062,U.S. House,3,REP,N Eugene Cleek,164
 Yolo,100062,U.S. Senate,,DEM,Kamala D. Harris,201
 Yolo,100062,U.S. Senate,,DEM,Loretta L. Sanchez,154
-Yolo,100063,President,,REP/AI,Donald J. Trump,313
+Yolo,100063,President,,REP,Donald J. Trump,313
 Yolo,100063,President,,LIB,Gary Johnson,43
-Yolo,100063,President,,PF,Gloria Estela La Riva,0
 Yolo,100063,President,,DEM,Hillary Clinton,320
 Yolo,100063,President,,GRN,Jill Stein,6
-Yolo,100063,President,,WI,Write-In,7
 Yolo,100063,Proposition 51,,,No,417
 Yolo,100063,Proposition 51,,,Yes,271
 Yolo,100063,Proposition 52,,,No,244
@@ -2643,14 +2911,19 @@ Yolo,100063,Proposition 66,,,No,295
 Yolo,100063,Proposition 66,,,Yes,349
 Yolo,100063,Proposition 67,,,No,352
 Yolo,100063,Proposition 67,,,Yes,331
+Yolo,100063,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,317
+Yolo,100063,State Assembly,4,REP,Charlie Schaupp,370
+Yolo,100063,State Senate,3,DEM,Bill Dodd,324
+Yolo,100063,State Senate,3,DEM,Mariko Yamada,294
+Yolo,100063,U.S. House,3,DEM,John Garamendi,372
+Yolo,100063,U.S. House,3,REP,N Eugene Cleek,323
 Yolo,100063,U.S. Senate,,DEM,Kamala D. Harris,391
 Yolo,100063,U.S. Senate,,DEM,Loretta L. Sanchez,192
-Yolo,100064,President,,REP/AI,Donald J. Trump,270
+Yolo,100064,President,,REP,Donald J. Trump,270
 Yolo,100064,President,,LIB,Gary Johnson,28
-Yolo,100064,President,,PF,Gloria Estela La Riva,3
+Yolo,100064,President,,PAF,Gloria Estela La Riva,3
 Yolo,100064,President,,DEM,Hillary Clinton,337
 Yolo,100064,President,,GRN,Jill Stein,12
-Yolo,100064,President,,WI,Write-In,16
 Yolo,100064,Proposition 51,,,No,339
 Yolo,100064,Proposition 51,,,Yes,317
 Yolo,100064,Proposition 52,,,No,233
@@ -2685,14 +2958,19 @@ Yolo,100064,Proposition 66,,,No,295
 Yolo,100064,Proposition 66,,,Yes,347
 Yolo,100064,Proposition 67,,,No,364
 Yolo,100064,Proposition 67,,,Yes,288
+Yolo,100064,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,345
+Yolo,100064,State Assembly,4,REP,Charlie Schaupp,310
+Yolo,100064,State Senate,3,DEM,Bill Dodd,295
+Yolo,100064,State Senate,3,DEM,Mariko Yamada,294
+Yolo,100064,U.S. House,3,DEM,John Garamendi,395
+Yolo,100064,U.S. House,3,REP,N Eugene Cleek,277
 Yolo,100064,U.S. Senate,,DEM,Kamala D. Harris,348
 Yolo,100064,U.S. Senate,,DEM,Loretta L. Sanchez,227
-Yolo,100065,President,,REP/AI,Donald J. Trump,295
+Yolo,100065,President,,REP,Donald J. Trump,295
 Yolo,100065,President,,LIB,Gary Johnson,34
-Yolo,100065,President,,PF,Gloria Estela La Riva,2
+Yolo,100065,President,,PAF,Gloria Estela La Riva,2
 Yolo,100065,President,,DEM,Hillary Clinton,288
 Yolo,100065,President,,GRN,Jill Stein,10
-Yolo,100065,President,,WI,Write-In,8
 Yolo,100065,Proposition 51,,,No,374
 Yolo,100065,Proposition 51,,,Yes,250
 Yolo,100065,Proposition 52,,,No,239
@@ -2727,14 +3005,19 @@ Yolo,100065,Proposition 66,,,No,225
 Yolo,100065,Proposition 66,,,Yes,375
 Yolo,100065,Proposition 67,,,No,352
 Yolo,100065,Proposition 67,,,Yes,272
+Yolo,100065,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,267
+Yolo,100065,State Assembly,4,REP,Charlie Schaupp,354
+Yolo,100065,State Senate,3,DEM,Bill Dodd,307
+Yolo,100065,State Senate,3,DEM,Mariko Yamada,242
+Yolo,100065,U.S. House,3,DEM,John Garamendi,318
+Yolo,100065,U.S. House,3,REP,N Eugene Cleek,312
 Yolo,100065,U.S. Senate,,DEM,Kamala D. Harris,370
 Yolo,100065,U.S. Senate,,DEM,Loretta L. Sanchez,163
-Yolo,100066,President,,REP/AI,Donald J. Trump,111
+Yolo,100066,President,,REP,Donald J. Trump,111
 Yolo,100066,President,,LIB,Gary Johnson,17
-Yolo,100066,President,,PF,Gloria Estela La Riva,4
+Yolo,100066,President,,PAF,Gloria Estela La Riva,4
 Yolo,100066,President,,DEM,Hillary Clinton,278
 Yolo,100066,President,,GRN,Jill Stein,8
-Yolo,100066,President,,WI,Write-In,4
 Yolo,100066,Proposition 51,,,No,152
 Yolo,100066,Proposition 51,,,Yes,264
 Yolo,100066,Proposition 52,,,No,105
@@ -2769,14 +3052,19 @@ Yolo,100066,Proposition 66,,,No,185
 Yolo,100066,Proposition 66,,,Yes,215
 Yolo,100066,Proposition 67,,,No,197
 Yolo,100066,Proposition 67,,,Yes,212
+Yolo,100066,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,289
+Yolo,100066,State Assembly,4,REP,Charlie Schaupp,123
+Yolo,100066,State Senate,3,DEM,Bill Dodd,147
+Yolo,100066,State Senate,3,DEM,Mariko Yamada,244
+Yolo,100066,U.S. House,3,DEM,John Garamendi,302
+Yolo,100066,U.S. House,3,REP,N Eugene Cleek,113
 Yolo,100066,U.S. Senate,,DEM,Kamala D. Harris,215
 Yolo,100066,U.S. Senate,,DEM,Loretta L. Sanchez,167
-Yolo,100067,President,,REP/AI,Donald J. Trump,123
+Yolo,100067,President,,REP,Donald J. Trump,123
 Yolo,100067,President,,LIB,Gary Johnson,13
-Yolo,100067,President,,PF,Gloria Estela La Riva,2
+Yolo,100067,President,,PAF,Gloria Estela La Riva,2
 Yolo,100067,President,,DEM,Hillary Clinton,237
 Yolo,100067,President,,GRN,Jill Stein,7
-Yolo,100067,President,,WI,Write-In,1
 Yolo,100067,Proposition 51,,,No,176
 Yolo,100067,Proposition 51,,,Yes,191
 Yolo,100067,Proposition 52,,,No,111
@@ -2811,14 +3099,19 @@ Yolo,100067,Proposition 66,,,No,162
 Yolo,100067,Proposition 66,,,Yes,199
 Yolo,100067,Proposition 67,,,No,201
 Yolo,100067,Proposition 67,,,Yes,172
+Yolo,100067,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,243
+Yolo,100067,State Assembly,4,REP,Charlie Schaupp,137
+Yolo,100067,State Senate,3,DEM,Bill Dodd,164
+Yolo,100067,State Senate,3,DEM,Mariko Yamada,182
+Yolo,100067,U.S. House,3,DEM,John Garamendi,248
+Yolo,100067,U.S. House,3,REP,N Eugene Cleek,132
 Yolo,100067,U.S. Senate,,DEM,Kamala D. Harris,202
 Yolo,100067,U.S. Senate,,DEM,Loretta L. Sanchez,130
-Yolo,100068,President,,REP/AI,Donald J. Trump,162
+Yolo,100068,President,,REP,Donald J. Trump,162
 Yolo,100068,President,,LIB,Gary Johnson,18
-Yolo,100068,President,,PF,Gloria Estela La Riva,6
+Yolo,100068,President,,PAF,Gloria Estela La Riva,6
 Yolo,100068,President,,DEM,Hillary Clinton,344
 Yolo,100068,President,,GRN,Jill Stein,7
-Yolo,100068,President,,WI,Write-In,4
 Yolo,100068,Proposition 51,,,No,244
 Yolo,100068,Proposition 51,,,Yes,288
 Yolo,100068,Proposition 52,,,No,163
@@ -2853,14 +3146,19 @@ Yolo,100068,Proposition 66,,,No,238
 Yolo,100068,Proposition 66,,,Yes,276
 Yolo,100068,Proposition 67,,,No,302
 Yolo,100068,Proposition 67,,,Yes,223
+Yolo,100068,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,324
+Yolo,100068,State Assembly,4,REP,Charlie Schaupp,204
+Yolo,100068,State Senate,3,DEM,Bill Dodd,219
+Yolo,100068,State Senate,3,DEM,Mariko Yamada,285
+Yolo,100068,U.S. House,3,DEM,John Garamendi,356
+Yolo,100068,U.S. House,3,REP,N Eugene Cleek,185
 Yolo,100068,U.S. Senate,,DEM,Kamala D. Harris,259
 Yolo,100068,U.S. Senate,,DEM,Loretta L. Sanchez,237
-Yolo,100069,President,,REP/AI,Donald J. Trump,133
+Yolo,100069,President,,REP,Donald J. Trump,133
 Yolo,100069,President,,LIB,Gary Johnson,13
-Yolo,100069,President,,PF,Gloria Estela La Riva,3
+Yolo,100069,President,,PAF,Gloria Estela La Riva,3
 Yolo,100069,President,,DEM,Hillary Clinton,355
 Yolo,100069,President,,GRN,Jill Stein,10
-Yolo,100069,President,,WI,Write-In,6
 Yolo,100069,Proposition 51,,,No,226
 Yolo,100069,Proposition 51,,,Yes,300
 Yolo,100069,Proposition 52,,,No,164
@@ -2895,14 +3193,19 @@ Yolo,100069,Proposition 66,,,No,240
 Yolo,100069,Proposition 66,,,Yes,275
 Yolo,100069,Proposition 67,,,No,234
 Yolo,100069,Proposition 67,,,Yes,283
+Yolo,100069,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,357
+Yolo,100069,State Assembly,4,REP,Charlie Schaupp,160
+Yolo,100069,State Senate,3,DEM,Bill Dodd,197
+Yolo,100069,State Senate,3,DEM,Mariko Yamada,297
+Yolo,100069,U.S. House,3,DEM,John Garamendi,360
+Yolo,100069,U.S. House,3,REP,N Eugene Cleek,161
 Yolo,100069,U.S. Senate,,DEM,Kamala D. Harris,277
 Yolo,100069,U.S. Senate,,DEM,Loretta L. Sanchez,211
-Yolo,100070,President,,REP/AI,Donald J. Trump,540
+Yolo,100070,President,,REP,Donald J. Trump,540
 Yolo,100070,President,,LIB,Gary Johnson,94
-Yolo,100070,President,,PF,Gloria Estela La Riva,8
+Yolo,100070,President,,PAF,Gloria Estela La Riva,8
 Yolo,100070,President,,DEM,Hillary Clinton,1325
 Yolo,100070,President,,GRN,Jill Stein,32
-Yolo,100070,President,,WI,Write-In,20
 Yolo,100070,Proposition 51,,,No,977
 Yolo,100070,Proposition 51,,,Yes,980
 Yolo,100070,Proposition 52,,,No,629
@@ -2937,14 +3240,19 @@ Yolo,100070,Proposition 66,,,No,897
 Yolo,100070,Proposition 66,,,Yes,988
 Yolo,100070,Proposition 67,,,No,936
 Yolo,100070,Proposition 67,,,Yes,1045
+Yolo,100070,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,1296
+Yolo,100070,State Assembly,4,REP,Charlie Schaupp,656
+Yolo,100070,State Senate,3,DEM,Bill Dodd,833
+Yolo,100070,State Senate,3,DEM,Mariko Yamada,996
+Yolo,100070,U.S. House,3,DEM,John Garamendi,1356
+Yolo,100070,U.S. House,3,REP,N Eugene Cleek,627
 Yolo,100070,U.S. Senate,,DEM,Kamala D. Harris,1217
 Yolo,100070,U.S. Senate,,DEM,Loretta L. Sanchez,573
-Yolo,100071,President,,REP/AI,Donald J. Trump,204
+Yolo,100071,President,,REP,Donald J. Trump,204
 Yolo,100071,President,,LIB,Gary Johnson,26
-Yolo,100071,President,,PF,Gloria Estela La Riva,5
+Yolo,100071,President,,PAF,Gloria Estela La Riva,5
 Yolo,100071,President,,DEM,Hillary Clinton,375
 Yolo,100071,President,,GRN,Jill Stein,8
-Yolo,100071,President,,WI,Write-In,4
 Yolo,100071,Proposition 51,,,No,300
 Yolo,100071,Proposition 51,,,Yes,316
 Yolo,100071,Proposition 52,,,No,198
@@ -2979,14 +3287,19 @@ Yolo,100071,Proposition 66,,,No,303
 Yolo,100071,Proposition 66,,,Yes,286
 Yolo,100071,Proposition 67,,,No,311
 Yolo,100071,Proposition 67,,,Yes,303
+Yolo,100071,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,372
+Yolo,100071,State Assembly,4,REP,Charlie Schaupp,233
+Yolo,100071,State Senate,3,DEM,Bill Dodd,229
+Yolo,100071,State Senate,3,DEM,Mariko Yamada,327
+Yolo,100071,U.S. House,3,DEM,John Garamendi,394
+Yolo,100071,U.S. House,3,REP,N Eugene Cleek,210
 Yolo,100071,U.S. Senate,,DEM,Kamala D. Harris,335
 Yolo,100071,U.S. Senate,,DEM,Loretta L. Sanchez,192
-Yolo,100072,President,,REP/AI,Donald J. Trump,280
+Yolo,100072,President,,REP,Donald J. Trump,280
 Yolo,100072,President,,LIB,Gary Johnson,48
-Yolo,100072,President,,PF,Gloria Estela La Riva,9
+Yolo,100072,President,,PAF,Gloria Estela La Riva,9
 Yolo,100072,President,,DEM,Hillary Clinton,528
 Yolo,100072,President,,GRN,Jill Stein,17
-Yolo,100072,President,,WI,Write-In,14
 Yolo,100072,Proposition 51,,,No,396
 Yolo,100072,Proposition 51,,,Yes,479
 Yolo,100072,Proposition 52,,,No,233
@@ -3021,14 +3334,19 @@ Yolo,100072,Proposition 66,,,No,388
 Yolo,100072,Proposition 66,,,Yes,453
 Yolo,100072,Proposition 67,,,No,465
 Yolo,100072,Proposition 67,,,Yes,401
+Yolo,100072,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,536
+Yolo,100072,State Assembly,4,REP,Charlie Schaupp,330
+Yolo,100072,State Senate,3,DEM,Bill Dodd,322
+Yolo,100072,State Senate,3,DEM,Mariko Yamada,484
+Yolo,100072,U.S. House,3,DEM,John Garamendi,600
+Yolo,100072,U.S. House,3,REP,N Eugene Cleek,277
 Yolo,100072,U.S. Senate,,DEM,Kamala D. Harris,444
 Yolo,100072,U.S. Senate,,DEM,Loretta L. Sanchez,352
-Yolo,100073,President,,REP/AI,Donald J. Trump,131
+Yolo,100073,President,,REP,Donald J. Trump,131
 Yolo,100073,President,,LIB,Gary Johnson,18
-Yolo,100073,President,,PF,Gloria Estela La Riva,1
+Yolo,100073,President,,PAF,Gloria Estela La Riva,1
 Yolo,100073,President,,DEM,Hillary Clinton,279
 Yolo,100073,President,,GRN,Jill Stein,11
-Yolo,100073,President,,WI,Write-In,3
 Yolo,100073,Proposition 51,,,No,208
 Yolo,100073,Proposition 51,,,Yes,224
 Yolo,100073,Proposition 52,,,No,132
@@ -3063,14 +3381,19 @@ Yolo,100073,Proposition 66,,,No,209
 Yolo,100073,Proposition 66,,,Yes,207
 Yolo,100073,Proposition 67,,,No,205
 Yolo,100073,Proposition 67,,,Yes,223
+Yolo,100073,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,281
+Yolo,100073,State Assembly,4,REP,Charlie Schaupp,144
+Yolo,100073,State Senate,3,DEM,Bill Dodd,136
+Yolo,100073,State Senate,3,DEM,Mariko Yamada,256
+Yolo,100073,U.S. House,3,DEM,John Garamendi,297
+Yolo,100073,U.S. House,3,REP,N Eugene Cleek,127
 Yolo,100073,U.S. Senate,,DEM,Kamala D. Harris,231
 Yolo,100073,U.S. Senate,,DEM,Loretta L. Sanchez,156
-Yolo,100074,President,,REP/AI,Donald J. Trump,336
+Yolo,100074,President,,REP,Donald J. Trump,336
 Yolo,100074,President,,LIB,Gary Johnson,43
-Yolo,100074,President,,PF,Gloria Estela La Riva,7
+Yolo,100074,President,,PAF,Gloria Estela La Riva,7
 Yolo,100074,President,,DEM,Hillary Clinton,531
 Yolo,100074,President,,GRN,Jill Stein,24
-Yolo,100074,President,,WI,Write-In,18
 Yolo,100074,Proposition 51,,,No,449
 Yolo,100074,Proposition 51,,,Yes,510
 Yolo,100074,Proposition 52,,,No,306
@@ -3105,14 +3428,19 @@ Yolo,100074,Proposition 66,,,No,436
 Yolo,100074,Proposition 66,,,Yes,493
 Yolo,100074,Proposition 67,,,No,558
 Yolo,100074,Proposition 67,,,Yes,392
+Yolo,100074,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,538
+Yolo,100074,State Assembly,4,REP,Charlie Schaupp,396
+Yolo,100074,State Senate,3,DEM,Bill Dodd,396
+Yolo,100074,State Senate,3,DEM,Mariko Yamada,469
+Yolo,100074,U.S. House,3,DEM,John Garamendi,574
+Yolo,100074,U.S. House,3,REP,N Eugene Cleek,372
 Yolo,100074,U.S. Senate,,DEM,Kamala D. Harris,457
 Yolo,100074,U.S. Senate,,DEM,Loretta L. Sanchez,410
-Yolo,100075,President,,REP/AI,Donald J. Trump,231
+Yolo,100075,President,,REP,Donald J. Trump,231
 Yolo,100075,President,,LIB,Gary Johnson,32
-Yolo,100075,President,,PF,Gloria Estela La Riva,2
+Yolo,100075,President,,PAF,Gloria Estela La Riva,2
 Yolo,100075,President,,DEM,Hillary Clinton,378
 Yolo,100075,President,,GRN,Jill Stein,10
-Yolo,100075,President,,WI,Write-In,7
 Yolo,100075,Proposition 51,,,No,303
 Yolo,100075,Proposition 51,,,Yes,352
 Yolo,100075,Proposition 52,,,No,211
@@ -3147,14 +3475,19 @@ Yolo,100075,Proposition 66,,,No,285
 Yolo,100075,Proposition 66,,,Yes,342
 Yolo,100075,Proposition 67,,,No,353
 Yolo,100075,Proposition 67,,,Yes,297
+Yolo,100075,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,385
+Yolo,100075,State Assembly,4,REP,Charlie Schaupp,256
+Yolo,100075,State Senate,3,DEM,Bill Dodd,230
+Yolo,100075,State Senate,3,DEM,Mariko Yamada,362
+Yolo,100075,U.S. House,3,DEM,John Garamendi,411
+Yolo,100075,U.S. House,3,REP,N Eugene Cleek,232
 Yolo,100075,U.S. Senate,,DEM,Kamala D. Harris,337
 Yolo,100075,U.S. Senate,,DEM,Loretta L. Sanchez,241
-Yolo,100076,President,,REP/AI,Donald J. Trump,196
+Yolo,100076,President,,REP,Donald J. Trump,196
 Yolo,100076,President,,LIB,Gary Johnson,31
-Yolo,100076,President,,PF,Gloria Estela La Riva,9
+Yolo,100076,President,,PAF,Gloria Estela La Riva,9
 Yolo,100076,President,,DEM,Hillary Clinton,404
 Yolo,100076,President,,GRN,Jill Stein,19
-Yolo,100076,President,,WI,Write-In,8
 Yolo,100076,Proposition 51,,,No,316
 Yolo,100076,Proposition 51,,,Yes,352
 Yolo,100076,Proposition 52,,,No,192
@@ -3189,14 +3522,19 @@ Yolo,100076,Proposition 66,,,No,323
 Yolo,100076,Proposition 66,,,Yes,320
 Yolo,100076,Proposition 67,,,No,330
 Yolo,100076,Proposition 67,,,Yes,332
+Yolo,100076,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,420
+Yolo,100076,State Assembly,4,REP,Charlie Schaupp,239
+Yolo,100076,State Senate,3,DEM,Bill Dodd,287
+Yolo,100076,State Senate,3,DEM,Mariko Yamada,337
+Yolo,100076,U.S. House,3,DEM,John Garamendi,448
+Yolo,100076,U.S. House,3,REP,N Eugene Cleek,214
 Yolo,100076,U.S. Senate,,DEM,Kamala D. Harris,335
 Yolo,100076,U.S. Senate,,DEM,Loretta L. Sanchez,273
-Yolo,100077,President,,REP/AI,Donald J. Trump,100
+Yolo,100077,President,,REP,Donald J. Trump,100
 Yolo,100077,President,,LIB,Gary Johnson,22
-Yolo,100077,President,,PF,Gloria Estela La Riva,2
+Yolo,100077,President,,PAF,Gloria Estela La Riva,2
 Yolo,100077,President,,DEM,Hillary Clinton,282
 Yolo,100077,President,,GRN,Jill Stein,7
-Yolo,100077,President,,WI,Write-In,3
 Yolo,100077,Proposition 51,,,No,177
 Yolo,100077,Proposition 51,,,Yes,234
 Yolo,100077,Proposition 52,,,No,122
@@ -3231,14 +3569,19 @@ Yolo,100077,Proposition 66,,,No,185
 Yolo,100077,Proposition 66,,,Yes,206
 Yolo,100077,Proposition 67,,,No,197
 Yolo,100077,Proposition 67,,,Yes,216
+Yolo,100077,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,277
+Yolo,100077,State Assembly,4,REP,Charlie Schaupp,130
+Yolo,100077,State Senate,3,DEM,Bill Dodd,169
+Yolo,100077,State Senate,3,DEM,Mariko Yamada,233
+Yolo,100077,U.S. House,3,DEM,John Garamendi,308
+Yolo,100077,U.S. House,3,REP,N Eugene Cleek,106
 Yolo,100077,U.S. Senate,,DEM,Kamala D. Harris,253
 Yolo,100077,U.S. Senate,,DEM,Loretta L. Sanchez,147
-Yolo,100078,President,,REP/AI,Donald J. Trump,150
+Yolo,100078,President,,REP,Donald J. Trump,150
 Yolo,100078,President,,LIB,Gary Johnson,25
-Yolo,100078,President,,PF,Gloria Estela La Riva,6
+Yolo,100078,President,,PAF,Gloria Estela La Riva,6
 Yolo,100078,President,,DEM,Hillary Clinton,347
 Yolo,100078,President,,GRN,Jill Stein,12
-Yolo,100078,President,,WI,Write-In,8
 Yolo,100078,Proposition 51,,,No,238
 Yolo,100078,Proposition 51,,,Yes,297
 Yolo,100078,Proposition 52,,,No,145
@@ -3273,14 +3616,19 @@ Yolo,100078,Proposition 66,,,No,258
 Yolo,100078,Proposition 66,,,Yes,252
 Yolo,100078,Proposition 67,,,No,259
 Yolo,100078,Proposition 67,,,Yes,275
+Yolo,100078,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,348
+Yolo,100078,State Assembly,4,REP,Charlie Schaupp,179
+Yolo,100078,State Senate,3,DEM,Bill Dodd,216
+Yolo,100078,State Senate,3,DEM,Mariko Yamada,304
+Yolo,100078,U.S. House,3,DEM,John Garamendi,393
+Yolo,100078,U.S. House,3,REP,N Eugene Cleek,142
 Yolo,100078,U.S. Senate,,DEM,Kamala D. Harris,301
 Yolo,100078,U.S. Senate,,DEM,Loretta L. Sanchez,198
-Yolo,100079,President,,REP/AI,Donald J. Trump,339
+Yolo,100079,President,,REP,Donald J. Trump,339
 Yolo,100079,President,,LIB,Gary Johnson,68
-Yolo,100079,President,,PF,Gloria Estela La Riva,9
+Yolo,100079,President,,PAF,Gloria Estela La Riva,9
 Yolo,100079,President,,DEM,Hillary Clinton,793
 Yolo,100079,President,,GRN,Jill Stein,20
-Yolo,100079,President,,WI,Write-In,20
 Yolo,100079,Proposition 51,,,No,521
 Yolo,100079,Proposition 51,,,Yes,695
 Yolo,100079,Proposition 52,,,No,360
@@ -3315,14 +3663,19 @@ Yolo,100079,Proposition 66,,,No,548
 Yolo,100079,Proposition 66,,,Yes,635
 Yolo,100079,Proposition 67,,,No,647
 Yolo,100079,Proposition 67,,,Yes,581
+Yolo,100079,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,803
+Yolo,100079,State Assembly,4,REP,Charlie Schaupp,397
+Yolo,100079,State Senate,3,DEM,Bill Dodd,477
+Yolo,100079,State Senate,3,DEM,Mariko Yamada,654
+Yolo,100079,U.S. House,3,DEM,John Garamendi,832
+Yolo,100079,U.S. House,3,REP,N Eugene Cleek,369
 Yolo,100079,U.S. Senate,,DEM,Kamala D. Harris,591
 Yolo,100079,U.S. Senate,,DEM,Loretta L. Sanchez,509
-Yolo,100080,President,,REP/AI,Donald J. Trump,415
+Yolo,100080,President,,REP,Donald J. Trump,415
 Yolo,100080,President,,LIB,Gary Johnson,66
-Yolo,100080,President,,PF,Gloria Estela La Riva,4
+Yolo,100080,President,,PAF,Gloria Estela La Riva,4
 Yolo,100080,President,,DEM,Hillary Clinton,1038
 Yolo,100080,President,,GRN,Jill Stein,25
-Yolo,100080,President,,WI,Write-In,23
 Yolo,100080,Proposition 51,,,No,654
 Yolo,100080,Proposition 51,,,Yes,870
 Yolo,100080,Proposition 52,,,No,483
@@ -3357,14 +3710,19 @@ Yolo,100080,Proposition 66,,,No,718
 Yolo,100080,Proposition 66,,,Yes,760
 Yolo,100080,Proposition 67,,,No,749
 Yolo,100080,Proposition 67,,,Yes,773
+Yolo,100080,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,1017
+Yolo,100080,State Assembly,4,REP,Charlie Schaupp,487
+Yolo,100080,State Senate,3,DEM,Bill Dodd,597
+Yolo,100080,State Senate,3,DEM,Mariko Yamada,812
+Yolo,100080,U.S. House,3,DEM,John Garamendi,1068
+Yolo,100080,U.S. House,3,REP,N Eugene Cleek,452
 Yolo,100080,U.S. Senate,,DEM,Kamala D. Harris,807
 Yolo,100080,U.S. Senate,,DEM,Loretta L. Sanchez,573
-Yolo,100081,President,,REP/AI,Donald J. Trump,215
+Yolo,100081,President,,REP,Donald J. Trump,215
 Yolo,100081,President,,LIB,Gary Johnson,35
-Yolo,100081,President,,PF,Gloria Estela La Riva,1
+Yolo,100081,President,,PAF,Gloria Estela La Riva,1
 Yolo,100081,President,,DEM,Hillary Clinton,536
 Yolo,100081,President,,GRN,Jill Stein,16
-Yolo,100081,President,,WI,Write-In,11
 Yolo,100081,Proposition 51,,,No,343
 Yolo,100081,Proposition 51,,,Yes,459
 Yolo,100081,Proposition 52,,,No,225
@@ -3399,14 +3757,19 @@ Yolo,100081,Proposition 66,,,No,355
 Yolo,100081,Proposition 66,,,Yes,416
 Yolo,100081,Proposition 67,,,No,424
 Yolo,100081,Proposition 67,,,Yes,382
+Yolo,100081,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,524
+Yolo,100081,State Assembly,4,REP,Charlie Schaupp,263
+Yolo,100081,State Senate,3,DEM,Bill Dodd,331
+Yolo,100081,State Senate,3,DEM,Mariko Yamada,415
+Yolo,100081,U.S. House,3,DEM,John Garamendi,559
+Yolo,100081,U.S. House,3,REP,N Eugene Cleek,241
 Yolo,100081,U.S. Senate,,DEM,Kamala D. Harris,438
 Yolo,100081,U.S. Senate,,DEM,Loretta L. Sanchez,284
-Yolo,100082,President,,REP/AI,Donald J. Trump,295
+Yolo,100082,President,,REP,Donald J. Trump,295
 Yolo,100082,President,,LIB,Gary Johnson,44
-Yolo,100082,President,,PF,Gloria Estela La Riva,3
+Yolo,100082,President,,PAF,Gloria Estela La Riva,3
 Yolo,100082,President,,DEM,Hillary Clinton,244
 Yolo,100082,President,,GRN,Jill Stein,3
-Yolo,100082,President,,WI,Write-In,2
 Yolo,100082,Proposition 51,,,No,375
 Yolo,100082,Proposition 51,,,Yes,217
 Yolo,100082,Proposition 52,,,No,259
@@ -3441,14 +3804,19 @@ Yolo,100082,Proposition 66,,,No,237
 Yolo,100082,Proposition 66,,,Yes,332
 Yolo,100082,Proposition 67,,,No,340
 Yolo,100082,Proposition 67,,,Yes,252
+Yolo,100082,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,240
+Yolo,100082,State Assembly,4,REP,Charlie Schaupp,335
+Yolo,100082,State Senate,3,DEM,Bill Dodd,304
+Yolo,100082,State Senate,3,DEM,Mariko Yamada,207
+Yolo,100082,U.S. House,3,DEM,John Garamendi,367
+Yolo,100082,U.S. House,3,REP,N Eugene Cleek,223
 Yolo,100082,U.S. Senate,,DEM,Kamala D. Harris,290
 Yolo,100082,U.S. Senate,,DEM,Loretta L. Sanchez,199
-Yolo,100083,President,,REP/AI,Donald J. Trump,45
+Yolo,100083,President,,REP,Donald J. Trump,45
 Yolo,100083,President,,LIB,Gary Johnson,8
-Yolo,100083,President,,PF,Gloria Estela La Riva,2
+Yolo,100083,President,,PAF,Gloria Estela La Riva,2
 Yolo,100083,President,,DEM,Hillary Clinton,90
 Yolo,100083,President,,GRN,Jill Stein,1
-Yolo,100083,President,,WI,Write-In,2
 Yolo,100083,Proposition 51,,,No,62
 Yolo,100083,Proposition 51,,,Yes,82
 Yolo,100083,Proposition 52,,,No,50
@@ -3483,14 +3851,19 @@ Yolo,100083,Proposition 66,,,No,88
 Yolo,100083,Proposition 66,,,Yes,53
 Yolo,100083,Proposition 67,,,No,86
 Yolo,100083,Proposition 67,,,Yes,61
+Yolo,100083,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,106
+Yolo,100083,State Assembly,4,REP,Charlie Schaupp,39
+Yolo,100083,State Senate,3,DEM,Bill Dodd,66
+Yolo,100083,State Senate,3,DEM,Mariko Yamada,62
+Yolo,100083,U.S. House,3,DEM,John Garamendi,88
+Yolo,100083,U.S. House,3,REP,N Eugene Cleek,52
 Yolo,100083,U.S. Senate,,DEM,Kamala D. Harris,68
 Yolo,100083,U.S. Senate,,DEM,Loretta L. Sanchez,62
-Yolo,100084,President,,REP/AI,Donald J. Trump,166
+Yolo,100084,President,,REP,Donald J. Trump,166
 Yolo,100084,President,,LIB,Gary Johnson,16
-Yolo,100084,President,,PF,Gloria Estela La Riva,1
+Yolo,100084,President,,PAF,Gloria Estela La Riva,1
 Yolo,100084,President,,DEM,Hillary Clinton,287
 Yolo,100084,President,,GRN,Jill Stein,6
-Yolo,100084,President,,WI,Write-In,4
 Yolo,100084,Proposition 51,,,No,219
 Yolo,100084,Proposition 51,,,Yes,262
 Yolo,100084,Proposition 52,,,No,150
@@ -3525,14 +3898,19 @@ Yolo,100084,Proposition 66,,,No,250
 Yolo,100084,Proposition 66,,,Yes,218
 Yolo,100084,Proposition 67,,,No,227
 Yolo,100084,Proposition 67,,,Yes,254
+Yolo,100084,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,363
+Yolo,100084,State Assembly,4,REP,Charlie Schaupp,125
+Yolo,100084,State Senate,3,DEM,Bill Dodd,257
+Yolo,100084,State Senate,3,DEM,Mariko Yamada,189
+Yolo,100084,U.S. House,3,DEM,John Garamendi,314
+Yolo,100084,U.S. House,3,REP,N Eugene Cleek,169
 Yolo,100084,U.S. Senate,,DEM,Kamala D. Harris,294
 Yolo,100084,U.S. Senate,,DEM,Loretta L. Sanchez,146
-Yolo,100085,President,,REP/AI,Donald J. Trump,285
+Yolo,100085,President,,REP,Donald J. Trump,285
 Yolo,100085,President,,LIB,Gary Johnson,41
-Yolo,100085,President,,PF,Gloria Estela La Riva,1
+Yolo,100085,President,,PAF,Gloria Estela La Riva,1
 Yolo,100085,President,,DEM,Hillary Clinton,401
 Yolo,100085,President,,GRN,Jill Stein,8
-Yolo,100085,President,,WI,Write-In,12
 Yolo,100085,Proposition 51,,,No,371
 Yolo,100085,Proposition 51,,,Yes,379
 Yolo,100085,Proposition 52,,,No,315
@@ -3567,14 +3945,19 @@ Yolo,100085,Proposition 66,,,No,346
 Yolo,100085,Proposition 66,,,Yes,363
 Yolo,100085,Proposition 67,,,No,407
 Yolo,100085,Proposition 67,,,Yes,330
+Yolo,100085,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,485
+Yolo,100085,State Assembly,4,REP,Charlie Schaupp,264
+Yolo,100085,State Senate,3,DEM,Bill Dodd,390
+Yolo,100085,State Senate,3,DEM,Mariko Yamada,276
+Yolo,100085,U.S. House,3,DEM,John Garamendi,432
+Yolo,100085,U.S. House,3,REP,N Eugene Cleek,302
 Yolo,100085,U.S. Senate,,DEM,Kamala D. Harris,375
 Yolo,100085,U.S. Senate,,DEM,Loretta L. Sanchez,257
-Yolo,100086,President,,REP/AI,Donald J. Trump,164
+Yolo,100086,President,,REP,Donald J. Trump,164
 Yolo,100086,President,,LIB,Gary Johnson,22
-Yolo,100086,President,,PF,Gloria Estela La Riva,3
+Yolo,100086,President,,PAF,Gloria Estela La Riva,3
 Yolo,100086,President,,DEM,Hillary Clinton,354
 Yolo,100086,President,,GRN,Jill Stein,9
-Yolo,100086,President,,WI,Write-In,6
 Yolo,100086,Proposition 51,,,No,189
 Yolo,100086,Proposition 51,,,Yes,356
 Yolo,100086,Proposition 52,,,No,146
@@ -3609,14 +3992,19 @@ Yolo,100086,Proposition 66,,,No,273
 Yolo,100086,Proposition 66,,,Yes,252
 Yolo,100086,Proposition 67,,,No,261
 Yolo,100086,Proposition 67,,,Yes,287
+Yolo,100086,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,402
+Yolo,100086,State Assembly,4,REP,Charlie Schaupp,156
+Yolo,100086,State Senate,3,DEM,Bill Dodd,249
+Yolo,100086,State Senate,3,DEM,Mariko Yamada,252
+Yolo,100086,U.S. House,3,DEM,John Garamendi,392
+Yolo,100086,U.S. House,3,REP,N Eugene Cleek,164
 Yolo,100086,U.S. Senate,,DEM,Kamala D. Harris,281
 Yolo,100086,U.S. Senate,,DEM,Loretta L. Sanchez,223
-Yolo,100087,President,,REP/AI,Donald J. Trump,162
+Yolo,100087,President,,REP,Donald J. Trump,162
 Yolo,100087,President,,LIB,Gary Johnson,28
-Yolo,100087,President,,PF,Gloria Estela La Riva,2
+Yolo,100087,President,,PAF,Gloria Estela La Riva,2
 Yolo,100087,President,,DEM,Hillary Clinton,271
 Yolo,100087,President,,GRN,Jill Stein,10
-Yolo,100087,President,,WI,Write-In,9
 Yolo,100087,Proposition 51,,,No,225
 Yolo,100087,Proposition 51,,,Yes,259
 Yolo,100087,Proposition 52,,,No,156
@@ -3651,14 +4039,19 @@ Yolo,100087,Proposition 66,,,No,216
 Yolo,100087,Proposition 66,,,Yes,250
 Yolo,100087,Proposition 67,,,No,243
 Yolo,100087,Proposition 67,,,Yes,237
+Yolo,100087,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,342
+Yolo,100087,State Assembly,4,REP,Charlie Schaupp,142
+Yolo,100087,State Senate,3,DEM,Bill Dodd,199
+Yolo,100087,State Senate,3,DEM,Mariko Yamada,234
+Yolo,100087,U.S. House,3,DEM,John Garamendi,294
+Yolo,100087,U.S. House,3,REP,N Eugene Cleek,184
 Yolo,100087,U.S. Senate,,DEM,Kamala D. Harris,240
 Yolo,100087,U.S. Senate,,DEM,Loretta L. Sanchez,188
-Yolo,100088,President,,REP/AI,Donald J. Trump,127
+Yolo,100088,President,,REP,Donald J. Trump,127
 Yolo,100088,President,,LIB,Gary Johnson,10
-Yolo,100088,President,,PF,Gloria Estela La Riva,1
+Yolo,100088,President,,PAF,Gloria Estela La Riva,1
 Yolo,100088,President,,DEM,Hillary Clinton,177
 Yolo,100088,President,,GRN,Jill Stein,8
-Yolo,100088,President,,WI,Write-In,4
 Yolo,100088,Proposition 51,,,No,146
 Yolo,100088,Proposition 51,,,Yes,180
 Yolo,100088,Proposition 52,,,No,120
@@ -3693,14 +4086,18 @@ Yolo,100088,Proposition 66,,,No,142
 Yolo,100088,Proposition 66,,,Yes,165
 Yolo,100088,Proposition 67,,,No,159
 Yolo,100088,Proposition 67,,,Yes,161
+Yolo,100088,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,219
+Yolo,100088,State Assembly,4,REP,Charlie Schaupp,104
+Yolo,100088,State Senate,3,DEM,Bill Dodd,174
+Yolo,100088,State Senate,3,DEM,Mariko Yamada,120
+Yolo,100088,U.S. House,3,DEM,John Garamendi,193
+Yolo,100088,U.S. House,3,REP,N Eugene Cleek,131
 Yolo,100088,U.S. Senate,,DEM,Kamala D. Harris,165
 Yolo,100088,U.S. Senate,,DEM,Loretta L. Sanchez,122
-Yolo,100089,President,,REP/AI,Donald J. Trump,137
+Yolo,100089,President,,REP,Donald J. Trump,137
 Yolo,100089,President,,LIB,Gary Johnson,12
-Yolo,100089,President,,PF,Gloria Estela La Riva,0
 Yolo,100089,President,,DEM,Hillary Clinton,98
 Yolo,100089,President,,GRN,Jill Stein,7
-Yolo,100089,President,,WI,Write-In,3
 Yolo,100089,Proposition 51,,,No,160
 Yolo,100089,Proposition 51,,,Yes,99
 Yolo,100089,Proposition 52,,,No,104
@@ -3735,14 +4132,18 @@ Yolo,100089,Proposition 66,,,No,96
 Yolo,100089,Proposition 66,,,Yes,157
 Yolo,100089,Proposition 67,,,No,165
 Yolo,100089,Proposition 67,,,Yes,95
+Yolo,100089,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,95
+Yolo,100089,State Assembly,4,REP,Charlie Schaupp,160
+Yolo,100089,State Senate,3,DEM,Bill Dodd,127
+Yolo,100089,State Senate,3,DEM,Mariko Yamada,91
+Yolo,100089,U.S. House,3,DEM,John Garamendi,111
+Yolo,100089,U.S. House,3,REP,N Eugene Cleek,143
 Yolo,100089,U.S. Senate,,DEM,Kamala D. Harris,144
 Yolo,100089,U.S. Senate,,DEM,Loretta L. Sanchez,58
-Yolo,100090,President,,REP/AI,Donald J. Trump,144
+Yolo,100090,President,,REP,Donald J. Trump,144
 Yolo,100090,President,,LIB,Gary Johnson,13
-Yolo,100090,President,,PF,Gloria Estela La Riva,0
 Yolo,100090,President,,DEM,Hillary Clinton,106
 Yolo,100090,President,,GRN,Jill Stein,3
-Yolo,100090,President,,WI,Write-In,0
 Yolo,100090,Proposition 51,,,No,169
 Yolo,100090,Proposition 51,,,Yes,94
 Yolo,100090,Proposition 52,,,No,113
@@ -3777,14 +4178,17 @@ Yolo,100090,Proposition 66,,,No,106
 Yolo,100090,Proposition 66,,,Yes,150
 Yolo,100090,Proposition 67,,,No,163
 Yolo,100090,Proposition 67,,,Yes,97
+Yolo,100090,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,106
+Yolo,100090,State Assembly,4,REP,Charlie Schaupp,146
+Yolo,100090,State Senate,3,DEM,Bill Dodd,144
+Yolo,100090,State Senate,3,DEM,Mariko Yamada,79
+Yolo,100090,U.S. House,3,DEM,John Garamendi,120
+Yolo,100090,U.S. House,3,REP,N Eugene Cleek,128
 Yolo,100090,U.S. Senate,,DEM,Kamala D. Harris,124
 Yolo,100090,U.S. Senate,,DEM,Loretta L. Sanchez,88
-Yolo,100091,President,,REP/AI,Donald J. Trump,98
+Yolo,100091,President,,REP,Donald J. Trump,98
 Yolo,100091,President,,LIB,Gary Johnson,13
-Yolo,100091,President,,PF,Gloria Estela La Riva,0
 Yolo,100091,President,,DEM,Hillary Clinton,81
-Yolo,100091,President,,GRN,Jill Stein,0
-Yolo,100091,President,,WI,Write-In,2
 Yolo,100091,Proposition 51,,,No,135
 Yolo,100091,Proposition 51,,,Yes,60
 Yolo,100091,Proposition 52,,,No,82
@@ -3819,14 +4223,19 @@ Yolo,100091,Proposition 66,,,No,83
 Yolo,100091,Proposition 66,,,Yes,106
 Yolo,100091,Proposition 67,,,No,114
 Yolo,100091,Proposition 67,,,Yes,80
+Yolo,100091,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,91
+Yolo,100091,State Assembly,4,REP,Charlie Schaupp,104
+Yolo,100091,State Senate,3,DEM,Bill Dodd,104
+Yolo,100091,State Senate,3,DEM,Mariko Yamada,70
+Yolo,100091,U.S. House,3,DEM,John Garamendi,86
+Yolo,100091,U.S. House,3,REP,N Eugene Cleek,111
 Yolo,100091,U.S. Senate,,DEM,Kamala D. Harris,114
 Yolo,100091,U.S. Senate,,DEM,Loretta L. Sanchez,45
-Yolo,100092,President,,REP/AI,Donald J. Trump,221
+Yolo,100092,President,,REP,Donald J. Trump,221
 Yolo,100092,President,,LIB,Gary Johnson,14
-Yolo,100092,President,,PF,Gloria Estela La Riva,1
+Yolo,100092,President,,PAF,Gloria Estela La Riva,1
 Yolo,100092,President,,DEM,Hillary Clinton,180
 Yolo,100092,President,,GRN,Jill Stein,3
-Yolo,100092,President,,WI,Write-In,6
 Yolo,100092,Proposition 51,,,No,242
 Yolo,100092,Proposition 51,,,Yes,176
 Yolo,100092,Proposition 52,,,No,167
@@ -3861,14 +4270,19 @@ Yolo,100092,Proposition 66,,,No,168
 Yolo,100092,Proposition 66,,,Yes,235
 Yolo,100092,Proposition 67,,,No,250
 Yolo,100092,Proposition 67,,,Yes,166
+Yolo,100092,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,172
+Yolo,100092,State Assembly,4,REP,Charlie Schaupp,247
+Yolo,100092,State Senate,3,DEM,Bill Dodd,199
+Yolo,100092,State Senate,3,DEM,Mariko Yamada,168
+Yolo,100092,U.S. House,3,DEM,John Garamendi,207
+Yolo,100092,U.S. House,3,REP,N Eugene Cleek,213
 Yolo,100092,U.S. Senate,,DEM,Kamala D. Harris,210
 Yolo,100092,U.S. Senate,,DEM,Loretta L. Sanchez,127
-Yolo,100093,President,,REP/AI,Donald J. Trump,237
+Yolo,100093,President,,REP,Donald J. Trump,237
 Yolo,100093,President,,LIB,Gary Johnson,13
-Yolo,100093,President,,PF,Gloria Estela La Riva,3
+Yolo,100093,President,,PAF,Gloria Estela La Riva,3
 Yolo,100093,President,,DEM,Hillary Clinton,200
 Yolo,100093,President,,GRN,Jill Stein,3
-Yolo,100093,President,,WI,Write-In,2
 Yolo,100093,Proposition 51,,,No,243
 Yolo,100093,Proposition 51,,,Yes,214
 Yolo,100093,Proposition 52,,,No,163
@@ -3903,14 +4317,19 @@ Yolo,100093,Proposition 66,,,No,188
 Yolo,100093,Proposition 66,,,Yes,254
 Yolo,100093,Proposition 67,,,No,280
 Yolo,100093,Proposition 67,,,Yes,172
+Yolo,100093,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,208
+Yolo,100093,State Assembly,4,REP,Charlie Schaupp,250
+Yolo,100093,State Senate,3,DEM,Bill Dodd,211
+Yolo,100093,State Senate,3,DEM,Mariko Yamada,191
+Yolo,100093,U.S. House,3,DEM,John Garamendi,247
+Yolo,100093,U.S. House,3,REP,N Eugene Cleek,212
 Yolo,100093,U.S. Senate,,DEM,Kamala D. Harris,219
 Yolo,100093,U.S. Senate,,DEM,Loretta L. Sanchez,160
-Yolo,100094,President,,REP/AI,Donald J. Trump,193
+Yolo,100094,President,,REP,Donald J. Trump,193
 Yolo,100094,President,,LIB,Gary Johnson,10
-Yolo,100094,President,,PF,Gloria Estela La Riva,2
+Yolo,100094,President,,PAF,Gloria Estela La Riva,2
 Yolo,100094,President,,DEM,Hillary Clinton,190
 Yolo,100094,President,,GRN,Jill Stein,4
-Yolo,100094,President,,WI,Write-In,4
 Yolo,100094,Proposition 51,,,No,206
 Yolo,100094,Proposition 51,,,Yes,193
 Yolo,100094,Proposition 52,,,No,137
@@ -3945,14 +4364,18 @@ Yolo,100094,Proposition 66,,,No,181
 Yolo,100094,Proposition 66,,,Yes,204
 Yolo,100094,Proposition 67,,,No,248
 Yolo,100094,Proposition 67,,,Yes,147
+Yolo,100094,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,183
+Yolo,100094,State Assembly,4,REP,Charlie Schaupp,213
+Yolo,100094,State Senate,3,DEM,Bill Dodd,191
+Yolo,100094,State Senate,3,DEM,Mariko Yamada,155
+Yolo,100094,U.S. House,3,DEM,John Garamendi,208
+Yolo,100094,U.S. House,3,REP,N Eugene Cleek,175
 Yolo,100094,U.S. Senate,,DEM,Kamala D. Harris,165
 Yolo,100094,U.S. Senate,,DEM,Loretta L. Sanchez,167
-Yolo,100095,President,,REP/AI,Donald J. Trump,139
+Yolo,100095,President,,REP,Donald J. Trump,139
 Yolo,100095,President,,LIB,Gary Johnson,12
-Yolo,100095,President,,PF,Gloria Estela La Riva,0
 Yolo,100095,President,,DEM,Hillary Clinton,169
 Yolo,100095,President,,GRN,Jill Stein,14
-Yolo,100095,President,,WI,Write-In,3
 Yolo,100095,Proposition 51,,,No,210
 Yolo,100095,Proposition 51,,,Yes,129
 Yolo,100095,Proposition 52,,,No,136
@@ -3987,14 +4410,19 @@ Yolo,100095,Proposition 66,,,No,175
 Yolo,100095,Proposition 66,,,Yes,150
 Yolo,100095,Proposition 67,,,No,183
 Yolo,100095,Proposition 67,,,Yes,150
+Yolo,100095,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,184
+Yolo,100095,State Assembly,4,REP,Charlie Schaupp,151
+Yolo,100095,State Senate,3,DEM,Bill Dodd,154
+Yolo,100095,State Senate,3,DEM,Mariko Yamada,140
+Yolo,100095,U.S. House,3,DEM,John Garamendi,208
+Yolo,100095,U.S. House,3,REP,N Eugene Cleek,131
 Yolo,100095,U.S. Senate,,DEM,Kamala D. Harris,200
 Yolo,100095,U.S. Senate,,DEM,Loretta L. Sanchez,89
-Yolo,100096,President,,REP/AI,Donald J. Trump,133
+Yolo,100096,President,,REP,Donald J. Trump,133
 Yolo,100096,President,,LIB,Gary Johnson,18
-Yolo,100096,President,,PF,Gloria Estela La Riva,4
+Yolo,100096,President,,PAF,Gloria Estela La Riva,4
 Yolo,100096,President,,DEM,Hillary Clinton,213
 Yolo,100096,President,,GRN,Jill Stein,2
-Yolo,100096,President,,WI,Write-In,5
 Yolo,100096,Proposition 51,,,No,190
 Yolo,100096,Proposition 51,,,Yes,187
 Yolo,100096,Proposition 52,,,No,139
@@ -4029,14 +4457,17 @@ Yolo,100096,Proposition 66,,,No,177
 Yolo,100096,Proposition 66,,,Yes,189
 Yolo,100096,Proposition 67,,,No,228
 Yolo,100096,Proposition 67,,,Yes,153
+Yolo,100096,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,216
+Yolo,100096,State Assembly,4,REP,Charlie Schaupp,153
+Yolo,100096,State Senate,3,DEM,Bill Dodd,140
+Yolo,100096,State Senate,3,DEM,Mariko Yamada,202
+Yolo,100096,U.S. House,3,DEM,John Garamendi,223
+Yolo,100096,U.S. House,3,REP,N Eugene Cleek,150
 Yolo,100096,U.S. Senate,,DEM,Kamala D. Harris,155
 Yolo,100096,U.S. Senate,,DEM,Loretta L. Sanchez,167
-Yolo,100097,President,,REP/AI,Donald J. Trump,15
+Yolo,100097,President,,REP,Donald J. Trump,15
 Yolo,100097,President,,LIB,Gary Johnson,4
-Yolo,100097,President,,PF,Gloria Estela La Riva,0
 Yolo,100097,President,,DEM,Hillary Clinton,26
-Yolo,100097,President,,GRN,Jill Stein,0
-Yolo,100097,President,,WI,Write-In,1
 Yolo,100097,Proposition 51,,,No,25
 Yolo,100097,Proposition 51,,,Yes,23
 Yolo,100097,Proposition 52,,,No,19
@@ -4071,14 +4502,18 @@ Yolo,100097,Proposition 66,,,No,21
 Yolo,100097,Proposition 66,,,Yes,26
 Yolo,100097,Proposition 67,,,No,28
 Yolo,100097,Proposition 67,,,Yes,21
+Yolo,100097,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,27
+Yolo,100097,State Assembly,4,REP,Charlie Schaupp,18
+Yolo,100097,State Senate,3,DEM,Bill Dodd,25
+Yolo,100097,State Senate,3,DEM,Mariko Yamada,18
+Yolo,100097,U.S. House,3,DEM,John Garamendi,25
+Yolo,100097,U.S. House,3,REP,N Eugene Cleek,19
 Yolo,100097,U.S. Senate,,DEM,Kamala D. Harris,32
 Yolo,100097,U.S. Senate,,DEM,Loretta L. Sanchez,10
-Yolo,100098,President,,REP/AI,Donald J. Trump,91
+Yolo,100098,President,,REP,Donald J. Trump,91
 Yolo,100098,President,,LIB,Gary Johnson,9
-Yolo,100098,President,,PF,Gloria Estela La Riva,0
 Yolo,100098,President,,DEM,Hillary Clinton,45
 Yolo,100098,President,,GRN,Jill Stein,3
-Yolo,100098,President,,WI,Write-In,2
 Yolo,100098,Proposition 51,,,No,104
 Yolo,100098,Proposition 51,,,Yes,44
 Yolo,100098,Proposition 52,,,No,77
@@ -4113,14 +4548,18 @@ Yolo,100098,Proposition 66,,,No,55
 Yolo,100098,Proposition 66,,,Yes,85
 Yolo,100098,Proposition 67,,,No,98
 Yolo,100098,Proposition 67,,,Yes,49
+Yolo,100098,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,43
+Yolo,100098,State Assembly,4,REP,Charlie Schaupp,100
+Yolo,100098,State Senate,3,DEM,Bill Dodd,58
+Yolo,100098,State Senate,3,DEM,Mariko Yamada,51
+Yolo,100098,U.S. House,3,DEM,John Garamendi,59
+Yolo,100098,U.S. House,3,REP,N Eugene Cleek,84
 Yolo,100098,U.S. Senate,,DEM,Kamala D. Harris,63
 Yolo,100098,U.S. Senate,,DEM,Loretta L. Sanchez,43
-Yolo,100099,President,,REP/AI,Donald J. Trump,181
+Yolo,100099,President,,REP,Donald J. Trump,181
 Yolo,100099,President,,LIB,Gary Johnson,15
-Yolo,100099,President,,PF,Gloria Estela La Riva,0
 Yolo,100099,President,,DEM,Hillary Clinton,98
 Yolo,100099,President,,GRN,Jill Stein,6
-Yolo,100099,President,,WI,Write-In,2
 Yolo,100099,Proposition 51,,,No,204
 Yolo,100099,Proposition 51,,,Yes,99
 Yolo,100099,Proposition 52,,,No,131
@@ -4155,14 +4594,18 @@ Yolo,100099,Proposition 66,,,No,119
 Yolo,100099,Proposition 66,,,Yes,175
 Yolo,100099,Proposition 67,,,No,191
 Yolo,100099,Proposition 67,,,Yes,113
+Yolo,100099,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,102
+Yolo,100099,State Assembly,4,REP,Charlie Schaupp,196
+Yolo,100099,State Senate,3,DEM,Bill Dodd,163
+Yolo,100099,State Senate,3,DEM,Mariko Yamada,96
+Yolo,100099,U.S. House,3,DEM,John Garamendi,118
+Yolo,100099,U.S. House,3,REP,N Eugene Cleek,181
 Yolo,100099,U.S. Senate,,DEM,Kamala D. Harris,162
 Yolo,100099,U.S. Senate,,DEM,Loretta L. Sanchez,91
-Yolo,100100,President,,REP/AI,Donald J. Trump,92
+Yolo,100100,President,,REP,Donald J. Trump,92
 Yolo,100100,President,,LIB,Gary Johnson,11
-Yolo,100100,President,,PF,Gloria Estela La Riva,0
 Yolo,100100,President,,DEM,Hillary Clinton,98
 Yolo,100100,President,,GRN,Jill Stein,3
-Yolo,100100,President,,WI,Write-In,3
 Yolo,100100,Proposition 51,,,No,127
 Yolo,100100,Proposition 51,,,Yes,86
 Yolo,100100,Proposition 52,,,No,72
@@ -4197,14 +4640,19 @@ Yolo,100100,Proposition 66,,,No,84
 Yolo,100100,Proposition 66,,,Yes,123
 Yolo,100100,Proposition 67,,,No,118
 Yolo,100100,Proposition 67,,,Yes,98
+Yolo,100100,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,106
+Yolo,100100,State Assembly,4,REP,Charlie Schaupp,107
+Yolo,100100,State Senate,3,DEM,Bill Dodd,102
+Yolo,100100,State Senate,3,DEM,Mariko Yamada,95
+Yolo,100100,U.S. House,3,DEM,John Garamendi,124
+Yolo,100100,U.S. House,3,REP,N Eugene Cleek,87
 Yolo,100100,U.S. Senate,,DEM,Kamala D. Harris,101
 Yolo,100100,U.S. Senate,,DEM,Loretta L. Sanchez,90
-Yolo,100101,President,,REP/AI,Donald J. Trump,100
+Yolo,100101,President,,REP,Donald J. Trump,100
 Yolo,100101,President,,LIB,Gary Johnson,12
-Yolo,100101,President,,PF,Gloria Estela La Riva,3
+Yolo,100101,President,,PAF,Gloria Estela La Riva,3
 Yolo,100101,President,,DEM,Hillary Clinton,113
 Yolo,100101,President,,GRN,Jill Stein,4
-Yolo,100101,President,,WI,Write-In,3
 Yolo,100101,Proposition 51,,,No,135
 Yolo,100101,Proposition 51,,,Yes,100
 Yolo,100101,Proposition 52,,,No,80
@@ -4239,14 +4687,18 @@ Yolo,100101,Proposition 66,,,No,114
 Yolo,100101,Proposition 66,,,Yes,115
 Yolo,100101,Proposition 67,,,No,133
 Yolo,100101,Proposition 67,,,Yes,103
+Yolo,100101,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,119
+Yolo,100101,State Assembly,4,REP,Charlie Schaupp,113
+Yolo,100101,State Senate,3,DEM,Bill Dodd,96
+Yolo,100101,State Senate,3,DEM,Mariko Yamada,115
+Yolo,100101,U.S. House,3,DEM,John Garamendi,126
+Yolo,100101,U.S. House,3,REP,N Eugene Cleek,104
 Yolo,100101,U.S. Senate,,DEM,Kamala D. Harris,128
 Yolo,100101,U.S. Senate,,DEM,Loretta L. Sanchez,73
-Yolo,100102,President,,REP/AI,Donald J. Trump,19
+Yolo,100102,President,,REP,Donald J. Trump,19
 Yolo,100102,President,,LIB,Gary Johnson,1
-Yolo,100102,President,,PF,Gloria Estela La Riva,0
 Yolo,100102,President,,DEM,Hillary Clinton,47
 Yolo,100102,President,,GRN,Jill Stein,1
-Yolo,100102,President,,WI,Write-In,2
 Yolo,100102,Proposition 51,,,No,29
 Yolo,100102,Proposition 51,,,Yes,39
 Yolo,100102,Proposition 52,,,No,24
@@ -4281,14 +4733,19 @@ Yolo,100102,Proposition 66,,,No,30
 Yolo,100102,Proposition 66,,,Yes,32
 Yolo,100102,Proposition 67,,,No,26
 Yolo,100102,Proposition 67,,,Yes,39
+Yolo,100102,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,47
+Yolo,100102,State Assembly,4,REP,Charlie Schaupp,22
+Yolo,100102,State Senate,3,DEM,Bill Dodd,31
+Yolo,100102,State Senate,3,DEM,Mariko Yamada,34
+Yolo,100102,U.S. House,3,DEM,John Garamendi,47
+Yolo,100102,U.S. House,3,REP,N Eugene Cleek,22
 Yolo,100102,U.S. Senate,,DEM,Kamala D. Harris,36
 Yolo,100102,U.S. Senate,,DEM,Loretta L. Sanchez,26
-Yolo,100103,President,,REP/AI,Donald J. Trump,148
+Yolo,100103,President,,REP,Donald J. Trump,148
 Yolo,100103,President,,LIB,Gary Johnson,24
-Yolo,100103,President,,PF,Gloria Estela La Riva,4
+Yolo,100103,President,,PAF,Gloria Estela La Riva,4
 Yolo,100103,President,,DEM,Hillary Clinton,293
 Yolo,100103,President,,GRN,Jill Stein,13
-Yolo,100103,President,,WI,Write-In,9
 Yolo,100103,Proposition 51,,,No,210
 Yolo,100103,Proposition 51,,,Yes,272
 Yolo,100103,Proposition 52,,,No,163
@@ -4323,56 +4780,17 @@ Yolo,100103,Proposition 66,,,No,232
 Yolo,100103,Proposition 66,,,Yes,233
 Yolo,100103,Proposition 67,,,No,267
 Yolo,100103,Proposition 67,,,Yes,213
+Yolo,100103,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,300
+Yolo,100103,State Assembly,4,REP,Charlie Schaupp,175
+Yolo,100103,State Senate,3,DEM,Bill Dodd,194
+Yolo,100103,State Senate,3,DEM,Mariko Yamada,250
+Yolo,100103,U.S. House,3,DEM,John Garamendi,311
+Yolo,100103,U.S. House,3,REP,N Eugene Cleek,169
 Yolo,100103,U.S. Senate,,DEM,Kamala D. Harris,242
 Yolo,100103,U.S. Senate,,DEM,Loretta L. Sanchez,190
-Yolo,100104,President,,REP/AI,Donald J. Trump,0
-Yolo,100104,President,,LIB,Gary Johnson,0
-Yolo,100104,President,,PF,Gloria Estela La Riva,0
-Yolo,100104,President,,DEM,Hillary Clinton,0
-Yolo,100104,President,,GRN,Jill Stein,0
-Yolo,100104,President,,WI,Write-In,0
-Yolo,100104,Proposition 51,,,No,0
-Yolo,100104,Proposition 51,,,Yes,0
-Yolo,100104,Proposition 52,,,No,0
-Yolo,100104,Proposition 52,,,Yes,0
-Yolo,100104,Proposition 53,,,No,0
-Yolo,100104,Proposition 53,,,Yes,0
-Yolo,100104,Proposition 54,,,No,0
-Yolo,100104,Proposition 54,,,Yes,0
-Yolo,100104,Proposition 55,,,No,0
-Yolo,100104,Proposition 55,,,Yes,0
-Yolo,100104,Proposition 56,,,No,0
-Yolo,100104,Proposition 56,,,Yes,0
-Yolo,100104,Proposition 57,,,No,0
-Yolo,100104,Proposition 57,,,Yes,0
-Yolo,100104,Proposition 58,,,No,0
-Yolo,100104,Proposition 58,,,Yes,0
-Yolo,100104,Proposition 59,,,No,0
-Yolo,100104,Proposition 59,,,Yes,0
-Yolo,100104,Proposition 60,,,No,0
-Yolo,100104,Proposition 60,,,Yes,0
-Yolo,100104,Proposition 61,,,No,0
-Yolo,100104,Proposition 61,,,Yes,0
-Yolo,100104,Proposition 62,,,No,0
-Yolo,100104,Proposition 62,,,Yes,0
-Yolo,100104,Proposition 63,,,No,0
-Yolo,100104,Proposition 63,,,Yes,0
-Yolo,100104,Proposition 64,,,No,0
-Yolo,100104,Proposition 64,,,Yes,0
-Yolo,100104,Proposition 65,,,No,0
-Yolo,100104,Proposition 65,,,Yes,0
-Yolo,100104,Proposition 66,,,No,0
-Yolo,100104,Proposition 66,,,Yes,0
-Yolo,100104,Proposition 67,,,No,0
-Yolo,100104,Proposition 67,,,Yes,0
-Yolo,100104,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100104,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100105,President,,REP/AI,Donald J. Trump,58
+Yolo,100105,President,,REP,Donald J. Trump,58
 Yolo,100105,President,,LIB,Gary Johnson,8
-Yolo,100105,President,,PF,Gloria Estela La Riva,0
 Yolo,100105,President,,DEM,Hillary Clinton,40
-Yolo,100105,President,,GRN,Jill Stein,0
-Yolo,100105,President,,WI,Write-In,0
 Yolo,100105,Proposition 51,,,No,57
 Yolo,100105,Proposition 51,,,Yes,53
 Yolo,100105,Proposition 52,,,No,49
@@ -4407,14 +4825,16 @@ Yolo,100105,Proposition 66,,,No,37
 Yolo,100105,Proposition 66,,,Yes,74
 Yolo,100105,Proposition 67,,,No,65
 Yolo,100105,Proposition 67,,,Yes,44
+Yolo,100105,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,46
+Yolo,100105,State Assembly,4,REP,Charlie Schaupp,67
+Yolo,100105,State Senate,3,DEM,Bill Dodd,63
+Yolo,100105,State Senate,3,DEM,Mariko Yamada,34
+Yolo,100105,U.S. House,3,DEM,John Garamendi,50
+Yolo,100105,U.S. House,3,REP,N Eugene Cleek,65
 Yolo,100105,U.S. Senate,,DEM,Kamala D. Harris,58
 Yolo,100105,U.S. Senate,,DEM,Loretta L. Sanchez,34
-Yolo,100106,President,,REP/AI,Donald J. Trump,2
-Yolo,100106,President,,LIB,Gary Johnson,0
-Yolo,100106,President,,PF,Gloria Estela La Riva,0
+Yolo,100106,President,,REP,Donald J. Trump,2
 Yolo,100106,President,,DEM,Hillary Clinton,5
-Yolo,100106,President,,GRN,Jill Stein,0
-Yolo,100106,President,,WI,Write-In,0
 Yolo,100106,Proposition 51,,,No,3
 Yolo,100106,Proposition 51,,,Yes,4
 Yolo,100106,Proposition 52,,,No,3
@@ -4449,98 +4869,14 @@ Yolo,100106,Proposition 66,,,No,5
 Yolo,100106,Proposition 66,,,Yes,2
 Yolo,100106,Proposition 67,,,No,3
 Yolo,100106,Proposition 67,,,Yes,4
+Yolo,100106,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,5
+Yolo,100106,State Assembly,4,REP,Charlie Schaupp,2
+Yolo,100106,State Senate,3,DEM,Mariko Yamada,5
+Yolo,100106,U.S. House,3,DEM,John Garamendi,5
+Yolo,100106,U.S. House,3,REP,N Eugene Cleek,2
 Yolo,100106,U.S. Senate,,DEM,Kamala D. Harris,5
-Yolo,100106,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100107,President,,REP/AI,Donald J. Trump,0
-Yolo,100107,President,,LIB,Gary Johnson,0
-Yolo,100107,President,,PF,Gloria Estela La Riva,0
-Yolo,100107,President,,DEM,Hillary Clinton,0
-Yolo,100107,President,,GRN,Jill Stein,0
-Yolo,100107,President,,WI,Write-In,0
-Yolo,100107,Proposition 51,,,No,0
-Yolo,100107,Proposition 51,,,Yes,0
-Yolo,100107,Proposition 52,,,No,0
-Yolo,100107,Proposition 52,,,Yes,0
-Yolo,100107,Proposition 53,,,No,0
-Yolo,100107,Proposition 53,,,Yes,0
-Yolo,100107,Proposition 54,,,No,0
-Yolo,100107,Proposition 54,,,Yes,0
-Yolo,100107,Proposition 55,,,No,0
-Yolo,100107,Proposition 55,,,Yes,0
-Yolo,100107,Proposition 56,,,No,0
-Yolo,100107,Proposition 56,,,Yes,0
-Yolo,100107,Proposition 57,,,No,0
-Yolo,100107,Proposition 57,,,Yes,0
-Yolo,100107,Proposition 58,,,No,0
-Yolo,100107,Proposition 58,,,Yes,0
-Yolo,100107,Proposition 59,,,No,0
-Yolo,100107,Proposition 59,,,Yes,0
-Yolo,100107,Proposition 60,,,No,0
-Yolo,100107,Proposition 60,,,Yes,0
-Yolo,100107,Proposition 61,,,No,0
-Yolo,100107,Proposition 61,,,Yes,0
-Yolo,100107,Proposition 62,,,No,0
-Yolo,100107,Proposition 62,,,Yes,0
-Yolo,100107,Proposition 63,,,No,0
-Yolo,100107,Proposition 63,,,Yes,0
-Yolo,100107,Proposition 64,,,No,0
-Yolo,100107,Proposition 64,,,Yes,0
-Yolo,100107,Proposition 65,,,No,0
-Yolo,100107,Proposition 65,,,Yes,0
-Yolo,100107,Proposition 66,,,No,0
-Yolo,100107,Proposition 66,,,Yes,0
-Yolo,100107,Proposition 67,,,No,0
-Yolo,100107,Proposition 67,,,Yes,0
-Yolo,100107,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100107,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100108,President,,REP/AI,Donald J. Trump,0
-Yolo,100108,President,,LIB,Gary Johnson,0
-Yolo,100108,President,,PF,Gloria Estela La Riva,0
-Yolo,100108,President,,DEM,Hillary Clinton,0
-Yolo,100108,President,,GRN,Jill Stein,0
-Yolo,100108,President,,WI,Write-In,0
-Yolo,100108,Proposition 51,,,No,0
-Yolo,100108,Proposition 51,,,Yes,0
-Yolo,100108,Proposition 52,,,No,0
-Yolo,100108,Proposition 52,,,Yes,0
-Yolo,100108,Proposition 53,,,No,0
-Yolo,100108,Proposition 53,,,Yes,0
-Yolo,100108,Proposition 54,,,No,0
-Yolo,100108,Proposition 54,,,Yes,0
-Yolo,100108,Proposition 55,,,No,0
-Yolo,100108,Proposition 55,,,Yes,0
-Yolo,100108,Proposition 56,,,No,0
-Yolo,100108,Proposition 56,,,Yes,0
-Yolo,100108,Proposition 57,,,No,0
-Yolo,100108,Proposition 57,,,Yes,0
-Yolo,100108,Proposition 58,,,No,0
-Yolo,100108,Proposition 58,,,Yes,0
-Yolo,100108,Proposition 59,,,No,0
-Yolo,100108,Proposition 59,,,Yes,0
-Yolo,100108,Proposition 60,,,No,0
-Yolo,100108,Proposition 60,,,Yes,0
-Yolo,100108,Proposition 61,,,No,0
-Yolo,100108,Proposition 61,,,Yes,0
-Yolo,100108,Proposition 62,,,No,0
-Yolo,100108,Proposition 62,,,Yes,0
-Yolo,100108,Proposition 63,,,No,0
-Yolo,100108,Proposition 63,,,Yes,0
-Yolo,100108,Proposition 64,,,No,0
-Yolo,100108,Proposition 64,,,Yes,0
-Yolo,100108,Proposition 65,,,No,0
-Yolo,100108,Proposition 65,,,Yes,0
-Yolo,100108,Proposition 66,,,No,0
-Yolo,100108,Proposition 66,,,Yes,0
-Yolo,100108,Proposition 67,,,No,0
-Yolo,100108,Proposition 67,,,Yes,0
-Yolo,100108,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100108,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100109,President,,REP/AI,Donald J. Trump,13
-Yolo,100109,President,,LIB,Gary Johnson,0
-Yolo,100109,President,,PF,Gloria Estela La Riva,0
+Yolo,100109,President,,REP,Donald J. Trump,13
 Yolo,100109,President,,DEM,Hillary Clinton,7
-Yolo,100109,President,,GRN,Jill Stein,0
-Yolo,100109,President,,WI,Write-In,0
 Yolo,100109,Proposition 51,,,No,10
 Yolo,100109,Proposition 51,,,Yes,9
 Yolo,100109,Proposition 52,,,No,10
@@ -4575,98 +4911,19 @@ Yolo,100109,Proposition 66,,,No,3
 Yolo,100109,Proposition 66,,,Yes,15
 Yolo,100109,Proposition 67,,,No,17
 Yolo,100109,Proposition 67,,,Yes,2
+Yolo,100109,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,7
+Yolo,100109,State Assembly,4,REP,Charlie Schaupp,12
+Yolo,100109,State Senate,3,DEM,Bill Dodd,2
+Yolo,100109,State Senate,3,DEM,Mariko Yamada,12
+Yolo,100109,U.S. House,3,DEM,John Garamendi,6
+Yolo,100109,U.S. House,3,REP,N Eugene Cleek,14
 Yolo,100109,U.S. Senate,,DEM,Kamala D. Harris,7
 Yolo,100109,U.S. Senate,,DEM,Loretta L. Sanchez,5
-Yolo,100110,President,,REP/AI,Donald J. Trump,0
-Yolo,100110,President,,LIB,Gary Johnson,0
-Yolo,100110,President,,PF,Gloria Estela La Riva,0
-Yolo,100110,President,,DEM,Hillary Clinton,0
-Yolo,100110,President,,GRN,Jill Stein,0
-Yolo,100110,President,,WI,Write-In,0
-Yolo,100110,Proposition 51,,,No,0
-Yolo,100110,Proposition 51,,,Yes,0
-Yolo,100110,Proposition 52,,,No,0
-Yolo,100110,Proposition 52,,,Yes,0
-Yolo,100110,Proposition 53,,,No,0
-Yolo,100110,Proposition 53,,,Yes,0
-Yolo,100110,Proposition 54,,,No,0
-Yolo,100110,Proposition 54,,,Yes,0
-Yolo,100110,Proposition 55,,,No,0
-Yolo,100110,Proposition 55,,,Yes,0
-Yolo,100110,Proposition 56,,,No,0
-Yolo,100110,Proposition 56,,,Yes,0
-Yolo,100110,Proposition 57,,,No,0
-Yolo,100110,Proposition 57,,,Yes,0
-Yolo,100110,Proposition 58,,,No,0
-Yolo,100110,Proposition 58,,,Yes,0
-Yolo,100110,Proposition 59,,,No,0
-Yolo,100110,Proposition 59,,,Yes,0
-Yolo,100110,Proposition 60,,,No,0
-Yolo,100110,Proposition 60,,,Yes,0
-Yolo,100110,Proposition 61,,,No,0
-Yolo,100110,Proposition 61,,,Yes,0
-Yolo,100110,Proposition 62,,,No,0
-Yolo,100110,Proposition 62,,,Yes,0
-Yolo,100110,Proposition 63,,,No,0
-Yolo,100110,Proposition 63,,,Yes,0
-Yolo,100110,Proposition 64,,,No,0
-Yolo,100110,Proposition 64,,,Yes,0
-Yolo,100110,Proposition 65,,,No,0
-Yolo,100110,Proposition 65,,,Yes,0
-Yolo,100110,Proposition 66,,,No,0
-Yolo,100110,Proposition 66,,,Yes,0
-Yolo,100110,Proposition 67,,,No,0
-Yolo,100110,Proposition 67,,,Yes,0
-Yolo,100110,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100110,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100111,President,,REP/AI,Donald J. Trump,0
-Yolo,100111,President,,LIB,Gary Johnson,0
-Yolo,100111,President,,PF,Gloria Estela La Riva,0
-Yolo,100111,President,,DEM,Hillary Clinton,0
-Yolo,100111,President,,GRN,Jill Stein,0
-Yolo,100111,President,,WI,Write-In,0
-Yolo,100111,Proposition 51,,,No,0
-Yolo,100111,Proposition 51,,,Yes,0
-Yolo,100111,Proposition 52,,,No,0
-Yolo,100111,Proposition 52,,,Yes,0
-Yolo,100111,Proposition 53,,,No,0
-Yolo,100111,Proposition 53,,,Yes,0
-Yolo,100111,Proposition 54,,,No,0
-Yolo,100111,Proposition 54,,,Yes,0
-Yolo,100111,Proposition 55,,,No,0
-Yolo,100111,Proposition 55,,,Yes,0
-Yolo,100111,Proposition 56,,,No,0
-Yolo,100111,Proposition 56,,,Yes,0
-Yolo,100111,Proposition 57,,,No,0
-Yolo,100111,Proposition 57,,,Yes,0
-Yolo,100111,Proposition 58,,,No,0
-Yolo,100111,Proposition 58,,,Yes,0
-Yolo,100111,Proposition 59,,,No,0
-Yolo,100111,Proposition 59,,,Yes,0
-Yolo,100111,Proposition 60,,,No,0
-Yolo,100111,Proposition 60,,,Yes,0
-Yolo,100111,Proposition 61,,,No,0
-Yolo,100111,Proposition 61,,,Yes,0
-Yolo,100111,Proposition 62,,,No,0
-Yolo,100111,Proposition 62,,,Yes,0
-Yolo,100111,Proposition 63,,,No,0
-Yolo,100111,Proposition 63,,,Yes,0
-Yolo,100111,Proposition 64,,,No,0
-Yolo,100111,Proposition 64,,,Yes,0
-Yolo,100111,Proposition 65,,,No,0
-Yolo,100111,Proposition 65,,,Yes,0
-Yolo,100111,Proposition 66,,,No,0
-Yolo,100111,Proposition 66,,,Yes,0
-Yolo,100111,Proposition 67,,,No,0
-Yolo,100111,Proposition 67,,,Yes,0
-Yolo,100111,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100111,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100112,President,,REP/AI,Donald J. Trump,24
+Yolo,100112,President,,REP,Donald J. Trump,24
 Yolo,100112,President,,LIB,Gary Johnson,6
-Yolo,100112,President,,PF,Gloria Estela La Riva,1
+Yolo,100112,President,,PAF,Gloria Estela La Riva,1
 Yolo,100112,President,,DEM,Hillary Clinton,22
 Yolo,100112,President,,GRN,Jill Stein,3
-Yolo,100112,President,,WI,Write-In,0
 Yolo,100112,Proposition 51,,,No,43
 Yolo,100112,Proposition 51,,,Yes,15
 Yolo,100112,Proposition 52,,,No,33
@@ -4701,14 +4958,16 @@ Yolo,100112,Proposition 66,,,No,28
 Yolo,100112,Proposition 66,,,Yes,28
 Yolo,100112,Proposition 67,,,No,33
 Yolo,100112,Proposition 67,,,Yes,25
+Yolo,100112,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,21
+Yolo,100112,State Assembly,4,REP,Charlie Schaupp,35
+Yolo,100112,State Senate,3,DEM,Bill Dodd,32
+Yolo,100112,State Senate,3,DEM,Mariko Yamada,22
+Yolo,100112,U.S. House,3,DEM,John Garamendi,24
+Yolo,100112,U.S. House,3,REP,N Eugene Cleek,32
 Yolo,100112,U.S. Senate,,DEM,Kamala D. Harris,32
 Yolo,100112,U.S. Senate,,DEM,Loretta L. Sanchez,20
-Yolo,100113,President,,REP/AI,Donald J. Trump,3
-Yolo,100113,President,,LIB,Gary Johnson,0
-Yolo,100113,President,,PF,Gloria Estela La Riva,0
+Yolo,100113,President,,REP,Donald J. Trump,3
 Yolo,100113,President,,DEM,Hillary Clinton,4
-Yolo,100113,President,,GRN,Jill Stein,0
-Yolo,100113,President,,WI,Write-In,0
 Yolo,100113,Proposition 51,,,No,4
 Yolo,100113,Proposition 51,,,Yes,3
 Yolo,100113,Proposition 52,,,No,3
@@ -4743,14 +5002,18 @@ Yolo,100113,Proposition 66,,,No,2
 Yolo,100113,Proposition 66,,,Yes,5
 Yolo,100113,Proposition 67,,,No,4
 Yolo,100113,Proposition 67,,,Yes,2
+Yolo,100113,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,5
+Yolo,100113,State Assembly,4,REP,Charlie Schaupp,2
+Yolo,100113,State Senate,3,DEM,Bill Dodd,4
+Yolo,100113,State Senate,3,DEM,Mariko Yamada,3
+Yolo,100113,U.S. House,3,DEM,John Garamendi,3
+Yolo,100113,U.S. House,3,REP,N Eugene Cleek,4
 Yolo,100113,U.S. Senate,,DEM,Kamala D. Harris,2
 Yolo,100113,U.S. Senate,,DEM,Loretta L. Sanchez,3
-Yolo,100114,President,,REP/AI,Donald J. Trump,61
+Yolo,100114,President,,REP,Donald J. Trump,61
 Yolo,100114,President,,LIB,Gary Johnson,10
-Yolo,100114,President,,PF,Gloria Estela La Riva,2
+Yolo,100114,President,,PAF,Gloria Estela La Riva,2
 Yolo,100114,President,,DEM,Hillary Clinton,30
-Yolo,100114,President,,GRN,Jill Stein,0
-Yolo,100114,President,,WI,Write-In,0
 Yolo,100114,Proposition 51,,,No,77
 Yolo,100114,Proposition 51,,,Yes,25
 Yolo,100114,Proposition 52,,,No,58
@@ -4785,14 +5048,18 @@ Yolo,100114,Proposition 66,,,No,31
 Yolo,100114,Proposition 66,,,Yes,67
 Yolo,100114,Proposition 67,,,No,66
 Yolo,100114,Proposition 67,,,Yes,36
+Yolo,100114,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,37
+Yolo,100114,State Assembly,4,REP,Charlie Schaupp,63
+Yolo,100114,State Senate,3,DEM,Bill Dodd,48
+Yolo,100114,State Senate,3,DEM,Mariko Yamada,41
+Yolo,100114,U.S. House,3,DEM,John Garamendi,44
+Yolo,100114,U.S. House,3,REP,N Eugene Cleek,58
 Yolo,100114,U.S. Senate,,DEM,Kamala D. Harris,47
 Yolo,100114,U.S. Senate,,DEM,Loretta L. Sanchez,40
-Yolo,100115,President,,REP/AI,Donald J. Trump,62
+Yolo,100115,President,,REP,Donald J. Trump,62
 Yolo,100115,President,,LIB,Gary Johnson,11
-Yolo,100115,President,,PF,Gloria Estela La Riva,0
 Yolo,100115,President,,DEM,Hillary Clinton,185
 Yolo,100115,President,,GRN,Jill Stein,7
-Yolo,100115,President,,WI,Write-In,1
 Yolo,100115,Proposition 51,,,No,125
 Yolo,100115,Proposition 51,,,Yes,123
 Yolo,100115,Proposition 52,,,No,81
@@ -4827,14 +5094,18 @@ Yolo,100115,Proposition 66,,,No,155
 Yolo,100115,Proposition 66,,,Yes,87
 Yolo,100115,Proposition 67,,,No,78
 Yolo,100115,Proposition 67,,,Yes,181
+Yolo,100115,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,170
+Yolo,100115,State Assembly,4,REP,Charlie Schaupp,88
+Yolo,100115,State Senate,3,DEM,Bill Dodd,121
+Yolo,100115,State Senate,3,DEM,Mariko Yamada,119
+Yolo,100115,U.S. House,3,DEM,John Garamendi,179
+Yolo,100115,U.S. House,3,REP,N Eugene Cleek,81
 Yolo,100115,U.S. Senate,,DEM,Kamala D. Harris,172
 Yolo,100115,U.S. Senate,,DEM,Loretta L. Sanchez,57
-Yolo,100116,President,,REP/AI,Donald J. Trump,21
+Yolo,100116,President,,REP,Donald J. Trump,21
 Yolo,100116,President,,LIB,Gary Johnson,2
-Yolo,100116,President,,PF,Gloria Estela La Riva,0
 Yolo,100116,President,,DEM,Hillary Clinton,12
 Yolo,100116,President,,GRN,Jill Stein,1
-Yolo,100116,President,,WI,Write-In,0
 Yolo,100116,Proposition 51,,,No,22
 Yolo,100116,Proposition 51,,,Yes,16
 Yolo,100116,Proposition 52,,,No,19
@@ -4869,56 +5140,18 @@ Yolo,100116,Proposition 66,,,No,23
 Yolo,100116,Proposition 66,,,Yes,15
 Yolo,100116,Proposition 67,,,No,26
 Yolo,100116,Proposition 67,,,Yes,12
+Yolo,100116,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,21
+Yolo,100116,State Assembly,4,REP,Charlie Schaupp,15
+Yolo,100116,State Senate,3,DEM,Bill Dodd,16
+Yolo,100116,State Senate,3,DEM,Mariko Yamada,16
+Yolo,100116,U.S. House,3,DEM,John Garamendi,20
+Yolo,100116,U.S. House,3,REP,N Eugene Cleek,18
 Yolo,100116,U.S. Senate,,DEM,Kamala D. Harris,22
 Yolo,100116,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Yolo,100117,President,,REP/AI,Donald J. Trump,0
-Yolo,100117,President,,LIB,Gary Johnson,0
-Yolo,100117,President,,PF,Gloria Estela La Riva,0
-Yolo,100117,President,,DEM,Hillary Clinton,0
-Yolo,100117,President,,GRN,Jill Stein,0
-Yolo,100117,President,,WI,Write-In,0
-Yolo,100117,Proposition 51,,,No,0
-Yolo,100117,Proposition 51,,,Yes,0
-Yolo,100117,Proposition 52,,,No,0
-Yolo,100117,Proposition 52,,,Yes,0
-Yolo,100117,Proposition 53,,,No,0
-Yolo,100117,Proposition 53,,,Yes,0
-Yolo,100117,Proposition 54,,,No,0
-Yolo,100117,Proposition 54,,,Yes,0
-Yolo,100117,Proposition 55,,,No,0
-Yolo,100117,Proposition 55,,,Yes,0
-Yolo,100117,Proposition 56,,,No,0
-Yolo,100117,Proposition 56,,,Yes,0
-Yolo,100117,Proposition 57,,,No,0
-Yolo,100117,Proposition 57,,,Yes,0
-Yolo,100117,Proposition 58,,,No,0
-Yolo,100117,Proposition 58,,,Yes,0
-Yolo,100117,Proposition 59,,,No,0
-Yolo,100117,Proposition 59,,,Yes,0
-Yolo,100117,Proposition 60,,,No,0
-Yolo,100117,Proposition 60,,,Yes,0
-Yolo,100117,Proposition 61,,,No,0
-Yolo,100117,Proposition 61,,,Yes,0
-Yolo,100117,Proposition 62,,,No,0
-Yolo,100117,Proposition 62,,,Yes,0
-Yolo,100117,Proposition 63,,,No,0
-Yolo,100117,Proposition 63,,,Yes,0
-Yolo,100117,Proposition 64,,,No,0
-Yolo,100117,Proposition 64,,,Yes,0
-Yolo,100117,Proposition 65,,,No,0
-Yolo,100117,Proposition 65,,,Yes,0
-Yolo,100117,Proposition 66,,,No,0
-Yolo,100117,Proposition 66,,,Yes,0
-Yolo,100117,Proposition 67,,,No,0
-Yolo,100117,Proposition 67,,,Yes,0
-Yolo,100117,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100117,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100118,President,,REP/AI,Donald J. Trump,172
+Yolo,100118,President,,REP,Donald J. Trump,172
 Yolo,100118,President,,LIB,Gary Johnson,9
-Yolo,100118,President,,PF,Gloria Estela La Riva,0
 Yolo,100118,President,,DEM,Hillary Clinton,152
 Yolo,100118,President,,GRN,Jill Stein,2
-Yolo,100118,President,,WI,Write-In,5
 Yolo,100118,Proposition 51,,,No,214
 Yolo,100118,Proposition 51,,,Yes,129
 Yolo,100118,Proposition 52,,,No,155
@@ -4953,14 +5186,18 @@ Yolo,100118,Proposition 66,,,No,137
 Yolo,100118,Proposition 66,,,Yes,188
 Yolo,100118,Proposition 67,,,No,208
 Yolo,100118,Proposition 67,,,Yes,137
+Yolo,100118,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,134
+Yolo,100118,State Assembly,4,REP,Charlie Schaupp,205
+Yolo,100118,State Senate,3,DEM,Bill Dodd,172
+Yolo,100118,State Senate,3,DEM,Mariko Yamada,115
+Yolo,100118,U.S. House,3,DEM,John Garamendi,147
+Yolo,100118,U.S. House,3,REP,N Eugene Cleek,192
 Yolo,100118,U.S. Senate,,DEM,Kamala D. Harris,169
 Yolo,100118,U.S. Senate,,DEM,Loretta L. Sanchez,96
-Yolo,100119,President,,REP/AI,Donald J. Trump,6
-Yolo,100119,President,,LIB,Gary Johnson,0
-Yolo,100119,President,,PF,Gloria Estela La Riva,1
+Yolo,100119,President,,REP,Donald J. Trump,6
+Yolo,100119,President,,PAF,Gloria Estela La Riva,1
 Yolo,100119,President,,DEM,Hillary Clinton,41
 Yolo,100119,President,,GRN,Jill Stein,2
-Yolo,100119,President,,WI,Write-In,0
 Yolo,100119,Proposition 51,,,No,22
 Yolo,100119,Proposition 51,,,Yes,25
 Yolo,100119,Proposition 52,,,No,12
@@ -4995,98 +5232,19 @@ Yolo,100119,Proposition 66,,,No,26
 Yolo,100119,Proposition 66,,,Yes,16
 Yolo,100119,Proposition 67,,,No,12
 Yolo,100119,Proposition 67,,,Yes,33
+Yolo,100119,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,37
+Yolo,100119,State Assembly,4,REP,Charlie Schaupp,9
+Yolo,100119,State Senate,3,DEM,Bill Dodd,21
+Yolo,100119,State Senate,3,DEM,Mariko Yamada,23
+Yolo,100119,U.S. House,3,DEM,John Garamendi,37
+Yolo,100119,U.S. House,3,REP,N Eugene Cleek,8
 Yolo,100119,U.S. Senate,,DEM,Kamala D. Harris,24
 Yolo,100119,U.S. Senate,,DEM,Loretta L. Sanchez,20
-Yolo,100120,President,,REP/AI,Donald J. Trump,0
-Yolo,100120,President,,LIB,Gary Johnson,0
-Yolo,100120,President,,PF,Gloria Estela La Riva,0
-Yolo,100120,President,,DEM,Hillary Clinton,0
-Yolo,100120,President,,GRN,Jill Stein,0
-Yolo,100120,President,,WI,Write-In,0
-Yolo,100120,Proposition 51,,,No,0
-Yolo,100120,Proposition 51,,,Yes,0
-Yolo,100120,Proposition 52,,,No,0
-Yolo,100120,Proposition 52,,,Yes,0
-Yolo,100120,Proposition 53,,,No,0
-Yolo,100120,Proposition 53,,,Yes,0
-Yolo,100120,Proposition 54,,,No,0
-Yolo,100120,Proposition 54,,,Yes,0
-Yolo,100120,Proposition 55,,,No,0
-Yolo,100120,Proposition 55,,,Yes,0
-Yolo,100120,Proposition 56,,,No,0
-Yolo,100120,Proposition 56,,,Yes,0
-Yolo,100120,Proposition 57,,,No,0
-Yolo,100120,Proposition 57,,,Yes,0
-Yolo,100120,Proposition 58,,,No,0
-Yolo,100120,Proposition 58,,,Yes,0
-Yolo,100120,Proposition 59,,,No,0
-Yolo,100120,Proposition 59,,,Yes,0
-Yolo,100120,Proposition 60,,,No,0
-Yolo,100120,Proposition 60,,,Yes,0
-Yolo,100120,Proposition 61,,,No,0
-Yolo,100120,Proposition 61,,,Yes,0
-Yolo,100120,Proposition 62,,,No,0
-Yolo,100120,Proposition 62,,,Yes,0
-Yolo,100120,Proposition 63,,,No,0
-Yolo,100120,Proposition 63,,,Yes,0
-Yolo,100120,Proposition 64,,,No,0
-Yolo,100120,Proposition 64,,,Yes,0
-Yolo,100120,Proposition 65,,,No,0
-Yolo,100120,Proposition 65,,,Yes,0
-Yolo,100120,Proposition 66,,,No,0
-Yolo,100120,Proposition 66,,,Yes,0
-Yolo,100120,Proposition 67,,,No,0
-Yolo,100120,Proposition 67,,,Yes,0
-Yolo,100120,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100120,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100121,President,,REP/AI,Donald J. Trump,0
-Yolo,100121,President,,LIB,Gary Johnson,0
-Yolo,100121,President,,PF,Gloria Estela La Riva,0
-Yolo,100121,President,,DEM,Hillary Clinton,0
-Yolo,100121,President,,GRN,Jill Stein,0
-Yolo,100121,President,,WI,Write-In,0
-Yolo,100121,Proposition 51,,,No,0
-Yolo,100121,Proposition 51,,,Yes,0
-Yolo,100121,Proposition 52,,,No,0
-Yolo,100121,Proposition 52,,,Yes,0
-Yolo,100121,Proposition 53,,,No,0
-Yolo,100121,Proposition 53,,,Yes,0
-Yolo,100121,Proposition 54,,,No,0
-Yolo,100121,Proposition 54,,,Yes,0
-Yolo,100121,Proposition 55,,,No,0
-Yolo,100121,Proposition 55,,,Yes,0
-Yolo,100121,Proposition 56,,,No,0
-Yolo,100121,Proposition 56,,,Yes,0
-Yolo,100121,Proposition 57,,,No,0
-Yolo,100121,Proposition 57,,,Yes,0
-Yolo,100121,Proposition 58,,,No,0
-Yolo,100121,Proposition 58,,,Yes,0
-Yolo,100121,Proposition 59,,,No,0
-Yolo,100121,Proposition 59,,,Yes,0
-Yolo,100121,Proposition 60,,,No,0
-Yolo,100121,Proposition 60,,,Yes,0
-Yolo,100121,Proposition 61,,,No,0
-Yolo,100121,Proposition 61,,,Yes,0
-Yolo,100121,Proposition 62,,,No,0
-Yolo,100121,Proposition 62,,,Yes,0
-Yolo,100121,Proposition 63,,,No,0
-Yolo,100121,Proposition 63,,,Yes,0
-Yolo,100121,Proposition 64,,,No,0
-Yolo,100121,Proposition 64,,,Yes,0
-Yolo,100121,Proposition 65,,,No,0
-Yolo,100121,Proposition 65,,,Yes,0
-Yolo,100121,Proposition 66,,,No,0
-Yolo,100121,Proposition 66,,,Yes,0
-Yolo,100121,Proposition 67,,,No,0
-Yolo,100121,Proposition 67,,,Yes,0
-Yolo,100121,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100121,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100122,President,,REP/AI,Donald J. Trump,24
+Yolo,100122,President,,REP,Donald J. Trump,24
 Yolo,100122,President,,LIB,Gary Johnson,2
-Yolo,100122,President,,PF,Gloria Estela La Riva,1
+Yolo,100122,President,,PAF,Gloria Estela La Riva,1
 Yolo,100122,President,,DEM,Hillary Clinton,93
 Yolo,100122,President,,GRN,Jill Stein,4
-Yolo,100122,President,,WI,Write-In,3
 Yolo,100122,Proposition 51,,,No,40
 Yolo,100122,Proposition 51,,,Yes,86
 Yolo,100122,Proposition 52,,,No,27
@@ -5121,56 +5279,18 @@ Yolo,100122,Proposition 66,,,No,71
 Yolo,100122,Proposition 66,,,Yes,51
 Yolo,100122,Proposition 67,,,No,72
 Yolo,100122,Proposition 67,,,Yes,55
+Yolo,100122,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,98
+Yolo,100122,State Assembly,4,REP,Charlie Schaupp,28
+Yolo,100122,State Senate,3,DEM,Bill Dodd,47
+Yolo,100122,State Senate,3,DEM,Mariko Yamada,77
+Yolo,100122,U.S. House,3,DEM,John Garamendi,102
+Yolo,100122,U.S. House,3,REP,N Eugene Cleek,24
 Yolo,100122,U.S. Senate,,DEM,Kamala D. Harris,54
 Yolo,100122,U.S. Senate,,DEM,Loretta L. Sanchez,65
-Yolo,100123,President,,REP/AI,Donald J. Trump,0
-Yolo,100123,President,,LIB,Gary Johnson,0
-Yolo,100123,President,,PF,Gloria Estela La Riva,0
-Yolo,100123,President,,DEM,Hillary Clinton,0
-Yolo,100123,President,,GRN,Jill Stein,0
-Yolo,100123,President,,WI,Write-In,0
-Yolo,100123,Proposition 51,,,No,0
-Yolo,100123,Proposition 51,,,Yes,0
-Yolo,100123,Proposition 52,,,No,0
-Yolo,100123,Proposition 52,,,Yes,0
-Yolo,100123,Proposition 53,,,No,0
-Yolo,100123,Proposition 53,,,Yes,0
-Yolo,100123,Proposition 54,,,No,0
-Yolo,100123,Proposition 54,,,Yes,0
-Yolo,100123,Proposition 55,,,No,0
-Yolo,100123,Proposition 55,,,Yes,0
-Yolo,100123,Proposition 56,,,No,0
-Yolo,100123,Proposition 56,,,Yes,0
-Yolo,100123,Proposition 57,,,No,0
-Yolo,100123,Proposition 57,,,Yes,0
-Yolo,100123,Proposition 58,,,No,0
-Yolo,100123,Proposition 58,,,Yes,0
-Yolo,100123,Proposition 59,,,No,0
-Yolo,100123,Proposition 59,,,Yes,0
-Yolo,100123,Proposition 60,,,No,0
-Yolo,100123,Proposition 60,,,Yes,0
-Yolo,100123,Proposition 61,,,No,0
-Yolo,100123,Proposition 61,,,Yes,0
-Yolo,100123,Proposition 62,,,No,0
-Yolo,100123,Proposition 62,,,Yes,0
-Yolo,100123,Proposition 63,,,No,0
-Yolo,100123,Proposition 63,,,Yes,0
-Yolo,100123,Proposition 64,,,No,0
-Yolo,100123,Proposition 64,,,Yes,0
-Yolo,100123,Proposition 65,,,No,0
-Yolo,100123,Proposition 65,,,Yes,0
-Yolo,100123,Proposition 66,,,No,0
-Yolo,100123,Proposition 66,,,Yes,0
-Yolo,100123,Proposition 67,,,No,0
-Yolo,100123,Proposition 67,,,Yes,0
-Yolo,100123,U.S. Senate,,DEM,Kamala D. Harris,0
-Yolo,100123,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Yolo,100124,President,,REP/AI,Donald J. Trump,35
+Yolo,100124,President,,REP,Donald J. Trump,35
 Yolo,100124,President,,LIB,Gary Johnson,11
-Yolo,100124,President,,PF,Gloria Estela La Riva,0
 Yolo,100124,President,,DEM,Hillary Clinton,142
 Yolo,100124,President,,GRN,Jill Stein,6
-Yolo,100124,President,,WI,Write-In,3
 Yolo,100124,Proposition 51,,,No,93
 Yolo,100124,Proposition 51,,,Yes,96
 Yolo,100124,Proposition 52,,,No,54
@@ -5205,14 +5325,18 @@ Yolo,100124,Proposition 66,,,No,115
 Yolo,100124,Proposition 66,,,Yes,69
 Yolo,100124,Proposition 67,,,No,62
 Yolo,100124,Proposition 67,,,Yes,133
+Yolo,100124,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,137
+Yolo,100124,State Assembly,4,REP,Charlie Schaupp,58
+Yolo,100124,State Senate,3,DEM,Bill Dodd,82
+Yolo,100124,State Senate,3,DEM,Mariko Yamada,103
+Yolo,100124,U.S. House,3,DEM,John Garamendi,141
+Yolo,100124,U.S. House,3,REP,N Eugene Cleek,51
 Yolo,100124,U.S. Senate,,DEM,Kamala D. Harris,142
 Yolo,100124,U.S. Senate,,DEM,Loretta L. Sanchez,35
-Yolo,100125,President,,REP/AI,Donald J. Trump,116
+Yolo,100125,President,,REP,Donald J. Trump,116
 Yolo,100125,President,,LIB,Gary Johnson,17
-Yolo,100125,President,,PF,Gloria Estela La Riva,0
 Yolo,100125,President,,DEM,Hillary Clinton,130
 Yolo,100125,President,,GRN,Jill Stein,9
-Yolo,100125,President,,WI,Write-In,4
 Yolo,100125,Proposition 51,,,No,135
 Yolo,100125,Proposition 51,,,Yes,138
 Yolo,100125,Proposition 52,,,No,75
@@ -5247,14 +5371,19 @@ Yolo,100125,Proposition 66,,,No,134
 Yolo,100125,Proposition 66,,,Yes,131
 Yolo,100125,Proposition 67,,,No,123
 Yolo,100125,Proposition 67,,,Yes,155
+Yolo,100125,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,163
+Yolo,100125,State Assembly,4,REP,Charlie Schaupp,109
+Yolo,100125,State Senate,3,DEM,Bill Dodd,164
+Yolo,100125,State Senate,3,DEM,Mariko Yamada,85
+Yolo,100125,U.S. House,3,DEM,John Garamendi,156
+Yolo,100125,U.S. House,3,REP,N Eugene Cleek,118
 Yolo,100125,U.S. Senate,,DEM,Kamala D. Harris,151
 Yolo,100125,U.S. Senate,,DEM,Loretta L. Sanchez,85
-Yolo,100126,President,,REP/AI,Donald J. Trump,194
+Yolo,100126,President,,REP,Donald J. Trump,194
 Yolo,100126,President,,LIB,Gary Johnson,17
-Yolo,100126,President,,PF,Gloria Estela La Riva,1
+Yolo,100126,President,,PAF,Gloria Estela La Riva,1
 Yolo,100126,President,,DEM,Hillary Clinton,118
 Yolo,100126,President,,GRN,Jill Stein,4
-Yolo,100126,President,,WI,Write-In,3
 Yolo,100126,Proposition 51,,,No,225
 Yolo,100126,Proposition 51,,,Yes,113
 Yolo,100126,Proposition 52,,,No,130
@@ -5289,14 +5418,19 @@ Yolo,100126,Proposition 66,,,No,119
 Yolo,100126,Proposition 66,,,Yes,209
 Yolo,100126,Proposition 67,,,No,218
 Yolo,100126,Proposition 67,,,Yes,123
+Yolo,100126,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,125
+Yolo,100126,State Assembly,4,REP,Charlie Schaupp,211
+Yolo,100126,State Senate,3,DEM,Bill Dodd,173
+Yolo,100126,State Senate,3,DEM,Mariko Yamada,116
+Yolo,100126,U.S. House,3,DEM,John Garamendi,143
+Yolo,100126,U.S. House,3,REP,N Eugene Cleek,199
 Yolo,100126,U.S. Senate,,DEM,Kamala D. Harris,174
 Yolo,100126,U.S. Senate,,DEM,Loretta L. Sanchez,103
-Yolo,100127,President,,REP/AI,Donald J. Trump,207
+Yolo,100127,President,,REP,Donald J. Trump,207
 Yolo,100127,President,,LIB,Gary Johnson,17
-Yolo,100127,President,,PF,Gloria Estela La Riva,1
+Yolo,100127,President,,PAF,Gloria Estela La Riva,1
 Yolo,100127,President,,DEM,Hillary Clinton,213
 Yolo,100127,President,,GRN,Jill Stein,6
-Yolo,100127,President,,WI,Write-In,8
 Yolo,100127,Proposition 51,,,No,253
 Yolo,100127,Proposition 51,,,Yes,186
 Yolo,100127,Proposition 52,,,No,180
@@ -5331,14 +5465,19 @@ Yolo,100127,Proposition 66,,,No,210
 Yolo,100127,Proposition 66,,,Yes,221
 Yolo,100127,Proposition 67,,,No,267
 Yolo,100127,Proposition 67,,,Yes,177
+Yolo,100127,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,233
+Yolo,100127,State Assembly,4,REP,Charlie Schaupp,217
+Yolo,100127,State Senate,3,DEM,Bill Dodd,214
+Yolo,100127,State Senate,3,DEM,Mariko Yamada,189
+Yolo,100127,U.S. House,3,DEM,John Garamendi,231
+Yolo,100127,U.S. House,3,REP,N Eugene Cleek,219
 Yolo,100127,U.S. Senate,,DEM,Kamala D. Harris,213
 Yolo,100127,U.S. Senate,,DEM,Loretta L. Sanchez,173
-Yolo,100128,President,,REP/AI,Donald J. Trump,99
+Yolo,100128,President,,REP,Donald J. Trump,99
 Yolo,100128,President,,LIB,Gary Johnson,11
-Yolo,100128,President,,PF,Gloria Estela La Riva,1
+Yolo,100128,President,,PAF,Gloria Estela La Riva,1
 Yolo,100128,President,,DEM,Hillary Clinton,110
 Yolo,100128,President,,GRN,Jill Stein,2
-Yolo,100128,President,,WI,Write-In,5
 Yolo,100128,Proposition 51,,,No,120
 Yolo,100128,Proposition 51,,,Yes,105
 Yolo,100128,Proposition 52,,,No,80
@@ -5373,14 +5512,18 @@ Yolo,100128,Proposition 66,,,No,93
 Yolo,100128,Proposition 66,,,Yes,134
 Yolo,100128,Proposition 67,,,No,144
 Yolo,100128,Proposition 67,,,Yes,86
+Yolo,100128,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,116
+Yolo,100128,State Assembly,4,REP,Charlie Schaupp,111
+Yolo,100128,State Senate,3,DEM,Bill Dodd,122
+Yolo,100128,State Senate,3,DEM,Mariko Yamada,85
+Yolo,100128,U.S. House,3,DEM,John Garamendi,122
+Yolo,100128,U.S. House,3,REP,N Eugene Cleek,106
 Yolo,100128,U.S. Senate,,DEM,Kamala D. Harris,115
 Yolo,100128,U.S. Senate,,DEM,Loretta L. Sanchez,78
-Yolo,100129,President,,REP/AI,Donald J. Trump,27
+Yolo,100129,President,,REP,Donald J. Trump,27
 Yolo,100129,President,,LIB,Gary Johnson,3
-Yolo,100129,President,,PF,Gloria Estela La Riva,0
 Yolo,100129,President,,DEM,Hillary Clinton,16
 Yolo,100129,President,,GRN,Jill Stein,2
-Yolo,100129,President,,WI,Write-In,1
 Yolo,100129,Proposition 51,,,No,30
 Yolo,100129,Proposition 51,,,Yes,17
 Yolo,100129,Proposition 52,,,No,14
@@ -5415,14 +5558,18 @@ Yolo,100129,Proposition 66,,,No,20
 Yolo,100129,Proposition 66,,,Yes,25
 Yolo,100129,Proposition 67,,,No,35
 Yolo,100129,Proposition 67,,,Yes,13
+Yolo,100129,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,18
+Yolo,100129,State Assembly,4,REP,Charlie Schaupp,30
+Yolo,100129,State Senate,3,DEM,Bill Dodd,35
+Yolo,100129,State Senate,3,DEM,Mariko Yamada,12
+Yolo,100129,U.S. House,3,DEM,John Garamendi,19
+Yolo,100129,U.S. House,3,REP,N Eugene Cleek,29
 Yolo,100129,U.S. Senate,,DEM,Kamala D. Harris,23
 Yolo,100129,U.S. Senate,,DEM,Loretta L. Sanchez,22
-Yolo,100130,President,,REP/AI,Donald J. Trump,86
+Yolo,100130,President,,REP,Donald J. Trump,86
 Yolo,100130,President,,LIB,Gary Johnson,6
-Yolo,100130,President,,PF,Gloria Estela La Riva,0
 Yolo,100130,President,,DEM,Hillary Clinton,48
 Yolo,100130,President,,GRN,Jill Stein,4
-Yolo,100130,President,,WI,Write-In,2
 Yolo,100130,Proposition 51,,,No,109
 Yolo,100130,Proposition 51,,,Yes,38
 Yolo,100130,Proposition 52,,,No,81
@@ -5457,14 +5604,17 @@ Yolo,100130,Proposition 66,,,No,65
 Yolo,100130,Proposition 66,,,Yes,76
 Yolo,100130,Proposition 67,,,No,99
 Yolo,100130,Proposition 67,,,Yes,49
+Yolo,100130,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,53
+Yolo,100130,State Assembly,4,REP,Charlie Schaupp,94
+Yolo,100130,State Senate,3,DEM,Bill Dodd,80
+Yolo,100130,State Senate,3,DEM,Mariko Yamada,41
+Yolo,100130,U.S. House,3,DEM,John Garamendi,55
+Yolo,100130,U.S. House,3,REP,N Eugene Cleek,93
 Yolo,100130,U.S. Senate,,DEM,Kamala D. Harris,80
 Yolo,100130,U.S. Senate,,DEM,Loretta L. Sanchez,30
-Yolo,100131,President,,REP/AI,Donald J. Trump,13
+Yolo,100131,President,,REP,Donald J. Trump,13
 Yolo,100131,President,,LIB,Gary Johnson,2
-Yolo,100131,President,,PF,Gloria Estela La Riva,0
 Yolo,100131,President,,DEM,Hillary Clinton,12
-Yolo,100131,President,,GRN,Jill Stein,0
-Yolo,100131,President,,WI,Write-In,0
 Yolo,100131,Proposition 51,,,No,15
 Yolo,100131,Proposition 51,,,Yes,12
 Yolo,100131,Proposition 52,,,No,12
@@ -5499,14 +5649,16 @@ Yolo,100131,Proposition 66,,,No,7
 Yolo,100131,Proposition 66,,,Yes,18
 Yolo,100131,Proposition 67,,,No,11
 Yolo,100131,Proposition 67,,,Yes,15
+Yolo,100131,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,13
+Yolo,100131,State Assembly,4,REP,Charlie Schaupp,14
+Yolo,100131,State Senate,3,DEM,Bill Dodd,13
+Yolo,100131,State Senate,3,DEM,Mariko Yamada,10
+Yolo,100131,U.S. House,3,DEM,John Garamendi,12
+Yolo,100131,U.S. House,3,REP,N Eugene Cleek,14
 Yolo,100131,U.S. Senate,,DEM,Kamala D. Harris,12
 Yolo,100131,U.S. Senate,,DEM,Loretta L. Sanchez,11
-Yolo,100132,President,,REP/AI,Donald J. Trump,9
-Yolo,100132,President,,LIB,Gary Johnson,0
-Yolo,100132,President,,PF,Gloria Estela La Riva,0
+Yolo,100132,President,,REP,Donald J. Trump,9
 Yolo,100132,President,,DEM,Hillary Clinton,21
-Yolo,100132,President,,GRN,Jill Stein,0
-Yolo,100132,President,,WI,Write-In,0
 Yolo,100132,Proposition 51,,,No,8
 Yolo,100132,Proposition 51,,,Yes,22
 Yolo,100132,Proposition 52,,,No,8
@@ -5541,14 +5693,15 @@ Yolo,100132,Proposition 66,,,No,12
 Yolo,100132,Proposition 66,,,Yes,18
 Yolo,100132,Proposition 67,,,No,17
 Yolo,100132,Proposition 67,,,Yes,14
+Yolo,100132,State Assembly,7,DEM,Kevin McCarty,23
+Yolo,100132,State Assembly,7,REP,Ryan K. Brown,8
+Yolo,100132,U.S. House,6,DEM,Doris Matsui,25
+Yolo,100132,U.S. House,6,REP,Robert (Bob) Evans,6
 Yolo,100132,U.S. Senate,,DEM,Kamala D. Harris,12
 Yolo,100132,U.S. Senate,,DEM,Loretta L. Sanchez,15
-Yolo,100133,President,,REP/AI,Donald J. Trump,2
+Yolo,100133,President,,REP,Donald J. Trump,2
 Yolo,100133,President,,LIB,Gary Johnson,2
-Yolo,100133,President,,PF,Gloria Estela La Riva,0
 Yolo,100133,President,,DEM,Hillary Clinton,6
-Yolo,100133,President,,GRN,Jill Stein,0
-Yolo,100133,President,,WI,Write-In,0
 Yolo,100133,Proposition 51,,,No,2
 Yolo,100133,Proposition 51,,,Yes,9
 Yolo,100133,Proposition 52,,,No,3
@@ -5568,7 +5721,6 @@ Yolo,100133,Proposition 58,,,Yes,5
 Yolo,100133,Proposition 59,,,No,4
 Yolo,100133,Proposition 59,,,Yes,6
 Yolo,100133,Proposition 60,,,No,10
-Yolo,100133,Proposition 60,,,Yes,0
 Yolo,100133,Proposition 61,,,No,7
 Yolo,100133,Proposition 61,,,Yes,3
 Yolo,100133,Proposition 62,,,No,5
@@ -5583,5 +5735,11 @@ Yolo,100133,Proposition 66,,,No,4
 Yolo,100133,Proposition 66,,,Yes,6
 Yolo,100133,Proposition 67,,,No,4
 Yolo,100133,Proposition 67,,,Yes,6
+Yolo,100133,State Assembly,4,DEM,Cecilia M. Aguiar-Curry,8
+Yolo,100133,State Assembly,4,REP,Charlie Schaupp,1
+Yolo,100133,State Senate,3,DEM,Bill Dodd,4
+Yolo,100133,State Senate,3,DEM,Mariko Yamada,5
+Yolo,100133,U.S. House,3,DEM,John Garamendi,6
+Yolo,100133,U.S. House,3,REP,N Eugene Cleek,3
 Yolo,100133,U.S. Senate,,DEM,Kamala D. Harris,7
 Yolo,100133,U.S. Senate,,DEM,Loretta L. Sanchez,1

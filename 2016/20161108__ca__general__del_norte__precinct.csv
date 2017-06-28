@@ -1,52 +1,413 @@
 county,precinct,office,district,party,candidate,votes
-Del Norte,1,President,,REP/AI,Donald J. Trump,258
-Del Norte,1,President,,LIB,Gary Johnson,24
-Del Norte,1,President,,PF,Gloria Estela La Riva,7
-Del Norte,1,President,,DEM,Hillary Clinton,203
-Del Norte,1,President,,GRN,Jill Stein,22
-Del Norte,1,President,,WI,Write-In,15
-Del Norte,1,Proposition 51,,,No,217
-Del Norte,1,Proposition 51,,,Yes,266
-Del Norte,1,Proposition 52,,,No,189
-Del Norte,1,Proposition 52,,,Yes,320
-Del Norte,1,Proposition 53,,,No,192
-Del Norte,1,Proposition 53,,,Yes,300
-Del Norte,1,Proposition 54,,,No,170
-Del Norte,1,Proposition 54,,,Yes,332
-Del Norte,1,Proposition 55,,,No,191
-Del Norte,1,Proposition 55,,,Yes,321
-Del Norte,1,Proposition 56,,,No,266
-Del Norte,1,Proposition 56,,,Yes,263
-Del Norte,1,Proposition 57,,,No,216
-Del Norte,1,Proposition 57,,,Yes,307
-Del Norte,1,Proposition 58,,,No,160
-Del Norte,1,Proposition 58,,,Yes,348
-Del Norte,1,Proposition 59,,,No,234
-Del Norte,1,Proposition 59,,,Yes,257
-Del Norte,1,Proposition 60,,,No,266
-Del Norte,1,Proposition 60,,,Yes,220
-Del Norte,1,Proposition 61,,,No,259
-Del Norte,1,Proposition 61,,,Yes,246
-Del Norte,1,Proposition 62,,,No,328
-Del Norte,1,Proposition 62,,,Yes,191
-Del Norte,1,Proposition 63,,,No,310
-Del Norte,1,Proposition 63,,,Yes,215
-Del Norte,1,Proposition 64,,,No,182
-Del Norte,1,Proposition 64,,,Yes,346
-Del Norte,1,Proposition 65,,,No,284
-Del Norte,1,Proposition 65,,,Yes,221
-Del Norte,1,Proposition 66,,,No,216
-Del Norte,1,Proposition 66,,,Yes,281
-Del Norte,1,Proposition 67,,,No,277
-Del Norte,1,Proposition 67,,,Yes,243
-Del Norte,1,U.S. Senate,,DEM,Kamala D. Harris,263
-Del Norte,1,U.S. Senate,,DEM,Loretta L. Sanchez,187
-Del Norte,10,President,,REP/AI,Donald J. Trump,272
+Del Norte,01,President,,REP,Donald J. Trump,258
+Del Norte,01,President,,LIB,Gary Johnson,24
+Del Norte,01,President,,PAF,Gloria Estela La Riva,7
+Del Norte,01,President,,DEM,Hillary Clinton,203
+Del Norte,01,President,,GRN,Jill Stein,22
+Del Norte,01,Proposition 51,,,No,217
+Del Norte,01,Proposition 51,,,Yes,266
+Del Norte,01,Proposition 52,,,No,189
+Del Norte,01,Proposition 52,,,Yes,320
+Del Norte,01,Proposition 53,,,No,192
+Del Norte,01,Proposition 53,,,Yes,300
+Del Norte,01,Proposition 54,,,No,170
+Del Norte,01,Proposition 54,,,Yes,332
+Del Norte,01,Proposition 55,,,No,191
+Del Norte,01,Proposition 55,,,Yes,321
+Del Norte,01,Proposition 56,,,No,266
+Del Norte,01,Proposition 56,,,Yes,263
+Del Norte,01,Proposition 57,,,No,216
+Del Norte,01,Proposition 57,,,Yes,307
+Del Norte,01,Proposition 58,,,No,160
+Del Norte,01,Proposition 58,,,Yes,348
+Del Norte,01,Proposition 59,,,No,234
+Del Norte,01,Proposition 59,,,Yes,257
+Del Norte,01,Proposition 60,,,No,266
+Del Norte,01,Proposition 60,,,Yes,220
+Del Norte,01,Proposition 61,,,No,259
+Del Norte,01,Proposition 61,,,Yes,246
+Del Norte,01,Proposition 62,,,No,328
+Del Norte,01,Proposition 62,,,Yes,191
+Del Norte,01,Proposition 63,,,No,310
+Del Norte,01,Proposition 63,,,Yes,215
+Del Norte,01,Proposition 64,,,No,182
+Del Norte,01,Proposition 64,,,Yes,346
+Del Norte,01,Proposition 65,,,No,284
+Del Norte,01,Proposition 65,,,Yes,221
+Del Norte,01,Proposition 66,,,No,216
+Del Norte,01,Proposition 66,,,Yes,281
+Del Norte,01,Proposition 67,,,No,277
+Del Norte,01,Proposition 67,,,Yes,243
+Del Norte,01,State Assembly,2,DEM,Jim Wood,285
+Del Norte,01,State Assembly,2,LIB,Ken Anton,184
+Del Norte,01,U.S. House,2,REP,Dale K. Mensing,215
+Del Norte,01,U.S. House,2,DEM,Jared W. Huffman,290
+Del Norte,01,U.S. Senate,,DEM,Kamala D. Harris,263
+Del Norte,01,U.S. Senate,,DEM,Loretta L. Sanchez,187
+Del Norte,02,President,,REP,Donald J. Trump,212
+Del Norte,02,President,,LIB,Gary Johnson,20
+Del Norte,02,President,,PAF,Gloria Estela La Riva,4
+Del Norte,02,President,,DEM,Hillary Clinton,162
+Del Norte,02,President,,GRN,Jill Stein,17
+Del Norte,02,Proposition 51,,,No,204
+Del Norte,02,Proposition 51,,,Yes,220
+Del Norte,02,Proposition 52,,,No,149
+Del Norte,02,Proposition 52,,,Yes,267
+Del Norte,02,Proposition 53,,,No,178
+Del Norte,02,Proposition 53,,,Yes,233
+Del Norte,02,Proposition 54,,,No,144
+Del Norte,02,Proposition 54,,,Yes,265
+Del Norte,02,Proposition 55,,,No,144
+Del Norte,02,Proposition 55,,,Yes,273
+Del Norte,02,Proposition 56,,,No,217
+Del Norte,02,Proposition 56,,,Yes,223
+Del Norte,02,Proposition 57,,,No,179
+Del Norte,02,Proposition 57,,,Yes,251
+Del Norte,02,Proposition 58,,,No,117
+Del Norte,02,Proposition 58,,,Yes,308
+Del Norte,02,Proposition 59,,,No,212
+Del Norte,02,Proposition 59,,,Yes,198
+Del Norte,02,Proposition 60,,,No,217
+Del Norte,02,Proposition 60,,,Yes,190
+Del Norte,02,Proposition 61,,,No,230
+Del Norte,02,Proposition 61,,,Yes,181
+Del Norte,02,Proposition 62,,,No,272
+Del Norte,02,Proposition 62,,,Yes,154
+Del Norte,02,Proposition 63,,,No,270
+Del Norte,02,Proposition 63,,,Yes,159
+Del Norte,02,Proposition 64,,,No,149
+Del Norte,02,Proposition 64,,,Yes,292
+Del Norte,02,Proposition 65,,,No,233
+Del Norte,02,Proposition 65,,,Yes,196
+Del Norte,02,Proposition 66,,,No,179
+Del Norte,02,Proposition 66,,,Yes,232
+Del Norte,02,Proposition 67,,,No,211
+Del Norte,02,Proposition 67,,,Yes,222
+Del Norte,02,State Assembly,2,DEM,Jim Wood,226
+Del Norte,02,State Assembly,2,LIB,Ken Anton,156
+Del Norte,02,U.S. House,2,REP,Dale K. Mensing,167
+Del Norte,02,U.S. House,2,DEM,Jared W. Huffman,249
+Del Norte,02,U.S. Senate,,DEM,Kamala D. Harris,229
+Del Norte,02,U.S. Senate,,DEM,Loretta L. Sanchez,136
+Del Norte,03,President,,REP,Donald J. Trump,197
+Del Norte,03,President,,LIB,Gary Johnson,20
+Del Norte,03,President,,PAF,Gloria Estela La Riva,12
+Del Norte,03,President,,DEM,Hillary Clinton,187
+Del Norte,03,President,,GRN,Jill Stein,15
+Del Norte,03,Proposition 51,,,No,179
+Del Norte,03,Proposition 51,,,Yes,235
+Del Norte,03,Proposition 52,,,No,128
+Del Norte,03,Proposition 52,,,Yes,293
+Del Norte,03,Proposition 53,,,No,172
+Del Norte,03,Proposition 53,,,Yes,243
+Del Norte,03,Proposition 54,,,No,146
+Del Norte,03,Proposition 54,,,Yes,263
+Del Norte,03,Proposition 55,,,No,141
+Del Norte,03,Proposition 55,,,Yes,273
+Del Norte,03,Proposition 56,,,No,238
+Del Norte,03,Proposition 56,,,Yes,197
+Del Norte,03,Proposition 57,,,No,156
+Del Norte,03,Proposition 57,,,Yes,273
+Del Norte,03,Proposition 58,,,No,113
+Del Norte,03,Proposition 58,,,Yes,314
+Del Norte,03,Proposition 59,,,No,201
+Del Norte,03,Proposition 59,,,Yes,211
+Del Norte,03,Proposition 60,,,No,200
+Del Norte,03,Proposition 60,,,Yes,204
+Del Norte,03,Proposition 61,,,No,215
+Del Norte,03,Proposition 61,,,Yes,205
+Del Norte,03,Proposition 62,,,No,275
+Del Norte,03,Proposition 62,,,Yes,155
+Del Norte,03,Proposition 63,,,No,252
+Del Norte,03,Proposition 63,,,Yes,185
+Del Norte,03,Proposition 64,,,No,148
+Del Norte,03,Proposition 64,,,Yes,285
+Del Norte,03,Proposition 65,,,No,237
+Del Norte,03,Proposition 65,,,Yes,188
+Del Norte,03,Proposition 66,,,No,197
+Del Norte,03,Proposition 66,,,Yes,218
+Del Norte,03,Proposition 67,,,No,235
+Del Norte,03,Proposition 67,,,Yes,198
+Del Norte,03,State Assembly,2,DEM,Jim Wood,248
+Del Norte,03,State Assembly,2,LIB,Ken Anton,148
+Del Norte,03,U.S. House,2,REP,Dale K. Mensing,158
+Del Norte,03,U.S. House,2,DEM,Jared W. Huffman,254
+Del Norte,03,U.S. Senate,,DEM,Kamala D. Harris,214
+Del Norte,03,U.S. Senate,,DEM,Loretta L. Sanchez,161
+Del Norte,04,President,,REP,Donald J. Trump,115
+Del Norte,04,President,,LIB,Gary Johnson,17
+Del Norte,04,President,,PAF,Gloria Estela La Riva,4
+Del Norte,04,President,,DEM,Hillary Clinton,137
+Del Norte,04,President,,GRN,Jill Stein,18
+Del Norte,04,Proposition 51,,,No,133
+Del Norte,04,Proposition 51,,,Yes,148
+Del Norte,04,Proposition 52,,,No,106
+Del Norte,04,Proposition 52,,,Yes,186
+Del Norte,04,Proposition 53,,,No,92
+Del Norte,04,Proposition 53,,,Yes,193
+Del Norte,04,Proposition 54,,,No,92
+Del Norte,04,Proposition 54,,,Yes,193
+Del Norte,04,Proposition 55,,,No,105
+Del Norte,04,Proposition 55,,,Yes,184
+Del Norte,04,Proposition 56,,,No,151
+Del Norte,04,Proposition 56,,,Yes,155
+Del Norte,04,Proposition 57,,,No,111
+Del Norte,04,Proposition 57,,,Yes,191
+Del Norte,04,Proposition 58,,,No,93
+Del Norte,04,Proposition 58,,,Yes,203
+Del Norte,04,Proposition 59,,,No,151
+Del Norte,04,Proposition 59,,,Yes,139
+Del Norte,04,Proposition 60,,,No,144
+Del Norte,04,Proposition 60,,,Yes,143
+Del Norte,04,Proposition 61,,,No,135
+Del Norte,04,Proposition 61,,,Yes,158
+Del Norte,04,Proposition 62,,,No,177
+Del Norte,04,Proposition 62,,,Yes,117
+Del Norte,04,Proposition 63,,,No,167
+Del Norte,04,Proposition 63,,,Yes,136
+Del Norte,04,Proposition 64,,,No,95
+Del Norte,04,Proposition 64,,,Yes,210
+Del Norte,04,Proposition 65,,,No,137
+Del Norte,04,Proposition 65,,,Yes,163
+Del Norte,04,Proposition 66,,,No,126
+Del Norte,04,Proposition 66,,,Yes,161
+Del Norte,04,Proposition 67,,,No,143
+Del Norte,04,Proposition 67,,,Yes,157
+Del Norte,04,State Assembly,2,DEM,Jim Wood,182
+Del Norte,04,State Assembly,2,LIB,Ken Anton,103
+Del Norte,04,U.S. House,2,REP,Dale K. Mensing,112
+Del Norte,04,U.S. House,2,DEM,Jared W. Huffman,181
+Del Norte,04,U.S. Senate,,DEM,Kamala D. Harris,171
+Del Norte,04,U.S. Senate,,DEM,Loretta L. Sanchez,95
+Del Norte,05,President,,REP,Donald J. Trump,142
+Del Norte,05,President,,LIB,Gary Johnson,18
+Del Norte,05,President,,PAF,Gloria Estela La Riva,1
+Del Norte,05,President,,DEM,Hillary Clinton,158
+Del Norte,05,President,,GRN,Jill Stein,7
+Del Norte,05,Proposition 51,,,No,157
+Del Norte,05,Proposition 51,,,Yes,162
+Del Norte,05,Proposition 52,,,No,109
+Del Norte,05,Proposition 52,,,Yes,217
+Del Norte,05,Proposition 53,,,No,142
+Del Norte,05,Proposition 53,,,Yes,180
+Del Norte,05,Proposition 54,,,No,110
+Del Norte,05,Proposition 54,,,Yes,212
+Del Norte,05,Proposition 55,,,No,119
+Del Norte,05,Proposition 55,,,Yes,207
+Del Norte,05,Proposition 56,,,No,159
+Del Norte,05,Proposition 56,,,Yes,180
+Del Norte,05,Proposition 57,,,No,126
+Del Norte,05,Proposition 57,,,Yes,210
+Del Norte,05,Proposition 58,,,No,98
+Del Norte,05,Proposition 58,,,Yes,235
+Del Norte,05,Proposition 59,,,No,149
+Del Norte,05,Proposition 59,,,Yes,176
+Del Norte,05,Proposition 60,,,No,185
+Del Norte,05,Proposition 60,,,Yes,132
+Del Norte,05,Proposition 61,,,No,167
+Del Norte,05,Proposition 61,,,Yes,156
+Del Norte,05,Proposition 62,,,No,193
+Del Norte,05,Proposition 62,,,Yes,134
+Del Norte,05,Proposition 63,,,No,206
+Del Norte,05,Proposition 63,,,Yes,128
+Del Norte,05,Proposition 64,,,No,120
+Del Norte,05,Proposition 64,,,Yes,216
+Del Norte,05,Proposition 65,,,No,188
+Del Norte,05,Proposition 65,,,Yes,142
+Del Norte,05,Proposition 66,,,No,159
+Del Norte,05,Proposition 66,,,Yes,166
+Del Norte,05,Proposition 67,,,No,170
+Del Norte,05,Proposition 67,,,Yes,160
+Del Norte,05,State Assembly,2,DEM,Jim Wood,195
+Del Norte,05,State Assembly,2,LIB,Ken Anton,107
+Del Norte,05,U.S. House,2,REP,Dale K. Mensing,115
+Del Norte,05,U.S. House,2,DEM,Jared W. Huffman,200
+Del Norte,05,U.S. Senate,,DEM,Kamala D. Harris,180
+Del Norte,05,U.S. Senate,,DEM,Loretta L. Sanchez,110
+Del Norte,06,President,,REP,Donald J. Trump,165
+Del Norte,06,President,,LIB,Gary Johnson,16
+Del Norte,06,President,,PAF,Gloria Estela La Riva,3
+Del Norte,06,President,,DEM,Hillary Clinton,142
+Del Norte,06,President,,GRN,Jill Stein,9
+Del Norte,06,Proposition 51,,,No,155
+Del Norte,06,Proposition 51,,,Yes,167
+Del Norte,06,Proposition 52,,,No,129
+Del Norte,06,Proposition 52,,,Yes,185
+Del Norte,06,Proposition 53,,,No,123
+Del Norte,06,Proposition 53,,,Yes,191
+Del Norte,06,Proposition 54,,,No,114
+Del Norte,06,Proposition 54,,,Yes,202
+Del Norte,06,Proposition 55,,,No,122
+Del Norte,06,Proposition 55,,,Yes,197
+Del Norte,06,Proposition 56,,,No,178
+Del Norte,06,Proposition 56,,,Yes,164
+Del Norte,06,Proposition 57,,,No,164
+Del Norte,06,Proposition 57,,,Yes,165
+Del Norte,06,Proposition 58,,,No,95
+Del Norte,06,Proposition 58,,,Yes,233
+Del Norte,06,Proposition 59,,,No,158
+Del Norte,06,Proposition 59,,,Yes,145
+Del Norte,06,Proposition 60,,,No,154
+Del Norte,06,Proposition 60,,,Yes,159
+Del Norte,06,Proposition 61,,,No,175
+Del Norte,06,Proposition 61,,,Yes,141
+Del Norte,06,Proposition 62,,,No,217
+Del Norte,06,Proposition 62,,,Yes,111
+Del Norte,06,Proposition 63,,,No,196
+Del Norte,06,Proposition 63,,,Yes,139
+Del Norte,06,Proposition 64,,,No,132
+Del Norte,06,Proposition 64,,,Yes,203
+Del Norte,06,Proposition 65,,,No,176
+Del Norte,06,Proposition 65,,,Yes,150
+Del Norte,06,Proposition 66,,,No,129
+Del Norte,06,Proposition 66,,,Yes,185
+Del Norte,06,Proposition 67,,,No,170
+Del Norte,06,Proposition 67,,,Yes,160
+Del Norte,06,State Assembly,2,DEM,Jim Wood,176
+Del Norte,06,State Assembly,2,LIB,Ken Anton,119
+Del Norte,06,U.S. House,2,REP,Dale K. Mensing,155
+Del Norte,06,U.S. House,2,DEM,Jared W. Huffman,174
+Del Norte,06,U.S. Senate,,DEM,Kamala D. Harris,148
+Del Norte,06,U.S. Senate,,DEM,Loretta L. Sanchez,115
+Del Norte,07,President,,REP,Donald J. Trump,352
+Del Norte,07,President,,LIB,Gary Johnson,28
+Del Norte,07,President,,PAF,Gloria Estela La Riva,5
+Del Norte,07,President,,DEM,Hillary Clinton,226
+Del Norte,07,President,,GRN,Jill Stein,15
+Del Norte,07,Proposition 51,,,No,348
+Del Norte,07,Proposition 51,,,Yes,266
+Del Norte,07,Proposition 52,,,No,271
+Del Norte,07,Proposition 52,,,Yes,341
+Del Norte,07,Proposition 53,,,No,244
+Del Norte,07,Proposition 53,,,Yes,362
+Del Norte,07,Proposition 54,,,No,215
+Del Norte,07,Proposition 54,,,Yes,397
+Del Norte,07,Proposition 55,,,No,253
+Del Norte,07,Proposition 55,,,Yes,362
+Del Norte,07,Proposition 56,,,No,316
+Del Norte,07,Proposition 56,,,Yes,328
+Del Norte,07,Proposition 57,,,No,349
+Del Norte,07,Proposition 57,,,Yes,282
+Del Norte,07,Proposition 58,,,No,211
+Del Norte,07,Proposition 58,,,Yes,414
+Del Norte,07,Proposition 59,,,No,328
+Del Norte,07,Proposition 59,,,Yes,271
+Del Norte,07,Proposition 60,,,No,374
+Del Norte,07,Proposition 60,,,Yes,230
+Del Norte,07,Proposition 61,,,No,349
+Del Norte,07,Proposition 61,,,Yes,266
+Del Norte,07,Proposition 62,,,No,422
+Del Norte,07,Proposition 62,,,Yes,205
+Del Norte,07,Proposition 63,,,No,400
+Del Norte,07,Proposition 63,,,Yes,235
+Del Norte,07,Proposition 64,,,No,279
+Del Norte,07,Proposition 64,,,Yes,364
+Del Norte,07,Proposition 65,,,No,352
+Del Norte,07,Proposition 65,,,Yes,275
+Del Norte,07,Proposition 66,,,No,241
+Del Norte,07,Proposition 66,,,Yes,374
+Del Norte,07,Proposition 67,,,No,358
+Del Norte,07,Proposition 67,,,Yes,268
+Del Norte,07,State Assembly,2,DEM,Jim Wood,307
+Del Norte,07,State Assembly,2,LIB,Ken Anton,251
+Del Norte,07,U.S. House,2,REP,Dale K. Mensing,311
+Del Norte,07,U.S. House,2,DEM,Jared W. Huffman,302
+Del Norte,07,U.S. Senate,,DEM,Kamala D. Harris,321
+Del Norte,07,U.S. Senate,,DEM,Loretta L. Sanchez,183
+Del Norte,08,President,,REP,Donald J. Trump,196
+Del Norte,08,President,,LIB,Gary Johnson,18
+Del Norte,08,President,,PAF,Gloria Estela La Riva,4
+Del Norte,08,President,,DEM,Hillary Clinton,182
+Del Norte,08,President,,GRN,Jill Stein,7
+Del Norte,08,Proposition 51,,,No,211
+Del Norte,08,Proposition 51,,,Yes,151
+Del Norte,08,Proposition 52,,,No,138
+Del Norte,08,Proposition 52,,,Yes,245
+Del Norte,08,Proposition 53,,,No,143
+Del Norte,08,Proposition 53,,,Yes,234
+Del Norte,08,Proposition 54,,,No,116
+Del Norte,08,Proposition 54,,,Yes,262
+Del Norte,08,Proposition 55,,,No,165
+Del Norte,08,Proposition 55,,,Yes,230
+Del Norte,08,Proposition 56,,,No,185
+Del Norte,08,Proposition 56,,,Yes,222
+Del Norte,08,Proposition 57,,,No,193
+Del Norte,08,Proposition 57,,,Yes,197
+Del Norte,08,Proposition 58,,,No,132
+Del Norte,08,Proposition 58,,,Yes,269
+Del Norte,08,Proposition 59,,,No,212
+Del Norte,08,Proposition 59,,,Yes,167
+Del Norte,08,Proposition 60,,,No,198
+Del Norte,08,Proposition 60,,,Yes,168
+Del Norte,08,Proposition 61,,,No,198
+Del Norte,08,Proposition 61,,,Yes,192
+Del Norte,08,Proposition 62,,,No,270
+Del Norte,08,Proposition 62,,,Yes,125
+Del Norte,08,Proposition 63,,,No,247
+Del Norte,08,Proposition 63,,,Yes,153
+Del Norte,08,Proposition 64,,,No,165
+Del Norte,08,Proposition 64,,,Yes,231
+Del Norte,08,Proposition 65,,,No,203
+Del Norte,08,Proposition 65,,,Yes,187
+Del Norte,08,Proposition 66,,,No,147
+Del Norte,08,Proposition 66,,,Yes,219
+Del Norte,08,Proposition 67,,,No,231
+Del Norte,08,Proposition 67,,,Yes,157
+Del Norte,08,State Assembly,2,DEM,Jim Wood,207
+Del Norte,08,State Assembly,2,LIB,Ken Anton,135
+Del Norte,08,U.S. House,2,REP,Dale K. Mensing,173
+Del Norte,08,U.S. House,2,DEM,Jared W. Huffman,214
+Del Norte,08,U.S. Senate,,DEM,Kamala D. Harris,176
+Del Norte,08,U.S. Senate,,DEM,Loretta L. Sanchez,136
+Del Norte,09,President,,REP,Donald J. Trump,223
+Del Norte,09,President,,LIB,Gary Johnson,21
+Del Norte,09,President,,DEM,Hillary Clinton,118
+Del Norte,09,President,,GRN,Jill Stein,3
+Del Norte,09,Proposition 51,,,No,191
+Del Norte,09,Proposition 51,,,Yes,144
+Del Norte,09,Proposition 52,,,No,163
+Del Norte,09,Proposition 52,,,Yes,189
+Del Norte,09,Proposition 53,,,No,161
+Del Norte,09,Proposition 53,,,Yes,187
+Del Norte,09,Proposition 54,,,No,114
+Del Norte,09,Proposition 54,,,Yes,239
+Del Norte,09,Proposition 55,,,No,168
+Del Norte,09,Proposition 55,,,Yes,192
+Del Norte,09,Proposition 56,,,No,169
+Del Norte,09,Proposition 56,,,Yes,197
+Del Norte,09,Proposition 57,,,No,207
+Del Norte,09,Proposition 57,,,Yes,153
+Del Norte,09,Proposition 58,,,No,140
+Del Norte,09,Proposition 58,,,Yes,218
+Del Norte,09,Proposition 59,,,No,188
+Del Norte,09,Proposition 59,,,Yes,144
+Del Norte,09,Proposition 60,,,No,194
+Del Norte,09,Proposition 60,,,Yes,149
+Del Norte,09,Proposition 61,,,No,194
+Del Norte,09,Proposition 61,,,Yes,153
+Del Norte,09,Proposition 62,,,No,255
+Del Norte,09,Proposition 62,,,Yes,98
+Del Norte,09,Proposition 63,,,No,264
+Del Norte,09,Proposition 63,,,Yes,101
+Del Norte,09,Proposition 64,,,No,162
+Del Norte,09,Proposition 64,,,Yes,204
+Del Norte,09,Proposition 65,,,No,211
+Del Norte,09,Proposition 65,,,Yes,145
+Del Norte,09,Proposition 66,,,No,131
+Del Norte,09,Proposition 66,,,Yes,213
+Del Norte,09,Proposition 67,,,No,245
+Del Norte,09,Proposition 67,,,Yes,115
+Del Norte,09,State Assembly,2,DEM,Jim Wood,168
+Del Norte,09,State Assembly,2,LIB,Ken Anton,142
+Del Norte,09,U.S. House,2,REP,Dale K. Mensing,189
+Del Norte,09,U.S. House,2,DEM,Jared W. Huffman,154
+Del Norte,09,U.S. Senate,,DEM,Kamala D. Harris,161
+Del Norte,09,U.S. Senate,,DEM,Loretta L. Sanchez,120
+Del Norte,10,President,,REP,Donald J. Trump,272
 Del Norte,10,President,,LIB,Gary Johnson,16
-Del Norte,10,President,,PF,Gloria Estela La Riva,1
+Del Norte,10,President,,PAF,Gloria Estela La Riva,1
 Del Norte,10,President,,DEM,Hillary Clinton,228
 Del Norte,10,President,,GRN,Jill Stein,9
-Del Norte,10,President,,WI,Write-In,13
 Del Norte,10,Proposition 51,,,No,288
 Del Norte,10,Proposition 51,,,Yes,218
 Del Norte,10,Proposition 52,,,No,244
@@ -81,14 +442,17 @@ Del Norte,10,Proposition 66,,,No,214
 Del Norte,10,Proposition 66,,,Yes,303
 Del Norte,10,Proposition 67,,,No,280
 Del Norte,10,Proposition 67,,,Yes,260
+Del Norte,10,State Assembly,2,DEM,Jim Wood,280
+Del Norte,10,State Assembly,2,LIB,Ken Anton,193
+Del Norte,10,U.S. House,2,REP,Dale K. Mensing,224
+Del Norte,10,U.S. House,2,DEM,Jared W. Huffman,287
 Del Norte,10,U.S. Senate,,DEM,Kamala D. Harris,276
 Del Norte,10,U.S. Senate,,DEM,Loretta L. Sanchez,140
-Del Norte,11,President,,REP/AI,Donald J. Trump,382
+Del Norte,11,President,,REP,Donald J. Trump,382
 Del Norte,11,President,,LIB,Gary Johnson,17
-Del Norte,11,President,,PF,Gloria Estela La Riva,2
+Del Norte,11,President,,PAF,Gloria Estela La Riva,2
 Del Norte,11,President,,DEM,Hillary Clinton,174
 Del Norte,11,President,,GRN,Jill Stein,13
-Del Norte,11,President,,WI,Write-In,5
 Del Norte,11,Proposition 51,,,No,388
 Del Norte,11,Proposition 51,,,Yes,183
 Del Norte,11,Proposition 52,,,No,304
@@ -123,14 +487,17 @@ Del Norte,11,Proposition 66,,,No,236
 Del Norte,11,Proposition 66,,,Yes,330
 Del Norte,11,Proposition 67,,,No,377
 Del Norte,11,Proposition 67,,,Yes,209
+Del Norte,11,State Assembly,2,DEM,Jim Wood,240
+Del Norte,11,State Assembly,2,LIB,Ken Anton,265
+Del Norte,11,U.S. House,2,REP,Dale K. Mensing,325
+Del Norte,11,U.S. House,2,DEM,Jared W. Huffman,233
 Del Norte,11,U.S. Senate,,DEM,Kamala D. Harris,286
 Del Norte,11,U.S. Senate,,DEM,Loretta L. Sanchez,166
-Del Norte,12,President,,REP/AI,Donald J. Trump,194
+Del Norte,12,President,,REP,Donald J. Trump,194
 Del Norte,12,President,,LIB,Gary Johnson,18
-Del Norte,12,President,,PF,Gloria Estela La Riva,2
+Del Norte,12,President,,PAF,Gloria Estela La Riva,2
 Del Norte,12,President,,DEM,Hillary Clinton,184
 Del Norte,12,President,,GRN,Jill Stein,11
-Del Norte,12,President,,WI,Write-In,3
 Del Norte,12,Proposition 51,,,No,246
 Del Norte,12,Proposition 51,,,Yes,161
 Del Norte,12,Proposition 52,,,No,155
@@ -165,14 +532,17 @@ Del Norte,12,Proposition 66,,,No,187
 Del Norte,12,Proposition 66,,,Yes,205
 Del Norte,12,Proposition 67,,,No,224
 Del Norte,12,Proposition 67,,,Yes,180
+Del Norte,12,State Assembly,2,DEM,Jim Wood,220
+Del Norte,12,State Assembly,2,LIB,Ken Anton,147
+Del Norte,12,U.S. House,2,REP,Dale K. Mensing,152
+Del Norte,12,U.S. House,2,DEM,Jared W. Huffman,242
 Del Norte,12,U.S. Senate,,DEM,Kamala D. Harris,214
 Del Norte,12,U.S. Senate,,DEM,Loretta L. Sanchez,108
-Del Norte,13,President,,REP/AI,Donald J. Trump,198
+Del Norte,13,President,,REP,Donald J. Trump,198
 Del Norte,13,President,,LIB,Gary Johnson,12
-Del Norte,13,President,,PF,Gloria Estela La Riva,2
+Del Norte,13,President,,PAF,Gloria Estela La Riva,2
 Del Norte,13,President,,DEM,Hillary Clinton,116
 Del Norte,13,President,,GRN,Jill Stein,8
-Del Norte,13,President,,WI,Write-In,3
 Del Norte,13,Proposition 51,,,No,181
 Del Norte,13,Proposition 51,,,Yes,152
 Del Norte,13,Proposition 52,,,No,138
@@ -207,14 +577,17 @@ Del Norte,13,Proposition 66,,,No,141
 Del Norte,13,Proposition 66,,,Yes,189
 Del Norte,13,Proposition 67,,,No,202
 Del Norte,13,Proposition 67,,,Yes,141
+Del Norte,13,State Assembly,2,DEM,Jim Wood,168
+Del Norte,13,State Assembly,2,LIB,Ken Anton,141
+Del Norte,13,U.S. House,2,REP,Dale K. Mensing,149
+Del Norte,13,U.S. House,2,DEM,Jared W. Huffman,174
 Del Norte,13,U.S. Senate,,DEM,Kamala D. Harris,161
 Del Norte,13,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Del Norte,14,President,,REP/AI,Donald J. Trump,621
+Del Norte,14,President,,REP,Donald J. Trump,621
 Del Norte,14,President,,LIB,Gary Johnson,47
-Del Norte,14,President,,PF,Gloria Estela La Riva,9
+Del Norte,14,President,,PAF,Gloria Estela La Riva,9
 Del Norte,14,President,,DEM,Hillary Clinton,313
 Del Norte,14,President,,GRN,Jill Stein,30
-Del Norte,14,President,,WI,Write-In,18
 Del Norte,14,Proposition 51,,,No,611
 Del Norte,14,Proposition 51,,,Yes,388
 Del Norte,14,Proposition 52,,,No,497
@@ -249,14 +622,17 @@ Del Norte,14,Proposition 66,,,No,406
 Del Norte,14,Proposition 66,,,Yes,565
 Del Norte,14,Proposition 67,,,No,636
 Del Norte,14,Proposition 67,,,Yes,379
+Del Norte,14,State Assembly,2,DEM,Jim Wood,452
+Del Norte,14,State Assembly,2,LIB,Ken Anton,428
+Del Norte,14,U.S. House,2,REP,Dale K. Mensing,507
+Del Norte,14,U.S. House,2,DEM,Jared W. Huffman,470
 Del Norte,14,U.S. Senate,,DEM,Kamala D. Harris,484
 Del Norte,14,U.S. Senate,,DEM,Loretta L. Sanchez,289
-Del Norte,15,President,,REP/AI,Donald J. Trump,534
+Del Norte,15,President,,REP,Donald J. Trump,534
 Del Norte,15,President,,LIB,Gary Johnson,36
-Del Norte,15,President,,PF,Gloria Estela La Riva,4
+Del Norte,15,President,,PAF,Gloria Estela La Riva,4
 Del Norte,15,President,,DEM,Hillary Clinton,194
 Del Norte,15,President,,GRN,Jill Stein,8
-Del Norte,15,President,,WI,Write-In,19
 Del Norte,15,Proposition 51,,,No,520
 Del Norte,15,Proposition 51,,,Yes,256
 Del Norte,15,Proposition 52,,,No,398
@@ -291,14 +667,17 @@ Del Norte,15,Proposition 66,,,No,278
 Del Norte,15,Proposition 66,,,Yes,489
 Del Norte,15,Proposition 67,,,No,511
 Del Norte,15,Proposition 67,,,Yes,283
+Del Norte,15,State Assembly,2,DEM,Jim Wood,317
+Del Norte,15,State Assembly,2,LIB,Ken Anton,358
+Del Norte,15,U.S. House,2,REP,Dale K. Mensing,442
+Del Norte,15,U.S. House,2,DEM,Jared W. Huffman,315
 Del Norte,15,U.S. Senate,,DEM,Kamala D. Harris,362
 Del Norte,15,U.S. Senate,,DEM,Loretta L. Sanchez,211
-Del Norte,16,President,,REP/AI,Donald J. Trump,500
+Del Norte,16,President,,REP,Donald J. Trump,500
 Del Norte,16,President,,LIB,Gary Johnson,28
-Del Norte,16,President,,PF,Gloria Estela La Riva,5
+Del Norte,16,President,,PAF,Gloria Estela La Riva,5
 Del Norte,16,President,,DEM,Hillary Clinton,270
 Del Norte,16,President,,GRN,Jill Stein,15
-Del Norte,16,President,,WI,Write-In,10
 Del Norte,16,Proposition 51,,,No,488
 Del Norte,16,Proposition 51,,,Yes,320
 Del Norte,16,Proposition 52,,,No,392
@@ -333,14 +712,17 @@ Del Norte,16,Proposition 66,,,No,325
 Del Norte,16,Proposition 66,,,Yes,464
 Del Norte,16,Proposition 67,,,No,503
 Del Norte,16,Proposition 67,,,Yes,316
+Del Norte,16,State Assembly,2,DEM,Jim Wood,375
+Del Norte,16,State Assembly,2,LIB,Ken Anton,337
+Del Norte,16,U.S. House,2,REP,Dale K. Mensing,415
+Del Norte,16,U.S. House,2,DEM,Jared W. Huffman,382
 Del Norte,16,U.S. Senate,,DEM,Kamala D. Harris,394
 Del Norte,16,U.S. Senate,,DEM,Loretta L. Sanchez,225
-Del Norte,17,President,,REP/AI,Donald J. Trump,418
+Del Norte,17,President,,REP,Donald J. Trump,418
 Del Norte,17,President,,LIB,Gary Johnson,50
-Del Norte,17,President,,PF,Gloria Estela La Riva,10
+Del Norte,17,President,,PAF,Gloria Estela La Riva,10
 Del Norte,17,President,,DEM,Hillary Clinton,323
 Del Norte,17,President,,GRN,Jill Stein,27
-Del Norte,17,President,,WI,Write-In,20
 Del Norte,17,Proposition 51,,,No,438
 Del Norte,17,Proposition 51,,,Yes,387
 Del Norte,17,Proposition 52,,,No,351
@@ -375,14 +757,17 @@ Del Norte,17,Proposition 66,,,No,327
 Del Norte,17,Proposition 66,,,Yes,480
 Del Norte,17,Proposition 67,,,No,491
 Del Norte,17,Proposition 67,,,Yes,345
+Del Norte,17,State Assembly,2,DEM,Jim Wood,430
+Del Norte,17,State Assembly,2,LIB,Ken Anton,311
+Del Norte,17,U.S. House,2,REP,Dale K. Mensing,367
+Del Norte,17,U.S. House,2,DEM,Jared W. Huffman,435
 Del Norte,17,U.S. Senate,,DEM,Kamala D. Harris,415
 Del Norte,17,U.S. Senate,,DEM,Loretta L. Sanchez,290
-Del Norte,18,President,,REP/AI,Donald J. Trump,155
+Del Norte,18,President,,REP,Donald J. Trump,155
 Del Norte,18,President,,LIB,Gary Johnson,10
-Del Norte,18,President,,PF,Gloria Estela La Riva,6
+Del Norte,18,President,,PAF,Gloria Estela La Riva,6
 Del Norte,18,President,,DEM,Hillary Clinton,168
 Del Norte,18,President,,GRN,Jill Stein,11
-Del Norte,18,President,,WI,Write-In,5
 Del Norte,18,Proposition 51,,,No,184
 Del Norte,18,Proposition 51,,,Yes,161
 Del Norte,18,Proposition 52,,,No,118
@@ -417,341 +802,9 @@ Del Norte,18,Proposition 66,,,No,148
 Del Norte,18,Proposition 66,,,Yes,192
 Del Norte,18,Proposition 67,,,No,195
 Del Norte,18,Proposition 67,,,Yes,158
+Del Norte,18,State Assembly,2,DEM,Jim Wood,205
+Del Norte,18,State Assembly,2,LIB,Ken Anton,112
+Del Norte,18,U.S. House,2,REP,Dale K. Mensing,124
+Del Norte,18,U.S. House,2,DEM,Jared W. Huffman,214
 Del Norte,18,U.S. Senate,,DEM,Kamala D. Harris,148
 Del Norte,18,U.S. Senate,,DEM,Loretta L. Sanchez,154
-Del Norte,2,President,,REP/AI,Donald J. Trump,212
-Del Norte,2,President,,LIB,Gary Johnson,20
-Del Norte,2,President,,PF,Gloria Estela La Riva,4
-Del Norte,2,President,,DEM,Hillary Clinton,162
-Del Norte,2,President,,GRN,Jill Stein,17
-Del Norte,2,President,,WI,Write-In,19
-Del Norte,2,Proposition 51,,,No,204
-Del Norte,2,Proposition 51,,,Yes,220
-Del Norte,2,Proposition 52,,,No,149
-Del Norte,2,Proposition 52,,,Yes,267
-Del Norte,2,Proposition 53,,,No,178
-Del Norte,2,Proposition 53,,,Yes,233
-Del Norte,2,Proposition 54,,,No,144
-Del Norte,2,Proposition 54,,,Yes,265
-Del Norte,2,Proposition 55,,,No,144
-Del Norte,2,Proposition 55,,,Yes,273
-Del Norte,2,Proposition 56,,,No,217
-Del Norte,2,Proposition 56,,,Yes,223
-Del Norte,2,Proposition 57,,,No,179
-Del Norte,2,Proposition 57,,,Yes,251
-Del Norte,2,Proposition 58,,,No,117
-Del Norte,2,Proposition 58,,,Yes,308
-Del Norte,2,Proposition 59,,,No,212
-Del Norte,2,Proposition 59,,,Yes,198
-Del Norte,2,Proposition 60,,,No,217
-Del Norte,2,Proposition 60,,,Yes,190
-Del Norte,2,Proposition 61,,,No,230
-Del Norte,2,Proposition 61,,,Yes,181
-Del Norte,2,Proposition 62,,,No,272
-Del Norte,2,Proposition 62,,,Yes,154
-Del Norte,2,Proposition 63,,,No,270
-Del Norte,2,Proposition 63,,,Yes,159
-Del Norte,2,Proposition 64,,,No,149
-Del Norte,2,Proposition 64,,,Yes,292
-Del Norte,2,Proposition 65,,,No,233
-Del Norte,2,Proposition 65,,,Yes,196
-Del Norte,2,Proposition 66,,,No,179
-Del Norte,2,Proposition 66,,,Yes,232
-Del Norte,2,Proposition 67,,,No,211
-Del Norte,2,Proposition 67,,,Yes,222
-Del Norte,2,U.S. Senate,,DEM,Kamala D. Harris,229
-Del Norte,2,U.S. Senate,,DEM,Loretta L. Sanchez,136
-Del Norte,3,President,,REP/AI,Donald J. Trump,197
-Del Norte,3,President,,LIB,Gary Johnson,20
-Del Norte,3,President,,PF,Gloria Estela La Riva,12
-Del Norte,3,President,,DEM,Hillary Clinton,187
-Del Norte,3,President,,GRN,Jill Stein,15
-Del Norte,3,President,,WI,Write-In,6
-Del Norte,3,Proposition 51,,,No,179
-Del Norte,3,Proposition 51,,,Yes,235
-Del Norte,3,Proposition 52,,,No,128
-Del Norte,3,Proposition 52,,,Yes,293
-Del Norte,3,Proposition 53,,,No,172
-Del Norte,3,Proposition 53,,,Yes,243
-Del Norte,3,Proposition 54,,,No,146
-Del Norte,3,Proposition 54,,,Yes,263
-Del Norte,3,Proposition 55,,,No,141
-Del Norte,3,Proposition 55,,,Yes,273
-Del Norte,3,Proposition 56,,,No,238
-Del Norte,3,Proposition 56,,,Yes,197
-Del Norte,3,Proposition 57,,,No,156
-Del Norte,3,Proposition 57,,,Yes,273
-Del Norte,3,Proposition 58,,,No,113
-Del Norte,3,Proposition 58,,,Yes,314
-Del Norte,3,Proposition 59,,,No,201
-Del Norte,3,Proposition 59,,,Yes,211
-Del Norte,3,Proposition 60,,,No,200
-Del Norte,3,Proposition 60,,,Yes,204
-Del Norte,3,Proposition 61,,,No,215
-Del Norte,3,Proposition 61,,,Yes,205
-Del Norte,3,Proposition 62,,,No,275
-Del Norte,3,Proposition 62,,,Yes,155
-Del Norte,3,Proposition 63,,,No,252
-Del Norte,3,Proposition 63,,,Yes,185
-Del Norte,3,Proposition 64,,,No,148
-Del Norte,3,Proposition 64,,,Yes,285
-Del Norte,3,Proposition 65,,,No,237
-Del Norte,3,Proposition 65,,,Yes,188
-Del Norte,3,Proposition 66,,,No,197
-Del Norte,3,Proposition 66,,,Yes,218
-Del Norte,3,Proposition 67,,,No,235
-Del Norte,3,Proposition 67,,,Yes,198
-Del Norte,3,U.S. Senate,,DEM,Kamala D. Harris,214
-Del Norte,3,U.S. Senate,,DEM,Loretta L. Sanchez,161
-Del Norte,4,President,,REP/AI,Donald J. Trump,115
-Del Norte,4,President,,LIB,Gary Johnson,17
-Del Norte,4,President,,PF,Gloria Estela La Riva,4
-Del Norte,4,President,,DEM,Hillary Clinton,137
-Del Norte,4,President,,GRN,Jill Stein,18
-Del Norte,4,President,,WI,Write-In,11
-Del Norte,4,Proposition 51,,,No,133
-Del Norte,4,Proposition 51,,,Yes,148
-Del Norte,4,Proposition 52,,,No,106
-Del Norte,4,Proposition 52,,,Yes,186
-Del Norte,4,Proposition 53,,,No,92
-Del Norte,4,Proposition 53,,,Yes,193
-Del Norte,4,Proposition 54,,,No,92
-Del Norte,4,Proposition 54,,,Yes,193
-Del Norte,4,Proposition 55,,,No,105
-Del Norte,4,Proposition 55,,,Yes,184
-Del Norte,4,Proposition 56,,,No,151
-Del Norte,4,Proposition 56,,,Yes,155
-Del Norte,4,Proposition 57,,,No,111
-Del Norte,4,Proposition 57,,,Yes,191
-Del Norte,4,Proposition 58,,,No,93
-Del Norte,4,Proposition 58,,,Yes,203
-Del Norte,4,Proposition 59,,,No,151
-Del Norte,4,Proposition 59,,,Yes,139
-Del Norte,4,Proposition 60,,,No,144
-Del Norte,4,Proposition 60,,,Yes,143
-Del Norte,4,Proposition 61,,,No,135
-Del Norte,4,Proposition 61,,,Yes,158
-Del Norte,4,Proposition 62,,,No,177
-Del Norte,4,Proposition 62,,,Yes,117
-Del Norte,4,Proposition 63,,,No,167
-Del Norte,4,Proposition 63,,,Yes,136
-Del Norte,4,Proposition 64,,,No,95
-Del Norte,4,Proposition 64,,,Yes,210
-Del Norte,4,Proposition 65,,,No,137
-Del Norte,4,Proposition 65,,,Yes,163
-Del Norte,4,Proposition 66,,,No,126
-Del Norte,4,Proposition 66,,,Yes,161
-Del Norte,4,Proposition 67,,,No,143
-Del Norte,4,Proposition 67,,,Yes,157
-Del Norte,4,U.S. Senate,,DEM,Kamala D. Harris,171
-Del Norte,4,U.S. Senate,,DEM,Loretta L. Sanchez,95
-Del Norte,5,President,,REP/AI,Donald J. Trump,142
-Del Norte,5,President,,LIB,Gary Johnson,18
-Del Norte,5,President,,PF,Gloria Estela La Riva,1
-Del Norte,5,President,,DEM,Hillary Clinton,158
-Del Norte,5,President,,GRN,Jill Stein,7
-Del Norte,5,President,,WI,Write-In,13
-Del Norte,5,Proposition 51,,,No,157
-Del Norte,5,Proposition 51,,,Yes,162
-Del Norte,5,Proposition 52,,,No,109
-Del Norte,5,Proposition 52,,,Yes,217
-Del Norte,5,Proposition 53,,,No,142
-Del Norte,5,Proposition 53,,,Yes,180
-Del Norte,5,Proposition 54,,,No,110
-Del Norte,5,Proposition 54,,,Yes,212
-Del Norte,5,Proposition 55,,,No,119
-Del Norte,5,Proposition 55,,,Yes,207
-Del Norte,5,Proposition 56,,,No,159
-Del Norte,5,Proposition 56,,,Yes,180
-Del Norte,5,Proposition 57,,,No,126
-Del Norte,5,Proposition 57,,,Yes,210
-Del Norte,5,Proposition 58,,,No,98
-Del Norte,5,Proposition 58,,,Yes,235
-Del Norte,5,Proposition 59,,,No,149
-Del Norte,5,Proposition 59,,,Yes,176
-Del Norte,5,Proposition 60,,,No,185
-Del Norte,5,Proposition 60,,,Yes,132
-Del Norte,5,Proposition 61,,,No,167
-Del Norte,5,Proposition 61,,,Yes,156
-Del Norte,5,Proposition 62,,,No,193
-Del Norte,5,Proposition 62,,,Yes,134
-Del Norte,5,Proposition 63,,,No,206
-Del Norte,5,Proposition 63,,,Yes,128
-Del Norte,5,Proposition 64,,,No,120
-Del Norte,5,Proposition 64,,,Yes,216
-Del Norte,5,Proposition 65,,,No,188
-Del Norte,5,Proposition 65,,,Yes,142
-Del Norte,5,Proposition 66,,,No,159
-Del Norte,5,Proposition 66,,,Yes,166
-Del Norte,5,Proposition 67,,,No,170
-Del Norte,5,Proposition 67,,,Yes,160
-Del Norte,5,U.S. Senate,,DEM,Kamala D. Harris,180
-Del Norte,5,U.S. Senate,,DEM,Loretta L. Sanchez,110
-Del Norte,6,President,,REP/AI,Donald J. Trump,165
-Del Norte,6,President,,LIB,Gary Johnson,16
-Del Norte,6,President,,PF,Gloria Estela La Riva,3
-Del Norte,6,President,,DEM,Hillary Clinton,142
-Del Norte,6,President,,GRN,Jill Stein,9
-Del Norte,6,President,,WI,Write-In,8
-Del Norte,6,Proposition 51,,,No,155
-Del Norte,6,Proposition 51,,,Yes,167
-Del Norte,6,Proposition 52,,,No,129
-Del Norte,6,Proposition 52,,,Yes,185
-Del Norte,6,Proposition 53,,,No,123
-Del Norte,6,Proposition 53,,,Yes,191
-Del Norte,6,Proposition 54,,,No,114
-Del Norte,6,Proposition 54,,,Yes,202
-Del Norte,6,Proposition 55,,,No,122
-Del Norte,6,Proposition 55,,,Yes,197
-Del Norte,6,Proposition 56,,,No,178
-Del Norte,6,Proposition 56,,,Yes,164
-Del Norte,6,Proposition 57,,,No,164
-Del Norte,6,Proposition 57,,,Yes,165
-Del Norte,6,Proposition 58,,,No,95
-Del Norte,6,Proposition 58,,,Yes,233
-Del Norte,6,Proposition 59,,,No,158
-Del Norte,6,Proposition 59,,,Yes,145
-Del Norte,6,Proposition 60,,,No,154
-Del Norte,6,Proposition 60,,,Yes,159
-Del Norte,6,Proposition 61,,,No,175
-Del Norte,6,Proposition 61,,,Yes,141
-Del Norte,6,Proposition 62,,,No,217
-Del Norte,6,Proposition 62,,,Yes,111
-Del Norte,6,Proposition 63,,,No,196
-Del Norte,6,Proposition 63,,,Yes,139
-Del Norte,6,Proposition 64,,,No,132
-Del Norte,6,Proposition 64,,,Yes,203
-Del Norte,6,Proposition 65,,,No,176
-Del Norte,6,Proposition 65,,,Yes,150
-Del Norte,6,Proposition 66,,,No,129
-Del Norte,6,Proposition 66,,,Yes,185
-Del Norte,6,Proposition 67,,,No,170
-Del Norte,6,Proposition 67,,,Yes,160
-Del Norte,6,U.S. Senate,,DEM,Kamala D. Harris,148
-Del Norte,6,U.S. Senate,,DEM,Loretta L. Sanchez,115
-Del Norte,7,President,,REP/AI,Donald J. Trump,352
-Del Norte,7,President,,LIB,Gary Johnson,28
-Del Norte,7,President,,PF,Gloria Estela La Riva,5
-Del Norte,7,President,,DEM,Hillary Clinton,226
-Del Norte,7,President,,GRN,Jill Stein,15
-Del Norte,7,President,,WI,Write-In,18
-Del Norte,7,Proposition 51,,,No,348
-Del Norte,7,Proposition 51,,,Yes,266
-Del Norte,7,Proposition 52,,,No,271
-Del Norte,7,Proposition 52,,,Yes,341
-Del Norte,7,Proposition 53,,,No,244
-Del Norte,7,Proposition 53,,,Yes,362
-Del Norte,7,Proposition 54,,,No,215
-Del Norte,7,Proposition 54,,,Yes,397
-Del Norte,7,Proposition 55,,,No,253
-Del Norte,7,Proposition 55,,,Yes,362
-Del Norte,7,Proposition 56,,,No,316
-Del Norte,7,Proposition 56,,,Yes,328
-Del Norte,7,Proposition 57,,,No,349
-Del Norte,7,Proposition 57,,,Yes,282
-Del Norte,7,Proposition 58,,,No,211
-Del Norte,7,Proposition 58,,,Yes,414
-Del Norte,7,Proposition 59,,,No,328
-Del Norte,7,Proposition 59,,,Yes,271
-Del Norte,7,Proposition 60,,,No,374
-Del Norte,7,Proposition 60,,,Yes,230
-Del Norte,7,Proposition 61,,,No,349
-Del Norte,7,Proposition 61,,,Yes,266
-Del Norte,7,Proposition 62,,,No,422
-Del Norte,7,Proposition 62,,,Yes,205
-Del Norte,7,Proposition 63,,,No,400
-Del Norte,7,Proposition 63,,,Yes,235
-Del Norte,7,Proposition 64,,,No,279
-Del Norte,7,Proposition 64,,,Yes,364
-Del Norte,7,Proposition 65,,,No,352
-Del Norte,7,Proposition 65,,,Yes,275
-Del Norte,7,Proposition 66,,,No,241
-Del Norte,7,Proposition 66,,,Yes,374
-Del Norte,7,Proposition 67,,,No,358
-Del Norte,7,Proposition 67,,,Yes,268
-Del Norte,7,U.S. Senate,,DEM,Kamala D. Harris,321
-Del Norte,7,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Del Norte,8,President,,REP/AI,Donald J. Trump,196
-Del Norte,8,President,,LIB,Gary Johnson,18
-Del Norte,8,President,,PF,Gloria Estela La Riva,4
-Del Norte,8,President,,DEM,Hillary Clinton,182
-Del Norte,8,President,,GRN,Jill Stein,7
-Del Norte,8,President,,WI,Write-In,7
-Del Norte,8,Proposition 51,,,No,211
-Del Norte,8,Proposition 51,,,Yes,151
-Del Norte,8,Proposition 52,,,No,138
-Del Norte,8,Proposition 52,,,Yes,245
-Del Norte,8,Proposition 53,,,No,143
-Del Norte,8,Proposition 53,,,Yes,234
-Del Norte,8,Proposition 54,,,No,116
-Del Norte,8,Proposition 54,,,Yes,262
-Del Norte,8,Proposition 55,,,No,165
-Del Norte,8,Proposition 55,,,Yes,230
-Del Norte,8,Proposition 56,,,No,185
-Del Norte,8,Proposition 56,,,Yes,222
-Del Norte,8,Proposition 57,,,No,193
-Del Norte,8,Proposition 57,,,Yes,197
-Del Norte,8,Proposition 58,,,No,132
-Del Norte,8,Proposition 58,,,Yes,269
-Del Norte,8,Proposition 59,,,No,212
-Del Norte,8,Proposition 59,,,Yes,167
-Del Norte,8,Proposition 60,,,No,198
-Del Norte,8,Proposition 60,,,Yes,168
-Del Norte,8,Proposition 61,,,No,198
-Del Norte,8,Proposition 61,,,Yes,192
-Del Norte,8,Proposition 62,,,No,270
-Del Norte,8,Proposition 62,,,Yes,125
-Del Norte,8,Proposition 63,,,No,247
-Del Norte,8,Proposition 63,,,Yes,153
-Del Norte,8,Proposition 64,,,No,165
-Del Norte,8,Proposition 64,,,Yes,231
-Del Norte,8,Proposition 65,,,No,203
-Del Norte,8,Proposition 65,,,Yes,187
-Del Norte,8,Proposition 66,,,No,147
-Del Norte,8,Proposition 66,,,Yes,219
-Del Norte,8,Proposition 67,,,No,231
-Del Norte,8,Proposition 67,,,Yes,157
-Del Norte,8,U.S. Senate,,DEM,Kamala D. Harris,176
-Del Norte,8,U.S. Senate,,DEM,Loretta L. Sanchez,136
-Del Norte,9,President,,REP/AI,Donald J. Trump,223
-Del Norte,9,President,,LIB,Gary Johnson,21
-Del Norte,9,President,,PF,Gloria Estela La Riva,0
-Del Norte,9,President,,DEM,Hillary Clinton,118
-Del Norte,9,President,,GRN,Jill Stein,3
-Del Norte,9,President,,WI,Write-In,4
-Del Norte,9,Proposition 51,,,No,191
-Del Norte,9,Proposition 51,,,Yes,144
-Del Norte,9,Proposition 52,,,No,163
-Del Norte,9,Proposition 52,,,Yes,189
-Del Norte,9,Proposition 53,,,No,161
-Del Norte,9,Proposition 53,,,Yes,187
-Del Norte,9,Proposition 54,,,No,114
-Del Norte,9,Proposition 54,,,Yes,239
-Del Norte,9,Proposition 55,,,No,168
-Del Norte,9,Proposition 55,,,Yes,192
-Del Norte,9,Proposition 56,,,No,169
-Del Norte,9,Proposition 56,,,Yes,197
-Del Norte,9,Proposition 57,,,No,207
-Del Norte,9,Proposition 57,,,Yes,153
-Del Norte,9,Proposition 58,,,No,140
-Del Norte,9,Proposition 58,,,Yes,218
-Del Norte,9,Proposition 59,,,No,188
-Del Norte,9,Proposition 59,,,Yes,144
-Del Norte,9,Proposition 60,,,No,194
-Del Norte,9,Proposition 60,,,Yes,149
-Del Norte,9,Proposition 61,,,No,194
-Del Norte,9,Proposition 61,,,Yes,153
-Del Norte,9,Proposition 62,,,No,255
-Del Norte,9,Proposition 62,,,Yes,98
-Del Norte,9,Proposition 63,,,No,264
-Del Norte,9,Proposition 63,,,Yes,101
-Del Norte,9,Proposition 64,,,No,162
-Del Norte,9,Proposition 64,,,Yes,204
-Del Norte,9,Proposition 65,,,No,211
-Del Norte,9,Proposition 65,,,Yes,145
-Del Norte,9,Proposition 66,,,No,131
-Del Norte,9,Proposition 66,,,Yes,213
-Del Norte,9,Proposition 67,,,No,245
-Del Norte,9,Proposition 67,,,Yes,115
-Del Norte,9,U.S. Senate,,DEM,Kamala D. Harris,161
-Del Norte,9,U.S. Senate,,DEM,Loretta L. Sanchez,120

@@ -1,52 +1,423 @@
 county,precinct,office,district,party,candidate,votes
-Plumas,1,President,,REP/AI,Donald J. Trump,172
-Plumas,1,President,,LIB,Gary Johnson,4
-Plumas,1,President,,PF,Gloria Estela La Riva,0
-Plumas,1,President,,DEM,Hillary Clinton,46
-Plumas,1,President,,GRN,Jill Stein,1
-Plumas,1,President,,WI,Write-In,5
-Plumas,1,Proposition 51,,,No,164
-Plumas,1,Proposition 51,,,Yes,56
-Plumas,1,Proposition 52,,,No,102
-Plumas,1,Proposition 52,,,Yes,112
-Plumas,1,Proposition 53,,,No,85
-Plumas,1,Proposition 53,,,Yes,138
-Plumas,1,Proposition 54,,,No,80
-Plumas,1,Proposition 54,,,Yes,142
-Plumas,1,Proposition 55,,,No,137
-Plumas,1,Proposition 55,,,Yes,88
-Plumas,1,Proposition 56,,,No,147
-Plumas,1,Proposition 56,,,Yes,79
-Plumas,1,Proposition 57,,,No,122
-Plumas,1,Proposition 57,,,Yes,104
-Plumas,1,Proposition 58,,,No,100
-Plumas,1,Proposition 58,,,Yes,122
-Plumas,1,Proposition 59,,,No,128
-Plumas,1,Proposition 59,,,Yes,88
-Plumas,1,Proposition 60,,,No,147
-Plumas,1,Proposition 60,,,Yes,67
-Plumas,1,Proposition 61,,,No,145
-Plumas,1,Proposition 61,,,Yes,77
-Plumas,1,Proposition 62,,,No,183
-Plumas,1,Proposition 62,,,Yes,38
-Plumas,1,Proposition 63,,,No,195
-Plumas,1,Proposition 63,,,Yes,31
-Plumas,1,Proposition 64,,,No,121
-Plumas,1,Proposition 64,,,Yes,103
-Plumas,1,Proposition 65,,,No,169
-Plumas,1,Proposition 65,,,Yes,55
-Plumas,1,Proposition 66,,,No,74
-Plumas,1,Proposition 66,,,Yes,139
-Plumas,1,Proposition 67,,,No,153
-Plumas,1,Proposition 67,,,Yes,60
-Plumas,1,U.S. Senate,,DEM,Kamala D. Harris,72
-Plumas,1,U.S. Senate,,DEM,Loretta L. Sanchez,64
-Plumas,10,President,,REP/AI,Donald J. Trump,150
+Plumas,01,President,,REP,Donald J. Trump,172
+Plumas,01,President,,LIB,Gary Johnson,4
+Plumas,01,President,,DEM,Hillary Clinton,46
+Plumas,01,President,,GRN,Jill Stein,1
+Plumas,01,Proposition 51,,,No,164
+Plumas,01,Proposition 51,,,Yes,56
+Plumas,01,Proposition 52,,,No,102
+Plumas,01,Proposition 52,,,Yes,112
+Plumas,01,Proposition 53,,,No,85
+Plumas,01,Proposition 53,,,Yes,138
+Plumas,01,Proposition 54,,,No,80
+Plumas,01,Proposition 54,,,Yes,142
+Plumas,01,Proposition 55,,,No,137
+Plumas,01,Proposition 55,,,Yes,88
+Plumas,01,Proposition 56,,,No,147
+Plumas,01,Proposition 56,,,Yes,79
+Plumas,01,Proposition 57,,,No,122
+Plumas,01,Proposition 57,,,Yes,104
+Plumas,01,Proposition 58,,,No,100
+Plumas,01,Proposition 58,,,Yes,122
+Plumas,01,Proposition 59,,,No,128
+Plumas,01,Proposition 59,,,Yes,88
+Plumas,01,Proposition 60,,,No,147
+Plumas,01,Proposition 60,,,Yes,67
+Plumas,01,Proposition 61,,,No,145
+Plumas,01,Proposition 61,,,Yes,77
+Plumas,01,Proposition 62,,,No,183
+Plumas,01,Proposition 62,,,Yes,38
+Plumas,01,Proposition 63,,,No,195
+Plumas,01,Proposition 63,,,Yes,31
+Plumas,01,Proposition 64,,,No,121
+Plumas,01,Proposition 64,,,Yes,103
+Plumas,01,Proposition 65,,,No,169
+Plumas,01,Proposition 65,,,Yes,55
+Plumas,01,Proposition 66,,,No,74
+Plumas,01,Proposition 66,,,Yes,139
+Plumas,01,Proposition 67,,,No,153
+Plumas,01,Proposition 67,,,Yes,60
+Plumas,01,State Assembly,1,REP,Brian Dahle,186
+Plumas,01,State Assembly,1,LIB,Donn Coenen,29
+Plumas,01,State Senate,1,DEM,Rob Rowen,42
+Plumas,01,State Senate,1,REP,Ted Gaines,176
+Plumas,01,U.S. House,1,REP,Doug La Malfa,173
+Plumas,01,U.S. House,1,DEM,Jim Reed,46
+Plumas,01,U.S. Senate,,DEM,Kamala D. Harris,72
+Plumas,01,U.S. Senate,,DEM,Loretta L. Sanchez,64
+Plumas,02,President,,REP,Donald J. Trump,232
+Plumas,02,President,,LIB,Gary Johnson,5
+Plumas,02,President,,DEM,Hillary Clinton,86
+Plumas,02,President,,GRN,Jill Stein,3
+Plumas,02,Proposition 51,,,No,233
+Plumas,02,Proposition 51,,,Yes,104
+Plumas,02,Proposition 52,,,No,142
+Plumas,02,Proposition 52,,,Yes,192
+Plumas,02,Proposition 53,,,No,129
+Plumas,02,Proposition 53,,,Yes,208
+Plumas,02,Proposition 54,,,No,101
+Plumas,02,Proposition 54,,,Yes,238
+Plumas,02,Proposition 55,,,No,194
+Plumas,02,Proposition 55,,,Yes,144
+Plumas,02,Proposition 56,,,No,201
+Plumas,02,Proposition 56,,,Yes,142
+Plumas,02,Proposition 57,,,No,178
+Plumas,02,Proposition 57,,,Yes,159
+Plumas,02,Proposition 58,,,No,141
+Plumas,02,Proposition 58,,,Yes,201
+Plumas,02,Proposition 59,,,No,209
+Plumas,02,Proposition 59,,,Yes,115
+Plumas,02,Proposition 60,,,No,208
+Plumas,02,Proposition 60,,,Yes,114
+Plumas,02,Proposition 61,,,No,212
+Plumas,02,Proposition 61,,,Yes,122
+Plumas,02,Proposition 62,,,No,251
+Plumas,02,Proposition 62,,,Yes,86
+Plumas,02,Proposition 63,,,No,260
+Plumas,02,Proposition 63,,,Yes,84
+Plumas,02,Proposition 64,,,No,172
+Plumas,02,Proposition 64,,,Yes,173
+Plumas,02,Proposition 65,,,No,214
+Plumas,02,Proposition 65,,,Yes,120
+Plumas,02,Proposition 66,,,No,143
+Plumas,02,Proposition 66,,,Yes,186
+Plumas,02,Proposition 67,,,No,229
+Plumas,02,Proposition 67,,,Yes,108
+Plumas,02,State Assembly,1,REP,Brian Dahle,260
+Plumas,02,State Assembly,1,LIB,Donn Coenen,60
+Plumas,02,State Senate,1,DEM,Rob Rowen,86
+Plumas,02,State Senate,1,REP,Ted Gaines,248
+Plumas,02,U.S. House,1,REP,Doug La Malfa,245
+Plumas,02,U.S. House,1,DEM,Jim Reed,88
+Plumas,02,U.S. Senate,,DEM,Kamala D. Harris,133
+Plumas,02,U.S. Senate,,DEM,Loretta L. Sanchez,88
+Plumas,03,President,,REP,Donald J. Trump,82
+Plumas,03,President,,LIB,Gary Johnson,9
+Plumas,03,President,,DEM,Hillary Clinton,65
+Plumas,03,President,,GRN,Jill Stein,3
+Plumas,03,Proposition 51,,,No,117
+Plumas,03,Proposition 51,,,Yes,46
+Plumas,03,Proposition 52,,,No,56
+Plumas,03,Proposition 52,,,Yes,110
+Plumas,03,Proposition 53,,,No,82
+Plumas,03,Proposition 53,,,Yes,78
+Plumas,03,Proposition 54,,,No,83
+Plumas,03,Proposition 54,,,Yes,78
+Plumas,03,Proposition 55,,,No,77
+Plumas,03,Proposition 55,,,Yes,89
+Plumas,03,Proposition 56,,,No,99
+Plumas,03,Proposition 56,,,Yes,69
+Plumas,03,Proposition 57,,,No,80
+Plumas,03,Proposition 57,,,Yes,87
+Plumas,03,Proposition 58,,,No,60
+Plumas,03,Proposition 58,,,Yes,105
+Plumas,03,Proposition 59,,,No,82
+Plumas,03,Proposition 59,,,Yes,75
+Plumas,03,Proposition 60,,,No,92
+Plumas,03,Proposition 60,,,Yes,61
+Plumas,03,Proposition 61,,,No,100
+Plumas,03,Proposition 61,,,Yes,61
+Plumas,03,Proposition 62,,,No,112
+Plumas,03,Proposition 62,,,Yes,53
+Plumas,03,Proposition 63,,,No,120
+Plumas,03,Proposition 63,,,Yes,48
+Plumas,03,Proposition 64,,,No,74
+Plumas,03,Proposition 64,,,Yes,94
+Plumas,03,Proposition 65,,,No,116
+Plumas,03,Proposition 65,,,Yes,51
+Plumas,03,Proposition 66,,,No,83
+Plumas,03,Proposition 66,,,Yes,74
+Plumas,03,Proposition 67,,,No,103
+Plumas,03,Proposition 67,,,Yes,60
+Plumas,03,State Assembly,1,REP,Brian Dahle,122
+Plumas,03,State Assembly,1,LIB,Donn Coenen,27
+Plumas,03,State Senate,1,DEM,Rob Rowen,57
+Plumas,03,State Senate,1,REP,Ted Gaines,106
+Plumas,03,U.S. House,1,REP,Doug La Malfa,99
+Plumas,03,U.S. House,1,DEM,Jim Reed,65
+Plumas,03,U.S. Senate,,DEM,Kamala D. Harris,86
+Plumas,03,U.S. Senate,,DEM,Loretta L. Sanchez,27
+Plumas,04,President,,REP,Donald J. Trump,20
+Plumas,04,President,,LIB,Gary Johnson,1
+Plumas,04,President,,DEM,Hillary Clinton,5
+Plumas,04,Proposition 51,,,No,22
+Plumas,04,Proposition 51,,,Yes,4
+Plumas,04,Proposition 52,,,No,14
+Plumas,04,Proposition 52,,,Yes,13
+Plumas,04,Proposition 53,,,No,15
+Plumas,04,Proposition 53,,,Yes,12
+Plumas,04,Proposition 54,,,No,13
+Plumas,04,Proposition 54,,,Yes,14
+Plumas,04,Proposition 55,,,No,13
+Plumas,04,Proposition 55,,,Yes,13
+Plumas,04,Proposition 56,,,No,13
+Plumas,04,Proposition 56,,,Yes,14
+Plumas,04,Proposition 57,,,No,13
+Plumas,04,Proposition 57,,,Yes,13
+Plumas,04,Proposition 58,,,No,11
+Plumas,04,Proposition 58,,,Yes,16
+Plumas,04,Proposition 59,,,No,15
+Plumas,04,Proposition 59,,,Yes,9
+Plumas,04,Proposition 60,,,No,12
+Plumas,04,Proposition 60,,,Yes,11
+Plumas,04,Proposition 61,,,No,20
+Plumas,04,Proposition 61,,,Yes,6
+Plumas,04,Proposition 62,,,No,22
+Plumas,04,Proposition 62,,,Yes,5
+Plumas,04,Proposition 63,,,No,17
+Plumas,04,Proposition 63,,,Yes,10
+Plumas,04,Proposition 64,,,No,11
+Plumas,04,Proposition 64,,,Yes,16
+Plumas,04,Proposition 65,,,No,21
+Plumas,04,Proposition 65,,,Yes,5
+Plumas,04,Proposition 66,,,No,14
+Plumas,04,Proposition 66,,,Yes,12
+Plumas,04,Proposition 67,,,No,16
+Plumas,04,Proposition 67,,,Yes,10
+Plumas,04,State Assembly,1,REP,Brian Dahle,23
+Plumas,04,State Assembly,1,LIB,Donn Coenen,3
+Plumas,04,State Senate,1,DEM,Rob Rowen,4
+Plumas,04,State Senate,1,REP,Ted Gaines,22
+Plumas,04,U.S. House,1,REP,Doug La Malfa,23
+Plumas,04,U.S. House,1,DEM,Jim Reed,4
+Plumas,04,U.S. Senate,,DEM,Kamala D. Harris,10
+Plumas,04,U.S. Senate,,DEM,Loretta L. Sanchez,5
+Plumas,05,President,,REP,Donald J. Trump,76
+Plumas,05,President,,LIB,Gary Johnson,9
+Plumas,05,President,,PAF,Gloria Estela La Riva,1
+Plumas,05,President,,DEM,Hillary Clinton,75
+Plumas,05,President,,GRN,Jill Stein,4
+Plumas,05,Proposition 51,,,No,115
+Plumas,05,Proposition 51,,,Yes,61
+Plumas,05,Proposition 52,,,No,56
+Plumas,05,Proposition 52,,,Yes,109
+Plumas,05,Proposition 53,,,No,91
+Plumas,05,Proposition 53,,,Yes,80
+Plumas,05,Proposition 54,,,No,74
+Plumas,05,Proposition 54,,,Yes,95
+Plumas,05,Proposition 55,,,No,76
+Plumas,05,Proposition 55,,,Yes,99
+Plumas,05,Proposition 56,,,No,83
+Plumas,05,Proposition 56,,,Yes,94
+Plumas,05,Proposition 57,,,No,80
+Plumas,05,Proposition 57,,,Yes,92
+Plumas,05,Proposition 58,,,No,56
+Plumas,05,Proposition 58,,,Yes,116
+Plumas,05,Proposition 59,,,No,73
+Plumas,05,Proposition 59,,,Yes,88
+Plumas,05,Proposition 60,,,No,121
+Plumas,05,Proposition 60,,,Yes,44
+Plumas,05,Proposition 61,,,No,114
+Plumas,05,Proposition 61,,,Yes,60
+Plumas,05,Proposition 62,,,No,111
+Plumas,05,Proposition 62,,,Yes,60
+Plumas,05,Proposition 63,,,No,109
+Plumas,05,Proposition 63,,,Yes,65
+Plumas,05,Proposition 64,,,No,91
+Plumas,05,Proposition 64,,,Yes,86
+Plumas,05,Proposition 65,,,No,108
+Plumas,05,Proposition 65,,,Yes,63
+Plumas,05,Proposition 66,,,No,76
+Plumas,05,Proposition 66,,,Yes,90
+Plumas,05,Proposition 67,,,No,92
+Plumas,05,Proposition 67,,,Yes,80
+Plumas,05,State Assembly,1,REP,Brian Dahle,112
+Plumas,05,State Assembly,1,LIB,Donn Coenen,50
+Plumas,05,State Senate,1,DEM,Rob Rowen,77
+Plumas,05,State Senate,1,REP,Ted Gaines,90
+Plumas,05,U.S. House,1,REP,Doug La Malfa,87
+Plumas,05,U.S. House,1,DEM,Jim Reed,79
+Plumas,05,U.S. Senate,,DEM,Kamala D. Harris,84
+Plumas,05,U.S. Senate,,DEM,Loretta L. Sanchez,54
+Plumas,06,President,,REP,Donald J. Trump,14
+Plumas,06,President,,LIB,Gary Johnson,3
+Plumas,06,President,,DEM,Hillary Clinton,42
+Plumas,06,President,,GRN,Jill Stein,1
+Plumas,06,Proposition 51,,,No,28
+Plumas,06,Proposition 51,,,Yes,35
+Plumas,06,Proposition 52,,,No,17
+Plumas,06,Proposition 52,,,Yes,43
+Plumas,06,Proposition 53,,,No,34
+Plumas,06,Proposition 53,,,Yes,24
+Plumas,06,Proposition 54,,,No,22
+Plumas,06,Proposition 54,,,Yes,38
+Plumas,06,Proposition 55,,,No,19
+Plumas,06,Proposition 55,,,Yes,41
+Plumas,06,Proposition 56,,,No,24
+Plumas,06,Proposition 56,,,Yes,38
+Plumas,06,Proposition 57,,,No,18
+Plumas,06,Proposition 57,,,Yes,45
+Plumas,06,Proposition 58,,,No,15
+Plumas,06,Proposition 58,,,Yes,46
+Plumas,06,Proposition 59,,,No,26
+Plumas,06,Proposition 59,,,Yes,31
+Plumas,06,Proposition 60,,,No,32
+Plumas,06,Proposition 60,,,Yes,26
+Plumas,06,Proposition 61,,,No,28
+Plumas,06,Proposition 61,,,Yes,30
+Plumas,06,Proposition 62,,,No,25
+Plumas,06,Proposition 62,,,Yes,37
+Plumas,06,Proposition 63,,,No,24
+Plumas,06,Proposition 63,,,Yes,38
+Plumas,06,Proposition 64,,,No,17
+Plumas,06,Proposition 64,,,Yes,45
+Plumas,06,Proposition 65,,,No,35
+Plumas,06,Proposition 65,,,Yes,26
+Plumas,06,Proposition 66,,,No,42
+Plumas,06,Proposition 66,,,Yes,15
+Plumas,06,Proposition 67,,,No,21
+Plumas,06,Proposition 67,,,Yes,40
+Plumas,06,State Assembly,1,REP,Brian Dahle,28
+Plumas,06,State Assembly,1,LIB,Donn Coenen,28
+Plumas,06,State Senate,1,DEM,Rob Rowen,42
+Plumas,06,State Senate,1,REP,Ted Gaines,20
+Plumas,06,U.S. House,1,REP,Doug La Malfa,20
+Plumas,06,U.S. House,1,DEM,Jim Reed,43
+Plumas,06,U.S. Senate,,DEM,Kamala D. Harris,40
+Plumas,06,U.S. Senate,,DEM,Loretta L. Sanchez,12
+Plumas,07,President,,REP,Donald J. Trump,25
+Plumas,07,President,,LIB,Gary Johnson,6
+Plumas,07,President,,DEM,Hillary Clinton,41
+Plumas,07,President,,GRN,Jill Stein,5
+Plumas,07,Proposition 51,,,No,38
+Plumas,07,Proposition 51,,,Yes,41
+Plumas,07,Proposition 52,,,No,21
+Plumas,07,Proposition 52,,,Yes,57
+Plumas,07,Proposition 53,,,No,38
+Plumas,07,Proposition 53,,,Yes,39
+Plumas,07,Proposition 54,,,No,29
+Plumas,07,Proposition 54,,,Yes,48
+Plumas,07,Proposition 55,,,No,22
+Plumas,07,Proposition 55,,,Yes,56
+Plumas,07,Proposition 56,,,No,39
+Plumas,07,Proposition 56,,,Yes,40
+Plumas,07,Proposition 57,,,No,22
+Plumas,07,Proposition 57,,,Yes,56
+Plumas,07,Proposition 58,,,No,20
+Plumas,07,Proposition 58,,,Yes,59
+Plumas,07,Proposition 59,,,No,30
+Plumas,07,Proposition 59,,,Yes,47
+Plumas,07,Proposition 60,,,No,44
+Plumas,07,Proposition 60,,,Yes,30
+Plumas,07,Proposition 61,,,No,38
+Plumas,07,Proposition 61,,,Yes,40
+Plumas,07,Proposition 62,,,No,44
+Plumas,07,Proposition 62,,,Yes,36
+Plumas,07,Proposition 63,,,No,48
+Plumas,07,Proposition 63,,,Yes,31
+Plumas,07,Proposition 64,,,No,17
+Plumas,07,Proposition 64,,,Yes,64
+Plumas,07,Proposition 65,,,No,43
+Plumas,07,Proposition 65,,,Yes,35
+Plumas,07,Proposition 66,,,No,38
+Plumas,07,Proposition 66,,,Yes,35
+Plumas,07,Proposition 67,,,No,40
+Plumas,07,Proposition 67,,,Yes,39
+Plumas,07,State Assembly,1,REP,Brian Dahle,36
+Plumas,07,State Assembly,1,LIB,Donn Coenen,34
+Plumas,07,State Senate,1,DEM,Rob Rowen,44
+Plumas,07,State Senate,1,REP,Ted Gaines,33
+Plumas,07,U.S. House,1,REP,Doug La Malfa,31
+Plumas,07,U.S. House,1,DEM,Jim Reed,46
+Plumas,07,U.S. Senate,,DEM,Kamala D. Harris,41
+Plumas,07,U.S. Senate,,DEM,Loretta L. Sanchez,24
+Plumas,08,President,,REP,Donald J. Trump,21
+Plumas,08,President,,PAF,Gloria Estela La Riva,2
+Plumas,08,President,,DEM,Hillary Clinton,17
+Plumas,08,President,,GRN,Jill Stein,6
+Plumas,08,Proposition 51,,,No,28
+Plumas,08,Proposition 51,,,Yes,13
+Plumas,08,Proposition 52,,,No,15
+Plumas,08,Proposition 52,,,Yes,26
+Plumas,08,Proposition 53,,,No,15
+Plumas,08,Proposition 53,,,Yes,25
+Plumas,08,Proposition 54,,,No,10
+Plumas,08,Proposition 54,,,Yes,28
+Plumas,08,Proposition 55,,,No,11
+Plumas,08,Proposition 55,,,Yes,31
+Plumas,08,Proposition 56,,,No,29
+Plumas,08,Proposition 56,,,Yes,15
+Plumas,08,Proposition 57,,,No,11
+Plumas,08,Proposition 57,,,Yes,29
+Plumas,08,Proposition 58,,,No,11
+Plumas,08,Proposition 58,,,Yes,28
+Plumas,08,Proposition 59,,,No,10
+Plumas,08,Proposition 59,,,Yes,27
+Plumas,08,Proposition 60,,,No,19
+Plumas,08,Proposition 60,,,Yes,19
+Plumas,08,Proposition 61,,,No,19
+Plumas,08,Proposition 61,,,Yes,20
+Plumas,08,Proposition 62,,,No,21
+Plumas,08,Proposition 62,,,Yes,20
+Plumas,08,Proposition 63,,,No,25
+Plumas,08,Proposition 63,,,Yes,16
+Plumas,08,Proposition 64,,,No,15
+Plumas,08,Proposition 64,,,Yes,27
+Plumas,08,Proposition 65,,,No,26
+Plumas,08,Proposition 65,,,Yes,15
+Plumas,08,Proposition 66,,,No,21
+Plumas,08,Proposition 66,,,Yes,19
+Plumas,08,Proposition 67,,,No,18
+Plumas,08,Proposition 67,,,Yes,23
+Plumas,08,State Assembly,1,REP,Brian Dahle,25
+Plumas,08,State Assembly,1,LIB,Donn Coenen,14
+Plumas,08,State Senate,1,DEM,Rob Rowen,22
+Plumas,08,State Senate,1,REP,Ted Gaines,21
+Plumas,08,U.S. House,1,REP,Doug La Malfa,22
+Plumas,08,U.S. House,1,DEM,Jim Reed,22
+Plumas,08,U.S. Senate,,DEM,Kamala D. Harris,18
+Plumas,08,U.S. Senate,,DEM,Loretta L. Sanchez,12
+Plumas,09,President,,REP,Donald J. Trump,16
+Plumas,09,President,,PAF,Gloria Estela La Riva,1
+Plumas,09,President,,DEM,Hillary Clinton,4
+Plumas,09,President,,GRN,Jill Stein,1
+Plumas,09,Proposition 51,,,No,15
+Plumas,09,Proposition 51,,,Yes,6
+Plumas,09,Proposition 52,,,No,11
+Plumas,09,Proposition 52,,,Yes,10
+Plumas,09,Proposition 53,,,No,7
+Plumas,09,Proposition 53,,,Yes,14
+Plumas,09,Proposition 54,,,No,8
+Plumas,09,Proposition 54,,,Yes,12
+Plumas,09,Proposition 55,,,No,12
+Plumas,09,Proposition 55,,,Yes,8
+Plumas,09,Proposition 56,,,No,12
+Plumas,09,Proposition 56,,,Yes,9
+Plumas,09,Proposition 57,,,No,14
+Plumas,09,Proposition 57,,,Yes,7
+Plumas,09,Proposition 58,,,No,7
+Plumas,09,Proposition 58,,,Yes,14
+Plumas,09,Proposition 59,,,No,16
+Plumas,09,Proposition 59,,,Yes,5
+Plumas,09,Proposition 60,,,No,9
+Plumas,09,Proposition 60,,,Yes,10
+Plumas,09,Proposition 61,,,No,14
+Plumas,09,Proposition 61,,,Yes,6
+Plumas,09,Proposition 62,,,No,16
+Plumas,09,Proposition 62,,,Yes,5
+Plumas,09,Proposition 63,,,No,16
+Plumas,09,Proposition 63,,,Yes,5
+Plumas,09,Proposition 64,,,No,11
+Plumas,09,Proposition 64,,,Yes,10
+Plumas,09,Proposition 65,,,No,12
+Plumas,09,Proposition 65,,,Yes,9
+Plumas,09,Proposition 66,,,No,7
+Plumas,09,Proposition 66,,,Yes,11
+Plumas,09,Proposition 67,,,No,15
+Plumas,09,Proposition 67,,,Yes,6
+Plumas,09,State Assembly,1,REP,Brian Dahle,18
+Plumas,09,State Assembly,1,LIB,Donn Coenen,3
+Plumas,09,State Senate,1,DEM,Rob Rowen,3
+Plumas,09,State Senate,1,REP,Ted Gaines,18
+Plumas,09,U.S. House,1,REP,Doug La Malfa,16
+Plumas,09,U.S. House,1,DEM,Jim Reed,5
+Plumas,09,U.S. Senate,,DEM,Kamala D. Harris,7
+Plumas,09,U.S. Senate,,DEM,Loretta L. Sanchez,8
+Plumas,10,President,,REP,Donald J. Trump,150
 Plumas,10,President,,LIB,Gary Johnson,20
-Plumas,10,President,,PF,Gloria Estela La Riva,1
+Plumas,10,President,,PAF,Gloria Estela La Riva,1
 Plumas,10,President,,DEM,Hillary Clinton,135
 Plumas,10,President,,GRN,Jill Stein,9
-Plumas,10,President,,WI,Write-In,6
 Plumas,10,Proposition 51,,,No,146
 Plumas,10,Proposition 51,,,Yes,159
 Plumas,10,Proposition 52,,,No,86
@@ -81,14 +452,19 @@ Plumas,10,Proposition 66,,,No,122
 Plumas,10,Proposition 66,,,Yes,170
 Plumas,10,Proposition 67,,,No,185
 Plumas,10,Proposition 67,,,Yes,125
+Plumas,10,State Assembly,1,REP,Brian Dahle,192
+Plumas,10,State Assembly,1,LIB,Donn Coenen,90
+Plumas,10,State Senate,1,DEM,Rob Rowen,148
+Plumas,10,State Senate,1,REP,Ted Gaines,155
+Plumas,10,U.S. House,1,REP,Doug La Malfa,158
+Plumas,10,U.S. House,1,DEM,Jim Reed,149
 Plumas,10,U.S. Senate,,DEM,Kamala D. Harris,151
 Plumas,10,U.S. Senate,,DEM,Loretta L. Sanchez,100
-Plumas,11,President,,REP/AI,Donald J. Trump,260
+Plumas,11,President,,REP,Donald J. Trump,260
 Plumas,11,President,,LIB,Gary Johnson,18
-Plumas,11,President,,PF,Gloria Estela La Riva,2
+Plumas,11,President,,PAF,Gloria Estela La Riva,2
 Plumas,11,President,,DEM,Hillary Clinton,159
 Plumas,11,President,,GRN,Jill Stein,9
-Plumas,11,President,,WI,Write-In,17
 Plumas,11,Proposition 51,,,No,266
 Plumas,11,Proposition 51,,,Yes,170
 Plumas,11,Proposition 52,,,No,184
@@ -123,14 +499,19 @@ Plumas,11,Proposition 66,,,No,191
 Plumas,11,Proposition 66,,,Yes,236
 Plumas,11,Proposition 67,,,No,262
 Plumas,11,Proposition 67,,,Yes,188
+Plumas,11,State Assembly,1,REP,Brian Dahle,300
+Plumas,11,State Assembly,1,LIB,Donn Coenen,100
+Plumas,11,State Senate,1,DEM,Rob Rowen,166
+Plumas,11,State Senate,1,REP,Ted Gaines,267
+Plumas,11,U.S. House,1,REP,Doug La Malfa,260
+Plumas,11,U.S. House,1,DEM,Jim Reed,174
 Plumas,11,U.S. Senate,,DEM,Kamala D. Harris,237
 Plumas,11,U.S. Senate,,DEM,Loretta L. Sanchez,107
-Plumas,12,President,,REP/AI,Donald J. Trump,253
+Plumas,12,President,,REP,Donald J. Trump,253
 Plumas,12,President,,LIB,Gary Johnson,15
-Plumas,12,President,,PF,Gloria Estela La Riva,1
+Plumas,12,President,,PAF,Gloria Estela La Riva,1
 Plumas,12,President,,DEM,Hillary Clinton,105
 Plumas,12,President,,GRN,Jill Stein,5
-Plumas,12,President,,WI,Write-In,6
 Plumas,12,Proposition 51,,,No,242
 Plumas,12,Proposition 51,,,Yes,124
 Plumas,12,Proposition 52,,,No,136
@@ -165,14 +546,19 @@ Plumas,12,Proposition 66,,,No,157
 Plumas,12,Proposition 66,,,Yes,205
 Plumas,12,Proposition 67,,,No,238
 Plumas,12,Proposition 67,,,Yes,131
+Plumas,12,State Assembly,1,REP,Brian Dahle,276
+Plumas,12,State Assembly,1,LIB,Donn Coenen,78
+Plumas,12,State Senate,1,DEM,Rob Rowen,112
+Plumas,12,State Senate,1,REP,Ted Gaines,252
+Plumas,12,U.S. House,1,REP,Doug La Malfa,247
+Plumas,12,U.S. House,1,DEM,Jim Reed,117
 Plumas,12,U.S. Senate,,DEM,Kamala D. Harris,155
 Plumas,12,U.S. Senate,,DEM,Loretta L. Sanchez,100
-Plumas,13,President,,REP/AI,Donald J. Trump,412
+Plumas,13,President,,REP,Donald J. Trump,412
 Plumas,13,President,,LIB,Gary Johnson,24
-Plumas,13,President,,PF,Gloria Estela La Riva,1
+Plumas,13,President,,PAF,Gloria Estela La Riva,1
 Plumas,13,President,,DEM,Hillary Clinton,277
 Plumas,13,President,,GRN,Jill Stein,5
-Plumas,13,President,,WI,Write-In,16
 Plumas,13,Proposition 51,,,No,442
 Plumas,13,Proposition 51,,,Yes,282
 Plumas,13,Proposition 52,,,No,224
@@ -207,14 +593,18 @@ Plumas,13,Proposition 66,,,No,262
 Plumas,13,Proposition 66,,,Yes,410
 Plumas,13,Proposition 67,,,No,444
 Plumas,13,Proposition 67,,,Yes,281
+Plumas,13,State Assembly,1,REP,Brian Dahle,526
+Plumas,13,State Assembly,1,LIB,Donn Coenen,135
+Plumas,13,State Senate,1,DEM,Rob Rowen,239
+Plumas,13,State Senate,1,REP,Ted Gaines,471
+Plumas,13,U.S. House,1,REP,Doug La Malfa,462
+Plumas,13,U.S. House,1,DEM,Jim Reed,253
 Plumas,13,U.S. Senate,,DEM,Kamala D. Harris,357
 Plumas,13,U.S. Senate,,DEM,Loretta L. Sanchez,139
-Plumas,14,President,,REP/AI,Donald J. Trump,410
+Plumas,14,President,,REP,Donald J. Trump,410
 Plumas,14,President,,LIB,Gary Johnson,21
-Plumas,14,President,,PF,Gloria Estela La Riva,0
 Plumas,14,President,,DEM,Hillary Clinton,257
 Plumas,14,President,,GRN,Jill Stein,15
-Plumas,14,President,,WI,Write-In,29
 Plumas,14,Proposition 51,,,No,468
 Plumas,14,Proposition 51,,,Yes,257
 Plumas,14,Proposition 52,,,No,287
@@ -249,14 +639,19 @@ Plumas,14,Proposition 66,,,No,297
 Plumas,14,Proposition 66,,,Yes,394
 Plumas,14,Proposition 67,,,No,436
 Plumas,14,Proposition 67,,,Yes,284
+Plumas,14,State Assembly,1,REP,Brian Dahle,506
+Plumas,14,State Assembly,1,LIB,Donn Coenen,148
+Plumas,14,State Senate,1,DEM,Rob Rowen,234
+Plumas,14,State Senate,1,REP,Ted Gaines,474
+Plumas,14,U.S. House,1,REP,Doug La Malfa,474
+Plumas,14,U.S. House,1,DEM,Jim Reed,244
 Plumas,14,U.S. Senate,,DEM,Kamala D. Harris,338
 Plumas,14,U.S. Senate,,DEM,Loretta L. Sanchez,167
-Plumas,15,President,,REP/AI,Donald J. Trump,146
+Plumas,15,President,,REP,Donald J. Trump,146
 Plumas,15,President,,LIB,Gary Johnson,19
-Plumas,15,President,,PF,Gloria Estela La Riva,2
+Plumas,15,President,,PAF,Gloria Estela La Riva,2
 Plumas,15,President,,DEM,Hillary Clinton,117
 Plumas,15,President,,GRN,Jill Stein,8
-Plumas,15,President,,WI,Write-In,25
 Plumas,15,Proposition 51,,,No,196
 Plumas,15,Proposition 51,,,Yes,119
 Plumas,15,Proposition 52,,,No,122
@@ -291,14 +686,19 @@ Plumas,15,Proposition 66,,,No,149
 Plumas,15,Proposition 66,,,Yes,146
 Plumas,15,Proposition 67,,,No,173
 Plumas,15,Proposition 67,,,Yes,144
+Plumas,15,State Assembly,1,REP,Brian Dahle,212
+Plumas,15,State Assembly,1,LIB,Donn Coenen,71
+Plumas,15,State Senate,1,DEM,Rob Rowen,123
+Plumas,15,State Senate,1,REP,Ted Gaines,188
+Plumas,15,U.S. House,1,REP,Doug La Malfa,183
+Plumas,15,U.S. House,1,DEM,Jim Reed,132
 Plumas,15,U.S. Senate,,DEM,Kamala D. Harris,160
 Plumas,15,U.S. Senate,,DEM,Loretta L. Sanchez,69
-Plumas,16,President,,REP/AI,Donald J. Trump,253
+Plumas,16,President,,REP,Donald J. Trump,253
 Plumas,16,President,,LIB,Gary Johnson,29
-Plumas,16,President,,PF,Gloria Estela La Riva,2
+Plumas,16,President,,PAF,Gloria Estela La Riva,2
 Plumas,16,President,,DEM,Hillary Clinton,156
 Plumas,16,President,,GRN,Jill Stein,11
-Plumas,16,President,,WI,Write-In,17
 Plumas,16,Proposition 51,,,No,302
 Plumas,16,Proposition 51,,,Yes,160
 Plumas,16,Proposition 52,,,No,185
@@ -333,14 +733,19 @@ Plumas,16,Proposition 66,,,No,191
 Plumas,16,Proposition 66,,,Yes,260
 Plumas,16,Proposition 67,,,No,261
 Plumas,16,Proposition 67,,,Yes,195
+Plumas,16,State Assembly,1,REP,Brian Dahle,321
+Plumas,16,State Assembly,1,LIB,Donn Coenen,100
+Plumas,16,State Senate,1,DEM,Rob Rowen,160
+Plumas,16,State Senate,1,REP,Ted Gaines,286
+Plumas,16,U.S. House,1,REP,Doug La Malfa,288
+Plumas,16,U.S. House,1,DEM,Jim Reed,165
 Plumas,16,U.S. Senate,,DEM,Kamala D. Harris,251
 Plumas,16,U.S. Senate,,DEM,Loretta L. Sanchez,109
-Plumas,17,President,,REP/AI,Donald J. Trump,336
+Plumas,17,President,,REP,Donald J. Trump,336
 Plumas,17,President,,LIB,Gary Johnson,41
-Plumas,17,President,,PF,Gloria Estela La Riva,2
+Plumas,17,President,,PAF,Gloria Estela La Riva,2
 Plumas,17,President,,DEM,Hillary Clinton,241
 Plumas,17,President,,GRN,Jill Stein,16
-Plumas,17,President,,WI,Write-In,29
 Plumas,17,Proposition 51,,,No,393
 Plumas,17,Proposition 51,,,Yes,252
 Plumas,17,Proposition 52,,,No,242
@@ -375,14 +780,19 @@ Plumas,17,Proposition 66,,,No,284
 Plumas,17,Proposition 66,,,Yes,320
 Plumas,17,Proposition 67,,,No,397
 Plumas,17,Proposition 67,,,Yes,248
+Plumas,17,State Assembly,1,REP,Brian Dahle,461
+Plumas,17,State Assembly,1,LIB,Donn Coenen,132
+Plumas,17,State Senate,1,DEM,Rob Rowen,227
+Plumas,17,State Senate,1,REP,Ted Gaines,406
+Plumas,17,U.S. House,1,REP,Doug La Malfa,384
+Plumas,17,U.S. House,1,DEM,Jim Reed,256
 Plumas,17,U.S. Senate,,DEM,Kamala D. Harris,332
 Plumas,17,U.S. Senate,,DEM,Loretta L. Sanchez,159
-Plumas,18,President,,REP/AI,Donald J. Trump,201
+Plumas,18,President,,REP,Donald J. Trump,201
 Plumas,18,President,,LIB,Gary Johnson,14
-Plumas,18,President,,PF,Gloria Estela La Riva,2
+Plumas,18,President,,PAF,Gloria Estela La Riva,2
 Plumas,18,President,,DEM,Hillary Clinton,155
 Plumas,18,President,,GRN,Jill Stein,7
-Plumas,18,President,,WI,Write-In,21
 Plumas,18,Proposition 51,,,No,272
 Plumas,18,Proposition 51,,,Yes,115
 Plumas,18,Proposition 52,,,No,152
@@ -417,14 +827,18 @@ Plumas,18,Proposition 66,,,No,175
 Plumas,18,Proposition 66,,,Yes,193
 Plumas,18,Proposition 67,,,No,239
 Plumas,18,Proposition 67,,,Yes,155
+Plumas,18,State Assembly,1,REP,Brian Dahle,273
+Plumas,18,State Assembly,1,LIB,Donn Coenen,81
+Plumas,18,State Senate,1,DEM,Rob Rowen,145
+Plumas,18,State Senate,1,REP,Ted Gaines,244
+Plumas,18,U.S. House,1,REP,Doug La Malfa,232
+Plumas,18,U.S. House,1,DEM,Jim Reed,157
 Plumas,18,U.S. Senate,,DEM,Kamala D. Harris,194
 Plumas,18,U.S. Senate,,DEM,Loretta L. Sanchez,93
-Plumas,19,President,,REP/AI,Donald J. Trump,123
+Plumas,19,President,,REP,Donald J. Trump,123
 Plumas,19,President,,LIB,Gary Johnson,13
-Plumas,19,President,,PF,Gloria Estela La Riva,0
 Plumas,19,President,,DEM,Hillary Clinton,121
 Plumas,19,President,,GRN,Jill Stein,8
-Plumas,19,President,,WI,Write-In,14
 Plumas,19,Proposition 51,,,No,162
 Plumas,19,Proposition 51,,,Yes,108
 Plumas,19,Proposition 52,,,No,99
@@ -459,56 +873,19 @@ Plumas,19,Proposition 66,,,No,115
 Plumas,19,Proposition 66,,,Yes,148
 Plumas,19,Proposition 67,,,No,134
 Plumas,19,Proposition 67,,,Yes,138
+Plumas,19,State Assembly,1,REP,Brian Dahle,190
+Plumas,19,State Assembly,1,LIB,Donn Coenen,43
+Plumas,19,State Senate,1,DEM,Rob Rowen,115
+Plumas,19,State Senate,1,REP,Ted Gaines,149
+Plumas,19,U.S. House,1,REP,Doug La Malfa,143
+Plumas,19,U.S. House,1,DEM,Jim Reed,125
 Plumas,19,U.S. Senate,,DEM,Kamala D. Harris,145
 Plumas,19,U.S. Senate,,DEM,Loretta L. Sanchez,53
-Plumas,2,President,,REP/AI,Donald J. Trump,232
-Plumas,2,President,,LIB,Gary Johnson,5
-Plumas,2,President,,PF,Gloria Estela La Riva,0
-Plumas,2,President,,DEM,Hillary Clinton,86
-Plumas,2,President,,GRN,Jill Stein,3
-Plumas,2,President,,WI,Write-In,12
-Plumas,2,Proposition 51,,,No,233
-Plumas,2,Proposition 51,,,Yes,104
-Plumas,2,Proposition 52,,,No,142
-Plumas,2,Proposition 52,,,Yes,192
-Plumas,2,Proposition 53,,,No,129
-Plumas,2,Proposition 53,,,Yes,208
-Plumas,2,Proposition 54,,,No,101
-Plumas,2,Proposition 54,,,Yes,238
-Plumas,2,Proposition 55,,,No,194
-Plumas,2,Proposition 55,,,Yes,144
-Plumas,2,Proposition 56,,,No,201
-Plumas,2,Proposition 56,,,Yes,142
-Plumas,2,Proposition 57,,,No,178
-Plumas,2,Proposition 57,,,Yes,159
-Plumas,2,Proposition 58,,,No,141
-Plumas,2,Proposition 58,,,Yes,201
-Plumas,2,Proposition 59,,,No,209
-Plumas,2,Proposition 59,,,Yes,115
-Plumas,2,Proposition 60,,,No,208
-Plumas,2,Proposition 60,,,Yes,114
-Plumas,2,Proposition 61,,,No,212
-Plumas,2,Proposition 61,,,Yes,122
-Plumas,2,Proposition 62,,,No,251
-Plumas,2,Proposition 62,,,Yes,86
-Plumas,2,Proposition 63,,,No,260
-Plumas,2,Proposition 63,,,Yes,84
-Plumas,2,Proposition 64,,,No,172
-Plumas,2,Proposition 64,,,Yes,173
-Plumas,2,Proposition 65,,,No,214
-Plumas,2,Proposition 65,,,Yes,120
-Plumas,2,Proposition 66,,,No,143
-Plumas,2,Proposition 66,,,Yes,186
-Plumas,2,Proposition 67,,,No,229
-Plumas,2,Proposition 67,,,Yes,108
-Plumas,2,U.S. Senate,,DEM,Kamala D. Harris,133
-Plumas,2,U.S. Senate,,DEM,Loretta L. Sanchez,88
-Plumas,20,President,,REP/AI,Donald J. Trump,143
+Plumas,20,President,,REP,Donald J. Trump,143
 Plumas,20,President,,LIB,Gary Johnson,24
-Plumas,20,President,,PF,Gloria Estela La Riva,1
+Plumas,20,President,,PAF,Gloria Estela La Riva,1
 Plumas,20,President,,DEM,Hillary Clinton,186
 Plumas,20,President,,GRN,Jill Stein,15
-Plumas,20,President,,WI,Write-In,17
 Plumas,20,Proposition 51,,,No,192
 Plumas,20,Proposition 51,,,Yes,189
 Plumas,20,Proposition 52,,,No,120
@@ -543,14 +920,19 @@ Plumas,20,Proposition 66,,,No,187
 Plumas,20,Proposition 66,,,Yes,165
 Plumas,20,Proposition 67,,,No,172
 Plumas,20,Proposition 67,,,Yes,204
+Plumas,20,State Assembly,1,REP,Brian Dahle,223
+Plumas,20,State Assembly,1,LIB,Donn Coenen,104
+Plumas,20,State Senate,1,DEM,Rob Rowen,184
+Plumas,20,State Senate,1,REP,Ted Gaines,174
+Plumas,20,U.S. House,1,REP,Doug La Malfa,168
+Plumas,20,U.S. House,1,DEM,Jim Reed,195
 Plumas,20,U.S. Senate,,DEM,Kamala D. Harris,185
 Plumas,20,U.S. Senate,,DEM,Loretta L. Sanchez,98
-Plumas,21,President,,REP/AI,Donald J. Trump,137
+Plumas,21,President,,REP,Donald J. Trump,137
 Plumas,21,President,,LIB,Gary Johnson,9
-Plumas,21,President,,PF,Gloria Estela La Riva,2
+Plumas,21,President,,PAF,Gloria Estela La Riva,2
 Plumas,21,President,,DEM,Hillary Clinton,203
 Plumas,21,President,,GRN,Jill Stein,12
-Plumas,21,President,,WI,Write-In,12
 Plumas,21,Proposition 51,,,No,187
 Plumas,21,Proposition 51,,,Yes,183
 Plumas,21,Proposition 52,,,No,119
@@ -585,14 +967,18 @@ Plumas,21,Proposition 66,,,No,201
 Plumas,21,Proposition 66,,,Yes,151
 Plumas,21,Proposition 67,,,No,170
 Plumas,21,Proposition 67,,,Yes,199
+Plumas,21,State Assembly,1,REP,Brian Dahle,210
+Plumas,21,State Assembly,1,LIB,Donn Coenen,106
+Plumas,21,State Senate,1,DEM,Rob Rowen,195
+Plumas,21,State Senate,1,REP,Ted Gaines,171
+Plumas,21,U.S. House,1,REP,Doug La Malfa,170
+Plumas,21,U.S. House,1,DEM,Jim Reed,203
 Plumas,21,U.S. Senate,,DEM,Kamala D. Harris,208
 Plumas,21,U.S. Senate,,DEM,Loretta L. Sanchez,103
-Plumas,22,President,,REP/AI,Donald J. Trump,87
+Plumas,22,President,,REP,Donald J. Trump,87
 Plumas,22,President,,LIB,Gary Johnson,6
-Plumas,22,President,,PF,Gloria Estela La Riva,0
 Plumas,22,President,,DEM,Hillary Clinton,51
 Plumas,22,President,,GRN,Jill Stein,1
-Plumas,22,President,,WI,Write-In,4
 Plumas,22,Proposition 51,,,No,87
 Plumas,22,Proposition 51,,,Yes,59
 Plumas,22,Proposition 52,,,No,51
@@ -627,14 +1013,18 @@ Plumas,22,Proposition 66,,,No,72
 Plumas,22,Proposition 66,,,Yes,68
 Plumas,22,Proposition 67,,,No,79
 Plumas,22,Proposition 67,,,Yes,64
+Plumas,22,State Assembly,1,REP,Brian Dahle,101
+Plumas,22,State Assembly,1,LIB,Donn Coenen,31
+Plumas,22,State Senate,1,DEM,Rob Rowen,59
+Plumas,22,State Senate,1,REP,Ted Gaines,85
+Plumas,22,U.S. House,1,REP,Doug La Malfa,86
+Plumas,22,U.S. House,1,DEM,Jim Reed,57
 Plumas,22,U.S. Senate,,DEM,Kamala D. Harris,68
 Plumas,22,U.S. Senate,,DEM,Loretta L. Sanchez,32
-Plumas,23,President,,REP/AI,Donald J. Trump,214
+Plumas,23,President,,REP,Donald J. Trump,214
 Plumas,23,President,,LIB,Gary Johnson,15
-Plumas,23,President,,PF,Gloria Estela La Riva,0
 Plumas,23,President,,DEM,Hillary Clinton,152
 Plumas,23,President,,GRN,Jill Stein,7
-Plumas,23,President,,WI,Write-In,8
 Plumas,23,Proposition 51,,,No,225
 Plumas,23,Proposition 51,,,Yes,153
 Plumas,23,Proposition 52,,,No,120
@@ -669,14 +1059,18 @@ Plumas,23,Proposition 66,,,No,157
 Plumas,23,Proposition 66,,,Yes,197
 Plumas,23,Proposition 67,,,No,212
 Plumas,23,Proposition 67,,,Yes,171
+Plumas,23,State Assembly,1,REP,Brian Dahle,281
+Plumas,23,State Assembly,1,LIB,Donn Coenen,79
+Plumas,23,State Senate,1,DEM,Rob Rowen,153
+Plumas,23,State Senate,1,REP,Ted Gaines,223
+Plumas,23,U.S. House,1,REP,Doug La Malfa,223
+Plumas,23,U.S. House,1,DEM,Jim Reed,157
 Plumas,23,U.S. Senate,,DEM,Kamala D. Harris,185
 Plumas,23,U.S. Senate,,DEM,Loretta L. Sanchez,114
-Plumas,24,President,,REP/AI,Donald J. Trump,61
+Plumas,24,President,,REP,Donald J. Trump,61
 Plumas,24,President,,LIB,Gary Johnson,12
-Plumas,24,President,,PF,Gloria Estela La Riva,0
 Plumas,24,President,,DEM,Hillary Clinton,51
 Plumas,24,President,,GRN,Jill Stein,3
-Plumas,24,President,,WI,Write-In,13
 Plumas,24,Proposition 51,,,No,91
 Plumas,24,Proposition 51,,,Yes,53
 Plumas,24,Proposition 52,,,No,50
@@ -711,14 +1105,19 @@ Plumas,24,Proposition 66,,,No,72
 Plumas,24,Proposition 66,,,Yes,65
 Plumas,24,Proposition 67,,,No,83
 Plumas,24,Proposition 67,,,Yes,58
+Plumas,24,State Assembly,1,REP,Brian Dahle,88
+Plumas,24,State Assembly,1,LIB,Donn Coenen,50
+Plumas,24,State Senate,1,DEM,Rob Rowen,64
+Plumas,24,State Senate,1,REP,Ted Gaines,74
+Plumas,24,U.S. House,1,REP,Doug La Malfa,75
+Plumas,24,U.S. House,1,DEM,Jim Reed,66
 Plumas,24,U.S. Senate,,DEM,Kamala D. Harris,77
 Plumas,24,U.S. Senate,,DEM,Loretta L. Sanchez,39
-Plumas,25,President,,REP/AI,Donald J. Trump,262
+Plumas,25,President,,REP,Donald J. Trump,262
 Plumas,25,President,,LIB,Gary Johnson,30
-Plumas,25,President,,PF,Gloria Estela La Riva,6
+Plumas,25,President,,PAF,Gloria Estela La Riva,6
 Plumas,25,President,,DEM,Hillary Clinton,177
 Plumas,25,President,,GRN,Jill Stein,15
-Plumas,25,President,,WI,Write-In,14
 Plumas,25,Proposition 51,,,No,304
 Plumas,25,Proposition 51,,,Yes,196
 Plumas,25,Proposition 52,,,No,185
@@ -753,14 +1152,18 @@ Plumas,25,Proposition 66,,,No,214
 Plumas,25,Proposition 66,,,Yes,255
 Plumas,25,Proposition 67,,,No,301
 Plumas,25,Proposition 67,,,Yes,197
+Plumas,25,State Assembly,1,REP,Brian Dahle,329
+Plumas,25,State Assembly,1,LIB,Donn Coenen,122
+Plumas,25,State Senate,1,DEM,Rob Rowen,201
+Plumas,25,State Senate,1,REP,Ted Gaines,278
+Plumas,25,U.S. House,1,REP,Doug La Malfa,292
+Plumas,25,U.S. House,1,DEM,Jim Reed,202
 Plumas,25,U.S. Senate,,DEM,Kamala D. Harris,248
 Plumas,25,U.S. Senate,,DEM,Loretta L. Sanchez,123
-Plumas,26,President,,REP/AI,Donald J. Trump,235
+Plumas,26,President,,REP,Donald J. Trump,235
 Plumas,26,President,,LIB,Gary Johnson,5
-Plumas,26,President,,PF,Gloria Estela La Riva,0
 Plumas,26,President,,DEM,Hillary Clinton,103
 Plumas,26,President,,GRN,Jill Stein,3
-Plumas,26,President,,WI,Write-In,7
 Plumas,26,Proposition 51,,,No,236
 Plumas,26,Proposition 51,,,Yes,109
 Plumas,26,Proposition 52,,,No,162
@@ -795,14 +1198,19 @@ Plumas,26,Proposition 66,,,No,139
 Plumas,26,Proposition 66,,,Yes,185
 Plumas,26,Proposition 67,,,No,227
 Plumas,26,Proposition 67,,,Yes,122
+Plumas,26,State Assembly,1,REP,Brian Dahle,269
+Plumas,26,State Assembly,1,LIB,Donn Coenen,65
+Plumas,26,State Senate,1,DEM,Rob Rowen,95
+Plumas,26,State Senate,1,REP,Ted Gaines,253
+Plumas,26,U.S. House,1,REP,Doug La Malfa,252
+Plumas,26,U.S. House,1,DEM,Jim Reed,98
 Plumas,26,U.S. Senate,,DEM,Kamala D. Harris,150
 Plumas,26,U.S. Senate,,DEM,Loretta L. Sanchez,93
-Plumas,27,President,,REP/AI,Donald J. Trump,372
+Plumas,27,President,,REP,Donald J. Trump,372
 Plumas,27,President,,LIB,Gary Johnson,15
-Plumas,27,President,,PF,Gloria Estela La Riva,1
+Plumas,27,President,,PAF,Gloria Estela La Riva,1
 Plumas,27,President,,DEM,Hillary Clinton,148
 Plumas,27,President,,GRN,Jill Stein,5
-Plumas,27,President,,WI,Write-In,18
 Plumas,27,Proposition 51,,,No,336
 Plumas,27,Proposition 51,,,Yes,204
 Plumas,27,Proposition 52,,,No,201
@@ -837,14 +1245,19 @@ Plumas,27,Proposition 66,,,No,189
 Plumas,27,Proposition 66,,,Yes,330
 Plumas,27,Proposition 67,,,No,355
 Plumas,27,Proposition 67,,,Yes,196
+Plumas,27,State Assembly,1,REP,Brian Dahle,429
+Plumas,27,State Assembly,1,LIB,Donn Coenen,91
+Plumas,27,State Senate,1,DEM,Rob Rowen,141
+Plumas,27,State Senate,1,REP,Ted Gaines,390
+Plumas,27,U.S. House,1,REP,Doug La Malfa,383
+Plumas,27,U.S. House,1,DEM,Jim Reed,160
 Plumas,27,U.S. Senate,,DEM,Kamala D. Harris,230
 Plumas,27,U.S. Senate,,DEM,Loretta L. Sanchez,140
-Plumas,28,President,,REP/AI,Donald J. Trump,369
+Plumas,28,President,,REP,Donald J. Trump,369
 Plumas,28,President,,LIB,Gary Johnson,23
-Plumas,28,President,,PF,Gloria Estela La Riva,1
+Plumas,28,President,,PAF,Gloria Estela La Riva,1
 Plumas,28,President,,DEM,Hillary Clinton,151
 Plumas,28,President,,GRN,Jill Stein,6
-Plumas,28,President,,WI,Write-In,18
 Plumas,28,Proposition 51,,,No,358
 Plumas,28,Proposition 51,,,Yes,201
 Plumas,28,Proposition 52,,,No,242
@@ -879,14 +1292,19 @@ Plumas,28,Proposition 66,,,No,211
 Plumas,28,Proposition 66,,,Yes,323
 Plumas,28,Proposition 67,,,No,368
 Plumas,28,Proposition 67,,,Yes,191
+Plumas,28,State Assembly,1,REP,Brian Dahle,416
+Plumas,28,State Assembly,1,LIB,Donn Coenen,113
+Plumas,28,State Senate,1,DEM,Rob Rowen,163
+Plumas,28,State Senate,1,REP,Ted Gaines,391
+Plumas,28,U.S. House,1,REP,Doug La Malfa,385
+Plumas,28,U.S. House,1,DEM,Jim Reed,177
 Plumas,28,U.S. Senate,,DEM,Kamala D. Harris,218
 Plumas,28,U.S. Senate,,DEM,Loretta L. Sanchez,171
-Plumas,29,President,,REP/AI,Donald J. Trump,338
+Plumas,29,President,,REP,Donald J. Trump,338
 Plumas,29,President,,LIB,Gary Johnson,21
-Plumas,29,President,,PF,Gloria Estela La Riva,1
+Plumas,29,President,,PAF,Gloria Estela La Riva,1
 Plumas,29,President,,DEM,Hillary Clinton,133
 Plumas,29,President,,GRN,Jill Stein,2
-Plumas,29,President,,WI,Write-In,8
 Plumas,29,Proposition 51,,,No,328
 Plumas,29,Proposition 51,,,Yes,163
 Plumas,29,Proposition 52,,,No,193
@@ -921,299 +1339,11 @@ Plumas,29,Proposition 66,,,No,176
 Plumas,29,Proposition 66,,,Yes,287
 Plumas,29,Proposition 67,,,No,318
 Plumas,29,Proposition 67,,,Yes,172
+Plumas,29,State Assembly,1,REP,Brian Dahle,395
+Plumas,29,State Assembly,1,LIB,Donn Coenen,78
+Plumas,29,State Senate,1,DEM,Rob Rowen,129
+Plumas,29,State Senate,1,REP,Ted Gaines,360
+Plumas,29,U.S. House,1,REP,Doug La Malfa,357
+Plumas,29,U.S. House,1,DEM,Jim Reed,138
 Plumas,29,U.S. Senate,,DEM,Kamala D. Harris,226
 Plumas,29,U.S. Senate,,DEM,Loretta L. Sanchez,115
-Plumas,3,President,,REP/AI,Donald J. Trump,82
-Plumas,3,President,,LIB,Gary Johnson,9
-Plumas,3,President,,PF,Gloria Estela La Riva,0
-Plumas,3,President,,DEM,Hillary Clinton,65
-Plumas,3,President,,GRN,Jill Stein,3
-Plumas,3,President,,WI,Write-In,7
-Plumas,3,Proposition 51,,,No,117
-Plumas,3,Proposition 51,,,Yes,46
-Plumas,3,Proposition 52,,,No,56
-Plumas,3,Proposition 52,,,Yes,110
-Plumas,3,Proposition 53,,,No,82
-Plumas,3,Proposition 53,,,Yes,78
-Plumas,3,Proposition 54,,,No,83
-Plumas,3,Proposition 54,,,Yes,78
-Plumas,3,Proposition 55,,,No,77
-Plumas,3,Proposition 55,,,Yes,89
-Plumas,3,Proposition 56,,,No,99
-Plumas,3,Proposition 56,,,Yes,69
-Plumas,3,Proposition 57,,,No,80
-Plumas,3,Proposition 57,,,Yes,87
-Plumas,3,Proposition 58,,,No,60
-Plumas,3,Proposition 58,,,Yes,105
-Plumas,3,Proposition 59,,,No,82
-Plumas,3,Proposition 59,,,Yes,75
-Plumas,3,Proposition 60,,,No,92
-Plumas,3,Proposition 60,,,Yes,61
-Plumas,3,Proposition 61,,,No,100
-Plumas,3,Proposition 61,,,Yes,61
-Plumas,3,Proposition 62,,,No,112
-Plumas,3,Proposition 62,,,Yes,53
-Plumas,3,Proposition 63,,,No,120
-Plumas,3,Proposition 63,,,Yes,48
-Plumas,3,Proposition 64,,,No,74
-Plumas,3,Proposition 64,,,Yes,94
-Plumas,3,Proposition 65,,,No,116
-Plumas,3,Proposition 65,,,Yes,51
-Plumas,3,Proposition 66,,,No,83
-Plumas,3,Proposition 66,,,Yes,74
-Plumas,3,Proposition 67,,,No,103
-Plumas,3,Proposition 67,,,Yes,60
-Plumas,3,U.S. Senate,,DEM,Kamala D. Harris,86
-Plumas,3,U.S. Senate,,DEM,Loretta L. Sanchez,27
-Plumas,4,President,,REP/AI,Donald J. Trump,20
-Plumas,4,President,,LIB,Gary Johnson,1
-Plumas,4,President,,PF,Gloria Estela La Riva,0
-Plumas,4,President,,DEM,Hillary Clinton,5
-Plumas,4,President,,GRN,Jill Stein,0
-Plumas,4,President,,WI,Write-In,0
-Plumas,4,Proposition 51,,,No,22
-Plumas,4,Proposition 51,,,Yes,4
-Plumas,4,Proposition 52,,,No,14
-Plumas,4,Proposition 52,,,Yes,13
-Plumas,4,Proposition 53,,,No,15
-Plumas,4,Proposition 53,,,Yes,12
-Plumas,4,Proposition 54,,,No,13
-Plumas,4,Proposition 54,,,Yes,14
-Plumas,4,Proposition 55,,,No,13
-Plumas,4,Proposition 55,,,Yes,13
-Plumas,4,Proposition 56,,,No,13
-Plumas,4,Proposition 56,,,Yes,14
-Plumas,4,Proposition 57,,,No,13
-Plumas,4,Proposition 57,,,Yes,13
-Plumas,4,Proposition 58,,,No,11
-Plumas,4,Proposition 58,,,Yes,16
-Plumas,4,Proposition 59,,,No,15
-Plumas,4,Proposition 59,,,Yes,9
-Plumas,4,Proposition 60,,,No,12
-Plumas,4,Proposition 60,,,Yes,11
-Plumas,4,Proposition 61,,,No,20
-Plumas,4,Proposition 61,,,Yes,6
-Plumas,4,Proposition 62,,,No,22
-Plumas,4,Proposition 62,,,Yes,5
-Plumas,4,Proposition 63,,,No,17
-Plumas,4,Proposition 63,,,Yes,10
-Plumas,4,Proposition 64,,,No,11
-Plumas,4,Proposition 64,,,Yes,16
-Plumas,4,Proposition 65,,,No,21
-Plumas,4,Proposition 65,,,Yes,5
-Plumas,4,Proposition 66,,,No,14
-Plumas,4,Proposition 66,,,Yes,12
-Plumas,4,Proposition 67,,,No,16
-Plumas,4,Proposition 67,,,Yes,10
-Plumas,4,U.S. Senate,,DEM,Kamala D. Harris,10
-Plumas,4,U.S. Senate,,DEM,Loretta L. Sanchez,5
-Plumas,5,President,,REP/AI,Donald J. Trump,76
-Plumas,5,President,,LIB,Gary Johnson,9
-Plumas,5,President,,PF,Gloria Estela La Riva,1
-Plumas,5,President,,DEM,Hillary Clinton,75
-Plumas,5,President,,GRN,Jill Stein,4
-Plumas,5,President,,WI,Write-In,12
-Plumas,5,Proposition 51,,,No,115
-Plumas,5,Proposition 51,,,Yes,61
-Plumas,5,Proposition 52,,,No,56
-Plumas,5,Proposition 52,,,Yes,109
-Plumas,5,Proposition 53,,,No,91
-Plumas,5,Proposition 53,,,Yes,80
-Plumas,5,Proposition 54,,,No,74
-Plumas,5,Proposition 54,,,Yes,95
-Plumas,5,Proposition 55,,,No,76
-Plumas,5,Proposition 55,,,Yes,99
-Plumas,5,Proposition 56,,,No,83
-Plumas,5,Proposition 56,,,Yes,94
-Plumas,5,Proposition 57,,,No,80
-Plumas,5,Proposition 57,,,Yes,92
-Plumas,5,Proposition 58,,,No,56
-Plumas,5,Proposition 58,,,Yes,116
-Plumas,5,Proposition 59,,,No,73
-Plumas,5,Proposition 59,,,Yes,88
-Plumas,5,Proposition 60,,,No,121
-Plumas,5,Proposition 60,,,Yes,44
-Plumas,5,Proposition 61,,,No,114
-Plumas,5,Proposition 61,,,Yes,60
-Plumas,5,Proposition 62,,,No,111
-Plumas,5,Proposition 62,,,Yes,60
-Plumas,5,Proposition 63,,,No,109
-Plumas,5,Proposition 63,,,Yes,65
-Plumas,5,Proposition 64,,,No,91
-Plumas,5,Proposition 64,,,Yes,86
-Plumas,5,Proposition 65,,,No,108
-Plumas,5,Proposition 65,,,Yes,63
-Plumas,5,Proposition 66,,,No,76
-Plumas,5,Proposition 66,,,Yes,90
-Plumas,5,Proposition 67,,,No,92
-Plumas,5,Proposition 67,,,Yes,80
-Plumas,5,U.S. Senate,,DEM,Kamala D. Harris,84
-Plumas,5,U.S. Senate,,DEM,Loretta L. Sanchez,54
-Plumas,6,President,,REP/AI,Donald J. Trump,14
-Plumas,6,President,,LIB,Gary Johnson,3
-Plumas,6,President,,PF,Gloria Estela La Riva,0
-Plumas,6,President,,DEM,Hillary Clinton,42
-Plumas,6,President,,GRN,Jill Stein,1
-Plumas,6,President,,WI,Write-In,4
-Plumas,6,Proposition 51,,,No,28
-Plumas,6,Proposition 51,,,Yes,35
-Plumas,6,Proposition 52,,,No,17
-Plumas,6,Proposition 52,,,Yes,43
-Plumas,6,Proposition 53,,,No,34
-Plumas,6,Proposition 53,,,Yes,24
-Plumas,6,Proposition 54,,,No,22
-Plumas,6,Proposition 54,,,Yes,38
-Plumas,6,Proposition 55,,,No,19
-Plumas,6,Proposition 55,,,Yes,41
-Plumas,6,Proposition 56,,,No,24
-Plumas,6,Proposition 56,,,Yes,38
-Plumas,6,Proposition 57,,,No,18
-Plumas,6,Proposition 57,,,Yes,45
-Plumas,6,Proposition 58,,,No,15
-Plumas,6,Proposition 58,,,Yes,46
-Plumas,6,Proposition 59,,,No,26
-Plumas,6,Proposition 59,,,Yes,31
-Plumas,6,Proposition 60,,,No,32
-Plumas,6,Proposition 60,,,Yes,26
-Plumas,6,Proposition 61,,,No,28
-Plumas,6,Proposition 61,,,Yes,30
-Plumas,6,Proposition 62,,,No,25
-Plumas,6,Proposition 62,,,Yes,37
-Plumas,6,Proposition 63,,,No,24
-Plumas,6,Proposition 63,,,Yes,38
-Plumas,6,Proposition 64,,,No,17
-Plumas,6,Proposition 64,,,Yes,45
-Plumas,6,Proposition 65,,,No,35
-Plumas,6,Proposition 65,,,Yes,26
-Plumas,6,Proposition 66,,,No,42
-Plumas,6,Proposition 66,,,Yes,15
-Plumas,6,Proposition 67,,,No,21
-Plumas,6,Proposition 67,,,Yes,40
-Plumas,6,U.S. Senate,,DEM,Kamala D. Harris,40
-Plumas,6,U.S. Senate,,DEM,Loretta L. Sanchez,12
-Plumas,7,President,,REP/AI,Donald J. Trump,25
-Plumas,7,President,,LIB,Gary Johnson,6
-Plumas,7,President,,PF,Gloria Estela La Riva,0
-Plumas,7,President,,DEM,Hillary Clinton,41
-Plumas,7,President,,GRN,Jill Stein,5
-Plumas,7,President,,WI,Write-In,5
-Plumas,7,Proposition 51,,,No,38
-Plumas,7,Proposition 51,,,Yes,41
-Plumas,7,Proposition 52,,,No,21
-Plumas,7,Proposition 52,,,Yes,57
-Plumas,7,Proposition 53,,,No,38
-Plumas,7,Proposition 53,,,Yes,39
-Plumas,7,Proposition 54,,,No,29
-Plumas,7,Proposition 54,,,Yes,48
-Plumas,7,Proposition 55,,,No,22
-Plumas,7,Proposition 55,,,Yes,56
-Plumas,7,Proposition 56,,,No,39
-Plumas,7,Proposition 56,,,Yes,40
-Plumas,7,Proposition 57,,,No,22
-Plumas,7,Proposition 57,,,Yes,56
-Plumas,7,Proposition 58,,,No,20
-Plumas,7,Proposition 58,,,Yes,59
-Plumas,7,Proposition 59,,,No,30
-Plumas,7,Proposition 59,,,Yes,47
-Plumas,7,Proposition 60,,,No,44
-Plumas,7,Proposition 60,,,Yes,30
-Plumas,7,Proposition 61,,,No,38
-Plumas,7,Proposition 61,,,Yes,40
-Plumas,7,Proposition 62,,,No,44
-Plumas,7,Proposition 62,,,Yes,36
-Plumas,7,Proposition 63,,,No,48
-Plumas,7,Proposition 63,,,Yes,31
-Plumas,7,Proposition 64,,,No,17
-Plumas,7,Proposition 64,,,Yes,64
-Plumas,7,Proposition 65,,,No,43
-Plumas,7,Proposition 65,,,Yes,35
-Plumas,7,Proposition 66,,,No,38
-Plumas,7,Proposition 66,,,Yes,35
-Plumas,7,Proposition 67,,,No,40
-Plumas,7,Proposition 67,,,Yes,39
-Plumas,7,U.S. Senate,,DEM,Kamala D. Harris,41
-Plumas,7,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Plumas,8,President,,REP/AI,Donald J. Trump,21
-Plumas,8,President,,LIB,Gary Johnson,0
-Plumas,8,President,,PF,Gloria Estela La Riva,2
-Plumas,8,President,,DEM,Hillary Clinton,17
-Plumas,8,President,,GRN,Jill Stein,6
-Plumas,8,President,,WI,Write-In,1
-Plumas,8,Proposition 51,,,No,28
-Plumas,8,Proposition 51,,,Yes,13
-Plumas,8,Proposition 52,,,No,15
-Plumas,8,Proposition 52,,,Yes,26
-Plumas,8,Proposition 53,,,No,15
-Plumas,8,Proposition 53,,,Yes,25
-Plumas,8,Proposition 54,,,No,10
-Plumas,8,Proposition 54,,,Yes,28
-Plumas,8,Proposition 55,,,No,11
-Plumas,8,Proposition 55,,,Yes,31
-Plumas,8,Proposition 56,,,No,29
-Plumas,8,Proposition 56,,,Yes,15
-Plumas,8,Proposition 57,,,No,11
-Plumas,8,Proposition 57,,,Yes,29
-Plumas,8,Proposition 58,,,No,11
-Plumas,8,Proposition 58,,,Yes,28
-Plumas,8,Proposition 59,,,No,10
-Plumas,8,Proposition 59,,,Yes,27
-Plumas,8,Proposition 60,,,No,19
-Plumas,8,Proposition 60,,,Yes,19
-Plumas,8,Proposition 61,,,No,19
-Plumas,8,Proposition 61,,,Yes,20
-Plumas,8,Proposition 62,,,No,21
-Plumas,8,Proposition 62,,,Yes,20
-Plumas,8,Proposition 63,,,No,25
-Plumas,8,Proposition 63,,,Yes,16
-Plumas,8,Proposition 64,,,No,15
-Plumas,8,Proposition 64,,,Yes,27
-Plumas,8,Proposition 65,,,No,26
-Plumas,8,Proposition 65,,,Yes,15
-Plumas,8,Proposition 66,,,No,21
-Plumas,8,Proposition 66,,,Yes,19
-Plumas,8,Proposition 67,,,No,18
-Plumas,8,Proposition 67,,,Yes,23
-Plumas,8,U.S. Senate,,DEM,Kamala D. Harris,18
-Plumas,8,U.S. Senate,,DEM,Loretta L. Sanchez,12
-Plumas,9,President,,REP/AI,Donald J. Trump,16
-Plumas,9,President,,LIB,Gary Johnson,0
-Plumas,9,President,,PF,Gloria Estela La Riva,1
-Plumas,9,President,,DEM,Hillary Clinton,4
-Plumas,9,President,,GRN,Jill Stein,1
-Plumas,9,President,,WI,Write-In,0
-Plumas,9,Proposition 51,,,No,15
-Plumas,9,Proposition 51,,,Yes,6
-Plumas,9,Proposition 52,,,No,11
-Plumas,9,Proposition 52,,,Yes,10
-Plumas,9,Proposition 53,,,No,7
-Plumas,9,Proposition 53,,,Yes,14
-Plumas,9,Proposition 54,,,No,8
-Plumas,9,Proposition 54,,,Yes,12
-Plumas,9,Proposition 55,,,No,12
-Plumas,9,Proposition 55,,,Yes,8
-Plumas,9,Proposition 56,,,No,12
-Plumas,9,Proposition 56,,,Yes,9
-Plumas,9,Proposition 57,,,No,14
-Plumas,9,Proposition 57,,,Yes,7
-Plumas,9,Proposition 58,,,No,7
-Plumas,9,Proposition 58,,,Yes,14
-Plumas,9,Proposition 59,,,No,16
-Plumas,9,Proposition 59,,,Yes,5
-Plumas,9,Proposition 60,,,No,9
-Plumas,9,Proposition 60,,,Yes,10
-Plumas,9,Proposition 61,,,No,14
-Plumas,9,Proposition 61,,,Yes,6
-Plumas,9,Proposition 62,,,No,16
-Plumas,9,Proposition 62,,,Yes,5
-Plumas,9,Proposition 63,,,No,16
-Plumas,9,Proposition 63,,,Yes,5
-Plumas,9,Proposition 64,,,No,11
-Plumas,9,Proposition 64,,,Yes,10
-Plumas,9,Proposition 65,,,No,12
-Plumas,9,Proposition 65,,,Yes,9
-Plumas,9,Proposition 66,,,No,7
-Plumas,9,Proposition 66,,,Yes,11
-Plumas,9,Proposition 67,,,No,15
-Plumas,9,Proposition 67,,,Yes,6
-Plumas,9,U.S. Senate,,DEM,Kamala D. Harris,7
-Plumas,9,U.S. Senate,,DEM,Loretta L. Sanchez,8
