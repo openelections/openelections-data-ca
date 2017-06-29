@@ -1,3 +1,4 @@
+import json
 import pandas as pd
 import requests
 import tempfile
@@ -63,6 +64,16 @@ COUNTIES = ["Alameda",
             "Yolo",
             "Yuba",
             ]
+
+ELECTIONS = [('P14', '2014/20140603__ca__primary__%s__precinct.csv',
+              json.load(open('src/swdb/candidates/P14.json'))),
+             ('G14', '2014/20141104__ca__general__%s__precinct.csv',
+              json.load(open('src/swdb/candidates/G14.json'))),
+             ('P16', '2016/20160607__ca__primary__%s__precinct.csv',
+              json.load(open('src/swdb/candidates/P16.json'))),
+             ('G16', '2016/20161108__ca__general__%s__precinct.csv',
+              json.load(open('src/swdb/candidates/G16.json')))
+             ]
 
 
 def csv_to_dataframe(csv_fname):
