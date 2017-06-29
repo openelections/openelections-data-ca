@@ -1,0 +1,564 @@
+county,precinct,office,district,party,candidate,votes
+Mono,01,President,,AIP,Alan Spears,1
+Mono,01,President,,AIP,Arthur Harris,1
+Mono,01,President,,REP,Ben Carson,6
+Mono,01,President,,DEM,Bernie Sanders,56
+Mono,01,President,,REP,Donald Trump,118
+Mono,01,President,,LIB,Gary Johnson,2
+Mono,01,President,,DEM,Hillary Clinton,49
+Mono,01,President,,AIP,J.R. Myers,1
+Mono,01,President,,LIB,John Hale,1
+Mono,01,President,,LIB,John McAfee,1
+Mono,01,President,,REP,John R. Kasich,16
+Mono,01,President,,REP,Ted Cruz,18
+Mono,01,President,,AIP,Wiley Drake,2
+Mono,01,President,,DEM,Willie Wilson,2
+Mono,01,Proposition 50,,,No,69
+Mono,01,Proposition 50,,,Yes,241
+Mono,01,State Assembly,5,REP,Frank Bigelow,181
+Mono,01,State Assembly,5,DEM,Kai Ellsworth,26
+Mono,01,State Assembly,5,IND,Mark Belden,36
+Mono,01,State Assembly,5,DEM,Robert Carabas,50
+Mono,01,U.S. House,8,DEM,John Pinkerton,9
+Mono,01,U.S. House,8,REP,Paul Cook,150
+Mono,01,U.S. House,8,DEM,Rita Ramirez,65
+Mono,01,U.S. House,8,DEM,Roger La Plante,23
+Mono,01,U.S. House,8,REP,Tim Donnelly,58
+Mono,01,U.S. Senate,,IND,Clive Grey,5
+Mono,01,U.S. Senate,,IND,Don J. Grundmann,2
+Mono,01,U.S. Senate,,REP,Don Krampe,5
+Mono,01,U.S. Senate,,REP,Duf Sundheim,23
+Mono,01,U.S. Senate,,IND,Eleanor García,1
+Mono,01,U.S. Senate,,DEM,Emory Rodgers,1
+Mono,01,U.S. Senate,,LIB,Gail K. Lightfoot,6
+Mono,01,U.S. Senate,,REP,George C. Yang,5
+Mono,01,U.S. Senate,,REP,Greg Conlon,17
+Mono,01,U.S. Senate,,DEM,Herbert G. Peters,2
+Mono,01,U.S. Senate,,REP,Jarrell Williamson,5
+Mono,01,U.S. Senate,,IND,Jason Kraus,5
+Mono,01,U.S. Senate,,REP,Jerry J. Laws,3
+Mono,01,U.S. Senate,,DEM,Kamala D. Harris,52
+Mono,01,U.S. Senate,,REP,Karen Roseberry,3
+Mono,01,U.S. Senate,,IND,Ling Ling Shi,1
+Mono,01,U.S. Senate,,DEM,Loretta L. Sanchez,46
+Mono,01,U.S. Senate,,LIB,Mark Matthew Herd,4
+Mono,01,U.S. Senate,,DEM,Massie Munroe,2
+Mono,01,U.S. Senate,,IND,Mike Beitiks,1
+Mono,01,U.S. Senate,,GRN,Pamela Elizondo,1
+Mono,01,U.S. Senate,,IND,Paul Merritt,4
+Mono,01,U.S. Senate,,REP,Phil Wyman,54
+Mono,01,U.S. Senate,,DEM,President Cristina Grappo,2
+Mono,01,U.S. Senate,,REP,Ron Unz,2
+Mono,01,U.S. Senate,,DEM,Steve Stokes,6
+Mono,01,U.S. Senate,,REP,Thomas G. Del Beccaro,17
+Mono,01,U.S. Senate,,REP,Tom Palzer,10
+Mono,01,U.S. Senate,,REP,Von Hougo,5
+Mono,03,President,,AIP,Alan Spears,1
+Mono,03,President,,AIP,Arthur Harris,1
+Mono,03,President,,REP,Ben Carson,11
+Mono,03,President,,DEM,Bernie Sanders,46
+Mono,03,President,,REP,Donald Trump,104
+Mono,03,President,,DEM,Hillary Clinton,28
+Mono,03,President,,AIP,J.R. Myers,1
+Mono,03,President,,REP,John R. Kasich,8
+Mono,03,President,,DEM,Roque De La Fuente,1
+Mono,03,President,,REP,Ted Cruz,15
+Mono,03,President,,AIP,Thomas Hoefling,1
+Mono,03,Proposition 50,,,No,45
+Mono,03,Proposition 50,,,Yes,183
+Mono,03,State Assembly,5,REP,Frank Bigelow,159
+Mono,03,State Assembly,5,DEM,Kai Ellsworth,12
+Mono,03,State Assembly,5,IND,Mark Belden,19
+Mono,03,State Assembly,5,DEM,Robert Carabas,45
+Mono,03,U.S. House,8,DEM,John Pinkerton,8
+Mono,03,U.S. House,8,REP,Paul Cook,131
+Mono,03,U.S. House,8,DEM,Rita Ramirez,38
+Mono,03,U.S. House,8,DEM,Roger La Plante,15
+Mono,03,U.S. House,8,REP,Tim Donnelly,45
+Mono,03,U.S. Senate,,IND,Clive Grey,2
+Mono,03,U.S. Senate,,REP,Don Krampe,3
+Mono,03,U.S. Senate,,REP,Duf Sundheim,23
+Mono,03,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Mono,03,U.S. Senate,,IND,Gar Myers,1
+Mono,03,U.S. Senate,,REP,George C. Yang,3
+Mono,03,U.S. Senate,,REP,Greg Conlon,17
+Mono,03,U.S. Senate,,DEM,Herbert G. Peters,1
+Mono,03,U.S. Senate,,REP,Jarrell Williamson,2
+Mono,03,U.S. Senate,,IND,Jason Kraus,1
+Mono,03,U.S. Senate,,REP,Jerry J. Laws,6
+Mono,03,U.S. Senate,,PAF,John Thompson Parker,1
+Mono,03,U.S. Senate,,DEM,Kamala D. Harris,46
+Mono,03,U.S. Senate,,REP,Karen Roseberry,1
+Mono,03,U.S. Senate,,IND,Ling Ling Shi,2
+Mono,03,U.S. Senate,,DEM,Loretta L. Sanchez,24
+Mono,03,U.S. Senate,,LIB,Mark Matthew Herd,2
+Mono,03,U.S. Senate,,DEM,Massie Munroe,1
+Mono,03,U.S. Senate,,IND,Mike Beitiks,3
+Mono,03,U.S. Senate,,GRN,Pamela Elizondo,2
+Mono,03,U.S. Senate,,IND,Paul Merritt,3
+Mono,03,U.S. Senate,,REP,Phil Wyman,49
+Mono,03,U.S. Senate,,DEM,President Cristina Grappo,1
+Mono,03,U.S. Senate,,REP,Ron Unz,1
+Mono,03,U.S. Senate,,IND,Scott A. Vineberg,1
+Mono,03,U.S. Senate,,DEM,Steve Stokes,4
+Mono,03,U.S. Senate,,REP,Thomas G. Del Beccaro,8
+Mono,03,U.S. Senate,,REP,Tom Palzer,7
+Mono,03,U.S. Senate,,REP,Von Hougo,5
+Mono,04,President,,AIP,Arthur Harris,4
+Mono,04,President,,REP,Ben Carson,3
+Mono,04,President,,DEM,Bernie Sanders,53
+Mono,04,President,,REP,Donald Trump,145
+Mono,04,President,,LIB,Gary Johnson,4
+Mono,04,President,,DEM,Hillary Clinton,49
+Mono,04,President,,AIP,J.R. Myers,1
+Mono,04,President,,REP,Jim Gilmore,1
+Mono,04,President,,REP,John R. Kasich,14
+Mono,04,President,,PAF,Lynn S. Kahn,1
+Mono,04,President,,AIP,Robert Ornelas,1
+Mono,04,President,,LIB,Steve Kerbel,1
+Mono,04,President,,REP,Ted Cruz,4
+Mono,04,President,,AIP,Thomas Hoefling,1
+Mono,04,Proposition 50,,,No,66
+Mono,04,Proposition 50,,,Yes,231
+Mono,04,State Assembly,5,REP,Frank Bigelow,203
+Mono,04,State Assembly,5,DEM,Kai Ellsworth,39
+Mono,04,State Assembly,5,IND,Mark Belden,15
+Mono,04,State Assembly,5,DEM,Robert Carabas,40
+Mono,04,U.S. House,8,DEM,John Pinkerton,10
+Mono,04,U.S. House,8,REP,Paul Cook,146
+Mono,04,U.S. House,8,DEM,Rita Ramirez,53
+Mono,04,U.S. House,8,DEM,Roger La Plante,18
+Mono,04,U.S. House,8,REP,Tim Donnelly,81
+Mono,04,U.S. Senate,,REP,Don Krampe,10
+Mono,04,U.S. Senate,,REP,Duf Sundheim,33
+Mono,04,U.S. Senate,,DEM,Emory Rodgers,1
+Mono,04,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Mono,04,U.S. Senate,,REP,Greg Conlon,17
+Mono,04,U.S. Senate,,REP,Jarrell Williamson,2
+Mono,04,U.S. Senate,,IND,Jason Hanania,1
+Mono,04,U.S. Senate,,IND,Jason Kraus,6
+Mono,04,U.S. Senate,,DEM,Kamala D. Harris,66
+Mono,04,U.S. Senate,,REP,Karen Roseberry,1
+Mono,04,U.S. Senate,,IND,Ling Ling Shi,3
+Mono,04,U.S. Senate,,DEM,Loretta L. Sanchez,30
+Mono,04,U.S. Senate,,DEM,Massie Munroe,2
+Mono,04,U.S. Senate,,GRN,Pamela Elizondo,2
+Mono,04,U.S. Senate,,IND,Paul Merritt,1
+Mono,04,U.S. Senate,,REP,Phil Wyman,96
+Mono,04,U.S. Senate,,REP,Ron Unz,1
+Mono,04,U.S. Senate,,DEM,Steve Stokes,4
+Mono,04,U.S. Senate,,REP,Thomas G. Del Beccaro,15
+Mono,04,U.S. Senate,,REP,Tom Palzer,4
+Mono,04,U.S. Senate,,REP,Von Hougo,6
+Mono,05,President,,AIP,Arthur Harris,1
+Mono,05,President,,REP,Ben Carson,3
+Mono,05,President,,DEM,Bernie Sanders,55
+Mono,05,President,,REP,Donald Trump,64
+Mono,05,President,,DEM,Hillary Clinton,45
+Mono,05,President,,REP,John R. Kasich,8
+Mono,05,President,,REP,Ted Cruz,10
+Mono,05,Proposition 50,,,No,50
+Mono,05,Proposition 50,,,Yes,135
+Mono,05,State Assembly,5,REP,Frank Bigelow,85
+Mono,05,State Assembly,5,DEM,Kai Ellsworth,28
+Mono,05,State Assembly,5,IND,Mark Belden,15
+Mono,05,State Assembly,5,DEM,Robert Carabas,50
+Mono,05,U.S. House,8,DEM,John Pinkerton,12
+Mono,05,U.S. House,8,REP,Paul Cook,72
+Mono,05,U.S. House,8,DEM,Rita Ramirez,56
+Mono,05,U.S. House,8,DEM,Roger La Plante,19
+Mono,05,U.S. House,8,REP,Tim Donnelly,28
+Mono,05,U.S. Senate,,IND,Clive Grey,4
+Mono,05,U.S. Senate,,REP,Don Krampe,3
+Mono,05,U.S. Senate,,REP,Duf Sundheim,7
+Mono,05,U.S. Senate,,IND,Eleanor García,2
+Mono,05,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Mono,05,U.S. Senate,,REP,Greg Conlon,10
+Mono,05,U.S. Senate,,REP,Jarrell Williamson,3
+Mono,05,U.S. Senate,,IND,Jason Kraus,3
+Mono,05,U.S. Senate,,DEM,Kamala D. Harris,56
+Mono,05,U.S. Senate,,DEM,Loretta L. Sanchez,30
+Mono,05,U.S. Senate,,LIB,Mark Matthew Herd,1
+Mono,05,U.S. Senate,,IND,Mike Beitiks,1
+Mono,05,U.S. Senate,,GRN,Pamela Elizondo,2
+Mono,05,U.S. Senate,,IND,Paul Merritt,2
+Mono,05,U.S. Senate,,REP,Phil Wyman,23
+Mono,05,U.S. Senate,,DEM,President Cristina Grappo,1
+Mono,05,U.S. Senate,,REP,Ron Unz,9
+Mono,05,U.S. Senate,,DEM,Steve Stokes,9
+Mono,05,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Mono,05,U.S. Senate,,REP,Tom Palzer,6
+Mono,05,U.S. Senate,,REP,Von Hougo,5
+Mono,06,President,,REP,Ben Carson,1
+Mono,06,President,,DEM,Bernie Sanders,59
+Mono,06,President,,REP,Donald Trump,42
+Mono,06,President,,DEM,Hillary Clinton,32
+Mono,06,President,,GRN,Jill Stein,1
+Mono,06,President,,REP,John R. Kasich,3
+Mono,06,President,,REP,Ted Cruz,4
+Mono,06,Proposition 50,,,No,31
+Mono,06,Proposition 50,,,Yes,110
+Mono,06,State Assembly,5,REP,Frank Bigelow,54
+Mono,06,State Assembly,5,DEM,Kai Ellsworth,26
+Mono,06,State Assembly,5,IND,Mark Belden,5
+Mono,06,State Assembly,5,DEM,Robert Carabas,55
+Mono,06,U.S. House,8,DEM,John Pinkerton,7
+Mono,06,U.S. House,8,REP,Paul Cook,47
+Mono,06,U.S. House,8,DEM,Rita Ramirez,70
+Mono,06,U.S. House,8,DEM,Roger La Plante,15
+Mono,06,U.S. House,8,REP,Tim Donnelly,14
+Mono,06,U.S. Senate,,REP,Don Krampe,1
+Mono,06,U.S. Senate,,REP,Duf Sundheim,7
+Mono,06,U.S. Senate,,IND,Eleanor García,1
+Mono,06,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Mono,06,U.S. Senate,,REP,George C. Yang,1
+Mono,06,U.S. Senate,,REP,Greg Conlon,2
+Mono,06,U.S. Senate,,REP,Jarrell Williamson,1
+Mono,06,U.S. Senate,,PAF,John Thompson Parker,1
+Mono,06,U.S. Senate,,DEM,Kamala D. Harris,59
+Mono,06,U.S. Senate,,REP,Karen Roseberry,3
+Mono,06,U.S. Senate,,DEM,Loretta L. Sanchez,24
+Mono,06,U.S. Senate,,IND,Mike Beitiks,1
+Mono,06,U.S. Senate,,GRN,Pamela Elizondo,4
+Mono,06,U.S. Senate,,IND,Paul Merritt,2
+Mono,06,U.S. Senate,,REP,Phil Wyman,20
+Mono,06,U.S. Senate,,DEM,President Cristina Grappo,1
+Mono,06,U.S. Senate,,REP,Ron Unz,1
+Mono,06,U.S. Senate,,DEM,Steve Stokes,8
+Mono,06,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Mono,06,U.S. Senate,,REP,Von Hougo,4
+Mono,07,President,,AIP,Alan Spears,1
+Mono,07,President,,AIP,Arthur Harris,1
+Mono,07,President,,REP,Ben Carson,5
+Mono,07,President,,DEM,Bernie Sanders,121
+Mono,07,President,,LIB,Cecil Ince,1
+Mono,07,President,,REP,Donald Trump,100
+Mono,07,President,,LIB,Gary Johnson,2
+Mono,07,President,,DEM,Hillary Clinton,110
+Mono,07,President,,AIP,James Hedges,1
+Mono,07,President,,REP,John R. Kasich,23
+Mono,07,President,,LIB,Rhett White Feather Smith,1
+Mono,07,President,,AIP,Robert Ornelas,1
+Mono,07,President,,REP,Ted Cruz,13
+Mono,07,Proposition 50,,,No,83
+Mono,07,Proposition 50,,,Yes,296
+Mono,07,State Assembly,5,REP,Frank Bigelow,176
+Mono,07,State Assembly,5,DEM,Kai Ellsworth,60
+Mono,07,State Assembly,5,IND,Mark Belden,30
+Mono,07,State Assembly,5,DEM,Robert Carabas,100
+Mono,07,U.S. House,8,DEM,John Pinkerton,20
+Mono,07,U.S. House,8,REP,Paul Cook,164
+Mono,07,U.S. House,8,DEM,Rita Ramirez,117
+Mono,07,U.S. House,8,DEM,Roger La Plante,50
+Mono,07,U.S. House,8,REP,Tim Donnelly,34
+Mono,07,U.S. Senate,,IND,Clive Grey,2
+Mono,07,U.S. Senate,,IND,Don J. Grundmann,1
+Mono,07,U.S. Senate,,REP,Don Krampe,5
+Mono,07,U.S. Senate,,REP,Duf Sundheim,21
+Mono,07,U.S. Senate,,DEM,Emory Rodgers,1
+Mono,07,U.S. Senate,,LIB,Gail K. Lightfoot,7
+Mono,07,U.S. Senate,,REP,George C. Yang,5
+Mono,07,U.S. Senate,,REP,Greg Conlon,7
+Mono,07,U.S. Senate,,IND,Jason Hanania,4
+Mono,07,U.S. Senate,,REP,Jerry J. Laws,1
+Mono,07,U.S. Senate,,PAF,John Thompson Parker,3
+Mono,07,U.S. Senate,,DEM,Kamala D. Harris,122
+Mono,07,U.S. Senate,,REP,Karen Roseberry,5
+Mono,07,U.S. Senate,,DEM,Loretta L. Sanchez,56
+Mono,07,U.S. Senate,,LIB,Mark Matthew Herd,2
+Mono,07,U.S. Senate,,DEM,Massie Munroe,2
+Mono,07,U.S. Senate,,IND,Mike Beitiks,2
+Mono,07,U.S. Senate,,GRN,Pamela Elizondo,10
+Mono,07,U.S. Senate,,IND,Paul Merritt,2
+Mono,07,U.S. Senate,,REP,Phil Wyman,57
+Mono,07,U.S. Senate,,DEM,President Cristina Grappo,2
+Mono,07,U.S. Senate,,REP,Ron Unz,5
+Mono,07,U.S. Senate,,DEM,Steve Stokes,10
+Mono,07,U.S. Senate,,REP,Thomas G. Del Beccaro,20
+Mono,07,U.S. Senate,,REP,Tom Palzer,4
+Mono,07,U.S. Senate,,REP,Von Hougo,3
+Mono,08,President,,REP,Ben Carson,5
+Mono,08,President,,DEM,Bernie Sanders,78
+Mono,08,President,,REP,Donald Trump,34
+Mono,08,President,,DEM,Hillary Clinton,54
+Mono,08,President,,REP,John R. Kasich,8
+Mono,08,President,,PAF,Lynn S. Kahn,1
+Mono,08,President,,REP,Ted Cruz,6
+Mono,08,President,,DEM,Willie Wilson,2
+Mono,08,Proposition 50,,,No,37
+Mono,08,Proposition 50,,,Yes,150
+Mono,08,State Assembly,5,REP,Frank Bigelow,78
+Mono,08,State Assembly,5,DEM,Kai Ellsworth,42
+Mono,08,State Assembly,5,IND,Mark Belden,13
+Mono,08,State Assembly,5,DEM,Robert Carabas,56
+Mono,08,U.S. House,8,DEM,John Pinkerton,9
+Mono,08,U.S. House,8,REP,Paul Cook,84
+Mono,08,U.S. House,8,DEM,Rita Ramirez,85
+Mono,08,U.S. House,8,DEM,Roger La Plante,14
+Mono,08,U.S. House,8,REP,Tim Donnelly,8
+Mono,08,U.S. Senate,,IND,Clive Grey,3
+Mono,08,U.S. Senate,,REP,Don Krampe,1
+Mono,08,U.S. Senate,,REP,Duf Sundheim,7
+Mono,08,U.S. Senate,,IND,Eleanor García,2
+Mono,08,U.S. Senate,,LIB,Gail K. Lightfoot,8
+Mono,08,U.S. Senate,,REP,George C. Yang,1
+Mono,08,U.S. Senate,,REP,Greg Conlon,16
+Mono,08,U.S. Senate,,DEM,Herbert G. Peters,1
+Mono,08,U.S. Senate,,IND,Jason Kraus,1
+Mono,08,U.S. Senate,,REP,Jerry J. Laws,1
+Mono,08,U.S. Senate,,DEM,Kamala D. Harris,63
+Mono,08,U.S. Senate,,REP,Karen Roseberry,3
+Mono,08,U.S. Senate,,IND,Ling Ling Shi,3
+Mono,08,U.S. Senate,,DEM,Loretta L. Sanchez,29
+Mono,08,U.S. Senate,,DEM,Massie Munroe,2
+Mono,08,U.S. Senate,,IND,Mike Beitiks,3
+Mono,08,U.S. Senate,,GRN,Pamela Elizondo,3
+Mono,08,U.S. Senate,,REP,Phil Wyman,22
+Mono,08,U.S. Senate,,DEM,President Cristina Grappo,2
+Mono,08,U.S. Senate,,REP,Ron Unz,2
+Mono,08,U.S. Senate,,IND,Scott A. Vineberg,1
+Mono,08,U.S. Senate,,DEM,Steve Stokes,6
+Mono,08,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Mono,08,U.S. Senate,,REP,Tom Palzer,2
+Mono,08,U.S. Senate,,REP,Von Hougo,1
+Mono,09,President,,AIP,Alan Spears,1
+Mono,09,President,,REP,Ben Carson,3
+Mono,09,President,,DEM,Bernie Sanders,126
+Mono,09,President,,REP,Donald Trump,86
+Mono,09,President,,LIB,Gary Johnson,1
+Mono,09,President,,DEM,Hillary Clinton,104
+Mono,09,President,,AIP,James Hedges,1
+Mono,09,President,,REP,Jim Gilmore,1
+Mono,09,President,,LIB,John McAfee,1
+Mono,09,President,,REP,John R. Kasich,26
+Mono,09,President,,AIP,Robert Ornelas,1
+Mono,09,President,,REP,Ted Cruz,7
+Mono,09,President,,AIP,Thomas Hoefling,1
+Mono,09,President,,DEM,Willie Wilson,1
+Mono,09,Proposition 50,,,No,84
+Mono,09,Proposition 50,,,Yes,271
+Mono,09,State Assembly,5,REP,Frank Bigelow,148
+Mono,09,State Assembly,5,DEM,Kai Ellsworth,58
+Mono,09,State Assembly,5,IND,Mark Belden,26
+Mono,09,State Assembly,5,DEM,Robert Carabas,111
+Mono,09,U.S. House,8,DEM,John Pinkerton,25
+Mono,09,U.S. House,8,REP,Paul Cook,146
+Mono,09,U.S. House,8,DEM,Rita Ramirez,121
+Mono,09,U.S. House,8,DEM,Roger La Plante,39
+Mono,09,U.S. House,8,REP,Tim Donnelly,36
+Mono,09,U.S. Senate,,IND,Clive Grey,2
+Mono,09,U.S. Senate,,IND,Don J. Grundmann,1
+Mono,09,U.S. Senate,,REP,Don Krampe,3
+Mono,09,U.S. Senate,,REP,Duf Sundheim,23
+Mono,09,U.S. Senate,,IND,Eleanor García,2
+Mono,09,U.S. Senate,,DEM,Emory Rodgers,5
+Mono,09,U.S. Senate,,LIB,Gail K. Lightfoot,10
+Mono,09,U.S. Senate,,REP,Greg Conlon,18
+Mono,09,U.S. Senate,,REP,Jarrell Williamson,4
+Mono,09,U.S. Senate,,IND,Jason Kraus,2
+Mono,09,U.S. Senate,,REP,Jerry J. Laws,2
+Mono,09,U.S. Senate,,DEM,Kamala D. Harris,120
+Mono,09,U.S. Senate,,REP,Karen Roseberry,7
+Mono,09,U.S. Senate,,DEM,Loretta L. Sanchez,67
+Mono,09,U.S. Senate,,LIB,Mark Matthew Herd,1
+Mono,09,U.S. Senate,,DEM,Massie Munroe,8
+Mono,09,U.S. Senate,,IND,Mike Beitiks,3
+Mono,09,U.S. Senate,,GRN,Pamela Elizondo,5
+Mono,09,U.S. Senate,,IND,Paul Merritt,3
+Mono,09,U.S. Senate,,REP,Phil Wyman,32
+Mono,09,U.S. Senate,,DEM,President Cristina Grappo,3
+Mono,09,U.S. Senate,,REP,Ron Unz,3
+Mono,09,U.S. Senate,,IND,Scott A. Vineberg,1
+Mono,09,U.S. Senate,,DEM,Steve Stokes,13
+Mono,09,U.S. Senate,,REP,Thomas G. Del Beccaro,6
+Mono,09,U.S. Senate,,REP,Tom Palzer,2
+Mono,09,U.S. Senate,,REP,Von Hougo,4
+Mono,10,President,,REP,Ben Carson,8
+Mono,10,President,,DEM,Bernie Sanders,84
+Mono,10,President,,LIB,Darryl W. Perry,1
+Mono,10,President,,REP,Donald Trump,57
+Mono,10,President,,LIB,Gary Johnson,3
+Mono,10,President,,PAF,Gloria Estela La Riva,1
+Mono,10,President,,DEM,Hillary Clinton,87
+Mono,10,President,,GRN,Jill Stein,1
+Mono,10,President,,REP,Jim Gilmore,1
+Mono,10,President,,LIB,John McAfee,1
+Mono,10,President,,REP,John R. Kasich,12
+Mono,10,President,,REP,Ted Cruz,8
+Mono,10,President,,AIP,Thomas Hoefling,1
+Mono,10,Proposition 50,,,No,70
+Mono,10,Proposition 50,,,Yes,193
+Mono,10,State Assembly,5,REP,Frank Bigelow,112
+Mono,10,State Assembly,5,DEM,Kai Ellsworth,47
+Mono,10,State Assembly,5,IND,Mark Belden,12
+Mono,10,State Assembly,5,DEM,Robert Carabas,87
+Mono,10,U.S. House,8,DEM,John Pinkerton,16
+Mono,10,U.S. House,8,REP,Paul Cook,102
+Mono,10,U.S. House,8,DEM,Rita Ramirez,110
+Mono,10,U.S. House,8,DEM,Roger La Plante,23
+Mono,10,U.S. House,8,REP,Tim Donnelly,26
+Mono,10,U.S. Senate,,IND,Clive Grey,2
+Mono,10,U.S. Senate,,IND,Don J. Grundmann,1
+Mono,10,U.S. Senate,,REP,Don Krampe,9
+Mono,10,U.S. Senate,,REP,Duf Sundheim,19
+Mono,10,U.S. Senate,,DEM,Emory Rodgers,3
+Mono,10,U.S. Senate,,REP,George C. Yang,4
+Mono,10,U.S. Senate,,REP,Greg Conlon,12
+Mono,10,U.S. Senate,,DEM,Herbert G. Peters,1
+Mono,10,U.S. Senate,,REP,Jarrell Williamson,2
+Mono,10,U.S. Senate,,REP,Jerry J. Laws,3
+Mono,10,U.S. Senate,,PAF,John Thompson Parker,1
+Mono,10,U.S. Senate,,DEM,Kamala D. Harris,93
+Mono,10,U.S. Senate,,REP,Karen Roseberry,3
+Mono,10,U.S. Senate,,DEM,Loretta L. Sanchez,44
+Mono,10,U.S. Senate,,LIB,Mark Matthew Herd,1
+Mono,10,U.S. Senate,,DEM,Massie Munroe,6
+Mono,10,U.S. Senate,,IND,Mike Beitiks,5
+Mono,10,U.S. Senate,,GRN,Pamela Elizondo,8
+Mono,10,U.S. Senate,,IND,Paul Merritt,3
+Mono,10,U.S. Senate,,REP,Phil Wyman,18
+Mono,10,U.S. Senate,,DEM,President Cristina Grappo,1
+Mono,10,U.S. Senate,,REP,Ron Unz,6
+Mono,10,U.S. Senate,,DEM,Steve Stokes,13
+Mono,10,U.S. Senate,,REP,Thomas G. Del Beccaro,3
+Mono,10,U.S. Senate,,IND,Tim Gildersleeve,2
+Mono,10,U.S. Senate,,REP,Tom Palzer,4
+Mono,10,U.S. Senate,,REP,Von Hougo,6
+Mono,11,President,,DEM,Bernie Sanders,46
+Mono,11,President,,REP,Donald Trump,42
+Mono,11,President,,DEM,Henry Hewes,1
+Mono,11,President,,DEM,Hillary Clinton,74
+Mono,11,President,,GRN,Jill Stein,1
+Mono,11,President,,REP,John R. Kasich,6
+Mono,11,President,,AIP,Wiley Drake,1
+Mono,11,Proposition 50,,,No,27
+Mono,11,Proposition 50,,,Yes,154
+Mono,11,State Assembly,5,REP,Frank Bigelow,54
+Mono,11,State Assembly,5,DEM,Kai Ellsworth,23
+Mono,11,State Assembly,5,IND,Mark Belden,13
+Mono,11,State Assembly,5,DEM,Robert Carabas,81
+Mono,11,U.S. House,8,DEM,John Pinkerton,8
+Mono,11,U.S. House,8,REP,Paul Cook,54
+Mono,11,U.S. House,8,DEM,Rita Ramirez,90
+Mono,11,U.S. House,8,DEM,Roger La Plante,18
+Mono,11,U.S. House,8,REP,Tim Donnelly,11
+Mono,11,U.S. Senate,,REP,Don Krampe,3
+Mono,11,U.S. Senate,,REP,Duf Sundheim,14
+Mono,11,U.S. Senate,,IND,Eleanor García,1
+Mono,11,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Mono,11,U.S. Senate,,IND,Gar Myers,1
+Mono,11,U.S. Senate,,REP,George C. Yang,2
+Mono,11,U.S. Senate,,REP,Greg Conlon,5
+Mono,11,U.S. Senate,,REP,Jerry J. Laws,2
+Mono,11,U.S. Senate,,DEM,Kamala D. Harris,87
+Mono,11,U.S. Senate,,DEM,Loretta L. Sanchez,39
+Mono,11,U.S. Senate,,DEM,Massie Munroe,1
+Mono,11,U.S. Senate,,GRN,Pamela Elizondo,3
+Mono,11,U.S. Senate,,IND,Paul Merritt,1
+Mono,11,U.S. Senate,,REP,Phil Wyman,8
+Mono,11,U.S. Senate,,DEM,President Cristina Grappo,1
+Mono,11,U.S. Senate,,REP,Ron Unz,2
+Mono,11,U.S. Senate,,DEM,Steve Stokes,2
+Mono,11,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Mono,11,U.S. Senate,,REP,Tom Palzer,2
+Mono,11,U.S. Senate,,REP,Von Hougo,1
+Mono,12,President,,AIP,Arthur Harris,1
+Mono,12,President,,REP,Ben Carson,7
+Mono,12,President,,DEM,Bernie Sanders,135
+Mono,12,President,,REP,Donald Trump,52
+Mono,12,President,,LIB,Gary Johnson,1
+Mono,12,President,,DEM,Hillary Clinton,86
+Mono,12,President,,GRN,Jill Stein,2
+Mono,12,President,,REP,Jim Gilmore,1
+Mono,12,President,,LIB,John McAfee,1
+Mono,12,President,,REP,John R. Kasich,20
+Mono,12,President,,PAF,Monica Moorehead,1
+Mono,12,President,,AIP,Robert Ornelas,1
+Mono,12,President,,DEM,Roque De La Fuente,1
+Mono,12,President,,REP,Ted Cruz,5
+Mono,12,President,,DEM,Willie Wilson,1
+Mono,12,Proposition 50,,,No,58
+Mono,12,Proposition 50,,,Yes,257
+Mono,12,State Assembly,5,REP,Frank Bigelow,114
+Mono,12,State Assembly,5,DEM,Kai Ellsworth,65
+Mono,12,State Assembly,5,IND,Mark Belden,32
+Mono,12,State Assembly,5,DEM,Robert Carabas,88
+Mono,12,U.S. House,8,DEM,John Pinkerton,24
+Mono,12,U.S. House,8,REP,Paul Cook,105
+Mono,12,U.S. House,8,DEM,Rita Ramirez,111
+Mono,12,U.S. House,8,DEM,Roger La Plante,42
+Mono,12,U.S. House,8,REP,Tim Donnelly,30
+Mono,12,U.S. Senate,,IND,Clive Grey,4
+Mono,12,U.S. Senate,,REP,Don Krampe,7
+Mono,12,U.S. Senate,,REP,Duf Sundheim,15
+Mono,12,U.S. Senate,,IND,Eleanor García,1
+Mono,12,U.S. Senate,,DEM,Emory Rodgers,1
+Mono,12,U.S. Senate,,LIB,Gail K. Lightfoot,9
+Mono,12,U.S. Senate,,REP,Greg Conlon,12
+Mono,12,U.S. Senate,,DEM,Herbert G. Peters,1
+Mono,12,U.S. Senate,,REP,Jarrell Williamson,1
+Mono,12,U.S. Senate,,IND,Jason Kraus,1
+Mono,12,U.S. Senate,,REP,Jerry J. Laws,2
+Mono,12,U.S. Senate,,PAF,John Thompson Parker,1
+Mono,12,U.S. Senate,,DEM,Kamala D. Harris,95
+Mono,12,U.S. Senate,,REP,Karen Roseberry,3
+Mono,12,U.S. Senate,,DEM,Loretta L. Sanchez,62
+Mono,12,U.S. Senate,,LIB,Mark Matthew Herd,3
+Mono,12,U.S. Senate,,DEM,Massie Munroe,10
+Mono,12,U.S. Senate,,IND,Mike Beitiks,5
+Mono,12,U.S. Senate,,GRN,Pamela Elizondo,10
+Mono,12,U.S. Senate,,IND,Paul Merritt,1
+Mono,12,U.S. Senate,,REP,Phil Wyman,27
+Mono,12,U.S. Senate,,DEM,President Cristina Grappo,3
+Mono,12,U.S. Senate,,REP,Ron Unz,4
+Mono,12,U.S. Senate,,IND,Scott A. Vineberg,1
+Mono,12,U.S. Senate,,DEM,Steve Stokes,13
+Mono,12,U.S. Senate,,REP,Thomas G. Del Beccaro,3
+Mono,12,U.S. Senate,,REP,Tom Palzer,4
+Mono,12,U.S. Senate,,REP,Von Hougo,6
+Mono,13,President,,REP,Ben Carson,5
+Mono,13,President,,DEM,Bernie Sanders,111
+Mono,13,President,,REP,Donald Trump,39
+Mono,13,President,,LIB,Gary Johnson,1
+Mono,13,President,,DEM,Hillary Clinton,60
+Mono,13,President,,GRN,Jill Stein,1
+Mono,13,President,,REP,Jim Gilmore,2
+Mono,13,President,,REP,John R. Kasich,11
+Mono,13,President,,DEM,Michael Steinberg,1
+Mono,13,President,,REP,Ted Cruz,4
+Mono,13,Proposition 50,,,No,45
+Mono,13,Proposition 50,,,Yes,193
+Mono,13,State Assembly,5,REP,Frank Bigelow,81
+Mono,13,State Assembly,5,DEM,Kai Ellsworth,45
+Mono,13,State Assembly,5,IND,Mark Belden,19
+Mono,13,State Assembly,5,DEM,Robert Carabas,84
+Mono,13,U.S. House,8,DEM,John Pinkerton,22
+Mono,13,U.S. House,8,REP,Paul Cook,81
+Mono,13,U.S. House,8,DEM,Rita Ramirez,79
+Mono,13,U.S. House,8,DEM,Roger La Plante,38
+Mono,13,U.S. House,8,REP,Tim Donnelly,20
+Mono,13,U.S. Senate,,IND,Clive Grey,1
+Mono,13,U.S. Senate,,REP,Duf Sundheim,7
+Mono,13,U.S. Senate,,LIB,Gail K. Lightfoot,5
+Mono,13,U.S. Senate,,REP,George C. Yang,5
+Mono,13,U.S. Senate,,REP,Greg Conlon,14
+Mono,13,U.S. Senate,,REP,Jarrell Williamson,2
+Mono,13,U.S. Senate,,IND,Jason Hanania,1
+Mono,13,U.S. Senate,,IND,Jason Kraus,1
+Mono,13,U.S. Senate,,REP,Jerry J. Laws,1
+Mono,13,U.S. Senate,,DEM,Kamala D. Harris,73
+Mono,13,U.S. Senate,,REP,Karen Roseberry,3
+Mono,13,U.S. Senate,,IND,Ling Ling Shi,1
+Mono,13,U.S. Senate,,DEM,Loretta L. Sanchez,40
+Mono,13,U.S. Senate,,LIB,Mark Matthew Herd,1
+Mono,13,U.S. Senate,,DEM,Massie Munroe,4
+Mono,13,U.S. Senate,,IND,Mike Beitiks,1
+Mono,13,U.S. Senate,,GRN,Pamela Elizondo,12
+Mono,13,U.S. Senate,,IND,Paul Merritt,2
+Mono,13,U.S. Senate,,REP,Phil Wyman,18
+Mono,13,U.S. Senate,,DEM,President Cristina Grappo,2
+Mono,13,U.S. Senate,,REP,Ron Unz,3
+Mono,13,U.S. Senate,,DEM,Steve Stokes,14
+Mono,13,U.S. Senate,,REP,Thomas G. Del Beccaro,9
+Mono,13,U.S. Senate,,REP,Tom Palzer,2
+Mono,13,U.S. Senate,,REP,Von Hougo,1

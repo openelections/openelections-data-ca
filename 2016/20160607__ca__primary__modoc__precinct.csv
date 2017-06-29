@@ -1,0 +1,808 @@
+county,precinct,office,district,party,candidate,votes
+Modoc,020,President,,REP,Ben Carson,1
+Modoc,020,President,,DEM,Bernie Sanders,13
+Modoc,020,President,,REP,Donald Trump,19
+Modoc,020,President,,DEM,Hillary Clinton,3
+Modoc,020,President,,REP,John R. Kasich,1
+Modoc,020,President,,REP,Ted Cruz,2
+Modoc,020,Proposition 50,,,No,17
+Modoc,020,Proposition 50,,,Yes,26
+Modoc,020,State Assembly,1,REP,Brian Dahle,32
+Modoc,020,State Senate,1,DEM,Rob Rowen,15
+Modoc,020,State Senate,1,REP,Steven Baird,2
+Modoc,020,State Senate,1,REP,Ted Gaines,28
+Modoc,020,U.S. House,1,DEM,David Peterson,1
+Modoc,020,U.S. House,1,REP,Doug La Malfa,28
+Modoc,020,U.S. House,1,IND,Jeff Gerlach,2
+Modoc,020,U.S. House,1,DEM,Jim Reed,14
+Modoc,020,U.S. House,1,REP,Joe Montes,5
+Modoc,020,U.S. Senate,,REP,Duf Sundheim,6
+Modoc,020,U.S. Senate,,REP,Greg Conlon,3
+Modoc,020,U.S. Senate,,REP,Jerry J. Laws,2
+Modoc,020,U.S. Senate,,DEM,Kamala D. Harris,11
+Modoc,020,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,020,U.S. Senate,,DEM,Loretta L. Sanchez,7
+Modoc,020,U.S. Senate,,DEM,Massie Munroe,2
+Modoc,020,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,020,U.S. Senate,,REP,Phil Wyman,7
+Modoc,020,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Modoc,020,U.S. Senate,,IND,Tim Gildersleeve,1
+Modoc,040,President,,REP,Ben Carson,1
+Modoc,040,President,,DEM,Bernie Sanders,15
+Modoc,040,President,,REP,Donald Trump,43
+Modoc,040,President,,DEM,Hillary Clinton,13
+Modoc,040,President,,REP,John R. Kasich,9
+Modoc,040,Proposition 50,,,No,18
+Modoc,040,Proposition 50,,,Yes,71
+Modoc,040,State Assembly,1,REP,Brian Dahle,76
+Modoc,040,State Senate,1,DEM,Rob Rowen,26
+Modoc,040,State Senate,1,REP,Steven Baird,2
+Modoc,040,State Senate,1,REP,Ted Gaines,60
+Modoc,040,U.S. House,1,DEM,David Peterson,4
+Modoc,040,U.S. House,1,REP,Doug La Malfa,53
+Modoc,040,U.S. House,1,REP,Gary Allen Oxley,2
+Modoc,040,U.S. House,1,DEM,Jim Reed,21
+Modoc,040,U.S. House,1,REP,Joe Montes,11
+Modoc,040,U.S. Senate,,IND,Clive Grey,1
+Modoc,040,U.S. Senate,,REP,Duf Sundheim,9
+Modoc,040,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Modoc,040,U.S. Senate,,REP,Greg Conlon,3
+Modoc,040,U.S. Senate,,REP,Jerry J. Laws,4
+Modoc,040,U.S. Senate,,DEM,Kamala D. Harris,15
+Modoc,040,U.S. Senate,,DEM,Loretta L. Sanchez,11
+Modoc,040,U.S. Senate,,REP,Phil Wyman,32
+Modoc,040,U.S. Senate,,DEM,Steve Stokes,1
+Modoc,040,U.S. Senate,,REP,Thomas G. Del Beccaro,4
+Modoc,040,U.S. Senate,,REP,Tom Palzer,3
+Modoc,060,President,,REP,Ben Carson,4
+Modoc,060,President,,DEM,Bernie Sanders,58
+Modoc,060,President,,REP,Donald Trump,95
+Modoc,060,President,,DEM,Hillary Clinton,29
+Modoc,060,President,,AIP,James Hedges,1
+Modoc,060,President,,GRN,Jill Stein,1
+Modoc,060,President,,LIB,John McAfee,1
+Modoc,060,President,,REP,John R. Kasich,3
+Modoc,060,President,,DEM,Michael Steinberg,1
+Modoc,060,President,,AIP,Robert Ornelas,1
+Modoc,060,President,,REP,Ted Cruz,13
+Modoc,060,Proposition 50,,,No,42
+Modoc,060,Proposition 50,,,Yes,177
+Modoc,060,State Assembly,1,REP,Brian Dahle,189
+Modoc,060,State Senate,1,DEM,Rob Rowen,74
+Modoc,060,State Senate,1,REP,Steven Baird,22
+Modoc,060,State Senate,1,REP,Ted Gaines,136
+Modoc,060,U.S. House,1,DEM,David Peterson,8
+Modoc,060,U.S. House,1,REP,Doug La Malfa,123
+Modoc,060,U.S. House,1,REP,Gary Allen Oxley,10
+Modoc,060,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,060,U.S. House,1,IND,Jeff Gerlach,5
+Modoc,060,U.S. House,1,DEM,Jim Reed,52
+Modoc,060,U.S. House,1,REP,Joe Montes,39
+Modoc,060,U.S. Senate,,IND,Clive Grey,3
+Modoc,060,U.S. Senate,,REP,Don Krampe,4
+Modoc,060,U.S. Senate,,REP,Duf Sundheim,21
+Modoc,060,U.S. Senate,,LIB,Gail K. Lightfoot,8
+Modoc,060,U.S. Senate,,IND,Gar Myers,1
+Modoc,060,U.S. Senate,,REP,George C. Yang,10
+Modoc,060,U.S. Senate,,REP,Greg Conlon,6
+Modoc,060,U.S. Senate,,REP,Jarrell Williamson,1
+Modoc,060,U.S. Senate,,IND,Jason Hanania,1
+Modoc,060,U.S. Senate,,IND,Jason Kraus,2
+Modoc,060,U.S. Senate,,REP,Jerry J. Laws,12
+Modoc,060,U.S. Senate,,PAF,John Thompson Parker,1
+Modoc,060,U.S. Senate,,DEM,Kamala D. Harris,52
+Modoc,060,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,060,U.S. Senate,,IND,Ling Ling Shi,1
+Modoc,060,U.S. Senate,,DEM,Loretta L. Sanchez,14
+Modoc,060,U.S. Senate,,LIB,Mark Matthew Herd,2
+Modoc,060,U.S. Senate,,DEM,Massie Munroe,1
+Modoc,060,U.S. Senate,,IND,Mike Beitiks,2
+Modoc,060,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,060,U.S. Senate,,REP,Phil Wyman,41
+Modoc,060,U.S. Senate,,REP,Ron Unz,2
+Modoc,060,U.S. Senate,,DEM,Steve Stokes,10
+Modoc,060,U.S. Senate,,REP,Thomas G. Del Beccaro,10
+Modoc,060,U.S. Senate,,REP,Tom Palzer,2
+Modoc,060,U.S. Senate,,REP,Von Hougo,2
+Modoc,080,President,,REP,Ben Carson,1
+Modoc,080,President,,DEM,Bernie Sanders,9
+Modoc,080,President,,REP,Donald Trump,28
+Modoc,080,President,,DEM,Hillary Clinton,1
+Modoc,080,Proposition 50,,,No,7
+Modoc,080,Proposition 50,,,Yes,33
+Modoc,080,State Assembly,1,REP,Brian Dahle,35
+Modoc,080,State Senate,1,DEM,Rob Rowen,10
+Modoc,080,State Senate,1,REP,Steven Baird,2
+Modoc,080,State Senate,1,REP,Ted Gaines,29
+Modoc,080,U.S. House,1,DEM,David Peterson,1
+Modoc,080,U.S. House,1,REP,Doug La Malfa,27
+Modoc,080,U.S. House,1,DEM,Jim Reed,7
+Modoc,080,U.S. House,1,REP,Joe Montes,7
+Modoc,080,U.S. Senate,,REP,Duf Sundheim,1
+Modoc,080,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Modoc,080,U.S. Senate,,REP,George C. Yang,1
+Modoc,080,U.S. Senate,,REP,Greg Conlon,4
+Modoc,080,U.S. Senate,,DEM,Kamala D. Harris,4
+Modoc,080,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,080,U.S. Senate,,DEM,Loretta L. Sanchez,3
+Modoc,080,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,080,U.S. Senate,,REP,Phil Wyman,14
+Modoc,080,U.S. Senate,,REP,Thomas G. Del Beccaro,1
+Modoc,080,U.S. Senate,,REP,Von Hougo,2
+Modoc,100,President,,DEM,Bernie Sanders,8
+Modoc,100,President,,REP,Donald Trump,44
+Modoc,100,President,,DEM,Hillary Clinton,14
+Modoc,100,President,,REP,John R. Kasich,1
+Modoc,100,President,,REP,Ted Cruz,5
+Modoc,100,Proposition 50,,,No,23
+Modoc,100,Proposition 50,,,Yes,62
+Modoc,100,State Assembly,1,REP,Brian Dahle,67
+Modoc,100,State Senate,1,DEM,Rob Rowen,18
+Modoc,100,State Senate,1,REP,Steven Baird,21
+Modoc,100,State Senate,1,REP,Ted Gaines,43
+Modoc,100,U.S. House,1,DEM,David Peterson,3
+Modoc,100,U.S. House,1,REP,Doug La Malfa,49
+Modoc,100,U.S. House,1,REP,Gary Allen Oxley,1
+Modoc,100,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,100,U.S. House,1,DEM,Jim Reed,12
+Modoc,100,U.S. House,1,REP,Joe Montes,20
+Modoc,100,U.S. Senate,,REP,Don Krampe,4
+Modoc,100,U.S. Senate,,REP,Duf Sundheim,20
+Modoc,100,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Modoc,100,U.S. Senate,,REP,Greg Conlon,6
+Modoc,100,U.S. Senate,,REP,Jarrell Williamson,3
+Modoc,100,U.S. Senate,,IND,Jason Hanania,1
+Modoc,100,U.S. Senate,,REP,Jerry J. Laws,2
+Modoc,100,U.S. Senate,,DEM,Kamala D. Harris,13
+Modoc,100,U.S. Senate,,REP,Karen Roseberry,2
+Modoc,100,U.S. Senate,,IND,Ling Ling Shi,1
+Modoc,100,U.S. Senate,,DEM,Loretta L. Sanchez,4
+Modoc,100,U.S. Senate,,DEM,Massie Munroe,1
+Modoc,100,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,100,U.S. Senate,,REP,Phil Wyman,17
+Modoc,100,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Modoc,100,U.S. Senate,,IND,Tim Gildersleeve,1
+Modoc,140,President,,REP,Ben Carson,1
+Modoc,140,President,,DEM,Bernie Sanders,3
+Modoc,140,President,,REP,Donald Trump,12
+Modoc,140,President,,DEM,Hillary Clinton,8
+Modoc,140,President,,REP,John R. Kasich,1
+Modoc,140,President,,DEM,Keith Judd,2
+Modoc,140,President,,REP,Ted Cruz,2
+Modoc,140,Proposition 50,,,No,9
+Modoc,140,Proposition 50,,,Yes,24
+Modoc,140,State Assembly,1,REP,Brian Dahle,22
+Modoc,140,State Senate,1,DEM,Rob Rowen,14
+Modoc,140,State Senate,1,REP,Steven Baird,2
+Modoc,140,State Senate,1,REP,Ted Gaines,20
+Modoc,140,U.S. House,1,DEM,David Peterson,4
+Modoc,140,U.S. House,1,REP,Doug La Malfa,12
+Modoc,140,U.S. House,1,REP,Gary Allen Oxley,3
+Modoc,140,U.S. House,1,IND,Jeff Gerlach,1
+Modoc,140,U.S. House,1,DEM,Jim Reed,10
+Modoc,140,U.S. House,1,REP,Joe Montes,7
+Modoc,140,U.S. Senate,,IND,Don J. Grundmann,1
+Modoc,140,U.S. Senate,,REP,Don Krampe,1
+Modoc,140,U.S. Senate,,REP,Duf Sundheim,4
+Modoc,140,U.S. Senate,,IND,Eleanor García,1
+Modoc,140,U.S. Senate,,REP,Greg Conlon,2
+Modoc,140,U.S. Senate,,REP,Jerry J. Laws,1
+Modoc,140,U.S. Senate,,DEM,Kamala D. Harris,5
+Modoc,140,U.S. Senate,,DEM,Loretta L. Sanchez,5
+Modoc,140,U.S. Senate,,REP,Phil Wyman,11
+Modoc,140,U.S. Senate,,DEM,Steve Stokes,1
+Modoc,160,President,,AIP,Alan Spears,1
+Modoc,160,President,,REP,Ben Carson,2
+Modoc,160,President,,DEM,Bernie Sanders,5
+Modoc,160,President,,REP,Donald Trump,26
+Modoc,160,President,,DEM,Hillary Clinton,2
+Modoc,160,President,,REP,Jim Gilmore,1
+Modoc,160,President,,REP,Ted Cruz,1
+Modoc,160,Proposition 50,,,No,4
+Modoc,160,Proposition 50,,,Yes,33
+Modoc,160,State Assembly,1,REP,Brian Dahle,38
+Modoc,160,State Senate,1,DEM,Rob Rowen,4
+Modoc,160,State Senate,1,REP,Steven Baird,3
+Modoc,160,State Senate,1,REP,Ted Gaines,29
+Modoc,160,U.S. House,1,DEM,David Peterson,1
+Modoc,160,U.S. House,1,REP,Doug La Malfa,29
+Modoc,160,U.S. House,1,REP,Gary Allen Oxley,1
+Modoc,160,U.S. House,1,DEM,Jim Reed,3
+Modoc,160,U.S. House,1,REP,Joe Montes,7
+Modoc,160,U.S. Senate,,IND,Eleanor García,1
+Modoc,160,U.S. Senate,,REP,Greg Conlon,3
+Modoc,160,U.S. Senate,,REP,Jarrell Williamson,1
+Modoc,160,U.S. Senate,,IND,Jason Hanania,1
+Modoc,160,U.S. Senate,,REP,Jerry J. Laws,4
+Modoc,160,U.S. Senate,,PAF,John Thompson Parker,1
+Modoc,160,U.S. Senate,,DEM,Kamala D. Harris,2
+Modoc,160,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,160,U.S. Senate,,DEM,Loretta L. Sanchez,2
+Modoc,160,U.S. Senate,,REP,Phil Wyman,15
+Modoc,160,U.S. Senate,,DEM,Steve Stokes,1
+Modoc,160,U.S. Senate,,REP,Von Hougo,2
+Modoc,180,President,,AIP,Alan Spears,1
+Modoc,180,President,,REP,Ben Carson,7
+Modoc,180,President,,DEM,Bernie Sanders,42
+Modoc,180,President,,REP,Donald Trump,149
+Modoc,180,President,,LIB,Gary Johnson,1
+Modoc,180,President,,DEM,Hillary Clinton,24
+Modoc,180,President,,REP,Jim Gilmore,1
+Modoc,180,President,,REP,John R. Kasich,7
+Modoc,180,President,,DEM,Michael Steinberg,3
+Modoc,180,President,,DEM,Roque De La Fuente,1
+Modoc,180,President,,REP,Ted Cruz,13
+Modoc,180,Proposition 50,,,No,69
+Modoc,180,Proposition 50,,,Yes,207
+Modoc,180,State Assembly,1,REP,Brian Dahle,238
+Modoc,180,State Senate,1,DEM,Rob Rowen,58
+Modoc,180,State Senate,1,REP,Steven Baird,44
+Modoc,180,State Senate,1,REP,Ted Gaines,165
+Modoc,180,U.S. House,1,DEM,David Peterson,11
+Modoc,180,U.S. House,1,REP,Doug La Malfa,154
+Modoc,180,U.S. House,1,REP,Gary Allen Oxley,10
+Modoc,180,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,180,U.S. House,1,IND,Jeff Gerlach,2
+Modoc,180,U.S. House,1,DEM,Jim Reed,46
+Modoc,180,U.S. House,1,REP,Joe Montes,54
+Modoc,180,U.S. Senate,,REP,Don Krampe,7
+Modoc,180,U.S. Senate,,REP,Duf Sundheim,19
+Modoc,180,U.S. Senate,,LIB,Gail K. Lightfoot,10
+Modoc,180,U.S. Senate,,REP,George C. Yang,19
+Modoc,180,U.S. Senate,,REP,Greg Conlon,10
+Modoc,180,U.S. Senate,,DEM,Herbert G. Peters,3
+Modoc,180,U.S. Senate,,REP,Jarrell Williamson,4
+Modoc,180,U.S. Senate,,IND,Jason Hanania,1
+Modoc,180,U.S. Senate,,IND,Jason Kraus,1
+Modoc,180,U.S. Senate,,REP,Jerry J. Laws,20
+Modoc,180,U.S. Senate,,DEM,Kamala D. Harris,45
+Modoc,180,U.S. Senate,,REP,Karen Roseberry,6
+Modoc,180,U.S. Senate,,DEM,Loretta L. Sanchez,12
+Modoc,180,U.S. Senate,,DEM,Massie Munroe,5
+Modoc,180,U.S. Senate,,IND,Mike Beitiks,2
+Modoc,180,U.S. Senate,,IND,Paul Merritt,1
+Modoc,180,U.S. Senate,,REP,Phil Wyman,53
+Modoc,180,U.S. Senate,,DEM,President Cristina Grappo,2
+Modoc,180,U.S. Senate,,REP,Ron Unz,2
+Modoc,180,U.S. Senate,,IND,Scott A. Vineberg,1
+Modoc,180,U.S. Senate,,DEM,Steve Stokes,8
+Modoc,180,U.S. Senate,,REP,Thomas G. Del Beccaro,11
+Modoc,180,U.S. Senate,,REP,Tom Palzer,3
+Modoc,180,U.S. Senate,,REP,Von Hougo,4
+Modoc,200,President,,AIP,Alan Spears,1
+Modoc,200,President,,REP,Ben Carson,1
+Modoc,200,President,,DEM,Bernie Sanders,4
+Modoc,200,President,,REP,Donald Trump,40
+Modoc,200,President,,DEM,Hillary Clinton,13
+Modoc,200,President,,REP,John R. Kasich,4
+Modoc,200,President,,DEM,Keith Judd,1
+Modoc,200,President,,REP,Ted Cruz,6
+Modoc,200,President,,DEM,Willie Wilson,1
+Modoc,200,Proposition 50,,,No,17
+Modoc,200,Proposition 50,,,Yes,70
+Modoc,200,State Assembly,1,REP,Brian Dahle,76
+Modoc,200,State Senate,1,DEM,Rob Rowen,19
+Modoc,200,State Senate,1,REP,Steven Baird,12
+Modoc,200,State Senate,1,REP,Ted Gaines,49
+Modoc,200,U.S. House,1,DEM,David Peterson,4
+Modoc,200,U.S. House,1,REP,Doug La Malfa,47
+Modoc,200,U.S. House,1,REP,Gary Allen Oxley,3
+Modoc,200,U.S. House,1,REP,Gregory Cheadle,3
+Modoc,200,U.S. House,1,IND,Jeff Gerlach,1
+Modoc,200,U.S. House,1,DEM,Jim Reed,13
+Modoc,200,U.S. House,1,REP,Joe Montes,18
+Modoc,200,U.S. Senate,,IND,Clive Grey,1
+Modoc,200,U.S. Senate,,REP,Don Krampe,4
+Modoc,200,U.S. Senate,,REP,Duf Sundheim,9
+Modoc,200,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Modoc,200,U.S. Senate,,REP,George C. Yang,9
+Modoc,200,U.S. Senate,,REP,Greg Conlon,3
+Modoc,200,U.S. Senate,,IND,Jason Kraus,1
+Modoc,200,U.S. Senate,,REP,Jerry J. Laws,2
+Modoc,200,U.S. Senate,,DEM,Kamala D. Harris,12
+Modoc,200,U.S. Senate,,REP,Karen Roseberry,2
+Modoc,200,U.S. Senate,,DEM,Loretta L. Sanchez,9
+Modoc,200,U.S. Senate,,LIB,Mark Matthew Herd,1
+Modoc,200,U.S. Senate,,IND,Mike Beitiks,1
+Modoc,200,U.S. Senate,,GRN,Pamela Elizondo,2
+Modoc,200,U.S. Senate,,REP,Phil Wyman,11
+Modoc,200,U.S. Senate,,REP,Ron Unz,1
+Modoc,200,U.S. Senate,,DEM,Steve Stokes,3
+Modoc,200,U.S. Senate,,REP,Thomas G. Del Beccaro,4
+Modoc,200,U.S. Senate,,REP,Tom Palzer,3
+Modoc,200,U.S. Senate,,REP,Von Hougo,2
+Modoc,260,President,,AIP,Arthur Harris,2
+Modoc,260,President,,REP,Ben Carson,6
+Modoc,260,President,,DEM,Bernie Sanders,38
+Modoc,260,President,,REP,Donald Trump,110
+Modoc,260,President,,DEM,Henry Hewes,2
+Modoc,260,President,,DEM,Hillary Clinton,46
+Modoc,260,President,,AIP,James Hedges,1
+Modoc,260,President,,REP,John R. Kasich,5
+Modoc,260,President,,DEM,Roque De La Fuente,1
+Modoc,260,President,,REP,Ted Cruz,9
+Modoc,260,Proposition 50,,,No,59
+Modoc,260,Proposition 50,,,Yes,180
+Modoc,260,State Assembly,1,REP,Brian Dahle,207
+Modoc,260,State Senate,1,DEM,Rob Rowen,68
+Modoc,260,State Senate,1,REP,Steven Baird,30
+Modoc,260,State Senate,1,REP,Ted Gaines,135
+Modoc,260,U.S. House,1,DEM,David Peterson,5
+Modoc,260,U.S. House,1,REP,Doug La Malfa,127
+Modoc,260,U.S. House,1,REP,Gary Allen Oxley,8
+Modoc,260,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,260,U.S. House,1,IND,Jeff Gerlach,3
+Modoc,260,U.S. House,1,DEM,Jim Reed,51
+Modoc,260,U.S. House,1,REP,Joe Montes,55
+Modoc,260,U.S. Senate,,IND,Clive Grey,2
+Modoc,260,U.S. Senate,,REP,Don Krampe,5
+Modoc,260,U.S. Senate,,REP,Duf Sundheim,21
+Modoc,260,U.S. Senate,,IND,Eleanor García,1
+Modoc,260,U.S. Senate,,LIB,Gail K. Lightfoot,5
+Modoc,260,U.S. Senate,,REP,George C. Yang,18
+Modoc,260,U.S. Senate,,REP,Greg Conlon,12
+Modoc,260,U.S. Senate,,DEM,Herbert G. Peters,1
+Modoc,260,U.S. Senate,,REP,Jarrell Williamson,3
+Modoc,260,U.S. Senate,,REP,Jerry J. Laws,12
+Modoc,260,U.S. Senate,,DEM,Kamala D. Harris,34
+Modoc,260,U.S. Senate,,REP,Karen Roseberry,4
+Modoc,260,U.S. Senate,,DEM,Loretta L. Sanchez,27
+Modoc,260,U.S. Senate,,LIB,Mark Matthew Herd,2
+Modoc,260,U.S. Senate,,DEM,Massie Munroe,3
+Modoc,260,U.S. Senate,,IND,Mike Beitiks,7
+Modoc,260,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,260,U.S. Senate,,IND,Paul Merritt,4
+Modoc,260,U.S. Senate,,REP,Phil Wyman,45
+Modoc,260,U.S. Senate,,REP,Ron Unz,2
+Modoc,260,U.S. Senate,,DEM,Steve Stokes,6
+Modoc,260,U.S. Senate,,REP,Thomas G. Del Beccaro,9
+Modoc,260,U.S. Senate,,REP,Tom Palzer,1
+Modoc,260,U.S. Senate,,REP,Von Hougo,2
+Modoc,280,President,,REP,Ben Carson,4
+Modoc,280,President,,DEM,Bernie Sanders,27
+Modoc,280,President,,LIB,Darryl W. Perry,1
+Modoc,280,President,,REP,Donald Trump,59
+Modoc,280,President,,DEM,Henry Hewes,1
+Modoc,280,President,,DEM,Hillary Clinton,19
+Modoc,280,President,,REP,Jim Gilmore,1
+Modoc,280,President,,REP,John R. Kasich,5
+Modoc,280,President,,DEM,Keith Judd,1
+Modoc,280,President,,DEM,Michael Steinberg,1
+Modoc,280,President,,REP,Ted Cruz,7
+Modoc,280,President,,GRN,William Kreml,1
+Modoc,280,Proposition 50,,,No,28
+Modoc,280,Proposition 50,,,Yes,112
+Modoc,280,State Assembly,1,REP,Brian Dahle,117
+Modoc,280,State Senate,1,DEM,Rob Rowen,42
+Modoc,280,State Senate,1,REP,Steven Baird,27
+Modoc,280,State Senate,1,REP,Ted Gaines,71
+Modoc,280,U.S. House,1,DEM,David Peterson,10
+Modoc,280,U.S. House,1,REP,Doug La Malfa,71
+Modoc,280,U.S. House,1,REP,Gary Allen Oxley,1
+Modoc,280,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,280,U.S. House,1,IND,Jeff Gerlach,7
+Modoc,280,U.S. House,1,DEM,Jim Reed,34
+Modoc,280,U.S. House,1,REP,Joe Montes,25
+Modoc,280,U.S. Senate,,IND,Clive Grey,3
+Modoc,280,U.S. Senate,,REP,Don Krampe,4
+Modoc,280,U.S. Senate,,REP,Duf Sundheim,11
+Modoc,280,U.S. Senate,,DEM,Emory Rodgers,1
+Modoc,280,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Modoc,280,U.S. Senate,,REP,George C. Yang,9
+Modoc,280,U.S. Senate,,REP,Greg Conlon,11
+Modoc,280,U.S. Senate,,DEM,Herbert G. Peters,3
+Modoc,280,U.S. Senate,,REP,Jarrell Williamson,1
+Modoc,280,U.S. Senate,,REP,Jerry J. Laws,7
+Modoc,280,U.S. Senate,,DEM,Kamala D. Harris,21
+Modoc,280,U.S. Senate,,REP,Karen Roseberry,2
+Modoc,280,U.S. Senate,,IND,Ling Ling Shi,1
+Modoc,280,U.S. Senate,,DEM,Loretta L. Sanchez,10
+Modoc,280,U.S. Senate,,DEM,Massie Munroe,1
+Modoc,280,U.S. Senate,,IND,Mike Beitiks,2
+Modoc,280,U.S. Senate,,REP,Phil Wyman,22
+Modoc,280,U.S. Senate,,DEM,President Cristina Grappo,1
+Modoc,280,U.S. Senate,,REP,Ron Unz,1
+Modoc,280,U.S. Senate,,DEM,Steve Stokes,8
+Modoc,280,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Modoc,280,U.S. Senate,,IND,Tim Gildersleeve,3
+Modoc,280,U.S. Senate,,REP,Tom Palzer,2
+Modoc,280,U.S. Senate,,REP,Von Hougo,4
+Modoc,320,President,,AIP,Alan Spears,1
+Modoc,320,President,,REP,Ben Carson,4
+Modoc,320,President,,DEM,Bernie Sanders,19
+Modoc,320,President,,GRN,Darryl Cherney,1
+Modoc,320,President,,REP,Donald Trump,51
+Modoc,320,President,,DEM,Henry Hewes,1
+Modoc,320,President,,DEM,Hillary Clinton,28
+Modoc,320,President,,REP,John R. Kasich,7
+Modoc,320,President,,DEM,Keith Judd,1
+Modoc,320,President,,GRN,Kent Mesplay,1
+Modoc,320,President,,LIB,Rhett White Feather Smith,1
+Modoc,320,President,,REP,Ted Cruz,3
+Modoc,320,President,,DEM,Willie Wilson,1
+Modoc,320,Proposition 50,,,No,29
+Modoc,320,Proposition 50,,,Yes,113
+Modoc,320,State Assembly,1,REP,Brian Dahle,115
+Modoc,320,State Senate,1,DEM,Rob Rowen,46
+Modoc,320,State Senate,1,REP,Steven Baird,16
+Modoc,320,State Senate,1,REP,Ted Gaines,78
+Modoc,320,U.S. House,1,DEM,David Peterson,7
+Modoc,320,U.S. House,1,REP,Doug La Malfa,55
+Modoc,320,U.S. House,1,REP,Gary Allen Oxley,9
+Modoc,320,U.S. House,1,REP,Gregory Cheadle,2
+Modoc,320,U.S. House,1,DEM,Jim Reed,45
+Modoc,320,U.S. House,1,REP,Joe Montes,30
+Modoc,320,U.S. Senate,,IND,Clive Grey,3
+Modoc,320,U.S. Senate,,REP,Don Krampe,2
+Modoc,320,U.S. Senate,,REP,Duf Sundheim,9
+Modoc,320,U.S. Senate,,LIB,Gail K. Lightfoot,5
+Modoc,320,U.S. Senate,,REP,George C. Yang,11
+Modoc,320,U.S. Senate,,REP,Greg Conlon,4
+Modoc,320,U.S. Senate,,REP,Jerry J. Laws,12
+Modoc,320,U.S. Senate,,DEM,Kamala D. Harris,31
+Modoc,320,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,320,U.S. Senate,,DEM,Loretta L. Sanchez,11
+Modoc,320,U.S. Senate,,DEM,Massie Munroe,3
+Modoc,320,U.S. Senate,,IND,Mike Beitiks,1
+Modoc,320,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,320,U.S. Senate,,IND,Paul Merritt,1
+Modoc,320,U.S. Senate,,REP,Phil Wyman,17
+Modoc,320,U.S. Senate,,REP,Ron Unz,2
+Modoc,320,U.S. Senate,,DEM,Steve Stokes,4
+Modoc,320,U.S. Senate,,REP,Thomas G. Del Beccaro,10
+Modoc,320,U.S. Senate,,IND,Tim Gildersleeve,1
+Modoc,320,U.S. Senate,,REP,Tom Palzer,1
+Modoc,320,U.S. Senate,,REP,Von Hougo,1
+Modoc,360,President,,REP,Ben Carson,3
+Modoc,360,President,,DEM,Bernie Sanders,7
+Modoc,360,President,,REP,Donald Trump,47
+Modoc,360,President,,DEM,Hillary Clinton,4
+Modoc,360,President,,REP,Ted Cruz,3
+Modoc,360,Proposition 50,,,No,17
+Modoc,360,Proposition 50,,,Yes,52
+Modoc,360,State Assembly,1,REP,Brian Dahle,60
+Modoc,360,State Senate,1,DEM,Rob Rowen,7
+Modoc,360,State Senate,1,REP,Steven Baird,11
+Modoc,360,State Senate,1,REP,Ted Gaines,53
+Modoc,360,U.S. House,1,DEM,David Peterson,3
+Modoc,360,U.S. House,1,REP,Doug La Malfa,44
+Modoc,360,U.S. House,1,DEM,Jim Reed,8
+Modoc,360,U.S. House,1,REP,Joe Montes,21
+Modoc,360,U.S. Senate,,REP,Don Krampe,2
+Modoc,360,U.S. Senate,,REP,Duf Sundheim,12
+Modoc,360,U.S. Senate,,REP,George C. Yang,1
+Modoc,360,U.S. Senate,,REP,Greg Conlon,5
+Modoc,360,U.S. Senate,,REP,Jarrell Williamson,2
+Modoc,360,U.S. Senate,,DEM,Kamala D. Harris,11
+Modoc,360,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,360,U.S. Senate,,DEM,Loretta L. Sanchez,3
+Modoc,360,U.S. Senate,,DEM,Massie Munroe,1
+Modoc,360,U.S. Senate,,REP,Phil Wyman,13
+Modoc,360,U.S. Senate,,DEM,Steve Stokes,4
+Modoc,360,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Modoc,360,U.S. Senate,,REP,Tom Palzer,1
+Modoc,360,U.S. Senate,,REP,Von Hougo,2
+Modoc,380,President,,REP,Ben Carson,2
+Modoc,380,President,,DEM,Bernie Sanders,6
+Modoc,380,President,,REP,Donald Trump,37
+Modoc,380,President,,DEM,Hillary Clinton,5
+Modoc,380,President,,REP,John R. Kasich,3
+Modoc,380,President,,REP,Ted Cruz,3
+Modoc,380,Proposition 50,,,No,11
+Modoc,380,Proposition 50,,,Yes,43
+Modoc,380,State Assembly,1,REP,Brian Dahle,53
+Modoc,380,State Senate,1,DEM,Rob Rowen,7
+Modoc,380,State Senate,1,REP,Steven Baird,6
+Modoc,380,State Senate,1,REP,Ted Gaines,43
+Modoc,380,U.S. House,1,REP,Doug La Malfa,38
+Modoc,380,U.S. House,1,IND,Jeff Gerlach,1
+Modoc,380,U.S. House,1,DEM,Jim Reed,7
+Modoc,380,U.S. House,1,REP,Joe Montes,11
+Modoc,380,U.S. Senate,,REP,Don Krampe,2
+Modoc,380,U.S. Senate,,REP,Duf Sundheim,8
+Modoc,380,U.S. Senate,,REP,George C. Yang,4
+Modoc,380,U.S. Senate,,REP,Greg Conlon,2
+Modoc,380,U.S. Senate,,IND,Jason Kraus,1
+Modoc,380,U.S. Senate,,REP,Jerry J. Laws,3
+Modoc,380,U.S. Senate,,DEM,Kamala D. Harris,8
+Modoc,380,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,380,U.S. Senate,,DEM,Loretta L. Sanchez,4
+Modoc,380,U.S. Senate,,IND,Paul Merritt,2
+Modoc,380,U.S. Senate,,REP,Phil Wyman,9
+Modoc,380,U.S. Senate,,REP,Ron Unz,1
+Modoc,380,U.S. Senate,,REP,Thomas G. Del Beccaro,3
+Modoc,380,U.S. Senate,,REP,Tom Palzer,1
+Modoc,380,U.S. Senate,,REP,Von Hougo,1
+Modoc,400,President,,REP,Ben Carson,5
+Modoc,400,President,,DEM,Bernie Sanders,18
+Modoc,400,President,,REP,Donald Trump,133
+Modoc,400,President,,DEM,Hillary Clinton,11
+Modoc,400,President,,REP,Jim Gilmore,1
+Modoc,400,President,,REP,John R. Kasich,6
+Modoc,400,President,,DEM,Roque De La Fuente,1
+Modoc,400,President,,REP,Ted Cruz,8
+Modoc,400,President,,DEM,Willie Wilson,1
+Modoc,400,Proposition 50,,,No,45
+Modoc,400,Proposition 50,,,Yes,151
+Modoc,400,State Assembly,1,REP,Brian Dahle,174
+Modoc,400,State Senate,1,DEM,Rob Rowen,17
+Modoc,400,State Senate,1,REP,Steven Baird,29
+Modoc,400,State Senate,1,REP,Ted Gaines,142
+Modoc,400,U.S. House,1,DEM,David Peterson,1
+Modoc,400,U.S. House,1,REP,Doug La Malfa,114
+Modoc,400,U.S. House,1,REP,Gary Allen Oxley,4
+Modoc,400,U.S. House,1,DEM,Jim Reed,27
+Modoc,400,U.S. House,1,REP,Joe Montes,54
+Modoc,400,U.S. Senate,,IND,Clive Grey,1
+Modoc,400,U.S. Senate,,IND,Don J. Grundmann,1
+Modoc,400,U.S. Senate,,REP,Don Krampe,10
+Modoc,400,U.S. Senate,,REP,Duf Sundheim,18
+Modoc,400,U.S. Senate,,IND,Eleanor García,1
+Modoc,400,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Modoc,400,U.S. Senate,,REP,George C. Yang,9
+Modoc,400,U.S. Senate,,REP,Greg Conlon,6
+Modoc,400,U.S. Senate,,IND,Jason Hanania,1
+Modoc,400,U.S. Senate,,REP,Jerry J. Laws,11
+Modoc,400,U.S. Senate,,DEM,Kamala D. Harris,19
+Modoc,400,U.S. Senate,,REP,Karen Roseberry,2
+Modoc,400,U.S. Senate,,DEM,Loretta L. Sanchez,11
+Modoc,400,U.S. Senate,,DEM,Massie Munroe,1
+Modoc,400,U.S. Senate,,IND,Paul Merritt,2
+Modoc,400,U.S. Senate,,REP,Phil Wyman,52
+Modoc,400,U.S. Senate,,REP,Ron Unz,1
+Modoc,400,U.S. Senate,,DEM,Steve Stokes,3
+Modoc,400,U.S. Senate,,REP,Thomas G. Del Beccaro,17
+Modoc,400,U.S. Senate,,IND,Tim Gildersleeve,1
+Modoc,400,U.S. Senate,,REP,Tom Palzer,3
+Modoc,400,U.S. Senate,,REP,Von Hougo,3
+Modoc,410,President,,AIP,Alan Spears,1
+Modoc,410,President,,LIB,Austin Petersen,1
+Modoc,410,President,,REP,Ben Carson,2
+Modoc,410,President,,DEM,Bernie Sanders,19
+Modoc,410,President,,REP,Donald Trump,57
+Modoc,410,President,,DEM,Henry Hewes,1
+Modoc,410,President,,DEM,Hillary Clinton,23
+Modoc,410,President,,AIP,James Hedges,1
+Modoc,410,President,,REP,John R. Kasich,3
+Modoc,410,President,,DEM,Michael Steinberg,1
+Modoc,410,President,,AIP,Robert Ornelas,1
+Modoc,410,President,,REP,Ted Cruz,11
+Modoc,410,President,,DEM,Willie Wilson,1
+Modoc,410,Proposition 50,,,No,31
+Modoc,410,Proposition 50,,,Yes,116
+Modoc,410,State Assembly,1,REP,Brian Dahle,116
+Modoc,410,State Senate,1,DEM,Rob Rowen,45
+Modoc,410,State Senate,1,REP,Steven Baird,22
+Modoc,410,State Senate,1,REP,Ted Gaines,85
+Modoc,410,U.S. House,1,DEM,David Peterson,9
+Modoc,410,U.S. House,1,REP,Doug La Malfa,76
+Modoc,410,U.S. House,1,REP,Gary Allen Oxley,9
+Modoc,410,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,410,U.S. House,1,IND,Jeff Gerlach,5
+Modoc,410,U.S. House,1,DEM,Jim Reed,31
+Modoc,410,U.S. House,1,REP,Joe Montes,24
+Modoc,410,U.S. Senate,,IND,Clive Grey,3
+Modoc,410,U.S. Senate,,REP,Don Krampe,5
+Modoc,410,U.S. Senate,,REP,Duf Sundheim,7
+Modoc,410,U.S. Senate,,IND,Eleanor García,1
+Modoc,410,U.S. Senate,,DEM,Emory Rodgers,2
+Modoc,410,U.S. Senate,,LIB,Gail K. Lightfoot,6
+Modoc,410,U.S. Senate,,IND,Gar Myers,1
+Modoc,410,U.S. Senate,,REP,George C. Yang,8
+Modoc,410,U.S. Senate,,REP,Greg Conlon,15
+Modoc,410,U.S. Senate,,DEM,Herbert G. Peters,2
+Modoc,410,U.S. Senate,,REP,Jarrell Williamson,1
+Modoc,410,U.S. Senate,,IND,Jason Kraus,1
+Modoc,410,U.S. Senate,,REP,Jerry J. Laws,4
+Modoc,410,U.S. Senate,,DEM,Kamala D. Harris,27
+Modoc,410,U.S. Senate,,REP,Karen Roseberry,5
+Modoc,410,U.S. Senate,,DEM,Loretta L. Sanchez,13
+Modoc,410,U.S. Senate,,DEM,Massie Munroe,3
+Modoc,410,U.S. Senate,,IND,Mike Beitiks,1
+Modoc,410,U.S. Senate,,GRN,Pamela Elizondo,3
+Modoc,410,U.S. Senate,,REP,Phil Wyman,23
+Modoc,410,U.S. Senate,,DEM,President Cristina Grappo,2
+Modoc,410,U.S. Senate,,REP,Ron Unz,1
+Modoc,410,U.S. Senate,,DEM,Steve Stokes,5
+Modoc,410,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Modoc,410,U.S. Senate,,REP,Tom Palzer,5
+Modoc,410,U.S. Senate,,REP,Von Hougo,3
+Modoc,420,President,,REP,Ben Carson,2
+Modoc,420,President,,DEM,Bernie Sanders,8
+Modoc,420,President,,REP,Donald Trump,38
+Modoc,420,President,,DEM,Hillary Clinton,7
+Modoc,420,President,,AIP,James Hedges,1
+Modoc,420,President,,GRN,Jill Stein,1
+Modoc,420,President,,REP,Jim Gilmore,2
+Modoc,420,President,,REP,Ted Cruz,3
+Modoc,420,President,,DEM,Willie Wilson,2
+Modoc,420,Proposition 50,,,No,16
+Modoc,420,Proposition 50,,,Yes,57
+Modoc,420,State Assembly,1,REP,Brian Dahle,61
+Modoc,420,State Senate,1,DEM,Rob Rowen,13
+Modoc,420,State Senate,1,REP,Steven Baird,10
+Modoc,420,State Senate,1,REP,Ted Gaines,47
+Modoc,420,U.S. House,1,DEM,David Peterson,3
+Modoc,420,U.S. House,1,REP,Doug La Malfa,48
+Modoc,420,U.S. House,1,REP,Gary Allen Oxley,2
+Modoc,420,U.S. House,1,IND,Jeff Gerlach,2
+Modoc,420,U.S. House,1,DEM,Jim Reed,6
+Modoc,420,U.S. House,1,REP,Joe Montes,16
+Modoc,420,U.S. Senate,,REP,Don Krampe,1
+Modoc,420,U.S. Senate,,REP,Duf Sundheim,4
+Modoc,420,U.S. Senate,,REP,George C. Yang,3
+Modoc,420,U.S. Senate,,REP,Greg Conlon,3
+Modoc,420,U.S. Senate,,REP,Jarrell Williamson,3
+Modoc,420,U.S. Senate,,IND,Jason Kraus,1
+Modoc,420,U.S. Senate,,REP,Jerry J. Laws,2
+Modoc,420,U.S. Senate,,DEM,Kamala D. Harris,4
+Modoc,420,U.S. Senate,,REP,Karen Roseberry,2
+Modoc,420,U.S. Senate,,IND,Ling Ling Shi,1
+Modoc,420,U.S. Senate,,DEM,Loretta L. Sanchez,6
+Modoc,420,U.S. Senate,,IND,Mike Beitiks,1
+Modoc,420,U.S. Senate,,REP,Phil Wyman,20
+Modoc,420,U.S. Senate,,DEM,Steve Stokes,1
+Modoc,420,U.S. Senate,,REP,Thomas G. Del Beccaro,3
+Modoc,420,U.S. Senate,,IND,Tim Gildersleeve,1
+Modoc,420,U.S. Senate,,REP,Tom Palzer,2
+Modoc,420,U.S. Senate,,REP,Von Hougo,1
+Modoc,440,President,,AIP,Alan Spears,3
+Modoc,440,President,,AIP,Arthur Harris,1
+Modoc,440,President,,REP,Ben Carson,6
+Modoc,440,President,,DEM,Bernie Sanders,14
+Modoc,440,President,,REP,Donald Trump,62
+Modoc,440,President,,DEM,Henry Hewes,1
+Modoc,440,President,,DEM,Hillary Clinton,11
+Modoc,440,President,,LIB,John McAfee,1
+Modoc,440,President,,REP,John R. Kasich,2
+Modoc,440,President,,DEM,Michael Steinberg,1
+Modoc,440,President,,REP,Ted Cruz,9
+Modoc,440,President,,DEM,Willie Wilson,1
+Modoc,440,Proposition 50,,,No,25
+Modoc,440,Proposition 50,,,Yes,100
+Modoc,440,State Assembly,1,REP,Brian Dahle,105
+Modoc,440,State Senate,1,DEM,Rob Rowen,25
+Modoc,440,State Senate,1,REP,Steven Baird,13
+Modoc,440,State Senate,1,REP,Ted Gaines,84
+Modoc,440,U.S. House,1,DEM,David Peterson,3
+Modoc,440,U.S. House,1,REP,Doug La Malfa,80
+Modoc,440,U.S. House,1,REP,Gary Allen Oxley,1
+Modoc,440,U.S. House,1,REP,Gregory Cheadle,1
+Modoc,440,U.S. House,1,IND,Jeff Gerlach,1
+Modoc,440,U.S. House,1,DEM,Jim Reed,20
+Modoc,440,U.S. House,1,REP,Joe Montes,25
+Modoc,440,U.S. Senate,,IND,Clive Grey,5
+Modoc,440,U.S. Senate,,REP,Don Krampe,4
+Modoc,440,U.S. Senate,,REP,Duf Sundheim,8
+Modoc,440,U.S. Senate,,IND,Eleanor García,1
+Modoc,440,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Modoc,440,U.S. Senate,,REP,George C. Yang,7
+Modoc,440,U.S. Senate,,REP,Greg Conlon,3
+Modoc,440,U.S. Senate,,IND,Jason Kraus,1
+Modoc,440,U.S. Senate,,REP,Jerry J. Laws,4
+Modoc,440,U.S. Senate,,PAF,John Thompson Parker,1
+Modoc,440,U.S. Senate,,DEM,Kamala D. Harris,19
+Modoc,440,U.S. Senate,,REP,Karen Roseberry,1
+Modoc,440,U.S. Senate,,DEM,Loretta L. Sanchez,7
+Modoc,440,U.S. Senate,,LIB,Mark Matthew Herd,1
+Modoc,440,U.S. Senate,,REP,Phil Wyman,26
+Modoc,440,U.S. Senate,,REP,Ron Unz,1
+Modoc,440,U.S. Senate,,DEM,Steve Stokes,1
+Modoc,440,U.S. Senate,,REP,Thomas G. Del Beccaro,9
+Modoc,440,U.S. Senate,,REP,Tom Palzer,1
+Modoc,440,U.S. Senate,,REP,Von Hougo,3
+Modoc,460,President,,REP,Ben Carson,1
+Modoc,460,President,,DEM,Bernie Sanders,13
+Modoc,460,President,,REP,Donald Trump,69
+Modoc,460,President,,DEM,Henry Hewes,1
+Modoc,460,President,,DEM,Hillary Clinton,2
+Modoc,460,President,,AIP,James Hedges,1
+Modoc,460,President,,REP,John R. Kasich,4
+Modoc,460,President,,DEM,Michael Steinberg,2
+Modoc,460,President,,REP,Ted Cruz,3
+Modoc,460,Proposition 50,,,No,22
+Modoc,460,Proposition 50,,,Yes,84
+Modoc,460,State Assembly,1,REP,Brian Dahle,102
+Modoc,460,State Senate,1,DEM,Rob Rowen,23
+Modoc,460,State Senate,1,REP,Steven Baird,10
+Modoc,460,State Senate,1,REP,Ted Gaines,78
+Modoc,460,U.S. House,1,DEM,David Peterson,6
+Modoc,460,U.S. House,1,REP,Doug La Malfa,64
+Modoc,460,U.S. House,1,REP,Gary Allen Oxley,1
+Modoc,460,U.S. House,1,DEM,Jim Reed,10
+Modoc,460,U.S. House,1,REP,Joe Montes,34
+Modoc,460,U.S. Senate,,IND,Clive Grey,2
+Modoc,460,U.S. Senate,,REP,Don Krampe,3
+Modoc,460,U.S. Senate,,REP,Duf Sundheim,10
+Modoc,460,U.S. Senate,,DEM,Emory Rodgers,1
+Modoc,460,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Modoc,460,U.S. Senate,,REP,George C. Yang,4
+Modoc,460,U.S. Senate,,REP,Greg Conlon,15
+Modoc,460,U.S. Senate,,REP,Jarrell Williamson,3
+Modoc,460,U.S. Senate,,IND,Jason Hanania,2
+Modoc,460,U.S. Senate,,REP,Jerry J. Laws,4
+Modoc,460,U.S. Senate,,DEM,Kamala D. Harris,11
+Modoc,460,U.S. Senate,,IND,Ling Ling Shi,1
+Modoc,460,U.S. Senate,,DEM,Loretta L. Sanchez,4
+Modoc,460,U.S. Senate,,GRN,Pamela Elizondo,3
+Modoc,460,U.S. Senate,,IND,Paul Merritt,1
+Modoc,460,U.S. Senate,,REP,Phil Wyman,23
+Modoc,460,U.S. Senate,,REP,Ron Unz,1
+Modoc,460,U.S. Senate,,IND,Scott A. Vineberg,1
+Modoc,460,U.S. Senate,,REP,Thomas G. Del Beccaro,4
+Modoc,460,U.S. Senate,,REP,Tom Palzer,8
+Modoc,460,U.S. Senate,,REP,Von Hougo,1
+Modoc,480,President,,REP,Ben Carson,2
+Modoc,480,President,,DEM,Bernie Sanders,2
+Modoc,480,President,,REP,Donald Trump,19
+Modoc,480,President,,DEM,Hillary Clinton,8
+Modoc,480,President,,REP,John R. Kasich,2
+Modoc,480,President,,DEM,Roque De La Fuente,1
+Modoc,480,Proposition 50,,,No,8
+Modoc,480,Proposition 50,,,Yes,34
+Modoc,480,State Assembly,1,REP,Brian Dahle,39
+Modoc,480,State Senate,1,DEM,Rob Rowen,10
+Modoc,480,State Senate,1,REP,Steven Baird,8
+Modoc,480,State Senate,1,REP,Ted Gaines,23
+Modoc,480,U.S. House,1,DEM,David Peterson,2
+Modoc,480,U.S. House,1,REP,Doug La Malfa,27
+Modoc,480,U.S. House,1,DEM,Jim Reed,9
+Modoc,480,U.S. House,1,REP,Joe Montes,5
+Modoc,480,U.S. Senate,,REP,Duf Sundheim,4
+Modoc,480,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Modoc,480,U.S. Senate,,REP,Greg Conlon,2
+Modoc,480,U.S. Senate,,REP,Jerry J. Laws,3
+Modoc,480,U.S. Senate,,DEM,Kamala D. Harris,6
+Modoc,480,U.S. Senate,,DEM,Loretta L. Sanchez,4
+Modoc,480,U.S. Senate,,GRN,Pamela Elizondo,1
+Modoc,480,U.S. Senate,,IND,Paul Merritt,2
+Modoc,480,U.S. Senate,,REP,Phil Wyman,12
+Modoc,480,U.S. Senate,,REP,Ron Unz,1
+Modoc,480,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Modoc,500,President,,REP,Ben Carson,12
+Modoc,500,President,,DEM,Bernie Sanders,21
+Modoc,500,President,,LIB,Darryl W. Perry,1
+Modoc,500,President,,REP,Donald Trump,106
+Modoc,500,President,,DEM,Hillary Clinton,10
+Modoc,500,President,,REP,Jim Gilmore,3
+Modoc,500,President,,REP,John R. Kasich,4
+Modoc,500,President,,LIB,Joy Waymire,2
+Modoc,500,President,,DEM,Michael Steinberg,2
+Modoc,500,President,,REP,Ted Cruz,9
+Modoc,500,President,,AIP,Wiley Drake,1
+Modoc,500,President,,DEM,Willie Wilson,1
+Modoc,500,Proposition 50,,,No,45
+Modoc,500,Proposition 50,,,Yes,136
+Modoc,500,State Assembly,1,REP,Brian Dahle,173
+Modoc,500,State Senate,1,DEM,Rob Rowen,21
+Modoc,500,State Senate,1,REP,Steven Baird,19
+Modoc,500,State Senate,1,REP,Ted Gaines,136
+Modoc,500,U.S. House,1,DEM,David Peterson,6
+Modoc,500,U.S. House,1,REP,Doug La Malfa,143
+Modoc,500,U.S. House,1,REP,Gary Allen Oxley,5
+Modoc,500,U.S. House,1,REP,Gregory Cheadle,2
+Modoc,500,U.S. House,1,IND,Jeff Gerlach,1
+Modoc,500,U.S. House,1,DEM,Jim Reed,11
+Modoc,500,U.S. House,1,REP,Joe Montes,20
+Modoc,500,U.S. Senate,,IND,Clive Grey,3
+Modoc,500,U.S. Senate,,IND,Don J. Grundmann,2
+Modoc,500,U.S. Senate,,REP,Don Krampe,4
+Modoc,500,U.S. Senate,,REP,Duf Sundheim,20
+Modoc,500,U.S. Senate,,LIB,Gail K. Lightfoot,4
+Modoc,500,U.S. Senate,,REP,George C. Yang,8
+Modoc,500,U.S. Senate,,REP,Greg Conlon,12
+Modoc,500,U.S. Senate,,REP,Jerry J. Laws,9
+Modoc,500,U.S. Senate,,PAF,John Thompson Parker,1
+Modoc,500,U.S. Senate,,DEM,Kamala D. Harris,12
+Modoc,500,U.S. Senate,,REP,Karen Roseberry,2
+Modoc,500,U.S. Senate,,DEM,Loretta L. Sanchez,14
+Modoc,500,U.S. Senate,,LIB,Mark Matthew Herd,1
+Modoc,500,U.S. Senate,,IND,Mike Beitiks,1
+Modoc,500,U.S. Senate,,IND,Paul Merritt,1
+Modoc,500,U.S. Senate,,REP,Phil Wyman,53
+Modoc,500,U.S. Senate,,REP,Ron Unz,2
+Modoc,500,U.S. Senate,,IND,Scott A. Vineberg,1
+Modoc,500,U.S. Senate,,DEM,Steve Stokes,1
+Modoc,500,U.S. Senate,,REP,Thomas G. Del Beccaro,20
+Modoc,500,U.S. Senate,,REP,Tom Palzer,3
+Modoc,500,U.S. Senate,,REP,Von Hougo,3

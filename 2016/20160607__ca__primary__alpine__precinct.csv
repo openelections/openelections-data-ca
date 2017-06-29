@@ -1,61 +1,16 @@
 county,precinct,office,district,party,candidate,votes
-Alpine,1,President,,AI,Alan Spears,0
-Alpine,1,President,,DEM,Andrew D. Basiago,0
-Alpine,1,President,,AI,Arthur Harris,0
-Alpine,1,President,,LIB,Austin Petersen,0
 Alpine,1,President,,REP,Ben Carson,1
 Alpine,1,President,,DEM,Bernie Sanders,41
-Alpine,1,President,,LIB,Cecil Ince,0
-Alpine,1,President,,GRN,Darryl Cherney,0
-Alpine,1,President,,LIB,Darryl W. Perry,0
-Alpine,1,President,,REP,David P. Thomson,0
-Alpine,1,President,,LIB,Derrick M. Reid,0
-Alpine,1,President,,REP,Donald J. Gonzales,0
 Alpine,1,President,,REP,Donald Trump,30
-Alpine,1,President,,DEM,Doug Terry,0
-Alpine,1,President,,REP,Frederic Vidal,0
-Alpine,1,President,,LIB,Gary Johnson,0
-Alpine,1,President,,PF,Gloria Estela La Riva,0
-Alpine,1,President,,DEM,Henry Hewes,0
 Alpine,1,President,,DEM,Hillary Clinton,20
-Alpine,1,President,,DEM,Ignació León Nuñez,0
-Alpine,1,President,,AI,J.R. Myers,0
-Alpine,1,President,,LIB,"Jack Robinson, Jr.",0
-Alpine,1,President,,REP,James Alexander-Pace,0
-Alpine,1,President,,REP,James Germalio,0
-Alpine,1,President,,AI,James Hedges,0
-Alpine,1,President,,REP,James Orlando Ogle III,0
-Alpine,1,President,,GRN,Jill Stein,0
-Alpine,1,President,,REP,Jim Gilmore,0
-Alpine,1,President,,REP,Joann Breivogel,0
-Alpine,1,President,,REP,John Dowell,0
-Alpine,1,President,,LIB,John Hale,0
-Alpine,1,President,,LIB,John McAfee,0
 Alpine,1,President,,REP,John R. Kasich,2
-Alpine,1,President,,LIB,Joy Waymire,0
-Alpine,1,President,,DEM,Keith Judd,0
-Alpine,1,President,,GRN,Kent Mesplay,0
-Alpine,1,President,,DEM,Kevin M. Moreau,0
-Alpine,1,President,,PF,Lynn S. Kahn,0
-Alpine,1,President,,LIB,Marc Feldman,0
-Alpine,1,President,,DEM,Michael Steinberg,0
-Alpine,1,President,,PF,Monica Moorehead,0
-Alpine,1,President,,LIB,Rhett White Feather Smith,0
-Alpine,1,President,,AI,Robert Ornelas,0
-Alpine,1,President,,DEM,Roque De La Fuente,0
-Alpine,1,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Alpine,1,President,,LIB,Steve Kerbel,0
 Alpine,1,President,,REP,Ted Cruz,3
-Alpine,1,President,,AI,Thomas Hoefling,1
-Alpine,1,President,,REP,Troy Hugh Southern,0
-Alpine,1,President,,REP,Victor Williams,0
-Alpine,1,President,,AI,Wiley Drake,0
-Alpine,1,President,,GRN,William Kreml,0
-Alpine,1,President,,DEM,Willie Felix Carter,0
-Alpine,1,President,,DEM,Willie Wilson,0
+Alpine,1,President,,AIP,Thomas Hoefling,1
+Alpine,1,Proposition 50,,,No,16
+Alpine,1,Proposition 50,,,Yes,78
 Alpine,1,State Assembly,5,REP,Frank Bigelow,44
 Alpine,1,State Assembly,5,DEM,Kai Ellsworth,24
-Alpine,1,State Assembly,5,NPP,Mark Belden,10
+Alpine,1,State Assembly,5,IND,Mark Belden,10
 Alpine,1,State Assembly,5,DEM,Robert Carabas,23
 Alpine,1,State Senate,1,DEM,Rob Rowen,56
 Alpine,1,State Senate,1,REP,Steven Baird,7
@@ -63,100 +18,41 @@ Alpine,1,State Senate,1,REP,Ted Gaines,37
 Alpine,1,U.S. House,4,DEM,Robert W. Derlet,37
 Alpine,1,U.S. House,4,DEM,Sean White,19
 Alpine,1,U.S. House,4,REP,Tom McClintock,46
-Alpine,1,U.S. Senate,,REP,Alexis Stuart,0
-Alpine,1,U.S. Senate,,REP,Billy Falling,0
-Alpine,1,U.S. Senate,,NPP,Clive Grey,0
-Alpine,1,U.S. Senate,,NPP,Don J. Grundmann,1
+Alpine,1,U.S. Senate,,IND,Don J. Grundmann,1
 Alpine,1,U.S. Senate,,REP,Don Krampe,1
 Alpine,1,U.S. Senate,,REP,Duf Sundheim,4
-Alpine,1,U.S. Senate,,NPP,Eleanor García,0
-Alpine,1,U.S. Senate,,DEM,Emory Rodgers,0
 Alpine,1,U.S. Senate,,LIB,Gail K. Lightfoot,3
-Alpine,1,U.S. Senate,,NPP,Gar Myers,0
 Alpine,1,U.S. Senate,,REP,George C. Yang,1
 Alpine,1,U.S. Senate,,REP,Greg Conlon,6
-Alpine,1,U.S. Senate,,DEM,Herbert G. Peters,0
-Alpine,1,U.S. Senate,,REP,Jarrell Williamson,0
-Alpine,1,U.S. Senate,,NPP,Jason Hanania,1
-Alpine,1,U.S. Senate,,NPP,Jason Kraus,0
+Alpine,1,U.S. Senate,,IND,Jason Hanania,1
 Alpine,1,U.S. Senate,,REP,Jerry J. Laws,1
-Alpine,1,U.S. Senate,,PF,John Thompson Parker,0
 Alpine,1,U.S. Senate,,DEM,Kamala D. Harris,38
 Alpine,1,U.S. Senate,,REP,Karen Roseberry,2
-Alpine,1,U.S. Senate,,NPP,Ling Ling Shi,0
 Alpine,1,U.S. Senate,,DEM,Loretta L. Sanchez,14
 Alpine,1,U.S. Senate,,LIB,Mark Matthew Herd,2
 Alpine,1,U.S. Senate,,DEM,Massie Munroe,1
-Alpine,1,U.S. Senate,,NPP,Mike Beitiks,0
 Alpine,1,U.S. Senate,,GRN,Pamela Elizondo,5
-Alpine,1,U.S. Senate,,NPP,Paul Merritt,2
+Alpine,1,U.S. Senate,,IND,Paul Merritt,2
 Alpine,1,U.S. Senate,,REP,Phil Wyman,7
-Alpine,1,U.S. Senate,,DEM,President Cristina Grappo,0
-Alpine,1,U.S. Senate,,NPP,Ric M. Llewellyn,0
-Alpine,1,U.S. Senate,,REP,Ron Unz,0
-Alpine,1,U.S. Senate,,NPP,Scott A. Vineberg,0
 Alpine,1,U.S. Senate,,DEM,Steve Stokes,2
 Alpine,1,U.S. Senate,,REP,Thomas G. Del Beccaro,6
-Alpine,1,U.S. Senate,,NPP,Tim Gildersleeve,0
 Alpine,1,U.S. Senate,,REP,Tom Palzer,1
 Alpine,1,U.S. Senate,,REP,Von Hougo,4
-Alpine,2,President,,AI,Alan Spears,0
-Alpine,2,President,,DEM,Andrew D. Basiago,0
-Alpine,2,President,,AI,Arthur Harris,0
-Alpine,2,President,,LIB,Austin Petersen,0
 Alpine,2,President,,REP,Ben Carson,1
 Alpine,2,President,,DEM,Bernie Sanders,29
-Alpine,2,President,,LIB,Cecil Ince,0
 Alpine,2,President,,GRN,Darryl Cherney,1
-Alpine,2,President,,LIB,Darryl W. Perry,0
-Alpine,2,President,,REP,David P. Thomson,0
-Alpine,2,President,,LIB,Derrick M. Reid,0
-Alpine,2,President,,REP,Donald J. Gonzales,0
 Alpine,2,President,,REP,Donald Trump,27
-Alpine,2,President,,DEM,Doug Terry,0
-Alpine,2,President,,REP,Frederic Vidal,0
-Alpine,2,President,,LIB,Gary Johnson,0
-Alpine,2,President,,PF,Gloria Estela La Riva,0
 Alpine,2,President,,DEM,Henry Hewes,1
 Alpine,2,President,,DEM,Hillary Clinton,31
-Alpine,2,President,,DEM,Ignació León Nuñez,0
-Alpine,2,President,,AI,J.R. Myers,0
-Alpine,2,President,,LIB,"Jack Robinson, Jr.",0
-Alpine,2,President,,REP,James Alexander-Pace,0
-Alpine,2,President,,REP,James Germalio,0
-Alpine,2,President,,AI,James Hedges,0
-Alpine,2,President,,REP,James Orlando Ogle III,0
-Alpine,2,President,,GRN,Jill Stein,0
-Alpine,2,President,,REP,Jim Gilmore,0
-Alpine,2,President,,REP,Joann Breivogel,0
-Alpine,2,President,,REP,John Dowell,0
-Alpine,2,President,,LIB,John Hale,0
-Alpine,2,President,,LIB,John McAfee,0
 Alpine,2,President,,REP,John R. Kasich,5
-Alpine,2,President,,LIB,Joy Waymire,0
-Alpine,2,President,,DEM,Keith Judd,0
-Alpine,2,President,,GRN,Kent Mesplay,0
-Alpine,2,President,,DEM,Kevin M. Moreau,0
-Alpine,2,President,,PF,Lynn S. Kahn,0
-Alpine,2,President,,LIB,Marc Feldman,0
-Alpine,2,President,,DEM,Michael Steinberg,0
-Alpine,2,President,,PF,Monica Moorehead,0
-Alpine,2,President,,LIB,Rhett White Feather Smith,0
-Alpine,2,President,,AI,Robert Ornelas,0
-Alpine,2,President,,DEM,Roque De La Fuente,0
-Alpine,2,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Alpine,2,President,,LIB,Steve Kerbel,0
 Alpine,2,President,,REP,Ted Cruz,1
-Alpine,2,President,,AI,Thomas Hoefling,1
-Alpine,2,President,,REP,Troy Hugh Southern,0
-Alpine,2,President,,REP,Victor Williams,0
-Alpine,2,President,,AI,Wiley Drake,0
-Alpine,2,President,,GRN,William Kreml,0
-Alpine,2,President,,DEM,Willie Felix Carter,0
+Alpine,2,President,,AIP,Thomas Hoefling,1
 Alpine,2,President,,DEM,Willie Wilson,1
+Alpine,2,Proposition 50,,,No,28
+Alpine,2,Proposition 50,,,Yes,80
 Alpine,2,State Assembly,5,REP,Frank Bigelow,44
 Alpine,2,State Assembly,5,DEM,Kai Ellsworth,33
-Alpine,2,State Assembly,5,NPP,Mark Belden,16
+Alpine,2,State Assembly,5,IND,Mark Belden,16
 Alpine,2,State Assembly,5,DEM,Robert Carabas,21
 Alpine,2,State Senate,1,DEM,Rob Rowen,69
 Alpine,2,State Senate,1,REP,Steven Baird,8
@@ -164,100 +60,34 @@ Alpine,2,State Senate,1,REP,Ted Gaines,38
 Alpine,2,U.S. House,4,DEM,Robert W. Derlet,43
 Alpine,2,U.S. House,4,DEM,Sean White,26
 Alpine,2,U.S. House,4,REP,Tom McClintock,48
-Alpine,2,U.S. Senate,,REP,Alexis Stuart,0
-Alpine,2,U.S. Senate,,REP,Billy Falling,0
-Alpine,2,U.S. Senate,,NPP,Clive Grey,1
-Alpine,2,U.S. Senate,,NPP,Don J. Grundmann,0
-Alpine,2,U.S. Senate,,REP,Don Krampe,0
+Alpine,2,U.S. Senate,,IND,Clive Grey,1
 Alpine,2,U.S. Senate,,REP,Duf Sundheim,4
-Alpine,2,U.S. Senate,,NPP,Eleanor García,1
-Alpine,2,U.S. Senate,,DEM,Emory Rodgers,0
+Alpine,2,U.S. Senate,,IND,Eleanor García,1
 Alpine,2,U.S. Senate,,LIB,Gail K. Lightfoot,1
-Alpine,2,U.S. Senate,,NPP,Gar Myers,0
-Alpine,2,U.S. Senate,,REP,George C. Yang,0
 Alpine,2,U.S. Senate,,REP,Greg Conlon,6
-Alpine,2,U.S. Senate,,DEM,Herbert G. Peters,0
-Alpine,2,U.S. Senate,,REP,Jarrell Williamson,0
-Alpine,2,U.S. Senate,,NPP,Jason Hanania,0
-Alpine,2,U.S. Senate,,NPP,Jason Kraus,4
+Alpine,2,U.S. Senate,,IND,Jason Kraus,4
 Alpine,2,U.S. Senate,,REP,Jerry J. Laws,3
-Alpine,2,U.S. Senate,,PF,John Thompson Parker,0
 Alpine,2,U.S. Senate,,DEM,Kamala D. Harris,41
-Alpine,2,U.S. Senate,,REP,Karen Roseberry,0
-Alpine,2,U.S. Senate,,NPP,Ling Ling Shi,1
+Alpine,2,U.S. Senate,,IND,Ling Ling Shi,1
 Alpine,2,U.S. Senate,,DEM,Loretta L. Sanchez,25
-Alpine,2,U.S. Senate,,LIB,Mark Matthew Herd,0
 Alpine,2,U.S. Senate,,DEM,Massie Munroe,1
-Alpine,2,U.S. Senate,,NPP,Mike Beitiks,1
+Alpine,2,U.S. Senate,,IND,Mike Beitiks,1
 Alpine,2,U.S. Senate,,GRN,Pamela Elizondo,6
-Alpine,2,U.S. Senate,,NPP,Paul Merritt,0
 Alpine,2,U.S. Senate,,REP,Phil Wyman,10
-Alpine,2,U.S. Senate,,DEM,President Cristina Grappo,0
-Alpine,2,U.S. Senate,,NPP,Ric M. Llewellyn,0
-Alpine,2,U.S. Senate,,REP,Ron Unz,0
-Alpine,2,U.S. Senate,,NPP,Scott A. Vineberg,0
-Alpine,2,U.S. Senate,,DEM,Steve Stokes,0
 Alpine,2,U.S. Senate,,REP,Thomas G. Del Beccaro,3
-Alpine,2,U.S. Senate,,NPP,Tim Gildersleeve,0
 Alpine,2,U.S. Senate,,REP,Tom Palzer,1
 Alpine,2,U.S. Senate,,REP,Von Hougo,1
-Alpine,3,President,,AI,Alan Spears,1
-Alpine,3,President,,DEM,Andrew D. Basiago,0
-Alpine,3,President,,AI,Arthur Harris,0
-Alpine,3,President,,LIB,Austin Petersen,0
-Alpine,3,President,,REP,Ben Carson,0
+Alpine,3,President,,AIP,Alan Spears,1
 Alpine,3,President,,DEM,Bernie Sanders,12
-Alpine,3,President,,LIB,Cecil Ince,0
-Alpine,3,President,,GRN,Darryl Cherney,0
-Alpine,3,President,,LIB,Darryl W. Perry,0
-Alpine,3,President,,REP,David P. Thomson,0
-Alpine,3,President,,LIB,Derrick M. Reid,0
-Alpine,3,President,,REP,Donald J. Gonzales,0
 Alpine,3,President,,REP,Donald Trump,6
-Alpine,3,President,,DEM,Doug Terry,0
-Alpine,3,President,,REP,Frederic Vidal,0
-Alpine,3,President,,LIB,Gary Johnson,0
-Alpine,3,President,,PF,Gloria Estela La Riva,0
-Alpine,3,President,,DEM,Henry Hewes,0
 Alpine,3,President,,DEM,Hillary Clinton,16
-Alpine,3,President,,DEM,Ignació León Nuñez,0
-Alpine,3,President,,AI,J.R. Myers,0
-Alpine,3,President,,LIB,"Jack Robinson, Jr.",0
-Alpine,3,President,,REP,James Alexander-Pace,0
-Alpine,3,President,,REP,James Germalio,0
-Alpine,3,President,,AI,James Hedges,0
-Alpine,3,President,,REP,James Orlando Ogle III,0
-Alpine,3,President,,GRN,Jill Stein,0
-Alpine,3,President,,REP,Jim Gilmore,0
-Alpine,3,President,,REP,Joann Breivogel,0
-Alpine,3,President,,REP,John Dowell,0
-Alpine,3,President,,LIB,John Hale,0
-Alpine,3,President,,LIB,John McAfee,0
 Alpine,3,President,,REP,John R. Kasich,1
-Alpine,3,President,,LIB,Joy Waymire,0
-Alpine,3,President,,DEM,Keith Judd,0
-Alpine,3,President,,GRN,Kent Mesplay,0
-Alpine,3,President,,DEM,Kevin M. Moreau,0
-Alpine,3,President,,PF,Lynn S. Kahn,0
-Alpine,3,President,,LIB,Marc Feldman,0
-Alpine,3,President,,DEM,Michael Steinberg,0
-Alpine,3,President,,PF,Monica Moorehead,1
-Alpine,3,President,,LIB,Rhett White Feather Smith,0
-Alpine,3,President,,AI,Robert Ornelas,0
-Alpine,3,President,,DEM,Roque De La Fuente,0
-Alpine,3,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Alpine,3,President,,LIB,Steve Kerbel,0
-Alpine,3,President,,REP,Ted Cruz,0
-Alpine,3,President,,AI,Thomas Hoefling,0
-Alpine,3,President,,REP,Troy Hugh Southern,0
-Alpine,3,President,,REP,Victor Williams,0
-Alpine,3,President,,AI,Wiley Drake,0
-Alpine,3,President,,GRN,William Kreml,0
-Alpine,3,President,,DEM,Willie Felix Carter,0
-Alpine,3,President,,DEM,Willie Wilson,0
+Alpine,3,President,,PAF,Monica Moorehead,1
+Alpine,3,Proposition 50,,,No,8
+Alpine,3,Proposition 50,,,Yes,39
 Alpine,3,State Assembly,5,REP,Frank Bigelow,11
 Alpine,3,State Assembly,5,DEM,Kai Ellsworth,14
-Alpine,3,State Assembly,5,NPP,Mark Belden,4
+Alpine,3,State Assembly,5,IND,Mark Belden,4
 Alpine,3,State Assembly,5,DEM,Robert Carabas,13
 Alpine,3,State Senate,1,DEM,Rob Rowen,22
 Alpine,3,State Senate,1,REP,Steven Baird,2
@@ -265,100 +95,33 @@ Alpine,3,State Senate,1,REP,Ted Gaines,19
 Alpine,3,U.S. House,4,DEM,Robert W. Derlet,16
 Alpine,3,U.S. House,4,DEM,Sean White,10
 Alpine,3,U.S. House,4,REP,Tom McClintock,17
-Alpine,3,U.S. Senate,,REP,Alexis Stuart,0
-Alpine,3,U.S. Senate,,REP,Billy Falling,0
-Alpine,3,U.S. Senate,,NPP,Clive Grey,1
-Alpine,3,U.S. Senate,,NPP,Don J. Grundmann,0
-Alpine,3,U.S. Senate,,REP,Don Krampe,0
+Alpine,3,U.S. Senate,,IND,Clive Grey,1
 Alpine,3,U.S. Senate,,REP,Duf Sundheim,3
-Alpine,3,U.S. Senate,,NPP,Eleanor García,1
+Alpine,3,U.S. Senate,,IND,Eleanor García,1
 Alpine,3,U.S. Senate,,DEM,Emory Rodgers,1
 Alpine,3,U.S. Senate,,LIB,Gail K. Lightfoot,3
-Alpine,3,U.S. Senate,,NPP,Gar Myers,0
 Alpine,3,U.S. Senate,,REP,George C. Yang,1
-Alpine,3,U.S. Senate,,REP,Greg Conlon,0
-Alpine,3,U.S. Senate,,DEM,Herbert G. Peters,0
-Alpine,3,U.S. Senate,,REP,Jarrell Williamson,0
-Alpine,3,U.S. Senate,,NPP,Jason Hanania,0
-Alpine,3,U.S. Senate,,NPP,Jason Kraus,0
-Alpine,3,U.S. Senate,,REP,Jerry J. Laws,0
-Alpine,3,U.S. Senate,,PF,John Thompson Parker,0
 Alpine,3,U.S. Senate,,DEM,Kamala D. Harris,9
-Alpine,3,U.S. Senate,,REP,Karen Roseberry,0
-Alpine,3,U.S. Senate,,NPP,Ling Ling Shi,1
+Alpine,3,U.S. Senate,,IND,Ling Ling Shi,1
 Alpine,3,U.S. Senate,,DEM,Loretta L. Sanchez,17
-Alpine,3,U.S. Senate,,LIB,Mark Matthew Herd,0
 Alpine,3,U.S. Senate,,DEM,Massie Munroe,1
-Alpine,3,U.S. Senate,,NPP,Mike Beitiks,1
-Alpine,3,U.S. Senate,,GRN,Pamela Elizondo,0
-Alpine,3,U.S. Senate,,NPP,Paul Merritt,0
+Alpine,3,U.S. Senate,,IND,Mike Beitiks,1
 Alpine,3,U.S. Senate,,REP,Phil Wyman,2
-Alpine,3,U.S. Senate,,DEM,President Cristina Grappo,0
-Alpine,3,U.S. Senate,,NPP,Ric M. Llewellyn,0
-Alpine,3,U.S. Senate,,REP,Ron Unz,0
-Alpine,3,U.S. Senate,,NPP,Scott A. Vineberg,0
 Alpine,3,U.S. Senate,,DEM,Steve Stokes,1
 Alpine,3,U.S. Senate,,REP,Thomas G. Del Beccaro,2
-Alpine,3,U.S. Senate,,NPP,Tim Gildersleeve,0
-Alpine,3,U.S. Senate,,REP,Tom Palzer,0
 Alpine,3,U.S. Senate,,REP,Von Hougo,1
-Alpine,4,President,,AI,Alan Spears,0
-Alpine,4,President,,DEM,Andrew D. Basiago,0
-Alpine,4,President,,AI,Arthur Harris,0
-Alpine,4,President,,LIB,Austin Petersen,0
 Alpine,4,President,,REP,Ben Carson,1
 Alpine,4,President,,DEM,Bernie Sanders,23
-Alpine,4,President,,LIB,Cecil Ince,0
-Alpine,4,President,,GRN,Darryl Cherney,0
-Alpine,4,President,,LIB,Darryl W. Perry,0
-Alpine,4,President,,REP,David P. Thomson,0
-Alpine,4,President,,LIB,Derrick M. Reid,0
-Alpine,4,President,,REP,Donald J. Gonzales,0
 Alpine,4,President,,REP,Donald Trump,24
-Alpine,4,President,,DEM,Doug Terry,0
-Alpine,4,President,,REP,Frederic Vidal,0
 Alpine,4,President,,LIB,Gary Johnson,1
-Alpine,4,President,,PF,Gloria Estela La Riva,0
-Alpine,4,President,,DEM,Henry Hewes,0
 Alpine,4,President,,DEM,Hillary Clinton,32
-Alpine,4,President,,DEM,Ignació León Nuñez,0
-Alpine,4,President,,AI,J.R. Myers,0
-Alpine,4,President,,LIB,"Jack Robinson, Jr.",0
-Alpine,4,President,,REP,James Alexander-Pace,0
-Alpine,4,President,,REP,James Germalio,0
-Alpine,4,President,,AI,James Hedges,0
-Alpine,4,President,,REP,James Orlando Ogle III,0
-Alpine,4,President,,GRN,Jill Stein,0
-Alpine,4,President,,REP,Jim Gilmore,0
-Alpine,4,President,,REP,Joann Breivogel,0
-Alpine,4,President,,REP,John Dowell,0
-Alpine,4,President,,LIB,John Hale,0
-Alpine,4,President,,LIB,John McAfee,0
 Alpine,4,President,,REP,John R. Kasich,6
-Alpine,4,President,,LIB,Joy Waymire,0
-Alpine,4,President,,DEM,Keith Judd,0
-Alpine,4,President,,GRN,Kent Mesplay,0
-Alpine,4,President,,DEM,Kevin M. Moreau,0
-Alpine,4,President,,PF,Lynn S. Kahn,0
-Alpine,4,President,,LIB,Marc Feldman,0
-Alpine,4,President,,DEM,Michael Steinberg,0
-Alpine,4,President,,PF,Monica Moorehead,0
-Alpine,4,President,,LIB,Rhett White Feather Smith,0
-Alpine,4,President,,AI,Robert Ornelas,0
-Alpine,4,President,,DEM,Roque De La Fuente,0
-Alpine,4,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Alpine,4,President,,LIB,Steve Kerbel,0
 Alpine,4,President,,REP,Ted Cruz,1
-Alpine,4,President,,AI,Thomas Hoefling,0
-Alpine,4,President,,REP,Troy Hugh Southern,0
-Alpine,4,President,,REP,Victor Williams,0
-Alpine,4,President,,AI,Wiley Drake,0
-Alpine,4,President,,GRN,William Kreml,0
-Alpine,4,President,,DEM,Willie Felix Carter,0
-Alpine,4,President,,DEM,Willie Wilson,0
+Alpine,4,Proposition 50,,,No,18
+Alpine,4,Proposition 50,,,Yes,71
 Alpine,4,State Assembly,5,REP,Frank Bigelow,32
 Alpine,4,State Assembly,5,DEM,Kai Ellsworth,14
-Alpine,4,State Assembly,5,NPP,Mark Belden,10
+Alpine,4,State Assembly,5,IND,Mark Belden,10
 Alpine,4,State Assembly,5,DEM,Robert Carabas,25
 Alpine,4,State Senate,1,DEM,Rob Rowen,46
 Alpine,4,State Senate,1,REP,Steven Baird,3
@@ -366,100 +129,32 @@ Alpine,4,State Senate,1,REP,Ted Gaines,35
 Alpine,4,U.S. House,4,DEM,Robert W. Derlet,45
 Alpine,4,U.S. House,4,DEM,Sean White,5
 Alpine,4,U.S. House,4,REP,Tom McClintock,40
-Alpine,4,U.S. Senate,,REP,Alexis Stuart,0
-Alpine,4,U.S. Senate,,REP,Billy Falling,0
-Alpine,4,U.S. Senate,,NPP,Clive Grey,0
-Alpine,4,U.S. Senate,,NPP,Don J. Grundmann,0
 Alpine,4,U.S. Senate,,REP,Don Krampe,1
 Alpine,4,U.S. Senate,,REP,Duf Sundheim,6
-Alpine,4,U.S. Senate,,NPP,Eleanor García,0
-Alpine,4,U.S. Senate,,DEM,Emory Rodgers,0
 Alpine,4,U.S. Senate,,LIB,Gail K. Lightfoot,2
-Alpine,4,U.S. Senate,,NPP,Gar Myers,0
 Alpine,4,U.S. Senate,,REP,George C. Yang,2
 Alpine,4,U.S. Senate,,REP,Greg Conlon,6
-Alpine,4,U.S. Senate,,DEM,Herbert G. Peters,0
-Alpine,4,U.S. Senate,,REP,Jarrell Williamson,0
-Alpine,4,U.S. Senate,,NPP,Jason Hanania,0
-Alpine,4,U.S. Senate,,NPP,Jason Kraus,0
 Alpine,4,U.S. Senate,,REP,Jerry J. Laws,1
-Alpine,4,U.S. Senate,,PF,John Thompson Parker,0
 Alpine,4,U.S. Senate,,DEM,Kamala D. Harris,52
-Alpine,4,U.S. Senate,,REP,Karen Roseberry,0
-Alpine,4,U.S. Senate,,NPP,Ling Ling Shi,0
 Alpine,4,U.S. Senate,,DEM,Loretta L. Sanchez,8
 Alpine,4,U.S. Senate,,LIB,Mark Matthew Herd,1
-Alpine,4,U.S. Senate,,DEM,Massie Munroe,0
-Alpine,4,U.S. Senate,,NPP,Mike Beitiks,1
+Alpine,4,U.S. Senate,,IND,Mike Beitiks,1
 Alpine,4,U.S. Senate,,GRN,Pamela Elizondo,1
-Alpine,4,U.S. Senate,,NPP,Paul Merritt,0
 Alpine,4,U.S. Senate,,REP,Phil Wyman,6
-Alpine,4,U.S. Senate,,DEM,President Cristina Grappo,0
-Alpine,4,U.S. Senate,,NPP,Ric M. Llewellyn,0
 Alpine,4,U.S. Senate,,REP,Ron Unz,2
-Alpine,4,U.S. Senate,,NPP,Scott A. Vineberg,0
-Alpine,4,U.S. Senate,,DEM,Steve Stokes,0
 Alpine,4,U.S. Senate,,REP,Thomas G. Del Beccaro,2
-Alpine,4,U.S. Senate,,NPP,Tim Gildersleeve,0
-Alpine,4,U.S. Senate,,REP,Tom Palzer,0
-Alpine,4,U.S. Senate,,REP,Von Hougo,0
-Alpine,5,President,,AI,Alan Spears,0
-Alpine,5,President,,DEM,Andrew D. Basiago,0
-Alpine,5,President,,AI,Arthur Harris,0
-Alpine,5,President,,LIB,Austin Petersen,0
 Alpine,5,President,,REP,Ben Carson,2
 Alpine,5,President,,DEM,Bernie Sanders,32
-Alpine,5,President,,LIB,Cecil Ince,0
-Alpine,5,President,,GRN,Darryl Cherney,0
-Alpine,5,President,,LIB,Darryl W. Perry,0
-Alpine,5,President,,REP,David P. Thomson,0
-Alpine,5,President,,LIB,Derrick M. Reid,0
-Alpine,5,President,,REP,Donald J. Gonzales,0
 Alpine,5,President,,REP,Donald Trump,36
-Alpine,5,President,,DEM,Doug Terry,0
-Alpine,5,President,,REP,Frederic Vidal,0
-Alpine,5,President,,LIB,Gary Johnson,0
-Alpine,5,President,,PF,Gloria Estela La Riva,0
-Alpine,5,President,,DEM,Henry Hewes,0
 Alpine,5,President,,DEM,Hillary Clinton,14
-Alpine,5,President,,DEM,Ignació León Nuñez,0
-Alpine,5,President,,AI,J.R. Myers,0
-Alpine,5,President,,LIB,"Jack Robinson, Jr.",0
-Alpine,5,President,,REP,James Alexander-Pace,0
-Alpine,5,President,,REP,James Germalio,0
-Alpine,5,President,,AI,James Hedges,0
-Alpine,5,President,,REP,James Orlando Ogle III,0
 Alpine,5,President,,GRN,Jill Stein,2
-Alpine,5,President,,REP,Jim Gilmore,0
-Alpine,5,President,,REP,Joann Breivogel,0
-Alpine,5,President,,REP,John Dowell,0
-Alpine,5,President,,LIB,John Hale,0
-Alpine,5,President,,LIB,John McAfee,0
 Alpine,5,President,,REP,John R. Kasich,5
-Alpine,5,President,,LIB,Joy Waymire,0
-Alpine,5,President,,DEM,Keith Judd,0
-Alpine,5,President,,GRN,Kent Mesplay,0
-Alpine,5,President,,DEM,Kevin M. Moreau,0
-Alpine,5,President,,PF,Lynn S. Kahn,0
-Alpine,5,President,,LIB,Marc Feldman,0
-Alpine,5,President,,DEM,Michael Steinberg,0
-Alpine,5,President,,PF,Monica Moorehead,0
-Alpine,5,President,,LIB,Rhett White Feather Smith,0
-Alpine,5,President,,AI,Robert Ornelas,0
-Alpine,5,President,,DEM,Roque De La Fuente,0
-Alpine,5,President,,GRN,Sedinam Moyowasifsa-Curry,0
-Alpine,5,President,,LIB,Steve Kerbel,0
 Alpine,5,President,,REP,Ted Cruz,2
-Alpine,5,President,,AI,Thomas Hoefling,0
-Alpine,5,President,,REP,Troy Hugh Southern,0
-Alpine,5,President,,REP,Victor Williams,0
-Alpine,5,President,,AI,Wiley Drake,0
-Alpine,5,President,,GRN,William Kreml,0
-Alpine,5,President,,DEM,Willie Felix Carter,0
-Alpine,5,President,,DEM,Willie Wilson,0
+Alpine,5,Proposition 50,,,No,20
+Alpine,5,Proposition 50,,,Yes,93
 Alpine,5,State Assembly,5,REP,Frank Bigelow,63
 Alpine,5,State Assembly,5,DEM,Kai Ellsworth,16
-Alpine,5,State Assembly,5,NPP,Mark Belden,16
+Alpine,5,State Assembly,5,IND,Mark Belden,16
 Alpine,5,State Assembly,5,DEM,Robert Carabas,26
 Alpine,5,State Senate,1,DEM,Rob Rowen,46
 Alpine,5,State Senate,1,REP,Steven Baird,8
@@ -467,40 +162,20 @@ Alpine,5,State Senate,1,REP,Ted Gaines,63
 Alpine,5,U.S. House,4,DEM,Robert W. Derlet,36
 Alpine,5,U.S. House,4,DEM,Sean White,13
 Alpine,5,U.S. House,4,REP,Tom McClintock,67
-Alpine,5,U.S. Senate,,REP,Alexis Stuart,0
-Alpine,5,U.S. Senate,,REP,Billy Falling,0
-Alpine,5,U.S. Senate,,NPP,Clive Grey,1
-Alpine,5,U.S. Senate,,NPP,Don J. Grundmann,0
+Alpine,5,U.S. Senate,,IND,Clive Grey,1
 Alpine,5,U.S. Senate,,REP,Don Krampe,1
 Alpine,5,U.S. Senate,,REP,Duf Sundheim,10
-Alpine,5,U.S. Senate,,NPP,Eleanor García,0
-Alpine,5,U.S. Senate,,DEM,Emory Rodgers,0
 Alpine,5,U.S. Senate,,LIB,Gail K. Lightfoot,2
-Alpine,5,U.S. Senate,,NPP,Gar Myers,0
 Alpine,5,U.S. Senate,,REP,George C. Yang,2
 Alpine,5,U.S. Senate,,REP,Greg Conlon,6
-Alpine,5,U.S. Senate,,DEM,Herbert G. Peters,0
 Alpine,5,U.S. Senate,,REP,Jarrell Williamson,1
-Alpine,5,U.S. Senate,,NPP,Jason Hanania,1
-Alpine,5,U.S. Senate,,NPP,Jason Kraus,0
-Alpine,5,U.S. Senate,,REP,Jerry J. Laws,0
-Alpine,5,U.S. Senate,,PF,John Thompson Parker,0
+Alpine,5,U.S. Senate,,IND,Jason Hanania,1
 Alpine,5,U.S. Senate,,DEM,Kamala D. Harris,34
 Alpine,5,U.S. Senate,,REP,Karen Roseberry,4
-Alpine,5,U.S. Senate,,NPP,Ling Ling Shi,0
 Alpine,5,U.S. Senate,,DEM,Loretta L. Sanchez,14
-Alpine,5,U.S. Senate,,LIB,Mark Matthew Herd,0
 Alpine,5,U.S. Senate,,DEM,Massie Munroe,3
-Alpine,5,U.S. Senate,,NPP,Mike Beitiks,0
 Alpine,5,U.S. Senate,,GRN,Pamela Elizondo,2
-Alpine,5,U.S. Senate,,NPP,Paul Merritt,2
+Alpine,5,U.S. Senate,,IND,Paul Merritt,2
 Alpine,5,U.S. Senate,,REP,Phil Wyman,13
-Alpine,5,U.S. Senate,,DEM,President Cristina Grappo,0
-Alpine,5,U.S. Senate,,NPP,Ric M. Llewellyn,0
-Alpine,5,U.S. Senate,,REP,Ron Unz,0
-Alpine,5,U.S. Senate,,NPP,Scott A. Vineberg,0
-Alpine,5,U.S. Senate,,DEM,Steve Stokes,0
 Alpine,5,U.S. Senate,,REP,Thomas G. Del Beccaro,4
-Alpine,5,U.S. Senate,,NPP,Tim Gildersleeve,0
-Alpine,5,U.S. Senate,,REP,Tom Palzer,0
 Alpine,5,U.S. Senate,,REP,Von Hougo,2

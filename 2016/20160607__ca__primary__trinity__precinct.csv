@@ -1,0 +1,906 @@
+county,precinct,office,district,party,candidate,votes
+Trinity,101,President,,REP,Ben Carson,2
+Trinity,101,President,,DEM,Bernie Sanders,20
+Trinity,101,President,,REP,Donald Trump,21
+Trinity,101,President,,LIB,Gary Johnson,1
+Trinity,101,President,,DEM,Hillary Clinton,16
+Trinity,101,President,,REP,John R. Kasich,2
+Trinity,101,President,,REP,Ted Cruz,1
+Trinity,101,Proposition 50,,,No,23
+Trinity,101,Proposition 50,,,Yes,59
+Trinity,101,State Assembly,2,DEM,Jim Wood,52
+Trinity,101,U.S. House,2,REP,Dale K. Mensing,28
+Trinity,101,U.S. House,2,DEM,Erin A. Schrode,7
+Trinity,101,U.S. House,2,DEM,Jared W. Huffman,39
+Trinity,101,U.S. House,2,IND,Matthew Robert Wookey,5
+Trinity,101,U.S. Senate,,REP,Don Krampe,1
+Trinity,101,U.S. Senate,,REP,Duf Sundheim,4
+Trinity,101,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Trinity,101,U.S. Senate,,REP,George C. Yang,3
+Trinity,101,U.S. Senate,,REP,Greg Conlon,7
+Trinity,101,U.S. Senate,,IND,Jason Kraus,2
+Trinity,101,U.S. Senate,,DEM,Kamala D. Harris,26
+Trinity,101,U.S. Senate,,DEM,Loretta L. Sanchez,11
+Trinity,101,U.S. Senate,,DEM,Massie Munroe,3
+Trinity,101,U.S. Senate,,GRN,Pamela Elizondo,2
+Trinity,101,U.S. Senate,,REP,Phil Wyman,11
+Trinity,101,U.S. Senate,,REP,Ron Unz,1
+Trinity,101,U.S. Senate,,DEM,Steve Stokes,2
+Trinity,101,U.S. Senate,,REP,Tom Palzer,2
+Trinity,111,President,,AIP,Alan Spears,1
+Trinity,111,President,,REP,Ben Carson,4
+Trinity,111,President,,DEM,Bernie Sanders,21
+Trinity,111,President,,REP,Donald Trump,78
+Trinity,111,President,,LIB,Gary Johnson,2
+Trinity,111,President,,DEM,Hillary Clinton,20
+Trinity,111,President,,REP,Jim Gilmore,1
+Trinity,111,President,,REP,John R. Kasich,2
+Trinity,111,President,,REP,Ted Cruz,4
+Trinity,111,Proposition 50,,,No,40
+Trinity,111,Proposition 50,,,Yes,108
+Trinity,111,State Assembly,2,DEM,Jim Wood,76
+Trinity,111,U.S. House,2,REP,Dale K. Mensing,86
+Trinity,111,U.S. House,2,DEM,Erin A. Schrode,6
+Trinity,111,U.S. House,2,DEM,Jared W. Huffman,47
+Trinity,111,U.S. House,2,IND,Matthew Robert Wookey,4
+Trinity,111,U.S. Senate,,IND,Clive Grey,1
+Trinity,111,U.S. Senate,,REP,Don Krampe,2
+Trinity,111,U.S. Senate,,REP,Duf Sundheim,22
+Trinity,111,U.S. Senate,,IND,Eleanor García,1
+Trinity,111,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Trinity,111,U.S. Senate,,REP,George C. Yang,4
+Trinity,111,U.S. Senate,,REP,Greg Conlon,14
+Trinity,111,U.S. Senate,,IND,Jason Kraus,3
+Trinity,111,U.S. Senate,,REP,Jerry J. Laws,6
+Trinity,111,U.S. Senate,,DEM,Kamala D. Harris,26
+Trinity,111,U.S. Senate,,REP,Karen Roseberry,2
+Trinity,111,U.S. Senate,,DEM,Loretta L. Sanchez,14
+Trinity,111,U.S. Senate,,DEM,Massie Munroe,3
+Trinity,111,U.S. Senate,,GRN,Pamela Elizondo,2
+Trinity,111,U.S. Senate,,REP,Phil Wyman,16
+Trinity,111,U.S. Senate,,REP,Ron Unz,1
+Trinity,111,U.S. Senate,,IND,Scott A. Vineberg,2
+Trinity,111,U.S. Senate,,DEM,Steve Stokes,3
+Trinity,111,U.S. Senate,,REP,Thomas G. Del Beccaro,15
+Trinity,111,U.S. Senate,,REP,Tom Palzer,7
+Trinity,111,U.S. Senate,,REP,Von Hougo,1
+Trinity,112,President,,DEM,Bernie Sanders,15
+Trinity,112,President,,REP,Donald Trump,28
+Trinity,112,President,,DEM,Hillary Clinton,19
+Trinity,112,President,,REP,John R. Kasich,1
+Trinity,112,President,,REP,Ted Cruz,2
+Trinity,112,Proposition 50,,,No,11
+Trinity,112,Proposition 50,,,Yes,61
+Trinity,112,State Assembly,2,DEM,Jim Wood,44
+Trinity,112,U.S. House,2,REP,Dale K. Mensing,33
+Trinity,112,U.S. House,2,DEM,Erin A. Schrode,3
+Trinity,112,U.S. House,2,DEM,Jared W. Huffman,29
+Trinity,112,U.S. House,2,IND,Matthew Robert Wookey,1
+Trinity,112,U.S. Senate,,IND,Clive Grey,1
+Trinity,112,U.S. Senate,,REP,Don Krampe,4
+Trinity,112,U.S. Senate,,REP,Duf Sundheim,6
+Trinity,112,U.S. Senate,,IND,Eleanor García,1
+Trinity,112,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,112,U.S. Senate,,REP,George C. Yang,2
+Trinity,112,U.S. Senate,,REP,Greg Conlon,2
+Trinity,112,U.S. Senate,,DEM,Herbert G. Peters,1
+Trinity,112,U.S. Senate,,REP,Jerry J. Laws,2
+Trinity,112,U.S. Senate,,DEM,Kamala D. Harris,20
+Trinity,112,U.S. Senate,,REP,Karen Roseberry,1
+Trinity,112,U.S. Senate,,DEM,Loretta L. Sanchez,6
+Trinity,112,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,112,U.S. Senate,,IND,Paul Merritt,1
+Trinity,112,U.S. Senate,,REP,Phil Wyman,8
+Trinity,112,U.S. Senate,,DEM,Steve Stokes,2
+Trinity,112,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Trinity,112,U.S. Senate,,REP,Von Hougo,4
+Trinity,121,President,,REP,Ben Carson,5
+Trinity,121,President,,DEM,Bernie Sanders,116
+Trinity,121,President,,REP,Donald Trump,158
+Trinity,121,President,,LIB,Gary Johnson,4
+Trinity,121,President,,DEM,Hillary Clinton,68
+Trinity,121,President,,LIB,John McAfee,1
+Trinity,121,President,,REP,John R. Kasich,12
+Trinity,121,President,,DEM,Michael Steinberg,1
+Trinity,121,President,,REP,Ted Cruz,11
+Trinity,121,Proposition 50,,,No,100
+Trinity,121,Proposition 50,,,Yes,310
+Trinity,121,State Assembly,2,DEM,Jim Wood,237
+Trinity,121,U.S. House,2,REP,Dale K. Mensing,165
+Trinity,121,U.S. House,2,DEM,Erin A. Schrode,29
+Trinity,121,U.S. House,2,DEM,Jared W. Huffman,163
+Trinity,121,U.S. House,2,IND,Matthew Robert Wookey,32
+Trinity,121,U.S. Senate,,IND,Clive Grey,4
+Trinity,121,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,121,U.S. Senate,,REP,Don Krampe,1
+Trinity,121,U.S. Senate,,REP,Duf Sundheim,37
+Trinity,121,U.S. Senate,,DEM,Emory Rodgers,4
+Trinity,121,U.S. Senate,,LIB,Gail K. Lightfoot,9
+Trinity,121,U.S. Senate,,REP,George C. Yang,8
+Trinity,121,U.S. Senate,,REP,Greg Conlon,20
+Trinity,121,U.S. Senate,,REP,Jarrell Williamson,3
+Trinity,121,U.S. Senate,,IND,Jason Hanania,1
+Trinity,121,U.S. Senate,,IND,Jason Kraus,2
+Trinity,121,U.S. Senate,,REP,Jerry J. Laws,31
+Trinity,121,U.S. Senate,,DEM,Kamala D. Harris,90
+Trinity,121,U.S. Senate,,REP,Karen Roseberry,9
+Trinity,121,U.S. Senate,,IND,Ling Ling Shi,2
+Trinity,121,U.S. Senate,,DEM,Loretta L. Sanchez,51
+Trinity,121,U.S. Senate,,LIB,Mark Matthew Herd,4
+Trinity,121,U.S. Senate,,DEM,Massie Munroe,6
+Trinity,121,U.S. Senate,,GRN,Pamela Elizondo,4
+Trinity,121,U.S. Senate,,IND,Paul Merritt,3
+Trinity,121,U.S. Senate,,REP,Phil Wyman,43
+Trinity,121,U.S. Senate,,DEM,President Cristina Grappo,3
+Trinity,121,U.S. Senate,,REP,Ron Unz,7
+Trinity,121,U.S. Senate,,DEM,Steve Stokes,25
+Trinity,121,U.S. Senate,,REP,Thomas G. Del Beccaro,11
+Trinity,121,U.S. Senate,,REP,Tom Palzer,3
+Trinity,121,U.S. Senate,,REP,Von Hougo,7
+Trinity,123,President,,AIP,Arthur Harris,1
+Trinity,123,President,,REP,Ben Carson,3
+Trinity,123,President,,DEM,Bernie Sanders,74
+Trinity,123,President,,REP,Donald Trump,60
+Trinity,123,President,,LIB,Gary Johnson,2
+Trinity,123,President,,DEM,Hillary Clinton,49
+Trinity,123,President,,REP,John R. Kasich,9
+Trinity,123,President,,REP,Ted Cruz,5
+Trinity,123,Proposition 50,,,No,44
+Trinity,123,Proposition 50,,,Yes,186
+Trinity,123,State Assembly,2,DEM,Jim Wood,146
+Trinity,123,U.S. House,2,REP,Dale K. Mensing,62
+Trinity,123,U.S. House,2,DEM,Erin A. Schrode,13
+Trinity,123,U.S. House,2,DEM,Jared W. Huffman,123
+Trinity,123,U.S. House,2,IND,Matthew Robert Wookey,16
+Trinity,123,U.S. Senate,,IND,Clive Grey,4
+Trinity,123,U.S. Senate,,REP,Duf Sundheim,19
+Trinity,123,U.S. Senate,,IND,Eleanor García,1
+Trinity,123,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,123,U.S. Senate,,LIB,Gail K. Lightfoot,5
+Trinity,123,U.S. Senate,,REP,George C. Yang,1
+Trinity,123,U.S. Senate,,REP,Greg Conlon,8
+Trinity,123,U.S. Senate,,DEM,Herbert G. Peters,1
+Trinity,123,U.S. Senate,,REP,Jarrell Williamson,2
+Trinity,123,U.S. Senate,,IND,Jason Hanania,1
+Trinity,123,U.S. Senate,,IND,Jason Kraus,2
+Trinity,123,U.S. Senate,,REP,Jerry J. Laws,3
+Trinity,123,U.S. Senate,,DEM,Kamala D. Harris,72
+Trinity,123,U.S. Senate,,REP,Karen Roseberry,8
+Trinity,123,U.S. Senate,,DEM,Loretta L. Sanchez,31
+Trinity,123,U.S. Senate,,LIB,Mark Matthew Herd,3
+Trinity,123,U.S. Senate,,DEM,Massie Munroe,3
+Trinity,123,U.S. Senate,,IND,Mike Beitiks,2
+Trinity,123,U.S. Senate,,GRN,Pamela Elizondo,5
+Trinity,123,U.S. Senate,,REP,Phil Wyman,16
+Trinity,123,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,123,U.S. Senate,,REP,Ron Unz,1
+Trinity,123,U.S. Senate,,DEM,Steve Stokes,5
+Trinity,123,U.S. Senate,,REP,Thomas G. Del Beccaro,3
+Trinity,123,U.S. Senate,,REP,Tom Palzer,1
+Trinity,123,U.S. Senate,,REP,Von Hougo,5
+Trinity,211,President,,REP,Ben Carson,13
+Trinity,211,President,,DEM,Bernie Sanders,172
+Trinity,211,President,,REP,Donald Trump,151
+Trinity,211,President,,LIB,Gary Johnson,3
+Trinity,211,President,,DEM,Hillary Clinton,89
+Trinity,211,President,,GRN,Jill Stein,6
+Trinity,211,President,,REP,Jim Gilmore,3
+Trinity,211,President,,REP,John R. Kasich,29
+Trinity,211,President,,GRN,Sedinam Moyowasifsa-Curry,1
+Trinity,211,President,,REP,Ted Cruz,18
+Trinity,211,President,,AIP,Wiley Drake,1
+Trinity,211,President,,DEM,Willie Wilson,2
+Trinity,211,Proposition 50,,,No,128
+Trinity,211,Proposition 50,,,Yes,419
+Trinity,211,State Assembly,2,DEM,Jim Wood,394
+Trinity,211,U.S. House,2,REP,Dale K. Mensing,200
+Trinity,211,U.S. House,2,DEM,Erin A. Schrode,53
+Trinity,211,U.S. House,2,DEM,Jared W. Huffman,238
+Trinity,211,U.S. House,2,IND,Matthew Robert Wookey,53
+Trinity,211,U.S. Senate,,IND,Clive Grey,7
+Trinity,211,U.S. Senate,,IND,Don J. Grundmann,3
+Trinity,211,U.S. Senate,,REP,Don Krampe,10
+Trinity,211,U.S. Senate,,REP,Duf Sundheim,50
+Trinity,211,U.S. Senate,,IND,Eleanor García,2
+Trinity,211,U.S. Senate,,LIB,Gail K. Lightfoot,15
+Trinity,211,U.S. Senate,,REP,George C. Yang,7
+Trinity,211,U.S. Senate,,REP,Greg Conlon,25
+Trinity,211,U.S. Senate,,DEM,Herbert G. Peters,1
+Trinity,211,U.S. Senate,,REP,Jarrell Williamson,8
+Trinity,211,U.S. Senate,,IND,Jason Hanania,1
+Trinity,211,U.S. Senate,,IND,Jason Kraus,2
+Trinity,211,U.S. Senate,,REP,Jerry J. Laws,21
+Trinity,211,U.S. Senate,,PAF,John Thompson Parker,1
+Trinity,211,U.S. Senate,,DEM,Kamala D. Harris,135
+Trinity,211,U.S. Senate,,REP,Karen Roseberry,13
+Trinity,211,U.S. Senate,,IND,Ling Ling Shi,2
+Trinity,211,U.S. Senate,,DEM,Loretta L. Sanchez,67
+Trinity,211,U.S. Senate,,LIB,Mark Matthew Herd,5
+Trinity,211,U.S. Senate,,DEM,Massie Munroe,11
+Trinity,211,U.S. Senate,,IND,Mike Beitiks,8
+Trinity,211,U.S. Senate,,GRN,Pamela Elizondo,14
+Trinity,211,U.S. Senate,,IND,Paul Merritt,4
+Trinity,211,U.S. Senate,,REP,Phil Wyman,49
+Trinity,211,U.S. Senate,,DEM,President Cristina Grappo,4
+Trinity,211,U.S. Senate,,REP,Ron Unz,7
+Trinity,211,U.S. Senate,,DEM,Steve Stokes,26
+Trinity,211,U.S. Senate,,REP,Thomas G. Del Beccaro,24
+Trinity,211,U.S. Senate,,IND,Tim Gildersleeve,1
+Trinity,211,U.S. Senate,,REP,Tom Palzer,7
+Trinity,211,U.S. Senate,,REP,Von Hougo,9
+Trinity,217,President,,AIP,Alan Spears,1
+Trinity,217,President,,REP,Ben Carson,11
+Trinity,217,President,,DEM,Bernie Sanders,56
+Trinity,217,President,,REP,Donald Trump,88
+Trinity,217,President,,LIB,Gary Johnson,1
+Trinity,217,President,,DEM,Hillary Clinton,33
+Trinity,217,President,,GRN,Jill Stein,1
+Trinity,217,President,,REP,John R. Kasich,8
+Trinity,217,President,,DEM,Keith Judd,1
+Trinity,217,President,,DEM,Michael Steinberg,1
+Trinity,217,President,,LIB,Rhett White Feather Smith,2
+Trinity,217,President,,REP,Ted Cruz,9
+Trinity,217,President,,DEM,Willie Wilson,1
+Trinity,217,Proposition 50,,,No,55
+Trinity,217,Proposition 50,,,Yes,186
+Trinity,217,State Assembly,2,DEM,Jim Wood,155
+Trinity,217,U.S. House,2,REP,Dale K. Mensing,95
+Trinity,217,U.S. House,2,DEM,Erin A. Schrode,21
+Trinity,217,U.S. House,2,DEM,Jared W. Huffman,90
+Trinity,217,U.S. House,2,IND,Matthew Robert Wookey,29
+Trinity,217,U.S. Senate,,IND,Clive Grey,4
+Trinity,217,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,217,U.S. Senate,,REP,Don Krampe,3
+Trinity,217,U.S. Senate,,REP,Duf Sundheim,10
+Trinity,217,U.S. Senate,,IND,Eleanor García,2
+Trinity,217,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,217,U.S. Senate,,LIB,Gail K. Lightfoot,14
+Trinity,217,U.S. Senate,,REP,George C. Yang,4
+Trinity,217,U.S. Senate,,REP,Greg Conlon,13
+Trinity,217,U.S. Senate,,IND,Jason Kraus,1
+Trinity,217,U.S. Senate,,REP,Jerry J. Laws,14
+Trinity,217,U.S. Senate,,DEM,Kamala D. Harris,42
+Trinity,217,U.S. Senate,,REP,Karen Roseberry,5
+Trinity,217,U.S. Senate,,DEM,Loretta L. Sanchez,36
+Trinity,217,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,217,U.S. Senate,,DEM,Massie Munroe,4
+Trinity,217,U.S. Senate,,IND,Mike Beitiks,2
+Trinity,217,U.S. Senate,,GRN,Pamela Elizondo,2
+Trinity,217,U.S. Senate,,IND,Paul Merritt,1
+Trinity,217,U.S. Senate,,REP,Phil Wyman,23
+Trinity,217,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,217,U.S. Senate,,REP,Ron Unz,8
+Trinity,217,U.S. Senate,,IND,Scott A. Vineberg,1
+Trinity,217,U.S. Senate,,DEM,Steve Stokes,13
+Trinity,217,U.S. Senate,,REP,Thomas G. Del Beccaro,6
+Trinity,217,U.S. Senate,,IND,Tim Gildersleeve,1
+Trinity,217,U.S. Senate,,REP,Tom Palzer,5
+Trinity,217,U.S. Senate,,REP,Von Hougo,8
+Trinity,301,President,,AIP,Alan Spears,1
+Trinity,301,President,,REP,Ben Carson,11
+Trinity,301,President,,DEM,Bernie Sanders,116
+Trinity,301,President,,REP,Donald Trump,95
+Trinity,301,President,,LIB,Gary Johnson,2
+Trinity,301,President,,DEM,Henry Hewes,1
+Trinity,301,President,,DEM,Hillary Clinton,66
+Trinity,301,President,,AIP,J.R. Myers,2
+Trinity,301,President,,LIB,John McAfee,1
+Trinity,301,President,,REP,John R. Kasich,12
+Trinity,301,President,,DEM,Keith Judd,1
+Trinity,301,President,,AIP,Robert Ornelas,1
+Trinity,301,President,,REP,Ted Cruz,9
+Trinity,301,Proposition 50,,,No,89
+Trinity,301,Proposition 50,,,Yes,288
+Trinity,301,State Assembly,2,DEM,Jim Wood,266
+Trinity,301,U.S. House,2,REP,Dale K. Mensing,102
+Trinity,301,U.S. House,2,DEM,Erin A. Schrode,40
+Trinity,301,U.S. House,2,DEM,Jared W. Huffman,178
+Trinity,301,U.S. House,2,IND,Matthew Robert Wookey,37
+Trinity,301,U.S. Senate,,IND,Clive Grey,4
+Trinity,301,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,301,U.S. Senate,,REP,Don Krampe,3
+Trinity,301,U.S. Senate,,REP,Duf Sundheim,25
+Trinity,301,U.S. Senate,,IND,Eleanor García,2
+Trinity,301,U.S. Senate,,DEM,Emory Rodgers,6
+Trinity,301,U.S. Senate,,LIB,Gail K. Lightfoot,12
+Trinity,301,U.S. Senate,,REP,George C. Yang,2
+Trinity,301,U.S. Senate,,REP,Greg Conlon,21
+Trinity,301,U.S. Senate,,DEM,Herbert G. Peters,3
+Trinity,301,U.S. Senate,,REP,Jarrell Williamson,2
+Trinity,301,U.S. Senate,,IND,Jason Hanania,2
+Trinity,301,U.S. Senate,,IND,Jason Kraus,3
+Trinity,301,U.S. Senate,,REP,Jerry J. Laws,14
+Trinity,301,U.S. Senate,,PAF,John Thompson Parker,2
+Trinity,301,U.S. Senate,,DEM,Kamala D. Harris,96
+Trinity,301,U.S. Senate,,REP,Karen Roseberry,7
+Trinity,301,U.S. Senate,,IND,Ling Ling Shi,1
+Trinity,301,U.S. Senate,,DEM,Loretta L. Sanchez,56
+Trinity,301,U.S. Senate,,LIB,Mark Matthew Herd,5
+Trinity,301,U.S. Senate,,DEM,Massie Munroe,7
+Trinity,301,U.S. Senate,,IND,Mike Beitiks,2
+Trinity,301,U.S. Senate,,GRN,Pamela Elizondo,14
+Trinity,301,U.S. Senate,,REP,Phil Wyman,36
+Trinity,301,U.S. Senate,,DEM,President Cristina Grappo,3
+Trinity,301,U.S. Senate,,REP,Ron Unz,3
+Trinity,301,U.S. Senate,,DEM,Steve Stokes,10
+Trinity,301,U.S. Senate,,REP,Thomas G. Del Beccaro,6
+Trinity,301,U.S. Senate,,REP,Tom Palzer,3
+Trinity,301,U.S. Senate,,REP,Von Hougo,2
+Trinity,302,President,,DEM,Bernie Sanders,5
+Trinity,302,President,,DEM,Hillary Clinton,1
+Trinity,302,Proposition 50,,,No,1
+Trinity,302,Proposition 50,,,Yes,11
+Trinity,302,State Assembly,2,DEM,Jim Wood,9
+Trinity,302,U.S. House,2,REP,Dale K. Mensing,3
+Trinity,302,U.S. House,2,DEM,Erin A. Schrode,1
+Trinity,302,U.S. House,2,DEM,Jared W. Huffman,9
+Trinity,302,U.S. House,2,IND,Matthew Robert Wookey,1
+Trinity,302,U.S. Senate,,REP,Duf Sundheim,1
+Trinity,302,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Trinity,302,U.S. Senate,,DEM,Kamala D. Harris,5
+Trinity,302,U.S. Senate,,DEM,Loretta L. Sanchez,2
+Trinity,302,U.S. Senate,,GRN,Pamela Elizondo,3
+Trinity,302,U.S. Senate,,REP,Phil Wyman,1
+Trinity,311,President,,AIP,Alan Spears,4
+Trinity,311,President,,REP,Ben Carson,15
+Trinity,311,President,,DEM,Bernie Sanders,133
+Trinity,311,President,,REP,Donald Trump,92
+Trinity,311,President,,LIB,Gary Johnson,3
+Trinity,311,President,,DEM,Hillary Clinton,49
+Trinity,311,President,,GRN,Jill Stein,3
+Trinity,311,President,,REP,John R. Kasich,9
+Trinity,311,President,,DEM,Keith Judd,1
+Trinity,311,President,,DEM,Michael Steinberg,1
+Trinity,311,President,,REP,Ted Cruz,12
+Trinity,311,President,,AIP,Wiley Drake,1
+Trinity,311,Proposition 50,,,No,99
+Trinity,311,Proposition 50,,,Yes,256
+Trinity,311,State Assembly,2,DEM,Jim Wood,242
+Trinity,311,U.S. House,2,REP,Dale K. Mensing,113
+Trinity,311,U.S. House,2,DEM,Erin A. Schrode,30
+Trinity,311,U.S. House,2,DEM,Jared W. Huffman,150
+Trinity,311,U.S. House,2,IND,Matthew Robert Wookey,39
+Trinity,311,U.S. Senate,,IND,Clive Grey,3
+Trinity,311,U.S. Senate,,REP,Don Krampe,7
+Trinity,311,U.S. Senate,,REP,Duf Sundheim,21
+Trinity,311,U.S. Senate,,IND,Eleanor García,5
+Trinity,311,U.S. Senate,,DEM,Emory Rodgers,3
+Trinity,311,U.S. Senate,,LIB,Gail K. Lightfoot,6
+Trinity,311,U.S. Senate,,REP,George C. Yang,12
+Trinity,311,U.S. Senate,,REP,Greg Conlon,10
+Trinity,311,U.S. Senate,,DEM,Herbert G. Peters,2
+Trinity,311,U.S. Senate,,REP,Jarrell Williamson,5
+Trinity,311,U.S. Senate,,IND,Jason Hanania,1
+Trinity,311,U.S. Senate,,IND,Jason Kraus,2
+Trinity,311,U.S. Senate,,REP,Jerry J. Laws,17
+Trinity,311,U.S. Senate,,PAF,John Thompson Parker,3
+Trinity,311,U.S. Senate,,DEM,Kamala D. Harris,96
+Trinity,311,U.S. Senate,,REP,Karen Roseberry,7
+Trinity,311,U.S. Senate,,IND,Ling Ling Shi,1
+Trinity,311,U.S. Senate,,DEM,Loretta L. Sanchez,28
+Trinity,311,U.S. Senate,,LIB,Mark Matthew Herd,3
+Trinity,311,U.S. Senate,,DEM,Massie Munroe,4
+Trinity,311,U.S. Senate,,IND,Mike Beitiks,2
+Trinity,311,U.S. Senate,,GRN,Pamela Elizondo,13
+Trinity,311,U.S. Senate,,IND,Paul Merritt,1
+Trinity,311,U.S. Senate,,REP,Phil Wyman,36
+Trinity,311,U.S. Senate,,DEM,President Cristina Grappo,5
+Trinity,311,U.S. Senate,,REP,Ron Unz,8
+Trinity,311,U.S. Senate,,DEM,Steve Stokes,11
+Trinity,311,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Trinity,311,U.S. Senate,,IND,Tim Gildersleeve,3
+Trinity,311,U.S. Senate,,REP,Tom Palzer,7
+Trinity,311,U.S. Senate,,REP,Von Hougo,14
+Trinity,321,President,,AIP,Alan Spears,1
+Trinity,321,President,,DEM,Bernie Sanders,5
+Trinity,321,President,,REP,Donald Trump,4
+Trinity,321,President,,DEM,Hillary Clinton,1
+Trinity,321,President,,REP,Ted Cruz,1
+Trinity,321,Proposition 50,,,No,12
+Trinity,321,Proposition 50,,,Yes,6
+Trinity,321,State Assembly,2,DEM,Jim Wood,10
+Trinity,321,U.S. House,2,REP,Dale K. Mensing,9
+Trinity,321,U.S. House,2,DEM,Erin A. Schrode,1
+Trinity,321,U.S. House,2,DEM,Jared W. Huffman,5
+Trinity,321,U.S. House,2,IND,Matthew Robert Wookey,1
+Trinity,321,U.S. Senate,,REP,Don Krampe,1
+Trinity,321,U.S. Senate,,REP,Duf Sundheim,3
+Trinity,321,U.S. Senate,,REP,Jarrell Williamson,1
+Trinity,321,U.S. Senate,,REP,Jerry J. Laws,1
+Trinity,321,U.S. Senate,,DEM,Kamala D. Harris,5
+Trinity,321,U.S. Senate,,REP,Karen Roseberry,1
+Trinity,321,U.S. Senate,,IND,Mike Beitiks,1
+Trinity,321,U.S. Senate,,REP,Phil Wyman,1
+Trinity,321,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,321,U.S. Senate,,REP,Tom Palzer,2
+Trinity,331,President,,DEM,Bernie Sanders,16
+Trinity,331,President,,REP,Donald Trump,23
+Trinity,331,President,,DEM,Hillary Clinton,6
+Trinity,331,President,,GRN,Jill Stein,2
+Trinity,331,President,,REP,Jim Gilmore,1
+Trinity,331,President,,REP,John R. Kasich,4
+Trinity,331,President,,REP,Ted Cruz,2
+Trinity,331,Proposition 50,,,No,15
+Trinity,331,Proposition 50,,,Yes,40
+Trinity,331,State Assembly,2,DEM,Jim Wood,34
+Trinity,331,U.S. House,2,REP,Dale K. Mensing,26
+Trinity,331,U.S. House,2,DEM,Erin A. Schrode,5
+Trinity,331,U.S. House,2,DEM,Jared W. Huffman,23
+Trinity,331,U.S. House,2,IND,Matthew Robert Wookey,4
+Trinity,331,U.S. Senate,,REP,Don Krampe,2
+Trinity,331,U.S. Senate,,REP,Duf Sundheim,4
+Trinity,331,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Trinity,331,U.S. Senate,,REP,Greg Conlon,1
+Trinity,331,U.S. Senate,,REP,Jarrell Williamson,1
+Trinity,331,U.S. Senate,,REP,Jerry J. Laws,3
+Trinity,331,U.S. Senate,,DEM,Kamala D. Harris,11
+Trinity,331,U.S. Senate,,REP,Karen Roseberry,1
+Trinity,331,U.S. Senate,,DEM,Loretta L. Sanchez,8
+Trinity,331,U.S. Senate,,DEM,Massie Munroe,1
+Trinity,331,U.S. Senate,,IND,Mike Beitiks,1
+Trinity,331,U.S. Senate,,GRN,Pamela Elizondo,3
+Trinity,331,U.S. Senate,,REP,Phil Wyman,6
+Trinity,331,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,331,U.S. Senate,,DEM,Steve Stokes,1
+Trinity,331,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Trinity,331,U.S. Senate,,REP,Von Hougo,2
+Trinity,401,President,,AIP,Arthur Harris,1
+Trinity,401,President,,REP,Ben Carson,5
+Trinity,401,President,,DEM,Bernie Sanders,111
+Trinity,401,President,,REP,Donald Trump,44
+Trinity,401,President,,LIB,Gary Johnson,2
+Trinity,401,President,,DEM,Henry Hewes,1
+Trinity,401,President,,DEM,Hillary Clinton,50
+Trinity,401,President,,REP,John R. Kasich,6
+Trinity,401,President,,DEM,Keith Judd,1
+Trinity,401,President,,DEM,Roque De La Fuente,1
+Trinity,401,President,,REP,Ted Cruz,5
+Trinity,401,President,,AIP,Thomas Hoefling,1
+Trinity,401,President,,DEM,Willie Wilson,2
+Trinity,401,Proposition 50,,,No,56
+Trinity,401,Proposition 50,,,Yes,214
+Trinity,401,State Assembly,2,DEM,Jim Wood,204
+Trinity,401,U.S. House,2,REP,Dale K. Mensing,58
+Trinity,401,U.S. House,2,DEM,Erin A. Schrode,37
+Trinity,401,U.S. House,2,DEM,Jared W. Huffman,146
+Trinity,401,U.S. House,2,IND,Matthew Robert Wookey,18
+Trinity,401,U.S. Senate,,IND,Clive Grey,4
+Trinity,401,U.S. Senate,,REP,Don Krampe,5
+Trinity,401,U.S. Senate,,REP,Duf Sundheim,17
+Trinity,401,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,401,U.S. Senate,,LIB,Gail K. Lightfoot,11
+Trinity,401,U.S. Senate,,REP,George C. Yang,1
+Trinity,401,U.S. Senate,,REP,Greg Conlon,3
+Trinity,401,U.S. Senate,,IND,Jason Kraus,5
+Trinity,401,U.S. Senate,,REP,Jerry J. Laws,6
+Trinity,401,U.S. Senate,,DEM,Kamala D. Harris,90
+Trinity,401,U.S. Senate,,REP,Karen Roseberry,8
+Trinity,401,U.S. Senate,,IND,Ling Ling Shi,2
+Trinity,401,U.S. Senate,,DEM,Loretta L. Sanchez,36
+Trinity,401,U.S. Senate,,LIB,Mark Matthew Herd,2
+Trinity,401,U.S. Senate,,DEM,Massie Munroe,6
+Trinity,401,U.S. Senate,,GRN,Pamela Elizondo,8
+Trinity,401,U.S. Senate,,IND,Paul Merritt,3
+Trinity,401,U.S. Senate,,REP,Phil Wyman,12
+Trinity,401,U.S. Senate,,DEM,President Cristina Grappo,3
+Trinity,401,U.S. Senate,,REP,Ron Unz,1
+Trinity,401,U.S. Senate,,DEM,Steve Stokes,23
+Trinity,401,U.S. Senate,,REP,Thomas G. Del Beccaro,7
+Trinity,401,U.S. Senate,,IND,Tim Gildersleeve,1
+Trinity,401,U.S. Senate,,REP,Tom Palzer,7
+Trinity,401,U.S. Senate,,REP,Von Hougo,1
+Trinity,411,President,,REP,Ben Carson,2
+Trinity,411,President,,DEM,Bernie Sanders,18
+Trinity,411,President,,REP,Donald Trump,20
+Trinity,411,President,,DEM,Hillary Clinton,12
+Trinity,411,President,,LIB,John McAfee,1
+Trinity,411,President,,REP,John R. Kasich,1
+Trinity,411,President,,REP,Ted Cruz,4
+Trinity,411,President,,DEM,Willie Wilson,2
+Trinity,411,Proposition 50,,,No,18
+Trinity,411,Proposition 50,,,Yes,58
+Trinity,411,State Assembly,2,DEM,Jim Wood,50
+Trinity,411,U.S. House,2,REP,Dale K. Mensing,38
+Trinity,411,U.S. House,2,DEM,Erin A. Schrode,7
+Trinity,411,U.S. House,2,DEM,Jared W. Huffman,26
+Trinity,411,U.S. House,2,IND,Matthew Robert Wookey,5
+Trinity,411,U.S. Senate,,REP,Don Krampe,6
+Trinity,411,U.S. Senate,,REP,Duf Sundheim,3
+Trinity,411,U.S. Senate,,IND,Eleanor García,1
+Trinity,411,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,411,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Trinity,411,U.S. Senate,,REP,George C. Yang,4
+Trinity,411,U.S. Senate,,REP,Greg Conlon,2
+Trinity,411,U.S. Senate,,REP,Jarrell Williamson,1
+Trinity,411,U.S. Senate,,REP,Jerry J. Laws,4
+Trinity,411,U.S. Senate,,DEM,Kamala D. Harris,20
+Trinity,411,U.S. Senate,,REP,Karen Roseberry,4
+Trinity,411,U.S. Senate,,DEM,Loretta L. Sanchez,3
+Trinity,411,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,411,U.S. Senate,,IND,Mike Beitiks,1
+Trinity,411,U.S. Senate,,IND,Paul Merritt,3
+Trinity,411,U.S. Senate,,REP,Phil Wyman,4
+Trinity,411,U.S. Senate,,DEM,President Cristina Grappo,3
+Trinity,411,U.S. Senate,,REP,Ron Unz,2
+Trinity,411,U.S. Senate,,DEM,Steve Stokes,2
+Trinity,411,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Trinity,411,U.S. Senate,,REP,Tom Palzer,1
+Trinity,411,U.S. Senate,,REP,Von Hougo,3
+Trinity,421,President,,AIP,Alan Spears,1
+Trinity,421,President,,REP,Ben Carson,2
+Trinity,421,President,,DEM,Bernie Sanders,33
+Trinity,421,President,,REP,Donald Trump,15
+Trinity,421,President,,DEM,Hillary Clinton,15
+Trinity,421,President,,GRN,Jill Stein,1
+Trinity,421,President,,LIB,Joy Waymire,1
+Trinity,421,Proposition 50,,,No,18
+Trinity,421,Proposition 50,,,Yes,61
+Trinity,421,State Assembly,2,DEM,Jim Wood,63
+Trinity,421,U.S. House,2,REP,Dale K. Mensing,20
+Trinity,421,U.S. House,2,DEM,Erin A. Schrode,8
+Trinity,421,U.S. House,2,DEM,Jared W. Huffman,48
+Trinity,421,U.S. House,2,IND,Matthew Robert Wookey,4
+Trinity,421,U.S. Senate,,IND,Clive Grey,2
+Trinity,421,U.S. Senate,,REP,Don Krampe,1
+Trinity,421,U.S. Senate,,REP,Duf Sundheim,1
+Trinity,421,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Trinity,421,U.S. Senate,,REP,Greg Conlon,5
+Trinity,421,U.S. Senate,,REP,Jarrell Williamson,1
+Trinity,421,U.S. Senate,,IND,Jason Kraus,1
+Trinity,421,U.S. Senate,,REP,Jerry J. Laws,2
+Trinity,421,U.S. Senate,,DEM,Kamala D. Harris,29
+Trinity,421,U.S. Senate,,DEM,Loretta L. Sanchez,17
+Trinity,421,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,421,U.S. Senate,,DEM,Massie Munroe,2
+Trinity,421,U.S. Senate,,IND,Mike Beitiks,2
+Trinity,421,U.S. Senate,,GRN,Pamela Elizondo,2
+Trinity,421,U.S. Senate,,REP,Phil Wyman,6
+Trinity,421,U.S. Senate,,DEM,Steve Stokes,1
+Trinity,421,U.S. Senate,,REP,Thomas G. Del Beccaro,1
+Trinity,421,U.S. Senate,,REP,Von Hougo,1
+Trinity,431,President,,REP,Ben Carson,1
+Trinity,431,President,,DEM,Bernie Sanders,26
+Trinity,431,President,,REP,Donald Trump,22
+Trinity,431,President,,DEM,Hillary Clinton,22
+Trinity,431,President,,REP,John R. Kasich,3
+Trinity,431,President,,DEM,Keith Judd,1
+Trinity,431,President,,REP,Ted Cruz,5
+Trinity,431,Proposition 50,,,No,33
+Trinity,431,Proposition 50,,,Yes,58
+Trinity,431,State Assembly,2,DEM,Jim Wood,64
+Trinity,431,U.S. House,2,REP,Dale K. Mensing,25
+Trinity,431,U.S. House,2,DEM,Erin A. Schrode,5
+Trinity,431,U.S. House,2,DEM,Jared W. Huffman,54
+Trinity,431,U.S. House,2,IND,Matthew Robert Wookey,4
+Trinity,431,U.S. Senate,,IND,Clive Grey,1
+Trinity,431,U.S. Senate,,REP,Don Krampe,3
+Trinity,431,U.S. Senate,,REP,Duf Sundheim,5
+Trinity,431,U.S. Senate,,IND,Eleanor García,1
+Trinity,431,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Trinity,431,U.S. Senate,,REP,Greg Conlon,9
+Trinity,431,U.S. Senate,,IND,Jason Kraus,1
+Trinity,431,U.S. Senate,,REP,Jerry J. Laws,3
+Trinity,431,U.S. Senate,,DEM,Kamala D. Harris,32
+Trinity,431,U.S. Senate,,REP,Karen Roseberry,1
+Trinity,431,U.S. Senate,,DEM,Loretta L. Sanchez,11
+Trinity,431,U.S. Senate,,DEM,Massie Munroe,1
+Trinity,431,U.S. Senate,,IND,Mike Beitiks,1
+Trinity,431,U.S. Senate,,GRN,Pamela Elizondo,1
+Trinity,431,U.S. Senate,,REP,Phil Wyman,5
+Trinity,431,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,431,U.S. Senate,,REP,Ron Unz,1
+Trinity,431,U.S. Senate,,DEM,Steve Stokes,1
+Trinity,431,U.S. Senate,,REP,Tom Palzer,3
+Trinity,442,President,,REP,Ben Carson,5
+Trinity,442,President,,DEM,Bernie Sanders,50
+Trinity,442,President,,REP,Donald Trump,65
+Trinity,442,President,,DEM,Hillary Clinton,44
+Trinity,442,President,,GRN,Jill Stein,1
+Trinity,442,President,,REP,Jim Gilmore,1
+Trinity,442,President,,REP,John R. Kasich,16
+Trinity,442,President,,REP,Ted Cruz,10
+Trinity,442,Proposition 50,,,No,53
+Trinity,442,Proposition 50,,,Yes,170
+Trinity,442,State Assembly,2,DEM,Jim Wood,151
+Trinity,442,U.S. House,2,REP,Dale K. Mensing,87
+Trinity,442,U.S. House,2,DEM,Erin A. Schrode,18
+Trinity,442,U.S. House,2,DEM,Jared W. Huffman,92
+Trinity,442,U.S. House,2,IND,Matthew Robert Wookey,18
+Trinity,442,U.S. Senate,,IND,Clive Grey,3
+Trinity,442,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,442,U.S. Senate,,REP,Don Krampe,5
+Trinity,442,U.S. Senate,,REP,Duf Sundheim,17
+Trinity,442,U.S. Senate,,IND,Eleanor García,2
+Trinity,442,U.S. Senate,,DEM,Emory Rodgers,2
+Trinity,442,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Trinity,442,U.S. Senate,,REP,George C. Yang,1
+Trinity,442,U.S. Senate,,REP,Greg Conlon,14
+Trinity,442,U.S. Senate,,REP,Jarrell Williamson,1
+Trinity,442,U.S. Senate,,IND,Jason Hanania,1
+Trinity,442,U.S. Senate,,IND,Jason Kraus,4
+Trinity,442,U.S. Senate,,REP,Jerry J. Laws,8
+Trinity,442,U.S. Senate,,DEM,Kamala D. Harris,63
+Trinity,442,U.S. Senate,,REP,Karen Roseberry,6
+Trinity,442,U.S. Senate,,DEM,Loretta L. Sanchez,14
+Trinity,442,U.S. Senate,,LIB,Mark Matthew Herd,3
+Trinity,442,U.S. Senate,,DEM,Massie Munroe,3
+Trinity,442,U.S. Senate,,GRN,Pamela Elizondo,4
+Trinity,442,U.S. Senate,,REP,Phil Wyman,12
+Trinity,442,U.S. Senate,,DEM,President Cristina Grappo,3
+Trinity,442,U.S. Senate,,REP,Ron Unz,5
+Trinity,442,U.S. Senate,,DEM,Steve Stokes,6
+Trinity,442,U.S. Senate,,REP,Thomas G. Del Beccaro,8
+Trinity,442,U.S. Senate,,REP,Tom Palzer,8
+Trinity,442,U.S. Senate,,REP,Von Hougo,4
+Trinity,451,President,,DEM,Bernie Sanders,38
+Trinity,451,President,,GRN,Darryl Cherney,2
+Trinity,451,President,,REP,Donald Trump,31
+Trinity,451,President,,LIB,Gary Johnson,2
+Trinity,451,President,,DEM,Hillary Clinton,13
+Trinity,451,President,,REP,John R. Kasich,3
+Trinity,451,President,,DEM,Michael Steinberg,1
+Trinity,451,President,,REP,Ted Cruz,6
+Trinity,451,President,,DEM,Willie Wilson,1
+Trinity,451,Proposition 50,,,No,32
+Trinity,451,Proposition 50,,,Yes,75
+Trinity,451,State Assembly,2,DEM,Jim Wood,64
+Trinity,451,U.S. House,2,REP,Dale K. Mensing,41
+Trinity,451,U.S. House,2,DEM,Erin A. Schrode,8
+Trinity,451,U.S. House,2,DEM,Jared W. Huffman,45
+Trinity,451,U.S. House,2,IND,Matthew Robert Wookey,10
+Trinity,451,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,451,U.S. Senate,,REP,Don Krampe,1
+Trinity,451,U.S. Senate,,REP,Duf Sundheim,14
+Trinity,451,U.S. Senate,,IND,Eleanor García,1
+Trinity,451,U.S. Senate,,LIB,Gail K. Lightfoot,5
+Trinity,451,U.S. Senate,,REP,Greg Conlon,4
+Trinity,451,U.S. Senate,,REP,Jarrell Williamson,2
+Trinity,451,U.S. Senate,,REP,Jerry J. Laws,5
+Trinity,451,U.S. Senate,,DEM,Kamala D. Harris,23
+Trinity,451,U.S. Senate,,REP,Karen Roseberry,2
+Trinity,451,U.S. Senate,,DEM,Loretta L. Sanchez,13
+Trinity,451,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,451,U.S. Senate,,DEM,Massie Munroe,3
+Trinity,451,U.S. Senate,,GRN,Pamela Elizondo,6
+Trinity,451,U.S. Senate,,REP,Phil Wyman,11
+Trinity,451,U.S. Senate,,REP,Ron Unz,1
+Trinity,451,U.S. Senate,,DEM,Steve Stokes,7
+Trinity,451,U.S. Senate,,REP,Thomas G. Del Beccaro,1
+Trinity,451,U.S. Senate,,REP,Tom Palzer,1
+Trinity,451,U.S. Senate,,REP,Von Hougo,1
+Trinity,501,President,,REP,Ben Carson,1
+Trinity,501,President,,DEM,Bernie Sanders,84
+Trinity,501,President,,GRN,Darryl Cherney,1
+Trinity,501,President,,REP,Donald Trump,89
+Trinity,501,President,,LIB,Gary Johnson,1
+Trinity,501,President,,DEM,Hillary Clinton,52
+Trinity,501,President,,AIP,J.R. Myers,1
+Trinity,501,President,,AIP,James Hedges,1
+Trinity,501,President,,LIB,John McAfee,1
+Trinity,501,President,,REP,John R. Kasich,7
+Trinity,501,President,,LIB,Joy Waymire,1
+Trinity,501,President,,DEM,Michael Steinberg,2
+Trinity,501,President,,DEM,Roque De La Fuente,1
+Trinity,501,President,,REP,Ted Cruz,8
+Trinity,501,President,,AIP,Thomas Hoefling,1
+Trinity,501,President,,AIP,Wiley Drake,1
+Trinity,501,Proposition 50,,,No,73
+Trinity,501,Proposition 50,,,Yes,228
+Trinity,501,State Assembly,2,DEM,Jim Wood,205
+Trinity,501,U.S. House,2,REP,Dale K. Mensing,109
+Trinity,501,U.S. House,2,DEM,Erin A. Schrode,35
+Trinity,501,U.S. House,2,DEM,Jared W. Huffman,119
+Trinity,501,U.S. House,2,IND,Matthew Robert Wookey,35
+Trinity,501,U.S. Senate,,IND,Clive Grey,3
+Trinity,501,U.S. Senate,,REP,Don Krampe,14
+Trinity,501,U.S. Senate,,REP,Duf Sundheim,27
+Trinity,501,U.S. Senate,,LIB,Gail K. Lightfoot,25
+Trinity,501,U.S. Senate,,REP,George C. Yang,5
+Trinity,501,U.S. Senate,,REP,Greg Conlon,12
+Trinity,501,U.S. Senate,,DEM,Herbert G. Peters,1
+Trinity,501,U.S. Senate,,REP,Jarrell Williamson,3
+Trinity,501,U.S. Senate,,IND,Jason Hanania,1
+Trinity,501,U.S. Senate,,REP,Jerry J. Laws,14
+Trinity,501,U.S. Senate,,DEM,Kamala D. Harris,61
+Trinity,501,U.S. Senate,,REP,Karen Roseberry,6
+Trinity,501,U.S. Senate,,IND,Ling Ling Shi,1
+Trinity,501,U.S. Senate,,DEM,Loretta L. Sanchez,33
+Trinity,501,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,501,U.S. Senate,,DEM,Massie Munroe,6
+Trinity,501,U.S. Senate,,IND,Mike Beitiks,2
+Trinity,501,U.S. Senate,,GRN,Pamela Elizondo,8
+Trinity,501,U.S. Senate,,IND,Paul Merritt,2
+Trinity,501,U.S. Senate,,REP,Phil Wyman,30
+Trinity,501,U.S. Senate,,REP,Ron Unz,3
+Trinity,501,U.S. Senate,,DEM,Steve Stokes,18
+Trinity,501,U.S. Senate,,REP,Thomas G. Del Beccaro,5
+Trinity,501,U.S. Senate,,IND,Tim Gildersleeve,3
+Trinity,501,U.S. Senate,,REP,Tom Palzer,6
+Trinity,511,President,,DEM,Bernie Sanders,5
+Trinity,511,President,,REP,Donald Trump,1
+Trinity,511,President,,DEM,Hillary Clinton,1
+Trinity,511,President,,REP,Ted Cruz,1
+Trinity,511,Proposition 50,,,No,3
+Trinity,511,Proposition 50,,,Yes,4
+Trinity,511,State Assembly,2,DEM,Jim Wood,5
+Trinity,511,U.S. House,2,REP,Dale K. Mensing,1
+Trinity,511,U.S. House,2,DEM,Erin A. Schrode,1
+Trinity,511,U.S. House,2,DEM,Jared W. Huffman,2
+Trinity,511,U.S. House,2,IND,Matthew Robert Wookey,2
+Trinity,511,U.S. Senate,,REP,Duf Sundheim,1
+Trinity,511,U.S. Senate,,REP,George C. Yang,4
+Trinity,511,U.S. Senate,,DEM,Herbert G. Peters,1
+Trinity,511,U.S. Senate,,GRN,Pamela Elizondo,1
+Trinity,511,U.S. Senate,,REP,Ron Unz,1
+Trinity,521,President,,REP,Ben Carson,1
+Trinity,521,President,,DEM,Bernie Sanders,15
+Trinity,521,President,,GRN,Darryl Cherney,1
+Trinity,521,President,,REP,Donald Trump,8
+Trinity,521,President,,DEM,Hillary Clinton,7
+Trinity,521,President,,AIP,Robert Ornelas,1
+Trinity,521,President,,DEM,Willie Wilson,2
+Trinity,521,Proposition 50,,,No,10
+Trinity,521,Proposition 50,,,Yes,44
+Trinity,521,State Assembly,2,DEM,Jim Wood,39
+Trinity,521,U.S. House,2,REP,Dale K. Mensing,13
+Trinity,521,U.S. House,2,DEM,Erin A. Schrode,12
+Trinity,521,U.S. House,2,DEM,Jared W. Huffman,19
+Trinity,521,U.S. House,2,IND,Matthew Robert Wookey,6
+Trinity,521,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,521,U.S. Senate,,IND,Eleanor García,1
+Trinity,521,U.S. Senate,,LIB,Gail K. Lightfoot,2
+Trinity,521,U.S. Senate,,IND,Gar Myers,1
+Trinity,521,U.S. Senate,,REP,George C. Yang,13
+Trinity,521,U.S. Senate,,REP,Jerry J. Laws,1
+Trinity,521,U.S. Senate,,DEM,Kamala D. Harris,9
+Trinity,521,U.S. Senate,,REP,Karen Roseberry,1
+Trinity,521,U.S. Senate,,IND,Ling Ling Shi,1
+Trinity,521,U.S. Senate,,DEM,Loretta L. Sanchez,4
+Trinity,521,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,521,U.S. Senate,,DEM,Massie Munroe,2
+Trinity,521,U.S. Senate,,GRN,Pamela Elizondo,4
+Trinity,521,U.S. Senate,,REP,Phil Wyman,6
+Trinity,521,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,521,U.S. Senate,,REP,Ron Unz,2
+Trinity,521,U.S. Senate,,DEM,Steve Stokes,3
+Trinity,521,U.S. Senate,,IND,Tim Gildersleeve,2
+Trinity,521,U.S. Senate,,REP,Von Hougo,1
+Trinity,531,President,,AIP,Arthur Harris,1
+Trinity,531,President,,REP,Ben Carson,2
+Trinity,531,President,,DEM,Bernie Sanders,24
+Trinity,531,President,,GRN,Darryl Cherney,3
+Trinity,531,President,,REP,Donald Trump,37
+Trinity,531,President,,DEM,Hillary Clinton,6
+Trinity,531,President,,REP,Jim Gilmore,1
+Trinity,531,President,,REP,John R. Kasich,2
+Trinity,531,President,,REP,Ted Cruz,7
+Trinity,531,Proposition 50,,,No,31
+Trinity,531,Proposition 50,,,Yes,77
+Trinity,531,State Assembly,2,DEM,Jim Wood,75
+Trinity,531,U.S. House,2,REP,Dale K. Mensing,47
+Trinity,531,U.S. House,2,DEM,Erin A. Schrode,8
+Trinity,531,U.S. House,2,DEM,Jared W. Huffman,45
+Trinity,531,U.S. House,2,IND,Matthew Robert Wookey,4
+Trinity,531,U.S. Senate,,IND,Clive Grey,1
+Trinity,531,U.S. Senate,,REP,Don Krampe,1
+Trinity,531,U.S. Senate,,REP,Duf Sundheim,10
+Trinity,531,U.S. Senate,,IND,Eleanor García,1
+Trinity,531,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,531,U.S. Senate,,LIB,Gail K. Lightfoot,1
+Trinity,531,U.S. Senate,,IND,Gar Myers,1
+Trinity,531,U.S. Senate,,REP,George C. Yang,4
+Trinity,531,U.S. Senate,,REP,Greg Conlon,7
+Trinity,531,U.S. Senate,,DEM,Herbert G. Peters,1
+Trinity,531,U.S. Senate,,REP,Jarrell Williamson,2
+Trinity,531,U.S. Senate,,IND,Jason Hanania,2
+Trinity,531,U.S. Senate,,IND,Jason Kraus,1
+Trinity,531,U.S. Senate,,REP,Jerry J. Laws,3
+Trinity,531,U.S. Senate,,DEM,Kamala D. Harris,7
+Trinity,531,U.S. Senate,,DEM,Loretta L. Sanchez,21
+Trinity,531,U.S. Senate,,IND,Mike Beitiks,1
+Trinity,531,U.S. Senate,,GRN,Pamela Elizondo,5
+Trinity,531,U.S. Senate,,IND,Paul Merritt,2
+Trinity,531,U.S. Senate,,REP,Phil Wyman,15
+Trinity,531,U.S. Senate,,DEM,President Cristina Grappo,2
+Trinity,531,U.S. Senate,,REP,Ron Unz,3
+Trinity,531,U.S. Senate,,REP,Thomas G. Del Beccaro,7
+Trinity,531,U.S. Senate,,REP,Tom Palzer,5
+Trinity,531,U.S. Senate,,REP,Von Hougo,1
+Trinity,541,President,,REP,Ben Carson,2
+Trinity,541,President,,DEM,Bernie Sanders,13
+Trinity,541,President,,REP,Donald Trump,34
+Trinity,541,President,,DEM,Hillary Clinton,11
+Trinity,541,President,,AIP,J.R. Myers,1
+Trinity,541,President,,REP,John R. Kasich,2
+Trinity,541,President,,DEM,Michael Steinberg,2
+Trinity,541,President,,REP,Ted Cruz,4
+Trinity,541,President,,DEM,Willie Wilson,1
+Trinity,541,Proposition 50,,,No,25
+Trinity,541,Proposition 50,,,Yes,58
+Trinity,541,State Assembly,2,DEM,Jim Wood,44
+Trinity,541,U.S. House,2,REP,Dale K. Mensing,46
+Trinity,541,U.S. House,2,DEM,Erin A. Schrode,5
+Trinity,541,U.S. House,2,DEM,Jared W. Huffman,30
+Trinity,541,U.S. House,2,IND,Matthew Robert Wookey,2
+Trinity,541,U.S. Senate,,REP,Don Krampe,2
+Trinity,541,U.S. Senate,,REP,Duf Sundheim,6
+Trinity,541,U.S. Senate,,DEM,Emory Rodgers,1
+Trinity,541,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Trinity,541,U.S. Senate,,REP,Greg Conlon,6
+Trinity,541,U.S. Senate,,REP,Jarrell Williamson,1
+Trinity,541,U.S. Senate,,IND,Jason Hanania,1
+Trinity,541,U.S. Senate,,REP,Jerry J. Laws,9
+Trinity,541,U.S. Senate,,DEM,Kamala D. Harris,19
+Trinity,541,U.S. Senate,,DEM,Loretta L. Sanchez,4
+Trinity,541,U.S. Senate,,REP,Phil Wyman,15
+Trinity,541,U.S. Senate,,DEM,President Cristina Grappo,1
+Trinity,541,U.S. Senate,,REP,Ron Unz,1
+Trinity,541,U.S. Senate,,DEM,Steve Stokes,2
+Trinity,541,U.S. Senate,,IND,Tim Gildersleeve,1
+Trinity,541,U.S. Senate,,REP,Tom Palzer,1
+Trinity,541,U.S. Senate,,REP,Von Hougo,5
+Trinity,551,President,,DEM,Bernie Sanders,13
+Trinity,551,President,,REP,Donald Trump,23
+Trinity,551,President,,DEM,Hillary Clinton,10
+Trinity,551,President,,DEM,Keith Judd,1
+Trinity,551,President,,REP,Ted Cruz,4
+Trinity,551,Proposition 50,,,No,24
+Trinity,551,Proposition 50,,,Yes,41
+Trinity,551,State Assembly,2,DEM,Jim Wood,41
+Trinity,551,U.S. House,2,REP,Dale K. Mensing,26
+Trinity,551,U.S. House,2,DEM,Erin A. Schrode,12
+Trinity,551,U.S. House,2,DEM,Jared W. Huffman,20
+Trinity,551,U.S. House,2,IND,Matthew Robert Wookey,10
+Trinity,551,U.S. Senate,,IND,Clive Grey,2
+Trinity,551,U.S. Senate,,IND,Don J. Grundmann,1
+Trinity,551,U.S. Senate,,REP,Don Krampe,5
+Trinity,551,U.S. Senate,,REP,Duf Sundheim,3
+Trinity,551,U.S. Senate,,LIB,Gail K. Lightfoot,4
+Trinity,551,U.S. Senate,,REP,George C. Yang,2
+Trinity,551,U.S. Senate,,REP,Greg Conlon,3
+Trinity,551,U.S. Senate,,IND,Jason Kraus,2
+Trinity,551,U.S. Senate,,REP,Jerry J. Laws,4
+Trinity,551,U.S. Senate,,DEM,Kamala D. Harris,13
+Trinity,551,U.S. Senate,,REP,Karen Roseberry,1
+Trinity,551,U.S. Senate,,DEM,Loretta L. Sanchez,6
+Trinity,551,U.S. Senate,,LIB,Mark Matthew Herd,2
+Trinity,551,U.S. Senate,,GRN,Pamela Elizondo,2
+Trinity,551,U.S. Senate,,REP,Phil Wyman,11
+Trinity,551,U.S. Senate,,DEM,President Cristina Grappo,2
+Trinity,551,U.S. Senate,,DEM,Steve Stokes,2
+Trinity,551,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Trinity,551,U.S. Senate,,REP,Tom Palzer,1
+Trinity,581,President,,LIB,Austin Petersen,1
+Trinity,581,President,,DEM,Bernie Sanders,32
+Trinity,581,President,,GRN,Darryl Cherney,1
+Trinity,581,President,,REP,Donald Trump,14
+Trinity,581,President,,DEM,Hillary Clinton,12
+Trinity,581,President,,GRN,Jill Stein,1
+Trinity,581,President,,REP,Jim Gilmore,1
+Trinity,581,President,,LIB,John McAfee,1
+Trinity,581,President,,REP,John R. Kasich,6
+Trinity,581,President,,DEM,Keith Judd,1
+Trinity,581,President,,DEM,Willie Wilson,1
+Trinity,581,Proposition 50,,,No,32
+Trinity,581,Proposition 50,,,Yes,59
+Trinity,581,State Assembly,2,DEM,Jim Wood,67
+Trinity,581,U.S. House,2,REP,Dale K. Mensing,18
+Trinity,581,U.S. House,2,DEM,Erin A. Schrode,9
+Trinity,581,U.S. House,2,DEM,Jared W. Huffman,54
+Trinity,581,U.S. House,2,IND,Matthew Robert Wookey,6
+Trinity,581,U.S. Senate,,IND,Clive Grey,1
+Trinity,581,U.S. Senate,,REP,Duf Sundheim,2
+Trinity,581,U.S. Senate,,LIB,Gail K. Lightfoot,3
+Trinity,581,U.S. Senate,,REP,Greg Conlon,3
+Trinity,581,U.S. Senate,,IND,Jason Kraus,1
+Trinity,581,U.S. Senate,,REP,Jerry J. Laws,1
+Trinity,581,U.S. Senate,,DEM,Kamala D. Harris,42
+Trinity,581,U.S. Senate,,DEM,Loretta L. Sanchez,9
+Trinity,581,U.S. Senate,,LIB,Mark Matthew Herd,1
+Trinity,581,U.S. Senate,,GRN,Pamela Elizondo,6
+Trinity,581,U.S. Senate,,REP,Phil Wyman,5
+Trinity,581,U.S. Senate,,REP,Ron Unz,4
+Trinity,581,U.S. Senate,,DEM,Steve Stokes,2
+Trinity,581,U.S. Senate,,REP,Thomas G. Del Beccaro,2
+Trinity,581,U.S. Senate,,IND,Tim Gildersleeve,1
+Trinity,581,U.S. Senate,,REP,Tom Palzer,1
