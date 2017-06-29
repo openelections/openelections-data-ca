@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Tehama,10030,President,,REP/AI,Donald J. Trump,919
+Tehama,10030,President,,REP,Donald J. Trump,919
 Tehama,10030,President,,LIB,Gary Johnson,36
-Tehama,10030,President,,PF,Gloria Estela La Riva,5
+Tehama,10030,President,,PAF,Gloria Estela La Riva,5
 Tehama,10030,President,,DEM,Hillary Clinton,241
 Tehama,10030,President,,GRN,Jill Stein,12
-Tehama,10030,President,,WI,Write-In,8
 Tehama,10030,Proposition 51,,,No,836
 Tehama,10030,Proposition 51,,,Yes,354
 Tehama,10030,Proposition 52,,,No,596
@@ -39,14 +38,17 @@ Tehama,10030,Proposition 66,,,No,503
 Tehama,10030,Proposition 66,,,Yes,631
 Tehama,10030,Proposition 67,,,No,854
 Tehama,10030,Proposition 67,,,Yes,341
+Tehama,10030,State Assembly,3,DEM,Edward Ritchie,237
+Tehama,10030,State Assembly,3,REP,James Gallagher,946
+Tehama,10030,U.S. House,1,REP,Doug La Malfa,898
+Tehama,10030,U.S. House,1,DEM,Jim Reed,314
 Tehama,10030,U.S. Senate,,DEM,Kamala D. Harris,477
 Tehama,10030,U.S. Senate,,DEM,Loretta L. Sanchez,336
-Tehama,10050,President,,REP/AI,Donald J. Trump,899
+Tehama,10050,President,,REP,Donald J. Trump,899
 Tehama,10050,President,,LIB,Gary Johnson,46
-Tehama,10050,President,,PF,Gloria Estela La Riva,2
+Tehama,10050,President,,PAF,Gloria Estela La Riva,2
 Tehama,10050,President,,DEM,Hillary Clinton,272
 Tehama,10050,President,,GRN,Jill Stein,14
-Tehama,10050,President,,WI,Write-In,8
 Tehama,10050,Proposition 51,,,No,816
 Tehama,10050,Proposition 51,,,Yes,371
 Tehama,10050,Proposition 52,,,No,548
@@ -81,14 +83,17 @@ Tehama,10050,Proposition 66,,,No,509
 Tehama,10050,Proposition 66,,,Yes,653
 Tehama,10050,Proposition 67,,,No,852
 Tehama,10050,Proposition 67,,,Yes,361
+Tehama,10050,State Assembly,3,DEM,Edward Ritchie,261
+Tehama,10050,State Assembly,3,REP,James Gallagher,924
+Tehama,10050,U.S. House,1,REP,Doug La Malfa,885
+Tehama,10050,U.S. House,1,DEM,Jim Reed,336
 Tehama,10050,U.S. Senate,,DEM,Kamala D. Harris,452
 Tehama,10050,U.S. Senate,,DEM,Loretta L. Sanchez,384
-Tehama,10130,President,,REP/AI,Donald J. Trump,883
+Tehama,10130,President,,REP,Donald J. Trump,883
 Tehama,10130,President,,LIB,Gary Johnson,42
-Tehama,10130,President,,PF,Gloria Estela La Riva,3
+Tehama,10130,President,,PAF,Gloria Estela La Riva,3
 Tehama,10130,President,,DEM,Hillary Clinton,321
 Tehama,10130,President,,GRN,Jill Stein,10
-Tehama,10130,President,,WI,Write-In,15
 Tehama,10130,Proposition 51,,,No,849
 Tehama,10130,Proposition 51,,,Yes,424
 Tehama,10130,Proposition 52,,,No,630
@@ -123,14 +128,17 @@ Tehama,10130,Proposition 66,,,No,505
 Tehama,10130,Proposition 66,,,Yes,714
 Tehama,10130,Proposition 67,,,No,923
 Tehama,10130,Proposition 67,,,Yes,349
+Tehama,10130,State Assembly,3,DEM,Edward Ritchie,303
+Tehama,10130,State Assembly,3,REP,James Gallagher,953
+Tehama,10130,U.S. House,1,REP,Doug La Malfa,912
+Tehama,10130,U.S. House,1,DEM,Jim Reed,367
 Tehama,10130,U.S. Senate,,DEM,Kamala D. Harris,486
 Tehama,10130,U.S. Senate,,DEM,Loretta L. Sanchez,380
-Tehama,12060,President,,REP/AI,Donald J. Trump,453
+Tehama,12060,President,,REP,Donald J. Trump,453
 Tehama,12060,President,,LIB,Gary Johnson,57
-Tehama,12060,President,,PF,Gloria Estela La Riva,7
+Tehama,12060,President,,PAF,Gloria Estela La Riva,7
 Tehama,12060,President,,DEM,Hillary Clinton,291
 Tehama,12060,President,,GRN,Jill Stein,11
-Tehama,12060,President,,WI,Write-In,9
 Tehama,12060,Proposition 51,,,No,409
 Tehama,12060,Proposition 51,,,Yes,399
 Tehama,12060,Proposition 52,,,No,297
@@ -165,14 +173,17 @@ Tehama,12060,Proposition 66,,,No,366
 Tehama,12060,Proposition 66,,,Yes,408
 Tehama,12060,Proposition 67,,,No,495
 Tehama,12060,Proposition 67,,,Yes,315
+Tehama,12060,State Assembly,3,DEM,Edward Ritchie,290
+Tehama,12060,State Assembly,3,REP,James Gallagher,505
+Tehama,12060,U.S. House,1,REP,Doug La Malfa,467
+Tehama,12060,U.S. House,1,DEM,Jim Reed,346
 Tehama,12060,U.S. Senate,,DEM,Kamala D. Harris,326
 Tehama,12060,U.S. Senate,,DEM,Loretta L. Sanchez,343
-Tehama,12080,President,,REP/AI,Donald J. Trump,447
+Tehama,12080,President,,REP,Donald J. Trump,447
 Tehama,12080,President,,LIB,Gary Johnson,28
-Tehama,12080,President,,PF,Gloria Estela La Riva,2
+Tehama,12080,President,,PAF,Gloria Estela La Riva,2
 Tehama,12080,President,,DEM,Hillary Clinton,232
 Tehama,12080,President,,GRN,Jill Stein,11
-Tehama,12080,President,,WI,Write-In,7
 Tehama,12080,Proposition 51,,,No,408
 Tehama,12080,Proposition 51,,,Yes,285
 Tehama,12080,Proposition 52,,,No,313
@@ -207,14 +218,17 @@ Tehama,12080,Proposition 66,,,No,299
 Tehama,12080,Proposition 66,,,Yes,360
 Tehama,12080,Proposition 67,,,No,450
 Tehama,12080,Proposition 67,,,Yes,257
+Tehama,12080,State Assembly,3,DEM,Edward Ritchie,214
+Tehama,12080,State Assembly,3,REP,James Gallagher,483
+Tehama,12080,U.S. House,1,REP,Doug La Malfa,441
+Tehama,12080,U.S. House,1,DEM,Jim Reed,274
 Tehama,12080,U.S. Senate,,DEM,Kamala D. Harris,322
 Tehama,12080,U.S. Senate,,DEM,Loretta L. Sanchez,213
-Tehama,12210,President,,REP/AI,Donald J. Trump,210
+Tehama,12210,President,,REP,Donald J. Trump,210
 Tehama,12210,President,,LIB,Gary Johnson,13
-Tehama,12210,President,,PF,Gloria Estela La Riva,3
+Tehama,12210,President,,PAF,Gloria Estela La Riva,3
 Tehama,12210,President,,DEM,Hillary Clinton,126
 Tehama,12210,President,,GRN,Jill Stein,4
-Tehama,12210,President,,WI,Write-In,7
 Tehama,12210,Proposition 51,,,No,204
 Tehama,12210,Proposition 51,,,Yes,141
 Tehama,12210,Proposition 52,,,No,124
@@ -249,14 +263,17 @@ Tehama,12210,Proposition 66,,,No,161
 Tehama,12210,Proposition 66,,,Yes,175
 Tehama,12210,Proposition 67,,,No,228
 Tehama,12210,Proposition 67,,,Yes,128
+Tehama,12210,State Assembly,3,DEM,Edward Ritchie,130
+Tehama,12210,State Assembly,3,REP,James Gallagher,219
+Tehama,12210,U.S. House,1,REP,Doug La Malfa,198
+Tehama,12210,U.S. House,1,DEM,Jim Reed,159
 Tehama,12210,U.S. Senate,,DEM,Kamala D. Harris,147
 Tehama,12210,U.S. Senate,,DEM,Loretta L. Sanchez,121
-Tehama,20140,President,,REP/AI,Donald J. Trump,602
+Tehama,20140,President,,REP,Donald J. Trump,602
 Tehama,20140,President,,LIB,Gary Johnson,25
-Tehama,20140,President,,PF,Gloria Estela La Riva,3
+Tehama,20140,President,,PAF,Gloria Estela La Riva,3
 Tehama,20140,President,,DEM,Hillary Clinton,190
 Tehama,20140,President,,GRN,Jill Stein,4
-Tehama,20140,President,,WI,Write-In,6
 Tehama,20140,Proposition 51,,,No,566
 Tehama,20140,Proposition 51,,,Yes,247
 Tehama,20140,Proposition 52,,,No,406
@@ -291,14 +308,17 @@ Tehama,20140,Proposition 66,,,No,360
 Tehama,20140,Proposition 66,,,Yes,432
 Tehama,20140,Proposition 67,,,No,576
 Tehama,20140,Proposition 67,,,Yes,249
+Tehama,20140,State Assembly,3,DEM,Edward Ritchie,170
+Tehama,20140,State Assembly,3,REP,James Gallagher,639
+Tehama,20140,U.S. House,1,REP,Doug La Malfa,588
+Tehama,20140,U.S. House,1,DEM,Jim Reed,239
 Tehama,20140,U.S. Senate,,DEM,Kamala D. Harris,315
 Tehama,20140,U.S. Senate,,DEM,Loretta L. Sanchez,263
-Tehama,20160,President,,REP/AI,Donald J. Trump,143
+Tehama,20160,President,,REP,Donald J. Trump,143
 Tehama,20160,President,,LIB,Gary Johnson,12
-Tehama,20160,President,,PF,Gloria Estela La Riva,1
+Tehama,20160,President,,PAF,Gloria Estela La Riva,1
 Tehama,20160,President,,DEM,Hillary Clinton,53
 Tehama,20160,President,,GRN,Jill Stein,2
-Tehama,20160,President,,WI,Write-In,3
 Tehama,20160,Proposition 51,,,No,146
 Tehama,20160,Proposition 51,,,Yes,62
 Tehama,20160,Proposition 52,,,No,99
@@ -333,14 +353,17 @@ Tehama,20160,Proposition 66,,,No,93
 Tehama,20160,Proposition 66,,,Yes,109
 Tehama,20160,Proposition 67,,,No,152
 Tehama,20160,Proposition 67,,,Yes,60
+Tehama,20160,State Assembly,3,DEM,Edward Ritchie,47
+Tehama,20160,State Assembly,3,REP,James Gallagher,158
+Tehama,20160,U.S. House,1,REP,Doug La Malfa,146
+Tehama,20160,U.S. House,1,DEM,Jim Reed,67
 Tehama,20160,U.S. Senate,,DEM,Kamala D. Harris,87
 Tehama,20160,U.S. Senate,,DEM,Loretta L. Sanchez,78
-Tehama,20170,President,,REP/AI,Donald J. Trump,244
+Tehama,20170,President,,REP,Donald J. Trump,244
 Tehama,20170,President,,LIB,Gary Johnson,23
-Tehama,20170,President,,PF,Gloria Estela La Riva,2
+Tehama,20170,President,,PAF,Gloria Estela La Riva,2
 Tehama,20170,President,,DEM,Hillary Clinton,95
 Tehama,20170,President,,GRN,Jill Stein,3
-Tehama,20170,President,,WI,Write-In,3
 Tehama,20170,Proposition 51,,,No,254
 Tehama,20170,Proposition 51,,,Yes,105
 Tehama,20170,Proposition 52,,,No,168
@@ -375,14 +398,17 @@ Tehama,20170,Proposition 66,,,No,169
 Tehama,20170,Proposition 66,,,Yes,181
 Tehama,20170,Proposition 67,,,No,257
 Tehama,20170,Proposition 67,,,Yes,104
+Tehama,20170,State Assembly,3,DEM,Edward Ritchie,84
+Tehama,20170,State Assembly,3,REP,James Gallagher,260
+Tehama,20170,U.S. House,1,REP,Doug La Malfa,238
+Tehama,20170,U.S. House,1,DEM,Jim Reed,123
 Tehama,20170,U.S. Senate,,DEM,Kamala D. Harris,145
 Tehama,20170,U.S. Senate,,DEM,Loretta L. Sanchez,109
-Tehama,20250,President,,REP/AI,Donald J. Trump,405
+Tehama,20250,President,,REP,Donald J. Trump,405
 Tehama,20250,President,,LIB,Gary Johnson,28
-Tehama,20250,President,,PF,Gloria Estela La Riva,2
+Tehama,20250,President,,PAF,Gloria Estela La Riva,2
 Tehama,20250,President,,DEM,Hillary Clinton,105
 Tehama,20250,President,,GRN,Jill Stein,5
-Tehama,20250,President,,WI,Write-In,4
 Tehama,20250,Proposition 51,,,No,377
 Tehama,20250,Proposition 51,,,Yes,168
 Tehama,20250,Proposition 52,,,No,269
@@ -417,14 +443,17 @@ Tehama,20250,Proposition 66,,,No,230
 Tehama,20250,Proposition 66,,,Yes,297
 Tehama,20250,Proposition 67,,,No,409
 Tehama,20250,Proposition 67,,,Yes,140
+Tehama,20250,State Assembly,3,DEM,Edward Ritchie,103
+Tehama,20250,State Assembly,3,REP,James Gallagher,437
+Tehama,20250,U.S. House,1,REP,Doug La Malfa,411
+Tehama,20250,U.S. House,1,DEM,Jim Reed,134
 Tehama,20250,U.S. Senate,,DEM,Kamala D. Harris,221
 Tehama,20250,U.S. Senate,,DEM,Loretta L. Sanchez,157
-Tehama,20255,President,,REP/AI,Donald J. Trump,328
+Tehama,20255,President,,REP,Donald J. Trump,328
 Tehama,20255,President,,LIB,Gary Johnson,9
-Tehama,20255,President,,PF,Gloria Estela La Riva,3
+Tehama,20255,President,,PAF,Gloria Estela La Riva,3
 Tehama,20255,President,,DEM,Hillary Clinton,88
 Tehama,20255,President,,GRN,Jill Stein,1
-Tehama,20255,President,,WI,Write-In,0
 Tehama,20255,Proposition 51,,,No,283
 Tehama,20255,Proposition 51,,,Yes,131
 Tehama,20255,Proposition 52,,,No,202
@@ -459,14 +488,17 @@ Tehama,20255,Proposition 66,,,No,174
 Tehama,20255,Proposition 66,,,Yes,225
 Tehama,20255,Proposition 67,,,No,326
 Tehama,20255,Proposition 67,,,Yes,93
+Tehama,20255,State Assembly,3,DEM,Edward Ritchie,83
+Tehama,20255,State Assembly,3,REP,James Gallagher,331
+Tehama,20255,U.S. House,1,REP,Doug La Malfa,321
+Tehama,20255,U.S. House,1,DEM,Jim Reed,99
 Tehama,20255,U.S. Senate,,DEM,Kamala D. Harris,162
 Tehama,20255,U.S. Senate,,DEM,Loretta L. Sanchez,114
-Tehama,22190,President,,REP/AI,Donald J. Trump,417
+Tehama,22190,President,,REP,Donald J. Trump,417
 Tehama,22190,President,,LIB,Gary Johnson,35
-Tehama,22190,President,,PF,Gloria Estela La Riva,4
+Tehama,22190,President,,PAF,Gloria Estela La Riva,4
 Tehama,22190,President,,DEM,Hillary Clinton,268
 Tehama,22190,President,,GRN,Jill Stein,20
-Tehama,22190,President,,WI,Write-In,8
 Tehama,22190,Proposition 51,,,No,387
 Tehama,22190,Proposition 51,,,Yes,323
 Tehama,22190,Proposition 52,,,No,268
@@ -501,14 +533,17 @@ Tehama,22190,Proposition 66,,,No,317
 Tehama,22190,Proposition 66,,,Yes,367
 Tehama,22190,Proposition 67,,,No,470
 Tehama,22190,Proposition 67,,,Yes,248
+Tehama,22190,State Assembly,3,DEM,Edward Ritchie,251
+Tehama,22190,State Assembly,3,REP,James Gallagher,461
+Tehama,22190,U.S. House,1,REP,Doug La Malfa,423
+Tehama,22190,U.S. House,1,DEM,Jim Reed,311
 Tehama,22190,U.S. Senate,,DEM,Kamala D. Harris,284
 Tehama,22190,U.S. Senate,,DEM,Loretta L. Sanchez,294
-Tehama,22230,President,,REP/AI,Donald J. Trump,468
+Tehama,22230,President,,REP,Donald J. Trump,468
 Tehama,22230,President,,LIB,Gary Johnson,37
-Tehama,22230,President,,PF,Gloria Estela La Riva,4
+Tehama,22230,President,,PAF,Gloria Estela La Riva,4
 Tehama,22230,President,,DEM,Hillary Clinton,284
 Tehama,22230,President,,GRN,Jill Stein,18
-Tehama,22230,President,,WI,Write-In,10
 Tehama,22230,Proposition 51,,,No,430
 Tehama,22230,Proposition 51,,,Yes,369
 Tehama,22230,Proposition 52,,,No,319
@@ -543,14 +578,17 @@ Tehama,22230,Proposition 66,,,No,362
 Tehama,22230,Proposition 66,,,Yes,424
 Tehama,22230,Proposition 67,,,No,558
 Tehama,22230,Proposition 67,,,Yes,253
+Tehama,22230,State Assembly,3,DEM,Edward Ritchie,267
+Tehama,22230,State Assembly,3,REP,James Gallagher,530
+Tehama,22230,U.S. House,1,REP,Doug La Malfa,478
+Tehama,22230,U.S. House,1,DEM,Jim Reed,326
 Tehama,22230,U.S. Senate,,DEM,Kamala D. Harris,328
 Tehama,22230,U.S. Senate,,DEM,Loretta L. Sanchez,316
-Tehama,22240,President,,REP/AI,Donald J. Trump,353
+Tehama,22240,President,,REP,Donald J. Trump,353
 Tehama,22240,President,,LIB,Gary Johnson,28
-Tehama,22240,President,,PF,Gloria Estela La Riva,4
+Tehama,22240,President,,PAF,Gloria Estela La Riva,4
 Tehama,22240,President,,DEM,Hillary Clinton,164
 Tehama,22240,President,,GRN,Jill Stein,10
-Tehama,22240,President,,WI,Write-In,13
 Tehama,22240,Proposition 51,,,No,327
 Tehama,22240,Proposition 51,,,Yes,237
 Tehama,22240,Proposition 52,,,No,244
@@ -585,14 +623,16 @@ Tehama,22240,Proposition 66,,,No,254
 Tehama,22240,Proposition 66,,,Yes,293
 Tehama,22240,Proposition 67,,,No,375
 Tehama,22240,Proposition 67,,,Yes,192
+Tehama,22240,State Assembly,3,DEM,Edward Ritchie,170
+Tehama,22240,State Assembly,3,REP,James Gallagher,377
+Tehama,22240,U.S. House,1,REP,Doug La Malfa,355
+Tehama,22240,U.S. House,1,DEM,Jim Reed,208
 Tehama,22240,U.S. Senate,,DEM,Kamala D. Harris,238
 Tehama,22240,U.S. Senate,,DEM,Loretta L. Sanchez,193
-Tehama,30010,President,,REP/AI,Donald J. Trump,314
+Tehama,30010,President,,REP,Donald J. Trump,314
 Tehama,30010,President,,LIB,Gary Johnson,11
-Tehama,30010,President,,PF,Gloria Estela La Riva,2
+Tehama,30010,President,,PAF,Gloria Estela La Riva,2
 Tehama,30010,President,,DEM,Hillary Clinton,102
-Tehama,30010,President,,GRN,Jill Stein,0
-Tehama,30010,President,,WI,Write-In,3
 Tehama,30010,Proposition 51,,,No,271
 Tehama,30010,Proposition 51,,,Yes,151
 Tehama,30010,Proposition 52,,,No,214
@@ -627,14 +667,16 @@ Tehama,30010,Proposition 66,,,No,163
 Tehama,30010,Proposition 66,,,Yes,247
 Tehama,30010,Proposition 67,,,No,295
 Tehama,30010,Proposition 67,,,Yes,132
+Tehama,30010,State Assembly,3,DEM,Edward Ritchie,101
+Tehama,30010,State Assembly,3,REP,James Gallagher,319
+Tehama,30010,U.S. House,1,REP,Doug La Malfa,284
+Tehama,30010,U.S. House,1,DEM,Jim Reed,140
 Tehama,30010,U.S. Senate,,DEM,Kamala D. Harris,167
 Tehama,30010,U.S. Senate,,DEM,Loretta L. Sanchez,140
-Tehama,30015,President,,REP/AI,Donald J. Trump,59
+Tehama,30015,President,,REP,Donald J. Trump,59
 Tehama,30015,President,,LIB,Gary Johnson,5
-Tehama,30015,President,,PF,Gloria Estela La Riva,0
 Tehama,30015,President,,DEM,Hillary Clinton,26
 Tehama,30015,President,,GRN,Jill Stein,2
-Tehama,30015,President,,WI,Write-In,0
 Tehama,30015,Proposition 51,,,No,66
 Tehama,30015,Proposition 51,,,Yes,24
 Tehama,30015,Proposition 52,,,No,39
@@ -669,14 +711,17 @@ Tehama,30015,Proposition 66,,,No,30
 Tehama,30015,Proposition 66,,,Yes,60
 Tehama,30015,Proposition 67,,,No,50
 Tehama,30015,Proposition 67,,,Yes,44
+Tehama,30015,State Assembly,3,DEM,Edward Ritchie,27
+Tehama,30015,State Assembly,3,REP,James Gallagher,63
+Tehama,30015,U.S. House,1,REP,Doug La Malfa,60
+Tehama,30015,U.S. House,1,DEM,Jim Reed,34
 Tehama,30015,U.S. Senate,,DEM,Kamala D. Harris,32
 Tehama,30015,U.S. Senate,,DEM,Loretta L. Sanchez,25
-Tehama,30120,President,,REP/AI,Donald J. Trump,984
+Tehama,30120,President,,REP,Donald J. Trump,984
 Tehama,30120,President,,LIB,Gary Johnson,43
-Tehama,30120,President,,PF,Gloria Estela La Riva,6
+Tehama,30120,President,,PAF,Gloria Estela La Riva,6
 Tehama,30120,President,,DEM,Hillary Clinton,390
 Tehama,30120,President,,GRN,Jill Stein,22
-Tehama,30120,President,,WI,Write-In,9
 Tehama,30120,Proposition 51,,,No,879
 Tehama,30120,Proposition 51,,,Yes,539
 Tehama,30120,Proposition 52,,,No,633
@@ -711,14 +756,17 @@ Tehama,30120,Proposition 66,,,No,561
 Tehama,30120,Proposition 66,,,Yes,802
 Tehama,30120,Proposition 67,,,No,959
 Tehama,30120,Proposition 67,,,Yes,471
+Tehama,30120,State Assembly,3,DEM,Edward Ritchie,367
+Tehama,30120,State Assembly,3,REP,James Gallagher,1044
+Tehama,30120,U.S. House,1,REP,Doug La Malfa,991
+Tehama,30120,U.S. House,1,DEM,Jim Reed,449
 Tehama,30120,U.S. Senate,,DEM,Kamala D. Harris,586
 Tehama,30120,U.S. Senate,,DEM,Loretta L. Sanchez,444
-Tehama,30260,President,,REP/AI,Donald J. Trump,541
+Tehama,30260,President,,REP,Donald J. Trump,541
 Tehama,30260,President,,LIB,Gary Johnson,33
-Tehama,30260,President,,PF,Gloria Estela La Riva,2
+Tehama,30260,President,,PAF,Gloria Estela La Riva,2
 Tehama,30260,President,,DEM,Hillary Clinton,261
 Tehama,30260,President,,GRN,Jill Stein,10
-Tehama,30260,President,,WI,Write-In,16
 Tehama,30260,Proposition 51,,,No,495
 Tehama,30260,Proposition 51,,,Yes,357
 Tehama,30260,Proposition 52,,,No,376
@@ -753,14 +801,17 @@ Tehama,30260,Proposition 66,,,No,390
 Tehama,30260,Proposition 66,,,Yes,428
 Tehama,30260,Proposition 67,,,No,575
 Tehama,30260,Proposition 67,,,Yes,276
+Tehama,30260,State Assembly,3,DEM,Edward Ritchie,234
+Tehama,30260,State Assembly,3,REP,James Gallagher,611
+Tehama,30260,U.S. House,1,REP,Doug La Malfa,544
+Tehama,30260,U.S. House,1,DEM,Jim Reed,317
 Tehama,30260,U.S. Senate,,DEM,Kamala D. Harris,366
 Tehama,30260,U.S. Senate,,DEM,Loretta L. Sanchez,264
-Tehama,30270,President,,REP/AI,Donald J. Trump,295
+Tehama,30270,President,,REP,Donald J. Trump,295
 Tehama,30270,President,,LIB,Gary Johnson,15
-Tehama,30270,President,,PF,Gloria Estela La Riva,7
+Tehama,30270,President,,PAF,Gloria Estela La Riva,7
 Tehama,30270,President,,DEM,Hillary Clinton,149
 Tehama,30270,President,,GRN,Jill Stein,2
-Tehama,30270,President,,WI,Write-In,2
 Tehama,30270,Proposition 51,,,No,284
 Tehama,30270,Proposition 51,,,Yes,174
 Tehama,30270,Proposition 52,,,No,207
@@ -795,14 +846,17 @@ Tehama,30270,Proposition 66,,,No,187
 Tehama,30270,Proposition 66,,,Yes,264
 Tehama,30270,Proposition 67,,,No,298
 Tehama,30270,Proposition 67,,,Yes,167
+Tehama,30270,State Assembly,3,DEM,Edward Ritchie,130
+Tehama,30270,State Assembly,3,REP,James Gallagher,330
+Tehama,30270,U.S. House,1,REP,Doug La Malfa,312
+Tehama,30270,U.S. House,1,DEM,Jim Reed,168
 Tehama,30270,U.S. Senate,,DEM,Kamala D. Harris,197
 Tehama,30270,U.S. Senate,,DEM,Loretta L. Sanchez,150
-Tehama,30280,President,,REP/AI,Donald J. Trump,547
+Tehama,30280,President,,REP,Donald J. Trump,547
 Tehama,30280,President,,LIB,Gary Johnson,41
-Tehama,30280,President,,PF,Gloria Estela La Riva,2
+Tehama,30280,President,,PAF,Gloria Estela La Riva,2
 Tehama,30280,President,,DEM,Hillary Clinton,188
 Tehama,30280,President,,GRN,Jill Stein,12
-Tehama,30280,President,,WI,Write-In,2
 Tehama,30280,Proposition 51,,,No,522
 Tehama,30280,Proposition 51,,,Yes,260
 Tehama,30280,Proposition 52,,,No,394
@@ -837,14 +891,17 @@ Tehama,30280,Proposition 66,,,No,321
 Tehama,30280,Proposition 66,,,Yes,419
 Tehama,30280,Proposition 67,,,No,528
 Tehama,30280,Proposition 67,,,Yes,253
+Tehama,30280,State Assembly,3,DEM,Edward Ritchie,177
+Tehama,30280,State Assembly,3,REP,James Gallagher,596
+Tehama,30280,U.S. House,1,REP,Doug La Malfa,570
+Tehama,30280,U.S. House,1,DEM,Jim Reed,228
 Tehama,30280,U.S. Senate,,DEM,Kamala D. Harris,307
 Tehama,30280,U.S. Senate,,DEM,Loretta L. Sanchez,257
-Tehama,30300,President,,REP/AI,Donald J. Trump,353
+Tehama,30300,President,,REP,Donald J. Trump,353
 Tehama,30300,President,,LIB,Gary Johnson,14
-Tehama,30300,President,,PF,Gloria Estela La Riva,1
+Tehama,30300,President,,PAF,Gloria Estela La Riva,1
 Tehama,30300,President,,DEM,Hillary Clinton,132
 Tehama,30300,President,,GRN,Jill Stein,7
-Tehama,30300,President,,WI,Write-In,0
 Tehama,30300,Proposition 51,,,No,332
 Tehama,30300,Proposition 51,,,Yes,164
 Tehama,30300,Proposition 52,,,No,244
@@ -879,14 +936,16 @@ Tehama,30300,Proposition 66,,,No,202
 Tehama,30300,Proposition 66,,,Yes,266
 Tehama,30300,Proposition 67,,,No,342
 Tehama,30300,Proposition 67,,,Yes,157
+Tehama,30300,State Assembly,3,DEM,Edward Ritchie,123
+Tehama,30300,State Assembly,3,REP,James Gallagher,376
+Tehama,30300,U.S. House,1,REP,Doug La Malfa,350
+Tehama,30300,U.S. House,1,DEM,Jim Reed,156
 Tehama,30300,U.S. Senate,,DEM,Kamala D. Harris,190
 Tehama,30300,U.S. Senate,,DEM,Loretta L. Sanchez,184
-Tehama,30320,President,,REP/AI,Donald J. Trump,93
+Tehama,30320,President,,REP,Donald J. Trump,93
 Tehama,30320,President,,LIB,Gary Johnson,9
-Tehama,30320,President,,PF,Gloria Estela La Riva,8
+Tehama,30320,President,,PAF,Gloria Estela La Riva,8
 Tehama,30320,President,,DEM,Hillary Clinton,45
-Tehama,30320,President,,GRN,Jill Stein,0
-Tehama,30320,President,,WI,Write-In,3
 Tehama,30320,Proposition 51,,,No,100
 Tehama,30320,Proposition 51,,,Yes,63
 Tehama,30320,Proposition 52,,,No,61
@@ -921,14 +980,16 @@ Tehama,30320,Proposition 66,,,No,83
 Tehama,30320,Proposition 66,,,Yes,70
 Tehama,30320,Proposition 67,,,No,111
 Tehama,30320,Proposition 67,,,Yes,50
+Tehama,30320,State Assembly,3,DEM,Edward Ritchie,56
+Tehama,30320,State Assembly,3,REP,James Gallagher,104
+Tehama,30320,U.S. House,1,REP,Doug La Malfa,92
+Tehama,30320,U.S. House,1,DEM,Jim Reed,67
 Tehama,30320,U.S. Senate,,DEM,Kamala D. Harris,74
 Tehama,30320,U.S. Senate,,DEM,Loretta L. Sanchez,51
-Tehama,30330,President,,REP/AI,Donald J. Trump,43
+Tehama,30330,President,,REP,Donald J. Trump,43
 Tehama,30330,President,,LIB,Gary Johnson,8
-Tehama,30330,President,,PF,Gloria Estela La Riva,0
 Tehama,30330,President,,DEM,Hillary Clinton,38
 Tehama,30330,President,,GRN,Jill Stein,2
-Tehama,30330,President,,WI,Write-In,1
 Tehama,30330,Proposition 51,,,No,60
 Tehama,30330,Proposition 51,,,Yes,30
 Tehama,30330,Proposition 52,,,No,33
@@ -963,14 +1024,17 @@ Tehama,30330,Proposition 66,,,No,42
 Tehama,30330,Proposition 66,,,Yes,46
 Tehama,30330,Proposition 67,,,No,40
 Tehama,30330,Proposition 67,,,Yes,51
+Tehama,30330,State Assembly,3,DEM,Edward Ritchie,39
+Tehama,30330,State Assembly,3,REP,James Gallagher,51
+Tehama,30330,U.S. House,1,REP,Doug La Malfa,47
+Tehama,30330,U.S. House,1,DEM,Jim Reed,43
 Tehama,30330,U.S. Senate,,DEM,Kamala D. Harris,43
 Tehama,30330,U.S. Senate,,DEM,Loretta L. Sanchez,22
-Tehama,30340,President,,REP/AI,Donald J. Trump,105
+Tehama,30340,President,,REP,Donald J. Trump,105
 Tehama,30340,President,,LIB,Gary Johnson,11
-Tehama,30340,President,,PF,Gloria Estela La Riva,1
+Tehama,30340,President,,PAF,Gloria Estela La Riva,1
 Tehama,30340,President,,DEM,Hillary Clinton,31
 Tehama,30340,President,,GRN,Jill Stein,2
-Tehama,30340,President,,WI,Write-In,1
 Tehama,30340,Proposition 51,,,No,109
 Tehama,30340,Proposition 51,,,Yes,43
 Tehama,30340,Proposition 52,,,No,83
@@ -1005,14 +1069,17 @@ Tehama,30340,Proposition 66,,,No,74
 Tehama,30340,Proposition 66,,,Yes,68
 Tehama,30340,Proposition 67,,,No,113
 Tehama,30340,Proposition 67,,,Yes,41
+Tehama,30340,State Assembly,3,DEM,Edward Ritchie,37
+Tehama,30340,State Assembly,3,REP,James Gallagher,111
+Tehama,30340,U.S. House,1,REP,Doug La Malfa,106
+Tehama,30340,U.S. House,1,DEM,Jim Reed,48
 Tehama,30340,U.S. Senate,,DEM,Kamala D. Harris,57
 Tehama,30340,U.S. Senate,,DEM,Loretta L. Sanchez,43
-Tehama,32350,President,,REP/AI,Donald J. Trump,198
+Tehama,32350,President,,REP,Donald J. Trump,198
 Tehama,32350,President,,LIB,Gary Johnson,19
-Tehama,32350,President,,PF,Gloria Estela La Riva,5
+Tehama,32350,President,,PAF,Gloria Estela La Riva,5
 Tehama,32350,President,,DEM,Hillary Clinton,115
 Tehama,32350,President,,GRN,Jill Stein,5
-Tehama,32350,President,,WI,Write-In,4
 Tehama,32350,Proposition 51,,,No,178
 Tehama,32350,Proposition 51,,,Yes,151
 Tehama,32350,Proposition 52,,,No,127
@@ -1047,14 +1114,16 @@ Tehama,32350,Proposition 66,,,No,134
 Tehama,32350,Proposition 66,,,Yes,182
 Tehama,32350,Proposition 67,,,No,215
 Tehama,32350,Proposition 67,,,Yes,116
+Tehama,32350,State Assembly,3,DEM,Edward Ritchie,110
+Tehama,32350,State Assembly,3,REP,James Gallagher,215
+Tehama,32350,U.S. House,1,REP,Doug La Malfa,207
+Tehama,32350,U.S. House,1,DEM,Jim Reed,135
 Tehama,32350,U.S. Senate,,DEM,Kamala D. Harris,138
 Tehama,32350,U.S. Senate,,DEM,Loretta L. Sanchez,112
-Tehama,40180,President,,REP/AI,Donald J. Trump,91
+Tehama,40180,President,,REP,Donald J. Trump,91
 Tehama,40180,President,,LIB,Gary Johnson,2
-Tehama,40180,President,,PF,Gloria Estela La Riva,0
 Tehama,40180,President,,DEM,Hillary Clinton,37
 Tehama,40180,President,,GRN,Jill Stein,3
-Tehama,40180,President,,WI,Write-In,0
 Tehama,40180,Proposition 51,,,No,91
 Tehama,40180,Proposition 51,,,Yes,38
 Tehama,40180,Proposition 52,,,No,71
@@ -1089,14 +1158,17 @@ Tehama,40180,Proposition 66,,,No,56
 Tehama,40180,Proposition 66,,,Yes,70
 Tehama,40180,Proposition 67,,,No,90
 Tehama,40180,Proposition 67,,,Yes,42
+Tehama,40180,State Assembly,3,DEM,Edward Ritchie,38
+Tehama,40180,State Assembly,3,REP,James Gallagher,95
+Tehama,40180,U.S. House,1,REP,Doug La Malfa,87
+Tehama,40180,U.S. House,1,DEM,Jim Reed,45
 Tehama,40180,U.S. Senate,,DEM,Kamala D. Harris,60
 Tehama,40180,U.S. Senate,,DEM,Loretta L. Sanchez,31
-Tehama,40360,President,,REP/AI,Donald J. Trump,552
+Tehama,40360,President,,REP,Donald J. Trump,552
 Tehama,40360,President,,LIB,Gary Johnson,32
-Tehama,40360,President,,PF,Gloria Estela La Riva,3
+Tehama,40360,President,,PAF,Gloria Estela La Riva,3
 Tehama,40360,President,,DEM,Hillary Clinton,225
 Tehama,40360,President,,GRN,Jill Stein,5
-Tehama,40360,President,,WI,Write-In,2
 Tehama,40360,Proposition 51,,,No,514
 Tehama,40360,Proposition 51,,,Yes,284
 Tehama,40360,Proposition 52,,,No,370
@@ -1131,14 +1203,15 @@ Tehama,40360,Proposition 66,,,No,351
 Tehama,40360,Proposition 66,,,Yes,415
 Tehama,40360,Proposition 67,,,No,576
 Tehama,40360,Proposition 67,,,Yes,219
+Tehama,40360,State Assembly,3,DEM,Edward Ritchie,216
+Tehama,40360,State Assembly,3,REP,James Gallagher,581
+Tehama,40360,U.S. House,1,REP,Doug La Malfa,547
+Tehama,40360,U.S. House,1,DEM,Jim Reed,262
 Tehama,40360,U.S. Senate,,DEM,Kamala D. Harris,292
 Tehama,40360,U.S. Senate,,DEM,Loretta L. Sanchez,295
-Tehama,40365,President,,REP/AI,Donald J. Trump,12
-Tehama,40365,President,,LIB,Gary Johnson,0
-Tehama,40365,President,,PF,Gloria Estela La Riva,0
+Tehama,40365,President,,REP,Donald J. Trump,12
 Tehama,40365,President,,DEM,Hillary Clinton,3
 Tehama,40365,President,,GRN,Jill Stein,1
-Tehama,40365,President,,WI,Write-In,1
 Tehama,40365,Proposition 51,,,No,11
 Tehama,40365,Proposition 51,,,Yes,6
 Tehama,40365,Proposition 52,,,No,7
@@ -1173,14 +1246,17 @@ Tehama,40365,Proposition 66,,,No,9
 Tehama,40365,Proposition 66,,,Yes,8
 Tehama,40365,Proposition 67,,,No,11
 Tehama,40365,Proposition 67,,,Yes,6
+Tehama,40365,State Assembly,3,DEM,Edward Ritchie,5
+Tehama,40365,State Assembly,3,REP,James Gallagher,10
+Tehama,40365,U.S. House,1,REP,Doug La Malfa,8
+Tehama,40365,U.S. House,1,DEM,Jim Reed,8
 Tehama,40365,U.S. Senate,,DEM,Kamala D. Harris,12
 Tehama,40365,U.S. Senate,,DEM,Loretta L. Sanchez,3
-Tehama,40420,President,,REP/AI,Donald J. Trump,347
+Tehama,40420,President,,REP,Donald J. Trump,347
 Tehama,40420,President,,LIB,Gary Johnson,18
-Tehama,40420,President,,PF,Gloria Estela La Riva,4
+Tehama,40420,President,,PAF,Gloria Estela La Riva,4
 Tehama,40420,President,,DEM,Hillary Clinton,146
 Tehama,40420,President,,GRN,Jill Stein,7
-Tehama,40420,President,,WI,Write-In,11
 Tehama,40420,Proposition 51,,,No,339
 Tehama,40420,Proposition 51,,,Yes,182
 Tehama,40420,Proposition 52,,,No,240
@@ -1215,14 +1291,16 @@ Tehama,40420,Proposition 66,,,No,225
 Tehama,40420,Proposition 66,,,Yes,287
 Tehama,40420,Proposition 67,,,No,365
 Tehama,40420,Proposition 67,,,Yes,165
+Tehama,40420,State Assembly,3,DEM,Edward Ritchie,147
+Tehama,40420,State Assembly,3,REP,James Gallagher,391
+Tehama,40420,U.S. House,1,REP,Doug La Malfa,356
+Tehama,40420,U.S. House,1,DEM,Jim Reed,180
 Tehama,40420,U.S. Senate,,DEM,Kamala D. Harris,230
 Tehama,40420,U.S. Senate,,DEM,Loretta L. Sanchez,185
-Tehama,40430,President,,REP/AI,Donald J. Trump,102
+Tehama,40430,President,,REP,Donald J. Trump,102
 Tehama,40430,President,,LIB,Gary Johnson,5
-Tehama,40430,President,,PF,Gloria Estela La Riva,0
 Tehama,40430,President,,DEM,Hillary Clinton,22
 Tehama,40430,President,,GRN,Jill Stein,2
-Tehama,40430,President,,WI,Write-In,1
 Tehama,40430,Proposition 51,,,No,94
 Tehama,40430,Proposition 51,,,Yes,33
 Tehama,40430,Proposition 52,,,No,70
@@ -1257,14 +1335,17 @@ Tehama,40430,Proposition 66,,,No,59
 Tehama,40430,Proposition 66,,,Yes,62
 Tehama,40430,Proposition 67,,,No,105
 Tehama,40430,Proposition 67,,,Yes,21
+Tehama,40430,State Assembly,3,DEM,Edward Ritchie,20
+Tehama,40430,State Assembly,3,REP,James Gallagher,110
+Tehama,40430,U.S. House,1,REP,Doug La Malfa,103
+Tehama,40430,U.S. House,1,DEM,Jim Reed,27
 Tehama,40430,U.S. Senate,,DEM,Kamala D. Harris,50
 Tehama,40430,U.S. Senate,,DEM,Loretta L. Sanchez,29
-Tehama,40480,President,,REP/AI,Donald J. Trump,60
+Tehama,40480,President,,REP,Donald J. Trump,60
 Tehama,40480,President,,LIB,Gary Johnson,4
-Tehama,40480,President,,PF,Gloria Estela La Riva,2
+Tehama,40480,President,,PAF,Gloria Estela La Riva,2
 Tehama,40480,President,,DEM,Hillary Clinton,15
 Tehama,40480,President,,GRN,Jill Stein,1
-Tehama,40480,President,,WI,Write-In,0
 Tehama,40480,Proposition 51,,,No,54
 Tehama,40480,Proposition 51,,,Yes,20
 Tehama,40480,Proposition 52,,,No,37
@@ -1299,14 +1380,17 @@ Tehama,40480,Proposition 66,,,No,36
 Tehama,40480,Proposition 66,,,Yes,35
 Tehama,40480,Proposition 67,,,No,69
 Tehama,40480,Proposition 67,,,Yes,9
+Tehama,40480,State Assembly,3,DEM,Edward Ritchie,17
+Tehama,40480,State Assembly,3,REP,James Gallagher,58
+Tehama,40480,U.S. House,1,REP,Doug La Malfa,58
+Tehama,40480,U.S. House,1,DEM,Jim Reed,19
 Tehama,40480,U.S. Senate,,DEM,Kamala D. Harris,25
 Tehama,40480,U.S. Senate,,DEM,Loretta L. Sanchez,20
-Tehama,40485,President,,REP/AI,Donald J. Trump,270
+Tehama,40485,President,,REP,Donald J. Trump,270
 Tehama,40485,President,,LIB,Gary Johnson,15
-Tehama,40485,President,,PF,Gloria Estela La Riva,2
+Tehama,40485,President,,PAF,Gloria Estela La Riva,2
 Tehama,40485,President,,DEM,Hillary Clinton,189
 Tehama,40485,President,,GRN,Jill Stein,12
-Tehama,40485,President,,WI,Write-In,2
 Tehama,40485,Proposition 51,,,No,254
 Tehama,40485,Proposition 51,,,Yes,224
 Tehama,40485,Proposition 52,,,No,188
@@ -1341,14 +1425,17 @@ Tehama,40485,Proposition 66,,,No,241
 Tehama,40485,Proposition 66,,,Yes,229
 Tehama,40485,Proposition 67,,,No,317
 Tehama,40485,Proposition 67,,,Yes,164
+Tehama,40485,State Assembly,3,DEM,Edward Ritchie,200
+Tehama,40485,State Assembly,3,REP,James Gallagher,282
+Tehama,40485,U.S. House,1,REP,Doug La Malfa,266
+Tehama,40485,U.S. House,1,DEM,Jim Reed,214
 Tehama,40485,U.S. Senate,,DEM,Kamala D. Harris,209
 Tehama,40485,U.S. Senate,,DEM,Loretta L. Sanchez,188
-Tehama,40490,President,,REP/AI,Donald J. Trump,340
+Tehama,40490,President,,REP,Donald J. Trump,340
 Tehama,40490,President,,LIB,Gary Johnson,22
-Tehama,40490,President,,PF,Gloria Estela La Riva,2
+Tehama,40490,President,,PAF,Gloria Estela La Riva,2
 Tehama,40490,President,,DEM,Hillary Clinton,108
 Tehama,40490,President,,GRN,Jill Stein,2
-Tehama,40490,President,,WI,Write-In,10
 Tehama,40490,Proposition 51,,,No,303
 Tehama,40490,Proposition 51,,,Yes,169
 Tehama,40490,Proposition 52,,,No,267
@@ -1383,14 +1470,15 @@ Tehama,40490,Proposition 66,,,No,212
 Tehama,40490,Proposition 66,,,Yes,236
 Tehama,40490,Proposition 67,,,No,343
 Tehama,40490,Proposition 67,,,Yes,134
+Tehama,40490,State Assembly,3,DEM,Edward Ritchie,111
+Tehama,40490,State Assembly,3,REP,James Gallagher,359
+Tehama,40490,U.S. House,1,REP,Doug La Malfa,350
+Tehama,40490,U.S. House,1,DEM,Jim Reed,124
 Tehama,40490,U.S. Senate,,DEM,Kamala D. Harris,178
 Tehama,40490,U.S. Senate,,DEM,Loretta L. Sanchez,165
-Tehama,40620,President,,REP/AI,Donald J. Trump,78
+Tehama,40620,President,,REP,Donald J. Trump,78
 Tehama,40620,President,,LIB,Gary Johnson,2
-Tehama,40620,President,,PF,Gloria Estela La Riva,0
 Tehama,40620,President,,DEM,Hillary Clinton,16
-Tehama,40620,President,,GRN,Jill Stein,0
-Tehama,40620,President,,WI,Write-In,1
 Tehama,40620,Proposition 51,,,No,63
 Tehama,40620,Proposition 51,,,Yes,26
 Tehama,40620,Proposition 52,,,No,40
@@ -1425,14 +1513,17 @@ Tehama,40620,Proposition 66,,,No,26
 Tehama,40620,Proposition 66,,,Yes,58
 Tehama,40620,Proposition 67,,,No,75
 Tehama,40620,Proposition 67,,,Yes,17
+Tehama,40620,State Assembly,3,DEM,Edward Ritchie,15
+Tehama,40620,State Assembly,3,REP,James Gallagher,77
+Tehama,40620,U.S. House,1,REP,Doug La Malfa,75
+Tehama,40620,U.S. House,1,DEM,Jim Reed,19
 Tehama,40620,U.S. Senate,,DEM,Kamala D. Harris,36
 Tehama,40620,U.S. Senate,,DEM,Loretta L. Sanchez,23
-Tehama,41380,President,,REP/AI,Donald J. Trump,367
+Tehama,41380,President,,REP,Donald J. Trump,367
 Tehama,41380,President,,LIB,Gary Johnson,25
-Tehama,41380,President,,PF,Gloria Estela La Riva,9
+Tehama,41380,President,,PAF,Gloria Estela La Riva,9
 Tehama,41380,President,,DEM,Hillary Clinton,246
 Tehama,41380,President,,GRN,Jill Stein,12
-Tehama,41380,President,,WI,Write-In,8
 Tehama,41380,Proposition 51,,,No,318
 Tehama,41380,Proposition 51,,,Yes,322
 Tehama,41380,Proposition 52,,,No,230
@@ -1467,14 +1558,17 @@ Tehama,41380,Proposition 66,,,No,304
 Tehama,41380,Proposition 66,,,Yes,308
 Tehama,41380,Proposition 67,,,No,416
 Tehama,41380,Proposition 67,,,Yes,241
+Tehama,41380,State Assembly,3,DEM,Edward Ritchie,233
+Tehama,41380,State Assembly,3,REP,James Gallagher,415
+Tehama,41380,U.S. House,1,REP,Doug La Malfa,393
+Tehama,41380,U.S. House,1,DEM,Jim Reed,263
 Tehama,41380,U.S. Senate,,DEM,Kamala D. Harris,263
 Tehama,41380,U.S. Senate,,DEM,Loretta L. Sanchez,283
-Tehama,41400,President,,REP/AI,Donald J. Trump,246
+Tehama,41400,President,,REP,Donald J. Trump,246
 Tehama,41400,President,,LIB,Gary Johnson,38
-Tehama,41400,President,,PF,Gloria Estela La Riva,6
+Tehama,41400,President,,PAF,Gloria Estela La Riva,6
 Tehama,41400,President,,DEM,Hillary Clinton,229
 Tehama,41400,President,,GRN,Jill Stein,10
-Tehama,41400,President,,WI,Write-In,9
 Tehama,41400,Proposition 51,,,No,240
 Tehama,41400,Proposition 51,,,Yes,270
 Tehama,41400,Proposition 52,,,No,185
@@ -1509,14 +1603,16 @@ Tehama,41400,Proposition 66,,,No,238
 Tehama,41400,Proposition 66,,,Yes,262
 Tehama,41400,Proposition 67,,,No,323
 Tehama,41400,Proposition 67,,,Yes,201
+Tehama,41400,State Assembly,3,DEM,Edward Ritchie,236
+Tehama,41400,State Assembly,3,REP,James Gallagher,284
+Tehama,41400,U.S. House,1,REP,Doug La Malfa,286
+Tehama,41400,U.S. House,1,DEM,Jim Reed,239
 Tehama,41400,U.S. Senate,,DEM,Kamala D. Harris,214
 Tehama,41400,U.S. Senate,,DEM,Loretta L. Sanchez,253
-Tehama,50370,President,,REP/AI,Donald J. Trump,136
+Tehama,50370,President,,REP,Donald J. Trump,136
 Tehama,50370,President,,LIB,Gary Johnson,8
-Tehama,50370,President,,PF,Gloria Estela La Riva,3
+Tehama,50370,President,,PAF,Gloria Estela La Riva,3
 Tehama,50370,President,,DEM,Hillary Clinton,65
-Tehama,50370,President,,GRN,Jill Stein,0
-Tehama,50370,President,,WI,Write-In,3
 Tehama,50370,Proposition 51,,,No,172
 Tehama,50370,Proposition 51,,,Yes,47
 Tehama,50370,Proposition 52,,,No,116
@@ -1551,14 +1647,15 @@ Tehama,50370,Proposition 66,,,No,114
 Tehama,50370,Proposition 66,,,Yes,89
 Tehama,50370,Proposition 67,,,No,141
 Tehama,50370,Proposition 67,,,Yes,76
+Tehama,50370,State Assembly,3,DEM,Edward Ritchie,51
+Tehama,50370,State Assembly,3,REP,James Gallagher,156
+Tehama,50370,U.S. House,1,REP,Doug La Malfa,143
+Tehama,50370,U.S. House,1,DEM,Jim Reed,74
 Tehama,50370,U.S. Senate,,DEM,Kamala D. Harris,88
 Tehama,50370,U.S. Senate,,DEM,Loretta L. Sanchez,65
-Tehama,50450,President,,REP/AI,Donald J. Trump,101
+Tehama,50450,President,,REP,Donald J. Trump,101
 Tehama,50450,President,,LIB,Gary Johnson,3
-Tehama,50450,President,,PF,Gloria Estela La Riva,0
 Tehama,50450,President,,DEM,Hillary Clinton,32
-Tehama,50450,President,,GRN,Jill Stein,0
-Tehama,50450,President,,WI,Write-In,0
 Tehama,50450,Proposition 51,,,No,85
 Tehama,50450,Proposition 51,,,Yes,50
 Tehama,50450,Proposition 52,,,No,62
@@ -1593,14 +1690,15 @@ Tehama,50450,Proposition 66,,,No,57
 Tehama,50450,Proposition 66,,,Yes,72
 Tehama,50450,Proposition 67,,,No,91
 Tehama,50450,Proposition 67,,,Yes,45
+Tehama,50450,State Assembly,3,DEM,Edward Ritchie,30
+Tehama,50450,State Assembly,3,REP,James Gallagher,103
+Tehama,50450,U.S. House,1,REP,Doug La Malfa,107
+Tehama,50450,U.S. House,1,DEM,Jim Reed,29
 Tehama,50450,U.S. Senate,,DEM,Kamala D. Harris,56
 Tehama,50450,U.S. Senate,,DEM,Loretta L. Sanchez,28
-Tehama,50455,President,,REP/AI,Donald J. Trump,24
+Tehama,50455,President,,REP,Donald J. Trump,24
 Tehama,50455,President,,LIB,Gary Johnson,1
-Tehama,50455,President,,PF,Gloria Estela La Riva,0
 Tehama,50455,President,,DEM,Hillary Clinton,2
-Tehama,50455,President,,GRN,Jill Stein,0
-Tehama,50455,President,,WI,Write-In,0
 Tehama,50455,Proposition 51,,,No,18
 Tehama,50455,Proposition 51,,,Yes,7
 Tehama,50455,Proposition 52,,,No,14
@@ -1635,14 +1733,17 @@ Tehama,50455,Proposition 66,,,No,14
 Tehama,50455,Proposition 66,,,Yes,12
 Tehama,50455,Proposition 67,,,No,22
 Tehama,50455,Proposition 67,,,Yes,4
+Tehama,50455,State Assembly,3,DEM,Edward Ritchie,2
+Tehama,50455,State Assembly,3,REP,James Gallagher,25
+Tehama,50455,U.S. House,1,REP,Doug La Malfa,25
+Tehama,50455,U.S. House,1,DEM,Jim Reed,2
 Tehama,50455,U.S. Senate,,DEM,Kamala D. Harris,6
 Tehama,50455,U.S. Senate,,DEM,Loretta L. Sanchez,6
-Tehama,50530,President,,REP/AI,Donald J. Trump,164
+Tehama,50530,President,,REP,Donald J. Trump,164
 Tehama,50530,President,,LIB,Gary Johnson,14
-Tehama,50530,President,,PF,Gloria Estela La Riva,5
+Tehama,50530,President,,PAF,Gloria Estela La Riva,5
 Tehama,50530,President,,DEM,Hillary Clinton,130
 Tehama,50530,President,,GRN,Jill Stein,8
-Tehama,50530,President,,WI,Write-In,5
 Tehama,50530,Proposition 51,,,No,180
 Tehama,50530,Proposition 51,,,Yes,142
 Tehama,50530,Proposition 52,,,No,119
@@ -1677,14 +1778,17 @@ Tehama,50530,Proposition 66,,,No,178
 Tehama,50530,Proposition 66,,,Yes,136
 Tehama,50530,Proposition 67,,,No,217
 Tehama,50530,Proposition 67,,,Yes,107
+Tehama,50530,State Assembly,3,DEM,Edward Ritchie,123
+Tehama,50530,State Assembly,3,REP,James Gallagher,190
+Tehama,50530,U.S. House,1,REP,Doug La Malfa,186
+Tehama,50530,U.S. House,1,DEM,Jim Reed,134
 Tehama,50530,U.S. Senate,,DEM,Kamala D. Harris,133
 Tehama,50530,U.S. Senate,,DEM,Loretta L. Sanchez,127
-Tehama,50560,President,,REP/AI,Donald J. Trump,498
+Tehama,50560,President,,REP,Donald J. Trump,498
 Tehama,50560,President,,LIB,Gary Johnson,25
-Tehama,50560,President,,PF,Gloria Estela La Riva,6
+Tehama,50560,President,,PAF,Gloria Estela La Riva,6
 Tehama,50560,President,,DEM,Hillary Clinton,261
 Tehama,50560,President,,GRN,Jill Stein,10
-Tehama,50560,President,,WI,Write-In,7
 Tehama,50560,Proposition 51,,,No,472
 Tehama,50560,Proposition 51,,,Yes,321
 Tehama,50560,Proposition 52,,,No,315
@@ -1719,14 +1823,17 @@ Tehama,50560,Proposition 66,,,No,396
 Tehama,50560,Proposition 66,,,Yes,374
 Tehama,50560,Proposition 67,,,No,526
 Tehama,50560,Proposition 67,,,Yes,271
+Tehama,50560,State Assembly,3,DEM,Edward Ritchie,268
+Tehama,50560,State Assembly,3,REP,James Gallagher,534
+Tehama,50560,U.S. House,1,REP,Doug La Malfa,501
+Tehama,50560,U.S. House,1,DEM,Jim Reed,310
 Tehama,50560,U.S. Senate,,DEM,Kamala D. Harris,362
 Tehama,50560,U.S. Senate,,DEM,Loretta L. Sanchez,302
-Tehama,50580,President,,REP/AI,Donald J. Trump,610
+Tehama,50580,President,,REP,Donald J. Trump,610
 Tehama,50580,President,,LIB,Gary Johnson,20
-Tehama,50580,President,,PF,Gloria Estela La Riva,4
+Tehama,50580,President,,PAF,Gloria Estela La Riva,4
 Tehama,50580,President,,DEM,Hillary Clinton,311
 Tehama,50580,President,,GRN,Jill Stein,11
-Tehama,50580,President,,WI,Write-In,4
 Tehama,50580,Proposition 51,,,No,601
 Tehama,50580,Proposition 51,,,Yes,340
 Tehama,50580,Proposition 52,,,No,444
@@ -1761,14 +1868,17 @@ Tehama,50580,Proposition 66,,,No,448
 Tehama,50580,Proposition 66,,,Yes,474
 Tehama,50580,Proposition 67,,,No,625
 Tehama,50580,Proposition 67,,,Yes,318
+Tehama,50580,State Assembly,3,DEM,Edward Ritchie,290
+Tehama,50580,State Assembly,3,REP,James Gallagher,650
+Tehama,50580,U.S. House,1,REP,Doug La Malfa,624
+Tehama,50580,U.S. House,1,DEM,Jim Reed,319
 Tehama,50580,U.S. Senate,,DEM,Kamala D. Harris,351
 Tehama,50580,U.S. Senate,,DEM,Loretta L. Sanchez,335
-Tehama,50590,President,,REP/AI,Donald J. Trump,499
+Tehama,50590,President,,REP,Donald J. Trump,499
 Tehama,50590,President,,LIB,Gary Johnson,32
-Tehama,50590,President,,PF,Gloria Estela La Riva,5
+Tehama,50590,President,,PAF,Gloria Estela La Riva,5
 Tehama,50590,President,,DEM,Hillary Clinton,169
 Tehama,50590,President,,GRN,Jill Stein,7
-Tehama,50590,President,,WI,Write-In,7
 Tehama,50590,Proposition 51,,,No,446
 Tehama,50590,Proposition 51,,,Yes,250
 Tehama,50590,Proposition 52,,,No,319
@@ -1803,14 +1913,17 @@ Tehama,50590,Proposition 66,,,No,300
 Tehama,50590,Proposition 66,,,Yes,374
 Tehama,50590,Proposition 67,,,No,478
 Tehama,50590,Proposition 67,,,Yes,225
+Tehama,50590,State Assembly,3,DEM,Edward Ritchie,175
+Tehama,50590,State Assembly,3,REP,James Gallagher,525
+Tehama,50590,U.S. House,1,REP,Doug La Malfa,506
+Tehama,50590,U.S. House,1,DEM,Jim Reed,213
 Tehama,50590,U.S. Senate,,DEM,Kamala D. Harris,278
 Tehama,50590,U.S. Senate,,DEM,Loretta L. Sanchez,218
-Tehama,50630,President,,REP/AI,Donald J. Trump,169
+Tehama,50630,President,,REP,Donald J. Trump,169
 Tehama,50630,President,,LIB,Gary Johnson,15
-Tehama,50630,President,,PF,Gloria Estela La Riva,1
+Tehama,50630,President,,PAF,Gloria Estela La Riva,1
 Tehama,50630,President,,DEM,Hillary Clinton,62
 Tehama,50630,President,,GRN,Jill Stein,5
-Tehama,50630,President,,WI,Write-In,4
 Tehama,50630,Proposition 51,,,No,149
 Tehama,50630,Proposition 51,,,Yes,92
 Tehama,50630,Proposition 52,,,No,106
@@ -1845,14 +1958,17 @@ Tehama,50630,Proposition 66,,,No,131
 Tehama,50630,Proposition 66,,,Yes,103
 Tehama,50630,Proposition 67,,,No,166
 Tehama,50630,Proposition 67,,,Yes,78
+Tehama,50630,State Assembly,3,DEM,Edward Ritchie,53
+Tehama,50630,State Assembly,3,REP,James Gallagher,187
+Tehama,50630,U.S. House,1,REP,Doug La Malfa,174
+Tehama,50630,U.S. House,1,DEM,Jim Reed,76
 Tehama,50630,U.S. Senate,,DEM,Kamala D. Harris,95
 Tehama,50630,U.S. Senate,,DEM,Loretta L. Sanchez,78
-Tehama,51510,President,,REP/AI,Donald J. Trump,418
+Tehama,51510,President,,REP,Donald J. Trump,418
 Tehama,51510,President,,LIB,Gary Johnson,39
-Tehama,51510,President,,PF,Gloria Estela La Riva,7
+Tehama,51510,President,,PAF,Gloria Estela La Riva,7
 Tehama,51510,President,,DEM,Hillary Clinton,272
 Tehama,51510,President,,GRN,Jill Stein,5
-Tehama,51510,President,,WI,Write-In,5
 Tehama,51510,Proposition 51,,,No,414
 Tehama,51510,Proposition 51,,,Yes,299
 Tehama,51510,Proposition 52,,,No,319
@@ -1887,14 +2003,15 @@ Tehama,51510,Proposition 66,,,No,326
 Tehama,51510,Proposition 66,,,Yes,366
 Tehama,51510,Proposition 67,,,No,484
 Tehama,51510,Proposition 67,,,Yes,250
+Tehama,51510,State Assembly,3,DEM,Edward Ritchie,253
+Tehama,51510,State Assembly,3,REP,James Gallagher,480
+Tehama,51510,U.S. House,1,REP,Doug La Malfa,472
+Tehama,51510,U.S. House,1,DEM,Jim Reed,264
 Tehama,51510,U.S. Senate,,DEM,Kamala D. Harris,295
 Tehama,51510,U.S. Senate,,DEM,Loretta L. Sanchez,303
-Tehama,53610,President,,REP/AI,Donald J. Trump,107
+Tehama,53610,President,,REP,Donald J. Trump,107
 Tehama,53610,President,,LIB,Gary Johnson,5
-Tehama,53610,President,,PF,Gloria Estela La Riva,0
 Tehama,53610,President,,DEM,Hillary Clinton,62
-Tehama,53610,President,,GRN,Jill Stein,0
-Tehama,53610,President,,WI,Write-In,2
 Tehama,53610,Proposition 51,,,No,114
 Tehama,53610,Proposition 51,,,Yes,59
 Tehama,53610,Proposition 52,,,No,70
@@ -1929,5 +2046,9 @@ Tehama,53610,Proposition 66,,,No,77
 Tehama,53610,Proposition 66,,,Yes,86
 Tehama,53610,Proposition 67,,,No,114
 Tehama,53610,Proposition 67,,,Yes,59
+Tehama,53610,State Assembly,3,DEM,Edward Ritchie,58
+Tehama,53610,State Assembly,3,REP,James Gallagher,118
+Tehama,53610,U.S. House,1,REP,Doug La Malfa,118
+Tehama,53610,U.S. House,1,DEM,Jim Reed,61
 Tehama,53610,U.S. Senate,,DEM,Kamala D. Harris,76
 Tehama,53610,U.S. Senate,,DEM,Loretta L. Sanchez,61

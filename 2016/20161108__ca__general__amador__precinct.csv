@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Amador,CP01,President,,REP/AI,Donald J. Trump,489
+Amador,CP01,President,,REP,Donald J. Trump,489
 Amador,CP01,President,,LIB,Gary Johnson,42
-Amador,CP01,President,,PF,Gloria Estela La Riva,3
+Amador,CP01,President,,PAF,Gloria Estela La Riva,3
 Amador,CP01,President,,DEM,Hillary Clinton,329
 Amador,CP01,President,,GRN,Jill Stein,6
-Amador,CP01,President,,WI,Write-In,13
 Amador,CP01,Proposition 51,,,No,488
 Amador,CP01,Proposition 51,,,Yes,370
 Amador,CP01,Proposition 52,,,No,342
@@ -39,14 +38,17 @@ Amador,CP01,Proposition 66,,,No,392
 Amador,CP01,Proposition 66,,,Yes,435
 Amador,CP01,Proposition 67,,,No,483
 Amador,CP01,Proposition 67,,,Yes,377
+Amador,CP01,State Assembly,5,REP,Frank Bigelow,553
+Amador,CP01,State Assembly,5,DEM,Robert Carabas,291
+Amador,CP01,U.S. House,4,DEM,Robert W. Derlet,329
+Amador,CP01,U.S. House,4,REP,Tom McClintock,518
 Amador,CP01,U.S. Senate,,DEM,Kamala D. Harris,449
 Amador,CP01,U.S. Senate,,DEM,Loretta L. Sanchez,225
-Amador,CP02,President,,REP/AI,Donald J. Trump,421
+Amador,CP02,President,,REP,Donald J. Trump,421
 Amador,CP02,President,,LIB,Gary Johnson,34
-Amador,CP02,President,,PF,Gloria Estela La Riva,2
+Amador,CP02,President,,PAF,Gloria Estela La Riva,2
 Amador,CP02,President,,DEM,Hillary Clinton,305
 Amador,CP02,President,,GRN,Jill Stein,10
-Amador,CP02,President,,WI,Write-In,19
 Amador,CP02,Proposition 51,,,No,441
 Amador,CP02,Proposition 51,,,Yes,328
 Amador,CP02,Proposition 52,,,No,327
@@ -81,14 +83,16 @@ Amador,CP02,Proposition 66,,,No,367
 Amador,CP02,Proposition 66,,,Yes,379
 Amador,CP02,Proposition 67,,,No,466
 Amador,CP02,Proposition 67,,,Yes,310
+Amador,CP02,State Assembly,5,REP,Frank Bigelow,500
+Amador,CP02,State Assembly,5,DEM,Robert Carabas,266
+Amador,CP02,U.S. House,4,DEM,Robert W. Derlet,309
+Amador,CP02,U.S. House,4,REP,Tom McClintock,461
 Amador,CP02,U.S. Senate,,DEM,Kamala D. Harris,407
 Amador,CP02,U.S. Senate,,DEM,Loretta L. Sanchez,211
-Amador,CP03,President,,REP/AI,Donald J. Trump,241
+Amador,CP03,President,,REP,Donald J. Trump,241
 Amador,CP03,President,,LIB,Gary Johnson,27
-Amador,CP03,President,,PF,Gloria Estela La Riva,0
 Amador,CP03,President,,DEM,Hillary Clinton,205
 Amador,CP03,President,,GRN,Jill Stein,9
-Amador,CP03,President,,WI,Write-In,11
 Amador,CP03,Proposition 51,,,No,262
 Amador,CP03,Proposition 51,,,Yes,212
 Amador,CP03,Proposition 52,,,No,162
@@ -123,14 +127,17 @@ Amador,CP03,Proposition 66,,,No,205
 Amador,CP03,Proposition 66,,,Yes,245
 Amador,CP03,Proposition 67,,,No,268
 Amador,CP03,Proposition 67,,,Yes,203
+Amador,CP03,State Assembly,5,REP,Frank Bigelow,270
+Amador,CP03,State Assembly,5,DEM,Robert Carabas,193
+Amador,CP03,U.S. House,4,DEM,Robert W. Derlet,207
+Amador,CP03,U.S. House,4,REP,Tom McClintock,271
 Amador,CP03,U.S. Senate,,DEM,Kamala D. Harris,280
 Amador,CP03,U.S. Senate,,DEM,Loretta L. Sanchez,106
-Amador,CP04,President,,REP/AI,Donald J. Trump,524
+Amador,CP04,President,,REP,Donald J. Trump,524
 Amador,CP04,President,,LIB,Gary Johnson,33
-Amador,CP04,President,,PF,Gloria Estela La Riva,2
+Amador,CP04,President,,PAF,Gloria Estela La Riva,2
 Amador,CP04,President,,DEM,Hillary Clinton,252
 Amador,CP04,President,,GRN,Jill Stein,15
-Amador,CP04,President,,WI,Write-In,13
 Amador,CP04,Proposition 51,,,No,558
 Amador,CP04,Proposition 51,,,Yes,253
 Amador,CP04,Proposition 52,,,No,412
@@ -165,14 +172,17 @@ Amador,CP04,Proposition 66,,,No,345
 Amador,CP04,Proposition 66,,,Yes,441
 Amador,CP04,Proposition 67,,,No,546
 Amador,CP04,Proposition 67,,,Yes,266
+Amador,CP04,State Assembly,5,REP,Frank Bigelow,587
+Amador,CP04,State Assembly,5,DEM,Robert Carabas,215
+Amador,CP04,U.S. House,4,DEM,Robert W. Derlet,235
+Amador,CP04,U.S. House,4,REP,Tom McClintock,574
 Amador,CP04,U.S. Senate,,DEM,Kamala D. Harris,373
 Amador,CP04,U.S. Senate,,DEM,Loretta L. Sanchez,222
-Amador,CP05,President,,REP/AI,Donald J. Trump,255
+Amador,CP05,President,,REP,Donald J. Trump,255
 Amador,CP05,President,,LIB,Gary Johnson,21
-Amador,CP05,President,,PF,Gloria Estela La Riva,1
+Amador,CP05,President,,PAF,Gloria Estela La Riva,1
 Amador,CP05,President,,DEM,Hillary Clinton,149
 Amador,CP05,President,,GRN,Jill Stein,9
-Amador,CP05,President,,WI,Write-In,8
 Amador,CP05,Proposition 51,,,No,278
 Amador,CP05,Proposition 51,,,Yes,160
 Amador,CP05,Proposition 52,,,No,208
@@ -207,14 +217,17 @@ Amador,CP05,Proposition 66,,,No,182
 Amador,CP05,Proposition 66,,,Yes,245
 Amador,CP05,Proposition 67,,,No,262
 Amador,CP05,Proposition 67,,,Yes,175
+Amador,CP05,State Assembly,5,REP,Frank Bigelow,302
+Amador,CP05,State Assembly,5,DEM,Robert Carabas,127
+Amador,CP05,U.S. House,4,DEM,Robert W. Derlet,150
+Amador,CP05,U.S. House,4,REP,Tom McClintock,289
 Amador,CP05,U.S. Senate,,DEM,Kamala D. Harris,223
 Amador,CP05,U.S. Senate,,DEM,Loretta L. Sanchez,116
-Amador,CP06,President,,REP/AI,Donald J. Trump,751
+Amador,CP06,President,,REP,Donald J. Trump,751
 Amador,CP06,President,,LIB,Gary Johnson,83
-Amador,CP06,President,,PF,Gloria Estela La Riva,4
+Amador,CP06,President,,PAF,Gloria Estela La Riva,4
 Amador,CP06,President,,DEM,Hillary Clinton,392
 Amador,CP06,President,,GRN,Jill Stein,4
-Amador,CP06,President,,WI,Write-In,41
 Amador,CP06,Proposition 51,,,No,757
 Amador,CP06,Proposition 51,,,Yes,475
 Amador,CP06,Proposition 52,,,No,555
@@ -249,14 +262,17 @@ Amador,CP06,Proposition 66,,,No,475
 Amador,CP06,Proposition 66,,,Yes,722
 Amador,CP06,Proposition 67,,,No,861
 Amador,CP06,Proposition 67,,,Yes,383
+Amador,CP06,State Assembly,5,REP,Frank Bigelow,883
+Amador,CP06,State Assembly,5,DEM,Robert Carabas,336
+Amador,CP06,U.S. House,4,DEM,Robert W. Derlet,343
+Amador,CP06,U.S. House,4,REP,Tom McClintock,896
 Amador,CP06,U.S. Senate,,DEM,Kamala D. Harris,610
 Amador,CP06,U.S. Senate,,DEM,Loretta L. Sanchez,349
-Amador,CP07,President,,REP/AI,Donald J. Trump,529
+Amador,CP07,President,,REP,Donald J. Trump,529
 Amador,CP07,President,,LIB,Gary Johnson,24
-Amador,CP07,President,,PF,Gloria Estela La Riva,2
+Amador,CP07,President,,PAF,Gloria Estela La Riva,2
 Amador,CP07,President,,DEM,Hillary Clinton,220
 Amador,CP07,President,,GRN,Jill Stein,4
-Amador,CP07,President,,WI,Write-In,16
 Amador,CP07,Proposition 51,,,No,475
 Amador,CP07,Proposition 51,,,Yes,310
 Amador,CP07,Proposition 52,,,No,365
@@ -291,14 +307,16 @@ Amador,CP07,Proposition 66,,,No,324
 Amador,CP07,Proposition 66,,,Yes,442
 Amador,CP07,Proposition 67,,,No,560
 Amador,CP07,Proposition 67,,,Yes,232
+Amador,CP07,State Assembly,5,REP,Frank Bigelow,567
+Amador,CP07,State Assembly,5,DEM,Robert Carabas,207
+Amador,CP07,U.S. House,4,DEM,Robert W. Derlet,213
+Amador,CP07,U.S. House,4,REP,Tom McClintock,565
 Amador,CP07,U.S. Senate,,DEM,Kamala D. Harris,357
 Amador,CP07,U.S. Senate,,DEM,Loretta L. Sanchez,228
-Amador,CP08,President,,REP/AI,Donald J. Trump,161
+Amador,CP08,President,,REP,Donald J. Trump,161
 Amador,CP08,President,,LIB,Gary Johnson,4
-Amador,CP08,President,,PF,Gloria Estela La Riva,0
 Amador,CP08,President,,DEM,Hillary Clinton,40
 Amador,CP08,President,,GRN,Jill Stein,1
-Amador,CP08,President,,WI,Write-In,7
 Amador,CP08,Proposition 51,,,No,166
 Amador,CP08,Proposition 51,,,Yes,49
 Amador,CP08,Proposition 52,,,No,123
@@ -333,14 +351,17 @@ Amador,CP08,Proposition 66,,,No,74
 Amador,CP08,Proposition 66,,,Yes,135
 Amador,CP08,Proposition 67,,,No,152
 Amador,CP08,Proposition 67,,,Yes,61
+Amador,CP08,State Assembly,5,REP,Frank Bigelow,173
+Amador,CP08,State Assembly,5,DEM,Robert Carabas,35
+Amador,CP08,U.S. House,4,DEM,Robert W. Derlet,41
+Amador,CP08,U.S. House,4,REP,Tom McClintock,170
 Amador,CP08,U.S. Senate,,DEM,Kamala D. Harris,86
 Amador,CP08,U.S. Senate,,DEM,Loretta L. Sanchez,65
-Amador,CP09,President,,REP/AI,Donald J. Trump,226
+Amador,CP09,President,,REP,Donald J. Trump,226
 Amador,CP09,President,,LIB,Gary Johnson,16
-Amador,CP09,President,,PF,Gloria Estela La Riva,2
+Amador,CP09,President,,PAF,Gloria Estela La Riva,2
 Amador,CP09,President,,DEM,Hillary Clinton,62
 Amador,CP09,President,,GRN,Jill Stein,2
-Amador,CP09,President,,WI,Write-In,9
 Amador,CP09,Proposition 51,,,No,230
 Amador,CP09,Proposition 51,,,Yes,83
 Amador,CP09,Proposition 52,,,No,167
@@ -375,14 +396,17 @@ Amador,CP09,Proposition 66,,,No,115
 Amador,CP09,Proposition 66,,,Yes,190
 Amador,CP09,Proposition 67,,,No,224
 Amador,CP09,Proposition 67,,,Yes,91
+Amador,CP09,State Assembly,5,REP,Frank Bigelow,258
+Amador,CP09,State Assembly,5,DEM,Robert Carabas,54
+Amador,CP09,U.S. House,4,DEM,Robert W. Derlet,67
+Amador,CP09,U.S. House,4,REP,Tom McClintock,248
 Amador,CP09,U.S. Senate,,DEM,Kamala D. Harris,124
 Amador,CP09,U.S. Senate,,DEM,Loretta L. Sanchez,111
-Amador,CP10,President,,REP/AI,Donald J. Trump,334
+Amador,CP10,President,,REP,Donald J. Trump,334
 Amador,CP10,President,,LIB,Gary Johnson,20
-Amador,CP10,President,,PF,Gloria Estela La Riva,2
+Amador,CP10,President,,PAF,Gloria Estela La Riva,2
 Amador,CP10,President,,DEM,Hillary Clinton,133
 Amador,CP10,President,,GRN,Jill Stein,13
-Amador,CP10,President,,WI,Write-In,20
 Amador,CP10,Proposition 51,,,No,327
 Amador,CP10,Proposition 51,,,Yes,186
 Amador,CP10,Proposition 52,,,No,227
@@ -417,14 +441,16 @@ Amador,CP10,Proposition 66,,,No,211
 Amador,CP10,Proposition 66,,,Yes,279
 Amador,CP10,Proposition 67,,,No,355
 Amador,CP10,Proposition 67,,,Yes,154
+Amador,CP10,State Assembly,5,REP,Frank Bigelow,370
+Amador,CP10,State Assembly,5,DEM,Robert Carabas,140
+Amador,CP10,U.S. House,4,DEM,Robert W. Derlet,143
+Amador,CP10,U.S. House,4,REP,Tom McClintock,373
 Amador,CP10,U.S. Senate,,DEM,Kamala D. Harris,212
 Amador,CP10,U.S. Senate,,DEM,Loretta L. Sanchez,170
-Amador,CP11,President,,REP/AI,Donald J. Trump,47
+Amador,CP11,President,,REP,Donald J. Trump,47
 Amador,CP11,President,,LIB,Gary Johnson,7
-Amador,CP11,President,,PF,Gloria Estela La Riva,0
 Amador,CP11,President,,DEM,Hillary Clinton,66
 Amador,CP11,President,,GRN,Jill Stein,2
-Amador,CP11,President,,WI,Write-In,2
 Amador,CP11,Proposition 51,,,No,60
 Amador,CP11,Proposition 51,,,Yes,63
 Amador,CP11,Proposition 52,,,No,33
@@ -459,14 +485,16 @@ Amador,CP11,Proposition 66,,,No,65
 Amador,CP11,Proposition 66,,,Yes,51
 Amador,CP11,Proposition 67,,,No,63
 Amador,CP11,Proposition 67,,,Yes,62
+Amador,CP11,State Assembly,5,REP,Frank Bigelow,57
+Amador,CP11,State Assembly,5,DEM,Robert Carabas,63
+Amador,CP11,U.S. House,4,DEM,Robert W. Derlet,68
+Amador,CP11,U.S. House,4,REP,Tom McClintock,56
 Amador,CP11,U.S. Senate,,DEM,Kamala D. Harris,74
 Amador,CP11,U.S. Senate,,DEM,Loretta L. Sanchez,27
-Amador,CP12,President,,REP/AI,Donald J. Trump,227
+Amador,CP12,President,,REP,Donald J. Trump,227
 Amador,CP12,President,,LIB,Gary Johnson,17
-Amador,CP12,President,,PF,Gloria Estela La Riva,0
 Amador,CP12,President,,DEM,Hillary Clinton,145
 Amador,CP12,President,,GRN,Jill Stein,2
-Amador,CP12,President,,WI,Write-In,10
 Amador,CP12,Proposition 51,,,No,249
 Amador,CP12,Proposition 51,,,Yes,134
 Amador,CP12,Proposition 52,,,No,164
@@ -501,14 +529,17 @@ Amador,CP12,Proposition 66,,,No,177
 Amador,CP12,Proposition 66,,,Yes,199
 Amador,CP12,Proposition 67,,,No,225
 Amador,CP12,Proposition 67,,,Yes,168
+Amador,CP12,State Assembly,5,REP,Frank Bigelow,244
+Amador,CP12,State Assembly,5,DEM,Robert Carabas,143
+Amador,CP12,U.S. House,4,DEM,Robert W. Derlet,151
+Amador,CP12,U.S. House,4,REP,Tom McClintock,241
 Amador,CP12,U.S. Senate,,DEM,Kamala D. Harris,195
 Amador,CP12,U.S. Senate,,DEM,Loretta L. Sanchez,113
-Amador,CP13,President,,REP/AI,Donald J. Trump,179
+Amador,CP13,President,,REP,Donald J. Trump,179
 Amador,CP13,President,,LIB,Gary Johnson,15
-Amador,CP13,President,,PF,Gloria Estela La Riva,1
+Amador,CP13,President,,PAF,Gloria Estela La Riva,1
 Amador,CP13,President,,DEM,Hillary Clinton,92
 Amador,CP13,President,,GRN,Jill Stein,14
-Amador,CP13,President,,WI,Write-In,8
 Amador,CP13,Proposition 51,,,No,182
 Amador,CP13,Proposition 51,,,Yes,112
 Amador,CP13,Proposition 52,,,No,136
@@ -543,14 +574,17 @@ Amador,CP13,Proposition 66,,,No,127
 Amador,CP13,Proposition 66,,,Yes,158
 Amador,CP13,Proposition 67,,,No,199
 Amador,CP13,Proposition 67,,,Yes,103
+Amador,CP13,State Assembly,5,REP,Frank Bigelow,193
+Amador,CP13,State Assembly,5,DEM,Robert Carabas,100
+Amador,CP13,U.S. House,4,DEM,Robert W. Derlet,95
+Amador,CP13,U.S. House,4,REP,Tom McClintock,197
 Amador,CP13,U.S. Senate,,DEM,Kamala D. Harris,153
 Amador,CP13,U.S. Senate,,DEM,Loretta L. Sanchez,70
-Amador,CP14,President,,REP/AI,Donald J. Trump,418
+Amador,CP14,President,,REP,Donald J. Trump,418
 Amador,CP14,President,,LIB,Gary Johnson,31
-Amador,CP14,President,,PF,Gloria Estela La Riva,2
+Amador,CP14,President,,PAF,Gloria Estela La Riva,2
 Amador,CP14,President,,DEM,Hillary Clinton,218
 Amador,CP14,President,,GRN,Jill Stein,7
-Amador,CP14,President,,WI,Write-In,9
 Amador,CP14,Proposition 51,,,No,410
 Amador,CP14,Proposition 51,,,Yes,268
 Amador,CP14,Proposition 52,,,No,283
@@ -585,14 +619,17 @@ Amador,CP14,Proposition 66,,,No,268
 Amador,CP14,Proposition 66,,,Yes,402
 Amador,CP14,Proposition 67,,,No,434
 Amador,CP14,Proposition 67,,,Yes,248
+Amador,CP14,State Assembly,5,REP,Frank Bigelow,456
+Amador,CP14,State Assembly,5,DEM,Robert Carabas,208
+Amador,CP14,U.S. House,4,DEM,Robert W. Derlet,218
+Amador,CP14,U.S. House,4,REP,Tom McClintock,453
 Amador,CP14,U.S. Senate,,DEM,Kamala D. Harris,330
 Amador,CP14,U.S. Senate,,DEM,Loretta L. Sanchez,216
-Amador,CP15,President,,REP/AI,Donald J. Trump,334
+Amador,CP15,President,,REP,Donald J. Trump,334
 Amador,CP15,President,,LIB,Gary Johnson,23
-Amador,CP15,President,,PF,Gloria Estela La Riva,2
+Amador,CP15,President,,PAF,Gloria Estela La Riva,2
 Amador,CP15,President,,DEM,Hillary Clinton,219
 Amador,CP15,President,,GRN,Jill Stein,13
-Amador,CP15,President,,WI,Write-In,10
 Amador,CP15,Proposition 51,,,No,351
 Amador,CP15,Proposition 51,,,Yes,233
 Amador,CP15,Proposition 52,,,No,230
@@ -627,14 +664,16 @@ Amador,CP15,Proposition 66,,,No,244
 Amador,CP15,Proposition 66,,,Yes,321
 Amador,CP15,Proposition 67,,,No,349
 Amador,CP15,Proposition 67,,,Yes,236
+Amador,CP15,State Assembly,5,REP,Frank Bigelow,376
+Amador,CP15,State Assembly,5,DEM,Robert Carabas,198
+Amador,CP15,U.S. House,4,DEM,Robert W. Derlet,223
+Amador,CP15,U.S. House,4,REP,Tom McClintock,360
 Amador,CP15,U.S. Senate,,DEM,Kamala D. Harris,294
 Amador,CP15,U.S. Senate,,DEM,Loretta L. Sanchez,141
-Amador,CP16,President,,REP/AI,Donald J. Trump,379
+Amador,CP16,President,,REP,Donald J. Trump,379
 Amador,CP16,President,,LIB,Gary Johnson,18
-Amador,CP16,President,,PF,Gloria Estela La Riva,0
 Amador,CP16,President,,DEM,Hillary Clinton,231
 Amador,CP16,President,,GRN,Jill Stein,8
-Amador,CP16,President,,WI,Write-In,18
 Amador,CP16,Proposition 51,,,No,385
 Amador,CP16,Proposition 51,,,Yes,253
 Amador,CP16,Proposition 52,,,No,269
@@ -669,14 +708,17 @@ Amador,CP16,Proposition 66,,,No,273
 Amador,CP16,Proposition 66,,,Yes,345
 Amador,CP16,Proposition 67,,,No,394
 Amador,CP16,Proposition 67,,,Yes,244
+Amador,CP16,State Assembly,5,REP,Frank Bigelow,407
+Amador,CP16,State Assembly,5,DEM,Robert Carabas,213
+Amador,CP16,U.S. House,4,DEM,Robert W. Derlet,226
+Amador,CP16,U.S. House,4,REP,Tom McClintock,408
 Amador,CP16,U.S. Senate,,DEM,Kamala D. Harris,342
 Amador,CP16,U.S. Senate,,DEM,Loretta L. Sanchez,163
-Amador,CP17,President,,REP/AI,Donald J. Trump,373
+Amador,CP17,President,,REP,Donald J. Trump,373
 Amador,CP17,President,,LIB,Gary Johnson,27
-Amador,CP17,President,,PF,Gloria Estela La Riva,1
+Amador,CP17,President,,PAF,Gloria Estela La Riva,1
 Amador,CP17,President,,DEM,Hillary Clinton,212
 Amador,CP17,President,,GRN,Jill Stein,10
-Amador,CP17,President,,WI,Write-In,11
 Amador,CP17,Proposition 51,,,No,346
 Amador,CP17,Proposition 51,,,Yes,263
 Amador,CP17,Proposition 52,,,No,231
@@ -711,14 +753,17 @@ Amador,CP17,Proposition 66,,,No,266
 Amador,CP17,Proposition 66,,,Yes,323
 Amador,CP17,Proposition 67,,,No,391
 Amador,CP17,Proposition 67,,,Yes,231
+Amador,CP17,State Assembly,5,REP,Frank Bigelow,407
+Amador,CP17,State Assembly,5,DEM,Robert Carabas,191
+Amador,CP17,U.S. House,4,DEM,Robert W. Derlet,211
+Amador,CP17,U.S. House,4,REP,Tom McClintock,396
 Amador,CP17,U.S. Senate,,DEM,Kamala D. Harris,301
 Amador,CP17,U.S. Senate,,DEM,Loretta L. Sanchez,161
-Amador,CP18,President,,REP/AI,Donald J. Trump,394
+Amador,CP18,President,,REP,Donald J. Trump,394
 Amador,CP18,President,,LIB,Gary Johnson,44
-Amador,CP18,President,,PF,Gloria Estela La Riva,1
+Amador,CP18,President,,PAF,Gloria Estela La Riva,1
 Amador,CP18,President,,DEM,Hillary Clinton,330
 Amador,CP18,President,,GRN,Jill Stein,3
-Amador,CP18,President,,WI,Write-In,26
 Amador,CP18,Proposition 51,,,No,431
 Amador,CP18,Proposition 51,,,Yes,362
 Amador,CP18,Proposition 52,,,No,289
@@ -753,14 +798,17 @@ Amador,CP18,Proposition 66,,,No,348
 Amador,CP18,Proposition 66,,,Yes,407
 Amador,CP18,Proposition 67,,,No,420
 Amador,CP18,Proposition 67,,,Yes,382
+Amador,CP18,State Assembly,5,REP,Frank Bigelow,484
+Amador,CP18,State Assembly,5,DEM,Robert Carabas,291
+Amador,CP18,U.S. House,4,DEM,Robert W. Derlet,315
+Amador,CP18,U.S. House,4,REP,Tom McClintock,469
 Amador,CP18,U.S. Senate,,DEM,Kamala D. Harris,408
 Amador,CP18,U.S. Senate,,DEM,Loretta L. Sanchez,221
-Amador,CP19,President,,REP/AI,Donald J. Trump,540
+Amador,CP19,President,,REP,Donald J. Trump,540
 Amador,CP19,President,,LIB,Gary Johnson,25
-Amador,CP19,President,,PF,Gloria Estela La Riva,1
+Amador,CP19,President,,PAF,Gloria Estela La Riva,1
 Amador,CP19,President,,DEM,Hillary Clinton,309
 Amador,CP19,President,,GRN,Jill Stein,8
-Amador,CP19,President,,WI,Write-In,22
 Amador,CP19,Proposition 51,,,No,548
 Amador,CP19,Proposition 51,,,Yes,337
 Amador,CP19,Proposition 52,,,No,372
@@ -795,14 +843,17 @@ Amador,CP19,Proposition 66,,,No,387
 Amador,CP19,Proposition 66,,,Yes,476
 Amador,CP19,Proposition 67,,,No,546
 Amador,CP19,Proposition 67,,,Yes,339
+Amador,CP19,State Assembly,5,REP,Frank Bigelow,609
+Amador,CP19,State Assembly,5,DEM,Robert Carabas,269
+Amador,CP19,U.S. House,4,DEM,Robert W. Derlet,300
+Amador,CP19,U.S. House,4,REP,Tom McClintock,590
 Amador,CP19,U.S. Senate,,DEM,Kamala D. Harris,452
 Amador,CP19,U.S. Senate,,DEM,Loretta L. Sanchez,224
-Amador,CP20,President,,REP/AI,Donald J. Trump,324
+Amador,CP20,President,,REP,Donald J. Trump,324
 Amador,CP20,President,,LIB,Gary Johnson,19
-Amador,CP20,President,,PF,Gloria Estela La Riva,4
+Amador,CP20,President,,PAF,Gloria Estela La Riva,4
 Amador,CP20,President,,DEM,Hillary Clinton,210
 Amador,CP20,President,,GRN,Jill Stein,8
-Amador,CP20,President,,WI,Write-In,12
 Amador,CP20,Proposition 51,,,No,306
 Amador,CP20,Proposition 51,,,Yes,246
 Amador,CP20,Proposition 52,,,No,219
@@ -837,14 +888,17 @@ Amador,CP20,Proposition 66,,,No,205
 Amador,CP20,Proposition 66,,,Yes,330
 Amador,CP20,Proposition 67,,,No,333
 Amador,CP20,Proposition 67,,,Yes,229
+Amador,CP20,State Assembly,5,REP,Frank Bigelow,360
+Amador,CP20,State Assembly,5,DEM,Robert Carabas,192
+Amador,CP20,U.S. House,4,DEM,Robert W. Derlet,209
+Amador,CP20,U.S. House,4,REP,Tom McClintock,348
 Amador,CP20,U.S. Senate,,DEM,Kamala D. Harris,296
 Amador,CP20,U.S. Senate,,DEM,Loretta L. Sanchez,159
-Amador,CP21,President,,REP/AI,Donald J. Trump,524
+Amador,CP21,President,,REP,Donald J. Trump,524
 Amador,CP21,President,,LIB,Gary Johnson,51
-Amador,CP21,President,,PF,Gloria Estela La Riva,5
+Amador,CP21,President,,PAF,Gloria Estela La Riva,5
 Amador,CP21,President,,DEM,Hillary Clinton,266
 Amador,CP21,President,,GRN,Jill Stein,12
-Amador,CP21,President,,WI,Write-In,12
 Amador,CP21,Proposition 51,,,No,511
 Amador,CP21,Proposition 51,,,Yes,343
 Amador,CP21,Proposition 52,,,No,382
@@ -879,14 +933,17 @@ Amador,CP21,Proposition 66,,,No,378
 Amador,CP21,Proposition 66,,,Yes,442
 Amador,CP21,Proposition 67,,,No,540
 Amador,CP21,Proposition 67,,,Yes,314
+Amador,CP21,State Assembly,5,REP,Frank Bigelow,618
+Amador,CP21,State Assembly,5,DEM,Robert Carabas,225
+Amador,CP21,U.S. House,4,DEM,Robert W. Derlet,249
+Amador,CP21,U.S. House,4,REP,Tom McClintock,603
 Amador,CP21,U.S. Senate,,DEM,Kamala D. Harris,418
 Amador,CP21,U.S. Senate,,DEM,Loretta L. Sanchez,218
-Amador,CP22,President,,REP/AI,Donald J. Trump,273
+Amador,CP22,President,,REP,Donald J. Trump,273
 Amador,CP22,President,,LIB,Gary Johnson,24
-Amador,CP22,President,,PF,Gloria Estela La Riva,9
+Amador,CP22,President,,PAF,Gloria Estela La Riva,9
 Amador,CP22,President,,DEM,Hillary Clinton,134
 Amador,CP22,President,,GRN,Jill Stein,5
-Amador,CP22,President,,WI,Write-In,8
 Amador,CP22,Proposition 51,,,No,268
 Amador,CP22,Proposition 51,,,Yes,172
 Amador,CP22,Proposition 52,,,No,197
@@ -921,14 +978,17 @@ Amador,CP22,Proposition 66,,,No,195
 Amador,CP22,Proposition 66,,,Yes,229
 Amador,CP22,Proposition 67,,,No,313
 Amador,CP22,Proposition 67,,,Yes,128
+Amador,CP22,State Assembly,5,REP,Frank Bigelow,304
+Amador,CP22,State Assembly,5,DEM,Robert Carabas,128
+Amador,CP22,U.S. House,4,DEM,Robert W. Derlet,148
+Amador,CP22,U.S. House,4,REP,Tom McClintock,288
 Amador,CP22,U.S. Senate,,DEM,Kamala D. Harris,214
 Amador,CP22,U.S. Senate,,DEM,Loretta L. Sanchez,144
-Amador,CP23,President,,REP/AI,Donald J. Trump,490
+Amador,CP23,President,,REP,Donald J. Trump,490
 Amador,CP23,President,,LIB,Gary Johnson,38
-Amador,CP23,President,,PF,Gloria Estela La Riva,2
+Amador,CP23,President,,PAF,Gloria Estela La Riva,2
 Amador,CP23,President,,DEM,Hillary Clinton,371
 Amador,CP23,President,,GRN,Jill Stein,14
-Amador,CP23,President,,WI,Write-In,10
 Amador,CP23,Proposition 51,,,No,559
 Amador,CP23,Proposition 51,,,Yes,341
 Amador,CP23,Proposition 52,,,No,392
@@ -963,14 +1023,17 @@ Amador,CP23,Proposition 66,,,No,400
 Amador,CP23,Proposition 66,,,Yes,468
 Amador,CP23,Proposition 67,,,No,499
 Amador,CP23,Proposition 67,,,Yes,417
+Amador,CP23,State Assembly,5,REP,Frank Bigelow,554
+Amador,CP23,State Assembly,5,DEM,Robert Carabas,341
+Amador,CP23,U.S. House,4,DEM,Robert W. Derlet,373
+Amador,CP23,U.S. House,4,REP,Tom McClintock,530
 Amador,CP23,U.S. Senate,,DEM,Kamala D. Harris,493
 Amador,CP23,U.S. Senate,,DEM,Loretta L. Sanchez,234
-Amador,CP25,President,,REP/AI,Donald J. Trump,287
+Amador,CP25,President,,REP,Donald J. Trump,287
 Amador,CP25,President,,LIB,Gary Johnson,34
-Amador,CP25,President,,PF,Gloria Estela La Riva,2
+Amador,CP25,President,,PAF,Gloria Estela La Riva,2
 Amador,CP25,President,,DEM,Hillary Clinton,215
 Amador,CP25,President,,GRN,Jill Stein,10
-Amador,CP25,President,,WI,Write-In,7
 Amador,CP25,Proposition 51,,,No,362
 Amador,CP25,Proposition 51,,,Yes,184
 Amador,CP25,Proposition 52,,,No,242
@@ -1005,14 +1068,17 @@ Amador,CP25,Proposition 66,,,No,284
 Amador,CP25,Proposition 66,,,Yes,245
 Amador,CP25,Proposition 67,,,No,334
 Amador,CP25,Proposition 67,,,Yes,214
+Amador,CP25,State Assembly,5,REP,Frank Bigelow,349
+Amador,CP25,State Assembly,5,DEM,Robert Carabas,188
+Amador,CP25,U.S. House,4,DEM,Robert W. Derlet,204
+Amador,CP25,U.S. House,4,REP,Tom McClintock,341
 Amador,CP25,U.S. Senate,,DEM,Kamala D. Harris,293
 Amador,CP25,U.S. Senate,,DEM,Loretta L. Sanchez,128
-Amador,CP26,President,,REP/AI,Donald J. Trump,281
+Amador,CP26,President,,REP,Donald J. Trump,281
 Amador,CP26,President,,LIB,Gary Johnson,20
-Amador,CP26,President,,PF,Gloria Estela La Riva,2
+Amador,CP26,President,,PAF,Gloria Estela La Riva,2
 Amador,CP26,President,,DEM,Hillary Clinton,162
 Amador,CP26,President,,GRN,Jill Stein,8
-Amador,CP26,President,,WI,Write-In,14
 Amador,CP26,Proposition 51,,,No,294
 Amador,CP26,Proposition 51,,,Yes,181
 Amador,CP26,Proposition 52,,,No,195
@@ -1047,14 +1113,16 @@ Amador,CP26,Proposition 66,,,No,214
 Amador,CP26,Proposition 66,,,Yes,247
 Amador,CP26,Proposition 67,,,No,294
 Amador,CP26,Proposition 67,,,Yes,185
+Amador,CP26,State Assembly,5,REP,Frank Bigelow,315
+Amador,CP26,State Assembly,5,DEM,Robert Carabas,145
+Amador,CP26,U.S. House,4,DEM,Robert W. Derlet,160
+Amador,CP26,U.S. House,4,REP,Tom McClintock,307
 Amador,CP26,U.S. Senate,,DEM,Kamala D. Harris,233
 Amador,CP26,U.S. Senate,,DEM,Loretta L. Sanchez,115
-Amador,CP27,President,,REP/AI,Donald J. Trump,266
+Amador,CP27,President,,REP,Donald J. Trump,266
 Amador,CP27,President,,LIB,Gary Johnson,24
-Amador,CP27,President,,PF,Gloria Estela La Riva,0
 Amador,CP27,President,,DEM,Hillary Clinton,181
 Amador,CP27,President,,GRN,Jill Stein,8
-Amador,CP27,President,,WI,Write-In,14
 Amador,CP27,Proposition 51,,,No,312
 Amador,CP27,Proposition 51,,,Yes,177
 Amador,CP27,Proposition 52,,,No,223
@@ -1089,14 +1157,17 @@ Amador,CP27,Proposition 66,,,No,222
 Amador,CP27,Proposition 66,,,Yes,257
 Amador,CP27,Proposition 67,,,No,326
 Amador,CP27,Proposition 67,,,Yes,166
+Amador,CP27,State Assembly,5,REP,Frank Bigelow,341
+Amador,CP27,State Assembly,5,DEM,Robert Carabas,144
+Amador,CP27,U.S. House,4,DEM,Robert W. Derlet,159
+Amador,CP27,U.S. House,4,REP,Tom McClintock,325
 Amador,CP27,U.S. Senate,,DEM,Kamala D. Harris,198
 Amador,CP27,U.S. Senate,,DEM,Loretta L. Sanchez,179
-Amador,CP28,President,,REP/AI,Donald J. Trump,312
+Amador,CP28,President,,REP,Donald J. Trump,312
 Amador,CP28,President,,LIB,Gary Johnson,27
-Amador,CP28,President,,PF,Gloria Estela La Riva,1
+Amador,CP28,President,,PAF,Gloria Estela La Riva,1
 Amador,CP28,President,,DEM,Hillary Clinton,168
 Amador,CP28,President,,GRN,Jill Stein,4
-Amador,CP28,President,,WI,Write-In,6
 Amador,CP28,Proposition 51,,,No,344
 Amador,CP28,Proposition 51,,,Yes,169
 Amador,CP28,Proposition 52,,,No,247
@@ -1131,14 +1202,17 @@ Amador,CP28,Proposition 66,,,No,186
 Amador,CP28,Proposition 66,,,Yes,309
 Amador,CP28,Proposition 67,,,No,320
 Amador,CP28,Proposition 67,,,Yes,196
+Amador,CP28,State Assembly,5,REP,Frank Bigelow,366
+Amador,CP28,State Assembly,5,DEM,Robert Carabas,135
+Amador,CP28,U.S. House,4,DEM,Robert W. Derlet,145
+Amador,CP28,U.S. House,4,REP,Tom McClintock,359
 Amador,CP28,U.S. Senate,,DEM,Kamala D. Harris,228
 Amador,CP28,U.S. Senate,,DEM,Loretta L. Sanchez,149
-Amador,CP29,President,,REP/AI,Donald J. Trump,287
+Amador,CP29,President,,REP,Donald J. Trump,287
 Amador,CP29,President,,LIB,Gary Johnson,13
-Amador,CP29,President,,PF,Gloria Estela La Riva,1
+Amador,CP29,President,,PAF,Gloria Estela La Riva,1
 Amador,CP29,President,,DEM,Hillary Clinton,126
 Amador,CP29,President,,GRN,Jill Stein,4
-Amador,CP29,President,,WI,Write-In,9
 Amador,CP29,Proposition 51,,,No,293
 Amador,CP29,Proposition 51,,,Yes,134
 Amador,CP29,Proposition 52,,,No,201
@@ -1173,14 +1247,17 @@ Amador,CP29,Proposition 66,,,No,184
 Amador,CP29,Proposition 66,,,Yes,226
 Amador,CP29,Proposition 67,,,No,281
 Amador,CP29,Proposition 67,,,Yes,151
+Amador,CP29,State Assembly,5,REP,Frank Bigelow,304
+Amador,CP29,State Assembly,5,DEM,Robert Carabas,120
+Amador,CP29,U.S. House,4,DEM,Robert W. Derlet,136
+Amador,CP29,U.S. House,4,REP,Tom McClintock,291
 Amador,CP29,U.S. Senate,,DEM,Kamala D. Harris,203
 Amador,CP29,U.S. Senate,,DEM,Loretta L. Sanchez,125
-Amador,CP30,President,,REP/AI,Donald J. Trump,601
+Amador,CP30,President,,REP,Donald J. Trump,601
 Amador,CP30,President,,LIB,Gary Johnson,42
-Amador,CP30,President,,PF,Gloria Estela La Riva,3
+Amador,CP30,President,,PAF,Gloria Estela La Riva,3
 Amador,CP30,President,,DEM,Hillary Clinton,234
 Amador,CP30,President,,GRN,Jill Stein,13
-Amador,CP30,President,,WI,Write-In,23
 Amador,CP30,Proposition 51,,,No,534
 Amador,CP30,Proposition 51,,,Yes,357
 Amador,CP30,Proposition 52,,,No,419
@@ -1215,14 +1292,16 @@ Amador,CP30,Proposition 66,,,No,341
 Amador,CP30,Proposition 66,,,Yes,532
 Amador,CP30,Proposition 67,,,No,622
 Amador,CP30,Proposition 67,,,Yes,282
+Amador,CP30,State Assembly,5,REP,Frank Bigelow,652
+Amador,CP30,State Assembly,5,DEM,Robert Carabas,234
+Amador,CP30,U.S. House,4,DEM,Robert W. Derlet,263
+Amador,CP30,U.S. House,4,REP,Tom McClintock,633
 Amador,CP30,U.S. Senate,,DEM,Kamala D. Harris,414
 Amador,CP30,U.S. Senate,,DEM,Loretta L. Sanchez,272
-Amador,CP83,President,,REP/AI,Donald J. Trump,18
+Amador,CP83,President,,REP,Donald J. Trump,18
 Amador,CP83,President,,LIB,Gary Johnson,1
-Amador,CP83,President,,PF,Gloria Estela La Riva,0
 Amador,CP83,President,,DEM,Hillary Clinton,28
 Amador,CP83,President,,GRN,Jill Stein,1
-Amador,CP83,President,,WI,Write-In,0
 Amador,CP83,Proposition 51,,,No,26
 Amador,CP83,Proposition 51,,,Yes,19
 Amador,CP83,Proposition 52,,,No,15
@@ -1257,5 +1336,9 @@ Amador,CP83,Proposition 66,,,No,23
 Amador,CP83,Proposition 66,,,Yes,22
 Amador,CP83,Proposition 67,,,No,22
 Amador,CP83,Proposition 67,,,Yes,25
+Amador,CP83,State Assembly,5,REP,Frank Bigelow,21
+Amador,CP83,State Assembly,5,DEM,Robert Carabas,25
+Amador,CP83,U.S. House,4,DEM,Robert W. Derlet,24
+Amador,CP83,U.S. House,4,REP,Tom McClintock,23
 Amador,CP83,U.S. Senate,,DEM,Kamala D. Harris,30
 Amador,CP83,U.S. Senate,,DEM,Loretta L. Sanchez,10

@@ -1,10 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Inyo,101,President,,REP/AI,Donald J. Trump,312
+Inyo,101,President,,REP,Donald J. Trump,312
 Inyo,101,President,,LIB,Gary Johnson,18
-Inyo,101,President,,PF,Gloria Estela La Riva,2
+Inyo,101,President,,PAF,Gloria Estela La Riva,2
 Inyo,101,President,,DEM,Hillary Clinton,254
 Inyo,101,President,,GRN,Jill Stein,13
-Inyo,101,President,,WI,Write-In,10
 Inyo,101,Proposition 51,,,No,328
 Inyo,101,Proposition 51,,,Yes,248
 Inyo,101,Proposition 52,,,No,230
@@ -39,14 +38,17 @@ Inyo,101,Proposition 66,,,No,285
 Inyo,101,Proposition 66,,,Yes,260
 Inyo,101,Proposition 67,,,No,307
 Inyo,101,Proposition 67,,,Yes,279
+Inyo,101,State Assembly,26,REP,Devon Mathis,327
+Inyo,101,State Assembly,26,DEM,Ruben Macareno,231
+Inyo,101,U.S. House,8,REP,Paul Cook,346
+Inyo,101,U.S. House,8,DEM,Rita Ramirez,238
 Inyo,101,U.S. Senate,,DEM,Kamala D. Harris,284
 Inyo,101,U.S. Senate,,DEM,Loretta L. Sanchez,154
-Inyo,102,President,,REP/AI,Donald J. Trump,411
+Inyo,102,President,,REP,Donald J. Trump,411
 Inyo,102,President,,LIB,Gary Johnson,26
-Inyo,102,President,,PF,Gloria Estela La Riva,1
+Inyo,102,President,,PAF,Gloria Estela La Riva,1
 Inyo,102,President,,DEM,Hillary Clinton,252
 Inyo,102,President,,GRN,Jill Stein,13
-Inyo,102,President,,WI,Write-In,19
 Inyo,102,Proposition 51,,,No,383
 Inyo,102,Proposition 51,,,Yes,292
 Inyo,102,Proposition 52,,,No,261
@@ -81,14 +83,17 @@ Inyo,102,Proposition 66,,,No,291
 Inyo,102,Proposition 66,,,Yes,348
 Inyo,102,Proposition 67,,,No,397
 Inyo,102,Proposition 67,,,Yes,295
+Inyo,102,State Assembly,26,REP,Devon Mathis,445
+Inyo,102,State Assembly,26,DEM,Ruben Macareno,231
+Inyo,102,U.S. House,8,REP,Paul Cook,458
+Inyo,102,U.S. House,8,DEM,Rita Ramirez,234
 Inyo,102,U.S. Senate,,DEM,Kamala D. Harris,322
 Inyo,102,U.S. Senate,,DEM,Loretta L. Sanchez,209
-Inyo,103,President,,REP/AI,Donald J. Trump,322
+Inyo,103,President,,REP,Donald J. Trump,322
 Inyo,103,President,,LIB,Gary Johnson,21
-Inyo,103,President,,PF,Gloria Estela La Riva,2
+Inyo,103,President,,PAF,Gloria Estela La Riva,2
 Inyo,103,President,,DEM,Hillary Clinton,182
 Inyo,103,President,,GRN,Jill Stein,12
-Inyo,103,President,,WI,Write-In,9
 Inyo,103,Proposition 51,,,No,344
 Inyo,103,Proposition 51,,,Yes,191
 Inyo,103,Proposition 52,,,No,248
@@ -123,14 +128,17 @@ Inyo,103,Proposition 66,,,No,259
 Inyo,103,Proposition 66,,,Yes,238
 Inyo,103,Proposition 67,,,No,304
 Inyo,103,Proposition 67,,,Yes,228
+Inyo,103,State Assembly,26,REP,Devon Mathis,353
+Inyo,103,State Assembly,26,DEM,Ruben Macareno,150
+Inyo,103,U.S. House,8,REP,Paul Cook,367
+Inyo,103,U.S. House,8,DEM,Rita Ramirez,159
 Inyo,103,U.S. Senate,,DEM,Kamala D. Harris,246
 Inyo,103,U.S. Senate,,DEM,Loretta L. Sanchez,133
-Inyo,104,President,,REP/AI,Donald J. Trump,34
+Inyo,104,President,,REP,Donald J. Trump,34
 Inyo,104,President,,LIB,Gary Johnson,2
-Inyo,104,President,,PF,Gloria Estela La Riva,1
+Inyo,104,President,,PAF,Gloria Estela La Riva,1
 Inyo,104,President,,DEM,Hillary Clinton,25
 Inyo,104,President,,GRN,Jill Stein,1
-Inyo,104,President,,WI,Write-In,0
 Inyo,104,Proposition 51,,,No,31
 Inyo,104,Proposition 51,,,Yes,30
 Inyo,104,Proposition 52,,,No,24
@@ -165,14 +173,16 @@ Inyo,104,Proposition 66,,,No,30
 Inyo,104,Proposition 66,,,Yes,29
 Inyo,104,Proposition 67,,,No,31
 Inyo,104,Proposition 67,,,Yes,30
+Inyo,104,State Assembly,26,REP,Devon Mathis,42
+Inyo,104,State Assembly,26,DEM,Ruben Macareno,19
+Inyo,104,U.S. House,8,REP,Paul Cook,43
+Inyo,104,U.S. House,8,DEM,Rita Ramirez,19
 Inyo,104,U.S. Senate,,DEM,Kamala D. Harris,32
 Inyo,104,U.S. Senate,,DEM,Loretta L. Sanchez,15
-Inyo,105,President,,REP/AI,Donald J. Trump,33
+Inyo,105,President,,REP,Donald J. Trump,33
 Inyo,105,President,,LIB,Gary Johnson,2
-Inyo,105,President,,PF,Gloria Estela La Riva,0
 Inyo,105,President,,DEM,Hillary Clinton,13
 Inyo,105,President,,GRN,Jill Stein,2
-Inyo,105,President,,WI,Write-In,0
 Inyo,105,Proposition 51,,,No,38
 Inyo,105,Proposition 51,,,Yes,12
 Inyo,105,Proposition 52,,,No,31
@@ -207,14 +217,17 @@ Inyo,105,Proposition 66,,,No,22
 Inyo,105,Proposition 66,,,Yes,22
 Inyo,105,Proposition 67,,,No,34
 Inyo,105,Proposition 67,,,Yes,15
+Inyo,105,State Assembly,26,REP,Devon Mathis,40
+Inyo,105,State Assembly,26,DEM,Ruben Macareno,10
+Inyo,105,U.S. House,8,REP,Paul Cook,38
+Inyo,105,U.S. House,8,DEM,Rita Ramirez,13
 Inyo,105,U.S. Senate,,DEM,Kamala D. Harris,15
 Inyo,105,U.S. Senate,,DEM,Loretta L. Sanchez,20
-Inyo,106,President,,REP/AI,Donald J. Trump,338
+Inyo,106,President,,REP,Donald J. Trump,338
 Inyo,106,President,,LIB,Gary Johnson,25
-Inyo,106,President,,PF,Gloria Estela La Riva,3
+Inyo,106,President,,PAF,Gloria Estela La Riva,3
 Inyo,106,President,,DEM,Hillary Clinton,294
 Inyo,106,President,,GRN,Jill Stein,17
-Inyo,106,President,,WI,Write-In,15
 Inyo,106,Proposition 51,,,No,350
 Inyo,106,Proposition 51,,,Yes,296
 Inyo,106,Proposition 52,,,No,225
@@ -249,14 +262,17 @@ Inyo,106,Proposition 66,,,No,335
 Inyo,106,Proposition 66,,,Yes,289
 Inyo,106,Proposition 67,,,No,325
 Inyo,106,Proposition 67,,,Yes,346
+Inyo,106,State Assembly,26,REP,Devon Mathis,381
+Inyo,106,State Assembly,26,DEM,Ruben Macareno,277
+Inyo,106,U.S. House,8,REP,Paul Cook,387
+Inyo,106,U.S. House,8,DEM,Rita Ramirez,287
 Inyo,106,U.S. Senate,,DEM,Kamala D. Harris,338
 Inyo,106,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Inyo,107,President,,REP/AI,Donald J. Trump,160
+Inyo,107,President,,REP,Donald J. Trump,160
 Inyo,107,President,,LIB,Gary Johnson,10
-Inyo,107,President,,PF,Gloria Estela La Riva,2
+Inyo,107,President,,PAF,Gloria Estela La Riva,2
 Inyo,107,President,,DEM,Hillary Clinton,185
 Inyo,107,President,,GRN,Jill Stein,9
-Inyo,107,President,,WI,Write-In,10
 Inyo,107,Proposition 51,,,No,158
 Inyo,107,Proposition 51,,,Yes,189
 Inyo,107,Proposition 52,,,No,119
@@ -291,14 +307,17 @@ Inyo,107,Proposition 66,,,No,168
 Inyo,107,Proposition 66,,,Yes,169
 Inyo,107,Proposition 67,,,No,162
 Inyo,107,Proposition 67,,,Yes,190
+Inyo,107,State Assembly,26,REP,Devon Mathis,168
+Inyo,107,State Assembly,26,DEM,Ruben Macareno,170
+Inyo,107,U.S. House,8,REP,Paul Cook,177
+Inyo,107,U.S. House,8,DEM,Rita Ramirez,177
 Inyo,107,U.S. Senate,,DEM,Kamala D. Harris,195
 Inyo,107,U.S. Senate,,DEM,Loretta L. Sanchez,95
-Inyo,108,President,,REP/AI,Donald J. Trump,121
+Inyo,108,President,,REP,Donald J. Trump,121
 Inyo,108,President,,LIB,Gary Johnson,16
-Inyo,108,President,,PF,Gloria Estela La Riva,2
+Inyo,108,President,,PAF,Gloria Estela La Riva,2
 Inyo,108,President,,DEM,Hillary Clinton,158
 Inyo,108,President,,GRN,Jill Stein,14
-Inyo,108,President,,WI,Write-In,6
 Inyo,108,Proposition 51,,,No,157
 Inyo,108,Proposition 51,,,Yes,134
 Inyo,108,Proposition 52,,,No,103
@@ -333,14 +352,17 @@ Inyo,108,Proposition 66,,,No,149
 Inyo,108,Proposition 66,,,Yes,127
 Inyo,108,Proposition 67,,,No,152
 Inyo,108,Proposition 67,,,Yes,157
+Inyo,108,State Assembly,26,REP,Devon Mathis,133
+Inyo,108,State Assembly,26,DEM,Ruben Macareno,156
+Inyo,108,U.S. House,8,REP,Paul Cook,146
+Inyo,108,U.S. House,8,DEM,Rita Ramirez,155
 Inyo,108,U.S. Senate,,DEM,Kamala D. Harris,182
 Inyo,108,U.S. Senate,,DEM,Loretta L. Sanchez,74
-Inyo,109,President,,REP/AI,Donald J. Trump,415
+Inyo,109,President,,REP,Donald J. Trump,415
 Inyo,109,President,,LIB,Gary Johnson,39
-Inyo,109,President,,PF,Gloria Estela La Riva,1
+Inyo,109,President,,PAF,Gloria Estela La Riva,1
 Inyo,109,President,,DEM,Hillary Clinton,278
 Inyo,109,President,,GRN,Jill Stein,14
-Inyo,109,President,,WI,Write-In,19
 Inyo,109,Proposition 51,,,No,482
 Inyo,109,Proposition 51,,,Yes,254
 Inyo,109,Proposition 52,,,No,321
@@ -375,14 +397,17 @@ Inyo,109,Proposition 66,,,No,371
 Inyo,109,Proposition 66,,,Yes,331
 Inyo,109,Proposition 67,,,No,416
 Inyo,109,Proposition 67,,,Yes,326
+Inyo,109,State Assembly,26,REP,Devon Mathis,481
+Inyo,109,State Assembly,26,DEM,Ruben Macareno,239
+Inyo,109,U.S. House,8,REP,Paul Cook,497
+Inyo,109,U.S. House,8,DEM,Rita Ramirez,252
 Inyo,109,U.S. Senate,,DEM,Kamala D. Harris,353
 Inyo,109,U.S. Senate,,DEM,Loretta L. Sanchez,203
-Inyo,110,President,,REP/AI,Donald J. Trump,539
+Inyo,110,President,,REP,Donald J. Trump,539
 Inyo,110,President,,LIB,Gary Johnson,38
-Inyo,110,President,,PF,Gloria Estela La Riva,2
+Inyo,110,President,,PAF,Gloria Estela La Riva,2
 Inyo,110,President,,DEM,Hillary Clinton,229
 Inyo,110,President,,GRN,Jill Stein,12
-Inyo,110,President,,WI,Write-In,11
 Inyo,110,Proposition 51,,,No,532
 Inyo,110,Proposition 51,,,Yes,269
 Inyo,110,Proposition 52,,,No,390
@@ -417,14 +442,17 @@ Inyo,110,Proposition 66,,,No,376
 Inyo,110,Proposition 66,,,Yes,381
 Inyo,110,Proposition 67,,,No,478
 Inyo,110,Proposition 67,,,Yes,334
+Inyo,110,State Assembly,26,REP,Devon Mathis,576
+Inyo,110,State Assembly,26,DEM,Ruben Macareno,210
+Inyo,110,U.S. House,8,REP,Paul Cook,599
+Inyo,110,U.S. House,8,DEM,Rita Ramirez,216
 Inyo,110,U.S. Senate,,DEM,Kamala D. Harris,389
 Inyo,110,U.S. Senate,,DEM,Loretta L. Sanchez,180
-Inyo,111,President,,REP/AI,Donald J. Trump,76
+Inyo,111,President,,REP,Donald J. Trump,76
 Inyo,111,President,,LIB,Gary Johnson,10
-Inyo,111,President,,PF,Gloria Estela La Riva,10
+Inyo,111,President,,PAF,Gloria Estela La Riva,10
 Inyo,111,President,,DEM,Hillary Clinton,161
 Inyo,111,President,,GRN,Jill Stein,22
-Inyo,111,President,,WI,Write-In,5
 Inyo,111,Proposition 51,,,No,81
 Inyo,111,Proposition 51,,,Yes,185
 Inyo,111,Proposition 52,,,No,69
@@ -459,14 +487,17 @@ Inyo,111,Proposition 66,,,No,108
 Inyo,111,Proposition 66,,,Yes,144
 Inyo,111,Proposition 67,,,No,129
 Inyo,111,Proposition 67,,,Yes,135
+Inyo,111,State Assembly,26,REP,Devon Mathis,105
+Inyo,111,State Assembly,26,DEM,Ruben Macareno,142
+Inyo,111,U.S. House,8,REP,Paul Cook,119
+Inyo,111,U.S. House,8,DEM,Rita Ramirez,144
 Inyo,111,U.S. Senate,,DEM,Kamala D. Harris,132
 Inyo,111,U.S. Senate,,DEM,Loretta L. Sanchez,116
-Inyo,112,President,,REP/AI,Donald J. Trump,37
+Inyo,112,President,,REP,Donald J. Trump,37
 Inyo,112,President,,LIB,Gary Johnson,3
-Inyo,112,President,,PF,Gloria Estela La Riva,2
+Inyo,112,President,,PAF,Gloria Estela La Riva,2
 Inyo,112,President,,DEM,Hillary Clinton,67
 Inyo,112,President,,GRN,Jill Stein,4
-Inyo,112,President,,WI,Write-In,4
 Inyo,112,Proposition 51,,,No,33
 Inyo,112,Proposition 51,,,Yes,77
 Inyo,112,Proposition 52,,,No,27
@@ -501,14 +532,17 @@ Inyo,112,Proposition 66,,,No,51
 Inyo,112,Proposition 66,,,Yes,52
 Inyo,112,Proposition 67,,,No,45
 Inyo,112,Proposition 67,,,Yes,66
+Inyo,112,State Assembly,26,REP,Devon Mathis,45
+Inyo,112,State Assembly,26,DEM,Ruben Macareno,66
+Inyo,112,U.S. House,8,REP,Paul Cook,52
+Inyo,112,U.S. House,8,DEM,Rita Ramirez,63
 Inyo,112,U.S. Senate,,DEM,Kamala D. Harris,67
 Inyo,112,U.S. Senate,,DEM,Loretta L. Sanchez,37
-Inyo,113,President,,REP/AI,Donald J. Trump,220
+Inyo,113,President,,REP,Donald J. Trump,220
 Inyo,113,President,,LIB,Gary Johnson,17
-Inyo,113,President,,PF,Gloria Estela La Riva,1
+Inyo,113,President,,PAF,Gloria Estela La Riva,1
 Inyo,113,President,,DEM,Hillary Clinton,85
 Inyo,113,President,,GRN,Jill Stein,6
-Inyo,113,President,,WI,Write-In,8
 Inyo,113,Proposition 51,,,No,215
 Inyo,113,Proposition 51,,,Yes,114
 Inyo,113,Proposition 52,,,No,164
@@ -543,14 +577,17 @@ Inyo,113,Proposition 66,,,No,153
 Inyo,113,Proposition 66,,,Yes,158
 Inyo,113,Proposition 67,,,No,214
 Inyo,113,Proposition 67,,,Yes,114
+Inyo,113,State Assembly,26,REP,Devon Mathis,235
+Inyo,113,State Assembly,26,DEM,Ruben Macareno,82
+Inyo,113,U.S. House,8,REP,Paul Cook,240
+Inyo,113,U.S. House,8,DEM,Rita Ramirez,87
 Inyo,113,U.S. Senate,,DEM,Kamala D. Harris,137
 Inyo,113,U.S. Senate,,DEM,Loretta L. Sanchez,95
-Inyo,114,President,,REP/AI,Donald J. Trump,262
+Inyo,114,President,,REP,Donald J. Trump,262
 Inyo,114,President,,LIB,Gary Johnson,24
-Inyo,114,President,,PF,Gloria Estela La Riva,6
+Inyo,114,President,,PAF,Gloria Estela La Riva,6
 Inyo,114,President,,DEM,Hillary Clinton,182
 Inyo,114,President,,GRN,Jill Stein,27
-Inyo,114,President,,WI,Write-In,22
 Inyo,114,Proposition 51,,,No,265
 Inyo,114,Proposition 51,,,Yes,230
 Inyo,114,Proposition 52,,,No,199
@@ -585,14 +622,17 @@ Inyo,114,Proposition 66,,,No,230
 Inyo,114,Proposition 66,,,Yes,253
 Inyo,114,Proposition 67,,,No,289
 Inyo,114,Proposition 67,,,Yes,216
+Inyo,114,State Assembly,26,REP,Devon Mathis,306
+Inyo,114,State Assembly,26,DEM,Ruben Macareno,175
+Inyo,114,U.S. House,8,REP,Paul Cook,311
+Inyo,114,U.S. House,8,DEM,Rita Ramirez,192
 Inyo,114,U.S. Senate,,DEM,Kamala D. Harris,220
 Inyo,114,U.S. Senate,,DEM,Loretta L. Sanchez,184
-Inyo,115,President,,REP/AI,Donald J. Trump,165
+Inyo,115,President,,REP,Donald J. Trump,165
 Inyo,115,President,,LIB,Gary Johnson,19
-Inyo,115,President,,PF,Gloria Estela La Riva,2
+Inyo,115,President,,PAF,Gloria Estela La Riva,2
 Inyo,115,President,,DEM,Hillary Clinton,114
 Inyo,115,President,,GRN,Jill Stein,6
-Inyo,115,President,,WI,Write-In,8
 Inyo,115,Proposition 51,,,No,176
 Inyo,115,Proposition 51,,,Yes,136
 Inyo,115,Proposition 52,,,No,124
@@ -627,14 +667,16 @@ Inyo,115,Proposition 66,,,No,148
 Inyo,115,Proposition 66,,,Yes,145
 Inyo,115,Proposition 67,,,No,187
 Inyo,115,Proposition 67,,,Yes,121
+Inyo,115,State Assembly,26,REP,Devon Mathis,184
+Inyo,115,State Assembly,26,DEM,Ruben Macareno,105
+Inyo,115,U.S. House,8,REP,Paul Cook,190
+Inyo,115,U.S. House,8,DEM,Rita Ramirez,112
 Inyo,115,U.S. Senate,,DEM,Kamala D. Harris,161
 Inyo,115,U.S. Senate,,DEM,Loretta L. Sanchez,75
-Inyo,116,President,,REP/AI,Donald J. Trump,22
+Inyo,116,President,,REP,Donald J. Trump,22
 Inyo,116,President,,LIB,Gary Johnson,6
-Inyo,116,President,,PF,Gloria Estela La Riva,0
 Inyo,116,President,,DEM,Hillary Clinton,34
 Inyo,116,President,,GRN,Jill Stein,2
-Inyo,116,President,,WI,Write-In,1
 Inyo,116,Proposition 51,,,No,39
 Inyo,116,Proposition 51,,,Yes,21
 Inyo,116,Proposition 52,,,No,20
@@ -669,14 +711,17 @@ Inyo,116,Proposition 66,,,No,42
 Inyo,116,Proposition 66,,,Yes,15
 Inyo,116,Proposition 67,,,No,25
 Inyo,116,Proposition 67,,,Yes,37
+Inyo,116,State Assembly,26,REP,Devon Mathis,25
+Inyo,116,State Assembly,26,DEM,Ruben Macareno,36
+Inyo,116,U.S. House,8,REP,Paul Cook,26
+Inyo,116,U.S. House,8,DEM,Rita Ramirez,37
 Inyo,116,U.S. Senate,,DEM,Kamala D. Harris,40
 Inyo,116,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Inyo,117,President,,REP/AI,Donald J. Trump,193
+Inyo,117,President,,REP,Donald J. Trump,193
 Inyo,117,President,,LIB,Gary Johnson,6
-Inyo,117,President,,PF,Gloria Estela La Riva,1
+Inyo,117,President,,PAF,Gloria Estela La Riva,1
 Inyo,117,President,,DEM,Hillary Clinton,123
 Inyo,117,President,,GRN,Jill Stein,5
-Inyo,117,President,,WI,Write-In,6
 Inyo,117,Proposition 51,,,No,197
 Inyo,117,Proposition 51,,,Yes,131
 Inyo,117,Proposition 52,,,No,150
@@ -711,56 +756,37 @@ Inyo,117,Proposition 66,,,No,164
 Inyo,117,Proposition 66,,,Yes,151
 Inyo,117,Proposition 67,,,No,203
 Inyo,117,Proposition 67,,,Yes,131
+Inyo,117,State Assembly,26,REP,Devon Mathis,204
+Inyo,117,State Assembly,26,DEM,Ruben Macareno,114
+Inyo,117,U.S. House,8,REP,Paul Cook,220
+Inyo,117,U.S. House,8,DEM,Rita Ramirez,116
 Inyo,117,U.S. Senate,,DEM,Kamala D. Harris,162
 Inyo,117,U.S. Senate,,DEM,Loretta L. Sanchez,92
-Inyo,118,President,,REP/AI,Donald J. Trump,4
-Inyo,118,President,,LIB,Gary Johnson,0
-Inyo,118,President,,PF,Gloria Estela La Riva,0
-Inyo,118,President,,DEM,Hillary Clinton,0
-Inyo,118,President,,GRN,Jill Stein,0
-Inyo,118,President,,WI,Write-In,0
+Inyo,118,President,,REP,Donald J. Trump,4
 Inyo,118,Proposition 51,,,No,4
-Inyo,118,Proposition 51,,,Yes,0
-Inyo,118,Proposition 52,,,No,0
 Inyo,118,Proposition 52,,,Yes,4
-Inyo,118,Proposition 53,,,No,0
 Inyo,118,Proposition 53,,,Yes,4
 Inyo,118,Proposition 54,,,No,4
-Inyo,118,Proposition 54,,,Yes,0
 Inyo,118,Proposition 55,,,No,4
-Inyo,118,Proposition 55,,,Yes,0
 Inyo,118,Proposition 56,,,No,4
-Inyo,118,Proposition 56,,,Yes,0
 Inyo,118,Proposition 57,,,No,4
-Inyo,118,Proposition 57,,,Yes,0
 Inyo,118,Proposition 58,,,No,4
-Inyo,118,Proposition 58,,,Yes,0
 Inyo,118,Proposition 59,,,No,4
-Inyo,118,Proposition 59,,,Yes,0
 Inyo,118,Proposition 60,,,No,4
-Inyo,118,Proposition 60,,,Yes,0
 Inyo,118,Proposition 61,,,No,4
-Inyo,118,Proposition 61,,,Yes,0
 Inyo,118,Proposition 62,,,No,4
-Inyo,118,Proposition 62,,,Yes,0
 Inyo,118,Proposition 63,,,No,4
-Inyo,118,Proposition 63,,,Yes,0
-Inyo,118,Proposition 64,,,No,0
 Inyo,118,Proposition 64,,,Yes,4
 Inyo,118,Proposition 65,,,No,4
-Inyo,118,Proposition 65,,,Yes,0
 Inyo,118,Proposition 66,,,No,4
-Inyo,118,Proposition 66,,,Yes,0
 Inyo,118,Proposition 67,,,No,4
-Inyo,118,Proposition 67,,,Yes,0
-Inyo,118,U.S. Senate,,DEM,Kamala D. Harris,0
-Inyo,118,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Inyo,119,President,,REP/AI,Donald J. Trump,163
+Inyo,118,State Assembly,26,REP,Devon Mathis,4
+Inyo,118,U.S. House,8,REP,Paul Cook,4
+Inyo,119,President,,REP,Donald J. Trump,163
 Inyo,119,President,,LIB,Gary Johnson,13
-Inyo,119,President,,PF,Gloria Estela La Riva,2
+Inyo,119,President,,PAF,Gloria Estela La Riva,2
 Inyo,119,President,,DEM,Hillary Clinton,148
 Inyo,119,President,,GRN,Jill Stein,6
-Inyo,119,President,,WI,Write-In,14
 Inyo,119,Proposition 51,,,No,171
 Inyo,119,Proposition 51,,,Yes,159
 Inyo,119,Proposition 52,,,No,129
@@ -795,14 +821,17 @@ Inyo,119,Proposition 66,,,No,151
 Inyo,119,Proposition 66,,,Yes,156
 Inyo,119,Proposition 67,,,No,211
 Inyo,119,Proposition 67,,,Yes,119
+Inyo,119,State Assembly,26,REP,Devon Mathis,162
+Inyo,119,State Assembly,26,DEM,Ruben Macareno,161
+Inyo,119,U.S. House,8,REP,Paul Cook,192
+Inyo,119,U.S. House,8,DEM,Rita Ramirez,147
 Inyo,119,U.S. Senate,,DEM,Kamala D. Harris,168
 Inyo,119,U.S. Senate,,DEM,Loretta L. Sanchez,119
-Inyo,120,President,,REP/AI,Donald J. Trump,218
+Inyo,120,President,,REP,Donald J. Trump,218
 Inyo,120,President,,LIB,Gary Johnson,17
-Inyo,120,President,,PF,Gloria Estela La Riva,1
+Inyo,120,President,,PAF,Gloria Estela La Riva,1
 Inyo,120,President,,DEM,Hillary Clinton,155
 Inyo,120,President,,GRN,Jill Stein,12
-Inyo,120,President,,WI,Write-In,6
 Inyo,120,Proposition 51,,,No,225
 Inyo,120,Proposition 51,,,Yes,168
 Inyo,120,Proposition 52,,,No,151
@@ -837,14 +866,17 @@ Inyo,120,Proposition 66,,,No,192
 Inyo,120,Proposition 66,,,Yes,177
 Inyo,120,Proposition 67,,,No,224
 Inyo,120,Proposition 67,,,Yes,162
+Inyo,120,State Assembly,26,REP,Devon Mathis,232
+Inyo,120,State Assembly,26,DEM,Ruben Macareno,151
+Inyo,120,U.S. House,8,REP,Paul Cook,242
+Inyo,120,U.S. House,8,DEM,Rita Ramirez,153
 Inyo,120,U.S. Senate,,DEM,Kamala D. Harris,192
 Inyo,120,U.S. Senate,,DEM,Loretta L. Sanchez,130
-Inyo,121,President,,REP/AI,Donald J. Trump,17
+Inyo,121,President,,REP,Donald J. Trump,17
 Inyo,121,President,,LIB,Gary Johnson,5
-Inyo,121,President,,PF,Gloria Estela La Riva,3
+Inyo,121,President,,PAF,Gloria Estela La Riva,3
 Inyo,121,President,,DEM,Hillary Clinton,40
 Inyo,121,President,,GRN,Jill Stein,8
-Inyo,121,President,,WI,Write-In,2
 Inyo,121,Proposition 51,,,No,24
 Inyo,121,Proposition 51,,,Yes,43
 Inyo,121,Proposition 52,,,No,19
@@ -879,14 +911,17 @@ Inyo,121,Proposition 66,,,No,38
 Inyo,121,Proposition 66,,,Yes,25
 Inyo,121,Proposition 67,,,No,34
 Inyo,121,Proposition 67,,,Yes,36
+Inyo,121,State Assembly,26,REP,Devon Mathis,26
+Inyo,121,State Assembly,26,DEM,Ruben Macareno,40
+Inyo,121,U.S. House,8,REP,Paul Cook,29
+Inyo,121,U.S. House,8,DEM,Rita Ramirez,39
 Inyo,121,U.S. Senate,,DEM,Kamala D. Harris,43
 Inyo,121,U.S. Senate,,DEM,Loretta L. Sanchez,21
-Inyo,122,President,,REP/AI,Donald J. Trump,108
+Inyo,122,President,,REP,Donald J. Trump,108
 Inyo,122,President,,LIB,Gary Johnson,5
-Inyo,122,President,,PF,Gloria Estela La Riva,1
+Inyo,122,President,,PAF,Gloria Estela La Riva,1
 Inyo,122,President,,DEM,Hillary Clinton,33
 Inyo,122,President,,GRN,Jill Stein,3
-Inyo,122,President,,WI,Write-In,3
 Inyo,122,Proposition 51,,,No,103
 Inyo,122,Proposition 51,,,Yes,42
 Inyo,122,Proposition 52,,,No,79
@@ -921,14 +956,17 @@ Inyo,122,Proposition 66,,,No,60
 Inyo,122,Proposition 66,,,Yes,82
 Inyo,122,Proposition 67,,,No,101
 Inyo,122,Proposition 67,,,Yes,45
+Inyo,122,State Assembly,26,REP,Devon Mathis,99
+Inyo,122,State Assembly,26,DEM,Ruben Macareno,38
+Inyo,122,U.S. House,8,REP,Paul Cook,99
+Inyo,122,U.S. House,8,DEM,Rita Ramirez,37
 Inyo,122,U.S. Senate,,DEM,Kamala D. Harris,60
 Inyo,122,U.S. Senate,,DEM,Loretta L. Sanchez,42
-Inyo,123,President,,REP/AI,Donald J. Trump,48
+Inyo,123,President,,REP,Donald J. Trump,48
 Inyo,123,President,,LIB,Gary Johnson,4
-Inyo,123,President,,PF,Gloria Estela La Riva,2
+Inyo,123,President,,PAF,Gloria Estela La Riva,2
 Inyo,123,President,,DEM,Hillary Clinton,77
 Inyo,123,President,,GRN,Jill Stein,3
-Inyo,123,President,,WI,Write-In,4
 Inyo,123,Proposition 51,,,No,57
 Inyo,123,Proposition 51,,,Yes,71
 Inyo,123,Proposition 52,,,No,43
@@ -963,14 +1001,17 @@ Inyo,123,Proposition 66,,,No,57
 Inyo,123,Proposition 66,,,Yes,60
 Inyo,123,Proposition 67,,,No,62
 Inyo,123,Proposition 67,,,Yes,66
+Inyo,123,State Assembly,26,REP,Devon Mathis,48
+Inyo,123,State Assembly,26,DEM,Ruben Macareno,76
+Inyo,123,U.S. House,8,REP,Paul Cook,48
+Inyo,123,U.S. House,8,DEM,Rita Ramirez,82
 Inyo,123,U.S. Senate,,DEM,Kamala D. Harris,66
 Inyo,123,U.S. Senate,,DEM,Loretta L. Sanchez,40
-Inyo,124,President,,REP/AI,Donald J. Trump,30
+Inyo,124,President,,REP,Donald J. Trump,30
 Inyo,124,President,,LIB,Gary Johnson,2
-Inyo,124,President,,PF,Gloria Estela La Riva,4
+Inyo,124,President,,PAF,Gloria Estela La Riva,4
 Inyo,124,President,,DEM,Hillary Clinton,66
 Inyo,124,President,,GRN,Jill Stein,3
-Inyo,124,President,,WI,Write-In,1
 Inyo,124,Proposition 51,,,No,37
 Inyo,124,Proposition 51,,,Yes,60
 Inyo,124,Proposition 52,,,No,25
@@ -1005,5 +1046,9 @@ Inyo,124,Proposition 66,,,No,57
 Inyo,124,Proposition 66,,,Yes,38
 Inyo,124,Proposition 67,,,No,42
 Inyo,124,Proposition 67,,,Yes,60
+Inyo,124,State Assembly,26,REP,Devon Mathis,33
+Inyo,124,State Assembly,26,DEM,Ruben Macareno,64
+Inyo,124,U.S. House,8,REP,Paul Cook,36
+Inyo,124,U.S. House,8,DEM,Rita Ramirez,67
 Inyo,124,U.S. Senate,,DEM,Kamala D. Harris,59
 Inyo,124,U.S. Senate,,DEM,Loretta L. Sanchez,33

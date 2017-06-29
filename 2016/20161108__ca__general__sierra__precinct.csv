@@ -1,925 +1,1000 @@
 county,precinct,office,district,party,candidate,votes
-Sierra,1,President,,REP/AI,Donald J. Trump,89
-Sierra,1,President,,LIB,Gary Johnson,10
-Sierra,1,President,,PF,Gloria Estela La Riva,3
-Sierra,1,President,,DEM,Hillary Clinton,39
-Sierra,1,President,,GRN,Jill Stein,2
-Sierra,1,President,,WI,Write-In,1
-Sierra,1,Proposition 51,,,No,82
-Sierra,1,Proposition 51,,,Yes,58
-Sierra,1,Proposition 52,,,No,56
-Sierra,1,Proposition 52,,,Yes,85
-Sierra,1,Proposition 53,,,No,73
-Sierra,1,Proposition 53,,,Yes,66
-Sierra,1,Proposition 54,,,No,69
-Sierra,1,Proposition 54,,,Yes,71
-Sierra,1,Proposition 55,,,No,64
-Sierra,1,Proposition 55,,,Yes,75
-Sierra,1,Proposition 56,,,No,86
-Sierra,1,Proposition 56,,,Yes,57
-Sierra,1,Proposition 57,,,No,66
-Sierra,1,Proposition 57,,,Yes,74
-Sierra,1,Proposition 58,,,No,53
-Sierra,1,Proposition 58,,,Yes,87
-Sierra,1,Proposition 59,,,No,79
-Sierra,1,Proposition 59,,,Yes,55
-Sierra,1,Proposition 60,,,No,89
-Sierra,1,Proposition 60,,,Yes,43
-Sierra,1,Proposition 61,,,No,91
-Sierra,1,Proposition 61,,,Yes,48
-Sierra,1,Proposition 62,,,No,99
-Sierra,1,Proposition 62,,,Yes,44
-Sierra,1,Proposition 63,,,No,98
-Sierra,1,Proposition 63,,,Yes,43
-Sierra,1,Proposition 64,,,No,64
-Sierra,1,Proposition 64,,,Yes,80
-Sierra,1,Proposition 65,,,No,99
-Sierra,1,Proposition 65,,,Yes,41
-Sierra,1,Proposition 66,,,No,67
-Sierra,1,Proposition 66,,,Yes,71
-Sierra,1,Proposition 67,,,No,101
-Sierra,1,Proposition 67,,,Yes,38
-Sierra,1,U.S. Senate,,DEM,Kamala D. Harris,56
-Sierra,1,U.S. Senate,,DEM,Loretta L. Sanchez,47
-Sierra,10,President,,REP/AI,Donald J. Trump,1
-Sierra,10,President,,LIB,Gary Johnson,0
-Sierra,10,President,,PF,Gloria Estela La Riva,0
-Sierra,10,President,,DEM,Hillary Clinton,1
-Sierra,10,President,,GRN,Jill Stein,1
-Sierra,10,President,,WI,Write-In,0
-Sierra,10,Proposition 51,,,No,0
-Sierra,10,Proposition 51,,,Yes,4
-Sierra,10,Proposition 52,,,No,2
-Sierra,10,Proposition 52,,,Yes,2
-Sierra,10,Proposition 53,,,No,2
-Sierra,10,Proposition 53,,,Yes,2
-Sierra,10,Proposition 54,,,No,2
-Sierra,10,Proposition 54,,,Yes,2
-Sierra,10,Proposition 55,,,No,2
-Sierra,10,Proposition 55,,,Yes,2
-Sierra,10,Proposition 56,,,No,0
-Sierra,10,Proposition 56,,,Yes,4
-Sierra,10,Proposition 57,,,No,0
-Sierra,10,Proposition 57,,,Yes,4
-Sierra,10,Proposition 58,,,No,0
-Sierra,10,Proposition 58,,,Yes,4
-Sierra,10,Proposition 59,,,No,3
-Sierra,10,Proposition 59,,,Yes,0
-Sierra,10,Proposition 60,,,No,2
-Sierra,10,Proposition 60,,,Yes,2
-Sierra,10,Proposition 61,,,No,1
-Sierra,10,Proposition 61,,,Yes,3
-Sierra,10,Proposition 62,,,No,4
-Sierra,10,Proposition 62,,,Yes,0
-Sierra,10,Proposition 63,,,No,1
-Sierra,10,Proposition 63,,,Yes,3
-Sierra,10,Proposition 64,,,No,4
-Sierra,10,Proposition 64,,,Yes,0
-Sierra,10,Proposition 65,,,No,2
-Sierra,10,Proposition 65,,,Yes,2
-Sierra,10,Proposition 66,,,No,0
-Sierra,10,Proposition 66,,,Yes,3
-Sierra,10,Proposition 67,,,No,3
-Sierra,10,Proposition 67,,,Yes,1
-Sierra,10,U.S. Senate,,DEM,Kamala D. Harris,4
-Sierra,10,U.S. Senate,,DEM,Loretta L. Sanchez,0
-Sierra,11,President,,REP/AI,Donald J. Trump,38
-Sierra,11,President,,LIB,Gary Johnson,2
-Sierra,11,President,,PF,Gloria Estela La Riva,0
-Sierra,11,President,,DEM,Hillary Clinton,29
-Sierra,11,President,,GRN,Jill Stein,3
-Sierra,11,President,,WI,Write-In,3
-Sierra,11,Proposition 51,,,No,44
-Sierra,11,Proposition 51,,,Yes,25
-Sierra,11,Proposition 52,,,No,22
-Sierra,11,Proposition 52,,,Yes,45
-Sierra,11,Proposition 53,,,No,34
-Sierra,11,Proposition 53,,,Yes,34
-Sierra,11,Proposition 54,,,No,26
-Sierra,11,Proposition 54,,,Yes,41
-Sierra,11,Proposition 55,,,No,32
-Sierra,11,Proposition 55,,,Yes,38
-Sierra,11,Proposition 56,,,No,46
-Sierra,11,Proposition 56,,,Yes,27
-Sierra,11,Proposition 57,,,No,27
-Sierra,11,Proposition 57,,,Yes,43
-Sierra,11,Proposition 58,,,No,21
-Sierra,11,Proposition 58,,,Yes,51
-Sierra,11,Proposition 59,,,No,35
-Sierra,11,Proposition 59,,,Yes,29
-Sierra,11,Proposition 60,,,No,45
-Sierra,11,Proposition 60,,,Yes,22
-Sierra,11,Proposition 61,,,No,53
-Sierra,11,Proposition 61,,,Yes,20
-Sierra,11,Proposition 62,,,No,42
-Sierra,11,Proposition 62,,,Yes,29
-Sierra,11,Proposition 63,,,No,46
-Sierra,11,Proposition 63,,,Yes,27
-Sierra,11,Proposition 64,,,No,33
-Sierra,11,Proposition 64,,,Yes,40
-Sierra,11,Proposition 65,,,No,52
-Sierra,11,Proposition 65,,,Yes,19
-Sierra,11,Proposition 66,,,No,39
-Sierra,11,Proposition 66,,,Yes,27
-Sierra,11,Proposition 67,,,No,46
-Sierra,11,Proposition 67,,,Yes,26
-Sierra,11,U.S. Senate,,DEM,Kamala D. Harris,27
-Sierra,11,U.S. Senate,,DEM,Loretta L. Sanchez,22
-Sierra,12,President,,REP/AI,Donald J. Trump,98
-Sierra,12,President,,LIB,Gary Johnson,14
-Sierra,12,President,,PF,Gloria Estela La Riva,0
-Sierra,12,President,,DEM,Hillary Clinton,49
-Sierra,12,President,,GRN,Jill Stein,6
-Sierra,12,President,,WI,Write-In,3
-Sierra,12,Proposition 51,,,No,117
-Sierra,12,Proposition 51,,,Yes,53
-Sierra,12,Proposition 52,,,No,75
-Sierra,12,Proposition 52,,,Yes,88
-Sierra,12,Proposition 53,,,No,66
-Sierra,12,Proposition 53,,,Yes,91
-Sierra,12,Proposition 54,,,No,68
-Sierra,12,Proposition 54,,,Yes,91
-Sierra,12,Proposition 55,,,No,96
-Sierra,12,Proposition 55,,,Yes,68
-Sierra,12,Proposition 56,,,No,87
-Sierra,12,Proposition 56,,,Yes,82
-Sierra,12,Proposition 57,,,No,77
-Sierra,12,Proposition 57,,,Yes,87
-Sierra,12,Proposition 58,,,No,57
-Sierra,12,Proposition 58,,,Yes,105
-Sierra,12,Proposition 59,,,No,84
-Sierra,12,Proposition 59,,,Yes,69
-Sierra,12,Proposition 60,,,No,114
-Sierra,12,Proposition 60,,,Yes,47
-Sierra,12,Proposition 61,,,No,94
-Sierra,12,Proposition 61,,,Yes,58
-Sierra,12,Proposition 62,,,No,117
-Sierra,12,Proposition 62,,,Yes,49
-Sierra,12,Proposition 63,,,No,117
-Sierra,12,Proposition 63,,,Yes,51
-Sierra,12,Proposition 64,,,No,85
-Sierra,12,Proposition 64,,,Yes,86
-Sierra,12,Proposition 65,,,No,104
-Sierra,12,Proposition 65,,,Yes,60
-Sierra,12,Proposition 66,,,No,74
-Sierra,12,Proposition 66,,,Yes,80
-Sierra,12,Proposition 67,,,No,94
-Sierra,12,Proposition 67,,,Yes,75
-Sierra,12,U.S. Senate,,DEM,Kamala D. Harris,75
-Sierra,12,U.S. Senate,,DEM,Loretta L. Sanchez,40
-Sierra,13,President,,REP/AI,Donald J. Trump,23
-Sierra,13,President,,LIB,Gary Johnson,2
-Sierra,13,President,,PF,Gloria Estela La Riva,0
-Sierra,13,President,,DEM,Hillary Clinton,8
-Sierra,13,President,,GRN,Jill Stein,0
-Sierra,13,President,,WI,Write-In,1
-Sierra,13,Proposition 51,,,No,23
-Sierra,13,Proposition 51,,,Yes,10
-Sierra,13,Proposition 52,,,No,10
-Sierra,13,Proposition 52,,,Yes,23
-Sierra,13,Proposition 53,,,No,17
-Sierra,13,Proposition 53,,,Yes,15
-Sierra,13,Proposition 54,,,No,14
-Sierra,13,Proposition 54,,,Yes,19
-Sierra,13,Proposition 55,,,No,23
-Sierra,13,Proposition 55,,,Yes,11
-Sierra,13,Proposition 56,,,No,27
-Sierra,13,Proposition 56,,,Yes,7
-Sierra,13,Proposition 57,,,No,20
-Sierra,13,Proposition 57,,,Yes,14
-Sierra,13,Proposition 58,,,No,21
-Sierra,13,Proposition 58,,,Yes,11
-Sierra,13,Proposition 59,,,No,20
-Sierra,13,Proposition 59,,,Yes,10
-Sierra,13,Proposition 60,,,No,19
-Sierra,13,Proposition 60,,,Yes,15
-Sierra,13,Proposition 61,,,No,18
-Sierra,13,Proposition 61,,,Yes,15
-Sierra,13,Proposition 62,,,No,27
-Sierra,13,Proposition 62,,,Yes,7
-Sierra,13,Proposition 63,,,No,24
-Sierra,13,Proposition 63,,,Yes,10
-Sierra,13,Proposition 64,,,No,20
-Sierra,13,Proposition 64,,,Yes,14
-Sierra,13,Proposition 65,,,No,21
-Sierra,13,Proposition 65,,,Yes,12
-Sierra,13,Proposition 66,,,No,15
-Sierra,13,Proposition 66,,,Yes,17
-Sierra,13,Proposition 67,,,No,24
-Sierra,13,Proposition 67,,,Yes,9
-Sierra,13,U.S. Senate,,DEM,Kamala D. Harris,17
-Sierra,13,U.S. Senate,,DEM,Loretta L. Sanchez,8
-Sierra,14,President,,REP/AI,Donald J. Trump,73
-Sierra,14,President,,LIB,Gary Johnson,9
-Sierra,14,President,,PF,Gloria Estela La Riva,0
-Sierra,14,President,,DEM,Hillary Clinton,56
-Sierra,14,President,,GRN,Jill Stein,3
-Sierra,14,President,,WI,Write-In,4
-Sierra,14,Proposition 51,,,No,85
-Sierra,14,Proposition 51,,,Yes,54
-Sierra,14,Proposition 52,,,No,46
-Sierra,14,Proposition 52,,,Yes,88
-Sierra,14,Proposition 53,,,No,82
-Sierra,14,Proposition 53,,,Yes,56
-Sierra,14,Proposition 54,,,No,52
-Sierra,14,Proposition 54,,,Yes,84
-Sierra,14,Proposition 55,,,No,68
-Sierra,14,Proposition 55,,,Yes,71
-Sierra,14,Proposition 56,,,No,61
-Sierra,14,Proposition 56,,,Yes,83
-Sierra,14,Proposition 57,,,No,54
-Sierra,14,Proposition 57,,,Yes,83
-Sierra,14,Proposition 58,,,No,41
-Sierra,14,Proposition 58,,,Yes,101
-Sierra,14,Proposition 59,,,No,64
-Sierra,14,Proposition 59,,,Yes,67
-Sierra,14,Proposition 60,,,No,95
-Sierra,14,Proposition 60,,,Yes,33
-Sierra,14,Proposition 61,,,No,86
-Sierra,14,Proposition 61,,,Yes,51
-Sierra,14,Proposition 62,,,No,93
-Sierra,14,Proposition 62,,,Yes,44
-Sierra,14,Proposition 63,,,No,91
-Sierra,14,Proposition 63,,,Yes,52
-Sierra,14,Proposition 64,,,No,68
-Sierra,14,Proposition 64,,,Yes,77
-Sierra,14,Proposition 65,,,No,88
-Sierra,14,Proposition 65,,,Yes,45
-Sierra,14,Proposition 66,,,No,63
-Sierra,14,Proposition 66,,,Yes,66
-Sierra,14,Proposition 67,,,No,73
-Sierra,14,Proposition 67,,,Yes,68
-Sierra,14,U.S. Senate,,DEM,Kamala D. Harris,82
-Sierra,14,U.S. Senate,,DEM,Loretta L. Sanchez,28
-Sierra,15,President,,REP/AI,Donald J. Trump,42
-Sierra,15,President,,LIB,Gary Johnson,4
-Sierra,15,President,,PF,Gloria Estela La Riva,0
-Sierra,15,President,,DEM,Hillary Clinton,21
-Sierra,15,President,,GRN,Jill Stein,0
-Sierra,15,President,,WI,Write-In,3
-Sierra,15,Proposition 51,,,No,54
-Sierra,15,Proposition 51,,,Yes,13
-Sierra,15,Proposition 52,,,No,34
-Sierra,15,Proposition 52,,,Yes,36
-Sierra,15,Proposition 53,,,No,30
-Sierra,15,Proposition 53,,,Yes,36
-Sierra,15,Proposition 54,,,No,27
-Sierra,15,Proposition 54,,,Yes,41
-Sierra,15,Proposition 55,,,No,42
-Sierra,15,Proposition 55,,,Yes,25
-Sierra,15,Proposition 56,,,No,49
-Sierra,15,Proposition 56,,,Yes,22
-Sierra,15,Proposition 57,,,No,37
-Sierra,15,Proposition 57,,,Yes,32
-Sierra,15,Proposition 58,,,No,33
-Sierra,15,Proposition 58,,,Yes,36
-Sierra,15,Proposition 59,,,No,37
-Sierra,15,Proposition 59,,,Yes,29
-Sierra,15,Proposition 60,,,No,53
-Sierra,15,Proposition 60,,,Yes,8
-Sierra,15,Proposition 61,,,No,39
-Sierra,15,Proposition 61,,,Yes,24
-Sierra,15,Proposition 62,,,No,45
-Sierra,15,Proposition 62,,,Yes,19
-Sierra,15,Proposition 63,,,No,54
-Sierra,15,Proposition 63,,,Yes,17
-Sierra,15,Proposition 64,,,No,38
-Sierra,15,Proposition 64,,,Yes,31
-Sierra,15,Proposition 65,,,No,49
-Sierra,15,Proposition 65,,,Yes,18
-Sierra,15,Proposition 66,,,No,35
-Sierra,15,Proposition 66,,,Yes,27
-Sierra,15,Proposition 67,,,No,44
-Sierra,15,Proposition 67,,,Yes,25
-Sierra,15,U.S. Senate,,DEM,Kamala D. Harris,26
-Sierra,15,U.S. Senate,,DEM,Loretta L. Sanchez,15
-Sierra,16,President,,REP/AI,Donald J. Trump,71
-Sierra,16,President,,LIB,Gary Johnson,6
-Sierra,16,President,,PF,Gloria Estela La Riva,2
-Sierra,16,President,,DEM,Hillary Clinton,41
-Sierra,16,President,,GRN,Jill Stein,2
-Sierra,16,President,,WI,Write-In,3
-Sierra,16,Proposition 51,,,No,65
-Sierra,16,Proposition 51,,,Yes,52
-Sierra,16,Proposition 52,,,No,46
-Sierra,16,Proposition 52,,,Yes,70
-Sierra,16,Proposition 53,,,No,50
-Sierra,16,Proposition 53,,,Yes,70
-Sierra,16,Proposition 54,,,No,41
-Sierra,16,Proposition 54,,,Yes,78
-Sierra,16,Proposition 55,,,No,45
-Sierra,16,Proposition 55,,,Yes,74
-Sierra,16,Proposition 56,,,No,76
-Sierra,16,Proposition 56,,,Yes,47
-Sierra,16,Proposition 57,,,No,53
-Sierra,16,Proposition 57,,,Yes,63
-Sierra,16,Proposition 58,,,No,42
-Sierra,16,Proposition 58,,,Yes,76
-Sierra,16,Proposition 59,,,No,61
-Sierra,16,Proposition 59,,,Yes,47
-Sierra,16,Proposition 60,,,No,71
-Sierra,16,Proposition 60,,,Yes,46
-Sierra,16,Proposition 61,,,No,88
-Sierra,16,Proposition 61,,,Yes,32
-Sierra,16,Proposition 62,,,No,100
-Sierra,16,Proposition 62,,,Yes,21
-Sierra,16,Proposition 63,,,No,92
-Sierra,16,Proposition 63,,,Yes,33
-Sierra,16,Proposition 64,,,No,53
-Sierra,16,Proposition 64,,,Yes,75
-Sierra,16,Proposition 65,,,No,72
-Sierra,16,Proposition 65,,,Yes,51
-Sierra,16,Proposition 66,,,No,39
-Sierra,16,Proposition 66,,,Yes,71
-Sierra,16,Proposition 67,,,No,85
-Sierra,16,Proposition 67,,,Yes,37
-Sierra,16,U.S. Senate,,DEM,Kamala D. Harris,47
-Sierra,16,U.S. Senate,,DEM,Loretta L. Sanchez,41
-Sierra,17,President,,REP/AI,Donald J. Trump,97
-Sierra,17,President,,LIB,Gary Johnson,5
-Sierra,17,President,,PF,Gloria Estela La Riva,0
-Sierra,17,President,,DEM,Hillary Clinton,46
-Sierra,17,President,,GRN,Jill Stein,1
-Sierra,17,President,,WI,Write-In,5
-Sierra,17,Proposition 51,,,No,91
-Sierra,17,Proposition 51,,,Yes,59
-Sierra,17,Proposition 52,,,No,60
-Sierra,17,Proposition 52,,,Yes,89
-Sierra,17,Proposition 53,,,No,56
-Sierra,17,Proposition 53,,,Yes,91
-Sierra,17,Proposition 54,,,No,59
-Sierra,17,Proposition 54,,,Yes,86
-Sierra,17,Proposition 55,,,No,69
-Sierra,17,Proposition 55,,,Yes,79
-Sierra,17,Proposition 56,,,No,94
-Sierra,17,Proposition 56,,,Yes,56
-Sierra,17,Proposition 57,,,No,79
-Sierra,17,Proposition 57,,,Yes,71
-Sierra,17,Proposition 58,,,No,51
-Sierra,17,Proposition 58,,,Yes,98
-Sierra,17,Proposition 59,,,No,92
-Sierra,17,Proposition 59,,,Yes,50
-Sierra,17,Proposition 60,,,No,87
-Sierra,17,Proposition 60,,,Yes,53
-Sierra,17,Proposition 61,,,No,98
-Sierra,17,Proposition 61,,,Yes,50
-Sierra,17,Proposition 62,,,No,109
-Sierra,17,Proposition 62,,,Yes,37
-Sierra,17,Proposition 63,,,No,111
-Sierra,17,Proposition 63,,,Yes,38
-Sierra,17,Proposition 64,,,No,87
-Sierra,17,Proposition 64,,,Yes,65
-Sierra,17,Proposition 65,,,No,102
-Sierra,17,Proposition 65,,,Yes,46
-Sierra,17,Proposition 66,,,No,73
-Sierra,17,Proposition 66,,,Yes,69
-Sierra,17,Proposition 67,,,No,103
-Sierra,17,Proposition 67,,,Yes,47
-Sierra,17,U.S. Senate,,DEM,Kamala D. Harris,68
-Sierra,17,U.S. Senate,,DEM,Loretta L. Sanchez,35
-Sierra,18,President,,REP/AI,Donald J. Trump,38
-Sierra,18,President,,LIB,Gary Johnson,3
-Sierra,18,President,,PF,Gloria Estela La Riva,3
-Sierra,18,President,,DEM,Hillary Clinton,19
-Sierra,18,President,,GRN,Jill Stein,1
-Sierra,18,President,,WI,Write-In,2
-Sierra,18,Proposition 51,,,No,50
-Sierra,18,Proposition 51,,,Yes,18
-Sierra,18,Proposition 52,,,No,24
-Sierra,18,Proposition 52,,,Yes,43
-Sierra,18,Proposition 53,,,No,32
-Sierra,18,Proposition 53,,,Yes,35
-Sierra,18,Proposition 54,,,No,35
-Sierra,18,Proposition 54,,,Yes,29
-Sierra,18,Proposition 55,,,No,35
-Sierra,18,Proposition 55,,,Yes,34
-Sierra,18,Proposition 56,,,No,43
-Sierra,18,Proposition 56,,,Yes,25
-Sierra,18,Proposition 57,,,No,34
-Sierra,18,Proposition 57,,,Yes,32
-Sierra,18,Proposition 58,,,No,32
-Sierra,18,Proposition 58,,,Yes,35
-Sierra,18,Proposition 59,,,No,40
-Sierra,18,Proposition 59,,,Yes,24
-Sierra,18,Proposition 60,,,No,50
-Sierra,18,Proposition 60,,,Yes,14
-Sierra,18,Proposition 61,,,No,48
-Sierra,18,Proposition 61,,,Yes,19
-Sierra,18,Proposition 62,,,No,52
-Sierra,18,Proposition 62,,,Yes,13
-Sierra,18,Proposition 63,,,No,49
-Sierra,18,Proposition 63,,,Yes,16
-Sierra,18,Proposition 64,,,No,36
-Sierra,18,Proposition 64,,,Yes,32
-Sierra,18,Proposition 65,,,No,44
-Sierra,18,Proposition 65,,,Yes,22
-Sierra,18,Proposition 66,,,No,30
-Sierra,18,Proposition 66,,,Yes,30
-Sierra,18,Proposition 67,,,No,51
-Sierra,18,Proposition 67,,,Yes,20
-Sierra,18,U.S. Senate,,DEM,Kamala D. Harris,29
-Sierra,18,U.S. Senate,,DEM,Loretta L. Sanchez,7
-Sierra,19,President,,REP/AI,Donald J. Trump,0
-Sierra,19,President,,LIB,Gary Johnson,1
-Sierra,19,President,,PF,Gloria Estela La Riva,0
-Sierra,19,President,,DEM,Hillary Clinton,5
-Sierra,19,President,,GRN,Jill Stein,0
-Sierra,19,President,,WI,Write-In,0
-Sierra,19,Proposition 51,,,No,2
-Sierra,19,Proposition 51,,,Yes,4
-Sierra,19,Proposition 52,,,No,3
-Sierra,19,Proposition 52,,,Yes,3
-Sierra,19,Proposition 53,,,No,4
-Sierra,19,Proposition 53,,,Yes,1
-Sierra,19,Proposition 54,,,No,4
-Sierra,19,Proposition 54,,,Yes,1
-Sierra,19,Proposition 55,,,No,0
-Sierra,19,Proposition 55,,,Yes,6
-Sierra,19,Proposition 56,,,No,5
-Sierra,19,Proposition 56,,,Yes,1
-Sierra,19,Proposition 57,,,No,0
-Sierra,19,Proposition 57,,,Yes,6
-Sierra,19,Proposition 58,,,No,1
-Sierra,19,Proposition 58,,,Yes,5
-Sierra,19,Proposition 59,,,No,1
-Sierra,19,Proposition 59,,,Yes,4
-Sierra,19,Proposition 60,,,No,3
-Sierra,19,Proposition 60,,,Yes,3
-Sierra,19,Proposition 61,,,No,2
-Sierra,19,Proposition 61,,,Yes,4
-Sierra,19,Proposition 62,,,No,3
-Sierra,19,Proposition 62,,,Yes,2
-Sierra,19,Proposition 63,,,No,3
-Sierra,19,Proposition 63,,,Yes,3
-Sierra,19,Proposition 64,,,No,1
-Sierra,19,Proposition 64,,,Yes,5
-Sierra,19,Proposition 65,,,No,4
-Sierra,19,Proposition 65,,,Yes,2
-Sierra,19,Proposition 66,,,No,1
-Sierra,19,Proposition 66,,,Yes,4
-Sierra,19,Proposition 67,,,No,3
-Sierra,19,Proposition 67,,,Yes,3
-Sierra,19,U.S. Senate,,DEM,Kamala D. Harris,4
-Sierra,19,U.S. Senate,,DEM,Loretta L. Sanchez,1
-Sierra,2,President,,REP/AI,Donald J. Trump,26
-Sierra,2,President,,LIB,Gary Johnson,2
-Sierra,2,President,,PF,Gloria Estela La Riva,0
-Sierra,2,President,,DEM,Hillary Clinton,19
-Sierra,2,President,,GRN,Jill Stein,2
-Sierra,2,President,,WI,Write-In,2
-Sierra,2,Proposition 51,,,No,26
-Sierra,2,Proposition 51,,,Yes,24
-Sierra,2,Proposition 52,,,No,23
-Sierra,2,Proposition 52,,,Yes,28
-Sierra,2,Proposition 53,,,No,34
-Sierra,2,Proposition 53,,,Yes,17
-Sierra,2,Proposition 54,,,No,30
-Sierra,2,Proposition 54,,,Yes,21
-Sierra,2,Proposition 55,,,No,25
-Sierra,2,Proposition 55,,,Yes,26
-Sierra,2,Proposition 56,,,No,26
-Sierra,2,Proposition 56,,,Yes,26
-Sierra,2,Proposition 57,,,No,22
-Sierra,2,Proposition 57,,,Yes,29
-Sierra,2,Proposition 58,,,No,19
-Sierra,2,Proposition 58,,,Yes,31
-Sierra,2,Proposition 59,,,No,22
-Sierra,2,Proposition 59,,,Yes,28
-Sierra,2,Proposition 60,,,No,44
-Sierra,2,Proposition 60,,,Yes,6
-Sierra,2,Proposition 61,,,No,33
-Sierra,2,Proposition 61,,,Yes,17
-Sierra,2,Proposition 62,,,No,34
-Sierra,2,Proposition 62,,,Yes,18
-Sierra,2,Proposition 63,,,No,31
-Sierra,2,Proposition 63,,,Yes,22
-Sierra,2,Proposition 64,,,No,26
-Sierra,2,Proposition 64,,,Yes,26
-Sierra,2,Proposition 65,,,No,30
-Sierra,2,Proposition 65,,,Yes,22
-Sierra,2,Proposition 66,,,No,32
-Sierra,2,Proposition 66,,,Yes,18
-Sierra,2,Proposition 67,,,No,31
-Sierra,2,Proposition 67,,,Yes,19
-Sierra,2,U.S. Senate,,DEM,Kamala D. Harris,31
-Sierra,2,U.S. Senate,,DEM,Loretta L. Sanchez,10
-Sierra,20,President,,REP/AI,Donald J. Trump,8
-Sierra,20,President,,LIB,Gary Johnson,0
-Sierra,20,President,,PF,Gloria Estela La Riva,0
-Sierra,20,President,,DEM,Hillary Clinton,8
-Sierra,20,President,,GRN,Jill Stein,0
-Sierra,20,President,,WI,Write-In,0
-Sierra,20,Proposition 51,,,No,10
-Sierra,20,Proposition 51,,,Yes,7
-Sierra,20,Proposition 52,,,No,6
-Sierra,20,Proposition 52,,,Yes,9
-Sierra,20,Proposition 53,,,No,10
-Sierra,20,Proposition 53,,,Yes,7
-Sierra,20,Proposition 54,,,No,10
-Sierra,20,Proposition 54,,,Yes,7
-Sierra,20,Proposition 55,,,No,7
-Sierra,20,Proposition 55,,,Yes,9
-Sierra,20,Proposition 56,,,No,7
-Sierra,20,Proposition 56,,,Yes,10
-Sierra,20,Proposition 57,,,No,3
-Sierra,20,Proposition 57,,,Yes,14
-Sierra,20,Proposition 58,,,No,6
-Sierra,20,Proposition 58,,,Yes,10
-Sierra,20,Proposition 59,,,No,5
-Sierra,20,Proposition 59,,,Yes,11
-Sierra,20,Proposition 60,,,No,13
-Sierra,20,Proposition 60,,,Yes,3
-Sierra,20,Proposition 61,,,No,8
-Sierra,20,Proposition 61,,,Yes,9
-Sierra,20,Proposition 62,,,No,7
-Sierra,20,Proposition 62,,,Yes,9
-Sierra,20,Proposition 63,,,No,11
-Sierra,20,Proposition 63,,,Yes,6
-Sierra,20,Proposition 64,,,No,3
-Sierra,20,Proposition 64,,,Yes,14
-Sierra,20,Proposition 65,,,No,10
-Sierra,20,Proposition 65,,,Yes,7
-Sierra,20,Proposition 66,,,No,13
-Sierra,20,Proposition 66,,,Yes,3
-Sierra,20,Proposition 67,,,No,8
-Sierra,20,Proposition 67,,,Yes,9
-Sierra,20,U.S. Senate,,DEM,Kamala D. Harris,7
-Sierra,20,U.S. Senate,,DEM,Loretta L. Sanchez,7
-Sierra,21,President,,REP/AI,Donald J. Trump,91
-Sierra,21,President,,LIB,Gary Johnson,6
-Sierra,21,President,,PF,Gloria Estela La Riva,0
-Sierra,21,President,,DEM,Hillary Clinton,30
-Sierra,21,President,,GRN,Jill Stein,1
-Sierra,21,President,,WI,Write-In,3
-Sierra,21,Proposition 51,,,No,81
-Sierra,21,Proposition 51,,,Yes,46
-Sierra,21,Proposition 52,,,No,68
-Sierra,21,Proposition 52,,,Yes,56
-Sierra,21,Proposition 53,,,No,42
-Sierra,21,Proposition 53,,,Yes,83
-Sierra,21,Proposition 54,,,No,46
-Sierra,21,Proposition 54,,,Yes,78
-Sierra,21,Proposition 55,,,No,75
-Sierra,21,Proposition 55,,,Yes,52
-Sierra,21,Proposition 56,,,No,68
-Sierra,21,Proposition 56,,,Yes,60
-Sierra,21,Proposition 57,,,No,68
-Sierra,21,Proposition 57,,,Yes,60
-Sierra,21,Proposition 58,,,No,57
-Sierra,21,Proposition 58,,,Yes,69
-Sierra,21,Proposition 59,,,No,85
-Sierra,21,Proposition 59,,,Yes,39
-Sierra,21,Proposition 60,,,No,79
-Sierra,21,Proposition 60,,,Yes,37
-Sierra,21,Proposition 61,,,No,78
-Sierra,21,Proposition 61,,,Yes,46
-Sierra,21,Proposition 62,,,No,97
-Sierra,21,Proposition 62,,,Yes,31
-Sierra,21,Proposition 63,,,No,95
-Sierra,21,Proposition 63,,,Yes,34
-Sierra,21,Proposition 64,,,No,76
-Sierra,21,Proposition 64,,,Yes,56
-Sierra,21,Proposition 65,,,No,81
-Sierra,21,Proposition 65,,,Yes,45
-Sierra,21,Proposition 66,,,No,57
-Sierra,21,Proposition 66,,,Yes,67
-Sierra,21,Proposition 67,,,No,85
-Sierra,21,Proposition 67,,,Yes,43
-Sierra,21,U.S. Senate,,DEM,Kamala D. Harris,43
-Sierra,21,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Sierra,22,President,,REP/AI,Donald J. Trump,95
-Sierra,22,President,,LIB,Gary Johnson,7
-Sierra,22,President,,PF,Gloria Estela La Riva,0
-Sierra,22,President,,DEM,Hillary Clinton,36
-Sierra,22,President,,GRN,Jill Stein,0
-Sierra,22,President,,WI,Write-In,5
-Sierra,22,Proposition 51,,,No,83
-Sierra,22,Proposition 51,,,Yes,57
-Sierra,22,Proposition 52,,,No,60
-Sierra,22,Proposition 52,,,Yes,77
-Sierra,22,Proposition 53,,,No,47
-Sierra,22,Proposition 53,,,Yes,92
-Sierra,22,Proposition 54,,,No,49
-Sierra,22,Proposition 54,,,Yes,90
-Sierra,22,Proposition 55,,,No,71
-Sierra,22,Proposition 55,,,Yes,70
-Sierra,22,Proposition 56,,,No,93
-Sierra,22,Proposition 56,,,Yes,49
-Sierra,22,Proposition 57,,,No,56
-Sierra,22,Proposition 57,,,Yes,82
-Sierra,22,Proposition 58,,,No,50
-Sierra,22,Proposition 58,,,Yes,89
-Sierra,22,Proposition 59,,,No,71
-Sierra,22,Proposition 59,,,Yes,64
-Sierra,22,Proposition 60,,,No,84
-Sierra,22,Proposition 60,,,Yes,50
-Sierra,22,Proposition 61,,,No,94
-Sierra,22,Proposition 61,,,Yes,43
-Sierra,22,Proposition 62,,,No,99
-Sierra,22,Proposition 62,,,Yes,38
-Sierra,22,Proposition 63,,,No,107
-Sierra,22,Proposition 63,,,Yes,35
-Sierra,22,Proposition 64,,,No,83
-Sierra,22,Proposition 64,,,Yes,57
-Sierra,22,Proposition 65,,,No,87
-Sierra,22,Proposition 65,,,Yes,52
-Sierra,22,Proposition 66,,,No,52
-Sierra,22,Proposition 66,,,Yes,84
-Sierra,22,Proposition 67,,,No,95
-Sierra,22,Proposition 67,,,Yes,44
-Sierra,22,U.S. Senate,,DEM,Kamala D. Harris,60
-Sierra,22,U.S. Senate,,DEM,Loretta L. Sanchez,27
-Sierra,3,President,,REP/AI,Donald J. Trump,33
-Sierra,3,President,,LIB,Gary Johnson,2
-Sierra,3,President,,PF,Gloria Estela La Riva,1
-Sierra,3,President,,DEM,Hillary Clinton,18
-Sierra,3,President,,GRN,Jill Stein,2
-Sierra,3,President,,WI,Write-In,3
-Sierra,3,Proposition 51,,,No,28
-Sierra,3,Proposition 51,,,Yes,27
-Sierra,3,Proposition 52,,,No,14
-Sierra,3,Proposition 52,,,Yes,41
-Sierra,3,Proposition 53,,,No,36
-Sierra,3,Proposition 53,,,Yes,19
-Sierra,3,Proposition 54,,,No,29
-Sierra,3,Proposition 54,,,Yes,27
-Sierra,3,Proposition 55,,,No,24
-Sierra,3,Proposition 55,,,Yes,34
-Sierra,3,Proposition 56,,,No,28
-Sierra,3,Proposition 56,,,Yes,30
-Sierra,3,Proposition 57,,,No,23
-Sierra,3,Proposition 57,,,Yes,35
-Sierra,3,Proposition 58,,,No,13
-Sierra,3,Proposition 58,,,Yes,44
-Sierra,3,Proposition 59,,,No,27
-Sierra,3,Proposition 59,,,Yes,29
-Sierra,3,Proposition 60,,,No,36
-Sierra,3,Proposition 60,,,Yes,16
-Sierra,3,Proposition 61,,,No,32
-Sierra,3,Proposition 61,,,Yes,21
-Sierra,3,Proposition 62,,,No,36
-Sierra,3,Proposition 62,,,Yes,21
-Sierra,3,Proposition 63,,,No,41
-Sierra,3,Proposition 63,,,Yes,18
-Sierra,3,Proposition 64,,,No,23
-Sierra,3,Proposition 64,,,Yes,36
-Sierra,3,Proposition 65,,,No,40
-Sierra,3,Proposition 65,,,Yes,16
-Sierra,3,Proposition 66,,,No,39
-Sierra,3,Proposition 66,,,Yes,16
-Sierra,3,Proposition 67,,,No,33
-Sierra,3,Proposition 67,,,Yes,24
-Sierra,3,U.S. Senate,,DEM,Kamala D. Harris,34
-Sierra,3,U.S. Senate,,DEM,Loretta L. Sanchez,12
-Sierra,4,President,,REP/AI,Donald J. Trump,31
-Sierra,4,President,,LIB,Gary Johnson,7
-Sierra,4,President,,PF,Gloria Estela La Riva,1
-Sierra,4,President,,DEM,Hillary Clinton,15
-Sierra,4,President,,GRN,Jill Stein,2
-Sierra,4,President,,WI,Write-In,1
-Sierra,4,Proposition 51,,,No,25
-Sierra,4,Proposition 51,,,Yes,25
-Sierra,4,Proposition 52,,,No,12
-Sierra,4,Proposition 52,,,Yes,38
-Sierra,4,Proposition 53,,,No,24
-Sierra,4,Proposition 53,,,Yes,26
-Sierra,4,Proposition 54,,,No,14
-Sierra,4,Proposition 54,,,Yes,35
-Sierra,4,Proposition 55,,,No,25
-Sierra,4,Proposition 55,,,Yes,25
-Sierra,4,Proposition 56,,,No,42
-Sierra,4,Proposition 56,,,Yes,13
-Sierra,4,Proposition 57,,,No,19
-Sierra,4,Proposition 57,,,Yes,28
-Sierra,4,Proposition 58,,,No,18
-Sierra,4,Proposition 58,,,Yes,30
-Sierra,4,Proposition 59,,,No,21
-Sierra,4,Proposition 59,,,Yes,27
-Sierra,4,Proposition 60,,,No,27
-Sierra,4,Proposition 60,,,Yes,17
-Sierra,4,Proposition 61,,,No,30
-Sierra,4,Proposition 61,,,Yes,17
-Sierra,4,Proposition 62,,,No,32
-Sierra,4,Proposition 62,,,Yes,18
-Sierra,4,Proposition 63,,,No,46
-Sierra,4,Proposition 63,,,Yes,8
-Sierra,4,Proposition 64,,,No,22
-Sierra,4,Proposition 64,,,Yes,31
-Sierra,4,Proposition 65,,,No,34
-Sierra,4,Proposition 65,,,Yes,15
-Sierra,4,Proposition 66,,,No,19
-Sierra,4,Proposition 66,,,Yes,23
-Sierra,4,Proposition 67,,,No,29
-Sierra,4,Proposition 67,,,Yes,19
-Sierra,4,U.S. Senate,,DEM,Kamala D. Harris,20
-Sierra,4,U.S. Senate,,DEM,Loretta L. Sanchez,16
-Sierra,5,President,,REP/AI,Donald J. Trump,58
-Sierra,5,President,,LIB,Gary Johnson,5
-Sierra,5,President,,PF,Gloria Estela La Riva,2
-Sierra,5,President,,DEM,Hillary Clinton,42
-Sierra,5,President,,GRN,Jill Stein,10
-Sierra,5,President,,WI,Write-In,11
-Sierra,5,Proposition 51,,,No,72
-Sierra,5,Proposition 51,,,Yes,49
-Sierra,5,Proposition 52,,,No,47
-Sierra,5,Proposition 52,,,Yes,70
-Sierra,5,Proposition 53,,,No,43
-Sierra,5,Proposition 53,,,Yes,73
-Sierra,5,Proposition 54,,,No,25
-Sierra,5,Proposition 54,,,Yes,95
-Sierra,5,Proposition 55,,,No,43
-Sierra,5,Proposition 55,,,Yes,77
-Sierra,5,Proposition 56,,,No,78
-Sierra,5,Proposition 56,,,Yes,46
-Sierra,5,Proposition 57,,,No,31
-Sierra,5,Proposition 57,,,Yes,91
-Sierra,5,Proposition 58,,,No,32
-Sierra,5,Proposition 58,,,Yes,81
-Sierra,5,Proposition 59,,,No,37
-Sierra,5,Proposition 59,,,Yes,84
-Sierra,5,Proposition 60,,,No,84
-Sierra,5,Proposition 60,,,Yes,34
-Sierra,5,Proposition 61,,,No,55
-Sierra,5,Proposition 61,,,Yes,59
-Sierra,5,Proposition 62,,,No,67
-Sierra,5,Proposition 62,,,Yes,58
-Sierra,5,Proposition 63,,,No,95
-Sierra,5,Proposition 63,,,Yes,29
-Sierra,5,Proposition 64,,,No,74
-Sierra,5,Proposition 64,,,Yes,53
-Sierra,5,Proposition 65,,,No,80
-Sierra,5,Proposition 65,,,Yes,41
-Sierra,5,Proposition 66,,,No,67
-Sierra,5,Proposition 66,,,Yes,50
-Sierra,5,Proposition 67,,,No,57
-Sierra,5,Proposition 67,,,Yes,66
-Sierra,5,U.S. Senate,,DEM,Kamala D. Harris,55
-Sierra,5,U.S. Senate,,DEM,Loretta L. Sanchez,37
-Sierra,6,President,,REP/AI,Donald J. Trump,53
-Sierra,6,President,,LIB,Gary Johnson,3
-Sierra,6,President,,PF,Gloria Estela La Riva,1
-Sierra,6,President,,DEM,Hillary Clinton,40
-Sierra,6,President,,GRN,Jill Stein,1
-Sierra,6,President,,WI,Write-In,2
-Sierra,6,Proposition 51,,,No,47
-Sierra,6,Proposition 51,,,Yes,50
-Sierra,6,Proposition 52,,,No,23
-Sierra,6,Proposition 52,,,Yes,73
-Sierra,6,Proposition 53,,,No,50
-Sierra,6,Proposition 53,,,Yes,45
-Sierra,6,Proposition 54,,,No,33
-Sierra,6,Proposition 54,,,Yes,67
-Sierra,6,Proposition 55,,,No,42
-Sierra,6,Proposition 55,,,Yes,57
-Sierra,6,Proposition 56,,,No,43
-Sierra,6,Proposition 56,,,Yes,58
-Sierra,6,Proposition 57,,,No,42
-Sierra,6,Proposition 57,,,Yes,57
-Sierra,6,Proposition 58,,,No,36
-Sierra,6,Proposition 58,,,Yes,64
-Sierra,6,Proposition 59,,,No,44
-Sierra,6,Proposition 59,,,Yes,54
-Sierra,6,Proposition 60,,,No,58
-Sierra,6,Proposition 60,,,Yes,36
-Sierra,6,Proposition 61,,,No,53
-Sierra,6,Proposition 61,,,Yes,42
-Sierra,6,Proposition 62,,,No,62
-Sierra,6,Proposition 62,,,Yes,38
-Sierra,6,Proposition 63,,,No,69
-Sierra,6,Proposition 63,,,Yes,30
-Sierra,6,Proposition 64,,,No,38
-Sierra,6,Proposition 64,,,Yes,60
-Sierra,6,Proposition 65,,,No,65
-Sierra,6,Proposition 65,,,Yes,33
-Sierra,6,Proposition 66,,,No,48
-Sierra,6,Proposition 66,,,Yes,45
-Sierra,6,Proposition 67,,,No,58
-Sierra,6,Proposition 67,,,Yes,41
-Sierra,6,U.S. Senate,,DEM,Kamala D. Harris,54
-Sierra,6,U.S. Senate,,DEM,Loretta L. Sanchez,22
-Sierra,7,President,,REP/AI,Donald J. Trump,56
-Sierra,7,President,,LIB,Gary Johnson,7
-Sierra,7,President,,PF,Gloria Estela La Riva,2
-Sierra,7,President,,DEM,Hillary Clinton,33
-Sierra,7,President,,GRN,Jill Stein,4
-Sierra,7,President,,WI,Write-In,2
-Sierra,7,Proposition 51,,,No,50
-Sierra,7,Proposition 51,,,Yes,50
-Sierra,7,Proposition 52,,,No,50
-Sierra,7,Proposition 52,,,Yes,53
-Sierra,7,Proposition 53,,,No,41
-Sierra,7,Proposition 53,,,Yes,60
-Sierra,7,Proposition 54,,,No,38
-Sierra,7,Proposition 54,,,Yes,62
-Sierra,7,Proposition 55,,,No,50
-Sierra,7,Proposition 55,,,Yes,52
-Sierra,7,Proposition 56,,,No,47
-Sierra,7,Proposition 56,,,Yes,56
-Sierra,7,Proposition 57,,,No,44
-Sierra,7,Proposition 57,,,Yes,58
-Sierra,7,Proposition 58,,,No,39
-Sierra,7,Proposition 58,,,Yes,61
-Sierra,7,Proposition 59,,,No,57
-Sierra,7,Proposition 59,,,Yes,42
-Sierra,7,Proposition 60,,,No,71
-Sierra,7,Proposition 60,,,Yes,28
-Sierra,7,Proposition 61,,,No,56
-Sierra,7,Proposition 61,,,Yes,43
-Sierra,7,Proposition 62,,,No,66
-Sierra,7,Proposition 62,,,Yes,35
-Sierra,7,Proposition 63,,,No,68
-Sierra,7,Proposition 63,,,Yes,34
-Sierra,7,Proposition 64,,,No,45
-Sierra,7,Proposition 64,,,Yes,59
-Sierra,7,Proposition 65,,,No,69
-Sierra,7,Proposition 65,,,Yes,34
-Sierra,7,Proposition 66,,,No,56
-Sierra,7,Proposition 66,,,Yes,46
-Sierra,7,Proposition 67,,,No,56
-Sierra,7,Proposition 67,,,Yes,44
-Sierra,7,U.S. Senate,,DEM,Kamala D. Harris,52
-Sierra,7,U.S. Senate,,DEM,Loretta L. Sanchez,24
-Sierra,8,President,,REP/AI,Donald J. Trump,4
-Sierra,8,President,,LIB,Gary Johnson,2
-Sierra,8,President,,PF,Gloria Estela La Riva,0
-Sierra,8,President,,DEM,Hillary Clinton,4
-Sierra,8,President,,GRN,Jill Stein,0
-Sierra,8,President,,WI,Write-In,0
-Sierra,8,Proposition 51,,,No,6
-Sierra,8,Proposition 51,,,Yes,3
-Sierra,8,Proposition 52,,,No,4
-Sierra,8,Proposition 52,,,Yes,5
-Sierra,8,Proposition 53,,,No,4
-Sierra,8,Proposition 53,,,Yes,5
-Sierra,8,Proposition 54,,,No,5
-Sierra,8,Proposition 54,,,Yes,4
-Sierra,8,Proposition 55,,,No,3
-Sierra,8,Proposition 55,,,Yes,6
-Sierra,8,Proposition 56,,,No,5
-Sierra,8,Proposition 56,,,Yes,4
-Sierra,8,Proposition 57,,,No,2
-Sierra,8,Proposition 57,,,Yes,6
-Sierra,8,Proposition 58,,,No,4
-Sierra,8,Proposition 58,,,Yes,5
-Sierra,8,Proposition 59,,,No,5
-Sierra,8,Proposition 59,,,Yes,4
-Sierra,8,Proposition 60,,,No,8
-Sierra,8,Proposition 60,,,Yes,1
-Sierra,8,Proposition 61,,,No,4
-Sierra,8,Proposition 61,,,Yes,5
-Sierra,8,Proposition 62,,,No,6
-Sierra,8,Proposition 62,,,Yes,4
-Sierra,8,Proposition 63,,,No,7
-Sierra,8,Proposition 63,,,Yes,3
-Sierra,8,Proposition 64,,,No,6
-Sierra,8,Proposition 64,,,Yes,4
-Sierra,8,Proposition 65,,,No,6
-Sierra,8,Proposition 65,,,Yes,1
-Sierra,8,Proposition 66,,,No,4
-Sierra,8,Proposition 66,,,Yes,5
-Sierra,8,Proposition 67,,,No,5
-Sierra,8,Proposition 67,,,Yes,4
-Sierra,8,U.S. Senate,,DEM,Kamala D. Harris,3
-Sierra,8,U.S. Senate,,DEM,Loretta L. Sanchez,5
-Sierra,9,President,,REP/AI,Donald J. Trump,23
-Sierra,9,President,,LIB,Gary Johnson,1
-Sierra,9,President,,PF,Gloria Estela La Riva,0
-Sierra,9,President,,DEM,Hillary Clinton,42
-Sierra,9,President,,GRN,Jill Stein,1
-Sierra,9,President,,WI,Write-In,0
-Sierra,9,Proposition 51,,,No,29
-Sierra,9,Proposition 51,,,Yes,33
-Sierra,9,Proposition 52,,,No,18
-Sierra,9,Proposition 52,,,Yes,44
-Sierra,9,Proposition 53,,,No,32
-Sierra,9,Proposition 53,,,Yes,25
-Sierra,9,Proposition 54,,,No,30
-Sierra,9,Proposition 54,,,Yes,31
-Sierra,9,Proposition 55,,,No,22
-Sierra,9,Proposition 55,,,Yes,44
-Sierra,9,Proposition 56,,,No,21
-Sierra,9,Proposition 56,,,Yes,44
-Sierra,9,Proposition 57,,,No,13
-Sierra,9,Proposition 57,,,Yes,49
-Sierra,9,Proposition 58,,,No,15
-Sierra,9,Proposition 58,,,Yes,48
-Sierra,9,Proposition 59,,,No,21
-Sierra,9,Proposition 59,,,Yes,41
-Sierra,9,Proposition 60,,,No,37
-Sierra,9,Proposition 60,,,Yes,24
-Sierra,9,Proposition 61,,,No,27
-Sierra,9,Proposition 61,,,Yes,32
-Sierra,9,Proposition 62,,,No,26
-Sierra,9,Proposition 62,,,Yes,37
-Sierra,9,Proposition 63,,,No,26
-Sierra,9,Proposition 63,,,Yes,38
-Sierra,9,Proposition 64,,,No,19
-Sierra,9,Proposition 64,,,Yes,40
-Sierra,9,Proposition 65,,,No,34
-Sierra,9,Proposition 65,,,Yes,28
-Sierra,9,Proposition 66,,,No,37
-Sierra,9,Proposition 66,,,Yes,19
-Sierra,9,Proposition 67,,,No,23
-Sierra,9,Proposition 67,,,Yes,38
-Sierra,9,U.S. Senate,,DEM,Kamala D. Harris,32
-Sierra,9,U.S. Senate,,DEM,Loretta L. Sanchez,14
+Sierra,001,President,,REP,Donald J. Trump,89
+Sierra,001,President,,LIB,Gary Johnson,10
+Sierra,001,President,,PAF,Gloria Estela La Riva,3
+Sierra,001,President,,DEM,Hillary Clinton,39
+Sierra,001,President,,GRN,Jill Stein,2
+Sierra,001,Proposition 51,,,No,82
+Sierra,001,Proposition 51,,,Yes,58
+Sierra,001,Proposition 52,,,No,56
+Sierra,001,Proposition 52,,,Yes,85
+Sierra,001,Proposition 53,,,No,73
+Sierra,001,Proposition 53,,,Yes,66
+Sierra,001,Proposition 54,,,No,69
+Sierra,001,Proposition 54,,,Yes,71
+Sierra,001,Proposition 55,,,No,64
+Sierra,001,Proposition 55,,,Yes,75
+Sierra,001,Proposition 56,,,No,86
+Sierra,001,Proposition 56,,,Yes,57
+Sierra,001,Proposition 57,,,No,66
+Sierra,001,Proposition 57,,,Yes,74
+Sierra,001,Proposition 58,,,No,53
+Sierra,001,Proposition 58,,,Yes,87
+Sierra,001,Proposition 59,,,No,79
+Sierra,001,Proposition 59,,,Yes,55
+Sierra,001,Proposition 60,,,No,89
+Sierra,001,Proposition 60,,,Yes,43
+Sierra,001,Proposition 61,,,No,91
+Sierra,001,Proposition 61,,,Yes,48
+Sierra,001,Proposition 62,,,No,99
+Sierra,001,Proposition 62,,,Yes,44
+Sierra,001,Proposition 63,,,No,98
+Sierra,001,Proposition 63,,,Yes,43
+Sierra,001,Proposition 64,,,No,64
+Sierra,001,Proposition 64,,,Yes,80
+Sierra,001,Proposition 65,,,No,99
+Sierra,001,Proposition 65,,,Yes,41
+Sierra,001,Proposition 66,,,No,67
+Sierra,001,Proposition 66,,,Yes,71
+Sierra,001,Proposition 67,,,No,101
+Sierra,001,Proposition 67,,,Yes,38
+Sierra,001,State Assembly,1,REP,Brian Dahle,103
+Sierra,001,State Assembly,1,LIB,Donn Coenen,29
+Sierra,001,State Senate,1,DEM,Rob Rowen,42
+Sierra,001,State Senate,1,REP,Ted Gaines,95
+Sierra,001,U.S. House,1,REP,Doug La Malfa,90
+Sierra,001,U.S. House,1,DEM,Jim Reed,44
+Sierra,001,U.S. Senate,,DEM,Kamala D. Harris,56
+Sierra,001,U.S. Senate,,DEM,Loretta L. Sanchez,47
+Sierra,002,President,,REP,Donald J. Trump,26
+Sierra,002,President,,LIB,Gary Johnson,2
+Sierra,002,President,,DEM,Hillary Clinton,19
+Sierra,002,President,,GRN,Jill Stein,2
+Sierra,002,Proposition 51,,,No,26
+Sierra,002,Proposition 51,,,Yes,24
+Sierra,002,Proposition 52,,,No,23
+Sierra,002,Proposition 52,,,Yes,28
+Sierra,002,Proposition 53,,,No,34
+Sierra,002,Proposition 53,,,Yes,17
+Sierra,002,Proposition 54,,,No,30
+Sierra,002,Proposition 54,,,Yes,21
+Sierra,002,Proposition 55,,,No,25
+Sierra,002,Proposition 55,,,Yes,26
+Sierra,002,Proposition 56,,,No,26
+Sierra,002,Proposition 56,,,Yes,26
+Sierra,002,Proposition 57,,,No,22
+Sierra,002,Proposition 57,,,Yes,29
+Sierra,002,Proposition 58,,,No,19
+Sierra,002,Proposition 58,,,Yes,31
+Sierra,002,Proposition 59,,,No,22
+Sierra,002,Proposition 59,,,Yes,28
+Sierra,002,Proposition 60,,,No,44
+Sierra,002,Proposition 60,,,Yes,6
+Sierra,002,Proposition 61,,,No,33
+Sierra,002,Proposition 61,,,Yes,17
+Sierra,002,Proposition 62,,,No,34
+Sierra,002,Proposition 62,,,Yes,18
+Sierra,002,Proposition 63,,,No,31
+Sierra,002,Proposition 63,,,Yes,22
+Sierra,002,Proposition 64,,,No,26
+Sierra,002,Proposition 64,,,Yes,26
+Sierra,002,Proposition 65,,,No,30
+Sierra,002,Proposition 65,,,Yes,22
+Sierra,002,Proposition 66,,,No,32
+Sierra,002,Proposition 66,,,Yes,18
+Sierra,002,Proposition 67,,,No,31
+Sierra,002,Proposition 67,,,Yes,19
+Sierra,002,State Assembly,1,REP,Brian Dahle,39
+Sierra,002,State Assembly,1,LIB,Donn Coenen,5
+Sierra,002,State Senate,1,DEM,Rob Rowen,20
+Sierra,002,State Senate,1,REP,Ted Gaines,31
+Sierra,002,U.S. House,1,REP,Doug La Malfa,30
+Sierra,002,U.S. House,1,DEM,Jim Reed,21
+Sierra,002,U.S. Senate,,DEM,Kamala D. Harris,31
+Sierra,002,U.S. Senate,,DEM,Loretta L. Sanchez,10
+Sierra,003,President,,REP,Donald J. Trump,33
+Sierra,003,President,,LIB,Gary Johnson,2
+Sierra,003,President,,PAF,Gloria Estela La Riva,1
+Sierra,003,President,,DEM,Hillary Clinton,18
+Sierra,003,President,,GRN,Jill Stein,2
+Sierra,003,Proposition 51,,,No,28
+Sierra,003,Proposition 51,,,Yes,27
+Sierra,003,Proposition 52,,,No,14
+Sierra,003,Proposition 52,,,Yes,41
+Sierra,003,Proposition 53,,,No,36
+Sierra,003,Proposition 53,,,Yes,19
+Sierra,003,Proposition 54,,,No,29
+Sierra,003,Proposition 54,,,Yes,27
+Sierra,003,Proposition 55,,,No,24
+Sierra,003,Proposition 55,,,Yes,34
+Sierra,003,Proposition 56,,,No,28
+Sierra,003,Proposition 56,,,Yes,30
+Sierra,003,Proposition 57,,,No,23
+Sierra,003,Proposition 57,,,Yes,35
+Sierra,003,Proposition 58,,,No,13
+Sierra,003,Proposition 58,,,Yes,44
+Sierra,003,Proposition 59,,,No,27
+Sierra,003,Proposition 59,,,Yes,29
+Sierra,003,Proposition 60,,,No,36
+Sierra,003,Proposition 60,,,Yes,16
+Sierra,003,Proposition 61,,,No,32
+Sierra,003,Proposition 61,,,Yes,21
+Sierra,003,Proposition 62,,,No,36
+Sierra,003,Proposition 62,,,Yes,21
+Sierra,003,Proposition 63,,,No,41
+Sierra,003,Proposition 63,,,Yes,18
+Sierra,003,Proposition 64,,,No,23
+Sierra,003,Proposition 64,,,Yes,36
+Sierra,003,Proposition 65,,,No,40
+Sierra,003,Proposition 65,,,Yes,16
+Sierra,003,Proposition 66,,,No,39
+Sierra,003,Proposition 66,,,Yes,16
+Sierra,003,Proposition 67,,,No,33
+Sierra,003,Proposition 67,,,Yes,24
+Sierra,003,State Assembly,1,REP,Brian Dahle,37
+Sierra,003,State Assembly,1,LIB,Donn Coenen,15
+Sierra,003,State Senate,1,DEM,Rob Rowen,21
+Sierra,003,State Senate,1,REP,Ted Gaines,36
+Sierra,003,U.S. House,1,REP,Doug La Malfa,33
+Sierra,003,U.S. House,1,DEM,Jim Reed,23
+Sierra,003,U.S. Senate,,DEM,Kamala D. Harris,34
+Sierra,003,U.S. Senate,,DEM,Loretta L. Sanchez,12
+Sierra,004,President,,REP,Donald J. Trump,31
+Sierra,004,President,,LIB,Gary Johnson,7
+Sierra,004,President,,PAF,Gloria Estela La Riva,1
+Sierra,004,President,,DEM,Hillary Clinton,15
+Sierra,004,President,,GRN,Jill Stein,2
+Sierra,004,Proposition 51,,,No,25
+Sierra,004,Proposition 51,,,Yes,25
+Sierra,004,Proposition 52,,,No,12
+Sierra,004,Proposition 52,,,Yes,38
+Sierra,004,Proposition 53,,,No,24
+Sierra,004,Proposition 53,,,Yes,26
+Sierra,004,Proposition 54,,,No,14
+Sierra,004,Proposition 54,,,Yes,35
+Sierra,004,Proposition 55,,,No,25
+Sierra,004,Proposition 55,,,Yes,25
+Sierra,004,Proposition 56,,,No,42
+Sierra,004,Proposition 56,,,Yes,13
+Sierra,004,Proposition 57,,,No,19
+Sierra,004,Proposition 57,,,Yes,28
+Sierra,004,Proposition 58,,,No,18
+Sierra,004,Proposition 58,,,Yes,30
+Sierra,004,Proposition 59,,,No,21
+Sierra,004,Proposition 59,,,Yes,27
+Sierra,004,Proposition 60,,,No,27
+Sierra,004,Proposition 60,,,Yes,17
+Sierra,004,Proposition 61,,,No,30
+Sierra,004,Proposition 61,,,Yes,17
+Sierra,004,Proposition 62,,,No,32
+Sierra,004,Proposition 62,,,Yes,18
+Sierra,004,Proposition 63,,,No,46
+Sierra,004,Proposition 63,,,Yes,8
+Sierra,004,Proposition 64,,,No,22
+Sierra,004,Proposition 64,,,Yes,31
+Sierra,004,Proposition 65,,,No,34
+Sierra,004,Proposition 65,,,Yes,15
+Sierra,004,Proposition 66,,,No,19
+Sierra,004,Proposition 66,,,Yes,23
+Sierra,004,Proposition 67,,,No,29
+Sierra,004,Proposition 67,,,Yes,19
+Sierra,004,State Assembly,1,REP,Brian Dahle,30
+Sierra,004,State Assembly,1,LIB,Donn Coenen,17
+Sierra,004,State Senate,1,DEM,Rob Rowen,22
+Sierra,004,State Senate,1,REP,Ted Gaines,27
+Sierra,004,U.S. House,1,REP,Doug La Malfa,27
+Sierra,004,U.S. House,1,DEM,Jim Reed,21
+Sierra,004,U.S. Senate,,DEM,Kamala D. Harris,20
+Sierra,004,U.S. Senate,,DEM,Loretta L. Sanchez,16
+Sierra,005,President,,REP,Donald J. Trump,58
+Sierra,005,President,,LIB,Gary Johnson,5
+Sierra,005,President,,PAF,Gloria Estela La Riva,2
+Sierra,005,President,,DEM,Hillary Clinton,42
+Sierra,005,President,,GRN,Jill Stein,10
+Sierra,005,Proposition 51,,,No,72
+Sierra,005,Proposition 51,,,Yes,49
+Sierra,005,Proposition 52,,,No,47
+Sierra,005,Proposition 52,,,Yes,70
+Sierra,005,Proposition 53,,,No,43
+Sierra,005,Proposition 53,,,Yes,73
+Sierra,005,Proposition 54,,,No,25
+Sierra,005,Proposition 54,,,Yes,95
+Sierra,005,Proposition 55,,,No,43
+Sierra,005,Proposition 55,,,Yes,77
+Sierra,005,Proposition 56,,,No,78
+Sierra,005,Proposition 56,,,Yes,46
+Sierra,005,Proposition 57,,,No,31
+Sierra,005,Proposition 57,,,Yes,91
+Sierra,005,Proposition 58,,,No,32
+Sierra,005,Proposition 58,,,Yes,81
+Sierra,005,Proposition 59,,,No,37
+Sierra,005,Proposition 59,,,Yes,84
+Sierra,005,Proposition 60,,,No,84
+Sierra,005,Proposition 60,,,Yes,34
+Sierra,005,Proposition 61,,,No,55
+Sierra,005,Proposition 61,,,Yes,59
+Sierra,005,Proposition 62,,,No,67
+Sierra,005,Proposition 62,,,Yes,58
+Sierra,005,Proposition 63,,,No,95
+Sierra,005,Proposition 63,,,Yes,29
+Sierra,005,Proposition 64,,,No,74
+Sierra,005,Proposition 64,,,Yes,53
+Sierra,005,Proposition 65,,,No,80
+Sierra,005,Proposition 65,,,Yes,41
+Sierra,005,Proposition 66,,,No,67
+Sierra,005,Proposition 66,,,Yes,50
+Sierra,005,Proposition 67,,,No,57
+Sierra,005,Proposition 67,,,Yes,66
+Sierra,005,State Assembly,1,REP,Brian Dahle,54
+Sierra,005,State Assembly,1,LIB,Donn Coenen,53
+Sierra,005,State Senate,1,DEM,Rob Rowen,56
+Sierra,005,State Senate,1,REP,Ted Gaines,60
+Sierra,005,U.S. House,1,REP,Doug La Malfa,56
+Sierra,005,U.S. House,1,DEM,Jim Reed,66
+Sierra,005,U.S. Senate,,DEM,Kamala D. Harris,55
+Sierra,005,U.S. Senate,,DEM,Loretta L. Sanchez,37
+Sierra,006,President,,REP,Donald J. Trump,53
+Sierra,006,President,,LIB,Gary Johnson,3
+Sierra,006,President,,PAF,Gloria Estela La Riva,1
+Sierra,006,President,,DEM,Hillary Clinton,40
+Sierra,006,President,,GRN,Jill Stein,1
+Sierra,006,Proposition 51,,,No,47
+Sierra,006,Proposition 51,,,Yes,50
+Sierra,006,Proposition 52,,,No,23
+Sierra,006,Proposition 52,,,Yes,73
+Sierra,006,Proposition 53,,,No,50
+Sierra,006,Proposition 53,,,Yes,45
+Sierra,006,Proposition 54,,,No,33
+Sierra,006,Proposition 54,,,Yes,67
+Sierra,006,Proposition 55,,,No,42
+Sierra,006,Proposition 55,,,Yes,57
+Sierra,006,Proposition 56,,,No,43
+Sierra,006,Proposition 56,,,Yes,58
+Sierra,006,Proposition 57,,,No,42
+Sierra,006,Proposition 57,,,Yes,57
+Sierra,006,Proposition 58,,,No,36
+Sierra,006,Proposition 58,,,Yes,64
+Sierra,006,Proposition 59,,,No,44
+Sierra,006,Proposition 59,,,Yes,54
+Sierra,006,Proposition 60,,,No,58
+Sierra,006,Proposition 60,,,Yes,36
+Sierra,006,Proposition 61,,,No,53
+Sierra,006,Proposition 61,,,Yes,42
+Sierra,006,Proposition 62,,,No,62
+Sierra,006,Proposition 62,,,Yes,38
+Sierra,006,Proposition 63,,,No,69
+Sierra,006,Proposition 63,,,Yes,30
+Sierra,006,Proposition 64,,,No,38
+Sierra,006,Proposition 64,,,Yes,60
+Sierra,006,Proposition 65,,,No,65
+Sierra,006,Proposition 65,,,Yes,33
+Sierra,006,Proposition 66,,,No,48
+Sierra,006,Proposition 66,,,Yes,45
+Sierra,006,Proposition 67,,,No,58
+Sierra,006,Proposition 67,,,Yes,41
+Sierra,006,State Assembly,1,REP,Brian Dahle,70
+Sierra,006,State Assembly,1,LIB,Donn Coenen,15
+Sierra,006,State Senate,1,DEM,Rob Rowen,38
+Sierra,006,State Senate,1,REP,Ted Gaines,60
+Sierra,006,U.S. House,1,REP,Doug La Malfa,61
+Sierra,006,U.S. House,1,DEM,Jim Reed,40
+Sierra,006,U.S. Senate,,DEM,Kamala D. Harris,54
+Sierra,006,U.S. Senate,,DEM,Loretta L. Sanchez,22
+Sierra,007,President,,REP,Donald J. Trump,56
+Sierra,007,President,,LIB,Gary Johnson,7
+Sierra,007,President,,PAF,Gloria Estela La Riva,2
+Sierra,007,President,,DEM,Hillary Clinton,33
+Sierra,007,President,,GRN,Jill Stein,4
+Sierra,007,Proposition 51,,,No,50
+Sierra,007,Proposition 51,,,Yes,50
+Sierra,007,Proposition 52,,,No,50
+Sierra,007,Proposition 52,,,Yes,53
+Sierra,007,Proposition 53,,,No,41
+Sierra,007,Proposition 53,,,Yes,60
+Sierra,007,Proposition 54,,,No,38
+Sierra,007,Proposition 54,,,Yes,62
+Sierra,007,Proposition 55,,,No,50
+Sierra,007,Proposition 55,,,Yes,52
+Sierra,007,Proposition 56,,,No,47
+Sierra,007,Proposition 56,,,Yes,56
+Sierra,007,Proposition 57,,,No,44
+Sierra,007,Proposition 57,,,Yes,58
+Sierra,007,Proposition 58,,,No,39
+Sierra,007,Proposition 58,,,Yes,61
+Sierra,007,Proposition 59,,,No,57
+Sierra,007,Proposition 59,,,Yes,42
+Sierra,007,Proposition 60,,,No,71
+Sierra,007,Proposition 60,,,Yes,28
+Sierra,007,Proposition 61,,,No,56
+Sierra,007,Proposition 61,,,Yes,43
+Sierra,007,Proposition 62,,,No,66
+Sierra,007,Proposition 62,,,Yes,35
+Sierra,007,Proposition 63,,,No,68
+Sierra,007,Proposition 63,,,Yes,34
+Sierra,007,Proposition 64,,,No,45
+Sierra,007,Proposition 64,,,Yes,59
+Sierra,007,Proposition 65,,,No,69
+Sierra,007,Proposition 65,,,Yes,34
+Sierra,007,Proposition 66,,,No,56
+Sierra,007,Proposition 66,,,Yes,46
+Sierra,007,Proposition 67,,,No,56
+Sierra,007,Proposition 67,,,Yes,44
+Sierra,007,State Assembly,1,REP,Brian Dahle,76
+Sierra,007,State Assembly,1,LIB,Donn Coenen,17
+Sierra,007,State Senate,1,DEM,Rob Rowen,44
+Sierra,007,State Senate,1,REP,Ted Gaines,57
+Sierra,007,U.S. House,1,REP,Doug La Malfa,60
+Sierra,007,U.S. House,1,DEM,Jim Reed,40
+Sierra,007,U.S. Senate,,DEM,Kamala D. Harris,52
+Sierra,007,U.S. Senate,,DEM,Loretta L. Sanchez,24
+Sierra,008,President,,REP,Donald J. Trump,4
+Sierra,008,President,,LIB,Gary Johnson,2
+Sierra,008,President,,DEM,Hillary Clinton,4
+Sierra,008,Proposition 51,,,No,6
+Sierra,008,Proposition 51,,,Yes,3
+Sierra,008,Proposition 52,,,No,4
+Sierra,008,Proposition 52,,,Yes,5
+Sierra,008,Proposition 53,,,No,4
+Sierra,008,Proposition 53,,,Yes,5
+Sierra,008,Proposition 54,,,No,5
+Sierra,008,Proposition 54,,,Yes,4
+Sierra,008,Proposition 55,,,No,3
+Sierra,008,Proposition 55,,,Yes,6
+Sierra,008,Proposition 56,,,No,5
+Sierra,008,Proposition 56,,,Yes,4
+Sierra,008,Proposition 57,,,No,2
+Sierra,008,Proposition 57,,,Yes,6
+Sierra,008,Proposition 58,,,No,4
+Sierra,008,Proposition 58,,,Yes,5
+Sierra,008,Proposition 59,,,No,5
+Sierra,008,Proposition 59,,,Yes,4
+Sierra,008,Proposition 60,,,No,8
+Sierra,008,Proposition 60,,,Yes,1
+Sierra,008,Proposition 61,,,No,4
+Sierra,008,Proposition 61,,,Yes,5
+Sierra,008,Proposition 62,,,No,6
+Sierra,008,Proposition 62,,,Yes,4
+Sierra,008,Proposition 63,,,No,7
+Sierra,008,Proposition 63,,,Yes,3
+Sierra,008,Proposition 64,,,No,6
+Sierra,008,Proposition 64,,,Yes,4
+Sierra,008,Proposition 65,,,No,6
+Sierra,008,Proposition 65,,,Yes,1
+Sierra,008,Proposition 66,,,No,4
+Sierra,008,Proposition 66,,,Yes,5
+Sierra,008,Proposition 67,,,No,5
+Sierra,008,Proposition 67,,,Yes,4
+Sierra,008,State Assembly,1,REP,Brian Dahle,6
+Sierra,008,State Assembly,1,LIB,Donn Coenen,2
+Sierra,008,State Senate,1,DEM,Rob Rowen,3
+Sierra,008,State Senate,1,REP,Ted Gaines,6
+Sierra,008,U.S. House,1,REP,Doug La Malfa,6
+Sierra,008,U.S. House,1,DEM,Jim Reed,3
+Sierra,008,U.S. Senate,,DEM,Kamala D. Harris,3
+Sierra,008,U.S. Senate,,DEM,Loretta L. Sanchez,5
+Sierra,009,President,,REP,Donald J. Trump,23
+Sierra,009,President,,LIB,Gary Johnson,1
+Sierra,009,President,,DEM,Hillary Clinton,42
+Sierra,009,President,,GRN,Jill Stein,1
+Sierra,009,Proposition 51,,,No,29
+Sierra,009,Proposition 51,,,Yes,33
+Sierra,009,Proposition 52,,,No,18
+Sierra,009,Proposition 52,,,Yes,44
+Sierra,009,Proposition 53,,,No,32
+Sierra,009,Proposition 53,,,Yes,25
+Sierra,009,Proposition 54,,,No,30
+Sierra,009,Proposition 54,,,Yes,31
+Sierra,009,Proposition 55,,,No,22
+Sierra,009,Proposition 55,,,Yes,44
+Sierra,009,Proposition 56,,,No,21
+Sierra,009,Proposition 56,,,Yes,44
+Sierra,009,Proposition 57,,,No,13
+Sierra,009,Proposition 57,,,Yes,49
+Sierra,009,Proposition 58,,,No,15
+Sierra,009,Proposition 58,,,Yes,48
+Sierra,009,Proposition 59,,,No,21
+Sierra,009,Proposition 59,,,Yes,41
+Sierra,009,Proposition 60,,,No,37
+Sierra,009,Proposition 60,,,Yes,24
+Sierra,009,Proposition 61,,,No,27
+Sierra,009,Proposition 61,,,Yes,32
+Sierra,009,Proposition 62,,,No,26
+Sierra,009,Proposition 62,,,Yes,37
+Sierra,009,Proposition 63,,,No,26
+Sierra,009,Proposition 63,,,Yes,38
+Sierra,009,Proposition 64,,,No,19
+Sierra,009,Proposition 64,,,Yes,40
+Sierra,009,Proposition 65,,,No,34
+Sierra,009,Proposition 65,,,Yes,28
+Sierra,009,Proposition 66,,,No,37
+Sierra,009,Proposition 66,,,Yes,19
+Sierra,009,Proposition 67,,,No,23
+Sierra,009,Proposition 67,,,Yes,38
+Sierra,009,State Assembly,1,REP,Brian Dahle,33
+Sierra,009,State Assembly,1,LIB,Donn Coenen,22
+Sierra,009,State Senate,1,DEM,Rob Rowen,36
+Sierra,009,State Senate,1,REP,Ted Gaines,24
+Sierra,009,U.S. House,1,REP,Doug La Malfa,25
+Sierra,009,U.S. House,1,DEM,Jim Reed,38
+Sierra,009,U.S. Senate,,DEM,Kamala D. Harris,32
+Sierra,009,U.S. Senate,,DEM,Loretta L. Sanchez,14
+Sierra,010,President,,REP,Donald J. Trump,1
+Sierra,010,President,,DEM,Hillary Clinton,1
+Sierra,010,President,,GRN,Jill Stein,1
+Sierra,010,Proposition 51,,,Yes,4
+Sierra,010,Proposition 52,,,No,2
+Sierra,010,Proposition 52,,,Yes,2
+Sierra,010,Proposition 53,,,No,2
+Sierra,010,Proposition 53,,,Yes,2
+Sierra,010,Proposition 54,,,No,2
+Sierra,010,Proposition 54,,,Yes,2
+Sierra,010,Proposition 55,,,No,2
+Sierra,010,Proposition 55,,,Yes,2
+Sierra,010,Proposition 56,,,Yes,4
+Sierra,010,Proposition 57,,,Yes,4
+Sierra,010,Proposition 58,,,Yes,4
+Sierra,010,Proposition 59,,,No,3
+Sierra,010,Proposition 60,,,No,2
+Sierra,010,Proposition 60,,,Yes,2
+Sierra,010,Proposition 61,,,No,1
+Sierra,010,Proposition 61,,,Yes,3
+Sierra,010,Proposition 62,,,No,4
+Sierra,010,Proposition 63,,,No,1
+Sierra,010,Proposition 63,,,Yes,3
+Sierra,010,Proposition 64,,,No,4
+Sierra,010,Proposition 65,,,No,2
+Sierra,010,Proposition 65,,,Yes,2
+Sierra,010,Proposition 66,,,Yes,3
+Sierra,010,Proposition 67,,,No,3
+Sierra,010,Proposition 67,,,Yes,1
+Sierra,010,State Assembly,1,REP,Brian Dahle,2
+Sierra,010,State Assembly,1,LIB,Donn Coenen,1
+Sierra,010,State Senate,1,DEM,Rob Rowen,2
+Sierra,010,State Senate,1,REP,Ted Gaines,2
+Sierra,010,U.S. House,1,REP,Doug La Malfa,2
+Sierra,010,U.S. House,1,DEM,Jim Reed,2
+Sierra,010,U.S. Senate,,DEM,Kamala D. Harris,4
+Sierra,011,President,,REP,Donald J. Trump,38
+Sierra,011,President,,LIB,Gary Johnson,2
+Sierra,011,President,,DEM,Hillary Clinton,29
+Sierra,011,President,,GRN,Jill Stein,3
+Sierra,011,Proposition 51,,,No,44
+Sierra,011,Proposition 51,,,Yes,25
+Sierra,011,Proposition 52,,,No,22
+Sierra,011,Proposition 52,,,Yes,45
+Sierra,011,Proposition 53,,,No,34
+Sierra,011,Proposition 53,,,Yes,34
+Sierra,011,Proposition 54,,,No,26
+Sierra,011,Proposition 54,,,Yes,41
+Sierra,011,Proposition 55,,,No,32
+Sierra,011,Proposition 55,,,Yes,38
+Sierra,011,Proposition 56,,,No,46
+Sierra,011,Proposition 56,,,Yes,27
+Sierra,011,Proposition 57,,,No,27
+Sierra,011,Proposition 57,,,Yes,43
+Sierra,011,Proposition 58,,,No,21
+Sierra,011,Proposition 58,,,Yes,51
+Sierra,011,Proposition 59,,,No,35
+Sierra,011,Proposition 59,,,Yes,29
+Sierra,011,Proposition 60,,,No,45
+Sierra,011,Proposition 60,,,Yes,22
+Sierra,011,Proposition 61,,,No,53
+Sierra,011,Proposition 61,,,Yes,20
+Sierra,011,Proposition 62,,,No,42
+Sierra,011,Proposition 62,,,Yes,29
+Sierra,011,Proposition 63,,,No,46
+Sierra,011,Proposition 63,,,Yes,27
+Sierra,011,Proposition 64,,,No,33
+Sierra,011,Proposition 64,,,Yes,40
+Sierra,011,Proposition 65,,,No,52
+Sierra,011,Proposition 65,,,Yes,19
+Sierra,011,Proposition 66,,,No,39
+Sierra,011,Proposition 66,,,Yes,27
+Sierra,011,Proposition 67,,,No,46
+Sierra,011,Proposition 67,,,Yes,26
+Sierra,011,State Assembly,1,REP,Brian Dahle,47
+Sierra,011,State Assembly,1,LIB,Donn Coenen,20
+Sierra,011,State Senate,1,DEM,Rob Rowen,26
+Sierra,011,State Senate,1,REP,Ted Gaines,43
+Sierra,011,U.S. House,1,REP,Doug La Malfa,42
+Sierra,011,U.S. House,1,DEM,Jim Reed,29
+Sierra,011,U.S. Senate,,DEM,Kamala D. Harris,27
+Sierra,011,U.S. Senate,,DEM,Loretta L. Sanchez,22
+Sierra,012,President,,REP,Donald J. Trump,98
+Sierra,012,President,,LIB,Gary Johnson,14
+Sierra,012,President,,DEM,Hillary Clinton,49
+Sierra,012,President,,GRN,Jill Stein,6
+Sierra,012,Proposition 51,,,No,117
+Sierra,012,Proposition 51,,,Yes,53
+Sierra,012,Proposition 52,,,No,75
+Sierra,012,Proposition 52,,,Yes,88
+Sierra,012,Proposition 53,,,No,66
+Sierra,012,Proposition 53,,,Yes,91
+Sierra,012,Proposition 54,,,No,68
+Sierra,012,Proposition 54,,,Yes,91
+Sierra,012,Proposition 55,,,No,96
+Sierra,012,Proposition 55,,,Yes,68
+Sierra,012,Proposition 56,,,No,87
+Sierra,012,Proposition 56,,,Yes,82
+Sierra,012,Proposition 57,,,No,77
+Sierra,012,Proposition 57,,,Yes,87
+Sierra,012,Proposition 58,,,No,57
+Sierra,012,Proposition 58,,,Yes,105
+Sierra,012,Proposition 59,,,No,84
+Sierra,012,Proposition 59,,,Yes,69
+Sierra,012,Proposition 60,,,No,114
+Sierra,012,Proposition 60,,,Yes,47
+Sierra,012,Proposition 61,,,No,94
+Sierra,012,Proposition 61,,,Yes,58
+Sierra,012,Proposition 62,,,No,117
+Sierra,012,Proposition 62,,,Yes,49
+Sierra,012,Proposition 63,,,No,117
+Sierra,012,Proposition 63,,,Yes,51
+Sierra,012,Proposition 64,,,No,85
+Sierra,012,Proposition 64,,,Yes,86
+Sierra,012,Proposition 65,,,No,104
+Sierra,012,Proposition 65,,,Yes,60
+Sierra,012,Proposition 66,,,No,74
+Sierra,012,Proposition 66,,,Yes,80
+Sierra,012,Proposition 67,,,No,94
+Sierra,012,Proposition 67,,,Yes,75
+Sierra,012,State Assembly,1,REP,Brian Dahle,112
+Sierra,012,State Assembly,1,LIB,Donn Coenen,39
+Sierra,012,State Senate,1,DEM,Rob Rowen,55
+Sierra,012,State Senate,1,REP,Ted Gaines,112
+Sierra,012,U.S. House,1,REP,Doug La Malfa,114
+Sierra,012,U.S. House,1,DEM,Jim Reed,52
+Sierra,012,U.S. Senate,,DEM,Kamala D. Harris,75
+Sierra,012,U.S. Senate,,DEM,Loretta L. Sanchez,40
+Sierra,013,President,,REP,Donald J. Trump,23
+Sierra,013,President,,LIB,Gary Johnson,2
+Sierra,013,President,,DEM,Hillary Clinton,8
+Sierra,013,Proposition 51,,,No,23
+Sierra,013,Proposition 51,,,Yes,10
+Sierra,013,Proposition 52,,,No,10
+Sierra,013,Proposition 52,,,Yes,23
+Sierra,013,Proposition 53,,,No,17
+Sierra,013,Proposition 53,,,Yes,15
+Sierra,013,Proposition 54,,,No,14
+Sierra,013,Proposition 54,,,Yes,19
+Sierra,013,Proposition 55,,,No,23
+Sierra,013,Proposition 55,,,Yes,11
+Sierra,013,Proposition 56,,,No,27
+Sierra,013,Proposition 56,,,Yes,7
+Sierra,013,Proposition 57,,,No,20
+Sierra,013,Proposition 57,,,Yes,14
+Sierra,013,Proposition 58,,,No,21
+Sierra,013,Proposition 58,,,Yes,11
+Sierra,013,Proposition 59,,,No,20
+Sierra,013,Proposition 59,,,Yes,10
+Sierra,013,Proposition 60,,,No,19
+Sierra,013,Proposition 60,,,Yes,15
+Sierra,013,Proposition 61,,,No,18
+Sierra,013,Proposition 61,,,Yes,15
+Sierra,013,Proposition 62,,,No,27
+Sierra,013,Proposition 62,,,Yes,7
+Sierra,013,Proposition 63,,,No,24
+Sierra,013,Proposition 63,,,Yes,10
+Sierra,013,Proposition 64,,,No,20
+Sierra,013,Proposition 64,,,Yes,14
+Sierra,013,Proposition 65,,,No,21
+Sierra,013,Proposition 65,,,Yes,12
+Sierra,013,Proposition 66,,,No,15
+Sierra,013,Proposition 66,,,Yes,17
+Sierra,013,Proposition 67,,,No,24
+Sierra,013,Proposition 67,,,Yes,9
+Sierra,013,State Assembly,1,REP,Brian Dahle,26
+Sierra,013,State Assembly,1,LIB,Donn Coenen,5
+Sierra,013,State Senate,1,DEM,Rob Rowen,7
+Sierra,013,State Senate,1,REP,Ted Gaines,27
+Sierra,013,U.S. House,1,REP,Doug La Malfa,27
+Sierra,013,U.S. House,1,DEM,Jim Reed,7
+Sierra,013,U.S. Senate,,DEM,Kamala D. Harris,17
+Sierra,013,U.S. Senate,,DEM,Loretta L. Sanchez,8
+Sierra,014,President,,REP,Donald J. Trump,73
+Sierra,014,President,,LIB,Gary Johnson,9
+Sierra,014,President,,DEM,Hillary Clinton,56
+Sierra,014,President,,GRN,Jill Stein,3
+Sierra,014,Proposition 51,,,No,85
+Sierra,014,Proposition 51,,,Yes,54
+Sierra,014,Proposition 52,,,No,46
+Sierra,014,Proposition 52,,,Yes,88
+Sierra,014,Proposition 53,,,No,82
+Sierra,014,Proposition 53,,,Yes,56
+Sierra,014,Proposition 54,,,No,52
+Sierra,014,Proposition 54,,,Yes,84
+Sierra,014,Proposition 55,,,No,68
+Sierra,014,Proposition 55,,,Yes,71
+Sierra,014,Proposition 56,,,No,61
+Sierra,014,Proposition 56,,,Yes,83
+Sierra,014,Proposition 57,,,No,54
+Sierra,014,Proposition 57,,,Yes,83
+Sierra,014,Proposition 58,,,No,41
+Sierra,014,Proposition 58,,,Yes,101
+Sierra,014,Proposition 59,,,No,64
+Sierra,014,Proposition 59,,,Yes,67
+Sierra,014,Proposition 60,,,No,95
+Sierra,014,Proposition 60,,,Yes,33
+Sierra,014,Proposition 61,,,No,86
+Sierra,014,Proposition 61,,,Yes,51
+Sierra,014,Proposition 62,,,No,93
+Sierra,014,Proposition 62,,,Yes,44
+Sierra,014,Proposition 63,,,No,91
+Sierra,014,Proposition 63,,,Yes,52
+Sierra,014,Proposition 64,,,No,68
+Sierra,014,Proposition 64,,,Yes,77
+Sierra,014,Proposition 65,,,No,88
+Sierra,014,Proposition 65,,,Yes,45
+Sierra,014,Proposition 66,,,No,63
+Sierra,014,Proposition 66,,,Yes,66
+Sierra,014,Proposition 67,,,No,73
+Sierra,014,Proposition 67,,,Yes,68
+Sierra,014,State Assembly,1,REP,Brian Dahle,108
+Sierra,014,State Assembly,1,LIB,Donn Coenen,22
+Sierra,014,State Senate,1,DEM,Rob Rowen,50
+Sierra,014,State Senate,1,REP,Ted Gaines,84
+Sierra,014,U.S. House,1,REP,Doug La Malfa,87
+Sierra,014,U.S. House,1,DEM,Jim Reed,53
+Sierra,014,U.S. Senate,,DEM,Kamala D. Harris,82
+Sierra,014,U.S. Senate,,DEM,Loretta L. Sanchez,28
+Sierra,015,President,,REP,Donald J. Trump,42
+Sierra,015,President,,LIB,Gary Johnson,4
+Sierra,015,President,,DEM,Hillary Clinton,21
+Sierra,015,Proposition 51,,,No,54
+Sierra,015,Proposition 51,,,Yes,13
+Sierra,015,Proposition 52,,,No,34
+Sierra,015,Proposition 52,,,Yes,36
+Sierra,015,Proposition 53,,,No,30
+Sierra,015,Proposition 53,,,Yes,36
+Sierra,015,Proposition 54,,,No,27
+Sierra,015,Proposition 54,,,Yes,41
+Sierra,015,Proposition 55,,,No,42
+Sierra,015,Proposition 55,,,Yes,25
+Sierra,015,Proposition 56,,,No,49
+Sierra,015,Proposition 56,,,Yes,22
+Sierra,015,Proposition 57,,,No,37
+Sierra,015,Proposition 57,,,Yes,32
+Sierra,015,Proposition 58,,,No,33
+Sierra,015,Proposition 58,,,Yes,36
+Sierra,015,Proposition 59,,,No,37
+Sierra,015,Proposition 59,,,Yes,29
+Sierra,015,Proposition 60,,,No,53
+Sierra,015,Proposition 60,,,Yes,8
+Sierra,015,Proposition 61,,,No,39
+Sierra,015,Proposition 61,,,Yes,24
+Sierra,015,Proposition 62,,,No,45
+Sierra,015,Proposition 62,,,Yes,19
+Sierra,015,Proposition 63,,,No,54
+Sierra,015,Proposition 63,,,Yes,17
+Sierra,015,Proposition 64,,,No,38
+Sierra,015,Proposition 64,,,Yes,31
+Sierra,015,Proposition 65,,,No,49
+Sierra,015,Proposition 65,,,Yes,18
+Sierra,015,Proposition 66,,,No,35
+Sierra,015,Proposition 66,,,Yes,27
+Sierra,015,Proposition 67,,,No,44
+Sierra,015,Proposition 67,,,Yes,25
+Sierra,015,State Assembly,1,REP,Brian Dahle,56
+Sierra,015,State Assembly,1,LIB,Donn Coenen,13
+Sierra,015,State Senate,1,DEM,Rob Rowen,19
+Sierra,015,State Senate,1,REP,Ted Gaines,49
+Sierra,015,U.S. House,1,REP,Doug La Malfa,47
+Sierra,015,U.S. House,1,DEM,Jim Reed,21
+Sierra,015,U.S. Senate,,DEM,Kamala D. Harris,26
+Sierra,015,U.S. Senate,,DEM,Loretta L. Sanchez,15
+Sierra,016,President,,REP,Donald J. Trump,71
+Sierra,016,President,,LIB,Gary Johnson,6
+Sierra,016,President,,PAF,Gloria Estela La Riva,2
+Sierra,016,President,,DEM,Hillary Clinton,41
+Sierra,016,President,,GRN,Jill Stein,2
+Sierra,016,Proposition 51,,,No,65
+Sierra,016,Proposition 51,,,Yes,52
+Sierra,016,Proposition 52,,,No,46
+Sierra,016,Proposition 52,,,Yes,70
+Sierra,016,Proposition 53,,,No,50
+Sierra,016,Proposition 53,,,Yes,70
+Sierra,016,Proposition 54,,,No,41
+Sierra,016,Proposition 54,,,Yes,78
+Sierra,016,Proposition 55,,,No,45
+Sierra,016,Proposition 55,,,Yes,74
+Sierra,016,Proposition 56,,,No,76
+Sierra,016,Proposition 56,,,Yes,47
+Sierra,016,Proposition 57,,,No,53
+Sierra,016,Proposition 57,,,Yes,63
+Sierra,016,Proposition 58,,,No,42
+Sierra,016,Proposition 58,,,Yes,76
+Sierra,016,Proposition 59,,,No,61
+Sierra,016,Proposition 59,,,Yes,47
+Sierra,016,Proposition 60,,,No,71
+Sierra,016,Proposition 60,,,Yes,46
+Sierra,016,Proposition 61,,,No,88
+Sierra,016,Proposition 61,,,Yes,32
+Sierra,016,Proposition 62,,,No,100
+Sierra,016,Proposition 62,,,Yes,21
+Sierra,016,Proposition 63,,,No,92
+Sierra,016,Proposition 63,,,Yes,33
+Sierra,016,Proposition 64,,,No,53
+Sierra,016,Proposition 64,,,Yes,75
+Sierra,016,Proposition 65,,,No,72
+Sierra,016,Proposition 65,,,Yes,51
+Sierra,016,Proposition 66,,,No,39
+Sierra,016,Proposition 66,,,Yes,71
+Sierra,016,Proposition 67,,,No,85
+Sierra,016,Proposition 67,,,Yes,37
+Sierra,016,State Assembly,1,REP,Brian Dahle,90
+Sierra,016,State Assembly,1,LIB,Donn Coenen,26
+Sierra,016,State Senate,1,DEM,Rob Rowen,38
+Sierra,016,State Senate,1,REP,Ted Gaines,83
+Sierra,016,U.S. House,1,REP,Doug La Malfa,86
+Sierra,016,U.S. House,1,DEM,Jim Reed,38
+Sierra,016,U.S. Senate,,DEM,Kamala D. Harris,47
+Sierra,016,U.S. Senate,,DEM,Loretta L. Sanchez,41
+Sierra,017,President,,REP,Donald J. Trump,97
+Sierra,017,President,,LIB,Gary Johnson,5
+Sierra,017,President,,DEM,Hillary Clinton,46
+Sierra,017,President,,GRN,Jill Stein,1
+Sierra,017,Proposition 51,,,No,91
+Sierra,017,Proposition 51,,,Yes,59
+Sierra,017,Proposition 52,,,No,60
+Sierra,017,Proposition 52,,,Yes,89
+Sierra,017,Proposition 53,,,No,56
+Sierra,017,Proposition 53,,,Yes,91
+Sierra,017,Proposition 54,,,No,59
+Sierra,017,Proposition 54,,,Yes,86
+Sierra,017,Proposition 55,,,No,69
+Sierra,017,Proposition 55,,,Yes,79
+Sierra,017,Proposition 56,,,No,94
+Sierra,017,Proposition 56,,,Yes,56
+Sierra,017,Proposition 57,,,No,79
+Sierra,017,Proposition 57,,,Yes,71
+Sierra,017,Proposition 58,,,No,51
+Sierra,017,Proposition 58,,,Yes,98
+Sierra,017,Proposition 59,,,No,92
+Sierra,017,Proposition 59,,,Yes,50
+Sierra,017,Proposition 60,,,No,87
+Sierra,017,Proposition 60,,,Yes,53
+Sierra,017,Proposition 61,,,No,98
+Sierra,017,Proposition 61,,,Yes,50
+Sierra,017,Proposition 62,,,No,109
+Sierra,017,Proposition 62,,,Yes,37
+Sierra,017,Proposition 63,,,No,111
+Sierra,017,Proposition 63,,,Yes,38
+Sierra,017,Proposition 64,,,No,87
+Sierra,017,Proposition 64,,,Yes,65
+Sierra,017,Proposition 65,,,No,102
+Sierra,017,Proposition 65,,,Yes,46
+Sierra,017,Proposition 66,,,No,73
+Sierra,017,Proposition 66,,,Yes,69
+Sierra,017,Proposition 67,,,No,103
+Sierra,017,Proposition 67,,,Yes,47
+Sierra,017,State Assembly,1,REP,Brian Dahle,108
+Sierra,017,State Assembly,1,LIB,Donn Coenen,26
+Sierra,017,State Senate,1,DEM,Rob Rowen,44
+Sierra,017,State Senate,1,REP,Ted Gaines,103
+Sierra,017,U.S. House,1,REP,Doug La Malfa,101
+Sierra,017,U.S. House,1,DEM,Jim Reed,46
+Sierra,017,U.S. Senate,,DEM,Kamala D. Harris,68
+Sierra,017,U.S. Senate,,DEM,Loretta L. Sanchez,35
+Sierra,018,President,,REP,Donald J. Trump,38
+Sierra,018,President,,LIB,Gary Johnson,3
+Sierra,018,President,,PAF,Gloria Estela La Riva,3
+Sierra,018,President,,DEM,Hillary Clinton,19
+Sierra,018,President,,GRN,Jill Stein,1
+Sierra,018,Proposition 51,,,No,50
+Sierra,018,Proposition 51,,,Yes,18
+Sierra,018,Proposition 52,,,No,24
+Sierra,018,Proposition 52,,,Yes,43
+Sierra,018,Proposition 53,,,No,32
+Sierra,018,Proposition 53,,,Yes,35
+Sierra,018,Proposition 54,,,No,35
+Sierra,018,Proposition 54,,,Yes,29
+Sierra,018,Proposition 55,,,No,35
+Sierra,018,Proposition 55,,,Yes,34
+Sierra,018,Proposition 56,,,No,43
+Sierra,018,Proposition 56,,,Yes,25
+Sierra,018,Proposition 57,,,No,34
+Sierra,018,Proposition 57,,,Yes,32
+Sierra,018,Proposition 58,,,No,32
+Sierra,018,Proposition 58,,,Yes,35
+Sierra,018,Proposition 59,,,No,40
+Sierra,018,Proposition 59,,,Yes,24
+Sierra,018,Proposition 60,,,No,50
+Sierra,018,Proposition 60,,,Yes,14
+Sierra,018,Proposition 61,,,No,48
+Sierra,018,Proposition 61,,,Yes,19
+Sierra,018,Proposition 62,,,No,52
+Sierra,018,Proposition 62,,,Yes,13
+Sierra,018,Proposition 63,,,No,49
+Sierra,018,Proposition 63,,,Yes,16
+Sierra,018,Proposition 64,,,No,36
+Sierra,018,Proposition 64,,,Yes,32
+Sierra,018,Proposition 65,,,No,44
+Sierra,018,Proposition 65,,,Yes,22
+Sierra,018,Proposition 66,,,No,30
+Sierra,018,Proposition 66,,,Yes,30
+Sierra,018,Proposition 67,,,No,51
+Sierra,018,Proposition 67,,,Yes,20
+Sierra,018,State Assembly,1,REP,Brian Dahle,47
+Sierra,018,State Assembly,1,LIB,Donn Coenen,12
+Sierra,018,State Senate,1,DEM,Rob Rowen,22
+Sierra,018,State Senate,1,REP,Ted Gaines,42
+Sierra,018,U.S. House,1,REP,Doug La Malfa,45
+Sierra,018,U.S. House,1,DEM,Jim Reed,22
+Sierra,018,U.S. Senate,,DEM,Kamala D. Harris,29
+Sierra,018,U.S. Senate,,DEM,Loretta L. Sanchez,7
+Sierra,019,President,,LIB,Gary Johnson,1
+Sierra,019,President,,DEM,Hillary Clinton,5
+Sierra,019,Proposition 51,,,No,2
+Sierra,019,Proposition 51,,,Yes,4
+Sierra,019,Proposition 52,,,No,3
+Sierra,019,Proposition 52,,,Yes,3
+Sierra,019,Proposition 53,,,No,4
+Sierra,019,Proposition 53,,,Yes,1
+Sierra,019,Proposition 54,,,No,4
+Sierra,019,Proposition 54,,,Yes,1
+Sierra,019,Proposition 55,,,Yes,6
+Sierra,019,Proposition 56,,,No,5
+Sierra,019,Proposition 56,,,Yes,1
+Sierra,019,Proposition 57,,,Yes,6
+Sierra,019,Proposition 58,,,No,1
+Sierra,019,Proposition 58,,,Yes,5
+Sierra,019,Proposition 59,,,No,1
+Sierra,019,Proposition 59,,,Yes,4
+Sierra,019,Proposition 60,,,No,3
+Sierra,019,Proposition 60,,,Yes,3
+Sierra,019,Proposition 61,,,No,2
+Sierra,019,Proposition 61,,,Yes,4
+Sierra,019,Proposition 62,,,No,3
+Sierra,019,Proposition 62,,,Yes,2
+Sierra,019,Proposition 63,,,No,3
+Sierra,019,Proposition 63,,,Yes,3
+Sierra,019,Proposition 64,,,No,1
+Sierra,019,Proposition 64,,,Yes,5
+Sierra,019,Proposition 65,,,No,4
+Sierra,019,Proposition 65,,,Yes,2
+Sierra,019,Proposition 66,,,No,1
+Sierra,019,Proposition 66,,,Yes,4
+Sierra,019,Proposition 67,,,No,3
+Sierra,019,Proposition 67,,,Yes,3
+Sierra,019,State Assembly,1,REP,Brian Dahle,5
+Sierra,019,State Assembly,1,LIB,Donn Coenen,1
+Sierra,019,State Senate,1,DEM,Rob Rowen,3
+Sierra,019,State Senate,1,REP,Ted Gaines,2
+Sierra,019,U.S. House,1,DEM,Jim Reed,5
+Sierra,019,U.S. Senate,,DEM,Kamala D. Harris,4
+Sierra,019,U.S. Senate,,DEM,Loretta L. Sanchez,1
+Sierra,020,President,,REP,Donald J. Trump,8
+Sierra,020,President,,DEM,Hillary Clinton,8
+Sierra,020,Proposition 51,,,No,10
+Sierra,020,Proposition 51,,,Yes,7
+Sierra,020,Proposition 52,,,No,6
+Sierra,020,Proposition 52,,,Yes,9
+Sierra,020,Proposition 53,,,No,10
+Sierra,020,Proposition 53,,,Yes,7
+Sierra,020,Proposition 54,,,No,10
+Sierra,020,Proposition 54,,,Yes,7
+Sierra,020,Proposition 55,,,No,7
+Sierra,020,Proposition 55,,,Yes,9
+Sierra,020,Proposition 56,,,No,7
+Sierra,020,Proposition 56,,,Yes,10
+Sierra,020,Proposition 57,,,No,3
+Sierra,020,Proposition 57,,,Yes,14
+Sierra,020,Proposition 58,,,No,6
+Sierra,020,Proposition 58,,,Yes,10
+Sierra,020,Proposition 59,,,No,5
+Sierra,020,Proposition 59,,,Yes,11
+Sierra,020,Proposition 60,,,No,13
+Sierra,020,Proposition 60,,,Yes,3
+Sierra,020,Proposition 61,,,No,8
+Sierra,020,Proposition 61,,,Yes,9
+Sierra,020,Proposition 62,,,No,7
+Sierra,020,Proposition 62,,,Yes,9
+Sierra,020,Proposition 63,,,No,11
+Sierra,020,Proposition 63,,,Yes,6
+Sierra,020,Proposition 64,,,No,3
+Sierra,020,Proposition 64,,,Yes,14
+Sierra,020,Proposition 65,,,No,10
+Sierra,020,Proposition 65,,,Yes,7
+Sierra,020,Proposition 66,,,No,13
+Sierra,020,Proposition 66,,,Yes,3
+Sierra,020,Proposition 67,,,No,8
+Sierra,020,Proposition 67,,,Yes,9
+Sierra,020,State Assembly,1,REP,Brian Dahle,12
+Sierra,020,State Assembly,1,LIB,Donn Coenen,2
+Sierra,020,State Senate,1,DEM,Rob Rowen,9
+Sierra,020,State Senate,1,REP,Ted Gaines,7
+Sierra,020,U.S. House,1,REP,Doug La Malfa,8
+Sierra,020,U.S. House,1,DEM,Jim Reed,8
+Sierra,020,U.S. Senate,,DEM,Kamala D. Harris,7
+Sierra,020,U.S. Senate,,DEM,Loretta L. Sanchez,7
+Sierra,021,President,,REP,Donald J. Trump,91
+Sierra,021,President,,LIB,Gary Johnson,6
+Sierra,021,President,,DEM,Hillary Clinton,30
+Sierra,021,President,,GRN,Jill Stein,1
+Sierra,021,Proposition 51,,,No,81
+Sierra,021,Proposition 51,,,Yes,46
+Sierra,021,Proposition 52,,,No,68
+Sierra,021,Proposition 52,,,Yes,56
+Sierra,021,Proposition 53,,,No,42
+Sierra,021,Proposition 53,,,Yes,83
+Sierra,021,Proposition 54,,,No,46
+Sierra,021,Proposition 54,,,Yes,78
+Sierra,021,Proposition 55,,,No,75
+Sierra,021,Proposition 55,,,Yes,52
+Sierra,021,Proposition 56,,,No,68
+Sierra,021,Proposition 56,,,Yes,60
+Sierra,021,Proposition 57,,,No,68
+Sierra,021,Proposition 57,,,Yes,60
+Sierra,021,Proposition 58,,,No,57
+Sierra,021,Proposition 58,,,Yes,69
+Sierra,021,Proposition 59,,,No,85
+Sierra,021,Proposition 59,,,Yes,39
+Sierra,021,Proposition 60,,,No,79
+Sierra,021,Proposition 60,,,Yes,37
+Sierra,021,Proposition 61,,,No,78
+Sierra,021,Proposition 61,,,Yes,46
+Sierra,021,Proposition 62,,,No,97
+Sierra,021,Proposition 62,,,Yes,31
+Sierra,021,Proposition 63,,,No,95
+Sierra,021,Proposition 63,,,Yes,34
+Sierra,021,Proposition 64,,,No,76
+Sierra,021,Proposition 64,,,Yes,56
+Sierra,021,Proposition 65,,,No,81
+Sierra,021,Proposition 65,,,Yes,45
+Sierra,021,Proposition 66,,,No,57
+Sierra,021,Proposition 66,,,Yes,67
+Sierra,021,Proposition 67,,,No,85
+Sierra,021,Proposition 67,,,Yes,43
+Sierra,021,State Assembly,1,REP,Brian Dahle,100
+Sierra,021,State Assembly,1,LIB,Donn Coenen,19
+Sierra,021,State Senate,1,DEM,Rob Rowen,27
+Sierra,021,State Senate,1,REP,Ted Gaines,101
+Sierra,021,U.S. House,1,REP,Doug La Malfa,97
+Sierra,021,U.S. House,1,DEM,Jim Reed,30
+Sierra,021,U.S. Senate,,DEM,Kamala D. Harris,43
+Sierra,021,U.S. Senate,,DEM,Loretta L. Sanchez,24
+Sierra,022,President,,REP,Donald J. Trump,95
+Sierra,022,President,,LIB,Gary Johnson,7
+Sierra,022,President,,DEM,Hillary Clinton,36
+Sierra,022,Proposition 51,,,No,83
+Sierra,022,Proposition 51,,,Yes,57
+Sierra,022,Proposition 52,,,No,60
+Sierra,022,Proposition 52,,,Yes,77
+Sierra,022,Proposition 53,,,No,47
+Sierra,022,Proposition 53,,,Yes,92
+Sierra,022,Proposition 54,,,No,49
+Sierra,022,Proposition 54,,,Yes,90
+Sierra,022,Proposition 55,,,No,71
+Sierra,022,Proposition 55,,,Yes,70
+Sierra,022,Proposition 56,,,No,93
+Sierra,022,Proposition 56,,,Yes,49
+Sierra,022,Proposition 57,,,No,56
+Sierra,022,Proposition 57,,,Yes,82
+Sierra,022,Proposition 58,,,No,50
+Sierra,022,Proposition 58,,,Yes,89
+Sierra,022,Proposition 59,,,No,71
+Sierra,022,Proposition 59,,,Yes,64
+Sierra,022,Proposition 60,,,No,84
+Sierra,022,Proposition 60,,,Yes,50
+Sierra,022,Proposition 61,,,No,94
+Sierra,022,Proposition 61,,,Yes,43
+Sierra,022,Proposition 62,,,No,99
+Sierra,022,Proposition 62,,,Yes,38
+Sierra,022,Proposition 63,,,No,107
+Sierra,022,Proposition 63,,,Yes,35
+Sierra,022,Proposition 64,,,No,83
+Sierra,022,Proposition 64,,,Yes,57
+Sierra,022,Proposition 65,,,No,87
+Sierra,022,Proposition 65,,,Yes,52
+Sierra,022,Proposition 66,,,No,52
+Sierra,022,Proposition 66,,,Yes,84
+Sierra,022,Proposition 67,,,No,95
+Sierra,022,Proposition 67,,,Yes,44
+Sierra,022,State Assembly,1,REP,Brian Dahle,104
+Sierra,022,State Assembly,1,LIB,Donn Coenen,30
+Sierra,022,State Senate,1,DEM,Rob Rowen,42
+Sierra,022,State Senate,1,REP,Ted Gaines,93
+Sierra,022,U.S. House,1,REP,Doug La Malfa,98
+Sierra,022,U.S. House,1,DEM,Jim Reed,36
+Sierra,022,U.S. Senate,,DEM,Kamala D. Harris,60
+Sierra,022,U.S. Senate,,DEM,Loretta L. Sanchez,27

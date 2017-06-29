@@ -1,52 +1,413 @@
 county,precinct,office,district,party,candidate,votes
-Sutter,1,President,,REP/AI,Donald J. Trump,334
-Sutter,1,President,,LIB,Gary Johnson,49
-Sutter,1,President,,PF,Gloria Estela La Riva,6
-Sutter,1,President,,DEM,Hillary Clinton,475
-Sutter,1,President,,GRN,Jill Stein,9
-Sutter,1,President,,WI,Write-In,0
-Sutter,1,Proposition 51,,,No,330
-Sutter,1,Proposition 51,,,Yes,508
-Sutter,1,Proposition 52,,,No,247
-Sutter,1,Proposition 52,,,Yes,593
-Sutter,1,Proposition 53,,,No,376
-Sutter,1,Proposition 53,,,Yes,441
-Sutter,1,Proposition 54,,,No,320
-Sutter,1,Proposition 54,,,Yes,504
-Sutter,1,Proposition 55,,,No,254
-Sutter,1,Proposition 55,,,Yes,586
-Sutter,1,Proposition 56,,,No,384
-Sutter,1,Proposition 56,,,Yes,475
-Sutter,1,Proposition 57,,,No,315
-Sutter,1,Proposition 57,,,Yes,528
-Sutter,1,Proposition 58,,,No,234
-Sutter,1,Proposition 58,,,Yes,607
-Sutter,1,Proposition 59,,,No,389
-Sutter,1,Proposition 59,,,Yes,410
-Sutter,1,Proposition 60,,,No,431
-Sutter,1,Proposition 60,,,Yes,392
-Sutter,1,Proposition 61,,,No,548
-Sutter,1,Proposition 61,,,Yes,282
-Sutter,1,Proposition 62,,,No,514
-Sutter,1,Proposition 62,,,Yes,317
-Sutter,1,Proposition 63,,,No,436
-Sutter,1,Proposition 63,,,Yes,409
-Sutter,1,Proposition 64,,,No,405
-Sutter,1,Proposition 64,,,Yes,459
-Sutter,1,Proposition 65,,,No,502
-Sutter,1,Proposition 65,,,Yes,340
-Sutter,1,Proposition 66,,,No,384
-Sutter,1,Proposition 66,,,Yes,431
-Sutter,1,Proposition 67,,,No,509
-Sutter,1,Proposition 67,,,Yes,328
-Sutter,1,U.S. Senate,,DEM,Kamala D. Harris,407
-Sutter,1,U.S. Senate,,DEM,Loretta L. Sanchez,378
-Sutter,10,President,,REP/AI,Donald J. Trump,289
+Sutter,01,President,,REP,Donald J. Trump,334
+Sutter,01,President,,LIB,Gary Johnson,49
+Sutter,01,President,,PAF,Gloria Estela La Riva,6
+Sutter,01,President,,DEM,Hillary Clinton,475
+Sutter,01,President,,GRN,Jill Stein,9
+Sutter,01,Proposition 51,,,No,330
+Sutter,01,Proposition 51,,,Yes,508
+Sutter,01,Proposition 52,,,No,247
+Sutter,01,Proposition 52,,,Yes,593
+Sutter,01,Proposition 53,,,No,376
+Sutter,01,Proposition 53,,,Yes,441
+Sutter,01,Proposition 54,,,No,320
+Sutter,01,Proposition 54,,,Yes,504
+Sutter,01,Proposition 55,,,No,254
+Sutter,01,Proposition 55,,,Yes,586
+Sutter,01,Proposition 56,,,No,384
+Sutter,01,Proposition 56,,,Yes,475
+Sutter,01,Proposition 57,,,No,315
+Sutter,01,Proposition 57,,,Yes,528
+Sutter,01,Proposition 58,,,No,234
+Sutter,01,Proposition 58,,,Yes,607
+Sutter,01,Proposition 59,,,No,389
+Sutter,01,Proposition 59,,,Yes,410
+Sutter,01,Proposition 60,,,No,431
+Sutter,01,Proposition 60,,,Yes,392
+Sutter,01,Proposition 61,,,No,548
+Sutter,01,Proposition 61,,,Yes,282
+Sutter,01,Proposition 62,,,No,514
+Sutter,01,Proposition 62,,,Yes,317
+Sutter,01,Proposition 63,,,No,436
+Sutter,01,Proposition 63,,,Yes,409
+Sutter,01,Proposition 64,,,No,405
+Sutter,01,Proposition 64,,,Yes,459
+Sutter,01,Proposition 65,,,No,502
+Sutter,01,Proposition 65,,,Yes,340
+Sutter,01,Proposition 66,,,No,384
+Sutter,01,Proposition 66,,,Yes,431
+Sutter,01,Proposition 67,,,No,509
+Sutter,01,Proposition 67,,,Yes,328
+Sutter,01,State Assembly,3,DEM,Edward Ritchie,401
+Sutter,01,State Assembly,3,REP,James Gallagher,452
+Sutter,01,U.S. House,3,DEM,John Garamendi,531
+Sutter,01,U.S. House,3,REP,N Eugene Cleek,324
+Sutter,01,U.S. Senate,,DEM,Kamala D. Harris,407
+Sutter,01,U.S. Senate,,DEM,Loretta L. Sanchez,378
+Sutter,02,President,,REP,Donald J. Trump,580
+Sutter,02,President,,LIB,Gary Johnson,71
+Sutter,02,President,,PAF,Gloria Estela La Riva,9
+Sutter,02,President,,DEM,Hillary Clinton,712
+Sutter,02,President,,GRN,Jill Stein,7
+Sutter,02,Proposition 51,,,No,552
+Sutter,02,Proposition 51,,,Yes,793
+Sutter,02,Proposition 52,,,No,474
+Sutter,02,Proposition 52,,,Yes,850
+Sutter,02,Proposition 53,,,No,569
+Sutter,02,Proposition 53,,,Yes,727
+Sutter,02,Proposition 54,,,No,470
+Sutter,02,Proposition 54,,,Yes,832
+Sutter,02,Proposition 55,,,No,498
+Sutter,02,Proposition 55,,,Yes,838
+Sutter,02,Proposition 56,,,No,589
+Sutter,02,Proposition 56,,,Yes,768
+Sutter,02,Proposition 57,,,No,535
+Sutter,02,Proposition 57,,,Yes,806
+Sutter,02,Proposition 58,,,No,373
+Sutter,02,Proposition 58,,,Yes,969
+Sutter,02,Proposition 59,,,No,705
+Sutter,02,Proposition 59,,,Yes,572
+Sutter,02,Proposition 60,,,No,694
+Sutter,02,Proposition 60,,,Yes,620
+Sutter,02,Proposition 61,,,No,884
+Sutter,02,Proposition 61,,,Yes,463
+Sutter,02,Proposition 62,,,No,857
+Sutter,02,Proposition 62,,,Yes,489
+Sutter,02,Proposition 63,,,No,733
+Sutter,02,Proposition 63,,,Yes,621
+Sutter,02,Proposition 64,,,No,731
+Sutter,02,Proposition 64,,,Yes,650
+Sutter,02,Proposition 65,,,No,825
+Sutter,02,Proposition 65,,,Yes,503
+Sutter,02,Proposition 66,,,No,567
+Sutter,02,Proposition 66,,,Yes,723
+Sutter,02,Proposition 67,,,No,823
+Sutter,02,Proposition 67,,,Yes,506
+Sutter,02,State Assembly,3,DEM,Edward Ritchie,567
+Sutter,02,State Assembly,3,REP,James Gallagher,804
+Sutter,02,U.S. House,3,DEM,John Garamendi,828
+Sutter,02,U.S. House,3,REP,N Eugene Cleek,554
+Sutter,02,U.S. Senate,,DEM,Kamala D. Harris,604
+Sutter,02,U.S. Senate,,DEM,Loretta L. Sanchez,606
+Sutter,03,President,,REP,Donald J. Trump,353
+Sutter,03,President,,LIB,Gary Johnson,24
+Sutter,03,President,,PAF,Gloria Estela La Riva,5
+Sutter,03,President,,DEM,Hillary Clinton,288
+Sutter,03,President,,GRN,Jill Stein,9
+Sutter,03,Proposition 51,,,No,356
+Sutter,03,Proposition 51,,,Yes,292
+Sutter,03,Proposition 52,,,No,299
+Sutter,03,Proposition 52,,,Yes,348
+Sutter,03,Proposition 53,,,No,296
+Sutter,03,Proposition 53,,,Yes,334
+Sutter,03,Proposition 54,,,No,246
+Sutter,03,Proposition 54,,,Yes,393
+Sutter,03,Proposition 55,,,No,307
+Sutter,03,Proposition 55,,,Yes,347
+Sutter,03,Proposition 56,,,No,316
+Sutter,03,Proposition 56,,,Yes,365
+Sutter,03,Proposition 57,,,No,336
+Sutter,03,Proposition 57,,,Yes,316
+Sutter,03,Proposition 58,,,No,253
+Sutter,03,Proposition 58,,,Yes,404
+Sutter,03,Proposition 59,,,No,349
+Sutter,03,Proposition 59,,,Yes,267
+Sutter,03,Proposition 60,,,No,393
+Sutter,03,Proposition 60,,,Yes,252
+Sutter,03,Proposition 61,,,No,438
+Sutter,03,Proposition 61,,,Yes,211
+Sutter,03,Proposition 62,,,No,481
+Sutter,03,Proposition 62,,,Yes,187
+Sutter,03,Proposition 63,,,No,403
+Sutter,03,Proposition 63,,,Yes,265
+Sutter,03,Proposition 64,,,No,386
+Sutter,03,Proposition 64,,,Yes,292
+Sutter,03,Proposition 65,,,No,419
+Sutter,03,Proposition 65,,,Yes,230
+Sutter,03,Proposition 66,,,No,234
+Sutter,03,Proposition 66,,,Yes,405
+Sutter,03,Proposition 67,,,No,413
+Sutter,03,Proposition 67,,,Yes,238
+Sutter,03,State Assembly,3,DEM,Edward Ritchie,205
+Sutter,03,State Assembly,3,REP,James Gallagher,459
+Sutter,03,U.S. House,3,DEM,John Garamendi,330
+Sutter,03,U.S. House,3,REP,N Eugene Cleek,345
+Sutter,03,U.S. Senate,,DEM,Kamala D. Harris,322
+Sutter,03,U.S. Senate,,DEM,Loretta L. Sanchez,229
+Sutter,04,President,,REP,Donald J. Trump,927
+Sutter,04,President,,LIB,Gary Johnson,63
+Sutter,04,President,,PAF,Gloria Estela La Riva,4
+Sutter,04,President,,DEM,Hillary Clinton,497
+Sutter,04,President,,GRN,Jill Stein,12
+Sutter,04,Proposition 51,,,No,784
+Sutter,04,Proposition 51,,,Yes,664
+Sutter,04,Proposition 52,,,No,545
+Sutter,04,Proposition 52,,,Yes,906
+Sutter,04,Proposition 53,,,No,649
+Sutter,04,Proposition 53,,,Yes,761
+Sutter,04,Proposition 54,,,No,532
+Sutter,04,Proposition 54,,,Yes,878
+Sutter,04,Proposition 55,,,No,679
+Sutter,04,Proposition 55,,,Yes,776
+Sutter,04,Proposition 56,,,No,800
+Sutter,04,Proposition 56,,,Yes,681
+Sutter,04,Proposition 57,,,No,717
+Sutter,04,Proposition 57,,,Yes,735
+Sutter,04,Proposition 58,,,No,549
+Sutter,04,Proposition 58,,,Yes,895
+Sutter,04,Proposition 59,,,No,826
+Sutter,04,Proposition 59,,,Yes,545
+Sutter,04,Proposition 60,,,No,789
+Sutter,04,Proposition 60,,,Yes,637
+Sutter,04,Proposition 61,,,No,1019
+Sutter,04,Proposition 61,,,Yes,425
+Sutter,04,Proposition 62,,,No,1081
+Sutter,04,Proposition 62,,,Yes,371
+Sutter,04,Proposition 63,,,No,913
+Sutter,04,Proposition 63,,,Yes,544
+Sutter,04,Proposition 64,,,No,828
+Sutter,04,Proposition 64,,,Yes,656
+Sutter,04,Proposition 65,,,No,987
+Sutter,04,Proposition 65,,,Yes,472
+Sutter,04,Proposition 66,,,No,520
+Sutter,04,Proposition 66,,,Yes,878
+Sutter,04,Proposition 67,,,No,1002
+Sutter,04,Proposition 67,,,Yes,476
+Sutter,04,State Assembly,3,DEM,Edward Ritchie,377
+Sutter,04,State Assembly,3,REP,James Gallagher,1079
+Sutter,04,U.S. House,3,DEM,John Garamendi,653
+Sutter,04,U.S. House,3,REP,N Eugene Cleek,820
+Sutter,04,U.S. Senate,,DEM,Kamala D. Harris,698
+Sutter,04,U.S. Senate,,DEM,Loretta L. Sanchez,513
+Sutter,05,President,,REP,Donald J. Trump,522
+Sutter,05,President,,LIB,Gary Johnson,67
+Sutter,05,President,,PAF,Gloria Estela La Riva,9
+Sutter,05,President,,DEM,Hillary Clinton,364
+Sutter,05,President,,GRN,Jill Stein,16
+Sutter,05,Proposition 51,,,No,489
+Sutter,05,Proposition 51,,,Yes,466
+Sutter,05,Proposition 52,,,No,375
+Sutter,05,Proposition 52,,,Yes,577
+Sutter,05,Proposition 53,,,No,452
+Sutter,05,Proposition 53,,,Yes,478
+Sutter,05,Proposition 54,,,No,334
+Sutter,05,Proposition 54,,,Yes,593
+Sutter,05,Proposition 55,,,No,386
+Sutter,05,Proposition 55,,,Yes,557
+Sutter,05,Proposition 56,,,No,575
+Sutter,05,Proposition 56,,,Yes,396
+Sutter,05,Proposition 57,,,No,482
+Sutter,05,Proposition 57,,,Yes,478
+Sutter,05,Proposition 58,,,No,317
+Sutter,05,Proposition 58,,,Yes,645
+Sutter,05,Proposition 59,,,No,536
+Sutter,05,Proposition 59,,,Yes,371
+Sutter,05,Proposition 60,,,No,504
+Sutter,05,Proposition 60,,,Yes,431
+Sutter,05,Proposition 61,,,No,651
+Sutter,05,Proposition 61,,,Yes,304
+Sutter,05,Proposition 62,,,No,674
+Sutter,05,Proposition 62,,,Yes,281
+Sutter,05,Proposition 63,,,No,608
+Sutter,05,Proposition 63,,,Yes,348
+Sutter,05,Proposition 64,,,No,503
+Sutter,05,Proposition 64,,,Yes,472
+Sutter,05,Proposition 65,,,No,642
+Sutter,05,Proposition 65,,,Yes,311
+Sutter,05,Proposition 66,,,No,381
+Sutter,05,Proposition 66,,,Yes,539
+Sutter,05,Proposition 67,,,No,637
+Sutter,05,Proposition 67,,,Yes,312
+Sutter,05,State Assembly,3,DEM,Edward Ritchie,308
+Sutter,05,State Assembly,3,REP,James Gallagher,638
+Sutter,05,U.S. House,3,DEM,John Garamendi,472
+Sutter,05,U.S. House,3,REP,N Eugene Cleek,492
+Sutter,05,U.S. Senate,,DEM,Kamala D. Harris,462
+Sutter,05,U.S. Senate,,DEM,Loretta L. Sanchez,360
+Sutter,06,President,,REP,Donald J. Trump,134
+Sutter,06,President,,LIB,Gary Johnson,12
+Sutter,06,President,,DEM,Hillary Clinton,72
+Sutter,06,President,,GRN,Jill Stein,7
+Sutter,06,Proposition 51,,,No,138
+Sutter,06,Proposition 51,,,Yes,82
+Sutter,06,Proposition 52,,,No,91
+Sutter,06,Proposition 52,,,Yes,129
+Sutter,06,Proposition 53,,,No,94
+Sutter,06,Proposition 53,,,Yes,125
+Sutter,06,Proposition 54,,,No,69
+Sutter,06,Proposition 54,,,Yes,147
+Sutter,06,Proposition 55,,,No,117
+Sutter,06,Proposition 55,,,Yes,106
+Sutter,06,Proposition 56,,,No,101
+Sutter,06,Proposition 56,,,Yes,123
+Sutter,06,Proposition 57,,,No,112
+Sutter,06,Proposition 57,,,Yes,105
+Sutter,06,Proposition 58,,,No,74
+Sutter,06,Proposition 58,,,Yes,147
+Sutter,06,Proposition 59,,,No,120
+Sutter,06,Proposition 59,,,Yes,91
+Sutter,06,Proposition 60,,,No,131
+Sutter,06,Proposition 60,,,Yes,85
+Sutter,06,Proposition 61,,,No,142
+Sutter,06,Proposition 61,,,Yes,79
+Sutter,06,Proposition 62,,,No,153
+Sutter,06,Proposition 62,,,Yes,63
+Sutter,06,Proposition 63,,,No,142
+Sutter,06,Proposition 63,,,Yes,80
+Sutter,06,Proposition 64,,,No,108
+Sutter,06,Proposition 64,,,Yes,116
+Sutter,06,Proposition 65,,,No,135
+Sutter,06,Proposition 65,,,Yes,85
+Sutter,06,Proposition 66,,,No,88
+Sutter,06,Proposition 66,,,Yes,120
+Sutter,06,Proposition 67,,,No,132
+Sutter,06,Proposition 67,,,Yes,85
+Sutter,06,State Assembly,3,DEM,Edward Ritchie,67
+Sutter,06,State Assembly,3,REP,James Gallagher,155
+Sutter,06,U.S. House,3,DEM,John Garamendi,106
+Sutter,06,U.S. House,3,REP,N Eugene Cleek,116
+Sutter,06,U.S. Senate,,DEM,Kamala D. Harris,103
+Sutter,06,U.S. Senate,,DEM,Loretta L. Sanchez,80
+Sutter,07,President,,REP,Donald J. Trump,168
+Sutter,07,President,,LIB,Gary Johnson,12
+Sutter,07,President,,PAF,Gloria Estela La Riva,3
+Sutter,07,President,,DEM,Hillary Clinton,175
+Sutter,07,President,,GRN,Jill Stein,7
+Sutter,07,Proposition 51,,,No,142
+Sutter,07,Proposition 51,,,Yes,197
+Sutter,07,Proposition 52,,,No,111
+Sutter,07,Proposition 52,,,Yes,231
+Sutter,07,Proposition 53,,,No,150
+Sutter,07,Proposition 53,,,Yes,184
+Sutter,07,Proposition 54,,,No,96
+Sutter,07,Proposition 54,,,Yes,239
+Sutter,07,Proposition 55,,,No,120
+Sutter,07,Proposition 55,,,Yes,227
+Sutter,07,Proposition 56,,,No,179
+Sutter,07,Proposition 56,,,Yes,182
+Sutter,07,Proposition 57,,,No,118
+Sutter,07,Proposition 57,,,Yes,230
+Sutter,07,Proposition 58,,,No,92
+Sutter,07,Proposition 58,,,Yes,258
+Sutter,07,Proposition 59,,,No,178
+Sutter,07,Proposition 59,,,Yes,145
+Sutter,07,Proposition 60,,,No,148
+Sutter,07,Proposition 60,,,Yes,196
+Sutter,07,Proposition 61,,,No,231
+Sutter,07,Proposition 61,,,Yes,121
+Sutter,07,Proposition 62,,,No,230
+Sutter,07,Proposition 62,,,Yes,121
+Sutter,07,Proposition 63,,,No,165
+Sutter,07,Proposition 63,,,Yes,186
+Sutter,07,Proposition 64,,,No,158
+Sutter,07,Proposition 64,,,Yes,198
+Sutter,07,Proposition 65,,,No,201
+Sutter,07,Proposition 65,,,Yes,148
+Sutter,07,Proposition 66,,,No,135
+Sutter,07,Proposition 66,,,Yes,186
+Sutter,07,Proposition 67,,,No,208
+Sutter,07,Proposition 67,,,Yes,135
+Sutter,07,State Assembly,3,DEM,Edward Ritchie,148
+Sutter,07,State Assembly,3,REP,James Gallagher,196
+Sutter,07,U.S. House,3,DEM,John Garamendi,204
+Sutter,07,U.S. House,3,REP,N Eugene Cleek,142
+Sutter,07,U.S. Senate,,DEM,Kamala D. Harris,162
+Sutter,07,U.S. Senate,,DEM,Loretta L. Sanchez,139
+Sutter,08,President,,REP,Donald J. Trump,148
+Sutter,08,President,,LIB,Gary Johnson,12
+Sutter,08,President,,PAF,Gloria Estela La Riva,6
+Sutter,08,President,,DEM,Hillary Clinton,276
+Sutter,08,President,,GRN,Jill Stein,8
+Sutter,08,Proposition 51,,,No,165
+Sutter,08,Proposition 51,,,Yes,259
+Sutter,08,Proposition 52,,,No,151
+Sutter,08,Proposition 52,,,Yes,273
+Sutter,08,Proposition 53,,,No,207
+Sutter,08,Proposition 53,,,Yes,208
+Sutter,08,Proposition 54,,,No,152
+Sutter,08,Proposition 54,,,Yes,260
+Sutter,08,Proposition 55,,,No,148
+Sutter,08,Proposition 55,,,Yes,275
+Sutter,08,Proposition 56,,,No,192
+Sutter,08,Proposition 56,,,Yes,245
+Sutter,08,Proposition 57,,,No,147
+Sutter,08,Proposition 57,,,Yes,285
+Sutter,08,Proposition 58,,,No,104
+Sutter,08,Proposition 58,,,Yes,316
+Sutter,08,Proposition 59,,,No,215
+Sutter,08,Proposition 59,,,Yes,188
+Sutter,08,Proposition 60,,,No,211
+Sutter,08,Proposition 60,,,Yes,207
+Sutter,08,Proposition 61,,,No,259
+Sutter,08,Proposition 61,,,Yes,166
+Sutter,08,Proposition 62,,,No,262
+Sutter,08,Proposition 62,,,Yes,163
+Sutter,08,Proposition 63,,,No,210
+Sutter,08,Proposition 63,,,Yes,222
+Sutter,08,Proposition 64,,,No,184
+Sutter,08,Proposition 64,,,Yes,253
+Sutter,08,Proposition 65,,,No,262
+Sutter,08,Proposition 65,,,Yes,154
+Sutter,08,Proposition 66,,,No,226
+Sutter,08,Proposition 66,,,Yes,189
+Sutter,08,Proposition 67,,,No,262
+Sutter,08,Proposition 67,,,Yes,159
+Sutter,08,State Assembly,3,DEM,Edward Ritchie,220
+Sutter,08,State Assembly,3,REP,James Gallagher,207
+Sutter,08,U.S. House,3,DEM,John Garamendi,291
+Sutter,08,U.S. House,3,REP,N Eugene Cleek,152
+Sutter,08,U.S. Senate,,DEM,Kamala D. Harris,161
+Sutter,08,U.S. Senate,,DEM,Loretta L. Sanchez,252
+Sutter,09,President,,REP,Donald J. Trump,288
+Sutter,09,President,,LIB,Gary Johnson,41
+Sutter,09,President,,PAF,Gloria Estela La Riva,2
+Sutter,09,President,,DEM,Hillary Clinton,214
+Sutter,09,President,,GRN,Jill Stein,13
+Sutter,09,Proposition 51,,,No,255
+Sutter,09,Proposition 51,,,Yes,290
+Sutter,09,Proposition 52,,,No,180
+Sutter,09,Proposition 52,,,Yes,351
+Sutter,09,Proposition 53,,,No,227
+Sutter,09,Proposition 53,,,Yes,297
+Sutter,09,Proposition 54,,,No,203
+Sutter,09,Proposition 54,,,Yes,324
+Sutter,09,Proposition 55,,,No,237
+Sutter,09,Proposition 55,,,Yes,295
+Sutter,09,Proposition 56,,,No,313
+Sutter,09,Proposition 56,,,Yes,241
+Sutter,09,Proposition 57,,,No,253
+Sutter,09,Proposition 57,,,Yes,290
+Sutter,09,Proposition 58,,,No,198
+Sutter,09,Proposition 58,,,Yes,348
+Sutter,09,Proposition 59,,,No,305
+Sutter,09,Proposition 59,,,Yes,202
+Sutter,09,Proposition 60,,,No,336
+Sutter,09,Proposition 60,,,Yes,196
+Sutter,09,Proposition 61,,,No,345
+Sutter,09,Proposition 61,,,Yes,194
+Sutter,09,Proposition 62,,,No,375
+Sutter,09,Proposition 62,,,Yes,164
+Sutter,09,Proposition 63,,,No,355
+Sutter,09,Proposition 63,,,Yes,193
+Sutter,09,Proposition 64,,,No,247
+Sutter,09,Proposition 64,,,Yes,307
+Sutter,09,Proposition 65,,,No,344
+Sutter,09,Proposition 65,,,Yes,196
+Sutter,09,Proposition 66,,,No,207
+Sutter,09,Proposition 66,,,Yes,315
+Sutter,09,Proposition 67,,,No,325
+Sutter,09,Proposition 67,,,Yes,216
+Sutter,09,State Assembly,3,DEM,Edward Ritchie,185
+Sutter,09,State Assembly,3,REP,James Gallagher,351
+Sutter,09,U.S. House,3,DEM,John Garamendi,282
+Sutter,09,U.S. House,3,REP,N Eugene Cleek,266
+Sutter,09,U.S. Senate,,DEM,Kamala D. Harris,271
+Sutter,09,U.S. Senate,,DEM,Loretta L. Sanchez,191
+Sutter,10,President,,REP,Donald J. Trump,289
 Sutter,10,President,,LIB,Gary Johnson,39
-Sutter,10,President,,PF,Gloria Estela La Riva,2
+Sutter,10,President,,PAF,Gloria Estela La Riva,2
 Sutter,10,President,,DEM,Hillary Clinton,193
 Sutter,10,President,,GRN,Jill Stein,6
-Sutter,10,President,,WI,Write-In,0
 Sutter,10,Proposition 51,,,No,282
 Sutter,10,Proposition 51,,,Yes,223
 Sutter,10,Proposition 52,,,No,213
@@ -81,14 +442,17 @@ Sutter,10,Proposition 66,,,No,193
 Sutter,10,Proposition 66,,,Yes,301
 Sutter,10,Proposition 67,,,No,301
 Sutter,10,Proposition 67,,,Yes,212
+Sutter,10,State Assembly,3,DEM,Edward Ritchie,153
+Sutter,10,State Assembly,3,REP,James Gallagher,358
+Sutter,10,U.S. House,3,DEM,John Garamendi,255
+Sutter,10,U.S. House,3,REP,N Eugene Cleek,269
 Sutter,10,U.S. Senate,,DEM,Kamala D. Harris,213
 Sutter,10,U.S. Senate,,DEM,Loretta L. Sanchez,202
-Sutter,11,President,,REP/AI,Donald J. Trump,376
+Sutter,11,President,,REP,Donald J. Trump,376
 Sutter,11,President,,LIB,Gary Johnson,23
-Sutter,11,President,,PF,Gloria Estela La Riva,5
+Sutter,11,President,,PAF,Gloria Estela La Riva,5
 Sutter,11,President,,DEM,Hillary Clinton,113
 Sutter,11,President,,GRN,Jill Stein,3
-Sutter,11,President,,WI,Write-In,0
 Sutter,11,Proposition 51,,,No,287
 Sutter,11,Proposition 51,,,Yes,219
 Sutter,11,Proposition 52,,,No,230
@@ -123,14 +487,17 @@ Sutter,11,Proposition 66,,,No,176
 Sutter,11,Proposition 66,,,Yes,310
 Sutter,11,Proposition 67,,,No,361
 Sutter,11,Proposition 67,,,Yes,144
+Sutter,11,State Assembly,3,DEM,Edward Ritchie,90
+Sutter,11,State Assembly,3,REP,James Gallagher,433
+Sutter,11,U.S. House,3,DEM,John Garamendi,175
+Sutter,11,U.S. House,3,REP,N Eugene Cleek,348
 Sutter,11,U.S. Senate,,DEM,Kamala D. Harris,219
 Sutter,11,U.S. Senate,,DEM,Loretta L. Sanchez,183
-Sutter,12,President,,REP/AI,Donald J. Trump,957
+Sutter,12,President,,REP,Donald J. Trump,957
 Sutter,12,President,,LIB,Gary Johnson,53
-Sutter,12,President,,PF,Gloria Estela La Riva,4
+Sutter,12,President,,PAF,Gloria Estela La Riva,4
 Sutter,12,President,,DEM,Hillary Clinton,230
 Sutter,12,President,,GRN,Jill Stein,8
-Sutter,12,President,,WI,Write-In,0
 Sutter,12,Proposition 51,,,No,747
 Sutter,12,Proposition 51,,,Yes,475
 Sutter,12,Proposition 52,,,No,616
@@ -165,14 +532,16 @@ Sutter,12,Proposition 66,,,No,505
 Sutter,12,Proposition 66,,,Yes,701
 Sutter,12,Proposition 67,,,No,929
 Sutter,12,Proposition 67,,,Yes,307
+Sutter,12,State Assembly,3,DEM,Edward Ritchie,192
+Sutter,12,State Assembly,3,REP,James Gallagher,1046
+Sutter,12,U.S. House,3,DEM,John Garamendi,441
+Sutter,12,U.S. House,3,REP,N Eugene Cleek,790
 Sutter,12,U.S. Senate,,DEM,Kamala D. Harris,526
 Sutter,12,U.S. Senate,,DEM,Loretta L. Sanchez,393
-Sutter,13,President,,REP/AI,Donald J. Trump,257
+Sutter,13,President,,REP,Donald J. Trump,257
 Sutter,13,President,,LIB,Gary Johnson,11
-Sutter,13,President,,PF,Gloria Estela La Riva,0
 Sutter,13,President,,DEM,Hillary Clinton,85
 Sutter,13,President,,GRN,Jill Stein,5
-Sutter,13,President,,WI,Write-In,0
 Sutter,13,Proposition 51,,,No,242
 Sutter,13,Proposition 51,,,Yes,94
 Sutter,13,Proposition 52,,,No,171
@@ -207,14 +576,17 @@ Sutter,13,Proposition 66,,,No,149
 Sutter,13,Proposition 66,,,Yes,182
 Sutter,13,Proposition 67,,,No,238
 Sutter,13,Proposition 67,,,Yes,102
+Sutter,13,State Assembly,3,DEM,Edward Ritchie,58
+Sutter,13,State Assembly,3,REP,James Gallagher,281
+Sutter,13,U.S. House,3,DEM,John Garamendi,126
+Sutter,13,U.S. House,3,REP,N Eugene Cleek,214
 Sutter,13,U.S. Senate,,DEM,Kamala D. Harris,128
 Sutter,13,U.S. Senate,,DEM,Loretta L. Sanchez,122
-Sutter,14,President,,REP/AI,Donald J. Trump,212
+Sutter,14,President,,REP,Donald J. Trump,212
 Sutter,14,President,,LIB,Gary Johnson,10
-Sutter,14,President,,PF,Gloria Estela La Riva,1
+Sutter,14,President,,PAF,Gloria Estela La Riva,1
 Sutter,14,President,,DEM,Hillary Clinton,54
 Sutter,14,President,,GRN,Jill Stein,4
-Sutter,14,President,,WI,Write-In,0
 Sutter,14,Proposition 51,,,No,202
 Sutter,14,Proposition 51,,,Yes,73
 Sutter,14,Proposition 52,,,No,145
@@ -249,14 +621,17 @@ Sutter,14,Proposition 66,,,No,113
 Sutter,14,Proposition 66,,,Yes,151
 Sutter,14,Proposition 67,,,No,214
 Sutter,14,Proposition 67,,,Yes,59
+Sutter,14,State Assembly,3,DEM,Edward Ritchie,46
+Sutter,14,State Assembly,3,REP,James Gallagher,233
+Sutter,14,U.S. House,3,DEM,John Garamendi,89
+Sutter,14,U.S. House,3,REP,N Eugene Cleek,193
 Sutter,14,U.S. Senate,,DEM,Kamala D. Harris,117
 Sutter,14,U.S. Senate,,DEM,Loretta L. Sanchez,95
-Sutter,15,President,,REP/AI,Donald J. Trump,555
+Sutter,15,President,,REP,Donald J. Trump,555
 Sutter,15,President,,LIB,Gary Johnson,33
-Sutter,15,President,,PF,Gloria Estela La Riva,5
+Sutter,15,President,,PAF,Gloria Estela La Riva,5
 Sutter,15,President,,DEM,Hillary Clinton,479
 Sutter,15,President,,GRN,Jill Stein,10
-Sutter,15,President,,WI,Write-In,0
 Sutter,15,Proposition 51,,,No,503
 Sutter,15,Proposition 51,,,Yes,541
 Sutter,15,Proposition 52,,,No,449
@@ -291,14 +666,17 @@ Sutter,15,Proposition 66,,,No,407
 Sutter,15,Proposition 66,,,Yes,606
 Sutter,15,Proposition 67,,,No,663
 Sutter,15,Proposition 67,,,Yes,384
+Sutter,15,State Assembly,3,DEM,Edward Ritchie,397
+Sutter,15,State Assembly,3,REP,James Gallagher,664
+Sutter,15,U.S. House,3,DEM,John Garamendi,557
+Sutter,15,U.S. House,3,REP,N Eugene Cleek,522
 Sutter,15,U.S. Senate,,DEM,Kamala D. Harris,541
 Sutter,15,U.S. Senate,,DEM,Loretta L. Sanchez,357
-Sutter,16,President,,REP/AI,Donald J. Trump,605
+Sutter,16,President,,REP,Donald J. Trump,605
 Sutter,16,President,,LIB,Gary Johnson,49
-Sutter,16,President,,PF,Gloria Estela La Riva,4
+Sutter,16,President,,PAF,Gloria Estela La Riva,4
 Sutter,16,President,,DEM,Hillary Clinton,306
 Sutter,16,President,,GRN,Jill Stein,6
-Sutter,16,President,,WI,Write-In,0
 Sutter,16,Proposition 51,,,No,592
 Sutter,16,Proposition 51,,,Yes,365
 Sutter,16,Proposition 52,,,No,441
@@ -333,14 +711,17 @@ Sutter,16,Proposition 66,,,No,398
 Sutter,16,Proposition 66,,,Yes,516
 Sutter,16,Proposition 67,,,No,657
 Sutter,16,Proposition 67,,,Yes,294
+Sutter,16,State Assembly,3,DEM,Edward Ritchie,217
+Sutter,16,State Assembly,3,REP,James Gallagher,738
+Sutter,16,U.S. House,3,DEM,John Garamendi,397
+Sutter,16,U.S. House,3,REP,N Eugene Cleek,566
 Sutter,16,U.S. Senate,,DEM,Kamala D. Harris,410
 Sutter,16,U.S. Senate,,DEM,Loretta L. Sanchez,329
-Sutter,17,President,,REP/AI,Donald J. Trump,559
+Sutter,17,President,,REP,Donald J. Trump,559
 Sutter,17,President,,LIB,Gary Johnson,47
-Sutter,17,President,,PF,Gloria Estela La Riva,4
+Sutter,17,President,,PAF,Gloria Estela La Riva,4
 Sutter,17,President,,DEM,Hillary Clinton,339
 Sutter,17,President,,GRN,Jill Stein,12
-Sutter,17,President,,WI,Write-In,0
 Sutter,17,Proposition 51,,,No,561
 Sutter,17,Proposition 51,,,Yes,369
 Sutter,17,Proposition 52,,,No,363
@@ -375,14 +756,17 @@ Sutter,17,Proposition 66,,,No,350
 Sutter,17,Proposition 66,,,Yes,551
 Sutter,17,Proposition 67,,,No,579
 Sutter,17,Proposition 67,,,Yes,350
+Sutter,17,State Assembly,3,DEM,Edward Ritchie,248
+Sutter,17,State Assembly,3,REP,James Gallagher,691
+Sutter,17,U.S. House,3,DEM,John Garamendi,453
+Sutter,17,U.S. House,3,REP,N Eugene Cleek,495
 Sutter,17,U.S. Senate,,DEM,Kamala D. Harris,430
 Sutter,17,U.S. Senate,,DEM,Loretta L. Sanchez,328
-Sutter,18,President,,REP/AI,Donald J. Trump,500
+Sutter,18,President,,REP,Donald J. Trump,500
 Sutter,18,President,,LIB,Gary Johnson,33
-Sutter,18,President,,PF,Gloria Estela La Riva,6
+Sutter,18,President,,PAF,Gloria Estela La Riva,6
 Sutter,18,President,,DEM,Hillary Clinton,251
 Sutter,18,President,,GRN,Jill Stein,7
-Sutter,18,President,,WI,Write-In,0
 Sutter,18,Proposition 51,,,No,458
 Sutter,18,Proposition 51,,,Yes,310
 Sutter,18,Proposition 52,,,No,345
@@ -417,14 +801,17 @@ Sutter,18,Proposition 66,,,No,335
 Sutter,18,Proposition 66,,,Yes,405
 Sutter,18,Proposition 67,,,No,509
 Sutter,18,Proposition 67,,,Yes,258
+Sutter,18,State Assembly,3,DEM,Edward Ritchie,192
+Sutter,18,State Assembly,3,REP,James Gallagher,581
+Sutter,18,U.S. House,3,DEM,John Garamendi,340
+Sutter,18,U.S. House,3,REP,N Eugene Cleek,447
 Sutter,18,U.S. Senate,,DEM,Kamala D. Harris,390
 Sutter,18,U.S. Senate,,DEM,Loretta L. Sanchez,236
-Sutter,19,President,,REP/AI,Donald J. Trump,372
+Sutter,19,President,,REP,Donald J. Trump,372
 Sutter,19,President,,LIB,Gary Johnson,30
-Sutter,19,President,,PF,Gloria Estela La Riva,5
+Sutter,19,President,,PAF,Gloria Estela La Riva,5
 Sutter,19,President,,DEM,Hillary Clinton,236
 Sutter,19,President,,GRN,Jill Stein,16
-Sutter,19,President,,WI,Write-In,0
 Sutter,19,Proposition 51,,,No,355
 Sutter,19,Proposition 51,,,Yes,286
 Sutter,19,Proposition 52,,,No,250
@@ -459,56 +846,17 @@ Sutter,19,Proposition 66,,,No,255
 Sutter,19,Proposition 66,,,Yes,363
 Sutter,19,Proposition 67,,,No,432
 Sutter,19,Proposition 67,,,Yes,208
+Sutter,19,State Assembly,3,DEM,Edward Ritchie,186
+Sutter,19,State Assembly,3,REP,James Gallagher,456
+Sutter,19,U.S. House,3,DEM,John Garamendi,305
+Sutter,19,U.S. House,3,REP,N Eugene Cleek,347
 Sutter,19,U.S. Senate,,DEM,Kamala D. Harris,297
 Sutter,19,U.S. Senate,,DEM,Loretta L. Sanchez,240
-Sutter,2,President,,REP/AI,Donald J. Trump,580
-Sutter,2,President,,LIB,Gary Johnson,71
-Sutter,2,President,,PF,Gloria Estela La Riva,9
-Sutter,2,President,,DEM,Hillary Clinton,712
-Sutter,2,President,,GRN,Jill Stein,7
-Sutter,2,President,,WI,Write-In,0
-Sutter,2,Proposition 51,,,No,552
-Sutter,2,Proposition 51,,,Yes,793
-Sutter,2,Proposition 52,,,No,474
-Sutter,2,Proposition 52,,,Yes,850
-Sutter,2,Proposition 53,,,No,569
-Sutter,2,Proposition 53,,,Yes,727
-Sutter,2,Proposition 54,,,No,470
-Sutter,2,Proposition 54,,,Yes,832
-Sutter,2,Proposition 55,,,No,498
-Sutter,2,Proposition 55,,,Yes,838
-Sutter,2,Proposition 56,,,No,589
-Sutter,2,Proposition 56,,,Yes,768
-Sutter,2,Proposition 57,,,No,535
-Sutter,2,Proposition 57,,,Yes,806
-Sutter,2,Proposition 58,,,No,373
-Sutter,2,Proposition 58,,,Yes,969
-Sutter,2,Proposition 59,,,No,705
-Sutter,2,Proposition 59,,,Yes,572
-Sutter,2,Proposition 60,,,No,694
-Sutter,2,Proposition 60,,,Yes,620
-Sutter,2,Proposition 61,,,No,884
-Sutter,2,Proposition 61,,,Yes,463
-Sutter,2,Proposition 62,,,No,857
-Sutter,2,Proposition 62,,,Yes,489
-Sutter,2,Proposition 63,,,No,733
-Sutter,2,Proposition 63,,,Yes,621
-Sutter,2,Proposition 64,,,No,731
-Sutter,2,Proposition 64,,,Yes,650
-Sutter,2,Proposition 65,,,No,825
-Sutter,2,Proposition 65,,,Yes,503
-Sutter,2,Proposition 66,,,No,567
-Sutter,2,Proposition 66,,,Yes,723
-Sutter,2,Proposition 67,,,No,823
-Sutter,2,Proposition 67,,,Yes,506
-Sutter,2,U.S. Senate,,DEM,Kamala D. Harris,604
-Sutter,2,U.S. Senate,,DEM,Loretta L. Sanchez,606
-Sutter,20,President,,REP/AI,Donald J. Trump,394
+Sutter,20,President,,REP,Donald J. Trump,394
 Sutter,20,President,,LIB,Gary Johnson,22
-Sutter,20,President,,PF,Gloria Estela La Riva,1
+Sutter,20,President,,PAF,Gloria Estela La Riva,1
 Sutter,20,President,,DEM,Hillary Clinton,255
 Sutter,20,President,,GRN,Jill Stein,4
-Sutter,20,President,,WI,Write-In,0
 Sutter,20,Proposition 51,,,No,366
 Sutter,20,Proposition 51,,,Yes,281
 Sutter,20,Proposition 52,,,No,277
@@ -543,14 +891,17 @@ Sutter,20,Proposition 66,,,No,253
 Sutter,20,Proposition 66,,,Yes,376
 Sutter,20,Proposition 67,,,No,455
 Sutter,20,Proposition 67,,,Yes,194
+Sutter,20,State Assembly,3,DEM,Edward Ritchie,192
+Sutter,20,State Assembly,3,REP,James Gallagher,469
+Sutter,20,U.S. House,3,DEM,John Garamendi,303
+Sutter,20,U.S. House,3,REP,N Eugene Cleek,361
 Sutter,20,U.S. Senate,,DEM,Kamala D. Harris,277
 Sutter,20,U.S. Senate,,DEM,Loretta L. Sanchez,236
-Sutter,21,President,,REP/AI,Donald J. Trump,320
+Sutter,21,President,,REP,Donald J. Trump,320
 Sutter,21,President,,LIB,Gary Johnson,32
-Sutter,21,President,,PF,Gloria Estela La Riva,6
+Sutter,21,President,,PAF,Gloria Estela La Riva,6
 Sutter,21,President,,DEM,Hillary Clinton,639
 Sutter,21,President,,GRN,Jill Stein,15
-Sutter,21,President,,WI,Write-In,0
 Sutter,21,Proposition 51,,,No,349
 Sutter,21,Proposition 51,,,Yes,564
 Sutter,21,Proposition 52,,,No,280
@@ -585,14 +936,17 @@ Sutter,21,Proposition 66,,,No,426
 Sutter,21,Proposition 66,,,Yes,427
 Sutter,21,Proposition 67,,,No,528
 Sutter,21,Proposition 67,,,Yes,374
+Sutter,21,State Assembly,3,DEM,Edward Ritchie,478
+Sutter,21,State Assembly,3,REP,James Gallagher,454
+Sutter,21,U.S. House,3,DEM,John Garamendi,636
+Sutter,21,U.S. House,3,REP,N Eugene Cleek,320
 Sutter,21,U.S. Senate,,DEM,Kamala D. Harris,585
 Sutter,21,U.S. Senate,,DEM,Loretta L. Sanchez,297
-Sutter,22,President,,REP/AI,Donald J. Trump,577
+Sutter,22,President,,REP,Donald J. Trump,577
 Sutter,22,President,,LIB,Gary Johnson,42
-Sutter,22,President,,PF,Gloria Estela La Riva,7
+Sutter,22,President,,PAF,Gloria Estela La Riva,7
 Sutter,22,President,,DEM,Hillary Clinton,561
 Sutter,22,President,,GRN,Jill Stein,16
-Sutter,22,President,,WI,Write-In,0
 Sutter,22,Proposition 51,,,No,587
 Sutter,22,Proposition 51,,,Yes,540
 Sutter,22,Proposition 52,,,No,453
@@ -627,14 +981,17 @@ Sutter,22,Proposition 66,,,No,534
 Sutter,22,Proposition 66,,,Yes,556
 Sutter,22,Proposition 67,,,No,717
 Sutter,22,Proposition 67,,,Yes,416
+Sutter,22,State Assembly,3,DEM,Edward Ritchie,422
+Sutter,22,State Assembly,3,REP,James Gallagher,736
+Sutter,22,U.S. House,3,DEM,John Garamendi,655
+Sutter,22,U.S. House,3,REP,N Eugene Cleek,515
 Sutter,22,U.S. Senate,,DEM,Kamala D. Harris,577
 Sutter,22,U.S. Senate,,DEM,Loretta L. Sanchez,403
-Sutter,23,President,,REP/AI,Donald J. Trump,559
+Sutter,23,President,,REP,Donald J. Trump,559
 Sutter,23,President,,LIB,Gary Johnson,36
-Sutter,23,President,,PF,Gloria Estela La Riva,13
+Sutter,23,President,,PAF,Gloria Estela La Riva,13
 Sutter,23,President,,DEM,Hillary Clinton,641
 Sutter,23,President,,GRN,Jill Stein,16
-Sutter,23,President,,WI,Write-In,0
 Sutter,23,Proposition 51,,,No,579
 Sutter,23,Proposition 51,,,Yes,605
 Sutter,23,Proposition 52,,,No,478
@@ -669,14 +1026,17 @@ Sutter,23,Proposition 66,,,No,494
 Sutter,23,Proposition 66,,,Yes,637
 Sutter,23,Proposition 67,,,No,764
 Sutter,23,Proposition 67,,,Yes,423
+Sutter,23,State Assembly,3,DEM,Edward Ritchie,490
+Sutter,23,State Assembly,3,REP,James Gallagher,713
+Sutter,23,U.S. House,3,DEM,John Garamendi,690
+Sutter,23,U.S. House,3,REP,N Eugene Cleek,531
 Sutter,23,U.S. Senate,,DEM,Kamala D. Harris,613
 Sutter,23,U.S. Senate,,DEM,Loretta L. Sanchez,439
-Sutter,24,President,,REP/AI,Donald J. Trump,578
+Sutter,24,President,,REP,Donald J. Trump,578
 Sutter,24,President,,LIB,Gary Johnson,46
-Sutter,24,President,,PF,Gloria Estela La Riva,3
+Sutter,24,President,,PAF,Gloria Estela La Riva,3
 Sutter,24,President,,DEM,Hillary Clinton,738
 Sutter,24,President,,GRN,Jill Stein,4
-Sutter,24,President,,WI,Write-In,0
 Sutter,24,Proposition 51,,,No,577
 Sutter,24,Proposition 51,,,Yes,712
 Sutter,24,Proposition 52,,,No,502
@@ -711,14 +1071,17 @@ Sutter,24,Proposition 66,,,No,568
 Sutter,24,Proposition 66,,,Yes,654
 Sutter,24,Proposition 67,,,No,777
 Sutter,24,Proposition 67,,,Yes,513
+Sutter,24,State Assembly,3,DEM,Edward Ritchie,553
+Sutter,24,State Assembly,3,REP,James Gallagher,750
+Sutter,24,U.S. House,3,DEM,John Garamendi,763
+Sutter,24,U.S. House,3,REP,N Eugene Cleek,564
 Sutter,24,U.S. Senate,,DEM,Kamala D. Harris,730
 Sutter,24,U.S. Senate,,DEM,Loretta L. Sanchez,412
-Sutter,25,President,,REP/AI,Donald J. Trump,233
+Sutter,25,President,,REP,Donald J. Trump,233
 Sutter,25,President,,LIB,Gary Johnson,13
-Sutter,25,President,,PF,Gloria Estela La Riva,1
+Sutter,25,President,,PAF,Gloria Estela La Riva,1
 Sutter,25,President,,DEM,Hillary Clinton,234
 Sutter,25,President,,GRN,Jill Stein,5
-Sutter,25,President,,WI,Write-In,0
 Sutter,25,Proposition 51,,,No,219
 Sutter,25,Proposition 51,,,Yes,240
 Sutter,25,Proposition 52,,,No,158
@@ -753,14 +1116,17 @@ Sutter,25,Proposition 66,,,No,186
 Sutter,25,Proposition 66,,,Yes,253
 Sutter,25,Proposition 67,,,No,276
 Sutter,25,Proposition 67,,,Yes,180
+Sutter,25,State Assembly,3,DEM,Edward Ritchie,171
+Sutter,25,State Assembly,3,REP,James Gallagher,304
+Sutter,25,U.S. House,3,DEM,John Garamendi,264
+Sutter,25,U.S. House,3,REP,N Eugene Cleek,213
 Sutter,25,U.S. Senate,,DEM,Kamala D. Harris,245
 Sutter,25,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Sutter,26,President,,REP/AI,Donald J. Trump,445
+Sutter,26,President,,REP,Donald J. Trump,445
 Sutter,26,President,,LIB,Gary Johnson,25
-Sutter,26,President,,PF,Gloria Estela La Riva,6
+Sutter,26,President,,PAF,Gloria Estela La Riva,6
 Sutter,26,President,,DEM,Hillary Clinton,283
 Sutter,26,President,,GRN,Jill Stein,5
-Sutter,26,President,,WI,Write-In,0
 Sutter,26,Proposition 51,,,No,390
 Sutter,26,Proposition 51,,,Yes,361
 Sutter,26,Proposition 52,,,No,315
@@ -795,14 +1161,17 @@ Sutter,26,Proposition 66,,,No,270
 Sutter,26,Proposition 66,,,Yes,444
 Sutter,26,Proposition 67,,,No,498
 Sutter,26,Proposition 67,,,Yes,237
+Sutter,26,State Assembly,3,DEM,Edward Ritchie,174
+Sutter,26,State Assembly,3,REP,James Gallagher,579
+Sutter,26,U.S. House,3,DEM,John Garamendi,387
+Sutter,26,U.S. House,3,REP,N Eugene Cleek,371
 Sutter,26,U.S. Senate,,DEM,Kamala D. Harris,386
 Sutter,26,U.S. Senate,,DEM,Loretta L. Sanchez,246
-Sutter,27,President,,REP/AI,Donald J. Trump,487
+Sutter,27,President,,REP,Donald J. Trump,487
 Sutter,27,President,,LIB,Gary Johnson,37
-Sutter,27,President,,PF,Gloria Estela La Riva,2
+Sutter,27,President,,PAF,Gloria Estela La Riva,2
 Sutter,27,President,,DEM,Hillary Clinton,192
 Sutter,27,President,,GRN,Jill Stein,5
-Sutter,27,President,,WI,Write-In,0
 Sutter,27,Proposition 51,,,No,434
 Sutter,27,Proposition 51,,,Yes,291
 Sutter,27,Proposition 52,,,No,325
@@ -837,14 +1206,17 @@ Sutter,27,Proposition 66,,,No,252
 Sutter,27,Proposition 66,,,Yes,452
 Sutter,27,Proposition 67,,,No,503
 Sutter,27,Proposition 67,,,Yes,225
+Sutter,27,State Assembly,3,DEM,Edward Ritchie,147
+Sutter,27,State Assembly,3,REP,James Gallagher,590
+Sutter,27,U.S. House,3,DEM,John Garamendi,274
+Sutter,27,U.S. House,3,REP,N Eugene Cleek,464
 Sutter,27,U.S. Senate,,DEM,Kamala D. Harris,309
 Sutter,27,U.S. Senate,,DEM,Loretta L. Sanchez,300
-Sutter,28,President,,REP/AI,Donald J. Trump,588
+Sutter,28,President,,REP,Donald J. Trump,588
 Sutter,28,President,,LIB,Gary Johnson,64
-Sutter,28,President,,PF,Gloria Estela La Riva,2
+Sutter,28,President,,PAF,Gloria Estela La Riva,2
 Sutter,28,President,,DEM,Hillary Clinton,433
 Sutter,28,President,,GRN,Jill Stein,21
-Sutter,28,President,,WI,Write-In,0
 Sutter,28,Proposition 51,,,No,528
 Sutter,28,Proposition 51,,,Yes,567
 Sutter,28,Proposition 52,,,No,425
@@ -879,14 +1251,17 @@ Sutter,28,Proposition 66,,,No,431
 Sutter,28,Proposition 66,,,Yes,624
 Sutter,28,Proposition 67,,,No,727
 Sutter,28,Proposition 67,,,Yes,375
+Sutter,28,State Assembly,3,DEM,Edward Ritchie,336
+Sutter,28,State Assembly,3,REP,James Gallagher,734
+Sutter,28,U.S. House,3,DEM,John Garamendi,519
+Sutter,28,U.S. House,3,REP,N Eugene Cleek,563
 Sutter,28,U.S. Senate,,DEM,Kamala D. Harris,521
 Sutter,28,U.S. Senate,,DEM,Loretta L. Sanchez,378
-Sutter,29,President,,REP/AI,Donald J. Trump,549
+Sutter,29,President,,REP,Donald J. Trump,549
 Sutter,29,President,,LIB,Gary Johnson,51
-Sutter,29,President,,PF,Gloria Estela La Riva,4
+Sutter,29,President,,PAF,Gloria Estela La Riva,4
 Sutter,29,President,,DEM,Hillary Clinton,532
 Sutter,29,President,,GRN,Jill Stein,13
-Sutter,29,President,,WI,Write-In,0
 Sutter,29,Proposition 51,,,No,500
 Sutter,29,Proposition 51,,,Yes,582
 Sutter,29,Proposition 52,,,No,406
@@ -921,56 +1296,17 @@ Sutter,29,Proposition 66,,,No,425
 Sutter,29,Proposition 66,,,Yes,630
 Sutter,29,Proposition 67,,,No,684
 Sutter,29,Proposition 67,,,Yes,404
+Sutter,29,State Assembly,3,DEM,Edward Ritchie,417
+Sutter,29,State Assembly,3,REP,James Gallagher,685
+Sutter,29,U.S. House,3,DEM,John Garamendi,592
+Sutter,29,U.S. House,3,REP,N Eugene Cleek,519
 Sutter,29,U.S. Senate,,DEM,Kamala D. Harris,568
 Sutter,29,U.S. Senate,,DEM,Loretta L. Sanchez,386
-Sutter,3,President,,REP/AI,Donald J. Trump,353
-Sutter,3,President,,LIB,Gary Johnson,24
-Sutter,3,President,,PF,Gloria Estela La Riva,5
-Sutter,3,President,,DEM,Hillary Clinton,288
-Sutter,3,President,,GRN,Jill Stein,9
-Sutter,3,President,,WI,Write-In,0
-Sutter,3,Proposition 51,,,No,356
-Sutter,3,Proposition 51,,,Yes,292
-Sutter,3,Proposition 52,,,No,299
-Sutter,3,Proposition 52,,,Yes,348
-Sutter,3,Proposition 53,,,No,296
-Sutter,3,Proposition 53,,,Yes,334
-Sutter,3,Proposition 54,,,No,246
-Sutter,3,Proposition 54,,,Yes,393
-Sutter,3,Proposition 55,,,No,307
-Sutter,3,Proposition 55,,,Yes,347
-Sutter,3,Proposition 56,,,No,316
-Sutter,3,Proposition 56,,,Yes,365
-Sutter,3,Proposition 57,,,No,336
-Sutter,3,Proposition 57,,,Yes,316
-Sutter,3,Proposition 58,,,No,253
-Sutter,3,Proposition 58,,,Yes,404
-Sutter,3,Proposition 59,,,No,349
-Sutter,3,Proposition 59,,,Yes,267
-Sutter,3,Proposition 60,,,No,393
-Sutter,3,Proposition 60,,,Yes,252
-Sutter,3,Proposition 61,,,No,438
-Sutter,3,Proposition 61,,,Yes,211
-Sutter,3,Proposition 62,,,No,481
-Sutter,3,Proposition 62,,,Yes,187
-Sutter,3,Proposition 63,,,No,403
-Sutter,3,Proposition 63,,,Yes,265
-Sutter,3,Proposition 64,,,No,386
-Sutter,3,Proposition 64,,,Yes,292
-Sutter,3,Proposition 65,,,No,419
-Sutter,3,Proposition 65,,,Yes,230
-Sutter,3,Proposition 66,,,No,234
-Sutter,3,Proposition 66,,,Yes,405
-Sutter,3,Proposition 67,,,No,413
-Sutter,3,Proposition 67,,,Yes,238
-Sutter,3,U.S. Senate,,DEM,Kamala D. Harris,322
-Sutter,3,U.S. Senate,,DEM,Loretta L. Sanchez,229
-Sutter,30,President,,REP/AI,Donald J. Trump,419
+Sutter,30,President,,REP,Donald J. Trump,419
 Sutter,30,President,,LIB,Gary Johnson,37
-Sutter,30,President,,PF,Gloria Estela La Riva,9
+Sutter,30,President,,PAF,Gloria Estela La Riva,9
 Sutter,30,President,,DEM,Hillary Clinton,417
 Sutter,30,President,,GRN,Jill Stein,11
-Sutter,30,President,,WI,Write-In,0
 Sutter,30,Proposition 51,,,No,383
 Sutter,30,Proposition 51,,,Yes,450
 Sutter,30,Proposition 52,,,No,308
@@ -1005,14 +1341,16 @@ Sutter,30,Proposition 66,,,No,332
 Sutter,30,Proposition 66,,,Yes,482
 Sutter,30,Proposition 67,,,No,542
 Sutter,30,Proposition 67,,,Yes,291
+Sutter,30,State Assembly,3,DEM,Edward Ritchie,356
+Sutter,30,State Assembly,3,REP,James Gallagher,495
+Sutter,30,U.S. House,3,DEM,John Garamendi,484
+Sutter,30,U.S. House,3,REP,N Eugene Cleek,386
 Sutter,30,U.S. Senate,,DEM,Kamala D. Harris,424
 Sutter,30,U.S. Senate,,DEM,Loretta L. Sanchez,309
-Sutter,31,President,,REP/AI,Donald J. Trump,166
+Sutter,31,President,,REP,Donald J. Trump,166
 Sutter,31,President,,LIB,Gary Johnson,11
-Sutter,31,President,,PF,Gloria Estela La Riva,3
+Sutter,31,President,,PAF,Gloria Estela La Riva,3
 Sutter,31,President,,DEM,Hillary Clinton,90
-Sutter,31,President,,GRN,Jill Stein,0
-Sutter,31,President,,WI,Write-In,0
 Sutter,31,Proposition 51,,,No,152
 Sutter,31,Proposition 51,,,Yes,115
 Sutter,31,Proposition 52,,,No,113
@@ -1047,14 +1385,17 @@ Sutter,31,Proposition 66,,,No,102
 Sutter,31,Proposition 66,,,Yes,155
 Sutter,31,Proposition 67,,,No,184
 Sutter,31,Proposition 67,,,Yes,79
+Sutter,31,State Assembly,3,DEM,Edward Ritchie,71
+Sutter,31,State Assembly,3,REP,James Gallagher,194
+Sutter,31,U.S. House,3,DEM,John Garamendi,107
+Sutter,31,U.S. House,3,REP,N Eugene Cleek,151
 Sutter,31,U.S. Senate,,DEM,Kamala D. Harris,87
 Sutter,31,U.S. Senate,,DEM,Loretta L. Sanchez,126
-Sutter,32,President,,REP/AI,Donald J. Trump,291
+Sutter,32,President,,REP,Donald J. Trump,291
 Sutter,32,President,,LIB,Gary Johnson,22
-Sutter,32,President,,PF,Gloria Estela La Riva,2
+Sutter,32,President,,PAF,Gloria Estela La Riva,2
 Sutter,32,President,,DEM,Hillary Clinton,80
 Sutter,32,President,,GRN,Jill Stein,2
-Sutter,32,President,,WI,Write-In,0
 Sutter,32,Proposition 51,,,No,278
 Sutter,32,Proposition 51,,,Yes,110
 Sutter,32,Proposition 52,,,No,195
@@ -1089,14 +1430,17 @@ Sutter,32,Proposition 66,,,No,150
 Sutter,32,Proposition 66,,,Yes,236
 Sutter,32,Proposition 67,,,No,300
 Sutter,32,Proposition 67,,,Yes,99
+Sutter,32,State Assembly,3,DEM,Edward Ritchie,58
+Sutter,32,State Assembly,3,REP,James Gallagher,335
+Sutter,32,U.S. House,3,DEM,John Garamendi,114
+Sutter,32,U.S. House,3,REP,N Eugene Cleek,282
 Sutter,32,U.S. Senate,,DEM,Kamala D. Harris,147
 Sutter,32,U.S. Senate,,DEM,Loretta L. Sanchez,151
-Sutter,33,President,,REP/AI,Donald J. Trump,493
+Sutter,33,President,,REP,Donald J. Trump,493
 Sutter,33,President,,LIB,Gary Johnson,30
-Sutter,33,President,,PF,Gloria Estela La Riva,2
+Sutter,33,President,,PAF,Gloria Estela La Riva,2
 Sutter,33,President,,DEM,Hillary Clinton,166
 Sutter,33,President,,GRN,Jill Stein,5
-Sutter,33,President,,WI,Write-In,0
 Sutter,33,Proposition 51,,,No,451
 Sutter,33,Proposition 51,,,Yes,232
 Sutter,33,Proposition 52,,,No,328
@@ -1131,14 +1475,17 @@ Sutter,33,Proposition 66,,,No,245
 Sutter,33,Proposition 66,,,Yes,409
 Sutter,33,Proposition 67,,,No,475
 Sutter,33,Proposition 67,,,Yes,203
+Sutter,33,State Assembly,3,DEM,Edward Ritchie,110
+Sutter,33,State Assembly,3,REP,James Gallagher,573
+Sutter,33,U.S. House,3,DEM,John Garamendi,247
+Sutter,33,U.S. House,3,REP,N Eugene Cleek,425
 Sutter,33,U.S. Senate,,DEM,Kamala D. Harris,262
 Sutter,33,U.S. Senate,,DEM,Loretta L. Sanchez,259
-Sutter,34,President,,REP/AI,Donald J. Trump,345
+Sutter,34,President,,REP,Donald J. Trump,345
 Sutter,34,President,,LIB,Gary Johnson,15
-Sutter,34,President,,PF,Gloria Estela La Riva,1
+Sutter,34,President,,PAF,Gloria Estela La Riva,1
 Sutter,34,President,,DEM,Hillary Clinton,148
 Sutter,34,President,,GRN,Jill Stein,3
-Sutter,34,President,,WI,Write-In,0
 Sutter,34,Proposition 51,,,No,313
 Sutter,34,Proposition 51,,,Yes,176
 Sutter,34,Proposition 52,,,No,189
@@ -1173,14 +1520,17 @@ Sutter,34,Proposition 66,,,No,193
 Sutter,34,Proposition 66,,,Yes,269
 Sutter,34,Proposition 67,,,No,349
 Sutter,34,Proposition 67,,,Yes,147
+Sutter,34,State Assembly,3,DEM,Edward Ritchie,101
+Sutter,34,State Assembly,3,REP,James Gallagher,405
+Sutter,34,U.S. House,3,DEM,John Garamendi,219
+Sutter,34,U.S. House,3,REP,N Eugene Cleek,287
 Sutter,34,U.S. Senate,,DEM,Kamala D. Harris,221
 Sutter,34,U.S. Senate,,DEM,Loretta L. Sanchez,158
-Sutter,35,President,,REP/AI,Donald J. Trump,246
+Sutter,35,President,,REP,Donald J. Trump,246
 Sutter,35,President,,LIB,Gary Johnson,15
-Sutter,35,President,,PF,Gloria Estela La Riva,1
+Sutter,35,President,,PAF,Gloria Estela La Riva,1
 Sutter,35,President,,DEM,Hillary Clinton,91
 Sutter,35,President,,GRN,Jill Stein,2
-Sutter,35,President,,WI,Write-In,0
 Sutter,35,Proposition 51,,,No,215
 Sutter,35,Proposition 51,,,Yes,142
 Sutter,35,Proposition 52,,,No,173
@@ -1215,14 +1565,15 @@ Sutter,35,Proposition 66,,,No,146
 Sutter,35,Proposition 66,,,Yes,198
 Sutter,35,Proposition 67,,,No,246
 Sutter,35,Proposition 67,,,Yes,107
+Sutter,35,State Assembly,3,DEM,Edward Ritchie,80
+Sutter,35,State Assembly,3,REP,James Gallagher,283
+Sutter,35,U.S. House,3,DEM,John Garamendi,153
+Sutter,35,U.S. House,3,REP,N Eugene Cleek,212
 Sutter,35,U.S. Senate,,DEM,Kamala D. Harris,148
 Sutter,35,U.S. Senate,,DEM,Loretta L. Sanchez,123
-Sutter,36,President,,REP/AI,Donald J. Trump,138
+Sutter,36,President,,REP,Donald J. Trump,138
 Sutter,36,President,,LIB,Gary Johnson,11
-Sutter,36,President,,PF,Gloria Estela La Riva,0
 Sutter,36,President,,DEM,Hillary Clinton,54
-Sutter,36,President,,GRN,Jill Stein,0
-Sutter,36,President,,WI,Write-In,0
 Sutter,36,Proposition 51,,,No,123
 Sutter,36,Proposition 51,,,Yes,71
 Sutter,36,Proposition 52,,,No,82
@@ -1257,14 +1608,17 @@ Sutter,36,Proposition 66,,,No,57
 Sutter,36,Proposition 66,,,Yes,126
 Sutter,36,Proposition 67,,,No,126
 Sutter,36,Proposition 67,,,Yes,65
+Sutter,36,State Assembly,3,DEM,Edward Ritchie,40
+Sutter,36,State Assembly,3,REP,James Gallagher,162
+Sutter,36,U.S. House,3,DEM,John Garamendi,86
+Sutter,36,U.S. House,3,REP,N Eugene Cleek,115
 Sutter,36,U.S. Senate,,DEM,Kamala D. Harris,98
 Sutter,36,U.S. Senate,,DEM,Loretta L. Sanchez,58
-Sutter,37,President,,REP/AI,Donald J. Trump,288
+Sutter,37,President,,REP,Donald J. Trump,288
 Sutter,37,President,,LIB,Gary Johnson,20
-Sutter,37,President,,PF,Gloria Estela La Riva,1
+Sutter,37,President,,PAF,Gloria Estela La Riva,1
 Sutter,37,President,,DEM,Hillary Clinton,114
 Sutter,37,President,,GRN,Jill Stein,2
-Sutter,37,President,,WI,Write-In,0
 Sutter,37,Proposition 51,,,No,248
 Sutter,37,Proposition 51,,,Yes,170
 Sutter,37,Proposition 52,,,No,186
@@ -1299,14 +1653,17 @@ Sutter,37,Proposition 66,,,No,173
 Sutter,37,Proposition 66,,,Yes,235
 Sutter,37,Proposition 67,,,No,296
 Sutter,37,Proposition 67,,,Yes,125
+Sutter,37,State Assembly,3,DEM,Edward Ritchie,92
+Sutter,37,State Assembly,3,REP,James Gallagher,334
+Sutter,37,U.S. House,3,DEM,John Garamendi,151
+Sutter,37,U.S. House,3,REP,N Eugene Cleek,272
 Sutter,37,U.S. Senate,,DEM,Kamala D. Harris,169
 Sutter,37,U.S. Senate,,DEM,Loretta L. Sanchez,139
-Sutter,38,President,,REP/AI,Donald J. Trump,228
+Sutter,38,President,,REP,Donald J. Trump,228
 Sutter,38,President,,LIB,Gary Johnson,36
-Sutter,38,President,,PF,Gloria Estela La Riva,1
+Sutter,38,President,,PAF,Gloria Estela La Riva,1
 Sutter,38,President,,DEM,Hillary Clinton,117
 Sutter,38,President,,GRN,Jill Stein,5
-Sutter,38,President,,WI,Write-In,0
 Sutter,38,Proposition 51,,,No,239
 Sutter,38,Proposition 51,,,Yes,138
 Sutter,38,Proposition 52,,,No,175
@@ -1341,14 +1698,17 @@ Sutter,38,Proposition 66,,,No,162
 Sutter,38,Proposition 66,,,Yes,212
 Sutter,38,Proposition 67,,,No,248
 Sutter,38,Proposition 67,,,Yes,132
+Sutter,38,State Assembly,3,DEM,Edward Ritchie,101
+Sutter,38,State Assembly,3,REP,James Gallagher,273
+Sutter,38,U.S. House,3,DEM,John Garamendi,146
+Sutter,38,U.S. House,3,REP,N Eugene Cleek,234
 Sutter,38,U.S. Senate,,DEM,Kamala D. Harris,143
 Sutter,38,U.S. Senate,,DEM,Loretta L. Sanchez,149
-Sutter,39,President,,REP/AI,Donald J. Trump,252
+Sutter,39,President,,REP,Donald J. Trump,252
 Sutter,39,President,,LIB,Gary Johnson,10
-Sutter,39,President,,PF,Gloria Estela La Riva,1
+Sutter,39,President,,PAF,Gloria Estela La Riva,1
 Sutter,39,President,,DEM,Hillary Clinton,115
 Sutter,39,President,,GRN,Jill Stein,3
-Sutter,39,President,,WI,Write-In,0
 Sutter,39,Proposition 51,,,No,250
 Sutter,39,Proposition 51,,,Yes,110
 Sutter,39,Proposition 52,,,No,191
@@ -1383,56 +1743,16 @@ Sutter,39,Proposition 66,,,No,152
 Sutter,39,Proposition 66,,,Yes,200
 Sutter,39,Proposition 67,,,No,265
 Sutter,39,Proposition 67,,,Yes,101
+Sutter,39,State Assembly,3,DEM,Edward Ritchie,80
+Sutter,39,State Assembly,3,REP,James Gallagher,285
+Sutter,39,U.S. House,3,DEM,John Garamendi,145
+Sutter,39,U.S. House,3,REP,N Eugene Cleek,225
 Sutter,39,U.S. Senate,,DEM,Kamala D. Harris,177
 Sutter,39,U.S. Senate,,DEM,Loretta L. Sanchez,114
-Sutter,4,President,,REP/AI,Donald J. Trump,927
-Sutter,4,President,,LIB,Gary Johnson,63
-Sutter,4,President,,PF,Gloria Estela La Riva,4
-Sutter,4,President,,DEM,Hillary Clinton,497
-Sutter,4,President,,GRN,Jill Stein,12
-Sutter,4,President,,WI,Write-In,0
-Sutter,4,Proposition 51,,,No,784
-Sutter,4,Proposition 51,,,Yes,664
-Sutter,4,Proposition 52,,,No,545
-Sutter,4,Proposition 52,,,Yes,906
-Sutter,4,Proposition 53,,,No,649
-Sutter,4,Proposition 53,,,Yes,761
-Sutter,4,Proposition 54,,,No,532
-Sutter,4,Proposition 54,,,Yes,878
-Sutter,4,Proposition 55,,,No,679
-Sutter,4,Proposition 55,,,Yes,776
-Sutter,4,Proposition 56,,,No,800
-Sutter,4,Proposition 56,,,Yes,681
-Sutter,4,Proposition 57,,,No,717
-Sutter,4,Proposition 57,,,Yes,735
-Sutter,4,Proposition 58,,,No,549
-Sutter,4,Proposition 58,,,Yes,895
-Sutter,4,Proposition 59,,,No,826
-Sutter,4,Proposition 59,,,Yes,545
-Sutter,4,Proposition 60,,,No,789
-Sutter,4,Proposition 60,,,Yes,637
-Sutter,4,Proposition 61,,,No,1019
-Sutter,4,Proposition 61,,,Yes,425
-Sutter,4,Proposition 62,,,No,1081
-Sutter,4,Proposition 62,,,Yes,371
-Sutter,4,Proposition 63,,,No,913
-Sutter,4,Proposition 63,,,Yes,544
-Sutter,4,Proposition 64,,,No,828
-Sutter,4,Proposition 64,,,Yes,656
-Sutter,4,Proposition 65,,,No,987
-Sutter,4,Proposition 65,,,Yes,472
-Sutter,4,Proposition 66,,,No,520
-Sutter,4,Proposition 66,,,Yes,878
-Sutter,4,Proposition 67,,,No,1002
-Sutter,4,Proposition 67,,,Yes,476
-Sutter,4,U.S. Senate,,DEM,Kamala D. Harris,698
-Sutter,4,U.S. Senate,,DEM,Loretta L. Sanchez,513
-Sutter,40,President,,REP/AI,Donald J. Trump,118
+Sutter,40,President,,REP,Donald J. Trump,118
 Sutter,40,President,,LIB,Gary Johnson,2
-Sutter,40,President,,PF,Gloria Estela La Riva,0
 Sutter,40,President,,DEM,Hillary Clinton,31
 Sutter,40,President,,GRN,Jill Stein,1
-Sutter,40,President,,WI,Write-In,0
 Sutter,40,Proposition 51,,,No,102
 Sutter,40,Proposition 51,,,Yes,51
 Sutter,40,Proposition 52,,,No,77
@@ -1467,14 +1787,15 @@ Sutter,40,Proposition 66,,,No,60
 Sutter,40,Proposition 66,,,Yes,88
 Sutter,40,Proposition 67,,,No,107
 Sutter,40,Proposition 67,,,Yes,47
+Sutter,40,State Assembly,3,DEM,Edward Ritchie,23
+Sutter,40,State Assembly,3,REP,James Gallagher,130
+Sutter,40,U.S. House,3,DEM,John Garamendi,45
+Sutter,40,U.S. House,3,REP,N Eugene Cleek,110
 Sutter,40,U.S. Senate,,DEM,Kamala D. Harris,68
 Sutter,40,U.S. Senate,,DEM,Loretta L. Sanchez,42
-Sutter,41,President,,REP/AI,Donald J. Trump,29
+Sutter,41,President,,REP,Donald J. Trump,29
 Sutter,41,President,,LIB,Gary Johnson,2
-Sutter,41,President,,PF,Gloria Estela La Riva,0
 Sutter,41,President,,DEM,Hillary Clinton,8
-Sutter,41,President,,GRN,Jill Stein,0
-Sutter,41,President,,WI,Write-In,0
 Sutter,41,Proposition 51,,,No,28
 Sutter,41,Proposition 51,,,Yes,8
 Sutter,41,Proposition 52,,,No,18
@@ -1509,14 +1830,17 @@ Sutter,41,Proposition 66,,,No,13
 Sutter,41,Proposition 66,,,Yes,20
 Sutter,41,Proposition 67,,,No,24
 Sutter,41,Proposition 67,,,Yes,11
+Sutter,41,State Assembly,3,DEM,Edward Ritchie,2
+Sutter,41,State Assembly,3,REP,James Gallagher,36
+Sutter,41,U.S. House,3,DEM,John Garamendi,14
+Sutter,41,U.S. House,3,REP,N Eugene Cleek,24
 Sutter,41,U.S. Senate,,DEM,Kamala D. Harris,10
 Sutter,41,U.S. Senate,,DEM,Loretta L. Sanchez,15
-Sutter,42,President,,REP/AI,Donald J. Trump,269
+Sutter,42,President,,REP,Donald J. Trump,269
 Sutter,42,President,,LIB,Gary Johnson,18
-Sutter,42,President,,PF,Gloria Estela La Riva,13
+Sutter,42,President,,PAF,Gloria Estela La Riva,13
 Sutter,42,President,,DEM,Hillary Clinton,306
 Sutter,42,President,,GRN,Jill Stein,8
-Sutter,42,President,,WI,Write-In,0
 Sutter,42,Proposition 51,,,No,279
 Sutter,42,Proposition 51,,,Yes,316
 Sutter,42,Proposition 52,,,No,206
@@ -1551,14 +1875,17 @@ Sutter,42,Proposition 66,,,No,249
 Sutter,42,Proposition 66,,,Yes,329
 Sutter,42,Proposition 67,,,No,386
 Sutter,42,Proposition 67,,,Yes,212
+Sutter,42,State Assembly,3,DEM,Edward Ritchie,252
+Sutter,42,State Assembly,3,REP,James Gallagher,333
+Sutter,42,U.S. House,3,DEM,John Garamendi,334
+Sutter,42,U.S. House,3,REP,N Eugene Cleek,261
 Sutter,42,U.S. Senate,,DEM,Kamala D. Harris,285
 Sutter,42,U.S. Senate,,DEM,Loretta L. Sanchez,222
-Sutter,43,President,,REP/AI,Donald J. Trump,288
+Sutter,43,President,,REP,Donald J. Trump,288
 Sutter,43,President,,LIB,Gary Johnson,26
-Sutter,43,President,,PF,Gloria Estela La Riva,10
+Sutter,43,President,,PAF,Gloria Estela La Riva,10
 Sutter,43,President,,DEM,Hillary Clinton,282
 Sutter,43,President,,GRN,Jill Stein,17
-Sutter,43,President,,WI,Write-In,0
 Sutter,43,Proposition 51,,,No,285
 Sutter,43,Proposition 51,,,Yes,318
 Sutter,43,Proposition 52,,,No,205
@@ -1593,14 +1920,17 @@ Sutter,43,Proposition 66,,,No,248
 Sutter,43,Proposition 66,,,Yes,330
 Sutter,43,Proposition 67,,,No,374
 Sutter,43,Proposition 67,,,Yes,241
+Sutter,43,State Assembly,3,DEM,Edward Ritchie,251
+Sutter,43,State Assembly,3,REP,James Gallagher,350
+Sutter,43,U.S. House,3,DEM,John Garamendi,336
+Sutter,43,U.S. House,3,REP,N Eugene Cleek,278
 Sutter,43,U.S. Senate,,DEM,Kamala D. Harris,255
 Sutter,43,U.S. Senate,,DEM,Loretta L. Sanchez,259
-Sutter,44,President,,REP/AI,Donald J. Trump,334
+Sutter,44,President,,REP,Donald J. Trump,334
 Sutter,44,President,,LIB,Gary Johnson,31
-Sutter,44,President,,PF,Gloria Estela La Riva,9
+Sutter,44,President,,PAF,Gloria Estela La Riva,9
 Sutter,44,President,,DEM,Hillary Clinton,244
 Sutter,44,President,,GRN,Jill Stein,20
-Sutter,44,President,,WI,Write-In,0
 Sutter,44,Proposition 51,,,No,313
 Sutter,44,Proposition 51,,,Yes,302
 Sutter,44,Proposition 52,,,No,231
@@ -1635,14 +1965,17 @@ Sutter,44,Proposition 66,,,No,259
 Sutter,44,Proposition 66,,,Yes,337
 Sutter,44,Proposition 67,,,No,399
 Sutter,44,Proposition 67,,,Yes,227
+Sutter,44,State Assembly,3,DEM,Edward Ritchie,203
+Sutter,44,State Assembly,3,REP,James Gallagher,415
+Sutter,44,U.S. House,3,DEM,John Garamendi,322
+Sutter,44,U.S. House,3,REP,N Eugene Cleek,309
 Sutter,44,U.S. Senate,,DEM,Kamala D. Harris,290
 Sutter,44,U.S. Senate,,DEM,Loretta L. Sanchez,248
-Sutter,45,President,,REP/AI,Donald J. Trump,226
+Sutter,45,President,,REP,Donald J. Trump,226
 Sutter,45,President,,LIB,Gary Johnson,27
-Sutter,45,President,,PF,Gloria Estela La Riva,3
+Sutter,45,President,,PAF,Gloria Estela La Riva,3
 Sutter,45,President,,DEM,Hillary Clinton,166
 Sutter,45,President,,GRN,Jill Stein,4
-Sutter,45,President,,WI,Write-In,0
 Sutter,45,Proposition 51,,,No,213
 Sutter,45,Proposition 51,,,Yes,203
 Sutter,45,Proposition 52,,,No,167
@@ -1677,14 +2010,17 @@ Sutter,45,Proposition 66,,,No,153
 Sutter,45,Proposition 66,,,Yes,242
 Sutter,45,Proposition 67,,,No,269
 Sutter,45,Proposition 67,,,Yes,148
+Sutter,45,State Assembly,3,DEM,Edward Ritchie,157
+Sutter,45,State Assembly,3,REP,James Gallagher,257
+Sutter,45,U.S. House,3,DEM,John Garamendi,209
+Sutter,45,U.S. House,3,REP,N Eugene Cleek,212
 Sutter,45,U.S. Senate,,DEM,Kamala D. Harris,181
 Sutter,45,U.S. Senate,,DEM,Loretta L. Sanchez,147
-Sutter,46,President,,REP/AI,Donald J. Trump,187
+Sutter,46,President,,REP,Donald J. Trump,187
 Sutter,46,President,,LIB,Gary Johnson,11
-Sutter,46,President,,PF,Gloria Estela La Riva,4
+Sutter,46,President,,PAF,Gloria Estela La Riva,4
 Sutter,46,President,,DEM,Hillary Clinton,134
 Sutter,46,President,,GRN,Jill Stein,4
-Sutter,46,President,,WI,Write-In,0
 Sutter,46,Proposition 51,,,No,163
 Sutter,46,Proposition 51,,,Yes,160
 Sutter,46,Proposition 52,,,No,134
@@ -1719,14 +2055,17 @@ Sutter,46,Proposition 66,,,No,137
 Sutter,46,Proposition 66,,,Yes,179
 Sutter,46,Proposition 67,,,No,207
 Sutter,46,Proposition 67,,,Yes,116
+Sutter,46,State Assembly,3,DEM,Edward Ritchie,99
+Sutter,46,State Assembly,3,REP,James Gallagher,223
+Sutter,46,U.S. House,3,DEM,John Garamendi,149
+Sutter,46,U.S. House,3,REP,N Eugene Cleek,179
 Sutter,46,U.S. Senate,,DEM,Kamala D. Harris,139
 Sutter,46,U.S. Senate,,DEM,Loretta L. Sanchez,114
-Sutter,47,President,,REP/AI,Donald J. Trump,340
+Sutter,47,President,,REP,Donald J. Trump,340
 Sutter,47,President,,LIB,Gary Johnson,24
-Sutter,47,President,,PF,Gloria Estela La Riva,6
+Sutter,47,President,,PAF,Gloria Estela La Riva,6
 Sutter,47,President,,DEM,Hillary Clinton,354
 Sutter,47,President,,GRN,Jill Stein,16
-Sutter,47,President,,WI,Write-In,0
 Sutter,47,Proposition 51,,,No,334
 Sutter,47,Proposition 51,,,Yes,376
 Sutter,47,Proposition 52,,,No,301
@@ -1761,14 +2100,15 @@ Sutter,47,Proposition 66,,,No,275
 Sutter,47,Proposition 66,,,Yes,405
 Sutter,47,Proposition 67,,,No,414
 Sutter,47,Proposition 67,,,Yes,300
+Sutter,47,State Assembly,3,DEM,Edward Ritchie,287
+Sutter,47,State Assembly,3,REP,James Gallagher,418
+Sutter,47,U.S. House,3,DEM,John Garamendi,415
+Sutter,47,U.S. House,3,REP,N Eugene Cleek,308
 Sutter,47,U.S. Senate,,DEM,Kamala D. Harris,393
 Sutter,47,U.S. Senate,,DEM,Loretta L. Sanchez,238
-Sutter,48,President,,REP/AI,Donald J. Trump,43
+Sutter,48,President,,REP,Donald J. Trump,43
 Sutter,48,President,,LIB,Gary Johnson,5
-Sutter,48,President,,PF,Gloria Estela La Riva,0
 Sutter,48,President,,DEM,Hillary Clinton,7
-Sutter,48,President,,GRN,Jill Stein,0
-Sutter,48,President,,WI,Write-In,0
 Sutter,48,Proposition 51,,,No,33
 Sutter,48,Proposition 51,,,Yes,26
 Sutter,48,Proposition 52,,,No,30
@@ -1803,14 +2143,17 @@ Sutter,48,Proposition 66,,,No,16
 Sutter,48,Proposition 66,,,Yes,36
 Sutter,48,Proposition 67,,,No,44
 Sutter,48,Proposition 67,,,Yes,13
+Sutter,48,State Assembly,3,DEM,Edward Ritchie,10
+Sutter,48,State Assembly,3,REP,James Gallagher,49
+Sutter,48,U.S. House,3,DEM,John Garamendi,14
+Sutter,48,U.S. House,3,REP,N Eugene Cleek,42
 Sutter,48,U.S. Senate,,DEM,Kamala D. Harris,17
 Sutter,48,U.S. Senate,,DEM,Loretta L. Sanchez,20
-Sutter,49,President,,REP/AI,Donald J. Trump,426
+Sutter,49,President,,REP,Donald J. Trump,426
 Sutter,49,President,,LIB,Gary Johnson,29
-Sutter,49,President,,PF,Gloria Estela La Riva,5
+Sutter,49,President,,PAF,Gloria Estela La Riva,5
 Sutter,49,President,,DEM,Hillary Clinton,200
 Sutter,49,President,,GRN,Jill Stein,7
-Sutter,49,President,,WI,Write-In,0
 Sutter,49,Proposition 51,,,No,376
 Sutter,49,Proposition 51,,,Yes,286
 Sutter,49,Proposition 52,,,No,264
@@ -1845,56 +2188,17 @@ Sutter,49,Proposition 66,,,No,240
 Sutter,49,Proposition 66,,,Yes,393
 Sutter,49,Proposition 67,,,No,464
 Sutter,49,Proposition 67,,,Yes,205
+Sutter,49,State Assembly,3,DEM,Edward Ritchie,147
+Sutter,49,State Assembly,3,REP,James Gallagher,520
+Sutter,49,U.S. House,3,DEM,John Garamendi,273
+Sutter,49,U.S. House,3,REP,N Eugene Cleek,402
 Sutter,49,U.S. Senate,,DEM,Kamala D. Harris,305
 Sutter,49,U.S. Senate,,DEM,Loretta L. Sanchez,207
-Sutter,5,President,,REP/AI,Donald J. Trump,522
-Sutter,5,President,,LIB,Gary Johnson,67
-Sutter,5,President,,PF,Gloria Estela La Riva,9
-Sutter,5,President,,DEM,Hillary Clinton,364
-Sutter,5,President,,GRN,Jill Stein,16
-Sutter,5,President,,WI,Write-In,0
-Sutter,5,Proposition 51,,,No,489
-Sutter,5,Proposition 51,,,Yes,466
-Sutter,5,Proposition 52,,,No,375
-Sutter,5,Proposition 52,,,Yes,577
-Sutter,5,Proposition 53,,,No,452
-Sutter,5,Proposition 53,,,Yes,478
-Sutter,5,Proposition 54,,,No,334
-Sutter,5,Proposition 54,,,Yes,593
-Sutter,5,Proposition 55,,,No,386
-Sutter,5,Proposition 55,,,Yes,557
-Sutter,5,Proposition 56,,,No,575
-Sutter,5,Proposition 56,,,Yes,396
-Sutter,5,Proposition 57,,,No,482
-Sutter,5,Proposition 57,,,Yes,478
-Sutter,5,Proposition 58,,,No,317
-Sutter,5,Proposition 58,,,Yes,645
-Sutter,5,Proposition 59,,,No,536
-Sutter,5,Proposition 59,,,Yes,371
-Sutter,5,Proposition 60,,,No,504
-Sutter,5,Proposition 60,,,Yes,431
-Sutter,5,Proposition 61,,,No,651
-Sutter,5,Proposition 61,,,Yes,304
-Sutter,5,Proposition 62,,,No,674
-Sutter,5,Proposition 62,,,Yes,281
-Sutter,5,Proposition 63,,,No,608
-Sutter,5,Proposition 63,,,Yes,348
-Sutter,5,Proposition 64,,,No,503
-Sutter,5,Proposition 64,,,Yes,472
-Sutter,5,Proposition 65,,,No,642
-Sutter,5,Proposition 65,,,Yes,311
-Sutter,5,Proposition 66,,,No,381
-Sutter,5,Proposition 66,,,Yes,539
-Sutter,5,Proposition 67,,,No,637
-Sutter,5,Proposition 67,,,Yes,312
-Sutter,5,U.S. Senate,,DEM,Kamala D. Harris,462
-Sutter,5,U.S. Senate,,DEM,Loretta L. Sanchez,360
-Sutter,50,President,,REP/AI,Donald J. Trump,132
+Sutter,50,President,,REP,Donald J. Trump,132
 Sutter,50,President,,LIB,Gary Johnson,7
-Sutter,50,President,,PF,Gloria Estela La Riva,2
+Sutter,50,President,,PAF,Gloria Estela La Riva,2
 Sutter,50,President,,DEM,Hillary Clinton,57
 Sutter,50,President,,GRN,Jill Stein,2
-Sutter,50,President,,WI,Write-In,0
 Sutter,50,Proposition 51,,,No,135
 Sutter,50,Proposition 51,,,Yes,60
 Sutter,50,Proposition 52,,,No,92
@@ -1929,14 +2233,16 @@ Sutter,50,Proposition 66,,,No,82
 Sutter,50,Proposition 66,,,Yes,106
 Sutter,50,Proposition 67,,,No,154
 Sutter,50,Proposition 67,,,Yes,40
+Sutter,50,State Assembly,3,DEM,Edward Ritchie,41
+Sutter,50,State Assembly,3,REP,James Gallagher,156
+Sutter,50,U.S. House,3,DEM,John Garamendi,80
+Sutter,50,U.S. House,3,REP,N Eugene Cleek,121
 Sutter,50,U.S. Senate,,DEM,Kamala D. Harris,71
 Sutter,50,U.S. Senate,,DEM,Loretta L. Sanchez,76
-Sutter,51,President,,REP/AI,Donald J. Trump,52
+Sutter,51,President,,REP,Donald J. Trump,52
 Sutter,51,President,,LIB,Gary Johnson,1
-Sutter,51,President,,PF,Gloria Estela La Riva,0
 Sutter,51,President,,DEM,Hillary Clinton,28
 Sutter,51,President,,GRN,Jill Stein,1
-Sutter,51,President,,WI,Write-In,0
 Sutter,51,Proposition 51,,,No,35
 Sutter,51,Proposition 51,,,Yes,42
 Sutter,51,Proposition 52,,,No,29
@@ -1971,173 +2277,9 @@ Sutter,51,Proposition 66,,,No,39
 Sutter,51,Proposition 66,,,Yes,36
 Sutter,51,Proposition 67,,,No,57
 Sutter,51,Proposition 67,,,Yes,21
+Sutter,51,State Assembly,3,DEM,Edward Ritchie,23
+Sutter,51,State Assembly,3,REP,James Gallagher,51
+Sutter,51,U.S. House,3,DEM,John Garamendi,32
+Sutter,51,U.S. House,3,REP,N Eugene Cleek,44
 Sutter,51,U.S. Senate,,DEM,Kamala D. Harris,29
 Sutter,51,U.S. Senate,,DEM,Loretta L. Sanchez,38
-Sutter,6,President,,REP/AI,Donald J. Trump,134
-Sutter,6,President,,LIB,Gary Johnson,12
-Sutter,6,President,,PF,Gloria Estela La Riva,0
-Sutter,6,President,,DEM,Hillary Clinton,72
-Sutter,6,President,,GRN,Jill Stein,7
-Sutter,6,President,,WI,Write-In,0
-Sutter,6,Proposition 51,,,No,138
-Sutter,6,Proposition 51,,,Yes,82
-Sutter,6,Proposition 52,,,No,91
-Sutter,6,Proposition 52,,,Yes,129
-Sutter,6,Proposition 53,,,No,94
-Sutter,6,Proposition 53,,,Yes,125
-Sutter,6,Proposition 54,,,No,69
-Sutter,6,Proposition 54,,,Yes,147
-Sutter,6,Proposition 55,,,No,117
-Sutter,6,Proposition 55,,,Yes,106
-Sutter,6,Proposition 56,,,No,101
-Sutter,6,Proposition 56,,,Yes,123
-Sutter,6,Proposition 57,,,No,112
-Sutter,6,Proposition 57,,,Yes,105
-Sutter,6,Proposition 58,,,No,74
-Sutter,6,Proposition 58,,,Yes,147
-Sutter,6,Proposition 59,,,No,120
-Sutter,6,Proposition 59,,,Yes,91
-Sutter,6,Proposition 60,,,No,131
-Sutter,6,Proposition 60,,,Yes,85
-Sutter,6,Proposition 61,,,No,142
-Sutter,6,Proposition 61,,,Yes,79
-Sutter,6,Proposition 62,,,No,153
-Sutter,6,Proposition 62,,,Yes,63
-Sutter,6,Proposition 63,,,No,142
-Sutter,6,Proposition 63,,,Yes,80
-Sutter,6,Proposition 64,,,No,108
-Sutter,6,Proposition 64,,,Yes,116
-Sutter,6,Proposition 65,,,No,135
-Sutter,6,Proposition 65,,,Yes,85
-Sutter,6,Proposition 66,,,No,88
-Sutter,6,Proposition 66,,,Yes,120
-Sutter,6,Proposition 67,,,No,132
-Sutter,6,Proposition 67,,,Yes,85
-Sutter,6,U.S. Senate,,DEM,Kamala D. Harris,103
-Sutter,6,U.S. Senate,,DEM,Loretta L. Sanchez,80
-Sutter,7,President,,REP/AI,Donald J. Trump,168
-Sutter,7,President,,LIB,Gary Johnson,12
-Sutter,7,President,,PF,Gloria Estela La Riva,3
-Sutter,7,President,,DEM,Hillary Clinton,175
-Sutter,7,President,,GRN,Jill Stein,7
-Sutter,7,President,,WI,Write-In,0
-Sutter,7,Proposition 51,,,No,142
-Sutter,7,Proposition 51,,,Yes,197
-Sutter,7,Proposition 52,,,No,111
-Sutter,7,Proposition 52,,,Yes,231
-Sutter,7,Proposition 53,,,No,150
-Sutter,7,Proposition 53,,,Yes,184
-Sutter,7,Proposition 54,,,No,96
-Sutter,7,Proposition 54,,,Yes,239
-Sutter,7,Proposition 55,,,No,120
-Sutter,7,Proposition 55,,,Yes,227
-Sutter,7,Proposition 56,,,No,179
-Sutter,7,Proposition 56,,,Yes,182
-Sutter,7,Proposition 57,,,No,118
-Sutter,7,Proposition 57,,,Yes,230
-Sutter,7,Proposition 58,,,No,92
-Sutter,7,Proposition 58,,,Yes,258
-Sutter,7,Proposition 59,,,No,178
-Sutter,7,Proposition 59,,,Yes,145
-Sutter,7,Proposition 60,,,No,148
-Sutter,7,Proposition 60,,,Yes,196
-Sutter,7,Proposition 61,,,No,231
-Sutter,7,Proposition 61,,,Yes,121
-Sutter,7,Proposition 62,,,No,230
-Sutter,7,Proposition 62,,,Yes,121
-Sutter,7,Proposition 63,,,No,165
-Sutter,7,Proposition 63,,,Yes,186
-Sutter,7,Proposition 64,,,No,158
-Sutter,7,Proposition 64,,,Yes,198
-Sutter,7,Proposition 65,,,No,201
-Sutter,7,Proposition 65,,,Yes,148
-Sutter,7,Proposition 66,,,No,135
-Sutter,7,Proposition 66,,,Yes,186
-Sutter,7,Proposition 67,,,No,208
-Sutter,7,Proposition 67,,,Yes,135
-Sutter,7,U.S. Senate,,DEM,Kamala D. Harris,162
-Sutter,7,U.S. Senate,,DEM,Loretta L. Sanchez,139
-Sutter,8,President,,REP/AI,Donald J. Trump,148
-Sutter,8,President,,LIB,Gary Johnson,12
-Sutter,8,President,,PF,Gloria Estela La Riva,6
-Sutter,8,President,,DEM,Hillary Clinton,276
-Sutter,8,President,,GRN,Jill Stein,8
-Sutter,8,President,,WI,Write-In,0
-Sutter,8,Proposition 51,,,No,165
-Sutter,8,Proposition 51,,,Yes,259
-Sutter,8,Proposition 52,,,No,151
-Sutter,8,Proposition 52,,,Yes,273
-Sutter,8,Proposition 53,,,No,207
-Sutter,8,Proposition 53,,,Yes,208
-Sutter,8,Proposition 54,,,No,152
-Sutter,8,Proposition 54,,,Yes,260
-Sutter,8,Proposition 55,,,No,148
-Sutter,8,Proposition 55,,,Yes,275
-Sutter,8,Proposition 56,,,No,192
-Sutter,8,Proposition 56,,,Yes,245
-Sutter,8,Proposition 57,,,No,147
-Sutter,8,Proposition 57,,,Yes,285
-Sutter,8,Proposition 58,,,No,104
-Sutter,8,Proposition 58,,,Yes,316
-Sutter,8,Proposition 59,,,No,215
-Sutter,8,Proposition 59,,,Yes,188
-Sutter,8,Proposition 60,,,No,211
-Sutter,8,Proposition 60,,,Yes,207
-Sutter,8,Proposition 61,,,No,259
-Sutter,8,Proposition 61,,,Yes,166
-Sutter,8,Proposition 62,,,No,262
-Sutter,8,Proposition 62,,,Yes,163
-Sutter,8,Proposition 63,,,No,210
-Sutter,8,Proposition 63,,,Yes,222
-Sutter,8,Proposition 64,,,No,184
-Sutter,8,Proposition 64,,,Yes,253
-Sutter,8,Proposition 65,,,No,262
-Sutter,8,Proposition 65,,,Yes,154
-Sutter,8,Proposition 66,,,No,226
-Sutter,8,Proposition 66,,,Yes,189
-Sutter,8,Proposition 67,,,No,262
-Sutter,8,Proposition 67,,,Yes,159
-Sutter,8,U.S. Senate,,DEM,Kamala D. Harris,161
-Sutter,8,U.S. Senate,,DEM,Loretta L. Sanchez,252
-Sutter,9,President,,REP/AI,Donald J. Trump,288
-Sutter,9,President,,LIB,Gary Johnson,41
-Sutter,9,President,,PF,Gloria Estela La Riva,2
-Sutter,9,President,,DEM,Hillary Clinton,214
-Sutter,9,President,,GRN,Jill Stein,13
-Sutter,9,President,,WI,Write-In,0
-Sutter,9,Proposition 51,,,No,255
-Sutter,9,Proposition 51,,,Yes,290
-Sutter,9,Proposition 52,,,No,180
-Sutter,9,Proposition 52,,,Yes,351
-Sutter,9,Proposition 53,,,No,227
-Sutter,9,Proposition 53,,,Yes,297
-Sutter,9,Proposition 54,,,No,203
-Sutter,9,Proposition 54,,,Yes,324
-Sutter,9,Proposition 55,,,No,237
-Sutter,9,Proposition 55,,,Yes,295
-Sutter,9,Proposition 56,,,No,313
-Sutter,9,Proposition 56,,,Yes,241
-Sutter,9,Proposition 57,,,No,253
-Sutter,9,Proposition 57,,,Yes,290
-Sutter,9,Proposition 58,,,No,198
-Sutter,9,Proposition 58,,,Yes,348
-Sutter,9,Proposition 59,,,No,305
-Sutter,9,Proposition 59,,,Yes,202
-Sutter,9,Proposition 60,,,No,336
-Sutter,9,Proposition 60,,,Yes,196
-Sutter,9,Proposition 61,,,No,345
-Sutter,9,Proposition 61,,,Yes,194
-Sutter,9,Proposition 62,,,No,375
-Sutter,9,Proposition 62,,,Yes,164
-Sutter,9,Proposition 63,,,No,355
-Sutter,9,Proposition 63,,,Yes,193
-Sutter,9,Proposition 64,,,No,247
-Sutter,9,Proposition 64,,,Yes,307
-Sutter,9,Proposition 65,,,No,344
-Sutter,9,Proposition 65,,,Yes,196
-Sutter,9,Proposition 66,,,No,207
-Sutter,9,Proposition 66,,,Yes,315
-Sutter,9,Proposition 67,,,No,325
-Sutter,9,Proposition 67,,,Yes,216
-Sutter,9,U.S. Senate,,DEM,Kamala D. Harris,271
-Sutter,9,U.S. Senate,,DEM,Loretta L. Sanchez,191
