@@ -1,0 +1,391 @@
+county,precinct,office,district,party,candidate,votes
+Los Angeles,0850001A,U.S. House,34,DEM,Jimmy Gomez,309
+Los Angeles,0850001A,U.S. House,34,DEM,Robert Lee Ahn,28
+Los Angeles,0850012A,U.S. House,34,DEM,Jimmy Gomez,151
+Los Angeles,0850012A,U.S. House,34,DEM,Robert Lee Ahn,31
+Los Angeles,0850037A,U.S. House,34,DEM,Jimmy Gomez,151
+Los Angeles,0850037A,U.S. House,34,DEM,Robert Lee Ahn,11
+Los Angeles,0850061A,U.S. House,34,DEM,Jimmy Gomez,239
+Los Angeles,0850061A,U.S. House,34,DEM,Robert Lee Ahn,39
+Los Angeles,9000010C,U.S. House,34,DEM,Jimmy Gomez,209
+Los Angeles,9000010C,U.S. House,34,DEM,Robert Lee Ahn,43
+Los Angeles,9000014A,U.S. House,34,DEM,Jimmy Gomez,177
+Los Angeles,9000014A,U.S. House,34,DEM,Robert Lee Ahn,83
+Los Angeles,9000038C,U.S. House,34,DEM,Jimmy Gomez,114
+Los Angeles,9000038C,U.S. House,34,DEM,Robert Lee Ahn,18
+Los Angeles,9000053A,U.S. House,34,DEM,Jimmy Gomez,68
+Los Angeles,9000053A,U.S. House,34,DEM,Robert Lee Ahn,25
+Los Angeles,9000055A,U.S. House,34,DEM,Jimmy Gomez,266
+Los Angeles,9000055A,U.S. House,34,DEM,Robert Lee Ahn,97
+Los Angeles,9000243A,U.S. House,34,DEM,Jimmy Gomez,121
+Los Angeles,9000243A,U.S. House,34,DEM,Robert Lee Ahn,20
+Los Angeles,9000244A,U.S. House,34,DEM,Jimmy Gomez,148
+Los Angeles,9000244A,U.S. House,34,DEM,Robert Lee Ahn,17
+Los Angeles,9000249A,U.S. House,34,DEM,Jimmy Gomez,116
+Los Angeles,9000249A,U.S. House,34,DEM,Robert Lee Ahn,19
+Los Angeles,9000273B,U.S. House,34,DEM,Jimmy Gomez,116
+Los Angeles,9000273B,U.S. House,34,DEM,Robert Lee Ahn,16
+Los Angeles,9000274B,U.S. House,34,DEM,Jimmy Gomez,87
+Los Angeles,9000274B,U.S. House,34,DEM,Robert Lee Ahn,13
+Los Angeles,9000275A,U.S. House,34,DEM,Jimmy Gomez,49
+Los Angeles,9000275A,U.S. House,34,DEM,Robert Lee Ahn,5
+Los Angeles,9000319C,U.S. House,34,DEM,Jimmy Gomez,111
+Los Angeles,9000319C,U.S. House,34,DEM,Robert Lee Ahn,55
+Los Angeles,9000323A,U.S. House,34,DEM,Jimmy Gomez,191
+Los Angeles,9000323A,U.S. House,34,DEM,Robert Lee Ahn,84
+Los Angeles,9000336B,U.S. House,34,DEM,Jimmy Gomez,96
+Los Angeles,9000336B,U.S. House,34,DEM,Robert Lee Ahn,28
+Los Angeles,9000368C,U.S. House,34,DEM,Jimmy Gomez,202
+Los Angeles,9000368C,U.S. House,34,DEM,Robert Lee Ahn,41
+Los Angeles,9000371A,U.S. House,34,DEM,Jimmy Gomez,165
+Los Angeles,9000371A,U.S. House,34,DEM,Robert Lee Ahn,92
+Los Angeles,9000380A,U.S. House,34,DEM,Jimmy Gomez,231
+Los Angeles,9000380A,U.S. House,34,DEM,Robert Lee Ahn,83
+Los Angeles,9000437A,U.S. House,34,DEM,Jimmy Gomez,209
+Los Angeles,9000437A,U.S. House,34,DEM,Robert Lee Ahn,45
+Los Angeles,9000464B,U.S. House,34,DEM,Jimmy Gomez,132
+Los Angeles,9000464B,U.S. House,34,DEM,Robert Lee Ahn,198
+Los Angeles,9000493A,U.S. House,34,DEM,Jimmy Gomez,95
+Los Angeles,9000493A,U.S. House,34,DEM,Robert Lee Ahn,48
+Los Angeles,9000501A,U.S. House,34,DEM,Jimmy Gomez,201
+Los Angeles,9000501A,U.S. House,34,DEM,Robert Lee Ahn,72
+Los Angeles,9000502A,U.S. House,34,DEM,Jimmy Gomez,110
+Los Angeles,9000502A,U.S. House,34,DEM,Robert Lee Ahn,78
+Los Angeles,9000513A,U.S. House,34,DEM,Jimmy Gomez,190
+Los Angeles,9000513A,U.S. House,34,DEM,Robert Lee Ahn,81
+Los Angeles,9000515A,U.S. House,34,DEM,Jimmy Gomez,205
+Los Angeles,9000515A,U.S. House,34,DEM,Robert Lee Ahn,43
+Los Angeles,9000517A,U.S. House,34,DEM,Jimmy Gomez,131
+Los Angeles,9000517A,U.S. House,34,DEM,Robert Lee Ahn,175
+Los Angeles,9000536B,U.S. House,34,DEM,Jimmy Gomez,153
+Los Angeles,9000536B,U.S. House,34,DEM,Robert Lee Ahn,32
+Los Angeles,9000560A,U.S. House,34,DEM,Jimmy Gomez,162
+Los Angeles,9000560A,U.S. House,34,DEM,Robert Lee Ahn,131
+Los Angeles,9000585A,U.S. House,34,DEM,Jimmy Gomez,110
+Los Angeles,9000585A,U.S. House,34,DEM,Robert Lee Ahn,13
+Los Angeles,9000589A,U.S. House,34,DEM,Jimmy Gomez,196
+Los Angeles,9000589A,U.S. House,34,DEM,Robert Lee Ahn,89
+Los Angeles,9000593A,U.S. House,34,DEM,Jimmy Gomez,186
+Los Angeles,9000593A,U.S. House,34,DEM,Robert Lee Ahn,46
+Los Angeles,9000595A,U.S. House,34,DEM,Jimmy Gomez,179
+Los Angeles,9000595A,U.S. House,34,DEM,Robert Lee Ahn,29
+Los Angeles,9000598A,U.S. House,34,DEM,Jimmy Gomez,106
+Los Angeles,9000598A,U.S. House,34,DEM,Robert Lee Ahn,25
+Los Angeles,9000605B,U.S. House,34,DEM,Jimmy Gomez,58
+Los Angeles,9000605B,U.S. House,34,DEM,Robert Lee Ahn,49
+Los Angeles,9000731A,U.S. House,34,DEM,Jimmy Gomez,65
+Los Angeles,9000731A,U.S. House,34,DEM,Robert Lee Ahn,175
+Los Angeles,9000760A,U.S. House,34,DEM,Jimmy Gomez,266
+Los Angeles,9000760A,U.S. House,34,DEM,Robert Lee Ahn,121
+Los Angeles,9000766A,U.S. House,34,DEM,Jimmy Gomez,112
+Los Angeles,9000766A,U.S. House,34,DEM,Robert Lee Ahn,50
+Los Angeles,9000774B,U.S. House,34,DEM,Jimmy Gomez,192
+Los Angeles,9000774B,U.S. House,34,DEM,Robert Lee Ahn,66
+Los Angeles,9000779A,U.S. House,34,DEM,Jimmy Gomez,159
+Los Angeles,9000779A,U.S. House,34,DEM,Robert Lee Ahn,38
+Los Angeles,9000788A,U.S. House,34,DEM,Jimmy Gomez,195
+Los Angeles,9000788A,U.S. House,34,DEM,Robert Lee Ahn,63
+Los Angeles,9000789C,U.S. House,34,DEM,Jimmy Gomez,71
+Los Angeles,9000789C,U.S. House,34,DEM,Robert Lee Ahn,31
+Los Angeles,9000800A,U.S. House,34,DEM,Jimmy Gomez,182
+Los Angeles,9000800A,U.S. House,34,DEM,Robert Lee Ahn,78
+Los Angeles,9000816A,U.S. House,34,DEM,Jimmy Gomez,106
+Los Angeles,9000816A,U.S. House,34,DEM,Robert Lee Ahn,23
+Los Angeles,9000818A,U.S. House,34,DEM,Jimmy Gomez,240
+Los Angeles,9000818A,U.S. House,34,DEM,Robert Lee Ahn,38
+Los Angeles,9000821A,U.S. House,34,DEM,Jimmy Gomez,172
+Los Angeles,9000821A,U.S. House,34,DEM,Robert Lee Ahn,51
+Los Angeles,9000830A,U.S. House,34,DEM,Jimmy Gomez,162
+Los Angeles,9000830A,U.S. House,34,DEM,Robert Lee Ahn,46
+Los Angeles,9000833D,U.S. House,34,DEM,Jimmy Gomez,163
+Los Angeles,9000833D,U.S. House,34,DEM,Robert Lee Ahn,36
+Los Angeles,9000835A,U.S. House,34,DEM,Jimmy Gomez,305
+Los Angeles,9000835A,U.S. House,34,DEM,Robert Lee Ahn,50
+Los Angeles,9000843A,U.S. House,34,DEM,Jimmy Gomez,234
+Los Angeles,9000843A,U.S. House,34,DEM,Robert Lee Ahn,105
+Los Angeles,9000856A,U.S. House,34,DEM,Jimmy Gomez,202
+Los Angeles,9000856A,U.S. House,34,DEM,Robert Lee Ahn,44
+Los Angeles,9000878A,U.S. House,34,DEM,Jimmy Gomez,217
+Los Angeles,9000878A,U.S. House,34,DEM,Robert Lee Ahn,63
+Los Angeles,9000882A,U.S. House,34,DEM,Jimmy Gomez,178
+Los Angeles,9000882A,U.S. House,34,DEM,Robert Lee Ahn,81
+Los Angeles,9000884B,U.S. House,34,DEM,Jimmy Gomez,124
+Los Angeles,9000884B,U.S. House,34,DEM,Robert Lee Ahn,433
+Los Angeles,9000885A,U.S. House,34,DEM,Jimmy Gomez,231
+Los Angeles,9000885A,U.S. House,34,DEM,Robert Lee Ahn,45
+Los Angeles,9000887B,U.S. House,34,DEM,Jimmy Gomez,183
+Los Angeles,9000887B,U.S. House,34,DEM,Robert Lee Ahn,42
+Los Angeles,9000900A,U.S. House,34,DEM,Jimmy Gomez,175
+Los Angeles,9000900A,U.S. House,34,DEM,Robert Lee Ahn,45
+Los Angeles,9000902B,U.S. House,34,DEM,Jimmy Gomez,167
+Los Angeles,9000902B,U.S. House,34,DEM,Robert Lee Ahn,27
+Los Angeles,9000903B,U.S. House,34,DEM,Jimmy Gomez,73
+Los Angeles,9000903B,U.S. House,34,DEM,Robert Lee Ahn,140
+Los Angeles,9000904A,U.S. House,34,DEM,Jimmy Gomez,135
+Los Angeles,9000904A,U.S. House,34,DEM,Robert Lee Ahn,20
+Los Angeles,9000907A,U.S. House,34,DEM,Jimmy Gomez,191
+Los Angeles,9000907A,U.S. House,34,DEM,Robert Lee Ahn,52
+Los Angeles,9000913D,U.S. House,34,DEM,Jimmy Gomez,129
+Los Angeles,9000913D,U.S. House,34,DEM,Robert Lee Ahn,28
+Los Angeles,9000916A,U.S. House,34,DEM,Jimmy Gomez,194
+Los Angeles,9000916A,U.S. House,34,DEM,Robert Lee Ahn,32
+Los Angeles,9000922B,U.S. House,34,DEM,Jimmy Gomez,146
+Los Angeles,9000922B,U.S. House,34,DEM,Robert Lee Ahn,30
+Los Angeles,9000927A,U.S. House,34,DEM,Jimmy Gomez,108
+Los Angeles,9000927A,U.S. House,34,DEM,Robert Lee Ahn,40
+Los Angeles,9000929A,U.S. House,34,DEM,Jimmy Gomez,145
+Los Angeles,9000929A,U.S. House,34,DEM,Robert Lee Ahn,37
+Los Angeles,9000957C,U.S. House,34,DEM,Jimmy Gomez,89
+Los Angeles,9000957C,U.S. House,34,DEM,Robert Lee Ahn,239
+Los Angeles,9000961A,U.S. House,34,DEM,Jimmy Gomez,44
+Los Angeles,9000961A,U.S. House,34,DEM,Robert Lee Ahn,9
+Los Angeles,9000968A,U.S. House,34,DEM,Jimmy Gomez,96
+Los Angeles,9000968A,U.S. House,34,DEM,Robert Lee Ahn,262
+Los Angeles,9000971A,U.S. House,34,DEM,Jimmy Gomez,96
+Los Angeles,9000971A,U.S. House,34,DEM,Robert Lee Ahn,132
+Los Angeles,9000989A,U.S. House,34,DEM,Jimmy Gomez,73
+Los Angeles,9000989A,U.S. House,34,DEM,Robert Lee Ahn,280
+Los Angeles,9000989C,U.S. House,34,DEM,Jimmy Gomez,82
+Los Angeles,9000989C,U.S. House,34,DEM,Robert Lee Ahn,131
+Los Angeles,9000999A,U.S. House,34,DEM,Jimmy Gomez,64
+Los Angeles,9000999A,U.S. House,34,DEM,Robert Lee Ahn,141
+Los Angeles,9000999B,U.S. House,34,DEM,Jimmy Gomez,98
+Los Angeles,9000999B,U.S. House,34,DEM,Robert Lee Ahn,333
+Los Angeles,9001008A,U.S. House,34,DEM,Jimmy Gomez,53
+Los Angeles,9001008A,U.S. House,34,DEM,Robert Lee Ahn,212
+Los Angeles,9001008C,U.S. House,34,DEM,Jimmy Gomez,108
+Los Angeles,9001008C,U.S. House,34,DEM,Robert Lee Ahn,119
+Los Angeles,9001014A,U.S. House,34,DEM,Jimmy Gomez,76
+Los Angeles,9001014A,U.S. House,34,DEM,Robert Lee Ahn,80
+Los Angeles,9001023A,U.S. House,34,DEM,Jimmy Gomez,132
+Los Angeles,9001023A,U.S. House,34,DEM,Robert Lee Ahn,83
+Los Angeles,9001047B,U.S. House,34,DEM,Jimmy Gomez,107
+Los Angeles,9001047B,U.S. House,34,DEM,Robert Lee Ahn,73
+Los Angeles,9001104A,U.S. House,34,DEM,Jimmy Gomez,200
+Los Angeles,9001104A,U.S. House,34,DEM,Robert Lee Ahn,22
+Los Angeles,9001114A,U.S. House,34,DEM,Jimmy Gomez,84
+Los Angeles,9001114A,U.S. House,34,DEM,Robert Lee Ahn,222
+Los Angeles,9001210A,U.S. House,34,DEM,Jimmy Gomez,111
+Los Angeles,9001210A,U.S. House,34,DEM,Robert Lee Ahn,36
+Los Angeles,9001280A,U.S. House,34,DEM,Jimmy Gomez,134
+Los Angeles,9001280A,U.S. House,34,DEM,Robert Lee Ahn,80
+Los Angeles,9001309A,U.S. House,34,DEM,Jimmy Gomez,107
+Los Angeles,9001309A,U.S. House,34,DEM,Robert Lee Ahn,474
+Los Angeles,9001344B,U.S. House,34,DEM,Jimmy Gomez,167
+Los Angeles,9001344B,U.S. House,34,DEM,Robert Lee Ahn,36
+Los Angeles,9001348A,U.S. House,34,DEM,Jimmy Gomez,139
+Los Angeles,9001348A,U.S. House,34,DEM,Robert Lee Ahn,176
+Los Angeles,9001353A,U.S. House,34,DEM,Jimmy Gomez,189
+Los Angeles,9001353A,U.S. House,34,DEM,Robert Lee Ahn,34
+Los Angeles,9001372A,U.S. House,34,DEM,Jimmy Gomez,92
+Los Angeles,9001372A,U.S. House,34,DEM,Robert Lee Ahn,48
+Los Angeles,9001410A,U.S. House,34,DEM,Jimmy Gomez,121
+Los Angeles,9001410A,U.S. House,34,DEM,Robert Lee Ahn,24
+Los Angeles,9001469A,U.S. House,34,DEM,Jimmy Gomez,92
+Los Angeles,9001469A,U.S. House,34,DEM,Robert Lee Ahn,20
+Los Angeles,9001500E,U.S. House,34,DEM,Jimmy Gomez,118
+Los Angeles,9001500E,U.S. House,34,DEM,Robert Lee Ahn,28
+Los Angeles,9001509C,U.S. House,34,DEM,Jimmy Gomez,142
+Los Angeles,9001509C,U.S. House,34,DEM,Robert Lee Ahn,73
+Los Angeles,9001526A,U.S. House,34,DEM,Jimmy Gomez,94
+Los Angeles,9001526A,U.S. House,34,DEM,Robert Lee Ahn,52
+Los Angeles,9001536A,U.S. House,34,DEM,Jimmy Gomez,59
+Los Angeles,9001536A,U.S. House,34,DEM,Robert Lee Ahn,74
+Los Angeles,9001541A,U.S. House,34,DEM,Jimmy Gomez,107
+Los Angeles,9001541A,U.S. House,34,DEM,Robert Lee Ahn,149
+Los Angeles,9001551A,U.S. House,34,DEM,Jimmy Gomez,48
+Los Angeles,9001551A,U.S. House,34,DEM,Robert Lee Ahn,108
+Los Angeles,9001577A,U.S. House,34,DEM,Jimmy Gomez,171
+Los Angeles,9001577A,U.S. House,34,DEM,Robert Lee Ahn,45
+Los Angeles,9001590A,U.S. House,34,DEM,Jimmy Gomez,77
+Los Angeles,9001590A,U.S. House,34,DEM,Robert Lee Ahn,160
+Los Angeles,9001621A,U.S. House,34,DEM,Jimmy Gomez,154
+Los Angeles,9001621A,U.S. House,34,DEM,Robert Lee Ahn,141
+Los Angeles,9001624A,U.S. House,34,DEM,Jimmy Gomez,123
+Los Angeles,9001624A,U.S. House,34,DEM,Robert Lee Ahn,338
+Los Angeles,9001628A,U.S. House,34,DEM,Jimmy Gomez,207
+Los Angeles,9001628A,U.S. House,34,DEM,Robert Lee Ahn,346
+Los Angeles,9001635E,U.S. House,34,DEM,Jimmy Gomez,70
+Los Angeles,9001635E,U.S. House,34,DEM,Robert Lee Ahn,255
+Los Angeles,9001668B,U.S. House,34,DEM,Jimmy Gomez,105
+Los Angeles,9001668B,U.S. House,34,DEM,Robert Lee Ahn,145
+Los Angeles,9001678A,U.S. House,34,DEM,Jimmy Gomez,72
+Los Angeles,9001678A,U.S. House,34,DEM,Robert Lee Ahn,168
+Los Angeles,9001685A,U.S. House,34,DEM,Jimmy Gomez,132
+Los Angeles,9001685A,U.S. House,34,DEM,Robert Lee Ahn,124
+Los Angeles,9001686A,U.S. House,34,DEM,Jimmy Gomez,133
+Los Angeles,9001686A,U.S. House,34,DEM,Robert Lee Ahn,108
+Los Angeles,9001693B,U.S. House,34,DEM,Jimmy Gomez,97
+Los Angeles,9001693B,U.S. House,34,DEM,Robert Lee Ahn,205
+Los Angeles,9001702A,U.S. House,34,DEM,Jimmy Gomez,159
+Los Angeles,9001702A,U.S. House,34,DEM,Robert Lee Ahn,162
+Los Angeles,9001721A,U.S. House,34,DEM,Jimmy Gomez,109
+Los Angeles,9001721A,U.S. House,34,DEM,Robert Lee Ahn,97
+Los Angeles,9001738A,U.S. House,34,DEM,Jimmy Gomez,113
+Los Angeles,9001738A,U.S. House,34,DEM,Robert Lee Ahn,164
+Los Angeles,9001781A,U.S. House,34,DEM,Jimmy Gomez,100
+Los Angeles,9001781A,U.S. House,34,DEM,Robert Lee Ahn,61
+Los Angeles,9001801B,U.S. House,34,DEM,Jimmy Gomez,79
+Los Angeles,9001801B,U.S. House,34,DEM,Robert Lee Ahn,75
+Los Angeles,9001810A,U.S. House,34,DEM,Jimmy Gomez,94
+Los Angeles,9001810A,U.S. House,34,DEM,Robert Lee Ahn,58
+Los Angeles,9001814A,U.S. House,34,DEM,Jimmy Gomez,92
+Los Angeles,9001814A,U.S. House,34,DEM,Robert Lee Ahn,82
+Los Angeles,9001820A,U.S. House,34,DEM,Jimmy Gomez,125
+Los Angeles,9001820A,U.S. House,34,DEM,Robert Lee Ahn,74
+Los Angeles,9001839A,U.S. House,34,DEM,Jimmy Gomez,109
+Los Angeles,9001839A,U.S. House,34,DEM,Robert Lee Ahn,105
+Los Angeles,9001841A,U.S. House,34,DEM,Jimmy Gomez,122
+Los Angeles,9001841A,U.S. House,34,DEM,Robert Lee Ahn,27
+Los Angeles,9001846B,U.S. House,34,DEM,Jimmy Gomez,101
+Los Angeles,9001846B,U.S. House,34,DEM,Robert Lee Ahn,19
+Los Angeles,9001851A,U.S. House,34,DEM,Jimmy Gomez,147
+Los Angeles,9001851A,U.S. House,34,DEM,Robert Lee Ahn,21
+Los Angeles,9001854A,U.S. House,34,DEM,Jimmy Gomez,65
+Los Angeles,9001854A,U.S. House,34,DEM,Robert Lee Ahn,6
+Los Angeles,9001855D,U.S. House,34,DEM,Jimmy Gomez,85
+Los Angeles,9001855D,U.S. House,34,DEM,Robert Lee Ahn,13
+Los Angeles,9001859A,U.S. House,34,DEM,Jimmy Gomez,199
+Los Angeles,9001859A,U.S. House,34,DEM,Robert Lee Ahn,60
+Los Angeles,9001889A,U.S. House,34,DEM,Jimmy Gomez,76
+Los Angeles,9001889A,U.S. House,34,DEM,Robert Lee Ahn,22
+Los Angeles,9001890A,U.S. House,34,DEM,Jimmy Gomez,142
+Los Angeles,9001890A,U.S. House,34,DEM,Robert Lee Ahn,95
+Los Angeles,9001891A,U.S. House,34,DEM,Jimmy Gomez,175
+Los Angeles,9001891A,U.S. House,34,DEM,Robert Lee Ahn,11
+Los Angeles,9001895A,U.S. House,34,DEM,Jimmy Gomez,146
+Los Angeles,9001895A,U.S. House,34,DEM,Robert Lee Ahn,19
+Los Angeles,9001899A,U.S. House,34,DEM,Jimmy Gomez,74
+Los Angeles,9001899A,U.S. House,34,DEM,Robert Lee Ahn,8
+Los Angeles,9001902A,U.S. House,34,DEM,Jimmy Gomez,118
+Los Angeles,9001902A,U.S. House,34,DEM,Robert Lee Ahn,17
+Los Angeles,9001905A,U.S. House,34,DEM,Jimmy Gomez,95
+Los Angeles,9001905A,U.S. House,34,DEM,Robert Lee Ahn,8
+Los Angeles,9001913C,U.S. House,34,DEM,Jimmy Gomez,128
+Los Angeles,9001913C,U.S. House,34,DEM,Robert Lee Ahn,73
+Los Angeles,9002001A,U.S. House,34,DEM,Jimmy Gomez,75
+Los Angeles,9002001A,U.S. House,34,DEM,Robert Lee Ahn,112
+Los Angeles,9002012B,U.S. House,34,DEM,Jimmy Gomez,78
+Los Angeles,9002012B,U.S. House,34,DEM,Robert Lee Ahn,184
+Los Angeles,9002017A,U.S. House,34,DEM,Jimmy Gomez,93
+Los Angeles,9002017A,U.S. House,34,DEM,Robert Lee Ahn,107
+Los Angeles,9002053A,U.S. House,34,DEM,Jimmy Gomez,128
+Los Angeles,9002053A,U.S. House,34,DEM,Robert Lee Ahn,43
+Los Angeles,9002089A,U.S. House,34,DEM,Jimmy Gomez,55
+Los Angeles,9002089A,U.S. House,34,DEM,Robert Lee Ahn,42
+Los Angeles,9002098A,U.S. House,34,DEM,Jimmy Gomez,179
+Los Angeles,9002098A,U.S. House,34,DEM,Robert Lee Ahn,45
+Los Angeles,9002108A,U.S. House,34,DEM,Jimmy Gomez,80
+Los Angeles,9002108A,U.S. House,34,DEM,Robert Lee Ahn,74
+Los Angeles,9002122A,U.S. House,34,DEM,Jimmy Gomez,74
+Los Angeles,9002122A,U.S. House,34,DEM,Robert Lee Ahn,25
+Los Angeles,9002142A,U.S. House,34,DEM,Jimmy Gomez,66
+Los Angeles,9002142A,U.S. House,34,DEM,Robert Lee Ahn,43
+Los Angeles,9002146A,U.S. House,34,DEM,Jimmy Gomez,103
+Los Angeles,9002146A,U.S. House,34,DEM,Robert Lee Ahn,122
+Los Angeles,9002155A,U.S. House,34,DEM,Jimmy Gomez,102
+Los Angeles,9002155A,U.S. House,34,DEM,Robert Lee Ahn,130
+Los Angeles,9002158A,U.S. House,34,DEM,Jimmy Gomez,98
+Los Angeles,9002158A,U.S. House,34,DEM,Robert Lee Ahn,205
+Los Angeles,9002159A,U.S. House,34,DEM,Jimmy Gomez,149
+Los Angeles,9002159A,U.S. House,34,DEM,Robert Lee Ahn,300
+Los Angeles,9002169A,U.S. House,34,DEM,Jimmy Gomez,90
+Los Angeles,9002169A,U.S. House,34,DEM,Robert Lee Ahn,26
+Los Angeles,9002192A,U.S. House,34,DEM,Jimmy Gomez,230
+Los Angeles,9002192A,U.S. House,34,DEM,Robert Lee Ahn,97
+Los Angeles,9002248A,U.S. House,34,DEM,Jimmy Gomez,211
+Los Angeles,9002248A,U.S. House,34,DEM,Robert Lee Ahn,89
+Los Angeles,9002352A,U.S. House,34,DEM,Jimmy Gomez,114
+Los Angeles,9002352A,U.S. House,34,DEM,Robert Lee Ahn,22
+Los Angeles,9002353B,U.S. House,34,DEM,Jimmy Gomez,121
+Los Angeles,9002353B,U.S. House,34,DEM,Robert Lee Ahn,40
+Los Angeles,9002359A,U.S. House,34,DEM,Jimmy Gomez,68
+Los Angeles,9002359A,U.S. House,34,DEM,Robert Lee Ahn,148
+Los Angeles,9002545A,U.S. House,34,DEM,Jimmy Gomez,181
+Los Angeles,9002545A,U.S. House,34,DEM,Robert Lee Ahn,76
+Los Angeles,9002547A,U.S. House,34,DEM,Jimmy Gomez,78
+Los Angeles,9002547A,U.S. House,34,DEM,Robert Lee Ahn,532
+Los Angeles,9002624A,U.S. House,34,DEM,Jimmy Gomez,0
+Los Angeles,9002624A,U.S. House,34,DEM,Robert Lee Ahn,0
+Los Angeles,9002691A,U.S. House,34,DEM,Jimmy Gomez,207
+Los Angeles,9002691A,U.S. House,34,DEM,Robert Lee Ahn,41
+Los Angeles,9002714A,U.S. House,34,DEM,Jimmy Gomez,86
+Los Angeles,9002714A,U.S. House,34,DEM,Robert Lee Ahn,34
+Los Angeles,9002719D,U.S. House,34,DEM,Jimmy Gomez,131
+Los Angeles,9002719D,U.S. House,34,DEM,Robert Lee Ahn,12
+Los Angeles,9002767A,U.S. House,34,DEM,Jimmy Gomez,0
+Los Angeles,9002767A,U.S. House,34,DEM,Robert Lee Ahn,0
+Los Angeles,9002809A,U.S. House,34,DEM,Jimmy Gomez,246
+Los Angeles,9002809A,U.S. House,34,DEM,Robert Lee Ahn,68
+Los Angeles,9002839A,U.S. House,34,DEM,Jimmy Gomez,55
+Los Angeles,9002839A,U.S. House,34,DEM,Robert Lee Ahn,118
+Los Angeles,9002952A,U.S. House,34,DEM,Jimmy Gomez,69
+Los Angeles,9002952A,U.S. House,34,DEM,Robert Lee Ahn,174
+Los Angeles,9003168A,U.S. House,34,DEM,Jimmy Gomez,110
+Los Angeles,9003168A,U.S. House,34,DEM,Robert Lee Ahn,57
+Los Angeles,9003184B,U.S. House,34,DEM,Jimmy Gomez,89
+Los Angeles,9003184B,U.S. House,34,DEM,Robert Lee Ahn,162
+Los Angeles,9003185A,U.S. House,34,DEM,Jimmy Gomez,157
+Los Angeles,9003185A,U.S. House,34,DEM,Robert Lee Ahn,101
+Los Angeles,9003309A,U.S. House,34,DEM,Jimmy Gomez,114
+Los Angeles,9003309A,U.S. House,34,DEM,Robert Lee Ahn,21
+Los Angeles,9003896A,U.S. House,34,DEM,Jimmy Gomez,125
+Los Angeles,9003896A,U.S. House,34,DEM,Robert Lee Ahn,46
+Los Angeles,9003923A,U.S. House,34,DEM,Jimmy Gomez,47
+Los Angeles,9003923A,U.S. House,34,DEM,Robert Lee Ahn,20
+Los Angeles,9003937B,U.S. House,34,DEM,Jimmy Gomez,343
+Los Angeles,9003937B,U.S. House,34,DEM,Robert Lee Ahn,85
+Los Angeles,9003951B,U.S. House,34,DEM,Jimmy Gomez,76
+Los Angeles,9003951B,U.S. House,34,DEM,Robert Lee Ahn,56
+Los Angeles,9004230A,U.S. House,34,DEM,Jimmy Gomez,156
+Los Angeles,9004230A,U.S. House,34,DEM,Robert Lee Ahn,76
+Los Angeles,9005003A,U.S. House,34,DEM,Jimmy Gomez,46
+Los Angeles,9005003A,U.S. House,34,DEM,Robert Lee Ahn,275
+Los Angeles,9005007A,U.S. House,34,DEM,Jimmy Gomez,102
+Los Angeles,9005007A,U.S. House,34,DEM,Robert Lee Ahn,144
+Los Angeles,9005012A,U.S. House,34,DEM,Jimmy Gomez,73
+Los Angeles,9005012A,U.S. House,34,DEM,Robert Lee Ahn,184
+Los Angeles,9005014A,U.S. House,34,DEM,Jimmy Gomez,162
+Los Angeles,9005014A,U.S. House,34,DEM,Robert Lee Ahn,260
+Los Angeles,9005016A,U.S. House,34,DEM,Jimmy Gomez,52
+Los Angeles,9005016A,U.S. House,34,DEM,Robert Lee Ahn,49
+Los Angeles,9005022A,U.S. House,34,DEM,Jimmy Gomez,84
+Los Angeles,9005022A,U.S. House,34,DEM,Robert Lee Ahn,202
+Los Angeles,9005399A,U.S. House,34,DEM,Jimmy Gomez,125
+Los Angeles,9005399A,U.S. House,34,DEM,Robert Lee Ahn,240
+Los Angeles,9005401A,U.S. House,34,DEM,Jimmy Gomez,97
+Los Angeles,9005401A,U.S. House,34,DEM,Robert Lee Ahn,185
+Los Angeles,9005537A,U.S. House,34,DEM,Jimmy Gomez,176
+Los Angeles,9005537A,U.S. House,34,DEM,Robert Lee Ahn,22
+Los Angeles,9005538B,U.S. House,34,DEM,Jimmy Gomez,195
+Los Angeles,9005538B,U.S. House,34,DEM,Robert Lee Ahn,21
+Los Angeles,9005543B,U.S. House,34,DEM,Jimmy Gomez,97
+Los Angeles,9005543B,U.S. House,34,DEM,Robert Lee Ahn,56
+Los Angeles,9005757A,U.S. House,34,DEM,Jimmy Gomez,98
+Los Angeles,9005757A,U.S. House,34,DEM,Robert Lee Ahn,157
+Los Angeles,9005769B,U.S. House,34,DEM,Jimmy Gomez,67
+Los Angeles,9005769B,U.S. House,34,DEM,Robert Lee Ahn,112
+Los Angeles,9006313A,U.S. House,34,DEM,Jimmy Gomez,204
+Los Angeles,9006313A,U.S. House,34,DEM,Robert Lee Ahn,77
+Los Angeles,9006315A,U.S. House,34,DEM,Jimmy Gomez,312
+Los Angeles,9006315A,U.S. House,34,DEM,Robert Lee Ahn,90
+Los Angeles,9006319A,U.S. House,34,DEM,Jimmy Gomez,182
+Los Angeles,9006319A,U.S. House,34,DEM,Robert Lee Ahn,58
+Los Angeles,9006320C,U.S. House,34,DEM,Jimmy Gomez,133
+Los Angeles,9006320C,U.S. House,34,DEM,Robert Lee Ahn,66
+Los Angeles,9006321A,U.S. House,34,DEM,Jimmy Gomez,161
+Los Angeles,9006321A,U.S. House,34,DEM,Robert Lee Ahn,46
+Los Angeles,9006324A,U.S. House,34,DEM,Jimmy Gomez,147
+Los Angeles,9006324A,U.S. House,34,DEM,Robert Lee Ahn,77
+Los Angeles,9006335B,U.S. House,34,DEM,Jimmy Gomez,231
+Los Angeles,9006335B,U.S. House,34,DEM,Robert Lee Ahn,117
+Los Angeles,9006337A,U.S. House,34,DEM,Jimmy Gomez,255
+Los Angeles,9006337A,U.S. House,34,DEM,Robert Lee Ahn,127
+Los Angeles,9007015A,U.S. House,34,DEM,Jimmy Gomez,106
+Los Angeles,9007015A,U.S. House,34,DEM,Robert Lee Ahn,315
+Los Angeles,9990401A,U.S. House,34,DEM,Jimmy Gomez,1
+Los Angeles,9990401A,U.S. House,34,DEM,Robert Lee Ahn,2
+Los Angeles,9990402A,U.S. House,34,DEM,Jimmy Gomez,1
+Los Angeles,9990402A,U.S. House,34,DEM,Robert Lee Ahn,1
+Los Angeles,9990403A,U.S. House,34,DEM,Jimmy Gomez,0
+Los Angeles,9990403A,U.S. House,34,DEM,Robert Lee Ahn,0
