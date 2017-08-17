@@ -30,5 +30,16 @@ def amador_p14(_):
              'precinct': 'Write-In',
              'votes': 5}]
 
-WRITEINS = {'P14': {'Alameda': alameda_p14,
-                    'Amador':  amador_p14}}
+
+def calaveras_p14(_):
+    return [{'candidate': 'Patrick D. Hogan',
+             'county': 'Calaveras',
+             'office': 'State Assembly',
+             'district': '5',
+             'party': 'LIB',
+             'precinct': 'Write-In',
+             'votes': 4}]
+
+WRITEINS = {'P14': {'Alameda':   alameda_p14,
+                    'Amador':    amador_p14,
+                    'Calaveras': calaveras_p14}}
