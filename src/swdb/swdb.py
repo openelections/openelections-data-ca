@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 
 from util import dbf_to_dataframe, csv_to_dataframe, COUNTIES
+from writeins import WRITEINS
 
 # Output column names for OpenElections format
 fieldnames = ['county', 'precinct', 'office',
@@ -45,6 +46,9 @@ class SWDBResults(object):
         self.county = county
         self.election = election
         self.codes = codes.Codes(codes_fname(election, county), candidate_norm)
+        self.writeins = None
+        if election in WRITEINS and county in WRITEINS[election]:
+            self.writeins = WRITEINS[election][county](candidate_norm)
         self.df = self.__load_dataframe()
 
     def __load_dataframe(self):
@@ -74,6 +78,8 @@ class SWDBResults(object):
         result.votes = result.votes.astype(np.int32)
         result = result.groupby(
             fieldnames[:-1]).sum().reset_index()[fieldnames]
+        if self.writeins:
+            result = result.append(self.writeins)
         for x in ['candidate', 'district', 'office', 'precinct']:
             result = result.sort_values(by=x, kind='mergesort')
         return result
