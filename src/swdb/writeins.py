@@ -20,4 +20,15 @@ def alameda_p14(candidate_norm):
              'precinct': 'Write-In'} for
             c, v in cand_split if v != 0]
 
-WRITEINS = {'P14': {'Alameda': alameda_p14}}
+
+def amador_p14(_):
+    return [{'candidate': 'Patrick D. Hogan',
+             'county': 'Amador',
+             'office': 'State Assembly',
+             'district': '5',
+             'party': 'LIB',
+             'precinct': 'Write-In',
+             'votes': 5}]
+
+WRITEINS = {'P14': {'Alameda': alameda_p14,
+                    'Amador':  amador_p14}}
