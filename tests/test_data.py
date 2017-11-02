@@ -18,6 +18,7 @@ columns = ['candidate', 'county', 'district', 'office', 'votes']
     ("2016", "1108", "general"),
     ("2017", "0404", "special__primary"),
     ("2017", "0606", "special__general"),
+    ("2017", "1003", "special__primary"),
 ])
 def test_data(year, date, election_type):
     state_file = '{0}/{0}{1}__ca__{2}.csv'.format(
