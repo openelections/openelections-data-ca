@@ -25,12 +25,28 @@ candidates = {'ADRIENNE N EDWARDS': 'Adrienne Nicole Edwards',
               'VANESSA L ARAMAYO': 'Vanessa L. Aramayo',
               'WENDY CARRILLO': 'Wendy Carrillo',
               'WILLIAM MORRISON': 'William "Rodriguez" Morrison',
-              'YOLIE FLORES': 'Yolie Flores'}
+              'YOLIE FLORES': 'Yolie Flores',
+              'ALEX DE OCAMPO': 'Alex De Ocampo',
+              'ANDREW S AGUERO': 'Andrew S. Aguero',
+              'BARBARA TORRES': 'Barbara Torres',
+              'DAVID VELA': 'David Vela',
+              'GABRIEL SANDOVAL': 'Gabriel Sandoval',
+              'JOHN PRYSNER': 'John Prysner',
+              'LUIS LOPEZ': 'Luis López',
+              'MARIO OLMOS': 'Mario Olmos',
+              'MARK VARGAS': 'Mark Vargas',
+              'MIKE FONG': 'Mike Fong',
+              'PATRICK KOPPULA': 'Patrick Koppula',
+              'RON BIRNBAUM': 'Ron Birnbaum',
+              'WENDY CARRILLO': 'Wendy Carrillo'}
 
 p = {'Kenneth Mejia': 'GRN',
      'Angela E. McArdle': 'LIB',
      'Mark Edward Padilla': 'NPP',
-     'William "Rodriguez" Morrison': 'REP'}
+     'William "Rodriguez" Morrison': 'REP',
+     'Andrew S. Aguero': 'LIB',
+     'John Prysner': 'PF',
+     'Patrick Koppula': 'NPP'}
 
 
 def parse_sos_ca34():
@@ -75,7 +91,7 @@ def parse_sos_ad51():
         '2017/20171003__ca__special__primary.csv', header=output_columns, index=False)
 
 
-def parse_los_angeles():
+def parse_los_angeles_ca34():
     output_columns = ['county', 'precinct', 'office',
                       'district', 'party', 'candidate', 'votes']
 
@@ -103,10 +119,39 @@ def parse_los_angeles():
         '2017/20170404__ca__special__primary__los_angeles__precinct.csv', index=False)
 
 
+def parse_los_angeles_ad51():
+    output_columns = ['county', 'precinct', 'office',
+                      'district', 'party', 'candidate', 'votes']
+
+    sovc_zip_url = 'https://www.lavote.net/docs/rrcc/svc/3758_excel_final_svc.zip'
+    sovc_zip = requests.get(sovc_zip_url)
+    if sovc_zip.status_code != 200:
+        return
+    f = tempfile.NamedTemporaryFile()
+    f.write(sovc_zip.content)
+    sovc_zf = zipfile.ZipFile(f.name)
+    df = pd.read_excel(sovc_zf.open(
+        '51ST_ASSEMBLY_DIST_U-T_10-03-17_Voter_Nominated_by_Precinct_3758-5110.xls'))
+
+    df.columns = df.loc[1]
+    df = df[df.TYPE == 'TOTAL']
+    table = pd.melt(df, id_vars=['PRECINCT'], value_vars=df.columns.tolist()[
+        8:-1], var_name='candidate', value_name='votes').assign(county='Los Angeles', office='State Assembly', district='51').rename(columns={'PRECINCT': 'precinct'}).replace({'candidate': candidates})
+    parties = {k: 'DEM' for k in candidates.values()}
+    parties.update(p)
+
+    table['party'] = table.candidate.apply(lambda x: parties[x])
+    for x in ['candidate', 'district', 'office', 'precinct', 'county']:
+        table = table.sort_values(by=x, kind='mergesort')
+    table[output_columns].to_csv(
+        '2017/20171003__ca__special__primary__los_angeles__precinct.csv', index=False)
+
+
 def main():
     parse_sos_ca34()
     parse_sos_ad51()
-    parse_los_angeles()
+    parse_los_angeles_ca34()
+    parse_los_angeles_ad51()
 
 if __name__ == "__main__":
     main()
