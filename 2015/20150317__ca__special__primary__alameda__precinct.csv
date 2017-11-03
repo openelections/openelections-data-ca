@@ -1,0 +1,680 @@
+county,precinct,office,district,party,candidate,votes
+Alameda,500100,State Senate,7,DEM,Joan Buchanan,69
+Alameda,500100,State Senate,7,REP,Michaela M. Hertle,49
+Alameda,500100,State Senate,7,DEM,Steve Glazer,69
+Alameda,500100,State Senate,7,DEM,Susan Bonilla,18
+Alameda,500100,State Senate,7,DEM,Terry Kremin,6
+Alameda,500110,State Senate,7,DEM,Joan Buchanan,62
+Alameda,500110,State Senate,7,REP,Michaela M. Hertle,40
+Alameda,500110,State Senate,7,DEM,Steve Glazer,54
+Alameda,500110,State Senate,7,DEM,Susan Bonilla,19
+Alameda,500110,State Senate,7,DEM,Terry Kremin,4
+Alameda,500120,State Senate,7,DEM,Joan Buchanan,37
+Alameda,500120,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,500120,State Senate,7,DEM,Steve Glazer,30
+Alameda,500120,State Senate,7,DEM,Susan Bonilla,7
+Alameda,500120,State Senate,7,DEM,Terry Kremin,9
+Alameda,500130,State Senate,7,DEM,Joan Buchanan,48
+Alameda,500130,State Senate,7,REP,Michaela M. Hertle,29
+Alameda,500130,State Senate,7,DEM,Steve Glazer,40
+Alameda,500130,State Senate,7,DEM,Susan Bonilla,17
+Alameda,500130,State Senate,7,DEM,Terry Kremin,11
+Alameda,500140,State Senate,7,DEM,Joan Buchanan,35
+Alameda,500140,State Senate,7,REP,Michaela M. Hertle,48
+Alameda,500140,State Senate,7,DEM,Steve Glazer,51
+Alameda,500140,State Senate,7,DEM,Susan Bonilla,26
+Alameda,500140,State Senate,7,DEM,Terry Kremin,12
+Alameda,500200,State Senate,7,DEM,Joan Buchanan,64
+Alameda,500200,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,500200,State Senate,7,DEM,Steve Glazer,29
+Alameda,500200,State Senate,7,DEM,Susan Bonilla,29
+Alameda,500200,State Senate,7,DEM,Terry Kremin,4
+Alameda,500210,State Senate,7,DEM,Joan Buchanan,47
+Alameda,500210,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,500210,State Senate,7,DEM,Steve Glazer,29
+Alameda,500210,State Senate,7,DEM,Susan Bonilla,6
+Alameda,500210,State Senate,7,DEM,Terry Kremin,8
+Alameda,500230,State Senate,7,DEM,Joan Buchanan,52
+Alameda,500230,State Senate,7,REP,Michaela M. Hertle,23
+Alameda,500230,State Senate,7,DEM,Steve Glazer,31
+Alameda,500230,State Senate,7,DEM,Susan Bonilla,17
+Alameda,500230,State Senate,7,DEM,Terry Kremin,5
+Alameda,500300,State Senate,7,DEM,Joan Buchanan,52
+Alameda,500300,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,500300,State Senate,7,DEM,Steve Glazer,24
+Alameda,500300,State Senate,7,DEM,Susan Bonilla,9
+Alameda,500300,State Senate,7,DEM,Terry Kremin,5
+Alameda,500310,State Senate,7,DEM,Joan Buchanan,104
+Alameda,500310,State Senate,7,REP,Michaela M. Hertle,36
+Alameda,500310,State Senate,7,DEM,Steve Glazer,97
+Alameda,500310,State Senate,7,DEM,Susan Bonilla,32
+Alameda,500310,State Senate,7,DEM,Terry Kremin,12
+Alameda,500320,State Senate,7,DEM,Joan Buchanan,40
+Alameda,500320,State Senate,7,REP,Michaela M. Hertle,27
+Alameda,500320,State Senate,7,DEM,Steve Glazer,49
+Alameda,500320,State Senate,7,DEM,Susan Bonilla,18
+Alameda,500320,State Senate,7,DEM,Terry Kremin,7
+Alameda,500340,State Senate,7,DEM,Joan Buchanan,69
+Alameda,500340,State Senate,7,REP,Michaela M. Hertle,37
+Alameda,500340,State Senate,7,DEM,Steve Glazer,82
+Alameda,500340,State Senate,7,DEM,Susan Bonilla,19
+Alameda,500340,State Senate,7,DEM,Terry Kremin,3
+Alameda,500400,State Senate,7,DEM,Joan Buchanan,128
+Alameda,500400,State Senate,7,REP,Michaela M. Hertle,56
+Alameda,500400,State Senate,7,DEM,Steve Glazer,104
+Alameda,500400,State Senate,7,DEM,Susan Bonilla,32
+Alameda,500400,State Senate,7,DEM,Terry Kremin,6
+Alameda,500410,State Senate,7,DEM,Joan Buchanan,54
+Alameda,500410,State Senate,7,REP,Michaela M. Hertle,47
+Alameda,500410,State Senate,7,DEM,Steve Glazer,70
+Alameda,500410,State Senate,7,DEM,Susan Bonilla,21
+Alameda,500410,State Senate,7,DEM,Terry Kremin,3
+Alameda,500500,State Senate,7,DEM,Joan Buchanan,66
+Alameda,500500,State Senate,7,REP,Michaela M. Hertle,38
+Alameda,500500,State Senate,7,DEM,Steve Glazer,89
+Alameda,500500,State Senate,7,DEM,Susan Bonilla,15
+Alameda,500500,State Senate,7,DEM,Terry Kremin,4
+Alameda,500600,State Senate,7,DEM,Joan Buchanan,89
+Alameda,500600,State Senate,7,REP,Michaela M. Hertle,24
+Alameda,500600,State Senate,7,DEM,Steve Glazer,93
+Alameda,500600,State Senate,7,DEM,Susan Bonilla,24
+Alameda,500600,State Senate,7,DEM,Terry Kremin,7
+Alameda,500700,State Senate,7,DEM,Joan Buchanan,72
+Alameda,500700,State Senate,7,REP,Michaela M. Hertle,35
+Alameda,500700,State Senate,7,DEM,Steve Glazer,69
+Alameda,500700,State Senate,7,DEM,Susan Bonilla,34
+Alameda,500700,State Senate,7,DEM,Terry Kremin,8
+Alameda,500910,State Senate,7,DEM,Joan Buchanan,63
+Alameda,500910,State Senate,7,REP,Michaela M. Hertle,15
+Alameda,500910,State Senate,7,DEM,Steve Glazer,38
+Alameda,500910,State Senate,7,DEM,Susan Bonilla,17
+Alameda,500910,State Senate,7,DEM,Terry Kremin,10
+Alameda,501000,State Senate,7,DEM,Joan Buchanan,77
+Alameda,501000,State Senate,7,REP,Michaela M. Hertle,16
+Alameda,501000,State Senate,7,DEM,Steve Glazer,55
+Alameda,501000,State Senate,7,DEM,Susan Bonilla,20
+Alameda,501000,State Senate,7,DEM,Terry Kremin,10
+Alameda,501200,State Senate,7,DEM,Joan Buchanan,57
+Alameda,501200,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,501200,State Senate,7,DEM,Steve Glazer,33
+Alameda,501200,State Senate,7,DEM,Susan Bonilla,22
+Alameda,501200,State Senate,7,DEM,Terry Kremin,2
+Alameda,501300,State Senate,7,DEM,Joan Buchanan,108
+Alameda,501300,State Senate,7,REP,Michaela M. Hertle,42
+Alameda,501300,State Senate,7,DEM,Steve Glazer,111
+Alameda,501300,State Senate,7,DEM,Susan Bonilla,21
+Alameda,501300,State Senate,7,DEM,Terry Kremin,2
+Alameda,501400,State Senate,7,DEM,Joan Buchanan,110
+Alameda,501400,State Senate,7,REP,Michaela M. Hertle,48
+Alameda,501400,State Senate,7,DEM,Steve Glazer,79
+Alameda,501400,State Senate,7,DEM,Susan Bonilla,34
+Alameda,501400,State Senate,7,DEM,Terry Kremin,4
+Alameda,501410,State Senate,7,DEM,Joan Buchanan,66
+Alameda,501410,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,501410,State Senate,7,DEM,Steve Glazer,41
+Alameda,501410,State Senate,7,DEM,Susan Bonilla,20
+Alameda,501410,State Senate,7,DEM,Terry Kremin,12
+Alameda,501600,State Senate,7,DEM,Joan Buchanan,78
+Alameda,501600,State Senate,7,REP,Michaela M. Hertle,49
+Alameda,501600,State Senate,7,DEM,Steve Glazer,93
+Alameda,501600,State Senate,7,DEM,Susan Bonilla,32
+Alameda,501600,State Senate,7,DEM,Terry Kremin,6
+Alameda,501610,State Senate,7,DEM,Joan Buchanan,133
+Alameda,501610,State Senate,7,REP,Michaela M. Hertle,51
+Alameda,501610,State Senate,7,DEM,Steve Glazer,133
+Alameda,501610,State Senate,7,DEM,Susan Bonilla,23
+Alameda,501610,State Senate,7,DEM,Terry Kremin,9
+Alameda,501620,State Senate,7,DEM,Joan Buchanan,92
+Alameda,501620,State Senate,7,REP,Michaela M. Hertle,22
+Alameda,501620,State Senate,7,DEM,Steve Glazer,88
+Alameda,501620,State Senate,7,DEM,Susan Bonilla,25
+Alameda,501620,State Senate,7,DEM,Terry Kremin,4
+Alameda,501630,State Senate,7,DEM,Joan Buchanan,59
+Alameda,501630,State Senate,7,REP,Michaela M. Hertle,49
+Alameda,501630,State Senate,7,DEM,Steve Glazer,96
+Alameda,501630,State Senate,7,DEM,Susan Bonilla,18
+Alameda,501630,State Senate,7,DEM,Terry Kremin,3
+Alameda,501640,State Senate,7,DEM,Joan Buchanan,51
+Alameda,501640,State Senate,7,REP,Michaela M. Hertle,42
+Alameda,501640,State Senate,7,DEM,Steve Glazer,75
+Alameda,501640,State Senate,7,DEM,Susan Bonilla,21
+Alameda,501640,State Senate,7,DEM,Terry Kremin,2
+Alameda,501800,State Senate,7,DEM,Joan Buchanan,36
+Alameda,501800,State Senate,7,REP,Michaela M. Hertle,40
+Alameda,501800,State Senate,7,DEM,Steve Glazer,57
+Alameda,501800,State Senate,7,DEM,Susan Bonilla,32
+Alameda,501800,State Senate,7,DEM,Terry Kremin,5
+Alameda,501830,State Senate,7,DEM,Joan Buchanan,88
+Alameda,501830,State Senate,7,REP,Michaela M. Hertle,32
+Alameda,501830,State Senate,7,DEM,Steve Glazer,97
+Alameda,501830,State Senate,7,DEM,Susan Bonilla,27
+Alameda,501830,State Senate,7,DEM,Terry Kremin,8
+Alameda,501840,State Senate,7,DEM,Joan Buchanan,62
+Alameda,501840,State Senate,7,REP,Michaela M. Hertle,32
+Alameda,501840,State Senate,7,DEM,Steve Glazer,42
+Alameda,501840,State Senate,7,DEM,Susan Bonilla,19
+Alameda,501840,State Senate,7,DEM,Terry Kremin,6
+Alameda,501910,State Senate,7,DEM,Joan Buchanan,73
+Alameda,501910,State Senate,7,REP,Michaela M. Hertle,33
+Alameda,501910,State Senate,7,DEM,Steve Glazer,75
+Alameda,501910,State Senate,7,DEM,Susan Bonilla,17
+Alameda,501910,State Senate,7,DEM,Terry Kremin,8
+Alameda,502000,State Senate,7,DEM,Joan Buchanan,73
+Alameda,502000,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,502000,State Senate,7,DEM,Steve Glazer,71
+Alameda,502000,State Senate,7,DEM,Susan Bonilla,24
+Alameda,502000,State Senate,7,DEM,Terry Kremin,2
+Alameda,502010,State Senate,7,DEM,Joan Buchanan,75
+Alameda,502010,State Senate,7,REP,Michaela M. Hertle,34
+Alameda,502010,State Senate,7,DEM,Steve Glazer,69
+Alameda,502010,State Senate,7,DEM,Susan Bonilla,19
+Alameda,502010,State Senate,7,DEM,Terry Kremin,4
+Alameda,502020,State Senate,7,DEM,Joan Buchanan,102
+Alameda,502020,State Senate,7,REP,Michaela M. Hertle,69
+Alameda,502020,State Senate,7,DEM,Steve Glazer,146
+Alameda,502020,State Senate,7,DEM,Susan Bonilla,30
+Alameda,502020,State Senate,7,DEM,Terry Kremin,7
+Alameda,502030,State Senate,7,DEM,Joan Buchanan,48
+Alameda,502030,State Senate,7,REP,Michaela M. Hertle,36
+Alameda,502030,State Senate,7,DEM,Steve Glazer,69
+Alameda,502030,State Senate,7,DEM,Susan Bonilla,23
+Alameda,502030,State Senate,7,DEM,Terry Kremin,5
+Alameda,502100,State Senate,7,DEM,Joan Buchanan,41
+Alameda,502100,State Senate,7,REP,Michaela M. Hertle,13
+Alameda,502100,State Senate,7,DEM,Steve Glazer,36
+Alameda,502100,State Senate,7,DEM,Susan Bonilla,11
+Alameda,502100,State Senate,7,DEM,Terry Kremin,4
+Alameda,502200,State Senate,7,DEM,Joan Buchanan,58
+Alameda,502200,State Senate,7,REP,Michaela M. Hertle,26
+Alameda,502200,State Senate,7,DEM,Steve Glazer,60
+Alameda,502200,State Senate,7,DEM,Susan Bonilla,28
+Alameda,502200,State Senate,7,DEM,Terry Kremin,6
+Alameda,502210,State Senate,7,DEM,Joan Buchanan,39
+Alameda,502210,State Senate,7,REP,Michaela M. Hertle,35
+Alameda,502210,State Senate,7,DEM,Steve Glazer,40
+Alameda,502210,State Senate,7,DEM,Susan Bonilla,25
+Alameda,502210,State Senate,7,DEM,Terry Kremin,5
+Alameda,502220,State Senate,7,DEM,Joan Buchanan,72
+Alameda,502220,State Senate,7,REP,Michaela M. Hertle,46
+Alameda,502220,State Senate,7,DEM,Steve Glazer,88
+Alameda,502220,State Senate,7,DEM,Susan Bonilla,28
+Alameda,502220,State Senate,7,DEM,Terry Kremin,7
+Alameda,502400,State Senate,7,DEM,Joan Buchanan,58
+Alameda,502400,State Senate,7,REP,Michaela M. Hertle,29
+Alameda,502400,State Senate,7,DEM,Steve Glazer,26
+Alameda,502400,State Senate,7,DEM,Susan Bonilla,29
+Alameda,502400,State Senate,7,DEM,Terry Kremin,6
+Alameda,502410,State Senate,7,DEM,Joan Buchanan,25
+Alameda,502410,State Senate,7,REP,Michaela M. Hertle,12
+Alameda,502410,State Senate,7,DEM,Steve Glazer,23
+Alameda,502410,State Senate,7,DEM,Susan Bonilla,9
+Alameda,502410,State Senate,7,DEM,Terry Kremin,5
+Alameda,502500,State Senate,7,DEM,Joan Buchanan,27
+Alameda,502500,State Senate,7,REP,Michaela M. Hertle,21
+Alameda,502500,State Senate,7,DEM,Steve Glazer,27
+Alameda,502500,State Senate,7,DEM,Susan Bonilla,19
+Alameda,502500,State Senate,7,DEM,Terry Kremin,1
+Alameda,502600,State Senate,7,DEM,Joan Buchanan,46
+Alameda,502600,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,502600,State Senate,7,DEM,Steve Glazer,21
+Alameda,502600,State Senate,7,DEM,Susan Bonilla,17
+Alameda,502600,State Senate,7,DEM,Terry Kremin,5
+Alameda,502710,State Senate,7,DEM,Joan Buchanan,56
+Alameda,502710,State Senate,7,REP,Michaela M. Hertle,11
+Alameda,502710,State Senate,7,DEM,Steve Glazer,28
+Alameda,502710,State Senate,7,DEM,Susan Bonilla,27
+Alameda,502710,State Senate,7,DEM,Terry Kremin,3
+Alameda,502720,State Senate,7,DEM,Joan Buchanan,56
+Alameda,502720,State Senate,7,REP,Michaela M. Hertle,45
+Alameda,502720,State Senate,7,DEM,Steve Glazer,52
+Alameda,502720,State Senate,7,DEM,Susan Bonilla,19
+Alameda,502720,State Senate,7,DEM,Terry Kremin,7
+Alameda,502740,State Senate,7,DEM,Joan Buchanan,48
+Alameda,502740,State Senate,7,REP,Michaela M. Hertle,31
+Alameda,502740,State Senate,7,DEM,Steve Glazer,43
+Alameda,502740,State Senate,7,DEM,Susan Bonilla,18
+Alameda,502740,State Senate,7,DEM,Terry Kremin,9
+Alameda,502800,State Senate,7,DEM,Joan Buchanan,42
+Alameda,502800,State Senate,7,REP,Michaela M. Hertle,13
+Alameda,502800,State Senate,7,DEM,Steve Glazer,45
+Alameda,502800,State Senate,7,DEM,Susan Bonilla,21
+Alameda,502800,State Senate,7,DEM,Terry Kremin,6
+Alameda,502900,State Senate,7,DEM,Joan Buchanan,61
+Alameda,502900,State Senate,7,REP,Michaela M. Hertle,40
+Alameda,502900,State Senate,7,DEM,Steve Glazer,59
+Alameda,502900,State Senate,7,DEM,Susan Bonilla,16
+Alameda,502900,State Senate,7,DEM,Terry Kremin,6
+Alameda,502920,State Senate,7,DEM,Joan Buchanan,42
+Alameda,502920,State Senate,7,REP,Michaela M. Hertle,34
+Alameda,502920,State Senate,7,DEM,Steve Glazer,37
+Alameda,502920,State Senate,7,DEM,Susan Bonilla,17
+Alameda,502920,State Senate,7,DEM,Terry Kremin,7
+Alameda,520110,State Senate,7,DEM,Joan Buchanan,59
+Alameda,520110,State Senate,7,REP,Michaela M. Hertle,33
+Alameda,520110,State Senate,7,DEM,Steve Glazer,78
+Alameda,520110,State Senate,7,DEM,Susan Bonilla,14
+Alameda,520110,State Senate,7,DEM,Terry Kremin,3
+Alameda,520210,State Senate,7,DEM,Joan Buchanan,46
+Alameda,520210,State Senate,7,REP,Michaela M. Hertle,25
+Alameda,520210,State Senate,7,DEM,Steve Glazer,111
+Alameda,520210,State Senate,7,DEM,Susan Bonilla,20
+Alameda,520210,State Senate,7,DEM,Terry Kremin,4
+Alameda,520220,State Senate,7,DEM,Joan Buchanan,54
+Alameda,520220,State Senate,7,REP,Michaela M. Hertle,53
+Alameda,520220,State Senate,7,DEM,Steve Glazer,145
+Alameda,520220,State Senate,7,DEM,Susan Bonilla,22
+Alameda,520220,State Senate,7,DEM,Terry Kremin,1
+Alameda,520230,State Senate,7,DEM,Joan Buchanan,61
+Alameda,520230,State Senate,7,REP,Michaela M. Hertle,54
+Alameda,520230,State Senate,7,DEM,Steve Glazer,88
+Alameda,520230,State Senate,7,DEM,Susan Bonilla,37
+Alameda,520230,State Senate,7,DEM,Terry Kremin,6
+Alameda,520240,State Senate,7,DEM,Joan Buchanan,28
+Alameda,520240,State Senate,7,REP,Michaela M. Hertle,73
+Alameda,520240,State Senate,7,DEM,Steve Glazer,92
+Alameda,520240,State Senate,7,DEM,Susan Bonilla,11
+Alameda,520240,State Senate,7,DEM,Terry Kremin,3
+Alameda,520300,State Senate,7,DEM,Joan Buchanan,49
+Alameda,520300,State Senate,7,REP,Michaela M. Hertle,34
+Alameda,520300,State Senate,7,DEM,Steve Glazer,72
+Alameda,520300,State Senate,7,DEM,Susan Bonilla,60
+Alameda,520300,State Senate,7,DEM,Terry Kremin,6
+Alameda,520310,State Senate,7,DEM,Joan Buchanan,61
+Alameda,520310,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,520310,State Senate,7,DEM,Steve Glazer,66
+Alameda,520310,State Senate,7,DEM,Susan Bonilla,18
+Alameda,520310,State Senate,7,DEM,Terry Kremin,4
+Alameda,520320,State Senate,7,DEM,Joan Buchanan,43
+Alameda,520320,State Senate,7,REP,Michaela M. Hertle,26
+Alameda,520320,State Senate,7,DEM,Steve Glazer,61
+Alameda,520320,State Senate,7,DEM,Susan Bonilla,33
+Alameda,520320,State Senate,7,DEM,Terry Kremin,5
+Alameda,520400,State Senate,7,DEM,Joan Buchanan,67
+Alameda,520400,State Senate,7,REP,Michaela M. Hertle,31
+Alameda,520400,State Senate,7,DEM,Steve Glazer,98
+Alameda,520400,State Senate,7,DEM,Susan Bonilla,34
+Alameda,520400,State Senate,7,DEM,Terry Kremin,8
+Alameda,520420,State Senate,7,DEM,Joan Buchanan,35
+Alameda,520420,State Senate,7,REP,Michaela M. Hertle,44
+Alameda,520420,State Senate,7,DEM,Steve Glazer,97
+Alameda,520420,State Senate,7,DEM,Susan Bonilla,20
+Alameda,520500,State Senate,7,DEM,Joan Buchanan,51
+Alameda,520500,State Senate,7,REP,Michaela M. Hertle,28
+Alameda,520500,State Senate,7,DEM,Steve Glazer,71
+Alameda,520500,State Senate,7,DEM,Susan Bonilla,12
+Alameda,520500,State Senate,7,DEM,Terry Kremin,5
+Alameda,520600,State Senate,7,DEM,Joan Buchanan,60
+Alameda,520600,State Senate,7,REP,Michaela M. Hertle,36
+Alameda,520600,State Senate,7,DEM,Steve Glazer,52
+Alameda,520600,State Senate,7,DEM,Susan Bonilla,31
+Alameda,520600,State Senate,7,DEM,Terry Kremin,8
+Alameda,520610,State Senate,7,DEM,Joan Buchanan,44
+Alameda,520610,State Senate,7,REP,Michaela M. Hertle,21
+Alameda,520610,State Senate,7,DEM,Steve Glazer,33
+Alameda,520610,State Senate,7,DEM,Susan Bonilla,26
+Alameda,520610,State Senate,7,DEM,Terry Kremin,3
+Alameda,520630,State Senate,7,DEM,Joan Buchanan,36
+Alameda,520630,State Senate,7,REP,Michaela M. Hertle,16
+Alameda,520630,State Senate,7,DEM,Steve Glazer,38
+Alameda,520630,State Senate,7,DEM,Susan Bonilla,11
+Alameda,520630,State Senate,7,DEM,Terry Kremin,1
+Alameda,520700,State Senate,7,DEM,Joan Buchanan,48
+Alameda,520700,State Senate,7,REP,Michaela M. Hertle,43
+Alameda,520700,State Senate,7,DEM,Steve Glazer,96
+Alameda,520700,State Senate,7,DEM,Susan Bonilla,28
+Alameda,520700,State Senate,7,DEM,Terry Kremin,5
+Alameda,520710,State Senate,7,DEM,Joan Buchanan,29
+Alameda,520710,State Senate,7,REP,Michaela M. Hertle,31
+Alameda,520710,State Senate,7,DEM,Steve Glazer,53
+Alameda,520710,State Senate,7,DEM,Susan Bonilla,9
+Alameda,520710,State Senate,7,DEM,Terry Kremin,2
+Alameda,520810,State Senate,7,DEM,Joan Buchanan,25
+Alameda,520810,State Senate,7,REP,Michaela M. Hertle,14
+Alameda,520810,State Senate,7,DEM,Steve Glazer,62
+Alameda,520810,State Senate,7,DEM,Susan Bonilla,21
+Alameda,520810,State Senate,7,DEM,Terry Kremin,4
+Alameda,520820,State Senate,7,DEM,Joan Buchanan,46
+Alameda,520820,State Senate,7,REP,Michaela M. Hertle,28
+Alameda,520820,State Senate,7,DEM,Steve Glazer,76
+Alameda,520820,State Senate,7,DEM,Susan Bonilla,52
+Alameda,520820,State Senate,7,DEM,Terry Kremin,6
+Alameda,520840,State Senate,7,DEM,Joan Buchanan,93
+Alameda,520840,State Senate,7,REP,Michaela M. Hertle,46
+Alameda,520840,State Senate,7,DEM,Steve Glazer,123
+Alameda,520840,State Senate,7,DEM,Susan Bonilla,29
+Alameda,520840,State Senate,7,DEM,Terry Kremin,5
+Alameda,520860,State Senate,7,DEM,Joan Buchanan,15
+Alameda,520860,State Senate,7,REP,Michaela M. Hertle,16
+Alameda,520860,State Senate,7,DEM,Steve Glazer,32
+Alameda,520860,State Senate,7,DEM,Susan Bonilla,19
+Alameda,520860,State Senate,7,DEM,Terry Kremin,4
+Alameda,520870,State Senate,7,DEM,Joan Buchanan,46
+Alameda,520870,State Senate,7,REP,Michaela M. Hertle,31
+Alameda,520870,State Senate,7,DEM,Steve Glazer,54
+Alameda,520870,State Senate,7,DEM,Susan Bonilla,41
+Alameda,520870,State Senate,7,DEM,Terry Kremin,10
+Alameda,521100,State Senate,7,DEM,Joan Buchanan,55
+Alameda,521100,State Senate,7,REP,Michaela M. Hertle,41
+Alameda,521100,State Senate,7,DEM,Steve Glazer,142
+Alameda,521100,State Senate,7,DEM,Susan Bonilla,47
+Alameda,521100,State Senate,7,DEM,Terry Kremin,1
+Alameda,521110,State Senate,7,DEM,Joan Buchanan,48
+Alameda,521110,State Senate,7,REP,Michaela M. Hertle,38
+Alameda,521110,State Senate,7,DEM,Steve Glazer,91
+Alameda,521110,State Senate,7,DEM,Susan Bonilla,36
+Alameda,521110,State Senate,7,DEM,Terry Kremin,7
+Alameda,521300,State Senate,7,DEM,Joan Buchanan,49
+Alameda,521300,State Senate,7,REP,Michaela M. Hertle,54
+Alameda,521300,State Senate,7,DEM,Steve Glazer,97
+Alameda,521300,State Senate,7,DEM,Susan Bonilla,28
+Alameda,521300,State Senate,7,DEM,Terry Kremin,6
+Alameda,521500,State Senate,7,DEM,Joan Buchanan,32
+Alameda,521500,State Senate,7,REP,Michaela M. Hertle,25
+Alameda,521500,State Senate,7,DEM,Steve Glazer,49
+Alameda,521500,State Senate,7,DEM,Susan Bonilla,24
+Alameda,521500,State Senate,7,DEM,Terry Kremin,11
+Alameda,522000,State Senate,7,DEM,Joan Buchanan,26
+Alameda,522000,State Senate,7,REP,Michaela M. Hertle,24
+Alameda,522000,State Senate,7,DEM,Steve Glazer,32
+Alameda,522000,State Senate,7,DEM,Susan Bonilla,29
+Alameda,522000,State Senate,7,DEM,Terry Kremin,6
+Alameda,522020,State Senate,7,DEM,Joan Buchanan,46
+Alameda,522020,State Senate,7,REP,Michaela M. Hertle,21
+Alameda,522020,State Senate,7,DEM,Steve Glazer,66
+Alameda,522020,State Senate,7,DEM,Susan Bonilla,29
+Alameda,522020,State Senate,7,DEM,Terry Kremin,6
+Alameda,522110,State Senate,7,DEM,Joan Buchanan,105
+Alameda,522110,State Senate,7,REP,Michaela M. Hertle,44
+Alameda,522110,State Senate,7,DEM,Steve Glazer,133
+Alameda,522110,State Senate,7,DEM,Susan Bonilla,31
+Alameda,522110,State Senate,7,DEM,Terry Kremin,6
+Alameda,522120,State Senate,7,DEM,Joan Buchanan,73
+Alameda,522120,State Senate,7,REP,Michaela M. Hertle,44
+Alameda,522120,State Senate,7,DEM,Steve Glazer,153
+Alameda,522120,State Senate,7,DEM,Susan Bonilla,34
+Alameda,522120,State Senate,7,DEM,Terry Kremin,8
+Alameda,522130,State Senate,7,DEM,Joan Buchanan,52
+Alameda,522130,State Senate,7,REP,Michaela M. Hertle,26
+Alameda,522130,State Senate,7,DEM,Steve Glazer,48
+Alameda,522130,State Senate,7,DEM,Susan Bonilla,8
+Alameda,522130,State Senate,7,DEM,Terry Kremin,5
+Alameda,522140,State Senate,7,DEM,Joan Buchanan,24
+Alameda,522140,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,522140,State Senate,7,DEM,Steve Glazer,20
+Alameda,522140,State Senate,7,DEM,Susan Bonilla,15
+Alameda,522140,State Senate,7,DEM,Terry Kremin,1
+Alameda,522150,State Senate,7,DEM,Joan Buchanan,96
+Alameda,522150,State Senate,7,REP,Michaela M. Hertle,57
+Alameda,522150,State Senate,7,DEM,Steve Glazer,127
+Alameda,522150,State Senate,7,DEM,Susan Bonilla,42
+Alameda,522150,State Senate,7,DEM,Terry Kremin,9
+Alameda,522200,State Senate,7,DEM,Joan Buchanan,55
+Alameda,522200,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,522200,State Senate,7,DEM,Steve Glazer,84
+Alameda,522200,State Senate,7,DEM,Susan Bonilla,22
+Alameda,522400,State Senate,7,DEM,Joan Buchanan,44
+Alameda,522400,State Senate,7,REP,Michaela M. Hertle,24
+Alameda,522400,State Senate,7,DEM,Steve Glazer,65
+Alameda,522400,State Senate,7,DEM,Susan Bonilla,18
+Alameda,522400,State Senate,7,DEM,Terry Kremin,2
+Alameda,523100,State Senate,7,DEM,Joan Buchanan,11
+Alameda,523100,State Senate,7,REP,Michaela M. Hertle,15
+Alameda,523100,State Senate,7,DEM,Steve Glazer,20
+Alameda,523100,State Senate,7,DEM,Susan Bonilla,18
+Alameda,523100,State Senate,7,DEM,Terry Kremin,4
+Alameda,523110,State Senate,7,DEM,Joan Buchanan,99
+Alameda,523110,State Senate,7,REP,Michaela M. Hertle,47
+Alameda,523110,State Senate,7,DEM,Steve Glazer,140
+Alameda,523110,State Senate,7,DEM,Susan Bonilla,32
+Alameda,523110,State Senate,7,DEM,Terry Kremin,9
+Alameda,523300,State Senate,7,DEM,Joan Buchanan,159
+Alameda,523300,State Senate,7,REP,Michaela M. Hertle,41
+Alameda,523300,State Senate,7,DEM,Steve Glazer,133
+Alameda,523300,State Senate,7,DEM,Susan Bonilla,47
+Alameda,523300,State Senate,7,DEM,Terry Kremin,8
+Alameda,523700,State Senate,7,DEM,Joan Buchanan,29
+Alameda,523700,State Senate,7,REP,Michaela M. Hertle,20
+Alameda,523700,State Senate,7,DEM,Steve Glazer,60
+Alameda,523700,State Senate,7,DEM,Susan Bonilla,20
+Alameda,523700,State Senate,7,DEM,Terry Kremin,2
+Alameda,523710,State Senate,7,DEM,Joan Buchanan,19
+Alameda,523710,State Senate,7,REP,Michaela M. Hertle,24
+Alameda,523710,State Senate,7,DEM,Steve Glazer,70
+Alameda,523710,State Senate,7,DEM,Susan Bonilla,25
+Alameda,523710,State Senate,7,DEM,Terry Kremin,8
+Alameda,523720,State Senate,7,DEM,Joan Buchanan,47
+Alameda,523720,State Senate,7,REP,Michaela M. Hertle,27
+Alameda,523720,State Senate,7,DEM,Steve Glazer,74
+Alameda,523720,State Senate,7,DEM,Susan Bonilla,17
+Alameda,523720,State Senate,7,DEM,Terry Kremin,7
+Alameda,523800,State Senate,7,DEM,Joan Buchanan,51
+Alameda,523800,State Senate,7,REP,Michaela M. Hertle,22
+Alameda,523800,State Senate,7,DEM,Steve Glazer,99
+Alameda,523800,State Senate,7,DEM,Susan Bonilla,40
+Alameda,523800,State Senate,7,DEM,Terry Kremin,6
+Alameda,540300,State Senate,7,DEM,Joan Buchanan,58
+Alameda,540300,State Senate,7,REP,Michaela M. Hertle,43
+Alameda,540300,State Senate,7,DEM,Steve Glazer,107
+Alameda,540300,State Senate,7,DEM,Susan Bonilla,52
+Alameda,540300,State Senate,7,DEM,Terry Kremin,9
+Alameda,540500,State Senate,7,DEM,Joan Buchanan,42
+Alameda,540500,State Senate,7,REP,Michaela M. Hertle,31
+Alameda,540500,State Senate,7,DEM,Steve Glazer,66
+Alameda,540500,State Senate,7,DEM,Susan Bonilla,45
+Alameda,540500,State Senate,7,DEM,Terry Kremin,7
+Alameda,540600,State Senate,7,DEM,Joan Buchanan,77
+Alameda,540600,State Senate,7,REP,Michaela M. Hertle,54
+Alameda,540600,State Senate,7,DEM,Steve Glazer,111
+Alameda,540600,State Senate,7,DEM,Susan Bonilla,62
+Alameda,540600,State Senate,7,DEM,Terry Kremin,9
+Alameda,540700,State Senate,7,DEM,Joan Buchanan,33
+Alameda,540700,State Senate,7,REP,Michaela M. Hertle,21
+Alameda,540700,State Senate,7,DEM,Steve Glazer,30
+Alameda,540700,State Senate,7,DEM,Susan Bonilla,27
+Alameda,540700,State Senate,7,DEM,Terry Kremin,10
+Alameda,540800,State Senate,7,DEM,Joan Buchanan,68
+Alameda,540800,State Senate,7,REP,Michaela M. Hertle,32
+Alameda,540800,State Senate,7,DEM,Steve Glazer,111
+Alameda,540800,State Senate,7,DEM,Susan Bonilla,56
+Alameda,540800,State Senate,7,DEM,Terry Kremin,14
+Alameda,541100,State Senate,7,DEM,Joan Buchanan,43
+Alameda,541100,State Senate,7,REP,Michaela M. Hertle,29
+Alameda,541100,State Senate,7,DEM,Steve Glazer,63
+Alameda,541100,State Senate,7,DEM,Susan Bonilla,35
+Alameda,541100,State Senate,7,DEM,Terry Kremin,10
+Alameda,542000,State Senate,7,DEM,Joan Buchanan,75
+Alameda,542000,State Senate,7,REP,Michaela M. Hertle,53
+Alameda,542000,State Senate,7,DEM,Steve Glazer,64
+Alameda,542000,State Senate,7,DEM,Susan Bonilla,64
+Alameda,542000,State Senate,7,DEM,Terry Kremin,7
+Alameda,542200,State Senate,7,DEM,Joan Buchanan,53
+Alameda,542200,State Senate,7,REP,Michaela M. Hertle,29
+Alameda,542200,State Senate,7,DEM,Steve Glazer,50
+Alameda,542200,State Senate,7,DEM,Susan Bonilla,32
+Alameda,542200,State Senate,7,DEM,Terry Kremin,4
+Alameda,543300,State Senate,7,DEM,Joan Buchanan,50
+Alameda,543300,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,543300,State Senate,7,DEM,Steve Glazer,61
+Alameda,543300,State Senate,7,DEM,Susan Bonilla,50
+Alameda,543300,State Senate,7,DEM,Terry Kremin,5
+Alameda,544400,State Senate,7,DEM,Joan Buchanan,38
+Alameda,544400,State Senate,7,REP,Michaela M. Hertle,28
+Alameda,544400,State Senate,7,DEM,Steve Glazer,48
+Alameda,544400,State Senate,7,DEM,Susan Bonilla,33
+Alameda,544400,State Senate,7,DEM,Terry Kremin,7
+Alameda,545000,State Senate,7,DEM,Joan Buchanan,29
+Alameda,545000,State Senate,7,REP,Michaela M. Hertle,22
+Alameda,545000,State Senate,7,DEM,Steve Glazer,38
+Alameda,545000,State Senate,7,DEM,Susan Bonilla,33
+Alameda,545000,State Senate,7,DEM,Terry Kremin,11
+Alameda,546000,State Senate,7,DEM,Joan Buchanan,17
+Alameda,546000,State Senate,7,REP,Michaela M. Hertle,12
+Alameda,546000,State Senate,7,DEM,Steve Glazer,34
+Alameda,546000,State Senate,7,DEM,Susan Bonilla,18
+Alameda,546000,State Senate,7,DEM,Terry Kremin,7
+Alameda,546100,State Senate,7,DEM,Joan Buchanan,23
+Alameda,546100,State Senate,7,REP,Michaela M. Hertle,24
+Alameda,546100,State Senate,7,DEM,Steve Glazer,26
+Alameda,546100,State Senate,7,DEM,Susan Bonilla,30
+Alameda,546100,State Senate,7,DEM,Terry Kremin,5
+Alameda,546600,State Senate,7,DEM,Joan Buchanan,27
+Alameda,546600,State Senate,7,REP,Michaela M. Hertle,17
+Alameda,546600,State Senate,7,DEM,Steve Glazer,34
+Alameda,546600,State Senate,7,DEM,Susan Bonilla,38
+Alameda,546600,State Senate,7,DEM,Terry Kremin,9
+Alameda,547700,State Senate,7,DEM,Joan Buchanan,12
+Alameda,547700,State Senate,7,REP,Michaela M. Hertle,16
+Alameda,547700,State Senate,7,DEM,Steve Glazer,27
+Alameda,547700,State Senate,7,DEM,Susan Bonilla,15
+Alameda,547700,State Senate,7,DEM,Terry Kremin,4
+Alameda,547710,State Senate,7,DEM,Joan Buchanan,17
+Alameda,547710,State Senate,7,REP,Michaela M. Hertle,39
+Alameda,547710,State Senate,7,DEM,Steve Glazer,29
+Alameda,547710,State Senate,7,DEM,Susan Bonilla,28
+Alameda,547710,State Senate,7,DEM,Terry Kremin,6
+Alameda,547740,State Senate,7,DEM,Joan Buchanan,38
+Alameda,547740,State Senate,7,REP,Michaela M. Hertle,44
+Alameda,547740,State Senate,7,DEM,Steve Glazer,79
+Alameda,547740,State Senate,7,DEM,Susan Bonilla,46
+Alameda,547740,State Senate,7,DEM,Terry Kremin,4
+Alameda,547750,State Senate,7,DEM,Joan Buchanan,15
+Alameda,547750,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,547750,State Senate,7,DEM,Steve Glazer,38
+Alameda,547750,State Senate,7,DEM,Susan Bonilla,25
+Alameda,547750,State Senate,7,DEM,Terry Kremin,1
+Alameda,547780,State Senate,7,DEM,Joan Buchanan,26
+Alameda,547780,State Senate,7,REP,Michaela M. Hertle,22
+Alameda,547780,State Senate,7,DEM,Steve Glazer,33
+Alameda,547780,State Senate,7,DEM,Susan Bonilla,35
+Alameda,547780,State Senate,7,DEM,Terry Kremin,7
+Alameda,547790,State Senate,7,DEM,Joan Buchanan,29
+Alameda,547790,State Senate,7,REP,Michaela M. Hertle,12
+Alameda,547790,State Senate,7,DEM,Steve Glazer,35
+Alameda,547790,State Senate,7,DEM,Susan Bonilla,40
+Alameda,547790,State Senate,7,DEM,Terry Kremin,11
+Alameda,866800,State Senate,7,DEM,Joan Buchanan,23
+Alameda,866800,State Senate,7,REP,Michaela M. Hertle,18
+Alameda,866800,State Senate,7,DEM,Steve Glazer,39
+Alameda,866800,State Senate,7,DEM,Susan Bonilla,23
+Alameda,866800,State Senate,7,DEM,Terry Kremin,5
+Alameda,9498300,State Senate,7,REP,Michaela M. Hertle,1
+Alameda,9498300,State Senate,7,DEM,Steve Glazer,5
+Alameda,9499000,State Senate,7,REP,Michaela M. Hertle,2
+Alameda,9499000,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9500220,State Senate,7,DEM,Joan Buchanan,4
+Alameda,9500220,State Senate,7,REP,Michaela M. Hertle,7
+Alameda,9500220,State Senate,7,DEM,Steve Glazer,3
+Alameda,9500220,State Senate,7,DEM,Susan Bonilla,2
+Alameda,9500220,State Senate,7,DEM,Terry Kremin,2
+Alameda,9501710,State Senate,7,DEM,Joan Buchanan,2
+Alameda,9501710,State Senate,7,REP,Michaela M. Hertle,4
+Alameda,9501710,State Senate,7,DEM,Steve Glazer,2
+Alameda,9502910,State Senate,7,DEM,Joan Buchanan,1
+Alameda,9510100,State Senate,7,DEM,Joan Buchanan,12
+Alameda,9510100,State Senate,7,REP,Michaela M. Hertle,13
+Alameda,9510100,State Senate,7,DEM,Steve Glazer,17
+Alameda,9510100,State Senate,7,DEM,Susan Bonilla,5
+Alameda,9510100,State Senate,7,DEM,Terry Kremin,5
+Alameda,9510110,State Senate,7,DEM,Joan Buchanan,2
+Alameda,9510110,State Senate,7,REP,Michaela M. Hertle,12
+Alameda,9510110,State Senate,7,DEM,Steve Glazer,7
+Alameda,9510110,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9510150,State Senate,7,REP,Michaela M. Hertle,2
+Alameda,9510150,State Senate,7,DEM,Steve Glazer,2
+Alameda,9510300,State Senate,7,DEM,Joan Buchanan,26
+Alameda,9510300,State Senate,7,REP,Michaela M. Hertle,40
+Alameda,9510300,State Senate,7,DEM,Steve Glazer,31
+Alameda,9510300,State Senate,7,DEM,Susan Bonilla,7
+Alameda,9510410,State Senate,7,DEM,Joan Buchanan,1
+Alameda,9510410,State Senate,7,REP,Michaela M. Hertle,6
+Alameda,9510410,State Senate,7,DEM,Steve Glazer,4
+Alameda,9510410,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9510410,State Senate,7,DEM,Terry Kremin,3
+Alameda,9510500,State Senate,7,DEM,Joan Buchanan,10
+Alameda,9510500,State Senate,7,REP,Michaela M. Hertle,14
+Alameda,9510500,State Senate,7,DEM,Steve Glazer,29
+Alameda,9510500,State Senate,7,DEM,Susan Bonilla,5
+Alameda,9510500,State Senate,7,DEM,Terry Kremin,6
+Alameda,9510610,State Senate,7,DEM,Joan Buchanan,2
+Alameda,9510610,State Senate,7,REP,Michaela M. Hertle,5
+Alameda,9510610,State Senate,7,DEM,Steve Glazer,4
+Alameda,9510610,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9510730,State Senate,7,DEM,Steve Glazer,1
+Alameda,9510800,State Senate,7,DEM,Joan Buchanan,10
+Alameda,9510800,State Senate,7,REP,Michaela M. Hertle,7
+Alameda,9510800,State Senate,7,DEM,Steve Glazer,9
+Alameda,9510800,State Senate,7,DEM,Susan Bonilla,3
+Alameda,9510810,State Senate,7,DEM,Joan Buchanan,33
+Alameda,9510810,State Senate,7,REP,Michaela M. Hertle,17
+Alameda,9510810,State Senate,7,DEM,Steve Glazer,25
+Alameda,9510810,State Senate,7,DEM,Susan Bonilla,3
+Alameda,9510810,State Senate,7,DEM,Terry Kremin,4
+Alameda,9510840,State Senate,7,DEM,Joan Buchanan,2
+Alameda,9510840,State Senate,7,REP,Michaela M. Hertle,7
+Alameda,9510840,State Senate,7,DEM,Steve Glazer,20
+Alameda,9510840,State Senate,7,DEM,Susan Bonilla,2
+Alameda,9510840,State Senate,7,DEM,Terry Kremin,4
+Alameda,9520250,State Senate,7,DEM,Joan Buchanan,16
+Alameda,9520250,State Senate,7,REP,Michaela M. Hertle,16
+Alameda,9520250,State Senate,7,DEM,Steve Glazer,23
+Alameda,9520250,State Senate,7,DEM,Susan Bonilla,2
+Alameda,9520720,State Senate,7,DEM,Joan Buchanan,1
+Alameda,9520720,State Senate,7,REP,Michaela M. Hertle,7
+Alameda,9520720,State Senate,7,DEM,Steve Glazer,9
+Alameda,9520720,State Senate,7,DEM,Susan Bonilla,2
+Alameda,9520900,State Senate,7,DEM,Steve Glazer,2
+Alameda,9522160,State Senate,7,DEM,Joan Buchanan,17
+Alameda,9522160,State Senate,7,REP,Michaela M. Hertle,10
+Alameda,9522160,State Senate,7,DEM,Steve Glazer,30
+Alameda,9522160,State Senate,7,DEM,Susan Bonilla,11
+Alameda,9522160,State Senate,7,DEM,Terry Kremin,5
+Alameda,9523120,State Senate,7,DEM,Joan Buchanan,73
+Alameda,9523120,State Senate,7,REP,Michaela M. Hertle,51
+Alameda,9523120,State Senate,7,DEM,Steve Glazer,111
+Alameda,9523120,State Senate,7,DEM,Susan Bonilla,31
+Alameda,9523120,State Senate,7,DEM,Terry Kremin,7
+Alameda,9535000,State Senate,7,REP,Michaela M. Hertle,1
+Alameda,9535000,State Senate,7,DEM,Steve Glazer,1
+Alameda,9535300,State Senate,7,DEM,Joan Buchanan,3
+Alameda,9535300,State Senate,7,REP,Michaela M. Hertle,1
+Alameda,9535300,State Senate,7,DEM,Steve Glazer,2
+Alameda,9535300,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9535300,State Senate,7,DEM,Terry Kremin,2
+Alameda,9535400,State Senate,7,DEM,Steve Glazer,2
+Alameda,9535500,State Senate,7,DEM,Joan Buchanan,1
+Alameda,9540400,State Senate,7,DEM,Joan Buchanan,8
+Alameda,9540400,State Senate,7,REP,Michaela M. Hertle,13
+Alameda,9540400,State Senate,7,DEM,Steve Glazer,25
+Alameda,9540400,State Senate,7,DEM,Susan Bonilla,15
+Alameda,9540400,State Senate,7,DEM,Terry Kremin,3
+Alameda,9547720,State Senate,7,DEM,Joan Buchanan,9
+Alameda,9547720,State Senate,7,REP,Michaela M. Hertle,4
+Alameda,9547720,State Senate,7,DEM,Steve Glazer,16
+Alameda,9547720,State Senate,7,DEM,Susan Bonilla,14
+Alameda,9547720,State Senate,7,DEM,Terry Kremin,1
+Alameda,9547770,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9866910,State Senate,7,REP,Michaela M. Hertle,9
+Alameda,9866910,State Senate,7,DEM,Steve Glazer,10
+Alameda,9867100,State Senate,7,DEM,Joan Buchanan,1
+Alameda,9867100,State Senate,7,REP,Michaela M. Hertle,1
+Alameda,9867100,State Senate,7,DEM,Terry Kremin,1
+Alameda,9867200,State Senate,7,DEM,Joan Buchanan,1
+Alameda,9867200,State Senate,7,REP,Michaela M. Hertle,5
+Alameda,9867200,State Senate,7,DEM,Steve Glazer,6
+Alameda,9867200,State Senate,7,DEM,Susan Bonilla,4
+Alameda,9867200,State Senate,7,DEM,Terry Kremin,1
+Alameda,9867410,State Senate,7,DEM,Susan Bonilla,1
+Alameda,9870000,State Senate,7,DEM,Joan Buchanan,4
+Alameda,9870000,State Senate,7,REP,Michaela M. Hertle,28
+Alameda,9870000,State Senate,7,DEM,Steve Glazer,26
+Alameda,9870000,State Senate,7,DEM,Susan Bonilla,7
+Alameda,9870010,State Senate,7,DEM,Joan Buchanan,9
+Alameda,9870010,State Senate,7,REP,Michaela M. Hertle,21
+Alameda,9870010,State Senate,7,DEM,Steve Glazer,32
+Alameda,9870010,State Senate,7,DEM,Susan Bonilla,6
+Alameda,9870010,State Senate,7,DEM,Terry Kremin,2
+Alameda,9870100,State Senate,7,DEM,Joan Buchanan,6
+Alameda,9870100,State Senate,7,REP,Michaela M. Hertle,19
+Alameda,9870100,State Senate,7,DEM,Steve Glazer,14
+Alameda,9870100,State Senate,7,DEM,Susan Bonilla,4
+Alameda,9870100,State Senate,7,DEM,Terry Kremin,3

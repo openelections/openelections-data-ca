@@ -18,7 +18,44 @@ candidates = {'JOHN M. W. MOORLACH': 'John M. W. Moorlach',
 output_columns = ['county', 'precinct', 'office',
                   'district', 'party', 'candidate', 'votes']
 
-p = {'Sharon Runner': 'REP'}
+p = {'Sharon Runner':      'REP',
+     'Terry Kremin':       'DEM',
+     'Susan Bonilla':      'DEM',
+     'Joan Buchanan':      'DEM',
+     'Michaela M. Hertle': 'REP',
+     'Steve Glazer':       'DEM'}
+
+
+def prepare_output(df, county, cand):
+    df.columns = ['precinct'] + cand
+    df = pd.melt(df, id_vars='precinct',
+                 value_vars=cand, var_name='candidate', value_name='votes').dropna()
+    df['party'] = df.candidate.apply(lambda x: p[x])
+
+    df = df.assign(county=county,
+                   office='State Senate',
+                   district=7)
+    df.votes = df.votes.astype(int)
+
+    df = df.groupby(
+        output_columns[:-1]).sum().reset_index()[output_columns]
+    return df
+
+
+def parse_alameda():
+    sovc_xls = 'https://www.acgov.org/rov/elections/20150317/documents/sovc.xls'
+    primary = pd.read_excel(sovc_xls, sheetname='Sheet1')
+
+    # Select only contests of interest and the important columns
+    primary = primary.loc[(primary.index > 3) & (primary.index < 385)][
+        ['Alameda County', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12']]
+
+    table = prepare_output(primary, 'Alameda',
+                           ['Terry Kremin', 'Susan Bonilla', 'Joan Buchanan', 'Michaela M. Hertle', 'Steve Glazer'])
+    for x in ['candidate', 'district', 'office', 'precinct', 'county']:
+        table = table.sort_values(by=x, kind='mergesort')
+    table.to_csv(
+        '2015/20150317__ca__special__primary__alameda__precinct.csv', header=output_columns, index=False)
 
 
 def parse_orange():
@@ -93,6 +130,7 @@ def parse_los_angeles():
 
 
 def main():
+    parse_alameda()
     parse_orange()
     parse_los_angeles()
 
