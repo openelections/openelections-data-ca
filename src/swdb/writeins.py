@@ -114,7 +114,25 @@ def contra_costa_p14(_):
         house_df.to_dict(orient='records') + \
         assembly_df.to_dict(orient='records')
 
+
+def el_dorado_p14(candidate_norm):
+    writeins_url = 'https://www.edcgov.us/elections/election/sov/095.write-in.pdf'
+    writeins_req = requests.get(writeins_url)
+    writeins_req.raise_for_status()
+    writeins_pdf = PyPDF2.PdfFileReader(io.BytesIO(writeins_req.content))
+    cands = writeins_pdf.getPage(0).extractText()[162:180]
+    cand_split = [(cands[:-2], int(cands[-2:]))]
+    return [{'candidate': candidate_norm[c],
+             'county': 'El Dorado',
+             'office': 'State Assembly',
+             'district': '5',
+             'party': 'LIB',
+             'precinct': 'Write-In',
+             'votes': v} for
+            c, v in cand_split if v != 0]
+
 WRITEINS = {'P14': {'Alameda':   alameda_p14,
                     'Amador':    amador_p14,
                     'Calaveras': calaveras_p14,
-                    'Contra Costa': contra_costa_p14}}
+                    'Contra Costa': contra_costa_p14,
+                    'El Dorado': el_dorado_p14}}
