@@ -58,6 +58,20 @@ def parse_alameda():
         '2015/20150317__ca__special__primary__alameda__precinct.csv', header=output_columns, index=False)
 
 
+def parse_contra_costa():
+    sovc_xls = 'http://www.cocovote.us/wp-content/uploads/031715_ResultsByPct.xlsx'
+    primary = pd.read_excel(sovc_xls, sheetname=2)
+    primary = primary.loc[(primary.index > 2) & (primary.index < 458)][
+        ['Return to table of content', 'Unnamed: 4', 'Unnamed: 7', 'Unnamed: 10', 'Unnamed: 13', 'Unnamed: 16']]
+
+    table = prepare_output(primary, 'Contra Costa',
+                           ['Terry Kremin', 'Susan Bonilla', 'Joan Buchanan', 'Michaela M. Hertle', 'Steve Glazer'])
+    for x in ['candidate', 'district', 'office', 'precinct', 'county']:
+        table = table.sort_values(by=x, kind='mergesort')
+    table.to_csv(
+        '2015/20150317__ca__special__primary__contra_costa__precinct.csv', header=output_columns, index=False)
+
+
 def parse_orange():
     sovc_zip_url = 'http://www.ocvote.com/fileadmin/live/37sd2015/media.zip'
     sovc_zip = requests.get(sovc_zip_url)
@@ -131,6 +145,7 @@ def parse_los_angeles():
 
 def main():
     parse_alameda()
+    parse_contra_costa()
     parse_orange()
     parse_los_angeles()
 
