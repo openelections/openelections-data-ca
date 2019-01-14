@@ -1,0 +1,721 @@
+county,precinct,office,district,party,candidate,votes
+Calaveras,110 San Andreas Proper,Governor,,Rep,John Cox,414
+Calaveras,120 Rural San Andreas,Governor,,Rep,John Cox,596
+Calaveras,140 Valley Sprs North,Governor,,Rep,John Cox,462
+Calaveras,150 Valley Spr South,Governor,,Rep,John Cox,380
+Calaveras,160 Burson North,Governor,,Rep,John Cox,487
+Calaveras,170 Burson South,Governor,,Rep,John Cox,563
+Calaveras,210 Mtn Ranch N 07,Governor,,Rep,John Cox,231
+Calaveras,215 Mtn Ranch SE 08,Governor,,Rep,John Cox,388
+Calaveras,220 Rail Road Flat,Governor,,Rep,John Cox,379
+Calaveras,230 West Point W,Governor,,Rep,John Cox,259
+Calaveras,240 West Point E,Governor,,Rep,John Cox,416
+Calaveras,250 Mokulumne Hill Center,Governor,,Rep,John Cox,304
+Calaveras,260 Mokulumne Hill Rim 13,Governor,,Rep,John Cox,326
+Calaveras,310 Arnold W 14,Governor,,Rep,John Cox,436
+Calaveras,320 Central Arnold,Governor,,Rep,John Cox,339
+Calaveras,330 Arnold E,Governor,,Rep,John Cox,337
+Calaveras,350 Forest Meadows 17,Governor,,Rep,John Cox,533
+Calaveras,360 Murphys West 18,Governor,,Rep,John Cox,413
+Calaveras,370 Murphys East 19,Governor,,Rep,John Cox,446
+Calaveras,410 Rural Angels 20,Governor,,Rep,John Cox,629
+Calaveras,420 Angels City N 21,Governor,,Rep,John Cox,445
+Calaveras,430 Angels City S 22,Governor,,Rep,John Cox,660
+Calaveras,440 Copperopolis E 23,Governor,,Rep,John Cox,682
+Calaveras,450 Copperopolis W 24,Governor,,Rep,John Cox,719
+Calaveras,530 Jenny Lind 25,Governor,,Rep,John Cox,603
+Calaveras,540 Rancho-LaContenta,Governor,,Rep,John Cox,619
+Calaveras,550 Rancho-Berkesey,Governor,,Rep,John Cox,719
+Calaveras,560 Rancho-Garner 28,Governor,,Rep,John Cox,535
+Calaveras,570 Rancho-Jenny Lind 29,Governor,,Rep,John Cox,525
+Calaveras,CALAVERAS CA,Governor,,Rep,John Cox,13845
+Calaveras,110 San Andreas Proper,Governor,,Dem,Gavin Newsom,241
+Calaveras,120 Rural San Andreas,Governor,,Dem,Gavin Newsom,248
+Calaveras,140 Valley Sprs North,Governor,,Dem,Gavin Newsom,206
+Calaveras,150 Valley Spr South,Governor,,Dem,Gavin Newsom,158
+Calaveras,160 Burson North,Governor,,Dem,Gavin Newsom,140
+Calaveras,170 Burson South,Governor,,Dem,Gavin Newsom,204
+Calaveras,210 Mtn Ranch N 07,Governor,,Dem,Gavin Newsom,184
+Calaveras,215 Mtn Ranch SE 08,Governor,,Dem,Gavin Newsom,280
+Calaveras,220 Rail Road Flat,Governor,,Dem,Gavin Newsom,224
+Calaveras,230 West Point W,Governor,,Dem,Gavin Newsom,131
+Calaveras,240 West Point E,Governor,,Dem,Gavin Newsom,222
+Calaveras,250 Mokulumne Hill Center,Governor,,Dem,Gavin Newsom,204
+Calaveras,260 Mokulumne Hill Rim 13,Governor,,Dem,Gavin Newsom,217
+Calaveras,310 Arnold W 14,Governor,,Dem,Gavin Newsom,401
+Calaveras,320 Central Arnold,Governor,,Dem,Gavin Newsom,295
+Calaveras,330 Arnold E,Governor,,Dem,Gavin Newsom,341
+Calaveras,350 Forest Meadows 17,Governor,,Dem,Gavin Newsom,511
+Calaveras,360 Murphys West 18,Governor,,Dem,Gavin Newsom,472
+Calaveras,370 Murphys East 19,Governor,,Dem,Gavin Newsom,339
+Calaveras,410 Rural Angels 20,Governor,,Dem,Gavin Newsom,340
+Calaveras,420 Angels City N 21,Governor,,Dem,Gavin Newsom,273
+Calaveras,430 Angels City S 22,Governor,,Dem,Gavin Newsom,392
+Calaveras,440 Copperopolis E 23,Governor,,Dem,Gavin Newsom,284
+Calaveras,450 Copperopolis W 24,Governor,,Dem,Gavin Newsom,352
+Calaveras,530 Jenny Lind 25,Governor,,Dem,Gavin Newsom,164
+Calaveras,540 Rancho-LaContenta,Governor,,Dem,Gavin Newsom,243
+Calaveras,550 Rancho-Berkesey,Governor,,Dem,Gavin Newsom,276
+Calaveras,560 Rancho-Garner 28,Governor,,Dem,Gavin Newsom,215
+Calaveras,570 Rancho-Jenny Lind 29,Governor,,Dem,Gavin Newsom,208
+Calaveras,CALAVERAS CA,Governor,,Dem,Gavin Newsom,7765
+Calaveras,110 San Andreas Proper,Lt Governor,,Dem,Ed Hernandez,183
+Calaveras,120 Rural San Andreas,Lt Governor,,Dem,Ed Hernandez,205
+Calaveras,140 Valley Sprs North,Lt Governor,,Dem,Ed Hernandez,180
+Calaveras,150 Valley Spr South,Lt Governor,,Dem,Ed Hernandez,141
+Calaveras,160 Burson North,Lt Governor,,Dem,Ed Hernandez,178
+Calaveras,170 Burson South,Lt Governor,,Dem,Ed Hernandez,221
+Calaveras,210 Mtn Ranch N 07,Lt Governor,,Dem,Ed Hernandez,120
+Calaveras,215 Mtn Ranch SE 08,Lt Governor,,Dem,Ed Hernandez,196
+Calaveras,220 Rail Road Flat,Lt Governor,,Dem,Ed Hernandez,165
+Calaveras,230 West Point W,Lt Governor,,Dem,Ed Hernandez,108
+Calaveras,240 West Point E,Lt Governor,,Dem,Ed Hernandez,147
+Calaveras,250 Mokulumne Hill Center,Lt Governor,,Dem,Ed Hernandez,128
+Calaveras,260 Mokulumne Hill Rim 13,Lt Governor,,Dem,Ed Hernandez,152
+Calaveras,310 Arnold W 14,Lt Governor,,Dem,Ed Hernandez,203
+Calaveras,320 Central Arnold,Lt Governor,,Dem,Ed Hernandez,173
+Calaveras,330 Arnold E,Lt Governor,,Dem,Ed Hernandez,182
+Calaveras,350 Forest Meadows 17,Lt Governor,,Dem,Ed Hernandez,287
+Calaveras,360 Murphys West 18,Lt Governor,,Dem,Ed Hernandez,212
+Calaveras,370 Murphys East 19,Lt Governor,,Dem,Ed Hernandez,211
+Calaveras,410 Rural Angels 20,Lt Governor,,Dem,Ed Hernandez,264
+Calaveras,420 Angels City N 21,Lt Governor,,Dem,Ed Hernandez,195
+Calaveras,430 Angels City S 22,Lt Governor,,Dem,Ed Hernandez,245
+Calaveras,440 Copperopolis E 23,Lt Governor,,Dem,Ed Hernandez,294
+Calaveras,450 Copperopolis W 24,Lt Governor,,Dem,Ed Hernandez,260
+Calaveras,530 Jenny Lind 25,Lt Governor,,Dem,Ed Hernandez,211
+Calaveras,540 Rancho-LaContenta,Lt Governor,,Dem,Ed Hernandez,222
+Calaveras,550 Rancho-Berkesey,Lt Governor,,Dem,Ed Hernandez,274
+Calaveras,560 Rancho-Garner 28,Lt Governor,,Dem,Ed Hernandez,207
+Calaveras,570 Rancho-Jenny Lind 29,Lt Governor,,Dem,Ed Hernandez,211
+Calaveras,CALAVERAS CA,Lt Governor,,Dem,Ed Hernandez,5775
+Calaveras,110 San Andreas Proper,Lt Governor,,Dem,Eleni Kounalakis,320
+Calaveras,120 Rural San Andreas,Lt Governor,,Dem,Eleni Kounalakis,381
+Calaveras,140 Valley Sprs North,Lt Governor,,Dem,Eleni Kounalakis,289
+Calaveras,150 Valley Spr South,Lt Governor,,Dem,Eleni Kounalakis,240
+Calaveras,160 Burson North,Lt Governor,,Dem,Eleni Kounalakis,232
+Calaveras,170 Burson South,Lt Governor,,Dem,Eleni Kounalakis,293
+Calaveras,210 Mtn Ranch N 07,Lt Governor,,Dem,Eleni Kounalakis,198
+Calaveras,215 Mtn Ranch SE 08,Lt Governor,,Dem,Eleni Kounalakis,305
+Calaveras,220 Rail Road Flat,Lt Governor,,Dem,Eleni Kounalakis,275
+Calaveras,230 West Point W,Lt Governor,,Dem,Eleni Kounalakis,180
+Calaveras,240 West Point E,Lt Governor,,Dem,Eleni Kounalakis,296
+Calaveras,250 Mokulumne Hill Center,Lt Governor,,Dem,Eleni Kounalakis,247
+Calaveras,260 Mokulumne Hill Rim 13,Lt Governor,,Dem,Eleni Kounalakis,240
+Calaveras,310 Arnold W 14,Lt Governor,,Dem,Eleni Kounalakis,424
+Calaveras,320 Central Arnold,Lt Governor,,Dem,Eleni Kounalakis,305
+Calaveras,330 Arnold E,Lt Governor,,Dem,Eleni Kounalakis,328
+Calaveras,350 Forest Meadows 17,Lt Governor,,Dem,Eleni Kounalakis,518
+Calaveras,360 Murphys West 18,Lt Governor,,Dem,Eleni Kounalakis,473
+Calaveras,370 Murphys East 19,Lt Governor,,Dem,Eleni Kounalakis,354
+Calaveras,410 Rural Angels 20,Lt Governor,,Dem,Eleni Kounalakis,398
+Calaveras,420 Angels City N 21,Lt Governor,,Dem,Eleni Kounalakis,314
+Calaveras,430 Angels City S 22,Lt Governor,,Dem,Eleni Kounalakis,505
+Calaveras,440 Copperopolis E 23,Lt Governor,,Dem,Eleni Kounalakis,379
+Calaveras,450 Copperopolis W 24,Lt Governor,,Dem,Eleni Kounalakis,491
+Calaveras,530 Jenny Lind 25,Lt Governor,,Dem,Eleni Kounalakis,272
+Calaveras,540 Rancho-LaContenta,Lt Governor,,Dem,Eleni Kounalakis,386
+Calaveras,550 Rancho-Berkesey,Lt Governor,,Dem,Eleni Kounalakis,445
+Calaveras,560 Rancho-Garner 28,Lt Governor,,Dem,Eleni Kounalakis,332
+Calaveras,570 Rancho-Jenny Lind 29,Lt Governor,,Dem,Eleni Kounalakis,314
+Calaveras,CALAVERAS CA,Lt Governor,,Dem,Eleni Kounalakis,9734
+Calaveras,110 San Andreas Proper,Secretary of State,,Dem,Alex Padilla,276
+Calaveras,120 Rural San Andreas,Secretary of State,,Dem,Alex Padilla,283
+Calaveras,140 Valley Sprs North,Secretary of State,,Dem,Alex Padilla,226
+Calaveras,150 Valley Spr South,Secretary of State,,Dem,Alex Padilla,180
+Calaveras,160 Burson North,Secretary of State,,Dem,Alex Padilla,154
+Calaveras,170 Burson South,Secretary of State,,Dem,Alex Padilla,223
+Calaveras,210 Mtn Ranch N 07,Secretary of State,,Dem,Alex Padilla,200
+Calaveras,215 Mtn Ranch SE 08,Secretary of State,,Dem,Alex Padilla,304
+Calaveras,220 Rail Road Flat,Secretary of State,,Dem,Alex Padilla,245
+Calaveras,230 West Point W,Secretary of State,,Dem,Alex Padilla,146
+Calaveras,240 West Point E,Secretary of State,,Dem,Alex Padilla,245
+Calaveras,250 Mokulumne Hill Center,Secretary of State,,Dem,Alex Padilla,217
+Calaveras,260 Mokulumne Hill Rim 13,Secretary of State,,Dem,Alex Padilla,228
+Calaveras,310 Arnold W 14,Secretary of State,,Dem,Alex Padilla,415
+Calaveras,320 Central Arnold,Secretary of State,,Dem,Alex Padilla,301
+Calaveras,330 Arnold E,Secretary of State,,Dem,Alex Padilla,352
+Calaveras,350 Forest Meadows 17,Secretary of State,,Dem,Alex Padilla,525
+Calaveras,360 Murphys West 18,Secretary of State,,Dem,Alex Padilla,493
+Calaveras,370 Murphys East 19,Secretary of State,,Dem,Alex Padilla,361
+Calaveras,410 Rural Angels 20,Secretary of State,,Dem,Alex Padilla,356
+Calaveras,420 Angels City N 21,Secretary of State,,Dem,Alex Padilla,298
+Calaveras,430 Angels City S 22,Secretary of State,,Dem,Alex Padilla,430
+Calaveras,440 Copperopolis E 23,Secretary of State,,Dem,Alex Padilla,319
+Calaveras,450 Copperopolis W 24,Secretary of State,,Dem,Alex Padilla,374
+Calaveras,530 Jenny Lind 25,Secretary of State,,Dem,Alex Padilla,167
+Calaveras,540 Rancho-LaContenta,Secretary of State,,Dem,Alex Padilla,265
+Calaveras,550 Rancho-Berkesey,Secretary of State,,Dem,Alex Padilla,304
+Calaveras,560 Rancho-Garner 28,Secretary of State,,Dem,Alex Padilla,253
+Calaveras,570 Rancho-Jenny Lind 29,Secretary of State,,Dem,Alex Padilla,234
+Calaveras,CALAVERAS CA,Secretary of State,,Dem,Alex Padilla,8374
+Calaveras,110 San Andreas Proper,Secretary of State,,Rep,Mark Meuser,374
+Calaveras,120 Rural San Andreas,Secretary of State,,Rep,Mark Meuser,542
+Calaveras,140 Valley Sprs North,Secretary of State,,Rep,Mark Meuser,425
+Calaveras,150 Valley Spr South,Secretary of State,,Rep,Mark Meuser,352
+Calaveras,160 Burson North,Secretary of State,,Rep,Mark Meuser,464
+Calaveras,170 Burson South,Secretary of State,,Rep,Mark Meuser,533
+Calaveras,210 Mtn Ranch N 07,Secretary of State,,Rep,Mark Meuser,202
+Calaveras,215 Mtn Ranch SE 08,Secretary of State,,Rep,Mark Meuser,358
+Calaveras,220 Rail Road Flat,Secretary of State,,Rep,Mark Meuser,346
+Calaveras,230 West Point W,Secretary of State,,Rep,Mark Meuser,233
+Calaveras,240 West Point E,Secretary of State,,Rep,Mark Meuser,382
+Calaveras,250 Mokulumne Hill Center,Secretary of State,,Rep,Mark Meuser,279
+Calaveras,260 Mokulumne Hill Rim 13,Secretary of State,,Rep,Mark Meuser,307
+Calaveras,310 Arnold W 14,Secretary of State,,Rep,Mark Meuser,409
+Calaveras,320 Central Arnold,Secretary of State,,Rep,Mark Meuser,323
+Calaveras,330 Arnold E,Secretary of State,,Rep,Mark Meuser,314
+Calaveras,350 Forest Meadows 17,Secretary of State,,Rep,Mark Meuser,490
+Calaveras,360 Murphys West 18,Secretary of State,,Rep,Mark Meuser,370
+Calaveras,370 Murphys East 19,Secretary of State,,Rep,Mark Meuser,408
+Calaveras,410 Rural Angels 20,Secretary of State,,Rep,Mark Meuser,587
+Calaveras,420 Angels City N 21,Secretary of State,,Rep,Mark Meuser,406
+Calaveras,430 Angels City S 22,Secretary of State,,Rep,Mark Meuser,612
+Calaveras,440 Copperopolis E 23,Secretary of State,,Rep,Mark Meuser,629
+Calaveras,450 Copperopolis W 24,Secretary of State,,Rep,Mark Meuser,693
+Calaveras,530 Jenny Lind 25,Secretary of State,,Rep,Mark Meuser,588
+Calaveras,540 Rancho-LaContenta,Secretary of State,,Rep,Mark Meuser,591
+Calaveras,550 Rancho-Berkesey,Secretary of State,,Rep,Mark Meuser,682
+Calaveras,560 Rancho-Garner 28,Secretary of State,,Rep,Mark Meuser,485
+Calaveras,570 Rancho-Jenny Lind 29,Secretary of State,,Rep,Mark Meuser,490
+Calaveras,CALAVERAS CA,Secretary of State,,Rep,Mark Meuser,12874
+Calaveras,110 San Andreas Proper,Controller,,Rep,Konstantinos Roditis,361
+Calaveras,120 Rural San Andreas,Controller,,Rep,Konstantinos Roditis,529
+Calaveras,140 Valley Sprs North,Controller,,Rep,Konstantinos Roditis,418
+Calaveras,150 Valley Spr South,Controller,,Rep,Konstantinos Roditis,342
+Calaveras,160 Burson North,Controller,,Rep,Konstantinos Roditis,449
+Calaveras,170 Burson South,Controller,,Rep,Konstantinos Roditis,519
+Calaveras,210 Mtn Ranch N 07,Controller,,Rep,Konstantinos Roditis,199
+Calaveras,215 Mtn Ranch SE 08,Controller,,Rep,Konstantinos Roditis,344
+Calaveras,220 Rail Road Flat,Controller,,Rep,Konstantinos Roditis,319
+Calaveras,230 West Point W,Controller,,Rep,Konstantinos Roditis,221
+Calaveras,240 West Point E,Controller,,Rep,Konstantinos Roditis,363
+Calaveras,250 Mokulumne Hill Center,Controller,,Rep,Konstantinos Roditis,268
+Calaveras,260 Mokulumne Hill Rim 13,Controller,,Rep,Konstantinos Roditis,293
+Calaveras,310 Arnold W 14,Controller,,Rep,Konstantinos Roditis,387
+Calaveras,320 Central Arnold,Controller,,Rep,Konstantinos Roditis,308
+Calaveras,330 Arnold E,Controller,,Rep,Konstantinos Roditis,302
+Calaveras,350 Forest Meadows 17,Controller,,Rep,Konstantinos Roditis,455
+Calaveras,360 Murphys West 18,Controller,,Rep,Konstantinos Roditis,352
+Calaveras,370 Murphys East 19,Controller,,Rep,Konstantinos Roditis,392
+Calaveras,410 Rural Angels 20,Controller,,Rep,Konstantinos Roditis,548
+Calaveras,420 Angels City N 21,Controller,,Rep,Konstantinos Roditis,388
+Calaveras,430 Angels City S 22,Controller,,Rep,Konstantinos Roditis,577
+Calaveras,440 Copperopolis E 23,Controller,,Rep,Konstantinos Roditis,610
+Calaveras,450 Copperopolis W 24,Controller,,Rep,Konstantinos Roditis,675
+Calaveras,530 Jenny Lind 25,Controller,,Rep,Konstantinos Roditis,582
+Calaveras,540 Rancho-LaContenta,Controller,,Rep,Konstantinos Roditis,575
+Calaveras,550 Rancho-Berkesey,Controller,,Rep,Konstantinos Roditis,656
+Calaveras,560 Rancho-Garner 28,Controller,,Rep,Konstantinos Roditis,474
+Calaveras,570 Rancho-Jenny Lind 29,Controller,,Rep,Konstantinos Roditis,478
+Calaveras,CALAVERAS CA,Controller,,Rep,Konstantinos Roditis,12384
+Calaveras,110 San Andreas Proper,Controller,,Dem,Betty Yee,290
+Calaveras,120 Rural San Andreas,Controller,,Dem,Betty Yee,301
+Calaveras,140 Valley Sprs North,Controller,,Dem,Betty Yee,234
+Calaveras,150 Valley Spr South,Controller,,Dem,Betty Yee,190
+Calaveras,160 Burson North,Controller,,Dem,Betty Yee,169
+Calaveras,170 Burson South,Controller,,Dem,Betty Yee,235
+Calaveras,210 Mtn Ranch N 07,Controller,,Dem,Betty Yee,199
+Calaveras,215 Mtn Ranch SE 08,Controller,,Dem,Betty Yee,319
+Calaveras,220 Rail Road Flat,Controller,,Dem,Betty Yee,269
+Calaveras,230 West Point W,Controller,,Dem,Betty Yee,158
+Calaveras,240 West Point E,Controller,,Dem,Betty Yee,261
+Calaveras,250 Mokulumne Hill Center,Controller,,Dem,Betty Yee,230
+Calaveras,260 Mokulumne Hill Rim 13,Controller,,Dem,Betty Yee,238
+Calaveras,310 Arnold W 14,Controller,,Dem,Betty Yee,435
+Calaveras,320 Central Arnold,Controller,,Dem,Betty Yee,321
+Calaveras,330 Arnold E,Controller,,Dem,Betty Yee,364
+Calaveras,350 Forest Meadows 17,Controller,,Dem,Betty Yee,562
+Calaveras,360 Murphys West 18,Controller,,Dem,Betty Yee,517
+Calaveras,370 Murphys East 19,Controller,,Dem,Betty Yee,378
+Calaveras,410 Rural Angels 20,Controller,,Dem,Betty Yee,393
+Calaveras,420 Angels City N 21,Controller,,Dem,Betty Yee,311
+Calaveras,430 Angels City S 22,Controller,,Dem,Betty Yee,465
+Calaveras,440 Copperopolis E 23,Controller,,Dem,Betty Yee,336
+Calaveras,450 Copperopolis W 24,Controller,,Dem,Betty Yee,389
+Calaveras,530 Jenny Lind 25,Controller,,Dem,Betty Yee,173
+Calaveras,540 Rancho-LaContenta,Controller,,Dem,Betty Yee,283
+Calaveras,550 Rancho-Berkesey,Controller,,Dem,Betty Yee,323
+Calaveras,560 Rancho-Garner 28,Controller,,Dem,Betty Yee,263
+Calaveras,570 Rancho-Jenny Lind 29,Controller,,Dem,Betty Yee,248
+Calaveras,CALAVERAS CA,Controller,,Dem,Betty Yee,8854
+Calaveras,110 San Andreas Proper,Treasurer,,Rep,Greg Conlon,377
+Calaveras,120 Rural San Andreas,Treasurer,,Rep,Greg Conlon,553
+Calaveras,140 Valley Sprs North,Treasurer,,Rep,Greg Conlon,425
+Calaveras,150 Valley Spr South,Treasurer,,Rep,Greg Conlon,340
+Calaveras,160 Burson North,Treasurer,,Rep,Greg Conlon,451
+Calaveras,170 Burson South,Treasurer,,Rep,Greg Conlon,512
+Calaveras,210 Mtn Ranch N 07,Treasurer,,Rep,Greg Conlon,199
+Calaveras,215 Mtn Ranch SE 08,Treasurer,,Rep,Greg Conlon,359
+Calaveras,220 Rail Road Flat,Treasurer,,Rep,Greg Conlon,341
+Calaveras,230 West Point W,Treasurer,,Rep,Greg Conlon,237
+Calaveras,240 West Point E,Treasurer,,Rep,Greg Conlon,366
+Calaveras,250 Mokulumne Hill Center,Treasurer,,Rep,Greg Conlon,271
+Calaveras,260 Mokulumne Hill Rim 13,Treasurer,,Rep,Greg Conlon,302
+Calaveras,310 Arnold W 14,Treasurer,,Rep,Greg Conlon,409
+Calaveras,320 Central Arnold,Treasurer,,Rep,Greg Conlon,321
+Calaveras,330 Arnold E,Treasurer,,Rep,Greg Conlon,300
+Calaveras,350 Forest Meadows 17,Treasurer,,Rep,Greg Conlon,474
+Calaveras,360 Murphys West 18,Treasurer,,Rep,Greg Conlon,374
+Calaveras,370 Murphys East 19,Treasurer,,Rep,Greg Conlon,402
+Calaveras,410 Rural Angels 20,Treasurer,,Rep,Greg Conlon,583
+Calaveras,420 Angels City N 21,Treasurer,,Rep,Greg Conlon,409
+Calaveras,430 Angels City S 22,Treasurer,,Rep,Greg Conlon,611
+Calaveras,440 Copperopolis E 23,Treasurer,,Rep,Greg Conlon,625
+Calaveras,450 Copperopolis W 24,Treasurer,,Rep,Greg Conlon,696
+Calaveras,530 Jenny Lind 25,Treasurer,,Rep,Greg Conlon,577
+Calaveras,540 Rancho-LaContenta,Treasurer,,Rep,Greg Conlon,578
+Calaveras,550 Rancho-Berkesey,Treasurer,,Rep,Greg Conlon,667
+Calaveras,560 Rancho-Garner 28,Treasurer,,Rep,Greg Conlon,488
+Calaveras,570 Rancho-Jenny Lind 29,Treasurer,,Rep,Greg Conlon,488
+Calaveras,CALAVERAS CA,Treasurer,,Rep,Greg Conlon,12735
+Calaveras,110 San Andreas Proper,Treasurer,,Dem,Fiona Ma,274
+Calaveras,120 Rural San Andreas,Treasurer,,Dem,Fiona Ma,275
+Calaveras,140 Valley Sprs North,Treasurer,,Dem,Fiona Ma,223
+Calaveras,150 Valley Spr South,Treasurer,,Dem,Fiona Ma,188
+Calaveras,160 Burson North,Treasurer,,Dem,Fiona Ma,166
+Calaveras,170 Burson South,Treasurer,,Dem,Fiona Ma,235
+Calaveras,210 Mtn Ranch N 07,Treasurer,,Dem,Fiona Ma,202
+Calaveras,215 Mtn Ranch SE 08,Treasurer,,Dem,Fiona Ma,303
+Calaveras,220 Rail Road Flat,Treasurer,,Dem,Fiona Ma,244
+Calaveras,230 West Point W,Treasurer,,Dem,Fiona Ma,144
+Calaveras,240 West Point E,Treasurer,,Dem,Fiona Ma,256
+Calaveras,250 Mokulumne Hill Center,Treasurer,,Dem,Fiona Ma,222
+Calaveras,260 Mokulumne Hill Rim 13,Treasurer,,Dem,Fiona Ma,230
+Calaveras,310 Arnold W 14,Treasurer,,Dem,Fiona Ma,404
+Calaveras,320 Central Arnold,Treasurer,,Dem,Fiona Ma,297
+Calaveras,330 Arnold E,Treasurer,,Dem,Fiona Ma,357
+Calaveras,350 Forest Meadows 17,Treasurer,,Dem,Fiona Ma,538
+Calaveras,360 Murphys West 18,Treasurer,,Dem,Fiona Ma,489
+Calaveras,370 Murphys East 19,Treasurer,,Dem,Fiona Ma,359
+Calaveras,410 Rural Angels 20,Treasurer,,Dem,Fiona Ma,354
+Calaveras,420 Angels City N 21,Treasurer,,Dem,Fiona Ma,296
+Calaveras,430 Angels City S 22,Treasurer,,Dem,Fiona Ma,419
+Calaveras,440 Copperopolis E 23,Treasurer,,Dem,Fiona Ma,316
+Calaveras,450 Copperopolis W 24,Treasurer,,Dem,Fiona Ma,366
+Calaveras,530 Jenny Lind 25,Treasurer,,Dem,Fiona Ma,176
+Calaveras,540 Rancho-LaContenta,Treasurer,,Dem,Fiona Ma,274
+Calaveras,550 Rancho-Berkesey,Treasurer,,Dem,Fiona Ma,308
+Calaveras,560 Rancho-Garner 28,Treasurer,,Dem,Fiona Ma,246
+Calaveras,570 Rancho-Jenny Lind 29,Treasurer,,Dem,Fiona Ma,233
+Calaveras,CALAVERAS CA,Treasurer,,Dem,Fiona Ma,8394
+Calaveras,110 San Andreas Proper,Attorney General,,Rep,Steven Bailey,385
+Calaveras,120 Rural San Andreas,Attorney General,,Rep,Steven Bailey,550
+Calaveras,140 Valley Sprs North,Attorney General,,Rep,Steven Bailey,434
+Calaveras,150 Valley Spr South,Attorney General,,Rep,Steven Bailey,354
+Calaveras,160 Burson North,Attorney General,,Rep,Steven Bailey,467
+Calaveras,170 Burson South,Attorney General,,Rep,Steven Bailey,534
+Calaveras,210 Mtn Ranch N 07,Attorney General,,Rep,Steven Bailey,209
+Calaveras,215 Mtn Ranch SE 08,Attorney General,,Rep,Steven Bailey,370
+Calaveras,220 Rail Road Flat,Attorney General,,Rep,Steven Bailey,338
+Calaveras,230 West Point W,Attorney General,,Rep,Steven Bailey,241
+Calaveras,240 West Point E,Attorney General,,Rep,Steven Bailey,384
+Calaveras,250 Mokulumne Hill Center,Attorney General,,Rep,Steven Bailey,281
+Calaveras,260 Mokulumne Hill Rim 13,Attorney General,,Rep,Steven Bailey,317
+Calaveras,310 Arnold W 14,Attorney General,,Rep,Steven Bailey,423
+Calaveras,320 Central Arnold,Attorney General,,Rep,Steven Bailey,325
+Calaveras,330 Arnold E,Attorney General,,Rep,Steven Bailey,319
+Calaveras,350 Forest Meadows 17,Attorney General,,Rep,Steven Bailey,495
+Calaveras,360 Murphys West 18,Attorney General,,Rep,Steven Bailey,376
+Calaveras,370 Murphys East 19,Attorney General,,Rep,Steven Bailey,410
+Calaveras,410 Rural Angels 20,Attorney General,,Rep,Steven Bailey,600
+Calaveras,420 Angels City N 21,Attorney General,,Rep,Steven Bailey,415
+Calaveras,430 Angels City S 22,Attorney General,,Rep,Steven Bailey,609
+Calaveras,440 Copperopolis E 23,Attorney General,,Rep,Steven Bailey,635
+Calaveras,450 Copperopolis W 24,Attorney General,,Rep,Steven Bailey,709
+Calaveras,530 Jenny Lind 25,Attorney General,,Rep,Steven Bailey,595
+Calaveras,540 Rancho-LaContenta,Attorney General,,Rep,Steven Bailey,586
+Calaveras,550 Rancho-Berkesey,Attorney General,,Rep,Steven Bailey,693
+Calaveras,560 Rancho-Garner 28,Attorney General,,Rep,Steven Bailey,508
+Calaveras,570 Rancho-Jenny Lind 29,Attorney General,,Rep,Steven Bailey,496
+Calaveras,CALAVERAS CA,Attorney General,,Rep,Steven Bailey,13058
+Calaveras,110 San Andreas Proper,Attorney General,,Dem,Xavier Becerra,259
+Calaveras,120 Rural San Andreas,Attorney General,,Dem,Xavier Becerra,268
+Calaveras,140 Valley Sprs North,Attorney General,,Dem,Xavier Becerra,217
+Calaveras,150 Valley Spr South,Attorney General,,Dem,Xavier Becerra,174
+Calaveras,160 Burson North,Attorney General,,Dem,Xavier Becerra,147
+Calaveras,170 Burson South,Attorney General,,Dem,Xavier Becerra,213
+Calaveras,210 Mtn Ranch N 07,Attorney General,,Dem,Xavier Becerra,192
+Calaveras,215 Mtn Ranch SE 08,Attorney General,,Dem,Xavier Becerra,287
+Calaveras,220 Rail Road Flat,Attorney General,,Dem,Xavier Becerra,246
+Calaveras,230 West Point W,Attorney General,,Dem,Xavier Becerra,137
+Calaveras,240 West Point E,Attorney General,,Dem,Xavier Becerra,240
+Calaveras,250 Mokulumne Hill Center,Attorney General,,Dem,Xavier Becerra,212
+Calaveras,260 Mokulumne Hill Rim 13,Attorney General,,Dem,Xavier Becerra,213
+Calaveras,310 Arnold W 14,Attorney General,,Dem,Xavier Becerra,405
+Calaveras,320 Central Arnold,Attorney General,,Dem,Xavier Becerra,294
+Calaveras,330 Arnold E,Attorney General,,Dem,Xavier Becerra,347
+Calaveras,350 Forest Meadows 17,Attorney General,,Dem,Xavier Becerra,520
+Calaveras,360 Murphys West 18,Attorney General,,Dem,Xavier Becerra,485
+Calaveras,370 Murphys East 19,Attorney General,,Dem,Xavier Becerra,349
+Calaveras,410 Rural Angels 20,Attorney General,,Dem,Xavier Becerra,340
+Calaveras,420 Angels City N 21,Attorney General,,Dem,Xavier Becerra,287
+Calaveras,430 Angels City S 22,Attorney General,,Dem,Xavier Becerra,419
+Calaveras,440 Copperopolis E 23,Attorney General,,Dem,Xavier Becerra,306
+Calaveras,450 Copperopolis W 24,Attorney General,,Dem,Xavier Becerra,352
+Calaveras,530 Jenny Lind 25,Attorney General,,Dem,Xavier Becerra,156
+Calaveras,540 Rancho-LaContenta,Attorney General,,Dem,Xavier Becerra,266
+Calaveras,550 Rancho-Berkesey,Attorney General,,Dem,Xavier Becerra,282
+Calaveras,560 Rancho-Garner 28,Attorney General,,Dem,Xavier Becerra,226
+Calaveras,570 Rancho-Jenny Lind 29,Attorney General,,Dem,Xavier Becerra,223
+Calaveras,CALAVERAS CA,Attorney General,,Dem,Xavier Becerra,8062
+Calaveras,110 San Andreas Proper,Insurance Commissioner,,Dem,Ricardo Lara,208
+Calaveras,120 Rural San Andreas,Insurance Commissioner,,Dem,Ricardo Lara,180
+Calaveras,140 Valley Sprs North,Insurance Commissioner,,Dem,Ricardo Lara,168
+Calaveras,150 Valley Spr South,Insurance Commissioner,,Dem,Ricardo Lara,116
+Calaveras,160 Burson North,Insurance Commissioner,,Dem,Ricardo Lara,116
+Calaveras,170 Burson South,Insurance Commissioner,,Dem,Ricardo Lara,168
+Calaveras,210 Mtn Ranch N 07,Insurance Commissioner,,Dem,Ricardo Lara,131
+Calaveras,215 Mtn Ranch SE 08,Insurance Commissioner,,Dem,Ricardo Lara,202
+Calaveras,220 Rail Road Flat,Insurance Commissioner,,Dem,Ricardo Lara,184
+Calaveras,230 West Point W,Insurance Commissioner,,Dem,Ricardo Lara,107
+Calaveras,240 West Point E,Insurance Commissioner,,Dem,Ricardo Lara,175
+Calaveras,250 Mokulumne Hill Center,Insurance Commissioner,,Dem,Ricardo Lara,157
+Calaveras,260 Mokulumne Hill Rim 13,Insurance Commissioner,,Dem,Ricardo Lara,152
+Calaveras,310 Arnold W 14,Insurance Commissioner,,Dem,Ricardo Lara,280
+Calaveras,320 Central Arnold,Insurance Commissioner,,Dem,Ricardo Lara,206
+Calaveras,330 Arnold E,Insurance Commissioner,,Dem,Ricardo Lara,248
+Calaveras,350 Forest Meadows 17,Insurance Commissioner,,Dem,Ricardo Lara,368
+Calaveras,360 Murphys West 18,Insurance Commissioner,,Dem,Ricardo Lara,350
+Calaveras,370 Murphys East 19,Insurance Commissioner,,Dem,Ricardo Lara,263
+Calaveras,410 Rural Angels 20,Insurance Commissioner,,Dem,Ricardo Lara,256
+Calaveras,420 Angels City N 21,Insurance Commissioner,,Dem,Ricardo Lara,224
+Calaveras,430 Angels City S 22,Insurance Commissioner,,Dem,Ricardo Lara,285
+Calaveras,440 Copperopolis E 23,Insurance Commissioner,,Dem,Ricardo Lara,237
+Calaveras,450 Copperopolis W 24,Insurance Commissioner,,Dem,Ricardo Lara,265
+Calaveras,530 Jenny Lind 25,Insurance Commissioner,,Dem,Ricardo Lara,142
+Calaveras,540 Rancho-LaContenta,Insurance Commissioner,,Dem,Ricardo Lara,197
+Calaveras,550 Rancho-Berkesey,Insurance Commissioner,,Dem,Ricardo Lara,243
+Calaveras,560 Rancho-Garner 28,Insurance Commissioner,,Dem,Ricardo Lara,176
+Calaveras,570 Rancho-Jenny Lind 29,Insurance Commissioner,,Dem,Ricardo Lara,168
+Calaveras,CALAVERAS CA,Insurance Commissioner,,Dem,Ricardo Lara,5972
+Calaveras,110 San Andreas Proper,Insurance Commissioner,,NPP,Steve Poizner,397
+Calaveras,120 Rural San Andreas,Insurance Commissioner,,NPP,Steve Poizner,580
+Calaveras,140 Valley Sprs North,Insurance Commissioner,,NPP,Steve Poizner,437
+Calaveras,150 Valley Spr South,Insurance Commissioner,,NPP,Steve Poizner,373
+Calaveras,160 Burson North,Insurance Commissioner,,NPP,Steve Poizner,445
+Calaveras,170 Burson South,Insurance Commissioner,,NPP,Steve Poizner,531
+Calaveras,210 Mtn Ranch N 07,Insurance Commissioner,,NPP,Steve Poizner,256
+Calaveras,215 Mtn Ranch SE 08,Insurance Commissioner,,NPP,Steve Poizner,401
+Calaveras,220 Rail Road Flat,Insurance Commissioner,,NPP,Steve Poizner,359
+Calaveras,230 West Point W,Insurance Commissioner,,NPP,Steve Poizner,249
+Calaveras,240 West Point E,Insurance Commissioner,,NPP,Steve Poizner,407
+Calaveras,250 Mokulumne Hill Center,Insurance Commissioner,,NPP,Steve Poizner,306
+Calaveras,260 Mokulumne Hill Rim 13,Insurance Commissioner,,NPP,Steve Poizner,348
+Calaveras,310 Arnold W 14,Insurance Commissioner,,NPP,Steve Poizner,500
+Calaveras,320 Central Arnold,Insurance Commissioner,,NPP,Steve Poizner,379
+Calaveras,330 Arnold E,Insurance Commissioner,,NPP,Steve Poizner,385
+Calaveras,350 Forest Meadows 17,Insurance Commissioner,,NPP,Steve Poizner,606
+Calaveras,360 Murphys West 18,Insurance Commissioner,,NPP,Steve Poizner,473
+Calaveras,370 Murphys East 19,Insurance Commissioner,,NPP,Steve Poizner,461
+Calaveras,410 Rural Angels 20,Insurance Commissioner,,NPP,Steve Poizner,616
+Calaveras,420 Angels City N 21,Insurance Commissioner,,NPP,Steve Poizner,425
+Calaveras,430 Angels City S 22,Insurance Commissioner,,NPP,Steve Poizner,685
+Calaveras,440 Copperopolis E 23,Insurance Commissioner,,NPP,Steve Poizner,644
+Calaveras,450 Copperopolis W 24,Insurance Commissioner,,NPP,Steve Poizner,749
+Calaveras,530 Jenny Lind 25,Insurance Commissioner,,NPP,Steve Poizner,551
+Calaveras,540 Rancho-LaContenta,Insurance Commissioner,,NPP,Steve Poizner,609
+Calaveras,550 Rancho-Berkesey,Insurance Commissioner,,NPP,Steve Poizner,682
+Calaveras,560 Rancho-Garner 28,Insurance Commissioner,,NPP,Steve Poizner,514
+Calaveras,570 Rancho-Jenny Lind 29,Insurance Commissioner,,NPP,Steve Poizner,517
+Calaveras,CALAVERAS CA,Insurance Commissioner,,NPP,Steve Poizner,13885
+Calaveras,110 San Andreas Proper,US Senate,,Dem,Dianne Feinstein,208
+Calaveras,120 Rural San Andreas,US Senate,,Dem,Dianne Feinstein,236
+Calaveras,140 Valley Sprs North,US Senate,,Dem,Dianne Feinstein,207
+Calaveras,150 Valley Spr South,US Senate,,Dem,Dianne Feinstein,166
+Calaveras,160 Burson North,US Senate,,Dem,Dianne Feinstein,171
+Calaveras,170 Burson South,US Senate,,Dem,Dianne Feinstein,225
+Calaveras,210 Mtn Ranch N 07,US Senate,,Dem,Dianne Feinstein,131
+Calaveras,215 Mtn Ranch SE 08,US Senate,,Dem,Dianne Feinstein,225
+Calaveras,220 Rail Road Flat,US Senate,,Dem,Dianne Feinstein,225
+Calaveras,230 West Point W,US Senate,,Dem,Dianne Feinstein,108
+Calaveras,240 West Point E,US Senate,,Dem,Dianne Feinstein,201
+Calaveras,250 Mokulumne Hill Center,US Senate,,Dem,Dianne Feinstein,179
+Calaveras,260 Mokulumne Hill Rim 13,US Senate,,Dem,Dianne Feinstein,189
+Calaveras,310 Arnold W 14,US Senate,,Dem,Dianne Feinstein,328
+Calaveras,320 Central Arnold,US Senate,,Dem,Dianne Feinstein,262
+Calaveras,330 Arnold E,US Senate,,Dem,Dianne Feinstein,278
+Calaveras,350 Forest Meadows 17,US Senate,,Dem,Dianne Feinstein,433
+Calaveras,360 Murphys West 18,US Senate,,Dem,Dianne Feinstein,371
+Calaveras,370 Murphys East 19,US Senate,,Dem,Dianne Feinstein,283
+Calaveras,410 Rural Angels 20,US Senate,,Dem,Dianne Feinstein,324
+Calaveras,420 Angels City N 21,US Senate,,Dem,Dianne Feinstein,226
+Calaveras,430 Angels City S 22,US Senate,,Dem,Dianne Feinstein,339
+Calaveras,440 Copperopolis E 23,US Senate,,Dem,Dianne Feinstein,270
+Calaveras,450 Copperopolis W 24,US Senate,,Dem,Dianne Feinstein,350
+Calaveras,530 Jenny Lind 25,US Senate,,Dem,Dianne Feinstein,210
+Calaveras,540 Rancho-LaContenta,US Senate,,Dem,Dianne Feinstein,228
+Calaveras,550 Rancho-Berkesey,US Senate,,Dem,Dianne Feinstein,255
+Calaveras,560 Rancho-Garner 28,US Senate,,Dem,Dianne Feinstein,204
+Calaveras,570 Rancho-Jenny Lind 29,US Senate,,Dem,Dianne Feinstein,199
+Calaveras,CALAVERAS CA,US Senate,,Dem,Dianne Feinstein,7031
+Calaveras,110 San Andreas Proper,US Senate,,Dem,Kevin DeLeon,345
+Calaveras,120 Rural San Andreas,US Senate,,Dem,Kevin DeLeon,434
+Calaveras,140 Valley Sprs North,US Senate,,Dem,Kevin DeLeon,320
+Calaveras,150 Valley Spr South,US Senate,,Dem,Kevin DeLeon,262
+Calaveras,160 Burson North,US Senate,,Dem,Kevin DeLeon,300
+Calaveras,170 Burson South,US Senate,,Dem,Kevin DeLeon,353
+Calaveras,210 Mtn Ranch N 07,US Senate,,Dem,Kevin DeLeon,210
+Calaveras,215 Mtn Ranch SE 08,US Senate,,Dem,Kevin DeLeon,322
+Calaveras,220 Rail Road Flat,US Senate,,Dem,Kevin DeLeon,271
+Calaveras,230 West Point W,US Senate,,Dem,Kevin DeLeon,212
+Calaveras,240 West Point E,US Senate,,Dem,Kevin DeLeon,297
+Calaveras,250 Mokulumne Hill Center,US Senate,,Dem,Kevin DeLeon,225
+Calaveras,260 Mokulumne Hill Rim 13,US Senate,,Dem,Kevin DeLeon,273
+Calaveras,310 Arnold W 14,US Senate,,Dem,Kevin DeLeon,360
+Calaveras,320 Central Arnold,US Senate,,Dem,Kevin DeLeon,267
+Calaveras,330 Arnold E,US Senate,,Dem,Kevin DeLeon,286
+Calaveras,350 Forest Meadows 17,US Senate,,Dem,Kevin DeLeon,463
+Calaveras,360 Murphys West 18,US Senate,,Dem,Kevin DeLeon,369
+Calaveras,370 Murphys East 19,US Senate,,Dem,Kevin DeLeon,365
+Calaveras,410 Rural Angels 20,US Senate,,Dem,Kevin DeLeon,449
+Calaveras,420 Angels City N 21,US Senate,,Dem,Kevin DeLeon,365
+Calaveras,430 Angels City S 22,US Senate,,Dem,Kevin DeLeon,509
+Calaveras,440 Copperopolis E 23,US Senate,,Dem,Kevin DeLeon,486
+Calaveras,450 Copperopolis W 24,US Senate,,Dem,Kevin DeLeon,510
+Calaveras,530 Jenny Lind 25,US Senate,,Dem,Kevin DeLeon,365
+Calaveras,540 Rancho-LaContenta,US Senate,,Dem,Kevin DeLeon,436
+Calaveras,550 Rancho-Berkesey,US Senate,,Dem,Kevin DeLeon,549
+Calaveras,560 Rancho-Garner 28,US Senate,,Dem,Kevin DeLeon,391
+Calaveras,570 Rancho-Jenny Lind 29,US Senate,,Dem,Kevin DeLeon,363
+Calaveras,CALAVERAS CA,US Senate,,Dem,Kevin DeLeon,10357
+Calaveras,110 San Andreas Proper,Public Instruction,,None,Marshall Tuck,345
+Calaveras,120 Rural San Andreas,Public Instruction,,None,Marshall Tuck,459
+Calaveras,140 Valley Sprs North,Public Instruction,,None,Marshall Tuck,363
+Calaveras,150 Valley Spr South,Public Instruction,,None,Marshall Tuck,297
+Calaveras,160 Burson North,Public Instruction,,None,Marshall Tuck,379
+Calaveras,170 Burson South,Public Instruction,,None,Marshall Tuck,425
+Calaveras,210 Mtn Ranch N 07,Public Instruction,,None,Marshall Tuck,213
+Calaveras,215 Mtn Ranch SE 08,Public Instruction,,None,Marshall Tuck,342
+Calaveras,220 Rail Road Flat,Public Instruction,,None,Marshall Tuck,314
+Calaveras,230 West Point W,Public Instruction,,None,Marshall Tuck,230
+Calaveras,240 West Point E,Public Instruction,,None,Marshall Tuck,337
+Calaveras,250 Mokulumne Hill Center,Public Instruction,,None,Marshall Tuck,284
+Calaveras,260 Mokulumne Hill Rim 13,Public Instruction,,None,Marshall Tuck,297
+Calaveras,310 Arnold W 14,Public Instruction,,None,Marshall Tuck,418
+Calaveras,320 Central Arnold,Public Instruction,,None,Marshall Tuck,291
+Calaveras,330 Arnold E,Public Instruction,,None,Marshall Tuck,298
+Calaveras,350 Forest Meadows 17,Public Instruction,,None,Marshall Tuck,484
+Calaveras,360 Murphys West 18,Public Instruction,,None,Marshall Tuck,397
+Calaveras,370 Murphys East 19,Public Instruction,,None,Marshall Tuck,347
+Calaveras,410 Rural Angels 20,Public Instruction,,None,Marshall Tuck,502
+Calaveras,420 Angels City N 21,Public Instruction,,None,Marshall Tuck,359
+Calaveras,430 Angels City S 22,Public Instruction,,None,Marshall Tuck,551
+Calaveras,440 Copperopolis E 23,Public Instruction,,None,Marshall Tuck,538
+Calaveras,450 Copperopolis W 24,Public Instruction,,None,Marshall Tuck,603
+Calaveras,530 Jenny Lind 25,Public Instruction,,None,Marshall Tuck,468
+Calaveras,540 Rancho-LaContenta,Public Instruction,,None,Marshall Tuck,527
+Calaveras,550 Rancho-Berkesey,Public Instruction,,None,Marshall Tuck,570
+Calaveras,560 Rancho-Garner 28,Public Instruction,,None,Marshall Tuck,427
+Calaveras,570 Rancho-Jenny Lind 29,Public Instruction,,None,Marshall Tuck,443
+Calaveras,CALAVERAS CA,Public Instruction,,None,Marshall Tuck,11508
+Calaveras,110 San Andreas Proper,Public Instruction,,None,Tony Thurmond,206
+Calaveras,120 Rural San Andreas,Public Instruction,,None,Tony Thurmond,252
+Calaveras,140 Valley Sprs North,Public Instruction,,None,Tony Thurmond,186
+Calaveras,150 Valley Spr South,Public Instruction,,None,Tony Thurmond,142
+Calaveras,160 Burson North,Public Instruction,,None,Tony Thurmond,138
+Calaveras,170 Burson South,Public Instruction,,None,Tony Thurmond,195
+Calaveras,210 Mtn Ranch N 07,Public Instruction,,None,Tony Thurmond,142
+Calaveras,215 Mtn Ranch SE 08,Public Instruction,,None,Tony Thurmond,218
+Calaveras,220 Rail Road Flat,Public Instruction,,None,Tony Thurmond,186
+Calaveras,230 West Point W,Public Instruction,,None,Tony Thurmond,103
+Calaveras,240 West Point E,Public Instruction,,None,Tony Thurmond,176
+Calaveras,250 Mokulumne Hill Center,Public Instruction,,None,Tony Thurmond,160
+Calaveras,260 Mokulumne Hill Rim 13,Public Instruction,,None,Tony Thurmond,160
+Calaveras,310 Arnold W 14,Public Instruction,,None,Tony Thurmond,301
+Calaveras,320 Central Arnold,Public Instruction,,None,Tony Thurmond,243
+Calaveras,330 Arnold E,Public Instruction,,None,Tony Thurmond,236
+Calaveras,350 Forest Meadows 17,Public Instruction,,None,Tony Thurmond,413
+Calaveras,360 Murphys West 18,Public Instruction,,None,Tony Thurmond,342
+Calaveras,370 Murphys East 19,Public Instruction,,None,Tony Thurmond,285
+Calaveras,410 Rural Angels 20,Public Instruction,,None,Tony Thurmond,285
+Calaveras,420 Angels City N 21,Public Instruction,,None,Tony Thurmond,251
+Calaveras,430 Angels City S 22,Public Instruction,,None,Tony Thurmond,335
+Calaveras,440 Copperopolis E 23,Public Instruction,,None,Tony Thurmond,275
+Calaveras,450 Copperopolis W 24,Public Instruction,,None,Tony Thurmond,308
+Calaveras,530 Jenny Lind 25,Public Instruction,,None,Tony Thurmond,174
+Calaveras,540 Rancho-LaContenta,Public Instruction,,None,Tony Thurmond,219
+Calaveras,550 Rancho-Berkesey,Public Instruction,,None,Tony Thurmond,271
+Calaveras,560 Rancho-Garner 28,Public Instruction,,None,Tony Thurmond,197
+Calaveras,570 Rancho-Jenny Lind 29,Public Instruction,,None,Tony Thurmond,186
+Calaveras,CALAVERAS CA,Public Instruction,,None,Tony Thurmond,6585
+Calaveras,110 San Andreas Proper,US House,4,Dem,Jessica Morse,293
+Calaveras,120 Rural San Andreas,US House,4,Dem,Jessica Morse,304
+Calaveras,140 Valley Sprs North,US House,4,Dem,Jessica Morse,238
+Calaveras,150 Valley Spr South,US House,4,Dem,Jessica Morse,196
+Calaveras,160 Burson North,US House,4,Dem,Jessica Morse,172
+Calaveras,170 Burson South,US House,4,Dem,Jessica Morse,249
+Calaveras,210 Mtn Ranch N 07,US House,4,Dem,Jessica Morse,213
+Calaveras,215 Mtn Ranch SE 08,US House,4,Dem,Jessica Morse,324
+Calaveras,220 Rail Road Flat,US House,4,Dem,Jessica Morse,282
+Calaveras,230 West Point W,US House,4,Dem,Jessica Morse,157
+Calaveras,240 West Point E,US House,4,Dem,Jessica Morse,267
+Calaveras,250 Mokulumne Hill Center,US House,4,Dem,Jessica Morse,231
+Calaveras,260 Mokulumne Hill Rim 13,US House,4,Dem,Jessica Morse,239
+Calaveras,310 Arnold W 14,US House,4,Dem,Jessica Morse,441
+Calaveras,320 Central Arnold,US House,4,Dem,Jessica Morse,325
+Calaveras,330 Arnold E,US House,4,Dem,Jessica Morse,367
+Calaveras,350 Forest Meadows 17,US House,4,Dem,Jessica Morse,577
+Calaveras,360 Murphys West 18,US House,4,Dem,Jessica Morse,535
+Calaveras,370 Murphys East 19,US House,4,Dem,Jessica Morse,393
+Calaveras,410 Rural Angels 20,US House,4,Dem,Jessica Morse,395
+Calaveras,420 Angels City N 21,US House,4,Dem,Jessica Morse,307
+Calaveras,430 Angels City S 22,US House,4,Dem,Jessica Morse,471
+Calaveras,440 Copperopolis E 23,US House,4,Dem,Jessica Morse,341
+Calaveras,450 Copperopolis W 24,US House,4,Dem,Jessica Morse,383
+Calaveras,530 Jenny Lind 25,US House,4,Dem,Jessica Morse,182
+Calaveras,540 Rancho-LaContenta,US House,4,Dem,Jessica Morse,289
+Calaveras,550 Rancho-Berkesey,US House,4,Dem,Jessica Morse,334
+Calaveras,560 Rancho-Garner 28,US House,4,Dem,Jessica Morse,253
+Calaveras,570 Rancho-Jenny Lind 29,US House,4,Dem,Jessica Morse,248
+Calaveras,CALAVERAS CA,US House,4,Dem,Jessica Morse,9006
+Calaveras,110 San Andreas Proper,US House,4,Rep,Tom McClintock,369
+Calaveras,120 Rural San Andreas,US House,4,Rep,Tom McClintock,538
+Calaveras,140 Valley Sprs North,US House,4,Rep,Tom McClintock,422
+Calaveras,150 Valley Spr South,US House,4,Rep,Tom McClintock,339
+Calaveras,160 Burson North,US House,4,Rep,Tom McClintock,445
+Calaveras,170 Burson South,US House,4,Rep,Tom McClintock,511
+Calaveras,210 Mtn Ranch N 07,US House,4,Rep,Tom McClintock,193
+Calaveras,215 Mtn Ranch SE 08,US House,4,Rep,Tom McClintock,350
+Calaveras,220 Rail Road Flat,US House,4,Rep,Tom McClintock,321
+Calaveras,230 West Point W,US House,4,Rep,Tom McClintock,226
+Calaveras,240 West Point E,US House,4,Rep,Tom McClintock,365
+Calaveras,250 Mokulumne Hill Center,US House,4,Rep,Tom McClintock,273
+Calaveras,260 Mokulumne Hill Rim 13,US House,4,Rep,Tom McClintock,296
+Calaveras,310 Arnold W 14,US House,4,Rep,Tom McClintock,401
+Calaveras,320 Central Arnold,US House,4,Rep,Tom McClintock,307
+Calaveras,330 Arnold E,US House,4,Rep,Tom McClintock,306
+Calaveras,350 Forest Meadows 17,US House,4,Rep,Tom McClintock,467
+Calaveras,360 Murphys West 18,US House,4,Rep,Tom McClintock,342
+Calaveras,370 Murphys East 19,US House,4,Rep,Tom McClintock,390
+Calaveras,410 Rural Angels 20,US House,4,Rep,Tom McClintock,574
+Calaveras,420 Angels City N 21,US House,4,Rep,Tom McClintock,406
+Calaveras,430 Angels City S 22,US House,4,Rep,Tom McClintock,585
+Calaveras,440 Copperopolis E 23,US House,4,Rep,Tom McClintock,618
+Calaveras,450 Copperopolis W 24,US House,4,Rep,Tom McClintock,690
+Calaveras,530 Jenny Lind 25,US House,4,Rep,Tom McClintock,581
+Calaveras,540 Rancho-LaContenta,US House,4,Rep,Tom McClintock,573
+Calaveras,550 Rancho-Berkesey,US House,4,Rep,Tom McClintock,656
+Calaveras,560 Rancho-Garner 28,US House,4,Rep,Tom McClintock,493
+Calaveras,570 Rancho-Jenny Lind 29,US House,4,Rep,Tom McClintock,481
+Calaveras,CALAVERAS CA,US House,4,Rep,Tom McClintock,12518
+Calaveras,110 San Andreas Proper,State Senate,8,Dem,Paulina Miranda,250
+Calaveras,120 Rural San Andreas,State Senate,8,Dem,Paulina Miranda,242
+Calaveras,140 Valley Sprs North,State Senate,8,Dem,Paulina Miranda,214
+Calaveras,150 Valley Spr South,State Senate,8,Dem,Paulina Miranda,153
+Calaveras,160 Burson North,State Senate,8,Dem,Paulina Miranda,148
+Calaveras,170 Burson South,State Senate,8,Dem,Paulina Miranda,194
+Calaveras,210 Mtn Ranch N 07,State Senate,8,Dem,Paulina Miranda,185
+Calaveras,215 Mtn Ranch SE 08,State Senate,8,Dem,Paulina Miranda,291
+Calaveras,220 Rail Road Flat,State Senate,8,Dem,Paulina Miranda,236
+Calaveras,230 West Point W,State Senate,8,Dem,Paulina Miranda,130
+Calaveras,240 West Point E,State Senate,8,Dem,Paulina Miranda,235
+Calaveras,250 Mokulumne Hill Center,State Senate,8,Dem,Paulina Miranda,195
+Calaveras,260 Mokulumne Hill Rim 13,State Senate,8,Dem,Paulina Miranda,211
+Calaveras,310 Arnold W 14,State Senate,8,Dem,Paulina Miranda,382
+Calaveras,320 Central Arnold,State Senate,8,Dem,Paulina Miranda,271
+Calaveras,330 Arnold E,State Senate,8,Dem,Paulina Miranda,331
+Calaveras,350 Forest Meadows 17,State Senate,8,Dem,Paulina Miranda,478
+Calaveras,360 Murphys West 18,State Senate,8,Dem,Paulina Miranda,462
+Calaveras,370 Murphys East 19,State Senate,8,Dem,Paulina Miranda,333
+Calaveras,410 Rural Angels 20,State Senate,8,Dem,Paulina Miranda,338
+Calaveras,420 Angels City N 21,State Senate,8,Dem,Paulina Miranda,268
+Calaveras,430 Angels City S 22,State Senate,8,Dem,Paulina Miranda,388
+Calaveras,440 Copperopolis E 23,State Senate,8,Dem,Paulina Miranda,287
+Calaveras,450 Copperopolis W 24,State Senate,8,Dem,Paulina Miranda,726
+Calaveras,530 Jenny Lind 25,State Senate,8,Dem,Paulina Miranda,160
+Calaveras,540 Rancho-LaContenta,State Senate,8,Dem,Paulina Miranda,246
+Calaveras,550 Rancho-Berkesey,State Senate,8,Dem,Paulina Miranda,272
+Calaveras,560 Rancho-Garner 28,State Senate,8,Dem,Paulina Miranda,216
+Calaveras,570 Rancho-Jenny Lind 29,State Senate,8,Dem,Paulina Miranda,211
+Calaveras,CALAVERAS CA,State Senate,8,Dem,Paulina Miranda,8053
+Calaveras,110 San Andreas Proper,State Senate,8,Rep,Andreas Borgeas,394
+Calaveras,120 Rural San Andreas,State Senate,8,Rep,Andreas Borgeas,572
+Calaveras,140 Valley Sprs North,State Senate,8,Rep,Andreas Borgeas,435
+Calaveras,150 Valley Spr South,State Senate,8,Rep,Andreas Borgeas,369
+Calaveras,160 Burson North,State Senate,8,Rep,Andreas Borgeas,465
+Calaveras,170 Burson South,State Senate,8,Rep,Andreas Borgeas,550
+Calaveras,210 Mtn Ranch N 07,State Senate,8,Rep,Andreas Borgeas,211
+Calaveras,215 Mtn Ranch SE 08,State Senate,8,Rep,Andreas Borgeas,366
+Calaveras,220 Rail Road Flat,State Senate,8,Rep,Andreas Borgeas,348
+Calaveras,230 West Point W,State Senate,8,Rep,Andreas Borgeas,245
+Calaveras,240 West Point E,State Senate,8,Rep,Andreas Borgeas,378
+Calaveras,250 Mokulumne Hill Center,State Senate,8,Rep,Andreas Borgeas,301
+Calaveras,260 Mokulumne Hill Rim 13,State Senate,8,Rep,Andreas Borgeas,313
+Calaveras,310 Arnold W 14,State Senate,8,Rep,Andreas Borgeas,433
+Calaveras,320 Central Arnold,State Senate,8,Rep,Andreas Borgeas,339
+Calaveras,330 Arnold E,State Senate,8,Rep,Andreas Borgeas,324
+Calaveras,350 Forest Meadows 17,State Senate,8,Rep,Andreas Borgeas,524
+Calaveras,360 Murphys West 18,State Senate,8,Rep,Andreas Borgeas,392
+Calaveras,370 Murphys East 19,State Senate,8,Rep,Andreas Borgeas,417
+Calaveras,410 Rural Angels 20,State Senate,8,Rep,Andreas Borgeas,600
+Calaveras,420 Angels City N 21,State Senate,8,Rep,Andreas Borgeas,425
+Calaveras,430 Angels City S 22,State Senate,8,Rep,Andreas Borgeas,645
+Calaveras,440 Copperopolis E 23,State Senate,8,Rep,Andreas Borgeas,659
+Calaveras,450 Copperopolis W 24,State Senate,8,Rep,Andreas Borgeas,334
+Calaveras,530 Jenny Lind 25,State Senate,8,Rep,Andreas Borgeas,594
+Calaveras,540 Rancho-LaContenta,State Senate,8,Rep,Andreas Borgeas,607
+Calaveras,550 Rancho-Berkesey,State Senate,8,Rep,Andreas Borgeas,694
+Calaveras,560 Rancho-Garner 28,State Senate,8,Rep,Andreas Borgeas,514
+Calaveras,570 Rancho-Jenny Lind 29,State Senate,8,Rep,Andreas Borgeas,509
+Calaveras,CALAVERAS CA,State Senate,8,Rep,Andreas Borgeas,12957
+Calaveras,110 San Andreas Proper,Assembly,5,Dem,Carla Neal,245
+Calaveras,120 Rural San Andreas,Assembly,5,Dem,Carla Neal,253
+Calaveras,140 Valley Sprs North,Assembly,5,Dem,Carla Neal,216
+Calaveras,150 Valley Spr South,Assembly,5,Dem,Carla Neal,159
+Calaveras,160 Burson North,Assembly,5,Dem,Carla Neal,144
+Calaveras,170 Burson South,Assembly,5,Dem,Carla Neal,204
+Calaveras,210 Mtn Ranch N 07,Assembly,5,Dem,Carla Neal,185
+Calaveras,215 Mtn Ranch SE 08,Assembly,5,Dem,Carla Neal,288
+Calaveras,220 Rail Road Flat,Assembly,5,Dem,Carla Neal,226
+Calaveras,230 West Point W,Assembly,5,Dem,Carla Neal,133
+Calaveras,240 West Point E,Assembly,5,Dem,Carla Neal,242
+Calaveras,250 Mokulumne Hill Center,Assembly,5,Dem,Carla Neal,198
+Calaveras,260 Mokulumne Hill Rim 13,Assembly,5,Dem,Carla Neal,212
+Calaveras,310 Arnold W 14,Assembly,5,Dem,Carla Neal,425
+Calaveras,320 Central Arnold,Assembly,5,Dem,Carla Neal,288
+Calaveras,330 Arnold E,Assembly,5,Dem,Carla Neal,333
+Calaveras,350 Forest Meadows 17,Assembly,5,Dem,Carla Neal,503
+Calaveras,360 Murphys West 18,Assembly,5,Dem,Carla Neal,453
+Calaveras,370 Murphys East 19,Assembly,5,Dem,Carla Neal,326
+Calaveras,410 Rural Angels 20,Assembly,5,Dem,Carla Neal,335
+Calaveras,420 Angels City N 21,Assembly,5,Dem,Carla Neal,263
+Calaveras,430 Angels City S 22,Assembly,5,Dem,Carla Neal,387
+Calaveras,440 Copperopolis E 23,Assembly,5,Dem,Carla Neal,280
+Calaveras,450 Copperopolis W 24,Assembly,5,Dem,Carla Neal,724
+Calaveras,530 Jenny Lind 25,Assembly,5,Dem,Carla Neal,156
+Calaveras,540 Rancho-LaContenta,Assembly,5,Dem,Carla Neal,251
+Calaveras,550 Rancho-Berkesey,Assembly,5,Dem,Carla Neal,288
+Calaveras,560 Rancho-Garner 28,Assembly,5,Dem,Carla Neal,228
+Calaveras,570 Rancho-Jenny Lind 29,Assembly,5,Dem,Carla Neal,216
+Calaveras,CALAVERAS CA,Assembly,5,Dem,Carla Neal,8161
+Calaveras,110 San Andreas Proper,Assembly,5,Rep,Frank Bigelow,406
+Calaveras,120 Rural San Andreas,Assembly,5,Rep,Frank Bigelow,572
+Calaveras,140 Valley Sprs North,Assembly,5,Rep,Frank Bigelow,439
+Calaveras,150 Valley Spr South,Assembly,5,Rep,Frank Bigelow,371
+Calaveras,160 Burson North,Assembly,5,Rep,Frank Bigelow,470
+Calaveras,170 Burson South,Assembly,5,Rep,Frank Bigelow,543
+Calaveras,210 Mtn Ranch N 07,Assembly,5,Rep,Frank Bigelow,213
+Calaveras,215 Mtn Ranch SE 08,Assembly,5,Rep,Frank Bigelow,376
+Calaveras,220 Rail Road Flat,Assembly,5,Rep,Frank Bigelow,362
+Calaveras,230 West Point W,Assembly,5,Rep,Frank Bigelow,245
+Calaveras,240 West Point E,Assembly,5,Rep,Frank Bigelow,375
+Calaveras,250 Mokulumne Hill Center,Assembly,5,Rep,Frank Bigelow,303
+Calaveras,260 Mokulumne Hill Rim 13,Assembly,5,Rep,Frank Bigelow,313
+Calaveras,310 Arnold W 14,Assembly,5,Rep,Frank Bigelow,395
+Calaveras,320 Central Arnold,Assembly,5,Rep,Frank Bigelow,328
+Calaveras,330 Arnold E,Assembly,5,Rep,Frank Bigelow,327
+Calaveras,350 Forest Meadows 17,Assembly,5,Rep,Frank Bigelow,513
+Calaveras,360 Murphys West 18,Assembly,5,Rep,Frank Bigelow,402
+Calaveras,370 Murphys East 19,Assembly,5,Rep,Frank Bigelow,436
+Calaveras,410 Rural Angels 20,Assembly,5,Rep,Frank Bigelow,614
+Calaveras,420 Angels City N 21,Assembly,5,Rep,Frank Bigelow,431
+Calaveras,430 Angels City S 22,Assembly,5,Rep,Frank Bigelow,645
+Calaveras,440 Copperopolis E 23,Assembly,5,Rep,Frank Bigelow,667
+Calaveras,450 Copperopolis W 24,Assembly,5,Rep,Frank Bigelow,339
+Calaveras,530 Jenny Lind 25,Assembly,5,Rep,Frank Bigelow,600
+Calaveras,540 Rancho-LaContenta,Assembly,5,Rep,Frank Bigelow,600
+Calaveras,550 Rancho-Berkesey,Assembly,5,Rep,Frank Bigelow,690
+Calaveras,560 Rancho-Garner 28,Assembly,5,Rep,Frank Bigelow,511
+Calaveras,570 Rancho-Jenny Lind 29,Assembly,5,Rep,Frank Bigelow,507
+Calaveras,CALAVERAS CA,Assembly,5,Rep,Frank Bigelow,12993

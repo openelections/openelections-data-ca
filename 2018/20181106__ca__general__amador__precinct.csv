@@ -1,0 +1,745 @@
+county,precinct,office,district,party,candidate,votes
+Amador,CP01,Governor,,Rep,John Cox,490
+Amador,CP02,Governor,,Rep,John Cox,406
+Amador,CP03,Governor,,Rep,John Cox,249
+Amador,CP04,Governor,,Rep,John Cox,565
+Amador,CP05,Governor,,Rep,John Cox,271
+Amador,CP06,Governor,,Rep,John Cox,876
+Amador,CP07,Governor,,Rep,John Cox,526
+Amador,CP08,Governor,,Rep,John Cox,153
+Amador,CP09,Governor,,Rep,John Cox,234
+Amador,CP10,Governor,,Rep,John Cox,360
+Amador,CP11,Governor,,Rep,John Cox,46
+Amador,CP12,Governor,,Rep,John Cox,225
+Amador,CP13,Governor,,Rep,John Cox,386
+Amador,CP14,Governor,,Rep,John Cox,431
+Amador,CP15,Governor,,Rep,John Cox,637
+Amador,CP16,Governor,,Rep,John Cox,366
+Amador,CP17,Governor,,Rep,John Cox,373
+Amador,CP18,Governor,,Rep,John Cox,428
+Amador,CP19,Governor,,Rep,John Cox,556
+Amador,CP20,Governor,,Rep,John Cox,343
+Amador,CP21,Governor,,Rep,John Cox,527
+Amador,CP22,Governor,,Rep,John Cox,259
+Amador,CP23,Governor,,Rep,John Cox,559
+Amador,CP25,Governor,,Rep,John Cox,324
+Amador,CP26,Governor,,Rep,John Cox,282
+Amador,CP27,Governor,,Rep,John Cox,284
+Amador,CP28,Governor,,Rep,John Cox,351
+Amador,CP29,Governor,,Rep,John Cox,257
+Amador,CP30,Governor,,Rep,John Cox,581
+Amador,CP83,Governor,,Rep,John Cox,11
+Amador,AMADOR CA,Governor,,Rep,John Cox,11356
+Amador,CP01,Governor,,Dem,Gavin Newsom,328
+Amador,CP02,Governor,,Dem,Gavin Newsom,306
+Amador,CP03,Governor,,Dem,Gavin Newsom,240
+Amador,CP04,Governor,,Dem,Gavin Newsom,254
+Amador,CP05,Governor,,Dem,Gavin Newsom,156
+Amador,CP06,Governor,,Dem,Gavin Newsom,356
+Amador,CP07,Governor,,Dem,Gavin Newsom,214
+Amador,CP08,Governor,,Dem,Gavin Newsom,34
+Amador,CP09,Governor,,Dem,Gavin Newsom,58
+Amador,CP10,Governor,,Dem,Gavin Newsom,143
+Amador,CP11,Governor,,Dem,Gavin Newsom,66
+Amador,CP12,Governor,,Dem,Gavin Newsom,157
+Amador,CP13,Governor,,Dem,Gavin Newsom,205
+Amador,CP14,Governor,,Dem,Gavin Newsom,231
+Amador,CP15,Governor,,Dem,Gavin Newsom,359
+Amador,CP16,Governor,,Dem,Gavin Newsom,234
+Amador,CP17,Governor,,Dem,Gavin Newsom,210
+Amador,CP18,Governor,,Dem,Gavin Newsom,351
+Amador,CP19,Governor,,Dem,Gavin Newsom,278
+Amador,CP20,Governor,,Dem,Gavin Newsom,189
+Amador,CP21,Governor,,Dem,Gavin Newsom,271
+Amador,CP22,Governor,,Dem,Gavin Newsom,123
+Amador,CP23,Governor,,Dem,Gavin Newsom,360
+Amador,CP25,Governor,,Dem,Gavin Newsom,214
+Amador,CP26,Governor,,Dem,Gavin Newsom,168
+Amador,CP27,Governor,,Dem,Gavin Newsom,187
+Amador,CP28,Governor,,Dem,Gavin Newsom,173
+Amador,CP29,Governor,,Dem,Gavin Newsom,129
+Amador,CP30,Governor,,Dem,Gavin Newsom,213
+Amador,CP83,Governor,,Dem,Gavin Newsom,30
+Amador,AMADOR CA,Governor,,Dem,Gavin Newsom,6237
+Amador,CP01,Lt Governor,,Dem,Ed Hernandez,239
+Amador,CP02,Lt Governor,,Dem,Ed Hernandez,209
+Amador,CP03,Lt Governor,,Dem,Ed Hernandez,122
+Amador,CP04,Lt Governor,,Dem,Ed Hernandez,229
+Amador,CP05,Lt Governor,,Dem,Ed Hernandez,127
+Amador,CP06,Lt Governor,,Dem,Ed Hernandez,341
+Amador,CP07,Lt Governor,,Dem,Ed Hernandez,191
+Amador,CP08,Lt Governor,,Dem,Ed Hernandez,46
+Amador,CP09,Lt Governor,,Dem,Ed Hernandez,86
+Amador,CP10,Lt Governor,,Dem,Ed Hernandez,146
+Amador,CP11,Lt Governor,,Dem,Ed Hernandez,29
+Amador,CP12,Lt Governor,,Dem,Ed Hernandez,104
+Amador,CP13,Lt Governor,,Dem,Ed Hernandez,179
+Amador,CP14,Lt Governor,,Dem,Ed Hernandez,207
+Amador,CP15,Lt Governor,,Dem,Ed Hernandez,256
+Amador,CP16,Lt Governor,,Dem,Ed Hernandez,149
+Amador,CP17,Lt Governor,,Dem,Ed Hernandez,141
+Amador,CP18,Lt Governor,,Dem,Ed Hernandez,192
+Amador,CP19,Lt Governor,,Dem,Ed Hernandez,258
+Amador,CP20,Lt Governor,,Dem,Ed Hernandez,162
+Amador,CP21,Lt Governor,,Dem,Ed Hernandez,222
+Amador,CP22,Lt Governor,,Dem,Ed Hernandez,125
+Amador,CP23,Lt Governor,,Dem,Ed Hernandez,258
+Amador,CP25,Lt Governor,,Dem,Ed Hernandez,147
+Amador,CP26,Lt Governor,,Dem,Ed Hernandez,103
+Amador,CP27,Lt Governor,,Dem,Ed Hernandez,121
+Amador,CP28,Lt Governor,,Dem,Ed Hernandez,155
+Amador,CP29,Lt Governor,,Dem,Ed Hernandez,100
+Amador,CP30,Lt Governor,,Dem,Ed Hernandez,247
+Amador,CP83,Lt Governor,,Dem,Ed Hernandez,10
+Amador,AMADOR CA,Lt Governor,,Dem,Ed Hernandez,4901
+Amador,CP01,Lt Governor,,Dem,Eleni Kounalakis,386
+Amador,CP02,Lt Governor,,Dem,Eleni Kounalakis,322
+Amador,CP03,Lt Governor,,Dem,Eleni Kounalakis,255
+Amador,CP04,Lt Governor,,Dem,Eleni Kounalakis,324
+Amador,CP05,Lt Governor,,Dem,Eleni Kounalakis,186
+Amador,CP06,Lt Governor,,Dem,Eleni Kounalakis,529
+Amador,CP07,Lt Governor,,Dem,Eleni Kounalakis,317
+Amador,CP08,Lt Governor,,Dem,Eleni Kounalakis,68
+Amador,CP09,Lt Governor,,Dem,Eleni Kounalakis,99
+Amador,CP10,Lt Governor,,Dem,Eleni Kounalakis,201
+Amador,CP11,Lt Governor,,Dem,Eleni Kounalakis,63
+Amador,CP12,Lt Governor,,Dem,Eleni Kounalakis,171
+Amador,CP13,Lt Governor,,Dem,Eleni Kounalakis,251
+Amador,CP14,Lt Governor,,Dem,Eleni Kounalakis,306
+Amador,CP15,Lt Governor,,Dem,Eleni Kounalakis,435
+Amador,CP16,Lt Governor,,Dem,Eleni Kounalakis,280
+Amador,CP17,Lt Governor,,Dem,Eleni Kounalakis,261
+Amador,CP18,Lt Governor,,Dem,Eleni Kounalakis,391
+Amador,CP19,Lt Governor,,Dem,Eleni Kounalakis,354
+Amador,CP20,Lt Governor,,Dem,Eleni Kounalakis,244
+Amador,CP21,Lt Governor,,Dem,Eleni Kounalakis,353
+Amador,CP22,Lt Governor,,Dem,Eleni Kounalakis,170
+Amador,CP23,Lt Governor,,Dem,Eleni Kounalakis,411
+Amador,CP25,Lt Governor,,Dem,Eleni Kounalakis,254
+Amador,CP26,Lt Governor,,Dem,Eleni Kounalakis,233
+Amador,CP27,Lt Governor,,Dem,Eleni Kounalakis,226
+Amador,CP28,Lt Governor,,Dem,Eleni Kounalakis,221
+Amador,CP29,Lt Governor,,Dem,Eleni Kounalakis,161
+Amador,CP30,Lt Governor,,Dem,Eleni Kounalakis,334
+Amador,CP83,Lt Governor,,Dem,Eleni Kounalakis,28
+Amador,AMADOR CA,Lt Governor,,Dem,Eleni Kounalakis,7834
+Amador,CP01,Secretary of State,,Dem,Alex Padilla,372
+Amador,CP02,Secretary of State,,Dem,Alex Padilla,324
+Amador,CP03,Secretary of State,,Dem,Alex Padilla,252
+Amador,CP04,Secretary of State,,Dem,Alex Padilla,281
+Amador,CP05,Secretary of State,,Dem,Alex Padilla,174
+Amador,CP06,Secretary of State,,Dem,Alex Padilla,414
+Amador,CP07,Secretary of State,,Dem,Alex Padilla,255
+Amador,CP08,Secretary of State,,Dem,Alex Padilla,37
+Amador,CP09,Secretary of State,,Dem,Alex Padilla,69
+Amador,CP10,Secretary of State,,Dem,Alex Padilla,159
+Amador,CP11,Secretary of State,,Dem,Alex Padilla,67
+Amador,CP12,Secretary of State,,Dem,Alex Padilla,161
+Amador,CP13,Secretary of State,,Dem,Alex Padilla,212
+Amador,CP14,Secretary of State,,Dem,Alex Padilla,245
+Amador,CP15,Secretary of State,,Dem,Alex Padilla,385
+Amador,CP16,Secretary of State,,Dem,Alex Padilla,244
+Amador,CP17,Secretary of State,,Dem,Alex Padilla,233
+Amador,CP18,Secretary of State,,Dem,Alex Padilla,373
+Amador,CP19,Secretary of State,,Dem,Alex Padilla,303
+Amador,CP20,Secretary of State,,Dem,Alex Padilla,210
+Amador,CP21,Secretary of State,,Dem,Alex Padilla,300
+Amador,CP22,Secretary of State,,Dem,Alex Padilla,134
+Amador,CP23,Secretary of State,,Dem,Alex Padilla,390
+Amador,CP25,Secretary of State,,Dem,Alex Padilla,245
+Amador,CP26,Secretary of State,,Dem,Alex Padilla,180
+Amador,CP27,Secretary of State,,Dem,Alex Padilla,208
+Amador,CP28,Secretary of State,,Dem,Alex Padilla,190
+Amador,CP29,Secretary of State,,Dem,Alex Padilla,135
+Amador,CP30,Secretary of State,,Dem,Alex Padilla,244
+Amador,CP83,Secretary of State,,Dem,Alex Padilla,27
+Amador,AMADOR CA,Secretary of State,,Dem,Alex Padilla,6823
+Amador,CP01,Secretary of State,,Rep,Mark Meuser,432
+Amador,CP02,Secretary of State,,Rep,Mark Meuser,372
+Amador,CP03,Secretary of State,,Rep,Mark Meuser,226
+Amador,CP04,Secretary of State,,Rep,Mark Meuser,531
+Amador,CP05,Secretary of State,,Rep,Mark Meuser,248
+Amador,CP06,Secretary of State,,Rep,Mark Meuser,807
+Amador,CP07,Secretary of State,,Rep,Mark Meuser,478
+Amador,CP08,Secretary of State,,Rep,Mark Meuser,150
+Amador,CP09,Secretary of State,,Rep,Mark Meuser,219
+Amador,CP10,Secretary of State,,Rep,Mark Meuser,338
+Amador,CP11,Secretary of State,,Rep,Mark Meuser,43
+Amador,CP12,Secretary of State,,Rep,Mark Meuser,213
+Amador,CP13,Secretary of State,,Rep,Mark Meuser,372
+Amador,CP14,Secretary of State,,Rep,Mark Meuser,410
+Amador,CP15,Secretary of State,,Rep,Mark Meuser,600
+Amador,CP16,Secretary of State,,Rep,Mark Meuser,350
+Amador,CP17,Secretary of State,,Rep,Mark Meuser,344
+Amador,CP18,Secretary of State,,Rep,Mark Meuser,403
+Amador,CP19,Secretary of State,,Rep,Mark Meuser,519
+Amador,CP20,Secretary of State,,Rep,Mark Meuser,316
+Amador,CP21,Secretary of State,,Rep,Mark Meuser,483
+Amador,CP22,Secretary of State,,Rep,Mark Meuser,236
+Amador,CP23,Secretary of State,,Rep,Mark Meuser,519
+Amador,CP25,Secretary of State,,Rep,Mark Meuser,286
+Amador,CP26,Secretary of State,,Rep,Mark Meuser,252
+Amador,CP27,Secretary of State,,Rep,Mark Meuser,259
+Amador,CP28,Secretary of State,,Rep,Mark Meuser,327
+Amador,CP29,Secretary of State,,Rep,Mark Meuser,243
+Amador,CP30,Secretary of State,,Rep,Mark Meuser,547
+Amador,CP83,Secretary of State,,Rep,Mark Meuser,13
+Amador,AMADOR CA,Secretary of State,,Rep,Mark Meuser,10536
+Amador,CP01,Controller,,Rep,Konstantinos Roditis,405
+Amador,CP02,Controller,,Rep,Konstantinos Roditis,357
+Amador,CP03,Controller,,Rep,Konstantinos Roditis,212
+Amador,CP04,Controller,,Rep,Konstantinos Roditis,520
+Amador,CP05,Controller,,Rep,Konstantinos Roditis,237
+Amador,CP06,Controller,,Rep,Konstantinos Roditis,759
+Amador,CP07,Controller,,Rep,Konstantinos Roditis,448
+Amador,CP08,Controller,,Rep,Konstantinos Roditis,143
+Amador,CP09,Controller,,Rep,Konstantinos Roditis,199
+Amador,CP10,Controller,,Rep,Konstantinos Roditis,327
+Amador,CP11,Controller,,Rep,Konstantinos Roditis,44
+Amador,CP12,Controller,,Rep,Konstantinos Roditis,195
+Amador,CP13,Controller,,Rep,Konstantinos Roditis,349
+Amador,CP14,Controller,,Rep,Konstantinos Roditis,384
+Amador,CP15,Controller,,Rep,Konstantinos Roditis,584
+Amador,CP16,Controller,,Rep,Konstantinos Roditis,343
+Amador,CP17,Controller,,Rep,Konstantinos Roditis,312
+Amador,CP18,Controller,,Rep,Konstantinos Roditis,384
+Amador,CP19,Controller,,Rep,Konstantinos Roditis,496
+Amador,CP20,Controller,,Rep,Konstantinos Roditis,292
+Amador,CP21,Controller,,Rep,Konstantinos Roditis,473
+Amador,CP22,Controller,,Rep,Konstantinos Roditis,226
+Amador,CP23,Controller,,Rep,Konstantinos Roditis,509
+Amador,CP25,Controller,,Rep,Konstantinos Roditis,271
+Amador,CP26,Controller,,Rep,Konstantinos Roditis,240
+Amador,CP27,Controller,,Rep,Konstantinos Roditis,256
+Amador,CP28,Controller,,Rep,Konstantinos Roditis,315
+Amador,CP29,Controller,,Rep,Konstantinos Roditis,232
+Amador,CP30,Controller,,Rep,Konstantinos Roditis,528
+Amador,CP83,Controller,,Rep,Konstantinos Roditis,11
+Amador,AMADOR CA,Controller,,Rep,Konstantinos Roditis,10051
+Amador,CP01,Controller,,Dem,Betty Yee,394
+Amador,CP02,Controller,,Dem,Betty Yee,340
+Amador,CP03,Controller,,Dem,Betty Yee,263
+Amador,CP04,Controller,,Dem,Betty Yee,284
+Amador,CP05,Controller,,Dem,Betty Yee,181
+Amador,CP06,Controller,,Dem,Betty Yee,455
+Amador,CP07,Controller,,Dem,Betty Yee,276
+Amador,CP08,Controller,,Dem,Betty Yee,43
+Amador,CP09,Controller,,Dem,Betty Yee,91
+Amador,CP10,Controller,,Dem,Betty Yee,171
+Amador,CP11,Controller,,Dem,Betty Yee,66
+Amador,CP12,Controller,,Dem,Betty Yee,180
+Amador,CP13,Controller,,Dem,Betty Yee,231
+Amador,CP14,Controller,,Dem,Betty Yee,271
+Amador,CP15,Controller,,Dem,Betty Yee,396
+Amador,CP16,Controller,,Dem,Betty Yee,252
+Amador,CP17,Controller,,Dem,Betty Yee,263
+Amador,CP18,Controller,,Dem,Betty Yee,388
+Amador,CP19,Controller,,Dem,Betty Yee,321
+Amador,CP20,Controller,,Dem,Betty Yee,230
+Amador,CP21,Controller,,Dem,Betty Yee,310
+Amador,CP22,Controller,,Dem,Betty Yee,144
+Amador,CP23,Controller,,Dem,Betty Yee,402
+Amador,CP25,Controller,,Dem,Betty Yee,255
+Amador,CP26,Controller,,Dem,Betty Yee,196
+Amador,CP27,Controller,,Dem,Betty Yee,207
+Amador,CP28,Controller,,Dem,Betty Yee,203
+Amador,CP29,Controller,,Dem,Betty Yee,149
+Amador,CP30,Controller,,Dem,Betty Yee,260
+Amador,CP83,Controller,,Dem,Betty Yee,30
+Amador,AMADOR CA,Controller,,Dem,Betty Yee,7252
+Amador,CP01,Treasurer,,Rep,Greg Conlon,427
+Amador,CP02,Treasurer,,Rep,Greg Conlon,370
+Amador,CP03,Treasurer,,Rep,Greg Conlon,216
+Amador,CP04,Treasurer,,Rep,Greg Conlon,532
+Amador,CP05,Treasurer,,Rep,Greg Conlon,251
+Amador,CP06,Treasurer,,Rep,Greg Conlon,806
+Amador,CP07,Treasurer,,Rep,Greg Conlon,476
+Amador,CP08,Treasurer,,Rep,Greg Conlon,144
+Amador,CP09,Treasurer,,Rep,Greg Conlon,216
+Amador,CP10,Treasurer,,Rep,Greg Conlon,329
+Amador,CP11,Treasurer,,Rep,Greg Conlon,43
+Amador,CP12,Treasurer,,Rep,Greg Conlon,207
+Amador,CP13,Treasurer,,Rep,Greg Conlon,360
+Amador,CP14,Treasurer,,Rep,Greg Conlon,410
+Amador,CP15,Treasurer,,Rep,Greg Conlon,588
+Amador,CP16,Treasurer,,Rep,Greg Conlon,345
+Amador,CP17,Treasurer,,Rep,Greg Conlon,328
+Amador,CP18,Treasurer,,Rep,Greg Conlon,405
+Amador,CP19,Treasurer,,Rep,Greg Conlon,505
+Amador,CP20,Treasurer,,Rep,Greg Conlon,303
+Amador,CP21,Treasurer,,Rep,Greg Conlon,483
+Amador,CP22,Treasurer,,Rep,Greg Conlon,229
+Amador,CP23,Treasurer,,Rep,Greg Conlon,523
+Amador,CP25,Treasurer,,Rep,Greg Conlon,285
+Amador,CP26,Treasurer,,Rep,Greg Conlon,249
+Amador,CP27,Treasurer,,Rep,Greg Conlon,260
+Amador,CP28,Treasurer,,Rep,Greg Conlon,319
+Amador,CP29,Treasurer,,Rep,Greg Conlon,240
+Amador,CP30,Treasurer,,Rep,Greg Conlon,528
+Amador,CP83,Treasurer,,Rep,Greg Conlon,12
+Amador,AMADOR CA,Treasurer,,Rep,Greg Conlon,10389
+Amador,CP01,Treasurer,,Dem,Fiona Ma,375
+Amador,CP02,Treasurer,,Dem,Fiona Ma,322
+Amador,CP03,Treasurer,,Dem,Fiona Ma,253
+Amador,CP04,Treasurer,,Dem,Fiona Ma,268
+Amador,CP05,Treasurer,,Dem,Fiona Ma,166
+Amador,CP06,Treasurer,,Dem,Fiona Ma,410
+Amador,CP07,Treasurer,,Dem,Fiona Ma,247
+Amador,CP08,Treasurer,,Dem,Fiona Ma,39
+Amador,CP09,Treasurer,,Dem,Fiona Ma,69
+Amador,CP10,Treasurer,,Dem,Fiona Ma,167
+Amador,CP11,Treasurer,,Dem,Fiona Ma,68
+Amador,CP12,Treasurer,,Dem,Fiona Ma,166
+Amador,CP13,Treasurer,,Dem,Fiona Ma,214
+Amador,CP14,Treasurer,,Dem,Fiona Ma,240
+Amador,CP15,Treasurer,,Dem,Fiona Ma,378
+Amador,CP16,Treasurer,,Dem,Fiona Ma,247
+Amador,CP17,Treasurer,,Dem,Fiona Ma,241
+Amador,CP18,Treasurer,,Dem,Fiona Ma,361
+Amador,CP19,Treasurer,,Dem,Fiona Ma,309
+Amador,CP20,Treasurer,,Dem,Fiona Ma,217
+Amador,CP21,Treasurer,,Dem,Fiona Ma,298
+Amador,CP22,Treasurer,,Dem,Fiona Ma,141
+Amador,CP23,Treasurer,,Dem,Fiona Ma,380
+Amador,CP25,Treasurer,,Dem,Fiona Ma,243
+Amador,CP26,Treasurer,,Dem,Fiona Ma,181
+Amador,CP27,Treasurer,,Dem,Fiona Ma,203
+Amador,CP28,Treasurer,,Dem,Fiona Ma,194
+Amador,CP29,Treasurer,,Dem,Fiona Ma,138
+Amador,CP30,Treasurer,,Dem,Fiona Ma,253
+Amador,CP83,Treasurer,,Dem,Fiona Ma,29
+Amador,AMADOR CA,Treasurer,,Dem,Fiona Ma,6817
+Amador,CP01,Attorney General,,Rep,Steven Bailey,453
+Amador,CP02,Attorney General,,Rep,Steven Bailey,388
+Amador,CP03,Attorney General,,Rep,Steven Bailey,231
+Amador,CP04,Attorney General,,Rep,Steven Bailey,555
+Amador,CP05,Attorney General,,Rep,Steven Bailey,262
+Amador,CP06,Attorney General,,Rep,Steven Bailey,844
+Amador,CP07,Attorney General,,Rep,Steven Bailey,493
+Amador,CP08,Attorney General,,Rep,Steven Bailey,151
+Amador,CP09,Attorney General,,Rep,Steven Bailey,220
+Amador,CP10,Attorney General,,Rep,Steven Bailey,345
+Amador,CP11,Attorney General,,Rep,Steven Bailey,45
+Amador,CP12,Attorney General,,Rep,Steven Bailey,210
+Amador,CP13,Attorney General,,Rep,Steven Bailey,372
+Amador,CP14,Attorney General,,Rep,Steven Bailey,426
+Amador,CP15,Attorney General,,Rep,Steven Bailey,624
+Amador,CP16,Attorney General,,Rep,Steven Bailey,359
+Amador,CP17,Attorney General,,Rep,Steven Bailey,344
+Amador,CP18,Attorney General,,Rep,Steven Bailey,413
+Amador,CP19,Attorney General,,Rep,Steven Bailey,528
+Amador,CP20,Attorney General,,Rep,Steven Bailey,315
+Amador,CP21,Attorney General,,Rep,Steven Bailey,499
+Amador,CP22,Attorney General,,Rep,Steven Bailey,244
+Amador,CP23,Attorney General,,Rep,Steven Bailey,532
+Amador,CP25,Attorney General,,Rep,Steven Bailey,299
+Amador,CP26,Attorney General,,Rep,Steven Bailey,255
+Amador,CP27,Attorney General,,Rep,Steven Bailey,264
+Amador,CP28,Attorney General,,Rep,Steven Bailey,338
+Amador,CP29,Attorney General,,Rep,Steven Bailey,247
+Amador,CP30,Attorney General,,Rep,Steven Bailey,561
+Amador,CP83,Attorney General,,Rep,Steven Bailey,11
+Amador,AMADOR CA,Attorney General,,Rep,Steven Bailey,10828
+Amador,CP01,Attorney General,,Dem,Xavier Becerra,348
+Amador,CP02,Attorney General,,Dem,Xavier Becerra,300
+Amador,CP03,Attorney General,,Dem,Xavier Becerra,243
+Amador,CP04,Attorney General,,Dem,Xavier Becerra,253
+Amador,CP05,Attorney General,,Dem,Xavier Becerra,160
+Amador,CP06,Attorney General,,Dem,Xavier Becerra,373
+Amador,CP07,Attorney General,,Dem,Xavier Becerra,233
+Amador,CP08,Attorney General,,Dem,Xavier Becerra,36
+Amador,CP09,Attorney General,,Dem,Xavier Becerra,68
+Amador,CP10,Attorney General,,Dem,Xavier Becerra,154
+Amador,CP11,Attorney General,,Dem,Xavier Becerra,66
+Amador,CP12,Attorney General,,Dem,Xavier Becerra,165
+Amador,CP13,Attorney General,,Dem,Xavier Becerra,206
+Amador,CP14,Attorney General,,Dem,Xavier Becerra,228
+Amador,CP15,Attorney General,,Dem,Xavier Becerra,358
+Amador,CP16,Attorney General,,Dem,Xavier Becerra,230
+Amador,CP17,Attorney General,,Dem,Xavier Becerra,229
+Amador,CP18,Attorney General,,Dem,Xavier Becerra,355
+Amador,CP19,Attorney General,,Dem,Xavier Becerra,292
+Amador,CP20,Attorney General,,Dem,Xavier Becerra,209
+Amador,CP21,Attorney General,,Dem,Xavier Becerra,284
+Amador,CP22,Attorney General,,Dem,Xavier Becerra,126
+Amador,CP23,Attorney General,,Dem,Xavier Becerra,374
+Amador,CP25,Attorney General,,Dem,Xavier Becerra,228
+Amador,CP26,Attorney General,,Dem,Xavier Becerra,179
+Amador,CP27,Attorney General,,Dem,Xavier Becerra,198
+Amador,CP28,Attorney General,,Dem,Xavier Becerra,176
+Amador,CP29,Attorney General,,Dem,Xavier Becerra,132
+Amador,CP30,Attorney General,,Dem,Xavier Becerra,219
+Amador,CP83,Attorney General,,Dem,Xavier Becerra,29
+Amador,AMADOR CA,Attorney General,,Dem,Xavier Becerra,6451
+Amador,CP01,Insurance Commissioner,,Dem,Ricardo Lara,265
+Amador,CP02,Insurance Commissioner,,Dem,Ricardo Lara,229
+Amador,CP03,Insurance Commissioner,,Dem,Ricardo Lara,174
+Amador,CP04,Insurance Commissioner,,Dem,Ricardo Lara,153
+Amador,CP05,Insurance Commissioner,,Dem,Ricardo Lara,116
+Amador,CP06,Insurance Commissioner,,Dem,Ricardo Lara,304
+Amador,CP07,Insurance Commissioner,,Dem,Ricardo Lara,184
+Amador,CP08,Insurance Commissioner,,Dem,Ricardo Lara,23
+Amador,CP09,Insurance Commissioner,,Dem,Ricardo Lara,45
+Amador,CP10,Insurance Commissioner,,Dem,Ricardo Lara,109
+Amador,CP11,Insurance Commissioner,,Dem,Ricardo Lara,57
+Amador,CP12,Insurance Commissioner,,Dem,Ricardo Lara,127
+Amador,CP13,Insurance Commissioner,,Dem,Ricardo Lara,158
+Amador,CP14,Insurance Commissioner,,Dem,Ricardo Lara,172
+Amador,CP15,Insurance Commissioner,,Dem,Ricardo Lara,258
+Amador,CP16,Insurance Commissioner,,Dem,Ricardo Lara,177
+Amador,CP17,Insurance Commissioner,,Dem,Ricardo Lara,181
+Amador,CP18,Insurance Commissioner,,Dem,Ricardo Lara,264
+Amador,CP19,Insurance Commissioner,,Dem,Ricardo Lara,211
+Amador,CP20,Insurance Commissioner,,Dem,Ricardo Lara,147
+Amador,CP21,Insurance Commissioner,,Dem,Ricardo Lara,202
+Amador,CP22,Insurance Commissioner,,Dem,Ricardo Lara,95
+Amador,CP23,Insurance Commissioner,,Dem,Ricardo Lara,279
+Amador,CP25,Insurance Commissioner,,Dem,Ricardo Lara,165
+Amador,CP26,Insurance Commissioner,,Dem,Ricardo Lara,121
+Amador,CP27,Insurance Commissioner,,Dem,Ricardo Lara,130
+Amador,CP28,Insurance Commissioner,,Dem,Ricardo Lara,135
+Amador,CP29,Insurance Commissioner,,Dem,Ricardo Lara,103
+Amador,CP30,Insurance Commissioner,,Dem,Ricardo Lara,179
+Amador,CP83,Insurance Commissioner,,Dem,Ricardo Lara,25
+Amador,AMADOR CA,Insurance Commissioner,,Dem,Ricardo Lara,4788
+Amador,CP01,Insurance Commissioner,,Non,Steve Poizner,477
+Amador,CP02,Insurance Commissioner,,Non,Steve Poizner,429
+Amador,CP03,Insurance Commissioner,,Non,Steve Poizner,280
+Amador,CP04,Insurance Commissioner,,Non,Steve Poizner,582
+Amador,CP05,Insurance Commissioner,,Non,Steve Poizner,284
+Amador,CP06,Insurance Commissioner,,Non,Steve Poizner,834
+Amador,CP07,Insurance Commissioner,,Non,Steve Poizner,493
+Amador,CP08,Insurance Commissioner,,Non,Steve Poizner,143
+Amador,CP09,Insurance Commissioner,,Non,Steve Poizner,224
+Amador,CP10,Insurance Commissioner,,Non,Steve Poizner,364
+Amador,CP11,Insurance Commissioner,,Non,Steve Poizner,49
+Amador,CP12,Insurance Commissioner,,Non,Steve Poizner,234
+Amador,CP13,Insurance Commissioner,,Non,Steve Poizner,398
+Amador,CP14,Insurance Commissioner,,Non,Steve Poizner,465
+Amador,CP15,Insurance Commissioner,,Non,Steve Poizner,681
+Amador,CP16,Insurance Commissioner,,Non,Steve Poizner,377
+Amador,CP17,Insurance Commissioner,,Non,Steve Poizner,341
+Amador,CP18,Insurance Commissioner,,Non,Steve Poizner,470
+Amador,CP19,Insurance Commissioner,,Non,Steve Poizner,568
+Amador,CP20,Insurance Commissioner,,Non,Steve Poizner,335
+Amador,CP21,Insurance Commissioner,,Non,Steve Poizner,540
+Amador,CP22,Insurance Commissioner,,Non,Steve Poizner,263
+Amador,CP23,Insurance Commissioner,,Non,Steve Poizner,591
+Amador,CP25,Insurance Commissioner,,Non,Steve Poizner,344
+Amador,CP26,Insurance Commissioner,,Non,Steve Poizner,287
+Amador,CP27,Insurance Commissioner,,Non,Steve Poizner,302
+Amador,CP28,Insurance Commissioner,,Non,Steve Poizner,339
+Amador,CP29,Insurance Commissioner,,Non,Steve Poizner,259
+Amador,CP30,Insurance Commissioner,,Non,Steve Poizner,571
+Amador,CP83,Insurance Commissioner,,Non,Steve Poizner,16
+Amador,AMADOR CA,Insurance Commissioner,,Non,Steve Poizner,11540
+Amador,CP01,US Senate,,Dem,Dianne Feinstein,292
+Amador,CP02,US Senate,,Dem,Dianne Feinstein,229
+Amador,CP03,US Senate,,Dem,Dianne Feinstein,181
+Amador,CP04,US Senate,,Dem,Dianne Feinstein,234
+Amador,CP05,US Senate,,Dem,Dianne Feinstein,139
+Amador,CP06,US Senate,,Dem,Dianne Feinstein,367
+Amador,CP07,US Senate,,Dem,Dianne Feinstein,207
+Amador,CP08,US Senate,,Dem,Dianne Feinstein,55
+Amador,CP09,US Senate,,Dem,Dianne Feinstein,93
+Amador,CP10,US Senate,,Dem,Dianne Feinstein,155
+Amador,CP11,US Senate,,Dem,Dianne Feinstein,44
+Amador,CP12,US Senate,,Dem,Dianne Feinstein,153
+Amador,CP13,US Senate,,Dem,Dianne Feinstein,163
+Amador,CP14,US Senate,,Dem,Dianne Feinstein,208
+Amador,CP15,US Senate,,Dem,Dianne Feinstein,322
+Amador,CP16,US Senate,,Dem,Dianne Feinstein,227
+Amador,CP17,US Senate,,Dem,Dianne Feinstein,192
+Amador,CP18,US Senate,,Dem,Dianne Feinstein,326
+Amador,CP19,US Senate,,Dem,Dianne Feinstein,310
+Amador,CP20,US Senate,,Dem,Dianne Feinstein,196
+Amador,CP21,US Senate,,Dem,Dianne Feinstein,258
+Amador,CP22,US Senate,,Dem,Dianne Feinstein,97
+Amador,CP23,US Senate,,Dem,Dianne Feinstein,318
+Amador,CP25,US Senate,,Dem,Dianne Feinstein,210
+Amador,CP26,US Senate,,Dem,Dianne Feinstein,134
+Amador,CP27,US Senate,,Dem,Dianne Feinstein,182
+Amador,CP28,US Senate,,Dem,Dianne Feinstein,181
+Amador,CP29,US Senate,,Dem,Dianne Feinstein,117
+Amador,CP30,US Senate,,Dem,Dianne Feinstein,219
+Amador,CP83,US Senate,,Dem,Dianne Feinstein,26
+Amador,AMADOR CA,US Senate,,Dem,Dianne Feinstein,5835
+Amador,CP01,US Senate,,Dem,Kevin DeLeon,378
+Amador,CP02,US Senate,,Dem,Kevin DeLeon,357
+Amador,CP03,US Senate,,Dem,Kevin DeLeon,230
+Amador,CP04,US Senate,,Dem,Kevin DeLeon,414
+Amador,CP05,US Senate,,Dem,Kevin DeLeon,216
+Amador,CP06,US Senate,,Dem,Kevin DeLeon,599
+Amador,CP07,US Senate,,Dem,Kevin DeLeon,351
+Amador,CP08,US Senate,,Dem,Kevin DeLeon,89
+Amador,CP09,US Senate,,Dem,Kevin DeLeon,130
+Amador,CP10,US Senate,,Dem,Kevin DeLeon,220
+Amador,CP11,US Senate,,Dem,Kevin DeLeon,54
+Amador,CP12,US Senate,,Dem,Kevin DeLeon,160
+Amador,CP13,US Senate,,Dem,Kevin DeLeon,305
+Amador,CP14,US Senate,,Dem,Kevin DeLeon,346
+Amador,CP15,US Senate,,Dem,Kevin DeLeon,455
+Amador,CP16,US Senate,,Dem,Kevin DeLeon,242
+Amador,CP17,US Senate,,Dem,Kevin DeLeon,240
+Amador,CP18,US Senate,,Dem,Kevin DeLeon,316
+Amador,CP19,US Senate,,Dem,Kevin DeLeon,369
+Amador,CP20,US Senate,,Dem,Kevin DeLeon,243
+Amador,CP21,US Senate,,Dem,Kevin DeLeon,388
+Amador,CP22,US Senate,,Dem,Kevin DeLeon,220
+Amador,CP23,US Senate,,Dem,Kevin DeLeon,430
+Amador,CP25,US Senate,,Dem,Kevin DeLeon,234
+Amador,CP26,US Senate,,Dem,Kevin DeLeon,226
+Amador,CP27,US Senate,,Dem,Kevin DeLeon,205
+Amador,CP28,US Senate,,Dem,Kevin DeLeon,239
+Amador,CP29,US Senate,,Dem,Kevin DeLeon,163
+Amador,CP30,US Senate,,Dem,Kevin DeLeon,412
+Amador,CP83,US Senate,,Dem,Kevin DeLeon,13
+Amador,AMADOR CA,US Senate,,Dem,Kevin DeLeon,8244
+Amador,CP01,Public Instruction,,None,Marshall Tuck,422
+Amador,CP02,Public Instruction,,None,Marshall Tuck,402
+Amador,CP03,Public Instruction,,None,Marshall Tuck,238
+Amador,CP04,Public Instruction,,None,Marshall Tuck,468
+Amador,CP05,Public Instruction,,None,Marshall Tuck,240
+Amador,CP06,Public Instruction,,None,Marshall Tuck,728
+Amador,CP07,Public Instruction,,None,Marshall Tuck,437
+Amador,CP08,Public Instruction,,None,Marshall Tuck,112
+Amador,CP09,Public Instruction,,None,Marshall Tuck,163
+Amador,CP10,Public Instruction,,None,Marshall Tuck,294
+Amador,CP11,Public Instruction,,None,Marshall Tuck,46
+Amador,CP12,Public Instruction,,None,Marshall Tuck,200
+Amador,CP13,Public Instruction,,None,Marshall Tuck,328
+Amador,CP14,Public Instruction,,None,Marshall Tuck,397
+Amador,CP15,Public Instruction,,None,Marshall Tuck,574
+Amador,CP16,Public Instruction,,None,Marshall Tuck,332
+Amador,CP17,Public Instruction,,None,Marshall Tuck,312
+Amador,CP18,Public Instruction,,None,Marshall Tuck,365
+Amador,CP19,Public Instruction,,None,Marshall Tuck,490
+Amador,CP20,Public Instruction,,None,Marshall Tuck,296
+Amador,CP21,Public Instruction,,None,Marshall Tuck,435
+Amador,CP22,Public Instruction,,None,Marshall Tuck,216
+Amador,CP23,Public Instruction,,None,Marshall Tuck,498
+Amador,CP25,Public Instruction,,None,Marshall Tuck,262
+Amador,CP26,Public Instruction,,None,Marshall Tuck,227
+Amador,CP27,Public Instruction,,None,Marshall Tuck,255
+Amador,CP28,Public Instruction,,None,Marshall Tuck,276
+Amador,CP29,Public Instruction,,None,Marshall Tuck,223
+Amador,CP30,Public Instruction,,None,Marshall Tuck,478
+Amador,CP83,Public Instruction,,None,Marshall Tuck,15
+Amador,AMADOR CA,Public Instruction,,None,Marshall Tuck,9729
+Amador,CP01,Public Instruction,,None,Tony Thurmond,272
+Amador,CP02,Public Instruction,,None,Tony Thurmond,229
+Amador,CP03,Public Instruction,,None,Tony Thurmond,172
+Amador,CP04,Public Instruction,,None,Tony Thurmond,226
+Amador,CP05,Public Instruction,,None,Tony Thurmond,127
+Amador,CP06,Public Instruction,,None,Tony Thurmond,351
+Amador,CP07,Public Instruction,,None,Tony Thurmond,190
+Amador,CP08,Public Instruction,,None,Tony Thurmond,43
+Amador,CP09,Public Instruction,,None,Tony Thurmond,85
+Amador,CP10,Public Instruction,,None,Tony Thurmond,141
+Amador,CP11,Public Instruction,,None,Tony Thurmond,45
+Amador,CP12,Public Instruction,,None,Tony Thurmond,136
+Amador,CP13,Public Instruction,,None,Tony Thurmond,192
+Amador,CP14,Public Instruction,,None,Tony Thurmond,193
+Amador,CP15,Public Instruction,,None,Tony Thurmond,312
+Amador,CP16,Public Instruction,,None,Tony Thurmond,189
+Amador,CP17,Public Instruction,,None,Tony Thurmond,178
+Amador,CP18,Public Instruction,,None,Tony Thurmond,313
+Amador,CP19,Public Instruction,,None,Tony Thurmond,259
+Amador,CP20,Public Instruction,,None,Tony Thurmond,174
+Amador,CP21,Public Instruction,,None,Tony Thurmond,249
+Amador,CP22,Public Instruction,,None,Tony Thurmond,112
+Amador,CP23,Public Instruction,,None,Tony Thurmond,300
+Amador,CP25,Public Instruction,,None,Tony Thurmond,189
+Amador,CP26,Public Instruction,,None,Tony Thurmond,153
+Amador,CP27,Public Instruction,,None,Tony Thurmond,142
+Amador,CP28,Public Instruction,,None,Tony Thurmond,163
+Amador,CP29,Public Instruction,,None,Tony Thurmond,121
+Amador,CP30,Public Instruction,,None,Tony Thurmond,216
+Amador,CP83,Public Instruction,,None,Tony Thurmond,20
+Amador,AMADOR CA,Public Instruction,,None,Tony Thurmond,5492
+Amador,CP01,US House,4,Dem,Jessica Morse,398
+Amador,CP02,US House,4,Dem,Jessica Morse,336
+Amador,CP03,US House,4,Dem,Jessica Morse,261
+Amador,CP04,US House,4,Dem,Jessica Morse,274
+Amador,CP05,US House,4,Dem,Jessica Morse,176
+Amador,CP06,US House,4,Dem,Jessica Morse,429
+Amador,CP07,US House,4,Dem,Jessica Morse,252
+Amador,CP08,US House,4,Dem,Jessica Morse,38
+Amador,CP09,US House,4,Dem,Jessica Morse,81
+Amador,CP10,US House,4,Dem,Jessica Morse,165
+Amador,CP11,US House,4,Dem,Jessica Morse,67
+Amador,CP12,US House,4,Dem,Jessica Morse,173
+Amador,CP13,US House,4,Dem,Jessica Morse,231
+Amador,CP14,US House,4,Dem,Jessica Morse,267
+Amador,CP15,US House,4,Dem,Jessica Morse,410
+Amador,CP16,US House,4,Dem,Jessica Morse,255
+Amador,CP17,US House,4,Dem,Jessica Morse,260
+Amador,CP18,US House,4,Dem,Jessica Morse,391
+Amador,CP19,US House,4,Dem,Jessica Morse,330
+Amador,CP20,US House,4,Dem,Jessica Morse,229
+Amador,CP21,US House,4,Dem,Jessica Morse,312
+Amador,CP22,US House,4,Dem,Jessica Morse,148
+Amador,CP23,US House,4,Dem,Jessica Morse,417
+Amador,CP25,US House,4,Dem,Jessica Morse,255
+Amador,CP26,US House,4,Dem,Jessica Morse,202
+Amador,CP27,US House,4,Dem,Jessica Morse,216
+Amador,CP28,US House,4,Dem,Jessica Morse,196
+Amador,CP29,US House,4,Dem,Jessica Morse,152
+Amador,CP30,US House,4,Dem,Jessica Morse,254
+Amador,CP83,US House,4,Dem,Jessica Morse,31
+Amador,AMADOR CA,US House,4,Dem,Jessica Morse,7206
+Amador,CP01,US House,4,Rep,Tom McClintock,413
+Amador,CP02,US House,4,Rep,Tom McClintock,365
+Amador,CP03,US House,4,Rep,Tom McClintock,215
+Amador,CP04,US House,4,Rep,Tom McClintock,546
+Amador,CP05,US House,4,Rep,Tom McClintock,250
+Amador,CP06,US House,4,Rep,Tom McClintock,798
+Amador,CP07,US House,4,Rep,Tom McClintock,479
+Amador,CP08,US House,4,Rep,Tom McClintock,148
+Amador,CP09,US House,4,Rep,Tom McClintock,212
+Amador,CP10,US House,4,Rep,Tom McClintock,336
+Amador,CP11,US House,4,Rep,Tom McClintock,44
+Amador,CP12,US House,4,Rep,Tom McClintock,208
+Amador,CP13,US House,4,Rep,Tom McClintock,353
+Amador,CP14,US House,4,Rep,Tom McClintock,395
+Amador,CP15,US House,4,Rep,Tom McClintock,585
+Amador,CP16,US House,4,Rep,Tom McClintock,338
+Amador,CP17,US House,4,Rep,Tom McClintock,320
+Amador,CP18,US House,4,Rep,Tom McClintock,390
+Amador,CP19,US House,4,Rep,Tom McClintock,500
+Amador,CP20,US House,4,Rep,Tom McClintock,305
+Amador,CP21,US House,4,Rep,Tom McClintock,478
+Amador,CP22,US House,4,Rep,Tom McClintock,230
+Amador,CP23,US House,4,Rep,Tom McClintock,504
+Amador,CP25,US House,4,Rep,Tom McClintock,283
+Amador,CP26,US House,4,Rep,Tom McClintock,239
+Amador,CP27,US House,4,Rep,Tom McClintock,247
+Amador,CP28,US House,4,Rep,Tom McClintock,330
+Amador,CP29,US House,4,Rep,Tom McClintock,230
+Amador,CP30,US House,4,Rep,Tom McClintock,534
+Amador,CP83,US House,4,Rep,Tom McClintock,10
+Amador,AMADOR CA,US House,4,Rep,Tom McClintock,10285
+Amador,CP01,State Senate,8,Dem,Paulina Miranda,331
+Amador,CP02,State Senate,8,Dem,Paulina Miranda,283
+Amador,CP03,State Senate,8,Dem,Paulina Miranda,216
+Amador,CP04,State Senate,8,Dem,Paulina Miranda,247
+Amador,CP05,State Senate,8,Dem,Paulina Miranda,146
+Amador,CP06,State Senate,8,Dem,Paulina Miranda,358
+Amador,CP07,State Senate,8,Dem,Paulina Miranda,227
+Amador,CP08,State Senate,8,Dem,Paulina Miranda,38
+Amador,CP09,State Senate,8,Dem,Paulina Miranda,66
+Amador,CP10,State Senate,8,Dem,Paulina Miranda,150
+Amador,CP11,State Senate,8,Dem,Paulina Miranda,64
+Amador,CP12,State Senate,8,Dem,Paulina Miranda,148
+Amador,CP13,State Senate,8,Dem,Paulina Miranda,200
+Amador,CP14,State Senate,8,Dem,Paulina Miranda,220
+Amador,CP15,State Senate,8,Dem,Paulina Miranda,346
+Amador,CP16,State Senate,8,Dem,Paulina Miranda,236
+Amador,CP17,State Senate,8,Dem,Paulina Miranda,224
+Amador,CP18,State Senate,8,Dem,Paulina Miranda,341
+Amador,CP19,State Senate,8,Dem,Paulina Miranda,284
+Amador,CP20,State Senate,8,Dem,Paulina Miranda,194
+Amador,CP21,State Senate,8,Dem,Paulina Miranda,262
+Amador,CP22,State Senate,8,Dem,Paulina Miranda,118
+Amador,CP23,State Senate,8,Dem,Paulina Miranda,352
+Amador,CP25,State Senate,8,Dem,Paulina Miranda,223
+Amador,CP26,State Senate,8,Dem,Paulina Miranda,166
+Amador,CP27,State Senate,8,Dem,Paulina Miranda,189
+Amador,CP28,State Senate,8,Dem,Paulina Miranda,173
+Amador,CP29,State Senate,8,Dem,Paulina Miranda,135
+Amador,CP30,State Senate,8,Dem,Paulina Miranda,226
+Amador,CP83,State Senate,8,Dem,Paulina Miranda,27
+Amador,AMADOR CA,State Senate,8,Dem,Paulina Miranda,6190
+Amador,CP01,State Senate,8,Rep,Andreas Borgeas,468
+Amador,CP02,State Senate,8,Rep,Andreas Borgeas,403
+Amador,CP03,State Senate,8,Rep,Andreas Borgeas,246
+Amador,CP04,State Senate,8,Rep,Andreas Borgeas,554
+Amador,CP05,State Senate,8,Rep,Andreas Borgeas,273
+Amador,CP06,State Senate,8,Rep,Andreas Borgeas,854
+Amador,CP07,State Senate,8,Rep,Andreas Borgeas,497
+Amador,CP08,State Senate,8,Rep,Andreas Borgeas,150
+Amador,CP09,State Senate,8,Rep,Andreas Borgeas,223
+Amador,CP10,State Senate,8,Rep,Andreas Borgeas,348
+Amador,CP11,State Senate,8,Rep,Andreas Borgeas,47
+Amador,CP12,State Senate,8,Rep,Andreas Borgeas,222
+Amador,CP13,State Senate,8,Rep,Andreas Borgeas,371
+Amador,CP14,State Senate,8,Rep,Andreas Borgeas,435
+Amador,CP15,State Senate,8,Rep,Andreas Borgeas,621
+Amador,CP16,State Senate,8,Rep,Andreas Borgeas,348
+Amador,CP17,State Senate,8,Rep,Andreas Borgeas,345
+Amador,CP18,State Senate,8,Rep,Andreas Borgeas,421
+Amador,CP19,State Senate,8,Rep,Andreas Borgeas,530
+Amador,CP20,State Senate,8,Rep,Andreas Borgeas,328
+Amador,CP21,State Senate,8,Rep,Andreas Borgeas,513
+Amador,CP22,State Senate,8,Rep,Andreas Borgeas,252
+Amador,CP23,State Senate,8,Rep,Andreas Borgeas,549
+Amador,CP25,State Senate,8,Rep,Andreas Borgeas,301
+Amador,CP26,State Senate,8,Rep,Andreas Borgeas,265
+Amador,CP27,State Senate,8,Rep,Andreas Borgeas,272
+Amador,CP28,State Senate,8,Rep,Andreas Borgeas,340
+Amador,CP29,State Senate,8,Rep,Andreas Borgeas,242
+Amador,CP30,State Senate,8,Rep,Andreas Borgeas,555
+Amador,CP83,State Senate,8,Rep,Andreas Borgeas,12
+Amador,AMADOR CA,State Senate,8,Rep,Andreas Borgeas,10985
+Amador,CP01,Assembly,5,Rep,Frank Bigelow,477
+Amador,CP02,Assembly,5,Rep,Frank Bigelow,417
+Amador,CP03,Assembly,5,Rep,Frank Bigelow,243
+Amador,CP04,Assembly,5,Rep,Frank Bigelow,566
+Amador,CP05,Assembly,5,Rep,Frank Bigelow,268
+Amador,CP06,Assembly,5,Rep,Frank Bigelow,850
+Amador,CP07,Assembly,5,Rep,Frank Bigelow,504
+Amador,CP08,Assembly,5,Rep,Frank Bigelow,155
+Amador,CP09,Assembly,5,Rep,Frank Bigelow,225
+Amador,CP10,Assembly,5,Rep,Frank Bigelow,346
+Amador,CP11,Assembly,5,Rep,Frank Bigelow,43
+Amador,CP12,Assembly,5,Rep,Frank Bigelow,222
+Amador,CP13,Assembly,5,Rep,Frank Bigelow,379
+Amador,CP14,Assembly,5,Rep,Frank Bigelow,428
+Amador,CP15,Assembly,5,Rep,Frank Bigelow,617
+Amador,CP16,Assembly,5,Rep,Frank Bigelow,358
+Amador,CP17,Assembly,5,Rep,Frank Bigelow,356
+Amador,CP18,Assembly,5,Rep,Frank Bigelow,432
+Amador,CP19,Assembly,5,Rep,Frank Bigelow,552
+Amador,CP20,Assembly,5,Rep,Frank Bigelow,329
+Amador,CP21,Assembly,5,Rep,Frank Bigelow,515
+Amador,CP22,Assembly,5,Rep,Frank Bigelow,244
+Amador,CP23,Assembly,5,Rep,Frank Bigelow,539
+Amador,CP25,Assembly,5,Rep,Frank Bigelow,320
+Amador,CP26,Assembly,5,Rep,Frank Bigelow,264
+Amador,CP27,Assembly,5,Rep,Frank Bigelow,280
+Amador,CP28,Assembly,5,Rep,Frank Bigelow,347
+Amador,CP29,Assembly,5,Rep,Frank Bigelow,243
+Amador,CP30,Assembly,5,Rep,Frank Bigelow,558
+Amador,CP83,Assembly,5,Rep,Frank Bigelow,10
+Amador,AMADOR CA,Assembly,5,Rep,Frank Bigelow,11087
+Amador,CP01,Assembly,5,Dem,Carla Neal,323
+Amador,CP02,Assembly,5,Dem,Carla Neal,277
+Amador,CP03,Assembly,5,Dem,Carla Neal,225
+Amador,CP04,Assembly,5,Dem,Carla Neal,239
+Amador,CP05,Assembly,5,Dem,Carla Neal,152
+Amador,CP06,Assembly,5,Dem,Carla Neal,362
+Amador,CP07,Assembly,5,Dem,Carla Neal,226
+Amador,CP08,Assembly,5,Dem,Carla Neal,34
+Amador,CP09,Assembly,5,Dem,Carla Neal,65
+Amador,CP10,Assembly,5,Dem,Carla Neal,151
+Amador,CP11,Assembly,5,Dem,Carla Neal,66
+Amador,CP12,Assembly,5,Dem,Carla Neal,155
+Amador,CP13,Assembly,5,Dem,Carla Neal,199
+Amador,CP14,Assembly,5,Dem,Carla Neal,228
+Amador,CP15,Assembly,5,Dem,Carla Neal,355
+Amador,CP16,Assembly,5,Dem,Carla Neal,229
+Amador,CP17,Assembly,5,Dem,Carla Neal,216
+Amador,CP18,Assembly,5,Dem,Carla Neal,334
+Amador,CP19,Assembly,5,Dem,Carla Neal,263
+Amador,CP20,Assembly,5,Dem,Carla Neal,197
+Amador,CP21,Assembly,5,Dem,Carla Neal,262
+Amador,CP22,Assembly,5,Dem,Carla Neal,131
+Amador,CP23,Assembly,5,Dem,Carla Neal,368
+Amador,CP25,Assembly,5,Dem,Carla Neal,206
+Amador,CP26,Assembly,5,Dem,Carla Neal,174
+Amador,CP27,Assembly,5,Dem,Carla Neal,180
+Amador,CP28,Assembly,5,Dem,Carla Neal,169
+Amador,CP29,Assembly,5,Dem,Carla Neal,139
+Amador,CP30,Assembly,5,Dem,Carla Neal,224
+Amador,CP83,Assembly,5,Dem,Carla Neal,30
+Amador,AMADOR CA,Assembly,5,Dem,Carla Neal,6179
