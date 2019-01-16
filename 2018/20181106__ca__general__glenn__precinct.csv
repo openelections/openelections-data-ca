@@ -1,0 +1,843 @@
+county,precinct,office,district,party,candidate,votes
+Glenn,1,Governor,,Rep,John Cox,479
+Glenn,2,Governor,,Rep,John Cox,460
+Glenn,3,Governor,,Rep,John Cox,338
+Glenn,4,Governor,,Rep,John Cox,333
+Glenn,5,Governor,,Rep,John Cox,329
+Glenn,6,Governor,,Rep,John Cox,422
+Glenn,7,Governor,,Rep,John Cox,415
+Glenn,8,Governor,,Rep,John Cox,362
+Glenn,9,Governor,,Rep,John Cox,322
+Glenn,10,Governor,,Rep,John Cox,161
+Glenn,10031,Governor,,Rep,John Cox,29
+Glenn,10050,Governor,,Rep,John Cox,20
+Glenn,10060,Governor,,Rep,John Cox,49
+Glenn,12150,Governor,,Rep,John Cox,76
+Glenn,30011,Governor,,Rep,John Cox,111
+Glenn,30014,Governor,,Rep,John Cox,62
+Glenn,30020,Governor,,Rep,John Cox,170
+Glenn,30042,Governor,,Rep,John Cox,170
+Glenn,30070,Governor,,Rep,John Cox,143
+Glenn,30072,Governor,,Rep,John Cox,57
+Glenn,30081,Governor,,Rep,John Cox,127
+Glenn,30082,Governor,,Rep,John Cox,64
+Glenn,30120,Governor,,Rep,John Cox,178
+Glenn,31070,Governor,,Rep,John Cox,86
+Glenn,50010,Governor,,Rep,John Cox,36
+Glenn,50022,Governor,,Rep,John Cox,124
+Glenn,50030,Governor,,Rep,John Cox,110
+Glenn,50052,Governor,,Rep,John Cox,114
+Glenn,50061,Governor,,Rep,John Cox,204
+Glenn,50081,Governor,,Rep,John Cox,24
+Glenn,50082,Governor,,Rep,John Cox,152
+Glenn,50083,Governor,,Rep,John Cox,82
+Glenn,50084,Governor,,Rep,John Cox,70
+Glenn,50085,Governor,,Rep,John Cox,29
+Glenn,GLENN CA,Governor,,Rep,John Cox,"5,908"
+Glenn,1,Governor,,Dem,Gavin Newsom,160
+Glenn,2,Governor,,Dem,Gavin Newsom,160
+Glenn,3,Governor,,Dem,Gavin Newsom,172
+Glenn,4,Governor,,Dem,Gavin Newsom,201
+Glenn,5,Governor,,Dem,Gavin Newsom,203
+Glenn,6,Governor,,Dem,Gavin Newsom,97
+Glenn,7,Governor,,Dem,Gavin Newsom,141
+Glenn,8,Governor,,Dem,Gavin Newsom,147
+Glenn,9,Governor,,Dem,Gavin Newsom,151
+Glenn,10,Governor,,Dem,Gavin Newsom,298
+Glenn,10031,Governor,,Dem,Gavin Newsom,37
+Glenn,10050,Governor,,Dem,Gavin Newsom,20
+Glenn,10060,Governor,,Dem,Gavin Newsom,32
+Glenn,12150,Governor,,Dem,Gavin Newsom,138
+Glenn,30011,Governor,,Dem,Gavin Newsom,26
+Glenn,30014,Governor,,Dem,Gavin Newsom,3
+Glenn,30020,Governor,,Dem,Gavin Newsom,39
+Glenn,30042,Governor,,Dem,Gavin Newsom,43
+Glenn,30070,Governor,,Dem,Gavin Newsom,25
+Glenn,30072,Governor,,Dem,Gavin Newsom,10
+Glenn,30081,Governor,,Dem,Gavin Newsom,26
+Glenn,30082,Governor,,Dem,Gavin Newsom,12
+Glenn,30120,Governor,,Dem,Gavin Newsom,19
+Glenn,31070,Governor,,Dem,Gavin Newsom,54
+Glenn,50010,Governor,,Dem,Gavin Newsom,25
+Glenn,50022,Governor,,Dem,Gavin Newsom,19
+Glenn,50030,Governor,,Dem,Gavin Newsom,28
+Glenn,50052,Governor,,Dem,Gavin Newsom,11
+Glenn,50061,Governor,,Dem,Gavin Newsom,50
+Glenn,50081,Governor,,Dem,Gavin Newsom,3
+Glenn,50082,Governor,,Dem,Gavin Newsom,18
+Glenn,50083,Governor,,Dem,Gavin Newsom,21
+Glenn,50084,Governor,,Dem,Gavin Newsom,31
+Glenn,50085,Governor,,Dem,Gavin Newsom,4
+Glenn,GLENN CA,Governor,,Dem,Gavin Newsom,"2,424"
+Glenn,1,Lt Governor,,Dem,Ed Hernandez,251
+Glenn,2,Lt Governor,,Dem,Ed Hernandez,207
+Glenn,3,Lt Governor,,Dem,Ed Hernandez,201
+Glenn,4,Lt Governor,,Dem,Ed Hernandez,190
+Glenn,5,Lt Governor,,Dem,Ed Hernandez,182
+Glenn,6,Lt Governor,,Dem,Ed Hernandez,201
+Glenn,7,Lt Governor,,Dem,Ed Hernandez,189
+Glenn,8,Lt Governor,,Dem,Ed Hernandez,182
+Glenn,9,Lt Governor,,Dem,Ed Hernandez,159
+Glenn,10,Lt Governor,,Dem,Ed Hernandez,235
+Glenn,10031,Lt Governor,,Dem,Ed Hernandez,35
+Glenn,10050,Lt Governor,,Dem,Ed Hernandez,18
+Glenn,10060,Lt Governor,,Dem,Ed Hernandez,39
+Glenn,12150,Lt Governor,,Dem,Ed Hernandez,107
+Glenn,30011,Lt Governor,,Dem,Ed Hernandez,41
+Glenn,30014,Lt Governor,,Dem,Ed Hernandez,14
+Glenn,30020,Lt Governor,,Dem,Ed Hernandez,74
+Glenn,30042,Lt Governor,,Dem,Ed Hernandez,69
+Glenn,30070,Lt Governor,,Dem,Ed Hernandez,54
+Glenn,30072,Lt Governor,,Dem,Ed Hernandez,30
+Glenn,30081,Lt Governor,,Dem,Ed Hernandez,59
+Glenn,30082,Lt Governor,,Dem,Ed Hernandez,21
+Glenn,30120,Lt Governor,,Dem,Ed Hernandez,60
+Glenn,31070,Lt Governor,,Dem,Ed Hernandez,47
+Glenn,50010,Lt Governor,,Dem,Ed Hernandez,22
+Glenn,50022,Lt Governor,,Dem,Ed Hernandez,43
+Glenn,50030,Lt Governor,,Dem,Ed Hernandez,34
+Glenn,50052,Lt Governor,,Dem,Ed Hernandez,49
+Glenn,50061,Lt Governor,,Dem,Ed Hernandez,73
+Glenn,50081,Lt Governor,,Dem,Ed Hernandez,4
+Glenn,50082,Lt Governor,,Dem,Ed Hernandez,47
+Glenn,50083,Lt Governor,,Dem,Ed Hernandez,34
+Glenn,50084,Lt Governor,,Dem,Ed Hernandez,44
+Glenn,50085,Lt Governor,,Dem,Ed Hernandez,15
+Glenn,GLENN CA,Lt Governor,,Dem,Ed Hernandez,"3,030"
+Glenn,1,Lt Governor,,Dem,Eleni Kounalakis,208
+Glenn,2,Lt Governor,,Dem,Eleni Kounalakis,228
+Glenn,3,Lt Governor,,Dem,Eleni Kounalakis,200
+Glenn,4,Lt Governor,,Dem,Eleni Kounalakis,214
+Glenn,5,Lt Governor,,Dem,Eleni Kounalakis,227
+Glenn,6,Lt Governor,,Dem,Eleni Kounalakis,164
+Glenn,7,Lt Governor,,Dem,Eleni Kounalakis,197
+Glenn,8,Lt Governor,,Dem,Eleni Kounalakis,190
+Glenn,9,Lt Governor,,Dem,Eleni Kounalakis,179
+Glenn,10,Lt Governor,,Dem,Eleni Kounalakis,158
+Glenn,10031,Lt Governor,,Dem,Eleni Kounalakis,26
+Glenn,10050,Lt Governor,,Dem,Eleni Kounalakis,14
+Glenn,10060,Lt Governor,,Dem,Eleni Kounalakis,15
+Glenn,12150,Lt Governor,,Dem,Eleni Kounalakis,88
+Glenn,30011,Lt Governor,,Dem,Eleni Kounalakis,48
+Glenn,30014,Lt Governor,,Dem,Eleni Kounalakis,27
+Glenn,30020,Lt Governor,,Dem,Eleni Kounalakis,61
+Glenn,30042,Lt Governor,,Dem,Eleni Kounalakis,81
+Glenn,30070,Lt Governor,,Dem,Eleni Kounalakis,36
+Glenn,30072,Lt Governor,,Dem,Eleni Kounalakis,16
+Glenn,30081,Lt Governor,,Dem,Eleni Kounalakis,34
+Glenn,30082,Lt Governor,,Dem,Eleni Kounalakis,30
+Glenn,30120,Lt Governor,,Dem,Eleni Kounalakis,43
+Glenn,31070,Lt Governor,,Dem,Eleni Kounalakis,69
+Glenn,50010,Lt Governor,,Dem,Eleni Kounalakis,24
+Glenn,50022,Lt Governor,,Dem,Eleni Kounalakis,41
+Glenn,50030,Lt Governor,,Dem,Eleni Kounalakis,53
+Glenn,50052,Lt Governor,,Dem,Eleni Kounalakis,37
+Glenn,50061,Lt Governor,,Dem,Eleni Kounalakis,73
+Glenn,50081,Lt Governor,,Dem,Eleni Kounalakis,9
+Glenn,50082,Lt Governor,,Dem,Eleni Kounalakis,52
+Glenn,50083,Lt Governor,,Dem,Eleni Kounalakis,34
+Glenn,50084,Lt Governor,,Dem,Eleni Kounalakis,30
+Glenn,50085,Lt Governor,,Dem,Eleni Kounalakis,4
+Glenn,GLENN CA,Lt Governor,,Dem,Eleni Kounalakis,"2,910"
+Glenn,1,Secretary of State,,Dem,Alex Padilla,197
+Glenn,2,Secretary of State,,Dem,Alex Padilla,197
+Glenn,3,Secretary of State,,Dem,Alex Padilla,197
+Glenn,4,Secretary of State,,Dem,Alex Padilla,227
+Glenn,5,Secretary of State,,Dem,Alex Padilla,218
+Glenn,6,Secretary of State,,Dem,Alex Padilla,120
+Glenn,7,Secretary of State,,Dem,Alex Padilla,165
+Glenn,8,Secretary of State,,Dem,Alex Padilla,169
+Glenn,9,Secretary of State,,Dem,Alex Padilla,172
+Glenn,10,Secretary of State,,Dem,Alex Padilla,338
+Glenn,10031,Secretary of State,,Dem,Alex Padilla,42
+Glenn,10050,Secretary of State,,Dem,Alex Padilla,26
+Glenn,10060,Secretary of State,,Dem,Alex Padilla,36
+Glenn,12150,Secretary of State,,Dem,Alex Padilla,145
+Glenn,30011,Secretary of State,,Dem,Alex Padilla,28
+Glenn,30014,Secretary of State,,Dem,Alex Padilla,7
+Glenn,30020,Secretary of State,,Dem,Alex Padilla,47
+Glenn,30042,Secretary of State,,Dem,Alex Padilla,49
+Glenn,30070,Secretary of State,,Dem,Alex Padilla,35
+Glenn,30072,Secretary of State,,Dem,Alex Padilla,13
+Glenn,30081,Secretary of State,,Dem,Alex Padilla,32
+Glenn,30082,Secretary of State,,Dem,Alex Padilla,13
+Glenn,30120,Secretary of State,,Dem,Alex Padilla,26
+Glenn,31070,Secretary of State,,Dem,Alex Padilla,67
+Glenn,50010,Secretary of State,,Dem,Alex Padilla,24
+Glenn,50022,Secretary of State,,Dem,Alex Padilla,25
+Glenn,50030,Secretary of State,,Dem,Alex Padilla,33
+Glenn,50052,Secretary of State,,Dem,Alex Padilla,19
+Glenn,50061,Secretary of State,,Dem,Alex Padilla,60
+Glenn,50081,Secretary of State,,Dem,Alex Padilla,4
+Glenn,50082,Secretary of State,,Dem,Alex Padilla,26
+Glenn,50083,Secretary of State,,Dem,Alex Padilla,27
+Glenn,50084,Secretary of State,,Dem,Alex Padilla,36
+Glenn,50085,Secretary of State,,Dem,Alex Padilla,6
+Glenn,GLENN CA,Secretary of State,,Dem,Alex Padilla,"2,826"
+Glenn,1,Secretary of State,,Rep,Mark Meuser,430
+Glenn,2,Secretary of State,,Rep,Mark Meuser,414
+Glenn,3,Secretary of State,,Rep,Mark Meuser,302
+Glenn,4,Secretary of State,,Rep,Mark Meuser,301
+Glenn,5,Secretary of State,,Rep,Mark Meuser,305
+Glenn,6,Secretary of State,,Rep,Mark Meuser,391
+Glenn,7,Secretary of State,,Rep,Mark Meuser,380
+Glenn,8,Secretary of State,,Rep,Mark Meuser,324
+Glenn,9,Secretary of State,,Rep,Mark Meuser,293
+Glenn,10,Secretary of State,,Rep,Mark Meuser,110
+Glenn,10031,Secretary of State,,Rep,Mark Meuser,23
+Glenn,10050,Secretary of State,,Rep,Mark Meuser,14
+Glenn,10060,Secretary of State,,Rep,Mark Meuser,41
+Glenn,12150,Secretary of State,,Rep,Mark Meuser,69
+Glenn,30011,Secretary of State,,Rep,Mark Meuser,108
+Glenn,30014,Secretary of State,,Rep,Mark Meuser,56
+Glenn,30020,Secretary of State,,Rep,Mark Meuser,160
+Glenn,30042,Secretary of State,,Rep,Mark Meuser,162
+Glenn,30070,Secretary of State,,Rep,Mark Meuser,128
+Glenn,30072,Secretary of State,,Rep,Mark Meuser,49
+Glenn,30081,Secretary of State,,Rep,Mark Meuser,116
+Glenn,30082,Secretary of State,,Rep,Mark Meuser,61
+Glenn,30120,Secretary of State,,Rep,Mark Meuser,158
+Glenn,31070,Secretary of State,,Rep,Mark Meuser,71
+Glenn,50010,Secretary of State,,Rep,Mark Meuser,37
+Glenn,50022,Secretary of State,,Rep,Mark Meuser,114
+Glenn,50030,Secretary of State,,Rep,Mark Meuser,103
+Glenn,50052,Secretary of State,,Rep,Mark Meuser,102
+Glenn,50061,Secretary of State,,Rep,Mark Meuser,187
+Glenn,50081,Secretary of State,,Rep,Mark Meuser,23
+Glenn,50082,Secretary of State,,Rep,Mark Meuser,140
+Glenn,50083,Secretary of State,,Rep,Mark Meuser,76
+Glenn,50084,Secretary of State,,Rep,Mark Meuser,65
+Glenn,50085,Secretary of State,,Rep,Mark Meuser,27
+Glenn,GLENN CA,Secretary of State,,Rep,Mark Meuser,"5,340"
+Glenn,1,Controller,,Rep,Konstantinos Roditis,429
+Glenn,2,Controller,,Rep,Konstantinos Roditis,401
+Glenn,3,Controller,,Rep,Konstantinos Roditis,297
+Glenn,4,Controller,,Rep,Konstantinos Roditis,297
+Glenn,5,Controller,,Rep,Konstantinos Roditis,303
+Glenn,6,Controller,,Rep,Konstantinos Roditis,389
+Glenn,7,Controller,,Rep,Konstantinos Roditis,355
+Glenn,8,Controller,,Rep,Konstantinos Roditis,316
+Glenn,9,Controller,,Rep,Konstantinos Roditis,281
+Glenn,10,Controller,,Rep,Konstantinos Roditis,123
+Glenn,10031,Controller,,Rep,Konstantinos Roditis,29
+Glenn,10050,Controller,,Rep,Konstantinos Roditis,14
+Glenn,10060,Controller,,Rep,Konstantinos Roditis,45
+Glenn,12150,Controller,,Rep,Konstantinos Roditis,65
+Glenn,30011,Controller,,Rep,Konstantinos Roditis,101
+Glenn,30014,Controller,,Rep,Konstantinos Roditis,54
+Glenn,30020,Controller,,Rep,Konstantinos Roditis,149
+Glenn,30042,Controller,,Rep,Konstantinos Roditis,150
+Glenn,30070,Controller,,Rep,Konstantinos Roditis,121
+Glenn,30072,Controller,,Rep,Konstantinos Roditis,50
+Glenn,30081,Controller,,Rep,Konstantinos Roditis,110
+Glenn,30082,Controller,,Rep,Konstantinos Roditis,57
+Glenn,30120,Controller,,Rep,Konstantinos Roditis,148
+Glenn,31070,Controller,,Rep,Konstantinos Roditis,66
+Glenn,50010,Controller,,Rep,Konstantinos Roditis,35
+Glenn,50022,Controller,,Rep,Konstantinos Roditis,112
+Glenn,50030,Controller,,Rep,Konstantinos Roditis,102
+Glenn,50052,Controller,,Rep,Konstantinos Roditis,99
+Glenn,50061,Controller,,Rep,Konstantinos Roditis,188
+Glenn,50081,Controller,,Rep,Konstantinos Roditis,22
+Glenn,50082,Controller,,Rep,Konstantinos Roditis,138
+Glenn,50083,Controller,,Rep,Konstantinos Roditis,75
+Glenn,50084,Controller,,Rep,Konstantinos Roditis,64
+Glenn,50085,Controller,,Rep,Konstantinos Roditis,28
+Glenn,GLENN CA,Controller,,Rep,Konstantinos Roditis,"5,213"
+Glenn,1,Controller,,Dem,Betty Yee,194
+Glenn,2,Controller,,Dem,Betty Yee,210
+Glenn,3,Controller,,Dem,Betty Yee,203
+Glenn,4,Controller,,Dem,Betty Yee,233
+Glenn,5,Controller,,Dem,Betty Yee,225
+Glenn,6,Controller,,Dem,Betty Yee,120
+Glenn,7,Controller,,Dem,Betty Yee,193
+Glenn,8,Controller,,Dem,Betty Yee,180
+Glenn,9,Controller,,Dem,Betty Yee,185
+Glenn,10,Controller,,Dem,Betty Yee,323
+Glenn,10031,Controller,,Dem,Betty Yee,36
+Glenn,10050,Controller,,Dem,Betty Yee,25
+Glenn,10060,Controller,,Dem,Betty Yee,36
+Glenn,12150,Controller,,Dem,Betty Yee,148
+Glenn,30011,Controller,,Dem,Betty Yee,33
+Glenn,30014,Controller,,Dem,Betty Yee,10
+Glenn,30020,Controller,,Dem,Betty Yee,51
+Glenn,30042,Controller,,Dem,Betty Yee,60
+Glenn,30070,Controller,,Dem,Betty Yee,41
+Glenn,30072,Controller,,Dem,Betty Yee,14
+Glenn,30081,Controller,,Dem,Betty Yee,38
+Glenn,30082,Controller,,Dem,Betty Yee,16
+Glenn,30120,Controller,,Dem,Betty Yee,37
+Glenn,31070,Controller,,Dem,Betty Yee,71
+Glenn,50010,Controller,,Dem,Betty Yee,26
+Glenn,50022,Controller,,Dem,Betty Yee,25
+Glenn,50030,Controller,,Dem,Betty Yee,33
+Glenn,50052,Controller,,Dem,Betty Yee,22
+Glenn,50061,Controller,,Dem,Betty Yee,59
+Glenn,50081,Controller,,Dem,Betty Yee,4
+Glenn,50082,Controller,,Dem,Betty Yee,26
+Glenn,50083,Controller,,Dem,Betty Yee,30
+Glenn,50084,Controller,,Dem,Betty Yee,37
+Glenn,50085,Controller,,Dem,Betty Yee,5
+Glenn,GLENN CA,Controller,,Dem,Betty Yee,"2,949"
+Glenn,1,Treasurer,,Rep,Greg Conlon,444
+Glenn,2,Treasurer,,Rep,Greg Conlon,414
+Glenn,3,Treasurer,,Rep,Greg Conlon,310
+Glenn,4,Treasurer,,Rep,Greg Conlon,301
+Glenn,5,Treasurer,,Rep,Greg Conlon,302
+Glenn,6,Treasurer,,Rep,Greg Conlon,393
+Glenn,7,Treasurer,,Rep,Greg Conlon,369
+Glenn,8,Treasurer,,Rep,Greg Conlon,336
+Glenn,9,Treasurer,,Rep,Greg Conlon,294
+Glenn,10,Treasurer,,Rep,Greg Conlon,125
+Glenn,10031,Treasurer,,Rep,Greg Conlon,25
+Glenn,10050,Treasurer,,Rep,Greg Conlon,16
+Glenn,10060,Treasurer,,Rep,Greg Conlon,41
+Glenn,12150,Treasurer,,Rep,Greg Conlon,62
+Glenn,30011,Treasurer,,Rep,Greg Conlon,102
+Glenn,30014,Treasurer,,Rep,Greg Conlon,54
+Glenn,30020,Treasurer,,Rep,Greg Conlon,156
+Glenn,30042,Treasurer,,Rep,Greg Conlon,160
+Glenn,30070,Treasurer,,Rep,Greg Conlon,129
+Glenn,30072,Treasurer,,Rep,Greg Conlon,50
+Glenn,30081,Treasurer,,Rep,Greg Conlon,114
+Glenn,30082,Treasurer,,Rep,Greg Conlon,64
+Glenn,30120,Treasurer,,Rep,Greg Conlon,165
+Glenn,31070,Treasurer,,Rep,Greg Conlon,70
+Glenn,50010,Treasurer,,Rep,Greg Conlon,39
+Glenn,50022,Treasurer,,Rep,Greg Conlon,114
+Glenn,50030,Treasurer,,Rep,Greg Conlon,98
+Glenn,50052,Treasurer,,Rep,Greg Conlon,101
+Glenn,50061,Treasurer,,Rep,Greg Conlon,186
+Glenn,50081,Treasurer,,Rep,Greg Conlon,24
+Glenn,50082,Treasurer,,Rep,Greg Conlon,138
+Glenn,50083,Treasurer,,Rep,Greg Conlon,78
+Glenn,50084,Treasurer,,Rep,Greg Conlon,64
+Glenn,50085,Treasurer,,Rep,Greg Conlon,26
+Glenn,GLENN CA,Treasurer,,Rep,Greg Conlon,"5,364"
+Glenn,1,Treasurer,,Dem,Fiona Ma,179
+Glenn,2,Treasurer,,Dem,Fiona Ma,198
+Glenn,3,Treasurer,,Dem,Fiona Ma,184
+Glenn,4,Treasurer,,Dem,Fiona Ma,226
+Glenn,5,Treasurer,,Dem,Fiona Ma,220
+Glenn,6,Treasurer,,Dem,Fiona Ma,115
+Glenn,7,Treasurer,,Dem,Fiona Ma,178
+Glenn,8,Treasurer,,Dem,Fiona Ma,152
+Glenn,9,Treasurer,,Dem,Fiona Ma,170
+Glenn,10,Treasurer,,Dem,Fiona Ma,321
+Glenn,10031,Treasurer,,Dem,Fiona Ma,40
+Glenn,10050,Treasurer,,Dem,Fiona Ma,22
+Glenn,10060,Treasurer,,Dem,Fiona Ma,38
+Glenn,12150,Treasurer,,Dem,Fiona Ma,152
+Glenn,30011,Treasurer,,Dem,Fiona Ma,32
+Glenn,30014,Treasurer,,Dem,Fiona Ma,10
+Glenn,30020,Treasurer,,Dem,Fiona Ma,48
+Glenn,30042,Treasurer,,Dem,Fiona Ma,50
+Glenn,30070,Treasurer,,Dem,Fiona Ma,31
+Glenn,30072,Treasurer,,Dem,Fiona Ma,13
+Glenn,30081,Treasurer,,Dem,Fiona Ma,36
+Glenn,30082,Treasurer,,Dem,Fiona Ma,12
+Glenn,30120,Treasurer,,Dem,Fiona Ma,23
+Glenn,31070,Treasurer,,Dem,Fiona Ma,68
+Glenn,50010,Treasurer,,Dem,Fiona Ma,23
+Glenn,50022,Treasurer,,Dem,Fiona Ma,25
+Glenn,50030,Treasurer,,Dem,Fiona Ma,39
+Glenn,50052,Treasurer,,Dem,Fiona Ma,21
+Glenn,50061,Treasurer,,Dem,Fiona Ma,57
+Glenn,50081,Treasurer,,Dem,Fiona Ma,3
+Glenn,50082,Treasurer,,Dem,Fiona Ma,27
+Glenn,50083,Treasurer,,Dem,Fiona Ma,26
+Glenn,50084,Treasurer,,Dem,Fiona Ma,37
+Glenn,50085,Treasurer,,Dem,Fiona Ma,7
+Glenn,GLENN CA,Treasurer,,Dem,Fiona Ma,"2,783"
+Glenn,1,Attorney General,,Rep,Steven Bailey,455
+Glenn,2,Attorney General,,Rep,Steven Bailey,421
+Glenn,3,Attorney General,,Rep,Steven Bailey,317
+Glenn,4,Attorney General,,Rep,Steven Bailey,314
+Glenn,5,Attorney General,,Rep,Steven Bailey,316
+Glenn,6,Attorney General,,Rep,Steven Bailey,411
+Glenn,7,Attorney General,,Rep,Steven Bailey,386
+Glenn,8,Attorney General,,Rep,Steven Bailey,346
+Glenn,9,Attorney General,,Rep,Steven Bailey,309
+Glenn,10,Attorney General,,Rep,Steven Bailey,120
+Glenn,10031,Attorney General,,Rep,Steven Bailey,25
+Glenn,10050,Attorney General,,Rep,Steven Bailey,17
+Glenn,10060,Attorney General,,Rep,Steven Bailey,46
+Glenn,12150,Attorney General,,Rep,Steven Bailey,65
+Glenn,30011,Attorney General,,Rep,Steven Bailey,109
+Glenn,30014,Attorney General,,Rep,Steven Bailey,59
+Glenn,30020,Attorney General,,Rep,Steven Bailey,167
+Glenn,30042,Attorney General,,Rep,Steven Bailey,168
+Glenn,30070,Attorney General,,Rep,Steven Bailey,135
+Glenn,30072,Attorney General,,Rep,Steven Bailey,56
+Glenn,30081,Attorney General,,Rep,Steven Bailey,117
+Glenn,30082,Attorney General,,Rep,Steven Bailey,64
+Glenn,30120,Attorney General,,Rep,Steven Bailey,169
+Glenn,31070,Attorney General,,Rep,Steven Bailey,78
+Glenn,50010,Attorney General,,Rep,Steven Bailey,36
+Glenn,50022,Attorney General,,Rep,Steven Bailey,120
+Glenn,50030,Attorney General,,Rep,Steven Bailey,106
+Glenn,50052,Attorney General,,Rep,Steven Bailey,105
+Glenn,50061,Attorney General,,Rep,Steven Bailey,188
+Glenn,50081,Attorney General,,Rep,Steven Bailey,24
+Glenn,50082,Attorney General,,Rep,Steven Bailey,144
+Glenn,50083,Attorney General,,Rep,Steven Bailey,78
+Glenn,50084,Attorney General,,Rep,Steven Bailey,68
+Glenn,50085,Attorney General,,Rep,Steven Bailey,27
+Glenn,GLENN CA,Attorney General,,Rep,Steven Bailey,"5,566"
+Glenn,1,Attorney General,,Dem,Xavier Becerra,176
+Glenn,2,Attorney General,,Dem,Xavier Becerra,190
+Glenn,3,Attorney General,,Dem,Xavier Becerra,180
+Glenn,4,Attorney General,,Dem,Xavier Becerra,213
+Glenn,5,Attorney General,,Dem,Xavier Becerra,208
+Glenn,6,Attorney General,,Dem,Xavier Becerra,105
+Glenn,7,Attorney General,,Dem,Xavier Becerra,162
+Glenn,8,Attorney General,,Dem,Xavier Becerra,152
+Glenn,9,Attorney General,,Dem,Xavier Becerra,158
+Glenn,10,Attorney General,,Dem,Xavier Becerra,331
+Glenn,10031,Attorney General,,Dem,Xavier Becerra,40
+Glenn,10050,Attorney General,,Dem,Xavier Becerra,23
+Glenn,10060,Attorney General,,Dem,Xavier Becerra,34
+Glenn,12150,Attorney General,,Dem,Xavier Becerra,151
+Glenn,30011,Attorney General,,Dem,Xavier Becerra,27
+Glenn,30014,Attorney General,,Dem,Xavier Becerra,5
+Glenn,30020,Attorney General,,Dem,Xavier Becerra,44
+Glenn,30042,Attorney General,,Dem,Xavier Becerra,44
+Glenn,30070,Attorney General,,Dem,Xavier Becerra,29
+Glenn,30072,Attorney General,,Dem,Xavier Becerra,11
+Glenn,30081,Attorney General,,Dem,Xavier Becerra,33
+Glenn,30082,Attorney General,,Dem,Xavier Becerra,11
+Glenn,30120,Attorney General,,Dem,Xavier Becerra,23
+Glenn,31070,Attorney General,,Dem,Xavier Becerra,62
+Glenn,50010,Attorney General,,Dem,Xavier Becerra,25
+Glenn,50022,Attorney General,,Dem,Xavier Becerra,18
+Glenn,50030,Attorney General,,Dem,Xavier Becerra,31
+Glenn,50052,Attorney General,,Dem,Xavier Becerra,18
+Glenn,50061,Attorney General,,Dem,Xavier Becerra,57
+Glenn,50081,Attorney General,,Dem,Xavier Becerra,3
+Glenn,50082,Attorney General,,Dem,Xavier Becerra,23
+Glenn,50083,Attorney General,,Dem,Xavier Becerra,25
+Glenn,50084,Attorney General,,Dem,Xavier Becerra,33
+Glenn,50085,Attorney General,,Dem,Xavier Becerra,6
+Glenn,GLENN CA,Attorney General,,Dem,Xavier Becerra,"2,651"
+Glenn,1,Insurance Commissioner,,Dem,Ricardo Lara,145
+Glenn,2,Insurance Commissioner,,Dem,Ricardo Lara,149
+Glenn,3,Insurance Commissioner,,Dem,Ricardo Lara,149
+Glenn,4,Insurance Commissioner,,Dem,Ricardo Lara,186
+Glenn,5,Insurance Commissioner,,Dem,Ricardo Lara,180
+Glenn,6,Insurance Commissioner,,Dem,Ricardo Lara,96
+Glenn,7,Insurance Commissioner,,Dem,Ricardo Lara,138
+Glenn,8,Insurance Commissioner,,Dem,Ricardo Lara,136
+Glenn,9,Insurance Commissioner,,Dem,Ricardo Lara,141
+Glenn,10,Insurance Commissioner,,Dem,Ricardo Lara,312
+Glenn,10031,Insurance Commissioner,,Dem,Ricardo Lara,37
+Glenn,10050,Insurance Commissioner,,Dem,Ricardo Lara,16
+Glenn,10060,Insurance Commissioner,,Dem,Ricardo Lara,33
+Glenn,12150,Insurance Commissioner,,Dem,Ricardo Lara,129
+Glenn,30011,Insurance Commissioner,,Dem,Ricardo Lara,26
+Glenn,30014,Insurance Commissioner,,Dem,Ricardo Lara,4
+Glenn,30020,Insurance Commissioner,,Dem,Ricardo Lara,36
+Glenn,30042,Insurance Commissioner,,Dem,Ricardo Lara,44
+Glenn,30070,Insurance Commissioner,,Dem,Ricardo Lara,23
+Glenn,30072,Insurance Commissioner,,Dem,Ricardo Lara,10
+Glenn,30081,Insurance Commissioner,,Dem,Ricardo Lara,28
+Glenn,30082,Insurance Commissioner,,Dem,Ricardo Lara,11
+Glenn,30120,Insurance Commissioner,,Dem,Ricardo Lara,13
+Glenn,31070,Insurance Commissioner,,Dem,Ricardo Lara,51
+Glenn,50010,Insurance Commissioner,,Dem,Ricardo Lara,24
+Glenn,50022,Insurance Commissioner,,Dem,Ricardo Lara,23
+Glenn,50030,Insurance Commissioner,,Dem,Ricardo Lara,28
+Glenn,50052,Insurance Commissioner,,Dem,Ricardo Lara,15
+Glenn,50061,Insurance Commissioner,,Dem,Ricardo Lara,50
+Glenn,50081,Insurance Commissioner,,Dem,Ricardo Lara,2
+Glenn,50082,Insurance Commissioner,,Dem,Ricardo Lara,16
+Glenn,50083,Insurance Commissioner,,Dem,Ricardo Lara,20
+Glenn,50084,Insurance Commissioner,,Dem,Ricardo Lara,29
+Glenn,50085,Insurance Commissioner,,Dem,Ricardo Lara,4
+Glenn,GLENN CA,Insurance Commissioner,,Dem,Ricardo Lara,"2,304"
+Glenn,1,Insurance Commissioner,,Non,Steve Poizner,436
+Glenn,2,Insurance Commissioner,,Non,Steve Poizner,409
+Glenn,3,Insurance Commissioner,,Non,Steve Poizner,322
+Glenn,4,Insurance Commissioner,,Non,Steve Poizner,314
+Glenn,5,Insurance Commissioner,,Non,Steve Poizner,313
+Glenn,6,Insurance Commissioner,,Non,Steve Poizner,385
+Glenn,7,Insurance Commissioner,,Non,Steve Poizner,371
+Glenn,8,Insurance Commissioner,,Non,Steve Poizner,314
+Glenn,9,Insurance Commissioner,,Non,Steve Poizner,291
+Glenn,10,Insurance Commissioner,,Non,Steve Poizner,117
+Glenn,10031,Insurance Commissioner,,Non,Steve Poizner,28
+Glenn,10050,Insurance Commissioner,,Non,Steve Poizner,24
+Glenn,10060,Insurance Commissioner,,Non,Steve Poizner,39
+Glenn,12150,Insurance Commissioner,,Non,Steve Poizner,85
+Glenn,30011,Insurance Commissioner,,Non,Steve Poizner,105
+Glenn,30014,Insurance Commissioner,,Non,Steve Poizner,57
+Glenn,30020,Insurance Commissioner,,Non,Steve Poizner,152
+Glenn,30042,Insurance Commissioner,,Non,Steve Poizner,154
+Glenn,30070,Insurance Commissioner,,Non,Steve Poizner,127
+Glenn,30072,Insurance Commissioner,,Non,Steve Poizner,42
+Glenn,30081,Insurance Commissioner,,Non,Steve Poizner,107
+Glenn,30082,Insurance Commissioner,,Non,Steve Poizner,61
+Glenn,30120,Insurance Commissioner,,Non,Steve Poizner,144
+Glenn,31070,Insurance Commissioner,,Non,Steve Poizner,83
+Glenn,50010,Insurance Commissioner,,Non,Steve Poizner,30
+Glenn,50022,Insurance Commissioner,,Non,Steve Poizner,106
+Glenn,50030,Insurance Commissioner,,Non,Steve Poizner,99
+Glenn,50052,Insurance Commissioner,,Non,Steve Poizner,102
+Glenn,50061,Insurance Commissioner,,Non,Steve Poizner,173
+Glenn,50081,Insurance Commissioner,,Non,Steve Poizner,25
+Glenn,50082,Insurance Commissioner,,Non,Steve Poizner,129
+Glenn,50083,Insurance Commissioner,,Non,Steve Poizner,75
+Glenn,50084,Insurance Commissioner,,Non,Steve Poizner,68
+Glenn,50085,Insurance Commissioner,,Non,Steve Poizner,23
+Glenn,GLENN CA,Insurance Commissioner,,Non,Steve Poizner,"5,310"
+Glenn,1,US Senator,,Dem,Dianne Feinstein,189
+Glenn,2,US Senator,,Dem,Dianne Feinstein,171
+Glenn,3,US Senator,,Dem,Dianne Feinstein,158
+Glenn,4,US Senator,,Dem,Dianne Feinstein,177
+Glenn,5,US Senator,,Dem,Dianne Feinstein,161
+Glenn,6,US Senator,,Dem,Dianne Feinstein,116
+Glenn,7,US Senator,,Dem,Dianne Feinstein,143
+Glenn,8,US Senator,,Dem,Dianne Feinstein,144
+Glenn,9,US Senator,,Dem,Dianne Feinstein,135
+Glenn,10,US Senator,,Dem,Dianne Feinstein,186
+Glenn,10031,US Senator,,Dem,Dianne Feinstein,18
+Glenn,10050,US Senator,,Dem,Dianne Feinstein,15
+Glenn,10060,US Senator,,Dem,Dianne Feinstein,22
+Glenn,12150,US Senator,,Dem,Dianne Feinstein,85
+Glenn,30011,US Senator,,Dem,Dianne Feinstein,31
+Glenn,30014,US Senator,,Dem,Dianne Feinstein,5
+Glenn,30020,US Senator,,Dem,Dianne Feinstein,45
+Glenn,30042,US Senator,,Dem,Dianne Feinstein,50
+Glenn,30070,US Senator,,Dem,Dianne Feinstein,30
+Glenn,30072,US Senator,,Dem,Dianne Feinstein,15
+Glenn,30081,US Senator,,Dem,Dianne Feinstein,33
+Glenn,30082,US Senator,,Dem,Dianne Feinstein,18
+Glenn,30120,US Senator,,Dem,Dianne Feinstein,47
+Glenn,31070,US Senator,,Dem,Dianne Feinstein,62
+Glenn,50010,US Senator,,Dem,Dianne Feinstein,22
+Glenn,50022,US Senator,,Dem,Dianne Feinstein,36
+Glenn,50030,US Senator,,Dem,Dianne Feinstein,40
+Glenn,50052,US Senator,,Dem,Dianne Feinstein,27
+Glenn,50061,US Senator,,Dem,Dianne Feinstein,54
+Glenn,50081,US Senator,,Dem,Dianne Feinstein,6
+Glenn,50082,US Senator,,Dem,Dianne Feinstein,36
+Glenn,50083,US Senator,,Dem,Dianne Feinstein,24
+Glenn,50084,US Senator,,Dem,Dianne Feinstein,33
+Glenn,50085,US Senator,,Dem,Dianne Feinstein,7
+Glenn,GLENN CA,US Senator,,Dem,Dianne Feinstein,"2,341"
+Glenn,1,US Senator,,Dem,Kevin DeLeon,328
+Glenn,2,US Senator,,Dem,Kevin DeLeon,336
+Glenn,3,US Senator,,Dem,Kevin DeLeon,280
+Glenn,4,US Senator,,Dem,Kevin DeLeon,267
+Glenn,5,US Senator,,Dem,Kevin DeLeon,285
+Glenn,6,US Senator,,Dem,Kevin DeLeon,289
+Glenn,7,US Senator,,Dem,Kevin DeLeon,295
+Glenn,8,US Senator,,Dem,Kevin DeLeon,280
+Glenn,9,US Senator,,Dem,Kevin DeLeon,241
+Glenn,10,US Senator,,Dem,Kevin DeLeon,228
+Glenn,10031,US Senator,,Dem,Kevin DeLeon,42
+Glenn,10050,US Senator,,Dem,Kevin DeLeon,21
+Glenn,10060,US Senator,,Dem,Kevin DeLeon,35
+Glenn,12150,US Senator,,Dem,Kevin DeLeon,125
+Glenn,30011,US Senator,,Dem,Kevin DeLeon,73
+Glenn,30014,US Senator,,Dem,Kevin DeLeon,43
+Glenn,30020,US Senator,,Dem,Kevin DeLeon,119
+Glenn,30042,US Senator,,Dem,Kevin DeLeon,129
+Glenn,30070,US Senator,,Dem,Kevin DeLeon,76
+Glenn,30072,US Senator,,Dem,Kevin DeLeon,34
+Glenn,30081,US Senator,,Dem,Kevin DeLeon,69
+Glenn,30082,US Senator,,Dem,Kevin DeLeon,39
+Glenn,30120,US Senator,,Dem,Kevin DeLeon,97
+Glenn,31070,US Senator,,Dem,Kevin DeLeon,61
+Glenn,50010,US Senator,,Dem,Kevin DeLeon,21
+Glenn,50022,US Senator,,Dem,Kevin DeLeon,69
+Glenn,50030,US Senator,,Dem,Kevin DeLeon,71
+Glenn,50052,US Senator,,Dem,Kevin DeLeon,78
+Glenn,50061,US Senator,,Dem,Kevin DeLeon,143
+Glenn,50081,US Senator,,Dem,Kevin DeLeon,9
+Glenn,50082,US Senator,,Dem,Kevin DeLeon,95
+Glenn,50083,US Senator,,Dem,Kevin DeLeon,47
+Glenn,50084,US Senator,,Dem,Kevin DeLeon,48
+Glenn,50085,US Senator,,Dem,Kevin DeLeon,15
+Glenn,GLENN CA,US Senator,,Dem,Kevin DeLeon,"4,388"
+Glenn,1,Public Instruction,,None,Marshall Tuck,402
+Glenn,2,Public Instruction,,None,Marshall Tuck,373
+Glenn,3,Public Instruction,,None,Marshall Tuck,311
+Glenn,4,Public Instruction,,None,Marshall Tuck,318
+Glenn,5,Public Instruction,,None,Marshall Tuck,289
+Glenn,6,Public Instruction,,None,Marshall Tuck,310
+Glenn,7,Public Instruction,,None,Marshall Tuck,327
+Glenn,8,Public Instruction,,None,Marshall Tuck,297
+Glenn,9,Public Instruction,,None,Marshall Tuck,278
+Glenn,10,Public Instruction,,None,Marshall Tuck,241
+Glenn,10031,Public Instruction,,None,Marshall Tuck,37
+Glenn,10050,Public Instruction,,None,Marshall Tuck,18
+Glenn,10060,Public Instruction,,None,Marshall Tuck,40
+Glenn,12150,Public Instruction,,None,Marshall Tuck,116
+Glenn,30011,Public Instruction,,None,Marshall Tuck,78
+Glenn,30014,Public Instruction,,None,Marshall Tuck,38
+Glenn,30020,Public Instruction,,None,Marshall Tuck,135
+Glenn,30042,Public Instruction,,None,Marshall Tuck,137
+Glenn,30070,Public Instruction,,None,Marshall Tuck,98
+Glenn,30072,Public Instruction,,None,Marshall Tuck,38
+Glenn,30081,Public Instruction,,None,Marshall Tuck,98
+Glenn,30082,Public Instruction,,None,Marshall Tuck,47
+Glenn,30120,Public Instruction,,None,Marshall Tuck,130
+Glenn,31070,Public Instruction,,None,Marshall Tuck,80
+Glenn,50010,Public Instruction,,None,Marshall Tuck,36
+Glenn,50022,Public Instruction,,None,Marshall Tuck,99
+Glenn,50030,Public Instruction,,None,Marshall Tuck,93
+Glenn,50052,Public Instruction,,None,Marshall Tuck,91
+Glenn,50061,Public Instruction,,None,Marshall Tuck,147
+Glenn,50081,Public Instruction,,None,Marshall Tuck,18
+Glenn,50082,Public Instruction,,None,Marshall Tuck,97
+Glenn,50083,Public Instruction,,None,Marshall Tuck,64
+Glenn,50084,Public Instruction,,None,Marshall Tuck,62
+Glenn,50085,Public Instruction,,None,Marshall Tuck,15
+Glenn,GLENN CA,Public Instruction,,None,Marshall Tuck,"4,958"
+Glenn,1,Public Instruction,,None,Tony Thurmond,159
+Glenn,2,Public Instruction,,None,Tony Thurmond,162
+Glenn,3,Public Instruction,,None,Tony Thurmond,126
+Glenn,4,Public Instruction,,None,Tony Thurmond,163
+Glenn,5,Public Instruction,,None,Tony Thurmond,171
+Glenn,6,Public Instruction,,None,Tony Thurmond,123
+Glenn,7,Public Instruction,,None,Tony Thurmond,151
+Glenn,8,Public Instruction,,None,Tony Thurmond,153
+Glenn,9,Public Instruction,,None,Tony Thurmond,128
+Glenn,10,Public Instruction,,None,Tony Thurmond,160
+Glenn,10031,Public Instruction,,None,Tony Thurmond,21
+Glenn,10050,Public Instruction,,None,Tony Thurmond,17
+Glenn,10060,Public Instruction,,None,Tony Thurmond,27
+Glenn,12150,Public Instruction,,None,Tony Thurmond,80
+Glenn,30011,Public Instruction,,None,Tony Thurmond,33
+Glenn,30014,Public Instruction,,None,Tony Thurmond,21
+Glenn,30020,Public Instruction,,None,Tony Thurmond,36
+Glenn,30042,Public Instruction,,None,Tony Thurmond,35
+Glenn,30070,Public Instruction,,None,Tony Thurmond,32
+Glenn,30072,Public Instruction,,None,Tony Thurmond,16
+Glenn,30081,Public Instruction,,None,Tony Thurmond,27
+Glenn,30082,Public Instruction,,None,Tony Thurmond,18
+Glenn,30120,Public Instruction,,None,Tony Thurmond,31
+Glenn,31070,Public Instruction,,None,Tony Thurmond,44
+Glenn,50010,Public Instruction,,None,Tony Thurmond,16
+Glenn,50022,Public Instruction,,None,Tony Thurmond,26
+Glenn,50030,Public Instruction,,None,Tony Thurmond,26
+Glenn,50052,Public Instruction,,None,Tony Thurmond,25
+Glenn,50061,Public Instruction,,None,Tony Thurmond,66
+Glenn,50081,Public Instruction,,None,Tony Thurmond,6
+Glenn,50082,Public Instruction,,None,Tony Thurmond,35
+Glenn,50083,Public Instruction,,None,Tony Thurmond,29
+Glenn,50084,Public Instruction,,None,Tony Thurmond,24
+Glenn,50085,Public Instruction,,None,Tony Thurmond,9
+Glenn,GLENN CA,Public Instruction,,None,Tony Thurmond,"2,196"
+Glenn,30072,US House,1,Rep,Doug LaMalfa,54
+Glenn,30082,US House,1,Rep,Doug LaMalfa,61
+Glenn,30120,US House,1,Rep,Doug LaMalfa,168
+Glenn,50010,US House,1,Rep,Doug LaMalfa,34
+Glenn,50022,US House,1,Rep,Doug LaMalfa,118
+Glenn,50030,US House,1,Rep,Doug LaMalfa,102
+Glenn,50052,US House,1,Rep,Doug LaMalfa,103
+Glenn,50083,US House,1,Rep,Doug LaMalfa,72
+Glenn,GLENN CA,US House,1,Rep,Doug LaMalfa,712
+Glenn,1,US House,3,Dem,John Garamendi,210
+Glenn,2,US House,3,Dem,John Garamendi,213
+Glenn,3,US House,3,Dem,John Garamendi,212
+Glenn,4,US House,3,Dem,John Garamendi,242
+Glenn,5,US House,3,Dem,John Garamendi,231
+Glenn,6,US House,3,Dem,John Garamendi,133
+Glenn,7,US House,3,Dem,John Garamendi,190
+Glenn,8,US House,3,Dem,John Garamendi,190
+Glenn,9,US House,3,Dem,John Garamendi,187
+Glenn,10,US House,3,Dem,John Garamendi,323
+Glenn,10031,US House,3,Dem,John Garamendi,40
+Glenn,10050,US House,3,Dem,John Garamendi,22
+Glenn,10060,US House,3,Dem,John Garamendi,35
+Glenn,12150,US House,3,Dem,John Garamendi,150
+Glenn,30011,US House,3,Dem,John Garamendi,39
+Glenn,30014,US House,3,Dem,John Garamendi,8
+Glenn,30020,US House,3,Dem,John Garamendi,56
+Glenn,30042,US House,3,Dem,John Garamendi,58
+Glenn,30070,US House,3,Dem,John Garamendi,42
+Glenn,30081,US House,3,Dem,John Garamendi,38
+Glenn,31070,US House,3,Dem,John Garamendi,69
+Glenn,50061,US House,3,Dem,John Garamendi,66
+Glenn,50081,US House,3,Dem,John Garamendi,5
+Glenn,50082,US House,3,Dem,John Garamendi,31
+Glenn,50084,US House,3,Dem,John Garamendi,37
+Glenn,50085,US House,3,Dem,John Garamendi,9
+Glenn,GLENN CA,US House,3,Dem,John Garamendi,"2,836"
+Glenn,30072,US House,1,Lbt,Audrey Denney,12
+Glenn,30082,US House,1,Lbt,Audrey Denney,14
+Glenn,30120,US House,1,Lbt,Audrey Denney,29
+Glenn,50010,US House,1,Lbt,Audrey Denney,28
+Glenn,50022,US House,1,Lbt,Audrey Denney,25
+Glenn,50030,US House,1,Lbt,Audrey Denney,33
+Glenn,50052,US House,1,Lbt,Audrey Denney,22
+Glenn,50083,US House,1,Lbt,Audrey Denney,31
+Glenn,GLENN CA,US House,1,Lbt,Audrey Denney,194
+Glenn,1,US House,3,Rep,Charlie Schaupp,424
+Glenn,2,US House,3,Rep,Charlie Schaupp,404
+Glenn,3,US House,3,Rep,Charlie Schaupp,293
+Glenn,4,US House,3,Rep,Charlie Schaupp,295
+Glenn,5,US House,3,Rep,Charlie Schaupp,296
+Glenn,6,US House,3,Rep,Charlie Schaupp,385
+Glenn,7,US House,3,Rep,Charlie Schaupp,364
+Glenn,8,US House,3,Rep,Charlie Schaupp,310
+Glenn,9,US House,3,Rep,Charlie Schaupp,278
+Glenn,10,US House,3,Rep,Charlie Schaupp,120
+Glenn,10031,US House,3,Rep,Charlie Schaupp,25
+Glenn,10050,US House,3,Rep,Charlie Schaupp,18
+Glenn,10060,US House,3,Rep,Charlie Schaupp,45
+Glenn,12150,US House,3,Rep,Charlie Schaupp,66
+Glenn,30011,US House,3,Rep,Charlie Schaupp,98
+Glenn,30014,US House,3,Rep,Charlie Schaupp,56
+Glenn,30020,US House,3,Rep,Charlie Schaupp,156
+Glenn,30042,US House,3,Rep,Charlie Schaupp,153
+Glenn,30070,US House,3,Rep,Charlie Schaupp,121
+Glenn,30081,US House,3,Rep,Charlie Schaupp,112
+Glenn,31070,US House,3,Rep,Charlie Schaupp,68
+Glenn,50061,US House,3,Rep,Charlie Schaupp,181
+Glenn,50081,US House,3,Rep,Charlie Schaupp,22
+Glenn,50082,US House,3,Rep,Charlie Schaupp,138
+Glenn,50084,US House,3,Rep,Charlie Schaupp,61
+Glenn,50085,US House,3,Rep,Charlie Schaupp,24
+Glenn,GLENN CA,US House,3,Rep,Charlie Schaupp,"4,513"
+Glenn,1,State Senate,4,Dem,Phillip Kim,153
+Glenn,2,State Senate,4,Dem,Phillip Kim,175
+Glenn,3,State Senate,4,Dem,Phillip Kim,163
+Glenn,4,State Senate,4,Dem,Phillip Kim,207
+Glenn,5,State Senate,4,Dem,Phillip Kim,190
+Glenn,6,State Senate,4,Dem,Phillip Kim,105
+Glenn,7,State Senate,4,Dem,Phillip Kim,154
+Glenn,8,State Senate,4,Dem,Phillip Kim,131
+Glenn,9,State Senate,4,Dem,Phillip Kim,150
+Glenn,10,State Senate,4,Dem,Phillip Kim,298
+Glenn,10031,State Senate,4,Dem,Phillip Kim,37
+Glenn,10050,State Senate,4,Dem,Phillip Kim,21
+Glenn,10060,State Senate,4,Dem,Phillip Kim,35
+Glenn,12150,State Senate,4,Dem,Phillip Kim,140
+Glenn,30011,State Senate,4,Dem,Phillip Kim,28
+Glenn,30014,State Senate,4,Dem,Phillip Kim,8
+Glenn,30020,State Senate,4,Dem,Phillip Kim,44
+Glenn,30042,State Senate,4,Dem,Phillip Kim,45
+Glenn,30070,State Senate,4,Dem,Phillip Kim,29
+Glenn,30072,State Senate,4,Dem,Phillip Kim,11
+Glenn,30081,State Senate,4,Dem,Phillip Kim,27
+Glenn,30082,State Senate,4,Dem,Phillip Kim,12
+Glenn,30120,State Senate,4,Dem,Phillip Kim,18
+Glenn,31070,State Senate,4,Dem,Phillip Kim,56
+Glenn,50010,State Senate,4,Dem,Phillip Kim,25
+Glenn,50022,State Senate,4,Dem,Phillip Kim,16
+Glenn,50030,State Senate,4,Dem,Phillip Kim,30
+Glenn,50052,State Senate,4,Dem,Phillip Kim,15
+Glenn,50061,State Senate,4,Dem,Phillip Kim,49
+Glenn,50081,State Senate,4,Dem,Phillip Kim,3
+Glenn,50082,State Senate,4,Dem,Phillip Kim,22
+Glenn,50083,State Senate,4,Dem,Phillip Kim,20
+Glenn,50084,State Senate,4,Dem,Phillip Kim,33
+Glenn,50085,State Senate,4,Dem,Phillip Kim,5
+Glenn,GLENN CA,State Senate,4,Dem,Phillip Kim,"2,455"
+Glenn,1,State Senate,4,Rep,James Nielsen,485
+Glenn,2,State Senate,4,Rep,James Nielsen,438
+Glenn,3,State Senate,4,Rep,James Nielsen,345
+Glenn,4,State Senate,4,Rep,James Nielsen,329
+Glenn,5,State Senate,4,Rep,James Nielsen,333
+Glenn,6,State Senate,4,Rep,James Nielsen,410
+Glenn,7,State Senate,4,Rep,James Nielsen,399
+Glenn,8,State Senate,4,Rep,James Nielsen,367
+Glenn,9,State Senate,4,Rep,James Nielsen,316
+Glenn,10,State Senate,4,Rep,James Nielsen,149
+Glenn,10031,State Senate,4,Rep,James Nielsen,28
+Glenn,10050,State Senate,4,Rep,James Nielsen,19
+Glenn,10060,State Senate,4,Rep,James Nielsen,46
+Glenn,12150,State Senate,4,Rep,James Nielsen,74
+Glenn,30011,State Senate,4,Rep,James Nielsen,108
+Glenn,30014,State Senate,4,Rep,James Nielsen,56
+Glenn,30020,State Senate,4,Rep,James Nielsen,160
+Glenn,30042,State Senate,4,Rep,James Nielsen,166
+Glenn,30070,State Senate,4,Rep,James Nielsen,135
+Glenn,30072,State Senate,4,Rep,James Nielsen,56
+Glenn,30081,State Senate,4,Rep,James Nielsen,124
+Glenn,30082,State Senate,4,Rep,James Nielsen,63
+Glenn,30120,State Senate,4,Rep,James Nielsen,179
+Glenn,31070,State Senate,4,Rep,James Nielsen,81
+Glenn,50010,State Senate,4,Rep,James Nielsen,37
+Glenn,50022,State Senate,4,Rep,James Nielsen,125
+Glenn,50030,State Senate,4,Rep,James Nielsen,107
+Glenn,50052,State Senate,4,Rep,James Nielsen,108
+Glenn,50061,State Senate,4,Rep,James Nielsen,200
+Glenn,50081,State Senate,4,Rep,James Nielsen,24
+Glenn,50082,State Senate,4,Rep,James Nielsen,145
+Glenn,50083,State Senate,4,Rep,James Nielsen,83
+Glenn,50084,State Senate,4,Rep,James Nielsen,66
+Glenn,50085,State Senate,4,Rep,James Nielsen,28
+Glenn,GLENN CA,State Senate,4,Rep,James Nielsen,"5,789"
+Glenn,1,Assembly,3,Dem,Sonia Aery,157
+Glenn,2,Assembly,3,Dem,Sonia Aery,182
+Glenn,3,Assembly,3,Dem,Sonia Aery,169
+Glenn,4,Assembly,3,Dem,Sonia Aery,201
+Glenn,5,Assembly,3,Dem,Sonia Aery,192
+Glenn,6,Assembly,3,Dem,Sonia Aery,103
+Glenn,7,Assembly,3,Dem,Sonia Aery,147
+Glenn,8,Assembly,3,Dem,Sonia Aery,140
+Glenn,9,Assembly,3,Dem,Sonia Aery,152
+Glenn,10,Assembly,3,Dem,Sonia Aery,303
+Glenn,10031,Assembly,3,Dem,Sonia Aery,37
+Glenn,10050,Assembly,3,Dem,Sonia Aery,22
+Glenn,10060,Assembly,3,Dem,Sonia Aery,34
+Glenn,12150,Assembly,3,Dem,Sonia Aery,143
+Glenn,30011,Assembly,3,Dem,Sonia Aery,27
+Glenn,30014,Assembly,3,Dem,Sonia Aery,4
+Glenn,30020,Assembly,3,Dem,Sonia Aery,43
+Glenn,30042,Assembly,3,Dem,Sonia Aery,48
+Glenn,30070,Assembly,3,Dem,Sonia Aery,29
+Glenn,30072,Assembly,3,Dem,Sonia Aery,11
+Glenn,30081,Assembly,3,Dem,Sonia Aery,27
+Glenn,30082,Assembly,3,Dem,Sonia Aery,12
+Glenn,30120,Assembly,3,Dem,Sonia Aery,16
+Glenn,31070,Assembly,3,Dem,Sonia Aery,61
+Glenn,50010,Assembly,3,Dem,Sonia Aery,25
+Glenn,50022,Assembly,3,Dem,Sonia Aery,16
+Glenn,50030,Assembly,3,Dem,Sonia Aery,30
+Glenn,50052,Assembly,3,Dem,Sonia Aery,12
+Glenn,50061,Assembly,3,Dem,Sonia Aery,54
+Glenn,50081,Assembly,3,Dem,Sonia Aery,3
+Glenn,50082,Assembly,3,Dem,Sonia Aery,20
+Glenn,50083,Assembly,3,Dem,Sonia Aery,18
+Glenn,50084,Assembly,3,Dem,Sonia Aery,33
+Glenn,50085,Assembly,3,Dem,Sonia Aery,6
+Glenn,GLENN CA,Assembly,3,Dem,Sonia Aery,"2,477"
+Glenn,1,Assembly,3,Rep,James Gallagher,477
+Glenn,2,Assembly,3,Rep,James Gallagher,435
+Glenn,3,Assembly,3,Rep,James Gallagher,334
+Glenn,4,Assembly,3,Rep,James Gallagher,333
+Glenn,5,Assembly,3,Rep,James Gallagher,330
+Glenn,6,Assembly,3,Rep,James Gallagher,413
+Glenn,7,Assembly,3,Rep,James Gallagher,400
+Glenn,8,Assembly,3,Rep,James Gallagher,356
+Glenn,9,Assembly,3,Rep,James Gallagher,315
+Glenn,10,Assembly,3,Rep,James Gallagher,139
+Glenn,10031,Assembly,3,Rep,James Gallagher,28
+Glenn,10050,Assembly,3,Rep,James Gallagher,18
+Glenn,10060,Assembly,3,Rep,James Gallagher,47
+Glenn,12150,Assembly,3,Rep,James Gallagher,70
+Glenn,30011,Assembly,3,Rep,James Gallagher,110
+Glenn,30014,Assembly,3,Rep,James Gallagher,61
+Glenn,30020,Assembly,3,Rep,James Gallagher,164
+Glenn,30042,Assembly,3,Rep,James Gallagher,166
+Glenn,30070,Assembly,3,Rep,James Gallagher,136
+Glenn,30072,Assembly,3,Rep,James Gallagher,56
+Glenn,30081,Assembly,3,Rep,James Gallagher,123
+Glenn,30082,Assembly,3,Rep,James Gallagher,63
+Glenn,30120,Assembly,3,Rep,James Gallagher,178
+Glenn,31070,Assembly,3,Rep,James Gallagher,77
+Glenn,50010,Assembly,3,Rep,James Gallagher,37
+Glenn,50022,Assembly,3,Rep,James Gallagher,124
+Glenn,50030,Assembly,3,Rep,James Gallagher,107
+Glenn,50052,Assembly,3,Rep,James Gallagher,110
+Glenn,50061,Assembly,3,Rep,James Gallagher,197
+Glenn,50081,Assembly,3,Rep,James Gallagher,24
+Glenn,50082,Assembly,3,Rep,James Gallagher,146
+Glenn,50083,Assembly,3,Rep,James Gallagher,84
+Glenn,50084,Assembly,3,Rep,James Gallagher,66
+Glenn,50085,Assembly,3,Rep,James Gallagher,27
+Glenn,GLENN CA,Assembly,3,Rep,James Gallagher,"5,751"

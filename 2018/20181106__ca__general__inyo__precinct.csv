@@ -1,0 +1,577 @@
+county,precinct,office,district,party,candidate,votes
+Inyo,101,Governor,,Rep,John Cox,296
+Inyo,102,Governor,,Rep,John Cox,390
+Inyo,103,Governor,,Rep,John Cox,307
+Inyo,104 MB,Governor,,Rep,John Cox,61
+Inyo,105,Governor,,Rep,John Cox,327
+Inyo,106,Governor,,Rep,John Cox,135
+Inyo,107,Governor,,Rep,John Cox,118
+Inyo,108,Governor,,Rep,John Cox,401
+Inyo,109,Governor,,Rep,John Cox,516
+Inyo,110,Governor,,Rep,John Cox,123
+Inyo,111,Governor,,Rep,John Cox,201
+Inyo,112 MB,Governor,,Rep,John Cox,3
+Inyo,113,Governor,,Rep,John Cox,251
+Inyo,114,Governor,,Rep,John Cox,162
+Inyo,115 MB,Governor,,Rep,John Cox,17
+Inyo,116,Governor,,Rep,John Cox,177
+Inyo,117 MB,Governor,,Rep,John Cox,0
+Inyo,118,Governor,,Rep,John Cox,152
+Inyo,119,Governor,,Rep,John Cox,201
+Inyo,120 MB,Governor,,Rep,John Cox,16
+Inyo,121 MB,Governor,,Rep,John Cox,104
+Inyo,122 MB,Governor,,Rep,John Cox,40
+Inyo,123 MB,Governor,,Rep,John Cox,20
+Inyo,INYO CA,Governor,,Rep,John Cox,4018
+Inyo,101,Governor,,Dem,Gavin Newsom,244
+Inyo,102,Governor,,Dem,Gavin Newsom,249
+Inyo,103,Governor,,Dem,Gavin Newsom,187
+Inyo,104 MB,Governor,,Dem,Gavin Newsom,34
+Inyo,105,Governor,,Dem,Gavin Newsom,328
+Inyo,106,Governor,,Dem,Gavin Newsom,190
+Inyo,107,Governor,,Dem,Gavin Newsom,157
+Inyo,108,Governor,,Dem,Gavin Newsom,301
+Inyo,109,Governor,,Dem,Gavin Newsom,241
+Inyo,110,Governor,,Dem,Gavin Newsom,252
+Inyo,111,Governor,,Dem,Gavin Newsom,91
+Inyo,112 MB,Governor,,Dem,Gavin Newsom,11
+Inyo,113,Governor,,Dem,Gavin Newsom,199
+Inyo,114,Governor,,Dem,Gavin Newsom,114
+Inyo,115 MB,Governor,,Dem,Gavin Newsom,20
+Inyo,116,Governor,,Dem,Gavin Newsom,131
+Inyo,117 MB,Governor,,Dem,Gavin Newsom,0
+Inyo,118,Governor,,Dem,Gavin Newsom,133
+Inyo,119,Governor,,Dem,Gavin Newsom,166
+Inyo,120 MB,Governor,,Dem,Gavin Newsom,38
+Inyo,121 MB,Governor,,Dem,Gavin Newsom,35
+Inyo,122 MB,Governor,,Dem,Gavin Newsom,63
+Inyo,123 MB,Governor,,Dem,Gavin Newsom,60
+Inyo,INYO CA,Governor,,Dem,Gavin Newsom,3244
+Inyo,101,Lt Governor,,Dem,Ed Hernandez,140
+Inyo,102,Lt Governor,,Dem,Ed Hernandez,191
+Inyo,103,Lt Governor,,Dem,Ed Hernandez,147
+Inyo,104 MB,Lt Governor,,Dem,Ed Hernandez,22
+Inyo,105,Lt Governor,,Dem,Ed Hernandez,196
+Inyo,106,Lt Governor,,Dem,Ed Hernandez,105
+Inyo,107,Lt Governor,,Dem,Ed Hernandez,85
+Inyo,108,Lt Governor,,Dem,Ed Hernandez,205
+Inyo,109,Lt Governor,,Dem,Ed Hernandez,243
+Inyo,110,Lt Governor,,Dem,Ed Hernandez,138
+Inyo,111,Lt Governor,,Dem,Ed Hernandez,78
+Inyo,112 MB,Lt Governor,,Dem,Ed Hernandez,3
+Inyo,113,Lt Governor,,Dem,Ed Hernandez,155
+Inyo,114,Lt Governor,,Dem,Ed Hernandez,91
+Inyo,115 MB,Lt Governor,,Dem,Ed Hernandez,16
+Inyo,116,Lt Governor,,Dem,Ed Hernandez,116
+Inyo,117 MB,Lt Governor,,Dem,Ed Hernandez,0
+Inyo,118,Lt Governor,,Dem,Ed Hernandez,122
+Inyo,119,Lt Governor,,Dem,Ed Hernandez,136
+Inyo,120 MB,Lt Governor,,Dem,Ed Hernandez,15
+Inyo,121 MB,Lt Governor,,Dem,Ed Hernandez,48
+Inyo,122 MB,Lt Governor,,Dem,Ed Hernandez,30
+Inyo,123 MB,Lt Governor,,Dem,Ed Hernandez,25
+Inyo,INYO CA,Lt Governor,,Dem,Ed Hernandez,2307
+Inyo,101,Lt Governor,,Dem,Eleni Kounalakis,233
+Inyo,102,Lt Governor,,Dem,Eleni Kounalakis,253
+Inyo,103,Lt Governor,,Dem,Eleni Kounalakis,174
+Inyo,104 MB,Lt Governor,,Dem,Eleni Kounalakis,41
+Inyo,105,Lt Governor,,Dem,Eleni Kounalakis,301
+Inyo,106,Lt Governor,,Dem,Eleni Kounalakis,144
+Inyo,107,Lt Governor,,Dem,Eleni Kounalakis,138
+Inyo,108,Lt Governor,,Dem,Eleni Kounalakis,289
+Inyo,109,Lt Governor,,Dem,Eleni Kounalakis,220
+Inyo,110,Lt Governor,,Dem,Eleni Kounalakis,182
+Inyo,111,Lt Governor,,Dem,Eleni Kounalakis,100
+Inyo,112 MB,Lt Governor,,Dem,Eleni Kounalakis,8
+Inyo,113,Lt Governor,,Dem,Eleni Kounalakis,189
+Inyo,114,Lt Governor,,Dem,Eleni Kounalakis,112
+Inyo,115 MB,Lt Governor,,Dem,Eleni Kounalakis,17
+Inyo,116,Lt Governor,,Dem,Eleni Kounalakis,117
+Inyo,117 MB,Lt Governor,,Dem,Eleni Kounalakis,0
+Inyo,118,Lt Governor,,Dem,Eleni Kounalakis,104
+Inyo,119,Lt Governor,,Dem,Eleni Kounalakis,145
+Inyo,120 MB,Lt Governor,,Dem,Eleni Kounalakis,31
+Inyo,121 MB,Lt Governor,,Dem,Eleni Kounalakis,49
+Inyo,122 MB,Lt Governor,,Dem,Eleni Kounalakis,56
+Inyo,123 MB,Lt Governor,,Dem,Eleni Kounalakis,50
+Inyo,INYO CA,Lt Governor,,Dem,Eleni Kounalakis,2953
+Inyo,101,Secretary of State,,Dem,Alex Padilla,242
+Inyo,102,Secretary of State,,Dem,Alex Padilla,263
+Inyo,103,Secretary of State,,Dem,Alex Padilla,191
+Inyo,104 MB,Secretary of State,,Dem,Alex Padilla,37
+Inyo,105,Secretary of State,,Dem,Alex Padilla,337
+Inyo,106,Secretary of State,,Dem,Alex Padilla,187
+Inyo,107,Secretary of State,,Dem,Alex Padilla,170
+Inyo,108,Secretary of State,,Dem,Alex Padilla,303
+Inyo,109,Secretary of State,,Dem,Alex Padilla,247
+Inyo,110,Secretary of State,,Dem,Alex Padilla,271
+Inyo,111,Secretary of State,,Dem,Alex Padilla,93
+Inyo,112 MB,Secretary of State,,Dem,Alex Padilla,11
+Inyo,113,Secretary of State,,Dem,Alex Padilla,220
+Inyo,114,Secretary of State,,Dem,Alex Padilla,119
+Inyo,115 MB,Secretary of State,,Dem,Alex Padilla,21
+Inyo,116,Secretary of State,,Dem,Alex Padilla,142
+Inyo,117 MB,Secretary of State,,Dem,Alex Padilla,0
+Inyo,118,Secretary of State,,Dem,Alex Padilla,140
+Inyo,119,Secretary of State,,Dem,Alex Padilla,167
+Inyo,120 MB,Secretary of State,,Dem,Alex Padilla,40
+Inyo,121 MB,Secretary of State,,Dem,Alex Padilla,36
+Inyo,122 MB,Secretary of State,,Dem,Alex Padilla,67
+Inyo,123 MB,Secretary of State,,Dem,Alex Padilla,66
+Inyo,INYO CA,Secretary of State,,Dem,Alex Padilla,3370
+Inyo,101,Secretary of State,,Rep,Mark Meuser,290
+Inyo,102,Secretary of State,,Rep,Mark Meuser,371
+Inyo,103,Secretary of State,,Rep,Mark Meuser,295
+Inyo,104 MB,Secretary of State,,Rep,Mark Meuser,58
+Inyo,105,Secretary of State,,Rep,Mark Meuser,311
+Inyo,106,Secretary of State,,Rep,Mark Meuser,127
+Inyo,107,Secretary of State,,Rep,Mark Meuser,101
+Inyo,108,Secretary of State,,Rep,Mark Meuser,395
+Inyo,109,Secretary of State,,Rep,Mark Meuser,505
+Inyo,110,Secretary of State,,Rep,Mark Meuser,99
+Inyo,111,Secretary of State,,Rep,Mark Meuser,194
+Inyo,112 MB,Secretary of State,,Rep,Mark Meuser,3
+Inyo,113,Secretary of State,,Rep,Mark Meuser,226
+Inyo,114,Secretary of State,,Rep,Mark Meuser,153
+Inyo,115 MB,Secretary of State,,Rep,Mark Meuser,17
+Inyo,116,Secretary of State,,Rep,Mark Meuser,163
+Inyo,117 MB,Secretary of State,,Rep,Mark Meuser,0
+Inyo,118,Secretary of State,,Rep,Mark Meuser,142
+Inyo,119,Secretary of State,,Rep,Mark Meuser,198
+Inyo,120 MB,Secretary of State,,Rep,Mark Meuser,17
+Inyo,121 MB,Secretary of State,,Rep,Mark Meuser,101
+Inyo,122 MB,Secretary of State,,Rep,Mark Meuser,38
+Inyo,123 MB,Secretary of State,,Rep,Mark Meuser,17
+Inyo,INYO CA,Secretary of State,,Rep,Mark Meuser,3821
+Inyo,101,Controller,,Rep,Konstantinos Roditis,278
+Inyo,102,Controller,,Rep,Konstantinos Roditis,366
+Inyo,103,Controller,,Rep,Konstantinos Roditis,278
+Inyo,104 MB,Controller,,Rep,Konstantinos Roditis,52
+Inyo,105,Controller,,Rep,Konstantinos Roditis,293
+Inyo,106,Controller,,Rep,Konstantinos Roditis,117
+Inyo,107,Controller,,Rep,Konstantinos Roditis,95
+Inyo,108,Controller,,Rep,Konstantinos Roditis,378
+Inyo,109,Controller,,Rep,Konstantinos Roditis,481
+Inyo,110,Controller,,Rep,Konstantinos Roditis,103
+Inyo,111,Controller,,Rep,Konstantinos Roditis,187
+Inyo,112 MB,Controller,,Rep,Konstantinos Roditis,4
+Inyo,113,Controller,,Rep,Konstantinos Roditis,223
+Inyo,114,Controller,,Rep,Konstantinos Roditis,144
+Inyo,115 MB,Controller,,Rep,Konstantinos Roditis,16
+Inyo,116,Controller,,Rep,Konstantinos Roditis,157
+Inyo,117 MB,Controller,,Rep,Konstantinos Roditis,0
+Inyo,118,Controller,,Rep,Konstantinos Roditis,134
+Inyo,119,Controller,,Rep,Konstantinos Roditis,182
+Inyo,120 MB,Controller,,Rep,Konstantinos Roditis,12
+Inyo,121 MB,Controller,,Rep,Konstantinos Roditis,102
+Inyo,122 MB,Controller,,Rep,Konstantinos Roditis,36
+Inyo,123 MB,Controller,,Rep,Konstantinos Roditis,18
+Inyo,INYO CA,Controller,,Rep,Konstantinos Roditis,3656
+Inyo,101,Controller,,Dem,Betty Yee,255
+Inyo,102,Controller,,Dem,Betty Yee,267
+Inyo,103,Controller,,Dem,Betty Yee,210
+Inyo,104 MB,Controller,,Dem,Betty Yee,42
+Inyo,105,Controller,,Dem,Betty Yee,355
+Inyo,106,Controller,,Dem,Betty Yee,197
+Inyo,107,Controller,,Dem,Betty Yee,179
+Inyo,108,Controller,,Dem,Betty Yee,318
+Inyo,109,Controller,,Dem,Betty Yee,265
+Inyo,110,Controller,,Dem,Betty Yee,267
+Inyo,111,Controller,,Dem,Betty Yee,102
+Inyo,112 MB,Controller,,Dem,Betty Yee,11
+Inyo,113,Controller,,Dem,Betty Yee,222
+Inyo,114,Controller,,Dem,Betty Yee,126
+Inyo,115 MB,Controller,,Dem,Betty Yee,22
+Inyo,116,Controller,,Dem,Betty Yee,152
+Inyo,117 MB,Controller,,Dem,Betty Yee,0
+Inyo,118,Controller,,Dem,Betty Yee,148
+Inyo,119,Controller,,Dem,Betty Yee,181
+Inyo,120 MB,Controller,,Dem,Betty Yee,44
+Inyo,121 MB,Controller,,Dem,Betty Yee,33
+Inyo,122 MB,Controller,,Dem,Betty Yee,68
+Inyo,123 MB,Controller,,Dem,Betty Yee,65
+Inyo,INYO CA,Controller,,Dem,Betty Yee,3529
+Inyo,101,Treasurer,,Rep,Greg Conlon,288
+Inyo,102,Treasurer,,Rep,Greg Conlon,374
+Inyo,103,Treasurer,,Rep,Greg Conlon,299
+Inyo,104 MB,Treasurer,,Rep,Greg Conlon,58
+Inyo,105,Treasurer,,Rep,Greg Conlon,312
+Inyo,106,Treasurer,,Rep,Greg Conlon,131
+Inyo,107,Treasurer,,Rep,Greg Conlon,97
+Inyo,108,Treasurer,,Rep,Greg Conlon,390
+Inyo,109,Treasurer,,Rep,Greg Conlon,504
+Inyo,110,Treasurer,,Rep,Greg Conlon,102
+Inyo,111,Treasurer,,Rep,Greg Conlon,189
+Inyo,112 MB,Treasurer,,Rep,Greg Conlon,4
+Inyo,113,Treasurer,,Rep,Greg Conlon,221
+Inyo,114,Treasurer,,Rep,Greg Conlon,147
+Inyo,115 MB,Treasurer,,Rep,Greg Conlon,16
+Inyo,116,Treasurer,,Rep,Greg Conlon,162
+Inyo,117 MB,Treasurer,,Rep,Greg Conlon,0
+Inyo,118,Treasurer,,Rep,Greg Conlon,141
+Inyo,119,Treasurer,,Rep,Greg Conlon,188
+Inyo,120 MB,Treasurer,,Rep,Greg Conlon,15
+Inyo,121 MB,Treasurer,,Rep,Greg Conlon,104
+Inyo,122 MB,Treasurer,,Rep,Greg Conlon,40
+Inyo,123 MB,Treasurer,,Rep,Greg Conlon,17
+Inyo,INYO CA,Treasurer,,Rep,Greg Conlon,3799
+Inyo,101,Treasurer,,Dem,Fiona Ma,244
+Inyo,102,Treasurer,,Dem,Fiona Ma,254
+Inyo,103,Treasurer,,Dem,Fiona Ma,188
+Inyo,104 MB,Treasurer,,Dem,Fiona Ma,36
+Inyo,105,Treasurer,,Dem,Fiona Ma,338
+Inyo,106,Treasurer,,Dem,Fiona Ma,182
+Inyo,107,Treasurer,,Dem,Fiona Ma,174
+Inyo,108,Treasurer,,Dem,Fiona Ma,301
+Inyo,109,Treasurer,,Dem,Fiona Ma,244
+Inyo,110,Treasurer,,Dem,Fiona Ma,263
+Inyo,111,Treasurer,,Dem,Fiona Ma,96
+Inyo,112 MB,Treasurer,,Dem,Fiona Ma,11
+Inyo,113,Treasurer,,Dem,Fiona Ma,224
+Inyo,114,Treasurer,,Dem,Fiona Ma,123
+Inyo,115 MB,Treasurer,,Dem,Fiona Ma,22
+Inyo,116,Treasurer,,Dem,Fiona Ma,144
+Inyo,117 MB,Treasurer,,Dem,Fiona Ma,0
+Inyo,118,Treasurer,,Dem,Fiona Ma,143
+Inyo,119,Treasurer,,Dem,Fiona Ma,175
+Inyo,120 MB,Treasurer,,Dem,Fiona Ma,41
+Inyo,121 MB,Treasurer,,Dem,Fiona Ma,33
+Inyo,122 MB,Treasurer,,Dem,Fiona Ma,64
+Inyo,123 MB,Treasurer,,Dem,Fiona Ma,65
+Inyo,INYO CA,Treasurer,,Dem,Fiona Ma,3365
+Inyo,101,Attorney General,,Rep,Steven Bailey,287
+Inyo,102,Attorney General,,Rep,Steven Bailey,379
+Inyo,103,Attorney General,,Rep,Steven Bailey,299
+Inyo,104 MB,Attorney General,,Rep,Steven Bailey,57
+Inyo,105,Attorney General,,Rep,Steven Bailey,309
+Inyo,106,Attorney General,,Rep,Steven Bailey,132
+Inyo,107,Attorney General,,Rep,Steven Bailey,108
+Inyo,108,Attorney General,,Rep,Steven Bailey,394
+Inyo,109,Attorney General,,Rep,Steven Bailey,512
+Inyo,110,Attorney General,,Rep,Steven Bailey,103
+Inyo,111,Attorney General,,Rep,Steven Bailey,195
+Inyo,112 MB,Attorney General,,Rep,Steven Bailey,4
+Inyo,113,Attorney General,,Rep,Steven Bailey,235
+Inyo,114,Attorney General,,Rep,Steven Bailey,158
+Inyo,115 MB,Attorney General,,Rep,Steven Bailey,17
+Inyo,116,Attorney General,,Rep,Steven Bailey,168
+Inyo,117 MB,Attorney General,,Rep,Steven Bailey,0
+Inyo,118,Attorney General,,Rep,Steven Bailey,145
+Inyo,119,Attorney General,,Rep,Steven Bailey,196
+Inyo,120 MB,Attorney General,,Rep,Steven Bailey,17
+Inyo,121 MB,Attorney General,,Rep,Steven Bailey,102
+Inyo,122 MB,Attorney General,,Rep,Steven Bailey,37
+Inyo,123 MB,Attorney General,,Rep,Steven Bailey,17
+Inyo,INYO CA,Attorney General,,Rep,Steven Bailey,3871
+Inyo,101,Attorney General,,Dem,Xavier Becerra,244
+Inyo,102,Attorney General,,Dem,Xavier Becerra,251
+Inyo,103,Attorney General,,Dem,Xavier Becerra,191
+Inyo,104 MB,Attorney General,,Dem,Xavier Becerra,38
+Inyo,105,Attorney General,,Dem,Xavier Becerra,338
+Inyo,106,Attorney General,,Dem,Xavier Becerra,185
+Inyo,107,Attorney General,,Dem,Xavier Becerra,163
+Inyo,108,Attorney General,,Dem,Xavier Becerra,303
+Inyo,109,Attorney General,,Dem,Xavier Becerra,236
+Inyo,110,Attorney General,,Dem,Xavier Becerra,262
+Inyo,111,Attorney General,,Dem,Xavier Becerra,94
+Inyo,112 MB,Attorney General,,Dem,Xavier Becerra,11
+Inyo,113,Attorney General,,Dem,Xavier Becerra,211
+Inyo,114,Attorney General,,Dem,Xavier Becerra,115
+Inyo,115 MB,Attorney General,,Dem,Xavier Becerra,21
+Inyo,116,Attorney General,,Dem,Xavier Becerra,142
+Inyo,117 MB,Attorney General,,Dem,Xavier Becerra,0
+Inyo,118,Attorney General,,Dem,Xavier Becerra,140
+Inyo,119,Attorney General,,Dem,Xavier Becerra,168
+Inyo,120 MB,Attorney General,,Dem,Xavier Becerra,40
+Inyo,121 MB,Attorney General,,Dem,Xavier Becerra,35
+Inyo,122 MB,Attorney General,,Dem,Xavier Becerra,67
+Inyo,123 MB,Attorney General,,Dem,Xavier Becerra,66
+Inyo,INYO CA,Attorney General,,Dem,Xavier Becerra,3321
+Inyo,101,Insurance Commissioner,,Dem,Ricardo Lara,190
+Inyo,102,Insurance Commissioner,,Dem,Ricardo Lara,189
+Inyo,103,Insurance Commissioner,,Dem,Ricardo Lara,162
+Inyo,104 MB,Insurance Commissioner,,Dem,Ricardo Lara,22
+Inyo,105,Insurance Commissioner,,Dem,Ricardo Lara,253
+Inyo,106,Insurance Commissioner,,Dem,Ricardo Lara,139
+Inyo,107,Insurance Commissioner,,Dem,Ricardo Lara,115
+Inyo,108,Insurance Commissioner,,Dem,Ricardo Lara,213
+Inyo,109,Insurance Commissioner,,Dem,Ricardo Lara,174
+Inyo,110,Insurance Commissioner,,Dem,Ricardo Lara,229
+Inyo,111,Insurance Commissioner,,Dem,Ricardo Lara,74
+Inyo,112 MB,Insurance Commissioner,,Dem,Ricardo Lara,8
+Inyo,113,Insurance Commissioner,,Dem,Ricardo Lara,179
+Inyo,114,Insurance Commissioner,,Dem,Ricardo Lara,89
+Inyo,115 MB,Insurance Commissioner,,Dem,Ricardo Lara,15
+Inyo,116,Insurance Commissioner,,Dem,Ricardo Lara,107
+Inyo,117 MB,Insurance Commissioner,,Dem,Ricardo Lara,0
+Inyo,118,Insurance Commissioner,,Dem,Ricardo Lara,109
+Inyo,119,Insurance Commissioner,,Dem,Ricardo Lara,127
+Inyo,120 MB,Insurance Commissioner,,Dem,Ricardo Lara,28
+Inyo,121 MB,Insurance Commissioner,,Dem,Ricardo Lara,26
+Inyo,122 MB,Insurance Commissioner,,Dem,Ricardo Lara,46
+Inyo,123 MB,Insurance Commissioner,,Dem,Ricardo Lara,52
+Inyo,INYO CA,Insurance Commissioner,,Dem,Ricardo Lara,2546
+Inyo,101,Insurance Commissioner,,NPP,Steve Poizner,303
+Inyo,102,Insurance Commissioner,,NPP,Steve Poizner,395
+Inyo,103,Insurance Commissioner,,NPP,Steve Poizner,290
+Inyo,104 MB,Insurance Commissioner,,NPP,Steve Poizner,65
+Inyo,105,Insurance Commissioner,,NPP,Steve Poizner,350
+Inyo,106,Insurance Commissioner,,NPP,Steve Poizner,159
+Inyo,107,Insurance Commissioner,,NPP,Steve Poizner,143
+Inyo,108,Insurance Commissioner,,NPP,Steve Poizner,421
+Inyo,109,Insurance Commissioner,,NPP,Steve Poizner,500
+Inyo,110,Insurance Commissioner,,NPP,Steve Poizner,115
+Inyo,111,Insurance Commissioner,,NPP,Steve Poizner,198
+Inyo,112 MB,Insurance Commissioner,,NPP,Steve Poizner,7
+Inyo,113,Insurance Commissioner,,NPP,Steve Poizner,237
+Inyo,114,Insurance Commissioner,,NPP,Steve Poizner,165
+Inyo,115 MB,Insurance Commissioner,,NPP,Steve Poizner,22
+Inyo,116,Insurance Commissioner,,NPP,Steve Poizner,185
+Inyo,117 MB,Insurance Commissioner,,NPP,Steve Poizner,0
+Inyo,118,Insurance Commissioner,,NPP,Steve Poizner,166
+Inyo,119,Insurance Commissioner,,NPP,Steve Poizner,220
+Inyo,120 MB,Insurance Commissioner,,NPP,Steve Poizner,28
+Inyo,121 MB,Insurance Commissioner,,NPP,Steve Poizner,104
+Inyo,122 MB,Insurance Commissioner,,NPP,Steve Poizner,50
+Inyo,123 MB,Insurance Commissioner,,NPP,Steve Poizner,28
+Inyo,INYO CA,Insurance Commissioner,,NPP,Steve Poizner,4151
+Inyo,101,US Senate,,Dem,Dianne Feinstein,196
+Inyo,102,US Senate,,Dem,Dianne Feinstein,183
+Inyo,103,US Senate,,Dem,Dianne Feinstein,138
+Inyo,104 MB,US Senate,,Dem,Dianne Feinstein,27
+Inyo,105,US Senate,,Dem,Dianne Feinstein,242
+Inyo,106,US Senate,,Dem,Dianne Feinstein,116
+Inyo,107,US Senate,,Dem,Dianne Feinstein,111
+Inyo,108,US Senate,,Dem,Dianne Feinstein,217
+Inyo,109,US Senate,,Dem,Dianne Feinstein,220
+Inyo,110,US Senate,,Dem,Dianne Feinstein,153
+Inyo,111,US Senate,,Dem,Dianne Feinstein,66
+Inyo,112 MB,US Senate,,Dem,Dianne Feinstein,1
+Inyo,113,US Senate,,Dem,Dianne Feinstein,143
+Inyo,114,US Senate,,Dem,Dianne Feinstein,75
+Inyo,115 MB,US Senate,,Dem,Dianne Feinstein,17
+Inyo,116,US Senate,,Dem,Dianne Feinstein,129
+Inyo,117 MB,US Senate,,Dem,Dianne Feinstein,0
+Inyo,118,US Senate,,Dem,Dianne Feinstein,81
+Inyo,119,US Senate,,Dem,Dianne Feinstein,114
+Inyo,120 MB,US Senate,,Dem,Dianne Feinstein,14
+Inyo,121 MB,US Senate,,Dem,Dianne Feinstein,29
+Inyo,122 MB,US Senate,,Dem,Dianne Feinstein,42
+Inyo,123 MB,US Senate,,Dem,Dianne Feinstein,30
+Inyo,INYO CA,US Senate,,Dem,Dianne Feinstein,2344
+Inyo,101,US Senate,,Dem,Kevin DeLeon,217
+Inyo,102,US Senate,,Dem,Kevin DeLeon,317
+Inyo,103,US Senate,,Dem,Kevin DeLeon,245
+Inyo,104 MB,US Senate,,Dem,Kevin DeLeon,43
+Inyo,105,US Senate,,Dem,Kevin DeLeon,315
+Inyo,106,US Senate,,Dem,Kevin DeLeon,164
+Inyo,107,US Senate,,Dem,Kevin DeLeon,133
+Inyo,108,US Senate,,Dem,Kevin DeLeon,344
+Inyo,109,US Senate,,Dem,Kevin DeLeon,333
+Inyo,110,US Senate,,Dem,Kevin DeLeon,185
+Inyo,111,US Senate,,Dem,Kevin DeLeon,149
+Inyo,112 MB,US Senate,,Dem,Kevin DeLeon,10
+Inyo,113,US Senate,,Dem,Kevin DeLeon,228
+Inyo,114,US Senate,,Dem,Kevin DeLeon,147
+Inyo,115 MB,US Senate,,Dem,Kevin DeLeon,15
+Inyo,116,US Senate,,Dem,Kevin DeLeon,135
+Inyo,117 MB,US Senate,,Dem,Kevin DeLeon,0
+Inyo,118,US Senate,,Dem,Kevin DeLeon,165
+Inyo,119,US Senate,,Dem,Kevin DeLeon,178
+Inyo,120 MB,US Senate,,Dem,Kevin DeLeon,38
+Inyo,121 MB,US Senate,,Dem,Kevin DeLeon,77
+Inyo,122 MB,US Senate,,Dem,Kevin DeLeon,47
+Inyo,123 MB,US Senate,,Dem,Kevin DeLeon,47
+Inyo,INYO CA,US Senate,,Dem,Kevin DeLeon,3532
+Inyo,101,Public Instruction,,None,Marshall Tuck,223
+Inyo,102,Public Instruction,,None,Marshall Tuck,329
+Inyo,103,Public Instruction,,None,Marshall Tuck,233
+Inyo,104 MB,Public Instruction,,None,Marshall Tuck,50
+Inyo,105,Public Instruction,,None,Marshall Tuck,268
+Inyo,106,Public Instruction,,None,Marshall Tuck,145
+Inyo,107,Public Instruction,,None,Marshall Tuck,98
+Inyo,108,Public Instruction,,None,Marshall Tuck,317
+Inyo,109,Public Instruction,,None,Marshall Tuck,382
+Inyo,110,Public Instruction,,None,Marshall Tuck,177
+Inyo,111,Public Instruction,,None,Marshall Tuck,132
+Inyo,112 MB,Public Instruction,,None,Marshall Tuck,0
+Inyo,113,Public Instruction,,None,Marshall Tuck,218
+Inyo,114,Public Instruction,,None,Marshall Tuck,123
+Inyo,115 MB,Public Instruction,,None,Marshall Tuck,12
+Inyo,116,Public Instruction,,None,Marshall Tuck,141
+Inyo,117 MB,Public Instruction,,None,Marshall Tuck,0
+Inyo,118,Public Instruction,,None,Marshall Tuck,139
+Inyo,119,Public Instruction,,None,Marshall Tuck,164
+Inyo,120 MB,Public Instruction,,None,Marshall Tuck,15
+Inyo,121 MB,Public Instruction,,None,Marshall Tuck,80
+Inyo,122 MB,Public Instruction,,None,Marshall Tuck,31
+Inyo,123 MB,Public Instruction,,None,Marshall Tuck,28
+Inyo,INYO CA,Public Instruction,,None,Marshall Tuck,3305
+Inyo,101,Public Instruction,,None,Tony Thurmond,197
+Inyo,102,Public Instruction,,None,Tony Thurmond,199
+Inyo,103,Public Instruction,,None,Tony Thurmond,165
+Inyo,104 MB,Public Instruction,,None,Tony Thurmond,28
+Inyo,105,Public Instruction,,None,Tony Thurmond,254
+Inyo,106,Public Instruction,,None,Tony Thurmond,123
+Inyo,107,Public Instruction,,None,Tony Thurmond,126
+Inyo,108,Public Instruction,,None,Tony Thurmond,260
+Inyo,109,Public Instruction,,None,Tony Thurmond,235
+Inyo,110,Public Instruction,,None,Tony Thurmond,147
+Inyo,111,Public Instruction,,None,Tony Thurmond,91
+Inyo,112 MB,Public Instruction,,None,Tony Thurmond,5
+Inyo,113,Public Instruction,,None,Tony Thurmond,159
+Inyo,114,Public Instruction,,None,Tony Thurmond,109
+Inyo,115 MB,Public Instruction,,None,Tony Thurmond,14
+Inyo,116,Public Instruction,,None,Tony Thurmond,111
+Inyo,117 MB,Public Instruction,,None,Tony Thurmond,0
+Inyo,118,Public Instruction,,None,Tony Thurmond,100
+Inyo,119,Public Instruction,,None,Tony Thurmond,153
+Inyo,120 MB,Public Instruction,,None,Tony Thurmond,33
+Inyo,121 MB,Public Instruction,,None,Tony Thurmond,29
+Inyo,122 MB,Public Instruction,,None,Tony Thurmond,42
+Inyo,123 MB,Public Instruction,,None,Tony Thurmond,44
+Inyo,INYO CA,Public Instruction,,None,Tony Thurmond,2624
+Inyo,101,US House,8,Rep,Paul Cook,264
+Inyo,102,US House,8,Rep,Paul Cook,287
+Inyo,103,US House,8,Rep,Paul Cook,219
+Inyo,104 MB,US House,8,Rep,Paul Cook,42
+Inyo,105,US House,8,Rep,Paul Cook,282
+Inyo,106,US House,8,Rep,Paul Cook,129
+Inyo,107,US House,8,Rep,Paul Cook,120
+Inyo,108,US House,8,Rep,Paul Cook,317
+Inyo,109,US House,8,Rep,Paul Cook,334
+Inyo,110,US House,8,Rep,Paul Cook,181
+Inyo,111,US House,8,Rep,Paul Cook,140
+Inyo,112 MB,US House,8,Rep,Paul Cook,5
+Inyo,113,US House,8,Rep,Paul Cook,190
+Inyo,114,US House,8,Rep,Paul Cook,122
+Inyo,115 MB,US House,8,Rep,Paul Cook,13
+Inyo,116,US House,8,Rep,Paul Cook,139
+Inyo,117 MB,US House,8,Rep,Paul Cook,0
+Inyo,118,US House,8,Rep,Paul Cook,132
+Inyo,119,US House,8,Rep,Paul Cook,203
+Inyo,120 MB,US House,8,Rep,Paul Cook,25
+Inyo,121 MB,US House,8,Rep,Paul Cook,61
+Inyo,122 MB,US House,8,Rep,Paul Cook,48
+Inyo,123 MB,US House,8,Rep,Paul Cook,29
+Inyo,INYO CA,US House,8,Rep,Paul Cook,3282
+Inyo,101,US House,8,Rep,Tim Donnelly,186
+Inyo,102,US House,8,Rep,Tim Donnelly,270
+Inyo,103,US House,8,Rep,Tim Donnelly,218
+Inyo,104 MB,US House,8,Rep,Tim Donnelly,38
+Inyo,105,US House,8,Rep,Tim Donnelly,251
+Inyo,106,US House,8,Rep,Tim Donnelly,120
+Inyo,107,US House,8,Rep,Tim Donnelly,102
+Inyo,108,US House,8,Rep,Tim Donnelly,283
+Inyo,109,US House,8,Rep,Tim Donnelly,337
+Inyo,110,US House,8,Rep,Tim Donnelly,141
+Inyo,111,US House,8,Rep,Tim Donnelly,116
+Inyo,112 MB,US House,8,Rep,Tim Donnelly,6
+Inyo,113,US House,8,Rep,Tim Donnelly,192
+Inyo,114,US House,8,Rep,Tim Donnelly,114
+Inyo,115 MB,US House,8,Rep,Tim Donnelly,16
+Inyo,116,US House,8,Rep,Tim Donnelly,113
+Inyo,117 MB,US House,8,Rep,Tim Donnelly,0
+Inyo,118,US House,8,Rep,Tim Donnelly,119
+Inyo,119,US House,8,Rep,Tim Donnelly,108
+Inyo,120 MB,US House,8,Rep,Tim Donnelly,17
+Inyo,121 MB,US House,8,Rep,Tim Donnelly,58
+Inyo,122 MB,US House,8,Rep,Tim Donnelly,33
+Inyo,123 MB,US House,8,Rep,Tim Donnelly,30
+Inyo,INYO CA,US House,8,Rep,Tim Donnelly,2868
+Inyo,101,State Senate,8,Dem,Paulina Miranda,231
+Inyo,102,State Senate,8,Dem,Paulina Miranda,236
+Inyo,103,State Senate,8,Dem,Paulina Miranda,186
+Inyo,104 MB,State Senate,8,Dem,Paulina Miranda,36
+Inyo,105,State Senate,8,Dem,Paulina Miranda,318
+Inyo,106,State Senate,8,Dem,Paulina Miranda,178
+Inyo,107,State Senate,8,Dem,Paulina Miranda,156
+Inyo,108,State Senate,8,Dem,Paulina Miranda,292
+Inyo,109,State Senate,8,Dem,Paulina Miranda,221
+Inyo,110,State Senate,8,Dem,Paulina Miranda,256
+Inyo,111,State Senate,8,Dem,Paulina Miranda,87
+Inyo,112 MB,State Senate,8,Dem,Paulina Miranda,11
+Inyo,113,State Senate,8,Dem,Paulina Miranda,208
+Inyo,114,State Senate,8,Dem,Paulina Miranda,117
+Inyo,115 MB,State Senate,8,Dem,Paulina Miranda,18
+Inyo,116,State Senate,8,Dem,Paulina Miranda,134
+Inyo,117 MB,State Senate,8,Dem,Paulina Miranda,0
+Inyo,118,State Senate,8,Dem,Paulina Miranda,130
+Inyo,119,State Senate,8,Dem,Paulina Miranda,165
+Inyo,120 MB,State Senate,8,Dem,Paulina Miranda,40
+Inyo,121 MB,State Senate,8,Dem,Paulina Miranda,32
+Inyo,122 MB,State Senate,8,Dem,Paulina Miranda,60
+Inyo,123 MB,State Senate,8,Dem,Paulina Miranda,62
+Inyo,INYO CA,State Senate,8,Dem,Paulina Miranda,3174
+Inyo,101,State Senate,8,Rep,Andreas Borgeas,296
+Inyo,102,State Senate,8,Rep,Andreas Borgeas,382
+Inyo,103,State Senate,8,Rep,Andreas Borgeas,296
+Inyo,104 MB,State Senate,8,Rep,Andreas Borgeas,57
+Inyo,105,State Senate,8,Rep,Andreas Borgeas,322
+Inyo,106,State Senate,8,Rep,Andreas Borgeas,134
+Inyo,107,State Senate,8,Rep,Andreas Borgeas,112
+Inyo,108,State Senate,8,Rep,Andreas Borgeas,397
+Inyo,109,State Senate,8,Rep,Andreas Borgeas,516
+Inyo,110,State Senate,8,Rep,Andreas Borgeas,108
+Inyo,111,State Senate,8,Rep,Andreas Borgeas,192
+Inyo,112 MB,State Senate,8,Rep,Andreas Borgeas,4
+Inyo,113,State Senate,8,Rep,Andreas Borgeas,237
+Inyo,114,State Senate,8,Rep,Andreas Borgeas,152
+Inyo,115 MB,State Senate,8,Rep,Andreas Borgeas,16
+Inyo,116,State Senate,8,Rep,Andreas Borgeas,167
+Inyo,117 MB,State Senate,8,Rep,Andreas Borgeas,0
+Inyo,118,State Senate,8,Rep,Andreas Borgeas,151
+Inyo,119,State Senate,8,Rep,Andreas Borgeas,194
+Inyo,120 MB,State Senate,8,Rep,Andreas Borgeas,17
+Inyo,121 MB,State Senate,8,Rep,Andreas Borgeas,101
+Inyo,122 MB,State Senate,8,Rep,Andreas Borgeas,40
+Inyo,123 MB,State Senate,8,Rep,Andreas Borgeas,17
+Inyo,INYO CA,State Senate,8,Rep,Andreas Borgeas,3908
+Inyo,101,Assembly,26,Dem,Jose Sigala,238
+Inyo,102,Assembly,26,Dem,Jose Sigala,233
+Inyo,103,Assembly,26,Dem,Jose Sigala,181
+Inyo,104 MB,Assembly,26,Dem,Jose Sigala,37
+Inyo,105,Assembly,26,Dem,Jose Sigala,328
+Inyo,106,Assembly,26,Dem,Jose Sigala,174
+Inyo,107,Assembly,26,Dem,Jose Sigala,155
+Inyo,108,Assembly,26,Dem,Jose Sigala,288
+Inyo,109,Assembly,26,Dem,Jose Sigala,223
+Inyo,110,Assembly,26,Dem,Jose Sigala,251
+Inyo,111,Assembly,26,Dem,Jose Sigala,91
+Inyo,112 MB,Assembly,26,Dem,Jose Sigala,10
+Inyo,113,Assembly,26,Dem,Jose Sigala,217
+Inyo,114,Assembly,26,Dem,Jose Sigala,119
+Inyo,115 MB,Assembly,26,Dem,Jose Sigala,20
+Inyo,116,Assembly,26,Dem,Jose Sigala,136
+Inyo,117 MB,Assembly,26,Dem,Jose Sigala,0
+Inyo,118,Assembly,26,Dem,Jose Sigala,131
+Inyo,119,Assembly,26,Dem,Jose Sigala,168
+Inyo,120 MB,Assembly,26,Dem,Jose Sigala,39
+Inyo,121 MB,Assembly,26,Dem,Jose Sigala,35
+Inyo,122 MB,Assembly,26,Dem,Jose Sigala,60
+Inyo,123 MB,Assembly,26,Dem,Jose Sigala,63
+Inyo,INYO CA,Assembly,26,Dem,Jose Sigala,3197
+Inyo,101,Assembly,26,Rep,Devon Mathis,286
+Inyo,102,Assembly,26,Rep,Devon Mathis,388
+Inyo,103,Assembly,26,Rep,Devon Mathis,299
+Inyo,104 MB,Assembly,26,Rep,Devon Mathis,55
+Inyo,105,Assembly,26,Rep,Devon Mathis,318
+Inyo,106,Assembly,26,Rep,Devon Mathis,133
+Inyo,107,Assembly,26,Rep,Devon Mathis,114
+Inyo,108,Assembly,26,Rep,Devon Mathis,390
+Inyo,109,Assembly,26,Rep,Devon Mathis,508
+Inyo,110,Assembly,26,Rep,Devon Mathis,113
+Inyo,111,Assembly,26,Rep,Devon Mathis,190
+Inyo,112 MB,Assembly,26,Rep,Devon Mathis,4
+Inyo,113,Assembly,26,Rep,Devon Mathis,222
+Inyo,114,Assembly,26,Rep,Devon Mathis,152
+Inyo,115 MB,Assembly,26,Rep,Devon Mathis,16
+Inyo,116,Assembly,26,Rep,Devon Mathis,170
+Inyo,117 MB,Assembly,26,Rep,Devon Mathis,0
+Inyo,118,Assembly,26,Rep,Devon Mathis,148
+Inyo,119,Assembly,26,Rep,Devon Mathis,190
+Inyo,120 MB,Assembly,26,Rep,Devon Mathis,17
+Inyo,121 MB,Assembly,26,Rep,Devon Mathis,99
+Inyo,122 MB,Assembly,26,Rep,Devon Mathis,41
+Inyo,123 MB,Assembly,26,Rep,Devon Mathis,17
+Inyo,INYO CA,Assembly,26,Rep,Devon Mathis,3870
