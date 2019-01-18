@@ -1,0 +1,313 @@
+county,precinct,office,district,party,candidate,votes
+Mono,01 Antelope,Governor,,Rep,John Cox,225
+Mono,03 Bridgeport,Governor,,Rep,John Cox,220
+Mono,04 Tri Valley,Governor,,Rep,John Cox,298
+Mono,05 June Lake,Governor,,Rep,John Cox,147
+Mono,06 Lee Vining,Governor,,Rep,John Cox,70
+Mono,07 Long Valley,Governor,,Rep,John Cox,267
+Mono,08 Mammoth Meadows,Governor,,Rep,John Cox,113
+Mono,09 Mammoth Minaret,Governor,,Rep,John Cox,247
+Mono,10 Mammoth Pinecrest,Governor,,Rep,John Cox,141
+Mono,11 Swall Meadows,Governor,,Rep,John Cox,69
+Mono,12 Mammoth View,Governor,,Rep,John Cox,213
+Mono,13 Old Mammoth,Governor,,Rep,John Cox,137
+Mono,MONO CA,Governor,,Rep,John Cox,2147
+Mono,01 Antelope,Governor,,Dem,Gavin Newsom,145
+Mono,03 Bridgeport,Governor,,Dem,Gavin Newsom,100
+Mono,04 Tri Valley,Governor,,Dem,Gavin Newsom,146
+Mono,05 June Lake,Governor,,Dem,Gavin Newsom,158
+Mono,06 Lee Vining,Governor,,Dem,Gavin Newsom,129
+Mono,07 Long Valley,Governor,,Dem,Gavin Newsom,348
+Mono,08 Mammoth Meadows,Governor,,Dem,Gavin Newsom,191
+Mono,09 Mammoth Minaret,Governor,,Dem,Gavin Newsom,380
+Mono,10 Mammoth Pinecrest,Governor,,Dem,Gavin Newsom,296
+Mono,11 Swall Meadows,Governor,,Dem,Gavin Newsom,176
+Mono,12 Mammoth View,Governor,,Dem,Gavin Newsom,380
+Mono,13 Old Mammoth,Governor,,Dem,Gavin Newsom,257
+Mono,MONO CA,Governor,,Dem,Gavin Newsom,2706
+Mono,01 Antelope,Lt Governor,,Dem,Ed Hernandez,137
+Mono,03 Bridgeport,Lt Governor,,Dem,Ed Hernandez,126
+Mono,04 Tri Valley,Lt Governor,,Dem,Ed Hernandez,162
+Mono,05 June Lake,Lt Governor,,Dem,Ed Hernandez,88
+Mono,06 Lee Vining,Lt Governor,,Dem,Ed Hernandez,66
+Mono,07 Long Valley,Lt Governor,,Dem,Ed Hernandez,197
+Mono,08 Mammoth Meadows,Lt Governor,,Dem,Ed Hernandez,100
+Mono,09 Mammoth Minaret,Lt Governor,,Dem,Ed Hernandez,237
+Mono,10 Mammoth Pinecrest,Lt Governor,,Dem,Ed Hernandez,150
+Mono,11 Swall Meadows,Lt Governor,,Dem,Ed Hernandez,74
+Mono,12 Mammoth View,Lt Governor,,Dem,Ed Hernandez,196
+Mono,13 Old Mammoth,Lt Governor,,Dem,Ed Hernandez,133
+Mono,MONO CA,Lt Governor,,Dem,Ed Hernandez,1666
+Mono,01 Antelope,Lt Governor,,Dem,Eleni Kounalakis,150
+Mono,03 Bridgeport,Lt Governor,,Dem,Eleni Kounalakis,110
+Mono,04 Tri Valley,Lt Governor,,Dem,Eleni Kounalakis,154
+Mono,05 June Lake,Lt Governor,,Dem,Eleni Kounalakis,137
+Mono,06 Lee Vining,Lt Governor,,Dem,Eleni Kounalakis,93
+Mono,07 Long Valley,Lt Governor,,Dem,Eleni Kounalakis,279
+Mono,08 Mammoth Meadows,Lt Governor,,Dem,Eleni Kounalakis,143
+Mono,09 Mammoth Minaret,Lt Governor,,Dem,Eleni Kounalakis,269
+Mono,10 Mammoth Pinecrest,Lt Governor,,Dem,Eleni Kounalakis,206
+Mono,11 Swall Meadows,Lt Governor,,Dem,Eleni Kounalakis,134
+Mono,12 Mammoth View,Lt Governor,,Dem,Eleni Kounalakis,290
+Mono,13 Old Mammoth,Lt Governor,,Dem,Eleni Kounalakis,190
+Mono,MONO CA,Lt Governor,,Dem,Eleni Kounalakis,2155
+Mono,01 Antelope,Secretary of State,,Dem,Alex Padilla,155
+Mono,03 Bridgeport,Secretary of State,,Dem,Alex Padilla,109
+Mono,04 Tri Valley,Secretary of State,,Dem,Alex Padilla,156
+Mono,05 June Lake,Secretary of State,,Dem,Alex Padilla,154
+Mono,06 Lee Vining,Secretary of State,,Dem,Alex Padilla,126
+Mono,07 Long Valley,Secretary of State,,Dem,Alex Padilla,368
+Mono,08 Mammoth Meadows,Secretary of State,,Dem,Alex Padilla,189
+Mono,09 Mammoth Minaret,Secretary of State,,Dem,Alex Padilla,404
+Mono,10 Mammoth Pinecrest,Secretary of State,,Dem,Alex Padilla,296
+Mono,11 Swall Meadows,Secretary of State,,Dem,Alex Padilla,176
+Mono,12 Mammoth View,Secretary of State,,Dem,Alex Padilla,383
+Mono,13 Old Mammoth,Secretary of State,,Dem,Alex Padilla,261
+Mono,MONO CA,Secretary of State,,Dem,Alex Padilla,2777
+Mono,01 Antelope,Secretary of State,,Rep,Mark Meuser,216
+Mono,03 Bridgeport,Secretary of State,,Rep,Mark Meuser,209
+Mono,04 Tri Valley,Secretary of State,,Rep,Mark Meuser,282
+Mono,05 June Lake,Secretary of State,,Rep,Mark Meuser,150
+Mono,06 Lee Vining,Secretary of State,,Rep,Mark Meuser,74
+Mono,07 Long Valley,Secretary of State,,Rep,Mark Meuser,241
+Mono,08 Mammoth Meadows,Secretary of State,,Rep,Mark Meuser,111
+Mono,09 Mammoth Minaret,Secretary of State,,Rep,Mark Meuser,215
+Mono,10 Mammoth Pinecrest,Secretary of State,,Rep,Mark Meuser,139
+Mono,11 Swall Meadows,Secretary of State,,Rep,Mark Meuser,68
+Mono,12 Mammoth View,Secretary of State,,Rep,Mark Meuser,200
+Mono,13 Old Mammoth,Secretary of State,,Rep,Mark Meuser,130
+Mono,MONO CA,Secretary of State,,Rep,Mark Meuser,2035
+Mono,01 Antelope,Controller,,Rep,Konstantinos Roditis,205
+Mono,03 Bridgeport,Controller,,Rep,Konstantinos Roditis,202
+Mono,04 Tri Valley,Controller,,Rep,Konstantinos Roditis,277
+Mono,05 June Lake,Controller,,Rep,Konstantinos Roditis,137
+Mono,06 Lee Vining,Controller,,Rep,Konstantinos Roditis,69
+Mono,07 Long Valley,Controller,,Rep,Konstantinos Roditis,242
+Mono,08 Mammoth Meadows,Controller,,Rep,Konstantinos Roditis,103
+Mono,09 Mammoth Minaret,Controller,,Rep,Konstantinos Roditis,228
+Mono,10 Mammoth Pinecrest,Controller,,Rep,Konstantinos Roditis,131
+Mono,11 Swall Meadows,Controller,,Rep,Konstantinos Roditis,69
+Mono,12 Mammoth View,Controller,,Rep,Konstantinos Roditis,202
+Mono,13 Old Mammoth,Controller,,Rep,Konstantinos Roditis,125
+Mono,MONO CA,Controller,,Rep,Konstantinos Roditis,1990
+Mono,01 Antelope,Controller,,Dem,Betty Yee,166
+Mono,03 Bridgeport,Controller,,Dem,Betty Yee,115
+Mono,04 Tri Valley,Controller,,Dem,Betty Yee,163
+Mono,05 June Lake,Controller,,Dem,Betty Yee,166
+Mono,06 Lee Vining,Controller,,Dem,Betty Yee,131
+Mono,07 Long Valley,Controller,,Dem,Betty Yee,363
+Mono,08 Mammoth Meadows,Controller,,Dem,Betty Yee,194
+Mono,09 Mammoth Minaret,Controller,,Dem,Betty Yee,388
+Mono,10 Mammoth Pinecrest,Controller,,Dem,Betty Yee,303
+Mono,11 Swall Meadows,Controller,,Dem,Betty Yee,174
+Mono,12 Mammoth View,Controller,,Dem,Betty Yee,384
+Mono,13 Old Mammoth,Controller,,Dem,Betty Yee,264
+Mono,MONO CA,Controller,,Dem,Betty Yee,2811
+Mono,01 Antelope,Treasurer,,Rep,Greg Conlon,212
+Mono,03 Bridgeport,Treasurer,,Rep,Greg Conlon,206
+Mono,04 Tri Valley,Treasurer,,Rep,Greg Conlon,285
+Mono,05 June Lake,Treasurer,,Rep,Greg Conlon,145
+Mono,06 Lee Vining,Treasurer,,Rep,Greg Conlon,72
+Mono,07 Long Valley,Treasurer,,Rep,Greg Conlon,248
+Mono,08 Mammoth Meadows,Treasurer,,Rep,Greg Conlon,111
+Mono,09 Mammoth Minaret,Treasurer,,Rep,Greg Conlon,228
+Mono,10 Mammoth Pinecrest,Treasurer,,Rep,Greg Conlon,141
+Mono,11 Swall Meadows,Treasurer,,Rep,Greg Conlon,71
+Mono,12 Mammoth View,Treasurer,,Rep,Greg Conlon,203
+Mono,13 Old Mammoth,Treasurer,,Rep,Greg Conlon,132
+Mono,MONO CA,Treasurer,,Rep,Greg Conlon,2054
+Mono,01 Antelope,Treasurer,,Dem,Fiona Ma,159
+Mono,03 Bridgeport,Treasurer,,Dem,Fiona Ma,111
+Mono,04 Tri Valley,Treasurer,,Dem,Fiona Ma,156
+Mono,05 June Lake,Treasurer,,Dem,Fiona Ma,160
+Mono,06 Lee Vining,Treasurer,,Dem,Fiona Ma,127
+Mono,07 Long Valley,Treasurer,,Dem,Fiona Ma,358
+Mono,08 Mammoth Meadows,Treasurer,,Dem,Fiona Ma,188
+Mono,09 Mammoth Minaret,Treasurer,,Dem,Fiona Ma,386
+Mono,10 Mammoth Pinecrest,Treasurer,,Dem,Fiona Ma,292
+Mono,11 Swall Meadows,Treasurer,,Dem,Fiona Ma,170
+Mono,12 Mammoth View,Treasurer,,Dem,Fiona Ma,379
+Mono,13 Old Mammoth,Treasurer,,Dem,Fiona Ma,257
+Mono,MONO CA,Treasurer,,Dem,Fiona Ma,2743
+Mono,01 Antelope,Attorney General,,Rep,Steven Bailey,226
+Mono,03 Bridgeport,Attorney General,,Rep,Steven Bailey,215
+Mono,04 Tri Valley,Attorney General,,Rep,Steven Bailey,289
+Mono,05 June Lake,Attorney General,,Rep,Steven Bailey,147
+Mono,06 Lee Vining,Attorney General,,Rep,Steven Bailey,72
+Mono,07 Long Valley,Attorney General,,Rep,Steven Bailey,255
+Mono,08 Mammoth Meadows,Attorney General,,Rep,Steven Bailey,108
+Mono,09 Mammoth Minaret,Attorney General,,Rep,Steven Bailey,224
+Mono,10 Mammoth Pinecrest,Attorney General,,Rep,Steven Bailey,136
+Mono,11 Swall Meadows,Attorney General,,Rep,Steven Bailey,68
+Mono,12 Mammoth View,Attorney General,,Rep,Steven Bailey,197
+Mono,13 Old Mammoth,Attorney General,,Rep,Steven Bailey,127
+Mono,MONO CA,Attorney General,,Rep,Steven Bailey,2064
+Mono,01 Antelope,Attorney General,,Dem,Xavier Becerra,145
+Mono,03 Bridgeport,Attorney General,,Dem,Xavier Becerra,104
+Mono,04 Tri Valley,Attorney General,,Dem,Xavier Becerra,153
+Mono,05 June Lake,Attorney General,,Dem,Xavier Becerra,159
+Mono,06 Lee Vining,Attorney General,,Dem,Xavier Becerra,124
+Mono,07 Long Valley,Attorney General,,Dem,Xavier Becerra,354
+Mono,08 Mammoth Meadows,Attorney General,,Dem,Xavier Becerra,189
+Mono,09 Mammoth Minaret,Attorney General,,Dem,Xavier Becerra,396
+Mono,10 Mammoth Pinecrest,Attorney General,,Dem,Xavier Becerra,299
+Mono,11 Swall Meadows,Attorney General,,Dem,Xavier Becerra,175
+Mono,12 Mammoth View,Attorney General,,Dem,Xavier Becerra,386
+Mono,13 Old Mammoth,Attorney General,,Dem,Xavier Becerra,264
+Mono,MONO CA,Attorney General,,Dem,Xavier Becerra,2748
+Mono,01 Antelope,Insurance Commissioner,,Dem,Ricardo Lara,123
+Mono,03 Bridgeport,Insurance Commissioner,,Dem,Ricardo Lara,84
+Mono,04 Tri Valley,Insurance Commissioner,,Dem,Ricardo Lara,118
+Mono,05 June Lake,Insurance Commissioner,,Dem,Ricardo Lara,121
+Mono,06 Lee Vining,Insurance Commissioner,,Dem,Ricardo Lara,97
+Mono,07 Long Valley,Insurance Commissioner,,Dem,Ricardo Lara,259
+Mono,08 Mammoth Meadows,Insurance Commissioner,,Dem,Ricardo Lara,134
+Mono,09 Mammoth Minaret,Insurance Commissioner,,Dem,Ricardo Lara,282
+Mono,10 Mammoth Pinecrest,Insurance Commissioner,,Dem,Ricardo Lara,230
+Mono,11 Swall Meadows,Insurance Commissioner,,Dem,Ricardo Lara,124
+Mono,12 Mammoth View,Insurance Commissioner,,Dem,Ricardo Lara,291
+Mono,13 Old Mammoth,Insurance Commissioner,,Dem,Ricardo Lara,182
+Mono,MONO CA,Insurance Commissioner,,Dem,Ricardo Lara,2045
+Mono,01 Antelope,Insurance Commissioner,,Non,Steve Poizner,222
+Mono,03 Bridgeport,Insurance Commissioner,,Non,Steve Poizner,217
+Mono,04 Tri Valley,Insurance Commissioner,,Non,Steve Poizner,300
+Mono,05 June Lake,Insurance Commissioner,,Non,Steve Poizner,169
+Mono,06 Lee Vining,Insurance Commissioner,,Non,Steve Poizner,86
+Mono,07 Long Valley,Insurance Commissioner,,Non,Steve Poizner,314
+Mono,08 Mammoth Meadows,Insurance Commissioner,,Non,Steve Poizner,142
+Mono,09 Mammoth Minaret,Insurance Commissioner,,Non,Steve Poizner,308
+Mono,10 Mammoth Pinecrest,Insurance Commissioner,,Non,Steve Poizner,181
+Mono,11 Swall Meadows,Insurance Commissioner,,Non,Steve Poizner,108
+Mono,12 Mammoth View,Insurance Commissioner,,Non,Steve Poizner,255
+Mono,13 Old Mammoth,Insurance Commissioner,,Non,Steve Poizner,172
+Mono,MONO CA,Insurance Commissioner,,Non,Steve Poizner,2474
+Mono,01 Antelope,US Senate,,Dem,Dianne Feinstein,112
+Mono,03 Bridgeport,US Senate,,Dem,Dianne Feinstein,85
+Mono,04 Tri Valley,US Senate,,Dem,Dianne Feinstein,128
+Mono,05 June Lake,US Senate,,Dem,Dianne Feinstein,131
+Mono,06 Lee Vining,US Senate,,Dem,Dianne Feinstein,68
+Mono,07 Long Valley,US Senate,,Dem,Dianne Feinstein,241
+Mono,08 Mammoth Meadows,US Senate,,Dem,Dianne Feinstein,140
+Mono,09 Mammoth Minaret,US Senate,,Dem,Dianne Feinstein,289
+Mono,10 Mammoth Pinecrest,US Senate,,Dem,Dianne Feinstein,233
+Mono,11 Swall Meadows,US Senate,,Dem,Dianne Feinstein,138
+Mono,12 Mammoth View,US Senate,,Dem,Dianne Feinstein,247
+Mono,13 Old Mammoth,US Senate,,Dem,Dianne Feinstein,189
+Mono,MONO CA,US Senate,,Dem,Dianne Feinstein,2001
+Mono,01 Antelope,US Senate,,Dem,Kevin DeLeon,205
+Mono,03 Bridgeport,US Senate,,Dem,Kevin DeLeon,180
+Mono,04 Tri Valley,US Senate,,Dem,Kevin DeLeon,221
+Mono,05 June Lake,US Senate,,Dem,Kevin DeLeon,110
+Mono,06 Lee Vining,US Senate,,Dem,Kevin DeLeon,99
+Mono,07 Long Valley,US Senate,,Dem,Kevin DeLeon,277
+Mono,08 Mammoth Meadows,US Senate,,Dem,Kevin DeLeon,126
+Mono,09 Mammoth Minaret,US Senate,,Dem,Kevin DeLeon,273
+Mono,10 Mammoth Pinecrest,US Senate,,Dem,Kevin DeLeon,166
+Mono,11 Swall Meadows,US Senate,,Dem,Kevin DeLeon,90
+Mono,12 Mammoth View,US Senate,,Dem,Kevin DeLeon,287
+Mono,13 Old Mammoth,US Senate,,Dem,Kevin DeLeon,163
+Mono,MONO CA,US Senate,,Dem,Kevin DeLeon,2197
+Mono,01 Antelope,Public Instruction,,None,Marshall Tuck,193
+Mono,03 Bridgeport,Public Instruction,,None,Marshall Tuck,174
+Mono,04 Tri Valley,Public Instruction,,None,Marshall Tuck,229
+Mono,05 June Lake,Public Instruction,,None,Marshall Tuck,161
+Mono,06 Lee Vining,Public Instruction,,None,Marshall Tuck,63
+Mono,07 Long Valley,Public Instruction,,None,Marshall Tuck,278
+Mono,08 Mammoth Meadows,Public Instruction,,None,Marshall Tuck,100
+Mono,09 Mammoth Minaret,Public Instruction,,None,Marshall Tuck,231
+Mono,10 Mammoth Pinecrest,Public Instruction,,None,Marshall Tuck,148
+Mono,11 Swall Meadows,Public Instruction,,None,Marshall Tuck,73
+Mono,12 Mammoth View,Public Instruction,,None,Marshall Tuck,208
+Mono,13 Old Mammoth,Public Instruction,,None,Marshall Tuck,151
+Mono,MONO CA,Public Instruction,,None,Marshall Tuck,2009
+Mono,01 Antelope,Public Instruction,,None,Tony Thurmond,135
+Mono,03 Bridgeport,Public Instruction,,None,Tony Thurmond,106
+Mono,04 Tri Valley,Public Instruction,,None,Tony Thurmond,148
+Mono,05 June Lake,Public Instruction,,None,Tony Thurmond,104
+Mono,06 Lee Vining,Public Instruction,,None,Tony Thurmond,100
+Mono,07 Long Valley,Public Instruction,,None,Tony Thurmond,247
+Mono,08 Mammoth Meadows,Public Instruction,,None,Tony Thurmond,134
+Mono,09 Mammoth Minaret,Public Instruction,,None,Tony Thurmond,286
+Mono,10 Mammoth Pinecrest,Public Instruction,,None,Tony Thurmond,216
+Mono,11 Swall Meadows,Public Instruction,,None,Tony Thurmond,131
+Mono,12 Mammoth View,Public Instruction,,None,Tony Thurmond,261
+Mono,13 Old Mammoth,Public Instruction,,None,Tony Thurmond,161
+Mono,MONO CA,Public Instruction,,None,Tony Thurmond,2029
+Mono,01 Antelope,US House,8,Rep,Paul Cook,199
+Mono,03 Bridgeport,US House,8,Rep,Paul Cook,198
+Mono,04 Tri Valley,US House,8,Rep,Paul Cook,195
+Mono,05 June Lake,US House,8,Rep,Paul Cook,149
+Mono,06 Lee Vining,US House,8,Rep,Paul Cook,84
+Mono,07 Long Valley,US House,8,Rep,Paul Cook,292
+Mono,08 Mammoth Meadows,US House,8,Rep,Paul Cook,129
+Mono,09 Mammoth Minaret,US House,8,Rep,Paul Cook,285
+Mono,10 Mammoth Pinecrest,US House,8,Rep,Paul Cook,192
+Mono,11 Swall Meadows,US House,8,Rep,Paul Cook,88
+Mono,12 Mammoth View,US House,8,Rep,Paul Cook,273
+Mono,13 Old Mammoth,US House,8,Rep,Paul Cook,172
+Mono,MONO CA,US House,8,Rep,Paul Cook,2256
+Mono,01 Antelope,US House,8,Rep,Tim Donnelly,125
+Mono,03 Bridgeport,US House,8,Rep,Tim Donnelly,64
+Mono,04 Tri Valley,US House,8,Rep,Tim Donnelly,199
+Mono,05 June Lake,US House,8,Rep,Tim Donnelly,101
+Mono,06 Lee Vining,US House,8,Rep,Tim Donnelly,68
+Mono,07 Long Valley,US House,8,Rep,Tim Donnelly,205
+Mono,08 Mammoth Meadows,US House,8,Rep,Tim Donnelly,106
+Mono,09 Mammoth Minaret,US House,8,Rep,Tim Donnelly,230
+Mono,10 Mammoth Pinecrest,US House,8,Rep,Tim Donnelly,134
+Mono,11 Swall Meadows,US House,8,Rep,Tim Donnelly,84
+Mono,12 Mammoth View,US House,8,Rep,Tim Donnelly,181
+Mono,13 Old Mammoth,US House,8,Rep,Tim Donnelly,132
+Mono,MONO CA,US House,8,Rep,Tim Donnelly,1629
+Mono,01 Antelope,State Senate,8,Dem,Paulina Miranda,146
+Mono,03 Bridgeport,State Senate,8,Dem,Paulina Miranda,100
+Mono,04 Tri Valley,State Senate,8,Dem,Paulina Miranda,146
+Mono,05 June Lake,State Senate,8,Dem,Paulina Miranda,149
+Mono,06 Lee Vining,State Senate,8,Dem,Paulina Miranda,121
+Mono,07 Long Valley,State Senate,8,Dem,Paulina Miranda,340
+Mono,08 Mammoth Meadows,State Senate,8,Dem,Paulina Miranda,182
+Mono,09 Mammoth Minaret,State Senate,8,Dem,Paulina Miranda,365
+Mono,10 Mammoth Pinecrest,State Senate,8,Dem,Paulina Miranda,288
+Mono,11 Swall Meadows,State Senate,8,Dem,Paulina Miranda,171
+Mono,12 Mammoth View,State Senate,8,Dem,Paulina Miranda,372
+Mono,13 Old Mammoth,State Senate,8,Dem,Paulina Miranda,249
+Mono,MONO CA,State Senate,8,Dem,Paulina Miranda,2629
+Mono,01 Antelope,State Senate,8,Rep,Andreas Borgeas,223
+Mono,03 Bridgeport,State Senate,8,Rep,Andreas Borgeas,215
+Mono,04 Tri Valley,State Senate,8,Rep,Andreas Borgeas,293
+Mono,05 June Lake,State Senate,8,Rep,Andreas Borgeas,152
+Mono,06 Lee Vining,State Senate,8,Rep,Andreas Borgeas,77
+Mono,07 Long Valley,State Senate,8,Rep,Andreas Borgeas,264
+Mono,08 Mammoth Meadows,State Senate,8,Rep,Andreas Borgeas,108
+Mono,09 Mammoth Minaret,State Senate,8,Rep,Andreas Borgeas,243
+Mono,10 Mammoth Pinecrest,State Senate,8,Rep,Andreas Borgeas,140
+Mono,11 Swall Meadows,State Senate,8,Rep,Andreas Borgeas,72
+Mono,12 Mammoth View,State Senate,8,Rep,Andreas Borgeas,202
+Mono,13 Old Mammoth,State Senate,8,Rep,Andreas Borgeas,137
+Mono,MONO CA,State Senate,8,Rep,Andreas Borgeas,2126
+Mono,01 Antelope,Assembly,5,Dem,Carla Neal,144
+Mono,03 Bridgeport,Assembly,5,Dem,Carla Neal,96
+Mono,04 Tri Valley,Assembly,5,Dem,Carla Neal,146
+Mono,05 June Lake,Assembly,5,Dem,Carla Neal,153
+Mono,06 Lee Vining,Assembly,5,Dem,Carla Neal,128
+Mono,07 Long Valley,Assembly,5,Dem,Carla Neal,342
+Mono,08 Mammoth Meadows,Assembly,5,Dem,Carla Neal,182
+Mono,09 Mammoth Minaret,Assembly,5,Dem,Carla Neal,367
+Mono,10 Mammoth Pinecrest,Assembly,5,Dem,Carla Neal,290
+Mono,11 Swall Meadows,Assembly,5,Dem,Carla Neal,70
+Mono,12 Mammoth View,Assembly,5,Dem,Carla Neal,379
+Mono,13 Old Mammoth,Assembly,5,Dem,Carla Neal,251
+Mono,MONO CA,Assembly,5,Dem,Carla Neal,2548
+Mono,01 Antelope,Assembly,5,Rep,Frank Bigelow,226
+Mono,03 Bridgeport,Assembly,5,Rep,Frank Bigelow,221
+Mono,04 Tri Valley,Assembly,5,Rep,Frank Bigelow,293
+Mono,05 June Lake,Assembly,5,Rep,Frank Bigelow,146
+Mono,06 Lee Vining,Assembly,5,Rep,Frank Bigelow,69
+Mono,07 Long Valley,Assembly,5,Rep,Frank Bigelow,260
+Mono,08 Mammoth Meadows,Assembly,5,Rep,Frank Bigelow,111
+Mono,09 Mammoth Minaret,Assembly,5,Rep,Frank Bigelow,245
+Mono,10 Mammoth Pinecrest,Assembly,5,Rep,Frank Bigelow,137
+Mono,11 Swall Meadows,Assembly,5,Rep,Frank Bigelow,174
+Mono,12 Mammoth View,Assembly,5,Rep,Frank Bigelow,199
+Mono,13 Old Mammoth,Assembly,5,Rep,Frank Bigelow,135
+Mono,MONO CA,Assembly,5,Rep,Frank Bigelow,2216
