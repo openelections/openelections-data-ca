@@ -1,1129 +1,1106 @@
-county,precinct,office,district,party,candidate,votes
-Tehama,10030,Governor,,Rep,John Cox,855
-Tehama,10050,Governor,,Rep,John Cox,831
-Tehama,10130,Governor,,Rep,John Cox,947
-Tehama,12060,Governor,,Rep,John Cox,422
-Tehama,12080,Governor,,Rep,John Cox,428
-Tehama,12210,Governor,,Rep,John Cox,200
-Tehama,20140,Governor,,Rep,John Cox,606
-Tehama,20160,Governor,,Rep,John Cox,139
-Tehama,20170,Governor,,Rep,John Cox,232
-Tehama,20250,Governor,,Rep,John Cox,424
-Tehama,20255,Governor,,Rep,John Cox,309
-Tehama,22190,Governor,,Rep,John Cox,365
-Tehama,22230,Governor,,Rep,John Cox,448
-Tehama,22240,Governor,,Rep,John Cox,332
-Tehama,30010,Governor,,Rep,John Cox,295
-Tehama,30015,Governor,,Rep,John Cox,62
-Tehama,30120,Governor,,Rep,John Cox,"1,009"
-Tehama,30260,Governor,,Rep,John Cox,542
-Tehama,30270,Governor,,Rep,John Cox,306
-Tehama,30280,Governor,,Rep,John Cox,568
-Tehama,30300,Governor,,Rep,John Cox,333
-Tehama,30320,Governor,,Rep,John Cox,96
-Tehama,30330,Governor,,Rep,John Cox,48
-Tehama,30340,Governor,,Rep,John Cox,100
-Tehama,32350,Governor,,Rep,John Cox,210
-Tehama,40180,Governor,,Rep,John Cox,99
-Tehama,40360,Governor,,Rep,John Cox,547
-Tehama,40365,Governor,,Rep,John Cox,9
-Tehama,40420,Governor,,Rep,John Cox,340
-Tehama,40430,Governor,,Rep,John Cox,96
-Tehama,40480,Governor,,Rep,John Cox,49
-Tehama,40485,Governor,,Rep,John Cox,240
-Tehama,40490,Governor,,Rep,John Cox,326
-Tehama,40620,Governor,,Rep,John Cox,70
-Tehama,41380,Governor,,Rep,John Cox,337
-Tehama,41400,Governor,,Rep,John Cox,242
-Tehama,50370,Governor,,Rep,John Cox,136
-Tehama,50450,Governor,,Rep,John Cox,99
-Tehama,50455,Governor,,Rep,John Cox,26
-Tehama,50530,Governor,,Rep,John Cox,176
-Tehama,50560,Governor,,Rep,John Cox,472
-Tehama,50580,Governor,,Rep,John Cox,580
-Tehama,50590,Governor,,Rep,John Cox,477
-Tehama,50630,Governor,,Rep,John Cox,184
-Tehama,51510,Governor,,Rep,John Cox,414
-Tehama,53610,Governor,,Rep,John Cox,111
-Tehama,TEHAMA CA,Governor,,Rep,John Cox,"15,137"
-Tehama,10030,Governor,,Dem,Gavin Newsom,219
-Tehama,10050,Governor,,Dem,Gavin Newsom,214
-Tehama,10130,Governor,,Dem,Gavin Newsom,275
-Tehama,12060,Governor,,Dem,Gavin Newsom,269
-Tehama,12080,Governor,,Dem,Gavin Newsom,211
-Tehama,12210,Governor,,Dem,Gavin Newsom,122
-Tehama,20140,Governor,,Dem,Gavin Newsom,157
-Tehama,20160,Governor,,Dem,Gavin Newsom,47
-Tehama,20170,Governor,,Dem,Gavin Newsom,78
-Tehama,20250,Governor,,Dem,Gavin Newsom,100
-Tehama,20255,Governor,,Dem,Gavin Newsom,85
-Tehama,22190,Governor,,Dem,Gavin Newsom,234
-Tehama,22230,Governor,,Dem,Gavin Newsom,206
-Tehama,22240,Governor,,Dem,Gavin Newsom,152
-Tehama,30010,Governor,,Dem,Gavin Newsom,89
-Tehama,30015,Governor,,Dem,Gavin Newsom,23
-Tehama,30120,Governor,,Dem,Gavin Newsom,321
-Tehama,30260,Governor,,Dem,Gavin Newsom,223
-Tehama,30270,Governor,,Dem,Gavin Newsom,146
-Tehama,30280,Governor,,Dem,Gavin Newsom,166
-Tehama,30300,Governor,,Dem,Gavin Newsom,120
-Tehama,30320,Governor,,Dem,Gavin Newsom,54
-Tehama,30330,Governor,,Dem,Gavin Newsom,35
-Tehama,30340,Governor,,Dem,Gavin Newsom,30
-Tehama,32350,Governor,,Dem,Gavin Newsom,111
-Tehama,40180,Governor,,Dem,Gavin Newsom,37
-Tehama,40360,Governor,,Dem,Gavin Newsom,175
-Tehama,40365,Governor,,Dem,Gavin Newsom,4
-Tehama,40420,Governor,,Dem,Gavin Newsom,126
-Tehama,40430,Governor,,Dem,Gavin Newsom,21
-Tehama,40480,Governor,,Dem,Gavin Newsom,13
-Tehama,40485,Governor,,Dem,Gavin Newsom,171
-Tehama,40490,Governor,,Dem,Gavin Newsom,93
-Tehama,40620,Governor,,Dem,Gavin Newsom,12
-Tehama,41380,Governor,,Dem,Gavin Newsom,182
-Tehama,41400,Governor,,Dem,Gavin Newsom,140
-Tehama,50370,Governor,,Dem,Gavin Newsom,54
-Tehama,50450,Governor,,Dem,Gavin Newsom,28
-Tehama,50455,Governor,,Dem,Gavin Newsom,3
-Tehama,50530,Governor,,Dem,Gavin Newsom,101
-Tehama,50560,Governor,,Dem,Gavin Newsom,228
-Tehama,50580,Governor,,Dem,Gavin Newsom,226
-Tehama,50590,Governor,,Dem,Gavin Newsom,153
-Tehama,50630,Governor,,Dem,Gavin Newsom,48
-Tehama,51510,Governor,,Dem,Gavin Newsom,204
-Tehama,53610,Governor,,Dem,Gavin Newsom,50
-Tehama,TEHAMA CA,Governor,,Dem,Gavin Newsom,"5,756"
-Tehama,10030,Lt Governor,,Dem,Ed Hernandez,349
-Tehama,10050,Lt Governor,,Dem,Ed Hernandez,339
-Tehama,10130,Lt Governor,,Dem,Ed Hernandez,358
-Tehama,12060,Lt Governor,,Dem,Ed Hernandez,264
-Tehama,12080,Lt Governor,,Dem,Ed Hernandez,210
-Tehama,12210,Lt Governor,,Dem,Ed Hernandez,119
-Tehama,20140,Lt Governor,,Dem,Ed Hernandez,233
-Tehama,20160,Lt Governor,,Dem,Ed Hernandez,74
-Tehama,20170,Lt Governor,,Dem,Ed Hernandez,114
-Tehama,20250,Lt Governor,,Dem,Ed Hernandez,178
-Tehama,20255,Lt Governor,,Dem,Ed Hernandez,140
-Tehama,22190,Lt Governor,,Dem,Ed Hernandez,248
-Tehama,22230,Lt Governor,,Dem,Ed Hernandez,251
-Tehama,22240,Lt Governor,,Dem,Ed Hernandez,195
-Tehama,30010,Lt Governor,,Dem,Ed Hernandez,122
-Tehama,30015,Lt Governor,,Dem,Ed Hernandez,24
-Tehama,30120,Lt Governor,,Dem,Ed Hernandez,386
-Tehama,30260,Lt Governor,,Dem,Ed Hernandez,230
-Tehama,30270,Lt Governor,,Dem,Ed Hernandez,164
-Tehama,30280,Lt Governor,,Dem,Ed Hernandez,219
-Tehama,30300,Lt Governor,,Dem,Ed Hernandez,138
-Tehama,30320,Lt Governor,,Dem,Ed Hernandez,34
-Tehama,30330,Lt Governor,,Dem,Ed Hernandez,12
-Tehama,30340,Lt Governor,,Dem,Ed Hernandez,41
-Tehama,32350,Lt Governor,,Dem,Ed Hernandez,116
-Tehama,40180,Lt Governor,,Dem,Ed Hernandez,28
-Tehama,40360,Lt Governor,,Dem,Ed Hernandez,255
-Tehama,40365,Lt Governor,,Dem,Ed Hernandez,3
-Tehama,40420,Lt Governor,,Dem,Ed Hernandez,170
-Tehama,40430,Lt Governor,,Dem,Ed Hernandez,35
-Tehama,40480,Lt Governor,,Dem,Ed Hernandez,21
-Tehama,40485,Lt Governor,,Dem,Ed Hernandez,155
-Tehama,40490,Lt Governor,,Dem,Ed Hernandez,143
-Tehama,40620,Lt Governor,,Dem,Ed Hernandez,24
-Tehama,41380,Lt Governor,,Dem,Ed Hernandez,222
-Tehama,41400,Lt Governor,,Dem,Ed Hernandez,150
-Tehama,50370,Lt Governor,,Dem,Ed Hernandez,60
-Tehama,50450,Lt Governor,,Dem,Ed Hernandez,32
-Tehama,50455,Lt Governor,,Dem,Ed Hernandez,8
-Tehama,50530,Lt Governor,,Dem,Ed Hernandez,91
-Tehama,50560,Lt Governor,,Dem,Ed Hernandez,260
-Tehama,50580,Lt Governor,,Dem,Ed Hernandez,272
-Tehama,50590,Lt Governor,,Dem,Ed Hernandez,205
-Tehama,50630,Lt Governor,,Dem,Ed Hernandez,86
-Tehama,51510,Lt Governor,,Dem,Ed Hernandez,270
-Tehama,53610,Lt Governor,,Dem,Ed Hernandez,52
-Tehama,TEHAMA CA,Lt Governor,,Dem,Ed Hernandez,"7,100"
-Tehama,10030,Lt Governor,,Dem,Eleni Kounalakis,317
-Tehama,10050,Lt Governor,,Dem,Eleni Kounalakis,329
-Tehama,10130,Lt Governor,,Dem,Eleni Kounalakis,384
-Tehama,12060,Lt Governor,,Dem,Eleni Kounalakis,282
-Tehama,12080,Lt Governor,,Dem,Eleni Kounalakis,244
-Tehama,12210,Lt Governor,,Dem,Eleni Kounalakis,132
-Tehama,20140,Lt Governor,,Dem,Eleni Kounalakis,268
-Tehama,20160,Lt Governor,,Dem,Eleni Kounalakis,70
-Tehama,20170,Lt Governor,,Dem,Eleni Kounalakis,112
-Tehama,20250,Lt Governor,,Dem,Eleni Kounalakis,168
-Tehama,20255,Lt Governor,,Dem,Eleni Kounalakis,103
-Tehama,22190,Lt Governor,,Dem,Eleni Kounalakis,228
-Tehama,22230,Lt Governor,,Dem,Eleni Kounalakis,227
-Tehama,22240,Lt Governor,,Dem,Eleni Kounalakis,174
-Tehama,30010,Lt Governor,,Dem,Eleni Kounalakis,128
-Tehama,30015,Lt Governor,,Dem,Eleni Kounalakis,29
-Tehama,30120,Lt Governor,,Dem,Eleni Kounalakis,496
-Tehama,30260,Lt Governor,,Dem,Eleni Kounalakis,309
-Tehama,30270,Lt Governor,,Dem,Eleni Kounalakis,161
-Tehama,30280,Lt Governor,,Dem,Eleni Kounalakis,253
-Tehama,30300,Lt Governor,,Dem,Eleni Kounalakis,174
-Tehama,30320,Lt Governor,,Dem,Eleni Kounalakis,79
-Tehama,30330,Lt Governor,,Dem,Eleni Kounalakis,43
-Tehama,30340,Lt Governor,,Dem,Eleni Kounalakis,42
-Tehama,32350,Lt Governor,,Dem,Eleni Kounalakis,135
-Tehama,40180,Lt Governor,,Dem,Eleni Kounalakis,61
-Tehama,40360,Lt Governor,,Dem,Eleni Kounalakis,259
-Tehama,40365,Lt Governor,,Dem,Eleni Kounalakis,9
-Tehama,40420,Lt Governor,,Dem,Eleni Kounalakis,172
-Tehama,40430,Lt Governor,,Dem,Eleni Kounalakis,33
-Tehama,40480,Lt Governor,,Dem,Eleni Kounalakis,19
-Tehama,40485,Lt Governor,,Dem,Eleni Kounalakis,190
-Tehama,40490,Lt Governor,,Dem,Eleni Kounalakis,133
-Tehama,40620,Lt Governor,,Dem,Eleni Kounalakis,24
-Tehama,41380,Lt Governor,,Dem,Eleni Kounalakis,189
-Tehama,41400,Lt Governor,,Dem,Eleni Kounalakis,161
-Tehama,50370,Lt Governor,,Dem,Eleni Kounalakis,74
-Tehama,50450,Lt Governor,,Dem,Eleni Kounalakis,45
-Tehama,50455,Lt Governor,,Dem,Eleni Kounalakis,8
-Tehama,50530,Lt Governor,,Dem,Eleni Kounalakis,128
-Tehama,50560,Lt Governor,,Dem,Eleni Kounalakis,284
-Tehama,50580,Lt Governor,,Dem,Eleni Kounalakis,320
-Tehama,50590,Lt Governor,,Dem,Eleni Kounalakis,227
-Tehama,50630,Lt Governor,,Dem,Eleni Kounalakis,76
-Tehama,51510,Lt Governor,,Dem,Eleni Kounalakis,210
-Tehama,53610,Lt Governor,,Dem,Eleni Kounalakis,72
-Tehama,TEHAMA CA,Lt Governor,,Dem,Eleni Kounalakis,"7,581"
-Tehama,10030,Secretary of State,,Dem,Alex Padilla,254
-Tehama,10050,Secretary of State,,Dem,Alex Padilla,251
-Tehama,10130,Secretary of State,,Dem,Alex Padilla,330
-Tehama,12060,Secretary of State,,Dem,Alex Padilla,298
-Tehama,12080,Secretary of State,,Dem,Alex Padilla,229
-Tehama,12210,Secretary of State,,Dem,Alex Padilla,142
-Tehama,20140,Secretary of State,,Dem,Alex Padilla,187
-Tehama,20160,Secretary of State,,Dem,Alex Padilla,51
-Tehama,20170,Secretary of State,,Dem,Alex Padilla,83
-Tehama,20250,Secretary of State,,Dem,Alex Padilla,108
-Tehama,20255,Secretary of State,,Dem,Alex Padilla,96
-Tehama,22190,Secretary of State,,Dem,Alex Padilla,267
-Tehama,22230,Secretary of State,,Dem,Alex Padilla,247
-Tehama,22240,Secretary of State,,Dem,Alex Padilla,174
-Tehama,30010,Secretary of State,,Dem,Alex Padilla,108
-Tehama,30015,Secretary of State,,Dem,Alex Padilla,27
-Tehama,30120,Secretary of State,,Dem,Alex Padilla,388
-Tehama,30260,Secretary of State,,Dem,Alex Padilla,258
-Tehama,30270,Secretary of State,,Dem,Alex Padilla,164
-Tehama,30280,Secretary of State,,Dem,Alex Padilla,215
-Tehama,30300,Secretary of State,,Dem,Alex Padilla,144
-Tehama,30320,Secretary of State,,Dem,Alex Padilla,59
-Tehama,30330,Secretary of State,,Dem,Alex Padilla,35
-Tehama,30340,Secretary of State,,Dem,Alex Padilla,35
-Tehama,32350,Secretary of State,,Dem,Alex Padilla,136
-Tehama,40180,Secretary of State,,Dem,Alex Padilla,38
-Tehama,40360,Secretary of State,,Dem,Alex Padilla,211
-Tehama,40365,Secretary of State,,Dem,Alex Padilla,5
-Tehama,40420,Secretary of State,,Dem,Alex Padilla,145
-Tehama,40430,Secretary of State,,Dem,Alex Padilla,28
-Tehama,40480,Secretary of State,,Dem,Alex Padilla,13
-Tehama,40485,Secretary of State,,Dem,Alex Padilla,186
-Tehama,40490,Secretary of State,,Dem,Alex Padilla,112
-Tehama,40620,Secretary of State,,Dem,Alex Padilla,15
-Tehama,41380,Secretary of State,,Dem,Alex Padilla,208
-Tehama,41400,Secretary of State,,Dem,Alex Padilla,170
-Tehama,50370,Secretary of State,,Dem,Alex Padilla,64
-Tehama,50450,Secretary of State,,Dem,Alex Padilla,28
-Tehama,50455,Secretary of State,,Dem,Alex Padilla,4
-Tehama,50530,Secretary of State,,Dem,Alex Padilla,109
-Tehama,50560,Secretary of State,,Dem,Alex Padilla,274
-Tehama,50580,Secretary of State,,Dem,Alex Padilla,251
-Tehama,50590,Secretary of State,,Dem,Alex Padilla,176
-Tehama,50630,Secretary of State,,Dem,Alex Padilla,57
-Tehama,51510,Secretary of State,,Dem,Alex Padilla,228
-Tehama,53610,Secretary of State,,Dem,Alex Padilla,59
-Tehama,TEHAMA CA,Secretary of State,,Dem,Alex Padilla,"6,667"
-Tehama,10030,Secretary of State,,Rep,Mark Meuser,814
-Tehama,10050,Secretary of State,,Rep,Mark Meuser,780
-Tehama,10130,Secretary of State,,Rep,Mark Meuser,870
-Tehama,12060,Secretary of State,,Rep,Mark Meuser,385
-Tehama,12080,Secretary of State,,Rep,Mark Meuser,400
-Tehama,12210,Secretary of State,,Rep,Mark Meuser,177
-Tehama,20140,Secretary of State,,Rep,Mark Meuser,574
-Tehama,20160,Secretary of State,,Rep,Mark Meuser,131
-Tehama,20170,Secretary of State,,Rep,Mark Meuser,216
-Tehama,20250,Secretary of State,,Rep,Mark Meuser,412
-Tehama,20255,Secretary of State,,Rep,Mark Meuser,294
-Tehama,22190,Secretary of State,,Rep,Mark Meuser,322
-Tehama,22230,Secretary of State,,Rep,Mark Meuser,397
-Tehama,22240,Secretary of State,,Rep,Mark Meuser,305
-Tehama,30010,Secretary of State,,Rep,Mark Meuser,268
-Tehama,30015,Secretary of State,,Rep,Mark Meuser,58
-Tehama,30120,Secretary of State,,Rep,Mark Meuser,931
-Tehama,30260,Secretary of State,,Rep,Mark Meuser,496
-Tehama,30270,Secretary of State,,Rep,Mark Meuser,284
-Tehama,30280,Secretary of State,,Rep,Mark Meuser,515
-Tehama,30300,Secretary of State,,Rep,Mark Meuser,310
-Tehama,30320,Secretary of State,,Rep,Mark Meuser,91
-Tehama,30330,Secretary of State,,Rep,Mark Meuser,47
-Tehama,30340,Secretary of State,,Rep,Mark Meuser,94
-Tehama,32350,Secretary of State,,Rep,Mark Meuser,182
-Tehama,40180,Secretary of State,,Rep,Mark Meuser,97
-Tehama,40360,Secretary of State,,Rep,Mark Meuser,503
-Tehama,40365,Secretary of State,,Rep,Mark Meuser,9
-Tehama,40420,Secretary of State,,Rep,Mark Meuser,322
-Tehama,40430,Secretary of State,,Rep,Mark Meuser,89
-Tehama,40480,Secretary of State,,Rep,Mark Meuser,49
-Tehama,40485,Secretary of State,,Rep,Mark Meuser,226
-Tehama,40490,Secretary of State,,Rep,Mark Meuser,301
-Tehama,40620,Secretary of State,,Rep,Mark Meuser,64
-Tehama,41380,Secretary of State,,Rep,Mark Meuser,301
-Tehama,41400,Secretary of State,,Rep,Mark Meuser,211
-Tehama,50370,Secretary of State,,Rep,Mark Meuser,124
-Tehama,50450,Secretary of State,,Rep,Mark Meuser,99
-Tehama,50455,Secretary of State,,Rep,Mark Meuser,25
-Tehama,50530,Secretary of State,,Rep,Mark Meuser,165
-Tehama,50560,Secretary of State,,Rep,Mark Meuser,416
-Tehama,50580,Secretary of State,,Rep,Mark Meuser,550
-Tehama,50590,Secretary of State,,Rep,Mark Meuser,442
-Tehama,50630,Secretary of State,,Rep,Mark Meuser,173
-Tehama,51510,Secretary of State,,Rep,Mark Meuser,388
-Tehama,53610,Secretary of State,,Rep,Mark Meuser,105
-Tehama,TEHAMA CA,Secretary of State,,Rep,Mark Meuser,"14,012"
-Tehama,10030,Controller,,Rep,Konstantinos Roditis,778
-Tehama,10050,Controller,,Rep,Konstantinos Roditis,763
-Tehama,10130,Controller,,Rep,Konstantinos Roditis,864
-Tehama,12060,Controller,,Rep,Konstantinos Roditis,361
-Tehama,12080,Controller,,Rep,Konstantinos Roditis,376
-Tehama,12210,Controller,,Rep,Konstantinos Roditis,179
-Tehama,20140,Controller,,Rep,Konstantinos Roditis,545
-Tehama,20160,Controller,,Rep,Konstantinos Roditis,126
-Tehama,20170,Controller,,Rep,Konstantinos Roditis,203
-Tehama,20250,Controller,,Rep,Konstantinos Roditis,388
-Tehama,20255,Controller,,Rep,Konstantinos Roditis,287
-Tehama,22190,Controller,,Rep,Konstantinos Roditis,320
-Tehama,22230,Controller,,Rep,Konstantinos Roditis,387
-Tehama,22240,Controller,,Rep,Konstantinos Roditis,291
-Tehama,30010,Controller,,Rep,Konstantinos Roditis,269
-Tehama,30015,Controller,,Rep,Konstantinos Roditis,58
-Tehama,30120,Controller,,Rep,Konstantinos Roditis,912
-Tehama,30260,Controller,,Rep,Konstantinos Roditis,484
-Tehama,30270,Controller,,Rep,Konstantinos Roditis,265
-Tehama,30280,Controller,,Rep,Konstantinos Roditis,501
-Tehama,30300,Controller,,Rep,Konstantinos Roditis,298
-Tehama,30320,Controller,,Rep,Konstantinos Roditis,84
-Tehama,30330,Controller,,Rep,Konstantinos Roditis,44
-Tehama,30340,Controller,,Rep,Konstantinos Roditis,84
-Tehama,32350,Controller,,Rep,Konstantinos Roditis,180
-Tehama,40180,Controller,,Rep,Konstantinos Roditis,90
-Tehama,40360,Controller,,Rep,Konstantinos Roditis,483
-Tehama,40365,Controller,,Rep,Konstantinos Roditis,8
-Tehama,40420,Controller,,Rep,Konstantinos Roditis,308
-Tehama,40430,Controller,,Rep,Konstantinos Roditis,85
-Tehama,40480,Controller,,Rep,Konstantinos Roditis,45
-Tehama,40485,Controller,,Rep,Konstantinos Roditis,219
-Tehama,40490,Controller,,Rep,Konstantinos Roditis,293
-Tehama,40620,Controller,,Rep,Konstantinos Roditis,64
-Tehama,41380,Controller,,Rep,Konstantinos Roditis,291
-Tehama,41400,Controller,,Rep,Konstantinos Roditis,206
-Tehama,50370,Controller,,Rep,Konstantinos Roditis,121
-Tehama,50450,Controller,,Rep,Konstantinos Roditis,92
-Tehama,50455,Controller,,Rep,Konstantinos Roditis,25
-Tehama,50530,Controller,,Rep,Konstantinos Roditis,160
-Tehama,50560,Controller,,Rep,Konstantinos Roditis,391
-Tehama,50580,Controller,,Rep,Konstantinos Roditis,542
-Tehama,50590,Controller,,Rep,Konstantinos Roditis,426
-Tehama,50630,Controller,,Rep,Konstantinos Roditis,166
-Tehama,51510,Controller,,Rep,Konstantinos Roditis,367
-Tehama,53610,Controller,,Rep,Konstantinos Roditis,104
-Tehama,TEHAMA CA,Controller,,Rep,Konstantinos Roditis,"13,533"
-Tehama,10030,Controller,,Dem,Betty Yee,282
-Tehama,10050,Controller,,Dem,Betty Yee,272
-Tehama,10130,Controller,,Dem,Betty Yee,334
-Tehama,12060,Controller,,Dem,Betty Yee,321
-Tehama,12080,Controller,,Dem,Betty Yee,249
-Tehama,12210,Controller,,Dem,Betty Yee,139
-Tehama,20140,Controller,,Dem,Betty Yee,217
-Tehama,20160,Controller,,Dem,Betty Yee,54
-Tehama,20170,Controller,,Dem,Betty Yee,97
-Tehama,20250,Controller,,Dem,Betty Yee,130
-Tehama,20255,Controller,,Dem,Betty Yee,102
-Tehama,22190,Controller,,Dem,Betty Yee,271
-Tehama,22230,Controller,,Dem,Betty Yee,256
-Tehama,22240,Controller,,Dem,Betty Yee,185
-Tehama,30010,Controller,,Dem,Betty Yee,110
-Tehama,30015,Controller,,Dem,Betty Yee,27
-Tehama,30120,Controller,,Dem,Betty Yee,402
-Tehama,30260,Controller,,Dem,Betty Yee,269
-Tehama,30270,Controller,,Dem,Betty Yee,178
-Tehama,30280,Controller,,Dem,Betty Yee,228
-Tehama,30300,Controller,,Dem,Betty Yee,153
-Tehama,30320,Controller,,Dem,Betty Yee,66
-Tehama,30330,Controller,,Dem,Betty Yee,38
-Tehama,30340,Controller,,Dem,Betty Yee,43
-Tehama,32350,Controller,,Dem,Betty Yee,137
-Tehama,40180,Controller,,Dem,Betty Yee,42
-Tehama,40360,Controller,,Dem,Betty Yee,226
-Tehama,40365,Controller,,Dem,Betty Yee,6
-Tehama,40420,Controller,,Dem,Betty Yee,156
-Tehama,40430,Controller,,Dem,Betty Yee,33
-Tehama,40480,Controller,,Dem,Betty Yee,17
-Tehama,40485,Controller,,Dem,Betty Yee,194
-Tehama,40490,Controller,,Dem,Betty Yee,120
-Tehama,40620,Controller,,Dem,Betty Yee,16
-Tehama,41380,Controller,,Dem,Betty Yee,214
-Tehama,41400,Controller,,Dem,Betty Yee,172
-Tehama,50370,Controller,,Dem,Betty Yee,67
-Tehama,50450,Controller,,Dem,Betty Yee,33
-Tehama,50455,Controller,,Dem,Betty Yee,4
-Tehama,50530,Controller,,Dem,Betty Yee,117
-Tehama,50560,Controller,,Dem,Betty Yee,292
-Tehama,50580,Controller,,Dem,Betty Yee,256
-Tehama,50590,Controller,,Dem,Betty Yee,196
-Tehama,50630,Controller,,Dem,Betty Yee,62
-Tehama,51510,Controller,,Dem,Betty Yee,245
-Tehama,53610,Controller,,Dem,Betty Yee,57
-Tehama,TEHAMA CA,Controller,,Dem,Betty Yee,"7,085"
-Tehama,10030,Treasurer,,Rep,Greg Conlon,800
-Tehama,10050,Treasurer,,Rep,Greg Conlon,769
-Tehama,10130,Treasurer,,Rep,Greg Conlon,890
-Tehama,12060,Treasurer,,Rep,Greg Conlon,385
-Tehama,12080,Treasurer,,Rep,Greg Conlon,397
-Tehama,12210,Treasurer,,Rep,Greg Conlon,177
-Tehama,20140,Treasurer,,Rep,Greg Conlon,560
-Tehama,20160,Treasurer,,Rep,Greg Conlon,130
-Tehama,20170,Treasurer,,Rep,Greg Conlon,210
-Tehama,20250,Treasurer,,Rep,Greg Conlon,404
-Tehama,20255,Treasurer,,Rep,Greg Conlon,296
-Tehama,22190,Treasurer,,Rep,Greg Conlon,334
-Tehama,22230,Treasurer,,Rep,Greg Conlon,408
-Tehama,22240,Treasurer,,Rep,Greg Conlon,292
-Tehama,30010,Treasurer,,Rep,Greg Conlon,274
-Tehama,30015,Treasurer,,Rep,Greg Conlon,58
-Tehama,30120,Treasurer,,Rep,Greg Conlon,924
-Tehama,30260,Treasurer,,Rep,Greg Conlon,501
-Tehama,30270,Treasurer,,Rep,Greg Conlon,280
-Tehama,30280,Treasurer,,Rep,Greg Conlon,521
-Tehama,30300,Treasurer,,Rep,Greg Conlon,305
-Tehama,30320,Treasurer,,Rep,Greg Conlon,84
-Tehama,30330,Treasurer,,Rep,Greg Conlon,48
-Tehama,30340,Treasurer,,Rep,Greg Conlon,88
-Tehama,32350,Treasurer,,Rep,Greg Conlon,184
-Tehama,40180,Treasurer,,Rep,Greg Conlon,93
-Tehama,40360,Treasurer,,Rep,Greg Conlon,502
-Tehama,40365,Treasurer,,Rep,Greg Conlon,9
-Tehama,40420,Treasurer,,Rep,Greg Conlon,321
-Tehama,40430,Treasurer,,Rep,Greg Conlon,90
-Tehama,40480,Treasurer,,Rep,Greg Conlon,47
-Tehama,40485,Treasurer,,Rep,Greg Conlon,224
-Tehama,40490,Treasurer,,Rep,Greg Conlon,312
-Tehama,40620,Treasurer,,Rep,Greg Conlon,66
-Tehama,41380,Treasurer,,Rep,Greg Conlon,295
-Tehama,41400,Treasurer,,Rep,Greg Conlon,216
-Tehama,50370,Treasurer,,Rep,Greg Conlon,128
-Tehama,50450,Treasurer,,Rep,Greg Conlon,97
-Tehama,50455,Treasurer,,Rep,Greg Conlon,25
-Tehama,50530,Treasurer,,Rep,Greg Conlon,166
-Tehama,50560,Treasurer,,Rep,Greg Conlon,413
-Tehama,50580,Treasurer,,Rep,Greg Conlon,551
-Tehama,50590,Treasurer,,Rep,Greg Conlon,441
-Tehama,50630,Treasurer,,Rep,Greg Conlon,172
-Tehama,51510,Treasurer,,Rep,Greg Conlon,381
-Tehama,53610,Treasurer,,Rep,Greg Conlon,102
-Tehama,TEHAMA CA,Treasurer,,Rep,Greg Conlon,"13,970"
-Tehama,10030,Treasurer,,Dem,Fiona Ma,256
-Tehama,10050,Treasurer,,Dem,Fiona Ma,265
-Tehama,10130,Treasurer,,Dem,Fiona Ma,313
-Tehama,12060,Treasurer,,Dem,Fiona Ma,298
-Tehama,12080,Treasurer,,Dem,Fiona Ma,228
-Tehama,12210,Treasurer,,Dem,Fiona Ma,142
-Tehama,20140,Treasurer,,Dem,Fiona Ma,190
-Tehama,20160,Treasurer,,Dem,Fiona Ma,49
-Tehama,20170,Treasurer,,Dem,Fiona Ma,89
-Tehama,20250,Treasurer,,Dem,Fiona Ma,114
-Tehama,20255,Treasurer,,Dem,Fiona Ma,88
-Tehama,22190,Treasurer,,Dem,Fiona Ma,260
-Tehama,22230,Treasurer,,Dem,Fiona Ma,233
-Tehama,22240,Treasurer,,Dem,Fiona Ma,178
-Tehama,30010,Treasurer,,Dem,Fiona Ma,103
-Tehama,30015,Treasurer,,Dem,Fiona Ma,27
-Tehama,30120,Treasurer,,Dem,Fiona Ma,391
-Tehama,30260,Treasurer,,Dem,Fiona Ma,251
-Tehama,30270,Treasurer,,Dem,Fiona Ma,164
-Tehama,30280,Treasurer,,Dem,Fiona Ma,208
-Tehama,30300,Treasurer,,Dem,Fiona Ma,144
-Tehama,30320,Treasurer,,Dem,Fiona Ma,66
-Tehama,30330,Treasurer,,Dem,Fiona Ma,33
-Tehama,30340,Treasurer,,Dem,Fiona Ma,40
-Tehama,32350,Treasurer,,Dem,Fiona Ma,133
-Tehama,40180,Treasurer,,Dem,Fiona Ma,41
-Tehama,40360,Treasurer,,Dem,Fiona Ma,208
-Tehama,40365,Treasurer,,Dem,Fiona Ma,5
-Tehama,40420,Treasurer,,Dem,Fiona Ma,146
-Tehama,40430,Treasurer,,Dem,Fiona Ma,27
-Tehama,40480,Treasurer,,Dem,Fiona Ma,15
-Tehama,40485,Treasurer,,Dem,Fiona Ma,188
-Tehama,40490,Treasurer,,Dem,Fiona Ma,103
-Tehama,40620,Treasurer,,Dem,Fiona Ma,13
-Tehama,41380,Treasurer,,Dem,Fiona Ma,210
-Tehama,41400,Treasurer,,Dem,Fiona Ma,162
-Tehama,50370,Treasurer,,Dem,Fiona Ma,60
-Tehama,50450,Treasurer,,Dem,Fiona Ma,28
-Tehama,50455,Treasurer,,Dem,Fiona Ma,4
-Tehama,50530,Treasurer,,Dem,Fiona Ma,108
-Tehama,50560,Treasurer,,Dem,Fiona Ma,274
-Tehama,50580,Treasurer,,Dem,Fiona Ma,250
-Tehama,50590,Treasurer,,Dem,Fiona Ma,176
-Tehama,50630,Treasurer,,Dem,Fiona Ma,56
-Tehama,51510,Treasurer,,Dem,Fiona Ma,231
-Tehama,53610,Treasurer,,Dem,Fiona Ma,61
-Tehama,TEHAMA CA,Treasurer,,Dem,Fiona Ma,"6,629"
-Tehama,10030,Attorney General,,Rep,Steven Bailey,826
-Tehama,10050,Attorney General,,Rep,Steven Bailey,792
-Tehama,10130,Attorney General,,Rep,Steven Bailey,904
-Tehama,12060,Attorney General,,Rep,Steven Bailey,402
-Tehama,12080,Attorney General,,Rep,Steven Bailey,410
-Tehama,12210,Attorney General,,Rep,Steven Bailey,194
-Tehama,20140,Attorney General,,Rep,Steven Bailey,588
-Tehama,20160,Attorney General,,Rep,Steven Bailey,134
-Tehama,20170,Attorney General,,Rep,Steven Bailey,216
-Tehama,20250,Attorney General,,Rep,Steven Bailey,415
-Tehama,20255,Attorney General,,Rep,Steven Bailey,299
-Tehama,22190,Attorney General,,Rep,Steven Bailey,350
-Tehama,22230,Attorney General,,Rep,Steven Bailey,419
-Tehama,22240,Attorney General,,Rep,Steven Bailey,311
-Tehama,30010,Attorney General,,Rep,Steven Bailey,278
-Tehama,30015,Attorney General,,Rep,Steven Bailey,58
-Tehama,30120,Attorney General,,Rep,Steven Bailey,953
-Tehama,30260,Attorney General,,Rep,Steven Bailey,509
-Tehama,30270,Attorney General,,Rep,Steven Bailey,281
-Tehama,30280,Attorney General,,Rep,Steven Bailey,536
-Tehama,30300,Attorney General,,Rep,Steven Bailey,311
-Tehama,30320,Attorney General,,Rep,Steven Bailey,87
-Tehama,30330,Attorney General,,Rep,Steven Bailey,50
-Tehama,30340,Attorney General,,Rep,Steven Bailey,93
-Tehama,32350,Attorney General,,Rep,Steven Bailey,189
-Tehama,40180,Attorney General,,Rep,Steven Bailey,97
-Tehama,40360,Attorney General,,Rep,Steven Bailey,517
-Tehama,40365,Attorney General,,Rep,Steven Bailey,9
-Tehama,40420,Attorney General,,Rep,Steven Bailey,334
-Tehama,40430,Attorney General,,Rep,Steven Bailey,92
-Tehama,40480,Attorney General,,Rep,Steven Bailey,48
-Tehama,40485,Attorney General,,Rep,Steven Bailey,230
-Tehama,40490,Attorney General,,Rep,Steven Bailey,314
-Tehama,40620,Attorney General,,Rep,Steven Bailey,71
-Tehama,41380,Attorney General,,Rep,Steven Bailey,310
-Tehama,41400,Attorney General,,Rep,Steven Bailey,220
-Tehama,50370,Attorney General,,Rep,Steven Bailey,130
-Tehama,50450,Attorney General,,Rep,Steven Bailey,100
-Tehama,50455,Attorney General,,Rep,Steven Bailey,26
-Tehama,50530,Attorney General,,Rep,Steven Bailey,168
-Tehama,50560,Attorney General,,Rep,Steven Bailey,430
-Tehama,50580,Attorney General,,Rep,Steven Bailey,564
-Tehama,50590,Attorney General,,Rep,Steven Bailey,452
-Tehama,50630,Attorney General,,Rep,Steven Bailey,169
-Tehama,51510,Attorney General,,Rep,Steven Bailey,395
-Tehama,53610,Attorney General,,Rep,Steven Bailey,110
-Tehama,TEHAMA CA,Attorney General,,Rep,Steven Bailey,"14,391"
-Tehama,10030,Attorney General,,Dem,Xavier Becerra,238
-Tehama,10050,Attorney General,,Dem,Xavier Becerra,239
-Tehama,10130,Attorney General,,Dem,Xavier Becerra,297
-Tehama,12060,Attorney General,,Dem,Xavier Becerra,282
-Tehama,12080,Attorney General,,Dem,Xavier Becerra,218
-Tehama,12210,Attorney General,,Dem,Xavier Becerra,126
-Tehama,20140,Attorney General,,Dem,Xavier Becerra,173
-Tehama,20160,Attorney General,,Dem,Xavier Becerra,48
-Tehama,20170,Attorney General,,Dem,Xavier Becerra,85
-Tehama,20250,Attorney General,,Dem,Xavier Becerra,105
-Tehama,20255,Attorney General,,Dem,Xavier Becerra,87
-Tehama,22190,Attorney General,,Dem,Xavier Becerra,244
-Tehama,22230,Attorney General,,Dem,Xavier Becerra,221
-Tehama,22240,Attorney General,,Dem,Xavier Becerra,165
-Tehama,30010,Attorney General,,Dem,Xavier Becerra,102
-Tehama,30015,Attorney General,,Dem,Xavier Becerra,25
-Tehama,30120,Attorney General,,Dem,Xavier Becerra,367
-Tehama,30260,Attorney General,,Dem,Xavier Becerra,243
-Tehama,30270,Attorney General,,Dem,Xavier Becerra,168
-Tehama,30280,Attorney General,,Dem,Xavier Becerra,193
-Tehama,30300,Attorney General,,Dem,Xavier Becerra,140
-Tehama,30320,Attorney General,,Dem,Xavier Becerra,63
-Tehama,30330,Attorney General,,Dem,Xavier Becerra,32
-Tehama,30340,Attorney General,,Dem,Xavier Becerra,37
-Tehama,32350,Attorney General,,Dem,Xavier Becerra,129
-Tehama,40180,Attorney General,,Dem,Xavier Becerra,37
-Tehama,40360,Attorney General,,Dem,Xavier Becerra,198
-Tehama,40365,Attorney General,,Dem,Xavier Becerra,5
-Tehama,40420,Attorney General,,Dem,Xavier Becerra,131
-Tehama,40430,Attorney General,,Dem,Xavier Becerra,24
-Tehama,40480,Attorney General,,Dem,Xavier Becerra,14
-Tehama,40485,Attorney General,,Dem,Xavier Becerra,182
-Tehama,40490,Attorney General,,Dem,Xavier Becerra,99
-Tehama,40620,Attorney General,,Dem,Xavier Becerra,10
-Tehama,41380,Attorney General,,Dem,Xavier Becerra,195
-Tehama,41400,Attorney General,,Dem,Xavier Becerra,158
-Tehama,50370,Attorney General,,Dem,Xavier Becerra,60
-Tehama,50450,Attorney General,,Dem,Xavier Becerra,25
-Tehama,50455,Attorney General,,Dem,Xavier Becerra,3
-Tehama,50530,Attorney General,,Dem,Xavier Becerra,107
-Tehama,50560,Attorney General,,Dem,Xavier Becerra,259
-Tehama,50580,Attorney General,,Dem,Xavier Becerra,237
-Tehama,50590,Attorney General,,Dem,Xavier Becerra,163
-Tehama,50630,Attorney General,,Dem,Xavier Becerra,61
-Tehama,51510,Attorney General,,Dem,Xavier Becerra,221
-Tehama,53610,Attorney General,,Dem,Xavier Becerra,53
-Tehama,TEHAMA CA,Attorney General,,Dem,Xavier Becerra,"6,269"
-Tehama,10030,Insurance Commissioner,,Dem,Ricardo Lara,189
-Tehama,10050,Insurance Commissioner,,Dem,Ricardo Lara,212
-Tehama,10130,Insurance Commissioner,,Dem,Ricardo Lara,248
-Tehama,12060,Insurance Commissioner,,Dem,Ricardo Lara,247
-Tehama,12080,Insurance Commissioner,,Dem,Ricardo Lara,183
-Tehama,12210,Insurance Commissioner,,Dem,Ricardo Lara,111
-Tehama,20140,Insurance Commissioner,,Dem,Ricardo Lara,145
-Tehama,20160,Insurance Commissioner,,Dem,Ricardo Lara,42
-Tehama,20170,Insurance Commissioner,,Dem,Ricardo Lara,77
-Tehama,20250,Insurance Commissioner,,Dem,Ricardo Lara,98
-Tehama,20255,Insurance Commissioner,,Dem,Ricardo Lara,78
-Tehama,22190,Insurance Commissioner,,Dem,Ricardo Lara,205
-Tehama,22230,Insurance Commissioner,,Dem,Ricardo Lara,193
-Tehama,22240,Insurance Commissioner,,Dem,Ricardo Lara,136
-Tehama,30010,Insurance Commissioner,,Dem,Ricardo Lara,83
-Tehama,30015,Insurance Commissioner,,Dem,Ricardo Lara,20
-Tehama,30120,Insurance Commissioner,,Dem,Ricardo Lara,297
-Tehama,30260,Insurance Commissioner,,Dem,Ricardo Lara,200
-Tehama,30270,Insurance Commissioner,,Dem,Ricardo Lara,131
-Tehama,30280,Insurance Commissioner,,Dem,Ricardo Lara,171
-Tehama,30300,Insurance Commissioner,,Dem,Ricardo Lara,110
-Tehama,30320,Insurance Commissioner,,Dem,Ricardo Lara,47
-Tehama,30330,Insurance Commissioner,,Dem,Ricardo Lara,27
-Tehama,30340,Insurance Commissioner,,Dem,Ricardo Lara,32
-Tehama,32350,Insurance Commissioner,,Dem,Ricardo Lara,110
-Tehama,40180,Insurance Commissioner,,Dem,Ricardo Lara,29
-Tehama,40360,Insurance Commissioner,,Dem,Ricardo Lara,191
-Tehama,40365,Insurance Commissioner,,Dem,Ricardo Lara,4
-Tehama,40420,Insurance Commissioner,,Dem,Ricardo Lara,125
-Tehama,40430,Insurance Commissioner,,Dem,Ricardo Lara,18
-Tehama,40480,Insurance Commissioner,,Dem,Ricardo Lara,13
-Tehama,40485,Insurance Commissioner,,Dem,Ricardo Lara,173
-Tehama,40490,Insurance Commissioner,,Dem,Ricardo Lara,97
-Tehama,40620,Insurance Commissioner,,Dem,Ricardo Lara,10
-Tehama,41380,Insurance Commissioner,,Dem,Ricardo Lara,180
-Tehama,41400,Insurance Commissioner,,Dem,Ricardo Lara,141
-Tehama,50370,Insurance Commissioner,,Dem,Ricardo Lara,53
-Tehama,50450,Insurance Commissioner,,Dem,Ricardo Lara,24
-Tehama,50455,Insurance Commissioner,,Dem,Ricardo Lara,4
-Tehama,50530,Insurance Commissioner,,Dem,Ricardo Lara,96
-Tehama,50560,Insurance Commissioner,,Dem,Ricardo Lara,226
-Tehama,50580,Insurance Commissioner,,Dem,Ricardo Lara,213
-Tehama,50590,Insurance Commissioner,,Dem,Ricardo Lara,141
-Tehama,50630,Insurance Commissioner,,Dem,Ricardo Lara,46
-Tehama,51510,Insurance Commissioner,,Dem,Ricardo Lara,217
-Tehama,53610,Insurance Commissioner,,Dem,Ricardo Lara,44
-Tehama,TEHAMA CA,Insurance Commissioner,,Dem,Ricardo Lara,"5,437"
-Tehama,10030,Insurance Commissioner,,NPP,Steve Poizner,773
-Tehama,10050,Insurance Commissioner,,NPP,Steve Poizner,743
-Tehama,10130,Insurance Commissioner,,NPP,Steve Poizner,840
-Tehama,12060,Insurance Commissioner,,NPP,Steve Poizner,403
-Tehama,12080,Insurance Commissioner,,NPP,Steve Poizner,407
-Tehama,12210,Insurance Commissioner,,NPP,Steve Poizner,192
-Tehama,20140,Insurance Commissioner,,NPP,Steve Poizner,557
-Tehama,20160,Insurance Commissioner,,NPP,Steve Poizner,132
-Tehama,20170,Insurance Commissioner,,NPP,Steve Poizner,215
-Tehama,20250,Insurance Commissioner,,NPP,Steve Poizner,381
-Tehama,20255,Insurance Commissioner,,NPP,Steve Poizner,277
-Tehama,22190,Insurance Commissioner,,NPP,Steve Poizner,360
-Tehama,22230,Insurance Commissioner,,NPP,Steve Poizner,413
-Tehama,22240,Insurance Commissioner,,NPP,Steve Poizner,311
-Tehama,30010,Insurance Commissioner,,NPP,Steve Poizner,262
-Tehama,30015,Insurance Commissioner,,NPP,Steve Poizner,58
-Tehama,30120,Insurance Commissioner,,NPP,Steve Poizner,926
-Tehama,30260,Insurance Commissioner,,NPP,Steve Poizner,500
-Tehama,30270,Insurance Commissioner,,NPP,Steve Poizner,282
-Tehama,30280,Insurance Commissioner,,NPP,Steve Poizner,504
-Tehama,30300,Insurance Commissioner,,NPP,Steve Poizner,304
-Tehama,30320,Insurance Commissioner,,NPP,Steve Poizner,96
-Tehama,30330,Insurance Commissioner,,NPP,Steve Poizner,50
-Tehama,30340,Insurance Commissioner,,NPP,Steve Poizner,89
-Tehama,32350,Insurance Commissioner,,NPP,Steve Poizner,187
-Tehama,40180,Insurance Commissioner,,NPP,Steve Poizner,97
-Tehama,40360,Insurance Commissioner,,NPP,Steve Poizner,477
-Tehama,40365,Insurance Commissioner,,NPP,Steve Poizner,10
-Tehama,40420,Insurance Commissioner,,NPP,Steve Poizner,328
-Tehama,40430,Insurance Commissioner,,NPP,Steve Poizner,91
-Tehama,40480,Insurance Commissioner,,NPP,Steve Poizner,43
-Tehama,40485,Insurance Commissioner,,NPP,Steve Poizner,222
-Tehama,40490,Insurance Commissioner,,NPP,Steve Poizner,293
-Tehama,40620,Insurance Commissioner,,NPP,Steve Poizner,64
-Tehama,41380,Insurance Commissioner,,NPP,Steve Poizner,307
-Tehama,41400,Insurance Commissioner,,NPP,Steve Poizner,224
-Tehama,50370,Insurance Commissioner,,NPP,Steve Poizner,127
-Tehama,50450,Insurance Commissioner,,NPP,Steve Poizner,92
-Tehama,50455,Insurance Commissioner,,NPP,Steve Poizner,22
-Tehama,50530,Insurance Commissioner,,NPP,Steve Poizner,170
-Tehama,50560,Insurance Commissioner,,NPP,Steve Poizner,427
-Tehama,50580,Insurance Commissioner,,NPP,Steve Poizner,541
-Tehama,50590,Insurance Commissioner,,NPP,Steve Poizner,432
-Tehama,50630,Insurance Commissioner,,NPP,Steve Poizner,169
-Tehama,51510,Insurance Commissioner,,NPP,Steve Poizner,383
-Tehama,53610,Insurance Commissioner,,NPP,Steve Poizner,109
-Tehama,TEHAMA CA,Insurance Commissioner,,NPP,Steve Poizner,"13,890"
-Tehama,10030,US Senate,,Dem,Dianne Feinstein,229
-Tehama,10050,US Senate,,Dem,Dianne Feinstein,235
-Tehama,10130,US Senate,,Dem,Dianne Feinstein,315
-Tehama,12060,US Senate,,Dem,Dianne Feinstein,178
-Tehama,12080,US Senate,,Dem,Dianne Feinstein,197
-Tehama,12210,US Senate,,Dem,Dianne Feinstein,90
-Tehama,20140,US Senate,,Dem,Dianne Feinstein,184
-Tehama,20160,US Senate,,Dem,Dianne Feinstein,44
-Tehama,20170,US Senate,,Dem,Dianne Feinstein,73
-Tehama,20250,US Senate,,Dem,Dianne Feinstein,120
-Tehama,20255,US Senate,,Dem,Dianne Feinstein,92
-Tehama,22190,US Senate,,Dem,Dianne Feinstein,181
-Tehama,22230,US Senate,,Dem,Dianne Feinstein,176
-Tehama,22240,US Senate,,Dem,Dianne Feinstein,123
-Tehama,30010,US Senate,,Dem,Dianne Feinstein,86
-Tehama,30015,US Senate,,Dem,Dianne Feinstein,22
-Tehama,30120,US Senate,,Dem,Dianne Feinstein,335
-Tehama,30260,US Senate,,Dem,Dianne Feinstein,198
-Tehama,30270,US Senate,,Dem,Dianne Feinstein,159
-Tehama,30280,US Senate,,Dem,Dianne Feinstein,176
-Tehama,30300,US Senate,,Dem,Dianne Feinstein,100
-Tehama,30320,US Senate,,Dem,Dianne Feinstein,47
-Tehama,30330,US Senate,,Dem,Dianne Feinstein,28
-Tehama,30340,US Senate,,Dem,Dianne Feinstein,31
-Tehama,32350,US Senate,,Dem,Dianne Feinstein,104
-Tehama,40180,US Senate,,Dem,Dianne Feinstein,48
-Tehama,40360,US Senate,,Dem,Dianne Feinstein,165
-Tehama,40365,US Senate,,Dem,Dianne Feinstein,4
-Tehama,40420,US Senate,,Dem,Dianne Feinstein,112
-Tehama,40430,US Senate,,Dem,Dianne Feinstein,40
-Tehama,40480,US Senate,,Dem,Dianne Feinstein,18
-Tehama,40485,US Senate,,Dem,Dianne Feinstein,152
-Tehama,40490,US Senate,,Dem,Dianne Feinstein,85
-Tehama,40620,US Senate,,Dem,Dianne Feinstein,14
-Tehama,41380,US Senate,,Dem,Dianne Feinstein,165
-Tehama,41400,US Senate,,Dem,Dianne Feinstein,94
-Tehama,50370,US Senate,,Dem,Dianne Feinstein,51
-Tehama,50450,US Senate,,Dem,Dianne Feinstein,31
-Tehama,50455,US Senate,,Dem,Dianne Feinstein,3
-Tehama,50530,US Senate,,Dem,Dianne Feinstein,76
-Tehama,50560,US Senate,,Dem,Dianne Feinstein,203
-Tehama,50580,US Senate,,Dem,Dianne Feinstein,225
-Tehama,50590,US Senate,,Dem,Dianne Feinstein,146
-Tehama,50630,US Senate,,Dem,Dianne Feinstein,56
-Tehama,51510,US Senate,,Dem,Dianne Feinstein,184
-Tehama,53610,US Senate,,Dem,Dianne Feinstein,40
-Tehama,TEHAMA CA,US Senate,,Dem,Dianne Feinstein,"5,435"
-Tehama,10030,US Senate,,Dem,Kevin DeLeon,575
-Tehama,10050,US Senate,,Dem,Kevin DeLeon,543
-Tehama,10130,US Senate,,Dem,Kevin DeLeon,606
-Tehama,12060,US Senate,,Dem,Kevin DeLeon,415
-Tehama,12080,US Senate,,Dem,Kevin DeLeon,320
-Tehama,12210,US Senate,,Dem,Kevin DeLeon,179
-Tehama,20140,US Senate,,Dem,Kevin DeLeon,408
-Tehama,20160,US Senate,,Dem,Kevin DeLeon,106
-Tehama,20170,US Senate,,Dem,Kevin DeLeon,195
-Tehama,20250,US Senate,,Dem,Kevin DeLeon,287
-Tehama,20255,US Senate,,Dem,Kevin DeLeon,211
-Tehama,22190,US Senate,,Dem,Kevin DeLeon,343
-Tehama,22230,US Senate,,Dem,Kevin DeLeon,353
-Tehama,22240,US Senate,,Dem,Kevin DeLeon,273
-Tehama,30010,US Senate,,Dem,Kevin DeLeon,214
-Tehama,30015,US Senate,,Dem,Kevin DeLeon,38
-Tehama,30120,US Senate,,Dem,Kevin DeLeon,684
-Tehama,30260,US Senate,,Dem,Kevin DeLeon,408
-Tehama,30270,US Senate,,Dem,Kevin DeLeon,215
-Tehama,30280,US Senate,,Dem,Kevin DeLeon,380
-Tehama,30300,US Senate,,Dem,Kevin DeLeon,244
-Tehama,30320,US Senate,,Dem,Kevin DeLeon,76
-Tehama,30330,US Senate,,Dem,Kevin DeLeon,40
-Tehama,30340,US Senate,,Dem,Kevin DeLeon,61
-Tehama,32350,US Senate,,Dem,Kevin DeLeon,163
-Tehama,40180,US Senate,,Dem,Kevin DeLeon,53
-Tehama,40360,US Senate,,Dem,Kevin DeLeon,411
-Tehama,40365,US Senate,,Dem,Kevin DeLeon,10
-Tehama,40420,US Senate,,Dem,Kevin DeLeon,284
-Tehama,40430,US Senate,,Dem,Kevin DeLeon,53
-Tehama,40480,US Senate,,Dem,Kevin DeLeon,34
-Tehama,40485,US Senate,,Dem,Kevin DeLeon,205
-Tehama,40490,US Senate,,Dem,Kevin DeLeon,242
-Tehama,40620,US Senate,,Dem,Kevin DeLeon,48
-Tehama,41380,US Senate,,Dem,Kevin DeLeon,269
-Tehama,41400,US Senate,,Dem,Kevin DeLeon,240
-Tehama,50370,US Senate,,Dem,Kevin DeLeon,105
-Tehama,50450,US Senate,,Dem,Kevin DeLeon,55
-Tehama,50455,US Senate,,Dem,Kevin DeLeon,13
-Tehama,50530,US Senate,,Dem,Kevin DeLeon,158
-Tehama,50560,US Senate,,Dem,Kevin DeLeon,384
-Tehama,50580,US Senate,,Dem,Kevin DeLeon,427
-Tehama,50590,US Senate,,Dem,Kevin DeLeon,348
-Tehama,50630,US Senate,,Dem,Kevin DeLeon,140
-Tehama,51510,US Senate,,Dem,Kevin DeLeon,334
-Tehama,53610,US Senate,,Dem,Kevin DeLeon,103
-Tehama,TEHAMA CA,US Senate,,Dem,Kevin DeLeon,"11,253"
-Tehama,10030,Public Instruction,,None,Marshall Tuck,663
-Tehama,10050,Public Instruction,,None,Marshall Tuck,633
-Tehama,10130,Public Instruction,,None,Marshall Tuck,738
-Tehama,12060,Public Instruction,,None,Marshall Tuck,392
-Tehama,12080,Public Instruction,,None,Marshall Tuck,360
-Tehama,12210,Public Instruction,,None,Marshall Tuck,158
-Tehama,20140,Public Instruction,,None,Marshall Tuck,469
-Tehama,20160,Public Instruction,,None,Marshall Tuck,128
-Tehama,20170,Public Instruction,,None,Marshall Tuck,205
-Tehama,20250,Public Instruction,,None,Marshall Tuck,331
-Tehama,20255,Public Instruction,,None,Marshall Tuck,238
-Tehama,22190,Public Instruction,,None,Marshall Tuck,316
-Tehama,22230,Public Instruction,,None,Marshall Tuck,390
-Tehama,22240,Public Instruction,,None,Marshall Tuck,288
-Tehama,30010,Public Instruction,,None,Marshall Tuck,216
-Tehama,30015,Public Instruction,,None,Marshall Tuck,42
-Tehama,30120,Public Instruction,,None,Marshall Tuck,781
-Tehama,30260,Public Instruction,,None,Marshall Tuck,423
-Tehama,30270,Public Instruction,,None,Marshall Tuck,270
-Tehama,30280,Public Instruction,,None,Marshall Tuck,432
-Tehama,30300,Public Instruction,,None,Marshall Tuck,280
-Tehama,30320,Public Instruction,,None,Marshall Tuck,73
-Tehama,30330,Public Instruction,,None,Marshall Tuck,45
-Tehama,30340,Public Instruction,,None,Marshall Tuck,81
-Tehama,32350,Public Instruction,,None,Marshall Tuck,199
-Tehama,40180,Public Instruction,,None,Marshall Tuck,74
-Tehama,40360,Public Instruction,,None,Marshall Tuck,436
-Tehama,40365,Public Instruction,,None,Marshall Tuck,8
-Tehama,40420,Public Instruction,,None,Marshall Tuck,283
-Tehama,40430,Public Instruction,,None,Marshall Tuck,81
-Tehama,40480,Public Instruction,,None,Marshall Tuck,37
-Tehama,40485,Public Instruction,,None,Marshall Tuck,254
-Tehama,40490,Public Instruction,,None,Marshall Tuck,257
-Tehama,40620,Public Instruction,,None,Marshall Tuck,58
-Tehama,41380,Public Instruction,,None,Marshall Tuck,308
-Tehama,41400,Public Instruction,,None,Marshall Tuck,224
-Tehama,50370,Public Instruction,,None,Marshall Tuck,101
-Tehama,50450,Public Instruction,,None,Marshall Tuck,68
-Tehama,50455,Public Instruction,,None,Marshall Tuck,22
-Tehama,50530,Public Instruction,,None,Marshall Tuck,166
-Tehama,50560,Public Instruction,,None,Marshall Tuck,440
-Tehama,50580,Public Instruction,,None,Marshall Tuck,507
-Tehama,50590,Public Instruction,,None,Marshall Tuck,355
-Tehama,50630,Public Instruction,,None,Marshall Tuck,168
-Tehama,51510,Public Instruction,,None,Marshall Tuck,396
-Tehama,53610,Public Instruction,,None,Marshall Tuck,91
-Tehama,TEHAMA CA,Public Instruction,,None,Marshall Tuck,"12,485"
-Tehama,10030,Public Instruction,,None,Tony Thurmond,200
-Tehama,10050,Public Instruction,,None,Tony Thurmond,231
-Tehama,10130,Public Instruction,,None,Tony Thurmond,288
-Tehama,12060,Public Instruction,,None,Tony Thurmond,221
-Tehama,12080,Public Instruction,,None,Tony Thurmond,199
-Tehama,12210,Public Instruction,,None,Tony Thurmond,123
-Tehama,20140,Public Instruction,,None,Tony Thurmond,184
-Tehama,20160,Public Instruction,,None,Tony Thurmond,36
-Tehama,20170,Public Instruction,,None,Tony Thurmond,76
-Tehama,20250,Public Instruction,,None,Tony Thurmond,126
-Tehama,20255,Public Instruction,,None,Tony Thurmond,85
-Tehama,22190,Public Instruction,,None,Tony Thurmond,209
-Tehama,22230,Public Instruction,,None,Tony Thurmond,181
-Tehama,22240,Public Instruction,,None,Tony Thurmond,149
-Tehama,30010,Public Instruction,,None,Tony Thurmond,98
-Tehama,30015,Public Instruction,,None,Tony Thurmond,27
-Tehama,30120,Public Instruction,,None,Tony Thurmond,309
-Tehama,30260,Public Instruction,,None,Tony Thurmond,220
-Tehama,30270,Public Instruction,,None,Tony Thurmond,122
-Tehama,30280,Public Instruction,,None,Tony Thurmond,210
-Tehama,30300,Public Instruction,,None,Tony Thurmond,100
-Tehama,30320,Public Instruction,,None,Tony Thurmond,53
-Tehama,30330,Public Instruction,,None,Tony Thurmond,29
-Tehama,30340,Public Instruction,,None,Tony Thurmond,24
-Tehama,32350,Public Instruction,,None,Tony Thurmond,90
-Tehama,40180,Public Instruction,,None,Tony Thurmond,40
-Tehama,40360,Public Instruction,,None,Tony Thurmond,178
-Tehama,40365,Public Instruction,,None,Tony Thurmond,3
-Tehama,40420,Public Instruction,,None,Tony Thurmond,118
-Tehama,40430,Public Instruction,,None,Tony Thurmond,28
-Tehama,40480,Public Instruction,,None,Tony Thurmond,14
-Tehama,40485,Public Instruction,,None,Tony Thurmond,125
-Tehama,40490,Public Instruction,,None,Tony Thurmond,90
-Tehama,40620,Public Instruction,,None,Tony Thurmond,10
-Tehama,41380,Public Instruction,,None,Tony Thurmond,157
-Tehama,41400,Public Instruction,,None,Tony Thurmond,114
-Tehama,50370,Public Instruction,,None,Tony Thurmond,54
-Tehama,50450,Public Instruction,,None,Tony Thurmond,24
-Tehama,50455,Public Instruction,,None,Tony Thurmond,3
-Tehama,50530,Public Instruction,,None,Tony Thurmond,81
-Tehama,50560,Public Instruction,,None,Tony Thurmond,191
-Tehama,50580,Public Instruction,,None,Tony Thurmond,218
-Tehama,50590,Public Instruction,,None,Tony Thurmond,164
-Tehama,50630,Public Instruction,,None,Tony Thurmond,43
-Tehama,51510,Public Instruction,,None,Tony Thurmond,176
-Tehama,53610,Public Instruction,,None,Tony Thurmond,55
-Tehama,TEHAMA CA,Public Instruction,,None,Tony Thurmond,"5,476"
-Tehama,10030,US House,1,Dem,Audrey Denney,276
-Tehama,10050,US House,1,Dem,Audrey Denney,273
-Tehama,10130,US House,1,Dem,Audrey Denney,343
-Tehama,12060,US House,1,Dem,Audrey Denney,337
-Tehama,12080,US House,1,Dem,Audrey Denney,251
-Tehama,12210,US House,1,Dem,Audrey Denney,146
-Tehama,20140,US House,1,Dem,Audrey Denney,208
-Tehama,20160,US House,1,Dem,Audrey Denney,56
-Tehama,20170,US House,1,Dem,Audrey Denney,95
-Tehama,20250,US House,1,Dem,Audrey Denney,119
-Tehama,20255,US House,1,Dem,Audrey Denney,99
-Tehama,22190,US House,1,Dem,Audrey Denney,262
-Tehama,22230,US House,1,Dem,Audrey Denney,256
-Tehama,22240,US House,1,Dem,Audrey Denney,188
-Tehama,30010,US House,1,Dem,Audrey Denney,116
-Tehama,30015,US House,1,Dem,Audrey Denney,32
-Tehama,30120,US House,1,Dem,Audrey Denney,404
-Tehama,30260,US House,1,Dem,Audrey Denney,260
-Tehama,30270,US House,1,Dem,Audrey Denney,178
-Tehama,30280,US House,1,Dem,Audrey Denney,218
-Tehama,30300,US House,1,Dem,Audrey Denney,138
-Tehama,30320,US House,1,Dem,Audrey Denney,65
-Tehama,30330,US House,1,Dem,Audrey Denney,37
-Tehama,30340,US House,1,Dem,Audrey Denney,43
-Tehama,32350,US House,1,Dem,Audrey Denney,136
-Tehama,40180,US House,1,Dem,Audrey Denney,41
-Tehama,40360,US House,1,Dem,Audrey Denney,225
-Tehama,40365,US House,1,Dem,Audrey Denney,5
-Tehama,40420,US House,1,Dem,Audrey Denney,151
-Tehama,40430,US House,1,Dem,Audrey Denney,22
-Tehama,40480,US House,1,Dem,Audrey Denney,14
-Tehama,40485,US House,1,Dem,Audrey Denney,180
-Tehama,40490,US House,1,Dem,Audrey Denney,111
-Tehama,40620,US House,1,Dem,Audrey Denney,14
-Tehama,41380,US House,1,Dem,Audrey Denney,225
-Tehama,41400,US House,1,Dem,Audrey Denney,168
-Tehama,50370,US House,1,Dem,Audrey Denney,71
-Tehama,50450,US House,1,Dem,Audrey Denney,31
-Tehama,50455,US House,1,Dem,Audrey Denney,5
-Tehama,50530,US House,1,Dem,Audrey Denney,123
-Tehama,50560,US House,1,Dem,Audrey Denney,275
-Tehama,50580,US House,1,Dem,Audrey Denney,252
-Tehama,50590,US House,1,Dem,Audrey Denney,207
-Tehama,50630,US House,1,Dem,Audrey Denney,62
-Tehama,51510,US House,1,Dem,Audrey Denney,240
-Tehama,53610,US House,1,Dem,Audrey Denney,63
-Tehama,TEHAMA CA,US House,1,Dem,Audrey Denney,"7,021"
-Tehama,10030,US House,1,Rep,Doug LaMalfa,794
-Tehama,10050,US House,1,Rep,Doug LaMalfa,770
-Tehama,10130,US House,1,Rep,Doug LaMalfa,874
-Tehama,12060,US House,1,Rep,Doug LaMalfa,360
-Tehama,12080,US House,1,Rep,Doug LaMalfa,386
-Tehama,12210,US House,1,Rep,Doug LaMalfa,181
-Tehama,20140,US House,1,Rep,Doug LaMalfa,553
-Tehama,20160,US House,1,Rep,Doug LaMalfa,129
-Tehama,20170,US House,1,Rep,Doug LaMalfa,215
-Tehama,20250,US House,1,Rep,Doug LaMalfa,407
-Tehama,20255,US House,1,Rep,Doug LaMalfa,293
-Tehama,22190,US House,1,Rep,Doug LaMalfa,333
-Tehama,22230,US House,1,Rep,Doug LaMalfa,396
-Tehama,22240,US House,1,Rep,Doug LaMalfa,298
-Tehama,30010,US House,1,Rep,Doug LaMalfa,270
-Tehama,30015,US House,1,Rep,Doug LaMalfa,53
-Tehama,30120,US House,1,Rep,Doug LaMalfa,925
-Tehama,30260,US House,1,Rep,Doug LaMalfa,507
-Tehama,30270,US House,1,Rep,Doug LaMalfa,273
-Tehama,30280,US House,1,Rep,Doug LaMalfa,517
-Tehama,30300,US House,1,Rep,Doug LaMalfa,318
-Tehama,30320,US House,1,Rep,Doug LaMalfa,85
-Tehama,30330,US House,1,Rep,Doug LaMalfa,47
-Tehama,30340,US House,1,Rep,Doug LaMalfa,88
-Tehama,32350,US House,1,Rep,Doug LaMalfa,183
-Tehama,40180,US House,1,Rep,Doug LaMalfa,94
-Tehama,40360,US House,1,Rep,Doug LaMalfa,497
-Tehama,40365,US House,1,Rep,Doug LaMalfa,9
-Tehama,40420,US House,1,Rep,Doug LaMalfa,319
-Tehama,40430,US House,1,Rep,Doug LaMalfa,98
-Tehama,40480,US House,1,Rep,Doug LaMalfa,49
-Tehama,40485,US House,1,Rep,Doug LaMalfa,232
-Tehama,40490,US House,1,Rep,Doug LaMalfa,310
-Tehama,40620,US House,1,Rep,Doug LaMalfa,68
-Tehama,41380,US House,1,Rep,Doug LaMalfa,290
-Tehama,41400,US House,1,Rep,Doug LaMalfa,213
-Tehama,50370,US House,1,Rep,Doug LaMalfa,120
-Tehama,50450,US House,1,Rep,Doug LaMalfa,97
-Tehama,50455,US House,1,Rep,Doug LaMalfa,23
-Tehama,50530,US House,1,Rep,Doug LaMalfa,155
-Tehama,50560,US House,1,Rep,Doug LaMalfa,420
-Tehama,50580,US House,1,Rep,Doug LaMalfa,557
-Tehama,50590,US House,1,Rep,Doug LaMalfa,424
-Tehama,50630,US House,1,Rep,Doug LaMalfa,171
-Tehama,51510,US House,1,Rep,Doug LaMalfa,381
-Tehama,53610,US House,1,Rep,Doug LaMalfa,103
-Tehama,TEHAMA CA,US House,1,Rep,Doug LaMalfa,"13,885"
-Tehama,10030,State Senate,4,Dem,Phillip Kim,235
-Tehama,10050,State Senate,4,Dem,Phillip Kim,224
-Tehama,10130,State Senate,4,Dem,Phillip Kim,287
-Tehama,12060,State Senate,4,Dem,Phillip Kim,274
-Tehama,12080,State Senate,4,Dem,Phillip Kim,202
-Tehama,12210,State Senate,4,Dem,Phillip Kim,131
-Tehama,20140,State Senate,4,Dem,Phillip Kim,166
-Tehama,20160,State Senate,4,Dem,Phillip Kim,43
-Tehama,20170,State Senate,4,Dem,Phillip Kim,85
-Tehama,20250,State Senate,4,Dem,Phillip Kim,91
-Tehama,20255,State Senate,4,Dem,Phillip Kim,81
-Tehama,22190,State Senate,4,Dem,Phillip Kim,237
-Tehama,22230,State Senate,4,Dem,Phillip Kim,215
-Tehama,22240,State Senate,4,Dem,Phillip Kim,150
-Tehama,30010,State Senate,4,Dem,Phillip Kim,91
-Tehama,30015,State Senate,4,Dem,Phillip Kim,21
-Tehama,30120,State Senate,4,Dem,Phillip Kim,354
-Tehama,30260,State Senate,4,Dem,Phillip Kim,215
-Tehama,30270,State Senate,4,Dem,Phillip Kim,153
-Tehama,30280,State Senate,4,Dem,Phillip Kim,178
-Tehama,30300,State Senate,4,Dem,Phillip Kim,119
-Tehama,30320,State Senate,4,Dem,Phillip Kim,61
-Tehama,30330,State Senate,4,Dem,Phillip Kim,34
-Tehama,30340,State Senate,4,Dem,Phillip Kim,36
-Tehama,32350,State Senate,4,Dem,Phillip Kim,112
-Tehama,40180,State Senate,4,Dem,Phillip Kim,33
-Tehama,40360,State Senate,4,Dem,Phillip Kim,185
-Tehama,40365,State Senate,4,Dem,Phillip Kim,4
-Tehama,40420,State Senate,4,Dem,Phillip Kim,132
-Tehama,40430,State Senate,4,Dem,Phillip Kim,19
-Tehama,40480,State Senate,4,Dem,Phillip Kim,11
-Tehama,40485,State Senate,4,Dem,Phillip Kim,177
-Tehama,40490,State Senate,4,Dem,Phillip Kim,92
-Tehama,40620,State Senate,4,Dem,Phillip Kim,12
-Tehama,41380,State Senate,4,Dem,Phillip Kim,180
-Tehama,41400,State Senate,4,Dem,Phillip Kim,156
-Tehama,50370,State Senate,4,Dem,Phillip Kim,61
-Tehama,50450,State Senate,4,Dem,Phillip Kim,23
-Tehama,50455,State Senate,4,Dem,Phillip Kim,4
-Tehama,50530,State Senate,4,Dem,Phillip Kim,103
-Tehama,50560,State Senate,4,Dem,Phillip Kim,256
-Tehama,50580,State Senate,4,Dem,Phillip Kim,219
-Tehama,50590,State Senate,4,Dem,Phillip Kim,164
-Tehama,50630,State Senate,4,Dem,Phillip Kim,50
-Tehama,51510,State Senate,4,Dem,Phillip Kim,211
-Tehama,53610,State Senate,4,Dem,Phillip Kim,50
-Tehama,TEHAMA CA,State Senate,4,Dem,Phillip Kim,"5,937"
-Tehama,10030,State Senate,4,Rep,James Nielsen,814
-Tehama,10050,State Senate,4,Rep,James Nielsen,804
-Tehama,10130,State Senate,4,Rep,James Nielsen,919
-Tehama,12060,State Senate,4,Rep,James Nielsen,414
-Tehama,12080,State Senate,4,Rep,James Nielsen,421
-Tehama,12210,State Senate,4,Rep,James Nielsen,193
-Tehama,20140,State Senate,4,Rep,James Nielsen,594
-Tehama,20160,State Senate,4,Rep,James Nielsen,141
-Tehama,20170,State Senate,4,Rep,James Nielsen,223
-Tehama,20250,State Senate,4,Rep,James Nielsen,431
-Tehama,20255,State Senate,4,Rep,James Nielsen,310
-Tehama,22190,State Senate,4,Rep,James Nielsen,351
-Tehama,22230,State Senate,4,Rep,James Nielsen,432
-Tehama,22240,State Senate,4,Rep,James Nielsen,327
-Tehama,30010,State Senate,4,Rep,James Nielsen,288
-Tehama,30015,State Senate,4,Rep,James Nielsen,63
-Tehama,30120,State Senate,4,Rep,James Nielsen,960
-Tehama,30260,State Senate,4,Rep,James Nielsen,543
-Tehama,30270,State Senate,4,Rep,James Nielsen,296
-Tehama,30280,State Senate,4,Rep,James Nielsen,556
-Tehama,30300,State Senate,4,Rep,James Nielsen,334
-Tehama,30320,State Senate,4,Rep,James Nielsen,90
-Tehama,30330,State Senate,4,Rep,James Nielsen,49
-Tehama,30340,State Senate,4,Rep,James Nielsen,93
-Tehama,32350,State Senate,4,Rep,James Nielsen,207
-Tehama,40180,State Senate,4,Rep,James Nielsen,102
-Tehama,40360,State Senate,4,Rep,James Nielsen,533
-Tehama,40365,State Senate,4,Rep,James Nielsen,10
-Tehama,40420,State Senate,4,Rep,James Nielsen,336
-Tehama,40430,State Senate,4,Rep,James Nielsen,100
-Tehama,40480,State Senate,4,Rep,James Nielsen,51
-Tehama,40485,State Senate,4,Rep,James Nielsen,233
-Tehama,40490,State Senate,4,Rep,James Nielsen,322
-Tehama,40620,State Senate,4,Rep,James Nielsen,70
-Tehama,41380,State Senate,4,Rep,James Nielsen,330
-Tehama,41400,State Senate,4,Rep,James Nielsen,223
-Tehama,50370,State Senate,4,Rep,James Nielsen,126
-Tehama,50450,State Senate,4,Rep,James Nielsen,104
-Tehama,50455,State Senate,4,Rep,James Nielsen,25
-Tehama,50530,State Senate,4,Rep,James Nielsen,171
-Tehama,50560,State Senate,4,Rep,James Nielsen,438
-Tehama,50580,State Senate,4,Rep,James Nielsen,578
-Tehama,50590,State Senate,4,Rep,James Nielsen,455
-Tehama,50630,State Senate,4,Rep,James Nielsen,180
-Tehama,51510,State Senate,4,Rep,James Nielsen,402
-Tehama,53610,State Senate,4,Rep,James Nielsen,113
-Tehama,TEHAMA CA,State Senate,4,Rep,James Nielsen,"14,755"
-Tehama,10030,Assembly,3,Dem,Sonia Aery,237
-Tehama,10050,Assembly,3,Dem,Sonia Aery,230
-Tehama,10130,Assembly,3,Dem,Sonia Aery,273
-Tehama,12060,Assembly,3,Dem,Sonia Aery,284
-Tehama,12080,Assembly,3,Dem,Sonia Aery,211
-Tehama,12210,Assembly,3,Dem,Sonia Aery,134
-Tehama,20140,Assembly,3,Dem,Sonia Aery,168
-Tehama,20160,Assembly,3,Dem,Sonia Aery,46
-Tehama,20170,Assembly,3,Dem,Sonia Aery,82
-Tehama,20250,Assembly,3,Dem,Sonia Aery,95
-Tehama,20255,Assembly,3,Dem,Sonia Aery,79
-Tehama,22190,Assembly,3,Dem,Sonia Aery,238
-Tehama,22230,Assembly,3,Dem,Sonia Aery,220
-Tehama,22240,Assembly,3,Dem,Sonia Aery,160
-Tehama,30010,Assembly,3,Dem,Sonia Aery,95
-Tehama,30015,Assembly,3,Dem,Sonia Aery,23
-Tehama,30120,Assembly,3,Dem,Sonia Aery,352
-Tehama,30260,Assembly,3,Dem,Sonia Aery,217
-Tehama,30270,Assembly,3,Dem,Sonia Aery,154
-Tehama,30280,Assembly,3,Dem,Sonia Aery,181
-Tehama,30300,Assembly,3,Dem,Sonia Aery,126
-Tehama,30320,Assembly,3,Dem,Sonia Aery,62
-Tehama,30330,Assembly,3,Dem,Sonia Aery,35
-Tehama,30340,Assembly,3,Dem,Sonia Aery,37
-Tehama,32350,Assembly,3,Dem,Sonia Aery,120
-Tehama,40180,Assembly,3,Dem,Sonia Aery,37
-Tehama,40360,Assembly,3,Dem,Sonia Aery,197
-Tehama,40365,Assembly,3,Dem,Sonia Aery,4
-Tehama,40420,Assembly,3,Dem,Sonia Aery,131
-Tehama,40430,Assembly,3,Dem,Sonia Aery,19
-Tehama,40480,Assembly,3,Dem,Sonia Aery,12
-Tehama,40485,Assembly,3,Dem,Sonia Aery,180
-Tehama,40490,Assembly,3,Dem,Sonia Aery,93
-Tehama,40620,Assembly,3,Dem,Sonia Aery,10
-Tehama,41380,Assembly,3,Dem,Sonia Aery,195
-Tehama,41400,Assembly,3,Dem,Sonia Aery,161
-Tehama,50370,Assembly,3,Dem,Sonia Aery,57
-Tehama,50450,Assembly,3,Dem,Sonia Aery,24
-Tehama,50455,Assembly,3,Dem,Sonia Aery,3
-Tehama,50530,Assembly,3,Dem,Sonia Aery,112
-Tehama,50560,Assembly,3,Dem,Sonia Aery,246
-Tehama,50580,Assembly,3,Dem,Sonia Aery,216
-Tehama,50590,Assembly,3,Dem,Sonia Aery,165
-Tehama,50630,Assembly,3,Dem,Sonia Aery,50
-Tehama,51510,Assembly,3,Dem,Sonia Aery,215
-Tehama,53610,Assembly,3,Dem,Sonia Aery,53
-Tehama,TEHAMA CA,Assembly,3,Dem,Sonia Aery,"6,039"
-Tehama,10030,Assembly,3,Rep,James Gallagher,820
-Tehama,10050,Assembly,3,Rep,James Gallagher,799
-Tehama,10130,Assembly,3,Rep,James Gallagher,928
-Tehama,12060,Assembly,3,Rep,James Gallagher,401
-Tehama,12080,Assembly,3,Rep,James Gallagher,414
-Tehama,12210,Assembly,3,Rep,James Gallagher,188
-Tehama,20140,Assembly,3,Rep,James Gallagher,596
-Tehama,20160,Assembly,3,Rep,James Gallagher,137
-Tehama,20170,Assembly,3,Rep,James Gallagher,225
-Tehama,20250,Assembly,3,Rep,James Gallagher,428
-Tehama,20255,Assembly,3,Rep,James Gallagher,309
-Tehama,22190,Assembly,3,Rep,James Gallagher,351
-Tehama,22230,Assembly,3,Rep,James Gallagher,419
-Tehama,22240,Assembly,3,Rep,James Gallagher,317
-Tehama,30010,Assembly,3,Rep,James Gallagher,284
-Tehama,30015,Assembly,3,Rep,James Gallagher,61
-Tehama,30120,Assembly,3,Rep,James Gallagher,961
-Tehama,30260,Assembly,3,Rep,James Gallagher,536
-Tehama,30270,Assembly,3,Rep,James Gallagher,296
-Tehama,30280,Assembly,3,Rep,James Gallagher,552
-Tehama,30300,Assembly,3,Rep,James Gallagher,328
-Tehama,30320,Assembly,3,Rep,James Gallagher,89
-Tehama,30330,Assembly,3,Rep,James Gallagher,48
-Tehama,30340,Assembly,3,Rep,James Gallagher,95
-Tehama,32350,Assembly,3,Rep,James Gallagher,200
-Tehama,40180,Assembly,3,Rep,James Gallagher,97
-Tehama,40360,Assembly,3,Rep,James Gallagher,522
-Tehama,40365,Assembly,3,Rep,James Gallagher,10
-Tehama,40420,Assembly,3,Rep,James Gallagher,336
-Tehama,40430,Assembly,3,Rep,James Gallagher,100
-Tehama,40480,Assembly,3,Rep,James Gallagher,50
-Tehama,40485,Assembly,3,Rep,James Gallagher,229
-Tehama,40490,Assembly,3,Rep,James Gallagher,321
-Tehama,40620,Assembly,3,Rep,James Gallagher,71
-Tehama,41380,Assembly,3,Rep,James Gallagher,312
-Tehama,41400,Assembly,3,Rep,James Gallagher,221
-Tehama,50370,Assembly,3,Rep,James Gallagher,134
-Tehama,50450,Assembly,3,Rep,James Gallagher,104
-Tehama,50455,Assembly,3,Rep,James Gallagher,26
-Tehama,50530,Assembly,3,Rep,James Gallagher,162
-Tehama,50560,Assembly,3,Rep,James Gallagher,450
-Tehama,50580,Assembly,3,Rep,James Gallagher,584
-Tehama,50590,Assembly,3,Rep,James Gallagher,457
-Tehama,50630,Assembly,3,Rep,James Gallagher,179
-Tehama,51510,Assembly,3,Rep,James Gallagher,400
-Tehama,53610,Assembly,3,Rep,James Gallagher,110
-Tehama,TEHAMA CA,Assembly,3,Rep,James Gallagher,"14,657"
+candidate,office,district,party,county,precinct,votes
+,Registered Voters,,,Tehama,10030,1530
+,Ballots Cast,,,Tehama,10030,1089
+John H Cox,Governor,,REP,Tehama,10030,855
+Gavin Newsom,Governor,,DEM,Tehama,10030,219
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,10030,349
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,10030,317
+Alex Padilla ,Secretary of State,,DEM,Tehama,10030,254
+Mark P Meuser,Secretary of State,,REP,Tehama,10030,814
+Konstantinos Roditis ,Controller,,REP,Tehama,10030,778
+Betty T Yee,Controller,,DEM,Tehama,10030,282
+Greg Conlon,Treasurer,,REP,Tehama,10030,800
+Fiona MA ,Treasurer,,DEM,Tehama,10030,256
+Steven C Bailey,Attorney General,,REP,Tehama,10030,826
+Xavier Becerra,Attorney General,,DEM,Tehama,10030,238
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,10030,189
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,10030,773
+Dianne Feinstein,US Senate ,,DEM,Tehama,10030,229
+Kevin De Leon,US Senate ,,DEM,Tehama,10030,575
+Doug La Malfa ,US House,1,REP,Tehama,10030,794
+Audrey Denney,US House,1,DEM,Tehama,10030,276
+James Nielsen,State Senate,4,REP,Tehama,10030,814
+Phillip Kim,State Senate,4,DEM,Tehama,10030,235
+James Gallagher,State Assembly,3,REP,Tehama,10030,820
+Sonia Aery,State Assembly,3,DEM,Tehama,10030,237
+,Registered Voters,,,Tehama,10050,1583
+,Ballots Cast,,,Tehama,10050,1054
+John H Cox,Governor,,REP,Tehama,10050,831
+Gavin Newsom,Governor,,DEM,Tehama,10050,214
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,10050,339
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,10050,329
+Alex Padilla ,Secretary of State,,DEM,Tehama,10050,251
+Mark P Meuser,Secretary of State,,REP,Tehama,10050,780
+Konstantinos Roditis ,Controller,,REP,Tehama,10050,763
+Betty T Yee,Controller,,DEM,Tehama,10050,272
+Greg Conlon,Treasurer,,REP,Tehama,10050,769
+Fiona MA ,Treasurer,,DEM,Tehama,10050,265
+Steven C Bailey,Attorney General,,REP,Tehama,10050,792
+Xavier Becerra,Attorney General,,DEM,Tehama,10050,239
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,10050,212
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,10050,743
+Dianne Feinstein,US Senate ,,DEM,Tehama,10050,235
+Kevin De Leon,US Senate ,,DEM,Tehama,10050,543
+Doug La Malfa ,US House,1,REP,Tehama,10050,770
+Audrey Denney,US House,1,DEM,Tehama,10050,273
+James Nielsen,State Senate,4,REP,Tehama,10050,804
+Phillip Kim,State Senate,4,DEM,Tehama,10050,224
+James Gallagher,State Assembly,3,REP,Tehama,10050,799
+Sonia Aery,State Assembly,3,DEM,Tehama,10050,230
+,Registered Voters,,,Tehama,10130,1629
+,Ballots Cast,,,Tehama,10130,1233
+John H Cox,Governor,,REP,Tehama,10130,947
+Gavin Newsom,Governor,,DEM,Tehama,10130,275
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,10130,358
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,10130,384
+Alex Padilla ,Secretary of State,,DEM,Tehama,10130,330
+Mark P Meuser,Secretary of State,,REP,Tehama,10130,870
+Konstantinos Roditis ,Controller,,REP,Tehama,10130,864
+Betty T Yee,Controller,,DEM,Tehama,10130,334
+Greg Conlon,Treasurer,,REP,Tehama,10130,890
+Fiona MA ,Treasurer,,DEM,Tehama,10130,313
+Steven C Bailey,Attorney General,,REP,Tehama,10130,904
+Xavier Becerra,Attorney General,,DEM,Tehama,10130,297
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,10130,248
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,10130,840
+Dianne Feinstein,US Senate ,,DEM,Tehama,10130,315
+Kevin De Leon,US Senate ,,DEM,Tehama,10130,606
+Doug La Malfa ,US House,1,REP,Tehama,10130,874
+Audrey Denney,US House,1,DEM,Tehama,10130,343
+James Nielsen,State Senate,4,REP,Tehama,10130,919
+Phillip Kim,State Senate,4,DEM,Tehama,10130,287
+James Gallagher,State Assembly,3,REP,Tehama,10130,928
+Sonia Aery,State Assembly,3,DEM,Tehama,10130,273
+,Registered Voters,,,Tehama,12060,1277
+,Ballots Cast,,,Tehama,12060,701
+John H Cox,Governor,,REP,Tehama,12060,422
+Gavin Newsom,Governor,,DEM,Tehama,12060,269
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,12060,264
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,12060,282
+Alex Padilla ,Secretary of State,,DEM,Tehama,12060,298
+Mark P Meuser,Secretary of State,,REP,Tehama,12060,385
+Konstantinos Roditis ,Controller,,REP,Tehama,12060,361
+Betty T Yee,Controller,,DEM,Tehama,12060,321
+Greg Conlon,Treasurer,,REP,Tehama,12060,385
+Fiona MA ,Treasurer,,DEM,Tehama,12060,298
+Steven C Bailey,Attorney General,,REP,Tehama,12060,402
+Xavier Becerra,Attorney General,,DEM,Tehama,12060,282
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,12060,247
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,12060,403
+Dianne Feinstein,US Senate ,,DEM,Tehama,12060,178
+Kevin De Leon,US Senate ,,DEM,Tehama,12060,415
+Doug La Malfa ,US House,1,REP,Tehama,12060,360
+Audrey Denney,US House,1,DEM,Tehama,12060,337
+James Nielsen,State Senate,4,REP,Tehama,12060,414
+Phillip Kim,State Senate,4,DEM,Tehama,12060,274
+James Gallagher,State Assembly,3,REP,Tehama,12060,401
+Sonia Aery,State Assembly,3,DEM,Tehama,12060,284
+,Registered Voters,,,Tehama,12080,971
+,Ballots Cast,,,Tehama,12080,645
+John H Cox,Governor,,REP,Tehama,12080,428
+Gavin Newsom,Governor,,DEM,Tehama,12080,211
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,12080,210
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,12080,244
+Alex Padilla ,Secretary of State,,DEM,Tehama,12080,229
+Mark P Meuser,Secretary of State,,REP,Tehama,12080,400
+Konstantinos Roditis ,Controller,,REP,Tehama,12080,376
+Betty T Yee,Controller,,DEM,Tehama,12080,249
+Greg Conlon,Treasurer,,REP,Tehama,12080,397
+Fiona MA ,Treasurer,,DEM,Tehama,12080,228
+Steven C Bailey,Attorney General,,REP,Tehama,12080,410
+Xavier Becerra,Attorney General,,DEM,Tehama,12080,218
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,12080,183
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,12080,407
+Dianne Feinstein,US Senate ,,DEM,Tehama,12080,197
+Kevin De Leon,US Senate ,,DEM,Tehama,12080,320
+Doug La Malfa ,US House,1,REP,Tehama,12080,386
+Audrey Denney,US House,1,DEM,Tehama,12080,251
+James Nielsen,State Senate,4,REP,Tehama,12080,421
+Phillip Kim,State Senate,4,DEM,Tehama,12080,202
+James Gallagher,State Assembly,3,REP,Tehama,12080,414
+Sonia Aery,State Assembly,3,DEM,Tehama,12080,211
+,Registered Voters,,,Tehama,12210,589
+,Ballots Cast,,,Tehama,12210,330
+John H Cox,Governor,,REP,Tehama,12210,200
+Gavin Newsom,Governor,,DEM,Tehama,12210,122
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,12210,119
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,12210,132
+Alex Padilla ,Secretary of State,,DEM,Tehama,12210,42
+Mark P Meuser,Secretary of State,,REP,Tehama,12210,177
+Konstantinos Roditis ,Controller,,REP,Tehama,12210,179
+Betty T Yee,Controller,,DEM,Tehama,12210,139
+Greg Conlon,Treasurer,,REP,Tehama,12210,177
+Fiona MA ,Treasurer,,DEM,Tehama,12210,142
+Steven C Bailey,Attorney General,,REP,Tehama,12210,194
+Xavier Becerra,Attorney General,,DEM,Tehama,12210,126
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,12210,111
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,12210,192
+Dianne Feinstein,US Senate ,,DEM,Tehama,12210,90
+Kevin De Leon,US Senate ,,DEM,Tehama,12210,179
+Doug La Malfa ,US House,1,REP,Tehama,12210,181
+Audrey Denney,US House,1,DEM,Tehama,12210,146
+James Nielsen,State Senate,4,REP,Tehama,12210,193
+Phillip Kim,State Senate,4,DEM,Tehama,12210,131
+James Gallagher,State Assembly,3,REP,Tehama,12210,188
+Sonia Aery,State Assembly,3,DEM,Tehama,12210,134
+,Registered Voters,,,Tehama,20140,1105
+,Ballots Cast,,,Tehama,20140,774
+John H Cox,Governor,,REP,Tehama,20140,606
+Gavin Newsom,Governor,,DEM,Tehama,20140,157
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,20140,233
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,20140,268
+Alex Padilla ,Secretary of State,,DEM,Tehama,20140,187
+Mark P Meuser,Secretary of State,,REP,Tehama,20140,574
+Konstantinos Roditis ,Controller,,REP,Tehama,20140,545
+Betty T Yee,Controller,,DEM,Tehama,20140,217
+Greg Conlon,Treasurer,,REP,Tehama,20140,560
+Fiona MA ,Treasurer,,DEM,Tehama,20140,190
+Steven C Bailey,Attorney General,,REP,Tehama,20140,588
+Xavier Becerra,Attorney General,,DEM,Tehama,20140,173
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,20140,145
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,20140,557
+Dianne Feinstein,US Senate ,,DEM,Tehama,20140,184
+Kevin De Leon,US Senate ,,DEM,Tehama,20140,408
+Doug La Malfa ,US House,1,REP,Tehama,20140,553
+Audrey Denney,US House,1,DEM,Tehama,20140,208
+James Nielsen,State Senate,4,REP,Tehama,20140,594
+Phillip Kim,State Senate,4,DEM,Tehama,20140,166
+James Gallagher,State Assembly,3,REP,Tehama,20140,596
+Sonia Aery,State Assembly,3,DEM,Tehama,20140,168
+,Registered Voters,,,Tehama,20160,305
+,Ballots Cast,,,Tehama,20160,188
+John H Cox,Governor,,REP,Tehama,20160,139
+Gavin Newsom,Governor,,DEM,Tehama,20160,47
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,20160,74
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,20160,70
+Alex Padilla ,Secretary of State,,DEM,Tehama,20160,51
+Mark P Meuser,Secretary of State,,REP,Tehama,20160,131
+Konstantinos Roditis ,Controller,,REP,Tehama,20160,126
+Betty T Yee,Controller,,DEM,Tehama,20160,54
+Greg Conlon,Treasurer,,REP,Tehama,20160,130
+Fiona MA ,Treasurer,,DEM,Tehama,20160,49
+Steven C Bailey,Attorney General,,REP,Tehama,20160,134
+Xavier Becerra,Attorney General,,DEM,Tehama,20160,48
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,20160,42
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,20160,132
+Dianne Feinstein,US Senate ,,DEM,Tehama,20160,44
+Kevin De Leon,US Senate ,,DEM,Tehama,20160,106
+Doug La Malfa ,US House,1,REP,Tehama,20160,129
+Audrey Denney,US House,1,DEM,Tehama,20160,56
+James Nielsen,State Senate,4,REP,Tehama,20160,141
+Phillip Kim,State Senate,4,DEM,Tehama,20160,43
+James Gallagher,State Assembly,3,REP,Tehama,20160,
+Sonia Aery,State Assembly,3,DEM,Tehama,20160,
+,Registered Voters,,,Tehama,20170,513
+,Ballots Cast,,,Tehama,20170,314
+John H Cox,Governor,,REP,Tehama,20170,232
+Gavin Newsom,Governor,,DEM,Tehama,20170,78
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,20170,114
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,20170,112
+Alex Padilla ,Secretary of State,,DEM,Tehama,20170,83
+Mark P Meuser,Secretary of State,,REP,Tehama,20170,216
+Konstantinos Roditis ,Controller,,REP,Tehama,20170,203
+Betty T Yee,Controller,,DEM,Tehama,20170,97
+Greg Conlon,Treasurer,,REP,Tehama,20170,210
+Fiona MA ,Treasurer,,DEM,Tehama,20170,89
+Steven C Bailey,Attorney General,,REP,Tehama,20170,216
+Xavier Becerra,Attorney General,,DEM,Tehama,20170,85
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,20170,77
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,20170,215
+Dianne Feinstein,US Senate ,,DEM,Tehama,20170,73
+Kevin De Leon,US Senate ,,DEM,Tehama,20170,195
+Doug La Malfa ,US House,1,REP,Tehama,20170,215
+Audrey Denney,US House,1,DEM,Tehama,20170,95
+James Nielsen,State Senate,4,REP,Tehama,20170,223
+Phillip Kim,State Senate,4,DEM,Tehama,20170,85
+James Gallagher,State Assembly,3,REP,Tehama,20170,225
+Sonia Aery,State Assembly,3,DEM,Tehama,20170,82
+,Registered Voters,,,Tehama,20250,696
+,Ballots Cast,,,Tehama,20250,532
+John H Cox,Governor,,REP,Tehama,20250,424
+Gavin Newsom,Governor,,DEM,Tehama,20250,100
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,20250,178
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,20250,168
+Alex Padilla ,Secretary of State,,DEM,Tehama,20250,108
+Mark P Meuser,Secretary of State,,REP,Tehama,20250,412
+Konstantinos Roditis ,Controller,,REP,Tehama,20250,388
+Betty T Yee,Controller,,DEM,Tehama,20250,130
+Greg Conlon,Treasurer,,REP,Tehama,20250,404
+Fiona MA ,Treasurer,,DEM,Tehama,20250,114
+Steven C Bailey,Attorney General,,REP,Tehama,20250,415
+Xavier Becerra,Attorney General,,DEM,Tehama,20250,105
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,20250,98
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,20250,381
+Dianne Feinstein,US Senate ,,DEM,Tehama,20250,120
+Kevin De Leon,US Senate ,,DEM,Tehama,20250,287
+Doug La Malfa ,US House,1,REP,Tehama,20250,407
+Audrey Denney,US House,1,DEM,Tehama,20250,119
+James Nielsen,State Senate,4,REP,Tehama,20250,431
+Phillip Kim,State Senate,4,DEM,Tehama,20250,91
+James Gallagher,State Assembly,3,REP,Tehama,20250,428
+Sonia Aery,State Assembly,3,DEM,Tehama,20250,95
+,Registered Voters,,,Tehama,20255,550
+,Ballots Cast,,,Tehama,20255,397
+John H Cox,Governor,,REP,Tehama,20255,309
+Gavin Newsom,Governor,,DEM,Tehama,20255,85
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,20255,140
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,20255,103
+Alex Padilla ,Secretary of State,,DEM,Tehama,20255,96
+Mark P Meuser,Secretary of State,,REP,Tehama,20255,294
+Konstantinos Roditis ,Controller,,REP,Tehama,20255,287
+Betty T Yee,Controller,,DEM,Tehama,20255,102
+Greg Conlon,Treasurer,,REP,Tehama,20255,296
+Fiona MA ,Treasurer,,DEM,Tehama,20255,88
+Steven C Bailey,Attorney General,,REP,Tehama,20255,299
+Xavier Becerra,Attorney General,,DEM,Tehama,20255,87
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,20255,78
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,20255,277
+Dianne Feinstein,US Senate ,,DEM,Tehama,20255,92
+Kevin De Leon,US Senate ,,DEM,Tehama,20255,211
+Doug La Malfa ,US House,1,REP,Tehama,20255,293
+Audrey Denney,US House,1,DEM,Tehama,20255,99
+James Nielsen,State Senate,4,REP,Tehama,20255,310
+Phillip Kim,State Senate,4,DEM,Tehama,20255,81
+James Gallagher,State Assembly,3,REP,Tehama,20255,309
+Sonia Aery,State Assembly,3,DEM,Tehama,20255,79
+,Registered Voters,,,Tehama,22190,1261
+,Ballots Cast,,,Tehama,22190,605
+John H Cox,Governor,,REP,Tehama,22190,365
+Gavin Newsom,Governor,,DEM,Tehama,22190,234
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,22190,248
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,22190,228
+Alex Padilla ,Secretary of State,,DEM,Tehama,22190,267
+Mark P Meuser,Secretary of State,,REP,Tehama,22190,322
+Konstantinos Roditis ,Controller,,REP,Tehama,22190,320
+Betty T Yee,Controller,,DEM,Tehama,22190,271
+Greg Conlon,Treasurer,,REP,Tehama,22190,334
+Fiona MA ,Treasurer,,DEM,Tehama,22190,260
+Steven C Bailey,Attorney General,,REP,Tehama,22190,350
+Xavier Becerra,Attorney General,,DEM,Tehama,22190,244
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,22190,205
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,22190,360
+Dianne Feinstein,US Senate ,,DEM,Tehama,22190,181
+Kevin De Leon,US Senate ,,DEM,Tehama,22190,343
+Doug La Malfa ,US House,1,REP,Tehama,22190,333
+Audrey Denney,US House,1,DEM,Tehama,22190,262
+James Nielsen,State Senate,4,REP,Tehama,22190,351
+Phillip Kim,State Senate,4,DEM,Tehama,22190,237
+James Gallagher,State Assembly,3,REP,Tehama,22190,351
+Sonia Aery,State Assembly,3,DEM,Tehama,22190,238
+,Registered Voters,,,Tehama,22230,1296
+,Ballots Cast,,,Tehama,22230,661
+John H Cox,Governor,,REP,Tehama,22230,448
+Gavin Newsom,Governor,,DEM,Tehama,22230,206
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,22230,251
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,22230,227
+Alex Padilla ,Secretary of State,,DEM,Tehama,22230,247
+Mark P Meuser,Secretary of State,,REP,Tehama,22230,397
+Konstantinos Roditis ,Controller,,REP,Tehama,22230,387
+Betty T Yee,Controller,,DEM,Tehama,22230,256
+Greg Conlon,Treasurer,,REP,Tehama,22230,408
+Fiona MA ,Treasurer,,DEM,Tehama,22230,233
+Steven C Bailey,Attorney General,,REP,Tehama,22230,419
+Xavier Becerra,Attorney General,,DEM,Tehama,22230,221
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,22230,193
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,22230,413
+Dianne Feinstein,US Senate ,,DEM,Tehama,22230,176
+Kevin De Leon,US Senate ,,DEM,Tehama,22230,353
+Doug La Malfa ,US House,1,REP,Tehama,22230,396
+Audrey Denney,US House,1,DEM,Tehama,22230,256
+James Nielsen,State Senate,4,REP,Tehama,22230,432
+Phillip Kim,State Senate,4,DEM,Tehama,22230,215
+James Gallagher,State Assembly,3,REP,Tehama,22230,419
+Sonia Aery,State Assembly,3,DEM,Tehama,22230,220
+,Registered Voters,,,Tehama,22240,850
+,Ballots Cast,,,Tehama,22240,494
+John H Cox,Governor,,REP,Tehama,22240,332
+Gavin Newsom,Governor,,DEM,Tehama,22240,152
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,22240,195
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,22240,174
+Alex Padilla ,Secretary of State,,DEM,Tehama,22240,174
+Mark P Meuser,Secretary of State,,REP,Tehama,22240,305
+Konstantinos Roditis ,Controller,,REP,Tehama,22240,291
+Betty T Yee,Controller,,DEM,Tehama,22240,185
+Greg Conlon,Treasurer,,REP,Tehama,22240,292
+Fiona MA ,Treasurer,,DEM,Tehama,22240,178
+Steven C Bailey,Attorney General,,REP,Tehama,22240,311
+Xavier Becerra,Attorney General,,DEM,Tehama,22240,165
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,22240,136
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,22240,311
+Dianne Feinstein,US Senate ,,DEM,Tehama,22240,123
+Kevin De Leon,US Senate ,,DEM,Tehama,22240,273
+Doug La Malfa ,US House,1,REP,Tehama,22240,298
+Audrey Denney,US House,1,DEM,Tehama,22240,188
+James Nielsen,State Senate,4,REP,Tehama,22240,327
+Phillip Kim,State Senate,4,DEM,Tehama,22240,150
+James Gallagher,State Assembly,3,REP,Tehama,22240,317
+Sonia Aery,State Assembly,3,DEM,Tehama,22240,160
+,Registered Voters,,,Tehama,30010,543
+,Ballots Cast,,,Tehama,30010,390
+John H Cox,Governor,,REP,Tehama,30010,295
+Gavin Newsom,Governor,,DEM,Tehama,30010,89
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30010,122
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30010,128
+Alex Padilla ,Secretary of State,,DEM,Tehama,30010,108
+Mark P Meuser,Secretary of State,,REP,Tehama,30010,268
+Konstantinos Roditis ,Controller,,REP,Tehama,30010,269
+Betty T Yee,Controller,,DEM,Tehama,30010,110
+Greg Conlon,Treasurer,,REP,Tehama,30010,274
+Fiona MA ,Treasurer,,DEM,Tehama,30010,103
+Steven C Bailey,Attorney General,,REP,Tehama,30010,278
+Xavier Becerra,Attorney General,,DEM,Tehama,30010,102
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30010,83
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30010,262
+Dianne Feinstein,US Senate ,,DEM,Tehama,30010,86
+Kevin De Leon,US Senate ,,DEM,Tehama,30010,214
+Doug La Malfa ,US House,1,REP,Tehama,30010,270
+Audrey Denney,US House,1,DEM,Tehama,30010,116
+James Nielsen,State Senate,4,REP,Tehama,30010,288
+Phillip Kim,State Senate,4,DEM,Tehama,30010,91
+James Gallagher,State Assembly,3,REP,Tehama,30010,284
+Sonia Aery,State Assembly,3,DEM,Tehama,30010,95
+,Registered Voters,,,Tehama,30015,105
+,Ballots Cast,,,Tehama,30015,85
+John H Cox,Governor,,REP,Tehama,30015,62
+Gavin Newsom,Governor,,DEM,Tehama,30015,23
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30015,24
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30015,29
+Alex Padilla ,Secretary of State,,DEM,Tehama,30015,27
+Mark P Meuser,Secretary of State,,REP,Tehama,30015,58
+Konstantinos Roditis ,Controller,,REP,Tehama,30015,58
+Betty T Yee,Controller,,DEM,Tehama,30015,27
+Greg Conlon,Treasurer,,REP,Tehama,30015,58
+Fiona MA ,Treasurer,,DEM,Tehama,30015,27
+Steven C Bailey,Attorney General,,REP,Tehama,30015,58
+Xavier Becerra,Attorney General,,DEM,Tehama,30015,25
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30015,20
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30015,58
+Dianne Feinstein,US Senate ,,DEM,Tehama,30015,22
+Kevin De Leon,US Senate ,,DEM,Tehama,30015,38
+Doug La Malfa ,US House,1,REP,Tehama,30015,53
+Audrey Denney,US House,1,DEM,Tehama,30015,32
+James Nielsen,State Senate,4,REP,Tehama,30015,63
+Phillip Kim,State Senate,4,DEM,Tehama,30015,21
+James Gallagher,State Assembly,3,REP,Tehama,30015,61
+Sonia Aery,State Assembly,3,DEM,Tehama,30015,23
+,Registered Voters,,,Tehama,30120,1917
+,Ballots Cast,,,Tehama,30120,1344
+John H Cox,Governor,,REP,Tehama,30120,1009
+Gavin Newsom,Governor,,DEM,Tehama,30120,321
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30120,386
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30120,496
+Alex Padilla ,Secretary of State,,DEM,Tehama,30120,388
+Mark P Meuser,Secretary of State,,REP,Tehama,30120,931
+Konstantinos Roditis ,Controller,,REP,Tehama,30120,912
+Betty T Yee,Controller,,DEM,Tehama,30120,402
+Greg Conlon,Treasurer,,REP,Tehama,30120,924
+Fiona MA ,Treasurer,,DEM,Tehama,30120,391
+Steven C Bailey,Attorney General,,REP,Tehama,30120,953
+Xavier Becerra,Attorney General,,DEM,Tehama,30120,367
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30120,297
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30120,926
+Dianne Feinstein,US Senate ,,DEM,Tehama,30120,335
+Kevin De Leon,US Senate ,,DEM,Tehama,30120,684
+Doug La Malfa ,US House,1,REP,Tehama,30120,925
+Audrey Denney,US House,1,DEM,Tehama,30120,404
+James Nielsen,State Senate,4,REP,Tehama,30120,960
+Phillip Kim,State Senate,4,DEM,Tehama,30120,354
+James Gallagher,State Assembly,3,REP,Tehama,30120,961
+Sonia Aery,State Assembly,3,DEM,Tehama,30120,352
+,Registered Voters,,,Tehama,30260,1212
+,Ballots Cast,,,Tehama,30260,773
+John H Cox,Governor,,REP,Tehama,30260,542
+Gavin Newsom,Governor,,DEM,Tehama,30260,223
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30260,230
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30260,309
+Alex Padilla ,Secretary of State,,DEM,Tehama,30260,258
+Mark P Meuser,Secretary of State,,REP,Tehama,30260,496
+Konstantinos Roditis ,Controller,,REP,Tehama,30260,484
+Betty T Yee,Controller,,DEM,Tehama,30260,269
+Greg Conlon,Treasurer,,REP,Tehama,30260,501
+Fiona MA ,Treasurer,,DEM,Tehama,30260,251
+Steven C Bailey,Attorney General,,REP,Tehama,30260,509
+Xavier Becerra,Attorney General,,DEM,Tehama,30260,243
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30260,200
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30260,500
+Dianne Feinstein,US Senate ,,DEM,Tehama,30260,198
+Kevin De Leon,US Senate ,,DEM,Tehama,30260,408
+Doug La Malfa ,US House,1,REP,Tehama,30260,507
+Audrey Denney,US House,1,DEM,Tehama,30260,260
+James Nielsen,State Senate,4,REP,Tehama,30260,543
+Phillip Kim,State Senate,4,DEM,Tehama,30260,215
+James Gallagher,State Assembly,3,REP,Tehama,30260,536
+Sonia Aery,State Assembly,3,DEM,Tehama,30260,217
+,Registered Voters,,,Tehama,30270,734
+,Ballots Cast,,,Tehama,30270,459
+John H Cox,Governor,,REP,Tehama,30270,306
+Gavin Newsom,Governor,,DEM,Tehama,30270,146
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30270,164
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30270,161
+Alex Padilla ,Secretary of State,,DEM,Tehama,30270,164
+Mark P Meuser,Secretary of State,,REP,Tehama,30270,284
+Konstantinos Roditis ,Controller,,REP,Tehama,30270,265
+Betty T Yee,Controller,,DEM,Tehama,30270,178
+Greg Conlon,Treasurer,,REP,Tehama,30270,280
+Fiona MA ,Treasurer,,DEM,Tehama,30270,164
+Steven C Bailey,Attorney General,,REP,Tehama,30270,281
+Xavier Becerra,Attorney General,,DEM,Tehama,30270,168
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30270,131
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30270,282
+Dianne Feinstein,US Senate ,,DEM,Tehama,30270,159
+Kevin De Leon,US Senate ,,DEM,Tehama,30270,215
+Doug La Malfa ,US House,1,REP,Tehama,30270,273
+Audrey Denney,US House,1,DEM,Tehama,30270,178
+James Nielsen,State Senate,4,REP,Tehama,30270,296
+Phillip Kim,State Senate,4,DEM,Tehama,30270,153
+James Gallagher,State Assembly,3,REP,Tehama,30270,296
+Sonia Aery,State Assembly,3,DEM,Tehama,30270,154
+,Registered Voters,,,Tehama,30280,1064
+,Ballots Cast,,,Tehama,30280,742
+John H Cox,Governor,,REP,Tehama,30280,568
+Gavin Newsom,Governor,,DEM,Tehama,30280,166
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30280,219
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30280,253
+Alex Padilla ,Secretary of State,,DEM,Tehama,30280,215
+Mark P Meuser,Secretary of State,,REP,Tehama,30280,515
+Konstantinos Roditis ,Controller,,REP,Tehama,30280,501
+Betty T Yee,Controller,,DEM,Tehama,30280,228
+Greg Conlon,Treasurer,,REP,Tehama,30280,521
+Fiona MA ,Treasurer,,DEM,Tehama,30280,208
+Steven C Bailey,Attorney General,,REP,Tehama,30280,536
+Xavier Becerra,Attorney General,,DEM,Tehama,30280,193
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30280,171
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30280,504
+Dianne Feinstein,US Senate ,,DEM,Tehama,30280,176
+Kevin De Leon,US Senate ,,DEM,Tehama,30280,380
+Doug La Malfa ,US House,1,REP,Tehama,30280,517
+Audrey Denney,US House,1,DEM,Tehama,30280,218
+James Nielsen,State Senate,4,REP,Tehama,30280,556
+Phillip Kim,State Senate,4,DEM,Tehama,30280,178
+James Gallagher,State Assembly,3,REP,Tehama,30280,552
+Sonia Aery,State Assembly,3,DEM,Tehama,30280,181
+,Registered Voters,,,Tehama,30300,676
+,Ballots Cast,,,Tehama,30300,459
+John H Cox,Governor,,REP,Tehama,30300,333
+Gavin Newsom,Governor,,DEM,Tehama,30300,120
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30300,138
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30300,174
+Alex Padilla ,Secretary of State,,DEM,Tehama,30300,144
+Mark P Meuser,Secretary of State,,REP,Tehama,30300,310
+Konstantinos Roditis ,Controller,,REP,Tehama,30300,298
+Betty T Yee,Controller,,DEM,Tehama,30300,153
+Greg Conlon,Treasurer,,REP,Tehama,30300,305
+Fiona MA ,Treasurer,,DEM,Tehama,30300,144
+Steven C Bailey,Attorney General,,REP,Tehama,30300,311
+Xavier Becerra,Attorney General,,DEM,Tehama,30300,140
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30300,110
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30300,304
+Dianne Feinstein,US Senate ,,DEM,Tehama,30300,100
+Kevin De Leon,US Senate ,,DEM,Tehama,30300,244
+Doug La Malfa ,US House,1,REP,Tehama,30300,318
+Audrey Denney,US House,1,DEM,Tehama,30300,138
+James Nielsen,State Senate,4,REP,Tehama,30300,334
+Phillip Kim,State Senate,4,DEM,Tehama,30300,119
+James Gallagher,State Assembly,3,REP,Tehama,30300,328
+Sonia Aery,State Assembly,3,DEM,Tehama,30300,126
+,Registered Voters,,,Tehama,30320,199
+,Ballots Cast,,,Tehama,30320,151
+John H Cox,Governor,,REP,Tehama,30320,96
+Gavin Newsom,Governor,,DEM,Tehama,30320,54
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30320,34
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30320,79
+Alex Padilla ,Secretary of State,,DEM,Tehama,30320,59
+Mark P Meuser,Secretary of State,,REP,Tehama,30320,91
+Konstantinos Roditis ,Controller,,REP,Tehama,30320,84
+Betty T Yee,Controller,,DEM,Tehama,30320,66
+Greg Conlon,Treasurer,,REP,Tehama,30320,84
+Fiona MA ,Treasurer,,DEM,Tehama,30320,66
+Steven C Bailey,Attorney General,,REP,Tehama,30320,87
+Xavier Becerra,Attorney General,,DEM,Tehama,30320,63
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30320,47
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30320,96
+Dianne Feinstein,US Senate ,,DEM,Tehama,30320,47
+Kevin De Leon,US Senate ,,DEM,Tehama,30320,76
+Doug La Malfa ,US House,1,REP,Tehama,30320,85
+Audrey Denney,US House,1,DEM,Tehama,30320,65
+James Nielsen,State Senate,4,REP,Tehama,30320,90
+Phillip Kim,State Senate,4,DEM,Tehama,30320,61
+James Gallagher,State Assembly,3,REP,Tehama,30320,89
+Sonia Aery,State Assembly,3,DEM,Tehama,30320,62
+,Registered Voters,,,Tehama,30330,109
+,Ballots Cast,,,Tehama,30330,84
+John H Cox,Governor,,REP,Tehama,30330,48
+Gavin Newsom,Governor,,DEM,Tehama,30330,35
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30330,12
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30330,43
+Alex Padilla ,Secretary of State,,DEM,Tehama,30330,35
+Mark P Meuser,Secretary of State,,REP,Tehama,30330,47
+Konstantinos Roditis ,Controller,,REP,Tehama,30330,44
+Betty T Yee,Controller,,DEM,Tehama,30330,38
+Greg Conlon,Treasurer,,REP,Tehama,30330,48
+Fiona MA ,Treasurer,,DEM,Tehama,30330,33
+Steven C Bailey,Attorney General,,REP,Tehama,30330,50
+Xavier Becerra,Attorney General,,DEM,Tehama,30330,32
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30330,27
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30330,50
+Dianne Feinstein,US Senate ,,DEM,Tehama,30330,28
+Kevin De Leon,US Senate ,,DEM,Tehama,30330,40
+Doug La Malfa ,US House,1,REP,Tehama,30330,47
+Audrey Denney,US House,1,DEM,Tehama,30330,37
+James Nielsen,State Senate,4,REP,Tehama,30330,49
+Phillip Kim,State Senate,4,DEM,Tehama,30330,34
+James Gallagher,State Assembly,3,REP,Tehama,30330,48
+Sonia Aery,State Assembly,3,DEM,Tehama,30330,35
+,Registered Voters,,,Tehama,30340,210
+,Ballots Cast,,,Tehama,30340,135
+John H Cox,Governor,,REP,Tehama,30340,100
+Gavin Newsom,Governor,,DEM,Tehama,30340,30
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,30340,41
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,30340,42
+Alex Padilla ,Secretary of State,,DEM,Tehama,30340,35
+Mark P Meuser,Secretary of State,,REP,Tehama,30340,94
+Konstantinos Roditis ,Controller,,REP,Tehama,30340,84
+Betty T Yee,Controller,,DEM,Tehama,30340,43
+Greg Conlon,Treasurer,,REP,Tehama,30340,88
+Fiona MA ,Treasurer,,DEM,Tehama,30340,40
+Steven C Bailey,Attorney General,,REP,Tehama,30340,93
+Xavier Becerra,Attorney General,,DEM,Tehama,30340,37
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,30340,32
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,30340,89
+Dianne Feinstein,US Senate ,,DEM,Tehama,30340,31
+Kevin De Leon,US Senate ,,DEM,Tehama,30340,61
+Doug La Malfa ,US House,1,REP,Tehama,30340,88
+Audrey Denney,US House,1,DEM,Tehama,30340,43
+James Nielsen,State Senate,4,REP,Tehama,30340,93
+Phillip Kim,State Senate,4,DEM,Tehama,30340,36
+James Gallagher,State Assembly,3,REP,Tehama,30340,95
+Sonia Aery,State Assembly,3,DEM,Tehama,30340,37
+,Registered Voters,,,Tehama,32350,652
+,Ballots Cast,,,Tehama,32350,323
+John H Cox,Governor,,REP,Tehama,32350,210
+Gavin Newsom,Governor,,DEM,Tehama,32350,111
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,32350,116
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,32350,135
+Alex Padilla ,Secretary of State,,DEM,Tehama,32350,136
+Mark P Meuser,Secretary of State,,REP,Tehama,32350,182
+Konstantinos Roditis ,Controller,,REP,Tehama,32350,180
+Betty T Yee,Controller,,DEM,Tehama,32350,137
+Greg Conlon,Treasurer,,REP,Tehama,32350,184
+Fiona MA ,Treasurer,,DEM,Tehama,32350,133
+Steven C Bailey,Attorney General,,REP,Tehama,32350,189
+Xavier Becerra,Attorney General,,DEM,Tehama,32350,129
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,32350,110
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,32350,187
+Dianne Feinstein,US Senate ,,DEM,Tehama,32350,104
+Kevin De Leon,US Senate ,,DEM,Tehama,32350,163
+Doug La Malfa ,US House,1,REP,Tehama,32350,183
+Audrey Denney,US House,1,DEM,Tehama,32350,136
+James Nielsen,State Senate,4,REP,Tehama,32350,207
+Phillip Kim,State Senate,4,DEM,Tehama,32350,112
+James Gallagher,State Assembly,3,REP,Tehama,32350,200
+Sonia Aery,State Assembly,3,DEM,Tehama,32350,120
+,Registered Voters,,,Tehama,40180,168
+,Ballots Cast,,,Tehama,40180,136
+John H Cox,Governor,,REP,Tehama,40180,99
+Gavin Newsom,Governor,,DEM,Tehama,40180,37
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40180,28
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40180,61
+Alex Padilla ,Secretary of State,,DEM,Tehama,40180,38
+Mark P Meuser,Secretary of State,,REP,Tehama,40180,97
+Konstantinos Roditis ,Controller,,REP,Tehama,40180,90
+Betty T Yee,Controller,,DEM,Tehama,40180,42
+Greg Conlon,Treasurer,,REP,Tehama,40180,93
+Fiona MA ,Treasurer,,DEM,Tehama,40180,41
+Steven C Bailey,Attorney General,,REP,Tehama,40180,97
+Xavier Becerra,Attorney General,,DEM,Tehama,40180,37
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40180,29
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40180,97
+Dianne Feinstein,US Senate ,,DEM,Tehama,40180,48
+Kevin De Leon,US Senate ,,DEM,Tehama,40180,53
+Doug La Malfa ,US House,1,REP,Tehama,40180,94
+Audrey Denney,US House,1,DEM,Tehama,40180,41
+James Nielsen,State Senate,4,REP,Tehama,40180,102
+Phillip Kim,State Senate,4,DEM,Tehama,40180,33
+James Gallagher,State Assembly,3,REP,Tehama,40180,97
+Sonia Aery,State Assembly,3,DEM,Tehama,40180,37
+,Registered Voters,,,Tehama,40360,1145
+,Ballots Cast,,,Tehama,40360,728
+John H Cox,Governor,,REP,Tehama,40360,547
+Gavin Newsom,Governor,,DEM,Tehama,40360,175
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40360,255
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40360,259
+Alex Padilla ,Secretary of State,,DEM,Tehama,40360,211
+Mark P Meuser,Secretary of State,,REP,Tehama,40360,503
+Konstantinos Roditis ,Controller,,REP,Tehama,40360,483
+Betty T Yee,Controller,,DEM,Tehama,40360,226
+Greg Conlon,Treasurer,,REP,Tehama,40360,502
+Fiona MA ,Treasurer,,DEM,Tehama,40360,208
+Steven C Bailey,Attorney General,,REP,Tehama,40360,517
+Xavier Becerra,Attorney General,,DEM,Tehama,40360,198
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40360,191
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40360,477
+Dianne Feinstein,US Senate ,,DEM,Tehama,40360,165
+Kevin De Leon,US Senate ,,DEM,Tehama,40360,411
+Doug La Malfa ,US House,1,REP,Tehama,40360,497
+Audrey Denney,US House,1,DEM,Tehama,40360,225
+James Nielsen,State Senate,4,REP,Tehama,40360,533
+Phillip Kim,State Senate,4,DEM,Tehama,40360,185
+James Gallagher,State Assembly,3,REP,Tehama,40360,522
+Sonia Aery,State Assembly,3,DEM,Tehama,40360,197
+,Registered Voters,,,Tehama,40365,21
+,Ballots Cast,,,Tehama,40365,14
+John H Cox,Governor,,REP,Tehama,40365,9
+Gavin Newsom,Governor,,DEM,Tehama,40365,4
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40365,3
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40365,9
+Alex Padilla ,Secretary of State,,DEM,Tehama,40365,5
+Mark P Meuser,Secretary of State,,REP,Tehama,40365,9
+Konstantinos Roditis ,Controller,,REP,Tehama,40365,8
+Betty T Yee,Controller,,DEM,Tehama,40365,6
+Greg Conlon,Treasurer,,REP,Tehama,40365,9
+Fiona MA ,Treasurer,,DEM,Tehama,40365,5
+Steven C Bailey,Attorney General,,REP,Tehama,40365,9
+Xavier Becerra,Attorney General,,DEM,Tehama,40365,5
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40365,4
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40365,10
+Dianne Feinstein,US Senate ,,DEM,Tehama,40365,4
+Kevin De Leon,US Senate ,,DEM,Tehama,40365,10
+Doug La Malfa ,US House,1,REP,Tehama,40365,9
+Audrey Denney,US House,1,DEM,Tehama,40365,5
+James Nielsen,State Senate,4,REP,Tehama,40365,10
+Phillip Kim,State Senate,4,DEM,Tehama,40365,4
+James Gallagher,State Assembly,3,REP,Tehama,40365,10
+Sonia Aery,State Assembly,3,DEM,Tehama,40365,4
+,Registered Voters,,,Tehama,40420,750
+,Ballots Cast,,,Tehama,40420,470
+John H Cox,Governor,,REP,Tehama,40420,340
+Gavin Newsom,Governor,,DEM,Tehama,40420,126
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40420,170
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40420,172
+Alex Padilla ,Secretary of State,,DEM,Tehama,40420,145
+Mark P Meuser,Secretary of State,,REP,Tehama,40420,322
+Konstantinos Roditis ,Controller,,REP,Tehama,40420,308
+Betty T Yee,Controller,,DEM,Tehama,40420,156
+Greg Conlon,Treasurer,,REP,Tehama,40420,321
+Fiona MA ,Treasurer,,DEM,Tehama,40420,146
+Steven C Bailey,Attorney General,,REP,Tehama,40420,334
+Xavier Becerra,Attorney General,,DEM,Tehama,40420,131
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40420,125
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40420,328
+Dianne Feinstein,US Senate ,,DEM,Tehama,40420,112
+Kevin De Leon,US Senate ,,DEM,Tehama,40420,284
+Doug La Malfa ,US House,1,REP,Tehama,40420,319
+Audrey Denney,US House,1,DEM,Tehama,40420,151
+James Nielsen,State Senate,4,REP,Tehama,40420,336
+Phillip Kim,State Senate,4,DEM,Tehama,40420,132
+James Gallagher,State Assembly,3,REP,Tehama,40420,336
+Sonia Aery,State Assembly,3,DEM,Tehama,40420,131
+,Registered Voters,,,Tehama,40430,155
+,Ballots Cast,,,Tehama,40430,121
+John H Cox,Governor,,REP,Tehama,40430,96
+Gavin Newsom,Governor,,DEM,Tehama,40430,21
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40430,35
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40430,33
+Alex Padilla ,Secretary of State,,DEM,Tehama,40430,28
+Mark P Meuser,Secretary of State,,REP,Tehama,40430,89
+Konstantinos Roditis ,Controller,,REP,Tehama,40430,85
+Betty T Yee,Controller,,DEM,Tehama,40430,33
+Greg Conlon,Treasurer,,REP,Tehama,40430,90
+Fiona MA ,Treasurer,,DEM,Tehama,40430,27
+Steven C Bailey,Attorney General,,REP,Tehama,40430,92
+Xavier Becerra,Attorney General,,DEM,Tehama,40430,24
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40430,18
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40430,91
+Dianne Feinstein,US Senate ,,DEM,Tehama,40430,40
+Kevin De Leon,US Senate ,,DEM,Tehama,40430,53
+Doug La Malfa ,US House,1,REP,Tehama,40430,98
+Audrey Denney,US House,1,DEM,Tehama,40430,22
+James Nielsen,State Senate,4,REP,Tehama,40430,100
+Phillip Kim,State Senate,4,DEM,Tehama,40430,19
+James Gallagher,State Assembly,3,REP,Tehama,40430,100
+Sonia Aery,State Assembly,3,DEM,Tehama,40430,19
+,Registered Voters,,,Tehama,40480,93
+,Ballots Cast,,,Tehama,40480,63
+John H Cox,Governor,,REP,Tehama,40480,49
+Gavin Newsom,Governor,,DEM,Tehama,40480,13
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40480,21
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40480,19
+Alex Padilla ,Secretary of State,,DEM,Tehama,40480,13
+Mark P Meuser,Secretary of State,,REP,Tehama,40480,49
+Konstantinos Roditis ,Controller,,REP,Tehama,40480,45
+Betty T Yee,Controller,,DEM,Tehama,40480,17
+Greg Conlon,Treasurer,,REP,Tehama,40480,47
+Fiona MA ,Treasurer,,DEM,Tehama,40480,15
+Steven C Bailey,Attorney General,,REP,Tehama,40480,48
+Xavier Becerra,Attorney General,,DEM,Tehama,40480,14
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40480,13
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40480,43
+Dianne Feinstein,US Senate ,,DEM,Tehama,40480,18
+Kevin De Leon,US Senate ,,DEM,Tehama,40480,34
+Doug La Malfa ,US House,1,REP,Tehama,40480,49
+Audrey Denney,US House,1,DEM,Tehama,40480,14
+James Nielsen,State Senate,4,REP,Tehama,40480,51
+Phillip Kim,State Senate,4,DEM,Tehama,40480,11
+James Gallagher,State Assembly,3,REP,Tehama,40480,50
+Sonia Aery,State Assembly,3,DEM,Tehama,40480,12
+,Registered Voters,,,Tehama,40485,764
+,Ballots Cast,,,Tehama,40485,418
+John H Cox,Governor,,REP,Tehama,40485,240
+Gavin Newsom,Governor,,DEM,Tehama,40485,171
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40485,155
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40485,190
+Alex Padilla ,Secretary of State,,DEM,Tehama,40485,186
+Mark P Meuser,Secretary of State,,REP,Tehama,40485,226
+Konstantinos Roditis ,Controller,,REP,Tehama,40485,219
+Betty T Yee,Controller,,DEM,Tehama,40485,194
+Greg Conlon,Treasurer,,REP,Tehama,40485,224
+Fiona MA ,Treasurer,,DEM,Tehama,40485,188
+Steven C Bailey,Attorney General,,REP,Tehama,40485,230
+Xavier Becerra,Attorney General,,DEM,Tehama,40485,182
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40485,173
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40485,222
+Dianne Feinstein,US Senate ,,DEM,Tehama,40485,152
+Kevin De Leon,US Senate ,,DEM,Tehama,40485,205
+Doug La Malfa ,US House,1,REP,Tehama,40485,232
+Audrey Denney,US House,1,DEM,Tehama,40485,180
+James Nielsen,State Senate,4,REP,Tehama,40485,233
+Phillip Kim,State Senate,4,DEM,Tehama,40485,177
+James Gallagher,State Assembly,3,REP,Tehama,40485,229
+Sonia Aery,State Assembly,3,DEM,Tehama,40485,180
+,Registered Voters,,,Tehama,40490,623
+,Ballots Cast,,,Tehama,40490,424
+John H Cox,Governor,,REP,Tehama,40490,326
+Gavin Newsom,Governor,,DEM,Tehama,40490,93
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40490,143
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40490,133
+Alex Padilla ,Secretary of State,,DEM,Tehama,40490,122
+Mark P Meuser,Secretary of State,,REP,Tehama,40490,301
+Konstantinos Roditis ,Controller,,REP,Tehama,40490,293
+Betty T Yee,Controller,,DEM,Tehama,40490,120
+Greg Conlon,Treasurer,,REP,Tehama,40490,312
+Fiona MA ,Treasurer,,DEM,Tehama,40490,103
+Steven C Bailey,Attorney General,,REP,Tehama,40490,314
+Xavier Becerra,Attorney General,,DEM,Tehama,40490,99
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40490,97
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40490,293
+Dianne Feinstein,US Senate ,,DEM,Tehama,40490,85
+Kevin De Leon,US Senate ,,DEM,Tehama,40490,242
+Doug La Malfa ,US House,1,REP,Tehama,40490,310
+Audrey Denney,US House,1,DEM,Tehama,40490,111
+James Nielsen,State Senate,4,REP,Tehama,40490,322
+Phillip Kim,State Senate,4,DEM,Tehama,40490,92
+James Gallagher,State Assembly,3,REP,Tehama,40490,321
+Sonia Aery,State Assembly,3,DEM,Tehama,40490,93
+,Registered Voters,,,Tehama,40620,127
+,Ballots Cast,,,Tehama,40620,82
+John H Cox,Governor,,REP,Tehama,40620,70
+Gavin Newsom,Governor,,DEM,Tehama,40620,12
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,40620,24
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,40620,24
+Alex Padilla ,Secretary of State,,DEM,Tehama,40620,15
+Mark P Meuser,Secretary of State,,REP,Tehama,40620,64
+Konstantinos Roditis ,Controller,,REP,Tehama,40620,64
+Betty T Yee,Controller,,DEM,Tehama,40620,16
+Greg Conlon,Treasurer,,REP,Tehama,40620,66
+Fiona MA ,Treasurer,,DEM,Tehama,40620,13
+Steven C Bailey,Attorney General,,REP,Tehama,40620,71
+Xavier Becerra,Attorney General,,DEM,Tehama,40620,10
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,40620,10
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,40620,64
+Dianne Feinstein,US Senate ,,DEM,Tehama,40620,14
+Kevin De Leon,US Senate ,,DEM,Tehama,40620,48
+Doug La Malfa ,US House,1,REP,Tehama,40620,68
+Audrey Denney,US House,1,DEM,Tehama,40620,14
+James Nielsen,State Senate,4,REP,Tehama,40620,70
+Phillip Kim,State Senate,4,DEM,Tehama,40620,12
+James Gallagher,State Assembly,3,REP,Tehama,40620,71
+Sonia Aery,State Assembly,3,DEM,Tehama,40620,10
+,Registered Voters,,,Tehama,41380,986
+,Ballots Cast,,,Tehama,41380,522
+John H Cox,Governor,,REP,Tehama,41380,337
+Gavin Newsom,Governor,,DEM,Tehama,41380,182
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,41380,222
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,41380,189
+Alex Padilla ,Secretary of State,,DEM,Tehama,41380,208
+Mark P Meuser,Secretary of State,,REP,Tehama,41380,301
+Konstantinos Roditis ,Controller,,REP,Tehama,41380,291
+Betty T Yee,Controller,,DEM,Tehama,41380,214
+Greg Conlon,Treasurer,,REP,Tehama,41380,295
+Fiona MA ,Treasurer,,DEM,Tehama,41380,210
+Steven C Bailey,Attorney General,,REP,Tehama,41380,310
+Xavier Becerra,Attorney General,,DEM,Tehama,41380,195
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,41380,180
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,41380,307
+Dianne Feinstein,US Senate ,,DEM,Tehama,41380,165
+Kevin De Leon,US Senate ,,DEM,Tehama,41380,269
+Doug La Malfa ,US House,1,REP,Tehama,41380,290
+Audrey Denney,US House,1,DEM,Tehama,41380,225
+James Nielsen,State Senate,4,REP,Tehama,41380,330
+Phillip Kim,State Senate,4,DEM,Tehama,41380,180
+James Gallagher,State Assembly,3,REP,Tehama,41380,312
+Sonia Aery,State Assembly,3,DEM,Tehama,41380,195
+,Registered Voters,,,Tehama,41400,867
+,Ballots Cast,,,Tehama,41400,385
+John H Cox,Governor,,REP,Tehama,41400,242
+Gavin Newsom,Governor,,DEM,Tehama,41400,140
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,41400,150
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,41400,161
+Alex Padilla ,Secretary of State,,DEM,Tehama,41400,170
+Mark P Meuser,Secretary of State,,REP,Tehama,41400,211
+Konstantinos Roditis ,Controller,,REP,Tehama,41400,206
+Betty T Yee,Controller,,DEM,Tehama,41400,172
+Greg Conlon,Treasurer,,REP,Tehama,41400,216
+Fiona MA ,Treasurer,,DEM,Tehama,41400,162
+Steven C Bailey,Attorney General,,REP,Tehama,41400,220
+Xavier Becerra,Attorney General,,DEM,Tehama,41400,158
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,41400,141
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,41400,224
+Dianne Feinstein,US Senate ,,DEM,Tehama,41400,94
+Kevin De Leon,US Senate ,,DEM,Tehama,41400,240
+Doug La Malfa ,US House,1,REP,Tehama,41400,213
+Audrey Denney,US House,1,DEM,Tehama,41400,168
+James Nielsen,State Senate,4,REP,Tehama,41400,223
+Phillip Kim,State Senate,4,DEM,Tehama,41400,156
+James Gallagher,State Assembly,3,REP,Tehama,41400,221
+Sonia Aery,State Assembly,3,DEM,Tehama,41400,161
+,Registered Voters,,,Tehama,50370,266
+,Ballots Cast,,,Tehama,50370,192
+John H Cox,Governor,,REP,Tehama,50370,136
+Gavin Newsom,Governor,,DEM,Tehama,50370,54
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50370,60
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50370,74
+Alex Padilla ,Secretary of State,,DEM,Tehama,50370,64
+Mark P Meuser,Secretary of State,,REP,Tehama,50370,124
+Konstantinos Roditis ,Controller,,REP,Tehama,50370,121
+Betty T Yee,Controller,,DEM,Tehama,50370,67
+Greg Conlon,Treasurer,,REP,Tehama,50370,128
+Fiona MA ,Treasurer,,DEM,Tehama,50370,60
+Steven C Bailey,Attorney General,,REP,Tehama,50370,130
+Xavier Becerra,Attorney General,,DEM,Tehama,50370,60
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50370,53
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50370,127
+Dianne Feinstein,US Senate ,,DEM,Tehama,50370,51
+Kevin De Leon,US Senate ,,DEM,Tehama,50370,105
+Doug La Malfa ,US House,1,REP,Tehama,50370,120
+Audrey Denney,US House,1,DEM,Tehama,50370,71
+James Nielsen,State Senate,4,REP,Tehama,50370,126
+Phillip Kim,State Senate,4,DEM,Tehama,50370,61
+James Gallagher,State Assembly,3,REP,Tehama,50370,134
+Sonia Aery,State Assembly,3,DEM,Tehama,50370,57
+,Registered Voters,,,Tehama,50450,168
+,Ballots Cast,,,Tehama,50450,129
+John H Cox,Governor,,REP,Tehama,50450,99
+Gavin Newsom,Governor,,DEM,Tehama,50450,28
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50450,32
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50450,45
+Alex Padilla ,Secretary of State,,DEM,Tehama,50450,28
+Mark P Meuser,Secretary of State,,REP,Tehama,50450,99
+Konstantinos Roditis ,Controller,,REP,Tehama,50450,92
+Betty T Yee,Controller,,DEM,Tehama,50450,33
+Greg Conlon,Treasurer,,REP,Tehama,50450,97
+Fiona MA ,Treasurer,,DEM,Tehama,50450,28
+Steven C Bailey,Attorney General,,REP,Tehama,50450,100
+Xavier Becerra,Attorney General,,DEM,Tehama,50450,25
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50450,24
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50450,92
+Dianne Feinstein,US Senate ,,DEM,Tehama,50450,31
+Kevin De Leon,US Senate ,,DEM,Tehama,50450,55
+Doug La Malfa ,US House,1,REP,Tehama,50450,97
+Audrey Denney,US House,1,DEM,Tehama,50450,31
+James Nielsen,State Senate,4,REP,Tehama,50450,104
+Phillip Kim,State Senate,4,DEM,Tehama,50450,23
+James Gallagher,State Assembly,3,REP,Tehama,50450,104
+Sonia Aery,State Assembly,3,DEM,Tehama,50450,24
+,Registered Voters,,,Tehama,50455,37
+,Ballots Cast,,,Tehama,50455,29
+John H Cox,Governor,,REP,Tehama,50455,26
+Gavin Newsom,Governor,,DEM,Tehama,50455,3
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50455,8
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50455,8
+Alex Padilla ,Secretary of State,,DEM,Tehama,50455,4
+Mark P Meuser,Secretary of State,,REP,Tehama,50455,25
+Konstantinos Roditis ,Controller,,REP,Tehama,50455,25
+Betty T Yee,Controller,,DEM,Tehama,50455,4
+Greg Conlon,Treasurer,,REP,Tehama,50455,25
+Fiona MA ,Treasurer,,DEM,Tehama,50455,4
+Steven C Bailey,Attorney General,,REP,Tehama,50455,26
+Xavier Becerra,Attorney General,,DEM,Tehama,50455,3
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50455,4
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50455,22
+Dianne Feinstein,US Senate ,,DEM,Tehama,50455,3
+Kevin De Leon,US Senate ,,DEM,Tehama,50455,13
+Doug La Malfa ,US House,1,REP,Tehama,50455,23
+Audrey Denney,US House,1,DEM,Tehama,50455,5
+James Nielsen,State Senate,4,REP,Tehama,50455,25
+Phillip Kim,State Senate,4,DEM,Tehama,50455,4
+James Gallagher,State Assembly,3,REP,Tehama,50455,26
+Sonia Aery,State Assembly,3,DEM,Tehama,50455,3
+,Registered Voters,,,Tehama,50530,515
+,Ballots Cast,,,Tehama,50530,282
+John H Cox,Governor,,REP,Tehama,50530,176
+Gavin Newsom,Governor,,DEM,Tehama,50530,101
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50530,91
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50530,128
+Alex Padilla ,Secretary of State,,DEM,Tehama,50530,109
+Mark P Meuser,Secretary of State,,REP,Tehama,50530,165
+Konstantinos Roditis ,Controller,,REP,Tehama,50530,160
+Betty T Yee,Controller,,DEM,Tehama,50530,117
+Greg Conlon,Treasurer,,REP,Tehama,50530,166
+Fiona MA ,Treasurer,,DEM,Tehama,50530,108
+Steven C Bailey,Attorney General,,REP,Tehama,50530,168
+Xavier Becerra,Attorney General,,DEM,Tehama,50530,107
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50530,96
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50530,170
+Dianne Feinstein,US Senate ,,DEM,Tehama,50530,76
+Kevin De Leon,US Senate ,,DEM,Tehama,50530,158
+Doug La Malfa ,US House,1,REP,Tehama,50530,155
+Audrey Denney,US House,1,DEM,Tehama,50530,123
+James Nielsen,State Senate,4,REP,Tehama,50530,171
+Phillip Kim,State Senate,4,DEM,Tehama,50530,103
+James Gallagher,State Assembly,3,REP,Tehama,50530,162
+Sonia Aery,State Assembly,3,DEM,Tehama,50530,112
+,Registered Voters,,,Tehama,50560,1089
+,Ballots Cast,,,Tehama,50560,705
+John H Cox,Governor,,REP,Tehama,50560,472
+Gavin Newsom,Governor,,DEM,Tehama,50560,228
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50560,260
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50560,284
+Alex Padilla ,Secretary of State,,DEM,Tehama,50560,274
+Mark P Meuser,Secretary of State,,REP,Tehama,50560,416
+Konstantinos Roditis ,Controller,,REP,Tehama,50560,391
+Betty T Yee,Controller,,DEM,Tehama,50560,292
+Greg Conlon,Treasurer,,REP,Tehama,50560,413
+Fiona MA ,Treasurer,,DEM,Tehama,50560,274
+Steven C Bailey,Attorney General,,REP,Tehama,50560,430
+Xavier Becerra,Attorney General,,DEM,Tehama,50560,259
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50560,226
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50560,427
+Dianne Feinstein,US Senate ,,DEM,Tehama,50560,203
+Kevin De Leon,US Senate ,,DEM,Tehama,50560,384
+Doug La Malfa ,US House,1,REP,Tehama,50560,420
+Audrey Denney,US House,1,DEM,Tehama,50560,275
+James Nielsen,State Senate,4,REP,Tehama,50560,438
+Phillip Kim,State Senate,4,DEM,Tehama,50560,256
+James Gallagher,State Assembly,3,REP,Tehama,50560,450
+Sonia Aery,State Assembly,3,DEM,Tehama,50560,246
+,Registered Voters,,,Tehama,50580,1319
+,Ballots Cast,,,Tehama,50580,817
+John H Cox,Governor,,REP,Tehama,50580,580
+Gavin Newsom,Governor,,DEM,Tehama,50580,226
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50580,272
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50580,320
+Alex Padilla ,Secretary of State,,DEM,Tehama,50580,251
+Mark P Meuser,Secretary of State,,REP,Tehama,50580,550
+Konstantinos Roditis ,Controller,,REP,Tehama,50580,542
+Betty T Yee,Controller,,DEM,Tehama,50580,256
+Greg Conlon,Treasurer,,REP,Tehama,50580,551
+Fiona MA ,Treasurer,,DEM,Tehama,50580,250
+Steven C Bailey,Attorney General,,REP,Tehama,50580,564
+Xavier Becerra,Attorney General,,DEM,Tehama,50580,237
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50580,213
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50580,541
+Dianne Feinstein,US Senate ,,DEM,Tehama,50580,225
+Kevin De Leon,US Senate ,,DEM,Tehama,50580,427
+Doug La Malfa ,US House,1,REP,Tehama,50580,557
+Audrey Denney,US House,1,DEM,Tehama,50580,252
+James Nielsen,State Senate,4,REP,Tehama,50580,578
+Phillip Kim,State Senate,4,DEM,Tehama,50580,219
+James Gallagher,State Assembly,3,REP,Tehama,50580,584
+Sonia Aery,State Assembly,3,DEM,Tehama,50580,216
+,Registered Voters,,,Tehama,50590,926
+,Ballots Cast,,,Tehama,50590,639
+John H Cox,Governor,,REP,Tehama,50590,477
+Gavin Newsom,Governor,,DEM,Tehama,50590,153
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50590,205
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50590,227
+Alex Padilla ,Secretary of State,,DEM,Tehama,50590,176
+Mark P Meuser,Secretary of State,,REP,Tehama,50590,442
+Konstantinos Roditis ,Controller,,REP,Tehama,50590,426
+Betty T Yee,Controller,,DEM,Tehama,50590,196
+Greg Conlon,Treasurer,,REP,Tehama,50590,441
+Fiona MA ,Treasurer,,DEM,Tehama,50590,176
+Steven C Bailey,Attorney General,,REP,Tehama,50590,452
+Xavier Becerra,Attorney General,,DEM,Tehama,50590,163
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50590,141
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50590,432
+Dianne Feinstein,US Senate ,,DEM,Tehama,50590,146
+Kevin De Leon,US Senate ,,DEM,Tehama,50590,348
+Doug La Malfa ,US House,1,REP,Tehama,50590,424
+Audrey Denney,US House,1,DEM,Tehama,50590,207
+James Nielsen,State Senate,4,REP,Tehama,50590,455
+Phillip Kim,State Senate,4,DEM,Tehama,50590,164
+James Gallagher,State Assembly,3,REP,Tehama,50590,457
+Sonia Aery,State Assembly,3,DEM,Tehama,50590,165
+,Registered Voters,,,Tehama,50630,341
+,Ballots Cast,,,Tehama,50630,233
+John H Cox,Governor,,REP,Tehama,50630,184
+Gavin Newsom,Governor,,DEM,Tehama,50630,48
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,50630,86
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,50630,76
+Alex Padilla ,Secretary of State,,DEM,Tehama,50630,57
+Mark P Meuser,Secretary of State,,REP,Tehama,50630,173
+Konstantinos Roditis ,Controller,,REP,Tehama,50630,166
+Betty T Yee,Controller,,DEM,Tehama,50630,62
+Greg Conlon,Treasurer,,REP,Tehama,50630,172
+Fiona MA ,Treasurer,,DEM,Tehama,50630,56
+Steven C Bailey,Attorney General,,REP,Tehama,50630,169
+Xavier Becerra,Attorney General,,DEM,Tehama,50630,61
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,50630,46
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,50630,169
+Dianne Feinstein,US Senate ,,DEM,Tehama,50630,56
+Kevin De Leon,US Senate ,,DEM,Tehama,50630,140
+Doug La Malfa ,US House,1,REP,Tehama,50630,171
+Audrey Denney,US House,1,DEM,Tehama,50630,62
+James Nielsen,State Senate,4,REP,Tehama,50630,180
+Phillip Kim,State Senate,4,DEM,Tehama,50630,50
+James Gallagher,State Assembly,3,REP,Tehama,50630,179
+Sonia Aery,State Assembly,3,DEM,Tehama,50630,50
+,Registered Voters,,,Tehama,51510,1111
+,Ballots Cast,,,Tehama,51510,629
+John H Cox,Governor,,REP,Tehama,51510,414
+Gavin Newsom,Governor,,DEM,Tehama,51510,204
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,51510,270
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,51510,210
+Alex Padilla ,Secretary of State,,DEM,Tehama,51510,228
+Mark P Meuser,Secretary of State,,REP,Tehama,51510,388
+Konstantinos Roditis ,Controller,,REP,Tehama,51510,367
+Betty T Yee,Controller,,DEM,Tehama,51510,245
+Greg Conlon,Treasurer,,REP,Tehama,51510,381
+Fiona MA ,Treasurer,,DEM,Tehama,51510,231
+Steven C Bailey,Attorney General,,REP,Tehama,51510,395
+Xavier Becerra,Attorney General,,DEM,Tehama,51510,221
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,51510,217
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,51510,383
+Dianne Feinstein,US Senate ,,DEM,Tehama,51510,184
+Kevin De Leon,US Senate ,,DEM,Tehama,51510,334
+Doug La Malfa ,US House,1,REP,Tehama,51510,381
+Audrey Denney,US House,1,DEM,Tehama,51510,240
+James Nielsen,State Senate,4,REP,Tehama,51510,402
+Phillip Kim,State Senate,4,DEM,Tehama,51510,211
+James Gallagher,State Assembly,3,REP,Tehama,51510,400
+Sonia Aery,State Assembly,3,DEM,Tehama,51510,215
+,Registered Voters,,,Tehama,53610,229
+,Ballots Cast,,,Tehama,53610,167
+John H Cox,Governor,,REP,Tehama,53610,111
+Gavin Newsom,Governor,,DEM,Tehama,53610,50
+Ed Hernandez,Lieutenant Governor,,DEM,Tehama,53610,52
+Eleni Kounalakis,Lieutenant Governor,,DEM,Tehama,53610,72
+Alex Padilla ,Secretary of State,,DEM,Tehama,53610,59
+Mark P Meuser,Secretary of State,,REP,Tehama,53610,105
+Konstantinos Roditis ,Controller,,REP,Tehama,53610,104
+Betty T Yee,Controller,,DEM,Tehama,53610,57
+Greg Conlon,Treasurer,,REP,Tehama,53610,102
+Fiona MA ,Treasurer,,DEM,Tehama,53610,61
+Steven C Bailey,Attorney General,,REP,Tehama,53610,110
+Xavier Becerra,Attorney General,,DEM,Tehama,53610,53
+Ricargo Lara,Insurance Commissioner,,DEM,Tehama,53610,44
+Steve Poizner ,Insurance Commissioner,,NPP,Tehama,53610,109
+Dianne Feinstein,US Senate ,,DEM,Tehama,53610,40
+Kevin De Leon,US Senate ,,DEM,Tehama,53610,103
+Doug La Malfa ,US House,1,REP,Tehama,53610,103
+Audrey Denney,US House,1,DEM,Tehama,53610,63
+James Nielsen,State Senate,4,REP,Tehama,53610,113
+Phillip Kim,State Senate,4,DEM,Tehama,53610,50
+James Gallagher,State Assembly,3,REP,Tehama,53610,110
+Sonia Aery,State Assembly,3,DEM,Tehama,53610,53
+,,,,,,
