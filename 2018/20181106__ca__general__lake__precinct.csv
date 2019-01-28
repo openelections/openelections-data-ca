@@ -1,0 +1,1707 @@
+county,precinct,office,district,party,candidate,votes
+Lake,111MIDDLETOWN,Governor,,Rep,John Cox,218
+Lake,112CENTRAL PARK,Governor,,Rep,John Cox,139
+Lake,113HIDDEN VALLEY 1,Governor,,Rep,John Cox,287
+Lake,114HIDDEN VALLEY 2,Governor,,Rep,John Cox,224
+Lake,115HIDDEN VALLEY 3,Governor,,Rep,John Cox,277
+Lake,116HIDDEN VALLEY 4,Governor,,Rep,John Cox,293
+Lake,117HV RANCHOS,Governor,,Rep,John Cox,92
+Lake,118SPRUCE GROVE,Governor,,Rep,John Cox,74
+Lake,119JERUSALEM,Governor,,Rep,John Cox,6
+Lake,120COYOTE VALLEY,Governor,,Rep,John Cox,55
+Lake,121TWIN LAKES,Governor,,Rep,John Cox,212
+Lake,122LOWER LAKE,Governor,,Rep,John Cox,132
+Lake,123PERINI HILL,Governor,,Rep,John Cox,7
+Lake,124BELL PARK,Governor,,Rep,John Cox,37
+Lake,131MORGAN VALLEY,Governor,,Rep,John Cox,10
+Lake,132BUCK ISLAND,Governor,,Rep,John Cox,1
+Lake,141CL REDBUD,Governor,,Rep,John Cox,129
+Lake,142CL VILLAGE,Governor,,Rep,John Cox,108
+Lake,211CL MONITOR PT,Governor,,Rep,John Cox,184
+Lake,212CL BURNS VALLEY,Governor,,Rep,John Cox,158
+Lake,213CL AUSTIN PARK,Governor,,Rep,John Cox,221
+Lake,214CL PALMER,Governor,,Rep,John Cox,151
+Lake,215CL DAVIS,Governor,,Rep,John Cox,153
+Lake,216CL MOLESWORTH,Governor,,Rep,John Cox,139
+Lake,217CL PIERCE,Governor,,Rep,John Cox,151
+Lake,222BALLY PEAK,Governor,,Rep,John Cox,5
+Lake,311UPPER LAKE,Governor,,Rep,John Cox,243
+Lake,312BACHELOR,Governor,,Rep,John Cox,256
+Lake,341NICE,Governor,,Rep,John Cox,195
+Lake,342NICE HARBOR,Governor,,Rep,John Cox,173
+Lake,343FORTY SPRINGS,Governor,,Rep,John Cox,7
+Lake,351LUCERNE,Governor,,Rep,John Cox,125
+Lake,352THE CASTLE,Governor,,Rep,John Cox,98
+Lake,353KONO TAYEE,Governor,,Rep,John Cox,179
+Lake,354GLENHAVEN,Governor,,Rep,John Cox,32
+Lake,361GRAVELLY,Governor,,Rep,John Cox,19
+Lake,371BARTLETT,Governor,,Rep,John Cox,1
+Lake,381LONG VALLEY,Governor,,Rep,John Cox,217
+Lake,382EAST LAKE,Governor,,Rep,John Cox,126
+Lake,383KEYS WEST,Governor,,Rep,John Cox,164
+Lake,384KEYS EAST,Governor,,Rep,John Cox,112
+Lake,390LAKESHORE PARK,Governor,,Rep,John Cox,48
+Lake,391SULPHUR PARK,Governor,,Rep,John Cox,58
+Lake,392BALD MTN,Governor,,Rep,John Cox,5
+Lake,411LP LANGE,Governor,,Rep,John Cox,256
+Lake,412LP WILLOW TREE,Governor,,Rep,John Cox,232
+Lake,413LP GOVERNMENT,Governor,,Rep,John Cox,199
+Lake,414LP FAIRGROUNDS,Governor,,Rep,John Cox,215
+Lake,421COW MTN,Governor,,Rep,John Cox,166
+Lake,422SCOTTS VALLEY,Governor,,Rep,John Cox,205
+Lake,431ROBIN HILL,Governor,,Rep,John Cox,296
+Lake,432WESTLAKE,Governor,,Rep,John Cox,249
+Lake,441BIG VALLEY,Governor,,Rep,John Cox,171
+Lake,442LANDS END,Governor,,Rep,John Cox,92
+Lake,451ADOBE,Governor,,Rep,John Cox,197
+Lake,452LAKESIDE PARK,Governor,,Rep,John Cox,51
+Lake,455SODA BAY,Governor,,Rep,John Cox,184
+Lake,461DONOVAN VALLEY,Governor,,Rep,John Cox,27
+Lake,471HIGHLAND SPGS,Governor,,Rep,John Cox,8
+Lake,520KELSEYVILLE,Governor,,Rep,John Cox,198
+Lake,521COLE CREEK,Governor,,Rep,John Cox,174
+Lake,522KELSEY CREEK,Governor,,Rep,John Cox,241
+Lake,531WHEELER POINT,Governor,,Rep,John Cox,238
+Lake,532RIVIERA,Governor,,Rep,John Cox,208
+Lake,533MOUNTAIN PEAK,Governor,,Rep,John Cox,268
+Lake,541LITTLE BORAX,Governor,,Rep,John Cox,254
+Lake,551THURSTON LAKE,Governor,,Rep,John Cox,43
+Lake,561LOCH LOMOND,Governor,,Rep,John Cox,258
+Lake,571GLENBROOK,Governor,,Rep,John Cox,148
+Lake,581W PINE/HOBERGS,Governor,,Rep,John Cox,181
+Lake,LAKE CA,Governor,,Rep,John Cox,10280
+Lake,111MIDDLETOWN,Governor,,Dem,Gavin Newsom,208
+Lake,112CENTRAL PARK,Governor,,Dem,Gavin Newsom,140
+Lake,113HIDDEN VALLEY 1,Governor,,Dem,Gavin Newsom,291
+Lake,114HIDDEN VALLEY 2,Governor,,Dem,Gavin Newsom,244
+Lake,115HIDDEN VALLEY 3,Governor,,Dem,Gavin Newsom,243
+Lake,116HIDDEN VALLEY 4,Governor,,Dem,Gavin Newsom,289
+Lake,117HV RANCHOS,Governor,,Dem,Gavin Newsom,48
+Lake,118SPRUCE GROVE,Governor,,Dem,Gavin Newsom,80
+Lake,119JERUSALEM,Governor,,Dem,Gavin Newsom,13
+Lake,120COYOTE VALLEY,Governor,,Dem,Gavin Newsom,29
+Lake,121TWIN LAKES,Governor,,Dem,Gavin Newsom,159
+Lake,122LOWER LAKE,Governor,,Dem,Gavin Newsom,143
+Lake,123PERINI HILL,Governor,,Dem,Gavin Newsom,7
+Lake,124BELL PARK,Governor,,Dem,Gavin Newsom,24
+Lake,131MORGAN VALLEY,Governor,,Dem,Gavin Newsom,16
+Lake,132BUCK ISLAND,Governor,,Dem,Gavin Newsom,0
+Lake,141CL REDBUD,Governor,,Dem,Gavin Newsom,168
+Lake,142CL VILLAGE,Governor,,Dem,Gavin Newsom,115
+Lake,211CL MONITOR PT,Governor,,Dem,Gavin Newsom,248
+Lake,212CL BURNS VALLEY,Governor,,Dem,Gavin Newsom,251
+Lake,213CL AUSTIN PARK,Governor,,Dem,Gavin Newsom,213
+Lake,214CL PALMER,Governor,,Dem,Gavin Newsom,198
+Lake,215CL DAVIS,Governor,,Dem,Gavin Newsom,214
+Lake,216CL MOLESWORTH,Governor,,Dem,Gavin Newsom,226
+Lake,217CL PIERCE,Governor,,Dem,Gavin Newsom,213
+Lake,222BALLY PEAK,Governor,,Dem,Gavin Newsom,1
+Lake,311UPPER LAKE,Governor,,Dem,Gavin Newsom,207
+Lake,312BACHELOR,Governor,,Dem,Gavin Newsom,183
+Lake,341NICE,Governor,,Dem,Gavin Newsom,243
+Lake,342NICE HARBOR,Governor,,Dem,Gavin Newsom,143
+Lake,343FORTY SPRINGS,Governor,,Dem,Gavin Newsom,6
+Lake,351LUCERNE,Governor,,Dem,Gavin Newsom,156
+Lake,352THE CASTLE,Governor,,Dem,Gavin Newsom,158
+Lake,353KONO TAYEE,Governor,,Dem,Gavin Newsom,216
+Lake,354GLENHAVEN,Governor,,Dem,Gavin Newsom,47
+Lake,361GRAVELLY,Governor,,Dem,Gavin Newsom,14
+Lake,371BARTLETT,Governor,,Dem,Gavin Newsom,2
+Lake,381LONG VALLEY,Governor,,Dem,Gavin Newsom,163
+Lake,382EAST LAKE,Governor,,Dem,Gavin Newsom,148
+Lake,383KEYS WEST,Governor,,Dem,Gavin Newsom,165
+Lake,384KEYS EAST,Governor,,Dem,Gavin Newsom,120
+Lake,390LAKESHORE PARK,Governor,,Dem,Gavin Newsom,53
+Lake,391SULPHUR PARK,Governor,,Dem,Gavin Newsom,60
+Lake,392BALD MTN,Governor,,Dem,Gavin Newsom,2
+Lake,411LP LANGE,Governor,,Dem,Gavin Newsom,233
+Lake,412LP WILLOW TREE,Governor,,Dem,Gavin Newsom,234
+Lake,413LP GOVERNMENT,Governor,,Dem,Gavin Newsom,238
+Lake,414LP FAIRGROUNDS,Governor,,Dem,Gavin Newsom,252
+Lake,421COW MTN,Governor,,Dem,Gavin Newsom,143
+Lake,422SCOTTS VALLEY,Governor,,Dem,Gavin Newsom,109
+Lake,431ROBIN HILL,Governor,,Dem,Gavin Newsom,318
+Lake,432WESTLAKE,Governor,,Dem,Gavin Newsom,264
+Lake,441BIG VALLEY,Governor,,Dem,Gavin Newsom,92
+Lake,442LANDS END,Governor,,Dem,Gavin Newsom,115
+Lake,451ADOBE,Governor,,Dem,Gavin Newsom,169
+Lake,452LAKESIDE PARK,Governor,,Dem,Gavin Newsom,21
+Lake,455SODA BAY,Governor,,Dem,Gavin Newsom,244
+Lake,461DONOVAN VALLEY,Governor,,Dem,Gavin Newsom,19
+Lake,471HIGHLAND SPGS,Governor,,Dem,Gavin Newsom,15
+Lake,520KELSEYVILLE,Governor,,Dem,Gavin Newsom,222
+Lake,521COLE CREEK,Governor,,Dem,Gavin Newsom,233
+Lake,522KELSEY CREEK,Governor,,Dem,Gavin Newsom,235
+Lake,531WHEELER POINT,Governor,,Dem,Gavin Newsom,300
+Lake,532RIVIERA,Governor,,Dem,Gavin Newsom,204
+Lake,533MOUNTAIN PEAK,Governor,,Dem,Gavin Newsom,232
+Lake,541LITTLE BORAX,Governor,,Dem,Gavin Newsom,290
+Lake,551THURSTON LAKE,Governor,,Dem,Gavin Newsom,56
+Lake,561LOCH LOMOND,Governor,,Dem,Gavin Newsom,230
+Lake,571GLENBROOK,Governor,,Dem,Gavin Newsom,183
+Lake,581W PINE/HOBERGS,Governor,,Dem,Gavin Newsom,351
+Lake,LAKE CA,Governor,,Dem,Gavin Newsom,10869
+Lake,111MIDDLETOWN,Lt Governor,,Dem,Ed Hernandez,127
+Lake,112CENTRAL PARK,Lt Governor,,Dem,Ed Hernandez,82
+Lake,113HIDDEN VALLEY 1,Lt Governor,,Dem,Ed Hernandez,174
+Lake,114HIDDEN VALLEY 2,Lt Governor,,Dem,Ed Hernandez,149
+Lake,115HIDDEN VALLEY 3,Lt Governor,,Dem,Ed Hernandez,177
+Lake,116HIDDEN VALLEY 4,Lt Governor,,Dem,Ed Hernandez,174
+Lake,117HV RANCHOS,Lt Governor,,Dem,Ed Hernandez,44
+Lake,118SPRUCE GROVE,Lt Governor,,Dem,Ed Hernandez,35
+Lake,119JERUSALEM,Lt Governor,,Dem,Ed Hernandez,2
+Lake,120COYOTE VALLEY,Lt Governor,,Dem,Ed Hernandez,28
+Lake,121TWIN LAKES,Lt Governor,,Dem,Ed Hernandez,108
+Lake,122LOWER LAKE,Lt Governor,,Dem,Ed Hernandez,78
+Lake,123PERINI HILL,Lt Governor,,Dem,Ed Hernandez,6
+Lake,124BELL PARK,Lt Governor,,Dem,Ed Hernandez,17
+Lake,131MORGAN VALLEY,Lt Governor,,Dem,Ed Hernandez,5
+Lake,132BUCK ISLAND,Lt Governor,,Dem,Ed Hernandez,1
+Lake,141CL REDBUD,Lt Governor,,Dem,Ed Hernandez,90
+Lake,142CL VILLAGE,Lt Governor,,Dem,Ed Hernandez,69
+Lake,211CL MONITOR PT,Lt Governor,,Dem,Ed Hernandez,150
+Lake,212CL BURNS VALLEY,Lt Governor,,Dem,Ed Hernandez,116
+Lake,213CL AUSTIN PARK,Lt Governor,,Dem,Ed Hernandez,158
+Lake,214CL PALMER,Lt Governor,,Dem,Ed Hernandez,115
+Lake,215CL DAVIS,Lt Governor,,Dem,Ed Hernandez,122
+Lake,216CL MOLESWORTH,Lt Governor,,Dem,Ed Hernandez,121
+Lake,217CL PIERCE,Lt Governor,,Dem,Ed Hernandez,110
+Lake,222BALLY PEAK,Lt Governor,,Dem,Ed Hernandez,2
+Lake,311UPPER LAKE,Lt Governor,,Dem,Ed Hernandez,144
+Lake,312BACHELOR,Lt Governor,,Dem,Ed Hernandez,141
+Lake,341NICE,Lt Governor,,Dem,Ed Hernandez,170
+Lake,342NICE HARBOR,Lt Governor,,Dem,Ed Hernandez,103
+Lake,343FORTY SPRINGS,Lt Governor,,Dem,Ed Hernandez,4
+Lake,351LUCERNE,Lt Governor,,Dem,Ed Hernandez,83
+Lake,352THE CASTLE,Lt Governor,,Dem,Ed Hernandez,88
+Lake,353KONO TAYEE,Lt Governor,,Dem,Ed Hernandez,111
+Lake,354GLENHAVEN,Lt Governor,,Dem,Ed Hernandez,20
+Lake,361GRAVELLY,Lt Governor,,Dem,Ed Hernandez,4
+Lake,371BARTLETT,Lt Governor,,Dem,Ed Hernandez,1
+Lake,381LONG VALLEY,Lt Governor,,Dem,Ed Hernandez,124
+Lake,382EAST LAKE,Lt Governor,,Dem,Ed Hernandez,81
+Lake,383KEYS WEST,Lt Governor,,Dem,Ed Hernandez,89
+Lake,384KEYS EAST,Lt Governor,,Dem,Ed Hernandez,78
+Lake,390LAKESHORE PARK,Lt Governor,,Dem,Ed Hernandez,28
+Lake,391SULPHUR PARK,Lt Governor,,Dem,Ed Hernandez,35
+Lake,392BALD MTN,Lt Governor,,Dem,Ed Hernandez,2
+Lake,411LP LANGE,Lt Governor,,Dem,Ed Hernandez,164
+Lake,412LP WILLOW TREE,Lt Governor,,Dem,Ed Hernandez,159
+Lake,413LP GOVERNMENT,Lt Governor,,Dem,Ed Hernandez,143
+Lake,414LP FAIRGROUNDS,Lt Governor,,Dem,Ed Hernandez,127
+Lake,421COW MTN,Lt Governor,,Dem,Ed Hernandez,100
+Lake,422SCOTTS VALLEY,Lt Governor,,Dem,Ed Hernandez,84
+Lake,431ROBIN HILL,Lt Governor,,Dem,Ed Hernandez,200
+Lake,432WESTLAKE,Lt Governor,,Dem,Ed Hernandez,147
+Lake,441BIG VALLEY,Lt Governor,,Dem,Ed Hernandez,91
+Lake,442LANDS END,Lt Governor,,Dem,Ed Hernandez,64
+Lake,451ADOBE,Lt Governor,,Dem,Ed Hernandez,113
+Lake,452LAKESIDE PARK,Lt Governor,,Dem,Ed Hernandez,19
+Lake,455SODA BAY,Lt Governor,,Dem,Ed Hernandez,136
+Lake,461DONOVAN VALLEY,Lt Governor,,Dem,Ed Hernandez,17
+Lake,471HIGHLAND SPGS,Lt Governor,,Dem,Ed Hernandez,8
+Lake,520KELSEYVILLE,Lt Governor,,Dem,Ed Hernandez,153
+Lake,521COLE CREEK,Lt Governor,,Dem,Ed Hernandez,147
+Lake,522KELSEY CREEK,Lt Governor,,Dem,Ed Hernandez,167
+Lake,531WHEELER POINT,Lt Governor,,Dem,Ed Hernandez,171
+Lake,532RIVIERA,Lt Governor,,Dem,Ed Hernandez,120
+Lake,533MOUNTAIN PEAK,Lt Governor,,Dem,Ed Hernandez,155
+Lake,541LITTLE BORAX,Lt Governor,,Dem,Ed Hernandez,130
+Lake,551THURSTON LAKE,Lt Governor,,Dem,Ed Hernandez,40
+Lake,561LOCH LOMOND,Lt Governor,,Dem,Ed Hernandez,157
+Lake,571GLENBROOK,Lt Governor,,Dem,Ed Hernandez,100
+Lake,581W PINE/HOBERGS,Lt Governor,,Dem,Ed Hernandez,132
+Lake,LAKE CA,Lt Governor,,Dem,Ed Hernandez,6610
+Lake,111MIDDLETOWN,Lt Governor,,Dem,Eleni Kounalakis,217
+Lake,112CENTRAL PARK,Lt Governor,,Dem,Eleni Kounalakis,144
+Lake,113HIDDEN VALLEY 1,Lt Governor,,Dem,Eleni Kounalakis,287
+Lake,114HIDDEN VALLEY 2,Lt Governor,,Dem,Eleni Kounalakis,240
+Lake,115HIDDEN VALLEY 3,Lt Governor,,Dem,Eleni Kounalakis,248
+Lake,116HIDDEN VALLEY 4,Lt Governor,,Dem,Eleni Kounalakis,284
+Lake,117HV RANCHOS,Lt Governor,,Dem,Eleni Kounalakis,64
+Lake,118SPRUCE GROVE,Lt Governor,,Dem,Eleni Kounalakis,73
+Lake,119JERUSALEM,Lt Governor,,Dem,Eleni Kounalakis,12
+Lake,120COYOTE VALLEY,Lt Governor,,Dem,Eleni Kounalakis,35
+Lake,121TWIN LAKES,Lt Governor,,Dem,Eleni Kounalakis,176
+Lake,122LOWER LAKE,Lt Governor,,Dem,Eleni Kounalakis,143
+Lake,123PERINI HILL,Lt Governor,,Dem,Eleni Kounalakis,6
+Lake,124BELL PARK,Lt Governor,,Dem,Eleni Kounalakis,34
+Lake,131MORGAN VALLEY,Lt Governor,,Dem,Eleni Kounalakis,18
+Lake,132BUCK ISLAND,Lt Governor,,Dem,Eleni Kounalakis,0
+Lake,141CL REDBUD,Lt Governor,,Dem,Eleni Kounalakis,161
+Lake,142CL VILLAGE,Lt Governor,,Dem,Eleni Kounalakis,119
+Lake,211CL MONITOR PT,Lt Governor,,Dem,Eleni Kounalakis,222
+Lake,212CL BURNS VALLEY,Lt Governor,,Dem,Eleni Kounalakis,242
+Lake,213CL AUSTIN PARK,Lt Governor,,Dem,Eleni Kounalakis,190
+Lake,214CL PALMER,Lt Governor,,Dem,Eleni Kounalakis,175
+Lake,215CL DAVIS,Lt Governor,,Dem,Eleni Kounalakis,200
+Lake,216CL MOLESWORTH,Lt Governor,,Dem,Eleni Kounalakis,194
+Lake,217CL PIERCE,Lt Governor,,Dem,Eleni Kounalakis,214
+Lake,222BALLY PEAK,Lt Governor,,Dem,Eleni Kounalakis,1
+Lake,311UPPER LAKE,Lt Governor,,Dem,Eleni Kounalakis,204
+Lake,312BACHELOR,Lt Governor,,Dem,Eleni Kounalakis,193
+Lake,341NICE,Lt Governor,,Dem,Eleni Kounalakis,217
+Lake,342NICE HARBOR,Lt Governor,,Dem,Eleni Kounalakis,161
+Lake,343FORTY SPRINGS,Lt Governor,,Dem,Eleni Kounalakis,7
+Lake,351LUCERNE,Lt Governor,,Dem,Eleni Kounalakis,161
+Lake,352THE CASTLE,Lt Governor,,Dem,Eleni Kounalakis,131
+Lake,353KONO TAYEE,Lt Governor,,Dem,Eleni Kounalakis,217
+Lake,354GLENHAVEN,Lt Governor,,Dem,Eleni Kounalakis,42
+Lake,361GRAVELLY,Lt Governor,,Dem,Eleni Kounalakis,21
+Lake,371BARTLETT,Lt Governor,,Dem,Eleni Kounalakis,2
+Lake,381LONG VALLEY,Lt Governor,,Dem,Eleni Kounalakis,181
+Lake,382EAST LAKE,Lt Governor,,Dem,Eleni Kounalakis,145
+Lake,383KEYS WEST,Lt Governor,,Dem,Eleni Kounalakis,163
+Lake,384KEYS EAST,Lt Governor,,Dem,Eleni Kounalakis,123
+Lake,390LAKESHORE PARK,Lt Governor,,Dem,Eleni Kounalakis,56
+Lake,391SULPHUR PARK,Lt Governor,,Dem,Eleni Kounalakis,57
+Lake,392BALD MTN,Lt Governor,,Dem,Eleni Kounalakis,2
+Lake,411LP LANGE,Lt Governor,,Dem,Eleni Kounalakis,237
+Lake,412LP WILLOW TREE,Lt Governor,,Dem,Eleni Kounalakis,205
+Lake,413LP GOVERNMENT,Lt Governor,,Dem,Eleni Kounalakis,210
+Lake,414LP FAIRGROUNDS,Lt Governor,,Dem,Eleni Kounalakis,253
+Lake,421COW MTN,Lt Governor,,Dem,Eleni Kounalakis,128
+Lake,422SCOTTS VALLEY,Lt Governor,,Dem,Eleni Kounalakis,150
+Lake,431ROBIN HILL,Lt Governor,,Dem,Eleni Kounalakis,298
+Lake,432WESTLAKE,Lt Governor,,Dem,Eleni Kounalakis,255
+Lake,441BIG VALLEY,Lt Governor,,Dem,Eleni Kounalakis,103
+Lake,442LANDS END,Lt Governor,,Dem,Eleni Kounalakis,97
+Lake,451ADOBE,Lt Governor,,Dem,Eleni Kounalakis,175
+Lake,452LAKESIDE PARK,Lt Governor,,Dem,Eleni Kounalakis,34
+Lake,455SODA BAY,Lt Governor,,Dem,Eleni Kounalakis,220
+Lake,461DONOVAN VALLEY,Lt Governor,,Dem,Eleni Kounalakis,16
+Lake,471HIGHLAND SPGS,Lt Governor,,Dem,Eleni Kounalakis,16
+Lake,520KELSEYVILLE,Lt Governor,,Dem,Eleni Kounalakis,196
+Lake,521COLE CREEK,Lt Governor,,Dem,Eleni Kounalakis,197
+Lake,522KELSEY CREEK,Lt Governor,,Dem,Eleni Kounalakis,219
+Lake,531WHEELER POINT,Lt Governor,,Dem,Eleni Kounalakis,285
+Lake,532RIVIERA,Lt Governor,,Dem,Eleni Kounalakis,204
+Lake,533MOUNTAIN PEAK,Lt Governor,,Dem,Eleni Kounalakis,255
+Lake,541LITTLE BORAX,Lt Governor,,Dem,Eleni Kounalakis,274
+Lake,551THURSTON LAKE,Lt Governor,,Dem,Eleni Kounalakis,44
+Lake,561LOCH LOMOND,Lt Governor,,Dem,Eleni Kounalakis,238
+Lake,571GLENBROOK,Lt Governor,,Dem,Eleni Kounalakis,194
+Lake,581W PINE/HOBERGS,Lt Governor,,Dem,Eleni Kounalakis,323
+Lake,LAKE CA,Lt Governor,,Dem,Eleni Kounalakis,10608
+Lake,111MIDDLETOWN,Secretary of State,,Dem,Alex Padilla,223
+Lake,112CENTRAL PARK,Secretary of State,,Dem,Alex Padilla,151
+Lake,113HIDDEN VALLEY 1,Secretary of State,,Dem,Alex Padilla,304
+Lake,114HIDDEN VALLEY 2,Secretary of State,,Dem,Alex Padilla,260
+Lake,115HIDDEN VALLEY 3,Secretary of State,,Dem,Alex Padilla,270
+Lake,116HIDDEN VALLEY 4,Secretary of State,,Dem,Alex Padilla,309
+Lake,117HV RANCHOS,Secretary of State,,Dem,Alex Padilla,57
+Lake,118SPRUCE GROVE,Secretary of State,,Dem,Alex Padilla,79
+Lake,119JERUSALEM,Secretary of State,,Dem,Alex Padilla,14
+Lake,120COYOTE VALLEY,Secretary of State,,Dem,Alex Padilla,32
+Lake,121TWIN LAKES,Secretary of State,,Dem,Alex Padilla,171
+Lake,122LOWER LAKE,Secretary of State,,Dem,Alex Padilla,145
+Lake,123PERINI HILL,Secretary of State,,Dem,Alex Padilla,7
+Lake,124BELL PARK,Secretary of State,,Dem,Alex Padilla,24
+Lake,131MORGAN VALLEY,Secretary of State,,Dem,Alex Padilla,18
+Lake,132BUCK ISLAND,Secretary of State,,Dem,Alex Padilla,0
+Lake,141CL REDBUD,Secretary of State,,Dem,Alex Padilla,175
+Lake,142CL VILLAGE,Secretary of State,,Dem,Alex Padilla,132
+Lake,211CL MONITOR PT,Secretary of State,,Dem,Alex Padilla,261
+Lake,212CL BURNS VALLEY,Secretary of State,,Dem,Alex Padilla,265
+Lake,213CL AUSTIN PARK,Secretary of State,,Dem,Alex Padilla,222
+Lake,214CL PALMER,Secretary of State,,Dem,Alex Padilla,202
+Lake,215CL DAVIS,Secretary of State,,Dem,Alex Padilla,224
+Lake,216CL MOLESWORTH,Secretary of State,,Dem,Alex Padilla,234
+Lake,217CL PIERCE,Secretary of State,,Dem,Alex Padilla,213
+Lake,222BALLY PEAK,Secretary of State,,Dem,Alex Padilla,1
+Lake,311UPPER LAKE,Secretary of State,,Dem,Alex Padilla,210
+Lake,312BACHELOR,Secretary of State,,Dem,Alex Padilla,204
+Lake,341NICE,Secretary of State,,Dem,Alex Padilla,258
+Lake,342NICE HARBOR,Secretary of State,,Dem,Alex Padilla,142
+Lake,343FORTY SPRINGS,Secretary of State,,Dem,Alex Padilla,6
+Lake,351LUCERNE,Secretary of State,,Dem,Alex Padilla,163
+Lake,352THE CASTLE,Secretary of State,,Dem,Alex Padilla,154
+Lake,353KONO TAYEE,Secretary of State,,Dem,Alex Padilla,215
+Lake,354GLENHAVEN,Secretary of State,,Dem,Alex Padilla,46
+Lake,361GRAVELLY,Secretary of State,,Dem,Alex Padilla,13
+Lake,371BARTLETT,Secretary of State,,Dem,Alex Padilla,2
+Lake,381LONG VALLEY,Secretary of State,,Dem,Alex Padilla,170
+Lake,382EAST LAKE,Secretary of State,,Dem,Alex Padilla,148
+Lake,383KEYS WEST,Secretary of State,,Dem,Alex Padilla,168
+Lake,384KEYS EAST,Secretary of State,,Dem,Alex Padilla,129
+Lake,390LAKESHORE PARK,Secretary of State,,Dem,Alex Padilla,49
+Lake,391SULPHUR PARK,Secretary of State,,Dem,Alex Padilla,67
+Lake,392BALD MTN,Secretary of State,,Dem,Alex Padilla,2
+Lake,411LP LANGE,Secretary of State,,Dem,Alex Padilla,251
+Lake,412LP WILLOW TREE,Secretary of State,,Dem,Alex Padilla,244
+Lake,413LP GOVERNMENT,Secretary of State,,Dem,Alex Padilla,255
+Lake,414LP FAIRGROUNDS,Secretary of State,,Dem,Alex Padilla,261
+Lake,421COW MTN,Secretary of State,,Dem,Alex Padilla,147
+Lake,422SCOTTS VALLEY,Secretary of State,,Dem,Alex Padilla,133
+Lake,431ROBIN HILL,Secretary of State,,Dem,Alex Padilla,319
+Lake,432WESTLAKE,Secretary of State,,Dem,Alex Padilla,279
+Lake,441BIG VALLEY,Secretary of State,,Dem,Alex Padilla,103
+Lake,442LANDS END,Secretary of State,,Dem,Alex Padilla,119
+Lake,451ADOBE,Secretary of State,,Dem,Alex Padilla,189
+Lake,452LAKESIDE PARK,Secretary of State,,Dem,Alex Padilla,27
+Lake,455SODA BAY,Secretary of State,,Dem,Alex Padilla,261
+Lake,461DONOVAN VALLEY,Secretary of State,,Dem,Alex Padilla,21
+Lake,471HIGHLAND SPGS,Secretary of State,,Dem,Alex Padilla,18
+Lake,520KELSEYVILLE,Secretary of State,,Dem,Alex Padilla,235
+Lake,521COLE CREEK,Secretary of State,,Dem,Alex Padilla,246
+Lake,522KELSEY CREEK,Secretary of State,,Dem,Alex Padilla,245
+Lake,531WHEELER POINT,Secretary of State,,Dem,Alex Padilla,315
+Lake,532RIVIERA,Secretary of State,,Dem,Alex Padilla,211
+Lake,533MOUNTAIN PEAK,Secretary of State,,Dem,Alex Padilla,246
+Lake,541LITTLE BORAX,Secretary of State,,Dem,Alex Padilla,298
+Lake,551THURSTON LAKE,Secretary of State,,Dem,Alex Padilla,61
+Lake,561LOCH LOMOND,Secretary of State,,Dem,Alex Padilla,245
+Lake,571GLENBROOK,Secretary of State,,Dem,Alex Padilla,194
+Lake,581W PINE/HOBERGS,Secretary of State,,Dem,Alex Padilla,354
+Lake,LAKE CA,Secretary of State,,Dem,Alex Padilla,11416
+Lake,111MIDDLETOWN,Secretary of State,,Rep,Mark Meuser,192
+Lake,112CENTRAL PARK,Secretary of State,,Rep,Mark Meuser,121
+Lake,113HIDDEN VALLEY 1,Secretary of State,,Rep,Mark Meuser,269
+Lake,114HIDDEN VALLEY 2,Secretary of State,,Rep,Mark Meuser,201
+Lake,115HIDDEN VALLEY 3,Secretary of State,,Rep,Mark Meuser,240
+Lake,116HIDDEN VALLEY 4,Secretary of State,,Rep,Mark Meuser,261
+Lake,117HV RANCHOS,Secretary of State,,Rep,Mark Meuser,77
+Lake,118SPRUCE GROVE,Secretary of State,,Rep,Mark Meuser,70
+Lake,119JERUSALEM,Secretary of State,,Rep,Mark Meuser,5
+Lake,120COYOTE VALLEY,Secretary of State,,Rep,Mark Meuser,46
+Lake,121TWIN LAKES,Secretary of State,,Rep,Mark Meuser,195
+Lake,122LOWER LAKE,Secretary of State,,Rep,Mark Meuser,126
+Lake,123PERINI HILL,Secretary of State,,Rep,Mark Meuser,7
+Lake,124BELL PARK,Secretary of State,,Rep,Mark Meuser,34
+Lake,131MORGAN VALLEY,Secretary of State,,Rep,Mark Meuser,9
+Lake,132BUCK ISLAND,Secretary of State,,Rep,Mark Meuser,1
+Lake,141CL REDBUD,Secretary of State,,Rep,Mark Meuser,118
+Lake,142CL VILLAGE,Secretary of State,,Rep,Mark Meuser,89
+Lake,211CL MONITOR PT,Secretary of State,,Rep,Mark Meuser,160
+Lake,212CL BURNS VALLEY,Secretary of State,,Rep,Mark Meuser,139
+Lake,213CL AUSTIN PARK,Secretary of State,,Rep,Mark Meuser,204
+Lake,214CL PALMER,Secretary of State,,Rep,Mark Meuser,138
+Lake,215CL DAVIS,Secretary of State,,Rep,Mark Meuser,141
+Lake,216CL MOLESWORTH,Secretary of State,,Rep,Mark Meuser,127
+Lake,217CL PIERCE,Secretary of State,,Rep,Mark Meuser,140
+Lake,222BALLY PEAK,Secretary of State,,Rep,Mark Meuser,4
+Lake,311UPPER LAKE,Secretary of State,,Rep,Mark Meuser,227
+Lake,312BACHELOR,Secretary of State,,Rep,Mark Meuser,225
+Lake,341NICE,Secretary of State,,Rep,Mark Meuser,177
+Lake,342NICE HARBOR,Secretary of State,,Rep,Mark Meuser,165
+Lake,343FORTY SPRINGS,Secretary of State,,Rep,Mark Meuser,7
+Lake,351LUCERNE,Secretary of State,,Rep,Mark Meuser,115
+Lake,352THE CASTLE,Secretary of State,,Rep,Mark Meuser,100
+Lake,353KONO TAYEE,Secretary of State,,Rep,Mark Meuser,176
+Lake,354GLENHAVEN,Secretary of State,,Rep,Mark Meuser,31
+Lake,361GRAVELLY,Secretary of State,,Rep,Mark Meuser,18
+Lake,371BARTLETT,Secretary of State,,Rep,Mark Meuser,1
+Lake,381LONG VALLEY,Secretary of State,,Rep,Mark Meuser,209
+Lake,382EAST LAKE,Secretary of State,,Rep,Mark Meuser,118
+Lake,383KEYS WEST,Secretary of State,,Rep,Mark Meuser,155
+Lake,384KEYS EAST,Secretary of State,,Rep,Mark Meuser,101
+Lake,390LAKESHORE PARK,Secretary of State,,Rep,Mark Meuser,46
+Lake,391SULPHUR PARK,Secretary of State,,Rep,Mark Meuser,50
+Lake,392BALD MTN,Secretary of State,,Rep,Mark Meuser,5
+Lake,411LP LANGE,Secretary of State,,Rep,Mark Meuser,227
+Lake,412LP WILLOW TREE,Secretary of State,,Rep,Mark Meuser,216
+Lake,413LP GOVERNMENT,Secretary of State,,Rep,Mark Meuser,176
+Lake,414LP FAIRGROUNDS,Secretary of State,,Rep,Mark Meuser,200
+Lake,421COW MTN,Secretary of State,,Rep,Mark Meuser,150
+Lake,422SCOTTS VALLEY,Secretary of State,,Rep,Mark Meuser,178
+Lake,431ROBIN HILL,Secretary of State,,Rep,Mark Meuser,286
+Lake,432WESTLAKE,Secretary of State,,Rep,Mark Meuser,224
+Lake,441BIG VALLEY,Secretary of State,,Rep,Mark Meuser,158
+Lake,442LANDS END,Secretary of State,,Rep,Mark Meuser,84
+Lake,451ADOBE,Secretary of State,,Rep,Mark Meuser,179
+Lake,452LAKESIDE PARK,Secretary of State,,Rep,Mark Meuser,45
+Lake,455SODA BAY,Secretary of State,,Rep,Mark Meuser,160
+Lake,461DONOVAN VALLEY,Secretary of State,,Rep,Mark Meuser,25
+Lake,471HIGHLAND SPGS,Secretary of State,,Rep,Mark Meuser,5
+Lake,520KELSEYVILLE,Secretary of State,,Rep,Mark Meuser,183
+Lake,521COLE CREEK,Secretary of State,,Rep,Mark Meuser,155
+Lake,522KELSEY CREEK,Secretary of State,,Rep,Mark Meuser,224
+Lake,531WHEELER POINT,Secretary of State,,Rep,Mark Meuser,221
+Lake,532RIVIERA,Secretary of State,,Rep,Mark Meuser,187
+Lake,533MOUNTAIN PEAK,Secretary of State,,Rep,Mark Meuser,250
+Lake,541LITTLE BORAX,Secretary of State,,Rep,Mark Meuser,236
+Lake,551THURSTON LAKE,Secretary of State,,Rep,Mark Meuser,37
+Lake,561LOCH LOMOND,Secretary of State,,Rep,Mark Meuser,237
+Lake,571GLENBROOK,Secretary of State,,Rep,Mark Meuser,138
+Lake,581W PINE/HOBERGS,Secretary of State,,Rep,Mark Meuser,170
+Lake,LAKE CA,Secretary of State,,Rep,Mark Meuser,9391
+Lake,111MIDDLETOWN,Controller,,Rep,Konstantinos Roditis,184
+Lake,112CENTRAL PARK,Controller,,Rep,Konstantinos Roditis,119
+Lake,113HIDDEN VALLEY 1,Controller,,Rep,Konstantinos Roditis,262
+Lake,114HIDDEN VALLEY 2,Controller,,Rep,Konstantinos Roditis,196
+Lake,115HIDDEN VALLEY 3,Controller,,Rep,Konstantinos Roditis,244
+Lake,116HIDDEN VALLEY 4,Controller,,Rep,Konstantinos Roditis,258
+Lake,117HV RANCHOS,Controller,,Rep,Konstantinos Roditis,80
+Lake,118SPRUCE GROVE,Controller,,Rep,Konstantinos Roditis,66
+Lake,119JERUSALEM,Controller,,Rep,Konstantinos Roditis,5
+Lake,120COYOTE VALLEY,Controller,,Rep,Konstantinos Roditis,44
+Lake,121TWIN LAKES,Controller,,Rep,Konstantinos Roditis,196
+Lake,122LOWER LAKE,Controller,,Rep,Konstantinos Roditis,109
+Lake,123PERINI HILL,Controller,,Rep,Konstantinos Roditis,7
+Lake,124BELL PARK,Controller,,Rep,Konstantinos Roditis,30
+Lake,131MORGAN VALLEY,Controller,,Rep,Konstantinos Roditis,6
+Lake,132BUCK ISLAND,Controller,,Rep,Konstantinos Roditis,1
+Lake,141CL REDBUD,Controller,,Rep,Konstantinos Roditis,107
+Lake,142CL VILLAGE,Controller,,Rep,Konstantinos Roditis,85
+Lake,211CL MONITOR PT,Controller,,Rep,Konstantinos Roditis,160
+Lake,212CL BURNS VALLEY,Controller,,Rep,Konstantinos Roditis,134
+Lake,213CL AUSTIN PARK,Controller,,Rep,Konstantinos Roditis,196
+Lake,214CL PALMER,Controller,,Rep,Konstantinos Roditis,128
+Lake,215CL DAVIS,Controller,,Rep,Konstantinos Roditis,130
+Lake,216CL MOLESWORTH,Controller,,Rep,Konstantinos Roditis,119
+Lake,217CL PIERCE,Controller,,Rep,Konstantinos Roditis,137
+Lake,222BALLY PEAK,Controller,,Rep,Konstantinos Roditis,5
+Lake,311UPPER LAKE,Controller,,Rep,Konstantinos Roditis,218
+Lake,312BACHELOR,Controller,,Rep,Konstantinos Roditis,215
+Lake,341NICE,Controller,,Rep,Konstantinos Roditis,171
+Lake,342NICE HARBOR,Controller,,Rep,Konstantinos Roditis,157
+Lake,343FORTY SPRINGS,Controller,,Rep,Konstantinos Roditis,4
+Lake,351LUCERNE,Controller,,Rep,Konstantinos Roditis,109
+Lake,352THE CASTLE,Controller,,Rep,Konstantinos Roditis,93
+Lake,353KONO TAYEE,Controller,,Rep,Konstantinos Roditis,171
+Lake,354GLENHAVEN,Controller,,Rep,Konstantinos Roditis,29
+Lake,361GRAVELLY,Controller,,Rep,Konstantinos Roditis,19
+Lake,371BARTLETT,Controller,,Rep,Konstantinos Roditis,1
+Lake,381LONG VALLEY,Controller,,Rep,Konstantinos Roditis,195
+Lake,382EAST LAKE,Controller,,Rep,Konstantinos Roditis,115
+Lake,383KEYS WEST,Controller,,Rep,Konstantinos Roditis,144
+Lake,384KEYS EAST,Controller,,Rep,Konstantinos Roditis,98
+Lake,390LAKESHORE PARK,Controller,,Rep,Konstantinos Roditis,45
+Lake,391SULPHUR PARK,Controller,,Rep,Konstantinos Roditis,50
+Lake,392BALD MTN,Controller,,Rep,Konstantinos Roditis,5
+Lake,411LP LANGE,Controller,,Rep,Konstantinos Roditis,216
+Lake,412LP WILLOW TREE,Controller,,Rep,Konstantinos Roditis,197
+Lake,413LP GOVERNMENT,Controller,,Rep,Konstantinos Roditis,172
+Lake,414LP FAIRGROUNDS,Controller,,Rep,Konstantinos Roditis,192
+Lake,421COW MTN,Controller,,Rep,Konstantinos Roditis,148
+Lake,422SCOTTS VALLEY,Controller,,Rep,Konstantinos Roditis,167
+Lake,431ROBIN HILL,Controller,,Rep,Konstantinos Roditis,270
+Lake,432WESTLAKE,Controller,,Rep,Konstantinos Roditis,218
+Lake,441BIG VALLEY,Controller,,Rep,Konstantinos Roditis,155
+Lake,442LANDS END,Controller,,Rep,Konstantinos Roditis,79
+Lake,451ADOBE,Controller,,Rep,Konstantinos Roditis,174
+Lake,452LAKESIDE PARK,Controller,,Rep,Konstantinos Roditis,41
+Lake,455SODA BAY,Controller,,Rep,Konstantinos Roditis,156
+Lake,461DONOVAN VALLEY,Controller,,Rep,Konstantinos Roditis,24
+Lake,471HIGHLAND SPGS,Controller,,Rep,Konstantinos Roditis,5
+Lake,520KELSEYVILLE,Controller,,Rep,Konstantinos Roditis,172
+Lake,521COLE CREEK,Controller,,Rep,Konstantinos Roditis,146
+Lake,522KELSEY CREEK,Controller,,Rep,Konstantinos Roditis,207
+Lake,531WHEELER POINT,Controller,,Rep,Konstantinos Roditis,193
+Lake,532RIVIERA,Controller,,Rep,Konstantinos Roditis,179
+Lake,533MOUNTAIN PEAK,Controller,,Rep,Konstantinos Roditis,233
+Lake,541LITTLE BORAX,Controller,,Rep,Konstantinos Roditis,224
+Lake,551THURSTON LAKE,Controller,,Rep,Konstantinos Roditis,37
+Lake,561LOCH LOMOND,Controller,,Rep,Konstantinos Roditis,216
+Lake,571GLENBROOK,Controller,,Rep,Konstantinos Roditis,128
+Lake,581W PINE/HOBERGS,Controller,,Rep,Konstantinos Roditis,159
+Lake,LAKE CA,Controller,,Rep,Konstantinos Roditis,8955
+Lake,111MIDDLETOWN,Controller,,Dem,Betty Yee,233
+Lake,112CENTRAL PARK,Controller,,Dem,Betty Yee,156
+Lake,113HIDDEN VALLEY 1,Controller,,Dem,Betty Yee,315
+Lake,114HIDDEN VALLEY 2,Controller,,Dem,Betty Yee,262
+Lake,115HIDDEN VALLEY 3,Controller,,Dem,Betty Yee,267
+Lake,116HIDDEN VALLEY 4,Controller,,Dem,Betty Yee,307
+Lake,117HV RANCHOS,Controller,,Dem,Betty Yee,55
+Lake,118SPRUCE GROVE,Controller,,Dem,Betty Yee,83
+Lake,119JERUSALEM,Controller,,Dem,Betty Yee,14
+Lake,120COYOTE VALLEY,Controller,,Dem,Betty Yee,32
+Lake,121TWIN LAKES,Controller,,Dem,Betty Yee,171
+Lake,122LOWER LAKE,Controller,,Dem,Betty Yee,163
+Lake,123PERINI HILL,Controller,,Dem,Betty Yee,7
+Lake,124BELL PARK,Controller,,Dem,Betty Yee,30
+Lake,131MORGAN VALLEY,Controller,,Dem,Betty Yee,21
+Lake,132BUCK ISLAND,Controller,,Dem,Betty Yee,0
+Lake,141CL REDBUD,Controller,,Dem,Betty Yee,186
+Lake,142CL VILLAGE,Controller,,Dem,Betty Yee,134
+Lake,211CL MONITOR PT,Controller,,Dem,Betty Yee,260
+Lake,212CL BURNS VALLEY,Controller,,Dem,Betty Yee,265
+Lake,213CL AUSTIN PARK,Controller,,Dem,Betty Yee,231
+Lake,214CL PALMER,Controller,,Dem,Betty Yee,217
+Lake,215CL DAVIS,Controller,,Dem,Betty Yee,234
+Lake,216CL MOLESWORTH,Controller,,Dem,Betty Yee,240
+Lake,217CL PIERCE,Controller,,Dem,Betty Yee,226
+Lake,222BALLY PEAK,Controller,,Dem,Betty Yee,1
+Lake,311UPPER LAKE,Controller,,Dem,Betty Yee,227
+Lake,312BACHELOR,Controller,,Dem,Betty Yee,214
+Lake,341NICE,Controller,,Dem,Betty Yee,263
+Lake,342NICE HARBOR,Controller,,Dem,Betty Yee,153
+Lake,343FORTY SPRINGS,Controller,,Dem,Betty Yee,9
+Lake,351LUCERNE,Controller,,Dem,Betty Yee,169
+Lake,352THE CASTLE,Controller,,Dem,Betty Yee,161
+Lake,353KONO TAYEE,Controller,,Dem,Betty Yee,218
+Lake,354GLENHAVEN,Controller,,Dem,Betty Yee,47
+Lake,361GRAVELLY,Controller,,Dem,Betty Yee,12
+Lake,371BARTLETT,Controller,,Dem,Betty Yee,2
+Lake,381LONG VALLEY,Controller,,Dem,Betty Yee,183
+Lake,382EAST LAKE,Controller,,Dem,Betty Yee,151
+Lake,383KEYS WEST,Controller,,Dem,Betty Yee,174
+Lake,384KEYS EAST,Controller,,Dem,Betty Yee,134
+Lake,390LAKESHORE PARK,Controller,,Dem,Betty Yee,54
+Lake,391SULPHUR PARK,Controller,,Dem,Betty Yee,68
+Lake,392BALD MTN,Controller,,Dem,Betty Yee,2
+Lake,411LP LANGE,Controller,,Dem,Betty Yee,261
+Lake,412LP WILLOW TREE,Controller,,Dem,Betty Yee,260
+Lake,413LP GOVERNMENT,Controller,,Dem,Betty Yee,257
+Lake,414LP FAIRGROUNDS,Controller,,Dem,Betty Yee,267
+Lake,421COW MTN,Controller,,Dem,Betty Yee,153
+Lake,422SCOTTS VALLEY,Controller,,Dem,Betty Yee,141
+Lake,431ROBIN HILL,Controller,,Dem,Betty Yee,333
+Lake,432WESTLAKE,Controller,,Dem,Betty Yee,287
+Lake,441BIG VALLEY,Controller,,Dem,Betty Yee,104
+Lake,442LANDS END,Controller,,Dem,Betty Yee,127
+Lake,451ADOBE,Controller,,Dem,Betty Yee,194
+Lake,452LAKESIDE PARK,Controller,,Dem,Betty Yee,30
+Lake,455SODA BAY,Controller,,Dem,Betty Yee,265
+Lake,461DONOVAN VALLEY,Controller,,Dem,Betty Yee,21
+Lake,471HIGHLAND SPGS,Controller,,Dem,Betty Yee,19
+Lake,520KELSEYVILLE,Controller,,Dem,Betty Yee,248
+Lake,521COLE CREEK,Controller,,Dem,Betty Yee,260
+Lake,522KELSEY CREEK,Controller,,Dem,Betty Yee,262
+Lake,531WHEELER POINT,Controller,,Dem,Betty Yee,343
+Lake,532RIVIERA,Controller,,Dem,Betty Yee,225
+Lake,533MOUNTAIN PEAK,Controller,,Dem,Betty Yee,262
+Lake,541LITTLE BORAX,Controller,,Dem,Betty Yee,308
+Lake,551THURSTON LAKE,Controller,,Dem,Betty Yee,59
+Lake,561LOCH LOMOND,Controller,,Dem,Betty Yee,271
+Lake,571GLENBROOK,Controller,,Dem,Betty Yee,205
+Lake,581W PINE/HOBERGS,Controller,,Dem,Betty Yee,368
+Lake,LAKE CA,Controller,,Dem,Betty Yee,11881
+Lake,111MIDDLETOWN,Treasurer,,Rep,Greg Conlon,187
+Lake,112CENTRAL PARK,Treasurer,,Rep,Greg Conlon,113
+Lake,113HIDDEN VALLEY 1,Treasurer,,Rep,Greg Conlon,267
+Lake,114HIDDEN VALLEY 2,Treasurer,,Rep,Greg Conlon,191
+Lake,115HIDDEN VALLEY 3,Treasurer,,Rep,Greg Conlon,241
+Lake,116HIDDEN VALLEY 4,Treasurer,,Rep,Greg Conlon,262
+Lake,117HV RANCHOS,Treasurer,,Rep,Greg Conlon,83
+Lake,118SPRUCE GROVE,Treasurer,,Rep,Greg Conlon,66
+Lake,119JERUSALEM,Treasurer,,Rep,Greg Conlon,4
+Lake,120COYOTE VALLEY,Treasurer,,Rep,Greg Conlon,47
+Lake,121TWIN LAKES,Treasurer,,Rep,Greg Conlon,195
+Lake,122LOWER LAKE,Treasurer,,Rep,Greg Conlon,117
+Lake,123PERINI HILL,Treasurer,,Rep,Greg Conlon,7
+Lake,124BELL PARK,Treasurer,,Rep,Greg Conlon,32
+Lake,131MORGAN VALLEY,Treasurer,,Rep,Greg Conlon,8
+Lake,132BUCK ISLAND,Treasurer,,Rep,Greg Conlon,1
+Lake,141CL REDBUD,Treasurer,,Rep,Greg Conlon,112
+Lake,142CL VILLAGE,Treasurer,,Rep,Greg Conlon,93
+Lake,211CL MONITOR PT,Treasurer,,Rep,Greg Conlon,166
+Lake,212CL BURNS VALLEY,Treasurer,,Rep,Greg Conlon,138
+Lake,213CL AUSTIN PARK,Treasurer,,Rep,Greg Conlon,206
+Lake,214CL PALMER,Treasurer,,Rep,Greg Conlon,139
+Lake,215CL DAVIS,Treasurer,,Rep,Greg Conlon,130
+Lake,216CL MOLESWORTH,Treasurer,,Rep,Greg Conlon,113
+Lake,217CL PIERCE,Treasurer,,Rep,Greg Conlon,138
+Lake,222BALLY PEAK,Treasurer,,Rep,Greg Conlon,5
+Lake,311UPPER LAKE,Treasurer,,Rep,Greg Conlon,222
+Lake,312BACHELOR,Treasurer,,Rep,Greg Conlon,223
+Lake,341NICE,Treasurer,,Rep,Greg Conlon,175
+Lake,342NICE HARBOR,Treasurer,,Rep,Greg Conlon,159
+Lake,343FORTY SPRINGS,Treasurer,,Rep,Greg Conlon,5
+Lake,351LUCERNE,Treasurer,,Rep,Greg Conlon,116
+Lake,352THE CASTLE,Treasurer,,Rep,Greg Conlon,94
+Lake,353KONO TAYEE,Treasurer,,Rep,Greg Conlon,165
+Lake,354GLENHAVEN,Treasurer,,Rep,Greg Conlon,28
+Lake,361GRAVELLY,Treasurer,,Rep,Greg Conlon,16
+Lake,371BARTLETT,Treasurer,,Rep,Greg Conlon,1
+Lake,381LONG VALLEY,Treasurer,,Rep,Greg Conlon,197
+Lake,382EAST LAKE,Treasurer,,Rep,Greg Conlon,118
+Lake,383KEYS WEST,Treasurer,,Rep,Greg Conlon,149
+Lake,384KEYS EAST,Treasurer,,Rep,Greg Conlon,97
+Lake,390LAKESHORE PARK,Treasurer,,Rep,Greg Conlon,45
+Lake,391SULPHUR PARK,Treasurer,,Rep,Greg Conlon,53
+Lake,392BALD MTN,Treasurer,,Rep,Greg Conlon,5
+Lake,411LP LANGE,Treasurer,,Rep,Greg Conlon,226
+Lake,412LP WILLOW TREE,Treasurer,,Rep,Greg Conlon,206
+Lake,413LP GOVERNMENT,Treasurer,,Rep,Greg Conlon,171
+Lake,414LP FAIRGROUNDS,Treasurer,,Rep,Greg Conlon,194
+Lake,421COW MTN,Treasurer,,Rep,Greg Conlon,158
+Lake,422SCOTTS VALLEY,Treasurer,,Rep,Greg Conlon,174
+Lake,431ROBIN HILL,Treasurer,,Rep,Greg Conlon,272
+Lake,432WESTLAKE,Treasurer,,Rep,Greg Conlon,226
+Lake,441BIG VALLEY,Treasurer,,Rep,Greg Conlon,163
+Lake,442LANDS END,Treasurer,,Rep,Greg Conlon,91
+Lake,451ADOBE,Treasurer,,Rep,Greg Conlon,167
+Lake,452LAKESIDE PARK,Treasurer,,Rep,Greg Conlon,44
+Lake,455SODA BAY,Treasurer,,Rep,Greg Conlon,162
+Lake,461DONOVAN VALLEY,Treasurer,,Rep,Greg Conlon,25
+Lake,471HIGHLAND SPGS,Treasurer,,Rep,Greg Conlon,5
+Lake,520KELSEYVILLE,Treasurer,,Rep,Greg Conlon,177
+Lake,521COLE CREEK,Treasurer,,Rep,Greg Conlon,151
+Lake,522KELSEY CREEK,Treasurer,,Rep,Greg Conlon,214
+Lake,531WHEELER POINT,Treasurer,,Rep,Greg Conlon,209
+Lake,532RIVIERA,Treasurer,,Rep,Greg Conlon,180
+Lake,533MOUNTAIN PEAK,Treasurer,,Rep,Greg Conlon,241
+Lake,541LITTLE BORAX,Treasurer,,Rep,Greg Conlon,230
+Lake,551THURSTON LAKE,Treasurer,,Rep,Greg Conlon,36
+Lake,561LOCH LOMOND,Treasurer,,Rep,Greg Conlon,236
+Lake,571GLENBROOK,Treasurer,,Rep,Greg Conlon,132
+Lake,581W PINE/HOBERGS,Treasurer,,Rep,Greg Conlon,164
+Lake,LAKE CA,Treasurer,,Rep,Greg Conlon,9183
+Lake,111MIDDLETOWN,Treasurer,,Dem,Fiona Ma,230
+Lake,112CENTRAL PARK,Treasurer,,Dem,Fiona Ma,158
+Lake,113HIDDEN VALLEY 1,Treasurer,,Dem,Fiona Ma,305
+Lake,114HIDDEN VALLEY 2,Treasurer,,Dem,Fiona Ma,269
+Lake,115HIDDEN VALLEY 3,Treasurer,,Dem,Fiona Ma,269
+Lake,116HIDDEN VALLEY 4,Treasurer,,Dem,Fiona Ma,308
+Lake,117HV RANCHOS,Treasurer,,Dem,Fiona Ma,53
+Lake,118SPRUCE GROVE,Treasurer,,Dem,Fiona Ma,83
+Lake,119JERUSALEM,Treasurer,,Dem,Fiona Ma,15
+Lake,120COYOTE VALLEY,Treasurer,,Dem,Fiona Ma,33
+Lake,121TWIN LAKES,Treasurer,,Dem,Fiona Ma,168
+Lake,122LOWER LAKE,Treasurer,,Dem,Fiona Ma,149
+Lake,123PERINI HILL,Treasurer,,Dem,Fiona Ma,7
+Lake,124BELL PARK,Treasurer,,Dem,Fiona Ma,29
+Lake,131MORGAN VALLEY,Treasurer,,Dem,Fiona Ma,19
+Lake,132BUCK ISLAND,Treasurer,,Dem,Fiona Ma,0
+Lake,141CL REDBUD,Treasurer,,Dem,Fiona Ma,180
+Lake,142CL VILLAGE,Treasurer,,Dem,Fiona Ma,128
+Lake,211CL MONITOR PT,Treasurer,,Dem,Fiona Ma,259
+Lake,212CL BURNS VALLEY,Treasurer,,Dem,Fiona Ma,264
+Lake,213CL AUSTIN PARK,Treasurer,,Dem,Fiona Ma,222
+Lake,214CL PALMER,Treasurer,,Dem,Fiona Ma,205
+Lake,215CL DAVIS,Treasurer,,Dem,Fiona Ma,234
+Lake,216CL MOLESWORTH,Treasurer,,Dem,Fiona Ma,246
+Lake,217CL PIERCE,Treasurer,,Dem,Fiona Ma,223
+Lake,222BALLY PEAK,Treasurer,,Dem,Fiona Ma,1
+Lake,311UPPER LAKE,Treasurer,,Dem,Fiona Ma,219
+Lake,312BACHELOR,Treasurer,,Dem,Fiona Ma,206
+Lake,341NICE,Treasurer,,Dem,Fiona Ma,257
+Lake,342NICE HARBOR,Treasurer,,Dem,Fiona Ma,151
+Lake,343FORTY SPRINGS,Treasurer,,Dem,Fiona Ma,7
+Lake,351LUCERNE,Treasurer,,Dem,Fiona Ma,163
+Lake,352THE CASTLE,Treasurer,,Dem,Fiona Ma,159
+Lake,353KONO TAYEE,Treasurer,,Dem,Fiona Ma,221
+Lake,354GLENHAVEN,Treasurer,,Dem,Fiona Ma,48
+Lake,361GRAVELLY,Treasurer,,Dem,Fiona Ma,16
+Lake,371BARTLETT,Treasurer,,Dem,Fiona Ma,2
+Lake,381LONG VALLEY,Treasurer,,Dem,Fiona Ma,183
+Lake,382EAST LAKE,Treasurer,,Dem,Fiona Ma,149
+Lake,383KEYS WEST,Treasurer,,Dem,Fiona Ma,170
+Lake,384KEYS EAST,Treasurer,,Dem,Fiona Ma,132
+Lake,390LAKESHORE PARK,Treasurer,,Dem,Fiona Ma,52
+Lake,391SULPHUR PARK,Treasurer,,Dem,Fiona Ma,65
+Lake,392BALD MTN,Treasurer,,Dem,Fiona Ma,2
+Lake,411LP LANGE,Treasurer,,Dem,Fiona Ma,253
+Lake,412LP WILLOW TREE,Treasurer,,Dem,Fiona Ma,253
+Lake,413LP GOVERNMENT,Treasurer,,Dem,Fiona Ma,257
+Lake,414LP FAIRGROUNDS,Treasurer,,Dem,Fiona Ma,265
+Lake,421COW MTN,Treasurer,,Dem,Fiona Ma,140
+Lake,422SCOTTS VALLEY,Treasurer,,Dem,Fiona Ma,133
+Lake,431ROBIN HILL,Treasurer,,Dem,Fiona Ma,332
+Lake,432WESTLAKE,Treasurer,,Dem,Fiona Ma,280
+Lake,441BIG VALLEY,Treasurer,,Dem,Fiona Ma,98
+Lake,442LANDS END,Treasurer,,Dem,Fiona Ma,112
+Lake,451ADOBE,Treasurer,,Dem,Fiona Ma,194
+Lake,452LAKESIDE PARK,Treasurer,,Dem,Fiona Ma,28
+Lake,455SODA BAY,Treasurer,,Dem,Fiona Ma,261
+Lake,461DONOVAN VALLEY,Treasurer,,Dem,Fiona Ma,20
+Lake,471HIGHLAND SPGS,Treasurer,,Dem,Fiona Ma,19
+Lake,520KELSEYVILLE,Treasurer,,Dem,Fiona Ma,241
+Lake,521COLE CREEK,Treasurer,,Dem,Fiona Ma,252
+Lake,522KELSEY CREEK,Treasurer,,Dem,Fiona Ma,257
+Lake,531WHEELER POINT,Treasurer,,Dem,Fiona Ma,321
+Lake,532RIVIERA,Treasurer,,Dem,Fiona Ma,219
+Lake,533MOUNTAIN PEAK,Treasurer,,Dem,Fiona Ma,249
+Lake,541LITTLE BORAX,Treasurer,,Dem,Fiona Ma,303
+Lake,551THURSTON LAKE,Treasurer,,Dem,Fiona Ma,61
+Lake,561LOCH LOMOND,Treasurer,,Dem,Fiona Ma,249
+Lake,571GLENBROOK,Treasurer,,Dem,Fiona Ma,202
+Lake,581W PINE/HOBERGS,Treasurer,,Dem,Fiona Ma,357
+Lake,LAKE CA,Treasurer,,Dem,Fiona Ma,11615
+Lake,111MIDDLETOWN,Attorney General,,Rep,Steven Bailey,201
+Lake,112CENTRAL PARK,Attorney General,,Rep,Steven Bailey,119
+Lake,113HIDDEN VALLEY 1,Attorney General,,Rep,Steven Bailey,270
+Lake,114HIDDEN VALLEY 2,Attorney General,,Rep,Steven Bailey,202
+Lake,115HIDDEN VALLEY 3,Attorney General,,Rep,Steven Bailey,252
+Lake,116HIDDEN VALLEY 4,Attorney General,,Rep,Steven Bailey,269
+Lake,117HV RANCHOS,Attorney General,,Rep,Steven Bailey,84
+Lake,118SPRUCE GROVE,Attorney General,,Rep,Steven Bailey,69
+Lake,119JERUSALEM,Attorney General,,Rep,Steven Bailey,5
+Lake,120COYOTE VALLEY,Attorney General,,Rep,Steven Bailey,46
+Lake,121TWIN LAKES,Attorney General,,Rep,Steven Bailey,207
+Lake,122LOWER LAKE,Attorney General,,Rep,Steven Bailey,132
+Lake,123PERINI HILL,Attorney General,,Rep,Steven Bailey,7
+Lake,124BELL PARK,Attorney General,,Rep,Steven Bailey,33
+Lake,131MORGAN VALLEY,Attorney General,,Rep,Steven Bailey,9
+Lake,132BUCK ISLAND,Attorney General,,Rep,Steven Bailey,1
+Lake,141CL REDBUD,Attorney General,,Rep,Steven Bailey,124
+Lake,142CL VILLAGE,Attorney General,,Rep,Steven Bailey,98
+Lake,211CL MONITOR PT,Attorney General,,Rep,Steven Bailey,168
+Lake,212CL BURNS VALLEY,Attorney General,,Rep,Steven Bailey,144
+Lake,213CL AUSTIN PARK,Attorney General,,Rep,Steven Bailey,208
+Lake,214CL PALMER,Attorney General,,Rep,Steven Bailey,142
+Lake,215CL DAVIS,Attorney General,,Rep,Steven Bailey,147
+Lake,216CL MOLESWORTH,Attorney General,,Rep,Steven Bailey,121
+Lake,217CL PIERCE,Attorney General,,Rep,Steven Bailey,146
+Lake,222BALLY PEAK,Attorney General,,Rep,Steven Bailey,5
+Lake,311UPPER LAKE,Attorney General,,Rep,Steven Bailey,227
+Lake,312BACHELOR,Attorney General,,Rep,Steven Bailey,237
+Lake,341NICE,Attorney General,,Rep,Steven Bailey,181
+Lake,342NICE HARBOR,Attorney General,,Rep,Steven Bailey,174
+Lake,343FORTY SPRINGS,Attorney General,,Rep,Steven Bailey,5
+Lake,351LUCERNE,Attorney General,,Rep,Steven Bailey,119
+Lake,352THE CASTLE,Attorney General,,Rep,Steven Bailey,96
+Lake,353KONO TAYEE,Attorney General,,Rep,Steven Bailey,178
+Lake,354GLENHAVEN,Attorney General,,Rep,Steven Bailey,29
+Lake,361GRAVELLY,Attorney General,,Rep,Steven Bailey,18
+Lake,371BARTLETT,Attorney General,,Rep,Steven Bailey,1
+Lake,381LONG VALLEY,Attorney General,,Rep,Steven Bailey,208
+Lake,382EAST LAKE,Attorney General,,Rep,Steven Bailey,122
+Lake,383KEYS WEST,Attorney General,,Rep,Steven Bailey,151
+Lake,384KEYS EAST,Attorney General,,Rep,Steven Bailey,108
+Lake,390LAKESHORE PARK,Attorney General,,Rep,Steven Bailey,45
+Lake,391SULPHUR PARK,Attorney General,,Rep,Steven Bailey,56
+Lake,392BALD MTN,Attorney General,,Rep,Steven Bailey,5
+Lake,411LP LANGE,Attorney General,,Rep,Steven Bailey,230
+Lake,412LP WILLOW TREE,Attorney General,,Rep,Steven Bailey,213
+Lake,413LP GOVERNMENT,Attorney General,,Rep,Steven Bailey,178
+Lake,414LP FAIRGROUNDS,Attorney General,,Rep,Steven Bailey,200
+Lake,421COW MTN,Attorney General,,Rep,Steven Bailey,156
+Lake,422SCOTTS VALLEY,Attorney General,,Rep,Steven Bailey,188
+Lake,431ROBIN HILL,Attorney General,,Rep,Steven Bailey,292
+Lake,432WESTLAKE,Attorney General,,Rep,Steven Bailey,235
+Lake,441BIG VALLEY,Attorney General,,Rep,Steven Bailey,167
+Lake,442LANDS END,Attorney General,,Rep,Steven Bailey,90
+Lake,451ADOBE,Attorney General,,Rep,Steven Bailey,181
+Lake,452LAKESIDE PARK,Attorney General,,Rep,Steven Bailey,46
+Lake,455SODA BAY,Attorney General,,Rep,Steven Bailey,175
+Lake,461DONOVAN VALLEY,Attorney General,,Rep,Steven Bailey,28
+Lake,471HIGHLAND SPGS,Attorney General,,Rep,Steven Bailey,5
+Lake,520KELSEYVILLE,Attorney General,,Rep,Steven Bailey,192
+Lake,521COLE CREEK,Attorney General,,Rep,Steven Bailey,158
+Lake,522KELSEY CREEK,Attorney General,,Rep,Steven Bailey,220
+Lake,531WHEELER POINT,Attorney General,,Rep,Steven Bailey,214
+Lake,532RIVIERA,Attorney General,,Rep,Steven Bailey,184
+Lake,533MOUNTAIN PEAK,Attorney General,,Rep,Steven Bailey,252
+Lake,541LITTLE BORAX,Attorney General,,Rep,Steven Bailey,240
+Lake,551THURSTON LAKE,Attorney General,,Rep,Steven Bailey,38
+Lake,561LOCH LOMOND,Attorney General,,Rep,Steven Bailey,237
+Lake,571GLENBROOK,Attorney General,,Rep,Steven Bailey,145
+Lake,581W PINE/HOBERGS,Attorney General,,Rep,Steven Bailey,170
+Lake,LAKE CA,Attorney General,,Rep,Steven Bailey,9603
+Lake,111MIDDLETOWN,Attorney General,,Dem,Xavier Becerra,212
+Lake,112CENTRAL PARK,Attorney General,,Dem,Xavier Becerra,153
+Lake,113HIDDEN VALLEY 1,Attorney General,,Dem,Xavier Becerra,302
+Lake,114HIDDEN VALLEY 2,Attorney General,,Dem,Xavier Becerra,259
+Lake,115HIDDEN VALLEY 3,Attorney General,,Dem,Xavier Becerra,260
+Lake,116HIDDEN VALLEY 4,Attorney General,,Dem,Xavier Becerra,294
+Lake,117HV RANCHOS,Attorney General,,Dem,Xavier Becerra,51
+Lake,118SPRUCE GROVE,Attorney General,,Dem,Xavier Becerra,79
+Lake,119JERUSALEM,Attorney General,,Dem,Xavier Becerra,14
+Lake,120COYOTE VALLEY,Attorney General,,Dem,Xavier Becerra,32
+Lake,121TWIN LAKES,Attorney General,,Dem,Xavier Becerra,159
+Lake,122LOWER LAKE,Attorney General,,Dem,Xavier Becerra,139
+Lake,123PERINI HILL,Attorney General,,Dem,Xavier Becerra,7
+Lake,124BELL PARK,Attorney General,,Dem,Xavier Becerra,28
+Lake,131MORGAN VALLEY,Attorney General,,Dem,Xavier Becerra,18
+Lake,132BUCK ISLAND,Attorney General,,Dem,Xavier Becerra,0
+Lake,141CL REDBUD,Attorney General,,Dem,Xavier Becerra,171
+Lake,142CL VILLAGE,Attorney General,,Dem,Xavier Becerra,123
+Lake,211CL MONITOR PT,Attorney General,,Dem,Xavier Becerra,251
+Lake,212CL BURNS VALLEY,Attorney General,,Dem,Xavier Becerra,257
+Lake,213CL AUSTIN PARK,Attorney General,,Dem,Xavier Becerra,220
+Lake,214CL PALMER,Attorney General,,Dem,Xavier Becerra,202
+Lake,215CL DAVIS,Attorney General,,Dem,Xavier Becerra,219
+Lake,216CL MOLESWORTH,Attorney General,,Dem,Xavier Becerra,238
+Lake,217CL PIERCE,Attorney General,,Dem,Xavier Becerra,218
+Lake,222BALLY PEAK,Attorney General,,Dem,Xavier Becerra,1
+Lake,311UPPER LAKE,Attorney General,,Dem,Xavier Becerra,216
+Lake,312BACHELOR,Attorney General,,Dem,Xavier Becerra,191
+Lake,341NICE,Attorney General,,Dem,Xavier Becerra,248
+Lake,342NICE HARBOR,Attorney General,,Dem,Xavier Becerra,136
+Lake,343FORTY SPRINGS,Attorney General,,Dem,Xavier Becerra,8
+Lake,351LUCERNE,Attorney General,,Dem,Xavier Becerra,161
+Lake,352THE CASTLE,Attorney General,,Dem,Xavier Becerra,155
+Lake,353KONO TAYEE,Attorney General,,Dem,Xavier Becerra,210
+Lake,354GLENHAVEN,Attorney General,,Dem,Xavier Becerra,47
+Lake,361GRAVELLY,Attorney General,,Dem,Xavier Becerra,14
+Lake,371BARTLETT,Attorney General,,Dem,Xavier Becerra,2
+Lake,381LONG VALLEY,Attorney General,,Dem,Xavier Becerra,171
+Lake,382EAST LAKE,Attorney General,,Dem,Xavier Becerra,146
+Lake,383KEYS WEST,Attorney General,,Dem,Xavier Becerra,173
+Lake,384KEYS EAST,Attorney General,,Dem,Xavier Becerra,124
+Lake,390LAKESHORE PARK,Attorney General,,Dem,Xavier Becerra,52
+Lake,391SULPHUR PARK,Attorney General,,Dem,Xavier Becerra,61
+Lake,392BALD MTN,Attorney General,,Dem,Xavier Becerra,2
+Lake,411LP LANGE,Attorney General,,Dem,Xavier Becerra,247
+Lake,412LP WILLOW TREE,Attorney General,,Dem,Xavier Becerra,244
+Lake,413LP GOVERNMENT,Attorney General,,Dem,Xavier Becerra,248
+Lake,414LP FAIRGROUNDS,Attorney General,,Dem,Xavier Becerra,262
+Lake,421COW MTN,Attorney General,,Dem,Xavier Becerra,141
+Lake,422SCOTTS VALLEY,Attorney General,,Dem,Xavier Becerra,123
+Lake,431ROBIN HILL,Attorney General,,Dem,Xavier Becerra,311
+Lake,432WESTLAKE,Attorney General,,Dem,Xavier Becerra,267
+Lake,441BIG VALLEY,Attorney General,,Dem,Xavier Becerra,97
+Lake,442LANDS END,Attorney General,,Dem,Xavier Becerra,117
+Lake,451ADOBE,Attorney General,,Dem,Xavier Becerra,185
+Lake,452LAKESIDE PARK,Attorney General,,Dem,Xavier Becerra,26
+Lake,455SODA BAY,Attorney General,,Dem,Xavier Becerra,250
+Lake,461DONOVAN VALLEY,Attorney General,,Dem,Xavier Becerra,17
+Lake,471HIGHLAND SPGS,Attorney General,,Dem,Xavier Becerra,19
+Lake,520KELSEYVILLE,Attorney General,,Dem,Xavier Becerra,221
+Lake,521COLE CREEK,Attorney General,,Dem,Xavier Becerra,244
+Lake,522KELSEY CREEK,Attorney General,,Dem,Xavier Becerra,248
+Lake,531WHEELER POINT,Attorney General,,Dem,Xavier Becerra,318
+Lake,532RIVIERA,Attorney General,,Dem,Xavier Becerra,220
+Lake,533MOUNTAIN PEAK,Attorney General,,Dem,Xavier Becerra,241
+Lake,541LITTLE BORAX,Attorney General,,Dem,Xavier Becerra,293
+Lake,551THURSTON LAKE,Attorney General,,Dem,Xavier Becerra,60
+Lake,561LOCH LOMOND,Attorney General,,Dem,Xavier Becerra,243
+Lake,571GLENBROOK,Attorney General,,Dem,Xavier Becerra,188
+Lake,581W PINE/HOBERGS,Attorney General,,Dem,Xavier Becerra,358
+Lake,LAKE CA,Attorney General,,Dem,Xavier Becerra,11212
+Lake,111MIDDLETOWN,Insurance Commissioner,,Dem,Ricardo Lara,183
+Lake,112CENTRAL PARK,Insurance Commissioner,,Dem,Ricardo Lara,100
+Lake,113HIDDEN VALLEY 1,Insurance Commissioner,,Dem,Ricardo Lara,230
+Lake,114HIDDEN VALLEY 2,Insurance Commissioner,,Dem,Ricardo Lara,200
+Lake,115HIDDEN VALLEY 3,Insurance Commissioner,,Dem,Ricardo Lara,204
+Lake,116HIDDEN VALLEY 4,Insurance Commissioner,,Dem,Ricardo Lara,253
+Lake,117HV RANCHOS,Insurance Commissioner,,Dem,Ricardo Lara,41
+Lake,118SPRUCE GROVE,Insurance Commissioner,,Dem,Ricardo Lara,64
+Lake,119JERUSALEM,Insurance Commissioner,,Dem,Ricardo Lara,12
+Lake,120COYOTE VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,28
+Lake,121TWIN LAKES,Insurance Commissioner,,Dem,Ricardo Lara,124
+Lake,122LOWER LAKE,Insurance Commissioner,,Dem,Ricardo Lara,108
+Lake,123PERINI HILL,Insurance Commissioner,,Dem,Ricardo Lara,7
+Lake,124BELL PARK,Insurance Commissioner,,Dem,Ricardo Lara,18
+Lake,131MORGAN VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,14
+Lake,132BUCK ISLAND,Insurance Commissioner,,Dem,Ricardo Lara,0
+Lake,141CL REDBUD,Insurance Commissioner,,Dem,Ricardo Lara,144
+Lake,142CL VILLAGE,Insurance Commissioner,,Dem,Ricardo Lara,100
+Lake,211CL MONITOR PT,Insurance Commissioner,,Dem,Ricardo Lara,195
+Lake,212CL BURNS VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,188
+Lake,213CL AUSTIN PARK,Insurance Commissioner,,Dem,Ricardo Lara,180
+Lake,214CL PALMER,Insurance Commissioner,,Dem,Ricardo Lara,163
+Lake,215CL DAVIS,Insurance Commissioner,,Dem,Ricardo Lara,193
+Lake,216CL MOLESWORTH,Insurance Commissioner,,Dem,Ricardo Lara,190
+Lake,217CL PIERCE,Insurance Commissioner,,Dem,Ricardo Lara,174
+Lake,222BALLY PEAK,Insurance Commissioner,,Dem,Ricardo Lara,1
+Lake,311UPPER LAKE,Insurance Commissioner,,Dem,Ricardo Lara,158
+Lake,312BACHELOR,Insurance Commissioner,,Dem,Ricardo Lara,154
+Lake,341NICE,Insurance Commissioner,,Dem,Ricardo Lara,188
+Lake,342NICE HARBOR,Insurance Commissioner,,Dem,Ricardo Lara,107
+Lake,343FORTY SPRINGS,Insurance Commissioner,,Dem,Ricardo Lara,5
+Lake,351LUCERNE,Insurance Commissioner,,Dem,Ricardo Lara,129
+Lake,352THE CASTLE,Insurance Commissioner,,Dem,Ricardo Lara,120
+Lake,353KONO TAYEE,Insurance Commissioner,,Dem,Ricardo Lara,179
+Lake,354GLENHAVEN,Insurance Commissioner,,Dem,Ricardo Lara,38
+Lake,361GRAVELLY,Insurance Commissioner,,Dem,Ricardo Lara,13
+Lake,371BARTLETT,Insurance Commissioner,,Dem,Ricardo Lara,0
+Lake,381LONG VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,142
+Lake,382EAST LAKE,Insurance Commissioner,,Dem,Ricardo Lara,107
+Lake,383KEYS WEST,Insurance Commissioner,,Dem,Ricardo Lara,144
+Lake,384KEYS EAST,Insurance Commissioner,,Dem,Ricardo Lara,96
+Lake,390LAKESHORE PARK,Insurance Commissioner,,Dem,Ricardo Lara,31
+Lake,391SULPHUR PARK,Insurance Commissioner,,Dem,Ricardo Lara,47
+Lake,392BALD MTN,Insurance Commissioner,,Dem,Ricardo Lara,3
+Lake,411LP LANGE,Insurance Commissioner,,Dem,Ricardo Lara,184
+Lake,412LP WILLOW TREE,Insurance Commissioner,,Dem,Ricardo Lara,178
+Lake,413LP GOVERNMENT,Insurance Commissioner,,Dem,Ricardo Lara,195
+Lake,414LP FAIRGROUNDS,Insurance Commissioner,,Dem,Ricardo Lara,209
+Lake,421COW MTN,Insurance Commissioner,,Dem,Ricardo Lara,113
+Lake,422SCOTTS VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,101
+Lake,431ROBIN HILL,Insurance Commissioner,,Dem,Ricardo Lara,229
+Lake,432WESTLAKE,Insurance Commissioner,,Dem,Ricardo Lara,216
+Lake,441BIG VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,70
+Lake,442LANDS END,Insurance Commissioner,,Dem,Ricardo Lara,91
+Lake,451ADOBE,Insurance Commissioner,,Dem,Ricardo Lara,144
+Lake,452LAKESIDE PARK,Insurance Commissioner,,Dem,Ricardo Lara,18
+Lake,455SODA BAY,Insurance Commissioner,,Dem,Ricardo Lara,181
+Lake,461DONOVAN VALLEY,Insurance Commissioner,,Dem,Ricardo Lara,16
+Lake,471HIGHLAND SPGS,Insurance Commissioner,,Dem,Ricardo Lara,9
+Lake,520KELSEYVILLE,Insurance Commissioner,,Dem,Ricardo Lara,185
+Lake,521COLE CREEK,Insurance Commissioner,,Dem,Ricardo Lara,190
+Lake,522KELSEY CREEK,Insurance Commissioner,,Dem,Ricardo Lara,187
+Lake,531WHEELER POINT,Insurance Commissioner,,Dem,Ricardo Lara,257
+Lake,532RIVIERA,Insurance Commissioner,,Dem,Ricardo Lara,165
+Lake,533MOUNTAIN PEAK,Insurance Commissioner,,Dem,Ricardo Lara,196
+Lake,541LITTLE BORAX,Insurance Commissioner,,Dem,Ricardo Lara,225
+Lake,551THURSTON LAKE,Insurance Commissioner,,Dem,Ricardo Lara,42
+Lake,561LOCH LOMOND,Insurance Commissioner,,Dem,Ricardo Lara,178
+Lake,571GLENBROOK,Insurance Commissioner,,Dem,Ricardo Lara,152
+Lake,581W PINE/HOBERGS,Insurance Commissioner,,Dem,Ricardo Lara,286
+Lake,LAKE CA,Insurance Commissioner,,Dem,Ricardo Lara,8792
+Lake,111MIDDLETOWN,Insurance Commissioner,,NPP,Steve Poizner,214
+Lake,112CENTRAL PARK,Insurance Commissioner,,NPP,Steve Poizner,162
+Lake,113HIDDEN VALLEY 1,Insurance Commissioner,,NPP,Steve Poizner,323
+Lake,114HIDDEN VALLEY 2,Insurance Commissioner,,NPP,Steve Poizner,243
+Lake,115HIDDEN VALLEY 3,Insurance Commissioner,,NPP,Steve Poizner,290
+Lake,116HIDDEN VALLEY 4,Insurance Commissioner,,NPP,Steve Poizner,292
+Lake,117HV RANCHOS,Insurance Commissioner,,NPP,Steve Poizner,87
+Lake,118SPRUCE GROVE,Insurance Commissioner,,NPP,Steve Poizner,78
+Lake,119JERUSALEM,Insurance Commissioner,,NPP,Steve Poizner,7
+Lake,120COYOTE VALLEY,Insurance Commissioner,,NPP,Steve Poizner,47
+Lake,121TWIN LAKES,Insurance Commissioner,,NPP,Steve Poizner,224
+Lake,122LOWER LAKE,Insurance Commissioner,,NPP,Steve Poizner,155
+Lake,123PERINI HILL,Insurance Commissioner,,NPP,Steve Poizner,7
+Lake,124BELL PARK,Insurance Commissioner,,NPP,Steve Poizner,41
+Lake,131MORGAN VALLEY,Insurance Commissioner,,NPP,Steve Poizner,13
+Lake,132BUCK ISLAND,Insurance Commissioner,,NPP,Steve Poizner,1
+Lake,141CL REDBUD,Insurance Commissioner,,NPP,Steve Poizner,132
+Lake,142CL VILLAGE,Insurance Commissioner,,NPP,Steve Poizner,117
+Lake,211CL MONITOR PT,Insurance Commissioner,,NPP,Steve Poizner,217
+Lake,212CL BURNS VALLEY,Insurance Commissioner,,NPP,Steve Poizner,209
+Lake,213CL AUSTIN PARK,Insurance Commissioner,,NPP,Steve Poizner,227
+Lake,214CL PALMER,Insurance Commissioner,,NPP,Steve Poizner,165
+Lake,215CL DAVIS,Insurance Commissioner,,NPP,Steve Poizner,169
+Lake,216CL MOLESWORTH,Insurance Commissioner,,NPP,Steve Poizner,153
+Lake,217CL PIERCE,Insurance Commissioner,,NPP,Steve Poizner,182
+Lake,222BALLY PEAK,Insurance Commissioner,,NPP,Steve Poizner,5
+Lake,311UPPER LAKE,Insurance Commissioner,,NPP,Steve Poizner,271
+Lake,312BACHELOR,Insurance Commissioner,,NPP,Steve Poizner,250
+Lake,341NICE,Insurance Commissioner,,NPP,Steve Poizner,232
+Lake,342NICE HARBOR,Insurance Commissioner,,NPP,Steve Poizner,188
+Lake,343FORTY SPRINGS,Insurance Commissioner,,NPP,Steve Poizner,8
+Lake,351LUCERNE,Insurance Commissioner,,NPP,Steve Poizner,148
+Lake,352THE CASTLE,Insurance Commissioner,,NPP,Steve Poizner,123
+Lake,353KONO TAYEE,Insurance Commissioner,,NPP,Steve Poizner,202
+Lake,354GLENHAVEN,Insurance Commissioner,,NPP,Steve Poizner,36
+Lake,361GRAVELLY,Insurance Commissioner,,NPP,Steve Poizner,17
+Lake,371BARTLETT,Insurance Commissioner,,NPP,Steve Poizner,3
+Lake,381LONG VALLEY,Insurance Commissioner,,NPP,Steve Poizner,223
+Lake,382EAST LAKE,Insurance Commissioner,,NPP,Steve Poizner,152
+Lake,383KEYS WEST,Insurance Commissioner,,NPP,Steve Poizner,166
+Lake,384KEYS EAST,Insurance Commissioner,,NPP,Steve Poizner,129
+Lake,390LAKESHORE PARK,Insurance Commissioner,,NPP,Steve Poizner,63
+Lake,391SULPHUR PARK,Insurance Commissioner,,NPP,Steve Poizner,64
+Lake,392BALD MTN,Insurance Commissioner,,NPP,Steve Poizner,3
+Lake,411LP LANGE,Insurance Commissioner,,NPP,Steve Poizner,273
+Lake,412LP WILLOW TREE,Insurance Commissioner,,NPP,Steve Poizner,260
+Lake,413LP GOVERNMENT,Insurance Commissioner,,NPP,Steve Poizner,221
+Lake,414LP FAIRGROUNDS,Insurance Commissioner,,NPP,Steve Poizner,235
+Lake,421COW MTN,Insurance Commissioner,,NPP,Steve Poizner,169
+Lake,422SCOTTS VALLEY,Insurance Commissioner,,NPP,Steve Poizner,199
+Lake,431ROBIN HILL,Insurance Commissioner,,NPP,Steve Poizner,347
+Lake,432WESTLAKE,Insurance Commissioner,,NPP,Steve Poizner,257
+Lake,441BIG VALLEY,Insurance Commissioner,,NPP,Steve Poizner,178
+Lake,442LANDS END,Insurance Commissioner,,NPP,Steve Poizner,107
+Lake,451ADOBE,Insurance Commissioner,,NPP,Steve Poizner,207
+Lake,452LAKESIDE PARK,Insurance Commissioner,,NPP,Steve Poizner,49
+Lake,455SODA BAY,Insurance Commissioner,,NPP,Steve Poizner,220
+Lake,461DONOVAN VALLEY,Insurance Commissioner,,NPP,Steve Poizner,28
+Lake,471HIGHLAND SPGS,Insurance Commissioner,,NPP,Steve Poizner,15
+Lake,520KELSEYVILLE,Insurance Commissioner,,NPP,Steve Poizner,224
+Lake,521COLE CREEK,Insurance Commissioner,,NPP,Steve Poizner,194
+Lake,522KELSEY CREEK,Insurance Commissioner,,NPP,Steve Poizner,266
+Lake,531WHEELER POINT,Insurance Commissioner,,NPP,Steve Poizner,263
+Lake,532RIVIERA,Insurance Commissioner,,NPP,Steve Poizner,214
+Lake,533MOUNTAIN PEAK,Insurance Commissioner,,NPP,Steve Poizner,267
+Lake,541LITTLE BORAX,Insurance Commissioner,,NPP,Steve Poizner,290
+Lake,551THURSTON LAKE,Insurance Commissioner,,NPP,Steve Poizner,49
+Lake,561LOCH LOMOND,Insurance Commissioner,,NPP,Steve Poizner,289
+Lake,571GLENBROOK,Insurance Commissioner,,NPP,Steve Poizner,169
+Lake,581W PINE/HOBERGS,Insurance Commissioner,,NPP,Steve Poizner,224
+Lake,LAKE CA,Insurance Commissioner,,NPP,Steve Poizner,11252
+Lake,111MIDDLETOWN,US Senate,,Dem,Dianne Feinstein,149
+Lake,112CENTRAL PARK,US Senate,,Dem,Dianne Feinstein,109
+Lake,113HIDDEN VALLEY 1,US Senate,,Dem,Dianne Feinstein,225
+Lake,114HIDDEN VALLEY 2,US Senate,,Dem,Dianne Feinstein,176
+Lake,115HIDDEN VALLEY 3,US Senate,,Dem,Dianne Feinstein,214
+Lake,116HIDDEN VALLEY 4,US Senate,,Dem,Dianne Feinstein,208
+Lake,117HV RANCHOS,US Senate,,Dem,Dianne Feinstein,45
+Lake,118SPRUCE GROVE,US Senate,,Dem,Dianne Feinstein,55
+Lake,119JERUSALEM,US Senate,,Dem,Dianne Feinstein,10
+Lake,120COYOTE VALLEY,US Senate,,Dem,Dianne Feinstein,21
+Lake,121TWIN LAKES,US Senate,,Dem,Dianne Feinstein,114
+Lake,122LOWER LAKE,US Senate,,Dem,Dianne Feinstein,101
+Lake,123PERINI HILL,US Senate,,Dem,Dianne Feinstein,9
+Lake,124BELL PARK,US Senate,,Dem,Dianne Feinstein,25
+Lake,131MORGAN VALLEY,US Senate,,Dem,Dianne Feinstein,16
+Lake,132BUCK ISLAND,US Senate,,Dem,Dianne Feinstein,0
+Lake,141CL REDBUD,US Senate,,Dem,Dianne Feinstein,146
+Lake,142CL VILLAGE,US Senate,,Dem,Dianne Feinstein,82
+Lake,211CL MONITOR PT,US Senate,,Dem,Dianne Feinstein,201
+Lake,212CL BURNS VALLEY,US Senate,,Dem,Dianne Feinstein,193
+Lake,213CL AUSTIN PARK,US Senate,,Dem,Dianne Feinstein,149
+Lake,214CL PALMER,US Senate,,Dem,Dianne Feinstein,140
+Lake,215CL DAVIS,US Senate,,Dem,Dianne Feinstein,158
+Lake,216CL MOLESWORTH,US Senate,,Dem,Dianne Feinstein,158
+Lake,217CL PIERCE,US Senate,,Dem,Dianne Feinstein,151
+Lake,222BALLY PEAK,US Senate,,Dem,Dianne Feinstein,1
+Lake,311UPPER LAKE,US Senate,,Dem,Dianne Feinstein,145
+Lake,312BACHELOR,US Senate,,Dem,Dianne Feinstein,137
+Lake,341NICE,US Senate,,Dem,Dianne Feinstein,169
+Lake,342NICE HARBOR,US Senate,,Dem,Dianne Feinstein,116
+Lake,343FORTY SPRINGS,US Senate,,Dem,Dianne Feinstein,6
+Lake,351LUCERNE,US Senate,,Dem,Dianne Feinstein,112
+Lake,352THE CASTLE,US Senate,,Dem,Dianne Feinstein,100
+Lake,353KONO TAYEE,US Senate,,Dem,Dianne Feinstein,163
+Lake,354GLENHAVEN,US Senate,,Dem,Dianne Feinstein,39
+Lake,361GRAVELLY,US Senate,,Dem,Dianne Feinstein,8
+Lake,371BARTLETT,US Senate,,Dem,Dianne Feinstein,0
+Lake,381LONG VALLEY,US Senate,,Dem,Dianne Feinstein,143
+Lake,382EAST LAKE,US Senate,,Dem,Dianne Feinstein,123
+Lake,383KEYS WEST,US Senate,,Dem,Dianne Feinstein,138
+Lake,384KEYS EAST,US Senate,,Dem,Dianne Feinstein,96
+Lake,390LAKESHORE PARK,US Senate,,Dem,Dianne Feinstein,44
+Lake,391SULPHUR PARK,US Senate,,Dem,Dianne Feinstein,42
+Lake,392BALD MTN,US Senate,,Dem,Dianne Feinstein,0
+Lake,411LP LANGE,US Senate,,Dem,Dianne Feinstein,169
+Lake,412LP WILLOW TREE,US Senate,,Dem,Dianne Feinstein,182
+Lake,413LP GOVERNMENT,US Senate,,Dem,Dianne Feinstein,190
+Lake,414LP FAIRGROUNDS,US Senate,,Dem,Dianne Feinstein,183
+Lake,421COW MTN,US Senate,,Dem,Dianne Feinstein,107
+Lake,422SCOTTS VALLEY,US Senate,,Dem,Dianne Feinstein,110
+Lake,431ROBIN HILL,US Senate,,Dem,Dianne Feinstein,226
+Lake,432WESTLAKE,US Senate,,Dem,Dianne Feinstein,186
+Lake,441BIG VALLEY,US Senate,,Dem,Dianne Feinstein,82
+Lake,442LANDS END,US Senate,,Dem,Dianne Feinstein,72
+Lake,451ADOBE,US Senate,,Dem,Dianne Feinstein,142
+Lake,452LAKESIDE PARK,US Senate,,Dem,Dianne Feinstein,19
+Lake,455SODA BAY,US Senate,,Dem,Dianne Feinstein,182
+Lake,461DONOVAN VALLEY,US Senate,,Dem,Dianne Feinstein,15
+Lake,471HIGHLAND SPGS,US Senate,,Dem,Dianne Feinstein,13
+Lake,520KELSEYVILLE,US Senate,,Dem,Dianne Feinstein,147
+Lake,521COLE CREEK,US Senate,,Dem,Dianne Feinstein,155
+Lake,522KELSEY CREEK,US Senate,,Dem,Dianne Feinstein,180
+Lake,531WHEELER POINT,US Senate,,Dem,Dianne Feinstein,243
+Lake,532RIVIERA,US Senate,,Dem,Dianne Feinstein,151
+Lake,533MOUNTAIN PEAK,US Senate,,Dem,Dianne Feinstein,150
+Lake,541LITTLE BORAX,US Senate,,Dem,Dianne Feinstein,227
+Lake,551THURSTON LAKE,US Senate,,Dem,Dianne Feinstein,38
+Lake,561LOCH LOMOND,US Senate,,Dem,Dianne Feinstein,177
+Lake,571GLENBROOK,US Senate,,Dem,Dianne Feinstein,154
+Lake,581W PINE/HOBERGS,US Senate,,Dem,Dianne Feinstein,205
+Lake,LAKE CA,US Senate,,Dem,Dianne Feinstein,8142
+Lake,111MIDDLETOWN,US Senate,,Dem,Kevin DeLeon,219
+Lake,112CENTRAL PARK,US Senate,,Dem,Kevin DeLeon,140
+Lake,113HIDDEN VALLEY 1,US Senate,,Dem,Kevin DeLeon,268
+Lake,114HIDDEN VALLEY 2,US Senate,,Dem,Kevin DeLeon,226
+Lake,115HIDDEN VALLEY 3,US Senate,,Dem,Kevin DeLeon,229
+Lake,116HIDDEN VALLEY 4,US Senate,,Dem,Kevin DeLeon,278
+Lake,117HV RANCHOS,US Senate,,Dem,Kevin DeLeon,75
+Lake,118SPRUCE GROVE,US Senate,,Dem,Kevin DeLeon,71
+Lake,119JERUSALEM,US Senate,,Dem,Kevin DeLeon,6
+Lake,120COYOTE VALLEY,US Senate,,Dem,Kevin DeLeon,48
+Lake,121TWIN LAKES,US Senate,,Dem,Kevin DeLeon,188
+Lake,122LOWER LAKE,US Senate,,Dem,Kevin DeLeon,137
+Lake,123PERINI HILL,US Senate,,Dem,Kevin DeLeon,3
+Lake,124BELL PARK,US Senate,,Dem,Kevin DeLeon,29
+Lake,131MORGAN VALLEY,US Senate,,Dem,Kevin DeLeon,7
+Lake,132BUCK ISLAND,US Senate,,Dem,Kevin DeLeon,1
+Lake,141CL REDBUD,US Senate,,Dem,Kevin DeLeon,115
+Lake,142CL VILLAGE,US Senate,,Dem,Kevin DeLeon,119
+Lake,211CL MONITOR PT,US Senate,,Dem,Kevin DeLeon,198
+Lake,212CL BURNS VALLEY,US Senate,,Dem,Kevin DeLeon,178
+Lake,213CL AUSTIN PARK,US Senate,,Dem,Kevin DeLeon,226
+Lake,214CL PALMER,US Senate,,Dem,Kevin DeLeon,173
+Lake,215CL DAVIS,US Senate,,Dem,Kevin DeLeon,174
+Lake,216CL MOLESWORTH,US Senate,,Dem,Kevin DeLeon,164
+Lake,217CL PIERCE,US Senate,,Dem,Kevin DeLeon,179
+Lake,222BALLY PEAK,US Senate,,Dem,Kevin DeLeon,3
+Lake,311UPPER LAKE,US Senate,,Dem,Kevin DeLeon,232
+Lake,312BACHELOR,US Senate,,Dem,Kevin DeLeon,234
+Lake,341NICE,US Senate,,Dem,Kevin DeLeon,230
+Lake,342NICE HARBOR,US Senate,,Dem,Kevin DeLeon,163
+Lake,343FORTY SPRINGS,US Senate,,Dem,Kevin DeLeon,5
+Lake,351LUCERNE,US Senate,,Dem,Kevin DeLeon,137
+Lake,352THE CASTLE,US Senate,,Dem,Kevin DeLeon,123
+Lake,353KONO TAYEE,US Senate,,Dem,Kevin DeLeon,175
+Lake,354GLENHAVEN,US Senate,,Dem,Kevin DeLeon,30
+Lake,361GRAVELLY,US Senate,,Dem,Kevin DeLeon,19
+Lake,371BARTLETT,US Senate,,Dem,Kevin DeLeon,3
+Lake,381LONG VALLEY,US Senate,,Dem,Kevin DeLeon,181
+Lake,382EAST LAKE,US Senate,,Dem,Kevin DeLeon,121
+Lake,383KEYS WEST,US Senate,,Dem,Kevin DeLeon,136
+Lake,384KEYS EAST,US Senate,,Dem,Kevin DeLeon,108
+Lake,390LAKESHORE PARK,US Senate,,Dem,Kevin DeLeon,40
+Lake,391SULPHUR PARK,US Senate,,Dem,Kevin DeLeon,59
+Lake,392BALD MTN,US Senate,,Dem,Kevin DeLeon,4
+Lake,411LP LANGE,US Senate,,Dem,Kevin DeLeon,262
+Lake,412LP WILLOW TREE,US Senate,,Dem,Kevin DeLeon,222
+Lake,413LP GOVERNMENT,US Senate,,Dem,Kevin DeLeon,199
+Lake,414LP FAIRGROUNDS,US Senate,,Dem,Kevin DeLeon,228
+Lake,421COW MTN,US Senate,,Dem,Kevin DeLeon,163
+Lake,422SCOTTS VALLEY,US Senate,,Dem,Kevin DeLeon,159
+Lake,431ROBIN HILL,US Senate,,Dem,Kevin DeLeon,318
+Lake,432WESTLAKE,US Senate,,Dem,Kevin DeLeon,250
+Lake,441BIG VALLEY,US Senate,,Dem,Kevin DeLeon,137
+Lake,442LANDS END,US Senate,,Dem,Kevin DeLeon,111
+Lake,451ADOBE,US Senate,,Dem,Kevin DeLeon,175
+Lake,452LAKESIDE PARK,US Senate,,Dem,Kevin DeLeon,44
+Lake,455SODA BAY,US Senate,,Dem,Kevin DeLeon,196
+Lake,461DONOVAN VALLEY,US Senate,,Dem,Kevin DeLeon,26
+Lake,471HIGHLAND SPGS,US Senate,,Dem,Kevin DeLeon,11
+Lake,520KELSEYVILLE,US Senate,,Dem,Kevin DeLeon,226
+Lake,521COLE CREEK,US Senate,,Dem,Kevin DeLeon,199
+Lake,522KELSEY CREEK,US Senate,,Dem,Kevin DeLeon,238
+Lake,531WHEELER POINT,US Senate,,Dem,Kevin DeLeon,246
+Lake,532RIVIERA,US Senate,,Dem,Kevin DeLeon,202
+Lake,533MOUNTAIN PEAK,US Senate,,Dem,Kevin DeLeon,290
+Lake,541LITTLE BORAX,US Senate,,Dem,Kevin DeLeon,229
+Lake,551THURSTON LAKE,US Senate,,Dem,Kevin DeLeon,50
+Lake,561LOCH LOMOND,US Senate,,Dem,Kevin DeLeon,247
+Lake,571GLENBROOK,US Senate,,Dem,Kevin DeLeon,150
+Lake,581W PINE/HOBERGS,US Senate,,Dem,Kevin DeLeon,285
+Lake,LAKE CA,US Senate,,Dem,Kevin DeLeon,10317
+Lake,111MIDDLETOWN,Public Instruction,,None,Marshall Tuck,182
+Lake,112CENTRAL PARK,Public Instruction,,None,Marshall Tuck,119
+Lake,113HIDDEN VALLEY 1,Public Instruction,,None,Marshall Tuck,280
+Lake,114HIDDEN VALLEY 2,Public Instruction,,None,Marshall Tuck,193
+Lake,115HIDDEN VALLEY 3,Public Instruction,,None,Marshall Tuck,236
+Lake,116HIDDEN VALLEY 4,Public Instruction,,None,Marshall Tuck,253
+Lake,117HV RANCHOS,Public Instruction,,None,Marshall Tuck,72
+Lake,118SPRUCE GROVE,Public Instruction,,None,Marshall Tuck,63
+Lake,119JERUSALEM,Public Instruction,,None,Marshall Tuck,7
+Lake,120COYOTE VALLEY,Public Instruction,,None,Marshall Tuck,37
+Lake,121TWIN LAKES,Public Instruction,,None,Marshall Tuck,173
+Lake,122LOWER LAKE,Public Instruction,,None,Marshall Tuck,133
+Lake,123PERINI HILL,Public Instruction,,None,Marshall Tuck,7
+Lake,124BELL PARK,Public Instruction,,None,Marshall Tuck,38
+Lake,131MORGAN VALLEY,Public Instruction,,None,Marshall Tuck,7
+Lake,132BUCK ISLAND,Public Instruction,,None,Marshall Tuck,1
+Lake,141CL REDBUD,Public Instruction,,None,Marshall Tuck,124
+Lake,142CL VILLAGE,Public Instruction,,None,Marshall Tuck,99
+Lake,211CL MONITOR PT,Public Instruction,,None,Marshall Tuck,206
+Lake,212CL BURNS VALLEY,Public Instruction,,None,Marshall Tuck,178
+Lake,213CL AUSTIN PARK,Public Instruction,,None,Marshall Tuck,222
+Lake,214CL PALMER,Public Instruction,,None,Marshall Tuck,142
+Lake,215CL DAVIS,Public Instruction,,None,Marshall Tuck,160
+Lake,216CL MOLESWORTH,Public Instruction,,None,Marshall Tuck,152
+Lake,217CL PIERCE,Public Instruction,,None,Marshall Tuck,160
+Lake,222BALLY PEAK,Public Instruction,,None,Marshall Tuck,4
+Lake,311UPPER LAKE,Public Instruction,,None,Marshall Tuck,195
+Lake,312BACHELOR,Public Instruction,,None,Marshall Tuck,198
+Lake,341NICE,Public Instruction,,None,Marshall Tuck,195
+Lake,342NICE HARBOR,Public Instruction,,None,Marshall Tuck,149
+Lake,343FORTY SPRINGS,Public Instruction,,None,Marshall Tuck,4
+Lake,351LUCERNE,Public Instruction,,None,Marshall Tuck,126
+Lake,352THE CASTLE,Public Instruction,,None,Marshall Tuck,98
+Lake,353KONO TAYEE,Public Instruction,,None,Marshall Tuck,171
+Lake,354GLENHAVEN,Public Instruction,,None,Marshall Tuck,32
+Lake,361GRAVELLY,Public Instruction,,None,Marshall Tuck,18
+Lake,371BARTLETT,Public Instruction,,None,Marshall Tuck,3
+Lake,381LONG VALLEY,Public Instruction,,None,Marshall Tuck,206
+Lake,382EAST LAKE,Public Instruction,,None,Marshall Tuck,122
+Lake,383KEYS WEST,Public Instruction,,None,Marshall Tuck,140
+Lake,384KEYS EAST,Public Instruction,,None,Marshall Tuck,103
+Lake,390LAKESHORE PARK,Public Instruction,,None,Marshall Tuck,45
+Lake,391SULPHUR PARK,Public Instruction,,None,Marshall Tuck,49
+Lake,392BALD MTN,Public Instruction,,None,Marshall Tuck,4
+Lake,411LP LANGE,Public Instruction,,None,Marshall Tuck,204
+Lake,412LP WILLOW TREE,Public Instruction,,None,Marshall Tuck,206
+Lake,413LP GOVERNMENT,Public Instruction,,None,Marshall Tuck,188
+Lake,414LP FAIRGROUNDS,Public Instruction,,None,Marshall Tuck,184
+Lake,421COW MTN,Public Instruction,,None,Marshall Tuck,128
+Lake,422SCOTTS VALLEY,Public Instruction,,None,Marshall Tuck,140
+Lake,431ROBIN HILL,Public Instruction,,None,Marshall Tuck,270
+Lake,432WESTLAKE,Public Instruction,,None,Marshall Tuck,212
+Lake,441BIG VALLEY,Public Instruction,,None,Marshall Tuck,123
+Lake,442LANDS END,Public Instruction,,None,Marshall Tuck,91
+Lake,451ADOBE,Public Instruction,,None,Marshall Tuck,150
+Lake,452LAKESIDE PARK,Public Instruction,,None,Marshall Tuck,31
+Lake,455SODA BAY,Public Instruction,,None,Marshall Tuck,168
+Lake,461DONOVAN VALLEY,Public Instruction,,None,Marshall Tuck,25
+Lake,471HIGHLAND SPGS,Public Instruction,,None,Marshall Tuck,7
+Lake,520KELSEYVILLE,Public Instruction,,None,Marshall Tuck,192
+Lake,521COLE CREEK,Public Instruction,,None,Marshall Tuck,171
+Lake,522KELSEY CREEK,Public Instruction,,None,Marshall Tuck,203
+Lake,531WHEELER POINT,Public Instruction,,None,Marshall Tuck,218
+Lake,532RIVIERA,Public Instruction,,None,Marshall Tuck,165
+Lake,533MOUNTAIN PEAK,Public Instruction,,None,Marshall Tuck,229
+Lake,541LITTLE BORAX,Public Instruction,,None,Marshall Tuck,237
+Lake,551THURSTON LAKE,Public Instruction,,None,Marshall Tuck,44
+Lake,561LOCH LOMOND,Public Instruction,,None,Marshall Tuck,218
+Lake,571GLENBROOK,Public Instruction,,None,Marshall Tuck,140
+Lake,581W PINE/HOBERGS,Public Instruction,,None,Marshall Tuck,182
+Lake,LAKE CA,Public Instruction,,None,Marshall Tuck,9232
+Lake,111MIDDLETOWN,Public Instruction,,None,Tony Thurmond,200
+Lake,112CENTRAL PARK,Public Instruction,,None,Tony Thurmond,124
+Lake,113HIDDEN VALLEY 1,Public Instruction,,None,Tony Thurmond,238
+Lake,114HIDDEN VALLEY 2,Public Instruction,,None,Tony Thurmond,222
+Lake,115HIDDEN VALLEY 3,Public Instruction,,None,Tony Thurmond,219
+Lake,116HIDDEN VALLEY 4,Public Instruction,,None,Tony Thurmond,241
+Lake,117HV RANCHOS,Public Instruction,,None,Tony Thurmond,54
+Lake,118SPRUCE GROVE,Public Instruction,,None,Tony Thurmond,59
+Lake,119JERUSALEM,Public Instruction,,None,Tony Thurmond,10
+Lake,120COYOTE VALLEY,Public Instruction,,None,Tony Thurmond,32
+Lake,121TWIN LAKES,Public Instruction,,None,Tony Thurmond,154
+Lake,122LOWER LAKE,Public Instruction,,None,Tony Thurmond,116
+Lake,123PERINI HILL,Public Instruction,,None,Tony Thurmond,5
+Lake,124BELL PARK,Public Instruction,,None,Tony Thurmond,23
+Lake,131MORGAN VALLEY,Public Instruction,,None,Tony Thurmond,15
+Lake,132BUCK ISLAND,Public Instruction,,None,Tony Thurmond,0
+Lake,141CL REDBUD,Public Instruction,,None,Tony Thurmond,138
+Lake,142CL VILLAGE,Public Instruction,,None,Tony Thurmond,100
+Lake,211CL MONITOR PT,Public Instruction,,None,Tony Thurmond,183
+Lake,212CL BURNS VALLEY,Public Instruction,,None,Tony Thurmond,187
+Lake,213CL AUSTIN PARK,Public Instruction,,None,Tony Thurmond,172
+Lake,214CL PALMER,Public Instruction,,None,Tony Thurmond,169
+Lake,215CL DAVIS,Public Instruction,,None,Tony Thurmond,176
+Lake,216CL MOLESWORTH,Public Instruction,,None,Tony Thurmond,175
+Lake,217CL PIERCE,Public Instruction,,None,Tony Thurmond,158
+Lake,222BALLY PEAK,Public Instruction,,None,Tony Thurmond,2
+Lake,311UPPER LAKE,Public Instruction,,None,Tony Thurmond,185
+Lake,312BACHELOR,Public Instruction,,None,Tony Thurmond,184
+Lake,341NICE,Public Instruction,,None,Tony Thurmond,194
+Lake,342NICE HARBOR,Public Instruction,,None,Tony Thurmond,134
+Lake,343FORTY SPRINGS,Public Instruction,,None,Tony Thurmond,8
+Lake,351LUCERNE,Public Instruction,,None,Tony Thurmond,131
+Lake,352THE CASTLE,Public Instruction,,None,Tony Thurmond,125
+Lake,353KONO TAYEE,Public Instruction,,None,Tony Thurmond,186
+Lake,354GLENHAVEN,Public Instruction,,None,Tony Thurmond,37
+Lake,361GRAVELLY,Public Instruction,,None,Tony Thurmond,8
+Lake,371BARTLETT,Public Instruction,,None,Tony Thurmond,0
+Lake,381LONG VALLEY,Public Instruction,,None,Tony Thurmond,144
+Lake,382EAST LAKE,Public Instruction,,None,Tony Thurmond,114
+Lake,383KEYS WEST,Public Instruction,,None,Tony Thurmond,140
+Lake,384KEYS EAST,Public Instruction,,None,Tony Thurmond,104
+Lake,390LAKESHORE PARK,Public Instruction,,None,Tony Thurmond,45
+Lake,391SULPHUR PARK,Public Instruction,,None,Tony Thurmond,57
+Lake,392BALD MTN,Public Instruction,,None,Tony Thurmond,0
+Lake,411LP LANGE,Public Instruction,,None,Tony Thurmond,232
+Lake,412LP WILLOW TREE,Public Instruction,,None,Tony Thurmond,212
+Lake,413LP GOVERNMENT,Public Instruction,,None,Tony Thurmond,201
+Lake,414LP FAIRGROUNDS,Public Instruction,,None,Tony Thurmond,214
+Lake,421COW MTN,Public Instruction,,None,Tony Thurmond,129
+Lake,422SCOTTS VALLEY,Public Instruction,,None,Tony Thurmond,138
+Lake,431ROBIN HILL,Public Instruction,,None,Tony Thurmond,265
+Lake,432WESTLAKE,Public Instruction,,None,Tony Thurmond,243
+Lake,441BIG VALLEY,Public Instruction,,None,Tony Thurmond,100
+Lake,442LANDS END,Public Instruction,,None,Tony Thurmond,94
+Lake,451ADOBE,Public Instruction,,None,Tony Thurmond,155
+Lake,452LAKESIDE PARK,Public Instruction,,None,Tony Thurmond,27
+Lake,455SODA BAY,Public Instruction,,None,Tony Thurmond,188
+Lake,461DONOVAN VALLEY,Public Instruction,,None,Tony Thurmond,19
+Lake,471HIGHLAND SPGS,Public Instruction,,None,Tony Thurmond,14
+Lake,520KELSEYVILLE,Public Instruction,,None,Tony Thurmond,190
+Lake,521COLE CREEK,Public Instruction,,None,Tony Thurmond,193
+Lake,522KELSEY CREEK,Public Instruction,,None,Tony Thurmond,218
+Lake,531WHEELER POINT,Public Instruction,,None,Tony Thurmond,275
+Lake,532RIVIERA,Public Instruction,,None,Tony Thurmond,196
+Lake,533MOUNTAIN PEAK,Public Instruction,,None,Tony Thurmond,208
+Lake,541LITTLE BORAX,Public Instruction,,None,Tony Thurmond,246
+Lake,551THURSTON LAKE,Public Instruction,,None,Tony Thurmond,45
+Lake,561LOCH LOMOND,Public Instruction,,None,Tony Thurmond,208
+Lake,571GLENBROOK,Public Instruction,,None,Tony Thurmond,164
+Lake,581W PINE/HOBERGS,Public Instruction,,None,Tony Thurmond,281
+Lake,LAKE CA,Public Instruction,,None,Tony Thurmond,9423
+Lake,111MIDDLETOWN,US House,5,Dem,Mike Thompson,267
+Lake,112CENTRAL PARK,US House,5,Dem,Mike Thompson,173
+Lake,113HIDDEN VALLEY 1,US House,5,Dem,Mike Thompson,365
+Lake,114HIDDEN VALLEY 2,US House,5,Dem,Mike Thompson,318
+Lake,115HIDDEN VALLEY 3,US House,5,Dem,Mike Thompson,321
+Lake,116HIDDEN VALLEY 4,US House,5,Dem,Mike Thompson,360
+Lake,117HV RANCHOS,US House,5,Dem,Mike Thompson,80
+Lake,118SPRUCE GROVE,US House,5,Dem,Mike Thompson,99
+Lake,119JERUSALEM,US House,5,Dem,Mike Thompson,16
+Lake,120COYOTE VALLEY,US House,5,Dem,Mike Thompson,49
+Lake,121TWIN LAKES,US House,5,Dem,Mike Thompson,201
+Lake,122LOWER LAKE,US House,3,Dem,John Garamendi,147
+Lake,123PERINI HILL,US House,5,Dem,Mike Thompson,7
+Lake,124BELL PARK,US House,3,Dem,John Garamendi,27
+Lake,131MORGAN VALLEY,US House,5,Dem,Mike Thompson,19
+Lake,132BUCK ISLAND,US House,3,Dem,John Garamendi,0
+Lake,141CL REDBUD,US House,3,Dem,John Garamendi,180
+Lake,142CL VILLAGE,US House,3,Dem,John Garamendi,124
+Lake,211CL MONITOR PT,US House,3,Dem,John Garamendi,260
+Lake,212CL BURNS VALLEY,US House,3,Dem,John Garamendi,270
+Lake,213CL AUSTIN PARK,US House,3,Dem,John Garamendi,229
+Lake,214CL PALMER,US House,3,Dem,John Garamendi,206
+Lake,215CL DAVIS,US House,3,Dem,John Garamendi,226
+Lake,216CL MOLESWORTH,US House,3,Dem,John Garamendi,241
+Lake,217CL PIERCE,US House,3,Dem,John Garamendi,220
+Lake,222BALLY PEAK,US House,3,Dem,John Garamendi,1
+Lake,311UPPER LAKE,US House,3,Dem,John Garamendi,218
+Lake,312BACHELOR,US House,3,Dem,John Garamendi,203
+Lake,341NICE,US House,3,Dem,John Garamendi,266
+Lake,342NICE HARBOR,US House,3,Dem,John Garamendi,150
+Lake,343FORTY SPRINGS,US House,3,Dem,John Garamendi,8
+Lake,351LUCERNE,US House,3,Dem,John Garamendi,158
+Lake,352THE CASTLE,US House,3,Dem,John Garamendi,157
+Lake,353KONO TAYEE,US House,3,Dem,John Garamendi,223
+Lake,354GLENHAVEN,US House,3,Dem,John Garamendi,48
+Lake,361GRAVELLY,US House,3,Dem,John Garamendi,13
+Lake,371BARTLETT,US House,3,Dem,John Garamendi,2
+Lake,381LONG VALLEY,US House,3,Dem,John Garamendi,186
+Lake,382EAST LAKE,US House,3,Dem,John Garamendi,150
+Lake,383KEYS WEST,US House,3,Dem,John Garamendi,176
+Lake,384KEYS EAST,US House,3,Dem,John Garamendi,126
+Lake,390LAKESHORE PARK,US House,3,Dem,John Garamendi,54
+Lake,391SULPHUR PARK,US House,3,Dem,John Garamendi,65
+Lake,392BALD MTN,US House,3,Dem,John Garamendi,2
+Lake,411LP LANGE,US House,5,Dem,Mike Thompson,318
+Lake,412LP WILLOW TREE,US House,5,Dem,Mike Thompson,299
+Lake,413LP GOVERNMENT,US House,5,Dem,Mike Thompson,284
+Lake,414LP FAIRGROUNDS,US House,5,Dem,Mike Thompson,294
+Lake,421COW MTN,US House,3,Dem,John Garamendi,154
+Lake,422SCOTTS VALLEY,US House,5,Dem,Mike Thompson,175
+Lake,431ROBIN HILL,US House,3,Dem,John Garamendi,332
+Lake,432WESTLAKE,US House,3,Dem,John Garamendi,282
+Lake,441BIG VALLEY,US House,5,Dem,Mike Thompson,144
+Lake,442LANDS END,US House,5,Dem,Mike Thompson,131
+Lake,451ADOBE,US House,5,Dem,Mike Thompson,240
+Lake,452LAKESIDE PARK,US House,3,Dem,John Garamendi,30
+Lake,455SODA BAY,US House,5,Dem,Mike Thompson,293
+Lake,461DONOVAN VALLEY,US House,5,Dem,Mike Thompson,27
+Lake,471HIGHLAND SPGS,US House,5,Dem,Mike Thompson,20
+Lake,520KELSEYVILLE,US House,5,Dem,Mike Thompson,262
+Lake,521COLE CREEK,US House,5,Dem,Mike Thompson,264
+Lake,522KELSEY CREEK,US House,5,Dem,Mike Thompson,320
+Lake,531WHEELER POINT,US House,5,Dem,Mike Thompson,358
+Lake,532RIVIERA,US House,5,Dem,Mike Thompson,259
+Lake,533MOUNTAIN PEAK,US House,5,Dem,Mike Thompson,289
+Lake,541LITTLE BORAX,US House,5,Dem,Mike Thompson,355
+Lake,551THURSTON LAKE,US House,5,Dem,Mike Thompson,71
+Lake,561LOCH LOMOND,US House,5,Dem,Mike Thompson,301
+Lake,571GLENBROOK,US House,5,Dem,Mike Thompson,223
+Lake,581W PINE/HOBERGS,US House,5,Dem,Mike Thompson,368
+Lake,LAKE CA,US House,3,Dem,John Garamendi,5134
+Lake,,US House,5,Dem,Mike Thompson,7570
+Lake,111MIDDLETOWN,US House,5,Lbt,Anthony Mills,129
+Lake,112CENTRAL PARK,US House,5,Lbt,Anthony Mills,92
+Lake,113HIDDEN VALLEY 1,US House,5,Lbt,Anthony Mills,182
+Lake,114HIDDEN VALLEY 2,US House,5,Lbt,Anthony Mills,121
+Lake,115HIDDEN VALLEY 3,US House,5,Lbt,Anthony Mills,166
+Lake,116HIDDEN VALLEY 4,US House,5,Lbt,Anthony Mills,171
+Lake,117HV RANCHOS,US House,5,Lbt,Anthony Mills,47
+Lake,118SPRUCE GROVE,US House,5,Lbt,Anthony Mills,47
+Lake,119JERUSALEM,US House,5,Lbt,Anthony Mills,2
+Lake,120COYOTE VALLEY,US House,5,Lbt,Anthony Mills,26
+Lake,121TWIN LAKES,US House,5,Lbt,Anthony Mills,133
+Lake,122LOWER LAKE,US House,3,Rep,Charlie Schaupp,119
+Lake,123PERINI HILL,US House,5,Lbt,Anthony Mills,7
+Lake,124BELL PARK,US House,3,Rep,Charlie Schaupp,35
+Lake,131MORGAN VALLEY,US House,5,Lbt,Anthony Mills,7
+Lake,132BUCK ISLAND,US House,3,Rep,Charlie Schaupp,1
+Lake,141CL REDBUD,US House,3,Rep,Charlie Schaupp,112
+Lake,142CL VILLAGE,US House,3,Rep,Charlie Schaupp,89
+Lake,211CL MONITOR PT,US House,3,Rep,Charlie Schaupp,165
+Lake,212CL BURNS VALLEY,US House,3,Rep,Charlie Schaupp,128
+Lake,213CL AUSTIN PARK,US House,3,Rep,Charlie Schaupp,200
+Lake,214CL PALMER,US House,3,Rep,Charlie Schaupp,135
+Lake,215CL DAVIS,US House,3,Rep,Charlie Schaupp,130
+Lake,216CL MOLESWORTH,US House,3,Rep,Charlie Schaupp,113
+Lake,217CL PIERCE,US House,3,Rep,Charlie Schaupp,133
+Lake,222BALLY PEAK,US House,3,Rep,Charlie Schaupp,5
+Lake,311UPPER LAKE,US House,3,Rep,Charlie Schaupp,220
+Lake,312BACHELOR,US House,3,Rep,Charlie Schaupp,223
+Lake,341NICE,US House,3,Rep,Charlie Schaupp,166
+Lake,342NICE HARBOR,US House,3,Rep,Charlie Schaupp,159
+Lake,343FORTY SPRINGS,US House,3,Rep,Charlie Schaupp,5
+Lake,351LUCERNE,US House,3,Rep,Charlie Schaupp,119
+Lake,352THE CASTLE,US House,3,Rep,Charlie Schaupp,93
+Lake,353KONO TAYEE,US House,3,Rep,Charlie Schaupp,159
+Lake,354GLENHAVEN,US House,3,Rep,Charlie Schaupp,28
+Lake,361GRAVELLY,US House,3,Rep,Charlie Schaupp,18
+Lake,371BARTLETT,US House,3,Rep,Charlie Schaupp,1
+Lake,381LONG VALLEY,US House,3,Rep,Charlie Schaupp,190
+Lake,382EAST LAKE,US House,3,Rep,Charlie Schaupp,119
+Lake,383KEYS WEST,US House,3,Rep,Charlie Schaupp,145
+Lake,384KEYS EAST,US House,3,Rep,Charlie Schaupp,104
+Lake,390LAKESHORE PARK,US House,3,Rep,Charlie Schaupp,46
+Lake,391SULPHUR PARK,US House,3,Rep,Charlie Schaupp,52
+Lake,392BALD MTN,US House,3,Rep,Charlie Schaupp,5
+Lake,411LP LANGE,US House,5,Lbt,Anthony Mills,142
+Lake,412LP WILLOW TREE,US House,5,Lbt,Anthony Mills,141
+Lake,413LP GOVERNMENT,US House,5,Lbt,Anthony Mills,117
+Lake,414LP FAIRGROUNDS,US House,5,Lbt,Anthony Mills,151
+Lake,421COW MTN,US House,3,Rep,Charlie Schaupp,146
+Lake,422SCOTTS VALLEY,US House,5,Lbt,Anthony Mills,118
+Lake,431ROBIN HILL,US House,3,Rep,Charlie Schaupp,265
+Lake,432WESTLAKE,US House,3,Rep,Charlie Schaupp,219
+Lake,441BIG VALLEY,US House,5,Lbt,Anthony Mills,100
+Lake,442LANDS END,US House,5,Lbt,Anthony Mills,65
+Lake,451ADOBE,US House,5,Lbt,Anthony Mills,112
+Lake,452LAKESIDE PARK,US House,3,Rep,Charlie Schaupp,43
+Lake,455SODA BAY,US House,5,Lbt,Anthony Mills,105
+Lake,461DONOVAN VALLEY,US House,5,Lbt,Anthony Mills,13
+Lake,471HIGHLAND SPGS,US House,5,Lbt,Anthony Mills,4
+Lake,520KELSEYVILLE,US House,5,Lbt,Anthony Mills,140
+Lake,521COLE CREEK,US House,5,Lbt,Anthony Mills,124
+Lake,522KELSEY CREEK,US House,5,Lbt,Anthony Mills,132
+Lake,531WHEELER POINT,US House,5,Lbt,Anthony Mills,165
+Lake,532RIVIERA,US House,5,Lbt,Anthony Mills,126
+Lake,533MOUNTAIN PEAK,US House,5,Lbt,Anthony Mills,174
+Lake,541LITTLE BORAX,US House,5,Lbt,Anthony Mills,145
+Lake,551THURSTON LAKE,US House,5,Lbt,Anthony Mills,26
+Lake,561LOCH LOMOND,US House,5,Lbt,Anthony Mills,157
+Lake,571GLENBROOK,US House,5,Lbt,Anthony Mills,100
+Lake,581W PINE/HOBERGS,US House,5,Lbt,Anthony Mills,134
+Lake,LAKE CA,US House,3,Rep,Charlie Schaupp,3890
+Lake,,US House,5,Lbt,Anthony Mills,3621
+Lake,111MIDDLETOWN,State Senate,2,Dem,Mike McGuire,223
+Lake,112CENTRAL PARK,State Senate,2,Dem,Mike McGuire,139
+Lake,113HIDDEN VALLEY 1,State Senate,2,Dem,Mike McGuire,306
+Lake,114HIDDEN VALLEY 2,State Senate,2,Dem,Mike McGuire,238
+Lake,115HIDDEN VALLEY 3,State Senate,2,Dem,Mike McGuire,288
+Lake,116HIDDEN VALLEY 4,State Senate,2,Dem,Mike McGuire,288
+Lake,117HV RANCHOS,State Senate,2,Dem,Mike McGuire,90
+Lake,118SPRUCE GROVE,State Senate,2,Dem,Mike McGuire,69
+Lake,119JERUSALEM,State Senate,2,Dem,Mike McGuire,10
+Lake,120COYOTE VALLEY,State Senate,2,Dem,Mike McGuire,40
+Lake,121TWIN LAKES,State Senate,2,Dem,Mike McGuire,175
+Lake,122LOWER LAKE,State Senate,2,Dem,Mike McGuire,138
+Lake,123PERINI HILL,State Senate,2,Dem,Mike McGuire,5
+Lake,124BELL PARK,State Senate,2,Dem,Mike McGuire,34
+Lake,131MORGAN VALLEY,State Senate,2,Dem,Mike McGuire,18
+Lake,132BUCK ISLAND,State Senate,2,Dem,Mike McGuire,1
+Lake,141CL REDBUD,State Senate,2,Dem,Mike McGuire,163
+Lake,142CL VILLAGE,State Senate,2,Dem,Mike McGuire,124
+Lake,211CL MONITOR PT,State Senate,2,Dem,Mike McGuire,235
+Lake,212CL BURNS VALLEY,State Senate,2,Dem,Mike McGuire,233
+Lake,213CL AUSTIN PARK,State Senate,2,Dem,Mike McGuire,202
+Lake,214CL PALMER,State Senate,2,Dem,Mike McGuire,177
+Lake,215CL DAVIS,State Senate,2,Dem,Mike McGuire,194
+Lake,216CL MOLESWORTH,State Senate,2,Dem,Mike McGuire,199
+Lake,217CL PIERCE,State Senate,2,Dem,Mike McGuire,176
+Lake,222BALLY PEAK,State Senate,2,Dem,Mike McGuire,2
+Lake,311UPPER LAKE,State Senate,2,Dem,Mike McGuire,204
+Lake,312BACHELOR,State Senate,2,Dem,Mike McGuire,215
+Lake,341NICE,State Senate,2,Dem,Mike McGuire,237
+Lake,342NICE HARBOR,State Senate,2,Dem,Mike McGuire,166
+Lake,343FORTY SPRINGS,State Senate,2,Dem,Mike McGuire,10
+Lake,351LUCERNE,State Senate,2,Dem,Mike McGuire,145
+Lake,352THE CASTLE,State Senate,2,Dem,Mike McGuire,122
+Lake,353KONO TAYEE,State Senate,2,Dem,Mike McGuire,211
+Lake,354GLENHAVEN,State Senate,2,Dem,Mike McGuire,37
+Lake,361GRAVELLY,State Senate,2,Dem,Mike McGuire,13
+Lake,371BARTLETT,State Senate,2,Dem,Mike McGuire,0
+Lake,381LONG VALLEY,State Senate,2,Dem,Mike McGuire,193
+Lake,382EAST LAKE,State Senate,2,Dem,Mike McGuire,142
+Lake,383KEYS WEST,State Senate,2,Dem,Mike McGuire,157
+Lake,384KEYS EAST,State Senate,2,Dem,Mike McGuire,129
+Lake,390LAKESHORE PARK,State Senate,2,Dem,Mike McGuire,54
+Lake,391SULPHUR PARK,State Senate,2,Dem,Mike McGuire,51
+Lake,392BALD MTN,State Senate,2,Dem,Mike McGuire,5
+Lake,411LP LANGE,State Senate,2,Dem,Mike McGuire,314
+Lake,412LP WILLOW TREE,State Senate,2,Dem,Mike McGuire,283
+Lake,413LP GOVERNMENT,State Senate,2,Dem,Mike McGuire,245
+Lake,414LP FAIRGROUNDS,State Senate,2,Dem,Mike McGuire,244
+Lake,421COW MTN,State Senate,2,Dem,Mike McGuire,169
+Lake,422SCOTTS VALLEY,State Senate,2,Dem,Mike McGuire,178
+Lake,431ROBIN HILL,State Senate,2,Dem,Mike McGuire,345
+Lake,432WESTLAKE,State Senate,2,Dem,Mike McGuire,288
+Lake,441BIG VALLEY,State Senate,2,Dem,Mike McGuire,136
+Lake,442LANDS END,State Senate,2,Dem,Mike McGuire,115
+Lake,451ADOBE,State Senate,2,Dem,Mike McGuire,202
+Lake,452LAKESIDE PARK,State Senate,2,Dem,Mike McGuire,40
+Lake,455SODA BAY,State Senate,2,Dem,Mike McGuire,237
+Lake,461DONOVAN VALLEY,State Senate,2,Dem,Mike McGuire,25
+Lake,471HIGHLAND SPGS,State Senate,2,Dem,Mike McGuire,14
+Lake,520KELSEYVILLE,State Senate,2,Dem,Mike McGuire,240
+Lake,521COLE CREEK,State Senate,2,Dem,Mike McGuire,230
+Lake,522KELSEY CREEK,State Senate,2,Dem,Mike McGuire,268
+Lake,531WHEELER POINT,State Senate,2,Dem,Mike McGuire,302
+Lake,532RIVIERA,State Senate,2,Dem,Mike McGuire,227
+Lake,533MOUNTAIN PEAK,State Senate,2,Dem,Mike McGuire,264
+Lake,541LITTLE BORAX,State Senate,2,Dem,Mike McGuire,299
+Lake,551THURSTON LAKE,State Senate,2,Dem,Mike McGuire,52
+Lake,561LOCH LOMOND,State Senate,2,Dem,Mike McGuire,266
+Lake,571GLENBROOK,State Senate,2,Dem,Mike McGuire,197
+Lake,581W PINE/HOBERGS,State Senate,2,Dem,Mike McGuire,334
+Lake,LAKE CA,State Senate,2,Dem,Mike McGuire,11372
+Lake,111MIDDLETOWN,State Senate,2,Dem,Roni Jacobi,122
+Lake,112CENTRAL PARK,State Senate,2,Dem,Roni Jacobi,100
+Lake,113HIDDEN VALLEY 1,State Senate,2,Dem,Roni Jacobi,158
+Lake,114HIDDEN VALLEY 2,State Senate,2,Dem,Roni Jacobi,137
+Lake,115HIDDEN VALLEY 3,State Senate,2,Dem,Roni Jacobi,139
+Lake,116HIDDEN VALLEY 4,State Senate,2,Dem,Roni Jacobi,182
+Lake,117HV RANCHOS,State Senate,2,Dem,Roni Jacobi,28
+Lake,118SPRUCE GROVE,State Senate,2,Dem,Roni Jacobi,45
+Lake,119JERUSALEM,State Senate,2,Dem,Roni Jacobi,6
+Lake,120COYOTE VALLEY,State Senate,2,Dem,Roni Jacobi,27
+Lake,121TWIN LAKES,State Senate,2,Dem,Roni Jacobi,108
+Lake,122LOWER LAKE,State Senate,2,Dem,Roni Jacobi,90
+Lake,123PERINI HILL,State Senate,2,Dem,Roni Jacobi,4
+Lake,124BELL PARK,State Senate,2,Dem,Roni Jacobi,17
+Lake,131MORGAN VALLEY,State Senate,2,Dem,Roni Jacobi,5
+Lake,132BUCK ISLAND,State Senate,2,Dem,Roni Jacobi,0
+Lake,141CL REDBUD,State Senate,2,Dem,Roni Jacobi,86
+Lake,142CL VILLAGE,State Senate,2,Dem,Roni Jacobi,70
+Lake,211CL MONITOR PT,State Senate,2,Dem,Roni Jacobi,143
+Lake,212CL BURNS VALLEY,State Senate,2,Dem,Roni Jacobi,116
+Lake,213CL AUSTIN PARK,State Senate,2,Dem,Roni Jacobi,155
+Lake,214CL PALMER,State Senate,2,Dem,Roni Jacobi,118
+Lake,215CL DAVIS,State Senate,2,Dem,Roni Jacobi,130
+Lake,216CL MOLESWORTH,State Senate,2,Dem,Roni Jacobi,114
+Lake,217CL PIERCE,State Senate,2,Dem,Roni Jacobi,131
+Lake,222BALLY PEAK,State Senate,2,Dem,Roni Jacobi,1
+Lake,311UPPER LAKE,State Senate,2,Dem,Roni Jacobi,153
+Lake,312BACHELOR,State Senate,2,Dem,Roni Jacobi,127
+Lake,341NICE,State Senate,2,Dem,Roni Jacobi,160
+Lake,342NICE HARBOR,State Senate,2,Dem,Roni Jacobi,101
+Lake,343FORTY SPRINGS,State Senate,2,Dem,Roni Jacobi,1
+Lake,351LUCERNE,State Senate,2,Dem,Roni Jacobi,99
+Lake,352THE CASTLE,State Senate,2,Dem,Roni Jacobi,89
+Lake,353KONO TAYEE,State Senate,2,Dem,Roni Jacobi,115
+Lake,354GLENHAVEN,State Senate,2,Dem,Roni Jacobi,30
+Lake,361GRAVELLY,State Senate,2,Dem,Roni Jacobi,10
+Lake,371BARTLETT,State Senate,2,Dem,Roni Jacobi,3
+Lake,381LONG VALLEY,State Senate,2,Dem,Roni Jacobi,121
+Lake,382EAST LAKE,State Senate,2,Dem,Roni Jacobi,89
+Lake,383KEYS WEST,State Senate,2,Dem,Roni Jacobi,97
+Lake,384KEYS EAST,State Senate,2,Dem,Roni Jacobi,66
+Lake,390LAKESHORE PARK,State Senate,2,Dem,Roni Jacobi,25
+Lake,391SULPHUR PARK,State Senate,2,Dem,Roni Jacobi,45
+Lake,392BALD MTN,State Senate,2,Dem,Roni Jacobi,1
+Lake,411LP LANGE,State Senate,2,Dem,Roni Jacobi,110
+Lake,412LP WILLOW TREE,State Senate,2,Dem,Roni Jacobi,108
+Lake,413LP GOVERNMENT,State Senate,2,Dem,Roni Jacobi,116
+Lake,414LP FAIRGROUNDS,State Senate,2,Dem,Roni Jacobi,145
+Lake,421COW MTN,State Senate,2,Dem,Roni Jacobi,76
+Lake,422SCOTTS VALLEY,State Senate,2,Dem,Roni Jacobi,70
+Lake,431ROBIN HILL,State Senate,2,Dem,Roni Jacobi,174
+Lake,432WESTLAKE,State Senate,2,Dem,Roni Jacobi,136
+Lake,441BIG VALLEY,State Senate,2,Dem,Roni Jacobi,70
+Lake,442LANDS END,State Senate,2,Dem,Roni Jacobi,57
+Lake,451ADOBE,State Senate,2,Dem,Roni Jacobi,108
+Lake,452LAKESIDE PARK,State Senate,2,Dem,Roni Jacobi,20
+Lake,455SODA BAY,State Senate,2,Dem,Roni Jacobi,116
+Lake,461DONOVAN VALLEY,State Senate,2,Dem,Roni Jacobi,10
+Lake,471HIGHLAND SPGS,State Senate,2,Dem,Roni Jacobi,10
+Lake,520KELSEYVILLE,State Senate,2,Dem,Roni Jacobi,120
+Lake,521COLE CREEK,State Senate,2,Dem,Roni Jacobi,120
+Lake,522KELSEY CREEK,State Senate,2,Dem,Roni Jacobi,132
+Lake,531WHEELER POINT,State Senate,2,Dem,Roni Jacobi,154
+Lake,532RIVIERA,State Senate,2,Dem,Roni Jacobi,106
+Lake,533MOUNTAIN PEAK,State Senate,2,Dem,Roni Jacobi,151
+Lake,541LITTLE BORAX,State Senate,2,Dem,Roni Jacobi,140
+Lake,551THURSTON LAKE,State Senate,2,Dem,Roni Jacobi,27
+Lake,561LOCH LOMOND,State Senate,2,Dem,Roni Jacobi,145
+Lake,571GLENBROOK,State Senate,2,Dem,Roni Jacobi,96
+Lake,581W PINE/HOBERGS,State Senate,2,Dem,Roni Jacobi,130
+Lake,LAKE CA,State Senate,2,Dem,Roni Jacobi,6211
+Lake,111MIDDLETOWN,Assembly,4,Dem,Cecelia Aguiar-Curry,263
+Lake,112CENTRAL PARK,Assembly,4,Dem,Cecelia Aguiar-Curry,184
+Lake,113HIDDEN VALLEY 1,Assembly,4,Dem,Cecelia Aguiar-Curry,354
+Lake,114HIDDEN VALLEY 2,Assembly,4,Dem,Cecelia Aguiar-Curry,307
+Lake,115HIDDEN VALLEY 3,Assembly,4,Dem,Cecelia Aguiar-Curry,311
+Lake,116HIDDEN VALLEY 4,Assembly,4,Dem,Cecelia Aguiar-Curry,348
+Lake,117HV RANCHOS,Assembly,4,Dem,Cecelia Aguiar-Curry,81
+Lake,118SPRUCE GROVE,Assembly,4,Dem,Cecelia Aguiar-Curry,96
+Lake,119JERUSALEM,Assembly,4,Dem,Cecelia Aguiar-Curry,14
+Lake,120COYOTE VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,49
+Lake,121TWIN LAKES,Assembly,4,Dem,Cecelia Aguiar-Curry,197
+Lake,122LOWER LAKE,Assembly,4,Dem,Cecelia Aguiar-Curry,162
+Lake,123PERINI HILL,Assembly,4,Dem,Cecelia Aguiar-Curry,6
+Lake,124BELL PARK,Assembly,4,Dem,Cecelia Aguiar-Curry,36
+Lake,131MORGAN VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,17
+Lake,132BUCK ISLAND,Assembly,4,Dem,Cecelia Aguiar-Curry,0
+Lake,141CL REDBUD,Assembly,4,Dem,Cecelia Aguiar-Curry,190
+Lake,142CL VILLAGE,Assembly,4,Dem,Cecelia Aguiar-Curry,147
+Lake,211CL MONITOR PT,Assembly,4,Dem,Cecelia Aguiar-Curry,297
+Lake,212CL BURNS VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,296
+Lake,213CL AUSTIN PARK,Assembly,4,Dem,Cecelia Aguiar-Curry,260
+Lake,214CL PALMER,Assembly,4,Dem,Cecelia Aguiar-Curry,218
+Lake,215CL DAVIS,Assembly,4,Dem,Cecelia Aguiar-Curry,242
+Lake,216CL MOLESWORTH,Assembly,4,Dem,Cecelia Aguiar-Curry,249
+Lake,217CL PIERCE,Assembly,4,Dem,Cecelia Aguiar-Curry,225
+Lake,222BALLY PEAK,Assembly,4,Dem,Cecelia Aguiar-Curry,1
+Lake,311UPPER LAKE,Assembly,4,Dem,Cecelia Aguiar-Curry,267
+Lake,312BACHELOR,Assembly,4,Dem,Cecelia Aguiar-Curry,228
+Lake,341NICE,Assembly,4,Dem,Cecelia Aguiar-Curry,281
+Lake,342NICE HARBOR,Assembly,4,Dem,Cecelia Aguiar-Curry,190
+Lake,343FORTY SPRINGS,Assembly,4,Dem,Cecelia Aguiar-Curry,9
+Lake,351LUCERNE,Assembly,4,Dem,Cecelia Aguiar-Curry,170
+Lake,352THE CASTLE,Assembly,4,Dem,Cecelia Aguiar-Curry,163
+Lake,353KONO TAYEE,Assembly,4,Dem,Cecelia Aguiar-Curry,250
+Lake,354GLENHAVEN,Assembly,4,Dem,Cecelia Aguiar-Curry,50
+Lake,361GRAVELLY,Assembly,4,Dem,Cecelia Aguiar-Curry,14
+Lake,371BARTLETT,Assembly,4,Dem,Cecelia Aguiar-Curry,2
+Lake,381LONG VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,220
+Lake,382EAST LAKE,Assembly,4,Dem,Cecelia Aguiar-Curry,167
+Lake,383KEYS WEST,Assembly,4,Dem,Cecelia Aguiar-Curry,196
+Lake,384KEYS EAST,Assembly,4,Dem,Cecelia Aguiar-Curry,147
+Lake,390LAKESHORE PARK,Assembly,4,Dem,Cecelia Aguiar-Curry,65
+Lake,391SULPHUR PARK,Assembly,4,Dem,Cecelia Aguiar-Curry,71
+Lake,392BALD MTN,Assembly,4,Dem,Cecelia Aguiar-Curry,6
+Lake,411LP LANGE,Assembly,4,Dem,Cecelia Aguiar-Curry,338
+Lake,412LP WILLOW TREE,Assembly,4,Dem,Cecelia Aguiar-Curry,285
+Lake,413LP GOVERNMENT,Assembly,4,Dem,Cecelia Aguiar-Curry,278
+Lake,414LP FAIRGROUNDS,Assembly,4,Dem,Cecelia Aguiar-Curry,293
+Lake,421COW MTN,Assembly,4,Dem,Cecelia Aguiar-Curry,180
+Lake,422SCOTTS VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,180
+Lake,431ROBIN HILL,Assembly,4,Dem,Cecelia Aguiar-Curry,382
+Lake,432WESTLAKE,Assembly,4,Dem,Cecelia Aguiar-Curry,312
+Lake,441BIG VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,149
+Lake,442LANDS END,Assembly,4,Dem,Cecelia Aguiar-Curry,137
+Lake,451ADOBE,Assembly,4,Dem,Cecelia Aguiar-Curry,239
+Lake,452LAKESIDE PARK,Assembly,4,Dem,Cecelia Aguiar-Curry,49
+Lake,455SODA BAY,Assembly,4,Dem,Cecelia Aguiar-Curry,281
+Lake,461DONOVAN VALLEY,Assembly,4,Dem,Cecelia Aguiar-Curry,28
+Lake,471HIGHLAND SPGS,Assembly,4,Dem,Cecelia Aguiar-Curry,20
+Lake,520KELSEYVILLE,Assembly,4,Dem,Cecelia Aguiar-Curry,255
+Lake,521COLE CREEK,Assembly,4,Dem,Cecelia Aguiar-Curry,269
+Lake,522KELSEY CREEK,Assembly,4,Dem,Cecelia Aguiar-Curry,313
+Lake,531WHEELER POINT,Assembly,4,Dem,Cecelia Aguiar-Curry,366
+Lake,532RIVIERA,Assembly,4,Dem,Cecelia Aguiar-Curry,250
+Lake,533MOUNTAIN PEAK,Assembly,4,Dem,Cecelia Aguiar-Curry,293
+Lake,541LITTLE BORAX,Assembly,4,Dem,Cecelia Aguiar-Curry,332
+Lake,551THURSTON LAKE,Assembly,4,Dem,Cecelia Aguiar-Curry,61
+Lake,561LOCH LOMOND,Assembly,4,Dem,Cecelia Aguiar-Curry,290
+Lake,571GLENBROOK,Assembly,4,Dem,Cecelia Aguiar-Curry,213
+Lake,581W PINE/HOBERGS,Assembly,4,Dem,Cecelia Aguiar-Curry,376
+Lake,LAKE CA,Assembly,4,Dem,Cecelia Aguiar-Curry,13215
+Lake,111MIDDLETOWN,Assembly,4,Lbt,Brandon Nelson,109
+Lake,112CENTRAL PARK,Assembly,4,Lbt,Brandon Nelson,61
+Lake,113HIDDEN VALLEY 1,Assembly,4,Lbt,Brandon Nelson,143
+Lake,114HIDDEN VALLEY 2,Assembly,4,Lbt,Brandon Nelson,102
+Lake,115HIDDEN VALLEY 3,Assembly,4,Lbt,Brandon Nelson,135
+Lake,116HIDDEN VALLEY 4,Assembly,4,Lbt,Brandon Nelson,146
+Lake,117HV RANCHOS,Assembly,4,Lbt,Brandon Nelson,38
+Lake,118SPRUCE GROVE,Assembly,4,Lbt,Brandon Nelson,39
+Lake,119JERUSALEM,Assembly,4,Lbt,Brandon Nelson,3
+Lake,120COYOTE VALLEY,Assembly,4,Lbt,Brandon Nelson,15
+Lake,121TWIN LAKES,Assembly,4,Lbt,Brandon Nelson,118
+Lake,122LOWER LAKE,Assembly,4,Lbt,Brandon Nelson,85
+Lake,123PERINI HILL,Assembly,4,Lbt,Brandon Nelson,3
+Lake,124BELL PARK,Assembly,4,Lbt,Brandon Nelson,19
+Lake,131MORGAN VALLEY,Assembly,4,Lbt,Brandon Nelson,10
+Lake,132BUCK ISLAND,Assembly,4,Lbt,Brandon Nelson,0
+Lake,141CL REDBUD,Assembly,4,Lbt,Brandon Nelson,69
+Lake,142CL VILLAGE,Assembly,4,Lbt,Brandon Nelson,57
+Lake,211CL MONITOR PT,Assembly,4,Lbt,Brandon Nelson,102
+Lake,212CL BURNS VALLEY,Assembly,4,Lbt,Brandon Nelson,81
+Lake,213CL AUSTIN PARK,Assembly,4,Lbt,Brandon Nelson,121
+Lake,214CL PALMER,Assembly,4,Lbt,Brandon Nelson,99
+Lake,215CL DAVIS,Assembly,4,Lbt,Brandon Nelson,86
+Lake,216CL MOLESWORTH,Assembly,4,Lbt,Brandon Nelson,80
+Lake,217CL PIERCE,Assembly,4,Lbt,Brandon Nelson,97
+Lake,222BALLY PEAK,Assembly,4,Lbt,Brandon Nelson,3
+Lake,311UPPER LAKE,Assembly,4,Lbt,Brandon Nelson,126
+Lake,312BACHELOR,Assembly,4,Lbt,Brandon Nelson,145
+Lake,341NICE,Assembly,4,Lbt,Brandon Nelson,128
+Lake,342NICE HARBOR,Assembly,4,Lbt,Brandon Nelson,90
+Lake,343FORTY SPRINGS,Assembly,4,Lbt,Brandon Nelson,2
+Lake,351LUCERNE,Assembly,4,Lbt,Brandon Nelson,92
+Lake,352THE CASTLE,Assembly,4,Lbt,Brandon Nelson,66
+Lake,353KONO TAYEE,Assembly,4,Lbt,Brandon Nelson,99
+Lake,354GLENHAVEN,Assembly,4,Lbt,Brandon Nelson,20
+Lake,361GRAVELLY,Assembly,4,Lbt,Brandon Nelson,14
+Lake,371BARTLETT,Assembly,4,Lbt,Brandon Nelson,1
+Lake,381LONG VALLEY,Assembly,4,Lbt,Brandon Nelson,122
+Lake,382EAST LAKE,Assembly,4,Lbt,Brandon Nelson,82
+Lake,383KEYS WEST,Assembly,4,Lbt,Brandon Nelson,83
+Lake,384KEYS EAST,Assembly,4,Lbt,Brandon Nelson,60
+Lake,390LAKESHORE PARK,Assembly,4,Lbt,Brandon Nelson,18
+Lake,391SULPHUR PARK,Assembly,4,Lbt,Brandon Nelson,38
+Lake,392BALD MTN,Assembly,4,Lbt,Brandon Nelson,0
+Lake,411LP LANGE,Assembly,4,Lbt,Brandon Nelson,100
+Lake,412LP WILLOW TREE,Assembly,4,Lbt,Brandon Nelson,114
+Lake,413LP GOVERNMENT,Assembly,4,Lbt,Brandon Nelson,104
+Lake,414LP FAIRGROUNDS,Assembly,4,Lbt,Brandon Nelson,121
+Lake,421COW MTN,Assembly,4,Lbt,Brandon Nelson,83
+Lake,422SCOTTS VALLEY,Assembly,4,Lbt,Brandon Nelson,95
+Lake,431ROBIN HILL,Assembly,4,Lbt,Brandon Nelson,151
+Lake,432WESTLAKE,Assembly,4,Lbt,Brandon Nelson,142
+Lake,441BIG VALLEY,Assembly,4,Lbt,Brandon Nelson,83
+Lake,442LANDS END,Assembly,4,Lbt,Brandon Nelson,49
+Lake,451ADOBE,Assembly,4,Lbt,Brandon Nelson,77
+Lake,452LAKESIDE PARK,Assembly,4,Lbt,Brandon Nelson,17
+Lake,455SODA BAY,Assembly,4,Lbt,Brandon Nelson,91
+Lake,461DONOVAN VALLEY,Assembly,4,Lbt,Brandon Nelson,8
+Lake,471HIGHLAND SPGS,Assembly,4,Lbt,Brandon Nelson,4
+Lake,520KELSEYVILLE,Assembly,4,Lbt,Brandon Nelson,123
+Lake,521COLE CREEK,Assembly,4,Lbt,Brandon Nelson,104
+Lake,522KELSEY CREEK,Assembly,4,Lbt,Brandon Nelson,107
+Lake,531WHEELER POINT,Assembly,4,Lbt,Brandon Nelson,130
+Lake,532RIVIERA,Assembly,4,Lbt,Brandon Nelson,108
+Lake,533MOUNTAIN PEAK,Assembly,4,Lbt,Brandon Nelson,149
+Lake,541LITTLE BORAX,Assembly,4,Lbt,Brandon Nelson,122
+Lake,551THURSTON LAKE,Assembly,4,Lbt,Brandon Nelson,21
+Lake,561LOCH LOMOND,Assembly,4,Lbt,Brandon Nelson,140
+Lake,571GLENBROOK,Assembly,4,Lbt,Brandon Nelson,100
+Lake,581W PINE/HOBERGS,Assembly,4,Lbt,Brandon Nelson,113
+Lake,LAKE CA,Assembly,4,Lbt,Brandon Nelson,5463
