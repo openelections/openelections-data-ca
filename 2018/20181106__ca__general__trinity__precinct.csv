@@ -1,0 +1,677 @@
+county,precinct,office,district,party,candidate,votes
+Trinity,BIG BAR,Governor,,,Registered,116
+Trinity,BURNT RANCH,Governor,,,Registered,153
+Trinity,COFFEE CREEK,Governor,,,Registered,137
+Trinity,DENNY,Governor,,,Registered,174
+Trinity,DOUGLAS CITY,Governor,,,Registered,647
+Trinity,EAST WEAVER,Governor,,,Registered,391
+Trinity,FOREST GLEN,Governor,,,Registered,5
+Trinity,HAYFORK,Governor,,,Registered,755
+Trinity,HYAMPOM,Governor,,,Registered,168
+Trinity,INDIAN CREEK,Governor,,,Registered,21
+Trinity,JUNCTION CITY,Governor,,,Registered,454
+Trinity,LEWISTON,Governor,,,Registered,828
+Trinity,MAD RIVER,Governor,,,Registered,155
+Trinity,MINERSVILLE,Governor,,,Registered,85
+Trinity,NORTH WEAVER,Governor,,,Registered,356
+Trinity,OREGON MOUNTAIN,Governor,,,Registered,98
+Trinity,POST MOUNTAIN,Governor,,,Registered,148
+Trinity,RUTH,Governor,,,Registered,154
+Trinity,SALYER,Governor,,,Registered,214
+Trinity,SOUTH HAYFORK,Governor,,,Registered,645
+Trinity,SOUTH WEAVER,Governor,,,Registered,530
+Trinity,TRINITY CENTER,Governor,,,Registered,188
+Trinity,WEAVERVILLE,Governor,,,Registered,1053
+Trinity,WILDWOOD,Governor,,,Registered,34
+Trinity,ZENIA,Governor,,,Registered,102
+Trinity,TRINITY CA,Governor,,,Registered,7611
+Trinity,BIG BAR,Governor,,,Ballots,92
+Trinity,BURNT RANCH,Governor,,,Ballots,114
+Trinity,COFFEE CREEK,Governor,,,Ballots,116
+Trinity,DENNY,Governor,,,Ballots,128
+Trinity,DOUGLAS CITY,Governor,,,Ballots,465
+Trinity,EAST WEAVER,Governor,,,Ballots,316
+Trinity,FOREST GLEN,Governor,,,Ballots,3
+Trinity,HAYFORK,Governor,,,Ballots,481
+Trinity,HYAMPOM,Governor,,,Ballots,121
+Trinity,INDIAN CREEK,Governor,,,Ballots,14
+Trinity,JUNCTION CITY,Governor,,,Ballots,321
+Trinity,LEWISTON,Governor,,,Ballots,594
+Trinity,MAD RIVER,Governor,,,Ballots,125
+Trinity,MINERSVILLE,Governor,,,Ballots,74
+Trinity,NORTH WEAVER,Governor,,,Ballots,297
+Trinity,OREGON MOUNTAIN,Governor,,,Ballots,80
+Trinity,POST MOUNTAIN,Governor,,,Ballots,55
+Trinity,RUTH,Governor,,,Ballots,120
+Trinity,SALYER,Governor,,,Ballots,154
+Trinity,SOUTH HAYFORK,Governor,,,Ballots,406
+Trinity,SOUTH WEAVER,Governor,,,Ballots,371
+Trinity,TRINITY CENTER,Governor,,,Ballots,158
+Trinity,WEAVERVILLE,Governor,,,Ballots,715
+Trinity,WILDWOOD,Governor,,,Ballots,28
+Trinity,ZENIA,Governor,,,Ballots,76
+Trinity,TRINITY CA,Governor,,,Ballots,5424
+Trinity,BIG BAR,Governor,,Rep,John Cox,46
+Trinity,BURNT RANCH,Governor,,Rep,John Cox,53
+Trinity,COFFEE CREEK,Governor,,Rep,John Cox,58
+Trinity,DENNY,Governor,,Rep,John Cox,66
+Trinity,DOUGLAS CITY,Governor,,Rep,John Cox,244
+Trinity,EAST WEAVER,Governor,,Rep,John Cox,152
+Trinity,FOREST GLEN,Governor,,Rep,John Cox,2
+Trinity,HAYFORK,Governor,,Rep,John Cox,260
+Trinity,HYAMPOM,Governor,,Rep,John Cox,53
+Trinity,INDIAN CREEK,Governor,,Rep,John Cox,8
+Trinity,JUNCTION CITY,Governor,,Rep,John Cox,142
+Trinity,LEWISTON,Governor,,Rep,John Cox,374
+Trinity,MAD RIVER,Governor,,Rep,John Cox,83
+Trinity,MINERSVILLE,Governor,,Rep,John Cox,43
+Trinity,NORTH WEAVER,Governor,,Rep,John Cox,182
+Trinity,OREGON MOUNTAIN,Governor,,Rep,John Cox,43
+Trinity,POST MOUNTAIN,Governor,,Rep,John Cox,24
+Trinity,RUTH,Governor,,Rep,John Cox,90
+Trinity,SALYER,Governor,,Rep,John Cox,84
+Trinity,SOUTH HAYFORK,Governor,,Rep,John Cox,234
+Trinity,SOUTH WEAVER,Governor,,Rep,John Cox,241
+Trinity,TRINITY CENTER,Governor,,Rep,John Cox,127
+Trinity,WEAVERVILLE,Governor,,Rep,John Cox,403
+Trinity,WILDWOOD,Governor,,Rep,John Cox,18
+Trinity,ZENIA,Governor,,Rep,John Cox,45
+Trinity,TRINITY CA,Governor,,Rep,John Cox,3075
+Trinity,BIG BAR,Governor,,Dem,Gavin Newsom,46
+Trinity,BURNT RANCH,Governor,,Dem,Gavin Newsom,59
+Trinity,COFFEE CREEK,Governor,,Dem,Gavin Newsom,57
+Trinity,DENNY,Governor,,Dem,Gavin Newsom,62
+Trinity,DOUGLAS CITY,Governor,,Dem,Gavin Newsom,213
+Trinity,EAST WEAVER,Governor,,Dem,Gavin Newsom,152
+Trinity,FOREST GLEN,Governor,,Dem,Gavin Newsom,1
+Trinity,HAYFORK,Governor,,Dem,Gavin Newsom,206
+Trinity,HYAMPOM,Governor,,Dem,Gavin Newsom,63
+Trinity,INDIAN CREEK,Governor,,Dem,Gavin Newsom,6
+Trinity,JUNCTION CITY,Governor,,Dem,Gavin Newsom,175
+Trinity,LEWISTON,Governor,,Dem,Gavin Newsom,213
+Trinity,MAD RIVER,Governor,,Dem,Gavin Newsom,38
+Trinity,MINERSVILLE,Governor,,Dem,Gavin Newsom,30
+Trinity,NORTH WEAVER,Governor,,Dem,Gavin Newsom,110
+Trinity,OREGON MOUNTAIN,Governor,,Dem,Gavin Newsom,37
+Trinity,POST MOUNTAIN,Governor,,Dem,Gavin Newsom,30
+Trinity,RUTH,Governor,,Dem,Gavin Newsom,28
+Trinity,SALYER,Governor,,Dem,Gavin Newsom,68
+Trinity,SOUTH HAYFORK,Governor,,Dem,Gavin Newsom,163
+Trinity,SOUTH WEAVER,Governor,,Dem,Gavin Newsom,126
+Trinity,TRINITY CENTER,Governor,,Dem,Gavin Newsom,31
+Trinity,WEAVERVILLE,Governor,,Dem,Gavin Newsom,296
+Trinity,WILDWOOD,Governor,,Dem,Gavin Newsom,10
+Trinity,ZENIA,Governor,,Dem,Gavin Newsom,30
+Trinity,TRINITY CA,Governor,,Dem,Gavin Newsom,2250
+Trinity,BIG BAR,Lt Governor,,Dem,Ed Hernandez,35
+Trinity,BURNT RANCH,Lt Governor,,Dem,Ed Hernandez,40
+Trinity,COFFEE CREEK,Lt Governor,,Dem,Ed Hernandez,34
+Trinity,DENNY,Lt Governor,,Dem,Ed Hernandez,42
+Trinity,DOUGLAS CITY,Lt Governor,,Dem,Ed Hernandez,137
+Trinity,EAST WEAVER,Lt Governor,,Dem,Ed Hernandez,99
+Trinity,FOREST GLEN,Lt Governor,,Dem,Ed Hernandez,0
+Trinity,HAYFORK,Lt Governor,,Dem,Ed Hernandez,145
+Trinity,HYAMPOM,Lt Governor,,Dem,Ed Hernandez,40
+Trinity,INDIAN CREEK,Lt Governor,,Dem,Ed Hernandez,3
+Trinity,JUNCTION CITY,Lt Governor,,Dem,Ed Hernandez,116
+Trinity,LEWISTON,Lt Governor,,Dem,Ed Hernandez,161
+Trinity,MAD RIVER,Lt Governor,,Dem,Ed Hernandez,58
+Trinity,MINERSVILLE,Lt Governor,,Dem,Ed Hernandez,30
+Trinity,NORTH WEAVER,Lt Governor,,Dem,Ed Hernandez,107
+Trinity,OREGON MOUNTAIN,Lt Governor,,Dem,Ed Hernandez,23
+Trinity,POST MOUNTAIN,Lt Governor,,Dem,Ed Hernandez,18
+Trinity,RUTH,Lt Governor,,Dem,Ed Hernandez,46
+Trinity,SALYER,Lt Governor,,Dem,Ed Hernandez,46
+Trinity,SOUTH HAYFORK,Lt Governor,,Dem,Ed Hernandez,134
+Trinity,SOUTH WEAVER,Lt Governor,,Dem,Ed Hernandez,125
+Trinity,TRINITY CENTER,Lt Governor,,Dem,Ed Hernandez,41
+Trinity,WEAVERVILLE,Lt Governor,,Dem,Ed Hernandez,241
+Trinity,WILDWOOD,Lt Governor,,Dem,Ed Hernandez,4
+Trinity,ZENIA,Lt Governor,,Dem,Ed Hernandez,29
+Trinity,TRINITY CA,Lt Governor,,Dem,Ed Hernandez,1754
+Trinity,BIG BAR,Lt Governor,,Dem,Eleni Kounalakis,42
+Trinity,BURNT RANCH,Lt Governor,,Dem,Eleni Kounalakis,49
+Trinity,COFFEE CREEK,Lt Governor,,Dem,Eleni Kounalakis,52
+Trinity,DENNY,Lt Governor,,Dem,Eleni Kounalakis,60
+Trinity,DOUGLAS CITY,Lt Governor,,Dem,Eleni Kounalakis,222
+Trinity,EAST WEAVER,Lt Governor,,Dem,Eleni Kounalakis,147
+Trinity,FOREST GLEN,Lt Governor,,Dem,Eleni Kounalakis,0
+Trinity,HAYFORK,Lt Governor,,Dem,Eleni Kounalakis,192
+Trinity,HYAMPOM,Lt Governor,,Dem,Eleni Kounalakis,52
+Trinity,INDIAN CREEK,Lt Governor,,Dem,Eleni Kounalakis,8
+Trinity,JUNCTION CITY,Lt Governor,,Dem,Eleni Kounalakis,148
+Trinity,LEWISTON,Lt Governor,,Dem,Eleni Kounalakis,258
+Trinity,MAD RIVER,Lt Governor,,Dem,Eleni Kounalakis,36
+Trinity,MINERSVILLE,Lt Governor,,Dem,Eleni Kounalakis,23
+Trinity,NORTH WEAVER,Lt Governor,,Dem,Eleni Kounalakis,112
+Trinity,OREGON MOUNTAIN,Lt Governor,,Dem,Eleni Kounalakis,36
+Trinity,POST MOUNTAIN,Lt Governor,,Dem,Eleni Kounalakis,30
+Trinity,RUTH,Lt Governor,,Dem,Eleni Kounalakis,28
+Trinity,SALYER,Lt Governor,,Dem,Eleni Kounalakis,66
+Trinity,SOUTH HAYFORK,Lt Governor,,Dem,Eleni Kounalakis,180
+Trinity,SOUTH WEAVER,Lt Governor,,Dem,Eleni Kounalakis,151
+Trinity,TRINITY CENTER,Lt Governor,,Dem,Eleni Kounalakis,59
+Trinity,WEAVERVILLE,Lt Governor,,Dem,Eleni Kounalakis,313
+Trinity,WILDWOOD,Lt Governor,,Dem,Eleni Kounalakis,12
+Trinity,ZENIA,Lt Governor,,Dem,Eleni Kounalakis,29
+Trinity,TRINITY CA,Lt Governor,,Dem,Eleni Kounalakis,2305
+Trinity,BIG BAR,Secretary of State,,Dem,Alex Padilla,43
+Trinity,BURNT RANCH,Secretary of State,,Dem,Alex Padilla,63
+Trinity,COFFEE CREEK,Secretary of State,,Dem,Alex Padilla,60
+Trinity,DENNY,Secretary of State,,Dem,Alex Padilla,64
+Trinity,DOUGLAS CITY,Secretary of State,,Dem,Alex Padilla,230
+Trinity,EAST WEAVER,Secretary of State,,Dem,Alex Padilla,168
+Trinity,FOREST GLEN,Secretary of State,,Dem,Alex Padilla,0
+Trinity,HAYFORK,Secretary of State,,Dem,Alex Padilla,218
+Trinity,HYAMPOM,Secretary of State,,Dem,Alex Padilla,67
+Trinity,INDIAN CREEK,Secretary of State,,Dem,Alex Padilla,7
+Trinity,JUNCTION CITY,Secretary of State,,Dem,Alex Padilla,183
+Trinity,LEWISTON,Secretary of State,,Dem,Alex Padilla,239
+Trinity,MAD RIVER,Secretary of State,,Dem,Alex Padilla,43
+Trinity,MINERSVILLE,Secretary of State,,Dem,Alex Padilla,37
+Trinity,NORTH WEAVER,Secretary of State,,Dem,Alex Padilla,119
+Trinity,OREGON MOUNTAIN,Secretary of State,,Dem,Alex Padilla,42
+Trinity,POST MOUNTAIN,Secretary of State,,Dem,Alex Padilla,32
+Trinity,RUTH,Secretary of State,,Dem,Alex Padilla,27
+Trinity,SALYER,Secretary of State,,Dem,Alex Padilla,70
+Trinity,SOUTH HAYFORK,Secretary of State,,Dem,Alex Padilla,180
+Trinity,SOUTH WEAVER,Secretary of State,,Dem,Alex Padilla,142
+Trinity,TRINITY CENTER,Secretary of State,,Dem,Alex Padilla,34
+Trinity,WEAVERVILLE,Secretary of State,,Dem,Alex Padilla,337
+Trinity,WILDWOOD,Secretary of State,,Dem,Alex Padilla,11
+Trinity,ZENIA,Secretary of State,,Dem,Alex Padilla,36
+Trinity,TRINITY CA,Secretary of State,,Dem,Alex Padilla,2452
+Trinity,BIG BAR,Secretary of State,,Rep,Mark Meuser,48
+Trinity,BURNT RANCH,Secretary of State,,Rep,Mark Meuser,44
+Trinity,COFFEE CREEK,Secretary of State,,Rep,Mark Meuser,53
+Trinity,DENNY,Secretary of State,,Rep,Mark Meuser,64
+Trinity,DOUGLAS CITY,Secretary of State,,Rep,Mark Meuser,220
+Trinity,EAST WEAVER,Secretary of State,,Rep,Mark Meuser,137
+Trinity,FOREST GLEN,Secretary of State,,Rep,Mark Meuser,2
+Trinity,HAYFORK,Secretary of State,,Rep,Mark Meuser,236
+Trinity,HYAMPOM,Secretary of State,,Rep,Mark Meuser,49
+Trinity,INDIAN CREEK,Secretary of State,,Rep,Mark Meuser,7
+Trinity,JUNCTION CITY,Secretary of State,,Rep,Mark Meuser,128
+Trinity,LEWISTON,Secretary of State,,Rep,Mark Meuser,338
+Trinity,MAD RIVER,Secretary of State,,Rep,Mark Meuser,79
+Trinity,MINERSVILLE,Secretary of State,,Rep,Mark Meuser,36
+Trinity,NORTH WEAVER,Secretary of State,,Rep,Mark Meuser,166
+Trinity,OREGON MOUNTAIN,Secretary of State,,Rep,Mark Meuser,38
+Trinity,POST MOUNTAIN,Secretary of State,,Rep,Mark Meuser,21
+Trinity,RUTH,Secretary of State,,Rep,Mark Meuser,91
+Trinity,SALYER,Secretary of State,,Rep,Mark Meuser,82
+Trinity,SOUTH HAYFORK,Secretary of State,,Rep,Mark Meuser,207
+Trinity,SOUTH WEAVER,Secretary of State,,Rep,Mark Meuser,215
+Trinity,TRINITY CENTER,Secretary of State,,Rep,Mark Meuser,121
+Trinity,WEAVERVILLE,Secretary of State,,Rep,Mark Meuser,355
+Trinity,WILDWOOD,Secretary of State,,Rep,Mark Meuser,17
+Trinity,ZENIA,Secretary of State,,Rep,Mark Meuser,40
+Trinity,TRINITY CA,Secretary of State,,Rep,Mark Meuser,2794
+Trinity,BIG BAR,Controller,,Rep,Konstantinos Roditis,46
+Trinity,BURNT RANCH,Controller,,Rep,Konstantinos Roditis,39
+Trinity,COFFEE CREEK,Controller,,Rep,Konstantinos Roditis,52
+Trinity,DENNY,Controller,,Rep,Konstantinos Roditis,58
+Trinity,DOUGLAS CITY,Controller,,Rep,Konstantinos Roditis,208
+Trinity,EAST WEAVER,Controller,,Rep,Konstantinos Roditis,119
+Trinity,FOREST GLEN,Controller,,Rep,Konstantinos Roditis,2
+Trinity,HAYFORK,Controller,,Rep,Konstantinos Roditis,234
+Trinity,HYAMPOM,Controller,,Rep,Konstantinos Roditis,47
+Trinity,INDIAN CREEK,Controller,,Rep,Konstantinos Roditis,6
+Trinity,JUNCTION CITY,Controller,,Rep,Konstantinos Roditis,116
+Trinity,LEWISTON,Controller,,Rep,Konstantinos Roditis,317
+Trinity,MAD RIVER,Controller,,Rep,Konstantinos Roditis,82
+Trinity,MINERSVILLE,Controller,,Rep,Konstantinos Roditis,39
+Trinity,NORTH WEAVER,Controller,,Rep,Konstantinos Roditis,160
+Trinity,OREGON MOUNTAIN,Controller,,Rep,Konstantinos Roditis,41
+Trinity,POST MOUNTAIN,Controller,,Rep,Konstantinos Roditis,19
+Trinity,RUTH,Controller,,Rep,Konstantinos Roditis,86
+Trinity,SALYER,Controller,,Rep,Konstantinos Roditis,78
+Trinity,SOUTH HAYFORK,Controller,,Rep,Konstantinos Roditis,192
+Trinity,SOUTH WEAVER,Controller,,Rep,Konstantinos Roditis,201
+Trinity,TRINITY CENTER,Controller,,Rep,Konstantinos Roditis,115
+Trinity,WEAVERVILLE,Controller,,Rep,Konstantinos Roditis,340
+Trinity,WILDWOOD,Controller,,Rep,Konstantinos Roditis,15
+Trinity,ZENIA,Controller,,Rep,Konstantinos Roditis,40
+Trinity,TRINITY CA,Controller,,Rep,Konstantinos Roditis,2652
+Trinity,BIG BAR,Controller,,Dem,Betty Yee,46
+Trinity,BURNT RANCH,Controller,,Dem,Betty Yee,70
+Trinity,COFFEE CREEK,Controller,,Dem,Betty Yee,60
+Trinity,DENNY,Controller,,Dem,Betty Yee,70
+Trinity,DOUGLAS CITY,Controller,,Dem,Betty Yee,236
+Trinity,EAST WEAVER,Controller,,Dem,Betty Yee,181
+Trinity,FOREST GLEN,Controller,,Dem,Betty Yee,1
+Trinity,HAYFORK,Controller,,Dem,Betty Yee,223
+Trinity,HYAMPOM,Controller,,Dem,Betty Yee,68
+Trinity,INDIAN CREEK,Controller,,Dem,Betty Yee,8
+Trinity,JUNCTION CITY,Controller,,Dem,Betty Yee,195
+Trinity,LEWISTON,Controller,,Dem,Betty Yee,255
+Trinity,MAD RIVER,Controller,,Dem,Betty Yee,39
+Trinity,MINERSVILLE,Controller,,Dem,Betty Yee,32
+Trinity,NORTH WEAVER,Controller,,Dem,Betty Yee,124
+Trinity,OREGON MOUNTAIN,Controller,,Dem,Betty Yee,38
+Trinity,POST MOUNTAIN,Controller,,Dem,Betty Yee,32
+Trinity,RUTH,Controller,,Dem,Betty Yee,28
+Trinity,SALYER,Controller,,Dem,Betty Yee,73
+Trinity,SOUTH HAYFORK,Controller,,Dem,Betty Yee,196
+Trinity,SOUTH WEAVER,Controller,,Dem,Betty Yee,154
+Trinity,TRINITY CENTER,Controller,,Dem,Betty Yee,40
+Trinity,WEAVERVILLE,Controller,,Dem,Betty Yee,350
+Trinity,WILDWOOD,Controller,,Dem,Betty Yee,13
+Trinity,ZENIA,Controller,,Dem,Betty Yee,36
+Trinity,TRINITY CA,Controller,,Dem,Betty Yee,2568
+Trinity,BIG BAR,Treasurer,,Rep,Greg Conlon,46
+Trinity,BURNT RANCH,Treasurer,,Rep,Greg Conlon,42
+Trinity,COFFEE CREEK,Treasurer,,Rep,Greg Conlon,51
+Trinity,DENNY,Treasurer,,Rep,Greg Conlon,59
+Trinity,DOUGLAS CITY,Treasurer,,Rep,Greg Conlon,214
+Trinity,EAST WEAVER,Treasurer,,Rep,Greg Conlon,128
+Trinity,FOREST GLEN,Treasurer,,Rep,Greg Conlon,2
+Trinity,HAYFORK,Treasurer,,Rep,Greg Conlon,239
+Trinity,HYAMPOM,Treasurer,,Rep,Greg Conlon,43
+Trinity,INDIAN CREEK,Treasurer,,Rep,Greg Conlon,6
+Trinity,JUNCTION CITY,Treasurer,,Rep,Greg Conlon,123
+Trinity,LEWISTON,Treasurer,,Rep,Greg Conlon,329
+Trinity,MAD RIVER,Treasurer,,Rep,Greg Conlon,81
+Trinity,MINERSVILLE,Treasurer,,Rep,Greg Conlon,37
+Trinity,NORTH WEAVER,Treasurer,,Rep,Greg Conlon,167
+Trinity,OREGON MOUNTAIN,Treasurer,,Rep,Greg Conlon,39
+Trinity,POST MOUNTAIN,Treasurer,,Rep,Greg Conlon,20
+Trinity,RUTH,Treasurer,,Rep,Greg Conlon,84
+Trinity,SALYER,Treasurer,,Rep,Greg Conlon,78
+Trinity,SOUTH HAYFORK,Treasurer,,Rep,Greg Conlon,205
+Trinity,SOUTH WEAVER,Treasurer,,Rep,Greg Conlon,208
+Trinity,TRINITY CENTER,Treasurer,,Rep,Greg Conlon,121
+Trinity,WEAVERVILLE,Treasurer,,Rep,Greg Conlon,355
+Trinity,WILDWOOD,Treasurer,,Rep,Greg Conlon,15
+Trinity,ZENIA,Treasurer,,Rep,Greg Conlon,40
+Trinity,TRINITY CA,Treasurer,,Rep,Greg Conlon,2732
+Trinity,BIG BAR,Treasurer,,Dem,Fiona Ma,46
+Trinity,BURNT RANCH,Treasurer,,Dem,Fiona Ma,67
+Trinity,COFFEE CREEK,Treasurer,,Dem,Fiona Ma,62
+Trinity,DENNY,Treasurer,,Dem,Fiona Ma,69
+Trinity,DOUGLAS CITY,Treasurer,,Dem,Fiona Ma,231
+Trinity,EAST WEAVER,Treasurer,,Dem,Fiona Ma,177
+Trinity,FOREST GLEN,Treasurer,,Dem,Fiona Ma,1
+Trinity,HAYFORK,Treasurer,,Dem,Fiona Ma,218
+Trinity,HYAMPOM,Treasurer,,Dem,Fiona Ma,74
+Trinity,INDIAN CREEK,Treasurer,,Dem,Fiona Ma,8
+Trinity,JUNCTION CITY,Treasurer,,Dem,Fiona Ma,187
+Trinity,LEWISTON,Treasurer,,Dem,Fiona Ma,245
+Trinity,MAD RIVER,Treasurer,,Dem,Fiona Ma,40
+Trinity,MINERSVILLE,Treasurer,,Dem,Fiona Ma,34
+Trinity,NORTH WEAVER,Treasurer,,Dem,Fiona Ma,116
+Trinity,OREGON MOUNTAIN,Treasurer,,Dem,Fiona Ma,40
+Trinity,POST MOUNTAIN,Treasurer,,Dem,Fiona Ma,33
+Trinity,RUTH,Treasurer,,Dem,Fiona Ma,28
+Trinity,SALYER,Treasurer,,Dem,Fiona Ma,74
+Trinity,SOUTH HAYFORK,Treasurer,,Dem,Fiona Ma,185
+Trinity,SOUTH WEAVER,Treasurer,,Dem,Fiona Ma,148
+Trinity,TRINITY CENTER,Treasurer,,Dem,Fiona Ma,34
+Trinity,WEAVERVILLE,Treasurer,,Dem,Fiona Ma,334
+Trinity,WILDWOOD,Treasurer,,Dem,Fiona Ma,13
+Trinity,ZENIA,Treasurer,,Dem,Fiona Ma,36
+Trinity,TRINITY CA,Treasurer,,Dem,Fiona Ma,2500
+Trinity,BIG BAR,Attorney General,,Rep,Steven Bailey,46
+Trinity,BURNT RANCH,Attorney General,,Rep,Steven Bailey,44
+Trinity,COFFEE CREEK,Attorney General,,Rep,Steven Bailey,54
+Trinity,DENNY,Attorney General,,Rep,Steven Bailey,68
+Trinity,DOUGLAS CITY,Attorney General,,Rep,Steven Bailey,226
+Trinity,EAST WEAVER,Attorney General,,Rep,Steven Bailey,135
+Trinity,FOREST GLEN,Attorney General,,Rep,Steven Bailey,2
+Trinity,HAYFORK,Attorney General,,Rep,Steven Bailey,239
+Trinity,HYAMPOM,Attorney General,,Rep,Steven Bailey,48
+Trinity,INDIAN CREEK,Attorney General,,Rep,Steven Bailey,7
+Trinity,JUNCTION CITY,Attorney General,,Rep,Steven Bailey,135
+Trinity,LEWISTON,Attorney General,,Rep,Steven Bailey,351
+Trinity,MAD RIVER,Attorney General,,Rep,Steven Bailey,82
+Trinity,MINERSVILLE,Attorney General,,Rep,Steven Bailey,42
+Trinity,NORTH WEAVER,Attorney General,,Rep,Steven Bailey,173
+Trinity,OREGON MOUNTAIN,Attorney General,,Rep,Steven Bailey,39
+Trinity,POST MOUNTAIN,Attorney General,,Rep,Steven Bailey,24
+Trinity,RUTH,Attorney General,,Rep,Steven Bailey,87
+Trinity,SALYER,Attorney General,,Rep,Steven Bailey,85
+Trinity,SOUTH HAYFORK,Attorney General,,Rep,Steven Bailey,225
+Trinity,SOUTH WEAVER,Attorney General,,Rep,Steven Bailey,222
+Trinity,TRINITY CENTER,Attorney General,,Rep,Steven Bailey,121
+Trinity,WEAVERVILLE,Attorney General,,Rep,Steven Bailey,366
+Trinity,WILDWOOD,Attorney General,,Rep,Steven Bailey,18
+Trinity,ZENIA,Attorney General,,Rep,Steven Bailey,43
+Trinity,TRINITY CA,Attorney General,,Rep,Steven Bailey,2882
+Trinity,BIG BAR,Attorney General,,Dem,Xavier Becerra,46
+Trinity,BURNT RANCH,Attorney General,,Dem,Xavier Becerra,68
+Trinity,COFFEE CREEK,Attorney General,,Dem,Xavier Becerra,58
+Trinity,DENNY,Attorney General,,Dem,Xavier Becerra,60
+Trinity,DOUGLAS CITY,Attorney General,,Dem,Xavier Becerra,226
+Trinity,EAST WEAVER,Attorney General,,Dem,Xavier Becerra,169
+Trinity,FOREST GLEN,Attorney General,,Dem,Xavier Becerra,1
+Trinity,HAYFORK,Attorney General,,Dem,Xavier Becerra,216
+Trinity,HYAMPOM,Attorney General,,Dem,Xavier Becerra,68
+Trinity,INDIAN CREEK,Attorney General,,Dem,Xavier Becerra,7
+Trinity,JUNCTION CITY,Attorney General,,Dem,Xavier Becerra,177
+Trinity,LEWISTON,Attorney General,,Dem,Xavier Becerra,226
+Trinity,MAD RIVER,Attorney General,,Dem,Xavier Becerra,40
+Trinity,MINERSVILLE,Attorney General,,Dem,Xavier Becerra,30
+Trinity,NORTH WEAVER,Attorney General,,Dem,Xavier Becerra,112
+Trinity,OREGON MOUNTAIN,Attorney General,,Dem,Xavier Becerra,41
+Trinity,POST MOUNTAIN,Attorney General,,Dem,Xavier Becerra,30
+Trinity,RUTH,Attorney General,,Dem,Xavier Becerra,29
+Trinity,SALYER,Attorney General,,Dem,Xavier Becerra,67
+Trinity,SOUTH HAYFORK,Attorney General,,Dem,Xavier Becerra,166
+Trinity,SOUTH WEAVER,Attorney General,,Dem,Xavier Becerra,133
+Trinity,TRINITY CENTER,Attorney General,,Dem,Xavier Becerra,34
+Trinity,WEAVERVILLE,Attorney General,,Dem,Xavier Becerra,320
+Trinity,WILDWOOD,Attorney General,,Dem,Xavier Becerra,10
+Trinity,ZENIA,Attorney General,,Dem,Xavier Becerra,33
+Trinity,TRINITY CA,Attorney General,,Dem,Xavier Becerra,2367
+Trinity,BIG BAR,Insurance Commissioner,,Dem,Ricardo Lara,31
+Trinity,BURNT RANCH,Insurance Commissioner,,Dem,Ricardo Lara,53
+Trinity,COFFEE CREEK,Insurance Commissioner,,Dem,Ricardo Lara,48
+Trinity,DENNY,Insurance Commissioner,,Dem,Ricardo Lara,54
+Trinity,DOUGLAS CITY,Insurance Commissioner,,Dem,Ricardo Lara,180
+Trinity,EAST WEAVER,Insurance Commissioner,,Dem,Ricardo Lara,140
+Trinity,FOREST GLEN,Insurance Commissioner,,Dem,Ricardo Lara,0
+Trinity,HAYFORK,Insurance Commissioner,,Dem,Ricardo Lara,174
+Trinity,HYAMPOM,Insurance Commissioner,,Dem,Ricardo Lara,59
+Trinity,INDIAN CREEK,Insurance Commissioner,,Dem,Ricardo Lara,4
+Trinity,JUNCTION CITY,Insurance Commissioner,,Dem,Ricardo Lara,144
+Trinity,LEWISTON,Insurance Commissioner,,Dem,Ricardo Lara,176
+Trinity,MAD RIVER,Insurance Commissioner,,Dem,Ricardo Lara,40
+Trinity,MINERSVILLE,Insurance Commissioner,,Dem,Ricardo Lara,25
+Trinity,NORTH WEAVER,Insurance Commissioner,,Dem,Ricardo Lara,91
+Trinity,OREGON MOUNTAIN,Insurance Commissioner,,Dem,Ricardo Lara,26
+Trinity,POST MOUNTAIN,Insurance Commissioner,,Dem,Ricardo Lara,25
+Trinity,RUTH,Insurance Commissioner,,Dem,Ricardo Lara,24
+Trinity,SALYER,Insurance Commissioner,,Dem,Ricardo Lara,54
+Trinity,SOUTH HAYFORK,Insurance Commissioner,,Dem,Ricardo Lara,154
+Trinity,SOUTH WEAVER,Insurance Commissioner,,Dem,Ricardo Lara,118
+Trinity,TRINITY CENTER,Insurance Commissioner,,Dem,Ricardo Lara,26
+Trinity,WEAVERVILLE,Insurance Commissioner,,Dem,Ricardo Lara,272
+Trinity,WILDWOOD,Insurance Commissioner,,Dem,Ricardo Lara,10
+Trinity,ZENIA,Insurance Commissioner,,Dem,Ricardo Lara,29
+Trinity,TRINITY CA,Insurance Commissioner,,Dem,Ricardo Lara,1957
+Trinity,BIG BAR,Insurance Commissioner,,NPP,Steve Poizner,57
+Trinity,BURNT RANCH,Insurance Commissioner,,NPP,Steve Poizner,50
+Trinity,COFFEE CREEK,Insurance Commissioner,,NPP,Steve Poizner,58
+Trinity,DENNY,Insurance Commissioner,,NPP,Steve Poizner,61
+Trinity,DOUGLAS CITY,Insurance Commissioner,,NPP,Steve Poizner,241
+Trinity,EAST WEAVER,Insurance Commissioner,,NPP,Steve Poizner,145
+Trinity,FOREST GLEN,Insurance Commissioner,,NPP,Steve Poizner,1
+Trinity,HAYFORK,Insurance Commissioner,,NPP,Steve Poizner,255
+Trinity,HYAMPOM,Insurance Commissioner,,NPP,Steve Poizner,53
+Trinity,INDIAN CREEK,Insurance Commissioner,,NPP,Steve Poizner,7
+Trinity,JUNCTION CITY,Insurance Commissioner,,NPP,Steve Poizner,155
+Trinity,LEWISTON,Insurance Commissioner,,NPP,Steve Poizner,375
+Trinity,MAD RIVER,Insurance Commissioner,,NPP,Steve Poizner,71
+Trinity,MINERSVILLE,Insurance Commissioner,,NPP,Steve Poizner,42
+Trinity,NORTH WEAVER,Insurance Commissioner,,NPP,Steve Poizner,170
+Trinity,OREGON MOUNTAIN,Insurance Commissioner,,NPP,Steve Poizner,45
+Trinity,POST MOUNTAIN,Insurance Commissioner,,NPP,Steve Poizner,27
+Trinity,RUTH,Insurance Commissioner,,NPP,Steve Poizner,81
+Trinity,SALYER,Insurance Commissioner,,NPP,Steve Poizner,85
+Trinity,SOUTH HAYFORK,Insurance Commissioner,,NPP,Steve Poizner,209
+Trinity,SOUTH WEAVER,Insurance Commissioner,,NPP,Steve Poizner,212
+Trinity,TRINITY CENTER,Insurance Commissioner,,NPP,Steve Poizner,121
+Trinity,WEAVERVILLE,Insurance Commissioner,,NPP,Steve Poizner,391
+Trinity,WILDWOOD,Insurance Commissioner,,NPP,Steve Poizner,15
+Trinity,ZENIA,Insurance Commissioner,,NPP,Steve Poizner,43
+Trinity,TRINITY CA,Insurance Commissioner,,NPP,Steve Poizner,2970
+Trinity,BIG BAR,US Senate,,Dem,Dianne Feinstein,28
+Trinity,BURNT RANCH,US Senate,,Dem,Dianne Feinstein,44
+Trinity,COFFEE CREEK,US Senate,,Dem,Dianne Feinstein,42
+Trinity,DENNY,US Senate,,Dem,Dianne Feinstein,42
+Trinity,DOUGLAS CITY,US Senate,,Dem,Dianne Feinstein,161
+Trinity,EAST WEAVER,US Senate,,Dem,Dianne Feinstein,114
+Trinity,FOREST GLEN,US Senate,,Dem,Dianne Feinstein,1
+Trinity,HAYFORK,US Senate,,Dem,Dianne Feinstein,149
+Trinity,HYAMPOM,US Senate,,Dem,Dianne Feinstein,44
+Trinity,INDIAN CREEK,US Senate,,Dem,Dianne Feinstein,7
+Trinity,JUNCTION CITY,US Senate,,Dem,Dianne Feinstein,128
+Trinity,LEWISTON,US Senate,,Dem,Dianne Feinstein,157
+Trinity,MAD RIVER,US Senate,,Dem,Dianne Feinstein,35
+Trinity,MINERSVILLE,US Senate,,Dem,Dianne Feinstein,27
+Trinity,NORTH WEAVER,US Senate,,Dem,Dianne Feinstein,91
+Trinity,OREGON MOUNTAIN,US Senate,,Dem,Dianne Feinstein,27
+Trinity,POST MOUNTAIN,US Senate,,Dem,Dianne Feinstein,26
+Trinity,RUTH,US Senate,,Dem,Dianne Feinstein,37
+Trinity,SALYER,US Senate,,Dem,Dianne Feinstein,43
+Trinity,SOUTH HAYFORK,US Senate,,Dem,Dianne Feinstein,133
+Trinity,SOUTH WEAVER,US Senate,,Dem,Dianne Feinstein,102
+Trinity,TRINITY CENTER,US Senate,,Dem,Dianne Feinstein,34
+Trinity,WEAVERVILLE,US Senate,,Dem,Dianne Feinstein,239
+Trinity,WILDWOOD,US Senate,,Dem,Dianne Feinstein,8
+Trinity,ZENIA,US Senate,,Dem,Dianne Feinstein,27
+Trinity,TRINITY CA,US Senate,,Dem,Dianne Feinstein,1746
+Trinity,BIG BAR,US Senate,,Dem,Kevin DeLeon,52
+Trinity,BURNT RANCH,US Senate,,Dem,Kevin DeLeon,55
+Trinity,COFFEE CREEK,US Senate,,Dem,Kevin DeLeon,59
+Trinity,DENNY,US Senate,,Dem,Kevin DeLeon,70
+Trinity,DOUGLAS CITY,US Senate,,Dem,Kevin DeLeon,236
+Trinity,EAST WEAVER,US Senate,,Dem,Kevin DeLeon,158
+Trinity,FOREST GLEN,US Senate,,Dem,Kevin DeLeon,1
+Trinity,HAYFORK,US Senate,,Dem,Kevin DeLeon,240
+Trinity,HYAMPOM,US Senate,,Dem,Kevin DeLeon,68
+Trinity,INDIAN CREEK,US Senate,,Dem,Kevin DeLeon,4
+Trinity,JUNCTION CITY,US Senate,,Dem,Kevin DeLeon,156
+Trinity,LEWISTON,US Senate,,Dem,Kevin DeLeon,321
+Trinity,MAD RIVER,US Senate,,Dem,Kevin DeLeon,71
+Trinity,MINERSVILLE,US Senate,,Dem,Kevin DeLeon,38
+Trinity,NORTH WEAVER,US Senate,,Dem,Kevin DeLeon,160
+Trinity,OREGON MOUNTAIN,US Senate,,Dem,Kevin DeLeon,39
+Trinity,POST MOUNTAIN,US Senate,,Dem,Kevin DeLeon,25
+Trinity,RUTH,US Senate,,Dem,Kevin DeLeon,62
+Trinity,SALYER,US Senate,,Dem,Kevin DeLeon,82
+Trinity,SOUTH HAYFORK,US Senate,,Dem,Kevin DeLeon,208
+Trinity,SOUTH WEAVER,US Senate,,Dem,Kevin DeLeon,218
+Trinity,TRINITY CENTER,US Senate,,Dem,Kevin DeLeon,96
+Trinity,WEAVERVILLE,US Senate,,Dem,Kevin DeLeon,368
+Trinity,WILDWOOD,US Senate,,Dem,Kevin DeLeon,12
+Trinity,ZENIA,US Senate,,Dem,Kevin DeLeon,39
+Trinity,TRINITY CA,US Senate,,Dem,Kevin DeLeon,2838
+Trinity,BIG BAR,Public Instruction,,None,Marshall Tuck,47
+Trinity,BURNT RANCH,Public Instruction,,None,Marshall Tuck,49
+Trinity,COFFEE CREEK,Public Instruction,,None,Marshall Tuck,50
+Trinity,DENNY,Public Instruction,,None,Marshall Tuck,58
+Trinity,DOUGLAS CITY,Public Instruction,,None,Marshall Tuck,236
+Trinity,EAST WEAVER,Public Instruction,,None,Marshall Tuck,156
+Trinity,FOREST GLEN,Public Instruction,,None,Marshall Tuck,1
+Trinity,HAYFORK,Public Instruction,,None,Marshall Tuck,238
+Trinity,HYAMPOM,Public Instruction,,None,Marshall Tuck,44
+Trinity,INDIAN CREEK,Public Instruction,,None,Marshall Tuck,4
+Trinity,JUNCTION CITY,Public Instruction,,None,Marshall Tuck,146
+Trinity,LEWISTON,Public Instruction,,None,Marshall Tuck,310
+Trinity,MAD RIVER,Public Instruction,,None,Marshall Tuck,76
+Trinity,MINERSVILLE,Public Instruction,,None,Marshall Tuck,38
+Trinity,NORTH WEAVER,Public Instruction,,None,Marshall Tuck,145
+Trinity,OREGON MOUNTAIN,Public Instruction,,None,Marshall Tuck,33
+Trinity,POST MOUNTAIN,Public Instruction,,None,Marshall Tuck,29
+Trinity,RUTH,Public Instruction,,None,Marshall Tuck,62
+Trinity,SALYER,Public Instruction,,None,Marshall Tuck,68
+Trinity,SOUTH HAYFORK,Public Instruction,,None,Marshall Tuck,207
+Trinity,SOUTH WEAVER,Public Instruction,,None,Marshall Tuck,200
+Trinity,TRINITY CENTER,Public Instruction,,None,Marshall Tuck,100
+Trinity,WEAVERVILLE,Public Instruction,,None,Marshall Tuck,400
+Trinity,WILDWOOD,Public Instruction,,None,Marshall Tuck,12
+Trinity,ZENIA,Public Instruction,,None,Marshall Tuck,41
+Trinity,TRINITY CA,Public Instruction,,None,Marshall Tuck,2750
+Trinity,BIG BAR,Public Instruction,,None,Tony Thurmond,32
+Trinity,BURNT RANCH,Public Instruction,,None,Tony Thurmond,43
+Trinity,COFFEE CREEK,Public Instruction,,None,Tony Thurmond,46
+Trinity,DENNY,Public Instruction,,None,Tony Thurmond,54
+Trinity,DOUGLAS CITY,Public Instruction,,None,Tony Thurmond,154
+Trinity,EAST WEAVER,Public Instruction,,None,Tony Thurmond,121
+Trinity,FOREST GLEN,Public Instruction,,None,Tony Thurmond,0
+Trinity,HAYFORK,Public Instruction,,None,Tony Thurmond,160
+Trinity,HYAMPOM,Public Instruction,,None,Tony Thurmond,56
+Trinity,INDIAN CREEK,Public Instruction,,None,Tony Thurmond,7
+Trinity,JUNCTION CITY,Public Instruction,,None,Tony Thurmond,135
+Trinity,LEWISTON,Public Instruction,,None,Tony Thurmond,187
+Trinity,MAD RIVER,Public Instruction,,None,Tony Thurmond,39
+Trinity,MINERSVILLE,Public Instruction,,None,Tony Thurmond,24
+Trinity,NORTH WEAVER,Public Instruction,,None,Tony Thurmond,105
+Trinity,OREGON MOUNTAIN,Public Instruction,,None,Tony Thurmond,34
+Trinity,POST MOUNTAIN,Public Instruction,,None,Tony Thurmond,20
+Trinity,RUTH,Public Instruction,,None,Tony Thurmond,36
+Trinity,SALYER,Public Instruction,,None,Tony Thurmond,56
+Trinity,SOUTH HAYFORK,Public Instruction,,None,Tony Thurmond,130
+Trinity,SOUTH WEAVER,Public Instruction,,None,Tony Thurmond,114
+Trinity,TRINITY CENTER,Public Instruction,,None,Tony Thurmond,30
+Trinity,WEAVERVILLE,Public Instruction,,None,Tony Thurmond,226
+Trinity,WILDWOOD,Public Instruction,,None,Tony Thurmond,7
+Trinity,ZENIA,Public Instruction,,None,Tony Thurmond,28
+Trinity,TRINITY CA,Public Instruction,,None,Tony Thurmond,1844
+Trinity,BIG BAR,US House,2,Dem,Jared Huffman,44
+Trinity,BURNT RANCH,US House,2,Dem,Jared Huffman,70
+Trinity,COFFEE CREEK,US House,2,Dem,Jared Huffman,64
+Trinity,DENNY,US House,2,Dem,Jared Huffman,69
+Trinity,DOUGLAS CITY,US House,2,Dem,Jared Huffman,238
+Trinity,EAST WEAVER,US House,2,Dem,Jared Huffman,184
+Trinity,FOREST GLEN,US House,2,Dem,Jared Huffman,0
+Trinity,HAYFORK,US House,2,Dem,Jared Huffman,221
+Trinity,HYAMPOM,US House,2,Dem,Jared Huffman,66
+Trinity,INDIAN CREEK,US House,2,Dem,Jared Huffman,9
+Trinity,JUNCTION CITY,US House,2,Dem,Jared Huffman,191
+Trinity,LEWISTON,US House,2,Dem,Jared Huffman,253
+Trinity,MAD RIVER,US House,2,Dem,Jared Huffman,43
+Trinity,MINERSVILLE,US House,2,Dem,Jared Huffman,38
+Trinity,NORTH WEAVER,US House,2,Dem,Jared Huffman,135
+Trinity,OREGON MOUNTAIN,US House,2,Dem,Jared Huffman,41
+Trinity,POST MOUNTAIN,US House,2,Dem,Jared Huffman,35
+Trinity,RUTH,US House,2,Dem,Jared Huffman,29
+Trinity,SALYER,US House,2,Dem,Jared Huffman,75
+Trinity,SOUTH HAYFORK,US House,2,Dem,Jared Huffman,191
+Trinity,SOUTH WEAVER,US House,2,Dem,Jared Huffman,160
+Trinity,TRINITY CENTER,US House,2,Dem,Jared Huffman,39
+Trinity,WEAVERVILLE,US House,2,Dem,Jared Huffman,360
+Trinity,WILDWOOD,US House,2,Dem,Jared Huffman,13
+Trinity,ZENIA,US House,2,Dem,Jared Huffman,36
+Trinity,TRINITY CA,US House,2,Dem,Jared Huffman,2604
+Trinity,BIG BAR,US House,2,Rep,Dale Mensing,48
+Trinity,BURNT RANCH,US House,2,Rep,Dale Mensing,40
+Trinity,COFFEE CREEK,US House,2,Rep,Dale Mensing,49
+Trinity,DENNY,US House,2,Rep,Dale Mensing,58
+Trinity,DOUGLAS CITY,US House,2,Rep,Dale Mensing,213
+Trinity,EAST WEAVER,US House,2,Rep,Dale Mensing,117
+Trinity,FOREST GLEN,US House,2,Rep,Dale Mensing,2
+Trinity,HAYFORK,US House,2,Rep,Dale Mensing,232
+Trinity,HYAMPOM,US House,2,Rep,Dale Mensing,52
+Trinity,INDIAN CREEK,US House,2,Rep,Dale Mensing,5
+Trinity,JUNCTION CITY,US House,2,Rep,Dale Mensing,123
+Trinity,LEWISTON,US House,2,Rep,Dale Mensing,325
+Trinity,MAD RIVER,US House,2,Rep,Dale Mensing,79
+Trinity,MINERSVILLE,US House,2,Rep,Dale Mensing,35
+Trinity,NORTH WEAVER,US House,2,Rep,Dale Mensing,150
+Trinity,OREGON MOUNTAIN,US House,2,Rep,Dale Mensing,38
+Trinity,POST MOUNTAIN,US House,2,Rep,Dale Mensing,18
+Trinity,RUTH,US House,2,Rep,Dale Mensing,88
+Trinity,SALYER,US House,2,Rep,Dale Mensing,77
+Trinity,SOUTH HAYFORK,US House,2,Rep,Dale Mensing,198
+Trinity,SOUTH WEAVER,US House,2,Rep,Dale Mensing,196
+Trinity,TRINITY CENTER,US House,2,Rep,Dale Mensing,117
+Trinity,WEAVERVILLE,US House,2,Rep,Dale Mensing,333
+Trinity,WILDWOOD,US House,2,Rep,Dale Mensing,14
+Trinity,ZENIA,US House,2,Rep,Dale Mensing,40
+Trinity,TRINITY CA,US House,2,Rep,Dale Mensing,2647
+Trinity,BIG BAR,State Senate,2,Dem,Mike McGuire,41
+Trinity,BURNT RANCH,State Senate,2,Dem,Mike McGuire,60
+Trinity,COFFEE CREEK,State Senate,2,Dem,Mike McGuire,50
+Trinity,DENNY,State Senate,2,Dem,Mike McGuire,68
+Trinity,DOUGLAS CITY,State Senate,2,Dem,Mike McGuire,196
+Trinity,EAST WEAVER,State Senate,2,Dem,Mike McGuire,161
+Trinity,FOREST GLEN,State Senate,2,Dem,Mike McGuire,0
+Trinity,HAYFORK,State Senate,2,Dem,Mike McGuire,188
+Trinity,HYAMPOM,State Senate,2,Dem,Mike McGuire,63
+Trinity,INDIAN CREEK,State Senate,2,Dem,Mike McGuire,5
+Trinity,JUNCTION CITY,State Senate,2,Dem,Mike McGuire,185
+Trinity,LEWISTON,State Senate,2,Dem,Mike McGuire,243
+Trinity,MAD RIVER,State Senate,2,Dem,Mike McGuire,58
+Trinity,MINERSVILLE,State Senate,2,Dem,Mike McGuire,41
+Trinity,NORTH WEAVER,State Senate,2,Dem,Mike McGuire,154
+Trinity,OREGON MOUNTAIN,State Senate,2,Dem,Mike McGuire,36
+Trinity,POST MOUNTAIN,State Senate,2,Dem,Mike McGuire,32
+Trinity,RUTH,State Senate,2,Dem,Mike McGuire,55
+Trinity,SALYER,State Senate,2,Dem,Mike McGuire,65
+Trinity,SOUTH HAYFORK,State Senate,2,Dem,Mike McGuire,181
+Trinity,SOUTH WEAVER,State Senate,2,Dem,Mike McGuire,175
+Trinity,TRINITY CENTER,State Senate,2,Dem,Mike McGuire,71
+Trinity,WEAVERVILLE,State Senate,2,Dem,Mike McGuire,361
+Trinity,WILDWOOD,State Senate,2,Dem,Mike McGuire,13
+Trinity,ZENIA,State Senate,2,Dem,Mike McGuire,32
+Trinity,TRINITY CA,State Senate,2,Dem,Mike McGuire,2534
+Trinity,BIG BAR,State Senate,2,Dem,Veronica Jacobi,38
+Trinity,BURNT RANCH,State Senate,2,Dem,Veronica Jacobi,31
+Trinity,COFFEE CREEK,State Senate,2,Dem,Veronica Jacobi,40
+Trinity,DENNY,State Senate,2,Dem,Veronica Jacobi,38
+Trinity,DOUGLAS CITY,State Senate,2,Dem,Veronica Jacobi,184
+Trinity,EAST WEAVER,State Senate,2,Dem,Veronica Jacobi,100
+Trinity,FOREST GLEN,State Senate,2,Dem,Veronica Jacobi,1
+Trinity,HAYFORK,State Senate,2,Dem,Veronica Jacobi,180
+Trinity,HYAMPOM,State Senate,2,Dem,Veronica Jacobi,38
+Trinity,INDIAN CREEK,State Senate,2,Dem,Veronica Jacobi,5
+Trinity,JUNCTION CITY,State Senate,2,Dem,Veronica Jacobi,98
+Trinity,LEWISTON,State Senate,2,Dem,Veronica Jacobi,205
+Trinity,MAD RIVER,State Senate,2,Dem,Veronica Jacobi,41
+Trinity,MINERSVILLE,State Senate,2,Dem,Veronica Jacobi,19
+Trinity,NORTH WEAVER,State Senate,2,Dem,Veronica Jacobi,76
+Trinity,OREGON MOUNTAIN,State Senate,2,Dem,Veronica Jacobi,32
+Trinity,POST MOUNTAIN,State Senate,2,Dem,Veronica Jacobi,18
+Trinity,RUTH,State Senate,2,Dem,Veronica Jacobi,29
+Trinity,SALYER,State Senate,2,Dem,Veronica Jacobi,52
+Trinity,SOUTH HAYFORK,State Senate,2,Dem,Veronica Jacobi,148
+Trinity,SOUTH WEAVER,State Senate,2,Dem,Veronica Jacobi,127
+Trinity,TRINITY CENTER,State Senate,2,Dem,Veronica Jacobi,48
+Trinity,WEAVERVILLE,State Senate,2,Dem,Veronica Jacobi,229
+Trinity,WILDWOOD,State Senate,2,Dem,Veronica Jacobi,7
+Trinity,ZENIA,State Senate,2,Dem,Veronica Jacobi,34
+Trinity,TRINITY CA,State Senate,2,Dem,Veronica Jacobi,1818
+Trinity,BIG BAR,Assembly,2,Dem,Jim Wood,45
+Trinity,BURNT RANCH,Assembly,2,Dem,Jim Wood,64
+Trinity,COFFEE CREEK,Assembly,2,Dem,Jim Wood,65
+Trinity,DENNY,Assembly,2,Dem,Jim Wood,66
+Trinity,DOUGLAS CITY,Assembly,2,Dem,Jim Wood,238
+Trinity,EAST WEAVER,Assembly,2,Dem,Jim Wood,179
+Trinity,FOREST GLEN,Assembly,2,Dem,Jim Wood,1
+Trinity,HAYFORK,Assembly,2,Dem,Jim Wood,225
+Trinity,HYAMPOM,Assembly,2,Dem,Jim Wood,72
+Trinity,INDIAN CREEK,Assembly,2,Dem,Jim Wood,7
+Trinity,JUNCTION CITY,Assembly,2,Dem,Jim Wood,186
+Trinity,LEWISTON,Assembly,2,Dem,Jim Wood,244
+Trinity,MAD RIVER,Assembly,2,Dem,Jim Wood,43
+Trinity,MINERSVILLE,Assembly,2,Dem,Jim Wood,34
+Trinity,NORTH WEAVER,Assembly,2,Dem,Jim Wood,125
+Trinity,OREGON MOUNTAIN,Assembly,2,Dem,Jim Wood,41
+Trinity,POST MOUNTAIN,Assembly,2,Dem,Jim Wood,32
+Trinity,RUTH,Assembly,2,Dem,Jim Wood,31
+Trinity,SALYER,Assembly,2,Dem,Jim Wood,74
+Trinity,SOUTH HAYFORK,Assembly,2,Dem,Jim Wood,179
+Trinity,SOUTH WEAVER,Assembly,2,Dem,Jim Wood,148
+Trinity,TRINITY CENTER,Assembly,2,Dem,Jim Wood,37
+Trinity,WEAVERVILLE,Assembly,2,Dem,Jim Wood,341
+Trinity,WILDWOOD,Assembly,2,Dem,Jim Wood,11
+Trinity,ZENIA,Assembly,2,Dem,Jim Wood,35
+Trinity,TRINITY CA,Assembly,2,Dem,Jim Wood,2523
+Trinity,BIG BAR,Assembly,2,Rep,Matthew Heath,47
+Trinity,BURNT RANCH,Assembly,2,Rep,Matthew Heath,45
+Trinity,COFFEE CREEK,Assembly,2,Rep,Matthew Heath,48
+Trinity,DENNY,Assembly,2,Rep,Matthew Heath,61
+Trinity,DOUGLAS CITY,Assembly,2,Rep,Matthew Heath,215
+Trinity,EAST WEAVER,Assembly,2,Rep,Matthew Heath,124
+Trinity,FOREST GLEN,Assembly,2,Rep,Matthew Heath,2
+Trinity,HAYFORK,Assembly,2,Rep,Matthew Heath,232
+Trinity,HYAMPOM,Assembly,2,Rep,Matthew Heath,45
+Trinity,INDIAN CREEK,Assembly,2,Rep,Matthew Heath,6
+Trinity,JUNCTION CITY,Assembly,2,Rep,Matthew Heath,127
+Trinity,LEWISTON,Assembly,2,Rep,Matthew Heath,333
+Trinity,MAD RIVER,Assembly,2,Rep,Matthew Heath,79
+Trinity,MINERSVILLE,Assembly,2,Rep,Matthew Heath,38
+Trinity,NORTH WEAVER,Assembly,2,Rep,Matthew Heath,158
+Trinity,OREGON MOUNTAIN,Assembly,2,Rep,Matthew Heath,39
+Trinity,POST MOUNTAIN,Assembly,2,Rep,Matthew Heath,20
+Trinity,RUTH,Assembly,2,Rep,Matthew Heath,85
+Trinity,SALYER,Assembly,2,Rep,Matthew Heath,80
+Trinity,SOUTH HAYFORK,Assembly,2,Rep,Matthew Heath,213
+Trinity,SOUTH WEAVER,Assembly,2,Rep,Matthew Heath,207
+Trinity,TRINITY CENTER,Assembly,2,Rep,Matthew Heath,119
+Trinity,WEAVERVILLE,Assembly,2,Rep,Matthew Heath,350
+Trinity,WILDWOOD,Assembly,2,Rep,Matthew Heath,17
+Trinity,ZENIA,Assembly,2,Rep,Matthew Heath,41
+Trinity,TRINITY CA,Assembly,2,Rep,Matthew Heath,2731
