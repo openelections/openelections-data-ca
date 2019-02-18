@@ -1,0 +1,126 @@
+county,precinct,office,district,party,candidate,votes
+Alpine,1,Governor,,,"Registered 
+Voters",152
+Alpine,2,Governor,,,"Registered 
+Voters",157
+Alpine,3,Governor,,,"Registered 
+Voters",112
+Alpine,4,Governor,,,"Registered 
+Voters",163
+Alpine,5,Governor,,,"Registered 
+Voters",191
+Alpine,1,Governor,,,Times Cast,132
+Alpine,2,Governor,,,Times Cast,131
+Alpine,3,Governor,,,Times Cast,65
+Alpine,4,Governor,,,Times Cast,144
+Alpine,5,Governor,,,Times Cast,154
+Alpine,1,Governor,,Rep,John Cox,52
+Alpine,2,Governor,,Rep,John Cox,42
+Alpine,3,Governor,,Rep,John Cox,18
+Alpine,4,Governor,,Rep,John Cox,44
+Alpine,5,Governor,,Rep,John Cox,73
+Alpine,1,Governor,,Dem,Gavin Newsom,78
+Alpine,2,Governor,,Dem,Gavin Newsom,87
+Alpine,3,Governor,,Dem,Gavin Newsom,43
+Alpine,4,Governor,,Dem,Gavin Newsom,100
+Alpine,5,Governor,,Dem,Gavin Newsom,78
+Alpine,1,Lt Governor,,Dem,Ed Hernandez,30
+Alpine,2,Lt Governor,,Dem,Ed Hernandez,25
+Alpine,3,Lt Governor,,Dem,Ed Hernandez,30
+Alpine,4,Lt Governor,,Dem,Ed Hernandez,33
+Alpine,5,Lt Governor,,Dem,Ed Hernandez,42
+Alpine,1,Lt Governor,,Dem,Eleni Kounalakis,70
+Alpine,2,Lt Governor,,Dem,Eleni Kounalakis,72
+Alpine,3,Lt Governor,,Dem,Eleni Kounalakis,27
+Alpine,4,Lt Governor,,Dem,Eleni Kounalakis,79
+Alpine,5,Lt Governor,,Dem,Eleni Kounalakis,66
+Alpine,1,Secretary of State,,Dem,Alex Padilla,79
+Alpine,2,Secretary of State,,Dem,Alex Padilla,88
+Alpine,3,Secretary of State,,Dem,Alex Padilla,47
+Alpine,4,Secretary of State,,Dem,Alex Padilla,103
+Alpine,5,Secretary of State,,Dem,Alex Padilla,77
+Alpine,1,Secretary of State,,Rep,Mark Meuser,50
+Alpine,2,Secretary of State,,Rep,Mark Meuser,35
+Alpine,3,Secretary of State,,Rep,Mark Meuser,15
+Alpine,4,Secretary of State,,Rep,Mark Meuser,40
+Alpine,5,Secretary of State,,Rep,Mark Meuser,69
+Alpine,1,Controller,,Rep,Konstantinos Roditis,50
+Alpine,2,Controller,,Rep,Konstantinos Roditis,35
+Alpine,3,Controller,,Rep,Konstantinos Roditis,11
+Alpine,4,Controller,,Rep,Konstantinos Roditis,37
+Alpine,5,Controller,,Rep,Konstantinos Roditis,65
+Alpine,1,Controller,,Dem,Betty Yee,80
+Alpine,2,Controller,,Dem,Betty Yee,92
+Alpine,3,Controller,,Dem,Betty Yee,50
+Alpine,4,Controller,,Dem,Betty Yee,105
+Alpine,5,Controller,,Dem,Betty Yee,84
+Alpine,1,Treasurer,,Rep,Greg Conlon,52
+Alpine,2,Treasurer,,Rep,Greg Conlon,33
+Alpine,3,Treasurer,,Rep,Greg Conlon,11
+Alpine,4,Treasurer,,Rep,Greg Conlon,40
+Alpine,5,Treasurer,,Rep,Greg Conlon,70
+Alpine,1,Treasurer,,Dem,Fiona Ma,78
+Alpine,2,Treasurer,,Dem,Fiona Ma,93
+Alpine,3,Treasurer,,Dem,Fiona Ma,51
+Alpine,4,Treasurer,,Dem,Fiona Ma,101
+Alpine,5,Treasurer,,Dem,Fiona Ma,80
+Alpine,1,Attorney General,,Rep,Steven Bailey,50
+Alpine,2,Attorney General,,Rep,Steven Bailey,39
+Alpine,3,Attorney General,,Rep,Steven Bailey,12
+Alpine,4,Attorney General,,Rep,Steven Bailey,42
+Alpine,5,Attorney General,,Rep,Steven Bailey,70
+Alpine,1,Attorney General,,Dem,Xavier Becerra,80
+Alpine,2,Attorney General,,Dem,Xavier Becerra,87
+Alpine,3,Attorney General,,Dem,Xavier Becerra,50
+Alpine,4,Attorney General,,Dem,Xavier Becerra,101
+Alpine,5,Attorney General,,Dem,Xavier Becerra,81
+Alpine,1,Insurance Commissioner,,Dem,Ricardo Lara,58
+Alpine,2,Insurance Commissioner,,Dem,Ricardo Lara,75
+Alpine,3,Insurance Commissioner,,Dem,Ricardo Lara,46
+Alpine,4,Insurance Commissioner,,Dem,Ricardo Lara,68
+Alpine,5,Insurance Commissioner,,Dem,Ricardo Lara,59
+Alpine,1,Insurance Commissioner,,NPP,Steve Poizner,69
+Alpine,2,Insurance Commissioner,,NPP,Steve Poizner,47
+Alpine,3,Insurance Commissioner,,NPP,Steve Poizner,14
+Alpine,4,Insurance Commissioner,,NPP,Steve Poizner,70
+Alpine,5,Insurance Commissioner,,NPP,Steve Poizner,60
+Alpine,1,US Senate,,Dem,Dianne Feinstein,37
+Alpine,2,US Senate,,Dem,Dianne Feinstein,67
+Alpine,3,US Senate,,Dem,Dianne Feinstein,37
+Alpine,4,US Senate,,Dem,Dianne Feinstein,79
+Alpine,5,US Senate,,Dem,Dianne Feinstein,47
+Alpine,1,US Senate,,Dem,Kevin DeLeon,75
+Alpine,2,US Senate,,Dem,Kevin DeLeon,51
+Alpine,3,US Senate,,Dem,Kevin DeLeon,26
+Alpine,4,US Senate,,Dem,Kevin DeLeon,51
+Alpine,5,US Senate,,Dem,Kevin DeLeon,77
+Alpine,1,Public Instruction,,None,Marshall Tuck,41
+Alpine,2,Public Instruction,,None,Marshall Tuck,47
+Alpine,3,Public Instruction,,None,Marshall Tuck,27
+Alpine,4,Public Instruction,,None,Marshall Tuck,53
+Alpine,5,Public Instruction,,None,Marshall Tuck,56
+Alpine,1,Public Instruction,,None,Tony Thurmond,62
+Alpine,2,Public Instruction,,None,Tony Thurmond,54
+Alpine,3,Public Instruction,,None,Tony Thurmond,28
+Alpine,4,Public Instruction,,None,Tony Thurmond,60
+Alpine,5,Public Instruction,,None,Tony Thurmond,67
+Alpine,1,US House,4,Dem,Jessica Morse,83
+Alpine,2,US House,4,Dem,Jessica Morse,96
+Alpine,3,US House,4,Dem,Jessica Morse,48
+Alpine,4,US House,4,Dem,Jessica Morse,107
+Alpine,5,US House,4,Dem,Jessica Morse,86
+Alpine,1,US House,4,Rep,Tom McClintock,47
+Alpine,2,US House,4,Rep,Tom McClintock,34
+Alpine,3,US House,4,Rep,Tom McClintock,15
+Alpine,4,US House,4,Rep,Tom McClintock,36
+Alpine,5,US House,4,Rep,Tom McClintock,67
+Alpine,1,Assembly,5,Dem,Carla Neal,77
+Alpine,2,Assembly,5,Dem,Carla Neal,91
+Alpine,3,Assembly,5,Dem,Carla Neal,41
+Alpine,4,Assembly,5,Dem,Carla Neal,97
+Alpine,5,Assembly,5,Dem,Carla Neal,74
+Alpine,1,Assembly,5,Rep,Frank Bigelow,51
+Alpine,2,Assembly,5,Rep,Frank Bigelow,37
+Alpine,3,Assembly,5,Rep,Frank Bigelow,22
+Alpine,4,Assembly,5,Rep,Frank Bigelow,44
+Alpine,5,Assembly,5,Rep,Frank Bigelow,76
