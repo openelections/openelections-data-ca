@@ -1,4 +1,4 @@
-ReportingType,PrecinctName,Office,District,Party,Candidate,Total,Polls,VBM
+county,precinct,office,district,party,candidate,votes,election_day,mail
 San Francisco,Pct 1101,Governor,,Dem,Gavin Newsom,315,107,208
 San Francisco,Pct 1102,Governor,,Dem,Gavin Newsom,610,235,375
 San Francisco,Pct 1103,Governor,,Dem,Gavin Newsom,555,206,349
