@@ -122,6 +122,8 @@ y
 
 Absentee,absentee,Provisional,provisional,Total,total
 
+1
+
 172.935,0.0,777.958,611.003
 
 103.658,0.383,133.493,612.383
@@ -161,6 +163,8 @@ y
 
 Total Votes,total
 
+1
+
 189.338,-0.383,563.423,609.323
 
 119.723,2.678,150.323,610.853
@@ -169,22 +173,43 @@ Total Votes,total
 
 ### Sonoma
 sonoma
+
 ca
+
 20181126
+
 Sonoma FULL.pdf (varies depending on what you named the general pdf)
+
 y
+
 y
+
 y
+
 2
+
 y
+
 Precinct Totals
+
 0
+
 0
+
 4
+
 n
+
 n
+
 0
-PCT,election_day,Mail,absentee
+
+PCT,election_day,Mail,mail
+
+-1
+
 186.519,-1.824,790.31,611.088
+
 47.107,115.591,69.276,611.208
+
 8.709,607.576,606.039,724.378
