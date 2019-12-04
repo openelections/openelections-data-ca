@@ -1,0 +1,457 @@
+county,precinct,office,district,party,candidate,votes
+Del Norte,PRECINCT 01 CC,Governor,,Rep,John Cox,224
+Del Norte,PRECINCT 02,Governor,,Rep,John Cox,194
+Del Norte,PRECINCT 03,Governor,,Rep,John Cox,178
+Del Norte,PRECINCT 04 CC,Governor,,Rep,John Cox,124
+Del Norte,PRECINCT 05 CC,Governor,,Rep,John Cox,132
+Del Norte,PRECINCT 06,Governor,,Rep,John Cox,177
+Del Norte,PRECINCT 07,Governor,,Rep,John Cox,311
+Del Norte,PRECINCT 08,Governor,,Rep,John Cox,187
+Del Norte,PRECINCT 09,Governor,,Rep,John Cox,201
+Del Norte,PRECINCT 10,Governor,,Rep,John Cox,254
+Del Norte,PRECINCT 11,Governor,,Rep,John Cox,392
+Del Norte,PRECINCT 12,Governor,,Rep,John Cox,201
+Del Norte,PRECINCT 13,Governor,,Rep,John Cox,177
+Del Norte,PRECINCT 14,Governor,,Rep,John Cox,625
+Del Norte,PRECINCT 15,Governor,,Rep,John Cox,456
+Del Norte,PRECINCT 16,Governor,,Rep,John Cox,473
+Del Norte,PRECINCT 17,Governor,,Rep,John Cox,413
+Del Norte,PRECINCT 18,Governor,,Rep,John Cox,168
+Del Norte,DEL NORTE CA,Governor,,Rep,John Cox,4887
+Del Norte,PRECINCT 01 CC,Governor,,Dem,Gavin Newsom,228
+Del Norte,PRECINCT 02,Governor,,Dem,Gavin Newsom,165
+Del Norte,PRECINCT 03,Governor,,Dem,Gavin Newsom,168
+Del Norte,PRECINCT 04 CC,Governor,,Dem,Gavin Newsom,134
+Del Norte,PRECINCT 05 CC,Governor,,Dem,Gavin Newsom,139
+Del Norte,PRECINCT 06,Governor,,Dem,Gavin Newsom,138
+Del Norte,PRECINCT 07,Governor,,Dem,Gavin Newsom,250
+Del Norte,PRECINCT 08,Governor,,Dem,Gavin Newsom,161
+Del Norte,PRECINCT 09,Governor,,Dem,Gavin Newsom,93
+Del Norte,PRECINCT 10,Governor,,Dem,Gavin Newsom,256
+Del Norte,PRECINCT 11,Governor,,Dem,Gavin Newsom,177
+Del Norte,PRECINCT 12,Governor,,Dem,Gavin Newsom,198
+Del Norte,PRECINCT 13,Governor,,Dem,Gavin Newsom,97
+Del Norte,PRECINCT 14,Governor,,Dem,Gavin Newsom,320
+Del Norte,PRECINCT 15,Governor,,Dem,Gavin Newsom,196
+Del Norte,PRECINCT 16,Governor,,Dem,Gavin Newsom,260
+Del Norte,PRECINCT 17,Governor,,Dem,Gavin Newsom,281
+Del Norte,PRECINCT 18,Governor,,Dem,Gavin Newsom,180
+Del Norte,DEL NORTE CA,Governor,,Dem,Gavin Newsom,3441
+Del Norte,PRECINCT 01 CC,Lieutenant Governor,,Dem,Ed Hernandez,142
+Del Norte,PRECINCT 02,Lieutenant Governor,,Dem,Ed Hernandez,107
+Del Norte,PRECINCT 03,Lieutenant Governor,,Dem,Ed Hernandez,127
+Del Norte,PRECINCT 04 CC,Lieutenant Governor,,Dem,Ed Hernandez,87
+Del Norte,PRECINCT 05 CC,Lieutenant Governor,,Dem,Ed Hernandez,86
+Del Norte,PRECINCT 06,Lieutenant Governor,,Dem,Ed Hernandez,124
+Del Norte,PRECINCT 07,Lieutenant Governor,,Dem,Ed Hernandez,178
+Del Norte,PRECINCT 08,Lieutenant Governor,,Dem,Ed Hernandez,108
+Del Norte,PRECINCT 09,Lieutenant Governor,,Dem,Ed Hernandez,97
+Del Norte,PRECINCT 10,Lieutenant Governor,,Dem,Ed Hernandez,153
+Del Norte,PRECINCT 11,Lieutenant Governor,,Dem,Ed Hernandez,176
+Del Norte,PRECINCT 12,Lieutenant Governor,,Dem,Ed Hernandez,106
+Del Norte,PRECINCT 13,Lieutenant Governor,,Dem,Ed Hernandez,95
+Del Norte,PRECINCT 14,Lieutenant Governor,,Dem,Ed Hernandez,283
+Del Norte,PRECINCT 15,Lieutenant Governor,,Dem,Ed Hernandez,202
+Del Norte,PRECINCT 16,Lieutenant Governor,,Dem,Ed Hernandez,229
+Del Norte,PRECINCT 17,Lieutenant Governor,,Dem,Ed Hernandez,214
+Del Norte,PRECINCT 18,Lieutenant Governor,,Dem,Ed Hernandez,115
+Del Norte,DEL NORTE CA,Lieutenant Governor,,Dem,Ed Hernandez,"2,629"
+Del Norte,PRECINCT 01 CC,Lieutenant Governor,,Dem,Eleni Kounalakis,210
+Del Norte,PRECINCT 02,Lieutenant Governor,,Dem,Eleni Kounalakis,181
+Del Norte,PRECINCT 03,Lieutenant Governor,,Dem,Eleni Kounalakis,163
+Del Norte,PRECINCT 04 CC,Lieutenant Governor,,Dem,Eleni Kounalakis,125
+Del Norte,PRECINCT 05 CC,Lieutenant Governor,,Dem,Eleni Kounalakis,112
+Del Norte,PRECINCT 06,Lieutenant Governor,,Dem,Eleni Kounalakis,116
+Del Norte,PRECINCT 07,Lieutenant Governor,,Dem,Eleni Kounalakis,232
+Del Norte,PRECINCT 08,Lieutenant Governor,,Dem,Eleni Kounalakis,147
+Del Norte,PRECINCT 09,Lieutenant Governor,,Dem,Eleni Kounalakis,121
+Del Norte,PRECINCT 10,Lieutenant Governor,,Dem,Eleni Kounalakis,223
+Del Norte,PRECINCT 11,Lieutenant Governor,,Dem,Eleni Kounalakis,221
+Del Norte,PRECINCT 12,Lieutenant Governor,,Dem,Eleni Kounalakis,200
+Del Norte,PRECINCT 13,Lieutenant Governor,,Dem,Eleni Kounalakis,114
+Del Norte,PRECINCT 14,Lieutenant Governor,,Dem,Eleni Kounalakis,400
+Del Norte,PRECINCT 15,Lieutenant Governor,,Dem,Eleni Kounalakis,252
+Del Norte,PRECINCT 16,Lieutenant Governor,,Dem,Eleni Kounalakis,280
+Del Norte,PRECINCT 17,Lieutenant Governor,,Dem,Eleni Kounalakis,316
+Del Norte,PRECINCT 18,Lieutenant Governor,,Dem,Eleni Kounalakis,173
+Del Norte,DEL NORTE CA,Lieutenant Governor,,Dem,Eleni Kounalakis,"3,586"
+Del Norte,PRECINCT 01 CC,Secretary of State,,Dem,Alex Padilla,237
+Del Norte,PRECINCT 02,Secretary of State,,Dem,Alex Padilla,176
+Del Norte,PRECINCT 03,Secretary of State,,Dem,Alex Padilla,172
+Del Norte,PRECINCT 04 CC,Secretary of State,,Dem,Alex Padilla,144
+Del Norte,PRECINCT 05 CC,Secretary of State,,Dem,Alex Padilla,139
+Del Norte,PRECINCT 06,Secretary of State,,Dem,Alex Padilla,152
+Del Norte,PRECINCT 07,Secretary of State,,Dem,Alex Padilla,260
+Del Norte,PRECINCT 08,Secretary of State,,Dem,Alex Padilla,167
+Del Norte,PRECINCT 09,Secretary of State,,Dem,Alex Padilla,109
+Del Norte,PRECINCT 10,Secretary of State,,Dem,Alex Padilla,258
+Del Norte,PRECINCT 11,Secretary of State,,Dem,Alex Padilla,187
+Del Norte,PRECINCT 12,Secretary of State,,Dem,Alex Padilla,207
+Del Norte,PRECINCT 13,Secretary of State,,Dem,Alex Padilla,112
+Del Norte,PRECINCT 14,Secretary of State,,Dem,Alex Padilla,337
+Del Norte,PRECINCT 15,Secretary of State,,Dem,Alex Padilla,210
+Del Norte,PRECINCT 16,Secretary of State,,Dem,Alex Padilla,282
+Del Norte,PRECINCT 17,Secretary of State,,Dem,Alex Padilla,308
+Del Norte,PRECINCT 18,Secretary of State,,Dem,Alex Padilla,189
+Del Norte,DEL NORTE CA,Secretary of State,,Dem,Alex Padilla,"3,646"
+Del Norte,PRECINCT 01 CC,Secretary of State,,Rep,Mark Meuser,212
+Del Norte,PRECINCT 02,Secretary of State,,Rep,Mark Meuser,179
+Del Norte,PRECINCT 03,Secretary of State,,Rep,Mark Meuser,172
+Del Norte,PRECINCT 04 CC,Secretary of State,,Rep,Mark Meuser,111
+Del Norte,PRECINCT 05 CC,Secretary of State,,Rep,Mark Meuser,129
+Del Norte,PRECINCT 06,Secretary of State,,Rep,Mark Meuser,162
+Del Norte,PRECINCT 07,Secretary of State,,Rep,Mark Meuser,297
+Del Norte,PRECINCT 08,Secretary of State,,Rep,Mark Meuser,179
+Del Norte,PRECINCT 09,Secretary of State,,Rep,Mark Meuser,182
+Del Norte,PRECINCT 10,Secretary of State,,Rep,Mark Meuser,252
+Del Norte,PRECINCT 11,Secretary of State,,Rep,Mark Meuser,379
+Del Norte,PRECINCT 12,Secretary of State,,Rep,Mark Meuser,189
+Del Norte,PRECINCT 13,Secretary of State,,Rep,Mark Meuser,159
+Del Norte,PRECINCT 14,Secretary of State,,Rep,Mark Meuser,596
+Del Norte,PRECINCT 15,Secretary of State,,Rep,Mark Meuser,443
+Del Norte,PRECINCT 16,Secretary of State,,Rep,Mark Meuser,447
+Del Norte,PRECINCT 17,Secretary of State,,Rep,Mark Meuser,380
+Del Norte,PRECINCT 18,Secretary of State,,Rep,Mark Meuser,157
+Del Norte,DEL NORTE CA,Secretary of State,,Rep,Mark Meuser,"4,625"
+Del Norte,PRECINCT 01 CC,Controller,,Rep,Konstantinos Roditis,201
+Del Norte,PRECINCT 02,Controller,,Rep,Konstantinos Roditis,172
+Del Norte,PRECINCT 03,Controller,,Rep,Konstantinos Roditis,165
+Del Norte,PRECINCT 04 CC,Controller,,Rep,Konstantinos Roditis,104
+Del Norte,PRECINCT 05 CC,Controller,,Rep,Konstantinos Roditis,119
+Del Norte,PRECINCT 06,Controller,,Rep,Konstantinos Roditis,160
+Del Norte,PRECINCT 07,Controller,,Rep,Konstantinos Roditis,284
+Del Norte,PRECINCT 08,Controller,,Rep,Konstantinos Roditis,169
+Del Norte,PRECINCT 09,Controller,,Rep,Konstantinos Roditis,174
+Del Norte,PRECINCT 10,Controller,,Rep,Konstantinos Roditis,237
+Del Norte,PRECINCT 11,Controller,,Rep,Konstantinos Roditis,359
+Del Norte,PRECINCT 12,Controller,,Rep,Konstantinos Roditis,176
+Del Norte,PRECINCT 13,Controller,,Rep,Konstantinos Roditis,158
+Del Norte,PRECINCT 14,Controller,,Rep,Konstantinos Roditis,554
+Del Norte,PRECINCT 15,Controller,,Rep,Konstantinos Roditis,427
+Del Norte,PRECINCT 16,Controller,,Rep,Konstantinos Roditis,425
+Del Norte,PRECINCT 17,Controller,,Rep,Konstantinos Roditis,370
+Del Norte,PRECINCT 18,Controller,,Rep,Konstantinos Roditis,137
+Del Norte,DEL NORTE CA,Controller,,Rep,Konstantinos Roditis,"4,391"
+Del Norte,PRECINCT 01 CC,Controller,,Dem,Betty Yee,248
+Del Norte,PRECINCT 02,Controller,,Dem,Betty Yee,185
+Del Norte,PRECINCT 03,Controller,,Dem,Betty Yee,176
+Del Norte,PRECINCT 04 CC,Controller,,Dem,Betty Yee,149
+Del Norte,PRECINCT 05 CC,Controller,,Dem,Betty Yee,150
+Del Norte,PRECINCT 06,Controller,,Dem,Betty Yee,153
+Del Norte,PRECINCT 07,Controller,,Dem,Betty Yee,271
+Del Norte,PRECINCT 08,Controller,,Dem,Betty Yee,177
+Del Norte,PRECINCT 09,Controller,,Dem,Betty Yee,117
+Del Norte,PRECINCT 10,Controller,,Dem,Betty Yee,269
+Del Norte,PRECINCT 11,Controller,,Dem,Betty Yee,209
+Del Norte,PRECINCT 12,Controller,,Dem,Betty Yee,222
+Del Norte,PRECINCT 13,Controller,,Dem,Betty Yee,114
+Del Norte,PRECINCT 14,Controller,,Dem,Betty Yee,378
+Del Norte,PRECINCT 15,Controller,,Dem,Betty Yee,225
+Del Norte,PRECINCT 16,Controller,,Dem,Betty Yee,304
+Del Norte,PRECINCT 17,Controller,,Dem,Betty Yee,316
+Del Norte,PRECINCT 18,Controller,,Dem,Betty Yee,209
+Del Norte,DEL NORTE CA,Controller,,Dem,Betty Yee,"3,872"
+Del Norte,PRECINCT 01 CC,Treasurer,,Rep,Greg Conlon,207
+Del Norte,PRECINCT 02,Treasurer,,Rep,Greg Conlon,177
+Del Norte,PRECINCT 03,Treasurer,,Rep,Greg Conlon,171
+Del Norte,PRECINCT 04 CC,Treasurer,,Rep,Greg Conlon,120
+Del Norte,PRECINCT 05 CC,Treasurer,,Rep,Greg Conlon,126
+Del Norte,PRECINCT 06,Treasurer,,Rep,Greg Conlon,165
+Del Norte,PRECINCT 07,Treasurer,,Rep,Greg Conlon,293
+Del Norte,PRECINCT 08,Treasurer,,Rep,Greg Conlon,177
+Del Norte,PRECINCT 09,Treasurer,,Rep,Greg Conlon,186
+Del Norte,PRECINCT 10,Treasurer,,Rep,Greg Conlon,247
+Del Norte,PRECINCT 11,Treasurer,,Rep,Greg Conlon,368
+Del Norte,PRECINCT 12,Treasurer,,Rep,Greg Conlon,186
+Del Norte,PRECINCT 13,Treasurer,,Rep,Greg Conlon,165
+Del Norte,PRECINCT 14,Treasurer,,Rep,Greg Conlon,582
+Del Norte,PRECINCT 15,Treasurer,,Rep,Greg Conlon,453
+Del Norte,PRECINCT 16,Treasurer,,Rep,Greg Conlon,442
+Del Norte,PRECINCT 17,Treasurer,,Rep,Greg Conlon,387
+Del Norte,PRECINCT 18,Treasurer,,Rep,Greg Conlon,144
+Del Norte,DEL NORTE CA,Treasurer,,Rep,Greg Conlon,"4,596"
+Del Norte,PRECINCT 01 CC,Treasurer,,Dem,Fiona Ma,241
+Del Norte,PRECINCT 02,Treasurer,,Dem,Fiona Ma,179
+Del Norte,PRECINCT 03,Treasurer,,Dem,Fiona Ma,169
+Del Norte,PRECINCT 04 CC,Treasurer,,Dem,Fiona Ma,135
+Del Norte,PRECINCT 05 CC,Treasurer,,Dem,Fiona Ma,142
+Del Norte,PRECINCT 06,Treasurer,,Dem,Fiona Ma,148
+Del Norte,PRECINCT 07,Treasurer,,Dem,Fiona Ma,261
+Del Norte,PRECINCT 08,Treasurer,,Dem,Fiona Ma,170
+Del Norte,PRECINCT 09,Treasurer,,Dem,Fiona Ma,106
+Del Norte,PRECINCT 10,Treasurer,,Dem,Fiona Ma,259
+Del Norte,PRECINCT 11,Treasurer,,Dem,Fiona Ma,198
+Del Norte,PRECINCT 12,Treasurer,,Dem,Fiona Ma,210
+Del Norte,PRECINCT 13,Treasurer,,Dem,Fiona Ma,108
+Del Norte,PRECINCT 14,Treasurer,,Dem,Fiona Ma,344
+Del Norte,PRECINCT 15,Treasurer,,Dem,Fiona Ma,199
+Del Norte,PRECINCT 16,Treasurer,,Dem,Fiona Ma,284
+Del Norte,PRECINCT 17,Treasurer,,Dem,Fiona Ma,302
+Del Norte,PRECINCT 18,Treasurer,,Dem,Fiona Ma,202
+Del Norte,DEL NORTE CA,Treasurer,,Dem,Fiona Ma,"3,657"
+Del Norte,PRECINCT 01 CC,Attorney General,,Rep,Steven Bailey,223
+Del Norte,PRECINCT 02,Attorney General,,Rep,Steven Bailey,183
+Del Norte,PRECINCT 03,Attorney General,,Rep,Steven Bailey,181
+Del Norte,PRECINCT 04 CC,Attorney General,,Rep,Steven Bailey,115
+Del Norte,PRECINCT 05 CC,Attorney General,,Rep,Steven Bailey,129
+Del Norte,PRECINCT 06,Attorney General,,Rep,Steven Bailey,175
+Del Norte,PRECINCT 07,Attorney General,,Rep,Steven Bailey,303
+Del Norte,PRECINCT 08,Attorney General,,Rep,Steven Bailey,177
+Del Norte,PRECINCT 09,Attorney General,,Rep,Steven Bailey,191
+Del Norte,PRECINCT 10,Attorney General,,Rep,Steven Bailey,254
+Del Norte,PRECINCT 11,Attorney General,,Rep,Steven Bailey,380
+Del Norte,PRECINCT 12,Attorney General,,Rep,Steven Bailey,191
+Del Norte,PRECINCT 13,Attorney General,,Rep,Steven Bailey,171
+Del Norte,PRECINCT 14,Attorney General,,Rep,Steven Bailey,598
+Del Norte,PRECINCT 15,Attorney General,,Rep,Steven Bailey,463
+Del Norte,PRECINCT 16,Attorney General,,Rep,Steven Bailey,453
+Del Norte,PRECINCT 17,Attorney General,,Rep,Steven Bailey,395
+Del Norte,PRECINCT 18,Attorney General,,Rep,Steven Bailey,156
+Del Norte,DEL NORTE CA,Attorney General,,Rep,Steven Bailey,"4,738"
+Del Norte,PRECINCT 01 CC,Attorney General,,Dem,Xavier Becerra,227
+Del Norte,PRECINCT 02,Attorney General,,Dem,Xavier Becerra,173
+Del Norte,PRECINCT 03,Attorney General,,Dem,Xavier Becerra,160
+Del Norte,PRECINCT 04 CC,Attorney General,,Dem,Xavier Becerra,190
+Del Norte,PRECINCT 05 CC,Attorney General,,Dem,Xavier Becerra,138
+Del Norte,PRECINCT 06,Attorney General,,Dem,Xavier Becerra,139
+Del Norte,PRECINCT 07,Attorney General,,Dem,Xavier Becerra,253
+Del Norte,PRECINCT 08,Attorney General,,Dem,Xavier Becerra,168
+Del Norte,PRECINCT 09,Attorney General,,Dem,Xavier Becerra,103
+Del Norte,PRECINCT 10,Attorney General,,Dem,Xavier Becerra,253
+Del Norte,PRECINCT 11,Attorney General,,Dem,Xavier Becerra,185
+Del Norte,PRECINCT 12,Attorney General,,Dem,Xavier Becerra,201
+Del Norte,PRECINCT 13,Attorney General,,Dem,Xavier Becerra,100
+Del Norte,PRECINCT 14,Attorney General,,Dem,Xavier Becerra,329
+Del Norte,PRECINCT 15,Attorney General,,Dem,Xavier Becerra,192
+Del Norte,PRECINCT 16,Attorney General,,Dem,Xavier Becerra,278
+Del Norte,PRECINCT 17,Attorney General,,Dem,Xavier Becerra,296
+Del Norte,PRECINCT 18,Attorney General,,Dem,Xavier Becerra,188
+Del Norte,DEL NORTE CA,Attorney General,,Dem,Xavier Becerra,"3,523"
+Del Norte,PRECINCT 01 CC,Insurance Commissioner,,Dem,Ricardo Lara,208
+Del Norte,PRECINCT 02,Insurance Commissioner,,Dem,Ricardo Lara,151
+Del Norte,PRECINCT 03,Insurance Commissioner,,Dem,Ricardo Lara,139
+Del Norte,PRECINCT 04 CC,Insurance Commissioner,,Dem,Ricardo Lara,110
+Del Norte,PRECINCT 05 CC,Insurance Commissioner,,Dem,Ricardo Lara,121
+Del Norte,PRECINCT 06,Insurance Commissioner,,Dem,Ricardo Lara,123
+Del Norte,PRECINCT 07,Insurance Commissioner,,Dem,Ricardo Lara,217
+Del Norte,PRECINCT 08,Insurance Commissioner,,Dem,Ricardo Lara,140
+Del Norte,PRECINCT 09,Insurance Commissioner,,Dem,Ricardo Lara,88
+Del Norte,PRECINCT 10,Insurance Commissioner,,Dem,Ricardo Lara,219
+Del Norte,PRECINCT 11,Insurance Commissioner,,Dem,Ricardo Lara,157
+Del Norte,PRECINCT 12,Insurance Commissioner,,Dem,Ricardo Lara,172
+Del Norte,PRECINCT 13,Insurance Commissioner,,Dem,Ricardo Lara,105
+Del Norte,PRECINCT 14,Insurance Commissioner,,Dem,Ricardo Lara,282
+Del Norte,PRECINCT 15,Insurance Commissioner,,Dem,Ricardo Lara,166
+Del Norte,PRECINCT 16,Insurance Commissioner,,Dem,Ricardo Lara,229
+Del Norte,PRECINCT 17,Insurance Commissioner,,Dem,Ricardo Lara,249
+Del Norte,PRECINCT 18,Insurance Commissioner,,Dem,Ricardo Lara,158
+Del Norte,DEL NORTE CA,Insurance Commissioner,,Dem,Ricardo Lara,"3,034"
+Del Norte,PRECINCT 01 CC,Insurance Commissioner,,NPP,Steve Poizner,233
+Del Norte,PRECINCT 02,Insurance Commissioner,,NPP,Steve Poizner,198
+Del Norte,PRECINCT 03,Insurance Commissioner,,NPP,Steve Poizner,190
+Del Norte,PRECINCT 04 CC,Insurance Commissioner,,NPP,Steve Poizner,141
+Del Norte,PRECINCT 05 CC,Insurance Commissioner,,NPP,Steve Poizner,137
+Del Norte,PRECINCT 06,Insurance Commissioner,,NPP,Steve Poizner,183
+Del Norte,PRECINCT 07,Insurance Commissioner,,NPP,Steve Poizner,312
+Del Norte,PRECINCT 08,Insurance Commissioner,,NPP,Steve Poizner,178
+Del Norte,PRECINCT 09,Insurance Commissioner,,NPP,Steve Poizner,185
+Del Norte,PRECINCT 10,Insurance Commissioner,,NPP,Steve Poizner,269
+Del Norte,PRECINCT 11,Insurance Commissioner,,NPP,Steve Poizner,384
+Del Norte,PRECINCT 12,Insurance Commissioner,,NPP,Steve Poizner,205
+Del Norte,PRECINCT 13,Insurance Commissioner,,NPP,Steve Poizner,160
+Del Norte,PRECINCT 14,Insurance Commissioner,,NPP,Steve Poizner,612
+Del Norte,PRECINCT 15,Insurance Commissioner,,NPP,Steve Poizner,465
+Del Norte,PRECINCT 16,Insurance Commissioner,,NPP,Steve Poizner,469
+Del Norte,PRECINCT 17,Insurance Commissioner,,NPP,Steve Poizner,433
+Del Norte,PRECINCT 18,Insurance Commissioner,,NPP,Steve Poizner,179
+Del Norte,DEL NORTE CA,Insurance Commissioner,,NPP,Steve Poizner,"4,933"
+Del Norte,PRECINCT 01 CC,U.S. Senate,,Dem,Dianne Feinstein,157
+Del Norte,PRECINCT 02,U.S. Senate,,Dem,Dianne Feinstein,129
+Del Norte,PRECINCT 03,U.S. Senate,,Dem,Dianne Feinstein,124
+Del Norte,PRECINCT 04 CC,U.S. Senate,,Dem,Dianne Feinstein,99
+Del Norte,PRECINCT 05 CC,U.S. Senate,,Dem,Dianne Feinstein,93
+Del Norte,PRECINCT 06,U.S. Senate,,Dem,Dianne Feinstein,105
+Del Norte,PRECINCT 07,U.S. Senate,,Dem,Dianne Feinstein,159
+Del Norte,PRECINCT 08,U.S. Senate,,Dem,Dianne Feinstein,114
+Del Norte,PRECINCT 09,U.S. Senate,,Dem,Dianne Feinstein,83
+Del Norte,PRECINCT 10,U.S. Senate,,Dem,Dianne Feinstein,158
+Del Norte,PRECINCT 11,U.S. Senate,,Dem,Dianne Feinstein,143
+Del Norte,PRECINCT 12,U.S. Senate,,Dem,Dianne Feinstein,154
+Del Norte,PRECINCT 13,U.S. Senate,,Dem,Dianne Feinstein,73
+Del Norte,PRECINCT 14,U.S. Senate,,Dem,Dianne Feinstein,270
+Del Norte,PRECINCT 15,U.S. Senate,,Dem,Dianne Feinstein,175
+Del Norte,PRECINCT 16,U.S. Senate,,Dem,Dianne Feinstein,217
+Del Norte,PRECINCT 17,U.S. Senate,,Dem,Dianne Feinstein,211
+Del Norte,PRECINCT 18,U.S. Senate,,Dem,Dianne Feinstein,126
+Del Norte,DEL NORTE CA,U.S. Senate,,Dem,Dianne Feinstein,"2,590"
+Del Norte,PRECINCT 01 CC,U.S. Senate,,Dem,Kevin DeLeon,225
+Del Norte,PRECINCT 02,U.S. Senate,,Dem,Kevin DeLeon,191
+Del Norte,PRECINCT 03,U.S. Senate,,Dem,Kevin DeLeon,177
+Del Norte,PRECINCT 04 CC,U.S. Senate,,Dem,Kevin DeLeon,133
+Del Norte,PRECINCT 05 CC,U.S. Senate,,Dem,Kevin DeLeon,126
+Del Norte,PRECINCT 06,U.S. Senate,,Dem,Kevin DeLeon,155
+Del Norte,PRECINCT 07,U.S. Senate,,Dem,Kevin DeLeon,296
+Del Norte,PRECINCT 08,U.S. Senate,,Dem,Kevin DeLeon,171
+Del Norte,PRECINCT 09,U.S. Senate,,Dem,Kevin DeLeon,155
+Del Norte,PRECINCT 10,U.S. Senate,,Dem,Kevin DeLeon,268
+Del Norte,PRECINCT 11,U.S. Senate,,Dem,Kevin DeLeon,287
+Del Norte,PRECINCT 12,U.S. Senate,,Dem,Kevin DeLeon,177
+Del Norte,PRECINCT 13,U.S. Senate,,Dem,Kevin DeLeon,154
+Del Norte,PRECINCT 14,U.S. Senate,,Dem,Kevin DeLeon,478
+Del Norte,PRECINCT 15,U.S. Senate,,Dem,Kevin DeLeon,351
+Del Norte,PRECINCT 16,U.S. Senate,,Dem,Kevin DeLeon,357
+Del Norte,PRECINCT 17,U.S. Senate,,Dem,Kevin DeLeon,371
+Del Norte,PRECINCT 18,U.S. Senate,,Dem,Kevin DeLeon,182
+Del Norte,DEL NORTE CA,U.S. Senate,,Dem,Kevin DeLeon,"4,254"
+Del Norte,PRECINCT 01 CC,Superintendent of Public Instruction,,None,Marshall Tuck,196
+Del Norte,PRECINCT 02,Superintendent of Public Instruction,,None,Marshall Tuck,164
+Del Norte,PRECINCT 03,Superintendent of Public Instruction,,None,Marshall Tuck,162
+Del Norte,PRECINCT 04 CC,Superintendent of Public Instruction,,None,Marshall Tuck,118
+Del Norte,PRECINCT 05 CC,Superintendent of Public Instruction,,None,Marshall Tuck,100
+Del Norte,PRECINCT 06,Superintendent of Public Instruction,,None,Marshall Tuck,137
+Del Norte,PRECINCT 07,Superintendent of Public Instruction,,None,Marshall Tuck,223
+Del Norte,PRECINCT 08,Superintendent of Public Instruction,,None,Marshall Tuck,155
+Del Norte,PRECINCT 09,Superintendent of Public Instruction,,None,Marshall Tuck,157
+Del Norte,PRECINCT 10,Superintendent of Public Instruction,,None,Marshall Tuck,201
+Del Norte,PRECINCT 11,Superintendent of Public Instruction,,None,Marshall Tuck,247
+Del Norte,PRECINCT 12,Superintendent of Public Instruction,,None,Marshall Tuck,164
+Del Norte,PRECINCT 13,Superintendent of Public Instruction,,None,Marshall Tuck,128
+Del Norte,PRECINCT 14,Superintendent of Public Instruction,,None,Marshall Tuck,441
+Del Norte,PRECINCT 15,Superintendent of Public Instruction,,None,Marshall Tuck,327
+Del Norte,PRECINCT 16,Superintendent of Public Instruction,,None,Marshall Tuck,329
+Del Norte,PRECINCT 17,Superintendent of Public Instruction,,None,Marshall Tuck,330
+Del Norte,PRECINCT 18,Superintendent of Public Instruction,,None,Marshall Tuck,154
+Del Norte,DEL NORTE CA,Superintendent of Public Instruction,,None,Marshall Tuck,"3,733"
+Del Norte,PRECINCT 01 CC,Superintendent of Public Instruction,,None,Tony Thurmond,170
+Del Norte,PRECINCT 02,Superintendent of Public Instruction,,None,Tony Thurmond,137
+Del Norte,PRECINCT 03,Superintendent of Public Instruction,,None,Tony Thurmond,118
+Del Norte,PRECINCT 04 CC,Superintendent of Public Instruction,,None,Tony Thurmond,97
+Del Norte,PRECINCT 05 CC,Superintendent of Public Instruction,,None,Tony Thurmond,110
+Del Norte,PRECINCT 06,Superintendent of Public Instruction,,None,Tony Thurmond,127
+Del Norte,PRECINCT 07,Superintendent of Public Instruction,,None,Tony Thurmond,213
+Del Norte,PRECINCT 08,Superintendent of Public Instruction,,None,Tony Thurmond,115
+Del Norte,PRECINCT 09,Superintendent of Public Instruction,,None,Tony Thurmond,85
+Del Norte,PRECINCT 10,Superintendent of Public Instruction,,None,Tony Thurmond,197
+Del Norte,PRECINCT 11,Superintendent of Public Instruction,,None,Tony Thurmond,182
+Del Norte,PRECINCT 12,Superintendent of Public Instruction,,None,Tony Thurmond,143
+Del Norte,PRECINCT 13,Superintendent of Public Instruction,,None,Tony Thurmond,104
+Del Norte,PRECINCT 14,Superintendent of Public Instruction,,None,Tony Thurmond,292
+Del Norte,PRECINCT 15,Superintendent of Public Instruction,,None,Tony Thurmond,189
+Del Norte,PRECINCT 16,Superintendent of Public Instruction,,None,Tony Thurmond,237
+Del Norte,PRECINCT 17,Superintendent of Public Instruction,,None,Tony Thurmond,252
+Del Norte,PRECINCT 18,Superintendent of Public Instruction,,None,Tony Thurmond,130
+Del Norte,DEL NORTE CA,Superintendent of Public Instruction,,None,Tony Thurmond,"2,898"
+Del Norte,PRECINCT 01 CC,U.S. House,2,Dem,Jared Huffman,250
+Del Norte,PRECINCT 02,U.S. House,2,Dem,Jared Huffman,194
+Del Norte,PRECINCT 03,U.S. House,2,Dem,Jared Huffman,172
+Del Norte,PRECINCT 04 CC,U.S. House,2,Dem,Jared Huffman,150
+Del Norte,PRECINCT 05 CC,U.S. House,2,Dem,Jared Huffman,147
+Del Norte,PRECINCT 06,U.S. House,2,Dem,Jared Huffman,151
+Del Norte,PRECINCT 07,U.S. House,2,Dem,Jared Huffman,265
+Del Norte,PRECINCT 08,U.S. House,2,Dem,Jared Huffman,178
+Del Norte,PRECINCT 09,U.S. House,2,Dem,Jared Huffman,116
+Del Norte,PRECINCT 10,U.S. House,2,Dem,Jared Huffman,274
+Del Norte,PRECINCT 11,U.S. House,2,Dem,Jared Huffman,222
+Del Norte,PRECINCT 12,U.S. House,2,Dem,Jared Huffman,221
+Del Norte,PRECINCT 13,U.S. House,2,Dem,Jared Huffman,122
+Del Norte,PRECINCT 14,U.S. House,2,Dem,Jared Huffman,381
+Del Norte,PRECINCT 15,U.S. House,2,Dem,Jared Huffman,234
+Del Norte,PRECINCT 16,U.S. House,2,Dem,Jared Huffman,314
+Del Norte,PRECINCT 17,U.S. House,2,Dem,Jared Huffman,326
+Del Norte,PRECINCT 18,U.S. House,2,Dem,Jared Huffman,203
+Del Norte,DEL NORTE CA,U.S. House,2,Dem,Jared Huffman,"3,920"
+Del Norte,PRECINCT 01 CC,U.S. House,2,Rep,Dale Mensing,196
+Del Norte,PRECINCT 02,U.S. House,2,Rep,Dale Mensing,161
+Del Norte,PRECINCT 03,U.S. House,2,Rep,Dale Mensing,170
+Del Norte,PRECINCT 04 CC,U.S. House,2,Rep,Dale Mensing,103
+Del Norte,PRECINCT 05 CC,U.S. House,2,Rep,Dale Mensing,119
+Del Norte,PRECINCT 06,U.S. House,2,Rep,Dale Mensing,161
+Del Norte,PRECINCT 07,U.S. House,2,Rep,Dale Mensing,290
+Del Norte,PRECINCT 08,U.S. House,2,Rep,Dale Mensing,166
+Del Norte,PRECINCT 09,U.S. House,2,Rep,Dale Mensing,176
+Del Norte,PRECINCT 10,U.S. House,2,Rep,Dale Mensing,234
+Del Norte,PRECINCT 11,U.S. House,2,Rep,Dale Mensing,346
+Del Norte,PRECINCT 12,U.S. House,2,Rep,Dale Mensing,171
+Del Norte,PRECINCT 13,U.S. House,2,Rep,Dale Mensing,152
+Del Norte,PRECINCT 14,U.S. House,2,Rep,Dale Mensing,559
+Del Norte,PRECINCT 15,U.S. House,2,Rep,Dale Mensing,419
+Del Norte,PRECINCT 16,U.S. House,2,Rep,Dale Mensing,410
+Del Norte,PRECINCT 17,U.S. House,2,Rep,Dale Mensing,367
+Del Norte,PRECINCT 18,U.S. House,2,Rep,Dale Mensing,139
+Del Norte,DEL NORTE CA,U.S. House,2,Rep,Dale Mensing,"4,339"
+Del Norte,PRECINCT 01 CC,State Senate,2,Dem,Mike McGuire,223
+Del Norte,PRECINCT 02,State Senate,2,Dem,Mike McGuire,166
+Del Norte,PRECINCT 03,State Senate,2,Dem,Mike McGuire,166
+Del Norte,PRECINCT 04 CC,State Senate,2,Dem,Mike McGuire,119
+Del Norte,PRECINCT 05 CC,State Senate,2,Dem,Mike McGuire,143
+Del Norte,PRECINCT 06,State Senate,2,Dem,Mike McGuire,142
+Del Norte,PRECINCT 07,State Senate,2,Dem,Mike McGuire,272
+Del Norte,PRECINCT 08,State Senate,2,Dem,Mike McGuire,163
+Del Norte,PRECINCT 09,State Senate,2,Dem,Mike McGuire,134
+Del Norte,PRECINCT 10,State Senate,2,Dem,Mike McGuire,258
+Del Norte,PRECINCT 11,State Senate,2,Dem,Mike McGuire,257
+Del Norte,PRECINCT 12,State Senate,2,Dem,Mike McGuire,197
+Del Norte,PRECINCT 13,State Senate,2,Dem,Mike McGuire,140
+Del Norte,PRECINCT 14,State Senate,2,Dem,Mike McGuire,441
+Del Norte,PRECINCT 15,State Senate,2,Dem,Mike McGuire,317
+Del Norte,PRECINCT 16,State Senate,2,Dem,Mike McGuire,343
+Del Norte,PRECINCT 17,State Senate,2,Dem,Mike McGuire,334
+Del Norte,PRECINCT 18,State Senate,2,Dem,Mike McGuire,176
+Del Norte,DEL NORTE CA,State Senate,2,Dem,Mike McGuire,"3,991"
+Del Norte,PRECINCT 01 CC,State Senate,2,Dem,Veronica Jacobi,147
+Del Norte,PRECINCT 02,State Senate,2,Dem,Veronica Jacobi,136
+Del Norte,PRECINCT 03,State Senate,2,Dem,Veronica Jacobi,126
+Del Norte,PRECINCT 04 CC,State Senate,2,Dem,Veronica Jacobi,107
+Del Norte,PRECINCT 05 CC,State Senate,2,Dem,Veronica Jacobi,69
+Del Norte,PRECINCT 06,State Senate,2,Dem,Veronica Jacobi,107
+Del Norte,PRECINCT 07,State Senate,2,Dem,Veronica Jacobi,156
+Del Norte,PRECINCT 08,State Senate,2,Dem,Veronica Jacobi,106
+Del Norte,PRECINCT 09,State Senate,2,Dem,Veronica Jacobi,96
+Del Norte,PRECINCT 10,State Senate,2,Dem,Veronica Jacobi,145
+Del Norte,PRECINCT 11,State Senate,2,Dem,Veronica Jacobi,154
+Del Norte,PRECINCT 12,State Senate,2,Dem,Veronica Jacobi,122
+Del Norte,PRECINCT 13,State Senate,2,Dem,Veronica Jacobi,78
+Del Norte,PRECINCT 14,State Senate,2,Dem,Veronica Jacobi,271
+Del Norte,PRECINCT 15,State Senate,2,Dem,Veronica Jacobi,184
+Del Norte,PRECINCT 16,State Senate,2,Dem,Veronica Jacobi,215
+Del Norte,PRECINCT 17,State Senate,2,Dem,Veronica Jacobi,215
+Del Norte,PRECINCT 18,State Senate,2,Dem,Veronica Jacobi,117
+Del Norte,DEL NORTE CA,State Senate,2,Dem,Veronica Jacobi,"2,551"
+Del Norte,PRECINCT 01 CC,State Assembly,2,Dem,Jim Wood,239
+Del Norte,PRECINCT 02,State Assembly,2,Dem,Jim Wood,178
+Del Norte,PRECINCT 03,State Assembly,2,Dem,Jim Wood,168
+Del Norte,PRECINCT 04 CC,State Assembly,2,Dem,Jim Wood,147
+Del Norte,PRECINCT 05 CC,State Assembly,2,Dem,Jim Wood,149
+Del Norte,PRECINCT 06,State Assembly,2,Dem,Jim Wood,143
+Del Norte,PRECINCT 07,State Assembly,2,Dem,Jim Wood,260
+Del Norte,PRECINCT 08,State Assembly,2,Dem,Jim Wood,166
+Del Norte,PRECINCT 09,State Assembly,2,Dem,Jim Wood,106
+Del Norte,PRECINCT 10,State Assembly,2,Dem,Jim Wood,252
+Del Norte,PRECINCT 11,State Assembly,2,Dem,Jim Wood,189
+Del Norte,PRECINCT 12,State Assembly,2,Dem,Jim Wood,209
+Del Norte,PRECINCT 13,State Assembly,2,Dem,Jim Wood,114
+Del Norte,PRECINCT 14,State Assembly,2,Dem,Jim Wood,350
+Del Norte,PRECINCT 15,State Assembly,2,Dem,Jim Wood,215
+Del Norte,PRECINCT 16,State Assembly,2,Dem,Jim Wood,285
+Del Norte,PRECINCT 17,State Assembly,2,Dem,Jim Wood,312
+Del Norte,PRECINCT 18,State Assembly,2,Dem,Jim Wood,200
+Del Norte,DEL NORTE CA,State Assembly,2,Dem,Jim Wood,"3,682"
+Del Norte,PRECINCT 01 CC,State Assembly,2,Rep,Matthew Heath,209
+Del Norte,PRECINCT 02,State Assembly,2,Rep,Matthew Heath,179
+Del Norte,PRECINCT 03,State Assembly,2,Rep,Matthew Heath,173
+Del Norte,PRECINCT 04 CC,State Assembly,2,Rep,Matthew Heath,107
+Del Norte,PRECINCT 05 CC,State Assembly,2,Rep,Matthew Heath,118
+Del Norte,PRECINCT 06,State Assembly,2,Rep,Matthew Heath,171
+Del Norte,PRECINCT 07,State Assembly,2,Rep,Matthew Heath,292
+Del Norte,PRECINCT 08,State Assembly,2,Rep,Matthew Heath,177
+Del Norte,PRECINCT 09,State Assembly,2,Rep,Matthew Heath,184
+Del Norte,PRECINCT 10,State Assembly,2,Rep,Matthew Heath,251
+Del Norte,PRECINCT 11,State Assembly,2,Rep,Matthew Heath,375
+Del Norte,PRECINCT 12,State Assembly,2,Rep,Matthew Heath,187
+Del Norte,PRECINCT 13,State Assembly,2,Rep,Matthew Heath,160
+Del Norte,PRECINCT 14,State Assembly,2,Rep,Matthew Heath,588
+Del Norte,PRECINCT 15,State Assembly,2,Rep,Matthew Heath,435
+Del Norte,PRECINCT 16,State Assembly,2,Rep,Matthew Heath,440
+Del Norte,PRECINCT 17,State Assembly,2,Rep,Matthew Heath,378
+Del Norte,PRECINCT 18,State Assembly,2,Rep,Matthew Heath,145
+Del Norte,DEL NORTE CA,State Assembly,2,Rep,Matthew Heath,4569

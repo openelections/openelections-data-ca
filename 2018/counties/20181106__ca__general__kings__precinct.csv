@@ -1,0 +1,2329 @@
+county,precinct,office,district,party,candidate,votes
+Kings,101,Governor,,Rep,John Cox,776
+Kings,102,Governor,,Rep,John Cox,465
+Kings,103,Governor,,Rep,John Cox,818
+Kings,104,Governor,,Rep,John Cox,97
+Kings,105,Governor,,Rep,John Cox,59
+Kings,106,Governor,,Rep,John Cox,461
+Kings,201,Governor,,Rep,John Cox,305
+Kings,202,Governor,,Rep,John Cox,318
+Kings,203,Governor,,Rep,John Cox,291
+Kings,301,Governor,,Rep,John Cox,1132
+Kings,302,Governor,,Rep,John Cox,430
+Kings,303,Governor,,Rep,John Cox,428
+Kings,304,Governor,,Rep,John Cox,310
+Kings,305,Governor,,Rep,John Cox,431
+Kings,306,Governor,,Rep,John Cox,501
+Kings,401,Governor,,Rep,John Cox,595
+Kings,402,Governor,,Rep,John Cox,89
+Kings,403,Governor,,Rep,John Cox,568
+Kings,404,Governor,,Rep,John Cox,324
+Kings,405,Governor,,Rep,John Cox,369
+Kings,501,Governor,,Rep,John Cox,1477
+Kings,502,Governor,,Rep,John Cox,317
+Kings,503,Governor,,Rep,John Cox,1169
+Kings,1101,Governor,,Rep,John Cox,103
+Kings,1102,Governor,,Rep,John Cox,141
+Kings,1103,Governor,,Rep,John Cox,0
+Kings,1105,Governor,,Rep,John Cox,108
+Kings,1106,Governor,,Rep,John Cox,1
+Kings,1201,Governor,,Rep,John Cox,1
+Kings,1202,Governor,,Rep,John Cox,101
+Kings,1203,Governor,,Rep,John Cox,81
+Kings,1204,Governor,,Rep,John Cox,121
+Kings,1205,Governor,,Rep,John Cox,30
+Kings,1206,Governor,,Rep,John Cox,205
+Kings,1208,Governor,,Rep,John Cox,11
+Kings,1212,Governor,,Rep,John Cox,18
+Kings,1213,Governor,,Rep,John Cox,0
+Kings,1214,Governor,,Rep,John Cox,32
+Kings,1217,Governor,,Rep,John Cox,0
+Kings,1301,Governor,,Rep,John Cox,483
+Kings,1302,Governor,,Rep,John Cox,50
+Kings,1303,Governor,,Rep,John Cox,180
+Kings,1304,Governor,,Rep,John Cox,291
+Kings,1305,Governor,,Rep,John Cox,185
+Kings,1306,Governor,,Rep,John Cox,1
+Kings,1307,Governor,,Rep,John Cox,56
+Kings,1308,Governor,,Rep,John Cox,8
+Kings,1309,Governor,,Rep,John Cox,139
+Kings,1310,Governor,,Rep,John Cox,91
+Kings,1311,Governor,,Rep,John Cox,38
+Kings,1312,Governor,,Rep,John Cox,260
+Kings,1313,Governor,,Rep,John Cox,18
+Kings,1315,Governor,,Rep,John Cox,23
+Kings,1316,Governor,,Rep,John Cox,44
+Kings,1318,Governor,,Rep,John Cox,5
+Kings,1319,Governor,,Rep,John Cox,32
+Kings,1320,Governor,,Rep,John Cox,82
+Kings,1401,Governor,,Rep,John Cox,128
+Kings,1402,Governor,,Rep,John Cox,72
+Kings,1403,Governor,,Rep,John Cox,102
+Kings,1404,Governor,,Rep,John Cox,97
+Kings,1405,Governor,,Rep,John Cox,50
+Kings,1406,Governor,,Rep,John Cox,33
+Kings,1407,Governor,,Rep,John Cox,14
+Kings,1408,Governor,,Rep,John Cox,78
+Kings,1409,Governor,,Rep,John Cox,29
+Kings,1410,Governor,,Rep,John Cox,394
+Kings,1411,Governor,,Rep,John Cox,8
+Kings,1412,Governor,,Rep,John Cox,169
+Kings,1413,Governor,,Rep,John Cox,56
+Kings,1501,Governor,,Rep,John Cox,14
+Kings,1502,Governor,,Rep,John Cox,155
+Kings,1503,Governor,,Rep,John Cox,144
+Kings,1504,Governor,,Rep,John Cox,16
+Kings,1505,Governor,,Rep,John Cox,307
+Kings,1506,Governor,,Rep,John Cox,36
+Kings,1507,Governor,,Rep,John Cox,630
+Kings,1508,Governor,,Rep,John Cox,6
+Kings,1509,Governor,,Rep,John Cox,36
+Kings,1510,Governor,,Rep,John Cox,95
+Kings,1511,Governor,,Rep,John Cox,88
+Kings,1512,Governor,,Rep,John Cox,64
+Kings,1513,Governor,,Rep,John Cox,4
+Kings,1514,Governor,,Rep,John Cox,1
+Kings,1515,Governor,,Rep,John Cox,93
+Kings,1518,Governor,,Rep,John Cox,36
+Kings,1519,Governor,,Rep,John Cox,10
+Kings,1520,Governor,,Rep,John Cox,9
+Kings,1523,Governor,,Rep,John Cox,0
+Kings,1525,Governor,,Rep,John Cox,13
+Kings,1526,Governor,,Rep,John Cox,70
+Kings,1527,Governor,,Rep,John Cox,10
+Kings,1528,Governor,,Rep,John Cox,66
+Kings,1531,Governor,,Rep,John Cox,14
+Kings,1532,Governor,,Rep,John Cox,55
+Kings,1533,Governor,,Rep,John Cox,105
+Kings,KINGS COUNTY,Governor,,Rep,John Cox,17976
+Kings,101,Governor,,Dem,Gavin Newsom,399
+Kings,102,Governor,,Dem,Gavin Newsom,467
+Kings,103,Governor,,Dem,Gavin Newsom,494
+Kings,104,Governor,,Dem,Gavin Newsom,116
+Kings,105,Governor,,Dem,Gavin Newsom,101
+Kings,106,Governor,,Dem,Gavin Newsom,279
+Kings,201,Governor,,Dem,Gavin Newsom,531
+Kings,202,Governor,,Dem,Gavin Newsom,552
+Kings,203,Governor,,Dem,Gavin Newsom,603
+Kings,301,Governor,,Dem,Gavin Newsom,589
+Kings,302,Governor,,Dem,Gavin Newsom,224
+Kings,303,Governor,,Dem,Gavin Newsom,281
+Kings,304,Governor,,Dem,Gavin Newsom,220
+Kings,305,Governor,,Dem,Gavin Newsom,93
+Kings,306,Governor,,Dem,Gavin Newsom,298
+Kings,401,Governor,,Dem,Gavin Newsom,338
+Kings,402,Governor,,Dem,Gavin Newsom,93
+Kings,403,Governor,,Dem,Gavin Newsom,696
+Kings,404,Governor,,Dem,Gavin Newsom,402
+Kings,405,Governor,,Dem,Gavin Newsom,197
+Kings,501,Governor,,Dem,Gavin Newsom,621
+Kings,502,Governor,,Dem,Gavin Newsom,117
+Kings,503,Governor,,Dem,Gavin Newsom,710
+Kings,1101,Governor,,Dem,Gavin Newsom,86
+Kings,1102,Governor,,Dem,Gavin Newsom,54
+Kings,1103,Governor,,Dem,Gavin Newsom,2
+Kings,1105,Governor,,Dem,Gavin Newsom,55
+Kings,1106,Governor,,Dem,Gavin Newsom,0
+Kings,1201,Governor,,Dem,Gavin Newsom,0
+Kings,1202,Governor,,Dem,Gavin Newsom,126
+Kings,1203,Governor,,Dem,Gavin Newsom,13
+Kings,1204,Governor,,Dem,Gavin Newsom,73
+Kings,1205,Governor,,Dem,Gavin Newsom,78
+Kings,1206,Governor,,Dem,Gavin Newsom,157
+Kings,1208,Governor,,Dem,Gavin Newsom,2
+Kings,1212,Governor,,Dem,Gavin Newsom,27
+Kings,1213,Governor,,Dem,Gavin Newsom,1
+Kings,1214,Governor,,Dem,Gavin Newsom,45
+Kings,1217,Governor,,Dem,Gavin Newsom,1
+Kings,1301,Governor,,Dem,Gavin Newsom,326
+Kings,1302,Governor,,Dem,Gavin Newsom,12
+Kings,1303,Governor,,Dem,Gavin Newsom,32
+Kings,1304,Governor,,Dem,Gavin Newsom,51
+Kings,1305,Governor,,Dem,Gavin Newsom,44
+Kings,1306,Governor,,Dem,Gavin Newsom,1
+Kings,1307,Governor,,Dem,Gavin Newsom,23
+Kings,1308,Governor,,Dem,Gavin Newsom,3
+Kings,1309,Governor,,Dem,Gavin Newsom,35
+Kings,1310,Governor,,Dem,Gavin Newsom,32
+Kings,1311,Governor,,Dem,Gavin Newsom,39
+Kings,1312,Governor,,Dem,Gavin Newsom,150
+Kings,1313,Governor,,Dem,Gavin Newsom,10
+Kings,1315,Governor,,Dem,Gavin Newsom,2
+Kings,1316,Governor,,Dem,Gavin Newsom,13
+Kings,1318,Governor,,Dem,Gavin Newsom,0
+Kings,1319,Governor,,Dem,Gavin Newsom,21
+Kings,1320,Governor,,Dem,Gavin Newsom,55
+Kings,1401,Governor,,Dem,Gavin Newsom,84
+Kings,1402,Governor,,Dem,Gavin Newsom,123
+Kings,1403,Governor,,Dem,Gavin Newsom,206
+Kings,1404,Governor,,Dem,Gavin Newsom,144
+Kings,1405,Governor,,Dem,Gavin Newsom,116
+Kings,1406,Governor,,Dem,Gavin Newsom,8
+Kings,1407,Governor,,Dem,Gavin Newsom,21
+Kings,1408,Governor,,Dem,Gavin Newsom,25
+Kings,1409,Governor,,Dem,Gavin Newsom,20
+Kings,1410,Governor,,Dem,Gavin Newsom,103
+Kings,1411,Governor,,Dem,Gavin Newsom,4
+Kings,1412,Governor,,Dem,Gavin Newsom,129
+Kings,1413,Governor,,Dem,Gavin Newsom,36
+Kings,1501,Governor,,Dem,Gavin Newsom,5
+Kings,1502,Governor,,Dem,Gavin Newsom,237
+Kings,1503,Governor,,Dem,Gavin Newsom,159
+Kings,1504,Governor,,Dem,Gavin Newsom,47
+Kings,1505,Governor,,Dem,Gavin Newsom,135
+Kings,1506,Governor,,Dem,Gavin Newsom,22
+Kings,1507,Governor,,Dem,Gavin Newsom,141
+Kings,1508,Governor,,Dem,Gavin Newsom,2
+Kings,1509,Governor,,Dem,Gavin Newsom,13
+Kings,1510,Governor,,Dem,Gavin Newsom,25
+Kings,1511,Governor,,Dem,Gavin Newsom,15
+Kings,1512,Governor,,Dem,Gavin Newsom,9
+Kings,1513,Governor,,Dem,Gavin Newsom,1
+Kings,1514,Governor,,Dem,Gavin Newsom,6
+Kings,1515,Governor,,Dem,Gavin Newsom,98
+Kings,1518,Governor,,Dem,Gavin Newsom,28
+Kings,1519,Governor,,Dem,Gavin Newsom,11
+Kings,1520,Governor,,Dem,Gavin Newsom,0
+Kings,1523,Governor,,Dem,Gavin Newsom,2
+Kings,1525,Governor,,Dem,Gavin Newsom,4
+Kings,1526,Governor,,Dem,Gavin Newsom,32
+Kings,1527,Governor,,Dem,Gavin Newsom,8
+Kings,1528,Governor,,Dem,Gavin Newsom,33
+Kings,1531,Governor,,Dem,Gavin Newsom,2
+Kings,1532,Governor,,Dem,Gavin Newsom,81
+Kings,1533,Governor,,Dem,Gavin Newsom,150
+Kings,KINGS COUNTY,Governor,,Dem,Gavin Newsom,12275
+Kings,101,Lieutenant Governor,,Dem,Ed Hernandez,412
+Kings,102,Lieutenant Governor,,Dem,Ed Hernandez,395
+Kings,103,Lieutenant Governor,,Dem,Ed Hernandez,503
+Kings,104,Lieutenant Governor,,Dem,Ed Hernandez,78
+Kings,105,Lieutenant Governor,,Dem,Ed Hernandez,96
+Kings,106,Lieutenant Governor,,Dem,Ed Hernandez,302
+Kings,201,Lieutenant Governor,,Dem,Ed Hernandez,466
+Kings,202,Lieutenant Governor,,Dem,Ed Hernandez,523
+Kings,203,Lieutenant Governor,,Dem,Ed Hernandez,465
+Kings,301,Lieutenant Governor,,Dem,Ed Hernandez,602
+Kings,302,Lieutenant Governor,,Dem,Ed Hernandez,261
+Kings,303,Lieutenant Governor,,Dem,Ed Hernandez,245
+Kings,304,Lieutenant Governor,,Dem,Ed Hernandez,238
+Kings,305,Lieutenant Governor,,Dem,Ed Hernandez,187
+Kings,306,Lieutenant Governor,,Dem,Ed Hernandez,315
+Kings,401,Lieutenant Governor,,Dem,Ed Hernandez,340
+Kings,402,Lieutenant Governor,,Dem,Ed Hernandez,84
+Kings,403,Lieutenant Governor,,Dem,Ed Hernandez,592
+Kings,404,Lieutenant Governor,,Dem,Ed Hernandez,341
+Kings,405,Lieutenant Governor,,Dem,Ed Hernandez,196
+Kings,501,Lieutenant Governor,,Dem,Ed Hernandez,727
+Kings,502,Lieutenant Governor,,Dem,Ed Hernandez,127
+Kings,503,Lieutenant Governor,,Dem,Ed Hernandez,762
+Kings,1101,Lieutenant Governor,,Dem,Ed Hernandez,64
+Kings,1102,Lieutenant Governor,,Dem,Ed Hernandez,66
+Kings,1103,Lieutenant Governor,,Dem,Ed Hernandez,1
+Kings,1105,Lieutenant Governor,,Dem,Ed Hernandez,58
+Kings,1106,Lieutenant Governor,,Dem,Ed Hernandez,1
+Kings,1201,Lieutenant Governor,,Dem,Ed Hernandez,1
+Kings,1202,Lieutenant Governor,,Dem,Ed Hernandez,104
+Kings,1203,Lieutenant Governor,,Dem,Ed Hernandez,37
+Kings,1204,Lieutenant Governor,,Dem,Ed Hernandez,83
+Kings,1205,Lieutenant Governor,,Dem,Ed Hernandez,69
+Kings,1206,Lieutenant Governor,,Dem,Ed Hernandez,164
+Kings,1208,Lieutenant Governor,,Dem,Ed Hernandez,5
+Kings,1212,Lieutenant Governor,,Dem,Ed Hernandez,27
+Kings,1213,Lieutenant Governor,,Dem,Ed Hernandez,1
+Kings,1214,Lieutenant Governor,,Dem,Ed Hernandez,42
+Kings,1217,Lieutenant Governor,,Dem,Ed Hernandez,1
+Kings,1301,Lieutenant Governor,,Dem,Ed Hernandez,316
+Kings,1302,Lieutenant Governor,,Dem,Ed Hernandez,11
+Kings,1303,Lieutenant Governor,,Dem,Ed Hernandez,68
+Kings,1304,Lieutenant Governor,,Dem,Ed Hernandez,100
+Kings,1305,Lieutenant Governor,,Dem,Ed Hernandez,78
+Kings,1306,Lieutenant Governor,,Dem,Ed Hernandez,0
+Kings,1307,Lieutenant Governor,,Dem,Ed Hernandez,29
+Kings,1308,Lieutenant Governor,,Dem,Ed Hernandez,2
+Kings,1309,Lieutenant Governor,,Dem,Ed Hernandez,59
+Kings,1310,Lieutenant Governor,,Dem,Ed Hernandez,45
+Kings,1311,Lieutenant Governor,,Dem,Ed Hernandez,37
+Kings,1312,Lieutenant Governor,,Dem,Ed Hernandez,176
+Kings,1313,Lieutenant Governor,,Dem,Ed Hernandez,15
+Kings,1315,Lieutenant Governor,,Dem,Ed Hernandez,7
+Kings,1316,Lieutenant Governor,,Dem,Ed Hernandez,12
+Kings,1318,Lieutenant Governor,,Dem,Ed Hernandez,1
+Kings,1319,Lieutenant Governor,,Dem,Ed Hernandez,16
+Kings,1320,Lieutenant Governor,,Dem,Ed Hernandez,59
+Kings,1401,Lieutenant Governor,,Dem,Ed Hernandez,69
+Kings,1402,Lieutenant Governor,,Dem,Ed Hernandez,116
+Kings,1403,Lieutenant Governor,,Dem,Ed Hernandez,151
+Kings,1404,Lieutenant Governor,,Dem,Ed Hernandez,136
+Kings,1405,Lieutenant Governor,,Dem,Ed Hernandez,77
+Kings,1406,Lieutenant Governor,,Dem,Ed Hernandez,10
+Kings,1407,Lieutenant Governor,,Dem,Ed Hernandez,15
+Kings,1408,Lieutenant Governor,,Dem,Ed Hernandez,25
+Kings,1409,Lieutenant Governor,,Dem,Ed Hernandez,19
+Kings,1410,Lieutenant Governor,,Dem,Ed Hernandez,153
+Kings,1411,Lieutenant Governor,,Dem,Ed Hernandez,4
+Kings,1412,Lieutenant Governor,,Dem,Ed Hernandez,110
+Kings,1413,Lieutenant Governor,,Dem,Ed Hernandez,33
+Kings,1501,Lieutenant Governor,,Dem,Ed Hernandez,4
+Kings,1502,Lieutenant Governor,,Dem,Ed Hernandez,188
+Kings,1503,Lieutenant Governor,,Dem,Ed Hernandez,134
+Kings,1504,Lieutenant Governor,,Dem,Ed Hernandez,35
+Kings,1505,Lieutenant Governor,,Dem,Ed Hernandez,151
+Kings,1506,Lieutenant Governor,,Dem,Ed Hernandez,28
+Kings,1507,Lieutenant Governor,,Dem,Ed Hernandez,231
+Kings,1508,Lieutenant Governor,,Dem,Ed Hernandez,2
+Kings,1509,Lieutenant Governor,,Dem,Ed Hernandez,20
+Kings,1510,Lieutenant Governor,,Dem,Ed Hernandez,42
+Kings,1511,Lieutenant Governor,,Dem,Ed Hernandez,31
+Kings,1512,Lieutenant Governor,,Dem,Ed Hernandez,24
+Kings,1513,Lieutenant Governor,,Dem,Ed Hernandez,4
+Kings,1514,Lieutenant Governor,,Dem,Ed Hernandez,2
+Kings,1515,Lieutenant Governor,,Dem,Ed Hernandez,72
+Kings,1518,Lieutenant Governor,,Dem,Ed Hernandez,24
+Kings,1519,Lieutenant Governor,,Dem,Ed Hernandez,7
+Kings,1520,Lieutenant Governor,,Dem,Ed Hernandez,2
+Kings,1523,Lieutenant Governor,,Dem,Ed Hernandez,0
+Kings,1525,Lieutenant Governor,,Dem,Ed Hernandez,7
+Kings,1526,Lieutenant Governor,,Dem,Ed Hernandez,50
+Kings,1527,Lieutenant Governor,,Dem,Ed Hernandez,11
+Kings,1528,Lieutenant Governor,,Dem,Ed Hernandez,40
+Kings,1531,Lieutenant Governor,,Dem,Ed Hernandez,5
+Kings,1532,Lieutenant Governor,,Dem,Ed Hernandez,63
+Kings,1533,Lieutenant Governor,,Dem,Ed Hernandez,103
+Kings,KINGS COUNTY,Lieutenant Governor,,Dem,Ed Hernandez,12210
+Kings,101,Lieutenant Governor,,Dem,Eleni Kounalakis,446
+Kings,102,Lieutenant Governor,,Dem,Eleni Kounalakis,382
+Kings,103,Lieutenant Governor,,Dem,Eleni Kounalakis,510
+Kings,104,Lieutenant Governor,,Dem,Eleni Kounalakis,88
+Kings,105,Lieutenant Governor,,Dem,Eleni Kounalakis,56
+Kings,106,Lieutenant Governor,,Dem,Eleni Kounalakis,275
+Kings,201,Lieutenant Governor,,Dem,Eleni Kounalakis,250
+Kings,202,Lieutenant Governor,,Dem,Eleni Kounalakis,261
+Kings,203,Lieutenant Governor,,Dem,Eleni Kounalakis,362
+Kings,301,Lieutenant Governor,,Dem,Eleni Kounalakis,682
+Kings,302,Lieutenant Governor,,Dem,Eleni Kounalakis,236
+Kings,303,Lieutenant Governor,,Dem,Eleni Kounalakis,273
+Kings,304,Lieutenant Governor,,Dem,Eleni Kounalakis,183
+Kings,305,Lieutenant Governor,,Dem,Eleni Kounalakis,148
+Kings,306,Lieutenant Governor,,Dem,Eleni Kounalakis,309
+Kings,401,Lieutenant Governor,,Dem,Eleni Kounalakis,383
+Kings,402,Lieutenant Governor,,Dem,Eleni Kounalakis,71
+Kings,403,Lieutenant Governor,,Dem,Eleni Kounalakis,477
+Kings,404,Lieutenant Governor,,Dem,Eleni Kounalakis,261
+Kings,405,Lieutenant Governor,,Dem,Eleni Kounalakis,206
+Kings,501,Lieutenant Governor,,Dem,Eleni Kounalakis,750
+Kings,502,Lieutenant Governor,,Dem,Eleni Kounalakis,167
+Kings,503,Lieutenant Governor,,Dem,Eleni Kounalakis,717
+Kings,1101,Lieutenant Governor,,Dem,Eleni Kounalakis,89
+Kings,1102,Lieutenant Governor,,Dem,Eleni Kounalakis,56
+Kings,1103,Lieutenant Governor,,Dem,Eleni Kounalakis,1
+Kings,1105,Lieutenant Governor,,Dem,Eleni Kounalakis,61
+Kings,1106,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Kings,1201,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Kings,1202,Lieutenant Governor,,Dem,Eleni Kounalakis,79
+Kings,1203,Lieutenant Governor,,Dem,Eleni Kounalakis,27
+Kings,1204,Lieutenant Governor,,Dem,Eleni Kounalakis,64
+Kings,1205,Lieutenant Governor,,Dem,Eleni Kounalakis,32
+Kings,1206,Lieutenant Governor,,Dem,Eleni Kounalakis,120
+Kings,1208,Lieutenant Governor,,Dem,Eleni Kounalakis,4
+Kings,1212,Lieutenant Governor,,Dem,Eleni Kounalakis,16
+Kings,1213,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Kings,1214,Lieutenant Governor,,Dem,Eleni Kounalakis,22
+Kings,1217,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Kings,1301,Lieutenant Governor,,Dem,Eleni Kounalakis,327
+Kings,1302,Lieutenant Governor,,Dem,Eleni Kounalakis,28
+Kings,1303,Lieutenant Governor,,Dem,Eleni Kounalakis,74
+Kings,1304,Lieutenant Governor,,Dem,Eleni Kounalakis,97
+Kings,1305,Lieutenant Governor,,Dem,Eleni Kounalakis,61
+Kings,1306,Lieutenant Governor,,Dem,Eleni Kounalakis,1
+Kings,1307,Lieutenant Governor,,Dem,Eleni Kounalakis,35
+Kings,1308,Lieutenant Governor,,Dem,Eleni Kounalakis,3
+Kings,1309,Lieutenant Governor,,Dem,Eleni Kounalakis,55
+Kings,1310,Lieutenant Governor,,Dem,Eleni Kounalakis,47
+Kings,1311,Lieutenant Governor,,Dem,Eleni Kounalakis,29
+Kings,1312,Lieutenant Governor,,Dem,Eleni Kounalakis,137
+Kings,1313,Lieutenant Governor,,Dem,Eleni Kounalakis,9
+Kings,1315,Lieutenant Governor,,Dem,Eleni Kounalakis,9
+Kings,1316,Lieutenant Governor,,Dem,Eleni Kounalakis,24
+Kings,1318,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Kings,1319,Lieutenant Governor,,Dem,Eleni Kounalakis,16
+Kings,1320,Lieutenant Governor,,Dem,Eleni Kounalakis,41
+Kings,1401,Lieutenant Governor,,Dem,Eleni Kounalakis,93
+Kings,1402,Lieutenant Governor,,Dem,Eleni Kounalakis,64
+Kings,1403,Lieutenant Governor,,Dem,Eleni Kounalakis,119
+Kings,1404,Lieutenant Governor,,Dem,Eleni Kounalakis,85
+Kings,1405,Lieutenant Governor,,Dem,Eleni Kounalakis,70
+Kings,1406,Lieutenant Governor,,Dem,Eleni Kounalakis,14
+Kings,1407,Lieutenant Governor,,Dem,Eleni Kounalakis,14
+Kings,1408,Lieutenant Governor,,Dem,Eleni Kounalakis,38
+Kings,1409,Lieutenant Governor,,Dem,Eleni Kounalakis,15
+Kings,1410,Lieutenant Governor,,Dem,Eleni Kounalakis,170
+Kings,1411,Lieutenant Governor,,Dem,Eleni Kounalakis,3
+Kings,1412,Lieutenant Governor,,Dem,Eleni Kounalakis,117
+Kings,1413,Lieutenant Governor,,Dem,Eleni Kounalakis,41
+Kings,1501,Lieutenant Governor,,Dem,Eleni Kounalakis,6
+Kings,1502,Lieutenant Governor,,Dem,Eleni Kounalakis,168
+Kings,1503,Lieutenant Governor,,Dem,Eleni Kounalakis,126
+Kings,1504,Lieutenant Governor,,Dem,Eleni Kounalakis,27
+Kings,1505,Lieutenant Governor,,Dem,Eleni Kounalakis,150
+Kings,1506,Lieutenant Governor,,Dem,Eleni Kounalakis,12
+Kings,1507,Lieutenant Governor,,Dem,Eleni Kounalakis,250
+Kings,1508,Lieutenant Governor,,Dem,Eleni Kounalakis,4
+Kings,1509,Lieutenant Governor,,Dem,Eleni Kounalakis,16
+Kings,1510,Lieutenant Governor,,Dem,Eleni Kounalakis,29
+Kings,1511,Lieutenant Governor,,Dem,Eleni Kounalakis,38
+Kings,1512,Lieutenant Governor,,Dem,Eleni Kounalakis,18
+Kings,1513,Lieutenant Governor,,Dem,Eleni Kounalakis,1
+Kings,1514,Lieutenant Governor,,Dem,Eleni Kounalakis,3
+Kings,1515,Lieutenant Governor,,Dem,Eleni Kounalakis,89
+Kings,1518,Lieutenant Governor,,Dem,Eleni Kounalakis,29
+Kings,1519,Lieutenant Governor,,Dem,Eleni Kounalakis,8
+Kings,1520,Lieutenant Governor,,Dem,Eleni Kounalakis,6
+Kings,1523,Lieutenant Governor,,Dem,Eleni Kounalakis,2
+Kings,1525,Lieutenant Governor,,Dem,Eleni Kounalakis,7
+Kings,1526,Lieutenant Governor,,Dem,Eleni Kounalakis,34
+Kings,1527,Lieutenant Governor,,Dem,Eleni Kounalakis,5
+Kings,1528,Lieutenant Governor,,Dem,Eleni Kounalakis,37
+Kings,1531,Lieutenant Governor,,Dem,Eleni Kounalakis,6
+Kings,1532,Lieutenant Governor,,Dem,Eleni Kounalakis,59
+Kings,1533,Lieutenant Governor,,Dem,Eleni Kounalakis,98
+Kings,KINGS COUNTY,Lieutenant Governor,,Dem,Eleni Kounalakis,11128
+Kings,101,Secretary of State,,Dem,Alex Padilla,433
+Kings,102,Secretary of State,,Dem,Alex Padilla,490
+Kings,103,Secretary of State,,Dem,Alex Padilla,509
+Kings,104,Secretary of State,,Dem,Alex Padilla,117
+Kings,105,Secretary of State,,Dem,Alex Padilla,108
+Kings,106,Secretary of State,,Dem,Alex Padilla,288
+Kings,201,Secretary of State,,Dem,Alex Padilla,563
+Kings,202,Secretary of State,,Dem,Alex Padilla,594
+Kings,203,Secretary of State,,Dem,Alex Padilla,670
+Kings,301,Secretary of State,,Dem,Alex Padilla,598
+Kings,302,Secretary of State,,Dem,Alex Padilla,251
+Kings,303,Secretary of State,,Dem,Alex Padilla,281
+Kings,304,Secretary of State,,Dem,Alex Padilla,232
+Kings,305,Secretary of State,,Dem,Alex Padilla,84
+Kings,306,Secretary of State,,Dem,Alex Padilla,301
+Kings,401,Secretary of State,,Dem,Alex Padilla,387
+Kings,402,Secretary of State,,Dem,Alex Padilla,87
+Kings,403,Secretary of State,,Dem,Alex Padilla,729
+Kings,404,Secretary of State,,Dem,Alex Padilla,410
+Kings,405,Secretary of State,,Dem,Alex Padilla,182
+Kings,501,Secretary of State,,Dem,Alex Padilla,658
+Kings,502,Secretary of State,,Dem,Alex Padilla,118
+Kings,503,Secretary of State,,Dem,Alex Padilla,752
+Kings,1101,Secretary of State,,Dem,Alex Padilla,94
+Kings,1102,Secretary of State,,Dem,Alex Padilla,60
+Kings,1103,Secretary of State,,Dem,Alex Padilla,2
+Kings,1105,Secretary of State,,Dem,Alex Padilla,56
+Kings,1106,Secretary of State,,Dem,Alex Padilla,0
+Kings,1201,Secretary of State,,Dem,Alex Padilla,0
+Kings,1202,Secretary of State,,Dem,Alex Padilla,129
+Kings,1203,Secretary of State,,Dem,Alex Padilla,15
+Kings,1204,Secretary of State,,Dem,Alex Padilla,72
+Kings,1205,Secretary of State,,Dem,Alex Padilla,83
+Kings,1206,Secretary of State,,Dem,Alex Padilla,168
+Kings,1208,Secretary of State,,Dem,Alex Padilla,3
+Kings,1212,Secretary of State,,Dem,Alex Padilla,31
+Kings,1213,Secretary of State,,Dem,Alex Padilla,1
+Kings,1214,Secretary of State,,Dem,Alex Padilla,45
+Kings,1217,Secretary of State,,Dem,Alex Padilla,1
+Kings,1301,Secretary of State,,Dem,Alex Padilla,337
+Kings,1302,Secretary of State,,Dem,Alex Padilla,8
+Kings,1303,Secretary of State,,Dem,Alex Padilla,34
+Kings,1304,Secretary of State,,Dem,Alex Padilla,50
+Kings,1305,Secretary of State,,Dem,Alex Padilla,54
+Kings,1306,Secretary of State,,Dem,Alex Padilla,1
+Kings,1307,Secretary of State,,Dem,Alex Padilla,20
+Kings,1308,Secretary of State,,Dem,Alex Padilla,3
+Kings,1309,Secretary of State,,Dem,Alex Padilla,35
+Kings,1310,Secretary of State,,Dem,Alex Padilla,33
+Kings,1311,Secretary of State,,Dem,Alex Padilla,42
+Kings,1312,Secretary of State,,Dem,Alex Padilla,154
+Kings,1313,Secretary of State,,Dem,Alex Padilla,15
+Kings,1315,Secretary of State,,Dem,Alex Padilla,1
+Kings,1316,Secretary of State,,Dem,Alex Padilla,14
+Kings,1318,Secretary of State,,Dem,Alex Padilla,0
+Kings,1319,Secretary of State,,Dem,Alex Padilla,20
+Kings,1320,Secretary of State,,Dem,Alex Padilla,57
+Kings,1401,Secretary of State,,Dem,Alex Padilla,92
+Kings,1402,Secretary of State,,Dem,Alex Padilla,129
+Kings,1403,Secretary of State,,Dem,Alex Padilla,216
+Kings,1404,Secretary of State,,Dem,Alex Padilla,170
+Kings,1405,Secretary of State,,Dem,Alex Padilla,129
+Kings,1406,Secretary of State,,Dem,Alex Padilla,8
+Kings,1407,Secretary of State,,Dem,Alex Padilla,20
+Kings,1408,Secretary of State,,Dem,Alex Padilla,25
+Kings,1409,Secretary of State,,Dem,Alex Padilla,21
+Kings,1410,Secretary of State,,Dem,Alex Padilla,108
+Kings,1411,Secretary of State,,Dem,Alex Padilla,4
+Kings,1412,Secretary of State,,Dem,Alex Padilla,130
+Kings,1413,Secretary of State,,Dem,Alex Padilla,37
+Kings,1501,Secretary of State,,Dem,Alex Padilla,5
+Kings,1502,Secretary of State,,Dem,Alex Padilla,256
+Kings,1503,Secretary of State,,Dem,Alex Padilla,168
+Kings,1504,Secretary of State,,Dem,Alex Padilla,51
+Kings,1505,Secretary of State,,Dem,Alex Padilla,132
+Kings,1506,Secretary of State,,Dem,Alex Padilla,22
+Kings,1507,Secretary of State,,Dem,Alex Padilla,139
+Kings,1508,Secretary of State,,Dem,Alex Padilla,2
+Kings,1509,Secretary of State,,Dem,Alex Padilla,14
+Kings,1510,Secretary of State,,Dem,Alex Padilla,27
+Kings,1511,Secretary of State,,Dem,Alex Padilla,16
+Kings,1512,Secretary of State,,Dem,Alex Padilla,12
+Kings,1513,Secretary of State,,Dem,Alex Padilla,2
+Kings,1514,Secretary of State,,Dem,Alex Padilla,6
+Kings,1515,Secretary of State,,Dem,Alex Padilla,103
+Kings,1518,Secretary of State,,Dem,Alex Padilla,29
+Kings,1519,Secretary of State,,Dem,Alex Padilla,12
+Kings,1520,Secretary of State,,Dem,Alex Padilla,1
+Kings,1523,Secretary of State,,Dem,Alex Padilla,2
+Kings,1525,Secretary of State,,Dem,Alex Padilla,1
+Kings,1526,Secretary of State,,Dem,Alex Padilla,34
+Kings,1527,Secretary of State,,Dem,Alex Padilla,9
+Kings,1528,Secretary of State,,Dem,Alex Padilla,43
+Kings,1531,Secretary of State,,Dem,Alex Padilla,2
+Kings,1532,Secretary of State,,Dem,Alex Padilla,82
+Kings,1533,Secretary of State,,Dem,Alex Padilla,158
+Kings,KINGS COUNTY,Secretary of State,,Dem,Alex Padilla,12897
+Kings,101,Secretary of State,,Rep,Mark Meuser,742
+Kings,102,Secretary of State,,Rep,Mark Meuser,431
+Kings,103,Secretary of State,,Rep,Mark Meuser,793
+Kings,104,Secretary of State,,Rep,Mark Meuser,96
+Kings,105,Secretary of State,,Rep,Mark Meuser,51
+Kings,106,Secretary of State,,Rep,Mark Meuser,440
+Kings,201,Secretary of State,,Rep,Mark Meuser,267
+Kings,202,Secretary of State,,Rep,Mark Meuser,267
+Kings,203,Secretary of State,,Rep,Mark Meuser,225
+Kings,301,Secretary of State,,Rep,Mark Meuser,1096
+Kings,302,Secretary of State,,Rep,Mark Meuser,397
+Kings,303,Secretary of State,,Rep,Mark Meuser,420
+Kings,304,Secretary of State,,Rep,Mark Meuser,293
+Kings,305,Secretary of State,,Rep,Mark Meuser,429
+Kings,306,Secretary of State,,Rep,Mark Meuser,490
+Kings,401,Secretary of State,,Rep,Mark Meuser,542
+Kings,402,Secretary of State,,Rep,Mark Meuser,94
+Kings,403,Secretary of State,,Rep,Mark Meuser,520
+Kings,404,Secretary of State,,Rep,Mark Meuser,308
+Kings,405,Secretary of State,,Rep,Mark Meuser,373
+Kings,501,Secretary of State,,Rep,Mark Meuser,1416
+Kings,502,Secretary of State,,Rep,Mark Meuser,310
+Kings,503,Secretary of State,,Rep,Mark Meuser,1107
+Kings,1101,Secretary of State,,Rep,Mark Meuser,94
+Kings,1102,Secretary of State,,Rep,Mark Meuser,135
+Kings,1103,Secretary of State,,Rep,Mark Meuser,0
+Kings,1105,Secretary of State,,Rep,Mark Meuser,106
+Kings,1106,Secretary of State,,Rep,Mark Meuser,1
+Kings,1201,Secretary of State,,Rep,Mark Meuser,1
+Kings,1202,Secretary of State,,Rep,Mark Meuser,96
+Kings,1203,Secretary of State,,Rep,Mark Meuser,78
+Kings,1204,Secretary of State,,Rep,Mark Meuser,123
+Kings,1205,Secretary of State,,Rep,Mark Meuser,22
+Kings,1206,Secretary of State,,Rep,Mark Meuser,189
+Kings,1208,Secretary of State,,Rep,Mark Meuser,10
+Kings,1212,Secretary of State,,Rep,Mark Meuser,12
+Kings,1213,Secretary of State,,Rep,Mark Meuser,0
+Kings,1214,Secretary of State,,Rep,Mark Meuser,27
+Kings,1217,Secretary of State,,Rep,Mark Meuser,0
+Kings,1301,Secretary of State,,Rep,Mark Meuser,468
+Kings,1302,Secretary of State,,Rep,Mark Meuser,53
+Kings,1303,Secretary of State,,Rep,Mark Meuser,170
+Kings,1304,Secretary of State,,Rep,Mark Meuser,285
+Kings,1305,Secretary of State,,Rep,Mark Meuser,172
+Kings,1306,Secretary of State,,Rep,Mark Meuser,1
+Kings,1307,Secretary of State,,Rep,Mark Meuser,59
+Kings,1308,Secretary of State,,Rep,Mark Meuser,8
+Kings,1309,Secretary of State,,Rep,Mark Meuser,134
+Kings,1310,Secretary of State,,Rep,Mark Meuser,89
+Kings,1311,Secretary of State,,Rep,Mark Meuser,35
+Kings,1312,Secretary of State,,Rep,Mark Meuser,251
+Kings,1313,Secretary of State,,Rep,Mark Meuser,14
+Kings,1315,Secretary of State,,Rep,Mark Meuser,23
+Kings,1316,Secretary of State,,Rep,Mark Meuser,39
+Kings,1318,Secretary of State,,Rep,Mark Meuser,4
+Kings,1319,Secretary of State,,Rep,Mark Meuser,32
+Kings,1320,Secretary of State,,Rep,Mark Meuser,78
+Kings,1401,Secretary of State,,Rep,Mark Meuser,116
+Kings,1402,Secretary of State,,Rep,Mark Meuser,65
+Kings,1403,Secretary of State,,Rep,Mark Meuser,88
+Kings,1404,Secretary of State,,Rep,Mark Meuser,69
+Kings,1405,Secretary of State,,Rep,Mark Meuser,34
+Kings,1406,Secretary of State,,Rep,Mark Meuser,32
+Kings,1407,Secretary of State,,Rep,Mark Meuser,15
+Kings,1408,Secretary of State,,Rep,Mark Meuser,73
+Kings,1409,Secretary of State,,Rep,Mark Meuser,26
+Kings,1410,Secretary of State,,Rep,Mark Meuser,382
+Kings,1411,Secretary of State,,Rep,Mark Meuser,8
+Kings,1412,Secretary of State,,Rep,Mark Meuser,162
+Kings,1413,Secretary of State,,Rep,Mark Meuser,54
+Kings,1501,Secretary of State,,Rep,Mark Meuser,14
+Kings,1502,Secretary of State,,Rep,Mark Meuser,131
+Kings,1503,Secretary of State,,Rep,Mark Meuser,135
+Kings,1504,Secretary of State,,Rep,Mark Meuser,12
+Kings,1505,Secretary of State,,Rep,Mark Meuser,308
+Kings,1506,Secretary of State,,Rep,Mark Meuser,36
+Kings,1507,Secretary of State,,Rep,Mark Meuser,615
+Kings,1508,Secretary of State,,Rep,Mark Meuser,6
+Kings,1509,Secretary of State,,Rep,Mark Meuser,35
+Kings,1510,Secretary of State,,Rep,Mark Meuser,93
+Kings,1511,Secretary of State,,Rep,Mark Meuser,89
+Kings,1512,Secretary of State,,Rep,Mark Meuser,61
+Kings,1513,Secretary of State,,Rep,Mark Meuser,3
+Kings,1514,Secretary of State,,Rep,Mark Meuser,1
+Kings,1515,Secretary of State,,Rep,Mark Meuser,90
+Kings,1518,Secretary of State,,Rep,Mark Meuser,35
+Kings,1519,Secretary of State,,Rep,Mark Meuser,9
+Kings,1520,Secretary of State,,Rep,Mark Meuser,8
+Kings,1523,Secretary of State,,Rep,Mark Meuser,0
+Kings,1525,Secretary of State,,Rep,Mark Meuser,16
+Kings,1526,Secretary of State,,Rep,Mark Meuser,69
+Kings,1527,Secretary of State,,Rep,Mark Meuser,9
+Kings,1528,Secretary of State,,Rep,Mark Meuser,52
+Kings,1531,Secretary of State,,Rep,Mark Meuser,14
+Kings,1532,Secretary of State,,Rep,Mark Meuser,54
+Kings,1533,Secretary of State,,Rep,Mark Meuser,95
+Kings,KINGS COUNTY,Secretary of State,,Rep,Mark Meuser,17030
+Kings,101,Controller,,Rep,Konstantinos Roditis,700
+Kings,102,Controller,,Rep,Konstantinos Roditis,411
+Kings,103,Controller,,Rep,Konstantinos Roditis,766
+Kings,104,Controller,,Rep,Konstantinos Roditis,91
+Kings,105,Controller,,Rep,Konstantinos Roditis,50
+Kings,106,Controller,,Rep,Konstantinos Roditis,401
+Kings,201,Controller,,Rep,Konstantinos Roditis,261
+Kings,202,Controller,,Rep,Konstantinos Roditis,253
+Kings,203,Controller,,Rep,Konstantinos Roditis,198
+Kings,301,Controller,,Rep,Konstantinos Roditis,1032
+Kings,302,Controller,,Rep,Konstantinos Roditis,386
+Kings,303,Controller,,Rep,Konstantinos Roditis,377
+Kings,304,Controller,,Rep,Konstantinos Roditis,282
+Kings,305,Controller,,Rep,Konstantinos Roditis,407
+Kings,306,Controller,,Rep,Konstantinos Roditis,449
+Kings,401,Controller,,Rep,Konstantinos Roditis,508
+Kings,402,Controller,,Rep,Konstantinos Roditis,79
+Kings,403,Controller,,Rep,Konstantinos Roditis,485
+Kings,404,Controller,,Rep,Konstantinos Roditis,286
+Kings,405,Controller,,Rep,Konstantinos Roditis,334
+Kings,501,Controller,,Rep,Konstantinos Roditis,1340
+Kings,502,Controller,,Rep,Konstantinos Roditis,291
+Kings,503,Controller,,Rep,Konstantinos Roditis,1045
+Kings,1101,Controller,,Rep,Konstantinos Roditis,94
+Kings,1102,Controller,,Rep,Konstantinos Roditis,125
+Kings,1103,Controller,,Rep,Konstantinos Roditis,0
+Kings,1105,Controller,,Rep,Konstantinos Roditis,95
+Kings,1106,Controller,,Rep,Konstantinos Roditis,1
+Kings,1201,Controller,,Rep,Konstantinos Roditis,1
+Kings,1202,Controller,,Rep,Konstantinos Roditis,94
+Kings,1203,Controller,,Rep,Konstantinos Roditis,74
+Kings,1204,Controller,,Rep,Konstantinos Roditis,114
+Kings,1205,Controller,,Rep,Konstantinos Roditis,23
+Kings,1206,Controller,,Rep,Konstantinos Roditis,186
+Kings,1208,Controller,,Rep,Konstantinos Roditis,11
+Kings,1212,Controller,,Rep,Konstantinos Roditis,14
+Kings,1213,Controller,,Rep,Konstantinos Roditis,0
+Kings,1214,Controller,,Rep,Konstantinos Roditis,22
+Kings,1217,Controller,,Rep,Konstantinos Roditis,0
+Kings,1301,Controller,,Rep,Konstantinos Roditis,441
+Kings,1302,Controller,,Rep,Konstantinos Roditis,43
+Kings,1303,Controller,,Rep,Konstantinos Roditis,167
+Kings,1304,Controller,,Rep,Konstantinos Roditis,266
+Kings,1305,Controller,,Rep,Konstantinos Roditis,160
+Kings,1306,Controller,,Rep,Konstantinos Roditis,1
+Kings,1307,Controller,,Rep,Konstantinos Roditis,56
+Kings,1308,Controller,,Rep,Konstantinos Roditis,8
+Kings,1309,Controller,,Rep,Konstantinos Roditis,131
+Kings,1310,Controller,,Rep,Konstantinos Roditis,88
+Kings,1311,Controller,,Rep,Konstantinos Roditis,34
+Kings,1312,Controller,,Rep,Konstantinos Roditis,228
+Kings,1313,Controller,,Rep,Konstantinos Roditis,13
+Kings,1315,Controller,,Rep,Konstantinos Roditis,23
+Kings,1316,Controller,,Rep,Konstantinos Roditis,38
+Kings,1318,Controller,,Rep,Konstantinos Roditis,4
+Kings,1319,Controller,,Rep,Konstantinos Roditis,27
+Kings,1320,Controller,,Rep,Konstantinos Roditis,72
+Kings,1401,Controller,,Rep,Konstantinos Roditis,113
+Kings,1402,Controller,,Rep,Konstantinos Roditis,66
+Kings,1403,Controller,,Rep,Konstantinos Roditis,85
+Kings,1404,Controller,,Rep,Konstantinos Roditis,74
+Kings,1405,Controller,,Rep,Konstantinos Roditis,33
+Kings,1406,Controller,,Rep,Konstantinos Roditis,29
+Kings,1407,Controller,,Rep,Konstantinos Roditis,14
+Kings,1408,Controller,,Rep,Konstantinos Roditis,73
+Kings,1409,Controller,,Rep,Konstantinos Roditis,26
+Kings,1410,Controller,,Rep,Konstantinos Roditis,370
+Kings,1411,Controller,,Rep,Konstantinos Roditis,7
+Kings,1412,Controller,,Rep,Konstantinos Roditis,153
+Kings,1413,Controller,,Rep,Konstantinos Roditis,49
+Kings,1501,Controller,,Rep,Konstantinos Roditis,12
+Kings,1502,Controller,,Rep,Konstantinos Roditis,118
+Kings,1503,Controller,,Rep,Konstantinos Roditis,124
+Kings,1504,Controller,,Rep,Konstantinos Roditis,9
+Kings,1505,Controller,,Rep,Konstantinos Roditis,288
+Kings,1506,Controller,,Rep,Konstantinos Roditis,27
+Kings,1507,Controller,,Rep,Konstantinos Roditis,578
+Kings,1508,Controller,,Rep,Konstantinos Roditis,4
+Kings,1509,Controller,,Rep,Konstantinos Roditis,34
+Kings,1510,Controller,,Rep,Konstantinos Roditis,92
+Kings,1511,Controller,,Rep,Konstantinos Roditis,85
+Kings,1512,Controller,,Rep,Konstantinos Roditis,58
+Kings,1513,Controller,,Rep,Konstantinos Roditis,3
+Kings,1514,Controller,,Rep,Konstantinos Roditis,1
+Kings,1515,Controller,,Rep,Konstantinos Roditis,84
+Kings,1518,Controller,,Rep,Konstantinos Roditis,30
+Kings,1519,Controller,,Rep,Konstantinos Roditis,8
+Kings,1520,Controller,,Rep,Konstantinos Roditis,8
+Kings,1523,Controller,,Rep,Konstantinos Roditis,0
+Kings,1525,Controller,,Rep,Konstantinos Roditis,12
+Kings,1526,Controller,,Rep,Konstantinos Roditis,65
+Kings,1527,Controller,,Rep,Konstantinos Roditis,9
+Kings,1528,Controller,,Rep,Konstantinos Roditis,57
+Kings,1531,Controller,,Rep,Konstantinos Roditis,13
+Kings,1532,Controller,,Rep,Konstantinos Roditis,49
+Kings,1533,Controller,,Rep,Konstantinos Roditis,93
+Kings,KINGS COUNTY,Controller,,Rep,Konstantinos Roditis,16039
+Kings,101,Controller,,Dem,Betty Yee,470
+Kings,102,Controller,,Dem,Betty Yee,510
+Kings,103,Controller,,Dem,Betty Yee,538
+Kings,104,Controller,,Dem,Betty Yee,118
+Kings,105,Controller,,Dem,Betty Yee,110
+Kings,106,Controller,,Dem,Betty Yee,334
+Kings,201,Controller,,Dem,Betty Yee,566
+Kings,202,Controller,,Dem,Betty Yee,607
+Kings,203,Controller,,Dem,Betty Yee,688
+Kings,301,Controller,,Dem,Betty Yee,670
+Kings,302,Controller,,Dem,Betty Yee,262
+Kings,303,Controller,,Dem,Betty Yee,325
+Kings,304,Controller,,Dem,Betty Yee,246
+Kings,305,Controller,,Dem,Betty Yee,107
+Kings,306,Controller,,Dem,Betty Yee,344
+Kings,401,Controller,,Dem,Betty Yee,414
+Kings,402,Controller,,Dem,Betty Yee,103
+Kings,403,Controller,,Dem,Betty Yee,763
+Kings,404,Controller,,Dem,Betty Yee,424
+Kings,405,Controller,,Dem,Betty Yee,219
+Kings,501,Controller,,Dem,Betty Yee,737
+Kings,502,Controller,,Dem,Betty Yee,143
+Kings,503,Controller,,Dem,Betty Yee,803
+Kings,1101,Controller,,Dem,Betty Yee,94
+Kings,1102,Controller,,Dem,Betty Yee,70
+Kings,1103,Controller,,Dem,Betty Yee,2
+Kings,1105,Controller,,Dem,Betty Yee,67
+Kings,1106,Controller,,Dem,Betty Yee,0
+Kings,1201,Controller,,Dem,Betty Yee,0
+Kings,1202,Controller,,Dem,Betty Yee,131
+Kings,1203,Controller,,Dem,Betty Yee,18
+Kings,1204,Controller,,Dem,Betty Yee,81
+Kings,1205,Controller,,Dem,Betty Yee,83
+Kings,1206,Controller,,Dem,Betty Yee,169
+Kings,1208,Controller,,Dem,Betty Yee,2
+Kings,1212,Controller,,Dem,Betty Yee,31
+Kings,1213,Controller,,Dem,Betty Yee,1
+Kings,1214,Controller,,Dem,Betty Yee,51
+Kings,1217,Controller,,Dem,Betty Yee,1
+Kings,1301,Controller,,Dem,Betty Yee,365
+Kings,1302,Controller,,Dem,Betty Yee,18
+Kings,1303,Controller,,Dem,Betty Yee,37
+Kings,1304,Controller,,Dem,Betty Yee,63
+Kings,1305,Controller,,Dem,Betty Yee,64
+Kings,1306,Controller,,Dem,Betty Yee,1
+Kings,1307,Controller,,Dem,Betty Yee,22
+Kings,1308,Controller,,Dem,Betty Yee,3
+Kings,1309,Controller,,Dem,Betty Yee,39
+Kings,1310,Controller,,Dem,Betty Yee,35
+Kings,1311,Controller,,Dem,Betty Yee,40
+Kings,1312,Controller,,Dem,Betty Yee,179
+Kings,1313,Controller,,Dem,Betty Yee,16
+Kings,1315,Controller,,Dem,Betty Yee,1
+Kings,1316,Controller,,Dem,Betty Yee,16
+Kings,1318,Controller,,Dem,Betty Yee,0
+Kings,1319,Controller,,Dem,Betty Yee,26
+Kings,1320,Controller,,Dem,Betty Yee,64
+Kings,1401,Controller,,Dem,Betty Yee,96
+Kings,1402,Controller,,Dem,Betty Yee,125
+Kings,1403,Controller,,Dem,Betty Yee,220
+Kings,1404,Controller,,Dem,Betty Yee,164
+Kings,1405,Controller,,Dem,Betty Yee,130
+Kings,1406,Controller,,Dem,Betty Yee,11
+Kings,1407,Controller,,Dem,Betty Yee,21
+Kings,1408,Controller,,Dem,Betty Yee,26
+Kings,1409,Controller,,Dem,Betty Yee,21
+Kings,1410,Controller,,Dem,Betty Yee,121
+Kings,1411,Controller,,Dem,Betty Yee,5
+Kings,1412,Controller,,Dem,Betty Yee,141
+Kings,1413,Controller,,Dem,Betty Yee,42
+Kings,1501,Controller,,Dem,Betty Yee,7
+Kings,1502,Controller,,Dem,Betty Yee,270
+Kings,1503,Controller,,Dem,Betty Yee,180
+Kings,1504,Controller,,Dem,Betty Yee,54
+Kings,1505,Controller,,Dem,Betty Yee,149
+Kings,1506,Controller,,Dem,Betty Yee,31
+Kings,1507,Controller,,Dem,Betty Yee,173
+Kings,1508,Controller,,Dem,Betty Yee,4
+Kings,1509,Controller,,Dem,Betty Yee,15
+Kings,1510,Controller,,Dem,Betty Yee,28
+Kings,1511,Controller,,Dem,Betty Yee,20
+Kings,1512,Controller,,Dem,Betty Yee,15
+Kings,1513,Controller,,Dem,Betty Yee,2
+Kings,1514,Controller,,Dem,Betty Yee,6
+Kings,1515,Controller,,Dem,Betty Yee,111
+Kings,1518,Controller,,Dem,Betty Yee,33
+Kings,1519,Controller,,Dem,Betty Yee,13
+Kings,1520,Controller,,Dem,Betty Yee,1
+Kings,1523,Controller,,Dem,Betty Yee,2
+Kings,1525,Controller,,Dem,Betty Yee,6
+Kings,1526,Controller,,Dem,Betty Yee,38
+Kings,1527,Controller,,Dem,Betty Yee,8
+Kings,1528,Controller,,Dem,Betty Yee,39
+Kings,1531,Controller,,Dem,Betty Yee,3
+Kings,1532,Controller,,Dem,Betty Yee,87
+Kings,1533,Controller,,Dem,Betty Yee,158
+Kings,KINGS COUNTY,Controller,,Dem,Betty Yee,13867
+Kings,101,Treasurer,,Rep,Greg Conlon,739
+Kings,102,Treasurer,,Rep,Greg Conlon,438
+Kings,103,Treasurer,,Rep,Greg Conlon,793
+Kings,104,Treasurer,,Rep,Greg Conlon,95
+Kings,105,Treasurer,,Rep,Greg Conlon,52
+Kings,106,Treasurer,,Rep,Greg Conlon,422
+Kings,201,Treasurer,,Rep,Greg Conlon,278
+Kings,202,Treasurer,,Rep,Greg Conlon,276
+Kings,203,Treasurer,,Rep,Greg Conlon,225
+Kings,301,Treasurer,,Rep,Greg Conlon,1111
+Kings,302,Treasurer,,Rep,Greg Conlon,395
+Kings,303,Treasurer,,Rep,Greg Conlon,413
+Kings,304,Treasurer,,Rep,Greg Conlon,300
+Kings,305,Treasurer,,Rep,Greg Conlon,422
+Kings,306,Treasurer,,Rep,Greg Conlon,475
+Kings,401,Treasurer,,Rep,Greg Conlon,561
+Kings,402,Treasurer,,Rep,Greg Conlon,96
+Kings,403,Treasurer,,Rep,Greg Conlon,539
+Kings,404,Treasurer,,Rep,Greg Conlon,298
+Kings,405,Treasurer,,Rep,Greg Conlon,365
+Kings,501,Treasurer,,Rep,Greg Conlon,1428
+Kings,502,Treasurer,,Rep,Greg Conlon,307
+Kings,503,Treasurer,,Rep,Greg Conlon,1112
+Kings,1101,Treasurer,,Rep,Greg Conlon,98
+Kings,1102,Treasurer,,Rep,Greg Conlon,142
+Kings,1103,Treasurer,,Rep,Greg Conlon,0
+Kings,1105,Treasurer,,Rep,Greg Conlon,108
+Kings,1106,Treasurer,,Rep,Greg Conlon,1
+Kings,1201,Treasurer,,Rep,Greg Conlon,1
+Kings,1202,Treasurer,,Rep,Greg Conlon,100
+Kings,1203,Treasurer,,Rep,Greg Conlon,79
+Kings,1204,Treasurer,,Rep,Greg Conlon,119
+Kings,1205,Treasurer,,Rep,Greg Conlon,23
+Kings,1206,Treasurer,,Rep,Greg Conlon,200
+Kings,1208,Treasurer,,Rep,Greg Conlon,10
+Kings,1212,Treasurer,,Rep,Greg Conlon,13
+Kings,1213,Treasurer,,Rep,Greg Conlon,0
+Kings,1214,Treasurer,,Rep,Greg Conlon,24
+Kings,1217,Treasurer,,Rep,Greg Conlon,0
+Kings,1301,Treasurer,,Rep,Greg Conlon,468
+Kings,1302,Treasurer,,Rep,Greg Conlon,49
+Kings,1303,Treasurer,,Rep,Greg Conlon,166
+Kings,1304,Treasurer,,Rep,Greg Conlon,282
+Kings,1305,Treasurer,,Rep,Greg Conlon,169
+Kings,1306,Treasurer,,Rep,Greg Conlon,2
+Kings,1307,Treasurer,,Rep,Greg Conlon,56
+Kings,1308,Treasurer,,Rep,Greg Conlon,8
+Kings,1309,Treasurer,,Rep,Greg Conlon,134
+Kings,1310,Treasurer,,Rep,Greg Conlon,90
+Kings,1311,Treasurer,,Rep,Greg Conlon,33
+Kings,1312,Treasurer,,Rep,Greg Conlon,246
+Kings,1313,Treasurer,,Rep,Greg Conlon,9
+Kings,1315,Treasurer,,Rep,Greg Conlon,24
+Kings,1316,Treasurer,,Rep,Greg Conlon,37
+Kings,1318,Treasurer,,Rep,Greg Conlon,5
+Kings,1319,Treasurer,,Rep,Greg Conlon,30
+Kings,1320,Treasurer,,Rep,Greg Conlon,77
+Kings,1401,Treasurer,,Rep,Greg Conlon,117
+Kings,1402,Treasurer,,Rep,Greg Conlon,57
+Kings,1403,Treasurer,,Rep,Greg Conlon,93
+Kings,1404,Treasurer,,Rep,Greg Conlon,80
+Kings,1405,Treasurer,,Rep,Greg Conlon,43
+Kings,1406,Treasurer,,Rep,Greg Conlon,31
+Kings,1407,Treasurer,,Rep,Greg Conlon,11
+Kings,1408,Treasurer,,Rep,Greg Conlon,74
+Kings,1409,Treasurer,,Rep,Greg Conlon,29
+Kings,1410,Treasurer,,Rep,Greg Conlon,388
+Kings,1411,Treasurer,,Rep,Greg Conlon,6
+Kings,1412,Treasurer,,Rep,Greg Conlon,156
+Kings,1413,Treasurer,,Rep,Greg Conlon,53
+Kings,1501,Treasurer,,Rep,Greg Conlon,14
+Kings,1502,Treasurer,,Rep,Greg Conlon,128
+Kings,1503,Treasurer,,Rep,Greg Conlon,139
+Kings,1504,Treasurer,,Rep,Greg Conlon,10
+Kings,1505,Treasurer,,Rep,Greg Conlon,306
+Kings,1506,Treasurer,,Rep,Greg Conlon,31
+Kings,1507,Treasurer,,Rep,Greg Conlon,622
+Kings,1508,Treasurer,,Rep,Greg Conlon,6
+Kings,1509,Treasurer,,Rep,Greg Conlon,36
+Kings,1510,Treasurer,,Rep,Greg Conlon,95
+Kings,1511,Treasurer,,Rep,Greg Conlon,85
+Kings,1512,Treasurer,,Rep,Greg Conlon,59
+Kings,1513,Treasurer,,Rep,Greg Conlon,3
+Kings,1514,Treasurer,,Rep,Greg Conlon,1
+Kings,1515,Treasurer,,Rep,Greg Conlon,91
+Kings,1518,Treasurer,,Rep,Greg Conlon,33
+Kings,1519,Treasurer,,Rep,Greg Conlon,9
+Kings,1520,Treasurer,,Rep,Greg Conlon,8
+Kings,1523,Treasurer,,Rep,Greg Conlon,0
+Kings,1525,Treasurer,,Rep,Greg Conlon,14
+Kings,1526,Treasurer,,Rep,Greg Conlon,64
+Kings,1527,Treasurer,,Rep,Greg Conlon,8
+Kings,1528,Treasurer,,Rep,Greg Conlon,58
+Kings,1531,Treasurer,,Rep,Greg Conlon,13
+Kings,1532,Treasurer,,Rep,Greg Conlon,53
+Kings,1533,Treasurer,,Rep,Greg Conlon,98
+Kings,KINGS COUNTY,Treasurer,,Rep,Greg Conlon,17065
+Kings,101,Treasurer,,Dem,Fiona Ma,427
+Kings,102,Treasurer,,Dem,Fiona Ma,482
+Kings,103,Treasurer,,Dem,Fiona Ma,511
+Kings,104,Treasurer,,Dem,Fiona Ma,116
+Kings,105,Treasurer,,Dem,Fiona Ma,109
+Kings,106,Treasurer,,Dem,Fiona Ma,304
+Kings,201,Treasurer,,Dem,Fiona Ma,551
+Kings,202,Treasurer,,Dem,Fiona Ma,584
+Kings,203,Treasurer,,Dem,Fiona Ma,665
+Kings,301,Treasurer,,Dem,Fiona Ma,586
+Kings,302,Treasurer,,Dem,Fiona Ma,252
+Kings,303,Treasurer,,Dem,Fiona Ma,288
+Kings,304,Treasurer,,Dem,Fiona Ma,227
+Kings,305,Treasurer,,Dem,Fiona Ma,88
+Kings,306,Treasurer,,Dem,Fiona Ma,315
+Kings,401,Treasurer,,Dem,Fiona Ma,364
+Kings,402,Treasurer,,Dem,Fiona Ma,87
+Kings,403,Treasurer,,Dem,Fiona Ma,708
+Kings,404,Treasurer,,Dem,Fiona Ma,416
+Kings,405,Treasurer,,Dem,Fiona Ma,191
+Kings,501,Treasurer,,Dem,Fiona Ma,631
+Kings,502,Treasurer,,Dem,Fiona Ma,122
+Kings,503,Treasurer,,Dem,Fiona Ma,738
+Kings,1101,Treasurer,,Dem,Fiona Ma,90
+Kings,1102,Treasurer,,Dem,Fiona Ma,53
+Kings,1103,Treasurer,,Dem,Fiona Ma,2
+Kings,1105,Treasurer,,Dem,Fiona Ma,53
+Kings,1106,Treasurer,,Dem,Fiona Ma,0
+Kings,1201,Treasurer,,Dem,Fiona Ma,0
+Kings,1202,Treasurer,,Dem,Fiona Ma,125
+Kings,1203,Treasurer,,Dem,Fiona Ma,12
+Kings,1204,Treasurer,,Dem,Fiona Ma,76
+Kings,1205,Treasurer,,Dem,Fiona Ma,81
+Kings,1206,Treasurer,,Dem,Fiona Ma,154
+Kings,1208,Treasurer,,Dem,Fiona Ma,3
+Kings,1212,Treasurer,,Dem,Fiona Ma,32
+Kings,1213,Treasurer,,Dem,Fiona Ma,1
+Kings,1214,Treasurer,,Dem,Fiona Ma,48
+Kings,1217,Treasurer,,Dem,Fiona Ma,1
+Kings,1301,Treasurer,,Dem,Fiona Ma,337
+Kings,1302,Treasurer,,Dem,Fiona Ma,12
+Kings,1303,Treasurer,,Dem,Fiona Ma,38
+Kings,1304,Treasurer,,Dem,Fiona Ma,50
+Kings,1305,Treasurer,,Dem,Fiona Ma,57
+Kings,1306,Treasurer,,Dem,Fiona Ma,0
+Kings,1307,Treasurer,,Dem,Fiona Ma,23
+Kings,1308,Treasurer,,Dem,Fiona Ma,3
+Kings,1309,Treasurer,,Dem,Fiona Ma,36
+Kings,1310,Treasurer,,Dem,Fiona Ma,33
+Kings,1311,Treasurer,,Dem,Fiona Ma,43
+Kings,1312,Treasurer,,Dem,Fiona Ma,159
+Kings,1313,Treasurer,,Dem,Fiona Ma,19
+Kings,1315,Treasurer,,Dem,Fiona Ma,1
+Kings,1316,Treasurer,,Dem,Fiona Ma,17
+Kings,1318,Treasurer,,Dem,Fiona Ma,0
+Kings,1319,Treasurer,,Dem,Fiona Ma,23
+Kings,1320,Treasurer,,Dem,Fiona Ma,59
+Kings,1401,Treasurer,,Dem,Fiona Ma,90
+Kings,1402,Treasurer,,Dem,Fiona Ma,137
+Kings,1403,Treasurer,,Dem,Fiona Ma,213
+Kings,1404,Treasurer,,Dem,Fiona Ma,160
+Kings,1405,Treasurer,,Dem,Fiona Ma,122
+Kings,1406,Treasurer,,Dem,Fiona Ma,9
+Kings,1407,Treasurer,,Dem,Fiona Ma,23
+Kings,1408,Treasurer,,Dem,Fiona Ma,24
+Kings,1409,Treasurer,,Dem,Fiona Ma,20
+Kings,1410,Treasurer,,Dem,Fiona Ma,101
+Kings,1411,Treasurer,,Dem,Fiona Ma,6
+Kings,1412,Treasurer,,Dem,Fiona Ma,138
+Kings,1413,Treasurer,,Dem,Fiona Ma,38
+Kings,1501,Treasurer,,Dem,Fiona Ma,5
+Kings,1502,Treasurer,,Dem,Fiona Ma,259
+Kings,1503,Treasurer,,Dem,Fiona Ma,164
+Kings,1504,Treasurer,,Dem,Fiona Ma,53
+Kings,1505,Treasurer,,Dem,Fiona Ma,133
+Kings,1506,Treasurer,,Dem,Fiona Ma,25
+Kings,1507,Treasurer,,Dem,Fiona Ma,139
+Kings,1508,Treasurer,,Dem,Fiona Ma,2
+Kings,1509,Treasurer,,Dem,Fiona Ma,13
+Kings,1510,Treasurer,,Dem,Fiona Ma,24
+Kings,1511,Treasurer,,Dem,Fiona Ma,20
+Kings,1512,Treasurer,,Dem,Fiona Ma,14
+Kings,1513,Treasurer,,Dem,Fiona Ma,2
+Kings,1514,Treasurer,,Dem,Fiona Ma,6
+Kings,1515,Treasurer,,Dem,Fiona Ma,103
+Kings,1518,Treasurer,,Dem,Fiona Ma,30
+Kings,1519,Treasurer,,Dem,Fiona Ma,12
+Kings,1520,Treasurer,,Dem,Fiona Ma,1
+Kings,1523,Treasurer,,Dem,Fiona Ma,2
+Kings,1525,Treasurer,,Dem,Fiona Ma,3
+Kings,1526,Treasurer,,Dem,Fiona Ma,39
+Kings,1527,Treasurer,,Dem,Fiona Ma,9
+Kings,1528,Treasurer,,Dem,Fiona Ma,38
+Kings,1531,Treasurer,,Dem,Fiona Ma,3
+Kings,1532,Treasurer,,Dem,Fiona Ma,83
+Kings,1533,Treasurer,,Dem,Fiona Ma,154
+Kings,KINGS COUNTY,Treasurer,,Dem,Fiona Ma,12820
+Kings,101,Attorney General,,Rep,Steven Bailey,765
+Kings,102,Attorney General,,Rep,Steven Bailey,435
+Kings,103,Attorney General,,Rep,Steven Bailey,801
+Kings,104,Attorney General,,Rep,Steven Bailey,99
+Kings,105,Attorney General,,Rep,Steven Bailey,49
+Kings,106,Attorney General,,Rep,Steven Bailey,452
+Kings,201,Attorney General,,Rep,Steven Bailey,279
+Kings,202,Attorney General,,Rep,Steven Bailey,275
+Kings,203,Attorney General,,Rep,Steven Bailey,225
+Kings,301,Attorney General,,Rep,Steven Bailey,1107
+Kings,302,Attorney General,,Rep,Steven Bailey,409
+Kings,303,Attorney General,,Rep,Steven Bailey,421
+Kings,304,Attorney General,,Rep,Steven Bailey,302
+Kings,305,Attorney General,,Rep,Steven Bailey,431
+Kings,306,Attorney General,,Rep,Steven Bailey,498
+Kings,401,Attorney General,,Rep,Steven Bailey,564
+Kings,402,Attorney General,,Rep,Steven Bailey,96
+Kings,403,Attorney General,,Rep,Steven Bailey,522
+Kings,404,Attorney General,,Rep,Steven Bailey,306
+Kings,405,Attorney General,,Rep,Steven Bailey,374
+Kings,501,Attorney General,,Rep,Steven Bailey,1449
+Kings,502,Attorney General,,Rep,Steven Bailey,312
+Kings,503,Attorney General,,Rep,Steven Bailey,1143
+Kings,1101,Attorney General,,Rep,Steven Bailey,100
+Kings,1102,Attorney General,,Rep,Steven Bailey,136
+Kings,1103,Attorney General,,Rep,Steven Bailey,0
+Kings,1105,Attorney General,,Rep,Steven Bailey,108
+Kings,1106,Attorney General,,Rep,Steven Bailey,1
+Kings,1201,Attorney General,,Rep,Steven Bailey,1
+Kings,1202,Attorney General,,Rep,Steven Bailey,100
+Kings,1203,Attorney General,,Rep,Steven Bailey,78
+Kings,1204,Attorney General,,Rep,Steven Bailey,123
+Kings,1205,Attorney General,,Rep,Steven Bailey,23
+Kings,1206,Attorney General,,Rep,Steven Bailey,193
+Kings,1208,Attorney General,,Rep,Steven Bailey,9
+Kings,1212,Attorney General,,Rep,Steven Bailey,16
+Kings,1213,Attorney General,,Rep,Steven Bailey,0
+Kings,1214,Attorney General,,Rep,Steven Bailey,28
+Kings,1217,Attorney General,,Rep,Steven Bailey,0
+Kings,1301,Attorney General,,Rep,Steven Bailey,478
+Kings,1302,Attorney General,,Rep,Steven Bailey,51
+Kings,1303,Attorney General,,Rep,Steven Bailey,173
+Kings,1304,Attorney General,,Rep,Steven Bailey,282
+Kings,1305,Attorney General,,Rep,Steven Bailey,171
+Kings,1306,Attorney General,,Rep,Steven Bailey,1
+Kings,1307,Attorney General,,Rep,Steven Bailey,58
+Kings,1308,Attorney General,,Rep,Steven Bailey,8
+Kings,1309,Attorney General,,Rep,Steven Bailey,135
+Kings,1310,Attorney General,,Rep,Steven Bailey,91
+Kings,1311,Attorney General,,Rep,Steven Bailey,35
+Kings,1312,Attorney General,,Rep,Steven Bailey,255
+Kings,1313,Attorney General,,Rep,Steven Bailey,14
+Kings,1315,Attorney General,,Rep,Steven Bailey,22
+Kings,1316,Attorney General,,Rep,Steven Bailey,40
+Kings,1318,Attorney General,,Rep,Steven Bailey,5
+Kings,1319,Attorney General,,Rep,Steven Bailey,31
+Kings,1320,Attorney General,,Rep,Steven Bailey,80
+Kings,1401,Attorney General,,Rep,Steven Bailey,122
+Kings,1402,Attorney General,,Rep,Steven Bailey,63
+Kings,1403,Attorney General,,Rep,Steven Bailey,92
+Kings,1404,Attorney General,,Rep,Steven Bailey,81
+Kings,1405,Attorney General,,Rep,Steven Bailey,41
+Kings,1406,Attorney General,,Rep,Steven Bailey,31
+Kings,1407,Attorney General,,Rep,Steven Bailey,14
+Kings,1408,Attorney General,,Rep,Steven Bailey,74
+Kings,1409,Attorney General,,Rep,Steven Bailey,32
+Kings,1410,Attorney General,,Rep,Steven Bailey,383
+Kings,1411,Attorney General,,Rep,Steven Bailey,7
+Kings,1412,Attorney General,,Rep,Steven Bailey,168
+Kings,1413,Attorney General,,Rep,Steven Bailey,53
+Kings,1501,Attorney General,,Rep,Steven Bailey,13
+Kings,1502,Attorney General,,Rep,Steven Bailey,130
+Kings,1503,Attorney General,,Rep,Steven Bailey,135
+Kings,1504,Attorney General,,Rep,Steven Bailey,11
+Kings,1505,Attorney General,,Rep,Steven Bailey,312
+Kings,1506,Attorney General,,Rep,Steven Bailey,32
+Kings,1507,Attorney General,,Rep,Steven Bailey,619
+Kings,1508,Attorney General,,Rep,Steven Bailey,6
+Kings,1509,Attorney General,,Rep,Steven Bailey,37
+Kings,1510,Attorney General,,Rep,Steven Bailey,92
+Kings,1511,Attorney General,,Rep,Steven Bailey,89
+Kings,1512,Attorney General,,Rep,Steven Bailey,64
+Kings,1513,Attorney General,,Rep,Steven Bailey,3
+Kings,1514,Attorney General,,Rep,Steven Bailey,1
+Kings,1515,Attorney General,,Rep,Steven Bailey,95
+Kings,1518,Attorney General,,Rep,Steven Bailey,38
+Kings,1519,Attorney General,,Rep,Steven Bailey,9
+Kings,1520,Attorney General,,Rep,Steven Bailey,8
+Kings,1523,Attorney General,,Rep,Steven Bailey,0
+Kings,1525,Attorney General,,Rep,Steven Bailey,13
+Kings,1526,Attorney General,,Rep,Steven Bailey,63
+Kings,1527,Attorney General,,Rep,Steven Bailey,7
+Kings,1528,Attorney General,,Rep,Steven Bailey,53
+Kings,1531,Attorney General,,Rep,Steven Bailey,14
+Kings,1532,Attorney General,,Rep,Steven Bailey,53
+Kings,1533,Attorney General,,Rep,Steven Bailey,98
+Kings,KINGS COUNTY,Attorney General,,Rep,Steven Bailey,17316
+Kings,101,Attorney General,,Dem,Xavier Becerra,399
+Kings,102,Attorney General,,Dem,Xavier Becerra,487
+Kings,103,Attorney General,,Dem,Xavier Becerra,503
+Kings,104,Attorney General,,Dem,Xavier Becerra,113
+Kings,105,Attorney General,,Dem,Xavier Becerra,112
+Kings,106,Attorney General,,Dem,Xavier Becerra,275
+Kings,201,Attorney General,,Dem,Xavier Becerra,557
+Kings,202,Attorney General,,Dem,Xavier Becerra,593
+Kings,203,Attorney General,,Dem,Xavier Becerra,667
+Kings,301,Attorney General,,Dem,Xavier Becerra,591
+Kings,302,Attorney General,,Dem,Xavier Becerra,234
+Kings,303,Attorney General,,Dem,Xavier Becerra,281
+Kings,304,Attorney General,,Dem,Xavier Becerra,227
+Kings,305,Attorney General,,Dem,Xavier Becerra,82
+Kings,306,Attorney General,,Dem,Xavier Becerra,290
+Kings,401,Attorney General,,Dem,Xavier Becerra,365
+Kings,402,Attorney General,,Dem,Xavier Becerra,86
+Kings,403,Attorney General,,Dem,Xavier Becerra,726
+Kings,404,Attorney General,,Dem,Xavier Becerra,409
+Kings,405,Attorney General,,Dem,Xavier Becerra,184
+Kings,501,Attorney General,,Dem,Xavier Becerra,624
+Kings,502,Attorney General,,Dem,Xavier Becerra,115
+Kings,503,Attorney General,,Dem,Xavier Becerra,712
+Kings,1101,Attorney General,,Dem,Xavier Becerra,88
+Kings,1102,Attorney General,,Dem,Xavier Becerra,59
+Kings,1103,Attorney General,,Dem,Xavier Becerra,2
+Kings,1105,Attorney General,,Dem,Xavier Becerra,55
+Kings,1106,Attorney General,,Dem,Xavier Becerra,0
+Kings,1201,Attorney General,,Dem,Xavier Becerra,0
+Kings,1202,Attorney General,,Dem,Xavier Becerra,125
+Kings,1203,Attorney General,,Dem,Xavier Becerra,14
+Kings,1204,Attorney General,,Dem,Xavier Becerra,71
+Kings,1205,Attorney General,,Dem,Xavier Becerra,84
+Kings,1206,Attorney General,,Dem,Xavier Becerra,162
+Kings,1208,Attorney General,,Dem,Xavier Becerra,4
+Kings,1212,Attorney General,,Dem,Xavier Becerra,29
+Kings,1213,Attorney General,,Dem,Xavier Becerra,1
+Kings,1214,Attorney General,,Dem,Xavier Becerra,44
+Kings,1217,Attorney General,,Dem,Xavier Becerra,1
+Kings,1301,Attorney General,,Dem,Xavier Becerra,326
+Kings,1302,Attorney General,,Dem,Xavier Becerra,9
+Kings,1303,Attorney General,,Dem,Xavier Becerra,32
+Kings,1304,Attorney General,,Dem,Xavier Becerra,51
+Kings,1305,Attorney General,,Dem,Xavier Becerra,55
+Kings,1306,Attorney General,,Dem,Xavier Becerra,1
+Kings,1307,Attorney General,,Dem,Xavier Becerra,20
+Kings,1308,Attorney General,,Dem,Xavier Becerra,3
+Kings,1309,Attorney General,,Dem,Xavier Becerra,35
+Kings,1310,Attorney General,,Dem,Xavier Becerra,31
+Kings,1311,Attorney General,,Dem,Xavier Becerra,41
+Kings,1312,Attorney General,,Dem,Xavier Becerra,151
+Kings,1313,Attorney General,,Dem,Xavier Becerra,15
+Kings,1315,Attorney General,,Dem,Xavier Becerra,2
+Kings,1316,Attorney General,,Dem,Xavier Becerra,15
+Kings,1318,Attorney General,,Dem,Xavier Becerra,0
+Kings,1319,Attorney General,,Dem,Xavier Becerra,21
+Kings,1320,Attorney General,,Dem,Xavier Becerra,57
+Kings,1401,Attorney General,,Dem,Xavier Becerra,89
+Kings,1402,Attorney General,,Dem,Xavier Becerra,129
+Kings,1403,Attorney General,,Dem,Xavier Becerra,215
+Kings,1404,Attorney General,,Dem,Xavier Becerra,158
+Kings,1405,Attorney General,,Dem,Xavier Becerra,126
+Kings,1406,Attorney General,,Dem,Xavier Becerra,9
+Kings,1407,Attorney General,,Dem,Xavier Becerra,20
+Kings,1408,Attorney General,,Dem,Xavier Becerra,26
+Kings,1409,Attorney General,,Dem,Xavier Becerra,17
+Kings,1410,Attorney General,,Dem,Xavier Becerra,105
+Kings,1411,Attorney General,,Dem,Xavier Becerra,5
+Kings,1412,Attorney General,,Dem,Xavier Becerra,127
+Kings,1413,Attorney General,,Dem,Xavier Becerra,39
+Kings,1501,Attorney General,,Dem,Xavier Becerra,6
+Kings,1502,Attorney General,,Dem,Xavier Becerra,260
+Kings,1503,Attorney General,,Dem,Xavier Becerra,167
+Kings,1504,Attorney General,,Dem,Xavier Becerra,52
+Kings,1505,Attorney General,,Dem,Xavier Becerra,130
+Kings,1506,Attorney General,,Dem,Xavier Becerra,25
+Kings,1507,Attorney General,,Dem,Xavier Becerra,139
+Kings,1508,Attorney General,,Dem,Xavier Becerra,2
+Kings,1509,Attorney General,,Dem,Xavier Becerra,12
+Kings,1510,Attorney General,,Dem,Xavier Becerra,27
+Kings,1511,Attorney General,,Dem,Xavier Becerra,17
+Kings,1512,Attorney General,,Dem,Xavier Becerra,9
+Kings,1513,Attorney General,,Dem,Xavier Becerra,2
+Kings,1514,Attorney General,,Dem,Xavier Becerra,6
+Kings,1515,Attorney General,,Dem,Xavier Becerra,101
+Kings,1518,Attorney General,,Dem,Xavier Becerra,26
+Kings,1519,Attorney General,,Dem,Xavier Becerra,12
+Kings,1520,Attorney General,,Dem,Xavier Becerra,1
+Kings,1523,Attorney General,,Dem,Xavier Becerra,2
+Kings,1525,Attorney General,,Dem,Xavier Becerra,3
+Kings,1526,Attorney General,,Dem,Xavier Becerra,39
+Kings,1527,Attorney General,,Dem,Xavier Becerra,9
+Kings,1528,Attorney General,,Dem,Xavier Becerra,41
+Kings,1531,Attorney General,,Dem,Xavier Becerra,2
+Kings,1532,Attorney General,,Dem,Xavier Becerra,82
+Kings,1533,Attorney General,,Dem,Xavier Becerra,153
+Kings,KINGS COUNTY,Attorney General,,Dem,Xavier Becerra,12626
+Kings,101,Insurance Commissioner,,Dem,Ricardo Lara,373
+Kings,102,Insurance Commissioner,,Dem,Ricardo Lara,446
+Kings,103,Insurance Commissioner,,Dem,Ricardo Lara,450
+Kings,104,Insurance Commissioner,,Dem,Ricardo Lara,112
+Kings,105,Insurance Commissioner,,Dem,Ricardo Lara,103
+Kings,106,Insurance Commissioner,,Dem,Ricardo Lara,266
+Kings,201,Insurance Commissioner,,Dem,Ricardo Lara,532
+Kings,202,Insurance Commissioner,,Dem,Ricardo Lara,567
+Kings,203,Insurance Commissioner,,Dem,Ricardo Lara,627
+Kings,301,Insurance Commissioner,,Dem,Ricardo Lara,504
+Kings,302,Insurance Commissioner,,Dem,Ricardo Lara,206
+Kings,303,Insurance Commissioner,,Dem,Ricardo Lara,250
+Kings,304,Insurance Commissioner,,Dem,Ricardo Lara,206
+Kings,305,Insurance Commissioner,,Dem,Ricardo Lara,85
+Kings,306,Insurance Commissioner,,Dem,Ricardo Lara,261
+Kings,401,Insurance Commissioner,,Dem,Ricardo Lara,318
+Kings,402,Insurance Commissioner,,Dem,Ricardo Lara,80
+Kings,403,Insurance Commissioner,,Dem,Ricardo Lara,654
+Kings,404,Insurance Commissioner,,Dem,Ricardo Lara,389
+Kings,405,Insurance Commissioner,,Dem,Ricardo Lara,163
+Kings,501,Insurance Commissioner,,Dem,Ricardo Lara,547
+Kings,502,Insurance Commissioner,,Dem,Ricardo Lara,104
+Kings,503,Insurance Commissioner,,Dem,Ricardo Lara,634
+Kings,1101,Insurance Commissioner,,Dem,Ricardo Lara,71
+Kings,1102,Insurance Commissioner,,Dem,Ricardo Lara,52
+Kings,1103,Insurance Commissioner,,Dem,Ricardo Lara,2
+Kings,1105,Insurance Commissioner,,Dem,Ricardo Lara,48
+Kings,1106,Insurance Commissioner,,Dem,Ricardo Lara,0
+Kings,1201,Insurance Commissioner,,Dem,Ricardo Lara,0
+Kings,1202,Insurance Commissioner,,Dem,Ricardo Lara,120
+Kings,1203,Insurance Commissioner,,Dem,Ricardo Lara,14
+Kings,1204,Insurance Commissioner,,Dem,Ricardo Lara,74
+Kings,1205,Insurance Commissioner,,Dem,Ricardo Lara,79
+Kings,1206,Insurance Commissioner,,Dem,Ricardo Lara,166
+Kings,1208,Insurance Commissioner,,Dem,Ricardo Lara,4
+Kings,1212,Insurance Commissioner,,Dem,Ricardo Lara,27
+Kings,1213,Insurance Commissioner,,Dem,Ricardo Lara,1
+Kings,1214,Insurance Commissioner,,Dem,Ricardo Lara,40
+Kings,1217,Insurance Commissioner,,Dem,Ricardo Lara,1
+Kings,1301,Insurance Commissioner,,Dem,Ricardo Lara,289
+Kings,1302,Insurance Commissioner,,Dem,Ricardo Lara,10
+Kings,1303,Insurance Commissioner,,Dem,Ricardo Lara,30
+Kings,1304,Insurance Commissioner,,Dem,Ricardo Lara,47
+Kings,1305,Insurance Commissioner,,Dem,Ricardo Lara,43
+Kings,1306,Insurance Commissioner,,Dem,Ricardo Lara,1
+Kings,1307,Insurance Commissioner,,Dem,Ricardo Lara,22
+Kings,1308,Insurance Commissioner,,Dem,Ricardo Lara,3
+Kings,1309,Insurance Commissioner,,Dem,Ricardo Lara,29
+Kings,1310,Insurance Commissioner,,Dem,Ricardo Lara,31
+Kings,1311,Insurance Commissioner,,Dem,Ricardo Lara,36
+Kings,1312,Insurance Commissioner,,Dem,Ricardo Lara,128
+Kings,1313,Insurance Commissioner,,Dem,Ricardo Lara,15
+Kings,1315,Insurance Commissioner,,Dem,Ricardo Lara,1
+Kings,1316,Insurance Commissioner,,Dem,Ricardo Lara,19
+Kings,1318,Insurance Commissioner,,Dem,Ricardo Lara,0
+Kings,1319,Insurance Commissioner,,Dem,Ricardo Lara,16
+Kings,1320,Insurance Commissioner,,Dem,Ricardo Lara,53
+Kings,1401,Insurance Commissioner,,Dem,Ricardo Lara,89
+Kings,1402,Insurance Commissioner,,Dem,Ricardo Lara,126
+Kings,1403,Insurance Commissioner,,Dem,Ricardo Lara,196
+Kings,1404,Insurance Commissioner,,Dem,Ricardo Lara,152
+Kings,1405,Insurance Commissioner,,Dem,Ricardo Lara,118
+Kings,1406,Insurance Commissioner,,Dem,Ricardo Lara,10
+Kings,1407,Insurance Commissioner,,Dem,Ricardo Lara,20
+Kings,1408,Insurance Commissioner,,Dem,Ricardo Lara,26
+Kings,1409,Insurance Commissioner,,Dem,Ricardo Lara,14
+Kings,1410,Insurance Commissioner,,Dem,Ricardo Lara,100
+Kings,1411,Insurance Commissioner,,Dem,Ricardo Lara,5
+Kings,1412,Insurance Commissioner,,Dem,Ricardo Lara,104
+Kings,1413,Insurance Commissioner,,Dem,Ricardo Lara,31
+Kings,1501,Insurance Commissioner,,Dem,Ricardo Lara,3
+Kings,1502,Insurance Commissioner,,Dem,Ricardo Lara,240
+Kings,1503,Insurance Commissioner,,Dem,Ricardo Lara,155
+Kings,1504,Insurance Commissioner,,Dem,Ricardo Lara,52
+Kings,1505,Insurance Commissioner,,Dem,Ricardo Lara,110
+Kings,1506,Insurance Commissioner,,Dem,Ricardo Lara,18
+Kings,1507,Insurance Commissioner,,Dem,Ricardo Lara,132
+Kings,1508,Insurance Commissioner,,Dem,Ricardo Lara,2
+Kings,1509,Insurance Commissioner,,Dem,Ricardo Lara,12
+Kings,1510,Insurance Commissioner,,Dem,Ricardo Lara,22
+Kings,1511,Insurance Commissioner,,Dem,Ricardo Lara,11
+Kings,1512,Insurance Commissioner,,Dem,Ricardo Lara,8
+Kings,1513,Insurance Commissioner,,Dem,Ricardo Lara,3
+Kings,1514,Insurance Commissioner,,Dem,Ricardo Lara,5
+Kings,1515,Insurance Commissioner,,Dem,Ricardo Lara,95
+Kings,1518,Insurance Commissioner,,Dem,Ricardo Lara,28
+Kings,1519,Insurance Commissioner,,Dem,Ricardo Lara,10
+Kings,1520,Insurance Commissioner,,Dem,Ricardo Lara,0
+Kings,1523,Insurance Commissioner,,Dem,Ricardo Lara,2
+Kings,1525,Insurance Commissioner,,Dem,Ricardo Lara,2
+Kings,1526,Insurance Commissioner,,Dem,Ricardo Lara,29
+Kings,1527,Insurance Commissioner,,Dem,Ricardo Lara,8
+Kings,1528,Insurance Commissioner,,Dem,Ricardo Lara,35
+Kings,1531,Insurance Commissioner,,Dem,Ricardo Lara,2
+Kings,1532,Insurance Commissioner,,Dem,Ricardo Lara,71
+Kings,1533,Insurance Commissioner,,Dem,Ricardo Lara,133
+Kings,KINGS COUNTY,Insurance Commissioner,,Dem,Ricardo Lara,11528
+Kings,101,Insurance Commissioner,,NPP,Steve Poizner,714
+Kings,102,Insurance Commissioner,,NPP,Steve Poizner,436
+Kings,103,Insurance Commissioner,,NPP,Steve Poizner,778
+Kings,104,Insurance Commissioner,,NPP,Steve Poizner,86
+Kings,105,Insurance Commissioner,,NPP,Steve Poizner,54
+Kings,106,Insurance Commissioner,,NPP,Steve Poizner,420
+Kings,201,Insurance Commissioner,,NPP,Steve Poizner,278
+Kings,202,Insurance Commissioner,,NPP,Steve Poizner,279
+Kings,203,Insurance Commissioner,,NPP,Steve Poizner,242
+Kings,301,Insurance Commissioner,,NPP,Steve Poizner,1099
+Kings,302,Insurance Commissioner,,NPP,Steve Poizner,397
+Kings,303,Insurance Commissioner,,NPP,Steve Poizner,407
+Kings,304,Insurance Commissioner,,NPP,Steve Poizner,295
+Kings,305,Insurance Commissioner,,NPP,Steve Poizner,391
+Kings,306,Insurance Commissioner,,NPP,Steve Poizner,494
+Kings,401,Insurance Commissioner,,NPP,Steve Poizner,554
+Kings,402,Insurance Commissioner,,NPP,Steve Poizner,89
+Kings,403,Insurance Commissioner,,NPP,Steve Poizner,556
+Kings,404,Insurance Commissioner,,NPP,Steve Poizner,307
+Kings,405,Insurance Commissioner,,NPP,Steve Poizner,370
+Kings,501,Insurance Commissioner,,NPP,Steve Poizner,1373
+Kings,502,Insurance Commissioner,,NPP,Steve Poizner,296
+Kings,503,Insurance Commissioner,,NPP,Steve Poizner,1121
+Kings,1101,Insurance Commissioner,,NPP,Steve Poizner,106
+Kings,1102,Insurance Commissioner,,NPP,Steve Poizner,121
+Kings,1103,Insurance Commissioner,,NPP,Steve Poizner,0
+Kings,1105,Insurance Commissioner,,NPP,Steve Poizner,100
+Kings,1106,Insurance Commissioner,,NPP,Steve Poizner,1
+Kings,1201,Insurance Commissioner,,NPP,Steve Poizner,1
+Kings,1202,Insurance Commissioner,,NPP,Steve Poizner,98
+Kings,1203,Insurance Commissioner,,NPP,Steve Poizner,73
+Kings,1204,Insurance Commissioner,,NPP,Steve Poizner,108
+Kings,1205,Insurance Commissioner,,NPP,Steve Poizner,28
+Kings,1206,Insurance Commissioner,,NPP,Steve Poizner,163
+Kings,1208,Insurance Commissioner,,NPP,Steve Poizner,6
+Kings,1212,Insurance Commissioner,,NPP,Steve Poizner,16
+Kings,1213,Insurance Commissioner,,NPP,Steve Poizner,0
+Kings,1214,Insurance Commissioner,,NPP,Steve Poizner,29
+Kings,1217,Insurance Commissioner,,NPP,Steve Poizner,0
+Kings,1301,Insurance Commissioner,,NPP,Steve Poizner,483
+Kings,1302,Insurance Commissioner,,NPP,Steve Poizner,50
+Kings,1303,Insurance Commissioner,,NPP,Steve Poizner,161
+Kings,1304,Insurance Commissioner,,NPP,Steve Poizner,254
+Kings,1305,Insurance Commissioner,,NPP,Steve Poizner,160
+Kings,1306,Insurance Commissioner,,NPP,Steve Poizner,1
+Kings,1307,Insurance Commissioner,,NPP,Steve Poizner,50
+Kings,1308,Insurance Commissioner,,NPP,Steve Poizner,6
+Kings,1309,Insurance Commissioner,,NPP,Steve Poizner,116
+Kings,1310,Insurance Commissioner,,NPP,Steve Poizner,83
+Kings,1311,Insurance Commissioner,,NPP,Steve Poizner,40
+Kings,1312,Insurance Commissioner,,NPP,Steve Poizner,256
+Kings,1313,Insurance Commissioner,,NPP,Steve Poizner,12
+Kings,1315,Insurance Commissioner,,NPP,Steve Poizner,21
+Kings,1316,Insurance Commissioner,,NPP,Steve Poizner,34
+Kings,1318,Insurance Commissioner,,NPP,Steve Poizner,5
+Kings,1319,Insurance Commissioner,,NPP,Steve Poizner,30
+Kings,1320,Insurance Commissioner,,NPP,Steve Poizner,74
+Kings,1401,Insurance Commissioner,,NPP,Steve Poizner,108
+Kings,1402,Insurance Commissioner,,NPP,Steve Poizner,62
+Kings,1403,Insurance Commissioner,,NPP,Steve Poizner,106
+Kings,1404,Insurance Commissioner,,NPP,Steve Poizner,80
+Kings,1405,Insurance Commissioner,,NPP,Steve Poizner,38
+Kings,1406,Insurance Commissioner,,NPP,Steve Poizner,28
+Kings,1407,Insurance Commissioner,,NPP,Steve Poizner,16
+Kings,1408,Insurance Commissioner,,NPP,Steve Poizner,69
+Kings,1409,Insurance Commissioner,,NPP,Steve Poizner,31
+Kings,1410,Insurance Commissioner,,NPP,Steve Poizner,356
+Kings,1411,Insurance Commissioner,,NPP,Steve Poizner,7
+Kings,1412,Insurance Commissioner,,NPP,Steve Poizner,170
+Kings,1413,Insurance Commissioner,,NPP,Steve Poizner,54
+Kings,1501,Insurance Commissioner,,NPP,Steve Poizner,10
+Kings,1502,Insurance Commissioner,,NPP,Steve Poizner,139
+Kings,1503,Insurance Commissioner,,NPP,Steve Poizner,139
+Kings,1504,Insurance Commissioner,,NPP,Steve Poizner,9
+Kings,1505,Insurance Commissioner,,NPP,Steve Poizner,285
+Kings,1506,Insurance Commissioner,,NPP,Steve Poizner,31
+Kings,1507,Insurance Commissioner,,NPP,Steve Poizner,561
+Kings,1508,Insurance Commissioner,,NPP,Steve Poizner,6
+Kings,1509,Insurance Commissioner,,NPP,Steve Poizner,31
+Kings,1510,Insurance Commissioner,,NPP,Steve Poizner,88
+Kings,1511,Insurance Commissioner,,NPP,Steve Poizner,90
+Kings,1512,Insurance Commissioner,,NPP,Steve Poizner,62
+Kings,1513,Insurance Commissioner,,NPP,Steve Poizner,2
+Kings,1514,Insurance Commissioner,,NPP,Steve Poizner,2
+Kings,1515,Insurance Commissioner,,NPP,Steve Poizner,90
+Kings,1518,Insurance Commissioner,,NPP,Steve Poizner,35
+Kings,1519,Insurance Commissioner,,NPP,Steve Poizner,10
+Kings,1520,Insurance Commissioner,,NPP,Steve Poizner,8
+Kings,1523,Insurance Commissioner,,NPP,Steve Poizner,0
+Kings,1525,Insurance Commissioner,,NPP,Steve Poizner,14
+Kings,1526,Insurance Commissioner,,NPP,Steve Poizner,68
+Kings,1527,Insurance Commissioner,,NPP,Steve Poizner,9
+Kings,1528,Insurance Commissioner,,NPP,Steve Poizner,51
+Kings,1531,Insurance Commissioner,,NPP,Steve Poizner,14
+Kings,1532,Insurance Commissioner,,NPP,Steve Poizner,60
+Kings,1533,Insurance Commissioner,,NPP,Steve Poizner,107
+Kings,KINGS COUNTY,Insurance Commissioner,,NPP,Steve Poizner,16768
+Kings,101,U.S. Senate,,Dem,Dianne Feinstein,316
+Kings,102,U.S. Senate,,Dem,Dianne Feinstein,308
+Kings,103,U.S. Senate,,Dem,Dianne Feinstein,416
+Kings,104,U.S. Senate,,Dem,Dianne Feinstein,67
+Kings,105,U.S. Senate,,Dem,Dianne Feinstein,63
+Kings,106,U.S. Senate,,Dem,Dianne Feinstein,206
+Kings,201,U.S. Senate,,Dem,Dianne Feinstein,363
+Kings,202,U.S. Senate,,Dem,Dianne Feinstein,387
+Kings,203,U.S. Senate,,Dem,Dianne Feinstein,325
+Kings,301,U.S. Senate,,Dem,Dianne Feinstein,490
+Kings,302,U.S. Senate,,Dem,Dianne Feinstein,217
+Kings,303,U.S. Senate,,Dem,Dianne Feinstein,209
+Kings,304,U.S. Senate,,Dem,Dianne Feinstein,165
+Kings,305,U.S. Senate,,Dem,Dianne Feinstein,125
+Kings,306,U.S. Senate,,Dem,Dianne Feinstein,249
+Kings,401,U.S. Senate,,Dem,Dianne Feinstein,286
+Kings,402,U.S. Senate,,Dem,Dianne Feinstein,69
+Kings,403,U.S. Senate,,Dem,Dianne Feinstein,424
+Kings,404,U.S. Senate,,Dem,Dianne Feinstein,230
+Kings,405,U.S. Senate,,Dem,Dianne Feinstein,159
+Kings,501,U.S. Senate,,Dem,Dianne Feinstein,649
+Kings,502,U.S. Senate,,Dem,Dianne Feinstein,148
+Kings,503,U.S. Senate,,Dem,Dianne Feinstein,585
+Kings,1101,U.S. Senate,,Dem,Dianne Feinstein,66
+Kings,1102,U.S. Senate,,Dem,Dianne Feinstein,52
+Kings,1103,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1105,U.S. Senate,,Dem,Dianne Feinstein,43
+Kings,1106,U.S. Senate,,Dem,Dianne Feinstein,0
+Kings,1201,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1202,U.S. Senate,,Dem,Dianne Feinstein,93
+Kings,1203,U.S. Senate,,Dem,Dianne Feinstein,38
+Kings,1204,U.S. Senate,,Dem,Dianne Feinstein,61
+Kings,1205,U.S. Senate,,Dem,Dianne Feinstein,42
+Kings,1206,U.S. Senate,,Dem,Dianne Feinstein,117
+Kings,1208,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1212,U.S. Senate,,Dem,Dianne Feinstein,11
+Kings,1213,U.S. Senate,,Dem,Dianne Feinstein,0
+Kings,1214,U.S. Senate,,Dem,Dianne Feinstein,22
+Kings,1217,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1301,U.S. Senate,,Dem,Dianne Feinstein,263
+Kings,1302,U.S. Senate,,Dem,Dianne Feinstein,25
+Kings,1303,U.S. Senate,,Dem,Dianne Feinstein,55
+Kings,1304,U.S. Senate,,Dem,Dianne Feinstein,92
+Kings,1305,U.S. Senate,,Dem,Dianne Feinstein,51
+Kings,1306,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1307,U.S. Senate,,Dem,Dianne Feinstein,14
+Kings,1308,U.S. Senate,,Dem,Dianne Feinstein,5
+Kings,1309,U.S. Senate,,Dem,Dianne Feinstein,44
+Kings,1310,U.S. Senate,,Dem,Dianne Feinstein,40
+Kings,1311,U.S. Senate,,Dem,Dianne Feinstein,20
+Kings,1312,U.S. Senate,,Dem,Dianne Feinstein,127
+Kings,1313,U.S. Senate,,Dem,Dianne Feinstein,11
+Kings,1315,U.S. Senate,,Dem,Dianne Feinstein,5
+Kings,1316,U.S. Senate,,Dem,Dianne Feinstein,14
+Kings,1318,U.S. Senate,,Dem,Dianne Feinstein,0
+Kings,1319,U.S. Senate,,Dem,Dianne Feinstein,18
+Kings,1320,U.S. Senate,,Dem,Dianne Feinstein,46
+Kings,1401,U.S. Senate,,Dem,Dianne Feinstein,66
+Kings,1402,U.S. Senate,,Dem,Dianne Feinstein,71
+Kings,1403,U.S. Senate,,Dem,Dianne Feinstein,118
+Kings,1404,U.S. Senate,,Dem,Dianne Feinstein,99
+Kings,1405,U.S. Senate,,Dem,Dianne Feinstein,68
+Kings,1406,U.S. Senate,,Dem,Dianne Feinstein,12
+Kings,1407,U.S. Senate,,Dem,Dianne Feinstein,16
+Kings,1408,U.S. Senate,,Dem,Dianne Feinstein,35
+Kings,1409,U.S. Senate,,Dem,Dianne Feinstein,16
+Kings,1410,U.S. Senate,,Dem,Dianne Feinstein,121
+Kings,1411,U.S. Senate,,Dem,Dianne Feinstein,3
+Kings,1412,U.S. Senate,,Dem,Dianne Feinstein,91
+Kings,1413,U.S. Senate,,Dem,Dianne Feinstein,22
+Kings,1501,U.S. Senate,,Dem,Dianne Feinstein,7
+Kings,1502,U.S. Senate,,Dem,Dianne Feinstein,148
+Kings,1503,U.S. Senate,,Dem,Dianne Feinstein,114
+Kings,1504,U.S. Senate,,Dem,Dianne Feinstein,30
+Kings,1505,U.S. Senate,,Dem,Dianne Feinstein,118
+Kings,1506,U.S. Senate,,Dem,Dianne Feinstein,8
+Kings,1507,U.S. Senate,,Dem,Dianne Feinstein,183
+Kings,1508,U.S. Senate,,Dem,Dianne Feinstein,2
+Kings,1509,U.S. Senate,,Dem,Dianne Feinstein,14
+Kings,1510,U.S. Senate,,Dem,Dianne Feinstein,33
+Kings,1511,U.S. Senate,,Dem,Dianne Feinstein,31
+Kings,1512,U.S. Senate,,Dem,Dianne Feinstein,13
+Kings,1513,U.S. Senate,,Dem,Dianne Feinstein,0
+Kings,1514,U.S. Senate,,Dem,Dianne Feinstein,4
+Kings,1515,U.S. Senate,,Dem,Dianne Feinstein,77
+Kings,1518,U.S. Senate,,Dem,Dianne Feinstein,16
+Kings,1519,U.S. Senate,,Dem,Dianne Feinstein,12
+Kings,1520,U.S. Senate,,Dem,Dianne Feinstein,2
+Kings,1523,U.S. Senate,,Dem,Dianne Feinstein,2
+Kings,1525,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1526,U.S. Senate,,Dem,Dianne Feinstein,21
+Kings,1527,U.S. Senate,,Dem,Dianne Feinstein,11
+Kings,1528,U.S. Senate,,Dem,Dianne Feinstein,27
+Kings,1531,U.S. Senate,,Dem,Dianne Feinstein,1
+Kings,1532,U.S. Senate,,Dem,Dianne Feinstein,57
+Kings,1533,U.S. Senate,,Dem,Dianne Feinstein,93
+Kings,KINGS COUNTY,U.S. Senate,,Dem,Dianne Feinstein,9599
+Kings,101,U.S. Senate,,Dem,Kevin DeLeon,638
+Kings,102,U.S. Senate,,Dem,Kevin DeLeon,503
+Kings,103,U.S. Senate,,Dem,Kevin DeLeon,669
+Kings,104,U.S. Senate,,Dem,Kevin DeLeon,112
+Kings,105,U.S. Senate,,Dem,Kevin DeLeon,88
+Kings,106,U.S. Senate,,Dem,Kevin DeLeon,410
+Kings,201,U.S. Senate,,Dem,Kevin DeLeon,393
+Kings,202,U.S. Senate,,Dem,Kevin DeLeon,414
+Kings,203,U.S. Senate,,Dem,Kevin DeLeon,511
+Kings,301,U.S. Senate,,Dem,Kevin DeLeon,881
+Kings,302,U.S. Senate,,Dem,Kevin DeLeon,324
+Kings,303,U.S. Senate,,Dem,Kevin DeLeon,383
+Kings,304,U.S. Senate,,Dem,Kevin DeLeon,288
+Kings,305,U.S. Senate,,Dem,Kevin DeLeon,253
+Kings,306,U.S. Senate,,Dem,Kevin DeLeon,419
+Kings,401,U.S. Senate,,Dem,Kevin DeLeon,517
+Kings,402,U.S. Senate,,Dem,Kevin DeLeon,91
+Kings,403,U.S. Senate,,Dem,Kevin DeLeon,703
+Kings,404,U.S. Senate,,Dem,Kevin DeLeon,404
+Kings,405,U.S. Senate,,Dem,Kevin DeLeon,288
+Kings,501,U.S. Senate,,Dem,Kevin DeLeon,1023
+Kings,502,U.S. Senate,,Dem,Kevin DeLeon,184
+Kings,503,U.S. Senate,,Dem,Kevin DeLeon,1015
+Kings,1101,U.S. Senate,,Dem,Kevin DeLeon,95
+Kings,1102,U.S. Senate,,Dem,Kevin DeLeon,93
+Kings,1103,U.S. Senate,,Dem,Kevin DeLeon,1
+Kings,1105,U.S. Senate,,Dem,Kevin DeLeon,89
+Kings,1106,U.S. Senate,,Dem,Kevin DeLeon,1
+Kings,1201,U.S. Senate,,Dem,Kevin DeLeon,0
+Kings,1202,U.S. Senate,,Dem,Kevin DeLeon,102
+Kings,1203,U.S. Senate,,Dem,Kevin DeLeon,43
+Kings,1204,U.S. Senate,,Dem,Kevin DeLeon,103
+Kings,1205,U.S. Senate,,Dem,Kevin DeLeon,62
+Kings,1206,U.S. Senate,,Dem,Kevin DeLeon,179
+Kings,1208,U.S. Senate,,Dem,Kevin DeLeon,9
+Kings,1212,U.S. Senate,,Dem,Kevin DeLeon,32
+Kings,1213,U.S. Senate,,Dem,Kevin DeLeon,1
+Kings,1214,U.S. Senate,,Dem,Kevin DeLeon,48
+Kings,1217,U.S. Senate,,Dem,Kevin DeLeon,0
+Kings,1301,U.S. Senate,,Dem,Kevin DeLeon,418
+Kings,1302,U.S. Senate,,Dem,Kevin DeLeon,23
+Kings,1303,U.S. Senate,,Dem,Kevin DeLeon,120
+Kings,1304,U.S. Senate,,Dem,Kevin DeLeon,137
+Kings,1305,U.S. Senate,,Dem,Kevin DeLeon,107
+Kings,1306,U.S. Senate,,Dem,Kevin DeLeon,1
+Kings,1307,U.S. Senate,,Dem,Kevin DeLeon,41
+Kings,1308,U.S. Senate,,Dem,Kevin DeLeon,2
+Kings,1309,U.S. Senate,,Dem,Kevin DeLeon,84
+Kings,1310,U.S. Senate,,Dem,Kevin DeLeon,70
+Kings,1311,U.S. Senate,,Dem,Kevin DeLeon,50
+Kings,1312,U.S. Senate,,Dem,Kevin DeLeon,220
+Kings,1313,U.S. Senate,,Dem,Kevin DeLeon,17
+Kings,1315,U.S. Senate,,Dem,Kevin DeLeon,11
+Kings,1316,U.S. Senate,,Dem,Kevin DeLeon,29
+Kings,1318,U.S. Senate,,Dem,Kevin DeLeon,2
+Kings,1319,U.S. Senate,,Dem,Kevin DeLeon,25
+Kings,1320,U.S. Senate,,Dem,Kevin DeLeon,71
+Kings,1401,U.S. Senate,,Dem,Kevin DeLeon,114
+Kings,1402,U.S. Senate,,Dem,Kevin DeLeon,114
+Kings,1403,U.S. Senate,,Dem,Kevin DeLeon,172
+Kings,1404,U.S. Senate,,Dem,Kevin DeLeon,131
+Kings,1405,U.S. Senate,,Dem,Kevin DeLeon,85
+Kings,1406,U.S. Senate,,Dem,Kevin DeLeon,22
+Kings,1407,U.S. Senate,,Dem,Kevin DeLeon,20
+Kings,1408,U.S. Senate,,Dem,Kevin DeLeon,57
+Kings,1409,U.S. Senate,,Dem,Kevin DeLeon,24
+Kings,1410,U.S. Senate,,Dem,Kevin DeLeon,261
+Kings,1411,U.S. Senate,,Dem,Kevin DeLeon,5
+Kings,1412,U.S. Senate,,Dem,Kevin DeLeon,157
+Kings,1413,U.S. Senate,,Dem,Kevin DeLeon,58
+Kings,1501,U.S. Senate,,Dem,Kevin DeLeon,4
+Kings,1502,U.S. Senate,,Dem,Kevin DeLeon,215
+Kings,1503,U.S. Senate,,Dem,Kevin DeLeon,155
+Kings,1504,U.S. Senate,,Dem,Kevin DeLeon,30
+Kings,1505,U.S. Senate,,Dem,Kevin DeLeon,229
+Kings,1506,U.S. Senate,,Dem,Kevin DeLeon,36
+Kings,1507,U.S. Senate,,Dem,Kevin DeLeon,380
+Kings,1508,U.S. Senate,,Dem,Kevin DeLeon,6
+Kings,1509,U.S. Senate,,Dem,Kevin DeLeon,21
+Kings,1510,U.S. Senate,,Dem,Kevin DeLeon,56
+Kings,1511,U.S. Senate,,Dem,Kevin DeLeon,51
+Kings,1512,U.S. Senate,,Dem,Kevin DeLeon,38
+Kings,1513,U.S. Senate,,Dem,Kevin DeLeon,5
+Kings,1514,U.S. Senate,,Dem,Kevin DeLeon,2
+Kings,1515,U.S. Senate,,Dem,Kevin DeLeon,94
+Kings,1518,U.S. Senate,,Dem,Kevin DeLeon,41
+Kings,1519,U.S. Senate,,Dem,Kevin DeLeon,5
+Kings,1520,U.S. Senate,,Dem,Kevin DeLeon,6
+Kings,1523,U.S. Senate,,Dem,Kevin DeLeon,0
+Kings,1525,U.S. Senate,,Dem,Kevin DeLeon,17
+Kings,1526,U.S. Senate,,Dem,Kevin DeLeon,66
+Kings,1527,U.S. Senate,,Dem,Kevin DeLeon,5
+Kings,1528,U.S. Senate,,Dem,Kevin DeLeon,57
+Kings,1531,U.S. Senate,,Dem,Kevin DeLeon,11
+Kings,1532,U.S. Senate,,Dem,Kevin DeLeon,68
+Kings,1533,U.S. Senate,,Dem,Kevin DeLeon,133
+Kings,KINGS COUNTY,U.S. Senate,,Dem,Kevin DeLeon,15748
+Kings,101,Superintendent of Public Instruction,,None,Marshall Tuck,662
+Kings,102,Superintendent of Public Instruction,,None,Marshall Tuck,501
+Kings,103,Superintendent of Public Instruction,,None,Marshall Tuck,751
+Kings,104,Superintendent of Public Instruction,,None,Marshall Tuck,133
+Kings,105,Superintendent of Public Instruction,,None,Marshall Tuck,61
+Kings,106,Superintendent of Public Instruction,,None,Marshall Tuck,433
+Kings,201,Superintendent of Public Instruction,,None,Marshall Tuck,364
+Kings,202,Superintendent of Public Instruction,,None,Marshall Tuck,365
+Kings,203,Superintendent of Public Instruction,,None,Marshall Tuck,495
+Kings,301,Superintendent of Public Instruction,,None,Marshall Tuck,966
+Kings,302,Superintendent of Public Instruction,,None,Marshall Tuck,359
+Kings,303,Superintendent of Public Instruction,,None,Marshall Tuck,401
+Kings,304,Superintendent of Public Instruction,,None,Marshall Tuck,285
+Kings,305,Superintendent of Public Instruction,,None,Marshall Tuck,340
+Kings,306,Superintendent of Public Instruction,,None,Marshall Tuck,427
+Kings,401,Superintendent of Public Instruction,,None,Marshall Tuck,496
+Kings,402,Superintendent of Public Instruction,,None,Marshall Tuck,102
+Kings,403,Superintendent of Public Instruction,,None,Marshall Tuck,745
+Kings,404,Superintendent of Public Instruction,,None,Marshall Tuck,385
+Kings,405,Superintendent of Public Instruction,,None,Marshall Tuck,330
+Kings,501,Superintendent of Public Instruction,,None,Marshall Tuck,1236
+Kings,502,Superintendent of Public Instruction,,None,Marshall Tuck,278
+Kings,503,Superintendent of Public Instruction,,None,Marshall Tuck,1073
+Kings,1101,Superintendent of Public Instruction,,None,Marshall Tuck,83
+Kings,1102,Superintendent of Public Instruction,,None,Marshall Tuck,119
+Kings,1103,Superintendent of Public Instruction,,None,Marshall Tuck,1
+Kings,1105,Superintendent of Public Instruction,,None,Marshall Tuck,86
+Kings,1106,Superintendent of Public Instruction,,None,Marshall Tuck,1
+Kings,1201,Superintendent of Public Instruction,,None,Marshall Tuck,1
+Kings,1202,Superintendent of Public Instruction,,None,Marshall Tuck,145
+Kings,1203,Superintendent of Public Instruction,,None,Marshall Tuck,60
+Kings,1204,Superintendent of Public Instruction,,None,Marshall Tuck,116
+Kings,1205,Superintendent of Public Instruction,,None,Marshall Tuck,64
+Kings,1206,Superintendent of Public Instruction,,None,Marshall Tuck,189
+Kings,1208,Superintendent of Public Instruction,,None,Marshall Tuck,7
+Kings,1212,Superintendent of Public Instruction,,None,Marshall Tuck,14
+Kings,1213,Superintendent of Public Instruction,,None,Marshall Tuck,0
+Kings,1214,Superintendent of Public Instruction,,None,Marshall Tuck,42
+Kings,1217,Superintendent of Public Instruction,,None,Marshall Tuck,0
+Kings,1301,Superintendent of Public Instruction,,None,Marshall Tuck,459
+Kings,1302,Superintendent of Public Instruction,,None,Marshall Tuck,45
+Kings,1303,Superintendent of Public Instruction,,None,Marshall Tuck,134
+Kings,1304,Superintendent of Public Instruction,,None,Marshall Tuck,222
+Kings,1305,Superintendent of Public Instruction,,None,Marshall Tuck,130
+Kings,1306,Superintendent of Public Instruction,,None,Marshall Tuck,2
+Kings,1307,Superintendent of Public Instruction,,None,Marshall Tuck,47
+Kings,1308,Superintendent of Public Instruction,,None,Marshall Tuck,6
+Kings,1309,Superintendent of Public Instruction,,None,Marshall Tuck,108
+Kings,1310,Superintendent of Public Instruction,,None,Marshall Tuck,68
+Kings,1311,Superintendent of Public Instruction,,None,Marshall Tuck,48
+Kings,1312,Superintendent of Public Instruction,,None,Marshall Tuck,241
+Kings,1313,Superintendent of Public Instruction,,None,Marshall Tuck,14
+Kings,1315,Superintendent of Public Instruction,,None,Marshall Tuck,23
+Kings,1316,Superintendent of Public Instruction,,None,Marshall Tuck,32
+Kings,1318,Superintendent of Public Instruction,,None,Marshall Tuck,5
+Kings,1319,Superintendent of Public Instruction,,None,Marshall Tuck,36
+Kings,1320,Superintendent of Public Instruction,,None,Marshall Tuck,84
+Kings,1401,Superintendent of Public Instruction,,None,Marshall Tuck,138
+Kings,1402,Superintendent of Public Instruction,,None,Marshall Tuck,106
+Kings,1403,Superintendent of Public Instruction,,None,Marshall Tuck,168
+Kings,1404,Superintendent of Public Instruction,,None,Marshall Tuck,139
+Kings,1405,Superintendent of Public Instruction,,None,Marshall Tuck,76
+Kings,1406,Superintendent of Public Instruction,,None,Marshall Tuck,26
+Kings,1407,Superintendent of Public Instruction,,None,Marshall Tuck,19
+Kings,1408,Superintendent of Public Instruction,,None,Marshall Tuck,70
+Kings,1409,Superintendent of Public Instruction,,None,Marshall Tuck,20
+Kings,1410,Superintendent of Public Instruction,,None,Marshall Tuck,328
+Kings,1411,Superintendent of Public Instruction,,None,Marshall Tuck,5
+Kings,1412,Superintendent of Public Instruction,,None,Marshall Tuck,169
+Kings,1413,Superintendent of Public Instruction,,None,Marshall Tuck,59
+Kings,1501,Superintendent of Public Instruction,,None,Marshall Tuck,15
+Kings,1502,Superintendent of Public Instruction,,None,Marshall Tuck,213
+Kings,1503,Superintendent of Public Instruction,,None,Marshall Tuck,189
+Kings,1504,Superintendent of Public Instruction,,None,Marshall Tuck,25
+Kings,1505,Superintendent of Public Instruction,,None,Marshall Tuck,232
+Kings,1506,Superintendent of Public Instruction,,None,Marshall Tuck,30
+Kings,1507,Superintendent of Public Instruction,,None,Marshall Tuck,488
+Kings,1508,Superintendent of Public Instruction,,None,Marshall Tuck,5
+Kings,1509,Superintendent of Public Instruction,,None,Marshall Tuck,33
+Kings,1510,Superintendent of Public Instruction,,None,Marshall Tuck,71
+Kings,1511,Superintendent of Public Instruction,,None,Marshall Tuck,61
+Kings,1512,Superintendent of Public Instruction,,None,Marshall Tuck,53
+Kings,1513,Superintendent of Public Instruction,,None,Marshall Tuck,3
+Kings,1514,Superintendent of Public Instruction,,None,Marshall Tuck,3
+Kings,1515,Superintendent of Public Instruction,,None,Marshall Tuck,116
+Kings,1518,Superintendent of Public Instruction,,None,Marshall Tuck,45
+Kings,1519,Superintendent of Public Instruction,,None,Marshall Tuck,15
+Kings,1520,Superintendent of Public Instruction,,None,Marshall Tuck,6
+Kings,1523,Superintendent of Public Instruction,,None,Marshall Tuck,0
+Kings,1525,Superintendent of Public Instruction,,None,Marshall Tuck,8
+Kings,1526,Superintendent of Public Instruction,,None,Marshall Tuck,70
+Kings,1527,Superintendent of Public Instruction,,None,Marshall Tuck,7
+Kings,1528,Superintendent of Public Instruction,,None,Marshall Tuck,59
+Kings,1531,Superintendent of Public Instruction,,None,Marshall Tuck,9
+Kings,1532,Superintendent of Public Instruction,,None,Marshall Tuck,88
+Kings,1533,Superintendent of Public Instruction,,None,Marshall Tuck,142
+Kings,KINGS COUNTY,Superintendent of Public Instruction,,None,Marshall Tuck,17129
+Kings,101,Superintendent of Public Instruction,,None,Tony Thurmond,325
+Kings,102,Superintendent of Public Instruction,,None,Tony Thurmond,297
+Kings,103,Superintendent of Public Instruction,,None,Tony Thurmond,395
+Kings,104,Superintendent of Public Instruction,,None,Tony Thurmond,51
+Kings,105,Superintendent of Public Instruction,,None,Tony Thurmond,71
+Kings,106,Superintendent of Public Instruction,,None,Tony Thurmond,203
+Kings,201,Superintendent of Public Instruction,,None,Tony Thurmond,347
+Kings,202,Superintendent of Public Instruction,,None,Tony Thurmond,389
+Kings,203,Superintendent of Public Instruction,,None,Tony Thurmond,323
+Kings,301,Superintendent of Public Instruction,,None,Tony Thurmond,491
+Kings,302,Superintendent of Public Instruction,,None,Tony Thurmond,194
+Kings,303,Superintendent of Public Instruction,,None,Tony Thurmond,189
+Kings,304,Superintendent of Public Instruction,,None,Tony Thurmond,173
+Kings,305,Superintendent of Public Instruction,,None,Tony Thurmond,105
+Kings,306,Superintendent of Public Instruction,,None,Tony Thurmond,257
+Kings,401,Superintendent of Public Instruction,,None,Tony Thurmond,275
+Kings,402,Superintendent of Public Instruction,,None,Tony Thurmond,61
+Kings,403,Superintendent of Public Instruction,,None,Tony Thurmond,389
+Kings,404,Superintendent of Public Instruction,,None,Tony Thurmond,238
+Kings,405,Superintendent of Public Instruction,,None,Tony Thurmond,142
+Kings,501,Superintendent of Public Instruction,,None,Tony Thurmond,520
+Kings,502,Superintendent of Public Instruction,,None,Tony Thurmond,95
+Kings,503,Superintendent of Public Instruction,,None,Tony Thurmond,544
+Kings,1101,Superintendent of Public Instruction,,None,Tony Thurmond,66
+Kings,1102,Superintendent of Public Instruction,,None,Tony Thurmond,45
+Kings,1103,Superintendent of Public Instruction,,None,Tony Thurmond,1
+Kings,1105,Superintendent of Public Instruction,,None,Tony Thurmond,44
+Kings,1106,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1201,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1202,Superintendent of Public Instruction,,None,Tony Thurmond,56
+Kings,1203,Superintendent of Public Instruction,,None,Tony Thurmond,17
+Kings,1204,Superintendent of Public Instruction,,None,Tony Thurmond,55
+Kings,1205,Superintendent of Public Instruction,,None,Tony Thurmond,36
+Kings,1206,Superintendent of Public Instruction,,None,Tony Thurmond,112
+Kings,1208,Superintendent of Public Instruction,,None,Tony Thurmond,2
+Kings,1212,Superintendent of Public Instruction,,None,Tony Thurmond,28
+Kings,1213,Superintendent of Public Instruction,,None,Tony Thurmond,1
+Kings,1214,Superintendent of Public Instruction,,None,Tony Thurmond,20
+Kings,1217,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1301,Superintendent of Public Instruction,,None,Tony Thurmond,231
+Kings,1302,Superintendent of Public Instruction,,None,Tony Thurmond,7
+Kings,1303,Superintendent of Public Instruction,,None,Tony Thurmond,40
+Kings,1304,Superintendent of Public Instruction,,None,Tony Thurmond,43
+Kings,1305,Superintendent of Public Instruction,,None,Tony Thurmond,51
+Kings,1306,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1307,Superintendent of Public Instruction,,None,Tony Thurmond,20
+Kings,1308,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1309,Superintendent of Public Instruction,,None,Tony Thurmond,38
+Kings,1310,Superintendent of Public Instruction,,None,Tony Thurmond,26
+Kings,1311,Superintendent of Public Instruction,,None,Tony Thurmond,25
+Kings,1312,Superintendent of Public Instruction,,None,Tony Thurmond,116
+Kings,1313,Superintendent of Public Instruction,,None,Tony Thurmond,12
+Kings,1315,Superintendent of Public Instruction,,None,Tony Thurmond,1
+Kings,1316,Superintendent of Public Instruction,,None,Tony Thurmond,13
+Kings,1318,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1319,Superintendent of Public Instruction,,None,Tony Thurmond,11
+Kings,1320,Superintendent of Public Instruction,,None,Tony Thurmond,33
+Kings,1401,Superintendent of Public Instruction,,None,Tony Thurmond,54
+Kings,1402,Superintendent of Public Instruction,,None,Tony Thurmond,66
+Kings,1403,Superintendent of Public Instruction,,None,Tony Thurmond,100
+Kings,1404,Superintendent of Public Instruction,,None,Tony Thurmond,73
+Kings,1405,Superintendent of Public Instruction,,None,Tony Thurmond,73
+Kings,1406,Superintendent of Public Instruction,,None,Tony Thurmond,10
+Kings,1407,Superintendent of Public Instruction,,None,Tony Thurmond,14
+Kings,1408,Superintendent of Public Instruction,,None,Tony Thurmond,12
+Kings,1409,Superintendent of Public Instruction,,None,Tony Thurmond,18
+Kings,1410,Superintendent of Public Instruction,,None,Tony Thurmond,102
+Kings,1411,Superintendent of Public Instruction,,None,Tony Thurmond,2
+Kings,1412,Superintendent of Public Instruction,,None,Tony Thurmond,83
+Kings,1413,Superintendent of Public Instruction,,None,Tony Thurmond,21
+Kings,1501,Superintendent of Public Instruction,,None,Tony Thurmond,1
+Kings,1502,Superintendent of Public Instruction,,None,Tony Thurmond,127
+Kings,1503,Superintendent of Public Instruction,,None,Tony Thurmond,84
+Kings,1504,Superintendent of Public Instruction,,None,Tony Thurmond,31
+Kings,1505,Superintendent of Public Instruction,,None,Tony Thurmond,124
+Kings,1506,Superintendent of Public Instruction,,None,Tony Thurmond,21
+Kings,1507,Superintendent of Public Instruction,,None,Tony Thurmond,141
+Kings,1508,Superintendent of Public Instruction,,None,Tony Thurmond,3
+Kings,1509,Superintendent of Public Instruction,,None,Tony Thurmond,12
+Kings,1510,Superintendent of Public Instruction,,None,Tony Thurmond,29
+Kings,1511,Superintendent of Public Instruction,,None,Tony Thurmond,19
+Kings,1512,Superintendent of Public Instruction,,None,Tony Thurmond,9
+Kings,1513,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Kings,1514,Superintendent of Public Instruction,,None,Tony Thurmond,4
+Kings,1515,Superintendent of Public Instruction,,None,Tony Thurmond,59
+Kings,1518,Superintendent of Public Instruction,,None,Tony Thurmond,9
+Kings,1519,Superintendent of Public Instruction,,None,Tony Thurmond,6
+Kings,1520,Superintendent of Public Instruction,,None,Tony Thurmond,1
+Kings,1523,Superintendent of Public Instruction,,None,Tony Thurmond,2
+Kings,1525,Superintendent of Public Instruction,,None,Tony Thurmond,5
+Kings,1526,Superintendent of Public Instruction,,None,Tony Thurmond,25
+Kings,1527,Superintendent of Public Instruction,,None,Tony Thurmond,7
+Kings,1528,Superintendent of Public Instruction,,None,Tony Thurmond,22
+Kings,1531,Superintendent of Public Instruction,,None,Tony Thurmond,2
+Kings,1532,Superintendent of Public Instruction,,None,Tony Thurmond,41
+Kings,1533,Superintendent of Public Instruction,,None,Tony Thurmond,83
+Kings,KINGS COUNTY,Superintendent of Public Instruction,,None,Tony Thurmond,8719
+Kings,101,U.S. House,21,Dem,TJ Cox,406
+Kings,102,U.S. House,21,Dem,TJ Cox,429
+Kings,103,U.S. House,21,Dem,TJ Cox,450
+Kings,104,U.S. House,21,Dem,TJ Cox,101
+Kings,105,U.S. House,21,Dem,TJ Cox,113
+Kings,106,U.S. House,21,Dem,TJ Cox,248
+Kings,201,U.S. House,21,Dem,TJ Cox,500
+Kings,202,U.S. House,21,Dem,TJ Cox,551
+Kings,203,U.S. House,21,Dem,TJ Cox,600
+Kings,301,U.S. House,21,Dem,TJ Cox,546
+Kings,302,U.S. House,21,Dem,TJ Cox,219
+Kings,303,U.S. House,21,Dem,TJ Cox,257
+Kings,304,U.S. House,21,Dem,TJ Cox,201
+Kings,305,U.S. House,21,Dem,TJ Cox,74
+Kings,306,U.S. House,21,Dem,TJ Cox,273
+Kings,401,U.S. House,21,Dem,TJ Cox,326
+Kings,402,U.S. House,21,Dem,TJ Cox,81
+Kings,403,U.S. House,21,Dem,TJ Cox,690
+Kings,404,U.S. House,21,Dem,TJ Cox,390
+Kings,405,U.S. House,21,Dem,TJ Cox,166
+Kings,501,U.S. House,21,Dem,TJ Cox,574
+Kings,502,U.S. House,21,Dem,TJ Cox,103
+Kings,503,U.S. House,21,Dem,TJ Cox,651
+Kings,1101,U.S. House,21,Dem,TJ Cox,84
+Kings,1102,U.S. House,21,Dem,TJ Cox,48
+Kings,1103,U.S. House,21,Dem,TJ Cox,1
+Kings,1105,U.S. House,21,Dem,TJ Cox,56
+Kings,1106,U.S. House,21,Dem,TJ Cox,0
+Kings,1201,U.S. House,21,Dem,TJ Cox,0
+Kings,1202,U.S. House,21,Dem,TJ Cox,117
+Kings,1203,U.S. House,21,Dem,TJ Cox,6
+Kings,1204,U.S. House,21,Dem,TJ Cox,69
+Kings,1205,U.S. House,21,Dem,TJ Cox,72
+Kings,1206,U.S. House,21,Dem,TJ Cox,135
+Kings,1208,U.S. House,21,Dem,TJ Cox,3
+Kings,1212,U.S. House,21,Dem,TJ Cox,21
+Kings,1213,U.S. House,21,Dem,TJ Cox,1
+Kings,1214,U.S. House,21,Dem,TJ Cox,45
+Kings,1217,U.S. House,21,Dem,TJ Cox,1
+Kings,1301,U.S. House,21,Dem,TJ Cox,290
+Kings,1302,U.S. House,21,Dem,TJ Cox,7
+Kings,1303,U.S. House,21,Dem,TJ Cox,35
+Kings,1304,U.S. House,21,Dem,TJ Cox,39
+Kings,1305,U.S. House,21,Dem,TJ Cox,44
+Kings,1306,U.S. House,21,Dem,TJ Cox,1
+Kings,1307,U.S. House,21,Dem,TJ Cox,20
+Kings,1308,U.S. House,21,Dem,TJ Cox,3
+Kings,1309,U.S. House,21,Dem,TJ Cox,34
+Kings,1310,U.S. House,21,Dem,TJ Cox,31
+Kings,1311,U.S. House,21,Dem,TJ Cox,41
+Kings,1312,U.S. House,21,Dem,TJ Cox,136
+Kings,1313,U.S. House,21,Dem,TJ Cox,12
+Kings,1315,U.S. House,21,Dem,TJ Cox,0
+Kings,1316,U.S. House,21,Dem,TJ Cox,14
+Kings,1318,U.S. House,21,Dem,TJ Cox,0
+Kings,1319,U.S. House,21,Dem,TJ Cox,17
+Kings,1320,U.S. House,21,Dem,TJ Cox,53
+Kings,1401,U.S. House,21,Dem,TJ Cox,81
+Kings,1402,U.S. House,21,Dem,TJ Cox,126
+Kings,1403,U.S. House,21,Dem,TJ Cox,194
+Kings,1404,U.S. House,21,Dem,TJ Cox,152
+Kings,1405,U.S. House,21,Dem,TJ Cox,121
+Kings,1406,U.S. House,21,Dem,TJ Cox,7
+Kings,1407,U.S. House,21,Dem,TJ Cox,19
+Kings,1408,U.S. House,21,Dem,TJ Cox,19
+Kings,1409,U.S. House,21,Dem,TJ Cox,17
+Kings,1410,U.S. House,21,Dem,TJ Cox,83
+Kings,1411,U.S. House,21,Dem,TJ Cox,5
+Kings,1412,U.S. House,21,Dem,TJ Cox,120
+Kings,1413,U.S. House,21,Dem,TJ Cox,32
+Kings,1501,U.S. House,21,Dem,TJ Cox,5
+Kings,1502,U.S. House,21,Dem,TJ Cox,238
+Kings,1503,U.S. House,21,Dem,TJ Cox,143
+Kings,1504,U.S. House,21,Dem,TJ Cox,52
+Kings,1505,U.S. House,21,Dem,TJ Cox,125
+Kings,1506,U.S. House,21,Dem,TJ Cox,20
+Kings,1507,U.S. House,21,Dem,TJ Cox,115
+Kings,1508,U.S. House,21,Dem,TJ Cox,2
+Kings,1509,U.S. House,21,Dem,TJ Cox,12
+Kings,1510,U.S. House,21,Dem,TJ Cox,20
+Kings,1511,U.S. House,21,Dem,TJ Cox,17
+Kings,1512,U.S. House,21,Dem,TJ Cox,9
+Kings,1513,U.S. House,21,Dem,TJ Cox,2
+Kings,1514,U.S. House,21,Dem,TJ Cox,6
+Kings,1515,U.S. House,21,Dem,TJ Cox,92
+Kings,1518,U.S. House,21,Dem,TJ Cox,25
+Kings,1519,U.S. House,21,Dem,TJ Cox,10
+Kings,1520,U.S. House,21,Dem,TJ Cox,1
+Kings,1523,U.S. House,21,Dem,TJ Cox,0
+Kings,1525,U.S. House,21,Dem,TJ Cox,3
+Kings,1526,U.S. House,21,Dem,TJ Cox,35
+Kings,1527,U.S. House,21,Dem,TJ Cox,8
+Kings,1528,U.S. House,21,Dem,TJ Cox,39
+Kings,1531,U.S. House,21,Dem,TJ Cox,2
+Kings,1532,U.S. House,21,Dem,TJ Cox,80
+Kings,1533,U.S. House,21,Dem,TJ Cox,144
+Kings,KINGS COUNTY,U.S. House,21,Dem,TJ Cox,11566
+Kings,101,U.S. House,21,Rep,David Valadao,774
+Kings,102,U.S. House,21,Rep,David Valadao,506
+Kings,103,U.S. House,21,Rep,David Valadao,862
+Kings,104,U.S. House,21,Rep,David Valadao,112
+Kings,105,U.S. House,21,Rep,David Valadao,50
+Kings,106,U.S. House,21,Rep,David Valadao,491
+Kings,201,U.S. House,21,Rep,David Valadao,337
+Kings,202,U.S. House,21,Rep,David Valadao,318
+Kings,203,U.S. House,21,Rep,David Valadao,291
+Kings,301,U.S. House,21,Rep,David Valadao,1175
+Kings,302,U.S. House,21,Rep,David Valadao,433
+Kings,303,U.S. House,21,Rep,David Valadao,447
+Kings,304,U.S. House,21,Rep,David Valadao,334
+Kings,305,U.S. House,21,Rep,David Valadao,456
+Kings,306,U.S. House,21,Rep,David Valadao,531
+Kings,401,U.S. House,21,Rep,David Valadao,610
+Kings,402,U.S. House,21,Rep,David Valadao,101
+Kings,403,U.S. House,21,Rep,David Valadao,572
+Kings,404,U.S. House,21,Rep,David Valadao,335
+Kings,405,U.S. House,21,Rep,David Valadao,399
+Kings,501,U.S. House,21,Rep,David Valadao,1532
+Kings,502,U.S. House,21,Rep,David Valadao,332
+Kings,503,U.S. House,21,Rep,David Valadao,1231
+Kings,1101,U.S. House,21,Rep,David Valadao,104
+Kings,1102,U.S. House,21,Rep,David Valadao,148
+Kings,1103,U.S. House,21,Rep,David Valadao,1
+Kings,1105,U.S. House,21,Rep,David Valadao,105
+Kings,1106,U.S. House,21,Rep,David Valadao,1
+Kings,1201,U.S. House,21,Rep,David Valadao,1
+Kings,1202,U.S. House,21,Rep,David Valadao,107
+Kings,1203,U.S. House,21,Rep,David Valadao,88
+Kings,1204,U.S. House,21,Rep,David Valadao,124
+Kings,1205,U.S. House,21,Rep,David Valadao,37
+Kings,1206,U.S. House,21,Rep,David Valadao,221
+Kings,1208,U.S. House,21,Rep,David Valadao,10
+Kings,1212,U.S. House,21,Rep,David Valadao,24
+Kings,1213,U.S. House,21,Rep,David Valadao,0
+Kings,1214,U.S. House,21,Rep,David Valadao,28
+Kings,1217,U.S. House,21,Rep,David Valadao,0
+Kings,1301,U.S. House,21,Rep,David Valadao,523
+Kings,1302,U.S. House,21,Rep,David Valadao,55
+Kings,1303,U.S. House,21,Rep,David Valadao,181
+Kings,1304,U.S. House,21,Rep,David Valadao,307
+Kings,1305,U.S. House,21,Rep,David Valadao,186
+Kings,1306,U.S. House,21,Rep,David Valadao,1
+Kings,1307,U.S. House,21,Rep,David Valadao,60
+Kings,1308,U.S. House,21,Rep,David Valadao,8
+Kings,1309,U.S. House,21,Rep,David Valadao,141
+Kings,1310,U.S. House,21,Rep,David Valadao,92
+Kings,1311,U.S. House,21,Rep,David Valadao,35
+Kings,1312,U.S. House,21,Rep,David Valadao,268
+Kings,1313,U.S. House,21,Rep,David Valadao,17
+Kings,1315,U.S. House,21,Rep,David Valadao,25
+Kings,1316,U.S. House,21,Rep,David Valadao,45
+Kings,1318,U.S. House,21,Rep,David Valadao,5
+Kings,1319,U.S. House,21,Rep,David Valadao,36
+Kings,1320,U.S. House,21,Rep,David Valadao,84
+Kings,1401,U.S. House,21,Rep,David Valadao,131
+Kings,1402,U.S. House,21,Rep,David Valadao,69
+Kings,1403,U.S. House,21,Rep,David Valadao,115
+Kings,1404,U.S. House,21,Rep,David Valadao,86
+Kings,1405,U.S. House,21,Rep,David Valadao,45
+Kings,1406,U.S. House,21,Rep,David Valadao,34
+Kings,1407,U.S. House,21,Rep,David Valadao,16
+Kings,1408,U.S. House,21,Rep,David Valadao,83
+Kings,1409,U.S. House,21,Rep,David Valadao,32
+Kings,1410,U.S. House,21,Rep,David Valadao,419
+Kings,1411,U.S. House,21,Rep,David Valadao,7
+Kings,1412,U.S. House,21,Rep,David Valadao,177
+Kings,1413,U.S. House,21,Rep,David Valadao,63
+Kings,1501,U.S. House,21,Rep,David Valadao,14
+Kings,1502,U.S. House,21,Rep,David Valadao,147
+Kings,1503,U.S. House,21,Rep,David Valadao,167
+Kings,1504,U.S. House,21,Rep,David Valadao,11
+Kings,1505,U.S. House,21,Rep,David Valadao,319
+Kings,1506,U.S. House,21,Rep,David Valadao,39
+Kings,1507,U.S. House,21,Rep,David Valadao,654
+Kings,1508,U.S. House,21,Rep,David Valadao,6
+Kings,1509,U.S. House,21,Rep,David Valadao,37
+Kings,1510,U.S. House,21,Rep,David Valadao,100
+Kings,1511,U.S. House,21,Rep,David Valadao,89
+Kings,1512,U.S. House,21,Rep,David Valadao,64
+Kings,1513,U.S. House,21,Rep,David Valadao,3
+Kings,1514,U.S. House,21,Rep,David Valadao,1
+Kings,1515,U.S. House,21,Rep,David Valadao,101
+Kings,1518,U.S. House,21,Rep,David Valadao,39
+Kings,1519,U.S. House,21,Rep,David Valadao,12
+Kings,1520,U.S. House,21,Rep,David Valadao,8
+Kings,1523,U.S. House,21,Rep,David Valadao,2
+Kings,1525,U.S. House,21,Rep,David Valadao,15
+Kings,1526,U.S. House,21,Rep,David Valadao,71
+Kings,1527,U.S. House,21,Rep,David Valadao,10
+Kings,1528,U.S. House,21,Rep,David Valadao,59
+Kings,1531,U.S. House,21,Rep,David Valadao,14
+Kings,1532,U.S. House,21,Rep,David Valadao,57
+Kings,1533,U.S. House,21,Rep,David Valadao,112
+Kings,KINGS COUNTY,U.S. House,21,Rep,David Valadao,18725
+Kings,101,State Senate,14,Dem,Melissa Hurtado,399
+Kings,102,State Senate,14,Dem,Melissa Hurtado,454
+Kings,103,State Senate,14,Dem,Melissa Hurtado,471
+Kings,104,State Senate,14,Dem,Melissa Hurtado,101
+Kings,105,State Senate,14,Dem,Melissa Hurtado,99
+Kings,106,State Senate,14,Dem,Melissa Hurtado,257
+Kings,201,State Senate,14,Dem,Melissa Hurtado,513
+Kings,202,State Senate,14,Dem,Melissa Hurtado,570
+Kings,203,State Senate,14,Dem,Melissa Hurtado,636
+Kings,301,State Senate,14,Dem,Melissa Hurtado,534
+Kings,302,State Senate,14,Dem,Melissa Hurtado,224
+Kings,303,State Senate,14,Dem,Melissa Hurtado,282
+Kings,304,State Senate,14,Dem,Melissa Hurtado,209
+Kings,305,State Senate,14,Dem,Melissa Hurtado,79
+Kings,306,State Senate,14,Dem,Melissa Hurtado,281
+Kings,401,State Senate,14,Dem,Melissa Hurtado,350
+Kings,402,State Senate,14,Dem,Melissa Hurtado,84
+Kings,403,State Senate,14,Dem,Melissa Hurtado,686
+Kings,404,State Senate,14,Dem,Melissa Hurtado,393
+Kings,405,State Senate,14,Dem,Melissa Hurtado,171
+Kings,501,State Senate,14,Dem,Melissa Hurtado,579
+Kings,502,State Senate,14,Dem,Melissa Hurtado,109
+Kings,503,State Senate,14,Dem,Melissa Hurtado,676
+Kings,1101,State Senate,14,Dem,Melissa Hurtado,82
+Kings,1102,State Senate,14,Dem,Melissa Hurtado,49
+Kings,1103,State Senate,14,Dem,Melissa Hurtado,1
+Kings,1105,State Senate,14,Dem,Melissa Hurtado,52
+Kings,1106,State Senate,14,Dem,Melissa Hurtado,0
+Kings,1201,State Senate,14,Dem,Melissa Hurtado,0
+Kings,1202,State Senate,14,Dem,Melissa Hurtado,121
+Kings,1203,State Senate,14,Dem,Melissa Hurtado,12
+Kings,1204,State Senate,14,Dem,Melissa Hurtado,72
+Kings,1205,State Senate,14,Dem,Melissa Hurtado,71
+Kings,1206,State Senate,14,Dem,Melissa Hurtado,132
+Kings,1208,State Senate,14,Dem,Melissa Hurtado,3
+Kings,1212,State Senate,14,Dem,Melissa Hurtado,22
+Kings,1213,State Senate,14,Dem,Melissa Hurtado,1
+Kings,1214,State Senate,14,Dem,Melissa Hurtado,45
+Kings,1217,State Senate,14,Dem,Melissa Hurtado,1
+Kings,1301,State Senate,14,Dem,Melissa Hurtado,297
+Kings,1302,State Senate,14,Dem,Melissa Hurtado,12
+Kings,1303,State Senate,14,Dem,Melissa Hurtado,34
+Kings,1304,State Senate,14,Dem,Melissa Hurtado,41
+Kings,1305,State Senate,14,Dem,Melissa Hurtado,41
+Kings,1306,State Senate,14,Dem,Melissa Hurtado,1
+Kings,1307,State Senate,14,Dem,Melissa Hurtado,21
+Kings,1308,State Senate,14,Dem,Melissa Hurtado,3
+Kings,1309,State Senate,14,Dem,Melissa Hurtado,33
+Kings,1310,State Senate,14,Dem,Melissa Hurtado,34
+Kings,1311,State Senate,14,Dem,Melissa Hurtado,41
+Kings,1312,State Senate,14,Dem,Melissa Hurtado,132
+Kings,1313,State Senate,14,Dem,Melissa Hurtado,16
+Kings,1315,State Senate,14,Dem,Melissa Hurtado,0
+Kings,1316,State Senate,14,Dem,Melissa Hurtado,18
+Kings,1318,State Senate,14,Dem,Melissa Hurtado,0
+Kings,1319,State Senate,14,Dem,Melissa Hurtado,16
+Kings,1320,State Senate,14,Dem,Melissa Hurtado,53
+Kings,1401,State Senate,14,Dem,Melissa Hurtado,93
+Kings,1402,State Senate,14,Dem,Melissa Hurtado,128
+Kings,1403,State Senate,14,Dem,Melissa Hurtado,205
+Kings,1404,State Senate,14,Dem,Melissa Hurtado,158
+Kings,1405,State Senate,14,Dem,Melissa Hurtado,124
+Kings,1406,State Senate,14,Dem,Melissa Hurtado,9
+Kings,1407,State Senate,14,Dem,Melissa Hurtado,21
+Kings,1408,State Senate,14,Dem,Melissa Hurtado,26
+Kings,1409,State Senate,14,Dem,Melissa Hurtado,18
+Kings,1410,State Senate,14,Dem,Melissa Hurtado,94
+Kings,1411,State Senate,14,Dem,Melissa Hurtado,4
+Kings,1412,State Senate,14,Dem,Melissa Hurtado,124
+Kings,1413,State Senate,14,Dem,Melissa Hurtado,35
+Kings,1501,State Senate,14,Dem,Melissa Hurtado,5
+Kings,1502,State Senate,14,Dem,Melissa Hurtado,248
+Kings,1503,State Senate,14,Dem,Melissa Hurtado,157
+Kings,1504,State Senate,14,Dem,Melissa Hurtado,50
+Kings,1505,State Senate,14,Dem,Melissa Hurtado,119
+Kings,1506,State Senate,14,Dem,Melissa Hurtado,25
+Kings,1507,State Senate,14,Dem,Melissa Hurtado,124
+Kings,1508,State Senate,14,Dem,Melissa Hurtado,2
+Kings,1509,State Senate,14,Dem,Melissa Hurtado,11
+Kings,1510,State Senate,14,Dem,Melissa Hurtado,21
+Kings,1511,State Senate,14,Dem,Melissa Hurtado,11
+Kings,1512,State Senate,14,Dem,Melissa Hurtado,12
+Kings,1513,State Senate,14,Dem,Melissa Hurtado,2
+Kings,1514,State Senate,14,Dem,Melissa Hurtado,6
+Kings,1515,State Senate,14,Dem,Melissa Hurtado,95
+Kings,1518,State Senate,14,Dem,Melissa Hurtado,28
+Kings,1519,State Senate,14,Dem,Melissa Hurtado,10
+Kings,1520,State Senate,14,Dem,Melissa Hurtado,0
+Kings,1523,State Senate,14,Dem,Melissa Hurtado,2
+Kings,1525,State Senate,14,Dem,Melissa Hurtado,7
+Kings,1526,State Senate,14,Dem,Melissa Hurtado,33
+Kings,1527,State Senate,14,Dem,Melissa Hurtado,8
+Kings,1528,State Senate,14,Dem,Melissa Hurtado,34
+Kings,1531,State Senate,14,Dem,Melissa Hurtado,2
+Kings,1532,State Senate,14,Dem,Melissa Hurtado,81
+Kings,1533,State Senate,14,Dem,Melissa Hurtado,145
+Kings,KINGS COUNTY,State Senate,14,Dem,Melissa Hurtado,11891
+Kings,101,State Senate,14,Rep,Andy Vidak,781
+Kings,102,State Senate,14,Rep,Andy Vidak,477
+Kings,103,State Senate,14,Rep,Andy Vidak,839
+Kings,104,State Senate,14,Rep,Andy Vidak,112
+Kings,105,State Senate,14,Rep,Andy Vidak,63
+Kings,106,State Senate,14,Rep,Andy Vidak,479
+Kings,201,State Senate,14,Rep,Andy Vidak,316
+Kings,202,State Senate,14,Rep,Andy Vidak,297
+Kings,203,State Senate,14,Rep,Andy Vidak,254
+Kings,301,State Senate,14,Rep,Andy Vidak,1183
+Kings,302,State Senate,14,Rep,Andy Vidak,424
+Kings,303,State Senate,14,Rep,Andy Vidak,425
+Kings,304,State Senate,14,Rep,Andy Vidak,321
+Kings,305,State Senate,14,Rep,Andy Vidak,451
+Kings,306,State Senate,14,Rep,Andy Vidak,522
+Kings,401,State Senate,14,Rep,Andy Vidak,580
+Kings,402,State Senate,14,Rep,Andy Vidak,99
+Kings,403,State Senate,14,Rep,Andy Vidak,573
+Kings,404,State Senate,14,Rep,Andy Vidak,329
+Kings,405,State Senate,14,Rep,Andy Vidak,393
+Kings,501,State Senate,14,Rep,Andy Vidak,1518
+Kings,502,State Senate,14,Rep,Andy Vidak,328
+Kings,503,State Senate,14,Rep,Andy Vidak,1205
+Kings,1101,State Senate,14,Rep,Andy Vidak,104
+Kings,1102,State Senate,14,Rep,Andy Vidak,147
+Kings,1103,State Senate,14,Rep,Andy Vidak,1
+Kings,1105,State Senate,14,Rep,Andy Vidak,110
+Kings,1106,State Senate,14,Rep,Andy Vidak,1
+Kings,1201,State Senate,14,Rep,Andy Vidak,1
+Kings,1202,State Senate,14,Rep,Andy Vidak,103
+Kings,1203,State Senate,14,Rep,Andy Vidak,82
+Kings,1204,State Senate,14,Rep,Andy Vidak,122
+Kings,1205,State Senate,14,Rep,Andy Vidak,36
+Kings,1206,State Senate,14,Rep,Andy Vidak,223
+Kings,1208,State Senate,14,Rep,Andy Vidak,10
+Kings,1212,State Senate,14,Rep,Andy Vidak,23
+Kings,1213,State Senate,14,Rep,Andy Vidak,0
+Kings,1214,State Senate,14,Rep,Andy Vidak,27
+Kings,1217,State Senate,14,Rep,Andy Vidak,0
+Kings,1301,State Senate,14,Rep,Andy Vidak,514
+Kings,1302,State Senate,14,Rep,Andy Vidak,50
+Kings,1303,State Senate,14,Rep,Andy Vidak,180
+Kings,1304,State Senate,14,Rep,Andy Vidak,303
+Kings,1305,State Senate,14,Rep,Andy Vidak,188
+Kings,1306,State Senate,14,Rep,Andy Vidak,1
+Kings,1307,State Senate,14,Rep,Andy Vidak,58
+Kings,1308,State Senate,14,Rep,Andy Vidak,8
+Kings,1309,State Senate,14,Rep,Andy Vidak,141
+Kings,1310,State Senate,14,Rep,Andy Vidak,89
+Kings,1311,State Senate,14,Rep,Andy Vidak,35
+Kings,1312,State Senate,14,Rep,Andy Vidak,275
+Kings,1313,State Senate,14,Rep,Andy Vidak,13
+Kings,1315,State Senate,14,Rep,Andy Vidak,25
+Kings,1316,State Senate,14,Rep,Andy Vidak,41
+Kings,1318,State Senate,14,Rep,Andy Vidak,5
+Kings,1319,State Senate,14,Rep,Andy Vidak,36
+Kings,1320,State Senate,14,Rep,Andy Vidak,83
+Kings,1401,State Senate,14,Rep,Andy Vidak,119
+Kings,1402,State Senate,14,Rep,Andy Vidak,66
+Kings,1403,State Senate,14,Rep,Andy Vidak,103
+Kings,1404,State Senate,14,Rep,Andy Vidak,81
+Kings,1405,State Senate,14,Rep,Andy Vidak,41
+Kings,1406,State Senate,14,Rep,Andy Vidak,32
+Kings,1407,State Senate,14,Rep,Andy Vidak,14
+Kings,1408,State Senate,14,Rep,Andy Vidak,77
+Kings,1409,State Senate,14,Rep,Andy Vidak,31
+Kings,1410,State Senate,14,Rep,Andy Vidak,403
+Kings,1411,State Senate,14,Rep,Andy Vidak,8
+Kings,1412,State Senate,14,Rep,Andy Vidak,173
+Kings,1413,State Senate,14,Rep,Andy Vidak,59
+Kings,1501,State Senate,14,Rep,Andy Vidak,14
+Kings,1502,State Senate,14,Rep,Andy Vidak,141
+Kings,1503,State Senate,14,Rep,Andy Vidak,150
+Kings,1504,State Senate,14,Rep,Andy Vidak,12
+Kings,1505,State Senate,14,Rep,Andy Vidak,324
+Kings,1506,State Senate,14,Rep,Andy Vidak,34
+Kings,1507,State Senate,14,Rep,Andy Vidak,645
+Kings,1508,State Senate,14,Rep,Andy Vidak,6
+Kings,1509,State Senate,14,Rep,Andy Vidak,38
+Kings,1510,State Senate,14,Rep,Andy Vidak,98
+Kings,1511,State Senate,14,Rep,Andy Vidak,94
+Kings,1512,State Senate,14,Rep,Andy Vidak,60
+Kings,1513,State Senate,14,Rep,Andy Vidak,3
+Kings,1514,State Senate,14,Rep,Andy Vidak,1
+Kings,1515,State Senate,14,Rep,Andy Vidak,99
+Kings,1518,State Senate,14,Rep,Andy Vidak,36
+Kings,1519,State Senate,14,Rep,Andy Vidak,12
+Kings,1520,State Senate,14,Rep,Andy Vidak,9
+Kings,1523,State Senate,14,Rep,Andy Vidak,0
+Kings,1525,State Senate,14,Rep,Andy Vidak,11
+Kings,1526,State Senate,14,Rep,Andy Vidak,72
+Kings,1527,State Senate,14,Rep,Andy Vidak,7
+Kings,1528,State Senate,14,Rep,Andy Vidak,64
+Kings,1531,State Senate,14,Rep,Andy Vidak,14
+Kings,1532,State Senate,14,Rep,Andy Vidak,56
+Kings,1533,State Senate,14,Rep,Andy Vidak,108
+Kings,KINGS COUNTY,State Senate,14,Rep,Andy Vidak,18319
+Kings,101,State Assembly,32,Dem,Rudy Salas,406
+Kings,102,State Assembly,32,Dem,Rudy Salas,472
+Kings,103,State Assembly,32,Dem,Rudy Salas,490
+Kings,104,State Assembly,32,Dem,Rudy Salas,115
+Kings,105,State Assembly,32,Dem,Rudy Salas,107
+Kings,106,State Assembly,32,Dem,Rudy Salas,281
+Kings,201,State Assembly,32,Dem,Rudy Salas,551
+Kings,202,State Assembly,32,Dem,Rudy Salas,594
+Kings,203,State Assembly,32,Dem,Rudy Salas,644
+Kings,301,State Assembly,32,Dem,Rudy Salas,621
+Kings,302,State Assembly,32,Dem,Rudy Salas,241
+Kings,303,State Assembly,32,Dem,Rudy Salas,287
+Kings,304,State Assembly,32,Dem,Rudy Salas,223
+Kings,305,State Assembly,32,Dem,Rudy Salas,88
+Kings,306,State Assembly,32,Dem,Rudy Salas,299
+Kings,401,State Assembly,32,Dem,Rudy Salas,378
+Kings,402,State Assembly,32,Dem,Rudy Salas,86
+Kings,403,State Assembly,32,Dem,Rudy Salas,703
+Kings,404,State Assembly,32,Dem,Rudy Salas,406
+Kings,405,State Assembly,32,Dem,Rudy Salas,194
+Kings,501,State Assembly,32,Dem,Rudy Salas,667
+Kings,502,State Assembly,32,Dem,Rudy Salas,133
+Kings,503,State Assembly,32,Dem,Rudy Salas,713
+Kings,1101,State Assembly,32,Dem,Rudy Salas,83
+Kings,1102,State Assembly,32,Dem,Rudy Salas,62
+Kings,1103,State Assembly,32,Dem,Rudy Salas,2
+Kings,1105,State Assembly,32,Dem,Rudy Salas,61
+Kings,1106,State Assembly,32,Dem,Rudy Salas,1
+Kings,1201,State Assembly,32,Dem,Rudy Salas,0
+Kings,1202,State Assembly,32,Dem,Rudy Salas,130
+Kings,1203,State Assembly,32,Dem,Rudy Salas,13
+Kings,1204,State Assembly,32,Dem,Rudy Salas,84
+Kings,1205,State Assembly,32,Dem,Rudy Salas,81
+Kings,1206,State Assembly,32,Dem,Rudy Salas,178
+Kings,1208,State Assembly,32,Dem,Rudy Salas,3
+Kings,1212,State Assembly,32,Dem,Rudy Salas,26
+Kings,1213,State Assembly,32,Dem,Rudy Salas,1
+Kings,1214,State Assembly,32,Dem,Rudy Salas,43
+Kings,1217,State Assembly,32,Dem,Rudy Salas,1
+Kings,1301,State Assembly,32,Dem,Rudy Salas,330
+Kings,1302,State Assembly,32,Dem,Rudy Salas,12
+Kings,1303,State Assembly,32,Dem,Rudy Salas,35
+Kings,1304,State Assembly,32,Dem,Rudy Salas,50
+Kings,1305,State Assembly,32,Dem,Rudy Salas,55
+Kings,1306,State Assembly,32,Dem,Rudy Salas,1
+Kings,1307,State Assembly,32,Dem,Rudy Salas,23
+Kings,1308,State Assembly,32,Dem,Rudy Salas,3
+Kings,1309,State Assembly,32,Dem,Rudy Salas,36
+Kings,1310,State Assembly,32,Dem,Rudy Salas,34
+Kings,1311,State Assembly,32,Dem,Rudy Salas,34
+Kings,1312,State Assembly,32,Dem,Rudy Salas,160
+Kings,1313,State Assembly,32,Dem,Rudy Salas,15
+Kings,1315,State Assembly,32,Dem,Rudy Salas,1
+Kings,1316,State Assembly,32,Dem,Rudy Salas,15
+Kings,1318,State Assembly,32,Dem,Rudy Salas,0
+Kings,1319,State Assembly,32,Dem,Rudy Salas,23
+Kings,1320,State Assembly,32,Dem,Rudy Salas,58
+Kings,1401,State Assembly,32,Dem,Rudy Salas,93
+Kings,1402,State Assembly,32,Dem,Rudy Salas,122
+Kings,1403,State Assembly,32,Dem,Rudy Salas,203
+Kings,1404,State Assembly,32,Dem,Rudy Salas,152
+Kings,1405,State Assembly,32,Dem,Rudy Salas,122
+Kings,1406,State Assembly,32,Dem,Rudy Salas,8
+Kings,1407,State Assembly,32,Dem,Rudy Salas,24
+Kings,1408,State Assembly,32,Dem,Rudy Salas,32
+Kings,1409,State Assembly,32,Dem,Rudy Salas,16
+Kings,1410,State Assembly,32,Dem,Rudy Salas,97
+Kings,1411,State Assembly,32,Dem,Rudy Salas,6
+Kings,1412,State Assembly,32,Dem,Rudy Salas,129
+Kings,1413,State Assembly,32,Dem,Rudy Salas,41
+Kings,1501,State Assembly,32,Dem,Rudy Salas,5
+Kings,1502,State Assembly,32,Dem,Rudy Salas,247
+Kings,1503,State Assembly,32,Dem,Rudy Salas,159
+Kings,1504,State Assembly,32,Dem,Rudy Salas,51
+Kings,1505,State Assembly,32,Dem,Rudy Salas,129
+Kings,1506,State Assembly,32,Dem,Rudy Salas,25
+Kings,1507,State Assembly,32,Dem,Rudy Salas,132
+Kings,1508,State Assembly,32,Dem,Rudy Salas,2
+Kings,1509,State Assembly,32,Dem,Rudy Salas,15
+Kings,1510,State Assembly,32,Dem,Rudy Salas,24
+Kings,1511,State Assembly,32,Dem,Rudy Salas,20
+Kings,1512,State Assembly,32,Dem,Rudy Salas,10
+Kings,1513,State Assembly,32,Dem,Rudy Salas,2
+Kings,1514,State Assembly,32,Dem,Rudy Salas,6
+Kings,1515,State Assembly,32,Dem,Rudy Salas,92
+Kings,1518,State Assembly,32,Dem,Rudy Salas,35
+Kings,1519,State Assembly,32,Dem,Rudy Salas,11
+Kings,1520,State Assembly,32,Dem,Rudy Salas,1
+Kings,1523,State Assembly,32,Dem,Rudy Salas,2
+Kings,1525,State Assembly,32,Dem,Rudy Salas,4
+Kings,1526,State Assembly,32,Dem,Rudy Salas,35
+Kings,1527,State Assembly,32,Dem,Rudy Salas,12
+Kings,1528,State Assembly,32,Dem,Rudy Salas,35
+Kings,1531,State Assembly,32,Dem,Rudy Salas,3
+Kings,1532,State Assembly,32,Dem,Rudy Salas,80
+Kings,1533,State Assembly,32,Dem,Rudy Salas,147
+Kings,KINGS COUNTY,State Assembly,32,Dem,Rudy Salas,12682
+Kings,101,State Assembly,32,Rep,Justin Mendes,771
+Kings,102,State Assembly,32,Rep,Justin Mendes,458
+Kings,103,State Assembly,32,Rep,Justin Mendes,821
+Kings,104,State Assembly,32,Rep,Justin Mendes,98
+Kings,105,State Assembly,32,Rep,Justin Mendes,55
+Kings,106,State Assembly,32,Rep,Justin Mendes,453
+Kings,201,State Assembly,32,Rep,Justin Mendes,279
+Kings,202,State Assembly,32,Rep,Justin Mendes,273
+Kings,203,State Assembly,32,Rep,Justin Mendes,254
+Kings,301,State Assembly,32,Rep,Justin Mendes,1091
+Kings,302,State Assembly,32,Rep,Justin Mendes,408
+Kings,303,State Assembly,32,Rep,Justin Mendes,419
+Kings,304,State Assembly,32,Rep,Justin Mendes,308
+Kings,305,State Assembly,32,Rep,Justin Mendes,443
+Kings,306,State Assembly,32,Rep,Justin Mendes,500
+Kings,401,State Assembly,32,Rep,Justin Mendes,554
+Kings,402,State Assembly,32,Rep,Justin Mendes,95
+Kings,403,State Assembly,32,Rep,Justin Mendes,557
+Kings,404,State Assembly,32,Rep,Justin Mendes,314
+Kings,405,State Assembly,32,Rep,Justin Mendes,369
+Kings,501,State Assembly,32,Rep,Justin Mendes,1428
+Kings,502,State Assembly,32,Rep,Justin Mendes,302
+Kings,503,State Assembly,32,Rep,Justin Mendes,1164
+Kings,1101,State Assembly,32,Rep,Justin Mendes,103
+Kings,1102,State Assembly,32,Rep,Justin Mendes,134
+Kings,1103,State Assembly,32,Rep,Justin Mendes,0
+Kings,1105,State Assembly,32,Rep,Justin Mendes,103
+Kings,1106,State Assembly,32,Rep,Justin Mendes,0
+Kings,1201,State Assembly,32,Rep,Justin Mendes,1
+Kings,1202,State Assembly,32,Rep,Justin Mendes,96
+Kings,1203,State Assembly,32,Rep,Justin Mendes,81
+Kings,1204,State Assembly,32,Rep,Justin Mendes,108
+Kings,1205,State Assembly,32,Rep,Justin Mendes,28
+Kings,1206,State Assembly,32,Rep,Justin Mendes,180
+Kings,1208,State Assembly,32,Rep,Justin Mendes,10
+Kings,1212,State Assembly,32,Rep,Justin Mendes,19
+Kings,1213,State Assembly,32,Rep,Justin Mendes,0
+Kings,1214,State Assembly,32,Rep,Justin Mendes,33
+Kings,1217,State Assembly,32,Rep,Justin Mendes,0
+Kings,1301,State Assembly,32,Rep,Justin Mendes,481
+Kings,1302,State Assembly,32,Rep,Justin Mendes,50
+Kings,1303,State Assembly,32,Rep,Justin Mendes,179
+Kings,1304,State Assembly,32,Rep,Justin Mendes,294
+Kings,1305,State Assembly,32,Rep,Justin Mendes,172
+Kings,1306,State Assembly,32,Rep,Justin Mendes,1
+Kings,1307,State Assembly,32,Rep,Justin Mendes,57
+Kings,1308,State Assembly,32,Rep,Justin Mendes,8
+Kings,1309,State Assembly,32,Rep,Justin Mendes,136
+Kings,1310,State Assembly,32,Rep,Justin Mendes,90
+Kings,1311,State Assembly,32,Rep,Justin Mendes,42
+Kings,1312,State Assembly,32,Rep,Justin Mendes,247
+Kings,1313,State Assembly,32,Rep,Justin Mendes,14
+Kings,1315,State Assembly,32,Rep,Justin Mendes,24
+Kings,1316,State Assembly,32,Rep,Justin Mendes,43
+Kings,1318,State Assembly,32,Rep,Justin Mendes,5
+Kings,1319,State Assembly,32,Rep,Justin Mendes,30
+Kings,1320,State Assembly,32,Rep,Justin Mendes,79
+Kings,1401,State Assembly,32,Rep,Justin Mendes,116
+Kings,1402,State Assembly,32,Rep,Justin Mendes,73
+Kings,1403,State Assembly,32,Rep,Justin Mendes,105
+Kings,1404,State Assembly,32,Rep,Justin Mendes,88
+Kings,1405,State Assembly,32,Rep,Justin Mendes,45
+Kings,1406,State Assembly,32,Rep,Justin Mendes,33
+Kings,1407,State Assembly,32,Rep,Justin Mendes,12
+Kings,1408,State Assembly,32,Rep,Justin Mendes,69
+Kings,1409,State Assembly,32,Rep,Justin Mendes,31
+Kings,1410,State Assembly,32,Rep,Justin Mendes,401
+Kings,1411,State Assembly,32,Rep,Justin Mendes,6
+Kings,1412,State Assembly,32,Rep,Justin Mendes,166
+Kings,1413,State Assembly,32,Rep,Justin Mendes,53
+Kings,1501,State Assembly,32,Rep,Justin Mendes,14
+Kings,1502,State Assembly,32,Rep,Justin Mendes,141
+Kings,1503,State Assembly,32,Rep,Justin Mendes,148
+Kings,1504,State Assembly,32,Rep,Justin Mendes,11
+Kings,1505,State Assembly,32,Rep,Justin Mendes,314
+Kings,1506,State Assembly,32,Rep,Justin Mendes,34
+Kings,1507,State Assembly,32,Rep,Justin Mendes,634
+Kings,1508,State Assembly,32,Rep,Justin Mendes,6
+Kings,1509,State Assembly,32,Rep,Justin Mendes,34
+Kings,1510,State Assembly,32,Rep,Justin Mendes,95
+Kings,1511,State Assembly,32,Rep,Justin Mendes,85
+Kings,1512,State Assembly,32,Rep,Justin Mendes,62
+Kings,1513,State Assembly,32,Rep,Justin Mendes,3
+Kings,1514,State Assembly,32,Rep,Justin Mendes,1
+Kings,1515,State Assembly,32,Rep,Justin Mendes,106
+Kings,1518,State Assembly,32,Rep,Justin Mendes,29
+Kings,1519,State Assembly,32,Rep,Justin Mendes,11
+Kings,1520,State Assembly,32,Rep,Justin Mendes,8
+Kings,1523,State Assembly,32,Rep,Justin Mendes,0
+Kings,1525,State Assembly,32,Rep,Justin Mendes,14
+Kings,1526,State Assembly,32,Rep,Justin Mendes,70
+Kings,1527,State Assembly,32,Rep,Justin Mendes,6
+Kings,1528,State Assembly,32,Rep,Justin Mendes,63
+Kings,1531,State Assembly,32,Rep,Justin Mendes,13
+Kings,1532,State Assembly,32,Rep,Justin Mendes,57
+Kings,1533,State Assembly,32,Rep,Justin Mendes,108
+Kings,KINGS COUNTY,State Assembly,32,Rep,Justin Mendes,17527

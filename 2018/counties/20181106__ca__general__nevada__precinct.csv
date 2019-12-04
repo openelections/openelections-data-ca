@@ -1,0 +1,1345 @@
+county,precinct,office,district,party,candidate,votes
+Nevada,CP01,Governor,,Rep,John Cox,75
+Nevada,CP02,Governor,,Rep,John Cox,162
+Nevada,CP03,Governor,,Rep,John Cox,4
+Nevada,CP04,Governor,,Rep,John Cox,33
+Nevada,CP05,Governor,,Rep,John Cox,464
+Nevada,CP06,Governor,,Rep,John Cox,1411
+Nevada,CP07,Governor,,Rep,John Cox,520
+Nevada,CP08,Governor,,Rep,John Cox,370
+Nevada,CP09,Governor,,Rep,John Cox,703
+Nevada,CP10,Governor,,Rep,John Cox,1447
+Nevada,CP11,Governor,,Rep,John Cox,172
+Nevada,CP12,Governor,,Rep,John Cox,51
+Nevada,CP13,Governor,,Rep,John Cox,56
+Nevada,CP14,Governor,,Rep,John Cox,266
+Nevada,CP15,Governor,,Rep,John Cox,1044
+Nevada,CP16,Governor,,Rep,John Cox,1613
+Nevada,CP17,Governor,,Rep,John Cox,787
+Nevada,CP18,Governor,,Rep,John Cox,237
+Nevada,CP19,Governor,,Rep,John Cox,1337
+Nevada,CP20,Governor,,Rep,John Cox,535
+Nevada,CP21,Governor,,Rep,John Cox,786
+Nevada,CP22,Governor,,Rep,John Cox,329
+Nevada,CP23,Governor,,Rep,John Cox,122
+Nevada,CP24,Governor,,Rep,John Cox,1079
+Nevada,CP25,Governor,,Rep,John Cox,843
+Nevada,CP26,Governor,,Rep,John Cox,767
+Nevada,CP27,Governor,,Rep,John Cox,37
+Nevada,CP28,Governor,,Rep,John Cox,13
+Nevada,CP30 GV,Governor,,Rep,John Cox,577
+Nevada,CP31,Governor,,Rep,John Cox,15
+Nevada,CP32 GV,Governor,,Rep,John Cox,76
+Nevada,CP33 GV,Governor,,Rep,John Cox,689
+Nevada,CP34 GV,Governor,,Rep,John Cox,76
+Nevada,CP35,Governor,,Rep,John Cox,25
+Nevada,CP36,Governor,,Rep,John Cox,200
+Nevada,CP37,Governor,,Rep,John Cox,77
+Nevada,CP38,Governor,,Rep,John Cox,297
+Nevada,CP39,Governor,,Rep,John Cox,355
+Nevada,CP40,Governor,,Rep,John Cox,981
+Nevada,CP41,Governor,,Rep,John Cox,579
+Nevada,CP42,Governor,,Rep,John Cox,428
+Nevada,CP43,Governor,,Rep,John Cox,24
+Nevada,CP44,Governor,,Rep,John Cox,620
+Nevada,CP45,Governor,,Rep,John Cox,819
+Nevada,CP46,Governor,,Rep,John Cox,925
+Nevada,CP47,Governor,,Rep,John Cox,3
+Nevada,CP48,Governor,,Rep,John Cox,130
+Nevada,CP50,Governor,,Rep,John Cox,401
+Nevada,CP51,Governor,,Rep,John Cox,1
+Nevada,CP52,Governor,,Rep,John Cox,80
+Nevada,CP53,Governor,,Rep,John Cox,47
+Nevada,CP55,Governor,,Rep,John Cox,21
+Nevada,CP56 TR,Governor,,Rep,John Cox,266
+Nevada,CP57 TR,Governor,,Rep,John Cox,431
+Nevada,CP58,Governor,,Rep,John Cox,1
+Nevada,CP60 TR,Governor,,Rep,John Cox,496
+Nevada,CP61 TR,Governor,,Rep,John Cox,300
+Nevada,CP62 TR,Governor,,Rep,John Cox,257
+Nevada,CP64 TR,Governor,,Rep,John Cox,415
+Nevada,CP67 TR,Governor,,Rep,John Cox,7
+Nevada,NEVADA CA,Governor,,Rep,John Cox,24882
+Nevada,CP01,Governor,,Dem,Gavin Newsom,50
+Nevada,CP02,Governor,,Dem,Gavin Newsom,173
+Nevada,CP03,Governor,,Dem,Gavin Newsom,0
+Nevada,CP04,Governor,,Dem,Gavin Newsom,30
+Nevada,CP05,Governor,,Dem,Gavin Newsom,440
+Nevada,CP06,Governor,,Dem,Gavin Newsom,951
+Nevada,CP07,Governor,,Dem,Gavin Newsom,423
+Nevada,CP08,Governor,,Dem,Gavin Newsom,282
+Nevada,CP09,Governor,,Dem,Gavin Newsom,545
+Nevada,CP10,Governor,,Dem,Gavin Newsom,1107
+Nevada,CP11,Governor,,Dem,Gavin Newsom,201
+Nevada,CP12,Governor,,Dem,Gavin Newsom,83
+Nevada,CP13,Governor,,Dem,Gavin Newsom,50
+Nevada,CP14,Governor,,Dem,Gavin Newsom,879
+Nevada,CP15,Governor,,Dem,Gavin Newsom,555
+Nevada,CP16,Governor,,Dem,Gavin Newsom,865
+Nevada,CP17,Governor,,Dem,Gavin Newsom,424
+Nevada,CP18,Governor,,Dem,Gavin Newsom,164
+Nevada,CP19,Governor,,Dem,Gavin Newsom,1017
+Nevada,CP20,Governor,,Dem,Gavin Newsom,350
+Nevada,CP21,Governor,,Dem,Gavin Newsom,607
+Nevada,CP22,Governor,,Dem,Gavin Newsom,286
+Nevada,CP23,Governor,,Dem,Gavin Newsom,108
+Nevada,CP24,Governor,,Dem,Gavin Newsom,798
+Nevada,CP25,Governor,,Dem,Gavin Newsom,937
+Nevada,CP26,Governor,,Dem,Gavin Newsom,906
+Nevada,CP27,Governor,,Dem,Gavin Newsom,76
+Nevada,CP28,Governor,,Dem,Gavin Newsom,17
+Nevada,CP30 GV,Governor,,Dem,Gavin Newsom,990
+Nevada,CP31,Governor,,Dem,Gavin Newsom,19
+Nevada,CP32 GV,Governor,,Dem,Gavin Newsom,69
+Nevada,CP33 GV,Governor,,Dem,Gavin Newsom,768
+Nevada,CP34 GV,Governor,,Dem,Gavin Newsom,86
+Nevada,CP35,Governor,,Dem,Gavin Newsom,46
+Nevada,CP36,Governor,,Dem,Gavin Newsom,225
+Nevada,CP37,Governor,,Dem,Gavin Newsom,66
+Nevada,CP38,Governor,,Dem,Gavin Newsom,307
+Nevada,CP39,Governor,,Dem,Gavin Newsom,316
+Nevada,CP40,Governor,,Dem,Gavin Newsom,817
+Nevada,CP41,Governor,,Dem,Gavin Newsom,523
+Nevada,CP42,Governor,,Dem,Gavin Newsom,582
+Nevada,CP43,Governor,,Dem,Gavin Newsom,45
+Nevada,CP44,Governor,,Dem,Gavin Newsom,1634
+Nevada,CP45,Governor,,Dem,Gavin Newsom,1522
+Nevada,CP46,Governor,,Dem,Gavin Newsom,1336
+Nevada,CP47,Governor,,Dem,Gavin Newsom,0
+Nevada,CP48,Governor,,Dem,Gavin Newsom,153
+Nevada,CP50,Governor,,Dem,Gavin Newsom,534
+Nevada,CP51,Governor,,Dem,Gavin Newsom,1
+Nevada,CP52,Governor,,Dem,Gavin Newsom,130
+Nevada,CP53,Governor,,Dem,Gavin Newsom,50
+Nevada,CP55,Governor,,Dem,Gavin Newsom,12
+Nevada,CP56 TR,Governor,,Dem,Gavin Newsom,671
+Nevada,CP57 TR,Governor,,Dem,Gavin Newsom,1138
+Nevada,CP58,Governor,,Dem,Gavin Newsom,0
+Nevada,CP60 TR,Governor,,Dem,Gavin Newsom,1315
+Nevada,CP61 TR,Governor,,Dem,Gavin Newsom,807
+Nevada,CP62 TR,Governor,,Dem,Gavin Newsom,528
+Nevada,CP64 TR,Governor,,Dem,Gavin Newsom,953
+Nevada,CP67 TR,Governor,,Dem,Gavin Newsom,18
+Nevada,NEVADA CA,Governor,,Dem,Gavin Newsom,27985
+Nevada,CP01,Lieutenant Governor,,Dem,Ed Hernandez,30
+Nevada,CP02,Lieutenant Governor,,Dem,Ed Hernandez,84
+Nevada,CP03,Lieutenant Governor,,Dem,Ed Hernandez,2
+Nevada,CP04,Lieutenant Governor,,Dem,Ed Hernandez,12
+Nevada,CP05,Lieutenant Governor,,Dem,Ed Hernandez,239
+Nevada,CP06,Lieutenant Governor,,Dem,Ed Hernandez,649
+Nevada,CP07,Lieutenant Governor,,Dem,Ed Hernandez,266
+Nevada,CP08,Lieutenant Governor,,Dem,Ed Hernandez,157
+Nevada,CP09,Lieutenant Governor,,Dem,Ed Hernandez,330
+Nevada,CP10,Lieutenant Governor,,Dem,Ed Hernandez,635
+Nevada,CP11,Lieutenant Governor,,Dem,Ed Hernandez,101
+Nevada,CP12,Lieutenant Governor,,Dem,Ed Hernandez,32
+Nevada,CP13,Lieutenant Governor,,Dem,Ed Hernandez,23
+Nevada,CP14,Lieutenant Governor,,Dem,Ed Hernandez,296
+Nevada,CP15,Lieutenant Governor,,Dem,Ed Hernandez,420
+Nevada,CP16,Lieutenant Governor,,Dem,Ed Hernandez,624
+Nevada,CP17,Lieutenant Governor,,Dem,Ed Hernandez,312
+Nevada,CP18,Lieutenant Governor,,Dem,Ed Hernandez,117
+Nevada,CP19,Lieutenant Governor,,Dem,Ed Hernandez,585
+Nevada,CP20,Lieutenant Governor,,Dem,Ed Hernandez,255
+Nevada,CP21,Lieutenant Governor,,Dem,Ed Hernandez,359
+Nevada,CP22,Lieutenant Governor,,Dem,Ed Hernandez,163
+Nevada,CP23,Lieutenant Governor,,Dem,Ed Hernandez,57
+Nevada,CP24,Lieutenant Governor,,Dem,Ed Hernandez,492
+Nevada,CP25,Lieutenant Governor,,Dem,Ed Hernandez,440
+Nevada,CP26,Lieutenant Governor,,Dem,Ed Hernandez,430
+Nevada,CP27,Lieutenant Governor,,Dem,Ed Hernandez,24
+Nevada,CP28,Lieutenant Governor,,Dem,Ed Hernandez,3
+Nevada,CP30 GV,Lieutenant Governor,,Dem,Ed Hernandez,378
+Nevada,CP31,Lieutenant Governor,,Dem,Ed Hernandez,16
+Nevada,CP32 GV,Lieutenant Governor,,Dem,Ed Hernandez,39
+Nevada,CP33 GV,Lieutenant Governor,,Dem,Ed Hernandez,392
+Nevada,CP34 GV,Lieutenant Governor,,Dem,Ed Hernandez,35
+Nevada,CP35,Lieutenant Governor,,Dem,Ed Hernandez,18
+Nevada,CP36,Lieutenant Governor,,Dem,Ed Hernandez,126
+Nevada,CP37,Lieutenant Governor,,Dem,Ed Hernandez,28
+Nevada,CP38,Lieutenant Governor,,Dem,Ed Hernandez,144
+Nevada,CP39,Lieutenant Governor,,Dem,Ed Hernandez,171
+Nevada,CP40,Lieutenant Governor,,Dem,Ed Hernandez,428
+Nevada,CP41,Lieutenant Governor,,Dem,Ed Hernandez,240
+Nevada,CP42,Lieutenant Governor,,Dem,Ed Hernandez,248
+Nevada,CP43,Lieutenant Governor,,Dem,Ed Hernandez,9
+Nevada,CP44,Lieutenant Governor,,Dem,Ed Hernandez,513
+Nevada,CP45,Lieutenant Governor,,Dem,Ed Hernandez,614
+Nevada,CP46,Lieutenant Governor,,Dem,Ed Hernandez,556
+Nevada,CP47,Lieutenant Governor,,Dem,Ed Hernandez,3
+Nevada,CP48,Lieutenant Governor,,Dem,Ed Hernandez,61
+Nevada,CP50,Lieutenant Governor,,Dem,Ed Hernandez,233
+Nevada,CP51,Lieutenant Governor,,Dem,Ed Hernandez,0
+Nevada,CP52,Lieutenant Governor,,Dem,Ed Hernandez,62
+Nevada,CP53,Lieutenant Governor,,Dem,Ed Hernandez,35
+Nevada,CP55,Lieutenant Governor,,Dem,Ed Hernandez,8
+Nevada,CP56 TR,Lieutenant Governor,,Dem,Ed Hernandez,237
+Nevada,CP57 TR,Lieutenant Governor,,Dem,Ed Hernandez,408
+Nevada,CP58,Lieutenant Governor,,Dem,Ed Hernandez,1
+Nevada,CP60 TR,Lieutenant Governor,,Dem,Ed Hernandez,462
+Nevada,CP61 TR,Lieutenant Governor,,Dem,Ed Hernandez,324
+Nevada,CP62 TR,Lieutenant Governor,,Dem,Ed Hernandez,220
+Nevada,CP64 TR,Lieutenant Governor,,Dem,Ed Hernandez,341
+Nevada,CP67 TR,Lieutenant Governor,,Dem,Ed Hernandez,8
+Nevada,NEVADA CA,Lieutenant Governor,,Dem,Ed Hernandez,13495
+Nevada,CP01,Lieutenant Governor,,Dem,Eleni Kounalakis,70
+Nevada,CP02,Lieutenant Governor,,Dem,Eleni Kounalakis,167
+Nevada,CP03,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Nevada,CP04,Lieutenant Governor,,Dem,Eleni Kounalakis,37
+Nevada,CP05,Lieutenant Governor,,Dem,Eleni Kounalakis,450
+Nevada,CP06,Lieutenant Governor,,Dem,Eleni Kounalakis,1100
+Nevada,CP07,Lieutenant Governor,,Dem,Eleni Kounalakis,462
+Nevada,CP08,Lieutenant Governor,,Dem,Eleni Kounalakis,325
+Nevada,CP09,Lieutenant Governor,,Dem,Eleni Kounalakis,614
+Nevada,CP10,Lieutenant Governor,,Dem,Eleni Kounalakis,1246
+Nevada,CP11,Lieutenant Governor,,Dem,Eleni Kounalakis,199
+Nevada,CP12,Lieutenant Governor,,Dem,Eleni Kounalakis,68
+Nevada,CP13,Lieutenant Governor,,Dem,Eleni Kounalakis,59
+Nevada,CP14,Lieutenant Governor,,Dem,Eleni Kounalakis,732
+Nevada,CP15,Lieutenant Governor,,Dem,Eleni Kounalakis,706
+Nevada,CP16,Lieutenant Governor,,Dem,Eleni Kounalakis,1161
+Nevada,CP17,Lieutenant Governor,,Dem,Eleni Kounalakis,586
+Nevada,CP18,Lieutenant Governor,,Dem,Eleni Kounalakis,197
+Nevada,CP19,Lieutenant Governor,,Dem,Eleni Kounalakis,1168
+Nevada,CP20,Lieutenant Governor,,Dem,Eleni Kounalakis,442
+Nevada,CP21,Lieutenant Governor,,Dem,Eleni Kounalakis,731
+Nevada,CP22,Lieutenant Governor,,Dem,Eleni Kounalakis,302
+Nevada,CP23,Lieutenant Governor,,Dem,Eleni Kounalakis,113
+Nevada,CP24,Lieutenant Governor,,Dem,Eleni Kounalakis,931
+Nevada,CP25,Lieutenant Governor,,Dem,Eleni Kounalakis,958
+Nevada,CP26,Lieutenant Governor,,Dem,Eleni Kounalakis,920
+Nevada,CP27,Lieutenant Governor,,Dem,Eleni Kounalakis,73
+Nevada,CP28,Lieutenant Governor,,Dem,Eleni Kounalakis,18
+Nevada,CP30 GV,Lieutenant Governor,,Dem,Eleni Kounalakis,906
+Nevada,CP31,Lieutenant Governor,,Dem,Eleni Kounalakis,13
+Nevada,CP32 GV,Lieutenant Governor,,Dem,Eleni Kounalakis,75
+Nevada,CP33 GV,Lieutenant Governor,,Dem,Eleni Kounalakis,801
+Nevada,CP34 GV,Lieutenant Governor,,Dem,Eleni Kounalakis,93
+Nevada,CP35,Lieutenant Governor,,Dem,Eleni Kounalakis,47
+Nevada,CP36,Lieutenant Governor,,Dem,Eleni Kounalakis,190
+Nevada,CP37,Lieutenant Governor,,Dem,Eleni Kounalakis,77
+Nevada,CP38,Lieutenant Governor,,Dem,Eleni Kounalakis,313
+Nevada,CP39,Lieutenant Governor,,Dem,Eleni Kounalakis,337
+Nevada,CP40,Lieutenant Governor,,Dem,Eleni Kounalakis,954
+Nevada,CP41,Lieutenant Governor,,Dem,Eleni Kounalakis,573
+Nevada,CP42,Lieutenant Governor,,Dem,Eleni Kounalakis,561
+Nevada,CP43,Lieutenant Governor,,Dem,Eleni Kounalakis,47
+Nevada,CP44,Lieutenant Governor,,Dem,Eleni Kounalakis,1436
+Nevada,CP45,Lieutenant Governor,,Dem,Eleni Kounalakis,1327
+Nevada,CP46,Lieutenant Governor,,Dem,Eleni Kounalakis,1255
+Nevada,CP47,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Nevada,CP48,Lieutenant Governor,,Dem,Eleni Kounalakis,158
+Nevada,CP50,Lieutenant Governor,,Dem,Eleni Kounalakis,551
+Nevada,CP51,Lieutenant Governor,,Dem,Eleni Kounalakis,1
+Nevada,CP52,Lieutenant Governor,,Dem,Eleni Kounalakis,118
+Nevada,CP53,Lieutenant Governor,,Dem,Eleni Kounalakis,55
+Nevada,CP55,Lieutenant Governor,,Dem,Eleni Kounalakis,14
+Nevada,CP56 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,564
+Nevada,CP57 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,958
+Nevada,CP58,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Nevada,CP60 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,1097
+Nevada,CP61 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,660
+Nevada,CP62 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,440
+Nevada,CP64 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,815
+Nevada,CP67 TR,Lieutenant Governor,,Dem,Eleni Kounalakis,12
+Nevada,NEVADA CA,Lieutenant Governor,,Dem,Eleni Kounalakis,28283
+Nevada,CP01,Secretary of State,,Dem,Alex Padilla,59
+Nevada,CP02,Secretary of State,,Dem,Alex Padilla,183
+Nevada,CP03,Secretary of State,,Dem,Alex Padilla,1
+Nevada,CP04,Secretary of State,,Dem,Alex Padilla,34
+Nevada,CP05,Secretary of State,,Dem,Alex Padilla,464
+Nevada,CP06,Secretary of State,,Dem,Alex Padilla,1039
+Nevada,CP07,Secretary of State,,Dem,Alex Padilla,452
+Nevada,CP08,Secretary of State,,Dem,Alex Padilla,306
+Nevada,CP09,Secretary of State,,Dem,Alex Padilla,585
+Nevada,CP10,Secretary of State,,Dem,Alex Padilla,1204
+Nevada,CP11,Secretary of State,,Dem,Alex Padilla,205
+Nevada,CP12,Secretary of State,,Dem,Alex Padilla,86
+Nevada,CP13,Secretary of State,,Dem,Alex Padilla,52
+Nevada,CP14,Secretary of State,,Dem,Alex Padilla,919
+Nevada,CP15,Secretary of State,,Dem,Alex Padilla,604
+Nevada,CP16,Secretary of State,,Dem,Alex Padilla,943
+Nevada,CP17,Secretary of State,,Dem,Alex Padilla,479
+Nevada,CP18,Secretary of State,,Dem,Alex Padilla,178
+Nevada,CP19,Secretary of State,,Dem,Alex Padilla,1094
+Nevada,CP20,Secretary of State,,Dem,Alex Padilla,392
+Nevada,CP21,Secretary of State,,Dem,Alex Padilla,662
+Nevada,CP22,Secretary of State,,Dem,Alex Padilla,301
+Nevada,CP23,Secretary of State,,Dem,Alex Padilla,117
+Nevada,CP24,Secretary of State,,Dem,Alex Padilla,881
+Nevada,CP25,Secretary of State,,Dem,Alex Padilla,990
+Nevada,CP26,Secretary of State,,Dem,Alex Padilla,954
+Nevada,CP27,Secretary of State,,Dem,Alex Padilla,79
+Nevada,CP28,Secretary of State,,Dem,Alex Padilla,16
+Nevada,CP30 GV,Secretary of State,,Dem,Alex Padilla,1032
+Nevada,CP31,Secretary of State,,Dem,Alex Padilla,21
+Nevada,CP32 GV,Secretary of State,,Dem,Alex Padilla,76
+Nevada,CP33 GV,Secretary of State,,Dem,Alex Padilla,823
+Nevada,CP34 GV,Secretary of State,,Dem,Alex Padilla,87
+Nevada,CP35,Secretary of State,,Dem,Alex Padilla,50
+Nevada,CP36,Secretary of State,,Dem,Alex Padilla,233
+Nevada,CP37,Secretary of State,,Dem,Alex Padilla,72
+Nevada,CP38,Secretary of State,,Dem,Alex Padilla,324
+Nevada,CP39,Secretary of State,,Dem,Alex Padilla,334
+Nevada,CP40,Secretary of State,,Dem,Alex Padilla,883
+Nevada,CP41,Secretary of State,,Dem,Alex Padilla,558
+Nevada,CP42,Secretary of State,,Dem,Alex Padilla,604
+Nevada,CP43,Secretary of State,,Dem,Alex Padilla,46
+Nevada,CP44,Secretary of State,,Dem,Alex Padilla,1681
+Nevada,CP45,Secretary of State,,Dem,Alex Padilla,1568
+Nevada,CP46,Secretary of State,,Dem,Alex Padilla,1394
+Nevada,CP47,Secretary of State,,Dem,Alex Padilla,0
+Nevada,CP48,Secretary of State,,Dem,Alex Padilla,159
+Nevada,CP50,Secretary of State,,Dem,Alex Padilla,567
+Nevada,CP51,Secretary of State,,Dem,Alex Padilla,1
+Nevada,CP52,Secretary of State,,Dem,Alex Padilla,132
+Nevada,CP53,Secretary of State,,Dem,Alex Padilla,52
+Nevada,CP55,Secretary of State,,Dem,Alex Padilla,12
+Nevada,CP56 TR,Secretary of State,,Dem,Alex Padilla,672
+Nevada,CP57 TR,Secretary of State,,Dem,Alex Padilla,1165
+Nevada,CP58,Secretary of State,,Dem,Alex Padilla,0
+Nevada,CP60 TR,Secretary of State,,Dem,Alex Padilla,1321
+Nevada,CP61 TR,Secretary of State,,Dem,Alex Padilla,844
+Nevada,CP62 TR,Secretary of State,,Dem,Alex Padilla,533
+Nevada,CP64 TR,Secretary of State,,Dem,Alex Padilla,959
+Nevada,CP67 TR,Secretary of State,,Dem,Alex Padilla,19
+Nevada,NEVADA CA,Secretary of State,,Dem,Alex Padilla,29501
+Nevada,CP01,Secretary of State,,Rep,Mark Meuser,68
+Nevada,CP02,Secretary of State,,Rep,Mark Meuser,155
+Nevada,CP03,Secretary of State,,Rep,Mark Meuser,3
+Nevada,CP04,Secretary of State,,Rep,Mark Meuser,31
+Nevada,CP05,Secretary of State,,Rep,Mark Meuser,451
+Nevada,CP06,Secretary of State,,Rep,Mark Meuser,1359
+Nevada,CP07,Secretary of State,,Rep,Mark Meuser,497
+Nevada,CP08,Secretary of State,,Rep,Mark Meuser,344
+Nevada,CP09,Secretary of State,,Rep,Mark Meuser,676
+Nevada,CP10,Secretary of State,,Rep,Mark Meuser,1386
+Nevada,CP11,Secretary of State,,Rep,Mark Meuser,170
+Nevada,CP12,Secretary of State,,Rep,Mark Meuser,48
+Nevada,CP13,Secretary of State,,Rep,Mark Meuser,54
+Nevada,CP14,Secretary of State,,Rep,Mark Meuser,260
+Nevada,CP15,Secretary of State,,Rep,Mark Meuser,1010
+Nevada,CP16,Secretary of State,,Rep,Mark Meuser,1573
+Nevada,CP17,Secretary of State,,Rep,Mark Meuser,755
+Nevada,CP18,Secretary of State,,Rep,Mark Meuser,237
+Nevada,CP19,Secretary of State,,Rep,Mark Meuser,1304
+Nevada,CP20,Secretary of State,,Rep,Mark Meuser,505
+Nevada,CP21,Secretary of State,,Rep,Mark Meuser,753
+Nevada,CP22,Secretary of State,,Rep,Mark Meuser,305
+Nevada,CP23,Secretary of State,,Rep,Mark Meuser,117
+Nevada,CP24,Secretary of State,,Rep,Mark Meuser,1019
+Nevada,CP25,Secretary of State,,Rep,Mark Meuser,795
+Nevada,CP26,Secretary of State,,Rep,Mark Meuser,728
+Nevada,CP27,Secretary of State,,Rep,Mark Meuser,36
+Nevada,CP28,Secretary of State,,Rep,Mark Meuser,12
+Nevada,CP30 GV,Secretary of State,,Rep,Mark Meuser,547
+Nevada,CP31,Secretary of State,,Rep,Mark Meuser,13
+Nevada,CP32 GV,Secretary of State,,Rep,Mark Meuser,73
+Nevada,CP33 GV,Secretary of State,,Rep,Mark Meuser,651
+Nevada,CP34 GV,Secretary of State,,Rep,Mark Meuser,74
+Nevada,CP35,Secretary of State,,Rep,Mark Meuser,22
+Nevada,CP36,Secretary of State,,Rep,Mark Meuser,190
+Nevada,CP37,Secretary of State,,Rep,Mark Meuser,71
+Nevada,CP38,Secretary of State,,Rep,Mark Meuser,292
+Nevada,CP39,Secretary of State,,Rep,Mark Meuser,327
+Nevada,CP40,Secretary of State,,Rep,Mark Meuser,943
+Nevada,CP41,Secretary of State,,Rep,Mark Meuser,562
+Nevada,CP42,Secretary of State,,Rep,Mark Meuser,409
+Nevada,CP43,Secretary of State,,Rep,Mark Meuser,25
+Nevada,CP44,Secretary of State,,Rep,Mark Meuser,597
+Nevada,CP45,Secretary of State,,Rep,Mark Meuser,791
+Nevada,CP46,Secretary of State,,Rep,Mark Meuser,891
+Nevada,CP47,Secretary of State,,Rep,Mark Meuser,3
+Nevada,CP48,Secretary of State,,Rep,Mark Meuser,124
+Nevada,CP50,Secretary of State,,Rep,Mark Meuser,392
+Nevada,CP51,Secretary of State,,Rep,Mark Meuser,1
+Nevada,CP52,Secretary of State,,Rep,Mark Meuser,77
+Nevada,CP53,Secretary of State,,Rep,Mark Meuser,49
+Nevada,CP55,Secretary of State,,Rep,Mark Meuser,21
+Nevada,CP56 TR,Secretary of State,,Rep,Mark Meuser,257
+Nevada,CP57 TR,Secretary of State,,Rep,Mark Meuser,391
+Nevada,CP58,Secretary of State,,Rep,Mark Meuser,1
+Nevada,CP60 TR,Secretary of State,,Rep,Mark Meuser,489
+Nevada,CP61 TR,Secretary of State,,Rep,Mark Meuser,277
+Nevada,CP62 TR,Secretary of State,,Rep,Mark Meuser,240
+Nevada,CP64 TR,Secretary of State,,Rep,Mark Meuser,397
+Nevada,CP67 TR,Secretary of State,,Rep,Mark Meuser,5
+Nevada,NEVADA CA,Secretary of State,,Rep,Mark Meuser,23853
+Nevada,CP01,Controller,,Rep,Konstantinos Roditis,69
+Nevada,CP02,Controller,,Rep,Konstantinos Roditis,154
+Nevada,CP03,Controller,,Rep,Konstantinos Roditis,4
+Nevada,CP04,Controller,,Rep,Konstantinos Roditis,29
+Nevada,CP05,Controller,,Rep,Konstantinos Roditis,438
+Nevada,CP06,Controller,,Rep,Konstantinos Roditis,1311
+Nevada,CP07,Controller,,Rep,Konstantinos Roditis,464
+Nevada,CP08,Controller,,Rep,Konstantinos Roditis,338
+Nevada,CP09,Controller,,Rep,Konstantinos Roditis,656
+Nevada,CP10,Controller,,Rep,Konstantinos Roditis,1357
+Nevada,CP11,Controller,,Rep,Konstantinos Roditis,166
+Nevada,CP12,Controller,,Rep,Konstantinos Roditis,49
+Nevada,CP13,Controller,,Rep,Konstantinos Roditis,53
+Nevada,CP14,Controller,,Rep,Konstantinos Roditis,247
+Nevada,CP15,Controller,,Rep,Konstantinos Roditis,994
+Nevada,CP16,Controller,,Rep,Konstantinos Roditis,1518
+Nevada,CP17,Controller,,Rep,Konstantinos Roditis,714
+Nevada,CP18,Controller,,Rep,Konstantinos Roditis,228
+Nevada,CP19,Controller,,Rep,Konstantinos Roditis,1252
+Nevada,CP20,Controller,,Rep,Konstantinos Roditis,481
+Nevada,CP21,Controller,,Rep,Konstantinos Roditis,719
+Nevada,CP22,Controller,,Rep,Konstantinos Roditis,297
+Nevada,CP23,Controller,,Rep,Konstantinos Roditis,109
+Nevada,CP24,Controller,,Rep,Konstantinos Roditis,961
+Nevada,CP25,Controller,,Rep,Konstantinos Roditis,747
+Nevada,CP26,Controller,,Rep,Konstantinos Roditis,693
+Nevada,CP27,Controller,,Rep,Konstantinos Roditis,35
+Nevada,CP28,Controller,,Rep,Konstantinos Roditis,12
+Nevada,CP30 GV,Controller,,Rep,Konstantinos Roditis,526
+Nevada,CP31,Controller,,Rep,Konstantinos Roditis,14
+Nevada,CP32 GV,Controller,,Rep,Konstantinos Roditis,75
+Nevada,CP33 GV,Controller,,Rep,Konstantinos Roditis,606
+Nevada,CP34 GV,Controller,,Rep,Konstantinos Roditis,72
+Nevada,CP35,Controller,,Rep,Konstantinos Roditis,25
+Nevada,CP36,Controller,,Rep,Konstantinos Roditis,182
+Nevada,CP37,Controller,,Rep,Konstantinos Roditis,66
+Nevada,CP38,Controller,,Rep,Konstantinos Roditis,280
+Nevada,CP39,Controller,,Rep,Konstantinos Roditis,319
+Nevada,CP40,Controller,,Rep,Konstantinos Roditis,895
+Nevada,CP41,Controller,,Rep,Konstantinos Roditis,549
+Nevada,CP42,Controller,,Rep,Konstantinos Roditis,397
+Nevada,CP43,Controller,,Rep,Konstantinos Roditis,21
+Nevada,CP44,Controller,,Rep,Konstantinos Roditis,564
+Nevada,CP45,Controller,,Rep,Konstantinos Roditis,748
+Nevada,CP46,Controller,,Rep,Konstantinos Roditis,864
+Nevada,CP47,Controller,,Rep,Konstantinos Roditis,3
+Nevada,CP48,Controller,,Rep,Konstantinos Roditis,117
+Nevada,CP50,Controller,,Rep,Konstantinos Roditis,381
+Nevada,CP51,Controller,,Rep,Konstantinos Roditis,1
+Nevada,CP52,Controller,,Rep,Konstantinos Roditis,80
+Nevada,CP53,Controller,,Rep,Konstantinos Roditis,46
+Nevada,CP55,Controller,,Rep,Konstantinos Roditis,21
+Nevada,CP56 TR,Controller,,Rep,Konstantinos Roditis,246
+Nevada,CP57 TR,Controller,,Rep,Konstantinos Roditis,398
+Nevada,CP58,Controller,,Rep,Konstantinos Roditis,1
+Nevada,CP60 TR,Controller,,Rep,Konstantinos Roditis,497
+Nevada,CP61 TR,Controller,,Rep,Konstantinos Roditis,283
+Nevada,CP62 TR,Controller,,Rep,Konstantinos Roditis,237
+Nevada,CP64 TR,Controller,,Rep,Konstantinos Roditis,376
+Nevada,CP67 TR,Controller,,Rep,Konstantinos Roditis,6
+Nevada,NEVADA CA,Controller,,Rep,Konstantinos Roditis,22991
+Nevada,CP01,Controller,,Dem,Betty Yee,58
+Nevada,CP02,Controller,,Dem,Betty Yee,183
+Nevada,CP03,Controller,,Dem,Betty Yee,0
+Nevada,CP04,Controller,,Dem,Betty Yee,36
+Nevada,CP05,Controller,,Dem,Betty Yee,475
+Nevada,CP06,Controller,,Dem,Betty Yee,1081
+Nevada,CP07,Controller,,Dem,Betty Yee,479
+Nevada,CP08,Controller,,Dem,Betty Yee,315
+Nevada,CP09,Controller,,Dem,Betty Yee,603
+Nevada,CP10,Controller,,Dem,Betty Yee,1227
+Nevada,CP11,Controller,,Dem,Betty Yee,212
+Nevada,CP12,Controller,,Dem,Betty Yee,84
+Nevada,CP13,Controller,,Dem,Betty Yee,53
+Nevada,CP14,Controller,,Dem,Betty Yee,935
+Nevada,CP15,Controller,,Dem,Betty Yee,628
+Nevada,CP16,Controller,,Dem,Betty Yee,993
+Nevada,CP17,Controller,,Dem,Betty Yee,513
+Nevada,CP18,Controller,,Dem,Betty Yee,182
+Nevada,CP19,Controller,,Dem,Betty Yee,1125
+Nevada,CP20,Controller,,Dem,Betty Yee,410
+Nevada,CP21,Controller,,Dem,Betty Yee,692
+Nevada,CP22,Controller,,Dem,Betty Yee,304
+Nevada,CP23,Controller,,Dem,Betty Yee,123
+Nevada,CP24,Controller,,Dem,Betty Yee,930
+Nevada,CP25,Controller,,Dem,Betty Yee,1030
+Nevada,CP26,Controller,,Dem,Betty Yee,986
+Nevada,CP27,Controller,,Dem,Betty Yee,80
+Nevada,CP28,Controller,,Dem,Betty Yee,16
+Nevada,CP30 GV,Controller,,Dem,Betty Yee,1049
+Nevada,CP31,Controller,,Dem,Betty Yee,21
+Nevada,CP32 GV,Controller,,Dem,Betty Yee,75
+Nevada,CP33 GV,Controller,,Dem,Betty Yee,854
+Nevada,CP34 GV,Controller,,Dem,Betty Yee,93
+Nevada,CP35,Controller,,Dem,Betty Yee,47
+Nevada,CP36,Controller,,Dem,Betty Yee,242
+Nevada,CP37,Controller,,Dem,Betty Yee,77
+Nevada,CP38,Controller,,Dem,Betty Yee,336
+Nevada,CP39,Controller,,Dem,Betty Yee,341
+Nevada,CP40,Controller,,Dem,Betty Yee,917
+Nevada,CP41,Controller,,Dem,Betty Yee,568
+Nevada,CP42,Controller,,Dem,Betty Yee,621
+Nevada,CP43,Controller,,Dem,Betty Yee,49
+Nevada,CP44,Controller,,Dem,Betty Yee,1717
+Nevada,CP45,Controller,,Dem,Betty Yee,1605
+Nevada,CP46,Controller,,Dem,Betty Yee,1421
+Nevada,CP47,Controller,,Dem,Betty Yee,0
+Nevada,CP48,Controller,,Dem,Betty Yee,166
+Nevada,CP50,Controller,,Dem,Betty Yee,577
+Nevada,CP51,Controller,,Dem,Betty Yee,1
+Nevada,CP52,Controller,,Dem,Betty Yee,132
+Nevada,CP53,Controller,,Dem,Betty Yee,54
+Nevada,CP55,Controller,,Dem,Betty Yee,12
+Nevada,CP56 TR,Controller,,Dem,Betty Yee,678
+Nevada,CP57 TR,Controller,,Dem,Betty Yee,1151
+Nevada,CP58,Controller,,Dem,Betty Yee,0
+Nevada,CP60 TR,Controller,,Dem,Betty Yee,1315
+Nevada,CP61 TR,Controller,,Dem,Betty Yee,829
+Nevada,CP62 TR,Controller,,Dem,Betty Yee,538
+Nevada,CP64 TR,Controller,,Dem,Betty Yee,973
+Nevada,CP67 TR,Controller,,Dem,Betty Yee,18
+Nevada,NEVADA CA,Controller,,Dem,Betty Yee,30230
+Nevada,CP01,Treasurer,,Rep,Greg Conlon,68
+Nevada,CP02,Treasurer,,Rep,Greg Conlon,149
+Nevada,CP03,Treasurer,,Rep,Greg Conlon,4
+Nevada,CP04,Treasurer,,Rep,Greg Conlon,31
+Nevada,CP05,Treasurer,,Rep,Greg Conlon,453
+Nevada,CP06,Treasurer,,Rep,Greg Conlon,1342
+Nevada,CP07,Treasurer,,Rep,Greg Conlon,482
+Nevada,CP08,Treasurer,,Rep,Greg Conlon,339
+Nevada,CP09,Treasurer,,Rep,Greg Conlon,672
+Nevada,CP10,Treasurer,,Rep,Greg Conlon,1384
+Nevada,CP11,Treasurer,,Rep,Greg Conlon,167
+Nevada,CP12,Treasurer,,Rep,Greg Conlon,50
+Nevada,CP13,Treasurer,,Rep,Greg Conlon,56
+Nevada,CP14,Treasurer,,Rep,Greg Conlon,244
+Nevada,CP15,Treasurer,,Rep,Greg Conlon,1000
+Nevada,CP16,Treasurer,,Rep,Greg Conlon,1575
+Nevada,CP17,Treasurer,,Rep,Greg Conlon,758
+Nevada,CP18,Treasurer,,Rep,Greg Conlon,228
+Nevada,CP19,Treasurer,,Rep,Greg Conlon,1271
+Nevada,CP20,Treasurer,,Rep,Greg Conlon,495
+Nevada,CP21,Treasurer,,Rep,Greg Conlon,750
+Nevada,CP22,Treasurer,,Rep,Greg Conlon,302
+Nevada,CP23,Treasurer,,Rep,Greg Conlon,110
+Nevada,CP24,Treasurer,,Rep,Greg Conlon,1008
+Nevada,CP25,Treasurer,,Rep,Greg Conlon,771
+Nevada,CP26,Treasurer,,Rep,Greg Conlon,703
+Nevada,CP27,Treasurer,,Rep,Greg Conlon,35
+Nevada,CP28,Treasurer,,Rep,Greg Conlon,10
+Nevada,CP30 GV,Treasurer,,Rep,Greg Conlon,529
+Nevada,CP31,Treasurer,,Rep,Greg Conlon,14
+Nevada,CP32 GV,Treasurer,,Rep,Greg Conlon,75
+Nevada,CP33 GV,Treasurer,,Rep,Greg Conlon,623
+Nevada,CP34 GV,Treasurer,,Rep,Greg Conlon,75
+Nevada,CP35,Treasurer,,Rep,Greg Conlon,23
+Nevada,CP36,Treasurer,,Rep,Greg Conlon,186
+Nevada,CP37,Treasurer,,Rep,Greg Conlon,70
+Nevada,CP38,Treasurer,,Rep,Greg Conlon,286
+Nevada,CP39,Treasurer,,Rep,Greg Conlon,328
+Nevada,CP40,Treasurer,,Rep,Greg Conlon,922
+Nevada,CP41,Treasurer,,Rep,Greg Conlon,556
+Nevada,CP42,Treasurer,,Rep,Greg Conlon,404
+Nevada,CP43,Treasurer,,Rep,Greg Conlon,23
+Nevada,CP44,Treasurer,,Rep,Greg Conlon,575
+Nevada,CP45,Treasurer,,Rep,Greg Conlon,786
+Nevada,CP46,Treasurer,,Rep,Greg Conlon,888
+Nevada,CP47,Treasurer,,Rep,Greg Conlon,3
+Nevada,CP48,Treasurer,,Rep,Greg Conlon,122
+Nevada,CP50,Treasurer,,Rep,Greg Conlon,385
+Nevada,CP51,Treasurer,,Rep,Greg Conlon,1
+Nevada,CP52,Treasurer,,Rep,Greg Conlon,77
+Nevada,CP53,Treasurer,,Rep,Greg Conlon,49
+Nevada,CP55,Treasurer,,Rep,Greg Conlon,20
+Nevada,CP56 TR,Treasurer,,Rep,Greg Conlon,253
+Nevada,CP57 TR,Treasurer,,Rep,Greg Conlon,398
+Nevada,CP58,Treasurer,,Rep,Greg Conlon,1
+Nevada,CP60 TR,Treasurer,,Rep,Greg Conlon,496
+Nevada,CP61 TR,Treasurer,,Rep,Greg Conlon,270
+Nevada,CP62 TR,Treasurer,,Rep,Greg Conlon,234
+Nevada,CP64 TR,Treasurer,,Rep,Greg Conlon,381
+Nevada,CP67 TR,Treasurer,,Rep,Greg Conlon,5
+Nevada,NEVADA CA,Treasurer,,Rep,Greg Conlon,23515
+Nevada,CP01,Treasurer,,Dem,Fiona Ma,58
+Nevada,CP02,Treasurer,,Dem,Fiona Ma,188
+Nevada,CP03,Treasurer,,Dem,Fiona Ma,0
+Nevada,CP04,Treasurer,,Dem,Fiona Ma,34
+Nevada,CP05,Treasurer,,Dem,Fiona Ma,464
+Nevada,CP06,Treasurer,,Dem,Fiona Ma,1046
+Nevada,CP07,Treasurer,,Dem,Fiona Ma,466
+Nevada,CP08,Treasurer,,Dem,Fiona Ma,314
+Nevada,CP09,Treasurer,,Dem,Fiona Ma,583
+Nevada,CP10,Treasurer,,Dem,Fiona Ma,1193
+Nevada,CP11,Treasurer,,Dem,Fiona Ma,210
+Nevada,CP12,Treasurer,,Dem,Fiona Ma,81
+Nevada,CP13,Treasurer,,Dem,Fiona Ma,51
+Nevada,CP14,Treasurer,,Dem,Fiona Ma,933
+Nevada,CP15,Treasurer,,Dem,Fiona Ma,614
+Nevada,CP16,Treasurer,,Dem,Fiona Ma,932
+Nevada,CP17,Treasurer,,Dem,Fiona Ma,470
+Nevada,CP18,Treasurer,,Dem,Fiona Ma,176
+Nevada,CP19,Treasurer,,Dem,Fiona Ma,1110
+Nevada,CP20,Treasurer,,Dem,Fiona Ma,397
+Nevada,CP21,Treasurer,,Dem,Fiona Ma,659
+Nevada,CP22,Treasurer,,Dem,Fiona Ma,297
+Nevada,CP23,Treasurer,,Dem,Fiona Ma,120
+Nevada,CP24,Treasurer,,Dem,Fiona Ma,891
+Nevada,CP25,Treasurer,,Dem,Fiona Ma,1007
+Nevada,CP26,Treasurer,,Dem,Fiona Ma,981
+Nevada,CP27,Treasurer,,Dem,Fiona Ma,76
+Nevada,CP28,Treasurer,,Dem,Fiona Ma,18
+Nevada,CP30 GV,Treasurer,,Dem,Fiona Ma,1039
+Nevada,CP31,Treasurer,,Dem,Fiona Ma,21
+Nevada,CP32 GV,Treasurer,,Dem,Fiona Ma,75
+Nevada,CP33 GV,Treasurer,,Dem,Fiona Ma,835
+Nevada,CP34 GV,Treasurer,,Dem,Fiona Ma,89
+Nevada,CP35,Treasurer,,Dem,Fiona Ma,47
+Nevada,CP36,Treasurer,,Dem,Fiona Ma,237
+Nevada,CP37,Treasurer,,Dem,Fiona Ma,71
+Nevada,CP38,Treasurer,,Dem,Fiona Ma,329
+Nevada,CP39,Treasurer,,Dem,Fiona Ma,329
+Nevada,CP40,Treasurer,,Dem,Fiona Ma,894
+Nevada,CP41,Treasurer,,Dem,Fiona Ma,563
+Nevada,CP42,Treasurer,,Dem,Fiona Ma,612
+Nevada,CP43,Treasurer,,Dem,Fiona Ma,46
+Nevada,CP44,Treasurer,,Dem,Fiona Ma,1694
+Nevada,CP45,Treasurer,,Dem,Fiona Ma,1561
+Nevada,CP46,Treasurer,,Dem,Fiona Ma,1391
+Nevada,CP47,Treasurer,,Dem,Fiona Ma,0
+Nevada,CP48,Treasurer,,Dem,Fiona Ma,162
+Nevada,CP50,Treasurer,,Dem,Fiona Ma,571
+Nevada,CP51,Treasurer,,Dem,Fiona Ma,1
+Nevada,CP52,Treasurer,,Dem,Fiona Ma,135
+Nevada,CP53,Treasurer,,Dem,Fiona Ma,52
+Nevada,CP55,Treasurer,,Dem,Fiona Ma,14
+Nevada,CP56 TR,Treasurer,,Dem,Fiona Ma,666
+Nevada,CP57 TR,Treasurer,,Dem,Fiona Ma,1147
+Nevada,CP58,Treasurer,,Dem,Fiona Ma,0
+Nevada,CP60 TR,Treasurer,,Dem,Fiona Ma,1302
+Nevada,CP61 TR,Treasurer,,Dem,Fiona Ma,839
+Nevada,CP62 TR,Treasurer,,Dem,Fiona Ma,543
+Nevada,CP64 TR,Treasurer,,Dem,Fiona Ma,957
+Nevada,CP67 TR,Treasurer,,Dem,Fiona Ma,19
+Nevada,NEVADA CA,Treasurer,,Dem,Fiona Ma,29610
+Nevada,CP01,Attorney General,,Rep,Steven Bailey,70
+Nevada,CP02,Attorney General,,Rep,Steven Bailey,163
+Nevada,CP03,Attorney General,,Rep,Steven Bailey,4
+Nevada,CP04,Attorney General,,Rep,Steven Bailey,31
+Nevada,CP05,Attorney General,,Rep,Steven Bailey,455
+Nevada,CP06,Attorney General,,Rep,Steven Bailey,1394
+Nevada,CP07,Attorney General,,Rep,Steven Bailey,497
+Nevada,CP08,Attorney General,,Rep,Steven Bailey,351
+Nevada,CP09,Attorney General,,Rep,Steven Bailey,688
+Nevada,CP10,Attorney General,,Rep,Steven Bailey,1437
+Nevada,CP11,Attorney General,,Rep,Steven Bailey,170
+Nevada,CP12,Attorney General,,Rep,Steven Bailey,49
+Nevada,CP13,Attorney General,,Rep,Steven Bailey,57
+Nevada,CP14,Attorney General,,Rep,Steven Bailey,246
+Nevada,CP15,Attorney General,,Rep,Steven Bailey,1032
+Nevada,CP16,Attorney General,,Rep,Steven Bailey,1616
+Nevada,CP17,Attorney General,,Rep,Steven Bailey,773
+Nevada,CP18,Attorney General,,Rep,Steven Bailey,233
+Nevada,CP19,Attorney General,,Rep,Steven Bailey,1314
+Nevada,CP20,Attorney General,,Rep,Steven Bailey,528
+Nevada,CP21,Attorney General,,Rep,Steven Bailey,757
+Nevada,CP22,Attorney General,,Rep,Steven Bailey,316
+Nevada,CP23,Attorney General,,Rep,Steven Bailey,116
+Nevada,CP24,Attorney General,,Rep,Steven Bailey,1029
+Nevada,CP25,Attorney General,,Rep,Steven Bailey,814
+Nevada,CP26,Attorney General,,Rep,Steven Bailey,735
+Nevada,CP27,Attorney General,,Rep,Steven Bailey,38
+Nevada,CP28,Attorney General,,Rep,Steven Bailey,13
+Nevada,CP30 GV,Attorney General,,Rep,Steven Bailey,551
+Nevada,CP31,Attorney General,,Rep,Steven Bailey,15
+Nevada,CP32 GV,Attorney General,,Rep,Steven Bailey,79
+Nevada,CP33 GV,Attorney General,,Rep,Steven Bailey,650
+Nevada,CP34 GV,Attorney General,,Rep,Steven Bailey,74
+Nevada,CP35,Attorney General,,Rep,Steven Bailey,24
+Nevada,CP36,Attorney General,,Rep,Steven Bailey,193
+Nevada,CP37,Attorney General,,Rep,Steven Bailey,71
+Nevada,CP38,Attorney General,,Rep,Steven Bailey,297
+Nevada,CP39,Attorney General,,Rep,Steven Bailey,336
+Nevada,CP40,Attorney General,,Rep,Steven Bailey,953
+Nevada,CP41,Attorney General,,Rep,Steven Bailey,572
+Nevada,CP42,Attorney General,,Rep,Steven Bailey,416
+Nevada,CP43,Attorney General,,Rep,Steven Bailey,27
+Nevada,CP44,Attorney General,,Rep,Steven Bailey,597
+Nevada,CP45,Attorney General,,Rep,Steven Bailey,794
+Nevada,CP46,Attorney General,,Rep,Steven Bailey,908
+Nevada,CP47,Attorney General,,Rep,Steven Bailey,3
+Nevada,CP48,Attorney General,,Rep,Steven Bailey,127
+Nevada,CP50,Attorney General,,Rep,Steven Bailey,399
+Nevada,CP51,Attorney General,,Rep,Steven Bailey,1
+Nevada,CP52,Attorney General,,Rep,Steven Bailey,75
+Nevada,CP53,Attorney General,,Rep,Steven Bailey,49
+Nevada,CP55,Attorney General,,Rep,Steven Bailey,21
+Nevada,CP56 TR,Attorney General,,Rep,Steven Bailey,249
+Nevada,CP57 TR,Attorney General,,Rep,Steven Bailey,398
+Nevada,CP58,Attorney General,,Rep,Steven Bailey,1
+Nevada,CP60 TR,Attorney General,,Rep,Steven Bailey,499
+Nevada,CP61 TR,Attorney General,,Rep,Steven Bailey,284
+Nevada,CP62 TR,Attorney General,,Rep,Steven Bailey,246
+Nevada,CP64 TR,Attorney General,,Rep,Steven Bailey,398
+Nevada,CP67 TR,Attorney General,,Rep,Steven Bailey,7
+Nevada,NEVADA CA,Attorney General,,Rep,Steven Bailey,24240
+Nevada,CP01,Attorney General,,Dem,Xavier Becerra,57
+Nevada,CP02,Attorney General,,Dem,Xavier Becerra,174
+Nevada,CP03,Attorney General,,Dem,Xavier Becerra,0
+Nevada,CP04,Attorney General,,Dem,Xavier Becerra,34
+Nevada,CP05,Attorney General,,Dem,Xavier Becerra,462
+Nevada,CP06,Attorney General,,Dem,Xavier Becerra,998
+Nevada,CP07,Attorney General,,Dem,Xavier Becerra,452
+Nevada,CP08,Attorney General,,Dem,Xavier Becerra,304
+Nevada,CP09,Attorney General,,Dem,Xavier Becerra,578
+Nevada,CP10,Attorney General,,Dem,Xavier Becerra,1160
+Nevada,CP11,Attorney General,,Dem,Xavier Becerra,208
+Nevada,CP12,Attorney General,,Dem,Xavier Becerra,82
+Nevada,CP13,Attorney General,,Dem,Xavier Becerra,51
+Nevada,CP14,Attorney General,,Dem,Xavier Becerra,930
+Nevada,CP15,Attorney General,,Dem,Xavier Becerra,588
+Nevada,CP16,Attorney General,,Dem,Xavier Becerra,903
+Nevada,CP17,Attorney General,,Dem,Xavier Becerra,459
+Nevada,CP18,Attorney General,,Dem,Xavier Becerra,177
+Nevada,CP19,Attorney General,,Dem,Xavier Becerra,1075
+Nevada,CP20,Attorney General,,Dem,Xavier Becerra,366
+Nevada,CP21,Attorney General,,Dem,Xavier Becerra,657
+Nevada,CP22,Attorney General,,Dem,Xavier Becerra,293
+Nevada,CP23,Attorney General,,Dem,Xavier Becerra,117
+Nevada,CP24,Attorney General,,Dem,Xavier Becerra,868
+Nevada,CP25,Attorney General,,Dem,Xavier Becerra,971
+Nevada,CP26,Attorney General,,Dem,Xavier Becerra,954
+Nevada,CP27,Attorney General,,Dem,Xavier Becerra,77
+Nevada,CP28,Attorney General,,Dem,Xavier Becerra,15
+Nevada,CP30 GV,Attorney General,,Dem,Xavier Becerra,1017
+Nevada,CP31,Attorney General,,Dem,Xavier Becerra,20
+Nevada,CP32 GV,Attorney General,,Dem,Xavier Becerra,72
+Nevada,CP33 GV,Attorney General,,Dem,Xavier Becerra,814
+Nevada,CP34 GV,Attorney General,,Dem,Xavier Becerra,89
+Nevada,CP35,Attorney General,,Dem,Xavier Becerra,48
+Nevada,CP36,Attorney General,,Dem,Xavier Becerra,228
+Nevada,CP37,Attorney General,,Dem,Xavier Becerra,73
+Nevada,CP38,Attorney General,,Dem,Xavier Becerra,322
+Nevada,CP39,Attorney General,,Dem,Xavier Becerra,321
+Nevada,CP40,Attorney General,,Dem,Xavier Becerra,864
+Nevada,CP41,Attorney General,,Dem,Xavier Becerra,543
+Nevada,CP42,Attorney General,,Dem,Xavier Becerra,601
+Nevada,CP43,Attorney General,,Dem,Xavier Becerra,42
+Nevada,CP44,Attorney General,,Dem,Xavier Becerra,1682
+Nevada,CP45,Attorney General,,Dem,Xavier Becerra,1560
+Nevada,CP46,Attorney General,,Dem,Xavier Becerra,1379
+Nevada,CP47,Attorney General,,Dem,Xavier Becerra,0
+Nevada,CP48,Attorney General,,Dem,Xavier Becerra,158
+Nevada,CP50,Attorney General,,Dem,Xavier Becerra,557
+Nevada,CP51,Attorney General,,Dem,Xavier Becerra,1
+Nevada,CP52,Attorney General,,Dem,Xavier Becerra,138
+Nevada,CP53,Attorney General,,Dem,Xavier Becerra,52
+Nevada,CP55,Attorney General,,Dem,Xavier Becerra,13
+Nevada,CP56 TR,Attorney General,,Dem,Xavier Becerra,678
+Nevada,CP57 TR,Attorney General,,Dem,Xavier Becerra,1151
+Nevada,CP58,Attorney General,,Dem,Xavier Becerra,0
+Nevada,CP60 TR,Attorney General,,Dem,Xavier Becerra,1316
+Nevada,CP61 TR,Attorney General,,Dem,Xavier Becerra,829
+Nevada,CP62 TR,Attorney General,,Dem,Xavier Becerra,533
+Nevada,CP64 TR,Attorney General,,Dem,Xavier Becerra,950
+Nevada,CP67 TR,Attorney General,,Dem,Xavier Becerra,17
+Nevada,NEVADA CA,Attorney General,,Dem,Xavier Becerra,29078
+Nevada,CP01,Insurance Commissioner,,Dem,Ricardo Lara,36
+Nevada,CP02,Insurance Commissioner,,Dem,Ricardo Lara,136
+Nevada,CP03,Insurance Commissioner,,Dem,Ricardo Lara,1
+Nevada,CP04,Insurance Commissioner,,Dem,Ricardo Lara,29
+Nevada,CP05,Insurance Commissioner,,Dem,Ricardo Lara,368
+Nevada,CP06,Insurance Commissioner,,Dem,Ricardo Lara,795
+Nevada,CP07,Insurance Commissioner,,Dem,Ricardo Lara,367
+Nevada,CP08,Insurance Commissioner,,Dem,Ricardo Lara,232
+Nevada,CP09,Insurance Commissioner,,Dem,Ricardo Lara,463
+Nevada,CP10,Insurance Commissioner,,Dem,Ricardo Lara,882
+Nevada,CP11,Insurance Commissioner,,Dem,Ricardo Lara,165
+Nevada,CP12,Insurance Commissioner,,Dem,Ricardo Lara,67
+Nevada,CP13,Insurance Commissioner,,Dem,Ricardo Lara,38
+Nevada,CP14,Insurance Commissioner,,Dem,Ricardo Lara,722
+Nevada,CP15,Insurance Commissioner,,Dem,Ricardo Lara,434
+Nevada,CP16,Insurance Commissioner,,Dem,Ricardo Lara,712
+Nevada,CP17,Insurance Commissioner,,Dem,Ricardo Lara,330
+Nevada,CP18,Insurance Commissioner,,Dem,Ricardo Lara,117
+Nevada,CP19,Insurance Commissioner,,Dem,Ricardo Lara,778
+Nevada,CP20,Insurance Commissioner,,Dem,Ricardo Lara,297
+Nevada,CP21,Insurance Commissioner,,Dem,Ricardo Lara,495
+Nevada,CP22,Insurance Commissioner,,Dem,Ricardo Lara,237
+Nevada,CP23,Insurance Commissioner,,Dem,Ricardo Lara,98
+Nevada,CP24,Insurance Commissioner,,Dem,Ricardo Lara,658
+Nevada,CP25,Insurance Commissioner,,Dem,Ricardo Lara,761
+Nevada,CP26,Insurance Commissioner,,Dem,Ricardo Lara,747
+Nevada,CP27,Insurance Commissioner,,Dem,Ricardo Lara,64
+Nevada,CP28,Insurance Commissioner,,Dem,Ricardo Lara,11
+Nevada,CP30 GV,Insurance Commissioner,,Dem,Ricardo Lara,825
+Nevada,CP31,Insurance Commissioner,,Dem,Ricardo Lara,10
+Nevada,CP32 GV,Insurance Commissioner,,Dem,Ricardo Lara,58
+Nevada,CP33 GV,Insurance Commissioner,,Dem,Ricardo Lara,673
+Nevada,CP34 GV,Insurance Commissioner,,Dem,Ricardo Lara,53
+Nevada,CP35,Insurance Commissioner,,Dem,Ricardo Lara,41
+Nevada,CP36,Insurance Commissioner,,Dem,Ricardo Lara,176
+Nevada,CP37,Insurance Commissioner,,Dem,Ricardo Lara,50
+Nevada,CP38,Insurance Commissioner,,Dem,Ricardo Lara,253
+Nevada,CP39,Insurance Commissioner,,Dem,Ricardo Lara,253
+Nevada,CP40,Insurance Commissioner,,Dem,Ricardo Lara,667
+Nevada,CP41,Insurance Commissioner,,Dem,Ricardo Lara,432
+Nevada,CP42,Insurance Commissioner,,Dem,Ricardo Lara,455
+Nevada,CP43,Insurance Commissioner,,Dem,Ricardo Lara,32
+Nevada,CP44,Insurance Commissioner,,Dem,Ricardo Lara,1293
+Nevada,CP45,Insurance Commissioner,,Dem,Ricardo Lara,1243
+Nevada,CP46,Insurance Commissioner,,Dem,Ricardo Lara,1047
+Nevada,CP47,Insurance Commissioner,,Dem,Ricardo Lara,0
+Nevada,CP48,Insurance Commissioner,,Dem,Ricardo Lara,126
+Nevada,CP50,Insurance Commissioner,,Dem,Ricardo Lara,455
+Nevada,CP51,Insurance Commissioner,,Dem,Ricardo Lara,1
+Nevada,CP52,Insurance Commissioner,,Dem,Ricardo Lara,93
+Nevada,CP53,Insurance Commissioner,,Dem,Ricardo Lara,38
+Nevada,CP55,Insurance Commissioner,,Dem,Ricardo Lara,12
+Nevada,CP56 TR,Insurance Commissioner,,Dem,Ricardo Lara,479
+Nevada,CP57 TR,Insurance Commissioner,,Dem,Ricardo Lara,854
+Nevada,CP58,Insurance Commissioner,,Dem,Ricardo Lara,0
+Nevada,CP60 TR,Insurance Commissioner,,Dem,Ricardo Lara,906
+Nevada,CP61 TR,Insurance Commissioner,,Dem,Ricardo Lara,636
+Nevada,CP62 TR,Insurance Commissioner,,Dem,Ricardo Lara,381
+Nevada,CP64 TR,Insurance Commissioner,,Dem,Ricardo Lara,727
+Nevada,CP67 TR,Insurance Commissioner,,Dem,Ricardo Lara,16
+Nevada,NEVADA CA,Insurance Commissioner,,Dem,Ricardo Lara,22325
+Nevada,CP01,Insurance Commissioner,,NPP,Steve Poizner,84
+Nevada,CP02,Insurance Commissioner,,NPP,Steve Poizner,181
+Nevada,CP03,Insurance Commissioner,,NPP,Steve Poizner,1
+Nevada,CP04,Insurance Commissioner,,NPP,Steve Poizner,30
+Nevada,CP05,Insurance Commissioner,,NPP,Steve Poizner,505
+Nevada,CP06,Insurance Commissioner,,NPP,Steve Poizner,1466
+Nevada,CP07,Insurance Commissioner,,NPP,Steve Poizner,534
+Nevada,CP08,Insurance Commissioner,,NPP,Steve Poizner,381
+Nevada,CP09,Insurance Commissioner,,NPP,Steve Poizner,729
+Nevada,CP10,Insurance Commissioner,,NPP,Steve Poizner,1589
+Nevada,CP11,Insurance Commissioner,,NPP,Steve Poizner,179
+Nevada,CP12,Insurance Commissioner,,NPP,Steve Poizner,58
+Nevada,CP13,Insurance Commissioner,,NPP,Steve Poizner,65
+Nevada,CP14,Insurance Commissioner,,NPP,Steve Poizner,389
+Nevada,CP15,Insurance Commissioner,,NPP,Steve Poizner,1111
+Nevada,CP16,Insurance Commissioner,,NPP,Steve Poizner,1644
+Nevada,CP17,Insurance Commissioner,,NPP,Steve Poizner,839
+Nevada,CP18,Insurance Commissioner,,NPP,Steve Poizner,267
+Nevada,CP19,Insurance Commissioner,,NPP,Steve Poizner,1517
+Nevada,CP20,Insurance Commissioner,,NPP,Steve Poizner,565
+Nevada,CP21,Insurance Commissioner,,NPP,Steve Poizner,855
+Nevada,CP22,Insurance Commissioner,,NPP,Steve Poizner,330
+Nevada,CP23,Insurance Commissioner,,NPP,Steve Poizner,122
+Nevada,CP24,Insurance Commissioner,,NPP,Steve Poizner,1155
+Nevada,CP25,Insurance Commissioner,,NPP,Steve Poizner,908
+Nevada,CP26,Insurance Commissioner,,NPP,Steve Poizner,857
+Nevada,CP27,Insurance Commissioner,,NPP,Steve Poizner,41
+Nevada,CP28,Insurance Commissioner,,NPP,Steve Poizner,16
+Nevada,CP30 GV,Insurance Commissioner,,NPP,Steve Poizner,648
+Nevada,CP31,Insurance Commissioner,,NPP,Steve Poizner,24
+Nevada,CP32 GV,Insurance Commissioner,,NPP,Steve Poizner,79
+Nevada,CP33 GV,Insurance Commissioner,,NPP,Steve Poizner,727
+Nevada,CP34 GV,Insurance Commissioner,,NPP,Steve Poizner,102
+Nevada,CP35,Insurance Commissioner,,NPP,Steve Poizner,28
+Nevada,CP36,Insurance Commissioner,,NPP,Steve Poizner,217
+Nevada,CP37,Insurance Commissioner,,NPP,Steve Poizner,82
+Nevada,CP38,Insurance Commissioner,,NPP,Steve Poizner,328
+Nevada,CP39,Insurance Commissioner,,NPP,Steve Poizner,366
+Nevada,CP40,Insurance Commissioner,,NPP,Steve Poizner,1059
+Nevada,CP41,Insurance Commissioner,,NPP,Steve Poizner,631
+Nevada,CP42,Insurance Commissioner,,NPP,Steve Poizner,531
+Nevada,CP43,Insurance Commissioner,,NPP,Steve Poizner,33
+Nevada,CP44,Insurance Commissioner,,NPP,Steve Poizner,888
+Nevada,CP45,Insurance Commissioner,,NPP,Steve Poizner,1005
+Nevada,CP46,Insurance Commissioner,,NPP,Steve Poizner,1154
+Nevada,CP47,Insurance Commissioner,,NPP,Steve Poizner,3
+Nevada,CP48,Insurance Commissioner,,NPP,Steve Poizner,144
+Nevada,CP50,Insurance Commissioner,,NPP,Steve Poizner,467
+Nevada,CP51,Insurance Commissioner,,NPP,Steve Poizner,1
+Nevada,CP52,Insurance Commissioner,,NPP,Steve Poizner,107
+Nevada,CP53,Insurance Commissioner,,NPP,Steve Poizner,58
+Nevada,CP55,Insurance Commissioner,,NPP,Steve Poizner,21
+Nevada,CP56 TR,Insurance Commissioner,,NPP,Steve Poizner,388
+Nevada,CP57 TR,Insurance Commissioner,,NPP,Steve Poizner,599
+Nevada,CP58,Insurance Commissioner,,NPP,Steve Poizner,1
+Nevada,CP60 TR,Insurance Commissioner,,NPP,Steve Poizner,793
+Nevada,CP61 TR,Insurance Commissioner,,NPP,Steve Poizner,409
+Nevada,CP62 TR,Insurance Commissioner,,NPP,Steve Poizner,351
+Nevada,CP64 TR,Insurance Commissioner,,NPP,Steve Poizner,550
+Nevada,CP67 TR,Insurance Commissioner,,NPP,Steve Poizner,6
+Nevada,NEVADA CA,Insurance Commissioner,,NPP,Steve Poizner,28218
+Nevada,CP01,U.S. Senate,,Dem,Dianne Feinstein,42
+Nevada,CP02,U.S. Senate,,Dem,Dianne Feinstein,132
+Nevada,CP03,U.S. Senate,,Dem,Dianne Feinstein,0
+Nevada,CP04,U.S. Senate,,Dem,Dianne Feinstein,25
+Nevada,CP05,U.S. Senate,,Dem,Dianne Feinstein,381
+Nevada,CP06,U.S. Senate,,Dem,Dianne Feinstein,820
+Nevada,CP07,U.S. Senate,,Dem,Dianne Feinstein,344
+Nevada,CP08,U.S. Senate,,Dem,Dianne Feinstein,218
+Nevada,CP09,U.S. Senate,,Dem,Dianne Feinstein,471
+Nevada,CP10,U.S. Senate,,Dem,Dianne Feinstein,1073
+Nevada,CP11,U.S. Senate,,Dem,Dianne Feinstein,129
+Nevada,CP12,U.S. Senate,,Dem,Dianne Feinstein,58
+Nevada,CP13,U.S. Senate,,Dem,Dianne Feinstein,50
+Nevada,CP14,U.S. Senate,,Dem,Dianne Feinstein,540
+Nevada,CP15,U.S. Senate,,Dem,Dianne Feinstein,549
+Nevada,CP16,U.S. Senate,,Dem,Dianne Feinstein,863
+Nevada,CP17,U.S. Senate,,Dem,Dianne Feinstein,411
+Nevada,CP18,U.S. Senate,,Dem,Dianne Feinstein,146
+Nevada,CP19,U.S. Senate,,Dem,Dianne Feinstein,958
+Nevada,CP20,U.S. Senate,,Dem,Dianne Feinstein,347
+Nevada,CP21,U.S. Senate,,Dem,Dianne Feinstein,502
+Nevada,CP22,U.S. Senate,,Dem,Dianne Feinstein,235
+Nevada,CP23,U.S. Senate,,Dem,Dianne Feinstein,98
+Nevada,CP24,U.S. Senate,,Dem,Dianne Feinstein,680
+Nevada,CP25,U.S. Senate,,Dem,Dianne Feinstein,907
+Nevada,CP26,U.S. Senate,,Dem,Dianne Feinstein,887
+Nevada,CP27,U.S. Senate,,Dem,Dianne Feinstein,60
+Nevada,CP28,U.S. Senate,,Dem,Dianne Feinstein,12
+Nevada,CP30 GV,U.S. Senate,,Dem,Dianne Feinstein,677
+Nevada,CP31,U.S. Senate,,Dem,Dianne Feinstein,16
+Nevada,CP32 GV,U.S. Senate,,Dem,Dianne Feinstein,72
+Nevada,CP33 GV,U.S. Senate,,Dem,Dianne Feinstein,647
+Nevada,CP34 GV,U.S. Senate,,Dem,Dianne Feinstein,73
+Nevada,CP35,U.S. Senate,,Dem,Dianne Feinstein,39
+Nevada,CP36,U.S. Senate,,Dem,Dianne Feinstein,179
+Nevada,CP37,U.S. Senate,,Dem,Dianne Feinstein,49
+Nevada,CP38,U.S. Senate,,Dem,Dianne Feinstein,237
+Nevada,CP39,U.S. Senate,,Dem,Dianne Feinstein,249
+Nevada,CP40,U.S. Senate,,Dem,Dianne Feinstein,697
+Nevada,CP41,U.S. Senate,,Dem,Dianne Feinstein,428
+Nevada,CP42,U.S. Senate,,Dem,Dianne Feinstein,471
+Nevada,CP43,U.S. Senate,,Dem,Dianne Feinstein,25
+Nevada,CP44,U.S. Senate,,Dem,Dianne Feinstein,1146
+Nevada,CP45,U.S. Senate,,Dem,Dianne Feinstein,1100
+Nevada,CP46,U.S. Senate,,Dem,Dianne Feinstein,1008
+Nevada,CP47,U.S. Senate,,Dem,Dianne Feinstein,0
+Nevada,CP48,U.S. Senate,,Dem,Dianne Feinstein,109
+Nevada,CP50,U.S. Senate,,Dem,Dianne Feinstein,376
+Nevada,CP51,U.S. Senate,,Dem,Dianne Feinstein,1
+Nevada,CP52,U.S. Senate,,Dem,Dianne Feinstein,100
+Nevada,CP53,U.S. Senate,,Dem,Dianne Feinstein,38
+Nevada,CP55,U.S. Senate,,Dem,Dianne Feinstein,14
+Nevada,CP56 TR,U.S. Senate,,Dem,Dianne Feinstein,509
+Nevada,CP57 TR,U.S. Senate,,Dem,Dianne Feinstein,797
+Nevada,CP58,U.S. Senate,,Dem,Dianne Feinstein,0
+Nevada,CP60 TR,U.S. Senate,,Dem,Dianne Feinstein,1011
+Nevada,CP61 TR,U.S. Senate,,Dem,Dianne Feinstein,565
+Nevada,CP62 TR,U.S. Senate,,Dem,Dianne Feinstein,392
+Nevada,CP64 TR,U.S. Senate,,Dem,Dianne Feinstein,691
+Nevada,CP67 TR,U.S. Senate,,Dem,Dianne Feinstein,15
+Nevada,NEVADA CA,U.S. Senate,,Dem,Dianne Feinstein,22669
+Nevada,CP01,U.S. Senate,,Dem,Kevin DeLeon,64
+Nevada,CP02,U.S. Senate,,Dem,Kevin DeLeon,154
+Nevada,CP03,U.S. Senate,,Dem,Kevin DeLeon,2
+Nevada,CP04,U.S. Senate,,Dem,Kevin DeLeon,28
+Nevada,CP05,U.S. Senate,,Dem,Kevin DeLeon,387
+Nevada,CP06,U.S. Senate,,Dem,Kevin DeLeon,1140
+Nevada,CP07,U.S. Senate,,Dem,Kevin DeLeon,460
+Nevada,CP08,U.S. Senate,,Dem,Kevin DeLeon,326
+Nevada,CP09,U.S. Senate,,Dem,Kevin DeLeon,582
+Nevada,CP10,U.S. Senate,,Dem,Kevin DeLeon,1480
+Nevada,CP11,U.S. Senate,,Dem,Kevin DeLeon,189
+Nevada,CP12,U.S. Senate,,Dem,Kevin DeLeon,60
+Nevada,CP13,U.S. Senate,,Dem,Kevin DeLeon,37
+Nevada,CP14,U.S. Senate,,Dem,Kevin DeLeon,565
+Nevada,CP15,U.S. Senate,,Dem,Kevin DeLeon,731
+Nevada,CP16,U.S. Senate,,Dem,Kevin DeLeon,1195
+Nevada,CP17,U.S. Senate,,Dem,Kevin DeLeon,578
+Nevada,CP18,U.S. Senate,,Dem,Kevin DeLeon,197
+Nevada,CP19,U.S. Senate,,Dem,Kevin DeLeon,987
+Nevada,CP20,U.S. Senate,,Dem,Kevin DeLeon,419
+Nevada,CP21,U.S. Senate,,Dem,Kevin DeLeon,695
+Nevada,CP22,U.S. Senate,,Dem,Kevin DeLeon,279
+Nevada,CP23,U.S. Senate,,Dem,Kevin DeLeon,101
+Nevada,CP24,U.S. Senate,,Dem,Kevin DeLeon,916
+Nevada,CP25,U.S. Senate,,Dem,Kevin DeLeon,842
+Nevada,CP26,U.S. Senate,,Dem,Kevin DeLeon,757
+Nevada,CP27,U.S. Senate,,Dem,Kevin DeLeon,47
+Nevada,CP28,U.S. Senate,,Dem,Kevin DeLeon,15
+Nevada,CP30 GV,U.S. Senate,,Dem,Kevin DeLeon,731
+Nevada,CP31,U.S. Senate,,Dem,Kevin DeLeon,15
+Nevada,CP32 GV,U.S. Senate,,Dem,Kevin DeLeon,53
+Nevada,CP33 GV,U.S. Senate,,Dem,Kevin DeLeon,635
+Nevada,CP34 GV,U.S. Senate,,Dem,Kevin DeLeon,61
+Nevada,CP35,U.S. Senate,,Dem,Kevin DeLeon,29
+Nevada,CP36,U.S. Senate,,Dem,Kevin DeLeon,179
+Nevada,CP37,U.S. Senate,,Dem,Kevin DeLeon,66
+Nevada,CP38,U.S. Senate,,Dem,Kevin DeLeon,252
+Nevada,CP39,U.S. Senate,,Dem,Kevin DeLeon,320
+Nevada,CP40,U.S. Senate,,Dem,Kevin DeLeon,835
+Nevada,CP41,U.S. Senate,,Dem,Kevin DeLeon,539
+Nevada,CP42,U.S. Senate,,Dem,Kevin DeLeon,434
+Nevada,CP43,U.S. Senate,,Dem,Kevin DeLeon,36
+Nevada,CP44,U.S. Senate,,Dem,Kevin DeLeon,961
+Nevada,CP45,U.S. Senate,,Dem,Kevin DeLeon,1040
+Nevada,CP46,U.S. Senate,,Dem,Kevin DeLeon,983
+Nevada,CP47,U.S. Senate,,Dem,Kevin DeLeon,3
+Nevada,CP48,U.S. Senate,,Dem,Kevin DeLeon,137
+Nevada,CP50,U.S. Senate,,Dem,Kevin DeLeon,462
+Nevada,CP51,U.S. Senate,,Dem,Kevin DeLeon,0
+Nevada,CP52,U.S. Senate,,Dem,Kevin DeLeon,91
+Nevada,CP53,U.S. Senate,,Dem,Kevin DeLeon,56
+Nevada,CP55,U.S. Senate,,Dem,Kevin DeLeon,13
+Nevada,CP56 TR,U.S. Senate,,Dem,Kevin DeLeon,345
+Nevada,CP57 TR,U.S. Senate,,Dem,Kevin DeLeon,660
+Nevada,CP58,U.S. Senate,,Dem,Kevin DeLeon,1
+Nevada,CP60 TR,U.S. Senate,,Dem,Kevin DeLeon,659
+Nevada,CP61 TR,U.S. Senate,,Dem,Kevin DeLeon,482
+Nevada,CP62 TR,U.S. Senate,,Dem,Kevin DeLeon,317
+Nevada,CP64 TR,U.S. Senate,,Dem,Kevin DeLeon,580
+Nevada,CP67 TR,U.S. Senate,,Dem,Kevin DeLeon,11
+Nevada,NEVADA CA,U.S. Senate,,Dem,Kevin DeLeon,24219
+Nevada,CP01,Superintendent of Public Instruction,,None,Marshall Tuck,67
+Nevada,CP02,Superintendent of Public Instruction,,None,Marshall Tuck,156
+Nevada,CP03,Superintendent of Public Instruction,,None,Marshall Tuck,2
+Nevada,CP04,Superintendent of Public Instruction,,None,Marshall Tuck,29
+Nevada,CP05,Superintendent of Public Instruction,,None,Marshall Tuck,471
+Nevada,CP06,Superintendent of Public Instruction,,None,Marshall Tuck,754
+Nevada,CP07,Superintendent of Public Instruction,,None,Marshall Tuck,470
+Nevada,CP08,Superintendent of Public Instruction,,None,Marshall Tuck,323
+Nevada,CP09,Superintendent of Public Instruction,,None,Marshall Tuck,611
+Nevada,CP10,Superintendent of Public Instruction,,None,Marshall Tuck,1361
+Nevada,CP11,Superintendent of Public Instruction,,None,Marshall Tuck,168
+Nevada,CP12,Superintendent of Public Instruction,,None,Marshall Tuck,47
+Nevada,CP13,Superintendent of Public Instruction,,None,Marshall Tuck,55
+Nevada,CP14,Superintendent of Public Instruction,,None,Marshall Tuck,407
+Nevada,CP15,Superintendent of Public Instruction,,None,Marshall Tuck,855
+Nevada,CP16,Superintendent of Public Instruction,,None,Marshall Tuck,1392
+Nevada,CP17,Superintendent of Public Instruction,,None,Marshall Tuck,689
+Nevada,CP18,Superintendent of Public Instruction,,None,Marshall Tuck,212
+Nevada,CP19,Superintendent of Public Instruction,,None,Marshall Tuck,1267
+Nevada,CP20,Superintendent of Public Instruction,,None,Marshall Tuck,461
+Nevada,CP21,Superintendent of Public Instruction,,None,Marshall Tuck,715
+Nevada,CP22,Superintendent of Public Instruction,,None,Marshall Tuck,297
+Nevada,CP23,Superintendent of Public Instruction,,None,Marshall Tuck,106
+Nevada,CP24,Superintendent of Public Instruction,,None,Marshall Tuck,958
+Nevada,CP25,Superintendent of Public Instruction,,None,Marshall Tuck,769
+Nevada,CP26,Superintendent of Public Instruction,,None,Marshall Tuck,770
+Nevada,CP27,Superintendent of Public Instruction,,None,Marshall Tuck,43
+Nevada,CP28,Superintendent of Public Instruction,,None,Marshall Tuck,12
+Nevada,CP30 GV,Superintendent of Public Instruction,,None,Marshall Tuck,645
+Nevada,CP31,Superintendent of Public Instruction,,None,Marshall Tuck,14
+Nevada,CP32 GV,Superintendent of Public Instruction,,None,Marshall Tuck,69
+Nevada,CP33 GV,Superintendent of Public Instruction,,None,Marshall Tuck,662
+Nevada,CP34 GV,Superintendent of Public Instruction,,None,Marshall Tuck,86
+Nevada,CP35,Superintendent of Public Instruction,,None,Marshall Tuck,27
+Nevada,CP36,Superintendent of Public Instruction,,None,Marshall Tuck,178
+Nevada,CP37,Superintendent of Public Instruction,,None,Marshall Tuck,63
+Nevada,CP38,Superintendent of Public Instruction,,None,Marshall Tuck,293
+Nevada,CP39,Superintendent of Public Instruction,,None,Marshall Tuck,299
+Nevada,CP40,Superintendent of Public Instruction,,None,Marshall Tuck,876
+Nevada,CP41,Superintendent of Public Instruction,,None,Marshall Tuck,535
+Nevada,CP42,Superintendent of Public Instruction,,None,Marshall Tuck,416
+Nevada,CP43,Superintendent of Public Instruction,,None,Marshall Tuck,28
+Nevada,CP44,Superintendent of Public Instruction,,None,Marshall Tuck,763
+Nevada,CP45,Superintendent of Public Instruction,,None,Marshall Tuck,841
+Nevada,CP46,Superintendent of Public Instruction,,None,Marshall Tuck,936
+Nevada,CP47,Superintendent of Public Instruction,,None,Marshall Tuck,3
+Nevada,CP48,Superintendent of Public Instruction,,None,Marshall Tuck,124
+Nevada,CP50,Superintendent of Public Instruction,,None,Marshall Tuck,429
+Nevada,CP51,Superintendent of Public Instruction,,None,Marshall Tuck,1
+Nevada,CP52,Superintendent of Public Instruction,,None,Marshall Tuck,77
+Nevada,CP53,Superintendent of Public Instruction,,None,Marshall Tuck,39
+Nevada,CP55,Superintendent of Public Instruction,,None,Marshall Tuck,15
+Nevada,CP56 TR,Superintendent of Public Instruction,,None,Marshall Tuck,314
+Nevada,CP57 TR,Superintendent of Public Instruction,,None,Marshall Tuck,566
+Nevada,CP58,Superintendent of Public Instruction,,None,Marshall Tuck,1
+Nevada,CP60 TR,Superintendent of Public Instruction,,None,Marshall Tuck,606
+Nevada,CP61 TR,Superintendent of Public Instruction,,None,Marshall Tuck,427
+Nevada,CP62 TR,Superintendent of Public Instruction,,None,Marshall Tuck,291
+Nevada,CP64 TR,Superintendent of Public Instruction,,None,Marshall Tuck,474
+Nevada,CP67 TR,Superintendent of Public Instruction,,None,Marshall Tuck,7
+Nevada,NEVADA CA,Superintendent of Public Instruction,,None,Marshall Tuck,23572
+Nevada,CP01,Superintendent of Public Instruction,,None,Tony Thurmond,44
+Nevada,CP02,Superintendent of Public Instruction,,None,Tony Thurmond,122
+Nevada,CP03,Superintendent of Public Instruction,,None,Tony Thurmond,1
+Nevada,CP04,Superintendent of Public Instruction,,None,Tony Thurmond,26
+Nevada,CP05,Superintendent of Public Instruction,,None,Tony Thurmond,333
+Nevada,CP06,Superintendent of Public Instruction,,None,Tony Thurmond,1311
+Nevada,CP07,Superintendent of Public Instruction,,None,Tony Thurmond,325
+Nevada,CP08,Superintendent of Public Instruction,,None,Tony Thurmond,225
+Nevada,CP09,Superintendent of Public Instruction,,None,Tony Thurmond,428
+Nevada,CP10,Superintendent of Public Instruction,,None,Tony Thurmond,850
+Nevada,CP11,Superintendent of Public Instruction,,None,Tony Thurmond,138
+Nevada,CP12,Superintendent of Public Instruction,,None,Tony Thurmond,59
+Nevada,CP13,Superintendent of Public Instruction,,None,Tony Thurmond,33
+Nevada,CP14,Superintendent of Public Instruction,,None,Tony Thurmond,573
+Nevada,CP15,Superintendent of Public Instruction,,None,Tony Thurmond,497
+Nevada,CP16,Superintendent of Public Instruction,,None,Tony Thurmond,701
+Nevada,CP17,Superintendent of Public Instruction,,None,Tony Thurmond,369
+Nevada,CP18,Superintendent of Public Instruction,,None,Tony Thurmond,138
+Nevada,CP19,Superintendent of Public Instruction,,None,Tony Thurmond,770
+Nevada,CP20,Superintendent of Public Instruction,,None,Tony Thurmond,295
+Nevada,CP21,Superintendent of Public Instruction,,None,Tony Thurmond,497
+Nevada,CP22,Superintendent of Public Instruction,,None,Tony Thurmond,210
+Nevada,CP23,Superintendent of Public Instruction,,None,Tony Thurmond,89
+Nevada,CP24,Superintendent of Public Instruction,,None,Tony Thurmond,664
+Nevada,CP25,Superintendent of Public Instruction,,None,Tony Thurmond,719
+Nevada,CP26,Superintendent of Public Instruction,,None,Tony Thurmond,670
+Nevada,CP27,Superintendent of Public Instruction,,None,Tony Thurmond,53
+Nevada,CP28,Superintendent of Public Instruction,,None,Tony Thurmond,10
+Nevada,CP30 GV,Superintendent of Public Instruction,,None,Tony Thurmond,702
+Nevada,CP31,Superintendent of Public Instruction,,None,Tony Thurmond,17
+Nevada,CP32 GV,Superintendent of Public Instruction,,None,Tony Thurmond,52
+Nevada,CP33 GV,Superintendent of Public Instruction,,None,Tony Thurmond,567
+Nevada,CP34 GV,Superintendent of Public Instruction,,None,Tony Thurmond,61
+Nevada,CP35,Superintendent of Public Instruction,,None,Tony Thurmond,39
+Nevada,CP36,Superintendent of Public Instruction,,None,Tony Thurmond,192
+Nevada,CP37,Superintendent of Public Instruction,,None,Tony Thurmond,54
+Nevada,CP38,Superintendent of Public Instruction,,None,Tony Thurmond,222
+Nevada,CP39,Superintendent of Public Instruction,,None,Tony Thurmond,266
+Nevada,CP40,Superintendent of Public Instruction,,None,Tony Thurmond,646
+Nevada,CP41,Superintendent of Public Instruction,,None,Tony Thurmond,390
+Nevada,CP42,Superintendent of Public Instruction,,None,Tony Thurmond,467
+Nevada,CP43,Superintendent of Public Instruction,,None,Tony Thurmond,34
+Nevada,CP44,Superintendent of Public Instruction,,None,Tony Thurmond,1175
+Nevada,CP45,Superintendent of Public Instruction,,None,Tony Thurmond,1140
+Nevada,CP46,Superintendent of Public Instruction,,None,Tony Thurmond,1021
+Nevada,CP47,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Nevada,CP48,Superintendent of Public Instruction,,None,Tony Thurmond,123
+Nevada,CP50,Superintendent of Public Instruction,,None,Tony Thurmond,373
+Nevada,CP51,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Nevada,CP52,Superintendent of Public Instruction,,None,Tony Thurmond,94
+Nevada,CP53,Superintendent of Public Instruction,,None,Tony Thurmond,42
+Nevada,CP55,Superintendent of Public Instruction,,None,Tony Thurmond,12
+Nevada,CP56 TR,Superintendent of Public Instruction,,None,Tony Thurmond,455
+Nevada,CP57 TR,Superintendent of Public Instruction,,None,Tony Thurmond,704
+Nevada,CP58,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Nevada,CP60 TR,Superintendent of Public Instruction,,None,Tony Thurmond,863
+Nevada,CP61 TR,Superintendent of Public Instruction,,None,Tony Thurmond,514
+Nevada,CP62 TR,Superintendent of Public Instruction,,None,Tony Thurmond,338
+Nevada,CP64 TR,Superintendent of Public Instruction,,None,Tony Thurmond,659
+Nevada,CP67 TR,Superintendent of Public Instruction,,None,Tony Thurmond,12
+Nevada,NEVADA CA,Superintendent of Public Instruction,,None,Tony Thurmond,21384
+Nevada,CP01,U.S. House,1,Dem,Audrey Denney,65
+Nevada,CP02,U.S. House,1,Dem,Audrey Denney,196
+Nevada,CP03,U.S. House,1,Dem,Audrey Denney,0
+Nevada,CP04,U.S. House,1,Dem,Audrey Denney,30
+Nevada,CP05,U.S. House,1,Dem,Audrey Denney,434
+Nevada,CP06,U.S. House,1,Dem,Audrey Denney,1111
+Nevada,CP07,U.S. House,1,Dem,Audrey Denney,489
+Nevada,CP08,U.S. House,1,Dem,Audrey Denney,339
+Nevada,CP09,U.S. House,1,Dem,Audrey Denney,651
+Nevada,CP10,U.S. House,1,Dem,Audrey Denney,1255
+Nevada,CP11,U.S. House,1,Dem,Audrey Denney,210
+Nevada,CP12,U.S. House,1,Dem,Audrey Denney,90
+Nevada,CP13,U.S. House,1,Dem,Audrey Denney,57
+Nevada,CP14,U.S. House,1,Dem,Audrey Denney,974
+Nevada,CP15,U.S. House,1,Dem,Audrey Denney,642
+Nevada,CP16,U.S. House,1,Dem,Audrey Denney,993
+Nevada,CP17,U.S. House,1,Dem,Audrey Denney,518
+Nevada,CP18,U.S. House,1,Dem,Audrey Denney,187
+Nevada,CP19,U.S. House,1,Dem,Audrey Denney,1180
+Nevada,CP20,U.S. House,1,Dem,Audrey Denney,431
+Nevada,CP21,U.S. House,1,Dem,Audrey Denney,704
+Nevada,CP22,U.S. House,1,Dem,Audrey Denney,328
+Nevada,CP23,U.S. House,1,Dem,Audrey Denney,124
+Nevada,CP24,U.S. House,1,Dem,Audrey Denney,967
+Nevada,CP25,U.S. House,1,Dem,Audrey Denney,1071
+Nevada,CP26,U.S. House,1,Dem,Audrey Denney,1038
+Nevada,CP27,U.S. House,1,Dem,Audrey Denney,83
+Nevada,CP28,U.S. House,1,Dem,Audrey Denney,21
+Nevada,CP30 GV,U.S. House,1,Dem,Audrey Denney,1084
+Nevada,CP31,U.S. House,1,Dem,Audrey Denney,23
+Nevada,CP32 GV,U.S. House,1,Dem,Audrey Denney,68
+Nevada,CP33 GV,U.S. House,1,Dem,Audrey Denney,881
+Nevada,CP34 GV,U.S. House,1,Dem,Audrey Denney,92
+Nevada,CP35,U.S. House,1,Dem,Audrey Denney,51
+Nevada,CP36,U.S. House,1,Dem,Audrey Denney,261
+Nevada,CP37,U.S. House,1,Dem,Audrey Denney,74
+Nevada,CP38,U.S. House,1,Dem,Audrey Denney,347
+Nevada,CP39,U.S. House,1,Dem,Audrey Denney,359
+Nevada,CP40,U.S. House,1,Dem,Audrey Denney,951
+Nevada,CP41,U.S. House,1,Dem,Audrey Denney,601
+Nevada,CP42,U.S. House,1,Dem,Audrey Denney,652
+Nevada,CP43,U.S. House,1,Dem,Audrey Denney,45
+Nevada,CP44,U.S. House,1,Dem,Audrey Denney,1781
+Nevada,CP45,U.S. House,1,Dem,Audrey Denney,1675
+Nevada,CP46,U.S. House,1,Dem,Audrey Denney,1477
+Nevada,CP47,U.S. House,1,Dem,Audrey Denney,0
+Nevada,CP48,U.S. House,1,Dem,Audrey Denney,169
+Nevada,CP50,U.S. House,1,Dem,Audrey Denney,594
+Nevada,CP51,U.S. House,1,Dem,Audrey Denney,1
+Nevada,CP52,U.S. House,1,Dem,Audrey Denney,140
+Nevada,CP53,U.S. House,4,Dem,Jessica Moore,62
+Nevada,CP55,U.S. House,4,Dem,Jessica Moore,12
+Nevada,CP56 TR,U.S. House,4,Dem,Jessica Moore,727
+Nevada,CP57 TR,U.S. House,4,Dem,Jessica Moore,1255
+Nevada,CP58,U.S. House,4,Dem,Jessica Moore,0
+Nevada,CP60 TR,U.S. House,4,Dem,Jessica Moore,1438
+Nevada,CP61 TR,U.S. House,4,Dem,Jessica Moore,903
+Nevada,CP62 TR,U.S. House,4,Dem,Jessica Moore,587
+Nevada,CP64 TR,U.S. House,4,Dem,Jessica Moore,1089
+Nevada,CP67 TR,U.S. House,4,Dem,Jessica Moore,21
+Nevada,NEVADA CA,U.S. House,1,Dem,Audrey Denney,0
+Nevada,NEVADA CA,U.S. House,4,Dem,Jessica Moore,0
+Nevada,CP01,U.S. House,1,Rep,Doug LaMalfa,64
+Nevada,CP02,U.S. House,1,Rep,Doug LaMalfa,151
+Nevada,CP03,U.S. House,1,Rep,Doug LaMalfa,4
+Nevada,CP04,U.S. House,1,Rep,Doug LaMalfa,36
+Nevada,CP05,U.S. House,1,Rep,Doug LaMalfa,493
+Nevada,CP06,U.S. House,1,Rep,Doug LaMalfa,1304
+Nevada,CP07,U.S. House,1,Rep,Doug LaMalfa,472
+Nevada,CP08,U.S. House,1,Rep,Doug LaMalfa,324
+Nevada,CP09,U.S. House,1,Rep,Doug LaMalfa,629
+Nevada,CP10,U.S. House,1,Rep,Doug LaMalfa,1357
+Nevada,CP11,U.S. House,1,Rep,Doug LaMalfa,170
+Nevada,CP12,U.S. House,1,Rep,Doug LaMalfa,45
+Nevada,CP13,U.S. House,1,Rep,Doug LaMalfa,52
+Nevada,CP14,U.S. House,1,Rep,Doug LaMalfa,224
+Nevada,CP15,U.S. House,1,Rep,Doug LaMalfa,992
+Nevada,CP16,U.S. House,1,Rep,Doug LaMalfa,1547
+Nevada,CP17,U.S. House,1,Rep,Doug LaMalfa,736
+Nevada,CP18,U.S. House,1,Rep,Doug LaMalfa,227
+Nevada,CP19,U.S. House,1,Rep,Doug LaMalfa,1246
+Nevada,CP20,U.S. House,1,Rep,Doug LaMalfa,471
+Nevada,CP21,U.S. House,1,Rep,Doug LaMalfa,728
+Nevada,CP22,U.S. House,1,Rep,Doug LaMalfa,293
+Nevada,CP23,U.S. House,1,Rep,Doug LaMalfa,113
+Nevada,CP24,U.S. House,1,Rep,Doug LaMalfa,969
+Nevada,CP25,U.S. House,1,Rep,Doug LaMalfa,741
+Nevada,CP26,U.S. House,1,Rep,Doug LaMalfa,661
+Nevada,CP27,U.S. House,1,Rep,Doug LaMalfa,32
+Nevada,CP28,U.S. House,1,Rep,Doug LaMalfa,9
+Nevada,CP30 GV,U.S. House,1,Rep,Doug LaMalfa,517
+Nevada,CP31,U.S. House,1,Rep,Doug LaMalfa,12
+Nevada,CP32 GV,U.S. House,1,Rep,Doug LaMalfa,83
+Nevada,CP33 GV,U.S. House,1,Rep,Doug LaMalfa,609
+Nevada,CP34 GV,U.S. House,1,Rep,Doug LaMalfa,71
+Nevada,CP35,U.S. House,1,Rep,Doug LaMalfa,22
+Nevada,CP36,U.S. House,1,Rep,Doug LaMalfa,170
+Nevada,CP37,U.S. House,1,Rep,Doug LaMalfa,71
+Nevada,CP38,U.S. House,1,Rep,Doug LaMalfa,280
+Nevada,CP39,U.S. House,1,Rep,Doug LaMalfa,319
+Nevada,CP40,U.S. House,1,Rep,Doug LaMalfa,889
+Nevada,CP41,U.S. House,1,Rep,Doug LaMalfa,535
+Nevada,CP42,U.S. House,1,Rep,Doug LaMalfa,386
+Nevada,CP43,U.S. House,1,Rep,Doug LaMalfa,24
+Nevada,CP44,U.S. House,1,Rep,Doug LaMalfa,535
+Nevada,CP45,U.S. House,1,Rep,Doug LaMalfa,740
+Nevada,CP46,U.S. House,1,Rep,Doug LaMalfa,846
+Nevada,CP47,U.S. House,1,Rep,Doug LaMalfa,3
+Nevada,CP48,U.S. House,1,Rep,Doug LaMalfa,120
+Nevada,CP50,U.S. House,1,Rep,Doug LaMalfa,379
+Nevada,CP51,U.S. House,1,Rep,Doug LaMalfa,1
+Nevada,CP52,U.S. House,1,Rep,Doug LaMalfa,74
+Nevada,CP53,U.S. House,4,Rep,Tom McClintock,41
+Nevada,CP55,U.S. House,4,Rep,Tom McClintock,21
+Nevada,CP56 TR,U.S. House,4,Rep,Tom McClintock,231
+Nevada,CP57 TR,U.S. House,4,Rep,Tom McClintock,349
+Nevada,CP58,U.S. House,4,Rep,Tom McClintock,1
+Nevada,CP60 TR,U.S. House,4,Rep,Tom McClintock,430
+Nevada,CP61 TR,U.S. House,4,Rep,Tom McClintock,244
+Nevada,CP62 TR,U.S. House,4,Rep,Tom McClintock,211
+Nevada,CP64 TR,U.S. House,4,Rep,Tom McClintock,316
+Nevada,CP67 TR,U.S. House,4,Rep,Tom McClintock,5
+Nevada,NEVADA CA,U.S. House,1,Rep,Doug LaMalfa,0
+Nevada,NEVADA CA,U.S. House,4,Rep,Tom McClintock,0
+Nevada,CP01,State Assembly,1,Dem,Caleen Sisk,57
+Nevada,CP02,State Assembly,1,Dem,Caleen Sisk,177
+Nevada,CP03,State Assembly,1,Dem,Caleen Sisk,0
+Nevada,CP04,State Assembly,1,Dem,Caleen Sisk,31
+Nevada,CP05,State Assembly,1,Dem,Caleen Sisk,472
+Nevada,CP06,State Assembly,1,Dem,Caleen Sisk,966
+Nevada,CP07,State Assembly,1,Dem,Caleen Sisk,437
+Nevada,CP08,State Assembly,1,Dem,Caleen Sisk,275
+Nevada,CP09,State Assembly,1,Dem,Caleen Sisk,541
+Nevada,CP10,State Assembly,1,Dem,Caleen Sisk,1027
+Nevada,CP11,State Assembly,1,Dem,Caleen Sisk,203
+Nevada,CP12,State Assembly,1,Dem,Caleen Sisk,82
+Nevada,CP13,State Assembly,1,Dem,Caleen Sisk,44
+Nevada,CP14,State Assembly,1,Dem,Caleen Sisk,920
+Nevada,CP15,State Assembly,1,Dem,Caleen Sisk,520
+Nevada,CP16,State Assembly,1,Dem,Caleen Sisk,805
+Nevada,CP17,State Assembly,1,Dem,Caleen Sisk,411
+Nevada,CP18,State Assembly,1,Dem,Caleen Sisk,171
+Nevada,CP19,State Assembly,1,Dem,Caleen Sisk,967
+Nevada,CP20,State Assembly,1,Dem,Caleen Sisk,339
+Nevada,CP21,State Assembly,1,Dem,Caleen Sisk,589
+Nevada,CP22,State Assembly,1,Dem,Caleen Sisk,265
+Nevada,CP23,State Assembly,1,Dem,Caleen Sisk,111
+Nevada,CP24,State Assembly,1,Dem,Caleen Sisk,809
+Nevada,CP25,State Assembly,1,Dem,Caleen Sisk,921
+Nevada,CP26,State Assembly,1,Dem,Caleen Sisk,897
+Nevada,CP27,State Assembly,1,Dem,Caleen Sisk,74
+Nevada,CP28,State Assembly,1,Dem,Caleen Sisk,18
+Nevada,CP30 GV,State Assembly,1,Dem,Caleen Sisk,954
+Nevada,CP31,State Assembly,1,Dem,Caleen Sisk,19
+Nevada,CP32 GV,State Assembly,1,Dem,Caleen Sisk,64
+Nevada,CP33 GV,State Assembly,1,Dem,Caleen Sisk,765
+Nevada,CP34 GV,State Assembly,1,Dem,Caleen Sisk,81
+Nevada,CP35,State Assembly,1,Dem,Caleen Sisk,45
+Nevada,CP36,State Assembly,1,Dem,Caleen Sisk,203
+Nevada,CP37,State Assembly,1,Dem,Caleen Sisk,66
+Nevada,CP38,State Assembly,1,Dem,Caleen Sisk,296
+Nevada,CP39,State Assembly,1,Dem,Caleen Sisk,299
+Nevada,CP40,State Assembly,1,Dem,Caleen Sisk,824
+Nevada,CP41,State Assembly,1,Dem,Caleen Sisk,511
+Nevada,CP42,State Assembly,1,Dem,Caleen Sisk,554
+Nevada,CP43,State Assembly,1,Dem,Caleen Sisk,42
+Nevada,CP44,State Assembly,1,Dem,Caleen Sisk,1583
+Nevada,CP45,State Assembly,1,Dem,Caleen Sisk,1491
+Nevada,CP46,State Assembly,1,Dem,Caleen Sisk,1276
+Nevada,CP47,State Assembly,1,Dem,Caleen Sisk,3
+Nevada,CP48,State Assembly,1,Dem,Caleen Sisk,151
+Nevada,CP50,State Assembly,1,Dem,Caleen Sisk,560
+Nevada,CP51,State Assembly,1,Dem,Caleen Sisk,1
+Nevada,CP52,State Assembly,1,Dem,Caleen Sisk,125
+Nevada,CP53,State Assembly,1,Dem,Caleen Sisk,53
+Nevada,CP55,State Assembly,1,Dem,Caleen Sisk,9
+Nevada,CP56 TR,State Assembly,1,Dem,Caleen Sisk,580
+Nevada,CP57 TR,State Assembly,1,Dem,Caleen Sisk,1046
+Nevada,CP58,State Assembly,1,Dem,Caleen Sisk,0
+Nevada,CP60 TR,State Assembly,1,Dem,Caleen Sisk,1119
+Nevada,CP61 TR,State Assembly,1,Dem,Caleen Sisk,730
+Nevada,CP62 TR,State Assembly,1,Dem,Caleen Sisk,442
+Nevada,CP64 TR,State Assembly,1,Dem,Caleen Sisk,840
+Nevada,CP67 TR,State Assembly,1,Dem,Caleen Sisk,12
+Nevada,NEVADA CA,State Assembly,1,Dem,Caleen Sisk,26873
+Nevada,CP01,State Assembly,1,Rep,Brian Dahle,70
+Nevada,CP02,State Assembly,1,Rep,Brian Dahle,161
+Nevada,CP03,State Assembly,1,Rep,Brian Dahle,4
+Nevada,CP04,State Assembly,1,Rep,Brian Dahle,34
+Nevada,CP05,State Assembly,1,Rep,Brian Dahle,445
+Nevada,CP06,State Assembly,1,Rep,Brian Dahle,1428
+Nevada,CP07,State Assembly,1,Rep,Brian Dahle,504
+Nevada,CP08,State Assembly,1,Rep,Brian Dahle,377
+Nevada,CP09,State Assembly,1,Rep,Brian Dahle,730
+Nevada,CP10,State Assembly,1,Rep,Brian Dahle,1529
+Nevada,CP11,State Assembly,1,Rep,Brian Dahle,175
+Nevada,CP12,State Assembly,1,Rep,Brian Dahle,52
+Nevada,CP13,State Assembly,1,Rep,Brian Dahle,61
+Nevada,CP14,State Assembly,1,Rep,Brian Dahle,261
+Nevada,CP15,State Assembly,1,Rep,Brian Dahle,1084
+Nevada,CP16,State Assembly,1,Rep,Brian Dahle,1690
+Nevada,CP17,State Assembly,1,Rep,Brian Dahle,819
+Nevada,CP18,State Assembly,1,Rep,Brian Dahle,240
+Nevada,CP19,State Assembly,1,Rep,Brian Dahle,1399
+Nevada,CP20,State Assembly,1,Rep,Brian Dahle,547
+Nevada,CP21,State Assembly,1,Rep,Brian Dahle,817
+Nevada,CP22,State Assembly,1,Rep,Brian Dahle,334
+Nevada,CP23,State Assembly,1,Rep,Brian Dahle,122
+Nevada,CP24,State Assembly,1,Rep,Brian Dahle,1093
+Nevada,CP25,State Assembly,1,Rep,Brian Dahle,860
+Nevada,CP26,State Assembly,1,Rep,Brian Dahle,773
+Nevada,CP27,State Assembly,1,Rep,Brian Dahle,39
+Nevada,CP28,State Assembly,1,Rep,Brian Dahle,11
+Nevada,CP30 GV,State Assembly,1,Rep,Brian Dahle,612
+Nevada,CP31,State Assembly,1,Rep,Brian Dahle,16
+Nevada,CP32 GV,State Assembly,1,Rep,Brian Dahle,81
+Nevada,CP33 GV,State Assembly,1,Rep,Brian Dahle,704
+Nevada,CP34 GV,State Assembly,1,Rep,Brian Dahle,80
+Nevada,CP35,State Assembly,1,Rep,Brian Dahle,24
+Nevada,CP36,State Assembly,1,Rep,Brian Dahle,217
+Nevada,CP37,State Assembly,1,Rep,Brian Dahle,77
+Nevada,CP38,State Assembly,1,Rep,Brian Dahle,313
+Nevada,CP39,State Assembly,1,Rep,Brian Dahle,365
+Nevada,CP40,State Assembly,1,Rep,Brian Dahle,994
+Nevada,CP41,State Assembly,1,Rep,Brian Dahle,601
+Nevada,CP42,State Assembly,1,Rep,Brian Dahle,451
+Nevada,CP43,State Assembly,1,Rep,Brian Dahle,28
+Nevada,CP44,State Assembly,1,Rep,Brian Dahle,691
+Nevada,CP45,State Assembly,1,Rep,Brian Dahle,863
+Nevada,CP46,State Assembly,1,Rep,Brian Dahle,983
+Nevada,CP47,State Assembly,1,Rep,Brian Dahle,0
+Nevada,CP48,State Assembly,1,Rep,Brian Dahle,130
+Nevada,CP50,State Assembly,1,Rep,Brian Dahle,400
+Nevada,CP51,State Assembly,1,Rep,Brian Dahle,1
+Nevada,CP52,State Assembly,1,Rep,Brian Dahle,87
+Nevada,CP53,State Assembly,1,Rep,Brian Dahle,48
+Nevada,CP55,State Assembly,1,Rep,Brian Dahle,24
+Nevada,CP56 TR,State Assembly,1,Rep,Brian Dahle,338
+Nevada,CP57 TR,State Assembly,1,Rep,Brian Dahle,479
+Nevada,CP58,State Assembly,1,Rep,Brian Dahle,1
+Nevada,CP60 TR,State Assembly,1,Rep,Brian Dahle,655
+Nevada,CP61 TR,State Assembly,1,Rep,Brian Dahle,366
+Nevada,CP62 TR,State Assembly,1,Rep,Brian Dahle,312
+Nevada,CP64 TR,State Assembly,1,Rep,Brian Dahle,475
+Nevada,CP67 TR,State Assembly,1,Rep,Brian Dahle,11
+Nevada,NEVADA CA,State Assembly,1,Rep,Brian Dahle,26086

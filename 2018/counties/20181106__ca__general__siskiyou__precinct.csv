@@ -1,0 +1,1431 @@
+county,precinct,office,district,party,candidate,votes
+Siskiyou,M1001 - BOGUS,Governor,,Rep,John Cox,123
+Siskiyou,M1007 - DORRIS 2,Governor,,Rep,John Cox,120
+Siskiyou,M1020 - TULELAKE 2,Governor,,Rep,John Cox,59
+Siskiyou,M1060 - COPCO CONS,Governor,,Rep,John Cox,34
+Siskiyou,M1065 - LITTLE SHASTA CONS,Governor,,Rep,John Cox,147
+Siskiyou,M1070 - PONDOSA CONS,Governor,,Rep,John Cox,80
+Siskiyou,M1075 - BASIN,Governor,,Rep,John Cox,39
+Siskiyou,M1080 - MACDOEL CONS,Governor,,Rep,John Cox,130
+Siskiyou,M1117 - TULELAKE 1,Governor,,Rep,John Cox,101
+Siskiyou,M2060 - CASTLE,Governor,,Rep,John Cox,3
+Siskiyou,M2065 - BEAR,Governor,,Rep,John Cox,22
+Siskiyou,M3013 - WARREN,Governor,,Rep,John Cox,127
+Siskiyou,M3060 - GAZELLE CONS,Governor,,Rep,John Cox,134
+Siskiyou,M3065 - BUTTE,Governor,,Rep,John Cox,1
+Siskiyou,M3070 - EDDY,Governor,,Rep,John Cox,54
+Siskiyou,M3075 - COUGAR,Governor,,Rep,John Cox,3
+Siskiyou,M3080 - EAGLE,Governor,,Rep,John Cox,0
+Siskiyou,M3085 - DUCK,Governor,,Rep,John Cox,22
+Siskiyou,M4060 - DELPHIC CONS,Governor,,Rep,John Cox,114
+Siskiyou,M4065 - GREENHORN CONS,Governor,,Rep,John Cox,130
+Siskiyou,M5060 - HILT CONS,Governor,,Rep,John Cox,97
+Siskiyou,M5065 - WALKER CONS,Governor,,Rep,John Cox,73
+Siskiyou,M5070 - GOTTVILLE CONS,Governor,,Rep,John Cox,45
+Siskiyou,M5075 - HORNBROOK,Governor,,Rep,John Cox,59
+Siskiyou,M5080 - HENLEY,Governor,,Rep,John Cox,88
+Siskiyou,M5085 - HUMBUG CONS,Governor,,Rep,John Cox,140
+Siskiyou,M5090 - CALLAHAN CONS,Governor,,Rep,John Cox,84
+Siskiyou,M5095 - SEIAD CONS,Governor,,Rep,John Cox,84
+Siskiyou,P1000 - MCCLOUD CONS,Governor,,Rep,John Cox,339
+Siskiyou,P1002 - MONTAGUE 2,Governor,,Rep,John Cox,151
+Siskiyou,P1003 - WILLOW CREEK,Governor,,Rep,John Cox,256
+Siskiyou,P1026 - BIG SPRINGS,Governor,,Rep,John Cox,106
+Siskiyou,P1105 - DORRIS 1,Governor,,Rep,John Cox,133
+Siskiyou,P1110 - MONTAGUE 1,Governor,,Rep,John Cox,347
+Siskiyou,P2009 - DUNSMUIR 3,Governor,,Rep,John Cox,84
+Siskiyou,P2014 - MT SHASTA 3,Governor,,Rep,John Cox,281
+Siskiyou,P2015 - MT SHASTA 5,Governor,,Rep,John Cox,154
+Siskiyou,P2019 - KINSTREY,Governor,,Rep,John Cox,363
+Siskiyou,P2100 - DUNSMUIR CITY,Governor,,Rep,John Cox,283
+Siskiyou,P2110 - MT SHASTA 1,Governor,,Rep,John Cox,182
+Siskiyou,P2111 - MT SHASTA 2,Governor,,Rep,John Cox,252
+Siskiyou,P2115 - MT SHASTA 4,Governor,,Rep,John Cox,179
+Siskiyou,P3001 - EDGEWOOD,Governor,,Rep,John Cox,105
+Siskiyou,P3004 - GRENADA,Governor,,Rep,John Cox,279
+Siskiyou,P3006 - LAKE SHASTINA M,Governor,,Rep,John Cox,211
+Siskiyou,P3007 - LAKE SHASTINA E,Governor,,Rep,John Cox,420
+Siskiyou,P3009 - MAYTEN,Governor,,Rep,John Cox,162
+Siskiyou,P3014 - SISSON,Governor,,Rep,John Cox,213
+Siskiyou,P3021 - WEED 3,Governor,,Rep,John Cox,130
+Siskiyou,P3111 - WEED 1,Governor,,Rep,John Cox,160
+Siskiyou,P3112 - WEED 2,Governor,,Rep,John Cox,163
+Siskiyou,P4030 - FOREST MTN,Governor,,Rep,John Cox,431
+Siskiyou,P4110 - YREKA 1,Governor,,Rep,John Cox,295
+Siskiyou,P4112 - YREKA 2,Governor,,Rep,John Cox,322
+Siskiyou,P4115 - YREKA 3,Governor,,Rep,John Cox,284
+Siskiyou,P4116 - YREKA 4,Governor,,Rep,John Cox,214
+Siskiyou,P4118 - YREKA 5,Governor,,Rep,John Cox,298
+Siskiyou,P4121 - YREKA 6,Governor,,Rep,John Cox,279
+Siskiyou,P5005 - ETNA 2,Governor,,Rep,John Cox,501
+Siskiyou,P5008 - FT JONES 2,Governor,,Rep,John Cox,290
+Siskiyou,P5011 - HAPPY CAMP,Governor,,Rep,John Cox,214
+Siskiyou,P5050 - GREENVIEW CONS,Governor,,Rep,John Cox,406
+Siskiyou,P5103 - ETNA 1,Governor,,Rep,John Cox,177
+Siskiyou,P5107 - FT JONES 1,Governor,,Rep,John Cox,169
+Siskiyou,SISKIYOU CA,Governor,,Rep,John Cox,"10,946"
+Siskiyou,M1001 - BOGUS,Governor,,Dem,Gavin Newsom,45
+Siskiyou,M1007 - DORRIS 2,Governor,,Dem,Gavin Newsom,28
+Siskiyou,M1020 - TULELAKE 2,Governor,,Dem,Gavin Newsom,9
+Siskiyou,M1060 - COPCO CONS,Governor,,Dem,Gavin Newsom,16
+Siskiyou,M1065 - LITTLE SHASTA CONS,Governor,,Dem,Gavin Newsom,41
+Siskiyou,M1070 - PONDOSA CONS,Governor,,Dem,Gavin Newsom,78
+Siskiyou,M1075 - BASIN,Governor,,Dem,Gavin Newsom,7
+Siskiyou,M1080 - MACDOEL CONS,Governor,,Dem,Gavin Newsom,43
+Siskiyou,M1117 - TULELAKE 1,Governor,,Dem,Gavin Newsom,27
+Siskiyou,M2060 - CASTLE,Governor,,Dem,Gavin Newsom,0
+Siskiyou,M2065 - BEAR,Governor,,Dem,Gavin Newsom,23
+Siskiyou,M3013 - WARREN,Governor,,Dem,Gavin Newsom,62
+Siskiyou,M3060 - GAZELLE CONS,Governor,,Dem,Gavin Newsom,32
+Siskiyou,M3065 - BUTTE,Governor,,Dem,Gavin Newsom,5
+Siskiyou,M3070 - EDDY,Governor,,Dem,Gavin Newsom,53
+Siskiyou,M3075 - COUGAR,Governor,,Dem,Gavin Newsom,2
+Siskiyou,M3080 - EAGLE,Governor,,Dem,Gavin Newsom,0
+Siskiyou,M3085 - DUCK,Governor,,Dem,Gavin Newsom,13
+Siskiyou,M4060 - DELPHIC CONS,Governor,,Dem,Gavin Newsom,31
+Siskiyou,M4065 - GREENHORN CONS,Governor,,Dem,Gavin Newsom,26
+Siskiyou,M5060 - HILT CONS,Governor,,Dem,Gavin Newsom,42
+Siskiyou,M5065 - WALKER CONS,Governor,,Dem,Gavin Newsom,67
+Siskiyou,M5070 - GOTTVILLE CONS,Governor,,Dem,Gavin Newsom,20
+Siskiyou,M5075 - HORNBROOK,Governor,,Dem,Gavin Newsom,20
+Siskiyou,M5080 - HENLEY,Governor,,Dem,Gavin Newsom,33
+Siskiyou,M5085 - HUMBUG CONS,Governor,,Dem,Gavin Newsom,59
+Siskiyou,M5090 - CALLAHAN CONS,Governor,,Dem,Gavin Newsom,73
+Siskiyou,M5095 - SEIAD CONS,Governor,,Dem,Gavin Newsom,84
+Siskiyou,P1000 - MCCLOUD CONS,Governor,,Dem,Gavin Newsom,162
+Siskiyou,P1002 - MONTAGUE 2,Governor,,Dem,Gavin Newsom,42
+Siskiyou,P1003 - WILLOW CREEK,Governor,,Dem,Gavin Newsom,92
+Siskiyou,P1026 - BIG SPRINGS,Governor,,Dem,Gavin Newsom,86
+Siskiyou,P1105 - DORRIS 1,Governor,,Dem,Gavin Newsom,60
+Siskiyou,P1110 - MONTAGUE 1,Governor,,Dem,Gavin Newsom,116
+Siskiyou,P2009 - DUNSMUIR 3,Governor,,Dem,Gavin Newsom,89
+Siskiyou,P2014 - MT SHASTA 3,Governor,,Dem,Gavin Newsom,336
+Siskiyou,P2015 - MT SHASTA 5,Governor,,Dem,Gavin Newsom,263
+Siskiyou,P2019 - KINSTREY,Governor,,Dem,Gavin Newsom,332
+Siskiyou,P2100 - DUNSMUIR CITY,Governor,,Dem,Gavin Newsom,386
+Siskiyou,P2110 - MT SHASTA 1,Governor,,Dem,Gavin Newsom,280
+Siskiyou,P2111 - MT SHASTA 2,Governor,,Dem,Gavin Newsom,360
+Siskiyou,P2115 - MT SHASTA 4,Governor,,Dem,Gavin Newsom,325
+Siskiyou,P3001 - EDGEWOOD,Governor,,Dem,Gavin Newsom,120
+Siskiyou,P3004 - GRENADA,Governor,,Dem,Gavin Newsom,86
+Siskiyou,P3006 - LAKE SHASTINA M,Governor,,Dem,Gavin Newsom,178
+Siskiyou,P3007 - LAKE SHASTINA E,Governor,,Dem,Gavin Newsom,278
+Siskiyou,P3009 - MAYTEN,Governor,,Dem,Gavin Newsom,76
+Siskiyou,P3014 - SISSON,Governor,,Dem,Gavin Newsom,218
+Siskiyou,P3021 - WEED 3,Governor,,Dem,Gavin Newsom,165
+Siskiyou,P3111 - WEED 1,Governor,,Dem,Gavin Newsom,180
+Siskiyou,P3112 - WEED 2,Governor,,Dem,Gavin Newsom,204
+Siskiyou,P4030 - FOREST MTN,Governor,,Dem,Gavin Newsom,119
+Siskiyou,P4110 - YREKA 1,Governor,,Dem,Gavin Newsom,179
+Siskiyou,P4112 - YREKA 2,Governor,,Dem,Gavin Newsom,180
+Siskiyou,P4115 - YREKA 3,Governor,,Dem,Gavin Newsom,167
+Siskiyou,P4116 - YREKA 4,Governor,,Dem,Gavin Newsom,118
+Siskiyou,P4118 - YREKA 5,Governor,,Dem,Gavin Newsom,179
+Siskiyou,P4121 - YREKA 6,Governor,,Dem,Gavin Newsom,123
+Siskiyou,P5005 - ETNA 2,Governor,,Dem,Gavin Newsom,194
+Siskiyou,P5008 - FT JONES 2,Governor,,Dem,Gavin Newsom,103
+Siskiyou,P5011 - HAPPY CAMP,Governor,,Dem,Gavin Newsom,134
+Siskiyou,P5050 - GREENVIEW CONS,Governor,,Dem,Gavin Newsom,174
+Siskiyou,P5103 - ETNA 1,Governor,,Dem,Gavin Newsom,97
+Siskiyou,P5107 - FT JONES 1,Governor,,Dem,Gavin Newsom,78
+Siskiyou,SISKIYOU CA,Governor,,Dem,Gavin Newsom,"7,218"
+Siskiyou,M1001 - BOGUS,Lieutenant Governor,,Dem,Ed Hernandez,53
+Siskiyou,M1007 - DORRIS 2,Lieutenant Governor,,Dem,Ed Hernandez,41
+Siskiyou,M1020 - TULELAKE 2,Lieutenant Governor,,Dem,Ed Hernandez,17
+Siskiyou,M1060 - COPCO CONS,Lieutenant Governor,,Dem,Ed Hernandez,15
+Siskiyou,M1065 - LITTLE SHASTA CONS,Lieutenant Governor,,Dem,Ed Hernandez,54
+Siskiyou,M1070 - PONDOSA CONS,Lieutenant Governor,,Dem,Ed Hernandez,46
+Siskiyou,M1075 - BASIN,Lieutenant Governor,,Dem,Ed Hernandez,13
+Siskiyou,M1080 - MACDOEL CONS,Lieutenant Governor,,Dem,Ed Hernandez,53
+Siskiyou,M1117 - TULELAKE 1,Lieutenant Governor,,Dem,Ed Hernandez,32
+Siskiyou,M2060 - CASTLE,Lieutenant Governor,,Dem,Ed Hernandez,1
+Siskiyou,M2065 - BEAR,Lieutenant Governor,,Dem,Ed Hernandez,19
+Siskiyou,M3013 - WARREN,Lieutenant Governor,,Dem,Ed Hernandez,52
+Siskiyou,M3060 - GAZELLE CONS,Lieutenant Governor,,Dem,Ed Hernandez,52
+Siskiyou,M3065 - BUTTE,Lieutenant Governor,,Dem,Ed Hernandez,0
+Siskiyou,M3070 - EDDY,Lieutenant Governor,,Dem,Ed Hernandez,34
+Siskiyou,M3075 - COUGAR,Lieutenant Governor,,Dem,Ed Hernandez,2
+Siskiyou,M3080 - EAGLE,Lieutenant Governor,,Dem,Ed Hernandez,0
+Siskiyou,M3085 - DUCK,Lieutenant Governor,,Dem,Ed Hernandez,8
+Siskiyou,M4060 - DELPHIC CONS,Lieutenant Governor,,Dem,Ed Hernandez,55
+Siskiyou,M4065 - GREENHORN CONS,Lieutenant Governor,,Dem,Ed Hernandez,54
+Siskiyou,M5060 - HILT CONS,Lieutenant Governor,,Dem,Ed Hernandez,54
+Siskiyou,M5065 - WALKER CONS,Lieutenant Governor,,Dem,Ed Hernandez,33
+Siskiyou,M5070 - GOTTVILLE CONS,Lieutenant Governor,,Dem,Ed Hernandez,18
+Siskiyou,M5075 - HORNBROOK,Lieutenant Governor,,Dem,Ed Hernandez,20
+Siskiyou,M5080 - HENLEY,Lieutenant Governor,,Dem,Ed Hernandez,36
+Siskiyou,M5085 - HUMBUG CONS,Lieutenant Governor,,Dem,Ed Hernandez,73
+Siskiyou,M5090 - CALLAHAN CONS,Lieutenant Governor,,Dem,Ed Hernandez,55
+Siskiyou,M5095 - SEIAD CONS,Lieutenant Governor,,Dem,Ed Hernandez,42
+Siskiyou,P1000 - MCCLOUD CONS,Lieutenant Governor,,Dem,Ed Hernandez,164
+Siskiyou,P1002 - MONTAGUE 2,Lieutenant Governor,,Dem,Ed Hernandez,60
+Siskiyou,P1003 - WILLOW CREEK,Lieutenant Governor,,Dem,Ed Hernandez,100
+Siskiyou,P1026 - BIG SPRINGS,Lieutenant Governor,,Dem,Ed Hernandez,56
+Siskiyou,P1105 - DORRIS 1,Lieutenant Governor,,Dem,Ed Hernandez,71
+Siskiyou,P1110 - MONTAGUE 1,Lieutenant Governor,,Dem,Ed Hernandez,182
+Siskiyou,P2009 - DUNSMUIR 3,Lieutenant Governor,,Dem,Ed Hernandez,54
+Siskiyou,P2014 - MT SHASTA 3,Lieutenant Governor,,Dem,Ed Hernandez,223
+Siskiyou,P2015 - MT SHASTA 5,Lieutenant Governor,,Dem,Ed Hernandez,132
+Siskiyou,P2019 - KINSTREY,Lieutenant Governor,,Dem,Ed Hernandez,214
+Siskiyou,P2100 - DUNSMUIR CITY,Lieutenant Governor,,Dem,Ed Hernandez,243
+Siskiyou,P2110 - MT SHASTA 1,Lieutenant Governor,,Dem,Ed Hernandez,160
+Siskiyou,P2111 - MT SHASTA 2,Lieutenant Governor,,Dem,Ed Hernandez,214
+Siskiyou,P2115 - MT SHASTA 4,Lieutenant Governor,,Dem,Ed Hernandez,185
+Siskiyou,P3001 - EDGEWOOD,Lieutenant Governor,,Dem,Ed Hernandez,79
+Siskiyou,P3004 - GRENADA,Lieutenant Governor,,Dem,Ed Hernandez,122
+Siskiyou,P3006 - LAKE SHASTINA M,Lieutenant Governor,,Dem,Ed Hernandez,126
+Siskiyou,P3007 - LAKE SHASTINA E,Lieutenant Governor,,Dem,Ed Hernandez,249
+Siskiyou,P3009 - MAYTEN,Lieutenant Governor,,Dem,Ed Hernandez,81
+Siskiyou,P3014 - SISSON,Lieutenant Governor,,Dem,Ed Hernandez,166
+Siskiyou,P3021 - WEED 3,Lieutenant Governor,,Dem,Ed Hernandez,95
+Siskiyou,P3111 - WEED 1,Lieutenant Governor,,Dem,Ed Hernandez,140
+Siskiyou,P3112 - WEED 2,Lieutenant Governor,,Dem,Ed Hernandez,143
+Siskiyou,P4030 - FOREST MTN,Lieutenant Governor,,Dem,Ed Hernandez,175
+Siskiyou,P4110 - YREKA 1,Lieutenant Governor,,Dem,Ed Hernandez,167
+Siskiyou,P4112 - YREKA 2,Lieutenant Governor,,Dem,Ed Hernandez,168
+Siskiyou,P4115 - YREKA 3,Lieutenant Governor,,Dem,Ed Hernandez,142
+Siskiyou,P4116 - YREKA 4,Lieutenant Governor,,Dem,Ed Hernandez,116
+Siskiyou,P4118 - YREKA 5,Lieutenant Governor,,Dem,Ed Hernandez,149
+Siskiyou,P4121 - YREKA 6,Lieutenant Governor,,Dem,Ed Hernandez,138
+Siskiyou,P5005 - ETNA 2,Lieutenant Governor,,Dem,Ed Hernandez,215
+Siskiyou,P5008 - FT JONES 2,Lieutenant Governor,,Dem,Ed Hernandez,131
+Siskiyou,P5011 - HAPPY CAMP,Lieutenant Governor,,Dem,Ed Hernandez,113
+Siskiyou,P5050 - GREENVIEW CONS,Lieutenant Governor,,Dem,Ed Hernandez,173
+Siskiyou,P5103 - ETNA 1,Lieutenant Governor,,Dem,Ed Hernandez,85
+Siskiyou,P5107 - FT JONES 1,Lieutenant Governor,,Dem,Ed Hernandez,99
+Siskiyou,SISKIYOU CA,Lieutenant Governor,,Dem,Ed Hernandez,6062
+Siskiyou,M1001 - BOGUS,Lieutenant Governor,,Dem,Eleni Kounalakis,58
+Siskiyou,M1007 - DORRIS 2,Lieutenant Governor,,Dem,Eleni Kounalakis,51
+Siskiyou,M1020 - TULELAKE 2,Lieutenant Governor,,Dem,Eleni Kounalakis,15
+Siskiyou,M1060 - COPCO CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,16
+Siskiyou,M1065 - LITTLE SHASTA CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,46
+Siskiyou,M1070 - PONDOSA CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,73
+Siskiyou,M1075 - BASIN,Lieutenant Governor,,Dem,Eleni Kounalakis,6
+Siskiyou,M1080 - MACDOEL CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,48
+Siskiyou,M1117 - TULELAKE 1,Lieutenant Governor,,Dem,Eleni Kounalakis,41
+Siskiyou,M2060 - CASTLE,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Siskiyou,M2065 - BEAR,Lieutenant Governor,,Dem,Eleni Kounalakis,18
+Siskiyou,M3013 - WARREN,Lieutenant Governor,,Dem,Eleni Kounalakis,66
+Siskiyou,M3060 - GAZELLE CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,47
+Siskiyou,M3065 - BUTTE,Lieutenant Governor,,Dem,Eleni Kounalakis,4
+Siskiyou,M3070 - EDDY,Lieutenant Governor,,Dem,Eleni Kounalakis,43
+Siskiyou,M3075 - COUGAR,Lieutenant Governor,,Dem,Eleni Kounalakis,2
+Siskiyou,M3080 - EAGLE,Lieutenant Governor,,Dem,Eleni Kounalakis,0
+Siskiyou,M3085 - DUCK,Lieutenant Governor,,Dem,Eleni Kounalakis,11
+Siskiyou,M4060 - DELPHIC CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,34
+Siskiyou,M4065 - GREENHORN CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,42
+Siskiyou,M5060 - HILT CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,41
+Siskiyou,M5065 - WALKER CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,69
+Siskiyou,M5070 - GOTTVILLE CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,30
+Siskiyou,M5075 - HORNBROOK,Lieutenant Governor,,Dem,Eleni Kounalakis,24
+Siskiyou,M5080 - HENLEY,Lieutenant Governor,,Dem,Eleni Kounalakis,27
+Siskiyou,M5085 - HUMBUG CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,66
+Siskiyou,M5090 - CALLAHAN CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,52
+Siskiyou,M5095 - SEIAD CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,85
+Siskiyou,P1000 - MCCLOUD CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,201
+Siskiyou,P1002 - MONTAGUE 2,Lieutenant Governor,,Dem,Eleni Kounalakis,66
+Siskiyou,P1003 - WILLOW CREEK,Lieutenant Governor,,Dem,Eleni Kounalakis,126
+Siskiyou,P1026 - BIG SPRINGS,Lieutenant Governor,,Dem,Eleni Kounalakis,86
+Siskiyou,P1105 - DORRIS 1,Lieutenant Governor,,Dem,Eleni Kounalakis,69
+Siskiyou,P1110 - MONTAGUE 1,Lieutenant Governor,,Dem,Eleni Kounalakis,165
+Siskiyou,P2009 - DUNSMUIR 3,Lieutenant Governor,,Dem,Eleni Kounalakis,76
+Siskiyou,P2014 - MT SHASTA 3,Lieutenant Governor,,Dem,Eleni Kounalakis,260
+Siskiyou,P2015 - MT SHASTA 5,Lieutenant Governor,,Dem,Eleni Kounalakis,211
+Siskiyou,P2019 - KINSTREY,Lieutenant Governor,,Dem,Eleni Kounalakis,310
+Siskiyou,P2100 - DUNSMUIR CITY,Lieutenant Governor,,Dem,Eleni Kounalakis,298
+Siskiyou,P2110 - MT SHASTA 1,Lieutenant Governor,,Dem,Eleni Kounalakis,223
+Siskiyou,P2111 - MT SHASTA 2,Lieutenant Governor,,Dem,Eleni Kounalakis,264
+Siskiyou,P2115 - MT SHASTA 4,Lieutenant Governor,,Dem,Eleni Kounalakis,232
+Siskiyou,P3001 - EDGEWOOD,Lieutenant Governor,,Dem,Eleni Kounalakis,103
+Siskiyou,P3004 - GRENADA,Lieutenant Governor,,Dem,Eleni Kounalakis,132
+Siskiyou,P3006 - LAKE SHASTINA M,Lieutenant Governor,,Dem,Eleni Kounalakis,192
+Siskiyou,P3007 - LAKE SHASTINA E,Lieutenant Governor,,Dem,Eleni Kounalakis,261
+Siskiyou,P3009 - MAYTEN,Lieutenant Governor,,Dem,Eleni Kounalakis,79
+Siskiyou,P3014 - SISSON,Lieutenant Governor,,Dem,Eleni Kounalakis,152
+Siskiyou,P3021 - WEED 3,Lieutenant Governor,,Dem,Eleni Kounalakis,129
+Siskiyou,P3111 - WEED 1,Lieutenant Governor,,Dem,Eleni Kounalakis,143
+Siskiyou,P3112 - WEED 2,Lieutenant Governor,,Dem,Eleni Kounalakis,158
+Siskiyou,P4030 - FOREST MTN,Lieutenant Governor,,Dem,Eleni Kounalakis,175
+Siskiyou,P4110 - YREKA 1,Lieutenant Governor,,Dem,Eleni Kounalakis,188
+Siskiyou,P4112 - YREKA 2,Lieutenant Governor,,Dem,Eleni Kounalakis,181
+Siskiyou,P4115 - YREKA 3,Lieutenant Governor,,Dem,Eleni Kounalakis,195
+Siskiyou,P4116 - YREKA 4,Lieutenant Governor,,Dem,Eleni Kounalakis,118
+Siskiyou,P4118 - YREKA 5,Lieutenant Governor,,Dem,Eleni Kounalakis,198
+Siskiyou,P4121 - YREKA 6,Lieutenant Governor,,Dem,Eleni Kounalakis,134
+Siskiyou,P5005 - ETNA 2,Lieutenant Governor,,Dem,Eleni Kounalakis,245
+Siskiyou,P5008 - FT JONES 2,Lieutenant Governor,,Dem,Eleni Kounalakis,118
+Siskiyou,P5011 - HAPPY CAMP,Lieutenant Governor,,Dem,Eleni Kounalakis,155
+Siskiyou,P5050 - GREENVIEW CONS,Lieutenant Governor,,Dem,Eleni Kounalakis,204
+Siskiyou,P5103 - ETNA 1,Lieutenant Governor,,Dem,Eleni Kounalakis,112
+Siskiyou,P5107 - FT JONES 1,Lieutenant Governor,,Dem,Eleni Kounalakis,83
+Siskiyou,SISKIYOU CA,Lieutenant Governor,,Dem,Eleni Kounalakis,7057
+Siskiyou,M1001 - BOGUS,Secretary of State,,Dem,Alex Padilla,47
+Siskiyou,M1007 - DORRIS 2,Secretary of State,,Dem,Alex Padilla,34
+Siskiyou,M1020 - TULELAKE 2,Secretary of State,,Dem,Alex Padilla,12
+Siskiyou,M1060 - COPCO CONS,Secretary of State,,Dem,Alex Padilla,16
+Siskiyou,M1065 - LITTLE SHASTA CONS,Secretary of State,,Dem,Alex Padilla,45
+Siskiyou,M1070 - PONDOSA CONS,Secretary of State,,Dem,Alex Padilla,81
+Siskiyou,M1075 - BASIN,Secretary of State,,Dem,Alex Padilla,8
+Siskiyou,M1080 - MACDOEL CONS,Secretary of State,,Dem,Alex Padilla,44
+Siskiyou,M1117 - TULELAKE 1,Secretary of State,,Dem,Alex Padilla,30
+Siskiyou,M2060 - CASTLE,Secretary of State,,Dem,Alex Padilla,1
+Siskiyou,M2065 - BEAR,Secretary of State,,Dem,Alex Padilla,25
+Siskiyou,M3013 - WARREN,Secretary of State,,Dem,Alex Padilla,68
+Siskiyou,M3060 - GAZELLE CONS,Secretary of State,,Dem,Alex Padilla,45
+Siskiyou,M3065 - BUTTE,Secretary of State,,Dem,Alex Padilla,5
+Siskiyou,M3070 - EDDY,Secretary of State,,Dem,Alex Padilla,57
+Siskiyou,M3075 - COUGAR,Secretary of State,,Dem,Alex Padilla,2
+Siskiyou,M3080 - EAGLE,Secretary of State,,Dem,Alex Padilla,0
+Siskiyou,M3085 - DUCK,Secretary of State,,Dem,Alex Padilla,14
+Siskiyou,M4060 - DELPHIC CONS,Secretary of State,,Dem,Alex Padilla,33
+Siskiyou,M4065 - GREENHORN CONS,Secretary of State,,Dem,Alex Padilla,29
+Siskiyou,M5060 - HILT CONS,Secretary of State,,Dem,Alex Padilla,43
+Siskiyou,M5065 - WALKER CONS,Secretary of State,,Dem,Alex Padilla,67
+Siskiyou,M5070 - GOTTVILLE CONS,Secretary of State,,Dem,Alex Padilla,29
+Siskiyou,M5075 - HORNBROOK,Secretary of State,,Dem,Alex Padilla,21
+Siskiyou,M5080 - HENLEY,Secretary of State,,Dem,Alex Padilla,39
+Siskiyou,M5085 - HUMBUG CONS,Secretary of State,,Dem,Alex Padilla,64
+Siskiyou,M5090 - CALLAHAN CONS,Secretary of State,,Dem,Alex Padilla,75
+Siskiyou,M5095 - SEIAD CONS,Secretary of State,,Dem,Alex Padilla,82
+Siskiyou,P1000 - MCCLOUD CONS,Secretary of State,,Dem,Alex Padilla,193
+Siskiyou,P1002 - MONTAGUE 2,Secretary of State,,Dem,Alex Padilla,47
+Siskiyou,P1003 - WILLOW CREEK,Secretary of State,,Dem,Alex Padilla,103
+Siskiyou,P1026 - BIG SPRINGS,Secretary of State,,Dem,Alex Padilla,90
+Siskiyou,P1105 - DORRIS 1,Secretary of State,,Dem,Alex Padilla,61
+Siskiyou,P1110 - MONTAGUE 1,Secretary of State,,Dem,Alex Padilla,135
+Siskiyou,P2009 - DUNSMUIR 3,Secretary of State,,Dem,Alex Padilla,100
+Siskiyou,P2014 - MT SHASTA 3,Secretary of State,,Dem,Alex Padilla,353
+Siskiyou,P2015 - MT SHASTA 5,Secretary of State,,Dem,Alex Padilla,268
+Siskiyou,P2019 - KINSTREY,Secretary of State,,Dem,Alex Padilla,350
+Siskiyou,P2100 - DUNSMUIR CITY,Secretary of State,,Dem,Alex Padilla,418
+Siskiyou,P2110 - MT SHASTA 1,Secretary of State,,Dem,Alex Padilla,296
+Siskiyou,P2111 - MT SHASTA 2,Secretary of State,,Dem,Alex Padilla,369
+Siskiyou,P2115 - MT SHASTA 4,Secretary of State,,Dem,Alex Padilla,343
+Siskiyou,P3001 - EDGEWOOD,Secretary of State,,Dem,Alex Padilla,126
+Siskiyou,P3004 - GRENADA,Secretary of State,,Dem,Alex Padilla,100
+Siskiyou,P3006 - LAKE SHASTINA M,Secretary of State,,Dem,Alex Padilla,191
+Siskiyou,P3007 - LAKE SHASTINA E,Secretary of State,,Dem,Alex Padilla,305
+Siskiyou,P3009 - MAYTEN,Secretary of State,,Dem,Alex Padilla,89
+Siskiyou,P3014 - SISSON,Secretary of State,,Dem,Alex Padilla,231
+Siskiyou,P3021 - WEED 3,Secretary of State,,Dem,Alex Padilla,164
+Siskiyou,P3111 - WEED 1,Secretary of State,,Dem,Alex Padilla,200
+Siskiyou,P3112 - WEED 2,Secretary of State,,Dem,Alex Padilla,214
+Siskiyou,P4030 - FOREST MTN,Secretary of State,,Dem,Alex Padilla,133
+Siskiyou,P4110 - YREKA 1,Secretary of State,,Dem,Alex Padilla,203
+Siskiyou,P4112 - YREKA 2,Secretary of State,,Dem,Alex Padilla,206
+Siskiyou,P4115 - YREKA 3,Secretary of State,,Dem,Alex Padilla,177
+Siskiyou,P4116 - YREKA 4,Secretary of State,,Dem,Alex Padilla,121
+Siskiyou,P4118 - YREKA 5,Secretary of State,,Dem,Alex Padilla,190
+Siskiyou,P4121 - YREKA 6,Secretary of State,,Dem,Alex Padilla,135
+Siskiyou,P5005 - ETNA 2,Secretary of State,,Dem,Alex Padilla,212
+Siskiyou,P5008 - FT JONES 2,Secretary of State,,Dem,Alex Padilla,111
+Siskiyou,P5011 - HAPPY CAMP,Secretary of State,,Dem,Alex Padilla,149
+Siskiyou,P5050 - GREENVIEW CONS,Secretary of State,,Dem,Alex Padilla,190
+Siskiyou,P5103 - ETNA 1,Secretary of State,,Dem,Alex Padilla,106
+Siskiyou,P5107 - FT JONES 1,Secretary of State,,Dem,Alex Padilla,86
+Siskiyou,SISKIYOU CA,Secretary of State,,Dem,Alex Padilla,"7,781"
+Siskiyou,M1001 - BOGUS,Secretary of State,,Rep,Mark Meuser,119
+Siskiyou,M1007 - DORRIS 2,Secretary of State,,Rep,Mark Meuser,114
+Siskiyou,M1020 - TULELAKE 2,Secretary of State,,Rep,Mark Meuser,55
+Siskiyou,M1060 - COPCO CONS,Secretary of State,,Rep,Mark Meuser,33
+Siskiyou,M1065 - LITTLE SHASTA CONS,Secretary of State,,Rep,Mark Meuser,140
+Siskiyou,M1070 - PONDOSA CONS,Secretary of State,,Rep,Mark Meuser,76
+Siskiyou,M1075 - BASIN,Secretary of State,,Rep,Mark Meuser,38
+Siskiyou,M1080 - MACDOEL CONS,Secretary of State,,Rep,Mark Meuser,129
+Siskiyou,M1117 - TULELAKE 1,Secretary of State,,Rep,Mark Meuser,98
+Siskiyou,M2060 - CASTLE,Secretary of State,,Rep,Mark Meuser,2
+Siskiyou,M2065 - BEAR,Secretary of State,,Rep,Mark Meuser,20
+Siskiyou,M3013 - WARREN,Secretary of State,,Rep,Mark Meuser,122
+Siskiyou,M3060 - GAZELLE CONS,Secretary of State,,Rep,Mark Meuser,118
+Siskiyou,M3065 - BUTTE,Secretary of State,,Rep,Mark Meuser,1
+Siskiyou,M3070 - EDDY,Secretary of State,,Rep,Mark Meuser,49
+Siskiyou,M3075 - COUGAR,Secretary of State,,Rep,Mark Meuser,3
+Siskiyou,M3080 - EAGLE,Secretary of State,,Rep,Mark Meuser,0
+Siskiyou,M3085 - DUCK,Secretary of State,,Rep,Mark Meuser,21
+Siskiyou,M4060 - DELPHIC CONS,Secretary of State,,Rep,Mark Meuser,114
+Siskiyou,M4065 - GREENHORN CONS,Secretary of State,,Rep,Mark Meuser,123
+Siskiyou,M5060 - HILT CONS,Secretary of State,,Rep,Mark Meuser,93
+Siskiyou,M5065 - WALKER CONS,Secretary of State,,Rep,Mark Meuser,72
+Siskiyou,M5070 - GOTTVILLE CONS,Secretary of State,,Rep,Mark Meuser,39
+Siskiyou,M5075 - HORNBROOK,Secretary of State,,Rep,Mark Meuser,57
+Siskiyou,M5080 - HENLEY,Secretary of State,,Rep,Mark Meuser,80
+Siskiyou,M5085 - HUMBUG CONS,Secretary of State,,Rep,Mark Meuser,134
+Siskiyou,M5090 - CALLAHAN CONS,Secretary of State,,Rep,Mark Meuser,80
+Siskiyou,M5095 - SEIAD CONS,Secretary of State,,Rep,Mark Meuser,84
+Siskiyou,P1000 - MCCLOUD CONS,Secretary of State,,Rep,Mark Meuser,309
+Siskiyou,P1002 - MONTAGUE 2,Secretary of State,,Rep,Mark Meuser,145
+Siskiyou,P1003 - WILLOW CREEK,Secretary of State,,Rep,Mark Meuser,243
+Siskiyou,P1026 - BIG SPRINGS,Secretary of State,,Rep,Mark Meuser,100
+Siskiyou,P1105 - DORRIS 1,Secretary of State,,Rep,Mark Meuser,133
+Siskiyou,P1110 - MONTAGUE 1,Secretary of State,,Rep,Mark Meuser,321
+Siskiyou,P2009 - DUNSMUIR 3,Secretary of State,,Rep,Mark Meuser,72
+Siskiyou,P2014 - MT SHASTA 3,Secretary of State,,Rep,Mark Meuser,257
+Siskiyou,P2015 - MT SHASTA 5,Secretary of State,,Rep,Mark Meuser,142
+Siskiyou,P2019 - KINSTREY,Secretary of State,,Rep,Mark Meuser,337
+Siskiyou,P2100 - DUNSMUIR CITY,Secretary of State,,Rep,Mark Meuser,249
+Siskiyou,P2110 - MT SHASTA 1,Secretary of State,,Rep,Mark Meuser,158
+Siskiyou,P2111 - MT SHASTA 2,Secretary of State,,Rep,Mark Meuser,233
+Siskiyou,P2115 - MT SHASTA 4,Secretary of State,,Rep,Mark Meuser,154
+Siskiyou,P3001 - EDGEWOOD,Secretary of State,,Rep,Mark Meuser,103
+Siskiyou,P3004 - GRENADA,Secretary of State,,Rep,Mark Meuser,264
+Siskiyou,P3006 - LAKE SHASTINA M,Secretary of State,,Rep,Mark Meuser,197
+Siskiyou,P3007 - LAKE SHASTINA E,Secretary of State,,Rep,Mark Meuser,386
+Siskiyou,P3009 - MAYTEN,Secretary of State,,Rep,Mark Meuser,149
+Siskiyou,P3014 - SISSON,Secretary of State,,Rep,Mark Meuser,195
+Siskiyou,P3021 - WEED 3,Secretary of State,,Rep,Mark Meuser,127
+Siskiyou,P3111 - WEED 1,Secretary of State,,Rep,Mark Meuser,136
+Siskiyou,P3112 - WEED 2,Secretary of State,,Rep,Mark Meuser,155
+Siskiyou,P4030 - FOREST MTN,Secretary of State,,Rep,Mark Meuser,412
+Siskiyou,P4110 - YREKA 1,Secretary of State,,Rep,Mark Meuser,267
+Siskiyou,P4112 - YREKA 2,Secretary of State,,Rep,Mark Meuser,292
+Siskiyou,P4115 - YREKA 3,Secretary of State,,Rep,Mark Meuser,271
+Siskiyou,P4116 - YREKA 4,Secretary of State,,Rep,Mark Meuser,212
+Siskiyou,P4118 - YREKA 5,Secretary of State,,Rep,Mark Meuser,284
+Siskiyou,P4121 - YREKA 6,Secretary of State,,Rep,Mark Meuser,264
+Siskiyou,P5005 - ETNA 2,Secretary of State,,Rep,Mark Meuser,477
+Siskiyou,P5008 - FT JONES 2,Secretary of State,,Rep,Mark Meuser,275
+Siskiyou,P5011 - HAPPY CAMP,Secretary of State,,Rep,Mark Meuser,195
+Siskiyou,P5050 - GREENVIEW CONS,Secretary of State,,Rep,Mark Meuser,390
+Siskiyou,P5103 - ETNA 1,Secretary of State,,Rep,Mark Meuser,164
+Siskiyou,P5107 - FT JONES 1,Secretary of State,,Rep,Mark Meuser,157
+Siskiyou,SISKIYOU CA,Secretary of State,,Rep,Mark Meuser,"10,239"
+Siskiyou,M1001 - BOGUS,Controller,,Rep,Konstantinos Roditis,113
+Siskiyou,M1007 - DORRIS 2,Controller,,Rep,Konstantinos Roditis,110
+Siskiyou,M1020 - TULELAKE 2,Controller,,Rep,Konstantinos Roditis,56
+Siskiyou,M1060 - COPCO CONS,Controller,,Rep,Konstantinos Roditis,28
+Siskiyou,M1065 - LITTLE SHASTA CONS,Controller,,Rep,Konstantinos Roditis,136
+Siskiyou,M1070 - PONDOSA CONS,Controller,,Rep,Konstantinos Roditis,69
+Siskiyou,M1075 - BASIN,Controller,,Rep,Konstantinos Roditis,38
+Siskiyou,M1080 - MACDOEL CONS,Controller,,Rep,Konstantinos Roditis,124
+Siskiyou,M1117 - TULELAKE 1,Controller,,Rep,Konstantinos Roditis,97
+Siskiyou,M2060 - CASTLE,Controller,,Rep,Konstantinos Roditis,2
+Siskiyou,M2065 - BEAR,Controller,,Rep,Konstantinos Roditis,22
+Siskiyou,M3013 - WARREN,Controller,,Rep,Konstantinos Roditis,118
+Siskiyou,M3060 - GAZELLE CONS,Controller,,Rep,Konstantinos Roditis,118
+Siskiyou,M3065 - BUTTE,Controller,,Rep,Konstantinos Roditis,1
+Siskiyou,M3070 - EDDY,Controller,,Rep,Konstantinos Roditis,45
+Siskiyou,M3075 - COUGAR,Controller,,Rep,Konstantinos Roditis,3
+Siskiyou,M3080 - EAGLE,Controller,,Rep,Konstantinos Roditis,0
+Siskiyou,M3085 - DUCK,Controller,,Rep,Konstantinos Roditis,21
+Siskiyou,M4060 - DELPHIC CONS,Controller,,Rep,Konstantinos Roditis,107
+Siskiyou,M4065 - GREENHORN CONS,Controller,,Rep,Konstantinos Roditis,119
+Siskiyou,M5060 - HILT CONS,Controller,,Rep,Konstantinos Roditis,91
+Siskiyou,M5065 - WALKER CONS,Controller,,Rep,Konstantinos Roditis,70
+Siskiyou,M5070 - GOTTVILLE CONS,Controller,,Rep,Konstantinos Roditis,37
+Siskiyou,M5075 - HORNBROOK,Controller,,Rep,Konstantinos Roditis,55
+Siskiyou,M5080 - HENLEY,Controller,,Rep,Konstantinos Roditis,80
+Siskiyou,M5085 - HUMBUG CONS,Controller,,Rep,Konstantinos Roditis,128
+Siskiyou,M5090 - CALLAHAN CONS,Controller,,Rep,Konstantinos Roditis,77
+Siskiyou,M5095 - SEIAD CONS,Controller,,Rep,Konstantinos Roditis,82
+Siskiyou,P1000 - MCCLOUD CONS,Controller,,Rep,Konstantinos Roditis,290
+Siskiyou,P1002 - MONTAGUE 2,Controller,,Rep,Konstantinos Roditis,137
+Siskiyou,P1003 - WILLOW CREEK,Controller,,Rep,Konstantinos Roditis,239
+Siskiyou,P1026 - BIG SPRINGS,Controller,,Rep,Konstantinos Roditis,99
+Siskiyou,P1105 - DORRIS 1,Controller,,Rep,Konstantinos Roditis,124
+Siskiyou,P1110 - MONTAGUE 1,Controller,,Rep,Konstantinos Roditis,309
+Siskiyou,P2009 - DUNSMUIR 3,Controller,,Rep,Konstantinos Roditis,73
+Siskiyou,P2014 - MT SHASTA 3,Controller,,Rep,Konstantinos Roditis,245
+Siskiyou,P2015 - MT SHASTA 5,Controller,,Rep,Konstantinos Roditis,133
+Siskiyou,P2019 - KINSTREY,Controller,,Rep,Konstantinos Roditis,321
+Siskiyou,P2100 - DUNSMUIR CITY,Controller,,Rep,Konstantinos Roditis,245
+Siskiyou,P2110 - MT SHASTA 1,Controller,,Rep,Konstantinos Roditis,154
+Siskiyou,P2111 - MT SHASTA 2,Controller,,Rep,Konstantinos Roditis,220
+Siskiyou,P2115 - MT SHASTA 4,Controller,,Rep,Konstantinos Roditis,142
+Siskiyou,P3001 - EDGEWOOD,Controller,,Rep,Konstantinos Roditis,100
+Siskiyou,P3004 - GRENADA,Controller,,Rep,Konstantinos Roditis,264
+Siskiyou,P3006 - LAKE SHASTINA M,Controller,,Rep,Konstantinos Roditis,187
+Siskiyou,P3007 - LAKE SHASTINA E,Controller,,Rep,Konstantinos Roditis,376
+Siskiyou,P3009 - MAYTEN,Controller,,Rep,Konstantinos Roditis,144
+Siskiyou,P3014 - SISSON,Controller,,Rep,Konstantinos Roditis,181
+Siskiyou,P3021 - WEED 3,Controller,,Rep,Konstantinos Roditis,121
+Siskiyou,P3111 - WEED 1,Controller,,Rep,Konstantinos Roditis,135
+Siskiyou,P3112 - WEED 2,Controller,,Rep,Konstantinos Roditis,150
+Siskiyou,P4030 - FOREST MTN,Controller,,Rep,Konstantinos Roditis,391
+Siskiyou,P4110 - YREKA 1,Controller,,Rep,Konstantinos Roditis,269
+Siskiyou,P4112 - YREKA 2,Controller,,Rep,Konstantinos Roditis,282
+Siskiyou,P4115 - YREKA 3,Controller,,Rep,Konstantinos Roditis,266
+Siskiyou,P4116 - YREKA 4,Controller,,Rep,Konstantinos Roditis,192
+Siskiyou,P4118 - YREKA 5,Controller,,Rep,Konstantinos Roditis,253
+Siskiyou,P4121 - YREKA 6,Controller,,Rep,Konstantinos Roditis,242
+Siskiyou,P5005 - ETNA 2,Controller,,Rep,Konstantinos Roditis,463
+Siskiyou,P5008 - FT JONES 2,Controller,,Rep,Konstantinos Roditis,269
+Siskiyou,P5011 - HAPPY CAMP,Controller,,Rep,Konstantinos Roditis,189
+Siskiyou,P5050 - GREENVIEW CONS,Controller,,Rep,Konstantinos Roditis,376
+Siskiyou,P5103 - ETNA 1,Controller,,Rep,Konstantinos Roditis,162
+Siskiyou,P5107 - FT JONES 1,Controller,,Rep,Konstantinos Roditis,156
+Siskiyou,SISKIYOU CA,Controller,,Rep,Konstantinos Roditis,"9,846"
+Siskiyou,M1001 - BOGUS,Controller,,Dem,Betty Yee,53
+Siskiyou,M1007 - DORRIS 2,Controller,,Dem,Betty Yee,39
+Siskiyou,M1020 - TULELAKE 2,Controller,,Dem,Betty Yee,12
+Siskiyou,M1060 - COPCO CONS,Controller,,Dem,Betty Yee,20
+Siskiyou,M1065 - LITTLE SHASTA CONS,Controller,,Dem,Betty Yee,48
+Siskiyou,M1070 - PONDOSA CONS,Controller,,Dem,Betty Yee,88
+Siskiyou,M1075 - BASIN,Controller,,Dem,Betty Yee,8
+Siskiyou,M1080 - MACDOEL CONS,Controller,,Dem,Betty Yee,48
+Siskiyou,M1117 - TULELAKE 1,Controller,,Dem,Betty Yee,31
+Siskiyou,M2060 - CASTLE,Controller,,Dem,Betty Yee,1
+Siskiyou,M2065 - BEAR,Controller,,Dem,Betty Yee,23
+Siskiyou,M3013 - WARREN,Controller,,Dem,Betty Yee,70
+Siskiyou,M3060 - GAZELLE CONS,Controller,,Dem,Betty Yee,45
+Siskiyou,M3065 - BUTTE,Controller,,Dem,Betty Yee,5
+Siskiyou,M3070 - EDDY,Controller,,Dem,Betty Yee,61
+Siskiyou,M3075 - COUGAR,Controller,,Dem,Betty Yee,2
+Siskiyou,M3080 - EAGLE,Controller,,Dem,Betty Yee,0
+Siskiyou,M3085 - DUCK,Controller,,Dem,Betty Yee,14
+Siskiyou,M4060 - DELPHIC CONS,Controller,,Dem,Betty Yee,38
+Siskiyou,M4065 - GREENHORN CONS,Controller,,Dem,Betty Yee,35
+Siskiyou,M5060 - HILT CONS,Controller,,Dem,Betty Yee,45
+Siskiyou,M5065 - WALKER CONS,Controller,,Dem,Betty Yee,69
+Siskiyou,M5070 - GOTTVILLE CONS,Controller,,Dem,Betty Yee,31
+Siskiyou,M5075 - HORNBROOK,Controller,,Dem,Betty Yee,22
+Siskiyou,M5080 - HENLEY,Controller,,Dem,Betty Yee,37
+Siskiyou,M5085 - HUMBUG CONS,Controller,,Dem,Betty Yee,70
+Siskiyou,M5090 - CALLAHAN CONS,Controller,,Dem,Betty Yee,78
+Siskiyou,M5095 - SEIAD CONS,Controller,,Dem,Betty Yee,84
+Siskiyou,P1000 - MCCLOUD CONS,Controller,,Dem,Betty Yee,209
+Siskiyou,P1002 - MONTAGUE 2,Controller,,Dem,Betty Yee,51
+Siskiyou,P1003 - WILLOW CREEK,Controller,,Dem,Betty Yee,107
+Siskiyou,P1026 - BIG SPRINGS,Controller,,Dem,Betty Yee,92
+Siskiyou,P1105 - DORRIS 1,Controller,,Dem,Betty Yee,68
+Siskiyou,P1110 - MONTAGUE 1,Controller,,Dem,Betty Yee,145
+Siskiyou,P2009 - DUNSMUIR 3,Controller,,Dem,Betty Yee,97
+Siskiyou,P2014 - MT SHASTA 3,Controller,,Dem,Betty Yee,365
+Siskiyou,P2015 - MT SHASTA 5,Controller,,Dem,Betty Yee,277
+Siskiyou,P2019 - KINSTREY,Controller,,Dem,Betty Yee,363
+Siskiyou,P2100 - DUNSMUIR CITY,Controller,,Dem,Betty Yee,412
+Siskiyou,P2110 - MT SHASTA 1,Controller,,Dem,Betty Yee,300
+Siskiyou,P2111 - MT SHASTA 2,Controller,,Dem,Betty Yee,379
+Siskiyou,P2115 - MT SHASTA 4,Controller,,Dem,Betty Yee,348
+Siskiyou,P3001 - EDGEWOOD,Controller,,Dem,Betty Yee,126
+Siskiyou,P3004 - GRENADA,Controller,,Dem,Betty Yee,100
+Siskiyou,P3006 - LAKE SHASTINA M,Controller,,Dem,Betty Yee,194
+Siskiyou,P3007 - LAKE SHASTINA E,Controller,,Dem,Betty Yee,316
+Siskiyou,P3009 - MAYTEN,Controller,,Dem,Betty Yee,94
+Siskiyou,P3014 - SISSON,Controller,,Dem,Betty Yee,241
+Siskiyou,P3021 - WEED 3,Controller,,Dem,Betty Yee,170
+Siskiyou,P3111 - WEED 1,Controller,,Dem,Betty Yee,200
+Siskiyou,P3112 - WEED 2,Controller,,Dem,Betty Yee,219
+Siskiyou,P4030 - FOREST MTN,Controller,,Dem,Betty Yee,147
+Siskiyou,P4110 - YREKA 1,Controller,,Dem,Betty Yee,201
+Siskiyou,P4112 - YREKA 2,Controller,,Dem,Betty Yee,214
+Siskiyou,P4115 - YREKA 3,Controller,,Dem,Betty Yee,180
+Siskiyou,P4116 - YREKA 4,Controller,,Dem,Betty Yee,134
+Siskiyou,P4118 - YREKA 5,Controller,,Dem,Betty Yee,213
+Siskiyou,P4121 - YREKA 6,Controller,,Dem,Betty Yee,154
+Siskiyou,P5005 - ETNA 2,Controller,,Dem,Betty Yee,219
+Siskiyou,P5008 - FT JONES 2,Controller,,Dem,Betty Yee,114
+Siskiyou,P5011 - HAPPY CAMP,Controller,,Dem,Betty Yee,153
+Siskiyou,P5050 - GREENVIEW CONS,Controller,,Dem,Betty Yee,200
+Siskiyou,P5103 - ETNA 1,Controller,,Dem,Betty Yee,107
+Siskiyou,P5107 - FT JONES 1,Controller,,Dem,Betty Yee,86
+Siskiyou,SISKIYOU CA,Controller,,Dem,Betty Yee,"8,072"
+Siskiyou,M1001 - BOGUS,Treasurer,,Rep,Greg Conlon,119
+Siskiyou,M1007 - DORRIS 2,Treasurer,,Rep,Greg Conlon,117
+Siskiyou,M1020 - TULELAKE 2,Treasurer,,Rep,Greg Conlon,59
+Siskiyou,M1060 - COPCO CONS,Treasurer,,Rep,Greg Conlon,32
+Siskiyou,M1065 - LITTLE SHASTA CONS,Treasurer,,Rep,Greg Conlon,145
+Siskiyou,M1070 - PONDOSA CONS,Treasurer,,Rep,Greg Conlon,76
+Siskiyou,M1075 - BASIN,Treasurer,,Rep,Greg Conlon,38
+Siskiyou,M1080 - MACDOEL CONS,Treasurer,,Rep,Greg Conlon,130
+Siskiyou,M1117 - TULELAKE 1,Treasurer,,Rep,Greg Conlon,96
+Siskiyou,M2060 - CASTLE,Treasurer,,Rep,Greg Conlon,2
+Siskiyou,M2065 - BEAR,Treasurer,,Rep,Greg Conlon,22
+Siskiyou,M3013 - WARREN,Treasurer,,Rep,Greg Conlon,125
+Siskiyou,M3060 - GAZELLE CONS,Treasurer,,Rep,Greg Conlon,121
+Siskiyou,M3065 - BUTTE,Treasurer,,Rep,Greg Conlon,1
+Siskiyou,M3070 - EDDY,Treasurer,,Rep,Greg Conlon,50
+Siskiyou,M3075 - COUGAR,Treasurer,,Rep,Greg Conlon,3
+Siskiyou,M3080 - EAGLE,Treasurer,,Rep,Greg Conlon,0
+Siskiyou,M3085 - DUCK,Treasurer,,Rep,Greg Conlon,22
+Siskiyou,M4060 - DELPHIC CONS,Treasurer,,Rep,Greg Conlon,111
+Siskiyou,M4065 - GREENHORN CONS,Treasurer,,Rep,Greg Conlon,124
+Siskiyou,M5060 - HILT CONS,Treasurer,,Rep,Greg Conlon,94
+Siskiyou,M5065 - WALKER CONS,Treasurer,,Rep,Greg Conlon,75
+Siskiyou,M5070 - GOTTVILLE CONS,Treasurer,,Rep,Greg Conlon,44
+Siskiyou,M5075 - HORNBROOK,Treasurer,,Rep,Greg Conlon,55
+Siskiyou,M5080 - HENLEY,Treasurer,,Rep,Greg Conlon,82
+Siskiyou,M5085 - HUMBUG CONS,Treasurer,,Rep,Greg Conlon,133
+Siskiyou,M5090 - CALLAHAN CONS,Treasurer,,Rep,Greg Conlon,77
+Siskiyou,M5095 - SEIAD CONS,Treasurer,,Rep,Greg Conlon,79
+Siskiyou,P1000 - MCCLOUD CONS,Treasurer,,Rep,Greg Conlon,297
+Siskiyou,P1002 - MONTAGUE 2,Treasurer,,Rep,Greg Conlon,143
+Siskiyou,P1003 - WILLOW CREEK,Treasurer,,Rep,Greg Conlon,243
+Siskiyou,P1026 - BIG SPRINGS,Treasurer,,Rep,Greg Conlon,98
+Siskiyou,P1105 - DORRIS 1,Treasurer,,Rep,Greg Conlon,130
+Siskiyou,P1110 - MONTAGUE 1,Treasurer,,Rep,Greg Conlon,318
+Siskiyou,P2009 - DUNSMUIR 3,Treasurer,,Rep,Greg Conlon,77
+Siskiyou,P2014 - MT SHASTA 3,Treasurer,,Rep,Greg Conlon,257
+Siskiyou,P2015 - MT SHASTA 5,Treasurer,,Rep,Greg Conlon,142
+Siskiyou,P2019 - KINSTREY,Treasurer,,Rep,Greg Conlon,335
+Siskiyou,P2100 - DUNSMUIR CITY,Treasurer,,Rep,Greg Conlon,256
+Siskiyou,P2110 - MT SHASTA 1,Treasurer,,Rep,Greg Conlon,152
+Siskiyou,P2111 - MT SHASTA 2,Treasurer,,Rep,Greg Conlon,219
+Siskiyou,P2115 - MT SHASTA 4,Treasurer,,Rep,Greg Conlon,152
+Siskiyou,P3001 - EDGEWOOD,Treasurer,,Rep,Greg Conlon,102
+Siskiyou,P3004 - GRENADA,Treasurer,,Rep,Greg Conlon,262
+Siskiyou,P3006 - LAKE SHASTINA M,Treasurer,,Rep,Greg Conlon,199
+Siskiyou,P3007 - LAKE SHASTINA E,Treasurer,,Rep,Greg Conlon,379
+Siskiyou,P3009 - MAYTEN,Treasurer,,Rep,Greg Conlon,155
+Siskiyou,P3014 - SISSON,Treasurer,,Rep,Greg Conlon,195
+Siskiyou,P3021 - WEED 3,Treasurer,,Rep,Greg Conlon,122
+Siskiyou,P3111 - WEED 1,Treasurer,,Rep,Greg Conlon,139
+Siskiyou,P3112 - WEED 2,Treasurer,,Rep,Greg Conlon,153
+Siskiyou,P4030 - FOREST MTN,Treasurer,,Rep,Greg Conlon,416
+Siskiyou,P4110 - YREKA 1,Treasurer,,Rep,Greg Conlon,276
+Siskiyou,P4112 - YREKA 2,Treasurer,,Rep,Greg Conlon,296
+Siskiyou,P4115 - YREKA 3,Treasurer,,Rep,Greg Conlon,275
+Siskiyou,P4116 - YREKA 4,Treasurer,,Rep,Greg Conlon,209
+Siskiyou,P4118 - YREKA 5,Treasurer,,Rep,Greg Conlon,277
+Siskiyou,P4121 - YREKA 6,Treasurer,,Rep,Greg Conlon,261
+Siskiyou,P5005 - ETNA 2,Treasurer,,Rep,Greg Conlon,473
+Siskiyou,P5008 - FT JONES 2,Treasurer,,Rep,Greg Conlon,271
+Siskiyou,P5011 - HAPPY CAMP,Treasurer,,Rep,Greg Conlon,198
+Siskiyou,P5050 - GREENVIEW CONS,Treasurer,,Rep,Greg Conlon,385
+Siskiyou,P5103 - ETNA 1,Treasurer,,Rep,Greg Conlon,163
+Siskiyou,P5107 - FT JONES 1,Treasurer,,Rep,Greg Conlon,154
+Siskiyou,SISKIYOU CA,Treasurer,,Rep,Greg Conlon,"10,211"
+Siskiyou,M1001 - BOGUS,Treasurer,,Dem,Fiona Ma,46
+Siskiyou,M1007 - DORRIS 2,Treasurer,,Dem,Fiona Ma,32
+Siskiyou,M1020 - TULELAKE 2,Treasurer,,Dem,Fiona Ma,8
+Siskiyou,M1060 - COPCO CONS,Treasurer,,Dem,Fiona Ma,17
+Siskiyou,M1065 - LITTLE SHASTA CONS,Treasurer,,Dem,Fiona Ma,41
+Siskiyou,M1070 - PONDOSA CONS,Treasurer,,Dem,Fiona Ma,80
+Siskiyou,M1075 - BASIN,Treasurer,,Dem,Fiona Ma,7
+Siskiyou,M1080 - MACDOEL CONS,Treasurer,,Dem,Fiona Ma,43
+Siskiyou,M1117 - TULELAKE 1,Treasurer,,Dem,Fiona Ma,32
+Siskiyou,M2060 - CASTLE,Treasurer,,Dem,Fiona Ma,0
+Siskiyou,M2065 - BEAR,Treasurer,,Dem,Fiona Ma,23
+Siskiyou,M3013 - WARREN,Treasurer,,Dem,Fiona Ma,61
+Siskiyou,M3060 - GAZELLE CONS,Treasurer,,Dem,Fiona Ma,42
+Siskiyou,M3065 - BUTTE,Treasurer,,Dem,Fiona Ma,5
+Siskiyou,M3070 - EDDY,Treasurer,,Dem,Fiona Ma,56
+Siskiyou,M3075 - COUGAR,Treasurer,,Dem,Fiona Ma,2
+Siskiyou,M3080 - EAGLE,Treasurer,,Dem,Fiona Ma,0
+Siskiyou,M3085 - DUCK,Treasurer,,Dem,Fiona Ma,12
+Siskiyou,M4060 - DELPHIC CONS,Treasurer,,Dem,Fiona Ma,33
+Siskiyou,M4065 - GREENHORN CONS,Treasurer,,Dem,Fiona Ma,30
+Siskiyou,M5060 - HILT CONS,Treasurer,,Dem,Fiona Ma,43
+Siskiyou,M5065 - WALKER CONS,Treasurer,,Dem,Fiona Ma,65
+Siskiyou,M5070 - GOTTVILLE CONS,Treasurer,,Dem,Fiona Ma,24
+Siskiyou,M5075 - HORNBROOK,Treasurer,,Dem,Fiona Ma,23
+Siskiyou,M5080 - HENLEY,Treasurer,,Dem,Fiona Ma,37
+Siskiyou,M5085 - HUMBUG CONS,Treasurer,,Dem,Fiona Ma,63
+Siskiyou,M5090 - CALLAHAN CONS,Treasurer,,Dem,Fiona Ma,76
+Siskiyou,M5095 - SEIAD CONS,Treasurer,,Dem,Fiona Ma,85
+Siskiyou,P1000 - MCCLOUD CONS,Treasurer,,Dem,Fiona Ma,202
+Siskiyou,P1002 - MONTAGUE 2,Treasurer,,Dem,Fiona Ma,47
+Siskiyou,P1003 - WILLOW CREEK,Treasurer,,Dem,Fiona Ma,107
+Siskiyou,P1026 - BIG SPRINGS,Treasurer,,Dem,Fiona Ma,92
+Siskiyou,P1105 - DORRIS 1,Treasurer,,Dem,Fiona Ma,62
+Siskiyou,P1110 - MONTAGUE 1,Treasurer,,Dem,Fiona Ma,132
+Siskiyou,P2009 - DUNSMUIR 3,Treasurer,,Dem,Fiona Ma,94
+Siskiyou,P2014 - MT SHASTA 3,Treasurer,,Dem,Fiona Ma,355
+Siskiyou,P2015 - MT SHASTA 5,Treasurer,,Dem,Fiona Ma,267
+Siskiyou,P2019 - KINSTREY,Treasurer,,Dem,Fiona Ma,347
+Siskiyou,P2100 - DUNSMUIR CITY,Treasurer,,Dem,Fiona Ma,405
+Siskiyou,P2110 - MT SHASTA 1,Treasurer,,Dem,Fiona Ma,298
+Siskiyou,P2111 - MT SHASTA 2,Treasurer,,Dem,Fiona Ma,375
+Siskiyou,P2115 - MT SHASTA 4,Treasurer,,Dem,Fiona Ma,343
+Siskiyou,P3001 - EDGEWOOD,Treasurer,,Dem,Fiona Ma,124
+Siskiyou,P3004 - GRENADA,Treasurer,,Dem,Fiona Ma,96
+Siskiyou,P3006 - LAKE SHASTINA M,Treasurer,,Dem,Fiona Ma,188
+Siskiyou,P3007 - LAKE SHASTINA E,Treasurer,,Dem,Fiona Ma,309
+Siskiyou,P3009 - MAYTEN,Treasurer,,Dem,Fiona Ma,83
+Siskiyou,P3014 - SISSON,Treasurer,,Dem,Fiona Ma,228
+Siskiyou,P3021 - WEED 3,Treasurer,,Dem,Fiona Ma,167
+Siskiyou,P3111 - WEED 1,Treasurer,,Dem,Fiona Ma,199
+Siskiyou,P3112 - WEED 2,Treasurer,,Dem,Fiona Ma,214
+Siskiyou,P4030 - FOREST MTN,Treasurer,,Dem,Fiona Ma,125
+Siskiyou,P4110 - YREKA 1,Treasurer,,Dem,Fiona Ma,186
+Siskiyou,P4112 - YREKA 2,Treasurer,,Dem,Fiona Ma,197
+Siskiyou,P4115 - YREKA 3,Treasurer,,Dem,Fiona Ma,170
+Siskiyou,P4116 - YREKA 4,Treasurer,,Dem,Fiona Ma,122
+Siskiyou,P4118 - YREKA 5,Treasurer,,Dem,Fiona Ma,192
+Siskiyou,P4121 - YREKA 6,Treasurer,,Dem,Fiona Ma,136
+Siskiyou,P5005 - ETNA 2,Treasurer,,Dem,Fiona Ma,209
+Siskiyou,P5008 - FT JONES 2,Treasurer,,Dem,Fiona Ma,110
+Siskiyou,P5011 - HAPPY CAMP,Treasurer,,Dem,Fiona Ma,143
+Siskiyou,P5050 - GREENVIEW CONS,Treasurer,,Dem,Fiona Ma,189
+Siskiyou,P5103 - ETNA 1,Treasurer,,Dem,Fiona Ma,104
+Siskiyou,P5107 - FT JONES 1,Treasurer,,Dem,Fiona Ma,90
+Siskiyou,SISKIYOU CA,Treasurer,,Dem,Fiona Ma,"7,693"
+Siskiyou,M1001 - BOGUS,Attorney General,,Rep,Steven Bailey,118
+Siskiyou,M1007 - DORRIS 2,Attorney General,,Rep,Steven Bailey,120
+Siskiyou,M1020 - TULELAKE 2,Attorney General,,Rep,Steven Bailey,57
+Siskiyou,M1060 - COPCO CONS,Attorney General,,Rep,Steven Bailey,34
+Siskiyou,M1065 - LITTLE SHASTA CONS,Attorney General,,Rep,Steven Bailey,143
+Siskiyou,M1070 - PONDOSA CONS,Attorney General,,Rep,Steven Bailey,76
+Siskiyou,M1075 - BASIN,Attorney General,,Rep,Steven Bailey,37
+Siskiyou,M1080 - MACDOEL CONS,Attorney General,,Rep,Steven Bailey,129
+Siskiyou,M1117 - TULELAKE 1,Attorney General,,Rep,Steven Bailey,100
+Siskiyou,M2060 - CASTLE,Attorney General,,Rep,Steven Bailey,2
+Siskiyou,M2065 - BEAR,Attorney General,,Rep,Steven Bailey,22
+Siskiyou,M3013 - WARREN,Attorney General,,Rep,Steven Bailey,124
+Siskiyou,M3060 - GAZELLE CONS,Attorney General,,Rep,Steven Bailey,125
+Siskiyou,M3065 - BUTTE,Attorney General,,Rep,Steven Bailey,1
+Siskiyou,M3070 - EDDY,Attorney General,,Rep,Steven Bailey,51
+Siskiyou,M3075 - COUGAR,Attorney General,,Rep,Steven Bailey,3
+Siskiyou,M3080 - EAGLE,Attorney General,,Rep,Steven Bailey,0
+Siskiyou,M3085 - DUCK,Attorney General,,Rep,Steven Bailey,21
+Siskiyou,M4060 - DELPHIC CONS,Attorney General,,Rep,Steven Bailey,115
+Siskiyou,M4065 - GREENHORN CONS,Attorney General,,Rep,Steven Bailey,125
+Siskiyou,M5060 - HILT CONS,Attorney General,,Rep,Steven Bailey,95
+Siskiyou,M5065 - WALKER CONS,Attorney General,,Rep,Steven Bailey,73
+Siskiyou,M5070 - GOTTVILLE CONS,Attorney General,,Rep,Steven Bailey,45
+Siskiyou,M5075 - HORNBROOK,Attorney General,,Rep,Steven Bailey,58
+Siskiyou,M5080 - HENLEY,Attorney General,,Rep,Steven Bailey,81
+Siskiyou,M5085 - HUMBUG CONS,Attorney General,,Rep,Steven Bailey,132
+Siskiyou,M5090 - CALLAHAN CONS,Attorney General,,Rep,Steven Bailey,83
+Siskiyou,M5095 - SEIAD CONS,Attorney General,,Rep,Steven Bailey,83
+Siskiyou,P1000 - MCCLOUD CONS,Attorney General,,Rep,Steven Bailey,315
+Siskiyou,P1002 - MONTAGUE 2,Attorney General,,Rep,Steven Bailey,144
+Siskiyou,P1003 - WILLOW CREEK,Attorney General,,Rep,Steven Bailey,253
+Siskiyou,P1026 - BIG SPRINGS,Attorney General,,Rep,Steven Bailey,99
+Siskiyou,P1105 - DORRIS 1,Attorney General,,Rep,Steven Bailey,138
+Siskiyou,P1110 - MONTAGUE 1,Attorney General,,Rep,Steven Bailey,334
+Siskiyou,P2009 - DUNSMUIR 3,Attorney General,,Rep,Steven Bailey,75
+Siskiyou,P2014 - MT SHASTA 3,Attorney General,,Rep,Steven Bailey,264
+Siskiyou,P2015 - MT SHASTA 5,Attorney General,,Rep,Steven Bailey,142
+Siskiyou,P2019 - KINSTREY,Attorney General,,Rep,Steven Bailey,348
+Siskiyou,P2100 - DUNSMUIR CITY,Attorney General,,Rep,Steven Bailey,259
+Siskiyou,P2110 - MT SHASTA 1,Attorney General,,Rep,Steven Bailey,166
+Siskiyou,P2111 - MT SHASTA 2,Attorney General,,Rep,Steven Bailey,225
+Siskiyou,P2115 - MT SHASTA 4,Attorney General,,Rep,Steven Bailey,166
+Siskiyou,P3001 - EDGEWOOD,Attorney General,,Rep,Steven Bailey,104
+Siskiyou,P3004 - GRENADA,Attorney General,,Rep,Steven Bailey,268
+Siskiyou,P3006 - LAKE SHASTINA M,Attorney General,,Rep,Steven Bailey,201
+Siskiyou,P3007 - LAKE SHASTINA E,Attorney General,,Rep,Steven Bailey,394
+Siskiyou,P3009 - MAYTEN,Attorney General,,Rep,Steven Bailey,154
+Siskiyou,P3014 - SISSON,Attorney General,,Rep,Steven Bailey,198
+Siskiyou,P3021 - WEED 3,Attorney General,,Rep,Steven Bailey,130
+Siskiyou,P3111 - WEED 1,Attorney General,,Rep,Steven Bailey,143
+Siskiyou,P3112 - WEED 2,Attorney General,,Rep,Steven Bailey,156
+Siskiyou,P4030 - FOREST MTN,Attorney General,,Rep,Steven Bailey,416
+Siskiyou,P4110 - YREKA 1,Attorney General,,Rep,Steven Bailey,283
+Siskiyou,P4112 - YREKA 2,Attorney General,,Rep,Steven Bailey,305
+Siskiyou,P4115 - YREKA 3,Attorney General,,Rep,Steven Bailey,281
+Siskiyou,P4116 - YREKA 4,Attorney General,,Rep,Steven Bailey,215
+Siskiyou,P4118 - YREKA 5,Attorney General,,Rep,Steven Bailey,274
+Siskiyou,P4121 - YREKA 6,Attorney General,,Rep,Steven Bailey,268
+Siskiyou,P5005 - ETNA 2,Attorney General,,Rep,Steven Bailey,491
+Siskiyou,P5008 - FT JONES 2,Attorney General,,Rep,Steven Bailey,279
+Siskiyou,P5011 - HAPPY CAMP,Attorney General,,Rep,Steven Bailey,200
+Siskiyou,P5050 - GREENVIEW CONS,Attorney General,,Rep,Steven Bailey,396
+Siskiyou,P5103 - ETNA 1,Attorney General,,Rep,Steven Bailey,173
+Siskiyou,P5107 - FT JONES 1,Attorney General,,Rep,Steven Bailey,162
+Siskiyou,SISKIYOU CA,Attorney General,,Rep,Steven Bailey,10472
+Siskiyou,M1001 - BOGUS,Attorney General,,Dem,Xavier Becerra,47
+Siskiyou,M1007 - DORRIS 2,Attorney General,,Dem,Xavier Becerra,30
+Siskiyou,M1020 - TULELAKE 2,Attorney General,,Dem,Xavier Becerra,11
+Siskiyou,M1060 - COPCO CONS,Attorney General,,Dem,Xavier Becerra,15
+Siskiyou,M1065 - LITTLE SHASTA CONS,Attorney General,,Dem,Xavier Becerra,44
+Siskiyou,M1070 - PONDOSA CONS,Attorney General,,Dem,Xavier Becerra,80
+Siskiyou,M1075 - BASIN,Attorney General,,Dem,Xavier Becerra,8
+Siskiyou,M1080 - MACDOEL CONS,Attorney General,,Dem,Xavier Becerra,44
+Siskiyou,M1117 - TULELAKE 1,Attorney General,,Dem,Xavier Becerra,27
+Siskiyou,M2060 - CASTLE,Attorney General,,Dem,Xavier Becerra,0
+Siskiyou,M2065 - BEAR,Attorney General,,Dem,Xavier Becerra,23
+Siskiyou,M3013 - WARREN,Attorney General,,Dem,Xavier Becerra,64
+Siskiyou,M3060 - GAZELLE CONS,Attorney General,,Dem,Xavier Becerra,38
+Siskiyou,M3065 - BUTTE,Attorney General,,Dem,Xavier Becerra,5
+Siskiyou,M3070 - EDDY,Attorney General,,Dem,Xavier Becerra,55
+Siskiyou,M3075 - COUGAR,Attorney General,,Dem,Xavier Becerra,2
+Siskiyou,M3080 - EAGLE,Attorney General,,Dem,Xavier Becerra,0
+Siskiyou,M3085 - DUCK,Attorney General,,Dem,Xavier Becerra,14
+Siskiyou,M4060 - DELPHIC CONS,Attorney General,,Dem,Xavier Becerra,31
+Siskiyou,M4065 - GREENHORN CONS,Attorney General,,Dem,Xavier Becerra,29
+Siskiyou,M5060 - HILT CONS,Attorney General,,Dem,Xavier Becerra,42
+Siskiyou,M5065 - WALKER CONS,Attorney General,,Dem,Xavier Becerra,66
+Siskiyou,M5070 - GOTTVILLE CONS,Attorney General,,Dem,Xavier Becerra,23
+Siskiyou,M5075 - HORNBROOK,Attorney General,,Dem,Xavier Becerra,21
+Siskiyou,M5080 - HENLEY,Attorney General,,Dem,Xavier Becerra,37
+Siskiyou,M5085 - HUMBUG CONS,Attorney General,,Dem,Xavier Becerra,65
+Siskiyou,M5090 - CALLAHAN CONS,Attorney General,,Dem,Xavier Becerra,73
+Siskiyou,M5095 - SEIAD CONS,Attorney General,,Dem,Xavier Becerra,83
+Siskiyou,P1000 - MCCLOUD CONS,Attorney General,,Dem,Xavier Becerra,184
+Siskiyou,P1002 - MONTAGUE 2,Attorney General,,Dem,Xavier Becerra,45
+Siskiyou,P1003 - WILLOW CREEK,Attorney General,,Dem,Xavier Becerra,97
+Siskiyou,P1026 - BIG SPRINGS,Attorney General,,Dem,Xavier Becerra,90
+Siskiyou,P1105 - DORRIS 1,Attorney General,,Dem,Xavier Becerra,56
+Siskiyou,P1110 - MONTAGUE 1,Attorney General,,Dem,Xavier Becerra,120
+Siskiyou,P2009 - DUNSMUIR 3,Attorney General,,Dem,Xavier Becerra,95
+Siskiyou,P2014 - MT SHASTA 3,Attorney General,,Dem,Xavier Becerra,347
+Siskiyou,P2015 - MT SHASTA 5,Attorney General,,Dem,Xavier Becerra,266
+Siskiyou,P2019 - KINSTREY,Attorney General,,Dem,Xavier Becerra,340
+Siskiyou,P2100 - DUNSMUIR CITY,Attorney General,,Dem,Xavier Becerra,403
+Siskiyou,P2110 - MT SHASTA 1,Attorney General,,Dem,Xavier Becerra,283
+Siskiyou,P2111 - MT SHASTA 2,Attorney General,,Dem,Xavier Becerra,370
+Siskiyou,P2115 - MT SHASTA 4,Attorney General,,Dem,Xavier Becerra,327
+Siskiyou,P3001 - EDGEWOOD,Attorney General,,Dem,Xavier Becerra,123
+Siskiyou,P3004 - GRENADA,Attorney General,,Dem,Xavier Becerra,92
+Siskiyou,P3006 - LAKE SHASTINA M,Attorney General,,Dem,Xavier Becerra,186
+Siskiyou,P3007 - LAKE SHASTINA E,Attorney General,,Dem,Xavier Becerra,296
+Siskiyou,P3009 - MAYTEN,Attorney General,,Dem,Xavier Becerra,84
+Siskiyou,P3014 - SISSON,Attorney General,,Dem,Xavier Becerra,229
+Siskiyou,P3021 - WEED 3,Attorney General,,Dem,Xavier Becerra,163
+Siskiyou,P3111 - WEED 1,Attorney General,,Dem,Xavier Becerra,192
+Siskiyou,P3112 - WEED 2,Attorney General,,Dem,Xavier Becerra,212
+Siskiyou,P4030 - FOREST MTN,Attorney General,,Dem,Xavier Becerra,129
+Siskiyou,P4110 - YREKA 1,Attorney General,,Dem,Xavier Becerra,187
+Siskiyou,P4112 - YREKA 2,Attorney General,,Dem,Xavier Becerra,189
+Siskiyou,P4115 - YREKA 3,Attorney General,,Dem,Xavier Becerra,164
+Siskiyou,P4116 - YREKA 4,Attorney General,,Dem,Xavier Becerra,118
+Siskiyou,P4118 - YREKA 5,Attorney General,,Dem,Xavier Becerra,197
+Siskiyou,P4121 - YREKA 6,Attorney General,,Dem,Xavier Becerra,127
+Siskiyou,P5005 - ETNA 2,Attorney General,,Dem,Xavier Becerra,196
+Siskiyou,P5008 - FT JONES 2,Attorney General,,Dem,Xavier Becerra,107
+Siskiyou,P5011 - HAPPY CAMP,Attorney General,,Dem,Xavier Becerra,143
+Siskiyou,P5050 - GREENVIEW CONS,Attorney General,,Dem,Xavier Becerra,178
+Siskiyou,P5103 - ETNA 1,Attorney General,,Dem,Xavier Becerra,97
+Siskiyou,P5107 - FT JONES 1,Attorney General,,Dem,Xavier Becerra,82
+Siskiyou,SISKIYOU CA,Attorney General,,Dem,Xavier Becerra,7491
+Siskiyou,M1001 - BOGUS,Insurance Commissioner,,Dem,Ricardo Lara,33
+Siskiyou,M1007 - DORRIS 2,Insurance Commissioner,,Dem,Ricardo Lara,26
+Siskiyou,M1020 - TULELAKE 2,Insurance Commissioner,,Dem,Ricardo Lara,9
+Siskiyou,M1060 - COPCO CONS,Insurance Commissioner,,Dem,Ricardo Lara,12
+Siskiyou,M1065 - LITTLE SHASTA CONS,Insurance Commissioner,,Dem,Ricardo Lara,37
+Siskiyou,M1070 - PONDOSA CONS,Insurance Commissioner,,Dem,Ricardo Lara,61
+Siskiyou,M1075 - BASIN,Insurance Commissioner,,Dem,Ricardo Lara,5
+Siskiyou,M1080 - MACDOEL CONS,Insurance Commissioner,,Dem,Ricardo Lara,33
+Siskiyou,M1117 - TULELAKE 1,Insurance Commissioner,,Dem,Ricardo Lara,31
+Siskiyou,M2060 - CASTLE,Insurance Commissioner,,Dem,Ricardo Lara,0
+Siskiyou,M2065 - BEAR,Insurance Commissioner,,Dem,Ricardo Lara,17
+Siskiyou,M3013 - WARREN,Insurance Commissioner,,Dem,Ricardo Lara,42
+Siskiyou,M3060 - GAZELLE CONS,Insurance Commissioner,,Dem,Ricardo Lara,34
+Siskiyou,M3065 - BUTTE,Insurance Commissioner,,Dem,Ricardo Lara,0
+Siskiyou,M3070 - EDDY,Insurance Commissioner,,Dem,Ricardo Lara,44
+Siskiyou,M3075 - COUGAR,Insurance Commissioner,,Dem,Ricardo Lara,2
+Siskiyou,M3080 - EAGLE,Insurance Commissioner,,Dem,Ricardo Lara,0
+Siskiyou,M3085 - DUCK,Insurance Commissioner,,Dem,Ricardo Lara,8
+Siskiyou,M4060 - DELPHIC CONS,Insurance Commissioner,,Dem,Ricardo Lara,31
+Siskiyou,M4065 - GREENHORN CONS,Insurance Commissioner,,Dem,Ricardo Lara,24
+Siskiyou,M5060 - HILT CONS,Insurance Commissioner,,Dem,Ricardo Lara,31
+Siskiyou,M5065 - WALKER CONS,Insurance Commissioner,,Dem,Ricardo Lara,58
+Siskiyou,M5070 - GOTTVILLE CONS,Insurance Commissioner,,Dem,Ricardo Lara,17
+Siskiyou,M5075 - HORNBROOK,Insurance Commissioner,,Dem,Ricardo Lara,13
+Siskiyou,M5080 - HENLEY,Insurance Commissioner,,Dem,Ricardo Lara,29
+Siskiyou,M5085 - HUMBUG CONS,Insurance Commissioner,,Dem,Ricardo Lara,59
+Siskiyou,M5090 - CALLAHAN CONS,Insurance Commissioner,,Dem,Ricardo Lara,63
+Siskiyou,M5095 - SEIAD CONS,Insurance Commissioner,,Dem,Ricardo Lara,66
+Siskiyou,P1000 - MCCLOUD CONS,Insurance Commissioner,,Dem,Ricardo Lara,142
+Siskiyou,P1002 - MONTAGUE 2,Insurance Commissioner,,Dem,Ricardo Lara,39
+Siskiyou,P1003 - WILLOW CREEK,Insurance Commissioner,,Dem,Ricardo Lara,73
+Siskiyou,P1026 - BIG SPRINGS,Insurance Commissioner,,Dem,Ricardo Lara,68
+Siskiyou,P1105 - DORRIS 1,Insurance Commissioner,,Dem,Ricardo Lara,52
+Siskiyou,P1110 - MONTAGUE 1,Insurance Commissioner,,Dem,Ricardo Lara,99
+Siskiyou,P2009 - DUNSMUIR 3,Insurance Commissioner,,Dem,Ricardo Lara,82
+Siskiyou,P2014 - MT SHASTA 3,Insurance Commissioner,,Dem,Ricardo Lara,279
+Siskiyou,P2015 - MT SHASTA 5,Insurance Commissioner,,Dem,Ricardo Lara,198
+Siskiyou,P2019 - KINSTREY,Insurance Commissioner,,Dem,Ricardo Lara,268
+Siskiyou,P2100 - DUNSMUIR CITY,Insurance Commissioner,,Dem,Ricardo Lara,310
+Siskiyou,P2110 - MT SHASTA 1,Insurance Commissioner,,Dem,Ricardo Lara,218
+Siskiyou,P2111 - MT SHASTA 2,Insurance Commissioner,,Dem,Ricardo Lara,273
+Siskiyou,P2115 - MT SHASTA 4,Insurance Commissioner,,Dem,Ricardo Lara,266
+Siskiyou,P3001 - EDGEWOOD,Insurance Commissioner,,Dem,Ricardo Lara,82
+Siskiyou,P3004 - GRENADA,Insurance Commissioner,,Dem,Ricardo Lara,79
+Siskiyou,P3006 - LAKE SHASTINA M,Insurance Commissioner,,Dem,Ricardo Lara,154
+Siskiyou,P3007 - LAKE SHASTINA E,Insurance Commissioner,,Dem,Ricardo Lara,237
+Siskiyou,P3009 - MAYTEN,Insurance Commissioner,,Dem,Ricardo Lara,68
+Siskiyou,P3014 - SISSON,Insurance Commissioner,,Dem,Ricardo Lara,184
+Siskiyou,P3021 - WEED 3,Insurance Commissioner,,Dem,Ricardo Lara,135
+Siskiyou,P3111 - WEED 1,Insurance Commissioner,,Dem,Ricardo Lara,161
+Siskiyou,P3112 - WEED 2,Insurance Commissioner,,Dem,Ricardo Lara,167
+Siskiyou,P4030 - FOREST MTN,Insurance Commissioner,,Dem,Ricardo Lara,101
+Siskiyou,P4110 - YREKA 1,Insurance Commissioner,,Dem,Ricardo Lara,163
+Siskiyou,P4112 - YREKA 2,Insurance Commissioner,,Dem,Ricardo Lara,162
+Siskiyou,P4115 - YREKA 3,Insurance Commissioner,,Dem,Ricardo Lara,138
+Siskiyou,P4116 - YREKA 4,Insurance Commissioner,,Dem,Ricardo Lara,98
+Siskiyou,P4118 - YREKA 5,Insurance Commissioner,,Dem,Ricardo Lara,154
+Siskiyou,P4121 - YREKA 6,Insurance Commissioner,,Dem,Ricardo Lara,97
+Siskiyou,P5005 - ETNA 2,Insurance Commissioner,,Dem,Ricardo Lara,148
+Siskiyou,P5008 - FT JONES 2,Insurance Commissioner,,Dem,Ricardo Lara,81
+Siskiyou,P5011 - HAPPY CAMP,Insurance Commissioner,,Dem,Ricardo Lara,117
+Siskiyou,P5050 - GREENVIEW CONS,Insurance Commissioner,,Dem,Ricardo Lara,150
+Siskiyou,P5103 - ETNA 1,Insurance Commissioner,,Dem,Ricardo Lara,83
+Siskiyou,P5107 - FT JONES 1,Insurance Commissioner,,Dem,Ricardo Lara,67
+Siskiyou,SISKIYOU CA,Insurance Commissioner,,Dem,Ricardo Lara,5978
+Siskiyou,M1001 - BOGUS,Insurance Commissioner,,Non,Steve Poizner,127
+Siskiyou,M1007 - DORRIS 2,Insurance Commissioner,,Non,Steve Poizner,111
+Siskiyou,M1020 - TULELAKE 2,Insurance Commissioner,,Non,Steve Poizner,49
+Siskiyou,M1060 - COPCO CONS,Insurance Commissioner,,Non,Steve Poizner,36
+Siskiyou,M1065 - LITTLE SHASTA CONS,Insurance Commissioner,,Non,Steve Poizner,136
+Siskiyou,M1070 - PONDOSA CONS,Insurance Commissioner,,Non,Steve Poizner,84
+Siskiyou,M1075 - BASIN,Insurance Commissioner,,Non,Steve Poizner,34
+Siskiyou,M1080 - MACDOEL CONS,Insurance Commissioner,,Non,Steve Poizner,130
+Siskiyou,M1117 - TULELAKE 1,Insurance Commissioner,,Non,Steve Poizner,79
+Siskiyou,M2060 - CASTLE,Insurance Commissioner,,Non,Steve Poizner,3
+Siskiyou,M2065 - BEAR,Insurance Commissioner,,Non,Steve Poizner,28
+Siskiyou,M3013 - WARREN,Insurance Commissioner,,Non,Steve Poizner,134
+Siskiyou,M3060 - GAZELLE CONS,Insurance Commissioner,,Non,Steve Poizner,120
+Siskiyou,M3065 - BUTTE,Insurance Commissioner,,Non,Steve Poizner,5
+Siskiyou,M3070 - EDDY,Insurance Commissioner,,Non,Steve Poizner,56
+Siskiyou,M3075 - COUGAR,Insurance Commissioner,,Non,Steve Poizner,3
+Siskiyou,M3080 - EAGLE,Insurance Commissioner,,Non,Steve Poizner,0
+Siskiyou,M3085 - DUCK,Insurance Commissioner,,Non,Steve Poizner,27
+Siskiyou,M4060 - DELPHIC CONS,Insurance Commissioner,,Non,Steve Poizner,104
+Siskiyou,M4065 - GREENHORN CONS,Insurance Commissioner,,Non,Steve Poizner,125
+Siskiyou,M5060 - HILT CONS,Insurance Commissioner,,Non,Steve Poizner,102
+Siskiyou,M5065 - WALKER CONS,Insurance Commissioner,,Non,Steve Poizner,69
+Siskiyou,M5070 - GOTTVILLE CONS,Insurance Commissioner,,Non,Steve Poizner,48
+Siskiyou,M5075 - HORNBROOK,Insurance Commissioner,,Non,Steve Poizner,61
+Siskiyou,M5080 - HENLEY,Insurance Commissioner,,Non,Steve Poizner,74
+Siskiyou,M5085 - HUMBUG CONS,Insurance Commissioner,,Non,Steve Poizner,128
+Siskiyou,M5090 - CALLAHAN CONS,Insurance Commissioner,,Non,Steve Poizner,74
+Siskiyou,M5095 - SEIAD CONS,Insurance Commissioner,,Non,Steve Poizner,91
+Siskiyou,P1000 - MCCLOUD CONS,Insurance Commissioner,,Non,Steve Poizner,327
+Siskiyou,P1002 - MONTAGUE 2,Insurance Commissioner,,Non,Steve Poizner,140
+Siskiyou,P1003 - WILLOW CREEK,Insurance Commissioner,,Non,Steve Poizner,261
+Siskiyou,P1026 - BIG SPRINGS,Insurance Commissioner,,Non,Steve Poizner,118
+Siskiyou,P1105 - DORRIS 1,Insurance Commissioner,,Non,Steve Poizner,127
+Siskiyou,P1110 - MONTAGUE 1,Insurance Commissioner,,Non,Steve Poizner,328
+Siskiyou,P2009 - DUNSMUIR 3,Insurance Commissioner,,Non,Steve Poizner,84
+Siskiyou,P2014 - MT SHASTA 3,Insurance Commissioner,,Non,Steve Poizner,305
+Siskiyou,P2015 - MT SHASTA 5,Insurance Commissioner,,Non,Steve Poizner,192
+Siskiyou,P2019 - KINSTREY,Insurance Commissioner,,Non,Steve Poizner,377
+Siskiyou,P2100 - DUNSMUIR CITY,Insurance Commissioner,,Non,Steve Poizner,329
+Siskiyou,P2110 - MT SHASTA 1,Insurance Commissioner,,Non,Steve Poizner,223
+Siskiyou,P2111 - MT SHASTA 2,Insurance Commissioner,,Non,Steve Poizner,302
+Siskiyou,P2115 - MT SHASTA 4,Insurance Commissioner,,Non,Steve Poizner,199
+Siskiyou,P3001 - EDGEWOOD,Insurance Commissioner,,Non,Steve Poizner,140
+Siskiyou,P3004 - GRENADA,Insurance Commissioner,,Non,Steve Poizner,265
+Siskiyou,P3006 - LAKE SHASTINA M,Insurance Commissioner,,Non,Steve Poizner,221
+Siskiyou,P3007 - LAKE SHASTINA E,Insurance Commissioner,,Non,Steve Poizner,411
+Siskiyou,P3009 - MAYTEN,Insurance Commissioner,,Non,Steve Poizner,161
+Siskiyou,P3014 - SISSON,Insurance Commissioner,,Non,Steve Poizner,216
+Siskiyou,P3021 - WEED 3,Insurance Commissioner,,Non,Steve Poizner,140
+Siskiyou,P3111 - WEED 1,Insurance Commissioner,,Non,Steve Poizner,164
+Siskiyou,P3112 - WEED 2,Insurance Commissioner,,Non,Steve Poizner,186
+Siskiyou,P4030 - FOREST MTN,Insurance Commissioner,,Non,Steve Poizner,396
+Siskiyou,P4110 - YREKA 1,Insurance Commissioner,,Non,Steve Poizner,285
+Siskiyou,P4112 - YREKA 2,Insurance Commissioner,,Non,Steve Poizner,299
+Siskiyou,P4115 - YREKA 3,Insurance Commissioner,,Non,Steve Poizner,281
+Siskiyou,P4116 - YREKA 4,Insurance Commissioner,,Non,Steve Poizner,206
+Siskiyou,P4118 - YREKA 5,Insurance Commissioner,,Non,Steve Poizner,291
+Siskiyou,P4121 - YREKA 6,Insurance Commissioner,,Non,Steve Poizner,265
+Siskiyou,P5005 - ETNA 2,Insurance Commissioner,,Non,Steve Poizner,494
+Siskiyou,P5008 - FT JONES 2,Insurance Commissioner,,Non,Steve Poizner,269
+Siskiyou,P5011 - HAPPY CAMP,Insurance Commissioner,,Non,Steve Poizner,200
+Siskiyou,P5050 - GREENVIEW CONS,Insurance Commissioner,,Non,Steve Poizner,385
+Siskiyou,P5103 - ETNA 1,Insurance Commissioner,,Non,Steve Poizner,164
+Siskiyou,P5107 - FT JONES 1,Insurance Commissioner,,Non,Steve Poizner,160
+Siskiyou,SISKIYOU CA,Insurance Commissioner,,Non,Steve Poizner,10949
+Siskiyou,M1001 - BOGUS,U.S. Senate,,Dem,Dianne Feinstein,38
+Siskiyou,M1007 - DORRIS 2,U.S. Senate,,Dem,Dianne Feinstein,26
+Siskiyou,M1020 - TULELAKE 2,U.S. Senate,,Dem,Dianne Feinstein,9
+Siskiyou,M1060 - COPCO CONS,U.S. Senate,,Dem,Dianne Feinstein,10
+Siskiyou,M1065 - LITTLE SHASTA CONS,U.S. Senate,,Dem,Dianne Feinstein,40
+Siskiyou,M1070 - PONDOSA CONS,U.S. Senate,,Dem,Dianne Feinstein,47
+Siskiyou,M1075 - BASIN,U.S. Senate,,Dem,Dianne Feinstein,10
+Siskiyou,M1080 - MACDOEL CONS,U.S. Senate,,Dem,Dianne Feinstein,33
+Siskiyou,M1117 - TULELAKE 1,U.S. Senate,,Dem,Dianne Feinstein,23
+Siskiyou,M2060 - CASTLE,U.S. Senate,,Dem,Dianne Feinstein,1
+Siskiyou,M2065 - BEAR,U.S. Senate,,Dem,Dianne Feinstein,23
+Siskiyou,M3013 - WARREN,U.S. Senate,,Dem,Dianne Feinstein,61
+Siskiyou,M3060 - GAZELLE CONS,U.S. Senate,,Dem,Dianne Feinstein,32
+Siskiyou,M3065 - BUTTE,U.S. Senate,,Dem,Dianne Feinstein,1
+Siskiyou,M3070 - EDDY,U.S. Senate,,Dem,Dianne Feinstein,36
+Siskiyou,M3075 - COUGAR,U.S. Senate,,Dem,Dianne Feinstein,4
+Siskiyou,M3080 - EAGLE,U.S. Senate,,Dem,Dianne Feinstein,0
+Siskiyou,M3085 - DUCK,U.S. Senate,,Dem,Dianne Feinstein,13
+Siskiyou,M4060 - DELPHIC CONS,U.S. Senate,,Dem,Dianne Feinstein,32
+Siskiyou,M4065 - GREENHORN CONS,U.S. Senate,,Dem,Dianne Feinstein,27
+Siskiyou,M5060 - HILT CONS,U.S. Senate,,Dem,Dianne Feinstein,32
+Siskiyou,M5065 - WALKER CONS,U.S. Senate,,Dem,Dianne Feinstein,53
+Siskiyou,M5070 - GOTTVILLE CONS,U.S. Senate,,Dem,Dianne Feinstein,14
+Siskiyou,M5075 - HORNBROOK,U.S. Senate,,Dem,Dianne Feinstein,20
+Siskiyou,M5080 - HENLEY,U.S. Senate,,Dem,Dianne Feinstein,34
+Siskiyou,M5085 - HUMBUG CONS,U.S. Senate,,Dem,Dianne Feinstein,50
+Siskiyou,M5090 - CALLAHAN CONS,U.S. Senate,,Dem,Dianne Feinstein,55
+Siskiyou,M5095 - SEIAD CONS,U.S. Senate,,Dem,Dianne Feinstein,41
+Siskiyou,P1000 - MCCLOUD CONS,U.S. Senate,,Dem,Dianne Feinstein,152
+Siskiyou,P1002 - MONTAGUE 2,U.S. Senate,,Dem,Dianne Feinstein,45
+Siskiyou,P1003 - WILLOW CREEK,U.S. Senate,,Dem,Dianne Feinstein,87
+Siskiyou,P1026 - BIG SPRINGS,U.S. Senate,,Dem,Dianne Feinstein,63
+Siskiyou,P1105 - DORRIS 1,U.S. Senate,,Dem,Dianne Feinstein,37
+Siskiyou,P1110 - MONTAGUE 1,U.S. Senate,,Dem,Dianne Feinstein,104
+Siskiyou,P2009 - DUNSMUIR 3,U.S. Senate,,Dem,Dianne Feinstein,60
+Siskiyou,P2014 - MT SHASTA 3,U.S. Senate,,Dem,Dianne Feinstein,256
+Siskiyou,P2015 - MT SHASTA 5,U.S. Senate,,Dem,Dianne Feinstein,180
+Siskiyou,P2019 - KINSTREY,U.S. Senate,,Dem,Dianne Feinstein,236
+Siskiyou,P2100 - DUNSMUIR CITY,U.S. Senate,,Dem,Dianne Feinstein,255
+Siskiyou,P2110 - MT SHASTA 1,U.S. Senate,,Dem,Dianne Feinstein,207
+Siskiyou,P2111 - MT SHASTA 2,U.S. Senate,,Dem,Dianne Feinstein,263
+Siskiyou,P2115 - MT SHASTA 4,U.S. Senate,,Dem,Dianne Feinstein,225
+Siskiyou,P3001 - EDGEWOOD,U.S. Senate,,Dem,Dianne Feinstein,80
+Siskiyou,P3004 - GRENADA,U.S. Senate,,Dem,Dianne Feinstein,104
+Siskiyou,P3006 - LAKE SHASTINA M,U.S. Senate,,Dem,Dianne Feinstein,138
+Siskiyou,P3007 - LAKE SHASTINA E,U.S. Senate,,Dem,Dianne Feinstein,239
+Siskiyou,P3009 - MAYTEN,U.S. Senate,,Dem,Dianne Feinstein,71
+Siskiyou,P3014 - SISSON,U.S. Senate,,Dem,Dianne Feinstein,166
+Siskiyou,P3021 - WEED 3,U.S. Senate,,Dem,Dianne Feinstein,113
+Siskiyou,P3111 - WEED 1,U.S. Senate,,Dem,Dianne Feinstein,133
+Siskiyou,P3112 - WEED 2,U.S. Senate,,Dem,Dianne Feinstein,152
+Siskiyou,P4030 - FOREST MTN,U.S. Senate,,Dem,Dianne Feinstein,138
+Siskiyou,P4110 - YREKA 1,U.S. Senate,,Dem,Dianne Feinstein,153
+Siskiyou,P4112 - YREKA 2,U.S. Senate,,Dem,Dianne Feinstein,138
+Siskiyou,P4115 - YREKA 3,U.S. Senate,,Dem,Dianne Feinstein,118
+Siskiyou,P4116 - YREKA 4,U.S. Senate,,Dem,Dianne Feinstein,92
+Siskiyou,P4118 - YREKA 5,U.S. Senate,,Dem,Dianne Feinstein,155
+Siskiyou,P4121 - YREKA 6,U.S. Senate,,Dem,Dianne Feinstein,110
+Siskiyou,P5005 - ETNA 2,U.S. Senate,,Dem,Dianne Feinstein,212
+Siskiyou,P5008 - FT JONES 2,U.S. Senate,,Dem,Dianne Feinstein,98
+Siskiyou,P5011 - HAPPY CAMP,U.S. Senate,,Dem,Dianne Feinstein,89
+Siskiyou,P5050 - GREENVIEW CONS,U.S. Senate,,Dem,Dianne Feinstein,157
+Siskiyou,P5103 - ETNA 1,U.S. Senate,,Dem,Dianne Feinstein,93
+Siskiyou,P5107 - FT JONES 1,U.S. Senate,,Dem,Dianne Feinstein,88
+Siskiyou,SISKIYOU CA,U.S. Senate,,Dem,Dianne Feinstein,"5,772"
+Siskiyou,M1001 - BOGUS,U.S. Senate,,Dem,Kevin DeLeon,92
+Siskiyou,M1007 - DORRIS 2,U.S. Senate,,Dem,Kevin DeLeon,77
+Siskiyou,M1020 - TULELAKE 2,U.S. Senate,,Dem,Kevin DeLeon,42
+Siskiyou,M1060 - COPCO CONS,U.S. Senate,,Dem,Kevin DeLeon,28
+Siskiyou,M1065 - LITTLE SHASTA CONS,U.S. Senate,,Dem,Kevin DeLeon,87
+Siskiyou,M1070 - PONDOSA CONS,U.S. Senate,,Dem,Kevin DeLeon,86
+Siskiyou,M1075 - BASIN,U.S. Senate,,Dem,Kevin DeLeon,24
+Siskiyou,M1080 - MACDOEL CONS,U.S. Senate,,Dem,Kevin DeLeon,88
+Siskiyou,M1117 - TULELAKE 1,U.S. Senate,,Dem,Kevin DeLeon,73
+Siskiyou,M2060 - CASTLE,U.S. Senate,,Dem,Kevin DeLeon,1
+Siskiyou,M2065 - BEAR,U.S. Senate,,Dem,Kevin DeLeon,15
+Siskiyou,M3013 - WARREN,U.S. Senate,,Dem,Kevin DeLeon,78
+Siskiyou,M3060 - GAZELLE CONS,U.S. Senate,,Dem,Kevin DeLeon,98
+Siskiyou,M3065 - BUTTE,U.S. Senate,,Dem,Kevin DeLeon,5
+Siskiyou,M3070 - EDDY,U.S. Senate,,Dem,Kevin DeLeon,48
+Siskiyou,M3075 - COUGAR,U.S. Senate,,Dem,Kevin DeLeon,1
+Siskiyou,M3080 - EAGLE,U.S. Senate,,Dem,Kevin DeLeon,0
+Siskiyou,M3085 - DUCK,U.S. Senate,,Dem,Kevin DeLeon,9
+Siskiyou,M4060 - DELPHIC CONS,U.S. Senate,,Dem,Kevin DeLeon,65
+Siskiyou,M4065 - GREENHORN CONS,U.S. Senate,,Dem,Kevin DeLeon,77
+Siskiyou,M5060 - HILT CONS,U.S. Senate,,Dem,Kevin DeLeon,73
+Siskiyou,M5065 - WALKER CONS,U.S. Senate,,Dem,Kevin DeLeon,59
+Siskiyou,M5070 - GOTTVILLE CONS,U.S. Senate,,Dem,Kevin DeLeon,38
+Siskiyou,M5075 - HORNBROOK,U.S. Senate,,Dem,Kevin DeLeon,35
+Siskiyou,M5080 - HENLEY,U.S. Senate,,Dem,Kevin DeLeon,52
+Siskiyou,M5085 - HUMBUG CONS,U.S. Senate,,Dem,Kevin DeLeon,105
+Siskiyou,M5090 - CALLAHAN CONS,U.S. Senate,,Dem,Kevin DeLeon,73
+Siskiyou,M5095 - SEIAD CONS,U.S. Senate,,Dem,Kevin DeLeon,95
+Siskiyou,P1000 - MCCLOUD CONS,U.S. Senate,,Dem,Kevin DeLeon,274
+Siskiyou,P1002 - MONTAGUE 2,U.S. Senate,,Dem,Kevin DeLeon,98
+Siskiyou,P1003 - WILLOW CREEK,U.S. Senate,,Dem,Kevin DeLeon,170
+Siskiyou,P1026 - BIG SPRINGS,U.S. Senate,,Dem,Kevin DeLeon,89
+Siskiyou,P1105 - DORRIS 1,U.S. Senate,,Dem,Kevin DeLeon,119
+Siskiyou,P1110 - MONTAGUE 1,U.S. Senate,,Dem,Kevin DeLeon,279
+Siskiyou,P2009 - DUNSMUIR 3,U.S. Senate,,Dem,Kevin DeLeon,87
+Siskiyou,P2014 - MT SHASTA 3,U.S. Senate,,Dem,Kevin DeLeon,273
+Siskiyou,P2015 - MT SHASTA 5,U.S. Senate,,Dem,Kevin DeLeon,188
+Siskiyou,P2019 - KINSTREY,U.S. Senate,,Dem,Kevin DeLeon,359
+Siskiyou,P2100 - DUNSMUIR CITY,U.S. Senate,,Dem,Kevin DeLeon,330
+Siskiyou,P2110 - MT SHASTA 1,U.S. Senate,,Dem,Kevin DeLeon,204
+Siskiyou,P2111 - MT SHASTA 2,U.S. Senate,,Dem,Kevin DeLeon,271
+Siskiyou,P2115 - MT SHASTA 4,U.S. Senate,,Dem,Kevin DeLeon,230
+Siskiyou,P3001 - EDGEWOOD,U.S. Senate,,Dem,Kevin DeLeon,118
+Siskiyou,P3004 - GRENADA,U.S. Senate,,Dem,Kevin DeLeon,171
+Siskiyou,P3006 - LAKE SHASTINA M,U.S. Senate,,Dem,Kevin DeLeon,193
+Siskiyou,P3007 - LAKE SHASTINA E,U.S. Senate,,Dem,Kevin DeLeon,333
+Siskiyou,P3009 - MAYTEN,U.S. Senate,,Dem,Kevin DeLeon,109
+Siskiyou,P3014 - SISSON,U.S. Senate,,Dem,Kevin DeLeon,178
+Siskiyou,P3021 - WEED 3,U.S. Senate,,Dem,Kevin DeLeon,141
+Siskiyou,P3111 - WEED 1,U.S. Senate,,Dem,Kevin DeLeon,171
+Siskiyou,P3112 - WEED 2,U.S. Senate,,Dem,Kevin DeLeon,170
+Siskiyou,P4030 - FOREST MTN,U.S. Senate,,Dem,Kevin DeLeon,275
+Siskiyou,P4110 - YREKA 1,U.S. Senate,,Dem,Kevin DeLeon,240
+Siskiyou,P4112 - YREKA 2,U.S. Senate,,Dem,Kevin DeLeon,261
+Siskiyou,P4115 - YREKA 3,U.S. Senate,,Dem,Kevin DeLeon,252
+Siskiyou,P4116 - YREKA 4,U.S. Senate,,Dem,Kevin DeLeon,176
+Siskiyou,P4118 - YREKA 5,U.S. Senate,,Dem,Kevin DeLeon,219
+Siskiyou,P4121 - YREKA 6,U.S. Senate,,Dem,Kevin DeLeon,208
+Siskiyou,P5005 - ETNA 2,U.S. Senate,,Dem,Kevin DeLeon,303
+Siskiyou,P5008 - FT JONES 2,U.S. Senate,,Dem,Kevin DeLeon,187
+Siskiyou,P5011 - HAPPY CAMP,U.S. Senate,,Dem,Kevin DeLeon,207
+Siskiyou,P5050 - GREENVIEW CONS,U.S. Senate,,Dem,Kevin DeLeon,280
+Siskiyou,P5103 - ETNA 1,U.S. Senate,,Dem,Kevin DeLeon,131
+Siskiyou,P5107 - FT JONES 1,U.S. Senate,,Dem,Kevin DeLeon,112
+Siskiyou,SISKIYOU CA,U.S. Senate,,Dem,Kevin DeLeon,"8,930"
+Siskiyou,M1001 - BOGUS,Superintendent of Public Instruction,,None,Marshall Tuck,107
+Siskiyou,M1007 - DORRIS 2,Superintendent of Public Instruction,,None,Marshall Tuck,91
+Siskiyou,M1020 - TULELAKE 2,Superintendent of Public Instruction,,None,Marshall Tuck,43
+Siskiyou,M1060 - COPCO CONS,Superintendent of Public Instruction,,None,Marshall Tuck,29
+Siskiyou,M1065 - LITTLE SHASTA CONS,Superintendent of Public Instruction,,None,Marshall Tuck,127
+Siskiyou,M1070 - PONDOSA CONS,Superintendent of Public Instruction,,None,Marshall Tuck,71
+Siskiyou,M1075 - BASIN,Superintendent of Public Instruction,,None,Marshall Tuck,25
+Siskiyou,M1080 - MACDOEL CONS,Superintendent of Public Instruction,,None,Marshall Tuck,115
+Siskiyou,M1117 - TULELAKE 1,Superintendent of Public Instruction,,None,Marshall Tuck,70
+Siskiyou,M2060 - CASTLE,Superintendent of Public Instruction,,None,Marshall Tuck,2
+Siskiyou,M2065 - BEAR,Superintendent of Public Instruction,,None,Marshall Tuck,19
+Siskiyou,M3013 - WARREN,Superintendent of Public Instruction,,None,Marshall Tuck,108
+Siskiyou,M3060 - GAZELLE CONS,Superintendent of Public Instruction,,None,Marshall Tuck,107
+Siskiyou,M3065 - BUTTE,Superintendent of Public Instruction,,None,Marshall Tuck,1
+Siskiyou,M3070 - EDDY,Superintendent of Public Instruction,,None,Marshall Tuck,45
+Siskiyou,M3075 - COUGAR,Superintendent of Public Instruction,,None,Marshall Tuck,3
+Siskiyou,M3080 - EAGLE,Superintendent of Public Instruction,,None,Marshall Tuck,0
+Siskiyou,M3085 - DUCK,Superintendent of Public Instruction,,None,Marshall Tuck,16
+Siskiyou,M4060 - DELPHIC CONS,Superintendent of Public Instruction,,None,Marshall Tuck,99
+Siskiyou,M4065 - GREENHORN CONS,Superintendent of Public Instruction,,None,Marshall Tuck,86
+Siskiyou,M5060 - HILT CONS,Superintendent of Public Instruction,,None,Marshall Tuck,70
+Siskiyou,M5065 - WALKER CONS,Superintendent of Public Instruction,,None,Marshall Tuck,63
+Siskiyou,M5070 - GOTTVILLE CONS,Superintendent of Public Instruction,,None,Marshall Tuck,36
+Siskiyou,M5075 - HORNBROOK,Superintendent of Public Instruction,,None,Marshall Tuck,44
+Siskiyou,M5080 - HENLEY,Superintendent of Public Instruction,,None,Marshall Tuck,58
+Siskiyou,M5085 - HUMBUG CONS,Superintendent of Public Instruction,,None,Marshall Tuck,105
+Siskiyou,M5090 - CALLAHAN CONS,Superintendent of Public Instruction,,None,Marshall Tuck,61
+Siskiyou,M5095 - SEIAD CONS,Superintendent of Public Instruction,,None,Marshall Tuck,83
+Siskiyou,P1000 - MCCLOUD CONS,Superintendent of Public Instruction,,None,Marshall Tuck,257
+Siskiyou,P1002 - MONTAGUE 2,Superintendent of Public Instruction,,None,Marshall Tuck,109
+Siskiyou,P1003 - WILLOW CREEK,Superintendent of Public Instruction,,None,Marshall Tuck,194
+Siskiyou,P1026 - BIG SPRINGS,Superintendent of Public Instruction,,None,Marshall Tuck,104
+Siskiyou,P1105 - DORRIS 1,Superintendent of Public Instruction,,None,Marshall Tuck,110
+Siskiyou,P1110 - MONTAGUE 1,Superintendent of Public Instruction,,None,Marshall Tuck,300
+Siskiyou,P2009 - DUNSMUIR 3,Superintendent of Public Instruction,,None,Marshall Tuck,83
+Siskiyou,P2014 - MT SHASTA 3,Superintendent of Public Instruction,,None,Marshall Tuck,276
+Siskiyou,P2015 - MT SHASTA 5,Superintendent of Public Instruction,,None,Marshall Tuck,166
+Siskiyou,P2019 - KINSTREY,Superintendent of Public Instruction,,None,Marshall Tuck,325
+Siskiyou,P2100 - DUNSMUIR CITY,Superintendent of Public Instruction,,None,Marshall Tuck,323
+Siskiyou,P2110 - MT SHASTA 1,Superintendent of Public Instruction,,None,Marshall Tuck,192
+Siskiyou,P2111 - MT SHASTA 2,Superintendent of Public Instruction,,None,Marshall Tuck,243
+Siskiyou,P2115 - MT SHASTA 4,Superintendent of Public Instruction,,None,Marshall Tuck,180
+Siskiyou,P3001 - EDGEWOOD,Superintendent of Public Instruction,,None,Marshall Tuck,102
+Siskiyou,P3004 - GRENADA,Superintendent of Public Instruction,,None,Marshall Tuck,227
+Siskiyou,P3006 - LAKE SHASTINA M,Superintendent of Public Instruction,,None,Marshall Tuck,182
+Siskiyou,P3007 - LAKE SHASTINA E,Superintendent of Public Instruction,,None,Marshall Tuck,337
+Siskiyou,P3009 - MAYTEN,Superintendent of Public Instruction,,None,Marshall Tuck,142
+Siskiyou,P3014 - SISSON,Superintendent of Public Instruction,,None,Marshall Tuck,161
+Siskiyou,P3021 - WEED 3,Superintendent of Public Instruction,,None,Marshall Tuck,120
+Siskiyou,P3111 - WEED 1,Superintendent of Public Instruction,,None,Marshall Tuck,172
+Siskiyou,P3112 - WEED 2,Superintendent of Public Instruction,,None,Marshall Tuck,203
+Siskiyou,P4030 - FOREST MTN,Superintendent of Public Instruction,,None,Marshall Tuck,304
+Siskiyou,P4110 - YREKA 1,Superintendent of Public Instruction,,None,Marshall Tuck,265
+Siskiyou,P4112 - YREKA 2,Superintendent of Public Instruction,,None,Marshall Tuck,254
+Siskiyou,P4115 - YREKA 3,Superintendent of Public Instruction,,None,Marshall Tuck,236
+Siskiyou,P4116 - YREKA 4,Superintendent of Public Instruction,,None,Marshall Tuck,184
+Siskiyou,P4118 - YREKA 5,Superintendent of Public Instruction,,None,Marshall Tuck,229
+Siskiyou,P4121 - YREKA 6,Superintendent of Public Instruction,,None,Marshall Tuck,218
+Siskiyou,P5005 - ETNA 2,Superintendent of Public Instruction,,None,Marshall Tuck,367
+Siskiyou,P5008 - FT JONES 2,Superintendent of Public Instruction,,None,Marshall Tuck,219
+Siskiyou,P5011 - HAPPY CAMP,Superintendent of Public Instruction,,None,Marshall Tuck,174
+Siskiyou,P5050 - GREENVIEW CONS,Superintendent of Public Instruction,,None,Marshall Tuck,326
+Siskiyou,P5103 - ETNA 1,Superintendent of Public Instruction,,None,Marshall Tuck,138
+Siskiyou,P5107 - FT JONES 1,Superintendent of Public Instruction,,None,Marshall Tuck,148
+Siskiyou,SISKIYOU CA,Superintendent of Public Instruction,,None,Marshall Tuck,"9,254"
+Siskiyou,M1001 - BOGUS,Superintendent of Public Instruction,,None,Tony Thurmond,45
+Siskiyou,M1007 - DORRIS 2,Superintendent of Public Instruction,,None,Tony Thurmond,40
+Siskiyou,M1020 - TULELAKE 2,Superintendent of Public Instruction,,None,Tony Thurmond,8
+Siskiyou,M1060 - COPCO CONS,Superintendent of Public Instruction,,None,Tony Thurmond,15
+Siskiyou,M1065 - LITTLE SHASTA CONS,Superintendent of Public Instruction,,None,Tony Thurmond,19
+Siskiyou,M1070 - PONDOSA CONS,Superintendent of Public Instruction,,None,Tony Thurmond,56
+Siskiyou,M1075 - BASIN,Superintendent of Public Instruction,,None,Tony Thurmond,12
+Siskiyou,M1080 - MACDOEL CONS,Superintendent of Public Instruction,,None,Tony Thurmond,31
+Siskiyou,M1117 - TULELAKE 1,Superintendent of Public Instruction,,None,Tony Thurmond,28
+Siskiyou,M2060 - CASTLE,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Siskiyou,M2065 - BEAR,Superintendent of Public Instruction,,None,Tony Thurmond,23
+Siskiyou,M3013 - WARREN,Superintendent of Public Instruction,,None,Tony Thurmond,47
+Siskiyou,M3060 - GAZELLE CONS,Superintendent of Public Instruction,,None,Tony Thurmond,29
+Siskiyou,M3065 - BUTTE,Superintendent of Public Instruction,,None,Tony Thurmond,3
+Siskiyou,M3070 - EDDY,Superintendent of Public Instruction,,None,Tony Thurmond,41
+Siskiyou,M3075 - COUGAR,Superintendent of Public Instruction,,None,Tony Thurmond,2
+Siskiyou,M3080 - EAGLE,Superintendent of Public Instruction,,None,Tony Thurmond,0
+Siskiyou,M3085 - DUCK,Superintendent of Public Instruction,,None,Tony Thurmond,16
+Siskiyou,M4060 - DELPHIC CONS,Superintendent of Public Instruction,,None,Tony Thurmond,19
+Siskiyou,M4065 - GREENHORN CONS,Superintendent of Public Instruction,,None,Tony Thurmond,33
+Siskiyou,M5060 - HILT CONS,Superintendent of Public Instruction,,None,Tony Thurmond,41
+Siskiyou,M5065 - WALKER CONS,Superintendent of Public Instruction,,None,Tony Thurmond,40
+Siskiyou,M5070 - GOTTVILLE CONS,Superintendent of Public Instruction,,None,Tony Thurmond,22
+Siskiyou,M5075 - HORNBROOK,Superintendent of Public Instruction,,None,Tony Thurmond,19
+Siskiyou,M5080 - HENLEY,Superintendent of Public Instruction,,None,Tony Thurmond,36
+Siskiyou,M5085 - HUMBUG CONS,Superintendent of Public Instruction,,None,Tony Thurmond,47
+Siskiyou,M5090 - CALLAHAN CONS,Superintendent of Public Instruction,,None,Tony Thurmond,66
+Siskiyou,M5095 - SEIAD CONS,Superintendent of Public Instruction,,None,Tony Thurmond,54
+Siskiyou,P1000 - MCCLOUD CONS,Superintendent of Public Instruction,,None,Tony Thurmond,160
+Siskiyou,P1002 - MONTAGUE 2,Superintendent of Public Instruction,,None,Tony Thurmond,45
+Siskiyou,P1003 - WILLOW CREEK,Superintendent of Public Instruction,,None,Tony Thurmond,100
+Siskiyou,P1026 - BIG SPRINGS,Superintendent of Public Instruction,,None,Tony Thurmond,59
+Siskiyou,P1105 - DORRIS 1,Superintendent of Public Instruction,,None,Tony Thurmond,54
+Siskiyou,P1110 - MONTAGUE 1,Superintendent of Public Instruction,,None,Tony Thurmond,104
+Siskiyou,P2009 - DUNSMUIR 3,Superintendent of Public Instruction,,None,Tony Thurmond,68
+Siskiyou,P2014 - MT SHASTA 3,Superintendent of Public Instruction,,None,Tony Thurmond,248
+Siskiyou,P2015 - MT SHASTA 5,Superintendent of Public Instruction,,None,Tony Thurmond,180
+Siskiyou,P2019 - KINSTREY,Superintendent of Public Instruction,,None,Tony Thurmond,248
+Siskiyou,P2100 - DUNSMUIR CITY,Superintendent of Public Instruction,,None,Tony Thurmond,255
+Siskiyou,P2110 - MT SHASTA 1,Superintendent of Public Instruction,,None,Tony Thurmond,191
+Siskiyou,P2111 - MT SHASTA 2,Superintendent of Public Instruction,,None,Tony Thurmond,265
+Siskiyou,P2115 - MT SHASTA 4,Superintendent of Public Instruction,,None,Tony Thurmond,224
+Siskiyou,P3001 - EDGEWOOD,Superintendent of Public Instruction,,None,Tony Thurmond,84
+Siskiyou,P3004 - GRENADA,Superintendent of Public Instruction,,None,Tony Thurmond,90
+Siskiyou,P3006 - LAKE SHASTINA M,Superintendent of Public Instruction,,None,Tony Thurmond,159
+Siskiyou,P3007 - LAKE SHASTINA E,Superintendent of Public Instruction,,None,Tony Thurmond,229
+Siskiyou,P3009 - MAYTEN,Superintendent of Public Instruction,,None,Tony Thurmond,69
+Siskiyou,P3014 - SISSON,Superintendent of Public Instruction,,None,Tony Thurmond,185
+Siskiyou,P3021 - WEED 3,Superintendent of Public Instruction,,None,Tony Thurmond,130
+Siskiyou,P3111 - WEED 1,Superintendent of Public Instruction,,None,Tony Thurmond,115
+Siskiyou,P3112 - WEED 2,Superintendent of Public Instruction,,None,Tony Thurmond,127
+Siskiyou,P4030 - FOREST MTN,Superintendent of Public Instruction,,None,Tony Thurmond,140
+Siskiyou,P4110 - YREKA 1,Superintendent of Public Instruction,,None,Tony Thurmond,143
+Siskiyou,P4112 - YREKA 2,Superintendent of Public Instruction,,None,Tony Thurmond,179
+Siskiyou,P4115 - YREKA 3,Superintendent of Public Instruction,,None,Tony Thurmond,142
+Siskiyou,P4116 - YREKA 4,Superintendent of Public Instruction,,None,Tony Thurmond,97
+Siskiyou,P4118 - YREKA 5,Superintendent of Public Instruction,,None,Tony Thurmond,167
+Siskiyou,P4121 - YREKA 6,Superintendent of Public Instruction,,None,Tony Thurmond,119
+Siskiyou,P5005 - ETNA 2,Superintendent of Public Instruction,,None,Tony Thurmond,205
+Siskiyou,P5008 - FT JONES 2,Superintendent of Public Instruction,,None,Tony Thurmond,106
+Siskiyou,P5011 - HAPPY CAMP,Superintendent of Public Instruction,,None,Tony Thurmond,113
+Siskiyou,P5050 - GREENVIEW CONS,Superintendent of Public Instruction,,None,Tony Thurmond,143
+Siskiyou,P5103 - ETNA 1,Superintendent of Public Instruction,,None,Tony Thurmond,90
+Siskiyou,P5107 - FT JONES 1,Superintendent of Public Instruction,,None,Tony Thurmond,65
+Siskiyou,SISKIYOU CA,Superintendent of Public Instruction,,None,Tony Thurmond,"5,890"
+Siskiyou,M1001 - BOGUS,U.S. House,1,Dem,Audrey Denney,46
+Siskiyou,M1007 - DORRIS 2,U.S. House,1,Dem,Audrey Denney,35
+Siskiyou,M1020 - TULELAKE 2,U.S. House,1,Dem,Audrey Denney,10
+Siskiyou,M1060 - COPCO CONS,U.S. House,1,Dem,Audrey Denney,17
+Siskiyou,M1065 - LITTLE SHASTA CONS,U.S. House,1,Dem,Audrey Denney,52
+Siskiyou,M1070 - PONDOSA CONS,U.S. House,1,Dem,Audrey Denney,86
+Siskiyou,M1075 - BASIN,U.S. House,1,Dem,Audrey Denney,10
+Siskiyou,M1080 - MACDOEL CONS,U.S. House,1,Dem,Audrey Denney,47
+Siskiyou,M1117 - TULELAKE 1,U.S. House,1,Dem,Audrey Denney,31
+Siskiyou,M2060 - CASTLE,U.S. House,1,Dem,Audrey Denney,0
+Siskiyou,M2065 - BEAR,U.S. House,1,Dem,Audrey Denney,24
+Siskiyou,M3013 - WARREN,U.S. House,1,Dem,Audrey Denney,68
+Siskiyou,M3060 - GAZELLE CONS,U.S. House,1,Dem,Audrey Denney,43
+Siskiyou,M3065 - BUTTE,U.S. House,1,Dem,Audrey Denney,5
+Siskiyou,M3070 - EDDY,U.S. House,1,Dem,Audrey Denney,57
+Siskiyou,M3075 - COUGAR,U.S. House,1,Dem,Audrey Denney,2
+Siskiyou,M3080 - EAGLE,U.S. House,1,Dem,Audrey Denney,0
+Siskiyou,M3085 - DUCK,U.S. House,1,Dem,Audrey Denney,16
+Siskiyou,M4060 - DELPHIC CONS,U.S. House,1,Dem,Audrey Denney,39
+Siskiyou,M4065 - GREENHORN CONS,U.S. House,1,Dem,Audrey Denney,44
+Siskiyou,M5060 - HILT CONS,U.S. House,1,Dem,Audrey Denney,44
+Siskiyou,M5065 - WALKER CONS,U.S. House,1,Dem,Audrey Denney,68
+Siskiyou,M5070 - GOTTVILLE CONS,U.S. House,1,Dem,Audrey Denney,29
+Siskiyou,M5075 - HORNBROOK,U.S. House,1,Dem,Audrey Denney,22
+Siskiyou,M5080 - HENLEY,U.S. House,1,Dem,Audrey Denney,40
+Siskiyou,M5085 - HUMBUG CONS,U.S. House,1,Dem,Audrey Denney,74
+Siskiyou,M5090 - CALLAHAN CONS,U.S. House,1,Dem,Audrey Denney,75
+Siskiyou,M5095 - SEIAD CONS,U.S. House,1,Dem,Audrey Denney,87
+Siskiyou,P1000 - MCCLOUD CONS,U.S. House,1,Dem,Audrey Denney,217
+Siskiyou,P1002 - MONTAGUE 2,U.S. House,1,Dem,Audrey Denney,60
+Siskiyou,P1003 - WILLOW CREEK,U.S. House,1,Dem,Audrey Denney,115
+Siskiyou,P1026 - BIG SPRINGS,U.S. House,1,Dem,Audrey Denney,90
+Siskiyou,P1105 - DORRIS 1,U.S. House,1,Dem,Audrey Denney,63
+Siskiyou,P1110 - MONTAGUE 1,U.S. House,1,Dem,Audrey Denney,156
+Siskiyou,P2009 - DUNSMUIR 3,U.S. House,1,Dem,Audrey Denney,102
+Siskiyou,P2014 - MT SHASTA 3,U.S. House,1,Dem,Audrey Denney,388
+Siskiyou,P2015 - MT SHASTA 5,U.S. House,1,Dem,Audrey Denney,289
+Siskiyou,P2019 - KINSTREY,U.S. House,1,Dem,Audrey Denney,371
+Siskiyou,P2100 - DUNSMUIR CITY,U.S. House,1,Dem,Audrey Denney,433
+Siskiyou,P2110 - MT SHASTA 1,U.S. House,1,Dem,Audrey Denney,313
+Siskiyou,P2111 - MT SHASTA 2,U.S. House,1,Dem,Audrey Denney,400
+Siskiyou,P2115 - MT SHASTA 4,U.S. House,1,Dem,Audrey Denney,363
+Siskiyou,P3001 - EDGEWOOD,U.S. House,1,Dem,Audrey Denney,134
+Siskiyou,P3004 - GRENADA,U.S. House,1,Dem,Audrey Denney,113
+Siskiyou,P3006 - LAKE SHASTINA M,U.S. House,1,Dem,Audrey Denney,204
+Siskiyou,P3007 - LAKE SHASTINA E,U.S. House,1,Dem,Audrey Denney,323
+Siskiyou,P3009 - MAYTEN,U.S. House,1,Dem,Audrey Denney,84
+Siskiyou,P3014 - SISSON,U.S. House,1,Dem,Audrey Denney,244
+Siskiyou,P3021 - WEED 3,U.S. House,1,Dem,Audrey Denney,178
+Siskiyou,P3111 - WEED 1,U.S. House,1,Dem,Audrey Denney,211
+Siskiyou,P3112 - WEED 2,U.S. House,1,Dem,Audrey Denney,230
+Siskiyou,P4030 - FOREST MTN,U.S. House,1,Dem,Audrey Denney,148
+Siskiyou,P4110 - YREKA 1,U.S. House,1,Dem,Audrey Denney,215
+Siskiyou,P4112 - YREKA 2,U.S. House,1,Dem,Audrey Denney,225
+Siskiyou,P4115 - YREKA 3,U.S. House,1,Dem,Audrey Denney,197
+Siskiyou,P4116 - YREKA 4,U.S. House,1,Dem,Audrey Denney,141
+Siskiyou,P4118 - YREKA 5,U.S. House,1,Dem,Audrey Denney,221
+Siskiyou,P4121 - YREKA 6,U.S. House,1,Dem,Audrey Denney,151
+Siskiyou,P5005 - ETNA 2,U.S. House,1,Dem,Audrey Denney,246
+Siskiyou,P5008 - FT JONES 2,U.S. House,1,Dem,Audrey Denney,120
+Siskiyou,P5011 - HAPPY CAMP,U.S. House,1,Dem,Audrey Denney,159
+Siskiyou,P5050 - GREENVIEW CONS,U.S. House,1,Dem,Audrey Denney,202
+Siskiyou,P5103 - ETNA 1,U.S. House,1,Dem,Audrey Denney,110
+Siskiyou,P5107 - FT JONES 1,U.S. House,1,Dem,Audrey Denney,104
+Siskiyou,SISKIYOU CA,U.S. House,1,Dem,Audrey Denney,"8,391"
+Siskiyou,M1001 - BOGUS,U.S. House,1,Rep,Doug LaMalfa,120
+Siskiyou,M1007 - DORRIS 2,U.S. House,1,Rep,Doug LaMalfa,116
+Siskiyou,M1020 - TULELAKE 2,U.S. House,1,Rep,Doug LaMalfa,55
+Siskiyou,M1060 - COPCO CONS,U.S. House,1,Rep,Doug LaMalfa,32
+Siskiyou,M1065 - LITTLE SHASTA CONS,U.S. House,1,Rep,Doug LaMalfa,135
+Siskiyou,M1070 - PONDOSA CONS,U.S. House,1,Rep,Doug LaMalfa,74
+Siskiyou,M1075 - BASIN,U.S. House,1,Rep,Doug LaMalfa,36
+Siskiyou,M1080 - MACDOEL CONS,U.S. House,1,Rep,Doug LaMalfa,126
+Siskiyou,M1117 - TULELAKE 1,U.S. House,1,Rep,Doug LaMalfa,97
+Siskiyou,M2060 - CASTLE,U.S. House,1,Rep,Doug LaMalfa,3
+Siskiyou,M2065 - BEAR,U.S. House,1,Rep,Doug LaMalfa,21
+Siskiyou,M3013 - WARREN,U.S. House,1,Rep,Doug LaMalfa,123
+Siskiyou,M3060 - GAZELLE CONS,U.S. House,1,Rep,Doug LaMalfa,120
+Siskiyou,M3065 - BUTTE,U.S. House,1,Rep,Doug LaMalfa,0
+Siskiyou,M3070 - EDDY,U.S. House,1,Rep,Doug LaMalfa,49
+Siskiyou,M3075 - COUGAR,U.S. House,1,Rep,Doug LaMalfa,3
+Siskiyou,M3080 - EAGLE,U.S. House,1,Rep,Doug LaMalfa,0
+Siskiyou,M3085 - DUCK,U.S. House,1,Rep,Doug LaMalfa,21
+Siskiyou,M4060 - DELPHIC CONS,U.S. House,1,Rep,Doug LaMalfa,108
+Siskiyou,M4065 - GREENHORN CONS,U.S. House,1,Rep,Doug LaMalfa,114
+Siskiyou,M5060 - HILT CONS,U.S. House,1,Rep,Doug LaMalfa,93
+Siskiyou,M5065 - WALKER CONS,U.S. House,1,Rep,Doug LaMalfa,72
+Siskiyou,M5070 - GOTTVILLE CONS,U.S. House,1,Rep,Doug LaMalfa,39
+Siskiyou,M5075 - HORNBROOK,U.S. House,1,Rep,Doug LaMalfa,56
+Siskiyou,M5080 - HENLEY,U.S. House,1,Rep,Doug LaMalfa,79
+Siskiyou,M5085 - HUMBUG CONS,U.S. House,1,Rep,Doug LaMalfa,127
+Siskiyou,M5090 - CALLAHAN CONS,U.S. House,1,Rep,Doug LaMalfa,82
+Siskiyou,M5095 - SEIAD CONS,U.S. House,1,Rep,Doug LaMalfa,79
+Siskiyou,P1000 - MCCLOUD CONS,U.S. House,1,Rep,Doug LaMalfa,285
+Siskiyou,P1002 - MONTAGUE 2,U.S. House,1,Rep,Doug LaMalfa,135
+Siskiyou,P1003 - WILLOW CREEK,U.S. House,1,Rep,Doug LaMalfa,233
+Siskiyou,P1026 - BIG SPRINGS,U.S. House,1,Rep,Doug LaMalfa,101
+Siskiyou,P1105 - DORRIS 1,U.S. House,1,Rep,Doug LaMalfa,132
+Siskiyou,P1110 - MONTAGUE 1,U.S. House,1,Rep,Doug LaMalfa,307
+Siskiyou,P2009 - DUNSMUIR 3,U.S. House,1,Rep,Doug LaMalfa,71
+Siskiyou,P2014 - MT SHASTA 3,U.S. House,1,Rep,Doug LaMalfa,231
+Siskiyou,P2015 - MT SHASTA 5,U.S. House,1,Rep,Doug LaMalfa,128
+Siskiyou,P2019 - KINSTREY,U.S. House,1,Rep,Doug LaMalfa,327
+Siskiyou,P2100 - DUNSMUIR CITY,U.S. House,1,Rep,Doug LaMalfa,236
+Siskiyou,P2110 - MT SHASTA 1,U.S. House,1,Rep,Doug LaMalfa,143
+Siskiyou,P2111 - MT SHASTA 2,U.S. House,1,Rep,Doug LaMalfa,207
+Siskiyou,P2115 - MT SHASTA 4,U.S. House,1,Rep,Doug LaMalfa,143
+Siskiyou,P3001 - EDGEWOOD,U.S. House,1,Rep,Doug LaMalfa,96
+Siskiyou,P3004 - GRENADA,U.S. House,1,Rep,Doug LaMalfa,255
+Siskiyou,P3006 - LAKE SHASTINA M,U.S. House,1,Rep,Doug LaMalfa,185
+Siskiyou,P3007 - LAKE SHASTINA E,U.S. House,1,Rep,Doug LaMalfa,373
+Siskiyou,P3009 - MAYTEN,U.S. House,1,Rep,Doug LaMalfa,155
+Siskiyou,P3014 - SISSON,U.S. House,1,Rep,Doug LaMalfa,184
+Siskiyou,P3021 - WEED 3,U.S. House,1,Rep,Doug LaMalfa,115
+Siskiyou,P3111 - WEED 1,U.S. House,1,Rep,Doug LaMalfa,127
+Siskiyou,P3112 - WEED 2,U.S. House,1,Rep,Doug LaMalfa,143
+Siskiyou,P4030 - FOREST MTN,U.S. House,1,Rep,Doug LaMalfa,405
+Siskiyou,P4110 - YREKA 1,U.S. House,1,Rep,Doug LaMalfa,262
+Siskiyou,P4112 - YREKA 2,U.S. House,1,Rep,Doug LaMalfa,271
+Siskiyou,P4115 - YREKA 3,U.S. House,1,Rep,Doug LaMalfa,252
+Siskiyou,P4116 - YREKA 4,U.S. House,1,Rep,Doug LaMalfa,190
+Siskiyou,P4118 - YREKA 5,U.S. House,1,Rep,Doug LaMalfa,260
+Siskiyou,P4121 - YREKA 6,U.S. House,1,Rep,Doug LaMalfa,255
+Siskiyou,P5005 - ETNA 2,U.S. House,1,Rep,Doug LaMalfa,450
+Siskiyou,P5008 - FT JONES 2,U.S. House,1,Rep,Doug LaMalfa,274
+Siskiyou,P5011 - HAPPY CAMP,U.S. House,1,Rep,Doug LaMalfa,189
+Siskiyou,P5050 - GREENVIEW CONS,U.S. House,1,Rep,Doug LaMalfa,380
+Siskiyou,P5103 - ETNA 1,U.S. House,1,Rep,Doug LaMalfa,166
+Siskiyou,P5107 - FT JONES 1,U.S. House,1,Rep,Doug LaMalfa,146
+Siskiyou,SISKIYOU CA,U.S. House,1,Rep,Doug LaMalfa,"9,792"
+Siskiyou,M1001 - BOGUS,State Assembly,1,Dem,Caleen Sisk,42
+Siskiyou,M1007 - DORRIS 2,State Assembly,1,Dem,Caleen Sisk,28
+Siskiyou,M1020 - TULELAKE 2,State Assembly,1,Dem,Caleen Sisk,8
+Siskiyou,M1060 - COPCO CONS,State Assembly,1,Dem,Caleen Sisk,15
+Siskiyou,M1065 - LITTLE SHASTA CONS,State Assembly,1,Dem,Caleen Sisk,37
+Siskiyou,M1070 - PONDOSA CONS,State Assembly,1,Dem,Caleen Sisk,76
+Siskiyou,M1075 - BASIN,State Assembly,1,Dem,Caleen Sisk,6
+Siskiyou,M1080 - MACDOEL CONS,State Assembly,1,Dem,Caleen Sisk,41
+Siskiyou,M1117 - TULELAKE 1,State Assembly,1,Dem,Caleen Sisk,22
+Siskiyou,M2060 - CASTLE,State Assembly,1,Dem,Caleen Sisk,0
+Siskiyou,M2065 - BEAR,State Assembly,1,Dem,Caleen Sisk,23
+Siskiyou,M3013 - WARREN,State Assembly,1,Dem,Caleen Sisk,58
+Siskiyou,M3060 - GAZELLE CONS,State Assembly,1,Dem,Caleen Sisk,37
+Siskiyou,M3065 - BUTTE,State Assembly,1,Dem,Caleen Sisk,5
+Siskiyou,M3070 - EDDY,State Assembly,1,Dem,Caleen Sisk,49
+Siskiyou,M3075 - COUGAR,State Assembly,1,Dem,Caleen Sisk,2
+Siskiyou,M3080 - EAGLE,State Assembly,1,Dem,Caleen Sisk,0
+Siskiyou,M3085 - DUCK,State Assembly,1,Dem,Caleen Sisk,10
+Siskiyou,M4060 - DELPHIC CONS,State Assembly,1,Dem,Caleen Sisk,32
+Siskiyou,M4065 - GREENHORN CONS,State Assembly,1,Dem,Caleen Sisk,22
+Siskiyou,M5060 - HILT CONS,State Assembly,1,Dem,Caleen Sisk,43
+Siskiyou,M5065 - WALKER CONS,State Assembly,1,Dem,Caleen Sisk,64
+Siskiyou,M5070 - GOTTVILLE CONS,State Assembly,1,Dem,Caleen Sisk,22
+Siskiyou,M5075 - HORNBROOK,State Assembly,1,Dem,Caleen Sisk,19
+Siskiyou,M5080 - HENLEY,State Assembly,1,Dem,Caleen Sisk,35
+Siskiyou,M5085 - HUMBUG CONS,State Assembly,1,Dem,Caleen Sisk,56
+Siskiyou,M5090 - CALLAHAN CONS,State Assembly,1,Dem,Caleen Sisk,74
+Siskiyou,M5095 - SEIAD CONS,State Assembly,1,Dem,Caleen Sisk,80
+Siskiyou,P1000 - MCCLOUD CONS,State Assembly,1,Dem,Caleen Sisk,171
+Siskiyou,P1002 - MONTAGUE 2,State Assembly,1,Dem,Caleen Sisk,36
+Siskiyou,P1003 - WILLOW CREEK,State Assembly,1,Dem,Caleen Sisk,89
+Siskiyou,P1026 - BIG SPRINGS,State Assembly,1,Dem,Caleen Sisk,84
+Siskiyou,P1105 - DORRIS 1,State Assembly,1,Dem,Caleen Sisk,51
+Siskiyou,P1110 - MONTAGUE 1,State Assembly,1,Dem,Caleen Sisk,115
+Siskiyou,P2009 - DUNSMUIR 3,State Assembly,1,Dem,Caleen Sisk,87
+Siskiyou,P2014 - MT SHASTA 3,State Assembly,1,Dem,Caleen Sisk,328
+Siskiyou,P2015 - MT SHASTA 5,State Assembly,1,Dem,Caleen Sisk,251
+Siskiyou,P2019 - KINSTREY,State Assembly,1,Dem,Caleen Sisk,319
+Siskiyou,P2100 - DUNSMUIR CITY,State Assembly,1,Dem,Caleen Sisk,380
+Siskiyou,P2110 - MT SHASTA 1,State Assembly,1,Dem,Caleen Sisk,284
+Siskiyou,P2111 - MT SHASTA 2,State Assembly,1,Dem,Caleen Sisk,353
+Siskiyou,P2115 - MT SHASTA 4,State Assembly,1,Dem,Caleen Sisk,319
+Siskiyou,P3001 - EDGEWOOD,State Assembly,1,Dem,Caleen Sisk,110
+Siskiyou,P3004 - GRENADA,State Assembly,1,Dem,Caleen Sisk,80
+Siskiyou,P3006 - LAKE SHASTINA M,State Assembly,1,Dem,Caleen Sisk,164
+Siskiyou,P3007 - LAKE SHASTINA E,State Assembly,1,Dem,Caleen Sisk,266
+Siskiyou,P3009 - MAYTEN,State Assembly,1,Dem,Caleen Sisk,73
+Siskiyou,P3014 - SISSON,State Assembly,1,Dem,Caleen Sisk,218
+Siskiyou,P3021 - WEED 3,State Assembly,1,Dem,Caleen Sisk,161
+Siskiyou,P3111 - WEED 1,State Assembly,1,Dem,Caleen Sisk,185
+Siskiyou,P3112 - WEED 2,State Assembly,1,Dem,Caleen Sisk,207
+Siskiyou,P4030 - FOREST MTN,State Assembly,1,Dem,Caleen Sisk,104
+Siskiyou,P4110 - YREKA 1,State Assembly,1,Dem,Caleen Sisk,177
+Siskiyou,P4112 - YREKA 2,State Assembly,1,Dem,Caleen Sisk,168
+Siskiyou,P4115 - YREKA 3,State Assembly,1,Dem,Caleen Sisk,164
+Siskiyou,P4116 - YREKA 4,State Assembly,1,Dem,Caleen Sisk,107
+Siskiyou,P4118 - YREKA 5,State Assembly,1,Dem,Caleen Sisk,167
+Siskiyou,P4121 - YREKA 6,State Assembly,1,Dem,Caleen Sisk,107
+Siskiyou,P5005 - ETNA 2,State Assembly,1,Dem,Caleen Sisk,164
+Siskiyou,P5008 - FT JONES 2,State Assembly,1,Dem,Caleen Sisk,99
+Siskiyou,P5011 - HAPPY CAMP,State Assembly,1,Dem,Caleen Sisk,138
+Siskiyou,P5050 - GREENVIEW CONS,State Assembly,1,Dem,Caleen Sisk,170
+Siskiyou,P5103 - ETNA 1,State Assembly,1,Dem,Caleen Sisk,93
+Siskiyou,P5107 - FT JONES 1,State Assembly,1,Dem,Caleen Sisk,72
+Siskiyou,SISKIYOU CA,State Assembly,1,Dem,Caleen Sisk,"6,967"
+Siskiyou,M1001 - BOGUS,State Assembly,1,Rep,Brian Dahle,122
+Siskiyou,M1007 - DORRIS 2,State Assembly,1,Rep,Brian Dahle,123
+Siskiyou,M1020 - TULELAKE 2,State Assembly,1,Rep,Brian Dahle,60
+Siskiyou,M1060 - COPCO CONS,State Assembly,1,Rep,Brian Dahle,33
+Siskiyou,M1065 - LITTLE SHASTA CONS,State Assembly,1,Rep,Brian Dahle,150
+Siskiyou,M1070 - PONDOSA CONS,State Assembly,1,Rep,Brian Dahle,82
+Siskiyou,M1075 - BASIN,State Assembly,1,Rep,Brian Dahle,40
+Siskiyou,M1080 - MACDOEL CONS,State Assembly,1,Rep,Brian Dahle,128
+Siskiyou,M1117 - TULELAKE 1,State Assembly,1,Rep,Brian Dahle,106
+Siskiyou,M2060 - CASTLE,State Assembly,1,Rep,Brian Dahle,3
+Siskiyou,M2065 - BEAR,State Assembly,1,Rep,Brian Dahle,22
+Siskiyou,M3013 - WARREN,State Assembly,1,Rep,Brian Dahle,129
+Siskiyou,M3060 - GAZELLE CONS,State Assembly,1,Rep,Brian Dahle,127
+Siskiyou,M3065 - BUTTE,State Assembly,1,Rep,Brian Dahle,1
+Siskiyou,M3070 - EDDY,State Assembly,1,Rep,Brian Dahle,53
+Siskiyou,M3075 - COUGAR,State Assembly,1,Rep,Brian Dahle,3
+Siskiyou,M3080 - EAGLE,State Assembly,1,Rep,Brian Dahle,0
+Siskiyou,M3085 - DUCK,State Assembly,1,Rep,Brian Dahle,24
+Siskiyou,M4060 - DELPHIC CONS,State Assembly,1,Rep,Brian Dahle,114
+Siskiyou,M4065 - GREENHORN CONS,State Assembly,1,Rep,Brian Dahle,131
+Siskiyou,M5060 - HILT CONS,State Assembly,1,Rep,Brian Dahle,95
+Siskiyou,M5065 - WALKER CONS,State Assembly,1,Rep,Brian Dahle,74
+Siskiyou,M5070 - GOTTVILLE CONS,State Assembly,1,Rep,Brian Dahle,46
+Siskiyou,M5075 - HORNBROOK,State Assembly,1,Rep,Brian Dahle,57
+Siskiyou,M5080 - HENLEY,State Assembly,1,Rep,Brian Dahle,85
+Siskiyou,M5085 - HUMBUG CONS,State Assembly,1,Rep,Brian Dahle,142
+Siskiyou,M5090 - CALLAHAN CONS,State Assembly,1,Rep,Brian Dahle,83
+Siskiyou,M5095 - SEIAD CONS,State Assembly,1,Rep,Brian Dahle,81
+Siskiyou,P1000 - MCCLOUD CONS,State Assembly,1,Rep,Brian Dahle,323
+Siskiyou,P1002 - MONTAGUE 2,State Assembly,1,Rep,Brian Dahle,156
+Siskiyou,P1003 - WILLOW CREEK,State Assembly,1,Rep,Brian Dahle,254
+Siskiyou,P1026 - BIG SPRINGS,State Assembly,1,Rep,Brian Dahle,108
+Siskiyou,P1105 - DORRIS 1,State Assembly,1,Rep,Brian Dahle,143
+Siskiyou,P1110 - MONTAGUE 1,State Assembly,1,Rep,Brian Dahle,341
+Siskiyou,P2009 - DUNSMUIR 3,State Assembly,1,Rep,Brian Dahle,81
+Siskiyou,P2014 - MT SHASTA 3,State Assembly,1,Rep,Brian Dahle,281
+Siskiyou,P2015 - MT SHASTA 5,State Assembly,1,Rep,Brian Dahle,158
+Siskiyou,P2019 - KINSTREY,State Assembly,1,Rep,Brian Dahle,371
+Siskiyou,P2100 - DUNSMUIR CITY,State Assembly,1,Rep,Brian Dahle,278
+Siskiyou,P2110 - MT SHASTA 1,State Assembly,1,Rep,Brian Dahle,165
+Siskiyou,P2111 - MT SHASTA 2,State Assembly,1,Rep,Brian Dahle,246
+Siskiyou,P2115 - MT SHASTA 4,State Assembly,1,Rep,Brian Dahle,179
+Siskiyou,P3001 - EDGEWOOD,State Assembly,1,Rep,Brian Dahle,116
+Siskiyou,P3004 - GRENADA,State Assembly,1,Rep,Brian Dahle,284
+Siskiyou,P3006 - LAKE SHASTINA M,State Assembly,1,Rep,Brian Dahle,221
+Siskiyou,P3007 - LAKE SHASTINA E,State Assembly,1,Rep,Brian Dahle,418
+Siskiyou,P3009 - MAYTEN,State Assembly,1,Rep,Brian Dahle,165
+Siskiyou,P3014 - SISSON,State Assembly,1,Rep,Brian Dahle,206
+Siskiyou,P3021 - WEED 3,State Assembly,1,Rep,Brian Dahle,132
+Siskiyou,P3111 - WEED 1,State Assembly,1,Rep,Brian Dahle,149
+Siskiyou,P3112 - WEED 2,State Assembly,1,Rep,Brian Dahle,163
+Siskiyou,P4030 - FOREST MTN,State Assembly,1,Rep,Brian Dahle,442
+Siskiyou,P4110 - YREKA 1,State Assembly,1,Rep,Brian Dahle,294
+Siskiyou,P4112 - YREKA 2,State Assembly,1,Rep,Brian Dahle,322
+Siskiyou,P4115 - YREKA 3,State Assembly,1,Rep,Brian Dahle,282
+Siskiyou,P4116 - YREKA 4,State Assembly,1,Rep,Brian Dahle,221
+Siskiyou,P4118 - YREKA 5,State Assembly,1,Rep,Brian Dahle,304
+Siskiyou,P4121 - YREKA 6,State Assembly,1,Rep,Brian Dahle,291
+Siskiyou,P5005 - ETNA 2,State Assembly,1,Rep,Brian Dahle,519
+Siskiyou,P5008 - FT JONES 2,State Assembly,1,Rep,Brian Dahle,288
+Siskiyou,P5011 - HAPPY CAMP,State Assembly,1,Rep,Brian Dahle,205
+Siskiyou,P5050 - GREENVIEW CONS,State Assembly,1,Rep,Brian Dahle,402
+Siskiyou,P5103 - ETNA 1,State Assembly,1,Rep,Brian Dahle,175
+Siskiyou,P5107 - FT JONES 1,State Assembly,1,Rep,Brian Dahle,174
+Siskiyou,SISKIYOU CA,State Assembly,1,Rep,Brian Dahle,"10,971"
