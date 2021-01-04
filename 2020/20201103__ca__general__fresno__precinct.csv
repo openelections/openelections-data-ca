@@ -3455,20 +3455,20 @@ Fresno,381,President,,,Write-ins,0,0,0
 Fresno,382,President,,,Write-ins,0,0,0
 Fresno,383,President,,,Write-ins,0,0,0
 Fresno,384,President,,,Write-ins,0,0,0
-Fresno,211,U.S. House,4,REP,Tom McClintock,809,720,89
-Fresno,212,U.S. House,4,REP,Tom McClintock,20,17,3
-Fresno,213,U.S. House,4,REP,Tom McClintock,225,211,14
-Fresno,214,U.S. House,4,REP,Tom McClintock,30,26,4
-Fresno,215,U.S. House,4,REP,Tom McClintock,3222,2529,693
-Fresno,216,U.S. House,4,REP,Tom McClintock,1408,1130,278
-Fresno,329,U.S. House,4,REP,Tom McClintock,819,654,165
-Fresno,211,U.S. House,4,DEM,Brynne Kennedy,271,247,24
-Fresno,212,U.S. House,4,DEM,Brynne Kennedy,5,5,0
-Fresno,213,U.S. House,4,DEM,Brynne Kennedy,35,32,3
-Fresno,214,U.S. House,4,DEM,Brynne Kennedy,6,6,0
-Fresno,215,U.S. House,4,DEM,Brynne Kennedy,991,919,72
-Fresno,216,U.S. House,4,DEM,Brynne Kennedy,486,435,51
-Fresno,329,U.S. House,4,DEM,Brynne Kennedy,254,236,18
+Fresno,211,U.S. House,04,REP,Tom McClintock,809,720,89
+Fresno,212,U.S. House,04,REP,Tom McClintock,20,17,3
+Fresno,213,U.S. House,04,REP,Tom McClintock,225,211,14
+Fresno,214,U.S. House,04,REP,Tom McClintock,30,26,4
+Fresno,215,U.S. House,04,REP,Tom McClintock,3222,2529,693
+Fresno,216,U.S. House,04,REP,Tom McClintock,1408,1130,278
+Fresno,329,U.S. House,04,REP,Tom McClintock,819,654,165
+Fresno,211,U.S. House,04,DEM,Brynne Kennedy,271,247,24
+Fresno,212,U.S. House,04,DEM,Brynne Kennedy,5,5,0
+Fresno,213,U.S. House,04,DEM,Brynne Kennedy,35,32,3
+Fresno,214,U.S. House,04,DEM,Brynne Kennedy,6,6,0
+Fresno,215,U.S. House,04,DEM,Brynne Kennedy,991,919,72
+Fresno,216,U.S. House,04,DEM,Brynne Kennedy,486,435,51
+Fresno,329,U.S. House,04,DEM,Brynne Kennedy,254,236,18
 Fresno,1,U.S. House,16,REP,Kevin Cookingham,69,53,16
 Fresno,2,U.S. House,16,REP,Kevin Cookingham,18,13,5
 Fresno,3,U.S. House,16,REP,Kevin Cookingham,232,184,48
@@ -4360,6 +4360,17 @@ Fresno,215,State Assembly,23,REP,Jim Patterson,3463,2792,671
 Fresno,216,State Assembly,23,REP,Jim Patterson,1497,1220,277
 Fresno,217,State Assembly,23,REP,Jim Patterson,10,10,0
 Fresno,218,State Assembly,23,REP,Jim Patterson,68,65,3
+Fresno,296,State Assembly,23,REP,Jim Patterson (REP),98,92,6
+Fresno,297,State Assembly,23,REP,Jim Patterson (REP),19,17,2
+Fresno,298,State Assembly,23,REP,Jim Patterson (REP),90,79,11
+Fresno,299,State Assembly,23,REP,Jim Patterson (REP),40,34,6
+Fresno,300,State Assembly,23,REP,Jim Patterson (REP),7,7,0
+Fresno,301,State Assembly,23,REP,Jim Patterson (REP),0,0,0
+Fresno,307,State Assembly,23,REP,Jim Patterson (REP),40,33,7
+Fresno,308,State Assembly,23,REP,Jim Patterson (REP),9,9,0
+Fresno,309,State Assembly,23,REP,Jim Patterson (REP),40,40,0
+Fresno,329,State Assembly,23,REP,Jim Patterson (REP),847,689,158
+Fresno,331,State Assembly,23,REP,Jim Patterson (REP),291,224,67
 Fresno,1,State Assembly,31,REP,Fernando Banuelos,77,59,18
 Fresno,2,State Assembly,31,REP,Fernando Banuelos,22,17,5
 Fresno,3,State Assembly,31,REP,Fernando Banuelos,249,193,56
