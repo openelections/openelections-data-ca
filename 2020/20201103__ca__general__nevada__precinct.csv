@@ -1,0 +1,2329 @@
+county,precinct,office,district,party,candidate,absentee,early_voting,election_day,provisional,votes
+Nevada,CP01,President,,DEM,Joe Biden,89,2,0,1,92
+Nevada,CP01,President,,REP,Donald Trump,40,2,2,1,45
+Nevada,CP01,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP01,President,,,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP01,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP01,President,,LIB,Jo Jorgensen,0,0,0,0,0
+Nevada,CP01,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP01,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP01,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP01,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP01,President,,,under,4,0,1,0,5
+Nevada,CP01,President,,,over,0,0,0,0,0
+Nevada,CP01,U.S. House,1,REP,DOUG LAMALFA,41,2,2,1,46
+Nevada,CP01,U.S. House,1,DEM,AUDREY DENNEY,91,2,1,1,95
+Nevada,CP01,U.S. House,1,,under,1,0,0,0,1
+Nevada,CP01,U.S. House,1,,over,0,0,0,0,0
+Nevada,CP01,State Senate,1,DEM,PAMELA DAWN SWARTZ,78,2,0,1,81
+Nevada,CP01,State Senate,1,REP,BRIAN DAHLE,52,2,2,1,57
+Nevada,CP01,State Senate,1,,under,3,0,1,0,4
+Nevada,CP01,State Senate,1,,over,0,0,0,0,0
+Nevada,CP01,State Assembly,1,DEM,ELIZABETH L BETANCOURT,87,2,0,1,90
+Nevada,CP01,State Assembly,1,REP,MEGAN DAHLE,43,2,2,1,48
+Nevada,CP01,State Assembly,1,,under,3,0,1,0,4
+Nevada,CP01,State Assembly,1,,over,0,0,0,0,0
+Nevada,CP02,President,,DEM,Joe Biden,387,6,2,3,398
+Nevada,CP02,President,,REP,Donald Trump,236,9,11,0,256
+Nevada,CP02,President,,PFP,Gloria laRiva,1,0,0,0,1
+Nevada,CP02,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP02,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP02,President,,LIB,Jo Jorgensen,5,0,1,0,6
+Nevada,CP02,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP02,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP02,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP02,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP02,President,,,under,13,0,1,0,14
+Nevada,CP02,President,,,over,0,0,0,0,0
+Nevada,CP02,U.S. House,1,REP,DOUG LAMALFA,255,9,10,0,274
+Nevada,CP02,U.S. House,1,DEM,AUDREY DENNEY,376,6,3,3,388
+Nevada,CP02,U.S. House,1,,under,11,0,2,0,13
+Nevada,CP02,U.S. House,1,,over,0,0,0,0,0
+Nevada,CP02,State Senate,1,DEM,PAMELA DAWN SWARTZ,344,5,3,3,355
+Nevada,CP02,State Senate,1,REP,BRIAN DAHLE,279,10,10,0,299
+Nevada,CP02,State Senate,1,,under,19,0,2,0,21
+Nevada,CP02,State Senate,1,,over,0,0,0,0,0
+Nevada,CP02,State Assembly,1,DEM,ELIZABETH L BETANCOURT,354,6,4,3,367
+Nevada,CP02,State Assembly,1,REP,MEGAN DAHLE,267,9,10,0,286
+Nevada,CP02,State Assembly,1,,under,21,0,1,0,22
+Nevada,CP02,State Assembly,1,,over,0,0,0,0,0
+Nevada,CP03,President,,DEM,Joe Biden,"1,604",56,48,17,"1,725"
+Nevada,CP03,President,,REP,Donald Trump,929,71,76,19,"1,095"
+Nevada,CP03,President,,PFP,Gloria laRiva,10,0,0,0,10
+Nevada,CP03,President,,AIP,Rocky de la Fuente Guerra,9,1,1,1,12
+Nevada,CP03,President,,GRN,Howie Hawkins,17,1,0,3,21
+Nevada,CP03,President,,LIB,Jo Jorgensen,28,1,5,1,35
+Nevada,CP03,President,,WRI,Brian Carroll (W),1,0,0,0,1
+Nevada,CP03,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP03,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP03,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP03,President,,,under,42,2,2,0,46
+Nevada,CP03,President,,,over,1,0,1,0,2
+Nevada,CP03,U.S. House,1,REP,DOUG LAMALFA,909,72,73,17,"1,071"
+Nevada,CP03,U.S. House,1,DEM,AUDREY DENNEY,"1,675",58,56,23,"1,812"
+Nevada,CP03,U.S. House,1,,under,57,2,4,1,64
+Nevada,CP03,U.S. House,1,,over,0,0,0,0,0
+Nevada,CP03,State Senate,1,DEM,PAMELA DAWN SWARTZ,"1,549",56,53,21,"1,679"
+Nevada,CP03,State Senate,1,REP,BRIAN DAHLE,"1,011",73,74,18,"1,176"
+Nevada,CP03,State Senate,1,,under,81,3,6,2,92
+Nevada,CP03,State Senate,1,,over,0,0,0,0,0
+Nevada,CP03,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,566",57,57,19,"1,699"
+Nevada,CP03,State Assembly,1,REP,MEGAN DAHLE,984,70,71,17,"1,142"
+Nevada,CP03,State Assembly,1,,under,91,4,5,5,105
+Nevada,CP03,State Assembly,1,,over,0,1,0,0,1
+Nevada,CP04,President,,DEM,Joe Biden,16,1,0,0,17
+Nevada,CP04,President,,REP,Donald Trump,11,3,0,0,14
+Nevada,CP04,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP04,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP04,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP04,President,,LIB,Jo Jorgensen,1,0,0,1,2
+Nevada,CP04,President,,,Brian Carroll (W),0,0,0,0,0
+Nevada,CP04,President,,,Brock Pierce (W),0,0,0,0,0
+Nevada,CP04,President,,,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP04,President,,,Mark Charles (W),0,0,0,0,0
+Nevada,CP04,President,,,under,0,0,0,0,0
+Nevada,CP04,President,,,over,0,0,0,0,0
+Nevada,CP04,U.S. House,1,REP,DOUG LAMALFA,12,3,0,1,16
+Nevada,CP04,U.S. House,1,DEM,AUDREY DENNEY,16,1,0,0,17
+Nevada,CP04,U.S. House,1,,under,0,0,0,0,0
+Nevada,CP04,U.S. House,1,,over,0,0,0,0,0
+Nevada,CP04,State Senate,1,DEM,PAMELA DAWN SWARTZ,15,2,0,0,17
+Nevada,CP04,State Senate,1,REP,BRIAN DAHLE,13,2,0,1,16
+Nevada,CP04,State Senate,1,,under,0,0,0,0,0
+Nevada,CP04,State Senate,1,,over,0,0,0,0,0
+Nevada,CP04,State Assembly,1,DEM,ELIZABETH L BETANCOURT,16,1,0,1,18
+Nevada,CP04,State Assembly,1,REP,MEGAN DAHLE,12,3,0,0,15
+Nevada,CP04,State Assembly,1,,under,0,0,0,0,0
+Nevada,CP04,State Assembly,1,,over,0,0,0,0,0
+Nevada,CP05,President,,DEM,Joe Biden,1,1,1,0,3
+Nevada,CP05,President,,REP,Donald Trump,3,0,0,0,3
+Nevada,CP05,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP05,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP05,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP05,President,,LIB,Jo Jorgensen,0,0,0,0,0
+Nevada,CP05,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP05,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP05,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP05,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP05,President,,,under,0,0,0,0,0
+Nevada,CP05,President,,,over,0,0,0,0,0
+Nevada,CP05,U.S. House,1,REP,DOUG LAMALFA,3,0,0,0,3
+Nevada,CP05,U.S. House,1,DEM,AUDREY DENNEY,1,1,1,0,3
+Nevada,CP05,U.S. House,1,,under,0,0,0,0,0
+Nevada,CP05,U.S. House,1,,over,0,0,0,0,0
+Nevada,CP05,State Senate,1,DEM,PAMELA DAWN SWARTZ,2,1,0,0,3
+Nevada,CP05,State Senate,1,REP,BRIAN DAHLE,2,0,1,0,3
+Nevada,CP05,State Senate,1,,under,0,0,0,0,0
+Nevada,CP05,State Senate,1,,over,0,0,0,0,0
+Nevada,CP05,State Assembly,1,DEM,ELIZABETH L BETANCOURT,1,1,0,0,2
+Nevada,CP05,State Assembly,1,REP,MEGAN DAHLE,3,0,1,0,4
+Nevada,CP05,State Assembly,1,,under,0,0,0,0,0
+Nevada,CP05,State Assembly,1,,over,0,0,0,0,0
+Nevada,CP06,President,,DEM,Joe Biden,502,20,15,3,540
+Nevada,CP06,President,,REP,Donald Trump,323,46,35,9,413
+Nevada,CP06,President,,PFP,Gloria laRiva,3,0,0,1,4
+Nevada,CP06,President,,AIP,Rocky de la Fuente Guerra,3,0,2,1,6
+Nevada,CP06,President,,GRN,Howie Hawkins,5,0,0,0,5
+Nevada,CP06,President,,LIB,Jo Jorgensen,8,1,0,1,10
+Nevada,CP06,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP06,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP06,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP06,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP06,President,,,Undervotes:,10,1,0,0,11
+Nevada,CP06,President,,,Overvotes:,4,0,0,0,4
+Nevada,CP06,U.S. House,1,REP,DOUG LAMALFA,304,38,30,9,381
+Nevada,CP06,U.S. House,1,DEM,AUDREY DENNEY,522,24,20,4,570
+Nevada,CP06,U.S. House,1,,Undervotes:,32,5,2,2,41
+Nevada,CP06,U.S. House,1,,Overvotes:,0,1,0,0,1
+Nevada,CP06,State Senate,1,DEM,PAMELA DAWN SWARTZ,496,20,22,6,544
+Nevada,CP06,State Senate,1,REP,BRIAN DAHLE,327,42,28,7,404
+Nevada,CP06,State Senate,1,,Undervotes:,35,6,1,2,44
+Nevada,CP06,State Senate,1,,Overvotes:,0,0,1,0,1
+Nevada,CP06,State Assembly,1,DEM,ELIZABETH L BETANCOURT,503,21,19,6,549
+Nevada,CP06,State Assembly,1,REP,MEGAN DAHLE,322,40,31,7,400
+Nevada,CP06,State Assembly,1,,Undervotes:,32,7,2,2,43
+Nevada,CP06,State Assembly,1,,Overvotes:,1,0,0,0,1
+Nevada,CP07,President,,DEM,Joe Biden,842,27,16,4,889
+Nevada,CP07,President,,REP,Donald Trump,252,17,17,3,289
+Nevada,CP07,President,,PFP,Gloria laRiva,4,1,0,0,5
+Nevada,CP07,President,,AIP,Rocky de la Fuente Guerra,6,0,0,0,6
+Nevada,CP07,President,,GRN,Howie Hawkins,5,0,0,0,5
+Nevada,CP07,President,,LIB,Jo Jorgensen,14,0,2,0,16
+Nevada,CP07,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP07,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP07,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP07,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP07,President,,,Undervotes:,19,0,0,0,19
+Nevada,CP07,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP07,U.S. House,1,REP,DOUG LAMALFA,257,15,14,3,289
+Nevada,CP07,U.S. House,1,DEM,AUDREY DENNEY,875,29,20,4,928
+Nevada,CP07,U.S. House,1,,Undervotes:,10,1,1,0,12
+Nevada,CP07,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP07,State Senate,1,DEM,PAMELA DAWN SWARTZ,823,26,17,4,870
+Nevada,CP07,State Senate,1,REP,BRIAN DAHLE,299,16,15,3,333
+Nevada,CP07,State Senate,1,,Undervotes:,20,3,3,0,26
+Nevada,CP07,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP07,State Assembly,1,DEM,ELIZABETH L BETANCOURT,841,27,16,4,888
+Nevada,CP07,State Assembly,1,REP,MEGAN DAHLE,280,15,17,3,315
+Nevada,CP07,State Assembly,1,,Undervotes:,21,3,2,0,26
+Nevada,CP07,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP08,President,,DEM,Joe Biden,735,14,8,6,763
+Nevada,CP08,President,,REP,Donald Trump,138,17,12,2,169
+Nevada,CP08,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP08,President,,AIP,Rocky de la Fuente Guerra,3,0,1,0,4
+Nevada,CP08,President,,GRN,Howie Hawkins,14,0,4,0,18
+Nevada,CP08,President,,LIB,Jo Jorgensen,9,0,0,0,9
+Nevada,CP08,President,,WRI,Brian Carroll (W),2,0,0,0,2
+Nevada,CP08,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP08,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP08,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP08,President,,,Undervotes:,12,0,0,0,12
+Nevada,CP08,President,,,Overvotes:,2,0,0,0,2
+Nevada,CP08,U.S. House,1,REP,DOUG LAMALFA,142,13,10,2,167
+Nevada,CP08,U.S. House,1,DEM,AUDREY DENNEY,760,16,14,5,795
+Nevada,CP08,U.S. House,1,,Undervotes:,13,2,1,1,17
+Nevada,CP08,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP08,State Senate,1,DEM,PAMELA DAWN SWARTZ,731,14,11,5,761
+Nevada,CP08,State Senate,1,REP,BRIAN DAHLE,163,15,11,2,191
+Nevada,CP08,State Senate,1,,Undervotes:,21,2,3,1,27
+Nevada,CP08,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP08,State Assembly,1,DEM,ELIZABETH L BETANCOURT,738,14,9,5,766
+Nevada,CP08,State Assembly,1,REP,MEGAN DAHLE,157,15,13,1,186
+Nevada,CP08,State Assembly,1,,Undervotes:,20,2,3,2,27
+Nevada,CP08,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP09,President,,DEM,Joe Biden,"1,689",108,62,45,"1,904"
+Nevada,CP09,President,,REP,Donald Trump,380,53,38,16,487
+Nevada,CP09,President,,PFP,Gloria laRiva,1,0,0,0,1
+Nevada,CP09,President,,AIP,Rocky de la Fuente Guerra,5,0,0,1,6
+Nevada,CP09,President,,GRN,Howie Hawkins,16,1,3,0,20
+Nevada,CP09,President,,LIB,Jo Jorgensen,25,0,5,3,33
+Nevada,CP09,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP09,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP09,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP09,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP09,President,,,Undervotes:,33,0,1,0,34
+Nevada,CP09,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP09,U.S. House,4,REP,TOM MCCLINTOCK,433,55,40,18,546
+Nevada,CP09,U.S. House,4,DEM,BRYNNE S. KENNEDY,"1,685",106,65,43,"1,899"
+Nevada,CP09,U.S. House,4,,Undervotes:,31,1,4,4,40
+Nevada,CP09,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP09,State Senate,1,DEM,PAMELA DAWN SWARTZ,"1,518",102,59,40,"1,719"
+Nevada,CP09,State Senate,1,REP,BRIAN DAHLE,569,57,44,22,692
+Nevada,CP09,State Senate,1,,Undervotes:,62,3,6,3,74
+Nevada,CP09,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP09,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,610",104,60,44,"1,818"
+Nevada,CP09,State Assembly,1,REP,MEGAN DAHLE,482,54,40,17,593
+Nevada,CP09,State Assembly,1,,Undervotes:,57,4,9,4,74
+Nevada,CP09,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP10,President,,DEM,Joe Biden,"1,345",80,65,44,"1,534"
+Nevada,CP10,President,,REP,Donald Trump,395,38,34,12,479
+Nevada,CP10,President,,PFP,Gloria laRiva,3,1,0,1,5
+Nevada,CP10,President,,AIP,Rocky de la Fuente Guerra,7,0,3,0,10
+Nevada,CP10,President,,GRN,Howie Hawkins,8,0,3,1,12
+Nevada,CP10,President,,LIB,Jo Jorgensen,25,1,1,0,27
+Nevada,CP10,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP10,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP10,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP10,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP10,President,,,Undervotes:,,,,,
+Nevada,CP10,President,,,Overvotes:,,,,,
+Nevada,CP10,U.S. House,4,REP,TOM MCCLINTOCK,431,42,41,13,527
+Nevada,CP10,U.S. House,4,DEM,BRYNNE S. KENNEDY,"1,346",79,63,44,"1,532"
+Nevada,CP10,U.S. House,4,,Undervotes:,30,1,4,2,37
+Nevada,CP10,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP10,State Senate,1,DEM,PAMELA DAWN SWARTZ,"1,217",80,61,43,"1,401"
+Nevada,CP10,State Senate,1,REP,BRIAN DAHLE,536,40,42,14,632
+Nevada,CP10,State Senate,1,,Undervotes:,54,2,5,2,63
+Nevada,CP10,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP10,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,277",77,62,44,"1,460"
+Nevada,CP10,State Assembly,1,REP,MEGAN DAHLE,474,44,40,12,570
+Nevada,CP10,State Assembly,1,,Undervotes:,56,1,6,3,66
+Nevada,CP10,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP11,President,,DEM,Joe Biden,"1,740",70,65,41,"1,916"
+Nevada,CP11,President,,REP,Donald Trump,472,46,42,13,573
+Nevada,CP11,President,,PFP,Gloria laRiva,9,0,0,0,9
+Nevada,CP11,President,,AIP,Rocky de la Fuente Guerra,8,0,1,0,9
+Nevada,CP11,President,,GRN,Howie Hawkins,13,1,0,0,14
+Nevada,CP11,President,,LIB,Jo Jorgensen,21,2,2,2,27
+Nevada,CP11,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP11,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP11,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP11,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP11,President,,,Undervotes:,28,2,2,0,32
+Nevada,CP11,President,,,Overvotes:,2,0,0,0,2
+Nevada,CP11,U.S. House,4,REP,TOM MCCLINTOCK,523,48,48,16,635
+Nevada,CP11,U.S. House,4,DEM,BRYNNE S. KENNEDY,"1,732",70,57,36,"1,895"
+Nevada,CP11,U.S. House,4,,Undervotes:,38,3,7,4,52
+Nevada,CP11,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP11,State Senate,1,DEM,PAMELA DAWN SWARTZ,"1,548",64,59,34,"1,705"
+Nevada,CP11,State Senate,1,REP,BRIAN DAHLE,677,54,48,19,798
+Nevada,CP11,State Senate,1,,Undervotes:,68,3,5,3,79
+Nevada,CP11,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP11,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,651",63,64,35,"1,813"
+Nevada,CP11,State Assembly,1,REP,MEGAN DAHLE,566,54,42,19,681
+Nevada,CP11,State Assembly,1,,Undervotes:,76,4,6,2,88
+Nevada,CP11,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP12,President,,DEM,Joe Biden,"1,363",49,40,15,"1,467"
+Nevada,CP12,President,,REP,Donald Trump,365,26,31,7,429
+Nevada,CP12,President,,PFP,Gloria laRiva,3,0,0,0,3
+Nevada,CP12,President,,AIP,Rocky de la Fuente Guerra,3,0,0,0,3
+Nevada,CP12,President,,GRN,Howie Hawkins,11,1,0,0,12
+Nevada,CP12,President,,LIB,Jo Jorgensen,26,3,1,0,30
+Nevada,CP12,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP12,President,,WRI,Brock Pierce (W),1,0,0,0,1
+Nevada,CP12,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP12,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP12,President,,,Undervotes:,19,0,0,0,19
+Nevada,CP12,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP12,U.S. House,4,REP,TOM MCCLINTOCK,415,26,32,6,479
+Nevada,CP12,U.S. House,4,DEM,BRYNNE S. KENNEDY,"1,340",50,38,15,"1,443"
+Nevada,CP12,U.S. House,4,,Undervotes:,36,3,2,1,42
+Nevada,CP12,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP12,State Senate,1,DEM,PAMELA DAWN SWARTZ,"1,202",45,33,15,"1,295"
+Nevada,CP12,State Senate,1,REP,BRIAN DAHLE,522,32,36,6,596
+Nevada,CP12,State Senate,1,,Undervotes:,67,2,3,1,73
+Nevada,CP12,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP12,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,282",48,39,15,"1,384"
+Nevada,CP12,State Assembly,1,REP,MEGAN DAHLE,456,29,30,5,520
+Nevada,CP12,State Assembly,1,,Undervotes:,53,2,3,2,60
+Nevada,CP12,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP13,President,,DEM,Joe Biden,568,26,18,10,622
+Nevada,CP13,President,,REP,Donald Trump,185,22,18,5,230
+Nevada,CP13,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP13,President,,AIP,Rocky de la Fuente Guerra,5,0,0,0,5
+Nevada,CP13,President,,GRN,Howie Hawkins,1,0,0,0,1
+Nevada,CP13,President,,LIB,Jo Jorgensen,12,0,2,0,14
+Nevada,CP13,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP13,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP13,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP13,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP13,President,,,Undervotes:,10,0,2,0,12
+Nevada,CP13,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP13,U.S. House,4,REP,TOM MCCLINTOCK,198,23,16,4,241
+Nevada,CP13,U.S. House,4,DEM,BRYNNE S. KENNEDY,571,24,21,8,624
+Nevada,CP13,U.S. House,4,,Undervotes:,12,1,3,3,19
+Nevada,CP13,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP13,State Senate,1,DEM,PAMELA DAWN SWARTZ,511,24,19,7,561
+Nevada,CP13,State Senate,1,REP,BRIAN DAHLE,253,23,18,5,299
+Nevada,CP13,State Senate,1,,Undervotes:,17,1,3,3,24
+Nevada,CP13,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP13,State Assembly,1,DEM,ELIZABETH L BETANCOURT,546,23,20,8,597
+Nevada,CP13,State Assembly,1,REP,MEGAN DAHLE,213,24,17,5,259
+Nevada,CP13,State Assembly,1,,Undervotes:,22,1,3,2,28
+Nevada,CP13,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP14,President,,DEM,Joe Biden,266,7,8,3,284
+Nevada,CP14,President,,REP,Donald Trump,235,17,18,2,272
+Nevada,CP14,President,,PFP,Gloria laRiva,3,0,1,0,4
+Nevada,CP14,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP14,President,,GRN,Howie Hawkins,4,0,0,0,4
+Nevada,CP14,President,,LIB,Jo Jorgensen,4,0,0,0,4
+Nevada,CP14,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP14,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP14,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP14,President,,WRI,Mark Charles (W),0,1,0,0,1
+Nevada,CP14,President,,,Undervotes:,4,0,1,0,5
+Nevada,CP14,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP14,U.S. House,1,REP,DOUG LAMALFA,226,17,21,3,267
+Nevada,CP14,U.S. House,1,DEM,AUDREY DENNEY,277,8,7,1,293
+Nevada,CP14,U.S. House,1,,Undervotes:,14,0,0,1,15
+Nevada,CP14,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP14,State Senate,1,DEM,PAMELA DAWN SWARTZ,253,8,9,2,272
+Nevada,CP14,State Senate,1,REP,BRIAN DAHLE,248,17,19,2,286
+Nevada,CP14,State Senate,1,,Undervotes:,16,0,0,1,17
+Nevada,CP14,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP14,State Assembly,1,DEM,ELIZABETH L BETANCOURT,265,10,9,1,285
+Nevada,CP14,State Assembly,1,REP,MEGAN DAHLE,235,15,19,2,271
+Nevada,CP14,State Assembly,1,,Undervotes:,17,0,0,2,19
+Nevada,CP14,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP15,President,,DEM,Joe Biden,854,28,26,11,919
+Nevada,CP15,President,,REP,Donald Trump,482,50,38,21,591
+Nevada,CP15,President,,PFP,Gloria laRiva,4,0,1,1,6
+Nevada,CP15,President,,AIP,Rocky de la Fuente Guerra,1,0,1,0,2
+Nevada,CP15,President,,GRN,Howie Hawkins,13,0,0,0,13
+Nevada,CP15,President,,LIB,Jo Jorgensen,24,2,3,2,31
+Nevada,CP15,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP15,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP15,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP15,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP15,President,,,Undervotes:,14,1,0,0,15
+Nevada,CP15,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP15,U.S. House,1,REP,DOUG LAMALFA,481,49,36,20,586
+Nevada,CP15,U.S. House,1,DEM,AUDREY DENNEY,888,32,32,13,965
+Nevada,CP15,U.S. House,1,,Undervotes:,23,0,1,2,26
+Nevada,CP15,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP15,State Senate,1,DEM,PAMELA DAWN SWARTZ,830,32,30,13,905
+Nevada,CP15,State Senate,1,REP,BRIAN DAHLE,528,49,38,17,632
+Nevada,CP15,State Senate,1,,Undervotes:,34,0,1,5,40
+Nevada,CP15,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP15,State Assembly,1,DEM,ELIZABETH L BETANCOURT,848,32,29,14,923
+Nevada,CP15,State Assembly,1,REP,MEGAN DAHLE,508,49,37,18,612
+Nevada,CP15,State Assembly,1,,Undervotes:,36,0,3,3,42
+Nevada,CP15,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP16,President,,DEM,Joe Biden,3,0,0,0,3
+Nevada,CP16,President,,REP,Donald Trump,1,2,0,0,3
+Nevada,CP16,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP16,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP16,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP16,President,,LIB,Jo Jorgensen,0,0,0,0,0
+Nevada,CP16,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP16,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP16,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP16,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP16,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP16,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP16,U.S. House,1,REP,DOUG LAMALFA,1,2,0,0,3
+Nevada,CP16,U.S. House,1,DEM,AUDREY DENNEY,3,0,0,0,3
+Nevada,CP16,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP16,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP16,State Senate,1,DEM,PAMELA DAWN SWARTZ,3,0,0,0,3
+Nevada,CP16,State Senate,1,REP,BRIAN DAHLE,1,2,0,0,3
+Nevada,CP16,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP16,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP16,State Assembly,1,DEM,ELIZABETH L BETANCOURT,2,0,0,0,2
+Nevada,CP16,State Assembly,1,REP,MEGAN DAHLE,2,2,0,0,4
+Nevada,CP16,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP16,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP17,President,,DEM,JOE BIDEN,73,0,1,0,74
+Nevada,CP17,President,,REP,Donald Trump,65,5,1,1,72
+Nevada,CP17,President,,PFP,Gloria laRiva,1,0,0,0,1
+Nevada,CP17,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP17,President,,GRN,Howie Hawkins,1,0,0,0,1
+Nevada,CP17,President,,LIB,Jo Jorgensen,5,0,1,0,6
+Nevada,CP17,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP17,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP17,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP17,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP17,President,,,Undervotes:,4,0,0,0,4
+Nevada,CP17,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP17,U.S. House,1,REP,DOUG LAMALFA,62,5,2,1,70
+Nevada,CP17,U.S. House,1,DEM,AUDREY DENNEY,82,0,1,0,83
+Nevada,CP17,U.S. House,1,,Undervotes:,5,0,0,0,5
+Nevada,CP17,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP17,State Senate,1,DEM,PAMELA DAWN SWARTZ,73,0,1,0,74
+Nevada,CP17,State Senate,1,REP,BRIAN DAHLE,70,5,2,1,78
+Nevada,CP17,State Senate,1,,Undervotes:,6,0,0,0,6
+Nevada,CP17,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP17,State Assembly,1,DEM,ELIZABETH L BETANCOURT,74,0,1,0,75
+Nevada,CP17,State Assembly,1,REP,MEGAN DAHLE,67,5,2,1,75
+Nevada,CP17,State Assembly,1,,Undervotes:,8,0,0,0,8
+Nevada,CP17,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP18,President,,DEM,Joe Biden,769,17,18,7,811
+Nevada,CP18,President,,REP,Donald Trump,889,106,74,15,"1,084"
+Nevada,CP18,President,,PFP,Gloria laRiva,5,0,0,0,5
+Nevada,CP18,President,,AIP,Rocky de la Fuente Guerra,6,0,0,0,6
+Nevada,CP18,President,,GRN,Howie Hawkins,2,1,0,0,3
+Nevada,CP18,President,,LIB,Jo Jorgensen,29,2,0,0,31
+Nevada,CP18,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP18,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP18,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP18,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP18,President,,,Undervotes:,33,0,0,0,33
+Nevada,CP18,President,,,Overvotes:,1,0,0,1,2
+Nevada,CP18,U.S. House,1,REP,DOUG LAMALFA,960,106,74,13,"1,153"
+Nevada,CP18,U.S. House,1,DEM,AUDREY DENNEY,730,19,15,7,771
+Nevada,CP18,U.S. House,1,,Undervotes:,44,1,3,3,51
+Nevada,CP18,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP18,State Senate,1,DEM,PAMELA DAWN SWARTZ,648,16,15,7,686
+Nevada,CP18,State Senate,1,REP,BRIAN DAHLE,"1,022",109,74,13,"1,218"
+Nevada,CP18,State Senate,1,,Undervotes:,64,1,3,3,71
+Nevada,CP18,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP18,State Assembly,1,DEM,ELIZABETH L BETANCOURT,705,17,17,5,744
+Nevada,CP18,State Assembly,1,REP,MEGAN DAHLE,969,105,72,15,"1,161"
+Nevada,CP18,State Assembly,1,,Undervotes:,60,4,3,3,70
+Nevada,CP18,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP19,President,,DEM,Joe Biden,925,31,22,4,982
+Nevada,CP19,President,,REP,Donald Trump,"1,208",103,121,13,"1,445"
+Nevada,CP19,President,,PFP,Gloria laRiva,4,0,1,0,5
+Nevada,CP19,President,,AIP,Rocky de la Fuente Guerra,10,0,0,0,10
+Nevada,CP19,President,,GRN,Howie Hawkins,10,0,0,1,11
+Nevada,CP19,President,,LIB,Jo Jorgensen,28,1,2,1,32
+Nevada,CP19,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP19,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP19,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP19,President,,WRI,Mark Charles (W),1,0,0,0,1
+Nevada,CP19,President,,,Undervotes:,40,0,3,0,43
+Nevada,CP19,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP19,U.S. House,1,REP,DOUG LAMALFA,"1,263",103,120,12,"1,498"
+Nevada,CP19,U.S. House,1,DEM,AUDREY DENNEY,924,32,24,5,985
+Nevada,CP19,U.S. House,1,,Undervotes:,39,0,5,2,46
+Nevada,CP19,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP19,State Senate,1,DEM,PAMELA DAWN SWARTZ,844,30,22,3,899
+Nevada,CP19,State Senate,1,REP,BRIAN DAHLE,"1,322",105,121,13,"1,561"
+Nevada,CP19,State Senate,1,,Undervotes:,60,0,6,3,69
+Nevada,CP19,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP19,State Assembly,1,DEM,ELIZABETH L BETANCOURT,874,35,24,3,936
+Nevada,CP19,State Assembly,1,REP,MEGAN DAHLE,"1,291",100,118,13,"1,522"
+Nevada,CP19,State Assembly,1,,Undervotes:,61,0,7,3,71
+Nevada,CP19,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP20,President,,DEM,Joe Biden,602,16,13,8,639
+Nevada,CP20,President,,REP,Donald Trump,779,75,87,12,953
+Nevada,CP20,President,,PFP,Gloria laRiva,7,0,0,0,7
+Nevada,CP20,President,,AIP,Rocky de la Fuente Guerra,5,0,0,0,5
+Nevada,CP20,President,,GRN,Howie Hawkins,6,0,1,0,7
+Nevada,CP20,President,,LIB,Jo Jorgensen,18,0,1,0,19
+Nevada,CP20,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP20,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP20,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP20,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP20,President,,,Undervotes:,22,0,2,0,24
+Nevada,CP20,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP20,U.S. House,1,REP,DOUG LAMALFA,786,73,82,10,951
+Nevada,CP20,U.S. House,1,DEM,AUDREY DENNEY,620,15,19,10,664
+Nevada,CP20,U.S. House,1,,Undervotes:,32,3,3,0,38
+Nevada,CP20,U.S. House,1,,Overvotes:,1,0,0,0,1
+Nevada,CP20,State Senate,1,DEM,PAMELA DAWN SWARTZ,568,14,13,9,604
+Nevada,CP20,State Senate,1,REP,BRIAN DAHLE,833,74,88,11,"1,006"
+Nevada,CP20,State Senate,1,,Undervotes:,37,3,3,0,43
+Nevada,CP20,State Senate,1,,Overvotes:,1,0,0,0,1
+Nevada,CP20,State Assembly,1,DEM,ELIZABETH L BETANCOURT,594,14,16,8,632
+Nevada,CP20,State Assembly,1,REP,MEGAN DAHLE,810,73,85,12,980
+Nevada,CP20,State Assembly,1,,Undervotes:,34,4,3,0,41
+Nevada,CP20,State Assembly,1,,Overvotes:,1,0,0,0,1
+Nevada,CP21,President,,DEM,Joe Biden,50,4,0,0,54
+Nevada,CP21,President,,REP,Donald Trump,70,10,3,1,84
+Nevada,CP21,President,,PFP,Gloria laRiva,2,0,0,0,2
+Nevada,CP21,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP21,President,,GRN,Howie Hawkins,1,0,0,0,1
+Nevada,CP21,President,,LIB,Jo Jorgensen,3,0,0,0,3
+Nevada,CP21,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP21,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP21,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP21,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP21,President,,,Undervotes:,4,0,0,0,4
+Nevada,CP21,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP21,U.S. House,1,REP,DOUG LAMALFA,71,10,3,1,85
+Nevada,CP21,U.S. House,1,DEM,AUDREY DENNEY,56,4,0,0,60
+Nevada,CP21,U.S. House,1,,Undervotes:,3,0,0,0,3
+Nevada,CP21,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP21,State Senate,1,DEM,PAMELA DAWN SWARTZ,52,4,0,0,56
+Nevada,CP21,State Senate,1,REP,BRIAN DAHLE,73,10,3,1,87
+Nevada,CP21,State Senate,1,,Undervotes:,5,0,0,0,5
+Nevada,CP21,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP21,State Assembly,1,DEM,ELIZABETH L BETANCOURT,57,4,0,0,61
+Nevada,CP21,State Assembly,1,REP,MEGAN DAHLE,68,10,3,1,82
+Nevada,CP21,State Assembly,1,,Undervotes:,5,0,0,0,5
+Nevada,CP21,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP22,President,,DEM,Joe Biden,86,2,3,0,91
+Nevada,CP22,President,,REP,Donald Trump,71,5,0,1,77
+Nevada,CP22,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP22,President,,AIP,Rocky de la Fuente Guerra,3,0,1,0,4
+Nevada,CP22,President,,GRN,Howie Hawkins,2,0,0,0,2
+Nevada,CP22,President,,LIB,Jo Jorgensen,3,0,0,0,3
+Nevada,CP22,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP22,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP22,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP22,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP22,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP22,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP22,U.S. House,1,REP,DOUG LAMALFA,71,5,1,1,78
+Nevada,CP22,U.S. House,1,DEM,AUDREY DENNEY,93,2,3,0,98
+Nevada,CP22,U.S. House,1,,Undervotes:,2,0,0,0,2
+Nevada,CP22,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP22,State Senate,1,DEM,PAMELA DAWN SWARTZ,79,2,2,0,83
+Nevada,CP22,State Senate,1,REP,BRIAN DAHLE,84,5,1,1,91
+Nevada,CP22,State Senate,1,,Undervotes:,3,0,1,0,4
+Nevada,CP22,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP22,State Assembly,1,DEM,ELIZABETH L BETANCOURT,87,2,3,0,92
+Nevada,CP22,State Assembly,1,REP,MEGAN DAHLE,76,5,0,1,82
+Nevada,CP22,State Assembly,1,,Undervotes:,3,0,1,0,4
+Nevada,CP22,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP23,President,,DEM,Joe Biden,22,0,0,0,22
+Nevada,CP23,President,,REP,Donald Trump,17,0,2,0,19
+Nevada,CP23,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP23,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP23,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP23,President,,LIB,Jo Jorgensen,0,0,0,0,0
+Nevada,CP23,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP23,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP23,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP23,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP23,President,,,Undervotes:,0,1,0,0,1
+Nevada,CP23,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP23,U.S. House,1,REP,DOUG LAMALFA,14,0,2,0,16
+Nevada,CP23,U.S. House,1,DEM,AUDREY DENNEY,23,0,0,0,23
+Nevada,CP23,U.S. House,1,,Undervotes:,2,1,0,0,3
+Nevada,CP23,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP23,State Senate,1,DEM,PAMELA DAWN SWARTZ,15,0,0,0,15
+Nevada,CP23,State Senate,1,REP,BRIAN DAHLE,21,0,2,0,23
+Nevada,CP23,State Senate,1,,Undervotes:,3,1,0,0,4
+Nevada,CP23,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP23,State Assembly,1,DEM,ELIZABETH L BETANCOURT,16,0,0,0,16
+Nevada,CP23,State Assembly,1,REP,MEGAN DAHLE,20,0,2,0,22
+Nevada,CP23,State Assembly,1,,Undervotes:,3,1,0,0,4
+Nevada,CP23,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP24,President,,DEM,Joe Biden,176,7,2,0,185
+Nevada,CP24,President,,REP,Donald Trump,198,9,19,2,228
+Nevada,CP24,President,,PFP,Gloria laRiva,1,0,0,0,1
+Nevada,CP24,President,,AIP,Rocky de la Fuente Guerra,3,0,0,0,3
+Nevada,CP24,President,,GRN,Howie Hawkins,2,0,1,0,3
+Nevada,CP24,President,,LIB,Jo Jorgensen,9,0,0,0,9
+Nevada,CP24,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP24,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP24,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP24,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP24,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP24,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP24,U.S. House,1,REP,DOUG LAMALFA,210,9,19,2,240
+Nevada,CP24,U.S. House,1,DEM,AUDREY DENNEY,175,6,3,0,184
+Nevada,CP24,U.S. House,1,,Undervotes:,5,1,0,0,6
+Nevada,CP24,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP24,State Senate,1,DEM,PAMELA DAWN SWARTZ,163,5,2,0,170
+Nevada,CP24,State Senate,1,REP,BRIAN DAHLE,219,10,18,2,249
+Nevada,CP24,State Senate,1,,Undervotes:,8,1,2,0,11
+Nevada,CP24,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP24,State Assembly,1,DEM,ELIZABETH L BETANCOURT,169,6,4,0,179
+Nevada,CP24,State Assembly,1,REP,MEGAN DAHLE,217,9,16,2,244
+Nevada,CP24,State Assembly,1,,Undervotes:,4,1,2,0,7
+Nevada,CP24,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP25,President,,DEM,Joe Biden,93,3,2,1,99
+Nevada,CP25,President,,REP,Donald Trump,61,4,1,0,66
+Nevada,CP25,President,,PFP,Gloria laRiva,0,0,0,0,0
+Nevada,CP25,President,,AIP,Rocky de la Fuente Guerra,0,0,0,0,0
+Nevada,CP25,President,,GRN,Howie Hawkins,0,0,0,0,0
+Nevada,CP25,President,,LIB,Jo Jorgensen,5,0,0,0,5
+Nevada,CP25,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP25,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP25,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP25,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP25,President,,,Undervotes:,2,0,0,0,2
+Nevada,CP25,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP25,U.S. House,1,REP,DOUG LAMALFA,65,4,2,0,71
+Nevada,CP25,U.S. House,1,DEM,AUDREY DENNEY,89,3,1,0,93
+Nevada,CP25,U.S. House,1,,Undervotes:,7,0,0,1,8
+Nevada,CP25,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP25,State Senate,1,DEM,PAMELA DAWN SWARTZ,83,3,2,1,89
+Nevada,CP25,State Senate,1,REP,BRIAN DAHLE,68,4,1,0,73
+Nevada,CP25,State Senate,1,,Undervotes:,10,0,0,0,10
+Nevada,CP25,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP25,State Assembly,1,DEM,ELIZABETH L BETANCOURT,88,3,2,1,94
+Nevada,CP25,State Assembly,1,REP,MEGAN DAHLE,64,4,1,0,69
+Nevada,CP25,State Assembly,1,,Undervotes:,9,0,0,0,9
+Nevada,CP25,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP26,President,,DEM,JOE BIDEN,345,8,5,2,360
+Nevada,CP26,President,,REP,DONALD TRUMP,306,21,18,4,349
+Nevada,CP26,President,,PFP,GLORIA LA RIVA,2,0,0,0,2
+Nevada,CP26,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP26,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP26,President,,LIB,JO JORGENSEN,13,0,0,0,13
+Nevada,CP26,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP26,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP26,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP26,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP26,President,,,Undervotes:,15,0,0,0,15
+Nevada,CP26,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP26,U.S. House,1,REP,DOUG LAMALFA,318,21,17,4,360
+Nevada,CP26,U.S. House,1,DEM,AUDREY DENNEY,362,6,6,2,376
+Nevada,CP26,U.S. House,1,,Undervotes:,4,2,0,0,6
+Nevada,CP26,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP26,State Senate,1,DEM,PAMELA DAWN SWARTZ,312,6,6,2,326
+Nevada,CP26,State Senate,1,REP,BRIAN DAHLE,359,22,17,4,402
+Nevada,CP26,State Senate,1,,Undervotes:,13,1,0,0,14
+Nevada,CP26,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP26,State Assembly,1,DEM,ELIZABETH L BETANCOURT,336,6,5,2,349
+Nevada,CP26,State Assembly,1,REP,MEGAN DAHLE,334,21,18,4,377
+Nevada,CP26,State Assembly,1,,Undervotes:,14,2,0,0,16
+Nevada,CP26,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP27,President,,DEM,JOE BIDEN,790,19,24,7,840
+Nevada,CP27,President,,REP,DONALD TRUMP,934,63,52,12,"1,061"
+Nevada,CP27,President,,PFP,GLORIA LA RIVA,4,0,0,0,4
+Nevada,CP27,President,,AIP,ROCKY DE LA FUENTE GUERRA,6,0,1,1,8
+Nevada,CP27,President,,GRN,HOWIE HAWKINS,7,0,0,0,7
+Nevada,CP27,President,,LIB,JO JORGENSEN,32,0,0,0,32
+Nevada,CP27,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP27,President,,WRI,Brock Pierce (W),1,0,0,0,1
+Nevada,CP27,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP27,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP27,President,,,Undervotes:,42,0,0,0,42
+Nevada,CP27,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP27,U.S. House,1,REP,DOUG LAMALFA,961,60,51,12,"1,084"
+Nevada,CP27,U.S. House,1,DEM,AUDREY DENNEY,817,20,22,7,866
+Nevada,CP27,U.S. House,1,,Undervotes:,38,1,4,1,44
+Nevada,CP27,U.S. House,1,,Overvotes:,0,1,0,0,1
+Nevada,CP27,State Senate,1,DEM,PAMELA DAWN SWARTZ,731,19,21,7,778
+Nevada,CP27,State Senate,1,REP,BRIAN DAHLE,"1,031",62,51,12,"1,156"
+Nevada,CP27,State Senate,1,,Undervotes:,54,1,5,1,61
+Nevada,CP27,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP27,State Assembly,1,DEM,ELIZABETH L BETANCOURT,755,18,21,7,801
+Nevada,CP27,State Assembly,1,REP,MEGAN DAHLE,"1,003",61,51,12,"1,127"
+Nevada,CP27,State Assembly,1,,Undervotes:,58,3,5,1,67
+Nevada,CP27,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP28,President,,DEM,JOE BIDEN,708,18,14,5,745
+Nevada,CP28,President,,REP,DONALD TRUMP,749,37,43,6,835
+Nevada,CP28,President,,PFP,GLORIA LA RIVA,3,0,0,0,3
+Nevada,CP28,President,,AIP,ROCKY DE LA FUENTE GUERRA,3,0,0,0,3
+Nevada,CP28,President,,GRN,HOWIE HAWKINS,9,0,0,0,9
+Nevada,CP28,President,,LIB,JO JORGENSEN,18,1,1,0,20
+Nevada,CP28,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP28,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP28,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP28,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP28,President,,,Undervotes:,16,0,0,0,16
+Nevada,CP28,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP28,U.S. House,1,REP,DOUG LAMALFA,778,37,42,5,862
+Nevada,CP28,U.S. House,1,DEM,AUDREY DENNEY,698,17,15,5,735
+Nevada,CP28,U.S. House,1,,Undervotes:,30,2,1,1,34
+Nevada,CP28,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP28,State Senate,1,DEM,PAMELA DAWN SWARTZ,646,19,13,5,683
+Nevada,CP28,State Senate,1,REP,BRIAN DAHLE,826,37,44,5,912
+Nevada,CP28,State Senate,1,,Undervotes:,34,0,1,1,36
+Nevada,CP28,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP28,State Assembly,1,DEM,ELIZABETH L BETANCOURT,667,17,12,5,701
+Nevada,CP28,State Assembly,1,REP,MEGAN DAHLE,798,37,45,5,885
+Nevada,CP28,State Assembly,1,,Undervotes:,41,2,1,1,45
+Nevada,CP28,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP29,President,,DEM,JOE BIDEN,608,21,10,3,642
+Nevada,CP29,President,,REP,DONALD TRUMP,677,37,32,12,758
+Nevada,CP29,President,,PFP,GLORIA LA RIVA,1,0,0,0,1
+Nevada,CP29,President,,AIP,ROCKY DE LA FUENTE GUERRA,3,0,0,0,3
+Nevada,CP29,President,,GRN,HOWIE HAWKINS,6,0,0,0,6
+Nevada,CP29,President,,LIB,JO JORGENSEN,21,1,1,0,23
+Nevada,CP29,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP29,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP29,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP29,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP29,President,,,Undervotes:,20,0,0,0,20
+Nevada,CP29,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP29,U.S. House,1,REP,DOUG LAMALFA,685,39,30,12,766
+Nevada,CP29,U.S. House,1,DEM,AUDREY DENNEY,617,20,13,1,651
+Nevada,CP29,U.S. House,1,,Undervotes:,34,0,0,2,36
+Nevada,CP29,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP29,State Senate,1,DEM,PAMELA DAWN SWARTZ,558,18,12,2,590
+Nevada,CP29,State Senate,1,REP,BRIAN DAHLE,732,41,30,11,814
+Nevada,CP29,State Senate,1,,Undervotes:,45,0,1,2,48
+Nevada,CP29,State Senate,1,,Overvotes:,1,0,0,0,1
+Nevada,CP29,State Assembly,1,DEM,ELIZABETH L BETANCOURT,596,18,10,1,625
+Nevada,CP29,State Assembly,1,REP,MEGAN DAHLE,700,41,32,11,784
+Nevada,CP29,State Assembly,1,,Undervotes:,39,0,1,3,43
+Nevada,CP29,State Assembly,1,,Overvotes:,1,0,0,0,1
+Nevada,CP30,President,,DEM,JOE BIDEN,254,7,11,1,273
+Nevada,CP30,President,,REP,DONALD TRUMP,181,7,9,6,203
+Nevada,CP30,President,,PFP,GLORIA LA RIVA,1,0,0,0,1
+Nevada,CP30,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP30,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP30,President,,LIB,JO JORGENSEN,6,0,0,0,6
+Nevada,CP30,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP30,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP30,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP30,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP30,President,,,Undervotes:,4,0,0,0,4
+Nevada,CP30,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP30,U.S. House,1,REP,DOUG LAMALFA,176,6,9,5,196
+Nevada,CP30,U.S. House,1,DEM,AUDREY DENNEY,270,8,11,1,290
+Nevada,CP30,U.S. House,1,,Undervotes:,1,0,0,1,2
+Nevada,CP30,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP30,State Senate,1,DEM,PAMELA DAWN SWARTZ,242,6,10,1,259
+Nevada,CP30,State Senate,1,REP,BRIAN DAHLE,201,8,10,5,224
+Nevada,CP30,State Senate,1,,Undervotes:,4,0,0,1,5
+Nevada,CP30,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP30,State Assembly,1,DEM,ELIZABETH L BETANCOURT,254,6,11,2,273
+Nevada,CP30,State Assembly,1,REP,MEGAN DAHLE,186,8,9,4,207
+Nevada,CP30,State Assembly,1,,Undervotes:,7,0,0,1,8
+Nevada,CP30,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP31,President,,DEM,JOE BIDEN,148,11,4,1,164
+Nevada,CP31,President,,REP,DONALD TRUMP,207,10,9,3,229
+Nevada,CP31,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP31,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP31,President,,GRN,HOWIE HAWKINS,1,0,0,0,1
+Nevada,CP31,President,,LIB,JO JORGENSEN,9,0,0,0,9
+Nevada,CP31,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP31,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP31,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP31,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP31,President,,,Undervotes:,9,0,0,1,10
+Nevada,CP31,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP31,U.S. House,1,REP,DOUG LAMALFA,204,9,9,3,225
+Nevada,CP31,U.S. House,1,DEM,AUDREY DENNEY,159,12,2,1,174
+Nevada,CP31,U.S. House,1,,Undervotes:,12,0,2,1,15
+Nevada,CP31,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP31,State Senate,1,DEM,PAMELA DAWN SWARTZ,143,10,2,1,156
+Nevada,CP31,State Senate,1,REP,BRIAN DAHLE,219,11,9,3,242
+Nevada,CP31,State Senate,1,,Undervotes:,13,0,2,1,16
+Nevada,CP31,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP31,State Assembly,1,DEM,ELIZABETH L BETANCOURT,152,11,4,1,168
+Nevada,CP31,State Assembly,1,REP,MEGAN DAHLE,210,10,7,1,228
+Nevada,CP31,State Assembly,1,,,13,0,2,3,18
+Nevada,CP31,State Assembly,1,,,0,0,0,0,0
+Nevada,CP32,President,,DEM,JOE BIDEN,15,0,1,0,16
+Nevada,CP32,President,,REP,DONALD TRUMP,12,3,0,0,15
+Nevada,CP32,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP32,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP32,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP32,President,,LIB,JO JORGENSEN,1,0,0,0,1
+Nevada,CP32,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP32,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP32,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP32,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP32,President,,,,0,0,0,0,0
+Nevada,CP32,President,,,,0,0,0,0,0
+Nevada,CP32,U.S. House,1,REP,DOUG LAMALFA,13,3,0,0,16
+Nevada,CP32,U.S. House,1,DEM,AUDREY DENNEY,15,0,1,0,16
+Nevada,CP32,U.S. House,1,,,0,0,0,0,0
+Nevada,CP32,U.S. House,1,,,0,0,0,0,0
+Nevada,CP32,State Senate,1,DEM,PAMELA DAWN SWARTZ,15,0,1,0,16
+Nevada,CP32,State Senate,1,REP,BRIAN DAHLE,13,3,0,0,16
+Nevada,CP32,State Senate,1,,,0,0,0,0,0
+Nevada,CP32,State Senate,1,,,0,0,0,0,0
+Nevada,CP32,State Assembly,1,DEM,ELIZABETH L BETANCOURT,15,0,1,0,16
+Nevada,CP32,State Assembly,1,REP,MEGAN DAHLE,13,3,0,0,16
+Nevada,CP32,State Assembly,1,,,0,0,0,0,0
+Nevada,CP32,State Assembly,1,,,0,0,0,0,0
+Nevada,CP33,President,,DEM,Joe Biden,686,19,21,9,735
+Nevada,CP33,President,,REP,Donald Trump,938,50,75,11,1076
+Nevada,CP33,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP33,President,,AIP,ROCKY DE LA FUENTE GUERRA,9,1,0,0,10
+Nevada,CP33,President,,GRN,HOWIE HAWKINS,13,1,1,0,15
+Nevada,CP33,President,,LIB,JO JORGENSEN,28,0,2,0,30
+Nevada,CP33,,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP33,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP33,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP33,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP33,President,,,Undervotes:,32,0,2,1,35
+Nevada,CP33,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP33,U.S. House,1,REP,DOUG LAMALFA,929,49,73,9,"1,060"
+Nevada,CP33,U.S. House,1,DEM,AUDREY DENNEY,748,21,26,10,805
+Nevada,CP33,U.S. House,1,,Undervotes:,29,1,2,2,34
+Nevada,CP33,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP33,State Senate,1,DEM,PAMELA DAWN SWARTZ,650,19,24,8,701
+Nevada,CP33,State Senate,1,REP,BRIAN DAHLE,"1,013",51,74,10,"1,148"
+Nevada,CP33,State Senate,1,,Undervotes:,43,1,3,3,50
+Nevada,CP33,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP33,State Assembly,1,DEM,ELIZABETH L BETANCOURT,693,21,24,8,746
+Nevada,CP33,State Assembly,1,REP,MEGAN DAHLE,970,49,75,9,"1,103"
+Nevada,CP33,State Assembly,1,,Undervotes:,43,1,2,4,50
+Nevada,CP33,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP34,President,,DEM,JOE BIDEN,788,33,22,6,849
+Nevada,CP34,President,,REP,DONALD TRUMP,818,62,54,11,945
+Nevada,CP34,President,,PFP,GLORIA LA RIVA,11,0,0,0,11
+Nevada,CP34,President,,AIP,ROCKY DE LA FUENTE GUERRA,6,0,1,0,7
+Nevada,CP34,President,,GRN,HOWIE HAWKINS,6,1,0,0,7
+Nevada,CP34,President,,LIB,JO JORGENSEN,25,0,1,1,27
+Nevada,CP34,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP34,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP34,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP34,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP34,President,,,Undervotes:,16,0,0,1,17
+Nevada,CP34,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP34,U.S. House,1,REP,DOUG LAMALFA,827,59,52,11,949
+Nevada,CP34,U.S. House,1,DEM,AUDREY DENNEY,820,37,24,5,886
+Nevada,CP34,U.S. House,1,,Undervotes:,24,0,2,3,29
+Nevada,CP34,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP34,State Senate,1,DEM,PAMELA DAWN SWARTZ,754,35,23,6,818
+Nevada,CP34,State Senate,1,REP,BRIAN DAHLE,882,61,52,11,"1,006"
+Nevada,CP34,State Senate,1,,Undervotes:,35,0,3,2,40
+Nevada,CP34,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP34,State Assembly,1,DEM,ELIZABETH L BETANCOURT,781,36,21,7,845
+Nevada,CP34,State Assembly,1,REP,MEGAN DAHLE,847,59,53,10,969
+Nevada,CP34,State Assembly,1,,Undervotes:,43,1,4,2,50
+Nevada,CP34,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP35,President,,DEM,JOE BIDEN,"1,090",23,17,5,"1,135"
+Nevada,CP35,President,,REP,DONALD TRUMP,945,53,42,7,"1,047"
+Nevada,CP35,President,,PFP,GLORIA LA RIVA,2,0,0,0,2
+Nevada,CP35,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP35,President,,GRN,HOWIE HAWKINS,3,0,0,1,4
+Nevada,CP35,President,,LIB,JO JORGENSEN,23,1,1,0,25
+Nevada,CP35,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP35,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP35,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP35,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP35,President,,,Undervotes:,38,1,0,0,39
+Nevada,CP35,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP35,U.S. House,1,REP,DOUG LAMALFA,"1,006",52,40,6,"1,104"
+Nevada,CP35,U.S. House,1,DEM,AUDREY DENNEY,"1,061",25,18,7,"1,111"
+Nevada,CP35,U.S. House,1,,Undervotes:,35,1,2,0,38
+Nevada,CP35,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP35,State Senate,1,DEM,PAMELA DAWN SWARTZ,952,23,16,5,996
+Nevada,CP35,State Senate,1,REP,BRIAN DAHLE,"1,104",54,41,8,"1,207"
+Nevada,CP35,State Senate,1,,Undervotes:,46,1,3,0,50
+Nevada,CP35,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP35,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,005",24,14,6,"1,049"
+Nevada,CP35,State Assembly,1,REP,MEGAN DAHLE,"1,045",52,40,7,"1,144"
+Nevada,CP35,State Assembly,1,,Undervotes:,52,2,6,0,60
+Nevada,CP35,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP36,President,,DEM,JOE BIDEN,662,16,10,7,695
+Nevada,CP36,President,,REP,DONALD TRUMP,705,49,42,7,803
+Nevada,CP36,President,,PFP,GLORIA LA RIVA,2,0,0,0,2
+Nevada,CP36,President,,AIP,ROCKY DE LA FUENTE GUERRA,3,0,0,0,3
+Nevada,CP36,President,,GRN,HOWIE HAWKINS,3,1,0,0,4
+Nevada,CP36,President,,LIB,JO JORGENSEN,22,0,2,1,25
+Nevada,CP36,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP36,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP36,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP36,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP36,President,,,Undervotes:,28,0,1,0,29
+Nevada,CP36,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP36,U.S. House,1,REP,DOUG LAMALFA,736,46,39,5,826
+Nevada,CP36,U.S. House,1,DEM,AUDREY DENNEY,667,19,16,8,710
+Nevada,CP36,U.S. House,1,,Undervotes:,23,1,0,2,26
+Nevada,CP36,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP36,State Senate,1,DEM,PAMELA DAWN SWARTZ,589,15,12,6,622
+Nevada,CP36,State Senate,1,REP,BRIAN DAHLE,798,49,40,7,894
+Nevada,CP36,State Senate,1,,Undervotes:,39,2,3,2,46
+Nevada,CP36,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP36,State Assembly,1,DEM,ELIZABETH L BETANCOURT,628,15,14,5,662
+Nevada,CP36,State Assembly,1,REP,MEGAN DAHLE,757,49,38,7,851
+Nevada,CP36,State Assembly,1,,Undervotes:,41,2,3,3,49
+Nevada,CP36,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP37,President,,DEM,JOE BIDEN,6,0,0,0,6
+Nevada,CP37,President,,REP,DONALD TRUMP,10,0,0,0,10
+Nevada,CP37,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP37,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP37,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP37,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP37,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP37,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP37,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP37,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP37,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP37,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP37,U.S. House,1,REP,DOUG LAMALFA,10,0,0,0,10
+Nevada,CP37,U.S. House,1,DEM,AUDREY DENNEY,7,0,0,0,7
+Nevada,CP37,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP37,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP37,State Senate,1,DEM,PAMELA DAWN SWARTZ,4,0,0,0,4
+Nevada,CP37,State Senate,1,REP,BRIAN DAHLE,12,0,0,0,12
+Nevada,CP37,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP37,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP37,State Assembly,1,DEM,ELIZABETH L BETANCOURT,4,0,0,0,4
+Nevada,CP37,State Assembly,1,REP,MEGAN DAHLE,12,0,0,0,12
+Nevada,CP37,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP37,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP38,President,,DEM,JOE BIDEN,10,1,0,0,11
+Nevada,CP38,President,,REP,DONALD TRUMP,10,0,0,0,10
+Nevada,CP38,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP38,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP38,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP38,President,,LIB,JO JORGENSEN,1,0,0,0,1
+Nevada,CP38,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP38,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP38,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP38,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP38,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP38,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP38,U.S. House,1,REP,DOUG LAMALFA,11,0,0,0,11
+Nevada,CP38,U.S. House,1,DEM,AUDREY DENNEY,9,1,0,0,10
+Nevada,CP38,U.S. House,1,,Undervotes:,1,0,0,0,1
+Nevada,CP38,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP38,State Senate,1,DEM,PAMELA DAWN SWARTZ,9,1,0,0,10
+Nevada,CP38,State Senate,1,REP,BRIAN DAHLE,11,0,0,0,11
+Nevada,CP38,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP38,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP38,State Assembly,1,DEM,ELIZABETH L BETANCOURT,9,1,0,0,10
+Nevada,CP38,State Assembly,1,REP,MEGAN DAHLE,11,0,0,0,11
+Nevada,CP38,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP38,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP39,President,,DEM,JOE BIDEN,149,1,2,3,155
+Nevada,CP39,President,,REP,DONALD TRUMP,128,2,6,2,138
+Nevada,CP39,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP39,President,,AIP,ROCKY DE LA FUENTE GUERRA,2,0,0,0,2
+Nevada,CP39,President,,GRN,HOWIE HAWKINS,3,0,0,0,3
+Nevada,CP39,President,,LIB,JO JORGENSEN,2,0,0,0,2
+Nevada,CP39,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP39,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP39,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP39,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP39,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP39,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP39,U.S. House,1,REP,DOUG LAMALFA,131,2,6,1,140
+Nevada,CP39,U.S. House,1,DEM,AUDREY DENNEY,151,1,2,3,157
+Nevada,CP39,U.S. House,1,,Undervotes:,5,0,0,1,6
+Nevada,CP39,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP39,State Senate,1,DEM,PAMELA DAWN SWARTZ,136,1,2,3,142
+Nevada,CP39,State Senate,1,REP,BRIAN DAHLE,143,2,6,2,153
+Nevada,CP39,State Senate,1,,Undervotes:,8,0,0,0,8
+Nevada,CP39,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP39,State Assembly,1,DEM,ELIZABETH L BETANCOURT,142,1,2,3,148
+Nevada,CP39,State Assembly,1,REP,MEGAN DAHLE,140,2,6,2,150
+Nevada,CP39,State Assembly,1,,Undervotes:,5,0,0,0,5
+Nevada,CP39,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP40,President,,DEM,JOE BIDEN,794,21,17,6,838
+Nevada,CP40,President,,REP,DONALD TRUMP,536,49,37,11,633
+Nevada,CP40,President,,PFP,GLORIA LA RIVA,5,0,0,0,5
+Nevada,CP40,President,,AIP,ROCKY DE LA FUENTE GUERRA,2,0,1,0,3
+Nevada,CP40,President,,GRN,HOWIE HAWKINS,7,0,0,1,8
+Nevada,CP40,President,,LIB,JO JORGENSEN,19,0,3,1,23
+Nevada,CP40,,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP40,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP40,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP40,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP40,President,,,Undervotes:,34,1,0,0,35
+Nevada,CP40,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP40,U.S. House,1,REP,DOUG LAMALFA,548,48,36,10,642
+Nevada,CP40,U.S. House,1,DEM,AUDREY DENNEY,825,22,20,8,875
+Nevada,CP40,U.S. House,1,,Undervotes:,24,1,2,1,28
+Nevada,CP40,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP40,State Senate,1,DEM,PAMELA DAWN SWARTZ,769,24,17,7,817
+Nevada,CP40,State Senate,1,REP,BRIAN DAHLE,588,46,38,11,683
+Nevada,CP40,State Senate,1,,Undervotes:,40,1,3,1,45
+Nevada,CP40,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP40,State Assembly,1,DEM,ELIZABETH L BETANCOURT,781,22,19,8,830
+Nevada,CP40,State Assembly,1,REP,MEGAN DAHLE,568,47,35,10,660
+Nevada,CP40,State Assembly,1,,Undervotes:,48,2,4,1,55
+Nevada,CP40,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP41,President,,DEM,JOE BIDEN,137,2,0,0,139
+Nevada,CP41,President,,REP,DONALD TRUMP,73,1,0,0,74
+Nevada,CP41,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP41,President,,AIP,ROCKY DE LA FUENTE GUERRA,4,0,0,0,4
+Nevada,CP41,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP41,President,,LIB,JO JORGENSEN,4,0,0,0,4
+Nevada,CP41,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP41,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP41,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP41,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP41,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP41,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP41,U.S. House,1,REP,DOUG LAMALFA,83,0,0,0,83
+Nevada,CP41,U.S. House,1,DEM,AUDREY DENNEY,139,3,0,0,142
+Nevada,CP41,U.S. House,1,,Undervotes:,1,0,0,0,1
+Nevada,CP41,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP41,State Senate,1,DEM,PAMELA DAWN SWARTZ,130,2,0,0,132
+Nevada,CP41,State Senate,1,REP,BRIAN DAHLE,90,1,0,0,91
+Nevada,CP41,State Senate,1,,Undervotes:,3,0,0,0,3
+Nevada,CP41,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP41,State Assembly,1,DEM,ELIZABETH L BETANCOURT,132,3,0,0,135
+Nevada,CP41,State Assembly,1,REP,MEGAN DAHLE,86,0,0,0,86
+Nevada,CP41,State Assembly,1,,Undervotes:,5,0,0,0,5
+Nevada,CP41,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP42,President,,DEM,JOE BIDEN,253,8,6,1,268
+Nevada,CP42,President,,REP,DONALD TRUMP,249,13,9,1,272
+Nevada,CP42,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP42,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP42,President,,GRN,HOWIE HAWKINS,3,0,1,0,4
+Nevada,CP42,President,,LIB,JO JORGENSEN,4,1,0,0,5
+Nevada,CP42,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP42,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP42,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP42,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP42,President,,,Undervotes:,10,0,0,0,10
+Nevada,CP42,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP42,U.S. House,1,REP,DOUG LAMALFA,251,13,8,1,273
+Nevada,CP42,U.S. House,1,DEM,AUDREY DENNEY,260,9,6,1,276
+Nevada,CP42,U.S. House,1,,Undervotes:,8,0,2,0,10
+Nevada,CP42,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP42,State Senate,1,DEM,PAMELA DAWN SWARTZ,218,6,6,1,231
+Nevada,CP42,State Senate,1,REP,BRIAN DAHLE,286,16,8,1,311
+Nevada,CP42,State Senate,1,,Undervotes:,15,0,2,0,17
+Nevada,CP42,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP42,State Assembly,1,DEM,ELIZABETH L BETANCOURT,241,8,7,1,257
+Nevada,CP42,State Assembly,1,REP,MEGAN DAHLE,265,14,8,1,288
+Nevada,CP42,State Assembly,1,,Undervotes:,13,0,1,0,14
+Nevada,CP42,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP43,President,,DEM,JOE BIDEN,83,4,0,0,87
+Nevada,CP43,President,,REP,DONALD TRUMP,72,5,2,0,79
+Nevada,CP43,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP43,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP43,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP43,President,,LIB,JO JORGENSEN,2,0,1,0,3
+Nevada,CP43,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP43,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP43,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP43,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP43,President,,,Undervotes:,6,0,0,0,6
+Nevada,CP43,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP43,U.S. House,1,REP,DOUG LAMALFA,81,5,3,0,89
+Nevada,CP43,U.S. House,1,DEM,AUDREY DENNEY,82,4,0,0,86
+Nevada,CP43,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP43,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP43,State Senate,1,DEM,PAMELA DAWN SWARTZ,78,4,0,0,82
+Nevada,CP43,State Senate,1,REP,BRIAN DAHLE,85,5,3,0,93
+Nevada,CP43,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP43,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP43,State Assembly,1,DEM,ELIZABETH L BETANCOURT,76,4,0,0,80
+Nevada,CP43,State Assembly,1,REP,MEGAN DAHLE,84,5,3,0,92
+Nevada,CP43,State Assembly,1,,Undervotes:,3,0,0,0,3
+Nevada,CP43,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP44,President,,DEM,JOE BIDEN,149,6,5,2,162
+Nevada,CP44,President,,REP,DONALD TRUMP,150,11,9,5,175
+Nevada,CP44,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP44,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP44,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP44,President,,LIB,JO JORGENSEN,10,0,0,0,10
+Nevada,CP44,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP44,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP44,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP44,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP44,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP44,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP44,U.S. House,1,REP,DOUG LAMALFA,150,10,9,3,172
+Nevada,CP44,U.S. House,1,DEM,AUDREY DENNEY,156,7,5,2,170
+Nevada,CP44,U.S. House,1,,Undervotes:,8,0,0,2,10
+Nevada,CP44,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP44,State Senate,1,DEM,PAMELA DAWN SWARTZ,141,6,4,2,153
+Nevada,CP44,State Senate,1,REP,BRIAN DAHLE,160,11,8,3,182
+Nevada,CP44,State Senate,1,,Undervotes:,13,0,2,2,17
+Nevada,CP44,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP44,State Assembly,1,DEM,ELIZABETH L BETANCOURT,146,6,5,1,158
+Nevada,CP44,State Assembly,1,REP,MEGAN DAHLE,156,11,8,3,178
+Nevada,CP44,State Assembly,1,,Undervotes:,12,0,1,3,16
+Nevada,CP44,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP45,President,,DEM,JOE BIDEN,742,19,17,10,788
+Nevada,CP45,President,,REP,DONALD TRUMP,724,50,39,7,820
+Nevada,CP45,President,,PFP,GLORIA LA RIVA,3,0,0,1,4
+Nevada,CP45,President,,AIP,ROCKY DE LA FUENTE GUERRA,2,0,0,0,2
+Nevada,CP45,President,,GRN,HOWIE HAWKINS,7,0,1,0,8
+Nevada,CP45,President,,LIB,JO JORGENSEN,23,0,0,0,23
+Nevada,CP45,President,,WRI,Brian Carroll (W),1,0,0,0,1
+Nevada,CP45,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP45,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP45,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP45,President,,,Undervotes:,26,0,2,0,28
+Nevada,CP45,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP45,U.S. House,1,REP,DOUG LAMALFA,733,49,39,7,828
+Nevada,CP45,U.S. House,1,DEM,AUDREY DENNEY,759,20,20,9,808
+Nevada,CP45,U.S. House,1,,Undervotes:,36,0,0,2,38
+Nevada,CP45,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP45,State Senate,1,DEM,PAMELA DAWN SWARTZ,676,19,17,11,723
+Nevada,CP45,State Senate,1,REP,BRIAN DAHLE,800,50,41,5,896
+Nevada,CP45,State Senate,1,,Undervotes:,52,0,1,2,55
+Nevada,CP45,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP45,State Assembly,1,DEM,ELIZABETH L BETANCOURT,707,18,15,9,749
+Nevada,CP45,State Assembly,1,REP,MEGAN DAHLE,761,50,41,7,859
+Nevada,CP45,State Assembly,1,,Undervotes:,60,1,3,2,66
+Nevada,CP45,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP46,President,,DEM,JOE BIDEN,192,5,2,2,201
+Nevada,CP46,President,,REP,DONALD TRUMP,186,14,5,0,205
+Nevada,CP46,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP46,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP46,President,,GRN,HOWIE HAWKINS,3,0,0,0,3
+Nevada,CP46,President,,LIB,JO JORGENSEN,6,0,0,0,6
+Nevada,CP46,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP46,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP46,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP46,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP46,President,,,Undervotes:,9,0,0,0,9
+Nevada,CP46,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP46,U.S. House,1,REP,DOUG LAMALFA,197,13,5,0,215
+Nevada,CP46,U.S. House,1,DEM,AUDREY DENNEY,188,6,2,2,198
+Nevada,CP46,U.S. House,1,,Undervotes:,11,0,0,0,11
+Nevada,CP46,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP46,State Senate,1,DEM,PAMELA DAWN SWARTZ,175,4,2,2,183
+Nevada,CP46,State Senate,1,REP,BRIAN DAHLE,209,15,5,0,229
+Nevada,CP46,State Senate,1,,Undervotes:,12,0,0,0,12
+Nevada,CP46,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP46,State Assembly,1,DEM,ELIZABETH L BETANCOURT,192,5,2,1,200
+Nevada,CP46,State Assembly,1,REP,MEGAN DAHLE,193,14,5,1,213
+Nevada,CP46,State Assembly,1,,Undervotes:,11,0,0,0,11
+Nevada,CP46,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP47,President,,DEM,JOE BIDEN,2,0,0,0,2
+Nevada,CP47,President,,REP,DONALD TRUMP,1,0,0,1,2
+Nevada,CP47,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP47,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP47,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP47,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP47,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP47,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP47,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP47,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP47,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP47,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP47,U.S. House,1,REP,DOUG LAMALFA,1,0,0,1,2
+Nevada,CP47,U.S. House,1,DEM,AUDREY DENNEY,2,0,0,0,2
+Nevada,CP47,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP47,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP47,State Senate,1,DEM,PAMELA DAWN SWARTZ,1,0,0,0,1
+Nevada,CP47,State Senate,1,REP,BRIAN DAHLE,2,0,0,1,3
+Nevada,CP47,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP47,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP47,State Assembly,1,DEM,ELIZABETH L BETANCOURT,2,0,0,0,2
+Nevada,CP47,State Assembly,1,REP,MEGAN DAHLE,1,0,0,1,2
+Nevada,CP47,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP47,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP48,President,,DEM,JOE BIDEN,11,1,0,0,12
+Nevada,CP48,President,,REP,DONALD TRUMP,11,1,0,0,12
+Nevada,CP48,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP48,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP48,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP48,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP48,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP48,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP48,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP48,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP48,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP48,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP48,U.S. House,1,REP,DOUG LAMALFA,12,1,0,0,13
+Nevada,CP48,U.S. House,1,DEM,AUDREY DENNEY,10,1,0,0,11
+Nevada,CP48,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP48,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP48,State Senate,1,DEM,PAMELA DAWN SWARTZ,8,1,0,0,9
+Nevada,CP48,State Senate,1,REP,BRIAN DAHLE,14,1,0,0,15
+Nevada,CP48,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP48,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP48,State Assembly,1,DEM,ELIZABETH L BETANCOURT,8,1,0,0,9
+Nevada,CP48,State Assembly,1,REP,MEGAN DAHLE,14,1,0,0,15
+Nevada,CP48,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP48,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP49,President,,DEM,JOE BIDEN,307,13,5,8,333
+Nevada,CP49,President,,REP,DONALD TRUMP,260,18,8,6,292
+Nevada,CP49,President,,PFP,GLORIA LA RIVA,4,0,0,0,4
+Nevada,CP49,President,,AIP,ROCKY DE LA FUENTE GUERRA,2,0,0,0,2
+Nevada,CP49,President,,GRN,HOWIE HAWKINS,1,0,0,0,1
+Nevada,CP49,President,,LIB,JO JORGENSEN,9,0,0,0,9
+Nevada,CP49,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP49,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP49,President,,WRI,Jesse Ventura (W),1,0,0,0,1
+Nevada,CP49,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP49,President,,,Undervotes:,8,0,0,0,8
+Nevada,CP49,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP49,U.S. House,1,REP,DOUG LAMALFA,266,19,8,6,299
+Nevada,CP49,U.S. House,1,DEM,AUDREY DENNEY,318,12,5,5,340
+Nevada,CP49,U.S. House,1,,Undervotes:,8,0,0,3,11
+Nevada,CP49,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP49,State Senate,1,DEM,PAMELA DAWN SWARTZ,302,12,5,4,323
+Nevada,CP49,State Senate,1,REP,BRIAN DAHLE,276,19,8,8,311
+Nevada,CP49,State Senate,1,,Undervotes:,14,0,0,2,16
+Nevada,CP49,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP49,State Assembly,1,DEM,ELIZABETH L BETANCOURT,304,12,5,6,327
+Nevada,CP49,State Assembly,1,REP,MEGAN DAHLE,275,19,8,6,308
+Nevada,CP49,State Assembly,1,,Undervotes:,13,0,0,2,15
+Nevada,CP49,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP50,President,,DEM,JOE BIDEN,855,20,14,6,895
+Nevada,CP50,President,,REP,DONALD TRUMP,821,48,42,10,921
+Nevada,CP50,President,,PFP,GLORIA LA RIVA,4,0,0,0,4
+Nevada,CP50,President,,AIP,ROCKY DE LA FUENTE GUERRA,4,0,0,0,4
+Nevada,CP50,President,,GRN,HOWIE HAWKINS,10,1,0,0,11
+Nevada,CP50,President,,LIB,JO JORGENSEN,34,0,5,0,39
+Nevada,CP50,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP50,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP50,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP50,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP50,President,,,Undervotes:,29,1,0,0,30
+Nevada,CP50,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP50,U.S. House,1,REP,DOUG LAMALFA,820,47,44,9,920
+Nevada,CP50,U.S. House,1,DEM,AUDREY DENNEY,919,21,17,6,963
+Nevada,CP50,U.S. House,1,,Undervotes:,18,2,0,1,21
+Nevada,CP50,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP50,State Senate,1,DEM,PAMELA DAWN SWARTZ,823,19,16,6,864
+Nevada,CP50,State Senate,1,REP,BRIAN DAHLE,895,48,44,9,996
+Nevada,CP50,State Senate,1,,Undervotes:,39,3,1,1,44
+Nevada,CP50,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP50,State Assembly,1,DEM,ELIZABETH L BETANCOURT,847,19,18,7,891
+Nevada,CP50,State Assembly,1,REP,MEGAN DAHLE,869,47,41,8,965
+Nevada,CP50,State Assembly,1,,Undervotes:,41,4,2,1,48
+Nevada,CP50,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP51,President,,DEM,JOE BIDEN,263,12,7,2,284
+Nevada,CP51,President,,REP,DONALD TRUMP,202,8,17,3,230
+Nevada,CP51,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP51,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP51,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP51,President,,LIB,JO JORGENSEN,7,0,0,0,7
+Nevada,CP51,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP51,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP51,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP51,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP51,President,,,Undervotes:,6,0,0,0,6
+Nevada,CP51,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP51,U.S. House,1,REP,DOUG LAMALFA,205,8,17,3,233
+Nevada,CP51,U.S. House,1,DEM,AUDREY DENNEY,265,12,6,2,285
+Nevada,CP51,U.S. House,1,,Undervotes:,10,0,1,0,11
+Nevada,CP51,U.S. House,1,,Overvotes:,1,0,0,0,1
+Nevada,CP51,State Senate,1,DEM,PAMELA DAWN SWARTZ,249,12,6,2,269
+Nevada,CP51,State Senate,1,REP,BRIAN DAHLE,219,8,16,3,246
+Nevada,CP51,State Senate,1,,Undervotes:,12,0,2,0,14
+Nevada,CP51,State Senate,1,,Overvotes:,1,0,0,0,1
+Nevada,CP51,State Assembly,1,DEM,ELIZABETH L BETANCOURT,259,12,7,2,280
+Nevada,CP51,State Assembly,1,REP,MEGAN DAHLE,213,8,17,3,241
+Nevada,CP51,State Assembly,1,,Undervotes:,8,0,0,0,8
+Nevada,CP51,State Assembly,1,,Overvotes:,1,0,0,0,1
+Nevada,CP52,President,,DEM,JOE BIDEN,377,9,8,3,397
+Nevada,CP52,President,,REP,DONALD TRUMP,349,26,24,9,408
+Nevada,CP52,President,,PFP,GLORIA LA RIVA,0,0,1,0,1
+Nevada,CP52,President,,AIP,ROCKY DE LA FUENTE GUERRA,3,0,0,0,3
+Nevada,CP52,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP52,President,,LIB,JO JORGENSEN,10,1,0,0,11
+Nevada,CP52,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP52,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP52,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP52,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP52,President,,,Undervotes:,18,2,0,0,20
+Nevada,CP52,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP52,U.S. House,1,REP,DOUG LAMALFA,360,25,24,7,416
+Nevada,CP52,U.S. House,1,DEM,AUDREY DENNEY,382,13,7,2,404
+Nevada,CP52,U.S. House,1,,Undervotes:,15,0,2,3,20
+Nevada,CP52,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP52,State Senate,1,DEM,PAMELA DAWN SWARTZ,346,10,9,3,368
+Nevada,CP52,State Senate,1,REP,BRIAN DAHLE,388,26,22,6,442
+Nevada,CP52,State Senate,1,,Undervotes:,23,0,2,3,28
+Nevada,CP52,State Senate,1,,Overvotes:,0,2,0,0,2
+Nevada,CP52,State Assembly,1,DEM,ELIZABETH L BETANCOURT,366,12,7,1,386
+Nevada,CP52,State Assembly,1,REP,MEGAN DAHLE,366,26,24,7,423
+Nevada,CP52,State Assembly,1,,Undervotes:,25,0,2,4,31
+Nevada,CP52,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP53,President,,DEM,JOE BIDEN,184,6,2,2,194
+Nevada,CP53,President,,REP,DONALD TRUMP,139,4,8,1,152
+Nevada,CP53,President,,PFP,GLORIA LA RIVA,1,0,0,0,1
+Nevada,CP53,President,,AIP,ROCKY DE LA FUENTE GUERRA,2,0,0,0,2
+Nevada,CP53,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP53,President,,LIB,JO JORGENSEN,8,0,0,1,9
+Nevada,CP53,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP53,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP53,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP53,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP53,President,,,Undervotes:,4,0,0,0,4
+Nevada,CP53,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP53,U.S. House,1,REP,DOUG LAMALFA,152,4,7,1,164
+Nevada,CP53,U.S. House,1,DEM,AUDREY DENNEY,185,6,3,2,196
+Nevada,CP53,U.S. House,1,,Undervotes:,3,0,0,1,4
+Nevada,CP53,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP53,State Senate,1,DEM,PAMELA DAWN SWARTZ,170,6,3,2,181
+Nevada,CP53,State Senate,1,REP,BRIAN DAHLE,162,4,7,1,174
+Nevada,CP53,State Senate,1,,Undervotes:,8,0,0,1,9
+Nevada,CP53,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP53,State Assembly,1,DEM,ELIZABETH L BETANCOURT,183,6,3,1,193
+Nevada,CP53,State Assembly,1,REP,MEGAN DAHLE,150,4,7,2,163
+Nevada,CP53,State Assembly,1,,Undervotes:,7,0,0,1,8
+Nevada,CP53,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP54,President,,DEM,JOE BIDEN,2,2,0,0,4
+Nevada,CP54,President,,REP,DONALD TRUMP,0,2,0,0,2
+Nevada,CP54,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP54,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP54,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP54,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP54,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP54,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP54,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP54,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP54,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP54,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP54,U.S. House,1,REP,DOUG LAMALFA,0,1,0,0,1
+Nevada,CP54,U.S. House,1,DEM,AUDREY DENNEY,2,3,0,0,5
+Nevada,CP54,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP54,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP54,State Senate,1,DEM,PAMELA DAWN SWARTZ,1,2,0,0,3
+Nevada,CP54,State Senate,1,REP,BRIAN DAHLE,0,2,0,0,2
+Nevada,CP54,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP54,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP54,State Assembly,1,DEM,ELIZABETH L BETANCOURT,1,3,0,0,4
+Nevada,CP54,State Assembly,1,REP,MEGAN DAHLE,0,1,0,0,1
+Nevada,CP54,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP54,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP55,President,,DEM,JOE BIDEN,214,1,3,1,219
+Nevada,CP55,President,,REP,DONALD TRUMP,170,10,10,1,191
+Nevada,CP55,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP55,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP55,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP55,President,,LIB,JO JORGENSEN,6,0,1,0,7
+Nevada,CP55,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP55,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP55,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP55,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP55,President,,,Undervotes:,10,0,1,1,12
+Nevada,CP55,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP55,U.S. House,1,REP,DOUG LAMALFA,173,9,9,1,192
+Nevada,CP55,U.S. House,1,DEM,AUDREY DENNEY,225,2,6,2,235
+Nevada,CP55,U.S. House,1,,Undervotes:,4,0,0,0,4
+Nevada,CP55,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP55,State Senate,1,DEM,PAMELA DAWN SWARTZ,207,2,5,2,216
+Nevada,CP55,State Senate,1,REP,BRIAN DAHLE,184,9,10,1,204
+Nevada,CP55,State Senate,1,,Undervotes:,11,0,0,0,11
+Nevada,CP55,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP55,State Assembly,1,DEM,ELIZABETH L BETANCOURT,208,1,5,1,215
+Nevada,CP55,State Assembly,1,REP,MEGAN DAHLE,183,10,10,2,205
+Nevada,CP55,State Assembly,1,,Undervotes:,11,0,0,0,11
+Nevada,CP55,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP56,President,,DEM,JOE BIDEN,32,1,0,1,34
+Nevada,CP56,President,,REP,DONALD TRUMP,12,3,0,0,15
+Nevada,CP56,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP56,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP56,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP56,President,,LIB,JO JORGENSEN,1,0,0,0,1
+Nevada,CP56,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP56,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP56,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP56,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP56,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP56,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP56,U.S. House,1,REP,DOUG LAMALFA,11,3,0,0,14
+Nevada,CP56,U.S. House,1,DEM,AUDREY DENNEY,34,1,0,1,36
+Nevada,CP56,U.S. House,1,,Undervotes:,1,0,0,0,1
+Nevada,CP56,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP56,State Senate,1,DEM,PAMELA DAWN SWARTZ,29,1,0,1,31
+Nevada,CP56,State Senate,1,REP,BRIAN DAHLE,15,3,0,0,18
+Nevada,CP56,State Senate,1,,Undervotes:,2,0,0,0,2
+Nevada,CP56,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP56,State Assembly,1,DEM,ELIZABETH L BETANCOURT,31,1,0,1,33
+Nevada,CP56,State Assembly,1,REP,MEGAN DAHLE,13,3,0,0,16
+Nevada,CP56,State Assembly,1,,Undervotes:,2,0,0,0,2
+Nevada,CP56,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP57,President,,DEM,JOE BIDEN,352,7,9,0,368
+Nevada,CP57,President,,REP,DONALD TRUMP,295,20,21,3,339
+Nevada,CP57,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP57,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP57,President,,GRN,HOWIE HAWKINS,3,0,0,0,3
+Nevada,CP57,President,,LIB,JO JORGENSEN,12,0,0,0,12
+Nevada,CP57,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP57,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP57,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP57,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP57,President,,,Undervotes:,9,0,0,0,9
+Nevada,CP57,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP57,U.S. House,1,REP,DOUG LAMALFA,302,18,20,3,343
+Nevada,CP57,U.S. House,1,DEM,AUDREY DENNEY,361,7,9,0,377
+Nevada,CP57,U.S. House,1,,Undervotes:,10,2,1,0,13
+Nevada,CP57,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP57,State Senate,1,DEM,PAMELA DAWN SWARTZ,323,7,9,0,339
+Nevada,CP57,State Senate,1,REP,BRIAN DAHLE,334,18,20,3,375
+Nevada,CP57,State Senate,1,,Undervotes:,16,2,1,0,19
+Nevada,CP57,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP57,State Assembly,1,DEM,ELIZABETH L BETANCOURT,342,7,9,1,359
+Nevada,CP57,State Assembly,1,REP,MEGAN DAHLE,315,18,20,2,355
+Nevada,CP57,State Assembly,1,,Undervotes:,16,2,1,0,19
+Nevada,CP57,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP58,President,,DEM,JOE BIDEN,67,4,4,0,75
+Nevada,CP58,President,,REP,DONALD TRUMP,43,5,2,2,52
+Nevada,CP58,President,,PFP,GLORIA LA RIVA,0,0,1,0,1
+Nevada,CP58,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP58,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP58,President,,LIB,JO JORGENSEN,2,1,0,0,3
+Nevada,CP58,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP58,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP58,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP58,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP58,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP58,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP58,U.S. House,1,REP,DOUG LAMALFA,41,5,3,1,50
+Nevada,CP58,U.S. House,1,DEM,AUDREY DENNEY,72,5,3,0,80
+Nevada,CP58,U.S. House,1,,Undervotes:,2,0,1,1,4
+Nevada,CP58,U.S. House,1,,Overvotes:,1,0,0,0,1
+Nevada,CP58,State Senate,1,DEM,PAMELA DAWN SWARTZ,67,4,4,0,75
+Nevada,CP58,State Senate,1,REP,BRIAN DAHLE,45,5,2,1,53
+Nevada,CP58,State Senate,1,,Undervotes:,4,1,1,1,7
+Nevada,CP58,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP58,State Assembly,1,DEM,ELIZABETH L BETANCOURT,70,4,3,0,77
+Nevada,CP58,State Assembly,1,REP,MEGAN DAHLE,44,5,3,1,53
+Nevada,CP58,State Assembly,1,,Undervotes:,2,1,1,1,5
+Nevada,CP58,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP59,President,,DEM,JOE BIDEN,106,5,2,1,114
+Nevada,CP59,President,,REP,DONALD TRUMP,91,2,2,1,96
+Nevada,CP59,President,,PFP,GLORIA LA RIVA,2,0,0,0,2
+Nevada,CP59,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP59,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP59,President,,LIB,JO JORGENSEN,6,0,0,0,6
+Nevada,CP59,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP59,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP59,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP59,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP59,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP59,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP59,U.S. House,1,REP,DOUG LAMALFA,90,2,3,1,96
+Nevada,CP59,U.S. House,1,DEM,AUDREY DENNEY,112,5,1,1,119
+Nevada,CP59,U.S. House,1,,Undervotes:,6,0,0,0,6
+Nevada,CP59,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP59,State Senate,1,DEM,PAMELA DAWN SWARTZ,103,5,2,1,111
+Nevada,CP59,State Senate,1,REP,BRIAN DAHLE,98,2,2,1,103
+Nevada,CP59,State Senate,1,,Undervotes:,7,0,0,0,7
+Nevada,CP59,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP59,State Assembly,1,DEM,ELIZABETH L BETANCOURT,109,5,2,1,117
+Nevada,CP59,State Assembly,1,REP,MEGAN DAHLE,93,1,2,1,97
+Nevada,CP59,State Assembly,1,,Undervotes:,6,1,0,0,7
+Nevada,CP59,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP60,President,,DEM,JOE BIDEN,58,1,1,0,60
+Nevada,CP60,President,,REP,DONALD TRUMP,58,3,0,4,65
+Nevada,CP60,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP60,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP60,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP60,President,,LIB,JO JORGENSEN,2,0,0,0,2
+Nevada,CP60,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP60,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP60,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP60,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP60,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP60,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP60,U.S. House,1,REP,DOUG LAMALFA,59,3,0,4,66
+Nevada,CP60,U.S. House,1,DEM,AUDREY DENNEY,57,1,1,0,59
+Nevada,CP60,U.S. House,1,,Undervotes:,2,0,0,0,2
+Nevada,CP60,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP60,State Senate,1,DEM,PAMELA DAWN SWARTZ,54,1,1,0,56
+Nevada,CP60,State Senate,1,REP,BRIAN DAHLE,62,3,0,4,69
+Nevada,CP60,State Senate,1,,Undervotes:,2,0,0,0,2
+Nevada,CP60,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP60,State Assembly,1,DEM,ELIZABETH L BETANCOURT,58,1,1,0,60
+Nevada,CP60,State Assembly,1,REP,MEGAN DAHLE,58,3,0,4,65
+Nevada,CP60,State Assembly,1,,Undervotes:,2,0,0,0,2
+Nevada,CP60,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP62,President,,DEM,JOE BIDEN,52,4,0,0,56
+Nevada,CP62,President,,REP,DONALD TRUMP,19,3,3,0,25
+Nevada,CP62,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP62,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP62,President,,GRN,HOWIE HAWKINS,2,0,0,0,2
+Nevada,CP62,President,,LIB,JO JORGENSEN,1,0,0,0,1
+Nevada,CP62,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP62,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP62,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP62,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP62,President,,,Undervotes:,2,0,1,0,3
+Nevada,CP62,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP62,U.S. House,1,REP,DOUG LAMALFA,20,3,3,0,26
+Nevada,CP62,U.S. House,1,DEM,AUDREY DENNEY,56,4,1,0,61
+Nevada,CP62,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP62,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP62,State Senate,1,DEM,PAMELA DAWN SWARTZ,54,4,2,0,60
+Nevada,CP62,State Senate,1,REP,BRIAN DAHLE,21,3,2,0,26
+Nevada,CP62,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP62,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP62,State Assembly,1,DEM,ELIZABETH L BETANCOURT,54,4,2,0,60
+Nevada,CP62,State Assembly,1,REP,MEGAN DAHLE,21,3,2,0,26
+Nevada,CP62,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP62,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP63,President,,DEM,JOE BIDEN,69,6,3,2,80
+Nevada,CP63,President,,REP,DONALD TRUMP,65,4,9,1,79
+Nevada,CP63,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP63,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP63,President,,GRN,HOWIE HAWKINS,1,0,1,0,2
+Nevada,CP63,President,,LIB,JO JORGENSEN,3,0,0,0,3
+Nevada,CP63,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP63,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP63,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP63,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP63,President,,,Undervotes:,4,0,0,0,4
+Nevada,CP63,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP63,U.S. House,1,REP,DOUG LAMALFA,68,4,9,1,82
+Nevada,CP63,U.S. House,1,DEM,AUDREY DENNEY,73,6,3,2,84
+Nevada,CP63,U.S. House,1,,Undervotes:,1,0,1,0,2
+Nevada,CP63,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP63,State Senate,1,DEM,PAMELA DAWN SWARTZ,66,6,3,2,77
+Nevada,CP63,State Senate,1,REP,BRIAN DAHLE,73,4,9,1,87
+Nevada,CP63,State Senate,1,,Undervotes:,3,0,1,0,4
+Nevada,CP63,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP63,State Assembly,1,DEM,ELIZABETH L BETANCOURT,65,6,4,2,77
+Nevada,CP63,State Assembly,1,REP,MEGAN DAHLE,75,4,8,1,88
+Nevada,CP63,State Assembly,1,,Undervotes:,2,0,1,0,3
+Nevada,CP63,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP64,President,,DEM,JOE BIDEN,314,5,3,2,324
+Nevada,CP64,President,,REP,DONALD TRUMP,204,12,19,2,237
+Nevada,CP64,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP64,President,,AIP,ROCKY DE LA FUENTE GUERRA,3,0,0,0,3
+Nevada,CP64,President,,GRN,HOWIE HAWKINS,3,0,0,0,3
+Nevada,CP64,President,,LIB,JO JORGENSEN,4,0,1,0,5
+Nevada,CP64,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP64,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP64,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP64,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP64,President,,,Undervotes:,9,0,1,0,10
+Nevada,CP64,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP64,U.S. House,1,REP,DOUG LAMALFA,192,11,18,1,222
+Nevada,CP64,U.S. House,1,DEM,AUDREY DENNEY,332,6,4,3,345
+Nevada,CP64,U.S. House,1,,Undervotes:,13,0,2,0,15
+Nevada,CP64,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP64,State Senate,1,DEM,PAMELA DAWN SWARTZ,293,5,2,2,302
+Nevada,CP64,State Senate,1,REP,BRIAN DAHLE,225,12,19,2,258
+Nevada,CP64,State Senate,1,,Undervotes:,19,0,3,0,22
+Nevada,CP64,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP64,State Assembly,1,DEM,ELIZABETH L BETANCOURT,305,7,5,2,319
+Nevada,CP64,State Assembly,1,REP,MEGAN DAHLE,214,10,18,2,244
+Nevada,CP64,State Assembly,1,,Undervotes:,18,0,1,0,19
+Nevada,CP64,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP65,President,,DEM,JOE BIDEN,"1,045",28,4,10,"1,087"
+Nevada,CP65,President,,REP,DONALD TRUMP,577,44,18,3,642
+Nevada,CP65,President,,PFP,GLORIA LA RIVA,2,0,0,1,3
+Nevada,CP65,President,,AIP,ROCKY DE LA FUENTE GUERRA,6,0,0,0,6
+Nevada,CP65,President,,GRN,HOWIE HAWKINS,5,0,0,0,5
+Nevada,CP65,President,,LIB,JO JORGENSEN,24,0,2,0,26
+Nevada,CP65,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP65,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP65,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP65,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP65,President,,,Undervotes:,38,0,2,0,40
+Nevada,CP65,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP65,U.S. House,1,REP,DOUG LAMALFA,618,41,20,2,681
+Nevada,CP65,U.S. House,1,DEM,AUDREY DENNEY,"1,056",30,5,11,"1,102"
+Nevada,CP65,U.S. House,1,,Undervotes:,23,1,1,1,26
+Nevada,CP65,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP65,State Senate,1,DEM,PAMELA DAWN SWARTZ,964,25,5,10,"1,004"
+Nevada,CP65,State Senate,1,REP,BRIAN DAHLE,688,43,20,3,754
+Nevada,CP65,State Senate,1,,Undervotes:,45,4,1,1,51
+Nevada,CP65,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP65,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,000",27,5,9,"1,041"
+Nevada,CP65,State Assembly,1,REP,MEGAN DAHLE,647,41,20,3,711
+Nevada,CP65,State Assembly,1,,Undervotes:,50,4,1,2,57
+Nevada,CP65,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP66,President,,DEM,JOE BIDEN,,,,,
+Nevada,CP66,President,,REP,DONALD TRUMP,"1,029",32,27,10,"1,098"
+Nevada,CP66,President,,PFP,GLORIA LA RIVA,458,34,18,3,513
+Nevada,CP66,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,1,0,0,2
+Nevada,CP66,President,,GRN,HOWIE HAWKINS,5,0,1,0,6
+Nevada,CP66,President,,LIB,JO JORGENSEN,6,0,1,0,7
+Nevada,CP66,President,,WRI,Brian Carroll (W),16,1,1,1,19
+Nevada,CP66,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP66,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP66,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP66,President,,,Undervotes:,33,1,2,1,37
+Nevada,CP66,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP66,U.S. House,1,REP,DOUG LAMALFA,477,36,20,5,538
+Nevada,CP66,U.S. House,1,DEM,AUDREY DENNEY,"1,047",33,28,10,"1,118"
+Nevada,CP66,U.S. House,1,,Undervotes:,24,0,2,0,26
+Nevada,CP66,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP66,State Senate,1,DEM,PAMELA DAWN SWARTZ,982,31,28,9,"1,050"
+Nevada,CP66,State Senate,1,REP,BRIAN DAHLE,528,38,18,5,589
+Nevada,CP66,State Senate,1,,Undervotes:,38,0,4,1,43
+Nevada,CP66,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP66,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,007",34,28,9,"1,078"
+Nevada,CP66,State Assembly,1,REP,MEGAN DAHLE,504,35,19,6,564
+Nevada,CP66,State Assembly,1,,Undervotes:,37,0,3,0,40
+Nevada,CP66,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP67,President,,DEM,JOE BIDEN,433,13,4,2,452
+Nevada,CP67,President,,REP,DONALD TRUMP,151,10,6,5,172
+Nevada,CP67,President,,PFP,GLORIA LA RIVA,4,0,0,0,4
+Nevada,CP67,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP67,President,,GRN,HOWIE HAWKINS,1,0,0,0,1
+Nevada,CP67,President,,LIB,JO JORGENSEN,3,0,0,0,3
+Nevada,CP67,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP67,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP67,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP67,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP67,President,,,Undervotes:,6,0,1,0,7
+Nevada,CP67,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP67,U.S. House,1,REP,DOUG LAMALFA,148,9,6,4,167
+Nevada,CP67,U.S. House,1,DEM,AUDREY DENNEY,445,14,4,2,465
+Nevada,CP67,U.S. House,1,,Undervotes:,5,0,1,1,7
+Nevada,CP67,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP67,State Senate,1,DEM,PAMELA DAWN SWARTZ,426,14,3,1,444
+Nevada,CP67,State Senate,1,REP,BRIAN DAHLE,162,9,6,5,182
+Nevada,CP67,State Senate,1,,Undervotes:,10,0,2,1,13
+Nevada,CP67,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP67,State Assembly,1,DEM,ELIZABETH L BETANCOURT,430,13,4,0,447
+Nevada,CP67,State Assembly,1,REP,MEGAN DAHLE,157,10,4,6,177
+Nevada,CP67,State Assembly,1,,Undervotes:,11,0,3,1,15
+Nevada,CP67,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP68,President,,DEM,JOE BIDEN,"1,340",29,15,11,"1,395"
+Nevada,CP68,President,,REP,DONALD TRUMP,608,35,31,6,680
+Nevada,CP68,President,,PFP,GLORIA LA RIVA,3,0,0,0,3
+Nevada,CP68,President,,AIP,ROCKY DE LA FUENTE GUERRA,7,0,0,0,7
+Nevada,CP68,President,,GRN,HOWIE HAWKINS,18,1,0,0,19
+Nevada,CP68,President,,LIB,JO JORGENSEN,16,0,1,0,17
+Nevada,CP68,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP68,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP68,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP68,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP68,President,,,Undervotes:,39,1,1,0,41
+Nevada,CP68,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP68,U.S. House,1,REP,DOUG LAMALFA,638,34,28,6,706
+Nevada,CP68,U.S. House,1,DEM,AUDREY DENNEY,"1,371",30,19,9,"1,429"
+Nevada,CP68,U.S. House,1,,Undervotes:,23,2,1,2,28
+Nevada,CP68,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP68,State Senate,1,DEM,PAMELA DAWN SWARTZ,"1,271",30,14,8,"1,323"
+Nevada,CP68,State Senate,1,REP,BRIAN DAHLE,721,35,29,7,792
+Nevada,CP68,State Senate,1,,Undervotes:,40,1,5,2,48
+Nevada,CP68,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP68,State Assembly,1,DEM,ELIZABETH L BETANCOURT,"1,308",30,14,9,"1,361"
+Nevada,CP68,State Assembly,1,REP,MEGAN DAHLE,683,34,29,6,752
+Nevada,CP68,State Assembly,1,,Undervotes:,41,2,5,2,50
+Nevada,CP68,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP69,President,,DEM,JOE BIDEN,38,2,0,1,41
+Nevada,CP69,President,,REP,DONALD TRUMP,20,2,2,0,24
+Nevada,CP69,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP69,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP69,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP69,President,,LIB,JO JORGENSEN,3,0,0,0,3
+Nevada,CP69,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP69,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP69,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP69,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP69,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP69,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP69,U.S. House,1,REP,DOUG LAMALFA,22,2,0,0,24
+Nevada,CP69,U.S. House,1,DEM,AUDREY DENNEY,41,1,2,1,45
+Nevada,CP69,U.S. House,1,,Undervotes:,1,1,0,0,2
+Nevada,CP69,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP69,State Senate,1,DEM,PAMELA DAWN SWARTZ,41,1,1,1,44
+Nevada,CP69,State Senate,1,REP,BRIAN DAHLE,22,2,1,0,25
+Nevada,CP69,State Senate,1,,Undervotes:,1,1,0,0,2
+Nevada,CP69,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP69,State Assembly,1,DEM,ELIZABETH L BETANCOURT,39,1,1,1,42
+Nevada,CP69,State Assembly,1,REP,MEGAN DAHLE,23,2,1,0,26
+Nevada,CP69,State Assembly,1,,Undervotes:,2,1,0,0,3
+Nevada,CP69,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP70,President,,DEM,JOE BIDEN,767,29,27,5,828
+Nevada,CP70,President,,REP,DONALD TRUMP,596,39,42,6,683
+Nevada,CP70,President,,PFP,GLORIA LA RIVA,2,0,0,0,2
+Nevada,CP70,President,,AIP,ROCKY DE LA FUENTE GUERRA,3,0,0,0,3
+Nevada,CP70,President,,GRN,HOWIE HAWKINS,14,0,0,0,14
+Nevada,CP70,President,,LIB,JO JORGENSEN,22,0,1,0,23
+Nevada,CP70,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP70,President,,WRI,Brock Pierce (W),1,0,0,0,1
+Nevada,CP70,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP70,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP70,President,,,Undervotes:,22,1,1,0,24
+Nevada,CP70,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP70,U.S. House,1,REP,DOUG LAMALFA,601,39,34,4,678
+Nevada,CP70,U.S. House,1,DEM,AUDREY DENNEY,800,29,32,6,867
+Nevada,CP70,U.S. House,1,,Undervotes:,26,1,5,1,33
+Nevada,CP70,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP70,State Senate,1,DEM,PAMELA DAWN SWARTZ,742,31,26,6,805
+Nevada,CP70,State Senate,1,REP,BRIAN DAHLE,649,37,39,4,729
+Nevada,CP70,State Senate,1,,Undervotes:,36,1,6,1,44
+Nevada,CP70,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP70,State Assembly,1,DEM,ELIZABETH L BETANCOURT,766,30,23,5,824
+Nevada,CP70,State Assembly,1,REP,MEGAN DAHLE,620,37,41,5,703
+Nevada,CP70,State Assembly,1,,Undervotes:,41,2,7,1,51
+Nevada,CP70,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP71,President,,DEM,JOE BIDEN,26,4,0,0,30
+Nevada,CP71,President,,REP,DONALD TRUMP,13,0,1,0,14
+Nevada,CP71,President,,PFP,GLORIA LA RIVA,1,0,0,1,2
+Nevada,CP71,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP71,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP71,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP71,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP71,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP71,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP71,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP71,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP71,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP71,U.S. House,1,REP,DOUG LAMALFA,10,0,0,0,10
+Nevada,CP71,U.S. House,1,DEM,AUDREY DENNEY,30,3,1,0,34
+Nevada,CP71,U.S. House,1,,Undervotes:,0,1,0,1,2
+Nevada,CP71,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP71,State Senate,1,DEM,PAMELA DAWN SWARTZ,29,3,0,0,32
+Nevada,CP71,State Senate,1,REP,BRIAN DAHLE,11,0,1,1,13
+Nevada,CP71,State Senate,1,,Undervotes:,0,1,0,0,1
+Nevada,CP71,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP71,State Assembly,1,DEM,ELIZABETH L BETANCOURT,29,3,0,0,32
+Nevada,CP71,State Assembly,1,REP,MEGAN DAHLE,11,0,1,1,13
+Nevada,CP71,State Assembly,1,,Undervotes:,0,1,0,0,1
+Nevada,CP71,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP72,President,,DEM,JOE BIDEN,920,22,58,10,"1,010"
+Nevada,CP72,President,,REP,DONALD TRUMP,208,10,40,8,266
+Nevada,CP72,President,,PFP,GLORIA LA RIVA,5,0,0,0,5
+Nevada,CP72,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,1,0,2
+Nevada,CP72,President,,GRN,HOWIE HAWKINS,12,0,2,1,15
+Nevada,CP72,President,,LIB,JO JORGENSEN,14,0,4,0,18
+Nevada,CP72,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP72,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP72,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP72,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP72,President,,,Undervotes:,6,0,0,0,6
+Nevada,CP72,President,,,Overvotes:,1,0,0,0,1
+Nevada,CP72,U.S. House,1,REP,DOUG LAMALFA,208,9,34,8,259
+Nevada,CP72,U.S. House,1,DEM,AUDREY DENNEY,948,21,66,11,"1,046"
+Nevada,CP72,U.S. House,1,,Undervotes:,10,2,5,0,17
+Nevada,CP72,U.S. House,1,,Overvotes:,1,0,0,0,1
+Nevada,CP72,State Senate,1,DEM,PAMELA DAWN SWARTZ,910,21,61,11,"1,003"
+Nevada,CP72,State Senate,1,REP,BRIAN DAHLE,234,9,39,8,290
+Nevada,CP72,State Senate,1,,Undervotes:,23,2,5,0,30
+Nevada,CP72,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP72,State Assembly,1,DEM,ELIZABETH L BETANCOURT,928,21,63,11,"1,023"
+Nevada,CP72,State Assembly,1,REP,MEGAN DAHLE,214,9,36,8,267
+Nevada,CP72,State Assembly,1,,Undervotes:,25,2,6,0,33
+Nevada,CP72,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP73,President,,DEM,JOE BIDEN,47,0,1,4,52
+Nevada,CP73,President,,REP,DONALD TRUMP,45,1,4,3,53
+Nevada,CP73,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP73,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP73,President,,GRN,HOWIE HAWKINS,1,0,0,1,2
+Nevada,CP73,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP73,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP73,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP73,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP73,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP73,President,,,Undervotes:,2,0,0,0,2
+Nevada,CP73,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP73,U.S. House,1,REP,DOUG LAMALFA,45,1,4,1,51
+Nevada,CP73,U.S. House,1,DEM,AUDREY DENNEY,48,0,1,6,55
+Nevada,CP73,U.S. House,1,,Undervotes:,2,0,0,1,3
+Nevada,CP73,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP73,State Senate,1,DEM,PAMELA DAWN SWARTZ,43,0,1,5,49
+Nevada,CP73,State Senate,1,REP,BRIAN DAHLE,49,1,4,2,56
+Nevada,CP73,State Senate,1,,Undervotes:,3,0,0,1,4
+Nevada,CP73,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP73,State Assembly,1,DEM,ELIZABETH L BETANCOURT,47,0,1,5,53
+Nevada,CP73,State Assembly,1,REP,MEGAN DAHLE,45,1,4,2,52
+Nevada,CP73,State Assembly,1,,Undervotes:,3,0,0,1,4
+Nevada,CP73,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP76,President,,DEM,JOE BIDEN,178,4,8,7,197
+Nevada,CP76,President,,REP,DONALD TRUMP,95,5,4,4,108
+Nevada,CP76,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP76,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP76,President,,GRN,HOWIE HAWKINS,3,0,0,0,3
+Nevada,CP76,President,,LIB,JO JORGENSEN,6,0,3,0,9
+Nevada,CP76,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP76,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP76,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP76,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP76,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP76,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP76,U.S. House,1,REP,DOUG LAMALFA,103,5,6,3,117
+Nevada,CP76,U.S. House,1,DEM,AUDREY DENNEY,177,4,8,7,196
+Nevada,CP76,U.S. House,1,,Undervotes:,4,0,1,1,6
+Nevada,CP76,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP76,State Senate,1,DEM,PAMELA DAWN SWARTZ,163,4,8,7,182
+Nevada,CP76,State Senate,1,REP,BRIAN DAHLE,116,5,5,3,129
+Nevada,CP76,State Senate,1,,Undervotes:,5,0,2,1,8
+Nevada,CP76,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP76,State Assembly,1,DEM,ELIZABETH L BETANCOURT,171,4,8,8,191
+Nevada,CP76,State Assembly,1,REP,MEGAN DAHLE,110,5,5,2,122
+Nevada,CP76,State Assembly,1,,Undervotes:,3,0,2,1,6
+Nevada,CP76,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP77,President,,DEM,JOE BIDEN,26,0,2,1,29
+Nevada,CP77,President,,REP,DONALD TRUMP,36,0,0,1,37
+Nevada,CP77,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP77,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP77,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP77,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP77,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP77,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP77,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP77,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP77,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP77,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP77,U.S. House,4,REP,TOM MCCLINTOCK,35,0,0,1,36
+Nevada,CP77,U.S. House,4,DEM,BRYNNE S. KENNEDY,28,0,1,1,30
+Nevada,CP77,U.S. House,4,,Undervotes:,0,0,1,0,1
+Nevada,CP77,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP77,State Senate,1,DEM,PAMELA DAWN SWARTZ,25,0,1,1,27
+Nevada,CP77,State Senate,1,REP,BRIAN DAHLE,38,0,0,1,39
+Nevada,CP77,State Senate,1,,Undervotes:,0,0,1,0,1
+Nevada,CP77,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP77,State Assembly,1,DEM,ELIZABETH L BETANCOURT,29,0,2,1,32
+Nevada,CP77,State Assembly,1,REP,MEGAN DAHLE,34,0,0,1,35
+Nevada,CP77,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP77,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP78,President,,DEM,JOE BIDEN,50,0,0,0,50
+Nevada,CP78,President,,REP,DONALD TRUMP,7,1,0,0,8
+Nevada,CP78,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP78,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP78,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP78,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP78,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP78,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP78,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP78,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP78,President,,,Undervotes:,2,0,0,0,2
+Nevada,CP78,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP78,U.S. House,4,REP,TOM MCCLINTOCK,10,1,0,0,11
+Nevada,CP78,U.S. House,4,DEM,BRYNNE S. KENNEDY,50,0,0,0,50
+Nevada,CP78,U.S. House,4,,Undervotes:,0,0,0,0,0
+Nevada,CP78,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP78,State Senate,1,DEM,PAMELA DAWN SWARTZ,49,0,0,0,49
+Nevada,CP78,State Senate,1,REP,BRIAN DAHLE,10,1,0,0,11
+Nevada,CP78,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP78,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP78,State Assembly,1,DEM,ELIZABETH L BETANCOURT,50,0,0,0,50
+Nevada,CP78,State Assembly,1,REP,MEGAN DAHLE,10,1,0,0,11
+Nevada,CP78,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP78,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP79,President,,DEM,JOE BIDEN,4,1,0,0,5
+Nevada,CP79,President,,REP,DONALD TRUMP,3,0,0,0,3
+Nevada,CP79,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP79,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP79,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP79,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP79,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP79,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP79,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP79,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP79,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP79,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP79,U.S. House,4,REP,TOM MCCLINTOCK,3,0,0,0,3
+Nevada,CP79,U.S. House,4,DEM,BRYNNE S. KENNEDY,4,1,0,0,5
+Nevada,CP79,U.S. House,4,,Undervotes:,0,0,0,0,0
+Nevada,CP79,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP79,State Senate,1,DEM,PAMELA DAWN SWARTZ,3,1,0,0,4
+Nevada,CP79,State Senate,1,REP,BRIAN DAHLE,3,0,0,0,3
+Nevada,CP79,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP79,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP79,State Assembly,1,DEM,ELIZABETH L BETANCOURT,4,1,0,0,5
+Nevada,CP79,State Assembly,1,REP,MEGAN DAHLE,3,0,0,0,3
+Nevada,CP79,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP79,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP80,President,,DEM,JOE BIDEN,10,2,1,1,14
+Nevada,CP80,President,,REP,DONALD TRUMP,11,0,0,1,12
+Nevada,CP80,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP80,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP80,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP80,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP80,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP80,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP80,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP80,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP80,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP80,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP80,U.S. House,4,,TOM MCCLINTOCK,12,0,0,1,13
+Nevada,CP80,U.S. House,4,,BRYNNE S. KENNEDY,10,2,0,1,13
+Nevada,CP80,U.S. House,4,,Undervotes:,0,0,1,0,1
+Nevada,CP80,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP80,State Senate,1,DEM,PAMELA DAWN SWARTZ,9,2,0,1,12
+Nevada,CP80,State Senate,1,REP,BRIAN DAHLE,13,0,0,1,14
+Nevada,CP80,State Senate,1,,Undervotes:,0,0,1,0,1
+Nevada,CP80,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP80,State Assembly,1,DEM,ELIZABETH L BETANCOURT,10,2,0,1,13
+Nevada,CP80,State Assembly,1,REP,MEGAN DAHLE,12,0,0,1,13
+Nevada,CP80,State Assembly,1,,Undervotes:,0,0,1,0,1
+Nevada,CP80,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP86,President,,DEM,JOE BIDEN,21,1,0,0,22
+Nevada,CP86,President,,REP,DONALD TRUMP,26,2,1,0,29
+Nevada,CP86,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP86,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP86,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP86,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP86,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP86,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP86,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP86,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP86,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP86,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP86,U.S. House,1,REP,DOUG LAMALFA,27,2,1,0,30
+Nevada,CP86,U.S. House,1,DEM,AUDREY DENNEY,20,1,0,0,21
+Nevada,CP86,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP86,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP86,State Senate,1,DEM,PAMELA DAWN SWARTZ,22,1,0,0,23
+Nevada,CP86,State Senate,1,REP,BRIAN DAHLE,25,2,1,0,28
+Nevada,CP86,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP86,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP86,State Assembly,1,DEM,ELIZABETH L BETANCOURT,23,1,0,0,24
+Nevada,CP86,State Assembly,1,REP,MEGAN DAHLE,24,2,1,0,27
+Nevada,CP86,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP86,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP87,President,,DEM,JOE BIDEN,5,0,0,0,5
+Nevada,CP87,President,,REP,DONALD TRUMP,1,1,0,2,4
+Nevada,CP87,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP87,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP87,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP87,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP87,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP87,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP87,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP87,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP87,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP87,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP87,U.S. House,1,REP,DOUG LAMALFA,1,1,0,2,4
+Nevada,CP87,U.S. House,1,DEM,AUDREY DENNEY,5,0,0,0,5
+Nevada,CP87,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP87,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP87,State Senate,1,DEM,PAMELA DAWN SWARTZ,5,0,0,0,5
+Nevada,CP87,State Senate,1,REP,BRIAN DAHLE,1,1,0,2,4
+Nevada,CP87,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP87,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP87,State Assembly,1,DEM,ELIZABETH L BETANCOURT,5,0,0,0,5
+Nevada,CP87,State Assembly,1,REP,MEGAN DAHLE,1,1,0,2,4
+Nevada,CP87,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP87,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP88,President,,DEM,JOE BIDEN,7,0,0,0,7
+Nevada,CP88,President,,REP,DONALD TRUMP,1,0,0,0,1
+Nevada,CP88,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP88,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP88,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP88,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP88,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP88,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP88,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP88,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP88,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP88,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP88,U.S. House,1,REP,DOUG LAMALFA,3,0,0,0,3
+Nevada,CP88,U.S. House,1,DEM,AUDREY DENNEY,6,0,0,0,6
+Nevada,CP88,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP88,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP88,State Senate,1,DEM,PAMELA DAWN SWARTZ,6,0,0,0,6
+Nevada,CP88,State Senate,1,REP,BRIAN DAHLE,3,0,0,0,3
+Nevada,CP88,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP88,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP88,State Assembly,1,DEM,ELIZABETH L BETANCOURT,5,0,0,0,5
+Nevada,CP88,State Assembly,1,REP,MEGAN DAHLE,4,0,0,0,4
+Nevada,CP88,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP88,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP89,President,,DEM,JOE BIDEN,56,1,1,0,58
+Nevada,CP89,President,,REP,DONALD TRUMP,49,1,0,0,50
+Nevada,CP89,President,,PFP,GLORIA LA RIVA,1,1,0,0,2
+Nevada,CP89,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP89,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP89,President,,LIB,JO JORGENSEN,3,0,0,0,3
+Nevada,CP89,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP89,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP89,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP89,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP89,President,,,Undervotes:,4,0,0,0,4
+Nevada,CP89,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP89,U.S. House,1,REP,DOUG LAMALFA,58,1,0,0,59
+Nevada,CP89,U.S. House,1,DEM,AUDREY DENNEY,55,2,1,0,58
+Nevada,CP89,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP89,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP89,State Senate,1,DEM,PAMELA DAWN SWARTZ,50,2,1,0,53
+Nevada,CP89,State Senate,1,REP,BRIAN DAHLE,62,1,0,0,63
+Nevada,CP89,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP89,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP89,State Assembly,1,DEM,ELIZABETH L BETANCOURT,52,2,1,0,55
+Nevada,CP89,State Assembly,1,REP,MEGAN DAHLE,60,1,0,0,61
+Nevada,CP89,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP89,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP90,President,,DEM,JOE BIDEN,0,0,0,0,0
+Nevada,CP90,President,,REP,DONALD TRUMP,1,0,0,0,1
+Nevada,CP90,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP90,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP90,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP90,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP90,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP90,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP90,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP90,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP90,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP90,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP90,U.S. House,1,REP,DOUG LAMALFA,1,0,0,0,1
+Nevada,CP90,U.S. House,1,DEM,AUDREY DENNEY,0,0,0,0,0
+Nevada,CP90,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP90,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP90,State Senate,1,DEM,PAMELA DAWN SWARTZ,0,0,0,0,0
+Nevada,CP90,State Senate,1,REP,BRIAN DAHLE,1,0,0,0,1
+Nevada,CP90,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP90,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP90,State Assembly,1,DEM,ELIZABETH L BETANCOURT,0,0,0,0,0
+Nevada,CP90,State Assembly,1,REP,MEGAN DAHLE,1,0,0,0,1
+Nevada,CP90,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP90,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP92,President,,DEM,JOE BIDEN,49,3,1,0,53
+Nevada,CP92,President,,REP,DONALD TRUMP,47,5,7,0,59
+Nevada,CP92,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP92,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP92,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP92,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP92,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP92,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP92,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP92,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP92,President,,,Undervotes:,97,8,8,0,113
+Nevada,CP92,President,,,Overvotes:,2,0,0,0,2
+Nevada,CP92,U.S. House,1,REP,DOUG LAMALFA,48,6,6,0,60
+Nevada,CP92,U.S. House,1,DEM,AUDREY DENNEY,51,2,2,0,55
+Nevada,CP92,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP92,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP92,State Senate,1,DEM,PAMELA DAWN SWARTZ,48,3,1,0,52
+Nevada,CP92,State Senate,1,REP,BRIAN DAHLE,50,5,7,0,62
+Nevada,CP92,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP92,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP92,State Assembly,1,DEM,ELIZABETH L BETANCOURT,51,3,2,0,56
+Nevada,CP92,State Assembly,1,REP,MEGAN DAHLE,47,5,6,0,58
+Nevada,CP92,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP92,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP94,President,,DEM,JOE BIDEN,96,3,3,2,104
+Nevada,CP94,President,,REP,DONALD TRUMP,125,11,1,2,139
+Nevada,CP94,President,,PFP,GLORIA LA RIVA,2,0,0,0,2
+Nevada,CP94,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP94,President,,GRN,HOWIE HAWKINS,1,0,0,0,1
+Nevada,CP94,President,,LIB,JO JORGENSEN,4,0,0,0,4
+Nevada,CP94,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP94,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP94,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP94,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP94,President,,,Undervotes:,3,0,1,0,4
+Nevada,CP94,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP94,U.S. House,1,,DOUG LAMALFA,125,10,1,1,137
+Nevada,CP94,U.S. House,1,,AUDREY DENNEY,99,3,4,3,109
+Nevada,CP94,U.S. House,1,,Undervotes:,8,1,0,0,9
+Nevada,CP94,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP94,State Senate,1,DEM,PAMELA DAWN SWARTZ,90,3,3,2,98
+Nevada,CP94,State Senate,1,REP,BRIAN DAHLE,133,10,2,2,147
+Nevada,CP94,State Senate,1,,Undervotes:,9,1,0,0,10
+Nevada,CP94,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP94,State Assembly,1,DEM,ELIZABETH L BETANCOURT,99,3,3,2,107
+Nevada,CP94,State Assembly,1,REP,MEGAN DAHLE,124,10,2,2,138
+Nevada,CP94,State Assembly,1,,Undervotes:,9,1,0,0,10
+Nevada,CP94,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP95,President,,DEM,JOE BIDEN,208,1,2,0,211
+Nevada,CP95,President,,REP,DONALD TRUMP,245,22,17,6,290
+Nevada,CP95,President,,PFP,GLORIA LA RIVA,0,0,0,1,1
+Nevada,CP95,President,,AIP,ROCKY DE LA FUENTE GUERRA,2,0,0,0,2
+Nevada,CP95,President,,GRN,HOWIE HAWKINS,3,0,0,0,3
+Nevada,CP95,President,,LIB,JO JORGENSEN,8,1,1,0,10
+Nevada,CP95,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP95,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP95,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP95,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP95,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP95,President,,,Overvotes:,8,0,0,0,8
+Nevada,CP95,U.S. House,1,REP,DOUG LAMALFA,248,23,16,5,292
+Nevada,CP95,U.S. House,1,DEM,AUDREY DENNEY,221,1,3,0,225
+Nevada,CP95,U.S. House,1,,Undervotes:,5,0,1,2,8
+Nevada,CP95,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP95,State Senate,1,DEM,PAMELA DAWN SWARTZ,198,1,2,0,201
+Nevada,CP95,State Senate,1,REP,BRIAN DAHLE,265,23,16,5,309
+Nevada,CP95,State Senate,1,,Undervotes:,11,0,2,2,15
+Nevada,CP95,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP95,State Assembly,1,DEM,ELIZABETH L BETANCOURT,212,1,1,0,214
+Nevada,CP95,State Assembly,1,REP,MEGAN DAHLE,250,23,17,4,294
+Nevada,CP95,State Assembly,1,,Undervotes:,12,0,2,3,17
+Nevada,CP95,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP98,President,,DEM,JOE BIDEN,55,2,1,0,58
+Nevada,CP98,President,,REP,DONALD TRUMP,68,3,6,1,78
+Nevada,CP98,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP98,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP98,President,,GRN,HOWIE HAWKINS,1,0,0,0,1
+Nevada,CP98,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP98,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP98,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP98,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP98,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP98,President,,,Undervotes:,2,0,0,0,2
+Nevada,CP98,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP98,U.S. House,1,REP,DOUG LAMALFA,73,3,4,1,81
+Nevada,CP98,U.S. House,1,DEM,AUDREY DENNEY,51,2,3,0,56
+Nevada,CP98,U.S. House,1,,Undervotes:,2,0,0,0,2
+Nevada,CP98,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP98,State Senate,1,DEM,PAMELA DAWN SWARTZ,48,2,3,1,54
+Nevada,CP98,State Senate,1,REP,BRIAN DAHLE,75,3,4,0,82
+Nevada,CP98,State Senate,1,,Undervotes:,3,0,0,0,3
+Nevada,CP98,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP98,State Assembly,1,DEM,ELIZABETH L BETANCOURT,48,2,2,0,52
+Nevada,CP98,State Assembly,1,REP,MEGAN DAHLE,75,3,5,1,84
+Nevada,CP98,State Assembly,1,,Undervotes:,3,0,0,0,3
+Nevada,CP98,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP99,President,,DEM,JOE BIDEN,5,0,0,0,5
+Nevada,CP99,President,,REP,DONALD TRUMP,2,0,0,1,3
+Nevada,CP99,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP99,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP99,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP99,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP99,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP99,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP99,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP99,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP99,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP99,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP99,U.S. House,1,REP,DOUG LAMALFA,3,0,0,1,4
+Nevada,CP99,U.S. House,1,DEM,AUDREY DENNEY,4,0,0,0,4
+Nevada,CP99,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP99,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP99,State Senate,1,DEM,PAMELA DAWN SWARTZ,4,0,0,0,4
+Nevada,CP99,State Senate,1,REP,BRIAN DAHLE,3,0,0,1,4
+Nevada,CP99,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP99,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP99,State Assembly,1,DEM,ELIZABETH L BETANCOURT,5,0,0,0,5
+Nevada,CP99,State Assembly,1,REP,MEGAN DAHLE,2,0,0,1,3
+Nevada,CP99,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP99,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP101,President,,DEM,JOE BIDEN,218,7,3,1,229
+Nevada,CP101,President,,REP,DONALD TRUMP,204,14,15,1,234
+Nevada,CP101,President,,PFP,GLORIA LA RIVA,1,0,0,0,1
+Nevada,CP101,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP101,President,,GRN,HOWIE HAWKINS,2,0,1,0,3
+Nevada,CP101,President,,LIB,JO JORGENSEN,7,0,1,0,8
+Nevada,CP101,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP101,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP101,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP101,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP101,President,,,Undervotes:,14,0,0,0,14
+Nevada,CP101,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP101,U.S. House,1,REP,DOUG LAMALFA,211,13,15,1,240
+Nevada,CP101,U.S. House,1,DEM,AUDREY DENNEY,228,8,4,1,241
+Nevada,CP101,U.S. House,1,,Undervotes:,8,0,1,0,9
+Nevada,CP101,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP101,State Senate,1,DEM,PAMELA DAWN SWARTZ,205,8,3,0,216
+Nevada,CP101,State Senate,1,REP,BRIAN DAHLE,232,13,14,1,260
+Nevada,CP101,State Senate,1,,Undervotes:,10,0,3,1,14
+Nevada,CP101,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP101,State Assembly,1,DEM,ELIZABETH L BETANCOURT,217,8,4,0,229
+Nevada,CP101,State Assembly,1,REP,MEGAN DAHLE,221,13,14,1,249
+Nevada,CP101,State Assembly,1,,Undervotes:,9,0,2,1,12
+Nevada,CP101,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP102,President,,DEM,JOE BIDEN,21,2,0,0,23
+Nevada,CP102,President,,REP,DONALD TRUMP,12,0,2,0,14
+Nevada,CP102,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP102,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP102,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP102,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP102,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP102,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP102,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP102,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP102,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP102,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP102,U.S. House,1,REP,DOUG LAMALFA,13,0,2,0,15
+Nevada,CP102,U.S. House,1,DEM,AUDREY DENNEY,20,2,0,0,22
+Nevada,CP102,U.S. House,1,,Undervotes:,1,0,0,0,1
+Nevada,CP102,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP102,State Senate,1,DEM,PAMELA DAWN SWARTZ,19,2,0,0,21
+Nevada,CP102,State Senate,1,REP,BRIAN DAHLE,13,0,2,0,15
+Nevada,CP102,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP102,State Senate,1,,Overvotes:,1,0,0,0,1
+Nevada,CP102,State Assembly,1,DEM,ELIZABETH L BETANCOURT,19,2,0,0,21
+Nevada,CP102,State Assembly,1,REP,MEGAN DAHLE,14,0,2,0,16
+Nevada,CP102,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP102,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP103,President,,DEM,JOE BIDEN,106,2,2,0,110
+Nevada,CP103,President,,REP,DONALD TRUMP,60,4,2,1,67
+Nevada,CP103,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP103,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP103,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP103,President,,LIB,JO JORGENSEN,3,0,0,0,3
+Nevada,CP103,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP103,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP103,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP103,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP103,President,,,Undervotes:,3,0,0,0,3
+Nevada,CP103,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP103,U.S. House,1,REP,DOUG LAMALFA,63,4,2,1,70
+Nevada,CP103,U.S. House,1,DEM,AUDREY DENNEY,107,2,2,0,111
+Nevada,CP103,U.S. House,1,,Undervotes:,2,0,0,0,2
+Nevada,CP103,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP103,State Senate,1,DEM,PAMELA DAWN SWARTZ,97,2,2,0,101
+Nevada,CP103,State Senate,1,REP,BRIAN DAHLE,73,4,2,1,80
+Nevada,CP103,State Senate,1,,Undervotes:,2,0,0,0,2
+Nevada,CP103,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP103,State Assembly,1,DEM,ELIZABETH L BETANCOURT,97,2,2,0,101
+Nevada,CP103,State Assembly,1,REP,MEGAN DAHLE,72,4,2,1,79
+Nevada,CP103,State Assembly,1,,Undervotes:,3,0,0,0,3
+Nevada,CP103,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP104,President,,DEM,JOE BIDEN,11,0,1,0,12
+Nevada,CP104,President,,REP,DONALD TRUMP,13,0,0,0,13
+Nevada,CP104,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP104,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP104,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP104,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP104,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP104,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP104,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP104,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP104,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP104,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP104,U.S. House,1,REP,DOUG LAMALFA,13,0,0,0,13
+Nevada,CP104,U.S. House,1,DEM,AUDREY DENNEY,11,0,1,0,12
+Nevada,CP104,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP104,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP104,State Senate,1,DEM,PAMELA DAWN SWARTZ,11,0,1,0,12
+Nevada,CP104,State Senate,1,REP,BRIAN DAHLE,13,0,0,0,13
+Nevada,CP104,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP104,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP104,State Assembly,1,DEM,ELIZABETH L BETANCOURT,11,0,1,0,12
+Nevada,CP104,State Assembly,1,REP,MEGAN DAHLE,13,0,0,0,13
+Nevada,CP104,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP104,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP105,President,,DEM,JOE BIDEN,504,17,12,3,536
+Nevada,CP105,President,,REP,DONALD TRUMP,288,20,12,7,327
+Nevada,CP105,President,,PFP,GLORIA LA RIVA,2,1,0,0,3
+Nevada,CP105,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP105,President,,GRN,HOWIE HAWKINS,3,0,1,1,5
+Nevada,CP105,President,,LIB,JO JORGENSEN,14,2,1,0,17
+Nevada,CP105,President,,WRI,Brian Carroll (W),2,0,0,0,2
+Nevada,CP105,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP105,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP105,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP105,President,,,Undervotes:,21,0,0,0,21
+Nevada,CP105,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP105,U.S. House,1,REP,DOUG LAMALFA,298,21,11,7,337
+Nevada,CP105,U.S. House,1,DEM,AUDREY DENNEY,527,19,15,4,565
+Nevada,CP105,U.S. House,1,,Undervotes:,10,0,0,0,10
+Nevada,CP105,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP105,State Senate,1,DEM,PAMELA DAWN SWARTZ,489,19,11,3,522
+Nevada,CP105,State Senate,1,REP,BRIAN DAHLE,326,21,15,8,370
+Nevada,CP105,State Senate,1,,Undervotes:,20,0,0,0,20
+Nevada,CP105,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP105,State Assembly,1,DEM,ELIZABETH L BETANCOURT,505,18,12,3,538
+Nevada,CP105,State Assembly,1,REP,MEGAN DAHLE,313,22,13,8,356
+Nevada,CP105,State Assembly,1,,Undervotes:,17,0,1,0,18
+Nevada,CP105,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP107,President,,DEM,JOE BIDEN,1,0,0,0,1
+Nevada,CP107,President,,REP,DONALD TRUMP,3,0,0,0,3
+Nevada,CP107,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP107,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP107,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP107,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP107,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP107,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP107,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP107,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP107,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP107,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP107,U.S. House,1,,DOUG LAMALFA,3,0,0,0,3
+Nevada,CP107,U.S. House,1,,AUDREY DENNEY,2,0,0,0,2
+Nevada,CP107,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP107,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP107,State Senate,1,DEM,PAMELA DAWN SWARTZ,2,0,0,0,2
+Nevada,CP107,State Senate,1,REP,BRIAN DAHLE,3,0,0,0,3
+Nevada,CP107,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP107,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP107,State Assembly,1,DEM,ELIZABETH L BETANCOURT,2,0,0,0,2
+Nevada,CP107,State Assembly,1,REP,MEGAN DAHLE,3,0,0,0,3
+Nevada,CP107,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP107,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP108,President,,DEM,JOE BIDEN,7,0,0,0,7
+Nevada,CP108,President,,REP,DONALD TRUMP,5,0,0,0,5
+Nevada,CP108,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP108,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP108,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP108,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP108,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP108,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP108,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP108,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP108,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP108,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP108,U.S. House,1,REP,DOUG LAMALFA,5,0,0,0,5
+Nevada,CP108,U.S. House,1,DEM,AUDREY DENNEY,7,0,0,0,7
+Nevada,CP108,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP108,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP108,State Senate,1,DEM,PAMELA DAWN SWARTZ,6,0,0,0,6
+Nevada,CP108,State Senate,1,REP,BRIAN DAHLE,4,0,0,0,4
+Nevada,CP108,State Senate,1,,Undervotes:,2,0,0,0,2
+Nevada,CP108,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP108,State Assembly,1,DEM,ELIZABETH L BETANCOURT,6,0,0,0,6
+Nevada,CP108,State Assembly,1,REP,MEGAN DAHLE,5,0,0,0,5
+Nevada,CP108,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP108,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP109,President,,DEM,JOE BIDEN,19,0,0,0,19
+Nevada,CP109,President,,REP,DONALD TRUMP,7,1,0,0,8
+Nevada,CP109,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP109,President,,AIP,ROCKY DE LA FUENTE GUERRA,1,0,0,0,1
+Nevada,CP109,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP109,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP109,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP109,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP109,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP109,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP109,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP109,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP109,U.S. House,1,REP,DOUG LAMALFA,9,0,0,0,9
+Nevada,CP109,U.S. House,1,DEM,AUDREY DENNEY,18,1,0,0,19
+Nevada,CP109,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP109,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP109,State Senate,1,DEM,PAMELA DAWN SWARTZ,15,0,0,0,15
+Nevada,CP109,State Senate,1,REP,BRIAN DAHLE,10,1,0,0,11
+Nevada,CP109,State Senate,1,,Undervotes:,2,0,0,0,2
+Nevada,CP109,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP109,State Assembly,1,DEM,ELIZABETH L BETANCOURT,18,1,0,0,19
+Nevada,CP109,State Assembly,1,REP,MEGAN DAHLE,7,0,0,0,7
+Nevada,CP109,State Assembly,1,,Undervotes:,2,0,0,0,2
+Nevada,CP109,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP110,President,,DEM,JOE BIDEN,16,0,0,0,16
+Nevada,CP110,President,,REP,DONALD TRUMP,3,0,0,1,4
+Nevada,CP110,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP110,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP110,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP110,President,,LIB,JO JORGENSEN,0,0,1,0,1
+Nevada,CP110,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP110,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP110,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP110,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP110,President,,,Undervotes:,1,0,0,0,1
+Nevada,CP110,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP110,U.S. House,4,REP,TOM MCCLINTOCK,3,0,0,1,4
+Nevada,CP110,U.S. House,4,DEM,BRYNNE S. KENNEDY,16,0,1,0,17
+Nevada,CP110,U.S. House,4,,Undervotes:,1,0,0,0,1
+Nevada,CP110,U.S. House,4,,Overvotes:,0,0,0,0,0
+Nevada,CP110,State Senate,1,DEM,PAMELA DAWN SWARTZ,13,0,1,0,14
+Nevada,CP110,State Senate,1,REP,BRIAN DAHLE,6,0,0,1,7
+Nevada,CP110,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP110,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP110,State Assembly,1,DEM,ELIZABETH L BETANCOURT,16,0,1,0,17
+Nevada,CP110,State Assembly,1,REP,MEGAN DAHLE,3,0,0,1,4
+Nevada,CP110,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP110,State Assembly,1,,Overvotes:,0,0,0,0,0
+Nevada,CP111,President,,DEM,JOE BIDEN,1,0,0,1,2
+Nevada,CP111,President,,REP,DONALD TRUMP,2,0,1,0,3
+Nevada,CP111,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
+Nevada,CP111,President,,AIP,ROCKY DE LA FUENTE GUERRA,0,0,0,0,0
+Nevada,CP111,President,,GRN,HOWIE HAWKINS,0,0,0,0,0
+Nevada,CP111,President,,LIB,JO JORGENSEN,0,0,0,0,0
+Nevada,CP111,President,,WRI,Brian Carroll (W),0,0,0,0,0
+Nevada,CP111,President,,WRI,Brock Pierce (W),0,0,0,0,0
+Nevada,CP111,President,,WRI,Jesse Ventura (W),0,0,0,0,0
+Nevada,CP111,President,,WRI,Mark Charles (W),0,0,0,0,0
+Nevada,CP111,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP111,President,,,Overvotes:,0,0,0,0,0
+Nevada,CP111,U.S. House,1,REP,DOUG LAMALFA,1,0,1,0,2
+Nevada,CP111,U.S. House,1,DEM,AUDREY DENNEY,1,0,0,1,2
+Nevada,CP111,U.S. House,1,,Undervotes:,1,0,0,0,1
+Nevada,CP111,U.S. House,1,,Overvotes:,0,0,0,0,0
+Nevada,CP111,State Senate,1,DEM,PAMELA DAWN SWARTZ,1,0,0,1,2
+Nevada,CP111,State Senate,1,REP,BRIAN DAHLE,1,0,1,0,2
+Nevada,CP111,State Senate,1,,Undervotes:,1,0,0,0,1
+Nevada,CP111,State Senate,1,,Overvotes:,0,0,0,0,0
+Nevada,CP111,State Assembly,1,DEM,ELIZABETH L BETANCOURT,1,0,0,1,2
+Nevada,CP111,State Assembly,1,REP,MEGAN DAHLE,1,0,1,0,2
+Nevada,CP111,State Assembly,1,,Undervotes:,1,0,0,0,1
+Nevada,CP111,State Assembly,1,,Overvotes:,0,0,0,0,0
