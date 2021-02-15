@@ -1,0 +1,929 @@
+county,precinct,office,district,party,candidate,votes
+Inyo,101,President,,DEM,JOSEPH R. BIDEN,314
+Inyo,102,President,,DEM,JOSEPH R. BIDEN,399
+Inyo,103,President,,DEM,JOSEPH R. BIDEN,242
+Inyo,104,President,,DEM,JOSEPH R. BIDEN,43
+Inyo,105,President,,DEM,JOSEPH R. BIDEN,464
+Inyo,106,President,,DEM,JOSEPH R. BIDEN,280
+Inyo,107,President,,DEM,JOSEPH R. BIDEN,256
+Inyo,108,President,,DEM,JOSEPH R. BIDEN,415
+Inyo,109,President,,DEM,JOSEPH R. BIDEN,318
+Inyo,110,President,,DEM,JOSEPH R. BIDEN,321
+Inyo,111,President,,DEM,JOSEPH R. BIDEN,103
+Inyo,112,President,,DEM,JOSEPH R. BIDEN,137
+Inyo,113,President,,DEM,JOSEPH R. BIDEN,457
+Inyo,114,President,,DEM,JOSEPH R. BIDEN,0
+Inyo,115,President,,DEM,JOSEPH R. BIDEN,31
+Inyo,116,President,,DEM,JOSEPH R. BIDEN,160
+Inyo,117,President,,DEM,JOSEPH R. BIDEN,422
+Inyo,118,President,,DEM,JOSEPH R. BIDEN,29
+Inyo,119,President,,DEM,JOSEPH R. BIDEN,88
+Inyo,120,President,,DEM,JOSEPH R. BIDEN,155
+Inyo,121,President,,DEM,JOSEPH R. BIDEN,0
+Inyo,101,President,,REP,DONALD J. TRUMP,325
+Inyo,102,President,,REP,DONALD J. TRUMP,476
+Inyo,103,President,,REP,DONALD J. TRUMP,367
+Inyo,104,President,,REP,DONALD J. TRUMP,71
+Inyo,105,President,,REP,DONALD J. TRUMP,389
+Inyo,106,President,,REP,DONALD J. TRUMP,181
+Inyo,107,President,,REP,DONALD J. TRUMP,134
+Inyo,108,President,,REP,DONALD J. TRUMP,432
+Inyo,109,President,,REP,DONALD J. TRUMP,575
+Inyo,110,President,,REP,DONALD J. TRUMP,118
+Inyo,111,President,,REP,DONALD J. TRUMP,35
+Inyo,112,President,,REP,DONALD J. TRUMP,213
+Inyo,113,President,,REP,DONALD J. TRUMP,470
+Inyo,114,President,,REP,DONALD J. TRUMP,2
+Inyo,115,President,,REP,DONALD J. TRUMP,24
+Inyo,116,President,,REP,DONALD J. TRUMP,201
+Inyo,117,President,,REP,DONALD J. TRUMP,388
+Inyo,118,President,,REP,DONALD J. TRUMP,17
+Inyo,119,President,,REP,DONALD J. TRUMP,125
+Inyo,120,President,,REP,DONALD J. TRUMP,77
+Inyo,121,President,,REP,DONALD J. TRUMP,0
+Inyo,101,President,,PF,GLORIA LA RIVA,0
+Inyo,102,President,,PF,GLORIA LA RIVA,2
+Inyo,103,President,,PF,GLORIA LA RIVA,0
+Inyo,104,President,,PF,GLORIA LA RIVA,0
+Inyo,105,President,,PF,GLORIA LA RIVA,0
+Inyo,106,President,,PF,GLORIA LA RIVA,1
+Inyo,107,President,,PF,GLORIA LA RIVA,2
+Inyo,108,President,,PF,GLORIA LA RIVA,0
+Inyo,109,President,,PF,GLORIA LA RIVA,0
+Inyo,110,President,,PF,GLORIA LA RIVA,5
+Inyo,111,President,,PF,GLORIA LA RIVA,2
+Inyo,112,President,,PF,GLORIA LA RIVA,2
+Inyo,113,President,,PF,GLORIA LA RIVA,2
+Inyo,114,President,,PF,GLORIA LA RIVA,0
+Inyo,115,President,,PF,GLORIA LA RIVA,0
+Inyo,116,President,,PF,GLORIA LA RIVA,0
+Inyo,117,President,,PF,GLORIA LA RIVA,5
+Inyo,118,President,,PF,GLORIA LA RIVA,0
+Inyo,119,President,,PF,GLORIA LA RIVA,1
+Inyo,120,President,,PF,GLORIA LA RIVA,0
+Inyo,121,President,,PF,GLORIA LA RIVA,0
+Inyo,101,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,102,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",3
+Inyo,103,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,104,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,105,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",4
+Inyo,106,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",2
+Inyo,107,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",2
+Inyo,108,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",1
+Inyo,109,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",4
+Inyo,110,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",4
+Inyo,111,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,112,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",1
+Inyo,113,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",3
+Inyo,114,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,115,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",1
+Inyo,116,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",1
+Inyo,117,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",2
+Inyo,118,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,119,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",2
+Inyo,120,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",2
+Inyo,121,President,,AI,"ROQUE ""ROCKY"" DE LA FUENTE GUERRA",0
+Inyo,101,President,,GRN,HOWIE HAWKINS,5
+Inyo,102,President,,GRN,HOWIE HAWKINS,0
+Inyo,103,President,,GRN,HOWIE HAWKINS,2
+Inyo,104,President,,GRN,HOWIE HAWKINS,0
+Inyo,105,President,,GRN,HOWIE HAWKINS,4
+Inyo,106,President,,GRN,HOWIE HAWKINS,4
+Inyo,107,President,,GRN,HOWIE HAWKINS,2
+Inyo,108,President,,GRN,HOWIE HAWKINS,3
+Inyo,109,President,,GRN,HOWIE HAWKINS,3
+Inyo,110,President,,GRN,HOWIE HAWKINS,2
+Inyo,111,President,,GRN,HOWIE HAWKINS,1
+Inyo,112,President,,GRN,HOWIE HAWKINS,1
+Inyo,113,President,,GRN,HOWIE HAWKINS,3
+Inyo,114,President,,GRN,HOWIE HAWKINS,0
+Inyo,115,President,,GRN,HOWIE HAWKINS,0
+Inyo,116,President,,GRN,HOWIE HAWKINS,1
+Inyo,117,President,,GRN,HOWIE HAWKINS,6
+Inyo,118,President,,GRN,HOWIE HAWKINS,1
+Inyo,119,President,,GRN,HOWIE HAWKINS,5
+Inyo,120,President,,GRN,HOWIE HAWKINS,2
+Inyo,121,President,,GRN,HOWIE HAWKINS,0
+Inyo,101,President,,LIB,JO JORGENSEN,5
+Inyo,102,President,,LIB,JO JORGENSEN,7
+Inyo,103,President,,LIB,JO JORGENSEN,11
+Inyo,104,President,,LIB,JO JORGENSEN,1
+Inyo,105,President,,LIB,JO JORGENSEN,18
+Inyo,106,President,,LIB,JO JORGENSEN,8
+Inyo,107,President,,LIB,JO JORGENSEN,9
+Inyo,108,President,,LIB,JO JORGENSEN,10
+Inyo,109,President,,LIB,JO JORGENSEN,7
+Inyo,110,President,,LIB,JO JORGENSEN,4
+Inyo,111,President,,LIB,JO JORGENSEN,0
+Inyo,112,President,,LIB,JO JORGENSEN,7
+Inyo,113,President,,LIB,JO JORGENSEN,16
+Inyo,114,President,,LIB,JO JORGENSEN,0
+Inyo,115,President,,LIB,JO JORGENSEN,0
+Inyo,116,President,,LIB,JO JORGENSEN,3
+Inyo,117,President,,LIB,JO JORGENSEN,16
+Inyo,118,President,,LIB,JO JORGENSEN,1
+Inyo,119,President,,LIB,JO JORGENSEN,2
+Inyo,120,President,,LIB,JO JORGENSEN,3
+Inyo,121,President,,LIB,JO JORGENSEN,0
+Inyo,101,President,,Qualified Write In,MARK CHARLES,0
+Inyo,102,President,,Qualified Write In,MARK CHARLES,0
+Inyo,103,President,,Qualified Write In,MARK CHARLES,0
+Inyo,104,President,,Qualified Write In,MARK CHARLES,0
+Inyo,105,President,,Qualified Write In,MARK CHARLES,0
+Inyo,106,President,,Qualified Write In,MARK CHARLES,0
+Inyo,107,President,,Qualified Write In,MARK CHARLES,0
+Inyo,108,President,,Qualified Write In,MARK CHARLES,0
+Inyo,109,President,,Qualified Write In,MARK CHARLES,0
+Inyo,110,President,,Qualified Write In,MARK CHARLES,0
+Inyo,111,President,,Qualified Write In,MARK CHARLES,0
+Inyo,112,President,,Qualified Write In,MARK CHARLES,0
+Inyo,113,President,,Qualified Write In,MARK CHARLES,2
+Inyo,114,President,,Qualified Write In,MARK CHARLES,0
+Inyo,115,President,,Qualified Write In,MARK CHARLES,0
+Inyo,116,President,,Qualified Write In,MARK CHARLES,0
+Inyo,117,President,,Qualified Write In,MARK CHARLES,0
+Inyo,118,President,,Qualified Write In,MARK CHARLES,0
+Inyo,119,President,,Qualified Write In,MARK CHARLES,0
+Inyo,120,President,,Qualified Write In,MARK CHARLES,0
+Inyo,121,President,,Qualified Write In,MARK CHARLES,0
+Inyo,101,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,102,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,103,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,104,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,105,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,106,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,107,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,108,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,109,President,,Qualified Write In,BRIAN CARROLL,1
+Inyo,110,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,111,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,112,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,113,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,114,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,115,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,116,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,117,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,118,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,119,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,120,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,121,President,,Qualified Write In,BRIAN CARROLL,0
+Inyo,101,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,102,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,103,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,104,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,105,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,106,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,107,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,108,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,109,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,110,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,111,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,112,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,113,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,114,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,115,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,116,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,117,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,118,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,119,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,120,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,121,President,,Qualified Write In,JOSEPH KISHORE,0
+Inyo,101,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,102,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,103,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,104,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,105,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,106,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,107,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,108,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,109,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,110,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,111,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,112,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,113,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,114,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,115,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,116,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,117,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,118,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,119,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,120,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,121,President,,Qualified Write In,BROCK PIERCE,0
+Inyo,101,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,102,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,103,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,104,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,105,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,106,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,107,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,108,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,109,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,110,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,111,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,112,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,113,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,114,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,115,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,116,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,117,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,118,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,119,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,120,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,121,President,,Qualified Write In,JESSE VENTURA,0
+Inyo,101,U.S. House,8,DEM,CHRISTINE BUBSER,310
+Inyo,102,U.S. House,8,DEM,CHRISTINE BUBSER,385
+Inyo,103,U.S. House,8,DEM,CHRISTINE BUBSER,250
+Inyo,104,U.S. House,8,DEM,CHRISTINE BUBSER,38
+Inyo,105,U.S. House,8,DEM,CHRISTINE BUBSER,458
+Inyo,106,U.S. House,8,DEM,CHRISTINE BUBSER,286
+Inyo,107,U.S. House,8,DEM,CHRISTINE BUBSER,247
+Inyo,108,U.S. House,8,DEM,CHRISTINE BUBSER,387
+Inyo,109,U.S. House,8,DEM,CHRISTINE BUBSER,318
+Inyo,110,U.S. House,8,DEM,CHRISTINE BUBSER,307
+Inyo,111,U.S. House,8,DEM,CHRISTINE BUBSER,102
+Inyo,112,U.S. House,8,DEM,CHRISTINE BUBSER,139
+Inyo,113,U.S. House,8,DEM,CHRISTINE BUBSER,453
+Inyo,114,U.S. House,8,DEM,CHRISTINE BUBSER,0
+Inyo,115,U.S. House,8,DEM,CHRISTINE BUBSER,30
+Inyo,116,U.S. House,8,DEM,CHRISTINE BUBSER,167
+Inyo,117,U.S. House,8,DEM,CHRISTINE BUBSER,408
+Inyo,118,U.S. House,8,DEM,CHRISTINE BUBSER,27
+Inyo,119,U.S. House,8,DEM,CHRISTINE BUBSER,91
+Inyo,120,U.S. House,8,DEM,CHRISTINE BUBSER,156
+Inyo,121,U.S. House,8,DEM,CHRISTINE BUBSER,0
+Inyo,101,U.S. House,8,REP,JAY OBERNOLTE,319
+Inyo,102,U.S. House,8,REP,JAY OBERNOLTE,477
+Inyo,103,U.S. House,8,REP,JAY OBERNOLTE,357
+Inyo,104,U.S. House,8,REP,JAY OBERNOLTE,75
+Inyo,105,U.S. House,8,REP,JAY OBERNOLTE,406
+Inyo,106,U.S. House,8,REP,JAY OBERNOLTE,183
+Inyo,107,U.S. House,8,REP,JAY OBERNOLTE,143
+Inyo,108,U.S. House,8,REP,JAY OBERNOLTE,458
+Inyo,109,U.S. House,8,REP,JAY OBERNOLTE,572
+Inyo,110,U.S. House,8,REP,JAY OBERNOLTE,122
+Inyo,111,U.S. House,8,REP,JAY OBERNOLTE,37
+Inyo,112,U.S. House,8,REP,JAY OBERNOLTE,215
+Inyo,113,U.S. House,8,REP,JAY OBERNOLTE,476
+Inyo,114,U.S. House,8,REP,JAY OBERNOLTE,3
+Inyo,115,U.S. House,8,REP,JAY OBERNOLTE,24
+Inyo,116,U.S. House,8,REP,JAY OBERNOLTE,196
+Inyo,117,U.S. House,8,REP,JAY OBERNOLTE,415
+Inyo,118,U.S. House,8,REP,JAY OBERNOLTE,19
+Inyo,119,U.S. House,8,REP,JAY OBERNOLTE,126
+Inyo,120,U.S. House,8,REP,JAY OBERNOLTE,79
+Inyo,121,U.S. House,8,REP,JAY OBERNOLTE,0
+Inyo,101,State Assembly,26,DEM,DREW PHELPS,306
+Inyo,102,State Assembly,26,DEM,DREW PHELPS,371
+Inyo,103,State Assembly,26,DEM,DREW PHELPS,237
+Inyo,104,State Assembly,26,DEM,DREW PHELPS,40
+Inyo,105,State Assembly,26,DEM,DREW PHELPS,454
+Inyo,106,State Assembly,26,DEM,DREW PHELPS,276
+Inyo,107,State Assembly,26,DEM,DREW PHELPS,258
+Inyo,108,State Assembly,26,DEM,DREW PHELPS,396
+Inyo,109,State Assembly,26,DEM,DREW PHELPS,305
+Inyo,110,State Assembly,26,DEM,DREW PHELPS,316
+Inyo,111,State Assembly,26,DEM,DREW PHELPS,104
+Inyo,112,State Assembly,26,DEM,DREW PHELPS,131
+Inyo,113,State Assembly,26,DEM,DREW PHELPS,463
+Inyo,114,State Assembly,26,DEM,DREW PHELPS,0
+Inyo,115,State Assembly,26,DEM,DREW PHELPS,28
+Inyo,116,State Assembly,26,DEM,DREW PHELPS,164
+Inyo,117,State Assembly,26,DEM,DREW PHELPS,414
+Inyo,118,State Assembly,26,DEM,DREW PHELPS,26
+Inyo,119,State Assembly,26,DEM,DREW PHELPS,94
+Inyo,120,State Assembly,26,DEM,DREW PHELPS,152
+Inyo,121,State Assembly,26,DEM,DREW PHELPS,0
+Inyo,101,State Assembly,26,REP,DEVON MATHIS,329
+Inyo,102,State Assembly,26,REP,DEVON MATHIS,490
+Inyo,103,State Assembly,26,REP,DEVON MATHIS,366
+Inyo,104,State Assembly,26,REP,DEVON MATHIS,75
+Inyo,105,State Assembly,26,REP,DEVON MATHIS,402
+Inyo,106,State Assembly,26,REP,DEVON MATHIS,179
+Inyo,107,State Assembly,26,REP,DEVON MATHIS,141
+Inyo,108,State Assembly,26,REP,DEVON MATHIS,446
+Inyo,109,State Assembly,26,REP,DEVON MATHIS,584
+Inyo,110,State Assembly,26,REP,DEVON MATHIS,114
+Inyo,111,State Assembly,26,REP,DEVON MATHIS,33
+Inyo,112,State Assembly,26,REP,DEVON MATHIS,216
+Inyo,113,State Assembly,26,REP,DEVON MATHIS,462
+Inyo,114,State Assembly,26,REP,DEVON MATHIS,3
+Inyo,115,State Assembly,26,REP,DEVON MATHIS,25
+Inyo,116,State Assembly,26,REP,DEVON MATHIS,194
+Inyo,117,State Assembly,26,REP,DEVON MATHIS,398
+Inyo,118,State Assembly,26,REP,DEVON MATHIS,20
+Inyo,119,State Assembly,26,REP,DEVON MATHIS,123
+Inyo,120,State Assembly,26,REP,DEVON MATHIS,80
+Inyo,121,State Assembly,26,REP,DEVON MATHIS,0
+Inyo,113,Big Pine Unified School Governing Board Member,,,SANDY LUND,623
+Inyo,115,Big Pine Unified School Governing Board Member,,,SANDY LUND,34
+Inyo,121,Big Pine Unified School Governing Board Member,,,SANDY LUND,0
+Inyo,113,Big Pine Unified School Governing Board Member,,,PAUL HUETTE,518
+Inyo,115,Big Pine Unified School Governing Board Member,,,PAUL HUETTE,16
+Inyo,121,Big Pine Unified School Governing Board Member,,,PAUL HUETTE,0
+Inyo,113,Big Pine Unified School Governing Board Member,,,TUSHAR RAMAN OZA,216
+Inyo,115,Big Pine Unified School Governing Board Member,,,TUSHAR RAMAN OZA,11
+Inyo,121,Big Pine Unified School Governing Board Member,,,TUSHAR RAMAN OZA,0
+Inyo,113,Big Pine Unified School Governing Board Member,,,MICHELLE (SHELLY) A. SNODERLY,489
+Inyo,115,Big Pine Unified School Governing Board Member,,,MICHELLE (SHELLY) A. SNODERLY,22
+Inyo,121,Big Pine Unified School Governing Board Member,,,MICHELLE (SHELLY) A. SNODERLY,0
+Inyo,101,Bishop Unified School Governing Board Member ,,,STEVE ELIA,307
+Inyo,102,Bishop Unified School Governing Board Member ,,,STEVE ELIA,392
+Inyo,103,Bishop Unified School Governing Board Member ,,,STEVE ELIA,296
+Inyo,104,Bishop Unified School Governing Board Member ,,,STEVE ELIA,51
+Inyo,105,Bishop Unified School Governing Board Member ,,,STEVE ELIA,477
+Inyo,106,Bishop Unified School Governing Board Member ,,,STEVE ELIA,257
+Inyo,107,Bishop Unified School Governing Board Member ,,,STEVE ELIA,214
+Inyo,108,Bishop Unified School Governing Board Member ,,,STEVE ELIA,386
+Inyo,109,Bishop Unified School Governing Board Member ,,,STEVE ELIA,414
+Inyo,110,Bishop Unified School Governing Board Member ,,,STEVE ELIA,192
+Inyo,111,Bishop Unified School Governing Board Member ,,,STEVE ELIA,57
+Inyo,112,Bishop Unified School Governing Board Member ,,,STEVE ELIA,143
+Inyo,114,Bishop Unified School Governing Board Member ,,,STEVE ELIA,0
+Inyo,101,Bishop Unified School Governing Board Member ,,,KATHY ZACK,338
+Inyo,102,Bishop Unified School Governing Board Member ,,,KATHY ZACK,423
+Inyo,103,Bishop Unified School Governing Board Member ,,,KATHY ZACK,330
+Inyo,104,Bishop Unified School Governing Board Member ,,,KATHY ZACK,71
+Inyo,105,Bishop Unified School Governing Board Member ,,,KATHY ZACK,434
+Inyo,106,Bishop Unified School Governing Board Member ,,,KATHY ZACK,198
+Inyo,107,Bishop Unified School Governing Board Member ,,,KATHY ZACK,171
+Inyo,108,Bishop Unified School Governing Board Member ,,,KATHY ZACK,510
+Inyo,109,Bishop Unified School Governing Board Member ,,,KATHY ZACK,550
+Inyo,110,Bishop Unified School Governing Board Member ,,,KATHY ZACK,126
+Inyo,111,Bishop Unified School Governing Board Member ,,,KATHY ZACK,49
+Inyo,112,Bishop Unified School Governing Board Member ,,,KATHY ZACK,197
+Inyo,114,Bishop Unified School Governing Board Member ,,,KATHY ZACK,1
+Inyo,101,Bishop Unified School Governing Board Member ,,,MERYL PICARD,226
+Inyo,102,Bishop Unified School Governing Board Member ,,,MERYL PICARD,324
+Inyo,103,Bishop Unified School Governing Board Member ,,,MERYL PICARD,263
+Inyo,104,Bishop Unified School Governing Board Member ,,,MERYL PICARD,40
+Inyo,105,Bishop Unified School Governing Board Member ,,,MERYL PICARD,417
+Inyo,106,Bishop Unified School Governing Board Member ,,,MERYL PICARD,238
+Inyo,107,Bishop Unified School Governing Board Member ,,,MERYL PICARD,185
+Inyo,108,Bishop Unified School Governing Board Member ,,,MERYL PICARD,372
+Inyo,109,Bishop Unified School Governing Board Member ,,,MERYL PICARD,404
+Inyo,110,Bishop Unified School Governing Board Member ,,,MERYL PICARD,328
+Inyo,111,Bishop Unified School Governing Board Member ,,,MERYL PICARD,100
+Inyo,112,Bishop Unified School Governing Board Member ,,,MERYL PICARD,149
+Inyo,114,Bishop Unified School Governing Board Member ,,,MERYL PICARD,1
+Inyo,117,Lone Pine Unified School Governing Board Member,,,SUSAN LUTZE,569
+Inyo,118,Lone Pine Unified School Governing Board Member,,,SUSAN LUTZE,37
+Inyo,119,Lone Pine Unified School Governing Board Member,,,SUSAN LUTZE,137
+Inyo,117,Lone Pine Unified School Governing Board Member,,,SUSAN K. PATTON,303
+Inyo,118,Lone Pine Unified School Governing Board Member,,,SUSAN K. PATTON,17
+Inyo,119,Lone Pine Unified School Governing Board Member,,,SUSAN K. PATTON,81
+Inyo,117,Lone Pine Unified School Governing Board Member,,,LEIGH MILLER,270
+Inyo,118,Lone Pine Unified School Governing Board Member,,,LEIGH MILLER,8
+Inyo,119,Lone Pine Unified School Governing Board Member,,,LEIGH MILLER,46
+Inyo,112,County Supervisor,4th,,DONALD BRIGHT,122
+Inyo,113,County Supervisor,4th,,DONALD BRIGHT,418
+Inyo,114,County Supervisor,4th,,DONALD BRIGHT,0
+Inyo,115,County Supervisor,4th,,DONALD BRIGHT,30
+Inyo,116,County Supervisor,4th,,DONALD BRIGHT,184
+Inyo,112,County Supervisor,4th,,JEN ROESER,226
+Inyo,113,County Supervisor,4th,,JEN ROESER,483
+Inyo,114,County Supervisor,4th,,JEN ROESER,3
+Inyo,115,County Supervisor,4th,,JEN ROESER,21
+Inyo,116,County Supervisor,4th,,JEN ROESER,169
+Inyo,105,Bishop City Council,,,JIM ELLIS,501
+Inyo,106,Bishop City Council,,,JIM ELLIS,265
+Inyo,107,Bishop City Council,,,JIM ELLIS,214
+Inyo,105,Bishop City Council,,,JOSE S. GARCIA,397
+Inyo,106,Bishop City Council,,,JOSE S. GARCIA,225
+Inyo,107,Bishop City Council,,,JOSE S. GARCIA,185
+Inyo,105,Bishop City Council,,,CHRIS COSTELLO,412
+Inyo,106,Bishop City Council,,,CHRIS COSTELLO,195
+Inyo,107,Bishop City Council,,,CHRIS COSTELLO,143
+Inyo,105,Bishop City Council,,,KAREN M. KONG,503
+Inyo,106,Bishop City Council,,,KAREN M. KONG,250
+Inyo,107,Bishop City Council,,,KAREN M. KONG,235
+Inyo,105,Bishop City Treasurer,,,NICK LARA,600
+Inyo,106,Bishop City Treasurer,,,NICK LARA,329
+Inyo,107,Bishop City Treasurer,,,NICK LARA,259
+Inyo,113,Big Pine Fire Protection District,,,CAROL K. OZA,197
+Inyo,114,Big Pine Fire Protection District,,,CAROL K. OZA,1
+Inyo,113,Big Pine Fire Protection District,,,JERI FAYE STOUT,475
+Inyo,114,Big Pine Fire Protection District,,,JERI FAYE STOUT,0
+Inyo,113,Big Pine Fire Protection District,,,MICHAEL CARRINGTON,564
+Inyo,114,Big Pine Fire Protection District,,,MICHAEL CARRINGTON,3
+Inyo,113,Big Pine Fire Protection District,,,KERRY KOONTZ,519
+Inyo,114,Big Pine Fire Protection District,,,KERRY KOONTZ,1
+Inyo,117,Lone Pine Fire Protection District,,,RONALD E. BURSELL,427
+Inyo,117,Lone Pine Fire Protection District,,,KRISTA L. MCKRAY- SULLIVAN,452
+Inyo,117,Lone Pine Fire Protection District,,,ROBERT DEFORREST,199
+Inyo,117,Lone Pine Fire Protection District,,,LEROY KRITZ,472
+Inyo,101,"Director, Zone 1 Northern Inyo Healthcare District",,,JODY VEENKER,292
+Inyo,108,"Director, Zone 1 Northern Inyo Healthcare District",,,JODY VEENKER,344
+Inyo,111,"Director, Zone 1 Northern Inyo Healthcare District",,,JODY VEENKER,101
+Inyo,101,"Director, Zone 1 Northern Inyo Healthcare District",,,KYLE WAKAMIYA,246
+Inyo,108,"Director, Zone 1 Northern Inyo Healthcare District",,,KYLE WAKAMIYA,400
+Inyo,111,"Director, Zone 1 Northern Inyo Healthcare District",,,KYLE WAKAMIYA,25
+Inyo,101,Proposition 14,,,YES,237
+Inyo,102,Proposition 14,,,YES,370
+Inyo,103,Proposition 14,,,YES,205
+Inyo,104,Proposition 14,,,YES,40
+Inyo,105,Proposition 14,,,YES,368
+Inyo,106,Proposition 14,,,YES,223
+Inyo,107,Proposition 14,,,YES,192
+Inyo,108,Proposition 14,,,YES,299
+Inyo,109,Proposition 14,,,YES,279
+Inyo,110,Proposition 14,,,YES,238
+Inyo,111,Proposition 14,,,YES,86
+Inyo,112,Proposition 14,,,YES,107
+Inyo,113,Proposition 14,,,YES,371
+Inyo,114,Proposition 14,,,YES,0
+Inyo,115,Proposition 14,,,YES,16
+Inyo,116,Proposition 14,,,YES,127
+Inyo,117,Proposition 14,,,YES,346
+Inyo,118,Proposition 14,,,YES,26
+Inyo,119,Proposition 14,,,YES,81
+Inyo,120,Proposition 14,,,YES,128
+Inyo,121,Proposition 14,,,YES,0
+Inyo,101,Proposition 14,,,NO,387
+Inyo,102,Proposition 14,,,NO,491
+Inyo,103,Proposition 14,,,NO,397
+Inyo,104,Proposition 14,,,NO,74
+Inyo,105,Proposition 14,,,NO,481
+Inyo,106,Proposition 14,,,NO,234
+Inyo,107,Proposition 14,,,NO,193
+Inyo,108,Proposition 14,,,NO,534
+Inyo,109,Proposition 14,,,NO,619
+Inyo,110,Proposition 14,,,NO,201
+Inyo,111,Proposition 14,,,NO,43
+Inyo,112,Proposition 14,,,NO,241
+Inyo,113,Proposition 14,,,NO,548
+Inyo,114,Proposition 14,,,NO,3
+Inyo,115,Proposition 14,,,NO,35
+Inyo,116,Proposition 14,,,NO,233
+Inyo,117,Proposition 14,,,NO,449
+Inyo,118,Proposition 14,,,NO,19
+Inyo,119,Proposition 14,,,NO,138
+Inyo,120,Proposition 14,,,NO,97
+Inyo,121,Proposition 14,,,NO,0
+Inyo,101,Proposition 15,,,YES,248
+Inyo,102,Proposition 15,,,YES,320
+Inyo,103,Proposition 15,,,YES,182
+Inyo,104,Proposition 15,,,YES,30
+Inyo,105,Proposition 15,,,YES,376
+Inyo,106,Proposition 15,,,YES,240
+Inyo,107,Proposition 15,,,YES,220
+Inyo,108,Proposition 15,,,YES,304
+Inyo,109,Proposition 15,,,YES,260
+Inyo,110,Proposition 15,,,YES,260
+Inyo,111,Proposition 15,,,YES,85
+Inyo,112,Proposition 15,,,YES,99
+Inyo,113,Proposition 15,,,YES,361
+Inyo,114,Proposition 15,,,YES,0
+Inyo,115,Proposition 15,,,YES,28
+Inyo,116,Proposition 15,,,YES,132
+Inyo,117,Proposition 15,,,YES,308
+Inyo,118,Proposition 15,,,YES,24
+Inyo,119,Proposition 15,,,YES,59
+Inyo,120,Proposition 15,,,YES,125
+Inyo,121,Proposition 15,,,YES,0
+Inyo,101,Proposition 15,,,NO,390
+Inyo,102,Proposition 15,,,NO,547
+Inyo,103,Proposition 15,,,NO,430
+Inyo,104,Proposition 15,,,NO,85
+Inyo,105,Proposition 15,,,NO,480
+Inyo,106,Proposition 15,,,NO,220
+Inyo,107,Proposition 15,,,NO,174
+Inyo,108,Proposition 15,,,NO,551
+Inyo,109,Proposition 15,,,NO,640
+Inyo,110,Proposition 15,,,NO,184
+Inyo,111,Proposition 15,,,NO,51
+Inyo,112,Proposition 15,,,NO,255
+Inyo,113,Proposition 15,,,NO,575
+Inyo,114,Proposition 15,,,NO,3
+Inyo,115,Proposition 15,,,NO,26
+Inyo,116,Proposition 15,,,NO,235
+Inyo,117,Proposition 15,,,NO,521
+Inyo,118,Proposition 15,,,NO,22
+Inyo,119,Proposition 15,,,NO,160
+Inyo,120,Proposition 15,,,NO,104
+Inyo,121,Proposition 15,,,NO,0
+Inyo,101,Proposition 16,,,YES,190
+Inyo,102,Proposition 16,,,YES,240
+Inyo,103,Proposition 16,,,YES,140
+Inyo,104,Proposition 16,,,YES,17
+Inyo,105,Proposition 16,,,YES,299
+Inyo,106,Proposition 16,,,YES,164
+Inyo,107,Proposition 16,,,YES,174
+Inyo,108,Proposition 16,,,YES,242
+Inyo,109,Proposition 16,,,YES,182
+Inyo,110,Proposition 16,,,YES,209
+Inyo,111,Proposition 16,,,YES,69
+Inyo,112,Proposition 16,,,YES,79
+Inyo,113,Proposition 16,,,YES,288
+Inyo,114,Proposition 16,,,YES,0
+Inyo,115,Proposition 16,,,YES,21
+Inyo,116,Proposition 16,,,YES,84
+Inyo,117,Proposition 16,,,YES,244
+Inyo,118,Proposition 16,,,YES,17
+Inyo,119,Proposition 16,,,YES,52
+Inyo,120,Proposition 16,,,YES,95
+Inyo,121,Proposition 16,,,YES,0
+Inyo,101,Proposition 16,,,NO,436
+Inyo,102,Proposition 16,,,NO,614
+Inyo,103,Proposition 16,,,NO,467
+Inyo,104,Proposition 16,,,NO,95
+Inyo,105,Proposition 16,,,NO,550
+Inyo,106,Proposition 16,,,NO,287
+Inyo,107,Proposition 16,,,NO,214
+Inyo,108,Proposition 16,,,NO,599
+Inyo,109,Proposition 16,,,NO,716
+Inyo,110,Proposition 16,,,NO,223
+Inyo,111,Proposition 16,,,NO,66
+Inyo,112,Proposition 16,,,NO,272
+Inyo,113,Proposition 16,,,NO,629
+Inyo,114,Proposition 16,,,NO,3
+Inyo,115,Proposition 16,,,NO,32
+Inyo,116,Proposition 16,,,NO,273
+Inyo,117,Proposition 16,,,NO,561
+Inyo,118,Proposition 16,,,NO,28
+Inyo,119,Proposition 16,,,NO,162
+Inyo,120,Proposition 16,,,NO,129
+Inyo,121,Proposition 16,,,NO,0
+Inyo,101,Proposition 17,,,YES,290
+Inyo,102,Proposition 17,,,YES,343
+Inyo,103,Proposition 17,,,YES,232
+Inyo,104,Proposition 17,,,YES,43
+Inyo,105,Proposition 17,,,YES,439
+Inyo,106,Proposition 17,,,YES,270
+Inyo,107,Proposition 17,,,YES,241
+Inyo,108,Proposition 17,,,YES,379
+Inyo,109,Proposition 17,,,YES,296
+Inyo,110,Proposition 17,,,YES,279
+Inyo,111,Proposition 17,,,YES,95
+Inyo,112,Proposition 17,,,YES,141
+Inyo,113,Proposition 17,,,YES,417
+Inyo,114,Proposition 17,,,YES,0
+Inyo,115,Proposition 17,,,YES,29
+Inyo,116,Proposition 17,,,YES,144
+Inyo,117,Proposition 17,,,YES,401
+Inyo,118,Proposition 17,,,YES,25
+Inyo,119,Proposition 17,,,YES,99
+Inyo,120,Proposition 17,,,YES,145
+Inyo,121,Proposition 17,,,YES,0
+Inyo,101,Proposition 17,,,NO,347
+Inyo,102,Proposition 17,,,NO,526
+Inyo,103,Proposition 17,,,NO,376
+Inyo,104,Proposition 17,,,NO,72
+Inyo,105,Proposition 17,,,NO,421
+Inyo,106,Proposition 17,,,NO,190
+Inyo,107,Proposition 17,,,NO,154
+Inyo,108,Proposition 17,,,NO,475
+Inyo,109,Proposition 17,,,NO,610
+Inyo,110,Proposition 17,,,NO,163
+Inyo,111,Proposition 17,,,NO,43
+Inyo,112,Proposition 17,,,NO,214
+Inyo,113,Proposition 17,,,NO,518
+Inyo,114,Proposition 17,,,NO,3
+Inyo,115,Proposition 17,,,NO,24
+Inyo,116,Proposition 17,,,NO,218
+Inyo,117,Proposition 17,,,NO,421
+Inyo,118,Proposition 17,,,NO,19
+Inyo,119,Proposition 17,,,NO,119
+Inyo,120,Proposition 17,,,NO,84
+Inyo,121,Proposition 17,,,NO,0
+Inyo,101,Proposition 18,,,YES,202
+Inyo,102,Proposition 18,,,YES,233
+Inyo,103,Proposition 18,,,YES,162
+Inyo,104,Proposition 18,,,YES,30
+Inyo,105,Proposition 18,,,YES,305
+Inyo,106,Proposition 18,,,YES,199
+Inyo,107,Proposition 18,,,YES,187
+Inyo,108,Proposition 18,,,YES,274
+Inyo,109,Proposition 18,,,YES,205
+Inyo,110,Proposition 18,,,YES,157
+Inyo,111,Proposition 18,,,YES,53
+Inyo,112,Proposition 18,,,YES,83
+Inyo,113,Proposition 18,,,YES,282
+Inyo,114,Proposition 18,,,YES,0
+Inyo,115,Proposition 18,,,YES,18
+Inyo,116,Proposition 18,,,YES,106
+Inyo,117,Proposition 18,,,YES,267
+Inyo,118,Proposition 18,,,YES,22
+Inyo,119,Proposition 18,,,YES,69
+Inyo,120,Proposition 18,,,YES,91
+Inyo,121,Proposition 18,,,YES,0
+Inyo,101,Proposition 18,,,NO,437
+Inyo,102,Proposition 18,,,NO,639
+Inyo,103,Proposition 18,,,NO,448
+Inyo,104,Proposition 18,,,NO,85
+Inyo,105,Proposition 18,,,NO,558
+Inyo,106,Proposition 18,,,NO,262
+Inyo,107,Proposition 18,,,NO,211
+Inyo,108,Proposition 18,,,NO,582
+Inyo,109,Proposition 18,,,NO,700
+Inyo,110,Proposition 18,,,NO,280
+Inyo,111,Proposition 18,,,NO,86
+Inyo,112,Proposition 18,,,NO,271
+Inyo,113,Proposition 18,,,NO,655
+Inyo,114,Proposition 18,,,NO,3
+Inyo,115,Proposition 18,,,NO,35
+Inyo,116,Proposition 18,,,NO,256
+Inyo,117,Proposition 18,,,NO,559
+Inyo,118,Proposition 18,,,NO,24
+Inyo,119,Proposition 18,,,NO,151
+Inyo,120,Proposition 18,,,NO,139
+Inyo,121,Proposition 18,,,NO,0
+Inyo,101,Proposition 19,,,YES,270
+Inyo,102,Proposition 19,,,YES,388
+Inyo,103,Proposition 19,,,YES,234
+Inyo,104,Proposition 19,,,YES,37
+Inyo,105,Proposition 19,,,YES,389
+Inyo,106,Proposition 19,,,YES,226
+Inyo,107,Proposition 19,,,YES,179
+Inyo,108,Proposition 19,,,YES,322
+Inyo,109,Proposition 19,,,YES,278
+Inyo,110,Proposition 19,,,YES,234
+Inyo,111,Proposition 19,,,YES,83
+Inyo,112,Proposition 19,,,YES,131
+Inyo,113,Proposition 19,,,YES,416
+Inyo,114,Proposition 19,,,YES,0
+Inyo,115,Proposition 19,,,YES,18
+Inyo,116,Proposition 19,,,YES,131
+Inyo,117,Proposition 19,,,YES,392
+Inyo,118,Proposition 19,,,YES,27
+Inyo,119,Proposition 19,,,YES,77
+Inyo,120,Proposition 19,,,YES,115
+Inyo,121,Proposition 19,,,YES,0
+Inyo,101,Proposition 19,,,NO,353
+Inyo,102,Proposition 19,,,NO,455
+Inyo,103,Proposition 19,,,NO,362
+Inyo,104,Proposition 19,,,NO,75
+Inyo,105,Proposition 19,,,NO,447
+Inyo,106,Proposition 19,,,NO,220
+Inyo,107,Proposition 19,,,NO,194
+Inyo,108,Proposition 19,,,NO,509
+Inyo,109,Proposition 19,,,NO,608
+Inyo,110,Proposition 19,,,NO,191
+Inyo,111,Proposition 19,,,NO,48
+Inyo,112,Proposition 19,,,NO,213
+Inyo,113,Proposition 19,,,NO,494
+Inyo,114,Proposition 19,,,NO,3
+Inyo,115,Proposition 19,,,NO,34
+Inyo,116,Proposition 19,,,NO,217
+Inyo,117,Proposition 19,,,NO,416
+Inyo,118,Proposition 19,,,NO,19
+Inyo,119,Proposition 19,,,NO,135
+Inyo,120,Proposition 19,,,NO,101
+Inyo,121,Proposition 19,,,NO,0
+Inyo,101,Proposition 20,,,YES,248
+Inyo,102,Proposition 20,,,YES,376
+Inyo,103,Proposition 20,,,YES,269
+Inyo,104,Proposition 20,,,YES,51
+Inyo,105,Proposition 20,,,YES,334
+Inyo,106,Proposition 20,,,YES,168
+Inyo,107,Proposition 20,,,YES,128
+Inyo,108,Proposition 20,,,YES,364
+Inyo,109,Proposition 20,,,YES,392
+Inyo,110,Proposition 20,,,YES,155
+Inyo,111,Proposition 20,,,YES,58
+Inyo,112,Proposition 20,,,YES,149
+Inyo,113,Proposition 20,,,YES,388
+Inyo,114,Proposition 20,,,YES,1
+Inyo,115,Proposition 20,,,YES,25
+Inyo,116,Proposition 20,,,YES,147
+Inyo,117,Proposition 20,,,YES,309
+Inyo,118,Proposition 20,,,YES,17
+Inyo,119,Proposition 20,,,YES,81
+Inyo,120,Proposition 20,,,YES,72
+Inyo,121,Proposition 20,,,YES,0
+Inyo,101,Proposition 20,,,NO,372
+Inyo,102,Proposition 20,,,NO,471
+Inyo,103,Proposition 20,,,NO,329
+Inyo,104,Proposition 20,,,NO,61
+Inyo,105,Proposition 20,,,NO,499
+Inyo,106,Proposition 20,,,NO,279
+Inyo,107,Proposition 20,,,NO,253
+Inyo,108,Proposition 20,,,NO,476
+Inyo,109,Proposition 20,,,NO,499
+Inyo,110,Proposition 20,,,NO,275
+Inyo,111,Proposition 20,,,NO,79
+Inyo,112,Proposition 20,,,NO,201
+Inyo,113,Proposition 20,,,NO,518
+Inyo,114,Proposition 20,,,NO,2
+Inyo,115,Proposition 20,,,NO,25
+Inyo,116,Proposition 20,,,NO,210
+Inyo,117,Proposition 20,,,NO,491
+Inyo,118,Proposition 20,,,NO,28
+Inyo,119,Proposition 20,,,NO,128
+Inyo,120,Proposition 20,,,NO,150
+Inyo,121,Proposition 20,,,NO,0
+Inyo,101,Proposition 21,,,YES,182
+Inyo,102,Proposition 21,,,YES,304
+Inyo,103,Proposition 21,,,YES,134
+Inyo,104,Proposition 21,,,YES,18
+Inyo,105,Proposition 21,,,YES,288
+Inyo,106,Proposition 21,,,YES,197
+Inyo,107,Proposition 21,,,YES,165
+Inyo,108,Proposition 21,,,YES,247
+Inyo,109,Proposition 21,,,YES,187
+Inyo,110,Proposition 21,,,YES,181
+Inyo,111,Proposition 21,,,YES,59
+Inyo,112,Proposition 21,,,YES,64
+Inyo,113,Proposition 21,,,YES,279
+Inyo,114,Proposition 21,,,YES,0
+Inyo,115,Proposition 21,,,YES,19
+Inyo,116,Proposition 21,,,YES,89
+Inyo,117,Proposition 21,,,YES,257
+Inyo,118,Proposition 21,,,YES,18
+Inyo,119,Proposition 21,,,YES,49
+Inyo,120,Proposition 21,,,YES,108
+Inyo,121,Proposition 21,,,YES,0
+Inyo,101,Proposition 21,,,NO,433
+Inyo,102,Proposition 21,,,NO,551
+Inyo,103,Proposition 21,,,NO,465
+Inyo,104,Proposition 21,,,NO,92
+Inyo,105,Proposition 21,,,NO,551
+Inyo,106,Proposition 21,,,NO,254
+Inyo,107,Proposition 21,,,NO,217
+Inyo,108,Proposition 21,,,NO,584
+Inyo,109,Proposition 21,,,NO,707
+Inyo,110,Proposition 21,,,NO,250
+Inyo,111,Proposition 21,,,NO,76
+Inyo,112,Proposition 21,,,NO,285
+Inyo,113,Proposition 21,,,NO,646
+Inyo,114,Proposition 21,,,NO,3
+Inyo,115,Proposition 21,,,NO,33
+Inyo,116,Proposition 21,,,NO,266
+Inyo,117,Proposition 21,,,NO,553
+Inyo,118,Proposition 21,,,NO,28
+Inyo,119,Proposition 21,,,NO,165
+Inyo,120,Proposition 21,,,NO,108
+Inyo,121,Proposition 21,,,NO,0
+Inyo,101,Proposition 22,,,YES,366
+Inyo,102,Proposition 22,,,YES,514
+Inyo,103,Proposition 22,,,YES,379
+Inyo,104,Proposition 22,,,YES,83
+Inyo,105,Proposition 22,,,YES,439
+Inyo,106,Proposition 22,,,YES,226
+Inyo,107,Proposition 22,,,YES,176
+Inyo,108,Proposition 22,,,YES,500
+Inyo,109,Proposition 22,,,YES,594
+Inyo,110,Proposition 22,,,YES,237
+Inyo,111,Proposition 22,,,YES,68
+Inyo,112,Proposition 22,,,YES,227
+Inyo,113,Proposition 22,,,YES,551
+Inyo,114,Proposition 22,,,YES,2
+Inyo,115,Proposition 22,,,YES,29
+Inyo,116,Proposition 22,,,YES,211
+Inyo,117,Proposition 22,,,YES,467
+Inyo,118,Proposition 22,,,YES,24
+Inyo,119,Proposition 22,,,YES,127
+Inyo,120,Proposition 22,,,YES,116
+Inyo,121,Proposition 22,,,YES,0
+Inyo,101,Proposition 22,,,NO,252
+Inyo,102,Proposition 22,,,NO,337
+Inyo,103,Proposition 22,,,NO,226
+Inyo,104,Proposition 22,,,NO,27
+Inyo,105,Proposition 22,,,NO,397
+Inyo,106,Proposition 22,,,NO,222
+Inyo,107,Proposition 22,,,NO,210
+Inyo,108,Proposition 22,,,NO,341
+Inyo,109,Proposition 22,,,NO,298
+Inyo,110,Proposition 22,,,NO,198
+Inyo,111,Proposition 22,,,NO,69
+Inyo,112,Proposition 22,,,NO,125
+Inyo,113,Proposition 22,,,NO,371
+Inyo,114,Proposition 22,,,NO,1
+Inyo,115,Proposition 22,,,NO,23
+Inyo,116,Proposition 22,,,NO,148
+Inyo,117,Proposition 22,,,NO,347
+Inyo,118,Proposition 22,,,NO,22
+Inyo,119,Proposition 22,,,NO,84
+Inyo,120,Proposition 22,,,NO,110
+Inyo,121,Proposition 22,,,NO,0
+Inyo,101,Proposition 23,,,YES,140
+Inyo,102,Proposition 23,,,YES,252
+Inyo,103,Proposition 23,,,YES,149
+Inyo,104,Proposition 23,,,YES,21
+Inyo,105,Proposition 23,,,YES,248
+Inyo,106,Proposition 23,,,YES,158
+Inyo,107,Proposition 23,,,YES,123
+Inyo,108,Proposition 23,,,YES,195
+Inyo,109,Proposition 23,,,YES,143
+Inyo,110,Proposition 23,,,YES,162
+Inyo,111,Proposition 23,,,YES,56
+Inyo,112,Proposition 23,,,YES,65
+Inyo,113,Proposition 23,,,YES,255
+Inyo,114,Proposition 23,,,YES,0
+Inyo,115,Proposition 23,,,YES,9
+Inyo,116,Proposition 23,,,YES,91
+Inyo,117,Proposition 23,,,YES,238
+Inyo,118,Proposition 23,,,YES,14
+Inyo,119,Proposition 23,,,YES,48
+Inyo,120,Proposition 23,,,YES,87
+Inyo,121,Proposition 23,,,YES,0
+Inyo,101,Proposition 23,,,NO,482
+Inyo,102,Proposition 23,,,NO,611
+Inyo,103,Proposition 23,,,NO,452
+Inyo,104,Proposition 23,,,NO,93
+Inyo,105,Proposition 23,,,NO,593
+Inyo,106,Proposition 23,,,NO,295
+Inyo,107,Proposition 23,,,NO,256
+Inyo,108,Proposition 23,,,NO,638
+Inyo,109,Proposition 23,,,NO,748
+Inyo,110,Proposition 23,,,NO,275
+Inyo,111,Proposition 23,,,NO,83
+Inyo,112,Proposition 23,,,NO,283
+Inyo,113,Proposition 23,,,NO,673
+Inyo,114,Proposition 23,,,NO,3
+Inyo,115,Proposition 23,,,NO,41
+Inyo,116,Proposition 23,,,NO,272
+Inyo,117,Proposition 23,,,NO,586
+Inyo,118,Proposition 23,,,NO,33
+Inyo,119,Proposition 23,,,NO,162
+Inyo,120,Proposition 23,,,NO,133
+Inyo,121,Proposition 23,,,NO,0
+Inyo,101,Proposition 24,,,YES,276
+Inyo,102,Proposition 24,,,YES,399
+Inyo,103,Proposition 24,,,YES,234
+Inyo,104,Proposition 24,,,YES,43
+Inyo,105,Proposition 24,,,YES,395
+Inyo,106,Proposition 24,,,YES,248
+Inyo,107,Proposition 24,,,YES,190
+Inyo,108,Proposition 24,,,YES,358
+Inyo,109,Proposition 24,,,YES,304
+Inyo,110,Proposition 24,,,YES,275
+Inyo,111,Proposition 24,,,YES,92
+Inyo,112,Proposition 24,,,YES,145
+Inyo,113,Proposition 24,,,YES,446
+Inyo,114,Proposition 24,,,YES,1
+Inyo,115,Proposition 24,,,YES,29
+Inyo,116,Proposition 24,,,YES,164
+Inyo,117,Proposition 24,,,YES,359
+Inyo,118,Proposition 24,,,YES,21
+Inyo,119,Proposition 24,,,YES,92
+Inyo,120,Proposition 24,,,YES,126
+Inyo,121,Proposition 24,,,YES,0
+Inyo,101,Proposition 24,,,NO,347
+Inyo,102,Proposition 24,,,NO,457
+Inyo,103,Proposition 24,,,NO,365
+Inyo,104,Proposition 24,,,NO,69
+Inyo,105,Proposition 24,,,NO,435
+Inyo,106,Proposition 24,,,NO,203
+Inyo,107,Proposition 24,,,NO,192
+Inyo,108,Proposition 24,,,NO,479
+Inyo,109,Proposition 24,,,NO,585
+Inyo,110,Proposition 24,,,NO,149
+Inyo,111,Proposition 24,,,NO,45
+Inyo,112,Proposition 24,,,NO,203
+Inyo,113,Proposition 24,,,NO,459
+Inyo,114,Proposition 24,,,NO,2
+Inyo,115,Proposition 24,,,NO,23
+Inyo,116,Proposition 24,,,NO,195
+Inyo,117,Proposition 24,,,NO,448
+Inyo,118,Proposition 24,,,NO,24
+Inyo,119,Proposition 24,,,NO,123
+Inyo,120,Proposition 24,,,NO,96
+Inyo,121,Proposition 24,,,NO,0
+Inyo,101,Proposition 25,,,YES,238
+Inyo,102,Proposition 25,,,YES,278
+Inyo,103,Proposition 25,,,YES,187
+Inyo,104,Proposition 25,,,YES,24
+Inyo,105,Proposition 25,,,YES,340
+Inyo,106,Proposition 25,,,YES,205
+Inyo,107,Proposition 25,,,YES,182
+Inyo,108,Proposition 25,,,YES,295
+Inyo,109,Proposition 25,,,YES,234
+Inyo,110,Proposition 25,,,YES,213
+Inyo,111,Proposition 25,,,YES,60
+Inyo,112,Proposition 25,,,YES,97
+Inyo,113,Proposition 25,,,YES,347
+Inyo,114,Proposition 25,,,YES,1
+Inyo,115,Proposition 25,,,YES,19
+Inyo,116,Proposition 25,,,YES,116
+Inyo,117,Proposition 25,,,YES,284
+Inyo,118,Proposition 25,,,YES,21
+Inyo,119,Proposition 25,,,YES,77
+Inyo,120,Proposition 25,,,YES,110
+Inyo,121,Proposition 25,,,YES,0
+Inyo,101,Proposition 25,,,NO,382
+Inyo,102,Proposition 25,,,NO,576
+Inyo,103,Proposition 25,,,NO,418
+Inyo,104,Proposition 25,,,NO,86
+Inyo,105,Proposition 25,,,NO,491
+Inyo,106,Proposition 25,,,NO,241
+Inyo,107,Proposition 25,,,NO,197
+Inyo,108,Proposition 25,,,NO,538
+Inyo,109,Proposition 25,,,NO,657
+Inyo,110,Proposition 25,,,NO,218
+Inyo,111,Proposition 25,,,NO,74
+Inyo,112,Proposition 25,,,NO,255
+Inyo,113,Proposition 25,,,NO,567
+Inyo,114,Proposition 25,,,NO,2
+Inyo,115,Proposition 25,,,NO,32
+Inyo,116,Proposition 25,,,NO,238
+Inyo,117,Proposition 25,,,NO,518
+Inyo,118,Proposition 25,,,NO,24
+Inyo,119,Proposition 25,,,NO,136
+Inyo,120,Proposition 25,,,NO,108
+Inyo,121,Proposition 25,,,NO,0
+Inyo,105,Measure P - The Bishop Community Safety And Essential Services Measure,,,YES,547
+Inyo,106,Measure P - The Bishop Community Safety And Essential Services Measure,,,YES,331
+Inyo,107,Measure P - The Bishop Community Safety And Essential Services Measure,,,YES,283
+Inyo,105,Measure P - The Bishop Community Safety And Essential Services Measure,,,NO,306
+Inyo,106,Measure P - The Bishop Community Safety And Essential Services Measure,,,NO,122
+Inyo,107,Measure P - The Bishop Community Safety And Essential Services Measure,,,NO,108
