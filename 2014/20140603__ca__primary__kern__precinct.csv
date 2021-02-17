@@ -65,6 +65,7 @@ Kern,0011155,Treasurer,,GRN,Ellen H. Brown,20
 Kern,0011155,Treasurer,,REP,Greg Conlon,222
 Kern,0011155,Treasurer,,DEM,John Chiang,93
 Kern,0011155,U.S. House,23,REP,Kevin McCarthy,280
+Kern,0011155,U.S. House,23,REP,Mike Biglay,2
 Kern,0011190,Attorney General,,REP,David King,17
 Kern,0011190,Attorney General,,REP,John Haggerty,63
 Kern,0011190,Attorney General,,LIB,Jonathan Jaech,21
@@ -126,6 +127,7 @@ Kern,0011190,State Assembly,26,DEM,Ruben Macareno,21
 Kern,0011190,State Assembly,26,REP,Rudy Mendoza,160
 Kern,0011190,State Assembly,26,REP,"Teresita ""Tess"" Andres",43
 Kern,0011190,State Senate,16,REP,Jean Fuller,360
+Kern,0011190,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0011190,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,113
 Kern,0011190,Superintendent of Public Instruction,,NOP,Marshall Tuck,180
 Kern,0011190,Superintendent of Public Instruction,,NOP,Tom Torlakson,136
@@ -133,6 +135,7 @@ Kern,0011190,Treasurer,,GRN,Ellen H. Brown,48
 Kern,0011190,Treasurer,,REP,Greg Conlon,254
 Kern,0011190,Treasurer,,DEM,John Chiang,147
 Kern,0011190,U.S. House,23,REP,Kevin McCarthy,369
+Kern,0011190,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0011195,Attorney General,,REP,David King,17
 Kern,0011195,Attorney General,,REP,John Haggerty,32
 Kern,0011195,Attorney General,,LIB,Jonathan Jaech,9
@@ -182,6 +185,7 @@ Kern,0011195,Secretary of State,,REP,Roy Allmond,34
 Kern,0011195,State Assembly,34,REP,Shannon Grove,294
 Kern,0011195,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",38
 Kern,0011195,State Senate,16,REP,Jean Fuller,297
+Kern,0011195,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0011195,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,61
 Kern,0011195,Superintendent of Public Instruction,,NOP,Marshall Tuck,131
 Kern,0011195,Superintendent of Public Instruction,,NOP,Tom Torlakson,112
@@ -189,6 +193,7 @@ Kern,0011195,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0011195,Treasurer,,REP,Greg Conlon,247
 Kern,0011195,Treasurer,,DEM,John Chiang,57
 Kern,0011195,U.S. House,23,REP,Kevin McCarthy,287
+Kern,0011195,U.S. House,23,DEM,Raul Garcia,3
 Kern,0011530,Attorney General,,REP,David King,5
 Kern,0011530,Attorney General,,REP,John Haggerty,6
 Kern,0011530,Attorney General,,LIB,Jonathan Jaech,2
@@ -934,6 +939,7 @@ Kern,0011725,State Assembly,26,DEM,Ruben Macareno,20
 Kern,0011725,State Assembly,26,REP,Rudy Mendoza,147
 Kern,0011725,State Assembly,26,REP,"Teresita ""Tess"" Andres",46
 Kern,0011725,State Senate,16,REP,Jean Fuller,315
+Kern,0011725,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0011725,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,76
 Kern,0011725,Superintendent of Public Instruction,,NOP,Marshall Tuck,147
 Kern,0011725,Superintendent of Public Instruction,,NOP,Tom Torlakson,146
@@ -941,6 +947,8 @@ Kern,0011725,Treasurer,,GRN,Ellen H. Brown,30
 Kern,0011725,Treasurer,,REP,Greg Conlon,219
 Kern,0011725,Treasurer,,DEM,John Chiang,139
 Kern,0011725,U.S. House,23,REP,Kevin McCarthy,318
+Kern,0011725,U.S. House,23,REP,Mike Biglay,1
+Kern,0011725,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0011990,Attorney General,,REP,David King,34
 Kern,0011990,Attorney General,,REP,John Haggerty,58
 Kern,0011990,Attorney General,,LIB,Jonathan Jaech,30
@@ -1004,6 +1012,8 @@ Kern,0011990,Treasurer,,GRN,Ellen H. Brown,42
 Kern,0011990,Treasurer,,REP,Greg Conlon,345
 Kern,0011990,Treasurer,,DEM,John Chiang,128
 Kern,0011990,U.S. House,23,REP,Kevin McCarthy,426
+Kern,0011990,U.S. House,23,REP,Mike Biglay,3
+Kern,0011990,U.S. House,23,DEM,Raul Garcia,4
 Kern,0012171,Attorney General,,REP,David King,12
 Kern,0012171,Attorney General,,REP,John Haggerty,29
 Kern,0012171,Attorney General,,LIB,Jonathan Jaech,7
@@ -1196,6 +1206,7 @@ Kern,0012505,State Assembly,26,DEM,Ruben Macareno,23
 Kern,0012505,State Assembly,26,REP,Rudy Mendoza,177
 Kern,0012505,State Assembly,26,REP,"Teresita ""Tess"" Andres",35
 Kern,0012505,State Senate,16,REP,Jean Fuller,301
+Kern,0012505,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0012505,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,54
 Kern,0012505,Superintendent of Public Instruction,,NOP,Marshall Tuck,156
 Kern,0012505,Superintendent of Public Instruction,,NOP,Tom Torlakson,112
@@ -1203,6 +1214,8 @@ Kern,0012505,Treasurer,,GRN,Ellen H. Brown,25
 Kern,0012505,Treasurer,,REP,Greg Conlon,230
 Kern,0012505,Treasurer,,DEM,John Chiang,92
 Kern,0012505,U.S. House,23,REP,Kevin McCarthy,290
+Kern,0012505,U.S. House,23,REP,Mike Biglay,5
+Kern,0012505,U.S. House,23,DEM,Raul Garcia,2
 Kern,0012591,Attorney General,,REP,David King,6
 Kern,0012591,Attorney General,,REP,John Haggerty,3
 Kern,0012591,Attorney General,,LIB,Jonathan Jaech,2
@@ -1515,6 +1528,7 @@ Kern,0012622,Treasurer,,GRN,Ellen H. Brown,15
 Kern,0012622,Treasurer,,REP,Greg Conlon,218
 Kern,0012622,Treasurer,,DEM,John Chiang,67
 Kern,0012622,U.S. House,23,REP,Kevin McCarthy,262
+Kern,0012622,U.S. House,23,REP,Mike Biglay,1
 Kern,0012623,Attorney General,,REP,David King,22
 Kern,0012623,Attorney General,,REP,John Haggerty,25
 Kern,0012623,Attorney General,,LIB,Jonathan Jaech,6
@@ -1632,6 +1646,7 @@ Kern,0012650,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0012650,Treasurer,,REP,Greg Conlon,312
 Kern,0012650,Treasurer,,DEM,John Chiang,58
 Kern,0012650,U.S. House,23,REP,Kevin McCarthy,349
+Kern,0012650,U.S. House,23,REP,Mike Biglay,2
 Kern,0012670,Attorney General,,REP,David King,3
 Kern,0012670,Attorney General,,REP,John Haggerty,27
 Kern,0012670,Attorney General,,LIB,Jonathan Jaech,12
@@ -1690,6 +1705,7 @@ Kern,0012670,Treasurer,,GRN,Ellen H. Brown,16
 Kern,0012670,Treasurer,,REP,Greg Conlon,190
 Kern,0012670,Treasurer,,DEM,John Chiang,70
 Kern,0012670,U.S. House,23,REP,Kevin McCarthy,240
+Kern,0012670,U.S. House,23,REP,Mike Biglay,1
 Kern,0012709,Attorney General,,REP,David King,7
 Kern,0012709,Attorney General,,REP,John Haggerty,17
 Kern,0012709,Attorney General,,LIB,Jonathan Jaech,4
@@ -1749,6 +1765,7 @@ Kern,0012709,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0012709,Treasurer,,REP,Greg Conlon,119
 Kern,0012709,Treasurer,,DEM,John Chiang,44
 Kern,0012709,U.S. House,23,REP,Kevin McCarthy,145
+Kern,0012709,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0012921,Attorney General,,REP,David King,26
 Kern,0012921,Attorney General,,REP,John Haggerty,27
 Kern,0012921,Attorney General,,LIB,Jonathan Jaech,15
@@ -1933,6 +1950,7 @@ Kern,0012923,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0012923,Treasurer,,REP,Greg Conlon,97
 Kern,0012923,Treasurer,,DEM,John Chiang,60
 Kern,0012923,U.S. House,23,REP,Kevin McCarthy,139
+Kern,0012923,U.S. House,23,REP,Mike Biglay,1
 Kern,0012924,Attorney General,,REP,David King,10
 Kern,0012924,Attorney General,,REP,John Haggerty,15
 Kern,0012924,Attorney General,,LIB,Jonathan Jaech,13
@@ -1992,6 +2010,7 @@ Kern,0012924,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0012924,Treasurer,,REP,Greg Conlon,155
 Kern,0012924,Treasurer,,DEM,John Chiang,70
 Kern,0012924,U.S. House,23,REP,Kevin McCarthy,197
+Kern,0012924,U.S. House,23,IND,Ronald L. Porter,3
 Kern,0012925,Attorney General,,REP,David King,15
 Kern,0012925,Attorney General,,REP,John Haggerty,23
 Kern,0012925,Attorney General,,LIB,Jonathan Jaech,15
@@ -2046,6 +2065,7 @@ Kern,0012925,Secretary of State,,REP,Roy Allmond,23
 Kern,0012925,State Assembly,34,REP,Shannon Grove,247
 Kern,0012925,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",100
 Kern,0012925,State Senate,16,REP,Jean Fuller,274
+Kern,0012925,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0012925,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,81
 Kern,0012925,Superintendent of Public Instruction,,NOP,Marshall Tuck,96
 Kern,0012925,Superintendent of Public Instruction,,NOP,Tom Torlakson,144
@@ -2053,6 +2073,9 @@ Kern,0012925,Treasurer,,GRN,Ellen H. Brown,23
 Kern,0012925,Treasurer,,REP,Greg Conlon,202
 Kern,0012925,Treasurer,,DEM,John Chiang,121
 Kern,0012925,U.S. House,23,REP,Kevin McCarthy,271
+Kern,0012925,U.S. House,23,LIB,Gail K. Lightfoot,1
+Kern,0012925,U.S. House,23,IND,Ronald L. Porter,4
+Kern,0012925,U.S. House,23,DEM,Raul Garcia,5
 Kern,0012926,Attorney General,,REP,David King,31
 Kern,0012926,Attorney General,,REP,John Haggerty,38
 Kern,0012926,Attorney General,,LIB,Jonathan Jaech,14
@@ -2115,6 +2138,8 @@ Kern,0012926,Treasurer,,GRN,Ellen H. Brown,25
 Kern,0012926,Treasurer,,REP,Greg Conlon,331
 Kern,0012926,Treasurer,,DEM,John Chiang,138
 Kern,0012926,U.S. House,23,REP,Kevin McCarthy,415
+Kern,0012926,U.S. House,23,DEM,Raul Garcia,2
+Kern,0012926,U.S. House,23,IND,Ronald L. Porter,6
 Kern,0012927,Attorney General,,REP,David King,11
 Kern,0012927,Attorney General,,REP,John Haggerty,15
 Kern,0012927,Attorney General,,LIB,Jonathan Jaech,10
@@ -2176,6 +2201,9 @@ Kern,0012927,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0012927,Treasurer,,REP,Greg Conlon,109
 Kern,0012927,Treasurer,,DEM,John Chiang,32
 Kern,0012927,U.S. House,23,REP,Kevin McCarthy,139
+Kern,0012927,U.S. House,23,REP,Mike Biglay,1
+Kern,0012927,U.S. House,23,IND,Ronald L. Porter,1
+Kern,0012927,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0012928,Attorney General,,REP,David King,14
 Kern,0012928,Attorney General,,REP,John Haggerty,43
 Kern,0012928,Attorney General,,LIB,Jonathan Jaech,20
@@ -2238,6 +2266,7 @@ Kern,0012928,Treasurer,,GRN,Ellen H. Brown,14
 Kern,0012928,Treasurer,,REP,Greg Conlon,215
 Kern,0012928,Treasurer,,DEM,John Chiang,104
 Kern,0012928,U.S. House,23,REP,Kevin McCarthy,272
+Kern,0012928,U.S. House,23,DEM,Raul Garcia,3
 Kern,0012933,Attorney General,,REP,David King,7
 Kern,0012933,Attorney General,,REP,John Haggerty,27
 Kern,0012933,Attorney General,,LIB,Jonathan Jaech,14
@@ -2298,6 +2327,8 @@ Kern,0012933,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0012933,Treasurer,,REP,Greg Conlon,163
 Kern,0012933,Treasurer,,DEM,John Chiang,58
 Kern,0012933,U.S. House,23,REP,Kevin McCarthy,199
+Kern,0012933,U.S. House,23,DEM,Raul Garcia,2
+Kern,0012933,U.S. House,23,IND,Ronald L. Porter,2
 Kern,0012934,Attorney General,,REP,David King,14
 Kern,0012934,Attorney General,,REP,John Haggerty,23
 Kern,0012934,Attorney General,,LIB,Jonathan Jaech,7
@@ -2420,6 +2451,8 @@ Kern,0012935,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0012935,Treasurer,,REP,Greg Conlon,161
 Kern,0012935,Treasurer,,DEM,John Chiang,68
 Kern,0012935,U.S. House,23,REP,Kevin McCarthy,208
+Kern,0012935,U.S. House,23,REP,Mike Biglay,2
+Kern,0012935,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0012941,Attorney General,,REP,David King,13
 Kern,0012941,Attorney General,,REP,John Haggerty,24
 Kern,0012941,Attorney General,,LIB,Jonathan Jaech,16
@@ -2482,6 +2515,7 @@ Kern,0012941,Treasurer,,GRN,Ellen H. Brown,21
 Kern,0012941,Treasurer,,REP,Greg Conlon,179
 Kern,0012941,Treasurer,,DEM,John Chiang,85
 Kern,0012941,U.S. House,23,REP,Kevin McCarthy,237
+Kern,0012941,U.S. House,23,IND,Ronald L. Porter,4
 Kern,0012996,Attorney General,,REP,David King,17
 Kern,0012996,Attorney General,,REP,John Haggerty,29
 Kern,0012996,Attorney General,,LIB,Jonathan Jaech,8
@@ -2548,6 +2582,8 @@ Kern,0012996,Treasurer,,GRN,Ellen H. Brown,17
 Kern,0012996,Treasurer,,REP,Greg Conlon,148
 Kern,0012996,Treasurer,,DEM,John Chiang,111
 Kern,0012996,U.S. House,23,REP,Kevin McCarthy,206
+Kern,0012996,U.S. House,23,REP,Mike Biglay,1
+Kern,0012996,U.S. House,23,DEM,Raul Garcia,1
 Kern,0013070,Attorney General,,REP,David King,23
 Kern,0013070,Attorney General,,REP,John Haggerty,42
 Kern,0013070,Attorney General,,LIB,Jonathan Jaech,17
@@ -2611,6 +2647,7 @@ Kern,0013070,Treasurer,,GRN,Ellen H. Brown,26
 Kern,0013070,Treasurer,,REP,Greg Conlon,355
 Kern,0013070,Treasurer,,DEM,John Chiang,159
 Kern,0013070,U.S. House,23,REP,Kevin McCarthy,429
+Kern,0013070,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0013076,Attorney General,,REP,David King,3
 Kern,0013076,Attorney General,,REP,John Haggerty,10
 Kern,0013076,Attorney General,,LIB,Jonathan Jaech,2
@@ -2671,6 +2708,8 @@ Kern,0013076,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0013076,Treasurer,,REP,Greg Conlon,51
 Kern,0013076,Treasurer,,DEM,John Chiang,42
 Kern,0013076,U.S. House,23,REP,Kevin McCarthy,74
+Kern,0013076,U.S. House,23,REP,Mike Biglay,2
+Kern,0013076,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0013078,Attorney General,,REP,David King,8
 Kern,0013078,Attorney General,,REP,John Haggerty,19
 Kern,0013078,Attorney General,,LIB,Jonathan Jaech,7
@@ -2731,6 +2770,7 @@ Kern,0013078,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0013078,Treasurer,,REP,Greg Conlon,124
 Kern,0013078,Treasurer,,DEM,John Chiang,54
 Kern,0013078,U.S. House,23,REP,Kevin McCarthy,173
+Kern,0013078,U.S. House,23,DEM,Raul Garcia,3
 Kern,0013100,Attorney General,,REP,David King,18
 Kern,0013100,Attorney General,,REP,John Haggerty,18
 Kern,0013100,Attorney General,,LIB,Jonathan Jaech,5
@@ -3109,6 +3149,7 @@ Kern,0013194,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0013194,Treasurer,,REP,Greg Conlon,97
 Kern,0013194,Treasurer,,DEM,John Chiang,54
 Kern,0013194,U.S. House,23,REP,Kevin McCarthy,136
+Kern,0013194,U.S. House,23,REP,Mike Biglay,2
 Kern,0015106,Attorney General,,REP,David King,17
 Kern,0015106,Attorney General,,REP,John Haggerty,26
 Kern,0015106,Attorney General,,LIB,Jonathan Jaech,11
@@ -3159,6 +3200,7 @@ Kern,0015106,Secretary of State,,REP,Roy Allmond,32
 Kern,0015106,State Assembly,34,REP,Shannon Grove,263
 Kern,0015106,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",105
 Kern,0015106,State Senate,16,REP,Jean Fuller,298
+Kern,0015106,State Senate,16,DEM,Ruth Musser-Lopez,3
 Kern,0015106,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,79
 Kern,0015106,Superintendent of Public Instruction,,NOP,Marshall Tuck,105
 Kern,0015106,Superintendent of Public Instruction,,NOP,Tom Torlakson,149
@@ -3166,6 +3208,9 @@ Kern,0015106,Treasurer,,GRN,Ellen H. Brown,14
 Kern,0015106,Treasurer,,REP,Greg Conlon,223
 Kern,0015106,Treasurer,,DEM,John Chiang,120
 Kern,0015106,U.S. House,23,REP,Kevin McCarthy,287
+Kern,0015106,U.S. House,23,REP,Mike Biglay,3
+Kern,0015106,U.S. House,23,DEM,Raul Garcia,3
+Kern,0015106,U.S. House,23,LIB,Gail K. Lightfoot,3
 Kern,0015109,Attorney General,,REP,David King,12
 Kern,0015109,Attorney General,,REP,John Haggerty,25
 Kern,0015109,Attorney General,,LIB,Jonathan Jaech,4
@@ -3223,6 +3268,7 @@ Kern,0015109,Treasurer,,GRN,Ellen H. Brown,2
 Kern,0015109,Treasurer,,REP,Greg Conlon,168
 Kern,0015109,Treasurer,,DEM,John Chiang,85
 Kern,0015109,U.S. House,23,REP,Kevin McCarthy,213
+Kern,0015109,U.S. House,23,REP,Mike Biglay,2
 Kern,0015110,Attorney General,,REP,David King,45
 Kern,0015110,Attorney General,,REP,John Haggerty,57
 Kern,0015110,Attorney General,,LIB,Jonathan Jaech,13
@@ -3279,6 +3325,7 @@ Kern,0015110,Secretary of State,,REP,Roy Allmond,57
 Kern,0015110,State Assembly,34,REP,Shannon Grove,594
 Kern,0015110,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",158
 Kern,0015110,State Senate,16,REP,Jean Fuller,625
+Kern,0015110,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0015110,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,144
 Kern,0015110,Superintendent of Public Instruction,,NOP,Marshall Tuck,285
 Kern,0015110,Superintendent of Public Instruction,,NOP,Tom Torlakson,285
@@ -3286,6 +3333,8 @@ Kern,0015110,Treasurer,,GRN,Ellen H. Brown,18
 Kern,0015110,Treasurer,,REP,Greg Conlon,529
 Kern,0015110,Treasurer,,DEM,John Chiang,210
 Kern,0015110,U.S. House,23,REP,Kevin McCarthy,608
+Kern,0015110,U.S. House,23,REP,Mike Biglay,1
+Kern,0015110,U.S. House,23,DEM,Raul Garcia,3
 Kern,0015113,Attorney General,,REP,David King,12
 Kern,0015113,Attorney General,,REP,John Haggerty,31
 Kern,0015113,Attorney General,,LIB,Jonathan Jaech,5
@@ -3337,6 +3386,7 @@ Kern,0015113,Secretary of State,,REP,Roy Allmond,22
 Kern,0015113,State Assembly,34,REP,Shannon Grove,220
 Kern,0015113,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",47
 Kern,0015113,State Senate,16,REP,Jean Fuller,238
+Kern,0015113,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0015113,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,46
 Kern,0015113,Superintendent of Public Instruction,,NOP,Marshall Tuck,89
 Kern,0015113,Superintendent of Public Instruction,,NOP,Tom Torlakson,123
@@ -3344,6 +3394,9 @@ Kern,0015113,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0015113,Treasurer,,REP,Greg Conlon,166
 Kern,0015113,Treasurer,,DEM,John Chiang,87
 Kern,0015113,U.S. House,23,REP,Kevin McCarthy,228
+Kern,0015113,U.S. House,23,REP,Mike Biglay,3
+Kern,0015113,U.S. House,23,DEM,Raul Garcia,1
+Kern,0015113,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0015114,Attorney General,,REP,David King,2
 Kern,0015114,Attorney General,,REP,John Haggerty,8
 Kern,0015114,Attorney General,,LIB,Jonathan Jaech,3
@@ -3751,6 +3804,7 @@ Kern,0020243,Secretary of State,,REP,Roy Allmond,25
 Kern,0020243,State Assembly,34,REP,Shannon Grove,123
 Kern,0020243,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",64
 Kern,0020243,State Senate,16,REP,Jean Fuller,141
+Kern,0020243,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0020243,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,51
 Kern,0020243,Superintendent of Public Instruction,,NOP,Marshall Tuck,61
 Kern,0020243,Superintendent of Public Instruction,,NOP,Tom Torlakson,63
@@ -3758,6 +3812,7 @@ Kern,0020243,Treasurer,,GRN,Ellen H. Brown,14
 Kern,0020243,Treasurer,,REP,Greg Conlon,93
 Kern,0020243,Treasurer,,DEM,John Chiang,79
 Kern,0020243,U.S. House,23,REP,Kevin McCarthy,139
+Kern,0020243,U.S. House,23,DEM,Raul Garcia,1
 Kern,0020245,Attorney General,,REP,David King,1
 Kern,0020245,Attorney General,,REP,John Haggerty,3
 Kern,0020245,Attorney General,,LIB,Jonathan Jaech,1
@@ -3809,6 +3864,7 @@ Kern,0020245,Secretary of State,,REP,Roy Allmond,4
 Kern,0020245,State Assembly,34,REP,Shannon Grove,44
 Kern,0020245,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",53
 Kern,0020245,State Senate,16,REP,Jean Fuller,73
+Kern,0020245,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0020245,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,34
 Kern,0020245,Superintendent of Public Instruction,,NOP,Marshall Tuck,19
 Kern,0020245,Superintendent of Public Instruction,,NOP,Tom Torlakson,35
@@ -4004,6 +4060,9 @@ Kern,0020249,Treasurer,,GRN,Ellen H. Brown,17
 Kern,0020249,Treasurer,,REP,Greg Conlon,156
 Kern,0020249,Treasurer,,DEM,John Chiang,131
 Kern,0020249,U.S. House,23,REP,Kevin McCarthy,231
+Kern,0020249,U.S. House,23,REP,Mike Biglay,1
+Kern,0020249,U.S. House,23,DEM,Raul Garcia,1
+Kern,0020249,U.S. House,23,LIB,Gail K. Lightfoot,2
 Kern,0020253,Attorney General,,REP,David King,10
 Kern,0020253,Attorney General,,REP,John Haggerty,10
 Kern,0020253,Attorney General,,LIB,Jonathan Jaech,7
@@ -4065,6 +4124,7 @@ Kern,0020253,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0020253,Treasurer,,REP,Greg Conlon,88
 Kern,0020253,Treasurer,,DEM,John Chiang,81
 Kern,0020253,U.S. House,23,REP,Kevin McCarthy,153
+Kern,0020253,U.S. House,23,DEM,Raul Garcia,3
 Kern,0020254,Attorney General,,REP,David King,11
 Kern,0020254,Attorney General,,REP,John Haggerty,8
 Kern,0020254,Attorney General,,LIB,Jonathan Jaech,2
@@ -4128,6 +4188,7 @@ Kern,0020254,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0020254,Treasurer,,REP,Greg Conlon,134
 Kern,0020254,Treasurer,,DEM,John Chiang,80
 Kern,0020254,U.S. House,23,REP,Kevin McCarthy,180
+Kern,0020254,U.S. House,23,DEM,Raul Garcia,1
 Kern,0020256,Attorney General,,REP,David King,3
 Kern,0020256,Attorney General,,REP,John Haggerty,15
 Kern,0020256,Attorney General,,LIB,Jonathan Jaech,3
@@ -4189,6 +4250,7 @@ Kern,0020256,Treasurer,,GRN,Ellen H. Brown,15
 Kern,0020256,Treasurer,,REP,Greg Conlon,113
 Kern,0020256,Treasurer,,DEM,John Chiang,99
 Kern,0020256,U.S. House,23,REP,Kevin McCarthy,174
+Kern,0020256,U.S. House,23,DEM,Raul Garcia,2
 Kern,0020260,Attorney General,,REP,David King,7
 Kern,0020260,Attorney General,,REP,John Haggerty,9
 Kern,0020260,Attorney General,,LIB,Jonathan Jaech,3
@@ -4247,6 +4309,8 @@ Kern,0020260,Treasurer,,GRN,Ellen H. Brown,1
 Kern,0020260,Treasurer,,REP,Greg Conlon,62
 Kern,0020260,Treasurer,,DEM,John Chiang,62
 Kern,0020260,U.S. House,23,REP,Kevin McCarthy,85
+Kern,0020260,U.S. House,23,REP,Mike Biglay,4
+Kern,0020260,U.S. House,23,DEM,Raul Garcia,1
 Kern,0020263,Attorney General,,REP,David King,5
 Kern,0020263,Attorney General,,REP,John Haggerty,2
 Kern,0020263,Attorney General,,DEM,Kamala D. Harris,36
@@ -4421,6 +4485,7 @@ Kern,0020272,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0020272,Treasurer,,REP,Greg Conlon,71
 Kern,0020272,Treasurer,,DEM,John Chiang,93
 Kern,0020272,U.S. House,23,REP,Kevin McCarthy,128
+Kern,0020272,U.S. House,23,REP,Mike Biglay,1
 Kern,0020282,Attorney General,,REP,David King,7
 Kern,0020282,Attorney General,,REP,John Haggerty,15
 Kern,0020282,Attorney General,,LIB,Jonathan Jaech,1
@@ -4481,6 +4546,7 @@ Kern,0020282,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0020282,Treasurer,,REP,Greg Conlon,56
 Kern,0020282,Treasurer,,DEM,John Chiang,63
 Kern,0020282,U.S. House,23,REP,Kevin McCarthy,95
+Kern,0020282,U.S. House,23,REP,Mike Biglay,2
 Kern,0020283,Attorney General,,REP,David King,14
 Kern,0020283,Attorney General,,REP,John Haggerty,12
 Kern,0020283,Attorney General,,LIB,Jonathan Jaech,7
@@ -4785,6 +4851,7 @@ Kern,0020294,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0020294,Treasurer,,REP,Greg Conlon,129
 Kern,0020294,Treasurer,,DEM,John Chiang,101
 Kern,0020294,U.S. House,23,REP,Kevin McCarthy,201
+Kern,0020294,U.S. House,23,REP,Mike Biglay,2
 Kern,0021143,Attorney General,,REP,David King,32
 Kern,0021143,Attorney General,,REP,John Haggerty,43
 Kern,0021143,Attorney General,,LIB,Jonathan Jaech,17
@@ -4839,6 +4906,7 @@ Kern,0021143,Secretary of State,,REP,Roy Allmond,65
 Kern,0021143,State Assembly,34,REP,Shannon Grove,456
 Kern,0021143,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",113
 Kern,0021143,State Senate,16,REP,Jean Fuller,471
+Kern,0021143,State Senate,16,DEM,Ruth Musser-Lopez,4
 Kern,0021143,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,115
 Kern,0021143,Superintendent of Public Instruction,,NOP,Marshall Tuck,210
 Kern,0021143,Superintendent of Public Instruction,,NOP,Tom Torlakson,187
@@ -4846,6 +4914,8 @@ Kern,0021143,Treasurer,,GRN,Ellen H. Brown,18
 Kern,0021143,Treasurer,,REP,Greg Conlon,404
 Kern,0021143,Treasurer,,DEM,John Chiang,148
 Kern,0021143,U.S. House,23,REP,Kevin McCarthy,459
+Kern,0021143,U.S. House,23,REP,Mike Biglay,1
+Kern,0021143,U.S. House,23,DEM,Raul Garcia,9
 Kern,0021144,Attorney General,,REP,David King,11
 Kern,0021144,Attorney General,,REP,John Haggerty,27
 Kern,0021144,Attorney General,,LIB,Jonathan Jaech,7
@@ -4903,6 +4973,7 @@ Kern,0021144,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0021144,Treasurer,,REP,Greg Conlon,169
 Kern,0021144,Treasurer,,DEM,John Chiang,88
 Kern,0021144,U.S. House,23,REP,Kevin McCarthy,206
+Kern,0021144,U.S. House,23,REP,Mike Biglay,1
 Kern,0021145,Attorney General,,REP,David King,25
 Kern,0021145,Attorney General,,REP,John Haggerty,29
 Kern,0021145,Attorney General,,LIB,Jonathan Jaech,13
@@ -4957,6 +5028,7 @@ Kern,0021145,Secretary of State,,REP,Roy Allmond,36
 Kern,0021145,State Assembly,34,REP,Shannon Grove,339
 Kern,0021145,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",88
 Kern,0021145,State Senate,16,REP,Jean Fuller,347
+Kern,0021145,State Senate,16,DEM,Ruth Musser-Lopez,5
 Kern,0021145,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,74
 Kern,0021145,Superintendent of Public Instruction,,NOP,Marshall Tuck,172
 Kern,0021145,Superintendent of Public Instruction,,NOP,Tom Torlakson,114
@@ -4964,6 +5036,8 @@ Kern,0021145,Treasurer,,GRN,Ellen H. Brown,14
 Kern,0021145,Treasurer,,REP,Greg Conlon,293
 Kern,0021145,Treasurer,,DEM,John Chiang,112
 Kern,0021145,U.S. House,23,REP,Kevin McCarthy,337
+Kern,0021145,U.S. House,23,REP,Mike Biglay,4
+Kern,0021145,U.S. House,23,DEM,Raul Garcia,5
 Kern,0021275,Attorney General,,REP,David King,24
 Kern,0021275,Attorney General,,REP,John Haggerty,19
 Kern,0021275,Attorney General,,LIB,Jonathan Jaech,7
@@ -5224,6 +5298,7 @@ Kern,0021282,Treasurer,,GRN,Ellen H. Brown,21
 Kern,0021282,Treasurer,,REP,Greg Conlon,147
 Kern,0021282,Treasurer,,DEM,John Chiang,101
 Kern,0021282,U.S. House,23,REP,Kevin McCarthy,229
+Kern,0021282,U.S. House,23,REP,Mike Biglay,1
 Kern,0021283,Attorney General,,REP,David King,22
 Kern,0021283,Attorney General,,REP,John Haggerty,34
 Kern,0021283,Attorney General,,LIB,Jonathan Jaech,10
@@ -5347,6 +5422,9 @@ Kern,0021511,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0021511,Treasurer,,REP,Greg Conlon,121
 Kern,0021511,Treasurer,,DEM,John Chiang,41
 Kern,0021511,U.S. House,23,REP,Kevin McCarthy,138
+Kern,0021511,U.S. House,23,REP,Mike Biglay,2
+Kern,0021511,U.S. House,23,DEM,Raul Garcia,2
+Kern,0021511,U.S. House,23,LIB,Gail K. Lightfoot,2
 Kern,0021512,Attorney General,,REP,David King,15
 Kern,0021512,Attorney General,,REP,John Haggerty,25
 Kern,0021512,Attorney General,,LIB,Jonathan Jaech,7
@@ -5654,6 +5732,9 @@ Kern,0021885,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0021885,Treasurer,,REP,Greg Conlon,250
 Kern,0021885,Treasurer,,DEM,John Chiang,147
 Kern,0021885,U.S. House,23,REP,Kevin McCarthy,329
+Kern,0021885,U.S. House,23,REP,Mike Biglay,3
+Kern,0021885,U.S. House,23,DEM,Raul Garcia,5
+Kern,0021885,U.S. House,23,IND,Ronald L. Porter,2
 Kern,0021886,Attorney General,,REP,David King,10
 Kern,0021886,Attorney General,,REP,John Haggerty,13
 Kern,0021886,Attorney General,,LIB,Jonathan Jaech,8
@@ -5715,6 +5796,8 @@ Kern,0021886,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0021886,Treasurer,,REP,Greg Conlon,109
 Kern,0021886,Treasurer,,DEM,John Chiang,48
 Kern,0021886,U.S. House,23,REP,Kevin McCarthy,130
+Kern,0021886,U.S. House,23,REP,Mike Biglay,3
+Kern,0021886,U.S. House,23,DEM,Raul Garcia,3
 Kern,0021888,Attorney General,,REP,David King,16
 Kern,0021888,Attorney General,,REP,John Haggerty,31
 Kern,0021888,Attorney General,,LIB,Jonathan Jaech,7
@@ -5769,6 +5852,7 @@ Kern,0021888,Secretary of State,,REP,Roy Allmond,35
 Kern,0021888,State Assembly,34,REP,Shannon Grove,273
 Kern,0021888,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",67
 Kern,0021888,State Senate,16,REP,Jean Fuller,280
+Kern,0021888,State Senate,16,DEM,Ruth Musser-Lopez,3
 Kern,0021888,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,83
 Kern,0021888,Superintendent of Public Instruction,,NOP,Marshall Tuck,142
 Kern,0021888,Superintendent of Public Instruction,,NOP,Tom Torlakson,88
@@ -5776,6 +5860,9 @@ Kern,0021888,Treasurer,,GRN,Ellen H. Brown,16
 Kern,0021888,Treasurer,,REP,Greg Conlon,229
 Kern,0021888,Treasurer,,DEM,John Chiang,91
 Kern,0021888,U.S. House,23,REP,Kevin McCarthy,271
+Kern,0021888,U.S. House,23,REP,Mike Biglay,1
+Kern,0021888,U.S. House,23,DEM,Raul Garcia,5
+Kern,0021888,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0021889,Attorney General,,REP,David King,13
 Kern,0021889,Attorney General,,REP,John Haggerty,29
 Kern,0021889,Attorney General,,LIB,Jonathan Jaech,12
@@ -5831,6 +5918,7 @@ Kern,0021889,Secretary of State,,REP,Roy Allmond,46
 Kern,0021889,State Assembly,34,REP,Shannon Grove,254
 Kern,0021889,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",84
 Kern,0021889,State Senate,16,REP,Jean Fuller,276
+Kern,0021889,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0021889,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,72
 Kern,0021889,Superintendent of Public Instruction,,NOP,Marshall Tuck,116
 Kern,0021889,Superintendent of Public Instruction,,NOP,Tom Torlakson,114
@@ -5838,6 +5926,8 @@ Kern,0021889,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0021889,Treasurer,,REP,Greg Conlon,204
 Kern,0021889,Treasurer,,DEM,John Chiang,112
 Kern,0021889,U.S. House,23,REP,Kevin McCarthy,272
+Kern,0021889,U.S. House,23,DEM,Raul Garcia,2
+Kern,0021889,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0022003,Attorney General,,REP,David King,3
 Kern,0022003,Attorney General,,REP,John Haggerty,2
 Kern,0022003,Attorney General,,LIB,Jonathan Jaech,1
@@ -5888,6 +5978,7 @@ Kern,0022003,Secretary of State,,REP,Roy Allmond,2
 Kern,0022003,State Assembly,34,REP,Shannon Grove,39
 Kern,0022003,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",31
 Kern,0022003,State Senate,16,REP,Jean Fuller,55
+Kern,0022003,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0022003,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,22
 Kern,0022003,Superintendent of Public Instruction,,NOP,Marshall Tuck,18
 Kern,0022003,Superintendent of Public Instruction,,NOP,Tom Torlakson,27
@@ -5895,6 +5986,8 @@ Kern,0022003,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0022003,Treasurer,,REP,Greg Conlon,32
 Kern,0022003,Treasurer,,DEM,John Chiang,35
 Kern,0022003,U.S. House,23,REP,Kevin McCarthy,52
+Kern,0022003,U.S. House,23,DEM,Raul Garcia,2
+Kern,0022003,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0022005,Attorney General,,REP,David King,2
 Kern,0022005,Attorney General,,REP,John Haggerty,4
 Kern,0022005,Attorney General,,LIB,Jonathan Jaech,3
@@ -5949,6 +6042,7 @@ Kern,0022005,Secretary of State,,REP,Roy Allmond,11
 Kern,0022005,State Assembly,34,REP,Shannon Grove,45
 Kern,0022005,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",48
 Kern,0022005,State Senate,16,REP,Jean Fuller,60
+Kern,0022005,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0022005,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,30
 Kern,0022005,Superintendent of Public Instruction,,NOP,Marshall Tuck,13
 Kern,0022005,Superintendent of Public Instruction,,NOP,Tom Torlakson,48
@@ -5956,6 +6050,7 @@ Kern,0022005,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0022005,Treasurer,,REP,Greg Conlon,31
 Kern,0022005,Treasurer,,DEM,John Chiang,60
 Kern,0022005,U.S. House,23,REP,Kevin McCarthy,58
+Kern,0022005,U.S. House,23,DEM,Raul Garcia,7
 Kern,0022006,Attorney General,,REP,David King,8
 Kern,0022006,Attorney General,,REP,John Haggerty,17
 Kern,0022006,Attorney General,,LIB,Jonathan Jaech,3
@@ -6011,6 +6106,7 @@ Kern,0022006,Secretary of State,,REP,Roy Allmond,22
 Kern,0022006,State Assembly,34,REP,Shannon Grove,125
 Kern,0022006,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",116
 Kern,0022006,State Senate,16,REP,Jean Fuller,153
+Kern,0022006,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0022006,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,59
 Kern,0022006,Superintendent of Public Instruction,,NOP,Marshall Tuck,63
 Kern,0022006,Superintendent of Public Instruction,,NOP,Tom Torlakson,106
@@ -6018,6 +6114,8 @@ Kern,0022006,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0022006,Treasurer,,REP,Greg Conlon,103
 Kern,0022006,Treasurer,,DEM,John Chiang,130
 Kern,0022006,U.S. House,23,REP,Kevin McCarthy,155
+Kern,0022006,U.S. House,23,REP,Mike Biglay,1
+Kern,0022006,U.S. House,23,DEM,Raul Garcia,7
 Kern,0022008,Attorney General,,REP,David King,14
 Kern,0022008,Attorney General,,REP,John Haggerty,12
 Kern,0022008,Attorney General,,LIB,Jonathan Jaech,4
@@ -6076,6 +6174,8 @@ Kern,0022008,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0022008,Treasurer,,REP,Greg Conlon,100
 Kern,0022008,Treasurer,,DEM,John Chiang,85
 Kern,0022008,U.S. House,23,REP,Kevin McCarthy,143
+Kern,0022008,U.S. House,23,REP,Mike Biglay,2
+Kern,0022008,U.S. House,23,DEM,Raul Garcia,3
 Kern,0022018,Attorney General,,REP,David King,14
 Kern,0022018,Attorney General,,REP,John Haggerty,6
 Kern,0022018,Attorney General,,LIB,Jonathan Jaech,3
@@ -6134,6 +6234,7 @@ Kern,0022018,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0022018,Treasurer,,REP,Greg Conlon,71
 Kern,0022018,Treasurer,,DEM,John Chiang,45
 Kern,0022018,U.S. House,23,REP,Kevin McCarthy,102
+Kern,0022018,U.S. House,23,REP,Mike Biglay,1
 Kern,0022033,Attorney General,,REP,David King,4
 Kern,0022033,Attorney General,,REP,John Haggerty,15
 Kern,0022033,Attorney General,,LIB,Jonathan Jaech,7
@@ -6194,6 +6295,8 @@ Kern,0022033,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0022033,Treasurer,,REP,Greg Conlon,83
 Kern,0022033,Treasurer,,DEM,John Chiang,58
 Kern,0022033,U.S. House,23,REP,Kevin McCarthy,128
+Kern,0022033,U.S. House,23,REP,Mike Biglay,2
+Kern,0022033,U.S. House,23,DEM,Raul Garcia,1
 Kern,0022450,Attorney General,,REP,David King,15
 Kern,0022450,Attorney General,,REP,John Haggerty,16
 Kern,0022450,Attorney General,,LIB,Jonathan Jaech,15
@@ -6316,6 +6419,8 @@ Kern,0022480,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0022480,Treasurer,,REP,Greg Conlon,69
 Kern,0022480,Treasurer,,DEM,John Chiang,27
 Kern,0022480,U.S. House,23,REP,Kevin McCarthy,77
+Kern,0022480,U.S. House,23,REP,Mike Biglay,6
+Kern,0022480,U.S. House,23,DEM,Raul Garcia,2
 Kern,0023020,Attorney General,,REP,David King,6
 Kern,0023020,Attorney General,,REP,John Haggerty,19
 Kern,0023020,Attorney General,,LIB,Jonathan Jaech,8
@@ -6818,6 +6923,7 @@ Kern,0023239,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0023239,Treasurer,,REP,Greg Conlon,105
 Kern,0023239,Treasurer,,DEM,John Chiang,100
 Kern,0023239,U.S. House,23,REP,Kevin McCarthy,159
+Kern,0023239,U.S. House,23,DEM,Raul Garcia,4
 Kern,0023241,Attorney General,,REP,David King,5
 Kern,0023241,Attorney General,,REP,John Haggerty,9
 Kern,0023241,Attorney General,,LIB,Jonathan Jaech,3
@@ -6903,6 +7009,7 @@ Kern,0023401,Governor,,IND,Rakesh Kumar Christian,1
 Kern,0023401,Governor,,REP,Richard William Aguirre,1
 Kern,0023401,Governor,,IND,Robert Newman,10
 Kern,0023401,Governor,,REP,Tim Donnelly,79
+Kern,0023401,Governor,,IND,Nickolas Wildstar,1
 Kern,0023401,Insurance Commissioner,,DEM,Dave Jones,111
 Kern,0023401,Insurance Commissioner,,PAF,Nathalie Hrizi,20
 Kern,0023401,Insurance Commissioner,,REP,Ted Gaines,205
@@ -6936,6 +7043,8 @@ Kern,0023401,Treasurer,,GRN,Ellen H. Brown,25
 Kern,0023401,Treasurer,,REP,Greg Conlon,178
 Kern,0023401,Treasurer,,DEM,John Chiang,128
 Kern,0023401,U.S. House,23,REP,Kevin McCarthy,274
+Kern,0023401,U.S. House,23,REP,Mike Biglay,1
+Kern,0023401,U.S. House,23,DEM,Raul Garcia,2
 Kern,0023402,Attorney General,,REP,David King,8
 Kern,0023402,Attorney General,,REP,John Haggerty,7
 Kern,0023402,Attorney General,,LIB,Jonathan Jaech,11
@@ -6993,6 +7102,8 @@ Kern,0023402,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0023402,Treasurer,,REP,Greg Conlon,64
 Kern,0023402,Treasurer,,DEM,John Chiang,50
 Kern,0023402,U.S. House,23,REP,Kevin McCarthy,86
+Kern,0023402,U.S. House,23,REP,Mike Biglay,2
+Kern,0023402,U.S. House,23,DEM,Raul Garcia,1
 Kern,0023403,Attorney General,,REP,David King,12
 Kern,0023403,Attorney General,,REP,John Haggerty,19
 Kern,0023403,Attorney General,,LIB,Jonathan Jaech,12
@@ -7055,6 +7166,7 @@ Kern,0023403,Treasurer,,GRN,Ellen H. Brown,15
 Kern,0023403,Treasurer,,REP,Greg Conlon,152
 Kern,0023403,Treasurer,,DEM,John Chiang,70
 Kern,0023403,U.S. House,23,REP,Kevin McCarthy,210
+Kern,0023403,U.S. House,23,REP,Mike Biglay,5
 Kern,0023404,Attorney General,,REP,David King,17
 Kern,0023404,Attorney General,,REP,John Haggerty,16
 Kern,0023404,Attorney General,,LIB,Jonathan Jaech,16
@@ -7114,6 +7226,7 @@ Kern,0023404,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0023404,Treasurer,,REP,Greg Conlon,131
 Kern,0023404,Treasurer,,DEM,John Chiang,96
 Kern,0023404,U.S. House,23,REP,Kevin McCarthy,178
+Kern,0023404,U.S. House,23,REP,Mike Biglay,3
 Kern,0023450,Attorney General,,REP,David King,16
 Kern,0023450,Attorney General,,REP,John Haggerty,26
 Kern,0023450,Attorney General,,LIB,Jonathan Jaech,11
@@ -7172,6 +7285,7 @@ Kern,0023450,State Assembly,36,DEM,Steve Fox,59
 Kern,0023450,State Assembly,36,REP,Suzette M. Martinez,25
 Kern,0023450,State Assembly,36,REP,Tom Lackey,183
 Kern,0023450,State Senate,16,REP,Jean Fuller,272
+Kern,0023450,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0023450,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,113
 Kern,0023450,Superintendent of Public Instruction,,NOP,Marshall Tuck,96
 Kern,0023450,Superintendent of Public Instruction,,NOP,Tom Torlakson,94
@@ -7179,6 +7293,8 @@ Kern,0023450,Treasurer,,GRN,Ellen H. Brown,22
 Kern,0023450,Treasurer,,REP,Greg Conlon,228
 Kern,0023450,Treasurer,,DEM,John Chiang,76
 Kern,0023450,U.S. House,23,REP,Kevin McCarthy,281
+Kern,0023450,U.S. House,23,REP,Mike Biglay,2
+Kern,0023450,U.S. House,23,DEM,Raul Garcia,1
 Kern,0023452,Attorney General,,REP,David King,9
 Kern,0023452,Attorney General,,REP,John Haggerty,12
 Kern,0023452,Attorney General,,LIB,Jonathan Jaech,8
@@ -7295,6 +7411,7 @@ Kern,0025271,Secretary of State,,REP,Roy Allmond,15
 Kern,0025271,State Assembly,34,REP,Shannon Grove,124
 Kern,0025271,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",67
 Kern,0025271,State Senate,16,REP,Jean Fuller,154
+Kern,0025271,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0025271,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,37
 Kern,0025271,Superintendent of Public Instruction,,NOP,Marshall Tuck,53
 Kern,0025271,Superintendent of Public Instruction,,NOP,Tom Torlakson,81
@@ -7302,6 +7419,7 @@ Kern,0025271,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0025271,Treasurer,,REP,Greg Conlon,100
 Kern,0025271,Treasurer,,DEM,John Chiang,84
 Kern,0025271,U.S. House,23,REP,Kevin McCarthy,139
+Kern,0025271,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0025289,Attorney General,,REP,David King,10
 Kern,0025289,Attorney General,,REP,John Haggerty,17
 Kern,0025289,Attorney General,,LIB,Jonathan Jaech,1
@@ -7421,6 +7539,7 @@ Kern,0025290,Treasurer,,GRN,Ellen H. Brown,2
 Kern,0025290,Treasurer,,REP,Greg Conlon,67
 Kern,0025290,Treasurer,,DEM,John Chiang,70
 Kern,0025290,U.S. House,23,REP,Kevin McCarthy,105
+Kern,0025290,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030040,Attorney General,,REP,David King,14
 Kern,0030040,Attorney General,,REP,John Haggerty,18
 Kern,0030040,Attorney General,,LIB,Jonathan Jaech,8
@@ -7533,6 +7652,7 @@ Kern,0030060,Secretary of State,,REP,Roy Allmond,15
 Kern,0030060,State Assembly,34,REP,Shannon Grove,104
 Kern,0030060,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",33
 Kern,0030060,State Senate,16,REP,Jean Fuller,121
+Kern,0030060,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030060,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,29
 Kern,0030060,Superintendent of Public Instruction,,NOP,Marshall Tuck,49
 Kern,0030060,Superintendent of Public Instruction,,NOP,Tom Torlakson,52
@@ -7540,6 +7660,8 @@ Kern,0030060,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0030060,Treasurer,,REP,Greg Conlon,87
 Kern,0030060,Treasurer,,DEM,John Chiang,42
 Kern,0030060,U.S. House,23,REP,Kevin McCarthy,114
+Kern,0030060,U.S. House,23,REP,Mike Biglay,1
+Kern,0030060,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030150,Attorney General,,REP,David King,8
 Kern,0030150,Attorney General,,REP,John Haggerty,16
 Kern,0030150,Attorney General,,LIB,Jonathan Jaech,4
@@ -7603,6 +7725,7 @@ Kern,0030150,Treasurer,,GRN,Ellen H. Brown,17
 Kern,0030150,Treasurer,,REP,Greg Conlon,70
 Kern,0030150,Treasurer,,DEM,John Chiang,77
 Kern,0030150,U.S. House,23,REP,Kevin McCarthy,146
+Kern,0030150,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030170,Attorney General,,REP,David King,7
 Kern,0030170,Attorney General,,REP,John Haggerty,15
 Kern,0030170,Attorney General,,LIB,Jonathan Jaech,6
@@ -7663,6 +7786,7 @@ Kern,0030170,Treasurer,,GRN,Ellen H. Brown,17
 Kern,0030170,Treasurer,,REP,Greg Conlon,81
 Kern,0030170,Treasurer,,DEM,John Chiang,51
 Kern,0030170,U.S. House,23,REP,Kevin McCarthy,123
+Kern,0030170,U.S. House,23,REP,Mike Biglay,1
 Kern,0030302,Attorney General,,REP,David King,9
 Kern,0030302,Attorney General,,REP,John Haggerty,9
 Kern,0030302,Attorney General,,LIB,Jonathan Jaech,8
@@ -7721,6 +7845,8 @@ Kern,0030302,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0030302,Treasurer,,REP,Greg Conlon,94
 Kern,0030302,Treasurer,,DEM,John Chiang,79
 Kern,0030302,U.S. House,23,REP,Kevin McCarthy,127
+Kern,0030302,U.S. House,23,REP,Mike Biglay,1
+Kern,0030302,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0030304,Attorney General,,REP,David King,9
 Kern,0030304,Attorney General,,REP,John Haggerty,19
 Kern,0030304,Attorney General,,LIB,Jonathan Jaech,7
@@ -7769,6 +7895,7 @@ Kern,0030304,Secretary of State,,REP,Roy Allmond,20
 Kern,0030304,State Assembly,34,REP,Shannon Grove,131
 Kern,0030304,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",94
 Kern,0030304,State Senate,16,REP,Jean Fuller,163
+Kern,0030304,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030304,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,49
 Kern,0030304,Superintendent of Public Instruction,,NOP,Marshall Tuck,63
 Kern,0030304,Superintendent of Public Instruction,,NOP,Tom Torlakson,90
@@ -7776,6 +7903,7 @@ Kern,0030304,Treasurer,,GRN,Ellen H. Brown,15
 Kern,0030304,Treasurer,,REP,Greg Conlon,92
 Kern,0030304,Treasurer,,DEM,John Chiang,111
 Kern,0030304,U.S. House,23,REP,Kevin McCarthy,158
+Kern,0030304,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030308,Attorney General,,REP,David King,3
 Kern,0030308,Attorney General,,REP,John Haggerty,17
 Kern,0030308,Attorney General,,LIB,Jonathan Jaech,10
@@ -7958,6 +8086,7 @@ Kern,0030314,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0030314,Treasurer,,REP,Greg Conlon,81
 Kern,0030314,Treasurer,,DEM,John Chiang,74
 Kern,0030314,U.S. House,23,REP,Kevin McCarthy,121
+Kern,0030314,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030316,Attorney General,,REP,David King,10
 Kern,0030316,Attorney General,,REP,John Haggerty,20
 Kern,0030316,Attorney General,,LIB,Jonathan Jaech,7
@@ -8011,6 +8140,7 @@ Kern,0030316,Secretary of State,,REP,Roy Allmond,17
 Kern,0030316,State Assembly,34,REP,Shannon Grove,126
 Kern,0030316,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",74
 Kern,0030316,State Senate,16,REP,Jean Fuller,151
+Kern,0030316,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0030316,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,55
 Kern,0030316,Superintendent of Public Instruction,,NOP,Marshall Tuck,52
 Kern,0030316,Superintendent of Public Instruction,,NOP,Tom Torlakson,83
@@ -8018,6 +8148,8 @@ Kern,0030316,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0030316,Treasurer,,REP,Greg Conlon,95
 Kern,0030316,Treasurer,,DEM,John Chiang,97
 Kern,0030316,U.S. House,23,REP,Kevin McCarthy,142
+Kern,0030316,U.S. House,23,DEM,Raul Garcia,1
+Kern,0030316,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0030318,Attorney General,,REP,David King,11
 Kern,0030318,Attorney General,,REP,John Haggerty,19
 Kern,0030318,Attorney General,,LIB,Jonathan Jaech,7
@@ -8071,6 +8203,7 @@ Kern,0030318,Secretary of State,,REP,Roy Allmond,18
 Kern,0030318,State Assembly,34,REP,Shannon Grove,159
 Kern,0030318,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",80
 Kern,0030318,State Senate,16,REP,Jean Fuller,183
+Kern,0030318,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030318,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,52
 Kern,0030318,Superintendent of Public Instruction,,NOP,Marshall Tuck,74
 Kern,0030318,Superintendent of Public Instruction,,NOP,Tom Torlakson,107
@@ -8078,6 +8211,7 @@ Kern,0030318,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0030318,Treasurer,,REP,Greg Conlon,124
 Kern,0030318,Treasurer,,DEM,John Chiang,101
 Kern,0030318,U.S. House,23,REP,Kevin McCarthy,175
+Kern,0030318,U.S. House,23,DEM,Raul Garcia,4
 Kern,0030321,Attorney General,,REP,David King,8
 Kern,0030321,Attorney General,,REP,John Haggerty,11
 Kern,0030321,Attorney General,,LIB,Jonathan Jaech,5
@@ -8129,6 +8263,7 @@ Kern,0030321,Secretary of State,,REP,Roy Allmond,15
 Kern,0030321,State Assembly,34,REP,Shannon Grove,148
 Kern,0030321,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",74
 Kern,0030321,State Senate,16,REP,Jean Fuller,160
+Kern,0030321,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030321,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,47
 Kern,0030321,Superintendent of Public Instruction,,NOP,Marshall Tuck,74
 Kern,0030321,Superintendent of Public Instruction,,NOP,Tom Torlakson,83
@@ -8136,6 +8271,7 @@ Kern,0030321,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0030321,Treasurer,,REP,Greg Conlon,116
 Kern,0030321,Treasurer,,DEM,John Chiang,87
 Kern,0030321,U.S. House,23,REP,Kevin McCarthy,160
+Kern,0030321,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030322,Attorney General,,REP,David King,11
 Kern,0030322,Attorney General,,REP,John Haggerty,20
 Kern,0030322,Attorney General,,LIB,Jonathan Jaech,4
@@ -8185,6 +8321,7 @@ Kern,0030322,Secretary of State,,REP,Roy Allmond,20
 Kern,0030322,State Assembly,34,REP,Shannon Grove,182
 Kern,0030322,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",70
 Kern,0030322,State Senate,16,REP,Jean Fuller,196
+Kern,0030322,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030322,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,71
 Kern,0030322,Superintendent of Public Instruction,,NOP,Marshall Tuck,70
 Kern,0030322,Superintendent of Public Instruction,,NOP,Tom Torlakson,104
@@ -8192,6 +8329,7 @@ Kern,0030322,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0030322,Treasurer,,REP,Greg Conlon,140
 Kern,0030322,Treasurer,,DEM,John Chiang,102
 Kern,0030322,U.S. House,23,REP,Kevin McCarthy,199
+Kern,0030322,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030325,Attorney General,,REP,David King,9
 Kern,0030325,Attorney General,,REP,John Haggerty,9
 Kern,0030325,Attorney General,,LIB,Jonathan Jaech,3
@@ -8253,6 +8391,7 @@ Kern,0030325,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0030325,Treasurer,,REP,Greg Conlon,112
 Kern,0030325,Treasurer,,DEM,John Chiang,69
 Kern,0030325,U.S. House,23,REP,Kevin McCarthy,152
+Kern,0030325,U.S. House,23,REP,Mike Biglay,2
 Kern,0030332,Attorney General,,REP,David King,1
 Kern,0030332,Attorney General,,REP,John Haggerty,3
 Kern,0030332,Attorney General,,DEM,Kamala D. Harris,16
@@ -8367,6 +8506,8 @@ Kern,0030337,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0030337,Treasurer,,REP,Greg Conlon,182
 Kern,0030337,Treasurer,,DEM,John Chiang,98
 Kern,0030337,U.S. House,23,REP,Kevin McCarthy,230
+Kern,0030337,U.S. House,23,REP,Mike Biglay,2
+Kern,0030337,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030338,Attorney General,,REP,David King,12
 Kern,0030338,Attorney General,,REP,John Haggerty,19
 Kern,0030338,Attorney General,,LIB,Jonathan Jaech,7
@@ -8419,6 +8560,7 @@ Kern,0030338,Secretary of State,,REP,Roy Allmond,20
 Kern,0030338,State Assembly,34,REP,Shannon Grove,138
 Kern,0030338,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",47
 Kern,0030338,State Senate,16,REP,Jean Fuller,156
+Kern,0030338,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030338,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,37
 Kern,0030338,Superintendent of Public Instruction,,NOP,Marshall Tuck,56
 Kern,0030338,Superintendent of Public Instruction,,NOP,Tom Torlakson,79
@@ -8426,6 +8568,7 @@ Kern,0030338,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0030338,Treasurer,,REP,Greg Conlon,112
 Kern,0030338,Treasurer,,DEM,John Chiang,66
 Kern,0030338,U.S. House,23,REP,Kevin McCarthy,146
+Kern,0030338,U.S. House,23,DEM,Raul Garcia,3
 Kern,0030339,Attorney General,,REP,David King,12
 Kern,0030339,Attorney General,,REP,John Haggerty,19
 Kern,0030339,Attorney General,,LIB,Jonathan Jaech,9
@@ -8484,6 +8627,8 @@ Kern,0030339,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0030339,Treasurer,,REP,Greg Conlon,155
 Kern,0030339,Treasurer,,DEM,John Chiang,103
 Kern,0030339,U.S. House,23,REP,Kevin McCarthy,204
+Kern,0030339,U.S. House,23,REP,Mike Biglay,2
+Kern,0030339,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030348,Attorney General,,REP,David King,10
 Kern,0030348,Attorney General,,REP,John Haggerty,17
 Kern,0030348,Attorney General,,LIB,Jonathan Jaech,5
@@ -8544,6 +8689,7 @@ Kern,0030348,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0030348,Treasurer,,REP,Greg Conlon,105
 Kern,0030348,Treasurer,,DEM,John Chiang,81
 Kern,0030348,U.S. House,23,REP,Kevin McCarthy,148
+Kern,0030348,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030351,Attorney General,,REP,David King,5
 Kern,0030351,Attorney General,,REP,John Haggerty,21
 Kern,0030351,Attorney General,,LIB,Jonathan Jaech,6
@@ -8605,6 +8751,7 @@ Kern,0030351,Treasurer,,GRN,Ellen H. Brown,16
 Kern,0030351,Treasurer,,REP,Greg Conlon,118
 Kern,0030351,Treasurer,,DEM,John Chiang,84
 Kern,0030351,U.S. House,23,REP,Kevin McCarthy,162
+Kern,0030351,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030352,Attorney General,,REP,David King,13
 Kern,0030352,Attorney General,,REP,John Haggerty,23
 Kern,0030352,Attorney General,,LIB,Jonathan Jaech,7
@@ -8663,6 +8810,7 @@ Kern,0030352,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0030352,Treasurer,,REP,Greg Conlon,157
 Kern,0030352,Treasurer,,DEM,John Chiang,74
 Kern,0030352,U.S. House,23,REP,Kevin McCarthy,190
+Kern,0030352,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030354,Attorney General,,REP,David King,6
 Kern,0030354,Attorney General,,REP,John Haggerty,10
 Kern,0030354,Attorney General,,LIB,Jonathan Jaech,4
@@ -8714,6 +8862,7 @@ Kern,0030354,Secretary of State,,REP,Roy Allmond,23
 Kern,0030354,State Assembly,34,REP,Shannon Grove,161
 Kern,0030354,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",49
 Kern,0030354,State Senate,16,REP,Jean Fuller,165
+Kern,0030354,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030354,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,27
 Kern,0030354,Superintendent of Public Instruction,,NOP,Marshall Tuck,72
 Kern,0030354,Superintendent of Public Instruction,,NOP,Tom Torlakson,96
@@ -8721,6 +8870,7 @@ Kern,0030354,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0030354,Treasurer,,REP,Greg Conlon,130
 Kern,0030354,Treasurer,,DEM,John Chiang,65
 Kern,0030354,U.S. House,23,REP,Kevin McCarthy,165
+Kern,0030354,U.S. House,23,DEM,Raul Garcia,3
 Kern,0030364,Attorney General,,REP,David King,6
 Kern,0030364,Attorney General,,REP,John Haggerty,16
 Kern,0030364,Attorney General,,LIB,Jonathan Jaech,7
@@ -8775,6 +8925,7 @@ Kern,0030364,Secretary of State,,REP,Roy Allmond,19
 Kern,0030364,State Assembly,34,REP,Shannon Grove,121
 Kern,0030364,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",47
 Kern,0030364,State Senate,16,REP,Jean Fuller,131
+Kern,0030364,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030364,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,33
 Kern,0030364,Superintendent of Public Instruction,,NOP,Marshall Tuck,65
 Kern,0030364,Superintendent of Public Instruction,,NOP,Tom Torlakson,58
@@ -8782,6 +8933,8 @@ Kern,0030364,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0030364,Treasurer,,REP,Greg Conlon,90
 Kern,0030364,Treasurer,,DEM,John Chiang,59
 Kern,0030364,U.S. House,23,REP,Kevin McCarthy,134
+Kern,0030364,U.S. House,23,REP,Mike Biglay,2
+Kern,0030364,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030367,Attorney General,,REP,David King,23
 Kern,0030367,Attorney General,,REP,John Haggerty,29
 Kern,0030367,Attorney General,,LIB,Jonathan Jaech,8
@@ -8845,6 +8998,8 @@ Kern,0030367,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0030367,Treasurer,,REP,Greg Conlon,170
 Kern,0030367,Treasurer,,DEM,John Chiang,101
 Kern,0030367,U.S. House,23,REP,Kevin McCarthy,205
+Kern,0030367,U.S. House,23,DEM,Raul Garcia,3
+Kern,0030368,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030370,Attorney General,,REP,David King,4
 Kern,0030370,Attorney General,,REP,John Haggerty,11
 Kern,0030370,Attorney General,,LIB,Jonathan Jaech,4
@@ -8906,6 +9061,7 @@ Kern,0030370,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0030370,Treasurer,,REP,Greg Conlon,58
 Kern,0030370,Treasurer,,DEM,John Chiang,50
 Kern,0030370,U.S. House,23,REP,Kevin McCarthy,81
+Kern,0030370,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030372,Attorney General,,REP,David King,18
 Kern,0030372,Attorney General,,REP,John Haggerty,17
 Kern,0030372,Attorney General,,LIB,Jonathan Jaech,5
@@ -9016,6 +9172,7 @@ Kern,0030374,Secretary of State,,REP,Roy Allmond,13
 Kern,0030374,State Assembly,34,REP,Shannon Grove,116
 Kern,0030374,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",58
 Kern,0030374,State Senate,16,REP,Jean Fuller,137
+Kern,0030374,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0030374,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,34
 Kern,0030374,Superintendent of Public Instruction,,NOP,Marshall Tuck,58
 Kern,0030374,Superintendent of Public Instruction,,NOP,Tom Torlakson,79
@@ -9023,6 +9180,8 @@ Kern,0030374,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0030374,Treasurer,,REP,Greg Conlon,96
 Kern,0030374,Treasurer,,DEM,John Chiang,68
 Kern,0030374,U.S. House,23,REP,Kevin McCarthy,127
+Kern,0030374,U.S. House,23,DEM,Raul Garcia,1
+Kern,0030374,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0030385,Attorney General,,REP,David King,18
 Kern,0030385,Attorney General,,REP,John Haggerty,16
 Kern,0030385,Attorney General,,LIB,Jonathan Jaech,3
@@ -9083,6 +9242,8 @@ Kern,0030385,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0030385,Treasurer,,REP,Greg Conlon,173
 Kern,0030385,Treasurer,,DEM,John Chiang,84
 Kern,0030385,U.S. House,23,REP,Kevin McCarthy,213
+Kern,0030385,U.S. House,23,REP,Mike Biglay,2
+Kern,0030385,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030387,Attorney General,,REP,David King,10
 Kern,0030387,Attorney General,,REP,John Haggerty,29
 Kern,0030387,Attorney General,,LIB,Jonathan Jaech,11
@@ -9142,6 +9303,8 @@ Kern,0030387,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0030387,Treasurer,,REP,Greg Conlon,202
 Kern,0030387,Treasurer,,DEM,John Chiang,84
 Kern,0030387,U.S. House,23,REP,Kevin McCarthy,247
+Kern,0030387,U.S. House,23,REP,Mike Biglay,1
+Kern,0030387,U.S. House,23,DEM,Raul Garcia,2
 Kern,0030389,Attorney General,,REP,David King,10
 Kern,0030389,Attorney General,,REP,John Haggerty,17
 Kern,0030389,Attorney General,,LIB,Jonathan Jaech,3
@@ -9198,6 +9361,7 @@ Kern,0030389,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0030389,Treasurer,,REP,Greg Conlon,66
 Kern,0030389,Treasurer,,DEM,John Chiang,47
 Kern,0030389,U.S. House,23,REP,Kevin McCarthy,94
+Kern,0030389,U.S. House,23,DEM,Raul Garcia,1
 Kern,0030390,Attorney General,,REP,David King,17
 Kern,0030390,Attorney General,,REP,John Haggerty,24
 Kern,0030390,Attorney General,,LIB,Jonathan Jaech,3
@@ -9377,6 +9541,8 @@ Kern,0030399,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0030399,Treasurer,,REP,Greg Conlon,29
 Kern,0030399,Treasurer,,DEM,John Chiang,42
 Kern,0030399,U.S. House,23,REP,Kevin McCarthy,50
+Kern,0030399,U.S. House,23,REP,Mike Biglay,1
+Kern,0030399,U.S. House,23,DEM,Raul Garcia,3
 Kern,0031478,Attorney General,,REP,David King,6
 Kern,0031478,Attorney General,,REP,John Haggerty,31
 Kern,0031478,Attorney General,,LIB,Jonathan Jaech,4
@@ -9563,6 +9729,7 @@ Kern,0031772,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0031772,Treasurer,,REP,Greg Conlon,82
 Kern,0031772,Treasurer,,DEM,John Chiang,53
 Kern,0031772,U.S. House,23,REP,Kevin McCarthy,115
+Kern,0031772,U.S. House,23,DEM,Raul Garcia,1
 Kern,0031935,Attorney General,,REP,David King,6
 Kern,0031935,Attorney General,,REP,John Haggerty,32
 Kern,0031935,Attorney General,,DEM,Kamala D. Harris,64
@@ -9623,6 +9790,7 @@ Kern,0031935,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0031935,Treasurer,,REP,Greg Conlon,101
 Kern,0031935,Treasurer,,DEM,John Chiang,67
 Kern,0031935,U.S. House,23,REP,Kevin McCarthy,148
+Kern,0031935,U.S. House,23,DEM,Raul Garcia,2
 Kern,0031950,Attorney General,,REP,David King,4
 Kern,0031950,Attorney General,,REP,John Haggerty,9
 Kern,0031950,Attorney General,,LIB,Jonathan Jaech,3
@@ -9680,6 +9848,7 @@ Kern,0031950,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0031950,Treasurer,,REP,Greg Conlon,58
 Kern,0031950,Treasurer,,DEM,John Chiang,37
 Kern,0031950,U.S. House,23,REP,Kevin McCarthy,76
+Kern,0031950,U.S. House,23,DEM,Raul Garcia,1
 Kern,0031953,Attorney General,,REP,David King,4
 Kern,0031953,Attorney General,,REP,John Haggerty,11
 Kern,0031953,Attorney General,,LIB,Jonathan Jaech,5
@@ -9861,6 +10030,7 @@ Kern,0032170,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0032170,Treasurer,,REP,Greg Conlon,114
 Kern,0032170,Treasurer,,DEM,John Chiang,76
 Kern,0032170,U.S. House,23,REP,Kevin McCarthy,142
+Kern,0032170,U.S. House,23,REP,Mike Biglay,5
 Kern,0032214,Attorney General,,REP,David King,11
 Kern,0032214,Attorney General,,REP,John Haggerty,25
 Kern,0032214,Attorney General,,LIB,Jonathan Jaech,7
@@ -9922,6 +10092,8 @@ Kern,0032214,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0032214,Treasurer,,REP,Greg Conlon,146
 Kern,0032214,Treasurer,,DEM,John Chiang,59
 Kern,0032214,U.S. House,23,REP,Kevin McCarthy,186
+Kern,0032214,U.S. House,23,REP,Mike Biglay,1
+Kern,0032214,U.S. House,23,IND,Ronald L. Porter,2
 Kern,0032240,Attorney General,,REP,David King,6
 Kern,0032240,Attorney General,,REP,John Haggerty,10
 Kern,0032240,Attorney General,,LIB,Jonathan Jaech,2
@@ -10041,6 +10213,7 @@ Kern,0032330,Treasurer,,GRN,Ellen H. Brown,17
 Kern,0032330,Treasurer,,REP,Greg Conlon,323
 Kern,0032330,Treasurer,,DEM,John Chiang,168
 Kern,0032330,U.S. House,23,REP,Kevin McCarthy,403
+Kern,0032330,U.S. House,23,DEM,Raul Garcia,2
 Kern,0032360,Attorney General,,REP,David King,5
 Kern,0032360,Attorney General,,REP,John Haggerty,9
 Kern,0032360,Attorney General,,LIB,Jonathan Jaech,7
@@ -10100,6 +10273,7 @@ Kern,0032360,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0032360,Treasurer,,REP,Greg Conlon,49
 Kern,0032360,Treasurer,,DEM,John Chiang,43
 Kern,0032360,U.S. House,23,REP,Kevin McCarthy,72
+Kern,0032360,U.S. House,23,DEM,Raul Garcia,2
 Kern,0032441,Attorney General,,REP,David King,2
 Kern,0032441,Attorney General,,REP,John Haggerty,17
 Kern,0032441,Attorney General,,LIB,Jonathan Jaech,3
@@ -10159,6 +10333,7 @@ Kern,0032441,Superintendent of Public Instruction,,NOP,Tom Torlakson,47
 Kern,0032441,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0032441,Treasurer,,REP,Greg Conlon,66
 Kern,0032441,Treasurer,,DEM,John Chiang,36
+Kern,0032441,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0032441,U.S. House,23,REP,Kevin McCarthy,93
 Kern,0032531,Attorney General,,REP,David King,5
 Kern,0032531,Attorney General,,REP,John Haggerty,7
@@ -10345,6 +10520,8 @@ Kern,0032640,Treasurer,,GRN,Ellen H. Brown,16
 Kern,0032640,Treasurer,,REP,Greg Conlon,352
 Kern,0032640,Treasurer,,DEM,John Chiang,103
 Kern,0032640,U.S. House,23,REP,Kevin McCarthy,404
+Kern,0032640,U.S. House,23,REP,Mike Biglay,1
+Kern,0032640,U.S. House,23,DEM,Raul Garcia,4
 Kern,0032652,Attorney General,,REP,David King,25
 Kern,0032652,Attorney General,,REP,John Haggerty,24
 Kern,0032652,Attorney General,,LIB,Jonathan Jaech,8
@@ -10398,6 +10575,7 @@ Kern,0032652,Secretary of State,,REP,Roy Allmond,39
 Kern,0032652,State Assembly,34,REP,Shannon Grove,358
 Kern,0032652,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",61
 Kern,0032652,State Senate,16,REP,Jean Fuller,362
+Kern,0032652,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0032652,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,66
 Kern,0032652,Superintendent of Public Instruction,,NOP,Marshall Tuck,175
 Kern,0032652,Superintendent of Public Instruction,,NOP,Tom Torlakson,150
@@ -10405,6 +10583,7 @@ Kern,0032652,Treasurer,,GRN,Ellen H. Brown,16
 Kern,0032652,Treasurer,,REP,Greg Conlon,297
 Kern,0032652,Treasurer,,DEM,John Chiang,99
 Kern,0032652,U.S. House,23,REP,Kevin McCarthy,351
+Kern,0032652,U.S. House,23,DEM,Raul Garcia,4
 Kern,0032731,Attorney General,,REP,David King,9
 Kern,0032731,Attorney General,,REP,John Haggerty,10
 Kern,0032731,Attorney General,,LIB,Jonathan Jaech,2
@@ -10462,6 +10641,7 @@ Kern,0032731,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0032731,Treasurer,,REP,Greg Conlon,111
 Kern,0032731,Treasurer,,DEM,John Chiang,34
 Kern,0032731,U.S. House,23,REP,Kevin McCarthy,130
+Kern,0032731,U.S. House,23,REP,Mike Biglay,1
 Kern,0032732,Attorney General,,REP,David King,3
 Kern,0032732,Attorney General,,REP,John Haggerty,6
 Kern,0032732,Attorney General,,LIB,Jonathan Jaech,1
@@ -10579,6 +10759,7 @@ Kern,0032750,Treasurer,,GRN,Ellen H. Brown,14
 Kern,0032750,Treasurer,,REP,Greg Conlon,41
 Kern,0032750,Treasurer,,DEM,John Chiang,80
 Kern,0032750,U.S. House,23,REP,Kevin McCarthy,96
+Kern,0032750,U.S. House,23,DEM,Raul Garcia,2
 Kern,0032751,Attorney General,,REP,David King,8
 Kern,0032751,Attorney General,,REP,John Haggerty,9
 Kern,0032751,Attorney General,,LIB,Jonathan Jaech,4
@@ -10631,6 +10812,7 @@ Kern,0032751,Secretary of State,,REP,Roy Allmond,7
 Kern,0032751,State Assembly,34,REP,Shannon Grove,85
 Kern,0032751,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",35
 Kern,0032751,State Senate,16,REP,Jean Fuller,97
+Kern,0032751,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0032751,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,31
 Kern,0032751,Superintendent of Public Instruction,,NOP,Marshall Tuck,36
 Kern,0032751,Superintendent of Public Instruction,,NOP,Tom Torlakson,48
@@ -10638,6 +10820,7 @@ Kern,0032751,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0032751,Treasurer,,REP,Greg Conlon,68
 Kern,0032751,Treasurer,,DEM,John Chiang,38
 Kern,0032751,U.S. House,23,REP,Kevin McCarthy,92
+Kern,0032751,U.S. House,23,DEM,Raul Garcia,5
 Kern,0033040,Attorney General,,REP,David King,24
 Kern,0033040,Attorney General,,REP,John Haggerty,24
 Kern,0033040,Attorney General,,LIB,Jonathan Jaech,8
@@ -10698,6 +10881,7 @@ Kern,0033040,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0033040,Treasurer,,REP,Greg Conlon,234
 Kern,0033040,Treasurer,,DEM,John Chiang,49
 Kern,0033040,U.S. House,23,REP,Kevin McCarthy,258
+Kern,0033040,U.S. House,23,REP,Mike Biglay,3
 Kern,0033042,Attorney General,,REP,David King,13
 Kern,0033042,Attorney General,,REP,John Haggerty,20
 Kern,0033042,Attorney General,,LIB,Jonathan Jaech,3
@@ -10755,6 +10939,7 @@ Kern,0033042,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0033042,Treasurer,,REP,Greg Conlon,103
 Kern,0033042,Treasurer,,DEM,John Chiang,32
 Kern,0033042,U.S. House,23,REP,Kevin McCarthy,127
+Kern,0033042,U.S. House,23,REP,Mike Biglay,2
 Kern,0033150,Attorney General,,REP,David King,2
 Kern,0033150,Attorney General,,REP,John Haggerty,10
 Kern,0033150,Attorney General,,LIB,Jonathan Jaech,8
@@ -10813,6 +10998,7 @@ Kern,0033150,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0033150,Treasurer,,REP,Greg Conlon,71
 Kern,0033150,Treasurer,,DEM,John Chiang,86
 Kern,0033150,U.S. House,23,REP,Kevin McCarthy,108
+Kern,0033150,U.S. House,23,DEM,Raul Garcia,3
 Kern,0033222,Attorney General,,REP,David King,6
 Kern,0033222,Attorney General,,REP,John Haggerty,1
 Kern,0033222,Attorney General,,DEM,Kamala D. Harris,46
@@ -11100,6 +11286,7 @@ Kern,0035604,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0035604,Treasurer,,REP,Greg Conlon,171
 Kern,0035604,Treasurer,,DEM,John Chiang,85
 Kern,0035604,U.S. House,23,REP,Kevin McCarthy,193
+Kern,0035604,U.S. House,23,DEM,Raul Garcia,1
 Kern,0035624,Attorney General,,REP,David King,4
 Kern,0035624,Attorney General,,REP,John Haggerty,6
 Kern,0035624,Attorney General,,LIB,Jonathan Jaech,2
@@ -11269,6 +11456,8 @@ Kern,0035629,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0035629,Treasurer,,REP,Greg Conlon,109
 Kern,0035629,Treasurer,,DEM,John Chiang,45
 Kern,0035629,U.S. House,23,REP,Kevin McCarthy,150
+Kern,0035629,U.S. House,23,REP,Mike Biglay,1
+Kern,0035629,U.S. House,23,DEM,Raul Garcia,1
 Kern,0035631,Attorney General,,REP,David King,4
 Kern,0035631,Attorney General,,REP,John Haggerty,12
 Kern,0035631,Attorney General,,LIB,Jonathan Jaech,4
@@ -11376,6 +11565,7 @@ Kern,0035633,Secretary of State,,REP,Roy Allmond,19
 Kern,0035633,State Assembly,34,REP,Shannon Grove,200
 Kern,0035633,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",34
 Kern,0035633,State Senate,16,REP,Jean Fuller,206
+Kern,0035633,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0035633,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,44
 Kern,0035633,Superintendent of Public Instruction,,NOP,Marshall Tuck,92
 Kern,0035633,Superintendent of Public Instruction,,NOP,Tom Torlakson,80
@@ -11383,6 +11573,7 @@ Kern,0035633,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0035633,Treasurer,,REP,Greg Conlon,169
 Kern,0035633,Treasurer,,DEM,John Chiang,41
 Kern,0035633,U.S. House,23,REP,Kevin McCarthy,188
+Kern,0035633,U.S. House,23,DEM,Raul Garcia,4
 Kern,0035634,Attorney General,,REP,David King,6
 Kern,0035634,Attorney General,,REP,John Haggerty,12
 Kern,0035634,Attorney General,,LIB,Jonathan Jaech,2
@@ -11484,6 +11675,7 @@ Kern,0035635,Secretary of State,,REP,Roy Allmond,7
 Kern,0035635,State Assembly,34,REP,Shannon Grove,108
 Kern,0035635,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",37
 Kern,0035635,State Senate,16,REP,Jean Fuller,123
+Kern,0035635,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0035635,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,38
 Kern,0035635,Superintendent of Public Instruction,,NOP,Marshall Tuck,54
 Kern,0035635,Superintendent of Public Instruction,,NOP,Tom Torlakson,46
@@ -11491,6 +11683,8 @@ Kern,0035635,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0035635,Treasurer,,REP,Greg Conlon,88
 Kern,0035635,Treasurer,,DEM,John Chiang,46
 Kern,0035635,U.S. House,23,REP,Kevin McCarthy,119
+Kern,0035635,U.S. House,23,REP,Mike Biglay,1
+Kern,0035635,U.S. House,23,DEM,Raul Garcia,3
 Kern,0035640,Attorney General,,REP,David King,10
 Kern,0035640,Attorney General,,REP,John Haggerty,15
 Kern,0035640,Attorney General,,LIB,Jonathan Jaech,5
@@ -11546,6 +11740,7 @@ Kern,0035640,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0035640,Treasurer,,REP,Greg Conlon,144
 Kern,0035640,Treasurer,,DEM,John Chiang,62
 Kern,0035640,U.S. House,23,REP,Kevin McCarthy,169
+Kern,0035640,U.S. House,23,REP,Mike Biglay,1
 Kern,0035658,Attorney General,,REP,David King,7
 Kern,0035658,Attorney General,,REP,John Haggerty,9
 Kern,0035658,Attorney General,,LIB,Jonathan Jaech,3
@@ -11601,6 +11796,7 @@ Kern,0035658,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0035658,Treasurer,,REP,Greg Conlon,130
 Kern,0035658,Treasurer,,DEM,John Chiang,60
 Kern,0035658,U.S. House,23,REP,Kevin McCarthy,183
+Kern,0035658,U.S. House,23,DEM,Raul Garcia,1
 Kern,0035661,Attorney General,,REP,David King,9
 Kern,0035661,Attorney General,,REP,John Haggerty,10
 Kern,0035661,Attorney General,,LIB,Jonathan Jaech,6
@@ -11833,6 +12029,8 @@ Kern,0040401,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0040401,Treasurer,,REP,Greg Conlon,155
 Kern,0040401,Treasurer,,DEM,John Chiang,89
 Kern,0040401,U.S. House,23,REP,Kevin McCarthy,212
+Kern,0040401,U.S. House,23,REP,Mike Biglay,1
+Kern,0040401,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0040405,Attorney General,,REP,David King,19
 Kern,0040405,Attorney General,,REP,John Haggerty,17
 Kern,0040405,Attorney General,,LIB,Jonathan Jaech,4
@@ -11890,6 +12088,7 @@ Kern,0040405,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0040405,Treasurer,,REP,Greg Conlon,198
 Kern,0040405,Treasurer,,DEM,John Chiang,91
 Kern,0040405,U.S. House,23,REP,Kevin McCarthy,223
+Kern,0040405,U.S. House,23,DEM,Raul Garcia,4
 Kern,0040406,Attorney General,,REP,David King,32
 Kern,0040406,Attorney General,,REP,John Haggerty,33
 Kern,0040406,Attorney General,,LIB,Jonathan Jaech,11
@@ -11943,6 +12142,7 @@ Kern,0040406,Secretary of State,,REP,Roy Allmond,47
 Kern,0040406,State Assembly,34,REP,Shannon Grove,376
 Kern,0040406,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",119
 Kern,0040406,State Senate,16,REP,Jean Fuller,397
+Kern,0040406,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0040406,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,72
 Kern,0040406,Superintendent of Public Instruction,,NOP,Marshall Tuck,171
 Kern,0040406,Superintendent of Public Instruction,,NOP,Tom Torlakson,208
@@ -11950,6 +12150,7 @@ Kern,0040406,Treasurer,,GRN,Ellen H. Brown,21
 Kern,0040406,Treasurer,,REP,Greg Conlon,321
 Kern,0040406,Treasurer,,DEM,John Chiang,144
 Kern,0040406,U.S. House,23,REP,Kevin McCarthy,397
+Kern,0040406,U.S. House,23,DEM,Raul Garcia,3
 Kern,0040407,Attorney General,,REP,David King,7
 Kern,0040407,Attorney General,,REP,John Haggerty,9
 Kern,0040407,Attorney General,,LIB,Jonathan Jaech,6
@@ -12008,6 +12209,7 @@ Kern,0040407,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0040407,Treasurer,,REP,Greg Conlon,90
 Kern,0040407,Treasurer,,DEM,John Chiang,50
 Kern,0040407,U.S. House,23,REP,Kevin McCarthy,119
+Kern,0040407,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040409,Attorney General,,REP,David King,3
 Kern,0040409,Attorney General,,REP,John Haggerty,12
 Kern,0040409,Attorney General,,LIB,Jonathan Jaech,3
@@ -12065,6 +12267,7 @@ Kern,0040409,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0040409,Treasurer,,REP,Greg Conlon,102
 Kern,0040409,Treasurer,,DEM,John Chiang,63
 Kern,0040409,U.S. House,23,REP,Kevin McCarthy,135
+Kern,0040409,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040411,Attorney General,,REP,David King,6
 Kern,0040411,Attorney General,,REP,John Haggerty,16
 Kern,0040411,Attorney General,,LIB,Jonathan Jaech,5
@@ -12125,6 +12328,7 @@ Kern,0040411,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0040411,Treasurer,,REP,Greg Conlon,118
 Kern,0040411,Treasurer,,DEM,John Chiang,89
 Kern,0040411,U.S. House,23,REP,Kevin McCarthy,167
+Kern,0040411,U.S. House,23,DEM,Raul Garcia,3
 Kern,0040413,Attorney General,,REP,David King,15
 Kern,0040413,Attorney General,,REP,John Haggerty,15
 Kern,0040413,Attorney General,,LIB,Jonathan Jaech,4
@@ -12175,6 +12379,7 @@ Kern,0040413,Secretary of State,,REP,Roy Allmond,12
 Kern,0040413,State Assembly,34,REP,Shannon Grove,178
 Kern,0040413,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",46
 Kern,0040413,State Senate,16,REP,Jean Fuller,188
+Kern,0040413,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0040413,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,35
 Kern,0040413,Superintendent of Public Instruction,,NOP,Marshall Tuck,73
 Kern,0040413,Superintendent of Public Instruction,,NOP,Tom Torlakson,89
@@ -12182,6 +12387,7 @@ Kern,0040413,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040413,Treasurer,,REP,Greg Conlon,151
 Kern,0040413,Treasurer,,DEM,John Chiang,65
 Kern,0040413,U.S. House,23,REP,Kevin McCarthy,181
+Kern,0040413,U.S. House,23,LIB,Gail K. Lightfoot,2
 Kern,0040414,Attorney General,,REP,David King,7
 Kern,0040414,Attorney General,,REP,John Haggerty,21
 Kern,0040414,Attorney General,,DEM,Kamala D. Harris,59
@@ -12297,6 +12503,7 @@ Kern,0040415,Secretary of State,,REP,Roy Allmond,52
 Kern,0040415,State Assembly,34,REP,Shannon Grove,473
 Kern,0040415,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",155
 Kern,0040415,State Senate,16,REP,Jean Fuller,500
+Kern,0040415,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0040415,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,110
 Kern,0040415,Superintendent of Public Instruction,,NOP,Marshall Tuck,230
 Kern,0040415,Superintendent of Public Instruction,,NOP,Tom Torlakson,251
@@ -12304,6 +12511,8 @@ Kern,0040415,Treasurer,,GRN,Ellen H. Brown,20
 Kern,0040415,Treasurer,,REP,Greg Conlon,404
 Kern,0040415,Treasurer,,DEM,John Chiang,190
 Kern,0040415,U.S. House,23,REP,Kevin McCarthy,488
+Kern,0040415,U.S. House,23,DEM,Raul Garcia,3
+Kern,0040415,U.S. House,23,IND,Ronald L. Porter,1
 Kern,0040419,Attorney General,,REP,David King,7
 Kern,0040419,Attorney General,,REP,John Haggerty,25
 Kern,0040419,Attorney General,,LIB,Jonathan Jaech,9
@@ -12363,6 +12572,7 @@ Kern,0040419,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040419,Treasurer,,REP,Greg Conlon,181
 Kern,0040419,Treasurer,,DEM,John Chiang,62
 Kern,0040419,U.S. House,23,REP,Kevin McCarthy,217
+Kern,0040419,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040421,Attorney General,,REP,David King,12
 Kern,0040421,Attorney General,,REP,John Haggerty,20
 Kern,0040421,Attorney General,,LIB,Jonathan Jaech,5
@@ -12423,6 +12633,7 @@ Kern,0040421,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0040421,Treasurer,,REP,Greg Conlon,101
 Kern,0040421,Treasurer,,DEM,John Chiang,72
 Kern,0040421,U.S. House,23,REP,Kevin McCarthy,136
+Kern,0040421,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0040424,Attorney General,,REP,David King,6
 Kern,0040424,Attorney General,,REP,John Haggerty,23
 Kern,0040424,Attorney General,,LIB,Jonathan Jaech,4
@@ -12478,6 +12689,7 @@ Kern,0040424,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0040424,Treasurer,,REP,Greg Conlon,91
 Kern,0040424,Treasurer,,DEM,John Chiang,61
 Kern,0040424,U.S. House,23,REP,Kevin McCarthy,121
+Kern,0040424,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040428,Attorney General,,REP,David King,3
 Kern,0040428,Attorney General,,REP,John Haggerty,5
 Kern,0040428,Attorney General,,LIB,Jonathan Jaech,1
@@ -12534,6 +12746,7 @@ Kern,0040428,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040428,Treasurer,,REP,Greg Conlon,62
 Kern,0040428,Treasurer,,DEM,John Chiang,32
 Kern,0040428,U.S. House,23,REP,Kevin McCarthy,73
+Kern,0040428,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040429,Attorney General,,REP,David King,12
 Kern,0040429,Attorney General,,REP,John Haggerty,24
 Kern,0040429,Attorney General,,LIB,Jonathan Jaech,7
@@ -12648,6 +12861,7 @@ Kern,0040430,Secretary of State,,REP,Roy Allmond,23
 Kern,0040430,State Assembly,34,REP,Shannon Grove,157
 Kern,0040430,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",48
 Kern,0040430,State Senate,16,REP,Jean Fuller,175
+Kern,0040430,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0040430,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,54
 Kern,0040430,Superintendent of Public Instruction,,NOP,Marshall Tuck,70
 Kern,0040430,Superintendent of Public Instruction,,NOP,Tom Torlakson,72
@@ -12655,6 +12869,7 @@ Kern,0040430,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0040430,Treasurer,,REP,Greg Conlon,131
 Kern,0040430,Treasurer,,DEM,John Chiang,58
 Kern,0040430,U.S. House,23,REP,Kevin McCarthy,171
+Kern,0040430,U.S. House,23,DEM,Raul Garcia,1
 Kern,0040433,Attorney General,,REP,David King,6
 Kern,0040433,Attorney General,,REP,John Haggerty,12
 Kern,0040433,Attorney General,,LIB,Jonathan Jaech,5
@@ -12710,6 +12925,8 @@ Kern,0040433,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040433,Treasurer,,REP,Greg Conlon,99
 Kern,0040433,Treasurer,,DEM,John Chiang,47
 Kern,0040433,U.S. House,23,REP,Kevin McCarthy,125
+Kern,0040433,U.S. House,23,REP,Mike Biglay,1
+Kern,0040433,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040435,Attorney General,,REP,David King,14
 Kern,0040435,Attorney General,,REP,John Haggerty,29
 Kern,0040435,Attorney General,,LIB,Jonathan Jaech,7
@@ -12766,6 +12983,7 @@ Kern,0040435,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040435,Treasurer,,REP,Greg Conlon,134
 Kern,0040435,Treasurer,,DEM,John Chiang,69
 Kern,0040435,U.S. House,23,REP,Kevin McCarthy,179
+Kern,0040435,U.S. House,23,REP,Mike Biglay,1
 Kern,0040436,Attorney General,,REP,David King,12
 Kern,0040436,Attorney General,,REP,John Haggerty,18
 Kern,0040436,Attorney General,,LIB,Jonathan Jaech,4
@@ -12822,6 +13040,7 @@ Kern,0040436,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040436,Treasurer,,REP,Greg Conlon,127
 Kern,0040436,Treasurer,,DEM,John Chiang,38
 Kern,0040436,U.S. House,23,REP,Kevin McCarthy,154
+Kern,0040436,U.S. House,23,DEM,Raul Garcia,1
 Kern,0040440,Attorney General,,REP,David King,11
 Kern,0040440,Attorney General,,REP,John Haggerty,18
 Kern,0040440,Attorney General,,LIB,Jonathan Jaech,7
@@ -12881,6 +13100,8 @@ Kern,0040440,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0040440,Treasurer,,REP,Greg Conlon,149
 Kern,0040440,Treasurer,,DEM,John Chiang,84
 Kern,0040440,U.S. House,23,REP,Kevin McCarthy,172
+Kern,0040440,U.S. House,23,REP,Mike Biglay,1
+Kern,0040440,U.S. House,23,DEM,Raul Garcia,1
 Kern,0040441,Attorney General,,REP,David King,29
 Kern,0040441,Attorney General,,REP,John Haggerty,41
 Kern,0040441,Attorney General,,LIB,Jonathan Jaech,10
@@ -12941,6 +13162,7 @@ Kern,0040441,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0040441,Treasurer,,REP,Greg Conlon,393
 Kern,0040441,Treasurer,,DEM,John Chiang,137
 Kern,0040441,U.S. House,23,REP,Kevin McCarthy,473
+Kern,0040441,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040443,Attorney General,,REP,David King,8
 Kern,0040443,Attorney General,,REP,John Haggerty,15
 Kern,0040443,Attorney General,,LIB,Jonathan Jaech,10
@@ -12991,6 +13213,7 @@ Kern,0040443,Secretary of State,,REP,Roy Allmond,8
 Kern,0040443,State Assembly,34,REP,Shannon Grove,125
 Kern,0040443,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",33
 Kern,0040443,State Senate,16,REP,Jean Fuller,127
+Kern,0040443,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0040443,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,24
 Kern,0040443,Superintendent of Public Instruction,,NOP,Marshall Tuck,61
 Kern,0040443,Superintendent of Public Instruction,,NOP,Tom Torlakson,61
@@ -12998,6 +13221,7 @@ Kern,0040443,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0040443,Treasurer,,REP,Greg Conlon,101
 Kern,0040443,Treasurer,,DEM,John Chiang,44
 Kern,0040443,U.S. House,23,REP,Kevin McCarthy,129
+Kern,0040441,U.S. House,23,DEM,Raul Garcia,1
 Kern,0040444,Attorney General,,REP,David King,3
 Kern,0040444,Attorney General,,REP,John Haggerty,4
 Kern,0040444,Attorney General,,LIB,Jonathan Jaech,2
@@ -13046,6 +13270,7 @@ Kern,0040444,Secretary of State,,REP,Roy Allmond,3
 Kern,0040444,State Assembly,34,REP,Shannon Grove,45
 Kern,0040444,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",35
 Kern,0040444,State Senate,16,REP,Jean Fuller,58
+Kern,0040444,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0040444,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,31
 Kern,0040444,Superintendent of Public Instruction,,NOP,Marshall Tuck,14
 Kern,0040444,Superintendent of Public Instruction,,NOP,Tom Torlakson,29
@@ -13053,6 +13278,7 @@ Kern,0040444,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0040444,Treasurer,,REP,Greg Conlon,40
 Kern,0040444,Treasurer,,DEM,John Chiang,35
 Kern,0040444,U.S. House,23,REP,Kevin McCarthy,55
+Kern,0040444,U.S. House,23,DEM,Raul Garcia,3
 Kern,0040446,Attorney General,,REP,David King,23
 Kern,0040446,Attorney General,,REP,John Haggerty,20
 Kern,0040446,Attorney General,,LIB,Jonathan Jaech,9
@@ -13111,6 +13337,7 @@ Kern,0040446,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0040446,Treasurer,,REP,Greg Conlon,236
 Kern,0040446,Treasurer,,DEM,John Chiang,118
 Kern,0040446,U.S. House,23,REP,Kevin McCarthy,288
+Kern,0040446,U.S. House,23,DEM,Raul Garcia,4
 Kern,0040447,Attorney General,,REP,David King,7
 Kern,0040447,Attorney General,,REP,John Haggerty,18
 Kern,0040447,Attorney General,,LIB,Jonathan Jaech,2
@@ -13284,6 +13511,7 @@ Kern,0040461,Secretary of State,,REP,Roy Allmond,33
 Kern,0040461,State Assembly,34,REP,Shannon Grove,281
 Kern,0040461,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",68
 Kern,0040461,State Senate,16,REP,Jean Fuller,287
+Kern,0040461,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0040461,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,68
 Kern,0040461,Superintendent of Public Instruction,,NOP,Marshall Tuck,141
 Kern,0040461,Superintendent of Public Instruction,,NOP,Tom Torlakson,111
@@ -13291,6 +13519,8 @@ Kern,0040461,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0040461,Treasurer,,REP,Greg Conlon,247
 Kern,0040461,Treasurer,,DEM,John Chiang,101
 Kern,0040461,U.S. House,23,REP,Kevin McCarthy,282
+Kern,0040461,U.S. House,23,DEM,Raul Garcia,3
+Kern,0040461,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0040462,Attorney General,,REP,David King,16
 Kern,0040462,Attorney General,,REP,John Haggerty,27
 Kern,0040462,Attorney General,,LIB,Jonathan Jaech,9
@@ -13348,6 +13578,7 @@ Kern,0040462,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0040462,Treasurer,,REP,Greg Conlon,231
 Kern,0040462,Treasurer,,DEM,John Chiang,119
 Kern,0040462,U.S. House,23,REP,Kevin McCarthy,286
+Kern,0040462,U.S. House,23,DEM,Raul Garcia,3
 Kern,0040463,Attorney General,,REP,David King,20
 Kern,0040463,Attorney General,,REP,John Haggerty,12
 Kern,0040463,Attorney General,,LIB,Jonathan Jaech,8
@@ -13408,6 +13639,7 @@ Kern,0040463,Treasurer,,GRN,Ellen H. Brown,9
 Kern,0040463,Treasurer,,REP,Greg Conlon,105
 Kern,0040463,Treasurer,,DEM,John Chiang,98
 Kern,0040463,U.S. House,23,REP,Kevin McCarthy,151
+Kern,0040463,U.S. House,23,DEM,Raul Garcia,4
 Kern,0040464,Attorney General,,REP,David King,13
 Kern,0040464,Attorney General,,REP,John Haggerty,16
 Kern,0040464,Attorney General,,LIB,Jonathan Jaech,5
@@ -13522,6 +13754,7 @@ Kern,0040466,Secretary of State,,REP,Roy Allmond,44
 Kern,0040466,State Assembly,34,REP,Shannon Grove,399
 Kern,0040466,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",88
 Kern,0040466,State Senate,16,REP,Jean Fuller,423
+Kern,0040466,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0040466,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,102
 Kern,0040466,Superintendent of Public Instruction,,NOP,Marshall Tuck,168
 Kern,0040466,Superintendent of Public Instruction,,NOP,Tom Torlakson,186
@@ -13529,6 +13762,8 @@ Kern,0040466,Treasurer,,GRN,Ellen H. Brown,8
 Kern,0040466,Treasurer,,REP,Greg Conlon,342
 Kern,0040466,Treasurer,,DEM,John Chiang,133
 Kern,0040466,U.S. House,23,REP,Kevin McCarthy,416
+Kern,0040466,U.S. House,23,REP,Mike Biglay,2
+Kern,0040466,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040469,Attorney General,,REP,David King,4
 Kern,0040469,Attorney General,,REP,John Haggerty,9
 Kern,0040469,Attorney General,,LIB,Jonathan Jaech,7
@@ -13648,6 +13883,7 @@ Kern,0040470,Treasurer,,GRN,Ellen H. Brown,13
 Kern,0040470,Treasurer,,REP,Greg Conlon,132
 Kern,0040470,Treasurer,,DEM,John Chiang,116
 Kern,0040470,U.S. House,23,REP,Kevin McCarthy,208
+Kern,0040470,U.S. House,23,DEM,Raul Garcia,4
 Kern,0040471,Attorney General,,REP,David King,4
 Kern,0040471,Attorney General,,REP,John Haggerty,11
 Kern,0040471,Attorney General,,LIB,Jonathan Jaech,2
@@ -13701,6 +13937,7 @@ Kern,0040471,Treasurer,,GRN,Ellen H. Brown,1
 Kern,0040471,Treasurer,,REP,Greg Conlon,46
 Kern,0040471,Treasurer,,DEM,John Chiang,49
 Kern,0040471,U.S. House,23,REP,Kevin McCarthy,71
+Kern,0040471,U.S. House,23,REP,Mike Biglay,1
 Kern,0040475,Attorney General,,REP,David King,6
 Kern,0040475,Attorney General,,REP,John Haggerty,5
 Kern,0040475,Attorney General,,LIB,Jonathan Jaech,8
@@ -13751,6 +13988,7 @@ Kern,0040475,Secretary of State,,REP,Roy Allmond,8
 Kern,0040475,State Assembly,34,REP,Shannon Grove,94
 Kern,0040475,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",46
 Kern,0040475,State Senate,16,REP,Jean Fuller,105
+Kern,0040475,State Senate,16,DEM,Ruth Musser-Lopez,3
 Kern,0040475,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,30
 Kern,0040475,Superintendent of Public Instruction,,NOP,Marshall Tuck,37
 Kern,0040475,Superintendent of Public Instruction,,NOP,Tom Torlakson,64
@@ -13758,6 +13996,8 @@ Kern,0040475,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0040475,Treasurer,,REP,Greg Conlon,76
 Kern,0040475,Treasurer,,DEM,John Chiang,60
 Kern,0040475,U.S. House,23,REP,Kevin McCarthy,107
+Kern,0040475,U.S. House,23,REP,Mike Biglay,1
+Kern,0040475,U.S. House,23,DEM,Raul Garcia,2
 Kern,0040480,Attorney General,,REP,David King,16
 Kern,0040480,Attorney General,,REP,John Haggerty,35
 Kern,0040480,Attorney General,,LIB,Jonathan Jaech,3
@@ -13818,6 +14058,8 @@ Kern,0040480,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0040480,Treasurer,,REP,Greg Conlon,199
 Kern,0040480,Treasurer,,DEM,John Chiang,84
 Kern,0040480,U.S. House,23,REP,Kevin McCarthy,237
+Kern,0040480,U.S. House,23,REP,Mike Biglay,2
+Kern,0040480,U.S. House,23,DEM,Raul Garcia,1
 Kern,0040494,Attorney General,,REP,David King,31
 Kern,0040494,Attorney General,,REP,John Haggerty,29
 Kern,0040494,Attorney General,,LIB,Jonathan Jaech,14
@@ -13937,6 +14179,9 @@ Kern,0040495,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0040495,Treasurer,,REP,Greg Conlon,221
 Kern,0040495,Treasurer,,DEM,John Chiang,97
 Kern,0040495,U.S. House,23,REP,Kevin McCarthy,268
+Kern,0040495,U.S. House,23,REP,Mike Biglay,1
+Kern,0040495,U.S. House,23,DEM,Raul Garcia,3
+Kern,0040495,U.S. House,23,IND,Ronald L. Porter,3
 Kern,0040496,Attorney General,,REP,David King,3
 Kern,0040496,Attorney General,,REP,John Haggerty,11
 Kern,0040496,Attorney General,,LIB,Jonathan Jaech,3
@@ -13993,6 +14238,7 @@ Kern,0040496,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0040496,Treasurer,,REP,Greg Conlon,119
 Kern,0040496,Treasurer,,DEM,John Chiang,48
 Kern,0040496,U.S. House,23,REP,Kevin McCarthy,132
+Kern,0040496,U.S. House,23,DEM,Raul Garcia,3
 Kern,0040497,Attorney General,,REP,David King,5
 Kern,0040497,Attorney General,,REP,John Haggerty,14
 Kern,0040497,Attorney General,,LIB,Jonathan Jaech,4
@@ -14172,6 +14418,7 @@ Kern,0041780,Treasurer,,GRN,Ellen H. Brown,20
 Kern,0041780,Treasurer,,REP,Greg Conlon,155
 Kern,0041780,Treasurer,,DEM,John Chiang,84
 Kern,0041780,U.S. House,23,REP,Kevin McCarthy,221
+Kern,0041780,U.S. House,23,DEM,Raul Garcia,1
 Kern,0041820,Attorney General,,REP,David King,18
 Kern,0041820,Attorney General,,REP,John Haggerty,25
 Kern,0041820,Attorney General,,LIB,Jonathan Jaech,17
@@ -14227,6 +14474,7 @@ Kern,0041820,Secretary of State,,REP,Roy Allmond,30
 Kern,0041820,State Assembly,34,REP,Shannon Grove,207
 Kern,0041820,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",69
 Kern,0041820,State Senate,16,REP,Jean Fuller,213
+Kern,0041820,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0041820,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,52
 Kern,0041820,Superintendent of Public Instruction,,NOP,Marshall Tuck,115
 Kern,0041820,Superintendent of Public Instruction,,NOP,Tom Torlakson,89
@@ -14234,6 +14482,8 @@ Kern,0041820,Treasurer,,GRN,Ellen H. Brown,27
 Kern,0041820,Treasurer,,REP,Greg Conlon,172
 Kern,0041820,Treasurer,,DEM,John Chiang,78
 Kern,0041820,U.S. House,23,REP,Kevin McCarthy,216
+Kern,0041820,U.S. House,23,DEM,Raul Garcia,3
+Kern,0041820,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0041910,Attorney General,,REP,David King,18
 Kern,0041910,Attorney General,,REP,John Haggerty,19
 Kern,0041910,Attorney General,,LIB,Jonathan Jaech,3
@@ -14351,6 +14601,7 @@ Kern,0041911,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0041911,Treasurer,,REP,Greg Conlon,201
 Kern,0041911,Treasurer,,DEM,John Chiang,47
 Kern,0041911,U.S. House,23,REP,Kevin McCarthy,230
+Kern,0041911,U.S. House,23,REP,Mike Biglay,1
 Kern,0042218,Attorney General,,REP,David King,7
 Kern,0042218,Attorney General,,REP,John Haggerty,23
 Kern,0042218,Attorney General,,LIB,Jonathan Jaech,12
@@ -14410,6 +14661,7 @@ Kern,0042218,Treasurer,,GRN,Ellen H. Brown,11
 Kern,0042218,Treasurer,,REP,Greg Conlon,102
 Kern,0042218,Treasurer,,DEM,John Chiang,34
 Kern,0042218,U.S. House,23,REP,Kevin McCarthy,126
+Kern,0042218,U.S. House,23,REP,Mike Biglay,1
 Kern,0042390,Attorney General,,REP,David King,10
 Kern,0042390,Attorney General,,REP,John Haggerty,11
 Kern,0042390,Attorney General,,LIB,Jonathan Jaech,4
@@ -14528,6 +14780,7 @@ Kern,0042630,Treasurer,,GRN,Ellen H. Brown,7
 Kern,0042630,Treasurer,,REP,Greg Conlon,96
 Kern,0042630,Treasurer,,DEM,John Chiang,34
 Kern,0042630,U.S. House,23,REP,Kevin McCarthy,115
+Kern,0042630,U.S. House,23,REP,Mike Biglay,2
 Kern,0042842,Attorney General,,REP,David King,18
 Kern,0042842,Attorney General,,REP,John Haggerty,27
 Kern,0042842,Attorney General,,LIB,Jonathan Jaech,15
@@ -14652,6 +14905,8 @@ Kern,0042845,Treasurer,,GRN,Ellen H. Brown,16
 Kern,0042845,Treasurer,,REP,Greg Conlon,193
 Kern,0042845,Treasurer,,DEM,John Chiang,89
 Kern,0042845,U.S. House,23,REP,Kevin McCarthy,229
+Kern,0042845,U.S. House,23,REP,Mike Biglay,2
+Kern,0042845,U.S. House,23,DEM,Raul Garcia,1
 Kern,0043043,Attorney General,,REP,David King,16
 Kern,0043043,Attorney General,,REP,John Haggerty,32
 Kern,0043043,Attorney General,,LIB,Jonathan Jaech,6
@@ -14704,6 +14959,7 @@ Kern,0043043,Secretary of State,,REP,Roy Allmond,54
 Kern,0043043,State Assembly,34,REP,Shannon Grove,339
 Kern,0043043,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",39
 Kern,0043043,State Senate,16,REP,Jean Fuller,328
+Kern,0043043,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0043043,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,62
 Kern,0043043,Superintendent of Public Instruction,,NOP,Marshall Tuck,146
 Kern,0043043,Superintendent of Public Instruction,,NOP,Tom Torlakson,139
@@ -14711,6 +14967,8 @@ Kern,0043043,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0043043,Treasurer,,REP,Greg Conlon,296
 Kern,0043043,Treasurer,,DEM,John Chiang,71
 Kern,0043043,U.S. House,23,REP,Kevin McCarthy,329
+Kern,0043043,U.S. House,23,REP,Mike Biglay,2
+Kern,0043043,U.S. House,23,IND,Ronald L. Porter,2
 Kern,0043047,Attorney General,,REP,David King,11
 Kern,0043047,Attorney General,,REP,John Haggerty,34
 Kern,0043047,Attorney General,,LIB,Jonathan Jaech,7
@@ -14763,6 +15021,8 @@ Kern,0043047,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0043047,Treasurer,,REP,Greg Conlon,205
 Kern,0043047,Treasurer,,DEM,John Chiang,69
 Kern,0043047,U.S. House,23,REP,Kevin McCarthy,227
+Kern,0043047,U.S. House,23,REP,Mike Biglay,1
+Kern,0043047,U.S. House,23,DEM,Raul Garcia,2
 Kern,0043048,Attorney General,,REP,David King,7
 Kern,0043048,Attorney General,,REP,John Haggerty,18
 Kern,0043048,Attorney General,,LIB,Jonathan Jaech,5
@@ -14818,6 +15078,7 @@ Kern,0043048,Treasurer,,GRN,Ellen H. Brown,3
 Kern,0043048,Treasurer,,REP,Greg Conlon,115
 Kern,0043048,Treasurer,,DEM,John Chiang,49
 Kern,0043048,U.S. House,23,REP,Kevin McCarthy,138
+Kern,0043048,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0043051,Attorney General,,REP,David King,19
 Kern,0043051,Attorney General,,REP,John Haggerty,29
 Kern,0043051,Attorney General,,LIB,Jonathan Jaech,8
@@ -14993,6 +15254,7 @@ Kern,0043055,Treasurer,,GRN,Ellen H. Brown,6
 Kern,0043055,Treasurer,,REP,Greg Conlon,302
 Kern,0043055,Treasurer,,DEM,John Chiang,74
 Kern,0043055,U.S. House,23,REP,Kevin McCarthy,336
+Kern,0043055,U.S. House,23,REP,Mike Biglay,5
 Kern,0043170,Attorney General,,REP,David King,13
 Kern,0043170,Attorney General,,REP,John Haggerty,28
 Kern,0043170,Attorney General,,LIB,Jonathan Jaech,4
@@ -15229,6 +15491,7 @@ Kern,0043320,Treasurer,,GRN,Ellen H. Brown,15
 Kern,0043320,Treasurer,,REP,Greg Conlon,327
 Kern,0043320,Treasurer,,DEM,John Chiang,81
 Kern,0043320,U.S. House,23,REP,Kevin McCarthy,375
+Kern,0043320,U.S. House,23,REP,Mike Biglay,3
 Kern,0043340,Attorney General,,REP,David King,8
 Kern,0043340,Attorney General,,REP,John Haggerty,29
 Kern,0043340,Attorney General,,LIB,Jonathan Jaech,3
@@ -15288,6 +15551,7 @@ Kern,0043340,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0043340,Treasurer,,REP,Greg Conlon,159
 Kern,0043340,Treasurer,,DEM,John Chiang,52
 Kern,0043340,U.S. House,23,REP,Kevin McCarthy,193
+Kern,0043340,U.S. House,23,REP,Mike Biglay,1
 Kern,0043510,Attorney General,,REP,David King,7
 Kern,0043510,Attorney General,,REP,John Haggerty,17
 Kern,0043510,Attorney General,,LIB,Jonathan Jaech,3
@@ -15831,6 +16095,7 @@ Kern,0044106,Secretary of State,,REP,Roy Allmond,8
 Kern,0044106,State Assembly,34,REP,Shannon Grove,76
 Kern,0044106,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",33
 Kern,0044106,State Senate,16,REP,Jean Fuller,90
+Kern,0044106,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0044106,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,30
 Kern,0044106,Superintendent of Public Instruction,,NOP,Marshall Tuck,30
 Kern,0044106,Superintendent of Public Instruction,,NOP,Tom Torlakson,43
@@ -15838,6 +16103,7 @@ Kern,0044106,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0044106,Treasurer,,REP,Greg Conlon,61
 Kern,0044106,Treasurer,,DEM,John Chiang,37
 Kern,0044106,U.S. House,23,REP,Kevin McCarthy,90
+Kern,0044106,U.S. House,23,DEM,Raul Garcia,1
 Kern,0050020,Attorney General,,REP,David King,9
 Kern,0050020,Attorney General,,REP,John Haggerty,11
 Kern,0050020,Attorney General,,LIB,Jonathan Jaech,3
@@ -16209,6 +16475,7 @@ Kern,0050505,Treasurer,,GRN,Ellen H. Brown,4
 Kern,0050505,Treasurer,,REP,Greg Conlon,37
 Kern,0050505,Treasurer,,DEM,John Chiang,54
 Kern,0050505,U.S. House,23,REP,Kevin McCarthy,66
+Kern,0050505,U.S. House,23,DEM,Raul Garcia,1
 Kern,0050507,Attorney General,,REP,John Haggerty,1
 Kern,0050507,Attorney General,,LIB,Jonathan Jaech,2
 Kern,0050507,Attorney General,,DEM,Kamala D. Harris,69
@@ -16499,6 +16766,7 @@ Kern,0050516,Secretary of State,,REP,Roy Allmond,15
 Kern,0050516,State Assembly,34,REP,Shannon Grove,143
 Kern,0050516,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",85
 Kern,0050516,State Senate,16,REP,Jean Fuller,165
+Kern,0050516,State Senate,16,DEM,Ruth Musser-Lopez,3
 Kern,0050516,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,48
 Kern,0050516,Superintendent of Public Instruction,,NOP,Marshall Tuck,67
 Kern,0050516,Superintendent of Public Instruction,,NOP,Tom Torlakson,101
@@ -16506,6 +16774,7 @@ Kern,0050516,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0050516,Treasurer,,REP,Greg Conlon,118
 Kern,0050516,Treasurer,,DEM,John Chiang,101
 Kern,0050516,U.S. House,23,REP,Kevin McCarthy,161
+Kern,0050516,U.S. House,23,DEM,Raul Garcia,4
 Kern,0050518,Attorney General,,REP,David King,11
 Kern,0050518,Attorney General,,REP,John Haggerty,14
 Kern,0050518,Attorney General,,LIB,Jonathan Jaech,3
@@ -16625,6 +16894,7 @@ Kern,0050519,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0050519,Treasurer,,REP,Greg Conlon,257
 Kern,0050519,Treasurer,,DEM,John Chiang,159
 Kern,0050519,U.S. House,23,REP,Kevin McCarthy,346
+Kern,0050519,U.S. House,23,REP,Mike Biglay,1
 Kern,0050524,Attorney General,,REP,David King,6
 Kern,0050524,Attorney General,,REP,John Haggerty,8
 Kern,0050524,Attorney General,,LIB,Jonathan Jaech,4
@@ -16682,6 +16952,7 @@ Kern,0050524,State Assembly,32,REP,Pedro A. Rios,23
 Kern,0050524,State Assembly,32,REP,Romeo Agbalog,12
 Kern,0050524,State Assembly,32,DEM,Rudy Salas,143
 Kern,0050524,State Senate,16,REP,Jean Fuller,121
+Kern,0050524,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0050524,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,77
 Kern,0050524,Superintendent of Public Instruction,,NOP,Marshall Tuck,32
 Kern,0050524,Superintendent of Public Instruction,,NOP,Tom Torlakson,62
@@ -16742,6 +17013,7 @@ Kern,0050532,State Assembly,32,REP,Pedro A. Rios,12
 Kern,0050532,State Assembly,32,REP,Romeo Agbalog,4
 Kern,0050532,State Assembly,32,DEM,Rudy Salas,113
 Kern,0050532,State Senate,16,REP,Jean Fuller,72
+Kern,0050532,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0050532,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,52
 Kern,0050532,Superintendent of Public Instruction,,NOP,Marshall Tuck,17
 Kern,0050532,Superintendent of Public Instruction,,NOP,Tom Torlakson,55
@@ -16749,6 +17021,7 @@ Kern,0050532,Treasurer,,GRN,Ellen H. Brown,12
 Kern,0050532,Treasurer,,REP,Greg Conlon,10
 Kern,0050532,Treasurer,,DEM,John Chiang,106
 Kern,0050532,U.S. House,23,REP,Kevin McCarthy,64
+Kern,0050532,U.S. House,23,DEM,Raul Garcia,2
 Kern,0050536,Attorney General,,REP,David King,5
 Kern,0050536,Attorney General,,REP,John Haggerty,8
 Kern,0050536,Attorney General,,LIB,Jonathan Jaech,1
@@ -17304,6 +17577,7 @@ Kern,0050749,Secretary of State,,REP,Roy Allmond,21
 Kern,0050749,State Assembly,34,REP,Shannon Grove,132
 Kern,0050749,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",123
 Kern,0050749,State Senate,16,REP,Jean Fuller,186
+Kern,0050749,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,0050749,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,83
 Kern,0050749,Superintendent of Public Instruction,,NOP,Marshall Tuck,52
 Kern,0050749,Superintendent of Public Instruction,,NOP,Tom Torlakson,106
@@ -17311,6 +17585,7 @@ Kern,0050749,Treasurer,,GRN,Ellen H. Brown,15
 Kern,0050749,Treasurer,,REP,Greg Conlon,105
 Kern,0050749,Treasurer,,DEM,John Chiang,138
 Kern,0050749,U.S. House,23,REP,Kevin McCarthy,174
+Kern,0050749,U.S. House,23,DEM,Raul Garcia,5
 Kern,0050752,Attorney General,,REP,David King,10
 Kern,0050752,Attorney General,,REP,John Haggerty,16
 Kern,0050752,Attorney General,,LIB,Jonathan Jaech,6
@@ -17428,6 +17703,7 @@ Kern,0050765,Treasurer,,GRN,Ellen H. Brown,10
 Kern,0050765,Treasurer,,REP,Greg Conlon,52
 Kern,0050765,Treasurer,,DEM,John Chiang,56
 Kern,0050765,U.S. House,23,REP,Kevin McCarthy,67
+Kern,0050765,U.S. House,23,DEM,Raul Garcia,3
 Kern,0051180,Attorney General,,REP,David King,10
 Kern,0051180,Attorney General,,REP,John Haggerty,12
 Kern,0051180,Attorney General,,LIB,Jonathan Jaech,1
@@ -17676,6 +17952,7 @@ Kern,0051331,Treasurer,,GRN,Ellen H. Brown,5
 Kern,0051331,Treasurer,,REP,Greg Conlon,110
 Kern,0051331,Treasurer,,DEM,John Chiang,83
 Kern,0051331,U.S. House,23,REP,Kevin McCarthy,149
+Kern,0051331,U.S. House,23,LIB,Gail K. Lightfoot,1
 Kern,0051332,Attorney General,,REP,David King,3
 Kern,0051332,Attorney General,,REP,John Haggerty,6
 Kern,0051332,Attorney General,,DEM,Kamala D. Harris,50
@@ -18020,6 +18297,7 @@ Kern,0052070,State Assembly,32,REP,Romeo Agbalog,10
 Kern,0052070,State Assembly,32,DEM,Rudy Salas,132
 Kern,0052070,State Senate,14,REP,Andy Vidak,50
 Kern,0052070,State Senate,14,DEM,Luis Chavez,115
+Kern,0052070,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,0052070,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,82
 Kern,0052070,Superintendent of Public Instruction,,NOP,Marshall Tuck,21
 Kern,0052070,Superintendent of Public Instruction,,NOP,Tom Torlakson,49
@@ -18870,6 +19148,7 @@ Kern,7011773,Treasurer,,GRN,Ellen H. Brown,1
 Kern,7011773,Treasurer,,REP,Greg Conlon,59
 Kern,7011773,Treasurer,,DEM,John Chiang,29
 Kern,7011773,U.S. House,23,REP,Kevin McCarthy,65
+Kern,7011773,U.S. House,23,REP,Mike Biglay,4
 Kern,7011860,Attorney General,,REP,David King,11
 Kern,7011860,Attorney General,,REP,John Haggerty,4
 Kern,7011860,Attorney General,,DEM,Kamala D. Harris,9
@@ -19121,6 +19400,7 @@ Kern,7012160,State Assembly,26,DEM,Ruben Macareno,4
 Kern,7012160,State Assembly,26,REP,Rudy Mendoza,28
 Kern,7012160,State Assembly,26,REP,"Teresita ""Tess"" Andres",13
 Kern,7012160,State Senate,16,REP,Jean Fuller,73
+Kern,7012160,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,7012160,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,18
 Kern,7012160,Superintendent of Public Instruction,,NOP,Marshall Tuck,28
 Kern,7012160,Superintendent of Public Instruction,,NOP,Tom Torlakson,35
@@ -19128,6 +19408,7 @@ Kern,7012160,Treasurer,,GRN,Ellen H. Brown,6
 Kern,7012160,Treasurer,,REP,Greg Conlon,47
 Kern,7012160,Treasurer,,DEM,John Chiang,33
 Kern,7012160,U.S. House,23,REP,Kevin McCarthy,75
+Kern,7012160,U.S. House,23,DEM,Raul Garcia,1
 Kern,7012251,Attorney General,,REP,David King,1
 Kern,7012251,Attorney General,,REP,John Haggerty,11
 Kern,7012251,Attorney General,,LIB,Jonathan Jaech,1
@@ -19779,6 +20060,7 @@ Kern,7020012,Treasurer,,GRN,Ellen H. Brown,5
 Kern,7020012,Treasurer,,REP,Greg Conlon,79
 Kern,7020012,Treasurer,,DEM,John Chiang,21
 Kern,7020012,U.S. House,23,REP,Kevin McCarthy,79
+Kern,7020012,U.S. House,23,REP,Mike Biglay,1
 Kern,7020014,Attorney General,,REP,David King,2
 Kern,7020014,Attorney General,,REP,John Haggerty,3
 Kern,7020014,Attorney General,,DEM,Kamala D. Harris,17
@@ -20290,6 +20572,7 @@ Kern,7021515,Treasurer,,GRN,Ellen H. Brown,1
 Kern,7021515,Treasurer,,REP,Greg Conlon,42
 Kern,7021515,Treasurer,,DEM,John Chiang,26
 Kern,7021515,U.S. House,23,REP,Kevin McCarthy,53
+Kern,7021515,U.S. House,23,DEM,Raul Garcia,1
 Kern,7021903,Attorney General,,REP,David King,5
 Kern,7021903,Attorney General,,REP,John Haggerty,6
 Kern,7021903,Attorney General,,DEM,Kamala D. Harris,19
@@ -20341,6 +20624,7 @@ Kern,7021903,Treasurer,,GRN,Ellen H. Brown,1
 Kern,7021903,Treasurer,,REP,Greg Conlon,54
 Kern,7021903,Treasurer,,DEM,John Chiang,24
 Kern,7021903,U.S. House,23,REP,Kevin McCarthy,68
+Kern,7021903,U.S. House,23,REP,Mike Biglay,1
 Kern,7021925,Attorney General,,REP,David King,5
 Kern,7021925,Attorney General,,REP,John Haggerty,13
 Kern,7021925,Attorney General,,LIB,Jonathan Jaech,3
@@ -20387,12 +20671,14 @@ Kern,7021925,Secretary of State,,REP,Roy Allmond,7
 Kern,7021925,State Assembly,34,REP,Shannon Grove,39
 Kern,7021925,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",34
 Kern,7021925,State Senate,16,REP,Jean Fuller,46
+Kern,7021925,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,7021925,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,17
 Kern,7021925,Superintendent of Public Instruction,,NOP,Marshall Tuck,25
 Kern,7021925,Superintendent of Public Instruction,,NOP,Tom Torlakson,27
 Kern,7021925,Treasurer,,REP,Greg Conlon,41
 Kern,7021925,Treasurer,,DEM,John Chiang,34
 Kern,7021925,U.S. House,23,REP,Kevin McCarthy,49
+Kern,7021925,U.S. House,23,DEM,Raul Garcia,16
 Kern,7022007,Attorney General,,REP,David King,1
 Kern,7022007,Attorney General,,REP,John Haggerty,3
 Kern,7022007,Attorney General,,LIB,Jonathan Jaech,1
@@ -20897,6 +21183,7 @@ Kern,7023013,Treasurer,,GRN,Ellen H. Brown,1
 Kern,7023013,Treasurer,,REP,Greg Conlon,8
 Kern,7023013,Treasurer,,DEM,John Chiang,3
 Kern,7023013,U.S. House,23,REP,Kevin McCarthy,8
+Kern,7023013,U.S. House,23,REP,Mike Biglay,2
 Kern,7023037,Attorney General,,REP,David King,3
 Kern,7023037,Attorney General,,REP,John Haggerty,5
 Kern,7023037,Attorney General,,DEM,Kamala D. Harris,11
@@ -21155,6 +21442,7 @@ Kern,7023476,Secretary of State,,REP,Roy Allmond,4
 Kern,7023476,State Assembly,34,REP,Shannon Grove,74
 Kern,7023476,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",16
 Kern,7023476,State Senate,16,REP,Jean Fuller,75
+Kern,7023476,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,7023476,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,17
 Kern,7023476,Superintendent of Public Instruction,,NOP,Marshall Tuck,44
 Kern,7023476,Superintendent of Public Instruction,,NOP,Tom Torlakson,20
@@ -21162,6 +21450,7 @@ Kern,7023476,Treasurer,,GRN,Ellen H. Brown,3
 Kern,7023476,Treasurer,,REP,Greg Conlon,55
 Kern,7023476,Treasurer,,DEM,John Chiang,26
 Kern,7023476,U.S. House,23,REP,Kevin McCarthy,74
+Kern,7023476,U.S. House,23,DEM,Raul Garcia,1
 Kern,7023500,Attorney General,,REP,David King,11
 Kern,7023500,Attorney General,,REP,John Haggerty,7
 Kern,7023500,Attorney General,,LIB,Jonathan Jaech,1
@@ -21877,6 +22166,7 @@ Kern,7032442,Treasurer,,GRN,Ellen H. Brown,1
 Kern,7032442,Treasurer,,REP,Greg Conlon,28
 Kern,7032442,Treasurer,,DEM,John Chiang,12
 Kern,7032442,U.S. House,23,REP,Kevin McCarthy,40
+Kern,7032442,U.S. House,23,DEM,Raul Garcia,1
 Kern,7032740,Attorney General,,REP,John Haggerty,5
 Kern,7032740,Attorney General,,LIB,Jonathan Jaech,1
 Kern,7032740,Attorney General,,DEM,Kamala D. Harris,4
@@ -21924,6 +22214,7 @@ Kern,7032740,Treasurer,,GRN,Ellen H. Brown,3
 Kern,7032740,Treasurer,,REP,Greg Conlon,18
 Kern,7032740,Treasurer,,DEM,John Chiang,7
 Kern,7032740,U.S. House,23,REP,Kevin McCarthy,22
+Kern,7032740,U.S. House,23,DEM,Raul Garcia,1
 Kern,7032762,Attorney General,,DEM,Kamala D. Harris,25
 Kern,7032762,Attorney General,,REP,Phil Wyman,5
 Kern,7032762,Board of Equalization,1,DEM,Chris Parker,23
@@ -21964,6 +22255,7 @@ Kern,7032762,Superintendent of Public Instruction,,NOP,Tom Torlakson,19
 Kern,7032762,Treasurer,,REP,Greg Conlon,5
 Kern,7032762,Treasurer,,DEM,John Chiang,26
 Kern,7032762,U.S. House,23,REP,Kevin McCarthy,18
+Kern,7032762,U.S. House,23,DEM,Raul Garcia,1
 Kern,7032763,Attorney General,,LIB,Jonathan Jaech,3
 Kern,7032763,Attorney General,,DEM,Kamala D. Harris,17
 Kern,7032763,Attorney General,,IND,Orly Taitz,1
@@ -22330,12 +22622,14 @@ Kern,7035662,Secretary of State,,REP,Roy Allmond,3
 Kern,7035662,State Assembly,34,REP,Shannon Grove,26
 Kern,7035662,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",5
 Kern,7035662,State Senate,16,REP,Jean Fuller,26
+Kern,7035662,State Senate,16,DEM,Ruth Musser-Lopez,1
 Kern,7035662,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,14
 Kern,7035662,Superintendent of Public Instruction,,NOP,Marshall Tuck,5
 Kern,7035662,Superintendent of Public Instruction,,NOP,Tom Torlakson,13
 Kern,7035662,Treasurer,,REP,Greg Conlon,21
 Kern,7035662,Treasurer,,DEM,John Chiang,9
 Kern,7035662,U.S. House,23,REP,Kevin McCarthy,26
+Kern,7035662,U.S. House,23,DEM,Raul Garcia,1
 Kern,7040086,Attorney General,,REP,David King,4
 Kern,7040086,Attorney General,,REP,John Haggerty,9
 Kern,7040086,Attorney General,,LIB,Jonathan Jaech,1
@@ -22383,6 +22677,7 @@ Kern,7040086,Superintendent of Public Instruction,,NOP,Tom Torlakson,19
 Kern,7040086,Treasurer,,REP,Greg Conlon,39
 Kern,7040086,Treasurer,,DEM,John Chiang,11
 Kern,7040086,U.S. House,23,REP,Kevin McCarthy,44
+Kern,7040086,U.S. House,23,DEM,Raul Garcia,1
 Kern,7040140,Attorney General,,REP,David King,3
 Kern,7040140,Attorney General,,REP,John Haggerty,5
 Kern,7040140,Attorney General,,LIB,Jonathan Jaech,2
@@ -22483,6 +22778,7 @@ Kern,7040420,Secretary of State,,REP,Roy Allmond,3
 Kern,7040420,State Assembly,34,REP,Shannon Grove,35
 Kern,7040420,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",14
 Kern,7040420,State Senate,16,REP,Jean Fuller,38
+Kern,7040420,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,7040420,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,10
 Kern,7040420,Superintendent of Public Instruction,,NOP,Marshall Tuck,20
 Kern,7040420,Superintendent of Public Instruction,,NOP,Tom Torlakson,17
@@ -22490,6 +22786,7 @@ Kern,7040420,Treasurer,,GRN,Ellen H. Brown,2
 Kern,7040420,Treasurer,,REP,Greg Conlon,29
 Kern,7040420,Treasurer,,DEM,John Chiang,17
 Kern,7040420,U.S. House,23,REP,Kevin McCarthy,35
+Kern,7040420,U.S. House,23,DEM,Raul Garcia,2
 Kern,7041306,Attorney General,,REP,David King,8
 Kern,7041306,Attorney General,,REP,John Haggerty,6
 Kern,7041306,Attorney General,,LIB,Jonathan Jaech,1
@@ -23549,6 +23846,7 @@ Kern,7050513,Secretary of State,,REP,Roy Allmond,6
 Kern,7050513,State Assembly,34,REP,Shannon Grove,32
 Kern,7050513,State Assembly,34,DEM,"Virginia ""Mari"" Goodman",18
 Kern,7050513,State Senate,16,REP,Jean Fuller,37
+Kern,7050513,State Senate,16,DEM,Ruth Musser-Lopez,2
 Kern,7050513,Superintendent of Public Instruction,,NOP,Lydia A. Gutiérrez,9
 Kern,7050513,Superintendent of Public Instruction,,NOP,Marshall Tuck,13
 Kern,7050513,Superintendent of Public Instruction,,NOP,Tom Torlakson,22
@@ -23556,6 +23854,7 @@ Kern,7050513,Treasurer,,GRN,Ellen H. Brown,4
 Kern,7050513,Treasurer,,REP,Greg Conlon,21
 Kern,7050513,Treasurer,,DEM,John Chiang,25
 Kern,7050513,U.S. House,23,REP,Kevin McCarthy,35
+Kern,7050513,U.S. House,23,LIB,Gail K. Lightfoot,2
 Kern,7050523,Attorney General,,REP,David King,2
 Kern,7050523,Attorney General,,REP,John Haggerty,8
 Kern,7050523,Attorney General,,LIB,Jonathan Jaech,6
@@ -24382,6 +24681,7 @@ Kern,7052144,Treasurer,,GRN,Ellen H. Brown,1
 Kern,7052144,Treasurer,,REP,Greg Conlon,29
 Kern,7052144,Treasurer,,DEM,John Chiang,21
 Kern,7052144,U.S. House,23,REP,Kevin McCarthy,43
+Kern,7052144,U.S. House,23,REP,Mike Biglay,1
 Kern,7052149,Attorney General,,REP,David King,2
 Kern,7052149,Attorney General,,REP,John Haggerty,2
 Kern,7052149,Attorney General,,DEM,Kamala D. Harris,15
