@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,absentee,election_day,Reg_voters,total_ballots
+county,precinct,office,district,party,candidate,votes,absentee,election_day,reg_voters,total_ballots
 Humboldt,1CS-1,Governor,,Dem,GAVIN NEWSOM,336,221,115,816,574
 Humboldt,1CS-2,Governor,,Dem,GAVIN NEWSOM,296,190,106,782,584
 Humboldt,1CS-3,Governor,,Dem,GAVIN NEWSOM,280,204,76,800,580
