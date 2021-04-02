@@ -37,8 +37,7 @@ candidates = {'ADRIENNE N EDWARDS': 'Adrienne Nicole Edwards',
               'MARK VARGAS': 'Mark Vargas',
               'MIKE FONG': 'Mike Fong',
               'PATRICK KOPPULA': 'Patrick Koppula',
-              'RON BIRNBAUM': 'Ron Birnbaum',
-              'WENDY CARRILLO': 'Wendy Carrillo'}
+              'RON BIRNBAUM': 'Ron Birnbaum'}
 
 p = {'Kenneth Mejia': 'GRN',
      'Angela E. McArdle': 'LIB',
