@@ -49,14 +49,16 @@ def test_data(year, date, election_type):
 class FileFormatTests(unittest.TestCase):
     root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
-    def test_row_consistency(self):
-        for root, dirs, files in os.walk(FileFormatTests.root_path):
-            for file in files:
-                if file.lower().endswith(".csv"):
-                    csv_file = os.path.join(root, file)
-                    with open(csv_file, "r") as csv_data:
-                        reader = csv.reader(csv_data)
-                        header = next(reader)
-                        num_headers = len(header)
-                        for row in reader:
-                            self.assertEqual(num_headers, len(row), f"File {csv_file} has header {header}, but row {row}.")
+    def test_consistency(self):
+        data_folders = glob.glob(os.path.join(FileFormatTests.root_path, "[0-9]" * 4))
+        for data_folder in data_folders:
+            for root, dirs, files in os.walk(data_folder):
+                for file in files:
+                    if file.lower().endswith(".csv"):
+                        csv_file = os.path.join(root, file)
+                        with open(csv_file, "r") as csv_data:
+                            reader = csv.reader(csv_data)
+                            header = next(reader)
+                            num_headers = len(header)
+                            for row in reader:
+                                self.assertEqual(num_headers, len(row), f"File {csv_file} has header {header}, but row {row}.")
