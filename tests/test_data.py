@@ -56,9 +56,10 @@ class FileFormatTests(unittest.TestCase):
                 for file in files:
                     if file.lower().endswith(".csv"):
                         csv_file = os.path.join(root, file)
-                        with open(csv_file, "r") as csv_data:
-                            reader = csv.reader(csv_data)
-                            header = next(reader)
-                            num_headers = len(header)
-                            for row in reader:
-                                self.assertEqual(num_headers, len(row), f"File {csv_file} has header {header}, but row {row}.")
+                        with self.subTest(msg=f"{file}"):
+                            with open(csv_file, "r") as csv_data:
+                                reader = csv.reader(csv_data)
+                                header = next(reader)
+                                num_headers = len(header)
+                                for row in reader:
+                                    self.assertEqual(num_headers, len(row), f"File {csv_file} has header {header}, but row {row}.")
