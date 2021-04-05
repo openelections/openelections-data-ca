@@ -73,7 +73,8 @@ class FileFormatTests(unittest.TestCase):
                                 # Verify that each row has the expected number of entries.
                                 num_headers = len(headers)
                                 for row in reader:
-                                    self.assertEqual(num_headers, len(row), f"File {csv_file} has header {headers}, but row {reader.line_num} is {row}.")
+                                    self.assertEqual(num_headers, len(row), f"File {csv_file} has header {headers}, "
+                                                                            f"but row {reader.line_num} is {row}.")
 
     @staticmethod
     def __get_expected_headers(csv_file):
