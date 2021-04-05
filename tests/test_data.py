@@ -60,14 +60,14 @@ class FileFormatTests(unittest.TestCase):
                             with open(csv_file, "r") as csv_data:
                                 reader = csv.reader(csv_data)
 
-                                expected_header = FileFormatTests.__get_expected_header(file)
-                                header = next(reader)
-                                self.assertTrue(set(expected_header).issubset(set(header)), f"File {csv_file} has "
-                                    f"header: {header}, which is missing: {set(expected_header).difference(set(header))}.")
+                                required_headers = set(FileFormatTests.__get_expected_header(file))
+                                headers = set(next(reader))
+                                self.assertTrue(required_headers.issubset(headers), f"File {csv_file} has "
+                                    f"header: {headers}, which is missing: {required_headers.difference(headers)}.")
 
-                                num_headers = len(header)
+                                num_headers = len(headers)
                                 for row in reader:
-                                    self.assertEqual(num_headers, len(row), f"File {csv_file} has header {header}, but row {row}.")
+                                    self.assertEqual(num_headers, len(row), f"File {csv_file} has header {headers}, but row {row}.")
 
     @staticmethod
     def __get_expected_header(csv_file):
