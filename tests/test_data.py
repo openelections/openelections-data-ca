@@ -59,7 +59,19 @@ class FileFormatTests(unittest.TestCase):
                         with self.subTest(msg=f"{file}"):
                             with open(csv_file, "r") as csv_data:
                                 reader = csv.reader(csv_data)
+
+                                expected_header = FileFormatTests.__get_expected_header(file)
                                 header = next(reader)
+                                self.assertTrue(set(expected_header).issubset(set(header)), f"File {csv_file} has "
+                                    f"header: {header}, which is missing: {set(expected_header).difference(set(header))}.")
+
                                 num_headers = len(header)
                                 for row in reader:
                                     self.assertEqual(num_headers, len(row), f"File {csv_file} has header {header}, but row {row}.")
+
+    @staticmethod
+    def __get_expected_header(csv_file):
+        if csv_file.endswith("precinct.csv"):
+            return ["county", "precinct", "office", "district", "party", "candidate", "votes"]
+        else:
+            return ["county", "office", "district", "party", "candidate", "votes"]
