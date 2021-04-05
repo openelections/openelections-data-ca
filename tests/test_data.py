@@ -49,7 +49,7 @@ def test_data(year, date, election_type):
 class FileFormatTests(unittest.TestCase):
     root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
-    def test_consistency(self):
+    def test_format(self):
         data_folders = glob.glob(os.path.join(FileFormatTests.root_path, "[0-9]" * 4))
         for data_folder in data_folders:
             for root, dirs, files in os.walk(data_folder):
