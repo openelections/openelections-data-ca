@@ -72,9 +72,8 @@ class FileFormatTests(unittest.TestCase):
                                     f"header: {headers}, which is missing: {required_headers.difference(headers)}.")
 
                                 # Verify that each row has the expected number of entries.
-                                num_headers = len(headers)
                                 for row in reader:
-                                    self.assertEqual(num_headers, len(row), f"File {short_path} has header {headers}, "
+                                    self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, "
                                                                             f"but row {reader.line_num} is {row}.")
 
     @staticmethod
