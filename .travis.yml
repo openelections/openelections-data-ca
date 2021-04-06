@@ -1,4 +1,3 @@
+dist: focal
 language: python
-python:
-    - "3.4"
 script: pytest
