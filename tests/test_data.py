@@ -56,7 +56,8 @@ class FileFormatTests(unittest.TestCase):
                 for file in files:
                     if file.lower().endswith(".csv"):
                         csv_file = os.path.join(root, file)
-                        with self.subTest(msg=f"{file}"):
+                        short_path = csv_file.strip(FileFormatTests.root_path)
+                        with self.subTest(msg=f"{short_path}"):
                             with open(csv_file, "r") as csv_data:
                                 reader = csv.reader(csv_data)
 
@@ -64,16 +65,16 @@ class FileFormatTests(unittest.TestCase):
                                 headers = set(next(reader))
 
                                 # Verify that the header does not contain any empty entries.
-                                self.assertNotIn("", headers, f"File {csv_file} has an empty column header.")
+                                self.assertNotIn("", headers, f"File {short_path} has an empty column header.")
 
                                 # Verify that the header contains the required entries.
-                                self.assertTrue(required_headers.issubset(headers), f"File {csv_file} has "
+                                self.assertTrue(required_headers.issubset(headers), f"File {short_path} has "
                                     f"header: {headers}, which is missing: {required_headers.difference(headers)}.")
 
                                 # Verify that each row has the expected number of entries.
                                 num_headers = len(headers)
                                 for row in reader:
-                                    self.assertEqual(num_headers, len(row), f"File {csv_file} has header {headers}, "
+                                    self.assertEqual(num_headers, len(row), f"File {short_path} has header {headers}, "
                                                                             f"but row {reader.line_num} is {row}.")
 
     @staticmethod
