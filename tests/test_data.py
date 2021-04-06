@@ -50,31 +50,35 @@ class FileFormatTests(unittest.TestCase):
     root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
     def test_format(self):
+        for csv_file in FileFormatTests.__get_csv_files():
+            short_path = csv_file.strip(FileFormatTests.root_path)
+            with self.subTest(msg=f"{short_path}"):
+                with open(csv_file, "r") as csv_data:
+                    reader = csv.reader(csv_data)
+
+                    required_headers = set(FileFormatTests.__get_expected_headers(csv_file))
+                    headers = set(next(reader))
+
+                    # Verify that the header does not contain any empty entries.
+                    self.assertNotIn("", headers, f"File {short_path} has an empty column header.")
+
+                    # Verify that the header contains the required entries.
+                    self.assertTrue(required_headers.issubset(headers), f"File {short_path} has header: {headers}, "
+                                                        f"which is missing: {required_headers.difference(headers)}.")
+
+                    # Verify that each row has the expected number of entries.
+                    for row in reader:
+                        self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
+                                                                 f"{reader.line_num} is {row}.")
+
+    @staticmethod
+    def __get_csv_files():
         data_folders = glob.glob(os.path.join(FileFormatTests.root_path, "[0-9]" * 4))
         for data_folder in data_folders:
             for root, dirs, files in os.walk(data_folder):
                 for file in files:
                     if file.lower().endswith(".csv"):
-                        csv_file = os.path.join(root, file)
-                        short_path = csv_file.strip(FileFormatTests.root_path)
-                        with self.subTest(msg=f"{short_path}"):
-                            with open(csv_file, "r") as csv_data:
-                                reader = csv.reader(csv_data)
-
-                                required_headers = set(FileFormatTests.__get_expected_headers(file))
-                                headers = set(next(reader))
-
-                                # Verify that the header does not contain any empty entries.
-                                self.assertNotIn("", headers, f"File {short_path} has an empty column header.")
-
-                                # Verify that the header contains the required entries.
-                                self.assertTrue(required_headers.issubset(headers), f"File {short_path} has "
-                                    f"header: {headers}, which is missing: {required_headers.difference(headers)}.")
-
-                                # Verify that each row has the expected number of entries.
-                                for row in reader:
-                                    self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, "
-                                                                            f"but row {reader.line_num} is {row}.")
+                        yield os.path.join(root, file)
 
     @staticmethod
     def __get_expected_headers(csv_file):
