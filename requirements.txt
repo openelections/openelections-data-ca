@@ -1,8 +1,8 @@
-numpy==1.13.1
-pandas==0.20.3
+numpy==1.20.0
+pandas==1.2.3
 py==1.8.2
 pytest==6.2.3
 pytest-subtests==0.4.0
-python-dateutil==2.6.1
-pytz==2017.2
+python-dateutil==2.8.1
+pytz==2021.1
 six==1.10.0
