@@ -57,7 +57,7 @@ class FileFormatTests(unittest.TestCase):
                     reader = csv.reader(csv_data)
 
                     required_headers = set(FileFormatTests.__get_expected_headers(csv_file))
-                    headers = set(next(reader))
+                    headers = next(reader)
 
                     # Verify that the header does not contain any empty entries.
                     self.assertNotIn("", headers, f"File {short_path} has an empty column header.")
