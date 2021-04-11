@@ -47,7 +47,6 @@ def test_data(year, date, election_type):
 
 
 class FileFormatTests(unittest.TestCase):
-    forbidden_chars = {"!", "@", "$", "%", "^", "*", "<", ">", "+", "="}
     root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
     def test_format(self):
@@ -71,13 +70,6 @@ class FileFormatTests(unittest.TestCase):
                     for row in reader:
                         self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
                                                                  f"{reader.line_num} is {row}.")
-
-                        # Verify that there are no forbidden characters.
-                        bad_chars = []
-                        for entry in row:
-                            bad_chars.extend(FileFormatTests.forbidden_chars & set(entry))
-                        self.assertEqual(0, len(bad_chars), f"File {short_path} contains forbidden characters "
-                                                            f"{bad_chars} in row {reader.line_num}: {row}")
 
     @staticmethod
     def __get_csv_files():
