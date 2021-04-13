@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
+import csv
 import glob
+import os
 import pandas
 import pytest
+import unittest
 
 
 columns = ['candidate', 'county', 'district', 'office', 'votes']
@@ -41,3 +44,45 @@ def test_data(year, date, election_type):
 
         assert state_cmp.to_dict()['votes'] == county_data.to_dict()[
             'votes'], '%s failed' % county
+
+
+class FileFormatTests(unittest.TestCase):
+    root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+    def test_format(self):
+        for csv_file in FileFormatTests.__get_csv_files():
+            short_path = csv_file.strip(FileFormatTests.root_path)
+            with self.subTest(msg=f"{short_path}"):
+                with open(csv_file, "r") as csv_data:
+                    reader = csv.reader(csv_data)
+
+                    required_headers = set(FileFormatTests.__get_expected_headers(csv_file))
+                    headers = next(reader)
+
+                    # Verify that the header does not contain any empty entries.
+                    self.assertNotIn("", headers, f"File {short_path} has an empty column header.")
+
+                    # Verify that the header contains the required entries.
+                    self.assertTrue(required_headers.issubset(headers), f"File {short_path} has header: {headers}, "
+                                                        f"which is missing: {required_headers.difference(headers)}.")
+
+                    # Verify that each row has the expected number of entries.
+                    for row in reader:
+                        self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
+                                                                 f"{reader.line_num} is {row}.")
+
+    @staticmethod
+    def __get_csv_files():
+        data_folders = glob.glob(os.path.join(FileFormatTests.root_path, "[0-9]" * 4))
+        for data_folder in data_folders:
+            for root, dirs, files in os.walk(data_folder):
+                for file in files:
+                    if file.lower().endswith(".csv"):
+                        yield os.path.join(root, file)
+
+    @staticmethod
+    def __get_expected_headers(csv_file):
+        if csv_file.endswith("precinct.csv"):
+            return ["county", "precinct", "office", "district", "party", "candidate", "votes"]
+        else:
+            return ["county", "office", "district", "party", "candidate", "votes"]
