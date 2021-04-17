@@ -51,6 +51,10 @@ class FileFormatTests(unittest.TestCase):
     root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
     def test_format(self):
+        regex_non_whitespace = re.compile(r"\S")
+        regex_consecutive_space = re.compile(r"\s{2,}")
+        regex_non_alphanumeric = re.compile(r"\w")
+
         for csv_file in FileFormatTests.__get_csv_files():
             short_path = csv_file.strip(FileFormatTests.root_path)
             with self.subTest(msg=f"{short_path}"):
@@ -77,15 +81,16 @@ class FileFormatTests(unittest.TestCase):
                                                                  f"{reader.line_num} is {row}.")
                         row_has_content = False
                         for entry in row:
-                            row_has_content |= (re.search(r"\S", entry) is not None)
+                            row_has_content |= (regex_non_whitespace.search(entry) is not None)
 
                             # Verify that there is no leading or trailing whitespace.
                             self.assertEqual(entry.strip(), entry, f"File {short_path} has leading or trailing "
                                                                    f"whitespace in row {reader.line_num}: {row}.")
 
                             # Verify that there are no consecutive whitespace characters.
-                            self.assertNotRegex(entry, r"\s{2,}", f"File {short_path} contains consecutive whitespace "
-                                                                  f"characters in row {reader.line_num}: {row}.")
+                            self.assertNotRegex(entry, regex_consecutive_space, f"File {short_path} contains "
+                                                                                f"consecutive whitespace characters "
+                                                                                f"in row {reader.line_num}: {row}.")
 
                             # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
                             self.assertNotIn("\n", entry, f"File {short_path} has a newline character in row "
@@ -93,12 +98,12 @@ class FileFormatTests(unittest.TestCase):
 
                             # Verify that the entry does not consist only of non-alphanumeric characters.
                             if entry != "":
-                                self.assertRegex(entry, r"\w", f"File {short_path} has an entry of only non-alphanumeric "
-                                                               f"characters in row {reader.line_num}: {row}.")
+                                self.assertRegex(entry, regex_non_alphanumeric, f"File {short_path} has an entry of "
+                                                                                f"only non-alphanumeric characters in"
+                                                                                f" row {reader.line_num}: {row}.")
 
                         # Verify that the row has actual content.
                         self.assertTrue(row_has_content, f"File {short_path} row {reader.line_num} is empty.")
-
 
     @staticmethod
     def __get_csv_files():
