@@ -5,6 +5,7 @@ import glob
 import os
 import pandas
 import pytest
+import re
 import unittest
 
 
@@ -66,10 +67,14 @@ class FileFormatTests(unittest.TestCase):
                     self.assertTrue(required_headers.issubset(headers), f"File {short_path} has header: {headers}, "
                                                         f"which is missing: {required_headers.difference(headers)}.")
 
-                    # Verify that each row has the expected number of entries.
                     for row in reader:
+                        # Verify that each row has the expected number of entries.
                         self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
                                                                  f"{reader.line_num} is {row}.")
+                        for entry in row:
+                            # Verify that there is no redundant whitespace.
+                            self.assertIsNone(re.search(r"\s{2,}", entry), f"File {short_path} contains redundant "
+                                                                           f"whitespace in row {reader.line_num}: {row}.")
 
     @staticmethod
     def __get_csv_files():
