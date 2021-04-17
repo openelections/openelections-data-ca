@@ -80,8 +80,8 @@ class FileFormatTests(unittest.TestCase):
                                                                    f"whitespace in row {reader.line_num}: {row}.")
 
                             # Verify that there is no redundant whitespace.
-                            self.assertIsNone(re.search(r"\s{2,}", entry), f"File {short_path} contains redundant "
-                                                                           f"whitespace in row {reader.line_num}: {row}.")
+                            self.assertNotRegex(entry, r"\s{2,}", f"File {short_path} contains redundant whitespace "
+                                                                  f"in row {reader.line_num}: {row}.")
 
                             # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
                             self.assertNotIn("\n", entry, f"File {short_path} has a line break in row {reader.line_num}.")
