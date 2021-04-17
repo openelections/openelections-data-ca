@@ -75,6 +75,10 @@ class FileFormatTests(unittest.TestCase):
                         for entry in row:
                             row_has_content |= re.search(r"\S", entry) is not None
 
+                            # Verify that there is no leading or trailing whitespace.
+                            self.assertEqual(entry.strip(), entry, f"File {short_path} has leading or trailing "
+                                                                   f"whitespace in row {reader.line_num}: {row}.")
+
                             # Verify that there is no redundant whitespace.
                             self.assertIsNone(re.search(r"\s{2,}", entry), f"File {short_path} contains redundant "
                                                                            f"whitespace in row {reader.line_num}: {row}.")
