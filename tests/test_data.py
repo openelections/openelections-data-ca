@@ -73,7 +73,7 @@ class FileFormatTests(unittest.TestCase):
                                                                  f"{reader.line_num} is {row}.")
                         row_has_content = False
                         for entry in row:
-                            row_has_content |= re.search(r"\S", entry) is not None
+                            row_has_content |= (re.search(r"\S", entry) is not None)
 
                             # Verify that there is no leading or trailing whitespace.
                             self.assertEqual(entry.strip(), entry, f"File {short_path} has leading or trailing "
