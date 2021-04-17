@@ -83,7 +83,7 @@ class FileFormatTests(unittest.TestCase):
                             self.assertEqual(entry.strip(), entry, f"File {short_path} has leading or trailing "
                                                                    f"whitespace in row {reader.line_num}: {row}.")
 
-                            # Verify that there is no consecutive whitespace characters.
+                            # Verify that there are no consecutive whitespace characters.
                             self.assertNotRegex(entry, r"\s{2,}", f"File {short_path} contains consecutive whitespace "
                                                                   f"characters in row {reader.line_num}: {row}.")
 
