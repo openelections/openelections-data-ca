@@ -88,7 +88,8 @@ class FileFormatTests(unittest.TestCase):
                                                                   f"characters in row {reader.line_num}: {row}.")
 
                             # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
-                            self.assertNotIn("\n", entry, f"File {short_path} has a newline character in row {reader.line_num}.")
+                            self.assertNotIn("\n", entry, f"File {short_path} has a newline character in row "
+                                                          f"{reader.line_num}: {row}.")
 
                             # Verify that the entry does not consist only of non-alphanumeric characters.
                             if entry != "":
