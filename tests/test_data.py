@@ -84,7 +84,7 @@ class FileFormatTests(unittest.TestCase):
                                                                   f"in row {reader.line_num}: {row}.")
 
                             # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
-                            self.assertNotIn("\n", entry, f"File {short_path} has a line break in row {reader.line_num}.")
+                            self.assertNotIn("\n", entry, f"File {short_path} has a newline character in row {reader.line_num}.")
 
                         # Verify that the row has actual content.
                         self.assertTrue(row_has_content, f"File {short_path} row {reader.line_num} is empty.")
