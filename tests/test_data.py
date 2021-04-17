@@ -67,6 +67,10 @@ class FileFormatTests(unittest.TestCase):
                     self.assertTrue(required_headers.issubset(headers), f"File {short_path} has header: {headers}, "
                                                         f"which is missing: {required_headers.difference(headers)}.")
 
+                    # An "unknown" header is not useful.
+                    self.assertNotIn("unknown", [x.strip().lower() for x in headers], f"File {short_path} has an "
+                                                                                      f"'unknown' header: {headers}.")
+
                     for row in reader:
                         # Verify that each row has the expected number of entries.
                         self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
