@@ -71,13 +71,19 @@ class FileFormatTests(unittest.TestCase):
                         # Verify that each row has the expected number of entries.
                         self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
                                                                  f"{reader.line_num} is {row}.")
+                        row_has_content = False
                         for entry in row:
+                            row_has_content |= re.search(r"\S", entry) is not None
+
                             # Verify that there is no redundant whitespace.
                             self.assertIsNone(re.search(r"\s{2,}", entry), f"File {short_path} contains redundant "
                                                                            f"whitespace in row {reader.line_num}: {row}.")
 
                             # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
                             self.assertNotIn("\n", entry, f"File {short_path} has a line break in row {reader.line_num}.")
+
+                        # Verify that the row has actual content.
+                        self.assertTrue(row_has_content, f"File {short_path} row {reader.line_num} is empty.")
 
 
     @staticmethod
