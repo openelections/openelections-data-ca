@@ -76,6 +76,10 @@ class FileFormatTests(unittest.TestCase):
                             self.assertIsNone(re.search(r"\s{2,}", entry), f"File {short_path} contains redundant "
                                                                            f"whitespace in row {reader.line_num}: {row}.")
 
+                            # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
+                            self.assertNotIn("\n", entry, f"File {short_path} has a line break in row {reader.line_num}.")
+
+
     @staticmethod
     def __get_csv_files():
         data_folders = glob.glob(os.path.join(FileFormatTests.root_path, "[0-9]" * 4))
