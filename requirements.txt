@@ -1,6 +1,6 @@
 numpy==1.20.0
 pandas==1.2.3
-py==1.8.2
+py==1.10.0
 pytest==6.2.3
 pytest-subtests==0.4.0
 python-dateutil==2.8.1
