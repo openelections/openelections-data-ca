@@ -56,7 +56,7 @@ class FileFormatTests(unittest.TestCase):
         regex_non_alphanumeric = re.compile(r"\w")
 
         for csv_file in FileFormatTests.__get_csv_files():
-            short_path = csv_file.strip(FileFormatTests.root_path)
+            short_path = os.path.relpath(csv_file, start=FileFormatTests.root_path)
             with self.subTest(msg=f"{short_path}"):
                 with open(csv_file, "r") as csv_data:
                     reader = csv.reader(csv_data)
