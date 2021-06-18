@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
 import csv
+import format_tests
 import glob
 import os
 import pandas
 import pytest
-import re
 import unittest
 
 
@@ -51,54 +51,49 @@ class FileFormatTests(unittest.TestCase):
     root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
     def test_format(self):
-        regex_non_whitespace = re.compile(r"\S")
-        regex_consecutive_space = re.compile(r"\s{2,}")
-
         for csv_file in FileFormatTests.__get_csv_files():
             short_path = os.path.relpath(csv_file, start=FileFormatTests.root_path)
+            tests = []
+
             with self.subTest(msg=f"{short_path}"):
                 with open(csv_file, "r") as csv_data:
                     reader = csv.reader(csv_data)
-
-                    required_headers = set(FileFormatTests.__get_expected_headers(csv_file))
                     headers = next(reader)
 
-                    # Verify that the header does not contain any empty entries.
-                    self.assertNotIn("", headers, f"File {short_path} has an empty column header.")
+                    header_tests = [
+                        format_tests.EmptyHeaders(),
+                        format_tests.LowercaseHeaders(),
+                        format_tests.MissingHeaders(FileFormatTests.__required_headers(short_path)),
+                        format_tests.UnknownHeaders(),
+                    ]
+                    tests.extend(header_tests)
 
-                    # Verify that the header contains the required entries.
-                    self.assertTrue(required_headers.issubset(headers), f"File {short_path} has header: {headers}, "
-                                                        f"which is missing: {required_headers.difference(headers)}.")
+                    row_tests = [
+                        format_tests.ConsecutiveSpaces(),
+                        format_tests.EmptyRows(),
+                        format_tests.InconsistentNumberOfColumns(headers),
+                        format_tests.LeadingAndTrailingSpaces(),
+                        format_tests.PrematureLineBreaks(),
+                    ]
+                    tests.extend(row_tests)
 
-                    # An "unknown" header is not useful.
-                    self.assertNotIn("unknown", [x.strip().lower() for x in headers], f"File {short_path} has an "
-                                                                                      f"'unknown' header: {headers}.")
+                    for test in header_tests:
+                        test.test(headers)
 
                     for row in reader:
-                        # Verify that each row has the expected number of entries.
-                        self.assertEqual(len(headers), len(row), f"File {short_path} has header {headers}, but row "
-                                                                 f"{reader.line_num} is {row}.")
-                        row_has_content = False
-                        for entry in row:
-                            row_has_content |= (regex_non_whitespace.search(entry) is not None)
+                        for test in row_tests:
+                            test.current_row = reader.line_num
+                            test.test(row)
 
-                            # Verify that there is no leading or trailing whitespace.  Using assertFalse instead of
-                            # assertEqual provides a slightly better failure message.
-                            has_leading_trailing_space = entry.strip() != entry
-                            self.assertFalse(has_leading_trailing_space, f"File {short_path} has leading or trailing "
-                                                                   f"whitespace in row {reader.line_num}: {row}.")
+                max_examples = 10
+                passed = True
+                message = f"\n\n{short_path}"
+                for test in tests:
+                    if not test.passed:
+                        passed = False
+                        message += f"\n\n* {test.get_failure_message(max_examples)}"
 
-                            # Verify that there are no consecutive whitespace characters.
-                            self.assertNotRegex(entry, regex_consecutive_space, f"File {short_path} contains "
-                                                                                f"consecutive whitespace characters "
-                                                                                f"in row {reader.line_num}: {row}.")
-
-                            # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
-                            self.assertNotIn("\n", entry, f"File {short_path} has a newline character in row "
-                                                          f"{reader.line_num}: {row}.")
-
-                        # Verify that the row has actual content.
-                        self.assertTrue(row_has_content, f"File {short_path} row {reader.line_num} is empty.")
+                self.assertTrue(passed, message)
 
     @staticmethod
     def __get_csv_files():
@@ -110,8 +105,8 @@ class FileFormatTests(unittest.TestCase):
                         yield os.path.join(root, file)
 
     @staticmethod
-    def __get_expected_headers(csv_file):
+    def __required_headers(csv_file):
         if csv_file.endswith("precinct.csv"):
-            return ["county", "precinct", "office", "district", "party", "candidate", "votes"]
+            return {"county", "precinct", "office", "district", "party", "candidate", "votes"}
         else:
-            return ["county", "office", "district", "party", "candidate", "votes"]
+            return {"county", "office", "district", "party", "candidate", "votes"}
