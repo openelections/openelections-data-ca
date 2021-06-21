@@ -53,7 +53,6 @@ class FileFormatTests(unittest.TestCase):
     def test_format(self):
         regex_non_whitespace = re.compile(r"\S")
         regex_consecutive_space = re.compile(r"\s{2,}")
-        regex_non_alphanumeric = re.compile(r"\w")
 
         for csv_file in FileFormatTests.__get_csv_files():
             short_path = os.path.relpath(csv_file, start=FileFormatTests.root_path)
@@ -97,12 +96,6 @@ class FileFormatTests(unittest.TestCase):
                             # Verify that there are no line breaks in the row (sometimes occurs in between quotes).
                             self.assertNotIn("\n", entry, f"File {short_path} has a newline character in row "
                                                           f"{reader.line_num}: {row}.")
-
-                            # Verify that the entry does not consist only of non-alphanumeric characters.
-                            if entry != "":
-                                self.assertRegex(entry, regex_non_alphanumeric, f"File {short_path} has an entry of "
-                                                                                f"only non-alphanumeric characters in"
-                                                                                f" row {reader.line_num}: {row}.")
 
                         # Verify that the row has actual content.
                         self.assertTrue(row_has_content, f"File {short_path} row {reader.line_num} is empty.")
