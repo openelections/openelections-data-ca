@@ -28,7 +28,7 @@ def test_data(subtests, year, date, election_type):
     state_data = state_data[state_data.votes != 0]
 
     county_file_pattern = os.path.join(year, "**", f"{year}{date}__ca__{election_type}__*__precinct.csv")
-    for county_file in sorted(glob.glob(county_file_pattern)):
+    for county_file in sorted(glob.glob(county_file_pattern, recursive=True)):
         with subtests.test(msg=f"{county_file}"):
             county_data = pandas.read_csv(county_file, na_values='').fillna('')
 
