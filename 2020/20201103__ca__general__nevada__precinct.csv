@@ -741,8 +741,8 @@ Nevada,CP31,State Senate,1,,Undervotes:,13,0,2,1,16
 Nevada,CP31,State Senate,1,,Overvotes:,0,0,0,0,0
 Nevada,CP31,State Assembly,1,DEM,ELIZABETH L BETANCOURT,152,11,4,1,168
 Nevada,CP31,State Assembly,1,REP,MEGAN DAHLE,210,10,7,1,228
-Nevada,CP31,State Assembly,1,,,13,0,2,3,18
-Nevada,CP31,State Assembly,1,,,0,0,0,0,0
+Nevada,CP31,State Assembly,1,,Undervotes:,13,0,2,3,18
+Nevada,CP31,State Assembly,1,,Overvotes:,0,0,0,0,0
 Nevada,CP32,President,,DEM,JOE BIDEN,15,0,1,0,16
 Nevada,CP32,President,,REP,DONALD TRUMP,12,3,0,0,15
 Nevada,CP32,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
@@ -753,20 +753,20 @@ Nevada,CP32,President,,WRI,Brian Carroll (W),0,0,0,0,0
 Nevada,CP32,President,,WRI,Brock Pierce (W),0,0,0,0,0
 Nevada,CP32,President,,WRI,Jesse Ventura (W),0,0,0,0,0
 Nevada,CP32,President,,WRI,Mark Charles (W),0,0,0,0,0
-Nevada,CP32,President,,,,0,0,0,0,0
-Nevada,CP32,President,,,,0,0,0,0,0
+Nevada,CP32,President,,,Undervotes:,0,0,0,0,0
+Nevada,CP32,President,,,Overvotes:,0,0,0,0,0
 Nevada,CP32,U.S. House,1,REP,DOUG LAMALFA,13,3,0,0,16
 Nevada,CP32,U.S. House,1,DEM,AUDREY DENNEY,15,0,1,0,16
-Nevada,CP32,U.S. House,1,,,0,0,0,0,0
-Nevada,CP32,U.S. House,1,,,0,0,0,0,0
+Nevada,CP32,U.S. House,1,,Undervotes:,0,0,0,0,0
+Nevada,CP32,U.S. House,1,,Overvotes:,0,0,0,0,0
 Nevada,CP32,State Senate,1,DEM,PAMELA DAWN SWARTZ,15,0,1,0,16
 Nevada,CP32,State Senate,1,REP,BRIAN DAHLE,13,3,0,0,16
-Nevada,CP32,State Senate,1,,,0,0,0,0,0
-Nevada,CP32,State Senate,1,,,0,0,0,0,0
+Nevada,CP32,State Senate,1,,Undervotes:,0,0,0,0,0
+Nevada,CP32,State Senate,1,,Overvotes:,0,0,0,0,0
 Nevada,CP32,State Assembly,1,DEM,ELIZABETH L BETANCOURT,15,0,1,0,16
 Nevada,CP32,State Assembly,1,REP,MEGAN DAHLE,13,3,0,0,16
-Nevada,CP32,State Assembly,1,,,0,0,0,0,0
-Nevada,CP32,State Assembly,1,,,0,0,0,0,0
+Nevada,CP32,State Assembly,1,,Undervotes:,0,0,0,0,0
+Nevada,CP32,State Assembly,1,,Overvotes:,0,0,0,0,0
 Nevada,CP33,President,,DEM,Joe Biden,686,19,21,9,735
 Nevada,CP33,President,,REP,Donald Trump,938,50,75,11,1076
 Nevada,CP33,President,,PFP,GLORIA LA RIVA,0,0,0,0,0
