@@ -1,4 +1,4 @@
-﻿County,Precinct,Office,District,Party,Candidate,election_day,early_voting,mail,Total
+﻿county,precinct,office,district,party,candidate,election_day,early_voting,mail,total
 kern,11155,SOVC,,,Cards Cast,227,0,761,988
 kern,11155,SOVC,,,Registered Voters,1261,1261,1261,1261
 kern,11155,SOVC,,,Voters Cast,227,0,761,988
