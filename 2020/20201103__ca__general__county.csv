@@ -41,7 +41,7 @@ Alpine,President,,Mark Charles,N,Y,,0
 Alpine,President,,Joseph Kishore,N,Y,,0
 Alpine,President,,Brock Pierce,N,Y,,0
 Alpine,President,,Jesse Ventura,N,Y,,0
-Alpine,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,473
+Alpine,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,473
 Alpine,U.S. House,4,Tom McClintock,Y,N,Republican,264
 Alpine,State Senate,1,Pamela Dawn Swartz,N,N,Democratic,441
 Alpine,State Senate,1,Brian Dahle,Y,N,Republican,292
@@ -57,7 +57,7 @@ Amador,President,,Mark Charles,N,Y,,0
 Amador,President,,Joseph Kishore,N,Y,,0
 Amador,President,,Brock Pierce,N,Y,,0
 Amador,President,,Jesse Ventura,N,Y,,1
-Amador,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,8259
+Amador,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,8259
 Amador,U.S. House,4,Tom McClintock,Y,N,Republican,13833
 Amador,State Assembly,5,Frank Bigelow,Y,N,Republican,16427
 Butte,President,,Joseph R. Biden,N,N,Democratic,50426
@@ -88,7 +88,7 @@ Calaveras,President,,Mark Charles,N,Y,,0
 Calaveras,President,,Joseph Kishore,N,Y,,0
 Calaveras,President,,Brock Pierce,N,Y,,0
 Calaveras,President,,Jesse Ventura,N,Y,,0
-Calaveras,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,10333
+Calaveras,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,10333
 Calaveras,U.S. House,4,Tom McClintock,Y,N,Republican,16563
 Calaveras,State Assembly,5,Frank Bigelow,Y,N,Republican,19205
 Colusa,President,,Joseph R. Biden,N,N,Democratic,3239
@@ -167,7 +167,7 @@ El Dorado,President,,Mark Charles,N,Y,,1
 El Dorado,President,,Joseph Kishore,N,Y,,0
 El Dorado,President,,Brock Pierce,N,Y,,0
 El Dorado,President,,Jesse Ventura,N,Y,,5
-El Dorado,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,51597
+El Dorado,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,51597
 El Dorado,U.S. House,4,Tom McClintock,Y,N,Republican,63710
 El Dorado,State Senate,1,Pamela Dawn Swartz,N,N,Democratic,46286
 El Dorado,State Senate,1,Brian Dahle,Y,N,Republican,66928
@@ -185,7 +185,7 @@ Fresno,President,,Mark Charles,N,Y,,32
 Fresno,President,,Joseph Kishore,N,Y,,0
 Fresno,President,,Brock Pierce,N,Y,,2
 Fresno,President,,Jesse Ventura,N,Y,,10
-Fresno,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,2048
+Fresno,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,2048
 Fresno,U.S. House,4,Tom McClintock,Y,N,Republican,6533
 Fresno,U.S. House,16,Jim Costa,Y,N,Democratic,62650
 Fresno,U.S. House,16,Kevin Cookingham,N,N,Republican,27989
@@ -448,7 +448,7 @@ Madera,President,,Mark Charles,N,Y,,0
 Madera,President,,Joseph Kishore,N,Y,,0
 Madera,President,,Brock Pierce,N,Y,,0
 Madera,President,,Jesse Ventura,N,Y,,2
-Madera,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,5428
+Madera,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,5428
 Madera,U.S. House,4,Tom McClintock,Y,N,Republican,10692
 Madera,U.S. House,16,Jim Costa,Y,N,Democratic,16427
 Madera,U.S. House,16,Kevin Cookingham,N,N,Republican,20273
@@ -479,7 +479,7 @@ Mariposa,President,,Mark Charles,N,Y,,0
 Mariposa,President,,Joseph Kishore,N,Y,,0
 Mariposa,President,,Brock Pierce,N,Y,,0
 Mariposa,President,,Jesse Ventura,N,Y,,0
-Mariposa,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,4195
+Mariposa,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,4195
 Mariposa,U.S. House,4,Tom McClintock,Y,N,Republican,5906
 Mariposa,State Assembly,5,Frank Bigelow,Y,N,Republican,7096
 Mendocino,President,,Joseph R. Biden,N,N,Democratic,28782
@@ -592,7 +592,7 @@ Nevada,President,,Brock Pierce,N,Y,,3
 Nevada,President,,Jesse Ventura,N,Y,,1
 Nevada,U.S. House,1,Audrey Denney,N,N,Democratic,29658
 Nevada,U.S. House,1,Doug LaMalfa,Y,N,Republican,24914
-Nevada,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,7508
+Nevada,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,7508
 Nevada,U.S. House,4,Tom McClintock,Y,N,Republican,2495
 Nevada,State Senate,1,Pamela Dawn Swartz,N,N,Democratic,33989
 Nevada,State Senate,1,Brian Dahle,Y,N,Republican,29964
@@ -654,7 +654,7 @@ Placer,President,,Brock Pierce,N,Y,,1
 Placer,President,,Jesse Ventura,N,Y,,10
 Placer,U.S. House,1,Audrey Denney,N,N,Democratic,11092
 Placer,U.S. House,1,Doug LaMalfa,Y,N,Republican,16830
-Placer,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,92678
+Placer,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,92678
 Placer,U.S. House,4,Tom McClintock,Y,N,Republican,109379
 Placer,State Senate,1,Pamela Dawn Swartz,N,N,Democratic,56614
 Placer,State Senate,1,Brian Dahle,Y,N,Republican,84209
@@ -1208,7 +1208,7 @@ Tuolumne,President,,Mark Charles,N,Y,,2
 Tuolumne,President,,Joseph Kishore,N,Y,,0
 Tuolumne,President,,Brock Pierce,N,Y,,0
 Tuolumne,President,,Jesse Ventura,N,Y,,1
-Tuolumne,U.S. House,4,Brynne S. Kennedy ,N,N,Democratic,12212
+Tuolumne,U.S. House,4,Brynne S. Kennedy,N,N,Democratic,12212
 Tuolumne,U.S. House,4,Tom McClintock,Y,N,Republican,17916
 Tuolumne,State Assembly,5,Frank Bigelow,Y,N,Republican,21158
 Ventura,President,,Joseph R. Biden,N,N,Democratic,251388
