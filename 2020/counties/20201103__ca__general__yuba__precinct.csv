@@ -1,0 +1,444 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail
+Yuba,8101,Registered Voters,,,,1721,,
+Yuba,8102,Registered Voters,,,,2419,,
+Yuba,8103,Registered Voters,,,,2919,,
+Yuba,8201,Registered Voters,,,,2235,,
+Yuba,8202,Registered Voters,,,,1749,,
+Yuba,8203,Registered Voters,,,,2099,,
+Yuba,8204,Registered Voters,,,,1007,,
+Yuba,8301,Registered Voters,,,,1892,,
+Yuba,8302,Registered Voters,,,,2235,,
+Yuba,8303,Registered Voters,,,,1807,,
+Yuba,8401,Registered Voters,,,,2861,,
+Yuba,8402,Registered Voters,,,,2882,,
+Yuba,8403,Registered Voters,,,,2069,,
+Yuba,8404,Registered Voters,,,,913,,
+Yuba,8501,Registered Voters,,,,1432,,
+Yuba,8502,Registered Voters,,,,903,,
+Yuba,8503,Registered Voters,,,,750,,
+Yuba,8504,Registered Voters,,,,1505,,
+Yuba,8505,Registered Voters,,,,740,,
+Yuba,8506,Registered Voters,,,,2028,,
+Yuba,8507,Registered Voters,,,,834,,
+Yuba,8508,Registered Voters,,,,467,,
+Yuba,9104,Registered Voters,,,,161,,
+Yuba,9304,Registered Voters,,,,193,,
+Yuba,9305,Registered Voters,,,,100,,
+Yuba,9306,Registered Voters,,,,95,,
+Yuba,9307,Registered Voters,,,,298,,
+Yuba,9405,Registered Voters,,,,236,,
+Yuba,9406,Registered Voters,,,,214,,
+Yuba,9509,Registered Voters,,,,244,,
+Yuba,9510,Registered Voters,,,,182,,
+Yuba,9511,Registered Voters,,,,236,,
+Yuba,9512,Registered Voters,,,,130,,
+Yuba,9513,Registered Voters,,,,70,,
+Yuba,8101,Ballots Cast,,,,1016,173,843
+Yuba,8102,Ballots Cast,,,,1529,206,1323
+Yuba,8103,Ballots Cast,,,,2339,316,2023
+Yuba,8201,Ballots Cast,,,,1592,239,1353
+Yuba,8202,Ballots Cast,,,,1499,168,1331
+Yuba,8203,Ballots Cast,,,,1432,180,1252
+Yuba,8204,Ballots Cast,,,,585,107,478
+Yuba,8301,Ballots Cast,,,,1184,198,986
+Yuba,8302,Ballots Cast,,,,1613,242,1371
+Yuba,8303,Ballots Cast,,,,1262,175,1087
+Yuba,8401,Ballots Cast,,,,2456,317,2139
+Yuba,8402,Ballots Cast,,,,2435,316,2119
+Yuba,8403,Ballots Cast,,,,1656,261,1395
+Yuba,8404,Ballots Cast,,,,773,126,647
+Yuba,8501,Ballots Cast,,,,1195,207,988
+Yuba,8502,Ballots Cast,,,,711,117,594
+Yuba,8503,Ballots Cast,,,,596,92,504
+Yuba,8504,Ballots Cast,,,,1290,221,1069
+Yuba,8505,Ballots Cast,,,,618,145,473
+Yuba,8506,Ballots Cast,,,,1780,269,1511
+Yuba,8507,Ballots Cast,,,,600,92,508
+Yuba,8508,Ballots Cast,,,,360,19,341
+Yuba,9104,Ballots Cast,,,,124,0,124
+Yuba,9304,Ballots Cast,,,,146,0,146
+Yuba,9305,Ballots Cast,,,,64,0,64
+Yuba,9306,Ballots Cast,,,,81,0,81
+Yuba,9307,Ballots Cast,,,,243,0,243
+Yuba,9405,Ballots Cast,,,,191,0,191
+Yuba,9406,Ballots Cast,,,,151,0,151
+Yuba,9509,Ballots Cast,,,,188,0,188
+Yuba,9510,Ballots Cast,,,,139,0,139
+Yuba,9511,Ballots Cast,,,,197,0,197
+Yuba,9512,Ballots Cast,,,,105,0,105
+Yuba,9513,Ballots Cast,,,,51,0,51
+Yuba,8101,President,,DEM,Joe Biden,449,47,402
+Yuba,8102,President,,DEM,Joe Biden,666,53,613
+Yuba,8103,President,,DEM,Joe Biden,1032,89,943
+Yuba,8201,President,,DEM,Joe Biden,592,58,534
+Yuba,8202,President,,DEM,Joe Biden,543,30,513
+Yuba,8203,President,,DEM,Joe Biden,641,42,599
+Yuba,8204,President,,DEM,Joe Biden,244,22,222
+Yuba,8301,President,,DEM,Joe Biden,455,40,415
+Yuba,8302,President,,DEM,Joe Biden,667,72,595
+Yuba,8303,President,,DEM,Joe Biden,542,48,494
+Yuba,8401,President,,DEM,Joe Biden,1055,75,980
+Yuba,8402,President,,DEM,Joe Biden,958,63,895
+Yuba,8403,President,,DEM,Joe Biden,490,47,443
+Yuba,8404,President,,DEM,Joe Biden,160,14,146
+Yuba,8501,President,,DEM,Joe Biden,633,65,568
+Yuba,8502,President,,DEM,Joe Biden,220,16,204
+Yuba,8503,President,,DEM,Joe Biden,170,15,155
+Yuba,8504,President,,DEM,Joe Biden,255,22,233
+Yuba,8505,President,,DEM,Joe Biden,70,8,62
+Yuba,8506,President,,DEM,Joe Biden,457,26,431
+Yuba,8507,President,,DEM,Joe Biden,199,11,188
+Yuba,8508,President,,DEM,Joe Biden,201,6,195
+Yuba,9104,President,,DEM,Joe Biden,38,0,38
+Yuba,9304,President,,DEM,Joe Biden,37,0,37
+Yuba,9305,President,,DEM,Joe Biden,9,0,9
+Yuba,9306,President,,DEM,Joe Biden,19,0,19
+Yuba,9307,President,,DEM,Joe Biden,82,0,82
+Yuba,9405,President,,DEM,Joe Biden,51,0,51
+Yuba,9406,President,,DEM,Joe Biden,78,0,78
+Yuba,9509,President,,DEM,Joe Biden,65,0,65
+Yuba,9510,President,,DEM,Joe Biden,44,0,44
+Yuba,9511,President,,DEM,Joe Biden,64,0,64
+Yuba,9512,President,,DEM,Joe Biden,25,0,25
+Yuba,9513,President,,DEM,Joe Biden,19,0,19
+Yuba,8101,President,,REP,Donald Trump,528,120,408
+Yuba,8102,President,,REP,Donald Trump,784,150,634
+Yuba,8103,President,,REP,Donald Trump,1190,218,972
+Yuba,8201,President,,REP,Donald Trump,913,174,739
+Yuba,8202,President,,REP,Donald Trump,898,130,768
+Yuba,8203,President,,REP,Donald Trump,720,132,588
+Yuba,8204,President,,REP,Donald Trump,307,80,227
+Yuba,8301,President,,REP,Donald Trump,690,151,539
+Yuba,8302,President,,REP,Donald Trump,867,162,705
+Yuba,8303,President,,REP,Donald Trump,651,122,529
+Yuba,8401,President,,REP,Donald Trump,1287,231,1056
+Yuba,8402,President,,REP,Donald Trump,1370,244,1126
+Yuba,8403,President,,REP,Donald Trump,1090,201,889
+Yuba,8404,President,,REP,Donald Trump,588,112,476
+Yuba,8501,President,,REP,Donald Trump,514,133,381
+Yuba,8502,President,,REP,Donald Trump,457,98,359
+Yuba,8503,President,,REP,Donald Trump,406,75,331
+Yuba,8504,President,,REP,Donald Trump,998,191,807
+Yuba,8505,President,,REP,Donald Trump,534,137,397
+Yuba,8506,President,,REP,Donald Trump,1282,237,1045
+Yuba,8507,President,,REP,Donald Trump,376,75,301
+Yuba,8508,President,,REP,Donald Trump,144,10,134
+Yuba,9104,President,,REP,Donald Trump,82,0,82
+Yuba,9304,President,,REP,Donald Trump,104,0,104
+Yuba,9305,President,,REP,Donald Trump,54,0,54
+Yuba,9306,President,,REP,Donald Trump,60,0,60
+Yuba,9307,President,,REP,Donald Trump,156,0,156
+Yuba,9405,President,,REP,Donald Trump,133,0,133
+Yuba,9406,President,,REP,Donald Trump,62,0,62
+Yuba,9509,President,,REP,Donald Trump,110,0,110
+Yuba,9510,President,,REP,Donald Trump,88,0,88
+Yuba,9511,President,,REP,Donald Trump,128,0,128
+Yuba,9512,President,,REP,Donald Trump,76,0,76
+Yuba,9513,President,,REP,Donald Trump,29,0,29
+Yuba,8101,President,,PFP,Gloria La Riva,4,2,2
+Yuba,8102,President,,PFP,Gloria La Riva,16,1,15
+Yuba,8103,President,,PFP,Gloria La Riva,9,1,8
+Yuba,8201,President,,PFP,Gloria La Riva,7,0,7
+Yuba,8202,President,,PFP,Gloria La Riva,2,1,1
+Yuba,8203,President,,PFP,Gloria La Riva,9,1,8
+Yuba,8204,President,,PFP,Gloria La Riva,1,0,1
+Yuba,8301,President,,PFP,Gloria La Riva,6,2,4
+Yuba,8302,President,,PFP,Gloria La Riva,8,2,6
+Yuba,8303,President,,PFP,Gloria La Riva,1,0,1
+Yuba,8401,President,,PFP,Gloria La Riva,5,1,4
+Yuba,8402,President,,PFP,Gloria La Riva,4,1,3
+Yuba,8403,President,,PFP,Gloria La Riva,5,0,5
+Yuba,8404,President,,PFP,Gloria La Riva,3,0,3
+Yuba,8501,President,,PFP,Gloria La Riva,3,2,1
+Yuba,8502,President,,PFP,Gloria La Riva,3,0,3
+Yuba,8503,President,,PFP,Gloria La Riva,2,0,2
+Yuba,8504,President,,PFP,Gloria La Riva,0,0,0
+Yuba,8505,President,,PFP,Gloria La Riva,0,0,0
+Yuba,8506,President,,PFP,Gloria La Riva,0,0,0
+Yuba,8507,President,,PFP,Gloria La Riva,2,1,1
+Yuba,8508,President,,PFP,Gloria La Riva,1,0,1
+Yuba,9104,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9304,President,,PFP,Gloria La Riva,1,0,1
+Yuba,9305,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9306,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9307,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9405,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9406,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9509,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9510,President,,PFP,Gloria La Riva,1,0,1
+Yuba,9511,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9512,President,,PFP,Gloria La Riva,0,0,0
+Yuba,9513,President,,PFP,Gloria La Riva,1,0,1
+Yuba,8101,President,,AIP,Rocky de la Fuente Guerra,8,1,7
+Yuba,8102,President,,AIP,Rocky de la Fuente Guerra,14,0,14
+Yuba,8103,President,,AIP,Rocky de la Fuente Guerra,8,0,8
+Yuba,8201,President,,AIP,Rocky de la Fuente Guerra,5,1,4
+Yuba,8202,President,,AIP,Rocky de la Fuente Guerra,4,1,3
+Yuba,8203,President,,AIP,Rocky de la Fuente Guerra,12,1,11
+Yuba,8204,President,,AIP,Rocky de la Fuente Guerra,3,0,3
+Yuba,8301,President,,AIP,Rocky de la Fuente Guerra,9,2,7
+Yuba,8302,President,,AIP,Rocky de la Fuente Guerra,9,1,8
+Yuba,8303,President,,AIP,Rocky de la Fuente Guerra,14,1,13
+Yuba,8401,President,,AIP,Rocky de la Fuente Guerra,20,5,15
+Yuba,8402,President,,AIP,Rocky de la Fuente Guerra,14,4,10
+Yuba,8403,President,,AIP,Rocky de la Fuente Guerra,6,1,5
+Yuba,8404,President,,AIP,Rocky de la Fuente Guerra,3,0,3
+Yuba,8501,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,8502,President,,AIP,Rocky de la Fuente Guerra,3,0,3
+Yuba,8503,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,8504,President,,AIP,Rocky de la Fuente Guerra,4,2,2
+Yuba,8505,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,8506,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,8507,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,8508,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9104,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9304,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9305,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9306,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9307,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,9405,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9406,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,9509,President,,AIP,Rocky de la Fuente Guerra,2,0,2
+Yuba,9510,President,,AIP,Rocky de la Fuente Guerra,1,0,1
+Yuba,9511,President,,AIP,Rocky de la Fuente Guerra,1,0,1
+Yuba,9512,President,,AIP,Rocky de la Fuente Guerra,1,0,1
+Yuba,9513,President,,AIP,Rocky de la Fuente Guerra,0,0,0
+Yuba,8101,President,,GRN,Howie Hawkins,2,0,2
+Yuba,8102,President,,GRN,Howie Hawkins,10,0,10
+Yuba,8103,President,,GRN,Howie Hawkins,8,1,7
+Yuba,8201,President,,GRN,Howie Hawkins,12,0,12
+Yuba,8202,President,,GRN,Howie Hawkins,5,0,5
+Yuba,8203,President,,GRN,Howie Hawkins,6,0,6
+Yuba,8204,President,,GRN,Howie Hawkins,7,2,5
+Yuba,8301,President,,GRN,Howie Hawkins,6,0,6
+Yuba,8302,President,,GRN,Howie Hawkins,7,0,7
+Yuba,8303,President,,GRN,Howie Hawkins,5,0,5
+Yuba,8401,President,,GRN,Howie Hawkins,6,1,5
+Yuba,8402,President,,GRN,Howie Hawkins,14,1,13
+Yuba,8403,President,,GRN,Howie Hawkins,5,0,5
+Yuba,8404,President,,GRN,Howie Hawkins,2,0,2
+Yuba,8501,President,,GRN,Howie Hawkins,7,3,4
+Yuba,8502,President,,GRN,Howie Hawkins,2,0,2
+Yuba,8503,President,,GRN,Howie Hawkins,0,0,0
+Yuba,8504,President,,GRN,Howie Hawkins,2,2,0
+Yuba,8505,President,,GRN,Howie Hawkins,3,0,3
+Yuba,8506,President,,GRN,Howie Hawkins,4,0,4
+Yuba,8507,President,,GRN,Howie Hawkins,2,1,1
+Yuba,8508,President,,GRN,Howie Hawkins,2,0,2
+Yuba,9104,President,,GRN,Howie Hawkins,0,0,0
+Yuba,9304,President,,GRN,Howie Hawkins,2,0,2
+Yuba,9305,President,,GRN,Howie Hawkins,0,0,0
+Yuba,9306,President,,GRN,Howie Hawkins,0,0,0
+Yuba,9307,President,,GRN,Howie Hawkins,1,0,1
+Yuba,9405,President,,GRN,Howie Hawkins,0,0,0
+Yuba,9406,President,,GRN,Howie Hawkins,1,0,1
+Yuba,9509,President,,GRN,Howie Hawkins,1,0,1
+Yuba,9510,President,,GRN,Howie Hawkins,1,0,1
+Yuba,9511,President,,GRN,Howie Hawkins,0,0,0
+Yuba,9512,President,,GRN,Howie Hawkins,0,0,0
+Yuba,9513,President,,GRN,Howie Hawkins,1,0,1
+Yuba,8101,President,,LIB,Jo Jorgensen,12,2,10
+Yuba,8102,President,,LIB,Jo Jorgensen,20,2,18
+Yuba,8103,President,,LIB,Jo Jorgensen,57,2,55
+Yuba,8201,President,,LIB,Jo Jorgensen,33,4,29
+Yuba,8202,President,,LIB,Jo Jorgensen,31,3,28
+Yuba,8203,President,,LIB,Jo Jorgensen,15,3,12
+Yuba,8204,President,,LIB,Jo Jorgensen,11,2,9
+Yuba,8301,President,,LIB,Jo Jorgensen,5,1,4
+Yuba,8302,President,,LIB,Jo Jorgensen,30,4,26
+Yuba,8303,President,,LIB,Jo Jorgensen,31,1,30
+Yuba,8401,President,,LIB,Jo Jorgensen,55,3,52
+Yuba,8402,President,,LIB,Jo Jorgensen,43,3,40
+Yuba,8403,President,,LIB,Jo Jorgensen,38,10,28
+Yuba,8404,President,,LIB,Jo Jorgensen,6,0,6
+Yuba,8501,President,,LIB,Jo Jorgensen,15,1,14
+Yuba,8502,President,,LIB,Jo Jorgensen,12,2,10
+Yuba,8503,President,,LIB,Jo Jorgensen,11,1,10
+Yuba,8504,President,,LIB,Jo Jorgensen,21,4,17
+Yuba,8505,President,,LIB,Jo Jorgensen,2,0,2
+Yuba,8506,President,,LIB,Jo Jorgensen,19,2,17
+Yuba,8507,President,,LIB,Jo Jorgensen,11,3,8
+Yuba,8508,President,,LIB,Jo Jorgensen,8,2,6
+Yuba,9104,President,,LIB,Jo Jorgensen,1,0,1
+Yuba,9304,President,,LIB,Jo Jorgensen,1,0,1
+Yuba,9305,President,,LIB,Jo Jorgensen,0,0,0
+Yuba,9306,President,,LIB,Jo Jorgensen,0,0,0
+Yuba,9307,President,,LIB,Jo Jorgensen,2,0,2
+Yuba,9405,President,,LIB,Jo Jorgensen,1,0,1
+Yuba,9406,President,,LIB,Jo Jorgensen,10,0,10
+Yuba,9509,President,,LIB,Jo Jorgensen,4,0,4
+Yuba,9510,President,,LIB,Jo Jorgensen,3,0,3
+Yuba,9511,President,,LIB,Jo Jorgensen,1,0,1
+Yuba,9512,President,,LIB,Jo Jorgensen,1,0,1
+Yuba,9513,President,,LIB,Jo Jorgensen,0,0,0
+Yuba,8101,President,,,Write-ins,0,0,0
+Yuba,8102,President,,,Write-ins,0,0,0
+Yuba,8103,President,,,Write-ins,0,0,0
+Yuba,8201,President,,,Write-ins,0,0,0
+Yuba,8202,President,,,Write-ins,0,0,0
+Yuba,8203,President,,,Write-ins,0,0,0
+Yuba,8204,President,,,Brian Carroll (writein),2,0,2
+Yuba,8301,President,,,Write-ins,0,0,0
+Yuba,8302,President,,,Write-ins,0,0,0
+Yuba,8303,President,,,Write-ins,0,0,0
+Yuba,8401,President,,,Write-ins,0,0,0
+Yuba,8402,President,,,Brian Carroll (writein),1,0,1
+Yuba,8403,President,,,Brian Carroll (writein),1,0,1
+Yuba,8404,President,,,Write-ins,0,0,0
+Yuba,8501,President,,,Mark Charles (writein),2,0,2
+Yuba,8501,President,,,Jesse Ventura (writein),1,0,1
+Yuba,8502,President,,,Write-ins,0,0,0
+Yuba,8503,President,,,Write-ins,0,0,0
+Yuba,8504,President,,,Write-ins,0,0,0
+Yuba,8505,President,,,Write-ins,0,0,0
+Yuba,8506,President,,,Mark Charles (writein),2,0,2
+Yuba,8507,President,,,Write-ins,0,0,0
+Yuba,8508,President,,,Write-ins,0,0,0
+Yuba,9104,President,,,Write-ins,0,0,0
+Yuba,9304,President,,,Write-ins,0,0,0
+Yuba,9305,President,,,Write-ins,0,0,0
+Yuba,9306,President,,,Write-ins,0,0,0
+Yuba,9307,President,,,Write-ins,0,0,0
+Yuba,9405,President,,,Write-ins,0,0,0
+Yuba,9406,President,,,Write-ins,0,0,0
+Yuba,9509,President,,,Write-ins,0,0,0
+Yuba,9510,President,,,Write-ins,0,0,0
+Yuba,9511,President,,,Write-ins,0,0,0
+Yuba,9512,President,,,Write-ins,0,0,0
+Yuba,9513,President,,,Write-ins,0,0,0
+Yuba,8101,U.S. House,3,DEM,John Garamendi,482,49,433
+Yuba,8102,U.S. House,3,DEM,John Garamendi,698,57,641
+Yuba,8103,U.S. House,3,DEM,John Garamendi,962,83,879
+Yuba,8201,U.S. House,3,DEM,John Garamendi,630,61,569
+Yuba,8202,U.S. House,3,DEM,John Garamendi,578,38,540
+Yuba,8203,U.S. House,3,DEM,John Garamendi,669,51,618
+Yuba,8204,U.S. House,3,DEM,John Garamendi,277,26,251
+Yuba,8301,U.S. House,3,DEM,John Garamendi,495,56,439
+Yuba,8302,U.S. House,3,DEM,John Garamendi,703,80,623
+Yuba,8303,U.S. House,3,DEM,John Garamendi,530,51,479
+Yuba,8401,U.S. House,3,DEM,John Garamendi,980,65,915
+Yuba,8402,U.S. House,3,DEM,John Garamendi,889,60,829
+Yuba,8403,U.S. House,3,DEM,John Garamendi,485,41,444
+Yuba,8404,U.S. House,3,DEM,John Garamendi,178,18,160
+Yuba,8501,U.S. House,3,DEM,John Garamendi,646,71,575
+Yuba,8502,U.S. House,3,DEM,John Garamendi,242,27,215
+Yuba,8503,U.S. House,3,DEM,John Garamendi,201,22,179
+Yuba,8504,U.S. House,3,DEM,John Garamendi,289,31,258
+Yuba,8505,U.S. House,3,DEM,John Garamendi,97,14,83
+Yuba,8506,U.S. House,3,DEM,John Garamendi,489,29,460
+Yuba,8507,U.S. House,3,DEM,John Garamendi,217,25,192
+Yuba,8508,U.S. House,3,DEM,John Garamendi,205,7,198
+Yuba,9104,U.S. House,3,DEM,John Garamendi,37,0,37
+Yuba,9304,U.S. House,3,DEM,John Garamendi,49,0,49
+Yuba,9305,U.S. House,3,DEM,John Garamendi,14,0,14
+Yuba,9306,U.S. House,3,DEM,John Garamendi,20,0,20
+Yuba,9307,U.S. House,3,DEM,John Garamendi,86,0,86
+Yuba,9405,U.S. House,3,DEM,John Garamendi,56,0,56
+Yuba,9406,U.S. House,3,DEM,John Garamendi,54,0,54
+Yuba,9509,U.S. House,3,DEM,John Garamendi,69,0,69
+Yuba,9510,U.S. House,3,DEM,John Garamendi,52,0,52
+Yuba,9511,U.S. House,3,DEM,John Garamendi,67,0,67
+Yuba,9512,U.S. House,3,DEM,John Garamendi,31,0,31
+Yuba,9513,U.S. House,3,DEM,John Garamendi,21,0,21
+Yuba,8101,U.S. House,3,REP,Tamika Hamilton,502,116,386
+Yuba,8102,U.S. House,3,REP,Tamika Hamilton,781,137,644
+Yuba,8103,U.S. House,3,REP,Tamika Hamilton,1307,223,1084
+Yuba,8201,U.S. House,3,REP,Tamika Hamilton,915,166,749
+Yuba,8202,U.S. House,3,REP,Tamika Hamilton,871,119,752
+Yuba,8203,U.S. House,3,REP,Tamika Hamilton,701,118,583
+Yuba,8204,U.S. House,3,REP,Tamika Hamilton,288,73,215
+Yuba,8301,U.S. House,3,REP,Tamika Hamilton,661,136,525
+Yuba,8302,U.S. House,3,REP,Tamika Hamilton,853,150,703
+Yuba,8303,U.S. House,3,REP,Tamika Hamilton,691,117,574
+Yuba,8401,U.S. House,3,REP,Tamika Hamilton,1400,231,1169
+Yuba,8402,U.S. House,3,REP,Tamika Hamilton,1484,248,1236
+Yuba,8403,U.S. House,3,REP,Tamika Hamilton,1111,204,907
+Yuba,8404,U.S. House,3,REP,Tamika Hamilton,577,103,474
+Yuba,8501,U.S. House,3,REP,Tamika Hamilton,500,127,373
+Yuba,8502,U.S. House,3,REP,Tamika Hamilton,438,82,356
+Yuba,8503,U.S. House,3,REP,Tamika Hamilton,384,69,315
+Yuba,8504,U.S. House,3,REP,Tamika Hamilton,965,182,783
+Yuba,8505,U.S. House,3,REP,Tamika Hamilton,513,130,383
+Yuba,8506,U.S. House,3,REP,Tamika Hamilton,1254,236,1018
+Yuba,8507,U.S. House,3,REP,Tamika Hamilton,366,66,300
+Yuba,8508,U.S. House,3,REP,Tamika Hamilton,134,10,124
+Yuba,9104,U.S. House,3,REP,Tamika Hamilton,85,0,85
+Yuba,9304,U.S. House,3,REP,Tamika Hamilton,96,0,96
+Yuba,9305,U.S. House,3,REP,Tamika Hamilton,47,0,47
+Yuba,9306,U.S. House,3,REP,Tamika Hamilton,57,0,57
+Yuba,9307,U.S. House,3,REP,Tamika Hamilton,155,0,155
+Yuba,9405,U.S. House,3,REP,Tamika Hamilton,124,0,124
+Yuba,9406,U.S. House,3,REP,Tamika Hamilton,86,0,86
+Yuba,9509,U.S. House,3,REP,Tamika Hamilton,105,0,105
+Yuba,9510,U.S. House,3,REP,Tamika Hamilton,85,0,85
+Yuba,9511,U.S. House,3,REP,Tamika Hamilton,124,0,124
+Yuba,9512,U.S. House,3,REP,Tamika Hamilton,71,0,71
+Yuba,9513,U.S. House,3,REP,Tamika Hamilton,29,0,29
+Yuba,8101,State Assembly,3,DEM,James Henson,381,38,343
+Yuba,8102,State Assembly,3,DEM,James Henson,579,39,540
+Yuba,8103,State Assembly,3,DEM,James Henson,881,75,806
+Yuba,8201,State Assembly,3,DEM,James Henson,499,45,454
+Yuba,8202,State Assembly,3,DEM,James Henson,437,26,411
+Yuba,8203,State Assembly,3,DEM,James Henson,529,31,498
+Yuba,8204,State Assembly,3,DEM,James Henson,214,21,193
+Yuba,8301,State Assembly,3,DEM,James Henson,419,41,378
+Yuba,8302,State Assembly,3,DEM,James Henson,572,58,514
+Yuba,8303,State Assembly,3,DEM,James Henson,467,47,420
+Yuba,8401,State Assembly,3,DEM,James Henson,882,61,821
+Yuba,8402,State Assembly,3,DEM,James Henson,817,48,769
+Yuba,8403,State Assembly,3,DEM,James Henson,375,29,346
+Yuba,8404,State Assembly,3,DEM,James Henson,125,9,116
+Yuba,8501,State Assembly,3,DEM,James Henson,570,57,513
+Yuba,8502,State Assembly,3,DEM,James Henson,199,13,186
+Yuba,8503,State Assembly,3,DEM,James Henson,128,10,118
+Yuba,8504,State Assembly,3,DEM,James Henson,218,21,197
+Yuba,8505,State Assembly,3,DEM,James Henson,64,7,57
+Yuba,8506,State Assembly,3,DEM,James Henson,366,20,346
+Yuba,8507,State Assembly,3,DEM,James Henson,163,10,153
+Yuba,8508,State Assembly,3,DEM,James Henson,183,6,177
+Yuba,9104,State Assembly,3,DEM,James Henson,28,0,28
+Yuba,9304,State Assembly,3,DEM,James Henson,36,0,36
+Yuba,9305,State Assembly,3,DEM,James Henson,9,0,9
+Yuba,9306,State Assembly,3,DEM,James Henson,12,0,12
+Yuba,9307,State Assembly,3,DEM,James Henson,65,0,65
+Yuba,9405,State Assembly,3,DEM,James Henson,40,0,40
+Yuba,9406,State Assembly,3,DEM,James Henson,61,0,61
+Yuba,9509,State Assembly,3,DEM,James Henson,61,0,61
+Yuba,9510,State Assembly,3,DEM,James Henson,45,0,45
+Yuba,9511,State Assembly,3,DEM,James Henson,60,0,60
+Yuba,9512,State Assembly,3,DEM,James Henson,21,0,21
+Yuba,9513,State Assembly,3,DEM,James Henson,13,0,13
+Yuba,8101,State Assembly,3,REP,James Gallagher,594,124,470
+Yuba,8102,State Assembly,3,REP,James Gallagher,904,159,745
+Yuba,8103,State Assembly,3,REP,James Gallagher,1367,225,1142
+Yuba,8201,State Assembly,3,REP,James Gallagher,1036,183,853
+Yuba,8202,State Assembly,3,REP,James Gallagher,1009,133,876
+Yuba,8203,State Assembly,3,REP,James Gallagher,823,132,691
+Yuba,8204,State Assembly,3,REP,James Gallagher,348,74,274
+Yuba,8301,State Assembly,3,REP,James Gallagher,736,150,586
+Yuba,8302,State Assembly,3,REP,James Gallagher,964,170,794
+Yuba,8303,State Assembly,3,REP,James Gallagher,746,118,628
+Yuba,8401,State Assembly,3,REP,James Gallagher,1473,236,1237
+Yuba,8402,State Assembly,3,REP,James Gallagher,1512,249,1263
+Yuba,8403,State Assembly,3,REP,James Gallagher,1185,199,986
+Yuba,8404,State Assembly,3,REP,James Gallagher,614,107,507
+Yuba,8501,State Assembly,3,REP,James Gallagher,567,138,429
+Yuba,8502,State Assembly,3,REP,James Gallagher,477,95,382
+Yuba,8503,State Assembly,3,REP,James Gallagher,454,80,374
+Yuba,8504,State Assembly,3,REP,James Gallagher,1037,191,846
+Yuba,8505,State Assembly,3,REP,James Gallagher,546,137,409
+Yuba,8506,State Assembly,3,REP,James Gallagher,1370,238,1132
+Yuba,8507,State Assembly,3,REP,James Gallagher,411,80,331
+Yuba,8508,State Assembly,3,REP,James Gallagher,152,11,141
+Yuba,9104,State Assembly,3,REP,James Gallagher,88,0,88
+Yuba,9304,State Assembly,3,REP,James Gallagher,108,0,108
+Yuba,9305,State Assembly,3,REP,James Gallagher,54,0,54
+Yuba,9306,State Assembly,3,REP,James Gallagher,65,0,65
+Yuba,9307,State Assembly,3,REP,James Gallagher,173,0,173
+Yuba,9405,State Assembly,3,REP,James Gallagher,133,0,133
+Yuba,9406,State Assembly,3,REP,James Gallagher,74,0,74
+Yuba,9509,State Assembly,3,REP,James Gallagher,113,0,113
+Yuba,9510,State Assembly,3,REP,James Gallagher,89,0,89
+Yuba,9511,State Assembly,3,REP,James Gallagher,128,0,128
+Yuba,9512,State Assembly,3,REP,James Gallagher,81,0,81
+Yuba,9513,State Assembly,3,REP,James Gallagher,37,0,37
