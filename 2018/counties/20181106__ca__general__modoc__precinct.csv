@@ -1,48 +1,48 @@
 precinct,office,district,party,candidate,votes,provisional,absentee,polling,mail,county
-020 Fort Bidwell,Governor,,,GAVIN NEWSOM,28,1,0,0,27,Modoc
-040 Lake City,Governor,,,GAVIN NEWSOM,26,0,0,0,26,Modoc
-060 Cedarville,Governor,,,GAVIN NEWSOM,105,3,60,42,0,Modoc
-080 Eagleville,Governor,,,GAVIN NEWSOM,14,1,0,0,13,Modoc
-100 Dry Creek,Governor,,,GAVIN NEWSOM,26,0,0,0,26,Modoc
-140 Stateline-Willow Ranch,Governor,,,GAVIN NEWSOM,13,1,0,0,12,Modoc
-160 Davis Creek,Governor,,,GAVIN NEWSOM,8,0,0,0,8,Modoc
-180 North Fork,Governor,,,GAVIN NEWSOM,62,3,48,11,0,Modoc
-200 Alturas B,Governor,,,GAVIN NEWSOM,31,1,20,10,0,Modoc
-260 Alturas C,Governor,,,GAVIN NEWSOM,99,5,58,36,0,Modoc
-280 Alturas A,Governor,,,GAVIN NEWSOM,47,1,35,11,0,Modoc
-320 Alturas D,Governor,,,GAVIN NEWSOM,88,4,49,35,0,Modoc
-360 Parker Creek,Governor,,,GAVIN NEWSOM,13,0,0,0,13,Modoc
-380 South Fork,Governor,,,GAVIN NEWSOM,11,0,0,0,11,Modoc
-400 Hot Spring,Governor,,,GAVIN NEWSOM,32,2,23,7,0,Modoc
-410 Cal Pines,Governor,,,GAVIN NEWSOM,65,7,40,18,0,Modoc
-420 Canby,Governor,,,GAVIN NEWSOM,44,1,0,0,43,Modoc
-440 Adin,Governor,,,GAVIN NEWSOM,29,0,0,0,29,Modoc
-460 Lookout,Governor,,,GAVIN NEWSOM,24,0,0,0,24,Modoc
-480 Little Hot Spring (Day),Governor,,,GAVIN NEWSOM,14,0,0,0,14,Modoc
-500 Newell,Governor,,,GAVIN NEWSOM,41,2,26,13,0,Modoc
-MODOC CA,Governor,,,GAVIN NEWSOM,820,32,359,183,246,Modoc
-020 Fort Bidwell,Governor,,,JOHN H. COX,41,0,0,0,41,Modoc
-040 Lake City,Governor,,,JOHN H. COX,70,0,0,0,70,Modoc
-060 Cedarville,Governor,,,JOHN H. COX,208,2,123,83,0,Modoc
-080 Eagleville,Governor,,,JOHN H. COX,49,0,0,0,49,Modoc
-100 Dry Creek,Governor,,,JOHN H. COX,89,4,0,0,85,Modoc
-140 Stateline-Willow Ranch,Governor,,,JOHN H. COX,32,0,0,0,32,Modoc
-160 Davis Creek,Governor,,,JOHN H. COX,50,0,0,0,50,Modoc
-180 North Fork,Governor,,,JOHN H. COX,300,11,196,93,0,Modoc
-200 Alturas B,Governor,,,JOHN H. COX,93,3,69,21,0,Modoc
-260 Alturas C,Governor,,,JOHN H. COX,232,5,137,90,0,Modoc
-280 Alturas A,Governor,,,JOHN H. COX,141,6,85,50,0,Modoc
-320 Alturas D,Governor,,,JOHN H. COX,148,6,93,49,0,Modoc
-360 Parker Creek,Governor,,,JOHN H. COX,99,2,0,0,97,Modoc
-380 South Fork,Governor,,,JOHN H. COX,73,0,0,0,73,Modoc
-400 Hot Spring,Governor,,,JOHN H. COX,228,4,166,58,0,Modoc
-410 Cal Pines,Governor,,,JOHN H. COX,148,6,96,46,0,Modoc
-420 Canby,Governor,,,JOHN H. COX,100,1,0,0,99,Modoc
-440 Adin,Governor,,,JOHN H. COX,144,1,0,0,143,Modoc
-460 Lookout,Governor,,,JOHN H. COX,140,1,0,0,139,Modoc
-480 Little Hot Spring (Day),Governor,,,JOHN H. COX,41,0,0,0,41,Modoc
-500 Newell,Governor,,,JOHN H. COX,202,3,107,92,0,Modoc
-MODOC CA,Governor,,,JOHN H. COX,2628,55,1072,582,919,Modoc
+020 Fort Bidwell,Governor,,DEM,GAVIN NEWSOM,28,1,0,0,27,Modoc
+040 Lake City,Governor,,DEM,GAVIN NEWSOM,26,0,0,0,26,Modoc
+060 Cedarville,Governor,,DEM,GAVIN NEWSOM,105,3,60,42,0,Modoc
+080 Eagleville,Governor,,DEM,GAVIN NEWSOM,14,1,0,0,13,Modoc
+100 Dry Creek,Governor,,DEM,GAVIN NEWSOM,26,0,0,0,26,Modoc
+140 Stateline-Willow Ranch,Governor,,DEM,GAVIN NEWSOM,13,1,0,0,12,Modoc
+160 Davis Creek,Governor,,DEM,GAVIN NEWSOM,8,0,0,0,8,Modoc
+180 North Fork,Governor,,DEM,GAVIN NEWSOM,62,3,48,11,0,Modoc
+200 Alturas B,Governor,,DEM,GAVIN NEWSOM,31,1,20,10,0,Modoc
+260 Alturas C,Governor,,DEM,GAVIN NEWSOM,99,5,58,36,0,Modoc
+280 Alturas A,Governor,,DEM,GAVIN NEWSOM,47,1,35,11,0,Modoc
+320 Alturas D,Governor,,DEM,GAVIN NEWSOM,88,4,49,35,0,Modoc
+360 Parker Creek,Governor,,DEM,GAVIN NEWSOM,13,0,0,0,13,Modoc
+380 South Fork,Governor,,DEM,GAVIN NEWSOM,11,0,0,0,11,Modoc
+400 Hot Spring,Governor,,DEM,GAVIN NEWSOM,32,2,23,7,0,Modoc
+410 Cal Pines,Governor,,DEM,GAVIN NEWSOM,65,7,40,18,0,Modoc
+420 Canby,Governor,,DEM,GAVIN NEWSOM,44,1,0,0,43,Modoc
+440 Adin,Governor,,DEM,GAVIN NEWSOM,29,0,0,0,29,Modoc
+460 Lookout,Governor,,DEM,GAVIN NEWSOM,24,0,0,0,24,Modoc
+480 Little Hot Spring (Day),Governor,,DEM,GAVIN NEWSOM,14,0,0,0,14,Modoc
+500 Newell,Governor,,DEM,GAVIN NEWSOM,41,2,26,13,0,Modoc
+MODOC CA,Governor,,DEM,GAVIN NEWSOM,820,32,359,183,246,Modoc
+020 Fort Bidwell,Governor,,REP,JOHN H. COX,41,0,0,0,41,Modoc
+040 Lake City,Governor,,REP,JOHN H. COX,70,0,0,0,70,Modoc
+060 Cedarville,Governor,,REP,JOHN H. COX,208,2,123,83,0,Modoc
+080 Eagleville,Governor,,REP,JOHN H. COX,49,0,0,0,49,Modoc
+100 Dry Creek,Governor,,REP,JOHN H. COX,89,4,0,0,85,Modoc
+140 Stateline-Willow Ranch,Governor,,REP,JOHN H. COX,32,0,0,0,32,Modoc
+160 Davis Creek,Governor,,REP,JOHN H. COX,50,0,0,0,50,Modoc
+180 North Fork,Governor,,REP,JOHN H. COX,300,11,196,93,0,Modoc
+200 Alturas B,Governor,,REP,JOHN H. COX,93,3,69,21,0,Modoc
+260 Alturas C,Governor,,REP,JOHN H. COX,232,5,137,90,0,Modoc
+280 Alturas A,Governor,,REP,JOHN H. COX,141,6,85,50,0,Modoc
+320 Alturas D,Governor,,REP,JOHN H. COX,148,6,93,49,0,Modoc
+360 Parker Creek,Governor,,REP,JOHN H. COX,99,2,0,0,97,Modoc
+380 South Fork,Governor,,REP,JOHN H. COX,73,0,0,0,73,Modoc
+400 Hot Spring,Governor,,REP,JOHN H. COX,228,4,166,58,0,Modoc
+410 Cal Pines,Governor,,REP,JOHN H. COX,148,6,96,46,0,Modoc
+420 Canby,Governor,,REP,JOHN H. COX,100,1,0,0,99,Modoc
+440 Adin,Governor,,REP,JOHN H. COX,144,1,0,0,143,Modoc
+460 Lookout,Governor,,REP,JOHN H. COX,140,1,0,0,139,Modoc
+480 Little Hot Spring (Day),Governor,,REP,JOHN H. COX,41,0,0,0,41,Modoc
+500 Newell,Governor,,REP,JOHN H. COX,202,3,107,92,0,Modoc
+MODOC CA,Governor,,REP,JOHN H. COX,2628,55,1072,582,919,Modoc
 020 Fort Bidwell,Lieutenant Governor,,,ED HERNANDEZ,14,0,0,0,14,Modoc
 040 Lake City,Lieutenant Governor,,,ED HERNANDEZ,32,0,0,0,32,Modoc
 060 Cedarville,Lieutenant Governor,,,ED HERNANDEZ,83,2,47,34,0,Modoc
@@ -307,138 +307,138 @@ MODOC CA,Insurance Commissioner,,,RICARDO LARA,796,25,346,187,238,Modoc
 480 Little Hot Spring (Day),Insurance Commissioner,,,STEVE POIZNER,39,0,0,0,39,Modoc
 500 Newell,Insurance Commissioner,,,STEVE POIZNER,174,2,94,78,0,Modoc
 MODOC CA,Insurance Commissioner,,,STEVE POIZNER,2269,53,922,509,785,Modoc
-020 Fort Bidwell,U.S. Senate,,,DIANNE FEINSTEIN,21,1,0,0,20,Modoc
-040 Lake City,U.S. Senate,,,DIANNE FEINSTEIN,24,0,0,0,24,Modoc
-060 Cedarville,U.S. Senate,,,DIANNE FEINSTEIN,74,2,37,35,0,Modoc
-080 Eagleville,U.S. Senate,,,DIANNE FEINSTEIN,11,0,0,0,11,Modoc
-100 Dry Creek,U.S. Senate,,,DIANNE FEINSTEIN,22,0,0,0,22,Modoc
-140 Stateline-Willow Ranch,U.S. Senate,,,DIANNE FEINSTEIN,16,0,0,0,16,Modoc
-160 Davis Creek,U.S. Senate,,,DIANNE FEINSTEIN,10,0,0,0,10,Modoc
-180 North Fork,U.S. Senate,,,DIANNE FEINSTEIN,70,5,49,16,0,Modoc
-200 Alturas B,U.S. Senate,,,DIANNE FEINSTEIN,33,2,20,11,0,Modoc
-260 Alturas C,U.S. Senate,,,DIANNE FEINSTEIN,79,2,50,27,0,Modoc
-280 Alturas A,U.S. Senate,,,DIANNE FEINSTEIN,38,0,24,14,0,Modoc
-320 Alturas D,U.S. Senate,,,DIANNE FEINSTEIN,71,2,40,29,0,Modoc
-360 Parker Creek,U.S. Senate,,,DIANNE FEINSTEIN,16,0,0,0,16,Modoc
-380 South Fork,U.S. Senate,,,DIANNE FEINSTEIN,19,0,0,0,19,Modoc
-400 Hot Spring,U.S. Senate,,,DIANNE FEINSTEIN,45,1,28,16,0,Modoc
-410 Cal Pines,U.S. Senate,,,DIANNE FEINSTEIN,51,5,28,18,0,Modoc
-420 Canby,U.S. Senate,,,DIANNE FEINSTEIN,40,1,0,0,39,Modoc
-440 Adin,U.S. Senate,,,DIANNE FEINSTEIN,25,0,0,0,25,Modoc
-460 Lookout,U.S. Senate,,,DIANNE FEINSTEIN,31,1,0,0,30,Modoc
-480 Little Hot Spring (Day),U.S. Senate,,,DIANNE FEINSTEIN,9,0,0,0,9,Modoc
-500 Newell,U.S. Senate,,,DIANNE FEINSTEIN,46,1,22,23,0,Modoc
-MODOC CA,U.S. Senate,,,DIANNE FEINSTEIN,751,23,298,189,241,Modoc
-020 Fort Bidwell,U.S. Senate,,,KEVIN DE LEON,30,0,0,0,30,Modoc
-040 Lake City,U.S. Senate,,,KEVIN DE LEON,46,0,0,0,46,Modoc
-060 Cedarville,U.S. Senate,,,KEVIN DE LEON,173,3,99,71,0,Modoc
-080 Eagleville,U.S. Senate,,,KEVIN DE LEON,36,1,0,0,35,Modoc
-100 Dry Creek,U.S. Senate,,,KEVIN DE LEON,60,3,0,0,57,Modoc
-140 Stateline-Willow Ranch,U.S. Senate,,,KEVIN DE LEON,22,1,0,0,21,Modoc
-160 Davis Creek,U.S. Senate,,,KEVIN DE LEON,31,0,0,0,31,Modoc
-180 North Fork,U.S. Senate,,,KEVIN DE LEON,208,7,146,55,0,Modoc
-200 Alturas B,U.S. Senate,,,KEVIN DE LEON,58,1,44,13,0,Modoc
-260 Alturas C,U.S. Senate,,,KEVIN DE LEON,175,6,100,69,0,Modoc
-280 Alturas A,U.S. Senate,,,KEVIN DE LEON,114,5,73,36,0,Modoc
-320 Alturas D,U.S. Senate,,,KEVIN DE LEON,126,7,74,45,0,Modoc
-360 Parker Creek,U.S. Senate,,,KEVIN DE LEON,60,2,0,0,58,Modoc
-380 South Fork,U.S. Senate,,,KEVIN DE LEON,35,0,0,0,35,Modoc
-400 Hot Spring,U.S. Senate,,,KEVIN DE LEON,141,3,106,32,0,Modoc
-410 Cal Pines,U.S. Senate,,,KEVIN DE LEON,128,7,84,37,0,Modoc
-420 Canby,U.S. Senate,,,KEVIN DE LEON,61,1,0,0,60,Modoc
-440 Adin,U.S. Senate,,,KEVIN DE LEON,98,0,0,0,98,Modoc
-460 Lookout,U.S. Senate,,,KEVIN DE LEON,91,0,0,0,91,Modoc
-480 Little Hot Spring (Day),U.S. Senate,,,KEVIN DE LEON,32,0,0,0,32,Modoc
-500 Newell,U.S. Senate,,,KEVIN DE LEON,142,3,80,59,0,Modoc
-MODOC CA,U.S. Senate,,,KEVIN DE LEON,1867,50,806,417,594,Modoc
-020 Fort Bidwell,U.S. House,1,,AUDREY DENNEY,34,1,0,0,33,Modoc
-040 Lake City,U.S. House,1,,AUDREY DENNEY,36,0,0,0,36,Modoc
-060 Cedarville,U.S. House,1,,AUDREY DENNEY,124,3,68,53,0,Modoc
-080 Eagleville,U.S. House,1,,AUDREY DENNEY,17,1,0,0,16,Modoc
-100 Dry Creek,U.S. House,1,,AUDREY DENNEY,34,0,0,0,34,Modoc
-140 Stateline-Willow Ranch,U.S. House,1,,AUDREY DENNEY,20,1,0,0,19,Modoc
-160 Davis Creek,U.S. House,1,,AUDREY DENNEY,9,0,0,0,9,Modoc
-180 North Fork,U.S. House,1,,AUDREY DENNEY,84,2,65,17,0,Modoc
-200 Alturas B,U.S. House,1,,AUDREY DENNEY,43,2,30,11,0,Modoc
-260 Alturas C,U.S. House,1,,AUDREY DENNEY,118,4,77,37,0,Modoc
-280 Alturas A,U.S. House,1,,AUDREY DENNEY,57,2,42,13,0,Modoc
-320 Alturas D,U.S. House,1,,AUDREY DENNEY,107,5,58,44,0,Modoc
-360 Parker Creek,U.S. House,1,,AUDREY DENNEY,25,0,0,0,25,Modoc
-380 South Fork,U.S. House,1,,AUDREY DENNEY,17,0,0,0,17,Modoc
-400 Hot Spring,U.S. House,1,,AUDREY DENNEY,47,2,35,10,0,Modoc
-410 Cal Pines,U.S. House,1,,AUDREY DENNEY,70,7,44,19,0,Modoc
-420 Canby,U.S. House,1,,AUDREY DENNEY,44,0,0,0,44,Modoc
-440 Adin,U.S. House,1,,AUDREY DENNEY,39,0,0,0,39,Modoc
-460 Lookout,U.S. House,1,,AUDREY DENNEY,33,0,0,0,33,Modoc
-480 Little Hot Spring (Day),U.S. House,1,,AUDREY DENNEY,21,0,0,0,21,Modoc
-500 Newell,U.S. House,1,,AUDREY DENNEY,62,2,36,24,0,Modoc
-MODOC CA,U.S. House,1,,AUDREY DENNEY,1041,32,455,228,326,Modoc
-020 Fort Bidwell,U.S. House,1,,DOUG LA MALFA,35,0,0,0,35,Modoc
-040 Lake City,U.S. House,1,,DOUG LA MALFA,60,0,0,0,60,Modoc
-060 Cedarville,U.S. House,1,,DOUG LA MALFA,191,2,115,74,0,Modoc
-080 Eagleville,U.S. House,1,,DOUG LA MALFA,47,0,0,0,47,Modoc
-100 Dry Creek,U.S. House,1,,DOUG LA MALFA,82,4,0,0,78,Modoc
-140 Stateline-Willow Ranch,U.S. House,1,,DOUG LA MALFA,28,0,0,0,28,Modoc
-160 Davis Creek,U.S. House,1,,DOUG LA MALFA,49,0,0,0,49,Modoc
-180 North Fork,U.S. House,1,,DOUG LA MALFA,279,11,181,87,0,Modoc
-200 Alturas B,U.S. House,1,,DOUG LA MALFA,80,2,57,21,0,Modoc
-260 Alturas C,U.S. House,1,,DOUG LA MALFA,210,5,119,86,0,Modoc
-280 Alturas A,U.S. House,1,,DOUG LA MALFA,129,5,75,49,0,Modoc
-320 Alturas D,U.S. House,1,,DOUG LA MALFA,133,5,87,41,0,Modoc
-360 Parker Creek,U.S. House,1,,DOUG LA MALFA,90,2,0,0,88,Modoc
-380 South Fork,U.S. House,1,,DOUG LA MALFA,69,0,0,0,69,Modoc
-400 Hot Spring,U.S. House,1,,DOUG LA MALFA,213,4,153,56,0,Modoc
-410 Cal Pines,U.S. House,1,,DOUG LA MALFA,146,7,94,45,0,Modoc
-420 Canby,U.S. House,1,,DOUG LA MALFA,99,1,0,0,98,Modoc
-440 Adin,U.S. House,1,,DOUG LA MALFA,134,1,0,0,133,Modoc
-460 Lookout,U.S. House,1,,DOUG LA MALFA,132,1,0,0,131,Modoc
-480 Little Hot Spring (Day),U.S. House,1,,DOUG LA MALFA,35,0,0,0,35,Modoc
-500 Newell,U.S. House,1,,DOUG LA MALFA,180,3,96,81,0,Modoc
-MODOC CA,U.S. House,1,,DOUG LA MALFA,2421,53,977,540,851,Modoc
-020 Fort Bidwell,State Assembly,1,,BRIAN DAHLE,44,0,0,0,44,Modoc
-040 Lake City,State Assembly,1,,BRIAN DAHLE,72,0,0,0,72,Modoc
-060 Cedarville,State Assembly,1,,BRIAN DAHLE,219,3,130,86,0,Modoc
-080 Eagleville,State Assembly,1,,BRIAN DAHLE,48,0,0,0,48,Modoc
-100 Dry Creek,State Assembly,1,,BRIAN DAHLE,93,4,0,0,89,Modoc
-140 Stateline-Willow Ranch,State Assembly,1,,BRIAN DAHLE,34,0,0,0,34,Modoc
-160 Davis Creek,State Assembly,1,,BRIAN DAHLE,51,0,0,0,51,Modoc
-180 North Fork,State Assembly,1,,BRIAN DAHLE,305,11,197,97,0,Modoc
-200 Alturas B,State Assembly,1,,BRIAN DAHLE,94,2,68,24,0,Modoc
-260 Alturas C,State Assembly,1,,BRIAN DAHLE,244,5,140,99,0,Modoc
-280 Alturas A,State Assembly,1,,BRIAN DAHLE,150,6,93,51,0,Modoc
-320 Alturas D,State Assembly,1,,BRIAN DAHLE,158,4,99,55,0,Modoc
-360 Parker Creek,State Assembly,1,,BRIAN DAHLE,104,2,0,0,102,Modoc
-380 South Fork,State Assembly,1,,BRIAN DAHLE,74,0,0,0,74,Modoc
-400 Hot Spring,State Assembly,1,,BRIAN DAHLE,234,5,171,58,0,Modoc
-410 Cal Pines,State Assembly,1,,BRIAN DAHLE,155,8,101,46,0,Modoc
-420 Canby,State Assembly,1,,BRIAN DAHLE,114,1,0,0,113,Modoc
-440 Adin,State Assembly,1,,BRIAN DAHLE,148,1,0,0,147,Modoc
-460 Lookout,State Assembly,1,,BRIAN DAHLE,138,1,0,0,137,Modoc
-480 Little Hot Spring (Day),State Assembly,1,,BRIAN DAHLE,45,0,0,0,45,Modoc
-500 Newell,State Assembly,1,,BRIAN DAHLE,204,4,109,91,0,Modoc
-MODOC CA,State Assembly,1,,BRIAN DAHLE,2728,57,1108,607,956,Modoc
-020 Fort Bidwell,State Assembly,1,,CALEEN SISK,25,1,0,0,24,Modoc
-040 Lake City,State Assembly,1,,CALEEN SISK,22,0,0,0,22,Modoc
-060 Cedarville,State Assembly,1,,CALEEN SISK,94,2,53,39,0,Modoc
-080 Eagleville,State Assembly,1,,CALEEN SISK,16,1,0,0,15,Modoc
-100 Dry Creek,State Assembly,1,,CALEEN SISK,22,0,0,0,22,Modoc
-140 Stateline-Willow Ranch,State Assembly,1,,CALEEN SISK,12,1,0,0,11,Modoc
-160 Davis Creek,State Assembly,1,,CALEEN SISK,7,0,0,0,7,Modoc
-180 North Fork,State Assembly,1,,CALEEN SISK,57,2,48,7,0,Modoc
-200 Alturas B,State Assembly,1,,CALEEN SISK,29,2,19,8,0,Modoc
-260 Alturas C,State Assembly,1,,CALEEN SISK,79,4,51,24,0,Modoc
-280 Alturas A,State Assembly,1,,CALEEN SISK,38,1,26,11,0,Modoc
-320 Alturas D,State Assembly,1,,CALEEN SISK,79,6,43,30,0,Modoc
-360 Parker Creek,State Assembly,1,,CALEEN SISK,12,0,0,0,12,Modoc
-380 South Fork,State Assembly,1,,CALEEN SISK,11,0,0,0,11,Modoc
-400 Hot Spring,State Assembly,1,,CALEEN SISK,25,1,17,7,0,Modoc
-410 Cal Pines,State Assembly,1,,CALEEN SISK,58,6,34,18,0,Modoc
-420 Canby,State Assembly,1,,CALEEN SISK,30,1,0,0,29,Modoc
-440 Adin,State Assembly,1,,CALEEN SISK,22,0,0,0,22,Modoc
-460 Lookout,State Assembly,1,,CALEEN SISK,23,0,0,0,23,Modoc
-480 Little Hot Spring (Day),State Assembly,1,,CALEEN SISK,11,0,0,0,11,Modoc
-500 Newell,State Assembly,1,,CALEEN SISK,35,0,21,14,0,Modoc
-MODOC CA,State Assembly,1,,CALEEN SISK,707,28,312,158,209,Modoc
+020 Fort Bidwell,U.S. Senate,,DEM,DIANNE FEINSTEIN,21,1,0,0,20,Modoc
+040 Lake City,U.S. Senate,,DEM,DIANNE FEINSTEIN,24,0,0,0,24,Modoc
+060 Cedarville,U.S. Senate,,DEM,DIANNE FEINSTEIN,74,2,37,35,0,Modoc
+080 Eagleville,U.S. Senate,,DEM,DIANNE FEINSTEIN,11,0,0,0,11,Modoc
+100 Dry Creek,U.S. Senate,,DEM,DIANNE FEINSTEIN,22,0,0,0,22,Modoc
+140 Stateline-Willow Ranch,U.S. Senate,,DEM,DIANNE FEINSTEIN,16,0,0,0,16,Modoc
+160 Davis Creek,U.S. Senate,,DEM,DIANNE FEINSTEIN,10,0,0,0,10,Modoc
+180 North Fork,U.S. Senate,,DEM,DIANNE FEINSTEIN,70,5,49,16,0,Modoc
+200 Alturas B,U.S. Senate,,DEM,DIANNE FEINSTEIN,33,2,20,11,0,Modoc
+260 Alturas C,U.S. Senate,,DEM,DIANNE FEINSTEIN,79,2,50,27,0,Modoc
+280 Alturas A,U.S. Senate,,DEM,DIANNE FEINSTEIN,38,0,24,14,0,Modoc
+320 Alturas D,U.S. Senate,,DEM,DIANNE FEINSTEIN,71,2,40,29,0,Modoc
+360 Parker Creek,U.S. Senate,,DEM,DIANNE FEINSTEIN,16,0,0,0,16,Modoc
+380 South Fork,U.S. Senate,,DEM,DIANNE FEINSTEIN,19,0,0,0,19,Modoc
+400 Hot Spring,U.S. Senate,,DEM,DIANNE FEINSTEIN,45,1,28,16,0,Modoc
+410 Cal Pines,U.S. Senate,,DEM,DIANNE FEINSTEIN,51,5,28,18,0,Modoc
+420 Canby,U.S. Senate,,DEM,DIANNE FEINSTEIN,40,1,0,0,39,Modoc
+440 Adin,U.S. Senate,,DEM,DIANNE FEINSTEIN,25,0,0,0,25,Modoc
+460 Lookout,U.S. Senate,,DEM,DIANNE FEINSTEIN,31,1,0,0,30,Modoc
+480 Little Hot Spring (Day),U.S. Senate,,DEM,DIANNE FEINSTEIN,9,0,0,0,9,Modoc
+500 Newell,U.S. Senate,,DEM,DIANNE FEINSTEIN,46,1,22,23,0,Modoc
+MODOC CA,U.S. Senate,,DEM,DIANNE FEINSTEIN,751,23,298,189,241,Modoc
+020 Fort Bidwell,U.S. Senate,,DEM,KEVIN DE LEON,30,0,0,0,30,Modoc
+040 Lake City,U.S. Senate,,DEM,KEVIN DE LEON,46,0,0,0,46,Modoc
+060 Cedarville,U.S. Senate,,DEM,KEVIN DE LEON,173,3,99,71,0,Modoc
+080 Eagleville,U.S. Senate,,DEM,KEVIN DE LEON,36,1,0,0,35,Modoc
+100 Dry Creek,U.S. Senate,,DEM,KEVIN DE LEON,60,3,0,0,57,Modoc
+140 Stateline-Willow Ranch,U.S. Senate,,DEM,KEVIN DE LEON,22,1,0,0,21,Modoc
+160 Davis Creek,U.S. Senate,,DEM,KEVIN DE LEON,31,0,0,0,31,Modoc
+180 North Fork,U.S. Senate,,DEM,KEVIN DE LEON,208,7,146,55,0,Modoc
+200 Alturas B,U.S. Senate,,DEM,KEVIN DE LEON,58,1,44,13,0,Modoc
+260 Alturas C,U.S. Senate,,DEM,KEVIN DE LEON,175,6,100,69,0,Modoc
+280 Alturas A,U.S. Senate,,DEM,KEVIN DE LEON,114,5,73,36,0,Modoc
+320 Alturas D,U.S. Senate,,DEM,KEVIN DE LEON,126,7,74,45,0,Modoc
+360 Parker Creek,U.S. Senate,,DEM,KEVIN DE LEON,60,2,0,0,58,Modoc
+380 South Fork,U.S. Senate,,DEM,KEVIN DE LEON,35,0,0,0,35,Modoc
+400 Hot Spring,U.S. Senate,,DEM,KEVIN DE LEON,141,3,106,32,0,Modoc
+410 Cal Pines,U.S. Senate,,DEM,KEVIN DE LEON,128,7,84,37,0,Modoc
+420 Canby,U.S. Senate,,DEM,KEVIN DE LEON,61,1,0,0,60,Modoc
+440 Adin,U.S. Senate,,DEM,KEVIN DE LEON,98,0,0,0,98,Modoc
+460 Lookout,U.S. Senate,,DEM,KEVIN DE LEON,91,0,0,0,91,Modoc
+480 Little Hot Spring (Day),U.S. Senate,,DEM,KEVIN DE LEON,32,0,0,0,32,Modoc
+500 Newell,U.S. Senate,,DEM,KEVIN DE LEON,142,3,80,59,0,Modoc
+MODOC CA,U.S. Senate,,DEM,KEVIN DE LEON,1867,50,806,417,594,Modoc
+020 Fort Bidwell,U.S. House,1,DEM,AUDREY DENNEY,34,1,0,0,33,Modoc
+040 Lake City,U.S. House,1,DEM,AUDREY DENNEY,36,0,0,0,36,Modoc
+060 Cedarville,U.S. House,1,DEM,AUDREY DENNEY,124,3,68,53,0,Modoc
+080 Eagleville,U.S. House,1,DEM,AUDREY DENNEY,17,1,0,0,16,Modoc
+100 Dry Creek,U.S. House,1,DEM,AUDREY DENNEY,34,0,0,0,34,Modoc
+140 Stateline-Willow Ranch,U.S. House,1,DEM,AUDREY DENNEY,20,1,0,0,19,Modoc
+160 Davis Creek,U.S. House,1,DEM,AUDREY DENNEY,9,0,0,0,9,Modoc
+180 North Fork,U.S. House,1,DEM,AUDREY DENNEY,84,2,65,17,0,Modoc
+200 Alturas B,U.S. House,1,DEM,AUDREY DENNEY,43,2,30,11,0,Modoc
+260 Alturas C,U.S. House,1,DEM,AUDREY DENNEY,118,4,77,37,0,Modoc
+280 Alturas A,U.S. House,1,DEM,AUDREY DENNEY,57,2,42,13,0,Modoc
+320 Alturas D,U.S. House,1,DEM,AUDREY DENNEY,107,5,58,44,0,Modoc
+360 Parker Creek,U.S. House,1,DEM,AUDREY DENNEY,25,0,0,0,25,Modoc
+380 South Fork,U.S. House,1,DEM,AUDREY DENNEY,17,0,0,0,17,Modoc
+400 Hot Spring,U.S. House,1,DEM,AUDREY DENNEY,47,2,35,10,0,Modoc
+410 Cal Pines,U.S. House,1,DEM,AUDREY DENNEY,70,7,44,19,0,Modoc
+420 Canby,U.S. House,1,DEM,AUDREY DENNEY,44,0,0,0,44,Modoc
+440 Adin,U.S. House,1,DEM,AUDREY DENNEY,39,0,0,0,39,Modoc
+460 Lookout,U.S. House,1,DEM,AUDREY DENNEY,33,0,0,0,33,Modoc
+480 Little Hot Spring (Day),U.S. House,1,DEM,AUDREY DENNEY,21,0,0,0,21,Modoc
+500 Newell,U.S. House,1,DEM,AUDREY DENNEY,62,2,36,24,0,Modoc
+MODOC CA,U.S. House,1,DEM,AUDREY DENNEY,1041,32,455,228,326,Modoc
+020 Fort Bidwell,U.S. House,1,,AUDREY DENNEY,35,0,0,0,35,Modoc
+040 Lake City,U.S. House,1,REP,DOUG LA MALFA,60,0,0,0,60,Modoc
+060 Cedarville,U.S. House,1,REP,DOUG LA MALFA,191,2,115,74,0,Modoc
+080 Eagleville,U.S. House,1,REP,DOUG LA MALFA,47,0,0,0,47,Modoc
+100 Dry Creek,U.S. House,1,REP,DOUG LA MALFA,82,4,0,0,78,Modoc
+140 Stateline-Willow Ranch,U.S. House,1,REP,DOUG LA MALFA,28,0,0,0,28,Modoc
+160 Davis Creek,U.S. House,1,REP,DOUG LA MALFA,49,0,0,0,49,Modoc
+180 North Fork,U.S. House,1,REP,DOUG LA MALFA,279,11,181,87,0,Modoc
+200 Alturas B,U.S. House,1,REP,DOUG LA MALFA,80,2,57,21,0,Modoc
+260 Alturas C,U.S. House,1,REP,DOUG LA MALFA,210,5,119,86,0,Modoc
+280 Alturas A,U.S. House,1,REP,DOUG LA MALFA,129,5,75,49,0,Modoc
+320 Alturas D,U.S. House,1,REP,DOUG LA MALFA,133,5,87,41,0,Modoc
+360 Parker Creek,U.S. House,1,REP,DOUG LA MALFA,90,2,0,0,88,Modoc
+380 South Fork,U.S. House,1,REP,DOUG LA MALFA,69,0,0,0,69,Modoc
+400 Hot Spring,U.S. House,1,REP,DOUG LA MALFA,213,4,153,56,0,Modoc
+410 Cal Pines,U.S. House,1,REP,DOUG LA MALFA,146,7,94,45,0,Modoc
+420 Canby,U.S. House,1,REP,DOUG LA MALFA,99,1,0,0,98,Modoc
+440 Adin,U.S. House,1,REP,DOUG LA MALFA,134,1,0,0,133,Modoc
+460 Lookout,U.S. House,1,REP,DOUG LA MALFA,132,1,0,0,131,Modoc
+480 Little Hot Spring (Day),U.S. House,1,REP,DOUG LA MALFA,35,0,0,0,35,Modoc
+500 Newell,U.S. House,1,REP,DOUG LA MALFA,180,3,96,81,0,Modoc
+MODOC CA,U.S. House,1,REP,DOUG LA MALFA,2421,53,977,540,851,Modoc
+020 Fort Bidwell,State Assembly,1,REP,BRIAN DAHLE,44,0,0,0,44,Modoc
+040 Lake City,State Assembly,1,REP,BRIAN DAHLE,72,0,0,0,72,Modoc
+060 Cedarville,State Assembly,1,REP,BRIAN DAHLE,219,3,130,86,0,Modoc
+080 Eagleville,State Assembly,1,REP,BRIAN DAHLE,48,0,0,0,48,Modoc
+100 Dry Creek,State Assembly,1,REP,BRIAN DAHLE,93,4,0,0,89,Modoc
+140 Stateline-Willow Ranch,State Assembly,1,REP,BRIAN DAHLE,34,0,0,0,34,Modoc
+160 Davis Creek,State Assembly,1,REP,BRIAN DAHLE,51,0,0,0,51,Modoc
+180 North Fork,State Assembly,1,REP,BRIAN DAHLE,305,11,197,97,0,Modoc
+200 Alturas B,State Assembly,1,REP,BRIAN DAHLE,94,2,68,24,0,Modoc
+260 Alturas C,State Assembly,1,REP,BRIAN DAHLE,244,5,140,99,0,Modoc
+280 Alturas A,State Assembly,1,REP,BRIAN DAHLE,150,6,93,51,0,Modoc
+320 Alturas D,State Assembly,1,REP,BRIAN DAHLE,158,4,99,55,0,Modoc
+360 Parker Creek,State Assembly,1,REP,BRIAN DAHLE,104,2,0,0,102,Modoc
+380 South Fork,State Assembly,1,REP,BRIAN DAHLE,74,0,0,0,74,Modoc
+400 Hot Spring,State Assembly,1,REP,BRIAN DAHLE,234,5,171,58,0,Modoc
+410 Cal Pines,State Assembly,1,REP,BRIAN DAHLE,155,8,101,46,0,Modoc
+420 Canby,State Assembly,1,REP,BRIAN DAHLE,114,1,0,0,113,Modoc
+440 Adin,State Assembly,1,REP,BRIAN DAHLE,148,1,0,0,147,Modoc
+460 Lookout,State Assembly,1,REP,BRIAN DAHLE,138,1,0,0,137,Modoc
+480 Little Hot Spring (Day),State Assembly,1,REP,BRIAN DAHLE,45,0,0,0,45,Modoc
+500 Newell,State Assembly,1,REP,BRIAN DAHLE,204,4,109,91,0,Modoc
+MODOC CA,State Assembly,1,REP,BRIAN DAHLE,2728,57,1108,607,956,Modoc
+020 Fort Bidwell,State Assembly,1,DEM,CALEEN SISK,25,1,0,0,24,Modoc
+040 Lake City,State Assembly,1,DEM,CALEEN SISK,22,0,0,0,22,Modoc
+060 Cedarville,State Assembly,1,DEM,CALEEN SISK,94,2,53,39,0,Modoc
+080 Eagleville,State Assembly,1,DEM,CALEEN SISK,16,1,0,0,15,Modoc
+100 Dry Creek,State Assembly,1,DEM,CALEEN SISK,22,0,0,0,22,Modoc
+140 Stateline-Willow Ranch,State Assembly,1,DEM,CALEEN SISK,12,1,0,0,11,Modoc
+160 Davis Creek,State Assembly,1,DEM,CALEEN SISK,7,0,0,0,7,Modoc
+180 North Fork,State Assembly,1,DEM,CALEEN SISK,57,2,48,7,0,Modoc
+200 Alturas B,State Assembly,1,DEM,CALEEN SISK,29,2,19,8,0,Modoc
+260 Alturas C,State Assembly,1,DEM,CALEEN SISK,79,4,51,24,0,Modoc
+280 Alturas A,State Assembly,1,DEM,CALEEN SISK,38,1,26,11,0,Modoc
+320 Alturas D,State Assembly,1,DEM,CALEEN SISK,79,6,43,30,0,Modoc
+360 Parker Creek,State Assembly,1,DEM,CALEEN SISK,12,0,0,0,12,Modoc
+380 South Fork,State Assembly,1,DEM,CALEEN SISK,11,0,0,0,11,Modoc
+400 Hot Spring,State Assembly,1,DEM,CALEEN SISK,25,1,17,7,0,Modoc
+410 Cal Pines,State Assembly,1,DEM,CALEEN SISK,58,6,34,18,0,Modoc
+420 Canby,State Assembly,1,DEM,CALEEN SISK,30,1,0,0,29,Modoc
+440 Adin,State Assembly,1,DEM,CALEEN SISK,22,0,0,0,22,Modoc
+460 Lookout,State Assembly,1,DEM,CALEEN SISK,23,0,0,0,23,Modoc
+480 Little Hot Spring (Day),State Assembly,1,DEM,CALEEN SISK,11,0,0,0,11,Modoc
+500 Newell,State Assembly,1,DEM,CALEEN SISK,35,0,21,14,0,Modoc
+MODOC CA,State Assembly,1,DEM,CALEEN SISK,707,28,312,158,209,Modoc
 020 Fort Bidwell,Superintendent of Public Instruction,,,MARSHALL TUCK,39,0,0,0,39,Modoc
 040 Lake City,Superintendent of Public Instruction,,,MARSHALL TUCK,58,0,0,0,58,Modoc
 060 Cedarville,Superintendent of Public Instruction,,,MARSHALL TUCK,172,4,98,70,0,Modoc

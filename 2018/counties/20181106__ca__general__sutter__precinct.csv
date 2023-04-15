@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail
-Sutter,LO Comm 01,Governor,,Rep,John Cox,414,135,279
-Sutter,LO Comm 02,Governor,,Rep,John Cox,552,190,362
+Sutter,LO Comm 01 ,Governor,,Rep,John Cox,414,135,279
+Sutter,LO Comm 02 ,Governor,,Rep,John Cox,552,190,362
 Sutter,Dell Wayne 03,Governor,,Rep,John Cox,366,104,262
 Sutter,United Pent 04,Governor,,Rep,John Cox,941,234,707
 Sutter,United Pent 05,Governor,,Rep,John Cox,562,182,380
@@ -49,8 +49,8 @@ Sutter,47,Governor,,Rep,John Cox,45,0,16
 Sutter,48,Governor,,Rep,John Cox,183,0,92
 Sutter,49,Governor,,Rep,John Cox,302,0,99
 Sutter,50,Governor,,Rep,John Cox,45,0,33
-Sutter,LO Comm 01,Governor,,Dem,Gavin Newsom,469,153,316
-Sutter,LO Comm 02,Governor,,Dem,Gavin Newsom,531,155,376
+Sutter,LO Comm 01 ,Governor,,Dem,Gavin Newsom,469,153,316
+Sutter,LO Comm 02 ,Governor,,Dem,Gavin Newsom,531,155,376
 Sutter,Dell Wayne 03,Governor,,Dem,Gavin Newsom,232,56,176
 Sutter,United Pent 04,Governor,,Dem,Gavin Newsom,534,145,389
 Sutter,United Pent 05,Governor,,Dem,Gavin Newsom,311,102,209
@@ -99,8 +99,8 @@ Sutter,47,Governor,,Dem,Gavin Newsom,10,0,19
 Sutter,48,Governor,,Dem,Gavin Newsom,106,0,123
 Sutter,49,Governor,,Dem,Gavin Newsom,96,0,157
 Sutter,50,Governor,,Dem,Gavin Newsom,30,0,29
-Sutter,LO Comm 01,Lieutenant Governor,,Dem,Ed Hernandez,395,139,256
-Sutter,LO Comm 02,Lieutenant Governor,,Dem,Ed Hernandez,488,174,314
+Sutter,LO Comm 01 ,Lieutenant Governor,,Dem,Ed Hernandez,395,139,256
+Sutter,LO Comm 02 ,Lieutenant Governor,,Dem,Ed Hernandez,488,174,314
 Sutter,Dell Wayne 03,Lieutenant Governor,,Dem,Ed Hernandez,178,42,136
 Sutter,United Pent 04,Lieutenant Governor,,Dem,Ed Hernandez,446,125,321
 Sutter,United Pent 05,Lieutenant Governor,,Dem,Ed Hernandez,277,90,187
@@ -149,8 +149,8 @@ Sutter,47,Lieutenant Governor,,Dem,Ed Hernandez,16,0,10
 Sutter,48,Lieutenant Governor,,Dem,Ed Hernandez,92,0,108
 Sutter,49,Lieutenant Governor,,Dem,Ed Hernandez,99,0,107
 Sutter,50,Lieutenant Governor,,Dem,Ed Hernandez,33,0,35
-Sutter,LO Comm 01,Lieutenant Governor,,Dem,Eleni Kounalakis,358,104,254
-Sutter,LO Comm 02,Lieutenant Governor,,Dem,Eleni Kounalakis,452,123,329
+Sutter,LO Comm 01 ,Lieutenant Governor,,Dem,Eleni Kounalakis,358,104,254
+Sutter,LO Comm 02 ,Lieutenant Governor,,Dem,Eleni Kounalakis,452,123,329
 Sutter,Dell Wayne 03,Lieutenant Governor,,Dem,Eleni Kounalakis,294,77,217
 Sutter,United Pent 04,Lieutenant Governor,,Dem,Eleni Kounalakis,628,161,467
 Sutter,United Pent 05,Lieutenant Governor,,Dem,Eleni Kounalakis,408,133,275
@@ -199,8 +199,8 @@ Sutter,47,Lieutenant Governor,,Dem,Eleni Kounalakis,19,0,44
 Sutter,48,Lieutenant Governor,,Dem,Eleni Kounalakis,123,0,174
 Sutter,49,Lieutenant Governor,,Dem,Eleni Kounalakis,157,0,287
 Sutter,50,Lieutenant Governor,,Dem,Eleni Kounalakis,29,0,38
-Sutter,LO Comm 01,Secretary of State,,Dem,Alex Padilla,500,163,337
-Sutter,LO Comm 02,Secretary of State,,Dem,Alex Padilla,566,180,386
+Sutter,LO Comm 01 ,Secretary of State,,Dem,Alex Padilla,500,163,337
+Sutter,LO Comm 02 ,Secretary of State,,Dem,Alex Padilla,566,180,386
 Sutter,Dell Wayne 03,Secretary of State,,Dem,Alex Padilla,239,55,184
 Sutter,United Pent 04,Secretary of State,,Dem,Alex Padilla,557,152,405
 Sutter,United Pent 05,Secretary of State,,Dem,Alex Padilla,345,108,237
@@ -249,8 +249,8 @@ Sutter,47,Secretary of State,,Dem,Alex Padilla,10,0,42
 Sutter,48,Secretary of State,,Dem,Alex Padilla,108,0,172
 Sutter,49,Secretary of State,,Dem,Alex Padilla,107,0,282
 Sutter,50,Secretary of State,,Dem,Alex Padilla,35,0,35
-Sutter,LO Comm 01,Secretary of State,,Rep,Mark Meuser,368,123,245
-Sutter,LO Comm 02,Secretary of State,,Rep,Mark Meuser,492,159,333
+Sutter,LO Comm 01 ,Secretary of State,,Rep,Mark Meuser,368,123,245
+Sutter,LO Comm 02 ,Secretary of State,,Rep,Mark Meuser,492,159,333
 Sutter,Dell Wayne 03,Secretary of State,,Rep,Mark Meuser,346,98,248
 Sutter,United Pent 04,Secretary of State,,Rep,Mark Meuser,865,214,651
 Sutter,United Pent 05,Secretary of State,,Rep,Mark Meuser,511,172,339
@@ -299,8 +299,8 @@ Sutter,47,Secretary of State,,Rep,Mark Meuser,44,0,12
 Sutter,48,Secretary of State,,Rep,Mark Meuser,174,0,108
 Sutter,49,Secretary of State,,Rep,Mark Meuser,287,0,115
 Sutter,50,Secretary of State,,Rep,Mark Meuser,38,0,39
-Sutter,LO Comm 01,Controller,,Rep,Konstantinos Roditis,352,120,232
-Sutter,LO Comm 02,Controller,,Rep,Konstantinos Roditis,474,155,319
+Sutter,LO Comm 01 ,Controller,,Rep,Konstantinos Roditis,352,120,232
+Sutter,LO Comm 02 ,Controller,,Rep,Konstantinos Roditis,474,155,319
 Sutter,Dell Wayne 03,Controller,,Rep,Konstantinos Roditis,326,92,234
 Sutter,United Pent 04,Controller,,Rep,Konstantinos Roditis,811,200,611
 Sutter,United Pent 05,Controller,,Rep,Konstantinos Roditis,472,155,317
@@ -349,8 +349,8 @@ Sutter,47,Controller,,Rep,Konstantinos Roditis,42,0,42
 Sutter,48,Controller,,Rep,Konstantinos Roditis,172,0,172
 Sutter,49,Controller,,Rep,Konstantinos Roditis,282,0,282
 Sutter,50,Controller,,Rep,Konstantinos Roditis,35,0,35
-Sutter,LO Comm 01,Controller,,Dem,Betty Yee,513,163,350
-Sutter,LO Comm 02,Controller,,Dem,Betty Yee,587,183,404
+Sutter,LO Comm 01 ,Controller,,Dem,Betty Yee,513,163,350
+Sutter,LO Comm 02 ,Controller,,Dem,Betty Yee,587,183,404
 Sutter,Dell Wayne 03,Controller,,Dem,Betty Yee,256,62,194
 Sutter,United Pent 04,Controller,,Dem,Betty Yee,603,165,438
 Sutter,United Pent 05,Controller,,Dem,Betty Yee,381,120,261
@@ -399,8 +399,8 @@ Sutter,47,Controller,,Dem,Betty Yee,12,0,12
 Sutter,48,Controller,,Dem,Betty Yee,108,0,108
 Sutter,49,Controller,,Dem,Betty Yee,115,0,115
 Sutter,50,Controller,,Dem,Betty Yee,39,0,39
-Sutter,LO Comm 01,Treasurer,,Rep,Greg Conlon,376,122,254
-Sutter,LO Comm 02,Treasurer,,Rep,Greg Conlon,497,167,330
+Sutter,LO Comm 01 ,Treasurer,,Rep,Greg Conlon,376,122,254
+Sutter,LO Comm 02 ,Treasurer,,Rep,Greg Conlon,497,167,330
 Sutter,Dell Wayne 03,Treasurer,,Rep,Greg Conlon,342,98,244
 Sutter,United Pent 04,Treasurer,,Rep,Greg Conlon,872,217,655
 Sutter,United Pent 05,Treasurer,,Rep,Greg Conlon,502,168,334
@@ -449,8 +449,8 @@ Sutter,47,Treasurer,,Rep,Greg Conlon,43,0,43
 Sutter,48,Treasurer,,Rep,Greg Conlon,173,0,173
 Sutter,49,Treasurer,,Rep,Greg Conlon,285,0,285
 Sutter,50,Treasurer,,Rep,Greg Conlon,41,0,41
-Sutter,LO Comm 01,Treasurer,,Dem,Fiona Ma,486,161,325
-Sutter,LO Comm 02,Treasurer,,Dem,Fiona Ma,560,169,391
+Sutter,LO Comm 01 ,Treasurer,,Dem,Fiona Ma,486,161,325
+Sutter,LO Comm 02 ,Treasurer,,Dem,Fiona Ma,560,169,391
 Sutter,Dell Wayne 03,Treasurer,,Dem,Fiona Ma,241,57,184
 Sutter,United Pent 04,Treasurer,,Dem,Fiona Ma,537,145,392
 Sutter,United Pent 05,Treasurer,,Dem,Fiona Ma,350,108,242
@@ -499,8 +499,8 @@ Sutter,47,Treasurer,,Dem,Fiona Ma,11,0,11
 Sutter,48,Treasurer,,Dem,Fiona Ma,109,0,109
 Sutter,49,Treasurer,,Dem,Fiona Ma,107,0,107
 Sutter,50,Treasurer,,Dem,Fiona Ma,34,0,34
-Sutter,LO Comm 01,Attorney General,,Rep,Steven Bailey,379,123,256
-Sutter,LO Comm 02,Attorney General,,Rep,Steven Bailey,498,160,338
+Sutter,LO Comm 01 ,Attorney General,,Rep,Steven Bailey,379,123,256
+Sutter,LO Comm 02 ,Attorney General,,Rep,Steven Bailey,498,160,338
 Sutter,Dell Wayne 03,Attorney General,,Rep,Steven Bailey,353,98,255
 Sutter,United Pent 04,Attorney General,,Rep,Steven Bailey,890,216,674
 Sutter,United Pent 05,Attorney General,,Rep,Steven Bailey,527,168,359
@@ -549,8 +549,8 @@ Sutter,47,Attorney General,,Rep,Steven Bailey,44,0,44
 Sutter,48,Attorney General,,Rep,Steven Bailey,176,0,176
 Sutter,49,Attorney General,,Rep,Steven Bailey,296,0,296
 Sutter,50,Attorney General,,Rep,Steven Bailey,40,0,40
-Sutter,LO Comm 01,Attorney General,,Dem,Xavier Becerra,491,167,324
-Sutter,LO Comm 02,Attorney General,,Dem,Xavier Becerra,559,178,381
+Sutter,LO Comm 01 ,Attorney General,,Dem,Xavier Becerra,491,167,324
+Sutter,LO Comm 02 ,Attorney General,,Dem,Xavier Becerra,559,178,381
 Sutter,Dell Wayne 03,Attorney General,,Dem,Xavier Becerra,233,58,175
 Sutter,United Pent 04,Attorney General,,Dem,Xavier Becerra,526,146,38
 Sutter,United Pent 05,Attorney General,,Dem,Xavier Becerra,328,107,221
@@ -599,8 +599,8 @@ Sutter,47,Attorney General,,Dem,Xavier Becerra,10,0,10
 Sutter,48,Attorney General,,Dem,Xavier Becerra,110,0,110
 Sutter,49,Attorney General,,Dem,Xavier Becerra,101,0,101
 Sutter,50,Attorney General,,Dem,Xavier Becerra,34,0,34
-Sutter,LO Comm 01,Insurance Commissioner,,Dem,Ricardo Lara,440,147,293
-Sutter,LO Comm 02,Insurance Commissioner,,Dem,Ricardo Lara,495,155,340
+Sutter,LO Comm 01 ,Insurance Commissioner,,Dem,Ricardo Lara,440,147,293
+Sutter,LO Comm 02 ,Insurance Commissioner,,Dem,Ricardo Lara,495,155,340
 Sutter,Dell Wayne 03,Insurance Commissioner,,Dem,Ricardo Lara,205,47,158
 Sutter,United Pent 04,Insurance Commissioner,,Dem,Ricardo Lara,428,117,311
 Sutter,United Pent 05,Insurance Commissioner,,Dem,Ricardo Lara,267,93,174
@@ -649,8 +649,8 @@ Sutter,47,Insurance Commissioner,,Dem,Ricardo Lara,10,0,10
 Sutter,48,Insurance Commissioner,,Dem,Ricardo Lara,87,0,87
 Sutter,49,Insurance Commissioner,,Dem,Ricardo Lara,79,0,79
 Sutter,50,Insurance Commissioner,,Dem,Ricardo Lara,31,0,31
-Sutter,LO Comm 01,Insurance Commissioner,,NPP,Steve Poizner,394,122,272
-Sutter,LO Comm 02,Insurance Commissioner,,NPP,Steve Poizner,524,169,355
+Sutter,LO Comm 01 ,Insurance Commissioner,,NPP,Steve Poizner,394,122,272
+Sutter,LO Comm 02 ,Insurance Commissioner,,NPP,Steve Poizner,524,169,355
 Sutter,Dell Wayne 03,Insurance Commissioner,,NPP,Steve Poizner,353,101,252
 Sutter,United Pent 04,Insurance Commissioner,,NPP,Steve Poizner,899,218,681
 Sutter,United Pent 05,Insurance Commissioner,,NPP,Steve Poizner,556,171,385
@@ -699,8 +699,8 @@ Sutter,47,Insurance Commissioner,,NPP,Steve Poizner,42,0,42
 Sutter,48,Insurance Commissioner,,NPP,Steve Poizner,181,0,181
 Sutter,49,Insurance Commissioner,,NPP,Steve Poizner,284,0,284
 Sutter,50,Insurance Commissioner,,NPP,Steve Poizner,39,0,39
-Sutter,LO Comm 01,U.S. Senate,,Dem,Dianne Feinstein,356,116,240
-Sutter,LO Comm 02,U.S. Senate,,Dem,Dianne Feinstein,423,128,295
+Sutter,LO Comm 01 ,U.S. Senate,,Dem,Dianne Feinstein,356,116,240
+Sutter,LO Comm 02 ,U.S. Senate,,Dem,Dianne Feinstein,423,128,295
 Sutter,Dell Wayne 03,U.S. Senate,,Dem,Dianne Feinstein,219,51,168
 Sutter,United Pent 04,U.S. Senate,,Dem,Dianne Feinstein,522,149,373
 Sutter,United Pent 05,U.S. Senate,,Dem,Dianne Feinstein,288,100,188
@@ -749,8 +749,8 @@ Sutter,47,U.S. Senate,,Dem,Dianne Feinstein,11,0,11
 Sutter,48,U.S. Senate,,Dem,Dianne Feinstein,99,0,99
 Sutter,49,U.S. Senate,,Dem,Dianne Feinstein,133,0,133
 Sutter,50,U.S. Senate,,Dem,Dianne Feinstein,25,0,25
-Sutter,LO Comm 01,U.S. Senate,,Dem,Kevin DeLeon,443,140,303
-Sutter,LO Comm 02,U.S. Senate,,Dem,Kevin DeLeon,555,186,369
+Sutter,LO Comm 01 ,U.S. Senate,,Dem,Kevin DeLeon,443,140,303
+Sutter,LO Comm 02 ,U.S. Senate,,Dem,Kevin DeLeon,555,186,369
 Sutter,Dell Wayne 03,U.S. Senate,,Dem,Kevin DeLeon,275,69,206
 Sutter,United Pent 04,U.S. Senate,,Dem,Kevin DeLeon,640,150,490
 Sutter,United Pent 05,U.S. Senate,,Dem,Kevin DeLeon,431,136,295
@@ -799,8 +799,8 @@ Sutter,47,U.S. Senate,,Dem,Kevin DeLeon,27,0,27
 Sutter,48,U.S. Senate,,Dem,Kevin DeLeon,140,0,140
 Sutter,49,U.S. Senate,,Dem,Kevin DeLeon,176,0,176
 Sutter,50,U.S. Senate,,Dem,Kevin DeLeon,44,0,44
-Sutter,LO Comm 01,Superintendent of Public Instruction,,None,Marshall Tuck,495,,
-Sutter,LO Comm 02,Superintendent of Public Instruction,,None,Marshall Tuck,573,,
+Sutter,LO Comm 01 ,Superintendent of Public Instruction,,None,Marshall Tuck,495,,
+Sutter,LO Comm 02 ,Superintendent of Public Instruction,,None,Marshall Tuck,573,,
 Sutter,Dell Wayne 03,Superintendent of Public Instruction,,None,Marshall Tuck,362,,
 Sutter,United Pent 04,Superintendent of Public Instruction,,None,Marshall Tuck,853,,
 Sutter,United Pent 05,Superintendent of Public Instruction,,None,Marshall Tuck,547,,
@@ -849,8 +849,8 @@ Sutter,47,Superintendent of Public Instruction,,None,Marshall Tuck,34,,
 Sutter,48,Superintendent of Public Instruction,,None,Marshall Tuck,183,,
 Sutter,49,Superintendent of Public Instruction,,None,Marshall Tuck,241,,
 Sutter,50,Superintendent of Public Instruction,,None,Marshall Tuck,53,,
-Sutter,LO Comm 01,Superintendent of Public Instruction,,None,Tony Thurmond,311,,
-Sutter,LO Comm 02,Superintendent of Public Instruction,,None,Tony Thurmond,401,,
+Sutter,LO Comm 01 ,Superintendent of Public Instruction,,None,Tony Thurmond,311,,
+Sutter,LO Comm 02 ,Superintendent of Public Instruction,,None,Tony Thurmond,401,,
 Sutter,Dell Wayne 03,Superintendent of Public Instruction,,None,Tony Thurmond,153,,
 Sutter,United Pent 04,Superintendent of Public Instruction,,None,Tony Thurmond,422,,
 Sutter,United Pent 05,Superintendent of Public Instruction,,None,Tony Thurmond,251,,
@@ -899,8 +899,8 @@ Sutter,47,Superintendent of Public Instruction,,None,Tony Thurmond,10,,
 Sutter,48,Superintendent of Public Instruction,,None,Tony Thurmond,72,,
 Sutter,49,Superintendent of Public Instruction,,None,Tony Thurmond,99,,
 Sutter,50,Superintendent of Public Instruction,,None,Tony Thurmond,17,,
-Sutter,LO Comm 01,U.S. House,3,Dem,John Garamendi,531,172,359
-Sutter,LO Comm 02,U.S. House,3,Dem,John Garamendi,628,187,441
+Sutter,LO Comm 01 ,U.S. House,3,Dem,John Garamendi,531,172,359
+Sutter,LO Comm 02 ,U.S. House,3,Dem,John Garamendi,628,187,441
 Sutter,Dell Wayne 03,U.S. House,3,Dem,John Garamendi,268,66,202
 Sutter,United Pent 04,U.S. House,3,Dem,John Garamendi,639,169,470
 Sutter,United Pent 05,U.S. House,3,Dem,John Garamendi,404,126,278
@@ -949,8 +949,8 @@ Sutter,47,U.S. House,3,Dem,John Garamendi,14,0,14
 Sutter,48,U.S. House,3,Dem,John Garamendi,118,0,118
 Sutter,49,U.S. House,3,Dem,John Garamendi,126,0,126
 Sutter,50,U.S. House,3,Dem,John Garamendi,36,0,36
-Sutter,LO Comm 01,U.S. House,3,Rep,Charlie Schaupp,344,114,230
-Sutter,LO Comm 02,U.S. House,3,Rep,Charlie Schaupp,442,153,289
+Sutter,LO Comm 01 ,U.S. House,3,Rep,Charlie Schaupp,344,114,230
+Sutter,LO Comm 02 ,U.S. House,3,Rep,Charlie Schaupp,442,153,289
 Sutter,Dell Wayne 03,U.S. House,3,Rep,Charlie Schaupp,322,90,232
 Sutter,United Pent 04,U.S. House,3,Rep,Charlie Schaupp,800,203,597
 Sutter,United Pent 05,U.S. House,3,Rep,Charlie Schaupp,469,159,310
@@ -999,8 +999,8 @@ Sutter,47,U.S. House,3,Rep,Charlie Schaupp,41,0,41
 Sutter,48,U.S. House,3,Rep,Charlie Schaupp,167,0,167
 Sutter,49,U.S. House,3,Rep,Charlie Schaupp,274,0,274
 Sutter,50,U.S. House,3,Rep,Charlie Schaupp,38,0,38
-Sutter,LO Comm 01,State Senate,4,Dem,Philip Kim,445,148,297
-Sutter,LO Comm 02,State Senate,4,Dem,Philip Kim,494,153,341
+Sutter,LO Comm 01 ,State Senate,4,Dem,Philip Kim,445,148,297
+Sutter,LO Comm 02 ,State Senate,4,Dem,Philip Kim,494,153,341
 Sutter,Dell Wayne 03,State Senate,4,Dem,Philip Kim,222,53,169
 Sutter,United Pent 04,State Senate,4,Dem,Philip Kim,468,129,339
 Sutter,United Pent 05,State Senate,4,Dem,Philip Kim,308,95,213
@@ -1049,8 +1049,8 @@ Sutter,47,State Senate,4,Dem,Philip Kim,10,0,10
 Sutter,48,State Senate,4,Dem,Philip Kim,94,0,94
 Sutter,49,State Senate,4,Dem,Philip Kim,85,0,85
 Sutter,50,State Senate,4,Dem,Philip Kim,35,0,35
-Sutter,LO Comm 01,State Senate,4,Rep,James Nielsen,424,139,285
-Sutter,LO Comm 02,State Senate,4,Rep,James Nielsen,563,186,377
+Sutter,LO Comm 01 ,State Senate,4,Rep,James Nielsen,424,139,285
+Sutter,LO Comm 02 ,State Senate,4,Rep,James Nielsen,563,186,377
 Sutter,Dell Wayne 03,State Senate,4,Rep,James Nielsen,357,102,255
 Sutter,United Pent 04,State Senate,4,Rep,James Nielsen,946,239,707
 Sutter,United Pent 05,State Senate,4,Rep,James Nielsen,555,185,370
@@ -1099,8 +1099,8 @@ Sutter,47,State Senate,4,Rep,James Nielsen,45,0,45
 Sutter,48,State Senate,4,Rep,James Nielsen,183,0,183
 Sutter,49,State Senate,4,Rep,James Nielsen,313,0,313
 Sutter,50,State Senate,4,Rep,James Nielsen,39,0,39
-Sutter,LO Comm 01,State Assembly,3,Dem,Sonia Aery,445,148,297
-Sutter,LO Comm 02,State Assembly,3,Dem,Sonia Aery,502,153,349
+Sutter,LO Comm 01 ,State Assembly,3,Dem,Sonia Aery,445,148,297
+Sutter,LO Comm 02 ,State Assembly,3,Dem,Sonia Aery,502,153,349
 Sutter,Dell Wayne 03,State Assembly,3,Dem,Sonia Aery,211,46,165
 Sutter,United Pent 04,State Assembly,3,Dem,Sonia Aery,441,132,309
 Sutter,United Pent 05,State Assembly,3,Dem,Sonia Aery,304,98,206
@@ -1149,8 +1149,8 @@ Sutter,47,State Assembly,3,Dem,Sonia Aery,9,0,9
 Sutter,48,State Assembly,3,Dem,Sonia Aery,89,0,89
 Sutter,49,State Assembly,3,Dem,Sonia Aery,77,1,76
 Sutter,50,State Assembly,3,Dem,Sonia Aery,33,0,33
-Sutter,LO Comm 01,State Assembly,3,Rep,James Gallagher,421,136,285
-Sutter,LO Comm 02,State Assembly,3,Rep,James Gallagher,562,186,376
+Sutter,LO Comm 01 ,State Assembly,3,Rep,James Gallagher,421,136,285
+Sutter,LO Comm 02 ,State Assembly,3,Rep,James Gallagher,562,186,376
 Sutter,Dell Wayne 03,State Assembly,3,Rep,James Gallagher,372,110,262
 Sutter,United Pent 04,State Assembly,3,Rep,James Gallagher,1004,241,763
 Sutter,United Pent 05,State Assembly,3,Rep,James Gallagher,565,183,382

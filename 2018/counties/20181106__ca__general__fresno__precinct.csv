@@ -10741,7 +10741,7 @@ Fresno,417,U.S. House,4,Dem,Jessica Moore,32
 Fresno,418,U.S. House,4,Dem,Jessica Moore,82
 Fresno,1142,U.S. House,4,Dem,Jessica Moore,40
 Fresno,1143,U.S. House,4,Dem,Jessica Moore,28
-Fresno,FRESNO CA,U.S. House,4,Dem,Jessica Moore,1720
+Fresno,FRESNO CA ,U.S. House,4,Dem,Jessica Moore,1720
 Fresno,1,U.S. House,16,Dem,Jim Acosta,345
 Fresno,2,U.S. House,16,Dem,Jim Acosta,143
 Fresno,3,U.S. House,16,Dem,Jim Acosta,296
@@ -10964,7 +10964,7 @@ Fresno,1217,U.S. House,16,Dem,Jim Acosta,1
 Fresno,1218,U.S. House,16,Dem,Jim Acosta,16
 Fresno,1219,U.S. House,16,Dem,Jim Acosta,19
 Fresno,1220,U.S. House,16,Dem,Jim Acosta,9
-Fresno,FRESNO CA,U.S. House,16,Dem,Jim Acosta,39348
+Fresno,FRESNO CA ,U.S. House,16,Dem,Jim Acosta,39348
 Fresno,113,U.S. House,21,Dem,TJ Cox,256
 Fresno,114,U.S. House,21,Dem,TJ Cox,449
 Fresno,115,U.S. House,21,Dem,TJ Cox,168
@@ -11130,7 +11130,7 @@ Fresno,1134,U.S. House,21,Dem,TJ Cox,0
 Fresno,1150,U.S. House,21,Dem,TJ Cox,12
 Fresno,1181,U.S. House,21,Dem,TJ Cox,11
 Fresno,1182,U.S. House,21,Dem,TJ Cox,6
-Fresno,FRESNO CA,U.S. House,21,Dem,TJ Cox,19914
+Fresno,FRESNO CA ,U.S. House,21,Dem,TJ Cox,19914
 Fresno,93,U.S. House,22,Dem,Andrew Janz,446
 Fresno,94,U.S. House,22,Dem,Andrew Janz,408
 Fresno,95,U.S. House,22,Dem,Andrew Janz,648
@@ -11340,7 +11340,7 @@ Fresno,417,U.S. House,4,Rep,Tom McClintock,72
 Fresno,418,U.S. House,4,Rep,Tom McClintock,175
 Fresno,1142,U.S. House,4,Rep,Tom McClintock,141
 Fresno,1143,U.S. House,4,Rep,Tom McClintock,96
-Fresno,FRESNO CA,U.S. House,4,Rep,Tom McClintock,5072
+Fresno,FRESNO CA ,U.S. House,4,Rep,Tom McClintock,5072
 Fresno,1,U.S. House,16,Rep,Elizabeth Heng,75
 Fresno,2,U.S. House,16,Rep,Elizabeth Heng,23
 Fresno,3,U.S. House,16,Rep,Elizabeth Heng,53
@@ -11563,7 +11563,7 @@ Fresno,1217,U.S. House,16,Rep,Elizabeth Heng,1
 Fresno,1218,U.S. House,16,Rep,Elizabeth Heng,29
 Fresno,1219,U.S. House,16,Rep,Elizabeth Heng,28
 Fresno,1220,U.S. House,16,Rep,Elizabeth Heng,7
-Fresno,FRESNO CA,U.S. House,16,Rep,Elizabeth Heng,19506
+Fresno,FRESNO CA ,U.S. House,16,Rep,Elizabeth Heng,19506
 Fresno,113,U.S. House,21,Rep,David Valadao,197
 Fresno,114,U.S. House,21,Rep,David Valadao,141
 Fresno,115,U.S. House,21,Rep,David Valadao,77
@@ -11729,7 +11729,7 @@ Fresno,1134,U.S. House,21,Rep,David Valadao,0
 Fresno,1150,U.S. House,21,Rep,David Valadao,63
 Fresno,1181,U.S. House,21,Rep,David Valadao,16
 Fresno,1182,U.S. House,21,Rep,David Valadao,9
-Fresno,FRESNO CA,U.S. House,21,Rep,David Valadao,20480
+Fresno,FRESNO CA ,U.S. House,21,Rep,David Valadao,20480
 Fresno,93,U.S. House,22,Rep,Devin Nunes,350
 Fresno,94,U.S. House,22,Rep,Devin Nunes,400
 Fresno,95,U.S. House,22,Rep,Devin Nunes,590
@@ -12264,7 +12264,7 @@ Fresno,1218,State Senate,8,Dem,Paulina Miranda,15
 Fresno,1219,State Senate,8,Dem,Paulina Miranda,19
 Fresno,1220,State Senate,8,Dem,Paulina Miranda,7
 Fresno,1221,State Senate,8,Dem,Paulina Miranda,0
-Fresno,FRESNO CA,State Senate,8,Dem,Paulina Miranda,73710
+Fresno,FRESNO CA ,State Senate,8,Dem,Paulina Miranda,73710
 Fresno,113,State Senate,12,Dem,Anna Caballero,251
 Fresno,114,State Senate,12,Dem,Anna Caballero,448
 Fresno,115,State Senate,12,Dem,Anna Caballero,160
@@ -12370,7 +12370,7 @@ Fresno,1124,State Senate,12,Dem,Anna Caballero,23
 Fresno,1125,State Senate,12,Dem,Anna Caballero,14
 Fresno,1171,State Senate,12,Dem,Anna Caballero,20
 Fresno,1172,State Senate,12,Dem,Anna Caballero,0
-Fresno,FRESNO CA,State Senate,12,Dem,Anna Caballero,11461
+Fresno,FRESNO CA ,State Senate,12,Dem,Anna Caballero,11461
 Fresno,1,State Senate,14,Dem,Melissa Hurtado,362
 Fresno,2,State Senate,14,Dem,Melissa Hurtado,145
 Fresno,4,State Senate,14,Dem,Melissa Hurtado,211
@@ -12522,6 +12522,41 @@ Fresno,1202,State Senate,14,Dem,Melissa Hurtado,0
 Fresno,1209,State Senate,14,Dem,Melissa Hurtado,0
 Fresno,1211,State Senate,14,Dem,Melissa Hurtado,0
 Fresno,1212,State Senate,14,Dem,Melissa Hurtado,3
+Fresno,3,State Senate,14,Dem,Melissa Hurtado,302
+Fresno,13,State Senate,14,Dem,Melissa Hurtado,86
+Fresno,22,State Senate,14,Dem,Melissa Hurtado,314
+Fresno,38,State Senate,14,Dem,Melissa Hurtado,421
+Fresno,47,State Senate,14,Dem,Melissa Hurtado,89
+Fresno,51,State Senate,14,Dem,Melissa Hurtado,248
+Fresno,67,State Senate,14,Dem,Melissa Hurtado,75
+Fresno,152,State Senate,14,Dem,Melissa Hurtado,365
+Fresno,156,State Senate,14,Dem,Melissa Hurtado,216
+Fresno,158,State Senate,14,Dem,Melissa Hurtado,215
+Fresno,161,State Senate,14,Dem,Melissa Hurtado,215
+Fresno,191,State Senate,14,Dem,Melissa Hurtado,341
+Fresno,192,State Senate,14,Dem,Melissa Hurtado,179
+Fresno,197,State Senate,14,Dem,Melissa Hurtado,222
+Fresno,198,State Senate,14,Dem,Melissa Hurtado,305
+Fresno,280,State Senate,14,Dem,Melissa Hurtado,229
+Fresno,338,State Senate,14,Dem,Melissa Hurtado,303
+Fresno,1005,State Senate,14,Dem,Melissa Hurtado,40
+Fresno,1006,State Senate,14,Dem,Melissa Hurtado,0
+Fresno,1011,State Senate,14,Dem,Melissa Hurtado,81
+Fresno,1013,State Senate,14,Dem,Melissa Hurtado,18
+Fresno,1018,State Senate,14,Dem,Melissa Hurtado,7
+Fresno,1071,State Senate,14,Dem,Melissa Hurtado,0
+Fresno,1075,State Senate,14,Dem,Melissa Hurtado,3
+Fresno,1085,State Senate,14,Dem,Melissa Hurtado,50
+Fresno,1087,State Senate,14,Dem,Melissa Hurtado,0
+Fresno,1119,State Senate,14,Dem,Melissa Hurtado,8
+Fresno,1130,State Senate,14,Dem,Melissa Hurtado,2
+Fresno,1134,State Senate,14,Dem,Melissa Hurtado,0
+Fresno,1135,State Senate,14,Dem,Melissa Hurtado,0
+Fresno,1136,State Senate,14,Dem,Melissa Hurtado,41
+Fresno,1138,State Senate,14,Dem,Melissa Hurtado,2
+Fresno,1167,State Senate,14,Dem,Melissa Hurtado,0
+Fresno,1168,State Senate,14,Dem,Melissa Hurtado,29
+Fresno,1210,State Senate,14,Dem,Melissa Hurtado,0
 Fresno,FRESNO CA,State Senate,14,Dem,Melissa Hurtado,29811
 Fresno,28,State Senate,8,Rep,Andreas Borgeas,346
 Fresno,29,State Senate,8,Rep,Andreas Borgeas,255
@@ -12862,7 +12897,7 @@ Fresno,1218,State Senate,8,Rep,Andreas Borgeas,29
 Fresno,1219,State Senate,8,Rep,Andreas Borgeas,26
 Fresno,1220,State Senate,8,Rep,Andreas Borgeas,9
 Fresno,1221,State Senate,8,Rep,Andreas Borgeas,0
-Fresno,FRESNO CA,State Senate,8,Rep,Andreas Borgeas,102429
+Fresno,FRESNO CA ,State Senate,8,Rep,Andreas Borgeas,102429
 Fresno,113,State Senate,12,Rep,Rob Poythress,202
 Fresno,114,State Senate,12,Rep,Rob Poythress,141
 Fresno,115,State Senate,12,Rep,Rob Poythress,80
@@ -12968,7 +13003,7 @@ Fresno,1124,State Senate,12,Rep,Rob Poythress,36
 Fresno,1125,State Senate,12,Rep,Rob Poythress,19
 Fresno,1171,State Senate,12,Rep,Rob Poythress,20
 Fresno,1172,State Senate,12,Rep,Rob Poythress,0
-Fresno,FRESNO CA,State Senate,12,Rep,Rob Poythress,14611
+Fresno,FRESNO CA ,State Senate,12,Rep,Rob Poythress,14611
 Fresno,1,State Senate,14,Rep,Andy Vidak,51
 Fresno,2,State Senate,14,Rep,Andy Vidak,15
 Fresno,4,State Senate,14,Rep,Andy Vidak,43
@@ -13427,7 +13462,7 @@ Fresno,1218,State Assembly,23,Dem,Aileen Rizo,13
 Fresno,1219,State Assembly,23,Dem,Aileen Rizo,18
 Fresno,1220,State Assembly,23,Dem,Aileen Rizo,8
 Fresno,1221,State Assembly,23,Dem,Aileen Rizo,0
-Fresno,FRESNO CA,State Assembly,23,Dem,Aileen Rizo,66468
+Fresno,FRESNO CA ,State Assembly,23,Dem,Aileen Rizo,66468
 Fresno,1,State Assembly,31,Dem,Joaquin Arambula,377
 Fresno,2,State Assembly,31,Dem,Joaquin Arambula,148
 Fresno,3,State Assembly,31,Dem,Joaquin Arambula,309
@@ -13543,22 +13578,32 @@ Fresno,158,State Assembly,31,Dem,Joaquin Arambula,228
 Fresno,159,State Assembly,31,Dem,Joaquin Arambula,299
 Fresno,160,State Assembly,31,Dem,Joaquin Arambula,351
 Fresno,161,State Assembly,31,Dem,Joaquin Arambula,283
+Fresno,162,State Assembly,31,Dem,Joaquin Arambula,326
 Fresno,163,State Assembly,31,Dem,Joaquin Arambula,237
+Fresno,164,State Assembly,31,Dem,Joaquin Arambula,277
+Fresno,165,State Assembly,31,Dem,Joaquin Arambula,318
 Fresno,166,State Assembly,31,Dem,Joaquin Arambula,206
 Fresno,167,State Assembly,31,Dem,Joaquin Arambula,168
 Fresno,168,State Assembly,31,Dem,Joaquin Arambula,87
 Fresno,169,State Assembly,31,Dem,Joaquin Arambula,216
 Fresno,170,State Assembly,31,Dem,Joaquin Arambula,232
 Fresno,171,State Assembly,31,Dem,Joaquin Arambula,69
+Fresno,172,State Assembly,31,Dem,Joaquin Arambula,42
+Fresno,173,State Assembly,31,Dem,Joaquin Arambula,99
+Fresno,174,State Assembly,31,Dem,Joaquin Arambula,171
 Fresno,175,State Assembly,31,Dem,Joaquin Arambula,271
 Fresno,176,State Assembly,31,Dem,Joaquin Arambula,276
+Fresno,177,State Assembly,31,Dem,Joaquin Arambula,203
 Fresno,178,State Assembly,31,Dem,Joaquin Arambula,60
 Fresno,179,State Assembly,31,Dem,Joaquin Arambula,417
 Fresno,180,State Assembly,31,Dem,Joaquin Arambula,474
 Fresno,181,State Assembly,31,Dem,Joaquin Arambula,217
 Fresno,182,State Assembly,31,Dem,Joaquin Arambula,381
 Fresno,183,State Assembly,31,Dem,Joaquin Arambula,160
+Fresno,184,State Assembly,31,Dem,Joaquin Arambula,594
+Fresno,188,State Assembly,31,Dem,Joaquin Arambula,468
 Fresno,189,State Assembly,31,Dem,Joaquin Arambula,394
+Fresno,190,State Assembly,31,Dem,Joaquin Arambula,440
 Fresno,191,State Assembly,31,Dem,Joaquin Arambula,343
 Fresno,192,State Assembly,31,Dem,Joaquin Arambula,183
 Fresno,193,State Assembly,31,Dem,Joaquin Arambula,325
@@ -13569,6 +13614,7 @@ Fresno,197,State Assembly,31,Dem,Joaquin Arambula,253
 Fresno,198,State Assembly,31,Dem,Joaquin Arambula,347
 Fresno,199,State Assembly,31,Dem,Joaquin Arambula,132
 Fresno,200,State Assembly,31,Dem,Joaquin Arambula,316
+Fresno,201,State Assembly,31,Dem,Joaquin Arambula,169
 Fresno,202,State Assembly,31,Dem,Joaquin Arambula,302
 Fresno,203,State Assembly,31,Dem,Joaquin Arambula,326
 Fresno,204,State Assembly,31,Dem,Joaquin Arambula,412
@@ -13578,6 +13624,7 @@ Fresno,207,State Assembly,31,Dem,Joaquin Arambula,487
 Fresno,208,State Assembly,31,Dem,Joaquin Arambula,516
 Fresno,217,State Assembly,31,Dem,Joaquin Arambula,245
 Fresno,218,State Assembly,31,Dem,Joaquin Arambula,400
+Fresno,219,State Assembly,31,Dem,Joaquin Arambula,430
 Fresno,280,State Assembly,31,Dem,Joaquin Arambula,255
 Fresno,337,State Assembly,31,Dem,Joaquin Arambula,338
 Fresno,338,State Assembly,31,Dem,Joaquin Arambula,339
@@ -13586,6 +13633,7 @@ Fresno,340,State Assembly,31,Dem,Joaquin Arambula,167
 Fresno,341,State Assembly,31,Dem,Joaquin Arambula,147
 Fresno,342,State Assembly,31,Dem,Joaquin Arambula,103
 Fresno,343,State Assembly,31,Dem,Joaquin Arambula,180
+Fresno,345,State Assembly,31,Dem,Joaquin Arambula,357
 Fresno,364,State Assembly,31,Dem,Joaquin Arambula,627
 Fresno,365,State Assembly,31,Dem,Joaquin Arambula,415
 Fresno,375,State Assembly,31,Dem,Joaquin Arambula,281
@@ -13597,27 +13645,35 @@ Fresno,382,State Assembly,31,Dem,Joaquin Arambula,337
 Fresno,383,State Assembly,31,Dem,Joaquin Arambula,174
 Fresno,384,State Assembly,31,Dem,Joaquin Arambula,308
 Fresno,385,State Assembly,31,Dem,Joaquin Arambula,231
+Fresno,393,State Assembly,31,Dem,Joaquin Arambula,234
 Fresno,394,State Assembly,31,Dem,Joaquin Arambula,321
 Fresno,407,State Assembly,31,Dem,Joaquin Arambula,105
 Fresno,1001,State Assembly,31,Dem,Joaquin Arambula,40
 Fresno,1002,State Assembly,31,Dem,Joaquin Arambula,13
 Fresno,1003,State Assembly,31,Dem,Joaquin Arambula,57
 Fresno,1004,State Assembly,31,Dem,Joaquin Arambula,0
+Fresno,1005,State Assembly,31,Dem,Joaquin Arambula,45
 Fresno,1006,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1007,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1008,State Assembly,31,Dem,Joaquin Arambula,2
+Fresno,1009,State Assembly,31,Dem,Joaquin Arambula,1
 Fresno,1010,State Assembly,31,Dem,Joaquin Arambula,1
 Fresno,1011,State Assembly,31,Dem,Joaquin Arambula,82
 Fresno,1012,State Assembly,31,Dem,Joaquin Arambula,7
 Fresno,1013,State Assembly,31,Dem,Joaquin Arambula,20
+Fresno,1014,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1016,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1017,State Assembly,31,Dem,Joaquin Arambula,50
+Fresno,1018,State Assembly,31,Dem,Joaquin Arambula,14
 Fresno,1020,State Assembly,31,Dem,Joaquin Arambula,36
 Fresno,1021,State Assembly,31,Dem,Joaquin Arambula,47
 Fresno,1022,State Assembly,31,Dem,Joaquin Arambula,2
+Fresno,1023,State Assembly,31,Dem,Joaquin Arambula,4
 Fresno,1024,State Assembly,31,Dem,Joaquin Arambula,1
+Fresno,1025,State Assembly,31,Dem,Joaquin Arambula,8
 Fresno,1029,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1030,State Assembly,31,Dem,Joaquin Arambula,42
+Fresno,1031,State Assembly,31,Dem,Joaquin Arambula,44
 Fresno,1032,State Assembly,31,Dem,Joaquin Arambula,38
 Fresno,1033,State Assembly,31,Dem,Joaquin Arambula,28
 Fresno,1034,State Assembly,31,Dem,Joaquin Arambula,4
@@ -13635,9 +13691,13 @@ Fresno,1045,State Assembly,31,Dem,Joaquin Arambula,19
 Fresno,1046,State Assembly,31,Dem,Joaquin Arambula,26
 Fresno,1047,State Assembly,31,Dem,Joaquin Arambula,34
 Fresno,1048,State Assembly,31,Dem,Joaquin Arambula,16
+Fresno,1049,State Assembly,31,Dem,Joaquin Arambula,1
+Fresno,1050,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1051,State Assembly,31,Dem,Joaquin Arambula,21
 Fresno,1052,State Assembly,31,Dem,Joaquin Arambula,30
 Fresno,1053,State Assembly,31,Dem,Joaquin Arambula,8
+Fresno,1054,State Assembly,31,Dem,Joaquin Arambula,3
+Fresno,1055,State Assembly,31,Dem,Joaquin Arambula,78
 Fresno,1056,State Assembly,31,Dem,Joaquin Arambula,64
 Fresno,1057,State Assembly,31,Dem,Joaquin Arambula,41
 Fresno,1058,State Assembly,31,Dem,Joaquin Arambula,2
@@ -13648,6 +13708,8 @@ Fresno,1062,State Assembly,31,Dem,Joaquin Arambula,43
 Fresno,1063,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1064,State Assembly,31,Dem,Joaquin Arambula,11
 Fresno,1065,State Assembly,31,Dem,Joaquin Arambula,4
+Fresno,1066,State Assembly,31,Dem,Joaquin Arambula,40
+Fresno,1067,State Assembly,31,Dem,Joaquin Arambula,157
 Fresno,1068,State Assembly,31,Dem,Joaquin Arambula,13
 Fresno,1069,State Assembly,31,Dem,Joaquin Arambula,12
 Fresno,1070,State Assembly,31,Dem,Joaquin Arambula,66
@@ -13658,26 +13720,35 @@ Fresno,1074,State Assembly,31,Dem,Joaquin Arambula,3
 Fresno,1075,State Assembly,31,Dem,Joaquin Arambula,3
 Fresno,1076,State Assembly,31,Dem,Joaquin Arambula,3
 Fresno,1077,State Assembly,31,Dem,Joaquin Arambula,1
+Fresno,1078,State Assembly,31,Dem,Joaquin Arambula,0
+Fresno,1079,State Assembly,31,Dem,Joaquin Arambula,1
 Fresno,1080,State Assembly,31,Dem,Joaquin Arambula,3
 Fresno,1081,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1082,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1083,State Assembly,31,Dem,Joaquin Arambula,40
+Fresno,1084,State Assembly,31,Dem,Joaquin Arambula,2
 Fresno,1085,State Assembly,31,Dem,Joaquin Arambula,56
+Fresno,1086,State Assembly,31,Dem,Joaquin Arambula,42
 Fresno,1087,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1088,State Assembly,31,Dem,Joaquin Arambula,16
+Fresno,1089,State Assembly,31,Dem,Joaquin Arambula,42
 Fresno,1090,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1091,State Assembly,31,Dem,Joaquin Arambula,4
 Fresno,1092,State Assembly,31,Dem,Joaquin Arambula,17
 Fresno,1093,State Assembly,31,Dem,Joaquin Arambula,33
 Fresno,1094,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1095,State Assembly,31,Dem,Joaquin Arambula,13
+Fresno,1096,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1097,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1098,State Assembly,31,Dem,Joaquin Arambula,43
+Fresno,1099,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1100,State Assembly,31,Dem,Joaquin Arambula,13
 Fresno,1101,State Assembly,31,Dem,Joaquin Arambula,19
 Fresno,1102,State Assembly,31,Dem,Joaquin Arambula,24
 Fresno,1103,State Assembly,31,Dem,Joaquin Arambula,6
+Fresno,1104,State Assembly,31,Dem,Joaquin Arambula,4
 Fresno,1105,State Assembly,31,Dem,Joaquin Arambula,84
+Fresno,1106,State Assembly,31,Dem,Joaquin Arambula,3
 Fresno,1107,State Assembly,31,Dem,Joaquin Arambula,2
 Fresno,1108,State Assembly,31,Dem,Joaquin Arambula,33
 Fresno,1109,State Assembly,31,Dem,Joaquin Arambula,7
@@ -13691,6 +13762,7 @@ Fresno,1126,State Assembly,31,Dem,Joaquin Arambula,39
 Fresno,1127,State Assembly,31,Dem,Joaquin Arambula,18
 Fresno,1128,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1129,State Assembly,31,Dem,Joaquin Arambula,17
+Fresno,1130,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1131,State Assembly,31,Dem,Joaquin Arambula,56
 Fresno,1132,State Assembly,31,Dem,Joaquin Arambula,27
 Fresno,1133,State Assembly,31,Dem,Joaquin Arambula,0
@@ -13698,15 +13770,22 @@ Fresno,1134,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1135,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1138,State Assembly,31,Dem,Joaquin Arambula,2
 Fresno,1150,State Assembly,31,Dem,Joaquin Arambula,20
+Fresno,1156,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1157,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1158,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1159,State Assembly,31,Dem,Joaquin Arambula,1
+Fresno,1160,State Assembly,31,Dem,Joaquin Arambula,6
+Fresno,1161,State Assembly,31,Dem,Joaquin Arambula,28
+Fresno,1164,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1165,State Assembly,31,Dem,Joaquin Arambula,38
+Fresno,1166,State Assembly,31,Dem,Joaquin Arambula,8
 Fresno,1167,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1168,State Assembly,31,Dem,Joaquin Arambula,35
 Fresno,1169,State Assembly,31,Dem,Joaquin Arambula,6
 Fresno,1170,State Assembly,31,Dem,Joaquin Arambula,4
 Fresno,1171,State Assembly,31,Dem,Joaquin Arambula,23
+Fresno,1172,State Assembly,31,Dem,Joaquin Arambula,0
+Fresno,1175,State Assembly,31,Dem,Joaquin Arambula,61
 Fresno,1177,State Assembly,31,Dem,Joaquin Arambula,1
 Fresno,1178,State Assembly,31,Dem,Joaquin Arambula,2
 Fresno,1179,State Assembly,31,Dem,Joaquin Arambula,62
@@ -13716,8 +13795,9 @@ Fresno,1182,State Assembly,31,Dem,Joaquin Arambula,3
 Fresno,1200,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1202,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1210,State Assembly,31,Dem,Joaquin Arambula,0
+Fresno,1211,State Assembly,31,Dem,Joaquin Arambula,0
 Fresno,1212,State Assembly,31,Dem,Joaquin Arambula,4
-Fresno,FRESNO CA,State Assembly,31,Dem,Joaquin Arambula,54921
+Fresno,FRESNO CA ,State Assembly,31,Dem,Joaquin Arambula,54921
 Fresno,28,State Assembly,23,Rep,Jim Patterson,336
 Fresno,29,State Assembly,23,Rep,Jim Patterson,256
 Fresno,30,State Assembly,23,Rep,Jim Patterson,219
@@ -14024,7 +14104,7 @@ Fresno,1218,State Assembly,23,Rep,Jim Patterson,32
 Fresno,1219,State Assembly,23,Rep,Jim Patterson,28
 Fresno,1220,State Assembly,23,Rep,Jim Patterson,8
 Fresno,1221,State Assembly,23,Rep,Jim Patterson,0
-Fresno,FRESNO CA,State Assembly,23,Rep,Jim Patterson,97202
+Fresno,FRESNO CA ,State Assembly,23,Rep,Jim Patterson,97202
 Fresno,1,State Assembly,31,Rep,Lupe Espinoza,40
 Fresno,2,State Assembly,31,Rep,Lupe Espinoza,13
 Fresno,3,State Assembly,31,Rep,Lupe Espinoza,37
@@ -14314,4 +14394,49 @@ Fresno,1200,State Assembly,31,Rep,Lupe Espinoza,0
 Fresno,1202,State Assembly,31,Rep,Lupe Espinoza,0
 Fresno,1210,State Assembly,31,Rep,Lupe Espinoza,0
 Fresno,1212,State Assembly,31,Rep,Lupe Espinoza,0
-Fresno,FRESNO CA,State Assembly,31,Rep,Lupe Espinoza,29771
+Fresno,162,State Assembly,31,Rep,Lupe Espinoza,220
+Fresno,164,State Assembly,31,Rep,Lupe Espinoza,96
+Fresno,165,State Assembly,31,Rep,Lupe Espinoza,146
+Fresno,172,State Assembly,31,Rep,Lupe Espinoza,129
+Fresno,173,State Assembly,31,Rep,Lupe Espinoza,299
+Fresno,174,State Assembly,31,Rep,Lupe Espinoza,359
+Fresno,177,State Assembly,31,Rep,Lupe Espinoza,337
+Fresno,184,State Assembly,31,Rep,Lupe Espinoza,293
+Fresno,188,State Assembly,31,Rep,Lupe Espinoza,118
+Fresno,190,State Assembly,31,Rep,Lupe Espinoza,79
+Fresno,201,State Assembly,31,Rep,Lupe Espinoza,48
+Fresno,219,State Assembly,31,Rep,Lupe Espinoza,376
+Fresno,345,State Assembly,31,Rep,Lupe Espinoza,129
+Fresno,393,State Assembly,31,Rep,Lupe Espinoza,149
+Fresno,1005,State Assembly,31,Rep,Lupe Espinoza,9
+Fresno,1009,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1014,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1018,State Assembly,31,Rep,Lupe Espinoza,6
+Fresno,1023,State Assembly,31,Rep,Lupe Espinoza,2
+Fresno,1025,State Assembly,31,Rep,Lupe Espinoza,1
+Fresno,1031,State Assembly,31,Rep,Lupe Espinoza,33
+Fresno,1049,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1050,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1054,State Assembly,31,Rep,Lupe Espinoza,2
+Fresno,1055,State Assembly,31,Rep,Lupe Espinoza,24
+Fresno,1066,State Assembly,31,Rep,Lupe Espinoza,74
+Fresno,1067,State Assembly,31,Rep,Lupe Espinoza,117
+Fresno,1078,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1079,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1084,State Assembly,31,Rep,Lupe Espinoza,1
+Fresno,1086,State Assembly,31,Rep,Lupe Espinoza,40
+Fresno,1089,State Assembly,31,Rep,Lupe Espinoza,85
+Fresno,1096,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1099,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1104,State Assembly,31,Rep,Lupe Espinoza,13
+Fresno,1106,State Assembly,31,Rep,Lupe Espinoza,3
+Fresno,1130,State Assembly,31,Rep,Lupe Espinoza,16
+Fresno,1156,State Assembly,31,Rep,Lupe Espinoza,1
+Fresno,1160,State Assembly,31,Rep,Lupe Espinoza,1
+Fresno,1161,State Assembly,31,Rep,Lupe Espinoza,4
+Fresno,1164,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1166,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1172,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,1175,State Assembly,31,Rep,Lupe Espinoza,29
+Fresno,1211,State Assembly,31,Rep,Lupe Espinoza,0
+Fresno,Election Total,State Assembly,31,Rep,Lupe Espinoza,29771
