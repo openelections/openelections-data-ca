@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,early voting,election day,mail
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
 Tuolumne,100003,President,,DEMOCRAT,JULIAN CASTRO,0,0,0,0
 Tuolumne,100004,President,,DEMOCRAT,JULIAN CASTRO,0,0,0,0
 Tuolumne,101006,President,,DEMOCRAT,JULIAN CASTRO,0,0,0,0
