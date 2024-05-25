@@ -1,4 +1,7 @@
-# openelections-data-ca [![Build Status](https://travis-ci.org/openelections/openelections-data-ca.svg?branch=master)](https://travis-ci.org/openelections/openelections-data-ca)
+[![Build Status](https://github.com/openelections/openelections-data-ca/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ca/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-ca/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ca/actions/workflows/tests.yml?query=branch%3Amaster)
+
+# openelections-data-ca
 Pre-processed election results for California elections
 
 ## Code License
