@@ -104,8 +104,9 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-    vote_types.remove('Overvotes')
-    vote_types.remove('Undervotes')
+    vote_types.remove('regVotersCounty')
+#    vote_types.remove('Overvotes')
+#    vote_types.remove('Undervotes')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] #+ [x.replace(' ','_').lower() for x in vote_types]

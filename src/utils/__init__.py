@@ -64,7 +64,7 @@ def standardize_office_name(office):
     public_instruction_list = ["public instruction"]
     if (any(clean_string(item) in name for item in public_instruction_list) and not(any(clean_string(item) in name for item in not_accepted_offices))):
         return "Public Instruction"
-    us_house_list = ["us house","u.s. house", "united state house", "us representative", "u s representative", "u.s. representative"]
+    us_house_list = ["us house","u.s. house", "united State Assembly", "us representative", "u s representative", "u.s. representative"]
     if (any(clean_string(item) in name for item in us_house_list) and not(any(clean_string(item) in name for item in not_accepted_offices))):
         return "US House"
     master_list = lieutenant_governor_list + governor_list + attorney_general_list + us_senate_list + state_senate_list + state_assembly_list + secretary_of_state_list + controller_list + treasurer_list + insurance_commissionar_list + public_instruction_list + us_house_list
